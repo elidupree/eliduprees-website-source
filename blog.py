@@ -42,7 +42,6 @@ div.blog_page { margin-left:auto; margin-right:auto; max-width:75em; background-
 }
 @media screen and (max-width: '''+str(min_space_for_two_columns)+'''em) {
   div.blog_stream_and_right_bar { float:none; }
-  div.blog_right_bar { }
 }
 ''')
 
