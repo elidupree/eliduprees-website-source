@@ -15,8 +15,9 @@ left_padding = '''<div class="blog_left_padding">dfjkdf kdfkjfdjkdfkj dfjkdf jkd
 
 
 css.insert('''div.blog_stream { display:inline-block; min-width:20em; max-width:35em; }
-@media screen and (min-width: 40em) and (max-width: 65em) {
-  div.blog_stream { position:absolute; right:20em; }
+@media screen and (min-width: 40em) and (max-width: 55em) {
+  div.blog_stream { margin-right:20em; }
+  div.blog_right_bar { margin-left:-20em; }
 }''')
 css.insert('''div.blog_stream_and_right_bar { float:right; }''')
 css.insert('''div.blog_bottom { clear:both; }''')
