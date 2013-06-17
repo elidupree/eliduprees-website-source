@@ -34,7 +34,7 @@ div.blog_stream { display:inline-block;
   border-right:'''+str(min_side_space_for_post)+'''em solid gray; }
 div.blog_stream_and_right_bar { float:right; }
 div.blog_bottom { clear:both; }
-div.blog_page { margin-left:auto; margin-right:auto; max-width:75em; background-color:gray; }
+div.blog_page { margin-left:auto; margin-right:auto; max-width:'''+str(page_max_width)+'''em; background-color:gray; }
 
 @media screen and (min-width: '''+str(min_space_for_two_columns)+'''em) and (max-width: '''+str(min_space_for_full_post_width)+'''em) {
   div.blog_stream    { margin-right:'''+str(max_side_space-min_side_space_for_post)+'''em; }
