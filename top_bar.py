@@ -2,7 +2,7 @@
 
 import css
 
-css.insert("div.top_bar_category{ float:left; width:10em; text-align:center; background-color:red; }")
+css.insert("div.top_bar_category{ display:inline-block; width:10em; text-align:center; background-color:red; }")
 
 css.insert("div.top_bar_home{ float:left; background-color:black; color:yellow; }")
 css.insert("img.top_bar_home_image{ width:3em; height:3em }")
