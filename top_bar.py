@@ -45,11 +45,11 @@ a.top_bar_category_link {
   margin-right:'''+str(category_border_width)+'''em; }
 a:link.top_bar_category_link{ color:yellow }
 a:visited.top_bar_category_link{ color:orange }
-span.top_bar_category{
+span.top_bar_category {
   position:relative; display:inline-block;
   width:'''+str(category_image_width)+'''em; height:'''+str(bar_height-.5)+'''em;
   text-align:center;
-  background-color:red;
+  background-color: #444444;
   background-image: url("http://deqyc5bzdh53a.cloudfront.net/biscuits_2013_06_16.jpg");
   background-size:'''+str(category_image_width)+'''em '''+str(bar_height-.5)+'''em;
   border-radius:'''+str(button_border_radius)+'''em;
