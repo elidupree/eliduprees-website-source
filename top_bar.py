@@ -2,12 +2,12 @@
 
 import css
 
-category_width = 10
-num_categories = 5
-category_border_width = .8
-category_image_width = category_width - category_border_width
-all_categories_width = category_width * num_categories - category_border_width
 bar_height = 3
+category_button_width = 9
+num_categories = 5
+category_border_width = .7
+all_categories_width = category_button_width * num_categories + category_border_width * (num_categories - 1)
+category_button_height = bar_height - category_border_width
 home_image_width = bar_height
 home_text_width_twolines = 7
 home_width = home_image_width + home_text_width_twolines
@@ -43,11 +43,12 @@ span.top_bar_home_text {
 
 div.top_bar_categories {
   margin-left:auto; margin-right:auto;
-  max-width:'''+str(all_categories_width)+'''em; height:'''+str(bar_height-.5)+'''em;
-  background-color: transparent;
-  border-top: 0.25em solid transparent; border-bottom: 0.25em solid transparent; }
+  max-width:'''+str(all_categories_width)+'''em;
+  background-color: transparent; }
 a.top_bar_category_link {
   display:inline-block;
+  border-top:'''    +str(category_border_width / 2)+'''em solid transparent;
+  border-bottom: '''+str(category_border_width / 2)+'''em solid transparent;
   border-right:'''+str(category_border_width)+'''em solid transparent; }
 a.top_bar_category_link.far_right {
   border-right:0; }
@@ -55,11 +56,11 @@ a:link.top_bar_category_link{ color:yellow }
 a:visited.top_bar_category_link{ color:orange }
 span.top_bar_category {
   position:relative; display:inline-block;
-  width:'''+str(category_image_width)+'''em; height:'''+str(bar_height-.5)+'''em;
+  width:'''+str(category_button_width)+'''em; height:'''+str(category_button_height)+'''em;
   text-align:center;
   background-color: #444444;
   background-image: url("http://deqyc5bzdh53a.cloudfront.net/biscuits_2013_06_16.jpg");
-  background-size:'''+str(category_image_width)+'''em '''+str(bar_height-.5)+'''em;
+  background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em;
   border-radius:'''+str(button_border_radius)+'''em;
   vertical-align: bottom; } /* since it's an inline-block, we need this to stop it from creating a gutter for potential descenders */
 span.top_bar_category_text{
