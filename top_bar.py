@@ -11,6 +11,8 @@ bar_height = 3
 home_width = bar_height*3
 categories_hit_home_width = all_categories_width + 2*home_width
 
+button_border_radius = 0.5
+
 css.insert('''
 
 div.top_bar {
@@ -29,31 +31,36 @@ img.top_bar_home_image{
 
 div.top_bar_categories {
   margin-left:auto; margin-right:auto;
-  width:'''+str(all_categories_width)+'''em; height:'''+str(bar_height)+'''em;
-  background-color:orange; }
-a.top_bar_category_link{ display:inline-block; }
+  width:'''+str(all_categories_width)+'''em; height:'''+str(bar_height-.5)+'''em;
+  background-color: transparent;
+  border-top: 0.25em solid transparent; border-bottom: 0.25em solid transparent; }
+a.top_bar_category_link {
+  display:inline-block;
+  margin-right:'''+str(category_border_width)+'''em; }
 a:link.top_bar_category_link{ color:yellow }
 a:visited.top_bar_category_link{ color:orange }
 span.top_bar_category{
   position:relative; display:inline-block;
-  width:'''+str(category_image_width)+'''em; height:'''+str(bar_height)+'''em;
-  border-right:'''+str(category_border_width)+'''em solid black;
+  width:'''+str(category_image_width)+'''em; height:'''+str(bar_height-.5)+'''em;
   text-align:center;
   background-color:red;
   background-image: url("http://deqyc5bzdh53a.cloudfront.net/biscuits_2013_06_16.jpg");
-  background-size: '''+str(category_image_width)+'''em '''+str(bar_height)+'''em;
+  background-size:'''+str(category_image_width)+'''em '''+str(bar_height-.5)+'''em;
+  border-radius:'''+str(button_border_radius)+'''em;
   margin-bottom:-1em; } /* the negative margin-bottom is to eliminate a gutter whose origins we don't understand */
 span.top_bar_category_text{
   position:absolute; display:block;
   bottom:0; right:0; width:5em;
   background-color:black;
+  border-bottom-right-radius:'''+str(button_border_radius)+'''em;
+  border-top-left-radius:'''+str(button_border_radius)+'''em;
   font-size:120%; font-weight:bold; text-decoration:underline; }
   
 div.top_bar_login{
   position:absolute;
   right:0; top:0;
   height:'''+str(bar_height)+'''em;
-  background-color:black; color:yellow; }
+  padding: 0.25em 0.5em }
 
 @media screen and (max-width: '''+str(categories_hit_home_width)+'''em) {
   div.top_bar_categories {
@@ -90,5 +97,5 @@ def top_bar(category):
   comics = comics_string(category == "comics")
   blog   =   blog_string(category ==   "blog")
   shop   =   shop_string(category ==   "shop")
-  login  = '''<div class="top_bar_login">Login repr</div>'''
+  login  = '''<div class="top_bar_login"><a href="">Login /<br/>Register</a></div>'''
   return bar_wrap(home+categories_wrap(games+comics+blog+shop)+login)
