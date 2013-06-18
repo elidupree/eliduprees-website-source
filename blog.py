@@ -68,6 +68,7 @@ div.blog_post {
   padding:'''+str(text_padding_width)+'''em;
   background-color:white; }
 div.blog_end_links_2 {
+  clear:both;
   border-top:'''+str(post_separation/4)+'''em solid '''+background_color+''';
   border-bottom:'''+str(post_separation+min_side_space_for_post)+'''em solid '''+background_color+''';
   text-align:center; }
