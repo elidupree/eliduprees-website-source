@@ -24,7 +24,17 @@ min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all
 
 background_color = "#bbbb44";
 
-css.insert('''div.blog_post { border-top:'''+str(post_separation)+'''em solid '''+background_color+'''; padding:'''+str(text_padding_width)+'''em; background-color:white; }
+css.insert('''
+
+div.blog_page { margin-left:auto; margin-right:auto; min-width:'''+str(min_space_for_two_columns_with_least_margins)+'''em; max-width:'''+str(page_max_width)+'''em; background-color:'''+background_color+'''; }
+
+div.blog_stream_and_right_bar { float:right; }
+div.blog_stream { display:inline-block;
+  min-width:'''+str(post_padded_min_width)+'''em;
+  max-width:'''+str(post_padded_max_width)+'''em;
+  border-left:''' +str(min_side_space_for_post)+'''em solid transparent;
+  border-right:'''+str(min_side_space_for_post)+'''em solid transparent; }
+div.blog_bottom { clear:both; }
 
 div.blog_right_bar {
   display:inline-block;
@@ -34,15 +44,6 @@ div.blog_right_bar {
   border-top:1.5em solid '''+background_color+''';
   border-right:'''+str(min_side_space_for_post)+'''em solid '''+background_color+''';
   background-color:white; }
-
-div.blog_stream { display:inline-block;
-  min-width:'''+str(post_padded_min_width)+'''em;
-  max-width:'''+str(post_padded_max_width)+'''em;
-  border-left:''' +str(min_side_space_for_post)+'''em solid transparent;
-  border-right:'''+str(min_side_space_for_post)+'''em solid transparent; }
-div.blog_stream_and_right_bar { float:right; }
-div.blog_bottom { clear:both; }
-div.blog_page { margin-left:auto; margin-right:auto; min-width:'''+str(min_space_for_two_columns_with_least_margins)+'''em; max-width:'''+str(page_max_width)+'''em; background-color:'''+background_color+'''; }
 
 @media screen and (max-width: '''+str(min_space_for_full_post_width)+'''em) {
   div.blog_stream    { margin-right:'''+str(max_side_space-min_side_space_for_post)+'''em; }
@@ -61,6 +62,11 @@ div.blog_page { margin-left:auto; margin-right:auto; min-width:'''+str(min_space
   div.blog_stream    { border-right:0; }
   div.blog_right_bar { float:right; }
 }
+  
+div.blog_post {
+  border-top:'''+str(post_separation)+'''em solid '''+background_color+''';
+  padding:'''+str(text_padding_width)+'''em;
+  background-color:white; }
 ''')
 
 def fake_post():
