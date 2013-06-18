@@ -67,15 +67,33 @@ div.blog_post {
   border-top:'''+str(post_separation)+'''em solid '''+background_color+''';
   padding:'''+str(text_padding_width)+'''em;
   background-color:white; }
+div.blog_end_links_2 {
+  border-top:'''+str(post_separation/4)+'''em solid '''+background_color+''';
+  border-bottom:'''+str(post_separation+min_side_space_for_post)+'''em solid '''+background_color+''';
+  text-align:center; }
+a.blog_page_nav_link {
+  display: inline-block;
+  font-size: 200%;
+  padding:'''+str(text_padding_width/2)+'''em; }
+a.blog_page_nav_link.right {
+  float:right; }
 ''')
 
 def fake_post():
   return '''<div class="blog_post"><h1>Post title</h1><p>Lorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum</p><p>dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conv</p></div>'''
   
+def end_links():
+  return '''
+  <a href="" class="blog_page_nav_link">Older posts</a>
+  <a href="" class="blog_page_nav_link right">Newer posts</a>
+<div class="blog_end_links_2">
+  <a href="">Go back to the beginning and read in chronological order</a>
+</div>'''
+  
 right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a><p>something else</p></div>'''
 
 blog = '''<div class="blog_page"><div class="blog_stream_and_right_bar"><div class="blog_stream">
-'''+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div>'''
+'''+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div>'''
 
 
 def show_blog():
