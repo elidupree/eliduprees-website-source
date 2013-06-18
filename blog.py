@@ -22,7 +22,7 @@ min_space_for_two_columns_and_all_but_left_margin = min_space_for_two_columns_an
 min_space_for_two_columns_and_all_but_side_margins = min_space_for_two_columns_and_all_but_left_margin - min_side_space_for_post
 min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all_but_side_margins - min_side_space_for_post + maximally_pinched_margin
 
-background_color = "gray";
+background_color = "#bbbb44";
 
 css.insert("div.blog_post { border-top:"+str(post_separation)+"em solid "+background_color+"; padding:"+str(text_padding_width)+"em; background-color:white; }")
 def fake_post():
