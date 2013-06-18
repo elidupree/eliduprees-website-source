@@ -13,10 +13,12 @@ html,body {
   font-family: Times New Roman, Times, serif;
 }
 h1 { font-size: 300%; padding: 0.2em }
-p { margin-top: 0.75em; margin-bottom: 0.75em }
+p { margin: 0.9em 0; line-height:1.35em; text-indent: 2em }
 a:link { color:blue }
 a:visited { color:purple }
 '''
+
+# previously   p { margin-top: 0.75em; margin-bottom: 0.75em; }
 
 def insert(scss_snippet):
   global all_scss
