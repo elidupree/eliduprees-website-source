@@ -3,7 +3,7 @@
 import css
 
 category_width = 10
-num_categories = 4
+num_categories = 5
 all_categories_width = category_width * num_categories
 category_border_width = .8
 category_image_width = category_width - category_border_width
@@ -87,6 +87,8 @@ def games_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/games"><span class="top_bar_category"><span class="top_bar_category_text">Games</span></span></a>'''
 def comics_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/comics"><span class="top_bar_category"><span class="top_bar_category_text">Comics</span></span></a>'''
+def pacman_string(you_are_here):
+  return '''<a class="top_bar_category_link" href="/pacman"><span class="top_bar_category"><span class="top_bar_category_text">Pacman</span></span></a>'''
 def blog_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/blog"><span class="top_bar_category"><span class="top_bar_category_text">Blog</span></span></a>'''
 def shop_string(you_are_here):
@@ -103,7 +105,8 @@ def top_bar(category):
   home   =   home_string(category ==   "home")
   games  =  games_string(category ==  "games")
   comics = comics_string(category == "comics")
+  pacman = pacman_string(category == "pacman")
   blog   =   blog_string(category ==   "blog")
   shop   =   shop_string(category ==   "shop")
   login  = '''<div class="top_bar_login"><a class="top_bar_login_link" href="">Login /<br/>Register</a></div>'''
-  return bar_wrap(home+categories_wrap(games+comics+blog+shop)+login)
+  return bar_wrap(home+categories_wrap(games+comics+pacman+blog+shop)+login)
