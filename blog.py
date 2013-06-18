@@ -22,7 +22,9 @@ min_space_for_two_columns_and_all_but_left_margin = min_space_for_two_columns_an
 min_space_for_two_columns_and_all_but_side_margins = min_space_for_two_columns_and_all_but_left_margin - min_side_space_for_post
 min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all_but_side_margins - min_side_space_for_post + maximally_pinched_margin
 
-css.insert("div.blog_post { border-top:"+str(post_separation)+"em solid gray; padding:"+str(text_padding_width)+"em; background-color:white; }")
+background_color = "gray";
+
+css.insert("div.blog_post { border-top:"+str(post_separation)+"em solid "+background_color+"; padding:"+str(text_padding_width)+"em; background-color:white; }")
 def fake_post():
   return '''<div class="blog_post"><h1>Post title</h1><p>Lorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum</p><p>dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conv</p></div>'''
 
@@ -32,9 +34,8 @@ div.blog_right_bar {
   vertical-align:top;
   width:'''+str(right_bar_content_width)+'''em;
   padding:'''+str(text_padding_width)+'''em;
-  border:1.5em solid gray;
-  border-left:0;
-  border-right:'''+str(min_side_space_for_post)+'''em solid gray;
+  border-top:1.5em solid '''+background_color+''';
+  border-right:'''+str(min_side_space_for_post)+'''em solid '''+background_color+''';
   background-color:white; }''')
 right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a><p>something else</p></div>'''
 
@@ -43,11 +44,11 @@ css.insert('''
 div.blog_stream { display:inline-block;
   min-width:'''+str(post_padded_min_width)+'''em;
   max-width:'''+str(post_padded_max_width)+'''em;
-  border-left:''' +str(min_side_space_for_post)+'''em solid gray;
-  border-right:'''+str(min_side_space_for_post)+'''em solid gray; }
+  border-left:''' +str(min_side_space_for_post)+'''em solid transparent;
+  border-right:'''+str(min_side_space_for_post)+'''em solid transparent; }
 div.blog_stream_and_right_bar { float:right; }
 div.blog_bottom { clear:both; }
-div.blog_page { margin-left:auto; margin-right:auto; min-width:'''+str(min_space_for_two_columns_with_least_margins)+'''em; max-width:'''+str(page_max_width)+'''em; background-color:gray; }
+div.blog_page { margin-left:auto; margin-right:auto; min-width:'''+str(min_space_for_two_columns_with_least_margins)+'''em; max-width:'''+str(page_max_width)+'''em; background-color:'''+background_color+'''; }
 
 @media screen and (max-width: '''+str(min_space_for_full_post_width)+'''em) {
   div.blog_stream    { margin-right:'''+str(max_side_space-min_side_space_for_post)+'''em; }
