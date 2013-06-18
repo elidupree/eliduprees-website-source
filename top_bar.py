@@ -4,17 +4,23 @@ import css
 
 bar_height = 3
 category_button_width = 9
+category_text_width_regular_ems = 6
+category_text_width_modified_ems = category_text_width_regular_ems / 1.2
 num_categories = 5
-category_border_width = .7
+category_border_width = .65
 all_categories_width = category_button_width * num_categories + category_border_width * (num_categories - 1)
 category_button_height = bar_height - category_border_width
-home_image_width = bar_height
+home_image_width = bar_height * 2 / 3
+home_image_padding_on_each_side = home_image_width / 4
 home_text_width_twolines = 7
-home_width = home_image_width + home_text_width_twolines
+home_width = home_image_width + 2*home_image_padding_on_each_side + home_text_width_twolines
 login_width = 5
+text_parts_compressed_height = 1.5
 categories_hit_home_width = all_categories_width + 2*home_width
 categories_hit_login_width = all_categories_width + home_width + login_width
-categories_hit_home_image_width = all_categories_width + 2*home_image_width
+categories_hit_home_image_width = all_categories_width + 2*(home_image_width + home_image_padding_on_each_side)
+categories_get_squished_width = all_categories_width + 2*category_border_width
+categories_get_very_squished_width = category_text_width_regular_ems * num_categories * 1.2
 
 button_border_radius = 0.5
 
@@ -22,7 +28,7 @@ css.insert('''
 
 div.top_bar {
   display:inline-block;
-  width:100%;
+  width:100%; min-height:'''+str(bar_height)+'''em; 
   font-family: Arial, Helvetica, sans-serif;
   background-color:black;
   background-image: url("/top-bar-background.png");
@@ -34,7 +40,8 @@ div.top_bar_home {
 img.top_bar_home_image {
   vertical-align:top;
   display:inline-block;
-  width:'''+str(home_image_width)+'''em; height:'''+str(bar_height)+'''em; }
+  width:'''+str(home_image_width)+'''em; height:'''+str(bar_height)+'''em;
+  padding:0 '''+str(home_image_padding_on_each_side)+'''em }
 span.top_bar_home_text {
   padding: 0.25em 0em;
   display:inline-block;
@@ -63,9 +70,9 @@ span.top_bar_category {
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em;
   border-radius:'''+str(button_border_radius)+'''em;
   vertical-align: bottom; } /* since it's an inline-block, we need this to stop it from creating a gutter for potential descenders */
-span.top_bar_category_text{
+span.top_bar_category_text {
   position:absolute; display:block;
-  bottom:0; right:0; width:5em;
+  bottom:0; right:0; width:'''+str(category_text_width_modified_ems)+'''em;
   background-color:black;
   border-bottom-right-radius:'''+str(button_border_radius)+'''em;
   border-top-left-radius:'''+str(button_border_radius)+'''em;
@@ -87,9 +94,8 @@ a.top_bar_login_link {
 }
 @media screen and (max-width: '''+str(categories_hit_login_width)+'''em) {
   div.top_bar_categories {
-    
     margin-left:auto; margin-right:auto;
-    margin-top: 1.5em; }
+    margin-top:'''+str(text_parts_compressed_height)+'''em; }
   div.top_bar_home {
     width: 20em; }
   span.top_bar_home_text {
@@ -101,12 +107,30 @@ a.top_bar_login_link {
   img.top_bar_home_image {
     vertical-align:top;
     display:inline-block;
-    width:1.5em; height:1.5em; }
+    width:'''+str(text_parts_compressed_height*2/3)+'''em; height:'''+str(text_parts_compressed_height)+'''em;
+    padding:0 '''+str(home_image_padding_on_each_side/2)+'''em }
+}
+@media screen and (max-width: '''+str(categories_get_squished_width)+'''em) {
+  div.top_bar_categories {
+    margin-left:'''+str(100 * category_border_width / categories_get_squished_width)+'''%;
+    margin-right:0;
+    max-width:none; }
+  a.top_bar_category_link {
+    width:'''+str(100 / (num_categories))+'''%;
+    border-right:0 }
+  span.top_bar_category {
+    width:'''+str(100 * category_button_width / (category_button_width + category_border_width))+'''%; }
+}
+@media screen and (max-width: '''+str(categories_get_very_squished_width)+'''em) {
+  span.top_bar_category_text {
+    font-size: 100%;
+    width: 86%;
+  }
 }
 ''')
 
 def home_string(you_are_here):
-  return '''<div class="top_bar_home"><a href="/"><img class="top_bar_home_image" src="/site-logo.png" /><span class="top_bar_home_text">Eli Dupree's website</span></a></div>'''
+  return '''<div class="top_bar_home"><a href="/"><img class="top_bar_home_image" src="/site-logo-transparent-nosides.png" /><span class="top_bar_home_text">Eli Dupree's website</span></a></div>'''
 def games_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/games"><span class="top_bar_category"><span class="top_bar_category_text">Games</span></span></a>'''
 def comics_string(you_are_here):
