@@ -24,11 +24,8 @@ min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all
 
 background_color = "#bbbb44";
 
-css.insert("div.blog_post { border-top:"+str(post_separation)+"em solid "+background_color+"; padding:"+str(text_padding_width)+"em; background-color:white; }")
-def fake_post():
-  return '''<div class="blog_post"><h1>Post title</h1><p>Lorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum</p><p>dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conv</p></div>'''
+css.insert('''div.blog_post { border-top:'''+str(post_separation)+'''em solid '''+background_color+'''; padding:'''+str(text_padding_width)+'''em; background-color:white; }
 
-css.insert('''
 div.blog_right_bar {
   display:inline-block;
   vertical-align:top;
@@ -36,11 +33,8 @@ div.blog_right_bar {
   padding:'''+str(text_padding_width)+'''em;
   border-top:1.5em solid '''+background_color+''';
   border-right:'''+str(min_side_space_for_post)+'''em solid '''+background_color+''';
-  background-color:white; }''')
-right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a><p>something else</p></div>'''
+  background-color:white; }
 
-
-css.insert('''
 div.blog_stream { display:inline-block;
   min-width:'''+str(post_padded_min_width)+'''em;
   max-width:'''+str(post_padded_max_width)+'''em;
@@ -68,6 +62,11 @@ div.blog_page { margin-left:auto; margin-right:auto; min-width:'''+str(min_space
   div.blog_right_bar { float:right; }
 }
 ''')
+
+def fake_post():
+  return '''<div class="blog_post"><h1>Post title</h1><p>Lorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum</p><p>dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conv</p></div>'''
+  
+right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a><p>something else</p></div>'''
 
 blog = '''<div class="blog_page"><div class="blog_stream_and_right_bar"><div class="blog_stream">
 '''+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div>'''
