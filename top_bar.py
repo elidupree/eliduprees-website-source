@@ -124,7 +124,9 @@ a.top_bar_login_link {
 @media screen and (max-width: '''+str(categories_get_very_squished_width)+'''em) {
   span.top_bar_category_text {
     font-size: 100%;
-    width: 86%;
+    width: 100%;
+    border-top-left-radius:0;
+    border-bottom-left-radius:'''+str(button_border_radius)+'''em;
   }
 }
 ''')
