@@ -5,10 +5,10 @@ import css
 category_width = 10
 num_categories = 4
 all_categories_width = category_width * num_categories
-category_border_width = 1
+category_border_width = .8
 category_image_width = category_width - category_border_width
 bar_height = 3
-home_width = bar_height*3
+home_width = 10
 categories_hit_home_width = all_categories_width + 2*home_width
 
 button_border_radius = 0.5
@@ -18,16 +18,22 @@ css.insert('''
 div.top_bar {
   display:inline-block;
   width:100%;
+  font-family: Arial, Helvetica, sans-serif;
   background-color:black;
   background-image: url("/top-bar-background.png");
   background-size: 100% '''+str(bar_height)+'''em; }
 
 div.top_bar_home {
   position:absolute;
-  width:'''+str(home_width)+'''em; height:'''+str(bar_height)+'''em;
-  background-color:black; color:yellow; }
+  width:'''+str(home_width)+'''em; height:'''+str(bar_height)+'''em; }
 img.top_bar_home_image{
-  width:'''+str(home_width)+'''em; height:'''+str(bar_height)+'''em }
+  vertical-align:top;
+  display:inline-block;
+  width:'''+str(bar_height)+'''em; height:'''+str(bar_height)+'''em }
+span.top_bar_home_text {
+  padding: 0.25em 0em;
+  display:inline-block;
+  color:black; }
 
 div.top_bar_categories {
   margin-left:auto; margin-right:auto;
@@ -56,11 +62,13 @@ span.top_bar_category_text{
   border-top-left-radius:'''+str(button_border_radius)+'''em;
   font-size:120%; font-weight:bold; text-decoration:underline; }
   
-div.top_bar_login{
+div.top_bar_login {
   position:absolute;
   right:0; top:0;
   height:'''+str(bar_height)+'''em;
   padding: 0.25em 0.5em }
+a.top_bar_login_link {
+  color:black; text-decoration:underline; }
 
 @media screen and (max-width: '''+str(categories_hit_home_width)+'''em) {
   div.top_bar_categories {
@@ -74,7 +82,7 @@ div.top_bar_login{
 ''')
 
 def home_string(you_are_here):
-  return '''<div class="top_bar_home"><a class="top_bar_category_link" href="/"><img class="top_bar_home_image" src="/site-logo.png" /></a></div>'''
+  return '''<div class="top_bar_home"><a href="/"><img class="top_bar_home_image" src="/site-logo.png" /><span class="top_bar_home_text">Eli Dupree's<br/>website</span></a></div>'''
 def games_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/games"><span class="top_bar_category"><span class="top_bar_category_text">Games</span></span></a>'''
 def comics_string(you_are_here):
@@ -97,5 +105,5 @@ def top_bar(category):
   comics = comics_string(category == "comics")
   blog   =   blog_string(category ==   "blog")
   shop   =   shop_string(category ==   "shop")
-  login  = '''<div class="top_bar_login"><a href="">Login /<br/>Register</a></div>'''
+  login  = '''<div class="top_bar_login"><a class="top_bar_login_link" href="">Login /<br/>Register</a></div>'''
   return bar_wrap(home+categories_wrap(games+comics+blog+shop)+login)
