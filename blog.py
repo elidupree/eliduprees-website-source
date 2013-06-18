@@ -75,7 +75,8 @@ div.blog_end_links_2 {
 a.blog_page_nav_link {
   display: inline-block;
   font-size: 200%;
-  padding:'''+str(text_padding_width/2)+'''em; }
+  padding:'''+str(text_padding_width/4)+'''em;
+  margin:'''+str(text_padding_width/4)+'''em; }
 a.blog_page_nav_link.right {
   float:right; }
 ''')
