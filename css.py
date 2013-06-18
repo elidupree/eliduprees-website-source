@@ -8,8 +8,11 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input
 h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:inherit;}
 img{color:transparent;border:0;vertical-align:middle;-ms-interpolation-mode:bicubic;}
 
+html,body { color:black; background-color:black }
 h1 { font-size: 300%; padding: 0.2em }
 p { margin-top: 0.75em; margin-bottom: 0.75em }
+a:link { color:blue }
+a:visited { color:purple }
 '''
 
 def insert(scss_snippet):
