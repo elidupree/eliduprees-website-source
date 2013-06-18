@@ -28,20 +28,17 @@ right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar
 
 css.insert('''
 div.blog_stream { display:inline-block;
-  min-width:'''+str(post_content_min_width)+'''em;
-  max-width:'''+str(post_content_max_width)+'''em;
+  min-width:'''+str(post_padded_min_width)+'''em;
+  max-width:'''+str(post_padded_max_width)+'''em;
   border-left:''' +str(min_side_space_for_post)+'''em solid gray;
   border-right:'''+str(min_side_space_for_post)+'''em solid gray; }
 div.blog_stream_and_right_bar { float:right; }
 div.blog_bottom { clear:both; }
-div.blog_page { margin-left:auto; margin-right:auto; max-width:'''+str(page_max_width)+'''em; background-color:gray; }
+div.blog_page { margin-left:auto; margin-right:auto; min-width:'''+str(min_space_for_two_columns)+'''em; max-width:'''+str(page_max_width)+'''em; background-color:gray; }
 
-@media screen and (min-width: '''+str(min_space_for_two_columns)+'''em) and (max-width: '''+str(min_space_for_full_post_width)+'''em) {
+@media screen and (max-width: '''+str(min_space_for_full_post_width)+'''em) {
   div.blog_stream    { margin-right:'''+str(max_side_space-min_side_space_for_post)+'''em; }
   div.blog_right_bar { margin-left:-'''+str(max_side_space-min_side_space_for_post)+'''em; }
-}
-@media screen and (max-width: '''+str(min_space_for_two_columns)+'''em) {
-  div.blog_stream_and_right_bar { float:none; }
 }
 ''')
 
