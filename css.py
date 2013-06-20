@@ -11,12 +11,24 @@ img{color:transparent;border:0;vertical-align:middle;-ms-interpolation-mode:bicu
 html,body {
   color:black; background-color:black;
   font-family: Times New Roman, Times, serif;
-  min-height:100%;
+  height: 100%;
 }
 h1 { font-size: 300%; padding: 0.2em }
 p { margin: 0.9em 0; line-height:1.35em; text-indent: 2em }
 a:link { color:blue }
 a:visited { color:purple }
+img.background {
+/* Using an img rather than "background-image:" because more browsers
+render progressive JPEGs progressively for non-background images */
+  position: absolute;
+  position: fixed;
+  display: block;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  right: 0;
+}
 '''
 
 # previously   p { margin-top: 0.75em; margin-bottom: 0.75em; }

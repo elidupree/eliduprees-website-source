@@ -27,10 +27,11 @@ button_border_radius = 0.5
 css.insert('''
 
 div.top_bar {
-  display:inline-block;
-  width:100%; min-height:'''+str(bar_height)+'''em; 
+  position: relative;
+  display: inline-block;
+  width: 100%; min-height:'''+str(bar_height)+'''em;
   font-family: Arial, Helvetica, sans-serif;
-  background-color:black;
+  background-color: black;
   background-image: url("/top-bar-background.png");
   background-size: 100% 100%; }
 

@@ -113,10 +113,10 @@ def end_links():
   
 right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a>'''+("\n".join([index_entry_html(p) for p in blog_posts.posts]))+'''</div>'''
 
-blog = '''<div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">
-'''+("\n".join([post_html(p) for p in blog_posts.posts]))+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div>'''
+blog = '''<div class="blog_page"><div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">
+'''+("\n".join([post_html(p) for p in blog_posts.posts]))+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div></div>'''
 
 
 def show_blog():
-  return html_pages.make_page("Eli Dupree's website ⊃ Blog", "", '<body class="blog_page">'+top_bar.top_bar("blog")+blog+'</body>')
+  return html_pages.make_page("Eli Dupree's website ⊃ Blog", "", '<body><div><img class="background" src="/blog-background.jpg"></img></div>'+top_bar.top_bar("blog")+blog+'</body>')
 
