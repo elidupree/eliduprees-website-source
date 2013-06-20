@@ -2,6 +2,7 @@ import css
 
 import html_pages
 import top_bar
+import blog_posts
 
 page_max_width = 75
 post_content_min_width = 20
@@ -72,6 +73,8 @@ div.blog_right_bar {
 }
   
 div.blog_post {
+  min-width:'''+str(post_content_min_width)+'''em;
+  max-width:'''+str(post_content_max_width)+'''em;
   margin-top:'''+str(post_separation)+'''em;
   padding:'''+str(text_padding_width)+'''em;
   background-color:white; }
@@ -89,6 +92,12 @@ a.blog_page_nav_link.right {
   float:right; }
 ''')
 
+def post_html(post_dict):
+  return '<div class="blog_post"><h1>'+post_dict["title"]+'</h1>'+post_dict["contents"]+'</div>'
+
+def index_entry_html(post_dict):
+  return '<div class="dict_entry"><a href="">'+post_dict["title"]+'</a></div>'
+
 def fake_post():
   return '''<div class="blog_post"><h1>Post title</h1><p>Lorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum</p><p>dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conv</p></div>'''
   
@@ -100,10 +109,10 @@ def end_links():
   <a href="">Go back to the beginning and read in chronological order</a>
 </div>'''
   
-right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a><p>something else</p></div>'''
+right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a>'''+("\n".join([index_entry_html(p) for p in blog_posts.posts]))+'''</div>'''
 
 blog = '''<div class="blog_page"><div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">
-'''+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div></div>'''
+'''+("\n".join([post_html(p) for p in blog_posts.posts]))+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div></div>'''
 
 
 def show_blog():
