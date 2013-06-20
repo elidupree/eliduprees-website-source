@@ -111,10 +111,10 @@ def end_links():
   <a class="blog_end_link" href="">Go back to the beginning and read in chronological order</a>
 </div>'''
   
-right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a>'''+("\n".join([index_entry_html(p) for p in blog_posts.posts]))+'''</div>'''
+right_bar = '''<div class="blog_right_bar"><nav><a href="/403">[Random post] I foobar yesterday</a>'''+("\n".join([index_entry_html(p) for p in blog_posts.posts]))+'''</nav></div>'''
 
-blog = '''<div class="blog_page"><div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">
-'''+("\n".join([post_html(p) for p in blog_posts.posts]))+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div></div>'''
+blog = '''<main><div class="blog_page"><div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">
+'''+("\n".join(['<article>'+post_html(p)+'</article>' for p in blog_posts.posts]))+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div></div></main>'''
 
 
 def show_blog():

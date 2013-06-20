@@ -160,4 +160,4 @@ def top_bar(category):
   blog   =   blog_string(category ==   "blog")
   shop   =   shop_string(category ==   "shop")
   login  = '''<div class="top_bar_login"><a class="top_bar_login_link" href="">Login / Register</a></div>'''
-  return bar_wrap(home+categories_wrap(games+comics+other+blog+shop)+login)
+  return bar_wrap('<header>'+home+categories_wrap(games+comics+other+blog+shop)+login+'</header>')
