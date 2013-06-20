@@ -1,7 +1,7 @@
 import css
 
 import html_pages
-import top_bar
+import bars
 import blog_posts
 
 page_max_width = 75
@@ -118,5 +118,5 @@ blog = '''<main><div class="blog_page"><div class="blog_page_limits"><div class=
 
 
 def show_blog():
-  return html_pages.make_page("Eli Dupree's website ⊃ Blog", "", '<body><div><img class="background" src="/blog-background.jpg"></img></div>'+top_bar.top_bar("blog")+blog+'</body>')
+  return html_pages.make_page("Eli Dupree's website ⊃ Blog", "", '<body><div><img role="presentation" alt="" class="background" src="/blog-background.jpg"></img></div>'+bars.bars_wrap("blog", blog)+'</body>')
 
