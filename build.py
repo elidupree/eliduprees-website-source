@@ -18,6 +18,6 @@ def putfile(path, contents):
 
 putfile(css.filename(), css.build())
 
-putfile("index.html", html_pages.make_page("Eli Dupree's website", "", top_bar.top_bar("home")))
+putfile("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar("home")+"</body>"))
 putfile("blog.html", blog.show_blog())
 

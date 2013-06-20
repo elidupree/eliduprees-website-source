@@ -11,6 +11,7 @@ img{color:transparent;border:0;vertical-align:middle;-ms-interpolation-mode:bicu
 html,body {
   color:black; background-color:black;
   font-family: Times New Roman, Times, serif;
+  height:100%;
 }
 h1 { font-size: 300%; padding: 0.2em }
 p { margin: 0.9em 0; line-height:1.35em; text-indent: 2em }

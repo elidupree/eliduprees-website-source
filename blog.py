@@ -26,7 +26,7 @@ min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all
 background_color = "#000000";
 
 css.insert('''
-div.blog_page {
+body.blog_page {
   background-color:'''+background_color+''';
   background-image: url("/blog-background.png");
   background-size: 100% 100%;
@@ -113,10 +113,10 @@ def end_links():
   
 right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a>'''+("\n".join([index_entry_html(p) for p in blog_posts.posts]))+'''</div>'''
 
-blog = '''<div class="blog_page"><div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">
-'''+("\n".join([post_html(p) for p in blog_posts.posts]))+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div></div>'''
+blog = '''<div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">
+'''+("\n".join([post_html(p) for p in blog_posts.posts]))+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div>'''
 
 
 def show_blog():
-  return html_pages.make_page("Eli Dupree's website ⊃ Blog", "", top_bar.top_bar("blog")+blog)
+  return html_pages.make_page("Eli Dupree's website ⊃ Blog", "", '<body class="blog_page">'+top_bar.top_bar("blog")+blog+'</body>')
 

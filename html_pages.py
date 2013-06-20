@@ -10,7 +10,5 @@ def make_page(title, head_stuff, body_stuff):
     <link rel="stylesheet" type="text/css" href="/'''+css.filename()+'''">
     '''+head_stuff+'''
   </head>
-  <body>
-    '''+body_stuff+'''
-  </body>
+  '''+body_stuff+'''
 </html>'''
