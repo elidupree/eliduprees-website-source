@@ -78,17 +78,19 @@ div.blog_post {
   margin-top:'''+str(post_separation)+'''em;
   padding:'''+str(text_padding_width)+'''em;
   background-color:white; }
+a:link.blog_end_link{ color:yellow }
+a:visited.blog_end_link{ color:orange }
 div.blog_end_links_2 {
   clear:both;
   margin-top:'''+str(post_separation/4)+'''em;
   margin-bottom:'''+str(post_separation+min_side_space_for_post)+'''em;
   text-align:center; }
-a.blog_page_nav_link {
+a.blog_end_link.nav {
   display: inline-block;
   font-size: 200%;
   padding:'''+str(text_padding_width/4)+'''em;
   margin:'''+str(text_padding_width/4)+'''em; }
-a.blog_page_nav_link.right {
+a.blog_end_link.nav.right {
   float:right; }
 ''')
 
@@ -103,10 +105,10 @@ def fake_post():
   
 def end_links():
   return '''
-  <a href="" class="blog_page_nav_link">Older posts</a>
-  <a href="" class="blog_page_nav_link right">Newer posts</a>
+  <a href="" class="blog_end_link nav">Older posts</a>
+  <a href="" class="blog_end_link nav right">Newer posts</a>
 <div class="blog_end_links_2">
-  <a href="">Go back to the beginning and read in chronological order</a>
+  <a class="blog_end_link" href="">Go back to the beginning and read in chronological order</a>
 </div>'''
   
 right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a>'''+("\n".join([index_entry_html(p) for p in blog_posts.posts]))+'''</div>'''
