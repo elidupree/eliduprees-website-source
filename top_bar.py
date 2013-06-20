@@ -150,7 +150,7 @@ def categories_wrap(contents):
 
 css.insert('''div.top_bar{ background-color:black; display:inline-block; width:100%; padding:0; margin:0 }''')
 def bar_wrap(contents):
-  return '<div class="top_bar">'+contents+'</div>'
+  return '<header><div class="top_bar">'+contents+'</div></header>'
 
 def top_bar(category):
   home   =   home_string(category ==   "home")
@@ -160,4 +160,4 @@ def top_bar(category):
   blog   =   blog_string(category ==   "blog")
   shop   =   shop_string(category ==   "shop")
   login  = '''<div class="top_bar_login"><a class="top_bar_login_link" href="">Login / Register</a></div>'''
-  return bar_wrap('<header>'+home+categories_wrap(games+comics+other+blog+shop)+login+'</header>')
+  return bar_wrap(home+categories_wrap(games+comics+other+blog+shop)+login)
