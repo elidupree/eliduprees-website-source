@@ -26,13 +26,8 @@ min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all
 background_color = "#000000";
 
 css.insert('''
-body.blog_page {
-  background-color:'''+background_color+''';
-  background-image: url("/blog-background.png");
-  background-size: 100% 100%;
-  background-attachment: fixed; }
-  
 div.blog_page_limits {
+  position: relative;
   margin-left:auto; margin-right:auto;
   min-width:'''+str(min_space_for_two_columns_with_least_margins)+'''em;
   max-width:'''+str(page_max_width)+'''em; }
@@ -78,8 +73,10 @@ div.blog_post {
   margin-top:'''+str(post_separation)+'''em;
   padding:'''+str(text_padding_width)+'''em;
   background-color:white; }
-a:link.blog_end_link{ color:yellow }
-a:visited.blog_end_link{ color:orange }
+a.post_title_link { color:black; text-decoration:none; }
+
+a:link.blog_end_link { color:yellow; }
+a:visited.blog_end_link { color:orange; }
 div.blog_end_links_2 {
   clear:both;
   margin-top:'''+str(post_separation/4)+'''em;
@@ -94,8 +91,11 @@ a.blog_end_link.nav.right {
   float:right; }
 ''')
 
+def post_permalink(post_dict):
+  return ""
+
 def post_html(post_dict):
-  return '<div class="blog_post"><h1>'+post_dict["title"]+'</h1>'+post_dict["contents"]+'</div>'
+  return '<div class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div>'
 
 def index_entry_html(post_dict):
   return '<div class="dict_entry"><a href="">'+post_dict["title"]+'</a></div>'
