@@ -22,15 +22,19 @@ min_space_for_two_columns_and_all_but_left_margin = min_space_for_two_columns_an
 min_space_for_two_columns_and_all_but_side_margins = min_space_for_two_columns_and_all_but_left_margin - min_side_space_for_post
 min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all_but_side_margins - min_side_space_for_post + maximally_pinched_margin
 
-background_color = "#80f580";
+background_color = "#000000";
 
 css.insert('''
-
 div.blog_page {
+  background-color:'''+background_color+''';
+  background-image: url("/blog-background.png");
+  background-size: 100% 100%;
+  background-attachment: fixed; }
+  
+div.blog_page_limits {
   margin-left:auto; margin-right:auto;
   min-width:'''+str(min_space_for_two_columns_with_least_margins)+'''em;
-  max-width:'''+str(page_max_width)+'''em;
-  background-color:'''+background_color+'''; }
+  max-width:'''+str(page_max_width)+'''em; }
 
 div.blog_stream_and_right_bar { float:right; }
 div.blog_stream { display:inline-block;
@@ -98,8 +102,8 @@ def end_links():
   
 right_bar = '''<div class="blog_right_bar"><a href="/403">[Random post] I foobar yesterday</a><p>something else</p></div>'''
 
-blog = '''<div class="blog_page"><div class="blog_stream_and_right_bar"><div class="blog_stream">
-'''+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div>'''
+blog = '''<div class="blog_page"><div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">
+'''+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+fake_post()+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div></div>'''
 
 
 def show_blog():
