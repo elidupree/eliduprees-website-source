@@ -101,7 +101,7 @@ a.blog_end_link.nav.right {
 ''')
 
 def post_permalink(post_dict):
-  return ""
+  return "/blog/"+url_formatted_title(post_dict)
   
 def post_html(post_dict):
   return '<div class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">'+('Tags: '+(", ".join(tags.tag_link(tag) for tag in post_dict["tags"]))+utils.inline_separator if "tags" in post_dict else "")+'Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+post_permalink(post_dict)+'">Permalink</a>'+utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'+'</div></div>'
@@ -109,23 +109,73 @@ def post_html(post_dict):
 def index_entry_html(post_dict):
   return '<div class="index_entry"><a href="">'+post_dict["title"]+'</a></div>'
 
-def fake_post():
-  return '''<div class="blog_post"><h1>Post title</h1><p>Lorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum</p><p>dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conv</p></div>'''
-  
-def end_links():
-  return '''
-  <a href="" rel="prev" class="blog_end_link nav">Older posts</a>
-  <a href="" rel="next" class="blog_end_link nav right">Newer posts</a>
-<div class="blog_end_links_2">
-  <a class="blog_end_link" href="">Go back to the beginning and read in chronological order</a>
-</div>'''
-  
-right_bar = '''<div class="blog_right_bar"><nav><a href="/403">[Random post] I foobar yesterday</a>'''+("\n".join([index_entry_html(p) for p in blog_posts.posts]))+'''</nav></div>'''
 
-blog = '''<main><div class="blog_page"><div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">
-'''+("\n".join(['<article>'+post_html(p)+'</article>' for p in blog_posts.posts]))+end_links()+'''</div>'''+right_bar+'''</div><div class="blog_bottom"></div></div></div></main>'''
+def make_blog_page_body(main_contents, sidebar_contents):
+  return '<body><div><img role="presentation" alt="" class="background" src="/blog-background.jpg"></img></div>'+bars.bars_wrap("blog", '<main><div class="blog_page"><div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">'+main_contents+'</div><div class="blog_right_bar">'+sidebar_contents+'</div></div><div class="blog_bottom"></div></div></div></main>')+'</body>'
 
 
 def show_blog():
   return html_pages.make_page("Eli Dupree's website ⊃ Blog", "", '<body><div><img role="presentation" alt="" class="background" src="/blog-background.jpg"></img></div>'+bars.bars_wrap("blog", blog)+'</body>')
+  
+def url_formatted_title(post_dict):
+  return utils.format_for_url(post_dict["title"])
+def title_formatted_title(post_dict):
+  return utils.strip_tags(post_dict["title"])
+
+def add_blog_pages(page_dict):
+  current_page_number = 1
+  current_page = []
+  index = ("\n".join([index_entry_html(p) for p in blog_posts.posts]))
+  for i in range(0,len(blog_posts.posts)):
+    post_dict = blog_posts.posts[i]
+    current_page.append('<article>'+post_html(post_dict)+'</article>')
+    
+    page_length = 10
+    latest_page_max_posts = page_length + 5
+    remaining_posts = len(blog_posts.posts) - i
+    on_latest_page = (len(current_page) + remaining_posts <= latest_page_max_posts)
+    print_older_page = ((len(current_page) >= page_length) and not on_latest_page)
+    print_latest_page = (i == len(blog_posts.posts) - 1)
+    if print_older_page and print_latest_page:
+      raise "This code is messed up somehow"
+    
+    if on_latest_page:
+      url_pagenum_string = ''
+    else:
+      url_pagenum_string = '/'+str(current_page_number)
+    
+    if print_older_page or print_latest_page:
+      for page_order in ('/page','/chronological'):
+        latest_page_designation = (page_order if page_order == "/chronological" else '')
+        end_links = ''
+        if current_page_number > 1:
+          end_links = (end_links+'<a href="/blog'+page_order+'/'+str(current_page_number-1)+
+            '" rel="prev" class="blog_end_link nav">Older posts</a>')
+        if print_older_page:
+          end_links = (end_links+'<a href="/blog'+(page_order+'/'+str(current_page_number+1) if (remaining_posts > latest_page_max_posts) else latest_page_designation)+
+            '" rel="next" class="blog_end_link nav right">Newer posts</a>')
+        if current_page_number > 1:
+          end_links = end_links+'''
+<div class="blog_end_links_2">
+  <a class="blog_end_link" href="/blog/chronological/1">Go back to the beginning and read in chronological order</a>
+</div>'''
+        utils.checked_insert(page_dict,
+          'blog'+(latest_page_designation if on_latest_page else page_order)+url_pagenum_string+'.html',
+          html_pages.make_page(
+            "Eli Dupree's website ⊃ Blog",
+            "",
+            make_blog_page_body("\n".join(current_page if page_order == "/chronological" else reversed(current_page))+end_links, '<nav><a href="/403">[Random post] I foobar yesterday</a>'+index+'</nav>')
+          )
+        )
+      current_page = []
+      current_page_number += 1
+      
+    utils.checked_insert(page_dict,
+      'blog/'+url_formatted_title(post_dict)+'.html',
+      html_pages.make_page(
+        "Eli Dupree's website ⊃ Blog ⊃ "+title_formatted_title(post_dict),
+        "",
+        make_blog_page_body(post_html(post_dict), '<a href="/blog'+('' if on_latest_page else '/page'+url_pagenum_string)+'">View this post in context</a>')
+      )
+    )
 

@@ -5,6 +5,7 @@ import css
 import html_pages
 import top_bar
 import blog
+import utils
 
 # maybe shutil.rmtree("./build")?
 
@@ -16,8 +17,15 @@ def putfile(path, contents):
   f = open(buildpath, "w")
   f.write(contents)
 
-putfile(css.filename(), css.build())
+page_dict = {}
 
-putfile("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar("home")+"</body>"))
-putfile("blog.html", blog.show_blog())
+def put_to_dict(path, contents):
+  utils.checked_insert(page_dict, path, contents)
 
+put_to_dict(css.filename(), css.build())
+
+put_to_dict("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar("home")+"</body>"))
+blog.add_blog_pages(page_dict)
+
+for path,contents in page_dict.items():
+  putfile(path,contents)
