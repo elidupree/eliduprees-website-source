@@ -26,6 +26,8 @@ min_space_for_two_columns_and_all_but_side_margins = min_space_for_two_columns_a
 min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all_but_side_margins - min_side_space_for_post + maximally_pinched_margin
 
 background_color = "#000000";
+metacontent_color_IE8 = "#bbbbbb"
+metacontent_color = "rgba(255,255,255,.7)"
 
 css.insert('''
 div.blog_page_limits {
@@ -49,7 +51,8 @@ div.blog_right_bar {
   padding:'''+str(text_padding_width)+'''em;
   margin-top:1.5em;
   margin-right:'''+str(min_side_space_for_post)+'''em;
-  background-color:white; }
+  background-color:'''+metacontent_color_IE8+''';
+  background-color:'''+metacontent_color+'''; }
 
 @media screen and (max-width: '''+str(min_space_for_full_post_width)+'''em) {
   div.blog_stream    { margin-right:'''+str(max_side_space)+'''em; }
@@ -84,7 +87,8 @@ div.blog_post_metadata_outer {
 div.blog_post_metadata {
   font-size: 80%;
   padding:'''+str(text_padding_width)+'''em;
-  background-color: #bbbbbb; }
+  background-color:'''+metacontent_color_IE8+''';
+  background-color:'''+metacontent_color+'''; }
 
 a:link.blog_end_link { color:yellow; }
 a:visited.blog_end_link { color:orange; }
@@ -99,6 +103,9 @@ a.blog_end_link.nav {
   padding:'''+str(text_padding_width/2)+'''em '''+str(text_padding_width/4)+'''em; }
 a.blog_end_link.nav.right {
   float:right; }
+
+div.blog_index {
+  padding: 0.8em 0; }
 ''')
 
 def post_permalink(post_dict):
