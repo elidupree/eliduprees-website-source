@@ -11,7 +11,7 @@ div.bars_outer_box {
   position: relative;
 }
 div.bars_inner_box {
-  padding-bottom: '''+str(bottom_bar_height)+'''
+  padding-bottom: '''+str(bottom_bar_height)+'''em;
 }
 
 div.bottom_bar {

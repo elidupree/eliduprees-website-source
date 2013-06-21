@@ -79,7 +79,8 @@ a.post_title_link { color:black; text-decoration:none; }
 div.blog_post_metadata_outer {
   min-width:'''+str(post_content_min_width)+'''em;
   max-width:'''+str(post_content_max_width)+'''em;
-  padding: 0 0.8em; }
+  padding: 0 0.8em;
+  margin-bottom:'''+str(post_separation)+'''em; }
 div.blog_post_metadata {
   font-size: 80%;
   padding:'''+str(text_padding_width)+'''em;
