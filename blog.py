@@ -3,6 +3,7 @@ import css
 import html_pages
 import bars
 import blog_posts
+import utils
 
 page_max_width = 75
 post_content_min_width = 20
@@ -72,8 +73,15 @@ div.blog_post {
   max-width:'''+str(post_content_max_width)+'''em;
   margin-top:'''+str(post_separation)+'''em;
   padding:'''+str(text_padding_width)+'''em;
-  background-color:white; }
+  background-color: white; }
 a.post_title_link { color:black; text-decoration:none; }
+div.blog_post_metadata {
+  min-width:'''+str(post_content_min_width/0.8 - 1)+'''em;
+  max-width:'''+str(post_content_max_width/0.8 - 1)+'''em;
+  font-size: 80%;
+  margin: 0 1em;
+  padding:'''+str(text_padding_width)+'''em;
+  background-color: #bbbbbb; }
 
 a:link.blog_end_link { color:yellow; }
 a:visited.blog_end_link { color:orange; }
@@ -92,12 +100,12 @@ a.blog_end_link.nav.right {
 
 def post_permalink(post_dict):
   return ""
-
+  
 def post_html(post_dict):
-  return '<div class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div>'
+  return '<div class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div><div class="blog_post_metadata">'+'<a href="'+post_permalink(post_dict)+'">Permalink</a>'+utils.inline_separator+'Posted on May 14, 2015'+(utils.inline_separator+'Tagged in: '+post_dict["tags"] if "tags" in post_dict else "")+'</div>'
 
 def index_entry_html(post_dict):
-  return '<div class="dict_entry"><a href="">'+post_dict["title"]+'</a></div>'
+  return '<div class="index_entry"><a href="">'+post_dict["title"]+'</a></div>'
 
 def fake_post():
   return '''<div class="blog_post"><h1>Post title</h1><p>Lorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum</p><p>dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conLorem ipsum dolor sit amet, conv</p></div>'''
