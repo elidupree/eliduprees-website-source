@@ -4,6 +4,7 @@ import html_pages
 import bars
 import blog_posts
 import utils
+import tags
 
 page_max_width = 75
 post_content_min_width = 20
@@ -103,7 +104,7 @@ def post_permalink(post_dict):
   return ""
   
 def post_html(post_dict):
-  return '<div class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">'+'<a href="'+post_permalink(post_dict)+'">Permalink</a>'+utils.inline_separator+'Posted on May 14, 2015'+(utils.inline_separator+'Tagged in: '+post_dict["tags"] if "tags" in post_dict else "")+utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'+'</div></div>'
+  return '<div class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">'+('Tags: '+(", ".join(tags.tag_link(tag) for tag in post_dict["tags"]))+utils.inline_separator if "tags" in post_dict else "")+'Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+post_permalink(post_dict)+'">Permalink</a>'+utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'+'</div></div>'
 
 def index_entry_html(post_dict):
   return '<div class="index_entry"><a href="">'+post_dict["title"]+'</a></div>'
@@ -113,8 +114,8 @@ def fake_post():
   
 def end_links():
   return '''
-  <a href="" class="blog_end_link nav">Older posts</a>
-  <a href="" class="blog_end_link nav right">Newer posts</a>
+  <a href="" rel="prev" class="blog_end_link nav">Older posts</a>
+  <a href="" rel="next" class="blog_end_link nav right">Newer posts</a>
 <div class="blog_end_links_2">
   <a class="blog_end_link" href="">Go back to the beginning and read in chronological order</a>
 </div>'''
