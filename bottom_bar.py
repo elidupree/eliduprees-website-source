@@ -24,4 +24,4 @@ address.eli_email {
 ''')
 
 def bottom_bar():
-  return '<footer><div class="bottom_bar">Please share this! | <address class="eli_email">Contact: <a href="ma&#73;ltO&#58;web&#64;el&#73;dupree&#00046;&#99;om">web&#64;el&#73;dupree&#00046;&#99;om</a></address> | <a href="">Privacy policy</a> | This website is open source; <a href="https://github.com/elidupree/eliduprees-website-source">GitHub</a></div></footer>'
+  return '<footer><div class="bottom_bar">Please share this! | <address class="eli_email">Contact: <a href="ma&#73;ltO&#58;web&#64;el&#73;dupree&#00046;&#99;om">web&#64;el&#73;dupree&#00046;&#99;om</a></address> | <a href="/policies">Policies</a> | This website is open source; <a href="https://github.com/elidupree/eliduprees-website-source">GitHub</a></div></footer>'
