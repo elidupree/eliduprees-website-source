@@ -95,7 +95,6 @@ a:visited.blog_end_link { color:orange; }
 div.blog_end_links_2 {
   clear:both;
   margin-top:'''+str(post_separation/4)+'''em;
-  margin-bottom:'''+str(post_separation+min_side_space_for_post)+'''em;
   text-align:center; }
 a.blog_end_link.nav {
   display: inline-block;

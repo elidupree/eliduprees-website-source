@@ -3,23 +3,21 @@ import css
 import top_bar
 import utils
 
-bottom_bar_height = 1.5
-
 css.insert('''
 div.bars_outer_box {
   min-height: 100%;
+  min-width: 21.5em;
   position: relative;
 }
 div.bars_inner_box {
-  padding-bottom: '''+str(bottom_bar_height)+'''em;
+  padding-bottom: 5em;
 }
 
 div.bottom_bar {
   position: absolute;
   bottom: 0;
   width: 100%;
-  padding: 0.25em 0;
-  height: '''+str(bottom_bar_height - 0.5)+'''em;
+  padding: 0.25em;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   background-color: black;
