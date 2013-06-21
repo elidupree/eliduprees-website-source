@@ -162,6 +162,12 @@ def add_blog_pages(page_dict):
 <div class="blog_end_links_2">
   <a class="blog_end_link" href="/blog/chronological/1">Go back to the beginning and read in chronological order</a>
 </div>'''
+        elif page_order != '/chronological':
+          end_links = end_links+'''
+<div class="blog_end_links_2">
+  <a class="blog_end_link" href="/blog/chronological/1">Read in chronological order</a>
+</div>'''
+          
         utils.checked_insert(page_dict,
           'blog'+(latest_page_designation if on_latest_page else page_order)+url_pagenum_string+'.html',
           html_pages.make_page(
