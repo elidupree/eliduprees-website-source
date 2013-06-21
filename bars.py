@@ -29,7 +29,7 @@ div.bottom_bar {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   background-color: black;
-  background-image: url("/top-bar-background.png");
+  background-image: url("/media/top-bar-background.png");
   background-size: 100% 100%; }
 div.bottom_bar_inner {
   padding: 0.25em;

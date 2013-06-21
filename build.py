@@ -1,19 +1,25 @@
 import os
 import os.path
-import css
+import shutil
 
+import css
 import html_pages
 import top_bar
 import blog
 import utils
 
-# maybe shutil.rmtree("./build")?
+def ensure_dir(d):
+  if not os.path.exists(d):
+    os.makedirs(d)
+
+ensure_dir("./build/media")
+media_filenames = os.listdir("./media")
+for media_filename in media_filenames:
+  shutil.copy("./media/"+media_filename, "./build/media/"+media_filename)
 
 def putfile(path, contents):
   buildpath = "./build/"+path
-  builddir = os.path.dirname(buildpath)
-  if not os.path.exists(builddir):
-    os.makedirs(builddir)
+  ensure_dir(os.path.dirname(buildpath))
   f = open(buildpath, "w")
   f.write(contents)
 
