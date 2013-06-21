@@ -125,20 +125,31 @@ def url_formatted_title(post_dict):
 def title_formatted_title(post_dict):
   return utils.strip_tags(post_dict["title"])
 
-def add_blog_pages(page_dict):
+def add_blog_pages(page_dict, tag_specific = None):
+  if tag_specific:
+    posts = tag_specific["post_list"]
+  else:
+    posts = blog_posts.posts
+    posts_by_tag = {}
+    for tag in tags.tags:
+      posts_by_tag[tag] = []
+  
   current_page_number = 1
   current_page = []
-  index = ("\n".join([index_entry_html(p) for p in reversed(blog_posts.posts)]))
-  for i in range(0,len(blog_posts.posts)):
-    post_dict = blog_posts.posts[i]
+  index = ('<div class="blog_index">'
+    +('Posts tagged &quot;'+tag_specific["tagname"]+'&quot;:' if tag_specific else 'All posts:')
+    +("\n".join([index_entry_html(p) for p in reversed(posts)]))
+    +'</div>')
+  for i in range(0,len(posts)):
+    post_dict = posts[i]
     current_page.append('<article>'+post_html(post_dict)+'</article>')
     
     page_length = 10
     latest_page_max_posts = page_length + 5
-    remaining_posts = len(blog_posts.posts) - i
+    remaining_posts = len(posts) - i
     on_latest_page = (len(current_page) + remaining_posts <= latest_page_max_posts)
     print_older_page = ((len(current_page) >= page_length) and not on_latest_page)
-    print_latest_page = (i == len(blog_posts.posts) - 1)
+    print_latest_page = (i == len(posts) - 1)
     if print_older_page and print_latest_page:
       raise "This code is messed up somehow"
     
@@ -146,30 +157,35 @@ def add_blog_pages(page_dict):
       url_pagenum_string = ''
     else:
       url_pagenum_string = '/'+str(current_page_number)
+      
+    if tag_specific:
+      tags_string = '/tags/'+tag_specific["tagname"]
+    else:
+      tags_string = ''
     
     if print_older_page or print_latest_page:
       for page_order in ('/page','/chronological'):
         latest_page_designation = (page_order if page_order == "/chronological" else '')
         end_links = ''
         if current_page_number > 1:
-          end_links = (end_links+'<a href="/blog'+page_order+'/'+str(current_page_number-1)+
+          end_links = (end_links+'<a href="/blog'+tags_string+page_order+'/'+str(current_page_number-1)+
             '" rel="prev" class="blog_end_link nav">Older posts</a>')
         if print_older_page:
-          end_links = (end_links+'<a href="/blog'+(page_order+'/'+str(current_page_number+1) if (remaining_posts > latest_page_max_posts) else latest_page_designation)+
+          end_links = (end_links+'<a href="/blog'+tags_string+(page_order+'/'+str(current_page_number+1) if (remaining_posts > latest_page_max_posts) else latest_page_designation)+
             '" rel="next" class="blog_end_link nav right">Newer posts</a>')
         if current_page_number > 1:
           end_links = end_links+'''
 <div class="blog_end_links_2">
-  <a class="blog_end_link" href="/blog/chronological/1">Go back to the beginning and read in chronological order</a>
+  <a class="blog_end_link" href="/blog'''+tags_string+'''/chronological/1">Go back to the beginning and read in chronological order</a>
 </div>'''
         elif page_order != '/chronological':
           end_links = end_links+'''
 <div class="blog_end_links_2">
-  <a class="blog_end_link" href="/blog/chronological/1">Read in chronological order</a>
+  <a class="blog_end_link" href="/blog'''+tags_string+'''/chronological/1">Read in chronological order</a>
 </div>'''
-          
+
         utils.checked_insert(page_dict,
-          'blog'+(latest_page_designation if on_latest_page else page_order)+url_pagenum_string+'.html',
+          'blog'+tags_string+(latest_page_designation if on_latest_page else page_order)+url_pagenum_string+'.html',
           html_pages.make_page(
             "Eli Dupree's website ⊃ Blog",
             "",
@@ -178,13 +194,24 @@ def add_blog_pages(page_dict):
         )
       current_page = []
       current_page_number += 1
-      
-    utils.checked_insert(page_dict,
-      'blog/'+url_formatted_title(post_dict)+'.html',
-      html_pages.make_page(
-        "Eli Dupree's website ⊃ Blog ⊃ "+title_formatted_title(post_dict),
-        "",
-        make_blog_page_body(post_html(post_dict), '<a href="/blog'+('' if on_latest_page else '/page'+url_pagenum_string)+'#'+post_div_id(post_dict)+'">View this post in context</a>')
+    
+    if not tag_specific:
+      if "tags" in post_dict:
+        for tag in post_dict["tags"]:
+          posts_by_tag[tag].append(post_dict)
+      utils.checked_insert(page_dict,
+        'blog/'+url_formatted_title(post_dict)+'.html',
+        html_pages.make_page(
+          "Eli Dupree's website ⊃ Blog ⊃ "+title_formatted_title(post_dict),
+          "",
+          make_blog_page_body(post_html(post_dict), '<a href="/blog'+('' if on_latest_page else '/page'+url_pagenum_string)+'#'+post_div_id(post_dict)+'">View this post in context</a>')
+        )
       )
-    )
-
+  
+  if not tag_specific:
+    for tagname,posts in posts_by_tag.items():
+      add_blog_pages(page_dict, {
+        "tagname":tagname,
+        "post_list":posts,
+      })
+  
