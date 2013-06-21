@@ -130,6 +130,12 @@ a.top_bar_login_link {
     border-bottom-left-radius:'''+str(button_border_radius)+'''em;
   }
 }
+@media screen and (max-width: 18em) {
+  div.top_bar_categories {
+    margin-top:'''+str(text_parts_compressed_height*2)+'''em; }
+  div.top_bar_login {
+    top:'''+str(text_parts_compressed_height)+'''em; }
+}
 ''')
 
 def home_string(you_are_here):

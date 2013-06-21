@@ -6,12 +6,21 @@ import utils
 css.insert('''
 div.bars_outer_box {
   min-height: 100%;
-  min-width: 21.5em;
   position: relative;
 }
 div.bars_inner_box {
   padding-bottom: 5em;
 }
+@media screen and (max-width: 30em) {
+  div.bars_inner_box { padding-bottom: 6em; } }
+@media screen and (max-width: 20em) {
+  div.bars_inner_box { padding-bottom: 7em; } }
+@media screen and (max-width: 14em) {
+  div.bars_inner_box { padding-bottom: 8em; } }
+@media screen and (max-width: 13em) {
+  div.bars_inner_box { padding-bottom: 9em; } }
+@media screen and (max-width: 12em) {
+  div.bars_inner_box { padding-bottom: 10em; } }
 
 div.bottom_bar {
   position: absolute;
