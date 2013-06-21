@@ -185,7 +185,7 @@ def add_blog_pages(page_dict, tag_specific = None):
 <div class="blog_end_links_2">
   <a class="blog_end_link" href="/blog'''+tags_string+'''/chronological/1">Go back to the beginning and read in chronological order</a>
 </div>'''
-        elif page_order != '/chronological':
+        elif (page_order != '/chronological') and (len(posts) > latest_page_max_posts):
           end_links = end_links+'''
 <div class="blog_end_links_2">
   <a class="blog_end_link" href="/blog'''+tags_string+'''/chronological/1">Read in chronological order</a>
