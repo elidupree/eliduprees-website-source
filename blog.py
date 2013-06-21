@@ -128,7 +128,7 @@ def title_formatted_title(post_dict):
 def add_blog_pages(page_dict):
   current_page_number = 1
   current_page = []
-  index = ("\n".join([index_entry_html(p) for p in blog_posts.posts]))
+  index = ("\n".join([index_entry_html(p) for p in reversed(blog_posts.posts)]))
   for i in range(0,len(blog_posts.posts)):
     post_dict = blog_posts.posts[i]
     current_page.append('<article>'+post_html(post_dict)+'</article>')
