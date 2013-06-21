@@ -103,9 +103,11 @@ a.blog_end_link.nav.right {
 
 def post_permalink(post_dict):
   return "/blog/"+url_formatted_title(post_dict)
+def post_div_id(post_dict):
+  return url_formatted_title(post_dict)
   
 def post_html(post_dict):
-  return '<div class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">'+('Tags: '+(", ".join(tags.tag_link(tag) for tag in post_dict["tags"]))+utils.inline_separator if "tags" in post_dict else "")+'Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+post_permalink(post_dict)+'">Permalink</a>'+utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'+'</div></div>'
+  return '<div id="'+post_div_id(post_dict)+'" class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">'+('Tags: '+(", ".join(tags.tag_link(tag) for tag in post_dict["tags"]))+utils.inline_separator if "tags" in post_dict else "")+'Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+post_permalink(post_dict)+'">Permalink</a>'+utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'+'</div></div>'
 
 def index_entry_html(post_dict):
   return '<div class="index_entry"><a href="">'+post_dict["title"]+'</a></div>'
@@ -176,7 +178,7 @@ def add_blog_pages(page_dict):
       html_pages.make_page(
         "Eli Dupree's website ⊃ Blog ⊃ "+title_formatted_title(post_dict),
         "",
-        make_blog_page_body(post_html(post_dict), '<a href="/blog'+('' if on_latest_page else '/page'+url_pagenum_string)+'">View this post in context</a>')
+        make_blog_page_body(post_html(post_dict), '<a href="/blog'+('' if on_latest_page else '/page'+url_pagenum_string)+'#'+post_div_id(post_dict)+'">View this post in context</a>')
       )
     )
 
