@@ -25,7 +25,6 @@ categories_get_very_squished_width = category_text_width_regular_ems * num_categ
 button_border_radius = 0.5
 
 css.insert('''
-
 div.top_bar {
   position: relative;
   display: inline-block;
@@ -34,6 +33,8 @@ div.top_bar {
   background-color: black;
   background-image: url("/media/top-bar-background.png");
   background-size: 100% 100%; }
+.voldemorts_children div.top_bar {
+  background-image: url("/media/top-bar-background-vc.png"); }
 
 div.top_bar_home {
   position:absolute;
@@ -62,6 +63,8 @@ a.top_bar_category_link.far_right {
   border-right:0; }
 a:link.top_bar_category_link{ color:yellow }
 a:visited.top_bar_category_link{ color:orange }
+.voldemorts_children a:link.top_bar_category_link{ color:#b3921c }
+.voldemorts_children a:visited.top_bar_category_link{ color:#9a5419 }
 span.top_bar_category {
   position:relative; display:inline-block;
   width:'''+str(category_button_width)+'''em; height:'''+str(category_button_height)+'''em;
@@ -153,17 +156,13 @@ def shop_string(you_are_here):
 
 def categories_wrap(contents):
   return '<div class="top_bar_categories">'+contents+'</div>'
-
-css.insert('''div.top_bar{ background-color:black; display:inline-block; width:100%; padding:0; margin:0 }''')
-def bar_wrap(contents):
-  return '<header><div class="top_bar">'+contents+'</div></header>'
-
-def top_bar(category):
-  home   =   home_string(category ==   "home")
-  games  =  games_string(category ==  "games")
-  comics = comics_string(category == "comics")
-  other  =  other_string(category ==  "other")
-  blog   =   blog_string(category ==   "blog")
-  shop   =   shop_string(category ==   "shop")
+  
+def top_bar(info):
+  home   =   home_string(  "home" in info)
+  games  =  games_string( "games" in info)
+  comics = comics_string("comics" in info)
+  other  =  other_string( "other" in info)
+  blog   =   blog_string(  "blog" in info)
+  shop   =   shop_string(  "shop" in info)
   login  = '''<div class="top_bar_login"><a class="top_bar_login_link" href="">Login / Register</a></div>'''
-  return bar_wrap(home+categories_wrap(games+comics+other+blog+shop)+login)
+  return '<header><div class="top_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'">'+home+categories_wrap(games+comics+other+blog+shop)+login+'</div></header>'

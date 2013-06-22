@@ -31,7 +31,7 @@ def put_to_dict(path, contents):
 
 put_to_dict(css.filename(), css.build())
 
-put_to_dict("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar("home")+"</body>"))
+put_to_dict("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar({"home":True})+"</body>"))
 blog.add_blog_pages(page_dict)
 voldemorts_children.add_vc_pages(page_dict)
 

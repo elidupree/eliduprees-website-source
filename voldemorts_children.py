@@ -29,6 +29,6 @@ def add_vc_pages(page_dict):
       html_pages.make_page(
         "Eli Dupree's website ⊃ Voldemort's Children ⊃ Page "+str(i),
         "",
-        '<body>'+bars.bars_wrap("comics", vc_page_html(vc_page))+'</body>'
+        '<body class="voldemorts_children">'+bars.bars_wrap({"comics":True }, vc_page_html(vc_page))+'</body>'
       )
     )
