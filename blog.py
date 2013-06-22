@@ -122,9 +122,6 @@ def index_entry_html(post_dict):
 def make_blog_page_body(main_contents, sidebar_contents):
   return '<body><div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg"></img></div>'+bars.bars_wrap("blog", '<main><div class="blog_page"><div class="blog_page_limits"><div class="blog_stream_and_right_bar"><div class="blog_stream">'+main_contents+'</div><div class="blog_right_bar">'+sidebar_contents+'</div></div><div class="blog_bottom"></div></div></div></main>')+'</body>'
 
-
-def show_blog():
-  return html_pages.make_page("Eli Dupree's website ⊃ Blog", "", '<body><div><img role="presentation" alt="" class="background" src="/blog-background.jpg"></img></div>'+bars.bars_wrap("blog", blog)+'</body>')
   
 def url_formatted_title(post_dict):
   return utils.format_for_url(post_dict["title"])
