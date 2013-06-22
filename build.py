@@ -5,8 +5,9 @@ import shutil
 import css
 import html_pages
 import top_bar
-import blog
 import utils
+import blog
+import voldemorts_children
 
 def ensure_dir(d):
   if not os.path.exists(d):
@@ -32,6 +33,7 @@ put_to_dict(css.filename(), css.build())
 
 put_to_dict("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar("home")+"</body>"))
 blog.add_blog_pages(page_dict)
+voldemorts_children.add_vc_pages(page_dict)
 
 for path,contents in page_dict.items():
   putfile(path,contents)
