@@ -76,6 +76,7 @@ div.vc_nav_button.next {
   margin-right: 75px; }
 div.vc_transcript_inner {
   padding: 0.5em;
+  font-family: Arial, Helvetica, sans-serif;
   color:white; }
 div.vc_transcript_inner a {
   color: #ffc800; }
