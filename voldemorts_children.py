@@ -86,6 +86,7 @@ div.vc_nav_button.next {
   margin-left: 50px;
   margin-right: 75px; }
 div.vc_transcript_inner {
+  /*border: 1px dashed white;*/
   padding: 0.5em;
   font-family: Arial, Helvetica, sans-serif;
   color:white; }
@@ -280,9 +281,9 @@ vc_pages = [
     ],
     "annotation": '''<p>Ah, Harry Potter.</p>
 
-<p>How do you represent the speech of a character who pronounces words in a non-standard way? I hesitate to say 'mispronouncing'; if ze physically can't make the sounds that other people can make, is ze making an <em>error</em> by speaking?</p>
+<p>How do you represent the speech of a character who pronounces words in a non-standard way? I hesitate to say 'mispronounces'; if ze physically can't make the sounds that other people can make, is ze making an <em>error</em> by speaking?</p>
 
-<p>On this page, I've chosen to represent Harry's speech with misspelled words; I won't continue doing that, because it's more important for you to be able to understand the words.</p>'''
+<p>On this page, I've chosen to represent Harry's speech with misspelled words. I won't continue doing that, because it's more important for you to be able to understand the words.</p>'''
   },
 ]
 for i in range(0,len(vc_pages)):
