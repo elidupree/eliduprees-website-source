@@ -199,6 +199,8 @@ div.vc_transcript_inner .TONKS {
   color: #bf98af; /*#7f6574;*/ }
 div.vc_transcript_inner .GRANGER {
   color: #8080ff; /*#6060c0;*/ }
+div.vc_transcript_inner .HARRY {
+  color: #ff0000; }
 ''')
 
 def format_transcript_line(line_text):
@@ -227,8 +229,8 @@ vc_pages = [
   {
     "transcript": [
       (0, 'A cover page.'),
-      (500, 'TITLE: Voldemort&apos;s Children'),
-      (1700, 'Three people stand, harshy lit. In the center is Harry Potter: heavyset, hunched over, zir black hair wild. To the right, Luna Lovegood: very thin, with long loose blond hair, with zir wand tucked behind zir ear and an exaggerated expression of interest. On the left, Draco Malfoy: also thin, reserved, with zir arms behind zir back, zir hair short and neat, and zir face slightly flushed.'),
+      (500, '''TITLE: Voldemort's Children'''),
+      (1700, 'Three people stand, lit harshly by bright orange light. In the center is Harry Potter: heavyset, hunched over, zir black hair wild. To the right, Luna Lovegood: very thin, with long loose blond hair, with zir wand tucked behind zir ear and an exaggerated expression of interest. On the left, Draco Malfoy: also thin, reserved, with zir arms behind zir back, zir hair short and neat, and zir face slightly flushed.'),
       (3200, 'TITLE: A Harry Potter fanfic by Eli Dupree')],
       "annotation": '''<p>And so it begins.</p>
 
@@ -244,13 +246,43 @@ vc_pages = [
       (0, '<span class="dialogue GRANGER">Hermione Granger</span> stands in a room labeled "Auror Offices". There are bookshelves along the wall. Granger has zir hair tied back, wears a long dark coat, and has very reserved mannerisms. <span class="dialogue TONKS">Nymphadora Tonks</span> enters the room. Tonks is more easygoing than Granger, wears a shorter, lighter coat, and has short spiky pink hair.'),
       (55, 'TONKS: Granger, you called?'),
       (980, 'GRANGER: Yes... I will speak with the prisoner &ndash; Attend me.'),
-      (1655, 'TONKS: I can&apos;t get over it...'),
-      (2000, 'They go to a long spiral staircase. Tonks walks down the stairs, while Granger flies down by magic.'),
+      (1655, '''TONKS: I can't get over it...'''),
+      (2000, 'They go to a long spiral staircase. Tonks walks down the stairs, while Granger flies down by magic, leaving a blue trail of magical energy.'),
       (2000, 'TONKS: All those people outside are yelling for his head... and we just go down...'),
       (3600, 'TONKS: and ask him questions.')],
     "annotation": '''<p>By the way, I have a built-in way to mark pages with trigger warnings. (If you're unsure what trigger warnings are about, <a href="http://fuckyeahtriggerwarnings.tumblr.com/">this tumblr is an excellent introduction</a>.) I'm going to try to mark any page that has potentially triggering material, but <strong>I'm not a very good judge of what might be triggering</strong>, because I don't get triggered myself (in fact, I basically never get <em>any</em> undesirable emotional effect from seeing <em>any</em> visual image). So if you see a potential trigger that I haven't marked, please tell me.</p>
 
 <p>The same goes for any other web accessibility issue. I care about this stuff, so if you e-mail me with an issue, I <strong>will</strong> do my best to fix it.</p>'''
+  },
+  {
+    "transcript": [
+      (0, 'A partial map of the Ministry of Magic Department of Magical Law Enforcement shows Granger and Tonks descending from the Auror Offices to the Interrogation Cells.'),
+      (0, '''TONKS: I've got everything in order... The prisoner in cell 5...'''),
+      (340, '''There's a barred cell door and a window blocked by cyan magic.'''),
+      (900, 'TONKS: The truth potion...'),
+      (900, 'There is a table with two bottles of a whitish liquid on it.'),
+      (1080, 'TONKS: The warrant to use it...'),
+      (1080, 'There are two sheets of paper on the table, with writing on them. One of them has the seal of the Ministry of Magic on it.'),
+      (1250, '''GRANGER: You know I don't like to use that unless it is necessary.'''),
+      (1680, 'TONKS: Better safe than sorry! The glass is just waiting for your tap. Then he can see and hear us.'),
+      (2530, 'GRANGER: Good.'),
+      (2990, '''Granger taps the cell's magical window, and the cyan magic clears away from the middle of the window, so it can be seen through.'''),
+      (3690, 'GRANGER: And now... Harry Potter...'),
+    ],
+    "annotation": '''<p>If you're a <i>Harry Potter</i> fan, you might be thinking "Aha, ze wrote 'truth potion' for the benefit of people who aren't familiar enough with the series to know the name 'Veritaserum'". If you're a bigger fan, you might be thinking "But Veritaserum is as clear as water, and that potion isn't!" That's right! The real reason I don't say "Veritaserum" is because this is actually a modified version of Veritaserum that Granger invented - it is similar, but its action is unaffected by the Veritaserum antidote, which is a distinct tactical advantage.</p><p>A more cynical person might speculate that Granger invented it to circumvent legal restrictions on the use of Veritaserum, but the law usually refers to truth potions in general, and as the head of the Auror Office, Granger can get the necessary warrants easily.</p>'''
+  },
+  {
+    "transcript": [
+      (1000, '''A single large image of <span class="dialogue HARRY">Harry Potter</span>, in a rigid chair. Harry's arms are bound to the arms of the chair by metal bands. Ze is barefoot and wearing a ragged grey tunic, zir hands are clenched, and zir hair is in disarray. Ze has a zigzag scar on zir forehead, and another, vertical scar at the left edge of zir mouth. There are dark shadows around zir eyes, and ze looks angry.'''),
+      (1000, '''HARRY: Ge' on wi' it... Grangeuh. { Get on with it, Granger. }'''),
+      (3100, '''TITLE: Chapter One'''),
+      (3450, 'TITLE: The Boy Who Killed'),
+    ],
+    "annotation": '''<p>Ah, Harry Potter.</p>
+
+<p>How do you represent the speech of a character who pronounces words in a non-standard way? I hesitate to say 'mispronouncing'; if ze physically can't make the sounds that other people can make, is ze making an <em>error</em> by speaking?</p>
+
+<p>On this page, I've chosen to represent Harry's speech with misspelled words; I won't continue doing that, because it's more important for you to be able to understand the words.</p>'''
   },
 ]
 for i in range(0,len(vc_pages)):
