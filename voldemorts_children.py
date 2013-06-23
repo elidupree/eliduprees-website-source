@@ -188,32 +188,34 @@ def vc_content_notice_bars_wrap(info, notice, html):
 # "You could disable content notices if you had cookies enabled for this site",
 # "You could disable content notices if you had Javascript and cookies enabled for this site",
 
+dialogue_50pct_grey = '#8c8c8c'
+dialogue_name_replace = {
+  "FUDGE":"GREY", "PAST GRANGER":"GREY",
+  "PRESENT HARRY":"HARRY",
+}
 css.insert('''
 p.vc_transcript_line {
   margin-top: 0;
   line-height: 1.2em; }
-div.vc_transcript_inner .dialogue {
-  font-weight: bold; }
-div.vc_transcript_inner .TITLE {
-  color: #9a6f34; /*#412f16;*/ }
-div.vc_transcript_inner .TONKS {
-  color: #bf98af; /*#7f6574;*/ }
-div.vc_transcript_inner .GRANGER {
-  color: #8080ff; /*#6060c0;*/ }
-div.vc_transcript_inner .HARRY {
-  color: #ff0000; }
-div.vc_transcript_inner .WIRELESS {
-  color: #737373; }
-div.vc_transcript_inner .FUDGE {
-  color: #8c8c8c; }
+div.vc_transcript_inner .dialogue { font-weight: bold; }
+div.vc_transcript_inner .TITLE { color: #9a6f34; /*#412f16;*/ }
+div.vc_transcript_inner .TONKS { color: #bf98af; /*#7f6574;*/ }
+div.vc_transcript_inner .GRANGER { color: #8080ff; /*#6060c0;*/ }
+div.vc_transcript_inner .HARRY { color: #ff0000; }
+div.vc_transcript_inner .WIRELESS { color: #737373; }
+div.vc_transcript_inner .VOLDEMORT { color: #80ff80; }
+div.vc_transcript_inner .GREY { color: '''+dialogue_50pct_grey+'''; }
 ''')
 
 def format_transcript_line(line_text):
   classes = ['vc_transcript_line']
-  match = re.match("([A-Z]+): ", line_text)
+  match = re.match("([A-Z ]+): ", line_text)
   if match:
     classes.append("dialogue")
-    classes.append(match.group(1))
+    if match.group(1) in dialogue_name_replace:
+      classes.append(dialogue_name_replace[match.group(1)])
+    else:
+      classes.append(match.group(1))
   return '<p class="'+(' '.join(classes))+'">'+line_text+'</p>'
 
 def format_transcript_recur(transcript, wide_screen_rules_list):
@@ -255,7 +257,7 @@ vc_pages = [
       (2000, 'They go to a long spiral staircase. Tonks walks down the stairs, while Granger flies down by magic, leaving a blue trail of magical energy.'),
       (2000, 'TONKS: All those people outside are yelling for his head... and we just go down...'),
       (3600, 'TONKS: and ask him questions.')],
-    "annotation": '''<p>By the way, I have a built-in way to mark pages with trigger warnings. (If you're unsure what trigger warnings are about, <a href="http://fuckyeahtriggerwarnings.tumblr.com/">this tumblr is an excellent introduction</a>.) I'm going to try to mark any page that has potentially triggering material, but <strong>I'm not a very good judge of what might be triggering</strong>, because I don't get triggered myself (in fact, I basically never get <em>any</em> undesirable emotional effect from seeing <em>any</em> visual image). So if you see a potential trigger that I haven't marked, please tell me.</p>
+    "annotation": '''<p>By the way, I have a built-in way to mark pages with content notices, to warn users about content that might be triggering &ndash; or content that they might want to avoid for any other reason. (If you're unsure what trigger warnings are about, <a href="http://fuckyeahtriggerwarnings.tumblr.com/">this tumblr is an excellent introduction</a>.) I'm going to try to mark any page that has potentially triggering material, but I'm not a very good judge of what might be triggering, because I don't get triggered myself (in fact, I basically never get <em>any</em> undesirable emotional effect from seeing <em>any</em> visual image). So if you see a potential trigger that I haven't marked, please tell me.</p>
 
 <p>The same goes for any other web accessibility issue. I care about this stuff, so if you e-mail me with an issue, I <strong>will</strong> do my best to fix it.</p>'''
   },
@@ -301,9 +303,37 @@ vc_pages = [
       (1386, '''We enter a <span class="dialogue HARRY">narrative frame</span> in which Harry describes past events. In the past, Harry is sitting with two silhouetted figures, listening to a magical wireless radio.'''),
       (1600, 'HARRY: I was on the run then, but I still had a wizarding wireless...'),
       (1722, 'WIRELESS: &ndash;terrupt with an important message from the Minister of Magic, I repeat, the Minister of Magic himself will now address&ndash;'),
-      (2660, '''We enter a <span class="dialogue WIRELESS">narrative frame</span> in which we have a direct view of the Minister of Magic, Cornelius Fudge, making his speech. Fudge is standing at a podium on a raised platform, addressing an audience of at least 50 people, and probably more that we can't see. Fudge speaks in an excessively formal way.'''),
+      (2660, '''We enter a <span class="dialogue WIRELESS">narrative frame</span> in which we have a direct view of the Minister of Magic, Cornelius Fudge, making zir speech. Fudge is standing at a podium on a raised platform, addressing an audience of at least 50 people, and probably more that we can't see. Fudge speaks in an excessively formal way.'''),
       (3090, 'FUDGE: Witches and wizards of Britain... It is my most regretful duty to inform you of the events of this morning... *ahem*... The notorious killer, Harry Potter, has made an attack on Hogwarts School of Witchcraft and Wizardry.')],
     "annotation": '''<p>You know you're reading an Eli Dupree comic when you enter two nested narrative frames on the same page.</p>''',
+  },
+  {
+    "transcript": [
+      (0, 'Fudge continues zir speech.'),
+      (0, 'FUDGE: Potter and an unknown number of his allies invaded Hogwarts Castle just after midnight last night, massacring students and releasing Fiendfyre in the Hogwarts dungeon.'),
+      (0, 'FUDGE: The following students are missing and presumed dead, their bodies destroyed in the cursed fire: Millicent Bulstrode, Vincent Crabbe, Daphne Greengrass, Draco Malfoy, Graham Montague, Pansy Parkinson, Charles Warrington, Blaise Zabini.'),
+      (1400, 'FUDGE: The headmaster is injured by alive. We will now observe a moment of silence for the deceased.'),
+      (1850, 'Time passes in silence, represented by an hourglass in a spiral.'),
+      (2233, '''FUDGE: Potter and his allies, whoever they may be, have made themselves the enemy of wizarding society &ndash; an enemy such as we have not seen since the downfall of the self-styled Lord Voldemort over ten years ago. The older generations among us remember the name of Harry Potter as our salvation, but today, we have seen that Potter and his allies... are Voldemort's children.'''),
+    ],
+    "annotation":'''<p>When Fudge says <q>The downfall of the self-styled Lord Voldemort</q>, ze is referring to events when Harry was an infant.</p><p><i>Harry Potter</i> fans might find it strange that Fudge is willing to casually use the name <q>Voldemort</q>. I decided that the convention of being afraid to say zir name out loud didn't add to the themes I'm trying to push forward, and it's a bit of a confusing distraction. (By comparison, in the original series, that convention <em>does</em> add to a major theme &ndash; namely, the theme of overcoming one's fear. <i>Voldemort's Children</i> sneers at that theme.)</p>''',
+  },
+  {
+    "transcript": [
+      (0, 'Fudge continues zir speech.'),
+      (0, 'FUDGE: A representative from the Auror Office will now brief you on our progress against this Dark enemy.'),
+      (0, 'PAST GRANGER: Thank you, Mr Fudge. Sonorus!'),
+      (0, '''{ "Sonorus" is the incantation for a spell that makes the caster's voice loud, as one would use to make a speech. }'''),
+      (760, '''PRESENT HARRY: You weren't Head of Office yet, but everyone knew you would be.'''),
+      (891, '''PAST GRANGER: With all respect to the Minister... The Auror Office believes that Potter is not a Dark Lord, but merely a self-aggrandizing serial killer motivated by petty revenge against those he believes have wronged him. Have we become so content since Voldemort's fall that <em>this</em> is what we imagine it must be like to live in a Dark Lord's shadow? Potter is running to hide from our Aurors even as we speak. In Voldemort's time...'''),
+      (2550, '''We enter a <span class="dialogue GREY">narrative frame</span> in which Granger describes a time farther in the past, when <span class="dialogue VOLDEMORT">Voldemort</span> was in power. Voldemort is a tall person in dark robes, with no distinguishing features except that zir mouth is always a flat, expressionless line. The top of zir head is obscured in shadow, so that zir eyes cannot be seen. Ze wears a spiral object on a band around zir neck. Ze is followed by two animal companions: a bright green snake and a black cat with bright orange eyes. Zir wand is white, possibly bone or ivory. Zir speech is drawn in a very rigid style, with lots of straight lines and sharp corners.'''),
+      (2728, 'VOLDEMORT: Avada kedavra.'),
+      (2728, 'Voldemort is pointing zir wand at two other people and casting the Killing Curse, illuminating them with green light. One of them is hit. The other is running away.'),
+      (3256, 'VOLDEMORT: Ha. Ha.'),
+      (3762, '<span class="dialogue GREY">PAST GRANGER</span> { continuing zir speech }: <span class="dialogue GREY">...Aurors ran from <em>him</em>.</span>'),
+    ],
+    
+    "annotation":'''<p>I'm pretty sure I've made Voldemort creepy enough.</p><p>The timeline here can be a bit confusing. Fiendfyre is an advanced spell, so the students must be relatively old, but the presumed-dead ones are all still at Hogwarts, so the most likely time for the attack is in (what would be) Harry's sixth year. So how is Granger an Auror already? When did Harry leave Hogwarts to become a notorious killer? Why didn't Voldemort return when ze did in the books? These questions will be answered in time.</p>''',
   },
 ]
 for i in range(0,len(vc_pages)):
