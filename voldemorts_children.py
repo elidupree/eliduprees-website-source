@@ -107,7 +107,36 @@ def vc_navbar():
 
 print("make the in-comic next page link work")
 def vc_page_html(page):
-  return '<div class="vc_comic_and_nav">'+vc_navbar()+'<main><div class="vc_comic_and_transcript"><div class="vc_comic"><a href="next comic"><img class="vc_comic" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" /></a></div><div class="vc_transcript_outer"><div class="vc_transcript_inner">Transcript: <a href="javascript">(show)</a><br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/></div></div></div>'+vc_navbar()+'<div class="vc_annotation_outer"><div class="vc_annotation"><div class="blog_post"><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p></div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+'foo'+'">Permalink</a></div></div></div></div></div></main>'
+  return (
+    '''
+<div class="vc_comic_and_nav">'''
+  +vc_navbar()+'''
+  <main>
+    <div class="vc_comic_and_transcript">
+      <div class="vc_comic">
+        <a href="next comic">
+          <img class="vc_comic" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" />
+        </a>
+      </div>
+      <div class="vc_transcript_outer">
+        <div class="vc_transcript_inner">
+          Transcript: <a href="javascript">(show)</a><br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>
+        </div>
+      </div>
+    </div>'''
+    +vc_navbar()+'''
+    <div class="vc_annotation_outer">
+      <div class="vc_annotation">
+        <div class="blog_post">
+          <p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p>
+        </div>
+        <div class="blog_post_metadata_outer">
+          <div class="blog_post_metadata">Posted May 14, 2015'''+utils.inline_separator+'<a rel="bookmark" href="'+'foo'+'''">Permalink</a></div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>''')
   
 def vc_trigger_warning_bars_wrap(info, html):
   return '<div class="vc_trigger_warning_box">'+top_bar.top_bar(info)+'<section><div class="vc_trigger_warning_text"><div class="vc_trigger_warning_main_text"><p>The following page contains depictions of gratuitous faux Latin.</p><p><a class="dismiss_trigger_warning" href="javascript">View the comic</a></p></div><div class="vc_trigger_warning_details"><p><a class="disable_trigger_warnings" href="javascript">Disable content notices for this site</a></p></div></div></section></div><div class="vc_box_after_trigger_warning"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
