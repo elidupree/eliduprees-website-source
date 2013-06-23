@@ -153,8 +153,8 @@ def vc_page_html_and_head(page, prev_page, next_page, prev_page_url, next_page_u
 }
 </style>''')
   
-def vc_content_notice_bars_wrap(info, html):
-  return '<div class="vc_content_notice_box">'+top_bar.top_bar(info)+'<section><div class="vc_content_notice_text"><div class="vc_content_notice_main_text"><p>The following page contains depictions of gratuitous faux Latin.</p><p><a class="dismiss_content_notice" href="javascript">View the comic</a></p></div><div class="vc_content_notice_details"><p><a class="disable_content_notices" href="javascript">Disable content notices for this site</a></p></div></div></section></div><div class="vc_box_after_content_notice"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
+def vc_content_notice_bars_wrap(info, notice, html):
+  return '<div class="vc_content_notice_box">'+top_bar.top_bar(info)+'<section><div class="vc_content_notice_text"><div class="vc_content_notice_main_text"><p>The following page '+notice+'</p><p><a class="dismiss_content_notice" href="javascript">View the comic</a></p></div><div class="vc_content_notice_details"><p><a class="disable_content_notices" href="javascript">Disable content notices for this site</a></p></div></div></section></div><div class="vc_box_after_content_notice"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
 
 # in place of "Disable content notices for this site",
 # "You could disable content notices if you had cookies enabled for this site",
@@ -196,6 +196,7 @@ def format_transcript(transcript, wide_screen_rules_list):
 
 vc_pages = [
   {
+    "content_notice": 'contains depictions of gratuitous faux Latin.',
     "transcript": [
       (0, 'Hermione Granger stands in a room labeled "Auror Offices". There are bookshelves along the wall. Granger has zir hair tied back, wears a long dark coat, and has very reserved mannerisms. Nymphadora Tonks enters the room. Tonks is more easygoing than Granger, wears a shorter, lighter coat, and has short spiky pink hair.'),
       (55, 'TONKS: Granger, you called?'),
@@ -234,6 +235,9 @@ def add_vc_pages(page_dict):
 +('<link rel="next prefetch prerender" href="'+next_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(next_page)+'" />\n' if next_page else '')
 +('<link rel="prev prefetch prerender" href="'+prev_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(prev_page)+'" />\n' if prev_page else '')
 ,
-        '<body class="voldemorts_children">'+vc_content_notice_bars_wrap({"comics":True }, html)+'</body>'
+        '<body class="voldemorts_children">'+(
+           vc_content_notice_bars_wrap({"comics":True}, vc_page["content_notice"], html) if "content_notice" in vc_page else
+                        bars.bars_wrap({"comics":True},                            html)
+        )+'</body>'
       )
     )
