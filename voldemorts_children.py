@@ -57,6 +57,14 @@ div.vc_transcript_inner {
   .vc_transcript_hidden div.vc_transcript_outer {
     width: 170px; }
 }
+
+div.vc_annotation {
+  max-width: 36.75em;
+  margin: 1em auto;
+}
+div.vc_annotation .blog_post {
+  background-color: #cccccc
+}
 ''')
 
 def vc_navbar():
@@ -64,7 +72,7 @@ def vc_navbar():
 
 print("make the in-comic next page link work")
 def vc_page_html(page):
-  return '<main><div class="vc_comic_and_nav">'+vc_navbar()+'<div class="vc_comic_and_transcript"><div class="vc_comic"><a href="next comic"><img class="vc_comic" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" /></a></div><div class="vc_transcript_outer"><div class="vc_transcript_inner">Transcript: <a href="javascript">(show)</a><br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/></div></div></div>'+vc_navbar()+'</div></main>'
+  return '<div class="vc_comic_and_nav">'+vc_navbar()+'<main><div class="vc_comic_and_transcript"><div class="vc_comic"><a href="next comic"><img class="vc_comic" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" /></a></div><div class="vc_transcript_outer"><div class="vc_transcript_inner">Transcript: <a href="javascript">(show)</a><br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/></div></div></div>'+vc_navbar()+'</div><div class="vc_annotation"><div class="blog_post"><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p></div></div></main>'
 
 vc_pages = [
   2
