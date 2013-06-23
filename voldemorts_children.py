@@ -107,22 +107,25 @@ div.vc_annotation .blog_post {
 div.vc_annotation .blog_post_metadata {
   background-color: rgba(204,204,204,.7) }''')
 
-def vc_navbar():
-  return '<div class="vc_nav_bar"><div class="vc_nav_button prev"><a rel="prev" href="prev page">Previous</a></div><div class="vc_nav_button next"><a rel="next" href="next page">Next</a></div></div>'
+def vc_navbar(prev_page, next_page, prev_page_url, next_page_url):
+  return '<div class="vc_nav_bar">'+('<div class="vc_nav_button prev"><a rel="prev" href="'+prev_page_url+'">Previous</a></div>' if prev_page else '')+('<div class="vc_nav_button next"><a rel="next" href="'+next_page_url+'">Next</a></div>' if next_page else '')+'</div>'
+  
+def vc_comic_image_url(page):
+  return 'http://deqyc5bzdh53a.cloudfront.net/VC_2.png'
 
-print("make the in-comic next page link work")
-def vc_page_html_and_head(page):
+def vc_page_html_and_head(page, prev_page, next_page, prev_page_url, next_page_url):
   wide_screen_rules_list = []
+  navbar = vc_navbar(prev_page, next_page, prev_page_url, next_page_url)
   return (
     '''
 <div class="vc_comic_and_nav">'''
-  +vc_navbar()+'''
+  +navbar+'''
   <main>
     <div class="vc_comic_and_transcript">
       <div class="vc_comic">
-        <a href="next comic">
-          <img class="vc_comic" src="http://deqyc5bzdh53a.cloudfront.net/VC_2.png" />
-        </a>
+        '''+('<a href="'+next_page_url+'">' if next_page else '')+'''
+          <img class="vc_comic" src="'''+vc_comic_image_url(page)+'''" />
+        '''+('</a>'                         if next_page else '')+'''
       </div><!--
    --><div class="vc_transcript_outer">
         <div class="vc_transcript_inner">
@@ -130,7 +133,7 @@ def vc_page_html_and_head(page):
         </div>
       </div>
     </div>'''
-    +vc_navbar()+'''
+    +navbar+'''
     <div class="vc_annotation_outer">
       <div class="vc_annotation">
         <div class="blog_post">
@@ -207,15 +210,30 @@ vc_pages = [
   },
 ]
 
+def vc_webname_base(page_number):
+  return 'voldemorts-children'+('' if page_number == 0 else '/'+str(page_number))
+def vc_page_url(page_number):
+  return '/'+vc_webname_base(page_number)
+def vc_page_filename(page_number):
+  return vc_webname_base(page_number)+'.html'
+
+
 def add_vc_pages(page_dict):
   for i in range(0,len(vc_pages)):
     vc_page = vc_pages[i]
-    html, head = vc_page_html_and_head(vc_page)
+    next_page = (vc_pages[i-1] if i>0 else None)
+    prev_page = (vc_pages[i+1] if i+1 < len(vc_pages) else None)
+    next_page_url = (vc_page_url(i+1) if next_page else None)
+    prev_page_url = (vc_page_url(i-1) if prev_page else None)
+    html, head = vc_page_html_and_head(vc_page, prev_page, next_page, prev_page_url, next_page_url)
     utils.checked_insert(page_dict,
-      'voldemorts-children'+('' if i == 0 else '/'+str(i))+'.html',
+      vc_page_filename(i),
       html_pages.make_page(
         "Eli Dupree's website ⊃ Voldemort's Children ⊃ Page "+str(i),
-        head,
+        head
++('<link rel="next prefetch prerender" href="'+next_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(next_page)+'" />\n' if next_page else '')
++('<link rel="prev prefetch prerender" href="'+prev_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(prev_page)+'" />\n' if prev_page else '')
+,
         '<body class="voldemorts_children">'+vc_trigger_warning_bars_wrap({"comics":True }, html)+'</body>'
       )
     )
