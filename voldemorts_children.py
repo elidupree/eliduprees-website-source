@@ -12,11 +12,31 @@ css.insert('''
 div.vc_trigger_warning_box {
   height: 100%; }
 div.vc_trigger_warning_text {
+  margin: 2em auto;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center; }
+div.vc_trigger_warning_text a {
+  color: #ffc800; }
+div.vc_trigger_warning_main_text {
   font-size: 120%;
-  text-align: center;
-}
+  margin: 0 auto;
+  max-width: 35em;
+  border: 3px solid white;
+  border-radius: 2em; }
+div.vc_trigger_warning_details {
+  font-size: 80%;
+  margin: 0 auto;
+  max-width: 35em; }
+a.dismiss_trigger_warning {
+  display: block;
+  font-size: 200%;
+  margin-top: 0.6em;
+  padding: 0.15em;
+  font-weight: bold; }
+a.disable_trigger_warnings {
+  display: block;
+  padding: 0.5em; }
 div.vc_box_after_trigger_warning {
   position: relative; }
   
@@ -91,7 +111,7 @@ def vc_page_html(page):
   return '<div class="vc_comic_and_nav">'+vc_navbar()+'<main><div class="vc_comic_and_transcript"><div class="vc_comic"><a href="next comic"><img class="vc_comic" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" /></a></div><div class="vc_transcript_outer"><div class="vc_transcript_inner">Transcript: <a href="javascript">(show)</a><br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/></div></div></div>'+vc_navbar()+'<div class="vc_annotation_outer"><div class="vc_annotation"><div class="blog_post"><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p></div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+'foo'+'">Permalink</a></div></div></div></div></div></main>'
   
 def vc_trigger_warning_bars_wrap(info, html):
-  return '<div class="vc_trigger_warning_box">'+top_bar.top_bar(info)+'<section><div class="vc_trigger_warning_text"><h1>Content notice</h1><p>The following page contains depictions of gratuitous faux Latin. Viewer discretion is advised.</p><p><a>Click here to disable trigger warnings for this site</a></p></div></section></div><div class="vc_box_after_trigger_warning"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
+  return '<div class="vc_trigger_warning_box">'+top_bar.top_bar(info)+'<section><div class="vc_trigger_warning_text"><div class="vc_trigger_warning_main_text"><h1>Content notice</h1><p>The following page contains depictions of gratuitous faux Latin. Viewer discretion is advised.</p><p><a class="dismiss_trigger_warning" href="javascript">View the comic</a></p></div><div class="vc_trigger_warning_details"><p><a class="disable_trigger_warnings" href="javascript">Disable content notices for this site</a></p><p>Full-page content notices appear when you follow a link from an external site (or a bookmark, or typing the URL in directly &ndash; anything that&apos;s not an internal link). I mark my internal links, but I can&apos;t assume that others will do the same.</p></div></div></section></div><div class="vc_box_after_trigger_warning"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
 
 vc_pages = [
   2
