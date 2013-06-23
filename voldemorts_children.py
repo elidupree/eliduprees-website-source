@@ -77,6 +77,8 @@ div.vc_nav_button.next {
 div.vc_transcript_inner {
   padding: 0.5em;
   color:white; }
+div.vc_transcript_inner a {
+  color: #ffc800; }
   
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
   div.vc_comic_and_nav {
