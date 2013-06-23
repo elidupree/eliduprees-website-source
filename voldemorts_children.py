@@ -12,34 +12,34 @@ transcript_at_side_width = 1090;
 comic_width = 750;
 
 css.insert('''
-div.vc_trigger_warning_box {
+div.vc_content_notice_box {
   height: 100%; }
-div.vc_trigger_warning_text {
+div.vc_content_notice_text {
   margin: 2em auto;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center; }
-div.vc_trigger_warning_text a {
+div.vc_content_notice_text a {
   color: #ffc800; }
-div.vc_trigger_warning_main_text {
+div.vc_content_notice_main_text {
   font-size: 120%;
   margin: 0 auto;
   max-width: 35em;
   border: 3px solid white;
   border-radius: 2em; }
-div.vc_trigger_warning_details {
+div.vc_content_notice_details {
   margin: 0 auto;
   max-width: 35em; }
-a.dismiss_trigger_warning {
+a.dismiss_content_notice {
   display: block;
   font-size: 200%;
   margin-top: 0.6em;
   padding: 0.15em;
   font-weight: bold; }
-a.disable_trigger_warnings {
+a.disable_content_notices {
   display: block;
   padding: 0.5em; }
-div.vc_box_after_trigger_warning {
+div.vc_box_after_content_notice {
   position: relative; }
   
 div.vc_comic_and_nav {
@@ -153,8 +153,8 @@ def vc_page_html_and_head(page, prev_page, next_page, prev_page_url, next_page_u
 }
 </style>''')
   
-def vc_trigger_warning_bars_wrap(info, html):
-  return '<div class="vc_trigger_warning_box">'+top_bar.top_bar(info)+'<section><div class="vc_trigger_warning_text"><div class="vc_trigger_warning_main_text"><p>The following page contains depictions of gratuitous faux Latin.</p><p><a class="dismiss_trigger_warning" href="javascript">View the comic</a></p></div><div class="vc_trigger_warning_details"><p><a class="disable_trigger_warnings" href="javascript">Disable content notices for this site</a></p></div></div></section></div><div class="vc_box_after_trigger_warning"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
+def vc_content_notice_bars_wrap(info, html):
+  return '<div class="vc_content_notice_box">'+top_bar.top_bar(info)+'<section><div class="vc_content_notice_text"><div class="vc_content_notice_main_text"><p>The following page contains depictions of gratuitous faux Latin.</p><p><a class="dismiss_content_notice" href="javascript">View the comic</a></p></div><div class="vc_content_notice_details"><p><a class="disable_content_notices" href="javascript">Disable content notices for this site</a></p></div></div></section></div><div class="vc_box_after_content_notice"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
 
 # in place of "Disable content notices for this site",
 # "You could disable content notices if you had cookies enabled for this site",
@@ -234,6 +234,6 @@ def add_vc_pages(page_dict):
 +('<link rel="next prefetch prerender" href="'+next_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(next_page)+'" />\n' if next_page else '')
 +('<link rel="prev prefetch prerender" href="'+prev_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(prev_page)+'" />\n' if prev_page else '')
 ,
-        '<body class="voldemorts_children">'+vc_trigger_warning_bars_wrap({"comics":True }, html)+'</body>'
+        '<body class="voldemorts_children">'+vc_content_notice_bars_wrap({"comics":True }, html)+'</body>'
       )
     )
