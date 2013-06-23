@@ -132,7 +132,7 @@ def vc_page_html_and_head(page):
     <div class="vc_annotation_outer">
       <div class="vc_annotation">
         <div class="blog_post">
-          <p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p>
+          '''+page["annotation"]+'''
         </div>
         <div class="blog_post_metadata_outer">
           <div class="blog_post_metadata">Posted May 14, 2015'''+utils.inline_separator+'<a rel="bookmark" href="'+'foo'+'''">Permalink</a></div>
@@ -199,6 +199,9 @@ vc_pages = [
       (2000, 'They go to a long spiral staircase. Tonks walks down the stairs, while Granger flies down by magic.'),
       (2000, 'TONKS: All those people outside are yelling for his head... and we just go down...'),
       (3600, 'TONKS: and ask him questions.')],
+    "annotation": '''<p>By the way, I have a built-in way to mark pages with trigger warnings. (If you're unsure what trigger warnings are about, <a href="http://fuckyeahtriggerwarnings.tumblr.com/">this tumblr is an excellent introduction</a>.) I'm going to try to mark any page that has potentially triggering material, but <strong>I'm not a very good judge of what might be triggering</strong>, because I don't get triggered myself (in fact, I basically never get <em>any</em> undesirable emotional effect from seeing <em>any</em> visual image). So if you see a potential trigger that I haven't marked, please tell me.</p>
+
+<p>The same goes for any other web accessibility issue. I care about this stuff, so if you e-mail me with an issue, I <strong>will</strong> do my best to fix it.</p>'''
   },
 ]
 
