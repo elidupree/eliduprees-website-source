@@ -80,6 +80,8 @@ div.vc_transcript_inner {
   color:white; }
 div.vc_transcript_inner a {
   color: #ffc800; }
+div.vc_transcript_label {
+  padding-bottom: 1.1em; }
   
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
   div.vc_comic_and_nav {
@@ -195,7 +197,7 @@ def format_transcript_recur(transcript, wide_screen_rules_list):
     return '<div class="vc_transcript_box px'+height_num_str+'">'+format_transcript_recur(transcript[0:len(transcript) - 1], wide_screen_rules_list)+'</div>'+line_info[1]
 
 def format_transcript(transcript, wide_screen_rules_list):
-  entries = [(0, 'Transcript: <a href="javascript">(hide)</a>')]
+  entries = [(0, '<div class="vc_transcript_label">Transcript: <a href="javascript">(hide)</a></div>')]
   entries.extend([(a, format_transcript_line(b)) for (a, b) in transcript])
   return format_transcript_recur(entries, wide_screen_rules_list)
 
