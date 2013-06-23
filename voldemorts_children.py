@@ -1,4 +1,5 @@
 
+import re
 import utils
 import css
 import top_bar
@@ -7,6 +8,8 @@ import html_pages
 
 
 vc_content_margin = "4em";
+transcript_at_side_width = 1090;
+comic_width = 750;
 
 css.insert('''
 div.vc_trigger_warning_box {
@@ -40,20 +43,20 @@ div.vc_box_after_trigger_warning {
   position: relative; }
   
 div.vc_comic_and_nav {
-  width: 750px;
+  width: '''+str(comic_width)+'''px;
   margin: 2em auto; }
 div.vc_comic_and_transcript {
   margin: 5em 0; }
 div.vc_comic {
   display: inline-block;
-  width: 750px; }
+  width: '''+str(comic_width)+'''px; }
 img.vc_comic {
-  width: 750px; }
+  width: '''+str(comic_width)+'''px; }
 div.vc_transcript_outer {
-  width: 750px; }
+  width: '''+str(comic_width)+'''px; }
   
 div.vc_nav_bar {
-  width: 750px; }
+  width: '''+str(comic_width)+'''px; }
 div.vc_nav_button {
   display: inline-block;
   color: #ffc800;
@@ -75,22 +78,22 @@ div.vc_transcript_inner {
   padding: 0.5em;
   color:white; }
   
-@media screen and (min-width: 1090px) {
+@media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
   div.vc_comic_and_nav {
-    width: 1090px; }
+    width: '''+str(transcript_at_side_width)+'''px; }
   div.vc_transcript_outer {
     display: inline-block;
-    width: 340px;
+    width: '''+str(transcript_at_side_width-comic_width)+'''px;
     vertical-align: top; }
   .vc_transcript_hidden div.vc_comic_and_nav {
-    width: 920px;
-    padding-left: 170px; }
+    width: '''+str((transcript_at_side_width+comic_width)/2)+'''px;
+    padding-left: '''+str((transcript_at_side_width-comic_width)/2)+'''px; }
   .vc_transcript_hidden div.vc_transcript_outer {
-    width: 170px; }
+    width: '''+str((transcript_at_side_width-comic_width)/2)+'''px; }
 }
 
 div.vc_annotation_outer {
-  width: 750px;
+  width: '''+str(comic_width)+'''px;
 }
 div.vc_annotation {
   max-width: 36.75em;
@@ -106,7 +109,8 @@ def vc_navbar():
   return '<div class="vc_nav_bar"><div class="vc_nav_button prev"><a rel="prev" href="prev page">Previous</a></div><div class="vc_nav_button next"><a rel="next" href="next page">Next</a></div></div>'
 
 print("make the in-comic next page link work")
-def vc_page_html(page):
+def vc_page_html_and_head(page):
+  wide_screen_rules_list = []
   return (
     '''
 <div class="vc_comic_and_nav">'''
@@ -115,12 +119,12 @@ def vc_page_html(page):
     <div class="vc_comic_and_transcript">
       <div class="vc_comic">
         <a href="next comic">
-          <img class="vc_comic" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" />
+          <img class="vc_comic" src="http://deqyc5bzdh53a.cloudfront.net/VC_2.png" />
         </a>
-      </div>
-      <div class="vc_transcript_outer">
+      </div><!--
+   --><div class="vc_transcript_outer">
         <div class="vc_transcript_inner">
-          Transcript: <a href="javascript">(show)</a><br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>
+          '''+format_transcript(page["transcript"], wide_screen_rules_list)+'''
         </div>
       </div>
     </div>'''
@@ -136,7 +140,13 @@ def vc_page_html(page):
       </div>
     </div>
   </main>
-</div>''')
+</div>''',
+  '''
+<style type="text/css">
+@media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
+  '''+'\n'.join(wide_screen_rules_list)+'''
+}
+</style>''')
   
 def vc_trigger_warning_bars_wrap(info, html):
   return '<div class="vc_trigger_warning_box">'+top_bar.top_bar(info)+'<section><div class="vc_trigger_warning_text"><div class="vc_trigger_warning_main_text"><p>The following page contains depictions of gratuitous faux Latin.</p><p><a class="dismiss_trigger_warning" href="javascript">View the comic</a></p></div><div class="vc_trigger_warning_details"><p><a class="disable_trigger_warnings" href="javascript">Disable content notices for this site</a></p></div></div></section></div><div class="vc_box_after_trigger_warning"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
@@ -145,18 +155,62 @@ def vc_trigger_warning_bars_wrap(info, html):
 # "You could disable content notices if you had cookies enabled for this site",
 # "You could disable content notices if you had Javascript and cookies enabled for this site",
 
+css.insert('''
+p.vc_transcript_line {
+  margin-top: 0;
+  line-height: 1.2em; }
+p.vc_transcript_line.dialogue {
+  font-weight: bold; }
+p.vc_transcript_line.TONKS {
+  color: #bf98af; /*#7f6574;*/ }
+p.vc_transcript_line.GRANGER {
+  color: #8080ff; /*#6060c0;*/ }
+''')
+
+def format_transcript_line(line_text):
+  classes = ['vc_transcript_line']
+  match = re.match("([A-Z]+): ", line_text)
+  if match:
+    classes.append("dialogue")
+    classes.append(match.group(1))
+  return '<p class="'+(' '.join(classes))+'">'+line_text+'</p>'
+
+def format_transcript_recur(transcript, wide_screen_rules_list):
+  if len(transcript) == 0:
+    return ''
+  else:
+    line_info = transcript[len(transcript) - 1]
+    height_num_str = str(line_info[0] // 4)
+    wide_screen_rules_list.append('.vc_transcript_box.px'+height_num_str+' { min-height: '+height_num_str+'px }')
+    return '<div class="vc_transcript_box px'+height_num_str+'">'+format_transcript_recur(transcript[0:len(transcript) - 1], wide_screen_rules_list)+'</div>'+line_info[1]
+
+def format_transcript(transcript, wide_screen_rules_list):
+  entries = [(0, 'Transcript: <a href="javascript">(hide)</a>')]
+  entries.extend([(a, format_transcript_line(b)) for (a, b) in transcript])
+  return format_transcript_recur(entries, wide_screen_rules_list)
+
 vc_pages = [
-  2
+  {
+    "transcript": [
+      (0, 'Hermione Granger stands in a room labeled "Auror Offices". There are bookshelves along the wall. Granger has zir hair tied back, wears a long dark coat, and has very reserved mannerisms. Nymphadora Tonks enters the room. Tonks is more easygoing than Granger, wears a shorter, lighter coat, and has short spiky pink hair.'),
+      (55, 'TONKS: Granger, you called?'),
+      (980, 'GRANGER: Yes... I will speak with the prisoner &ndash; Attend me.'),
+      (1655, 'TONKS: I can&apos;t get over it...'),
+      (2000, 'They go to a long spiral staircase. Tonks walks down the stairs, while Granger flies down by magic.'),
+      (2000, 'TONKS: All those people outside are yelling for his head... and we just go down...'),
+      (3600, 'TONKS: and ask him questions.')],
+  },
 ]
 
 def add_vc_pages(page_dict):
   for i in range(0,len(vc_pages)):
     vc_page = vc_pages[i]
+    html, head = vc_page_html_and_head(vc_page)
     utils.checked_insert(page_dict,
       'voldemorts-children'+('' if i == 0 else '/'+str(i))+'.html',
       html_pages.make_page(
         "Eli Dupree's website ⊃ Voldemort's Children ⊃ Page "+str(i),
-        "",
-        '<body class="voldemorts_children">'+vc_trigger_warning_bars_wrap({"comics":True }, vc_page_html(vc_page))+'</body>'
+        head,
+        '<body class="voldemorts_children">'+vc_trigger_warning_bars_wrap({"comics":True }, html)+'</body>'
       )
     )
