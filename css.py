@@ -14,7 +14,7 @@ html,body {
   height: 100%;
 }
 h1 { font-size: 300%; padding: 0.2em }
-p { margin: 0.9em 0; line-height:1.35em; text-indent: 2em }
+p { margin: 0.9em 0; line-height:1.35em; }
 a:link { color:blue }
 a:visited { color:purple }
 img.background {
