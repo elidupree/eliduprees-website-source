@@ -191,8 +191,11 @@ def vc_content_notice_bars_wrap(info, notice, html):
 
 dialogue_50pct_grey = '#8c8c8c'
 dialogue_name_replace = {
-  "FUDGE":"GREY", "PAST GRANGER":"GREY",
+  "TITLE":True,
+  "TONKS":True,"GRANGER":True,"HARRY":True,"VOLDEMORT":True,
+  "WIRELESS":True,"LESTRANGE":True,
   "PRESENT HARRY":"HARRY",
+  "FUDGE":"GREY", "PAST GRANGER":"GREY",
 }
 css.insert('''
 p.vc_transcript_line {
@@ -205,6 +208,7 @@ div.vc_transcript_inner .GRANGER { color: #8080ff; /*#6060c0;*/ }
 div.vc_transcript_inner .HARRY { color: #ff0000; }
 div.vc_transcript_inner .WIRELESS { color: #737373; }
 div.vc_transcript_inner .VOLDEMORT { color: #80ff80; }
+div.vc_transcript_inner .LESTRANGE { color: #c8ff00; }
 div.vc_transcript_inner .GREY { color: '''+dialogue_50pct_grey+'''; }
 ''')
 
@@ -214,9 +218,8 @@ def format_transcript_line(line_text):
   if match:
     classes.append("dialogue")
     if match.group(1) in dialogue_name_replace:
-      classes.append(dialogue_name_replace[match.group(1)])
-    else:
-      classes.append(match.group(1))
+      entry = dialogue_name_replace[match.group(1)]
+      classes.append(match.group(1) if entry is True else entry)
   return '<p class="'+(' '.join(classes))+'">'+line_text+'</p>'
 
 def format_transcript_recur(transcript, wide_screen_rules_list):

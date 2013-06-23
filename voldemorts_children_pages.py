@@ -101,9 +101,56 @@ vc_pages = [
       (3762, '<span class="dialogue GREY">PAST GRANGER</span> { continuing zir speech }: <span class="dialogue GREY">...Aurors ran from <em>him</em>.</span>'),
     ],
     
-    "annotation":'''<p>I'm pretty sure I've made Voldemort creepy enough.</p><p>The timeline here can be a bit confusing. Fiendfyre is an advanced spell, so the students must be relatively old, but the presumed-dead ones are all still at Hogwarts, so the most likely time for the attack is in (what would be) Harry's sixth year. So how is Granger an Auror already? When did Harry leave Hogwarts to become a notorious killer? Why didn't Voldemort return when ze did in the books? These questions will be answered in time.</p>''',
+    "annotation":'''<p>I'm pretty sure I've made Voldemort creepy enough.</p><p>The timeline here can be a bit confusing. Fiendfyre is an advanced spell, so the students must be relatively old, but the presumed-dead ones are were still at Hogwarts. The most likely time for the attack is in (what would be) Harry's sixth year. So how is Granger an Auror already? When did Harry leave Hogwarts to become a notorious killer? Why didn't Voldemort return at the same time ze did in the books? These questions will be answered in time.</p>''',
+  },
+  {
+    "transcript": [
+      (0, 'PAST GRANGER: Voldemort sometimes killed more in one day than Potter has in his entire life. He did whatever he wanted, and no-one could stop him. He had torn his own soul into seven pieces and hidden them in the dark corners of the earth so that he could never be killed. The Killing Curse did nothing to him.'),
+      (0, '''There is an illustration of Voldemort with zir cat and snake, holding a black sphere, with seven white pieces fragments surrounding zem. In all the images of Voldemort on this page, ze is still wearing the spiral object and still has zir face obscured.'''),
+      (900, '''PAST GRANGER: He tortured innocent people for his own amusement...'''),
+      (900, '''There is an illustration of Voldemort standing over a person who is lying on the ground.'''),
+      (900, '''VOLDEMORT: Crucio.'''),
+      (900, '''PERSON TORTURED: AAAAAAAAAAAAAAAAAAAAAAA'''),
+      (1050, '''PAST GRANGER: He had a Time-Twister and he pushed it to its limit. He did more damage to the flow of time than any witch or wizard since Merlin...'''),
+      (1050, '''We get a closer look at the spiral object Voldemort has been wearing around zir neck. It is a small hourglass in a clockwise-as-you-move-inwards spiral. Part of the band is yellowish, but closer to the hourglass, it fades to blue. Voldemort's hand is reaching down to manipulate it.'''),
+      (1200, '''PAST GRANGER: Even his own followers were afraid of him. He had no mercy for the slightest failure or irritation.'''),
+      (1200, '''There is an illustration of Bellatrix Lestrange kneeling before Voldemort. Lestrange has long shiny black hair.'''),
+      (1200, '''LESTRANGE: Master, I've killed half the Wizengamot.'''),
+      (1200, '''{ The Wizengamot is the high court of magical Britain. }'''),
+      (1200, '''VOLDEMORT: Half live? Crucio.'''),
+      (1200, '''LESTRANGE: AAAAAAAAAAAAAAAAAAAAAAA'''),
+      (2134, '''PAST GRANGER: And worst of all, no one knew what made him do it. He was an event without reason or cause. Even when a great Legilimens tried to look into his mind...'''),
+      (2134, '''Illustration: An unnamed Legilimens and Voldemort face each other. A ray of magical energy joins their eyes. The Legilimens is blasted by the energy.'''),
+      (2134, '''PAST GRANGER: The resulting psychic backlash left her unconscious for weeks, and when she woke, she did not remember anything she'd seen.'''),
+      (2629, '''VOLDEMORT: Ha. Ha.'''),
+      (2950, '''The narrative frame of Past Granger describing Voldemort closes, and we see Past Granger on the platform giving the speech again.'''),
+      (2950, '''PAST GRANGER: Potter is none of those things! We know his motivations, and his weaknesses! We will apprehend him and he will stand trial like any other common crimin&ndash;'''),
+      (3250, '''<span class="dialogue HARRY">PAST HARRY: Confringo!!</span>'''),
+      (3250, '''{ Confringo is the incantation of the Blasting Curse. } The narrative frame of the wireless playing the speeches closes as Harry blows up the wireless. We are back with Harry and the two silhouettes. The silhouettes dive out of the way of the explosion.'''),
+    ],
+    "annotation": '''<p>Ah, the Time-Twister.</p>
+    
+<p>In the original series, there is a device called a <q>Time-Turner</q> that can magically transport you back in time by one hour. That has huge implications about the nature of the universe, and it's abundantly unclear what its limitations are; the original series just glosses over them. But logically, you'd expect them to be a huge issue &ndash; the Aurors would all have them, Voldemort would probably have one, and every important battle would be based on tricky uses of time travel.</p>
+
+<p>So I had three choices: I could justify Time-Turners, I could eliminate them entirely, or I could change them into something else. <a href="http://www.elidupree.com/main/posts/38-recommended-website-harry-potter-and-the-methods-of-rationality"><i>Harry Potter and the Methods of Rationality</i></a> takes the first option; it creates a consistent set of rules for how Time-Turners work and how they handle temporal paradoxes. I didn't want to do that, because this isn't a story about time shenanigans; it's more of a story about characters and their emotional interactions. So it was between eliminating Time-Turners and changing them.</p>
+
+<p>I didn't want to eliminate them because I <em>really really liked</em> the symbolism of Hermione using the Time-Turner to take extra classes &ndash; it shows a lot about how dedicated someone is when ze's willing to warp the very fabric of time in order to pursue zir goals. So I left the object in, but changed it. The Time-Twister doesn't send you back in time by an hour... it just gives you an extra hour, somehow, and no one's exactly sure how it works. You can use it go to two classes that are at the same time, but if you do, you won't remember which order you went to them in, and if someone follows you around, they'll come to both classes with you &ndash; so the Time-Twister doesn't just affect you, it affects everyone around you.</p>
+
+<p>The other reason I made Time-Twisters is because some parts of my plot are anachronistic to the canon timeline, and I didn't want to bother restructuring the timeline to work out &ndash; instead I just handwave it by saying everything happens at the right time due to the damage done by Voldemort's Time-Twister overuse.</p>
+
+<p>I'm explaining this all in an annotation because the details of how Time-Twisters work aren't actually very important. (If something is important, I explain it on an actual page.)</p>''',
   },
 ]
 for i in range(0,len(vc_pages)):
   vc_pages[i]["list_index"] = i
   
+print("TODO: Fix the HP:MoR link")
+
+"""
+  {
+    "transcript": [
+      (0, ''''''),
+    ],
+    "annotation": '''''',
+  },
+"""
