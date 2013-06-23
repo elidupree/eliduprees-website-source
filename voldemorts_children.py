@@ -19,7 +19,7 @@ div.vc_content_notice_text {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center; }
-div.vc_content_notice_text a {
+div.vc_content_notice_main_text a {
   color: #ffc800; }
 div.vc_content_notice_main_text {
   font-size: 120%;
@@ -38,6 +38,7 @@ a.dismiss_content_notice {
   font-weight: bold; }
 a.disable_content_notices {
   display: block;
+  color: #ffc800;
   padding: 0.5em; }
 div.vc_box_after_content_notice {
   position: relative; }
@@ -60,14 +61,24 @@ div.vc_nav_bar {
 div.vc_nav_button {
   display: inline-block;
   color: #ffc800;
-  /*background-color: #412f16;*/
-  border-radius: 16px;
+  /*background-color: #412f16;
+  border-radius: 16px;*/
   width: 250px;
-  text-align: center;
+  text-align: center; }
+div.vc_nav_button a {
+  display: block; }
+span.vc_nav_button_main {
+  display: block;
   font-size: 300%;
   font-weight: bold; }
-div.vc_nav_button a:link{ color:#7e7e40 }
-div.vc_nav_button a:visited{ color:#40557f }
+a.vc_nav_button:link{ color: #99994e; /*#7e7e40*/ }
+a.vc_nav_button:visited{ color: #4d6699; /*#40557f*/ }
+div.vc_nav_button.content_notice a.vc_nav_button:link{ color: #ffff82; /*#7e7e40*/ }
+div.vc_nav_button.content_notice a.vc_nav_button:visited{ color: #81abff; /*#40557f*/ }
+span.vc_nav_content_notice {
+  font-family: Arial, Helvetica, sans-serif; }
+span.vc_nav_content_notice.bigger {
+  font-size: 110%; }
 div.vc_nav_button.prev {
   margin-left: 75px;
   margin-right: 50px; }
@@ -111,7 +122,17 @@ div.vc_annotation .blog_post_metadata {
   background-color: rgba(204,204,204,.7) }''')
 
 def vc_navbar(prev_page, next_page):
-  return '<div class="vc_nav_bar"><div class="vc_nav_button prev">'+('<a rel="prev" href="'+vc_page_url(prev_page)+'">Previous</a>' if prev_page else '')+'</div><div class="vc_nav_button next">'+('<a rel="next" href="'+vc_page_url(next_page)+'">Next</a>' if next_page else '')+'</div></div>'
+  def inner_link(string, big_string, page):
+    if not page:
+      return ''
+    return (
+    '<a class="vc_nav_button" rel="'+string+'" href="'+vc_page_url(page)+'''">
+      <span class="vc_nav_button_main">'''+('<span class="vc_nav_content_notice">[CN] </span>' if ("content_notice" in page) else '')+big_string+'</span>'
+      +('' if "content_notice" not in page else '<span class="vc_nav_content_notice bigger">'+big_string+' page '+page["content_notice"]+'</span><a class="disable_content_notices" href="javascript">(disable content notices)</a>')
+    +'</a>')
+  def link(string, big_string, page):
+    return '<div class="vc_nav_button '+string+(' content_notice' if (page and ("content_notice" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
+  return '<div class="vc_nav_bar">'+link("prev","Previous",prev_page)+link("next","Next",next_page)+'</div>'
 
 print("Fix this hack:")
 def vc_comic_image_url(page):
