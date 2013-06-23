@@ -1,6 +1,7 @@
 
 import utils
 import css
+import top_bar
 import bars
 import html_pages
 
@@ -8,6 +9,17 @@ import html_pages
 vc_content_margin = "4em";
 
 css.insert('''
+div.vc_trigger_warning_box {
+  height: 100%; }
+div.vc_trigger_warning_text {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 120%;
+  text-align: center;
+}
+div.vc_box_after_trigger_warning {
+  position: relative; }
+  
 div.vc_comic_and_nav {
   width: 750px;
   margin: 2em auto; }
@@ -77,6 +89,9 @@ def vc_navbar():
 print("make the in-comic next page link work")
 def vc_page_html(page):
   return '<div class="vc_comic_and_nav">'+vc_navbar()+'<main><div class="vc_comic_and_transcript"><div class="vc_comic"><a href="next comic"><img class="vc_comic" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" /></a></div><div class="vc_transcript_outer"><div class="vc_transcript_inner">Transcript: <a href="javascript">(show)</a><br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/>Transcript transcript transcript dolor sit amet, consectetur adipistranscript <br/><br/></div></div></div>'+vc_navbar()+'<div class="vc_annotation_outer"><div class="vc_annotation"><div class="blog_post"><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p><p>adipiscing elit, sed do eiusmod tempor annotation annotation annotation ut labore et dolore magna aliquannotation</p></div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+'foo'+'">Permalink</a></div></div></div></div></div></main>'
+  
+def vc_trigger_warning_bars_wrap(info, html):
+  return '<div class="vc_trigger_warning_box">'+top_bar.top_bar(info)+'<section><div class="vc_trigger_warning_text"><h1>Content notice</h1><p>The following page contains depictions of gratuitous faux Latin. Viewer discretion is advised.</p><p><a>Click here to disable trigger warnings for this site</a></p></div></section></div><div class="vc_box_after_trigger_warning"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
 
 vc_pages = [
   2
@@ -90,6 +105,6 @@ def add_vc_pages(page_dict):
       html_pages.make_page(
         "Eli Dupree's website ⊃ Voldemort's Children ⊃ Page "+str(i),
         "",
-        '<body class="voldemorts_children">'+bars.bars_wrap({"comics":True }, vc_page_html(vc_page))+'</body>'
+        '<body class="voldemorts_children">'+vc_trigger_warning_bars_wrap({"comics":True }, vc_page_html(vc_page))+'</body>'
       )
     )
