@@ -37,6 +37,7 @@ a.dismiss_content_notice {
   padding: 0.15em;
   font-weight: bold; }
 a.disable_content_notices {
+  font-family: Arial, Helvetica, sans-serif;
   display: block;
   color: #ffc800;
   padding: 0.5em; }
@@ -76,8 +77,7 @@ a.vc_nav_button:visited{ color: #4d6699; /*#40557f*/ }
 div.vc_nav_button.content_notice a.vc_nav_button:link{ color: #ffff82; /*#7e7e40*/ }
 div.vc_nav_button.content_notice a.vc_nav_button:visited{ color: #81abff; /*#40557f*/ }
 span.vc_nav_content_notice {
-  font-family: Arial, Helvetica, sans-serif; }
-span.vc_nav_content_notice.bigger {
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 110%; }
 div.vc_nav_button.prev {
   margin-left: 75px;
@@ -126,13 +126,14 @@ def vc_navbar(prev_page, next_page):
     if not page:
       return ''
     return (
-    '<a class="vc_nav_button" rel="'+string+'" href="'+vc_page_url(page)+'''">
-      <span class="vc_nav_button_main">'''+('<span class="vc_nav_content_notice">[CN] </span>' if ("content_notice" in page) else '')+big_string+'</span>'
-      +('' if "content_notice" not in page else '<span class="vc_nav_content_notice bigger">'+big_string+' page '+page["content_notice"]+'</span><a class="disable_content_notices" href="javascript">(disable content notices)</a>')
+    '<a class="vc_nav_button" rel="'+string+'" href="'+vc_page_url(page)+'">'
+      +('' if "content_notice" not in page else '<span class="vc_nav_content_notice bigger">The '+big_string+' page '+page["content_notice"]+'</span>')
+      +'<span class="vc_nav_button_main">'+utils.capitalize_string(big_string)+'</span>'
+      +('' if "content_notice" not in page else '<a class="disable_content_notices" href="javascript">(disable content notices)</a>')
     +'</a>')
   def link(string, big_string, page):
     return '<div class="vc_nav_button '+string+(' content_notice' if (page and ("content_notice" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
-  return '<div class="vc_nav_bar">'+link("prev","Previous",prev_page)+link("next","Next",next_page)+'</div>'
+  return '<div class="vc_nav_bar">'+link("prev","previous",prev_page)+link("next","next",next_page)+'</div>'
 
 print("Fix this hack:")
 def vc_comic_image_url(page):

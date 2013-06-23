@@ -9,6 +9,11 @@ span.inline_separator {
 
 inline_separator = '<span class="inline_separator"> &#8231; </span>'
 
+def capitalize_string(string):
+  if len(string) == 0:
+    return string
+  return string[0].upper()+string[1:]
+
 def strip_tags(string):
   return re.sub(r"<.+>","",string)
 
