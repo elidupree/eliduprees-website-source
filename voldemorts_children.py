@@ -108,15 +108,17 @@ div.vc_annotation .blog_post {
 div.vc_annotation .blog_post_metadata {
   background-color: rgba(204,204,204,.7) }''')
 
-def vc_navbar(prev_page, next_page, prev_page_url, next_page_url):
-  return '<div class="vc_nav_bar">'+('<div class="vc_nav_button prev"><a rel="prev" href="'+prev_page_url+'">Previous</a></div>' if prev_page else '')+('<div class="vc_nav_button next"><a rel="next" href="'+next_page_url+'">Next</a></div>' if next_page else '')+'</div>'
-  
-def vc_comic_image_url(page):
-  return 'http://deqyc5bzdh53a.cloudfront.net/VC_2.png'
+def vc_navbar(prev_page, next_page):
+  return '<div class="vc_nav_bar"><div class="vc_nav_button prev">'+('<a rel="prev" href="'+vc_page_url(prev_page)+'">Previous</a>' if prev_page else '')+'</div><div class="vc_nav_button next">'+('<a rel="next" href="'+vc_page_url(next_page)+'">Next</a>' if next_page else '')+'</div></div>'
 
-def vc_page_html_and_head(page, prev_page, next_page, prev_page_url, next_page_url):
+print("Fix this hack:")
+def vc_comic_image_url(page):
+  # Hack...
+  return 'http://deqyc5bzdh53a.cloudfront.net/VC_'+str(page["list_index"]+1)+'.png'
+
+def vc_page_html_and_head(page, prev_page, next_page):
   wide_screen_rules_list = []
-  navbar = vc_navbar(prev_page, next_page, prev_page_url, next_page_url)
+  navbar = vc_navbar(prev_page, next_page)
   return (
     '''
 <div class="vc_comic_and_nav">'''
@@ -124,7 +126,7 @@ def vc_page_html_and_head(page, prev_page, next_page, prev_page_url, next_page_u
   <main>
     <div class="vc_comic_and_transcript">
       <div class="vc_comic">
-        '''+('<a href="'+next_page_url+'">' if next_page else '')+'''
+        '''+('<a href="'+vc_page_url(next_page)+'">' if next_page else '')+'''
           <img class="vc_comic" alt="A comic page; see below for a transcript" src="'''+vc_comic_image_url(page)+'''" />
         '''+('</a>'                         if next_page else '')+'''
       </div><!--
@@ -165,11 +167,13 @@ css.insert('''
 p.vc_transcript_line {
   margin-top: 0;
   line-height: 1.2em; }
-p.vc_transcript_line.dialogue {
+div.vc_transcript_inner .dialogue {
   font-weight: bold; }
-p.vc_transcript_line.TONKS {
+div.vc_transcript_inner .TITLE {
+  color: #9a6f34; /*#412f16;*/ }
+div.vc_transcript_inner .TONKS {
   color: #bf98af; /*#7f6574;*/ }
-p.vc_transcript_line.GRANGER {
+div.vc_transcript_inner .GRANGER {
   color: #8080ff; /*#6060c0;*/ }
 ''')
 
@@ -197,9 +201,23 @@ def format_transcript(transcript, wide_screen_rules_list):
 
 vc_pages = [
   {
+    "transcript": [
+      (0, 'A cover page.'),
+      (500, 'TITLE: Voldemort&apos;s Children'),
+      (1700, 'Three people stand, harshy lit. In the center is Harry Potter: heavyset, hunched over, zir black hair wild. To the right, Luna Lovegood: very thin, with long loose blond hair, with zir wand tucked behind zir ear and an exaggerated expression of interest. On the left, Draco Malfoy: also thin, reserved, with zir arms behind zir back, zir hair short and neat, and zir face slightly flushed.'),
+      (3200, 'TITLE: A Harry Potter fanfic by Eli Dupree')],
+      "annotation": '''<p>And so it begins.</p>
+
+<p>I've been planning <i>Voldemort's Children</i> since September of last year, when I started analyzing the original series from a neurodiversity perspective. <i>Voldemort's Children</i> is an "Alternate Universe" fanfic - a reimagining of the story in which I explore one possibility of how events could happen in a world where we don't gloss over the implications of neurological difference in general and Harry's abuse as a child in particular.</p>
+
+<p>I'm going to leave it at that for the moment, but I'll sometimes use these annotations to talk more about the purpose and structure of the story.</p>
+
+<p> &ndash; Eli</p>'''
+  },
+  {
     "content_notice": 'contains depictions of gratuitous faux Latin.',
     "transcript": [
-      (0, 'Hermione Granger stands in a room labeled "Auror Offices". There are bookshelves along the wall. Granger has zir hair tied back, wears a long dark coat, and has very reserved mannerisms. Nymphadora Tonks enters the room. Tonks is more easygoing than Granger, wears a shorter, lighter coat, and has short spiky pink hair.'),
+      (0, '<span class="dialogue GRANGER">Hermione Granger</span> stands in a room labeled "Auror Offices". There are bookshelves along the wall. Granger has zir hair tied back, wears a long dark coat, and has very reserved mannerisms. <span class="dialogue TONKS">Nymphadora Tonks</span> enters the room. Tonks is more easygoing than Granger, wears a shorter, lighter coat, and has short spiky pink hair.'),
       (55, 'TONKS: Granger, you called?'),
       (980, 'GRANGER: Yes... I will speak with the prisoner &ndash; Attend me.'),
       (1655, 'TONKS: I can&apos;t get over it...'),
@@ -211,23 +229,27 @@ vc_pages = [
 <p>The same goes for any other web accessibility issue. I care about this stuff, so if you e-mail me with an issue, I <strong>will</strong> do my best to fix it.</p>'''
   },
 ]
+for i in range(0,len(vc_pages)):
+  vc_pages[i]["list_index"] = i
 
-def vc_webname_base(page_number):
+# these work for either page numbers or pages
+def vc_webname_base(page):
+  page_number = (page["list_index"] if type(page) is dict else page)
   return 'voldemorts-children'+('' if page_number == 0 else '/'+str(page_number))
-def vc_page_url(page_number):
-  return '/'+vc_webname_base(page_number)
-def vc_page_filename(page_number):
-  return vc_webname_base(page_number)+'.html'
+def vc_page_url(page):
+  return '/'+vc_webname_base(page)
+def vc_page_filename(page):
+  return vc_webname_base(page)+'.html'
 
 
 def add_vc_pages(page_dict):
   for i in range(0,len(vc_pages)):
     vc_page = vc_pages[i]
-    next_page = (vc_pages[i-1] if i>0 else None)
-    prev_page = (vc_pages[i+1] if i+1 < len(vc_pages) else None)
-    next_page_url = (vc_page_url(i+1) if next_page else None)
+    prev_page = (vc_pages[i-1] if i>0 else None)
+    next_page = (vc_pages[i+1] if i+1 < len(vc_pages) else None)
     prev_page_url = (vc_page_url(i-1) if prev_page else None)
-    html, head = vc_page_html_and_head(vc_page, prev_page, next_page, prev_page_url, next_page_url)
+    next_page_url = (vc_page_url(i+1) if next_page else None)
+    html, head = vc_page_html_and_head(vc_page, prev_page, next_page)
     utils.checked_insert(page_dict,
       vc_page_filename(i),
       html_pages.make_page(
