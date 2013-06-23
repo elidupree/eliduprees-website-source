@@ -202,6 +202,10 @@ div.vc_transcript_inner .GRANGER {
   color: #8080ff; /*#6060c0;*/ }
 div.vc_transcript_inner .HARRY {
   color: #ff0000; }
+div.vc_transcript_inner .WIRELESS {
+  color: #737373; }
+div.vc_transcript_inner .FUDGE {
+  color: #8c8c8c; }
 ''')
 
 def format_transcript_line(line_text):
@@ -244,7 +248,7 @@ vc_pages = [
   {
     "content_notice": 'contains depictions of gratuitous faux Latin.',
     "transcript": [
-      (0, '<span class="dialogue GRANGER">Hermione Granger</span> stands in a room labeled "Auror Offices". There are bookshelves along the wall. Granger has zir hair tied back, wears a long dark coat, and has very reserved mannerisms. <span class="dialogue TONKS">Nymphadora Tonks</span> enters the room. Tonks is more easygoing than Granger, wears a shorter, lighter coat, and has short spiky pink hair.'),
+      (0, '''<span class="dialogue GRANGER">Hermione Granger</span> stands in a room labeled "Auror Offices". There are bookshelves along the wall. Granger has zir hair tied back, wears a long dark coat, and has very reserved mannerisms. <span class="dialogue TONKS">Nymphadora Tonks</span> enters the room. Tonks is more easygoing than Granger, wears a shorter, lighter coat, and has short spiky pink hair. Tonks's speech is drawn somewhat messily in a mild purple color, and Granger's is more formal and drawn in a mild blue.'''),
       (55, 'TONKS: Granger, you called?'),
       (980, 'GRANGER: Yes... I will speak with the prisoner &ndash; Attend me.'),
       (1655, '''TONKS: I can't get over it...'''),
@@ -270,20 +274,36 @@ vc_pages = [
       (2990, '''Granger taps the cell's magical window, and the cyan magic clears away from the middle of the window, so it can be seen through.'''),
       (3690, 'GRANGER: And now... Harry Potter...'),
     ],
-    "annotation": '''<p>If you're a <i>Harry Potter</i> fan, you might be thinking "Aha, ze wrote 'truth potion' for the benefit of people who aren't familiar enough with the series to know the name 'Veritaserum'". If you're a bigger fan, you might be thinking "But Veritaserum is as clear as water, and that potion isn't!" That's right! The real reason I don't say "Veritaserum" is because this is actually a modified version of Veritaserum that Granger invented - it is similar, but its action is unaffected by the Veritaserum antidote, which is a distinct tactical advantage.</p><p>A more cynical person might speculate that Granger invented it to circumvent legal restrictions on the use of Veritaserum, but the law usually refers to truth potions in general, and as the head of the Auror Office, Granger can get the necessary warrants easily.</p>'''
+    "annotation": '''<p>If you're a <i>Harry Potter</i> fan, you might be thinking <q>Aha, ze wrote 'truth potion' for the benefit of people who aren't familiar enough with the series to know the name 'Veritaserum'</q>. If you're a bigger fan, you might be thinking "But Veritaserum is as clear as water, and that potion isn't!" That's right! The real reason I don't say "Veritaserum" is because this is actually a modified version of Veritaserum that Granger invented - it is similar, but its action is unaffected by the Veritaserum antidote, which is a distinct tactical advantage.</p><p>A more cynical person might speculate that Granger invented it to circumvent legal restrictions on the use of Veritaserum, but the law usually refers to truth potions in general, and as the head of the Auror Office, Granger can get the necessary warrants easily.</p>'''
   },
   {
     "transcript": [
-      (1000, '''A single large image of <span class="dialogue HARRY">Harry Potter</span>, in a rigid chair. Harry's arms are bound to the arms of the chair by metal bands. Ze is barefoot and wearing a ragged grey tunic, zir hands are clenched, and zir hair is in disarray. Ze has a zigzag scar on zir forehead, and another, vertical scar at the left edge of zir mouth. There are dark shadows around zir eyes, and ze looks angry.'''),
+      (1000, '''A single large image of <span class="dialogue HARRY">Harry Potter</span>, in a rigid chair. Harry's arms are bound to the arms of the chair by metal bands. Ze is barefoot and wearing a ragged grey tunic, zir hands are clenched, and zir hair is in disarray. Ze has a zigzag scar on zir forehead, and another, vertical scar at the left edge of zir mouth. There are dark shadows around zir eyes, and ze looks angry. Harry's speech is drawn almost as a scribble, with many jagged lines, in bright red.'''),
       (1000, '''HARRY: Ge' on wi' it... Grangeuh. { Get on with it, Granger. }'''),
       (3100, '''TITLE: Chapter One'''),
       (3450, 'TITLE: The Boy Who Killed'),
     ],
     "annotation": '''<p>Ah, Harry Potter.</p>
 
-<p>How do you represent the speech of a character who pronounces words in a non-standard way? I hesitate to say 'mispronounces'; if ze physically can't make the sounds that other people can make, is ze making an <em>error</em> by speaking?</p>
+<p>How do you represent the speech of a character who pronounces words in a non-standard way? I hesitate to say <q>mispronounces</q>; if ze physically can't make the sounds that other people can make, is ze making an <em>error</em> by speaking?</p>
 
-<p>On this page, I've chosen to represent Harry's speech with misspelled words. I won't continue doing that, because it's more important for you to be able to understand the words.</p>'''
+<p>I've chosen to represent it with a jagged, irregular writing style.</p>
+
+<p>On this page, I've also chosen to misspell the words Harry speaks. Imagine if I did that on every page. The culture around us is full of prejudice against people who don't speak words the way they <q>should</q> be spoken. Others often mock them and disregard their opinions. But <i>Voldemort's Children</i> will not allow the reader to disregard Harry's opinion. I could put my readers in the position of taking someone seriously when they spoke misspelled words, which could be a good thing.</p>
+
+<p>However, it would also make the comic harder to read. Ultimately, I decided that it wouldn't be worth the cost. As an author, I want my work to be as easy to read as possible. But as a viewer, if you only view things that have been made easy for you, you should be mindful of what you're missing.</p>''',
+  },
+  {
+    "transcript": [
+      (0, '''Granger and Tonks are looking down into Harry's cell.'''),
+      (0, '''GRANGER: I'm not here to force tactical information out of you this time, Harry. I just want to learn about you. To understand you.'''),
+      (682, '''HARRY: Rubbish! You think you understand me bloody well enough already. Don't think I've forgotten your answer to that speech Fudge made...'''),
+      (1386, '''We enter a <span class="dialogue HARRY">narrative frame</span> in which Harry describes past events. In the past, Harry is sitting with two silhouetted figures, listening to a magical wireless radio.'''),
+      (1600, 'HARRY: I was on the run then, but I still had a wizarding wireless...'),
+      (1722, 'WIRELESS: &ndash;terrupt with an important message from the Minister of Magic, I repeat, the Minister of Magic himself will now address&ndash;'),
+      (2660, '''We enter a <span class="dialogue WIRELESS">narrative frame</span> in which we have a direct view of the Minister of Magic, Cornelius Fudge, making his speech. Fudge is standing at a podium on a raised platform, addressing an audience of at least 50 people, and probably more that we can't see. Fudge speaks in an excessively formal way.'''),
+      (3090, 'FUDGE: Witches and wizards of Britain... It is my most regretful duty to inform you of the events of this morning... *ahem*... The notorious killer, Harry Potter, has made an attack on Hogwarts School of Witchcraft and Wizardry.')],
+    "annotation": '''<p>You know you're reading an Eli Dupree comic when you enter two nested narrative frames on the same page.</p>''',
   },
 ]
 for i in range(0,len(vc_pages)):
