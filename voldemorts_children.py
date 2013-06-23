@@ -143,7 +143,7 @@ def vc_comic_image_url(page):
 
 def vc_page_html_and_head(page, prev_page, next_page):
   wide_screen_rules_list = []
-  navbar = vc_navbar(prev_page, next_page)
+  navbar = (vc_navbar(prev_page, next_page) if page["list_index"] != 0 else '')
   return (
     '''
 <div class="vc_comic_and_nav">'''
