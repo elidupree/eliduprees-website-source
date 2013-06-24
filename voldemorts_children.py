@@ -9,8 +9,12 @@ from voldemorts_children_pages import vc_pages
 
 
 vc_content_margin = "4em";
-transcript_at_side_width = 1090;
 comic_width = 750;
+sideways_space = 20;
+min_transcript_width = 320;
+max_transcript_width = 560;
+transcript_at_side_width = comic_width + 3*sideways_space + min_transcript_width;
+transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_width;
 
 css.insert('''
 div.vc_content_notice_box {
@@ -51,11 +55,10 @@ div.vc_comic_and_nav {
 div.vc_comic_and_transcript {
   margin: 5em 0; }
 div.vc_comic {
+  padding-bottom: 3em;
   display: inline-block;
   width: '''+str(comic_width)+'''px; }
 img.vc_comic {
-  width: '''+str(comic_width)+'''px; }
-div.vc_transcript_outer {
   width: '''+str(comic_width)+'''px; }
   
 div.vc_nav_bar {
@@ -86,28 +89,48 @@ div.vc_nav_button.prev {
 div.vc_nav_button.next {
   margin-left: 50px;
   margin-right: 75px; }
+
+div.vc_transcript_outer {
+  width: '''+str(comic_width)+'''px; }
 div.vc_transcript_inner {
   /*border: 1px dashed white;*/
-  padding: 0 0.5em;
+  padding: 0 '''+str(sideways_space)+'''px;
   font-family: Arial, Helvetica, sans-serif;
   color:white; }
 div.vc_transcript_inner a {
   color: #ffc800; }
 div.vc_transcript_label {
   padding-bottom: 1.1em; }
+a.show_transcript_button {
+  display: none; }
+.vc_transcript_hidden a.show_transcript_button {
+  display: inline; }
+.vc_transcript_hidden a.hide_transcript_button {
+  display: none; }
   
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
   div.vc_comic_and_nav {
-    width: '''+str(transcript_at_side_width)+'''px; }
+    width: auto;
+    padding-left: '''+str(sideways_space)+'''px; }
+  div.vc_comic {
+    padding-bottom: 0;
+    margin-right: -'''+str(comic_width)+'''px; }
   div.vc_transcript_outer {
     display: inline-block;
-    width: '''+str(transcript_at_side_width-comic_width)+'''px;
-    vertical-align: top; }
+    vertical-align: top;
+    width: auto;
+    margin-left: '''+str(comic_width)+'''px; }
   .vc_transcript_hidden div.vc_comic_and_nav {
     width: '''+str((transcript_at_side_width+comic_width)/2)+'''px;
     padding-left: '''+str((transcript_at_side_width-comic_width)/2)+'''px; }
   .vc_transcript_hidden div.vc_transcript_outer {
     width: '''+str((transcript_at_side_width-comic_width)/2)+'''px; }
+}
+@media screen and (min-width: '''+str(transcript_maximized_width)+'''px) {
+  div.vc_comic_and_nav {
+    width: '''+str(transcript_maximized_width)+'''px; }
+  div.vc_transcript_outer {
+    width: '''+str(transcript_maximized_width-comic_width)+'''px; }
 }
 
 div.vc_annotation_outer {
@@ -212,6 +235,9 @@ div.vc_transcript_inner .WIRELESS { color: #737373; }
 div.vc_transcript_inner .VOLDEMORT { color: #80ff80; }
 div.vc_transcript_inner .LESTRANGE { color: #c8ff00; }
 div.vc_transcript_inner .GREY { color: '''+dialogue_50pct_grey+'''; }
+
+.vc_transcript_hidden div.vc_transcript_box { min-height: 0; }
+.vc_transcript_hidden p.vc_transcript_line { display: none; }
 ''')
 
 def format_transcript_line(line_text):
@@ -234,9 +260,9 @@ def format_transcript_recur(transcript, wide_screen_rules_list):
     return '<div class="vc_transcript_box px'+height_num_str+'">'+format_transcript_recur(transcript[0:len(transcript) - 1], wide_screen_rules_list)+'</div>'+line_info[1]
 
 def format_transcript(transcript, wide_screen_rules_list):
-  entries = [(0, '<div class="vc_transcript_label">Transcript: <a href="javascript">(hide)</a></div>')]
+  entries = [(0, '<div class="vc_transcript_label">Transcript: <a class="hide_transcript_button" href="javascript">(hide)</a><a class="show_transcript_button" href="javascript">(show)</a></div>')]
   entries.extend([(a, format_transcript_line(b)) for (a, b) in transcript])
-  return format_transcript_recur(entries, wide_screen_rules_list)+'<a href="javascript">(hide transcript)</a>'
+  return format_transcript_recur(entries, wide_screen_rules_list)+'<a class="hide_transcript_button" href="javascript">(hide transcript)</a>'
 
 # these work for either page numbers or pages
 def vc_webname_base(page):
