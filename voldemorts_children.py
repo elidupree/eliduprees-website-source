@@ -12,7 +12,7 @@ vc_content_margin = "4em";
 comic_width = 750;
 sideways_space = 20;
 min_transcript_width = 320;
-max_transcript_width = 560;
+max_transcript_width = 500;
 transcript_at_side_width = comic_width + 3*sideways_space + min_transcript_width;
 transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_width;
 
