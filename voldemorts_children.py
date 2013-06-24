@@ -174,7 +174,7 @@ def vc_page_html_and_head(page, prev_page, next_page):
 <div class="vc_comic_and_nav">'''
   +navbar+'''
   <main>
-    <div class="vc_comic_and_transcript">
+    <div id="content" class="vc_comic_and_transcript">
       <div class="vc_comic">
         '''+('<a tabindex="-1" href="'+vc_page_url(next_page)+'">' if next_page else '')+'''
           <img class="vc_comic" alt="A comic page; see below for a transcript" src="'''+vc_comic_image_url(page)+'''" />
@@ -293,7 +293,7 @@ def add_vc_pages(page_dict):
 +('<link rel="next prefetch prerender" href="'+next_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(next_page)+'" />\n' if next_page else '')
 +('<link rel="prev prefetch prerender" href="'+prev_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(prev_page)+'" />\n' if prev_page else '')
 ,
-        '<body class="voldemorts_children">'+(
+        '<body class="voldemorts_children"><a class="skip" href="#content">Skip to content</a>'+(
            vc_content_notice_bars_wrap({"comics":True}, vc_page["content_notice"], html) if "content_notice" in vc_page else
                         bars.bars_wrap({"comics":True},                            html)
         )+'</body>'

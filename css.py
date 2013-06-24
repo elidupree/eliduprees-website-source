@@ -29,6 +29,11 @@ render progressive JPEGs progressively for non-background images */
   left: 0;
   right: 0;
 }
+a.skip {
+  position: absolute;
+  left: 0; top: 0;
+  z-index: -1;
+}
 '''
 
 # previously   p { margin-top: 0.75em; margin-bottom: 0.75em; }
