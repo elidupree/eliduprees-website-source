@@ -88,7 +88,7 @@ div.vc_nav_button.next {
   margin-right: 75px; }
 div.vc_transcript_inner {
   /*border: 1px dashed white;*/
-  padding: 0.5em;
+  padding: 0 0.5em;
   font-family: Arial, Helvetica, sans-serif;
   color:white; }
 div.vc_transcript_inner a {
@@ -195,11 +195,13 @@ dialogue_name_replace = {
   "TONKS":True,"GRANGER":True,"HARRY":True,"VOLDEMORT":True,
   "WIRELESS":True,"LESTRANGE":True,
   "PRESENT HARRY":"HARRY",
-  "FUDGE":"GREY", "PAST GRANGER":"GREY",
+  "PRESENT GRANGER":"GRANGER",
+  "FUDGE":"GREY", "PAST GRANGER":"GREY", "MCGONAGALL":"GREY",
 }
 css.insert('''
 p.vc_transcript_line {
-  margin-top: 0;
+  margin: 0;
+  padding-bottom: 0.9em;
   line-height: 1.2em; }
 div.vc_transcript_inner .dialogue { font-weight: bold; }
 div.vc_transcript_inner .TITLE { color: #9a6f34; /*#412f16;*/ }
