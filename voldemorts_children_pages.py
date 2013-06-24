@@ -114,7 +114,7 @@ vc_pages = [
       (1050, '''We get a closer look at the spiral object Voldemort has been wearing around zir neck. It is a small hourglass in a clockwise-as-you-move-inwards spiral. Part of the band is yellowish, but closer to the hourglass, it fades to blue. Voldemort's hand is reaching down to manipulate it.'''),
       (1200, '''PAST GRANGER: Even his own followers were afraid of him. He had no mercy for the slightest failure or irritation.'''),
       (1200, '''There is an illustration of <span class="dialogue LESTRANGE">Bellatrix Lestrange</span> kneeling before Voldemort. Lestrange has long shiny black hair.'''),
-      (1200, '''<span class="dialogue LESTRANGE">LESTRANGE: Master, I've killed half the Wizengamot. {The Wizengamot is the high court of magical Britain. }'''),
+      (1200, '''<span class="dialogue LESTRANGE">LESTRANGE: Master, I've killed half the Wizengamot.</span> {The Wizengamot is the high court of magical Britain. }'''),
       (1200, '''VOLDEMORT: Half live? Crucio.'''),
       (1200, '''LESTRANGE: AAAAAAAAAAAAAAAAAAAAAAA'''),
       (2134, '''PAST GRANGER: And worst of all, no one knew what made him do it. He was an event without reason or cause. Even when a great Legilimens tried to look into his mind...'''),
