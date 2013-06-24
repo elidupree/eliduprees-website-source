@@ -175,7 +175,7 @@ def vc_page_html_and_head(page, prev_page, next_page):
   <main>
     <div class="vc_comic_and_transcript">
       <div class="vc_comic">
-        '''+('<a href="'+vc_page_url(next_page)+'">' if next_page else '')+'''
+        '''+('<a tabindex="-1" href="'+vc_page_url(next_page)+'">' if next_page else '')+'''
           <img class="vc_comic" alt="A comic page; see below for a transcript" src="'''+vc_comic_image_url(page)+'''" />
         '''+('</a>'                         if next_page else '')+'''
       </div><!--
