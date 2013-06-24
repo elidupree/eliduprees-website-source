@@ -236,7 +236,7 @@ def format_transcript_recur(transcript, wide_screen_rules_list):
 def format_transcript(transcript, wide_screen_rules_list):
   entries = [(0, '<div class="vc_transcript_label">Transcript: <a href="javascript">(hide)</a></div>')]
   entries.extend([(a, format_transcript_line(b)) for (a, b) in transcript])
-  return format_transcript_recur(entries, wide_screen_rules_list)
+  return format_transcript_recur(entries, wide_screen_rules_list)+'<a href="javascript">(hide transcript)</a>'
 
 # these work for either page numbers or pages
 def vc_webname_base(page):
