@@ -1,5 +1,5 @@
 
-
+print ("write a new thing for the cover page")
 vc_pages = [
   {
     "transcript": [
@@ -55,13 +55,13 @@ vc_pages = [
     ],
     "annotation": '''<p>Ah, Harry Potter.</p>
 
-<p>How do you represent the speech of a character who pronounces words in a non-standard way? I hesitate to say <q>mispronounces</q>; if ze physically can't make the sounds that other people can make, is ze making an <em>error</em> by speaking?</p>
+<p>How do you represent the speech of a character who pronounces words in a non-standard way? I hesitate to say <q>mispronounces</q>. If ze physically can't make the sounds that other people can make, is ze making an <em>error</em> by speaking?</p>
 
 <p>I've chosen to represent it with a jagged, irregular writing style.</p>
 
-<p>On this page, I've also chosen to misspell the words Harry speaks. Imagine if I did that on every page. The culture around us is full of prejudice against people who don't speak words the way they <q>should</q> be spoken. Others often mock them and disregard their opinions. But <i>Voldemort's Children</i> will not allow the reader to disregard Harry's opinion. I could put my readers in the position of taking someone seriously when they spoke misspelled words, which could be a good thing.</p>
+<p>On this page, I've also chosen to misspell the words Harry speaks. Imagine if I did that on every page. The culture around us is full of prejudice against people who don't speak words the way they <q>should</q> be spoken. Others often mock them and disregard their opinions. But <i>Voldemort's Children</i> makes it natural to pay attention to what Harry says. I could put my readers in the position of taking someone seriously when they spoke misspelled words, which could be a good thing.</p>
 
-<p>However, it would also make the comic harder to read. Ultimately, I decided that it wouldn't be worth the cost. As an author, I want my work to be as easy to read as possible. But as a viewer, if you only view things that have been made easy for you, you should be mindful of what you're missing.</p>''',
+<p>However, misspelling things would also make the comic harder to read. Ultimately, I decided that it wouldn't be worth the cost. As an author, I want my work to be as easy to read as possible. But as a viewer, if you only view things that have been made easy for you, you should be mindful of what you're missing.</p>''',
   },
   {
     "transcript": [
@@ -84,7 +84,9 @@ vc_pages = [
       (1850, 'Time passes in silence, represented by an hourglass in a spiral.'),
       (2233, '''FUDGE: Potter and his allies, whoever they may be, have made themselves the enemy of wizarding society &ndash; an enemy such as we have not seen since the downfall of the self-styled Lord Voldemort over ten years ago. The older generations among us remember the name of Harry Potter as our salvation, but today, we have seen that Potter and his allies... are Voldemort's children.'''),
     ],
-    "annotation":'''<p>When Fudge says <q>The downfall of the self-styled Lord Voldemort</q>, ze is referring to events when Harry was an infant.</p><p><i>Harry Potter</i> fans might find it strange that Fudge is willing to casually use the name <q>Voldemort</q>. I decided that the convention of being afraid to say zir name out loud didn't add to the themes I'm trying to push forward, and it's a bit of a confusing distraction. (By comparison, in the original series, that convention <em>does</em> add to a major theme &ndash; namely, the theme of overcoming one's fear. <i>Voldemort's Children</i> sneers at that theme.)</p>''',
+    "annotation":'''<p>When Fudge says <q>The downfall of the self-styled Lord Voldemort</q>, ze is referring to events when Harry was an infant.</p>
+    
+<p><i>Harry Potter</i> fans will remember Fudge being afraid to say <q>Voldemort</q> out loud. In <i>Voldemort's Children</i>, I'm not including the issue of being afraid to say the name. Why not? Because it doesn't add to the themes I'm trying to develop. (By comparison, in <i>Harry Potter</i>, that convention <em>does</em> add to a major theme &ndash; namely, the theme of overcoming one's fear. <i>Voldemort's Children</i> sneers at that theme.)</p>''',
   },
   {
     "transcript": [
@@ -155,7 +157,7 @@ vc_pages = [
       (2700, '''The narrative frame closes.'''),
       (3250, '''GRANGER: It seems natural to think&ndash;'''),
       (3250, '''HARRY: You think I killed them for revenge! I don't kill for revenge. I did it because I <em>had to</em>. And that's all I'm gonna say. Unless...'''),
-      (3880, '''The "unless" fades into a greenish color uncharacteristic of Harry's speech.'''),
+      (3880, '''The "unless" fades into a yellowish color uncharacteristic of Harry's speech.'''),
     ],
     "annotation": '''
 <p>You'd have to be a real <i>Harry Potter</i> scholar to remember what those spells do, but I've written their effects down in the transcript.</p>
@@ -170,12 +172,34 @@ vc_pages = [
     "content_notice": "depicts physical bullying.",
     "transcript": [
       (0, '''A shadowy metaphorical image of Voldemort looms behind Harry. Voldemort is grabbing Harry by the hair. Most of Harry's hair has fallen over zir face, so zir eyes are invisible. Voldemort and Harry speak in unison, in a mix of their graphical styles. (Physically, we're still in the interrogation cell, and Harry is speaking alone.)'''),
-      (150, '''<span class="dialogue HARRYMORT">HARRY AND VOLDEMORT: Hey, listen. If you want to know about me. I'll tell you. I'll tell you things nobody but me knows. Things nobody but me should ever know. Just three rules... One, I tell it how I want. Don't you try to twist my story with your questions. Two, if you use that truth potion to get more out of me, it's over. Three... Give me back my god damn glasses.'''),
+      (150, '''<span class="dialogue HARRYMORT">HARRY AND VOLDEMORT: Hey, listen. If you want to know about me. I'll tell you. I'll tell you things nobody but me knows. Things nobody but me should ever know. Just three rules... One, I tell it how I want. Don't you try to twist my story with your questions. Two, if you use that truth potion to get more out of me, it's over. Three... Give me back my god damn glasses.</span>'''),
       (3140, '''GRANGER: ...I accept your rules.'''),
       (3350, '''Granger magically transports Harry's glasses back onto Harry's face.'''),
       (3320, '''HARRY: Now... maybe it starts when Lily Evans and James Potter died... or maybe it starts long before I was born... but I'm going to start with when I went to Hogwarts.'''),
     ],
     "annotation": '''<p>I wanted to give Granger a more nuanced line to accept Harry's rules with, but I couldn't make it fit with the flow of the piece (sure, I could have made the upper text smaller, but I don't think the atmosphere of this page would benefit from the level of nuance that Granger would try to introduce to the situation).</p><p>By the way, this is the last page of chapter 1. I suppose I could have come up with a nice way to indicate the end of the chapter, like <a href="http://gunnerkrigg.com/">Gunnerkrigg Court</a> does, but I guess I didn't.</p>''',
+  },
+  {
+    "transcript": [
+      (0, '''We see a large image of Hogwarts Castle in relative darkness. It has many towers, but is not colorful.'''),
+      (0, '''At the top is a banner which reads <q>DRACO DORMIENS TITILLARE COACTUS SUM</q>, which is Latin for <q>I am compelled to tickle a sleeping dragon</q>. (The motto of Hogwarts in the original series is <q>Draco dormiens titillandus numquam</q>, which means "Never tickle a sleeping dragon".) The Latin verb <q>titillo</q> can also mean <q>provoke</q> or <q>sexually stimulate</q>.'''),
+      (0, '''An huge image of Voldemort hovers over the castle, holding puppet strings which attach to the towers, as if the entire castle is Voldemort's puppet.'''),
+      (870, '''Hermione Granger is flying on a broomstick over the castle, with zir wand out, shooting some kind of magic in Voldemort's general direction.'''),
+      (2755, '''Rubeus Hagrid &ndash; a huge person, but very small next to the castle &ndash; is standing in front of the castle's main doors, awaiting the arrival of the first-years. In front of Hagrid is a large lake. A boat approaches across the lake. In the boat are the even smaller figures of Draco Malfoy and Harry Potter, facing away from each other.'''),
+      (3350, '''TITLE: Chapter Two'''),
+      (3650, '''TITLE: Castle of Gloss and Fear'''),
+    ],
+    "annotation": '''<p>In this image, Hermione Granger is flying on a broomstick <em>and</em> casting spells while Harry is still arriving at the castle. Does that mean that they're in different class years? No &ndash; but it does represent the way Granger is so far ahead of Harry metaphorically.</p>''',
+  },
+  {
+    "transcript": [
+      (0, '''HARRY: Hogwarts was...'''),
+      (410, '''We enter a <span class="dialogue HARRY">narrative frame</span> in which Harry describes past events.'''),
+      (1055, '''PRESENT HARRY: Beautiful...'''),
+      (2350, '''A younger Harry and younger Granger are sitting in a classroom, along with other students. Harry is staring out a window, where a brightly colored daytime scene is visible. Granger is working dutifully. There are books and papers on the desks, but Harry doesn't have any.'''),
+      (3140, '''<span class="dialogue GREY">MCGONAGALL:</span> {from off-page} <span class="dialogue GREY">Potter, are you starting out the window again? Two points from Gryffindor, and next time, it will be ten!</span>'''),
+    ],
+    "annotation": '''<p>I enjoy the contrasts in this image.</p>''',
   },
 ]
 for i in range(0,len(vc_pages)):

@@ -142,7 +142,7 @@ a.top_bar_login_link {
 ''')
 
 def home_string(you_are_here):
-  return '''<div class="top_bar_home"><a href="/"><img class="top_bar_home_image" src="/media/site-logo-transparent-nosides.png" /><span class="top_bar_home_text">Eli Dupree's website</span></a></div>'''
+  return '''<div class="top_bar_home"><a href="/"><img alt="The website icon, a smiling face with a wizard hat and a broken version of the 'male' and 'female' symbols." class="top_bar_home_image" src="/media/site-logo-transparent-nosides.png" /><span class="top_bar_home_text">Eli Dupree's website</span></a></div>'''
 def games_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/games"><span class="top_bar_category"><span class="top_bar_category_text">Games</span></span></a>'''
 def comics_string(you_are_here):

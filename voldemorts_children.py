@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 import re
 import utils
@@ -154,9 +156,8 @@ def vc_navbar(prev_page, next_page):
     return (
     '<a class="vc_nav_button" rel="'+string+'" href="'+vc_page_url(page)+'">'
       +('' if "content_notice" not in page else '<span class="vc_nav_content_notice bigger">The '+big_string+' page '+page["content_notice"]+'</span>')
-      +'<span class="vc_nav_button_main">'+utils.capitalize_string(big_string)+'</span>'
-      +('' if "content_notice" not in page else '<a class="disable_content_notices" href="javascript">(disable content notices)</a>')
-    +'</a>')
+      +'<span class="vc_nav_button_main">'+utils.capitalize_string(big_string)+'</span></a>'
+    +('' if "content_notice" not in page else '<a class="disable_content_notices" href="javascript">(disable content notices)</a>'))
   def link(string, big_string, page):
     return '<div class="vc_nav_button '+string+(' content_notice' if (page and ("content_notice" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
   return '<div class="vc_nav_bar">'+link("prev","previous",prev_page)+link("next","next",next_page)+'</div>'
