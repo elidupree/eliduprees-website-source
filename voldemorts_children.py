@@ -192,7 +192,7 @@ def vc_page_html_and_head(page, prev_page, next_page):
           '''+page["annotation"]+'''
         </div>
         <div class="blog_post_metadata_outer">
-          <div class="blog_post_metadata">Posted May 14, 2015'''+utils.inline_separator+'<a rel="bookmark" href="'+'foo'+'''">Permalink</a></div>
+          <div class="blog_post_metadata">Posted May 14, 2015</div>
         </div>
       </div>
     </div>
