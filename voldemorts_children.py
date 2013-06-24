@@ -69,7 +69,8 @@ div.vc_nav_button {
   /*background-color: #412f16;
   border-radius: 16px;*/
   width: 250px;
-  text-align: center; }
+  text-align: center;
+  vertical-align: top; }
 div.vc_nav_button a {
   display: block; }
 span.vc_nav_button_main {
