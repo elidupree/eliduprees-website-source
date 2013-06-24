@@ -8,7 +8,6 @@ import top_bar
 import utils
 import blog
 import voldemorts_children
-from py_w3c.validators.html.validator import HTMLValidator
 
 def ensure_dir(d):
   if not os.path.exists(d):
@@ -38,6 +37,7 @@ voldemorts_children.add_vc_pages(page_dict)
 
 for path,contents in page_dict.items():
   if False and path.endswith(".html"):
+    from py_w3c.validators.html.validator import HTMLValidator
     vld = HTMLValidator()
     vld.validate_fragment(contents)
     print(vld.errors)
