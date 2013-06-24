@@ -101,11 +101,11 @@ div.vc_transcript_inner a {
   color: #ffc800; }
 div.vc_transcript_label {
   padding-bottom: 1.1em; }
-a.show_transcript_button {
+.show_transcript_button {
   display: none; }
-.vc_transcript_hidden a.show_transcript_button {
+.vc_transcript_hidden .show_transcript_button {
   display: inline; }
-.vc_transcript_hidden a.hide_transcript_button {
+.vc_transcript_hidden .hide_transcript_button {
   display: none; }
   
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
@@ -260,7 +260,7 @@ def format_transcript_recur(transcript, wide_screen_rules_list):
     return '<div class="vc_transcript_box px'+height_num_str+'">'+format_transcript_recur(transcript[0:len(transcript) - 1], wide_screen_rules_list)+'</div>'+line_info[1]
 
 def format_transcript(transcript, wide_screen_rules_list):
-  entries = [(0, '<div class="vc_transcript_label">Transcript: <a class="hide_transcript_button" href="javascript">(hide)</a><a class="show_transcript_button" href="javascript">(show)</a></div>')]
+  entries = [(0, '<div class="vc_transcript_label">Transcript: <a href="javascript"><span class="hide_transcript_button">(hide)</span><span class="show_transcript_button">(show)</span></a></div>')]
   entries.extend([(a, format_transcript_line(b)) for (a, b) in transcript])
   return format_transcript_recur(entries, wide_screen_rules_list)+'<a class="hide_transcript_button" href="javascript">(hide transcript)</a>'
 
