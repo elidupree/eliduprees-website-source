@@ -105,11 +105,11 @@ vc_pages = [
   {
     "transcript": [
       (0, 'PAST GRANGER: Voldemort sometimes killed more in one day than Potter has in his entire life. He did whatever he wanted, and no-one could stop him. He had torn his own soul into seven pieces and hidden them in the dark corners of the earth so that he could never be killed. The Killing Curse did nothing to him.'),
-      (0, '''There is an illustration of Voldemort with zir cat and snake, holding a black sphere, with seven white pieces fragments surrounding zem. In all the images of Voldemort on this page, ze is still wearing the spiral object and still has zir face obscured.'''),
+      (0, '''There is an illustration of Voldemort with zir cat and snake, holding a black sphere, with seven white wedges surrounding zem. In all the images of Voldemort on this page, ze is still wearing the spiral object and still has zir face obscured.'''),
       (900, '''PAST GRANGER: He tortured innocent people for his own amusement...'''),
       (900, '''There is an illustration of Voldemort standing over a person who is lying on the ground.'''),
-      (900, '''VOLDEMORT: Crucio.'''),
-      (900, '''PERSON TORTURED: AAAAAAAAAAAAAAAAAAAAAAA'''),
+      (900, '''<span class="dialogue VOLDEMORT">VOLDEMORT: Crucio.</span> {The incantation of the torture curse.}'''),
+      (900, '''<span class="dialogue GREY">PERSON TORTURED: AAAAAAAAAAAAAAAAAAAAAAA</span>'''),
       (1050, '''PAST GRANGER: He had a Time-Twister and he pushed it to its limit. He did more damage to the flow of time than any witch or wizard since Merlin...'''),
       (1050, '''We get a closer look at the spiral object Voldemort has been wearing around zir neck. It is a small hourglass in a clockwise-as-you-move-inwards spiral. Part of the band is yellowish, but closer to the hourglass, it fades to blue. Voldemort's hand is reaching down to manipulate it.'''),
       (1200, '''PAST GRANGER: Even his own followers were afraid of him. He had no mercy for the slightest failure or irritation.'''),
@@ -165,6 +165,17 @@ vc_pages = [
 <p>Given all these different possible uses, I try to make the transcript explain all the relevant information from the image. A lot of websites have transcripts that only repeat the text from the image; I believe that's insufficient.</p>
 
 <p>Of course, since this is a work of fan fiction, it has a lot of implicit references to things from the <i>Harry Potter</i> universe. I can't reasonably explain all of them. I will generally try to explain things in the transcript if they're obscure enough that a fair chunk of <i>Harry Potter</i> readers won't know them (e.g. if they're from the later books in the series). I'm not trying to make the story <em>entirely</em> accessible to people who haven't read <i>Harry Potter</i> at all, but luckily, most information from the <i>Harry Potter</i> universe is easy to look up on the Internet.</p>''',
+  },
+  {
+    "content_notice": "depicts physical bullying.",
+    "transcript": [
+      (0, '''A shadowy metaphorical image of Voldemort looms behind Harry. Voldemort is grabbing Harry by the hair. Most of Harry's hair has fallen over zir face, so zir eyes are invisible. Voldemort and Harry speak in unison, in a mix of their graphical styles. (Physically, we're still in the interrogation cell, and Harry is speaking alone.)'''),
+      (150, '''<span class="dialogue HARRYMORT">HARRY AND VOLDEMORT: Hey, listen. If you want to know about me. I'll tell you. I'll tell you things nobody but me knows. Things nobody but me should ever know. Just three rules... One, I tell it how I want. Don't you try to twist my story with your questions. Two, if you use that truth potion to get more out of me, it's over. Three... Give me back my god damn glasses.'''),
+      (3140, '''GRANGER: ...I accept your rules.'''),
+      (3350, '''Granger magically transports Harry's glasses back onto Harry's face.'''),
+      (3320, '''HARRY: Now... maybe it starts when Lily Evans and James Potter died... or maybe it starts long before I was born... but I'm going to start with when I went to Hogwarts.'''),
+    ],
+    "annotation": '''<p>I wanted to give Granger a more nuanced line to accept Harry's rules with, but I couldn't make it fit with the flow of the piece (sure, I could have made the upper text smaller, but I don't think the atmosphere of this page would benefit from the level of nuance that Granger would try to introduce to the situation).</p><p>By the way, this is the last page of chapter 1. I suppose I could have come up with a nice way to indicate the end of the chapter, like <a href="http://gunnerkrigg.com/">Gunnerkrigg Court</a> does, but I guess I didn't.</p>''',
   },
 ]
 for i in range(0,len(vc_pages)):

@@ -234,6 +234,7 @@ div.vc_transcript_inner .GRANGER { color: #8080ff; /*#6060c0;*/ }
 div.vc_transcript_inner .HARRY { color: #ff0000; }
 div.vc_transcript_inner .WIRELESS { color: #737373; }
 div.vc_transcript_inner .VOLDEMORT { color: #80ff80; }
+div.vc_transcript_inner .HARRYMORT { color: #ba823f; }
 div.vc_transcript_inner .LESTRANGE { color: #c8ff00; }
 div.vc_transcript_inner .GREY { color: '''+dialogue_50pct_grey+'''; }
 
