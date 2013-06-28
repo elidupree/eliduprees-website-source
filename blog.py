@@ -33,6 +33,7 @@ min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all
 background_color = "#000000";
 metacontent_color_IE8 = "#bbbbbb"
 metacontent_color = "rgba(255,255,255,.7)"
+comment_hover_border_width = "2px";
 
 css.insert('''
 div.blog_page_limits {
@@ -96,24 +97,40 @@ div.blog_post_metadata {
   padding:'''+str(text_padding_width)+'''em;
   background-color:'''+metacontent_color_IE8+''';
   background-color:'''+metacontent_color+'''; }
+
+div.blog_post_comments {
+  padding-top:'''+str(text_padding_width/2)+'''em; }
 h2.comments_title {
   font-size: 200%;
   font-weight: bold;
-  padding-top:'''+str(text_padding_width/2)+'''em;
+  padding-top:'''+str(text_padding_width/4)+'''em;
   text-align: center; }
-div.user_comment {
-  margin-top:'''+str(text_padding_width)+'''em; }
+div.blog_post_comments:hover>h2.comments_title {
+  border-left: '''+comment_hover_border_width+''' solid red;
+  margin-left: -'''+comment_hover_border_width+''';
+  border-top-left-radius: 5% 100%; }
+div.comment_body_outer {
+  padding-top:'''+str(text_padding_width)+'''em;
+  padding-left: '''+str(text_padding_width)+'''em; }
+div.user_comment>div.comment_hover_box {
+  margin-left: '''+str(text_padding_width)+'''em; }
 div.comment_body {
   background-color: white;
   padding:'''+str(text_padding_width)+'''em; }
-div.user_comment div.user_comment {
-  margin-left: '''+str(text_padding_width)+'''em; }
 div.comment_hover_box:hover>div.whole_comment_hover_marker:not(:hover) {
-  border-left: 0.2em solid red;
-  margin-left: -0.2em; }
+  border-left: '''+comment_hover_border_width+''' solid red;
+  margin-left: -'''+comment_hover_border_width+'''; }
 div.user_comment:hover>div.comment_body_hover_marker {
-  border-left: 0.2em solid red;
-  margin-left: -0.2em; }
+  border-left: '''+comment_hover_border_width+''' solid red;
+  margin-left: -'''+comment_hover_border_width+'''; }
+div.blog_post_comments:hover div.comment_body {
+  background-color: #dddddd; }
+div.user_comment:hover>div.comment_body_hover_marker>*>div.comment_body {
+  background-color: white;
+  border: '''+comment_hover_border_width+''' solid red;
+  margin: -'''+comment_hover_border_width+''';
+  border-left: '''+str(text_padding_width)+'''em solid red;
+  margin-left: -'''+str(text_padding_width)+'''em; }
 
 a:link.blog_end_link { color:yellow; }
 a:visited.blog_end_link { color:orange; }
@@ -140,20 +157,26 @@ def post_div_id(post_dict):
 def post_html(post_dict):
   return '<div id="'+post_div_id(post_dict)+'" class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">'+('Tags: '+(", ".join(tags.tag_link(tag) for tag in post_dict["tags"]))+utils.inline_separator if "tags" in post_dict else "")+'Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+post_permalink(post_dict)+'">Permalink</a>'+utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'+'</div></div>'
 
+global fake_comment_id
+fake_comment_id = ''
 def put_in_hover_boxes(comment_list):
   if len(comment_list) == 0:
     return ''
+  global fake_comment_id
+  fake_comment_id = fake_comment_id+'i'
   return '<div class="comment_hover_box"><div class="whole_comment_hover_marker">'+comment_list[0]+'</div>'+put_in_hover_boxes(comment_list[1:])+'</div>'
 
 def fake_comments(tree_structure):
-  return put_in_hover_boxes(['<article><div class="user_comment"><div class="comment_body_hover_marker"><div class="comment_body"><h3>SomeUser5098 <a href="">wrote</a>:</h3>I GOT STUFF TO SAY</div></div>'+fake_comments(foo)+'</div></article>' for foo in tree_structure])
+  return put_in_hover_boxes(['<article><div class="user_comment" id='+fake_comment_id+'><div class="comment_body_hover_marker"><div class="comment_body_outer"><div class="comment_body"><h3>SomeUser5098 <a href="#'+fake_comment_id+'">wrote</a>:</h3>I GOT STUFF TO SAY</div></div></div>'+fake_comments(foo)+'</div></article>' for foo in tree_structure])
+
+fake_comment_html = fake_comments([[[],[[[],[[[]],[]],[]]]],[],[[[],[[[],[[[]],[]],[]]]]]])
   
 def add_fake_comments(html):
   return re.sub(re.escape(utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'), '''
 <section>
   <div class="blog_post_comments">
     <h2 class="comments_title">Comments</h2>
-    '''+fake_comments([[[],[[[],[[[]],[]],[]]]],[],[[[],[[[],[[[]],[]],[]]]]]])+'''
+    '''+fake_comment_html+'''
   </div>
 </section>''', html)
 
