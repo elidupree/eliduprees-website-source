@@ -103,13 +103,17 @@ h2.comments_title {
   text-align: center; }
 div.user_comment {
   margin-top:'''+str(text_padding_width)+'''em; }
-div.user_comment:target {
-  border: 2px solid red; }
 div.comment_body {
   background-color: white;
   padding:'''+str(text_padding_width)+'''em; }
 div.user_comment div.user_comment {
   margin-left: '''+str(text_padding_width)+'''em; }
+div.comment_hover_box:hover>div.whole_comment_hover_marker:not(:hover) {
+  border-left: 0.2em solid red;
+  margin-left: -0.2em; }
+div.user_comment:hover>div.comment_body_hover_marker {
+  border-left: 0.2em solid red;
+  margin-left: -0.2em; }
 
 a:link.blog_end_link { color:yellow; }
 a:visited.blog_end_link { color:orange; }
@@ -136,15 +140,20 @@ def post_div_id(post_dict):
 def post_html(post_dict):
   return '<div id="'+post_div_id(post_dict)+'" class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">'+('Tags: '+(", ".join(tags.tag_link(tag) for tag in post_dict["tags"]))+utils.inline_separator if "tags" in post_dict else "")+'Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+post_permalink(post_dict)+'">Permalink</a>'+utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'+'</div></div>'
 
+def put_in_hover_boxes(comment_list):
+  if len(comment_list) == 0:
+    return ''
+  return '<div class="comment_hover_box"><div class="whole_comment_hover_marker">'+comment_list[0]+'</div>'+put_in_hover_boxes(comment_list[1:])+'</div>'
+
 def fake_comments(tree_structure):
-  return "\n".join(['<article><div class="user_comment" id="'+bar+'"><div class="comment_body"><h3>SomeUser5098 <a href="#'+bar+'">wrote</a>:</h3>I GOT STUFF TO SAY</div>'+fake_comments(foo)+'</div></article>' for (bar, foo) in tree_structure])
+  return put_in_hover_boxes(['<article><div class="user_comment"><div class="comment_body_hover_marker"><div class="comment_body"><h3>SomeUser5098 <a href="">wrote</a>:</h3>I GOT STUFF TO SAY</div></div>'+fake_comments(foo)+'</div></article>' for foo in tree_structure])
   
 def add_fake_comments(html):
   return re.sub(re.escape(utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'), '''
 <section>
   <div class="blog_post_comments">
     <h2 class="comments_title">Comments</h2>
-    '''+fake_comments([("ick",[("faa",[]),("wow",[("loo",[])])]),("ent",[])])+'''
+    '''+fake_comments([[[],[[[],[[[]],[]],[]]]],[],[[[],[[[],[[[]],[]],[]]]]]])+'''
   </div>
 </section>''', html)
 
