@@ -109,8 +109,10 @@ div.blog_post_comments:hover>h2.comments_title {
   border-left: '''+comment_hover_border_width+''' solid red;
   margin-left: -'''+comment_hover_border_width+''';
   border-top-left-radius: 5% 100%; }
+div.blog_post_comments:hover>h2.comments_title:hover {
+  border:0; margin:0; }
 div.comment_body_outer {
-  padding-top:'''+str(text_padding_width)+'''em;
+  padding-top:0.5em;
   padding-left: '''+str(text_padding_width)+'''em; }
 div.user_comment>div.comment_hover_box {
   margin-left: '''+str(text_padding_width)+'''em; }
@@ -123,7 +125,7 @@ div.comment_hover_box:hover>div.whole_comment_hover_marker:not(:hover) {
 div.user_comment:hover>div.comment_body_hover_marker {
   border-left: '''+comment_hover_border_width+''' solid red;
   margin-left: -'''+comment_hover_border_width+'''; }
-div.blog_post_comments:hover div.comment_body {
+div.all_comments:hover div.comment_body {
   background-color: #dddddd; }
 div.user_comment:hover>div.comment_body_hover_marker>*>div.comment_body {
   background-color: white;
@@ -176,7 +178,7 @@ def add_fake_comments(html):
 <section>
   <div class="blog_post_comments">
     <h2 class="comments_title">Comments</h2>
-    '''+fake_comment_html+'''
+    <div class="all_comments">'''+fake_comment_html+'''</div>
   </div>
 </section>''', html)
 
