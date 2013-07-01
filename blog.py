@@ -171,16 +171,15 @@ def put_in_hover_boxes(comment_list):
 def fake_comments(tree_structure):
   return put_in_hover_boxes(['<article><div class="user_comment" id='+fake_comment_id+'><div class="comment_body_hover_marker"><div class="comment_body_outer"><div class="comment_body"><h3>SomeUser5098 <a href="#'+fake_comment_id+'">wrote</a>:</h3>I GOT STUFF TO SAY</div></div></div>'+fake_comments(foo)+'</div></article>' for foo in tree_structure])
 
-fake_comment_html = fake_comments([[[],[[[],[[[]],[]],[]]]],[],[[[],[[[],[[[]],[]],[]]]]]])
-  
-def add_fake_comments(html):
-  return re.sub(re.escape(utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'), '''
-<section>
+fake_comment_html = '''<section>
   <div class="blog_post_comments">
     <h2 class="comments_title">Comments</h2>
-    <div class="all_comments">'''+fake_comment_html+'''</div>
+    <div class="all_comments">'''+fake_comments([[[],[[[],[[[]],[]],[]]]],[],[[[],[[[],[[[]],[]],[]]]]]])+'''</div>
   </div>
-</section>''', html)
+</section>'''
+  
+def add_fake_comments(html):
+  return re.sub(re.escape(utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'), fake_comment_html, html)
 
 def index_entry_html(post_dict):
   return '<div class="index_entry"><a href="">'+post_dict["title"]+'</a></div>'

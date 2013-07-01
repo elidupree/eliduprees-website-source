@@ -8,6 +8,7 @@ import top_bar
 import bars
 import html_pages
 from voldemorts_children_pages import vc_pages
+import blog
 
 
 vc_content_margin = "4em";
@@ -144,10 +145,16 @@ div.vc_annotation {
   margin: 3em auto;
 }
 div.vc_annotation .blog_post {
-  background-color: #cccccc
-}
+  background-color: #cccccc }
+div.vc_annotation .comment_body {
+  background-color: #cccccc }
+div.vc_annotation div.all_comments:hover div.comment_body {
+  background-color: #aaaaaa; }
+div.vc_annotation div.user_comment:hover>div.comment_body_hover_marker>*>div.comment_body {
+  background-color: #cccccc; }
 div.vc_annotation .blog_post_metadata {
   background-color: rgba(204,204,204,.7) }''')
+print ("TODO: find a better way to make modified versions of CSS rules")
 
 def vc_navbar(prev_page, next_page):
   def inner_link(string, big_string, page):
@@ -194,7 +201,7 @@ def vc_page_html_and_head(page, prev_page, next_page):
           '''+page["annotation"]+'''
         </div>
         <div class="blog_post_metadata_outer">
-          <div class="blog_post_metadata">Posted May 14, 2015</div>
+          <div class="blog_post_metadata">Posted May 14, 2015'''+blog.fake_comment_html+'''</div>
         </div>
       </div>
     </div>
