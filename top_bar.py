@@ -70,10 +70,12 @@ span.top_bar_category {
   width:'''+str(category_button_width)+'''em; height:'''+str(category_button_height)+'''em;
   text-align:center;
   background-color: #444444;
-  background-image: url("http://deqyc5bzdh53a.cloudfront.net/biscuits_2013_06_16.jpg");
-  background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em;
   border-radius:'''+str(button_border_radius)+'''em;
   vertical-align: bottom; } /* since it's an inline-block, we need this to stop it from creating a gutter for potential descenders */
+span.top_bar_category.biscuits_background {
+  background-color: #444444;
+  background-image: url("http://deqyc5bzdh53a.cloudfront.net/biscuits_2013_06_16.jpg");
+  background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category_text {
   position:absolute; display:block;
   bottom:0; right:0; width:'''+str(category_text_width_modified_ems)+'''em;
@@ -81,7 +83,21 @@ span.top_bar_category_text {
   border-bottom-right-radius:'''+str(button_border_radius)+'''em;
   border-top-left-radius:'''+str(button_border_radius)+'''em;
   font-size:120%; font-weight:bold; text-decoration:underline; }
-  
+span.top_bar_blog_preview_text {
+  background-color: #ddb;
+  display:block;
+  height: 100%;
+  width: 100%;
+  border-radius:'''+str(button_border_radius)+'''em;
+  border-top: 0.25em solid #886;
+  border-left: 0.25em solid #886;
+  padding: 0.1em 0.25em;
+  box-sizing: border-box;
+  font-weight:bold;
+  color: #886;
+  overflow: hidden;
+  text-align: left; }
+
 div.top_bar_login {
   position:absolute;
   right:0; top:0;
@@ -148,9 +164,9 @@ def games_string(you_are_here):
 def comics_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/comics"><span class="top_bar_category"><span class="top_bar_category_text">Comics</span></span></a>'''
 def other_string(you_are_here):
-  return '''<a class="top_bar_category_link" href="/other"><span class="top_bar_category"><span class="top_bar_category_text">Other</span></span></a>'''
+  return '''<a class="top_bar_category_link" href="/other"><span class="top_bar_category biscuits_background"><span class="top_bar_category_text">Other</span></span></a>'''
 def blog_string(you_are_here):
-  return '''<a class="top_bar_category_link" href="/blog"><span class="top_bar_category"><span class="top_bar_category_text">Blog</span></span></a>'''
+  return '''<a class="top_bar_category_link" href="/blog"><span class="top_bar_category blog"><span class="top_bar_blog_preview_text">The grand tale of how I failed at blogging</span><span class="top_bar_category_text">Blog</span></span></a>'''
 def shop_string(you_are_here):
   return '''<a class="top_bar_category_link far_right" href="https://secure.elidupree.com/shop"><span class="top_bar_category"><span class="top_bar_category_text">Shop</span></span></a>'''
 
