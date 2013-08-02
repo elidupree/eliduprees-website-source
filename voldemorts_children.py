@@ -228,7 +228,7 @@ dialogue_name_replace = {
   "WIRELESS":True,"LESTRANGE":True,
   "PRESENT HARRY":"HARRY",
   "PRESENT GRANGER":"GRANGER",
-  "FUDGE":"GREY", "PAST GRANGER":"GREY", "MCGONAGALL":"GREY",
+  "FUDGE":"GREY", "PAST GRANGER":"GREY", "MCGONAGALL":"GREY", "RON":"GREY",
 }
 css.insert('''
 p.vc_transcript_line {

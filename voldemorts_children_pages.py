@@ -201,6 +201,27 @@ vc_pages = [
     ],
     "annotation": '''<p>I enjoy the contrasts in this image.</p>''',
   },
+  {
+    "transcript": [
+      (0, '''We see a view of the classroom where Professor McGonagall and some other students are visible. One of them is Ron Weasley. The others are indistinct. Harry is still staring out the window, and Granger is still dutifully working.'''),
+      (0, '''RON: Aw, McGonagall, he's always doing that! Don't you want us to win the House Cup?'''),
+      (440, '''MCGONAGALL: Weasley, <em>if</em> we win the House Cup, I want it to be won <em>fairly</em>, not through favoritism. I might remind you that Potter is not the only one who could stand to improve his behaviour in my class. That concludes class for today. Homework will be chapter two of the Switch book and five inches of parchment on the basic properties of glass in transfiguration.'''),
+      (1754, '''PRESENT HARRY: I didn't know what she meant by five inches of parchment, and I didn't know a way to get someone to tell me. It wouldn't have helped anyway, because I could barely read or write.'''),
+      (2733, '''The scene changes. We see McGonagall and Harry facing each other across a desk. McGonagall is pointing at a parchment on the desk, which has only a few words written on it.'''),
+      (2850, '''MCGONAGALL: Is this all you have? Five points will be taken from Gryffindor for your lack of effort, young man!'''),
+      (3380, '''PRESENT HARRY: But one professor was different from the rest.'''),
+      (3380, '''We see Professor Severus Snape, standing next to a cauldron of bright green liquid. Snape's eyes, hair, and robes are varying shades of dark gray, and zir skin is somewhat grayish as well. Ze looks worried.'''),
+    ],
+    "annotation": '''<p>Some people would say that Professor McGonagall is "strict, but fair".</p>
+    
+<p>What does it mean to be "strict, but fair"? People think that you can be "strict, but fair" by holding every student to the same standard... but no matter what standard you pick, there will be some students that don't have the physical, mental, or social capability of living up to that standard. To those students, you are being profoundly <em>un</em>fair.</p>
+
+<p>Can you fix that by tailoring your demands to each individual student? Is anyone so skilled that they can identify the abilities of hundreds of people? Is anyone's judgment unclouded by classism, neurelitism, racism, sexism?</p>
+
+<p>If those things are difficult or impossible, is this a task that is "difficult, but necessary"?</p>
+
+<p>Is it <em>necessary</em> for education to be a series of demands that adults impose upon children who have never consented to them?</p>''',
+  },
 ]
 for i in range(0,len(vc_pages)):
   vc_pages[i]["list_index"] = i
