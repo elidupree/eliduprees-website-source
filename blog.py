@@ -194,6 +194,9 @@ def url_formatted_title(post_dict):
 def title_formatted_title(post_dict):
   return utils.strip_tags(post_dict["title"])
 
+def latest_post_preview_text():
+  return blog_posts.posts[-1]["title"]
+
 def add_blog_pages(page_dict, tag_specific = None):
   if tag_specific:
     posts = tag_specific["post_list"]

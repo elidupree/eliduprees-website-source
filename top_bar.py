@@ -1,6 +1,7 @@
 
 
 import css
+import blog
 
 bar_height = 3
 category_button_width = 9
@@ -166,7 +167,7 @@ def comics_string(you_are_here):
 def other_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/other"><span class="top_bar_category biscuits_background"><span class="top_bar_category_text">Other</span></span></a>'''
 def blog_string(you_are_here):
-  return '''<a class="top_bar_category_link" href="/blog"><span class="top_bar_category blog"><span class="top_bar_blog_preview_text">The grand tale of how I failed at blogging</span><span class="top_bar_category_text">Blog</span></span></a>'''
+  return '''<a class="top_bar_category_link" href="/blog"><span class="top_bar_category blog"><span class="top_bar_blog_preview_text">'''+blog.latest_post_preview_text()+'''</span><span class="top_bar_category_text">Blog</span></span></a>'''
 def shop_string(you_are_here):
   return '''<a class="top_bar_category_link far_right" href="https://secure.elidupree.com/shop"><span class="top_bar_category"><span class="top_bar_category_text">Shop</span></span></a>'''
 
