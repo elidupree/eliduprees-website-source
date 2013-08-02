@@ -85,19 +85,25 @@ span.top_bar_category_text {
   border-top-left-radius:'''+str(button_border_radius)+'''em;
   font-size:120%; font-weight:bold; text-decoration:underline; }
 span.top_bar_blog_preview_text {
-  background-color: #ddb;
+  border-radius:'''+str(button_border_radius)+'''em;
   display:block;
   height: 100%;
   width: 100%;
-  border-radius:'''+str(button_border_radius)+'''em;
-  border-top: 0.25em solid #886;
-  border-left: 0.25em solid #886;
   padding: 0.1em 0.25em;
   box-sizing: border-box;
   font-weight:bold;
-  color: #886;
   overflow: hidden;
-  text-align: left; }
+  text-align: left;
+  background-color: #ddb;
+  border-top: 0.25em solid #886;
+  border-left: 0.25em solid #886;
+  color: #886; }
+.voldemorts_children span.top_bar_blog_preview_text {
+  background-color: #777060;
+  border-top: 0.25em solid #432;
+  border-left: 0.25em solid #432;
+  color: #432;
+  }
 
 div.top_bar_login {
   position:absolute;
