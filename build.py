@@ -1,3 +1,8 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+from __future__ import division
+
+
 import os
 import os.path
 import shutil
@@ -7,6 +12,7 @@ import html_pages
 import top_bar
 import utils
 import blog
+import comics
 import voldemorts_children
 
 def ensure_dir(d):
@@ -33,6 +39,7 @@ put_to_dict(css.filename(), css.build())
 
 put_to_dict("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar({"home":True})+"</body>"))
 blog.add_blog_pages(page_dict)
+comics.add_comics_page(page_dict)
 voldemorts_children.add_vc_pages(page_dict)
 
 for path,contents in page_dict.items():

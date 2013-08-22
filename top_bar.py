@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+from __future__ import division
 
 
 import css
@@ -91,6 +94,8 @@ span.top_bar_blog_preview_text {
   width: 100%;
   padding: 0.1em 0.25em;
   box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   font-weight:bold;
   overflow: hidden;
   text-align: left;

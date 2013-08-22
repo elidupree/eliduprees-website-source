@@ -1,3 +1,8 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+from __future__ import division
+
+
 
 tags = {
   "lol":"Posts about laughing out loud",
