@@ -12,7 +12,7 @@ def add_comics_page(page_dict):
   utils.checked_insert(page_dict,
     'comics.html',
     html_pages.make_page(
-      "Eli Dupree's website ⊃ Comics",
+      "Comics ⊂ Eli Dupree's website",
       '',
       '<body><a class="skip" href="#content">Skip to content</a>'+bars.bars_wrap({"comics":True}, '<main></main>')+'</body>'
     )

@@ -299,7 +299,7 @@ def add_vc_pages(page_dict):
     utils.checked_insert(page_dict,
       vc_page_filename(i),
       html_pages.make_page(
-        "Eli Dupree's website ⊃ Voldemort's Children ⊃ Page "+str(i),
+        ('Page '+str(i)+' ⊂ ' if i>0 else '')+"Voldemort's Children ⊂ Eli Dupree's website",
         head
 +('<link rel="next prefetch prerender" href="'+next_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(next_page)+'" />\n' if next_page else '')
 +('<link rel="prev prefetch prerender" href="'+prev_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(prev_page)+'" />\n' if prev_page else '')

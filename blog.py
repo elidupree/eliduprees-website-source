@@ -260,7 +260,7 @@ def add_blog_pages(page_dict, tag_specific = None):
         utils.checked_insert(page_dict,
           'blog'+tags_string+url_pagenum_string+page_order+'.html',
           html_pages.make_page(
-            "Eli Dupree's website ⊃ Blog",
+            "Blog ⊂ Eli Dupree's website",
             "",
             make_blog_page_body("\n".join(current_page if page_order == "/chronological" else reversed(current_page))+end_links, '<nav><a href="/403">[Random post] I foobar yesterday</a>'+index+'</nav>')
           )
@@ -275,7 +275,7 @@ def add_blog_pages(page_dict, tag_specific = None):
       utils.checked_insert(page_dict,
         'blog/'+url_formatted_title(post_dict)+'.html',
         html_pages.make_page(
-          "Eli Dupree's website ⊃ Blog ⊃ "+title_formatted_title(post_dict),
+          title_formatted_title(post_dict)+" ⊂ Blog ⊂ Eli Dupree's website",
           "",
           make_blog_page_body(add_fake_comments(post_html(post_dict)), '<a href="/blog'+url_pagenum_string+'#'+post_div_id(post_dict)+'">View this post in context</a>')
         )
