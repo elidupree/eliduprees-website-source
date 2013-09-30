@@ -11,6 +11,7 @@ import bars
 import html_pages
 from voldemorts_children_pages import vc_pages
 import blog
+import gimp_stuff
 
 
 vc_content_margin = "4em";
@@ -309,3 +310,7 @@ def add_vc_pages(page_dict):
         )+'</body>'
       )
     )
+
+
+def convert_vc_page(page_dict):
+  gimp_stuff.generate_vc_images(page_dict["xcf_base"], page_dict["list_index"])

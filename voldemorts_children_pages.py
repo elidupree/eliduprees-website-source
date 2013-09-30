@@ -7,6 +7,7 @@ from __future__ import division
 print ("write a new thing for the cover page")
 vc_pages = [
   {
+    "xcf_base": "ch1_p1_2",
     "transcript": [
       (0, 'A cover page.'),
       (500, '''TITLE: Voldemort's Children'''),
