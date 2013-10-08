@@ -6,6 +6,7 @@ from __future__ import division
 import re
 import utils
 import css
+import javascript
 import top_bar
 import bars
 import html_pages
@@ -22,14 +23,20 @@ max_transcript_width = 500;
 transcript_at_side_width = comic_width + 3*sideways_space + min_transcript_width;
 transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_width;
 
+print('TODO: content_notices_disabled on the big content notices box can make the bottom bar show up in the wrong place on a very tall window')
 css.insert('''
 div.vc_content_notice_box {
   height: 100%; }
+.content_notices_disabled div.vc_content_notice_box {
+  height: auto; }
 div.vc_content_notice_text {
-  margin: 2em auto;
+  margin: 0 auto;
+  padding: 6.5em 0;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center; }
+.content_notices_disabled div.vc_content_notice_text {
+  display: none; }
 div.vc_content_notice_main_text a {
   color: #ffc800; }
 div.vc_content_notice_main_text {
@@ -52,6 +59,8 @@ a.disable_content_notices {
   display: block;
   color: #ffc800;
   padding: 0.5em; }
+.content_notices_disabled a.disable_content_notices {
+  display: none; }
 div.vc_box_after_content_notice {
   position: relative; }
   
@@ -87,9 +96,13 @@ a.vc_nav_button:link{ color: #99994e; /*#7e7e40*/ }
 a.vc_nav_button:visited{ color: #4d6699; /*#40557f*/ }
 div.vc_nav_button.content_notice a.vc_nav_button:link{ color: #ffff82; /*#7e7e40*/ }
 div.vc_nav_button.content_notice a.vc_nav_button:visited{ color: #81abff; /*#40557f*/ }
+.content_notices_disabled div.vc_nav_button.content_notice a.vc_nav_button:link{ color: #99994e; /*#7e7e40*/ }
+.content_notices_disabled div.vc_nav_button.content_notice a.vc_nav_button:visited{ color: #4d6699; /*#40557f*/ }
 span.vc_nav_content_notice {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 110%; }
+.content_notices_disabled span.vc_nav_content_notice {
+  display: none; }
 div.vc_nav_button.prev {
   margin-left: 75px;
   margin-right: 50px; }
@@ -159,6 +172,35 @@ div.vc_annotation .blog_post_metadata {
   background-color: rgba(204,204,204,.7) }''')
 print ("TODO: find a better way to make modified versions of CSS rules")
 
+
+javascript.do_after_body('''
+var show_transcript_button   = document.getElementById('show_transcript_button'  );
+var hide_transcript_button   = document.getElementById('hide_transcript_button'  );
+var hide_transcript_button_2 = document.getElementById('hide_transcript_button_2');
+var show_transcript = function() {
+  remove_class(document.body, 'vc_transcript_hidden');
+};
+var hide_transcript = function() {
+  document.body.className += ' vc_transcript_hidden';
+};
+var show_content_notices = function() {
+  remove_class(document.body, 'content_notices_disabled');
+};
+var hide_content_notices = function() {
+  document.body.className += ' content_notices_disabled';
+};
+add_event_listener(show_transcript_button  ,'click',show_transcript);
+add_event_listener(hide_transcript_button  ,'click',hide_transcript);
+add_event_listener(hide_transcript_button_2,'click',hide_transcript);
+var disable_content_notices_event = function(id) {
+  var disable_content_notices_button = document.getElementById(id);
+  if (disable_content_notices_button) { add_event_listener(disable_content_notices_button,'click',hide_content_notices); }
+};
+disable_content_notices_event('disable_content_notices_button_upperbox');
+disable_content_notices_event('disable_content_notices_button_next'    );
+disable_content_notices_event('disable_content_notices_button_previous');
+''')
+
 def vc_navbar(prev_page, next_page):
   def inner_link(string, big_string, page):
     if not page:
@@ -167,15 +209,16 @@ def vc_navbar(prev_page, next_page):
     '<a class="vc_nav_button" rel="'+string+'" href="'+vc_page_url(page)+'">'
       +('' if "content_notice" not in page else '<span class="vc_nav_content_notice bigger">The '+big_string+' page '+page["content_notice"]+'</span>')
       +'<span class="vc_nav_button_main">'+utils.capitalize_string(big_string)+'</span></a>'
-    +('' if "content_notice" not in page else '<a class="disable_content_notices" href="javascript">(disable content notices)</a>'))
+    +('' if "content_notice" not in page else '<a id="disable_content_notices_button_'+big_string+'" class="disable_content_notices" href="javascript:;">(disable content notices)</a>'))
   def link(string, big_string, page):
     return '<div class="vc_nav_button '+string+(' content_notice' if (page and ("content_notice" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
   return '<div class="vc_nav_bar">'+link("prev","previous",prev_page)+link("next","next",next_page)+'</div>'
 
 print("Fix this hack:")
 def vc_comic_image_url(page):
+  return '/media/VC_'+str(page["list_index"])+'.png'
   # Hack...
-  return 'http://deqyc5bzdh53a.cloudfront.net/VC_'+str(page["list_index"]+1)+'.png'
+  # return 'http://deqyc5bzdh53a.cloudfront.net/VC_'+str(page["list_index"]+1)+'.png'
 
 def vc_page_html_and_head(page, prev_page, next_page):
   wide_screen_rules_list = []
@@ -218,7 +261,27 @@ def vc_page_html_and_head(page, prev_page, next_page):
 </style>''')
   
 def vc_content_notice_bars_wrap(info, notice, html):
-  return '<a class="skip" href="#footer">Skip to footer</a><div class="vc_content_notice_box">'+top_bar.top_bar(info)+'<section><div class="vc_content_notice_text"><div class="vc_content_notice_main_text"><p>The following page '+notice+'</p><p><a class="dismiss_content_notice" href="javascript">View the comic</a></p></div><div class="vc_content_notice_details"><p><a class="disable_content_notices" href="javascript">Disable content notices for this site</a></p></div></div></section></div><div class="vc_box_after_content_notice"><div class="bars_inner_box">'+html+'</div>'+bars.bottom_bar(info)+'</div>'
+  return '''<a class="skip" href="#footer">Skip to footer</a>
+<div class="vc_content_notice_box">
+  '''+top_bar.top_bar(info)+'''
+  <section>
+    <div class="vc_content_notice_text">
+      <div class="vc_content_notice_main_text">
+        <p>The following page '''+notice+'''</p>
+        <p><a class="dismiss_content_notice" href="javascript:;">View the comic</a></p>
+      </div>
+      <div class="vc_content_notice_details">
+        <p><a id="disable_content_notices_button_upperbox" class="disable_content_notices" href="javascript:;">Disable content notices for this site</a></p>
+      </div>
+    </div>
+  </section>
+</div>
+<div class="vc_box_after_content_notice">
+  <div class="bars_inner_box">
+    '''+html+'''
+  </div>
+  '''+bars.bottom_bar(info)+'''
+</div>'''
 
 # in place of "Disable content notices for this site",
 # "You could disable content notices if you had cookies enabled for this site",
@@ -227,11 +290,11 @@ def vc_content_notice_bars_wrap(info, notice, html):
 dialogue_50pct_grey = '#8c8c8c'
 dialogue_name_replace = {
   "TITLE":True,
-  "TONKS":True,"GRANGER":True,"HARRY":True,"VOLDEMORT":True,
+  "TONKS":True,"GRANGER":True,"HARRY":True,"VOLDEMORT":True,"DUMBLEDORE":True,"ZABINI":True,"LUNA":True,
   "WIRELESS":True,"LESTRANGE":True,
   "PRESENT HARRY":"HARRY",
   "PRESENT GRANGER":"GRANGER",
-  "FUDGE":"GREY", "PAST GRANGER":"GREY", "MCGONAGALL":"GREY", "RON":"GREY",
+  "FUDGE":"grey", "PAST GRANGER":"grey", "MCGONAGALL":"grey", "RON":"grey", "DRACO":"grey",
 }
 css.insert('''
 p.vc_transcript_line {
@@ -247,7 +310,20 @@ div.vc_transcript_inner .WIRELESS { color: #737373; }
 div.vc_transcript_inner .VOLDEMORT { color: #80ff80; }
 div.vc_transcript_inner .HARRYMORT { color: #ba823f; }
 div.vc_transcript_inner .LESTRANGE { color: #c8ff00; }
-div.vc_transcript_inner .GREY { color: '''+dialogue_50pct_grey+'''; }
+div.vc_transcript_inner .DUMBLEDORE { color: #8000c0; }
+div.vc_transcript_inner .deep_purple { color: #8000c0; }
+div.vc_transcript_inner .ZABINI { color: #eec832; }
+div.vc_transcript_inner .LUNA { color: #00ff00; }
+div.vc_transcript_inner .grey { color: '''+dialogue_50pct_grey+'''; }
+div.vc_transcript_inner .pure_blue { color: #0000ff; }
+div.vc_transcript_inner .bright_orange { color: #ffc800; }
+div.vc_transcript_inner .bright_green { color: #00ff00; }
+div.vc_transcript_inner .bright_red { color: #ff0000; }
+div.vc_transcript_inner .cyan { color: #00ffff; }
+div.vc_transcript_inner .pale_blue { color: #6483c4; }
+div.vc_transcript_inner .light_pink { color: #ff80c0; }
+div.vc_transcript_inner .dark_green { color: #326632; }
+
 
 .vc_transcript_hidden div.vc_transcript_box { min-height: 0; }
 .vc_transcript_hidden p.vc_transcript_line { display: none; }
@@ -273,9 +349,9 @@ def format_transcript_recur(transcript, wide_screen_rules_list):
     return '<div class="vc_transcript_box px'+height_num_str+'">'+format_transcript_recur(transcript[0:len(transcript) - 1], wide_screen_rules_list)+'</div>'+line_info[1]
 
 def format_transcript(transcript, wide_screen_rules_list):
-  entries = [(0, '<div class="vc_transcript_label">Transcript: <a href="javascript"><span class="hide_transcript_button">(hide)</span><span class="show_transcript_button">(show)</span></a></div>')]
+  entries = [(0, '<div class="vc_transcript_label">Transcript: <a href="javascript:;"><span id="hide_transcript_button" class="hide_transcript_button">(hide)</span><span id="show_transcript_button" class="show_transcript_button">(show)</span></a></div>')]
   entries.extend([(a, format_transcript_line(b)) for (a, b) in transcript])
-  return format_transcript_recur(entries, wide_screen_rules_list)+'<a class="hide_transcript_button" href="javascript">(hide transcript)</a>'
+  return format_transcript_recur(entries, wide_screen_rules_list)+'<a id="hide_transcript_button_2" class="hide_transcript_button" href="javascript:;">(hide transcript)</a>'
 
 # these work for either page numbers or pages
 def vc_webname_base(page):

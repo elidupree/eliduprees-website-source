@@ -46,8 +46,19 @@ address.eli_exmxaxixl {
   font-style: normal; }
 ''')
 
+exmxaxixl_axdxrxexsxs = 'web&#64;el&#105;dupree&#00046;&#99;om'
+def exmxaxixl_a(contents):
+  return '<a href="ma&#73;ltO&#58;'+exmxaxixl_axdxrxexsxs+'">'+contents+'</a>'
+
 def bottom_bar(info):
-  return '<footer><div id="footer" class="bottom_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'"><div class="bottom_bar_inner">Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl">Contact: <a href="ma&#73;ltO&#58;web&#64;el&#105;dupree&#00046;&#99;om">web&#64;el&#105;dupree&#00046;&#99;om</a></address>'+utils.inline_separator+'<a href="/policies">Policies</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a></div></div></footer>'
+  return '<footer><div id="footer" class="bottom_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'"><div class="bottom_bar_inner">Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl">Contact: '+exmxaxixl_a(exmxaxixl_axdxrxexsxs)+'</address>'+utils.inline_separator+'<a href="/policies">Policies</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a></div></div></footer>'
 
 def bars_wrap(info, html):
-  return '<a class="skip" href="#footer">Skip to footer</a><div class="bars_outer_box">'+top_bar.top_bar(info)+'<div class="bars_inner_box">'+html+'</div>'+bottom_bar(info)+'</div>'
+  return '''<a class="skip" href="#footer">Skip to footer</a>
+<div class="bars_outer_box">
+  '''+top_bar.top_bar(info)+'''
+  <div class="bars_inner_box">
+    '''+html+'''
+  </div>
+  '''+bottom_bar(info)+'''
+</div>'''

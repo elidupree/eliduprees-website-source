@@ -76,9 +76,11 @@ span.top_bar_category {
   background-color: #444444;
   border-radius:'''+str(button_border_radius)+'''em;
   vertical-align: bottom; } /* since it's an inline-block, we need this to stop it from creating a gutter for potential descenders */
-span.top_bar_category.biscuits_background {
-  background-color: #444444;
+span.top_bar_category.other {
   background-image: url("http://deqyc5bzdh53a.cloudfront.net/biscuits_2013_06_16.jpg");
+  background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
+span.top_bar_category.comics {
+  background-image: url("/media/VC_whatever_thumbnail.png");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category_text {
   position:absolute; display:block;
@@ -172,11 +174,11 @@ a.top_bar_login_link {
 def home_string(you_are_here):
   return '''<div class="top_bar_home"><a href="/"><img alt="The website icon, a smiling face with a wizard hat and a broken version of the 'male' and 'female' symbols." class="top_bar_home_image" src="/media/site-logo-transparent-nosides.png" /><span class="top_bar_home_text">Eli Dupree's website</span></a></div>'''
 def games_string(you_are_here):
-  return '''<a class="top_bar_category_link" href="/games"><span class="top_bar_category"><span class="top_bar_category_text">Games</span></span></a>'''
+  return '''<a class="top_bar_category_link" href="/games"><span class="top_bar_category games"><span class="top_bar_category_text">Games</span></span></a>'''
 def comics_string(you_are_here):
-  return '''<a class="top_bar_category_link" href="/comics"><span class="top_bar_category"><span class="top_bar_category_text">Comics</span></span></a>'''
+  return '''<a class="top_bar_category_link" href="/comics"><span class="top_bar_category comics"><span class="top_bar_category_text">Comics</span></span></a>'''
 def other_string(you_are_here):
-  return '''<a class="top_bar_category_link" href="/other"><span class="top_bar_category biscuits_background"><span class="top_bar_category_text">Other</span></span></a>'''
+  return '''<a class="top_bar_category_link" href="/other"><span class="top_bar_category other"><span class="top_bar_category_text">Other</span></span></a>'''
 def blog_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/blog"><span class="top_bar_category blog"><span class="top_bar_blog_preview_text">'''+blog.latest_post_preview_text()+'''</span><span class="top_bar_category_text">Blog</span></span></a>'''
 def shop_string(you_are_here):

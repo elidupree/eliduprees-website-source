@@ -6,11 +6,12 @@ from __future__ import division
 import subprocess
 
 def gimp_batch(command):
-  print("calling GIMP batch command..."+command)
-  out = subprocess.Popen(["gimp", "--no-interface", "--batch='"+command+"'"], stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
-  out.wait()
-  print(out.communicate())
-  print("finished GIMP batch command...")
+  #print("calling GIMP batch command..."+command)
+  #out = subprocess.Popen(["gimp", "--no-interface", "--batch='"+command+"'"], stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
+  #out.wait()
+  #print(out.communicate())
+  #print("finished GIMP batch command...")
+  print("gimp --no-interface --batch='"+command+"'")
 
 def generate_vc_images(xcf_basename, page_number):
   generate_images("/n/art/voldemorts_children/", xcf_basename+".xcf", "VC_"+str(page_number))
@@ -39,6 +40,5 @@ def generate_images(infile_path, infile_base, outfile_base):
   (gimp-image-convert-indexed thumbnail NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
   (file-png-save RUN-NONINTERACTIVE thumbnail tdrawable "'''+thumbnail_outfile+'" "'+thumbnail_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete thumbnail)
-)
-(gimp-quit 0)''')
+)''')
 

@@ -8,6 +8,7 @@ import os.path
 import shutil
 
 import css
+import javascript
 import html_pages
 import top_bar
 import utils
@@ -36,6 +37,7 @@ def put_to_dict(path, contents):
   utils.checked_insert(page_dict, path, contents)
 
 put_to_dict(css.filename(), css.build())
+put_to_dict(javascript.filename(), javascript.build())
 
 put_to_dict("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar({"home":True})+"</body>"))
 blog.add_blog_pages(page_dict)

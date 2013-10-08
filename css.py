@@ -48,7 +48,7 @@ def insert(scss_snippet):
   all_scss = all_scss + "\n" + scss_snippet
   
 def filename():
-  return "style.css"
+  return "media/style.css"
 def build():
   return all_scss
   #return scss.parser.parse(all_scss)

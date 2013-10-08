@@ -5,6 +5,7 @@ from __future__ import division
 
 
 import css
+import javascript
 
 def make_page(title, head_stuff, body_stuff):
   return '''<!DOCTYPE html>
@@ -16,4 +17,5 @@ def make_page(title, head_stuff, body_stuff):
     '''+head_stuff+'''
   </head>
   '''+body_stuff+'''
+  <script type="text/javascript" src="/'''+javascript.filename()+'''"></script>
 </html>'''
