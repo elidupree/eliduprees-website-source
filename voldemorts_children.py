@@ -29,6 +29,8 @@ div.vc_content_notice_box {
   height: 100%; }
 .content_notices_disabled div.vc_content_notice_box {
   height: auto; }
+.content_notice_dismissed div.vc_content_notice_box {
+  height: auto; }
 div.vc_content_notice_text {
   margin: 0 auto;
   padding: 6.5em 0;
@@ -36,6 +38,8 @@ div.vc_content_notice_text {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center; }
 .content_notices_disabled div.vc_content_notice_text {
+  display: none; }
+.content_notice_dismissed div.vc_content_notice_text {
   display: none; }
 div.vc_content_notice_main_text a {
   color: #ffc800; }
@@ -183,22 +187,40 @@ var show_transcript = function() {
 var hide_transcript = function() {
   document.body.className += ' vc_transcript_hidden';
 };
-var show_content_notices = function() {
+var enable_content_notices = function() {
   remove_class(document.body, 'content_notices_disabled');
 };
-var hide_content_notices = function() {
+var disable_content_notices = function() {
   document.body.className += ' content_notices_disabled';
+};
+var dismiss_content_notice = function() {
+  document.body.className += ' content_notice_dismissed';
 };
 add_event_listener(show_transcript_button  ,'click',show_transcript);
 add_event_listener(hide_transcript_button  ,'click',hide_transcript);
 add_event_listener(hide_transcript_button_2,'click',hide_transcript);
 var disable_content_notices_event = function(id) {
   var disable_content_notices_button = document.getElementById(id);
-  if (disable_content_notices_button) { add_event_listener(disable_content_notices_button,'click',hide_content_notices); }
+  if (disable_content_notices_button) { add_event_listener(disable_content_notices_button,'click',disable_content_notices); }
 };
-disable_content_notices_event('disable_content_notices_button_upperbox');
 disable_content_notices_event('disable_content_notices_button_next'    );
 disable_content_notices_event('disable_content_notices_button_previous');
+
+var view_the_comic_p = document.getElementById('view_the_comic_p');
+var dismiss_content_notice_a = document.createElement('a');
+dismiss_content_notice_a.className = 'dismiss_content_notice';
+dismiss_content_notice_a.setAttribute('href','javascript:;');
+dismiss_content_notice_a.appendChild(document.createTextNode('View the comic'));
+view_the_comic_p.replaceChild(dismiss_content_notice_a, view_the_comic_p.firstChild);
+add_event_listener(dismiss_content_notice_a,'click',dismiss_content_notice);
+
+var disable_content_notices_p = document.getElementById('disable_content_notices_p');
+var disable_content_notices_a = document.createElement('a');
+disable_content_notices_a.className = 'disable_content_notices';
+disable_content_notices_a.setAttribute('href','javascript:;');
+disable_content_notices_a.appendChild(document.createTextNode('Disable content notices'));
+disable_content_notices_p.replaceChild(disable_content_notices_a, disable_content_notices_p.firstChild);
+add_event_listener(disable_content_notices_a,'click',disable_content_notices);
 ''')
 
 def vc_navbar(prev_page, next_page):
@@ -267,11 +289,11 @@ def vc_content_notice_bars_wrap(info, notice, html):
   <section>
     <div class="vc_content_notice_text">
       <div class="vc_content_notice_main_text">
-        <p>The following page '''+notice+'''</p>
-        <p><a class="dismiss_content_notice" href="javascript:;">View the comic</a></p>
+        <p>The comic below '''+notice+'''</p>
+        <p id="view_the_comic_p">Scroll down to view the comic.</p>
       </div>
       <div class="vc_content_notice_details">
-        <p><a id="disable_content_notices_button_upperbox" class="disable_content_notices" href="javascript:;">Disable content notices for this site</a></p>
+        <p id="disable_content_notices_p">You could disable content notices if you had Javascript and cookies enabled for this site.</p>
       </div>
     </div>
   </section>
