@@ -81,6 +81,7 @@ img.vc_comic {
   width: '''+str(comic_width)+'''px; }
   
 div.vc_nav_bar {
+  font-family: Arial, Helvetica, sans-serif;
   width: '''+str(comic_width)+'''px; }
 div.vc_nav_button {
   display: inline-block;
@@ -96,12 +97,12 @@ span.vc_nav_button_main {
   display: block;
   font-size: 300%;
   font-weight: bold; }
-a.vc_nav_button:link{ color: #99994e; /*#7e7e40*/ }
-a.vc_nav_button:visited{ color: #4d6699; /*#40557f*/ }
-div.vc_nav_button.content_notice a.vc_nav_button:link{ color: #ffff82; /*#7e7e40*/ }
-div.vc_nav_button.content_notice a.vc_nav_button:visited{ color: #81abff; /*#40557f*/ }
-.content_notices_disabled div.vc_nav_button.content_notice a.vc_nav_button:link{ color: #99994e; /*#7e7e40*/ }
-.content_notices_disabled div.vc_nav_button.content_notice a.vc_nav_button:visited{ color: #4d6699; /*#40557f*/ }
+a.vc_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
+a.vc_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
+div.vc_nav_button.content_notice a.vc_nav_button:link{ color: #ccb38f; /*#ffff82;*/ /*#7e7e40*/ }
+div.vc_nav_button.content_notice a.vc_nav_button:visited{ color: #cc7900; /*#81abff;*/ /*#40557f*/ }
+.content_notices_disabled div.vc_nav_button.content_notice a.vc_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
+.content_notices_disabled div.vc_nav_button.content_notice a.vc_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
 span.vc_nav_content_notice {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 110%; }
@@ -189,16 +190,21 @@ var hide_transcript = function() {
 };
 var enable_content_notices = function() {
   remove_class(document.body, 'content_notices_disabled');
+  delete_cookie('content_notices_disabled');
 };
 var disable_content_notices = function() {
   document.body.className += ' content_notices_disabled';
+  set_cookie('content_notices_disabled', 'true', 30);
 };
 var dismiss_content_notice = function() {
   document.body.className += ' content_notice_dismissed';
 };
-add_event_listener(show_transcript_button  ,'click',show_transcript);
-add_event_listener(hide_transcript_button  ,'click',hide_transcript);
-add_event_listener(hide_transcript_button_2,'click',hide_transcript);
+if (read_cookie('content_notices_disabled')) {
+  disable_content_notices();
+}
+if (show_transcript_button  ) { add_event_listener(show_transcript_button  ,'click',show_transcript); }
+if (hide_transcript_button  ) { add_event_listener(hide_transcript_button  ,'click',hide_transcript); }
+if (hide_transcript_button_2) { add_event_listener(hide_transcript_button_2,'click',hide_transcript); }
 var disable_content_notices_event = function(id) {
   var disable_content_notices_button = document.getElementById(id);
   if (disable_content_notices_button) { add_event_listener(disable_content_notices_button,'click',disable_content_notices); }
@@ -207,20 +213,27 @@ disable_content_notices_event('disable_content_notices_button_next'    );
 disable_content_notices_event('disable_content_notices_button_previous');
 
 var view_the_comic_p = document.getElementById('view_the_comic_p');
-var dismiss_content_notice_a = document.createElement('a');
-dismiss_content_notice_a.className = 'dismiss_content_notice';
-dismiss_content_notice_a.setAttribute('href','javascript:;');
-dismiss_content_notice_a.appendChild(document.createTextNode('View the comic'));
-view_the_comic_p.replaceChild(dismiss_content_notice_a, view_the_comic_p.firstChild);
-add_event_listener(dismiss_content_notice_a,'click',dismiss_content_notice);
-
-var disable_content_notices_p = document.getElementById('disable_content_notices_p');
-var disable_content_notices_a = document.createElement('a');
-disable_content_notices_a.className = 'disable_content_notices';
-disable_content_notices_a.setAttribute('href','javascript:;');
-disable_content_notices_a.appendChild(document.createTextNode('Disable content notices'));
-disable_content_notices_p.replaceChild(disable_content_notices_a, disable_content_notices_p.firstChild);
-add_event_listener(disable_content_notices_a,'click',disable_content_notices);
+if (view_the_comic_p) {
+  var dismiss_content_notice_a = document.createElement('a');
+  dismiss_content_notice_a.className = 'dismiss_content_notice';
+  dismiss_content_notice_a.setAttribute('href','javascript:;');
+  dismiss_content_notice_a.appendChild(document.createTextNode('View the comic'));
+  view_the_comic_p.replaceChild(dismiss_content_notice_a, view_the_comic_p.firstChild);
+  add_event_listener(dismiss_content_notice_a,'click',dismiss_content_notice);
+  
+  var disable_content_notices_p = document.getElementById('disable_content_notices_p');
+  if (cookies_enabled) {
+    var disable_content_notices_a = document.createElement('a');
+    disable_content_notices_a.className = 'disable_content_notices';
+    disable_content_notices_a.setAttribute('href','javascript:;');
+    disable_content_notices_a.appendChild(document.createTextNode('Disable content notices'));
+    disable_content_notices_p.replaceChild(disable_content_notices_a, disable_content_notices_p.firstChild);
+    add_event_listener(disable_content_notices_a,'click',disable_content_notices);
+  }
+  else {
+    disable_content_notices_p.firstChild.nodeValue = 'You could disable content notices if you had cookies enabled.'
+  }
+}
 ''')
 
 def vc_navbar(prev_page, next_page):
@@ -293,7 +306,7 @@ def vc_content_notice_bars_wrap(info, notice, html):
         <p id="view_the_comic_p">Scroll down to view the comic.</p>
       </div>
       <div class="vc_content_notice_details">
-        <p id="disable_content_notices_p">You could disable content notices if you had Javascript and cookies enabled for this site.</p>
+        <p id="disable_content_notices_p">You could disable content notices if you had Javascript and cookies enabled.</p>
       </div>
     </div>
   </section>
@@ -313,7 +326,7 @@ dialogue_50pct_grey = '#8c8c8c'
 dialogue_name_replace = {
   "TITLE":True,
   "TONKS":True,"GRANGER":True,"HARRY":True,"VOLDEMORT":True,"DUMBLEDORE":True,"ZABINI":True,"LUNA":True,
-  "WIRELESS":True,"LESTRANGE":True,
+  "WIRELESS":True,"LESTRANGE":True,"SNAPE":True,
   "PRESENT HARRY":"HARRY",
   "PRESENT GRANGER":"GRANGER",
   "FUDGE":"grey", "PAST GRANGER":"grey", "MCGONAGALL":"grey", "RON":"grey", "DRACO":"grey",
@@ -324,7 +337,7 @@ p.vc_transcript_line {
   padding-bottom: 0.9em;
   line-height: 1.2em; }
 div.vc_transcript_inner .dialogue { font-weight: bold; }
-div.vc_transcript_inner .TITLE { color: #9a6f34; /*#412f16;*/ }
+div.vc_transcript_inner .TITLE { color: #804c00; /*#412f16;*/ }
 div.vc_transcript_inner .TONKS { color: #bf98af; /*#7f6574;*/ }
 div.vc_transcript_inner .GRANGER { color: #8080ff; /*#6060c0;*/ }
 div.vc_transcript_inner .HARRY { color: #ff0000; }
@@ -332,6 +345,7 @@ div.vc_transcript_inner .WIRELESS { color: #737373; }
 div.vc_transcript_inner .VOLDEMORT { color: #80ff80; }
 div.vc_transcript_inner .HARRYMORT { color: #ba823f; }
 div.vc_transcript_inner .LESTRANGE { color: #c8ff00; }
+div.vc_transcript_inner .SNAPE { color: #809e80; }
 div.vc_transcript_inner .DUMBLEDORE { color: #8000c0; }
 div.vc_transcript_inner .deep_purple { color: #8000c0; }
 div.vc_transcript_inner .ZABINI { color: #eec832; }
