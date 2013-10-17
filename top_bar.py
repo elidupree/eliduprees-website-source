@@ -5,6 +5,7 @@ from __future__ import division
 
 import css
 import blog
+import voldemorts_children
 
 bar_height = 3
 category_button_width = 9
@@ -80,7 +81,7 @@ span.top_bar_category.other {
   background-image: url("http://deqyc5bzdh53a.cloudfront.net/biscuits_2013_06_16.jpg");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category.comics {
-  background-image: url("/media/VC_whatever_thumbnail.png");
+  background-image: url("'''+voldemorts_children.last_vc_comic_thumbnail_url()+'''");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category_text {
   position:absolute; display:block;

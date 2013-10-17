@@ -7,11 +7,7 @@ import re
 import utils
 import css
 import javascript
-import top_bar
-import bars
-import html_pages
 from voldemorts_children_pages import vc_pages
-import blog
 import gimp_stuff
 
 
@@ -249,11 +245,29 @@ def vc_navbar(prev_page, next_page):
     return '<div class="vc_nav_button '+string+(' content_notice' if (page and ("content_notice" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
   return '<div class="vc_nav_bar">'+link("prev","previous",prev_page)+link("next","next",next_page)+'</div>'
 
-print("Fix this hack:")
 def vc_comic_image_url(page):
   return '/media/VC_'+str(page["list_index"])+'.png'
-  # Hack...
-  # return 'http://deqyc5bzdh53a.cloudfront.net/VC_'+str(page["list_index"]+1)+'.png'
+
+def vc_comic_thumbnail_url(page):
+  return '/media/VC_'+str(page["list_index"])+'_thumbnail.png'
+
+def last_vc_comic_thumbnail_url():
+  return vc_comic_thumbnail_url(vc_pages[len(vc_pages) - 1])
+
+# these work for either page numbers or pages
+def vc_webname_base(page):
+  page_number = (page["list_index"] if type(page) is dict else page)
+  return 'voldemorts-children'+('' if page_number == 0 else '/'+str(page_number))
+def vc_page_url(page):
+  return '/'+vc_webname_base(page)
+def vc_page_filename(page):
+  return vc_webname_base(page)+'.html'
+  
+def recent_page_link(deduction):
+  page = vc_pages[len(vc_pages) - 1 - deduction]
+  return '<a class="recent_update" href="'+vc_page_url(page)+'"><img src="'+vc_comic_thumbnail_url(page)+'''" alt="" /> Voldemort's Children, page '''+str(page["list_index"])+'''</a>'''
+
+import blog
 
 def vc_page_html_and_head(page, prev_page, next_page):
   wide_screen_rules_list = []
@@ -294,29 +308,8 @@ def vc_page_html_and_head(page, prev_page, next_page):
   '''+'\n'.join(wide_screen_rules_list)+'''
 }
 </style>''')
-  
-def vc_content_notice_bars_wrap(info, notice, html):
-  return '''<a class="skip" href="#footer">Skip to footer</a>
-<div class="vc_content_notice_box">
-  '''+top_bar.top_bar(info)+'''
-  <section>
-    <div class="vc_content_notice_text">
-      <div class="vc_content_notice_main_text">
-        <p>The comic below '''+notice+'''</p>
-        <p id="view_the_comic_p">Scroll down to view the comic.</p>
-      </div>
-      <div class="vc_content_notice_details">
-        <p id="disable_content_notices_p">You could disable content notices if you had Javascript and cookies enabled.</p>
-      </div>
-    </div>
-  </section>
-</div>
-<div class="vc_box_after_content_notice">
-  <div class="bars_inner_box">
-    '''+html+'''
-  </div>
-  '''+bars.bottom_bar(info)+'''
-</div>'''
+
+
 
 # in place of "Disable content notices for this site",
 # "You could disable content notices if you had cookies enabled for this site",
@@ -389,16 +382,34 @@ def format_transcript(transcript, wide_screen_rules_list):
   entries.extend([(a, format_transcript_line(b)) for (a, b) in transcript])
   return format_transcript_recur(entries, wide_screen_rules_list)+'<a id="hide_transcript_button_2" class="hide_transcript_button" href="javascript:;">(hide transcript)</a>'
 
-# these work for either page numbers or pages
-def vc_webname_base(page):
-  page_number = (page["list_index"] if type(page) is dict else page)
-  return 'voldemorts-children'+('' if page_number == 0 else '/'+str(page_number))
-def vc_page_url(page):
-  return '/'+vc_webname_base(page)
-def vc_page_filename(page):
-  return vc_webname_base(page)+'.html'
 
 
+import top_bar
+import bars
+import html_pages
+  
+def vc_content_notice_bars_wrap(info, notice, html):
+  return '''<a class="skip" href="#footer">Skip to footer</a>
+<div class="vc_content_notice_box">
+  '''+top_bar.top_bar(info)+'''
+  <section>
+    <div class="vc_content_notice_text">
+      <div class="vc_content_notice_main_text">
+        <p>The comic below '''+notice+'''</p>
+        <p id="view_the_comic_p">Scroll down to view the comic.</p>
+      </div>
+      <div class="vc_content_notice_details">
+        <p id="disable_content_notices_p">You could disable content notices if you had Javascript and cookies enabled.</p>
+      </div>
+    </div>
+  </section>
+</div>
+<div class="vc_box_after_content_notice">
+  <div class="bars_inner_box">
+    '''+html+'''
+  </div>
+  '''+bars.bottom_bar(info)+'''
+</div>'''
 
 def add_vc_pages(page_dict):
   for i in range(0,len(vc_pages)):

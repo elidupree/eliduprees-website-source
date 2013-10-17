@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 
-import bars # only for exmxaxixl_a, which maybe should be in a less specific place?
+import exmxaxixl # only for exmxaxixl_a, which maybe should be in a less specific place?
 
 bright_orange = '<span class="dialogue bright_orange">bright orange</span>'
 bright_red = '<span class="dialogue bright_red">bright red</span>'
@@ -44,7 +44,7 @@ vc_pages = [
       (3640, 'TONKS: and ask him questions.')],
     "annotation": '''<p>By the way, I have a built-in way to mark pages with content notices, to warn users about content that might be triggering &ndash; or content that they might want to avoid for any other reason. (If you're unsure what trigger warnings are about, <a href="http://fuckyeahtriggerwarnings.tumblr.com/">this tumblr is an excellent introduction</a>.) I'm going to try to mark any page that has potentially triggering material, but I'm not a very good judge of what might be triggering, because I don't get triggered myself (in fact, I basically never get <em>any</em> undesirable emotional effect from seeing <em>any</em> visual image). So if you see a potential trigger that I haven't marked, please tell me.</p>
 
-<p>The same goes for any other web accessibility issue. I care about this stuff, so if you '''+bars.exmxaxixl_a('e-mail me')+''' with an issue, I <strong>will</strong> do my best to fix it.</p>'''
+<p>The same goes for any other web accessibility issue. I care about this stuff, so if you '''+exmxaxixl.a('e-mail me')+''' with an issue, I <strong>will</strong> do my best to fix it.</p>'''
   },
   {
     "xcf_base": "ch1_p2_1",
