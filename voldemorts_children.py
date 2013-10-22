@@ -271,7 +271,7 @@ import blog
 
 def vc_page_html_and_head(page, prev_page, next_page):
   wide_screen_rules_list = []
-  navbar = (vc_navbar(prev_page, next_page) if page["list_index"] != 0 else '')
+  navbar = vc_navbar(prev_page, next_page) #(vc_navbar(prev_page, next_page) if page["list_index"] != 0 else '')
   return (
     '''
 <div class="vc_comic_and_nav">'''
@@ -281,7 +281,7 @@ def vc_page_html_and_head(page, prev_page, next_page):
       <div class="vc_comic">
         '''+('<a tabindex="-1" href="'+vc_page_url(next_page)+'">' if next_page else '')+'''
           <img class="vc_comic" alt="A comic page; see below for a transcript" src="'''+vc_comic_image_url(page)+'''" />
-        '''+('</a>'                         if next_page else '')+'''
+        '''+('</a>'                                                if next_page else '')+'''
       </div><!--
    --><div class="vc_transcript_outer">
         <div class="vc_transcript_inner">
