@@ -33,7 +33,6 @@ vc_pages = [
   },
   {
     "xcf_base": "ch1_p1_2",
-    "content_notice": 'contains depictions of gratuitous faux Latin.',
     "transcript": [
       (0, '''Hermione Granger stands in a room labeled "Auror Offices". {The Aurors are elite law enforcement agents.} There are bookshelves along the wall. Granger has zir hair tied back, wears a long dark coat, and has very reserved mannerisms. Nymphadora Tonks enters the room. Tonks is more easygoing than Granger, wears a shorter, lighter coat, and has short spiky pink hair. Tonks's speech is drawn somewhat messily in a <span class="dialogue TONKS">mild purple</span> color, and Granger's is more formal and drawn in a <span class="dialogue GRANGER">mild blue</span>.'''),
       (55, 'TONKS: Granger, you called?'),
