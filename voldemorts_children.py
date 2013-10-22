@@ -124,9 +124,9 @@ div.vc_transcript_label {
   padding-bottom: 1.1em; }
 .show_transcript_button {
   display: none; }
-.vc_transcript_hidden .show_transcript_button {
+.transcripts_hidden .show_transcript_button {
   display: inline; }
-.vc_transcript_hidden .hide_transcript_button {
+.transcripts_hidden .hide_transcript_button {
   display: none; }
   
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
@@ -141,10 +141,10 @@ div.vc_transcript_label {
     vertical-align: top;
     width: auto;
     margin-left: '''+str(comic_width)+'''px; }
-  .vc_transcript_hidden div.vc_comic_and_nav {
+  .transcripts_hidden div.vc_comic_and_nav {
     width: '''+str((transcript_at_side_width+comic_width)/2)+'''px;
     padding-left: '''+str((transcript_at_side_width-comic_width)/2)+'''px; }
-  .vc_transcript_hidden div.vc_transcript_outer {
+  .transcripts_hidden div.vc_transcript_outer {
     width: '''+str((transcript_at_side_width-comic_width)/2)+'''px; }
 }
 @media screen and (min-width: '''+str(transcript_maximized_width)+'''px) {
@@ -179,10 +179,12 @@ var show_transcript_button   = document.getElementById('show_transcript_button' 
 var hide_transcript_button   = document.getElementById('hide_transcript_button'  );
 var hide_transcript_button_2 = document.getElementById('hide_transcript_button_2');
 var show_transcript = function() {
-  remove_class(document.body, 'vc_transcript_hidden');
+  remove_class(document.body, 'transcripts_hidden');
+  delete_cookie('transcripts_hidden');
 };
 var hide_transcript = function() {
-  document.body.className += ' vc_transcript_hidden';
+  document.body.className += ' transcripts_hidden';
+  set_cookie('transcripts_hidden', 'true', 30);
 };
 var enable_content_notices = function() {
   remove_class(document.body, 'content_notices_disabled');
@@ -197,6 +199,9 @@ var dismiss_content_notice = function() {
 };
 if (read_cookie('content_notices_disabled')) {
   disable_content_notices();
+}
+if (read_cookie('transcripts_hidden')) {
+  hide_transcript();
 }
 if (show_transcript_button  ) { add_event_listener(show_transcript_button  ,'click',show_transcript); }
 if (hide_transcript_button  ) { add_event_listener(hide_transcript_button  ,'click',hide_transcript); }
@@ -354,8 +359,8 @@ div.vc_transcript_inner .light_pink { color: #ff80c0; }
 div.vc_transcript_inner .dark_green { color: #326632; }
 
 
-.vc_transcript_hidden div.vc_transcript_box { min-height: 0; }
-.vc_transcript_hidden p.vc_transcript_line { display: none; }
+.transcripts_hidden div.vc_transcript_box { min-height: 0; }
+.transcripts_hidden p.vc_transcript_line { display: none; }
 ''')
 
 def format_transcript_line(line_text):
