@@ -15,7 +15,7 @@ function add_event_listener(element, event_type, listener) {
 }
 
 function delete_cookie(name) {
-  document.cookie = name+'=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+  document.cookie = name+'=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/';
 }
 
 var cookies_enabled = false;
