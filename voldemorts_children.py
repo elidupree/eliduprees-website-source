@@ -270,7 +270,7 @@ def vc_page_filename(page):
   
 def recent_page_link(deduction):
   page = vc_pages[len(vc_pages) - 1 - deduction]
-  return '<a class="recent_update" href="'+vc_page_url(page)+'"><div class="recent_update"><img src="'+vc_comic_thumbnail_url(page)+'''" alt="" /> Voldemort's Children, page '''+str(page["list_index"])+'''</div></a>'''
+  return '<a class="recent_update" href="'+vc_page_url(page)+'"><div class="recent_update_outer"><div class="recent_update"><img src="'+vc_comic_thumbnail_url(page)+'''" alt="" /> Voldemort's Children, page '''+str(page["list_index"])+'''</div></div><div class="recent_update_end"></div></a>'''
 
 import blog
 

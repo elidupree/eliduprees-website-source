@@ -13,6 +13,7 @@ div.recent_pages {
   margin-top:'''+str(blog.post_separation)+'''em;
   text-align: center; }
 div.comic_splash {
+  clear:both;
   background: white;
   padding: 0.5em;
   margin: 1em; }
@@ -24,32 +25,39 @@ div.recent_updates_header {
 h1.recent_updates_header {
   padding: 0;
   padding-top: 1em;
-  padding-right: 3em;
+  padding-right: 3.5em;
   z-index: 999;
   position: relative;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   pointer-events: none;
   color: rgba(255,255,255,.9); }
-a.recent_update:hover>div.recent_update {
+a.recent_update:hover div.recent_update {
   background-color: #ffff66; }
 a.recent_update {
   display: block; }
+div.recent_update_outer {
+  max-width: 30em;
+  padding: 0 '''+str(blog.post_separation)+'''em;
+  margin: 2px auto; }
 div.recent_update {
   background-color:'''+blog.metacontent_color_IE8+''';
   background-color:'''+blog.metacontent_color+''';
-  max-width: 25em;
-  margin: 2px auto;
   border-radius: 0.6em;
   font-weight: bold;
+  float: right;
+  clear: both;
+  padding: 0 0.5em;
   font-family: Arial, Helvetica, sans-serif; }
+div.recent_update_end {
+  clear:both; }
 div.recent_update>img {
   width: 9em;
   height: 2.34em; }
 @media screen and (max-width: 40em) {
   h1.recent_updates_header { font-size: 200%; }
 }
-@media screen and (max-width: 25em) {
+@media screen and (max-width: 30em) {
   div.recent_update>img { display: none; }
   h1.recent_updates_header { padding-top: 0.5em; }
 }
