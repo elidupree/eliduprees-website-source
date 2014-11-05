@@ -4,12 +4,16 @@ from __future__ import division
 
 
 import re
+import random
+import datetime
+import pickle
 
 import css
 
 import html_pages
 import bars
 import blog_posts
+import comments
 import utils
 import tags
 
@@ -100,19 +104,15 @@ div.blog_post_metadata {
   background-color:'''+metacontent_color_IE8+''';
   background-color:'''+metacontent_color+'''; }
 
-div.blog_post_comments {
-  padding-top:'''+str(text_padding_width/2)+'''em; }
 h2.comments_title {
   font-size: 200%;
   font-weight: bold;
   padding-top:'''+str(text_padding_width/4)+'''em;
   text-align: center; }
-div.blog_post_comments:hover>h2.comments_title {
+div.blog_post_comments:hover>h2.comments_title:not(:hover) {
   border-left: '''+comment_hover_border_width+''' solid red;
   margin-left: -'''+comment_hover_border_width+''';
   border-top-left-radius: 5% 100%; }
-div.blog_post_comments:hover>h2.comments_title:hover {
-  border:0; margin:0; }
 div.comment_body_outer {
   padding-top:0.5em;
   padding-left: '''+str(text_padding_width)+'''em; }
@@ -120,7 +120,7 @@ div.user_comment>div.comment_hover_box {
   margin-left: '''+str(text_padding_width)+'''em; }
 div.comment_body {
   background-color: white;
-  padding:'''+str(text_padding_width)+'''em; }
+  padding:0.5em '''+str(text_padding_width)+'''em; }
 div.comment_hover_box:hover>div.whole_comment_hover_marker:not(:hover) {
   border-left: '''+comment_hover_border_width+''' solid red;
   margin-left: -'''+comment_hover_border_width+'''; }
@@ -135,6 +135,10 @@ div.user_comment:hover>div.comment_body_hover_marker>*>div.comment_body {
   margin: -'''+comment_hover_border_width+''';
   border-left: '''+str(text_padding_width)+'''em solid red;
   margin-left: -'''+str(text_padding_width)+'''em; }
+span.reply_to_comment {
+  display: none; }
+body.javascript_enabled span.reply_to_comment {
+  display: inline; }
 
 a:link.blog_end_link { color:yellow; }
 a:visited.blog_end_link { color:orange; }
@@ -153,13 +157,84 @@ div.blog_index {
   padding: 0.8em 0; }
 ''')
 
+comment_ids_by_parent = {}
+comments_by_id = {}
+posts_metadata = {}
+try:
+  with open("posts_metadata.pkl", "rb") as p:
+    posts_metadata = pickle.load(p)
+except(IOError):
+  posts_metadata = {}
+  
+def post_metadata(post_dict):
+  if post_dict["title"] not in posts_metadata:
+    posts_metadata[post_dict["title"]] = {
+      "id": hex(random.SystemRandom().getrandbits(128))[2:-1],
+      "date_posted": (post_dict["force_date"] if ("force_date" in post_dict) else datetime.date.today()),
+    }
+    pickle.dump(posts_metadata, open("posts_metadata.pkl", "wb"))
+  return posts_metadata[post_dict["title"]]
+
+for post in blog_posts.posts:
+  comment_ids_by_parent[post["title"]] = []
+for comment in comments.comments:
+  comments_by_id[comment["id"]] = comment
+  comment_ids_by_parent[comment["id"]] = []
+for comment in comments.comments:
+  comment_ids_by_parent[comment["parent"]].append(comment["id"])
+
 def post_permalink(post_dict):
   return "/blog/"+url_formatted_title(post_dict)
 def post_div_id(post_dict):
   return url_formatted_title(post_dict)
-  
-def post_html(post_dict):
-  return '<div id="'+post_div_id(post_dict)+'" class="blog_post"><h1><a class="post_title_link" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'</div><div class="blog_post_metadata_outer"><div class="blog_post_metadata">'+('Tags: '+(", ".join(tags.tag_link(tag) for tag in post_dict["tags"]))+utils.inline_separator if "tags" in post_dict else "")+'Posted May 14, 2015'+utils.inline_separator+'<a rel="bookmark" href="'+post_permalink(post_dict)+'">Permalink</a>'+utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'+'</div></div>'
+
+def do_comments(parent, top_level):
+  child_ids = comment_ids_by_parent[parent]
+  html_list = []
+  num = 0
+  for child_id in child_ids:
+    (cnum, chtml) = do_comments(child_id, False)
+    child = comments_by_id[child_id]
+    num = num + cnum + 1
+    html_list.append('''
+<article>
+  <div class="user_comment" id="'''+child_id+'''">
+    <div class="comment_body_hover_marker">
+      <div class="comment_body_outer">
+        <div class="comment_body">
+          <div><strong>'''+child["username"]+'</strong>'+utils.inline_separator+child["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a href="#'+child_id+'">Permalink</a><span class="reply_to_comment">'+utils.inline_separator+'''<a href="javascript:;">Reply</a></span></div>
+          '''+child["contents"]+'''
+        </div>
+      </div>
+    </div>
+    '''+chtml+'''
+  </div>
+</article>''')
+  return (num, put_in_hover_boxes(html_list))
+
+def post_html(post_dict, expand_comments):
+  metadata = post_metadata(post_dict)
+  (cnum, chtml) = do_comments(post_dict["title"], True)
+  comments_stuff = ""
+  if expand_comments:
+    comments_stuff = '''
+<section>
+  <div class="blog_post_comments" id="comments">
+    <h2 class="comments_title">Comments</h2>
+    <div class="all_comments">'''+chtml+'''</div>
+  </div>
+</section>'''
+  else:
+    comments_stuff = utils.inline_separator+'<a href="'+post_permalink(post_dict)+'#comments">Comments&nbsp;('+str(cnum)+')</a>'
+  return '''
+<div id="'''+post_div_id(post_dict)+'''" class="blog_post">
+  <h1><a class="post_title_link" href="'''+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'''
+</div>
+<div class="blog_post_metadata_outer">
+  <div class="blog_post_metadata">
+    '''+('Tags: '+(", ".join(tags.tag_link(tag) for tag in post_dict["tags"]))+utils.inline_separator if "tags" in post_dict else "")+metadata["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a rel="bookmark" href="'+post_permalink(post_dict)+'">Permalink</a>'+comments_stuff+'''
+  </div>
+</div>'''
 
 global fake_comment_id
 fake_comment_id = ''
@@ -231,7 +306,7 @@ def add_blog_pages(page_dict, tag_specific = None):
     +'</div>')
   for i in range(0,len(posts)):
     post_dict = posts[i]
-    current_page.append('<article>'+post_html(post_dict)+'</article>')
+    current_page.append('<article>'+post_html(post_dict, False)+'</article>')
     
     page_length = 10
     latest_page_max_posts = page_length + 5
@@ -292,7 +367,7 @@ def add_blog_pages(page_dict, tag_specific = None):
         html_pages.make_page(
           title_formatted_title(post_dict)+" ⊂ Blog ⊂ Eli Dupree's website",
           "",
-          make_blog_page_body(add_fake_comments(post_html(post_dict)), '<a href="/blog'+url_pagenum_string+'#'+post_div_id(post_dict)+'">View this post in context</a>')
+          make_blog_page_body(post_html(post_dict, True), '<a href="/blog'+url_pagenum_string+'#'+post_div_id(post_dict)+'">View this post in context</a>')
         )
       )
   
