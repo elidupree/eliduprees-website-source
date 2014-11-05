@@ -11,7 +11,7 @@ bar_height = 3
 category_button_width = 9
 category_text_width_regular_ems = 6
 category_text_width_modified_ems = category_text_width_regular_ems / 1.2
-num_categories = 5
+num_categories = 4
 category_border_width = .65
 all_categories_width = category_button_width * num_categories + category_border_width * (num_categories - 1)
 category_button_height = bar_height - category_border_width
@@ -77,8 +77,8 @@ span.top_bar_category {
   background-color: #444444;
   border-radius:'''+str(button_border_radius)+'''em;
   vertical-align: bottom; } /* since it's an inline-block, we need this to stop it from creating a gutter for potential descenders */
-span.top_bar_category.other {
-  background-image: url("http://deqyc5bzdh53a.cloudfront.net/biscuits_2013_06_16.jpg");
+span.top_bar_category.stories {
+  background-image: url("http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category.comics {
   background-image: url("'''+voldemorts_children.last_vc_comic_thumbnail_url()+'''");
@@ -178,10 +178,10 @@ def games_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/games"><span class="top_bar_category games"><span class="top_bar_category_text">Games</span></span></a>'''
 def comics_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/comics"><span class="top_bar_category comics"><span class="top_bar_category_text">Comics</span></span></a>'''
-def other_string(you_are_here):
-  return '''<a class="top_bar_category_link" href="/other"><span class="top_bar_category other"><span class="top_bar_category_text">Other</span></span></a>'''
+def stories_string(you_are_here):
+  return '''<a class="top_bar_category_link" href="/stories"><span class="top_bar_category stories"><span class="top_bar_category_text">Stories</span></span></a>'''
 def blog_string(you_are_here):
-  return '''<a class="top_bar_category_link" href="/blog"><span class="top_bar_category blog"><span class="top_bar_blog_preview_text">'''+blog.latest_post_preview_text()+'''</span><span class="top_bar_category_text">Blog</span></span></a>'''
+  return '''<a class="top_bar_category_link far_right" href="/blog"><span class="top_bar_category blog"><span class="top_bar_blog_preview_text">'''+blog.latest_post_preview_text()+'''</span><span class="top_bar_category_text">Blog</span></span></a>'''
 def shop_string(you_are_here):
   return '''<a class="top_bar_category_link far_right" href="https://secure.elidupree.com/shop"><span class="top_bar_category"><span class="top_bar_category_text">Shop</span></span></a>'''
 
@@ -189,11 +189,11 @@ def categories_wrap(contents):
   return '<div class="top_bar_categories">'+contents+'</div>'
   
 def top_bar(info):
-  home   =   home_string(  "home" in info)
-  games  =  games_string( "games" in info)
-  comics = comics_string("comics" in info)
-  other  =  other_string( "other" in info)
-  blog   =   blog_string(  "blog" in info)
-  shop   =   shop_string(  "shop" in info)
-  login  = '''<div class="top_bar_login"><a class="top_bar_login_link" href="">Login / Register</a></div>'''
-  return '<header><div class="top_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'">'+home+categories_wrap(games+comics+other+blog+shop)+login+'</div></header>'
+  home    =    home_string(   "home" in info)
+  games   =   games_string(  "games" in info)
+  comics  =  comics_string( "comics" in info)
+  stories = stories_string("stories" in info)
+  blog    =    blog_string(   "blog" in info)
+  shop    =    shop_string(   "shop" in info)
+  login   = '''<div class="top_bar_login"><a class="top_bar_login_link" href="">Login / Register</a></div>'''
+  return '<header><div class="top_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'">'+home+categories_wrap(games+comics+stories+blog+(shop if False else ""))+login+'</div></header>'
