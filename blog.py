@@ -167,7 +167,12 @@ a.blog_end_link.nav.right {
   float:right; }
 
 div.blog_index {
-  padding: 0.8em 0; }
+  padding: 0.4em 0; }
+a.random_post {
+  display: none;
+  padding: 0.4em 0; }
+a.random_post.enabled {
+  display: block; }
   
 q { border: 1px inset white; color: #606060; }
 blockquote { border-left: 2px solid #c0c0c0; padding: 0.25em; color: #606060; margin-left: 2.5em; margin-right: 2.5em; margin-top: 0; margin-bottom: 1em; }
@@ -181,6 +186,9 @@ a.footnote_link { color: black; }
 javascript.do_after_body('''
 var comments = document.getElementsByName("user_comment");
 var all_comments_divs = document.getElementsByName("all_comments");
+var random_post_link = document.getElementById("random_post");
+var index_entries = document.getElementsByName("index_entry");
+var random_entry;
 var i;
 
 function expand_reply_box(elem, id) {
@@ -209,6 +217,12 @@ for (i = 0; i < comments.length; ++i) {
 }
 for (i = 0; i < all_comments_divs.length; ++i) {
   setup_reply_box(all_comments_divs[i].id)
+}
+if (random_post_link) {
+  random_entry = index_entries[Math.floor(Math.random()*index_entries.length)];
+  random_post_link.setAttribute("href", random_entry.getAttribute("href"))
+  random_post_link.innerHTML = "[Random post] "+random_entry.innerHTML
+  random_post_link.className = random_post_link.className+" enabled"
 }
 ''')
 
@@ -317,7 +331,7 @@ def add_fake_comments(html):
   return re.sub(re.escape(utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'), fake_comment_html, html)
 
 def index_entry_html(post_dict):
-  return '<div class="index_entry"><a href="">'+post_dict["title"]+'</a></div>'
+  return '<div class="index_entry"><a name="index_entry" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></div>'
 
 
 def make_blog_page_body(main_contents, sidebar_contents):
@@ -409,7 +423,7 @@ def add_blog_pages(page_dict, tag_specific = None):
           html_pages.make_page(
             "Blog ⊂ Eli Dupree's website",
             "",
-            make_blog_page_body("\n".join(current_page if page_order == "/chronological" else reversed(current_page))+end_links, '<nav><a href="/403">[Random post] I foobar yesterday</a>'+index+'</nav>')
+            make_blog_page_body("\n".join(current_page if page_order == "/chronological" else reversed(current_page))+end_links, '<nav><a class="random_post" id="random_post"></a>'+index+'</nav>')
           )
         )
       current_page = []
