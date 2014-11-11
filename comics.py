@@ -12,11 +12,21 @@ css.insert('''
 div.recent_pages {
   margin-top:'''+str(blog.post_separation)+'''em;
   text-align: center; }
-div.comic_splash {
+a.comic_splash {
+  display: block;
   clear:both;
   background: white;
   padding: 0.5em;
-  margin: 1em; }
+  margin: 1em;
+  text-align: center;
+  text-decoration: none; }
+div.comic_splash_blurb {
+  color: black; }
+div.comic_splash_start_reading {
+  display: block;
+  padding: 1em;
+  font-size: 250%;
+  text-decoration: underline; }
 div.comic_splash_end {
   clear:both; }
 div.recent_updates_header {
@@ -61,6 +71,12 @@ div.recent_update>img {
   div.recent_update>img { display: none; }
   h1.recent_updates_header { padding-top: 0.5em; }
 }
+
+a.comic_splash.vc>img {
+  display: block;
+  float: left;
+  width: 210px;
+  height: 280px; }
 ''')
 
 import html_pages
@@ -89,10 +105,14 @@ def add_comics_page(page_dict):
       '''+recent_page_link(3)+'''
       '''+recent_page_link(4)+'''
     </div>
-    <div class="comic_splash vc">
-      <img width style="display:block; float:left; width: 210px; height: 280px;" alt="A comic page; see below for a transcript" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" />voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
+    <a href="/voldemorts-children" class="comic_splash vc">
+      <img alt="" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" />
+      <div class="comic_splash_blurb">
+      voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
+      </div>
+      <div class="comic_splash_start_reading">Start reading</div>
       <div class="comic_splash_end"></div>
-    </div>
+    </a>
   </div>
 </main>''')+'</body>'
     )

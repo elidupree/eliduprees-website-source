@@ -9,9 +9,11 @@ import datetime
 import pickle
 
 import css
+import javascript
 
 import html_pages
 import bars
+import blog_server_shared
 import blog_posts
 import comments
 import utils
@@ -36,10 +38,11 @@ min_space_for_two_columns_and_all_but_left_margin = min_space_for_two_columns_an
 min_space_for_two_columns_and_all_but_side_margins = min_space_for_two_columns_and_all_but_left_margin - min_side_space_for_post
 min_space_for_two_columns_with_least_margins = min_space_for_two_columns_and_all_but_side_margins - min_side_space_for_post + maximally_pinched_margin
 
-background_color = "#000000";
+background_color = "#000000"
 metacontent_color_IE8 = "#bbbbbb"
 metacontent_color = "rgba(255,255,255,.7)"
-comment_hover_border_width = "2px";
+comment_hover_border_width = "2px"
+print("TODO: scrutinized words in my own posts")
 
 css.insert('''
 div.blog_page_limits {
@@ -155,6 +158,42 @@ a.blog_end_link.nav.right {
 
 div.blog_index {
   padding: 0.8em 0; }
+  
+q { border: 1px inset white; color: #606060; }
+blockquote { border-left: 2px solid #c0c0c0; padding: 0.25em; color: #606060; margin-left: 2.5em; margin-right: 2.5em; margin-top: 0; margin-bottom: 1em; }
+p.reply_input_info { color: #555555; padding-left: 0.5em; }
+span.big_quote_mark_outer { width: 2em; height: 0; float: left; margin-left: 0.5em; margin-top: -0.5em; }
+span.big_quote_mark_inner { font-size: 5em; color: #c0c0c0; }
+''')
+
+javascript.do_after_body('''
+var comments = document.getElementsByName("user_comment");
+var i;
+
+function expand_reply_box(elem, id) {
+  elem.innerHTML = '<div class="preview_space"></div><p class="reply_input_info">'+'You may use &lt;em&gt;<em>emphasized text</em>&lt;/em&gt;, &lt;strong&gt;<strong>strongly emphasized text</strong>&lt;/strong&gt;, <br/>&lt;q&gt;<q>Quoted text</q>&lt;/q&gt;, and &lt;blockquote&gt;longer, indented quotes&lt;/blockquote&gt;.'+'</p>Name: <input type="text"><textarea class="make_reply_input" cols="60" rows="7"></textarea><br/>';
+  var preview_button = document.createElement("button")
+  preview_button.innerHTML = 'Preview your reply'
+  add_event_listener(preview_button, function() {
+    
+  })
+  elem.appendChild(preview_button)
+}
+
+for (i = 0; i < comments.length; ++i) {
+  (function(){
+    var comment = comments[i];
+    var make_reply_box = document.getElementById("make_reply_box_"+comment.id);
+    var make_reply_button = document.getElementById("make_reply_button_"+comment.id);
+    var expanded = false;
+    add_event_listener(make_reply_button,'click',function() {
+      if (!expanded) {
+        expanded = true;
+        expand_reply_box(make_reply_box, comment.id);
+      }
+    });
+  }());
+}
 ''')
 
 comment_ids_by_parent = {}
@@ -176,7 +215,7 @@ def post_metadata(post_dict):
   return posts_metadata[post_dict["title"]]
 
 for post in blog_posts.posts:
-  comment_ids_by_parent[post["title"]] = []
+  comment_ids_by_parent[post_metadata(post)["id"]] = []
 for comment in comments.comments:
   comments_by_id[comment["id"]] = comment
   comment_ids_by_parent[comment["id"]] = []
@@ -198,12 +237,13 @@ def do_comments(parent, top_level):
     num = num + cnum + 1
     html_list.append('''
 <article>
-  <div class="user_comment" id="'''+child_id+'''">
+  <div class="user_comment" name="user_comment" id="'''+child_id+'''">
     <div class="comment_body_hover_marker">
       <div class="comment_body_outer">
         <div class="comment_body">
-          <div><strong>'''+child["username"]+'</strong>'+utils.inline_separator+child["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a href="#'+child_id+'">Permalink</a><span class="reply_to_comment">'+utils.inline_separator+'''<a href="javascript:;">Reply</a></span></div>
-          '''+child["contents"]+'''
+          <div><strong>'''+child["username"]+'</strong>'+utils.inline_separator+child["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a href="#'+child_id+'">Permalink</a><span class="reply_to_comment">'+utils.inline_separator+'''<a href="javascript:;"id="make_reply_button_'''+child_id+'''">Reply</a></span></div>
+          '''+blog_server_shared.postprocess_post_string(child["contents"], child_id, None, False)[0]+'''
+          <div class="make_reply_box" id="make_reply_box_'''+child_id+'''"></div>
         </div>
       </div>
     </div>
@@ -214,7 +254,7 @@ def do_comments(parent, top_level):
 
 def post_html(post_dict, expand_comments):
   metadata = post_metadata(post_dict)
-  (cnum, chtml) = do_comments(post_dict["title"], True)
+  (cnum, chtml) = do_comments(metadata["id"], True)
   comments_stuff = ""
   if expand_comments:
     comments_stuff = '''
@@ -228,7 +268,7 @@ def post_html(post_dict, expand_comments):
     comments_stuff = utils.inline_separator+'<a href="'+post_permalink(post_dict)+'#comments">Comments&nbsp;('+str(cnum)+')</a>'
   return '''
 <div id="'''+post_div_id(post_dict)+'''" class="blog_post">
-  <h1><a class="post_title_link" href="'''+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+post_dict["contents"]+'''
+  <h1><a class="post_title_link" href="'''+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+blog_server_shared.postprocess_post_string(post_dict["contents"], metadata["id"], post_dict, False)[0]+'''
 </div>
 <div class="blog_post_metadata_outer">
   <div class="blog_post_metadata">

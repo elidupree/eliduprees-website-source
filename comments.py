@@ -7,7 +7,7 @@ import datetime
 
 comments = [
 {
-  "parent":"Post 49",
+  "parent":"8f21fd057c0f04affdc89ca0af6a7e84",
   "username":"SomeUser5098",
   "contents":'''I GOT STUFF TO SAY''',
   "id":"hackid1",
@@ -29,7 +29,7 @@ comments = [
   "date_posted":datetime.date(2014, 11, 6)
 },
 {
-  "parent":"Post 49",
+  "parent":"8f21fd057c0f04affdc89ca0af6a7e84",
   "username":"SomeUser5098",
   "contents":'''I no longer have stuff to say.<br/><br/>Thank you for your time.''',
   "id":"hackid15",
