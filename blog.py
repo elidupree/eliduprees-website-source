@@ -53,8 +53,8 @@ div.blog_page_limits {
 
 div.blog_stream_and_right_bar { float:right; }
 div.blog_stream { display:inline-block;
-  min-width:'''+str(post_padded_min_width)+'''em;
-  max-width:'''+str(post_padded_max_width)+'''em;
+  min-width:'''+str(post_content_min_width)+'''em;
+  max-width:'''+str(post_content_max_width)+'''em;
   margin-left:''' +str(min_side_space_for_post)+'''em;
   margin-right:'''+str(min_side_space_for_post)+'''em; }
 div.blog_bottom { clear:both; }
@@ -142,6 +142,16 @@ span.reply_to_comment {
   display: none; }
 body.javascript_enabled span.reply_to_comment {
   display: inline; }
+div.make_reply_box {
+  padding-left: '''+str(text_padding_width)+'''em; }
+a.direct_comment {
+  display: none;
+  font-size: 150%;
+  font-weight: bold;
+  padding-top:'''+str(text_padding_width/2)+'''em;
+  text-align: center; }
+body.javascript_enabled a.direct_comment {
+  display: block; }
 
 a:link.blog_end_link { color:yellow; }
 a:visited.blog_end_link { color:orange; }
@@ -161,13 +171,16 @@ div.blog_index {
   
 q { border: 1px inset white; color: #606060; }
 blockquote { border-left: 2px solid #c0c0c0; padding: 0.25em; color: #606060; margin-left: 2.5em; margin-right: 2.5em; margin-top: 0; margin-bottom: 1em; }
-p.reply_input_info { color: #555555; padding-left: 0.5em; }
+p.reply_input_info { padding-left: 0.5em; }
 span.big_quote_mark_outer { width: 2em; height: 0; float: left; margin-left: 0.5em; margin-top: -0.5em; }
 span.big_quote_mark_inner { font-size: 5em; color: #c0c0c0; }
+div.footnotes { margin-top: 2em; }
+a.footnote_link { color: black; }
 ''')
 
 javascript.do_after_body('''
 var comments = document.getElementsByName("user_comment");
+var all_comments_divs = document.getElementsByName("all_comments");
 var i;
 
 function expand_reply_box(elem, id) {
@@ -180,19 +193,22 @@ function expand_reply_box(elem, id) {
   elem.appendChild(preview_button)
 }
 
+function setup_reply_box(id) {
+  var make_reply_box = document.getElementById("make_reply_box_"+id);
+  var make_reply_button = document.getElementById("make_reply_button_"+id);
+  var expanded = false;
+  add_event_listener(make_reply_button,'click',function() {
+    if (!expanded) {
+      expanded = true;
+      expand_reply_box(make_reply_box, id);
+    }
+  });
+}
 for (i = 0; i < comments.length; ++i) {
-  (function(){
-    var comment = comments[i];
-    var make_reply_box = document.getElementById("make_reply_box_"+comment.id);
-    var make_reply_button = document.getElementById("make_reply_button_"+comment.id);
-    var expanded = false;
-    add_event_listener(make_reply_button,'click',function() {
-      if (!expanded) {
-        expanded = true;
-        expand_reply_box(make_reply_box, comment.id);
-      }
-    });
-  }());
+  setup_reply_box(comments[i].id)
+}
+for (i = 0; i < all_comments_divs.length; ++i) {
+  setup_reply_box(all_comments_divs[i].id)
 }
 ''')
 
@@ -241,10 +257,10 @@ def do_comments(parent, top_level):
     <div class="comment_body_hover_marker">
       <div class="comment_body_outer">
         <div class="comment_body">
-          <div><strong>'''+child["username"]+'</strong>'+utils.inline_separator+child["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a href="#'+child_id+'">Permalink</a><span class="reply_to_comment">'+utils.inline_separator+'''<a href="javascript:;"id="make_reply_button_'''+child_id+'''">Reply</a></span></div>
+          <div><strong>'''+child["username"]+'</strong>'+utils.inline_separator+child["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a href="#'+child_id+'">Permalink</a><span class="reply_to_comment">'+utils.inline_separator+'''<a href="javascript:;" id="make_reply_button_'''+child_id+'''">Reply</a></span></div>
           '''+blog_server_shared.postprocess_post_string(child["contents"], child_id, None, False)[0]+'''
-          <div class="make_reply_box" id="make_reply_box_'''+child_id+'''"></div>
         </div>
+        <div class="make_reply_box" id="make_reply_box_'''+child_id+'''"></div>
       </div>
     </div>
     '''+chtml+'''
@@ -260,9 +276,11 @@ def post_html(post_dict, expand_comments):
     comments_stuff = '''
 <section>
   <div class="blog_post_comments" id="comments">
-    <h2 class="comments_title">Comments</h2>
-    <div class="all_comments">'''+chtml+'''</div>
+    '''+('<h2 class="comments_title">Comments</h2>' if (cnum > 0) else '')+'''
+    <div class="all_comments" name="all_comments" id='''+metadata["id"]+'''>'''+chtml+'''</div>
   </div>
+  <a href="javascript:;" class="direct_comment" id="make_reply_button_'''+metadata["id"]+'''">Leave a comment</a>
+  <div class="make_reply_box" id="make_reply_box_'''+metadata["id"]+'''"></div>
 </section>'''
   else:
     comments_stuff = utils.inline_separator+'<a href="'+post_permalink(post_dict)+'#comments">Comments&nbsp;('+str(cnum)+')</a>'
@@ -311,8 +329,7 @@ def make_blog_page_body(main_contents, sidebar_contents):
       <div id="content" class="blog_page">
         <div class="blog_page_limits">
           <div class="blog_stream_and_right_bar">
-            <div class="blog_stream">'''+main_contents+'''</div>
-            <div id="blog-sidebar" class="blog_right_bar">'''+sidebar_contents+'''</div>
+            <div class="blog_stream">'''+main_contents+'''</div><div id="blog-sidebar" class="blog_right_bar">'''+sidebar_contents+'''</div> <!-- Note: There CANNOT be whitespace between blog_stream and blog_right_bar-->
           </div>
           <div class="blog_bottom"></div>
         </div>
