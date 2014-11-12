@@ -101,6 +101,11 @@ img.comic_splash.lasercake {
   width: 300px;
   height: 300px;
   border-radius: 2em 8em; }
+img.comic_splash.nwia {
+  width: 20em;
+  height: 10em;
+  margin-top: -3em;
+  border-radius: 2em 4em; }
 img.comic_splash.hexy {
   width: 300px;
   height: 300px;
@@ -125,6 +130,10 @@ img.comic_splash.greencaves {
   img.comic_splash.left { display: inline; float: none; margin: 0; }
   img.comic_splash.right { display: inline; float: none; margin: 0; }
   a.comic_splash.successor { margin-top: 2em; }
+}
+@media screen and (max-width: 25em) {
+  img.comic_splash.left { width: 95%; height: auto; }
+  img.comic_splash.right { width: 95%; height: auto; }
 }
 ''')
 
@@ -181,6 +190,7 @@ def add_comics_page(page_dict):
   )
   
   print("TODO: this doesn't go in a function called 'add_comics_page'")
+  print("TODO: reduce duplicate code between these three (and blog)'")
   utils.checked_insert(page_dict,
     'games.html',
     html_pages.make_page(
@@ -188,7 +198,7 @@ def add_comics_page(page_dict):
       '',
       '''<body><a class="skip" href="#content">Skip to content</a>
       <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg" /></div>
-      '''+bars.bars_wrap({"comics":True}, '''<main>
+      '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
     <a href="http://lasercake.net/" class="comic_splash lasercake successor">
       <img class="comic_splash lasercake left" alt="" src="http://www.lasercake.net/_cacheable/lasercake-snapshot-progressive.jpg" />
@@ -204,12 +214,43 @@ def add_comics_page(page_dict):
       </div>
       <div class="comic_splash_start_reading">Go to website</div>
     </a>
-    <a href="/green-caves-game" class="comic_splash greencaves successor">
+    <a href="/games/green-caves-game" class="comic_splash greencaves successor">
       <img class="comic_splash greencaves left" alt="" src="/media/green-caves-screenshot.png" />
       <div class="comic_splash_blurb">
         A simple online game where you fly around in some green caves.
       </div>
       <div class="comic_splash_start_reading">Play now</div>
+    </a>
+    <div class="comics_bottom"></div>
+  </div>
+</main>''')+'</body>'
+    )
+  )
+  
+  print("TODO: this doesn't go in a function called 'add_comics_page'")
+  print("TODO: reduce duplicate code between these three (and blog)'")
+  utils.checked_insert(page_dict,
+    'stories.html',
+    html_pages.make_page(
+      "Stories ⊂ Eli Dupree's website",
+      '',
+      '''<body><a class="skip" href="#content">Skip to content</a>
+      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg" /></div>
+      '''+bars.bars_wrap({"stories":True}, '''<main>
+  <div id="content">
+    <a href="/stories/not-what-i-am" class="comic_splash nwia successor">
+      <img class="comic_splash nwia left" alt="" src="http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png" />
+      <div class="comic_splash_blurb">
+        <h1>Not What I Am</h1>
+        One-sentence hook for this novella goes here TODO TODO
+      </div>
+      <div class="comic_splash_start_reading">Start reading</div>
+    </a>
+    <a class="comic_splash successor">
+      <img class="comic_splash right" alt="" src="http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png" />
+      <div class="comic_splash_blurb">
+        More stories coming at some point in the future
+      </div>
     </a>
     <div class="comics_bottom"></div>
   </div>

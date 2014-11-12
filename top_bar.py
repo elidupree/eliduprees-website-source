@@ -77,6 +77,9 @@ span.top_bar_category {
   background-color: #444444;
   border-radius:'''+str(button_border_radius)+'''em;
   vertical-align: bottom; } /* since it's an inline-block, we need this to stop it from creating a gutter for potential descenders */
+span.top_bar_category.games {
+  background-image: url("/media/green-caves-thumbnail.png");
+  background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category.stories {
   background-image: url("http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
