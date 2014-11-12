@@ -9,6 +9,7 @@ import voldemorts_children
 import blog
 
 css.insert('''
+div.comics_bottom { clear:both; }
 div.recent_pages {
   margin-top:'''+str(blog.post_separation)+'''em;
   text-align: center; }
@@ -72,52 +73,58 @@ div.recent_update>img {
   h1.recent_updates_header { padding-top: 0.5em; }
 }
 
-a.comic_splash>img {
+img.comic_splash {
   display: block;
   position: relative;
   padding: 1em;
   background-color: rgba(255,255,255,0.3);
+  margin-top: -6em;
   margin-bottom: 2em; }
-a.comic_splash.vc>img {
-  float: left;
+img.comic_splash.left {
+  margin-left: 2em;
+  float: left; }
+img.comic_splash.right {
+  margin-right: 2em;
+  float: right; }
+img.comic_splash.vc {
   width: 300px;
   height: 400px;
-  margin-top: -6em;
-  border-radius: 2em 8em;
-  margin-left: 2em; }
-a.comic_splash.paws {
+  border-radius: 2em 8em; }
+a.comic_splash.successor {
   margin-top: 7em; }
-a.comic_splash.paws>img {
-  float: right;
-  margin-top: -6em;
-  border-radius: 1.5em 1.5em;
-  margin-right: 2em; }
-a.comic_splash.acobs {
-  margin-top: 7em; }
-a.comic_splash.acobs>img {
-  float: left;
-  margin-top: -6em;
+img.comic_splash.paws {
+  border-radius: 1.5em 1.5em; }
+img.comic_splash.acobs {
   border-radius: 1.5em 1.5em;
   margin-left: 1em; }
+img.comic_splash.lasercake {
+  width: 300px;
+  height: 300px;
+  border-radius: 2em 8em; }
+img.comic_splash.hexy {
+  width: 300px;
+  height: 300px;
+  border-radius: 8em 2em; }
+img.comic_splash.greencaves {
+  width: 300px;
+  height: 300px;
+  border-radius: 2em 8em; }
 @media screen and (max-width: 45em) {
   a.comic_splash {
     margin: 2em 0; }
-  a.comic_splash>img {
+  img.comic_splash {
     padding: 0.8em;
     margin-bottom: 1em; }
-  a.comic_splash.vc>img    { margin-left:0; margin-right:0; }
-  a.comic_splash.paws>img  { margin-left:0; margin-right:0; }
-  a.comic_splash.acobs>img { margin-left:0; margin-right:0; }
+  img.comic_splash.left { margin-left: 0; }
+  img.comic_splash.right { margin-right: 0; }
   div.comic_splash_start_reading {
     font-size: 200%; }
 }
 @media screen and (max-width: 33em) {
-  a.comic_splash>img { padding: 0.5em; margin: -0.5em; }
-  a.comic_splash.vc>img { display: inline; float: none; margin: 0; }
-  a.comic_splash.paws>img { display: inline; float: none; margin: 0; }
-  a.comic_splash.acobs>img { display: inline; float: none; margin: 0; }
-  a.comic_splash.paws { margin-top: 2em; }
-  a.comic_splash.acobs { margin-top: 2em; }
+  img.comic_splash { padding: 0.5em; margin: -0.5em; }
+  img.comic_splash.left { display: inline; float: none; margin: 0; }
+  img.comic_splash.right { display: inline; float: none; margin: 0; }
+  a.comic_splash.successor { margin-top: 2em; }
 }
 ''')
 
@@ -148,26 +155,63 @@ def add_comics_page(page_dict):
       '''+recent_page_link(4)+'''
     </div>
     <a href="/voldemorts-children" class="comic_splash vc">
-      <img alt="" src="/media/VC_0.png" />
+      <img class="comic_splash vc left" alt="" src="/media/VC_0.png" />
       <div class="comic_splash_blurb">
       voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
     </a>
-    <a href="/people-are-wrong-sometimes" class="comic_splash paws">
-      <img alt="" src="http://deqyc5bzdh53a.cloudfront.net/PAWS_thumbnail.png" />
+    <a href="/people-are-wrong-sometimes" class="comic_splash paws successor">
+      <img class="comic_splash paws right" alt="" src="http://deqyc5bzdh53a.cloudfront.net/PAWS_thumbnail.png" />
       <div class="comic_splash_blurb">
       voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
     </a>
-    <a href="/a-couple-of-badass-superheroes" class="comic_splash acobs">
-      <img alt="" src="http://deqyc5bzdh53a.cloudfront.net/ACOBS_thumbnail.png" />
+    <a href="/a-couple-of-badass-superheroes" class="comic_splash acobs successor">
+      <img class="comic_splash acobs left" alt="" src="http://deqyc5bzdh53a.cloudfront.net/ACOBS_thumbnail.png" />
       <div class="comic_splash_blurb">
       voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
     </a>
+  </div>
+</main>''')+'</body>'
+    )
+  )
+  
+  print("TODO: this doesn't go in a function called 'add_comics_page'")
+  utils.checked_insert(page_dict,
+    'games.html',
+    html_pages.make_page(
+      "Games ⊂ Eli Dupree's website",
+      '',
+      '''<body><a class="skip" href="#content">Skip to content</a>
+      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg" /></div>
+      '''+bars.bars_wrap({"comics":True}, '''<main>
+  <div id="content">
+    <a href="http://lasercake.net/" class="comic_splash lasercake successor">
+      <img class="comic_splash lasercake left" alt="" src="http://www.lasercake.net/_cacheable/lasercake-snapshot-progressive.jpg" />
+      <div class="comic_splash_blurb">
+        Lasercake, an open-world game about the environment.
+      </div>
+      <div class="comic_splash_start_reading">Go to website</div>
+    </a>
+    <a href="/hexy" class="comic_splash hexy successor">
+      <img class="comic_splash hexy right" alt="" src="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage_page_background.jpg" />
+      <div class="comic_splash_blurb">
+        Hexy Bondage, a sexual board game for two or more players.
+      </div>
+      <div class="comic_splash_start_reading">Go to website</div>
+    </a>
+    <a href="/green-caves-game" class="comic_splash greencaves successor">
+      <img class="comic_splash greencaves left" alt="" src="/media/green-caves-screenshot.png" />
+      <div class="comic_splash_blurb">
+        A simple online game where you fly around in some green caves.
+      </div>
+      <div class="comic_splash_start_reading">Play now</div>
+    </a>
+    <div class="comics_bottom"></div>
   </div>
 </main>''')+'</body>'
     )
