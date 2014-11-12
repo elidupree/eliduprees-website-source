@@ -20,17 +20,15 @@ a.comic_splash {
   padding: 0.5em;
   margin: 3em 1em;
   text-align: center;
-  text-decoration: none;
-  height: 9em; }
+  text-decoration: none; }
 div.comic_splash_blurb {
   color: black; }
 div.comic_splash_start_reading {
   display: block;
-  padding: 1em;
+  padding: 0.6em;
   font-size: 250%;
+  white-space: nowrap;
   text-decoration: underline; }
-div.comic_splash_end {
-  clear:both; }
 div.recent_updates_header {
   height: 0;
   overflow: visible; }
@@ -76,6 +74,7 @@ div.recent_update>img {
 
 a.comic_splash>img {
   display: block;
+  position: relative;
   padding: 1em;
   background-color: rgba(255,255,255,0.3);
   margin-bottom: 2em; }
@@ -86,6 +85,8 @@ a.comic_splash.vc>img {
   margin-top: -6em;
   border-radius: 2em 8em;
   margin-left: 2em; }
+a.comic_splash.paws {
+  margin-top: 7em; }
 a.comic_splash.paws>img {
   float: right;
   margin-top: -6em;
@@ -98,6 +99,26 @@ a.comic_splash.acobs>img {
   margin-top: -6em;
   border-radius: 1.5em 1.5em;
   margin-left: 1em; }
+@media screen and (max-width: 45em) {
+  a.comic_splash {
+    margin: 2em 0; }
+  a.comic_splash>img {
+    padding: 0.8em;
+    margin-bottom: 1em; }
+  a.comic_splash.vc>img    { margin-left:0; margin-right:0; }
+  a.comic_splash.paws>img  { margin-left:0; margin-right:0; }
+  a.comic_splash.acobs>img { margin-left:0; margin-right:0; }
+  div.comic_splash_start_reading {
+    font-size: 200%; }
+}
+@media screen and (max-width: 33em) {
+  a.comic_splash>img { padding: 0.5em; margin: -0.5em; }
+  a.comic_splash.vc>img { display: inline; float: none; margin: 0; }
+  a.comic_splash.paws>img { display: inline; float: none; margin: 0; }
+  a.comic_splash.acobs>img { display: inline; float: none; margin: 0; }
+  a.comic_splash.paws { margin-top: 2em; }
+  a.comic_splash.acobs { margin-top: 2em; }
+}
 ''')
 
 import html_pages
@@ -132,7 +153,6 @@ def add_comics_page(page_dict):
       voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
-      <div class="comic_splash_end"></div>
     </a>
     <a href="/people-are-wrong-sometimes" class="comic_splash paws">
       <img alt="" src="http://deqyc5bzdh53a.cloudfront.net/PAWS_thumbnail.png" />
@@ -140,7 +160,6 @@ def add_comics_page(page_dict):
       voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
-      <div class="comic_splash_end"></div>
     </a>
     <a href="/a-couple-of-badass-superheroes" class="comic_splash acobs">
       <img alt="" src="http://deqyc5bzdh53a.cloudfront.net/ACOBS_thumbnail.png" />
@@ -148,7 +167,6 @@ def add_comics_page(page_dict):
       voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
-      <div class="comic_splash_end"></div>
     </a>
   </div>
 </main>''')+'</body>'
