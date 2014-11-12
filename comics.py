@@ -16,10 +16,12 @@ a.comic_splash {
   display: block;
   clear:both;
   background: white;
+  background: rgba(255,255,255,0.9);
   padding: 0.5em;
-  margin: 1em;
+  margin: 3em 1em;
   text-align: center;
-  text-decoration: none; }
+  text-decoration: none;
+  height: 9em; }
 div.comic_splash_blurb {
   color: black; }
 div.comic_splash_start_reading {
@@ -72,11 +74,30 @@ div.recent_update>img {
   h1.recent_updates_header { padding-top: 0.5em; }
 }
 
-a.comic_splash.vc>img {
+a.comic_splash>img {
   display: block;
+  padding: 1em;
+  background-color: rgba(255,255,255,0.3);
+  margin-bottom: 2em; }
+a.comic_splash.vc>img {
   float: left;
-  width: 210px;
-  height: 280px; }
+  width: 300px;
+  height: 400px;
+  margin-top: -6em;
+  border-radius: 2em 8em;
+  margin-left: 2em; }
+a.comic_splash.paws>img {
+  float: right;
+  margin-top: -6em;
+  border-radius: 1.5em 1.5em;
+  margin-right: 2em; }
+a.comic_splash.acobs {
+  margin-top: 7em; }
+a.comic_splash.acobs>img {
+  float: left;
+  margin-top: -6em;
+  border-radius: 1.5em 1.5em;
+  margin-left: 1em; }
 ''')
 
 import html_pages
@@ -106,7 +127,23 @@ def add_comics_page(page_dict):
       '''+recent_page_link(4)+'''
     </div>
     <a href="/voldemorts-children" class="comic_splash vc">
-      <img alt="" src="http://deqyc5bzdh53a.cloudfront.net/VC_1.png" />
+      <img alt="" src="/media/VC_0.png" />
+      <div class="comic_splash_blurb">
+      voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
+      </div>
+      <div class="comic_splash_start_reading">Start reading</div>
+      <div class="comic_splash_end"></div>
+    </a>
+    <a href="/people-are-wrong-sometimes" class="comic_splash paws">
+      <img alt="" src="http://deqyc5bzdh53a.cloudfront.net/PAWS_thumbnail.png" />
+      <div class="comic_splash_blurb">
+      voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
+      </div>
+      <div class="comic_splash_start_reading">Start reading</div>
+      <div class="comic_splash_end"></div>
+    </a>
+    <a href="/a-couple-of-badass-superheroes" class="comic_splash acobs">
+      <img alt="" src="http://deqyc5bzdh53a.cloudfront.net/ACOBS_thumbnail.png" />
       <div class="comic_splash_blurb">
       voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
       </div>
