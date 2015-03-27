@@ -6,6 +6,7 @@ from __future__ import division
 import re
 import utils
 import css
+import blog
 import javascript
 from voldemorts_children_pages import vc_pages
 import gimp_stuff
@@ -277,6 +278,7 @@ import blog
 def vc_page_html_and_head(page, prev_page, next_page):
   wide_screen_rules_list = []
   navbar = vc_navbar(prev_page, next_page) #(vc_navbar(prev_page, next_page) if page["list_index"] != 0 else '')
+  metadata = blog.post_metadata(page)
   return (
     '''
 <div class="vc_comic_and_nav">'''
@@ -300,9 +302,7 @@ def vc_page_html_and_head(page, prev_page, next_page):
         <div class="blog_post">
           '''+page["annotation"]+'''
         </div>
-        <div class="blog_post_metadata_outer">
-          <div class="blog_post_metadata">Posted May 14, 2015'''+blog.fake_comment_html+'''</div>
-        </div>
+        '''+blog.metadata_and_comments_section_html(vc_page_url(page), None, True, metadata)+'''
       </div>
     </div>
   </main>

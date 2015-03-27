@@ -363,6 +363,7 @@ vc_pages = [
 ]
 for i in range(0,len(vc_pages)):
   vc_pages[i]["list_index"] = i
+  vc_pages[i]["title"] = "voldemorts_children_page_"+str(i) # only used for post_metadata()
   
 print("TODO: Fix the HP:MoR link")
 

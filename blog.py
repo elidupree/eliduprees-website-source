@@ -242,14 +242,20 @@ def post_metadata(post_dict):
       "date_posted": (post_dict["force_date"] if ("force_date" in post_dict) else datetime.date.today()),
     }
     pickle.dump(posts_metadata, open("posts_metadata.pkl", "wb"))
+    
+  # allow me to set force_date later
+  if ("force_date" in post_dict) and (posts_metadata[post_dict["title"]]["date_posted"] != post_dict["force_date"]):
+    posts_metadata[post_dict["title"]]["date_posted"] = post_dict["force_date"]
+    pickle.dump(posts_metadata, open("posts_metadata.pkl", "wb"))
+  
   return posts_metadata[post_dict["title"]]
 
-for post in blog_posts.posts:
-  comment_ids_by_parent[post_metadata(post)["id"]] = []
+
 for comment in comments.comments:
   comments_by_id[comment["id"]] = comment
-  comment_ids_by_parent[comment["id"]] = []
 for comment in comments.comments:
+  if comment["parent"] not in comment_ids_by_parent:
+    comment_ids_by_parent[comment["parent"]] = []
   comment_ids_by_parent[comment["parent"]].append(comment["id"])
 
 def post_permalink(post_dict):
@@ -258,7 +264,7 @@ def post_div_id(post_dict):
   return url_formatted_title(post_dict)
 
 def do_comments(parent, top_level):
-  child_ids = comment_ids_by_parent[parent]
+  child_ids = comment_ids_by_parent[parent] if parent in comment_ids_by_parent else []
   html_list = []
   num = 0
   for child_id in child_ids:
@@ -284,6 +290,12 @@ def do_comments(parent, top_level):
 
 def post_html(post_dict, expand_comments):
   metadata = post_metadata(post_dict)
+  return '''
+<div id="'''+post_div_id(post_dict)+'''" class="blog_post">
+  <h1><a class="post_title_link" href="'''+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+blog_server_shared.postprocess_post_string(post_dict["contents"], metadata["id"], post_dict, False)[0]+'''
+</div>'''+metadata_and_comments_section_html(post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, expand_comments, metadata)
+
+def metadata_and_comments_section_html(permalink, taglist, expand_comments, metadata):
   (cnum, chtml) = do_comments(metadata["id"], True)
   comments_stuff = ""
   if expand_comments:
@@ -297,16 +309,15 @@ def post_html(post_dict, expand_comments):
   <div class="make_reply_box" id="make_reply_box_'''+metadata["id"]+'''"></div>
 </section>'''
   else:
-    comments_stuff = utils.inline_separator+'<a href="'+post_permalink(post_dict)+'#comments">Comments&nbsp;('+str(cnum)+')</a>'
+    comments_stuff = utils.inline_separator+'<a href="'+permalink+'#comments">Comments&nbsp;('+str(cnum)+')</a>'
   return '''
-<div id="'''+post_div_id(post_dict)+'''" class="blog_post">
-  <h1><a class="post_title_link" href="'''+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+blog_server_shared.postprocess_post_string(post_dict["contents"], metadata["id"], post_dict, False)[0]+'''
-</div>
 <div class="blog_post_metadata_outer">
   <div class="blog_post_metadata">
-    '''+('Tags: '+(", ".join(tags.tag_link(tag) for tag in post_dict["tags"]))+utils.inline_separator if "tags" in post_dict else "")+metadata["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a rel="bookmark" href="'+post_permalink(post_dict)+'">Permalink</a>'+comments_stuff+'''
+    '''+('Tags: '+(", ".join(tags.tag_link(tag) for tag in taglist))+utils.inline_separator if taglist else "")+metadata["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a rel="bookmark" href="'+permalink+'">Permalink</a>'+comments_stuff+'''
   </div>
 </div>'''
+  
+  
 
 global fake_comment_id
 fake_comment_id = ''
