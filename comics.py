@@ -18,18 +18,38 @@ a.comic_splash {
   clear:both;
   background: white;
   background: rgba(255,255,255,0.9);
-  padding: 0.5em;
   margin: 3em 1em;
   text-align: center;
   text-decoration: none; }
+a.comic_splash.fadeout {
+  position: relative;
+  overflow: hidden; }
+a.comic_splash.fadeout:link { color:#4488ff; }
+a.comic_splash.fadeout:visited { color:#aa33ff; }
+img.comic_splash_fadeout {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0; }
 div.comic_splash_blurb {
+  position: relative;
+  padding: 0.5em;
   color: black; }
+div.comic_splash_blurb>h1 {
+  font-size: 180%;
+  font-weight: bold; }
 div.comic_splash_start_reading {
+  position: relative;
   display: block;
   padding: 0.6em;
   font-size: 250%;
   white-space: nowrap;
   text-decoration: underline; }
+a.comic_splash.fadeout>div.comic_splash_start_reading {
+  margin-top: -2em; }
 div.recent_updates_header {
   height: 0;
   overflow: visible; }
@@ -135,6 +155,8 @@ img.comic_splash.greencaves {
   img.comic_splash.left { width: 95%; height: auto; }
   img.comic_splash.right { width: 95%; height: auto; }
 }
+
+span.title { font-style: italic; }
 ''')
 
 import html_pages
@@ -166,21 +188,22 @@ def add_comics_page(page_dict):
     <a href="/voldemorts-children" class="comic_splash vc">
       <img class="comic_splash vc left" alt="" src="/media/VC_0.png" />
       <div class="comic_splash_blurb">
-      voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
+        <p>What if Dumbledore's idea of placing Harry Potter with an abusive family didn't turn out so well?</p>
+        <span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
     </a>
     <a href="/people-are-wrong-sometimes" class="comic_splash paws successor">
       <img class="comic_splash paws right" alt="" src="http://deqyc5bzdh53a.cloudfront.net/PAWS_thumbnail.png" />
       <div class="comic_splash_blurb">
-      voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
+        In <span class="title">People Are Wrong Sometimes</span>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
     </a>
     <a href="/a-couple-of-badass-superheroes" class="comic_splash acobs successor">
       <img class="comic_splash acobs left" alt="" src="http://deqyc5bzdh53a.cloudfront.net/ACOBS_thumbnail.png" />
       <div class="comic_splash_blurb">
-      voldemortVoldemort's Children, my ongoing Harry Potter fanfic graphic novel, which updates daily is on hiatus until at least May 2013.
+        <span class="title">A Couple of Badass Superheroes</span> go on a silly adventure. I wrote the first part September-December 2011 to get used to drawing using my tablet. (10 pages)
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
     </a>
@@ -242,12 +265,22 @@ def add_comics_page(page_dict):
       <img class="comic_splash nwia left" alt="" src="http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png" />
       <div class="comic_splash_blurb">
         <h1>Not What I Am</h1>
-        One-sentence hook for this novella goes here TODO TODO
+        An out-of-place middle schooler tries to find zir way in the world.
       </div>
       <div class="comic_splash_start_reading">Start reading</div>
     </a>
+    <a href="/stories/capitalism-sat" class="comic_splash fadeout successor">
+      <img class="comic_splash_fadeout" alt="" src="/media/fade-to-black.png" />
+      <div class="comic_splash_blurb">
+        <h1>Capitalism Sat</h1>
+        <p>...in Plato's cave, watching the shadows. Outside, ze knew, there were people buying and selling. Capitalism saw them trading goods for goods, services for services. And oh, most beautiful of all, the exchange of goods for services, whereon the economy turns. What supplies! What demand! Capitalism blushed to think of it all.</p>
+
+<p>And then zir chains were loosed. Ze turned, a breath half indrawn, barely daring to hope. Ze rushed out into the open air, eager to offer zir labor on the open market for a fair value...</p>
+      </div>
+      <div class="comic_splash_start_reading">Keep reading</div>
+    </a>
     <a class="comic_splash successor">
-      <img class="comic_splash right" alt="" src="http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png" />
+      <img class="comic_splash left" alt="" src="http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png" />
       <div class="comic_splash_blurb">
         More stories coming at some point in the future
       </div>
