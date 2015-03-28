@@ -48,7 +48,7 @@ address.eli_exmxaxixl {
 ''')
 
 def bottom_bar(info):
-  return '<footer><div id="footer" class="bottom_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'"><div class="bottom_bar_inner">Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl">Contact: '+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'</address>'+utils.inline_separator+'<a href="/policies">Policies</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a></div></div></footer>'
+  return '<footer><div id="footer" class="bottom_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'"><div class="bottom_bar_inner">Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl">Contact: '+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'</address>'+utils.inline_separator+'<a href="/about">About Eli</a>'+utils.inline_separator+'<a href="/policies">Policies</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a></div></div></footer>'
 
 def bars_wrap(info, html):
   return '''<a class="skip" href="#footer">Skip to footer</a>
