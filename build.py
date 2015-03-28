@@ -11,6 +11,7 @@ import css
 import javascript
 import html_pages
 import top_bar
+import bars
 import utils
 import blog
 import comics
@@ -39,7 +40,8 @@ def put_to_dict(path, contents):
 put_to_dict(css.filename(), css.build())
 put_to_dict(javascript.filename(), javascript.build())
 
-put_to_dict("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar({"home":True})+"</body>"))
+#put_to_dict("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar({"home":True})+"</body>"))
+bars.add_home_page(page_dict)
 blog.add_blog_pages(page_dict)
 comics.add_comics_page(page_dict)
 voldemorts_children.add_vc_pages(page_dict)

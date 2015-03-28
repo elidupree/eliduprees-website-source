@@ -3,9 +3,6 @@
 from __future__ import division
 
 
-import css
-import blog
-import voldemorts_children
 
 bar_height = 3
 category_button_width = 9
@@ -19,15 +16,19 @@ home_image_width = bar_height * 2 / 3
 home_image_padding_on_each_side = home_image_width / 4
 home_text_width_twolines = 7
 home_width = home_image_width + 2*home_image_padding_on_each_side + home_text_width_twolines
-login_width = 5
+subscribe_width = 5.5
 text_parts_compressed_height = 1.5
 categories_hit_home_width = all_categories_width + 2*home_width
-categories_hit_login_width = all_categories_width + home_width + login_width
+categories_hit_subscribe_width = all_categories_width + home_width + subscribe_width
 categories_hit_home_image_width = all_categories_width + 2*(home_image_width + home_image_padding_on_each_side)
 categories_get_squished_width = all_categories_width + 2*category_border_width
 categories_get_very_squished_width = category_text_width_regular_ems * num_categories * 1.2
 
 button_border_radius = 0.5
+
+import css
+import blog
+import voldemorts_children
 
 css.insert('''
 div.top_bar {
@@ -116,13 +117,13 @@ span.top_bar_blog_preview_text {
   color: #432;
   }
 
-div.top_bar_login {
+div.top_bar_subscribe {
   position:absolute;
   right:0; top:0;
-  width:'''+str(login_width - 1)+'''em; height:'''+str(bar_height - 0.5)+'''em;
+  width:'''+str(subscribe_width - 1)+'''em; height:'''+str(bar_height - 0.5)+'''em;
   padding: 0.25em 0.5em;
-  text-align: right; }
-a.top_bar_login_link {
+  text-align: center; }
+a.top_bar_subscribe_link {
   color:black; text-decoration:underline; }
 
 @media screen and (max-width: '''+str(categories_hit_home_width)+'''em) {
@@ -130,7 +131,7 @@ a.top_bar_login_link {
     margin-left:'''+str(home_width)+'''em; margin-right:0;
   }
 }
-@media screen and (max-width: '''+str(categories_hit_login_width)+'''em) {
+@media screen and (max-width: '''+str(categories_hit_subscribe_width)+'''em) {
   div.top_bar_categories {
     margin-left:auto; margin-right:auto;
     margin-top:'''+str(text_parts_compressed_height)+'''em; }
@@ -138,7 +139,7 @@ a.top_bar_login_link {
     width: 20em; }
   span.top_bar_home_text {
     width: 15em; }
-  div.top_bar_login {
+  div.top_bar_subscribe {
     width: 20em; }
 }
 @media screen and (max-width: '''+str(categories_hit_home_image_width)+'''em) {
@@ -170,7 +171,7 @@ a.top_bar_login_link {
 @media screen and (max-width: 18em) {
   div.top_bar_categories {
     margin-top:'''+str(text_parts_compressed_height*2)+'''em; }
-  div.top_bar_login {
+  div.top_bar_subscribe {
     top:'''+str(text_parts_compressed_height)+'''em; }
 }
 ''')
@@ -191,12 +192,15 @@ def shop_string(you_are_here):
 def categories_wrap(contents):
   return '<div class="top_bar_categories">'+contents+'</div>'
   
-def top_bar(info):
+def top_bar_contents(info):
   home    =    home_string(   "home" in info)
   games   =   games_string(  "games" in info)
   comics  =  comics_string( "comics" in info)
   stories = stories_string("stories" in info)
   blog    =    blog_string(   "blog" in info)
   shop    =    shop_string(   "shop" in info)
-  login   = '''<div class="top_bar_login"><a class="top_bar_login_link" href="">Login / Register</a></div>'''
-  return '<header><div class="top_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'">'+home+categories_wrap(games+comics+stories+blog+(shop if False else ""))+login+'</div></header>'
+  subscribe   = '''<div class="top_bar_subscribe"><a class="top_bar_subscribe_link" href="">Share & Subscribe</a></div>'''
+  return home+categories_wrap(games+comics+stories+blog+(shop if False else ""))+subscribe
+  
+def top_bar(info):
+  return '<header><div class="top_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'">'+top_bar_contents(info)+'</div></header>'
