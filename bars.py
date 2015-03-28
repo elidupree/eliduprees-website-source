@@ -67,12 +67,13 @@ div.home_page_categories {
   margin-left:auto; margin-right:auto;
   max-width:'''+str(top_bar.all_categories_width)+'''em; }
 div.home_page_bottom {
+  margin-top: 0.5em;
   text-align: center; }
 div.home_page_outer span.top_bar_category {
   height: '''+str(home_page_category_height)+'''em;
   background-size: 100% 100%; }
 div.home_page_outer span.top_bar_category_text {
-  font-size:160%; }
+  font-size: 160%; }
   
   
 div.home_page_buffer div.top_bar_home {
@@ -106,6 +107,11 @@ div.home_page_buffer span.top_bar_home_text {
     width: 100%;
     border-top-left-radius:0;
     border-bottom-left-radius:'''+str(top_bar.button_border_radius)+'''em; }
+}
+@media screen and (max-width: 28em) {
+  div.home_page_outer span.top_bar_category_text {
+    font-size: 120%;
+    font-size: 5.6vw; }
 }
 @media screen and (max-height: '''+str(home_page_contents_height)+'''em) {
   div.home_page_buffer {

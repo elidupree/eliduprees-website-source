@@ -14,6 +14,7 @@ def make_page(title, head_stuff, body_stuff):
     <meta charset="utf-8" />
     <title>'''+title+'''</title>
     <link rel="stylesheet" type="text/css" href="/'''+css.filename()+'''">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
     '''+head_stuff+'''
   </head>
   '''+body_stuff+'''

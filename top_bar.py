@@ -163,6 +163,7 @@ a.top_bar_subscribe_link {
 @media screen and (max-width: '''+str(categories_get_very_squished_width)+'''em) {
   span.top_bar_category_text {
     font-size: 100%;
+    font-size: 5vw;
     width: 100%;
     border-top-left-radius:0;
     border-bottom-left-radius:'''+str(button_border_radius)+'''em;
