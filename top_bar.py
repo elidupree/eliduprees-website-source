@@ -140,7 +140,8 @@ a.top_bar_subscribe_link {
   span.top_bar_home_text {
     width: 15em; }
   div.top_bar_subscribe {
-    width: 20em; }
+    width: 20em;
+    text-align: right; }
 }
 @media screen and (max-width: '''+str(categories_hit_home_image_width)+'''em) {
   img.top_bar_home_image {
