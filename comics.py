@@ -11,7 +11,7 @@ import blog
 css.insert('''
 div.comics_bottom { clear:both; }
 div.recent_pages {
-  margin-top:'''+str(blog.post_separation)+'''em;
+  margin-top:'''+str(blog.post_vertical_separation)+'''em;
   text-align: center; }
 a.comic_splash {
   display: block;
@@ -69,7 +69,7 @@ a.recent_update {
   display: block; }
 div.recent_update_outer {
   max-width: 30em;
-  padding: 0 '''+str(blog.post_separation)+'''em;
+  padding: 0 '''+str(blog.post_vertical_separation)+'''em;
   margin: 2px auto; }
 div.recent_update {
   background-color:'''+blog.metacontent_color_IE8+''';
