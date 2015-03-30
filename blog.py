@@ -193,6 +193,8 @@ a.blog_end_link.nav.right {
 
 div.blog_index {
   padding: 0.4em 0; }
+div.index_entry {
+  padding: 0 0.6em; }
 a.random_post {
   display: none;
   padding: 0.4em 0; }
@@ -397,10 +399,18 @@ def title_formatted_title(post_dict):
 def latest_post_preview_text():
   return blog_posts.posts[-1]["title"]
 
+page_length = 10
+latest_page_max_posts = page_length + 5
+def post_is_on_latest_page(list_index, posts):
+  first_on_this_page = list_index - (list_index % page_length)
+  return len(posts) - first_on_this_page <= latest_page_max_posts
+
 def add_blog_pages(page_dict, tag_specific = None):
   if tag_specific:
+    tags_string = '/tags/'+tag_specific["tagname"]
     posts = tag_specific["post_list"]
   else:
+    tags_string = ''
     posts = blog_posts.posts
     posts_by_tag = {}
     for tag in tags.tags:
@@ -408,18 +418,25 @@ def add_blog_pages(page_dict, tag_specific = None):
   
   current_page_number = 1
   current_page = []
+  index_entries = []
+  for i in range(0,len(posts)):
+    list_index = len(posts)-i-1
+    post_dict = posts[list_index]
+    if list_index % page_length == page_length - 1 and not post_is_on_latest_page(list_index, posts):
+      page = (list_index+1)//page_length
+      index_entries.append('<div class="index_page_entry"><a href="/blog'+tags_string+'/page/'+str(page)+'">Page '+str(page)+'</a></div>')
+    index_entries.append(index_entry_html(post_dict))
   index = ('<div class="blog_index">'
     +('Posts tagged &quot;'+tag_specific["tagname"]+'&quot;:' if tag_specific else 'All posts:')
-    +("\n".join([index_entry_html(p) for p in reversed(posts)]))
+    +("\n".join(index_entries))
     +'</div>')
+  sidebar_contents = '<nav><a class="random_post" id="random_post"></a>'+index+'</nav>'
   for i in range(0,len(posts)):
     post_dict = posts[i]
     current_page.append('<article>'+post_html(post_dict, False)+'</article>')
     
-    page_length = 10
-    latest_page_max_posts = page_length + 5
     remaining_posts = len(posts) - i
-    on_latest_page = (len(current_page) + remaining_posts <= latest_page_max_posts)
+    on_latest_page = post_is_on_latest_page(i, posts)
     print_older_page = ((len(current_page) >= page_length) and not on_latest_page)
     print_latest_page = (i == len(posts) - 1)
     if print_older_page and print_latest_page:
@@ -429,11 +446,6 @@ def add_blog_pages(page_dict, tag_specific = None):
       url_pagenum_string = ''
     else:
       url_pagenum_string = '/page/'+str(current_page_number)
-      
-    if tag_specific:
-      tags_string = '/tags/'+tag_specific["tagname"]
-    else:
-      tags_string = ''
     
     if print_older_page or print_latest_page:
       for page_order in ('','/chronological'):
@@ -460,7 +472,7 @@ def add_blog_pages(page_dict, tag_specific = None):
           html_pages.make_page(
             "Blog ⊂ Eli Dupree's website",
             "",
-            make_blog_page_body("\n".join(current_page if page_order == "/chronological" else reversed(current_page))+end_links, '<nav><a class="random_post" id="random_post"></a>'+index+'</nav>')
+            make_blog_page_body("\n".join(current_page if page_order == "/chronological" else reversed(current_page))+end_links, sidebar_contents)
           )
         )
       current_page = []
@@ -475,7 +487,7 @@ def add_blog_pages(page_dict, tag_specific = None):
         html_pages.make_page(
           title_formatted_title(post_dict)+" ⊂ Blog ⊂ Eli Dupree's website",
           "",
-          make_blog_page_body(post_html(post_dict, True), '<a href="/blog'+url_pagenum_string+'#'+post_div_id(post_dict)+'">View this post in context</a>')
+          make_blog_page_body(post_html(post_dict, True), sidebar_contents)
         )
       )
   
