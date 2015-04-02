@@ -182,7 +182,7 @@ div.home_page_buffer span.top_bar_home_text {
 ''')
 
 def bottom_bar_contents(info):
-  return 'Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl bottom_bar_short">Contact: '+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'</address>'+utils.inline_separator+'<a class="bottom_bar_short" href="/about">About Eli</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/policies">Policies</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/atom.xml"><img src="/media/feed-icon-14x14.png"> RSS (Atom)</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a>'
+  return 'Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl bottom_bar_short">Contact: '+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'</address>'+utils.inline_separator+'<a class="bottom_bar_short" href="/about-eli">About Eli</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/policies">Policies</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/atom.xml"><img src="/media/feed-icon-14x14.png"> RSS (Atom)</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a>'
 def bottom_bar(info):
   return '<footer><div id="footer" class="bottom_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'"><div class="bottom_bar_inner">'+bottom_bar_contents(info)+'</div></div></footer>'
 

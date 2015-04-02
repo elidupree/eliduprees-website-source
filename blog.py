@@ -46,7 +46,6 @@ background_color = "#000000"
 metacontent_color_IE8 = "#bbbbbb"
 metacontent_color = "rgba(255,255,255,.7)"
 comment_hover_border_width = "2px"
-print("TODO: scrutinized words in my own posts")
 
 # NOTE: There's a slight issue with the @media queries. Browsers usually include scrollbar width in them, which makes them trigger 
 # at a slightly wrong size, causing there to be some jerky transitions and/or making the page content overflow the page a bit.
@@ -119,6 +118,11 @@ div.blog_post {
   padding:'''+str(text_padding_width)+'''em;
   background-color: white; }
 a.post_title_link { color:black; text-decoration:none; }
+div.blog_post h2 {
+  font-size: 180%;
+  font-weight: bold;
+  padding: 0.1em;
+  padding-left: 1em; }
 div.blog_post p {
   text-indent: 2em; }
 div.blog_post_metadata_outer {
@@ -308,7 +312,7 @@ for comment in comments.comments:
   comment_ids_by_parent[comment["parent"]].append(comment["id"])
 
 def post_permalink(post_dict):
-  return "/blog/"+url_formatted_title(post_dict)
+  return "/"+post_dict["path_prefix"]+url_formatted_title(post_dict)
 def post_div_id(post_dict):
   return url_formatted_title(post_dict)
 
@@ -457,7 +461,7 @@ def add_blog_pages(page_dict, tag_specific = None):
       index_entries.append('<div class="index_page_entry"><a href="/blog'+tags_string+'/page/'+str(page)+'">Page '+str(page)+'</a></div>')
     index_entries.append(index_entry_html(post_dict))
   index = ('<div class="blog_index">'
-    +('Posts tagged &quot;'+tag_specific["tagname"]+'&quot;:' if tag_specific else 'All posts:')
+    +'<a href="/blog'+tags_string+'">'+(tags.tags[tag_specific["tagname"]] if tag_specific else 'All posts')+'</a>:'
     +("\n".join(index_entries))
     +'</div>')
   sidebar_contents = '<nav><a class="random_post" id="random_post"></a>'+index+'</nav>'
@@ -500,7 +504,7 @@ def add_blog_pages(page_dict, tag_specific = None):
         utils.checked_insert(page_dict,
           'blog'+tags_string+url_pagenum_string+page_order+'.html',
           html_pages.make_page(
-            "Blog ⊂ Eli Dupree's website",
+            (tags.tags[tag_specific["tagname"]]+' ⊂ ' if tag_specific else '')+"Blog ⊂ Eli Dupree's website",
             "",
             make_blog_page_body("\n".join(current_page if page_order == "/chronological" else reversed(current_page))+end_links, sidebar_contents)
           )
@@ -528,3 +532,13 @@ def add_blog_pages(page_dict, tag_specific = None):
         "post_list":posts,
       })
   
+def add_nonblog_posts(page_dict):
+  for post_dict in blog_posts.other_posts:
+    utils.checked_insert(page_dict,
+      url_formatted_title(post_dict)+'.html',
+      html_pages.make_page(
+        title_formatted_title(post_dict)+" ⊂ Eli Dupree's website",
+        "",
+        make_blog_page_body(post_html(post_dict, True), '')
+      )
+    )

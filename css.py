@@ -21,6 +21,7 @@ html,body {
 ol { margin: 0; }
 h1 { font-size: 300%; padding: 0.2em }
 p { margin: 0.9em 0; line-height:1.35em; }
+.big_list>li { margin: 0.9em; margin-left: 1.2em; }
 a:link { color:blue }
 a:visited { color:purple }
 img.background {
