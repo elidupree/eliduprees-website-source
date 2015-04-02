@@ -69,7 +69,7 @@ def neurodiversity_link(post_string):
     elif quote_levels == 0:
       if match.group(0).lower() == "neurodiversity":
         pieces.append(post_string[amount_of_original_string_used:match.start(0)])
-        pieces.append('<a href="http://www.elidupree.com/blog/neurodiversity">'+match.group(0)+'</a>')
+        pieces.append('<a href="/blog/neurodiversity">'+match.group(0)+'</a>')
         amount_of_original_string_used = match.end(0)
         break
   return "".join(pieces+[post_string[amount_of_original_string_used:]])

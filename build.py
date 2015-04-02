@@ -8,6 +8,7 @@ import os.path
 import shutil
 
 import css
+import rss
 import javascript
 import html_pages
 import top_bar
@@ -45,6 +46,7 @@ bars.add_home_page(page_dict)
 blog.add_blog_pages(page_dict)
 comics.add_comics_page(page_dict)
 voldemorts_children.add_vc_pages(page_dict)
+rss.add_feed(page_dict)
 
 for path,contents in page_dict.items():
   if False and path.endswith(".html"):
