@@ -261,21 +261,43 @@ try:
     posts_metadata = pickle.load(p)
 except(IOError):
   posts_metadata = {}
+
+def remember_post_dict_entry(index, metadata, post_dict):
+  if (index in post_dict) and (("remembered_"+index not in metadata) or (post_dict[index] != metadata["remembered_"+index])):
+    metadata["remembered_"+index] = post_dict[index]
+    metadata["date_modified"] = datetime.date.today()
+    return True
+  return False
   
+
+print("TODO: only update date posted(/modified?) when actually deploying the page, not building previews")
+
 def post_metadata(post_dict):
+  changed_metadata = False
   if post_dict["title"] not in posts_metadata:
     posts_metadata[post_dict["title"]] = {
       "id": hex(random.SystemRandom().getrandbits(128))[2:-1],
       "date_posted": (post_dict["force_date"] if ("force_date" in post_dict) else datetime.date.today()),
     }
-    pickle.dump(posts_metadata, open("posts_metadata.pkl", "wb"))
-    
+    changed_metadata = True
+  metadata = posts_metadata[post_dict["title"]]
+  
+  if remember_post_dict_entry("contents", metadata, post_dict):
+    changed_metadata = True
+  if remember_post_dict_entry("transcript", metadata, post_dict):
+    changed_metadata = True
+  if remember_post_dict_entry("annotation", metadata, post_dict):
+    changed_metadata = True
+  
   # allow me to set force_date later
-  if ("force_date" in post_dict) and (posts_metadata[post_dict["title"]]["date_posted"] != post_dict["force_date"]):
-    posts_metadata[post_dict["title"]]["date_posted"] = post_dict["force_date"]
+  if ("force_date" in post_dict) and (metadata["date_posted"] != post_dict["force_date"]):
+    metadata["date_posted"] = post_dict["force_date"]
+    changed_metadata = True
+  
+  if changed_metadata:
     pickle.dump(posts_metadata, open("posts_metadata.pkl", "wb"))
   
-  return posts_metadata[post_dict["title"]]
+  return metadata
 
 
 for comment in comments.comments:
@@ -337,10 +359,18 @@ def metadata_and_comments_section_html(permalink, taglist, expand_comments, meta
 </section>'''
   else:
     comments_stuff = utils.inline_separator+'<a href="'+permalink+'#comments">Comments&nbsp;('+str(cnum)+')</a>'
+  
+  tags_str = ''
+  if taglist:
+    tags_str = 'Tags: '+(", ".join(tags.tag_link(tag) for tag in taglist))+utils.inline_separator
+  date_str = metadata["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator
+  if metadata["date_modified"] != metadata["date_posted"]:
+    date_str = 'Posted '+metadata["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'Last updated '+metadata["date_modified"].strftime("%B %-d, %Y")+utils.inline_separator
+  
   return '''
 <div class="blog_post_metadata_outer">
   <div class="blog_post_metadata">
-    '''+('Tags: '+(", ".join(tags.tag_link(tag) for tag in taglist))+utils.inline_separator if taglist else "")+metadata["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a rel="bookmark" href="'+permalink+'">Permalink</a>'+comments_stuff+'''
+    '''+tags_str+date_str+'<a rel="bookmark" href="'+permalink+'">Permalink</a>'+comments_stuff+'''
   </div>
 </div>'''
   
