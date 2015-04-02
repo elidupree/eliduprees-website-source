@@ -22,12 +22,12 @@ def add_feed(page_dict):
     <uri>'''+utils.canonical_website_base+'''/</uri>
   </author>'''
   
-  
+  print ("TODO: include stories in feed")
   entries = []
-  blog_idx = len(blog_posts.posts) - 1
+  blog_idx = len(blog_posts.posts["blog"]) - 1
   vc_idx = len(voldemorts_children_pages.vc_pages) - 1
   while len(entries) < 10:
-    blog_post = blog_posts.posts[blog_idx]
+    blog_post = blog_posts.posts["blog"][blog_idx]
     vc_post = voldemorts_children_pages.vc_pages[vc_idx]
     if blog.post_metadata(blog_post)["date_posted"] > blog.post_metadata(vc_post)["date_posted"]:
       post_dict = blog_post
