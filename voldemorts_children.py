@@ -162,7 +162,7 @@ div.vc_annotation {
   max-width: 36.75em;
   margin: 3em auto;
 }
-div.vc_annotation .blog_post {
+div.vc_annotation .post_content_section {
   background-color: #cccccc }
 div.vc_annotation .comment_body {
   background-color: #cccccc }
@@ -299,10 +299,7 @@ def vc_page_html_and_head(page, prev_page, next_page):
     +navbar+'''
     <div class="vc_annotation_outer">
       <div class="vc_annotation">
-        <div class="blog_post">
-          '''+page["annotation"]+'''
-        </div>
-        '''+blog.metadata_and_comments_section_html(vc_page_url(page), None, True, metadata)+'''
+        '''+blog.post_html(page["annotation"], None, vc_page_url(page), None, True, metadata)+'''
       </div>
     </div>
   </main>

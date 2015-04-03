@@ -74,7 +74,7 @@ def neurodiversity_link(post_string):
         break
   return "".join(pieces+[post_string[amount_of_original_string_used:]])
 
-def postprocess_post_string(initial_string, unique_id, post_dict, mark_broken_tags):
+def postprocess_post_string(initial_string, unique_id, title, mark_broken_tags):
   result_string = initial_string
   marked_broken_tags = False
 
@@ -107,7 +107,7 @@ def postprocess_post_string(initial_string, unique_id, post_dict, mark_broken_ta
   (result_string, words_replaced) = scrutinize_non_quoted_words(result_string)
   result_string = re.sub(r"<blockquote>", '<div><span class="big_quote_mark_outer"><span class="big_quote_mark_inner">&#8220;</span></span><blockquote>', result_string)
   result_string = re.sub(r"</blockquote>", '</blockquote></div>', result_string)
-  if (post_dict is not None) and (post_dict["title"] != "Neurodiversity"):
+  if title != "Neurodiversity":
     # Sub in the first use of the string "neurodiversity" with a link to my awesome post. Note that this is done AFTER the footnotes are replaced, in order to prefer subbing the first occurence of the word in the body text rather than the first in the flow of reading all footnotes immediately.
     result_string = neurodiversity_link(result_string)
   return (result_string, words_replaced, marked_broken_tags)

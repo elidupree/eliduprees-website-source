@@ -87,7 +87,7 @@ div.blog_right_margin {
   display: table-cell;
   width: '''+str(nice_narrow_margin)+'''em; }
   
-div.blog_post {
+div.post_content_section {
   margin-top:'''+str(post_vertical_separation)+'''em;
   padding:'''+str(text_padding_width)+'''em;
   background-color: white; }
@@ -116,7 +116,7 @@ div.blog_post {
   div.blog_page_limits   { display: block; }
   div.blog_stream        { display: block; width: auto; }
   div.blog_right_bar     { display: block; width: auto; }
-  div.blog_post            { padding:'''+str(text_padding_width_narrow)+'''em; }
+  div.post_content_section { padding:'''+str(text_padding_width_narrow)+'''em; }
   div.blog_right_bar_inner { padding:'''+str(text_padding_width_narrow)+'''em; }
 }
   
@@ -315,8 +315,6 @@ for comment in comments.comments:
 
 def post_permalink(post_dict):
   return "/"+post_dict["path_prefix"]+url_formatted_title(post_dict)
-def post_div_id(post_dict):
-  return url_formatted_title(post_dict)
 
 def do_comments(parent, top_level):
   child_ids = comment_ids_by_parent[parent] if parent in comment_ids_by_parent else []
@@ -343,12 +341,21 @@ def do_comments(parent, top_level):
 </article>''')
   return (num, put_in_hover_boxes(html_list))
 
-def post_html(post_dict, expand_comments):
-  metadata = post_metadata(post_dict)
+def post_dict_html(post_dict, expand_comments):
+  return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, expand_comments, post_metadata(post_dict))
+
+def post_html(contents, title, permalink, taglist, expand_comments, metadata):
+  post_content_sections = blog_server_shared.postprocess_post_string(contents, metadata["id"], title, False)[0].split("<bigbreak>")
+  id_str = ''
+  if title:
+    id_str = 'id="'+utils.format_for_url(title)+'"'
+    post_content_sections[0] = '<h1><a class="post_title_link" href="'''+permalink+'">'+title+'</a></h1>'+post_content_sections[0]
+  for i in range(0, len(post_content_sections)):
+    post_content_sections[i] = '<div class="post_content_section">'+post_content_sections[i]+'</div>'
   return '''
-<div id="'''+post_div_id(post_dict)+'''" class="blog_post">
-  <h1><a class="post_title_link" href="'''+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></h1>'+blog_server_shared.postprocess_post_string(post_dict["contents"], metadata["id"], post_dict, False)[0]+'''
-</div>'''+metadata_and_comments_section_html(post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, expand_comments, metadata)
+<div '''+id_str+''' class="blog_post">
+  '''+(''.join(post_content_sections))+'''
+</div>'''+metadata_and_comments_section_html(permalink, taglist, expand_comments, metadata)
 
 def metadata_and_comments_section_html(permalink, taglist, expand_comments, metadata):
   (cnum, chtml) = do_comments(metadata["id"], True)
@@ -473,7 +480,7 @@ def add_category_pages(page_dict, posts, category, tag_specific = None):
   
   for i in range(0,len(posts)):
     post_dict = posts[i]
-    current_page.append('<article>'+post_html(post_dict, False)+'</article>')
+    current_page.append('<article>'+post_dict_html(post_dict, False)+'</article>')
     
     if category == "blog":
       remaining_posts = len(posts) - i
@@ -528,7 +535,7 @@ def add_category_pages(page_dict, posts, category, tag_specific = None):
         html_pages.make_page(
           title_formatted_title(post_dict)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
           "",
-          make_blog_page_body(post_html(post_dict, True), sidebar_contents)
+          make_blog_page_body(post_dict_html(post_dict, True), sidebar_contents)
         )
       )
         
