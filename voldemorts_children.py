@@ -55,15 +55,27 @@ a.dismiss_content_notice {
   margin-top: 0.6em;
   padding: 0.15em;
   font-weight: bold; }
+a.toggle_content_notices {
+  color: #ffc800; }
 a.disable_content_notices {
   font-family: Arial, Helvetica, sans-serif;
   display: block;
   color: #ffc800;
   padding: 0.5em; }
-.content_notices_disabled a.disable_content_notices {
+body.content_notices_disabled a.disable_content_notices {
   display: none; }
 div.vc_box_after_content_notice {
   position: relative; }
+div.toggle_content_notices {
+  margin-top: 1em;
+  text-align: center;
+  color: #808080; }
+div.toggle_content_notices.disabled {
+  display: none; }
+body.content_notices_disabled div.toggle_content_notices.disabled {
+  display: block; }
+body.content_notices_disabled div.toggle_content_notices.enabled {
+  display: none; }
   
 div.vc_comic_and_nav {
   width: '''+str(comic_width)+'''px;
@@ -211,8 +223,14 @@ var disable_content_notices_event = function(id) {
   var disable_content_notices_button = document.getElementById(id);
   if (disable_content_notices_button) { add_event_listener(disable_content_notices_button,'click',disable_content_notices); }
 };
+var enable_content_notices_event = function(id) {
+  var enable_content_notices_button = document.getElementById(id);
+  if (enable_content_notices_button) { add_event_listener(enable_content_notices_button,'click',enable_content_notices); }
+};
 disable_content_notices_event('disable_content_notices_button_next'    );
 disable_content_notices_event('disable_content_notices_button_previous');
+disable_content_notices_event('disable_content_notices_button_toggle'  );
+ enable_content_notices_event( 'enable_content_notices_button_toggle'  );
 
 var view_the_comic_p = document.getElementById('view_the_comic_p');
 if (view_the_comic_p) {
@@ -283,6 +301,12 @@ def vc_page_html_and_head(page, prev_page, next_page):
     '''
 <div class="vc_comic_and_nav">'''
   +navbar+'''
+  <div class="toggle_content_notices enabled">
+    Content notices are enabled. <a id="disable_content_notices_button_toggle" class="toggle_content_notices" href="javascript:;">(disable)</a>
+  </div>
+  <div class="toggle_content_notices disabled">
+    Content notices are disabled. <a id="enable_content_notices_button_toggle" class="toggle_content_notices" href="javascript:;">(enable)</a>
+  </div>
   <main>
     <div id="content" class="vc_comic_and_transcript">
       <div class="vc_comic">
@@ -304,6 +328,8 @@ def vc_page_html_and_head(page, prev_page, next_page):
     </div>
   </main>
 </div>''',
+
+
   '''
 <style type="text/css">
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
