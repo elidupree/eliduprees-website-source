@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 
-import exmxaxixl # only for exmxaxixl_a, which maybe should be in a less specific place?
+import exmxaxixl
 
 bright_orange = '<span class="dialogue bright_orange">bright orange</span>'
 bright_red = '<span class="dialogue bright_red">bright red</span>'

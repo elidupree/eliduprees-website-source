@@ -74,7 +74,7 @@ def neurodiversity_link(post_string):
         break
   return "".join(pieces+[post_string[amount_of_original_string_used:]])
 
-def postprocess_post_string(initial_string, unique_id, title, mark_broken_tags):
+def postprocess_post_string(initial_string, unique_id, title, mark_broken_tags, scrutinize = True):
   result_string = initial_string
   marked_broken_tags = False
 
@@ -104,7 +104,9 @@ def postprocess_post_string(initial_string, unique_id, title, mark_broken_tags):
   if len(footnotes) > 0:
     result_string = result_string+'<div class="footnotes">Footnotes:<br/><ol>'+''.join(footnotes)+'</ol></div>'
 
-  (result_string, words_replaced) = scrutinize_non_quoted_words(result_string)
+  words_replaced = 0
+  if scrutinize:
+    (result_string, words_replaced) = scrutinize_non_quoted_words(result_string)
   result_string = re.sub(r"<blockquote>", '<div><span class="big_quote_mark_outer"><span class="big_quote_mark_inner">&#8220;</span></span><blockquote>', result_string)
   result_string = re.sub(r"</blockquote>", '</blockquote></div>', result_string)
   if title != "Neurodiversity":

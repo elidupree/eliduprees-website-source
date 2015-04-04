@@ -57,6 +57,11 @@ posts = {
 <p>And Capitalism began to weep.</p>''',
 },
 
+{
+  "title":"Not What I Am",
+  "contents": open("big_posts/Not_What_I_Am", "r").read(),
+}
+
 ],
 
 "": [

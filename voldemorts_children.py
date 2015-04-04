@@ -70,11 +70,11 @@ div.toggle_content_notices {
   margin-top: 1em;
   text-align: center;
   color: #808080; }
-div.toggle_content_notices.disabled {
+.remove_if_content_notices_enabled {
   display: none; }
-body.content_notices_disabled div.toggle_content_notices.disabled {
+body.content_notices_disabled .remove_if_content_notices_enabled {
   display: block; }
-body.content_notices_disabled div.toggle_content_notices.enabled {
+body.content_notices_disabled .remove_if_content_notices_disabled {
   display: none; }
   
 div.vc_comic_and_nav {
@@ -301,10 +301,10 @@ def vc_page_html_and_head(page, prev_page, next_page):
     '''
 <div class="vc_comic_and_nav">'''
   +navbar+'''
-  <div class="toggle_content_notices enabled">
+  <div class="toggle_content_notices remove_if_content_notices_disabled">
     Content notices are enabled. <a id="disable_content_notices_button_toggle" class="toggle_content_notices" href="javascript:;">(disable)</a>
   </div>
-  <div class="toggle_content_notices disabled">
+  <div class="toggle_content_notices remove_if_content_notices_enabled">
     Content notices are disabled. <a id="enable_content_notices_button_toggle" class="toggle_content_notices" href="javascript:;">(enable)</a>
   </div>
   <main>
