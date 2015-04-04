@@ -216,6 +216,10 @@ if (read_cookie('content_notices_disabled')) {
 if (read_cookie('transcripts_hidden')) {
   hide_transcript();
 }
+var prev = document.getElementById('prev');
+var next = document.getElementById('next');
+if (next && document.referrer.indexOf(next.getAttribute('href')) !== -1) { document.body.className += ' content_notice_dismissed'; }
+if (prev && document.referrer.indexOf(prev.getAttribute('href')) !== -1) { document.body.className += ' content_notice_dismissed'; }
 if (show_transcript_button  ) { add_event_listener(show_transcript_button  ,'click',show_transcript); }
 if (hide_transcript_button  ) { add_event_listener(hide_transcript_button  ,'click',hide_transcript); }
 if (hide_transcript_button_2) { add_event_listener(hide_transcript_button_2,'click',hide_transcript); }
@@ -261,7 +265,7 @@ def vc_navbar(prev_page, next_page):
     if not page:
       return ''
     return (
-    '<a class="vc_nav_button" rel="'+string+'" href="'+vc_page_url(page)+'">'
+    '<a id="'+string+'" class="vc_nav_button" rel="'+string+'" href="'+vc_page_url(page)+'">'
       +('' if "content_notice" not in page else '<span class="vc_nav_content_notice bigger">The '+big_string+' page '+page["content_notice"]+'</span>')
       +'<span class="vc_nav_button_main">'+utils.capitalize_string(big_string)+'</span></a>'
     +('' if "content_notice" not in page else '<a id="disable_content_notices_button_'+big_string+'" class="disable_content_notices" href="javascript:;">(disable content notices)</a>'))
