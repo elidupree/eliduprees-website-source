@@ -7,7 +7,7 @@ import re
 import utils
 import css
 import blog
-import javascript
+import comics
 from voldemorts_children_pages import vc_pages
 import gimp_stuff
 
@@ -22,60 +22,13 @@ transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_wid
 
 print('TODO: content_notices_disabled on the big content notices box can make the bottom bar show up in the wrong place on a very tall window')
 css.insert('''
-div.vc_content_notice_box {
-  height: 100%; }
-.content_notices_disabled div.vc_content_notice_box {
-  height: auto; }
-.content_notice_dismissed div.vc_content_notice_box {
-  height: auto; }
-div.vc_content_notice_text {
-  margin: 0 auto;
-  padding: 6.5em 0;
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
-  text-align: center; }
-.content_notices_disabled div.vc_content_notice_text {
-  display: none; }
-.content_notice_dismissed div.vc_content_notice_text {
-  display: none; }
-div.vc_content_notice_main_text a {
-  color: #ffc800; }
-div.vc_content_notice_main_text {
-  font-size: 120%;
-  margin: 0 auto;
-  max-width: 35em;
-  border: 3px solid white;
-  border-radius: 2em; }
-div.vc_content_notice_details {
-  margin: 0 auto;
-  max-width: 35em; }
-a.dismiss_content_notice {
-  display: block;
-  font-size: 200%;
-  margin-top: 0.6em;
-  padding: 0.15em;
-  font-weight: bold; }
-a.toggle_content_notices {
-  color: #ffc800; }
-a.disable_content_notices {
-  font-family: Arial, Helvetica, sans-serif;
-  display: block;
-  color: #ffc800;
-  padding: 0.5em; }
-body.content_notices_disabled a.disable_content_notices {
-  display: none; }
-div.vc_box_after_content_notice {
-  position: relative; }
-div.toggle_content_notices {
-  margin-top: 1em;
-  text-align: center;
+
+body.voldemorts_children div.comic_toggle_content_notices {
   color: #808080; }
-.remove_if_content_notices_enabled {
-  display: none; }
-body.content_notices_disabled .remove_if_content_notices_enabled {
-  display: block; }
-body.content_notices_disabled .remove_if_content_notices_disabled {
-  display: none; }
+body.voldemorts_children a.comic_toggle_content_notices {
+  color: #ffc800; }
+body.voldemorts_children a.comic_disable_content_notices {
+  color: #ffc800; }
   
 div.vc_comic_and_nav {
   width: '''+str(comic_width)+'''px;
@@ -187,74 +140,6 @@ div.vc_annotation .blog_post_metadata {
 print ("TODO: find a better way to make modified versions of CSS rules")
 
 
-javascript.do_before_body('''
-window.elidupree.show_transcript = function() {
-  remove_class(document.body, 'transcripts_hidden');
-  delete_cookie('transcripts_hidden');
-};
-window.elidupree.hide_transcript = function() {
-  document.body.className += ' transcripts_hidden';
-  set_cookie('transcripts_hidden', 'true', 30);
-};
-window.elidupree.enable_content_notices = function() {
-  remove_class(document.body, 'content_notices_disabled');
-  delete_cookie('content_notices_disabled');
-};
-window.elidupree.disable_content_notices = function() {
-  document.body.className += ' content_notices_disabled';
-  set_cookie('content_notices_disabled', 'true', 30);
-};
-if (read_cookie('content_notices_disabled')) {
-  window.elidupree.disable_content_notices();
-}
-if (read_cookie('transcripts_hidden')) {
-  window.elidupree.hide_transcript();
-}
-''')
-javascript.do_after_body('''
-var show_transcript_button   = document.getElementById('show_transcript_button'  );
-var hide_transcript_button   = document.getElementById('hide_transcript_button'  );
-var hide_transcript_button_2 = document.getElementById('hide_transcript_button_2');
-if (show_transcript_button  ) { add_event_listener(show_transcript_button  ,'click',window.elidupree.show_transcript); }
-if (hide_transcript_button  ) { add_event_listener(hide_transcript_button  ,'click',window.elidupree.hide_transcript); }
-if (hide_transcript_button_2) { add_event_listener(hide_transcript_button_2,'click',window.elidupree.hide_transcript); }
-var disable_content_notices_event = function(id) {
-  var disable_content_notices_button = document.getElementById(id);
-  if (disable_content_notices_button) { add_event_listener(disable_content_notices_button,'click',window.elidupree.disable_content_notices); }
-};
-var enable_content_notices_event = function(id) {
-  var enable_content_notices_button = document.getElementById(id);
-  if (enable_content_notices_button) { add_event_listener(enable_content_notices_button,'click',window.elidupree.enable_content_notices); }
-};
-disable_content_notices_event('disable_content_notices_button_next'    );
-disable_content_notices_event('disable_content_notices_button_previous');
-disable_content_notices_event('disable_content_notices_button_toggle'  );
- enable_content_notices_event( 'enable_content_notices_button_toggle'  );
-
-var view_the_comic_p = document.getElementById('view_the_comic_p');
-if (view_the_comic_p) {
-  var dismiss_content_notice_a = document.createElement('a');
-  dismiss_content_notice_a.className = 'dismiss_content_notice';
-  dismiss_content_notice_a.setAttribute('href','javascript:;');
-  dismiss_content_notice_a.appendChild(document.createTextNode('View the comic'));
-  view_the_comic_p.replaceChild(dismiss_content_notice_a, view_the_comic_p.firstChild);
-  add_event_listener(dismiss_content_notice_a,'click',function() { document.body.className += ' content_notice_dismissed'; });
-  
-  var disable_content_notices_p = document.getElementById('disable_content_notices_p');
-  if (cookies_enabled) {
-    var disable_content_notices_a = document.createElement('a');
-    disable_content_notices_a.className = 'disable_content_notices';
-    disable_content_notices_a.setAttribute('href','javascript:;');
-    disable_content_notices_a.appendChild(document.createTextNode('Disable content notices'));
-    disable_content_notices_p.replaceChild(disable_content_notices_a, disable_content_notices_p.firstChild);
-    add_event_listener(disable_content_notices_a,'click',window.elidupree.disable_content_notices);
-  }
-  else {
-    disable_content_notices_p.firstChild.nodeValue = 'You could disable content notices if you had cookies enabled.'
-  }
-}
-''')
-
 def vc_navbar(prev_page, next_page):
   def inner_link(string, big_string, page):
     if not page:
@@ -263,7 +148,7 @@ def vc_navbar(prev_page, next_page):
     '<a id="'+string+'" class="vc_nav_button" rel="'+string+'" href="'+vc_page_url(page)+'">'
       +('' if "content_notice" not in page else '<span class="vc_nav_content_notice bigger">The '+big_string+' page '+page["content_notice"]+'</span>')
       +'<span class="vc_nav_button_main">'+utils.capitalize_string(big_string)+'</span></a>'
-    +('' if "content_notice" not in page else '<a id="disable_content_notices_button_'+big_string+'" class="disable_content_notices" href="javascript:;">(disable content notices)</a>'))
+    +('' if "content_notice" not in page else '<a id="disable_content_notices_button_'+big_string+'" class="comic_disable_content_notices" href="javascript:;">(disable content notices)</a>'))
   def link(string, big_string, page):
     return '<div class="vc_nav_button '+string+(' content_notice' if (page and ("content_notice" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
   return '<div class="vc_nav_bar">'+link("prev","previous",prev_page)+link("next","next",next_page)+'</div>'
@@ -300,11 +185,11 @@ def vc_page_html_and_head(page, prev_page, next_page):
     '''
 <div class="vc_comic_and_nav">'''
   +navbar+'''
-  <div class="toggle_content_notices remove_if_content_notices_disabled">
-    Content notices are enabled. <a id="disable_content_notices_button_toggle" class="toggle_content_notices" href="javascript:;">(disable)</a>
+  <div class="comic_toggle_content_notices remove_if_content_notices_disabled">
+    Content notices are enabled. <a id="disable_content_notices_button_toggle" class="comic_toggle_content_notices" href="javascript:;">(disable)</a>
   </div>
-  <div class="toggle_content_notices remove_if_content_notices_enabled">
-    Content notices are disabled. <a id="enable_content_notices_button_toggle" class="toggle_content_notices" href="javascript:;">(enable)</a>
+  <div class="comic_toggle_content_notices remove_if_content_notices_enabled">
+    Content notices are disabled. <a id="enable_content_notices_button_toggle" class="comic_toggle_content_notices" href="javascript:;">(enable)</a>
   </div>
   <main>
     <div id="content" class="vc_comic_and_transcript">
@@ -459,10 +344,7 @@ def add_vc_pages(page_dict):
         ('Page '+str(i)+' ⊂ ' if i>0 else '')+"Voldemort's Children ⊂ Eli Dupree's website",
         head,
         '<script>'+extra_scripts+'''</script>
-<a class="skip" href="#content">Skip to content</a>'''+(
-           vc_content_notice_bars_wrap({"comics":True}, vc_page["content_notice"], html) if "content_notice" in vc_page else
-                        bars.bars_wrap({"comics":True},                            html)
-        ), {"body_class":"voldemorts_children"}
+<a class="skip" href="#content">Skip to content</a>'''+comics.bars_wrap({"comics":True}, html, vc_page), {"body_class":"voldemorts_children"}
       )
     )
 
