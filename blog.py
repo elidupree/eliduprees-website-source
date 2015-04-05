@@ -442,7 +442,7 @@ def index_entry_html(post_dict):
 
 def make_blog_page_body(main_contents, sidebar_contents):
   return '''
-<body><a class="skip" href="#content">Skip to content</a><a class="skip" href="#blog-sidebar">Skip to blog sidebar</a>
+  <a class="skip" href="#content">Skip to content</a><a class="skip" href="#blog-sidebar">Skip to blog sidebar</a>
   <div><img role="presentation" alt="" class="background" src="/media/colorful-background.jpg" /></div>
   '''+bars.bars_wrap({"blog":True}, '''
     <main>
@@ -456,7 +456,7 @@ def make_blog_page_body(main_contents, sidebar_contents):
         </div>
       </div>
     </main>''')+'''
-</body>'''
+  '''
 
   
 def url_formatted_title(post_dict):

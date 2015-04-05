@@ -171,7 +171,7 @@ def add_comics_page(page_dict):
     html_pages.make_page(
       "Comics ⊂ Eli Dupree's website",
       '',
-      '''<body><a class="skip" href="#content">Skip to content</a>
+      '''<a class="skip" href="#content">Skip to content</a>
       <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg" /></div>
       '''+bars.bars_wrap({"comics":True}, '''<main>
   <div id="content">
@@ -208,7 +208,7 @@ def add_comics_page(page_dict):
       <div class="comic_splash_start_reading">Start reading</div>
     </a>
   </div>
-</main>''')+'</body>'
+</main>''')
     )
   )
   
@@ -219,7 +219,7 @@ def add_comics_page(page_dict):
     html_pages.make_page(
       "Games ⊂ Eli Dupree's website",
       '',
-      '''<body><a class="skip" href="#content">Skip to content</a>
+      '''<a class="skip" href="#content">Skip to content</a>
       <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg" /></div>
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
@@ -246,7 +246,7 @@ def add_comics_page(page_dict):
     </a>
     <div class="comics_bottom"></div>
   </div>
-</main>''')+'</body>'
+</main>''')
     )
   )
   
@@ -257,7 +257,7 @@ def add_comics_page(page_dict):
     html_pages.make_page(
       "Stories ⊂ Eli Dupree's website",
       '',
-      '''<body><a class="skip" href="#content">Skip to content</a>
+      '''<a class="skip" href="#content">Skip to content</a>
       <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg" /></div>
       '''+bars.bars_wrap({"stories":True}, '''<main>
   <div id="content">
@@ -287,6 +287,6 @@ def add_comics_page(page_dict):
     </a>
     <div class="comics_bottom"></div>
   </div>
-</main>''')+'</body>'
+</main>''')
     )
   )

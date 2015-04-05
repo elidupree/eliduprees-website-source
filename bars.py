@@ -204,7 +204,6 @@ def add_home_page(page_dict):
       "Eli Dupree's website",
       '',
       '''
-      <body>
         <div><img role="presentation" alt="" class="background" src="/media/top-bar-background.png" /></div>
         <div class="home_page_buffer">
           '''+top_bar.home_string(True)+'''
@@ -222,7 +221,6 @@ def add_home_page(page_dict):
             </div>
           </div>
         </div>
-      </body>
       '''
     )
   )

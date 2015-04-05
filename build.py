@@ -39,11 +39,14 @@ def put_to_dict(path, contents):
   utils.checked_insert(page_dict, path, contents)
 
 put_to_dict(css.filename(), css.build())
-put_to_dict(javascript.filename(), javascript.build())
 
-#put_to_dict("index.html", html_pages.make_page("Eli Dupree's website", "", "<body>"+top_bar.top_bar({"home":True})+"</body>"))
+# for test builds:
+put_to_dict("robots.txt", '''User-agent: *
+Disallow: /''')
+
 bars.add_home_page(page_dict)
 blog.add_pages(page_dict)
+javascript.add_files(page_dict)
 comics.add_comics_page(page_dict)
 voldemorts_children.add_vc_pages(page_dict)
 rss.add_feed(page_dict)

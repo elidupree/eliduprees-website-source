@@ -2,9 +2,13 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 
+import utils
 
+global beforebody_js
 global afterbody_js
-afterbody_js = r'''
+afterbody_js = ''
+beforebody_js = r'''
+window.elidupree = {}
 document.body.className += ' javascript_enabled';
 function remove_class(element, class_name) {
   element.className = element.className.replace(new RegExp('(\\s|^)'+class_name+'(\\s|$)'), ' ');
@@ -66,6 +70,12 @@ print("TODO: add domain=elidupree.com to the cookie, but we can't do that while 
 
 # previously   p { margin-top: 0.75em; margin-bottom: 0.75em; }
 
+def do_before_body(js_snippet):
+  global beforebody_js
+  beforebody_js = beforebody_js + '''
+(function(){
+''' + js_snippet + '''
+})();'''
 def do_after_body(js_snippet):
   global afterbody_js
   afterbody_js = afterbody_js + '''
@@ -76,9 +86,9 @@ def do_after_body(js_snippet):
 
 def add_event_listener(element, event_type, listener):
   return "if ("+element+"."+"addEventListener) { "+element+"."+"addEventListener('"+event_type+"', "+listener+", false); }"+"if ("+element+"."+"attachEvent) { "+element+"."+"attachEvent('on"+event_type+"', "+listener+"); }"
-  
-def filename():
-  return "media/scripts.js"
-def build():
-  # maybe minify it?
-  return afterbody_js
+
+def add_files(page_dict):
+  global beforebody_js
+  global afterbody_js
+  utils.checked_insert(page_dict, 'before-body.js', beforebody_js)
+  utils.checked_insert(page_dict, 'after-body.js', afterbody_js)

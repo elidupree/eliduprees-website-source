@@ -187,49 +187,44 @@ div.vc_annotation .blog_post_metadata {
 print ("TODO: find a better way to make modified versions of CSS rules")
 
 
+javascript.do_before_body('''
+window.elidupree.show_transcript = function() {
+  remove_class(document.body, 'transcripts_hidden');
+  delete_cookie('transcripts_hidden');
+};
+window.elidupree.hide_transcript = function() {
+  document.body.className += ' transcripts_hidden';
+  set_cookie('transcripts_hidden', 'true', 30);
+};
+window.elidupree.enable_content_notices = function() {
+  remove_class(document.body, 'content_notices_disabled');
+  delete_cookie('content_notices_disabled');
+};
+window.elidupree.disable_content_notices = function() {
+  document.body.className += ' content_notices_disabled';
+  set_cookie('content_notices_disabled', 'true', 30);
+};
+if (read_cookie('content_notices_disabled')) {
+  window.elidupree.disable_content_notices();
+}
+if (read_cookie('transcripts_hidden')) {
+  window.elidupree.hide_transcript();
+}
+''')
 javascript.do_after_body('''
 var show_transcript_button   = document.getElementById('show_transcript_button'  );
 var hide_transcript_button   = document.getElementById('hide_transcript_button'  );
 var hide_transcript_button_2 = document.getElementById('hide_transcript_button_2');
-var show_transcript = function() {
-  remove_class(document.body, 'transcripts_hidden');
-  delete_cookie('transcripts_hidden');
-};
-var hide_transcript = function() {
-  document.body.className += ' transcripts_hidden';
-  set_cookie('transcripts_hidden', 'true', 30);
-};
-var enable_content_notices = function() {
-  remove_class(document.body, 'content_notices_disabled');
-  delete_cookie('content_notices_disabled');
-};
-var disable_content_notices = function() {
-  document.body.className += ' content_notices_disabled';
-  set_cookie('content_notices_disabled', 'true', 30);
-};
-var dismiss_content_notice = function() {
-  document.body.className += ' content_notice_dismissed';
-};
-if (read_cookie('content_notices_disabled')) {
-  disable_content_notices();
-}
-if (read_cookie('transcripts_hidden')) {
-  hide_transcript();
-}
-var prev = document.getElementById('prev');
-var next = document.getElementById('next');
-if (next && document.referrer.indexOf(next.getAttribute('href')) !== -1) { document.body.className += ' content_notice_dismissed'; }
-if (prev && document.referrer.indexOf(prev.getAttribute('href')) !== -1) { document.body.className += ' content_notice_dismissed'; }
-if (show_transcript_button  ) { add_event_listener(show_transcript_button  ,'click',show_transcript); }
-if (hide_transcript_button  ) { add_event_listener(hide_transcript_button  ,'click',hide_transcript); }
-if (hide_transcript_button_2) { add_event_listener(hide_transcript_button_2,'click',hide_transcript); }
+if (show_transcript_button  ) { add_event_listener(show_transcript_button  ,'click',window.elidupree.show_transcript); }
+if (hide_transcript_button  ) { add_event_listener(hide_transcript_button  ,'click',window.elidupree.hide_transcript); }
+if (hide_transcript_button_2) { add_event_listener(hide_transcript_button_2,'click',window.elidupree.hide_transcript); }
 var disable_content_notices_event = function(id) {
   var disable_content_notices_button = document.getElementById(id);
-  if (disable_content_notices_button) { add_event_listener(disable_content_notices_button,'click',disable_content_notices); }
+  if (disable_content_notices_button) { add_event_listener(disable_content_notices_button,'click',window.elidupree.disable_content_notices); }
 };
 var enable_content_notices_event = function(id) {
   var enable_content_notices_button = document.getElementById(id);
-  if (enable_content_notices_button) { add_event_listener(enable_content_notices_button,'click',enable_content_notices); }
+  if (enable_content_notices_button) { add_event_listener(enable_content_notices_button,'click',window.elidupree.enable_content_notices); }
 };
 disable_content_notices_event('disable_content_notices_button_next'    );
 disable_content_notices_event('disable_content_notices_button_previous');
@@ -243,7 +238,7 @@ if (view_the_comic_p) {
   dismiss_content_notice_a.setAttribute('href','javascript:;');
   dismiss_content_notice_a.appendChild(document.createTextNode('View the comic'));
   view_the_comic_p.replaceChild(dismiss_content_notice_a, view_the_comic_p.firstChild);
-  add_event_listener(dismiss_content_notice_a,'click',dismiss_content_notice);
+  add_event_listener(dismiss_content_notice_a,'click',function() { document.body.className += ' content_notice_dismissed'; });
   
   var disable_content_notices_p = document.getElementById('disable_content_notices_p');
   if (cookies_enabled) {
@@ -252,7 +247,7 @@ if (view_the_comic_p) {
     disable_content_notices_a.setAttribute('href','javascript:;');
     disable_content_notices_a.appendChild(document.createTextNode('Disable content notices'));
     disable_content_notices_p.replaceChild(disable_content_notices_a, disable_content_notices_p.firstChild);
-    add_event_listener(disable_content_notices_a,'click',disable_content_notices);
+    add_event_listener(disable_content_notices_a,'click',window.elidupree.disable_content_notices);
   }
   else {
     disable_content_notices_p.firstChild.nodeValue = 'You could disable content notices if you had cookies enabled.'
@@ -451,18 +446,23 @@ def add_vc_pages(page_dict):
     prev_page_url = (vc_page_url(i-1) if prev_page else None)
     next_page_url = (vc_page_url(i+1) if next_page else None)
     html, head = vc_page_html_and_head(vc_page, prev_page, next_page)
+    extra_scripts = ''
+    if next_page:
+      head = head+'<link rel="next prefetch prerender" href="'+next_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(next_page)+'" />\n'
+      extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+vc_page_url(next_page)+"') !== -1) { document.body.className += ' content_notice_dismissed'; }"
+    if prev_page:
+      head = head+'<link rel="prev prefetch prerender" href="'+prev_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(prev_page)+'" />\n'
+      extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+vc_page_url(prev_page)+"') !== -1) { document.body.className += ' content_notice_dismissed'; }"
     utils.checked_insert(page_dict,
       vc_page_filename(i),
       html_pages.make_page(
         ('Page '+str(i)+' ⊂ ' if i>0 else '')+"Voldemort's Children ⊂ Eli Dupree's website",
-        head
-+('<link rel="next prefetch prerender" href="'+next_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(next_page)+'" />\n' if next_page else '')
-+('<link rel="prev prefetch prerender" href="'+prev_page_url+'" />\n<link rel="prefetch" href="'+vc_comic_image_url(prev_page)+'" />\n' if prev_page else '')
-,
-        '<body class="voldemorts_children"><a class="skip" href="#content">Skip to content</a>'+(
+        head,
+        '<script>'+extra_scripts+'''</script>
+<a class="skip" href="#content">Skip to content</a>'''+(
            vc_content_notice_bars_wrap({"comics":True}, vc_page["content_notice"], html) if "content_notice" in vc_page else
                         bars.bars_wrap({"comics":True},                            html)
-        )+'</body>'
+        ), {"body_class":"voldemorts_children"}
       )
     )
 
