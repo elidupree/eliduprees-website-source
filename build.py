@@ -15,7 +15,7 @@ import top_bar
 import bars
 import utils
 import blog
-import comics
+import category_pages
 import voldemorts_children
 
 def ensure_dir(d):
@@ -26,6 +26,7 @@ ensure_dir("./build/media")
 media_filenames = os.listdir("./media")
 for media_filename in media_filenames:
   shutil.copy("./media/"+media_filename, "./build/media/"+media_filename)
+shutil.copy("./media/favicon.ico", "./build/favicon.ico")
 
 def putfile(path, contents):
   buildpath = "./build/"+path
@@ -47,7 +48,7 @@ Disallow: /''')
 bars.add_home_page(page_dict)
 blog.add_pages(page_dict)
 javascript.add_files(page_dict)
-comics.add_comics_page(page_dict)
+category_pages.add_category_pages(page_dict)
 voldemorts_children.add_vc_pages(page_dict)
 rss.add_feed(page_dict)
 
