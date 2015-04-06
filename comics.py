@@ -97,7 +97,6 @@ div.comic_nav_bar {
   font-family: Arial, Helvetica, sans-serif; }
 div.comic_nav_button {
   display: inline-block;
-  width: 250px;
   text-align: center;
   vertical-align: top; }
 div.comic_nav_button a {
@@ -111,12 +110,6 @@ span.comic_nav_content_notice {
   font-size: 110%; }
 .content_notices_disabled span.comic_nav_content_notice {
   display: none; }
-div.comic_nav_button.prev {
-  margin-left: 75px;
-  margin-right: 50px; }
-div.comic_nav_button.next {
-  margin-left: 50px;
-  margin-right: 75px; }
 ''')
 
 
@@ -251,6 +244,9 @@ def do_css_for_comic(comic_id):
   transcript_at_side_width = comic_width + 3*sideways_space + min_transcript_width
   transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_width
   comics_metadata[comic_id]["transcript_at_side_width"] = transcript_at_side_width
+  navbut_outer_margin = comic_width // 10
+  navbut_inner_margin = comic_width // 15
+  navbut_wid = (comic_width - navbut_outer_margin*2 - navbut_inner_margin*2) // 2
   css.insert('''
 '''+ancestor_str+''' div.comic_and_nav {
   width: '''+str(comic_width)+'''px; }
@@ -293,6 +289,14 @@ def do_css_for_comic(comic_id):
 '''+ancestor_str+''' div.comic_annotation_outer {
   width: '''+str(comic_width)+'''px;
 }
+'''+ancestor_str+''' div.comic_nav_button {
+  width: '''+str(navbut_wid)+'''px; }
+'''+ancestor_str+''' div.comic_nav_button.prev {
+  margin-left: '''+str(navbut_outer_margin)+'''px;
+  margin-right: '''+str(navbut_inner_margin)+'''px; }
+'''+ancestor_str+''' div.comic_nav_button.next {
+  margin-left: '''+str(navbut_inner_margin)+'''px;
+  margin-right: '''+str(navbut_outer_margin)+'''px; }
 ''')
 
 for comic_id,page_list in comics_pages.items():
