@@ -9,7 +9,7 @@ import utils
 import exmxaxixl
 import blog
 import blog_posts
-import voldemorts_children
+import comics
 import voldemorts_children_pages
 
 def atom_time(dt):
@@ -22,7 +22,7 @@ def add_feed(page_dict):
     <uri>'''+utils.canonical_website_base+'''/</uri>
   </author>'''
   
-  print ("TODO: include stories in feed")
+  print ("TODO: include stories, non-VC comics in feed")
   entries = []
   blog_idx = len(blog_posts.posts["blog"]) - 1
   vc_idx = len(voldemorts_children_pages.vc_pages) - 1
@@ -40,7 +40,7 @@ def add_feed(page_dict):
     else:
       post_dict = vc_post
       title = 'Voldemort\'s Children, Page '+str(vc_idx)
-      link = voldemorts_children.vc_page_url(post_dict)
+      link = comics.page_url(post_dict)
       post_string = '<a href="'+utils.canonical_website_base+link+'">New page of Voldemort\'s Children</a>'
       vc_idx = vc_idx - 1
     metadata = blog.post_metadata(post_dict)

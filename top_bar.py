@@ -28,7 +28,7 @@ button_border_radius = 0.5
 
 import css
 import blog
-import voldemorts_children
+import comics
 
 css.insert('''
 div.top_bar {
@@ -85,7 +85,7 @@ span.top_bar_category.stories {
   background-image: url("http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category.comics {
-  background-image: url("'''+voldemorts_children.last_vc_comic_thumbnail_url()+'''");
+  background-image: url("'''+comics.last_comic_thumbnail_url()+'''");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category_text {
   position:absolute; display:block;

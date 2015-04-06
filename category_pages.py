@@ -5,7 +5,7 @@ from __future__ import division
 
 import utils
 import css
-import voldemorts_children
+import comics
 import blog
 
 css.insert('''
@@ -163,7 +163,7 @@ import html_pages
 import bars
 
 def recent_page_link(num):
-  return voldemorts_children.recent_page_link(num)
+  return comics.recent_page_link(num)
 
 def add_category_pages(page_dict):
   utils.checked_insert(page_dict,

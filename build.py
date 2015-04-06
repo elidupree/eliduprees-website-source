@@ -16,7 +16,7 @@ import bars
 import utils
 import blog
 import category_pages
-import voldemorts_children
+import comics
 
 def ensure_dir(d):
   if not os.path.exists(d):
@@ -49,7 +49,7 @@ bars.add_home_page(page_dict)
 blog.add_pages(page_dict)
 javascript.add_files(page_dict)
 category_pages.add_category_pages(page_dict)
-voldemorts_children.add_vc_pages(page_dict)
+comics.add_comic_pages(page_dict)
 rss.add_feed(page_dict)
 
 for path,contents in page_dict.items():
