@@ -3,12 +3,7 @@
 from __future__ import division
 
 
-import re
-import utils
 import css
-import blog
-import comics
-from voldemorts_children_pages import vc_pages
 import gimp_stuff
 
 print('TODO: content_notices_disabled on the big content notices box can make the bottom bar show up in the wrong place on a very tall window')
@@ -17,16 +12,10 @@ css.insert('''
 
 body.voldemorts_children div.comic_content_notice_text {
   color: white; }
-body.voldemorts_children div.comic_content_notice_main_text a {
+body.voldemorts_children .meta_controls_coloring {
   color: #ffc800; }
 body.voldemorts_children div.comic_toggle_content_notices {
   color: #808080; }
-body.voldemorts_children a.comic_toggle_content_notices {
-  color: #ffc800; }
-body.voldemorts_children a.comic_disable_content_notices {
-  color: #ffc800; }
-body.voldemorts_children div.comic_nav_button {
-  color: #ffc800; }
 body.voldemorts_children a.comic_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
 body.voldemorts_children a.comic_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
 body.voldemorts_children div.comic_nav_button.content_notice a.comic_nav_button:link{ color: #ccb38f; /*#ffff82;*/ /*#7e7e40*/ }
@@ -36,8 +25,6 @@ body.voldemorts_children.content_notices_disabled div.comic_nav_button.content_n
 body.voldemorts_children div.comic_transcript_inner {
   /*border: 1px dashed white;*/
   color:white; }
-body.voldemorts_children div.comic_transcript_inner a {
-  color: #ffc800; }
 body.voldemorts_children .post_content_section {
   background-color: #cccccc }
 body.voldemorts_children .comment_body {

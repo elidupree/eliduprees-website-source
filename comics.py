@@ -167,7 +167,7 @@ disable_content_notices_event('disable_content_notices_button_toggle'  );
 var view_the_comic_p = document.getElementById('view_the_comic_p');
 if (view_the_comic_p) {
   var dismiss_content_notice_a = document.createElement('a');
-  dismiss_content_notice_a.className = 'dismiss_content_notice';
+  dismiss_content_notice_a.className = 'dismiss_content_notice meta_controls_coloring';
   dismiss_content_notice_a.setAttribute('href','javascript:;');
   dismiss_content_notice_a.appendChild(document.createTextNode('View the comic'));
   view_the_comic_p.replaceChild(dismiss_content_notice_a, view_the_comic_p.firstChild);
@@ -176,7 +176,7 @@ if (view_the_comic_p) {
   var disable_content_notices_p = document.getElementById('disable_content_notices_p');
   if (cookies_enabled) {
     var disable_content_notices_a = document.createElement('a');
-    disable_content_notices_a.className = 'comic_disable_content_notices';
+    disable_content_notices_a.className = 'comic_disable_content_notices meta_controls_coloring';
     disable_content_notices_a.setAttribute('href','javascript:;');
     disable_content_notices_a.appendChild(document.createTextNode('Disable content notices'));
     disable_content_notices_p.replaceChild(disable_content_notices_a, disable_content_notices_p.firstChild);
@@ -190,9 +190,12 @@ if (view_the_comic_p) {
 
 import voldemorts_children_pages
 import voldemorts_children
+import acobs_pages
+import acobs
 
 comics_pages = {
   "voldemorts_children":voldemorts_children_pages.vc_pages,
+  "acobs":acobs_pages.acobs_pages,
 }
 comics_metadata = {
   "voldemorts_children": {
@@ -202,6 +205,16 @@ comics_metadata = {
     "abbr": "VC",
     "image_width": 750,
     "dialogue_name_replacements":voldemorts_children.dialogue_name_replace,
+    "image_url_offset":0,
+  },
+  "acobs": {
+    "title": "A Couple of Badass Superheroes",
+    "body_class": "acobs",
+    "url": "/a-couple-of-badass-superheroes",
+    "abbr": "ACOBS",
+    "image_width": 545,
+    "dialogue_name_replacements":{},
+    "image_url_offset":1,
   },
 }
 
@@ -218,7 +231,8 @@ def page_url(page):
   return comics_metadata[page["comic_id"]]["url"]+('' if page["list_index"] == 0 else '/'+str(page["list_index"]))
 
 def comic_image_url(page):
-  return '/media/'+comics_metadata[page["comic_id"]]["abbr"]+'_'+str(page["list_index"])+'.png'
+  meta = comics_metadata[page["comic_id"]]
+  return '/media/'+meta["abbr"]+'_'+str(page["list_index"]+meta["image_url_offset"])+'.png'
 
 def comic_thumbnail_url(page):
   return '/media/'+comics_metadata[page["comic_id"]]["abbr"]+'_'+str(page["list_index"])+'_thumbnail.png'
@@ -324,7 +338,7 @@ def comic_navbar(prev_page, next_page):
     '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'
       +('' if "content_notice" not in page else '<span class="comic_nav_content_notice bigger">The '+big_string+' page '+page["content_notice"]+'</span>')
       +'<span class="comic_nav_button_main">'+utils.capitalize_string(big_string)+'</span></a>'
-    +('' if "content_notice" not in page else '<a id="disable_content_notices_button_'+big_string+'" class="comic_disable_content_notices" href="javascript:;">(disable content notices)</a>'))
+    +('' if "content_notice" not in page else '<a id="disable_content_notices_button_'+big_string+'" class="comic_disable_content_notices meta_controls_coloring" href="javascript:;">(disable content notices)</a>'))
   def link(string, big_string, page):
     return '<div class="comic_nav_button '+string+(' content_notice' if (page and ("content_notice" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
   return '<div class="comic_nav_bar">'+link("prev","previous",prev_page)+link("next","next",next_page)+'</div>'
@@ -352,7 +366,7 @@ def format_transcript_recur(page, entries, wide_screen_rules_list):
     return '<div class="comic_transcript_box px'+height_num_str+'">'+format_transcript_recur(page, entries[0:len(entries) - 1], wide_screen_rules_list)+'</div>'+line_info[1]
 
 def format_transcript(page, wide_screen_rules_list):
-  entries = [(0, '<div class="comic_transcript_label">Transcript: <a href="javascript:;"><span id="hide_transcript_button" class="hide_comic_transcript_button">(hide)</span><span id="show_transcript_button" class="show_comic_transcript_button">(show)</span></a></div>')]
+  entries = [(0, '<div class="comic_transcript_label">Transcript: <a href="javascript:;" class="meta_controls_coloring"><span id="hide_transcript_button" class="hide_comic_transcript_button">(hide)</span><span id="show_transcript_button" class="show_comic_transcript_button">(show)</span></a></div>')]
   entries.extend([(a, format_transcript_line(page, b)) for (a, b) in page["transcript"]])
   return format_transcript_recur(page, entries, wide_screen_rules_list)+'<a id="hide_transcript_button_2" class="hide_comic_transcript_button" href="javascript:;">(hide transcript)</a>'
 
@@ -369,10 +383,10 @@ def page_html_and_head(page, prev_page, next_page):
 <div class="comic_and_nav">'''
   +navbar+'''
   <div class="comic_toggle_content_notices remove_if_content_notices_disabled">
-    Content notices are enabled. <a id="disable_content_notices_button_toggle" class="comic_toggle_content_notices" href="javascript:;">(disable)</a>
+    Content notices are enabled. <a id="disable_content_notices_button_toggle" class="comic_toggle_content_notices meta_controls_coloring" href="javascript:;">(disable)</a>
   </div>
   <div class="comic_toggle_content_notices remove_if_content_notices_enabled">
-    Content notices are disabled. <a id="enable_content_notices_button_toggle" class="comic_toggle_content_notices" href="javascript:;">(enable)</a>
+    Content notices are disabled. <a id="enable_content_notices_button_toggle" class="comic_toggle_content_notices meta_controls_coloring" href="javascript:;">(enable)</a>
   </div>
   <main>
     <div id="content" class="comic_and_transcript">
@@ -427,7 +441,7 @@ def add_comic_pages(page_dict):
           ('Page '+str(i)+' ⊂ ' if i>0 else '')+comics_metadata[page["comic_id"]]["title"]+" ⊂ Eli Dupree's website",
           head,
           '<script>'+extra_scripts+'''</script>
-  <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page), {"body_class":"voldemorts_children"}
+  <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page), {"body_class":comics_metadata[comic_id]["body_class"]}
         )
       )
 
