@@ -257,6 +257,8 @@ def do_css_for_comic(comic_id):
   
 '''+ancestor_str+''' div.comic_nav_bar {
   width: '''+str(comic_width)+'''px; }
+'''+ancestor_str+''' div.comic_toggle_content_notices {
+  width: '''+str(comic_width)+'''px; }
 
 '''+ancestor_str+''' div.comic_transcript_outer {
   width: '''+str(comic_width)+'''px; }
