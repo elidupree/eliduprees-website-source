@@ -184,6 +184,8 @@ a.direct_comment {
   text-align: center; }
 body.javascript_enabled a.direct_comment {
   display: block; }
+textarea.make_reply_input {
+  width: 90%; }
 
 a:link.blog_end_link { color:yellow; }
 a:visited.blog_end_link { color:orange; }
