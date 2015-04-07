@@ -201,11 +201,14 @@ div.blog_index {
   padding: 0.4em 0; }
 div.index_entry {
   padding: 0 0.6em; }
+a.sidebar_standalone_link {
+  padding: 0.4em 0;
+  display: block; }
 a.random_post {
-  display: none;
-  padding: 0.4em 0; }
+  display: none; }
 a.random_post.enabled {
   display: block; }
+  
   
 q { border: 1px inset white; color: #606060; }
 blockquote { border-left: 2px solid #c0c0c0; padding: 0.25em; color: #606060; margin-left: 2.5em; margin-right: 2.5em; margin-top: 0; margin-bottom: 1em; }
@@ -315,6 +318,8 @@ for comment in comments.comments:
   comment_ids_by_parent[comment["parent"]].append(comment["id"])
 
 def post_permalink(post_dict):
+  if "parent_story" in post_dict:
+    return "/stories/"+utils.format_for_url(post_dict["parent_story"])+"/discussion"
   return "/"+post_dict["path_prefix"]+url_formatted_title(post_dict)
 
 def do_comments(parent, top_level):
@@ -343,7 +348,7 @@ def do_comments(parent, top_level):
   return (num, put_in_hover_boxes(html_list))
 
 def post_dict_html(post_dict, expand_comments):
-  return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, expand_comments, post_metadata(post_dict), post_dict["path_prefix"] != "stories/")
+  return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["path_prefix"] == "stories/" else expand_comments, post_metadata(post_dict), post_dict["path_prefix"] != "stories/")
 
 def post_html(contents, title, permalink, taglist, expand_comments, metadata, scrutinize = True):
   post_content = blog_server_shared.postprocess_post_string(contents, metadata["id"], title, False, scrutinize)[0]
@@ -385,7 +390,9 @@ def post_html(contents, title, permalink, taglist, expand_comments, metadata, sc
 def metadata_and_comments_section_html(permalink, taglist, expand_comments, metadata):
   (cnum, chtml) = do_comments(metadata["id"], True)
   comments_stuff = ""
-  if expand_comments:
+  if expand_comments == "story":
+    comments_stuff = '''<a href="'''+permalink+'''/discussion" class="direct_comment">Author's notes and comments</a>'''
+  elif expand_comments:
     comments_stuff = '''
 <section>
   <div class="blog_post_comments" id="comments">
@@ -451,7 +458,7 @@ def make_blog_page_body(main_contents, sidebar_contents):
           <div class="blog_margin blog_left_margin"></div>
           <div class="blog_stream">'''+main_contents+'''</div>
           <div class="blog_margin blog_middle_margin"></div>
-          <div id="blog-sidebar" class="blog_right_bar"><div class="blog_right_bar_inner">'''+sidebar_contents+'''</div></div>
+          <div id="blog-sidebar" class="blog_right_bar"><div class="blog_right_bar_inner"><nav>'''+sidebar_contents+'''</nav></div></div>
           <div class="blog_margin blog_right_margin"></div>
         </div>
       </div>
@@ -501,7 +508,7 @@ def add_category_pages(page_dict, posts, category, tag_specific = None):
       +'<a href="/'+category+tags_string+'">'+list_desc+'</a>:'
       +("\n".join(index_entries))
       +'</div>')
-    sidebar_contents = '<nav><a class="random_post" id="random_post"></a>'+index+'</nav>'
+    sidebar_contents = '<a class="random_post sidebar_standalone_link" id="random_post"></a>'+index
   
   for i in range(0,len(posts)):
     post_dict = posts[i]
@@ -555,14 +562,35 @@ def add_category_pages(page_dict, posts, category, tag_specific = None):
       if "tags" in post_dict:
         for tag in post_dict["tags"]:
           posts_by_tag[tag].append(post_dict)
+      
+      specific_sidebar_contents = sidebar_contents
+      if category == "stories":
+        specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''/discussion">Author's notes and comments for '''+post_dict["title"]+'''</a>'''+sidebar_contents
       utils.checked_insert(page_dict,
         category+'/'+url_formatted_title(post_dict)+'.html',
         html_pages.make_page(
           title_formatted_title(post_dict)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
           "",
-          make_blog_page_body(post_dict_html(post_dict, True), sidebar_contents)
+          make_blog_page_body(post_dict_html(post_dict, True), specific_sidebar_contents)
         )
       )
+      if category == "stories":
+        disc_specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''">Return to '''+post_dict["title"]+'''</a>'''+sidebar_contents
+        discussion_post = {
+          "title": post_dict["title"]+": Discussion",
+          "contents": '''<p>If you haven't read <a href="'''+post_permalink(post_dict)+'''">'''+post_dict["title"]+'''</a> yet, you should do that before reading further.</p>'''+(post_dict["authors_notes"] if "authors_notes" in post_dict else "<p>There are no author's notes yet.</p>"),
+          "parent_story": post_dict["title"],
+          "path_prefix": "", # Not treated as a story.
+        }
+        utils.checked_insert(page_dict,
+          category+'/'+url_formatted_title(post_dict)+'/discussion.html',
+          html_pages.make_page(
+            title_formatted_title(discussion_post)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
+            "",
+            make_blog_page_body(post_dict_html(discussion_post, True), disc_specific_sidebar_contents)
+          )
+        )
+      
         
   if category == "blog" and not tag_specific:
     for tagname,posts in posts_by_tag.items():
