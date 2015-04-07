@@ -143,7 +143,7 @@ h2.comments_title {
   font-weight: bold;
   padding-top: 0.2em;
   text-align: center; }
-div.blog_post_comments:hover>h2.comments_title:not(:hover) {
+div.comments_section:hover>h2.comments_title:not(:hover) {
   border-left: '''+comment_hover_border_width+''' solid red;
   margin-left: -'''+comment_hover_border_width+''';
   border-top-left-radius: 5% 100%; }
@@ -153,6 +153,7 @@ div.comment_body_outer {
 div.user_comment>div.comment_hover_box {
   margin-left: '''+str(comment_indent_width)+'''em; }
 div.comment_body {
+  text-align: left;
   background-color: white;
   padding:0.5em '''+str(text_padding_width)+'''em; }
 div.comment_hover_box:hover>div.whole_comment_hover_marker:not(:hover) {
@@ -347,6 +348,18 @@ def do_comments(parent, top_level):
 </article>''')
   return (num, put_in_hover_boxes(html_list))
 
+def comments_section(parent):
+  (cnum, chtml) = do_comments(parent, True)
+  return '''
+<section>
+  <div class="comments_section" id="comments">
+    '''+('<h2 class="comments_title">Comments</h2>' if (cnum > 0) else '')+'''
+    <div class="all_comments" name="all_comments" id='''+parent+'''>'''+chtml+'''</div>
+  </div>
+  <a href="javascript:;" class="direct_comment" id="make_reply_button_'''+parent+'''">Leave a comment</a>
+  <div class="make_reply_box" id="make_reply_box_'''+parent+'''"></div>
+</section>'''
+
 def post_dict_html(post_dict, expand_comments):
   return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["path_prefix"] == "stories/" else expand_comments, post_metadata(post_dict), post_dict["path_prefix"] != "stories/")
 
@@ -388,21 +401,13 @@ def post_html(contents, title, permalink, taglist, expand_comments, metadata, sc
 </div>'''+metadata_and_comments_section_html(permalink, taglist, expand_comments, metadata)
 
 def metadata_and_comments_section_html(permalink, taglist, expand_comments, metadata):
-  (cnum, chtml) = do_comments(metadata["id"], True)
   comments_stuff = ""
   if expand_comments == "story":
     comments_stuff = '''<a href="'''+permalink+'''/discussion" class="direct_comment">Author's notes and comments</a>'''
   elif expand_comments:
-    comments_stuff = '''
-<section>
-  <div class="blog_post_comments" id="comments">
-    '''+('<h2 class="comments_title">Comments</h2>' if (cnum > 0) else '')+'''
-    <div class="all_comments" name="all_comments" id='''+metadata["id"]+'''>'''+chtml+'''</div>
-  </div>
-  <a href="javascript:;" class="direct_comment" id="make_reply_button_'''+metadata["id"]+'''">Leave a comment</a>
-  <div class="make_reply_box" id="make_reply_box_'''+metadata["id"]+'''"></div>
-</section>'''
+    comments_stuff = comments_section(metadata["id"])
   else:
+    (cnum, chtml) = do_comments(metadata["id"], True)
     comments_stuff = utils.inline_separator+'<a href="'+permalink+'#comments">Comments&nbsp;('+str(cnum)+')</a>'
   
   tags_str = ''
@@ -434,7 +439,7 @@ def fake_comments(tree_structure):
   return put_in_hover_boxes(['<article><div class="user_comment" id='+fake_comment_id+'><div class="comment_body_hover_marker"><div class="comment_body_outer"><div class="comment_body"><h3>SomeUser5098 <a href="#'+fake_comment_id+'">wrote</a>:</h3>I GOT STUFF TO SAY</div></div></div>'+fake_comments(foo)+'</div></article>' for foo in tree_structure])
 
 fake_comment_html = '''<section>
-  <div class="blog_post_comments">
+  <div class="comments_section">
     <h2 class="comments_title">Comments</h2>
     <div class="all_comments">'''+fake_comments([[[],[[[],[[[]],[]],[]]]],[],[[[],[[[],[[[]],[]],[]]]]]])+'''</div>
   </div>

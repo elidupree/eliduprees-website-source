@@ -16,6 +16,7 @@ import bars
 import utils
 import blog
 import category_pages
+import game_pages
 import comics
 
 def ensure_dir(d):
@@ -49,6 +50,7 @@ bars.add_home_page(page_dict)
 blog.add_pages(page_dict)
 javascript.add_files(page_dict)
 category_pages.add_category_pages(page_dict)
+game_pages.add_game_pages(page_dict)
 comics.add_comic_pages(page_dict)
 rss.add_feed(page_dict)
 

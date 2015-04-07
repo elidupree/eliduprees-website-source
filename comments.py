@@ -35,6 +35,13 @@ comments = [
   "id":"hackid15",
   "date_posted":datetime.date(2014, 11, 5)
 },
+{
+  "parent":"hexy",
+  "username":"AnotherUser5098",
+  "contents":'''I GOT STUFF TO SAY''',
+  "id":"hackid334",
+  "date_posted":datetime.date(2014, 11, 6)
+},
 
 
 ]
