@@ -110,6 +110,23 @@ span.comic_nav_content_notice {
   font-size: 110%; }
 .content_notices_disabled span.comic_nav_content_notice {
   display: none; }
+
+div.hidden_cw_box {
+  border: 1px dashed black;
+  padding: 0.5em; }
+div.hidden_cw_box.secondary {
+  display: none; }
+body.hidden_cws_revealed div.hidden_cw_box.secondary {
+  display: block; }
+a.reveal_cw_button {
+  font-size: 150%;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center; }
+a.reveal_cw_button { display:none; }
+body.javascript_enabled a.reveal_cw_button { display:block; }
+body.javascript_enabled div.hidden_cws { display:none; }
+div.hidden_cw_box.revealed a.reveal_cw_button { display:none; }
+div.hidden_cw_box.revealed div.hidden_cws { display:block; }
 ''')
 
 
@@ -178,6 +195,17 @@ if (view_the_comic_p) {
   else {
     disable_content_notices_p.firstChild.nodeValue = 'You could disable content notices if you had cookies enabled.'
   }
+}
+
+var reveal_cw_buttons = document.getElementsByName("reveal_cw_button");
+for (i = 0; i < reveal_cw_buttons.length; ++i) {
+  (function(){
+    var box = reveal_cw_buttons[i].parentNode;
+    add_event_listener(reveal_cw_buttons[i],'click',function(){
+      box.className += ' revealed';
+      document.body.className += ' hidden_cws_revealed';
+    });
+  }());
 }
 ''')
 

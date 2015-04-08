@@ -362,6 +362,15 @@ def comments_section(parent):
   <div class="make_reply_box" id="make_reply_box_'''+parent+'''"></div>
 </section>'''
 
+def hidden_cw_box(contents):
+  return '''<div class="hidden_cw_box">
+    <a href="javascript:;" name="reveal_cw_button" class="reveal_cw_button">Reveal content notices</a>
+    <div class="hidden_cws">'''+contents+'''</div>
+  </div>'''
+
+def secondary_hidden_cw_box(contents):
+  return '''<div class="hidden_cw_box secondary">'''+contents+'''</div>'''
+
 def post_dict_html(post_dict, expand_comments):
   return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["path_prefix"] == "stories/" else expand_comments, post_metadata(post_dict), post_dict["path_prefix"] != "stories/")
 
@@ -372,22 +381,19 @@ def post_html(contents, title, permalink, taglist, expand_comments, metadata, sc
   content_notice_header_regex = re.compile(r"<content_notice_header"+blog_server_shared.grouped_string_regex("content_notice_header_contents")+">", re.DOTALL)
   post_content = content_notice_header_regex.sub(lambda match: ('''
 
-<div class="story_content_notice_header remove_if_content_notices_disabled">
-  <p><mark>Note: You are reading this story with content notices. <a id="disable_content_notices_button_toggle" href="javascript:;">(disable content notices)</a></mark></p>
+<div class="story_content_notice_header">
   <p>This story contains:</p>
+  '''+hidden_cw_box('''
   <ul>
     '''+match.group("content_notice_header_contents")+'''
   </ul>
-  <p><mark>Notices will also appear in-context in the story, just before the material appears.</mark></p>
-  <p><mark>If you see other material that should be marked (such as common triggers or phobias), '''+exmxaxixl.a('e-mail me')+'''. I am serious about web accessibility, and I will respond to your concerns as soon as I can manage.</mark></p>
-</div>
-<div class="story_content_notice_header remove_if_content_notices_enabled">
-  <p><mark>Note: You are reading this story without content notices. <a id="enable_content_notices_button_toggle" href="javascript:;">(enable content notices)</a></mark></p>
+  <p>Notices will also appear in-context in the story, just before the material appears.</p>
+  <p>If you see other material that should be marked (such as common triggers or phobias), '''+exmxaxixl.a('e-mail me')+'''. I am serious about web accessibility, and I will respond to your concerns as soon as I can manage.</p>
+  ''')+'''
 </div>'''), post_content)
 
   content_notice_p_regex = re.compile(r"<content_notice_p"+blog_server_shared.grouped_string_regex("content_notice_p_contents")+">", re.DOTALL)
-  post_content = content_notice_p_regex.sub(lambda match: '''
-     <p class="content_notice remove_if_content_notices_disabled"><mark>This section depicts '''+match.group("content_notice_p_contents")+'''.</mark></p>''', post_content)
+  post_content = content_notice_p_regex.sub(lambda match: secondary_hidden_cw_box('This section depicts '+match.group("content_notice_p_contents")+'.'), post_content)
   
   
   post_content_sections = post_content.split("<bigbreak>")
