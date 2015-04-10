@@ -5,6 +5,7 @@ import blog_server_shared
 
 def ajax_func():
   import os
+  import re
   import forms
 
   if os.environ["REQUEST_METHOD"] != "POST":
@@ -16,6 +17,15 @@ def ajax_func():
   contents     = forms.ensure_presence_and_uniqueness_of_and_get_field("contents"    )
 
   preview_items = ["<p><strong>This is a preview. Your post has not yet been posted.</strong></p>"]
+  
+  dict_entry_text = '''
+{
+  "parent":"'''+parent+'''",
+  "username":"'''+username+'''",
+  "contents":"""'''+re.sub(contents, '"""', r'\"\"\"')+'''""",
+  "id":"'''+hex(random.SystemRandom().getrandbits(128))[2:-1]+'''",
+  "date_posted":datetime.date('''+datetime.date.today().strftime("%Y, %-m, %-d")+''')
+},'''
 
   (postprocessed_string, scrutinies, broken_tags_marked) = blog_server_shared.postprocess_post_string(contents, None, None, True);
   if broken_tags_marked:
