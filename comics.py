@@ -114,7 +114,7 @@ span.comic_nav_content_notice {
 div.hidden_cw_box {
   border: 1px dashed black;
   padding: 0.5em; }
-div.hidden_cw_box.secondary {
+body.content_notices_disabled div.hidden_cw_box.secondary {
   display: none; }
 body.hidden_cws_revealed div.hidden_cw_box.secondary {
   display: block; }
@@ -123,10 +123,8 @@ a.reveal_cw_button {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center; }
 a.reveal_cw_button { display:none; }
-body.javascript_enabled a.reveal_cw_button { display:block; }
-body.javascript_enabled div.hidden_cws { display:none; }
-div.hidden_cw_box.revealed a.reveal_cw_button { display:none; }
-div.hidden_cw_box.revealed div.hidden_cws { display:block; }
+body.content_notices_disabled a.reveal_cw_button { display:block; }
+body.content_notices_disabled div.hidden_cws { display:none; }
 ''')
 
 
@@ -139,20 +137,37 @@ window.elidupree.hide_transcript = function() {
   document.body.className += ' transcripts_hidden';
   set_cookie('transcripts_hidden', 'true', 30);
 };
-window.elidupree.enable_content_notices = function() {
-  remove_class(document.body, 'content_notices_disabled');
-  delete_cookie('content_notices_disabled');
+
+window.elidupree.handle_content_notices = function(id, default_on) {
+  window.elidupree.enable_content_notices = function() {
+    remove_class(document.body, 'content_notices_disabled');
+    if (default_on) {
+      delete_cookie('content_notices_disabled_'+id);
+    }
+    else {
+      set_cookie('content_notices_enabled_'+id, 'true', 30);
+    }
+  };
+  window.elidupree.disable_content_notices = function() {
+    document.body.className += ' content_notices_disabled';
+    if (default_on) {
+      set_cookie('content_notices_disabled_'+id, 'true', 30);
+    }
+    else {
+      delete_cookie('content_notices_enabled_'+id);
+    }
+  };
+  if (default_on && read_cookie('content_notices_disabled_'+id)) {
+    window.elidupree.disable_content_notices();
+  }
+  if ((!default_on) && read_cookie('content_notices_enabled_'+id)) {
+    window.elidupree.enable_content_notices();
+  }
+  if (read_cookie('transcripts_hidden')) {
+    window.elidupree.hide_transcript();
+  }
 };
-window.elidupree.disable_content_notices = function() {
-  document.body.className += ' content_notices_disabled';
-  set_cookie('content_notices_disabled', 'true', 30);
-};
-if (read_cookie('content_notices_disabled')) {
-  window.elidupree.disable_content_notices();
-}
-if (read_cookie('transcripts_hidden')) {
-  window.elidupree.hide_transcript();
-}
+
 ''')
 javascript.do_after_body('''
 var show_transcript_button   = document.getElementById('show_transcript_button'  );
@@ -161,18 +176,6 @@ var hide_transcript_button_2 = document.getElementById('hide_transcript_button_2
 if (show_transcript_button  ) { add_event_listener(show_transcript_button  ,'click',window.elidupree.show_transcript); }
 if (hide_transcript_button  ) { add_event_listener(hide_transcript_button  ,'click',window.elidupree.hide_transcript); }
 if (hide_transcript_button_2) { add_event_listener(hide_transcript_button_2,'click',window.elidupree.hide_transcript); }
-var disable_content_notices_event = function(id) {
-  var disable_content_notices_button = document.getElementById(id);
-  if (disable_content_notices_button) { add_event_listener(disable_content_notices_button,'click',window.elidupree.disable_content_notices); }
-};
-var enable_content_notices_event = function(id) {
-  var enable_content_notices_button = document.getElementById(id);
-  if (enable_content_notices_button) { add_event_listener(enable_content_notices_button,'click',window.elidupree.enable_content_notices); }
-};
-disable_content_notices_event('disable_content_notices_button_next'    );
-disable_content_notices_event('disable_content_notices_button_previous');
-disable_content_notices_event('disable_content_notices_button_toggle'  );
- enable_content_notices_event( 'enable_content_notices_button_toggle'  );
 
 var view_the_comic_p = document.getElementById('view_the_comic_p');
 if (view_the_comic_p) {
@@ -197,17 +200,17 @@ if (view_the_comic_p) {
   }
 }
 
-var reveal_cw_buttons = document.getElementsByName("reveal_cw_button");
-for (i = 0; i < reveal_cw_buttons.length; ++i) {
-  (function(){
-    var box = reveal_cw_buttons[i].parentNode;
-    add_event_listener(reveal_cw_buttons[i],'click',function(){
-      box.className += ' revealed';
-      document.body.className += ' hidden_cws_revealed';
-    });
-  }());
+var enable_content_notices_buttons = document.getElementsByName("enable_content_notices_button");
+for (i = 0; i < enable_content_notices_buttons.length; ++i) {
+  add_event_listener(enable_content_notices_buttons[i],'click',window.elidupree.enable_content_notices);
+}
+var disable_content_notices_buttons = document.getElementsByName("disable_content_notices_button");
+for (i = 0; i < disable_content_notices_buttons.length; ++i) {
+  add_event_listener(disable_content_notices_buttons[i],'click',window.elidupree.disable_content_notices);
 }
 ''')
+
+print ("TODO: make the first page of VC list content notices, give the user a choice")
 
 import voldemorts_children_pages
 import voldemorts_children
@@ -372,7 +375,7 @@ def comic_navbar(prev_page, next_page):
     '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'
       +('' if "content_notice" not in page else '<span class="comic_nav_content_notice bigger">The '+big_string+' page '+page["content_notice"]+'</span>')
       +'<span class="comic_nav_button_main">'+utils.capitalize_string(big_string)+'</span></a>'
-    +('' if "content_notice" not in page else '<a id="disable_content_notices_button_'+big_string+'" class="comic_disable_content_notices meta_controls_coloring" href="javascript:;">(disable content notices)</a>'))
+    +('' if "content_notice" not in page else '<a name="disable_content_notices_button" class="comic_disable_content_notices meta_controls_coloring" href="javascript:;">(disable content notices)</a>'))
   def link(string, big_string, page):
     return '<div class="comic_nav_button '+string+(' content_notice' if (page and ("content_notice" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
   return '<div class="comic_nav_bar">'+link("prev","previous",prev_page)+link("next","next",next_page)+'</div>'
@@ -417,10 +420,10 @@ def page_html_and_head(page, prev_page, next_page):
 <div class="comic_and_nav">'''
   +navbar+'''
   <div class="comic_toggle_content_notices remove_if_content_notices_disabled">
-    Content notices are enabled. <a id="disable_content_notices_button_toggle" class="comic_toggle_content_notices meta_controls_coloring" href="javascript:;">(disable)</a>
+    Content notices are enabled. <a name="disable_content_notices_button" class="comic_toggle_content_notices meta_controls_coloring" href="javascript:;">(disable)</a>
   </div>
   <div class="comic_toggle_content_notices remove_if_content_notices_enabled">
-    Content notices are disabled. <a id="enable_content_notices_button_toggle" class="comic_toggle_content_notices meta_controls_coloring" href="javascript:;">(enable)</a>
+    Content notices are disabled. <a name="enable_content_notices_button" class="comic_toggle_content_notices meta_controls_coloring" href="javascript:;">(enable)</a>
   </div>
   <main>
     <div id="content" class="comic_and_transcript">
@@ -459,16 +462,14 @@ def add_comic_pages(page_dict):
       page = page_list[i]
       prev_page = (page_list[i-1] if i>0 else None)
       next_page = (page_list[i+1] if i+1 < len(page_list) else None)
-      prev_page_url = (page_url(prev_page) if prev_page else None)
-      next_page_url = (page_url(next_page) if next_page else None)
       html, head = page_html_and_head(page, prev_page, next_page)
-      extra_scripts = ''
+      extra_scripts = "window.elidupree.handle_content_notices('"+comic_id+"', true)\n"
       if next_page:
-        head = head+'<link rel="next prefetch prerender" href="'+next_page_url+'" />\n<link rel="prefetch" href="'+comic_image_url(next_page)+'" />\n'
-        extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(next_page)+"') !== -1) { document.body.className += ' content_notice_dismissed'; }"
+        head = head+'<link rel="next prefetch prerender" href="'+page_url(next_page)+'" />\n<link rel="prefetch" href="'+comic_image_url(next_page)+'" />\n'
+        extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(next_page)+"') !== -1) { document.body.className += ' content_notice_dismissed'; }\n"
       if prev_page:
-        head = head+'<link rel="prev prefetch prerender" href="'+prev_page_url+'" />\n<link rel="prefetch" href="'+comic_image_url(prev_page)+'" />\n'
-        extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(prev_page)+"') !== -1) { document.body.className += ' content_notice_dismissed'; }"
+        head = head+'<link rel="prev prefetch prerender" href="'+page_url(prev_page)+'" />\n<link rel="prefetch" href="'+comic_image_url(prev_page)+'" />\n'
+        extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(prev_page)+"') !== -1) { document.body.className += ' content_notice_dismissed'; }\n"
       utils.checked_insert(page_dict,
         page_url(page)+'.html',
         html_pages.make_page(

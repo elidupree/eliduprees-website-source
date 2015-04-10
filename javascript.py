@@ -84,8 +84,6 @@ def do_after_body(js_snippet):
 })();'''
 
 
-def add_event_listener(element, event_type, listener):
-  return "if ("+element+"."+"addEventListener) { "+element+"."+"addEventListener('"+event_type+"', "+listener+", false); }"+"if ("+element+"."+"attachEvent) { "+element+"."+"attachEvent('on"+event_type+"', "+listener+"); }"
 
 def add_files(page_dict):
   global beforebody_js

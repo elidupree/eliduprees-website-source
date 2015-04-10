@@ -364,12 +364,18 @@ def comments_section(parent):
 
 def hidden_cw_box(contents):
   return '''<div class="hidden_cw_box">
-    <a href="javascript:;" name="reveal_cw_button" class="reveal_cw_button">Reveal content notices</a>
-    <div class="hidden_cws">'''+contents+'''</div>
+    <a href="javascript:;" name="enable_content_notices_button" class="reveal_cw_button">Reveal content notices</a>
+    <div class="hidden_cws">
+      '''+contents+'''
+      <a name="disable_content_notices_button" href="javascript:;" >(disable content notices)</a>
+    </div>
   </div>'''
 
 def secondary_hidden_cw_box(contents):
-  return '''<div class="hidden_cw_box secondary">'''+contents+'''</div>'''
+  return '''<div class="hidden_cw_box secondary">
+    '''+contents+'''
+    <a name="disable_content_notices_button" href="javascript:;" >(disable content notices)</a>
+  </div>'''
 
 def post_dict_html(post_dict, expand_comments):
   return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["path_prefix"] == "stories/" else expand_comments, post_metadata(post_dict), post_dict["path_prefix"] != "stories/")
@@ -584,7 +590,7 @@ def add_category_pages(page_dict, posts, category, tag_specific = None):
         html_pages.make_page(
           title_formatted_title(post_dict)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
           "",
-          make_blog_page_body(post_dict_html(post_dict, True), specific_sidebar_contents)
+          "<script>window.elidupree.handle_content_notices('"+post_dict["title"]+"', false)</script>"+make_blog_page_body(post_dict_html(post_dict, True), specific_sidebar_contents)
         )
       )
       if category == "stories":
