@@ -222,7 +222,7 @@ div.footnotes { margin-top: 2em; }
 a.footnote_link { color: black; }
 ''')
 
-javascript.do_after_body('''
+javascript.do_after_body(r'''
 var comments = document.getElementsByName("user_comment");
 var all_comments_divs = document.getElementsByName("all_comments");
 var random_post_link = document.getElementById("random_post");
@@ -231,13 +231,64 @@ var random_entry;
 var i;
 
 function expand_reply_box(elem, id) {
-  elem.innerHTML = '<div class="preview_space"></div><p class="reply_input_info">'+'You may use &lt;em&gt;<em>emphasized text</em>&lt;/em&gt;, &lt;strong&gt;<strong>strongly emphasized text</strong>&lt;/strong&gt;, <br/>&lt;q&gt;<q>Quoted text</q>&lt;/q&gt;, and &lt;blockquote&gt;longer, indented quotes&lt;/blockquote&gt;.'+'</p>Name: <input type="text"><textarea class="make_reply_input" cols="60" rows="7"></textarea><br/>';
-  var preview_button = document.createElement("button")
-  preview_button.innerHTML = 'Preview your reply'
-  add_event_listener(preview_button, function() {
-    
-  })
-  elem.appendChild(preview_button)
+  elem.innerHTML = ''+
+    '<div id="preview_space_'+id+'" class="preview_space"></div>'+
+    '<p class="reply_input_info">'+
+      'You may use &lt;em&gt;<em>emphasized text</em>&lt;/em&gt;, &lt;strong&gt;<strong>strongly emphasized text</strong>&lt;/strong&gt;, <br/>&lt;q&gt;<q>Quoted text</q>&lt;/q&gt;, and &lt;blockquote&gt;longer, indented quotes&lt;/blockquote&gt;.'+
+    '</p>'+
+    'Your name: <input id="reply_username_'+id+'" type="text">'+
+    '<textarea id="reply_contents_'+id+'" class="make_reply_input" cols="60" rows="7"></textarea><br/>';
+  var preview_space = document.getElementById('preview_space_'+id);
+  var username_input = document.getElementById('reply_username_'+id);
+  var contents_input = document.getElementById('reply_contents_'+id);
+  username_input.value = read_cookie('username');
+  var preview_button = document.createElement("button");
+  preview_button.innerHTML = 'Preview your reply';
+  var submit_button = document.createElement("button");
+  submit_button.innerHTML = 'Submit your reply';
+  var previewed = false;
+  action = function(type) {
+    return function() {
+      preview_button.setAttribute('disabled', 'disabled');
+      submit_button.setAttribute('disabled', 'disabled');
+      set_cookie('username', username_input.value, 30);
+      AjaxRequest.post({
+        'url':'TODO',
+        'parameters': {
+          'parent': id,
+          'username': username_input.value,
+          'contents': contents_input.value,
+        },
+        'timeout':10000, 'onTimeout':function () {
+          alert('Oops! The server didn\'t reply in time. Maybe trying again will help.');
+          preview_button.removeAttribute('disabled');
+          submit_button.removeAttribute('disabled');
+        },
+        'onError': function (req) {
+          alert('Oops! The request returned status "'+req.statusText+'". I don\'t know what\'s going on.');
+          preview_button.removeAttribute('disabled');
+          submit_button.removeAttribute('disabled');
+        },
+        'onSuccess': function(req) {
+          preview_space.innerHTML = req.responseText;
+          if (type == 'preview') {
+            if (!previewed) {
+              previewed = true;
+              elem.appendChild(submit_button);
+            }
+            preview_button.removeAttribute('disabled');
+            submit_button.removeAttribute('disabled');
+          }
+          else {
+            alert ('You\'ve submitted your comment! It\'s not visible to other users yet, but it probably will be soon, after I notice it and confirm that it\'s not obvious spam or harassment or something.')
+          }
+        }
+      });
+    }
+  }
+  add_event_listener(preview_button, 'click', action('preview'));
+  add_event_listener(submit_button, 'click', action('submit'));
+  elem.appendChild(preview_button);
 }
 
 function setup_reply_box(id) {
