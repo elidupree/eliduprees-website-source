@@ -247,7 +247,7 @@ function expand_reply_box(elem, id) {
   var submit_button = document.createElement("button");
   submit_button.innerHTML = 'Submit your reply';
   var previewed = false;
-  action = function(type) {
+  action = function(request_type) {
     return function() {
       preview_button.setAttribute('disabled', 'disabled');
       submit_button.setAttribute('disabled', 'disabled');
@@ -255,6 +255,7 @@ function expand_reply_box(elem, id) {
       AjaxRequest.post({
         'url':'TODO',
         'parameters': {
+          'request_type': request_type,
           'parent': id,
           'username': username_input.value,
           'contents': contents_input.value,
@@ -271,7 +272,7 @@ function expand_reply_box(elem, id) {
         },
         'onSuccess': function(req) {
           preview_space.innerHTML = req.responseText;
-          if (type == 'preview') {
+          if (request_type == 'preview') {
             if (!previewed) {
               previewed = true;
               elem.appendChild(submit_button);
