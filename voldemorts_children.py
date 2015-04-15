@@ -16,15 +16,17 @@ body.voldemorts_children .meta_controls_coloring {
   color: #ffc800; }
 body.voldemorts_children div.comic_toggle_content_notices {
   color: #808080; }
+body.voldemorts_children div.comic_metabar {
+  color: #fff1c0; }
 body.voldemorts_children a.comic_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
 body.voldemorts_children a.comic_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
 body.voldemorts_children div.comic_nav_button.content_notice a.comic_nav_button:link{ color: #ccb38f; /*#ffff82;*/ /*#7e7e40*/ }
 body.voldemorts_children div.comic_nav_button.content_notice a.comic_nav_button:visited{ color: #cc7900; /*#81abff;*/ /*#40557f*/ }
-body.voldemorts_children.content_notices_disabled div.comic_nav_button.content_notice a.vc_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
-body.voldemorts_children.content_notices_disabled div.comic_nav_button.content_notice a.vc_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
+body.voldemorts_children.content_notices_disabled div.comic_nav_button.content_notice a.comic_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
+body.voldemorts_children.content_notices_disabled div.comic_nav_button.content_notice a.comic_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
 body.voldemorts_children div.comic_transcript_inner {
   /*border: 1px dashed white;*/
-  color:white; }
+  color: #fff1c0; }
 body.voldemorts_children .post_content_section {
   background-color: #cccccc }
 body.voldemorts_children .comment_body {

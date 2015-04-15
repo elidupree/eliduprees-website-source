@@ -43,17 +43,14 @@ a.dismiss_content_notice {
   padding: 0.15em;
   font-weight: bold; }
 
-a.disable_content_notices {
+a.comic_disable_content_notices {
   font-family: Arial, Helvetica, sans-serif;
   display: block;
   padding: 0.5em; }
-body.content_notices_disabled a.disable_content_notices {
+body.content_notices_disabled a.comic_disable_content_notices {
   display: none; }
 div.comic_box_after_content_notice {
   position: relative; }
-div.comic_toggle_content_notices {
-  margin-top: 1em;
-  text-align: center; }
 .remove_if_content_notices_enabled {
   display: none; }
 body.content_notices_disabled .remove_if_content_notices_enabled {
@@ -96,20 +93,32 @@ div.comic_annotation {
 div.comic_nav_bar {
   font-family: Arial, Helvetica, sans-serif; }
 div.comic_nav_button {
+  position: relative;
   display: inline-block;
   text-align: center;
   vertical-align: top; }
 div.comic_nav_button a {
   display: block; }
+main div.comic_nav_button.content_notice {
+  margin-bottom: 3em; }
 span.comic_nav_button_main {
   display: block;
   font-size: 300%;
   font-weight: bold; }
 span.comic_nav_content_notice {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 110%; }
 .content_notices_disabled span.comic_nav_content_notice {
   display: none; }
+
+div.comic_metabar {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0.5em 0;
+  text-align: center; }
 
 div.hidden_cw_box {
   border: 1px dashed black;
@@ -288,7 +297,7 @@ def do_css_for_comic(comic_id):
   
 '''+ancestor_str+''' div.comic_nav_bar {
   width: '''+str(comic_width)+'''px; }
-'''+ancestor_str+''' div.comic_toggle_content_notices {
+'''+ancestor_str+''' div.comic_metabar {
   width: '''+str(comic_width)+'''px; }
 
 '''+ancestor_str+''' div.comic_transcript_outer {
@@ -346,7 +355,7 @@ def content_notice_bars_wrap(info, notice, html):
   <section>
     <div class="comic_content_notice_text">
       <div class="comic_content_notice_main_text">
-        <p>The comic below '''+notice+'''</p>
+        <p>The comic below '''+notice+'''.</p>
         <p id="view_the_comic_p">Scroll down to view the comic.</p>
       </div>
       <div class="comic_content_notice_details">
@@ -373,14 +382,19 @@ def comic_navbar(prev_page, next_page):
       return ''
     return (
     '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'
-      +('' if "content_notice" not in page else '<span class="comic_nav_content_notice bigger">The '+big_string+' page '+page["content_notice"]+'</span>')
-      +'<span class="comic_nav_button_main">'+utils.capitalize_string(big_string)+'</span></a>'
-    +('' if "content_notice" not in page else '<a name="disable_content_notices_button" class="comic_disable_content_notices meta_controls_coloring" href="javascript:;">(disable content notices)</a>'))
+      +('' if "content_notice" not in page else '<span class="comic_nav_content_notice">(content notice: '+page["content_notice"]+'.)</span>')
+      +'<span class="comic_nav_button_main">'+utils.capitalize_string(big_string)+'</span></a>')
   def link(string, big_string, page):
     return '<div class="comic_nav_button '+string+(' content_notice' if (page and ("content_notice" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
   return '<div class="comic_nav_bar">'+link("prev","previous",prev_page)+link("next","next",next_page)+'</div>'
 
-
+def comic_metabar(page):
+  return '''
+<div class="comic_metabar">
+  <a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''">First</a>'''+utils.inline_separator+'''<a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''/archive">Archive</a>'''+utils.inline_separator+'⚠ '+(page["content_notice"] if "content_notice" in page else "none")+''' <a name="disable_content_notices_button" class="remove_if_content_notices_disabled meta_controls_coloring" href="javascript:;">(disable content notices)</a><a name="enable_content_notices_button" class="remove_if_content_notices_enabled meta_controls_coloring" href="javascript:;">(enable content notices)</a>
+</div>'''
+  
+  
 
 def format_transcript_line(page, line_text):
   dialogue_name_replace = comics_metadata[page["comic_id"]]["dialogue_name_replacements"]
@@ -414,17 +428,12 @@ import blog
 def page_html_and_head(page, prev_page, next_page):
   wide_screen_rules_list = []
   navbar = comic_navbar(prev_page, next_page)
+  metabar = comic_metabar(page)
   metadata = blog.post_metadata(page)
   return (
     '''
 <div class="comic_and_nav">'''
-  +navbar+'''
-  <div class="comic_toggle_content_notices remove_if_content_notices_disabled">
-    Content notices are enabled. <a name="disable_content_notices_button" class="comic_toggle_content_notices meta_controls_coloring" href="javascript:;">(disable)</a>
-  </div>
-  <div class="comic_toggle_content_notices remove_if_content_notices_enabled">
-    Content notices are disabled. <a name="enable_content_notices_button" class="comic_toggle_content_notices meta_controls_coloring" href="javascript:;">(enable)</a>
-  </div>
+  +metabar+navbar+'''
   <main>
     <div id="content" class="comic_and_transcript">
       <div class="comic_image">
@@ -438,7 +447,7 @@ def page_html_and_head(page, prev_page, next_page):
         </div>
       </div>
     </div>'''
-    +navbar+'''
+    +navbar+metabar+'''
     <div class="comic_annotation_outer">
       <div class="comic_annotation">
         '''+blog.post_html(page["annotation"], None, page_url(page), None, True, metadata)+'''

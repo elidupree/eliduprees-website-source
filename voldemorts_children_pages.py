@@ -195,7 +195,7 @@ vc_pages = [
   },
   {
     "xcf_base": "ch1_p9_1",
-    "content_notice": "depicts physical bullying.",
+    "content_notice": "depicts physical bullying",
     "transcript": [
       (0, '''A shadowy metaphorical image of Voldemort looms behind Harry. Voldemort is grabbing Harry by the hair. Most of Harry's hair has fallen over zir face, so zir eyes are hidden. Voldemort and Harry speak in unison, in a mix of their graphical styles. (Physically, we're still in the interrogation cell, and Harry is speaking alone.)'''),
       (150, '''<span class="dialogue HARRYMORT">HARRY AND VOLDEMORT: Hey, listen. If you want to know about me. I'll tell you. I'll tell you things nobody but me knows. Things nobody but me should ever know. Just three rules... One, I tell it how I want. Don't you try to twist my story with your questions. Two, if you use that truth potion to get more out of me, it's over. Three... Give me back my god damn glasses.</span>'''),
