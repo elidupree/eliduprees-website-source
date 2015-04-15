@@ -175,7 +175,7 @@ vc_pages = [
       (1650, '''PRESENT GRANGER: Why not with these?'''),
       (2167, '''PRESENT HARRY: I won't tell!'''),
       (2288, '''PRESENT GRANGER: Your former professors say that many of these students had bullied you in classes...'''),
-      (2500, '''Past Harry sits in class with two students casting nasty spells at Harry in class, while Professor Minerva McGonagall looks the other way and continues lecturing. McGonagall wears a '''+dark_green+''' robes.'''),
+      (2500, '''Past Harry sits in class with two students casting nasty spells at Harry in class, while Professor Minerva McGonagall looks the other way and continues lecturing. McGonagall wears '''+dark_green+''' robes.'''),
       (2700, '''<span class="dialogue grey">DAPHNE GREENGRASS: Densaugeo! Ha ha ha!</span> {The incantation of a spell that makes the target's teeth grow unnaturally large.}'''),
       (2700, '''<span class="dialogue grey">GRAHAM MONTAGUE: Ha ha! Langlock!</span> {The incantation of a spell that makes the target's tounge stick to the roof of zir mouth.}'''),
       (2700, '''MCGONAGALL: The precise study of Transfiguration requires a departure from naive physical...'''),
