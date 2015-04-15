@@ -32,6 +32,7 @@ posts = {
   "stories": [
 {
   "title":"Capitalism Sat",
+  "authors_notes":'''<p><a href="/blog/game-theory-contracts-altruism">Here's a post about one of the game theory things from the story.</a></p>''',
   "contents":'''<p>...in Plato's cave, watching the shadows. Outside, ze knew, there were people buying and selling. Capitalism saw them trading goods for goods, services for services. And oh, most beautiful of all, the exchange of goods for services, whereon the economy turns. What supplies! What demand! Capitalism blushed to think of it all.</p>
 
 <p>And then zir chains were loosed. Ze turned, a breath half indrawn, barely daring to hope. Ze rushed out into the open air, eager to offer zir labor on the open market for a fair value.</p>
