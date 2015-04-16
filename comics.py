@@ -89,8 +89,7 @@ div.comic_annotation {
 }
   
 div.comic_nav_bar {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 2.5em 0; }
+  font-family: Arial, Helvetica, sans-serif; }
 div.comic_nav_button {
   position: relative;
   display: inline-block;
@@ -100,10 +99,13 @@ div.comic_nav_button a {
   display: block; }
 main div.comic_nav_button.content_warning {
   margin-bottom: 3em; }
-img.comic_nav_button_main {
-  display: block; }
-span.comic_nav_button_main {
+.comic_nav_button_main {
   display: block;
+  border-style: solid;
+  border-color: transparent;
+  border-top-width: 40px;
+  border-bottom-width: 40px; }
+span.comic_nav_button_main {
   font-size: 300%;
   font-weight: bold; }
 span.comic_nav_content_warning {
@@ -286,9 +288,10 @@ def do_css_for_comic(comic_id):
   transcript_at_side_width = comic_width + 3*sideways_space + min_transcript_width
   transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_width
   comics_metadata[comic_id]["transcript_at_side_width"] = transcript_at_side_width
+  navhalf_wid = comic_width // 2
   navbut_outer_margin = comic_width // 10
   navbut_inner_margin = comic_width // 15
-  navbut_wid = (comic_width - navbut_outer_margin*2 - navbut_inner_margin*2) // 2
+  navbut_wid = navhalf_wid - navbut_outer_margin - navbut_inner_margin
   css.insert('''
 '''+ancestor_str+''' div.comic_and_nav {
   width: '''+str(comic_width)+'''px; }
@@ -333,14 +336,16 @@ def do_css_for_comic(comic_id):
 '''+ancestor_str+''' div.comic_annotation_outer {
   width: '''+str(comic_width)+'''px;
 }
-'''+ancestor_str+''' div.comic_nav_button {
+'''+ancestor_str+''' .comic_nav_button {
+  width: '''+str(navhalf_wid)+'''px; }
+'''+ancestor_str+''' .comic_nav_button_main {
   width: '''+str(navbut_wid)+'''px; }
-'''+ancestor_str+''' div.comic_nav_button.prev {
-  margin-left: '''+str(navbut_outer_margin)+'''px;
-  margin-right: '''+str(navbut_inner_margin)+'''px; }
-'''+ancestor_str+''' div.comic_nav_button.next {
-  margin-left: '''+str(navbut_inner_margin)+'''px;
-  margin-right: '''+str(navbut_outer_margin)+'''px; }
+'''+ancestor_str+''' .comic_nav_button_main.prev {
+  border-left-width: '''+str(navbut_outer_margin)+'''px;
+  border-right-width: '''+str(navbut_inner_margin)+'''px; }
+'''+ancestor_str+''' .comic_nav_button_main.next {
+  border-left-width: '''+str(navbut_inner_margin)+'''px;
+  border-right-width: '''+str(navbut_outer_margin)+'''px; }
 ''')
 
 for comic_id,page_list in comics_pages.items():
