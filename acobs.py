@@ -5,17 +5,15 @@ from __future__ import division
 
 import css
 
-print('TODO: content_notices_disabled on the big content notices box can make the bottom bar show up in the wrong place on a very tall window')
-
 css.insert('''
 
 body.acobs div.bars_outer_box {
   background-color: #909090 /*#a00000*/; }
-body.acobs div.comic_content_notice_text {
+body.acobs div.comic_content_warning_text {
   color: black; }
 body.acobs .meta_controls_coloring {
   color: blue; }
-body.acobs div.comic_toggle_content_notices {
+body.acobs div.comic_toggle_content_warnings {
   color: black; }
 
 body.acobs div.comic_transcript_inner {

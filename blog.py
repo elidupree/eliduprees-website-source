@@ -416,17 +416,17 @@ def comments_section(parent):
 
 def hidden_cw_box(contents):
   return '''<div class="hidden_cw_box">
-    <a href="javascript:;" name="enable_content_notices_button" class="reveal_cw_button">Reveal content notices</a>
+    <a href="javascript:;" name="enable_content_notices_button" class="reveal_cw_button">Reveal content warnings</a>
     <div class="hidden_cws">
       '''+contents+'''
-      <a name="disable_content_notices_button" href="javascript:;" >(disable content notices)</a>
+      <a name="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
     </div>
   </div>'''
 
 def secondary_hidden_cw_box(contents):
   return '''<div class="hidden_cw_box secondary">
     '''+contents+'''
-    <a name="disable_content_notices_button" href="javascript:;" >(disable content notices)</a>
+    <a name="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
   </div>'''
 
 def post_dict_html(post_dict, expand_comments):
@@ -436,22 +436,22 @@ def post_html(contents, title, permalink, taglist, expand_comments, metadata, sc
   post_content = blog_server_shared.postprocess_post_string(contents, metadata["id"], title, False, scrutinize)[0]
   
   
-  content_notice_header_regex = re.compile(r"<content_notice_header"+blog_server_shared.grouped_string_regex("content_notice_header_contents")+">", re.DOTALL)
-  post_content = content_notice_header_regex.sub(lambda match: ('''
+  content_warning_header_regex = re.compile(r"<content_warning_header"+blog_server_shared.grouped_string_regex("content_warning_header_contents")+">", re.DOTALL)
+  post_content = content_warning_header_regex.sub(lambda match: ('''
 
-<div class="story_content_notice_header">
+<div class="story_content_warning_header">
   <p>This story contains:</p>
   '''+hidden_cw_box('''
   <ul>
-    '''+match.group("content_notice_header_contents")+'''
+    '''+match.group("content_warning_header_contents")+'''
   </ul>
   <p>Notices will also appear in-context in the story, just before the material appears.</p>
   <p>If you see other material that should be marked (such as common triggers or phobias), '''+exmxaxixl.a('e-mail me')+'''. I am serious about web accessibility, and I will respond to your concerns as soon as I can manage.</p>
   ''')+'''
 </div>'''), post_content)
 
-  content_notice_p_regex = re.compile(r"<content_notice_p"+blog_server_shared.grouped_string_regex("content_notice_p_contents")+">", re.DOTALL)
-  post_content = content_notice_p_regex.sub(lambda match: secondary_hidden_cw_box('This section depicts '+match.group("content_notice_p_contents")+'.'), post_content)
+  content_warning_p_regex = re.compile(r"<content_warning_p"+blog_server_shared.grouped_string_regex("content_warning_p_contents")+">", re.DOTALL)
+  post_content = content_warning_p_regex.sub(lambda match: secondary_hidden_cw_box('This section depicts '+match.group("content_warning_p_contents")+'.'), post_content)
   
   
   post_content_sections = post_content.split("<bigbreak>")
@@ -642,7 +642,7 @@ def add_category_pages(page_dict, posts, category, tag_specific = None):
         html_pages.make_page(
           title_formatted_title(post_dict)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
           "",
-          "<script>window.elidupree.handle_content_notices('"+post_dict["title"]+"', false)</script>"+make_blog_page_body(post_dict_html(post_dict, True), specific_sidebar_contents)
+          "<script>window.elidupree.handle_content_warnings('"+post_dict["title"]+"', false)</script>"+make_blog_page_body(post_dict_html(post_dict, True), specific_sidebar_contents)
         )
       )
       if category == "stories":

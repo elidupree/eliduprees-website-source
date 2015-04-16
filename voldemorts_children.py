@@ -6,24 +6,24 @@ from __future__ import division
 import css
 import gimp_stuff
 
-print('TODO: content_notices_disabled on the big content notices box can make the bottom bar show up in the wrong place on a very tall window')
+print('TODO: content_warnings_disabled on the big content warnings box can make the bottom bar show up in the wrong place on a very tall window')
 
 css.insert('''
 
-body.voldemorts_children div.comic_content_notice_text {
+body.voldemorts_children div.comic_content_warning_text {
   color: white; }
 body.voldemorts_children .meta_controls_coloring {
   color: #ffc800; }
-body.voldemorts_children div.comic_toggle_content_notices {
+body.voldemorts_children div.comic_toggle_content_warnings {
   color: #808080; }
 body.voldemorts_children div.comic_metabar {
   color: #fff1c0; }
 body.voldemorts_children a.comic_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
 body.voldemorts_children a.comic_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
-body.voldemorts_children div.comic_nav_button.content_notice a.comic_nav_button:link{ color: #ccb38f; /*#ffff82;*/ /*#7e7e40*/ }
-body.voldemorts_children div.comic_nav_button.content_notice a.comic_nav_button:visited{ color: #cc7900; /*#81abff;*/ /*#40557f*/ }
-body.voldemorts_children.content_notices_disabled div.comic_nav_button.content_notice a.comic_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
-body.voldemorts_children.content_notices_disabled div.comic_nav_button.content_notice a.comic_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
+body.voldemorts_children div.comic_nav_button.content_warning a.comic_nav_button:link{ color: #ccb38f; /*#ffff82;*/ /*#7e7e40*/ }
+body.voldemorts_children div.comic_nav_button.content_warning a.comic_nav_button:visited{ color: #cc7900; /*#81abff;*/ /*#40557f*/ }
+body.voldemorts_children.content_warnings_disabled div.comic_nav_button.content_warning a.comic_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
+body.voldemorts_children.content_warnings_disabled div.comic_nav_button.content_warning a.comic_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
 body.voldemorts_children div.comic_transcript_inner {
   /*border: 1px dashed white;*/
   color: #fff1c0; }

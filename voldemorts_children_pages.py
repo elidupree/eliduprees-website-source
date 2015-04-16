@@ -41,7 +41,7 @@ vc_pages = [
       (2000, 'They go to a long spiral staircase. Tonks walks down the stairs, while Granger flies down by magic, leaving a trail of '+pure_blue+' magical energy.'),
       (2000, 'TONKS: All those people outside are yelling for his head... and we just go down...'),
       (3640, 'TONKS: and ask him questions.')],
-    "annotation": '''<p>By the way, I have a built-in way to mark pages with content notices, to warn users about content that might be triggering &ndash; or content that they might want to avoid for any other reason. (If you're unsure what trigger warnings are about, <a href="http://fuckyeahtriggerwarnings.tumblr.com/">this tumblr is an excellent introduction</a>.) I'm going to try to mark any page that has potentially triggering material, but I'm not a very good judge of what might be triggering, because I don't get triggered myself (in fact, I basically never get <em>any</em> undesirable emotional effect from seeing <em>any</em> visual image). So if you see a potential trigger that I haven't marked, please tell me.</p>
+    "annotation": '''<p>By the way, I have a built-in way to mark pages with content warnings, to warn users about content that might be triggering &ndash; or content that they might want to avoid for any other reason. (If you're unsure what trigger warnings are about, <a href="http://fuckyeahtriggerwarnings.tumblr.com/">this tumblr is an excellent introduction</a>.) I'm going to try to mark any page that has potentially triggering material, but I'm not a very good judge of what might be triggering, because I don't get triggered myself (in fact, I basically never get <em>any</em> undesirable emotional effect from seeing <em>any</em> visual image). So if you see a potential trigger that I haven't marked, please tell me.</p>
 
 <p>The same goes for any other web accessibility issue. I care about this stuff, so if you '''+exmxaxixl.a('e-mail me')+''' with an issue, I <strong>will</strong> do my best to fix it.</p>'''
   },
@@ -195,7 +195,7 @@ vc_pages = [
   },
   {
     "xcf_base": "ch1_p9_1",
-    "content_notice": "depicts physical bullying",
+    "content_warning": "depicts physical bullying",
     "transcript": [
       (0, '''A shadowy metaphorical image of Voldemort looms behind Harry. Voldemort is grabbing Harry by the hair. Most of Harry's hair has fallen over zir face, so zir eyes are hidden. Voldemort and Harry speak in unison, in a mix of their graphical styles. (Physically, we're still in the interrogation cell, and Harry is speaking alone.)'''),
       (150, '''<span class="dialogue HARRYMORT">HARRY AND VOLDEMORT: Hey, listen. If you want to know about me. I'll tell you. I'll tell you things nobody but me knows. Things nobody but me should ever know. Just three rules... One, I tell it how I want. Don't you try to twist my story with your questions. Two, if you use that truth potion to get more out of me, it's over. Three... Give me back my god damn glasses.</span>'''),
