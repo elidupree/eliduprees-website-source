@@ -60,8 +60,6 @@ body.content_warnings_disabled .remove_if_content_warnings_disabled {
   
 div.comic_and_nav {
   margin: 2em auto; }
-div.comic_and_transcript {
-  margin: 5em 0; }
 div.comic_image {
   padding-bottom: 3em;
   display: inline-block; }
@@ -91,7 +89,8 @@ div.comic_annotation {
 }
   
 div.comic_nav_bar {
-  font-family: Arial, Helvetica, sans-serif; }
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 2.5em 0; }
 div.comic_nav_button {
   position: relative;
   display: inline-block;
@@ -101,6 +100,8 @@ div.comic_nav_button a {
   display: block; }
 main div.comic_nav_button.content_warning {
   margin-bottom: 3em; }
+img.comic_nav_button_main {
+  display: block; }
 span.comic_nav_button_main {
   display: block;
   font-size: 300%;
@@ -239,6 +240,7 @@ comics_metadata = {
     "image_width": 750,
     "dialogue_name_replacements":voldemorts_children.dialogue_name_replace,
     "image_url_offset":0,
+    "arrow_images": True,
   },
   "acobs": {
     "title": "A Couple of Badass Superheroes",
@@ -380,13 +382,18 @@ def comic_navbar(prev_page, next_page):
   def inner_link(string, big_string, page):
     if not page:
       return ''
+    cw = ''
+    if "content_warning" in page:
+      cw = '<span class="comic_nav_content_warning">(content warning: '+page["content_warning"]+'.)</span>'
+    if "arrow_images" in comics_metadata[page["comic_id"]]:
+      button = '<img class="comic_nav_button_main '+string+'" alt="'+big_string+'" src="/media/'+comics_metadata[page["comic_id"]]["abbr"]+'-arrow-'+string+'.png">'
+    else:
+      button = '<span class="comic_nav_button_main '+string+'">'+big_string+'</span>'
     return (
-    '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'
-      +('' if "content_warning" not in page else '<span class="comic_nav_content_warning">(content warning: '+page["content_warning"]+'.)</span>')
-      +'<span class="comic_nav_button_main">'+utils.capitalize_string(big_string)+'</span></a>')
+    '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
   def link(string, big_string, page):
     return '<div class="comic_nav_button '+string+(' content_warning' if (page and ("content_warning" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
-  return '<div class="comic_nav_bar">'+link("prev","previous",prev_page)+link("next","next",next_page)+'</div>'
+  return '<div class="comic_nav_bar">'+link("prev","Previous",prev_page)+link("next","Next",next_page)+'</div>'
 
 def comic_metabar(page):
   return '''

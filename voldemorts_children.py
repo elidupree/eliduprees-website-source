@@ -18,6 +18,10 @@ body.voldemorts_children div.comic_toggle_content_warnings {
   color: #808080; }
 body.voldemorts_children div.comic_metabar {
   color: #fff1c0; }
+body.voldemorts_children img.comic_nav_button_main {
+  background-color: #653c00; }
+body.voldemorts_children img.comic_nav_button_main:hover {
+  background-color: #996100; }
 body.voldemorts_children a.comic_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
 body.voldemorts_children a.comic_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
 body.voldemorts_children div.comic_nav_button.content_warning a.comic_nav_button:link{ color: #ccb38f; /*#ffff82;*/ /*#7e7e40*/ }
