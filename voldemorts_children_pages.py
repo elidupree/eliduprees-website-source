@@ -211,7 +211,7 @@ vc_pages = [
     "xcf_base": "ch2_cover_1",
     "transcript": [
       (0, '''We see a large image of Hogwarts Castle in relative darkness. It has many towers, but is not adorned or colorful.'''),
-      (0, '''At the top is a banner which reads <q>DRACO DORMIENS TITILLARE COACTUS SUM</q>, which is Latin for <q>I am compelled to tickle a sleeping dragon</q>. (The motto of Hogwarts in the original series is <q>Draco dormiens titillandus numquam</q>, which means "Never tickle a sleeping dragon".) The Latin verb <q>titillo</q> can also mean <q>provoke</q> or <q>sexually stimulate</q>.'''),
+      (0, '''At the top is a banner which reads <q>DRACO DORMIENS TITILLARE COACTUS SUM</q>, which is Latin for <q>I am compelled to tickle a sleeping dragon</q>. (The motto of Hogwarts in the original series is <q>Draco dormiens titillandus numquam</q>, which means <q>Never tickle a sleeping dragon</q>.) The Latin verb <q>titillo</q> can also mean <q>provoke</q> or <q>sexually stimulate</q>.'''),
       (0, '''An huge image of Voldemort hovers over the castle, holding puppet strings which attach to the towers, as if the entire castle is Voldemort's puppet.'''),
       (870, '''Hermione Granger is flying on a broomstick over the castle, with zir wand out, shooting some kind of magic in Voldemort's general direction.'''),
       (2755, '''Rubeus Hagrid &ndash; a huge person, but very small next to the castle &ndash; is standing in front of the castle's main doors, awaiting the arrival of the first-years. In front of Hagrid is a large lake. A boat approaches across the lake, propelled by '''+pure_blue+''' magic. In the boat are the even smaller figures of Draco Malfoy and Harry Potter, facing away from each other.'''),

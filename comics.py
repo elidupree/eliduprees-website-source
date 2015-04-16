@@ -72,7 +72,8 @@ div.comic_image {
 
 div.comic_transcript_inner {
   padding: 0 '''+str(sideways_space)+'''px;
-  font-family: Arial, Helvetica, sans-serif; }
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold; }
 div.comic_transcript_label {
   padding-bottom: 1.1em; }
 .show_comic_transcript_button {
@@ -127,6 +128,7 @@ span.comic_nav_content_warning {
 
 div.comic_metabar {
   font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
   margin: 0.5em 0;
   text-align: center; }
 

@@ -213,7 +213,7 @@ a.random_post.enabled {
   display: block; }
   
   
-q { border: 1px inset white; color: #606060; }
+div.blog_post q { border: 1px inset white; color: #606060; }
 blockquote { border-left: 2px solid #c0c0c0; padding: 0.25em; color: #606060; margin-left: 2.5em; margin-right: 2.5em; margin-top: 0; margin-bottom: 1em; }
 p.reply_input_info { padding-left: 0.5em; }
 span.big_quote_mark_outer { width: 2em; height: 0; float: left; margin-left: 0.5em; margin-top: -0.5em; }
