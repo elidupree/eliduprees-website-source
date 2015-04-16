@@ -218,7 +218,7 @@ vc_pages = [
       (3350, '''TITLE: Chapter Two'''),
       (3650, '''TITLE: Castle of Gloss and Fear'''),
     ],
-    "annotation": '''<p>My stylus once drew the windows of this castle. They felt wrong, somehow. Now you see only a blank facade and a sky empty of stars, and the lights reflected in the water are absent. Perhaps this is Hogwarts as Harry sees it now &ndash; and as for the Hogwarts that an eleven-year-old saw, not knowing what was to come, you will not see it until the very end.</p>''',
+    "annotation": '''<p>My stylus once drew the windows of this castle. They felt wrong, somehow. Now you see only a blank facade and a sky empty of stars, and although you see the lights reflected in the water, they are absent. Perhaps this is Hogwarts as Harry sees it now &ndash; and as for the Hogwarts that an eleven-year-old saw, not knowing what was to come, you will not see it until the very end.</p>''',
   },
   {
     "xcf_base": "ch2_p1_1",
