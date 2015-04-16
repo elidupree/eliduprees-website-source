@@ -13,7 +13,7 @@ css.insert('''
 body.voldemorts_children div.comic_content_warning_text {
   color: white; }
 body.voldemorts_children .meta_controls_coloring {
-  color: #ffc800; }
+  color: #e09d00; }
 body.voldemorts_children div.comic_toggle_content_warnings {
   color: #808080; }
 body.voldemorts_children div.comic_metabar {
