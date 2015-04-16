@@ -8,6 +8,11 @@ import gimp_stuff
 
 print('TODO: content_warnings_disabled on the big content warnings box can make the bottom bar show up in the wrong place on a very tall window')
 
+active_cw_color = "ff5050"
+active_cw_color_dull = "be2626"
+arrow_color_bright = "996100"
+arrow_color_dull = "653c00"
+
 css.insert('''
 
 body.voldemorts_children div.comic_content_warning_text {
@@ -16,20 +21,27 @@ body.voldemorts_children .meta_controls_coloring {
   color: #e09d00; }
 body.voldemorts_children div.comic_toggle_content_warnings {
   color: #808080; }
-body.voldemorts_children div.comic_metabar {
+body.voldemorts_children .metabar_content_warnings_enabled {
   color: #fff1c0; }
+body.voldemorts_children .metabar_content_warnings_enabled.content_warning {
+  color: #'''+active_cw_color+'''; }
+body.voldemorts_children .metabar_content_warnings_disabled {
+  color: #989073; }
 body.voldemorts_children img.comic_nav_button_main {
-  background-color: #653c00;
+  background-color: #'''+arrow_color_dull+''';
   border-color: black; }
-body.voldemorts_children img.comic_nav_button_main:hover {
-  background-color: #996100;
+body.voldemorts_children div.comic_nav_button:hover img.comic_nav_button_main {
+  background-color: #'''+arrow_color_bright+''';
   border-color: black; }
-body.voldemorts_children a.comic_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
-body.voldemorts_children a.comic_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
-body.voldemorts_children div.comic_nav_button.content_warning a.comic_nav_button:link{ color: #ccb38f; /*#ffff82;*/ /*#7e7e40*/ }
-body.voldemorts_children div.comic_nav_button.content_warning a.comic_nav_button:visited{ color: #cc7900; /*#81abff;*/ /*#40557f*/ }
-body.voldemorts_children.content_warnings_disabled div.comic_nav_button.content_warning a.comic_nav_button:link{ color: #807059 /*#99994e;*/ /*#7e7e40*/ }
-body.voldemorts_children.content_warnings_disabled div.comic_nav_button.content_warning a.comic_nav_button:visited{ color: #804c00; /*#4d6699;*/ /*#40557f*/ }
+body.voldemorts_children                                                      img.comic_nav_button_main.content_warning { background-color: #'''+active_cw_color_dull+'''; }
+body.voldemorts_children                           div.comic_nav_button:hover img.comic_nav_button_main.content_warning { background-color: #'''+active_cw_color     +'''; }
+body.voldemorts_children.content_warnings_disabled                            img.comic_nav_button_main.content_warning { background-color: #'''+arrow_color_dull    +'''; }
+body.voldemorts_children.content_warnings_disabled div.comic_nav_button:hover img.comic_nav_button_main.content_warning { background-color: #'''+arrow_color_bright  +'''; }
+body.voldemorts_children .comic_nav_content_warning {
+  color: #'''+active_cw_color+'''; }
+body.voldemorts_children div.comic_nav_button:hover .comic_nav_content_warning {
+  color: #'''+active_cw_color+'''; }
+
 body.voldemorts_children div.comic_transcript_inner {
   /*border: 1px dashed white;*/
   color: #fff1c0; }

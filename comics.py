@@ -43,6 +43,12 @@ a.dismiss_content_warning {
   padding: 0.15em;
   font-weight: bold; }
 
+.metabar_content_warnings_disabled {
+  display: none; }
+body.content_warnings_disabled .metabar_content_warnings_disabled {
+  display: inline; }
+body.content_warnings_disabled .metabar_content_warnings_enabled {
+  display: none; }
 a.comic_disable_content_warnings {
   font-family: Arial, Helvetica, sans-serif;
   display: block;
@@ -97,8 +103,8 @@ div.comic_nav_button {
   vertical-align: top; }
 div.comic_nav_button a {
   display: block; }
-main div.comic_nav_button.content_warning {
-  margin-bottom: 3em; }
+                               div.comic_nav_button.content_warning { margin-bottom: 3em; }
+body.content_warnings_disabled div.comic_nav_button.content_warning { margin-bottom: 0; }
 .comic_nav_button_main {
   display: block;
   border-style: solid;
@@ -110,9 +116,10 @@ span.comic_nav_button_main {
   font-weight: bold; }
 span.comic_nav_content_warning {
   position: absolute;
-  left: 0;
-  right: 0;
+  left: 30px;
+  right: 30px;
   top: 100%;
+  margin-top: -34px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 110%; }
 .content_warnings_disabled span.comic_nav_content_warning {
@@ -288,10 +295,10 @@ def do_css_for_comic(comic_id):
   transcript_at_side_width = comic_width + 3*sideways_space + min_transcript_width
   transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_width
   comics_metadata[comic_id]["transcript_at_side_width"] = transcript_at_side_width
-  navhalf_wid = comic_width // 2
-  navbut_outer_margin = comic_width // 10
+  nav_margin = comic_width // 30
+  navhalf_wid = (comic_width - nav_margin) // 2
   navbut_inner_margin = comic_width // 15
-  navbut_wid = navhalf_wid - navbut_outer_margin - navbut_inner_margin
+  navbut_wid = navhalf_wid - navbut_inner_margin*2
   css.insert('''
 '''+ancestor_str+''' div.comic_and_nav {
   width: '''+str(comic_width)+'''px; }
@@ -306,7 +313,8 @@ def do_css_for_comic(comic_id):
   width: '''+str(comic_width)+'''px; }
 
 '''+ancestor_str+''' div.comic_transcript_outer {
-  width: '''+str(comic_width)+'''px; }
+  width: '''+str(comic_width - 2*nav_margin)+'''px;
+  margin: 0 '''+str(nav_margin)+'''px; }
   
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
   '''+ancestor_str+''' div.comic_and_nav {
@@ -341,11 +349,11 @@ def do_css_for_comic(comic_id):
 '''+ancestor_str+''' .comic_nav_button_main {
   width: '''+str(navbut_wid)+'''px; }
 '''+ancestor_str+''' .comic_nav_button_main.prev {
-  border-left-width: '''+str(navbut_outer_margin)+'''px;
+  border-left-width: '''+str(navbut_inner_margin)+'''px;
   border-right-width: '''+str(navbut_inner_margin)+'''px; }
 '''+ancestor_str+''' .comic_nav_button_main.next {
   border-left-width: '''+str(navbut_inner_margin)+'''px;
-  border-right-width: '''+str(navbut_outer_margin)+'''px; }
+  border-right-width: '''+str(navbut_inner_margin)+'''px; }
 ''')
 
 for comic_id,page_list in comics_pages.items():
@@ -384,26 +392,38 @@ def bars_wrap(info, html, page):
 
 
 def comic_navbar(prev_page, next_page):
-  def inner_link(string, big_string, page):
+  def link(string, big_string, page):
     if not page:
       return ''
     cw = ''
+    extra_class = string
     if "content_warning" in page:
       cw = '<span class="comic_nav_content_warning">(content warning: '+page["content_warning"]+'.)</span>'
-    if "arrow_images" in comics_metadata[page["comic_id"]]:
-      button = '<img class="comic_nav_button_main '+string+'" alt="'+big_string+'" src="/media/'+comics_metadata[page["comic_id"]]["abbr"]+'-arrow-'+string+'.png">'
+      extra_class = extra_class+' content_warning'
     else:
-      button = '<span class="comic_nav_button_main '+string+'">'+big_string+'</span>'
-    return (
+      extra_class = extra_class+' no_content_warning'
+    if "arrow_images" in comics_metadata[page["comic_id"]]:
+      button = '<img class="comic_nav_button_main '+extra_class+'" alt="'+big_string+'" src="/media/'+comics_metadata[page["comic_id"]]["abbr"]+'-arrow-'+string+'.png">'
+    else:
+      button = '<span class="comic_nav_button_main '+extra_class+'">'+big_string+'</span>'
+    inner_link = (
     '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
-  def link(string, big_string, page):
-    return '<div class="comic_nav_button '+string+(' content_warning' if (page and ("content_warning" in page)) else '')+'">'+inner_link(string, big_string, page)+'</div>'
+    return '''
+      <div class="comic_nav_button '''+extra_class+'''">
+        <a id="'''+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'''</a>
+      </div>'''
   return '<div class="comic_nav_bar">'+link("prev","Previous",prev_page)+link("next","Next",next_page)+'</div>'
 
 def comic_metabar(page):
   return '''
 <div class="comic_metabar">
-  <a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''">First</a>'''+utils.inline_separator+'''<a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''/archive">Archive</a>'''+utils.inline_separator+'⚠ '+(page["content_warning"] if "content_warning" in page else "none")+''' <a name="disable_content_warnings_button" class="remove_if_content_warnings_disabled meta_controls_coloring" href="javascript:;">(disable content warnings)</a><a name="enable_content_warnings_button" class="remove_if_content_warnings_enabled meta_controls_coloring" href="javascript:;">(enable content warnings)</a>
+  <a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''">First</a>'''+utils.inline_separator+'''<a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''/archive">Archive</a>'''+utils.inline_separator+'''
+  <span class="metabar_content_warnings_enabled'''+(" content_warning" if "content_warning" in page else "")+'''">
+    ⚠ '''+(page["content_warning"] if "content_warning" in page else "none")+''' <a name="disable_content_warnings_button" class="meta_controls_coloring" href="javascript:;">(disable content warnings)</a>
+  </span>
+  <span class="metabar_content_warnings_disabled">
+    ⚠ disabled <a name="enable_content_warnings_button" class="meta_controls_coloring" href="javascript:;">(enable content warnings)</a>
+  </span>
 </div>'''
   
   
