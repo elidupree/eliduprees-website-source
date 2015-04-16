@@ -296,7 +296,7 @@ def do_css_for_comic(comic_id):
   transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_width
   comics_metadata[comic_id]["transcript_at_side_width"] = transcript_at_side_width
   nav_margin = comic_width // 30
-  navhalf_wid = (comic_width - nav_margin) // 2
+  navhalf_wid = (comic_width - nav_margin*2) // 2
   navbut_inner_margin = comic_width // 15
   navbut_wid = navhalf_wid - navbut_inner_margin*2
   css.insert('''
@@ -308,13 +308,13 @@ def do_css_for_comic(comic_id):
   width: '''+str(comic_width)+'''px; }
   
 '''+ancestor_str+''' div.comic_nav_bar {
-  width: '''+str(comic_width)+'''px; }
+  width: '''+str(comic_width - 2*nav_margin)+'''px;
+  margin: 0 '''+str(nav_margin)+'''px; }
 '''+ancestor_str+''' div.comic_metabar {
   width: '''+str(comic_width)+'''px; }
 
 '''+ancestor_str+''' div.comic_transcript_outer {
-  width: '''+str(comic_width - 2*nav_margin)+'''px;
-  margin: 0 '''+str(nav_margin)+'''px; }
+  width: '''+str(comic_width)+'''px; }
   
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
   '''+ancestor_str+''' div.comic_and_nav {
@@ -408,8 +408,7 @@ def comic_navbar(prev_page, next_page):
       button = '<span class="comic_nav_button_main '+extra_class+'">'+big_string+'</span>'
     inner_link = (
     '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
-    return '''
-      <div class="comic_nav_button '''+extra_class+'''">
+    return '''<div class="comic_nav_button '''+extra_class+'''">
         <a id="'''+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'''</a>
       </div>'''
   return '<div class="comic_nav_bar">'+link("prev","Previous",prev_page)+link("next","Next",next_page)+'</div>'
