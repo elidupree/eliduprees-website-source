@@ -6,12 +6,13 @@ from __future__ import division
 import subprocess
 
 def gimp_batch(command):
-  #print("calling GIMP batch command..."+command)
-  #out = subprocess.Popen(["gimp", "--no-interface", "--batch='"+command+"'"], stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
-  #out.wait()
-  #print(out.communicate())
-  #print("finished GIMP batch command...")
-  print("gimp --no-interface --batch='"+command+"'")
+  commandp = "gimp --no-interface --batch='"+command+"' --batch='(gimp-quit 0)'"
+  print("calling:\n"+commandp)
+  out = subprocess.Popen(commandp, shell=True, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
+  output = out.communicate()
+  print(output)
+  print("finished GIMP batch command")
+  #print("gimp --no-interface --batch='"+command+"'")
 
 def generate_vc_images(xcf_basename, page_number):
   generate_images("/n/art/voldemorts_children/", xcf_basename+".xcf", "VC_"+str(page_number))

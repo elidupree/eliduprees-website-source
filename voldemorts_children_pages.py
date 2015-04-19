@@ -163,7 +163,7 @@ vc_pages = [
 <p>(Another reason I made Time-Twisters is that it means I don't have to worry too much about keeping a consistent timeline. If things seem inconsistent or anachronistic, they are! It's canon!)</p>''',
   },
   {
-    "xcf_base": "ch1_p8_1",
+    "xcf_base": "ch1_p8_2",
     "transcript": [
       (0, '''The last narrative frame closes. We are back with Harry in the cell.'''),
       (0, '''HARRY: I heard what you said. Don't try to tell me one thing and everyone else another. You just want me to prove you right.'''),
@@ -194,7 +194,7 @@ vc_pages = [
 <p>Of course, since this is a work of fan fiction, it has a lot of implicit references to things from the <i>Harry Potter</i> universe. I can't reasonably explain all of them. I will generally try to explain things in the transcript if they're obscure enough that a fair chunk of <i>Harry Potter</i> readers won't know them (e.g. if they're from the later books in the series). I'm not trying to make the story <em>entirely</em> accessible to people who haven't read <i>Harry Potter</i> at all, but luckily, most information from the <i>Harry Potter</i> universe is also on the Internet.</p>''',
   },
   {
-    "xcf_base": "ch1_p9_1",
+    "xcf_base": "ch1_p9_2",
     "content_warning": "depicts physical bullying",
     "transcript": [
       (0, '''A shadowy metaphorical image of Voldemort looms behind Harry. Voldemort is grabbing Harry by the hair. Most of Harry's hair has fallen over zir face, so zir eyes are hidden. Voldemort and Harry speak in unison, in a mix of their graphical styles. (Physically, we're still in the interrogation cell, and Harry is speaking alone.)'''),
