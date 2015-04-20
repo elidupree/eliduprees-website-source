@@ -21,25 +21,34 @@ def generate_images(infile_path, infile_base, outfile_base):
   infile = infile_path+infile_base
   page_outfile_base = outfile_base+".png"
   page_outfile = "./build/media/"+page_outfile_base
-  thumbnail_outfile_base = outfile_base+"_thumbnail.png"
-  thumbnail_outfile = "./build/media/"+thumbnail_outfile_base
+  thumbnail_top_outfile_base = outfile_base+"_thumbnail_top.png"
+  thumbnail_top_outfile = "./build/media/"+thumbnail_top_outfile_base
+  thumbnail_full_outfile_base = outfile_base+"_thumbnail_full.png"
+  thumbnail_full_outfile = "./build/media/"+thumbnail_full_outfile_base
   
   gimp_batch('''
 (let* (
         (page (car (gimp-file-load RUN-NONINTERACTIVE "'''+infile+'" "'+infile_base+'''")))
-        (pdrawable (car (gimp-image-flatten page)))
-        (thumbnail (car (gimp-image-duplicate page)))
-        (tdrawable (car (gimp-image-get-active-layer thumbnail)))
+        (page_drawable (car (gimp-image-flatten page)))
+        (thumbnail_top (car (gimp-image-duplicate page)))
+        (thumbnail_top_drawable (car (gimp-image-get-active-layer thumbnail_top)))
+        (thumbnail_full (car (gimp-image-duplicate page)))
+        (thumbnail_full_drawable (car (gimp-image-get-active-layer thumbnail_full)))
       )
   (gimp-image-scale-full page 750 1000 INTERPOLATION-CUBIC)
   (gimp-image-convert-indexed page FIXED-DITHER MAKE-PALETTE 127 FALSE FALSE "")
-  (file-png-save RUN-NONINTERACTIVE page pdrawable "'''+page_outfile+'" "'+page_outfile_base+'''" 0 9 0 0 0 0 0)
+  (file-png-save RUN-NONINTERACTIVE page page_drawable "'''+page_outfile+'" "'+page_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete page)
   
-  (gimp-image-crop thumbnail 1500 390 0 0)
-  (gimp-image-scale-full thumbnail 300 78 INTERPOLATION-CUBIC)
-  (gimp-image-convert-indexed thumbnail NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
-  (file-png-save RUN-NONINTERACTIVE thumbnail tdrawable "'''+thumbnail_outfile+'" "'+thumbnail_outfile_base+'''" 0 9 0 0 0 0 0)
-  (gimp-image-delete thumbnail)
+  (gimp-image-crop thumbnail_top 1500 390 0 0)
+  (gimp-image-scale-full thumbnail_top 300 78 INTERPOLATION-CUBIC)
+  (gimp-image-convert-indexed thumbnail_top NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
+  (file-png-save RUN-NONINTERACTIVE thumbnail_top thumbnail_top_drawable "'''+thumbnail_top_outfile+'" "'+thumbnail_top_outfile_base+'''" 0 9 0 0 0 0 0)
+  (gimp-image-delete thumbnail_top)
+  
+  (gimp-image-scale-full thumbnail_full 120 160 INTERPOLATION-CUBIC)
+  (gimp-image-convert-indexed thumbnail_full NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
+  (file-png-save RUN-NONINTERACTIVE thumbnail_full thumbnail_full_drawable "'''+thumbnail_full_outfile+'" "'+thumbnail_full_outfile_base+'''" 0 9 0 0 0 0 0)
+  (gimp-image-delete thumbnail_full)
 )''')
 

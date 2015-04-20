@@ -132,6 +132,11 @@ div.comic_metabar {
   margin: 0.5em 0;
   text-align: center; }
 
+div.comic_archive {
+  }
+a.comic_archive_entry {
+  display: inline-block; }
+
 div.hidden_cw_box {
   border: 1px dashed black;
   padding: 0.5em; }
@@ -276,11 +281,16 @@ for page_dict in comics_pages["voldemorts_children"]:
 def page_url(page):
   return comics_metadata[page["comic_id"]]["url"]+('' if page["list_index"] == 0 else '/'+str(page["list_index"]))
 
-def comic_image_url(page):
+def comic_image_url(page, ext = ''):
   meta = comics_metadata[page["comic_id"]]
-  return '/media/'+meta["abbr"]+'_'+str(page["list_index"]+meta["image_url_offset"])+'.png'
+  if ext:
+    ext = '_'+ext
+  else:
+    ext = ''
+  return '/media/'+meta["abbr"]+'_'+str(page["list_index"]+meta["image_url_offset"])+ext+'.png'
 
 def comic_thumbnail_url(page):
+  print ("comic_thumbnail_url is deprecated")
   return '/media/'+comics_metadata[page["comic_id"]]["abbr"]+'_'+str(page["list_index"])+'_thumbnail.png'
 
 def last_comic_thumbnail_url():
@@ -500,6 +510,9 @@ def page_html_and_head(page, prev_page, next_page):
 
 def add_comic_pages(page_dict):
   for comic_id,page_list in comics_pages.items():
+    
+    archive_entries = []
+    
     for i in range(0,len(page_list)):
       page = page_list[i]
       prev_page = (page_list[i-1] if i>0 else None)
@@ -521,4 +534,18 @@ def add_comic_pages(page_dict):
   <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page), {"body_class":comics_metadata[comic_id]["body_class"]}
         )
       )
+        
+      archive_entries.append('<a class="comic_archive_entry" href="'+page_url(page)+'"><img class="comic_archive_entry" src="'+comic_image_url(page, 'thumbnail_full')+'"></a>')
+    
+    archive_html = '<main><div class="comic_archive">'+''.join(archive_entries)+'</div></main>'
+    utils.checked_insert(page_dict,
+      comics_metadata[comic_id]["url"]+'/archive.html',
+      html_pages.make_page(
+        'Archive ⊂ '+comics_metadata[page["comic_id"]]["title"]+" ⊂ Eli Dupree's website",
+        head,
+        '''
+<a class="skip" href="#content">Skip to content</a>'''+bars.bars_wrap({"comics":True}, archive_html), {"body_class":comics_metadata[comic_id]["body_class"]}
+      )
+    )
+    
 
