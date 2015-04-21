@@ -414,23 +414,25 @@ def bars_wrap(info, html, page):
 
 def comic_navbar(prev_page, next_page):
   def link(string, big_string, page):
-    if not page:
-      return ''
-    cw = ''
-    extra_class = string
-    if "content_warning" in page:
-      cw = '<span class="comic_nav_content_warning">(content warning: '+page["content_warning"]+'.)</span>'
-      extra_class = extra_class+' content_warning'
-    else:
-      extra_class = extra_class+' no_content_warning'
-    if "arrow_images" in comics_metadata[page["comic_id"]]:
-      button = '<img class="comic_nav_button_main '+extra_class+'" alt="'+big_string+'" src="/media/'+comics_metadata[page["comic_id"]]["abbr"]+'-arrow-'+string+'.png">'
-    else:
-      button = '<span class="comic_nav_button_main '+extra_class+'">'+big_string+'</span>'
-    inner_link = (
-    '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
-    return '''<div class="comic_nav_button '''+extra_class+'''">
-        <a id="'''+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'''</a>
+    inner_link = ''
+    extra_class = ''
+    if page:
+      cw = ''
+      extra_class = ' '+string
+      if "content_warning" in page:
+        cw = '<span class="comic_nav_content_warning">(content warning: '+page["content_warning"]+'.)</span>'
+        extra_class = extra_class+' content_warning'
+      else:
+        extra_class = extra_class+' no_content_warning'
+      if "arrow_images" in comics_metadata[page["comic_id"]]:
+        button = '<img class="comic_nav_button_main'+extra_class+'" alt="'+big_string+'" src="/media/'+comics_metadata[page["comic_id"]]["abbr"]+'-arrow-'+string+'.png">'
+      else:
+        button = '<span class="comic_nav_button_main'+extra_class+'">'+big_string+'</span>'
+      inner_link = (
+      '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
+    
+    return '''<div class="comic_nav_button'''+extra_class+'''">
+        '''+inner_link+'''
       </div>'''
   return '<div class="comic_nav_bar">'+link("prev","Previous",prev_page)+link("next","Next",next_page)+'</div>'
 
