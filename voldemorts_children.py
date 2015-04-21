@@ -15,6 +15,12 @@ arrow_color_dull = "653c00"
 
 css.insert('''
 
+body.voldemorts_children div.comic_archive {
+  color: #'''+arrow_color_bright+'''; }
+body.voldemorts_children a.comic_archive_entry {
+  border: 1px solid transparent; }
+body.voldemorts_children a.comic_archive_entry:hover {
+  border-color: #ddaa00; }
 body.voldemorts_children div.comic_content_warning_text {
   color: white; }
 body.voldemorts_children .meta_controls_coloring {

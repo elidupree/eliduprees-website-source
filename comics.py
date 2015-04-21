@@ -133,7 +133,16 @@ div.comic_metabar {
   text-align: center; }
 
 div.comic_archive {
-  }
+  text-align: center; }
+div.comic_archive h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+  padding: 0.2em; }
+div.comic_archive h2 {
+  font-size: 200%;
+  padding: 0.2em; }
+div.comic_archive_chapter {
+  padding: 1em 0; }
 a.comic_archive_entry {
   display: inline-block; }
 
@@ -511,7 +520,7 @@ def page_html_and_head(page, prev_page, next_page):
 def add_comic_pages(page_dict):
   for comic_id,page_list in comics_pages.items():
     
-    archive_entries = []
+    archive_entries = ['<div class="comic_archive_chapter"><h1>Archive of <span class="title">'+comics_metadata[comic_id]["title"]+'</span></h1>']
     
     for i in range(0,len(page_list)):
       page = page_list[i]
@@ -528,20 +537,23 @@ def add_comic_pages(page_dict):
       utils.checked_insert(page_dict,
         page_url(page)+'.html',
         html_pages.make_page(
-          ('Page '+str(i)+' ⊂ ' if i>0 else '')+comics_metadata[page["comic_id"]]["title"]+" ⊂ Eli Dupree's website",
+          ('Page '+str(i)+' ⊂ ' if i>0 else '')+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
           head,
           '<script>'+extra_scripts+'''</script>
   <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page), {"body_class":comics_metadata[comic_id]["body_class"]}
         )
       )
-        
+      
+      if "chapter_start" in page:
+        archive_entries.append('</div><div class="comic_archive_chapter"><h2>'+page["chapter_start"]+'</h2>')
       archive_entries.append('<a class="comic_archive_entry" href="'+page_url(page)+'"><img class="comic_archive_entry" src="'+comic_image_url(page, 'thumbnail_full')+'"></a>')
     
+    archive_entries.append('</div>')
     archive_html = '<main><div class="comic_archive">'+''.join(archive_entries)+'</div></main>'
     utils.checked_insert(page_dict,
       comics_metadata[comic_id]["url"]+'/archive.html',
       html_pages.make_page(
-        'Archive ⊂ '+comics_metadata[page["comic_id"]]["title"]+" ⊂ Eli Dupree's website",
+        'Archive ⊂ '+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
         head,
         '''
 <a class="skip" href="#content">Skip to content</a>'''+bars.bars_wrap({"comics":True}, archive_html), {"body_class":comics_metadata[comic_id]["body_class"]}

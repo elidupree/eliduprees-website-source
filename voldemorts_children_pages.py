@@ -33,6 +33,7 @@ vc_pages = [
   },
   {
     "xcf_base": "ch1_p1_2",
+    "chapter_start": 'Chapter One: The Boy Who Killed',
     "transcript": [
       (0, '''Hermione Granger stands in a room labeled "Auror Offices". {The Aurors are elite law enforcement agents.} There are bookshelves along the wall. Granger has zir hair tied back, wears a long dark coat, and has very reserved mannerisms. Nymphadora Tonks enters the room. Tonks is more easygoing than Granger, wears a shorter, lighter coat, and has short spiky pink hair. Tonks's speech is drawn somewhat messily in a <span class="dialogue TONKS">mild purple</span> color, and Granger's is more formal and drawn in a <span class="dialogue GRANGER">mild blue</span>.'''),
       (55, 'TONKS: Granger, you called?'),
@@ -208,6 +209,7 @@ vc_pages = [
     <p>I wanted to give Granger a more nuanced line to accept Harry's rules with, but I couldn't make it fit with the flow of the piece. Sure, I could have made the upper text smaller, but I don't think the atmosphere of this page would benefit from the level of nuance that Granger would try to introduce to the situation.</p>''',
   },
   {
+    "chapter_start": 'Chapter Two: Castle of Gloss and Fear',
     "xcf_base": "ch2_cover_1",
     "transcript": [
       (0, '''We see a large image of Hogwarts Castle in relative darkness. It has many towers, but is not adorned or colorful.'''),
