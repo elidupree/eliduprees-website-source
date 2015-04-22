@@ -22,7 +22,7 @@ def ajax_func():
 {
   "parent":"'''+parent+'''",
   "username":"'''+username+'''",
-  "contents":"""'''+re.sub(contents, '"""', r'\"\"\"')+'''""",
+  "contents":"""'''+re.sub('"""', r'\"\"\"', contents)+'''""",
   "id":"'''+hex(random.SystemRandom().getrandbits(128))[2:-1]+'''",
   "date_posted":datetime.date('''+datetime.date.today().strftime("%Y, %-m, %-d")+''')
 },'''

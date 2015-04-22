@@ -127,6 +127,16 @@ div.blog_post h2 {
   font-weight: bold;
   padding: 0.1em;
   padding-left: 1em; }
+div.blog_post h3 {
+  font-size: 140%;
+  font-weight: bold;
+  padding: 0.1em;
+  padding-left: 1em; }
+div.blog_post h4 {
+  font-size: 120%;
+  font-weight: bold;
+  padding: 0.1em;
+  padding-left: 1em; }
 div.blog_post p {
   text-indent: 2em; }
 div.blog_post_metadata_outer {
@@ -220,6 +230,9 @@ span.big_quote_mark_outer { width: 2em; height: 0; float: left; margin-left: 0.5
 span.big_quote_mark_inner { font-size: 5em; color: #c0c0c0; }
 div.footnotes { margin-top: 2em; }
 a.footnote_link { color: black; }
+
+.scrutiny { background-color: #c0ffff; color: black; text-decoration: underline; }
+.skepticism { background-color: #ffc0c0; }
 ''')
 
 javascript.do_after_body(r'''
@@ -341,7 +354,7 @@ def post_metadata(post_dict):
   changed_metadata = False
   if post_dict["title"] not in posts_metadata:
     posts_metadata[post_dict["title"]] = {
-      "id": hex(random.SystemRandom().getrandbits(128))[2:-1],
+      "id": (post_dict["force_id"] if ("force_id" in post_dict) else hex(random.SystemRandom().getrandbits(128))[2:-1]),
       "date_posted": (post_dict["force_date"] if ("force_date" in post_dict) else datetime.date.today()),
     }
     changed_metadata = True
@@ -355,6 +368,9 @@ def post_metadata(post_dict):
     changed_metadata = True
   
   # allow me to set force_date later
+  if ("force_id" in post_dict) and (metadata["id"] != post_dict["force_id"]):
+    metadata["id"] = post_dict["force_id"]
+    changed_metadata = True
   if ("force_date" in post_dict) and (metadata["date_posted"] != post_dict["force_date"]):
     metadata["date_posted"] = post_dict["force_date"]
     changed_metadata = True
@@ -553,7 +569,7 @@ def post_is_on_latest_page(list_index, posts):
 
 def add_category_pages(page_dict, posts, category, tag_specific = None):
   if tag_specific:
-    tags_string = '/tags/'+tag_specific
+    tags_string = '/tags/'+utils.format_for_url(tag_specific)
     list_desc = tags.tags[tag_specific]
   else:
     tags_string = ''

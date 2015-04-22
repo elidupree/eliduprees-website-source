@@ -30,6 +30,6 @@ def format_for_url(string):
   
 def checked_insert(dicti, idx, contents):
   if idx in dicti:
-    raise "checked_insert fail: "+idx
+    raise Exception("checked_insert fail: "+idx)
   else:
     dicti[idx] = contents
