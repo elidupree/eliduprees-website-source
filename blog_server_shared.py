@@ -13,13 +13,13 @@ def grouped_string_regex(groupname):
 scrutinized_words = [
   {
     "words":["she","her","hers","herself","he","him","his","himself"],
-    "rationale_post":"Post 48"#TODO TODO
+    "rationale_post":"/blog/scrutinized-words-she-he",
   },
   {
     # Note: "womyn" form for completeness, because I've seen it used a bunch, not to scrutinize it in particular.
     # Note: "guy" omitted because it's also a name, but I want to include it.
     "words":["man","men","woman","women","womyn","wymyn","boy","boys","girl","girls"],
-    "rationale_post":"Post 48"#TODO TODO.
+    "rationale_post":"/blog/scrutinized-words-man-woman-boy-girl",
   },
 ]
 
@@ -36,7 +36,7 @@ def scrutinize_word(word):
   if info is None:
     return word
   else:
-    return '<a class="scrutiny" href="'+utils.format_for_url(info["rationale_post"])+'">'+word+'</a>'
+    return '<a class="scrutiny" href="'+utils.canonical_website_base+info["rationale_post"]+'">'+word+'</a>'
 
 # returns a string with the words replaced.
 # Note that this requires the post to have been cleaned up already (or it may choke on invalid quote structures).
@@ -69,7 +69,7 @@ def neurodiversity_link(post_string):
     elif quote_levels == 0:
       if match.group(0).lower() == "neurodiversity":
         pieces.append(post_string[amount_of_original_string_used:match.start(0)])
-        pieces.append('<a href="/blog/neurodiversity">'+match.group(0)+'</a>')
+        pieces.append('<a href="'+utils.canonical_website_base+'/blog/neurodiversity">'+match.group(0)+'</a>')
         amount_of_original_string_used = match.end(0)
         break
   return "".join(pieces+[post_string[amount_of_original_string_used:]])

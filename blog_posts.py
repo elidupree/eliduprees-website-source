@@ -3,8 +3,10 @@
 from __future__ import division
 
 import datetime
+import utils
 
 signature = "<p> &ndash; Eli</p>"
+website_base = utils.canonical_website_base
 
 
 posts = {
@@ -81,7 +83,7 @@ posts = {
     
 <h2>What's important to me</h2>
 
-<p>I am compelled to invent stories, and sometimes I write them as <a href="/stories">prose</a> or <a href="/comics">comics</a>. I enjoy figuring out how things work, then messing with them. I produce an unlimited supply of imagination, music, and philosophical thoughts. I like to design and play <a href="/games">games</a>. I use computers for most of the things I do.</p>
+<p>I am compelled to invent stories, and sometimes I write them as <a href="/stories">prose</a> or <a href="/comics">comics</a>. I enjoy figuring out how things work, then messing with them. I produce a lot of imagination, music, and philosophical thoughts. I like to design and play <a href="/games">games</a>. I use computers for most of the things I do.</p>
     
 <p>The world can be a pretty awful place. My main <strong>objective</strong> is to make the world a good place. If the world becomes a good place, I win. If it stays awful until the end of all sentient life, I lose.</p>
 
@@ -95,7 +97,7 @@ posts = {
 
 <p>I grew up on the Internet. Physically, I grew up in a suburban town in the US Northeast. I was raised by parents who nurtured most of my interests. I went to high-quality public schools, where many of the adults (and some children) mistreated me for my autistic traits and gender expression.</p>
 
-<p>I'm able-bodied. I'm not religious. I'm middle-class. I'm white. (I know there are times and places where I wouldn't be considered white, but I haven't been to any of those times and places, so that doesn't count.) I have no romantic or sexual attraction to people of any gender, but I do have sexual desires.</p>''',
+<p>I'm not religious. I'm middle-class. I'm white. I have no romantic or sexual attraction to people of any gender, but I do have sexual desires.</p>''',
 },
       
 ],

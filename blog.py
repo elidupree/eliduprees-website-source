@@ -163,6 +163,7 @@ div.comment_body_outer {
 div.user_comment>div.comment_hover_box {
   margin-left: '''+str(comment_indent_width)+'''em; }
 div.comment_body {
+  font-size: 125%;
   text-align: left;
   background-color: white;
   padding:0.5em '''+str(text_padding_width)+'''em; }
@@ -180,6 +181,8 @@ div.user_comment:hover>div.comment_body_hover_marker>*>div.comment_body {
   margin: -'''+comment_hover_border_width+''';
   border-left: '''+str(comment_indent_width)+'''em solid red;
   margin-left: -'''+str(comment_indent_width)+'''em; }
+div.comment_header {
+  padding-bottom: 0.5em; }
 span.reply_to_comment {
   display: none; }
 body.javascript_enabled span.reply_to_comment {
@@ -213,7 +216,7 @@ a.blog_end_link.nav.right {
 div.blog_index {
   padding: 0.4em 0; }
 div.index_entry {
-  padding: 0 0.6em; }
+  padding: 0.2em 0.6em; }
 a.sidebar_standalone_link {
   padding: 0.4em 0;
   display: block; }
@@ -407,7 +410,7 @@ def do_comments(parent, top_level):
     <div class="comment_body_hover_marker">
       <div class="comment_body_outer">
         <div class="comment_body">
-          <div><strong>'''+child["username"]+'</strong>'+utils.inline_separator+child["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a href="#'+child_id+'">Permalink</a><span class="reply_to_comment">'+utils.inline_separator+'''<a href="javascript:;" id="make_reply_button_'''+child_id+'''">Reply</a></span></div>
+          <div class="comment_header"><strong>'''+child["username"]+'</strong>'+utils.inline_separator+child["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a href="#'+child_id+'">Permalink</a><span class="reply_to_comment">'+utils.inline_separator+'''<a href="javascript:;" id="make_reply_button_'''+child_id+'''">Reply</a></span></div>
           '''+blog_server_shared.postprocess_post_string(child["contents"], child_id, None, False)[0]+'''
         </div>
         <div class="make_reply_box" id="make_reply_box_'''+child_id+'''"></div>
@@ -653,14 +656,16 @@ def add_category_pages(page_dict, posts, category, tag_specific = None):
       specific_sidebar_contents = sidebar_contents
       if category == "stories":
         specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''/discussion">Author's notes and comments for '''+post_dict["title"]+'''</a>'''+sidebar_contents
+      
       utils.checked_insert(page_dict,
         category+'/'+url_formatted_title(post_dict)+'.html',
         html_pages.make_page(
-          title_formatted_title(post_dict)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
+          title_formatted_title(post_dict)+("" if (category == "") else " ⊂ "+utils.capitalize_string(category))+" ⊂ Eli Dupree's website",
           "",
           "<script>window.elidupree.handle_content_warnings('"+post_dict["title"]+"', false)</script>"+make_blog_page_body(post_dict_html(post_dict, True), specific_sidebar_contents)
         )
       )
+        
       if category == "stories":
         disc_specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''">Return to '''+post_dict["title"]+'''</a>'''+sidebar_contents
         discussion_post = {
