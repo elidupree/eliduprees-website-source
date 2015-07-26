@@ -3,7 +3,7 @@
 from __future__ import division
 
 
-
+import hashlib
 #import scss
 
 global all_scss
@@ -49,8 +49,19 @@ def insert(scss_snippet):
   global all_scss
   all_scss = all_scss + "\n" + scss_snippet
   
+global old_scss_hash
+old_scss_hash = None
 def filename():
-  return "media/style.css"
+  #return "media/style.css"
+  global old_scss_hash
+  scss_hash = hashlib.md5(all_scss).hexdigest()
+  if old_scss_hash is None:
+    old_scss_hash = scss_hash
+  else:
+    if scss_hash != old_scss_hash:
+      raise Exception("Whoops! The CSS filename includes a hash of the file's contents, but the filename was queried twice, with more CSS having been added in between. That breaks the system.")
+    
+  return "media/style-"+scss_hash+".css"
 def build():
   return all_scss
   #return scss.parser.parse(all_scss)
