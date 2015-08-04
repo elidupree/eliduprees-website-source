@@ -18,6 +18,7 @@ import blog
 import category_pages
 import game_pages
 import comics
+import redirects
 
 def ensure_dir(d):
   if not os.path.exists(d):
@@ -53,6 +54,7 @@ category_pages.add_category_pages(page_dict)
 game_pages.add_game_pages(page_dict)
 comics.add_comic_pages(page_dict)
 rss.add_feed(page_dict)
+redirects.add_redirects(page_dict)
 
 for path,contents in page_dict.items():
   if False and path.endswith(".html"):

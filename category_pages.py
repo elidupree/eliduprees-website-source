@@ -226,7 +226,7 @@ def add_category_pages(page_dict):
     <a href="http://lasercake.net/" class="exhibit lasercake successor">
       <img class="exhibit lasercake left" alt="" src="http://www.lasercake.net/_cacheable/lasercake-snapshot-progressive.jpg" />
       <div class="exhibit_blurb">
-        Lasercake, an open-world game about the environment.
+        Lasercake, an (early prototype of an) open-world game about the environment.
       </div>
       <div class="exhibit_start_reading">Go to website</div>
     </a>
@@ -237,7 +237,7 @@ def add_category_pages(page_dict):
       </div>
       <div class="exhibit_start_reading">Go to website</div>
     </a>
-    <a href="/games/green-caves-game" class="exhibit greencaves successor">
+    <a href="/games/green-caves" class="exhibit greencaves successor">
       <img class="exhibit greencaves left" alt="" src="/media/green-caves-screenshot.png" />
       <div class="exhibit_blurb">
         A simple online game where you fly around in some green caves.
