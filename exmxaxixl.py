@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 
-# Stuff obfuscated in case someone is reading GitHub repositories with a spambot that looks for the word "email"
+# Stuff obfuscated in case someone is reading GitHub repositories with a spxam bot that looks for certain keywords
 
 axdxrxexsxs = 'web&#64;el&#105;dupree&#00046;&#99;om'
 def a(contents):
