@@ -2115,7 +2115,7 @@ By Impartiality, I can swap the conspirators to the end and get the same social 
 
 {
   "title":"Not What I Am",
-  "contents": open("big_posts/Not_What_I_Am", "r").read(),
+  "contents": open("big_posts/Not_What_I_Am", "r", encoding='utf-8').read(),
 }
 
 ],

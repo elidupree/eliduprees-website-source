@@ -9,7 +9,6 @@ import datetime
 import copy
 import json
 import hashlib
-import sys
 
 import css
 import javascript
@@ -349,9 +348,6 @@ def convert_for_json(posts_metadata, modify_date):
       result[k]["date_modified"] = modify_date(result[k]["date_modified"])
     if "date_posted" in result[k]:
       result[k]["date_posted"] = modify_date(result[k]["date_posted"])
-    # hack for python2...
-    if sys.version[0] == '2' and modify_date == string_to_date:
-      result[k]['id'] = result[k]['id'].encode('utf-8')
   return result
 
 def encode_for_json(posts_metadata):
@@ -364,8 +360,7 @@ comment_ids_by_parent = {}
 comments_by_id = {}
 posts_metadata = {}
 try:
-  #with open("posts_metadata.json", "r", encoding='utf-8') as p:
-  with open("posts_metadata.json", "r") as p:
+  with open("posts_metadata.json", "r", encoding='utf-8') as p:
     posts_metadata = decode_for_json(json.load(p))
 except(IOError):
   posts_metadata = {}
@@ -421,8 +416,7 @@ def post_metadata(post_dict):
   if changed_metadata:
     json.dump(
       encode_for_json(posts_metadata),
-      #open("posts_metadata.json", "w", encoding='utf-8'),
-      open("posts_metadata.json", "w"),
+      open("posts_metadata.json", "w", encoding='utf-8'),
       indent=True,
       sort_keys=True
       )

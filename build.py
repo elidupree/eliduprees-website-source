@@ -60,7 +60,7 @@ shutil.copy("./media/favicon.ico", "./build/favicon.ico")
 def putfile(path, contents):
   buildpath = "./build/"+path
   ensure_dir(os.path.dirname(buildpath))
-  f = open(buildpath, "w")
+  f = open(buildpath, "w", encoding='utf-8')
   f.write(contents)
 
 page_dict = {}

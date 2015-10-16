@@ -6,7 +6,7 @@ import utils
 
 global beforebody_js
 global afterbody_js
-afterbody_js = open("AjaxRequest.js", "r").read()
+afterbody_js = open("AjaxRequest.js", "r", encoding='utf-8').read()
 beforebody_js = r'''
 window.elidupree = {}
 document.body.className += ' javascript_enabled';
