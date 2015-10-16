@@ -5,7 +5,34 @@ from __future__ import division
 
 import os
 import os.path
+import sys
 import shutil
+import locale
+
+# always UTF-8, even on windows
+# the exec line seemingly didn't work, so:
+# doing it in the batch script instead
+#if locale.getpreferredencoding() != 'UTF-8':
+#  if 'PYTHONIOENCODING' in os.environ:
+#    # make sure any bugs here don't turn into infinite loops
+#    sys.stderr.write("encoding issue\n")
+#    exit(1)
+#  os.environ['PYTHONIOENCODING'] = 'UTF-8'
+#  os.execvpe(sys.argv[0], sys.argv, os.environ)
+# We gave up on getting even this to work:
+#if locale.getpreferredencoding() != 'UTF-8':
+#  sys.stderr.write(
+#    "encoding needs to be UTF-8\n" +
+#    "set PYTHONIOENCODING=UTF-8 environment variable to fix it\n" +
+#    "Currently: locale.getpreferredencoding() is " + str(locale.getpreferredencoding()) + "\n" +
+#    "and PYTHONIOENCODING is " + str(os.environ.get('PYTHONIOENCODING')))
+#  exit(1)
+
+# for now, change to the directory of this script
+# so that the relative paths in the website source
+# are relative to this script
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 import css
 import rss
