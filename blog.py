@@ -6,7 +6,9 @@ from __future__ import division
 import re
 import random
 import datetime
-import pickle
+import copy
+import json
+import hashlib
 
 import css
 import javascript
@@ -334,22 +336,59 @@ if (random_post_link) {
 ''')
 print ('TODO: say "random story" instead on stories pages')
 
+def date_to_string(d):
+  return d.strftime("%Y-%m-%d")
+def string_to_date(d):
+  return datetime.datetime.strptime(d, "%Y-%m-%d").date()
+
+def convert_for_json(posts_metadata, modify_date):
+  result = copy.deepcopy(posts_metadata)
+  for k in result:
+    if "date_modified" in result[k]:
+      result[k]["date_modified"] = modify_date(result[k]["date_modified"])
+    if "date_posted" in result[k]:
+      result[k]["date_posted"] = modify_date(result[k]["date_posted"])
+    # hack for python2...
+    if modify_date == string_to_date:
+      result[k]['id'] = result[k]['id'].encode('utf-8')
+  return result
+
+def encode_for_json(posts_metadata):
+  return convert_for_json(posts_metadata, date_to_string)
+def decode_for_json(posts_metadata):
+  return convert_for_json(posts_metadata, string_to_date)
+
+
 comment_ids_by_parent = {}
 comments_by_id = {}
 posts_metadata = {}
 try:
-  with open("posts_metadata.pkl", "rb") as p:
-    posts_metadata = pickle.load(p)
+  #with open("posts_metadata.json", "r", encoding='utf-8') as p:
+  with open("posts_metadata.json", "r") as p:
+    posts_metadata = decode_for_json(json.load(p))
 except(IOError):
   posts_metadata = {}
 
+def hash_for_testing_equality(x):
+  return hashlib.sha384(
+    json.dumps(x, sort_keys=True, separators=(',', ':')).encode('utf-8')
+  ).hexdigest()
+
 def remember_post_dict_entry(index, metadata, post_dict):
-  if (index in post_dict) and (("remembered_"+index not in metadata) or (post_dict[index] != metadata["remembered_"+index])):
-    metadata["remembered_"+index] = post_dict[index]
-    metadata["date_modified"] = datetime.date.today()
-    return True
+  """
+  Returns True if we had to change the metadata to
+  update it for new or changed post_dict data.
+  """
+  if index in post_dict:
+    remembered_data_hash = None
+    if "remembered_"+index in metadata:
+      remembered_data_hash = metadata["remembered_"+index]
+    current_data_hash = hash_for_testing_equality(post_dict[index])
+    if current_data_hash != remembered_data_hash:
+      metadata["remembered_"+index] = current_data_hash
+      metadata["date_modified"] = datetime.date.today()
+      return True
   return False
-  
 
 print("TODO: only update date posted(/modified?) when actually deploying the page, not building previews")
 
@@ -379,7 +418,13 @@ def post_metadata(post_dict):
     changed_metadata = True
   
   if changed_metadata:
-    pickle.dump(posts_metadata, open("posts_metadata.pkl", "wb"))
+    json.dump(
+      encode_for_json(posts_metadata),
+      #open("posts_metadata.json", "w", encoding='utf-8'),
+      open("posts_metadata.json", "w"),
+      indent=True,
+      sort_keys=True
+      )
   
   return metadata
 
