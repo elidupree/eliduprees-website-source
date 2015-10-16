@@ -436,6 +436,11 @@ def post_permalink(post_dict):
     return "/stories/"+utils.format_for_url(post_dict["parent_story"])+"/discussion"
   return "/"+post_dict["path_prefix"]+url_formatted_title(post_dict)
 
+def date_stringify(d):
+  #d.strftime("%B %-d, %Y")
+  # %- isn't available on Windows, so:
+  return re.sub('(?<= )0(?=[0-9])', '', d.strftime("%B %d, %Y"))
+
 def do_comments(parent, top_level):
   child_ids = comment_ids_by_parent[parent] if parent in comment_ids_by_parent else []
   html_list = []
@@ -450,7 +455,7 @@ def do_comments(parent, top_level):
     <div class="comment_body_hover_marker">
       <div class="comment_body_outer">
         <div class="comment_body">
-          <div class="comment_header"><strong>'''+child["username"]+'</strong>'+utils.inline_separator+child["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'<a href="#'+child_id+'">Permalink</a><span class="reply_to_comment">'+utils.inline_separator+'''<a href="javascript:;" id="make_reply_button_'''+child_id+'''">Reply</a></span></div>
+          <div class="comment_header"><strong>'''+child["username"]+'</strong>'+utils.inline_separator+date_stringify(child["date_posted"])+utils.inline_separator+'<a href="#'+child_id+'">Permalink</a><span class="reply_to_comment">'+utils.inline_separator+'''<a href="javascript:;" id="make_reply_button_'''+child_id+'''">Reply</a></span></div>
           '''+blog_server_shared.postprocess_post_string(child["contents"], child_id, None, False)[0]+'''
         </div>
         <div class="make_reply_box" id="make_reply_box_'''+child_id+'''"></div>
@@ -538,9 +543,9 @@ def metadata_and_comments_section_html(permalink, taglist, expand_comments, meta
   tags_str = ''
   if taglist:
     tags_str = 'Tags: '+(", ".join(tags.tag_link(tag) for tag in taglist))+utils.inline_separator
-  date_str = metadata["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator
+  date_str = date_stringify(metadata["date_posted"])+utils.inline_separator
   if metadata["date_modified"] != metadata["date_posted"]:
-    date_str = 'Posted '+metadata["date_posted"].strftime("%B %-d, %Y")+utils.inline_separator+'Last updated '+metadata["date_modified"].strftime("%B %-d, %Y")+utils.inline_separator
+    date_str = 'Posted '+date_stringify(metadata["date_posted"])+utils.inline_separator+'Last updated '+date_stringify(metadata["date_modified"])+utils.inline_separator
   
   return '''
 <div class="blog_post_metadata_outer">
