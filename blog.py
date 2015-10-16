@@ -9,6 +9,7 @@ import datetime
 import copy
 import json
 import hashlib
+import sys
 
 import css
 import javascript
@@ -349,7 +350,7 @@ def convert_for_json(posts_metadata, modify_date):
     if "date_posted" in result[k]:
       result[k]["date_posted"] = modify_date(result[k]["date_posted"])
     # hack for python2...
-    if modify_date == string_to_date:
+    if sys.version[0] == '2' and modify_date == string_to_date:
       result[k]['id'] = result[k]['id'].encode('utf-8')
   return result
 
