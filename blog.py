@@ -615,92 +615,99 @@ def post_is_on_latest_page(list_index, posts):
   first_on_this_page = list_index - (list_index % page_length)
   return len(posts) - first_on_this_page <= latest_page_max_posts
 
-def add_category_pages(page_dict, posts, category, tag_specific = None):
-  if tag_specific:
-    tags_string = '/tags/'+utils.format_for_url(tag_specific)
-    list_desc = tags.tags[tag_specific]
-  else:
-    tags_string = ''
-    list_desc = "All "+category+" posts" if category == "blog" else "All "+category
-    posts_by_tag = {}
-    for tag in tags.tags:
-      posts_by_tag[tag] = []
+posts_by_tag = {}
+for tag in tags.tags:
+  posts_by_tag[tag] = []
+for post_dict in blog_posts.posts ["blog"]:
+  if "tags" in post_dict:
+    for tag in post_dict["tags"]:
+      posts_by_tag[tag].append(post_dict)
+
+page_lists = {}
+def make_page_list (posts):
+  result = []
+  fixed_pages = max (0, (len (posts) - latest_page_max_posts + page_length - 1)//page_length)
+  for page_number in range (0, fixed_pages):
+    result.append ([posts [i] for i in range (page_number*page_length, page_number*page_length + page_length - 1)])
+  if len(posts) >0:
+    result.append ([posts [i] for i in range (fixed_pages*page_length, len(posts))])
+  return result
   
-  current_page_number = 1
-  current_page = []
-  index_entries = []
-  if category == "":
-    sidebar_contents = ''
-  else:
-    for i in range(0,len(posts)):
-      list_index = len(posts)-i-1
-      post_dict = posts[list_index]
-      if category == "blog" and list_index % page_length == page_length - 1 and not post_is_on_latest_page(list_index, posts):
-        page = (list_index+1)//page_length
-        index_entries.append('<div class="index_page_entry"><a href="/blog'+tags_string+'/page/'+str(page)+'">Page '+str(page)+'</a></div>')
-      index_entries.append(index_entry_html(post_dict))
-    index = ('<div class="blog_index">'
-      +'<a href="/'+category+tags_string+'">'+list_desc+'</a>:'
+page_lists ["blog"] = make_page_list (blog_posts.posts ["blog"])
+for tag in tags.tags:
+  page_lists [tag] = make_page_list (posts_by_tag [tag])
+
+def sidebar_with_entries (index_entries, header):
+  index = ('<div class="blog_index">'
+      + header
       +("\n".join(index_entries))
       +'</div>')
-    sidebar_contents = '<a class="random_post sidebar_standalone_link" id="random_post"></a>'+index
+  return '<a class="random_post sidebar_standalone_link" id="random_post"></a>'+index
+
+def page_list_sidebar (page_list, header, tags_string = ""):
+  index_entries = []
+  for page_number in range (len(page_list) - 1,-1,-1):
+    page = page_list [page_number]
+    if page_number <len( page_list) - 1:
+      index_entries.append('<div class="index_page_entry"><a href="/blog'+tags_string+'/page/'+str(page_number + 1 )+'">'+ date_stringify (post_metadata (page [0]) ["date_posted"]) + ' &ndash; ' + date_stringify (post_metadata (page [len( page) - 1]) ["date_posted"]) +'</a></div>')
+    for i in range (len(page) - 1, - 1, - 1):
+      post_dict = page [i]
+      index_entries.append(index_entry_html(post_dict))
+  return sidebar_with_entries (index_entries, header)
+
+sidebars = {}
+sidebars [""] = ""
+sidebars ["stories"] = sidebar_with_entries ([index_entry_html (post) for post in blog_posts.posts ["stories"]],'<a href="/stories">All stories</a>:')
+sidebars ["blog"] = page_list_sidebar (page_lists ["blog"], '<a href="/blog">All blog posts</a>:')
+for tag in tags.tags:
+  tags_string ='/tags/'+utils.format_for_url(tag)
+  sidebars [tag] = page_list_sidebar (page_lists[tag], '<a href="/blog'+tags_string+'">'+ tags.tags [tag] +'</a>:', tags_string)
+#for category, posts in blog_posts.posts.items ():
   
-  for i in range(0,len(posts)):
-    post_dict = posts[i]
-    current_page.append('<article>'+post_dict_html(post_dict, False)+'</article>')
-    
-    if category == "blog":
-      remaining_posts = len(posts) - i
-      on_latest_page = post_is_on_latest_page(i, posts)
-      print_older_page = ((len(current_page) >= page_length) and not on_latest_page)
-      print_latest_page = (i == len(posts) - 1)
-      if print_older_page and print_latest_page:
-        raise "This code is messed up somehow"
+def add_list_pages (page_dict, page_list, prefix, title, identifier):
+  for page_number in range (0,len( page_list)):
+    page = page_list [page_number]
+    if page_number ==len( page_list) - 1:
+      url_pagenum_string = ''
+    else:
+      url_pagenum_string = '/page/'+str(page_number + 1)
       
-      if on_latest_page:
-        url_pagenum_string = ''
-      else:
-        url_pagenum_string = '/page/'+str(current_page_number)
-      
-      if print_older_page or print_latest_page:
-        for page_order in ('','/chronological'):
+    for page_order in ('','/chronological'):
           end_links = ''
-          if current_page_number > 1:
-            end_links = (end_links+'<a href="/'+category+tags_string+'/page/'+str(current_page_number-1)+page_order+
+          if page_number > 0:
+            end_links = (end_links+'<a href="/'+ prefix+'/page/'+str(page_number)+page_order+
               '" rel="prev" class="blog_end_link nav">Older posts</a>')
-          if print_older_page:
-            end_links = (end_links+'<a href="/'+category+tags_string+('/page/'+str(current_page_number+1)+page_order if (remaining_posts > latest_page_max_posts) else page_order)+
+          if page_number <len( page_list) - 1:
+            end_links = (end_links+'<a href="/'+ prefix +('/page/'+str(page_number+2)+page_order if (page_number <len( page_list) - 2) else page_order)+
               '" rel="next" class="blog_end_link nav right">Newer posts</a>')
-          if current_page_number > 1:
+          
+          if (page_number >0) or ((page_order != '/chronological') and (len(page) > 1)):
+            page_string = ""
+            if len (page_list) >1:
+              page_string = "/page/1"            
+            label = "Read in chronological order"
+            
+            if page_number > 0:
+              label = "Go back to the beginning and read in chronological order"
             end_links = end_links+'''
   <div class="blog_end_links_2">
-    <a class="blog_end_link" href="'''+category+tags_string+'''/page/1/chronological">Go back to the beginning and read in chronological order</a>
-  </div>'''
-          elif (page_order != '/chronological') and (len(posts) > 1):
-            end_links = end_links+'''
-  <div class="blog_end_links_2">
-    <a class="blog_end_link" href="/blog'''+tags_string+'''/page/1/chronological">Read in chronological order</a>
+    <a class="blog_end_link" href="/'''+ prefix + page_string +'''/chronological">''' + label + '''</a>
   </div>'''
 
           utils.checked_insert(page_dict,
-            'blog'+tags_string+url_pagenum_string+page_order+'.html',
+            prefix +url_pagenum_string+page_order+'.html',
             html_pages.make_page(
-              (tags.tags[tag_specific]+' ⊂ ' if tag_specific else '')+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
+              title +" ⊂ Eli Dupree's website",
               "",
-              make_blog_page_body("\n".join(current_page if page_order == "/chronological" else reversed(current_page))+end_links, sidebar_contents)
+              make_blog_page_body("\n".join(['<article>'+post_dict_html(post_dict, False)+'</article>' for post_dict in (page if page_order == "/chronological" else reversed(page))]) +end_links, sidebars [identifier])
             )
           )
-        current_page = []
-        current_page_number += 1
-    
-    if not tag_specific:
-      if "tags" in post_dict:
-        for tag in post_dict["tags"]:
-          posts_by_tag[tag].append(post_dict)
-      
-      specific_sidebar_contents = sidebar_contents
+
+def add_individual_post_pages (page_dict, post_dict):
+      category =post_dict ["category"]
+      specific_sidebar_contents = sidebars [category]
       if category == "stories":
-        specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''/discussion">Author's notes and comments for '''+post_dict["title"]+'''</a>'''+sidebar_contents
+        specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''/discussion">Author's notes and comments for '''+post_dict["title"]+'''</a>'''+ specific_sidebar_contents
       
       utils.checked_insert(page_dict,
         category+'/'+url_formatted_title(post_dict)+'.html',
@@ -712,7 +719,7 @@ def add_category_pages(page_dict, posts, category, tag_specific = None):
       )
         
       if category == "stories":
-        disc_specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''">Return to '''+post_dict["title"]+'''</a>'''+sidebar_contents
+        disc_specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''">Return to '''+post_dict["title"]+'''</a>'''+sidebars [category]
         discussion_post = {
           "title": post_dict["title"]+": Discussion",
           "contents": '''<p>If you haven't read <a href="'''+post_permalink(post_dict)+'''">'''+post_dict["title"]+'''</a> yet, you should do that before reading further.</p>'''+(post_dict["authors_notes"] if "authors_notes" in post_dict else "<p>There are no author's notes yet.</p>"),
@@ -727,12 +734,20 @@ def add_category_pages(page_dict, posts, category, tag_specific = None):
             make_blog_page_body(post_dict_html(discussion_post, True), disc_specific_sidebar_contents)
           )
         )
-      
-        
-  if category == "blog" and not tag_specific:
-    for tagname,posts in posts_by_tag.items():
-      add_category_pages(page_dict, posts, "blog", tagname)
 
+#hack: this is supposed to appear at the end of blog_posts.py
+for cat,post_list in blog_posts.posts.items():
+  for post_dict in post_list:
+    post_dict["category"] = cat
+    
 def add_pages(page_dict):
-  for cat,posts in blog_posts.posts.items():
-    add_category_pages(page_dict, posts, cat)
+  add_list_pages(page_dict, page_lists ["blog"], "blog", "Blog", "blog")
+  for tag in tags.tags:
+    tags_string ='/tags/'+utils.format_for_url(tag)
+    add_list_pages (page_dict, page_lists [tag], "blog" + tags_string, tags.tags [tag], tag)
+
+
+  for cat,post_list in blog_posts.posts.items():
+    for post_dict in post_list:
+      add_individual_post_pages (page_dict, post_dict)
+
