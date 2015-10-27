@@ -1,12 +1,13 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 from __future__ import division
 
 
 import subprocess
+import shlex
 
 def gimp_batch(command):
-  commandp = "gimp --no-interface --batch='"+command+"' --batch='(gimp-quit 0)'"
+  commandp = "gimp --no-interface --batch="+shlex.quote(command)+" --batch='(gimp-quit 0)'"
   print("calling:\n"+commandp)
   out = subprocess.Popen(commandp, shell=True, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
   output = out.communicate()
