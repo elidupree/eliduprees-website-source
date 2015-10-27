@@ -88,5 +88,5 @@ def do_after_body(js_snippet):
 def add_files(page_dict):
   global beforebody_js
   global afterbody_js
-  utils.checked_insert(page_dict, 'before-body.js', beforebody_js)
-  utils.checked_insert(page_dict, 'after-body.js', afterbody_js)
+  utils.checked_insert(page_dict, '/before-body.js', beforebody_js)
+  utils.checked_insert(page_dict, '/after-body.js', afterbody_js)

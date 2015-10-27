@@ -167,7 +167,7 @@ def recent_page_link(num):
 
 def add_category_pages(page_dict):
   utils.checked_insert(page_dict,
-    'comics.html',
+    '/comics.html',
     html_pages.make_page(
       "Comics ⊂ Eli Dupree's website",
       '',
@@ -215,7 +215,7 @@ def add_category_pages(page_dict):
   
   print("TODO: reduce duplicate code between these three (and blog)'")
   utils.checked_insert(page_dict,
-    'games.html',
+    '/games.html',
     html_pages.make_page(
       "Games ⊂ Eli Dupree's website",
       '',
@@ -252,7 +252,7 @@ def add_category_pages(page_dict):
   
   print("TODO: reduce duplicate code between these three (and blog)'")
   utils.checked_insert(page_dict,
-    'stories.html',
+    '/stories.html',
     html_pages.make_page(
       "Stories ⊂ Eli Dupree's website",
       '',

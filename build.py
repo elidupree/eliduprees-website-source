@@ -51,15 +51,9 @@ def ensure_dir(d):
   if not os.path.exists(d):
     os.makedirs(d)
 
-def putfile(path, contents):
-  buildpath = "./build/"+path
-  ensure_dir(os.path.dirname(buildpath))
-  f = open(buildpath, "w", encoding='utf-8')
-  f.write(contents)
-
-
 def main():
-  ensure_dir("./build/media")
+  build_dir = "./build"
+  ensure_dir(os.path.join(build_dir, "media"))
   media_dir = "./media/"
   media_subdirs = os.listdir(media_dir)
   for media_subdir in media_subdirs:
@@ -67,14 +61,16 @@ def main():
     for media_filename in media_filenames:
       shutil.copy(
         os.path.join(media_dir, media_subdir, media_filename),
-        "./build/media/"+media_filename)
-  shutil.copy("./build/media/favicon.ico", "./build/favicon.ico")
+        os.path.join(build_dir, "media", media_filename))
+  shutil.copy(
+    os.path.join(build_dir, "media/favicon.ico"),
+    os.path.join(build_dir, "favicon.ico"))
   page_dict = {}
 
-  utils.checked_insert(page_dict, css.filename(), css.build())
+  utils.checked_insert(page_dict, css.domain_relative_url(), css.build())
 
   # for test builds:
-  utils.checked_insert(page_dict, "robots.txt", '''User-agent: *
+  utils.checked_insert(page_dict, "/robots.txt", '''User-agent: *
 Disallow: /''')
 
   bars.add_home_page(page_dict)
@@ -93,7 +89,11 @@ Disallow: /''')
       vld.validate_fragment(contents)
       print(vld.errors)
       print(vld.warnings)
-    putfile(path,contents)
+    assert(path[0] == '/')
+    buildpath = build_dir + path
+    ensure_dir(os.path.dirname(buildpath))
+    f = open(buildpath, "w", encoding='utf-8')
+    f.write(contents)
 
 if __name__ == '__main__':
   main()

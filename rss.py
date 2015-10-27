@@ -57,7 +57,7 @@ def add_feed(page_dict):
     ''')
   
   utils.checked_insert(page_dict,
-    'atom.xml',
+    '/atom.xml',
     '''<?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom">

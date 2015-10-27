@@ -163,7 +163,7 @@ when their “opponent” is too tied up to reach the board.
 
 def add_game_pages(page_dict):
   utils.checked_insert(page_dict,
-    'hexy.html',
+    '/hexy.html',
     html_pages.make_page(
       "Hexy Bondage ⊂ Eli Dupree's website",
       '',
@@ -171,7 +171,7 @@ def add_game_pages(page_dict):
     )
   )
   utils.checked_insert(page_dict,
-    'hexy-thank-you.html',
+    '/hexy-thank-you.html',
     html_pages.make_page(
       "Hexy Bondage ⊂ Eli Dupree's website",
       '',

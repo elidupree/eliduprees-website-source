@@ -14,7 +14,7 @@ def make_page(title, head_stuff, body_stuff, extras = {}):
     <meta charset="utf-8" />
     <title>'''+title+'''</title>
     <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="stylesheet" type="text/css" href="/'''+css.filename()+'''">
+    <link rel="stylesheet" type="text/css" href="'''+css.domain_relative_url()+'''">
     <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="RSS (Atom) feed" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
     '''+head_stuff+'''

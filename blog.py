@@ -434,7 +434,7 @@ for comment in comments.comments:
 def post_permalink(post_dict):
   if "parent_story" in post_dict:
     return "/stories/"+utils.format_for_url(post_dict["parent_story"])+"/discussion"
-  return "/"+post_dict["path_prefix"]+url_formatted_title(post_dict)
+  return post_dict["path_prefix"]+url_formatted_title(post_dict)
 
 def date_stringify(d):
   #d.strftime("%B %-d, %Y")
@@ -494,7 +494,7 @@ def secondary_hidden_cw_box(contents):
   </div>'''
 
 def post_dict_html(post_dict, expand_comments):
-  return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["path_prefix"] == "stories/" else expand_comments, post_metadata(post_dict), post_dict["path_prefix"] != "stories/")
+  return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else expand_comments, post_metadata(post_dict), post_dict["category"] != "stories")
 
 def post_html(contents, title, permalink, taglist, expand_comments, metadata, scrutinize = True):
   post_content = blog_server_shared.postprocess_post_string(contents, metadata["id"], title, False, scrutinize)[0]
@@ -675,10 +675,10 @@ def add_list_pages (page_dict, page_list, prefix, title, identifier):
     for page_order in ('','/chronological'):
           end_links = ''
           if page_number > 0:
-            end_links = (end_links+'<a href="/'+ prefix+'/page/'+str(page_number)+page_order+
+            end_links = (end_links+'<a href="'+ prefix+'/page/'+str(page_number)+page_order+
               '" rel="prev" class="blog_end_link nav">Older posts</a>')
           if page_number <len( page_list) - 1:
-            end_links = (end_links+'<a href="/'+ prefix +('/page/'+str(page_number+2)+page_order if (page_number <len( page_list) - 2) else page_order)+
+            end_links = (end_links+'<a href="'+ prefix +('/page/'+str(page_number+2)+page_order if (page_number <len( page_list) - 2) else page_order)+
               '" rel="next" class="blog_end_link nav right">Newer posts</a>')
           
           if (page_number >0) or ((page_order != '/chronological') and (len(page) > 1)):
@@ -691,7 +691,7 @@ def add_list_pages (page_dict, page_list, prefix, title, identifier):
               label = "Go back to the beginning and read in chronological order"
             end_links = end_links+'''
   <div class="blog_end_links_2">
-    <a class="blog_end_link" href="/'''+ prefix + page_string +'''/chronological">''' + label + '''</a>
+    <a class="blog_end_link" href="'''+ prefix + page_string +'''/chronological">''' + label + '''</a>
   </div>'''
 
           utils.checked_insert(page_dict,
@@ -710,7 +710,7 @@ def add_individual_post_pages (page_dict, post_dict):
         specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''/discussion">Author's notes and comments for '''+post_dict["title"]+'''</a>'''+ specific_sidebar_contents
       
       utils.checked_insert(page_dict,
-        category+'/'+url_formatted_title(post_dict)+'.html',
+        post_dict["path_prefix"]+url_formatted_title(post_dict)+'.html',
         html_pages.make_page(
           title_formatted_title(post_dict)+("" if (category == "") else " ⊂ "+utils.capitalize_string(category))+" ⊂ Eli Dupree's website",
           "",
@@ -724,10 +724,10 @@ def add_individual_post_pages (page_dict, post_dict):
           "title": post_dict["title"]+": Discussion",
           "contents": '''<p>If you haven't read <a href="'''+post_permalink(post_dict)+'''">'''+post_dict["title"]+'''</a> yet, you should do that before reading further.</p>'''+(post_dict["authors_notes"] if "authors_notes" in post_dict else "<p>There are no author's notes yet.</p>"),
           "parent_story": post_dict["title"],
-          "path_prefix": "", # Not treated as a story.
+          "category": "" # Not treated as a story.
         }
         utils.checked_insert(page_dict,
-          category+'/'+url_formatted_title(post_dict)+'/discussion.html',
+          post_dict["path_prefix"]+url_formatted_title(post_dict)+'/discussion.html',
           html_pages.make_page(
             title_formatted_title(discussion_post)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
             "",
@@ -741,10 +741,10 @@ for cat,post_list in blog_posts.posts.items():
     post_dict["category"] = cat
     
 def add_pages(page_dict):
-  add_list_pages(page_dict, page_lists ["blog"], "blog", "Blog", "blog")
+  add_list_pages(page_dict, page_lists ["blog"], "/blog", "Blog", "blog")
   for tag in tags.tags:
     tags_string ='/tags/'+utils.format_for_url(tag)
-    add_list_pages (page_dict, page_lists [tag], "blog" + tags_string, tags.tags [tag], tag)
+    add_list_pages (page_dict, page_lists [tag], "/blog" + tags_string, tags.tags [tag], tag)
 
 
   for cat,post_list in blog_posts.posts.items():

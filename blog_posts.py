@@ -2160,7 +2160,7 @@ By Impartiality, I can swap the conspirators to the end and get the same social 
 
 for cat,post_list in posts.items():
   for post_dict in post_list:
-    post_dict["path_prefix"] = "" if cat=="" else cat+"/"
+    post_dict["path_prefix"] = "/" if cat=="" else "/"+cat+"/"
     post_dict["category"] = cat
 
 """

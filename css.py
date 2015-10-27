@@ -51,9 +51,9 @@ def insert(scss_snippet):
   
 #global old_scss_hash
 #old_scss_hash = None
-def filename():
+def domain_relative_url():
   # for now, not changing anything about the filename:
-  return "media/style.css"
+  return "/media/style.css"
   #global old_scss_hash
   #scss_hash = hashlib.md5(all_scss).hexdigest()
   #if old_scss_hash is None:
