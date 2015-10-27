@@ -300,7 +300,7 @@ def comic_image_url(page, ext = ''):
 
 def comic_thumbnail_url(page):
   print ("comic_thumbnail_url is deprecated")
-  return '/media/'+comics_metadata[page["comic_id"]]["abbr"]+'_'+str(page["list_index"])+'_thumbnail.png'
+  return '/media/'+comics_metadata[page["comic_id"]]["abbr"]+'_'+str(page["list_index"])+'_thumbnail_top.png'
 
 def last_comic_thumbnail_url():
   return comic_thumbnail_url(comics_pages["voldemorts_children"][len(comics_pages["voldemorts_children"]) - 1])
