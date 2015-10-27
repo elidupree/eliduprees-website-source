@@ -60,10 +60,15 @@ def putfile(path, contents):
 
 def main():
   ensure_dir("./build/media")
-  media_filenames = os.listdir("./media")
-  for media_filename in media_filenames:
-    shutil.copy("./media/"+media_filename, "./build/media/"+media_filename)
-  shutil.copy("./media/favicon.ico", "./build/favicon.ico")
+  media_dir = "./media/"
+  media_subdirs = os.listdir(media_dir)
+  for media_subdir in media_subdirs:
+    media_filenames = os.listdir(os.path.join(media_dir, media_subdir))
+    for media_filename in media_filenames:
+      shutil.copy(
+        os.path.join(media_dir, media_subdir, media_filename),
+        "./build/media/"+media_filename)
+  shutil.copy("./build/media/favicon.ico", "./build/favicon.ico")
   page_dict = {}
 
   utils.checked_insert(page_dict, css.filename(), css.build())

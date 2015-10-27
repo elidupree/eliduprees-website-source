@@ -19,13 +19,14 @@ def generate_vc_images(xcf_basename, page_number):
   generate_images("/n/art/voldemorts_children/", xcf_basename+".xcf", "VC_"+str(page_number))
 
 def generate_images(infile_path, infile_base, outfile_base):
+  output_dir = "./media/generated_from_source_files/"
   infile = infile_path+infile_base
   page_outfile_base = outfile_base+".png"
-  page_outfile = "./build/media/"+page_outfile_base
+  page_outfile = output_dir+page_outfile_base
   thumbnail_top_outfile_base = outfile_base+"_thumbnail_top.png"
-  thumbnail_top_outfile = "./build/media/"+thumbnail_top_outfile_base
+  thumbnail_top_outfile = output_dir+thumbnail_top_outfile_base
   thumbnail_full_outfile_base = outfile_base+"_thumbnail_full.png"
-  thumbnail_full_outfile = "./build/media/"+thumbnail_full_outfile_base
+  thumbnail_full_outfile = output_dir+thumbnail_full_outfile_base
   
   gimp_batch('''
 (let* (
