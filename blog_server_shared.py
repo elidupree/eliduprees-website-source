@@ -36,7 +36,7 @@ def scrutinize_word(word):
   if info is None:
     return word
   else:
-    return '<a class="scrutiny" href="'+utils.canonical_website_base+info["rationale_post"]+'">'+word+'</a>'
+    return '<a class="scrutiny" href="'+info["rationale_post"]+'">'+word+'</a>'
 
 # returns a string with the words replaced.
 # Note that this requires the post to have been cleaned up already (or it may choke on invalid quote structures).
@@ -69,7 +69,7 @@ def neurodiversity_link(post_string):
     elif quote_levels == 0:
       if match.group(0).lower() == "neurodiversity":
         pieces.append(post_string[amount_of_original_string_used:match.start(0)])
-        pieces.append('<a href="'+utils.canonical_website_base+'/blog/neurodiversity">'+match.group(0)+'</a>')
+        pieces.append('<a href="/blog/neurodiversity">'+match.group(0)+'</a>')
         amount_of_original_string_used = match.end(0)
         break
   return "".join(pieces+[post_string[amount_of_original_string_used:]])

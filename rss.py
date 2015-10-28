@@ -19,7 +19,7 @@ def add_feed(page_dict):
   author = '''<author>
     <name>Eli Dupree</name>
     <'''+'e'+'m'+'a'+'i'+'l'+'>'+exmxaxixl.axdxrxexsxs+'</'+'e'+'m'+'a'+'i'+'l'+'''>
-    <uri>'''+utils.canonical_website_base+'''/</uri>
+    <uri>'''+utils.canonical_scheme_and_domain+'''/</uri>
   </author>'''
   
   print ("TODO: include stories, non-VC comics in feed")
@@ -35,23 +35,23 @@ def add_feed(page_dict):
       post_string = post_html(post_dict, True)
       link = blog.post_permalink(post_dict)
       # make internal links work in the feed
-      post_string = re.sub(r'( href=")/', lambda match: match.group(1)+utils.canonical_website_base+'/', post_string)
+      post_string = re.sub(r'( (?:href|src)=")/', lambda match: match.group(1)+utils.canonical_scheme_and_domain+'/', post_string)
       blog_idx = blog_idx - 1
     else:
       post_dict = vc_post
       title = 'Voldemort\'s Children, Page '+str(vc_idx)
       link = comics.page_url(post_dict)
-      post_string = '<a href="'+utils.canonical_website_base+link+'">New page of Voldemort\'s Children</a>'
+      post_string = '<a href="'+utils.canonical_scheme_and_domain+link+'">New page of Voldemort\'s Children</a>'
       vc_idx = vc_idx - 1
     metadata = blog.post_metadata(post_dict)
     
     entries.append('''
     <entry>
-      <id>'''+utils.canonical_website_base+link+'''</id>
+      <id>'''+utils.canonical_scheme_and_domain+link+'''</id>
       <title type="html">'''+cgi.escape(title)+'''</title>
       <updated>'''+atom_time(metadata["date_modified"])+'''</updated>
       '''+author+'''
-      <link rel="alternate" href="'''+utils.canonical_website_base+link+'''" />
+      <link rel="alternate" href="'''+utils.canonical_scheme_and_domain+link+'''" />
       <content type="html">'''+cgi.escape(post_string)+'''</content>
     </entry>
     ''')
@@ -61,7 +61,7 @@ def add_feed(page_dict):
     '''<?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://www.elidupree.com/</id>
+  <id>'''+utils.canonical_scheme_and_domain+'''/</id>
   <title>Eli Dupree's website</title>
   <updated>'''+atom_time(datetime.datetime.utcnow())+'''</updated>
   '''+author+'''

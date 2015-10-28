@@ -11,7 +11,7 @@ import blog
 css.insert('''
 body.hexy .bars_outer_box {
   background-color: #878787;
-  background-image: url(http://deqyc5bzdh53a.cloudfront.net/hexy_bondage_page_background.jpg); }
+  background-image: url("/media/hexy_bondage_page_background.jpg?rr"); }
 
 div.hexy_content h1{ font-size: 200%; font-weight: bold; padding-top: 0.20em; }
 div.hexy_content h2{ font-size: 150%; font-weight: bold; padding-top: 0.30em; }
@@ -105,12 +105,12 @@ and some paths. The paths can be used to connect icons together. Connections cau
 things to happen in real life, like tying your body parts together. A player wins
 when their “opponent” is too tied up to reach the board.
   </p>
-  <p><a class="lesswrap" href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage_rules.pdf">Read the full rules (pdf)</a></p>
+  <p><a class="lesswrap" href="/hexy/hexy-bondage-rules.pdf">Read the full rules (pdf)</a></p>
 </div>
 </div>
 <div class="bigbox_outer">
 <div class="bigbox">
-  <div class="fake_p">Tiles (print them, cut them out): <a class="lesswrap" href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage_tiles.pdf">Download tiles</a> and/or 
+  <div class="fake_p">Tiles (print them, cut them out): <a class="lesswrap" href="/hexy/hexy-bondage-tiles.pdf">Download tiles</a> and/or 
   
 <!-- Notes: The PayPal button code modified as follows:
   Remove the table structure and the visible ":"
@@ -141,14 +141,22 @@ when their “opponent” is too tied up to reach the board.
 <div class="bigbox_outer">
 <div class="bigbox">
   <h2>Extras:</h2>
-  <p>Tile sheets for extra players: <a class="lesswrap" href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage/green.pdf">green checkers</a>, <a class="lesswrap" href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage/pink.pdf">pink polka dots</a>, <a class="lesswrap" href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage/blue.pdf">blue waves</a>, <a class="lesswrap" href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage/purple.pdf">purple stripes</a></p>
-  <p>Black-and-white versions of tiles for extra players: <a href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage/bw_checkers.pdf">checkers</a>, <a href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage/bw_polkadots.pdf">polka dots</a>, <a href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage/bw_waves.pdf">waves</a>, <a href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage/bw_stripes.pdf">stripes</a></p>
-  <p><a href="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage/blank_sheet.pdf">Sheet of blank tiles</a></p>
+  <p>Tile sheets for extra players:
+    <a class="lesswrap" href="/hexy/hexy-bondage-extra-tiles-green.pdf">green checkers</a>,
+    <a class="lesswrap" href="/hexy/hexy-bondage-extra-tiles-pink.pdf">pink polka dots</a>,
+    <a class="lesswrap" href="/hexy/hexy-bondage-extra-tiles-blue.pdf">blue waves</a>,
+    <a class="lesswrap" href="/hexy/hexy-bondage-extra-tiles-purple.pdf">purple stripes</a></p>
+  <p>Black-and-white versions of tiles for extra players:
+    <a href="/hexy/hexy-bondage-extra-tiles-checkers.pdf">checkers</a>,
+    <a href="/hexy/hexy-bondage-extra-tiles-polkadots.pdf">polka dots</a>,
+    <a href="/hexy/hexy-bondage-extra-tiles-waves.pdf">waves</a>,
+    <a href="/hexy/hexy-bondage-extra-tiles-stripes.pdf">stripes</a></p>
+  <p><a href="/hexy/hexy-bondage-blank-tiles.pdf">Sheet of blank tiles</a></p>
 </div>
 </div>
 <div class="bigbox_outer narrower">
 <div class="bigbox narrower">
-  <p>Hexy Bondage is a creation of <a class="lesswrap" href="http://www.elidupree.com/" xmlns:cc="http://creativecommons.org/ns#" href="http://www.elidupree.com/" property="cc:attributionName" rel="cc:attributionURL">Eli Dupree.</a><br />Contact Eli to report any issues, no matter how minor:<br />'''+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'''</p>
+  <p>Hexy Bondage is a creation of <a class="lesswrap" href="/" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Eli Dupree.</a><br />Contact Eli to report any issues, no matter how minor:<br />'''+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'''</p>
   <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hexy Bondage</span> is licensed under a<br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
   </p>
 </div>

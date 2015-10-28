@@ -585,7 +585,7 @@ def index_entry_html(post_dict):
 def make_blog_page_body(main_contents, sidebar_contents):
   return '''
   <a class="skip" href="#content">Skip to content</a><a class="skip" href="#blog-sidebar">Skip to blog sidebar</a>
-  <div><img role="presentation" alt="" class="background" src="/media/colorful-background.jpg" /></div>
+  <div><img role="presentation" alt="" class="background" src="/media/colorful-background.jpg?rr" /></div>
   '''+bars.bars_wrap({"blog":True}, '''
     <main>
       <div id="content" class="blog_page">

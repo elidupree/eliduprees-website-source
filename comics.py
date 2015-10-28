@@ -296,11 +296,11 @@ def comic_image_url(page, ext = ''):
     ext = '_'+ext
   else:
     ext = ''
-  return '/media/'+meta["abbr"]+'_'+str(page["list_index"]+meta["image_url_offset"])+ext+'.png'
+  return '/media/'+meta["abbr"]+'_'+str(page["list_index"]+meta["image_url_offset"])+ext+'.png?rr'
 
 def comic_thumbnail_url(page):
   print ("comic_thumbnail_url is deprecated")
-  return '/media/'+comics_metadata[page["comic_id"]]["abbr"]+'_'+str(page["list_index"])+'_thumbnail_top.png'
+  return '/media/'+comics_metadata[page["comic_id"]]["abbr"]+'_'+str(page["list_index"])+'_thumbnail_top.png?rr'
 
 def last_comic_thumbnail_url():
   return comic_thumbnail_url(comics_pages["voldemorts_children"][len(comics_pages["voldemorts_children"]) - 1])
@@ -425,7 +425,7 @@ def comic_navbar(prev_page, next_page):
       else:
         extra_class = extra_class+' no_content_warning'
       if "arrow_images" in comics_metadata[page["comic_id"]]:
-        button = '<img class="comic_nav_button_main'+extra_class+'" alt="'+big_string+'" src="/media/'+comics_metadata[page["comic_id"]]["abbr"]+'-arrow-'+string+'.png">'
+        button = '<img class="comic_nav_button_main'+extra_class+'" alt="'+big_string+'" src="/media/'+comics_metadata[page["comic_id"]]["abbr"]+'-arrow-'+string+'.png?rr">'
       else:
         button = '<span class="comic_nav_button_main'+extra_class+'">'+big_string+'</span>'
       inner_link = (

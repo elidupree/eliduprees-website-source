@@ -38,10 +38,10 @@ div.bottom_bar {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   background-color: black;
-  background-image: url("/media/top-bar-background.png");
+  background-image: url("/media/top-bar-background.png?rr");
   background-size: 100% 100%; }
 .voldemorts_children div.bottom_bar {
-  background-image: url("/media/top-bar-background-vc.png"); }
+  background-image: url("/media/top-bar-background-vc.png?rr"); }
 div.bottom_bar_inner {
   padding: 0.25em;
 }
@@ -182,7 +182,7 @@ div.home_page_buffer span.top_bar_home_text {
 ''')
 
 def bottom_bar_contents(info):
-  return 'Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl bottom_bar_short">Contact: '+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'</address>'+utils.inline_separator+'<a class="bottom_bar_short" href="/about-eli">About Eli</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/policies">Policies</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/atom.xml"><img src="/media/feed-icon-14x14.png"> RSS (Atom)</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a>'
+  return 'Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl bottom_bar_short">Contact: '+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'</address>'+utils.inline_separator+'<a class="bottom_bar_short" href="/about-eli">About Eli</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/policies">Policies</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/atom.xml"><img src="/media/feed-icon-14x14.png?rr"> RSS (Atom)</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a>'
 def bottom_bar(info):
   return '<footer><div id="footer" class="bottom_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'"><div class="bottom_bar_inner">'+bottom_bar_contents(info)+'</div></div></footer>'
 
@@ -204,7 +204,7 @@ def add_home_page(page_dict):
       "Eli Dupree's website",
       '',
       '''
-        <div><img role="presentation" alt="" class="background" src="/media/top-bar-background.png" /></div>
+        <div><img role="presentation" alt="" class="background" src="/media/top-bar-background.png?rr" /></div>
         <div class="home_page_buffer">
           '''+top_bar.home_string(True)+'''
         </div>

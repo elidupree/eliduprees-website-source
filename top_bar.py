@@ -37,10 +37,10 @@ div.top_bar {
   width: 100%; min-height:'''+str(bar_height)+'''em;
   font-family: Arial, Helvetica, sans-serif;
   background-color: black;
-  background-image: url("/media/top-bar-background.png");
+  background-image: url("/media/top-bar-background.png?rr");
   background-size: 100% 100%; }
 .voldemorts_children div.top_bar {
-  background-image: url("/media/top-bar-background-vc.png"); }
+  background-image: url("/media/top-bar-background-vc.png?rr"); }
 
 div.top_bar_home {
   position:absolute;
@@ -79,10 +79,10 @@ span.top_bar_category {
   border-radius:'''+str(button_border_radius)+'''em;
   vertical-align: bottom; } /* since it's an inline-block, we need this to stop it from creating a gutter for potential descenders */
 span.top_bar_category.games {
-  background-image: url("/media/green-caves-thumbnail.png");
+  background-image: url("/media/green-caves-thumbnail.png?rr");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category.stories {
-  background-image: url("http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png");
+  background-image: url("/media/NWIA_thumbnail.png?rr");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
 span.top_bar_category.comics {
   background-image: url("'''+comics.last_comic_thumbnail_url()+'''");
@@ -179,7 +179,7 @@ a.top_bar_subscribe_link {
 ''')
 
 def home_string(you_are_here):
-  return '''<div class="top_bar_home"><a href="/"><img alt="The website icon, a smiling face with a wizard hat and a broken version of the 'male' and 'female' symbols." class="top_bar_home_image" src="/media/site-logo-transparent-nosides.png" /><span class="top_bar_home_text">Eli Dupree's website</span></a></div>'''
+  return '''<div class="top_bar_home"><a href="/"><img alt="The website icon, a smiling face with a wizard hat and a broken version of the 'male' and 'female' symbols." class="top_bar_home_image" src="/media/site-logo-transparent-nosides.png?rr" /><span class="top_bar_home_text">Eli Dupree's website</span></a></div>'''
 def games_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/games"><span class="top_bar_category games"><span class="top_bar_category_text">Games</span></span></a>'''
 def comics_string(you_are_here):

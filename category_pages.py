@@ -172,7 +172,7 @@ def add_category_pages(page_dict):
       "Comics ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
-      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg" /></div>
+      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg?rr" /></div>
       '''+bars.bars_wrap({"comics":True}, '''<main>
   <div id="content">
     <div class="recent_pages">
@@ -186,7 +186,7 @@ def add_category_pages(page_dict):
       '''+recent_page_link(4)+'''
     </div>
     <a href="/voldemorts-children" class="exhibit vc">
-      <img class="exhibit vc left" alt="" src="/media/VC_0.png" />
+      <img class="exhibit vc left" alt="" src="/media/VC_0.png?rr" />
       <div class="exhibit_blurb">
         <p>What if Dumbledore's idea of placing Harry Potter with an abusive family didn't turn out so well?</p>
         <span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.
@@ -194,14 +194,14 @@ def add_category_pages(page_dict):
       <div class="exhibit_start_reading">Start reading</div>
     </a>
     <a href="/people-are-wrong-sometimes" class="exhibit paws successor">
-      <img class="exhibit paws right" alt="" src="http://deqyc5bzdh53a.cloudfront.net/PAWS_thumbnail.png" />
+      <img class="exhibit paws right" alt="" src="/media/PAWS_thumbnail.png?rr" />
       <div class="exhibit_blurb">
         In <span class="title">People Are Wrong Sometimes</span>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)
       </div>
       <div class="exhibit_start_reading">Start reading</div>
     </a>
     <a href="/a-couple-of-badass-superheroes" class="exhibit acobs successor">
-      <img class="exhibit acobs left" alt="" src="http://deqyc5bzdh53a.cloudfront.net/ACOBS_thumbnail.png" />
+      <img class="exhibit acobs left" alt="" src="/media/ACOBS_thumbnail.png?rr" />
       <div class="exhibit_blurb">
         <span class="title">A Couple of Badass Superheroes</span> go on a silly adventure. I wrote the first part September-December 2011 to get used to drawing using my tablet. (10 pages)
       </div>
@@ -220,25 +220,25 @@ def add_category_pages(page_dict):
       "Games ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
-      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg" /></div>
+      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg?rr" /></div>
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
     <a href="http://lasercake.net/" class="exhibit lasercake successor">
-      <img class="exhibit lasercake left" alt="" src="http://www.lasercake.net/_cacheable/lasercake-snapshot-progressive.jpg" />
+      <img class="exhibit lasercake left" alt="" src="/media/lasercake-snapshot-progressive.jpg?rr" />
       <div class="exhibit_blurb">
         Lasercake, an (early prototype of an) open-world game about the environment.
       </div>
       <div class="exhibit_start_reading">Go to website</div>
     </a>
     <a href="/hexy" class="exhibit hexy successor">
-      <img class="exhibit hexy right" alt="" src="http://deqyc5bzdh53a.cloudfront.net/hexy_bondage_page_background.jpg" />
+      <img class="exhibit hexy right" alt="" src="/media/hexy_bondage_page_background.jpg?rr" />
       <div class="exhibit_blurb">
         Hexy Bondage, a sexual board game for two or more players.
       </div>
       <div class="exhibit_start_reading">Go to website</div>
     </a>
     <a href="/games/green-caves" class="exhibit greencaves successor">
-      <img class="exhibit greencaves left" alt="" src="/media/green-caves-screenshot.png" />
+      <img class="exhibit greencaves left" alt="" src="/media/green-caves-screenshot.png?rr" />
       <div class="exhibit_blurb">
         A simple online game where you fly around in some green caves.
       </div>
@@ -257,11 +257,11 @@ def add_category_pages(page_dict):
       "Stories ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
-      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg" /></div>
+      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg?rr" /></div>
       '''+bars.bars_wrap({"stories":True}, '''<main>
   <div id="content">
     <a href="/stories/not-what-i-am" class="exhibit nwia successor">
-      <img class="exhibit nwia left" alt="" src="http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png" />
+      <img class="exhibit nwia left" alt="" src="/media/NWIA_thumbnail.png?rr" />
       <div class="exhibit_blurb">
         <h1>Not What I Am</h1>
         An out-of-place middle schooler tries to find zir way in the world.
@@ -269,7 +269,7 @@ def add_category_pages(page_dict):
       <div class="exhibit_start_reading">Start reading</div>
     </a>
     <a href="/stories/capitalism-sat" class="exhibit fadeout successor">
-      <img class="exhibit_fadeout" alt="" src="/media/fade-to-black.png" />
+      <img class="exhibit_fadeout" alt="" src="/media/fade-to-black.png?rr" />
       <div class="exhibit_blurb">
         <h1>Capitalism Sat</h1>
         <p>...in Plato's cave, watching the shadows. Outside, ze knew, there were people buying and selling. Capitalism saw them trading goods for goods, services for services. And oh, most beautiful of all, the exchange of goods for services, whereon the economy turns. What supplies! What demand! Capitalism blushed to think of it all.</p>
@@ -279,7 +279,7 @@ def add_category_pages(page_dict):
       <div class="exhibit_start_reading">Keep reading</div>
     </a>
     <a class="exhibit successor">
-      <img class="exhibit left" alt="" src="http://deqyc5bzdh53a.cloudfront.net/NWIA_thumbnail.png" />
+      <img class="exhibit left" alt="" src="/media/NWIA_thumbnail.png?rr" />
       <div class="exhibit_blurb">
         More stories coming at some point in the future
       </div>

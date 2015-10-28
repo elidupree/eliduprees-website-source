@@ -1216,7 +1216,7 @@ Also, think about what people would have said to Granger after ze was attacked b
   "username":"Eli Dupree",
   "contents":"""It should! However, for about a month, I've had a hand/wrist injury that prevents me from doing much drawing or typing. VC is on hiatus until I recover.<br/><br/>
 
-You can get notified when I post again by going to <a href="http://www.elidupree.com/main/blog">the blog view</a> and using the control panel (see the buttons in the left sidebar) to add an e-mail address and then choose notification settings for it. (Or you can use my RSS/Atom feed if you use a feed reader.)""",
+You can get notified when I post again by going to <a href="/please/fix/this/paragraph">the blog view</a> and using the control panel (see the buttons in the left sidebar) to add an e-mail address and then choose notification settings for it. (Or you can use my RSS/Atom feed if you use a feed reader.)""",
   "id":"d3c64eb9361a5704f9dbbcda21652aa8",
   "date_posted":datetime.date(2012, 8, 31)
 },

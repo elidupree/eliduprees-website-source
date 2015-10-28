@@ -13,7 +13,8 @@ span.inline_separator {
 ''')
 
 inline_separator = '<span class="inline_separator"> &#8231; </span>'
-canonical_website_base = '' # TODO 'https://www.elidupree.com'
+# TODO 'https://www.elidupree.com':
+canonical_scheme_and_domain = 'http://www.elidupree.com'
 
 def capitalize_string(string):
   if len(string) == 0:

@@ -6,7 +6,6 @@ import datetime
 import utils
 
 signature = "<p> &ndash; Eli</p>"
-website_base = utils.canonical_website_base
 
 
 posts = {
@@ -139,7 +138,7 @@ posts = {
 
 <p>Fast forward about three years. I've taken some serious art classes in high school, which made me pretty good at drawing things in a photo-realistic way, which is nice even if it's not the most important skill to have.<footnote((At the time of this writing, you can see some of my work from one of those classes at <a href="http://eli.cedarswampstudios.org/drawing-1-sketchbook">this page</a> of my old website.))> It's my third semester of college. There are two cool creative writing courses offered in January. One of them is a prose memoir course taught by a person who everybody thinks is the coolest creative writing professor ever. The other is course about the graphic novel. The first class fills up very fast, and I don't want to compete for a slot in it, so I sign up for the second. AND THEN MY FATE IS SEALED.</p>
 
-<p>During January, I write the graphic short story <a href="'''+website_base+'''/people-are-wrong-sometimes">People Are Wrong Sometimes</a>, and I think, "Why the hell didn't I get into this medium earlier?" This is the <b>perfect</b> medium for me &ndash; the way I see it, the essence of a work of art is to effectively express an interesting idea, and a graphic narrative combines the abstract expressiveness of language with the instant expressiveness of images, resulting in a storytelling mode that can express ideas so fast that it can almost do justice to the overflowing supply of ideas that's inside my head.</p>
+<p>During January, I write the graphic short story <a href="/people-are-wrong-sometimes">People Are Wrong Sometimes</a>, and I think, "Why the hell didn't I get into this medium earlier?" This is the <b>perfect</b> medium for me &ndash; the way I see it, the essence of a work of art is to effectively express an interesting idea, and a graphic narrative combines the abstract expressiveness of language with the instant expressiveness of images, resulting in a storytelling mode that can express ideas so fast that it can almost do justice to the overflowing supply of ideas that's inside my head.</p>
 
 <p>There's just one catch. It takes frickin' ages! To draw that story, I sketched it in pencil, then drew over it in pencil, then drew over it in pen so that it would come out more clearly to the computer, then scanned it into the computer, then touched it up, then colored it in the computer. And when I colored it, I had to manually separate the lines from each other. This is a <em>tragedy</em>. All of those things were possible to automate, and therefore, they should have been automated.</p>
 
@@ -196,9 +195,9 @@ posts = {
 
 <h3>Part one: Gender</h3>
 
-<p>So, there's this thing called "gender". I wrote a little about it in <a href="'''+website_base+'''/blog/scrutinized-words-she-he">my post about why I use the pronoun "ze" and scrutinize "she" and "he"</a>. Gender is really important, but nobody knows what it is, so I'm going to skip to something that's easier to describe.</p>
+<p>So, there's this thing called "gender". I wrote a little about it in <a href="/blog/scrutinized-words-she-he">my post about why I use the pronoun "ze" and scrutinize "she" and "he"</a>. Gender is really important, but nobody knows what it is, so I'm going to skip to something that's easier to describe.</p>
 
-<p>So, there's this thing called "sex".<footnote((Actually, there are two things called sex. Here, we're talking about the one that's a physical attribute of humans and most other animals. <a href="'''+website_base+'''/blog/sex">I'll talk about the other one in a different post.</a>))> In the case of humans... well, humans are diverse creatures. Some of them have vaginas, and some don't. Some have penises, and some don't. Some develop lots of facial hair when they reach puberty, some develop breasts, some have their voices deepen... and some don't. By a quirk of biology, most of these attributes are strongly correlated with each other, so we've grouped all the attributes that usually go with each other into two convenient little boxes. There's the box of deep voices, facial hair, and penises (and a bunch of other things), which we call the "male sex", and the box of breasts and vaginas (and a bunch of other things), which we call the "female sex". So if I have a human, and I ask a biologist what sex that human is, then the biologist will look for the attributes from each of those boxes, and if they all fit in the "male" box, the biologist will tell me that the human is male, and so forth. If the human's attributes don't fit neatly into a box, the biologist will give up, go back to zir laboratory, and invent a fancy theory about why not all humans are the way ze expected them to be. But the real reason that not all humans are the way ze expected them to be is that we don't know everything about how humans work yet.<footnote((By the way, the currently accepted term for people whose physical attributes don't fit neatly into a box is "intersex", as in "that person is intersex". Although people don't generally use the term "intersex" to describe people who start out male-sexed or female-sexed and then deliberately alter their bodies to change that.))></p>
+<p>So, there's this thing called "sex".<footnote((Actually, there are two things called sex. Here, we're talking about the one that's a physical attribute of humans and most other animals. <a href="/blog/sex">I'll talk about the other one in a different post.</a>))> In the case of humans... well, humans are diverse creatures. Some of them have vaginas, and some don't. Some have penises, and some don't. Some develop lots of facial hair when they reach puberty, some develop breasts, some have their voices deepen... and some don't. By a quirk of biology, most of these attributes are strongly correlated with each other, so we've grouped all the attributes that usually go with each other into two convenient little boxes. There's the box of deep voices, facial hair, and penises (and a bunch of other things), which we call the "male sex", and the box of breasts and vaginas (and a bunch of other things), which we call the "female sex". So if I have a human, and I ask a biologist what sex that human is, then the biologist will look for the attributes from each of those boxes, and if they all fit in the "male" box, the biologist will tell me that the human is male, and so forth. If the human's attributes don't fit neatly into a box, the biologist will give up, go back to zir laboratory, and invent a fancy theory about why not all humans are the way ze expected them to be. But the real reason that not all humans are the way ze expected them to be is that we don't know everything about how humans work yet.<footnote((By the way, the currently accepted term for people whose physical attributes don't fit neatly into a box is "intersex", as in "that person is intersex". Although people don't generally use the term "intersex" to describe people who start out male-sexed or female-sexed and then deliberately alter their bodies to change that.))></p>
 
 <p>When a biologist writes something like "men have greater testosterone levels than women," ze is talking about <strong>sex</strong>.</p>
 
@@ -244,7 +243,7 @@ posts = {
 
 <h3>Part two: Age</h3>
 
-<p>The same way I talked about in <a href="'''+website_base+'''/blog/scrutinized-words-she-he">my post about <q>she</q> and <q>he</q></a>, there are two problems here. One has to do with how we categorize people, and the other has to do with the fact that we chose an overbearing binary categorization system in the first place.</p>
+<p>The same way I talked about in <a href="/blog/scrutinized-words-she-he">my post about <q>she</q> and <q>he</q></a>, there are two problems here. One has to do with how we categorize people, and the other has to do with the fact that we chose an overbearing binary categorization system in the first place.</p>
 
 <h4>Passive exclusion</h4>
 
@@ -256,7 +255,7 @@ posts = {
 
 <h4>Active discrimination</h4>
 
-<p>Okay, now <a href="'''+website_base+'''/blog/scrutinized-words-she-he">go and re-read my post about <q>she</q> and <q>he</q></a>, except this time, replace "she" with "child", "he" with "adult", and "the minority of people who obviously don't fit in the gender binary" with "everyone who lives past the age of twelve". Go on, I'll wait.</p>
+<p>Okay, now <a href="/blog/scrutinized-words-she-he">go and re-read my post about <q>she</q> and <q>he</q></a>, except this time, replace "she" with "child", "he" with "adult", and "the minority of people who obviously don't fit in the gender binary" with "everyone who lives past the age of twelve". Go on, I'll wait.</p>
 
 <p>When does a person become an adult? What the heck is an adult, anyway? It's just like the whole gender thing: Like gender, it's really, really important in society, and like gender, nobody has a clue what it really means.</p>
 
@@ -316,7 +315,7 @@ posts = {
 
 <p>I admit that choosing whether or not to swear isn't a very important issue. So let's move on to an issue that is very, very important:</p>
 
-<p><strong>#2. I will talk openly about <a href="'''+website_base+'''/blog/sex">sex and sexuality</a> here.</strong></p>
+<p><strong>#2. I will talk openly about <a href="/blog/sex">sex and sexuality</a> here.</strong></p>
 
 <p>This guideline (and the rest of them, really) is not just a child-friendliness issue; it's a human-friendliness issue. Most of the dominant cultures of the world are extremely sexually repressed; they don't talk about sex, they try to push sex-related information out of sight, and they even try to make people feel guilty for <em>thinking</em> about sex. Because of these things, when people actually <em>do</em> sexual stuff, they generally do it in a really bad way that's stressful for everyone involved. The only way you could make it worse would be by throwing everyone into teenage sexuality completely unprepared... which is exactly what we do by not talking to children about it.</p>
 
@@ -326,7 +325,7 @@ posts = {
 
 <p><strong>#3. I will avoid saying things in a way that demeans, insults, or ignores people who are younger than I am.</strong></p>
 
-<p>I wrote a lot about this in the second half of <a href="'''+website_base+'''/blog/scrutinized-words-man-woman-boy-girl">this post</a>; I don't have too much more to say about it here.</p>
+<p>I wrote a lot about this in the second half of <a href="/blog/scrutinized-words-man-woman-boy-girl">this post</a>; I don't have too much more to say about it here.</p>
 
 <p>A lot of parts of our society are designed in a way that pointlessly excludes children, because the adults who designed them were only thinking about adults. Whenever you use language that demeans children, like using "childish" as an criticism or saying that you deserve privacy or respect because you're an "adult", you're saying that children aren't <em>really</em> people, and they shouldn't really have the same rights other people do. This adds to the patterns of thought that make people ignore accessibility to children. I don't think it should happen; I believe that if something is intended for the public, it should be &ndash; as much as it can be &ndash; accessible to <em>all</em> the public, regardless of their age, physical disability, or any other attribute.</p>
 
@@ -476,7 +475,7 @@ return primes;</pre>
 
 <p>And then I spend about 15 minutes messing around in GIMP.</p>
 
-<img alt="A stylized drawing of a person charging with a sword or something, out of a bright, open doorway." src="'''+website_base+'''/media/15_minutes_of_messing_around_with_my_new_tablet_in_GIMP.png" style="width:100%" />
+<img alt="A stylized drawing of a person charging with a sword or something, out of a bright, open doorway." src="/media/15_minutes_of_messing_around_with_my_new_tablet_in_GIMP.png?rr" style="width:100%" />
 
 <p>Messing around in GIMP is pretty nice. GIMP is a bit like a canvas: You can draw on it with a variety of "tools", and you have the extra advantage of being able to undo your actions, but the internal substance is just that: The pixels on the screen. Inkscape is different: Inkscape records ideal approximations of the paths you draw, and you can go back and edit those paths later. So, essentially, GIMP is for <em>drawing</em> pictures and Inkscape is for <em>designing</em> pictures. But I want to be able to draw <em>and</em> design pictures, so neither really has the feature-set that I want, and since I'm probably going to be using this medium a lot, for a long time, I want to have absolute control over my own abilities; both Inkscape and GIMP have a lot of configuration options, but they aren't nearly as versatile as they could be if I had direct control at the source level. I need to write my own programs.</p>
 
@@ -521,7 +520,7 @@ return primes;</pre>
 
 <p>(The rest of this post will assume general knowledge of the plot of <i>Harry Potter</i>, but does not contain spoilers.)</p>
 
-<p>TV Tropes describes <i>Harry Potter and the Methods of Rationality</i> (abbreviated HP:MoR) as "an Alternate Universe story, where Petunia married a scientist." Instead of being completely awestruck by the wizarding world after having been abused<footnote((Although I hesitated to use the term. The way Harry's aunt and uncle treat zem in the <i>Harry Potter</i> series, if taken literally, is abusive, but the series treats it as a joke or caricature, and Harry is depicted more as a blank slate than as someone dealing with the aftermath of that kind of treatment. I explored this more when I wrote <a href='''+website_base+'''/voldemorts-children>Voldemort's Children</a>.))> at the hands of zir relatives, Harry Potter has been raised in a healthy environment and taught the virtues of the scientific method, and walks into the wizarding world intending to apply science to magic and transform the world. To put it a different way, ze tries all the things that made me frustrated at the original Harry when ze <em>didn't</em> try them. It also answers a lot of the annoying questions that the original series overlooks in order to write a morally-unambiguous<footnote((Yes, the good guys are not always good and the bad guys are not always bad, and Harry has to discover that. None of that changes the fact that it's written as a story where good guys fight bad guys and the good guys win.))> adventure story. In short, it's a beautiful work of deconstruction, and <strong>also</strong> a great attempt to educate the reader about the scientific method and common fallacies. And also a hilarious parody of the original.</p>
+<p>TV Tropes describes <i>Harry Potter and the Methods of Rationality</i> (abbreviated HP:MoR) as "an Alternate Universe story, where Petunia married a scientist." Instead of being completely awestruck by the wizarding world after having been abused<footnote((Although I hesitated to use the term. The way Harry's aunt and uncle treat zem in the <i>Harry Potter</i> series, if taken literally, is abusive, but the series treats it as a joke or caricature, and Harry is depicted more as a blank slate than as someone dealing with the aftermath of that kind of treatment. I explored this more when I wrote <a href="/voldemorts-children">Voldemort's Children</a>.))> at the hands of zir relatives, Harry Potter has been raised in a healthy environment and taught the virtues of the scientific method, and walks into the wizarding world intending to apply science to magic and transform the world. To put it a different way, ze tries all the things that made me frustrated at the original Harry when ze <em>didn't</em> try them. It also answers a lot of the annoying questions that the original series overlooks in order to write a morally-unambiguous<footnote((Yes, the good guys are not always good and the bad guys are not always bad, and Harry has to discover that. None of that changes the fact that it's written as a story where good guys fight bad guys and the good guys win.))> adventure story. In short, it's a beautiful work of deconstruction, and <strong>also</strong> a great attempt to educate the reader about the scientific method and common fallacies. And also a hilarious parody of the original.</p>
 
 <p>However, I do have some reservations about recommending it. Like any work of deconstruction, it still has all the flaws of the original story <em>except</em> for the ones it specifically takes away. Like the fact that Harry Potter, the character, is a white, male, cis, able-bodied, heterosexual, upper-class, neurotypical person, in a way that treats all those attributes as the default, the "normal" attribute, and the opposite as unusual.<footnote((A brief note about the original series &ndash; trans people and non-heterosexual people don't exist in the story as written, and for the few neurodivergent people (Voldemort, Luna, Trelawney...) we only get the outsider's perspective that they're "weird" or "cool" or "completely evil", rather than seeing their own perspectives or challenges. Like Hermione, and like Rowling's public claim that Dumbledore is gay, they're A Lesson for members of the dominant class (<q>Hey you! You'd better believe it's okay for people to be Different!</q>) but they are not role models and they do not tell our stories. J. K. Rowling also seems to believe that Love is the most important thing in the world and it's everyone's deepest emotion, which is (guess what?) not true in the real world.))> HP:MoR Harry is not quite as much like that &ndash; ze's arguably not neurotypical, and the story treats adults' age-discrimination as a serious issue &ndash; but the rest is still there, and I'm a little tired of the "genius protagonist" being always male. In general, HP:MoR has upgraded a lot of the male characters from <i>Harry Potter</i> while leaving female characters the same, downgrading them, or putting them in victim roles. It does seem to be trying in some places to deliver a feminist message, but it fails horribly. I wouldn't normally recommend something with that much sexism. And Harry treats the 17th-century European "Enlightenment" as the only source of rationality in the world, or of belief in human rights, which is kinda unfair to all the philosophers of the rest of the world.</p>
 
@@ -540,7 +539,7 @@ return primes;</pre>
 
 <p>I made progress again on my graphics editing stuff; I have a program that takes tablet input and converts it into individual lines/strokes. That task was surprisingly easy; once again, I'm a bit unsure of what to do next.</p>
 
-<p>So I just set myself a specific task: <em>Create the software that I would want to use to write <a href="'''+website_base+'''/people-are-wrong-sometimes">People Are Wrong Sometimes</a> if I'd written it with this instead of on paper.</em></p>
+<p>So I just set myself a specific task: <em>Create the software that I would want to use to write <a href="/people-are-wrong-sometimes">People Are Wrong Sometimes</a> if I'd written it with this instead of on paper.</em></p>
 
 <p>Which of course raises the question "What do I need for that?". So I looked over <i>People Are Wrong Sometimes</i> from a conceptual perspective, turning the question into "What are the things in it?".</p><ol><li>Lines (straight or curved), of varying colors.</li><li>Fields bounded by straight/curved lines, of varying colors.</li><li>Text</li></ol>
 
@@ -640,7 +639,7 @@ return primes;</pre>
 
 <p>(Oh right, there's a cultural norm that says it's bad to just enjoy yourself for the sake of enjoying yourself &ndash; especially in a sexual way, but also in general, becuase it's more important to do what's culturally acceptable than to do what you like! And there's this whole notion that what two (or more, or just one) consenting people<footnote((Yes, PEOPLE. I only just noticed that people usually say "consenting adults" when they say this; I will now have to be horribly offended whenever I see someone write it in that way.))> do in private is anybody else's business. And there's the belief that&mdash; ...but all those beliefs are stupid and ridiculous and I have no idea why anyone believes them<footnote((Actually, I do have a lot of ideas about why people believe those things. It's just that they don't make any <em>sense</em>.))> and I should have stuck to my plan to not try to talk about them in this post! Clearly I should stop now before I accidentally dignify those notions with a <em>response</em>.)</p>
 
-<p>If you liked this post, <a href="'''+website_base+'''/blog/pornography">join me again in a few <del>days</del> <ins>weeks</ins> when I rant about pornography</a>.</p>
+<p>If you liked this post, <a href="/blog/pornography">join me again in a few <del>days</del> <ins>weeks</ins> when I rant about pornography</a>.</p>
 
 '''+signature,
 },
@@ -729,7 +728,7 @@ return primes;</pre>
 
 <p>I had an idea that doesn't fit into any of the current stories I'm developing, and basically wants to be a novel in its own right, so I'm probably not going to be able to write it. So I'll write about it here instead. For fun, I'm going to describe it in the order I thought of it.</p>
 
-<p>It started with the idea of <strong>destroying a person's mind</strong>. Zir body still functions, and ze can even still talk a little and give basic replies, but most of zir personality is gone, ze doesn't recognize people ze used to know, ze's completely cold and unfeeling, and ze barely bothers to fulfill zir basic needs. This kind of thing <em>can</em> happen in real life, but it's more common in fantasy settings, especially horror-fantasy; I was thinking about it because something similar happens in <a href="http://www.elidupree.com/main/posts/38-recommended-website-harry-potter-and-the-methods-of-rationality">HP:MoR</a>.</p>
+<p>It started with the idea of <strong>destroying a person's mind</strong>. Zir body still functions, and ze can even still talk a little and give basic replies, but most of zir personality is gone, ze doesn't recognize people ze used to know, ze's completely cold and unfeeling, and ze barely bothers to fulfill zir basic needs. This kind of thing <em>can</em> happen in real life, but it's more common in fantasy settings, especially horror-fantasy; I was thinking about it because something similar happens in <a href="/blog/recommended-website-harry-potter-and-the-methods-of-rationality">HP:MoR</a>.</p>
 
 <p>I've got a lot of respect for good horror stories. After all, what is writing if not an attempt to effectively convey an image or idea, and what is horror if not a very specific, very powerful image or idea? The destroying-someone's-mind thing fits right in; it's been done a lot of times, because it's effective. After all, the standard advice for horror fantasy is that the closer something is to reality, the more horrifying it is. Or, another way to look at it is that humans usually have a very strong fear of losing people they know, and they tend to be somewhat numb to actual death because there's lots of death in stories, so when you find a way to destroy a person that isn't actual killing, you get the full horror with much less resistance.</p>
 
@@ -801,7 +800,7 @@ return primes;</pre>
 
 <blockquote>The explicit depiction of sexual subject matter, especially with the sole intention of sexually exciting the viewer.</blockquote>
 
-<p>That wasn't so hard.<footnote((I guess it's not hard to define it as long as you're not trying to decide when ambiguously-written Puritanical censorship laws are allowed under the rules of an equally ambiguous document, namely the United States Constitution.))> So, we're basically talking about stories, pictures, videos, and so on, of people having sex or being in sexual situations, <a href="http://www.elidupree.com/main/posts/47-sex">whatever that means</a>.</p>
+<p>That wasn't so hard.<footnote((I guess it's not hard to define it as long as you're not trying to decide when ambiguously-written Puritanical censorship laws are allowed under the rules of an equally ambiguous document, namely the United States Constitution.))> So, we're basically talking about stories, pictures, videos, and so on, of people having sex or being in sexual situations, <a href="/blog/sex">whatever that means</a>.</p>
 
 <p>Anyway, sounds great, right? I mean, most people enjoy a certain amount of sexual excitement. And, compared with other ways of getting sexually excited, pornography is incredibly low-risk and easy to distribute. Some ways, like printing lots of pornographic magazines, consume some of the Earth's resources, which is kinda bad, but we now have digital media and the Internet. And I don't think anyone has ever been physically abused by their porn, or gotten pregnant from it, or anything like that.</p>
 
@@ -841,7 +840,7 @@ return primes;</pre>
   "force_date":datetime.date(2011, 7, 21),
   "contents":'''
 
-<p>Remember <a href="http://www.elidupree.com/main/posts/52-neurodiversity">when I said we should talk about how we experience the world</a>? This post is me doing that.</p>
+<p>Remember <a href="/blog/neurodiversity">when I said we should talk about how we experience the world</a>? This post is me doing that.</p>
 
 <p>I can't imagine pain. At all. Or, to be more specific, there's <em>something</em> I can do that I call "imagining" &ndash; which might, or might not, be exactly the same thing as what other people call "imagining" &ndash; that works very well for sight, and sound, and physical touch, and a few other things, but doesn't work at all for physical pain. With other sensations, I can conjure up the feeling and have a sense that's almost as strong as actually feeling it, but with pain it just doesn't work &ndash; I can try to conjure up the feeling of pain, but nothing happens.</p>
 
@@ -921,11 +920,11 @@ return primes;</pre>
 
 <p>That said, I've still got a couple of projects running. I'm working on them occasionally, it's just that they're not taking the majority of my time.</p>
 
-<p>One of them is that I'm learning more Javascript, so that I can make cool online games and utilities. <a href="http://www.elidupree.com/pac-asteroids-first.html">Check out this extremely-unfinished game for an example of what I'm messing with</a>. (EDIT: That's a link to the version that I wrote at the time of this post. <a href="http://www.elidupree.com/pac-asteroids.html">This is a link to the current version</a>, which I will keep messing with.)</p>
+<p>One of them is that I'm learning more Javascript, so that I can make cool online games and utilities. <a href="/pac-asteroids-first.html">Check out this extremely-unfinished game for an example of what I'm messing with</a>. (EDIT: That's a link to the version that I wrote at the time of this post. <a href="/pac-asteroids.html">This is a link to the current version</a>, which I will keep messing with.)</p>
 
 <p>The other is this: Since I'm blocked on the graphics editing software project, I've started just drawing stuff in an existing graphics program (namely GIMP). Here's something I randomly sketched a few days ago:</p>
 
-<img src="http://img687.imageshack.us/img687/6128/randomattempt20110813si.png" alt="Image [see below]" />
+<img src="/this/was/a/broken/link/to/imageshack/randomattempt20110813si.png?rr" alt="Image [see below]" />
 <p>(That's an image hosted on an external site. Tell me if it breaks. A transcript is in a footnote.<footnote((<p>Transcript of the above image:</p><p>Text: What shall I draw? thought I.<p>Picture: A cartoon of myself, with an excessively cheerful expression, thinking: Maybe something DARK & DISTURBING?</p><p>Picture: A gaunt face drawn in white on a black background, surrounded by orange streaks. Its thoughts are written messily: "I DON'T KNOW WHY I'VE BECOME LIKE THIS. I AM SO COLD, COLD!! <em>I DON'T NEED ANY HELP!!</em>"</p><p>Text: What sex is our friend the pyromaniac? I find it easier to read zem as male, but is the face actually characteristically male or is it just that I'm more familiar with that exaggerated gauntness on male characters, while our society makes people draw female people in pristine condition always?</p>))>)</p>
 
 <p>I've also started sketching characters for a fairly absurd short comic (3-4 pages, probably). I might end up drawing that in the next week or two.</p>
@@ -943,7 +942,7 @@ return primes;</pre>
   "tags":["other websites"],
   "contents":'''
 
-<img src="/main/files/riotnrrd.png"  alt="Image: A panel of a comic. Some interesting people stand around; one says, 'So, do you like, gender and stuff?'" />
+<img src="/media/riotnrrd.png?rr"  alt="Image: A panel of a comic. Some interesting people stand around; one says, 'So, do you like, gender and stuff?'" />
 
 <p>That's a panel from <i>Riot Nrrd</i>, a wonderful webcomic.</p>
 
@@ -991,7 +990,7 @@ return primes;</pre>
 
 <p>I generally think that graphic storytelling can express ideas much more quickly, so I deliberately constructed that line to be the opposite: Something that prose can express more quickly. Let's look at how we might write that in pure images:</p>
 
-<img src="/main/files/knocking.png" alt="Image: Three panels. The first panel shows a person knocking at a door. The second shows zem waiting impatiently, thinking about the time. The third shows zem entering through the door, looking around. At the bottom left is a note that says 'Eli Dupree - 25 min sketch'"/>
+<img src="/media/knocking.png?rr" alt="Image: Three panels. The first panel shows a person knocking at a door. The second shows zem waiting impatiently, thinking about the time. The third shows zem entering through the door, looking around. At the bottom left is a note that says 'Eli Dupree - 25 min sketch'"/>
 
 <p>Those three panels might take up about a third of a page, if we're going to publish this as a print book. The line of prose, on the other hand, takes about, what, a twentieth of a page? Sure, a reader will be able to take in the images faster than they would read <em>a third of a page of text</em>, but still, the single prose line here much more compact and concise.</p>
 
@@ -1001,7 +1000,7 @@ return primes;</pre>
 
 <p>We can also combine the two forms, like this:</p>
 
-<img src="/main/files/knocking-combined.png" alt="Image: The third panel of the first image, but with the prose line written in narration boxes: 'I knocked. No answer. Let myself in anyway' at the top, and 'Where was he?' at the bottom."/>
+<img src="/media/knocking-combined.png?rr" alt="Image: The third panel of the first image, but with the prose line written in narration boxes: 'I knocked. No answer. Let myself in anyway' at the top, and 'Where was he?' at the bottom."/>
 
 <p>That conveys all the information from the prose line (obviously), and also most of the information from the three-panel image above, and it does it in only one panel. It also has an interesting attribute: It <em>repeats</em> information. You don't need the text to tell you that the person is going through a door. With the text there, you don't need the <em>image</em> to tell you that the person is going through a door. Either one does the job just as well.</p>
 
@@ -1208,7 +1207,7 @@ return primes;</pre>
 
 <p>Of course, it's a good idea to go back and examine your instincts, from time to time.</p>
 
-<p>I drew <a href="http://www.elidupree.com/main/posts/128-a-couple-of-badass-superheroes-page-5">my last comic</a> mostly by instinct. Especially the panel borders. I didn't think "What do I want this line to express and how do I accomplish that?"; I just thought "Hmm, this line doesn't look right... *redraw* ehh... *redraw* ooh, this works!". In short, I had an instinct for what I wanted, but I didn't intellectually understand exactly what I wanted.</p>
+<p>I drew <a href="/a-couple-of-badass-superheroes/5">my last comic</a> mostly by instinct. Especially the panel borders. I didn't think "What do I want this line to express and how do I accomplish that?"; I just thought "Hmm, this line doesn't look right... *redraw* ehh... *redraw* ooh, this works!". In short, I had an instinct for what I wanted, but I didn't intellectually understand exactly what I wanted.</p>
 
 <p>I love understanding things, so after I drew the comic, I went back and analyzed my own work! Here are some of my thoughts:</p>
 
@@ -1256,7 +1255,7 @@ return primes;</pre>
 
 <p>A couple of days ago, someone posted some evil, rape-excusing statements on one of my college's student/faculty/staff mailing lists. I won't talk about it much here, because I have a policy of not repeating evil things on this blog. However, it inspired me to draw this!</p>
 
-<p><a href="/colby_stuff/2011_11_07.png">A brief introduction to affirmative consent.</a></p>
+<p><a href="/colby_stuff/2011_11_07.png?rr">A brief introduction to affirmative consent.</a></p>
 
 <p>(That's a link to an image (I'm putting it behind a link because it's fairly large). Click the link to see it. A transcript of that image is below.)</p>
 
@@ -1355,7 +1354,7 @@ Use it.))>
   "tags":["sex","this website"],
   "contents":'''
 
-<p>So many people loved my graphic about affirmative consent (see <a href="http://www.elidupree.com/main/posts/138-let's-talk-about-affirmative-consent">my last post here</a>) that I've decided to try selling prints of it. Thus, I've set up <a href="http://www.zazzle.com/eli_dupree*">this store on zazzle.com</a>, and you can now buy your own physical copy!</p>
+<p>So many people loved my graphic about affirmative consent (see <a href="/blog/lets-talk-about-affirmative-consent">my last post here</a>) that I've decided to try selling prints of it. Thus, I've set up <a href="http://www.zazzle.com/eli_dupree*">this store on zazzle.com</a>, and you can now buy your own physical copy!</p>
 
 <p>They're somewhat expensive, but if you've got money to spare, go for it! A significant cut of the price goes directly to me, and I'll do my best to feed that money back into my activism projects for your edification and enjoyment.</p>
 
@@ -1403,7 +1402,7 @@ Use it.))>
 
 <p>And flyers:</p>
 
-<p><img alt="A flyer; see below for a transcript" src="http://i.imgur.com/tTJfD.png" /></p>
+<p><img alt="A flyer; see below for a transcript" src="/media/colby-sex-club-flyer-1.png?rr" /></p>
 
 <transcript((This flyer is mostly text; the text will be written unmarked, with visual descriptions in curly brackets {}.<br/>
 <br/>
@@ -1424,7 +1423,7 @@ For more information, or to get involved, contact Eli Dupree at endupree@colby.e
 FRIDAY, DEC 2 -- 6:00 PM<br/>
 MARY LOW BASEMENT LOUNGE!))>
 
-<p><img alt="A flyer; see below for a transcript" src="http://i.imgur.com/pHfXb.png" /></p>
+<p><img alt="A flyer; see below for a transcript" src="/media/colby-sex-club-flyer-2.png?rr" /></p>
 
 <transcript((This flyer is mostly text; the text will be written unmarked, with visual descriptions in curly brackets {}.<br/>
 <br/>
@@ -1444,9 +1443,9 @@ For more information, or to get involved, contact Eli Dupree at endupree@colby.e
 <br/>
 FRIDAY, DEC 2 -- 6:00 PM -- MARY LOW BASEMENT LOUNGE!))>
 
-<p>Then, last Sunday, December 4, we got approved by <abbr title="Student Government Association">SGA</abbr>, Colby's student government body! We're now an official club (So I'm now officially the President of the Colby Sex Club!), and we can get funding to do events and stuff! So I contacted the local copy shop and had them print out 50 copies of <a href="http://www.elidupree.com/main/posts/138-let's-talk-about-affirmative-consent">the "affirmative consent" graphic that I posted a while back</a> and am selling in <a href="http://www.zazzle.com/eli_dupree*">my Zazzle store</a>. Except, I made a special version for the club. It looks like this:</p>
+<p>Then, last Sunday, December 4, we got approved by <abbr title="Student Government Association">SGA</abbr>, Colby's student government body! We're now an official club (So I'm now officially the President of the Colby Sex Club!), and we can get funding to do events and stuff! So I contacted the local copy shop and had them print out 50 copies of <a href="/blog/lets-talk-about-affirmative-consent">the "affirmative consent" graphic that I posted a while back</a> and am selling in <a href="http://www.zazzle.com/eli_dupree*">my Zazzle store</a>. Except, I made a special version for the club. It looks like this:</p>
 
-<p><img alt="A poster; see below for a transcript" src="http://i.imgur.com/9RSLg.png" /></p>
+<p><img alt="A poster; see below for a transcript" src="/media/colby-sex-club-poster.png?rr" /></p>
 
 <transcript((This poster is in comic format, with pictures of me narrating most of the text in speech bubbles.<br/>
 <br/>
@@ -1555,7 +1554,7 @@ BOX 2: Poster design by Eli Dupree. Funding by SGA. Thanks to everyone who encou
   "tags":["this website"],
   "contents":'''
 
-<p>I've created a new homepage and tweaked the comic display, and also prepared some more internal stuff for my next comic. (These are some of the changes that I was planning when I wrote <a href="http://www.elidupree.com/main/posts/145-website-upgrades">this post</a>, but not all of them.)</p>
+<p>I've created a new homepage and tweaked the comic display, and also prepared some more internal stuff for my next comic. (These are some of the changes that I was planning when I wrote <a href="/blog/website-upgrades">this post</a>, but not all of them.)</p>
 
 <p>As usual, tell me if anything breaks.</p>
 
@@ -1670,7 +1669,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>I'm at home now, with nothing but free time to do awesome projects all the time!</p>
 
-<p>Reorganized my room. Reorganized my computer stuff. Started improving my diet, inspired by <a href="http://soylent.me/">Rob Rhinehart's "Soylent" project</a>. Learned to use a sewing machine. Got back to working on my comic. Started using an EMG biofeedback device to help me draw without clenching my hand. Set up an exercise bicycle we have and improved my bicycle endurance a lot. Continued work on Lasercake and the board game. Updated a <a href="http://www.wesnoth.org/">Battle for Wesnoth</a> add-on (<q>Era of High Sorcery</q>) that I wrote years ago. Bought a used monitor, built a wooden shelf, and rearranged my workstation <a href="http://deqyc5bzdh53a.cloudfront.net/workstation_2013_06_04.jpg">[picture]</a>.</p>
+<p>Reorganized my room. Reorganized my computer stuff. Started improving my diet, inspired by <a href="http://soylent.me/">Rob Rhinehart's "Soylent" project</a>. Learned to use a sewing machine. Got back to working on my comic. Started using an EMG biofeedback device to help me draw without clenching my hand. Set up an exercise bicycle we have and improved my bicycle endurance a lot. Continued work on Lasercake and the board game. Updated a <a href="http://www.wesnoth.org/">Battle for Wesnoth</a> add-on (<q>Era of High Sorcery</q>) that I wrote years ago. Bought a used monitor, built a wooden shelf, and rearranged my workstation <a href="/media/workstation_2013_06_04.jpg?rr">[picture]</a>.</p>
 
 <h2>Some things I'm going to do soon</h2>
 
@@ -1733,7 +1732,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>When I want to eat it, I pour out some powder, add oil until it's not too dry to eat, and add salt. I get this:</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/new_food_2013_06_11.jpg" alt="a bowl full of dark, clumpy stuff, with a spoon in it" />
+<img src="/media/new_food_2013_06_11.jpg?rr" alt="a bowl full of dark, clumpy stuff, with a spoon in it" />
 
 <p>It's pretty tasteless except for the salt. It sticks to itself a bit, so it's hard to spill, which makes it a good thing to snack on while I work. Although it would be even better if I could make it into crackers so that I don't need the bowl and spoon.</p>
 
@@ -1752,11 +1751,11 @@ I personally deal with this by never going to a venue that requires me to dress 
   "tags":["crass physical reality"],
   "contents":'''
 
-<p>Following <a href="/main/posts/346-the-food-experiments">my last experiments</a>, I've been trying to put my bean/oil/eggshell mush into a more convenient form. I'm now eating this stuff for all my meals except breakfast each day.</p>
+<p>Following <a href="/blog/the-food-experiments">my last experiments</a>, I've been trying to put my bean/oil/eggshell mush into a more convenient form. I'm now eating this stuff for all my meals except breakfast each day.</p>
 
 <p>At first, I tried baking using just the bean powder. The results were too crumbly to be practical, so I added wheat flour.  A family member suggested that, instead of dehydrating the cooked beans and then re-baking them, I could just mash the cooked beans in with the other ingredients before baking them. That also saves the trouble of grinding them. I tried it and got this:</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits_2013_06_16.jpg" alt="A cooling rack with about 16 lumpy biscuits on it" />
+<img src="/media/biscuits_2013_06_16.jpg?rr" alt="A cooling rack with about 16 lumpy biscuits on it" />
 
 <p>(The colors are a bit off in that photo; the one on the far right is the closest to their actual color.)</p>
 
@@ -1791,15 +1790,15 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>I used to carry my stuff &ndash; about eight pounds (3.6 kg) of it &ndash; like this:</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/old_case_over_shoulder_small.jpg" alt="A picture of me carrying a laptop case with a single shoulder strap over my right shoulder, with the case at my left side." style="display:block; margin: 2em auto;"/>
+<img src="/media/old_case_over_shoulder_small.jpg?rr" alt="A picture of me carrying a laptop case with a single shoulder strap over my right shoulder, with the case at my left side." style="display:block; margin: 2em auto;"/>
 
 <p>Or rather, it looked like that except that the case was puffed up more from all the stuff in it. I did that for about four years. Then on March 1, 2013, I started having some pain in my chest that got worse the more I carried that case. So I started carrying it like this:</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/old_case_around_waist_small.jpg" alt="A picture of me carrying the same case, but now the strap is wrapped around my waist, so that the center of it hangs in front of my left leg." style="display:block; margin: 2em auto;"/>
+<img src="/media/old_case_around_waist_small.jpg?rr" alt="A picture of me carrying the same case, but now the strap is wrapped around my waist, so that the center of it hangs in front of my left leg." style="display:block; margin: 2em auto;"/>
 
 <p>That worked to relieve the pain. But it was also inconvenient to put on or take off. The strap didn't have clips on the ends<footnote((Actually, the strap <em>originally</em> had clips on <em>both</em> ends, and <em>both</em> of the clips broke during normal use. And the strap I'd had before that also had clips which broke. I no longer trust metal or plastic clips in positions that are both load-bearing and involve rubbing against other hard parts during normal use.))>, so I had to put the whole thing over my head every time I wanted to put it on or take it off. And it interfered with my walking (and worse, running), because it hung right in front of my leg. So, March 23-29, with some help from a family member, I designed and built this:</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/new_contraption_worn_small.jpg" alt="A picture of me putting on some sort of contraption that has pouches at the left and right sides"/><img src="http://deqyc5bzdh53a.cloudfront.net/new_contraption_worn_2.jpg" alt="Me wearing the same contraption, shown from a different angle"/>
+<img src="/media/new_contraption_worn_small.jpg?rr" alt="A picture of me putting on some sort of contraption that has pouches at the left and right sides"/><img src="/media/new_contraption_worn_2.jpg?rr" alt="Me wearing the same contraption, shown from a different angle"/>
 
 <p>This thing works great!</p>
 
@@ -1807,7 +1806,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>Let's open up the flaps and look:</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/new_contraption_displayed.png" alt="A picture of me holding up the same contraption in one hand, with different parts labeled A through F." style="display:block; margin: 2em auto;"/>
+<img src="/media/new_contraption_displayed.png?rr" alt="A picture of me holding up the same contraption in one hand, with different parts labeled A through F." style="display:block; margin: 2em auto;"/>
 
 <ol type="A">
   <li>A single alumnium flat, 1/8 in x 3/4 in x 4 ft, that holds up the pouches and goes around the back.</li>
@@ -1818,7 +1817,7 @@ I personally deal with this by never going to a venue that requires me to dress 
   <li>Vinyl<footnote((Not the best material in hindsight. The vinyl tears easily under stress. We just bought the thing that was both waterproof and on sale.))> with a felt-like backing, forming two big pouches to carry stuff in, little pouches that hold the foam in place, and flaps that go over the top to keep off the rain.</li>
 </ol>
 
-<p>For those interested, I've <a href="http://deqyc5bzdh53a.cloudfront.net/contraption_pattern.png">drawn a pattern</a> for the vinyl pieces. (I may not be remembering the numbers exactly, but the pattern should make it clear how the thing is put together.)</p>
+<p>For those interested, I've <a href="/media/contraption_pattern.png?rr">drawn a pattern</a> for the vinyl pieces. (I may not be remembering the numbers exactly, but the pattern should make it clear how the thing is put together.)</p>
 
 <p>The entire thing weighs 2 pounds (0.9 kg) when it's empty, whereas the case I was using weighs 2.5 pounds empty. The materials cost us around $20 in total.</p>
 
@@ -1860,29 +1859,29 @@ I personally deal with this by never going to a venue that requires me to dress 
   "tags":["crass physical reality"],
   "contents":'''
 
-<p>I'm continuously updating the process for making <a href="/main/posts/348-i-made-biscuits">my biscuits</a>. A few batches ago, I took photos!</p>
+<p>I'm continuously updating the process for making <a href="/blog/i-made-biscuits">my biscuits</a>. A few batches ago, I took photos!</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-1.jpg" alt="Me holding two one-pound bags of beans over a counter; a metal pot is in the background." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-1.jpg?rr" alt="Me holding two one-pound bags of beans over a counter; a metal pot is in the background." style="display:block; margin: 2em auto;"/>
 
 <p>I start with these one-pound bags of beans (two cups dry). For this batch I used two bags, but now I usually use three. I put the beans in the pot, then fill it with water to about three times the depth of the beans, and put it in a refrigerator to soak overnight.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-2.jpg" alt="Me holding lid on the pot, while I pour brownish water from it into the sink. (The water goes through the thin gap between the pot and the lid, so none of the beans come out.)" style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-2.jpg?rr" alt="Me holding lid on the pot, while I pour brownish water from it into the sink. (The water goes through the thin gap between the pot and the lid, so none of the beans come out.)" style="display:block; margin: 2em auto;"/>
 
 <p>Then in the morning, I pour off the water. Usually the water is less brown and more purple &ndash; I neglected to refrigerate this batch overnight. Good thing I didn't get sick from it.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-3.jpg" alt="The pot full of beans sits in the sink, with tapwater pouring into it." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-3.jpg?rr" alt="The pot full of beans sits in the sink, with tapwater pouring into it." style="display:block; margin: 2em auto;"/>
 
 <p>I refill the water, then pour it out again, to rinse the beans. I repeat that a couple of times. I use hot water for this, so that the beans warm up (so they'll boil more quickly in the next step).</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-4.jpg" alt="The pot of beans sits on a stove, which has been turned on. A nearby timer reads '7:51'." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-4.jpg?rr" alt="The pot of beans sits on a stove, which has been turned on. A nearby timer reads '7:51'." style="display:block; margin: 2em auto;"/>
 
 <p>Then I boil the beans for half an hour on the electric stove you see here. Since this batch, I've started putting a teaspoonful of baking soda in with it, which makes the beans softer.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-5.jpg" alt="The back of my head. I'm using a hair tie to tie my hair back." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-5.jpg?rr" alt="The back of my head. I'm using a hair tie to tie my hair back." style="display:block; margin: 2em auto;"/>
 
 <p>Remember to tie back your long hair before messing with sticky things!</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-6.jpg" alt="Three images: Me pouring whole wheat flour into a large metal bowl, me with two containers of salt, and me carefully pouring salt into a teaspoon above the bowl of flour." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-6.jpg?rr" alt="Three images: Me pouring whole wheat flour into a large metal bowl, me with two containers of salt, and me carefully pouring salt into a teaspoon above the bowl of flour." style="display:block; margin: 2em auto;"/>
 
 <p>While I wait for the beans to finish boiling, I add the dry ingredients. For the usual amount (6 dry cups of beans), that's:</p>
 
@@ -1897,11 +1896,11 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>I've also experimented with a bunch of other ingredients. I'll write about that at the end of this post.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-7.jpg" alt="My hand holding the pestle of a mortar-and-pestle about the same width as my hand." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-7.jpg?rr" alt="My hand holding the pestle of a mortar-and-pestle about the same width as my hand." style="display:block; margin: 2em auto;"/>
 
 <p>I used to grind up the eggshells with this cute little mortar-and-pestle, and mix them with the other dry ingredients. Now I just throw them in with the beans and oil (see below). Hand-grinding them made smaller bits, but was a lot of work.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-8.jpg" alt="A food processor with a bunch of cooked beans in it." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-8.jpg?rr" alt="A food processor with a bunch of cooked beans in it." style="display:block; margin: 2em auto;"/>
 
 <p>To help me mash the beans, I actually bought <a href="http://www.amazon.com/Hamilton-Beach-Processor-Compact-Storage/dp/B002V8RNH2/">this food processor</a>. I got a refurbished one for $43.<footnote((It came with a little card that said, essentially, "Thank you for buying refurbished products! We're not going to give you as much of a warranty as usual." It has worked quite well so far, even after I accidentally dropped it from the counter onto the floor.))> I've already saved more money by switching to this diet than I spent on this object. (These biscuits are now about 80% of the food I eat.)</p>
 
@@ -1909,43 +1908,43 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>At first, there was a problem with using the food processor: a lot of the beans stuck to the plastic sides, so they didn't get chopped up.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-9.jpg" alt="Me pouring canola oil from a 1-gallon bottle into a metal 1-cup measure." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-9.jpg?rr" alt="Me pouring canola oil from a 1-gallon bottle into a metal 1-cup measure." style="display:block; margin: 2em auto;"/>
 
 <p>I solved that problem by putting the canola oil in with the beans before running the food processor. I'm aiming for 3 cups of oil total, in about 18 cups of wet beans. So I put in two cups of beans at a time, with one-third cup of oil. (That seems to be the quantity the food processor can handle best.) And now I also put in the eggshells in with the first two cups of beans, after I break them up a bit by hand.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-10.jpg" alt="The food processor again, now with beans mashed up." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-10.jpg?rr" alt="The food processor again, now with beans mashed up." style="display:block; margin: 2em auto;"/>
 
 <p>Then I get this mess. It's been a lot smoother since I started using the baking soda to soften the beans.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-11.jpg" alt="Some mashed beans have been dumped into the bowl dry ingredients." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-11.jpg?rr" alt="Some mashed beans have been dumped into the bowl dry ingredients." style="display:block; margin: 2em auto;"/>
 
 <p>Then I dump them in with the dry ingredients. Eventually everything is in the bowl and I can mix it together.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-12.jpg" alt="A blurry image of my two hands stirring the ingredients together." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-12.jpg?rr" alt="A blurry image of my two hands stirring the ingredients together." style="display:block; margin: 2em auto;"/>
 
 <p>Mixing it is a challenge! Sometimes it is easier to use my hands directly than to use a spoon.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-13.jpg" alt="The lumpy dough dumped out on a counter." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-13.jpg?rr" alt="The lumpy dough dumped out on a counter." style="display:block; margin: 2em auto;"/>
 
 <p>Eventually I can dump it out on the counter and start kneading it.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-14.jpg" alt="My two hands pressing down on a piece of dough." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-14.jpg?rr" alt="My two hands pressing down on a piece of dough." style="display:block; margin: 2em auto;"/>
 
 <p>After some kneading, it starts to become a coherent dough.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-15.jpg" alt="Me rolling the dough out flat with a rolling pin." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-15.jpg?rr" alt="Me rolling the dough out flat with a rolling pin." style="display:block; margin: 2em auto;"/>
 
 <p>Finally, I can roll it out flat with a rolling pin.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-16.jpg" alt="Me cutting a strip off the flattened dough with a knife. Nearby, there is a rack with some other strips of dough sitting on it." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-16.jpg?rr" alt="Me cutting a strip off the flattened dough with a knife. Nearby, there is a rack with some other strips of dough sitting on it." style="display:block; margin: 2em auto;"/>
 
 <p>I cut the dough into strips to cook it. On the racks, the biscuit strips are exposed to the air on all sides, so they dry faster.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-17.jpg" alt="Two racks covered in biscuit strips, with some of the other kitchen stuff nearby." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-17.jpg?rr" alt="Two racks covered in biscuit strips, with some of the other kitchen stuff nearby." style="display:block; margin: 2em auto;"/>
 
 <p>The final arrangement, ready to go in the oven.</p>
 
-<img src="http://deqyc5bzdh53a.cloudfront.net/biscuits-130817-18.jpg" alt="The same rack of biscuits being put into an oven, using potholders." style="display:block; margin: 2em auto;"/>
+<img src="/media/biscuits-130817-18.jpg?rr" alt="The same rack of biscuits being put into an oven, using potholders." style="display:block; margin: 2em auto;"/>
 
 <p>And it goes in.<footnote((Actually, it didn't quite fit this way, and we arrange the racks differently now, and I don't have a good photo of that. Not that it makes a difference to you, dear readers, unless you happen to own exactly the same racks and same oven.))></p>
 
@@ -2011,7 +2010,7 @@ I personally deal with this by never going to a venue that requires me to dress 
   "tags":["math","philosophical"],
   "contents":'''
 
-<p>In my story <a href="http://www.elidupree.com/main/posts/358-capitalism-sat">Capitalism Sat</a>, "Mathematics" says a few things about game theory that I've worked on myself. I'll discuss them here. Knowing some game theory helps, but you might be able to understand without any prior background.</p>
+<p>In my story <a href="/stories/capitalism-sat">Capitalism Sat</a>, "Mathematics" says a few things about game theory that I've worked on myself. I'll discuss them here. Knowing some game theory helps, but you might be able to understand without any prior background.</p>
 
 <p>The classic paradox from game theory is the <a href="https://en.wikipedia.org/wiki/Prisoner%27s_dilemma">Prisoner's Dilemma</a>, or the more general <a href="https://en.wikipedia.org/wiki/Tragedy_of_the_commons">tragedy of the commons</a> &ndash; a situation where players can either cooperate or betray each other, and benefit from betraying, but are better off if everyone cooperates instead of everyone betraying. There are a lot of attempts to "solve" the Prisoner's Dilemma &ndash; that is, to find a reason why purely self-interested players should cooperate. <a href="https://en.wikipedia.org/wiki/Superrational">Superrationality</a> is one of them, but it only works for a limited set of situations. A more effective solution to allow contracts.</p>
 

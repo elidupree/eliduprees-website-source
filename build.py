@@ -47,6 +47,8 @@ import game_pages
 import comics
 import redirects
 
+import idupree_websitepy.build
+
 def ensure_dir(d):
   if not os.path.exists(d):
     os.makedirs(d)
@@ -68,6 +70,9 @@ def main():
   shutil.copy(
     os.path.join(build_dir, "media/favicon.ico"),
     os.path.join(build_dir, "favicon.ico"))
+  shutil.copytree(
+    os.path.join("./media/hexy"),
+    os.path.join(build_dir, "hexy"))
   page_dict = {}
 
   utils.checked_insert(page_dict, css.domain_relative_url(), css.build())
@@ -97,6 +102,17 @@ Disallow: /''')
     ensure_dir(os.path.dirname(buildpath))
     f = open(buildpath, "w", encoding='utf-8')
     f.write(contents)
+
+  idupree_websitepy.build.build(idupree_websitepy.build.Config(
+    site_source_dir = build_dir,
+    build_output_dir = './build/idupree_websitepy_output/',
+    doindexfrom = ['/'],
+    butdontindexfrom = [],
+    error_on_missing_resource = False,
+    error_on_broken_internal_link = False,
+    canonical_scheme_and_domain = utils.canonical_scheme_and_domain,
+    list_of_compilation_source_files = ['build.py']
+    ))
 
 if __name__ == '__main__':
   main()
