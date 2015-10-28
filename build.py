@@ -52,7 +52,10 @@ def ensure_dir(d):
     os.makedirs(d)
 
 def main():
-  build_dir = "./build"
+  build_dir = "./build/initial"
+  # clear old build products:
+  if os.path.exists(build_dir):
+    shutil.rmtree(build_dir)
   ensure_dir(os.path.join(build_dir, "media"))
   media_dir = "./media/"
   media_subdirs = os.listdir(media_dir)
