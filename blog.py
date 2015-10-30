@@ -21,6 +21,7 @@ import comments
 import utils
 import tags
 import exmxaxixl
+import comics
 
 #page_max_width = 75
 #post_content_min_width = 18.5
@@ -431,6 +432,9 @@ for comment in comments.comments:
     comment_ids_by_parent[comment["parent"]] = []
   comment_ids_by_parent[comment["parent"]].append(comment["id"])
 
+def date_posted (post):
+  return post_metadata (post) ["date_posted"]
+  
 def post_permalink(post_dict):
   if "parent_story" in post_dict:
     return "/stories/"+utils.format_for_url(post_dict["parent_story"])+"/discussion"
@@ -493,10 +497,26 @@ def secondary_hidden_cw_box(contents):
     <a name="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
   </div>'''
 
-def post_dict_html(post_dict, expand_comments):
-  return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else expand_comments, post_metadata(post_dict), post_dict["category"] != "stories")
+def post_dict_html(post_dict, stream_only = False):
+  return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories")
 
-def post_html(contents, title, permalink, taglist, expand_comments, metadata, scrutinize = True):
+def stream_entry (post):
+  if "contents" in post:
+    if post ["category"] == "stories":
+      return '''
+<div class="blog_post">
+  <div class="post_content_section">New story: <a href="'''+ post_permalink (post) + '">' + post ["title"] + '''</a></div>
+</div>'''
+    else:
+      return post_dict_html (post, True)
+  else:
+    return '''
+<div class="blog_post">
+  <div class="post_content_section">New comic page: <a href="'''+ comics.page_url  (post) + '">' + post ["title"] + '''</a></div>
+</div>'''
+
+
+def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True):
   post_content = blog_server_shared.postprocess_post_string(contents, metadata["id"], title, False, scrutinize)[0]
   
   
@@ -528,13 +548,13 @@ def post_html(contents, title, permalink, taglist, expand_comments, metadata, sc
   return '''
 <div '''+id_str+''' class="blog_post">
   '''+(''.join(post_content_sections))+'''
-</div>'''+metadata_and_comments_section_html(permalink, taglist, expand_comments, metadata)
+</div>'''+metadata_and_comments_section_html(permalink, taglist, stream_only, metadata)
 
-def metadata_and_comments_section_html(permalink, taglist, expand_comments, metadata):
+def metadata_and_comments_section_html(permalink, taglist, stream_only, metadata):
   comments_stuff = ""
-  if expand_comments == "story":
+  if stream_only == "story":
     comments_stuff = '''<a href="'''+permalink+'''/discussion" class="direct_comment">Author's notes and comments</a>'''
-  elif expand_comments:
+  elif stream_only == False:
     comments_stuff = comments_section(metadata["id"])
   else:
     (cnum, chtml) = do_comments(metadata["id"], True)
@@ -663,7 +683,22 @@ for tag in tags.tags:
   tags_string ='/tags/'+utils.format_for_url(tag)
   sidebars [tag] = page_list_sidebar (page_lists[tag], '<a href="/blog'+tags_string+'">'+ tags.tags [tag] +'</a>:', tags_string)
 #for category, posts in blog_posts.posts.items ():
-  
+
+current_blog_page = page_lists ["blog"] [len (page_lists ["blog"])-1]
+current_blog_page_extras = []
+def consider_list_for_current_page (list):
+  for index in range (1, min (8, 1 + len( list))):
+    post = list [len( list) - index]
+    if date_posted (post) >= date_posted (current_blog_page [0]):
+      current_blog_page_extras.append (post)
+      
+for list in comics.comics_pages.values ():
+  consider_list_for_current_page (list)
+consider_list_for_current_page (blog_posts.posts ["stories"])
+current_blog_page_extras.reverse ()
+current_blog_page = sorted (current_blog_page_extras + current_blog_page, key = date_posted)
+page_lists ["blog"] [len (page_lists ["blog"])-1] = current_blog_page
+
 def add_list_pages (page_dict, page_list, prefix, title, identifier):
   for page_number in range (0,len( page_list)):
     page = page_list [page_number]
@@ -699,7 +734,7 @@ def add_list_pages (page_dict, page_list, prefix, title, identifier):
             html_pages.make_page(
               title +" ⊂ Eli Dupree's website",
               "",
-              make_blog_page_body("\n".join(['<article>'+post_dict_html(post_dict, False)+'</article>' for post_dict in (page if page_order == "/chronological" else reversed(page))]) +end_links, sidebars [identifier])
+              make_blog_page_body("\n".join(['<article>'+ stream_entry (post_dict)+'</article>' for post_dict in (page if page_order == "/chronological" else reversed(page))]) +end_links, sidebars [identifier])
             )
           )
 
@@ -714,7 +749,7 @@ def add_individual_post_pages (page_dict, post_dict):
         html_pages.make_page(
           title_formatted_title(post_dict)+("" if (category == "") else " ⊂ "+utils.capitalize_string(category))+" ⊂ Eli Dupree's website",
           "",
-          "<script>window.elidupree.handle_content_warnings('"+post_dict["title"]+"', false)</script>"+make_blog_page_body(post_dict_html(post_dict, True), specific_sidebar_contents)
+          "<script>window.elidupree.handle_content_warnings('"+post_dict["title"]+"', false)</script>"+make_blog_page_body(post_dict_html(post_dict), specific_sidebar_contents)
         )
       )
         
@@ -731,7 +766,7 @@ def add_individual_post_pages (page_dict, post_dict):
           html_pages.make_page(
             title_formatted_title(discussion_post)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
             "",
-            make_blog_page_body(post_dict_html(discussion_post, True), disc_specific_sidebar_contents)
+            make_blog_page_body(post_dict_html(discussion_post), disc_specific_sidebar_contents)
           )
         )
 
