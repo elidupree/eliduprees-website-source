@@ -504,7 +504,7 @@ def page_html_and_head(page, prev_page, next_page):
     +navbar+metabar+'''
     <div class="comic_annotation_outer">
       <div class="comic_annotation">
-        '''+blog.post_html(page["annotation"], None, page_url(page), None, True, metadata)+'''
+        '''+blog.post_html(page["annotation"], None, page_url(page), None, False, metadata)+'''
       </div>
     </div>
   </main>

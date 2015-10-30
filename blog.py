@@ -537,6 +537,12 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
   content_warning_p_regex = re.compile(r"<content_warning_p"+blog_server_shared.grouped_string_regex("content_warning_p_contents")+">", re.DOTALL)
   post_content = content_warning_p_regex.sub(lambda match: secondary_hidden_cw_box('This section depicts '+match.group("content_warning_p_contents")+'.'), post_content)
   
+  if stream_only == True:
+    cutter = re. compile ( r"<cut>.*?</p>.*$", re.DOTALL)
+    post_content = cutter.sub ('''[...]</p>
+<a class="continue_reading" href="'''+ permalink +'''">Continue reading<span class="invisible"> '''+ title +'''</span></a>''', post_content)
+  else:
+    post_content = re.sub ("<cut>", "", post_content)
   
   post_content_sections = post_content.split("<bigbreak>")
   id_str = ''
