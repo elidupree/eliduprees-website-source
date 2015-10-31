@@ -284,6 +284,7 @@ for comic_id,page_list in comics_pages.items():
   for i in range(0,len(page_list)):
     page_list[i]["comic_id"] = comic_id
     page_number = i + comics_metadata [comic_id] ["page_number_offset"]
+    page_list [i ] ["page_number"] = page_number
     page_list[i]["title"] = comics_metadata [comic_id] ["title"] + (", cover page" if page_number == 0 else ", page "+ str(page_number))
     page_list[i]["list_index"] = i
     page_list[i]["height_conversion_factor"] = 1
@@ -291,7 +292,7 @@ for page_dict in comics_pages["voldemorts_children"]:
   page_dict["height_conversion_factor"] = 4
 
 def page_url(page):
-  return comics_metadata[page["comic_id"]]["url"]+('' if page["list_index"] == 0 else '/'+str(page["list_index"]))
+  return comics_metadata[page["comic_id"]]["url"]+('' if page["list_index"] == 0 else '/'+str(page["page_number"]))
 
 def comic_image_url(page, ext = ''):
   meta = comics_metadata[page["comic_id"]]
@@ -542,7 +543,7 @@ def add_comic_pages(page_dict):
       utils.checked_insert(page_dict,
         page_url(page)+'.html',
         html_pages.make_page(
-          ('Page '+str(i)+' ⊂ ' if i>0 else '')+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
+          ('Page '+str(page ["page_number"])+' ⊂ ' if i>0 else '')+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
           head,
           '<script>'+extra_scripts+'''</script>
   <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page), {"body_class":comics_metadata[comic_id]["body_class"]}
