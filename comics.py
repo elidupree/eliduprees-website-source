@@ -265,6 +265,7 @@ comics_metadata = {
     "image_width": 750,
     "dialogue_name_replacements":voldemorts_children.dialogue_name_replace,
     "image_url_offset":0,
+    "page_number_offset": 0,
     "arrow_images": True,
   },
   "acobs": {
@@ -275,13 +276,15 @@ comics_metadata = {
     "image_width": 545,
     "dialogue_name_replacements":{},
     "image_url_offset":1,
+    "page_number_offset": 1,
   },
 }
 
 for comic_id,page_list in comics_pages.items():
   for i in range(0,len(page_list)):
     page_list[i]["comic_id"] = comic_id
-    page_list[i]["title"] = comic_id+"_page_"+str(i) # hack only used by post_metadata() as a unique identifier
+    page_number = i + comics_metadata [comic_id] ["page_number_offset"]
+    page_list[i]["title"] = comics_metadata [comic_id] ["title"] + (", cover page" if page_number == 0 else ", page "+ str(page_number))
     page_list[i]["list_index"] = i
     page_list[i]["height_conversion_factor"] = 1
 for page_dict in comics_pages["voldemorts_children"]:
@@ -307,7 +310,7 @@ def last_comic_thumbnail_url():
 
 def recent_page_link(deduction):
   page = comics_pages["voldemorts_children"][len(comics_pages["voldemorts_children"]) - 1 - deduction]
-  return '<a class="recent_update" href="'+page_url(page)+'"><div class="recent_update_outer"><div class="recent_update"><img src="'+comic_thumbnail_url(page)+'" alt="" /> '+comics_metadata[page["comic_id"]]["title"]+', page '+str(page["list_index"])+'</div></div><div class="recent_update_end"></div></a>'
+  return '<a class="recent_update" href="'+page_url(page)+'"><div class="recent_update_outer"><div class="recent_update"><img src="'+comic_thumbnail_url(page)+'" alt="" /> '+page["title"]+'</div></div><div class="recent_update_end"></div></a>'
 
 
 def do_css_for_comic(comic_id):
