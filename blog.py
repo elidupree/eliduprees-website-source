@@ -90,7 +90,18 @@ div.blog_right_bar_inner {
 div.blog_right_margin {
   display: table-cell;
   width: '''+str(nice_narrow_margin)+'''em; }
-  
+
+div.stream_media_reference_outer {
+  margin-top:'''+str(post_vertical_separation)+'''em; }
+a.stream_media_reference {
+  display: block;
+  font-size: 130%;
+  font-weight: bold;
+  text-align: center;
+  padding:'''+str(text_padding_width/2)+'''em;
+  background-color: '''+metacontent_color_IE8+''';
+  background-color: '''+metacontent_color+'''; }
+
 div.post_content_section {
   margin-top:'''+str(post_vertical_separation)+'''em;
   padding:'''+str(text_padding_width)+'''em;
@@ -504,15 +515,15 @@ def stream_entry (post):
   if "contents" in post:
     if post ["category"] == "stories":
       return '''
-<div class="blog_post">
-  <div class="post_content_section">New story: <a href="'''+ post_permalink (post) + '">' + post ["title"] + '''</a></div>
+<div class="stream_media_reference_outer">
+  <a class="stream_media_reference" href="'''+ post_permalink (post) + '">New story: ' + post ["title"] + '''</a>
 </div>'''
     else:
       return post_dict_html (post, True)
   else:
     return '''
-<div class="blog_post">
-  <div class="post_content_section">New comic page: <a href="'''+ comics.page_url  (post) + '">' + post ["title"] + '''</a></div>
+<div class="stream_media_reference_outer">
+  <a class="stream_media_reference" href="'''+ comics.page_url  (post) + '">New comic: ' + post ["title"] + '''</a>
 </div>'''
 
 
