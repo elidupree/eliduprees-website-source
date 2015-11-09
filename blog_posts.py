@@ -4,7 +4,6 @@
 import datetime
 import utils
 
-signature = "<p> &ndash; Eli</p>"
 
 
 posts = {
@@ -63,7 +62,7 @@ posts = {
 
 <p>So keep an eye on the website, whatever year you're viewing it in, because... you know that massive project I'm doing? I'm hoping to finish it within a month or two.</p>
 
-<avatar_signature()>'''+signature,
+<avatar_signature()>''',
 },
 {
   "title":"""Scrutinized words: she, he""",
@@ -116,7 +115,7 @@ posts = {
 
 <p>That concludes my thoughts for now. Since this is the reference post for everywhere that "she" and "he" are scrutinized, I may update it from time to time.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Introducing the graphics editing project""",
@@ -149,7 +148,7 @@ posts = {
 
 <p>Once I have a tablet and figure out how to take input from it, it's just a matter of<footnote((And I make it sound so simple! It is not simple; I just happen to be really, really good at getting my ideas straight, which makes this step the one that I'm most confident about doing well, even though it's probably the most difficult step in abstract terms.))> experimenting with different ways of processing that information until I have ones that are near-perfectly in tune with my internal ways of understanding how I produce art. And creating internal data structures that I can easily manipulate and change when I decide I want to restructure my stuff. This is all going to sound a little abstract until I actually get started on doing it, but trust me, once I get going, I will have awesome powers. AWESOME POWERS.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""I ordered a tablet; now what?""",
@@ -278,7 +277,7 @@ posts = {
 
 <p>A few syllables is a small price to pay for a healthy society.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""TODO-1""",
@@ -295,7 +294,7 @@ posts = {
 
 <p>Oh, and also &ndash; I have shipping information on my tablet now. The best estimate is that it will arrive June 21, which gives me an entire week to get used to Haskell programming. I think I'm going to try to port my 2D collision-detection library from C++ to Haskell. Or maybe write a cute Haskell/OpenGL game. Or both. Watch me.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""This is a child-friendly website""",
@@ -338,7 +337,7 @@ posts = {
 
 <p>I have a lot of things to say, and I think most people would benefit from reading my posts. It wouldn't be very nice for me to write them in a way that's inconvenient for some people.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""C++ vs. Haskell: ROUND ONE: What's a programming language, anyway?""",
@@ -394,7 +393,7 @@ return primes;</pre>
 
 <p>So, for the moment, I'm going to step back and write a cute little game in Haskell instead.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Nudity""",
@@ -440,7 +439,7 @@ return primes;</pre>
 
 <p>That's one difficult question answered, I guess. I like having answers to difficult questions!</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Tablet received!""",
@@ -451,7 +450,7 @@ return primes;</pre>
 
 <p>I just received my graphics tablet! I might not be very talkative (blog-ative?) over the next few days while I figure out how to use it and do awesome stuff.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Two days later: EVERYTHING IS A PIECE OF SHIT""",
@@ -506,7 +505,7 @@ return primes;</pre>
 
 <p>Maybe I'll work on my little game some more, or start cutting into my TODO list for this website.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Recommended website: Harry Potter and the Methods of Rationality""",
@@ -527,7 +526,7 @@ return primes;</pre>
 
 <p><a href="http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality">The story begins here</a>, and the (somewhat incomplete, be warned) <a href="http://wiki.lesswrong.com/wiki/MethodsOfRationality/TriggerWarnings">trigger warnings page is here</a>.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""A few concepts I need""",
@@ -556,7 +555,7 @@ return primes;</pre>
 
 <p>Some things that I could have used, but (deliberately) didn't use in <i>People Are Wrong Sometimes</i> are: Continuous shading, texture/pattern, significantly-varied line weight... it was, very explicitly, constructed out of the concepts of line and field, rather than being constructed as marks on paper. I like drawing in that way; remind me to make a post about how drawing can be done from an abstract/conceptual communication perspective, just as much as writing can.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Happy Tau Day!""",
@@ -577,7 +576,7 @@ return primes;</pre>
 
 <p>More information at <a href="http://tauday.com/">http://tauday.com/</a>.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Sex""",
@@ -640,7 +639,7 @@ return primes;</pre>
 
 <p>If you liked this post, <a href="/blog/pornography">join me again in a few <del>days</del> <ins>weeks</ins> when I rant about pornography</a>.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Recommended website: Fugitivus""",
@@ -660,7 +659,7 @@ return primes;</pre>
 
 <p><del>Fugitivus is at (surprise!) www.fugitivus.net.</del> UPDATE: fugitivus.net is dead now. An older version of the blog, with most of the posts still visible, still exists at <a href="https://fugitivus.wordpress.com/">fugitivus.wordpress.com</a>. The "Top Posts" in the right sidebar are a good place to start.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Neurodiversity""",
@@ -716,7 +715,7 @@ return primes;</pre>
 <li>Empathy: Sadly, I don't know of any non-empath self-advocacy sites that are healthy enough for me to be willing to publicly recommend them. For that matter, I'm the only person I know of who describes zemself as a "non-empath". Empathy differences are probably the least-explored issue out of any of these, and a lot of people are still happy to say that "not having emotional empathy" is the same as "being completely evil", which is kinda... not true, and also a pretty horrible thing to say.</li>
 <li>Introversion: I don't know of any good introvert self-advocacy sites, but I bet they exist. Do you know of any? I'll try to find one I like and edit it into this post.</li>
 <li>PTSD from child sexual abuse: <a href="http://sworddancewarrior.wordpress.com/">May We Dance Upon Their Graves</a> &ndash; a personal blog</li>
-</ul>'''+signature,
+</ul>''',
 },
 {
   "title":"""A story idea""",
@@ -763,7 +762,7 @@ return primes;</pre>
 
 <p>And so Twin 2 is ultimately the one who moves on first. Ze finally manages to find a group of people who accept zem for what ze is, and moves away from Twin 1 for good.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Tired of coding""",
@@ -786,7 +785,7 @@ return primes;</pre>
 
 <p>I suppose I could write something here about why I, as a writer, find it valuable to read other people's work, or about why exchanging stories is a good thing even when they sometimes teach problematic lessons, or about the value of cariacture and other "unrealistic" elements in writing, but I'm not sure my ideas about those things are organized enough right now. Oh well.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Pornography""",
@@ -831,7 +830,7 @@ return primes;</pre>
 
 <p>Hmm, maybe I should do that sometime.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Imagining pain""",
@@ -849,7 +848,7 @@ return primes;</pre>
 
 <p>So, dear readers, I'm curious: Does <em>your</em> imagination work this way? Please leave a comment if you feel comfortable doing so!</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Some thoughts about expressiveness, socializing, and honesty""",
@@ -906,7 +905,7 @@ return primes;</pre>
 
 <p>And that's why I think I wouldn't be wary of myself: I'd be able to tell that the abstract ideas <em>are</em> the primary thing I care about. That instead of being a mask that hides my feelings, it's a true reflection of them.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""A little update""",
@@ -932,7 +931,7 @@ return primes;</pre>
 
 <p>Anyway, there's an update for you. Things will probably get more interesting when I head back to college &ndash; I'll try not to get so busy that I don't have time to blog, heh heh.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Recommended website: Riot Nrrd""",
@@ -953,7 +952,7 @@ return primes;</pre>
 
 <p>I recommend <i>Riot Nrrd</i> without reservation. <a href="http://www.riotnrrdcomics.com/2009/12/riot-nrrd-1-2/">The first page is here</a>. At the time of this writing, it's about 120 pages long, so it's a relatively quick read.<footnote((At least compared to the 1000+ page webcomics that can be found in some places on the Internet.))></p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Arrival""",
@@ -974,7 +973,7 @@ return primes;</pre>
 
 <p>In short, my idle time of this summer is now over! I'm going to be engaged in a lot of things, and I hope to blog about them frequently.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Prose vs. graphic narration""",
@@ -1023,7 +1022,7 @@ return primes;</pre>
 
 <p>Incidentally, this post took about an hour to write, in addition to the sketching time.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""In which I rant about the study of English""",
@@ -1090,7 +1089,7 @@ return primes;</pre>
 
 <p>Both of those things are <em>related</em> to the grammar and style that English classes teach, but the purpose must come first, and the style must come second.</p>
 
-<avatar_signature()>'''+signature,
+<avatar_signature()>''',
 },
 {
   "title":"""TODO-2""",
@@ -1162,7 +1161,7 @@ return primes;</pre>
 
 <p>On a less ridiculous note, I should probably tell you how this stuff affected my interactions with the abusive adults from my grade schools (in this case, ages 10-14). But this post has gone on long enough, and telling you about <em>them</em> probably deserves its own post.</p>
 
-<avatar_signature()>'''+signature,
+<avatar_signature()>''',
 },
 {
   "title":"""New index page!""",
@@ -1173,7 +1172,7 @@ return primes;</pre>
 
 <p>I've just created an <a href="/main/index">index page</a> that lists all the tags and posts, with links that let you read the posts in chronological order, too. (That functionality was already built in, but I hadn't made any public way to use it.) And there's a link to the index in the left sidebar.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Some things""",
@@ -1191,7 +1190,7 @@ return primes;</pre>
 
 <p>I'm still planning to post my novella as soon as I can, but my current health issue is making me too distracted to work. (Don't worry, it's temporary, but it's awfully annoying while it's here.) Ditto for posting comics on my regular schedule &ndash; we'll see how things are going by Saturday.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Self-study""",
@@ -1214,7 +1213,7 @@ return primes;</pre>
 
 <p>Anyway, one of the interesting things here is this: I'm finding it just as productive to study my own work as to study someone else's. That makes sense right now, because I've read a lot of comics already, but haven't written very many of them myself... yet!</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""No comic today""",
@@ -1226,7 +1225,7 @@ return primes;</pre>
 
 <p>I also need to blog about the stuff I'm so busy with! I don't have the energy to write about those things, either. Hope I will sometime soon.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Recommended website: The Usual Error""",
@@ -1243,7 +1242,7 @@ return primes;</pre>
 
 <p><a href="http://usualerror.com/">The book's website is here.</a> The link to the free e-book is (at the time of this writing) in the right sidebar of that website.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Let's talk about affirmative consent!""",
@@ -1344,7 +1343,7 @@ And it's also the sexiest thing
 since vibrating dildos.
 Use it.))>
 
-'''+signature,
+''',
 },
 {
   "title":"""Now selling posters!""",
@@ -1359,7 +1358,7 @@ Use it.))>
 
 <p>Again &ndash; <a href="http://www.zazzle.com/eli_dupree*">My online store is right here</a>.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Website upgrades!""",
@@ -1376,7 +1375,7 @@ Use it.))>
 
 <p>Anyway, if the website is totally broken in the next couple of hours, that's because I'm busy uploading the new changes.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Introducing the Colby Sex Club!""",
@@ -1544,7 +1543,7 @@ BOX 2: Poster design by Eli Dupree. Funding by SGA. Thanks to everyone who encou
 
 <p>Anyway, the semester is almost over now, so this is our last action for now, but when I return to Colby in January, we'll be super active again! I'm looking forward to doing lots of awesome things in the name of healthy sexuality.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""More website upgrades!""",
@@ -1557,7 +1556,7 @@ BOX 2: Poster design by Eli Dupree. Funding by SGA. Thanks to everyone who encou
 
 <p>As usual, tell me if anything breaks.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""A look at Lasercake, one of my upcoming projects!""",
@@ -1741,7 +1740,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>Lastly, people say that you fart more if you eat lots of beans, but I haven't noticed myself farting much more than usual.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""I made biscuits!""",
@@ -1778,7 +1777,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>The salt is a bit less than my formula calls for; I haven't been getting the recommended 1.5g/day of sodium, and my body hasn't been craving more. Maybe that's appropriate because I sweat less than the average person, both physically (I overheat fast because I don't sweat much in the heat) and behaviorally (I'm fairly inactive and I avoid heat as much as I can). I've heard that the body is fairly good at regulating its salt intake, so I'll pay attention to whether I start craving salt as time goes forward.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""The carrying contraption""",
@@ -1828,7 +1827,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>A bunch of people have told me "You should patent this and make millions", but I'm not a capitalist, so I encourage you all to make your own versions of this if you want to. When I make my own next version, I might write some detailed instructions for making your own, with a "Please leave a donation if you can afford it" attached.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""I was overheated and unproductive, but now I'm not""",
@@ -1849,7 +1848,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>I'll try to do the "post an awesome thing each week" thing again. To start with, I've done more experiments with biscuits that I should tell you about. Stay tuned.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""An Illustrated Guide to the Biscuits""",
@@ -1955,7 +1954,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>Oddly enough, what made the toughest biscuit was combining a <em>little</em> buckwheat flour with a lot of quick oats. It seems like the oats give the biscuit some structural strength, while the buckwheat keeps it from just falling apart. I didn't record the exact quantities, though.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Alignments""",
@@ -2000,7 +1999,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>I currently think of myself as <strong>Lawful Neutral</strong>. I try to make the world better for everyone, which seems Meddling, but I only do that because I <em>believe it's the right thing to do</em> (a Lawful motivation) rather than because I have any innate desire to make people feel better.</p>
 
-'''+signature,
+''',
 },
 {
   "title":"""Game theory, contracts, altruism""",
@@ -2069,7 +2068,7 @@ By Impartiality, I can swap the conspirators to the end and get the same social 
 
 <p>It is possible to make this world into a good world. It's just a matter of whether we will succeed.</p>
 
-'''+signature,
+''',
 },
 
 
@@ -2155,15 +2154,12 @@ By Impartiality, I can swap the conspirators to the end and get the same social 
 }
 
 
+signature = "<p> &ndash; Eli</p>"
 
 for cat,post_list in posts.items():
   for post_dict in post_list:
     post_dict["path_prefix"] = "/" if cat=="" else "/"+cat+"/"
     post_dict["category"] = cat
+    if cat == 'blog':
+      post_dict['contents'] += signature
 
-"""
-{
-  "title":""
-  "contents":''''''+signature
-}
-"""
