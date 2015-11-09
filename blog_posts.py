@@ -14,6 +14,7 @@ import posts.blog_08
 import posts.blog_09
 import posts.blog_10
 import posts.blog_11
+import posts.not_what_i_am
 import posts.stories_01
 import posts.uncategorized_01
 
@@ -36,6 +37,7 @@ blog_posts = flatten([
 ])
 
 stories = flatten([
+  posts.not_what_i_am.posts,
   posts.stories_01.posts,
 ])
 

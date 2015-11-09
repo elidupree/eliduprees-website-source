@@ -1,3 +1,12 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+import datetime
+
+posts = [
+{
+  "title":"Not What I Am",
+  "contents": '''
 <p style="font-size: 200%; text-align: center">a novella</p>
 <p style="font-size: 150%; text-align: center">by Eli Dupree</p>
 <bigbreak>
@@ -2056,3 +2065,6 @@ don't really hear it. The girl who's sitting in the chair, listening
 to Maureen, doesn't feel like me. My body isn't the body that lay
 with Rose all those nights. My mouth isn't the mouth that told Rose
 to do those things. I don't feel like that girl at all.</p>
+''',
+},
+]
