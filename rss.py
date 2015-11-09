@@ -5,6 +5,8 @@ from __future__ import division
 import datetime
 import cgi
 import os
+import re
+
 import utils
 import exmxaxixl
 import blog
@@ -22,33 +24,23 @@ def add_feed(page_dict):
     <uri>'''+utils.canonical_scheme_and_domain+'''/</uri>
   </author>'''
   
-  print ("TODO: include stories, non-VC comics in feed")
-  entries = []
-  blog_idx = len(blog_posts.posts["blog"]) - 1
-  vc_idx = len(voldemorts_children_pages.vc_pages) - 1
-  while len(entries) < 10:
-    blog_post = blog_posts.posts["blog"][blog_idx]
-    vc_post = voldemorts_children_pages.vc_pages[vc_idx]
-    if blog.post_metadata(blog_post)["date_posted"] > blog.post_metadata(vc_post)["date_posted"]:
-      post_dict = blog_post
-      title = post_dict["title"]
-      post_string = post_html(post_dict, True)
-      link = blog.post_permalink(post_dict)
-      # make internal links work in the feed
-      post_string = re.sub(r'( (?:href|src)=")/', lambda match: match.group(1)+utils.canonical_scheme_and_domain+'/', post_string)
-      blog_idx = blog_idx - 1
+  entries = []  
+  for post in reversed (blog.current_blog_page):
+    if "comic_id" not in post:
+      link = blog.post_permalink(post)
     else:
-      post_dict = vc_post
-      title = 'Voldemort\'s Children, Page '+str(vc_idx)
-      link = comics.page_url(post_dict)
-      post_string = '<a href="'+utils.canonical_scheme_and_domain+link+'">New page of Voldemort\'s Children</a>'
-      vc_idx = vc_idx - 1
-    metadata = blog.post_metadata(post_dict)
+      link = comics.page_url(post)
+    title = post ["title"]
+    post_string = blog.stream_entry (post)
+    metadata = blog.post_metadata(post)
+    # make internal links work in the feed
+    post_string = re.sub(r'( (?:href|src)=")/', lambda match: match.group(1)+utils.canonical_scheme_and_domain+'/', post_string)
     
     entries.append('''
     <entry>
       <id>'''+utils.canonical_scheme_and_domain+link+'''</id>
       <title type="html">'''+cgi.escape(title)+'''</title>
+      <published>'''+atom_time(metadata["date_posted"])+'''</published>      
       <updated>'''+atom_time(metadata["date_modified"])+'''</updated>
       '''+author+'''
       <link rel="alternate" href="'''+utils.canonical_scheme_and_domain+link+'''" />
@@ -62,6 +54,7 @@ def add_feed(page_dict):
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>'''+utils.canonical_scheme_and_domain+'''/</id>
+  <icon>'''+utils.canonical_scheme_and_domain +'''/site-logo.png</icon>
   <title>Eli Dupree's website</title>
   <updated>'''+atom_time(datetime.datetime.utcnow())+'''</updated>
   '''+author+'''
