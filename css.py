@@ -41,6 +41,13 @@ a.skip {
   left: 0; top: 0;
   z-index: -1;
 }
+/* for things that should be apparent to screen readers, but are unnecessarily verbose for using the page visually; refer to
+  http://adaptivethemes.com/using-css-clip-as-an-accessible-method-of-hiding-content */
+.invisible {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+}
 '''
 
 # previously   p { margin-top: 0.75em; margin-bottom: 0.75em; }

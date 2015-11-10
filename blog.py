@@ -162,6 +162,9 @@ div.blog_post_metadata {
   background-color:'''+metacontent_color_IE8+''';
   background-color:'''+metacontent_color+'''; }
 
+a.continue_reading {
+  }
+
 h2.comments_title {
   font-size: 200%;
   font-weight: bold;
@@ -551,7 +554,7 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
   if stream_only == True:
     cutter = re. compile ( r"<cut>.*?</p>.*$", re.DOTALL)
     post_content = cutter.sub ('''[...]</p>
-<a class="continue_reading" href="'''+ permalink +'''">Continue reading<span class="invisible"> '''+ title +'''</span></a>''', post_content)
+<a class="continue_reading" href="'''+ permalink +'''">Continue reading<span class="invisible"> '''+ title +'''</span>...</a>''', post_content)
   else:
     post_content = re.sub ("<cut>", "", post_content)
   
@@ -565,9 +568,12 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
   return '''
 <div '''+id_str+''' class="blog_post">
   '''+(''.join(post_content_sections))+'''
-</div>'''+metadata_and_comments_section_html(permalink, taglist, stream_only, metadata)
+</div>'''+metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata)
 
-def metadata_and_comments_section_html(permalink, taglist, stream_only, metadata):
+def metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata):
+  specifier = ""
+  if title:
+    specifier = '<span class="invisible"> for '+ title +'</span>'
   comments_stuff = ""
   if stream_only == "story":
     comments_stuff = '''<a href="'''+permalink+'''/discussion" class="direct_comment">Author's notes and comments</a>'''
@@ -575,7 +581,7 @@ def metadata_and_comments_section_html(permalink, taglist, stream_only, metadata
     comments_stuff = comments_section(metadata["id"])
   else:
     (cnum, chtml) = do_comments(metadata["id"], True)
-    comments_stuff = utils.inline_separator+'<a href="'+permalink+'#comments">Comments&nbsp;('+str(cnum)+')</a>'
+    comments_stuff = utils.inline_separator+'<a href="'+permalink+'#comments">Comments' + specifier + '&nbsp;('+str(cnum)+')</a>'
   
   tags_str = ''
   if taglist:
@@ -587,7 +593,7 @@ def metadata_and_comments_section_html(permalink, taglist, stream_only, metadata
   return '''
 <div class="blog_post_metadata_outer">
   <div class="blog_post_metadata">
-    '''+tags_str+date_str+'<a rel="bookmark" href="'+permalink+'">Permalink</a>'+comments_stuff+'''
+    '''+tags_str+date_str+'<a rel="bookmark" href="'+permalink+'">Permalink' + specifier + '</a>'+comments_stuff+'''
   </div>
 </div>'''
   
