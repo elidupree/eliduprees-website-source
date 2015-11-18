@@ -233,7 +233,26 @@ a.blog_end_link.nav.right {
 div.blog_index {
   padding: 0.4em 0; }
 div.index_entry {
-  padding: 0.2em 0.6em; }
+  font-size: 80%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+div.index_entry a {
+  color: black;
+  text-decoration: none; }
+div.index_entry a:hover {
+  text-decoration: underline; }
+div.index_page_entry {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 0.8em; 
+  padding-left:0.4em;
+padding-bottom:0.1em;   }
+div.index_page_entry a {
+  color: black;
+  text-decoration: none; }
+div.index_page_entry a:hover {
+  text-decoration: underline; }
 a.sidebar_standalone_link {
   padding: 0.4em 0;
   display: block; }
@@ -622,7 +641,7 @@ def add_fake_comments(html):
   return re.sub(re.escape(utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'), fake_comment_html, html)
 
 def index_entry_html(post_dict):
-  return '<div class="index_entry"><a name="index_entry" href="'+post_permalink(post_dict)+'">'+post_dict["title"]+'</a></div>'
+  return '<div class="index_entry"><a name="index_entry" href="'+post_permalink(post_dict)+'" title="'+post_dict["title"]+'">'+post_dict["title"]+'</a></div>'
 
 
 def make_blog_page_body(main_contents, sidebar_contents):
@@ -700,11 +719,11 @@ def page_list_sidebar (page_list, header, tags_string = ""):
 
 sidebars = {}
 sidebars [""] = ""
-sidebars ["stories"] = sidebar_with_entries ([index_entry_html (post) for post in blog_posts.posts ["stories"]],'<a href="/stories">All stories</a>:')
-sidebars ["blog"] = page_list_sidebar (page_lists ["blog"], '<a href="/blog">All blog posts</a>:')
+sidebars ["stories"] = sidebar_with_entries ([index_entry_html (post) for post in blog_posts.posts ["stories"]],'<div class=" index_page_entry"><a href="/stories">Stories</a></div>')
+sidebars ["blog"] = page_list_sidebar (page_lists ["blog"], '<div class=" index_page_entry"><a href="/blog">Latest blog posts</a></div>')
 for tag in tags.tags:
   tags_string ='/tags/'+utils.format_for_url(tag)
-  sidebars [tag] = page_list_sidebar (page_lists[tag], '<a href="/blog'+tags_string+'">'+ tags.tags [tag] +'</a>:', tags_string)
+  sidebars [tag] = page_list_sidebar (page_lists[tag], '<div class=" index_page_entry"><a href="/blog'+tags_string+'">'+ tags.tags [tag] +'</a></div>', tags_string)
 #for category, posts in blog_posts.posts.items ():
 
 current_blog_page = page_lists ["blog"] [len (page_lists ["blog"])-1]
