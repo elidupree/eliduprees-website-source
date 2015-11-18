@@ -92,15 +92,23 @@ div.blog_right_margin {
   width: '''+str(nice_narrow_margin)+'''em; }
 
 div.stream_media_reference_outer {
-  margin-top:'''+str(post_vertical_separation)+'''em; }
+  margin-top:'''+str(post_vertical_separation)+'''em;
+  text-align: center; }
+div.stream_media_reference_outer + div.stream_media_reference_outer {
+  margin-top: 0.125em; }
 a.stream_media_reference {
   display: block;
-  font-size: 130%;
   font-weight: bold;
-  text-align: center;
-  padding:'''+str(text_padding_width/2)+'''em;
+  text-decoration: none;
   background-color: '''+metacontent_color_IE8+''';
-  background-color: '''+metacontent_color+'''; }
+  background-color: '''+metacontent_color+''';
+  text-align: center;
+  display: inline-block;
+  padding:0 0.6em;
+  border-radius:0.7em; }
+a.stream_media_reference img {
+  height: 2em; }
+
 
 div.post_content_section {
   margin-top:'''+str(post_vertical_separation)+'''em;
@@ -237,10 +245,10 @@ div.index_entry {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis; }
-div.index_entry a {
-  color: black;
+div.blog_right_bar a {
+
   text-decoration: none; }
-div.index_entry a:hover {
+div.blog_right_bar a:hover {
   text-decoration: underline; }
 div.index_page_entry {
   font-weight: bold;
@@ -248,11 +256,6 @@ div.index_page_entry {
   padding-top: 0.8em; 
   padding-left:0.4em;
 padding-bottom:0.1em;   }
-div.index_page_entry a {
-  color: black;
-  text-decoration: none; }
-div.index_page_entry a:hover {
-  text-decoration: underline; }
 a.sidebar_standalone_link {
   padding: 0.4em 0;
   display: block; }
@@ -541,11 +544,11 @@ def stream_entry (post):
   <a class="stream_media_reference" href="'''+ post_permalink (post) + '">New story: ' + post ["title"] + '''</a>
 </div>'''
     else:
-      return post_dict_html (post, True)
+      return '<article>'+ post_dict_html (post, True)+'</article>' 
   else:
     return '''
 <div class="stream_media_reference_outer">
-  <a class="stream_media_reference" href="'''+ comics.page_url  (post) + '">New comic: ' + post ["title"] + '''</a>
+  <a class="stream_media_reference" href="'''+ comics.page_url  (post) + '"> <img src="'+ comics.comic_image_url (post, "thumbnail_top") +'" alt=""> New comic: ' + post ["title"] + '''</a>
 </div>'''
 
 
@@ -729,7 +732,7 @@ for tag in tags.tags:
 current_blog_page = page_lists ["blog"] [len (page_lists ["blog"])-1]
 current_blog_page_extras = []
 def consider_list_for_current_page (list):
-  for index in range (1, min (8, 1 + len( list))):
+  for index in range (1, min (6, 1 + len( list))):
     post = list [len( list) - index]
     if date_posted (post) >= date_posted (current_blog_page [0]):
       current_blog_page_extras.append (post)
@@ -776,7 +779,7 @@ def add_list_pages (page_dict, page_list, prefix, title, identifier):
             html_pages.make_page(
               title +" ⊂ Eli Dupree's website",
               "",
-              make_blog_page_body("\n".join(['<article>'+ stream_entry (post_dict)+'</article>' for post_dict in (page if page_order == "/chronological" else reversed(page))]) +end_links, sidebars [identifier])
+              make_blog_page_body("\n".join([stream_entry (post_dict ) for post_dict in (page if page_order == "/chronological" else reversed(page))]) +end_links, sidebars [identifier])
             )
           )
 
