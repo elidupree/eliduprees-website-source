@@ -101,7 +101,8 @@ div.comic_nav_button {
   position: relative;
   display: inline-block;
   text-align: center;
-  vertical-align: top; }
+  vertical-align: top;
+  width: 50%; }
 div.comic_nav_button a {
   display: block; }
                                div.comic_nav_button.content_warning { margin-bottom: 3em; }
@@ -111,14 +112,15 @@ body.content_warnings_disabled div.comic_nav_button.content_warning { margin-bot
   border-style: solid;
   border-color: transparent;
   border-top-width: 40px;
-  border-bottom-width: 40px; }
+  border-bottom-width: 40px;
+ }
 span.comic_nav_button_main {
   font-size: 300%;
   font-weight: bold; }
 span.comic_nav_content_warning {
   position: absolute;
-  left: 30px;
-  right: 30px;
+  left: 9%;
+  right: 9%;
   top: 100%;
   margin-top: -34px;
   font-family: Arial, Helvetica, sans-serif;
@@ -321,26 +323,34 @@ def do_css_for_comic(comic_id):
   transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_width
   comics_metadata[comic_id]["transcript_at_side_width"] = transcript_at_side_width
   nav_margin = comic_width // 30
-  navhalf_wid = (comic_width - nav_margin*2) // 2
+  navigation_width =comic_width - nav_margin*2
+  navhalf_wid = (navigation_width ) // 2
   navbut_inner_margin = comic_width // 15
   navbut_wid = navhalf_wid - navbut_inner_margin*2
   css.insert('''
 '''+ancestor_str+''' div.comic_and_nav {
   width: '''+str(comic_width)+'''px; }
-'''+ancestor_str+''' div.comic_image {
-  width: '''+str(comic_width)+'''px; }
 '''+ancestor_str+''' img.comic_image {
   width: '''+str(comic_width)+'''px; }
   
 '''+ancestor_str+''' div.comic_nav_bar {
-  width: '''+str(comic_width - 2*nav_margin)+'''px;
-  margin: 0 '''+str(nav_margin)+'''px; }
-'''+ancestor_str+''' div.comic_metabar {
-  width: '''+str(comic_width)+'''px; }
+  width: 94%;
+  margin: 0 3%;}
 
-'''+ancestor_str+''' div.comic_transcript_outer {
-  width: '''+str(comic_width)+'''px; }
-  
+'''+ancestor_str+''' .comic_nav_button_main {
+  width: '''+str(navbut_wid)+'''px;
+margin: 0 auto;}
+
+
+@media screen and (max-width:'''+str( comic_width - 1) +'''px) {
+'''+ancestor_str+''' div.comic_and_nav {
+  width: 100%; }
+'''+ancestor_str+''' img.comic_image {
+  width: 100%; }
+'''+ancestor_str+''' .comic_nav_button_main {
+  width: '''+str(navbut_wid*100//navhalf_wid )+'''%;}
+}
+
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
   '''+ancestor_str+''' div.comic_and_nav {
     width: auto;
@@ -348,6 +358,16 @@ def do_css_for_comic(comic_id):
   '''+ancestor_str+''' div.comic_image {
     padding-bottom: 0;
     margin-right: -'''+str(comic_width)+'''px; }
+    
+  '''+ancestor_str+''' div.comic_nav_bar {
+    width: '''+str(navigation_width )+'''px;
+    margin: 0 '''+str(nav_margin )+'''px;}
+    
+  '''+ancestor_str+''' div.comic_metabar {
+    width: '''+str(comic_width)+'''px; }
+  '''+ancestor_str+''' div.comic_annotation_outer {
+    width: '''+str(comic_width)+'''px; }
+
   '''+ancestor_str+''' div.comic_transcript_outer {
     display: inline-block;
     vertical-align: top;
@@ -365,20 +385,6 @@ def do_css_for_comic(comic_id):
   '''+ancestor_str+''' div.comic_transcript_outer {
     width: '''+str(transcript_maximized_width-comic_width)+'''px; }
 }
-
-'''+ancestor_str+''' div.comic_annotation_outer {
-  width: '''+str(comic_width)+'''px;
-}
-'''+ancestor_str+''' .comic_nav_button {
-  width: '''+str(navhalf_wid)+'''px; }
-'''+ancestor_str+''' .comic_nav_button_main {
-  width: '''+str(navbut_wid)+'''px; }
-'''+ancestor_str+''' .comic_nav_button_main.prev {
-  border-left-width: '''+str(navbut_inner_margin)+'''px;
-  border-right-width: '''+str(navbut_inner_margin)+'''px; }
-'''+ancestor_str+''' .comic_nav_button_main.next {
-  border-left-width: '''+str(navbut_inner_margin)+'''px;
-  border-right-width: '''+str(navbut_inner_margin)+'''px; }
 ''')
 
 for comic_id,page_list in comics_pages.items():
