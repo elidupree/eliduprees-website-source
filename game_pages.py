@@ -169,6 +169,135 @@ when their “opponent” is too tied up to reach the board.
   </div>
 </main>''')
 
+import random
+def maze_color ():
+  return hex (random.randint( 100, 255)) [2:]
+
+def render_node (maze, node):
+  (CSS, HTML) = render_nodes (maze, node.children)
+  CSS.append ('''
+maze node_children_'''+  str(node ["index"])  +'''{
+display: none}
+maze node_'''+  str(node ["index"])  +''':hover {
+display: block}
+maze node_box_'''+  str(node ["index"])   +''' node_children_'''+  str(node ["index"])  +'''{
+position: absolute;
+left:'''+str( node ["left"]*100//maze ["width"]) +'''%;
+right:'''+str( ( node ["right"] + 1)*100//maze ["width"]) +'''%;
+top:'''+str( node ["top"]*100//maze ["height"]) +'''%;
+bottom:'''+str(( node ["bottom"] + 1)*100//maze ["height"]) +'''%;
+background-color:#'''+ maze_color () +maze_color () +maze_color () +'''
+}''')
+  return (CSS, 
+  '''<div class=" node_'''+ str(node ["index"])  +'''"><div class= "node_box_'''+ str(node ["index"])  +'''"></div>'''+ HTML +'''</div>''')
+  
+def render_nodes (maze, nodes):
+  (CSS, HTML) = ([], "")
+  for node in nodes:
+    (CSS_2, HTML_2) = render_node (node)
+    CSS.extend (CSS_2)
+    HTML.append (HTML_2)
+  HTML = "".join (HTML)
+  return (CSS, HTML)
+def render_maze (maze):
+  return render_nodes (maze, maze ["top_level"])
+  
+def evaluate_maze (maze):
+  maze ["evaluation"] = 0
+
+def initialize_maze (width, height):
+  maze = {"width": width, "height": height}
+  node_rows = height//10
+  maze ["nodes"] = []
+  maze ["top_level"] = []
+  row_top = 0
+  for row in range (0, node_rows):
+    row_bottom = random.randint (row*10 + 8, row*10 + 12)
+    if row == node_rows - 1:
+      row_bottom = height - 1
+    columns = random.randint (width//12, width//8)
+    column_left = 0
+    for column in range (0, columns):
+      column_right = column*width //columns + random.randint (-2, 2)
+      if column == columns - 1:
+        column_right = width - 1
+      node ={"left": column_left,
+        "right": column_right,
+        "top": row_top,
+        "bottom": row_bottom,
+        "index":len( maze ["nodes"]),
+        "children": []}
+      maze ["nodes"].append (node)
+      maze ["top_level"].append (node)
+      column_left = column_right + 1
+    row_top = row_bottom + 1
+  
+  maze ["grid"] = [[0]*height]*width
+  for node in maze ["nodes"]:
+    for X in range (node ["left"], node ["right"] + 1):
+      for Y in range (node ["top"], node ["bottom"] + 1):
+        maze ["grid"] [X] [Y] = node
+  
+  evaluate_maze (maze)
+  return maze
+
+def expand (maze, node, count):
+  while True:
+    width = random.
+
+def sever (maze, node):
+  children =node ["children"]
+  for child in children:
+    remove (maze, child)
+  node ["children"] = []
+  return (children, 0)
+  
+def remove (maze, node):
+  nodes =maze ["nodes"] 
+  moved = nodes [len( nodes)-1]
+  moved ["index"] = node ["index"]
+  nodes [moved ["index"] ] = moved
+  nodes.pop ()
+  for child in node ["children"]:
+    remove (maze, child)
+  
+def record (maze, node):
+  last_index =node ["index"]
+  nodes =maze ["nodes"] 
+  if len( nodes)<= last_index or nodes [last_index] != node:
+    node ["index"] = len(maze ["nodes"])
+    maze ["nodes"].append (node)
+  for child in node ["children"]:
+    record (maze, child)
+    
+def try_change (maze):
+  node = random.choice (maze ["nodes"])
+  (severed, count) = sever (maze, node)
+  old_evaluation = maze ["evaluation"]
+  if random.choice ([True, False]) and count >0:
+    count -= 1
+  else:
+    count += 1
+  expand (maze, node, count)
+  evaluate_maze (maze)
+  return {"evaluation": old_evaluation, "severed": severed}
+
+def restore (maze, severed):
+  maze ["evaluation"] = severed ["evaluation"]
+  node =severed ["severed"] ["node"]
+  sever (maze, node)
+  node ["children"] = severed ["severed"] ["children"]
+  record (maze, node)
+  
+def generate_maze (width, height):
+  maze = initialize_maze (width, height)
+  iterations = 1000
+  for iteration in xrange (iterations):
+    severed = try_change (maze)
+    if random.randrange (iterations) <iteration and maze ["evaluation"] <severed ["evaluation"]:
+      restore (maze, severed)
+  return render_maze (maze)
+
 def add_game_pages(page_dict):
   utils.checked_insert(page_dict,
     '/hexy.html',
