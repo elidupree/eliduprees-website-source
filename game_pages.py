@@ -174,33 +174,69 @@ def maze_color ():
   return hex (random.randint( 100, 255)) [2:]
 
 def render_node (maze, node):
-  (CSS, HTML) = render_nodes (maze, node.children)
+  (CSS, HTML) = render_nodes (maze, node ["children"])
   CSS.append ('''
-maze node_children_'''+  str(node ["index"])  +'''{
+div.maze div.node_children_'''+  str(node ["index"])  +'''{
 display: none}
-maze node_'''+  str(node ["index"])  +''':hover {
+div.maze div.node_'''+  str(node ["index"])  +''':hover div.node_children_'''+  str(node ["index"])  +'''{
 display: block}
-maze node_box_'''+  str(node ["index"])   +''' node_children_'''+  str(node ["index"])  +'''{
+
+div.maze div.node_box_'''+  str(node ["index"])   +''' {
 position: absolute;
+z-index:'''+str( node ["depth"]*2) +''';
 left:'''+str( node ["left"]*100//maze ["width"]) +'''%;
-right:'''+str( ( node ["right"] + 1)*100//maze ["width"]) +'''%;
+right:'''+str( 100 - ( node ["right"] + 1)*100//maze ["width"]) +'''%;
 top:'''+str( node ["top"]*100//maze ["height"]) +'''%;
-bottom:'''+str(( node ["bottom"] + 1)*100//maze ["height"]) +'''%;
-background-color:#'''+ maze_color () +maze_color () +maze_color () +'''
-}''')
+bottom:'''+str(100 - ( node ["bottom"] + 1)*100//maze ["height"]) +'''%;
+
+
+}
+
+div.maze div.node_box_'''+  str(node ["index"])   +'''.shown {
+background-color:#'''+ maze_color () +maze_color () +maze_color () +''';
+}
+div.maze div.node_box_'''+  str(node ["index"])   +'''.shadow {
+z-index:'''+str( node ["depth"]*2 - 1) +''';
+box-shadow: 0.5em 0.5em 1.5em 0.2em black;
+}
+
+div.maze div.node_'''+  str(node ["index"])  +''':hover div.node_box_'''+  str(node ["index"])   +'''.shown {
+z-index:'''+str( node ["depth"]*2 + 2) +''';
+
+}
+div.maze div.node_'''+  str(node ["index"])  +''':hover div.node_box_'''+  str(node ["index"])   +'''.shadow {
+z-index:'''+str( node ["depth"]*2 + 1) +''';
+
+}
+''')
   return (CSS, 
-  '''<div class=" node_'''+ str(node ["index"])  +'''"><div class= "node_box_'''+ str(node ["index"])  +'''"></div>'''+ HTML +'''</div>''')
+  '''
+<div class=" node_'''+ str(node ["index"])  +'''">
+  <div class= "shown node_box_'''+ str(node ["index"])  +'''"></div>
+  <div class= "shadow node_box_'''+ str(node ["index"])  +'''"></div>
+  <div class= "node_children_'''+ str(node ["index"])  +'''">'''+ HTML +'''</div>
+</div>''')
   
 def render_nodes (maze, nodes):
-  (CSS, HTML) = ([], "")
+  (CSS, HTML) = ([], [])
   for node in nodes:
-    (CSS_2, HTML_2) = render_node (node)
+    (CSS_2, HTML_2) = render_node (maze, node)
     CSS.extend (CSS_2)
     HTML.append (HTML_2)
   HTML = "".join (HTML)
   return (CSS, HTML)
+  
 def render_maze (maze):
-  return render_nodes (maze, maze ["top_level"])
+  (CSS, HTML) = render_nodes (maze, maze ["top_level"])
+  CSS.append ('''
+div.maze {
+position: relative;
+width: 80%;
+margin: 0 auto;
+height: 40em;}''')
+  CSS = "".join (CSS)
+  HTML ='''<div class="maze">'''+ HTML +'''</div>'''
+  return (CSS, HTML)
   
 def evaluate_maze (maze):
   maze ["evaluation"] = 0
@@ -218,7 +254,7 @@ def initialize_maze (width, height):
     columns = random.randint (width//12, width//8)
     column_left = 0
     for column in range (0, columns):
-      column_right = column*width //columns + random.randint (-2, 2)
+      column_right = (column +1)*width //columns + random.randint (-2, 2)
       if column == columns - 1:
         column_right = width - 1
       node ={"left": column_left,
@@ -226,7 +262,10 @@ def initialize_maze (width, height):
         "top": row_top,
         "bottom": row_bottom,
         "index":len( maze ["nodes"]),
+        "depth": 1,
+        "parent": maze,
         "children": []}
+      validate (maze, node)
       maze ["nodes"].append (node)
       maze ["top_level"].append (node)
       column_left = column_right + 1
@@ -241,9 +280,61 @@ def initialize_maze (width, height):
   evaluate_maze (maze)
   return maze
 
+def validate (maze, node):
+  assert (node ["left"] >=0)
+  assert (node ["right"] <maze ["width"])  
+  assert (node ["top"] >=0)
+  assert (node ["bottom"] <maze ["height"])
+  assert (node ["left"] <= node ["right"])
+  assert (node ["top"] <= node ["bottom"])
+  
 def expand (maze, node, count):
-  while True:
-    width = random.
+  if True:
+    (top, bottom, left, right, maze_width, maze_height) = random.choice ([
+      ("top", "bottom", "left", "right", maze ["width"], maze ["height"]),
+      ("left", "right", "top", "bottom", maze ["height"], maze ["width"])])
+    width = random.randint( max (15, node [right] - node [left] + 5), 65)
+    new_left = random.randint (max(0, node [right] - width +1), min (maze_width - width, node [left]))
+    below = random.choice ([True, False])
+    rows = min (random.randint( 1, 3), random.randint( 1, 3))
+    height = 0
+    for row in range (rows):
+      row_bottom = height + random.randint (7, 11)
+      
+      if below:
+        absolute_bottom =node [bottom] + row_bottom + 1
+        if absolute_bottom>= maze_height:
+          break
+      else:
+        absolute_top =node [top] - row_bottom - 1
+        if absolute_top <0:
+          break
+      columns = random.randint (width//20, width//5)
+      column_left = new_left
+      for column in range (columns):
+        column_right = new_left + (column + 1)*width//columns + random.randint (-1, 1)
+        if column == columns -1:
+          column_right = new_left + width - 1
+        new_node = {
+          "parent": node,
+          "index": None,
+          "depth": node ["depth"] + 1,
+          "children": []}
+        new_node [left] = column_left
+        new_node [right] = column_right
+        if below:
+          new_node [top] = node [bottom] + height + 1
+          new_node [bottom] = absolute_bottom
+        else:
+          new_node [bottom] = node [top] - height - 1
+          new_node [top] = absolute_top
+        node["children"].append (new_node)
+        validate (maze, new_node)
+        record (maze, new_node)
+        column_left = column_right +1
+      height = row_bottom + 1
+    if height >0:
+      node ["grid"] = None
 
 def sever (maze, node):
   children =node ["children"]
@@ -264,7 +355,7 @@ def remove (maze, node):
 def record (maze, node):
   last_index =node ["index"]
   nodes =maze ["nodes"] 
-  if len( nodes)<= last_index or nodes [last_index] != node:
+  if last_index is None or len( nodes)<= last_index or nodes [last_index] != node:
     node ["index"] = len(maze ["nodes"])
     maze ["nodes"].append (node)
   for child in node ["children"]:
@@ -292,7 +383,7 @@ def restore (maze, severed):
 def generate_maze (width, height):
   maze = initialize_maze (width, height)
   iterations = 1000
-  for iteration in xrange (iterations):
+  for iteration in range (iterations):
     severed = try_change (maze)
     if random.randrange (iterations) <iteration and maze ["evaluation"] <severed ["evaluation"]:
       restore (maze, severed)
@@ -315,3 +406,14 @@ def add_game_pages(page_dict):
       hexy_page(True), {"body_class":"hexy"}
     )
   )
+  (maze_CSS, maze_HTML) = generate_maze (100, 100)
+  
+  utils.checked_insert(page_dict,
+    '/badly-designed-menus.html',
+    html_pages.make_page(
+      "badly Designed Menus ⊂ Eli Dupree's website",
+      '<style type="text/css">\n' + maze_CSS + '</style>',
+      maze_HTML, {}
+    )
+  )
+
