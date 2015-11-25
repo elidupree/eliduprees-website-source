@@ -212,9 +212,9 @@ z-index:'''+str( node ["depth"]*2 + 1) +''';
 
 }
 ''')
-  text = ""
+  text = "" +str (node ["search_level"] if "search_level" in node else "inaccessible") + "," +str( "grid".join ([str(index) for index in node ["grid"]]) if node ["grid"] else "no grid")
   if "exit" in node:
-    text = "exit"
+    text = text + "exit"
   return (CSS, 
   '''
 <div class=" node_'''+ str(node ["index"])  +'''">
@@ -243,9 +243,11 @@ height: 40em;}''')
   CSS = "".join (CSS)
   HTML ='''<div class="maze">'''+ HTML +'''</div>'''
   return (CSS, HTML)
-  
+
+search = 0
 def evaluate_maze (maze):
-  search = {}
+  global search
+  search = search + 1
   search_levels = [[]]
   level = 0
   exit_level = - 1000
@@ -286,7 +288,7 @@ def probe_grid (node, X, Y):
   grid =node ["grid"]
   if grid and index in grid:
     return grid [index]
-  if "parent" in node:
+  elif "parent" in node:
     return probe_grid (node ["parent"], X, Y)
 
 def initialize_maze (width, height):
@@ -324,7 +326,7 @@ def initialize_maze (width, height):
   for node in maze ["nodes"]:
     add_to_grid (maze ["grid"], node)
   probe_grid (maze, width//2, height//2) ["exit"] = True
-  evaluate_maze (maze)
+  #evaluate_maze (maze)
   return maze
 
 def validate (maze, node):
@@ -384,8 +386,8 @@ def expand (maze, node, count):
     if height ==0:
       return expand (maze, node, count)
     node ["grid"] = {}
-    for new_node in node ["children"]:
-      add_to_grid (node ["grid"], new_node)
+    for child in node ["children"]:
+      add_to_grid (node ["grid"], child)
 
 def sever (maze, node):
   children =node ["children"]
@@ -394,7 +396,7 @@ def sever (maze, node):
   node ["children"] = []
   grid = node ["grid"]
   node ["grid"] = None
-  return ({"children": children, "grid": grid,}, 0)
+  return ({"node": node,"children": children, "grid": grid,}, 0)
   
 def remove (maze, node):
   nodes =maze ["nodes"] 
@@ -442,7 +444,7 @@ def generate_maze (width, height):
   for iteration in range (iterations):
     severed = try_change (maze)
     if random.randrange (iterations) <iteration and maze ["evaluation"] <severed ["evaluation"]:
-      restore (maze, severed)
+      print ("what") #restore (maze, severed)
   return render_maze (maze)
 
 def add_game_pages(page_dict):
