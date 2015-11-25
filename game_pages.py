@@ -170,8 +170,11 @@ when their “opponent” is too tied up to reach the board.
 </main>''')
 
 import random
+import copy
 def maze_color ():
   return hex (random.randint( 100, 255)) [2:]
+
+menu_names = "file edit view preferences options settings help about tools history bookmarks accounts sessions messages configure filters windows new... open... create... insert format templates toolbars zoom macros language statistics debug developers"
 
 def render_node (maze, node):
   (CSS, HTML) = render_nodes (maze, node ["children"])
@@ -209,10 +212,13 @@ z-index:'''+str( node ["depth"]*2 + 1) +''';
 
 }
 ''')
+  text = ""
+  if "exit" in node:
+    text = "exit"
   return (CSS, 
   '''
 <div class=" node_'''+ str(node ["index"])  +'''">
-  <div class= "shown node_box_'''+ str(node ["index"])  +'''"></div>
+  <div class= "shown node_box_'''+ str(node ["index"])  +'''">'''+ text +'''</div>
   <div class= "shadow node_box_'''+ str(node ["index"])  +'''"></div>
   <div class= "node_children_'''+ str(node ["index"])  +'''">'''+ HTML +'''</div>
 </div>''')
@@ -239,7 +245,49 @@ height: 40em;}''')
   return (CSS, HTML)
   
 def evaluate_maze (maze):
-  maze ["evaluation"] = 0
+  search = {}
+  search_levels = [[]]
+  level = 0
+  exit_level = - 1000
+  def find (node, X, Y):
+    found = probe_grid (node, X, Y)
+    if found and not ("last_search" in found and found ["last_search"] == search):
+      found ["last_search"] = search
+      found ["search_level"] = level
+      found ["search_parent"] = node
+      search_levels [level].append (found)
+  for X in range (maze ["width"]):
+    find (maze, X, 0)
+    find (maze, X, maze ["height"] - 1)
+  for Y in range (maze ["height"]):
+    find (maze, 0, Y)
+    find (maze, maze ["width"] - 1, Y)
+  while len(search_levels [level]) >0:
+    last_level = level
+    level += 1
+    search_levels.append ([])
+    for node in search_levels [last_level]:
+      if "exit" in node:
+        exit_level = last_level
+      for X in range (node ["left"], node ["right"] + 1):
+        find (node, X, node ["top"] - 1)
+        find (node, X, node ["bottom"] + 1)
+      for Y in range (node ["top"], node ["bottom"] + 1):
+              find (node, node ["left"] - 1, Y)
+              find (node, node ["right"] + 1, Y)
+  maze ["evaluation"] = exit_level
+
+def add_to_grid (grid, node):
+  for X in range (node ["left"], node ["right"] + 1):
+    for Y in range (node ["top"], node ["bottom"] + 1):
+      grid [X*10000 + Y] = node
+def probe_grid (node, X, Y):
+  index = X*10000 + Y
+  grid =node ["grid"]
+  if grid and index in grid:
+    return grid [index]
+  if "parent" in node:
+    return probe_grid (node ["parent"], X, Y)
 
 def initialize_maze (width, height):
   maze = {"width": width, "height": height}
@@ -264,19 +312,18 @@ def initialize_maze (width, height):
         "index":len( maze ["nodes"]),
         "depth": 1,
         "parent": maze,
-        "children": []}
+        "children": [],
+        "grid": None,}
       validate (maze, node)
       maze ["nodes"].append (node)
       maze ["top_level"].append (node)
       column_left = column_right + 1
     row_top = row_bottom + 1
   
-  maze ["grid"] = [[0]*height]*width
+  maze ["grid"] = {}
   for node in maze ["nodes"]:
-    for X in range (node ["left"], node ["right"] + 1):
-      for Y in range (node ["top"], node ["bottom"] + 1):
-        maze ["grid"] [X] [Y] = node
-  
+    add_to_grid (maze ["grid"], node)
+  probe_grid (maze, width//2, height//2) ["exit"] = True
   evaluate_maze (maze)
   return maze
 
@@ -319,7 +366,8 @@ def expand (maze, node, count):
           "parent": node,
           "index": None,
           "depth": node ["depth"] + 1,
-          "children": []}
+          "children": [],
+          "grid": None  }
         new_node [left] = column_left
         new_node [right] = column_right
         if below:
@@ -333,15 +381,20 @@ def expand (maze, node, count):
         record (maze, new_node)
         column_left = column_right +1
       height = row_bottom + 1
-    if height >0:
-      node ["grid"] = None
+    if height ==0:
+      return expand (maze, node, count)
+    node ["grid"] = {}
+    for new_node in node ["children"]:
+      add_to_grid (node ["grid"], new_node)
 
 def sever (maze, node):
   children =node ["children"]
   for child in children:
     remove (maze, child)
   node ["children"] = []
-  return (children, 0)
+  grid = node ["grid"]
+  node ["grid"] = None
+  return ({"children": children, "grid": grid,}, 0)
   
 def remove (maze, node):
   nodes =maze ["nodes"] 
@@ -363,6 +416,8 @@ def record (maze, node):
     
 def try_change (maze):
   node = random.choice (maze ["nodes"])
+  while "exit" in node or node ["depth"] >random.randint (3, 8):
+    node = random.choice (maze ["nodes"])
   (severed, count) = sever (maze, node)
   old_evaluation = maze ["evaluation"]
   if random.choice ([True, False]) and count >0:
@@ -378,6 +433,7 @@ def restore (maze, severed):
   node =severed ["severed"] ["node"]
   sever (maze, node)
   node ["children"] = severed ["severed"] ["children"]
+  node ["grid"] = severed ["severed"] ["grid"]
   record (maze, node)
   
 def generate_maze (width, height):
