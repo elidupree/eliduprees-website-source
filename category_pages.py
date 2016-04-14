@@ -37,7 +37,8 @@ img.exhibit_fadeout {
 div.exhibit_blurb {
   position: relative;
   padding: 0.5em;
-  color: black; }
+  color: black;
+  font-size: 140%; }
 div.exhibit_blurb>h1 {
   font-size: 180%;
   font-weight: bold; }
@@ -172,7 +173,7 @@ def add_category_pages(page_dict):
       "Comics ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
-      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg?rr" /></div>
+      <div><img role="presentation" alt="" class="background" src="/media/colorful-background.jpg?rr" /></div>
       '''+bars.bars_wrap({"comics":True}, '''<main>
   <div id="content">
     <div class="recent_pages">
