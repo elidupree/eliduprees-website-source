@@ -580,6 +580,16 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
   else:
     post_content = re.sub ("<cut>", "", post_content)
   
+  calculate_readability = True
+  if calculate_readability:
+    #using the automated readability index
+    reference = re.sub(r"\s+", " ", utils.strip_tags (post_content))
+    sentences = len(re.findall (r"[.?!]", reference))
+    words = len(re. split (r"\W", reference))
+    characters = len(reference)
+    readability = 4.71*characters/words +0.5 *words/sentences -21.43
+    post_content = "<em> Approximate readability: "+str( readability) + " ("+ str (characters) + "," + str (words) +  "," + str (sentences)  + ")</em>" + post_content
+  
   post_content_sections = post_content.split("<bigbreak>")
   id_str = ''
   if title:
