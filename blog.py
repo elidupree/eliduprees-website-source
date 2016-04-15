@@ -592,7 +592,7 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
   if calculate_readability:
     #using the automated readability index
     reference = re.sub(r"\s+", " ", utils.strip_tags (post_content))
-    sentences = len(re.findall (r"[.?!]", reference))
+    sentences = len(re.findall (r"\w\w\w.*?[.?!]", reference))
     words = len(re. split (r"\W", reference))
     characters = len(reference)
     readability = 4.71*characters/words +0.5 *words/sentences -21.43
