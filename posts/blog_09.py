@@ -21,7 +21,7 @@ posts = [
 
 <p>Lasercake is an educational computer game project.</p>
 
-<p>As a game, Lasercake will be a open "sandbox" game – one where the player is presented with a world to experiment in, rather than given a specific goal to accomplish as effectively as possible. As an educational project, the game environment will give the player numerous opportunities to encounter real-world science within the context of an industrial empire that the player is allowed to create.</p>
+<p>As a game, Lasercake will be a open "sandbox" game – one where the player is presented with a world to experiment in, rather than given a specific goal to accomplish as effectively as possible. As an educational project, the <cut>game environment will give the player numerous opportunities to encounter real-world science within the context of an industrial empire that the player is allowed to create.</p>
 
 <p>It has become very clear how much potential there is for learning in computer games like this. One of the inspirations of this project is the SimCity series of games, in which the player takes on the role of a city planner, and develops a city by assigning zoning and building roads, power plants, and other city infrastructure. Research on SimCity has shown that it significantly alters how players understand city infrastructure and management (Tanesa and Cemalcilar, 2010) and is consistently useful, despite certain limitations, as an educational tool (Gaber, 2007). I recall playing SimCity 2000 while growing up, and it was a valuable contributor to the perspective that I have now. Active participation in a virtual world allows people to develop knowledge in a way that passively receiving information cannot (Annetta, 2010). So there is a great, unseen need for games that can present understandings of other systems within our world – especially when the commercial game industry seems uninterested in creating such games, and consistently presents unrealistic or imaginary science. (I happen to believe that there are many ways in which even commercial games help kids' intellectual development, it's just that presenting accurate science isn't one of them.) Lasercake, by contrast, will attempt to use accurate science as a way to promote an understanding of energy and ecological issues.</p>
 
@@ -136,7 +136,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>I've always had problems with eating. I don't <em>like</em> eating food, so I often don't eat enough of it. And I'm extremely sensitive to taste, so most foods are overwhelmingly strong and I can't eat them. Between those two things, I don't try new foods very often.</p>
 
-<p>Previously, the main parts of my diet were rice, cheese, apple juice, and a multivitamin. For such a limited diet, that's not bad. But it's not great either. I think I was deficient a bunch of nutrients, including potassium. And the other downsides of cheese are that it needs to be refrigerated and that it's relatively expensive. The cheese I ate was costing more than $2 per day by itself, and all my food together cost about $4.18 per day. (All prices here are listed in US dollars and cents because that's the local currency.)</p>
+<p>Previously, the main parts of my diet were rice, cheese, apple juice, and a multivitamin. For such a limited diet, that's not bad. But it's not great either. I think I was <cut>deficient a bunch of nutrients, including potassium. And the other downsides of cheese are that it needs to be refrigerated and that it's relatively expensive. The cheese I ate was costing more than $2 per day by itself, and all my food together cost about $4.18 per day. (All prices here are listed in US dollars and cents because that's the local currency.)</p>
 
 <p>Replacing cheese wasn't easy, though. As far as I can tell, it was:</p><ul><li>my only source of protein</li><li>my only source of fat</li><li>my only source of sodium</li><li>my only source of calcium</li></ul>
 
@@ -205,7 +205,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>(The colors are a bit off in that photo; the one on the far right is the closest to their actual color.)</p>
 
-<p>These were pretty good - they're crunchy and a bit hard to chew, but I currently like that. I can still improve upon them, but the basic idea works great.</p>
+<p>These were pretty good - they're crunchy and a bit hard to chew, but <cut>I currently like that. I can still improve upon them, but the basic idea works great.</p>
 
 <p>My recipe for this batch was:</p>
 
@@ -221,9 +221,9 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <p>I used about one eggshell for this. Later that day, I received a milligram scale that I'd ordered, and massed an eggshell. It was about 6.1 grams, which should be about 2.2 grams of calcium<footnote((Eggshells are at least 90% calcium carbonate, and calcium carbonate is 40% calcium by mass. 6.1g eggshell * 0.9g CaCO<sub>3</sub>/g eggshell * 0.4g Ca/g CaCO<sub>3</sub> ~= 2.2g Ca.))>. This batch was about a day's food; the recommendation is one gram of calcium per day, and not more than 2.5 grams. Getting 2.2 from the eggshells is pushing it. Before I measured it, I had mistakenly thought the eggs had about half that much calcium. Well, good news: I can now use half as many eggshells, which is a closer match for how many eggs my family eats anyway!</p>
 
-<p>The beans would otherwise become 1 cup of dried bean powder, so this recipe is essentially using a 1:1 ratio of bean to wheat &ndash; although the beans are still more calorie-dense and nutrient-dense at that volume. Earlier, I tried using less wheat, but the biscuits were still too crumbly. However, in those tests, I was also still using the gritty bean powder instead of whole moist beans, which might make a difference. More tests are in order.</p>
+<p>The beans would otherwise become 1 cup of dried bean powder, so this recipe is essentially using a 1:1 ratio of bean to wheat, by volume. The beans are more calorie-dense and nutrient-dense per volume, though. Earlier, I tried using less wheat, but the biscuits were still too crumbly. However, in those tests, I was also still using the gritty bean powder instead of whole moist beans, which might make a difference. More tests are in order.</p>
 
-<p>The salt is a bit less than my formula calls for; I haven't been getting the recommended 1.5g/day of sodium, and my body hasn't been craving more. Maybe that's appropriate because I sweat less than the average person, both physically (I overheat fast because I don't sweat much in the heat) and behaviorally (I'm fairly inactive and I avoid heat as much as I can). I've heard that the body is fairly good at regulating its salt intake, so I'll pay attention to whether I start craving salt as time goes forward.</p>
+<p>The salt is a bit less than my formula calls for; I haven't been getting the recommended 1.5g/day of sodium, and my body hasn't been craving more. Maybe that's appropriate because I sweat less than the average person, both physically (I overheat fast because I don't sweat much in the heat) and behaviorally (I'm fairly inactive and I avoid heat as much as I can). I've heard that the body is fairly good at regulating its salt intake, so I might start craving salt if I actually need it. I'll pay attention to whether that happens as time goes forward.</p>
 
 ''',
 },

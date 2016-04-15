@@ -17,7 +17,7 @@ posts = [
 
 <img src="/media/old_case_over_shoulder_small.jpg?rr" alt="A picture of me carrying a laptop case with a single shoulder strap over my right shoulder, with the case at my left side." style="display:block; margin: 2em auto;"/>
 
-<p>Or rather, it looked like that except that the case was puffed up more from all the stuff in it. I did that for about four years. Then on March 1, 2013, I started having some pain in my chest that got worse the more I carried that case. So I started carrying it like this:</p>
+<p>Or rather, it looked like that, except that the case was puffed up more from all the stuff in it. I did that for about four years. Then on March 1, 2013, I started having some pain in my chest. The pain got worse the more I <cut>carried that case. So I started carrying it like this:</p>
 
 <img src="/media/old_case_around_waist_small.jpg?rr" alt="A picture of me carrying the same case, but now the strap is wrapped around my waist, so that the center of it hangs in front of my left leg." style="display:block; margin: 2em auto;"/>
 
@@ -37,9 +37,9 @@ posts = [
   <li>A single alumnium flat, 1/8 in x 3/4 in x 4 ft, that holds up the pouches and goes around the back.</li>
   <li>Foam padding that rests on my hips, carrying the weight.</li>
   <li>Four straps (two on each side) with pairs of D-rings on them, so that the strap can be tightened to grip and hold arbitrary objects.</li>
-  <li>A single strap across the front to hold it on. At one end is a pair of D-rings to adjust the tightness of the strap, and at the other end is a hook that goes over the aluminum frame. This strap is <em>not</em> the main support, and it doesn't even press against the front of my body very much (it's held out front by the frame).</li>
-  <li>Two metal clips (one on each side) for holding light objects that can be clipped on, like hair ties and gloves (if the gloves have their own clips/loops on them).</li>
-  <li>Vinyl<footnote((Not the best material in hindsight. The vinyl tears easily under stress. We just bought the thing that was both waterproof and on sale.))> with a felt-like backing, forming two big pouches to carry stuff in, little pouches that hold the foam in place, and flaps that go over the top to keep off the rain.</li>
+  <li>A single strap across the front to hold it on. At one end is a pair of D-rings to adjust the tightness of the strap. At the other end is a hook that goes over the aluminum frame. This strap is <em>not</em> the main support, and it doesn't even press against the front of my body very much (it's held out front by the frame).</li>
+  <li>Two metal clips (one on each side) for holding light objects that can be clipped on, like hair ties and gloves. (My winter gloves have their own clips/loops on them.)</li>
+  <li>Vinyl<footnote((Not the best material in hindsight. The vinyl tears easily under stress. We just bought the thing that was both waterproof and on sale.))> with a felt-like backing. There are two big pouches to carry stuff in, two little pouches that hold the foam in place, and flaps that go over the top to keep off the rain.</li>
 </ol>
 
 <p>For those interested, I've <a href="/media/contraption_pattern.png?rr">drawn a pattern</a> for the vinyl pieces. (I may not be remembering the numbers exactly, but the pattern should make it clear how the thing is put together.)</p>
@@ -88,7 +88,7 @@ posts = [
 
 <img src="/media/biscuits-130817-1.jpg?rr" alt="Me holding two one-pound bags of beans over a counter; a metal pot is in the background." style="display:block; margin: 2em auto;"/>
 
-<p>I start with these one-pound bags of beans (two cups dry). For this batch I used two bags, but now I usually use three. I put the beans in the pot, then fill it with water to about three times the depth of the beans, and put it in a refrigerator to soak overnight.</p>
+<p>I start with these one-pound bags of beans (two cups dry). For this batch I used two bags, but now I usually use three. I put the beans in the pot, then fill it with water to about three times the depth of <cut>the beans, and put it in a refrigerator to soak overnight.</p>
 
 <img src="/media/biscuits-130817-2.jpg?rr" alt="Me holding lid on the pot, while I pour brownish water from it into the sink. (The water goes through the thin gap between the pot and the lid, so none of the beans come out.)" style="display:block; margin: 2em auto;"/>
 
