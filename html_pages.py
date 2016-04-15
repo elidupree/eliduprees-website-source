@@ -17,6 +17,7 @@ def make_page(title, head_stuff, body_stuff, extras = {}):
     <link rel="stylesheet" type="text/css" href="'''+css.domain_relative_url()+'''?rr">
     <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="RSS (Atom) feed" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <!--<meta http-equiv="refresh" content="5">-->
     '''+head_stuff+'''
   </head>
   <body'''+(' class="'+extras["body_class"]+'"' if "body_class" in extras else '')+'''>

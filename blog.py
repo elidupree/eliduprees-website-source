@@ -105,10 +105,18 @@ a.stream_media_reference {
   text-align: center;
   display: inline-block;
   padding:0 0.6em;
-  border-radius:0.7em; }
+  border-radius:0.7em;
+  height: 1.2em;
+  overflow: hidden;
+  vertical-align: top; }
 a.stream_media_reference img {
-  height: 2em; }
+  width: 8.2em;
 
+  vertical-align: top; }
+a.stream_media_reference:hover {
+position: relative;
+z-index: 90;
+overflow: visible;}
 
 div.post_content_section {
   margin-top:'''+str(post_vertical_separation)+'''em;
@@ -548,7 +556,7 @@ def stream_entry (post):
   else:
     return '''
 <div class="stream_media_reference_outer">
-  <a class="stream_media_reference" href="'''+ comics.page_url  (post) + '"> <img src="'+ comics.comic_image_url (post, "thumbnail_top") +'" alt=""> New comic: ' + post ["title"] + '''</a>
+  <a class="stream_media_reference" href="'''+ comics.page_url  (post) + '"> <img src="'+ comics.comic_image_url (post, "thumbnail_full") +'" alt=""> New comic: ' + post ["title"] + '''</a>
 </div>'''
 
 
@@ -579,6 +587,16 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
 <a class="continue_reading" href="'''+ permalink +'''">Continue reading<span class="invisible"> '''+ title +'''</span>...</a>''', post_content)
   else:
     post_content = re.sub ("<cut>", "", post_content)
+  
+  calculate_readability = True
+  if calculate_readability:
+    #using the automated readability index
+    reference = re.sub(r"\s+", " ", utils.strip_tags (post_content))
+    sentences = len(re.findall (r"\w\w\w.*?[.?!]", reference))
+    words = len(re. split (r"\W", reference))
+    characters = len(reference)
+    readability = 4.71*characters/words +0.5 *words/sentences -21.43
+    post_content = "<em> Approximate readability: "+str( readability) + " ("+ str (characters) + "," + str (words) +  "," + str (sentences)  + ")</em>" + post_content
   
   post_content_sections = post_content.split("<bigbreak>")
   id_str = ''

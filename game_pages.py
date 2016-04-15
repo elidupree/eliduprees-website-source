@@ -464,6 +464,8 @@ def add_game_pages(page_dict):
       hexy_page(True), {"body_class":"hexy"}
     )
   )
+  
+  return
   (maze_CSS, maze_HTML) = generate_maze (100, 100)
   
   utils.checked_insert(page_dict,

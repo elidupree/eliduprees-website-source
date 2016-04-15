@@ -37,7 +37,8 @@ img.exhibit_fadeout {
 div.exhibit_blurb {
   position: relative;
   padding: 0.5em;
-  color: black; }
+  color: black;
+  font-size: 140%; }
 div.exhibit_blurb>h1 {
   font-size: 180%;
   font-weight: bold; }
@@ -110,7 +111,7 @@ img.exhibit.vc {
   width: 300px;
   height: 400px;
   border-radius: 2em 8em; }
-a.exhibit.successor {
+a.exhibit {
   margin-top: 7em; }
 img.exhibit.paws {
   border-radius: 1.5em 1.5em; }
@@ -149,7 +150,7 @@ img.exhibit.greencaves {
   img.exhibit { padding: 0.5em; margin: -0.5em; }
   img.exhibit.left { display: inline; float: none; margin: 0; }
   img.exhibit.right { display: inline; float: none; margin: 0; }
-  a.exhibit.successor { margin-top: 2em; }
+  a.exhibit { margin-top: 2em; }
 }
 @media screen and (max-width: 25em) {
   img.exhibit.left { width: 95%; height: auto; }
@@ -166,13 +167,18 @@ def recent_page_link(num):
   return comics.recent_page_link(num)
 
 def add_category_pages(page_dict):
+  def exhibit (href, classes, thumbnail, blurb, enter_text):
+    return ('''<a href="'''+href +'''" class="exhibit '''+ classes +'''">'''+
+      ('<img class="exhibit ' + classes + '" alt="" src="' + thumbnail + '" />' if thumbnail else '') +
+      '<div class="exhibit_blurb">' + blurb + '</div><div class=" exhibit_start_reading">' + enter_text + '</div></a>')
+  
   utils.checked_insert(page_dict,
     '/comics.html',
     html_pages.make_page(
       "Comics ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
-      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg?rr" /></div>
+      <div><img role="presentation" alt="" class="background" src="/media/colorful-background.jpg?rr" /></div>
       '''+bars.bars_wrap({"comics":True}, '''<main>
   <div id="content">
     <div class="recent_pages">
@@ -185,28 +191,13 @@ def add_category_pages(page_dict):
       '''+recent_page_link(3)+'''
       '''+recent_page_link(4)+'''
     </div>
-    <a href="/voldemorts-children" class="exhibit vc">
-      <img class="exhibit vc left" alt="" src="/media/VC_0.png?rr" />
-      <div class="exhibit_blurb">
+    '''+ exhibit ("/voldemorts-children", "vc left", "/media/VC_0.png?rr",'''
         <p>What if Dumbledore's idea of placing Harry Potter with an abusive family didn't turn out so well?</p>
-        <span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.
-      </div>
-      <div class="exhibit_start_reading">Start reading</div>
-    </a>
-    <a href="/people-are-wrong-sometimes" class="exhibit paws successor">
-      <img class="exhibit paws right" alt="" src="/media/PAWS_thumbnail.png?rr" />
-      <div class="exhibit_blurb">
-        In <span class="title">People Are Wrong Sometimes</span>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)
-      </div>
-      <div class="exhibit_start_reading">Start reading</div>
-    </a>
-    <a href="/a-couple-of-badass-superheroes" class="exhibit acobs successor">
-      <img class="exhibit acobs left" alt="" src="/media/ACOBS_thumbnail.png?rr" />
-      <div class="exhibit_blurb">
-        <span class="title">A Couple of Badass Superheroes</span> go on a silly adventure. I wrote the first part September-December 2011 to get used to drawing using my tablet. (10 pages)
-      </div>
-      <div class="exhibit_start_reading">Start reading</div>
-    </a>
+        <span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.''', "Start reading") +
+        exhibit ("/people-are-wrong-sometimes", "paws right", "/media/PAWS_thumbnail.png?rr",'''
+        In <span class="title">People Are Wrong Sometimes</span>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)''', "Start reading") +
+        exhibit ("/a-couple-of-badass-superheroes" , "acobs left", "/media/ACOBS_thumbnail.png?rr",'''
+        <span class="title">A Couple of Badass Superheroes</span> go on a silly adventure. I wrote the first part September-December 2011 to get used to drawing using my tablet. (10 pages)''', "Start reading") +'''
     <div class="category_page_bottom"></div>
   </div>
 </main>''')
