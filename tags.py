@@ -3,11 +3,11 @@
 from __future__ import division
 
 import utils
-
+print ("TODO: have at least one page include an index of all tags")
 auto = {}
 tags = {
-  "lol":"Posts about laughing out loud",
-  "omg":"Posts about my goodness",
+#  "lol":"Posts about laughing out loud",
+#  "omg":"Posts about my goodness",
   
   
   "announcements": "major announcements about Eli's life",

@@ -1,4 +1,10 @@
 {
+ " minor updates 2": {
+  "date_modified": "2016-04-16",
+  "date_posted": "2011-09-10",
+  "id": "fc00cc37f2943a0d0f4fc5c66fa778fb",
+  "remembered_contents": "a52140eb6c1b22e6b4331ecef0a0b41ad587563f1a6804d46e29e53845d34d7c88c45e319bf038711bc3b2d3af12773f"
+ },
  "A Couple of Badass Superheroes, page 1": {
   "date_modified": "2015-10-31",
   "date_posted": "2015-10-31",
@@ -26,10 +32,10 @@
   "remembered_contents": "b799ea4a70438f92c7a3400fcc74da00395aa96c58880e4934883e33b5580c39e303625478648f8c641553540ebd5cf0"
  },
  "A look at Lasercake, one of my upcoming projects!": {
-  "date_modified": "2015-11-09",
+  "date_modified": "2016-04-15",
   "date_posted": "2012-04-14",
   "id": "eccf2348a0bdbee93be643a8c728fae2",
-  "remembered_contents": "503bc2455a0946865fd519c02bb15d70672020873b38ba8088121096a6c78495348ebc9444e0013c3322cecd307e6336"
+  "remembered_contents": "47944113b5b0d9e8874a5dc0417c82f5349c09bd833faefbb00540489cff792b26ace7c84170e7387eca31b2af77b996"
  },
  "A story idea": {
   "date_modified": "2015-10-31",
@@ -50,10 +56,10 @@
   "remembered_contents": "f346ed709f65afe846470a9798c053b215bc70beee0f0a17bcbdac77631c51b1e54920e422f16aac7ee560e0915bbc3f"
  },
  "An Illustrated Guide to the Biscuits": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-15",
   "date_posted": "2013-08-17",
   "id": "f7e44935fe668a3a70962a7e7116e0dc",
-  "remembered_contents": "a27f1d5da832b7d92e5f113213a9d3ace5bef10e457258c815510f4a0bd64f4db168bccbbd3299d86620c80bb36814a8"
+  "remembered_contents": "da1b4b51ca76a21f8cdb5603bf7a88977ffba9dc7880a2a79d69dfc8e72191c84af334931c7bc1e5a0cbd42df8fa3c4e"
  },
  "Arrival": {
   "date_modified": "2015-10-31",
@@ -98,16 +104,16 @@
   "remembered_contents": "3bf483eaa5080ab4f68690cb68cf7ba9e52ec3e0bda00f7dcdce05f94060b2dc0930de36e6023d8696b0cb06d780f805"
  },
  "How I don't get frustrated at anything": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-16",
   "date_posted": "2011-09-15",
   "id": "d2c804969243f5f7f2dbf1cc6f8814f1",
-  "remembered_contents": "a95465f8b242a4abce134f6f6974ac7e5f1e23cdfb5f8a0125eb34346323a0dff90f19dd86f5d7f97dd5c405bec1f181"
+  "remembered_contents": "d680e356df08c52b20f441b8a94f845fe0948caf4de8689f8773340e0f2bc78fd9aa61448a04f11d2ff6625eb9d51c79"
  },
  "I made biscuits!": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-15",
   "date_posted": "2013-06-16",
   "id": "c840af63853c95cf2bc19ccf27557cbb",
-  "remembered_contents": "0a9081a1a74377b58b9b13c4abc9808927de950c52e4b4e530a9ab2c3f1f9c29a38e3f38e516d0040f7f9ca00c213e87"
+  "remembered_contents": "101705cd5442babeed8780cd966b2381c4a0aaefb04b3c38ed090f81de030953a78622a3679e9af951a0a52ead1c2e54"
  },
  "I ordered a tablet; now what?": {
   "date_modified": "2015-11-09",
@@ -134,16 +140,16 @@
   "remembered_contents": "fe94829123c5887de73eb403e8dcf946f2993ad6e8f6229f9e08031f86d12317e0a5deeae6e5127e5f86187904e12925"
  },
  "In which I rant about the study of English": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-16",
   "date_posted": "2011-09-08",
   "id": "b196ba5132b81f82279da250d09bc37e",
-  "remembered_contents": "867eeaa308d35e4d2ce96ea3595e960736a3b8614ed5a07bbc0c92b0260c3b50eb04c9b4c46224f65516d1213a0d2860"
+  "remembered_contents": "d0f1abdb88456cc19d771a00f938df7b97baf9329989cddca3b4cde9bad09173d086343b65866473b1071ab7d72a8eff"
  },
  "Introducing the Colby Sex Club!": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-16",
   "date_posted": "2011-12-10",
   "id": "22292f4d23d83150fe9563c0d9ce2a5",
-  "remembered_contents": "fb272b5d1dae33b0785bebab764b862d90b21aa22473593ddee63fc2ebe8383bf02c0d1457004e84aaa3e5616b4c802a"
+  "remembered_contents": "4d2da6c53f843e7339e0bb883fac7e933dece1e3b61f78035c5379f6a9ac1a9195ffcf3ab16d8cc8d4b6653f244c39c2"
  },
  "Introducing the graphics editing project": {
   "date_modified": "2015-10-31",
@@ -152,10 +158,22 @@
   "remembered_contents": "57c6cdee8b01ffd657ca470ea25ff18b23744c49d6f4f600b33bdc8a3023f968902628016cdcc24ad619935aa5107389"
  },
  "Let's talk about affirmative consent!": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-16",
   "date_posted": "2011-11-08",
   "id": "129785e08291362a004541228f8496ba",
   "remembered_contents": "c3c7600d125ef5ca7111fb461afd2d99753d69a3ecd91c5babfb4ef045809d15ab6428bbd58c0d05e026d2f0137630ff"
+ },
+ "Minor progress": {
+  "date_modified": "2016-04-16",
+  "date_posted": "2011-09-10",
+  "id": "fc00cc37f2943a0d0f4fc5c66fa778fb",
+  "remembered_contents": "a52140eb6c1b22e6b4331ecef0a0b41ad587563f1a6804d46e29e53845d34d7c88c45e319bf038711bc3b2d3af12773f"
+ },
+ "Minor updates 2": {
+  "date_modified": "2016-04-16",
+  "date_posted": "2011-09-10",
+  "id": "fc00cc37f2943a0d0f4fc5c66fa778fb",
+  "remembered_contents": "a52140eb6c1b22e6b4331ecef0a0b41ad587563f1a6804d46e29e53845d34d7c88c45e319bf038711bc3b2d3af12773f"
  },
  "More website upgrades!": {
   "date_modified": "2015-10-31",
@@ -170,10 +188,10 @@
   "remembered_contents": "1c17a7a3c146d6e2646a92ba020e72476dbe942cd8a650dde2cb2d88479e774dd01aa2b5d0e18d335aabb66df89abc75"
  },
  "New index page!": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-16",
   "date_posted": "2011-09-18",
   "id": "acec865568c7fe78c744e892f0987ef8",
-  "remembered_contents": "77a6e8ee86fd9c5bb38354c0d5a95635222842297e1ed239b0a1b9e5d815af577412c6391b84b98c6d4f81522fa9b643"
+  "remembered_contents": "8a22b5230f4fdbb2110e63ed6d97111b3cb4c9a899d165bb362b94a9401e9561b02a899e3df3340091550f5c6379d0b7"
  },
  "No comic today": {
   "date_modified": "2015-10-31",
@@ -242,10 +260,10 @@
   "remembered_contents": "7c231e43480f73cebf0147c730f0e798677926b7a40b06591a8b942c4a067f7904a463d6aecd344683909b1711db1824"
  },
  "Recommended website: The Usual Error": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-16",
   "date_posted": "2011-11-06",
   "id": "9555ed353a87c763d8328bb836178c38",
-  "remembered_contents": "9a318898d1d1b749544745039f1d65b9ee331c2806c2376ce9a923f7012c869384475e90c862a18e89f41ac710c19ae8"
+  "remembered_contents": "9982acbb0ce235c559ef60da50d5f4b04d156b77e7b3d5785e3331333677ebb0980c5d6d4013e690bc36d454c8f964de"
  },
  "Scrutinized words: man, woman, boy, girl": {
   "date_modified": "2015-10-31",
@@ -308,16 +326,16 @@
   "remembered_contents": "ab4cc13dc46cd7deee11634b4948e158f7b63d0ed2c2f655035d2ae714702f7e822a6a3901bda267126bcb06c2164b3c"
  },
  "The Food Experiments": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-15",
   "date_posted": "2013-06-11",
   "id": "e1e2e7d11d0c4813c38f721358563a4a",
-  "remembered_contents": "8526c89f2ac383877cfdbb42f60eb9fa059221597d9b45ad24b634dc761bf0f37f39c56f89d6846e3b5fa187d91a1eb5"
+  "remembered_contents": "38c704ed7c4a4e705528dcc22096e64b27774030d7f309790040da70bda2fc0337fc8260695ed230a9cadd546c008244"
  },
  "The carrying contraption": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-15",
   "date_posted": "2013-06-26",
   "id": "7d12aeb508b7b63662adb777e4dc91c5",
-  "remembered_contents": "975c75f9c25386a823f57f3b683a6ed0ec57b8e14b1e8917e74ac89f0266629f13f0c84e1f4cc25c5b1cb5576483fee3"
+  "remembered_contents": "706ed5ac6d311e3aa787874594a10bbd70c0951cadeb83106de5b756db7d512dd0f9dfc322c105a48eac631153e0489e"
  },
  "This is a child-friendly website": {
   "date_modified": "2015-10-31",

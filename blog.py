@@ -711,7 +711,7 @@ def make_page_list (posts):
   result = []
   fixed_pages = max (0, (len (posts) - latest_page_max_posts + page_length - 1)//page_length)
   for page_number in range (0, fixed_pages):
-    result.append ([posts [i] for i in range (page_number*page_length, page_number*page_length + page_length - 1)])
+    result.append ([posts [i] for i in range (page_number*page_length, page_number*page_length + page_length)])
   if len(posts) >0:
     result.append ([posts [i] for i in range (fixed_pages*page_length, len(posts))])
   return result

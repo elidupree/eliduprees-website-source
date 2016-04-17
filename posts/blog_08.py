@@ -72,7 +72,7 @@ posts = [
 
 <p>I do have one qualm about it: Not everything it says is true for everybody, and it doesn't always do a good job of being aware of that. If you keep that in mind, it's a very good read.</p>
 
-<p><a href="http://usualerror.com/">The book's website is here.</a> The link to the free e-book is (at the time of this writing) in the right sidebar of that website.</p>
+<p><a href="http://usualerror.com/e-book/">The e-book is available here.</a></p>
 
 ''',
 },
@@ -220,7 +220,7 @@ Use it.))>
 
 <p>The story starts on March 9, 2011. There was a campus forum on that day, on the topic of "Gender, Power, and Community" &ndash; lots of people were there, and we had a really good conversation about a lot of important issues, like sexual assault, silencing, and various forms of discrimination. I said, semi-jokingly, something like "We should have a 'Colby Sex Club' where people talk about the act of sex and what we want out of it! This seems like another silence that needs to be broken." I dropped the idea at the time, because I was busy with schoolwork, and because as a person who's never actually had sex with another person, I didn't feel like the most qualified to start it.</p>
 
-<p>Then, this semester &ndash; October 19, to be precise &ndash; I went to an event that made me think of it again. Heather Pratt, an dedicated feminist leader who graduated from Colby last year, gave a talk about zir thesis, which was about sexual assault at Colby. Ze talked about a lot of specific cases, and they all seemed to have one thing in common &ndash; <em>nobody knew what the fuck they were doing</em>. People didn't know what consent was, didn't know what their options were, didn't know how to have enjoyable sex, and so forth. Both the victims and the perpetrators were trying to do what they thought was expected of them, not even thinking about what they actually wanted for themselves.</p>
+<p>Then, this semester &ndash; October 19, to be precise &ndash; I went to an event that made me <cut>think of it again. Heather Pratt, an dedicated feminist leader who graduated from Colby last year, gave a talk about zir thesis, which was about sexual assault at Colby. Ze talked about a lot of specific cases, and they all seemed to have one thing in common &ndash; <em>nobody knew what the fuck they were doing</em>. People didn't know what consent was, didn't know what their options were, didn't know how to have enjoyable sex, and so forth. Both the victims and the perpetrators were trying to do what they thought was expected of them, not even thinking about what they actually wanted for themselves.</p>
 
 <p>So then I got irritated by how terrible that is, and decided that I was going to start the Sex Club after all!</p>
 
