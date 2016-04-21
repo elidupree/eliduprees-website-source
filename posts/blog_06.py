@@ -141,7 +141,7 @@ posts = [
 
 <p>The other is this: Since I'm blocked on the graphics editing software project, I've started just drawing stuff in an existing graphics program (namely GIMP). Here's something I randomly sketched a few days ago:</p>
 
-<img src="/this/was/a/broken/link/to/imageshack/randomattempt20110813si.png?rr" alt="Image [see below]" />
+<img src="/media/random_sketch_2011_08_13.png?rr" alt="Image [see below]" />
 <p>(That's an image hosted on an external site. Tell me if it breaks. A transcript is in a footnote.<footnote((<p>Transcript of the above image:</p><p>Text: What shall I draw? thought I.<p>Picture: A cartoon of myself, with an excessively cheerful expression, thinking: Maybe something DARK & DISTURBING?</p><p>Picture: A gaunt face drawn in white on a black background, surrounded by orange streaks. Its thoughts are written messily: "I DON'T KNOW WHY I'VE BECOME LIKE THIS. I AM SO COLD, COLD!! <em>I DON'T NEED ANY HELP!!</em>"</p><p>Text: What sex is our friend the pyromaniac? I find it easier to read zem as male, but is the face actually characteristically male or is it just that I'm more familiar with that exaggerated gauntness on male characters, while our society makes people draw female people in pristine condition always?</p>))>)</p>
 
 <p>I've also started sketching characters for a fairly absurd short comic (3-4 pages, probably). I might end up drawing that in the next week or two.</p>
@@ -163,13 +163,13 @@ posts = [
 
 <p>That's a panel from <i>Riot Nrrd</i>, a wonderful webcomic.</p>
 
-<p>I think <i>Riot Nrrd</i> was actually one of the inspirations for me to make this website when I did. If you read it, you'll certainly notice some similarities between its style of talking about social issues and mine. (Heck, the first strip opens with one of the characters ranting about portrayals of minority characters in popular media!) I'd say it's a great example of how a highly accessible<footnote((Not perfectly, of course. You can't read a webcomic if you're blind, for instance. But most humans find it easy to take information from visual images, and a prudent webcomic author will provide a text transcript for those who are vision-impaired.))> (and enjoyable) format like a serial webcomic can be used to promote good ideas about gender and stuff.</p>
+<p>I think <i>Riot Nrrd</i> was one of the things that helped inspire me to make this website when I did. If you read it, you'll certainly notice some similarities between its style of talking about social issues and mine. (Heck, the first strip opens with one of the characters ranting about portrayals of minority characters in popular media!) I'd say it's a great example of how a highly accessible<footnote((Not perfectly, of course. You can't read a webcomic if you're blind, for instance. But most humans find it easy to take information from visual images, and a prudent webcomic author will provide a text transcript for those who are vision-impaired.))> (and enjoyable) format like a serial webcomic can be used to promote good ideas about gender and stuff.</p>
 
-<p>(You might also guess that its drawing style was one of the inspirations for the style I used in <i>People Are Wrong Sometimes</i>, but then you'd be wrong, since I hadn't found <i>Riot Nrrd</i> when I wrote that. But I would totally have been inspired by it if I had!)</p>
+<p>(You might also guess that its drawing style inspired the style I used in <i>People Are Wrong Sometimes</i>, but then you'd be wrong, since I hadn't found <i>Riot Nrrd</i> when I wrote that. But I would totally have been inspired by it if I had!)</p>
 
 <p>Oh and also, it's hilarious!</p>
 
-<p>I recommend <i>Riot Nrrd</i> without reservation. <a href="http://www.riotnrrdcomics.com/2009/12/riot-nrrd-1-2/">The first page is here</a>. At the time of this writing, it's about 120 pages long, so it's a relatively quick read.<footnote((At least compared to the 1000+ page webcomics that can be found in some places on the Internet.))></p>
+<p>I recommend <i>Riot Nrrd</i> without reservation. <a href="http://www.riotnrrdcomics.com/2009/12/riot-nrrd-1-2/">The first page is here</a>. At the time of this writing, it's about 120 pages long, so it's a relatively quick read compared to the 1000+ page webcomics that you can find elsewhere on the Internet.</p>
 
 ''',
 },

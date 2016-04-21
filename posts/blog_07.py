@@ -13,17 +13,17 @@ posts = [
   "tags":["writing","visual art"],
   "contents":'''
 
-<p>So, I was thinking about prose and graphic storytelling. Instead of me writing about a bunch of principles and abstractions and stuff, how about we go straight to an example? Here's a line of prose:</p>
+<p>So, I was thinking about prose and graphic storytelling (comics). My thoughts might be hard to explain, so how about an example? Here's a line of prose:</p>
 
 <p><q>I knocked. No answer. Let myself in anyway. Where was he?</q></p>
 
-<p>I generally think that graphic storytelling can express ideas much more quickly, so I deliberately constructed that line to be the opposite: Something that prose can express more quickly. Let's look at how we might write that in pure images:</p>
+<p>I think pictures can normally communicate faster than words, but I tried to make that line the opposite on purpose: something that words can express more quickly. Let's look at how we might write that in pictures:</p>
 
 <img src="/media/knocking.png?rr" alt="Image: Three panels. The first panel shows a person knocking at a door. The second shows zem waiting impatiently, thinking about the time. The third shows zem entering through the door, looking around. At the bottom left is a note that says 'Eli Dupree - 25 min sketch'"/>
 
-<p>Those three panels might take up about a third of a page, if we're going to publish this as a print book. The line of prose, on the other hand, takes about, what, a twentieth of a page? Sure, a reader will be able to take in the images faster than they would read <em>a third of a page of text</em>, but still, the single prose line here much more compact and concise.</p>
+<p> If we were going to print this in a book, those three panels might take up about a third of a page. The line of prose takes about, what, a twentieth of a page? Sure, you can read the pictures faster than you could read <em>a third of a page of text</em>, but that's not what we're comparing. The prose version gets the job done in a single line. </p>
 
-<p>On the other hand, the prose glosses over a lot of details that we get to see in the images. The graphic narration tells us about the style of our main character's coat, zir attitude about being forced to wait, and a lot of other things. If I got the subtle body language right in the second panel, it tells us that it's chilly outside. So the graphic narration really tells us a lot more information, even if it takes up a little more space.</p>
+<p>On the other hand, the prose glosses over a lot of details. The pictures show the style of the person's coat, zir attitude about <cut>being forced to wait, and a lot of other things. If I got the subtle body language right, the second panel tells us that it's chilly outside. So the pictures really tell us a lot more information, even if it takes up more space.</p>
 
 <p>(The graphic narration also <em>doesn't</em> tell us the gender of the person the main character is seeking. To me, this is an <em>advantage</em> of graphic narration.)</p>
 
@@ -31,23 +31,25 @@ posts = [
 
 <img src="/media/knocking-combined.png?rr" alt="Image: The third panel of the first image, but with the prose line written in narration boxes: 'I knocked. No answer. Let myself in anyway' at the top, and 'Where was he?' at the bottom."/>
 
-<p>That conveys all the information from the prose line (obviously), and also most of the information from the three-panel image above, and it does it in only one panel. It also has an interesting attribute: It <em>repeats</em> information. You don't need the text to tell you that the person is going through a door. With the text there, you don't need the <em>image</em> to tell you that the person is going through a door. Either one does the job just as well.</p>
+<p>That obviously gives all the information from the prose line. It also gives most of the information from the three panels above, and it does it in only one panel. It also has an interesting attribute: It <em>repeats</em> information. You don't need the text to tell you that the person is going through a door. With the text there, you don't need the <em>picture</em> to tell you that the person is going through a door. Either one does the job just as well.</p>
 
-<p>In prose fiction writing (and playwriting and screenwriting), one of the standard principles is that redundancy is bad. You shouldn't explain something more than once, because after the first time, the reader is going to know what it says and be bored by it. And it's even worse in theatre and film, where the reader can't skim over dialogue ze doesn't need to hear.</p>
+<p>In prose writing (and playwriting and screenwriting), I would normally say that redundancy is bad. You shouldn't explain something more than once, because after the first time, the reader is going to know what it says and be bored by it. And it's even worse in theatre and film, where the reader can't skim over dialogue ze doesn't need to hear.</p>
 
-<p><em>But that isn't necessarily true in graphic narration.</em> Saying the same thing twice is bad in prose, because in prose, everything you say is part of the narrative flow. The reader can't read two lines at once, so everything you write is going to take up some amount of the reader's time, so you have to make every detail count.</p>
+<p><em>But that isn't necessarily true in comics.</em> Saying the same thing twice is bad in prose, because in prose, everything you say is part of the <strong>narrative flow</strong>. The reader can't read two lines at once, so everything you write is going to take up some amount of the reader's time. That means you have to make every detail count.</p>
 
-<p>Not so in graphic narration, where the reader <em>can</em> perceive an entire image at once. I mean, think about the most trivial example: I drew the coat in every panel. After the first panel, you know the person is wearing a coat, so if I was trying to eliminate all redundancy, I would <em>not draw the coat</em> in the later panels. But that's silly. The repetition of the coat is <em>good</em> redundancy, because it doesn't take the reader any extra time to see the coat in the later panels &ndash; in fact, it's actually <em>quicker</em> to glance over the same coat than to see something different. So basically, the rule is that if something takes up space in the narrative flow, you try to eliminate redundancy, but when you can sneak in extra information without disrupting the narrative flow, you should repeat yourself as much as possible! (Well, not if it prevents you from doing <em>other</em> cool stuff. But you probably get the idea.)</p>
+<p>Not so in comics, where the reader <em>can</em> see the whole picture at once. I mean, think about the silliest example: I drew the coat in every panel. After the first panel, you know the person is wearing a coat. If I was trying to eliminate all redundancy, I would <em>not draw the coat</em> in the later panels. But that's silly. The repetition of the coat is <em>good</em> redundancy, because it doesn't take the reader any extra time to see the coat in the later panels &ndash; in fact, it's actually <em>quicker</em> to glance over the same coat than to see something different.</p>
 
-<p>So, in short, graphic storytelling is a much more <em>condensed</em> format &ndash; you can convey a lot more information without taking any more of the reader's time. So why doesn't everybody do it?</p>
+<p> So what's the real rule of redundancy? It's not "don't put any redundancy on the page". Instead, it is "don't put any redundancy in the <strong>narrative flow</strong>". If the reader will have to spend time reading it, don't repeat something they already know. But if they can glance past it, repetition helps the reader understand, so you should repeat yourself as much as possible! (Well, not if it prevents you from doing <em>other</em> cool stuff. But you probably get the idea.)</p>
+
+<p>So, in short, graphic storytelling is a much more <em>condensed</em> format &ndash; you can say a lot more stuff without taking any more of the reader's time. So why doesn't everybody do it?</p>
 
 <p>OH YEAH, BECAUSE IT IS ACTUALLY KIND OF HARD.</p>
 
-<p>See the little note at the bottom of the three-panel image? "Eli Dupree - 25 min sketch"? It took me 25 minutes to draw that. And writing the prose line took about 25 seconds. Granted, I'm not very experienced at this right now, and I'll speed up with practice, and in any case it would be quicker to draw if it was an established character of mine rather than someone I had to invent on the spot, but anyway, the point is: Graphic stories are quicker to <em>read</em>, but they're much slower to create.</p>
+<p>See the little note at the bottom of the three-panel image? "Eli Dupree - 25 min sketch"? It took me 25 minutes to draw that. And writing the prose line took about 25 seconds. Granted, I'm not very experienced at this right now, and I'll speed up with practice, and in any case it would be quicker to draw if it was an established character of mine rather than someone I had to invent on the spot. But anyway, the point is: Graphic stories are quicker to <em>read</em>, but they're much slower to <em>create</em>.</p>
 
 <p>There's a reason I picked the phrase <em>condensed format</em>: In both prose and graphic storytelling, you start with the same set of cool ideas, but with graphic storytelling, you cram those ideas into a smaller package that the reader can consume more quickly and easily.</p>
 
-<p>And that gets me to one of the really annoying questions about The Purpose Of Art. Because, like, I want to produce the best work possible. But I also want to <em>not</em> spend my whole lifetime on one piece. Because I could do a lot more than that if I just wrote things that weren't quite as good, but that I could write more quickly.</p>
+<p>And that gets me to one of the really annoying questions about The Purpose Of Art. Because, like, I want to produce the best work possible. But I also want to <em>not</em> spend my whole lifetime on one piece. I could do a lot more than that if I just wrote things that weren't quite as good, but that I could write more quickly. What's the best compromise?</p>
 
 <p>And that's a question that I don't have an answer to!</p>
 
