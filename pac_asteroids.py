@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import utils
+import html_pages
+import bars
 	  
 def add_game(page_dict):
   utils.checked_insert(page_dict,
@@ -9,7 +11,7 @@ def add_game(page_dict):
     html_pages.make_page(
       "Pac-Asteroids ⊂ Eli Dupree's website",
       '''
-    <script type="text/javascript" src="jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="/media/jquery-1.6.2.min.js"></script>
     <script type="text/javascript">
 Math.TAU = Math.PI*2;
 $(function(){
@@ -313,6 +315,6 @@ Your browser does not support the canvas element.
     </canvas></div>
     <p id="info"></p>
   </div>
-</main>''', {"body_class":"hexy"}
+</main>'''), {}
     )
   )

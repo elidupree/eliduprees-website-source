@@ -7,6 +7,7 @@ import utils
 import css
 import exmxaxixl
 import blog
+import pac_asteroids
 
 css.insert('''
 body.hexy .bars_outer_box {
@@ -464,6 +465,8 @@ def add_game_pages(page_dict):
       hexy_page(True), {"body_class":"hexy"}
     )
   )
+  
+  pac_asteroids.add_game (page_dict)
   
   return
   (maze_CSS, maze_HTML) = generate_maze (100, 100)
