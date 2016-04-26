@@ -10,8 +10,8 @@ def add_game(page_dict):
     '/games/pac-asteroids.html',
     html_pages.make_page(
       "Pac-Asteroids ⊂ Eli Dupree's website",
-      '''
-    <script type="text/javascript" src="/media/jquery-1.6.2.min.js"></script>
+      r'''
+    <script type="text/javascript" src="/media/jquery-1.6.2.min.js?rr"></script>
     <script type="text/javascript">
 Math.TAU = Math.PI*2;
 $(function(){
@@ -293,7 +293,7 @@ $(function(){
 
 
   (function tickloop(){
-    setTimeout(tickloop, Math.floor(1000/3000));
+    setTimeout(tickloop, Math.floor(1000/30));
     if (tick_finished) {
       tick_finished = false;
       tick();
