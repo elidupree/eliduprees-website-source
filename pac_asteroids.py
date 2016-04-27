@@ -309,11 +309,11 @@ $(function(){
 });
     </script>''',
       '''<a class="skip" href="#content">Skip to content</a>
-      '''+bars.bars_wrap({"games":True}, '''<main>
-    <div style="float: left; cursor: crosshair"><canvas id="game_canvas" width="640" height="480">
+      '''+bars.bars_wrap({"games":True}, '''<main><div id="content" style=" background-color: white; cursor: crosshair">
+
+    <div style=" width:640px; margin: 0 auto">    <div id="info"></div><canvas id="game_canvas" width="640" height="480">
 Your browser does not support the canvas element.
     </canvas></div>
-    <p id="info"></p>
   </div>
 </main>'''), {}
     )
