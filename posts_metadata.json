@@ -1,4 +1,16 @@
 {
+ "": {
+  "date_modified": "2016-05-04",
+  "date_posted": "2011-06-13",
+  "id": "5a1954d721587a0b360e0b4bb87a1a41",
+  "remembered_contents": "d362ac2ff0aa400354c431a47cf7ccc0621cd6c7c4e6a6a93ab1b6cb5e807e1eb80b17b9f4bd46d418391b0a836e187d"
+ },
+ " minor progress on Haskell and stuff": {
+  "date_modified": "2016-05-04",
+  "date_posted": "2011-06-13",
+  "id": "5a1954d721587a0b360e0b4bb87a1a41",
+  "remembered_contents": "d362ac2ff0aa400354c431a47cf7ccc0621cd6c7c4e6a6a93ab1b6cb5e807e1eb80b17b9f4bd46d418391b0a836e187d"
+ },
  " minor updates 2": {
   "date_modified": "2016-04-16",
   "date_posted": "2011-09-10",
@@ -20,10 +32,10 @@
   "remembered_transcript": "534ead7188f375d52b59c27807e118577bebee30f2bfa2a7c48ad9c47873776e0ff5e2763b0e893b3744e24c4c68da74"
  },
  "A few concepts I need": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-29",
   "date_posted": "2011-06-27",
   "id": "519bd2c2951fe72ff2c96e6c816c5bc8",
-  "remembered_contents": "5c20a11a8828110223c6d87a1fb6c61272b3c495f72071f03ee10ece2b0456d881205f3e725949bf0b09a9a71ffc371a"
+  "remembered_contents": "e07e88b616adab8a0f1c02c4b9eeb555f267b45e08cf32481432baf52bad18c8831acd2ba6d1c62c412126bb4f367f5f"
  },
  "A little update": {
   "date_modified": "2016-04-21",
@@ -68,10 +80,10 @@
   "remembered_contents": "92259c9600683e8b3ea70197f839b0291bd3e45430c6aa5d0c0da34ff0f5d688fed87b3e8cf773eab4a0377678f3f233"
  },
  "C++ vs. Haskell: ROUND ONE: What's a programming language, anyway?": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-29",
   "date_posted": "2011-06-15",
   "id": "7a295e9565a6d296278c3cbd6db6ebba",
-  "remembered_contents": "007b9a67fa773db6b52419a88379c5551b2e7729637a24153fe5245f237d0918e38cb1294e775dce393c4b17660589da"
+  "remembered_contents": "d4d3a14935af427a621c614a726fa39be74eca1ec516f413e39e0eff9d9efc8e807197aa25864e87834993719b372069"
  },
  "Capitalism Sat": {
   "date_modified": "2015-10-31",
@@ -116,10 +128,10 @@
   "remembered_contents": "101705cd5442babeed8780cd966b2381c4a0aaefb04b3c38ed090f81de030953a78622a3679e9af951a0a52ead1c2e54"
  },
  "I ordered a tablet; now what?": {
-  "date_modified": "2015-11-09",
+  "date_modified": "2016-04-29",
   "date_posted": "2011-06-11",
   "id": "b3c6afc6469028021df8c857d6f9b52a",
-  "remembered_contents": "d21c044661ba986382f0b9bd676e5739dbcd2361a04aab765e8a600566e6ed94c2a6f7436b83340b4193294f3454b37e"
+  "remembered_contents": "73b1f083fcc2bec2ce96320a9b2b9fb59af43dd45089a071850cbb501c38d769efb45068a8b4451f4bb45791925e4056"
  },
  "I was overheated and unproductive, but now I'm not": {
   "date_modified": "2015-10-31",
@@ -152,10 +164,10 @@
   "remembered_contents": "4d2da6c53f843e7339e0bb883fac7e933dece1e3b61f78035c5379f6a9ac1a9195ffcf3ab16d8cc8d4b6653f244c39c2"
  },
  "Introducing the graphics editing project": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-29",
   "date_posted": "2011-06-11",
   "id": "c8dfab2dc502b95cc5ff95bf3947e7bc",
-  "remembered_contents": "57c6cdee8b01ffd657ca470ea25ff18b23744c49d6f4f600b33bdc8a3023f968902628016cdcc24ad619935aa5107389"
+  "remembered_contents": "e4cbaa0ad896346d8539dc59759adbb6bbdcf7be4744da1be144c7978eb7de8805c33f0ca0ba278a3df26a4fbe7134a4"
  },
  "Let's talk about affirmative consent!": {
   "date_modified": "2016-04-16",
@@ -168,6 +180,18 @@
   "date_posted": "2011-09-10",
   "id": "fc00cc37f2943a0d0f4fc5c66fa778fb",
   "remembered_contents": "a52140eb6c1b22e6b4331ecef0a0b41ad587563f1a6804d46e29e53845d34d7c88c45e319bf038711bc3b2d3af12773f"
+ },
+ "Minor progress on Haskell and stuff": {
+  "date_modified": "2016-05-04",
+  "date_posted": "2011-06-13",
+  "id": "5a1954d721587a0b360e0b4bb87a1a41",
+  "remembered_contents": "d362ac2ff0aa400354c431a47cf7ccc0621cd6c7c4e6a6a93ab1b6cb5e807e1eb80b17b9f4bd46d418391b0a836e187d"
+ },
+ "Minor progress on the Haskell exercise and stuff": {
+  "date_modified": "2016-05-04",
+  "date_posted": "2011-06-13",
+  "id": "5a1954d721587a0b360e0b4bb87a1a41",
+  "remembered_contents": "d362ac2ff0aa400354c431a47cf7ccc0621cd6c7c4e6a6a93ab1b6cb5e807e1eb80b17b9f4bd46d418391b0a836e187d"
  },
  "Minor updates 2": {
   "date_modified": "2016-04-16",
@@ -218,10 +242,10 @@
   "remembered_contents": "c1e47feb5f0cdb3a27aff880dc8d27a26732c28df0ce930c18b2bb56d993028369a97439ce46b4687d9a3f91da9c226a"
  },
  "Nudity": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-05-04",
   "date_posted": "2011-06-17",
   "id": "ccf81c1d873dede7e5944f93638240b1",
-  "remembered_contents": "6a1be9d828e8f1f03a01e2719a35a1fb99b9ae408b2f1f009392799650ec9baf4aba733efb09316b5b7525777328256c"
+  "remembered_contents": "842e40c714208ff307a5e1527de28929dae404774154a6e98cfe34e4a79b5692951a371915813175f9832f0bb85eb3e0"
  },
  "Policies": {
   "date_modified": "2015-10-31",
@@ -248,10 +272,10 @@
   "remembered_contents": "8458a9f4d7633820b4606938dd603f42c51a35d72f4aa82ac90e2d40c3bf0d2ebf189cefa42e40f9b24b6b0e24991573"
  },
  "Recommended website: Harry Potter and the Methods of Rationality": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-29",
   "date_posted": "2011-06-27",
   "id": "aafa66a9e73a67747f4436dd0176ac51",
-  "remembered_contents": "efdb4699f87a99b036af2cac488f51acaa68cc8f95958a485890071cab88edfde6b2bf19b79331c38b398c8ead625cf9"
+  "remembered_contents": "6844c9f382bd4395e5ef12eedf801c2535dd1179908a427d743197d647a15d9ef22d2d852991395b96d7725272fcf52b"
  },
  "Recommended website: Riot Nrrd": {
   "date_modified": "2016-04-21",
@@ -284,10 +308,10 @@
   "remembered_contents": "d74fe4a64374ef79de69099cb8e15f928cfbbdd75ef50e0cb3dacde5fcd690b563a1e60da0c32cbbba57c2979fe24b73"
  },
  "Sex": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-29",
   "date_posted": "2011-06-29",
   "id": "4c683100e139533812ade5a882129d77",
-  "remembered_contents": "3554ce4ec4ff24efbe778f1f3e2cf913e1b4126bcb2f519bc3c588eb98ecfe2540a4fef03e7b2cb819a4d6067066dc95"
+  "remembered_contents": "e8a4fcc8b2c768d0b996e32b52b07a921c3fb42c7cabf4af328ba502c37a47214eece1a9a158d423d039aee277f9834d"
  },
  "Social standards of dress": {
   "date_modified": "2015-11-09",
@@ -350,10 +374,10 @@
   "remembered_contents": "012edfee94b9f09295c824a546897355dbdd347df58adf4f5cd2dc10f83f76a27702fc721361430afcd4abeda7518e7e"
  },
  "Two days later: EVERYTHING IS A PIECE OF SHIT": {
-  "date_modified": "2015-10-31",
+  "date_modified": "2016-04-29",
   "date_posted": "2011-06-22",
   "id": "56c3c3e69573f203bc519a00dc73aa16",
-  "remembered_contents": "677a2c742a30b9563142947aa4f91b125bcdef86957e8d47c5a3701a18829654191d17f63c0164ce5d3a21001e6d1d74"
+  "remembered_contents": "188e91e4f85c04ee92a4ba05d07651205a478b873a546ff64cb81865fc3be07b6c7883a8855a14c06d15f3d5bee4bfa3"
  },
  "Voldemort's Children, cover page": {
   "date_modified": "2015-10-31",

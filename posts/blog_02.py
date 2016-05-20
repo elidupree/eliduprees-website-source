@@ -110,7 +110,7 @@ posts = [
 ''',
 },
 {
-  "title":"""TODO-1""",
+  "title":"""Minor progress on the Haskell exercise and stuff""",
   "force_id":"5a1954d721587a0b360e0b4bb87a1a41",
   "force_date":datetime.date(2011, 6, 13),
   "tags":["programming","the graphics editing project"],
