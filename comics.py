@@ -494,6 +494,7 @@ def page_html_and_head(page, prev_page, next_page):
   navbar = comic_navbar(prev_page, next_page)
   metabar = comic_metabar(page)
   metadata = blog.post_metadata(page)
+  (HTML, head) =blog.post_html(page["annotation"], None, page_url(page), None, False, metadata)
   return (
     '''
 <div class="comic_and_nav">'''
@@ -514,14 +515,14 @@ def page_html_and_head(page, prev_page, next_page):
     +navbar+metabar+'''
     <div class="comic_annotation_outer">
       <div class="comic_annotation">
-        '''+blog.post_html(page["annotation"], None, page_url(page), None, False, metadata)+'''
+        '''+ HTML +'''
       </div>
     </div>
   </main>
 </div>''',
 
 
-  '''
+head +'''
 <style type="text/css">
 @media screen and (min-width: '''+str(comics_metadata[page["comic_id"]]["transcript_at_side_width"])+'''px) {
   '''+'\n'.join(wide_screen_rules_list)+'''

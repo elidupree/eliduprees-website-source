@@ -218,7 +218,7 @@ div.comment_header {
   padding-bottom: 0.5em; }
 span.reply_to_comment {
   display: none; }
-body.javascript_enabled span.reply_to_comment {
+html.javascript_enabled span.reply_to_comment {
   display: inline; }
 div.make_reply_box {
   padding-left: '''+str(comment_indent_width)+'''em; }
@@ -228,7 +228,7 @@ a.direct_comment {
   font-weight: bold;
   padding-top: 0.4em;
   text-align: center; }
-body.javascript_enabled a.direct_comment {
+html.javascript_enabled a.direct_comment {
   display: block; }
 textarea.make_reply_input {
   width: 90%; }
@@ -552,7 +552,7 @@ def stream_entry (post):
   <a class="stream_media_reference" href="'''+ post_permalink (post) + '">New story: ' + post ["title"] + '''</a>
 </div>'''
     else:
-      return '<article>'+ post_dict_html (post, True)+'</article>' 
+      return '<article>'+ post_dict_html (post, True) [0] +'</article>' 
   else:
     return '''
 <div class="stream_media_reference_outer">
@@ -561,8 +561,10 @@ def stream_entry (post):
 
 
 def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True):
+  head = []
   post_content = blog_server_shared.postprocess_post_string(contents, metadata["id"], title, False, scrutinize)[0]
   
+  before_content_warnings = post_content
   
   content_warning_header_regex = re.compile(r"<content_warning_header"+blog_server_shared.grouped_string_regex("content_warning_header_contents")+">", re.DOTALL)
   post_content = content_warning_header_regex.sub(lambda match: ('''
@@ -581,6 +583,19 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
   content_warning_p_regex = re.compile(r"<content_warning_p"+blog_server_shared.grouped_string_regex("content_warning_p_contents")+">", re.DOTALL)
   post_content = content_warning_p_regex.sub(lambda match: secondary_hidden_cw_box('This section depicts '+match.group("content_warning_p_contents")+'.'), post_content)
   
+  if post_content != before_content_warnings:
+    head.append ("<script>window.elidupree.handle_content_warnings('"+ metadata ["id"]+"', false)</script>" )
+
+  next_transcript_number = 1
+  while True:
+    transcript_generator = re.search(r"<transcript"+ blog_server_shared.grouped_string_regex("transcript_text")+">", post_content, re.DOTALL)
+    if transcript_generator is None:
+      break
+    transcript_identifier_string = str(next_transcript_number)+'_'+ metadata ["id"]
+    post_content = post_content [0: transcript_generator.start(0)]+'<div id=" transcript_'+ transcript_identifier_string+'" class="transcript_block"><div class="transcript_header">Transcript:</div><div class="transcript_content">'+ transcript_generator.group("transcript_text")+'</div></div>' + post_content [transcript_generator.end(0):]
+    head.append('''<style> </style>''')
+    next_transcript_number = next_transcript_number + 1
+
   if stream_only == True:
     cutter = re. compile ( r"<cut>.*?</p>.*$", re.DOTALL)
     post_content = cutter.sub ('''[...]</p>
@@ -605,10 +620,10 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
     post_content_sections[0] = '<h1><a class="post_title_link" href="'''+permalink+'">'+title+'</a></h1>'+post_content_sections[0]
   for i in range(0, len(post_content_sections)):
     post_content_sections[i] = '<div class="post_content_section">'+post_content_sections[i]+'</div>'
-  return '''
+  return ('''
 <div '''+id_str+''' class="blog_post">
   '''+(''.join(post_content_sections))+'''
-</div>'''+metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata)
+</div>'''+metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata), "".join (head))
 
 def metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata):
   specifier = ""
@@ -807,12 +822,12 @@ def add_individual_post_pages (page_dict, post_dict):
       if category == "stories":
         specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''/discussion">Author's notes and comments for '''+post_dict["title"]+'''</a>'''+ specific_sidebar_contents
       
+      (HTML, head) = post_dict_html(post_dict)
       utils.checked_insert(page_dict,
         post_dict["path_prefix"]+url_formatted_title(post_dict)+'.html',
         html_pages.make_page(
           title_formatted_title(post_dict)+("" if (category == "") else " ⊂ "+utils.capitalize_string(category))+" ⊂ Eli Dupree's website",
-          "",
-          "<script>window.elidupree.handle_content_warnings('"+post_dict["title"]+"', false)</script>"+make_blog_page_body(post_dict_html(post_dict), specific_sidebar_contents)
+          head, make_blog_page_body(HTML, specific_sidebar_contents)
         )
       )
         
@@ -824,12 +839,12 @@ def add_individual_post_pages (page_dict, post_dict):
           "parent_story": post_dict["title"],
           "category": "" # Not treated as a story.
         }
+        (HTML, head) = post_dict_html(discussion_post)
         utils.checked_insert(page_dict,
           post_dict["path_prefix"]+url_formatted_title(post_dict)+'/discussion.html',
           html_pages.make_page(
             title_formatted_title(discussion_post)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
-            "",
-            make_blog_page_body(post_dict_html(discussion_post), disc_specific_sidebar_contents)
+            head, make_blog_page_body(HTML, disc_specific_sidebar_contents)
           )
         )
 

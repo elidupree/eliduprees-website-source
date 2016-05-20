@@ -87,10 +87,6 @@ def postprocess_post_string(initial_string, unique_id, title, mark_broken_tags, 
   # Replace most normal quotations with <q></q>. This is very imperfect, but covers most normal situations.
   result_string = re.sub(r'(?:\A|(?<=-|\s))"(?! )([^"]*?)(?<! )"', lambda match: "<q>"+match.group(1)+"</q>", result_string)
 
-  # Fancy-ify transcripts.
-  transcript_regex = re.compile(r"<transcript"+grouped_string_regex("transcript_text")+">", re.DOTALL)
-  result_string = transcript_regex.sub(lambda match: '<div class="transcript_block"><div class="transcript_header">Transcript:</div><div class="transcript_content">'+match.group("transcript_text")+'</div></div>', result_string)
-
   next_footnote_number = 1
   footnotes = []
   while True:
