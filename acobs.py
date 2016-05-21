@@ -7,16 +7,16 @@ import css
 
 css.insert('''
 
-body.acobs div.bars_outer_box {
+html.acobs div.bars_outer_box {
   background-color: #909090 /*#a00000*/; }
-body.acobs div.comic_content_warning_text {
+html.acobs div.comic_content_warning_text {
   color: black; }
-body.acobs .meta_controls_coloring {
+html.acobs .meta_controls_coloring {
   color: blue; }
-body.acobs div.comic_toggle_content_warnings {
+html.acobs div.comic_toggle_content_warnings {
   color: black; }
 
-body.acobs div.comic_transcript_inner {
+html.acobs div.comic_transcript_inner {
   color: black; }
 ''')
 print ("TODO: find a better way to make modified versions of CSS rules")
@@ -33,28 +33,28 @@ dialogue_name_replace = {
   "FUDGE":"grey", "PAST GRANGER":"grey", "MCGONAGALL":"grey", "RON":"grey", "DRACO":"grey",
 }
 css.insert('''
-body.acobs div.comic_transcript_inner .dialogue { font-weight: bold; }
-body.acobs div.comic_transcript_inner .TITLE { color: #804c00; /*#412f16;*/ }
-body.acobs div.comic_transcript_inner .TONKS { color: #bf98af; /*#7f6574;*/ }
-body.acobs div.comic_transcript_inner .GRANGER { color: #8080ff; /*#6060c0;*/ }
-body.acobs div.comic_transcript_inner .HARRY { color: #ff0000; }
-body.acobs div.comic_transcript_inner .WIRELESS { color: #737373; }
-body.acobs div.comic_transcript_inner .VOLDEMORT { color: #80ff80; }
-body.acobs div.comic_transcript_inner .HARRYMORT { color: #ba823f; }
-body.acobs div.comic_transcript_inner .LESTRANGE { color: #c8ff00; }
-body.acobs div.comic_transcript_inner .SNAPE { color: #809e80; }
-body.acobs div.comic_transcript_inner .DUMBLEDORE { color: #8000c0; }
-body.acobs div.comic_transcript_inner .deep_purple { color: #8000c0; }
-body.acobs div.comic_transcript_inner .ZABINI { color: #eec832; }
-body.acobs div.comic_transcript_inner .LUNA { color: #00ff00; }
-body.acobs div.comic_transcript_inner .grey { color: '''+dialogue_50pct_grey+'''; }
-body.acobs div.comic_transcript_inner .pure_blue { color: #0000ff; }
-body.acobs div.comic_transcript_inner .bright_orange { color: #ffc800; }
-body.acobs div.comic_transcript_inner .bright_green { color: #00ff00; }
-body.acobs div.comic_transcript_inner .bright_red { color: #ff0000; }
-body.acobs div.comic_transcript_inner .cyan { color: #00ffff; }
-body.acobs div.comic_transcript_inner .pale_blue { color: #6483c4; }
-body.acobs div.comic_transcript_inner .light_pink { color: #ff80c0; }
-body.acobs div.comic_transcript_inner .dark_green { color: #326632; }
+html.acobs div.comic_transcript_inner .dialogue { font-weight: bold; }
+html.acobs div.comic_transcript_inner .TITLE { color: #804c00; /*#412f16;*/ }
+html.acobs div.comic_transcript_inner .TONKS { color: #bf98af; /*#7f6574;*/ }
+html.acobs div.comic_transcript_inner .GRANGER { color: #8080ff; /*#6060c0;*/ }
+html.acobs div.comic_transcript_inner .HARRY { color: #ff0000; }
+html.acobs div.comic_transcript_inner .WIRELESS { color: #737373; }
+html.acobs div.comic_transcript_inner .VOLDEMORT { color: #80ff80; }
+html.acobs div.comic_transcript_inner .HARRYMORT { color: #ba823f; }
+html.acobs div.comic_transcript_inner .LESTRANGE { color: #c8ff00; }
+html.acobs div.comic_transcript_inner .SNAPE { color: #809e80; }
+html.acobs div.comic_transcript_inner .DUMBLEDORE { color: #8000c0; }
+html.acobs div.comic_transcript_inner .deep_purple { color: #8000c0; }
+html.acobs div.comic_transcript_inner .ZABINI { color: #eec832; }
+html.acobs div.comic_transcript_inner .LUNA { color: #00ff00; }
+html.acobs div.comic_transcript_inner .grey { color: '''+dialogue_50pct_grey+'''; }
+html.acobs div.comic_transcript_inner .pure_blue { color: #0000ff; }
+html.acobs div.comic_transcript_inner .bright_orange { color: #ffc800; }
+html.acobs div.comic_transcript_inner .bright_green { color: #00ff00; }
+html.acobs div.comic_transcript_inner .bright_red { color: #ff0000; }
+html.acobs div.comic_transcript_inner .cyan { color: #00ffff; }
+html.acobs div.comic_transcript_inner .pale_blue { color: #6483c4; }
+html.acobs div.comic_transcript_inner .light_pink { color: #ff80c0; }
+html.acobs div.comic_transcript_inner .dark_green { color: #326632; }
 ''')
 
