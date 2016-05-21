@@ -528,7 +528,7 @@ def comments_section(parent):
 
 def hidden_cw_box(contents):
   return '''<div class="hidden_cw_box">
-    <a href="javascript:;" name="enable_content_notices_button" class="reveal_cw_button">Reveal content warnings</a>
+    <a href="javascript:;" name="enable_content_warnings_button" class="reveal_cw_button">Reveal content warnings</a>
     <div class="hidden_cws">
       '''+contents+'''
       <a name="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>

@@ -197,8 +197,8 @@ window.elidupree.handle_content_warnings = function(id, default_on) {
   if (default_on && read_cookie('content_warnings_disabled_'+id)) {
     window.elidupree.disable_content_warnings();
   }
-  if ((!default_on) && read_cookie('content_warnings_enabled_'+id)) {
-    window.elidupree.enable_content_warnings();
+  if ((!default_on) && !read_cookie('content_warnings_enabled_'+id)) {
+    window.elidupree.disable_content_warnings();
   }
   if (read_cookie('transcripts_hidden')) {
     window.elidupree.hide_transcript();
