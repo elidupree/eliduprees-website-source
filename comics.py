@@ -14,9 +14,9 @@ max_transcript_width = 500
 css.insert('''
 div.comic_content_warning_box {
   height: 100%; }
-body.content_warnings_disabled div.comic_content_warning_box {
+html.content_warnings_disabled div.comic_content_warning_box {
   height: auto; }
-body.content_warning_dismissed div.comic_content_warning_box {
+html.content_warning_dismissed div.comic_content_warning_box {
   height: auto; }
 div.comic_content_warning_text {
   margin: 0 auto;
@@ -45,23 +45,23 @@ a.dismiss_content_warning {
 
 .metabar_content_warnings_disabled {
   display: none; }
-body.content_warnings_disabled .metabar_content_warnings_disabled {
+html.content_warnings_disabled .metabar_content_warnings_disabled {
   display: inline; }
-body.content_warnings_disabled .metabar_content_warnings_enabled {
+html.content_warnings_disabled .metabar_content_warnings_enabled {
   display: none; }
 a.comic_disable_content_warnings {
   font-family: Arial, Helvetica, sans-serif;
   display: block;
   padding: 0.5em; }
-body.content_warnings_disabled a.comic_disable_content_warnings {
+html.content_warnings_disabled a.comic_disable_content_warnings {
   display: none; }
 div.comic_box_after_content_warning {
   position: relative; }
 .remove_if_content_warnings_enabled {
   display: none; }
-body.content_warnings_disabled .remove_if_content_warnings_enabled {
+html.content_warnings_disabled .remove_if_content_warnings_enabled {
   display: block; }
-body.content_warnings_disabled .remove_if_content_warnings_disabled {
+html.content_warnings_disabled .remove_if_content_warnings_disabled {
   display: none; }
   
 div.comic_and_nav {
@@ -106,7 +106,7 @@ div.comic_nav_button {
 div.comic_nav_button a {
   display: block; }
                                div.comic_nav_button.content_warning { margin-bottom: 3em; }
-body.content_warnings_disabled div.comic_nav_button.content_warning { margin-bottom: 0; }
+html.content_warnings_disabled div.comic_nav_button.content_warning { margin-bottom: 0; }
 .comic_nav_button_main {
   display: block;
   border-style: solid;
@@ -151,33 +151,33 @@ a.comic_archive_entry {
 div.hidden_cw_box {
   border: 1px dashed black;
   padding: 0.5em; }
-body.content_warnings_disabled div.hidden_cw_box.secondary {
+html.content_warnings_disabled div.hidden_cw_box.secondary {
   display: none; }
-body.hidden_cws_revealed div.hidden_cw_box.secondary {
+html.hidden_cws_revealed div.hidden_cw_box.secondary {
   display: block; }
 a.reveal_cw_button {
   font-size: 150%;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center; }
 a.reveal_cw_button { display:none; }
-body.content_warnings_disabled a.reveal_cw_button { display:block; }
-body.content_warnings_disabled div.hidden_cws { display:none; }
+html.content_warnings_disabled a.reveal_cw_button { display:block; }
+html.content_warnings_disabled div.hidden_cws { display:none; }
 ''')
 
 
 javascript.do_before_body('''
 window.elidupree.show_transcript = function() {
-  remove_class(document.body, 'transcripts_hidden');
+  remove_class(document.documentElement, 'transcripts_hidden');
   delete_cookie('transcripts_hidden');
 };
 window.elidupree.hide_transcript = function() {
-  document.body.className += ' transcripts_hidden';
+  document.documentElement.className += ' transcripts_hidden';
   set_cookie('transcripts_hidden', 'true', 30);
 };
 
 window.elidupree.handle_content_warnings = function(id, default_on) {
   window.elidupree.enable_content_warnings = function() {
-    remove_class(document.body, 'content_warnings_disabled');
+    remove_class(document.documentElement, 'content_warnings_disabled');
     if (default_on) {
       delete_cookie('content_warnings_disabled_'+id);
     }
@@ -186,7 +186,7 @@ window.elidupree.handle_content_warnings = function(id, default_on) {
     }
   };
   window.elidupree.disable_content_warnings = function() {
-    document.body.className += ' content_warnings_disabled';
+    document.documentElement.className += ' content_warnings_disabled';
     if (default_on) {
       set_cookie('content_warnings_disabled_'+id, 'true', 30);
     }
@@ -221,7 +221,7 @@ if (view_the_comic_p) {
   dismiss_content_warning_a.setAttribute('href','javascript:;');
   dismiss_content_warning_a.appendChild(document.createTextNode('View the comic'));
   view_the_comic_p.replaceChild(dismiss_content_warning_a, view_the_comic_p.firstChild);
-  add_event_listener(dismiss_content_warning_a,'click',function() { document.body.className += ' content_warning_dismissed'; });
+  add_event_listener(dismiss_content_warning_a,'click',function() { document.documentElement.className += ' content_warning_dismissed'; });
   
   var disable_content_warnings_p = document.getElementById('disable_content_warnings_p');
   if (cookies_enabled) {
@@ -261,7 +261,7 @@ comics_pages = {
 comics_metadata = {
   "voldemorts_children": {
     "title": "Voldemort's Children",
-    "body_class": "voldemorts_children",
+    "html_class": "voldemorts_children",
     "url": "/voldemorts-children",
     "abbr": "VC",
     "image_width": 750,
@@ -272,7 +272,7 @@ comics_metadata = {
   },
   "acobs": {
     "title": "A Couple of Badass Superheroes",
-    "body_class": "acobs",
+    "html_class": "acobs",
     "url": "/a-couple-of-badass-superheroes",
     "abbr": "ACOBS",
     "image_width": 545,
@@ -318,7 +318,7 @@ def recent_page_link(deduction):
 
 def do_css_for_comic(comic_id):
   comic_width = comics_metadata[comic_id]["image_width"]
-  ancestor_str = 'body.'+comics_metadata[comic_id]["body_class"]
+  ancestor_str = 'html.'+comics_metadata[comic_id]["html_class"]
   transcript_at_side_width = comic_width + 3*sideways_space + min_transcript_width
   transcript_maximized_width = comic_width + 3*sideways_space + max_transcript_width
   comics_metadata[comic_id]["transcript_at_side_width"] = transcript_at_side_width
@@ -543,17 +543,17 @@ def add_comic_pages(page_dict):
       extra_scripts = "window.elidupree.handle_content_warnings('"+comic_id+"', true)\n"
       if next_page:
         head = head+'<link rel="next prefetch prerender" href="'+page_url(next_page)+'" />\n<link rel="prefetch" href="'+comic_image_url(next_page)+'" />\n'
-        extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(next_page)+"') !== -1) { document.body.className += ' content_warning_dismissed'; }\n"
+        extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(next_page)+"') !== -1) { document.documentElement.className += ' content_warning_dismissed'; }\n"
       if prev_page:
         head = head+'<link rel="prev prefetch prerender" href="'+page_url(prev_page)+'" />\n<link rel="prefetch" href="'+comic_image_url(prev_page)+'" />\n'
-        extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(prev_page)+"') !== -1) { document.body.className += ' content_warning_dismissed'; }\n"
+        extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(prev_page)+"') !== -1) { document.documentElement.className += ' content_warning_dismissed'; }\n"
       utils.checked_insert(page_dict,
         page_url(page)+'.html',
         html_pages.make_page(
           ('Page '+str(page ["page_number"])+' ⊂ ' if i>0 else '')+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
           head,
           '<script>'+extra_scripts+'''</script>
-  <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page), {"body_class":comics_metadata[comic_id]["body_class"]}
+  <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page), {"html_class":comics_metadata[comic_id]["html_class"]}
         )
       )
       
@@ -569,7 +569,7 @@ def add_comic_pages(page_dict):
         'Archive ⊂ '+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
         head,
         '''
-<a class="skip" href="#content">Skip to content</a>'''+bars.bars_wrap({"comics":True}, archive_html), {"body_class":comics_metadata[comic_id]["body_class"]}
+<a class="skip" href="#content">Skip to content</a>'''+bars.bars_wrap({"comics":True}, archive_html), {"html_class":comics_metadata[comic_id]["html_class"]}
       )
     )
     

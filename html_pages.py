@@ -9,7 +9,7 @@ import javascript
 
 def make_page(title, head_stuff, body_stuff, extras = {}):
   return '''<!DOCTYPE html>
-<html lang="en">
+<html lang="en"'''+(' class="'+extras["html_class"]+'"' if "html_class" in extras else '')+'''>
   <head>
     <meta charset="utf-8" />
     <title>'''+title+'''</title>
@@ -21,7 +21,7 @@ def make_page(title, head_stuff, body_stuff, extras = {}):
     <script type="text/javascript" src="/before-body.js?rr"></script>
     '''+head_stuff+'''
   </head>
-  <body'''+(' class="'+extras["body_class"]+'"' if "body_class" in extras else '')+'''>
+  <body>
     '''+body_stuff+'''
     <script type="text/javascript" src="/after-body.js?rr"></script>
   </body>

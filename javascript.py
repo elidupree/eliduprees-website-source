@@ -9,7 +9,7 @@ global afterbody_js
 afterbody_js = open("AjaxRequest.js", "r", encoding='utf-8').read()
 beforebody_js = r'''
 window.elidupree = {}
-document.body.className += ' javascript_enabled';
+document.documentElement.className += ' javascript_enabled';
 function remove_class(element, class_name) {
   element.className = element.className.replace(new RegExp('(\\s|^)'+class_name+'(\\s|$)'), ' ');
 }
@@ -33,7 +33,7 @@ if (typeof(document.cookie) === "string") {
     delete_cookie('testcookie1');
     delete_cookie('testcookie2');
     cookies_enabled = true;
-    document.body.className += ' cookies_enabled';
+    document.documentElement.className += ' cookies_enabled';
   }
 }
 
