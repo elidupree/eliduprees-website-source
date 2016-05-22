@@ -108,4 +108,9 @@ def postprocess_post_string(initial_string, unique_id, title, mark_broken_tags, 
   if title != "Neurodiversity":
     # Sub in the first use of the string "neurodiversity" with a link to my awesome post. Note that this is done AFTER the footnotes are replaced, in order to prefer subbing the first occurence of the word in the body text rather than the first in the flow of reading all footnotes immediately.
     result_string = neurodiversity_link(result_string)
+  
+  #hack: q tags automatically display quote marks, but they can't be copied,
+  #so that's bad. So replace them.
+  result_string = re.sub(r"<q>", '<span class="inline_quote">“', result_string)
+  result_string = re.sub(r"</q>", '”</span>', result_string)
   return (result_string, words_replaced, marked_broken_tags)
