@@ -271,7 +271,10 @@ a.random_post {
   display: none; }
 a.random_post.enabled {
   display: block; }
-  
+
+div.transcript_block {border: 1px solid black;}
+div.transcript_header {padding:0.5em;}
+div.transcript_content {padding:0.5em; border-top:1px dashed black;}
   
 div.blog_post span.inline_quote {background-color:#f0f0f0; color:#404040; border-radius:0.5em; }
 blockquote {padding: 0.25em; background-color:#f0f0f0; color:#404040;  margin-left: 2.5em; margin-right: 2.8em; margin-top: 0; margin-bottom: 1em; }
@@ -592,8 +595,8 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
     if transcript_generator is None:
       break
     transcript_identifier_string = str(next_transcript_number)+'_'+ metadata ["id"]
-    post_content = post_content [0: transcript_generator.start(0)]+'<div id=" transcript_'+ transcript_identifier_string+'" class="transcript_block"><div class="transcript_header">Transcript:</div><div class="transcript_content">'+ transcript_generator.group("transcript_text")+'</div></div>' + post_content [transcript_generator.end(0):]
-    head.append('''<style> </style>''')
+    post_content = post_content [0: transcript_generator.start(0)]+'<div id="transcript_'+ transcript_identifier_string+'" class="transcript_block"><div class="transcript_header">Transcript:</div><div class="transcript_content '+ transcript_identifier_string+'">'+ transcript_generator.group("transcript_text")+'</div></div>' + post_content [transcript_generator.end(0):]
+    head.append('''<style> html.transcript_hidden_'''+ transcript_identifier_string +''' div.transcript_content.'''+ transcript_identifier_string +''' {display: none;} </style>''')
     next_transcript_number = next_transcript_number + 1
 
   if stream_only == True:
