@@ -288,6 +288,23 @@ a.footnote_link { color: black; }
 .skepticism { background-color: #ffc0c0; }
 ''')
 
+javascript.do_before_body (r'''
+window.elidupree.transcripts = []
+window.elidupree.handle_transcript = function (ID) {
+  var show = function () {
+    remove_class (document.documentElement, 'transcript_hidden_' + ID);
+    set_cookie ('transcript_shown_' + ID, 'true', 30);
+  }
+  var hide = function () {
+    document.documentElement.className += ' transcript_hidden_'+ ID;
+    delete_cookie ('transcript_shown_'+ ID);  
+  }
+  if (!read_cookie ('transcript_shown_' + ID)) {
+    hide ();
+  }
+  window.elidupree.transcripts.push ([ID, show, hide]);
+}
+''')
 javascript.do_after_body(r'''
 var comments = document.getElementsByName("user_comment");
 var all_comments_divs = document.getElementsByName("all_comments");
@@ -295,6 +312,15 @@ var random_post_link = document.getElementById("random_post");
 var index_entries = document.getElementsByName("index_entry");
 var random_entry;
 var i;
+
+function handle_transcript (stuff) {
+  add_event_listener (document.getElementById('show_transcript_button_'+ stuff [0]), 'click', stuff [1]);
+  add_event_listener (document.getElementById('hide_transcript_button_'+ stuff [0]), 'click', stuff [2]);
+}
+for (i = 0; i < window.elidupree.transcripts.length; ++i) {
+  handle_transcript (window.elidupree.transcripts [i]);
+}
+
 
 function expand_reply_box(elem, id) {
   elem.innerHTML = ''+
@@ -381,6 +407,7 @@ if (random_post_link) {
   random_post_link.innerHTML = "[Random post] "+random_entry.innerHTML
   random_post_link.className = random_post_link.className+" enabled"
 }
+
 ''')
 print ('TODO: say "random story" instead on stories pages')
 
@@ -595,8 +622,16 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
     if transcript_generator is None:
       break
     transcript_identifier_string = str(next_transcript_number)+'_'+ metadata ["id"]
-    post_content = post_content [0: transcript_generator.start(0)]+'<div id="transcript_'+ transcript_identifier_string+'" class="transcript_block"><div class="transcript_header">Transcript:</div><div class="transcript_content '+ transcript_identifier_string+'">'+ transcript_generator.group("transcript_text")+'</div></div>' + post_content [transcript_generator.end(0):]
-    head.append('''<style> html.transcript_hidden_'''+ transcript_identifier_string +''' div.transcript_content.'''+ transcript_identifier_string +''' {display: none;} </style>''')
+    post_content = post_content [0: transcript_generator.start(0)]+'<div id="transcript_'+ transcript_identifier_string+'" class="transcript_block"><div class="transcript_header">Transcript: <a id="show_transcript_button_'+ transcript_identifier_string+'" href="javascript:;">(show)</a><a id="hide_transcript_button_'+ transcript_identifier_string+'" href="javascript:;">(hide)</a></div><div class="transcript_content id'+ transcript_identifier_string+'">'+ transcript_generator.group("transcript_text")+'</div></div>' + post_content [transcript_generator.end(0):]
+    head.append('''<style> 
+html.transcript_hidden_'''+ transcript_identifier_string +''' div.transcript_content.id'''+ transcript_identifier_string +''' {display: none;}
+#show_transcript_button_'''+ transcript_identifier_string +''' {display: none;}
+html.transcript_hidden_'''+ transcript_identifier_string +''' #show_transcript_button_'''+ transcript_identifier_string +''' {display: inline;}
+html.transcript_hidden_'''+ transcript_identifier_string +''' #hide_transcript_button_'''+ transcript_identifier_string +''' {display: none;}
+    </style> 
+    <script>
+    window.elidupree.handle_transcript ("'''+ transcript_identifier_string +'''");
+    </script>''')
     next_transcript_number = next_transcript_number + 1
 
   if stream_only == True:
