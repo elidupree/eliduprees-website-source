@@ -48,6 +48,7 @@ import comics
 import redirects
 
 import idupree_websitepy.build
+import idupree_websitepy.tests
 
 def ensure_dir(d):
   if not os.path.exists(d):
@@ -103,16 +104,24 @@ Disallow: /''')
     f = open(buildpath, "w", encoding='utf-8')
     f.write(contents)
 
-  idupree_websitepy.build.build(idupree_websitepy.build.Config(
-    site_source_dir = build_dir,
-    build_output_dir = './build/idupree_websitepy_output/',
-    doindexfrom = ['/'],
-    butdontindexfrom = [],
-    error_on_missing_resource = False,
-    error_on_broken_internal_link = False,
-    canonical_scheme_and_domain = utils.canonical_scheme_and_domain,
-    list_of_compilation_source_files = ['build.py']
-    ))
+  # TODO real cmdline processing
+  if len(sys.argv) > 1 and sys.argv[1] != '--no-idupree-websitepy':
+    config = idupree_websitepy.build.Config(
+      site_source_dir = build_dir,
+      build_output_dir = './build/idupree_websitepy_output/',
+      doindexfrom = ['/'],
+      butdontindexfrom = [],
+      error_on_missing_resource = False,
+      error_on_broken_internal_link = False,
+      canonical_scheme_and_domain = utils.canonical_scheme_and_domain,
+      list_of_compilation_source_files = ['build.py'],
+      test_host = 'localhost',
+      test_port = 84,
+      test_host_header = 'www.elidupree.com',
+      test_canonical_origin = utils.canonical_scheme_and_domain
+      )
+    idupree_websitepy.build.build(config)
+    idupree_websitepy.tests.test(config)
 
 if __name__ == '__main__':
   main()
