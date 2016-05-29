@@ -572,7 +572,10 @@ def secondary_hidden_cw_box(contents):
   </div>'''
 
 def post_dict_html(post_dict, stream_only = False):
-  return post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories")
+  (body, head) = post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories")
+  if "head" in post_dict:
+    head = head + post_dict ["head"]
+  return (body, head)  
 
 def stream_entry (post):
   if "contents" in post:

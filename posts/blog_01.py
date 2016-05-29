@@ -66,49 +66,57 @@ posts = [
   "force_id":"a33103d3ef0c9637cb3f2e727a8373e0",
   "force_date":datetime.date(2011, 6, 10),
   "tags":["gender","this website"],
+  "edited_significantly_from_old_website": True,
+  "head":'''<style>
+table.scrutinized_pronouns {
+border-collapse: collapse;
+border: 1px solid black; 
+}
+table.scrutinized_pronouns th, table.scrutinized_pronouns td {
+border: 1px solid black; padding: 0.25em;
+}
+</style>''',
   "contents":'''
 
-<autotitle>
+<p>"She" and "he" are <strong>scrutinized words</strong> on this website. You're allowed to use them, but if you do, they will be marked like this: She, he, her, him, hers, his, herself, himself.</p>
 
-<p>On my website, I have made it so that whenever someone uses any form of the pronoun "she" or "he" in a post or comment, it appears with a mark of scrutiny. Observe: She, he, her, him, hers, his, herself, himself.</p>
+<p>I encourage you to use the gender-neutral pronoun "ze" instead, as I do. You use it the same way as "she", "he", or "they":</p>
 
-<p>I also avoid using those pronouns myself, and use the gender-neutral pronoun "ze" instead. I've listed the forms of "ze", as I use it, in the table below:</p>
-
-<table style="border-collapse: collapse; border-width: 1">
-  <tr><th>As subject</th><th>As object</th><th>Possessive<br/>adjective</th><th>Possessive<br/>pronoun</th><th>Reflexive</th></tr>
+<table class="scrutinized_pronouns">
+  <tr><th> Subject </th><th> Object </th><th>Possessive<br/>adjective</th><th>Possessive<br/>pronoun</th><th>Reflexive</th></tr>
   <tr><td>she</td><td>her</td><td>her</td><td>hers</td><td>herself</td></tr>
   <tr><td>he</td><td>him</td><td>his</td><td>his</td><td>himself</td></tr>
-  <tr><td>they</td><td>them</td><td>their</td><td>theirs</td><td>themself</td></tr>
+  <tr><td>they</td><td>them</td><td>their</td><td>theirs</td><td>themselves </td></tr>
   <tr><td>ze</td><td>zem</td><td>zir</td><td>zirs</td><td>zemself</td></tr>
 </table>
 
 <h2>Why?</h2>
 
-<p>Because to say "she" or "he" is to explicitly declare a gender for another person, and that level of explicitness should be matched by how visible the word is in the sentence.</p>
+<p>When you call a person "she" or "he", you explicitly assign a gender to them. Gender is important to lots of people, but these words are very short and common, so you usually read past them without thinking about them. By marking them, I make it more obvious how important they are.</p>
 
-<p>Since "she" and "he" are structural components of the language, it's very difficult to avoid using them if you're not willing to modify the language itself. And because they're so hard to avoid, they actively divide all humans into two classes: The "she"-humans and the "he"-humans.</p>
+<p>Since "she" and "he" are structural components of the language, it's very hard to avoid using them unless you're willing to modify the language itself. And because they're so hard to avoid, they force you to divide all humans into two classes: The "she"-humans and the "he"-humans.</p>
 
 <p>That division is called "the gender binary". I don't like it.</p>
 
-<p>If you include the gender binary in every sentence you write, speak, or think, then it becomes part of what you think about when you think about any person. You start judging people based on their apparent gender, rather than on whatever is actually relevant to the discussion. Obviously, that's a pretty silly idea. And given our world's huge amount of public and private discrimination against humans who don't fall neatly into the gender binary (hi!), and against humans who fit neatly but fall on the "she" side, it's not just a pretty silly idea &ndash; it's a totally terrible idea.</p>
+<p>If you include the gender binary in every sentence you write, speak, or think, then it becomes part of your way of understanding people. You start judging people based on their apparent gender, even when it's mostly irrelevant. Obviously, that's a pretty silly idea. And given how much discrimination there is in our world, especially against humans who don't fall neatly into the gender binary (hi!), and against humans who fit neatly but fall on the "she" side, it's not just a pretty silly idea &ndash; it's a really terrible idea.</p>
 
-<p>Consider this: Have you ever felt uncomfortable because you didn't know what gender another person was? Now, have you ever felt uncomfortable because you didn't know what another person's favorite color was? If you answered "Yes" and "No", then welcome to the wonderful world of thinking that gender is a uniquely essential quality of a person!<footnote((This is also a great analogy because lots of people just assume you have a favorite color, but not everyone naturally has one!))> Our social norms say that you're supposed to judge other people based on their genders, and so a lot of people get uncomfortable when they can't do what they're "supposed" to. The whole system of judgment sneaks into your head by starting with the benign-seeming judgement of whether you're supposed to use the "she" pronouns or the "he" pronouns.</p>
+<p>Consider this: Have you ever felt uncomfortable because you didn't know what gender another person was? Now, have you ever felt uncomfortable because you didn't know another person's favorite color ? If you answered "Yes" and "No", then welcome to the wonderful world of thinking that gender is a uniquely essential quality of a person!<footnote((This is also a great analogy because lots of people just assume you have a favorite color, but not everyone naturally has one!))> It's not your fault, of course. Our social norms told you it was what you were supposed to do, and there's a lot of pressure to do what you're "supposed to". They said: We'll leave you alone if you just get the right answer to this harmless little question of whether you're supposed to use the "she" pronouns or the "he" pronouns.</p>
 
-<p>But that turns out to not be such a benign judgement at all. When you do it, you're helping society judge whether whoever you're talking about is a "she"-human, or a "he"-human, or someone who doesn't really fit in the little boxes they're supposed to fit in. And when I say "society", I mean the kid sitting in the front of your class who's going to bully the doesn't-really-fit kid when you're not looking (or maybe when you are). I mean your male friend who doesn't think they're being sexist, but who always talks over their female friends in conversations. I mean the person who lives down the street, who seems pretty nice, who tried to rape and murder another person last week, just because the other person didn't fit our standards of "she" or "he".<footnote((Well, usually it's not <em>just</em> because they didn't fit in the gender binary. Usually it's also because they were a person of color, and/or mentally disabled, and/or homeless, and/or... well, you get the idea.))> Obviously, when a person commits rape or murder, they bear the sole responsibility. But that person thought it was okay because people like <em>you</em> said, "I care so little about <em>those people</em> that I won't even change the way I talk to stop excluding them."</p>
+<p>But that turns out that the question isn't so harmless after all. When you answer it, you're helping society judge whether someone is a "she"-human, or a "he"-human, or someone who doesn't really fit in the little boxes we made for them. And when I say "society", I mean the kid sitting in the front of your class who's going to bully the doesn't-really-fit kid when you're not looking (or maybe when you are). I mean your male friend who doesn't think they're being sexist, but who always talks over their female friends in conversations. I mean the person who lives down the street, who seems pretty nice, who tried to rape and murder another person last week, just because the other person didn't fit our standards of "she" or "he".<footnote((Well, usually it's not <em>just</em> because they didn't fit in the gender binary. Usually it's also because they were a person of color, and/or mentally disabled, and/or homeless, and/or... well, you get the idea.))> Obviously, when a person commits rape or murder, they bear the sole responsibility. But that person thought it was okay because people like <em>you</em> said, "I care so little about <em>those people</em> that I won't even change the way I talk to stop excluding them."</p>
 
 <h2>So what do we do about it?</h2>
 
 <p>I don't expect you to stop using those pronouns entirely, any more than I expect you to magically solve all the world's problems at once. What you <em>can</em> do is to notice when you do it, and be aware of how that affects the way you're communicating.</p>
 
-<p>Now, if only we had a way to do that automatically get your attention whenever you let one of those words pass without comment...? OH RIGHT.</p>
+<p>That's exactly what the <strong>scrutinized words</strong> are for: to make you notice.</p>
 
-<p>If you're more ambitious, you can start cutting back on your use of these gendered pronouns, and start using gender-neutral pronouns. There are a variety of options for this. One is to use the singular "they"; if you look back over this post, you'll see that I used the singular "they" a lot. In most cases, it's unobtrusive and it gets the job done. Some people say it's grammatically incorrect, but those people are wrong.</p>
+<p>If you're more ambitious, you can start cutting back on how much you use these gendered pronouns, and start using gender-neutral pronouns. There are a variety of options for this. One is to use the singular "they". If you look back over this post, you'll see that I used the singular "they" a lot. In most cases, it's unobtrusive and it gets the job done. Some people say it's grammatically incorrect, but those people are wrong.</p>
 
-<p>"They" doesn't always work, though &ndash; one of the advantages of "she" and "he" is that they're two separate words, so they can, given the right genders of people, refer to two different people unambiguously. Getting rid of them already loses that advantage &ndash; it means that even if you have a female person and a male person, you still have to use the same pronoun for both of them &ndash; and it only gets worse if you also have to use the same pronoun for a group of people as for the individuals. So, it helps to have a pronoun that is third-person, explicitly singular, and doesn't assign a gender. English didn't have any of those for a while, but now it has lots of them. If you've read this website much, you've probably noticed that I use one of them in particular: "ze".</p>
+<p> "They" has some downsides, though. It can refer to either a person or a group, and although it's usually obvious which you mean, it can sometimes be ambiguous. So, it helps to have a pronoun that is third-person, explicitly singular, and doesn't assign a gender. English didn't have any of those for a while, but now it has lots of them. If you've read this website much, you've probably noticed that I use one of them in particular: "ze".</p>
 
-<p>Since the structure of "ze" is so similar to the existing pronouns, I have had an easy time adding it to my vocabulary. And it has another nice advantage over "they": When people argue that I shouldn't use it, it's easy to engage in the real conversation about gender, while with "they", it often gets bogged down as a conversation about grammar.</p>
+<p>Since the structure of "ze" is so similar to the more common pronouns, it hasn't been very hard for me to add it to my vocabulary. And it has another nice advantage over "they": When people argue that I shouldn't use it, it's easy to engage in the real conversation about gender. When they argue about "they", it often gets bogged down as a conversation about grammar.</p>
 
-<p>The other most common gender-neutral pronouns are the Spivak set: ey, em, eir, eirs, emself. I personally don't like this set, because I feel like I'm mumbling when I say them out loud, not to mention that "ey" and "em" both have other meanings, or at least are pronounced the same as words that do. But it's a set I've seen used in a bunch of places, so I thought it would be prudent to mention it here. It also bears mentioning that there are a bunch of different variants of "ze", from ze/hir/hir/hirs/hirself to zhe/zhim/zher/zhers/zhimself; I picked the set I use simply because it feels the most natural to me.</p>
+<p>The other most common gender-neutral pronouns are the Spivak set: ey, em, eir, eirs, emself. I personally don't like this set, because I feel like I'm mumbling when I say them out loud. Also, "ey" and "em" both have other meanings, or at least are pronounced the same as words that do. But it's a set I've seen used in a bunch of places, so I thought it would be prudent to mention it here. It also bears mentioning that there are a bunch of different variants of "ze", from ze/hir/hir/hirs/hirself to zhe/zhim/zher/zhers/zhimself. I picked the version I use simply because it feels the most natural to me.</p>
 
 <p>That concludes my thoughts for now. Since this is the reference post for everywhere that "she" and "he" are scrutinized, I may update it from time to time.</p>
 
