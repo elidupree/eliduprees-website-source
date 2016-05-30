@@ -71,6 +71,7 @@ posts = [
 table.scrutinized_pronouns {
 border-collapse: collapse;
 border: 1px solid black; 
+margin: 1.2em 2em;
 }
 table.scrutinized_pronouns th, table.scrutinized_pronouns td {
 border: 1px solid black; padding: 0.25em;

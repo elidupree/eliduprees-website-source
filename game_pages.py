@@ -16,7 +16,7 @@ body.hexy .bars_outer_box {
 
 div.hexy_content h1{ font-size: 200%; font-weight: bold; padding-top: 0.20em; }
 div.hexy_content h2{ font-size: 150%; font-weight: bold; padding-top: 0.30em; }
-div.hexy_content p,div.fake_p { margin: 0; padding: 0.5em 0; }
+div.hexy_content p,div.hexy_content div.fake_p { margin: 0; padding: 0.5em 0; }
 div.hexy_content a:link { color:blue }
 div.hexy_content a:visited { color:purple }
 
@@ -26,7 +26,7 @@ div.hexy_content {
   font-family: Arial, Helvetica, sans-serif;
   max-width: 50em;
   margin: 0 auto; }
-div.hexy_content form,table {
+div.hexy_content form,div.hexy_content table {
   display: inline; }
 div.hexy_content .paynowbutton {
   vertical-align: middle; }
