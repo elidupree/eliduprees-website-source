@@ -409,7 +409,7 @@ if (random_post_link) {
 }
 
 ''')
-print ('TODO: say "random story" instead on stories pages')
+
 
 def date_to_string(d):
   return d.strftime("%Y-%m-%d")
@@ -461,7 +461,6 @@ def remember_post_dict_entry(index, metadata, post_dict):
       return True
   return False
 
-print("TODO: only update date posted(/modified?) when actually deploying the page, not building previews")
 
 def post_metadata(post_dict):
   changed_metadata = False

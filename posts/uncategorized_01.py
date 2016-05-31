@@ -30,7 +30,7 @@ posts = [
 
 <p>A few of my mental traits can be disabling (e.g. oversensitivity to noise and other sensations), so I do consider myself a "person with a disability", but I don't think of my autism as a disability overall.</p>
 
-<p>I'm agender. I've never felt female or male, not even a little bit. I prefer for people to refer to me by gender-neutral terms and <a href="fixme">pronouns</a>. People often assume I'm male, which annoys me, but it doesn't annoy me much more than any other time that people are wrong about something.</p>
+<p>I'm agender. I've never felt female or male, not even a little bit. I prefer for people to refer to me by gender-neutral terms and <a href="/blog/scrutinized-words-she-he">pronouns</a>. People often assume I'm male, which annoys me, but it doesn't annoy me much more than any other time that people are wrong about something.</p>
 
 <p>I grew up on the Internet. Physically, I grew up in a suburban town in the US Northeast. I was raised by parents who nurtured most of my interests. I went to high-quality public schools, where many of the adults (and some children) mistreated me for my autistic traits and gender expression.</p>
 

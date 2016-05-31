@@ -16,6 +16,9 @@ inline_separator = '<span class="inline_separator"> &#8231; </span>'
 # TODO 'https://www.elidupree.com':
 canonical_scheme_and_domain = 'http://www.elidupree.com'
 
+def background_image (name):
+  return '<div><img role="presentation" alt="" class="background" src="/media/' + (name if name else 'colorful-background.jpg') + '?rr" /></div>'
+
 def capitalize_string(string):
   if len(string) == 0:
     return string

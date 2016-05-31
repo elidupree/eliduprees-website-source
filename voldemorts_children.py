@@ -6,7 +6,6 @@ from __future__ import division
 import css
 import gimp_stuff
 
-print('TODO: content_warnings_disabled on the big content warnings box can make the bottom bar show up in the wrong place on a very tall window')
 
 active_cw_color = "ff5050"
 active_cw_color_dull = "be2626"
@@ -62,10 +61,8 @@ html.voldemorts_children div.user_comment:hover>div.comment_body_hover_marker>*>
 html.voldemorts_children .blog_post_metadata {
   background-color: rgba(204,204,204,.7) }
 ''')
-print ("TODO: find a better way to make modified versions of CSS rules")
 
 
-print ("TODO: is there a standard way of making colors 'high-contrast enough'?")
 
 dialogue_50pct_grey = '#8c8c8c'
 dialogue_name_replace = {

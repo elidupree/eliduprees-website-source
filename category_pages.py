@@ -204,7 +204,7 @@ def add_category_pages(page_dict):
     )
   )
   
-  print("TODO: reduce duplicate code between these three (and blog)'")
+
   utils.checked_insert(page_dict,
     '/games.html',
     html_pages.make_page(
@@ -241,7 +241,7 @@ def add_category_pages(page_dict):
     )
   )
   
-  print("TODO: reduce duplicate code between these three (and blog)'")
+
   utils.checked_insert(page_dict,
     '/stories.html',
     html_pages.make_page(
