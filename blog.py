@@ -306,10 +306,10 @@ window.elidupree.handle_transcript = function (ID) {
 }
 ''')
 javascript.do_after_body(r'''
-var comments = document.getElementsByName("user_comment");
-var all_comments_divs = document.getElementsByName("all_comments");
+var comments = document.getElementsByClassName("user_comment");
+var all_comments_divs = document.getElementsByClassName("all_comments");
 var random_post_link = document.getElementById("random_post");
-var index_entries = document.getElementsByName("index_entry");
+var index_entries = document.getElementsByClassName("index_entry_link");
 var random_entry;
 var i;
 
@@ -528,7 +528,7 @@ def do_comments(parent, top_level):
     num = num + cnum + 1
     html_list.append('''
 <article>
-  <div class="user_comment" name="user_comment" id="'''+child_id+'''">
+  <div class="user_comment" id="'''+child_id+'''">
     <div class="comment_body_hover_marker">
       <div class="comment_body_outer">
         <div class="comment_body">
@@ -549,7 +549,7 @@ def comments_section(parent):
 <section>
   <div class="comments_section" id="comments">
     '''+('<h2 class="comments_title">Comments</h2>' if (cnum > 0) else '')+'''
-    <div class="all_comments" name="all_comments" id='''+parent+'''>'''+chtml+'''</div>
+    <div class="all_comments" id='''+parent+'''>'''+chtml+'''</div>
   </div>
   <a href="javascript:;" class="direct_comment" id="make_reply_button_'''+parent+'''">Leave a comment</a>
   <div class="make_reply_box" id="make_reply_box_'''+parent+'''"></div>
@@ -557,17 +557,17 @@ def comments_section(parent):
 
 def hidden_cw_box(contents):
   return '''<div class="hidden_cw_box">
-    <a href="javascript:;" name="enable_content_warnings_button" class="reveal_cw_button">Reveal content warnings</a>
+    <a href="javascript:;" class="enable_content_warnings_button reveal_cw_button">Reveal content warnings</a>
     <div class="hidden_cws">
       '''+contents+'''
-      <a name="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
+      <a class="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
     </div>
   </div>'''
 
 def secondary_hidden_cw_box(contents):
   return '''<div class="hidden_cw_box secondary">
     '''+contents+'''
-    <a name="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
+    <a class="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
   </div>'''
 
 def post_dict_html(post_dict, stream_only = False):
@@ -717,7 +717,7 @@ def add_fake_comments(html):
   return re.sub(re.escape(utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'), fake_comment_html, html)
 
 def index_entry_html(post_dict):
-  return '<div class="index_entry"><a name="index_entry" href="'+post_permalink(post_dict)+'" title="'+post_dict["title"]+'">'+post_dict["title"]+'</a></div>'
+  return '<div class="index_entry"><a class="index_entry_link" href="'+post_permalink(post_dict)+'" title="'+post_dict["title"]+'">'+post_dict["title"]+'</a></div>'
 
 
 def make_blog_page_body(main_contents, sidebar_contents):

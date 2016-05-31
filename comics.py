@@ -237,11 +237,11 @@ if (view_the_comic_p) {
   }
 }
 
-var enable_content_warnings_buttons = document.getElementsByName("enable_content_warnings_button");
+var enable_content_warnings_buttons = document.getElementsByClassName("enable_content_warnings_button");
 for (i = 0; i < enable_content_warnings_buttons.length; ++i) {
   add_event_listener(enable_content_warnings_buttons[i],'click',window.elidupree.enable_content_warnings);
 }
-var disable_content_warnings_buttons = document.getElementsByName("disable_content_warnings_button");
+var disable_content_warnings_buttons = document.getElementsByClassName("disable_content_warnings_button");
 for (i = 0; i < disable_content_warnings_buttons.length; ++i) {
   add_event_listener(disable_content_warnings_buttons[i],'click',window.elidupree.disable_content_warnings);
 }
@@ -451,10 +451,10 @@ def comic_metabar(page):
 <div class="comic_metabar">
   <a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''">First</a>'''+utils.inline_separator+'''<a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''/archive">Archive</a>'''+utils.inline_separator+'''
   <span class="metabar_content_warnings_enabled'''+(" content_warning" if "content_warning" in page else "")+'''">
-    ⚠ '''+(page["content_warning"] if "content_warning" in page else "none")+''' <a name="disable_content_warnings_button" class="meta_controls_coloring" href="javascript:;">(disable content warnings)</a>
+    ⚠ '''+(page["content_warning"] if "content_warning" in page else "none")+''' <a class="disable_content_warnings_button meta_controls_coloring" href="javascript:;">(disable content warnings)</a>
   </span>
   <span class="metabar_content_warnings_disabled">
-    ⚠ disabled <a name="enable_content_warnings_button" class="meta_controls_coloring" href="javascript:;">(enable content warnings)</a>
+    ⚠ disabled <a class="enable_content_warnings_button meta_controls_coloring" href="javascript:;">(enable content warnings)</a>
   </span>
 </div>'''
   
