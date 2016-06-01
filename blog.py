@@ -286,6 +286,8 @@ a.footnote_link { color: black; }
 
 .scrutiny { background-color: #c0ffff; color: black; text-decoration: underline; }
 .skepticism { background-color: #ffc0c0; }
+
+html.restricted_user .hidden_from_restricted_users {display: none;}
 ''')
 
 javascript.do_before_body (r'''
@@ -304,6 +306,9 @@ window.elidupree.handle_transcript = function (ID) {
   }
   window.elidupree.transcripts.push ([ID, show, hide]);
 }
+if (read_cookie ('restricted')) {
+  document.documentElement.className += ' restricted_user'
+}  
 ''')
 javascript.do_after_body(r'''
 var comments = document.getElementsByClassName("user_comment");
@@ -528,7 +533,7 @@ def do_comments(parent, top_level):
     num = num + cnum + 1
     html_list.append('''
 <article>
-  <div class="user_comment" id="'''+child_id+'''">
+  <div class="user_comment'''+ (' hidden_from_restricted_users' if child ["username"] == "UntamableSpirit" else '') +'''" id="'''+child_id+'''">
     <div class="comment_body_hover_marker">
       <div class="comment_body_outer">
         <div class="comment_body">
