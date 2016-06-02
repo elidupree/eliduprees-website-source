@@ -105,7 +105,7 @@ Disallow: /''')
     f.write(contents)
 
   # TODO real cmdline processing
-  if len(sys.argv) > 1 and sys.argv[1] != '--no-idupree-websitepy':
+  if '--no-idupree-websitepy' not in sys.argv:
     config = idupree_websitepy.build.Config(
       site_source_dir = build_dir,
       build_output_dir = './build/idupree_websitepy_output/',
