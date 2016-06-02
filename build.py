@@ -7,6 +7,7 @@ import os
 import os.path
 import sys
 import shutil
+import subprocess
 import locale
 
 # always UTF-8, even on windows
@@ -121,6 +122,8 @@ Disallow: /''')
       test_canonical_origin = utils.canonical_scheme_and_domain
       )
     idupree_websitepy.build.build(config)
+    subprocess.check_call(['/usr/bin/sudo', '/bin/systemctl',
+      'reload-or-try-restart', 'nginx.service'])
     idupree_websitepy.tests.test(config)
 
 if __name__ == '__main__':
