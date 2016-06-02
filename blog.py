@@ -409,7 +409,7 @@ for (i = 0; i < all_comments_divs.length; ++i) {
 if (random_post_link) {
   random_entry = index_entries[Math.floor(Math.random()*index_entries.length)];
   random_post_link.setAttribute("href", random_entry.getAttribute("href"))
-  random_post_link.innerHTML = "[Random post] "+random_entry.innerHTML
+  random_post_link.innerHTML = random_post_link.dataset.itemname+random_entry.innerHTML
   random_post_link.className = random_post_link.className+" enabled"
 }
 
@@ -780,12 +780,12 @@ page_lists ["blog"] = make_page_list (blog_posts.posts ["blog"])
 for tag in tags.tags:
   page_lists [tag] = make_page_list (posts_by_tag [tag])
 
-def sidebar_with_entries (index_entries, header):
+def sidebar_with_entries (index_entries, header, random_itemname):
   index = ('<div class="blog_index">'
       + header
       +("\n".join(index_entries))
       +'</div>')
-  return '<a class="random_post sidebar_standalone_link" id="random_post"></a>'+index
+  return '<a class="random_post sidebar_standalone_link" id="random_post" data-itemname="' + random_itemname +'"></a>'+index
 
 def page_list_sidebar (page_list, header, tags_string = ""):
   index_entries = []
@@ -796,11 +796,11 @@ def page_list_sidebar (page_list, header, tags_string = ""):
     for i in range (len(page) - 1, - 1, - 1):
       post_dict = page [i]
       index_entries.append(index_entry_html(post_dict))
-  return sidebar_with_entries (index_entries, header)
+  return sidebar_with_entries (index_entries, header, "[Random post] ")
 
 sidebars = {}
 sidebars [""] = ""
-sidebars ["stories"] = sidebar_with_entries ([index_entry_html (post) for post in blog_posts.posts ["stories"]],'<div class=" index_page_entry"><a href="/stories">Stories</a></div>')
+sidebars ["stories"] = sidebar_with_entries ([index_entry_html (post) for post in blog_posts.posts ["stories"]],'<div class=" index_page_entry"><a href="/stories">Stories</a></div>', "[Random story] ")
 sidebars ["blog"] = page_list_sidebar (page_lists ["blog"], '<div class=" index_page_entry"><a href="/blog">Latest blog posts</a></div>')
 for tag in tags.tags:
   tags_string ='/tags/'+utils.format_for_url(tag)
@@ -852,13 +852,11 @@ def add_list_pages (page_dict, page_list, prefix, title, identifier):
     <a class="blog_end_link" href="'''+ prefix + page_string +'''/chronological">''' + label + '''</a>
   </div>'''
 
-          utils.checked_insert(page_dict,
-            prefix +url_pagenum_string+page_order+'.html',
-            html_pages.make_page(
+          utils.make_page (page_dict,
+            prefix +url_pagenum_string+page_order,
               title +" ⊂ Eli Dupree's website",
               "",
               make_blog_page_body("\n".join([stream_entry (post_dict ) for post_dict in (page if page_order == "/chronological" else reversed(page))]) +end_links, sidebars [identifier])
-            )
           )
 
 def add_individual_post_pages (page_dict, post_dict):
@@ -868,12 +866,10 @@ def add_individual_post_pages (page_dict, post_dict):
         specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''/discussion">Author's notes and comments for '''+post_dict["title"]+'''</a>'''+ specific_sidebar_contents
       
       (HTML, head) = post_dict_html(post_dict)
-      utils.checked_insert(page_dict,
-        post_dict["path_prefix"]+url_formatted_title(post_dict)+'.html',
-        html_pages.make_page(
+      utils.make_page (page_dict,
+        post_dict["path_prefix"]+url_formatted_title(post_dict),
           title_formatted_title(post_dict)+("" if (category == "") else " ⊂ "+utils.capitalize_string(category))+" ⊂ Eli Dupree's website",
           head, make_blog_page_body(HTML, specific_sidebar_contents)
-        )
       )
         
       if category == "stories":
@@ -885,12 +881,10 @@ def add_individual_post_pages (page_dict, post_dict):
           "category": "" # Not treated as a story.
         }
         (HTML, head) = post_dict_html(discussion_post)
-        utils.checked_insert(page_dict,
-          post_dict["path_prefix"]+url_formatted_title(post_dict)+'/discussion.html',
-          html_pages.make_page(
+        utils.make_page (page_dict,
+          post_dict["path_prefix"]+url_formatted_title(post_dict)+'/discussion',
             title_formatted_title(discussion_post)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
             head, make_blog_page_body(HTML, disc_specific_sidebar_contents)
-          )
         )
 
 #hack: this is supposed to appear at the end of blog_posts.py

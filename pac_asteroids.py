@@ -6,9 +6,8 @@ import html_pages
 import bars
 	  
 def add_game(page_dict):
-  utils.checked_insert(page_dict,
-    '/games/pac-asteroids.html',
-    html_pages.make_page(
+  utils.make_page (page_dict,
+    '/games/pac-asteroids',
       "Pac-Asteroids ⊂ Eli Dupree's website",
       r'''
     <script type="text/javascript" src="/media/jquery-1.6.2.min.js?rr"></script>
@@ -316,5 +315,4 @@ Your browser does not support the canvas element.
     </canvas></div>
   </div>
 </main>'''), {}
-    )
   )

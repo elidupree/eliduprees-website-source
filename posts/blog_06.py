@@ -143,7 +143,7 @@ posts = [
 
 <p>That said, I've still got a couple of projects running. I'm working on them occasionally, it's just that they're not taking the majority of my time.</p>
 
-<p>One of them is that I'm learning more Javascript, so that I can make cool online games and utilities. <a href="/games/pac-asteroids.html">Check out this extremely-unfinished game for an example of what I'm messing with</a>.
+<p>One of them is that I'm learning more Javascript, so that I can make cool online games and utilities. <a href="/games/pac-asteroids">Check out this extremely-unfinished game for an example of what I'm messing with</a>.
 
 <p>The other is this: Since I'm blocked on the graphics editing software project, I've started just drawing stuff in an existing graphics program (namely GIMP). Here's something I randomly sketched <cut>a few days ago:</p>
 

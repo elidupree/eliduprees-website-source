@@ -198,9 +198,8 @@ def bars_wrap(info, html):
 
 def add_home_page(page_dict):
   info = {"home":True}
-  utils.checked_insert(page_dict,
-    '/index.html',
-    html_pages.make_page(
+  utils.make_page (page_dict,
+    '/index',
       "Eli Dupree's website",
       '',
       '''
@@ -222,5 +221,4 @@ def add_home_page(page_dict):
           </div>
         </div>
       '''
-    )
   )

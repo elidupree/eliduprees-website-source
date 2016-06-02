@@ -172,9 +172,8 @@ def add_category_pages(page_dict):
       ('<img class="exhibit ' + classes + '" alt="" src="' + thumbnail + '" />' if thumbnail else '') +
       '<div class="exhibit_blurb">' + blurb + '</div><div class=" exhibit_start_reading">' + enter_text + '</div></a>')
   
-  utils.checked_insert(page_dict,
-    '/comics.html',
-    html_pages.make_page(
+  utils.make_page (page_dict,
+    '/comics',
       "Comics ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
@@ -201,13 +200,12 @@ def add_category_pages(page_dict):
     <div class="category_page_bottom"></div>
   </div>
 </main>''')
-    )
+
   )
   
 
-  utils.checked_insert(page_dict,
-    '/games.html',
-    html_pages.make_page(
+  utils.make_page (page_dict,
+    '/games',
       "Games ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
@@ -238,13 +236,11 @@ def add_category_pages(page_dict):
     <div class="category_page_bottom"></div>
   </div>
 </main>''')
-    )
   )
   
 
-  utils.checked_insert(page_dict,
-    '/stories.html',
-    html_pages.make_page(
+  utils.make_page (page_dict,
+    '/stories',
       "Stories ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
@@ -278,5 +274,4 @@ def add_category_pages(page_dict):
     <div class="category_page_bottom"></div>
   </div>
 </main>''')
-    )
   )

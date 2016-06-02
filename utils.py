@@ -6,6 +6,7 @@ from __future__ import division
 
 import re
 import css
+import html_pages
 
 css.insert('''
 span.inline_separator {
@@ -37,3 +38,6 @@ def checked_insert(dicti, idx, contents):
     raise Exception("checked_insert fail: "+idx)
   else:
     dicti[idx] = contents
+    
+def make_page (page_dict, idx, title, head, body, extras = {}):
+  checked_insert (page_dict, idx + ".html", html_pages.make_page (title, head + '<link rel="canonical" href="' + canonical_scheme_and_domain + idx + '">', body, extras))

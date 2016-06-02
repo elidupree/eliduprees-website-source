@@ -547,14 +547,12 @@ def add_comic_pages(page_dict):
       if prev_page:
         head = head+'<link rel="prev prefetch prerender" href="'+page_url(prev_page)+'" />\n<link rel="prefetch" href="'+comic_image_url(prev_page)+'" />\n'
         extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(prev_page)+"') !== -1) { document.documentElement.className += ' content_warning_dismissed'; }\n"
-      utils.checked_insert(page_dict,
-        page_url(page)+'.html',
-        html_pages.make_page(
+      utils.make_page (page_dict,
+        page_url(page),
           ('Page '+str(page ["page_number"])+' ⊂ ' if i>0 else '')+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
           head,
           '<script>'+extra_scripts+'''</script>
   <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page), {"html_class":comics_metadata[comic_id]["html_class"]}
-        )
       )
       
       if "chapter_start" in page:
@@ -563,14 +561,12 @@ def add_comic_pages(page_dict):
     
     archive_entries.append('</div>')
     archive_html = '<main><div class="comic_archive">'+''.join(archive_entries)+'</div></main>'
-    utils.checked_insert(page_dict,
-      comics_metadata[comic_id]["url"]+'/archive.html',
-      html_pages.make_page(
+    utils.make_page (page_dict,
+      comics_metadata[comic_id]["url"]+'/archive',
         'Archive ⊂ '+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
         head,
         '''
 <a class="skip" href="#content">Skip to content</a>'''+bars.bars_wrap({"comics":True}, archive_html), {"html_class":comics_metadata[comic_id]["html_class"]}
-      )
     )
     
 
