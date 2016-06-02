@@ -557,7 +557,7 @@ def add_comic_pages(page_dict):
       
       if "chapter_start" in page:
         archive_entries.append('</div><div class="comic_archive_chapter"><h2>'+page["chapter_start"]+'</h2>')
-      archive_entries.append('<a class="comic_archive_entry" href="'+page_url(page)+'"><img class="comic_archive_entry" src="'+comic_image_url(page, 'thumbnail_full')+'"></a>')
+      archive_entries.append('<a class="comic_archive_entry" href="'+page_url(page)+'"><img class="comic_archive_entry" src="'+comic_image_url(page, 'thumbnail_full')+'" alt="' +'Page '+str(page ["page_number"])+ '"></a>')
     
     archive_entries.append('</div>')
     archive_html = '<main><div class="comic_archive">'+''.join(archive_entries)+'</div></main>'
