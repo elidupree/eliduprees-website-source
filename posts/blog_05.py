@@ -10,6 +10,7 @@ posts = [
   "title":"""Neurodiversity""",
   "force_id":"66139e5e925bc3732136c329b3620738",
   "force_date":datetime.date(2011, 7, 3),
+  "tags": ["neurodiversity"],
   "edited_significantly_from_old_website": True,
   "contents":'''
 

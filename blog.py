@@ -786,7 +786,7 @@ def sidebar_with_entries (index_entries, header, random_itemname):
       +'</div>')
   return '<a class="random_post sidebar_standalone_link" id="random_post" data-itemname="' + random_itemname +'"></a>'+index
 
-tag_index = '<div class="index_page_entry">All tags</div>' + "\n".join (['<div class="index_entry"><a class="index_entry_link" href="'+ tags.tag_url (tag [0]) +'" title="'+ tag [1] +'">'+ tag [1] + '</a></div>' for tag in tags.tags_list])
+tag_index = '<div class="index_page_entry">All tags</div>' + "\n".join (['<div class="index_entry"><a href="'+ tags.tag_url (tag [0]) +'" title="'+ tag [1] +'">'+ tag [1] + '</a></div>' for tag in tags.tags_list])
 
 def page_list_sidebar (page_list, header, tags_string = ""):
   index_entries = []
