@@ -21,6 +21,7 @@ tags_list = [
   ("programming", "Posts about computer programming"),
   ("crass physical reality", auto),
   
+  ("story ideas", "Story ideas"),
   ("Lasercake", auto),
   ("the graphics editing project", auto),
   ("this website", "Posts about this website itself"),

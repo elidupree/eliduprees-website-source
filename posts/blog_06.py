@@ -56,6 +56,7 @@ posts = [
   "title":"""Imagining pain""",
   "force_id":"25385117ba48e4172aed0855b01075f9",
   "force_date":datetime.date(2011, 7, 21),
+  "tags": ["neurodiversity"],
   "edited_significantly_from_old_website": True,
   "contents":'''
 
@@ -77,8 +78,8 @@ posts = [
   "title":"""Some thoughts about expressiveness, socializing, and honesty""",
   "force_id":"2556d1049ea3c95822b18d369965bc15",
   "force_date":datetime.date(2011, 8, 2),
+  "tags": ["neurodiversity"],
   "edited_significantly_from_old_website": True,
-  
   "contents":'''
 
 <h2>1.</h2>

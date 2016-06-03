@@ -72,10 +72,10 @@ posts = [
 <li>Introversion: I don't know of any good introvert self-advocacy sites, but I bet they exist. Do you know of any? I'll try to find one I like and edit it into this post.</li></ul>''',
 },
 {
-  "title":"""A story idea""",
+  "title":"""Story idea: The shell""",
   "force_id":"e690c468852d0a6659163f7fd51e6a4f",
   "force_date":datetime.date(2011, 7, 6),
-  "tags":["writing"],
+  "tags":["story ideas","writing", "neurodiversity"],
   "contents":'''
 
 <p>I had an idea that doesn't fit into any of the current stories I'm developing, and basically wants to be a novel in its own right, so I'm probably not going to be able to write it. So I'll write about it here instead. For fun, I'm going to describe it in the order I thought of it.</p>
