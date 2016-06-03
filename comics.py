@@ -439,7 +439,7 @@ def comic_navbar(prev_page, next_page):
       else:
         button = '<span class="comic_nav_button_main'+extra_class+'">'+big_string+'</span>'
       inner_link = (
-      '<a id="'+string+'" class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
+      '<a class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
     
     return '''<div class="comic_nav_button'''+extra_class+'''">
         '''+inner_link+'''
