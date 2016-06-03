@@ -119,7 +119,13 @@ Disallow: /''')
       test_host = 'localhost',
       test_port = 84,
       test_host_header = 'www.elidupree.com',
-      test_canonical_origin = utils.canonical_scheme_and_domain
+      test_canonical_origin = utils.canonical_scheme_and_domain,
+      test_status_codes = {
+        '/': 200,
+        '/blog/happy-tau-day': 200,
+        '/hexy': 200,
+        '/sdhofhnkfjdsdsf': 404,
+      }
       )
     idupree_websitepy.build.build(config)
     subprocess.check_call(['/usr/bin/sudo', '/bin/systemctl',
