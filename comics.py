@@ -398,7 +398,6 @@ def content_warning_bars_wrap(info, warning, html):
   return '''<a class="skip" href="#footer">Skip to footer</a>
 <div class="comic_content_warning_box">
   '''+top_bar.top_bar(info)+'''
-  <section>
     <div class="comic_content_warning_text">
       <div class="comic_content_warning_main_text">
         <p>The comic below '''+warning+'''.</p>
@@ -408,7 +407,6 @@ def content_warning_bars_wrap(info, warning, html):
         <p id="disable_content_warnings_p">You could disable content warnings if you had Javascript and cookies enabled.</p>
       </div>
     </div>
-  </section>
 </div>
 <div class="comic_box_after_content_warning">
   <div class="bars_inner_box">

@@ -220,5 +220,6 @@ def add_home_page(page_dict):
             </div>
           </div>
         </div>
-      '''
+      ''',
+      {"canonical_path_override": "/"}
   )

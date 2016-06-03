@@ -551,14 +551,13 @@ def do_comments(parent, top_level):
 def comments_section(parent):
   (cnum, chtml) = do_comments(parent, True)
   return '''
-<section>
   <div class="comments_section" id="comments">
     '''+('<h2 class="comments_title">Comments</h2>' if (cnum > 0) else '')+'''
     <div class="all_comments" id='''+parent+'''>'''+chtml+'''</div>
   </div>
   <a href="javascript:;" class="direct_comment" id="make_reply_button_'''+parent+'''">Leave a comment</a>
   <div class="make_reply_box" id="make_reply_box_'''+parent+'''"></div>
-</section>'''
+'''
 
 def hidden_cw_box(contents):
   return '''<div class="hidden_cw_box">
@@ -787,6 +786,8 @@ def sidebar_with_entries (index_entries, header, random_itemname):
       +'</div>')
   return '<a class="random_post sidebar_standalone_link" id="random_post" data-itemname="' + random_itemname +'"></a>'+index
 
+tag_index = '<div class="index_page_entry">All tags</div>' + "\n".join (['<div class="index_entry"><a class="index_entry_link" href="'+ tags.tag_url (tag [0]) +'" title="'+ tag [1] +'">'+ tag [1] + '</a></div>' for tag in tags.tags_list])
+
 def page_list_sidebar (page_list, header, tags_string = ""):
   index_entries = []
   for page_number in range (len(page_list) - 1,-1,-1):
@@ -796,6 +797,7 @@ def page_list_sidebar (page_list, header, tags_string = ""):
     for i in range (len(page) - 1, - 1, - 1):
       post_dict = page [i]
       index_entries.append(index_entry_html(post_dict))
+  index_entries.append (tag_index)
   return sidebar_with_entries (index_entries, header, "[Random post] ")
 
 sidebars = {}

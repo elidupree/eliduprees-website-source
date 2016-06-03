@@ -5,33 +5,36 @@ from __future__ import division
 import utils
 
 auto = {}
-tags = {
-#  "lol":"Posts about laughing out loud",
-#  "omg":"Posts about my goodness",
+tags_list = [
   
+  ("announcements", "Major announcements about Eli's life"),
   
-  "announcements": "major announcements about Eli's life",
+  ("neurodiversity", auto),
+  ("gender", auto),
+  ("ageism", auto),
+  ("sex", "Posts about sex and sexuality"),
+  ("philosophical", "Posts about other philosophical stuff"),
   
-  "neurodiversity": auto,
-  "gender": auto,
-  "ageism": auto,
-  "sex": "Posts about sex and sexuality",
-  "philosophical": "Posts about other philosophical stuff",
+  ("visual art", auto),
+  ("writing", auto),
+  ("math", "Posts about mathematics"),
+  ("programming", "Posts about computer programming"),
+  ("crass physical reality", auto),
   
-  "visual art": auto,
-  "writing": auto,
-  "math": "Posts about mathematics",
-  "programming": "Posts about computer programming",
-  "crass physical reality": auto,
-  
-  "Lasercake": auto,
-  "the graphics editing project": auto,
-  "this website": "Posts about this website itself",
-  "other websites": "Recommendations of other websites",
-}
-for k in tags:
-  if tags[k] == auto:
-    tags[k] = "Posts about "+k
+  ("Lasercake", auto),
+  ("the graphics editing project", auto),
+  ("this website", "Posts about this website itself"),
+  ("other websites", "Recommendations of other websites"),
+]
+
+for index in range (len (tags_list)):
+  tag = tags_list [index]
+  if tag [1] == auto:
+    tags_list [index] = (tag [0], "Posts about "+ tag [0])
+
+tags = {}
+for tag in tags_list:
+  tags [tag [0]] = tag [1]
 
 def validate(tag_string):
   if tag_string not in tags:
