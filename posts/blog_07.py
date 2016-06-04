@@ -123,7 +123,7 @@ posts = [
 
 <p>Both of those things are <em>related</em> to the grammar and style that English classes teach, but the purpose must come first, and the style must come second.</p>
 
-<avatar_signature()>''',
+''',
 },
 {
   "title":"""Minor progress""",
@@ -195,7 +195,7 @@ posts = [
 
 <p>On a less ridiculous note, I should probably tell you how this stuff affected my interactions with the abusive adults from my grade schools (in this case, ages 10-14). But this post has gone on long enough, and telling you about <em>them</em> probably deserves its own post.</p>
 
-<avatar_signature()>''',
+''',
 },
 {
   "title":"""New index page!""",

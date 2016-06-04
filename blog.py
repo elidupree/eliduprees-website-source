@@ -532,7 +532,6 @@ def do_comments(parent, top_level):
     child = comments_by_id[child_id]
     num = num + cnum + 1
     html_list.append('''
-<article>
   <div class="user_comment'''+ (' hidden_from_restricted_users' if child ["username"] == "UntamableSpirit" else '') +'''" id="'''+child_id+'''">
     <div class="comment_body_hover_marker">
       <div class="comment_body_outer">
@@ -545,7 +544,7 @@ def do_comments(parent, top_level):
     </div>
     '''+chtml+'''
   </div>
-</article>''')
+''')
   return (num, put_in_hover_boxes(html_list))
 
 def comments_section(parent):

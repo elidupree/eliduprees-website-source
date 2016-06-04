@@ -59,7 +59,7 @@ posts = [
 
 <p>So keep an eye on the website, whatever year you're viewing it in, because... you know that massive project I'm doing? I'm hoping to finish it within a month or two.</p>
 
-<avatar_signature()>''',
+''',
 },
 {
   "title":"""Scrutinized words: she, he""",
