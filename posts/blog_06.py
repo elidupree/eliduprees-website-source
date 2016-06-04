@@ -148,8 +148,8 @@ posts = [
 
 <p>The other is this: Since I'm blocked on the graphics editing software project, I've started just drawing stuff in an existing graphics program (namely GIMP). Here's something I randomly sketched <cut>a few days ago:</p>
 
-<img src="/media/random_sketch_2011_08_13.png?rr" alt="Image [see below]" />
-<p><transcript((<p>Transcript of the above image:</p><p>Text: What shall I draw? thought I.<p>Picture: A cartoon of myself, with an excessively cheerful expression, thinking: Maybe something DARK & DISTURBING?</p><p>Picture: A gaunt face drawn in white on a black background, surrounded by orange streaks. Its thoughts are written messily: "I DON'T KNOW WHY I'VE BECOME LIKE THIS. I AM SO COLD, COLD!! <em>I DON'T NEED ANY HELP!!</em>"</p><p>Text: What sex is our friend the pyromaniac? I find it easier to read zem as male, but is the face actually characteristically male or is it just that I'm more familiar with that exaggerated gauntness on male characters, while our society makes people draw female people in pristine condition always?</p>))>)</p>
+<img src="/media/random_sketch_2011_08_13.png?rr" alt="Image [see below for a transcript]" />
+<transcript((<p>Text: What shall I draw? thought I.<p>Picture: A cartoon of myself, with an excessively cheerful expression, thinking: Maybe something DARK & DISTURBING?</p><p>Picture: A gaunt face drawn in white on a black background, surrounded by orange streaks. Its thoughts are written messily: "I DON'T KNOW WHY I'VE BECOME LIKE THIS. I AM SO COLD, COLD!! <em>I DON'T NEED ANY HELP!!</em>"</p><p>Text: What sex is our friend the pyromaniac? I find it easier to read zem as male, but is the face actually characteristically male or is it just that I'm more familiar with that exaggerated gauntness on male characters, while our society makes people draw female people in pristine condition always?</p>))>
 
 <p>I've also started sketching characters for a fairly absurd short comic (3-4 pages, probably). I might end up drawing that in the next week or two.</p>
 

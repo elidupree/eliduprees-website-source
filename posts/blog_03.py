@@ -19,14 +19,14 @@ posts = [
 
 <p>I can't just say "Computer, tell me all the prime numbers between 2 and 100", because the computer doesn't understand English. But I CAN open up a Haskell prompt and say:</p>
 
-<pre class="code">[x | x <- [2..100], not . any (\y -> x `mod` y == 0) $ [2..(x-1)]]</pre>
+<pre class="code">[x | x &lt;- [2..100], not . any (\y -&gt; x `mod` y == 0) $ [2..(x-1)]]</pre>
 
 <p>That's valid Haskell code. It says "Get me the list of all numbers between 2 and 100 which are not divisible by any of the numbers less than them", and it pretty much says it in that order, too. This is a really short program because <cut>Haskell is designed to be a very "high level" language. I'll get to what that means in the next paragraph. But first, let's look at how I could do the same thing in C++:</p>
 
 <pre class="code">std::vector&lt;int&gt; primes;
-for (int x = 2; x <= 100; ++x) {
+for (int x = 2; x &lt;= 100; ++x) {
   bool x_is_prime = true;
-  for (int y = 2; y < x; ++y) {
+  for (int y = 2; y &lt; x; ++y) {
     if ((x % y) == 0) {
       x_is_prime = false;
       break;

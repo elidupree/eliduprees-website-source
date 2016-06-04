@@ -109,7 +109,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <h2>Before this summer</h2>
 
-<p>Watched a lot of anime. Solved all the levels of <a href="http://fillets.sourceforge.net/">Fish Fillets</a>. Got paid to tutor some people in math. Did a lighting design for a short dance piece. Worked on <a href="http://www.lasercake.net">Lasercake</a> a lot and released a prototype. Did BDSM with a partner for the first time. Ran a tabletop RPG for the first time. Played a tabletop RPG for the first time. Learned (and invented!) some useful knots. Wrote a 10-minute play and had it produced by the Colby theater department. Participated in some student activism. Built an exellent new device to carry my stuff around in. Initiated five other people into Eli Dupree's Cult of DOOM. Designed a sexual board game, and learned a lot about <a href="http://inkscape.org/">Inkscape<a> to do it.</p>
+<p>Watched a lot of anime. Solved all the levels of <a href="http://fillets.sourceforge.net/">Fish Fillets</a>. Got paid to tutor some people in math. Did a lighting design for a short dance piece. Worked on <a href="http://www.lasercake.net">Lasercake</a> a lot and released a prototype. Did BDSM with a partner for the first time. Ran a tabletop RPG for the first time. Played a tabletop RPG for the first time. Learned (and invented!) some useful knots. Wrote a 10-minute play and had it produced by the Colby theater department. Participated in some student activism. Built an exellent new device to carry my stuff around in. Initiated five other people into Eli Dupree's Cult of DOOM. Designed a sexual board game, and learned a lot about <a href="http://inkscape.org/">Inkscape</a> to do it.</p>
 
 <h2>Since the beginning of this summer (May 18)</h2>
 
@@ -144,7 +144,7 @@ I personally deal with this by never going to a venue that requires me to dress 
 
 <h2>Building a new diet</h2>
 
-<p>Well, I needed information. I got a lot of that from <a href="http://nutritiondata.self.com">this website that lists food content</a href> and <a href="http://fnic.nal.usda.gov/fnic/interactiveDRI/">this tool to estimate my nutrient needs</a>, both of which are based on USDA data. (It could be better, but it's a lot more reliable than most nutrition information on the Internet.) Bear in mind that the nutrient needs are an approximate, and vary between people and environments. For instance, it recommends 2700 calories per day for someone of my height, weight, sex, and activity level, but when I'm eating the amount that feels right to me, I usually eat around 2300 calories (estimated).</p>
+<p>Well, I needed information. I got a lot of that from <a href="http://nutritiondata.self.com">this website that lists food content</a> and <a href="http://fnic.nal.usda.gov/fnic/interactiveDRI/">this tool to estimate my nutrient needs</a>, both of which are based on USDA data. (It could be better, but it's a lot more reliable than most nutrition information on the Internet.) Bear in mind that the nutrient needs are an approximate, and vary between people and environments. For instance, it recommends 2700 calories per day for someone of my height, weight, sex, and activity level, but when I'm eating the amount that feels right to me, I usually eat around 2300 calories (estimated).</p>
 
 <p>Then I looked at the foods that are available cheaply at the local grocery store.</p>
 
