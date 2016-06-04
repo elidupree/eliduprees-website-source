@@ -38,7 +38,7 @@ for (int x = 2; x &lt;= 100; ++x) {
 }
 return primes;</pre>
 
-<p>Augh! It's fourteen lines instead of one! It's more than three times as long even if you only count letters in the most generous way! At this point you should be saying <q><acronym title="What the fuck?">WTF?</acronym> Why would anyone use C++?</q>.</p>
+<p>Augh! It's fourteen lines instead of one! It's more than three times as long even if you only count letters in the most generous way! At this point you should be saying <q><abbr title="What the fuck?">WTF?</abbr> Why would anyone use C++?</q>.</p>
 
 <p>Well, C++ is a "low level" language. There's a low-to-high continuum, with different languages falling in different places; Haskell is at the extreme high end, and C++ is mid-to-low. High level languages are designed to be a lot like human languages; they're supposed to be natural ways to express ideas. Low level languages, on the other hand, are designed to be a lot like the underlying machine code; they're supposed to give you better control over how the computer processes the information. That's very important if you're writing a program that's going to take a lot of processing power, because if you write high-level code that doesn't consider how it's going to be computed, then you may end up doing things in a very inefficient way. So it makes sense that the code I've written is more verbose in C++; when I compile either of those pieces of code into the underlying "machine language", the Haskell code becomes just as long as the C++ code &ndash; I could write it more concisely, at the cost of having less control over exactly what it became.</p>
 

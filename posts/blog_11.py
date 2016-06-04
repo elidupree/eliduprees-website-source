@@ -33,9 +33,9 @@ posts = [
 
 <p><strong>The Two Exploiters scenario</strong>: There are five players. The first two are in a Prisoner's Dilemma situation; if they both cooperate, they both score 3, if they both betray, they both score 2, and if only one betrays, that player score 4 and the other scores 1. The rest of the players have no choices and they score equal to their player number. But the first two players' option is actually to cooperate in exploiting the rest, so if the first two cooperate, the rest score their player number minus three instead. In the Nash equilibrium, they betray each other, and the scores are as follows:</p>
 <ol><li>2</li><li>2</li><li>3</li><li>4</li><li>5</li></ol>
-In the contract equilibrium, they cooperate, and the scores are:</p>
+<p>In the contract equilibrium, they cooperate, and the scores are:</p>
 <ol><li>3</li><li>3</li><li>0</li><li>1</li><li>2</li></ol>
-By Impartiality, I can swap the conspirators to the end and get the same social welfare:</p>
+<p>By Impartiality, I can swap the conspirators to the end and get the same social welfare:</p>
 <ol><li>0</li><li>1</li><li>2</li><li>3</li><li>3</li></ol>
 <p>Each entry is lower than the corresponding one in the Nash equilbrium, so by weak Pareto optimality, the social welfare of the contract equilibrium is lower.</p>
 
