@@ -74,12 +74,14 @@ def do_before_body(js_snippet):
   global beforebody_js
   beforebody_js = beforebody_js + '''
 (function(){
+"use strict"
 ''' + js_snippet + '''
 })();'''
 def do_after_body(js_snippet):
   global afterbody_js
   afterbody_js = afterbody_js + '''
 (function(){
+"use strict"
 ''' + js_snippet + '''
 })();'''
 
