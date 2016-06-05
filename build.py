@@ -105,7 +105,7 @@ Disallow: /''')
     f = open(buildpath, "w", encoding='utf-8')
     f.write(contents)
     if "--no-jshint" not in sys.argv and path.endswith (".js"):
-      print (subprocess.check_output (['jshint', buildpath]))
+      print (subprocess.run (['jshint', buildpath], stdout=PIPE).stdout)
 
   # TODO real cmdline processing
   if '--no-idupree-websitepy' not in sys.argv:
