@@ -9,6 +9,7 @@ import sys
 import shutil
 import subprocess
 import locale
+import re
 
 # always UTF-8, even on windows
 # the exec line seemingly didn't work, so:
@@ -102,11 +103,11 @@ Disallow: /''')
     assert(path[0] == '/')
     buildpath = build_dir + path
     ensure_dir(os.path.dirname(buildpath))
-    f = open(buildpath, "w", encoding='utf-8')
-    f.write(contents)
+    with open(buildpath, "w", encoding='utf-8') as f:
+      f.write(contents)
     if "--no-jshint" not in sys.argv and path.endswith (".js"):
-      print (subprocess.run (['jshint', buildpath],
-        stdout=subprocess.PIPE, stderr=subprocess.STDOUT).stdout)
+      print('jshinting ' +buildpath)
+      subprocess.run(['jshint', buildpath])
 
   # TODO real cmdline processing
   if '--no-idupree-websitepy' not in sys.argv:
@@ -119,6 +120,10 @@ Disallow: /''')
       error_on_broken_internal_link = False,
       canonical_scheme_and_domain = utils.canonical_scheme_and_domain,
       list_of_compilation_source_files = ['build.py'],
+      published_as_is = (lambda path:
+        bool(re.search(r'\.(txt|asc|pdf|rss|atom|zip|tar\.(gz|bz2|xz)|appcache|cpp|hs)$|'+
+          r'^/favicon.ico$|/atom\.xml$',
+          path))),
       test_host = 'localhost',
       test_port = 84,
       test_host_header = 'www.elidupree.com',
