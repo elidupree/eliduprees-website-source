@@ -8,6 +8,7 @@ import datetime
 posts = [
 {
   "title":"Policies",
+  "disallow_comments": True,
   "contents":'''<ul class="big_list"><li>If you <a href="fixme">sign up for e-mail notifications</a>, I won't share your e-mail address with anyone else.</li>
     
 <li>If you comment on a post, <strong>no one else will see it until I approve it</strong>. I make no promises, but I will probably approve anything that's not spam or harassment (or illegal). I may even approve bigoted comments in order to respond to them. It's OK to be misinformed about social issues here, and I hope that this site will educate people. I check incoming comments at least once a day.</li>
@@ -16,6 +17,7 @@ posts = [
 },
 {
   "title":"About Eli",
+  "disallow_comments": True,
   "contents":'''
     
 <h2>What's important to me</h2>

@@ -574,7 +574,7 @@ def secondary_hidden_cw_box(contents):
   </div>'''
 
 def post_dict_html(post_dict, stream_only = False):
-  (body, head) = post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories")
+  (body, head) = post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories", allow_comments = ("disallow_comments" not in post_dict))
   if "head" in post_dict:
     head = head + post_dict ["head"]
   return (body, head)  
@@ -595,7 +595,7 @@ def stream_entry (post):
 </div>'''
 
 
-def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True):
+def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True, allow_comments = True):
   head = []
   post_content = blog_server_shared.postprocess_post_string(contents, metadata["id"], title, False, scrutinize)[0]
   
@@ -666,14 +666,16 @@ html.transcript_hidden_'''+ transcript_identifier_string +''' #hide_transcript_b
   return ('''
 <div '''+id_str+''' class="blog_post">
   '''+(''.join(post_content_sections))+'''
-</div>'''+metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata), "".join (head))
+</div>'''+metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata, allow_comments = allow_comments), "".join (head))
 
-def metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata):
+def metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata, allow_comments = True):
   specifier = ""
   if title:
     specifier = '<span class="invisible"> for '+ title +'</span>'
   comments_stuff = ""
-  if stream_only == "story":
+  if allow_comments == False:
+    pass
+  elif stream_only == "story":
     comments_stuff = '''<a href="'''+permalink+'''/discussion" class="direct_comment">Author's notes and comments</a>'''
   elif stream_only == False:
     comments_stuff = comments_section(metadata["id"])
