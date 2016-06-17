@@ -101,6 +101,8 @@ Disallow: /''')
       print(vld.errors)
       print(vld.warnings)
     assert(path[0] == '/')
+    if path .endswith (".301") and contents + ".html" not in page_dict:
+      print (path + " redirects to nonexistent " + contents)
     buildpath = build_dir + path
     ensure_dir(os.path.dirname(buildpath))
     with open(buildpath, "w", encoding='utf-8') as f:
