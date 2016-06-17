@@ -8,7 +8,7 @@ global beforebody_js
 global afterbody_js
 afterbody_js = ''
 beforebody_js = r'''
-window.elidupree = {}
+window.elidupree = {};
 document.documentElement.className += ' javascript_enabled';
 function remove_class(element, class_name) {
   element.className = element.className.replace(new RegExp('(\\s|^)'+class_name+'(\\s|$)'), ' ');
@@ -22,7 +22,7 @@ function delete_cookie(name) {
   document.cookie = name+'=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/';
 }
 
-var cookies_enabled = false;
+window.cookies_enabled = false;
 if (typeof(document.cookie) === "string") {
   // They're... PROBABLY available if it's a string already?
   // However, just in case, I'll test to see if they function properly
@@ -32,7 +32,7 @@ if (typeof(document.cookie) === "string") {
   if (document.cookie.indexOf('testcookie1') !== -1) {
     delete_cookie('testcookie1');
     delete_cookie('testcookie2');
-    cookies_enabled = true;
+    window.cookies_enabled = true;
     document.documentElement.className += ' cookies_enabled';
   }
 }
@@ -49,7 +49,7 @@ function set_cookie(name, value, days) {
 }
 
 function read_cookie(name) {
-  if (!cookies_enabled) { return null; }
+  if (!window.cookies_enabled) { return null; }
   var nameEQ = name + "=";
   var ca = document.cookie.split(';');
   var i;
@@ -74,14 +74,14 @@ def do_before_body(js_snippet):
   global beforebody_js
   beforebody_js = beforebody_js + '''
 (function(){
-"use strict"
+"use strict";
 ''' + js_snippet + '''
 })();'''
 def do_after_body(js_snippet):
   global afterbody_js
   afterbody_js = afterbody_js + '''
 (function(){
-"use strict"
+"use strict";
 ''' + js_snippet + '''
 })();'''
 

@@ -291,23 +291,23 @@ html.restricted_user .hidden_from_restricted_users {display: none;}
 ''')
 
 javascript.do_before_body (r'''
-window.elidupree.transcripts = []
+window.elidupree.transcripts = [];
 window.elidupree.handle_transcript = function (ID) {
   var show = function () {
     remove_class (document.documentElement, 'transcript_hidden_' + ID);
     set_cookie ('transcript_shown_' + ID, 'true', 30);
-  }
+  };
   var hide = function () {
     document.documentElement.className += ' transcript_hidden_'+ ID;
     delete_cookie ('transcript_shown_'+ ID);  
-  }
+  };
   if (!read_cookie ('transcript_shown_' + ID)) {
     hide ();
-  }
+  };
   window.elidupree.transcripts.push ([ID, show, hide]);
-}
+};
 if (read_cookie ('restricted')) {
-  document.documentElement.className += ' restricted_user'
+  document.documentElement.className += ' restricted_user';
 }  
 ''')
 javascript.do_after_body(r'''
@@ -344,7 +344,7 @@ function expand_reply_box(elem, id) {
   var submit_button = document.createElement("button");
   submit_button.innerHTML = 'Submit your reply';
   var previewed = false;
-  action = function(request_type) {
+  var action = function(request_type) {
     return function() {
       preview_button.setAttribute('disabled', 'disabled');
       submit_button.setAttribute('disabled', 'disabled');
@@ -369,7 +369,7 @@ function expand_reply_box(elem, id) {
         },
         'onSuccess': function(req) {
           preview_space.innerHTML = req.responseText;
-          if (request_type == 'preview') {
+          if (request_type === 'preview') {
             if (!previewed) {
               previewed = true;
               elem.appendChild(submit_button);
@@ -378,12 +378,12 @@ function expand_reply_box(elem, id) {
             submit_button.removeAttribute('disabled');
           }
           else {
-            alert ('You\'ve submitted your comment! It\'s not visible to other users yet, but it probably will be soon, after I notice it and confirm that it\'s not obvious spam or harassment or something.')
+            alert ('You\'ve submitted your comment! It\'s not visible to other users yet, but it probably will be soon, after I notice it and confirm that it\'s not obvious spam or harassment or something.');
           }
         }
       });
-    }
-  }
+    };
+  };
   add_event_listener(preview_button, 'click', action('preview'));
   add_event_listener(submit_button, 'click', action('submit'));
   elem.appendChild(preview_button);
@@ -401,16 +401,16 @@ function setup_reply_box(id) {
   });
 }
 for (i = 0; i < comments.length; ++i) {
-  setup_reply_box(comments[i].id)
+  setup_reply_box(comments[i].id);
 }
 for (i = 0; i < all_comments_divs.length; ++i) {
-  setup_reply_box(all_comments_divs[i].id)
+  setup_reply_box(all_comments_divs[i].id);
 }
 if (random_post_link) {
   random_entry = index_entries[Math.floor(Math.random()*index_entries.length)];
-  random_post_link.setAttribute("href", random_entry.getAttribute("href"))
-  random_post_link.innerHTML = random_post_link.dataset.itemname+random_entry.innerHTML
-  random_post_link.className = random_post_link.className+" enabled"
+  random_post_link.setAttribute("href", random_entry.getAttribute("href"));
+  random_post_link.innerHTML = random_post_link.dataset.itemname+random_entry.innerHTML;
+  random_post_link.className = random_post_link.className+" enabled";
 }
 
 ''')

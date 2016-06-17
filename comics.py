@@ -224,7 +224,7 @@ if (view_the_comic_p) {
   add_event_listener(dismiss_content_warning_a,'click',function() { document.documentElement.className += ' content_warning_dismissed'; });
   
   var disable_content_warnings_p = document.getElementById('disable_content_warnings_p');
-  if (cookies_enabled) {
+  if (window.cookies_enabled) {
     var disable_content_warnings_a = document.createElement('a');
     disable_content_warnings_a.className = 'comic_disable_content_warnings meta_controls_coloring';
     disable_content_warnings_a.setAttribute('href','javascript:;');
@@ -233,16 +233,16 @@ if (view_the_comic_p) {
     add_event_listener(disable_content_warnings_a,'click',window.elidupree.disable_content_warnings);
   }
   else {
-    disable_content_warnings_p.firstChild.nodeValue = 'You could disable content warnings if you had cookies enabled.'
+    disable_content_warnings_p.firstChild.nodeValue = 'You could disable content warnings if you had cookies enabled.';
   }
 }
 
 var enable_content_warnings_buttons = document.getElementsByClassName("enable_content_warnings_button");
-for (i = 0; i < enable_content_warnings_buttons.length; ++i) {
+for (var i = 0; i < enable_content_warnings_buttons.length; ++i) {
   add_event_listener(enable_content_warnings_buttons[i],'click',window.elidupree.enable_content_warnings);
 }
 var disable_content_warnings_buttons = document.getElementsByClassName("disable_content_warnings_button");
-for (i = 0; i < disable_content_warnings_buttons.length; ++i) {
+for (var i = 0; i < disable_content_warnings_buttons.length; ++i) {
   add_event_listener(disable_content_warnings_buttons[i],'click',window.elidupree.disable_content_warnings);
 }
 ''')
