@@ -8,7 +8,7 @@ import utils
 import re
 
 def add_redirect(page_dict, from_path, to_path):
-  #utils.checked_insert(page_dict, from_path, 'REDIRECT: '+to_path)
+  utils.checked_insert(page_dict, '/'+ from_path + '.301', '/'+to_path)
   return
 
 old_website_conversions = {
