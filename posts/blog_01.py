@@ -76,12 +76,16 @@ margin: 1.2em 2em;
 table.scrutinized_pronouns th, table.scrutinized_pronouns td {
 border: 1px solid black; padding: 0.25em;
 }
+table.scrutinized_pronouns th{
+
+}
+
 </style>''',
   "contents":'''
 
 <p>"She" and "he" are <strong>scrutinized words</strong> on this website. You're allowed to use them, but if you do, they will be marked like this: She, he, her, him, hers, his, herself, himself.</p>
 
-<p>I encourage you to use the gender-neutral pronoun "ze" instead, as I do. You use it the same way as "she", "he", or "they":</p>
+<p>I encourage you to use the singular "they" or the gender-neutral pronoun "ze", as I do. You use it the same way as "she", "he", or "they":</p>
 
 <table class="scrutinized_pronouns">
   <tr><th> Subject </th><th> Object </th><th>Possessive<br/>adjective</th><th>Possessive<br/>pronoun</th><th>Reflexive</th></tr>

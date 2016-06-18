@@ -349,8 +349,9 @@ function expand_reply_box(elem, id) {
       preview_button.setAttribute('disabled', 'disabled');
       submit_button.setAttribute('disabled', 'disabled');
       set_cookie('username', username_input.value, 30);
+      preview_space.innerHTML = "Processing..."
       $.post({
-        'url':'TODO',
+        'url':'http://www.elidupree.com/do_reply.py',
         'timeout':10000,
         'data': {
           'request_type': request_type,
@@ -360,16 +361,16 @@ function expand_reply_box(elem, id) {
         },
         'error': function (request, status, error) {
           if (status === 'timeout') {
-            alert('Oops! The server didn\'t reply in time. Maybe trying again will help.');
+            preview_space.innerHTML ='<p>Oops! The server didn\'t reply in time. Maybe trying again will help.</p>';
           } else {
-            alert('Oops! The request returned "'+ status +'", "' + error + '". Unfortunately, I have not prepared a good explanation for this error message.');
+            preview_space.innerHTML =' <p>Oops! The request returned "'+ status +'", "' + error + '". I regret that I have not prepared a good explanation for this error message.</p>';
           }
           preview_button.removeAttribute('disabled');
           submit_button.removeAttribute('disabled');
         },
         'success': function(text) {
-          preview_space.innerHTML = text;
           if (request_type === 'preview') {
+            preview_space.innerHTML = ' <p>This is a preview. Your comment is not yet visible to other users.</p>' + text;
             if (!previewed) {
               previewed = true;
               elem.appendChild(submit_button);
@@ -378,7 +379,7 @@ function expand_reply_box(elem, id) {
             submit_button.removeAttribute('disabled');
           }
           else {
-            alert ('You\'ve submitted your comment! It\'s not visible to other users yet, but it probably will be soon, after I notice it and confirm that it\'s not obvious spam or harassment or something.');
+            preview_space.innerHTML = ' <p>You\'ve submitted your comment! It\'s not visible to other users yet, but it probably will be soon, after I notice it and confirm that it\'s not obvious spam or harassment or something.</p>' + text;
           }
         }
       });
