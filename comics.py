@@ -207,6 +207,7 @@ window.elidupree.handle_content_warnings = function(id, default_on) {
 
 ''')
 javascript.do_after_body('''
+var i;
 var show_transcript_button   = document.getElementById('show_transcript_button'  );
 var hide_transcript_button   = document.getElementById('hide_transcript_button'  );
 var hide_transcript_button_2 = document.getElementById('hide_transcript_button_2');
@@ -238,11 +239,11 @@ if (view_the_comic_p) {
 }
 
 var enable_content_warnings_buttons = document.getElementsByClassName("enable_content_warnings_button");
-for (var i = 0; i < enable_content_warnings_buttons.length; ++i) {
+for (i = 0; i < enable_content_warnings_buttons.length; ++i) {
   add_event_listener(enable_content_warnings_buttons[i],'click',window.elidupree.enable_content_warnings);
 }
 var disable_content_warnings_buttons = document.getElementsByClassName("disable_content_warnings_button");
-for (var i = 0; i < disable_content_warnings_buttons.length; ++i) {
+for (i = 0; i < disable_content_warnings_buttons.length; ++i) {
   add_event_listener(disable_content_warnings_buttons[i],'click',window.elidupree.disable_content_warnings);
 }
 ''')

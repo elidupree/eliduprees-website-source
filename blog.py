@@ -303,7 +303,7 @@ window.elidupree.handle_transcript = function (ID) {
   };
   if (!read_cookie ('transcript_shown_' + ID)) {
     hide ();
-  };
+  }
   window.elidupree.transcripts.push ([ID, show, hide]);
 };
 if (read_cookie ('restricted')) {
