@@ -10,7 +10,6 @@ def add_game(page_dict):
     '/games/pac-asteroids',
       "Pac-Asteroids ⊂ Eli Dupree's website",
       r'''
-    <script type="text/javascript" src="/media/jquery-1.6.2.min.js?rr"></script>
     <script type="text/javascript">
 Math.TAU = Math.PI*2;
 $(function(){
@@ -314,5 +313,5 @@ $(function(){
 Your browser does not support the canvas element.
     </canvas></div>
   </div>
-</main>'''), {}
+</main>'''), {"jQuery_before": True}
   )
