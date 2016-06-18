@@ -349,26 +349,26 @@ function expand_reply_box(elem, id) {
       preview_button.setAttribute('disabled', 'disabled');
       submit_button.setAttribute('disabled', 'disabled');
       set_cookie('username', username_input.value, 30);
-      AjaxRequest.post({
+      $.post({
         'url':'TODO',
-        'parameters': {
+        'timeout':10000,
+        'data': {
           'request_type': request_type,
           'parent': id,
           'username': username_input.value,
           'contents': contents_input.value,
         },
-        'timeout':10000, 'onTimeout':function () {
-          alert('Oops! The server didn\'t reply in time. Maybe trying again will help.');
+        'error': function (request, status, error) {
+          if (status === 'timeout') {
+            alert('Oops! The server didn\'t reply in time. Maybe trying again will help.');
+          } else {
+            alert('Oops! The request returned "'+ status +'", "' + error + '". Unfortunately, I have not prepared a good explanation for this error message.');
+          }
           preview_button.removeAttribute('disabled');
           submit_button.removeAttribute('disabled');
         },
-        'onError': function (req) {
-          alert('Oops! The request returned status "'+req.statusText+'". I don\'t know what\'s going on.');
-          preview_button.removeAttribute('disabled');
-          submit_button.removeAttribute('disabled');
-        },
-        'onSuccess': function(req) {
-          preview_space.innerHTML = req.responseText;
+        'success': function(text) {
+          preview_space.innerHTML = text;
           if (request_type === 'preview') {
             if (!previewed) {
               previewed = true;
