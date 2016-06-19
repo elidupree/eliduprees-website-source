@@ -29,7 +29,7 @@ import comics
 #right_bar_content_width = 13.5
 text_padding_width = 1.3 #0.75
 text_padding_width_narrow = 0.9
-comment_indent_width = 0.75
+comment_indent_width = 1.8
 nice_narrow_margin = 2
 narrowest_margin = 0.5
 post_vertical_separation = 1
@@ -186,34 +186,18 @@ h2.comments_title {
   font-weight: bold;
   padding-top: 0.2em;
   text-align: center; }
-div.comments_section:hover>h2.comments_title:not(:hover) {
-  border-left: '''+comment_hover_border_width+''' solid red;
-  margin-left: -'''+comment_hover_border_width+''';
-  border-top-left-radius: 5% 100%; }
 div.comment_body_outer {
   padding-top:0.5em;
-  padding-left: '''+str(comment_indent_width)+'''em; }
-div.user_comment>div.comment_hover_box {
-  margin-left: '''+str(comment_indent_width)+'''em; }
+  /*padding-left: '''+str(comment_indent_width)+'''em;*/ }
+
+div.user_comment.indent_children>div.comment_hover_box {  border-left:0.2em solid #333333;
+  padding-left:0.4em;
+  margin-left: '''+str(comment_indent_width-0.6)+'''em; }
 div.comment_body {
   font-size: 125%;
   text-align: left;
   background-color: white;
-  padding:0.5em '''+str(text_padding_width)+'''em; }
-div.comment_hover_box:hover>div.whole_comment_hover_marker:not(:hover) {
-  border-left: '''+comment_hover_border_width+''' solid red;
-  margin-left: -'''+comment_hover_border_width+'''; }
-div.user_comment:hover>div.comment_body_hover_marker {
-  border-left: '''+comment_hover_border_width+''' solid red;
-  margin-left: -'''+comment_hover_border_width+'''; }
-div.all_comments:hover div.comment_body {
-  background-color: #dddddd; }
-div.user_comment:hover>div.comment_body_hover_marker>*>div.comment_body {
-  background-color: white;
-  border: '''+comment_hover_border_width+''' solid red;
-  margin: -'''+comment_hover_border_width+''';
-  border-left: '''+str(comment_indent_width)+'''em solid red;
-  margin-left: -'''+str(comment_indent_width)+'''em; }
+  padding:0.5em 0.9em; }
 div.comment_header {
   padding-bottom: 0.5em; }
 span.reply_to_comment {
@@ -232,6 +216,25 @@ html.javascript_enabled a.direct_comment {
   display: block; }
 textarea.make_reply_input {
   width: 90%; }
+  
+/*div.comments_section:hover>h2.comments_title:not(:hover) {
+  border-left: '''+comment_hover_border_width+''' solid red;
+  margin-left: -'''+comment_hover_border_width+''';
+  border-top-left-radius: 5% 100%; }
+div.comment_hover_box:hover>div.whole_comment_hover_marker:not(:hover) {
+  border-left: '''+comment_hover_border_width+''' solid red;
+  margin-left: -'''+comment_hover_border_width+'''; }
+div.user_comment:hover>div.comment_body_hover_marker {
+  border-left: '''+comment_hover_border_width+''' solid red;
+  margin-left: -'''+comment_hover_border_width+'''; }
+div.all_comments:hover div.comment_body {
+  background-color: #dddddd; }
+div.user_comment:hover>div.comment_body_hover_marker>*>div.comment_body {
+  background-color: white;
+  border: '''+comment_hover_border_width+''' solid red;
+  margin: -'''+comment_hover_border_width+''';
+  border-left: '''+str(comment_indent_width)+'''em solid red;
+  margin-left: -'''+str(comment_indent_width)+'''em; }*/
 
 a:link.blog_end_link { color:yellow; }
 a:visited.blog_end_link { color:orange; }
@@ -533,7 +536,7 @@ def do_comments(parent, top_level):
     child = comments_by_id[child_id]
     num = num + cnum + 1
     html_list.append('''
-  <div class="user_comment'''+ (' hidden_from_restricted_users' if child ["username"] == "UntamableSpirit" else '') +'''" id="'''+child_id+'''">
+  <div class="user_comment'''+ (' hidden_from_restricted_users' if child ["username"] == "UntamableSpirit" else '') + (' indent_children' if len(child_ids) >1 or (child_id in comment_ids_by_parent and len(comment_ids_by_parent [child_id]) >1) else '') +'''" id="'''+child_id+'''">
     <div class="comment_body_hover_marker">
       <div class="comment_body_outer">
         <div class="comment_body">
