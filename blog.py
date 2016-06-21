@@ -274,9 +274,9 @@ a.random_post {
   display: none; }
 a.random_post.enabled {
   display: block; }
-a.Patreon_link {
-padding: 0.4em;
-margin:0.5em 0;
+a.Patreon_link,.MailChimp_form {
+padding: 0.6em 0.8em;
+margin:0.5em -0.65em;
 background-color: white;
 border-radius:0.6em;
 border:0.15em solid #555;
@@ -285,7 +285,7 @@ a.Patreon_link img {
 display: inline-block;
 margin-right:-2em;
 vertical-align: middle;
-  top: 0.4em; left: 0.4em; bottom:0.4em; width:2em; }
+width:2em; }
 a.Patreon_link span {
 display: inline-block;
 vertical-align: middle;
@@ -294,6 +294,10 @@ a.Patreon_link:hover {
 background-color:#ff7;
 border-color:#442;}
 a.Patreon_link:hover span {text-decoration: underline;}
+
+.MailChimp_form input {width: 100%; margin: 0.2em 0;}
+.MailChimp_form .button {border: 0 none; border-radius:0.25em; height:  2em; cursor: pointer; transition: all 0.23s ease-in-out 0s; background-color: #777; color: white;}
+.MailChimp_form .button:hover {background-color: #444;}
 
 div.transcript_block {border: 1px solid black;}
 div.transcript_header {padding:0.5em;}
@@ -814,13 +818,13 @@ def sidebar_with_entries (index_entries, header, random_itemname):
   <a class="random_post sidebar_standalone_link" id="random_post" data-itemname="''' + random_itemname +'''"></a>
   
   <!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
+<div id="mc_embed_signup" class="MailChimp_form">
 <form action="//elidupree.us13.list-manage.com/subscribe/post?u=4d65283e4a6612f93da4514e2&amp;id=122f9e2af8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<label for="mce-EMAIL"> Follow elidupree.com by email: </label>
+	<input type="email" placeholder="Email address…" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -834,7 +838,7 @@ def sidebar_with_entries (index_entries, header, random_itemname):
 
 <!--End mc_embed_signup-->
 
-  <a class="sidebar_standalone_link Patreon_link" href="https://www.patreon.com/EliDupree"><img src="/media/patreon-logo.png?rr" alt="" /><span>$$$ Encourage me to make more cool stuff</span></a>
+  <a class="sidebar_standalone_link Patreon_link" href="https://www.patreon.com/EliDupree"><img src="/media/patreon-logo.png?rr" alt="" /><span>$$$ Encourage me to make more cool stuff! </span></a>
   '''+index
 
 tag_index = '<div class="index_page_entry">All tags</div>' + "\n".join (['<div class="index_entry"><a href="'+ tags.tag_url (tag [0]) +'" title="'+ tag [1] +'">'+ tag [1] + '</a></div>' for tag in tags.tags_list])
