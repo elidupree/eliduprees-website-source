@@ -274,6 +274,26 @@ a.random_post {
   display: none; }
 a.random_post.enabled {
   display: block; }
+a.Patreon_link {
+padding: 0.4em;
+margin:0.5em 0;
+background-color: white;
+border-radius:0.6em;
+border:0.15em solid #555;
+position: relative;}
+a.Patreon_link img {
+display: inline-block;
+margin-right:-2em;
+vertical-align: middle;
+  top: 0.4em; left: 0.4em; bottom:0.4em; width:2em; }
+a.Patreon_link span {
+display: inline-block;
+vertical-align: middle;
+padding-left:2.4em;}
+a.Patreon_link:hover {
+background-color:#ff7;
+border-color:#442;}
+a.Patreon_link:hover span {text-decoration: underline;}
 
 div.transcript_block {border: 1px solid black;}
 div.transcript_header {padding:0.5em;}
@@ -332,12 +352,13 @@ for (i = 0; i < window.elidupree.transcripts.length; ++i) {
 
 function expand_reply_box(elem, id) {
   elem.innerHTML = ''+
-    '<div id="preview_space_'+id+'" class="preview_space"></div>'+
     '<p class="reply_input_info">'+
       'You may use &lt;em&gt;<em>emphasized text</em>&lt;/em&gt;, &lt;strong&gt;<strong>strongly emphasized text</strong>&lt;/strong&gt;, <br/>&lt;q&gt;<q>Quoted text</q>&lt;/q&gt;, and &lt;blockquote&gt;longer, indented quotes&lt;/blockquote&gt;.'+
     '</p>'+
     'Your name: <input id="reply_username_'+id+'" type="text">'+
-    '<textarea id="reply_contents_'+id+'" class="make_reply_input" cols="60" rows="7"></textarea><br/>';
+    '<textarea id="reply_contents_'+id+'" class="make_reply_input" cols="60" rows="7"></textarea><br/>'+
+    '<div id="preview_space_'+id+'" class="preview_space"></div>'+
+'';
   var preview_space = document.getElementById('preview_space_'+id);
   var username_input = document.getElementById('reply_username_'+id);
   var contents_input = document.getElementById('reply_contents_'+id);
@@ -789,7 +810,10 @@ def sidebar_with_entries (index_entries, header, random_itemname):
       + header
       +("\n".join(index_entries))
       +'</div>')
-  return '<a class="random_post sidebar_standalone_link" id="random_post" data-itemname="' + random_itemname +'"></a>'+index
+  return '''
+  <a class="random_post sidebar_standalone_link" id="random_post" data-itemname="''' + random_itemname +'''"></a>
+  <a class="sidebar_standalone_link Patreon_link" href="https://www.patreon.com/EliDupree"><img src="/media/patreon-logo.png?rr" alt="" /><span>$$$ Encourage me to make more cool stuff</span></a>
+  '''+index
 
 tag_index = '<div class="index_page_entry">All tags</div>' + "\n".join (['<div class="index_entry"><a href="'+ tags.tag_url (tag [0]) +'" title="'+ tag [1] +'">'+ tag [1] + '</a></div>' for tag in tags.tags_list])
 

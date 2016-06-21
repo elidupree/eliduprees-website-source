@@ -127,6 +127,7 @@ span.comic_nav_content_warning {
   font-size: 110%; }
 .content_warnings_disabled span.comic_nav_content_warning {
   display: none; }
+img.small_inline_image {height:1em; width: auto;}
 
 div.comic_metabar {
   font-family: Arial, Helvetica, sans-serif;
@@ -446,16 +447,19 @@ def comic_navbar(prev_page, next_page):
   return '<div class="comic_nav_bar">'+link("prev","Previous",prev_page)+link("next","Next",next_page)+'</div>'
 
 def comic_metabar(page):
-  return '''
+  return ('''
 <div class="comic_metabar">
-  <a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''">First</a>'''+utils.inline_separator+'''<a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''/archive">Archive</a>'''+utils.inline_separator+'''
+  <a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''">First</a>'''+utils.inline_separator+
+  '''<a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''/archive">Archive</a>'''+utils.inline_separator+
+  '''
   <span class="metabar_content_warnings_enabled'''+(" content_warning" if "content_warning" in page else "")+'''">
     ⚠ '''+(page["content_warning"] if "content_warning" in page else "none")+''' <a class="disable_content_warnings_button meta_controls_coloring" href="javascript:;">(disable content warnings)</a>
   </span>
   <span class="metabar_content_warnings_disabled">
     ⚠ disabled <a class="enable_content_warnings_button meta_controls_coloring" href="javascript:;">(enable content warnings)</a>
-  </span>
-</div>'''
+  </span>'''+ utils.inline_separator +
+  '''<a class="meta_controls_coloring" href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt="" /> encourage me</a>
+</div>''')
   
   
 
