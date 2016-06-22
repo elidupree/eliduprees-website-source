@@ -378,15 +378,16 @@ old_website_conversions = {
   "main/posts/369-user-comment": "blog/alignments",
 }
 conveniences = {
-  "hexybondage": "hexy",
-  "hexy-bondage": "hexy",
-  "hexy_bondage": "hexy",
-  "eohs": "EoHS",
-  "Eohs": "EoHS",
-  "EohS": "EoHS",
-  "EOHS": "EoHS",
-  "vc": "voldemorts-children",
-  "VC": "voldemorts-children",
+  "hexybondage": "/hexy",
+  "hexy-bondage": "/hexy",
+  "hexy_bondage": "/hexy",
+  "eohs": "https://www.patreon.com/EoHS",
+  "Eohs": "https://www.patreon.com/EoHS",
+  "EoHS": "https://www.patreon.com/EoHS",
+  "EohS": "https://www.patreon.com/EoHS",
+  "EOHS": "https://www.patreon.com/EoHS",
+  "vc": "/voldemorts-children",
+  "VC": "/voldemorts-children",
 }
 
 def add_redirects(page_dict):
@@ -396,7 +397,7 @@ def add_redirects(page_dict):
     if e != from_path:
       add_redirect(page_dict, '/'+e, '/'+to_path)
   for from_path, to_path in conveniences.items():
-    add_redirect(page_dict, '/'+from_path, '/'+to_path)
-  add_redirect (page_dict, "/EoHS", "https://www.patreon.com/EoHS")
+    add_redirect(page_dict, '/'+from_path, to_path)
+
 
 

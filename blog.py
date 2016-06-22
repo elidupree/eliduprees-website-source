@@ -377,7 +377,7 @@ function expand_reply_box(elem, id) {
       preview_button.setAttribute('disabled', 'disabled');
       submit_button.setAttribute('disabled', 'disabled');
       set_cookie('username', username_input.value, 30);
-      preview_space.innerHTML = "Processing..."
+      preview_space.innerHTML = "Processing...";
       $.post({
         'url':'http://www.elidupree.com/do_reply.py',
         'timeout':10000,

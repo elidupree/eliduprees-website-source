@@ -6,16 +6,11 @@ import utils
 
 global beforebody_js
 global afterbody_js
-afterbody_js = ''
 beforebody_js = r'''
 window.elidupree = {};
 document.documentElement.className += ' javascript_enabled';
 function remove_class(element, class_name) {
   element.className = element.className.replace(new RegExp('(\\s|^)'+class_name+'(\\s|$)'), ' ');
-}
-function add_event_listener(element, event_type, listener) {
-  if (element.addEventListener) { element.addEventListener(     event_type, listener, false); }
-  if (element.attachEvent     ) { element.attachEvent     ('on'+event_type, listener       ); }
 }
 
 function delete_cookie(name) {
@@ -66,7 +61,14 @@ function read_cookie(name) {
 }
 '''
 
-print("TODO: add domain=elidupree.com to the cookie, but we can't do that while we're on localhost!")
+
+afterbody_js = r'''
+function add_event_listener(element, event_type, listener) {
+  if (element.addEventListener) { element.addEventListener(     event_type, listener, false); }
+  if (element.attachEvent     ) { element.attachEvent     ('on'+event_type, listener       ); }
+}
+'''
+
 
 # previously   p { margin-top: 0.75em; margin-bottom: 0.75em; }
 
