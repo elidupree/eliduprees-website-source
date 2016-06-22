@@ -19,7 +19,6 @@ html.acobs div.comic_toggle_content_warnings {
 html.acobs div.comic_transcript_inner {
   color: black; }
 ''')
-print ("TODO: find a better way to make modified versions of CSS rules")
 
 
 

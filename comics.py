@@ -249,8 +249,6 @@ for (i = 0; i < disable_content_warnings_buttons.length; ++i) {
 }
 ''')
 
-print ("TODO: make the first page of VC list content warnings, give the user a choice")
-
 import voldemorts_children_pages
 import voldemorts_children
 import acobs_pages

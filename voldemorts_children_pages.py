@@ -14,7 +14,6 @@ light_pink = '<span class="dialogue light_pink">light pink</span>'
 deep_purple = '<span class="dialogue deep_purple">deep purple</span>'
 cyan = '<span class="dialogue cyan">cyan</span>'
 
-print ("write a new thing for the cover page")
 vc_pages = [
   {
     "xcf_base": "title-2",
