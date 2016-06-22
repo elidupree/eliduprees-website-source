@@ -8,7 +8,7 @@ import utils
 import re
 
 def add_redirect(page_dict, from_path, to_path):
-  utils.checked_insert(page_dict, '/'+ from_path + '.301', '/'+to_path)
+  utils.checked_insert(page_dict, from_path + '.301', to_path)
   return
 
 old_website_conversions = {
@@ -391,11 +391,12 @@ conveniences = {
 
 def add_redirects(page_dict):
   for from_path, to_path in old_website_conversions.items():
-    add_redirect(page_dict, from_path, to_path)
+    add_redirect(page_dict, '/'+from_path, '/'+to_path)
     e = re.sub("'", "%27", from_path)
     if e != from_path:
-      add_redirect(page_dict, e, to_path)
+      add_redirect(page_dict, '/'+e, '/'+to_path)
   for from_path, to_path in conveniences.items():
-    add_redirect(page_dict, from_path, to_path)
+    add_redirect(page_dict, '/'+from_path, '/'+to_path)
+  add_redirect (page_dict, "/EoHS", "https://www.patreon.com/EoHS")
 
 
