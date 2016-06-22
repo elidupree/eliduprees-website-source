@@ -818,7 +818,7 @@ def sidebar_with_entries (index_entries, header, random_itemname):
   <a class="random_post sidebar_standalone_link" id="random_post" data-itemname="''' + random_itemname +'''"></a>
   
   <!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup" class="MailChimp_form">
+<div id="mc_embed_signup" class="MailChimp_form hidden_from_restricted_users">
 <form action="//elidupree.us13.list-manage.com/subscribe/post?u=4d65283e4a6612f93da4514e2&amp;id=122f9e2af8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
@@ -838,7 +838,7 @@ def sidebar_with_entries (index_entries, header, random_itemname):
 
 <!--End mc_embed_signup-->
 
-  <a class="sidebar_standalone_link Patreon_link" href="https://www.patreon.com/EliDupree"><img src="/media/patreon-logo.png?rr" alt="" /><span>$$$ Encourage me to make more cool stuff! </span></a>
+  <a class="sidebar_standalone_link Patreon_link hidden_from_restricted_users" href="https://www.patreon.com/EliDupree"><img src="/media/patreon-logo.png?rr" alt="" /><span>$$$ Encourage me to make more cool stuff! </span></a>
   '''+index
 
 tag_index = '<div class="index_page_entry">All tags</div>' + "\n".join (['<div class="index_entry"><a href="'+ tags.tag_url (tag [0]) +'" title="'+ tag [1] +'">'+ tag [1] + '</a></div>' for tag in tags.tags_list])

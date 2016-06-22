@@ -458,7 +458,7 @@ def comic_metabar(page):
   <span class="metabar_content_warnings_disabled">
     ⚠ disabled <a class="enable_content_warnings_button meta_controls_coloring" href="javascript:;">(enable content warnings)</a>
   </span>'''+ utils.inline_separator +
-  '''<a class="meta_controls_coloring" href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt="" /> encourage me</a>
+  '''<a class="meta_controls_coloring hidden_from_restricted_users" href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt="" /> encourage me</a>
 </div>''')
   
   
