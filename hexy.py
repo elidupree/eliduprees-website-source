@@ -72,9 +72,6 @@ div.hexy_content .important_link {
   }
   div.hexy_content div.bigbox_outer.comments {
     font-size: 70%; }
-  div.hexy_content form.paypal_stuff {
-    white-space: nowrap;
-  }
 }
 @media (min-width: 13em) {
   div.hexy_content a.lesswrap {

@@ -812,21 +812,12 @@ def make_page_list (posts):
 def MailChimp_form_labeled (label):
   return '''
   <!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup" class="MailChimp_form hidden_from_restricted_users">
-<form action="//elidupree.us13.list-manage.com/subscribe/post?u=4d65283e4a6612f93da4514e2&amp;id=122f9e2af8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	
-<div class="mc-field-group">
-	<label for="mce-EMAIL">'''+ label +'''</label>
-	<input type="email" placeholder="Email address…" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div class="MailChimp_form hidden_from_restricted_users">
+<form action="//elidupree.us13.list-manage.com/subscribe/post?u=4d65283e4a6612f93da4514e2&amp;id=122f9e2af8" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<label for="mce-EMAIL">'''+ label +'''	<input type="email" placeholder="Email address…" value="" name="EMAIL" class="required email"></label>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4d65283e4a6612f93da4514e2_122f9e2af8" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
+    <input type="submit" value="Subscribe" name="subscribe" class="button">
 </form>
 </div>
 
