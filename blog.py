@@ -814,7 +814,7 @@ def MailChimp_form_labeled (label):
   <!-- Begin MailChimp Signup Form -->
 <div class="MailChimp_form hidden_from_restricted_users">
 <form action="//elidupree.us13.list-manage.com/subscribe/post?u=4d65283e4a6612f93da4514e2&amp;id=122f9e2af8" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-<label for="mce-EMAIL">'''+ label +'''	<input type="email" placeholder="Email address…" value="" name="EMAIL" class="required email"></label>
+<label>'''+ label +'''	<input type="email" placeholder="Email address…" value="" name="EMAIL" class="required email"></label>
 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4d65283e4a6612f93da4514e2_122f9e2af8" tabindex="-1" value=""></div>
     <input type="submit" value="Subscribe" name="subscribe" class="button">
