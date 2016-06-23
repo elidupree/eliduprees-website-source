@@ -280,6 +280,17 @@ comics_metadata = {
     "image_url_offset":1,
     "page_number_offset": 1,
   },
+  "people_are_wrong_sometimes": {
+    "title": "People Are Wrong Sometimes",
+    "html_class": "",
+    "url": "/people-are-wrong-sometimes",
+    "abbr": "PAWS",
+    "image_width": 638,
+    "dialogue_name_replacements":{},
+    "image_url_offset":1,
+    "page_number_offset": 1,
+    "complete": True,
+  },
 }
 
 for comic_id,page_list in comics_pages.items():
@@ -438,6 +449,8 @@ def comic_navbar(prev_page, next_page):
         button = '<span class="comic_nav_button_main'+extra_class+'">'+big_string+'</span>'
       inner_link = (
       '<a class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
+    elif string == "next":
+      inner_link = ('''This story is complete.''' if "complete" in comics_metadata[prev_page["comic_id"]] else blog.MailChimp_form_labeled ("That's the last page so far! Follow elidupree.com by email for future updates:"))
     
     return '''<div class="comic_nav_button'''+extra_class+'''">
         '''+inner_link+'''
