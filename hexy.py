@@ -120,13 +120,6 @@ when their “opponent” is too tied up to reach the board.
   <p><a href="/hexy/hexy-bondage-blank-tiles.pdf">Sheet of blank tiles</a></p>
 </div>
 </div>
-<div class="bigbox_outer narrower">
-<div class="bigbox narrower">
-  <p>Hexy Bondage is a creation of <a class="lesswrap" href="/" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">Eli Dupree.</a><br />Contact Eli to report any issues, no matter how minor:<br />'''+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'''</p>
-  <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hexy Bondage</span> is licensed under a<br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
-  </p>
-</div>
-</div>
 <div class="bigbox_outer narrower comments last">
 <div class="bigbox narrower comments last">
   '''+blog.comments_section("hexy")+'''
