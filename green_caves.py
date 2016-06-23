@@ -32,6 +32,7 @@ Your browser does not support the canvas element.
       window.green_caves = {};
       window.green_caves.holding_mouse_down_ingame = false;
       Module.TOTAL_MEMORY = 100000000 // 100 MB, about six times the default
+      Module.memoryInitializerPrefixURL = "/media/"
     </script>
     <script type="text/javascript" src="/media/green_caves.js?rr"></script>
     <!--<script type="text/javascript" src="new_collision_detection.js"></script>-->

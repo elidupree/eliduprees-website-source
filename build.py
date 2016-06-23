@@ -123,8 +123,8 @@ Disallow: /''')
       canonical_scheme_and_domain = utils.canonical_scheme_and_domain,
       list_of_compilation_source_files = ['build.py'],
       published_as_is = (lambda path:
-        bool(re.search(r'\.(txt|asc|pdf|rss|atom|zip|tar\.(gz|bz2|xz)|appcache|cpp|hs)$|'+
-          r'^/favicon.ico$|/atom\.xml$',
+        bool(re.search(r'\.(txt|asc|pdf|rss|atom|zip|tar\.(gz|bz2|xz)|appcache|cpp|hs|js\.mem)$|'+
+          r'^/favicon.ico$|/atom\.xml$|',
           path))),
       test_host = 'localhost',
       test_port = 84,
