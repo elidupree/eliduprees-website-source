@@ -4,6 +4,8 @@
 import utils
 import html_pages
 import bars
+import exmxaxixl
+import blog
 	  
 def add_game(page_dict):
   utils.make_page (page_dict,
@@ -100,33 +102,7 @@ when their “opponent” is too tied up to reach the board.
 </div>
 <div class="bigbox_outer">
 <div class="bigbox">
-  <div class="fake_p">Tiles (print them, cut them out): <a class="lesswrap" href="/hexy/hexy-bondage-tiles.pdf">Download tiles</a> and/or 
-  
-<!-- Notes: The PayPal button code modified as follows:
-  Remove the table structure and the visible ":"
-  add class="paypal_stuff" to the form element
-  add class="paynowbutton" to the select and input-image elements
-  add selected to the second option
-  change button image alt to "Pay Now"
-  remove the (probably for tracking and nothing else) pixel gif
--->
-<form class="paypal_stuff" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="VR5BUZK88GMCL">
-<input type="hidden" name="on0" value=":">
-<select class="paynowbutton" name="os0">
-        <option value="Be cool...">Be cool... $10.00 USD</option>
-        <option selected value="Be awesome...">Be awesome... $20.00 USD</option>
-        <option value="Be extravagant...">Be extravagant... $50.00 USD</option>
-</select>
-<input type="hidden" name="currency_code" value="USD">
-<input class="paynowbutton" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="Pay Now">
-</form>
-
-
-</div>
-<p>(Paying supports my work, so I can keep making things available to those who can't pay.)</p>
-</div>
+  <div class="fake_p">Tiles (print them, cut them out): <a class="lesswrap" href="/hexy/hexy-bondage-tiles.pdf">Download tiles</a> </div>
 </div>
 <div class="bigbox_outer">
 <div class="bigbox">

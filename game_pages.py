@@ -4,10 +4,9 @@ from __future__ import division
 
 
 import utils
-import css
-import exmxaxixl
 import blog
 import pac_asteroids
+import hexy
 
 
 import html_pages
@@ -292,24 +291,8 @@ def generate_maze (width, height):
   return render_maze (maze)
 
 def add_game_pages(page_dict):
-  utils.checked_insert(page_dict,
-    '/hexy.html',
-    html_pages.make_page(
-      "Hexy Bondage ⊂ Eli Dupree's website",
-      '',
-      hexy_page(False), {"body_class":"hexy"}
-    )
-  )
-  utils.checked_insert(page_dict,
-    '/hexy-thank-you.html',
-    html_pages.make_page(
-      "Hexy Bondage ⊂ Eli Dupree's website",
-      '',
-      hexy_page(True), {"body_class":"hexy"}
-    )
-  )
-  
   pac_asteroids.add_game (page_dict)
+  hexy.add_game (page_dict)
   
   return
   (maze_CSS, maze_HTML) = generate_maze (100, 100)
