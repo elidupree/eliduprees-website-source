@@ -9,7 +9,7 @@ import blog
 	  
 def add_game(page_dict):
   utils.make_page (page_dict,
-    '/hexy.html',
+    '/hexy',
       "Hexy Bondage ⊂ Eli Dupree's website",
       r'''
 <style>
