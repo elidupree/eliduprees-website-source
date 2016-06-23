@@ -19,7 +19,7 @@ body.hexy .bars_outer_box {
 
 div.hexy_content h1{ font-size: 200%; font-weight: bold; padding-top: 0.20em; }
 div.hexy_content h2{ font-size: 150%; font-weight: bold; padding-top: 0.30em; }
-div.hexy_content p,div.hexy_content div.fake_p { margin: 0; padding: 0.5em 0; }
+div.hexy_content p { margin: 0; padding: 0.5em 0; line-height: inherit; }
 div.hexy_content a:link { color:blue }
 div.hexy_content a:visited { color:purple }
 
@@ -53,6 +53,8 @@ div.hexy_content div.bigbox_outer.comments {
   font-family: Times New Roman, Times, serif; }
 div.hexy_content div.bigbox.comments {
   padding-bottom: 1.0em; }
+div.hexy_content .important_link {
+  font-size: 160%; font-weight: bold; }
 
 @media (min-width: 30em) {
   div.hexy_content div.bigbox_outer {
@@ -97,12 +99,10 @@ and some paths. The paths can be used to connect icons together. Connections cau
 things to happen in real life, like tying your body parts together. A player wins
 when their “opponent” is too tied up to reach the board.
   </p>
-  <p><a class="lesswrap" href="/hexy/hexy-bondage-rules.pdf">Read the full rules (pdf)</a></p>
+  <p><a class=" important_link lesswrap" href="/hexy/hexy-bondage-rules.pdf">Read the full rules (pdf)</a></p>
+  <p> <a class=" important_link lesswrap" href="/hexy/hexy-bondage-tiles.pdf">Download printable tiles</a> </p>
+  <p class="hidden_from_restricted_users">If you like this game, consider <a href="https://www.patreon.com/EliDupree">supporting me on Patreon</a> so that I can continue making awesome things and sharing them for free on the Internet.
 </div>
-</div>
-<div class="bigbox_outer">
-<div class="bigbox">
-  <div class="fake_p">Tiles (print them, cut them out): <a class="lesswrap" href="/hexy/hexy-bondage-tiles.pdf">Download tiles</a> </div>
 </div>
 <div class="bigbox_outer">
 <div class="bigbox">
