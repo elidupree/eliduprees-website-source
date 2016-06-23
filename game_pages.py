@@ -7,6 +7,7 @@ import utils
 import blog
 import pac_asteroids
 import hexy
+import green_caves
 
 
 import html_pages
@@ -293,6 +294,7 @@ def generate_maze (width, height):
 def add_game_pages(page_dict):
   pac_asteroids.add_game (page_dict)
   hexy.add_game (page_dict)
+  green_caves.add_game (page_dict)
   
   return
   (maze_CSS, maze_HTML) = generate_maze (100, 100)
