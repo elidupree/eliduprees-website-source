@@ -60,6 +60,22 @@ html.voldemorts_children div.user_comment:hover>div.comment_body_hover_marker>*>
   background-color: #cccccc; }
 html.voldemorts_children .blog_post_metadata {
   background-color: rgba(204,204,204,.7) }
+
+html.voldemorts_children .MailChimp_form {
+background-color: black;
+border-color: #'''+arrow_color_dull+''';
+
+color: #'''+ arrow_color_bright +''';
+
+}
+html.voldemorts_children .MailChimp_form .email {
+border-color: #'''+arrow_color_bright +''';
+background-color: black; color: white;}
+html.voldemorts_children .MailChimp_form .button {
+background-color:#'''+arrow_color_dull+''';}
+html.voldemorts_children .MailChimp_form .button:hover {
+background-color:#'''+arrow_color_bright +''';}
+
 ''')
 
 

@@ -274,13 +274,17 @@ a.random_post {
   display: none; }
 a.random_post.enabled {
   display: block; }
+
 a.Patreon_link,.MailChimp_form {
 padding: 0.6em 0.8em;
-margin:0.5em -0.65em;
+
 background-color: white;
 border-radius:0.6em;
 border:0.15em solid #555;
 position: relative;}
+.blog_right_bar a.Patreon_link, .blog_right_bar .MailChimp_form {
+  margin:0.5em -0.65em;}
+
 a.Patreon_link img {
 display: inline-block;
 margin-right:-2em;
@@ -804,26 +808,16 @@ def make_page_list (posts):
   if len(posts) >0:
     result.append ([posts [i] for i in range (fixed_pages*page_length, len(posts))])
   return result
-  
-page_lists ["blog"] = make_page_list (blog_posts.posts ["blog"])
-for tag in tags.tags:
-  page_lists [tag] = make_page_list (posts_by_tag [tag])
 
-def sidebar_with_entries (index_entries, header, random_itemname):
-  index = ('<div class="blog_index">'
-      + header
-      +("\n".join(index_entries))
-      +'</div>')
+def MailChimp_form_labeled (label):
   return '''
-  <a class="random_post sidebar_standalone_link" id="random_post" data-itemname="''' + random_itemname +'''"></a>
-  
   <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup" class="MailChimp_form hidden_from_restricted_users">
 <form action="//elidupree.us13.list-manage.com/subscribe/post?u=4d65283e4a6612f93da4514e2&amp;id=122f9e2af8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
 <div class="mc-field-group">
-	<label for="mce-EMAIL"> Follow elidupree.com by email: </label>
+	<label for="mce-EMAIL">'''+ label +'''</label>
 	<input type="email" placeholder="Email address…" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
@@ -838,8 +832,24 @@ def sidebar_with_entries (index_entries, header, random_itemname):
 
 <!--End mc_embed_signup-->
 
-  <a class="sidebar_standalone_link Patreon_link hidden_from_restricted_users" href="https://www.patreon.com/EliDupree"><img src="/media/patreon-logo.png?rr" alt="" /><span>$$$ Encourage me to make more cool stuff! </span></a>
-  '''+index
+'''
+
+MailChimp_form = MailChimp_form_labeled ("Follow elidupree.com by email:")
+Patreon_link ='''<a class="sidebar_standalone_link Patreon_link hidden_from_restricted_users" href="https://www.patreon.com/EliDupree"><img src="/media/patreon-logo.png?rr" alt="" /><span>$$$ Encourage me to make more cool stuff! </span></a>'''
+
+page_lists ["blog"] = make_page_list (blog_posts.posts ["blog"])
+for tag in tags.tags:
+  page_lists [tag] = make_page_list (posts_by_tag [tag])
+
+def sidebar_with_entries (index_entries, header, random_itemname):
+  index = ('<div class="blog_index">'
+      + header
+      +("\n".join(index_entries))
+      +'</div>')
+  return '''
+  <a class="random_post sidebar_standalone_link" id="random_post" data-itemname="''' + random_itemname +'''"></a>
+    
+  '''+ MailChimp_form + Patreon_link +index
 
 tag_index = '<div class="index_page_entry">All tags</div>' + "\n".join (['<div class="index_entry"><a href="'+ tags.tag_url (tag [0]) +'" title="'+ tag [1] +'">'+ tag [1] + '</a></div>' for tag in tags.tags_list])
 
@@ -856,7 +866,7 @@ def page_list_sidebar (page_list, header, tags_string = ""):
   return sidebar_with_entries (index_entries, header, "[Random post] ")
 
 sidebars = {}
-sidebars [""] = ""
+sidebars [""] = MailChimp_form + Patreon_link
 sidebars ["stories"] = sidebar_with_entries ([index_entry_html (post) for post in blog_posts.posts ["stories"]],'<div class=" index_page_entry"><a href="/stories">Stories</a></div>', "[Random story] ")
 sidebars ["blog"] = page_list_sidebar (page_lists ["blog"], '<div class=" index_page_entry"><a href="/blog">Latest blog posts</a></div>')
 for tag in tags.tags:
