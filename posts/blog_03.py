@@ -150,7 +150,7 @@ return primes;</pre>
 
 <p>I've also added a few new features - there's now an infinite, randomly generated cave system, and the bullets last forever instead of disappearing when they leave the screen. I'd post a new screenshot, but it doesn't look much different than before... it's just that it's FIVE TIMES AS AWESOME when you play it.</p>
 
-<p>As before, you can download <a href="/media/green-caves-release-2.tar.gz?rr">the C++ source code</a>.</p>""",
+<p>As before, you can download <a href="/media/green-caves-game-release-2.tar.gz?rr">the C++ source code</a>.</p>""",
 },
 {
   "title":"""Tablet received!""",
