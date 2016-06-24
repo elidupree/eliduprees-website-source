@@ -98,7 +98,7 @@ I personally deal with this by never going to a venue that requires me to dress 
   "title":"""I'm back!""",
   "force_id":"892485471d1663a3e61417f14af6ae52",
   "force_date":datetime.date(2013, 6, 7),
-  "tags":["announcements"],
+  "tags":["announcements","this website"],
   "contents":'''
 
 <p>I haven't blogged in more than a year, but that will now change!</p>

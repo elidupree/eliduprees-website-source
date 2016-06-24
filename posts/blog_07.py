@@ -126,15 +126,6 @@ posts = [
 ''',
 },
 {
-  "title":"""Minor progress""",
-  "force_id":"fc00cc37f2943a0d0f4fc5c66fa778fb",
-  "force_date":datetime.date(2011, 9, 10),
-  "tags":["this website"],
-  "contents":'''<p>By the way, I'm making progress on posting my novella here. That involves a bit of mechanical stuff (coding the website to display it nicely) and a bit of human stuff (I've been asking people for help deciding what trigger warnings it needs). If any of you know a bunch about trigger warnings <strong>and</strong> want to help <strong>and</strong> can IM with me, contact me. (I'm on IRC as "Elvish_Pillager" on Freenode and "Evilish_Pillager" on Foonetic, and Facebook chat is okay if you know me on Facebook.)</p>
-
-<p>Also, I wrote a page of a comic! Sadly, I won't post it for you today, since I'm still coding a nice way for displaying transcripts that won't clog up screen space if you don't need it. But, I will post it for you tomorrow!</p>''',
-},
-{
   "title":"""How I don't get frustrated at anything""",
   "force_id":"d2c804969243f5f7f2dbf1cc6f8814f1",
   "force_date":datetime.date(2011, 9, 15),
@@ -197,16 +188,16 @@ posts = [
 
 ''',
 },
-{
-  "title":"""New index page!""",
-  "force_id":"acec865568c7fe78c744e892f0987ef8",
-  "force_date":datetime.date(2011, 9, 18),
-  "tags":["this website"],
-  "edited_significantly_from_old_website": True,
-  "contents":'''<p> (Note: this post was about an older version of the website. I'm only leaving it here for the record.)
+#{
+  #"title":"""New index page!""",
+  #"force_id":"acec865568c7fe78c744e892f0987ef8",
+  #"force_date":datetime.date(2011, 9, 18),
+  #"tags":["this website"],
+  #"edited_significantly_from_old_website": True,
+  #"contents":'''<p> (Note: this post was about an older version of the website. I'm only leaving it here for the record.)
 
-<p>I've just created an index page that lists all the tags and posts, with links that let you read the posts in chronological order, too. (That functionality was already built in, but I hadn't made any public way to use it.) And there's a link to the index in the left sidebar.</p>
+#<p>I've just created an index page that lists all the tags and posts, with links that let you read the posts in chronological order, too. (That functionality was already built in, but I hadn't made any public way to use it.) And there's a link to the index in the left sidebar.</p>
 
-''',
-},
+#''',
+#},
 ]

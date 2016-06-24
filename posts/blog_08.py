@@ -177,38 +177,23 @@ Use it.))>
 
 ''',
 },
-{
-  "title":"""Now selling posters!""",
-  "force_id":"d75d77eedb99a9854e32c14ed5340426",
-  "force_date":datetime.date(2011, 11, 11),
-  "tags":["sex","this website"],
-  "contents":'''
+#{
+  #"title":"""Website upgrades!""",
+  #"force_id":"ad3c4cc7d9f820365e6c23c7ac3f4d10",
+  #"force_date":datetime.date(2011, 11, 26),
+  #"tags":["this website"],
+  #"contents":'''
 
-<p>So many people loved my graphic about affirmative consent (see <a href="/blog/lets-talk-about-affirmative-consent">my last post here</a>) that I've decided to try selling prints of it. Thus, I've set up <a href="http://www.zazzle.com/eli_dupree*">this store on zazzle.com</a>, and you can now buy your own physical copy!</p>
+#<p>I've just spent a few days writing a bunch of improvements to this website, with some help from my awesome sibling! (Ze has a website, too. It's at <a href="http://www.idupree.com/">www.idupree.com</a>, and ze's planning to make it a lot fancier soon.) I haven't added them to the actual website yet, but I'm going to do that momentarily.</p>
 
-<p>They're somewhat expensive, but if you've got money to spare, go for it! A significant cut of the price goes directly to me, and I'll do my best to feed that money back into my activism projects for your edification and enjoyment.</p>
+#<p>Here are some of the new features:</p><ul><li>Comic pages now have a whole new, fancy display. (This was the main motivation for the upgrades &ndash; Next semester, I'm going to be writing a comic that I'm more serious about, and I need to prepare for that.)</li><li>Entire comment trees display at once. You won't have to waste time clicking through a long reply tree anymore. Also, they don't take up as much horizontal space.</li><li>There are a bunch of new "notify me when..." settings, to make things more convenient.</li><li>A bunch of internal improvements that'll make the pages load a little faster.</li></ul>
 
-<p>Again &ndash; <a href="http://www.zazzle.com/eli_dupree*">My online store is right here</a>.</p>
+#<p>There are still some more improvements that I wanted to make but didn't finish in time (today is the last day of a five-day break from college); I'll finish those in December, I guess.</p>
 
-''',
-},
-{
-  "title":"""Website upgrades!""",
-  "force_id":"ad3c4cc7d9f820365e6c23c7ac3f4d10",
-  "force_date":datetime.date(2011, 11, 26),
-  "tags":["this website"],
-  "contents":'''
+#<p>Anyway, if the website is totally broken in the next couple of hours, that's because I'm busy uploading the new changes.</p>
 
-<p>I've just spent a few days writing a bunch of improvements to this website, with some help from my awesome sibling! (Ze has a website, too. It's at <a href="http://www.idupree.com/">www.idupree.com</a>, and ze's planning to make it a lot fancier soon.) I haven't added them to the actual website yet, but I'm going to do that momentarily.</p>
-
-<p>Here are some of the new features:</p><ul><li>Comic pages now have a whole new, fancy display. (This was the main motivation for the upgrades &ndash; Next semester, I'm going to be writing a comic that I'm more serious about, and I need to prepare for that.)</li><li>Entire comment trees display at once. You won't have to waste time clicking through a long reply tree anymore. Also, they don't take up as much horizontal space.</li><li>There are a bunch of new "notify me when..." settings, to make things more convenient.</li><li>A bunch of internal improvements that'll make the pages load a little faster.</li></ul>
-
-<p>There are still some more improvements that I wanted to make but didn't finish in time (today is the last day of a five-day break from college); I'll finish those in December, I guess.</p>
-
-<p>Anyway, if the website is totally broken in the next couple of hours, that's because I'm busy uploading the new changes.</p>
-
-''',
-},
+#''',
+#},
 {
   "title":"""Introducing the Colby Sex Club!""",
   "force_id":"22292f4d23d83150fe9563c0d9ce2a5",
@@ -377,17 +362,17 @@ BOX 2: Poster design by Eli Dupree. Funding by SGA. Thanks to everyone who encou
 
 ''',
 },
-{
-  "title":"""More website upgrades!""",
-  "force_id":"c4c47b42c44e417f3798b2a379f24fb3",
-  "force_date":datetime.date(2012, 1, 28),
-  "tags":["this website"],
-  "contents":'''
+#{
+  #"title":"""More website upgrades!""",
+  #"force_id":"c4c47b42c44e417f3798b2a379f24fb3",
+  #"force_date":datetime.date(2012, 1, 28),
+  #"tags":["this website"],
+  #"contents":'''
 
-<p>I've created a new homepage and tweaked the comic display, and also prepared some more internal stuff for my next comic. (These are some of the changes that I was planning when I wrote <a href="/blog/website-upgrades">this post</a>, but not all of them.)</p>
+#<p>I've created a new homepage and tweaked the comic display, and also prepared some more internal stuff for my next comic. (These are some of the changes that I was planning when I wrote <a href="/blog/website-upgrades">this post</a>, but not all of them.)</p>
 
-<p>As usual, tell me if anything breaks.</p>
+#<p>As usual, tell me if anything breaks.</p>
 
-''',
-},
+#''',
+#},
 ]
