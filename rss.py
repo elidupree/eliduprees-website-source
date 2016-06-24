@@ -31,7 +31,8 @@ def add_feed(page_dict):
     else:
       link = comics.page_url(post)
     title = post ["title"]
-    post_string = blog.stream_entry (post)
+    (body, head) = blog.stream_entry (post)
+    post_string = head + body
     metadata = blog.post_metadata(post)
     # make internal links work in the feed
     post_string = re.sub(r'( (?:href|src)=")/', lambda match: match.group(1)+utils.canonical_scheme_and_domain+'/', post_string)

@@ -350,8 +350,10 @@ var random_entry;
 var i;
 
 function handle_transcript (stuff) {
-  add_event_listener (document.getElementById('show_transcript_button_'+ stuff [0]), 'click', stuff [1]);
-  add_event_listener (document.getElementById('hide_transcript_button_'+ stuff [0]), 'click', stuff [2]);
+  if (document.getElementById('show_transcript_button_'+ stuff [0])) {
+    add_event_listener (document.getElementById('show_transcript_button_'+ stuff [0]), 'click', stuff [1]);
+    add_event_listener (document.getElementById('hide_transcript_button_'+ stuff [0]), 'click', stuff [2]);
+  }
 }
 for (i = 0; i < window.elidupree.transcripts.length; ++i) {
   handle_transcript (window.elidupree.transcripts [i]);
@@ -626,17 +628,18 @@ def post_dict_html(post_dict, stream_only = False):
 def stream_entry (post):
   if "contents" in post:
     if post ["category"] == "stories":
-      return '''
+      return ('''
 <div class="stream_media_reference_outer">
   <a class="stream_media_reference" href="'''+ post_permalink (post) + '">New story: ' + post ["title"] + '''</a>
-</div>'''
+</div>''', "")
     else:
-      return '<article>'+ post_dict_html (post, True) [0] +'</article>' 
+      (body, head) = post_dict_html (post, True)
+      return ('<article>'+ body +'</article>', head)
   else:
-    return '''
+    return ('''
 <div class="stream_media_reference_outer">
   <a class="stream_media_reference" href="'''+ comics.page_url  (post) + '"> <img src="'+ comics.comic_image_url (post, "thumbnail_full") +'" alt=""> New comic: ' + post ["title"] + '''</a>
-</div>'''
+</div>''', "")
 
 
 def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True, allow_comments = True):
@@ -921,11 +924,12 @@ def add_list_pages (page_dict, page_list, prefix, title, identifier):
     <a class="blog_end_link" href="'''+ prefix + page_string +'''/chronological">''' + label + '''</a>
   </div>'''
 
+          entries = [stream_entry (post_dict ) for post_dict in (page if page_order == "/chronological" else reversed(page))]
           utils.make_page (page_dict,
             prefix +url_pagenum_string+page_order,
               title +" ⊂ Eli Dupree's website",
-              "",
-              make_blog_page_body("\n".join([stream_entry (post_dict ) for post_dict in (page if page_order == "/chronological" else reversed(page))]) +end_links, sidebars [identifier])
+              "".join ([entry [1] for entry in entries]),
+              make_blog_page_body("\n".join([entry [0] for entry in entries]) +end_links, sidebars [identifier])
           )
 
 def add_individual_post_pages (page_dict, post_dict):

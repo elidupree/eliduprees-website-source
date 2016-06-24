@@ -23,7 +23,7 @@ posts = [
 
 <p>Because they lump together a lot of different concepts, and lumping those concepts together is sometimes harmful to people.</p>
 
-<p>Now I'm going to take a step back and explain that. The trouble is, it's not easy to do that. So I'm going to take another five steps back and explain things from scratch.</p>
+<p>Now I'm going to take a step back and explain that. The trouble is, it's not easy to do that. So I'm going to take another five steps back and <cut>explain things from scratch.</p>
 
 <h3>Part one: Gender</h3>
 
