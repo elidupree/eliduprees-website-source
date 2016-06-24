@@ -53,6 +53,11 @@ address.eli_exmxaxixl {
   font-style: normal; }
 
 
+div.home_page_outer span.top_bar_category.games {
+  background-image: url("/media/green-caves-screenshot.png?rr");
+  background-size: 24em 24em;
+  background-position: center center;}
+
 
 div.home_page_buffer {
   position: relative;
