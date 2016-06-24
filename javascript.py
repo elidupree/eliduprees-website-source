@@ -9,6 +9,7 @@ global afterbody_js
 beforebody_js = r'''
 window.elidupree = {};
 document.documentElement.className += ' javascript_enabled';
+if (window.msCrypto) {window.crypto = window.msCrypto;}
 function remove_class(element, class_name) {
   element.className = element.className.replace(new RegExp('(\\s|^)'+class_name+'(\\s|$)'), ' ');
 }
