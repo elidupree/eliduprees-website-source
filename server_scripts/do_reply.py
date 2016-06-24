@@ -15,17 +15,21 @@ def ajax_func():
   parent       = forms.ensure_presence_and_uniqueness_of_and_get_field("parent"      )
   username     = forms.ensure_presence_and_uniqueness_of_and_get_field("username"    )
   contents     = forms.ensure_presence_and_uniqueness_of_and_get_field("contents"    )
+  secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field(" secret_comment_identifier")
+  
 
   preview_items = []
   
-  dict_entry_text = '''
+  reviewable_text = '''
 {
   "parent":"'''+parent+'''",
   "username":"'''+username+'''",
   "contents":"""'''+re.sub('"""', r'\"\"\"', contents)+'''""",
   "id":"'''+hex(random.SystemRandom().getrandbits(128))[2:-1]+'''",
   "date_posted":datetime.date('''+datetime.date.today().strftime("%Y, %-m, %-d")+''')
-},'''
+},
+
+Secret ID: '''+ secret_comment_identifier
 
   (postprocessed_string, scrutinies, broken_tags_marked) = blog_server_shared.postprocess_post_string(contents, None, None, True);
   if broken_tags_marked:

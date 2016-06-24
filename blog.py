@@ -358,6 +358,14 @@ for (i = 0; i < window.elidupree.transcripts.length; ++i) {
 }
 
 
+var do_secret_comment_identifiers = window.cookies_enabled && JSON && window.crypto;
+var replace_secret_comment_identifier = function () {
+  var array = new Uint32Array(4);
+  window.crypto.getRandomValues(array);
+  set_cookie ("secret_comment_identifier", JSON.stringify (array), 30);
+}
+if (do_secret_comment_identifiers &&!read_cookie ("secret_comment_identifier")) {replace_secret_comment_identifier ();}
+
 function expand_reply_box(elem, id) {
   elem.innerHTML = ''+
     '<p class="reply_input_info">'+
@@ -382,14 +390,17 @@ function expand_reply_box(elem, id) {
       submit_button.setAttribute('disabled', 'disabled');
       set_cookie('username', username_input.value, 30);
       preview_space.innerHTML = "Processing...";
+      var secret_string = "unavailable";
+      if (do_secret_comment_identifiers && request_type === 'submit') {replace_secret_comment_identifier (); secret_string = read_cookie ("secret_comment_identifier");}
       $.post({
-        'url':'http://www.elidupree.com/do_reply.py',
+        'url':'https://www.elidupree.com/do_reply.py',
         'timeout':10000,
         'data': {
           'request_type': request_type,
           'parent': id,
           'username': username_input.value,
           'contents': contents_input.value,
+          'secret_comment_identifier': secret_string,
         },
         'error': function (request, status, error) {
           if (status === 'timeout') {
