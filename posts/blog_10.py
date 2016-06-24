@@ -184,6 +184,25 @@ posts = [
 ''',
 },
 {
+  "title":"""A sexual board game!""",
+  "force_id":"71d577eb2f342ef846e37e619e4b393b",
+  "force_date":datetime.date(2013, 9, 9),
+  "tags":["sex"],
+  "contents":"""
+
+<p>I'm finally ready to distribute the sexual board game that I <a href="/blog/im-back">mentioned</a>. I've been sitting on the complete design for a few months, I just hadn't gotten around to making a web presence for it.</p>
+
+<p>Given the <a href="/blog/sex"><q>losing at games</q> part of my sexuality</a>, I've often been disappointed that there aren't more sexual board games out there. Non-yucky ones, anyway. I've seen ads for a couple commercial ones, but they are yucky. They repeat gender stereotypes, and they portray sex as dirty, bad, or mischievous &ndash; <em>especially</em> BDSM and other kinds of creative sex. I don't want to think "tee hee, I'm violating taboos!" when I do sex things; I want the taboos to be completely irrelevant. (Some people especially enjoy violating taboos, and that's okay, but I don't feel that way myself.)</p>
+
+<p>I didn't expect to design a game like this for myself, but I had the idea for this one while talking to a friend last spring. Since I had the skills I needed, I went for it!</p>
+
+<p>Without further ado, <a href="/hexy">here's the main page for the game, Hexy Bondage.</a></p>
+
+<p>Enjoy!</p>
+
+""",
+},
+{
   "title":"""Alignments""",
   "force_id":"f39af72a19c9123ecb4fbb27b2d75bd3",
   "force_date":datetime.date(2013, 9, 17),

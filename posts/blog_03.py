@@ -109,6 +109,44 @@ return primes;</pre>
 ''',
 },
 {
+  "title":"""Release early, release often""",
+  "force_id":"5bcd8590c7d8d7cf20c146b730923b54",
+  "force_date":datetime.date(2011, 6, 18),
+  "tags":["programming"],
+  "contents":"""
+
+<p>Yesterday, I spent all day working hard on my Haskell game &ndash; I was so busy that I didn't have time to blog about it!
+
+<p>Luckily, this has been very productive. If you can compile Haskell code, check out <a href="/main/files/haskell_game_release_1.tar.gz">the current version of my game</a>! I've also put up a Linux executable, but that'll only work if your computer is sufficiently similar to mine (Ubuntu Linux on a Pentium T3400, although I don't know anything about binary compatibility...). The Linux executable is <a href="/main/files/haskell_game_linux_binary_1.bz2">here</a> (3MB). If you can compile Haskell and you're running a different operating system, could you upload your binaries somewhere so that I can link to them for the other people?</p>
+
+<p>Right now, the game is about flying around as a green circle in an infinitely large world, and shooting out the walls. Use the arrow keys to move, and click (and hold) the mouse to shoot lasers.</p>
+
+<img alt="A screenshot of the Haskell game: a green circle drilling a hole in green walls with green lasers" src="/main/files/haskell_game_screenshot_1.png" />
+
+<p>So far, the trickiest part of this project was making an infinite world that would remember all the changes you made to it, without making the game get really slow as the world got bigger.</p>
+
+<p>Amusingly, after I said I wasn't going to keep working on my collision detection stuff, most of the work of this project has been on collision detection stuff. There's a lot of things that could be improved about it (like the fact that I've duplicated a lot of work between ZOrderCollisions.hs and ZTree.hs), but there you go; I'm going to make those improvements next, anyway!</p>
+
+<p>I've released the game under the GNU General Public License (GPL), which means that you can freely copy it, modify it, and release modified versions, as long as you make all the code you add to it available under the same license.</p>
+
+""",
+},
+{
+  "title":"""Title: C++ vs. Haskell: ROUND TWO: But I want it to be fast!""",
+  "force_id":"a0dd163e9656f581c3b748350509a55e",
+  "force_date":datetime.date(2011, 6, 20),
+  "tags":["programming"],
+  "contents":"""
+
+<p>In the last two days, I've entirely rewritten <a href="http://www.elidupree.com/main/posts/29-release-early-release-often">my game</a> from Haskell into C++! As much as I love the expressive power of Haskell, it just isn't a suitable language for writing things that need to push the boundaries of computers' processing power. This is partially because of the way the languages are designed, and partially because a lot more work has gone into optimizing C++ compilers because it's a more popular language. On the plus side, by writing my game in Haskell first, I feel like I understand the structure of the program a lot better.</p>
+
+<p>On my computer, this version runs smoothly at 100 frames per second, even when you have hundreds of bullets (laser bullets?) flying around in the infinite(!) world.</p>
+
+<p>I've also added a few new features - there's now an infinite, randomly generated cave system, and the bullets last forever instead of disappearing when they leave the screen. I'd post a new screenshot, but it doesn't look much different than before... it's just that it's FIVE TIMES AS AWESOME when you play it.</p>
+
+<p>As before, you can download <a href="/main/files/release_2_in_cplusplus.tar.gz">the C++ source code</a>, or a <a href="/main/files/cpp_game_linux_binary_2.bz2">Linux binary</a>.</p>""",
+},
+{
   "title":"""Tablet received!""",
   "force_id":"fb40cdb2da1d335e53fc3c0d0c85d1e4",
   "force_date":datetime.date(2011, 6, 20),
