@@ -363,7 +363,7 @@ var replace_secret_comment_identifier = function () {
   var array = new Uint32Array(4);
   window.crypto.getRandomValues(array);
   set_cookie ("secret_comment_identifier", JSON.stringify (array), 30);
-}
+};
 if (do_secret_comment_identifiers &&!read_cookie ("secret_comment_identifier")) {replace_secret_comment_identifier ();}
 
 function expand_reply_box(elem, id) {
