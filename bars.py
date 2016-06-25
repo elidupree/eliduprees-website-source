@@ -97,8 +97,10 @@ div.home_page_buffer span.top_bar_home_text {
   text-align: center;
   font-size: 150%;
   padding: 0; }
-div.home_page_outer h2 {font-size: 150%; font-weight: bold; margin-top: 2em;}
-div.home_page_outer a.stream_media_reference {background-color: white;}
+div.home_page_outer h2 {color: #776;font-size: 150%; font-weight: bold; margin-bottom: -0.2em;}
+div.home_page_recent_updates {display: inline-block; font-size: 75%; background-color:#ffc; padding: 0.7em;border-radius:1.3em; margin-top:4em;}
+div.home_page_outer div.stream_media_reference_outer {text-align: left; }
+div.home_page_outer a.stream_media_reference {text-align: left; background-color: transparent; font-weight: normal;}
   
 @media screen and (max-height: 34em) {
   div.home_page_buffer div.top_bar_home {
@@ -224,8 +226,10 @@ def add_home_page(page_dict):
           <div class="home_page_bottom">
             <div class="home_page_bottom_inner">
               '''+bottom_bar_contents(info)+'''
-              <h2> Recent updates</h2>
-              '''+ blog.recent_updates (9) +'''
+              <div class="home_page_recent_updates">
+                <h2> Recent updates...</h2>
+                '''+ blog.recent_updates (9) +'''
+              </div>
             </div>
           </div>
         </div>

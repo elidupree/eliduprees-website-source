@@ -113,10 +113,7 @@ a.stream_media_reference img {
   width: 8.2em;
 
   vertical-align: top; }
-a.stream_media_reference:hover {
-position: relative;
-z-index: 90;
-overflow: visible;}
+a.stream_media_reference:hover {text-decoration: underline;}
 
 div.post_content_section {
   margin-top:'''+str(post_vertical_separation)+'''em;
