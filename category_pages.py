@@ -10,15 +10,13 @@ import blog
 
 css.insert('''
 div.category_page_bottom { clear:both; }
-div.recent_pages {
-  margin-top:'''+str(blog.post_vertical_separation)+'''em;
-  text-align: center; }
 a.exhibit {
   display: block;
   clear:both;
   background: white;
   background: rgba(255,255,255,0.9);
-  margin: 3em 1em;
+  margin: 3em 1em;  
+  margin-top: 7em;
   text-align: center;
   text-decoration: none; }
 a.exhibit.fadeout {
@@ -51,48 +49,6 @@ div.exhibit_start_reading {
   text-decoration: underline; }
 a.exhibit.fadeout>div.exhibit_start_reading {
   margin-top: -2em; }
-div.recent_updates_header {
-  height: 0;
-  overflow: visible; }
-h1.recent_updates_header {
-  padding: 0;
-  padding-top: 1em;
-  padding-right: 3.5em;
-  z-index: 999;
-  position: relative;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  pointer-events: none;
-  color: rgba(255,255,255,.9); }
-a.recent_update:hover div.recent_update {
-  background-color: #ffff66; }
-a.recent_update {
-  display: block; }
-div.recent_update_outer {
-  max-width: 30em;
-  padding: 0 '''+str(blog.post_vertical_separation)+'''em;
-  margin: 2px auto; }
-div.recent_update {
-  background-color:'''+blog.metacontent_color_IE8+''';
-  background-color:'''+blog.metacontent_color+''';
-  border-radius: 0.6em;
-  font-weight: bold;
-  float: right;
-  clear: both;
-  padding: 0 0.5em;
-  font-family: Arial, Helvetica, sans-serif; }
-div.recent_update_end {
-  clear:both; }
-div.recent_update>img {
-  width: 9em;
-  height: 2.34em; }
-@media screen and (max-width: 40em) {
-  h1.recent_updates_header { font-size: 200%; }
-}
-@media screen and (max-width: 30em) {
-  div.recent_update>img { display: none; }
-  h1.recent_updates_header { padding-top: 0.5em; }
-}
 
 img.exhibit {
   display: block;
@@ -111,8 +67,6 @@ img.exhibit.vc {
   width: 300px;
   height: 400px;
   border-radius: 2em 8em; }
-a.exhibit {
-  margin-top: 7em; }
 img.exhibit.paws {
   border-radius: 1.5em 1.5em; }
 img.exhibit.acobs {
@@ -137,7 +91,8 @@ img.exhibit.greencaves {
   border-radius: 2em 8em; }
 @media screen and (max-width: 45em) {
   a.exhibit {
-    margin: 2em 0; }
+    margin: 2em 0;
+    margin-top: 7em; }
   img.exhibit {
     padding: 0.8em;
     margin-bottom: 1em; }
@@ -163,9 +118,6 @@ span.title { font-style: italic; }
 import html_pages
 import bars
 
-def recent_page_link(num):
-  return comics.recent_page_link(num)
-
 def add_category_pages(page_dict):
   def exhibit (href, classes, thumbnail, blurb, enter_text):
     return ('''<a href="'''+href +'''" class="exhibit '''+ classes +'''">'''+
@@ -180,16 +132,6 @@ def add_category_pages(page_dict):
       <div><img role="presentation" alt="" class="background" src="/media/colorful-background.jpg?rr" /></div>
       '''+bars.bars_wrap({"comics":True}, '''<main>
   <div id="content">
-    <div class="recent_pages">
-      <div class="recent_updates_header">
-        <h1 class="recent_updates_header">Recent updates...</h1>
-      </div>
-      '''+recent_page_link(0)+'''
-      '''+recent_page_link(1)+'''
-      '''+recent_page_link(2)+'''
-      '''+recent_page_link(3)+'''
-      '''+recent_page_link(4)+'''
-    </div>
     '''+ exhibit ("/voldemorts-children", "vc left", "/media/VC_0.png?rr",'''
         <p>What if Dumbledore's idea of placing Harry Potter with an abusive family didn't turn out so well?</p>
         <span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.''', "Start reading") +

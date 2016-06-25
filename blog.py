@@ -633,21 +633,24 @@ def post_dict_html(post_dict, stream_only = False):
     head = head + post_dict ["head"]
   return (body, head)  
 
-def stream_entry (post):
+def very_stream_entry (post):
   if "contents" in post:
-    if post ["category"] == "stories":
-      return ('''
+    return '''
 <div class="stream_media_reference_outer">
-  <a class="stream_media_reference" href="'''+ post_permalink (post) + '">New story: ' + post ["title"] + '''</a>
-</div>''', "")
-    else:
-      (body, head) = post_dict_html (post, True)
-      return ('<article>'+ body +'</article>', head)
+  <a class="stream_media_reference" href="'''+ post_permalink (post) + '">New ' + ("story" if post ["category"] == "stories" else "blog post") + ': ' + post ["title"] + '''</a>
+</div>'''
   else:
-    return ('''
+    return '''
 <div class="stream_media_reference_outer">
   <a class="stream_media_reference" href="'''+ comics.page_url  (post) + '"> <img src="'+ comics.comic_image_url (post, "thumbnail_full") +'" alt=""> New comic: ' + post ["title"] + '''</a>
-</div>''', "")
+</div>'''
+
+def stream_entry (post):
+  if "contents" in post and post ["category"] != "stories":
+    (body, head) = post_dict_html (post, True)
+    return ('<article>'+ body +'</article>', head)
+  else:
+    return (very_stream_entry (post), "")
 
 
 def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True, allow_comments = True):
@@ -901,6 +904,9 @@ consider_list_for_current_page (blog_posts.posts ["stories"])
 current_blog_page_extras.reverse ()
 current_blog_page = sorted (current_blog_page_extras + current_blog_page, key = date_posted)
 page_lists ["blog"] [len (page_lists ["blog"])-1] = current_blog_page
+
+def recent_updates (how_many):
+  return "".join ([very_stream_entry (post) for post in reversed (current_blog_page)] [0: how_many]);
 
 def add_list_pages (page_dict, page_list, prefix, title, identifier):
   for page_number in range (0,len( page_list)):

@@ -315,16 +315,8 @@ def comic_image_url(page, ext = ''):
     ext = ''
   return '/media/'+meta["abbr"]+'_'+str(page["list_index"]+meta["image_url_offset"])+ext+'.png?rr'
 
-def comic_thumbnail_url(page):
-  print ("comic_thumbnail_url is deprecated")
-  return '/media/'+comics_metadata[page["comic_id"]]["abbr"]+'_'+str(page["list_index"])+'_thumbnail_top.png?rr'
-
 def last_comic_thumbnail_url():
-  return comic_thumbnail_url(comics_pages["voldemorts_children"][len(comics_pages["voldemorts_children"]) - 1])
-
-def recent_page_link(deduction):
-  page = comics_pages["voldemorts_children"][len(comics_pages["voldemorts_children"]) - 1 - deduction]
-  return '<a class="recent_update" href="'+page_url(page)+'"><div class="recent_update_outer"><div class="recent_update"><img src="'+comic_thumbnail_url(page)+'" alt="" /> '+page["title"]+'</div></div><div class="recent_update_end"></div></a>'
+  return comic_image_url (comics_pages["voldemorts_children"][len(comics_pages["voldemorts_children"]) - 1], "thumbnail_top")
 
 
 def do_css_for_comic(comic_id):

@@ -5,7 +5,7 @@ from __future__ import division
 
 import css
 import top_bar
-import html_pages
+import blog
 import utils
 import exmxaxixl
 
@@ -97,6 +97,8 @@ div.home_page_buffer span.top_bar_home_text {
   text-align: center;
   font-size: 150%;
   padding: 0; }
+div.home_page_outer h2 {font-size: 150%; font-weight: bold; margin-top: 2em;}
+div.home_page_outer a.stream_media_reference {background-color: white;}
   
 @media screen and (max-height: 34em) {
   div.home_page_buffer div.top_bar_home {
@@ -222,6 +224,8 @@ def add_home_page(page_dict):
           <div class="home_page_bottom">
             <div class="home_page_bottom_inner">
               '''+bottom_bar_contents(info)+'''
+              <h2> Recent updates</h2>
+              '''+ blog.recent_updates (9) +'''
             </div>
           </div>
         </div>
