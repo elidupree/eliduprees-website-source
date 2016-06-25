@@ -470,10 +470,8 @@ def string_to_date(d):
 def convert_for_json(posts_metadata, modify_date):
   result = copy.deepcopy(posts_metadata)
   for k in result:
-    if "date_modified" in result[k]:
-      result[k]["date_modified"] = modify_date(result[k]["date_modified"])
-    if "date_posted" in result[k]:
-      result[k]["date_posted"] = modify_date(result[k]["date_posted"])
+    result[k]["date_posted"] = modify_date(result[k]["date_posted"])
+    result[k]["date_modified"] = modify_date(result[k]["date_modified"])
   return result
 
 def encode_for_json(posts_metadata):
@@ -516,21 +514,31 @@ def remember_post_dict_entry(index, metadata, post_dict):
 def post_metadata(post_dict):
   changed_metadata = False
   if post_dict["title"] not in posts_metadata:
+    date_posted =(post_dict["force_date"] if ("force_date" in post_dict) else datetime.date.today())
     posts_metadata[post_dict["title"]] = {
       "id": (post_dict["force_id"] if ("force_id" in post_dict) else hex(random.SystemRandom().getrandbits(128))[2:-1]),
-      "date_posted": (post_dict["force_date"] if ("force_date" in post_dict) else datetime.date.today()),
+      "date_posted": date_posted,
+      "date_modified": date_posted,
     }
     changed_metadata = True
   metadata = posts_metadata[post_dict["title"]]
   
-  if remember_post_dict_entry("contents", metadata, post_dict):
-    changed_metadata = True
-  if remember_post_dict_entry("transcript", metadata, post_dict):
-    changed_metadata = True
-  if remember_post_dict_entry("annotation", metadata, post_dict):
-    changed_metadata = True
+  if False: #deploying
+    if remember_post_dict_entry("contents", metadata, post_dict):
+      changed_metadata = True
+    if remember_post_dict_entry("transcript", metadata, post_dict):
+      changed_metadata = True
+    if remember_post_dict_entry("annotation", metadata, post_dict):
+      changed_metadata = True
+    if "deployed" not in metadata:
+      if "force_date" not in post_dict:
+        metadata ["date_posted"] = datetime.date.today ()
+        metadata ["date_modified"] = datetime.date.today ()
+      else:
+        metadata ["date_modified"] = (datetime.date.today () if "edited_significantly_from_old_website" in post_dict else post_dict ["force_date"])
+      metadata ["deployed"] = True
+      changed_metadata = True
   
-  # allow me to set force_date later
   if ("force_id" in post_dict) and (metadata["id"] != post_dict["force_id"]):
     metadata["id"] = post_dict["force_id"]
     changed_metadata = True
