@@ -10,6 +10,7 @@ import shutil
 import subprocess
 import locale
 import re
+import time
 
 # always UTF-8, even on windows
 # the exec line seemingly didn't work, so:
@@ -140,6 +141,7 @@ Disallow: /''')
     idupree_websitepy.build.build(config)
     subprocess.check_call(['/usr/bin/sudo', '/bin/systemctl',
       'reload-or-try-restart', 'nginx.service'])
+    time.sleep(1)
     idupree_websitepy.tests.test(config)
 
 if __name__ == '__main__':
