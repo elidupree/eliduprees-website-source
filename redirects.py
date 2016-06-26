@@ -41,6 +41,18 @@ old_website_conversions = {
   "green_caves_game.html": "games/green-caves",
   "as-yet-untitled-story.html": "stories/will-you-try-to-escape",
   "will-you-try-to-escape.html": "stories/will-you-try-to-escape",
+  "hexy-thank-you": "hexy",
+  "temporary_hexy_bondage_distribution.html": "hexy",
+  "pac-asteroids.html": "games/pac-asteroids",
+  "pac-asteroids-first.html": "games/pac-asteroids",
+  "hpmor_ending": "TODO",
+  "colby_stuff/how_I_experienced_the_four_o_clock_discourse.png": "TODO",
+  "colby_stuff/2011_11_06.png": "TODO",
+  "colby_stuff/2011_11_07.png": "TODO",
+  "main/posts/latest/voldemort's-children": "TODO",
+  "main/posts/latest/a-couple-of-badass-superheroes": "TODO",
+  "main/archives/a-couple-of-badass-superheroes": "a-couple-of-badass-superheroes/archive",
+  "main/archives/voldemort's-children": "voldemorts-children/archive",
   
   
   
