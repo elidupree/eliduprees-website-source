@@ -12,7 +12,38 @@ def add_redirect(page_dict, from_path, to_path):
   return
 
 old_website_conversions = {
+  "main": "",
+  "main/blog": "blog",
+  "main/latest_comic_and_blog": "blog",
+  "main/index": "",
+  "main/atom.xml": "atom.xml",
+  "main/tags/stories": "stories",
+  "main/tags/games": "games",
+  "main/tags/comic-pages": "comics",
+  "main/tags/major-announcements-about-eli's-life": "blog/tags/announcements",
+  "main/tags/posts-about-gender": "blog/tags/gender",
+  "main/tags/posts-about-neurodiversity": "blog/tags/neurodiversity",
+  "main/tags/posts-about-age-and-ageism": "blog/tags/ageism",
+  "main/tags/posts-about-sex-and-sexuality": "blog/tags/sex",
+  "main/tags/posts-about-writing": "blog/tags/writing",
+  "main/tags/posts-about-other-philosophical-stuff": "blog/tags/philosophical",
+  "main/tags/posts-about-visual-art": "blog/tags/visual-art",
+  "main/tags/posts-about-mathematics": "blog/tags/math",
+  "main/tags/posts-about-computer-programming": "blog/tags/programming",
+  "main/tags/posts-about-crass-physical-reality": "blog/tags/crass-physical-reality",
+  "main/tags/posts-about-lasercake": "blog/tags/lasercake",
+  "main/tags/recommendations-of-other-websites": "blog/tags/other-websites",
+  "main/tags/posts-about-the-website-itself": "blog/tags/this-website",
+  "main/tags/posts-about-the-graphics-editing-project": "blog/tags/the-graphics-editing-project",
+  "main/tags/pages-of-a-couple-of-badass-superheroes": "a-couple-of-badass-superheroes/archive",
+  "main/tags/pages-of-voldemort's-children": "voldemorts-children/archive",
+  "main/stories/121-not-what-i-am": "stories/not-what-i-am",
   "green_caves_game.html": "games/green-caves",
+  "as-yet-untitled-story.html": "stories/will-you-try-to-escape",
+  "will-you-try-to-escape.html": "stories/will-you-try-to-escape",
+  
+  
+  
   "main/posts/1-the-epic-first-post": "blog/the-epic-first-post",
   "main/posts/6-user-comment": "blog/the-epic-first-post",
   "main/posts/7-user-comment": "blog/the-epic-first-post",
