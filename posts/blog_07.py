@@ -75,7 +75,7 @@ posts = [
 
 <p>Of course, the bigger point is that, well, "good prose" really <em>is</em> incredibly subjective.</p>
 
-<p>But first, I'm going to jump back to the smaller point. Because I think the smaller point really <em>does</em> show why people might think that "good prose" isn't subjective. Because <em>if you believe that everybody thinks in the same way, then you will believe that the same prose is good for everyone</em>. And so it privileges one way of thinking over all the others. An attitude that privileges "normal" thinking is the opposite of neurodiversity; it's <strong>neurelitism</strong>.</p>
+<p>But first, I'm going to jump back to the smaller point. Because I think the smaller point really <em>does</em> show why people might think that "good prose" isn't subjective. Because <em>if you believe that everybody thinks in the same way, then you will believe that the same prose is good for everyone</em>. And so it privileges one way of thinking over all the others. An attitude that privileges "normal" thinking is a form of neurelitism.</p>
 
 <p>Now, let me tell you how subjective prose is!</p>
 

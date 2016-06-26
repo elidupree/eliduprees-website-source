@@ -61,13 +61,13 @@ def neurodiversity_link(post_string):
   quote_levels = 0
   pieces = []
   amount_of_original_string_used = 0
-  for match in re.finditer(r"<.*?>|neurodiversity", post_string, re.IGNORECASE):
+  for match in re.finditer(r"<.*?>|neurodiversity|neurelitist|neurelitism|neurovariant|neurodivergent", post_string, re.IGNORECASE):
     if match.group(0).lower() == "<q>" or match.group(0).lower() == "<blockquote>":
       quote_levels += 1
     elif match.group(0).lower() == "</q>" or match.group(0).lower() == "</blockquote>":
       quote_levels -= 1
     elif quote_levels == 0:
-      if match.group(0).lower() == "neurodiversity":
+      if match.group(0) [0] != "<":
         pieces.append(post_string[amount_of_original_string_used:match.start(0)])
         pieces.append('<a href="/blog/neurodiversity">'+match.group(0)+'</a>')
         amount_of_original_string_used = match.end(0)
