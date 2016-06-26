@@ -133,9 +133,28 @@ Disallow: /''')
       test_canonical_origin = utils.canonical_scheme_and_domain,
       test_status_codes = {
         '/': 200,
+        "/blog": 200,
+        "/comics": 200,
+        "/stories": 200,
+        "/games": 200,
+        "/voldemorts-children": 200,
+        "/voldemorts-children/archive": 200,
+        "/voldemorts-children/5": 200,
+        "/games/green-caves": 200,
+        "/blog/tags/gender": 200,
+        "/blog/page/3": 200,
+        "/blog/page/3/chronological": 200,
+        "/stories/not-what-i-am": 200,
+        "/stories/not-what-i-am/discussion": 200,
+        "/games/pac-asteroids": 200,
         '/blog/happy-tau-day': 200,
         '/hexy': 200,
+        "/main/blog": 301,
+        "/main/posts/1-the-epic-first-post": 301,
+        "/EoHS": 301,
         '/sdhofhnkfjdsdsf': 404,
+        "/blog/gibberish-gibberish": 404,
+        "/404": 404,
       }
       )
     idupree_websitepy.build.build(config)
