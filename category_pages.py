@@ -154,28 +154,10 @@ def add_category_pages(page_dict):
       <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg?rr" /></div>
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
-    <a href="http://lasercake.net/" class="exhibit lasercake successor">
-      <img class="exhibit lasercake left" alt="" src="/media/lasercake-snapshot-progressive.jpg?rr" />
-      <div class="exhibit_blurb">
-        Lasercake, an (early prototype of an) open-world game about the environment.
-      </div>
-      <div class="exhibit_start_reading">Go to website</div>
-    </a>
-    <a href="/hexy" class="exhibit hexy successor">
-      <img class="exhibit hexy right" alt="" src="/media/hexy_bondage_page_background.jpg?rr" />
-      <div class="exhibit_blurb">
-        Hexy Bondage, a sexual board game for two or more players.
-      </div>
-      <div class="exhibit_start_reading">Go to website</div>
-    </a>
-    <a href="/games/green-caves" class="exhibit greencaves successor">
-      <img class="exhibit greencaves left" alt="" src="/media/green-caves-screenshot.png?rr" />
-      <div class="exhibit_blurb">
-        A simple online game where you fly around in some green caves.
-      </div>
-      <div class="exhibit_start_reading">Play now</div>
-    </a>
-    <div class="category_page_bottom"></div>
+    '''+ exhibit ("http://lasercake.net/", "lasercake left", "/media/lasercake-snapshot-progressive.jpg?rr", '''Lasercake, an (early prototype of an) open-world game about the environment.''', "Go to website")
+    + exhibit ("/hexy", "hexy right", "/media/hexy_bondage_page_background.jpg?rr", '''Hexy Bondage, a sexual board game for two or more players.''', "Go to website")
+    + exhibit ("/games/green-caves", "greencaves left", "/media/green-caves-screenshot.png?rr", '''A simple online game where you fly around in some green caves.''', "Play now")
+    +'''<div class="category_page_bottom"></div>
   </div>
 </main>''')
   )
