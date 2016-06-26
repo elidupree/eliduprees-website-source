@@ -3,6 +3,7 @@
 
 import utils
 import bars
+import blog
 	  
 def add_game(page_dict):
   utils.make_page (page_dict,
@@ -12,11 +13,13 @@ def add_game(page_dict):
     <style type="text/css">
 html,body { height: 100%; margin: 0; padding: 0; background-color: #50d050 }
 div,canvas { margin: 0; padding: 0; }
+div.green_caves_content {text-align: center;}
+div.green_caves_content .comments_section {display: inline-block;}
 p {text-align: center; font-size: 120%;}
     </style>''',
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main>
-      
+      <div class="green_caves_content">
     <div style="min-height: 50%;"><div style="min-height: 390px"></div></div><div style=" margin-top:-390px">
       <p>You are surrounded by endless caves.</p>
       <p>Will you explore peacefully, doing as little damage as possible? Or will you destroy everything in sight?</p>
@@ -27,7 +30,10 @@ Your browser does not support the canvas element.
     </canvas></div>
   <p class="hidden_from_restricted_users">If you like this game, consider <a href="https://www.patreon.com/EliDupree">supporting me on Patreon</a> so that I can continue making awesome things and sharing them for free on the Internet.</p>
   <p> The current version of this game is part of the <a href="https://github.com/elidupree/Lasercake">Lasercake project</a>, and it is licensed under the GNU AGPL. It was compiled as of <a href="https://github.com/elidupree/Lasercake/commit/38117543a3f4d864d8544980c317eb311b4b83ba">this commit</a>.</p>
+    '''+blog.comments_section("green_caves")+'''
 
+    </div>
+    
    
 </main>''')+''' <script type="text/javascript">
       Module = {};

@@ -604,9 +604,9 @@ def comments_section(parent):
   <div class="comments_section" id="comments">
     '''+('<h2 class="comments_title">Comments</h2>' if (cnum > 0) else '')+'''
     <div class="all_comments" id='''+parent+'''>'''+chtml+'''</div>
+    <a href="javascript:;" class="direct_comment" id="make_reply_button_'''+parent+'''">Leave a comment</a>
+    <div class="make_reply_box" id="make_reply_box_'''+parent+'''"></div>
   </div>
-  <a href="javascript:;" class="direct_comment" id="make_reply_button_'''+parent+'''">Leave a comment</a>
-  <div class="make_reply_box" id="make_reply_box_'''+parent+'''"></div>
 '''
 
 def hidden_cw_box(contents):

@@ -3,12 +3,15 @@
 
 import utils
 import bars
+import blog
 	  
 def add_game(page_dict):
   utils.make_page (page_dict,
     '/games/pac-asteroids',
       "Pac-Asteroids ⊂ Eli Dupree's website",
-      r'''
+      r'''<style type="text/css">
+html,body {background-color: white;}
+    </style> 
     <script type="text/javascript">
 Math.TAU = Math.PI*2;
 $(function(){
@@ -310,7 +313,8 @@ $(function(){
 
     <div style=" width:640px; margin: 0 auto">    <div id="info"></div><canvas id="game_canvas" width="640" height="480">
 Your browser does not support the canvas element.
-    </canvas></div>
+    </canvas>
+    '''+ blog.comments_section ("pac_asteroids") +''' </div>
   </div>
 </main>'''), {"jQuery_before": True}
   )
