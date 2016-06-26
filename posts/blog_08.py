@@ -85,7 +85,7 @@ posts = [
 
 <p>A couple of days ago, someone posted some evil, rape-excusing statements on one of my college's student/faculty/staff mailing lists. I won't talk about it much here, because I have a policy of not repeating evil things on this blog. However, it inspired me to draw this!</p>
 
-<p><a href="/media/affirmative-consent-poster.png?rr">A brief introduction to affirmative consent.</a></p>
+<p><a href="/media/affirmative-consent-poster.png">A brief introduction to affirmative consent.</a></p>
 
 <p>(That's a link to an image (I'm putting it behind a link because it's fairly large). Click the link to see it. A transcript of that image is below.)</p>
 
