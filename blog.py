@@ -880,7 +880,7 @@ def page_list_sidebar (page_list, header, tags_string = ""):
 
 sidebars = {}
 sidebars [""] = MailChimp_form + Patreon_link
-sidebars ["stories"] = sidebar_with_entries ([index_entry_html (post) for post in blog_posts.posts ["stories"]],'<div class=" index_page_entry"><a href="/stories">Stories</a></div>', "[Random story] ")
+sidebars ["stories"] = sidebar_with_entries ([blog_posts.stories_index (False)],'<div class=" index_page_entry"><a href="/stories">Stories</a></div>', "[Random story] ")
 sidebars ["blog"] = page_list_sidebar (page_lists ["blog"], '<div class=" index_page_entry"><a href="/blog">Latest blog posts</a></div>')
 for tag in tags.tags:
   tags_string ='/tags/'+utils.format_for_url(tag)
