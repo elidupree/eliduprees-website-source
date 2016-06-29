@@ -175,11 +175,6 @@ def add_category_pages(page_dict):
       '''+ utils.background_image () +'''
       '''+bars.bars_wrap({"stories":True}, '''<main>
   <div id="content">'''+ blog_posts.stories_index (True) +'''
-    <a class="exhibit successor">
-      <div class="exhibit_blurb">
-        More stories coming at some point in the future
-      </div>
-    </a>
     <div class="category_page_bottom"></div>
   </div>
 </main>''')

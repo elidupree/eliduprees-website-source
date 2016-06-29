@@ -24,6 +24,9 @@ li { margin-left: 1.2em; }
 .big_list>li { margin: 0.9em; margin-left: 1.2em; }
 a:link { color:blue }
 a:visited { color:purple }
+.restore_link {text-decoration: underline;}
+a:link .restore_link { color:blue }
+a:visited .restore_link { color:purple }
 img.background {
 /* Using an img rather than "background-image:" because more browsers
 render progressive JPEGs progressively for non-background images */
