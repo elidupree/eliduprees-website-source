@@ -7,10 +7,11 @@ import utils
 import css
 import comics
 import blog
+import blog_posts
 
 css.insert('''
 div.category_page_bottom { clear:both; }
-a.exhibit {
+.exhibit {
   display: block;
   clear:both;
   background: white;
@@ -118,18 +119,21 @@ span.title { font-style: italic; }
 import html_pages
 import bars
 
-def add_category_pages(page_dict):
-  def exhibit (href, classes, thumbnail, blurb, enter_text):
-    return ('''<a href="'''+href +'''" class="exhibit '''+ classes +'''">'''+
+def exhibit (href, classes, thumbnail, blurb, enter_text):
+    return (
+    (('''<a href="'''+href +'''" class="exhibit '''+ classes +'''">''') if  href else '<div class="exhibit">') +
       ('<img class="exhibit ' + classes + '" alt="" src="' + thumbnail + '" />' if thumbnail else '') +
-      '<div class="exhibit_blurb">' + blurb + '</div><div class=" exhibit_start_reading">' + enter_text + '</div></a>')
-  
+      '<div class="exhibit_blurb">' + blurb + '</div>' +
+      ('<div class=" exhibit_start_reading">' + enter_text + '</div>' if enter_text else '') + 
+    ('</a>' if  href else '</div>') )
+
+def add_category_pages(page_dict):  
   utils.make_page (page_dict,
     '/comics',
       "Comics ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
-      <div><img role="presentation" alt="" class="background" src="/media/colorful-background.jpg?rr" /></div>
+      '''+ utils.background_image () +'''
       '''+bars.bars_wrap({"comics":True}, '''<main>
   <div id="content">
     '''+ exhibit ("/voldemorts-children", "vc left", "/media/VC_0.png?rr",'''
@@ -151,7 +155,7 @@ def add_category_pages(page_dict):
       "Games ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
-      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg?rr" /></div>
+      '''+ utils.background_image () +'''
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
     '''+ exhibit ("http://lasercake.net/", "lasercake left", "/media/lasercake-snapshot-progressive.jpg?rr", '''Lasercake, an (early prototype of an) open-world game about the environment.''', "Go to website")
@@ -168,33 +172,9 @@ def add_category_pages(page_dict):
       "Stories ⊂ Eli Dupree's website",
       '',
       '''<a class="skip" href="#content">Skip to content</a>
-      <div><img role="presentation" alt="" class="background" src="/media/blog-background.jpg?rr" /></div>
+      '''+ utils.background_image () +'''
       '''+bars.bars_wrap({"stories":True}, '''<main>
-  <div id="content">
-    <a href="/stories/not-what-i-am" class="exhibit nwia successor">
-      <img class="exhibit nwia left" alt="" src="/media/NWIA_thumbnail.png?rr" />
-      <div class="exhibit_blurb">
-        <h1>Not What I Am</h1>
-        An out-of-place middle schooler tries to find zir way in the world.
-      </div>
-      <div class="exhibit_start_reading">Start reading</div>
-    </a>
-    <a href="/stories/capitalism-sat" class="exhibit fadeout successor">
-      <img class="exhibit_fadeout" alt="" src="/media/fade-to-black.png?rr" />
-      <div class="exhibit_blurb">
-        <h1>Capitalism Sat</h1>
-        <p>...in Plato's cave, watching the shadows. Outside, ze knew, there were people buying and selling. Capitalism saw them trading goods for goods, services for services. And oh, most beautiful of all, the exchange of goods for services, whereon the economy turns. What supplies! What demand! Capitalism blushed to think of it all.</p>
-
-<p>And then zir chains were loosed. Ze turned, a breath half indrawn, barely daring to hope. Ze rushed out into the open air, eager to offer zir labor on the open market for a fair value...</p>
-      </div>
-      <div class="exhibit_start_reading">Keep reading</div>
-    </a>
-    <a class="exhibit successor">
-      <img class="exhibit left" alt="" src="/media/NWIA_thumbnail.png?rr" />
-      <div class="exhibit_blurb">
-        More stories coming at some point in the future
-      </div>
-    </a>
+  <div id="content">'''+ blog_posts.stories_index (True) +'''
     <div class="category_page_bottom"></div>
   </div>
 </main>''')

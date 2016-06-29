@@ -5,6 +5,8 @@ from __future__ import division
 
 
 import re
+import html
+
 import css
 import html_pages
 
@@ -17,8 +19,8 @@ inline_separator = '<span class="inline_separator"> &#8231; </span>'
 # TODO 'https://www.elidupree.com':
 canonical_scheme_and_domain = 'http://www.elidupree.com'
 
-def background_image (name):
-  return '<div><img role="presentation" alt="" class="background" src="/media/' + (name if name else 'colorful-background.jpg') + '?rr" /></div>'
+def background_image (name ='colorful-background.jpg'):
+  return '<div><img role="presentation" alt="" class="background" src="/media/' + name + '?rr" /></div>'
 
 def capitalize_string(string):
   if len(string) == 0:
@@ -27,6 +29,9 @@ def capitalize_string(string):
 
 def strip_tags(string):
   return re.sub(r"<.+?>","",string)
+
+def word_count (string):
+  return len(re. findall (r"\w[\w']*", html.unescape (strip_tags (string))))
 
 def format_for_url(string):
    # ,.!$+*'() are allowed in URLs, but I've ommitted them because they will almost always just make the URL look ugly, and some programs omit them from automatically linkified text URLs if they're at the end.
