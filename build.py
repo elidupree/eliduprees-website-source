@@ -93,7 +93,24 @@ Disallow: /''')
   comics.add_comic_pages(page_dict)
   rss.add_feed(page_dict)
   redirects.add_redirects(page_dict)
-
+  
+  reached_pages = {}
+  orphaned_pages = {}
+  def reach_page (path):
+    if path in page_dict and path not in reached_pages:
+      reached_pages [path] = True
+      for destination in re.finditer ('href="(.+?)"', page_dict [path]):
+        reach_page (destination.group (1) + ".html")
+  reach_page ("/index.html")
+  def find_orphaned_pages ():
+    for path,contents in page_dict.items():
+      if path.endswith (".html") and path not in reached_pages:
+        reach_page (path)
+        orphaned_pages [path] = True
+  find_orphaned_pages ()
+  print ("Orphaned pages:")
+  print (orphaned_pages)
+  
   for path,contents in page_dict.items():
     if False and path.endswith(".html"):
       from py_w3c.validators.html.validator import HTMLValidator
