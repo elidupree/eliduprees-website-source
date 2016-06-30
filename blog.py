@@ -936,7 +936,8 @@ def add_list_pages (page_dict, page_list, prefix, title, identifier):
   </div>'''
 
           entries = [stream_entry (post_dict ) for post_dict in (page if page_order == "/chronological" else reversed(page))]
-          utils.make_page (page_dict,
+          if page_order != "/chronological" or len (page_list) >1 or len (page) >1:
+            utils.make_page (page_dict,
             prefix +url_pagenum_string+page_order,
               title +" ⊂ Eli Dupree's website",
               "".join ([entry [1] for entry in entries]),
