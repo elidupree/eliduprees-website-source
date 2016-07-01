@@ -505,7 +505,7 @@ The left half is a complicated metaphorical image. Albus Dumbledore is sitting i
 
 <p>I don't know if Dumbledore's wand is the Elder Wand; it doesn't matter in this story.</p>
 
-<p>The triskelion on the floor definitely <em>isn't</em> the <a href="https://en.wikipedia.org/wiki/BDSM#Symbols">BDSM emblem<a> (parts of linked page NSFW); BDSM is consensual by definition, and the relationships between these characters... aren't. So I deliberately made the arms spiral in the opposite direction from the emblem.</p>""",
+<p>The triskelion on the floor definitely <em>isn't</em> the <a href="https://en.wikipedia.org/wiki/BDSM#Symbols">BDSM emblem</a> (parts of linked page NSFW); BDSM is consensual by definition, and the relationships between these characters... aren't. So I deliberately made the arms spiral in the opposite direction from the emblem.</p>""",
 },
 {
   "force_id":"545037a8c4798174e133db95242df7dd",
@@ -1611,7 +1611,7 @@ DRACO: Zabini, don't you dare! I'll&ndash; I'll&ndash;<br/>
 Zabini smiles.<br/>
 ZABINI: Is that a threat I hear? From Malfoy the deserter? You screamed like a little Muggle when we came for you...<br/>
 Draco is pointing zir wand at Zabini angrily, and crying.<br/>
-ZABINI: And... you! I'm not even going to dirty my lips with your name&ndash;</br>
+ZABINI: And... you! I'm not even going to dirty my lips with your name&ndash;<br/>
 LUNA: I'm okay with whatever you want to say about me!<br/>
 ZABINI: Well, you&ndash; You're&ndash;<br/>
 Zabini swings zir wand towards Luna; the fire streaks brightly, and it becomes clear that dark creature-like shapes are forming in it.<br/>
@@ -1641,7 +1641,7 @@ On the right side:<br/>
 PRESENT HARRY: And now the moment had come... The moment to bring and end to this all...<br/>
 The room is a fiery haze. Harry and Dumbledore are silhouettes.<br/>
 DUMBLEDORE: Harry... I'm... sorry...<br/>
-HARRY: Avada Ke&ndash; Avada&ndash;</br>
+HARRY: Avada Ke&ndash; Avada&ndash;<br/>
 The first few letters of the incantation glow like casting a spell, but then the glow disappears. Harry looks down at Dumbledore, anguished.<br/>
 <br/>
 On the left side of the page:<br/>
