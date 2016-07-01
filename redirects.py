@@ -38,6 +38,7 @@ old_website_conversions = {
   "main/tags/pages-of-a-couple-of-badass-superheroes": "a-couple-of-badass-superheroes/archive",
   "main/tags/pages-of-voldemort's-children": "voldemorts-children/archive",
   "main/stories/121-not-what-i-am": "stories/not-what-i-am",
+  "main/stories/121-not_what_i_am": "stories/not-what-i-am",
   "green_caves_game.html": "games/green-caves",
   "as-yet-untitled-story.html": "stories/will-you-try-to-escape",
   "will-you-try-to-escape.html": "stories/will-you-try-to-escape",
@@ -436,9 +437,23 @@ conveniences = {
 def add_redirects(page_dict):
   for from_path, to_path in old_website_conversions.items():
     add_redirect(page_dict, '/'+from_path, '/'+to_path)
-    e = re.sub("'", "%27", from_path)
-    if e != from_path:
-      add_redirect(page_dict, '/'+e, '/'+to_path)
+    for (pattern, replace) in [
+        ("'", ""),
+        ("'.*", ""),
+        ("'", "%27"),
+        ("'", "%2527"),
+        ("'", "%5C'"),
+        ("'", "%5C%27"),
+        ("'", "/'"),
+        ("'", r"\'"),
+        (r"\+", ""),
+        (r"\+.*", ""),
+        (r"\+", "%20"),
+        (r"\+", "%2B"),
+        ]:
+      e = re.sub (pattern, replace, from_path)
+      if e != from_path:
+        add_redirect(page_dict, '/'+e, '/'+to_path)
   for from_path, to_path in conveniences.items():
     add_redirect(page_dict, '/'+from_path, to_path)
 
