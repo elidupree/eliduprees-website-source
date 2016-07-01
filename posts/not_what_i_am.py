@@ -7,6 +7,7 @@ posts = [
 {
   "title":"Not What I Am",
   "blurb": "An out-of-place middle schooler tries to find zir way in the world.",
+  "force_date":datetime.date(2011, 10, 7),
   "contents": '''
 <p style="font-size: 200%; text-align: center">a novella</p>
 <p style="font-size: 150%; text-align: center">by Eli Dupree</p>
