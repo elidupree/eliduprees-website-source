@@ -129,41 +129,46 @@ posts = [
   "force_id":"d380bdb29cbaf83d20300131b4f3fb3f",
   "force_date":datetime.date(2011, 6, 15),
   "tags":["ageism","this website"],
+  "edited_significantly_from_old_website": True,
   "contents":'''
 
-<p>Ahem. This will be a policy of my website. I intend to make my website appropriate for all ages of viewers, or at least, all ages that are likely to be able to use a web browser. Being appropriate for children implies a lot of different things, so I'm making this post to outline the most important ones.</p>
+<p>Ahem. This will be a policy of my website. I intend to make my website appropriate for all ages of viewers, or at least, all ages that are likely to be able to use a web browser. That implies a lot of different things, so I'm making this post to outline the most important ones.</p>
 
 <p><strong>#1. Words like "fuck" and "shit"<footnote((By the way, if you're a child, and the people around you have been <em>rude</em> enough not to tell you what "fuck" and "shit" mean, you can find good descriptions on the Wikipedia pages for them &ndash; <a href="http://en.wikipedia.org/wiki/Fuck">fuck</a>, <a href="http://en.wikipedia.org/wiki/Shit">shit</a>.))> are totally acceptable here, because nothing's worse for children than censorship.</strong></p>
 
-<p>This is hardly the most important rule, but it's a good one to set the tone of this post. Being child-friendly means treating children with respect; it means treating them as independent human beings. When an adult tells you not to say certain words, that adult is not respecting you. Ze is saying that zir own opinion is more important than yours. Even if the adult lets you say what you want, but avoids "bad" words around you (and by the way, there's nothing <em>bad</em> about swearing), the adult is doing that for zir own benefit, not yours. Ze is trying to influence what you say and think, because ze thinks you're more "innocent" that way. That's not helpful; it's patronizing, and condescending.</p>
+<p>This is hardly the most important rule, but it's a good one to set the tone of this post. Being child-friendly means treating children with respect. It means treating them as independent human beings. When an adult tells you not to say certain words, that adult is not respecting you. Ze is saying that zir own opinion is more important than your freedom to say what you feel like saying.</p>
+
+<p>This can take subtler forms, too. Some adults try to <cut>avoid saying swear words around children, so that the children won't learn them. They believe that this somehow keeps the children more "innocent". This doesn't hurt anyone, but it is not helpful to children either. Only adults want this. It is not good to try to influence how children act just because some adults like it better that way. </p>
 
 <p>We live in a world where adults tell outright <em>lies</em> to children because they think it's <em>cute</em>.<footnote((The lie I'm thinking of is Santa Claus. A lot of adults tell children that there's a person, called Santa Claus, who lives at the North Pole and gives them presents for Christmas. It's as ridiculous as it sounds.))> I'm not going to participate in that.</p>
 
-<p>I admit that choosing whether or not to swear isn't a very important issue. So let's move on to an issue that is very, very important:</p>
+<p>I'll admit, choosing whether to swear isn't a very important issue. So let's move on to an issue that is very, very important:</p>
 
 <p><strong>#2. I will talk openly about <a href="/blog/sex">sex and sexuality</a> here.</strong></p>
 
-<p>This guideline (and the rest of them, really) is not just a child-friendliness issue; it's a human-friendliness issue. Most of the dominant cultures of the world are extremely sexually repressed; they don't talk about sex, they try to push sex-related information out of sight, and they even try to make people feel guilty for <em>thinking</em> about sex. Because of these things, when people actually <em>do</em> sexual stuff, they generally do it in a really bad way that's stressful for everyone involved. The only way you could make it worse would be by throwing everyone into teenage sexuality completely unprepared... which is exactly what we do by not talking to children about it.</p>
+<p>This guideline (and the rest of them, really) is not just a child-friendliness issue; it's a human-friendliness issue. Most of the dominant cultures of the world are extremely sexually repressed. They don't talk about sex, they try to push sex-related information out of sight, and they even try to make people feel guilty for <em>thinking</em> about sex. Because of these things, when people actually <em>do</em> sexual stuff, they generally do it in a really bad way that's stressful for everyone involved. The only way you could make it worse would be by throwing everyone into teenage sexuality completely unprepared... which is exactly what we do by not talking to children about it.</p>
 
-<p>A lot of people try to stop children from seeing anything that has anything to do with sexuality. They do this because they think it will "protect" children, but in fact, it does the exact opposite, by denying them access to information that is extremely important for them to have. It is also important for the information people can get about sexuality to emphasize consent, communication, and acceptance, rather than taboos and social power games.</p>
+<p>A lot of adults try to stop children from seeing anything related to sexuality. They do this because they think it will "protect" children. In fact, it does the exact opposite, by denying them access to information that is very important for them to have. Children need information about sexuality that emphasizes consent, communication, and acceptance, rather than taboos and social power games. But adults often squash the good kind of information even harder than they squash the bad kind.</p>
 
 <p>I should also mention that children <em>do</em> often have sexual behaviors of their own, even before puberty. Adults often cause a lot of harm to children by trying to suppress this.</p>
 
 <p><strong>#3. I will avoid saying things in a way that demeans, insults, or ignores people who are younger than I am.</strong></p>
 
-<p>I wrote a lot about this in the second half of <a href="/blog/scrutinized-words-man-woman-boy-girl">this post</a>; I don't have too much more to say about it here.</p>
+<p>If you criticize someone by calling them "childish", you're saying that it's bad to be like a child. If you say that you deserve privacy or respect "because you're an adult", you're saying that children don't deserve the same rights that other people do.</p>
 
-<p>A lot of parts of our society are designed in a way that pointlessly excludes children, because the adults who designed them were only thinking about adults. Whenever you use language that demeans children, like using "childish" as an criticism or saying that you deserve privacy or respect because you're an "adult", you're saying that children aren't <em>really</em> people, and they shouldn't really have the same rights other people do. This adds to the patterns of thought that make people ignore accessibility to children. I don't think it should happen; I believe that if something is intended for the public, it should be &ndash; as much as it can be &ndash; accessible to <em>all</em> the public, regardless of their age, physical disability, or any other attribute.</p>
+<p>I wrote a lot about this in the second half of <a href="/blog/scrutinized-words-man-woman-boy-girl">my post about words like "man"</a>; I don't have too much more to say about it here.</p>
+
+<p>Because we talk about children this way, adults start thinking that children's issues are less important. Adults design most of the things in society, and a lot of those things pointlessly exclude children, because the designers were only thinking about other adults. I don't think that should happen. I believe that if something is intended for the public, it should be &ndash; as much as it can be &ndash; accessible to <em>all</em> of the public, regardless of their age, physical disability, or anything else.</p>
 
 <p><strong>#4. I will try to write in a way that is clear and easy to understand. I will avoid making unnecessary cultural references. I will not assume that my readers have much prior knowledge of most subjects.</strong></p>
 
 <p>Whee! Finally one that isn't completely against what most adults think being "child-friendly" is about!</p>
 
-<p>Technically speaking, this isn't purely a child-friendliness issue, because many children are highly knowledgeable can read complicated text, and many adults aren't. However, adults <em>usually</em> have more knowledge and can read more easily than children, so if I want to make sure my website is accessible to children, I need to consider that. This guideline is also here to help adults who aren't native English speakers and are only just learning; it's also to help adults who have mental disabilities that prevent them from reading complex text... and so on. If I assume that a person already knows something, and I'm wrong, then I have communicated badly. Since I'm on the Internet, where almost anyone can read what I write, I should avoid assuming <em>any</em> knowledge that I don't have to.</p>
+<p>Technically speaking, this isn't purely a child-friendliness issue. Many children are highly knowledgeable can read complicated text, and many adults aren't. However, adults <em>usually</em> have more knowledge and can read more easily than children, so if my writing is too dense, that will exclude children much <em>more</em> than it excludes adults. This guideline is also here to help adults who aren't fluent in English, adults with certain mental disabilities, and so on. If I assume that a person already knows something, and I'm wrong, then I have communicated badly. Since I'm on the Internet, where almost anyone can read what I write, I should avoid assuming <em>any</em> knowledge that I don't have to.</p>
 
-<p>In some of my posts, like when I write about computer programming, I have to assume a lot of knowledge in order to be able to say anything about the subject. In those cases, I will try to put a note at the beginning of each post saying what knowledge it assumes.</p>
+<p>In some of my posts, like when I write about computer programming, I have to assume a lot of knowledge in order to be able to say anything meaningful about the subject. In those cases, I will try to put a note at the beginning of each post saying what knowledge it assumes.</p>
 
-<p>I have a lot of things to say, and I think most people would benefit from reading my posts. It wouldn't be very nice for me to write them in a way that's inconvenient for some people.</p>
+<p>I have a lot of things to say, and I think most people would benefit from reading my posts. It wouldn't be very nice for me to write them in a way that they can't read.</p>
 
 ''',
 },
