@@ -709,8 +709,9 @@ html.transcript_hidden_'''+ transcript_identifier_string +''' #hide_transcript_b
     sentences = len(re.findall (r"\w\w\w.*?[.?!]", reference))
     words = utils.word_count (reference)
     characters = len(re.findall (r"\w", reference))
-    readability = 4.71*characters/words +0.5 *words/sentences -21.43
-    post_content = "<em> Approximate readability: "+ "{:.2f}".format (readability) + " ("+ str (characters) + " characters, " + str (words) +  " words, " + str (sentences)  + " sentences, " + "{:.2f}".format (characters/words) + " characters per word, " + "{:.2f}".format (words/sentences) + " words per sentence)</em>" + post_content
+    if words >0 and sentences >0:
+      readability = 4.71*characters/words +0.5 *words/sentences -21.43
+      post_content = "<em> Approximate readability: "+ "{:.2f}".format (readability) + " ("+ str (characters) + " characters, " + str (words) +  " words, " + str (sentences)  + " sentences, " + "{:.2f}".format (characters/words) + " characters per word, " + "{:.2f}".format (words/sentences) + " words per sentence)</em>" + post_content
   
   post_content_sections = post_content.split("<bigbreak>")
   id_str = ''
