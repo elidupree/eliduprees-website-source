@@ -25,17 +25,77 @@
  },
  "A Couple of Badass Superheroes, page 1": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "db36c99018e3de2610e99d2e448f6ec",
+  "date_posted": "2011-09-10",
+  "id": "11c299c13f3536866afbc6d7df8132db",
   "remembered_annotation": "771fb239da06a54c32dfb4fcf8625c10c74ad868b54aef282a28dd6dfaf6abccbbde65be9c6b1015d499771d6158c05b",
   "remembered_transcript": "534ead7188f375d52b59c27807e118577bebee30f2bfa2a7c48ad9c47873776e0ff5e2763b0e893b3744e24c4c68da74"
  },
+ "A Couple of Badass Superheroes, page 10": {
+  "date_modified": "2011-11-19",
+  "date_posted": "2011-11-19",
+  "id": "7a5ef206d61da9a9e02ae76f071a3683"
+ },
+ "A Couple of Badass Superheroes, page 11": {
+  "date_modified": "2011-11-26",
+  "date_posted": "2011-11-26",
+  "id": "72020c186f4c912b5d937f7b4e8491ad"
+ },
+ "A Couple of Badass Superheroes, page 12": {
+  "date_modified": "2011-12-04",
+  "date_posted": "2011-12-04",
+  "id": "89cf6bdd5ada6bf3f5501d4a4b9cd68a"
+ },
+ "A Couple of Badass Superheroes, page 13": {
+  "date_modified": "2011-12-11",
+  "date_posted": "2011-12-11",
+  "id": "9355cd5d4f9c46fa1b70b63329a69998"
+ },
+ "A Couple of Badass Superheroes, page 14": {
+  "date_modified": "2011-12-17",
+  "date_posted": "2011-12-17",
+  "id": "4c52705489f5c6623ac9dc71b807bc24"
+ },
  "A Couple of Badass Superheroes, page 2": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "62b76a828d8ee2851174e3669c861da",
+  "date_posted": "2011-09-18",
+  "id": "4f7f267ccd229dd5264834607f57c8f6",
   "remembered_annotation": "771fb239da06a54c32dfb4fcf8625c10c74ad868b54aef282a28dd6dfaf6abccbbde65be9c6b1015d499771d6158c05b",
   "remembered_transcript": "534ead7188f375d52b59c27807e118577bebee30f2bfa2a7c48ad9c47873776e0ff5e2763b0e893b3744e24c4c68da74"
+ },
+ "A Couple of Badass Superheroes, page 3": {
+  "date_modified": "2011-09-24",
+  "date_posted": "2011-09-24",
+  "id": "bbdbe62967a2d87d817956b033508a5b"
+ },
+ "A Couple of Badass Superheroes, page 4": {
+  "date_modified": "2011-10-01",
+  "date_posted": "2011-10-01",
+  "id": "e75fcb39f31cd15d6692224ea457302"
+ },
+ "A Couple of Badass Superheroes, page 5": {
+  "date_modified": "2011-10-08",
+  "date_posted": "2011-10-08",
+  "id": "cd2afe7099c6bbadd2a6d7fea19be4c7"
+ },
+ "A Couple of Badass Superheroes, page 6": {
+  "date_modified": "2011-10-15",
+  "date_posted": "2011-10-15",
+  "id": "a8f599e2b19c3142d66e88a6fefd6d5d"
+ },
+ "A Couple of Badass Superheroes, page 7": {
+  "date_modified": "2011-10-29",
+  "date_posted": "2011-10-29",
+  "id": "ad5bf638c36bfd83d588ecafca11e390"
+ },
+ "A Couple of Badass Superheroes, page 8": {
+  "date_modified": "2011-11-05",
+  "date_posted": "2011-11-05",
+  "id": "577a775fc23a0cd228adbd8bbdd8b355"
+ },
+ "A Couple of Badass Superheroes, page 9": {
+  "date_modified": "2011-11-13",
+  "date_posted": "2011-11-13",
+  "id": "511afe9c6a1b35c0d9574b414cdd52b0"
  },
  "A few concepts I need": {
   "date_modified": "2016-04-29",
@@ -435,136 +495,606 @@
  },
  "Voldemort's Children, cover page": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "b0d8791149bf43340fb2126ad4385f8",
+  "date_posted": "2012-02-07",
+  "id": "fd9df785961f7dd11e22f4de97d6eb84",
   "remembered_annotation": "771fb239da06a54c32dfb4fcf8625c10c74ad868b54aef282a28dd6dfaf6abccbbde65be9c6b1015d499771d6158c05b",
   "remembered_transcript": "e4602782f88cd8562b2b5ddb6b393dfad18e20cae1414c791e6a61e0e7854cb3d207318b4a3555e162b97d6e8c63c14c"
  },
  "Voldemort's Children, page 1": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "8fe7dc7a658618d36ce9531eb8ddade",
+  "date_posted": "2012-02-08",
+  "id": "233d5959d0182a0d64d5e3a8e5030cf2",
   "remembered_annotation": "32d22ab046b6c20f6d3201a494a50c52555b50719a2379e17a7ead3e6afe919b2785bc3adf62cb3cb196723191312825",
   "remembered_transcript": "72f4979ff91189b236d836651977f5aec75170888922ca97aa037908ec85bddc7641781aaa3055174af4588d3ac6f45e"
  },
  "Voldemort's Children, page 10": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "2b3fc638ec29ec0240cf7ffdeaadbb9",
+  "date_posted": "2012-02-18",
+  "id": "345812f70ff5905489aa63140962253f",
   "remembered_annotation": "8bbc88c9c04d78cb7b0e8fd4ce4f6eb1799f13cfaafccdd26ff52beeb09eed4378967bf4a30d48d0cf89fac58cc176d1",
   "remembered_transcript": "efafa2cb5b0ff4635d0ad1eba25bfb9c1525d3a3873dd47f860ef401505df7d97e38cfa8d8229f1bb0eaa0f9896e5bf2"
  },
+ "Voldemort's Children, page 100": {
+  "date_modified": "2012-07-10",
+  "date_posted": "2012-07-10",
+  "id": "bfd40bc801a1e82ddbda7fdf4463ab95"
+ },
+ "Voldemort's Children, page 101": {
+  "date_modified": "2012-07-11",
+  "date_posted": "2012-07-11",
+  "id": "b6372b0964bb473775db5499d80affe6"
+ },
+ "Voldemort's Children, page 102": {
+  "date_modified": "2012-07-12",
+  "date_posted": "2012-07-12",
+  "id": "9c12248c9272d3eda36bb5633a63347f"
+ },
+ "Voldemort's Children, page 103": {
+  "date_modified": "2012-07-13",
+  "date_posted": "2012-07-13",
+  "id": "dbd1b43b075b06f3dd020e4ad08feb2a"
+ },
+ "Voldemort's Children, page 104": {
+  "date_modified": "2012-07-14",
+  "date_posted": "2012-07-14",
+  "id": "a4bbfcb8060d42ce545c977c3fd0cb3"
+ },
+ "Voldemort's Children, page 105": {
+  "date_modified": "2012-07-15",
+  "date_posted": "2012-07-15",
+  "id": "bfab805808a6828501de9d38d91ced76"
+ },
+ "Voldemort's Children, page 106": {
+  "date_modified": "2012-07-16",
+  "date_posted": "2012-07-16",
+  "id": "7b898a3cb6a3f8d88987789025faf96e"
+ },
+ "Voldemort's Children, page 107": {
+  "date_modified": "2012-07-17",
+  "date_posted": "2012-07-17",
+  "id": "acceb9ee91654e7689b9ed55c74f42b4"
+ },
+ "Voldemort's Children, page 108": {
+  "date_modified": "2012-07-18",
+  "date_posted": "2012-07-18",
+  "id": "9e0fb34bcec57974051d114e19f6aac7"
+ },
+ "Voldemort's Children, page 109": {
+  "date_modified": "2012-07-19",
+  "date_posted": "2012-07-19",
+  "id": "d2a690d4bffac50cb4757df08b479811"
+ },
  "Voldemort's Children, page 11": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "9caf80389f0dccb0c6c3f01623823c6",
+  "date_posted": "2012-02-18",
+  "id": "6a285be71fc5528e98511fd50f677c0e",
   "remembered_annotation": "7acd5d36d306a475621218207cadd9cc919a4909c925eebb799756887c5bb56c65326fb0f2b9091063c3de43b699e952",
   "remembered_transcript": "4431f8c5e9520d80469907122615a300f0642d3cbdd32119483d15c09cc284228cb9a3162e15aacceb649b348d353f7f"
  },
+ "Voldemort's Children, page 110": {
+  "date_modified": "2012-07-20",
+  "date_posted": "2012-07-20",
+  "id": "59570d6845026958fbc3a1da843980cc"
+ },
+ "Voldemort's Children, page 111": {
+  "date_modified": "2012-07-21",
+  "date_posted": "2012-07-21",
+  "id": "c4e0ee8999380a3d2c46b9291e0737d2"
+ },
+ "Voldemort's Children, page 112": {
+  "date_modified": "2012-07-24",
+  "date_posted": "2012-07-24",
+  "id": "829e44ef515bc2933e02bc6e5633e59f"
+ },
  "Voldemort's Children, page 12": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "a365f2bdb78ed84279a142d170c89c6",
+  "date_posted": "2012-02-19",
+  "id": "20b43baa61dce7ca4d4a7d7d069c22d5",
   "remembered_annotation": "1cbf2c9894bc1aba4ef76bc1304832c9af60dfe23503a11ea13b880eb66384acde997c0ebbb9cb542f1de7b8cdb71290",
   "remembered_transcript": "9f1ee0790edec63c2b467c2128a326ff01e768ad9e3460e5b06ab16a036c01d5743f780e99e37e8d5ace284d6f2d58a4"
  },
  "Voldemort's Children, page 13": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "d954f030efdd721d99e96f0b8cfdbeb",
+  "date_posted": "2012-02-20",
+  "id": "8b6a5d2c46bc9ce88e965dc67e8dbe7d",
   "remembered_annotation": "74f9df22af3a03cb3caa3e702d8b83eddd5149eb17a333622f6a720f42db0dcd418f5b19ee431304fc058eb0675d5d1d",
   "remembered_transcript": "f5d890e9d2a13008800790877cb78c8da15b5a83098122fc510aa4ef154d2c12f950249744d61e99e587e7d3e3af2cd9"
  },
  "Voldemort's Children, page 14": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "7dc8c1fbea75dd659109a8880f0ab09",
+  "date_posted": "2012-02-21",
+  "id": "e0040898f63d8a38325ff7f8983c9372",
   "remembered_annotation": "bd175bd4e2332e168aaeb2ebbba9e3a4e9fda72c7e38a314d67b2f40bddfe9a128d6726cf81b2dc5979b75c35177122e",
   "remembered_transcript": "db00f537f8667815eb1c0efc59556f626f0f4f04ee58fa13ebdfd1ced4f8044e6eb12bed2ad214a6543918d310d45f0b"
  },
  "Voldemort's Children, page 15": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "6df56a7bd79d1bc509fe12e333a4476",
+  "date_posted": "2012-02-23",
+  "id": "9cb00c54b1f00064ee7b825786ac1218",
   "remembered_annotation": "f03bf47fd6e2b1d00d5f1c9a69e772240c6f917dc3854b367fbf15aecf8c80dd0f7dd731a6730b201b2b87737e8d71a5",
   "remembered_transcript": "e47a86273916076873ef24c4ad0bafa73aceab96f62c3d880a4db0f20aca8442e6037da4b1faf60d6fc40338c6e2c01d"
  },
  "Voldemort's Children, page 16": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "863f36e9e9984a5edef1a9338ba2ad4",
+  "date_posted": "2012-02-24",
+  "id": "fb7cb28198c58a585c9d2075e303b217",
   "remembered_annotation": "787a51cf6f7c94608d216fe0b999c09d46d128b94312aa0c042f30621abe21ae094a9a5d06f5d81be5af9b4c06fa2316",
   "remembered_transcript": "a3522709dd403734ba5b7bde2fd4ec33644818118bcf43a3316058a1fa7740554eba41c218481420f37fb78616c4b78d"
  },
  "Voldemort's Children, page 17": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "7787ed48f669997e0061b8fb00fe1f8",
+  "date_posted": "2012-02-25",
+  "id": "175bfbb7429673cb831c540ead4a7c23",
   "remembered_annotation": "ecbf3f917f710362d2e2d30ccd5ff79e87aa7957435933512cdaae115712fe9e3eaf37e21f2be96050e5f0d3932cf243",
   "remembered_transcript": "545154f2df0c274472f8e9f575da5a676c7c9a1b9af39bb2c4062135b8ad607d7dcc1cf57c6d585e031253abcfbac96c"
  },
  "Voldemort's Children, page 18": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "426f61a9bbcf763a4a005b2f373dd10",
+  "date_posted": "2012-02-26",
+  "id": "cff035d83f8aa77b8b3ac8d8425c3dae",
   "remembered_annotation": "b7a44e710361198fdf9830937886e353ce79b74ba82b28e766a4cb63168ef813692fa5a8d763ef208a3936f6c6ae2bf4",
   "remembered_transcript": "9e4d74f96f695cacf2d123f6b0a8b3fc04d189512811bd5f68b6d832a0b19270581cacdc25da672f6bf0efbfc732c009"
  },
+ "Voldemort's Children, page 19": {
+  "date_modified": "2012-02-27",
+  "date_posted": "2012-02-27",
+  "id": "e102cd5515c3c3f7be89c990370a565e"
+ },
  "Voldemort's Children, page 2": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "c4d95e6ac6578b69633502110aac0ea",
+  "date_posted": "2012-02-10",
+  "id": "d316393474b43267fd8397fcefddce53",
   "remembered_annotation": "8739cd2874bea65259b5cf03c6399cddf30bc208d91aba25f1474815aae8ba91b02d24946e688ce71fe8c52a516f53c6",
   "remembered_transcript": "013d85a12c57969f5845f1777ca4da9e3664380c9aaab2986552841a8890d3b765c93e5adea6abb51c233fac0128a1b6"
  },
+ "Voldemort's Children, page 20": {
+  "date_modified": "2012-02-28",
+  "date_posted": "2012-02-28",
+  "id": "29b5951598d4b304f8f7cbf96293482c"
+ },
+ "Voldemort's Children, page 21": {
+  "date_modified": "2012-02-29",
+  "date_posted": "2012-02-29",
+  "id": "19410d5746cc18b3ac2f23de8322b675"
+ },
+ "Voldemort's Children, page 22": {
+  "date_modified": "2012-03-01",
+  "date_posted": "2012-03-01",
+  "id": "884b8beb960ac75f15e549b541224a01"
+ },
+ "Voldemort's Children, page 23": {
+  "date_modified": "2012-03-02",
+  "date_posted": "2012-03-02",
+  "id": "e01042ce989e4040b4b4050bf9578360"
+ },
+ "Voldemort's Children, page 24": {
+  "date_modified": "2012-03-04",
+  "date_posted": "2012-03-04",
+  "id": "db73782233bdf40ea79867809df20422"
+ },
+ "Voldemort's Children, page 25": {
+  "date_modified": "2012-03-05",
+  "date_posted": "2012-03-05",
+  "id": "545037a8c4798174e133db95242df7dd"
+ },
+ "Voldemort's Children, page 26": {
+  "date_modified": "2012-03-08",
+  "date_posted": "2012-03-08",
+  "id": "a12d4d8790ec29e9e10c1f29a85fa78c"
+ },
+ "Voldemort's Children, page 27": {
+  "date_modified": "2012-03-13",
+  "date_posted": "2012-03-13",
+  "id": "8c400c2522e0a40972d7305d6765856c"
+ },
+ "Voldemort's Children, page 28": {
+  "date_modified": "2012-03-18",
+  "date_posted": "2012-03-18",
+  "id": "b594261f7fadae0b98b1b86aaf97bc06"
+ },
+ "Voldemort's Children, page 29": {
+  "date_modified": "2012-03-19",
+  "date_posted": "2012-03-19",
+  "id": "1d2557f11297ffd08e30c1cb9c5eb7f6"
+ },
  "Voldemort's Children, page 3": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "4b51e8cff0c50b976d68e1fae4d6e3a",
+  "date_posted": "2012-02-11",
+  "id": "5cc17d5b1a29dfbd2b5d7c25f0fe78b5",
   "remembered_annotation": "4156d7fa737601d649fc34db23f2d5608e20d49e8c8fa456133bbc634e642c888bc939e6c33738e0627e12bddcca88e1",
   "remembered_transcript": "1414f19ae1215d28d15c62844da21f4868c913cc0a71c739070c6542eb862346efd91691391de3cfa1bff1cde76af3b9"
  },
+ "Voldemort's Children, page 30": {
+  "date_modified": "2012-03-20",
+  "date_posted": "2012-03-20",
+  "id": "ae39a500f0d0b85158ee73270a8da43f"
+ },
+ "Voldemort's Children, page 31": {
+  "date_modified": "2012-03-21",
+  "date_posted": "2012-03-21",
+  "id": "626fd7ad3d81b6cde73fa41e7ddaed70"
+ },
+ "Voldemort's Children, page 32": {
+  "date_modified": "2012-03-27",
+  "date_posted": "2012-03-27",
+  "id": "739293bb358461bb32c147a038ba1d0c"
+ },
+ "Voldemort's Children, page 33": {
+  "date_modified": "2012-03-28",
+  "date_posted": "2012-03-28",
+  "id": "35271e0c4603cfd4a05456a8ba8aaba6"
+ },
+ "Voldemort's Children, page 34": {
+  "date_modified": "2012-03-29",
+  "date_posted": "2012-03-29",
+  "id": "28d29ef3f41cfa016d703c6782c7d115"
+ },
+ "Voldemort's Children, page 35": {
+  "date_modified": "2012-03-30",
+  "date_posted": "2012-03-30",
+  "id": "34937efe071db43cf40b952555b142d1"
+ },
+ "Voldemort's Children, page 36": {
+  "date_modified": "2012-03-31",
+  "date_posted": "2012-03-31",
+  "id": "f38dd5a863484a4cb7ac05f3c8be73f1"
+ },
+ "Voldemort's Children, page 37": {
+  "date_modified": "2012-04-01",
+  "date_posted": "2012-04-01",
+  "id": "c1ea47422fe32732b3d2ae17d3391053"
+ },
+ "Voldemort's Children, page 38": {
+  "date_modified": "2012-04-06",
+  "date_posted": "2012-04-06",
+  "id": "aa6dcb072361313a18d0d624b6086465"
+ },
+ "Voldemort's Children, page 39": {
+  "date_modified": "2012-04-06",
+  "date_posted": "2012-04-06",
+  "id": "fedd6c185536a1e17d6b7d0bdbb7245d"
+ },
  "Voldemort's Children, page 4": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "5f8ad81b2c33f9ebdb64d239cd13e07",
+  "date_posted": "2012-02-12",
+  "id": "fd65d0ecdd8bc1804f7a6ca6c8d16231",
   "remembered_annotation": "026608f800c191ff964f1f98b12f279799beb5102ae447012d50dc2f98ceff7b63a0db99715380987f8778edc87350fc",
   "remembered_transcript": "6576501848893dac9e89423a22a11a6d1dd92179bc09152b7b7c160cef43e85a6e39f9174faecd12644b2c1ffdc944aa"
  },
+ "Voldemort's Children, page 40": {
+  "date_modified": "2012-04-09",
+  "date_posted": "2012-04-09",
+  "id": "8db14984a33472526b30ef0f73c987b9"
+ },
+ "Voldemort's Children, page 41": {
+  "date_modified": "2012-04-14",
+  "date_posted": "2012-04-14",
+  "id": "c567fac4bcbbd7eca4a1a259a72c68ab"
+ },
+ "Voldemort's Children, page 42": {
+  "date_modified": "2012-04-21",
+  "date_posted": "2012-04-21",
+  "id": "61bb5c3e5350aed7f4a25f089fde5b8d"
+ },
+ "Voldemort's Children, page 43": {
+  "date_modified": "2012-05-06",
+  "date_posted": "2012-05-06",
+  "id": "4c2e37c9f44763fac556b59d04721d0f"
+ },
+ "Voldemort's Children, page 44": {
+  "date_modified": "2012-05-07",
+  "date_posted": "2012-05-07",
+  "id": "4e9ac96309df226c1177992a4714d954"
+ },
+ "Voldemort's Children, page 45": {
+  "date_modified": "2012-05-08",
+  "date_posted": "2012-05-08",
+  "id": "3751eddceaa7711b6f14a5c199e05c76"
+ },
+ "Voldemort's Children, page 46": {
+  "date_modified": "2012-05-09",
+  "date_posted": "2012-05-09",
+  "id": "de3f982885ac20277bb220920270d5ed"
+ },
+ "Voldemort's Children, page 47": {
+  "date_modified": "2012-05-10",
+  "date_posted": "2012-05-10",
+  "id": "810016b3a8050b13cd8924955746b6c2"
+ },
+ "Voldemort's Children, page 48": {
+  "date_modified": "2012-05-12",
+  "date_posted": "2012-05-12",
+  "id": "cd5430abf56bfbfc370d376919c9e550"
+ },
+ "Voldemort's Children, page 49": {
+  "date_modified": "2012-05-13",
+  "date_posted": "2012-05-13",
+  "id": "2ac6629f7a8dfa8c13660be159335bea"
+ },
  "Voldemort's Children, page 5": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "58811e67bb01102235d0c1678f20e50",
+  "date_posted": "2012-02-13",
+  "id": "e33e643891721489e95870fcd346ade4",
   "remembered_annotation": "fae090ee0c35246495c4f4cae8427894362f5826f0a0790d24e83470b7b298fd36a76e921e3bbeed8b7512004afe2a9c",
   "remembered_transcript": "68546d4f122818dedec20b88dac1f1c277f31704653e63af78033c2bdcf116bbc94dcc8dfbe2e4282e7a260b641bee08"
  },
+ "Voldemort's Children, page 50": {
+  "date_modified": "2012-05-13",
+  "date_posted": "2012-05-13",
+  "id": "ca22fb2303c220c564f9b9f60f5ef021"
+ },
+ "Voldemort's Children, page 51": {
+  "date_modified": "2012-05-14",
+  "date_posted": "2012-05-14",
+  "id": "b71531d0ccad6bbffed887bc25ff7bc3"
+ },
+ "Voldemort's Children, page 52": {
+  "date_modified": "2012-05-16",
+  "date_posted": "2012-05-16",
+  "id": "6c9f09af7218c634ca266ecb3d24c7fa"
+ },
+ "Voldemort's Children, page 53": {
+  "date_modified": "2012-05-17",
+  "date_posted": "2012-05-17",
+  "id": "61989a1205a975589721a63747b7f121"
+ },
+ "Voldemort's Children, page 54": {
+  "date_modified": "2012-05-19",
+  "date_posted": "2012-05-19",
+  "id": "6f7203fd9b69e1b36e401466051e2e5e"
+ },
+ "Voldemort's Children, page 55": {
+  "date_modified": "2012-05-20",
+  "date_posted": "2012-05-20",
+  "id": "f4743f2324f586f0f88766251ac404f0"
+ },
+ "Voldemort's Children, page 56": {
+  "date_modified": "2012-05-22",
+  "date_posted": "2012-05-22",
+  "id": "ffc08f1eec255a8cced7f8b066fdb02b"
+ },
+ "Voldemort's Children, page 57": {
+  "date_modified": "2012-05-24",
+  "date_posted": "2012-05-24",
+  "id": "9fca0d04ffe17f4f08a93947e4a11653"
+ },
+ "Voldemort's Children, page 58": {
+  "date_modified": "2012-05-25",
+  "date_posted": "2012-05-25",
+  "id": "592d88ee94e6529e799cca92e9569706"
+ },
+ "Voldemort's Children, page 59": {
+  "date_modified": "2012-05-25",
+  "date_posted": "2012-05-25",
+  "id": "9fb0d64b0da73fb10769ef5176ec4616"
+ },
  "Voldemort's Children, page 6": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "2a6c40b011600162289e444ec441fb2",
+  "date_posted": "2012-02-13",
+  "id": "337c549d08c334049e92e66b61c916a5",
   "remembered_annotation": "a5e32d5427352aa5703b869be525f9e39a4f9491827ab4111f6495be562e96820c9d169425503daaea3814981d244b72",
   "remembered_transcript": "aaa3c4082ad202ff39aeb78349e52d05672306858cdc1023dc2886e6728efba837f1e380a5ba9fa0f5e96c7b6df4cb5d"
  },
+ "Voldemort's Children, page 60": {
+  "date_modified": "2012-05-27",
+  "date_posted": "2012-05-27",
+  "id": "5f63013ab12e69a278930e0782bd17a5"
+ },
+ "Voldemort's Children, page 61": {
+  "date_modified": "2012-05-28",
+  "date_posted": "2012-05-28",
+  "id": "6d40b8b2ea4869556fdca157ee85b53f"
+ },
+ "Voldemort's Children, page 62": {
+  "date_modified": "2012-05-29",
+  "date_posted": "2012-05-29",
+  "id": "5e77416cb19a1d9afae4661204e2b20e"
+ },
+ "Voldemort's Children, page 63": {
+  "date_modified": "2012-05-29",
+  "date_posted": "2012-05-29",
+  "id": "20109e61adc31d9d75190f8e268e7679"
+ },
+ "Voldemort's Children, page 64": {
+  "date_modified": "2012-05-31",
+  "date_posted": "2012-05-31",
+  "id": "65d5315f0bf38989d4364da6f109fbd8"
+ },
+ "Voldemort's Children, page 65": {
+  "date_modified": "2012-06-01",
+  "date_posted": "2012-06-01",
+  "id": "3248fbdfa470a7daa91dc4166d1e65dd"
+ },
+ "Voldemort's Children, page 66": {
+  "date_modified": "2012-06-02",
+  "date_posted": "2012-06-02",
+  "id": "48283fb23344f00ae2112378ebd47516"
+ },
+ "Voldemort's Children, page 67": {
+  "date_modified": "2012-06-03",
+  "date_posted": "2012-06-03",
+  "id": "3c98841300d774219796f2385600e85f"
+ },
+ "Voldemort's Children, page 68": {
+  "date_modified": "2012-06-04",
+  "date_posted": "2012-06-04",
+  "id": "c90a5fc8e1a60879977e9d80f5e9e5fa"
+ },
+ "Voldemort's Children, page 69": {
+  "date_modified": "2012-06-04",
+  "date_posted": "2012-06-04",
+  "id": "8504bd76317cb7bc2216706f2cbc500b"
+ },
  "Voldemort's Children, page 7": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "a2b53f65c40920df2660176f44430b3",
+  "date_posted": "2012-02-14",
+  "id": "5eb5724de96c953c7765147493f1963e",
   "remembered_annotation": "66fa89c97380f1ba64286a634932c7724f3afe526402ab9df58867a3c75c4a9fd388dc9a043ef8b98b3f5dc30d8b76a0",
   "remembered_transcript": "92b0067e8b6cf2771a8f45b86e18a08d3c76bb2605b8a9ea92732c36d6bb7f5e01d8269e1f0fa4653c04d058c0f6fcb1"
  },
+ "Voldemort's Children, page 70": {
+  "date_modified": "2012-06-06",
+  "date_posted": "2012-06-06",
+  "id": "948e70310489760dfb43430cf5ea05fa"
+ },
+ "Voldemort's Children, page 71": {
+  "date_modified": "2012-06-07",
+  "date_posted": "2012-06-07",
+  "id": "e92320a3c87aa53eb4df89694bec3d82"
+ },
+ "Voldemort's Children, page 72": {
+  "date_modified": "2012-06-08",
+  "date_posted": "2012-06-08",
+  "id": "29e554745f96871c27889385551e31fc"
+ },
+ "Voldemort's Children, page 73": {
+  "date_modified": "2012-06-09",
+  "date_posted": "2012-06-09",
+  "id": "9a05454b878c9a6c4b7e2fb8df34caf3"
+ },
+ "Voldemort's Children, page 74": {
+  "date_modified": "2012-06-14",
+  "date_posted": "2012-06-14",
+  "id": "c4089e26d6e8b8c282816e61ffb7a30a"
+ },
+ "Voldemort's Children, page 75": {
+  "date_modified": "2012-06-15",
+  "date_posted": "2012-06-15",
+  "id": "aa8e13637c8305b38c0e37068d7eb9f2"
+ },
+ "Voldemort's Children, page 76": {
+  "date_modified": "2012-06-16",
+  "date_posted": "2012-06-16",
+  "id": "96f8763636741b9478f71120108ad614"
+ },
+ "Voldemort's Children, page 77": {
+  "date_modified": "2012-06-17",
+  "date_posted": "2012-06-17",
+  "id": "7d78bee4d30999aec74731895f5e2ee0"
+ },
+ "Voldemort's Children, page 78": {
+  "date_modified": "2012-06-18",
+  "date_posted": "2012-06-18",
+  "id": "6f694ad984a8190c1649645132bfdd45"
+ },
+ "Voldemort's Children, page 79": {
+  "date_modified": "2012-06-19",
+  "date_posted": "2012-06-19",
+  "id": "a36853749e4c1b618a2cd574fd419121"
+ },
  "Voldemort's Children, page 8": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "3756743ac4184923cddaa3db127ed91",
+  "date_posted": "2012-02-15",
+  "id": "4f99267d6e2bb733d88617fb6b16f488",
   "remembered_annotation": "c6130179c957811d408967e6c996d33718cc8374b56301bfb7920dffca4e33269ba094cad741be5876b2269a80287fe5",
   "remembered_transcript": "273af633842512f1b0acd10393614256210fdacddcf0a04b194b85d181a63e1b775e21e057b4a730633400b5a750a301"
  },
+ "Voldemort's Children, page 80": {
+  "date_modified": "2012-06-20",
+  "date_posted": "2012-06-20",
+  "id": "4a81763cd26c109838b06c66a651a9b"
+ },
+ "Voldemort's Children, page 81": {
+  "date_modified": "2012-06-21",
+  "date_posted": "2012-06-21",
+  "id": "86c837b17dc1061ed15e82bb78dbb627"
+ },
+ "Voldemort's Children, page 82": {
+  "date_modified": "2012-06-22",
+  "date_posted": "2012-06-22",
+  "id": "2723b6050b28d844e9e407800db87c4e"
+ },
+ "Voldemort's Children, page 83": {
+  "date_modified": "2012-06-23",
+  "date_posted": "2012-06-23",
+  "id": "832ebfbb5ed9fb5e047c3811b6f5a582"
+ },
+ "Voldemort's Children, page 84": {
+  "date_modified": "2012-06-24",
+  "date_posted": "2012-06-24",
+  "id": "ff4f8710c888f5e52fe087a994305a9c"
+ },
+ "Voldemort's Children, page 85": {
+  "date_modified": "2012-06-25",
+  "date_posted": "2012-06-25",
+  "id": "5358acfdb19b93763b123ad1e6fbb184"
+ },
+ "Voldemort's Children, page 86": {
+  "date_modified": "2012-06-26",
+  "date_posted": "2012-06-26",
+  "id": "c6d42940e513bbe78b5a1ed97f659f03"
+ },
+ "Voldemort's Children, page 87": {
+  "date_modified": "2012-06-27",
+  "date_posted": "2012-06-27",
+  "id": "7054c61e1793ca03a54e339eda23aea2"
+ },
+ "Voldemort's Children, page 88": {
+  "date_modified": "2012-06-28",
+  "date_posted": "2012-06-28",
+  "id": "7af9b6ca5c5c6109f8c4860fd0eec42d"
+ },
+ "Voldemort's Children, page 89": {
+  "date_modified": "2012-06-29",
+  "date_posted": "2012-06-29",
+  "id": "c0b1e4fc28e15dd8c2731c362d97b13e"
+ },
  "Voldemort's Children, page 9": {
   "date_modified": "2015-10-31",
-  "date_posted": "2015-10-31",
-  "id": "d111e1795224cad2cb44a0036080f8a",
+  "date_posted": "2012-02-16",
+  "id": "b53b82ea055eb8ba7ce4197a9e05f6d5",
   "remembered_annotation": "00d03ecb2fcf5e2e415b544e39a1a4fc32487b6795d676732d8ba2cb295796023c36244a8ab4ea1c3b61ffe0c468ff7b",
   "remembered_transcript": "b30089a4af8c3ecc9289159e901a43034d1f4fc40dd4c09e4fd31d560096476ada68a06d7f5f545f34cf5ac7922b7961"
+ },
+ "Voldemort's Children, page 90": {
+  "date_modified": "2012-06-30",
+  "date_posted": "2012-06-30",
+  "id": "b87efc7dbdeb494fddee24a144e29d0"
+ },
+ "Voldemort's Children, page 91": {
+  "date_modified": "2012-06-30",
+  "date_posted": "2012-06-30",
+  "id": "d17079e65e6384ab2e774238890e6b9"
+ },
+ "Voldemort's Children, page 92": {
+  "date_modified": "2012-07-01",
+  "date_posted": "2012-07-01",
+  "id": "d27563cda36c2735dbbc6c861bafc9ce"
+ },
+ "Voldemort's Children, page 93": {
+  "date_modified": "2012-07-02",
+  "date_posted": "2012-07-02",
+  "id": "87f7ae1ba33e77ec2bf9593053492d5"
+ },
+ "Voldemort's Children, page 94": {
+  "date_modified": "2012-07-04",
+  "date_posted": "2012-07-04",
+  "id": "86e597b9260faae5650f676b8e3c5a9e"
+ },
+ "Voldemort's Children, page 95": {
+  "date_modified": "2012-07-05",
+  "date_posted": "2012-07-05",
+  "id": "9591e96cfc89390f44ea405e929e184c"
+ },
+ "Voldemort's Children, page 96": {
+  "date_modified": "2012-07-06",
+  "date_posted": "2012-07-06",
+  "id": "9d47551d7d5ca9e15bae65c7249e4c83"
+ },
+ "Voldemort's Children, page 97": {
+  "date_modified": "2012-07-07",
+  "date_posted": "2012-07-07",
+  "id": "e080a857880f632e6916fed1076e40f5"
+ },
+ "Voldemort's Children, page 98": {
+  "date_modified": "2012-07-08",
+  "date_posted": "2012-07-08",
+  "id": "b42bedeaa238a908027fd3a30053fdf9"
+ },
+ "Voldemort's Children, page 99": {
+  "date_modified": "2012-07-09",
+  "date_posted": "2012-07-09",
+  "id": "23f577139d9cc36caf05806a6dbe78cd"
  },
  "Website upgrades!": {
   "date_modified": "2015-10-31",
