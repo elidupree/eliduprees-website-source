@@ -249,13 +249,13 @@ for (i = 0; i < disable_content_warnings_buttons.length; ++i) {
 }
 ''')
 
-import voldemorts_children_pages
-import voldemorts_children
+import voldemorts_children.pages
+import voldemorts_children.definitions
 import acobs_pages
 import acobs
 
 comics_pages = {
-  "voldemorts_children":voldemorts_children_pages.vc_pages,
+  "voldemorts_children":voldemorts_children.pages.vc_pages,
   "acobs":acobs_pages.acobs_pages,
 }
 comics_metadata = {
@@ -265,7 +265,7 @@ comics_metadata = {
     "url": "/voldemorts-children",
     "abbr": "VC",
     "image_width": 750,
-    "dialogue_name_replacements":voldemorts_children.dialogue_name_replace,
+    "dialogue_name_replacements":voldemorts_children.definitions.dialogue_name_replace,
     "image_url_offset":0,
     "page_number_offset": 0,
     "arrow_images": True,

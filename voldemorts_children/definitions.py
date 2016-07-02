@@ -4,7 +4,6 @@ from __future__ import division
 
 
 import css
-import gimp_stuff
 
 
 active_cw_color = "ff5050"
@@ -115,6 +114,13 @@ html.voldemorts_children div.comic_transcript_inner .light_pink { color: #ff80c0
 html.voldemorts_children div.comic_transcript_inner .dark_green { color: #4b984b; /*#326632*/; }
 ''')
 
+bright_orange = '<span class="dialogue bright_orange">bright orange</span>'
+bright_red = '<span class="dialogue bright_red">bright red</span>'
+bright_green = '<span class="dialogue bright_green">bright green</span>'
+dark_green = '<span class="dialogue dark_green">dark green</span>'
+pure_blue = '<span class="dialogue pure_blue">pure blue</span>'
+pale_blue = '<span class="dialogue pale_blue">pale blue</span>'
+light_pink = '<span class="dialogue light_pink">light pink</span>'
+deep_purple = '<span class="dialogue deep_purple">deep purple</span>'
+cyan = '<span class="dialogue cyan">cyan</span>'
 
-def convert_vc_page(page_dict):
-  gimp_stuff.generate_vc_images(page_dict["xcf_base"], page_dict["list_index"])
