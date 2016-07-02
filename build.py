@@ -128,7 +128,7 @@ Disallow: /''')
     if "--no-jshint" not in sys.argv and path.endswith (".js"):
       print('jshinting ' +buildpath)
       subprocess.run(['jshint', buildpath])
-    if "--accessibility"  n sys.argv and path.endswith (".html"):
+    if "--accessibility" in sys.argv and path.endswith (".html"):
       subprocess.run(['pa11y', "--ignore", 'warning;notice', "file://" + os.path.abspath (buildpath)])
 
   # TODO real cmdline processing

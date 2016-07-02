@@ -699,6 +699,8 @@ html.transcript_hidden_'''+ transcript_identifier_string +''' #hide_transcript_b
     cutter = re. compile ( r"<cut>.*?</p>.*$", re.DOTALL)
     post_content = cutter.sub ('''[...]</p>
 <a class="continue_reading" href="'''+ permalink +'''">Continue reading<span class="invisible"> '''+ title +'''</span>...</a>''', post_content)
+    #this sometimes cuts off anchors, so make sure fragments point at the canonical URL
+    post_content = re.sub ('href="#','href="' + permalink + '#', post_content)
   else:
     post_content = re.sub ("<cut>", "", post_content)
   

@@ -572,7 +572,7 @@ def add_comic_pages(page_dict):
       archive_entries.append('<a class="comic_archive_entry" href="'+page_url(page)+'"><img class="comic_archive_entry" src="'+comic_image_url(page, 'thumbnail_full')+'" alt="' +'Page '+str(page ["page_number"])+ '"></a>')
     
     archive_entries.append('</div>')
-    archive_html = '<main><div class="comic_archive">'+''.join(archive_entries)+'</div></main>'
+    archive_html = '<main><div id="content" class="comic_archive">'+''.join(archive_entries)+'</div></main>'
     utils.make_page (page_dict,
       comics_metadata[comic_id]["url"]+'/archive',
         'Archive ⊂ '+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
