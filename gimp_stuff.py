@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 
-
+import sys
 import subprocess
 import shlex
+import comics
 
 def gimp_batch(command):
   commandp = "gimp --no-interface --batch="+shlex.quote(command)+" --batch='(gimp-quit 0)'"
@@ -15,10 +16,7 @@ def gimp_batch(command):
   print("finished GIMP batch command")
   #print("gimp --no-interface --batch='"+command+"'")
 
-def generate_vc_images(xcf_basename, page_number):
-  generate_images("/n/art/voldemorts_children/", xcf_basename+".xcf", "VC_"+str(page_number))
-
-def generate_images(infile_path, infile_base, outfile_base):
+def generate_images(infile_path, infile_base, outfile_base, width, height, target_width):
   output_dir = "./media/generated_from_source_files/"
   infile = infile_path+infile_base
   page_outfile_base = outfile_base+".png"
@@ -37,12 +35,12 @@ def generate_images(infile_path, infile_base, outfile_base):
         (thumbnail_full (car (gimp-image-duplicate page)))
         (thumbnail_full_drawable (car (gimp-image-get-active-layer thumbnail_full)))
       )
-  (gimp-image-scale-full page 750 1000 INTERPOLATION-CUBIC)
+  (gimp-image-scale-full page '''+ str (target_width) +''' '''+ str (height*target_width//width) +''' INTERPOLATION-CUBIC)
   (gimp-image-convert-indexed page FIXED-DITHER MAKE-PALETTE 127 FALSE FALSE "")
   (file-png-save RUN-NONINTERACTIVE page page_drawable "'''+page_outfile+'" "'+page_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete page)
   
-  (gimp-image-crop thumbnail_top 1500 390 0 0)
+  (gimp-image-crop thumbnail_top '''+ str (width//2) +''' '''+ str (78*width//600) +''' 0 0)
   (gimp-image-scale-full thumbnail_top 300 78 INTERPOLATION-CUBIC)
   (gimp-image-convert-indexed thumbnail_top NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
   (file-png-save RUN-NONINTERACTIVE thumbnail_top thumbnail_top_drawable "'''+thumbnail_top_outfile+'" "'+thumbnail_top_outfile_base+'''" 0 9 0 0 0 0 0)
@@ -54,3 +52,28 @@ def generate_images(infile_path, infile_base, outfile_base):
   (gimp-image-delete thumbnail_full)
 )''')
 
+#I know, I know, hard-coding file paths on my own system isn't the proper way to do this.
+#In the future, I should probably make a second git repository for the comic source files.
+metadata = {
+"voldemorts_children": {
+"path":"/n/art/voldemorts_children/",
+"width": 3000, "height": 4000,
+},
+"acobs": {
+"path": "/n/art/placeholder_name_for_surreal_superhero_comic/",
+"width": 576, "height": 845,
+},
+"people_are_wrong_sometimes": {
+"path": "/n/backup_often/colby/
+},
+}
+
+def do_page(comic, num):
+  page_dict =comics.comics_pages[comic][num]
+  generate_images(metadata [comic] ["path"], page_dict["xcf_base"] + ".xcf", comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"]),metadata [comic] ["width"], metadata [comic] ["height"], comics.comics_metadata [comic] ["image_width"])
+
+def do_pages (comic):
+  if len(sys.argv) > 2:
+    for i in range(int(sys.argv[1]), int(sys.argv[2])+1):
+      do_page(comic, i)
+  else:   do_page(comic, int(sys.argv[1])) 
