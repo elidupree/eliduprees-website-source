@@ -8,7 +8,7 @@ import css
 css.insert('''
 
 html.acobs div.bars_outer_box {
-  background-color: #909090 /*#a00000*/; }
+  background-color: #ffffff; }
 html.acobs div.comic_content_warning_text {
   color: black; }
 html.acobs .meta_controls_coloring {

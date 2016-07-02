@@ -253,10 +253,13 @@ import voldemorts_children.pages
 import voldemorts_children.definitions
 import acobs_pages
 import acobs
+import paws
+import paws_pages
 
 comics_pages = {
   "voldemorts_children":voldemorts_children.pages.vc_pages,
   "acobs":acobs_pages.acobs_pages,
+  "people_are_wrong_sometimes":paws_pages.pages,
 }
 comics_metadata = {
   "voldemorts_children": {
