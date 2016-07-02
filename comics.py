@@ -285,7 +285,7 @@ comics_metadata = {
   },
   "people_are_wrong_sometimes": {
     "title": "People Are Wrong Sometimes",
-    "html_class": "",
+    "html_class": "paws",
     "url": "/people-are-wrong-sometimes",
     "abbr": "PAWS",
     "image_width": 638,
