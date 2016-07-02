@@ -180,7 +180,8 @@ Disallow: /''')
     subprocess.check_call(['/usr/bin/sudo', '/bin/systemctl',
       'reload-or-try-restart', 'nginx.service'])
     time.sleep(1)
-    idupree_websitepy.tests.test(config)
+    if '--no-idupree-websitepy-tests' not in sys.argv:
+      idupree_websitepy.tests.test(config)
 
 if __name__ == '__main__':
   main()
