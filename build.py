@@ -50,9 +50,6 @@ import game_pages
 import comics
 import redirects
 
-import idupree_websitepy.build
-import idupree_websitepy.tests
-
 def ensure_dir(d):
   if not os.path.exists(d):
     os.makedirs(d)
@@ -133,6 +130,9 @@ Disallow: /''')
 
   # TODO real cmdline processing
   if '--no-idupree-websitepy' not in sys.argv:
+    import idupree_websitepy.build
+    import idupree_websitepy.tests
+
     config = idupree_websitepy.build.Config(
       site_source_dir = build_dir,
       build_output_dir = './build/idupree_websitepy_output/',
