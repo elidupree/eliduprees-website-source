@@ -46,7 +46,7 @@ def generate_images(infile_path, infile_base, outfile_base, width, height, targe
   (file-png-save RUN-NONINTERACTIVE thumbnail_top thumbnail_top_drawable "'''+thumbnail_top_outfile+'" "'+thumbnail_top_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete thumbnail_top)
   
-  (gimp-image-scale-full thumbnail_full 120 160 INTERPOLATION-CUBIC)
+  (gimp-image-scale-full thumbnail_full 120 '''+ str (height*120//width) +''' INTERPOLATION-CUBIC)
   (gimp-image-convert-indexed thumbnail_full NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
   (file-png-save RUN-NONINTERACTIVE thumbnail_full thumbnail_full_drawable "'''+thumbnail_full_outfile+'" "'+thumbnail_full_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete thumbnail_full)
@@ -64,13 +64,14 @@ metadata = {
 "width": 576, "height": 845,
 },
 "people_are_wrong_sometimes": {
-"path": "/n/backup_often/colby/
+"path": "/n/backup_often/colby/EN197B/",
+"width":2552, "height":3508,
 },
 }
 
 def do_page(comic, num):
   page_dict =comics.comics_pages[comic][num]
-  generate_images(metadata [comic] ["path"], page_dict["xcf_base"] + ".xcf", comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"]),metadata [comic] ["width"], metadata [comic] ["height"], comics.comics_metadata [comic] ["image_width"])
+  generate_images(metadata [comic] ["path"], page_dict["xcf_base"] + ".xcf", comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]),metadata [comic] ["width"], metadata [comic] ["height"], comics.comics_metadata [comic] ["image_width"])
 
 def do_pages (comic):
   if len(sys.argv) > 2:

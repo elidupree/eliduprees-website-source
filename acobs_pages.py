@@ -8,7 +8,7 @@ acobs_pages = [
 {
   "force_id":"11c299c13f3536866afbc6d7df8132db",
   "force_date":datetime.date(2011, 9, 10),
-
+  "xcf_base": "combined_1",
   "transcript":"""TITLE: A Couple of Badass Superheroes, In: "Shooting People Is A Good Idea"!!!<br/>
 <br/>
 Two superheroes stand around. On the left is Jeva, a grinning short person with big hair and a katana. On the right is Sam, a taller, more serious-looking person holding up a revolver. Both of them would probably read as female to most viewers.<br/>
@@ -387,6 +387,11 @@ NARRATION: ~fin~""",
 <p> &ndash; Eli</p>""",
 },
 ]
+
+for page_number in range (len ( acobs_pages)):
+  page = acobs_pages [page_number]
+  if "xcf_base" not in page:
+    page ["xcf_base"] = "sketch_" + str (page_number + 1)
 
 """
   {
