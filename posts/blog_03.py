@@ -135,7 +135,7 @@ return primes;</pre>
 """,
 },
 {
-  "title":"""Title: C++ vs. Haskell: ROUND TWO: But I want it to be fast!""",
+  "title":"""C++ vs. Haskell: ROUND TWO: But I want it to be fast!""",
   "force_id":"a0dd163e9656f581c3b748350509a55e",
   "force_date":datetime.date(2011, 6, 20),
   "tags":["programming"],
