@@ -85,11 +85,15 @@ img.exhibit.nwia {
 img.exhibit.hexy {
   width: 300px;
   height: 300px;
-  border-radius: 8em 2em; }
+  border-radius: 2em 8em; }
 img.exhibit.greencaves {
   width: 300px;
   height: 300px;
-  border-radius: 2em 8em; }
+  border-radius: 8em 2em; }
+img.exhibit.asteroids {
+  width: 300px;
+  height: 300px;
+  border-radius: 8em 2em; }
 @media screen and (max-width: 45em) {
   a.exhibit {
     margin: 2em 0;
@@ -159,8 +163,9 @@ def add_category_pages(page_dict):
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
     '''+ exhibit ("http://lasercake.net/", "lasercake left", "/media/lasercake-snapshot-progressive.jpg?rr", '''Lasercake, an (early prototype of an) open-world game about the environment.''', "Go to website")
-    + exhibit ("/hexy", "hexy right", "/media/hexy_bondage_page_background.jpg?rr", '''Hexy Bondage, a sexual board game for two or more players.''', "Go to website")
-    + exhibit ("/games/green-caves", "greencaves left", "/media/green-caves-screenshot.png?rr", '''A simple online game where you fly around in some green caves.''', "Play now")
+    + exhibit ("/games/green-caves", "greencaves right", "/media/green-caves-screenshot.png?rr", '''A simple online game where you fly around in some green caves.''', "Play now")
+    + exhibit ("/hexy", "hexy left", "/media/hexy_bondage_page_background.jpg?rr", '''Hexy Bondage, a (printable) sexual board game for two or more players.''', "Go to website")
+    + exhibit ("/games/pac-asteroids", "asteroids right", "/media/pac-asteroids-thumbnail.png",'''Pac-asteroids, a half-baked unfinished online game I wrote while learning JavaScript.''', "Play now")
     +'''<div class="category_page_bottom"></div>
   </div>
 </main>''')
