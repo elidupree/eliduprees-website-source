@@ -17,8 +17,6 @@ old_website_conversions = {
   "main/latest_comic_and_blog": "blog",
   "main/tags/recommendations-of-o": "blog",
   "main/tags/pages-of-ia-couple-of-badass-superheroesi": "blog",
-  "main/tags/pages-of-ia-couple-of-badass-superheroesi%3Forder%3Dchronological%26after%3D28": "blog",
-  "main/posts/25-c%20%20-vs-haskell-round-one-what%27s-a-programming-language-anyway": "blog/c-vs-haskell-round-one-whats-a-programming-language-anyway",
   "main/index": "",
   "main/index.py": "",
   "main/atom.xml": "atom.xml",
@@ -37,7 +35,6 @@ old_website_conversions = {
   "main/tags/posts-about-visual-art": "blog/tags/visual-art",
   "main/tags/posts-about-mathematics": "blog/tags/math",
   "main/tags/posts-about-computer-programming": "blog/tags/programming",
-  "main/tags/posts-about-computer-programming%3Fafter%3D0%26order%3Dchronological": "blog/tags/programming",
   "main/tags/posts-about-crass-physical-reality": "blog/tags/crass-physical-reality",
   "main/tags/posts-about-lasercake": "blog/tags/lasercake",
   "main/tags/recommendations-of-other-websites": "blog/tags/other-websites",
@@ -46,7 +43,6 @@ old_website_conversions = {
   "main/tags/pages-of-a-couple-of-badass-superheroes": "a-couple-of-badass-superheroes/archive",
   "main/tags/pages-of-voldemort's-children": "voldemorts-children/archive",
   "main/stories/121-not-what-i-am": "stories/not-what-i-am",
-  "main/stories/121-not-what-i-am%3Ftrigger_warnings%3Doff": "stories/not-what-i-am",
   "main/stories/121-not_what_i_am": "stories/not-what-i-am",
   "green_caves_game.html": "games/green-caves",
   "as-yet-untitled-story.html": "stories/will-you-try-to-escape",
@@ -86,13 +82,13 @@ old_website_conversions = {
   "main/posts/22-user-comment": "blog/minor-progress-on-the-haskell-exercise-and-stuff",
   "main/posts/23-user-comment": "blog/first-progress",
   "main/posts/24-this-is-a-child-friendly-website": "blog/this-is-a-child-friendly-website",
-  "main/posts/25-c-vs-haskell-round-one-what's-a-programming-language-anyway": "blog/c-vs-haskell-round-one-whats-a-programming-language-anyway",
+  "main/posts/25-c++-vs-haskell-round-one-what's-a-programming-language-anyway": "blog/c-vs-haskell-round-one-whats-a-programming-language-anyway",
   "main/posts/26-user-comment": "blog/scrutinized-words-man-woman-boy-girl",
   "main/posts/27-author's-comment": "blog/scrutinized-words-man-woman-boy-girl",
   "main/posts/28-nudity": "blog/nudity",
   "main/posts/29-release-early-release-often": "blog/release-early-release-often",
   "main/posts/30-user-comment": "blog/release-early-release-often",
-  "main/posts/31-title-c-vs-haskell-round-two-but-i-want-it-to-be-fast": "blog/title-c-vs-haskell-round-two-but-i-want-it-to-be-fast",
+  "main/posts/31-title-c++-vs-haskell-round-two-but-i-want-it-to-be-fast": "blog/title-c-vs-haskell-round-two-but-i-want-it-to-be-fast",
   "main/posts/32-tablet-received": "blog/tablet-received",
   "main/posts/33-user-comment": "blog/title-c-vs-haskell-round-two-but-i-want-it-to-be-fast",
   "main/posts/34-user-comment": "blog/title-c-vs-haskell-round-two-but-i-want-it-to-be-fast",
@@ -450,16 +446,27 @@ def add_redirects(page_dict):
         ("'", ""),
         ("'.*", ""),
         ("'.*", "&"),
+        # currently nginx uri-decodes before matching against
+        # this code's paths, so comment some of these
+        # ("'", "%27"),
+        # ("'", "%2527"),
+        # but if it were double-escaped, then it comes out
+        # de-escaping to:
         ("'", "%27"),
-        ("'", "%2527"),
-        ("'", "%5C'"),
-        ("'", "%5C%27"),
         ("'", "/'"),
-        ("'", r"\'"),
+        # idupree_websitepy couldn't handle the paths with
+        # backslashes due to a hack that made things work
+        # more on Windows, and in any case backslashes in
+        # URLs are absurd and not even preserved by CHrome,
+        # so skip this:
+        # ("'", lambda _: r"\'"),
+        # ("'", "%5C'"),
+        # ("'", "%5C%27"),
         (r"\+", ""),
         (r"\+.*", ""),
-        (r"\+", "%20"),
-        (r"\+", "%2B"),
+        (r"\+", " "),
+        #(r"\+", "%20"),
+        #(r"\+", "%2B"),
         ]:
       e = re.sub (pattern, replace, from_path)
       if e != from_path:
