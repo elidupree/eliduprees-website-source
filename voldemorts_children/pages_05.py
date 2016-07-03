@@ -8,7 +8,7 @@ from voldemorts_children.definitions import *
 pages = [
 {
 "chapter_start": "Chapter Seven: The Riddle of the Past",
-"xcf_base": "ch8_title",
+"xcf_base": "ch7_title",
   "force_id":"5358acfdb19b93763b123ad1e6fbb184",
   "force_date":datetime.date(2012, 6, 25),
 
