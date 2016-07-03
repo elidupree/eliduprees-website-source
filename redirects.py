@@ -51,7 +51,7 @@ old_website_conversions = {
   "temporary_hexy_bondage_distribution.html": "hexy",
   "pac-asteroids.html": "games/pac-asteroids",
   "pac-asteroids-first.html": "games/pac-asteroids",
-  "hpmor_ending": "TODO",
+  "hpmor_ending": "harry-potter-and-the-methods-of-rationality-commentary",
   "colby_stuff/how_I_experienced_the_four_o_clock_discourse.png": "TODO",
   "colby_stuff/2011_11_06.png": "TODO",
   "colby_stuff/2011_11_07.png": "TODO",
@@ -437,6 +437,11 @@ conveniences = {
   "EOHS": "https://www.patreon.com/EoHS",
   "vc": "/voldemorts-children",
   "VC": "/voldemorts-children",
+  "hpmor": "/harry-potter-and-the-methods-of-rationality-commentary",
+  "Korra": "/the-morality-of-legend-of-korra",
+  "korra": "/the-morality-of-legend-of-korra",
+  "Undyne": "/some-thoughts-about-undyne-the-character-from-the-game-undertale",
+  "undyne": "/some-thoughts-about-undyne-the-character-from-the-game-undertale",
 }
 
 def add_redirects(page_dict):

@@ -103,7 +103,7 @@ Disallow: /''')
     for path,contents in page_dict.items():
       if path.endswith (".html") and path not in reached_pages:
         reach_page (path)
-        orphaned_pages [path] = True
+        orphaned_pages [path [0:-5]] = True
   find_orphaned_pages ()
   print ("Orphaned pages:")
   print (orphaned_pages)
@@ -137,7 +137,7 @@ Disallow: /''')
     config = idupree_websitepy.build.Config(
       site_source_dir = build_dir,
       build_output_dir = './build/idupree_websitepy_output/',
-      doindexfrom = ['/'],
+      doindexfrom = ['/', "/harry-potter-and-the-methods-of-rationality-commentary", "/the-morality-of-legend-of-korra", "/some-thoughts-about-undyne-the-character-from-the-game-undertale",],
       butdontindexfrom = [],
       error_on_missing_resource = False,
       error_on_broken_internal_link = False,

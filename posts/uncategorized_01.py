@@ -66,7 +66,7 @@ posts = [
 <p>I'm going to hold off on complaining about any of the inconsistencies with the plot or physics, because the moral stuff is more important. And this show is supposedly progressive/"subversive". Compared to other TV shows, it might be? It's really terrible that we have set such a low bar.</p>''',
 },
 {
-  "title":"Harry Potter and the Methods of Rationality",
+  "title":"Harry Potter and the Methods of Rationality: Commentary",
   "auto_paragraphs": True,
   "contents":'''(Spoilers ahoy.)
 
@@ -85,7 +85,7 @@ Then #1 Obliviates all minions involved (except the one involved in the fake hos
 
 Most everything else happens as the story says. #3, not knowing he's being controlled by an Unbreakable Vow, rationalizes his decisions, and is able to report that false motivation in Parseltongue because he believes it.
 
-I find this theory *more believable* than the story where #1 willingly exposes himself to a prophecied opponent who is holding a wand, knows #1's true identity, and even has an hour left on his Time-Turner. The biggest weakness of the theory is that the imprinting might not work as smoothly as I describe. Still, #1 had plenty of time to experiment and perfect the plan before executing it, since there was nothing crucial about the exact moment he pulled it off.
+I find this theory <em>more believable</em> than the story where #1 willingly exposes himself to a prophecied opponent who is holding a wand, knows #1's true identity, and even has an hour left on his Time-Turner. The biggest weakness of the theory is that the imprinting might not work as smoothly as I describe. Still, #1 had plenty of time to experiment and perfect the plan before executing it, since there was nothing crucial about the exact moment he pulled it off.
 
 That's about the size of it.
 
