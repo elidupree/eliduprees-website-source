@@ -73,7 +73,7 @@ def do_page(comic, num):
   page_dict =comics.comics_pages[comic][num]
   generate_images(metadata [comic] ["path"], page_dict["xcf_base"] + ".xcf", comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]),metadata [comic] ["width"], metadata [comic] ["height"], comics.comics_metadata [comic] ["image_width"])
 
-def do_pages (comic):
+def do_pages ():
   comic = sys.argv[1]
   if len(sys.argv) > 3:
     for i in range(int(sys.argv[2]), int(sys.argv[3])+1):
