@@ -146,7 +146,7 @@ def add_category_pages(page_dict):
         exhibit ("/people-are-wrong-sometimes", "paws right", "/media/PAWS_thumbnail.png?rr",'''
         In <span class="title">People Are Wrong Sometimes</span>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)''', "Start reading") +
         exhibit ("/a-couple-of-badass-superheroes" , "acobs left", "/media/ACOBS_thumbnail.png?rr",'''
-        <span class="title">A Couple of Badass Superheroes</span> go on a silly adventure. I wrote the first part September-December 2011 to get used to drawing using my tablet. (10 pages)''', "Start reading") +'''
+        <span class="title">A Couple of Badass Superheroes</span> go on a silly adventure. I wrote the first part September-December 2011 to get used to drawing using my tablet. (14 pages)''', "Start reading") +'''
     <div class="category_page_bottom"></div>
   </div>
 </main>''')
