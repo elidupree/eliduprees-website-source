@@ -5,13 +5,14 @@ from __future__ import division
 
 import utils
 import css
+import javascript
 import comics
 import blog
 import blog_posts
 
 css.insert('''
 div.category_page_bottom { clear:both; }
-.exhibit {
+a.exhibit, div.exhibit {
   display: block;
   clear:both;
   background: white;
@@ -20,6 +21,7 @@ div.category_page_bottom { clear:both; }
   margin-top: 7em;
   text-align: center;
   text-decoration: none; }
+.exhibit.no_image {margin-top:4em;}
 a.exhibit.fadeout {
   position: relative;
   overflow: hidden; }
@@ -95,9 +97,10 @@ img.exhibit.asteroids {
   height: 300px;
   border-radius: 8em 2em; }
 @media screen and (max-width: 45em) {
-  a.exhibit {
-    margin: 2em 0;
-    margin-top: 7em; }
+  a.exhibit, div.exhibit {
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0; }
   img.exhibit {
     padding: 0.8em;
     margin-bottom: 1em; }
@@ -110,7 +113,7 @@ img.exhibit.asteroids {
   img.exhibit { padding: 0.5em; margin: -0.5em; }
   img.exhibit.left { display: inline; float: none; margin: 0; }
   img.exhibit.right { display: inline; float: none; margin: 0; }
-  a.exhibit { margin-top: 2em; }
+  a.exhibit, div.exhibit { margin-top: 2em; }
 }
 @media screen and (max-width: 25em) {
   img.exhibit.left { width: 95%; height: auto; }
@@ -118,14 +121,19 @@ img.exhibit.asteroids {
 }
 
 span.title { font-style: italic; }
+
+.debug {display: none;}
+html.debug_mode .debug {display: block; display: initial;}
+html.debug_mode .not_debug {display: none;}
 ''')
 
 import html_pages
 import bars
 
 def exhibit (href, classes, thumbnail, blurb, enter_text):
-    return (
-    (('''<a href="'''+href +'''" class="exhibit '''+ classes +'''">''') if  href else '<div class="exhibit">') +
+  class_string ='''exhibit '''+ classes + (" no_image" if thumbnail is None else "")
+  return (
+    (('''<a href="'''+href +'''" class="'''+ class_string +'''">''') if  href else '<div class="'+ class_string + '">') +
       ('<img class="exhibit ' + classes + '" alt="" src="' + thumbnail + '" />' if thumbnail else '') +
       '<div class="exhibit_blurb">' + blurb + '</div>' +
       ('<div class=" exhibit_start_reading">' + enter_text + '</div>' if enter_text else '') + 
@@ -184,3 +192,31 @@ def add_category_pages(page_dict):
   </div>
 </main>''')
   )
+
+javascript.do_before_body (r'''
+if (read_cookie ("debug_mode")) {document.documentElement.className += " debug_mode";}
+''')
+
+def add_secrets (page_dict, orphaned_pages):
+  utils.make_page (page_dict,
+    '/secrets',
+    "Secrets ⊂ Eli Dupree's website",
+    "",
+      '''<a class="skip" href="#content">Skip to content</a>
+      '''+ utils.background_image () +'''
+      '''+bars.bars_wrap({"games":True}, '''<main>
+  <div id="content">
+    '''
+    + exhibit (None, "", None, '''<h1> Secrets </h1> <p>Congratulations! You've arrived at the secret page. You probably got here by supporting <a href="https://www.patreon.com/EliDupree">my Patreon page</a>. (Thank you so much!) Or maybe you found it by snooping through <a href="https://github.com/elidupree">my code on GitHub</a>. (You're very clever!) Either way, welcome! Enjoy the secrets below.</p> ''', None)
+    + exhibit (None, "", None, '''<p>When I work on designing this website, I use a debug mode that displays some extra information. Right now, the only hidden information is an estimate of the reading difficulty (in US grade level) of each post.</p> <p><a class="debug" id="disable_debug_mode" href=" javascript:;">Disable debug mode</a><a class="not_debug" id="enable_debug_mode" href=" javascript:;">Enable debug mode</a></p> ''', None)
+    + exhibit (None, "", None, '''<p>Not all of my posts are accessible from the main page. Sometimes, I create a temporary page for testing purposes, or a game that is still a work-in-progress. Sometimes, I write things to share with specific fandoms, which wouldn't necessarily be interesting to a general audience (or I might want to avoid recommending a show even by mentioning it). You, dear reader, have special access.</p> <p>All currently inaccessible pages are listed below. If you start from this page and follow links, you can reach everything on elidupree.com.</p> <p>'''+ "".join (['''<a href="'''+ page +'''">'''+ page +'''</a>''' for page in orphaned_pages]) + "</p> ", None)
+        
+    +'''<div class="category_page_bottom"></div>
+  </div>
+</main>'''), {"after_body":'''
+add_event_listener (document.getElementById ("enable_debug_mode"), "click", function () {set_cookie ("debug_mode", true, 30);document.documentElement.className += " debug_mode";});
+add_event_listener (document.getElementById ("disable_debug_mode"), "click", function () {delete_cookie ("debug_mode"); remove_class (document.documentElement, "debug_mode");});
+'''}
+  )
+
+    
