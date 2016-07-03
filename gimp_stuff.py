@@ -16,7 +16,7 @@ def gimp_batch(command):
   print("finished GIMP batch command")
   #print("gimp --no-interface --batch='"+command+"'")
 
-def generate_images(infile_path, infile_base, outfile_base, width, height, target_width):
+def generate_images(infile_path, infile_base, outfile_base, width, height, target_width, index_full_page):
   output_dir = "./media/generated_from_source_files/"
   infile = infile_path+infile_base
   page_outfile_base = outfile_base+".png"
@@ -36,7 +36,7 @@ def generate_images(infile_path, infile_base, outfile_base, width, height, targe
         (thumbnail_full_drawable (car (gimp-image-get-active-layer thumbnail_full)))
       )
   (gimp-image-scale-full page '''+ str (target_width) +''' '''+ str (height*target_width//width) +''' INTERPOLATION-CUBIC)
-  (gimp-image-convert-indexed page FIXED-DITHER MAKE-PALETTE 127 FALSE FALSE "")
+  '''+ ('''(gimp-image-convert-indexed page FIXED-DITHER MAKE-PALETTE 127 FALSE FALSE "") if index_full_page else "") +'''
   (file-png-save RUN-NONINTERACTIVE page page_drawable "'''+page_outfile+'" "'+page_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete page)
   
@@ -58,6 +58,7 @@ metadata = {
 "voldemorts_children": {
 "path":"/n/art/voldemorts_children/",
 "width": 3000, "height": 4000,
+"index_full_page": True,
 },
 "acobs": {
 "path": "/n/art/placeholder_name_for_surreal_superhero_comic/",
@@ -71,7 +72,7 @@ metadata = {
 
 def do_page(comic, num):
   page_dict =comics.comics_pages[comic][num]
-  generate_images(metadata [comic] ["path"], page_dict["xcf_base"] + ".xcf", comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]),metadata [comic] ["width"], metadata [comic] ["height"], comics.comics_metadata [comic] ["image_width"])
+  generate_images(metadata [comic] ["path"], page_dict["xcf_base"] + ".xcf", comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]),metadata [comic] ["width"], metadata [comic] ["height"], comics.comics_metadata [comic] ["image_width"], "index_full_page" in metadata)
 
 def do_pages ():
   comic = sys.argv[1]
