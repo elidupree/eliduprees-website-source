@@ -53,10 +53,10 @@ html.voldemorts_children .post_content_section {
   background-color: #cccccc }
 html.voldemorts_children .comment_body {
   background-color: #cccccc }
-html.voldemorts_children div.all_comments:hover div.comment_body {
+/*html.voldemorts_children div.all_comments:hover div.comment_body {
   background-color: #aaaaaa; }
 html.voldemorts_children div.user_comment:hover>div.comment_body_hover_marker>*>div.comment_body {
-  background-color: #cccccc; }
+  background-color: #cccccc; }*/
 html.voldemorts_children .blog_post_metadata {
   background-color: rgba(204,204,204,.7) }
 
