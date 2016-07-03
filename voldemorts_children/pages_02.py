@@ -8,6 +8,7 @@ from voldemorts_children.definitions import *
 pages = [
 {
 "chapter_start": "Chapter Three: Seats of Influence",
+"xcf_base": "ch3_title_1",
   "force_id":"db73782233bdf40ea79867809df20422",
   "force_date":datetime.date(2012, 3, 4),
 
@@ -23,6 +24,7 @@ The left half is a complicated metaphorical image. Albus Dumbledore is sitting i
 <p>The triskelion on the floor definitely <em>isn't</em> the <a href="https://en.wikipedia.org/wiki/BDSM#Symbols">BDSM emblem</a> (parts of linked page NSFW); BDSM is consensual by definition, and the relationships between these characters... aren't. So I deliberately made the arms spiral in the opposite direction from the emblem.</p>""",
 },
 {
+"xcf_base": "ch3_p1",
   "force_id":"545037a8c4798174e133db95242df7dd",
   "force_date":datetime.date(2012, 3, 5),
 
@@ -35,6 +37,7 @@ PAST HARRY: But instead...""",
 <p>I ought to have a buffer ready for this kind of thing, but, well, I already used it up. (Hey, it's my first time doing this!) I should be able to build the buffer back up again in a couple of weeks when I'll have a 9-day break from college. Until then, I'll do my best, but my updates might be a bit inconsistent.</p>""",
 },
 {
+"xcf_base": "ch3_p2",
   "force_id":"a12d4d8790ec29e9e10c1f29a85fa78c",
   "force_date":datetime.date(2012, 3, 8),
 
@@ -50,6 +53,7 @@ We will enter a narrative frame where we see the memories Harry is seeing in the
 <p>Other than that, the Pensieve works the same way it does in the books.</p>""",
 },
 {
+"xcf_base": "ch3_p3",
   "force_id":"8c400c2522e0a40972d7305d6765856c",
   "force_date":datetime.date(2012, 3, 13),
 
@@ -68,6 +72,7 @@ McGonagall is cut off by the narrative frame closing. We see Harry in front of t
 <p>In the movie, McGonagall describes the Dursleys as "the worst kind of Muggles"; in the book, ze doesn't say that outright, but says "You couldn't find two people who are less like us" &ndash; and I infer that "us" means "wizards". Ze goes on, "These people will never understand him! He'll be famous!"... So it seems like zir objection is to a person of high status (a wizard, a child of a prestigious family, a legend) being placed with a family of low status (muggles, people with outwardly distasteful behavior by wizarding standards). McGonagall isn't thinking about child abuse here &ndash; ze opposes the placement because ze's <em>racist</em>.</p>""",
 },
 {
+"xcf_base": "ch3_p4",
         
   "content_warning":""""a little blood""",
   "force_id":"b594261f7fadae0b98b1b86aaf97bc06",
@@ -89,6 +94,7 @@ DUMBLEDORE: Well &ndash; give him here, Hagrid &ndash; we'd better get this over
 <p>I think I might start using "non-magical people" and "magical people" in these annotations anyway, because "witch/wizard" is gendered. (As a side note, I insist that in general usage, "wizard" is gender-neutral. The main reason I insist upon that is because I enjoy claiming to be a wizard even though I'm not male, but it does have the support of some existing authorities, such as <i>Dungeons & Dragons</i>. However, this is a <i>Harry Potter</i> fanfic, and in the <i>Harry Potter</i> universe, "wizard" is definitely gendered.)</p>""",
 },
 {
+"xcf_base": "ch3_p5",
   "force_id":"1d2557f11297ffd08e30c1cb9c5eb7f6",
   "force_date":datetime.date(2012, 3, 19),
 
@@ -389,7 +395,7 @@ James's wand lies in two pieces on the floor. One piece is stained with blood.""
 <p>The Ministry prohibits the possession of books of "dark magic", such as the one Lily got that spell from, without special authorization; the Hogwarts library has this authorization, but Lily does not. However, at the height of Voldemort's power, the Department of Magical Law Enforcement has more important things to do than bust people for having banned books. The law mainly functions as an excuse to make arrests if Ministry officials suspect someone of being a Death Eater and raid zir home, but don't find real evidence. Many people have such books out of curiosity, or for self-defense, or because "dark" spells were included in a book they had for unrelated reasons, but once it's gotten to that point, <abbr title="Department of Magical Law Enforcement">DMLE</abbr> agents don't stop to wonder if the accused might be innocent.</p>""",
 },
 {
-        
+"xcf_base": "ch3_p21_2",
   "content_warning":""""gore""",
   "force_id":"3751eddceaa7711b6f14a5c199e05c76",
   "force_date":datetime.date(2012, 5, 8),
@@ -474,6 +480,11 @@ A hemispherical shield appears between Granger and the fireplace.""",
 },
 ]
   
+
+for page_number in range (len ( pages)):
+  page = pages [page_number]
+  if "xcf_base" not in page:
+    page ["xcf_base"] = "ch3_p" + str (page_number)
 
 
 """

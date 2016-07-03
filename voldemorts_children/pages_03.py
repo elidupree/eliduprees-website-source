@@ -7,6 +7,8 @@ from voldemorts_children.definitions import *
 
 pages = [
 {
+"chapter_start": "Chapter Four: The Daily Struggle for Dignity",
+"xcf_base": "ch4_title",
   "force_id":"2ac6629f7a8dfa8c13660be159335bea",
   "force_date":datetime.date(2012, 5, 13),
 
@@ -21,6 +23,7 @@ The Daily Struggle for Dignity""",
 """,
 },
 {
+"xcf_base": "ch4_p1",
   "force_id":"ca22fb2303c220c564f9b9f60f5ef021",
   "force_date":datetime.date(2012, 5, 13),
 
@@ -47,6 +50,7 @@ TONKS: You still <em>have</em> that thing?""",
 <p>Also, with this page &ndash; if we assume that the characters are all actually the genders people assume about them &ndash; <i>Voldemort's Children</i> finally passes the Bechdel test. (The Bechdel Test is "(1) it has two female characters in it who (2) talk to each other about (3) something other than a man". Granger and Tonks talked to each other on the first two pages, but it was about Harry.) It took this long because almost all conversations so far have included Harry; by comparison, if Harry was female, we wouldn't have passed the reverse test yet (unless you count James and Sirius when they were bullying Snape), and wouldn't pass it until chapter seven, when there will be a flashback where Dumbledore talks to the young Tom Riddle.</p>""",
 },
 {
+"xcf_base": "ch4_p2",
   "force_id":"b71531d0ccad6bbffed887bc25ff7bc3",
   "force_date":datetime.date(2012, 5, 14),
 
@@ -64,6 +68,7 @@ GRANGER: The truth potion? It makes the subject answer the questions you ask, an
 <p>The desk works like Moody's trunk from the books: If you open it with Granger's key, you'll find the drawer with the Time-Twister in it, but if you open it with a different key, you'll find something different. If you open it with the kind of lockpicks you can get from Weasleys' Wizard Wheezes, you'll find a high-tech burglar alarm system. Tonks personally disguised zemself as a Hogwarts student (Fred and George don't usually sell to <abbr title="Department of Magical Law Enforcement">DMLE</abbr> agents) and bought a set in order to make sure DMLE security is safe against the current tools available.</p>""",
 },
 {
+"xcf_base": "ch4_p3",
   "force_id":"6c9f09af7218c634ca266ecb3d24c7fa",
   "force_date":datetime.date(2012, 5, 16),
 
@@ -92,6 +97,7 @@ PAST GRANGER: As a matter of fact...""",
 <p>Tonks, of course, is one of the trackers Granger refers to. Ze's very good, but people who haven't worked with zem sometimes have trouble believing in zir skills because of the informal, casual way ze approaches everything.</p>""",
 },
 {
+"xcf_base": "ch4_p4",
   "force_id":"61989a1205a975589721a63747b7f121",
   "force_date":datetime.date(2012, 5, 17),
 
@@ -114,6 +120,7 @@ GRANGER: Do tell.""",
 <p>Granger saying "I intend to let them publish it" implies that Granger has the power to stop the <i>Daily Prophet</i> from publishing a story. This is, in fact, true; a high-ranking Ministry official such as Granger can effectively block any story the <i>Prophet</i> wants to print. If Granger's other implication is correct, and Potter is willing to pursue and kill a person based on accusations in the <i>Prophet</i>, then what do you think of the ethics of this? Is it acceptable to publish a story when you know a person is likely to kill based on what it says? Is it acceptable for another person to stop you from publishing it?</p>""",
 },
 {
+"xcf_base": "ch4_p5",
   "force_id":"6f7203fd9b69e1b36e401466051e2e5e",
   "force_date":datetime.date(2012, 5, 19),
 
@@ -135,6 +142,7 @@ GRANGER: I suppose that is possible.""",
 <p>Granger has a magical wristwatch that shows both zir own personal time and Ministry Common Time. The latter is unreliable while ze's using the Time-Twister, but it syncs up after a few minutes outside its effects.</p>""",
 },
 {
+"xcf_base": "ch4_p6",
         
   "content_warning":""""violence, blood""",
   "force_id":"f4743f2324f586f0f88766251ac404f0",
@@ -171,6 +179,7 @@ LUNA: Oh, hello, Hermione!""",
 <p>(You might think there's another weakness in that the shield blocks spells you cast from the inside just as much as it blocks spells your opponents cast from the outside, but it's easy to create little holes in the shield to cast spells from, while your opponents will have a very hard time hitting those holes accurately.)</p>""",
 },
 {
+"xcf_base": "ch4_p7",
         
   "content_warning":""""blood, wrist damage""",
   "force_id":"ffc08f1eec255a8cced7f8b066fdb02b",
@@ -190,6 +199,7 @@ GRANGER: Hmm.""",
   "annotation":"""<p>Wizard chains don't have keys. Wizards just conjure them in place and then remove them by magic when they're finished.</p>""",
 },
 {
+"xcf_base": "ch4_p8",
   "force_id":"9fca0d04ffe17f4f08a93947e4a11653",
   "force_date":datetime.date(2012, 5, 24),
 
@@ -223,6 +233,7 @@ TONKS: Well, we're all waiting in the Strategy Room for you to speak. I think so
 <p>Feel free to ask about anything in the comments, though!</p>""",
 },
 {
+"xcf_base": "ch4_p9",
   "force_id":"592d88ee94e6529e799cca92e9569706",
   "force_date":datetime.date(2012, 5, 25),
 
@@ -242,6 +253,7 @@ DAWLISH { in a much smaller voice }: I still have no idea how she got <em>Moody<
 <p>I decided not to have Moody retire &ndash; there's no particular reason for that, but I wanted to have zem as a character to play with, and making zem be a current Auror was an easy way to make zem relevant to the plot. I'm already rearranging the timeline of the backstory for other reasons, so perhaps this is simply a younger Moody than the one we meet in the books.</p>""",
 },
 {
+"xcf_base": "ch4_p10",
   "force_id":"9fb0d64b0da73fb10769ef5176ec4616",
   "force_date":datetime.date(2012, 5, 25),
 
@@ -260,6 +272,8 @@ GRANGER: My mind turns to the story of Lily Evans, and how a person may do a thi
 <p>Granger will probably convince Dawlish to accept a cushy retirement as a hero. Granger has the ability to fire Dawlish, but Dawlish is respected by a lot of people, so that would create a spectacle that would be very costly (in time, effort, and reputation) for Granger. This would not be entirely bad, because it would show the world that Granger intends to follow zir principles even when it is not convenient for zem, but I doubt it would be the best use of Granger's resources at this time.</p>""",
 },
 {
+"chapter_start": "Chapter Five: In The Houses Of His Fathers",
+"xcf_base": "ch5_title",
   "force_id":"5f63013ab12e69a278930e0782bd17a5",
   "force_date":datetime.date(2012, 5, 27),
 
@@ -271,6 +285,7 @@ In The Houses Of His Fathers""",
   "annotation":"""<p>Who is the main character of <i>Voldemort's Children</i>? Is it Granger, who is our eyes and ears in this world? Is it Harry, whose struggle is at the center of the narrative? Or is it the inscrutable Lord Voldemort, whose influence seems to reach into every corner?</p>""",
 },
 {
+"xcf_base": "ch5_p1",
   "force_id":"6d40b8b2ea4869556fdca157ee85b53f",
   "force_date":datetime.date(2012, 5, 28),
 
@@ -288,6 +303,7 @@ Harry is silhouetted in the door for a moment as ze enters the house. Then ze's 
 """,
 },
 {
+"xcf_base": "ch5_p2",
   "force_id":"5e77416cb19a1d9afae4661204e2b20e",
   "force_date":datetime.date(2012, 5, 29),
 
@@ -299,6 +315,7 @@ SIRIUS: L-Lily...?""",
   "annotation":"""<p>The Dementors no longer guard Azkaban, but they did for the entire thirteen years Sirius was imprisoned there.</p>""",
 },
 {
+"xcf_base": "ch5_p3",
         
   "content_warning":""""negative self-talk""",
   "force_id":"20109e61adc31d9d75190f8e268e7679",
@@ -317,6 +334,7 @@ Sirius touches Harry's face. Harry looks surprised for a moment. Then Harry pull
   "annotation":"""<p>How would this feel different if I had put the "Sirius Black! When will you..." line inside a narrative frame, with an imaginary abusive version of Lily saying it, instead of Sirius saying it directly?</p>""",
 },
 {
+"xcf_base": "ch5_p4",
   "force_id":"65d5315f0bf38989d4364da6f109fbd8",
   "force_date":datetime.date(2012, 5, 31),
 
@@ -326,6 +344,7 @@ Past Harry climbs the stairs and opens the door. Through the door, we can see an
   "annotation":"""<p>The next few pages will have no annotations...</p>""",
 },
 {
+"xcf_base": "ch5_p5",
         
   "content_warning":""""violence""",
   "force_id":"3248fbdfa470a7daa91dc4166d1e65dd",
@@ -337,6 +356,7 @@ PERSON WITH WAND: I've heard something <em>very</em> interesting, Malfoy...""",
   "annotation":"""<p>...</p>""",
 },
 {
+"xcf_base": "ch5_p6",
         
   "content_warning":""""child abuse, blood""",
   "force_id":"48283fb23344f00ae2112378ebd47516",
@@ -351,6 +371,7 @@ Meanwhile, Harry continues narrating, now telling about zir own life: the baby H
   "annotation":"""<p>...</p>""",
 },
 {
+"xcf_base": "ch5_p7",
         
   "content_warning":""""violence, blood""",
   "force_id":"3c98841300d774219796f2385600e85f",
@@ -364,6 +385,7 @@ In Draco's memory, Draco, as a child, is standing near the top of an elegant spi
   "annotation":"""<p>...</p>""",
 },
 {
+"xcf_base": "ch5_p8",
         
   "content_warning":""""child abuse""",
   "force_id":"c90a5fc8e1a60879977e9d80f5e9e5fa",
@@ -381,6 +403,7 @@ Draco and Voldemort enter Draco's room. The room contains a desk, the bed we've 
   "annotation":"""<p>...</p>""",
 },
 {
+"xcf_base": "ch5_p9",
         
   "content_warning":""""child abuse""",
   "force_id":"8504bd76317cb7bc2216706f2cbc500b",
@@ -397,6 +420,7 @@ VOLDEMORT: So silent. Perhaps you think Lord Voldemort will endure your stubborn
   "annotation":"""<p>...</p>""",
 },
 {
+"xcf_base": "ch5_p10",
         
   "content_warning":""""child abuse""",
   "force_id":"948e70310489760dfb43430cf5ea05fa",
@@ -412,6 +436,7 @@ At the bottom is a tiny image of Draco lying curled up on the floor with zir han
   "annotation":"""<p>...</p>""",
 },
 {
+"xcf_base": "ch5_p11",
         
   "content_warning":""""child abuse, blood""",
   "force_id":"e92320a3c87aa53eb4df89694bec3d82",
@@ -440,6 +465,7 @@ The narrative frame closes; we're back on the Astronomy Tower. Harry stops using
   "annotation":"""<p>...</p>""",
 },
 {
+"xcf_base": "ch5_p12",
   "force_id":"29e554745f96871c27889385551e31fc",
   "force_date":datetime.date(2012, 6, 8),
 

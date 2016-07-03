@@ -7,6 +7,8 @@ from voldemorts_children.definitions import *
 
 pages = [
 {
+"chapter_start": "Chapter Six: The Purge Of Hogwarts",
+"xcf_base": "ch6_title",
   "force_id":"9a05454b878c9a6c4b7e2fb8df34caf3",
   "force_date":datetime.date(2012, 6, 9),
 
@@ -90,7 +92,7 @@ PAST HARRY: ...I'll tell you a story. Then you can decide if you think I'm crazy
 <p>As a side note, I've recently learned that in J.K. Rowling's vision, Helga Hufflepuff <em>brought</em> the elves to Hogwarts. In that version, ze did it because no one would be cruel to them in the Hogwarts kitchens, which was the best ze could achieve in an era of history when nobody would accept actually freeing them. I think there's some merit to that version of the story, but it fits much too easily into the books' narrative of Harry's and Hermione's interactions with the elves (especially Kreacher), where the moral of the story seems to be "It's okay to have slaves, but you should treat your slaves nicely".</p>""",
 },
 {
-        
+  "xcf_base": "ch6_p3_2",      
   "content_warning":""""car crash""",
   "force_id":"96f8763636741b9478f71120108ad614",
   "force_date":datetime.date(2012, 6, 16),
@@ -305,6 +307,11 @@ GRANGER: Then it appears that, for now, our time here is at an end.
 },
 ]
   
+
+for page_number in range (len ( pages)):
+  page = pages [page_number]
+  if "xcf_base" not in page:
+    page ["xcf_base"] = "ch6_p" + str (page_number)
 
 
 """

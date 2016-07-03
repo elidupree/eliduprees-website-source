@@ -7,6 +7,8 @@ from voldemorts_children.definitions import *
 
 pages = [
 {
+"chapter_start": "Chapter Eight: The Harshest Judge",
+"xcf_base": "ch8_title",
   "force_id":"23f577139d9cc36caf05806a6dbe78cd",
   "force_date":datetime.date(2012, 7, 9),
 
@@ -298,6 +300,11 @@ Panel 8: Close-up of Moody's face. Ze looks astonished.""",
 
 ]
   
+
+for page_number in range (len ( pages)):
+  page = pages [page_number]
+  if "xcf_base" not in page:
+    page ["xcf_base"] = "ch8_p" + str (page_number)
 
 
 """
