@@ -36,7 +36,7 @@ def generate_images(infile_path, infile_base, outfile_base, width, height, targe
         (thumbnail_full_drawable (car (gimp-image-get-active-layer thumbnail_full)))
       )
   (gimp-image-scale-full page '''+ str (target_width) +''' '''+ str (height*target_width//width) +''' INTERPOLATION-CUBIC)
-  '''+ ('''(gimp-image-convert-indexed page FIXED-DITHER MAKE-PALETTE 127 FALSE FALSE "") if index_full_page else "") +'''
+  '''+ ('''(gimp-image-convert-indexed page FIXED-DITHER MAKE-PALETTE 127 FALSE FALSE "")''' if index_full_page else "") +'''
   (file-png-save RUN-NONINTERACTIVE page page_drawable "'''+page_outfile+'" "'+page_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete page)
   
