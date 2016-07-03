@@ -392,6 +392,7 @@ pages = [
     "annotation": '''<p>I have nothing to say except that I love this page.</p>''',
   },
 {
+    "xcf_base": "ch2_p9_2",
   "force_id":"e102cd5515c3c3f7be89c990370a565e",
   "force_date":datetime.date(2012, 2, 27),
 
@@ -419,7 +420,8 @@ LUNA: Cool! Other people say I'm weird because I'm not sad about it. But being s
 <p>Luna's description might not be exactly understandable or reliable. Ze's only doing the best ze can to express what ze's felt; it's hard to describe subjective experiences, especially when your language evolved in a neurelitist society that assumes human emotions are universal.</p>""",
 },
 {
-        
+   
+       "xcf_base": "ch2_p10_1",     
   "content_warning":""""bullying, ableism""",
   "force_id":"29b5951598d4b304f8f7cbf96293482c",
   "force_date":datetime.date(2012, 2, 28),
@@ -439,6 +441,7 @@ Harry, Crabbe, and Draco look down in horror.""",
   "annotation":"""<p>Oh shiiiiiii&mdash;</p>""",
 },
 {
+    "xcf_base": "ch2_p11_1",
   "force_id":"19410d5746cc18b3ac2f23de8322b675",
   "force_date":datetime.date(2012, 2, 29),
 
@@ -457,6 +460,7 @@ ANGELINA: Well, if it isn't the prat who just lost us fifty points!""",
 <p>On another note, I'd ask, "Do you think Snape is doing the right thing in this situation?", but I think it's the wrong question. How about: Are Snape's actions here <em>sufficient</em> to address the wrongs we've seen? And what kinds of things could Snape have done earlier, to stop this situation from having happened in the first place?</p>""",
 },
 {
+    "xcf_base": "ch2_p12_1",
   "force_id":"884b8beb960ac75f15e549b541224a01",
   "force_date":datetime.date(2012, 3, 1),
 
@@ -473,6 +477,7 @@ PAST GRANGER: Er... Potter? I heard you're supposed to see Dumbledore? I just ca
 <p>And to follow up on the previous page's annotation, do you think it's ethical for Snape to be participating in the "house points" system at all, when it leads to the kind of intra-house bullying that we're seeing here?</p>""",
 },
 {
+    "xcf_base": "ch2_p13_1",
   "force_id":"e01042ce989e4040b4b4050bf9578360",
   "force_date":datetime.date(2012, 3, 2),
 

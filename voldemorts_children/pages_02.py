@@ -7,6 +7,7 @@ from voldemorts_children.definitions import *
 
 pages = [
 {
+"chapter_start": "Chapter Three: Seats of Influence",
   "force_id":"db73782233bdf40ea79867809df20422",
   "force_date":datetime.date(2012, 3, 4),
 
