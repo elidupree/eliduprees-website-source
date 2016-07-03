@@ -107,6 +107,7 @@ Disallow: /''')
   find_orphaned_pages ()
   print ("Orphaned pages:")
   print (orphaned_pages)
+  category_pages.add_secrets (page_dict, orphaned_pages)
   
   for path,contents in page_dict.items():
     if False and path.endswith(".html"):
