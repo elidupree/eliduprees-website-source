@@ -5,4 +5,4 @@ from __future__ import division
 
 import gimp_stuff
 
-gimp_stuff.do_pages ("voldemorts_children")
+gimp_stuff.do_pages ()
