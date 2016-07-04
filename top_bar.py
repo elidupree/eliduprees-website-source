@@ -14,14 +14,15 @@ all_categories_width = category_button_width * num_categories + category_border_
 category_button_height = bar_height - category_border_width
 home_image_width = bar_height * 2 / 3
 home_image_padding_on_each_side = home_image_width / 4
+home_image_padded_width = home_image_width + 2*home_image_padding_on_each_side
 home_text_width_twolines = 7
-home_width = home_image_width + 2*home_image_padding_on_each_side + home_text_width_twolines
+home_width = home_image_padded_width + home_text_width_twolines
 text_parts_compressed_height = 1.5
 categories_hit_home_width = all_categories_width + 2*home_width
-categories_hit_right_width = all_categories_width + home_width
-categories_hit_home_image_width = all_categories_width + 2*(home_image_width + home_image_padding_on_each_side)
-categories_get_squished_width = all_categories_width + 2*category_border_width
-categories_get_very_squished_width = category_text_width_regular_ems * num_categories * 1.2
+categories_hit_right_width = all_categories_width + home_width + category_border_width
+categories_hit_home_image_width = all_categories_width + home_image_padded_width + category_border_width
+categories_get_squished_width = all_categories_width + category_border_width + home_image_padded_width/2
+categories_get_very_squished_width = category_text_width_regular_ems * num_categories * 1.2 + home_image_padded_width/2
 
 button_border_radius = 0.5
 
@@ -118,28 +119,26 @@ span.top_bar_blog_preview_text {
 
 @media screen and (max-width: '''+str(categories_hit_home_width)+'''em) {
   div.top_bar_categories {
-    margin-left:'''+str(home_width)+'''em; margin-right:0;
+    margin-left:'''+str(home_width)+'''em; margin-right:auto;
   }
 }
 @media screen and (max-width: '''+str(categories_hit_right_width)+'''em) {
   div.top_bar_categories {
-    margin-left:auto; margin-right:auto;
-    margin-top:'''+str(text_parts_compressed_height)+'''em; }
+    margin-left:auto; margin-right:'''+str(category_border_width)+'''em;
+  }
   div.top_bar_home {
-    width: 20em; }
+    width: '''+str(home_image_padded_width)+'''em; }
   span.top_bar_home_text {
-    width: 15em; }
+    display: none; }
 }
 @media screen and (max-width: '''+str(categories_hit_home_image_width)+'''em) {
   img.top_bar_home_image {
-    vertical-align:top;
-    display:inline-block;
-    width:'''+str(text_parts_compressed_height*2/3)+'''em; height:'''+str(text_parts_compressed_height)+'''em;
-    padding:0 '''+str(home_image_padding_on_each_side/2)+'''em }
+    width:'''+str(home_image_width/2)+'''em; height:'''+str(bar_height/2)+'''em;
+    padding:'''+str(bar_height/4)+'''em '''+str(home_image_padding_on_each_side/2)+'''em }
 }
 @media screen and (max-width: '''+str(categories_get_squished_width)+'''em) {
   div.top_bar_categories {
-    margin-left:'''+str(100 * category_border_width / categories_get_squished_width)+'''%;
+    margin-left:'''+str(home_image_padded_width/2)+'''em;
     margin-right:0;
     max-width:none; }
   a.top_bar_category_link {
@@ -156,10 +155,6 @@ span.top_bar_blog_preview_text {
     border-top-left-radius:0;
     border-bottom-left-radius:'''+str(button_border_radius)+'''em;
   }
-}
-@media screen and (max-width: 18em) {
-  div.top_bar_categories {
-    margin-top:'''+str(text_parts_compressed_height*2)+'''em; }
 }
 ''')
 
