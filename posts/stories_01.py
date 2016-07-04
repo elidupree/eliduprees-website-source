@@ -35,4 +35,10 @@ posts = [
 
 <p>And Capitalism began to weep.</p>''',
 },
+{
+  "title":"Will You Try to Escape?",
+  "blurb": "An interactive erotic story about a BDSM scene.",
+  "force_date":datetime.date(2013, 9, 27),
+  "contents":'''<iframe src="/media/will-you-try-to-escape.html?rr"></iframe>''',
+},
 ]
