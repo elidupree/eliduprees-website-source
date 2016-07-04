@@ -39,6 +39,12 @@ posts = [
   "title":"Will You Try to Escape?",
   "blurb": "An interactive erotic story about a BDSM scene.",
   "force_date":datetime.date(2013, 9, 27),
+  "head":'''<style>
+iframe {
+width: 100%; height: 40em;
+}
+
+</style>''',
   "contents":'''<iframe src="/media/will-you-try-to-escape.html?rr"></iframe>''',
 },
 ]
