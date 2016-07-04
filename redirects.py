@@ -163,7 +163,7 @@ old_website_conversions = {
   "main/posts/105-user-comment": "blog/in-which-i-rant-about-the-study-of-english",
   "main/posts/106-author's-comment": "blog/in-which-i-rant-about-the-study-of-english",
   "main/posts/107-user-comment": "blog/in-which-i-rant-about-the-study-of-english",
-  "main/posts/108-an-unnamed-blog-post": "blog/minor-progress",
+  #"main/posts/108-an-unnamed-blog-post": "blog/minor-progress",
   "main/posts/109-a-couple-of-badass-superheroes-page-1": "a-couple-of-badass-superheroes",
   "main/posts/110-how-i-don't-get-frustrated-at-anything": "blog/how-i-dont-get-frustrated-at-anything",
   "main/posts/111-a-couple-of-badass-superheroes-page-2": "a-couple-of-badass-superheroes/2",
