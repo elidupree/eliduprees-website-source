@@ -24,7 +24,7 @@ def add_feed(page_dict):
   </author>'''
   
   entries = []  
-  for post in reversed (blog.current_blog_page):
+  for post in reversed ([post for post in blog.current_blog_page if "username" not in post]):
     if "comic_id" not in post:
       link = blog.post_permalink(post)
     else:

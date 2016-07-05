@@ -459,6 +459,10 @@ if (random_post_link) {
 
 ''')
 
+def url_formatted_title(post_dict):
+  return utils.format_for_url(post_dict["title"])
+def title_formatted_title(post_dict):
+  return utils.strip_tags(post_dict["title"])
 
 def date_to_string(d):
   return d.strftime("%Y-%m-%d")
@@ -555,6 +559,8 @@ def post_metadata(post_dict):
   return metadata
 
 
+
+
 for comment in comments.comments:
   comments_by_id[comment["id"]] = comment
 for comment in comments.comments:
@@ -562,13 +568,37 @@ for comment in comments.comments:
     comment_ids_by_parent[comment["parent"]] = []
   comment_ids_by_parent[comment["parent"]].append(comment["id"])
 
+  
+
 def date_posted (post):
+  if "date_posted" in post:
+    return post ["date_posted"]
   return post_metadata (post) ["date_posted"]
   
 def post_permalink(post_dict):
   if "parent_story" in post_dict:
     return "/stories/"+utils.format_for_url(post_dict["parent_story"])+"/discussion"
   return post_dict["path_prefix"]+url_formatted_title(post_dict)
+
+comment_is_on = {
+#hack: these names should probably not be hardcoded here
+"hexy":{"canonical_link": "/hexy", "title": "Hexy Bondage"},
+"pac_asteroids":{"canonical_link": "/games/pac-asteroids", "title": "Pac-Asteroids"},
+"green_caves":{"canonical_link": "/games/green-caves", "title": "the green caves game"},
+}
+for cat, post_list in blog_posts.posts.items ():
+  for post in post_list:
+    comment_is_on [post_metadata (post) ["id"]] = {"canonical_link": post_permalink (post), "title": post ["title"]}
+for cat, post_list in comics.comics_pages.items ():
+  for post in post_list:
+    comment_is_on [post_metadata (post) ["id"]] = {"canonical_link": comics.page_url (post), "title": post ["title"]}
+
+def comment_stream_entry (comment):
+  ancestor = comment
+  while ancestor["parent"] in comments_by_id:
+    ancestor = comments_by_id [ancestor["parent"] ]
+  info = comment_is_on [ancestor["parent"] ]
+  return '<div class="stream_media_reference_outer"><a class="stream_media_reference" href="' + info ["canonical_link"] + "#" + comment ["id"] + '">' + comment ["username"] + " posted a new comment on " + info ["title"] + "</a></div>"
 
 def date_stringify(d):
   #d.strftime("%B %-d, %Y")
@@ -632,7 +662,9 @@ def post_dict_html(post_dict, stream_only = False):
   return (body, head)  
 
 def very_stream_entry (post):
-  if "contents" in post:
+  if "username" in post:
+    return comment_stream_entry (post)
+  elif "contents" in post:
     return '''
 <div class="stream_media_reference_outer">
   <a class="stream_media_reference" href="'''+ post_permalink (post) + '">New ' + ("story" if post ["category"] == "stories" else "blog post") + ': ' + post ["title"] + '''</a>
@@ -644,7 +676,7 @@ def very_stream_entry (post):
 </div>'''
 
 def stream_entry (post):
-  if "contents" in post and post ["category"] != "stories":
+  if "category" in post and post ["category"] == "blog":
     (body, head) = post_dict_html (post, True)
     return ('<article>'+ body +'</article>', head)
   else:
@@ -803,10 +835,6 @@ def make_blog_page_body(main_contents, sidebar_contents):
   '''
 
   
-def url_formatted_title(post_dict):
-  return utils.format_for_url(post_dict["title"])
-def title_formatted_title(post_dict):
-  return utils.strip_tags(post_dict["title"])
 
 def latest_post_preview_text():
   return blog_posts.posts["blog"][-1]["title"]
@@ -893,8 +921,8 @@ for tag in tags.tags:
 
 current_blog_page = page_lists ["blog"] [len (page_lists ["blog"])-1]
 current_blog_page_extras = []
-def consider_list_for_current_page (list):
-  for index in range (1, min (6, 1 + len( list))):
+def consider_list_for_current_page (list, limit = 8):
+  for index in range (1, min (1 + limit, 1 + len( list))):
     post = list [len( list) - index]
     if date_posted (post) >= date_posted (current_blog_page [0]):
       current_blog_page_extras.append (post)
@@ -902,6 +930,7 @@ def consider_list_for_current_page (list):
 for list in comics.comics_pages.values ():
   consider_list_for_current_page (list)
 consider_list_for_current_page (blog_posts.posts ["stories"])
+consider_list_for_current_page (comments.comments, 4)
 current_blog_page_extras.reverse ()
 current_blog_page = sorted (current_blog_page_extras + current_blog_page, key = date_posted)
 page_lists ["blog"] [len (page_lists ["blog"])-1] = current_blog_page
@@ -975,11 +1004,6 @@ def add_individual_post_pages (page_dict, post_dict):
             title_formatted_title(discussion_post)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
             head, make_blog_page_body(HTML, disc_specific_sidebar_contents)
         )
-
-#hack: this is supposed to appear at the end of blog_posts.py
-for cat,post_list in blog_posts.posts.items():
-  for post_dict in post_list:
-    post_dict["category"] = cat
     
 def add_pages(page_dict):
   add_list_pages(page_dict, page_lists ["blog"], "/blog", "Blog", "blog")
