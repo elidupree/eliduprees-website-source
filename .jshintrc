@@ -9,5 +9,7 @@
 "strict": true,
 "undef": true,
 "unused": true,
-"browser": true
+"browser": true,
+"jquery": true,
+"globals": "set_cookie, read_cookie, delete_cookie"
 }
