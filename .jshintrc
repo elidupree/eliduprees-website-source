@@ -12,3 +12,4 @@
 "browser": true,
 "jquery": true,
 "globals": {"set_cookie": true, "read_cookie": true, "delete_cookie": true}
+}
