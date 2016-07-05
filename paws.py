@@ -12,10 +12,12 @@ html.paws div.bars_outer_box {
 html.paws div.comic_content_warning_text {
   color: black; }
 html.paws .meta_controls_coloring {
-  color: blue; }
+  color: #55f; }
+html.paws .comic_metabar {color:#555;}
 html.paws div.comic_toggle_content_warnings {
   color: black; }
 
 html.paws div.comic_transcript_inner {
   color: black; }
+html.paws .complete_comic {color:#999;}
 ''')

@@ -129,6 +129,9 @@ span.comic_nav_content_warning {
   display: none; }
 img.small_inline_image {height:1em; width: auto;}
 
+.complete_comic {font-size: 140%; font-weight: bold;
+border-style: solid; border-color: transparent; border-top-width: 59px;}
+
 div.comic_metabar {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
@@ -445,7 +448,7 @@ def comic_navbar(prev_page, next_page):
       inner_link = (
       '<a class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
     elif string == "next":
-      inner_link = ('''This story is complete.''' if "complete" in comics_metadata[prev_page["comic_id"]] else blog.MailChimp_form_labeled ("That's the last page so far! Follow elidupree.com by email for future updates:"))
+      inner_link = ('''<div class="complete_comic">This story is complete. </div>''' if "complete" in comics_metadata[prev_page["comic_id"]] else blog.MailChimp_form_labeled ("That's the last page so far! Follow elidupree.com by email for future updates:"))
     
     return '''<div class="comic_nav_button'''+extra_class+'''">
         '''+inner_link+'''
