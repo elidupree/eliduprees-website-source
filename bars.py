@@ -214,7 +214,7 @@ def add_home_page(page_dict):
   utils.make_page (page_dict,
     '/index',
       "Eli Dupree's website",
-      '',
+      '<link rel="" href="http://english-1467731550.spampoison.com/" />',
       '''
         <div><img role="presentation" alt="" class="background" src="/media/top-bar-background.png?rr" /></div>
         <div class="home_page_buffer">
