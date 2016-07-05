@@ -6,15 +6,16 @@ import utils
 
 global beforebody_js
 global afterbody_js
-beforebody_js = r'''
+beforebody_js = r'''(function(){
+"use strict";
 window.elidupree = {};
 document.documentElement.className += ' javascript_enabled';
 if (window.msCrypto) {window.crypto = window.msCrypto;}
-function remove_class(element, class_name) {
+window.remove_class = function (element, class_name) {
   element.className = element.className.replace(new RegExp('(\\s|^)'+class_name+'(\\s|$)'), ' ');
 }
 
-function delete_cookie(name) {
+window.delete_cookie = function (name) {
   document.cookie = name+'=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/';
 }
 
@@ -33,7 +34,7 @@ if (typeof(document.cookie) === "string") {
   }
 }
 
-function set_cookie(name, value, days) {
+window.set_cookie = function (name, value, days) {
   var expires = "";
   var date;
   if (days) {
@@ -44,7 +45,7 @@ function set_cookie(name, value, days) {
   document.cookie = name+"="+value+expires+"; path=/";
 }
 
-function read_cookie(name) {
+window.read_cookie = function (name) {
   if (!window.cookies_enabled) { return null; }
   var nameEQ = name + "=";
   var ca = document.cookie.split(';');
@@ -60,14 +61,17 @@ function read_cookie(name) {
   }
   return null;
 }
+})();
 '''
 
 
-afterbody_js = r'''
-function add_event_listener(element, event_type, listener) {
+afterbody_js = r'''(function(){
+"use strict";
+window.add_event_listener = function (element, event_type, listener) {
   if (element.addEventListener) { element.addEventListener(     event_type, listener, false); }
   if (element.attachEvent     ) { element.attachEvent     ('on'+event_type, listener       ); }
 }
+})();
 '''
 
 
