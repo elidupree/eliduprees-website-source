@@ -11,5 +11,4 @@
 "unused": true,
 "browser": true,
 "jquery": true,
-"globals": "set_cookie, read_cookie, delete_cookie"
-}
+"globals": {"set_cookie": true, "read_cookie": true, "delete_cookie": true}
