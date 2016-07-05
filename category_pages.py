@@ -154,22 +154,12 @@ def exhibit (href, classes, thumbnail, blurb, enter_text):
       ('<div class=" exhibit_start_reading">' + enter_text + '</div>' if enter_text else '') + 
     ('</a>' if  href else '</div>') )
 
-def content_warning_summary (comic_name):
-  warnings = []
-  warnings_found = {}
-  for page in comics.comics_pages [comic_name] :
-    if "content_warning" in page and page ["content_warning"] not in warnings_found:
-      warnings_found [ page ["content_warning"]] = True
-      warnings.append (page ["content_warning"])
+def content_warning_summary (contents):
   return '''
   <div class="hidden_cw_box fake_warning_link">
     <div class="fake_reveal_warning_button">Reveal content warnings</div>
     <div class="comic_warnings_list">
-      <p>This comic contains:</p>
-      <ul>
-        '''+ "".join (["<li>" + warning + "</li>" for warning in warnings]) +'''
-      </ul>
-    </div>
+      <p>This comic depicts verbal and physical abuse; physical violence, with occasional cartoon blood and gore; ableist language; negative self-talk; some discussion of suicide. </div>
   </div>'''
 
 def add_category_pages(page_dict):  
