@@ -104,5 +104,5 @@ def stories_index (full):
   group ("Short stories",
     small_story ("Capitalism Sat") + small_story ("Will You Try to Escape?")
   )
-  + (category_pages.exhibit ("/blog/tags/story-ideas", "", None, '''Finally, I share <span class="restore_link">additional story ideas on my blog</span> when they are clever enough to be worth sharing, but not compelling enough that I want to write them up in full.''', None) if full else '<div class=" big_story"><div class=" index_entry"> <a href="/blog/tags/story-ideas">Story ideas</a> </div> </div> ')
+  + (category_pages.exhibit ("/blog/tags/story-ideas", "", None, '''<p>Finally, I share <span class="restore_link">additional story ideas on my blog</span> when they are clever enough to be worth sharing, but not compelling enough that I want to write them up in full.</p>''', None) if full else '<div class=" big_story"><div class=" index_entry"> <a href="/blog/tags/story-ideas">Story ideas</a> </div> </div> ')
   )
