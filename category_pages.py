@@ -175,7 +175,7 @@ def add_category_pages(page_dict):
     '''+ exhibit ("http://lasercake.net/", "lasercake left", "/media/lasercake-snapshot-progressive.jpg?rr", '''Lasercake, an (early prototype of an) open-world game about the environment.''', "Go to website")
     + exhibit ("/games/green-caves", "greencaves right", "/media/green-caves-screenshot.png?rr", '''A simple online game where you fly around in some green caves.''', "Play now")
     + exhibit ("/hexy", "hexy left", "/media/hexy_bondage_page_background.jpg?rr", '''Hexy Bondage, a (printable) sexual board game for two or more players.''', "Go to website")
-    + exhibit ("/games/pac-asteroids", "asteroids right", "/media/pac-asteroids-thumbnail.png",'''Pac-asteroids, a half-baked unfinished online game I wrote while learning JavaScript.''', "Play now")
+    + exhibit ("/games/pac-asteroids", "asteroids right", "/media/pac-asteroids-thumbnail.png?rr",'''Pac-asteroids, a half-baked unfinished online game I wrote while learning JavaScript.''', "Play now")
     +'''<div class="category_page_bottom"></div>
   </div>
 </main>''')
