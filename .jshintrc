@@ -12,5 +12,5 @@
 "browser": true,
 "jquery": true,
 "scripturl": true,
-"globals": {"set_cookie": true, "read_cookie": true, "delete_cookie": true}
+"globals": {"set_cookie": true, "read_cookie": true, "delete_cookie": true, "remove_class": true, add_event_listener": true}
 }
