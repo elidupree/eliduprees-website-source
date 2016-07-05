@@ -7,7 +7,7 @@ import hashlib
 #import scss
 
 global all_scss
-all_scss = '''
+all_scss = '''@charset "UTF-8"
 article,aside,figure,footer,header,hgroup,menu,nav,section{display:block;}
 body,div,dl,dt,dd,ol,ul,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,select,p,blockquote,th,td{margin:0;padding:0}
 h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:inherit;}
