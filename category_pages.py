@@ -124,9 +124,22 @@ span.title { font-style: italic; }
 
 .orphaned_page_link {display: block}
 
+.fake_warning_link {font-size: 71%; display: inline-block;}
+.fake_reveal_warning_button {color: blue; text-decoration: underline;}
+html.javascript_enabled .fake_reveal_warning_button {display: block;}
+html.javascript_enabled .comic_warnings_list {display: none;}
+
 .debug {display: none;}
 html.debug_mode .debug {display: block; display: initial;}
 html.debug_mode .not_debug {display: none;}
+''')
+
+javascript.do_after_body (r'''
+$(".fake_warning_link").click (function () {
+  $(this).children (".fake_reveal_warning_button").hide ();
+  $(this).children (".comic_warnings_list").show ();
+  return false;
+});
 ''')
 
 import html_pages
@@ -141,6 +154,24 @@ def exhibit (href, classes, thumbnail, blurb, enter_text):
       ('<div class=" exhibit_start_reading">' + enter_text + '</div>' if enter_text else '') + 
     ('</a>' if  href else '</div>') )
 
+def content_warning_summary (comic_name):
+  warnings = []
+  warnings_found = {}
+  for page in comics.comics_pages [comic_name] :
+    if "content_warning" in page and page ["content_warning"] not in warnings_found:
+      warnings_found [ page ["content_warning"]] = True
+      warnings.append (page ["content_warning"])
+  return '''
+  <div class="hidden_cw_box fake_warning_link">
+    <div class="fake_reveal_warning_button">Reveal content warnings</div>
+    <div class="comic_warnings_list">
+      <p>This comic contains:</p>
+      <ul>
+        '''+ "".join (["<li>" + warning + "</li>" for warning in warnings]) +'''
+      </ul>
+    </div>
+  </div>'''
+
 def add_category_pages(page_dict):  
   utils.make_page (page_dict,
     '/comics',
@@ -152,7 +183,7 @@ def add_category_pages(page_dict):
   <div id="content">
     '''+ exhibit ("/voldemorts-children", "vc left", "/media/VC_0.png?rr",'''
         <p>What if Dumbledore's idea of placing Harry Potter with an abusive family didn't turn out so well?</p>
-        <span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.''', "Start reading") +
+        <p><span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.</p>'''+ content_warning_summary ("voldemorts_children"), "Start reading") +
         exhibit ("/people-are-wrong-sometimes", "paws right", "/media/PAWS_thumbnail.png?rr",'''
         In <span class="title">People Are Wrong Sometimes</span>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)''', "Start reading") +
         exhibit ("/a-couple-of-badass-superheroes" , "acobs left", "/media/ACOBS_thumbnail.png?rr",'''

@@ -156,11 +156,11 @@ html.content_warnings_disabled div.hidden_cw_box.secondary {
   display: none; }
 html.hidden_cws_revealed div.hidden_cw_box.secondary {
   display: block; }
-a.reveal_cw_button {
+a.reveal_cw_button, .fake_reveal_warning_button {
   font-size: 150%;
   font-family: Arial, Helvetica, sans-serif;
-  text-align: center; }
-a.reveal_cw_button { display:none; }
+  text-align: center;
+  display:none; }
 html.content_warnings_disabled a.reveal_cw_button { display:block; }
 html.content_warnings_disabled div.hidden_cws { display:none; }
 ''')
