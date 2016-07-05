@@ -52,11 +52,12 @@ old_website_conversions = {
   "pac-asteroids.html": "games/pac-asteroids",
   "pac-asteroids-first.html": "games/pac-asteroids",
   "hpmor_ending": "harry-potter-and-the-methods-of-rationality-commentary",
-  "colby_stuff/how_I_experienced_the_four_o_clock_discourse.png": "TODO",
-  "colby_stuff/2011_11_06.png": "TODO",
-  "colby_stuff/2011_11_07.png": "TODO",
-  "main/posts/latest/voldemort's-children": "TODO",
-  "main/posts/latest/a-couple-of-badass-superheroes": "TODO",
+  "colby_stuff/how_I_experienced_the_four_o_clock_discourse.png": "media/colby_comic_1.png",
+  "colby_stuff/2011_11_06.png": "media/colby_comic_2.png",
+  "colby_stuff/2011_11_07.png": "media/affirmative-consent-poster.png",
+  #The main page is now the most natural way to follow latest updates of a comic
+  "main/posts/latest/voldemort's-children": "",
+  "main/posts/latest/a-couple-of-badass-superheroes": "",
   "main/archives/a-couple-of-badass-superheroes": "a-couple-of-badass-superheroes/archive",
   "main/archives/voldemort's-children": "voldemorts-children/archive",
   
