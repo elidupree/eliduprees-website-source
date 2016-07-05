@@ -272,6 +272,7 @@ comics_metadata = {
     "abbr": "VC",
     "image_width": 750,
     "dialogue_name_replacements":voldemorts_children.definitions.dialogue_name_replace,
+    "inline_content_warnings": True,
     "image_url_offset":0,
     "page_number_offset": 0,
     "arrow_images": True,
@@ -460,13 +461,13 @@ def comic_metabar(page):
 <div class="comic_metabar">
   <a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''">First</a>'''+utils.inline_separator+
   '''<a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''/archive">Archive</a>'''+utils.inline_separator+
-  '''
+  ('''
   <span class="metabar_content_warnings_enabled'''+(" content_warning" if "content_warning" in page else "")+'''">
     ⚠ '''+(page["content_warning"] if "content_warning" in page else "none")+''' <a class="disable_content_warnings_button meta_controls_coloring" href="javascript:;">(disable content warnings)</a>
   </span>
   <span class="metabar_content_warnings_disabled">
     ⚠ disabled <a class="enable_content_warnings_button meta_controls_coloring" href="javascript:;">(enable content warnings)</a>
-  </span>'''+ utils.inline_separator +
+  </span>'''+ utils.inline_separator if "inline_content_warnings" in comics_metadata [page ["comic_id"]] else "") +
   '''<a class="meta_controls_coloring hidden_from_restricted_users" href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt="" /> encourage me</a>
 </div>''')
   
