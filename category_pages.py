@@ -124,7 +124,7 @@ span.title { font-style: italic; }
 
 .orphaned_page_link {display: block}
 
-.fake_warning_link {font-size: 71%; display: inline-block;}
+.fake_warning_link {font-size: 71%; }
 .fake_reveal_warning_button {color: blue; text-decoration: underline;}
 html.javascript_enabled .fake_reveal_warning_button {display: block;}
 html.javascript_enabled .comic_warnings_list {display: none;}
@@ -159,7 +159,8 @@ def content_warning_summary (contents):
   <div class="hidden_cw_box fake_warning_link">
     <div class="fake_reveal_warning_button">Reveal content warnings</div>
     <div class="comic_warnings_list">
-      <p>This comic depicts verbal and physical abuse; physical violence, with occasional cartoon blood and gore; ableist language; negative self-talk; some discussion of suicide. </div>
+      '''+ contents +'''
+      </div>
   </div>'''
 
 def add_category_pages(page_dict):  
@@ -173,9 +174,9 @@ def add_category_pages(page_dict):
   <div id="content">
     '''+ exhibit ("/voldemorts-children", "vc left", "/media/VC_0.png?rr",'''
         <p>What if Dumbledore's idea of placing Harry Potter with an abusive family didn't turn out so well?</p>
-        <p><span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.</p>'''+ content_warning_summary ("voldemorts_children"), "Start reading") +
+        <p><span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.</p>'''+ content_warning_summary ("<p>This comic depicts verbal and physical abuse; physical violence, with occasional cartoon blood and gore; ableist language; negative self-talk; some discussion of suicide.</p><p>As you read the comic, each page will be marked with the warnings that apply to that page.</p>"), "Start reading") +
         exhibit ("/people-are-wrong-sometimes", "paws right", "/media/PAWS_thumbnail.png?rr",'''
-        In <span class="title">People Are Wrong Sometimes</span>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)''', "Start reading") +
+        In <span class="title">People Are Wrong Sometimes</span>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)'''+ content_warning_summary ("This comic depicts neurelitist statements; brief descriptions of bullying and violence; one instance of cartoon blood."), "Start reading") +
         exhibit ("/a-couple-of-badass-superheroes" , "acobs left", "/media/ACOBS_thumbnail.png?rr",'''
         <span class="title">A Couple of Badass Superheroes</span> go on a silly adventure. I wrote the first part September-December 2011 to get used to drawing using my tablet. (14 pages)''', "Start reading") +'''
     <div class="category_page_bottom"></div>
