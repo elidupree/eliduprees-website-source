@@ -984,10 +984,13 @@ def add_individual_post_pages (page_dict, post_dict):
         specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''/discussion">Author's notes and comments for '''+post_dict["title"]+'''</a>'''+ specific_sidebar_contents
       
       (HTML, head) = post_dict_html(post_dict)
+      extras = {}
+      if "after_body" in post_dict:
+        extras ["after_body"] = post_dict ["after_body"]
       utils.make_page (page_dict,
         post_dict["path_prefix"]+url_formatted_title(post_dict),
           title_formatted_title(post_dict)+("" if (category == "") else " ⊂ "+utils.capitalize_string(category))+" ⊂ Eli Dupree's website",
-          head, make_blog_page_body(HTML, specific_sidebar_contents)
+          head, make_blog_page_body(HTML, specific_sidebar_contents), extras
       )
         
       if category == "stories":

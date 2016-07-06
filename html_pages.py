@@ -33,6 +33,6 @@ def make_page(title, head_stuff, body_stuff, extras = {}):
     '''+body_stuff+'''
     '''+ jQuery_after +'''
     <script type="text/javascript" src="/after-body.js?rr"></script>
-    '''+ ('''<script type="text/javascript">'''+ extras ["after_body"] +'''</script>'''if "after_body" in extras else "") +'''
+    '''+ (extras ["after_body"] if "after_body" in extras else "") +'''
   </body>
 </html>'''

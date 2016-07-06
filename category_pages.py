@@ -243,10 +243,10 @@ def add_secrets (page_dict, orphaned_pages):
         
     +'''<div class="category_page_bottom"></div>
   </div>
-</main>'''), {"after_body":'''
+</main>'''), {"after_body":'''<script type="text/javascript">
 add_event_listener (document.getElementById ("enable_debug_mode"), "click", function () {set_cookie ("debug_mode", true, 30);document.documentElement.className += " debug_mode";});
 add_event_listener (document.getElementById ("disable_debug_mode"), "click", function () {delete_cookie ("debug_mode"); remove_class (document.documentElement, "debug_mode");});
-'''}
+</script>'''}
   )
 
     
