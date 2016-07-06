@@ -308,6 +308,8 @@ for comic_id,page_list in comics_pages.items():
     page_list[i]["title"] = comics_metadata [comic_id] ["title"] + (", cover page" if page_number == 0 else ", page "+ str(page_number))
     page_list[i]["list_index"] = i
     page_list[i]["height_conversion_factor"] = 1
+    if "auto_paragraphs" in page_list[i]:
+      page_list[i]["annotation"] = re.sub(r"(?m)^\w.+?$", lambda match: "<p>" + match.group (0) + "</p>", page_list[i] ["annotation"])
 for page_dict in comics_pages["voldemorts_children"]:
   page_dict["height_conversion_factor"] = 4
 
