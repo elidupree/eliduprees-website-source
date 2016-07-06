@@ -13,8 +13,48 @@ def page (number, transcript, annotation = ""):
     
 
 pages = [
-page (1,''''''),
-page (2,''''''),
+page (1,'''TITLE: PEOPLE ARE WRONG SOMETIMES <br/><br/> The title is in a thought bubble. The thought continues: ...even about things they should know closely. I don't like it when people are wrong. <br/><br/> The thought bubble is coming from Ilse. Ilse is drawn with simple shapes, straight lines, and sharp corners. Most of the page is black-and-white. The only color is a bright red item worn by Ilse. Sometimes the item is a sash, sometimes it is a shoulder pad, and sometimes it is a bracelet. In the first image, where Ilse is thinking, Ilse has closed eyes and a slight frown. Usually, none of Ilse's facial features are drawn.
+<br/><br/>
+Ilse closes a door behind zem.
+<br/><br/>
+ILSE (thinking): I'm glad I'm out of there.
+<br/><br/>
+Ilse begins walking away.
+<br/><br/>
+ILSE (thinking): Fuckin' parties.
+<br/><br/>
+LUCIA (yelling from off-page): ILSE!'''),
+page (2,'''Lucia runs up. Lucia is done in a much more detailed style than Ilse. Ze is wearing shorts and a sports shirt with blue shoulders. (Everything except that blue, and the red on Ilse, is still black-and-white.) Lucia is usually drawn with eyes and a mouth, and often smiles.
+<br/><br/>
+LUCIA: I knew you'd sneak out!
+<br/><br/>
+ILSE: Lucia...
+<br/><br/>
+Lucia's speech, and Ilse's thoughts on the previous page, were drawn in a handwritten-looking style. However, when Ilse speaks to Lucia, ze speaks in a mechanical font.
+<br/><br/>
+LUCIA: You're my best friend... No way am I going to let you run off all by yourself!
+<br/><br/>
+Lucia puts a hand on Ilse's shoulder.
+<br/><br/>
+LUCIA: I know you don't like parties, but you should really try harder!
+<br/><br/>
+ILSE: I guess...
+<br/><br/>
+LUCIA: We're all going to be off to college in no time, and this is our only graduation party. Come back with us &ndash; you'll have lots of fun.
+<br/><br/>
+ILSE: Like I was having already?
+<br/><br/>
+ILSE: Compromise: I'll take you to the cafe downtown.
+<br/><br/>
+LUCIA: Alright... But you'll miss everyone...
+<br/><br/>
+ILSE: No. I don't care about any of them.
+<br/><br/>
+LUCIA: What's gotten into you?
+<br/><br/>
+Ilse pauses, turns around, and stares at Lucia.
+<br/><br/>
+ILSE: Honesty.'''),
 page (3,''''''),
 page (4,''''''),
 page (5,''''''),
