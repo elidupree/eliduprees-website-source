@@ -13,9 +13,9 @@ def add_game(page_dict):
       "Hexy Bondage ⊂ Eli Dupree's website",
       r'''
 <style>
-body.hexy .bars_outer_box {
+html.hexy .bars_outer_box {
   background-color: #878787;
-  background-image: url("/media/hexy_bondage_page_background.jpg?rr"); }
+  background-image: url("/media/hexy-background.jpg?rr"); }
 
 div.hexy_content h1{ font-size: 200%; font-weight: bold; padding-top: 0.20em; }
 div.hexy_content h2{ font-size: 150%; font-weight: bold; padding-top: 0.30em; }
@@ -123,5 +123,5 @@ when their “opponent” is too tied up to reach the board.
 </div>
 </div>
   </div>
-</main>'''), {"body_class":"hexy"}
+</main>'''), {"html_class":"hexy"}
   )
