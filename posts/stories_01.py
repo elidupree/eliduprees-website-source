@@ -46,6 +46,6 @@ width: 100%; height: 55em;
 }
 
 </style>''',
-  "contents":'''<iframe src="/media/will-you-try-to-escape-iframe.html?rr"></iframe>''',
+  "contents":'''<iframe title="story content" src="/media/will-you-try-to-escape-iframe.html?rr"></iframe>''',
 },
 ]
