@@ -81,7 +81,15 @@ ILSE: No. I'll find someone else to get my "good friend" fix from. I won't miss 
 <br/><br/>
 LUCIA: But...!'''),
 
-page (4,''''''),
+page (4,'''LUCIA: No offense, but that's absurd! Think of everything we've done together!
+<br/><br/>
+Three more speech bubbles come from Lussier. In each of them, we see a memory of Lucia and Ilse having fun together. In one, they are playing a board game with another two friends. In one, they win a game of doubles tennis and high-five each other. In one, they dress up as characters from Star Wars and fight with fake lightsabers.
+<br/><br/>
+LUCIA: We have years of shared experiences between us, and we'll keep that wherever we go. Friends don't disappear when you part with them; they become part of you. And the memory of them comes back to you, whether you want it to or not. And you miss them.
+<br/><br/>
+ILSE: I'm not so sure... Those memories don't excite me the way they excite you.
+<br/><br/>
+ILSE: We've done fun things in the same places and at the same times, yes, but does that make us connected? I don't know about you, but... I don't feel connected.'''),
 page (5,''''''),
 page (6,''''''),
 page (7,''''''),
