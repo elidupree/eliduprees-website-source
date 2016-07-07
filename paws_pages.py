@@ -83,14 +83,41 @@ LUCIA: But...!'''),
 
 page (4,'''LUCIA: No offense, but that's absurd! Think of everything we've done together!
 <br/><br/>
-Three more speech bubbles come from Lussier. In each of them, we see a memory of Lucia and Ilse having fun together. In one, they are playing a board game with another two friends. In one, they win a game of doubles tennis and high-five each other. In one, they dress up as characters from Star Wars and fight with fake lightsabers.
+Three more speech bubbles come from Lucia. In each of them, we see a memory of Lucia and Ilse having fun together. In one, they are playing a board game with another two friends. In one, they win a game of doubles tennis and high-five each other. In one, they dress up as characters from Star Wars and fight with fake lightsabers.
 <br/><br/>
 LUCIA: We have years of shared experiences between us, and we'll keep that wherever we go. Friends don't disappear when you part with them; they become part of you. And the memory of them comes back to you, whether you want it to or not. And you miss them.
 <br/><br/>
 ILSE: I'm not so sure... Those memories don't excite me the way they excite you.
 <br/><br/>
 ILSE: We've done fun things in the same places and at the same times, yes, but does that make us connected? I don't know about you, but... I don't feel connected.'''),
-page (5,''''''),
+
+page (5,'''LUCIA: But you've always stuck up for me! Like when I lost the watch my granddad gave me...
+<br/><br/>
+In Lucia's speech bubble, Lucia is covering zir face. Voices from all around say: "It's only a watch", "why you so emotional", "get over it", "not a big deal", "Why don't you just", "get over it". Ilse puts zir arm around Lussier's shoulders and says: "It'll be okay &ndash; You are safe with me".
+<br/><br/>
+ILSE: The way I remember it, it was more like
+<br/><br/>
+In Ilse's speech bubble, Lucia is sitting in a chair and covering zir head. Ilse stands nearby, looking the other direction and saying "I can't help you". In Ilse's speech bubbles, Ilse is drawn the same way ze is normally.
+<br/><br/>
+LUCIA: Everyone feels awkward... What's important is that you were trying! And what about when
+<br/><br/>
+In Lucia's speech bubble, another person is grabbing Lucia's shoulders intimidatingly. The other person says "You should be happy that I'm even looking at you". Ilse appears dramatically and confronts the other person, thinking "I will risk anything to protect my friend!"
+<br/><br/>
+Another speech bubble comes from Ilse, giving a different interpretation of the same scene. In this version, Ilse is glaring at the other person, and Ilse is thinking, "Please take a swing. I want to see how your face looks after I smash up against the asphalt."
+<br/><br/>
+LUCIA: Oh, come on! If I saw someone attacking YOU like that, I'd want to see them bleed just as much!
+<br/><br/>
+ILSE: Did I tell you that I was suspended once in fourth grade for injuring another kid?
+<br/><br/>
+Ilse glares with angry, red eyes.
+<br/><br/>
+ILSE: I learned a lesson from that. Now I know which kinds of people I can hurt without getting punished. And you think I'm some kind of saint?
+<br/><br/>
+LUCIA: I don't know... it's just, the whole time I've known you, even after I lost the watch and the rest of my friends were laughing at me...
+<br/><br/>
+Lucia looks down at the table sadly.
+<br/><br/>
+LUCIA: I've never felt like you were looking down on me.'''),
 page (6,''''''),
 page (7,''''''),
 page (8,''''''),
