@@ -67,7 +67,7 @@ page (10,'''''','''
 
 <p>I wrote this in 2011. It was my first serious graphic story, and only my second story that emphasized neurodiversity. I have mixed feelings about it now.</p>
 
-<p>What is the point of the story?</p>
+<p>What is the point of this story?</p>
 
 Maybe it's a moral fable? Lucia does something wrong, then suffers for it, then (perhaps) learns a lesson. The point of a moral fable is to teach the reader that they shouldn't do what Lucia does. Maybe this story does that. But that story would normally be told from Lucia's perspective, and this one is told from Ilse's perspective.
 
