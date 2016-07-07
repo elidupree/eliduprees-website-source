@@ -24,6 +24,7 @@ Ilse begins walking away.
 ILSE (thinking): Fuckin' parties.
 <br/><br/>
 LUCIA (yelling from off-page): ILSE!'''),
+
 page (2,'''Lucia runs up. Lucia is done in a much more detailed style than Ilse. Ze is wearing shorts and a sports shirt with blue shoulders. (Everything except that blue, and the red on Ilse, is still black-and-white.) Lucia is usually drawn with eyes and a mouth, and often smiles.
 <br/><br/>
 LUCIA: I knew you'd sneak out!
@@ -55,7 +56,31 @@ LUCIA: What's gotten into you?
 Ilse pauses, turns around, and stares at Lucia.
 <br/><br/>
 ILSE: Honesty.'''),
-page (3,''''''),
+
+page (3,'''Ilse walks through the doors of a café.
+<br/><br/>
+LUCIA: You've been quiet...
+<br/><br/>
+ILSE: I'd rather talk in here.
+<br/><br/>
+Ilse points out a booth in the café. They both sit down, facing each other. Six other people are sitting at tables in the background.
+<br/><br/>
+ILSE: I leave tomorrow. Someone with a cousin in Cali. I won't see most of you again...
+<br/><br/>
+ILSE: ...so I don't have to pretend anymore.
+<br/><br/>
+LUCIA: I'll be so...
+<br/><br/>
+Inside the speech bubble, we see Lucia sitting on a bench with a blue cloud hovering over zem. Ze is thinking sadly about Ilse. In the speech bubbles where Lucia is talking about Ilse, Ilse is drawn in a curvy style, instead of the usual straight lines and sharp corners, and ze has zir eyes and mouth visible as well.
+<br/><br/>
+LUCIA: And you'll be so...
+<br/><br/>
+Inside of the speech bubble, we see Ilse standing in front of the Golden Gate Bridge, which is drawn in bright red. Ilse is thinking sadly about Lucia.
+<br/><br/>
+ILSE: No. I'll find someone else to get my "good friend" fix from. I won't miss you.
+<br/><br/>
+LUCIA: But...!'''),
+
 page (4,''''''),
 page (5,''''''),
 page (6,''''''),
