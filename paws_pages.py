@@ -118,10 +118,33 @@ LUCIA: I don't know... it's just, the whole time I've known you, even after I lo
 Lucia looks down at the table sadly.
 <br/><br/>
 LUCIA: I've never felt like you were looking down on me.'''),
-page (6,''''''),
+
+page (6,'''ILSE: What was I supposed to do &ndash; abandon you? This is why I hang out with outcasts: All I have to do to win your love is to not be a complete asshole!
+<br/><br/>
+On the words "complete asshole", Ilse's speech slips from a mechanical style to a handwritten style.
+<br/><br/>
+ILSE: This is what I HATE about people like you!
+<br/><br/>
+LUCIA: "People like me"?
+<br/><br/>
+ILSE: Yeah, people like you. NORMAL people.
+<br/><br/>
+Ilse's eyes are still red and angry. Now ze also leans forward aggressively and begins crying red tears.
+<br/><br/>
+ILSE: When I pretend to be what I'm not, you call me "best friend"! But when I you the truth you think I'm lying!!
+<br/><br/>
+Ilse realizes that ze has just spilled zir drink. Zir eyes go back to normal, and ze leans back and takes a drink from what's left. The two of them stare at each other for a moment.
+<br/><br/>
+LUCIA: Ilse I don't think you're lying
+<br/><br/>
+ILSE: Oh yeah then what do you think.'''),
+
 page (7,''''''),
+
 page (8,''''''),
+
 page (9,''''''),
+
 page (10,'''''','''
 <h2>Author's notes</h2>
 
