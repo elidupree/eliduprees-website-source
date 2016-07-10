@@ -165,7 +165,25 @@ They leave the café.
 <br/><br/>
 ILSE: It was good seeing you though!'''),
 
-page (9,''''''),
+page (9,'''The red item usually drawn on Ilse is absent.
+<br/><br/>
+ILSE: Oh my god, I can't believe I almost forgot!
+<br/><br/>
+LUCIA: What?
+<br/><br/>
+ILSE: I found the watch.
+<br/><br/>
+LUCIA: Really?!
+<br/><br/>
+ILSE: Really. I don't know how it got there, but it's in one of the bins in the art room.
+<br/><br/>
+In Ilse's speech bubble, we see a row of three bins, and an old-fashioned watch.
+<br/><br/>
+ILSE: It's been the one all the way to the right. I couldn't quite reach in far enough to get it. And you really have to shove your hand up under the lid to get it open. And you'll be there anyway to pick up some other stuff. Tomorrow at 4:00, right?
+<br/><br/>
+LUCIA: Ilse, you're incredible.
+<br/><br/>
+They hug, with Ilse facing towards the reader and the red item as a bracelet behind Lucia's back. They wave goodbye to each other and part ways.'''),
 
 page (10,'''''','''
 <h2>Author's notes</h2>
