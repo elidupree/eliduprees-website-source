@@ -185,7 +185,11 @@ LUCIA: Ilse, you're incredible.
 <br/><br/>
 They hug, with Ilse facing towards the reader and the red item as a bracelet behind Lucia's back. They wave goodbye to each other and part ways.'''),
 
-page (10,'''''','''
+page (10,'''Ilse is riding an airplane. Ze checks zir watch, which is a simple modern one, unlike the old-fashioned one Lucia had. It now reads 4 o'clock.
+<br/><br/>
+In a thought bubble, we see what Ilse imagines Lucia is doing right now. Lucia approaches the bins in the art room that appeared on the previous page. Ze sticks zir hand into the one on the right. However, on another table, there is a sign saying "FOR BROKEN GLASS", with a paper note saying "This sign fell down. Can you mount it again soon? It goes above the bin on the right." Lucia has stuck zir hand into the broken glass, and it is now cut and bleeding. Lucia looks down at zir hand. Ze remembers Ilse saying "pointlessly hurt someone, just to win an argument". Ze looks horrified. Along with zir horrified expression, the blue color that has been on zir shoulders for the whole story turns to gray, and ze begins crying blue tears instead.
+<br/><br/>
+Outside the thought bubble, Ilse is still on the airplane, imagining this happening to Lucia. Ilse makes a rude gesture and grins for the first time. ''','''
 <h2>Author's notes</h2>
 
 <p>I wrote this in 2011. It was my first serious graphic story, and only my second story that emphasized neurodiversity. I have mixed feelings about it now.</p>
