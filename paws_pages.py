@@ -139,7 +139,15 @@ LUCIA: Ilse I don't think you're lying
 <br/><br/>
 ILSE: Oh yeah then what do you think.'''),
 
-page (7,''''''),
+page (7,'''The page is dominated by a large image of Lucia and Ilse facing each other while Lucia speaks.
+<br/><br/>
+LUCIA: I think... Love isn't easy. Don't let anybody tell you it's easy. Especially not when the time comes the part with someone you've spent this much of your life with. And to tell yourself that you're not emotionally invested &ndash; that is easy. But the fact that it upsets you this much shows that you care. I don't think you're lying at all... I think you're trying to shield yourself. I'm not ashamed or afraid to say that I love you, Ilse, and I'm sad that you've closed that door for yourself.
+<br/><br/>
+Ilse sits and thinks, holding zir cup.
+<br/><br/>
+ILSE: Well...
+<br/><br/>
+ILSE (thinking, in red text): Well, that's a pretty nice theory except for the fact that it's complete and utter bullshit. Maybe if you were such a goddamned good friend you would have trusted me to know what I was talking about instead of pushing your own reality on mine. Maybe you would been listening to me this whole time.'''),
 
 page (8,''''''),
 
@@ -154,7 +162,7 @@ page (10,'''''','''
 
 Maybe it's a moral fable? Lucia does something wrong, then suffers for it, then (perhaps) learns a lesson. The point of a moral fable is to teach the reader that they shouldn't do what Lucia does. Maybe this story does that. But that story would normally be told from Lucia's perspective, and this one is told from Ilse's perspective.
 
-Maybe it's a revenge fantasy? Ilse feels wronged, retaliates, and feels vindicated. If the reader shares Ilse's frustrations, maybe it helps the reader feel some catharsis. But Ilse's feelings are based on my own, and <em>I</em> don't feel good about the ending at all. I really don't like the idea of this story being a revenge fantasy.
+Maybe it's a revenge fantasy? Ilse feels wronged, retaliates, and feels vindicated. In a revenge fantasy, if the reader shares the main character's frustrations, maybe it helps the reader feel some catharsis. But Ilse's frustrations are based on my own, and <em>I</em> don't feel good about the ending at all. I really don't like the idea of this story being a revenge fantasy.
 
 As a writer, my instinct is to make things as dramatic as possible. Here, that made me give you a snapshot of the moment when two people hurt each other the most. That might not have been a good thing. Neurotypical people often have an unreasonable fear that neurovariant people (like Ilse) will hurt them, and this story might encourage that fear. In the future, I would rather write stories about how neurotypical and neurovariant people can cooperate in a way that is good for everyone.
 
