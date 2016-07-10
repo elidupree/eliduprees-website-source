@@ -5,11 +5,14 @@ from __future__ import division
 import datetime
 
 def page (number, transcript, annotation = ""):
-  return {
+  result = {
     "xcf_base": "thorough_p" + str (number),
     "force_date": datetime.date (2011, 1, 26),
     "auto_paragraphs": True,
     "transcript": transcript, "annotation": annotation}
+  if annotation != "":
+    result ["edited_significantly_from_old_website"] = True
+  return result
     
 
 pages = [
@@ -202,7 +205,13 @@ Maybe it's a revenge fantasy? Ilse feels wronged, retaliates, and feels vindicat
 
 As a writer, my instinct is to make things as dramatic as possible. Here, that made me give you a snapshot of the moment when two people hurt each other the most. That might not have been a good thing. Neurotypical people often have an unreasonable fear that neurovariant people (like Ilse) will hurt them, and this story might encourage that fear. In the future, I would rather write stories about how neurotypical and neurovariant people can cooperate in a way that is good for everyone.
 
-In fact, one of my earlier concepts for this story was much more like that. In that version, a bunch of Ilse's classmates were facing some sort of crisis. The other classmates panicked and made things worse, but Ilse &ndash; who didn't have any emotions about the crisis at all &ndash; was able to stay calm and help them get things under control. Honestly, I wish I had written that version of the story instead of this one.'''),
+In fact, one of my earlier concepts for this story was much more like that. In that version, a bunch of Ilse's classmates were facing some sort of crisis. The other classmates panicked and made things worse, but Ilse &ndash; who didn't have any emotions about the crisis at all &ndash; was able to stay calm and help them get things under control. Honestly, I wish I had written that version of the story instead of this one.
+
+<h2> About the art style </h2>
+
+Unlike the other comics on this site, I drew this one with pencil on paper, inked it with a pen, scanned it, and added the colors on the computer. By doing this, I achieved a much more precise style than I do when I draw using my graphics tablet.
+
+I would like to be able to use this precise style for some of my future works. However, the physical drawing process also took much longer and was much more of a strain on my hands. It simply isn't worth the added difficulty. Perhaps I will eventually come up with a way to get the best of both worlds.'''),
 
 ]
 
