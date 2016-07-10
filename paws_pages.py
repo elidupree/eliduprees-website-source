@@ -145,11 +145,25 @@ LUCIA: I think... Love isn't easy. Don't let anybody tell you it's easy. Especia
 <br/><br/>
 Ilse sits and thinks, holding zir cup.
 <br/><br/>
-ILSE: Well...
+ILSE (speaking in text that looks mechanical): Well...
 <br/><br/>
-ILSE (thinking, in red text): Well, that's a pretty nice theory except for the fact that it's complete and utter bullshit. Maybe if you were such a goddamned good friend you would have trusted me to know what I was talking about instead of pushing your own reality on mine. Maybe you would been listening to me this whole time.'''),
+ILSE (thinking, in red text that looks handwritten): Well, that's a pretty nice theory except for the fact that it's complete and utter bullshit. Maybe if you were such a goddamned good friend you would have trusted me to know what I was talking about instead of pushing your own reality on mine. Maybe you would been listening to me this whole time.'''),
 
-page (8,''''''),
+page (8,'''Another large image. Ilse speaks in a mechanical style.
+<br/><br/>
+ILSE: You really think so? That I'm closing doors on myself? I'm sick of this. I didn't bring you here to argue with you. I want to go home. The only reason I didn't throw my mug at you a minute ago was because we are in public. I'm a sociopath, Lucia. I don't care about anyone or anything but myself.
+<br/><br/>
+LUCIA: That's impossible! Even just the fact that you're listening to me now proves that you're not a sociopath. A real sociopath would
+<br/><br/>
+ILSE: ...pointlessly hurt someone, just to win an argument?
+<br/><br/>
+LUCIA: Sure! That's not like you at all!
+<br/><br/>
+ILSE: I suppose we'll see... but I really do need to head out. I need to get home early, because I have lots of stuff to pack.
+<br/><br/>
+They leave the café.
+<br/><br/>
+ILSE: It was good seeing you though!'''),
 
 page (9,''''''),
 
