@@ -59,7 +59,7 @@ pages = [
       (2990, '''Granger taps the cell's magical window, and the '''+cyan+''' magic clears away from the middle of the window, so it can be seen through.'''),
       (3730, 'GRANGER: And now... Harry Potter...'),
     ],
-    "annotation": '''<p>If you're a <i>Harry Potter</i> fan, you might be thinking <q>Aha, ze wrote 'truth potion' for the benefit of people who aren't familiar enough with the series to know the name 'Veritaserum'</q>. If you're a bigger fan, you might be thinking "But Veritaserum is as clear as water, and that potion isn't!" That's right! The real reason I don't say "Veritaserum" is because this is actually a modified version of Veritaserum that Granger invented - it is similar, but its action is unaffected by the Veritaserum antidote, which is a distinct tactical advantage.</p><p>A more cynical person might speculate that Granger invented it to circumvent legal restrictions on the use of Veritaserum, but the law usually refers to truth potions in general, and as the head of the Auror Office, Granger can get the necessary warrants easily.</p>'''
+    "annotation": '''<p>If you're a <i>Harry Potter</i> fan, you might be thinking <q>Aha, ze wrote 'truth potion' for the benefit of people who aren't familiar enough with the series to know the name 'Veritaserum'</q>. If you're a bigger fan, you might be thinking "But Veritaserum is as clear as water, and that potion isn't!" That's right! The real reason I don't say "Veritaserum" is because this is actually a modified version of Veritaserum that Granger invented. It is similar, but it is unaffected by the most well-known Veritaserum antidote, which is a tactical advantage.</p><p>A more cynical person might speculate that Granger invented it to circumvent legal restrictions on the use of Veritaserum, but the law usually refers to truth potions in general, and as the head of the Auror Office, Granger can get the necessary warrants easily.</p>'''
   },
   {
     "xcf_base": "ch1_p3_2",
@@ -131,7 +131,7 @@ pages = [
     
     "annotation":'''<p>I'm pretty sure I've made Voldemort creepy enough.</p>
     
-    <p>The timeline here can be a bit confusing. The presumed-dead students - who were in Harry's year or one year above - were still at Hogwarts. But Fiendfyre is an advanced spell, so the most likely time for the attack is in (what would be) Harry's sixth year. So how is Granger an Auror already? When did Harry leave Hogwarts to become a notorious killer? Why didn't Voldemort return at the same time ze did in the books? These questions will be answered in time.</p>''',
+    <p>The timeline here can be a bit confusing. The presumed-dead students &ndash; who were in Harry's year or one year above &ndash; were still at Hogwarts. But Fiendfyre is an advanced spell, so the most likely time for the attack is in (what would be) Harry's sixth year. So how is Granger an Auror already? When did Harry leave Hogwarts to become a notorious killer? Why didn't Voldemort return at the same time ze did in the books? These questions will be answered in time.</p>''',
   },
   {
     "xcf_base": "ch1_p7_1",
@@ -164,11 +164,11 @@ pages = [
     
 <p>In the original series, there is a device called a <q>Time-Turner</q> that can magically transport you back in time by one hour. That has huge implications about the nature of the universe, and the books never specify its limitations. Logically, you'd expect them to be a huge issue &ndash; the Aurors would all have them, Voldemort would probably have one, and every important battle would be based on tricky uses of time travel.</p>
 
-<p>I had three choices: I could justify Time-Turners, I could eliminate them entirely, or I could change them into something else. <a href="/blog/recommended-website-harry-potter-and-the-methods-of-rationality"><i>Harry Potter and the Methods of Rationality</i></a> takes the first option; it creates a consistent set of rules for how Time-Turners work and how they handle temporal paradoxes. I didn't want to do that, because this isn't a story about time shenanigans; it's more of a story about characters and their emotional interactions. So it was between eliminating Time-Turners and changing them.</p>
+<p>I had three choices: I could justify Time-Turners, I could eliminate them entirely, or I could change them into something else. <a href="/blog/recommended-website-harry-potter-and-the-methods-of-rationality"><span class="title">Harry Potter and the Methods of Rationality</span></a> takes the first option; it creates a (supposedly) consistent set of rules for how Time-Turners work and how they handle temporal paradoxes. I didn't want to do that, because this isn't a story about time shenanigans. It's more of a story about characters and their emotional interactions. So it was between eliminating Time-Turners and changing them.</p>
 
-<p>I didn't want to eliminate them because I <em>really really liked</em> the symbolism of Hermione using the Time-Turner to take extra classes &ndash; it shows a lot of dedication to be willing to warp the very fabric of time in order to study harder. So I kept the object, but changed it. The Time-Twister doesn't send you back in time by an hour... it just gives you an extra hour, somehow, and no one's exactly sure how it works. You can use it go to two classes that are at the same time, but if you do, you won't remember which order you went to them in, and if someone follows you around, they'll come to both classes with you &ndash; so the Time-Twister doesn't just affect you, it affects everyone around you.</p>
+<p>I didn't want to eliminate them because I <em>really really liked</em> the symbolism of Hermione using the Time-Turner to take extra classes. Ze warped the very fabric of time in order to study harder &ndash; that's some serious dedication. So I kept the object, but changed it. The Time-Twister doesn't send you back in time by an hour... it just gives you an extra hour, somehow, and no one's exactly sure how it works. You can use it go to two classes that are at the same time, but if you do, you won't remember which order you went to them in, and if someone follows you around, they'll come to both classes with you &ndash; so the Time-Twister doesn't just affect you, it affects everyone around you.</p>
 
-<p>(Another reason I made Time-Twisters is that it means I don't have to worry too much about keeping a consistent timeline. If things seem inconsistent or anachronistic, they are! It's canon!)</p>''',
+<p>(Another reason I made Time-Twisters work this way is that it means I don't have to worry too much about keeping a consistent timeline. If things seem inconsistent or anachronistic, they are! It's canon!)</p>''',
   },
   {
     "xcf_base": "ch1_p8_2",
@@ -197,11 +197,11 @@ pages = [
     "annotation": '''
 <p>You'd have to be a real <i>Harry Potter</i> scholar to remember what those spells do, but I've written their effects down in the transcript.</p>
 
-<p>Transcripts serve the purpose of making the story accessible to as many people as possible. The most obvious use is for people who are vision-impaired and can't see the image at all, or people who can see the image but can't read the text in it. But that's not the only group who can benefit from transcripts. They are also helpful to people who have trouble interpreting the language of comics that I'm using &ndash; e.g. which things happen in which timeframe, what is dialogue and what is thoughts, and so forth. You could have trouble because you're unfamilar with the medium, or because of cognitive differences, or because I drew things in a confusing way (which I can't deny will happen sometimes).</p>
+<p>Transcripts help make the story accessible to as many people as possible. This is obviously useful for people who are vision-impaired and can't see the image at all, or people who can see the image but can't read the text in it. But that's not the only group who can benefit from transcripts. They are also helpful to people who have trouble interpreting the <strong>language of comics</strong> that I'm using &ndash; e.g. which things happen in which timeframe, what is dialogue and what is thoughts, and so forth. You could have trouble because you're unfamilar with the medium, or because of cognitive differences, or because I drew things in a confusing way (which I can't deny will happen sometimes).</p>
 
-<p>Given all these different possible uses, I try to make the transcript explain all the relevant information from the image. A lot of websites have transcripts that repeat the words drawn in the image, but don't describe the pictures; I believe that's insufficient.</p>
+<p>Because the transcript has many different possible uses, I try to make it explain <em>all</em> the relevant information from the image. A lot of websites have transcripts that repeat the words drawn in the image, but don't describe the pictures. I believe that it's important to include both.</p>
 
-<p>Of course, since this is a work of fan fiction, it has a lot of implicit references to things from the <i>Harry Potter</i> universe. I can't reasonably explain all of them. I will generally try to explain things in the transcript if they're obscure enough that a fair chunk of <i>Harry Potter</i> readers won't know them (e.g. if they're from the later books in the series). I'm not trying to make the story <em>entirely</em> accessible to people who haven't read <i>Harry Potter</i> at all, but luckily, most information from the <i>Harry Potter</i> universe is also on the Internet.</p>''',
+<p>Of course, since this is a work of fan fiction, it has a lot of implicit references to things from the <i>Harry Potter</i> universe. I can't reasonably explain all of them. I will generally try to explain things in the transcript if they're obscure enough that a fair chunk of <i>Harry Potter</i> readers won't know them. This includes information from the later books in the series, because I've met a bunch of people who have read the first book, or the first few books, but not all of them. I'm not trying to make the story <em>entirely</em> accessible to people who haven't read <i>Harry Potter</i> at all, but I want it to be as accessible as I can reasonably make it. And for the things I don't explain, most things from the <i>Harry Potter</i> universe are possible to look up on the Internet.</p>''',
   },
   {
     "xcf_base": "ch1_p9_2",
@@ -217,7 +217,7 @@ pages = [
     ],
     "annotation": '''<p>Thus ends chapter 1. I suppose I could have come up with a nice way to indicate the end of the chapter, like <a href="http://gunnerkrigg.com/">Gunnerkrigg Court</a> does, but I guess I didn't.</p>
     
-    <p>I wanted to give Granger a more nuanced line to accept Harry's rules with, but I couldn't make it fit with the flow of the piece. Sure, I could have made the upper text smaller, but I don't think the atmosphere of this page would benefit from the level of nuance that Granger would try to introduce to the situation.</p>''',
+    <p>I wanted to give Granger a more nuanced line to accept Harry's rules with, but I couldn't make it fit with the flow of the piece. Sure, I could have made the upper text smaller, but I don't think the atmosphere of this page would benefit from the level of nuance that Granger would try to bring to the situation.</p>''',
   },
   {
     "chapter_start": 'Chapter Two: Castle of Gloss and Fear',
@@ -233,7 +233,7 @@ pages = [
       (3350, '''TITLE: Chapter Two'''),
       (3650, '''TITLE: Castle of Gloss and Fear'''),
     ],
-    "annotation": '''<p>My stylus once drew the windows of this castle. They felt wrong, somehow. Now you see only a blank facade and a sky empty of stars, and although you see the lights reflected in the water, they are absent. Perhaps this is Hogwarts as Harry sees it now &ndash; and as for the Hogwarts that an eleven-year-old saw, not knowing what was to come, you will not see it until the very end.</p>''',
+    "annotation": '''<p>My stylus once drew the windows of this castle. They felt wrong, somehow. Now you see only a blank facade and a sky empty of stars, and although you see the lights reflected in the water, the castle shows no sign of them. Perhaps this is Hogwarts as Harry sees it now &ndash; but as for the Hogwarts that an eleven-year-old saw, not knowing what was to come, you will not see it until the very end.</p>''',
   },
   {
     "xcf_base": "ch2_p1_1",
@@ -246,7 +246,7 @@ pages = [
       (2350, '''A younger Harry and younger Granger sit in a classroom, along with other students. Harry is staring out a window, where a brightly colored daytime scene is visible. Granger is working dutifully. There are books and papers on the desks, but Harry doesn't have any.'''),
       (3140, '''<span class="dialogue grey">MCGONAGALL:</span> {from off-page} <span class="dialogue grey">Potter, are you starting out the window again? Two points from Gryffindor, and next time, it will be ten!</span>'''),
     ],
-    "annotation": '''<p>Returning by choice to look at a time and place where ze chose only to look elsewhere. I enjoyed building this page.</p>''',
+    "annotation": '''<p>Harry's story returns by choice to look at a time and place where ze chose only to look elsewhere. I enjoyed building this page.</p>''',
   },
   {
     "xcf_base": "ch2_p2_1",
@@ -264,7 +264,7 @@ pages = [
     ],
     "annotation": '''<p>Some people would say that Professor McGonagall is "strict, but fair".</p>
     
-<p>What does it mean to be "strict, but fair"? People think that you can be "strict, but fair" by holding every student to the same standard... but with any standard, there will be some students that don't have the physical, mental, or social capability of living up to that standard. To those students, it is profoundly <em>un</em>fair.</p>
+<p>What does it mean to be "strict, but fair"? People think that you can be "strict, but fair" by holding every student to the same standard. But with any standard, there will be some students that cannot live up to that standard, because of some physical, mental, or social limitation. To those students, it is profoundly <em>un</em>fair.</p>
 
 <p>Can you fix that by tailoring your demands to each individual student? Is anyone so skilled that they can identify the abilities of hundreds of people? Is anyone's judgment unclouded by classism, neurelitism, racism, sexism?</p>
 
@@ -291,9 +291,11 @@ pages = [
       
       (3432, '''SNAPE: Albus... the boy is a natural Legilimens.'''),
     ],
-    "annotation": '''<p>This is one of 4-6 times (depending how strictly you count) when I will replicate a specific scene from the books. This is basically the same as the original until Harry uses Legilimency to read the correct answer from Snape's mind. Snape could easily have blocked it, but ze wasn't expecting a student to have that power.</p>
+    "annotation": '''<p>Snape's words in the top half of the page on zir exact words from <i>Harry Potter and the Sorcerer's Stone</i>, pages 136-138. This is one of 4-6 times (depending how strictly you count) when I will replicate a specific scene from the books.</p>
     
-    <p>There's no particular pattern to when I modify existing scenes and when I invent my own. For some of them, I use them to critique or comment on how the scene plays out in the books, but it's mostly just a matter of which ones I came up with good uses for. </p>''',
+    <p>There's no particular pattern to when I modify existing scenes and when I invent my own. For some of them, I use them to critique or comment on how the scene plays out in the books. Mostly, it's just a matter of which ones I came up with good uses for. </p>
+    
+    <p>Snape could easily have blocked Harry from reading zir mind, but ze wasn't expecting a first-year student to have that power. In Snape's more advanced classes, ze is more on-guard against unscrupulous students who know Legilimency, but with first-years, ze needs all of zir concentration to keep them from getting themselves killed with potion-making mistakes.</p>''',
   },
   {
     "xcf_base": "ch2_p4_1",
@@ -313,7 +315,11 @@ pages = [
       (3700, '''SNAPE: I value your wisdom above all things, but about Tom Riddle, you will never understand.'''),
       (3822, '''DUMBLEDORE: That I cannot deny.'''),
     ],
-    "annotation": '''<p>Our first glimpse of Albus Dumbledore...</p> ''',
+    "annotation": '''<p>Our first glimpse of Albus Dumbledore...</p>
+    
+    <p>My version of Snape is not kind, but ze is less petty and mean to Harry than in the books. In the later books, we learned that Snape's real reason for being mean to Harry is that Snape had a grudge against James Potter. But ze also loved Lily Potter. Why would ze see Harry as the child of James, but not the child of Lily?</p>
+    
+    <p>Maybe it's just because Harry is the same gender as James. In this story, I am trying to make gender roles less important. Maybe my version of Snape assumed that Harry would be like James, but after meeting zem, realized that ze had more in common with Lily.</p>''',
   },
   {
     "xcf_base": "ch2_p5_1",
@@ -328,7 +334,7 @@ pages = [
       (3338, '''SNAPE: And the worse off I have been for it. Do you object to my training the boy?'''),
       (3729, '''PRESENT HARRY: Shut the hell up. You know the rules.'''),
     ],
-    "annotation": '''<p>How to draw the moving halls of Hogwarts in a single, still image? It seemed so natural that it should be Escher Castle. You could go upstairs to class and then get lost and go upstairs to return. Or you could take a wrong turn and go downstairs to the top of a tower, from which you could only return by a long upward climb. Rumor says the castle has its own opinions about who should travel freely and who should be tripped and trapped every step of the way. What would Dumbledore think?</p>''',
+    "annotation": '''<p>How do you draw the moving halls of Hogwarts in a single, non-moving image? It seemed so natural that it should be Escher Castle. You could go upstairs to class and then get lost and go upstairs to get back. Or you could take a wrong turn and go downstairs to the top of a tower, from which you could only return by a long upward climb. Rumor says the castle has its own opinions about who should travel freely and who should be tripped and trapped every step of the way.</p>''',
   },
   {
     "xcf_base": "ch2_p6_1",
@@ -352,7 +358,7 @@ pages = [
     
     <p>Actually, I invite you to do that with every character. And in every story you read, not just <i>Voldemort's Children</i>.</p>
     
-    <p>On another note, I'd originally been planning to make the Slytherins' lettering (Zabini is in Slytherin) use a small-caps style with lots of serifs like the one McGonagall uses, but decided against it because that style is both tiring to write and hard to read, and I needed to put a bunch of text in a small area on this page. I'm pretty happy with the style I settled on; to me at least, it's very readable, and it still has a certain amount of formality and elegance to it, without taking lots of extra effort to draw.</p>''',
+    <p>On another note, I'd originally been planning to make the Slytherins' lettering (Zabini is in Slytherin) use a small-caps style with lots of serifs like the one McGonagall uses, but I decided against it. That style is both tiring to write and hard to read, and I needed to put a bunch of text in a small area on this page. I'm pretty happy with the style I settled on. To me, at least, it's very readable, and it still has a certain amount of formality and elegance to it, without taking lots of extra effort to draw.</p>''',
   },
   {
     "xcf_base": "ch2_p7_1",
@@ -370,13 +376,13 @@ pages = [
     ],
     "annotation": '''<p>Finally, Luna appears!</p>
     
-    <p>Luna is the one character I haven't gotten straight in my head yet. In canon, ze's handled in a similar way to everyone else &ndash; ze gets the "cute weird girl" role, and might very well be neurodivergent (we certainly see that ze's socially oblivious), but wizarding society behaves in a generally tolerable way towards zem. In short, ze's another case of the story glossing over problematic real-life issues in order to become a nicer work of escape literature.</p>
+    <p>Luna is the one character I haven't gotten straight in my head yet. In canon, ze's handled in a similar way to everyone else &ndash; ze gets the "cute weird girl" role, and might very well be neurovariant (we certainly see that ze's socially oblivious), but wizarding society behaves in a generally tolerable way towards zem. In short, ze's another case of the story glossing over problematic real-life issues in order to become a nicer work of escape literature.</p>
     
     <p>As I delve into the horror of our world, I have to come up with a sensitive way of handling Luna. My goal with most of the characters is to preserve their sense of agency while also condemning the ways they're mistreated &ndash; a tricky task, because the simplest way to give agency to a character is to give zem power over the story, and people who are powerful tend to have less trouble with being mistreated.</p>
     
-    <p>There's an extra problem with Luna in particular: ze's relatively content to ignore the problems around zem. (I could have changed that in my adaptation of Luna, but I've decided not to; I think it fits well with the direction I'm taking zem.) That runs the risk of either (1) making it seem like the problems actually <em>aren't</em> that bad, when they would be for many people, or (2) sending the message that the proper solution to being mistreated is to accept it. And it also means that, while I can use Granger and Harry to voice some of my own opinions about what is injust, I cannot use Luna in the same way.</p>
+    <p>There's an extra problem with Luna in particular: ze's relatively content to ignore the problems around zem. (I could have changed that in my adaptation of Luna, but I've decided not to; I think it fits well with the direction I'm taking zem.) That runs a few risks. First, it might make it seem like the problems actually <em>aren't</em> that bad, when they would be for many people. Second, it might send the message that the proper solution to being mistreated is to just ignore it. And it also means that, while the words of Granger and Harry sometimes voice my own opinions about what is injust, I cannot use Luna in the same way.</p>
     
-    <p>So, how do I handle all these issues? I have a lot of answers to that, and also a lot of thinking I still have to do. You'll see soon enough; I leave it to you, the reader, to judge whether I am successful or not.</p>''',
+    <p>So, how do I handle all these issues? I have a lot of answers to that, and also a lot of thinking I still have to do. You'll see soon enough. I leave it to you, the reader, to judge whether I am successful or not.</p>''',
   },
   {
     "xcf_base": "ch2_p8_1",
@@ -415,14 +421,14 @@ BOOK: ...ith the defeat of Lord Voldemort. Claims of events "at the same time as
 PAST HARRY: Not really... I was one year old when it happened. I don't remember or feel anything about it.<br/>
 PRESENT HARRY: <em>Yet.</em><br/>
 LUNA: Cool! Other people say I'm weird because I'm not sad about it. But being sad was too tiring so I stopped.<br/>""",
-  "annotation":"""<p>What does Luna mean when ze says "being sad was too tiring so I stopped"? Lots of people in real life find it very tiring to be sad, and would love to stop, but can't. Clearly Luna isn't one of those people!</p>
+  "annotation":"""<p>What does Luna mean when ze says "being sad was too tiring so I stopped"? Lots of people in real life find it very tiring to be sad, and would love to stop, but can't.</p>
 
-<p>Luna's description might not be exactly understandable or reliable. Ze's only doing the best ze can to express what ze's felt; it's hard to describe subjective experiences, especially when your language evolved in a neurelitist society that assumes human emotions are universal.</p>""",
+<p>Luna's description doesn't quite let us understand what happened. Ze's only trying to explain what ze felt as well as ze can. It's hard to describe subjective experiences, especially when your language evolved in a neurelitist society that assumes human emotions are universal.</p>""",
 },
 {
    
        "xcf_base": "ch2_p10_1",     
-  "content_warning":""""bullying, ableism""",
+  "content_warning":"""depicts bullying and ableist language""",
   "force_id":"29b5951598d4b304f8f7cbf96293482c",
   "force_date":datetime.date(2012, 2, 28),
 
@@ -438,7 +444,16 @@ VOLDEMORT { in a voice like Harry's }: Not this time.<br/>
 Harry grabs Goyle violently. Harry's glasses go flying. Another image of Voldemort holds up, as if in a demonstration, an iconic image of Harry throwing Goyle down the stairs. Then we see Harry, Crabbe, and Draco looking down the stairs to where Goyle lies at the bottom. The voice of Snape comes from below.<br/>
 SNAPE { unseen }: Excuse me.<br/>
 Harry, Crabbe, and Draco look down in horror.""",
-  "annotation":"""<p>Oh shiiiiiii&mdash;</p>""",
+  "annotation":"""<p> "Fatso", you ask? Why is Harry fat?</p>
+  
+<p>The Dursleys routinely forced Harry to go without food as a punishment. As a result, Harry's body adapted by storing extra fat whenever possible, to save up for times when there was no food.</p>
+
+<p>Then, at Hogwarts, Harry was allowed to eat all the food ze could possibly want. This is a good thing: People need to eat a lot of food to recover from malnutrition. Typically, they gain a lot of weight at first, then eventually settle back to something like their natural weight, whatever that is for the individual.</p>
+
+<p> Judging by the books, Harry is naturally skinny, so it's a little unusual that my Harry is still fat years later, in the present. However, periods of starvation can also have a permanent effect on people's metabolism, and chronic stress can cause significant weight gain as well.</p>
+
+<p>Crabbe is obviously just being mean. But other people who might harass Harry for being fat might think that they are encouraging Harry to eat healthier. Those people are both cruel and incorrect: Harry isn't unhealthy because ze's fat &ndash; ze is fat because ze's unhealthy. Eating less would make zem even more unhealthy.</p>
+""",
 },
 {
     "xcf_base": "ch2_p11_1",
@@ -472,9 +487,9 @@ PAST GRANGER: I've earned more points than he's lost, and I say if you want to f
 ANGELINA: You? A second-year against the two of us? It wouldn't be a fair f&ndash;<br/>
 Granger rolls zir eyes and sends the two of them flying with a multicolored barrage of spells, without getting up from zir chair. Harry cowers from the action with zir hands over zir face.<br/>
 PAST GRANGER: Er... Potter? I heard you're supposed to see Dumbledore? I just came from meeting him in his office, actually; I'd go there now if I were you. The password is "Aspartame".""",
-  "annotation":"""<p>Why do you think Granger declared zir status as an earner of lots of points? Ze could have just defended Harry without saying that. Would that have been a better decision? Worse?</p>
+  "annotation":"""<p>Why do you think Granger pointed out how many points ze had earned? Ze could have just defended Harry without saying that. Would that have been a better decision? Worse?</p>
 
-<p>And to follow up on the previous page's annotation, do you think it's ethical for Snape to be participating in the "house points" system at all, when it leads to the kind of intra-house bullying that we're seeing here?</p>""",
+<p>And to follow up on the previous page, do you think it's ethical for Snape to be participating in the "house points" system at all, when it leads to the kind of intra-house bullying that we're seeing here?</p>""",
 },
 {
     "xcf_base": "ch2_p13_1",

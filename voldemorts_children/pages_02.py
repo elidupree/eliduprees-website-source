@@ -19,7 +19,7 @@ Seats of Influence<br/>
 The left half is a complicated metaphorical image. Albus Dumbledore is sitting in a plain chair; behind zem, Voldemort is standing, putting one hand on Dumbledore's shoulder. Dumbledore has a long gray/white beard and wears purple robes. Both of them have the top halves of their heads concealed in shadow, and Dumbledore has the same flat expression that Voldemort always has. Voldemort's wand, as we've seen before, is nearly white; Dumbledore's is nearly black. Both Dumbledore and Voldemort are pointing their wands downwards, working together to conjure an elliptical pool of magical energy, which is half Dumbledore's characteristic color and half Voldemort's. The pool is also divided into three parts by a spiral design, and the three sections are occupied by tiny versions of Harry, Draco, and Luna. Luna is sitting in a plain chair, looking serene; Harry is sitting in a very jagged chair that must be painful to sit in; Draco is lying on zir back next to a chair that has broken in half, and looks slightly panicked.""",
   "annotation":"""<p>It took me all day to come up with the right visual metaphor to use here, but I did it! Feel free to analyze the crap out of this image.</p>
 
-<p>I don't know if Dumbledore's wand is the Elder Wand; it doesn't matter in this story.</p>
+<p>I don't know if Dumbledore's wand is the Elder Wand. It doesn't matter in this story.</p>
 
 <p>The triskelion on the floor definitely <em>isn't</em> the <a href="https://en.wikipedia.org/wiki/BDSM#Symbols">BDSM emblem</a> (parts of linked page NSFW); BDSM is consensual by definition, and the relationships between these characters... aren't. So I deliberately made the arms spiral in the opposite direction from the emblem.</p>""",
 },
@@ -48,7 +48,7 @@ PRESENT HARRY: ...the basin where he keeps his <em>memories</em>.<br/>
 We will enter a narrative frame where we see the memories Harry is seeing in the Pensieve.""",
   "annotation":"""<p>In the books, the Pensieve makes you feel like you're actually in the memory, but are a powerless observer. The magic of comics will allow me to just show you the memories directly.</p>
 
-<p>In the books, the Pensieve is silvery, but here it's pink/purple like Legilimency because I wanted a distinctive color for mind-based magic in general, and because it fits into my general color symbolism better.</p>
+<p>In the books, the Pensieve is silvery, but here it's pink/purple like Legilimency. They both involve looking in someone's mind, so I wanted them to be the same color, and it fits into my general color symbolism better.</p>
 
 <p>Other than that, the Pensieve works the same way it does in the books.</p>""",
 },
@@ -63,18 +63,18 @@ MCGONAGALL: You don't mean &ndash; you <em>can't</em> mean the people who live <
 DUMBLEDORE: Exactly. It would be enough to turn any child's head. Can't you see how much better off he'll be, growing up away from all that until he's ready to take it?<br/>
 MCGONAGALL: Yes &ndash; yes, you're right, of course, but how is the<br/>
 McGonagall is cut off by the narrative frame closing. We see Harry in front of the Pensieve again. Harry is upset, crying.""",
-  "annotation":"""<p>It's possible, at this point in history, that Dumbledore and McGonagall don't know the Dursleys' attitude towards magic, or if they did, they could plausibly rationalize it away by saying that they'll still treat Harry well because Harry is family to them. (Dumbledore would say "still love Harry" instead of "still treat Harry well", but there are plenty of people who love their children and still behave abusively towards them. Dumbledore thinks love is sufficient, but it isn't.)</p>
+  "annotation":""" <p>This page's dialogue is mostly from <i>Harry Potter and the Sorcerer's Stone</i>, pages 13-14.</p> <p>It's possible, at this point in history, that Dumbledore and McGonagall don't know the Dursleys' attitude towards magic. If they did, it's possible that they could rationalize it away by saying that the Dursleys will still treat Harry well because Harry is family to them. (Dumbledore would say "still love Harry" instead of "still treat Harry well", but there are plenty of people who love their children and still behave abusively towards them. Dumbledore thinks love is sufficient, but it isn't.)</p>
 
 <p>Parents who send their teenage children to WWASP schools (TRIGGER WARNING for child abuse if you even do a web search for "WWASP") sometimes don't know about the abuses there, either. Does this mean Dumbledore is like those parents? (In short, WWASP is an organization that runs schools that keep teens in isolation and use extremely abusive "behavior modification" tactics, while denying everything and presenting a clean face as a program for "troubled teens". Tranquility Bay was a well-known one that got shut down, but there are many others, such as Cross Creek Programs and Horizon Academy.)</p>
 
-<p>What about McGonagall, though? Ze resists the idea of placing Harry here for a moment. I could imagine zem as a person who's aware of the issue, but knows ze won't be able to argue Dumbledore out of it and so gives in easily... But is it true?</p>
+<p>What about McGonagall, though? Ze resists the idea of placing Harry here for a moment. I could imagine zem as a person who's aware of the issue, but gives in because ze knows ze won't be able to argue Dumbledore out of it... But is it true?</p>
 
-<p>In the movie, McGonagall describes the Dursleys as "the worst kind of Muggles"; in the book, ze doesn't say that outright, but says "You couldn't find two people who are less like us" &ndash; and I infer that "us" means "wizards". Ze goes on, "These people will never understand him! He'll be famous!"... So it seems like zir objection is to a person of high status (a wizard, a child of a prestigious family, a legend) being placed with a family of low status (muggles, people with outwardly distasteful behavior by wizarding standards). McGonagall isn't thinking about child abuse here &ndash; ze opposes the placement because ze's <em>racist</em>.</p>""",
+<p>In the movie, McGonagall describes the Dursleys as "the worst kind of Muggles". In the book, ze doesn't say that outright, but says "You couldn't find two people who are less like us" &ndash; and I infer that "us" means "wizards". Ze goes on, "These people will never understand him! He'll be famous!"... So it seems like zir objection is to a person of high status (a wizard, a child of a prestigious family, a legend) being placed with a family of low status (muggles, people with distasteful behavior by wizarding standards). McGonagall isn't thinking about child abuse here &ndash; ze opposes the placement because ze's <em>racist</em>.</p>""",
 },
 {
 "xcf_base": "ch3_p4",
         
-  "content_warning":""""a little blood""",
+  "content_warning":"""depicts a little cartoon blood""",
   "force_id":"b594261f7fadae0b98b1b86aaf97bc06",
   "force_date":datetime.date(2012, 3, 18),
 
@@ -87,11 +87,11 @@ PRESENT HARRY: It was Hagrid. The same person who rescued me ten years later...<
 Hagrid reaches out zir hand, offering the infant Harry to Dumbledore. Harry is barely wider than Hagrid's hand. Ze is sleeping, apparently peacefully, although there is a jagged cut on zir forehead, where the scar will be. A trickle of blood touches one of zir eyes. Ze doesn't have a scar at the corner of zir mouth; this is the first time we've seen Harry without that scar.<br/>
 PRESENT HARRY: He had no idea. He had no idea...<br/>
 DUMBLEDORE: Well &ndash; give him here, Hagrid &ndash; we'd better get this over with.""",
-  "annotation":"""<p>I'm writing a fanfic of a fantasy series, and I have to draw a motorcycle? DAMN YOU, J.K. ROWLING!</p>
+  "annotation":""" <p>The dialogue in the memory is from <i>Harry Potter and the Sorcerer's Stone</i>, pages 14-15.</p> <p>I'm writing a fanfic of a fantasy series, and I have to draw a motorcycle? DAMN YOU, J.K. ROWLING!</p>
 
 <p>On a more serious note, look at the way Hagrid refers to "muggles" as "swarming around" &ndash; I think it's rather dehumanizing. If I lived in this world, I'd probably be careful to use the phrase "non-magical people" instead, because "muggles" is used in a dehumanizing way so much.</p>
 
-<p>I think I might start using "non-magical people" and "magical people" in these annotations anyway, because "witch/wizard" is gendered. (As a side note, I insist that in general usage, "wizard" is gender-neutral. The main reason I insist upon that is because I enjoy claiming to be a wizard even though I'm not male, but it does have the support of some existing authorities, such as <i>Dungeons & Dragons</i>. However, this is a <i>Harry Potter</i> fanfic, and in the <i>Harry Potter</i> universe, "wizard" is definitely gendered.)</p>""",
+<p>I'd kind of like to have a different term to use in these annotations, too, because "witch/wizard" is gendered. (As a side note, I insist that in general usage, "wizard" is gender-neutral. The main reason I insist upon that is because I enjoy claiming to be a wizard even though I'm not male, but it does have the support of some existing authorities, such as <i>Dungeons & Dragons</i>. However, this is a <i>Harry Potter</i> fanfic, and in the <i>Harry Potter</i> universe, "wizard" is definitely gendered.)</p>""",
 },
 {
 "xcf_base": "ch3_p5",
@@ -104,9 +104,9 @@ Harry enters Hagrid's hut. Hagrid is literally about twice as tall as Harry, and
 HAGRID: What's got yeh in such a rush?""",
   "annotation":"""<p>How would this story flow differently if I had just written "So I ran to Hagrid's hut" instead of including this page?</p>
 
-<p>For one thing, it would have been quicker and easier for me to write. That's one of my motivations, obviously; in fact, I want to get this story done as quickly as is possible without sacrificing quality, so if drawing something and just summarizing it are equally effective in the narrative, I'll go with the summary. If I draw something, it means that either it was quicker to draw it than to explain it (which sometimes happens), or it had an important effect that I couldn't achieve with a summary.</p>
+<p>For one thing, it would have been quicker and easier for me to write. That's one of my motivations, obviously. In fact, I want to get this story done as quickly as is possible without sacrificing quality, so if drawing something and just summarizing it are equally effective in the narrative, I'll go with the summary. If I draw something, it means that either it was quicker to draw it than to explain it (which sometimes happens), or it had an important effect that I couldn't achieve with a summary.</p>
 
-<p>I can't actually be certain why I chose drawing instead of summary here; there are a few specific reasons I can think of, but I really made the decision based on instinct rather than logic.</p>
+<p>I can't actually be certain why I chose drawing instead of summary here. There are a few specific reasons I can think of, but I really made the decision based on instinct rather than logic.</p>
 
 <p>Anyway, the first reason is that it establishes the setting &ndash; this way, you get a view of the outside of Hagrid's hut, and so you have more of a sense of where the action is than if you just saw the image of Harry inside the hut to begin with.</p>
 
@@ -114,7 +114,7 @@ HAGRID: What's got yeh in such a rush?""",
 },
 {
         
-  "content_warning":""""child abuse""",
+  "content_warning":"""depicts child abuse""",
   "force_id":"ae39a500f0d0b85158ee73270a8da43f",
   "force_date":datetime.date(2012, 3, 20),
 
@@ -132,7 +132,7 @@ PAST HARRY: There was nowhere I could escape from them, not at school, not at ho
 },
 {
         
-  "content_warning":""""child abuse, blood""",
+  "content_warning":"""depicts child abuse, cartoon blood""",
   "force_id":"626fd7ad3d81b6cde73fa41e7ddaed70",
   "force_date":datetime.date(2012, 3, 21),
 
@@ -143,15 +143,15 @@ We see Harry in a car with Petunia; Harry is in the back seat, staring out the w
 PETUNIA: I had to leave work to pick you up. That's more of <em>my</em> money you're costing, useless brat. And don't you dare get your blood on the seats. They were just reupholstered.<br/>
 We see Petunia ordering Harry through a cupboard door under some stairs. After Harry goes in, Petunia locks the cupboard shut with a large padlock.<br/>
 PAST HARRY (continuing the monologue from the previous page): ...because the story of what they did to me is written on my face where anyone can read it.""",
-  "annotation":"""<p>I have a hard time remembering all the things I need to draw on Harry's face in any given scene. There's the zigzag scar, obviously (although when I draw zem as a baby before Voldemort attacks, I'll have to omit that). There's the mouth scar, which exists in things chronologically after the events of this page, but not before. There's the black blotches under zir eyes that indicate constant fatigue, which mainly appear when ze's at Hogwarts. And there's the glasses.</p>
+  "annotation":"""<p>I have a hard time remembering all the things I need to draw on Harry's face in each thing. There's the zigzag scar, obviously (although when I draw zem as a baby before Voldemort attacks, I'll have to omit that). There's the mouth scar, which exists in things chronologically after the events of this page, but not before. There's the black blotches under zir eyes that indicate constant fatigue, which mainly appear when ze's at Hogwarts. And there's the glasses.</p>
 
 <p>I don't think I've forgotten to include the glasses yet - they're often missing, but for a reason. In the current narrative layer, Harry doesn't have glasses because the Dursleys never bought zem any. Hagrid noticed Harry's bad vision and brought Harry to a magical eye doctor in Diagon Alley when they went to shop for books &ndash; and the sudden ability to see properly was yet another of the things that seemed wonderful about the magical world to Harry, before the more painful realities reached zem.</p>
 
-<p>The Dursleys might not even have known that Harry had vision problems; it interfered with zir performance in school, and zir ability to do everyday tasks, but they assumed Harry was lazy and incompetent anyway.</p>""",
+<p>The Dursleys might not even have known that Harry had vision problems. It interfered with zir performance in school, and zir ability to do everyday tasks, but they assumed Harry was lazy and incompetent anyway.</p>""",
 },
 {
         
-  "content_warning":""""child abuse, blood""",
+  "content_warning":"""depicts child abuse, cartoon blood""",
   "force_id":"739293bb358461bb32c147a038ba1d0c",
   "force_date":datetime.date(2012, 3, 27),
 
@@ -179,15 +179,15 @@ Past Harry stands in a dark room, facing a tall, ornate, tinted mirror. There is
 PRESENT HARRY: And then...<br/>
 DUMBLEDORE'S VOICE { from off-page }: Ah, Harry, I thought I might find you here.<br/>
 PAST HARRY: You!!!""",
-  "annotation":"""<p>Usually, if a character destroyed a building in a fit of rage, we'd consider that to be a character flaw. Here, present Harry considers the fact that past Harry <em>didn't</em> do that to be a character flaw!</p>
+  "annotation":"""<p>Usually, if a character destroyed a building in a fit of rage, we'd consider that to be a character flaw. Here, Harry considers the fact that ze <em>didn't</em> do that to be a character flaw!</p>
 
 <p>If a character does something that you think is a bad idea, but they disagree and think it was fine, then it's not "a character flaw", it's just "somebody doing something you don't like".</p>
 
-<p>I personally don't find the concept of "character flaws" to be a useful concept, in general &ndash; categorizing people's attributes into "good" and "bad" is an oversimplification that doesn't really help me understand either the attributes or the people. I sometimes use such simplifications to decide <em>what to do</em> in real life, but when I'm building a story, the important thing to do is to understand deeply.</p>""",
+<p>I personally don't find the concept of "character flaws" to be a useful concept, in general. Categorizing people's attributes into "good" and "bad" is an oversimplification that doesn't really help me understand either the attributes or the people. I sometimes simplify things when I'm trying to decide <em>what to do</em> in real life, but when I'm building a story, the important thing to do is to understand deeply.</p>""",
 },
 {
         
-  "content_warning":""""suicide""",
+  "content_warning":"""depicts attempted suicide""",
   "force_id":"28d29ef3f41cfa016d703c6782c7d115",
   "force_date":datetime.date(2012, 3, 29),
 
@@ -199,9 +199,9 @@ PAST HARRY: The knives in the house, too blunt to cut my skin... you blunted the
 We see a memory from the Pensieve. A younger Harry kneels next to a refrigerator and some cabinets, trying to cut zir own throat with a knife. The knife is glowing Dumbledore's color.<br/>
 PAST HARRY: You... with your magic... in your castle... you took away every possible way for me to escape... carefully... from safety... I hate you. <em>I hate you! <strong>I hate you!!</strong></em><br/>
 DUMBLEDORE { from off-page }: Oh, Harry... It was a different time...""",
-  "annotation":"""<p>Harry learned those things from the Pensieve, along with a lot of other things we didn't specifically see. In another instance, a memory from the Pensieve is the reason Harry can tell us the events of <a href="http://www.elidupree.com/main/posts/173-voldemort's-children-page-14">this page</a>.</p>
+  "annotation":"""<p>Harry learned those things from the Pensieve, along with a lot of other things we didn't specifically see. For instance, a memory from the Pensieve is the reason Harry could tell us about <a href="/voldemorts-children/14">the conversation between Dumbledore and Snape</a>.</p>
 
-<p>I'm not sure exactly how Dumbledore blunted the knives in the Dursley house; maybe it's just one of the effects of a general anti-suicide jinx that ze placed on the house.</p>""",
+<p>I'm not sure exactly how Dumbledore blunted the knives in the Dursley house. Maybe it's just one of the effects of a general anti-suicide jinx that ze placed on the house.</p>""",
 },
 {
   "force_id":"34937efe071db43cf40b952555b142d1",

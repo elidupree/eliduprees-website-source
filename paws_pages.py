@@ -5,11 +5,14 @@ from __future__ import division
 import datetime
 
 def page (number, transcript, annotation = ""):
-  return {
+  result = {
     "xcf_base": "thorough_p" + str (number),
     "force_date": datetime.date (2011, 1, 26),
     "auto_paragraphs": True,
     "transcript": transcript, "annotation": annotation}
+  if annotation != "":
+    result ["edited_significantly_from_old_website"] = True
+  return result
     
 
 pages = [
@@ -165,9 +168,31 @@ They leave the café.
 <br/><br/>
 ILSE: It was good seeing you though!'''),
 
-page (9,''''''),
+page (9,'''The red item usually drawn on Ilse is absent.
+<br/><br/>
+ILSE: Oh my god, I can't believe I almost forgot!
+<br/><br/>
+LUCIA: What?
+<br/><br/>
+ILSE: I found the watch.
+<br/><br/>
+LUCIA: Really?!
+<br/><br/>
+ILSE: Really. I don't know how it got there, but it's in one of the bins in the art room.
+<br/><br/>
+In Ilse's speech bubble, we see a row of three bins, and an old-fashioned watch.
+<br/><br/>
+ILSE: It's been the one all the way to the right. I couldn't quite reach in far enough to get it. And you really have to shove your hand up under the lid to get it open. And you'll be there anyway to pick up some other stuff. Tomorrow at 4:00, right?
+<br/><br/>
+LUCIA: Ilse, you're incredible.
+<br/><br/>
+They hug, with Ilse facing towards the reader and the red item as a bracelet behind Lucia's back. They wave goodbye to each other and part ways.'''),
 
-page (10,'''''','''
+page (10,'''Ilse is riding an airplane. Ze checks zir watch, which is a simple modern one, unlike the old-fashioned one Lucia had. It now reads 4 o'clock.
+<br/><br/>
+In a thought bubble, we see what Ilse imagines Lucia is doing right now. Lucia approaches the bins in the art room that appeared on the previous page. Ze sticks zir hand into the one on the right. However, on another table, there is a sign saying "FOR BROKEN GLASS", with a paper note saying "This sign fell down. Can you mount it again soon? It goes above the bin on the right." Lucia has stuck zir hand into the broken glass, and it is now cut and bleeding. Lucia looks down at zir hand. Ze remembers Ilse saying "pointlessly hurt someone, just to win an argument". Ze looks horrified. Along with zir horrified expression, the blue color that has been on zir shoulders for the whole story turns to gray, and ze begins crying blue tears instead.
+<br/><br/>
+Outside the thought bubble, Ilse is still on the airplane, imagining this happening to Lucia. Ilse makes a rude gesture and grins for the first time. ''','''
 <h2>Author's notes</h2>
 
 <p>I wrote this in 2011. It was my first serious graphic story, and only my second story that emphasized neurodiversity. I have mixed feelings about it now.</p>
@@ -180,7 +205,13 @@ Maybe it's a revenge fantasy? Ilse feels wronged, retaliates, and feels vindicat
 
 As a writer, my instinct is to make things as dramatic as possible. Here, that made me give you a snapshot of the moment when two people hurt each other the most. That might not have been a good thing. Neurotypical people often have an unreasonable fear that neurovariant people (like Ilse) will hurt them, and this story might encourage that fear. In the future, I would rather write stories about how neurotypical and neurovariant people can cooperate in a way that is good for everyone.
 
-In fact, one of my earlier concepts for this story was much more like that. In that version, a bunch of Ilse's classmates were facing some sort of crisis. The other classmates panicked and made things worse, but Ilse &ndash; who didn't have any emotions about the crisis at all &ndash; was able to stay calm and help them get things under control. Honestly, I wish I had written that version of the story instead of this one.'''),
+In fact, one of my earlier concepts for this story was much more like that. In that version, a bunch of Ilse's classmates were facing some sort of crisis. The other classmates panicked and made things worse, but Ilse &ndash; who didn't have any emotions about the crisis at all &ndash; was able to stay calm and help them get things under control. Honestly, I wish I had written that version of the story instead of this one.
+
+<h2> About the art style </h2>
+
+Unlike the other comics on this site, I drew this one with pencil on paper, inked it with a pen, scanned it, and added the colors on the computer. By doing this, I achieved a much more precise style than I do when I draw using my graphics tablet.
+
+I would like to be able to use this precise style for some of my future works. However, the physical drawing process also took much longer and was much more of a strain on my hands. It simply isn't worth the added difficulty. Perhaps I will eventually come up with a way to get the best of both worlds.'''),
 
 ]
 
