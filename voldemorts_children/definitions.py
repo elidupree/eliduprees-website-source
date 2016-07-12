@@ -82,8 +82,9 @@ background-color:#'''+arrow_color_bright +''';}
 dialogue_50pct_grey = '#8c8c8c'
 dialogue_name_replace = {
   "TITLE":True,
-  "TONKS":True,"GRANGER":True,"HARRY":True,"VOLDEMORT":True,"DUMBLEDORE":True,"ZABINI":True,"LUNA":True,
+  "TONKS":True,"GRANGER":True,"HARRY":True,"VOLDEMORT":True,"DUMBLEDORE":True,"ZABINI":True,
   "WIRELESS":True,"LESTRANGE":True,"SNAPE":True,
+  "LUNA": "bluish_green",
   "PRESENT HARRY":"HARRY",
   "PRESENT GRANGER":"GRANGER",
   "FUDGE":"grey", "PAST GRANGER":"grey", "MCGONAGALL":"grey", "RON":"grey", "DRACO":"grey",
@@ -102,7 +103,7 @@ html.voldemorts_children div.comic_transcript_inner .SNAPE { color: #9bc09b; /*#
 html.voldemorts_children div.comic_transcript_inner .DUMBLEDORE { color: #aa00ff; /*#8000c0;*/ }
 html.voldemorts_children div.comic_transcript_inner .deep_purple { color: #aa00ff; /*#8000c0;*/ }
 html.voldemorts_children div.comic_transcript_inner .ZABINI { color: #eec832; }
-html.voldemorts_children div.comic_transcript_inner .LUNA { color: #00ff00; }
+html.voldemorts_children div.comic_transcript_inner .bluish_green { color: #00ffa0; }
 html.voldemorts_children div.comic_transcript_inner .grey { color: '''+dialogue_50pct_grey+'''; }
 html.voldemorts_children div.comic_transcript_inner .pure_blue { color: #3030ff; /*#0000ff;*/ }
 html.voldemorts_children div.comic_transcript_inner .bright_orange { color: #ffc800; }
@@ -117,6 +118,7 @@ html.voldemorts_children div.comic_transcript_inner .dark_green { color: #4b984b
 bright_orange = '<span class="dialogue bright_orange">bright orange</span>'
 bright_red = '<span class="dialogue bright_red">bright red</span>'
 bright_green = '<span class="dialogue bright_green">bright green</span>'
+bluish_green = '<span class="dialogue bluish_green">bluish green</span>'
 dark_green = '<span class="dialogue dark_green">dark green</span>'
 pure_blue = '<span class="dialogue pure_blue">pure blue</span>'
 pale_blue = '<span class="dialogue pale_blue">pale blue</span>'
