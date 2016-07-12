@@ -43,11 +43,11 @@ GRANGER: Just one thing...<br/>
 Granger starts to pull a Time-Twister from under zir coat; presumably, ze has been wearing it this whole time.<br/>
 GRANGER: I wouldn't want to disrupt anyone's schedule by wearing this.<br/>
 TONKS: You still <em>have</em> that thing?""",
-  "annotation":"""<p>A cliffhanger that turns out to be something completely banal? Percy Weasley unintentionally makes life annoying for everyone, including the reader!</p>
+  "annotation":"""<p>A cliffhanger that turns out to be something completely banal? Percy Weasley makes life annoying for everyone, including the reader!</p>
 
 <p>Did Granger and Tonks just leave Harry restrained in a cell? Yes, but the Department of Magical Law Enforcement (DMLE) operates on a strict schedule, and there will be other people along shortly to take care of Harry's physical needs.</p>
 
-<p>Also, with this page &ndash; if we assume that the characters are all actually the genders people assume about them &ndash; <i>Voldemort's Children</i> finally passes the Bechdel test. (The Bechdel Test is "(1) it has two female characters in it who (2) talk to each other about (3) something other than a man". Granger and Tonks talked to each other on the first two pages, but it was about Harry.) It took this long because almost all conversations so far have included Harry; by comparison, if Harry was female, we wouldn't have passed the reverse test yet (unless you count James and Sirius when they were bullying Snape), and wouldn't pass it until chapter seven, when there will be a flashback where Dumbledore talks to the young Tom Riddle.</p>""",
+<p>Also, with this page, <i>Voldemort's Children</i> finally passes the Bechdel test. (The Bechdel Test is "(1) it has two female characters in it who (2) talk to each other about (3) something other than a male character". For these purposes, I'm just assuming that all the characters are the gender the other characters refer to them as. Granger and Tonks talked to each other on the first two pages, but it was about Harry.) It took this long because almost all conversations so far have included Harry. By comparison, if Harry was female, we wouldn't have passed the reverse test yet (unless you count James and Sirius when they were bullying Snape), and wouldn't pass it until chapter seven, when there will be a flashback where Dumbledore talks to the young Tom Riddle.</p>""",
 },
 {
 "xcf_base": "ch4_p2",
@@ -65,7 +65,7 @@ GRANGER: The truth potion? It makes the subject answer the questions you ask, an
 
 <p>Time-Twisters are normally yellow, the color of the band from <a href="/main/posts/166-voldemort's-children-page-7">this page where Voldemort activates one</a>. They're only blue when they're active, which they have been every time we've seen one.</p>
 
-<p>The desk works like Moody's trunk from the books: If you open it with Granger's key, you'll find the drawer with the Time-Twister in it, but if you open it with a different key, you'll find something different. If you open it with the kind of lockpicks you can get from Weasleys' Wizard Wheezes, you'll find a high-tech burglar alarm system. Tonks personally disguised zemself as a Hogwarts student (Fred and George don't usually sell to <abbr title="Department of Magical Law Enforcement">DMLE</abbr> agents) and bought a set in order to make sure DMLE security is safe against the current tools available.</p>""",
+<p>The desk works like Moody's trunk from the books: If you open it with Granger's key, you'll find the drawer with the Time-Twister in it, but if you open it with a different key, you'll find something different. If you open it with the kind of lockpicks you can get from Weasleys' Wizard Wheezes, you'll find a high-tech burglar alarm system. Tonks personally disguised zemself as a Hogwarts student (Fred and George don't usually sell to <abbr title="Department of Magical Law Enforcement">DMLE</abbr> agents) and bought a set, it's in order to make sure DMLE security is safe against the current tools available.</p>""",
 },
 {
 "xcf_base": "ch4_p3",
@@ -88,13 +88,15 @@ PAST GRANGER: As I was saying, it should be possible to set a trap for Potter.<b
 Kingsley Shacklebolt replies. Ze has a friendly demeanor and zir speech is drawn in a somewhat curvy style.<br/>
 SHACKLEBOLT: Very logical, but who in their right minds would play the bait?<br/>
 PAST GRANGER: As a matter of fact...""",
-  "annotation":"""<p>The Aurors under Granger, as a matter of policy and habit, don't say any word that contains the syllable "cru-". "crew" becomes "team", "crucial" becomes "essential", and so on. "Cruciatus Curse", of course, becomes "Torture Curse". They also refer to the Imperius Curse as the "Control Curse"; the PTSD issue is much less for that one, but the "false alarm" issue is especially relevant, since an indoors, apparently-friendly situation is the one in which you need to be the most vigilant against people <em>actually</em> casting the Imperius Curse.</p>
+  "annotation":"""<p>The Aurors under Granger, as a matter of policy and habit, don't say any word that contains the syllable "cru-". "crew" becomes "team", "crucial" becomes "essential", and so on. "Cruciatus Curse", of course, becomes "Torture Curse". They also refer to the Imperius Curse, which takes control of a person's actions, as the "Control Curse". The PTSD issue is much less for that one, but the "false alarm" issue is especially relevant. A casual, indoor conversation is exactly the situation where you need to be the most vigilant against people <em>actually</em> casting the Imperius Curse.</p>
 
-<p>From left to right: Arthur Weasley (Head of Misuse of Muggle Artefacts Office), Pius Thicknesse, Bartemius Crouch, Amelia Bones (Head of <abbr title="Department of Magical Law Enforcement">DMLE</abbr> as a whole), Hermione Granger (Head of Auror Office), Kingsley Shacklebolt. In the books, it's not specified exactly what career path Crouch took to becoming the head of DMLE (while Voldemort was in power &ndash; ze was later demoted), but I decided it was natural that ze had been an Auror at some point along the way.</p>
+<p>From left to right: Arthur Weasley (Head of Misuse of Muggle Artefacts Office), Pius Thicknesse, Bartemius Crouch, Amelia Bones (Head of <abbr title="Department of Magical Law Enforcement">DMLE</abbr> as a whole), Hermione Granger (Head of Auror Office), Kingsley Shacklebolt. The books don't specify exactly what career path Crouch took before ze became the head of DMLE, but I decided it was natural that ze had been an Auror at some point along the way.</p>
 
 <p>Arthur Weasley will wake up when they start talking about misuse of Muggle artefacts, which will probably be never.</p>
 
-<p>Tonks, of course, is one of the trackers Granger refers to. Ze's very good, but people who haven't worked with zem sometimes have trouble believing in zir skills because of the informal, casual way ze approaches everything.</p>""",
+<p>Tonks is one of the trackers Granger refers to. Ze's very good, but people who haven't worked with zem sometimes have trouble believing in zir skills because of the informal, casual way ze approaches everything.</p>
+
+<p>In the books, Tonks says ze almost failed the "Stealth and Tracking" portion of the Auror examinations, because of zir clumsiness. Because of this, some people might assume that ze wouldn't be a tracker. I chose to assume that ze got a bad score in Stealth, but made up for it by being very good at Tracking.</p>""",
 },
 {
 "xcf_base": "ch4_p4",

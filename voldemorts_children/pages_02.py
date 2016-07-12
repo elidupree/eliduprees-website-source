@@ -214,7 +214,7 @@ PAST HARRY: Then you should have let me die. It would be better than what you ga
 
 <p>What do you think makes a true family? What kinds of relationships should we celebrate or defend?</p>
 
-<p>Or, is that the wrong question to be asking? In what circumstances is it necessary for an outsider to make assumptions, or judgments, about the nature of a person's relationships?</p>""",
+""",
 },
 {
   "force_id":"f38dd5a863484a4cb7ac05f3c8be73f1",
@@ -229,7 +229,7 @@ PRESENT HARRY: Just finish this meaningless course he put me on, and forget.<br/
 PRESENT HARRY: But as I returned for my third year, things began to change...""",
   "annotation":"""<p><q>This meaningless course he put me on</q> is pretty fancy language, for Harry.</p>
 
-<p>It makes sense that Harry's vocabulary is rather idiosyncratic, since ze was barely able to read before entering Hogwarts, but then started reading (using Luna's spell) lots of wizard books, which tend to be... sesquipedalian.</p>""",
+<p>It makes sense that Harry's vocabulary is rather idiosyncratic. Ze was barely able to read before entering Hogwarts, but then started reading lots of wizard books (using Luna's spell). And wizard books tend to be... sesquipedalian.</p>""",
 },
 {
   "force_id":"c1ea47422fe32732b3d2ae17d3391053",
@@ -250,9 +250,9 @@ Draco faces Harry with a furious expression. Harry's face is mostly concealed in
 DRACO: You'll pay for this!""",
   "annotation":"""<p>Legilimency.</p>
 
-<p>Magic, in stories, has two semi-conflicting roles. One, it's there to be awesome, for the drama and the spectacle. And two, it's there to represent something from real life &ndash; to function as <em>heightened reality</em>. An individual story can exist anywhere on this spectrum; sometimes, like in <a href="/main/posts/109-a-couple-of-badass-superheroes-page-1"><i>A Couple of Badass Superheroes</i></a>, I write fantastic powers entirely because they're awesome and hilarious. <i>Voldemort's Children</i> is the opposite; the purpose of the magical elements is to talk about things that exist in real life.</p>
+<p>Magic, in stories, has two semi-conflicting roles. One, it's there to be awesome, for the drama and the spectacle. And two, it's there to represent something from real life &ndash; to function as <em>heightened reality</em>. An individual story can exist anywhere on this spectrum. Sometimes, like in <a href="/a-couple-of-badass-superheroes"><i>A Couple of Badass Superheroes</i></a>, I write fantastic powers entirely because they're awesome and hilarious. <i>Voldemort's Children</i> is usually the opposite. The purpose of this magic is to talk about things that exist in real life.</p>
 
-<p>The ability to intuitively judge what other people might be thinking and feeling, after all, is something that exists in real life. So Legilimency isn't really something that's new or unheard-of. But compared with its real-life counterpart, Legilimency is more powerful and more reliable... and most importantly, it has a <em>name</em>. So it can be an explicit element of the story &ndash; an issue at stake &ndash; a thing that you can point to, think about, and ask questions about.</p>""",
+<p>The ability to intuitively judge what other people might be thinking and feeling is, after all, something that exists in real life. So Legilimency isn't really something that's new or unheard-of. But compared with its real-life counterpart, Legilimency is more powerful and more reliable... and most importantly, it has a <em>name</em>. So it can be a Thing in the story &ndash; an issue at stake &ndash; something that you can point to, think about, and ask questions about.</p>""",
 },
 {
   "force_id":"aa6dcb072361313a18d0d624b6086465",
@@ -271,7 +271,7 @@ The page ends with a view of Zabini and Draco walking away, from a low angle, ma
 
 <p>Dedicated blood-purists like Blaise Zabini don't always hate half-bloods, but they particularly hate Harry because Harry is the offspring of James Potter (the last descendant of a highly respected pure-blood family) and Lily Evans (whose parents weren't even magical). So, to them, Harry represents the destruction of an entire lineage.</p>
 
-<p>(Most people in this society don't hold quite such extreme attitudes, but they still look down on Harry because ze was raised by muggles.)</p>""",
+<p>(Most people in this society don't have such extreme attitudes, but they still look down on Harry because ze was raised by muggles.)</p>""",
 },
 {
   "force_id":"fedd6c185536a1e17d6b7d0bdbb7245d",
@@ -297,11 +297,12 @@ JAMES: Wash out your mouth! Scourgify! { "Scourgify" is the incantation of a spe
 Pink soap bubbles come out of Snape's mouth.<br/>
 Lily Evans is standing nearby, leaning against a tree, arms crossed. Lily looks a lot like Harry; zir hair is a bit messy, and ze has a generally rough sort of appearance. Ze also has the darkest skin of any character we've seen so far, and dark eyes, unlike Harry's. Ze's wearing a baseball cap. Zir voice, like present Harry's, is drawn in red and is fairly rough, but is a less intense shade of red, and somewhat smoother, than Harry's.<br/>
 LILY: Aw, leave him alone, Potter.""",
-  "annotation":"""<p>Lily Evans didn't see any reason why being a wizard should stop you from wearing a baseball cap.</p>""",
+  "annotation":"""<p>Lily Evans didn't see any reason why being a wizard should stop you from wearing a baseball cap.</p>
+ <p>This page's dialogue is mostly from <i>Harry Potter and the Order of the Phoenix</i>, page 646.</p>  """,
 },
 {
         
-  "content_warning":""""blood""",
+  "content_warning":"""depicts cartoon blood""",
   "force_id":"c567fac4bcbbd7eca4a1a259a72c68ab",
   "force_date":datetime.date(2012, 4, 14),
 
@@ -322,9 +323,11 @@ The narrative frame of Snapes's memory closes. Back in Snape's office, Snape is 
 SNAPE: That will do. Now...""",
   "annotation":"""<p>James is from a rich pure-blood family, and ze's very popular, so ze's basically at the top of wizarding society. Lily is not only a muggle-born, but also makes no attempt to hide it or conform to wizarding social norms. At any moment, people could start making fun of James for zir obvious interest in Lily.</p>
 
-<p>So, to avoid that, James constantly reasserts zir dominant position by attacking Snape, who's unpopular and, not coincidentally, has a muggle parent.</p>
+<p>So, to avoid that, James constantly asserts zir dominant position by attacking Snape, who's unpopular and, not coincidentally, has a muggle parent.</p>
 
-<p>Lily and James actually like each other, but their relationship is slightly cramped by James's refusal to acknowledge zir pure-blood privilege.</p>""",
+<p>Lily and James actually like each other, but their relationship is slightly cramped by James's refusal to acknowledge zir pure-blood privilege.</p>
+
+<p>It would be nice to have more scenes showing what Lily and James's relationship is like when they're not arguing with each other, but, well, the original books didn't include much of that either.</p>""",
 },
 {
   "force_id":"61bb5c3e5350aed7f4a25f089fde5b8d",
@@ -344,7 +347,7 @@ PAST HARRY: YOu taught me how to dig through memories. You didn't tell me it wou
 We enter a narrative frame in which Harry describes a memory ze dug up. In the memory are Lily and James, with Harry, as a baby, in a cradle nearby. The scene is lit sharply by a candle lantern. By its light, Lily is grimly studying a large book. Lily is sitting in a chair while doing this; behind zem, James looks on with concern. James's appearance is relatively clean, while Lily's is relatively unkempt.<br/>
 JAMES: You're not seriously still looking up spells.<br/>
 LILY { without looking up from the book }: Put a sock in it. This one could be useful.""",
-  "annotation":"""<p>In the last two pages, Snape conveniently omitted the parts where ze swore at James and called Lily a "filthy little Mudblood".</p>
+  "annotation":"""<p>In the last two pages, Snape conveniently left out the parts where ze swore at James and called Lily a "filthy little Mudblood".</p>
 
 <p>On an unrelated note, Harry knows the word "proxy" because spellbooks use it a lot.</p>""",
 },
@@ -366,11 +369,13 @@ Lily looks rather dishevelled, and is clenching a scrap of parchment in one hand
 LILY { continuing zir monologue }: Or do you think we can fight him? The Boneses thought so too, do you remember them? Do you think I'm a better duellist than Dorcas Meadowes? She blasted his arm off before he got her, and <strong>he has a new arm now!</strong> He's not like other dark wizards, we'll need something more powerful, something he won't expect&ndash;<br/>
 JAMES: Merlin's beard, just show me the spell if you care so much.<br/>
 Lily hands James a scrap of parchment. James looks the other way while ze reaches zir hand out to accept it. Lily is looking down and brushing some hair off zir face with zir other hand.""",
-  "annotation":"""<p>Every few years, there's a story in the <i>Daily Prophet</i> about a baby that died because its parent(s) left it silenced and forgot to take care of its basic needs. The Ministry formally classifies using the Silencing Charm on a baby as a form of child abuse, but this rule is almost never enforced, and very few parents are able to resist the temptation forever.</p>""",
+  "annotation":"""<p>Every few years, there's a story in the <i>Daily Prophet</i> about a baby that died because its parent(s) left it silenced and forgot to take care of its basic needs. The Ministry formally classifies using the Silencing Charm on a baby as a form of child abuse, but this rule is almost never enforced, and very few parents are able to resist the temptation forever.</p>
+  
+  <p>Lily's comments about the IRA don't necessarily reflect the attitudes of the author. It wouldn't be surprising for a 1980s British muggle to view the IRA as nothing but a violent threat. I was specifically avoiding having Lily call Voldemort "wizard Hitler". I thought of having Lily say "wizard Charles Manson", but I don't know whether a British person would have known much about Charles Manson.</p> """,
 },
 {
         
-  "content_warning":""""gore""",
+  "content_warning":"""depicts cartoon blood and gore""",
   "force_id":"4e9ac96309df226c1177992a4714d954",
   "force_date":datetime.date(2012, 5, 7),
 
@@ -392,11 +397,11 @@ VOLDEMORT: I feel I've been here before... in my past... your future... I know w
 James's wand lies in two pieces on the floor. One piece is stained with blood.""",
   "annotation":"""<p>A few years before this, when Lily was at Hogwarts, other students made fun of zem for focusing on the study of Ancient Runes instead of something more useful for self-defense, like Charms or Transfiguration.</p>
 
-<p>The Ministry prohibits the possession of books of "dark magic", such as the one Lily got that spell from, without special authorization; the Hogwarts library has this authorization, but Lily does not. However, at the height of Voldemort's power, the Department of Magical Law Enforcement has more important things to do than bust people for having banned books. The law mainly functions as an excuse to make arrests if Ministry officials suspect someone of being a Death Eater and raid zir home, but don't find real evidence. Many people have such books out of curiosity, or for self-defense, or because "dark" spells were included in a book they had for unrelated reasons, but once it's gotten to that point, <abbr title="Department of Magical Law Enforcement">DMLE</abbr> agents don't stop to wonder if the accused might be innocent.</p>""",
+<p>The Ministry prohibits the possession of books of "dark magic", such as the one Lily got that spell from, without special authorization. The Hogwarts library has this authorization, but Lily does not. However, at the height of Voldemort's power, the Department of Magical Law Enforcement has more important things to do than bust people for having banned books. The law mainly functions as an excuse to make arrests if Ministry officials suspect someone of being a Death Eater and raid zir home, but don't find real evidence. Many people have such books out of curiosity, or for self-defense, or because a few "dark" spells were included in a book about something else. However, once it's gotten to that point, <abbr title="Department of Magical Law Enforcement">DMLE</abbr> agents don't stop to wonder if the accused might be innocent.</p>""",
 },
 {
 "xcf_base": "ch3_p21_2",
-  "content_warning":""""gore""",
+  "content_warning":"""depicts cartoon blood and gore""",
   "force_id":"3751eddceaa7711b6f14a5c199e05c76",
   "force_date":datetime.date(2012, 5, 8),
 
@@ -417,9 +422,9 @@ Voldemort stands in front of the Time-Twister's bands. Lily, right behind zem, i
 VOLDEMORT: <strong>Confringo.</strong> { The incantation of the Blasting Curse. }""",
   "annotation":"""<p>Writing and drawing this page took me nine hours...</p>
 
-<p>In the original series, Voldemort is a fairly generic fantasy villain &ndash; a plot device, an easy source of conflict ("How will the heroes defeat the villain this time?! Find out next chapter!") and a caricature. Dumbledore describes zem as "without love", as if that explains why ze wants to torture people and conquer the world.</p>
+<p>In the original series, Voldemort is a fairly generic fantasy villain &ndash; a plot device, an easy source of conflict ("How will the heroes defeat the villain this time?! Find out next chapter!") and a caricature. Dumbledore describes zem as "without love", as if that explains why ze wants to torture people and conquer the world. There isn't actually a reasonable explanation for it.</p>
 
-<p>What other roles can a powerful villain serve in a story? What could cause a person behave as Voldemort does?</p>""",
+<p>What other roles can a powerful villain serve in a story? What could cause a person behave the way Voldemort does?</p>""",
 },
 {
   "force_id":"de3f982885ac20277bb220920270d5ed",
@@ -458,11 +463,10 @@ LUNA: Will you be Dark Lords with me, Harry?""",
 
 <p>Would <em>you</em> like to be Dark Lords with Luna?</p>
 
-<p>On another note, I've got a question for y'all about the transcript. So far, I've mostly avoided referring to specific colors (green, blue, etc); I think that's a bad idea, and I'd like to have the transcript say what the colors on the page are. But <em>describing</em> the colors is a bit of a problem. For instance, I could describe the color of Voldemort's cat's eyes (when it was alive) as "orange", but there's a lot of different shades of orange; just saying "orange" doesn't specify that the eyes are exactly the same color as the Cruciatus Curse, which is symbolically semi-important. So I want a way to specify that, but how do I do it? I could refer to that color by the same phrase everywhere (e.g. "The orange of Voldemort's cat's eyes"), but that's very awkward and unnecessarily gives more weight to one specific use of the color. I could give its HTML code ("#ffc800"), which is exact, but that's obviously a bad idea. Any suggestions?</p>""",
+<p>On another note, I've got a question for y'all about the transcript. (UPDATE: I have already begun making this change.) So far, I've mostly avoided referring to specific colors (green, blue, etc); I think that's a bad idea, and I'd like to have the transcript say what the colors on the page are. But <em>describing</em> the colors is a bit of a problem. For instance, I could describe the color of Voldemort's cat's eyes (when it was alive) as "orange", but there's a lot of different shades of orange; just saying "orange" doesn't specify that the eyes are exactly the same color as the Cruciatus Curse, which is symbolically semi-important. So I want a way to specify that, but how do I do it? I could refer to that color by the same phrase everywhere (e.g. "The orange of Voldemort's cat's eyes"), but that's very awkward and unnecessarily gives more weight to one specific use of the color. I could give its HTML code ("#ffc800"), which is exact, but that's obviously a bad idea. Any suggestions?</p>""",
 },
 {
         
-  "content_warning":""""violence""",
   "force_id":"cd5430abf56bfbfc370d376919c9e550",
   "force_date":datetime.date(2012, 5, 12),
 
