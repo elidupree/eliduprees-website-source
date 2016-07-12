@@ -497,10 +497,12 @@ def format_transcript_recur(page, entries, wide_screen_rules_list):
 
 def format_transcript(page, wide_screen_rules_list):
   header ='<div class="comic_transcript_label">Transcript: <a href="javascript:;" class="meta_controls_coloring"><span id="hide_transcript_button" class="hide_comic_transcript_button">(hide)</span><span id="show_transcript_button" class="show_comic_transcript_button">(show)</span></a></div>'
-  if isinstance (page ["transcript"], str):
-    return header + '<p class="comic_transcript_line">' + page ["transcript"] + "</p>"
+  transcript =page ["transcript"]
+  if isinstance (transcript, str):
+    #return header + '<p class="comic_transcript_line">' + transcript + "</p>"
+    transcript = [(0, line) for line in re. split (r"\s*(?:<br/>\s*)+", transcript)]
   entries = [(0, header)]
-  entries.extend([(a, format_transcript_line(page, b)) for (a, b) in page["transcript"]])
+  entries.extend([(a, format_transcript_line(page, b)) for (a, b) in transcript])
   return format_transcript_recur(page, entries, wide_screen_rules_list)+'<a id="hide_transcript_button_2" class="hide_comic_transcript_button meta_controls_coloring" href="javascript:;">(hide transcript)</a>'
 
 
