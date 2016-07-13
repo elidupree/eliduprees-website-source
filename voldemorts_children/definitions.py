@@ -49,6 +49,8 @@ html.voldemorts_children div.comic_nav_button:hover .comic_nav_content_warning {
 html.voldemorts_children div.comic_transcript_inner {
   /*border: 1px dashed white;*/
   color: #ccc19a; }
+html.voldemorts_children div.comic_transcript_inner a {
+  color: #e09d00; }
 html.voldemorts_children .post_content_section {
   background-color: #cccccc }
 html.voldemorts_children .comment_body {

@@ -117,9 +117,9 @@ PAST GRANGER: I'm sure no one here would mean to imply that the fears of a witch
 The narrative frame of Granger describing the DMLE meeting closes.<br/>
 TONKS: There's one thing that's been bothering me...<br/>
 GRANGER: Do tell.""",
-  "annotation":"""<p>You've actually seen Amycus Carrow before. <a href="/main/posts/167-voldemort's-children-page-8">Ze was the one killed in front of the white steps on this page</a>.</p>
+  "annotation":"""<p>You've actually seen Amycus Carrow before. <a href="/voldemorts-children/8">Ze was the one killed in front of the white steps on this page</a>.</p>
 
-<p>Granger saying "I intend to let them publish it" implies that Granger has the power to stop the <i>Daily Prophet</i> from publishing a story. This is, in fact, true; a high-ranking Ministry official such as Granger can effectively block any story the <i>Prophet</i> wants to print. If Granger's other implication is correct, and Potter is willing to pursue and kill a person based on accusations in the <i>Prophet</i>, then what do you think of the ethics of this? Is it acceptable to publish a story when you know a person is likely to kill based on what it says? Is it acceptable for another person to stop you from publishing it?</p>""",
+<p>Granger saying "I intend to let them publish it" implies that Granger has the power to stop the <i>Daily Prophet</i> from publishing a story. This is, in fact, true. A high-ranking Ministry official such as Granger can effectively block any story the <i>Prophet</i> wants to print. If Granger's other implication is correct, and Harry is willing to pursue and kill a person based on accusations in the <i>Prophet</i>, then what do you think of the ethics of this? Is it acceptable for you to publish a story, if you know a person is likely to kill based on what it says? Is it acceptable for another person to stop you from publishing it?</p>""",
 },
 {
 "xcf_base": "ch4_p5",
@@ -146,7 +146,7 @@ GRANGER: I suppose that is possible.""",
 {
 "xcf_base": "ch4_p6",
         
-  "content_warning":""""violence, blood""",
+  "content_warning":"""depicts cartoon blood""",
   "force_id":"f4743f2324f586f0f88766251ac404f0",
   "force_date":datetime.date(2012, 5, 20),
 
@@ -172,9 +172,9 @@ Following the stunners, the three Aurors approach, surrounded by a huge, round s
 LUNA: Oh, hello, Hermione!""",
   "annotation":"""<p>I've waited a long time for Granger to get into a situation where ze wants to use that spell!</p>
 
-<p>In the books, they say that the Killing Curse is unblockable. Presumably, what that means is that the Killing Curse is too powerful to be blocked by <em>magical shields</em>, since, literally speaking, it gets blocked by various things, including a phoenix, an animated stone statue, and the power of love. Granger doesn't like relying on lucky circumstances, so ze decided to develop a spell that could block the Killing Curse reliably. In <i>Voldemort's Children</i>, love can't block curses, so ze had to stick to using a physical object.</p>
+<p>In the books, they say that the Killing Curse is unblockable. Presumably, what that means is that the Killing Curse is too powerful to be blocked by <em>magical shields</em>. Literally speaking, it gets blocked by various things, including a phoenix, an animated stone statue, and the power of love. Granger doesn't like relying on lucky circumstances, so ze decided to develop a spell that could block the Killing Curse reliably. In <i>Voldemort's Children</i>, love can't block curses, so ze had to stick to using a physical object.</p>
 
-<p>So, Granger invented "Aegidivitrea", the Glass Shield Charm (ze's very practical about naming things). It conjures a thick shield of glass around the caster and anyone else the caster wishes to protect, and continuously keeps the glass hovering in the air. Since it's a solid object, almost all curses will bounce off of it. The easiest way to attack the shield is with a spell like the Blasting Curse ("Confringo"), but those spells can be blocked normally, so when coupled with the regular Shield Charm, as the three Aurors are doing here, it's very hard to attack.</p>
+<p>So, Granger invented "Aegidivitrea", the Glass Shield Charm (ze's very practical about naming things). It conjures a thick shield of glass around the caster and anyone else the caster wishes to protect, and continuously keeps the glass hovering in the air. Since it's a solid object, almost all curses will bounce off of it. The easiest way to attack the shield is with a spell like the Blasting Curse ("Confringo"), but those spells can be blocked normally. When coupled with the regular Shield Charm, as the three Aurors are doing here, it's very hard to attack.</p>
 
 <p>The main catch is that conjuration is permanent in this universe. It's easy to make the glass disappear again, but if you become incapacitated somehow and can't do that, there's a ton of unsupported glass ready to fall down on top of you. So the Aurors only use the spell when they are travelling in groups of two or more, so that they can cover for each other. And fighting in groups is the ideal way for Aurors to operate in any case.</p>
 
@@ -183,7 +183,7 @@ LUNA: Oh, hello, Hermione!""",
 {
 "xcf_base": "ch4_p7",
         
-  "content_warning":""""blood, wrist damage""",
+  "content_warning":"""depicts cartoon blood""",
   "force_id":"ffc08f1eec255a8cced7f8b066fdb02b",
   "force_date":datetime.date(2012, 5, 22),
 
@@ -248,7 +248,7 @@ MOODY: Understood.<br/>
 DAWLISH { in a much smaller voice }: I still have no idea how she got <em>Moody</em> on her side.""",
   "annotation":"""<p>This page was informed by my thoughts about Tasers.</p>
 
-<p>Who is Dawlish talking to? Ze could be muttering to zemself, or ze could be talking to Gawain Robards, the one further to the right. Robards might have some reason to resent Granger as well; in the books, ze became the Head of Office after Scrimgeour left, but here, ze was upstaged by the much younger Granger.</p>
+<p>Who is Dawlish talking to? Ze could be muttering to zemself, or ze could be talking to Gawain Robards, the one further to the right. Robards might have some reason to resent Granger as well &ndash; in the books, ze became the Head of Office after Scrimgeour left, but here, ze was upstaged by the much younger Granger.</p>
 
 <p>I think there are about twenty Aurors in total. The four in the front are the senior Aurors (whom you can also recognize by their darker coats/robes). To gain seniority, an Auror has to both be exceptionally skilled and be around for a long time. Tonks is skilled enough to be one, but ze's relatively new. Dawlish probably isn't skilled enough to qualify; ze was granted seniority under the somewhat corrupt leadership of Rufus Scrimgeour. (Granger became an Auror at about the same time as Tonks, but ze counts as a senior Auror because ze's the Head of Office.)</p>
 
@@ -271,7 +271,7 @@ GRANGER: My mind turns to the story of Lily Evans, and how a person may do a thi
 
 <p>Tonks has known Granger since Auror training, so ze has a good intuition for what Granger is thinking.</p>
 
-<p>Granger will probably convince Dawlish to accept a cushy retirement as a hero. Granger has the ability to fire Dawlish, but Dawlish is respected by a lot of people, so that would create a spectacle that would be very costly (in time, effort, and reputation) for Granger. This would not be entirely bad, because it would show the world that Granger intends to follow zir principles even when it is not convenient for zem, but I doubt it would be the best use of Granger's resources at this time.</p>""",
+<p>Granger will probably convince Dawlish to accept a cushy retirement as a hero. Granger has the ability to fire Dawlish, but Dawlish is respected by a lot of people, so that would create a spectacle that would be very costly for Granger (in time, effort, and reputation). This would not be entirely bad, because it would show the world that Granger intends to follow zir principles even when it is not convenient for zem, but it might not be the best use of Granger's resources.</p>""",
 },
 {
 "chapter_start": "Chapter Five: In The Houses Of His Fathers",
@@ -299,7 +299,7 @@ HARRY: It was not Sirius who would take care of anyone that year. But I did meet
 We enter a narrative frame in which Harry describes past events. In the narrative frame, Harry is being escorted by the same junior Auror; they are on the driveway leading up to the door of a house. There are two windows alongside the door, but they are dark; there is nothing to indicate that the house is inhabited.<br/>
 PRESENT HARRY: One of your people took me to the house where he was being kept.<br/>
 Harry is silhouetted in the door for a moment as ze enters the house. Then ze's inside, looking uncertainly into the darkness.""",
-  "annotation":"""<p>The Auror escort is because the location of that house is secret; only a few people are allowed to visit without Sirius explicitly asking for them. This isn't standard practice, but lots of people on both sides might still be interested in getting revenge on Sirius, based on what they believe ze did or didn't do.</p>
+  "annotation":"""<p>The Auror escort is because the location of that house is secret. Only a few people are allowed to visit without Sirius explicitly asking for them. This isn't standard practice, but lots of people on both sides might still be interested in getting revenge on Sirius, based on what they believe ze did or didn't do.</p>
 
 <p>The Aurors weren't literally "your [Granger's] people" at the time, but the phrase still works. It's also possible that Harry is using "your people" to mean people in authority in general, as Granger has been on that track almost since the day ze arrived in the magical world.</p>
 """,
@@ -319,7 +319,7 @@ SIRIUS: L-Lily...?""",
 {
 "xcf_base": "ch5_p3",
         
-  "content_warning":""""negative self-talk""",
+  "content_warning":"""depicts negative self-talk""",
   "force_id":"20109e61adc31d9d75190f8e268e7679",
   "force_date":datetime.date(2012, 5, 29),
 
@@ -360,7 +360,7 @@ PERSON WITH WAND: I've heard something <em>very</em> interesting, Malfoy...""",
 {
 "xcf_base": "ch5_p6",
         
-  "content_warning":""""child abuse, blood""",
+  "content_warning":"""depicts child abuse, cartoon blood""",
   "force_id":"48283fb23344f00ae2112378ebd47516",
   "force_date":datetime.date(2012, 6, 2),
 
@@ -375,7 +375,7 @@ Meanwhile, Harry continues narrating, now telling about zir own life: the baby H
 {
 "xcf_base": "ch5_p7",
         
-  "content_warning":""""violence, blood""",
+  "content_warning":"""depicts child abuse, cartoon blood""",
   "force_id":"3c98841300d774219796f2385600e85f",
   "force_date":datetime.date(2012, 6, 3),
 
@@ -389,7 +389,7 @@ In Draco's memory, Draco, as a child, is standing near the top of an elegant spi
 {
 "xcf_base": "ch5_p8",
         
-  "content_warning":""""child abuse""",
+  "content_warning":"""depicts child abuse""",
   "force_id":"c90a5fc8e1a60879977e9d80f5e9e5fa",
   "force_date":datetime.date(2012, 6, 4),
 
@@ -407,7 +407,7 @@ Draco and Voldemort enter Draco's room. The room contains a desk, the bed we've 
 {
 "xcf_base": "ch5_p9",
         
-  "content_warning":""""child abuse""",
+  "content_warning":"""depicts child abuse""",
   "force_id":"8504bd76317cb7bc2216706f2cbc500b",
   "force_date":datetime.date(2012, 6, 4),
 
@@ -424,7 +424,7 @@ VOLDEMORT: So silent. Perhaps you think Lord Voldemort will endure your stubborn
 {
 "xcf_base": "ch5_p10",
         
-  "content_warning":""""child abuse""",
+  "content_warning":"""depicts child abuse""",
   "force_id":"948e70310489760dfb43430cf5ea05fa",
   "force_date":datetime.date(2012, 6, 6),
 
@@ -440,7 +440,7 @@ At the bottom is a tiny image of Draco lying curled up on the floor with zir han
 {
 "xcf_base": "ch5_p11",
         
-  "content_warning":""""child abuse, blood""",
+  "content_warning":"""depicts child abuse, cartoon blood""",
   "force_id":"e92320a3c87aa53eb4df89694bec3d82",
   "force_date":datetime.date(2012, 6, 7),
 
@@ -448,19 +448,19 @@ At the bottom is a tiny image of Draco lying curled up on the floor with zir han
 <br/>
 Draco curls up with zir blankets on the floor next to zir bed. Lucius Malfoy is on the other side of the bed, beckoning Draco, but Draco is looking away angrily.<br/>
 <br/>
-Draco and Lucius sit at the dinner table from <a href="http://www.elidupree.com/main/posts/256-voldemort's-children-page-67">[TW: violence, blood] page 67</a>; Draco pushes zir plate away.<br/>
+Draco and Lucius sit at the dinner table from <a href="/voldemorts-children/67">page 67</a>; Draco pushes zir plate away.<br/>
 <br/>
 Lucius and Narcissa lie in bed together. Narcissa is facing away from Lucius.<br/>
 NARCISSA: What have we done to him?<br/>
 LUCIUS: He'll pull through... please believe me...<br/>
 <br/>
-Draco waking up in bed, zir face twisted with terror. All the lines of the drawing glow like the curse on the previous page. This looks very similar to Harry waking up on <a href="http://www.elidupree.com/main/posts/175-voldemort's-children-page-16">page 16</a>.<br/>
+Draco waking up in bed, zir face twisted with terror. All the lines of the drawing glow like the curse on the previous page. This looks very similar to Harry waking up on <a href="/voldemorts-children/16">page 16</a>.<br/>
 <br/>
-Lucius buys the Nimbus 2000 for Draco, like on <a href="http://www.elidupree.com/main/posts/255-voldemort's-children-page-66">[TW: child abuse, blood] page 66</a>. Draco takes it, but is annoyed or impatient rather than happy about it.<br/>
+Lucius buys the Nimbus 2000 for Draco, like on <a href="/voldemorts-children/66">page 66</a>. Draco takes it, but is annoyed or impatient rather than happy about it.<br/>
 <br/>
 Draco flies above a row of other students, using one of the school broomsticks. Draco is smirking and holding up a red sphere; it's Neville's Remembrall, as in the first book of the <i>Harry Potter</i> series. The other students' brooms are lying on the ground; Granger and Harry are looking up at Draco with irritation, but neither has moved to challenge Draco.<br/>
 <br/>
-Draco points a finger, commanding Crabbe and Goyle. Crabbe and Goyle drag Harry, in a position very similar to the other children dragging Harry on <a href="http://www.elidupree.com/main/posts/194-voldemort's-children-page-31">[TW: child abuse, blood] page 31</a>. Draco has zir face concealed like Voldemort.<br/>
+Draco points a finger, commanding Crabbe and Goyle. Crabbe and Goyle drag Harry, in a position very similar to the other children dragging Harry on <a href="/voldemorts-children/31">page 31</a>. Draco has zir face concealed like Voldemort.<br/>
 DRACO: Ha. Ha.<br/>
 <br/>
 The narrative frame closes; we're back on the Astronomy Tower. Harry stops using Legilimency on Draco and looks at Draco in shock. Draco's cheeks turn red, and ze turns away from Harry and looks down. Draco is still bleeding from the mouth.""",
@@ -486,7 +486,7 @@ PAST HARRY: We are truly Voldemort's children.""",
 
 <p>I didn't write annotations on the last few pages because I thought too many words would spoil their emotional impact. (It's the same reason I didn't use many words on the pages themselves.) The annotations are back now (although I might do the same thing occasionally in the future).</p>
 
-<p>If I had more time to dwell on the details, I would have shown Draco's reluctance to talk. In Draco's world, the most important thing is to be strong; if you show weakness, you're supposed to be punished for it rather than to receive sympathy. So it would be a very awkward scene where Harry tries to communicate to Draco that ze feels sympathetic, while Draco tries to appear strong to compensate for the fact that Harry has just seen zir weakness (since ze assumes Harry will think less of zem for it).</p>
+<p>If I had more time to dwell on the details, I would have shown Draco's reluctance to talk. In Draco's world, the most important thing is to be strong. If you show weakness, you're supposed to be punished for it, rather than to receive sympathy. So it would be a very awkward scene where Harry tries to communicate to Draco that ze feels sympathetic, while Draco tries to appear strong to compensate for the fact that Harry has just seen zir weakness (since ze assumes Harry will think less of zem for it).</p>
 
 <p>Harry probably wouldn't feel the same way if Draco had just <em>told</em> zem about what we've just seen, but there's a certain unavoidability about directly experiencing another person's memories.</p>""",
 },
