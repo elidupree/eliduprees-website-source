@@ -50,11 +50,15 @@ PAST HARRY: Then Hufflepuff is the only house worth being Sorted into!<br/>
 A pause.<br/>
 DRACO: Um... Are either of you&ndash;<br/>
 Harry and Luna look down. { Harry is in Gryffindor, Luna is in Ravenclaw, and Draco is in Slytherin. }""",
-  "annotation":"""<p>Harry is essentially saying that if a group passively supports a horrific institution like slavery, then you should completely reject that group, regardless of any other virtues it may have. Do you agree?</p>
+  "annotation":"""
 
 <p>The Hufflepuff students, by the way, still do eat elf-cooked food in the Great Hall with the others.</p>
 
-<p>The tent where Harry, Draco, and Luna are meeting is in a hidden location, much like in the seventh book when the trio are on the run from Voldemort. This is also the same location where they listen to the radio all the way back on <a href="/main/posts/163-voldemort's-children-page-4">page 4</a>; maybe I'll retcon a tent onto that page eventually, to make it more clear.</p>
+<p>Harry grew up in a Muggle Britain, where slavery is almost unheard-of. Many real people would react in a similar way: when they learn that a group uses slaves, they call it evil and try to distance themselves from it. But what if everything is evil? Can you distance yourself from everything?</p>
+
+<p>Our world is not so different. Many of our conveniences are based on the suffering and exploitation of others. It's hard to understand what we can even do to change it.</p>
+
+<p>On a different subject, the tent where Harry, Draco, and Luna are meeting is in a hidden location, much like in the seventh book when the trio are on the run from Voldemort. This is also the same location where they listen to the radio all the way back on <a href="/main/posts/163-voldemort's-children-page-4">page 4</a>; maybe I'll retcon a tent onto that page eventually, to make it more clear.</p>
 
 <p>On a more technical note... Until (and including) this page, I've hand-lettered all the dialogue in <i>Voldemort's Children</i>. That's been okay so far, even in chapter four (I was taking 1-2 hours for each page just drawing Granger's dialogue, but that was reasonable because Granger was talking a lot). The trouble is, Luna's speech takes a <em>long time</em> to draw &ndash; I spent an entire two hours just drawing zir dialogue on this page, out of six hours total to draw the page. That's not really worth it. So I've created a TrueType font for Luna, and I'm going to start using that on tomorrow's page. It won't look quite as nice, because it won't have all the friendly irregularities of the hand-drawn dialogue, but it's still generally the same.</p>
 
@@ -63,6 +67,7 @@ Harry and Luna look down. { Harry is in Gryffindor, Luna is in Ravenclaw, and Dr
 {
   "force_id":"aa8e13637c8305b38c0e37068d7eb9f2",
   "force_date":datetime.date(2012, 6, 15),
+  "content_warning": "contains ableist language",
 
   "transcript":"""LUNA: But for the other three founders, the only question was how to minimize the risk of a rebellion that could affect their students... which led them to demand that their elves be raised carefully from birth to believe that the only meaning of their lives was to serve wizards... Their agents used a combination of punishment and mind altering magic&ndash;<br/>
 An image illustrates four house-elves &ndash; short beings with tiny limbs, large heads, and pointy ears &ndash; moving in perfect synchrony. A bored wizard is holding a wand with rays that touch the elves' heads. Godric Gryffindor watches this, and is pleased.<br/>
@@ -81,13 +86,13 @@ LUNA: You can hurt me instead, I'm okay with it! I don't feel pain, remember?<br
 PAST HARRY: You're both barking.<br/>
 Harry turns away from the other two.<br/>
 PAST HARRY: ...I'll tell you a story. Then you can decide if you think I'm crazy for revenge.""",
-  "annotation":"""<p>The house-elves will not appear again. I just wanted to remind you that the entire society of the <i>Harry Potter</i> universe is based on slavery.</p>
+  "annotation":"""<p>The house-elves will not appear again. The trio's mission is full of despair: Although they can kill a few evildoers, they have no hope of fixing the evils of their society.</p>
 
-<p>In the bubble at the top, I knew I wanted the elves' training to be overseen by one of the three founders (other than Hufflepuff), but it took me a while to decide who it should be. I sketched in Slytherin at first, but ze seemed too obvious &ndash; and I'd expect the actual Salazar Slytherin to be more of a "hands-off" person who wants to profit from this dirty business but not actually be involved in it. Between Ravenclaw and Gryffindor, I settled on Gryffindor for two reasons:</p>
+<p>In the bubble at the top, I knew I wanted the elves' training to be overseen by one of the founders, but it took me a while to decide who it should be. I sketched in Slytherin at first, but ze seemed too obvious. Plus, I'd expect the actual Salazar Slytherin to be more of a "hands-off" person &ndash; someone who wants to profit from this dirty business, but not actually be involved in it. Between Ravenclaw and Gryffindor, I settled on Gryffindor for two reasons:</p>
 
-<ol><li>I wanted to play up the "Gryffindor may seem like a good guy, but ze's not" statement from the previous page.</li><li>With the sword and the boots, I'm going for a fighter/conquerer image, and that fits perfectly with the subjugation of another race.</li></ol>
+<ol><li>I wanted to play up the "Gryffindor may seem like a good guy, but ze's not" idea from the previous page.</li><li>With the sword and the boots, I'm going for a fighter/conquerer image, and that fits perfectly with the subjugation of another race.</li></ol>
 
-<p>That said, there was also a point in Ravenclaw's favor: It would enhance the "They thought about the elves' lives purely as a logistical problem" angle.<p>
+<p>That said, there was also a point in Ravenclaw's favor, too. Using Ravenclaw would enhance the "Ze thought about the elves' lives purely as a logistical problem" angle.<p>
 
 <p>As a side note, I've recently learned that in J.K. Rowling's vision, Helga Hufflepuff <em>brought</em> the elves to Hogwarts. In that version, ze did it because no one would be cruel to them in the Hogwarts kitchens, which was the best ze could achieve in an era of history when nobody would accept actually freeing them. I think there's some merit to that version of the story, but it fits much too easily into the books' narrative of Harry's and Hermione's interactions with the elves (especially Kreacher), where the moral of the story seems to be "It's okay to have slaves, but you should treat your slaves nicely".</p>""",
 },
