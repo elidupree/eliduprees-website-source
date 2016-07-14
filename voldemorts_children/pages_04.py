@@ -92,13 +92,13 @@ PAST HARRY: ...I'll tell you a story. Then you can decide if you think I'm crazy
 
 <ol><li>I wanted to play up the "Gryffindor may seem like a good guy, but ze's not" idea from the previous page.</li><li>With the sword and the boots, I'm going for a fighter/conquerer image, and that fits perfectly with the subjugation of another race.</li></ol>
 
-<p>That said, there was also a point in Ravenclaw's favor, too. Using Ravenclaw would enhance the "Ze thought about the elves' lives purely as a logistical problem" angle.<p>
+<p>That said, there was a point in Ravenclaw's favor, too. Using Ravenclaw would enhance the "Ze thought about the elves' lives purely as a logistical problem" angle.<p>
 
 <p>As a side note, I've recently learned that in J.K. Rowling's vision, Helga Hufflepuff <em>brought</em> the elves to Hogwarts. In that version, ze did it because no one would be cruel to them in the Hogwarts kitchens, which was the best ze could achieve in an era of history when nobody would accept actually freeing them. I think there's some merit to that version of the story, but it fits much too easily into the books' narrative of Harry's and Hermione's interactions with the elves (especially Kreacher), where the moral of the story seems to be "It's okay to have slaves, but you should treat your slaves nicely".</p>""",
 },
 {
   "xcf_base": "ch6_p3_2",      
-  "content_warning":""""car crash""",
+  "content_warning":"""shows details of a car crash""",
   "force_id":"96f8763636741b9478f71120108ad614",
   "force_date":datetime.date(2012, 6, 16),
 
@@ -106,7 +106,7 @@ PAST HARRY: ...I'll tell you a story. Then you can decide if you think I'm crazy
 We enter a narrative frame in which Past Harry describes further-in-the-past events. In the frame, the Dursleys and Harry are exiting a hospital on a bright sunny day; Harry has bandages on zir face where the mouth scar is, and Dudley is snickering behind Harry's back.<br/>
 PAST HARRY: The doctors had just fixed me up. But I was scarred. And Dudley was still...<br/>
 We see close-up images of Harry's eyes as Harry's face twists with anger. Harry's eyes glow. Lightning flashes, stormclouds move in, and a heavy rain begins. As Vernon and Dudley are crossing at a sidewalk, a car slips on the wet road and hits Dudley. Harry grins as Vernon and Petunia rush to where Dudley lies on the ground. The driver of the car has also stopped and gotten out, and is shocked. The next thing we see is Vernon, Petunia, and Dudley exiting the hospital again, with Dudley in a wheelchair.""",
-  "annotation":"""<p>Now you know why Dudley was in a wheelchair on <a href="/main/posts/175-voldemort's-children-page-16">page 16</a>. (And for reference, Harry is recovering from the injury we saw on <a href="/main/posts/194-voldemort's-children-page-31">[TW: child abuse, blood] page 31</a>.)</p>
+  "annotation":"""<p>Now you know why Dudley was in a wheelchair on <a href="/voldemorts-children/16">page 16</a>. (And for reference, Harry is recovering from the injury we saw on <a href="/voldemorts-children/31">page 31</a>.)</p>
 
 <p>During this flashback, Harry still believes the Dursleys' lie that zir parents died in a car crash. I wonder what <em>that</em> implies...</p>
 
@@ -129,9 +129,9 @@ DRACO: Hah... Goyle is too stupid to learn the spells.<br/>
 In the background, we see an angular view of the list of names from Fudge's speech on <a href="/main/posts/164-voldemort's-children-page-5">page 5</a>, except that Draco's name isn't in the list.<br/>
 PAST HARRY: So many names...
 """,
-  "annotation":"""<p>The Dursleys blamed Harry for the 'accident' anyway, of course. They locked zem in the cupboard without food until two days later when Dumbledore visited to intimidate them. Dumbledore draws the line at things that could endanger Harry's life.</p>
+  "annotation":"""<p>The Dursleys blamed Harry for the 'accident' anyway, of course. They locked zem in the cupboard without food until two days later, when Dumbledore visited to intimidate them. Dumbledore draws the line at things that could endanger Harry's life.</p>
 
-<p>This page also gives an (equally cryptic) answer to my cryptic clue from the annotation of <a href="/main/posts/164-voldemort's-children-page-5">page 5</a>; in the books, being nasty helps you cast nasty spells, but in <i>Voldemort's Children</i>, all spells require skill and intelligence. I decided that Crabbe is somewhat smarter than Goyle because ze's the one who casts the Fiendfyre spell in the books (and they explicitly say that that spell is very difficult).</p>""",
+<p>This page also finally answers why Goyle wasn't listed among the dead on <a href="/voldemorts-children/5">page 5</a>. In the books, being nasty helps you cast nasty spells, but in <i>Voldemort's Children</i>, all spells require skill and intelligence. I decided that Crabbe is somewhat smarter than Goyle because ze's the one who casts the Fiendfyre spell in the books (and the books say that that is a very difficult spell).</p>""",
 },
 {
   "force_id":"6f694ad984a8190c1649645132bfdd45",
@@ -152,7 +152,7 @@ LUNA: What about Dumbledore? He knows everything that happens in the castle. And
 PAST HARRY: I know his mind. I will send him an owl, in my own name. He will meet me in his office, assuming I am seeking redemption... He will not contact the Ministry, or suspect that it is a distraction, a trap, until it is too late.<br/>
 LUNA: Isn't that a bit unreliabl&ndash;<br/>
 PAST HARRY: It is what I will do.""",
-  "annotation":"""<p>Harry and Luna have left Hogwarts to go on their mission; Draco is helping them while living a double life as an innocent student.</p>""",
+  "annotation":"""<p>Harry and Luna have left Hogwarts to go on their mission. Draco is helping them while living a double life as an innocent student.</p>""",
 },
 {
   "force_id":"a36853749e4c1b618a2cd574fd419121",
@@ -166,7 +166,7 @@ The edge of the narrative frame we're in starts to split the right side of the p
 },
 {
         
-  "content_warning":""""magical massacre""",
+
   "force_id":"4a81763cd26c109838b06c66a651a9b",
   "force_date":datetime.date(2012, 6, 20),
 
@@ -191,11 +191,11 @@ PRESENT HARRY: I would not break the trust of myself...<br/>
 DUMBLEDORE: Harry...""",
   "annotation":"""<p>The Stunning Spell is supposed to knock the target unconscious. It didn't work completely, not because Dumbledore has any special immunity the way Luna does, but because Harry isn't very good at magic.</p>
 
-<p>In the room on the top left, from left to right, those are Zabini, Crabbe, Millicent Bulstrode, Charles Warrington, Daphne Greengrass, Pansy Parkinson, and Graham Montague. We've seen Daphne Greengrass and Graham Montague before - they were the two students bullying Harry in McGonagall's class on <a href="http://www.elidupree.com/main/posts/167-voldemort's-children-page-8">page 8</a>. And of course we've seen Zabini and Crabbe before.</p>""",
+<p>In the room on the top left, the students are &ndash; from left to right &ndash; Zabini, Crabbe, Millicent Bulstrode, Charles Warrington, Daphne Greengrass, Pansy Parkinson, and Graham Montague. We've seen Daphne Greengrass and Graham Montague before &ndash; they were the two students bullying Harry in McGonagall's class on <a href="/voldemorts-children/8">page 8</a>. And of course we've seen Zabini and Crabbe before.</p>""",
 },
 {
         
-  "content_warning":""""verbal abuse""",
+  "content_warning":"""depicts verbal abuse""",
   "force_id":"86c837b17dc1061ed15e82bb78dbb627",
   "force_date":datetime.date(2012, 6, 21),
 
@@ -229,7 +229,9 @@ PORTRAIT 3: Ungrateful child!<br/>
 PORTRAIT 2: Have you forgotten all the good Dumbledore has done you?<br/>
 PAST HARRY: Incendio! Incendio! Incendio! { The incantation for the Fire-Making Spell. }<br/>
 The office is engulfed in bright flames. The portraits burn. The devices on the side table fall and go to pieces. Amid the flames, Harry turns zir wand back towards Dumbledore.""",
-  "annotation":"""<p><a href="/main/posts/175-voldemort's-children-page-16">I've mentioned Zabini's gender before.</a> By the way, Zabini is <a href="http://en.wikipedia.org/wiki/Gender_binary">binary</a> and <a href="http://en.wikipedia.org/wiki/Cisgender">cis</a>, and all of the other characters recognize zem unambiguously as zir actual gender.</p>""",
+  "annotation":"""<p> If you reread <a href="/voldemorts-children/16"> what I wrote about Zabini's gender before</a>, you can now understand what I meant by "the role Zabini will play". When you are writing a powerful, evil character, there is a whole minefield of possible gender stereotypes. If the character is male, it might say, "it's natural for male people to have the power all the time". If the character is female, it's even worse: "make sure you don't let female people have power &ndash; this is what would happen!" And if you try to escape the dilemma by making your character non-binary or gender non-conforming, you just end up with "non-binary people are evil".</p>
+  
+  <p>My version of Zabini is <a href="http://en.wikipedia.org/wiki/Gender_binary">binary</a> and <a href="http://en.wikipedia.org/wiki/Cisgender">cis</a>, and all of the other characters recognize zem as zir actual gender. The only people who don't know are me (the author) and you (the reader).</p>""",
 },
 {
   "force_id":"2723b6050b28d844e9e407800db87c4e",
@@ -249,7 +251,7 @@ LUNA: You can't put out that fire you've started, can you.<br/>
 ZABINI: Did I say I would?<br/>
 Luna pulls Draco back as Zabini throws the Fiendfyre on the ground. It erupts into a giant mass of eyeless, fire-wreathed monsters between Zabini and the others. Zabini grins maniacally.<br/>
 ZABINI: Run while you can. I'm not going to give you the satisfaction of seeing me die.""",
-  "annotation":"""<p>There's also a metaphorical reason why you will not see Zabini die: Much like with Voldemort, the forces that Zabini <em>represents</em> do not die with zem. (And, like with Voldemort, Zabini really does die; this isn't one of those things where five episodes later it turns out that they had a secret escape route all along.)</p>""",
+  "annotation":"""<p>There's also a symbolic reason why you will not see Zabini die. Much like with Voldemort, the forces that Zabini <em>represents</em> do not die with zem. (And, like with Voldemort, Zabini really does die. This isn't one of those things where five episodes later it turns out that they had a secret escape route all along.)</p>""",
 },
 {
   "force_id":"832ebfbb5ed9fb5e047c3811b6f5a582",
@@ -273,21 +275,21 @@ PRESENT HARRY: For all the people I'd killed... I couldn't bring myself to kill 
 The two side of the page join again with Luna's zigzag transportation spell. Luna grabs Harry and they land ignominiously back at the tent. Luna and Harry have fallen over and Draco is on zir knees. The moon still shines brightly above.<br/>
 LUNA: Oof! Sorry about the landing!<br/>
 Draco looks at zir own hands.""",
-  "annotation":"""<p>In the books, the Headmaster's office can seal itself against powerful wizards who try to intrude, so it would be strange if ordinary fire could get through the door.</p>
+  "annotation":"""<p>In the books, the Headmaster's office can seal itself so securely that even powerful wizards can't get in. It would be strange if ordinary fire could get through the door.</p>
 
 <p>I think the door in the <em>dungeons</em> is an ordinary door made of stone. If the Fiendfyre can burn through the door, does that mean it also burns all the walls? That could cause major structual damage to the castle! I can see a few different ways it could work:</p>
-<ul><li>It's like gas pressure and looks for the easiest way to expand &ndash; it'll only burn rock until it breaks through into another open space.</li><li>It can't burn the door, but it can push through the cracks around the door until there's enough on the other side.</li><li>It doesn't have the power to burn very much rock, but it's intelligent or semi-intelligent and likes killing people and/or destroying valuable objects, so it attacks the door on purpose in order to get to them.</li></ul>
+<ul><li>It's like gas pressure and looks for the easiest way to expand. It will only burn rock until it breaks through into another open space.</li><li>It can't burn the door, but it can push through the cracks around the door. Eventually, there will be enough fire on the other side for it to start spreading there as well.</li><li>It can't burn very much rock, but it's intelligent or semi-intelligent. It likes killing people and/or destroying valuable objects, so it attacks the door on purpose in order to get to them.</li></ul>
 
-<p>Also, what can actually stop Fiendfyre from expanding? In the books, they escape by exiting a magical room that's different every time you enter it; what if you cast Fiendfyre outdoors? Here are a few of the many possibilities:</p>
+<p>Also, what can actually stop Fiendfyre from expanding? In the books, they escape by leaving a magical room that's different every time you enter it. But what if you cast Fiendfyre outdoors? Here are a few of the many possibilities:</p>
 <ul><li>It would actually burn the whole world, but only a few people have the skill and interest to learn to cast it, and none of those people have ever been stupid/omnicidal enough to try it.</li>
-<li>It would burn the whole world, except that a lot of people know how to put it out by magic, and it doesn't become much harder to stop just because it expands wildly.</li>
+<li>It would burn the whole world, except that a lot of people know how to put it out by magic, even if it starts expanding out of control.</li>
 <li>It doesn't actually gain power from expanding or burning things, and only expands until it runs out of the energy given to it by the person who cast it.</li></ul>
 
 <p>I think my favorite interpretation is that it's intelligent and can only expand by consuming magic, which it can get by burning magical objects or killing magical people. On the other hand, it can keep burning for a long time by just sitting in the same place, so if you seal it in, it's only safe until the seal is broken again.</p>
 
-<p>In this particular situation, how they deal with it afterwards isn't important enough to make it onto a page, but it's easy to explain here. Snape knows about Fiendfyre because ze's studied the "Dark Arts" extensively. Snape is also sensible/cowardly enough (take your pick) that ze doesn't try to go extinguish it zemself, but blocks it, evacuates the students, and alerts the Ministry. At that point, Granger (who knows about Fiendfyre because ze's studied <em>everything</em> extensively) arrives and extinguishes it, possibly with some help from Snape or the other professors. Normally, Dumbledore would be able to do that, but Dumbledore isn't exactly in a position to do so right now.</p>
+<p>In this particular situation, it's not very important to know how they dealt with it, so I haven't actually explained it in the comic itself. I'll explain it here, though. Snape knows about Fiendfyre because ze's studied the "Dark Arts" extensively. Snape doesn't try to go and extinguish it zemself, but blocks it, evacuates the students, and alerts the Ministry. At that point, Granger arrives. All Aurors know how to extinguish Fiendfyre, so ze quickly deals with it, with some help from Snape and the other professors. Normally, Dumbledore would be able to do that, but Dumbledore isn't in good shape right now.</p>
 
-<p>Also, I decided that there's an old wizarding law that says a person who casts Fiendfyre and lets it run wild must pay a penalty of fifty Galleons to the person who extinguishes it. So, in the present, Granger now knows that Zabini's family owes zem fifty Galleons. Ze hardly plans to collect.</p>""",
+<p>Also, I decided that there's an old wizarding law that says, if you cast Fiendfyre and let it run wild, you must pay a penalty of fifty Galleons to the person who extinguishes it. In the present, Granger now knows that Zabini's family owes zem fifty Galleons. Ze hardly plans to collect.</p>""",
 },
 {
   "force_id":"ff4f8710c888f5e52fe087a994305a9c",
@@ -305,10 +307,10 @@ GRANGER: Then it appears that, for now, our time here is at an end.
 """,
   "annotation":"""<p>Thus ends Chapter Six, "The Purge of Hogwarts."</p>
 
-<p>Those are the actual Granger and Gryffindor fonts at the end; I finished them earlier today. Since I started making the fonts, this is the first page without <em>any</em> hand-drawn letters.</p>
+<p>Those are the actual Granger and Gryffindor fonts at the end. I finished them earlier today. Since I started making the fonts, this is the first page without <em>any</em> hand-drawn letters.</p>
 
 <p>How have the trio been sending owls to people when they're on the run from the law? There's a bunch of possibilities; I like these two the best:</p>
-<ul><li>They go in disguise and rent owls from owl-rental places.</li><li>They have sympathizers who know where they are and send them messages by owl sometimes; they use those owls to send messages later.</li></ul>""",
+<ul><li>They go in disguise and rent owls from owl-rental places.</li><li>They have sympathizers who know where they are and send them messages by owl sometimes. They use those owls to send their own messages later.</li></ul>""",
 },
 ]
   

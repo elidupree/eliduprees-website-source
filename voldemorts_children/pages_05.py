@@ -35,9 +35,9 @@ DUMBLEDORE: I was afraid you would say that.
 """,
   "annotation":"""<p>Dumbledore had to replace zir furniture after the fire. The Pensieve survived, though. (It's made of stone, and probably enchanted to be harder to break as well.)</p>
 
-<p>Granger could have taken the Floo Network instead of using such a showy method of travel, but many people can access the Floo Network Authority records, and zir enemies would find it very valuable to be able to track zir location.</p>
+<p>Granger could have taken the Floo Network instead of using such a showy method of travel, but many people can access the Floo Network Authority records. Granger doesn't want any of zir enemies to be able to track zir location.</p>
 
-<p>In the books, there are some sort of unspecified defenses that make it harder to fly towards Hogwarts by broomstick (and possibly by other means), in addition to the Anti-Apparition Charm and Anti-Disapparition Jinx that cover the castle. That might prevent Granger from using zir flight magic to enter the castle airspace. However, unless there's a hard barrier that blocks physical objects, there's nothing to stop Granger from <em>falling</em> to the interior of the shield and then flying the rest of the way as normal.</p>
+<p>In the books, there are some sort of unspecified defenses that make it harder to fly towards Hogwarts by broomstick, in addition to the Anti-Apparition Charm and Anti-Disapparition Jinx that cover the castle. That might prevent Granger from using zir flight magic to enter the castle airspace. However, unless there's a hard barrier that blocks physical objects, there's nothing to stop Granger from <em>falling</em> to the interior of the shield and then flying the rest of the way as normal.</p>
 """,
 },
 {
@@ -87,11 +87,11 @@ PRESENT DUMBLEDORE: I did not find Tom first, but another child, crying at the s
 Dumbledore kneels next to a child who is clearly upset, kneeling next to a little garden plot with dead plants in it.<br/>
 PAST DUMBLEDORE: What's the matter, little friend?<br/>
 CHILD: My plants! I was at my aunt's and couldn't water them and it was supposed to finally rain, but Tom just kept making it sunny! He <em>always</em> makes it sunny!""",
-  "annotation":"""<p>In the books, Dumbledore uses mind-affecting magic to make Mrs Cole stop asking questions about Hogwarts. I didn't want to do that here, because my Dumbledore is someone who's "well-intentioned" and genuinely cares about other people, even though ze does things that are harmful. Ze isn't supposed to disregard the lives of others for zir own convenience. (Isn't that ironic &ndash; I have to make Dumbledore <em>nicer</em> for this story.)</p>
+  "annotation":"""<p>In the books, Dumbledore uses mind magic to make Mrs Cole stop asking questions about Hogwarts. I didn't want to do that here, because my Dumbledore is someone who's "well-intentioned" and genuinely cares about other people, even though ze does things that are harmful. Ze isn't supposed to disregard the lives of others for zir own convenience. (Isn't that ironic &ndash; I have to make Dumbledore <em>nicer</em> for this story.)</p>
 
-<p>To justify the change, one could argue that it's not the most practical way to hide the existence of magic. I could imagine something like this happening: After Dumbledore leaves, some of Mrs Cole's friends ask zem about Riddle, and ze says that Tom is going to a school called Hogwarts. They try to look up Hogwarts, and it doesn't exist, so they tell Mrs Cole it must be a hoax perpetrated by someone trying to steal children. Mrs Cole gets upset and goes to the local newspaper, who (since wizards can't infiltrate <em>every</em> newspaper in Britain) prints a story about it. By the time the magical world hears about it, there's an entire municipality full of people who will mistrust anything by the name "Hogwarts". That would be inconvenient.</p>
+<p>To justify the change, one could argue that it's not the most practical way to hide the existence of magic. I could imagine something like this happening: After Dumbledore leaves, some of Mrs Cole's friends ask zem about Riddle, and ze says that Tom is going to a school called Hogwarts. They try to look up Hogwarts, and it doesn't exist, so they tell Mrs Cole about it. Their only explanation is that Dumbledore must be a fraudster trying to steal children. Mrs Cole gets upset and goes to the local newspaper, who (since wizards can't infiltrate <em>every</em> newspaper in Britain) prints a story about it. By the time the magical world hears about it, there's an entire town full of people who will mistrust anything by the name "Hogwarts". That would be inconvenient.</p>
 
-<p>So, instead, I think it works like this: non-magical people are encouraged to know that "Hogwarts" exists and is a very exclusive boarding school, and in circumstances like Tom's, Hogwarts representatives contact the children's guardians years earlier (under various pretenses) so that it isn't a surprise when one of them comes to take the child away to school.</p>""",
+<p>So, instead, I think it works like this: non-magical people are encouraged to know that "Hogwarts" exists and is a very exclusive boarding school. For people like Tom, Hogwarts representatives contact their guardians years earlier (under various pretenses) so that it isn't a surprise when someone comes to take the child away to school.</p>""",
 },
 {
   "force_id":"b87efc7dbdeb494fddee24a144e29d0",
@@ -109,7 +109,7 @@ PRESENT DUMBLEDORE: I took Tom aside. He was very curious, a quality I value in 
 Tom's voice is much more rounded than the adult Voldemort's, and it is pink instead of green.<br/>
 TOM: Who are you? How did you get here so quickly?
 """,
-  "annotation":"""<p>Dumbledore romanticizes the non-magical people of Britain, and probably knows more about them than the average magical person, but ze hasn't spent very much time actually living with them, so ze's unfamiliar with many parts of their culture.</p>""",
+  "annotation":"""<p>Dumbledore romanticizes the non-magical people of Britain, and probably knows more about them than the average magical person does. However, ze hasn't spent very much time actually living with them, so ze's unfamiliar with many parts of their culture.</p>""",
 },
 {
   "force_id":"d17079e65e6384ab2e774238890e6b9",
@@ -125,15 +125,15 @@ DUMBLEDORE: And at that moment, the storm began...<br/>
 Lightning strikes outside the window and rain pours down; the three inside are lit sharply.""",
   "annotation":"""<p>The first step of an abusive relationship: Take away their support network...</p>
 
-<p>In the books, the International Statute of Wizarding Secrecy presumably has an exception for the immediate families of Muggle-born wizards; the families of Muggle-borns we meet in the books (Hermione, Lily) are routinely aware of the existence of magic. But outside of that, there's nothing, and it's not common practice to tell Muggle-borns about their abilities before the year they enter Hogwarts. (And not from lack of ability to identify them earlier; all magical children are detected at birth.)</p>
+<p>In the books, the International Statute of Wizarding Secrecy presumably has an exception for the immediate families of Muggle-born wizards. The families of Muggle-borns we meet in the books (Hermione, Lily) know plenty of stuff about magic. But outside of that, there's nothing. Worse, it's not common practice to tell Muggle-borns about their abilities before the year they enter Hogwarts. (And not from lack of ability to identify them earlier. All magical children are detected at birth.)</p>
 
-<p>I'd be very surprised if there isn't a large achievement gap between Muggle-born and wizard-born students at Hogwarts and its peer institutions; Muggle-borns are, at age 11, shoved into a new world they know nothing about, and to make it worse, they're not allowed to talk about it even with their closest friends.</p>
+<p>I'd be very surprised if there isn't a large achievement gap between Muggle-born and wizard-born students at Hogwarts and other schools. Muggle-borns are, at age 11, shoved into a new world they know nothing about, and to make it worse, they're not allowed to talk about it even with their closest friends.</p>
 
 <p>Thus, even though the Statute doesn't have an explicit blood-purist ideology written into it, it's still designed from such a magical-world-centric point of view that it hurts the very people who are already hurt the most by prejudice and discrimination.</p>
 
 <p>Does this remind you of anything from real life? Please answer in the comments!</p>
 
-<p>(In the books, all the major characters who were raised by Muggles &ndash; Harry, Hermione, Lily, Tom Riddle &ndash; are quite successful at Hogwarts. This is consistent with the books' general pattern of ignoring the more insidious aspects of societal privilege for those who do not have it.)</p>""",
+<p>(In the books, all the major characters who were raised by Muggles &ndash; Harry, Hermione, Lily, Tom Riddle &ndash; are quite successful at Hogwarts. This is consistent with the books' general pattern of ignoring the more insidious aspects of social injustice.)</p>""",
 },
 {
   "force_id":"d27563cda36c2735dbbc6c861bafc9ce",
@@ -188,24 +188,24 @@ PRESENT DUMBLEDORE: But we professors overlooked that, mesmerized as we were by 
 Hagrid watches as Tom happily chats with a snake in an unreadable language. Tom is speaking in the voice from earlier, not the Voldemort voice.""",
   "annotation":"""<p>Tom Riddle is born much later in <i>Voldemort's Children</i> than in the books, in order to make my timeline work out. Thus, Hagrid attended Hogwarts already, and graduated as normal before going on to become the Hogwarts gamekeeper.</p>
 
-<p>In book 7, Ron is able to open the Chamber of Secrets just by remembering the hissing sounds Harry made. Thus, it's probably possible to learn that language like any other, even if some people have the ability innately for some reason &ndash; and Hagrid would certainly have every motivation to learn animal languages if ze can. Also, considering that Riddle is a Ravenclaw here, ze probably isn't the Heir of Slytherin, and probably isn't innately a Parselmouth.</p>""",
+<p>In book 7, Ron is able to open the Chamber of Secrets just by remembering the hissing sounds Harry made. Thus, it's probably possible to learn the snake language like any other, even if you weren't born knowing it automatically by magic. Hagrid, who loves all kinds of creatures, would have every motivation to learn animal languages if ze can. Also, considering that Riddle is a Ravenclaw here, ze probably isn't any kind of "Heir of Slytherin", and probably isn't innately a Parselmouth.</p>""",
 },
 {
   "force_id":"9591e96cfc89390f44ea405e929e184c",
   "force_date":datetime.date(2012, 7, 5),
 
   "transcript":"""PRESENT DUMBLEDORE: As he rose through the years, he was especially helpful to the younger students. There were a few with whom he spent time often. They began to do very well, and be very focused on their classes... I almost thought of them as Riddle's children within the school. In hindsight, maybe he was already recruiting, but not all of them followed his ideals after he became Lord Voldemort. Lucius Malfoy was one; so was Severus Snape...<br/>
-Tom and a young Snape sit in a room with bookshelves, similar to the one from the end of <a href="/main/posts/177-voldemort's-children-page-18">page 18</a>. Tom, grinning, shows Snape how to levitate a rock. Snape is also levitating a rock, but has more trouble.<br/>
+Tom and a young Snape sit in a room with bookshelves, similar to the one from the end of <a href="/voldemorts-children/18">page 18</a>. Tom, grinning, shows Snape how to levitate a rock. Snape is also levitating a rock, but has more trouble.<br/>
 PRESENT GRANGER: Hmm. Lucius Malfoy? When I was interrogating Harry, he said that Draco&ndash;<br/>
 PRESENT DUMBLEDORE: Yes?<br/>
 PRESENT GRANGER: My apologies; I suspect that this is something you would prefer not to know.<br/>
 PRESENT DUMBLEDORE: Ah, then I suppose you will not tell me.<br/>
 PRESENT DUMBLEDORE: When Riddle started slipping away from us in his sixth year, we were concerned for him. He stopped showing emotion, and he shunned everyone outside his inner circle. Only in hindsight have I come to the realization that he as not putting on a mask &ndash; he was removing one.<br/>
-Tom stands with a flat expression, staring blankly into space. Ze is carrying a happy mask and an upset mask, like the Comedy/Tragedy masks, which are the same color as zir skin. In the place of the Time-Twister is the black sphere from <a href="/main/posts/166-voldemort's-children-page-7">page 7</a>; it has three soul fragments in it, and the other four fragments are scattered around the edges of the page.<br/>
+Tom stands with a flat expression, staring blankly into space. Ze is carrying a happy mask and an upset mask, like the Comedy/Tragedy masks, which are the same color as zir skin. In the place of the Time-Twister is the black sphere from <a href="/voldemorts-children/7">page 7</a>; it has three soul fragments in it, and the other four fragments are scattered around the edges of the page.<br/>
 PRESENT DUMBLEDORE: I believe that was the year he learned the power to split his soul, and once he was unkillable, he no longer needed our approval to take what he wanted. He no longer had to hide his true self.""",
-  "annotation":"""<p>Dumbledore is more perceptive in the bottom half of this page than I wanted zem to be. If I had more time to spend on this story, I would structure it so that you <em>see</em> what Dumbledore is describing, Dumbledore makes different assumptions, and you already have specific information from Harry that would make you realize that Dumbledore's assumptions are incorrect.</p>
+  "annotation":"""<p>Dumbledore is more perceptive in the bottom half of this page than I planned for zem to be. If I had more time to spend on this story, I would structure it so that you <em>see</em> what Dumbledore is describing, Dumbledore makes different assumptions, and then &ndash; because of what you already heard from Harry &ndash; you realize that Dumbledore's assumptions are incorrect.</p>
 
-<p>The trouble is, if I did it the way I want to, it would be about three times as long. I'd love to make every chapter three times as long, but I have real-life plans (e.g. <a href="/main/posts/205-a-look-at-lasercake-one-of-my-upcoming-projects">Lasercake</a>) that require me to finish <i>Voldemort's Children</i> more quickly than that.</p>""",
+<p>The trouble is, if I did it the way I want to, it would be about three times as long. I'd love to make every chapter three times as long, but I have many other projects I want to do, so I'd like to finish <i>Voldemort's Children</i> more quickly than that.</p>""",
 },
 {
   "force_id":"9d47551d7d5ca9e15bae65c7249e4c83",
