@@ -23,3 +23,9 @@ vc_pages = flatten([
   voldemorts_children.pages_06.pages,
   voldemorts_children.pages_07.pages,
 ])
+
+for page in vc_pages :
+  #I think a few pages have unchanged content and an unchanged annotation,
+  #but a few false-positives are okay.
+  #Also, the lossy compression of the images is technically a change. Thus
+  page ["edited_significantly_from_old_website"] = True
