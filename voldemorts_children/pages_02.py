@@ -421,8 +421,12 @@ VOLDEMORT: I will pause to muse that I have never exploded a baby before... and 
 Voldemort stands in front of the Time-Twister's bands. Lily, right behind zem, is wrapped three times around by the snake and can't reach zir wand, which is still in the snake's mouth. Voldemort reaches down and points zir wand at Harry's forehead. Lily has a very tense expression on zir face; Voldemort is as impassive as usual.<br/>
 VOLDEMORT: <strong>Confringo.</strong> { The incantation of the Blasting Curse. }""",
   "annotation":"""<p>Writing and drawing this page took me nine hours...</p>
+  
+  <p>In the books, when Voldemort tries to kill Harry, Voldemort dies instead, because of the power of Lily's love.<footnote((According to Dumbledore, anyway. Arguably, the story is more consistent if you assume that Dumbledore is simply lying and the real explanation has something to do with Horcruxes instead. However, the reader is clearly supposed to believe Dumbledore's explanation for at least the first five books.))> Literally, <em>Lily uses an ancient power to single-handedly take down Voldemort when no one else could.</em> In a way, you could say that I have not changed this scene at all.</p>
+ <p>The difference is that <i>Voldemort's Children</i> believes that love is not sufficient. If you want to protect someone you love, you must take actions that would realistically protect them.</p>
+  
 
-<p>In the original series, Voldemort is a fairly generic fantasy villain &ndash; a plot device, an easy source of conflict ("How will the heroes defeat the villain this time?! Find out next chapter!") and a caricature. Dumbledore describes zem as "without love", as if that explains why ze wants to torture people and conquer the world. There isn't actually a reasonable explanation for it.</p>
+<p>Also, in the books, Voldemort is a fairly generic fantasy villain &ndash; a plot device, an easy source of conflict ("How will the heroes defeat the villain this time?! Find out next chapter!") and a caricature. Dumbledore describes zem as "without love", as if that explains why ze wants to torture people and conquer the world. There isn't actually a reasonable explanation for it.</p>
 
 <p>What other roles can a powerful villain serve in a story? What could cause a person behave the way Voldemort does?</p>""",
 },

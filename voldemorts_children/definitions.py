@@ -55,6 +55,7 @@ html.voldemorts_children .post_content_section {
   background-color: #cccccc }
 html.voldemorts_children .comment_body {
   background-color: #cccccc }
+html.voldemorts_children span.big_quote_mark_inner {color: #f0f0f0;}
 /*html.voldemorts_children div.all_comments:hover div.comment_body {
   background-color: #aaaaaa; }
 html.voldemorts_children div.user_comment:hover>div.comment_body_hover_marker>*>div.comment_body {

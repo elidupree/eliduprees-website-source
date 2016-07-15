@@ -20,7 +20,7 @@ The Harshest Judge""",
   "annotation":"""
 <p>This will be a chapter about Granger!</p>
 
-<p>The illustration was inspired by the Ancient Egyptian myth that, in the afterlife, your heart/soul is weighed against a feather. If it's heavier (meaning more evil) than the feather, then it will be devoured by a monster.</p>
+<p>The illustration was inspired by the Ancient Egyptian myth. According to the myth, in the afterlife, your heart/soul is weighed against a feather. If it's heavier (meaning more evil) than the feather, then it will be devoured by a monster.</p>
 
 <p>Incidentally, I've known what this image will be for a long time. For the earlier chapters, I've invented most of the title-page visual metaphors on the same days I drew them, but for this one and the next one, I've known since before I drew the first page.</p>""",
 },
@@ -52,7 +52,7 @@ PRESENT GRANGER: Later, I learned that Professor Quirrel had starved the troll t
 
 <p>Before I started writing <i>Voldemort's Children</i>, I didn't think of the <i>Harry Potter</i> series as being particularly sexist. But now that I've started scrutinizing it more deeply (as I have to, in order to write a good fanfic), I've started seeing the sexism everywhere.</p>
 
-<p>On a mostly-unrelated note, in real life, there basically aren't any creatures that intentionally walk around attacking other creatures, except for predators attacking prey. Wild animals often attack humans or other animals that intrude on their territory or come near their offspring, but alone in an unfamiliar place, it's rather strange that this troll would attack humans on sight. An animal that is large, slow, and stupid would not make a good predator; I'm guessing that trolls are omnivorous, something like bears.</p>
+<p>As for the troll itself, I based its behavior on real-life animals. Wild animals usually don't attack humans (or other animals) unless they intrude on their territory or come near their offspring. The only reason an animal would go alone into an unfamiliar place and attack people, is if it was a predator hunting prey. But the troll probably isn't a predator. An animal that is large, slow, and stupid would not make a good predator. I'm guessing that trolls are omnivorous, something like bears.</p>
 
 <p>The other possibility, I suppose, is that trolls were originally created by magic, and were specifically designed to be violent. I think the "trolls aren't monsters, just wild animals" interpretation is nicer, though.</p>""",
 },
@@ -79,7 +79,7 @@ PRESENT GRANGER: I had made the wrong move, and I realized my mistake faster tha
 The troll is lying on top of Granger. The floor has been cracked where the troll fell. Granger points zir wand at the troll.<br/>
 PAST GRANGER: Wingardium Leviosa. { The incantation of the Hover Charm, which levitates objects into the air. }<br/>
 Panel 6: The troll is floating near the ceiling. Granger is trying to crawl away. Zir left arm, the broken one, is folding up under zem, and zir left hand is purplish.""",
-  "annotation":"""<p>Eleven-year-old Granger was familiar with the term "crush asphyxia" because the <a href="http://en.wikipedia.org/wiki/Hillsborough_disaster">Hillsborough disaster</a> had been in the news a lot in the past year.</p>""",
+  "annotation":"""<p>Eleven-year-old Granger already knew the term "crush asphyxia" because the <a href="http://en.wikipedia.org/wiki/Hillsborough_disaster">Hillsborough disaster</a> had been in the news a lot in the past year.</p>""",
 },
 {
   "force_id":"dbd1b43b075b06f3dd020e4ad08feb2a",
@@ -92,7 +92,7 @@ A panel shows a smiling Dumbledore putting a Time-Twister around the neck of a s
 PRESENT GRANGER: So again I walked into a situation without knowing the dangers. The Ministry had not yet completed its research on the effects of Time-Twister use, which would show how much damage they can do even during routine application...""",
   "annotation":"""<p>What's so bad about destroying the fabric of time, anyway? It'll make life different, certainly, but will it actually be worse?</p>
 
-<p>It reminds me of how some people in real life said "What's so bad about the Earth warming up by a few degrees?", and then it turned out that it causes massive ecological disasters. So it's probably something like that.</p>""",
+<p>It reminds me of how some people in real life said "What's so bad about the Earth's atmosphere warming up by a few degrees?", and then it turned out that it causes massive ecological disasters. So it's probably something like that.</p>""",
 },
 {
   "force_id":"a4bbfcb8060d42ce545c977c3fd0cb3",
@@ -112,7 +112,7 @@ PAST GRANGER: Impedimenta; Petrificus Totalus. { "Impedimenta", the Impediment J
 PRESENT GRANGER: Preparation worked. I seemed to have a knack for running into Dark Wizards. Maybe, I thought to myself, I should become an Auror. I had not yet considered the... complications...""",
   "annotation":"""<p>In the magical world, not knowing that Kneazles can detect magical deception is like not knowing that cats purr. People tend to laugh at you if you don't know it. In this particular case, that means that people tend to laugh <em>at Muggle-borns</em>.</p>
 
-<p>Laughing at people who lack cultural knowledge is one of the tools of exclusion in real life, too. Try not to do it.</p>
+<p>Laughing at people who lack cultural knowledge is a form of discrimination in real life, too. Try not to do it.</p>
 
 <p>Granger mentioned that fact because ze thought Harry might not know it, given Harry's history. But what if Harry <em>does</em> know, and feels insulted by the implication that ze wouldn't? But if Granger didn't say it, what if Harry <em>doesn't</em> know, and gets confused by the story?</p>
 
@@ -127,9 +127,9 @@ We see a view of Granger sitting in the Gryffindor common room, reading the Dail
 DAILY PROPHET: Granger takes it all with perfect modesty. "All it took was one person to be suspicious of their neighbor's rat", she said in an interview. "And really, I wouldn't have noticed anything if it wasn't for Crookshanks. She deserves as much credit as I do." {paragraph break} Student response to the news that a Dark Wizard was living among them is mixed. "I know I'm going to take Defense Against the Dark Arts more seriously after this," Ron Weasley said, speaking for the majority. But not all students are surprised. "Everyone knows twenty percent of Hogwarts pets are unregistered Animagi," said Luna Lovegood, a second year Ravenclaw. "Mostly stalkers and overprotective parents, so a fugitive is nice for variety!"<br/>
 PRESENT GRANGER: But when I return from it all &ndash; when the professors are done praising my skill &ndash; when the Aurors have thanked me for the last time for my cooperation &ndash; when Dumbledore has finally run out of breath with which to call me brave &ndash; when I am alone &ndash; I come before the harshest judge, who is myself.<br/>
 Granger sits alone on a bed, looking fatigued. Two windows let in bright sunlight next to zem, but ze is looking away and the colors in the room are all dull despite the light. Unlike most of Granger's narration, this image fades into shadow at the edges.""",
-  "annotation":"""<p>In the books, the characters call Crookshanks "he". In the fantasy novels I've read, if a female character has an animal companion, it's almost always male; I haven't been able to come up with any examples of a female character with a female animal companion. I'm sick of this "male and female are complementary opposites" bullshit, so I've decided to go against the trend here.</p>
+  "annotation":"""<p>In the books, the characters call Crookshanks "he". In the fantasy novels I've read, if a female character has an animal companion, it's almost always male. I haven't been able to come up with any examples of a female character with a female animal companion. I'm sick of this "male and female are complementary opposites" nonsense, so I've decided to go against the trend here.</p>
 
-<p>I haven't specified exactly <em>what</em> the difference from the books is, though; perhaps Crookshanks is a transgender female cat, and the only difference from the books is that Granger is perceptive enough to notice and respect that.</p>""",
+<p>I haven't specified exactly <em>what</em> the difference from the books is, though. Perhaps Crookshanks is a transgender female cat, and the only difference from the books is that Granger is perceptive enough to notice and respect that.</p>""",
 },
 {
   "force_id":"7b898a3cb6a3f8d88987789025faf96e",
@@ -142,7 +142,7 @@ A single large image: Granger, surrounded by the spiral arms of the glowing Time
 PRESENT GRANGER: How much damage did I do, I wonder? Ever since the research came out, I have been plagued with thoughts of all the hours I took... Hours to study, when I could have worked harder in the time I had... Hours to rest &ndash; did I really need that rest more than the fabric of time needed to be whole? I was haunted by the story of the investigator who had picked up a shard of Voldemort's destroyed Time-Twister, and reappeared four years later... minus a few limbs, which waited six years instead...""",
   "annotation":"""<p>One thing that never made it onto a page is the reason for the Time-Twister's clockwise spiral.</p>
 
-<p>You activate the Time-Twister by twisting the tiny hourglass in the middle of the spiral (which has occasionally been visible, but is usually too small to see in the pictures), in a counterclockwise direction. So the line is, "Whenever you try to turn back time, you only wind it tighter".</p>""",
+<p>The Time-Twister has a tiny hourglass in the middle of the spiral (which has occasionally been visible, but is usually too small to see in the pictures). To activate it, you twist the hourglass in a counterclockwise direction. So the line is, "Whenever you try to turn back time, you only wind it tighter".</p>""",
 },
 {
   "force_id":"acceb9ee91654e7689b9ed55c74f42b4",
@@ -187,13 +187,13 @@ BELLATRIX: <em>Aurors.</em> They dare? Oh, that I must see my sister's home trou
 Panel 7: Bellatrix continues torturing Tonks. We see zem from a low angle, almost from Tonks's perspective (though not exactly; Tonks is now face-down, covering zir face with zir hands).<br/>
 BELLATRIX: And to send <em>you</em>... The final insult! Intruding on the very house you've defiled&ndash; { Tonks is the child of Bellatrix's other sibling by a Muggle. Since Bellatrix is an extreme blood-purist, ze has a personal grudge against Tonks. }<br/>
 Panel 8: Granger steps to the door of the room and stares angrily inside.""",
-  "annotation":"""<p>I've only seen bits and pieces of the films, and what I've seen seems mostly true to the books. The one character who's <em>nothing like</em> how I imagined zem in the books is Bellatrix Lestrange.</p>
+  "annotation":"""<p>I've only seen bits and pieces of the films, and what I've seen seems mostly true to the books. The one character who's <em>nothing like</em> how I imagined zem in the books is Bellatrix Lestrange.<footnote((UPDATE: In the time since I wrote this annotation, I have actually seen all seven films. Everything I say here is still accurate. One other character is also ruined by the films: Kingsley Shacklebolt is reduced from "skilled diplomat, spy, and warrior, who becomes Minister of Magic" down to "token black guy".))></p>
 
-<p>The thing that stands out to me about Bellatrix in the books is zir extreme pride, with the power to back it up. Ze is always in control of the situation (with the small exception of when ze's around Voldemort or Snape, who are better at controlling situations than ze is). Ze lectures Harry on how to use the Cruciatus Curse <em>in the middle of a battle</em>, ze declares zir loyalty to Voldemort <em>while being sentenced to life in Azkaban</em>, ze's second only to Voldemort in the number of named characters ze kills by sheer magical skill, and ze never passes up an opportunity to impose zir unforgiving, blood-purist ideology on other people.</p>
+<p>The thing that stands out to me about Bellatrix in the books is zir extreme pride, with the power to back it up. Ze is almost always in control of every situation &ndash; the only time ze isn't is when ze's around Voldemort or Snape, who are even better at controlling situations. Ze lectures Harry on how to use the Cruciatus Curse <em>in the middle of a battle</em>. Ze declares zir loyalty to Voldemort <em>while being sentenced to life in Azkaban</em>. Ze's second only to Voldemort in the number of named characters ze kills by sheer magical skill. Ze never passes up an opportunity to impose zir unforgiving, blood-purist ideology on other people.</p>
 
 <p>In the films, ze's nothing like that; instead, ze's an "out of control woman" stereotype. The actor who plays zem describes zem as "really naughty" and "incredibly infantile". Ze just does whatever ze feels like, and ze always feels like causing havoc and destruction. There are a few elements of that in the books, but the films add a lot more that wasn't in the books at all, and reduce the other aspects of zir character.</p>
 
-<p>There's an interesting question here about the concept of <strong>agency</strong>: The actor describes Bellatrix-in-the-films as "liberated", but to me, it feels like ze lacks agency, because, unlike in the books, ze's never steering the course of the narrative &ndash; instead, ze's going along with the narrative created by the other characters.</p>
+<p>There's an interesting question here about the concept of <strong>agency</strong>. The actor describes Bellatrix-in-the-films as "liberated", but to me, it feels like ze lacks agency. Unlike in the books, ze's never steering the course of the narrative &ndash; instead, ze's going along with the narrative created by the other characters.</p>
 
 <p>In my process of writing <i>Voldemort's Children</i>, the important thing about each character is not the personality quirks ze happens to have, but the ideology ze attempts to impose on the world.</p>""",
 },
@@ -236,7 +236,7 @@ PAST GRANGER: I will inform Dawlish. Expecto Patronum. { The incantation of the 
 A silvery dragonfly appears and Granger sends it out through the door.<br/>
 Panel 4: Tonks smiles weakly and looks up from the couch.<br/>
 PAST TONKS: d'y'know {do you know} how scary you are sometimes?""",
-  "annotation":"""<p>The original design for this page involved Granger fighting some random Dark Wizard, and easily defeating and capturing zem. When the Dark Wizard in question turned out to be Bellatrix friggin' Lestrange, I had to revise that series of events a bit. I think Granger can defeat any single other character, but not necessarily without a fight.</p>
+  "annotation":"""<p>The original design for this page involved Granger fighting some random Dark Wizard, and easily defeating and capturing zem. When the Dark Wizard in question turned out to be Bellatrix friggin' Lestrange, I had to revise that series of events a bit.</p>
 
 <p>If I had more time to spend on this scene, I'd make Bellatrix use the same blue shield that Granger uses, to emphasize how they're both powerful wizards who fight on the same terms. The duel would also have more tension, while they both tried to break through the other's shield, and be less showy, with fewer beams flying around. (Incidentally, I think Granger's opening volley on this page is mainly to distract Bellatrix from Tonks rather than to be an effective attack.) But in a half page, it was simpler and easier to do the "orange vs. blue" thing.</p>""",
 },
@@ -268,11 +268,11 @@ PAST GRANGER: I want you to use the Cruciatus Curse on me. If I'm going to face 
 PRESENT GRANGER: Or so I rationalized it to myself. What did I expect to accomplish? Would putting myself through this somehow change what had happened? Or was it simply the most convenient way to assuage a sense of suvivor's guilt? Do I know myself well enough to be sure?""",
   "annotation":"""<p>Granger may be second-guessing zemself here, but to Moody, that explanation seemed perfectly sensible and logical!</p>
 
-<p>This was obviously before Granger <a href="http://www.elidupree.com/main/posts/224-voldemort's-children-page-52">instituted the policy about saying "Torture Curse" instead of "Cruciatus Curse."</a></p>
+<p>This was obviously before Granger <a href="/voldemorts-children/52">instituted the policy about saying "Torture Curse" instead of "Cruciatus Curse."</a></p>
 
-<p>Granger also has escape locations outside of Britain, but there's a limit to how far you can Apparate, so those locations are only relevant while Granger is travelling to other countries.</p>
+<p>Granger also has escape locations outside of Britain, but there's a limit to how far you can Apparate. Those locations are only relevant while Granger is travelling to other countries.</p>
 
-<p>One thing that I left out of this page was to have Granger and Moody confirm each other's identities before leaving the Ministry. It would have added to the "Moody is totally serious about security, and so is Granger" thing, but I couldn't come up with a good way to do it. They could have security questions, but it's hard to come up with shared information that can't also be guessed by someone who's been planning to impersonate you, and the bigger threat is if the person is under the Imperius Curse (Can the curse force someone to give the proper answer to a question? I'd guess that it can). The real Granger can resist the Imperius Curse, but it wouldn't be Moody's style to trust in that.</p><p>The only clever solution I came up with was for the two parties to make an Unbreakable Vow that they would truthfully reveal their identity and whether they're acting of their own free will. However, if that style of thing worked, people could use Unbreakable Vows for all kinds of things, which would change a lot of stuff about society in unexpected ways. So I figure there must be some major additional restrictions on the Vow that make it undesirable for general use. (Also, it requires a third person.)</p>""",
+<p>One thing that I left out of this page was to have Granger and Moody confirm each other's identities before leaving the Ministry. It would have added to the "Moody is totally serious about security, and so is Granger" thing, but I couldn't come up with a good way to do it. They could have security questions, but the bigger threat is if the person is under the Imperius Curse. (Can that curse force someone to give the proper answer to a question? I'd guess that it can.) The real Granger can resist the Imperius Curse, but it wouldn't be Moody's style to trust in that.</p><p>The only clever solution I came up with was for the two parties to make an Unbreakable Vow that they would truthfully reveal their identity and whether they're acting of their own free will. However, if that style of thing worked, people could use Unbreakable Vows for all kinds of things, which would change a lot of stuff about society in unexpected ways. So I figure there must be some major additional restrictions on the Vow that make it undesirable for general use. (Also, it requires a third person.)</p>""",
 },
 {
   "force_id":"829e44ef515bc2933e02bc6e5633e59f",
