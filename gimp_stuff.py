@@ -16,6 +16,10 @@ def gimp_batch(command):
   print("finished GIMP batch command")
   #print("gimp --no-interface --batch='"+command+"'")
 
+def optimize (file, lossy = True):
+  if lossy: subprocess.run (["pngquant", "--ext .png", "--force", "--skip-if-larger", "--quality 70-100", "--speed 1", "--verbose", "--", file])
+  subprocess.run (["optipng", "-o4", file])
+
 def generate_images(infile_path, infile_base, outfile_base, width, height, target_width, scale_full_page):
   output_dir = "./media/generated_from_source_files/"
   infile = infile_path+infile_base
@@ -36,21 +40,24 @@ def generate_images(infile_path, infile_base, outfile_base, width, height, targe
         (thumbnail_full_drawable (car (gimp-image-get-active-layer thumbnail_full)))
       )
   '''+ ('''(gimp-image-scale-full page '''+ str (target_width) +''' '''+ str (height*target_width//width) +''' INTERPOLATION-CUBIC)
-  (gimp-image-convert-indexed page FIXED-DITHER MAKE-PALETTE 127 FALSE FALSE "")''' if scale_full_page else "") +'''
+  ; (gimp-image-convert-indexed page FIXED-DITHER MAKE-PALETTE 127 FALSE FALSE "")''' if scale_full_page else "") +'''
   (file-png-save RUN-NONINTERACTIVE page page_drawable "'''+page_outfile+'" "'+page_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete page)
   
   (gimp-image-crop thumbnail_top '''+ str (width//2) +''' '''+ str (78*width//600) +''' 0 0)
   (gimp-image-scale-full thumbnail_top 300 78 INTERPOLATION-CUBIC)
-  (gimp-image-convert-indexed thumbnail_top NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
+  ; (gimp-image-convert-indexed thumbnail_top NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
   (file-png-save RUN-NONINTERACTIVE thumbnail_top thumbnail_top_drawable "'''+thumbnail_top_outfile+'" "'+thumbnail_top_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete thumbnail_top)
   
   (gimp-image-scale-full thumbnail_full 120 '''+ str (height*120//width) +''' INTERPOLATION-CUBIC)
-  (gimp-image-convert-indexed thumbnail_full NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
+  ; (gimp-image-convert-indexed thumbnail_full NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
   (file-png-save RUN-NONINTERACTIVE thumbnail_full thumbnail_full_drawable "'''+thumbnail_full_outfile+'" "'+thumbnail_full_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete thumbnail_full)
 )''')
+  optimize (page_outfile, True if scale_full_page else False)
+  optimize (thumbnail_top_outfile)
+  optimize (thumbnail_full_outfile)
 
 #I know, I know, hard-coding file paths on my own system isn't the proper way to do this.
 #In the future, I should probably make a second git repository for the comic source files.
