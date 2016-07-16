@@ -17,7 +17,7 @@ def gimp_batch(command):
   #print("gimp --no-interface --batch='"+command+"'")
 
 def optimize (file, lossy = True):
-  if lossy: subprocess.run (["pngquant", "--ext", ".png", "--force", "--skip-if-larger", "--quality=70-100", "--speed 1", "--verbose", "256", "--", file])
+  if lossy: subprocess.run (["pngquant", "--ext=.png", "--force", "--skip-if-larger", "--quality=70-100", "--speed=1", "--verbose", "256", "--", file])
   subprocess.run (["optipng", "-o4", file])
 
 def generate_images(infile_path, infile_base, outfile_base, width, height, target_width, scale_full_page):
