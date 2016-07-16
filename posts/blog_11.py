@@ -99,7 +99,7 @@ I started redesigning this website in 2013, and it is now finally, <em>finally</
 
 <li>The new design is usable on small screens, like cell phones.</li>
 
-<li class="hidden_from_restricted_users">You can now get email updates directly, without creating a username/password. You can also post comments without logging in. In fact, I have destroyed the user accounts entirely. Making you log in was overkill for a website like this one.</li>
+<li class="hidden_from_restricted_users">You can now get email updates directly, without creating a username/password. (Just look in the right sidebar.) You can also post comments without logging in. In fact, I have destroyed the user accounts entirely. Making you log in was overkill for a website like this one.</li>
 
 <li class="hidden_from_restricted_users"> <a href="https://www.patreon.com/EliDupree"> I now have a Patreon page!</a> If you have spare $$$, you can pledge a certain amount for each major new work I create. That'll encourage me to post more awesome stuff! (On Patreon, you can choose your own pledge amount, set a monthly maximum, and cancel your pledge whenever you want. So it's completely up to you how much you're willing to part with. You can see more details <a href="https://www.patreon.com/EliDupree">on the actual page</a>.)</li>
 </ul>
@@ -125,6 +125,10 @@ I started redesigning this website in 2013, and it is now finally, <em>finally</
 In the past, I haven't had a very good record of sticking to consistent updates. However, I've been consistently working on this redesign almost every day of the last month. That's a pretty good sign. And the new design is much easier for <em>me</em> to use, as well. There's a bunch of things that I haven't posted here because I couldn't think of a good way to bake them into my website. Now, the good way is almost automatic.
 
 Also, I have plans! I have planned out more than a dozen new blog posts. I also have more than a dozen old stories and other things that I haven't posted here yet, and I plan to edit those things and post them as well.
+
+Here's my plan for a schedule: I'll be posting about two new things each week. I'll definitely post one thing on each <strong>Wednesday</strong>, like clockwork. Between each Wednesday and the next, I'll post zero-to-two additional things, whenever I feel like it. I will also try to loosely alternate between blog posts and other works.
+
+Get ready for an Eli Dupree-filled future!
 
 ''',
 },
