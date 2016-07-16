@@ -75,4 +75,57 @@ posts = [
 
 ''',
 },
+
+{
+"title": "I'm back, and with new treasures!",
+"tags": ["this website", "announcements"],
+"auto_paragraphs": True,
+"contents":'''
+The story of the last three years isn't very interesting. My hand problems got better, but then they came back again. Then they got better again, then they came back again, and so on. They're still not entirely recovered, and I'm still trying to see different doctors to figure out what the real issue is. It's no fun.
+
+<p><em>However!</em></p>
+
+Since last June, I have had working speech-recognition software. I can now do most of my work by voice, even computer programming. I've been making a bunch of interesting things this way, I just haven't shared them on this website yet.
+
+That's because this website was hard for me to use.
+
+<p><em>However!</em></p>
+
+I started redesigning this website in 2013, and it is now finally, <em>finally</em> finished. All of the old posts are still here, but I rebuilt everything else from scratch. There are so many improvements that I can't possibly list them all. Here are some of the big <cut>ones:
+
+<h2>Big design changes!</h2>
+<ul class="big_list">
+<li>The whole website is easier to navigate. The old design had a mess of different index pages that were hard to find. Now, the links in the top bar will let you find everything on the website efficiently. The comics have better archive pages as well.</li>
+
+<li>The new design is usable on small screens, like cell phones.</li>
+
+<li class="hidden_from_restricted_users">You can now get email updates directly, without creating a username/password. You can also post comments without logging in. In fact, I have destroyed the user accounts entirely. Making you log in was overkill for a website like this one.</li>
+
+<li class="hidden_from_restricted_users"> <a href="https://www.patreon.com/EliDupree"> I now have a Patreon page!</a> If you have spare $$$, you can pledge a certain amount for each major new work I create. That'll encourage me to post more awesome stuff! (On Patreon, you can choose your own pledge amount, set a monthly maximum, and cancel your pledge whenever you want. So it's completely up to you how much you're willing to part with. You can see more details <a href="https://www.patreon.com/EliDupree">on the actual page</a>.)</li>
+</ul>
+
+<p class="hidden_from_restricted_users"> A few things were lost in the transition. The old website had more precise control of email notifications. Unfortunately, I had to replace the email system, because it was bad and it tended to end up in people's spam folders. The new system just notifies you of each thing I post, but not user comments. Currently, if you want to keep track of new comments, you have to visit <a href="/">the main page</a> or <a href="/blog">the blog page</a>.</p>
+
+<h2>New and improved content!</h2>
+<ul class="big_list">
+
+
+<li>I have edited a lot of the old posts! Because I <a href="/blog/this-is-a-child-friendly-website">don't want to exclude anybody</a>, I used a formula to estimate the reading difficulty of each post. Then I edited the ones that were too difficult. I especially focused on the neurodiversity post, because it's very important and I want it to be readable.</li>
+
+<li>I edited most of the annotations of Voldemort's Children! Especially the early ones. Later in the comic, as I got more experienced, I developed a consistent style for the annotations. The earlier ones were more random. So I changed them to use the new, better style, and I added a bunch of new interesting notes as well. I also fixed a few typos in the comic itself, and changed the colors of some things that were the wrong color. I still won't be able to finish <em>drawing</em> the comic for a while yet, because of my hand problems.</li>
+<li>I finally wrote a transcript for People Are Wrong Sometimes, and added some author's notes at the end as well.</li>
+
+
+<li>I've made a new <a href="/about-eli">about me page</a>.</li>
+
+<li>The <a href="/games/green-caves">green caves game</a> now has time travel in it!</li>
+</ul>
+<h2>The future is looking awesome!</h2>
+
+In the past, I haven't had a very good record of sticking to consistent updates. However, I've been consistently working on this redesign almost every day of the last month. That's a pretty good sign. And the new design is much easier for <em>me</em> to use, as well. There's a bunch of things that I haven't posted here because I couldn't think of a good way to bake them into my website. Now, the good way is almost automatic.
+
+Also, I have plans! I have planned out more than a dozen new blog posts. I also have more than a dozen old stories and other things that I haven't posted here yet, and I plan to edit those things and post them as well.
+
+''',
+},
 ]

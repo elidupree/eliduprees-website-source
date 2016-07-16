@@ -195,7 +195,7 @@ In a thought bubble, we see what Ilse imagines Lucia is doing right now. Lucia a
 Outside the thought bubble, Ilse is still on the airplane, imagining this happening to Lucia. Ilse makes a rude gesture and grins for the first time. ''','''
 <h2>Author's notes</h2>
 
-<p>I wrote this in 2011. It was my first serious graphic story, and only my second story that emphasized neurodiversity. I have mixed feelings about it now.</p>
+<p>I wrote this in 2011. It was my first serious graphic story, and only my second story that emphasized neurodiversity. Now, in 2016, I have mixed feelings about it.</p>
 
 <p>What is the point of this story?</p>
 
