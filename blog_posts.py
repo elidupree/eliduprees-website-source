@@ -102,7 +102,11 @@ def stories_index (full):
   big_story ("Not What I Am") +
   big_story ("Time Travelers and How to Kill Them: a Practical Guide") +
   group ("Short stories",
-    small_story ("Capitalism Sat") + small_story ("Will You Try to Escape?")
-  )
-  + (category_pages.exhibit ("/blog/tags/story-ideas", "", None, '''<p>Finally, I share <span class="restore_link">additional story ideas on my blog</span> when they are clever enough to be worth sharing, but not compelling enough that I want to write them up in full.</p>''', None) if full else '<div class=" big_story"><div class=" index_entry"> <a href="/blog/tags/story-ideas">Story ideas</a> </div> </div> ')
+    small_story ("Capitalism Sat") + 
+    small_story ("Will You Try to Escape?") +
+    small_story ("The Sieve") +
+    small_story ("Nothing Is Wrong In This World") +
+    ""
+  ) +
+  (category_pages.exhibit ("/blog/tags/story-ideas", "", None, '''<p>Finally, I share <span class="restore_link">additional story ideas on my blog</span> when they are clever enough to be worth sharing, but not compelling enough that I want to write them up in full.</p>''', None) if full else '<div class=" big_story"><div class=" index_entry"> <a href="/blog/tags/story-ideas">Story ideas</a> </div> </div> ')
   )
