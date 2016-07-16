@@ -38,6 +38,7 @@ posts = [
 {
   "title":"Will You Try to Escape?",
   "blurb": "An interactive erotic story about a BDSM scene.",
+  "word_count_override": "5800 words total",
   "force_date":datetime.date(2015, 8, 3),
   "authors_notes":'''<p>This story was made using <a href="https://twinery.org">Twine 2</a>. You can <a href="/media/will-you-try-to-escape.html?rr">download a standalone version of the Twine story here</a> if you want.</p>''',
   "head":'''<style>

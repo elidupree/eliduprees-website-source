@@ -81,7 +81,7 @@ def stories_index (full):
   
   def info (story):
     words = utils.word_count (story ["contents"])
-    return " [" + str(((words + 50)//100)*100) + " words]"
+    return " [" + (story ["word_count_override"] if "word_count_override" in story else str(((words + 50)//100)*100) + " words") + "]"
   
   def big_story (story):
     if story not in stories_map:
