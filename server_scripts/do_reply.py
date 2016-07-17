@@ -9,6 +9,9 @@ def ajax_func():
   import forms
   import random
   import datetime
+  import urllib.request
+  import urllib.parse
+  import secrets
 
   if os.environ["REQUEST_METHOD"] != "POST":
     raise error_stuff.WebsiteError("Oops! This request used a method that is not POST. Either there's a bug in my code, or you're trying to hack my website.")
@@ -38,6 +41,12 @@ Secret ID: '''+ secret_comment_identifier
     preview_items.append('''<p>This post has <span class="skepticism">broken HTML tags</span>. (If you choose to leave them there, they will not be marked in the final post.)</p>''')
   if scrutinies > 0:
     preview_items.append('''<p>By the way, certain words are <span class="scrutiny">scrutinized</span> on this website. Each word links to an explanation of why I scrutinize it.</p>''')
+
+  if request_type == "submit":
+    request = urllib.request.Request ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.parse.urlencode ({"value1": reviewable_text}))
+    response = urllib.request.urlopen (request)
+    if response.status != 200:
+      raise WebsiteError ("Your comment failed to be delivered.)
 
   preview_items.append('<div class="comment_body">'+postprocessed_string+'</div>')
 
