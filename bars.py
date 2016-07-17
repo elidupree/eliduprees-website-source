@@ -105,6 +105,8 @@ div.home_page_outer h2 {color: #776;font-size: 150%; font-weight: bold; margin-b
 div.home_page_recent_updates {display: inline-block; font-size: 75%; background-color:#ffc; padding: 0.7em;border-radius:1.3em; margin-top:4em;}
 div.home_page_outer div.stream_media_reference_outer {text-align: left; }
 div.home_page_outer a.stream_media_reference {text-align: left; background-color: transparent; font-weight: normal;}
+
+.feed_icon_14x14 {width:14px; height:14px;}
   
 @media screen and (max-height: 34em) {
   div.home_page_buffer div.top_bar_home {
@@ -195,7 +197,7 @@ div.home_page_outer a.stream_media_reference {text-align: left; background-color
 ''')
 
 def bottom_bar_contents(info):
-  return 'Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl bottom_bar_short">Contact: '+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'</address>'+utils.inline_separator+'<a class="bottom_bar_short" href="/about-eli">About Eli</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/policies">Policies</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/atom.xml"><img src="/media/feed-icon-14x14.png?rr" alt=""> RSS (Atom)</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a>'
+  return 'Please share this!'+utils.inline_separator+'<address class="eli_exmxaxixl bottom_bar_short">Contact: '+exmxaxixl.a(exmxaxixl.axdxrxexsxs)+'</address>'+utils.inline_separator+'<a class="bottom_bar_short" href="/about-eli">About Eli</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/policies">Policies</a>'+utils.inline_separator+'<a class="bottom_bar_short" href="/atom.xml"><img class="feed_icon_14x14" src="/media/feed-icon-14x14.png?rr" alt=""> RSS (Atom)</a>'+utils.inline_separator+'<a href="https://github.com/elidupree/eliduprees-website-source">Website source (code CC-0, content CC-BY-SA)</a>'
 def bottom_bar(info):
   return '<footer><div id="footer" class="bottom_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'"><div class="bottom_bar_inner">'+bottom_bar_contents(info)+'</div></div></footer>'
 
