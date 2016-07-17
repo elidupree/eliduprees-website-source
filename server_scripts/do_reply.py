@@ -46,7 +46,7 @@ Secret ID: '''+ secret_comment_identifier
     request = urllib.request.Request ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.parse.urlencode ({"value1": reviewable_text}))
     response = urllib.request.urlopen (request)
     if response.status != 200:
-      raise WebsiteError ("Your comment failed to be delivered.)
+      raise WebsiteError ("Your comment failed to be delivered.")
 
   preview_items.append('<div class="comment_body">'+postprocessed_string+'</div>')
 
