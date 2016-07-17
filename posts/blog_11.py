@@ -132,4 +132,13 @@ Get ready for an Eli Dupree-filled future!
 
 ''',
 },
+
+{
+"title": "test post for initial testing of MailChimp",
+"tags": ["this website", "announcements"],
+"auto_paragraphs": True,
+"contents":'''
+foobar''',
+},
+
 ]

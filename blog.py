@@ -393,7 +393,7 @@ function expand_reply_box(elem, id) {
       var secret_string = "unavailable";
       if (do_secret_comment_identifiers && request_type === 'submit') {replace_secret_comment_identifier (); secret_string = read_cookie ("secret_comment_identifier");}
       $.post({
-        'url':'https://www.elidupree.com/do_reply.py',
+        'url': '/_services/comments',
         'timeout':10000,
         'data': {
           'request_type': request_type,
