@@ -21,6 +21,7 @@ def ajax_func():
   username     = forms.ensure_presence_and_uniqueness_of_and_get_field("username"    )
   contents     = forms.ensure_presence_and_uniqueness_of_and_get_field("contents"    )
   secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field("secret_comment_identifier")
+  last_secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field(" last_secret_comment_identifier")
   
 
   preview_items = []
@@ -34,7 +35,8 @@ def ajax_func():
   "date_posted":datetime.date('''+datetime.date.today().strftime("%Y, %-m, %-d")+''')
 },
 
-Secret ID: '''+ secret_comment_identifier
+Secret ID: '''+ secret_comment_identifier +'''
+Last secret ID: '''+ last_secret_comment_identifier
 
   (postprocessed_string, scrutinies, broken_tags_marked) = blog_server_shared.postprocess_post_string(contents, None, None, True);
   if broken_tags_marked:
