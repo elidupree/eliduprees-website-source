@@ -91,7 +91,7 @@ That's because this website was hard for me to use.
 
 <p><em>However!</em></p>
 
-I started redesigning this website in 2013, and it is now finally, <em>finally</em> finished. All of the old posts are still here, but I rebuilt everything else from scratch. There are so many improvements that I can't possibly list them all. Here are some of the big <cut>ones:
+I started redesigning this website in 2013, and now it's finally, <em>finally</em> finished. All of the old posts are still here, but I rebuilt everything else from scratch. There are so many improvements that I can't possibly list them all. Here are some of the big <cut>ones:
 
 <h2>Big design changes!</h2>
 <ul class="big_list">
@@ -110,7 +110,7 @@ I started redesigning this website in 2013, and it is now finally, <em>finally</
 <ul class="big_list">
 
 
-<li>I have edited a lot of the old posts! Because I <a href="/blog/this-is-a-child-friendly-website">don't want to exclude anybody</a>, I used a formula to estimate the reading difficulty of each post. Then I edited the ones that were too difficult. I especially focused on the neurodiversity post, because it's very important and I want it to be readable.</li>
+<li>I have edited a lot of the old posts! Because I <a href="/blog/this-is-a-child-friendly-website">don't want to exclude anybody</a>, I used a formula to estimate the reading difficulty of each post. Then I edited some of the ones that were too difficult. I especially focused on the neurodiversity post, because it's very important and I want it to be readable.</li>
 
 <li>I edited most of the annotations of Voldemort's Children! Especially the early ones. Later in the comic, as I got more experienced, I developed a consistent style for the annotations. The earlier ones were more random. So I changed them to use the new, better style, and I added a bunch of new interesting notes as well. I also fixed a few typos in the comic itself, and changed the colors of some things that were the wrong color. I still won't be able to finish <em>drawing</em> the comic for a while yet, because of my hand problems.</li>
 <li>I finally wrote a transcript for People Are Wrong Sometimes, and added some author's notes at the end as well.</li>
