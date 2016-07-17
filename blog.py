@@ -395,6 +395,9 @@ function expand_reply_box(elem, id) {
       $.post({
         'url': '/_services/comments',
         'timeout':10000,
+        'headers': {
+          'X-Not-A-Simple-Crossdomain-Request': 'yes',
+        },
         'data': {
           'request_type': request_type,
           'parent': id,

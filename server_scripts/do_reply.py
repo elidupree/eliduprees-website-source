@@ -7,6 +7,8 @@ def ajax_func():
   import os
   import re
   import forms
+  import random
+  import datetime
 
   if os.environ["REQUEST_METHOD"] != "POST":
     raise error_stuff.WebsiteError("Oops! This request used a method that is not POST. Either there's a bug in my code, or you're trying to hack my website.")
@@ -15,7 +17,7 @@ def ajax_func():
   parent       = forms.ensure_presence_and_uniqueness_of_and_get_field("parent"      )
   username     = forms.ensure_presence_and_uniqueness_of_and_get_field("username"    )
   contents     = forms.ensure_presence_and_uniqueness_of_and_get_field("contents"    )
-  secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field(" secret_comment_identifier")
+  secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field("secret_comment_identifier")
   
 
   preview_items = []
@@ -44,5 +46,5 @@ Secret ID: '''+ secret_comment_identifier
 ''' + "".join(preview_items)
 
 
-print errors.ajax_or_error(True, ajax_func)
+print (errors.ajax_or_error(ajax_func))
 

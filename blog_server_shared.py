@@ -4,8 +4,6 @@ from __future__ import division
 
 import re
 
-import utils
-
 # You usually need to use re.DOTALL with this.
 def grouped_string_regex(groupname):
   return r'[(](?P<delim_'+groupname+'>[^(]*)[(](?P<'+groupname+'>.*?)[)](?P=delim_'+groupname+')[)]'
@@ -80,7 +78,7 @@ def postprocess_post_string(initial_string, unique_id, title, mark_broken_tags, 
 
   # HACK: This currently has to be the FIRST operation done on the post string because it compares directly to the post_string
   if mark_broken_tags:
-    result_string = re.sub(chars_to_html_escapements["<"]+"/?[a-z]+/?"+chars_to_html_escapements[">"], lambda pattern: '<span class="skepticism">'+pattern.group(0)+'</span>', initial_string)
+    result_string = re.sub("&lt;"+"/?[a-z]+/?"+"&gt;", lambda pattern: '<span class="skepticism">'+pattern.group(0)+'</span>', initial_string)
     if result_string != initial_string:
       marked_broken_tags = True
 
