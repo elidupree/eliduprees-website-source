@@ -183,6 +183,9 @@ Disallow: /''')
     time.sleep(1)
     if '--no-idupree-websitepy-tests' not in sys.argv:
       idupree_websitepy.tests.test(config)
+      if "--deploy" in sys.argv:
+        with open (build_dir + "/deploy_ready") as deploy_file:
+          deploy_file.write ("yes")
 
 if __name__ == '__main__':
   main()
