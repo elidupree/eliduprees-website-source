@@ -391,7 +391,12 @@ function expand_reply_box(elem, id) {
       set_cookie('username', username_input.value, 30);
       preview_space.innerHTML = "Processing...";
       var secret_string = "unavailable";
-      if (do_secret_comment_identifiers && request_type === 'submit') {replace_secret_comment_identifier (); secret_string = read_cookie ("secret_comment_identifier");}
+      var last_secret_string = "also unavailable";
+      if (do_secret_comment_identifiers && request_type === 'submit') {
+        last_secret_string = read_cookie ("secret_comment_identifier");
+        replace_secret_comment_identifier (); 
+        secret_string = read_cookie ("secret_comment_identifier");
+      }
       $.post({
         'url': '/_services/comments',
         'timeout':10000,
@@ -404,6 +409,7 @@ function expand_reply_box(elem, id) {
           'username': username_input.value,
           'contents': contents_input.value,
           'secret_comment_identifier': secret_string,
+          'last_secret_comment_identifier': last_secret_string,
         },
         'error': function (request, status, error) {
           if (status === 'timeout') {
