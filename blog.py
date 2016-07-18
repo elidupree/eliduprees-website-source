@@ -121,12 +121,24 @@ div.post_content_section {
   padding:'''+str(text_padding_width)+'''em;
   background-color: white; }
 
+div.skip_to_demoted_sidebar {display: none;
+  background-color: '''+metacontent_color_IE8+''';
+  background-color: '''+metacontent_color+''';
+  margin-top:'''+str(post_vertical_separation)+'''em;
+  padding:0.6em;
+font-weight: bold;
+margin-left: 1.5em;
+margin-right: 1.5em;
+  text-align: center;}
+
 @media screen and (max-width: '''+str(post_padded_max_width+4*nice_narrow_margin+2*right_bar_padded_width)+'''em) {
   div.blog_page_limits { width: 100%; }
 }
 @media screen and (max-width: '''+str(post_padded_max_width+3*nice_narrow_margin+right_bar_padded_width)+'''em) {
   div.blog_stream      { width: auto; }
   div.blog_left_margin { width: '''+str(nice_narrow_margin)+'''em; }
+  
+  div.blog_post h1 { font-size: 200%;}
 }
 @media screen and (max-width: '''+str(post_padded_min_width+3*nice_narrow_margin+right_bar_padded_width)+'''em) {
   div.blog_left_margin { width: auto; }
@@ -147,6 +159,8 @@ div.post_content_section {
   div.blog_right_bar     { display: block; width: auto; }
   div.post_content_section { padding:'''+str(text_padding_width_narrow)+'''em; }
   div.blog_right_bar_inner { padding:'''+str(text_padding_width_narrow)+'''em; }
+  
+  div.skip_to_demoted_sidebar {display: block;}
 }
   
 a.post_title_link { color:black; text-decoration:none; }
@@ -831,6 +845,7 @@ def make_blog_page_body(main_contents, sidebar_contents):
   <a class="skip" href="#content">Skip to content</a><a class="skip" href="#blog-sidebar">Skip to blog sidebar</a>
   <div><img role="presentation" alt="" class="background" src="/media/colorful-background.jpg?rr" /></div>
   '''+bars.bars_wrap({"blog":True}, '''
+    <div class="skip_to_demoted_sidebar"> <a href="#blog-sidebar"> Skip to index</a> </div>
     <main>
       <div id="content" class="blog_page">
         <div class="blog_page_limits">
