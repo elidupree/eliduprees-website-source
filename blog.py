@@ -534,7 +534,8 @@ def post_metadata(post_dict):
     changed_metadata = True
   metadata = posts_metadata[post_dict["title"]]
   
-  if False: #deploying
+  import sys
+  if "--deploy" in sys.argv: 
     if remember_post_dict_entry("contents", metadata, post_dict):
       changed_metadata = True
     if remember_post_dict_entry("transcript", metadata, post_dict):

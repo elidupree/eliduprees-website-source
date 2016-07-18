@@ -27,7 +27,14 @@ def main():
   if '--future' in sys.argv:
     upload_to_future()
   if '--prod' in sys.argv:
-    upload_to_prod()
+    ready = False
+    with open ("./build/initial/deploy_ready") as deploy_file:
+      if deploy_file.read () == "yes":
+        ready = True
+    if not ready:
+      print ("Not ready for deployment. Run `./build.py --deploy` first.")
+    else:
+      upload_to_prod()
 
 if __name__ == '__main__':
   main()
