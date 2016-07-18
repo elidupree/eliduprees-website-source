@@ -9,8 +9,8 @@ def ajax_func():
   import forms
   import random
   import datetime
-  import urllib.request
-  import urllib.parse
+  import urllib
+  import urllib2
   import secrets
 
   if os.environ["REQUEST_METHOD"] != "POST":
@@ -43,9 +43,8 @@ Secret ID: '''+ secret_comment_identifier
     preview_items.append('''<p>By the way, certain words are <span class="scrutiny">scrutinized</span> on this website. Each word links to an explanation of why I scrutinize it.</p>''')
 
   if request_type == "submit":
-    request = urllib.request.Request ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.parse.urlencode ({"value1": reviewable_text}))
-    response = urllib.request.urlopen (request)
-    if response.status != 200:
+    response = urllib.urlopen ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.urlencode ({"value1": reviewable_text}))
+    if response.getcode() != 200:
       raise WebsiteError ("Your comment failed to be delivered.")
 
   preview_items.append('<div class="comment_body">'+postprocessed_string+'</div>')
