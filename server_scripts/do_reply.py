@@ -21,7 +21,7 @@ def ajax_func():
   username     = forms.ensure_presence_and_uniqueness_of_and_get_field("username"    )
   contents     = forms.ensure_presence_and_uniqueness_of_and_get_field("contents"    )
   secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field("secret_comment_identifier")
-  last_secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field(" last_secret_comment_identifier")
+  last_secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field("last_secret_comment_identifier")
   
 
   preview_items = []
