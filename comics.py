@@ -300,6 +300,10 @@ comics_metadata = {
   },
 }
 
+if "--deploy" in sys.argv:
+  for category in comics_pages:
+    comics_pages [category] = [post for post in comics_pages [category] if "don't deploy" not in post]
+    
 for comic_id,page_list in comics_pages.items():
   for i in range(0,len(page_list)):
     page_list[i]["comic_id"] = comic_id

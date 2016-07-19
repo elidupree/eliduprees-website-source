@@ -5,6 +5,7 @@ import datetime
 import re
 import utils
 import css
+import sys
 
 import posts.blog_01
 import posts.blog_02
@@ -58,6 +59,10 @@ posts = {
 }
 
 signature = "<p> &ndash; Eli</p>"
+
+if "--deploy" in sys.argv:
+  for category in posts:
+    posts [category] = [post for post in posts [category] if "don't deploy" not in post]
 
 for cat,post_list in posts.items():
   for post_dict in post_list:
