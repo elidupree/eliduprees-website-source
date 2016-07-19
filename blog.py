@@ -604,6 +604,17 @@ def post_permalink(post_dict):
     return "/stories/"+utils.format_for_url(post_dict["parent_story"])+"/discussion"
   return post_dict["path_prefix"]+url_formatted_title(post_dict)
 
+
+def story_discussion_post (post_dict):
+  return {
+          "title": post_dict["title"]+": Discussion",
+          "contents": '''<p>If you haven't read <a href="'''+post_permalink(post_dict)+'''">'''+post_dict["title"]+'''</a> yet, you should do that before reading further.</p>'''+(post_dict["authors_notes"] if "authors_notes" in post_dict else "<p>There are no author's notes yet.</p>"),
+          "parent_story": post_dict["title"],
+          "category": "" # Not treated as a story.
+        }
+
+
+
 comment_is_on = {
 #hack: these names should probably not be hardcoded here
 "hexy":{"canonical_link": "/hexy", "title": "Hexy Bondage"},
@@ -613,6 +624,10 @@ comment_is_on = {
 for cat, post_list in blog_posts.posts.items ():
   for post in post_list:
     comment_is_on [post_metadata (post) ["id"]] = {"canonical_link": post_permalink (post), "title": post ["title"]}
+    if cat == "stories":
+      post = story_discussion_post (post)
+      comment_is_on [post_metadata (post) ["id"]] = {"canonical_link": post_permalink (post), "title": post ["title"]}
+
 for cat, post_list in comics.comics_pages.items ():
   for post in post_list:
     comment_is_on [post_metadata (post) ["id"]] = {"canonical_link": comics.page_url (post), "title": post ["title"]}

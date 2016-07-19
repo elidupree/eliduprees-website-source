@@ -3,6 +3,7 @@
 from __future__ import division
 
 import re
+import sys
 import utils
 import css
 import javascript
