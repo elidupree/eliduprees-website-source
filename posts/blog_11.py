@@ -133,14 +133,51 @@ Get ready for an Eli Dupree-filled future!
 ''',
 },
 
+{
+"title": "Story idea: The legendary monster hunter",
+"tags": ["story ideas"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"contents":'''
+A legendary monster hunter arrives from another world.
+
+In zir own world, people are generally good to each other, but they can be transformed into monsters by curses. Some monsters are huge and grotesque, but others look a lot like humans. When people turn into monsters, monster hunters have to stop them &ndash; sometimes by killing the monsters, but usually by ending the curses that caused the problem in the first place.
+
+When the legendary monster hunter appears in our world, ze is shocked by how often people hurt each other here. But ze quickly comes to a conclusion: our soldiers, our tyrants, our child abusers, are not human. Instead, they are human-like monsters who have been transformed by curses. So ze starts doing the work of stopping them &ndash; sometimes by killing the monsters, but usually by ending the curses that caused the problem in the first place.
+
+<h2> Explanation</h2>
+
+This is basically a fantastical version of my real-life beliefs about justice. Sometimes, fighting and punishment are necessary. But usually, we should focus on fixing the <strong>causes</strong> of injustice.
+
+This story could also have a pretty funny side. It would have a high-fantasy character showing up in the modern world.
+
+<blockquote>
+"You see, sometimes, when a person grows up in an abusive household, they can end up repeating those behaviors towards their own children &ndash;"
+Finally, something was starting to make sense. "Oh! So they're like vampires!"
+
+"Er &ndash; not exactly &ndash;"
+</blockquote> 
+
+I'm imagining zem wearing a lot of leather belts, to carry lots of magic potions and powders that ze uses for monster hunting. Ze'd also have a very friendly and sincere personality. Ze'd be very sincere when real-life people would normally just be polite. That would not only be funny, but also set a good example.
+
+I like this story idea a lot. I don't feel inspired to write it, though. Usually, when I have an idea I like, I leave it in the back of my mind for a while, to see if I come up with ways to develop it further. But I had this idea long time ago, and I haven't really come up with anything.
+
+Maybe one of <strong>you</strong> could write it, though! If you do, I'll probably even put a link to it here. Any takers?
+
+
+
+''',
+},
 ]
 
 """
 
+#A template for new posts, which I copy each time I start one.
 {
 "title": "
 "tags": [],
 "auto_paragraphs": True,
+"don't deploy": True,
 "contents":'''
 
 ''',
