@@ -23,7 +23,9 @@ posts = [
 
 <p>And finally &ndash; if you have triggers, READ THE TRIGGER WARNINGS. Unlike the original series, HP:MoR does NOT gloss over the more horrible things in the world.</p>
 
-<p><a href="http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality">The story begins here</a>, and the (somewhat incomplete, be warned) <a href="http://wiki.lesswrong.com/wiki/MethodsOfRationality/TriggerWarnings">trigger warnings page is here</a>.</p>
+<p><a href="http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality">The story begins here</a>, and the (somewhat incomplete, alas) <a href="http://wiki.lesswrong.com/wiki/MethodsOfRationality/TriggerWarnings">trigger warnings page is here</a>.</p>
+
+<p>I have written <a href="/harry-potter-and-the-methods-of-rationality-commentary">some commentary and theories about certain parts of the story here</a>.</p>
 
 ''',
 },
