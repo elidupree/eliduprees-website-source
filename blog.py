@@ -206,7 +206,7 @@ div.user_comment.indent_children>div.comment_hover_box {  border-left:0.2em soli
   padding-left:0.4em;
   margin-left: '''+str(comment_indent_width-0.6)+'''em; }
 div.comment_body {
-  font-size: 125%;
+  font-size: 111%;
   text-align: left;
   background-color: white;
   padding:0.5em 0.9em; }
