@@ -14,7 +14,7 @@ if (window.msCrypto) {window.crypto = window.msCrypto;}
 window.remove_class = function (element, class_name) {
   element.className = element.className.replace(new RegExp('(\\s|^)'+class_name+'(\\s|$)'), ' ');
 };
-window.remove_class (document.documentElement, 'javascript_disabled')
+window.remove_class (document.documentElement, 'javascript_disabled');
 
 window.delete_cookie = function (name) {
   document.cookie = name+'=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/';
