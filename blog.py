@@ -185,7 +185,7 @@ div.blog_post_metadata_outer {
   padding: 0 0.8em;
   margin-bottom:'''+str(post_vertical_separation)+'''em; }
 div.blog_post_metadata {
-  font-size: 80%;
+  font-size: 90%;
   padding: 0.75em;
   background-color:'''+metacontent_color_IE8+''';
   background-color:'''+metacontent_color+'''; }
@@ -264,7 +264,7 @@ a.blog_end_link.nav.right {
 div.blog_index {
   padding: 0.4em 0; }
 div.index_entry {
-  font-size: 80%;
+  font-size: 90%;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis; }
