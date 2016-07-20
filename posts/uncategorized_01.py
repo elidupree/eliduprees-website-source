@@ -69,6 +69,21 @@ posts = [
   "title":"Harry Potter and the Methods of Rationality: Commentary",
   "auto_paragraphs": True,
   "contents":'''<p>(Spoilers ahoy.)</p>
+<h2>Notes on Chapter 30</h2>
+
+"Girls can win by tricking boys who don't take girls seriously" is not a feminist message.
+
+<h2>Notes on Chapter 33</h2>
+
+Given that Quirrell had specifically avoided having a points system so that Harry couldn't exploit it, I was rather disappointed when Harry didn't think of the best way to exploit the points system they use here.
+
+If Dragon and Chaos really want to shut Sunshine out of the game, they shouldn't go towards Sunshine at all. Instead, they should charge full-speed at <em>each other</em>, and fight very aggressively. After the fight, the winning team will be ahead of Sunshine by at least 23 points. And since Dragon and Chaos are close to evenly matched, the winning team will probably lose most of its members as well. That way, Sunshine would never be able to get back in the game, because there simply wouldn't be enough opponents to shoot in order to gain points.
+
+<p>(I'm ignoring traitors here, but if Sunshine has enough traitors to accumulate nearly 23 points on top of their initial lead, it's practically impossible for them to lose anyway.)</p>
+
+I don't think they would actually <em>use</em> this strategy &ndash; Draco would be too proud to agree to it, even if it does technically win. But Harry should have at least <em>thought</em> of the idea.
+
+<h2>A theory about the ending</h2>
 
 Even before seeing how the end played out, it seemed ridiculous that Voldemort would leave Harry holding zir wand when ze took away all Harry's other stuff and instructed the Death Eaters to restrict zir moves so carefully. Why would Voldemort leave zem the wand? As ze says, "To fathom a plot, look at the consequences and ask if they might be intended." Perhaps Voldemort, or someone controlling zem, intended that Harry use the wand to defeat Voldemort and the Death Eaters.
 
