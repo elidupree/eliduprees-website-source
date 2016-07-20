@@ -13,6 +13,7 @@ def add_game(page_dict):
     <style type="text/css">
 html,body { height: 100%; margin: 0; padding: 0; background-color: #50d050 }
 div,canvas { margin: 0; padding: 0; }
+canvas {width:804px; height:600px; background-color:#4b4; display: block;}
 div.green_caves_content {text-align: center;}
 div.green_caves_content .comments_section {display: inline-block;}
 p {text-align: center; font-size: 120%;}
@@ -26,7 +27,7 @@ p {text-align: center; font-size: 120%;}
       <p>Arrow keys or WASD to move. Point and click to shoot. Click in the <strong>timeline</strong> at the right to return to different points in history!</p>
     </div>
     <div style="margin: 0 auto; width:804px; cursor: crosshair"><canvas id="game_canvas" width="804" height="600">
-Your browser does not support the canvas element.
+The game should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support WebGL.
     </canvas></div>
   <p class="hidden_from_restricted_users">If you like this game, consider <a href="https://www.patreon.com/EliDupree">supporting me on Patreon</a> so that I can continue making awesome things and sharing them for free on the Internet.</p>
   <p> The current version of this game is part of the <a href="https://github.com/elidupree/Lasercake">Lasercake project</a>, and it is licensed under the GNU AGPL. It was compiled as of <a href="https://github.com/elidupree/Lasercake/commit/38117543a3f4d864d8544980c317eb311b4b83ba">this commit</a>.</p>

@@ -16,7 +16,7 @@ def make_page(title, head_stuff, body_stuff, extras = {}):
   else:
     jQuery_after = jQuery
   return '''<!DOCTYPE html>
-<html lang="en"'''+(' class="'+extras["html_class"]+'"' if "html_class" in extras else '')+'''>
+<html lang="en" class="javascript_disabled'''+(' '+extras["html_class"] if "html_class" in extras else '')+'''">
   <head>
     <meta charset="utf-8" />
     <title>'''+title+'''</title>

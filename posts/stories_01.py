@@ -47,6 +47,6 @@ width: 100%; height: 55em;
 }
 
 </style>''',
-  "contents":'''<iframe title="story content" src="/media/will-you-try-to-escape-iframe.html?rr"></iframe>''',
+  "contents":'''<p class="noscript"> (To play this interactive story, you must have JavaScript enabled.)</p> <iframe class="script_required" title="story content" src="/media/will-you-try-to-escape-iframe.html?rr"></iframe>''',
 },
 ]

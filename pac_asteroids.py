@@ -312,7 +312,7 @@ $(function(){
       '''+bars.bars_wrap({"games":True}, '''<main><div id="content" style=" background-color: white; cursor: crosshair">
 
     <div style=" width:640px; margin: 0 auto">    <div id="info"></div><canvas id="game_canvas" width="640" height="480">
-Your browser does not support the canvas element.
+The game should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
     </canvas>
     '''+ blog.comments_section ("pac_asteroids") +''' </div>
   </div>

@@ -52,6 +52,9 @@ a.skip {
   clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
   clip: rect(1px, 1px, 1px, 1px);
 }
+
+html.javascript_enabled .noscript {display: none;}
+html.javascript_disabled .script_required {display: none;}
 '''
 
 # previously   p { margin-top: 0.75em; margin-bottom: 0.75em; }
