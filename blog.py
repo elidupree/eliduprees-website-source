@@ -637,8 +637,8 @@ def comment_stream_entry (comment):
   while ancestor["parent"] in comments_by_id:
     ancestor = comments_by_id [ancestor["parent"] ]
   info = comment_is_on [ancestor["parent"] ]
-  return '<div class="stream_media_reference_outer"><a class="stream_media_reference" href="' + info ["canonical_link"] + "#" + comment ["id"] + '">' + comment ["username"] + " posted a new comment on " + info ["title"] + "</a></div>"
-
+  return (info ["canonical_link"] + "#" + comment ["id"], comment ["username"] + " posted a new comment on " + info ["title"])
+  
 def date_stringify(d):
   #d.strftime("%B %-d, %Y")
   # %- isn't available on Windows, so:
@@ -701,17 +701,17 @@ def post_dict_html(post_dict, stream_only = False):
   return (body, head)  
 
 def very_stream_entry (post):
-  if "username" in post:
-    return comment_stream_entry (post)
+  if "stream_entry" in post:
+    (URL, contents) = post ["stream_entry"]
+  elif "username" in post:
+    (URL, contents) = comment_stream_entry (post)
   elif "contents" in post:
-    return '''
-<div class="stream_media_reference_outer">
-  <a class="stream_media_reference" href="'''+ post_permalink (post) + '">New ' + ("story" if post ["category"] == "stories" else "blog post") + ': ' + post ["title"] + '''</a>
-</div>'''
+    (URL, contents) = (post_permalink (post), 'New ' + ("story" if post ["category"] == "stories" else "blog post") + ': ' + post ["title"]) 
   else:
-    return '''
+    (URL, contents) = (comics.page_url  (post) + '<img src="'+ comics.comic_image_url (post, "thumbnail_full") +'" alt=""> New comic: ' + post ["title"] )
+  return '''
 <div class="stream_media_reference_outer">
-  <a class="stream_media_reference" href="'''+ comics.page_url  (post) + '"> <img src="'+ comics.comic_image_url (post, "thumbnail_full") +'" alt=""> New comic: ' + post ["title"] + '''</a>
+  <a class="stream_media_reference" href="'''+ URL + '">'+ contents + '''</a>
 </div>'''
 
 def stream_entry (post):
