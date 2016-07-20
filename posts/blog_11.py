@@ -147,7 +147,7 @@ When the legendary monster hunter appears in our world, ze is shocked by how oft
 
 <h2> Explanation</h2>
 
-This is basically a fantastical version of my real-life beliefs about justice. Sometimes, fighting and punishment are necessary. But usually, we should focus on fixing the <strong>causes</strong> of injustice.
+This is basically a fantastical version of my <cut>real-life beliefs about justice. Sometimes, fighting and punishment are necessary. But usually, we should focus on fixing the <strong>causes</strong> of abuse.
 
 This story could also have a pretty funny side. It would have a high-fantasy character showing up in the modern world.
 
@@ -162,7 +162,7 @@ I'm imagining zem wearing a lot of leather belts, to carry lots of magic potions
 
 I like this story idea a lot. I don't feel inspired to write it, though. Usually, when I have an idea I like, I leave it in the back of my mind for a while, to see if I come up with ways to develop it further. But I had this idea long time ago, and I haven't really come up with anything.
 
-Maybe one of <strong>you</strong> could write it, though! If you do, I'll probably even put a link to it here. Any takers?
+Maybe one of <strong>you</strong> could write it, though! If you do, I'll even put a link to it here. Any volunteers?
 
 
 

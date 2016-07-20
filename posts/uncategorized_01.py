@@ -11,7 +11,7 @@ posts = [
   "disallow_comments": True,
   "contents":'''<ul class="big_list">
     
-<li>If you comment on a post, <strong>no one else will see it until I approve it</strong>. I make no promises, but I will probably approve anything that's not spam or harassment (or illegal). I may even approve bigoted comments in order to respond to them. It's OK to be misinformed about social issues here, and I hope that this site will educate people. I check incoming comments at least once a day.</li>
+<li>If you comment on a post, <strong>no one else will see it until I approve it</strong>. I make no promises, but I will probably approve anything that's not spam or harassment (or illegal). I may even approve bigoted comments in order to respond to them. It's OK to be misinformed about social issues here, and I hope that this site will educate people. I typically check incoming comments at least once a day.</li>
     
 <li>I am serious about web accessibility. If part of my website is incompatible with an assistive technology, <strong>contact me and I'll try to fix it</strong>. If you see a way I could be more accommodating to people with a certain disability or trait, contact me and I'll try to improve it.</li>
 
