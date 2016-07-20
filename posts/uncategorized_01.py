@@ -15,8 +15,11 @@ posts = [
     
 <li>I am serious about web accessibility. If part of my website is incompatible with an assistive technology, <strong>contact me and I'll try to fix it</strong>. If you see a way I could be more accommodating to people with a certain disability or trait, contact me and I'll try to improve it.</li>
 
-<li>If you sign up for email notifications, I use <a href=" http://mailchimp.com/">MailChimp</a> to send you emails, so your email address can be used as described in <a href=" http://mailchimp.com/legal/privacy/">MailChimp's privacy policy</a>. Other than that, I think your privacy is important, so I won't frivolously share your email address with anyone else. </li>
+<li class="hidden_from_restricted_users">I think your privacy is important, so if you sign up for email notifications, I promise I won't sell your email address to advertisers or anything. Currently, I use <a href=" http://mailchimp.com/">MailChimp</a> to send you emails, so your email address can be used as described in <a href=" http://mailchimp.com/legal/privacy/">MailChimp's privacy policy</a>. </li>
 
+<li><a href="/blog/this-is-a-child-friendly-website"> This is a "child-friendly website", but that doesn't mean what you think it means.</a></li>
+
+<li>Certain words are <strong>scrutinized words</strong> on this website &ndash; particularly <a href="/blog/scrutinized-words-she-he">gendered pronouns</a> and <a href="/blog/scrutinized-words-man-woman-boy-girl">other gendered terms</a>. You're allowed to use them, but they will be marked wherever they appear.</li>
 </ul>''',
 },
 {
@@ -36,7 +39,7 @@ posts = [
 
 <p>A few of my mental traits can be disabling (e.g. oversensitivity to noise and other sensations), so I do consider myself a "person with a disability", but I don't think of my autism as a disability overall.</p>
 
-<p>I'm agender. I've never felt female or male, not even a little bit. I prefer for people to refer to me by gender-neutral terms and <a href="/blog/scrutinized-words-she-he">pronouns</a>. People often assume I'm male, which annoys me, but it doesn't annoy me much more than any other time that people are wrong about something.</p>
+<p>I'm agender. I've never felt female or male, not even a little bit. I prefer for people to refer to me by <a href="/blog/scrutinized-words-she-he">gender-neutral pronouns</a> and <a href="/blog/scrutinized-words-man-woman-boy-girl">other terms</a>. People often assume I'm male, which annoys me, but it doesn't annoy me much more than any other time that people are wrong about something.</p>
 
 <p>I grew up on the Internet. Physically, I grew up in a suburban town in the US Northeast. I was raised by parents who nurtured most of my interests. I went to high-quality public schools, where many of the adults (and some children) mistreated me for my autistic traits and gender expression.</p>
 
@@ -77,7 +80,7 @@ posts = [
 
 Given that Quirrell had specifically avoided having a points system so that Harry couldn't exploit it, I was rather disappointed when Harry didn't think of the best way to exploit the points system they use here.
 
-If Dragon and Chaos really want to shut Sunshine out of the game, they shouldn't go towards Sunshine at all. Instead, they should charge full-speed at <em>each other</em>, and fight very aggressively. After the fight, the winning team will be ahead of Sunshine by at least 23 points. And since Dragon and Chaos are close to evenly matched, the winning team will probably lose most of its members as well. That way, Sunshine would never be able to get back in the game, because there simply wouldn't be enough opponents to shoot in order to gain points.
+If Dragon and Chaos really want to shut Sunshine out of the game, they shouldn't go towards Sunshine at all. Instead, they should charge full-speed at <em>each other</em>, and fight very aggressively. After the fight, the winning team will be ahead of Sunshine by at least 23 points. And since Dragon and Chaos are close to evenly matched, the winning team will probably lose most of its members as well. That way, Sunshine will never be able to get back in the game, because there simply won't be enough opponents to shoot in order to gain points.
 
 <p>(I'm ignoring traitors here, but if Sunshine has enough traitors to accumulate nearly 23 points on top of their initial lead, it's practically impossible for them to lose anyway.)</p>
 
