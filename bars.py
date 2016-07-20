@@ -232,10 +232,10 @@ def add_home_page(page_dict):
           <div class="home_page_bottom">
             <div class="home_page_bottom_inner">
               '''+bottom_bar_contents(info)+'''
-              <div class="home_page_recent_updates">
-                <h2> Recent updates...</h2>
-                '''+ blog.recent_updates (9) +'''
-              </div>
+            </div>
+            <div class="home_page_recent_updates">
+              <h2> Recent updates...</h2>
+              '''+ blog.recent_updates (9) +'''
             </div>
           </div>
         </div>
