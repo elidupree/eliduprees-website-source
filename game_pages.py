@@ -296,6 +296,9 @@ def add_game_pages(page_dict):
   hexy.add_game (page_dict)
   green_caves.add_game (page_dict)
   
+  import voice_practice_tool
+  voice_practice_tool.add_page (page_dict)
+  
   return
   (maze_CSS, maze_HTML) = generate_maze (100, 100)
   
