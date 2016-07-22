@@ -11,7 +11,11 @@ def add_page(page_dict):
       "Voice practice tool ⊂ Eli Dupree's website",
       r'''<style type="text/css">
 html,body {background-color: white;}
-canvas {float: left; margin:2px;}
+div.recording {float: left; margin:3px; padding-left:12px; background-color:#66c;}
+canvas.recording {}
+.control_panel {border-radius:8px;}
+.control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px;}
+.control.selected {background-color:#5f5; color:#000;}
     </style> 
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
@@ -31,7 +35,7 @@ var source;
 var recorder_buffer_length = 4096;
   var rate = audio.sampleRate
   var recorder = audio.createScriptProcessor (recorder_buffer_length, 1, 1);
-  var recording_1_second_width = 10;
+  var recording_1_second_width = rate/4096;
   var recording_height = 100;
   var current_playback;
   var current_recording;
@@ -40,7 +44,7 @@ function stop_playback () {
     var old_player = current_playback.player;
     var redraw = current_playback.recording;
     current_playback = undefined;
-    old_player.stop ();
+    if (old_player) {old_player.stop ();}
     draw_recording (redraw);
     }
   }
@@ -51,15 +55,17 @@ function stop_playback () {
   }
   function create_recording () {
     var output = {buffer: audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: []};
-    output.canvas = $("<canvas/>").attr("width", recording_1_second_width).attr("height", recording_height).click (function (event) {
+    output.canvas = $("<canvas/>").attr("width", 1).attr("height", recording_height).addClass ("recording");
+    output.element = $("<div/>").addClass ("recording").append (output.canvas).click (function (event) {
       var offset = output.canvas.offset ();
       var X = event.pageX - offset.left;
+      if (X <0) {X = 0;}
       stop_playback ();
       var start_position =X/recording_1_second_width;
       var start_function = function () {
-        var start_position =current_playback.start_position + (audio.currentTime - current_playback.start_time);
+        var new_start_position =current_playback.start_position + (audio.currentTime - current_playback.start_time);
         var current_end = output.next_sample/rate;
-        if (start_position >current_end - 0.05) {
+        if (new_start_position >current_end - 0.05) {
           stop_playback ();
           return;
         }
@@ -78,18 +84,19 @@ function stop_playback () {
           if (!(current_playback && current_playback.player=== player)) {return;}
           player.stop ();
           start_function ();
-          }, (current_end - start_position)*500);
-        player.start (audio.currentTime, start_position); 
+          }, (current_end - new_start_position)*500);
+        player.start (audio.currentTime, new_start_position); 
       };
       current_playback = {start_time: audio.currentTime, start_position: start_position, recording: output};
       start_function ();
     });
-    $("main").append (output.canvas);
+    $("main").append (output.element);
     output.canvas_context = output.canvas [0].getContext("2d");
     return output;
   }
   function draw_recording (recording) {
     var context = recording.canvas_context;
+    recording.canvas.attr("width", recording.lines.length);
     if(recording=== current_recording) {
       context.fillStyle = "rgb(0, 0, 0)"
       } else {
@@ -99,8 +106,8 @@ context.strokeStyle = "rgb(255, 0, 0)"
     recording.canvas_context.fillRect (0, 0, recording.canvas.width (), recording.canvas.height ());
 context.beginPath ();
     for (var I = 0; I <recording.lines.length;++I) {
-context.moveTo (I, recording_height/2 + recording.lines [I]*recording_height/512);
-context.lineTo (I, recording_height/2 - recording.lines [I]*recording_height/512);
+context.moveTo (I, recording_height/2 + recording.lines [I]*recording_height/2);
+context.lineTo (I, recording_height/2 - recording.lines [I]*recording_height/2);
     }
 context.stroke ();
     if (current_playback && current_playback.recording=== recording) {
@@ -109,8 +116,7 @@ context.stroke ();
       var X = (current_playback.start_position + (audio.currentTime - current_playback.start_time))*recording_1_second_width; context.moveTo (X, 0); context.lineTo (X, recording_height); context.stroke ();
     }
   }
-  current_recording = create_recording ();
-  analyzer.connect (recorder);
+
   
   analyzer.maxDecibels = 0;
   analyzer.fftSize = 2048;
@@ -118,42 +124,28 @@ context.stroke ();
   var frequency_data = new Uint8Array(buffer_length);
   
   recorder.onaudioprocess = function (event) {
+    if (!current_recording) {return;}
     var input = event.inputBuffer.getChannelData (0);
     var output = current_recording.buffer.getChannelData (0);
+    var square_total = 0;
     for (var sample = 0; sample <recorder_buffer_length;++sample) {
       if (current_recording.next_sample >= current_recording.buffer.length) {
         var old_buffer = current_recording.buffer;
         var old_output = output;
         current_recording.buffer = audio.createBuffer (1, current_recording.buffer.length*2, rate);
-        current_recording.canvas.attr("width", current_recording.canvas.width ()*2);
         output = current_recording.buffer.getChannelData (0);
         for (var I = 0; I <old_buffer.length;++I) {
           output [I] = old_output [I];
         }
       }
       output [current_recording.next_sample] = input [sample];
+      square_total += input [sample]*input [sample];
       ++current_recording.next_sample;
     }
+    var magnitude = Math.sqrt (square_total/4096);
+    current_recording.lines.push (magnitude);
     draw_recording (current_recording);
   }
-  
-  navigator.getUserMedia = (navigator.getUserMedia ||
-                          navigator.webkitGetUserMedia ||
-                          navigator.mozGetUserMedia ||
-navigator.msGetUserMedia);
-  navigator.getUserMedia ({ audio: true },
-
-  // Success callback
-  function(stream) {
-    source = audio.createMediaStreamSource(stream);
-    source.connect(analyzer);
-},
-
-  // Error callback
-  function(err) {
-    console.log('The following gUM error occured: ' + err);
-  }
-);
   
   var last_line_added = audio.currentTime;
   var line_adding_increment = 1/recording_1_second_width;
@@ -172,15 +164,45 @@ navigator.msGetUserMedia);
     }
     canvas.stroke ();
     var average = total/1024;
-    if (audio.currentTime >= last_line_added + line_adding_increment) {
-      current_recording.lines.push (average);
-      last_line_added = last_line_added + line_adding_increment
-    }
     if (current_playback) {draw_recording (current_playback.recording);}
   }
   draw ();
-  
-  $("#histogram_canvas").click (function () {set_current_recording (create_recording ());});
+
+  navigator.getUserMedia = (navigator.getUserMedia ||
+                          navigator.webkitGetUserMedia ||
+                          navigator.mozGetUserMedia ||
+navigator.msGetUserMedia);
+  navigator.getUserMedia ({ audio: true },
+
+  // Success callback
+  function(stream) {
+    source = audio.createMediaStreamSource(stream);
+    source.connect(analyzer);
+    source.connect (recorder);
+    draw ();
+},
+
+  // Error callback
+  function(err) {
+    console.log('The following gUM error occured: ' + err);
+  }
+);  
+
+  $(".control.on").click (function () {
+    $(".control.on").addClass ("selected");
+    $(".control.off").removeClass ("selected");
+    $(".control.auto").removeClass ("selected");
+    
+    set_current_recording (create_recording ());
+  });
+  $(".control.off").click (function () {
+    $(".control.off").addClass ("selected");
+    $(".control.on").removeClass ("selected");
+    $(".control.auto").removeClass ("selected");
+    
+    set_current_recording (undefined);
+  });
+
 });
     </script>'''}
   )
