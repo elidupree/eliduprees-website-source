@@ -22,7 +22,11 @@ canvas.recording {}
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="1024" height="256">
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
     </canvas>
+    
 <div class="control_panel"><div class="control on">On</div><div class="control off selected">Off</div><div class="control auto">Auto</div></div>
+
+<div class="control_panel"><div class="control pause_during_playback selected "> During playback, pause recording and display the playback data in the histogram </div><div class="control no_pause"> During playback, continue recording and displaying the microphone input data in the histogram </div></div>
+
 </main>'''), {"after_body":'''<script type="text/javascript">
 
 $(function(){
@@ -35,16 +39,24 @@ var source;
 var recorder_buffer_length = 4096;
   var rate = audio.sampleRate
   var recorder = audio.createScriptProcessor (recorder_buffer_length, 1, 1);
+  var playback = audio.createGain ();
+  playback.connect (audio.destination);
   var recording_1_second_width = rate/4096;
   var recording_height = 100;
   var current_playback;
   var current_recording;
+  var pause_during_playback = true;
 function stop_playback () {
     if (current_playback) {
     var old_player = current_playback.player;
     var redraw = current_playback.recording;
     current_playback = undefined;
     if (old_player) {old_player.stop ();}
+    source.connect (analyzer);
+    /*disconnecting from only one thing at a time doesn't seem to work*/
+    playback.disconnect (analyzer);
+    playback.connect (audio.destination);
+    
     draw_recording (redraw);
     }
   }
@@ -78,7 +90,7 @@ function stop_playback () {
           else {start_function ();}
         };
         player.onended = finished_function;
-        player.connect (audio.destination);
+        player.connect (playback);
         current_playback.player = player;
         setTimeout (function () {
           if (!(current_playback && current_playback.player=== player)) {return;}
@@ -88,6 +100,12 @@ function stop_playback () {
         player.start (audio.currentTime, new_start_position); 
       };
       current_playback = {start_time: audio.currentTime, start_position: start_position, recording: output};
+      if (pause_during_playback) {
+        source.disconnect (analyzer);
+        /*disconnecting from only one thing at a time doesn't seem to work*/
+        source.connect (recorder);
+        playback.connect (analyzer);
+      }
       start_function ();
     });
     $("main").append (output.element);
@@ -125,6 +143,7 @@ context.stroke ();
   
   recorder.onaudioprocess = function (event) {
     if (!current_recording) {return;}
+    if (current_playback && pause_during_playback) {return;}
     var input = event.inputBuffer.getChannelData (0);
     var output = current_recording.buffer.getChannelData (0);
     var square_total = 0;
@@ -201,6 +220,20 @@ navigator.msGetUserMedia);
     $(".control.auto").removeClass ("selected");
     
     set_current_recording (undefined);
+  });
+
+  $(".control.pause_during_playback").click (function () {
+    $(".control.pause_during_playback").addClass ("selected");
+    $(".control.no_pause").removeClass ("selected");
+    
+    pause_during_playback = true;
+  });
+
+  $(".control.no_pause").click (function () {
+    $(".control.no_pause").addClass ("selected");
+    $(".control.pause_during_playback").removeClass ("selected");
+    
+    pause_during_playback = false;
   });
 
 });
