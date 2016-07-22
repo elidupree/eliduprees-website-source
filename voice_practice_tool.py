@@ -16,12 +16,14 @@ canvas.recording {}
 .control_panel {border-radius:8px;}
 .control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px;}
 .control.selected {background-color:#5f5; color:#000;}
+.recent_box {float: right; width: 300px;}
     </style> 
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="1024" height="256">
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
-    </canvas>
+    </canvas> <div class="recent_box "> When using auto recording, record exactly when the box is not empty. Click to move the corner of the box.<canvas id="recent_magnitudes"></canvas></div>
+     
     
 <div class="control_panel"><div class="control on">On</div><div class="control off selected">Off</div><div class="control auto">Auto</div></div>
 
@@ -34,8 +36,16 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
 
 $(function(){
   var audio = new (window.AudioContext || window.webkitAudioContext)();
-  var canvas = document.getElementById("histogram_canvas").getContext("2d");
-
+  var histogram_canvas = document.getElementById("histogram_canvas").getContext("2d");
+  
+  var recent_magnitudes_size = 20;
+  var recent_magnitudes_scale = 5;
+  var recent_magnitudes_width =recent_magnitudes_size*recent_magnitudes_scale;
+  var recent_magnitudes_height = 300;
+  $("#recent_magnitudes").attr("width", recent_magnitudes_width).attr("height", recent_magnitudes_height);
+  var recent_magnitudes_canvas = document.getElementById("recent_magnitudes").getContext("2d");
+  var recent_magnitudes = [];
+  for (var I = 0; I <recent_magnitudes_size ;++I) {recent_magnitudes.push (0);}
   
 var source;
   var analyzer = audio.createAnalyser ();
@@ -134,7 +144,7 @@ function stop_playback () {
       context.fillStyle = "rgb(50, 50, 50)"
             }
 context.strokeStyle = "rgb(255, 0, 0)"
-    recording.canvas_context.fillRect (0, 0, recording.canvas.width (), recording.canvas.height ());
+    context.fillRect (0, 0, recording.canvas.width (), recording.canvas.height ());
 context.beginPath ();
     for (var I = 0; I <recording.lines.length;++I) {
 context.moveTo (I, recording_height/2 + recording.lines [I]*recording_height/2);
@@ -154,8 +164,7 @@ context.stroke ();
   var buffer_length = analyzer.frequencyBinCount; 
   var frequency_data = new Uint8Array(buffer_length);
   var start_recording_threshold = 0.1;
-  var stop_recording_timeout = 0.5;
-  var last_noise = 0;
+  var stop_recording_timeout = 5;
   
   recorder.onaudioprocess = function (event) {
     var input = event.inputBuffer.getChannelData (0);
@@ -165,18 +174,39 @@ context.stroke ();
     }
     var magnitude = Math.sqrt (square_total/4096);
     
-    if (magnitude >=start_recording_threshold) {
-      last_noise = audio.currentTime;
-      if (auto_recording &&!current_recording) {
+    for (var I = 0; I <recent_magnitudes_size - 1 ;++I) {recent_magnitudes [I] = recent_magnitudes [I + 1];}
+    recent_magnitudes [recent_magnitudes_size - 1] = magnitude;
+    
+    var context = recent_magnitudes_canvas;
+      context.fillStyle = "rgb(0, 0, 0)"
+    context.fillRect (0, 0, recent_magnitudes_width, recent_magnitudes_height);
+      context.fillStyle = "rgb(255, 0, 0)"
+    for (var I = 0; I <recent_magnitudes_size;++I) {
+      context.fillRect (I*recent_magnitudes_scale, recent_magnitudes_height*(1 - recent_magnitudes [I]), recent_magnitudes_scale, recent_magnitudes_height*recent_magnitudes [I]);
+    }
+    context.strokeStyle = "rgb(255, 255, 0)"
+    context.beginPath ();
+      var X = recent_magnitudes_width - stop_recording_timeout*recent_magnitudes_scale;
+      var Y = recent_magnitudes_height*(1 - start_recording_threshold);
+       context.moveTo (X, 0); context.lineTo (X, Y); context.lineTo (recent_magnitudes_width, Y); context.stroke ();
+
+    
+    
+    if (current_playback && pause_during_playback) {return;}
+    
+    if (auto_recording) {
+      var should_record = false;
+      for (var I = recent_magnitudes_size - stop_recording_timeout; I <recent_magnitudes_size ;++I) { if (recent_magnitudes [I] >=start_recording_threshold) {should_record = true; break;}}
+      if (should_record &&!current_recording) {
         set_current_recording (create_recording ());
       }
-    }
-    if (auto_recording && audio.currentTime >last_noise + stop_recording_timeout) {
-      set_current_recording (undefined);
+      if (!should_record && current_recording){
+        set_current_recording (undefined);
+      }
     }
     
     if (!current_recording) {return;}
-    if (current_playback && pause_during_playback) {return;}
+
     var output = current_recording.buffer.getChannelData (0);
     for (var sample = 0; sample <recorder_buffer_length;++sample) {
       if (current_recording.next_sample >= current_recording.buffer.length) {
@@ -201,16 +231,16 @@ context.stroke ();
     requestAnimationFrame (draw);
     analyzer.getByteFrequencyData (frequency_data);
     var total = 0;
-    canvas.fillStyle = "rgb(0, 0, 0)"
-    canvas.strokeStyle = "rgb(255, 0, 0)"
-    canvas.fillRect (0, 0, 1024, 256);
-    canvas.beginPath ();
+    histogram_canvas.fillStyle = "rgb(0, 0, 0)"
+    histogram_canvas.strokeStyle = "rgb(255, 0, 0)"
+    histogram_canvas.fillRect (0, 0, 1024, 256);
+    histogram_canvas.beginPath ();
     for (var I = 0; I <1024;++I) {
       total = total + frequency_data [I];
-      canvas.moveTo (I, 256);
-      canvas.lineTo (I, 256 - frequency_data [I]);
+      histogram_canvas.moveTo (I, 256);
+      histogram_canvas.lineTo (I, 256 - frequency_data [I]);
     }
-    canvas.stroke ();
+    histogram_canvas.stroke ();
     var average = total/1024;
     if (current_playback) {draw_recording (current_playback.recording);}
   }
@@ -287,7 +317,13 @@ auto_playback = true;
 auto_playback = false;
   });
 
-
+  $("#recent_magnitudes").click (function (event) {
+      var offset = $("#recent_magnitudes").offset ();
+            var X = event.pageX - offset.left;
+       var Y = event.pageY - offset.top;
+       start_recording_threshold  = 1-(Y/recent_magnitudes_height);
+  stop_recording_timeout = Math.ceil( (recent_magnitudes_width - X)/recent_magnitudes_scale);
+  });
 });
     </script>'''}
   )
