@@ -27,6 +27,9 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
 
 <div class="control_panel"><div class="control pause_during_playback selected "> During playback, pause recording and display the playback data in the histogram </div><div class="control no_pause"> During playback, continue recording and displaying the microphone input data in the histogram </div></div>
 
+
+<div class="control_panel"><div class="control auto_playback "> Whenever a recording finishes, play it back automatically </div><div class="control no_auto_playback selected "> Don't </div></div>
+
 </main>'''), {"after_body":'''<script type="text/javascript">
 
 $(function(){
@@ -46,6 +49,8 @@ var recorder_buffer_length = 4096;
   var current_playback;
   var current_recording;
   var pause_during_playback = true;
+  var auto_recording = false;
+  var auto_playback = false;
 function stop_playback () {
     if (current_playback) {
     var old_player = current_playback.player;
@@ -63,30 +68,26 @@ function stop_playback () {
   function set_current_recording (recording) {
     var old_recording = current_recording;
     current_recording = recording;
-    if (old_recording) {draw_recording (old_recording);}
+    if (old_recording) {
+      draw_recording (old_recording);
+      if (auto_playback) {begin_playback (old_recording, 0);}
+    }
   }
-  function create_recording () {
-    var output = {buffer: audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: []};
-    output.canvas = $("<canvas/>").attr("width", 1).attr("height", recording_height).addClass ("recording");
-    output.element = $("<div/>").addClass ("recording").append (output.canvas).click (function (event) {
-      var offset = output.canvas.offset ();
-      var X = event.pageX - offset.left;
-      if (X <0) {X = 0;}
-      stop_playback ();
-      var start_position =X/recording_1_second_width;
+  function begin_playback (recording, start_position) {
+  
       var start_function = function () {
         var new_start_position =current_playback.start_position + (audio.currentTime - current_playback.start_time);
-        var current_end = output.next_sample/rate;
+        var current_end = recording.next_sample/rate;
         if (new_start_position >current_end - 0.05) {
           stop_playback ();
           return;
         }
 
         var player = audio.createBufferSource ();
-        player.buffer = output.buffer;
+        player.buffer = recording.buffer;
         var finished_function= function () {
           if (!(current_playback && current_playback.player=== player)) {return;}
-          if (player.buffer === output.buffer) {stop_playback ();}
+          if (player.buffer === recording.buffer) {stop_playback ();}
           else {start_function ();}
         };
         player.onended = finished_function;
@@ -99,7 +100,7 @@ function stop_playback () {
           }, (current_end - new_start_position)*500);
         player.start (audio.currentTime, new_start_position); 
       };
-      current_playback = {start_time: audio.currentTime, start_position: start_position, recording: output};
+      current_playback = {start_time: audio.currentTime, start_position: start_position, recording: recording};
       if (pause_during_playback) {
         source.disconnect (analyzer);
         /*disconnecting from only one thing at a time doesn't seem to work*/
@@ -107,6 +108,18 @@ function stop_playback () {
         playback.connect (analyzer);
       }
       start_function ();
+
+  }
+  function create_recording () {
+    var output = {buffer: audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: []};
+    output.canvas = $("<canvas/>").attr("width", 1).attr("height", recording_height).addClass ("recording");
+    output.element = $("<div/>").addClass ("recording").append (output.canvas).click (function (event) {
+      var offset = output.canvas.offset ();
+      var X = event.pageX - offset.left;
+      if (X <0) {X = 0;}
+      stop_playback ();
+      var start_position =X/recording_1_second_width;
+      begin_playback (output, start_position);
     });
     $("main").append (output.element);
     output.canvas_context = output.canvas [0].getContext("2d");
@@ -140,13 +153,31 @@ context.stroke ();
   analyzer.fftSize = 2048;
   var buffer_length = analyzer.frequencyBinCount; 
   var frequency_data = new Uint8Array(buffer_length);
+  var start_recording_threshold = 0.1;
+  var stop_recording_timeout = 0.5;
+  var last_noise = 0;
   
   recorder.onaudioprocess = function (event) {
+    var input = event.inputBuffer.getChannelData (0);
+    var square_total = 0;
+    for (var sample = 0; sample <recorder_buffer_length;++sample) {
+      square_total += input [sample]*input [sample];
+    }
+    var magnitude = Math.sqrt (square_total/4096);
+    
+    if (magnitude >=start_recording_threshold) {
+      last_noise = audio.currentTime;
+      if (auto_recording &&!current_recording) {
+        set_current_recording (create_recording ());
+      }
+    }
+    if (auto_recording && audio.currentTime >last_noise + stop_recording_timeout) {
+      set_current_recording (undefined);
+    }
+    
     if (!current_recording) {return;}
     if (current_playback && pause_during_playback) {return;}
-    var input = event.inputBuffer.getChannelData (0);
     var output = current_recording.buffer.getChannelData (0);
-    var square_total = 0;
     for (var sample = 0; sample <recorder_buffer_length;++sample) {
       if (current_recording.next_sample >= current_recording.buffer.length) {
         var old_buffer = current_recording.buffer;
@@ -158,10 +189,8 @@ context.stroke ();
         }
       }
       output [current_recording.next_sample] = input [sample];
-      square_total += input [sample]*input [sample];
       ++current_recording.next_sample;
     }
-    var magnitude = Math.sqrt (square_total/4096);
     current_recording.lines.push (magnitude);
     draw_recording (current_recording);
   }
@@ -213,6 +242,7 @@ navigator.msGetUserMedia);
     $(".control.auto").removeClass ("selected");
     
     set_current_recording (create_recording ());
+    auto_recording = false;
   });
   $(".control.off").click (function () {
     $(".control.off").addClass ("selected");
@@ -220,7 +250,16 @@ navigator.msGetUserMedia);
     $(".control.auto").removeClass ("selected");
     
     set_current_recording (undefined);
+    auto_recording = false;
   });
+  $(".control.auto").click (function () {
+    $(".control.auto").addClass ("selected");
+    $(".control.on").removeClass ("selected");
+    $(".control.off").removeClass ("selected");
+    
+    auto_recording = true;
+  });
+
 
   $(".control.pause_during_playback").click (function () {
     $(".control.pause_during_playback").addClass ("selected");
@@ -228,13 +267,26 @@ navigator.msGetUserMedia);
     
     pause_during_playback = true;
   });
-
   $(".control.no_pause").click (function () {
     $(".control.no_pause").addClass ("selected");
     $(".control.pause_during_playback").removeClass ("selected");
     
     pause_during_playback = false;
   });
+
+  $(".control.auto_playback").click (function () {
+    $(".control.auto_playback").addClass ("selected");
+    $(".control.no_auto_playback").removeClass ("selected");
+    
+auto_playback = true;
+  });
+  $(".control.no_auto_playback").click (function () {
+    $(".control.no_auto_playback").addClass ("selected");
+    $(".control.auto_playback").removeClass ("selected");
+    
+auto_playback = false;
+  });
+
 
 });
     </script>'''}
