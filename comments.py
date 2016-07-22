@@ -1309,34 +1309,5 @@ Also, think about what people would have said to Granger after ze was attacked b
   "id":"9ab804991b4177562d7c38bae69173e6",
   "date_posted":datetime.date(2014, 12, 15)
 },
-{
-  "parent":"f39af72a19c9123ecb4fbb27b2d75bd3",
-  "username":"UntamableSpirit",
-  "contents":"""I'm definitely chaotic meddling, and I was chaotic detached when I was younger. I used to not care about how my actions affected others when I was younger, and now I do. I think I'm somewhere between meddling and neutral on that spectrum because I sometimes act without a desire to have a specific effect on others. I must say though that even when I was younger and was chaotic detached, the helping someone because I want them to feel better and hurting someone because I hated them were still the main things I did, just like they are now. I sometimes did things to make people do what I wanted them to do, but usually if I hurt someone it was just because I was mad at them and not because I thought they would do something for me as a result.<br/><br/>I'm like 100 percent chaotic, or close to it.<br/><br/>I love what you said about kicking puppies and saving the village because everyone who has hurt me is always a "nice person" and no one ever believes that they could do the things that they have done to me. And most of them haven't even saved entire villages or done anything extremely good. I'll be honest, if I thought saving a village would get me enough social capital to be believed all the time, I'd do it in a heartbeat regardless of whether or not I cared about the village, even if it meant people believed me when I was wrong. I guess that's more a chaotic detached thing to say. Guess I've got a little of both :-)""",
-  "id":"799c8af1fec70d50ae92af5089f5b889",
-  "date_posted":datetime.date(2015, 1, 19)
-},
-{
-  "parent":"4155fdd076353a7f996f160d2663fa06",
-  "username":"UntamableSpirit",
-  "contents":"""But what if I just don't want to do anything good for anyone? What if my goal is to do all the bad in the world that I can?""",
-  "id":"3240251f8e15fd4536002e3606097af0",
-  "date_posted":datetime.date(2015, 4, 9)
-},
-{
-  "parent":"3240251f8e15fd4536002e3606097af0",
-  "username":"Eli Dupree",
-  "contents":"""That would actually be similar, just with the social welfare function reversed. Like with the two rational altruists, you might end up in a conflict with another, shall we say, <strong>rational evilist</strong> &ndash; and if ze has slightly different beliefs about what's worst for society, you might accidentally help everyone in society as a result!""",
-  "id":"1e8784992365ecdd205ce34451447a79",
-  "date_posted":datetime.date(2015, 4, 9)
-},
-{
-  "parent":"f39af72a19c9123ecb4fbb27b2d75bd3",
-  "username":"UntamableSpirit",
-  "contents":"""It's kind of funny how meddling is what would correspond to good, because I associate lawful meddling with evil. I think just about everyone who has hurt me the most in my life has been lawful meddling, or at least, they were acting in a lawful meddling way even if that wasn't the way they always were. """,
-  "id":"f125eee3cf62aaf11cb758a08c41abfa",
-  "date_posted":datetime.date(2015, 4, 10)
-},
-
 
 ]
