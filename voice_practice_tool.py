@@ -18,7 +18,7 @@ canvas {float: left; margin:2px;}
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="1024" height="256">
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
     </canvas>
-
+<div class="control_panel"><div class="control on">On</div><div class="control off selected">Off</div><div class="control auto">Auto</div></div>
 </main>'''), {"after_body":'''<script type="text/javascript">
 
 $(function(){

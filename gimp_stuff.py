@@ -30,6 +30,7 @@ def generate_images(infile_path, infile_base, outfile_base, width, height, targe
   thumbnail_full_outfile_base = outfile_base+"_thumbnail_full.png"
   thumbnail_full_outfile = output_dir+thumbnail_full_outfile_base
   
+  #Scheme code
   gimp_batch('''
 (let* (
         (page (car (gimp-file-load RUN-NONINTERACTIVE "'''+infile+'" "'+infile_base+'''")))
