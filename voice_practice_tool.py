@@ -84,11 +84,11 @@ function stop_playback () {
     }
   }
   function begin_playback (recording, start_position) {
-  
+  var last_length = recording.next_sample;
       var start_function = function () {
         var new_start_position =current_playback.start_position + (audio.currentTime - current_playback.start_time);
         var current_end = recording.next_sample/rate;
-        if (new_start_position >current_end - 0.05) {
+        if (new_start_position >current_end - 0.0005) {
           stop_playback ();
           return;
         }
@@ -97,18 +97,13 @@ function stop_playback () {
         player.buffer = recording.buffer;
         var finished_function= function () {
           if (!(current_playback && current_playback.player=== player)) {return;}
-          if (player.buffer === recording.buffer) {stop_playback ();}
-          else {start_function ();}
+          if (recording.next_sample === last_length) {stop_playback ();}
+          else {last_length = recording.next_sample; start_function ();}
         };
         player.onended = finished_function;
         player.connect (playback);
         current_playback.player = player;
-        setTimeout (function () {
-          if (!(current_playback && current_playback.player=== player)) {return;}
-          player.stop ();
-          start_function ();
-          }, (current_end - new_start_position)*500);
-        player.start (audio.currentTime, new_start_position); 
+        player.start (audio.currentTime, new_start_position, current_end - new_start_position); 
       };
       current_playback = {start_time: audio.currentTime, start_position: start_position, recording: recording};
       if (pause_during_playback) {
