@@ -49,9 +49,11 @@ var recorder_buffer_length = 4096;
   var recording_height = 100;
   var current_playback;
   var current_recording;
+  var recordings = [];
   var pause_during_playback;
   var auto_recording;
   var auto_playback;
+  var iterate_playback;
 function stop_playback () {
     if (current_playback) {
     var old_player = current_playback.player;
@@ -64,11 +66,18 @@ function stop_playback () {
     playback.connect (audio.destination);
     
     draw_recording (redraw);
+    if (iterate_playback && redraw.next) {begin_playback (redraw.next, 0);}
     }
   }
   function set_current_recording (recording) {
     var old_recording = current_recording;
     current_recording = recording;
+    if (current_recording) {
+      recordings.push (current_recording);
+      if (recordings.length >1) {
+        recordings [recordings.length - 2].next = current_recording;
+      }
+    }
     if (old_recording) {
       draw_recording (old_recording);
       if (auto_playback) {begin_playback (old_recording, 0);}
@@ -278,6 +287,15 @@ auto_playback = true;}
 ["Don't", function () {
 auto_playback = false;}
 ]]);
+  make_control_panel (1, [
+    ["Play back multiple recordings in a row", function () {
+
+iterate_playback = true;}
+],
+["Only play back one recording at a time", function () {
+iterate_playback = false;}
+]]);
+
 
   $("#recent_magnitudes").click (function (event) {
       var offset = $("#recent_magnitudes").offset ();
