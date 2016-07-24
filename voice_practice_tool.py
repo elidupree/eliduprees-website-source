@@ -13,17 +13,19 @@ def add_page(page_dict):
 html,body {background-color: white;}
 div.recording {display: inline-block; margin:3px;/* padding-left:12px;*/ background-color:#ccc;}
 canvas.recording {}
-.control_panel {border-radius:8px;}
+.control_panels {display: inline-block;}
+.control_panel {border-radius:8px; background-color: #eee; padding: 2px;}
 .control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px;}
 .control.selected {background-color:#5f5; color:#000;}
-.recent_box {float: right; width: 300px;}
+.recent_box {display: inline-block; width: 300px;}
 .recording_button {padding:3px;}
     </style> 
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="1024" height="256">
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
-    </canvas> <div class="recent_box "> When using auto recording, record exactly when the box is not empty. Click to move the corner of the box.<canvas id="recent_magnitudes"></canvas></div>
+    </canvas><div class="control_panels "></div>
+           <div class="recent_box "> When using auto recording, record exactly when the box is not empty. Click to move the corner of the box.<canvas id="recent_magnitudes"></canvas></div>
      </main>'''), {"after_body":'''<script type="text/javascript">
 
 $(function(){
@@ -274,7 +276,7 @@ info [1] ();
   panel.append (controls [I]);
     }
 
-    $("main").append (panel);
+    $(".control_panels").append (panel);
     controls [selected].click ();
   }
 
