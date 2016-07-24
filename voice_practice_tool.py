@@ -172,8 +172,8 @@ recording.play_button.text ("Stop");
   
   analyzer.maxDecibels = 0;
   analyzer.fftSize = 2048;
-  var buffer_length = analyzer.frequencyBinCount; 
-  var frequency_data = new Uint8Array(buffer_length);
+  var frequency_buffer_length = analyzer.frequencyBinCount; 
+  var frequency_data = new Uint8Array(frequency_buffer_length);
   
   recorder.onaudioprocess = function (event) {
     var input = event.inputBuffer.getChannelData (0);
@@ -249,15 +249,15 @@ recording.play_button.text ("Stop");
     histogram_canvas.fillRect (0, 0, width, height);
     histogram_canvas.fillStyle = "rgb(255, 0, 0)"
 var previous = 0;
-    for (var I = 0; I <1024;++I) {
+    for (var I = 0; I <frequency_buffer_length;++I) {
       total = total + frequency_data [I];
-      var X = (I + 1)*width/1024;
+      var X = (I + 1)*width/frequency_buffer_length;
       var Y =frequency_data [I]*height/256
-      if (logarithmic) {X = Math.log (I + 1)*width/Math.log (1024);}
+      if (logarithmic) {X = Math.log (I + 1)*width/Math.log (frequency_buffer_length);}
       histogram_canvas.fillRect (previous, height - Y, X - previous, Y);
       previous = X;
     }
-    var average = total/1024;
+    var average = total/frequency_buffer_length;
     if (current_playback) {draw_recording (current_playback.recording);}
   }
 
