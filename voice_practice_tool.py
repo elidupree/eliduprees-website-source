@@ -31,18 +31,20 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
 $(function(){
   var audio = new (window.AudioContext || window.webkitAudioContext)();
   var rate = audio.sampleRate;
-  var recorder_buffer_length = 4096;
+  var recorder_buffer_length = 2048;
   var histogram_canvas = document.getElementById("histogram_canvas").getContext("2d");
   
   var recent_magnitudes_size = Math.ceil (rate*2/recorder_buffer_length);
-  var recent_magnitudes_scale = 5;
+  var recent_magnitudes_scale = Math.ceil (100*recorder_buffer_length/rate);
   var recent_magnitudes_width =recent_magnitudes_size*recent_magnitudes_scale;
   var recent_magnitudes_height = 300;
   $("#recent_magnitudes").attr("width", recent_magnitudes_width).attr("height", recent_magnitudes_height);
   var recent_magnitudes_canvas = document.getElementById("recent_magnitudes").getContext("2d");
   var recent_magnitudes = [];
   for (var I = 0; I <recent_magnitudes_size ;++I) {recent_magnitudes.push (0);}
-  
+  var start_recording_threshold = 0.1;
+  var stop_recording_timeout = Math.ceil (rate*0.5/recorder_buffer_length);
+    
 var source;
   var analyzer = audio.createAnalyser ();
   var recorder = audio.createScriptProcessor (recorder_buffer_length, 1, 1);
@@ -172,8 +174,6 @@ recording.play_button.text ("Stop");
   analyzer.fftSize = 2048;
   var buffer_length = analyzer.frequencyBinCount; 
   var frequency_data = new Uint8Array(buffer_length);
-  var start_recording_threshold = 0.1;
-  var stop_recording_timeout = 5;
   
   recorder.onaudioprocess = function (event) {
     var input = event.inputBuffer.getChannelData (0);
