@@ -23,16 +23,7 @@ canvas.recording {}
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="1024" height="256">
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
     </canvas> <div class="recent_box "> When using auto recording, record exactly when the box is not empty. Click to move the corner of the box.<canvas id="recent_magnitudes"></canvas></div>
-     
-    
-<div class="control_panel"><div class="control on">On</div><div class="control off selected">Off</div><div class="control auto">Auto</div></div>
-
-<div class="control_panel"><div class="control pause_during_playback selected "> During playback, pause recording and display the playback data in the histogram </div><div class="control no_pause"> During playback, continue recording and displaying the microphone input data in the histogram </div></div>
-
-
-<div class="control_panel"><div class="control auto_playback "> Whenever a recording finishes, play it back automatically </div><div class="control no_auto_playback selected "> Don't </div></div>
-
-</main>'''), {"after_body":'''<script type="text/javascript">
+     </main>'''), {"after_body":'''<script type="text/javascript">
 
 $(function(){
   var audio = new (window.AudioContext || window.webkitAudioContext)();
@@ -58,9 +49,9 @@ var recorder_buffer_length = 4096;
   var recording_height = 100;
   var current_playback;
   var current_recording;
-  var pause_during_playback = true;
-  var auto_recording = false;
-  var auto_playback = false;
+  var pause_during_playback;
+  var auto_recording;
+  var auto_playback;
 function stop_playback () {
     if (current_playback) {
     var old_player = current_playback.player;
@@ -239,7 +230,62 @@ context.stroke ();
     var average = total/1024;
     if (current_playback) {draw_recording (current_playback.recording);}
   }
-  draw ();
+
+  function make_control_panel (selected, controls){
+var panel = $("<div/>").addClass ("control_panel");
+    for (var I = 0; I <controls.length;++I) {
+      (function (info) {
+      controls [I] = $("<div/>").addClass ("control").text (info [0]).click(function () {
+      for (var J = 0; J  <controls.length;++J) {
+if (controls [J] [0] === $(this) [0]) {controls [J] .addClass ("selected");} else{controls [J] .removeClass ("selected");}
+    
+}
+info [1] ();
+  });
+  } (controls [I]));
+  panel.append (controls [I]);
+    }
+
+    $("main").append (panel);
+    controls [selected].click ();
+  }
+
+  make_control_panel (1, [
+    ["On", function () {
+
+    set_current_recording (create_recording ());
+    auto_recording = false;}
+],
+["Off", function () {
+    set_current_recording (undefined);
+    auto_recording = false;}
+],
+["Auto", function () {auto_recording = true;}]
+]);
+  make_control_panel (0, [
+    ["During playback, pause recording and display the playback data in the histogram", function () {
+
+    pause_during_playback = true;}
+],
+["During playback, continue recording and displaying the microphone input data in the histogram", function () {
+    pause_during_playback = false;}
+]]);
+  make_control_panel (1, [
+    ["Whenever a recording finishes, play it back automatically", function () {
+
+auto_playback = true;}
+],
+["Don't", function () {
+auto_playback = false;}
+]]);
+
+  $("#recent_magnitudes").click (function (event) {
+      var offset = $("#recent_magnitudes").offset ();
+            var X = event.pageX - offset.left;
+       var Y = event.pageY - offset.top;
+       start_recording_threshold  = 1-(Y/recent_magnitudes_height);
+  stop_recording_timeout = Math.ceil( (recent_magnitudes_width - X)/recent_magnitudes_scale);
+  });
 
   navigator.getUserMedia = (navigator.getUserMedia ||
                           navigator.webkitGetUserMedia ||
@@ -261,64 +307,7 @@ navigator.msGetUserMedia);
   }
 );  
 
-  $(".control.on").click (function () {
-    $(".control.on").addClass ("selected");
-    $(".control.off").removeClass ("selected");
-    $(".control.auto").removeClass ("selected");
-    
-    set_current_recording (create_recording ());
-    auto_recording = false;
-  });
-  $(".control.off").click (function () {
-    $(".control.off").addClass ("selected");
-    $(".control.on").removeClass ("selected");
-    $(".control.auto").removeClass ("selected");
-    
-    set_current_recording (undefined);
-    auto_recording = false;
-  });
-  $(".control.auto").click (function () {
-    $(".control.auto").addClass ("selected");
-    $(".control.on").removeClass ("selected");
-    $(".control.off").removeClass ("selected");
-    
-    auto_recording = true;
-  });
-
-
-  $(".control.pause_during_playback").click (function () {
-    $(".control.pause_during_playback").addClass ("selected");
-    $(".control.no_pause").removeClass ("selected");
-    
-    pause_during_playback = true;
-  });
-  $(".control.no_pause").click (function () {
-    $(".control.no_pause").addClass ("selected");
-    $(".control.pause_during_playback").removeClass ("selected");
-    
-    pause_during_playback = false;
-  });
-
-  $(".control.auto_playback").click (function () {
-    $(".control.auto_playback").addClass ("selected");
-    $(".control.no_auto_playback").removeClass ("selected");
-    
-auto_playback = true;
-  });
-  $(".control.no_auto_playback").click (function () {
-    $(".control.no_auto_playback").addClass ("selected");
-    $(".control.auto_playback").removeClass ("selected");
-    
-auto_playback = false;
-  });
-
-  $("#recent_magnitudes").click (function (event) {
-      var offset = $("#recent_magnitudes").offset ();
-            var X = event.pageX - offset.left;
-       var Y = event.pageY - offset.top;
-       start_recording_threshold  = 1-(Y/recent_magnitudes_height);
-  stop_recording_timeout = Math.ceil( (recent_magnitudes_width - X)/recent_magnitudes_scale);
-  });
 });
+
     </script>'''}
   )
