@@ -54,6 +54,7 @@ var recorder_buffer_length = 4096;
   var auto_recording;
   var auto_playback;
   var iterate_playback;
+  var logarithmic;
 function stop_playback () {
     if (current_playback) {
     var old_player = current_playback.player;
@@ -226,16 +227,21 @@ context.stroke ();
     requestAnimationFrame (draw);
     analyzer.getByteFrequencyData (frequency_data);
     var total = 0;
+    var width = $("body").width ();
+    
+    $("#histogram_canvas").attr("width", width);
+        
     histogram_canvas.fillStyle = "rgb(0, 0, 0)"
-    histogram_canvas.strokeStyle = "rgb(255, 0, 0)"
-    histogram_canvas.fillRect (0, 0, 1024, 256);
-    histogram_canvas.beginPath ();
+    histogram_canvas.fillRect (0, 0, width, 256);
+    histogram_canvas.fillStyle = "rgb(255, 0, 0)"
+var previous = 0;
     for (var I = 0; I <1024;++I) {
       total = total + frequency_data [I];
-      histogram_canvas.moveTo (I, 256);
-      histogram_canvas.lineTo (I, 256 - frequency_data [I]);
+      var X = (I + 1)*width/1024;
+      if (logarithmic) {X = Math.log (I + 1)*width/Math.log (1024);}
+      histogram_canvas.fillRect (previous, 256 - frequency_data [I], X - previous, frequency_data [I]);
+      previous = X;
     }
-    histogram_canvas.stroke ();
     var average = total/1024;
     if (current_playback) {draw_recording (current_playback.recording);}
   }
@@ -295,6 +301,15 @@ iterate_playback = true;}
 ["Only play back one recording at a time", function () {
 iterate_playback = false;}
 ]]);
+  make_control_panel (0, [
+    ["Linear scale (1 pixel = X Hertz)", function () {
+
+logarithmic = false;}
+],
+["Log scale (1 pixel = X semitones)", function () {
+logarithmic = true;}
+]]);
+
 
 
   $("#recent_magnitudes").click (function (event) {
