@@ -28,9 +28,11 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
 
 $(function(){
   var audio = new (window.AudioContext || window.webkitAudioContext)();
+  var rate = audio.sampleRate;
+  var recorder_buffer_length = 4096;
   var histogram_canvas = document.getElementById("histogram_canvas").getContext("2d");
   
-  var recent_magnitudes_size = 20;
+  var recent_magnitudes_size = Math.ceil (rate*2/recorder_buffer_length);
   var recent_magnitudes_scale = 5;
   var recent_magnitudes_width =recent_magnitudes_size*recent_magnitudes_scale;
   var recent_magnitudes_height = 300;
@@ -41,12 +43,10 @@ $(function(){
   
 var source;
   var analyzer = audio.createAnalyser ();
-var recorder_buffer_length = 4096;
-  var rate = audio.sampleRate
   var recorder = audio.createScriptProcessor (recorder_buffer_length, 1, 1);
   var playback = audio.createGain ();
   playback.connect (audio.destination);
-  var recording_1_second_width = rate/4096;
+  var recording_1_second_width = rate/recorder_buffer_length;
   var recording_height = 100;
   var current_playback;
   var current_recording;
@@ -179,7 +179,7 @@ recording.play_button.text ("Stop");
     for (var sample = 0; sample <recorder_buffer_length;++sample) {
       square_total += input [sample]*input [sample];
     }
-    var magnitude = Math.sqrt (square_total/4096);
+    var magnitude = Math.sqrt (square_total/recorder_buffer_length);
     
     for (var I = 0; I <recent_magnitudes_size - 1 ;++I) {recent_magnitudes [I] = recent_magnitudes [I + 1];}
     recent_magnitudes [recent_magnitudes_size - 1] = magnitude;
