@@ -172,7 +172,7 @@ Maybe one of <strong>you</strong> could write it, though! If you do, I'll even p
 },
 
 {
-"title": "0-10 pain scale",
+"title": "My 0-10 pain scale",
 "tags": ["neurodiversity"],
 "auto_paragraphs": True,
 "don't deploy": True,
@@ -191,7 +191,7 @@ I came up with a <strong>reference point</strong> for each number on the scale. 
 
 <strong>2.</strong> The pain is enough that I would usually choose to turn it off, but not enough to be distracting.
 
-<strong>3.</strong> The pain is distracting. If it goes on for a long time, I eventually have trouble concentrating on my work. I can still keep working if I want to, though. (When I say "work", I mean mental work, like writing stories or computer programming. If I'm only doing a boring physical task, I can handle much more pain.)
+<strong>3.</strong> The pain is distracting. If it goes on for a long time, I eventually <cut>have trouble concentrating on my work. I can still keep working if I want to, though. (When I say "work", I mean mental work, like writing stories or computer programming. If I'm only doing a boring physical task, I can handle much more pain.)
 
 <strong>4.</strong> The pain becomes distracting very quickly. It's very hard to work for more than a few minutes.
 
