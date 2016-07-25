@@ -173,7 +173,7 @@ Maybe one of <strong>you</strong> could write it, though! If you do, I'll even p
 
 {
 "title": "0-10 pain scale",
-"tags": [],
+"tags": ["neurodiversity"],
 "auto_paragraphs": True,
 "don't deploy": True,
 "contents":'''
@@ -181,25 +181,23 @@ Maybe one of <strong>you</strong> could write it, though! If you do, I'll even p
 
 If a person goes to a doctor because something hurts, the doctor sometimes asks, "rate your pain on a scale from 0 to 10" (or 1 to 10). This can be frustrating if you don't know what number to give it. If your pain is moderately intense, how do you know whether it's a four or a six?
 
-I thought about this for a while. Eventually, I realized that I wanted to make a pain scale that I could use for myself. Since I <can't imagine or remember pain sensations>, it's hard for me to know whether a pain that I feel today is stronger or weaker than a pain I felt last week. A scale could help with that.
+I thought about this for a while. Eventually, I realized that I wanted to make a pain scale that I could use for myself. Since I <a href="/blog/imagining-pain">have trouble remembering pain sensations</a>, it's hard for me to know whether a pain that I feel today is stronger or weaker than a pain I felt last week. A scale could help with that.
 
-I came up with a <reference point> for each number on the scale. These reference points are based on how my brain works, so they might not work for everybody. They are useful to me. Your own pain scale might put them in a different order, or use different reference points altogether.
+I came up with a <strong>reference point</strong> for each number on the scale. These reference points are based on how my brain works, so they might not work for everybody. They are useful to me. Your own pain scale might put them in a different order, or use different reference points altogether.
+<strong>0.</strong> There is no pain, and no uncomfortable sensation at all.
 
-0: there is no pain, and no uncomfortable sensation at all.
+<strong>0.5.</strong> There is no pain, but there is some sensation that makes me worry anyway. Maybe a muscle feels stiff or overworked, so that I expect it might start hurting if I used it more.
+<strong>1.</strong> There is some pain, but not enough to be unpleasant. It's just a curiosity. If I had a magic switch that could turn the pain on and off, I usually wouldn't even bother to turn it off. (I might still worry, because the pain could get worse if I do the wrong thing, but the pain itself is not a problem.)
 
-0.5: there is no pain, but there is some sensation that makes me worry anyway. Maybe a muscle feels stiff or overworked, so that I expect it might start hurting if I used it more.
+<strong>2.</strong> The pain is enough that I would usually choose to turn it off, but not enough to be distracting.
 
-1: there is some pain, but not enough to be unpleasant. It's just a curiosity. If I had a magic switch that could turn the pain on and off, I usually wouldn't even bother to turn it off. (I might still worry, because the pain could get worse if I do the wrong thing, but the pain itself is not a problem.)
+<strong>3.</strong> The pain is distracting. If it goes on for a long time, I eventually have trouble concentrating on my work. I can still keep working if I want to, though. (When I say "work", I mean mental work, like writing stories or computer programming. If I'm only doing a boring physical task, I can handle much more pain.)
 
-2: the pain is enough that I would usually choose to turn it off, but not enough to be distracting.
+<strong>4.</strong> The pain becomes distracting very quickly. It's very hard to work for more than a few minutes.
 
-3: the pain is distracting. If it goes on for a long time, I eventually have trouble concentrating on my work. I can still keep working if I want to, though. (When I say "work", I mean mental work, like writing stories or computer programming. If I'm only doing a boring physical task, I can handle much more pain.)
+<strong>5.</strong> The pain basically stops me from working at all. I can still do complex thinking if I know it's urgent, but I'm too focused on dealing with the pain, so I don't want to do anything else.
 
-4: the pain becomes distracting very quickly. It's very hard to work for more than a few minutes.
-
-5: the pain basically stops me from working at all. I can still do complex thinking if I know it's urgent, but I'm too focused on dealing with the pain, so I don't want to do anything else.
-
-6: I start using coping behaviors.
+<strong>6.</strong> I start using <strong>coping behaviors</strong>.
 
 Let me explain this a bit more. At six and above, I want to moan, scream, clench my muscles, pound on a wall, or other stuff like that. These are "coping behaviors". When I use them, it actually feels like the pain is less bad.
 
@@ -207,10 +205,29 @@ Below six, I might say "Ow!", or moan, or complain, but those just express my su
 
 At six, it's not hard to suppress the coping behaviors. I just don't want to.
 
-7: my desire to use coping behaviors becomes overwhelming. If I want to suppress them, I can do it, but it takes most of my effort and concentration. At seven, I usually end up collapsed on the floor. I can get up if I need to, but it's hard.
+<strong>7.</strong> My desire to use coping behaviors becomes overwhelming. If I want to suppress them, I can do it, but it takes most of my effort and concentration. At seven, I usually end up collapsed on the floor. I can get up if I need to, but it's hard.
 
 I haven't decided on anything for 8, 9, and 10. That's because a seven is the worst pain I've felt in my life. I left three numbers unused at the top of the scale on purpose. That way, if I ever feel more pain than I have before, I'll be able to add it to my scale.
 
+<h2>Pain vs. distress</h2>
+
+Pain and distress aren't the same thing. This scale measures how <em>intense</em> the feeling is, but not how much I <em>dislike</em> feeling it. When I talk about "distress", I'm talking about a separate feeling of unpleasantness. Pain often causes distress, but not always.
+
+There are a lot of reasons someone might cause pain to themself on purpose. They might do it for the endorphin rush. They might get sexual pleasure from it. They might do it to distract themself from worse feelings. At various points in my life, I have done all of these things.
+
+Generally, pain causes distress for me if it's at least a 6 (for sudden pain) or a 3 (for ongoing pain). In terms of distress, an ongoing pain is about equivalent to a sudden pain about 3 points higher. A pain I caused myself on purpose is equivalent to an unwanted pain about 2 points <em>lower</em>.
+
+I used to think, "I don't always want to avoid pain, but I always want to avoid distress." But one day, I was on a car ride through a city, inhaling a bunch of car exhaust. It made me feel a bunch of nausea and distress. I used a mental technique to make the distress go away, but that made the nausea worse. So I <em>brought back the distress on purpose</em> to help suppress the nausea. As it turns out, even "bad" feelings can have worthwhile uses. I still say "pain isn't a bad feeling, distress is", but that doesn't mean distress is completely bad all the time.
+
+<h2>Using the scale in practice</h2>
+
+I invented this scale a little more than a year ago. Since then, I've been using it quite a bit. I can quickly and easily tell where my pain fits on the scale, within at least one point. For instance, I might say "this is a 3 or 4, I'm not sure".
+
+This has been very helpful for keeping track when I have a pain that comes and goes over a day or two. Also, when I have significant health problems, I write down the pain value in my daily notes. That way, I can refer to it if the problem happens again.
+
+I can also use the same scale to measure some other feelings, like nausea and anxiety.
+
+It's hard to pin down exactly how <em>useful</em> this has been. There's nothing I can point to and say, "See, knowing more about my pain has given me this material benefit". But it definitely feels good knowing that I understand myself a little better.
 
 ''',
 },

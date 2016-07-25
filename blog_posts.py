@@ -69,7 +69,7 @@ for cat,post_list in posts.items():
     post_dict["path_prefix"] = "/" if cat=="" else "/"+cat+"/"
     post_dict["category"] = cat
     if "auto_paragraphs" in post_dict:
-      post_dict ["contents"] = re.sub(r"""(?m)^[\w"].+?$""", lambda match: "<p>" + match.group (0) + "</p>", post_dict ["contents"])
+      post_dict ["contents"] = re.sub(r"""(?m)^([\w"]|<strong|<em).+?$""", lambda match: "<p>" + match.group (0) + "</p>", post_dict ["contents"])
     if cat == 'blog':
       post_dict['contents'] += signature
 
