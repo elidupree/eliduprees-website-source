@@ -40,11 +40,10 @@ $(function(){
   var recorder_buffer_length = 2048;
   var histogram_canvas = document.getElementById("histogram_canvas").getContext("2d");
   
-  var recent_magnitudes_size = Math.ceil (rate*2/recorder_buffer_length);
-  var recent_magnitudes_scale = Math.ceil (100*recorder_buffer_length/rate);
-  var recent_magnitudes_width =recent_magnitudes_size*recent_magnitudes_scale;
-  var recent_magnitudes_height = 300;
-  $("#recent_magnitudes").attr("width", recent_magnitudes_width).attr("height", recent_magnitudes_height);
+  var recent_magnitudes_size = 1;
+  var recent_magnitudes_scale = 1;
+  var recent_magnitudes_width = 1;
+  var recent_magnitudes_height = 1;
   var recent_magnitudes_canvas = document.getElementById("recent_magnitudes").getContext("2d");
   var recent_magnitudes = [];
   for (var I = 0; I <recent_magnitudes_size ;++I) {recent_magnitudes.push (0);}
@@ -288,6 +287,7 @@ var previous = 0;
     var average = total/frequency_buffer_length;
     if (current_playback) {draw_recording (current_playback.recording);}
   }
+  draw ();
 
   var terse = [];
   var verbose = [];
@@ -408,7 +408,6 @@ navigator.msGetUserMedia);
     source = audio.createMediaStreamSource(stream);
     source.connect(analyzer);
     source.connect (recorder);
-    draw ();
 },
 
   // Error callback
