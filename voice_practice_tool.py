@@ -26,6 +26,7 @@ canvas.recording {}
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
     </canvas><div class="control_panels "></div>
            <div class="recent_box "><div class="recent_magnitudes_caption "></div><canvas id="recent_magnitudes"></canvas></div>
+           <div class="recordings "></div>
      </main>'''), {"after_body":'''
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
      <script type="text/javascript" src="/media/download.js?rr"></script>
@@ -155,7 +156,7 @@ function stop_playback (force) {
       download (blob, "recording.wav", "audio/wav");
     });
     output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button);
-    $("main").append (output.element);
+    $(".recordings").prepend (output.element);
     output.canvas_context = output.canvas [0].getContext("2d");
     return output;
   }
