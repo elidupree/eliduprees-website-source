@@ -170,6 +170,50 @@ Maybe one of <strong>you</strong> could write it, though! If you do, I'll even p
 
 ''',
 },
+
+{
+"title": "0-10 pain scale",
+"tags": [],
+"auto_paragraphs": True,
+"don't deploy": True,
+"contents":'''
+
+
+If a person goes to a doctor because something hurts, the doctor sometimes asks, "rate your pain on a scale from 0 to 10" (or 1 to 10). This can be frustrating if you don't know what number to give it. If your pain is moderately intense, how do you know whether it's a four or a six?
+
+I thought about this for a while. Eventually, I realized that I wanted to make a pain scale that I could use for myself. Since I <can't imagine or remember pain sensations>, it's hard for me to know whether a pain that I feel today is stronger or weaker than a pain I felt last week. A scale could help with that.
+
+I came up with a <reference point> for each number on the scale. These reference points are based on how my brain works, so they might not work for everybody. They are useful to me. Your own pain scale might put them in a different order, or use different reference points altogether.
+
+0: there is no pain, and no uncomfortable sensation at all.
+
+0.5: there is no pain, but there is some sensation that makes me worry anyway. Maybe a muscle feels stiff or overworked, so that I expect it might start hurting if I used it more.
+
+1: there is some pain, but not enough to be unpleasant. It's just a curiosity. If I had a magic switch that could turn the pain on and off, I usually wouldn't even bother to turn it off. (I might still worry, because the pain could get worse if I do the wrong thing, but the pain itself is not a problem.)
+
+2: the pain is enough that I would usually choose to turn it off, but not enough to be distracting.
+
+3: the pain is distracting. If it goes on for a long time, I eventually have trouble concentrating on my work. I can still keep working if I want to, though. (When I say "work", I mean mental work, like writing stories or computer programming. If I'm only doing a boring physical task, I can handle much more pain.)
+
+4: the pain becomes distracting very quickly. It's very hard to work for more than a few minutes.
+
+5: the pain basically stops me from working at all. I can still do complex thinking if I know it's urgent, but I'm too focused on dealing with the pain, so I don't want to do anything else.
+
+6: I start using coping behaviors.
+
+Let me explain this a bit more. At six and above, I want to moan, scream, clench my muscles, pound on a wall, or other stuff like that. These are "coping behaviors". When I use them, it actually feels like the pain is less bad.
+
+Below six, I might say "Ow!", or moan, or complain, but those just express my surprise or frustration. They don't actually change how painful it feels. Below six, it's easy for me to stay still and remain silent if I want to.
+
+At six, it's not hard to suppress the coping behaviors. I just don't want to.
+
+7: my desire to use coping behaviors becomes overwhelming. If I want to suppress them, I can do it, but it takes most of my effort and concentration. At seven, I usually end up collapsed on the floor. I can get up if I need to, but it's hard.
+
+I haven't decided on anything for 8, 9, and 10. That's because a seven is the worst pain I've felt in my life. I left three numbers unused at the top of the scale on purpose. That way, if I ever feel more pain than I have before, I'll be able to add it to my scale.
+
+
+''',
+},
 ]
 
 """
