@@ -12,13 +12,17 @@ def add_page(page_dict):
       r'''<style type="text/css">
 html,body {background-color: white;}
 div.recording {display: inline-block; margin:3px;/* padding-left:12px;*/ background-color:#ccc;}
-canvas.recording {}
+canvas.recording {display: block;}
 .control_panels {display: inline-block; vertical-align: middle;}
 .control_panel {display: inline-block; background-color: transparent; margin:3px;}
 .control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px; vertical-align: top;}
 .control.selected {background-color:#5f5; color:#000;}
 .recent_box {display: inline-block; vertical-align: middle;}
-.recording_button {padding:3px;}
+.recording_button {padding:0 3px;}
+.recordings {
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
     </style> 
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
@@ -146,7 +150,7 @@ function stop_playback (force) {
       stop_playback (true);
       if (!stop) { begin_playback (output, 0);}
     });
-    output.save_button = $("<div/>").addClass ("recording_button").text ("Save").click (function () {
+    output.save_button = $("<div/>").addClass ("recording_button").text ("💾").click (function () {
       var wav = audioBufferToWav(output.buffer);
     var blob = new window.Blob([ new DataView(wav) ], {
       type: 'audio/wav'
@@ -155,7 +159,7 @@ function stop_playback (force) {
       download (blob, "recording.wav", "audio/wav");
     });
     output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button);
-    $(".recordings").prepend (output.element);
+    $(".recordings").append (output.element);
     output.canvas_context = output.canvas [0].getContext("2d");
     return output;
   }
@@ -176,13 +180,13 @@ context.lineTo (I, recording_height/2 - recording.lines [I]*recording_height/2);
     }
 context.stroke ();
     if (current_playback && current_playback.recording=== recording) {
-recording.play_button.text ("Stop");
+recording.play_button.text ("⏹");
     context.strokeStyle = "rgb(255, 255, 0)"
     context.beginPath ();
       var X = (current_playback.start_position + (audio.currentTime - current_playback.start_time))*recording_1_second_width; context.moveTo (X, 0); context.lineTo (X, recording_height); context.stroke ();
     }
     else {
-    recording.play_button.text ("Play");
+    recording.play_button.text ("▶️");
     }
   }
 
