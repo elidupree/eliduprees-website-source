@@ -16,8 +16,7 @@ span.inline_separator {
 ''')
 
 inline_separator = '<span class="inline_separator"> &middot; </span>'
-# TODO 'https://www.elidupree.com':
-canonical_scheme_and_domain = 'http://www.elidupree.com'
+canonical_scheme_and_domain = 'https://www.elidupree.com'
 
 def background_image (name ='colorful-background.jpg'):
   return '<div><img role="presentation" alt="" class="background" src="/media/' + name + '?rr" /></div>'
