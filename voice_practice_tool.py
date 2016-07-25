@@ -151,13 +151,15 @@ function stop_playback (force) {
       stop_playback (true);
       if (!stop) { begin_playback (output, 0);}
     });
+    var date = new Date ();
+    output.date_string = date.getFullYear () + "-" + date.getMonth () + "-" + date.getDate () + "-" + date.getHours ()  + "-" + date.getMinutes ()  + "-" + date.getSeconds () ;
     output.save_button = $("<div/>").addClass ("recording_button").text ("💾").click (function () {
       var wav = audioBufferToWav(output.buffer);
     var blob = new window.Blob([ new DataView(wav) ], {
       type: 'audio/wav'
     });
 
-      download (blob, "recording.wav", "audio/wav");
+      download (blob, "recording-" + output.date_string + ".wav", "audio/wav");
     });
     output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button);
     $(".recordings").append (output.element);
