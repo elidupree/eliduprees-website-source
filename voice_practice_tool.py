@@ -25,7 +25,7 @@ canvas.recording {}
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="320" height="80">
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
     </canvas><div class="control_panels "></div>
-           <div class="recent_box "> When using auto recording, record exactly when the box is not empty. Click to move the corner of the box.<canvas id="recent_magnitudes"></canvas></div>
+           <div class="recent_box "><div class="recent_magnitudes_caption "></div><canvas id="recent_magnitudes"></canvas></div>
      </main>'''), {"after_body":'''
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
      <script type="text/javascript" src="/media/download.js?rr"></script>
@@ -279,69 +279,103 @@ var previous = 0;
     if (current_playback) {draw_recording (current_playback.recording);}
   }
 
-  function make_control_panel (selected, controls){
+  var terse = [];
+  var verbose = [];
+terse.push ([$(".recent_magnitudes_caption"), ""]);
+verbose.push ([$(".recent_magnitudes_caption"), "When using auto recording, record exactly when the box is not empty. Click to move the corner of the box."]);
+  
+  function update_controls (info) {
+    for (var I = 0; I <info.length;++I) {
+      info [I] [0].empty ().append (info [I] [1]);
+    }
+  }
+  function make_control_panel (save, selected, controls){
+    
+    if (save) {
+      save = "vpt_"+ save;
+      value = read_cookie (save);
+      if (value !== null) {selected =parseInt (value);}
+    }
+
 var panel = $("<div/>").addClass ("control_panel");
     for (var I = 0; I <controls.length;++I) {
-      (function (info) {
-      controls [I] = $("<div/>").addClass ("control").text (info [0]).click(function () {
+      (function (index, info) {
+      controls [index] = $("<div/>").addClass ("control").click(function () {
       for (var J = 0; J  <controls.length;++J) {
 if (controls [J] [0] === $(this) [0]) {controls [J] .addClass ("selected");} else{controls [J] .removeClass ("selected");}
     
 }
-info [1] ();
+if (save) {set_cookie (save, index, 30);}
+info [2] ();
   });
-  } (controls [I]));
+terse.push ([controls [index], info [0]]);
+verbose.push ([controls [index], info [1]]);
+  } (I, controls [I]));
   panel.append (controls [I]);
     }
 
-    $(".control_panels").append (panel);
+    $(".control_panels").append (panel);    
     controls [selected].click ();
   }
 
-  make_control_panel (1, [
-    ["On", function () {
+  make_control_panel (null, 1, [
+    ["⏺","On", function () {
 
     set_current_recording (create_recording ());
     auto_recording = false;}
 ],
-["Off", function () {
+["🚫⏺","Off", function () {
     set_current_recording (undefined);
     auto_recording = false;}
 ],
-["Auto", function () {auto_recording = true;}]
+["⏺!","Auto", function () {auto_recording = true;}]
 ]);
-  make_control_panel (0, [
-    ["During playback, pause recording and display the playback data in the histogram", function () {
+
+  make_control_panel ("pause_during_playback", 0, [
+    ["▶️🚫⏺","During playback, pause recording and display the playback data in the histogram", function () {
 
     pause_during_playback = true;}
 ],
-["During playback, continue recording and displaying the microphone input data in the histogram", function () {
+["▶️⏺","During playback, continue recording and displaying the microphone input data in the histogram", function () {
     pause_during_playback = false;}
 ]]);
-  make_control_panel (1, [
-    ["Whenever a recording finishes, play it back automatically", function () {
+
+  make_control_panel ("auto_playback", 1, [
+    ["⏺▶️","Whenever a recording finishes, play it back automatically", function () {
 
 auto_playback = true;}
 ],
-["Don't", function () {
+["🚫","Don't", function () {
 auto_playback = false;}
 ]]);
-  make_control_panel (1, [
-    ["Play back multiple recordings in a row", function () {
+
+  make_control_panel ("iterate_playback", 1, [
+    ["▶️▶️","Play back multiple recordings in a row", function () {
 
 iterate_playback = true;}
 ],
-["Only play back one recording at a time", function () {
+["▶️","Only play back one recording at a time", function () {
 iterate_playback = false;}
 ]]);
-  make_control_panel (0, [
-    ["Linear scale (1 pixel = X Hertz)", function () {
+
+  make_control_panel ("logarithmic", 1, [
+    ["Hz","Linear scale (1 pixel = X Hertz)", function () {
 
 logarithmic = false;}
 ],
-["Log scale (1 pixel = X semitones)", function () {
+["Log","Log scale (1 pixel = X semitones)", function () {
 logarithmic = true;}
 ]]);
+
+  make_control_panel ("verbose", 0, [
+    ["Verbose","Verbose options", function () {
+
+update_controls (verbose);}
+],
+["🚫","Terse options", function () {
+update_controls (terse);}
+]]);
+
 
 
 
