@@ -13,19 +13,19 @@ def add_page(page_dict):
 html,body {background-color: white;}
 div.recording {display: inline-block; margin:3px;/* padding-left:12px;*/ background-color:#ccc;}
 canvas.recording {}
-.control_panels {display: inline-block;}
-.control_panel {border-radius:8px; background-color: #eee; padding: 2px;}
+.control_panels {display: inline-block; vertical-align: middle;}
+.control_panel {display: inline-block; border-radius:8px; background-color: #eee; padding: 2px;}
 .control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px;}
 .control.selected {background-color:#5f5; color:#000;}
-.recent_box {display: inline-block; width: 300px;}
+.recent_box {display: inline-block; vertical-align: middle;}
 .recording_button {padding:3px;}
     </style> 
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="320" height="80">
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
-    </canvas><div class="control_panels "></div>
-           <div class="recent_box "><div class="recent_magnitudes_caption "></div><canvas id="recent_magnitudes"></canvas></div>
+    </canvas><div class="control_panels "></div><!--
+    --><div class="recent_box "><div class="recent_magnitudes_caption "></div><canvas id="recent_magnitudes"></canvas></div>
            <div class="recordings "></div>
      </main>'''), {"after_body":'''
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
@@ -205,6 +205,15 @@ recording.play_button.text ("Stop");
     for (var I = 0; I <recent_magnitudes_size - 1 ;++I) {recent_magnitudes [I] = recent_magnitudes [I + 1];}
     recent_magnitudes [recent_magnitudes_size - 1] = magnitude;
     
+  recent_magnitudes_size = Math.ceil (rate*2/recorder_buffer_length);
+  recent_magnitudes_scale = Math.ceil (Math.min ($("body").width ()/3, 200)/recent_magnitudes_size);
+  recent_magnitudes_width =recent_magnitudes_size*recent_magnitudes_scale;
+  recent_magnitudes_height = Math.min ($("body").height ()/3, 300);
+  
+  $(".recent_box").width (recent_magnitudes_width);
+  $("#recent_magnitudes").attr("width", recent_magnitudes_width).attr("height", recent_magnitudes_height);
+  $(".control_panels").width ($("body").width () - recent_magnitudes_width);
+
     var context = recent_magnitudes_canvas;
       context.fillStyle = "rgb(0, 0, 0)"
     context.fillRect (0, 0, recent_magnitudes_width, recent_magnitudes_height);
