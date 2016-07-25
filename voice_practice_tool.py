@@ -47,7 +47,7 @@ $(function(){
   var recent_magnitudes_canvas = document.getElementById("recent_magnitudes").getContext("2d");
   var recent_magnitudes = [];
   for (var I = 0; I <recent_magnitudes_size ;++I) {recent_magnitudes.push (0);}
-  var start_recording_threshold = 0.1;
+  var start_recording_threshold = 0.5;
   var stop_recording_timeout = Math.ceil (rate*0.5/recorder_buffer_length);
     
 var source;
@@ -199,6 +199,7 @@ recording.play_button.text ("Stop");
       square_total += input [sample]*input [sample];
     }
     var magnitude = Math.sqrt (square_total/recorder_buffer_length);
+    magnitude = 1-(Math.log (magnitude)/Math.log (1/1024));
     
     for (var I = 0; I <recent_magnitudes_size - 1 ;++I) {recent_magnitudes [I] = recent_magnitudes [I + 1];}
     recent_magnitudes [recent_magnitudes_size - 1] = magnitude;
