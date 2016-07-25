@@ -31,6 +31,8 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
      <script type="text/javascript" src="/media/download.js?rr"></script>
      <script type="text/javascript">
 
+/* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
+window.global_hack = {}
 $(function(){
   var audio = new (window.AudioContext || window.webkitAudioContext)();
   var rate = audio.sampleRate;
@@ -50,7 +52,12 @@ $(function(){
     
 var source;
   var analyzer = audio.createAnalyser ();
-  var recorder = audio.createScriptProcessor (recorder_buffer_length, 1, 1);
+  var recorder = window.global_hack.recorder = audio.createScriptProcessor (recorder_buffer_length, 1, 1);
+  
+  /* major hack: the recorder is NOT supposed to be connected to anything,
+  but in Chrome, it literally doesn't work unless you connect it to the destination. In any case, it only outputs silence, so the workaround is tolerable. */
+  recorder.connect (audio.destination); 
+   
   var playback = audio.createGain ();
   playback.connect (audio.destination);
   var recording_1_second_width = rate/recorder_buffer_length;
@@ -185,7 +192,7 @@ recording.play_button.text ("Stop");
   var frequency_buffer_length = analyzer.frequencyBinCount; 
   var frequency_data = new Uint8Array(frequency_buffer_length);
   
-  recorder.onaudioprocess = function (event) {
+  recorder.onaudioprocess = window.global_hack.audio_process = function (event) {
     var input = event.inputBuffer.getChannelData (0);
     var square_total = 0;
     for (var sample = 0; sample <recorder_buffer_length;++sample) {
