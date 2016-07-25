@@ -26,7 +26,10 @@ canvas.recording {}
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
     </canvas><div class="control_panels "></div>
            <div class="recent_box "> When using auto recording, record exactly when the box is not empty. Click to move the corner of the box.<canvas id="recent_magnitudes"></canvas></div>
-     </main>'''), {"after_body":'''<script type="text/javascript">
+     </main>'''), {"after_body":'''
+     <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
+     <script type="text/javascript" src="/media/download.js?rr"></script>
+     <script type="text/javascript">
 
 $(function(){
   var audio = new (window.AudioContext || window.webkitAudioContext)();
@@ -136,7 +139,14 @@ function stop_playback (force) {
       stop_playback (true);
       if (!stop) { begin_playback (output, 0);}
     });
-    output.save_button = $("<div/>").addClass ("recording_button").text ("Save");
+    output.save_button = $("<div/>").addClass ("recording_button").text ("Save").click (function () {
+      var wav = audioBufferToWav(output.buffer);
+    var blob = new window.Blob([ new DataView(wav) ], {
+      type: 'audio/wav'
+    });
+
+      download (blob, "recording.wav", "audio/wav");
+    });
     output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button);
     $("main").append (output.element);
     output.canvas_context = output.canvas [0].getContext("2d");
