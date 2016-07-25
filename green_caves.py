@@ -92,8 +92,6 @@ else {
     window._update_to_real_time(now_milliseconds());
   });
 
-  // TODO make these events not update but instead insert
-  // a fiat event at event.timeStamp
   var mousemove_while_mouse_down_ingame = function(e){
     var pos = mouse_xy_relative_to_top_left_of_canvas(e);
     window._mouse_moves(e.timeStamp, pos.x, pos.y);
