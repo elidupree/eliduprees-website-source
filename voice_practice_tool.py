@@ -12,13 +12,14 @@ def add_page(page_dict):
       r'''<style type="text/css">
 html,body {background-color: white;}
 div.recording {display: inline-block; margin:3px;/* padding-left:12px;*/ background-color:#ccc;}
-canvas.recording {display: block;}
+canvas.recording {display: block; cursor: pointer;}
+#recent_magnitudes {cursor: pointer;}
 .control_panels {display: inline-block; vertical-align: middle;}
 .control_panel {display: inline-block; background-color: transparent; margin:3px;}
-.control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px; vertical-align: top;}
+.control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px; vertical-align: top; cursor: pointer;}
 .control.selected {background-color:#5f5; color:#000;}
 .recent_box {display: inline-block; vertical-align: middle;}
-.recording_button {padding:0 3px;}
+.recording_button {padding:0 3px; cursor: pointer;}
 .recordings {
     display: flex;
     flex-wrap: wrap-reverse;
