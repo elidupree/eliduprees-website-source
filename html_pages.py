@@ -24,10 +24,10 @@ def make_page(title, head_stuff, body_stuff, extras = {}):
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@EliDupree">
     <meta property="og:site_name" content="Eli Dupree's website">
-    <meta property="og:title" content="'''+ unbranded_title +'''">
-    <meta name="twitter:title" content="'''+ unbranded_title +'''">
-    <meta name="twitter:image" content="'''+ image +'''">
+    <meta property="og:title" content="'''+ title +'''">
+    <meta name="twitter:title" content="'''+ title +'''">
     <meta property="og:image" content="'''+ image +'''">
+    <meta name="twitter:image" content="'''+ image +'''">
     ''']
   if "blurb" in extras:
     blurb = html.escape (utils.strip_tags (extras ["blurb"]))
