@@ -19,7 +19,7 @@ def make_page(title, head_stuff, body_stuff, extras = {}):
     jQuery_after = jQuery
   
   unbranded_title = re.sub(r"\s*⊂.*", "", title)
-  image = utils.canonical_scheme_and_domain + (extras ["blurb_image"] if "blurb_image" in extras else "/media/colorful-background.png?rr")
+  image = (extras ["blurb_image"] if "blurb_image" in extras else "/media/colorful-background.jpg?rr")
   cooperation_stuff = ['''
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@EliDupree">

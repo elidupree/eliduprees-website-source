@@ -77,10 +77,7 @@ def main():
   page_dict = {}
 
   utils.checked_insert(page_dict, css.domain_relative_url(), css.build())
-
-  # for test builds:
-  utils.checked_insert(page_dict, "/robots.txt", '''User-agent: *
-Disallow: /''')
+  utils.checked_insert(page_dict, "/robots.txt", '''''')
 
   bars.add_home_page(page_dict)
   blog.add_pages(page_dict)
