@@ -240,5 +240,5 @@ def add_home_page(page_dict):
           </div>
         </div>
       ''',
-      {"canonical_path_override": "/"}
+      {"canonical_path_override": "/", "blurb": "Games – Comics – Stories – Blog", "blurb_image": "/media/site-logo.png?rr"}
   )
