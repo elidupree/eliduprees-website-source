@@ -27,9 +27,9 @@ A full revision history of this book, including alternate timelines and possible
 <bigbreak>
 
 
-Preamble
+<h2>Preamble</h2>
 
-We all know the quote from William Shakespeare, “The only way to stop a time traveler / is to be a more skillful time traveler”. In some ways, this is true: among all supernatural powers, time travel has always been one of the most difficult to fight against, and in some cases, the most dangerous to the entire world. However, Shakespeare does not tell the entire story. If you have to fight a time traveler, don’t despair. Despite their reputation, time travelers are human like the rest of us, and they have weaknesses that can be exploited.
+We all know the quote from William Shakespeare, "The only way to stop a time traveler / is to be a more skillful time traveler". In some ways, this is true: among all supernatural powers, time travel has always been one of the most difficult to fight against, and in some cases, the most dangerous to the entire world. However, Shakespeare does not tell the entire story. If you have to fight a time traveler, don’t despair. Despite their reputation, time travelers are human like the rest of us, and they have weaknesses that can be exploited.
 
 No better than Shakespeare’s cynicism is the cheerful subservience of the modern mass media, which typically tells stories of ordinary people being empowered by the force of time travel. They portray time travel as exciting, adventurous, and ultimately harmless. Make no mistake: time travel is power, and power attracts the most corrupt among us. The sheer scale of tyranny and abuse that has been enabled by time travel far outweighs any good it could possibly do.
 
@@ -37,8 +37,20 @@ I recognize that not all time travelers are evil, and not all non-time-travelers
 
 And lastly, if you are a time traveler yourself, don’t even bother trying to go back and prevent this book’s publication. It will only make things worse for you, trust me.
 
-
-Part one: General principles
+<h2>A Note on the Morality of Killing</h2>
+
+When it comes to fighting against time travelers, there are three main schools of thought.
+
+<strong>Regulationists</strong> believe in treating time travel like any other supernatural power. In regulationist thought, there are "good time travelers", with whom we should cooperate, and "evil time travelers", against whom we should fight. Regulationists generally believe that we should not kill any time traveler unless it is proven that they have greatly abused their power.
+
+<strong>Exterminationists</strong> believe that the idea of "good time travelers" is naïve. Even if a time traveler has no intention of using their powers for evil, they may still be manipulated by evil, or their powers may fall into the wrong hands. Therefore, exterminationists believe that all time travel must be destroyed, even if it requires the killing of innocent people. Some even believe in killing people who merely have the <em>possibility</em> of being time travelers, although even the most hard-line exterminationist must admit that unnecessary killing will harm their organization's ability to cooperate with ordinary people.
+
+Finally, <strong>futilists</strong> believe that it is counterproductive to try to fight against <em>any</em> time traveler, even the most evil ones. If we fight against time travelers, they say, we will not only fail, but also encourage them to take preemptive action against us. Futilists would no doubt oppose the publication of this book.
+
+This book does not take a position in the debate between regulationists and exterminationists. Instead, it merely documents techniques which either faction might use, <em>when</em> they determine that the time has come to fight.
+
+
+<h2>Part one: General principles</h2>
 
 Although there are many types of time travel, they have enough in common that much of the same advice is useful for almost all types of time travel.
 

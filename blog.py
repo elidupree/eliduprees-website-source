@@ -775,7 +775,7 @@ html.transcript_hidden_'''+ transcript_identifier_string +''' #hide_transcript_b
   else:
     post_content = re.sub ("<cut>", "", post_content)
   
-  calculate_readability = not stream_only
+  calculate_readability = (stream_only != True)
   if calculate_readability:
     #using the automated readability index
     reference = re.sub(r"\s+", " ", html.unescape (utils.strip_tags (post_content)))
