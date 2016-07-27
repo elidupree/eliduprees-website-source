@@ -39,6 +39,7 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
     </canvas><div class="page_description "></div><div class="control_panels "></div><!--
     --><div class="recent_box "><div class="recent_magnitudes_caption "></div><canvas id="recent_magnitudes"></canvas></div>
            <div class="recordings "></div>
+           '''+blog.comments_section("voice_practice_tool")+'''
      </main>'''), {"after_body":'''
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
      <script type="text/javascript" src="/media/download.js?rr"></script>
