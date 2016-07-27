@@ -3,6 +3,8 @@
 
 
 
+
+
 posts = [
 {
   "title":"Time Travelers and How to Kill Them: a Practical Guide",
@@ -11,12 +13,16 @@ posts = [
 "auto_paragraphs": True,
   "head":'''<style>
   .small_print {font-size: 90%;}
+  .small_print p {text-indent: 0; margin-top: 0; margin-bottom: 0;}
  </style>''', 
     
   "contents": '''
 <div class="small_print">
 Copyright © 2015, 2016, 2078, 664, 8981 BC, 7474+2i, International Time Travel Defense Research Group
-
+All rights reserved under the Atemporal Copyright Convention.
+Time Travelers and How to Kill Them: a Practical Guide.
+Revision f017f23, based on parent revisions 7eefc88, 0930966, and 5e83d8c.
+A full revision history of this book, including alternate timelines and possible lost versions, is on display at the Time Travel Historical Society in Vancouver.
 </div>
 <bigbreak>
 
