@@ -139,7 +139,6 @@ Get ready for an Eli Dupree-filled future!
 "title": "Story idea: The legendary monster hunter",
 "tags": ["story ideas"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "contents":'''
 A legendary monster hunter arrives from another world.
 
