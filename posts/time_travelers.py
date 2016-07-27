@@ -70,15 +70,15 @@ A word of caution: although killing time travelers is often <em>necessary</em> t
 
 <h4>Act In Secret</h4>
 
-Time travelers make incredible investigators. If they even begin to suspect what you’re planning, they might go back and spy on you for the entire time. Therefore, you must keep them completely unaware of your plans until the moment of your triumph, and you only get one chance to strike. Occasionally, this means “Only one chance in each timeline they create”, but usually, it means only one chance total.
+Time travelers make incredible investigators. If they even begin to suspect what you’re planning, they might go back and spy on you for the entire time. Therefore, you must keep them completely unaware of your plans until the moment of your triumph, and you only get one chance to strike. Occasionally, this means "Only one chance in each timeline they create", but usually, it means only one chance total.
 
-Spy On Them
+<h4>Spy On Them</h4>
 
-To defeat a time traveler, you need to know how their powers work and what their habits are. Using human spies is risky, but hidden cameras are very effective.
+To defeat a time traveler, you need to know how their powers work and what their habits are. Using human spies is risky, but hidden cameras can be effective. Time travelers are generally no more likely to notice such things than anyone else.
 
-A word of warning: if your time traveler can go back and try different actions, they may notice that you behave differently depending on what they do while in front of the cameras. Play it safe: save up the camera recordings for a while without watching them, and after you do watch them, don’t let the time traveler see you.
+A word of warning: if your time traveler can go back and try different actions, they may notice that you behave differently depending on what they do while in front of the cameras. Depending on the situation, it may be wise to save up the camera recordings for a while without watching them, so that your responses don't give anything away.
 
-Trick Them
+<h4>Trick Them</h4>
 
 Using time travel usually has far-ranging effects, many of which the time travelers themselves do not intend. It is often possible to manipulate the unintended effects to gain an advantage against them.
 
