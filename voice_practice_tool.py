@@ -18,6 +18,7 @@ canvas.recording {display: block; cursor: pointer;}
 .control_panel {display: inline-block; background-color: transparent; margin:3px; vertical-align: top;}
 .control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px; vertical-align: top; cursor: pointer;}
 .control.selected {background-color:#5f5; color:#000;}
+.text-danger {color:#d9534f;}
 .recent_box {display: inline-block; vertical-align: middle; background-color:#ccc;}
 .recent_magnitudes_caption {padding:4px;}
 .recording_button {padding:0 3px; cursor: pointer;}
@@ -27,9 +28,10 @@ canvas.recording {display: block; cursor: pointer;}
 }
 .page_description {padding:0.3em 2em; font-size: 110%;}
 
-span.no_overlay {position: relative; z-index: 2;}
+.fa-stack.force_small {width:1em; height:1em; line-height:0.7em;}
 span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
     </style> 
+    <link rel="stylesheet" href="/media/font-awesome-4.6.3/css/font-awesome.min.css">
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="320" height="80">
@@ -82,7 +84,7 @@ var source;
   var iterate_playback;
   var logarithmic;
   
-var no = function (underlay) {return '<span class="no_overlay">🚫<span class="no_underlay">' + underlay + '</span></span>';};
+var no = function (underlay) {return '<span class="fa-stack force_small">  <i class="fa fa-' + underlay + ' fa-stack-1x"></i> <i class="fa fa-ban fa-stack-1x text-danger fa-lg"></i></span>';};
   
 function stop_playback (force) {
     if (current_playback) {
@@ -113,7 +115,7 @@ function stop_playback (force) {
       }
       if (recordings.length === 2) {
         var saving = false;
-        $(".control_panels").append (singleton_panel($("<div/>").text ("💾 All").click(function () {
+        $(".control_panels").append (singleton_panel($("<div/>").html ('<i class="fa fa-floppy-o"></i> All').click(function () {
           if (saving) {return;}
           saving = true;
           var zip = new JSZip();
@@ -182,7 +184,7 @@ function stop_playback (force) {
     var date = new Date ();
     output.date_string = date.getFullYear () + "-" + date.getMonth () + "-" + date.getDate () + "-" + date.getHours ()  + "-" + date.getMinutes ()  + "-" + date.getSeconds () ;
     output.filename ="recording-" + output.date_string + ".wav";
-    output.save_button = $("<div/>").addClass ("recording_button").text ("💾").click (function () {
+    output.save_button = $("<div/>").addClass ("recording_button").html ('<i class="fa fa-floppy-o"></i>').click (function () {
       var wav = audioBufferToWav(output.buffer);
       var blob = new window.Blob([ new DataView(wav) ], { type: 'audio/wav' });
       download (blob, output.filename, "audio/wav");
@@ -209,13 +211,13 @@ context.lineTo (I, recording_height/2 - recording.lines [I]*recording_height/2);
     }
 context.stroke ();
     if (current_playback && current_playback.recording=== recording) {
-recording.play_button.text ("⏹");
+recording.play_button.html ('<i class="fa fa-stop"></i>');
     context.strokeStyle = "rgb(255, 255, 0)"
     context.beginPath ();
       var X = (current_playback.start_position + (audio.currentTime - current_playback.start_time))*recording_1_second_width; context.moveTo (X, 0); context.lineTo (X, recording_height); context.stroke ();
     }
     else {
-    recording.play_button.text ("▶️");
+    recording.play_button.html ('<i class="fa fa-play"></i>');
     }
   }
 
@@ -366,42 +368,42 @@ verbose.push ([controls [index], info [1]]);
   }
 
   make_control_panel (null, 1, [
-    ["⏺","On", function () {
+    ['<i class="fa fa-microphone"></i>',"On", function () {
 
     set_current_recording (create_recording ());
     auto_recording = false;}
 ],
-[no ("⏺"),"Off", function () {
+[no ('microphone'),"Off", function () {
     set_current_recording (undefined);
     auto_recording = false;}
 ],
-["⏺!","Auto", function () {auto_recording = true;}]
+['<i class="fa fa-microphone"></i><i class="fa fa-cog"></i>',"Auto", function () {auto_recording = true;}]
 ]);
 
   make_control_panel ("pause_during_playback", 0, [
-    ["▶️" + no ("⏺"),"During playback, pause recording and display the playback data in the histogram", function () {
+    ['<i class="fa fa-play"></i>' + no ('microphone'),"During playback, pause recording and display the playback data in the histogram", function () {
 
     pause_during_playback = true;}
 ],
-["▶️⏺","During playback, continue recording and displaying the microphone input data in the histogram", function () {
+['<i class="fa fa-play"></i><i class="fa fa-microphone"></i>',"During playback, continue recording and displaying the microphone input data in the histogram", function () {
     pause_during_playback = false;}
 ]]);
 
   make_control_panel ("auto_playback", 1, [
-    ["⏺▶️","Whenever a recording finishes, play it back automatically", function () {
+    ['<i class="fa fa-microphone"></i><i class="fa fa-play"></i>',"Whenever a recording finishes, play it back automatically", function () {
 
 auto_playback = true;}
 ],
-["🚫","Don't", function () {
+['<i class="fa fa-ban"></i>',"Don't", function () {
 auto_playback = false;}
 ]]);
 
   make_control_panel ("iterate_playback", 1, [
-    ["▶️▶️","Play back multiple recordings in a row", function () {
+    ['<i class="fa fa-play"></i><i class="fa fa-play"></i>',"Play back multiple recordings in a row", function () {
 
 iterate_playback = true;}
 ],
-["▶️","Only play back one recording at a time", function () {
+['<i class="fa fa-play"></i>',"Only play back one recording at a time", function () {
 iterate_playback = false;}
 ]]);
 
@@ -423,7 +425,7 @@ verbose.push ([$(".vpt_patreon"), 'If you like this tool, consider <a href="http
 
 update_controls (verbose);}
 ],
-["🚫","Terse options", function () {
+['<i class="fa fa-ban"></i>',"Terse options", function () {
 update_controls (terse);}
 ]]);
 
