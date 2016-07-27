@@ -46,9 +46,6 @@ stories = flatten([
   posts.time_travelers.posts,
   posts.stories_01.posts,
 ])
-stories_map = {}
-for story in stories:
-  stories_map [story ["title"]] = story
 
 uncategorized_posts = flatten([
   posts.uncategorized_01.posts,
@@ -65,6 +62,10 @@ signature = "<p> &ndash; Eli</p>"
 if "--deploy" in sys.argv:
   for category in posts:
     posts [category] = [post for post in posts [category] if "don't deploy" not in post]
+
+stories_map = {}
+for story in posts ["stories"]:
+  stories_map [story ["title"]] = story
 
 for cat,post_list in posts.items():
   for post_dict in post_list:
