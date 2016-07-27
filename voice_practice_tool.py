@@ -15,7 +15,7 @@ div.recording {display: inline-block; margin:3px;/* padding-left:12px;*/ backgro
 canvas.recording {display: block; cursor: pointer;}
 #recent_magnitudes {cursor: pointer;}
 .control_panels {display: inline-block; vertical-align: middle;}
-.control_panel {display: inline-block; background-color: transparent; margin:3px;}
+.control_panel {display: inline-block; background-color: transparent; margin:3px; vertical-align: top;}
 .control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px; vertical-align: top; cursor: pointer;}
 .control.selected {background-color:#5f5; color:#000;}
 .recent_box {display: inline-block; vertical-align: middle;}
@@ -24,6 +24,9 @@ canvas.recording {display: block; cursor: pointer;}
     display: flex;
     flex-wrap: wrap-reverse;
 }
+
+span.no_overlay {position: relative; z-index: 2;}
+span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
     </style> 
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
@@ -76,6 +79,9 @@ var source;
   var auto_playback;
   var iterate_playback;
   var logarithmic;
+  
+var no = function (underlay) {return '<span class="no_overlay">🚫<span class="no_underlay">' + underlay + '</span></span>';};
+  
 function stop_playback (force) {
     if (current_playback) {
     var old_player = current_playback.player;
@@ -355,7 +361,7 @@ verbose.push ([controls [index], info [1]]);
     set_current_recording (create_recording ());
     auto_recording = false;}
 ],
-["🚫⏺","Off", function () {
+[no ("⏺"),"Off", function () {
     set_current_recording (undefined);
     auto_recording = false;}
 ],
@@ -363,7 +369,7 @@ verbose.push ([controls [index], info [1]]);
 ]);
 
   make_control_panel ("pause_during_playback", 0, [
-    ["▶️🚫⏺","During playback, pause recording and display the playback data in the histogram", function () {
+    ["▶️" + no ("⏺"),"During playback, pause recording and display the playback data in the histogram", function () {
 
     pause_during_playback = true;}
 ],
