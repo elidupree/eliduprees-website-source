@@ -45,7 +45,7 @@ When it comes to fighting against time travelers, there are three main schools o
 
 <strong>Exterminationists</strong> believe that the idea of "good time travelers" is naïve. Even if a time traveler has no intention of using their powers for evil, they may still be manipulated by evil, or their powers may fall into the wrong hands. Therefore, exterminationists believe that all time travel must be destroyed, even if it requires the killing of innocent people. Some even believe in killing people who merely have the <em>possibility</em> of being time travelers, although even the most hard-line exterminationist must admit that unnecessary killing will harm their organization's ability to cooperate with ordinary people.
 
-Finally, <strong>futilists</strong> believe that it is counterproductive to try to fight against <em>any</em> time traveler, even the most evil ones. If we fight against time travelers, they say, we will not only fail, but also encourage them to take preemptive action against us. Futilists would no doubt oppose the publication of this book.
+Finally, <strong>futilists</strong> believe that it is counterproductive to try to fight against <em>any</em> time traveler, even the most evil ones. If we fight against time travelers, they say, we will not only fail, but also encourage them to take preemptive action against us. Futilists would no doubt oppose the entire premise of this book, so we need not give any serious consideration to their perspective.
 
 This book does not take a position in the debate between regulationists and exterminationists. Instead, it merely documents techniques which either faction might use, <em>when</em> they determine that the time has come to fight.
 
@@ -54,15 +54,21 @@ This book does not take a position in the debate between regulationists and exte
 
 Although there are many types of time travel, they have enough in common that much of the same advice is useful for almost all types of time travel.
 
-Just Kill Them
+<h3>1.1: Countering time travel</h3>
 
-Time travelers are too dangerous to be allowed to live. Luckily, a dead time traveler cannot use their time travel abilities, ever.
+<h4>Destroy the source</h4>
 
-I once worked as a consultant to a spymaster who tried to imprison a time traveler without killing them. The time traveler escaped with outside help, then went back in time to provide that outside help to themselves. Don’t fall for this trap. Just kill them immediately.
+All time travel abilities have a specific source &ndash; usually a machine, a spirit, or a human being. If you want to stop the time travel, you have to destroy the source.
 
-A word of caution: Some time travelers can use their powers as a purely mental action. Such time travelers typically use their powers as a reflexive response to any sudden danger. If you shoot them in the heart, they may be able to reverse the attack before their brains stop functioning. Shooting them in the head is tempting, but you can’t be sure to hit the right brain region on the first try. Play it safe - use a grenade. If possible, do it while they’re asleep.
+If the source is a human, that means the human has to die. Other methods, like drugging them or imprisoning them, can theoretically work, but have very low success rates. All types of time traveler have unique abilities to escape ordinary imprisonment. This is why our title reads "How to Kill Them", not "How to Stop Them". Even the most merciful regulationist will not usually be able to stop a human time traveler without killing, if the human is not relying on a machine or spirit that can be destroyed separately.
 
-Act In Secret
+
+
+The unique concerns of time travel are the reason why time travel defense organizations are not simply divisions of general security groups. This is exemplified by the American Superpower Defense Force handling of the Kellianne Grory case. The ASDF held Grory in a special cell that suppressed all supernatural abilities. This would have been sufficient to contain almost any power user, but not the specific type of time traveler that Grory had become. Grory escaped the cell with help from outside &ndash; then went back in time to provide that outside help to herself.
+
+A word of caution: although killing time travelers is often <em>necessary</em> to stop them, it is not always <em>sufficient</em>. We will list a few of the caveats here: If a human time traveler is using a non-human source, the source may be able to reset the situation even after the human is killed. If a human time traveler is killed with ordinary weapons, they may have a few moments before death when they can reflexively reverse time. And in the rare case that multiple time travelers work together, the survivors may be able to undo the death of one of their allies. The most pragmatic attack &ndash; especially if you are an exterminationist &ndash; is to simultaneously kill the time travelers and destroy their devices, instantaneously, before they have any opportunity to realize the danger.
+
+<h4>Act In Secret</h4>
 
 Time travelers make incredible investigators. If they even begin to suspect what you’re planning, they might go back and spy on you for the entire time. Therefore, you must keep them completely unaware of your plans until the moment of your triumph, and you only get one chance to strike. Occasionally, this means “Only one chance in each timeline they create”, but usually, it means only one chance total.
 
