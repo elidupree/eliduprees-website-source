@@ -327,7 +327,7 @@ var previous = 0;
 terse.push ([$(".recent_magnitudes_caption"), ""]);
 verbose.push ([$(".recent_magnitudes_caption"), "When using auto recording, record exactly when the box is not empty. Click to move the corner of the box."]);
 terse.push ([$(".page_description"), ""]);
-verbose.push ([$(".page_description"), "This page lets you record your own voice, play it back to yourself, and save the recordings to a file. Tested in Firefox 47.0.1 and Chrome 52.0.2743.82 m."]);
+verbose.push ([$(".page_description"), "This page lets you record your own voice, play it back to yourself, and save the recordings to a file. Tested in Firefox and Chrome; may not work in other browsers."]);
   
   function update_controls (info) {
     for (var I = 0; I <info.length;++I) {
