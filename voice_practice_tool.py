@@ -35,6 +35,7 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
      </main>'''), {"after_body":'''
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
      <script type="text/javascript" src="/media/download.js?rr"></script>
+     <script type="text/javascript" src="/media/jszip.min.js?rr"></script>
      <script type="text/javascript">
 
 /* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
@@ -98,6 +99,21 @@ function stop_playback (force) {
       if (recordings.length >1) {
         recordings [recordings.length - 2].next = current_recording;
       }
+      if (recordings.length === 2) {
+        var saving = false;
+        $(".control_panels").append ($("<div/>").addClass ("control").text ("💾 All").click(function () {
+          if (saving) {return;}
+          saving = true;
+          var zip = new JSZip();
+          for (var I = 0; I <recordings.length;++I) {
+      var wav = audioBufferToWav(recordings [I].buffer);
+            var blob = new window.Blob([ new DataView(wav) ], { type: 'audio/wav' });
+            zip.file (recordings [I].filename, blob);
+          }
+
+          zip.generateAsync ({type: "blob"}).then (function (blob) {download (blob, "all-recordings-" + recordings [recordings.length - 1].date_string + ".zip", "application/zip"); saving = false;});
+        }));
+      }      
     }
     if (old_recording) {
       draw_recording (old_recording);
@@ -153,13 +169,11 @@ function stop_playback (force) {
     });
     var date = new Date ();
     output.date_string = date.getFullYear () + "-" + date.getMonth () + "-" + date.getDate () + "-" + date.getHours ()  + "-" + date.getMinutes ()  + "-" + date.getSeconds () ;
+    output.filename ="recording-" + output.date_string + ".wav";
     output.save_button = $("<div/>").addClass ("recording_button").text ("💾").click (function () {
       var wav = audioBufferToWav(output.buffer);
-    var blob = new window.Blob([ new DataView(wav) ], {
-      type: 'audio/wav'
-    });
-
-      download (blob, "recording-" + output.date_string + ".wav", "audio/wav");
+      var blob = new window.Blob([ new DataView(wav) ], { type: 'audio/wav' });
+      download (blob, output.filename, "audio/wav");
     });
     output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button);
     $(".recordings").append (output.element);
