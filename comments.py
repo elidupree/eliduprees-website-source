@@ -204,7 +204,7 @@ comments = [
 },
 {
   "parent":"25385117ba48e4172aed0855b01075f9",
-  "username":"UntamableSpirit",
+  "username":"Untamable Spirit",
   "contents":"""I can imagine pain pretty easily, and I have a clearer feeling if I have actually experienced it before.  I have never broken a bone, so if I try to imagine breaking my leg, I can imagine pain, but the feeling is a little unclear (like a blurry image) since I don't know exactly what it would feel like to break my leg.  If I imagine spraining my ankle, it's like I have a clearer picture of the pain in my mind because I have sprained my ankle before so I know what it feels like.  The imaginary pain is at its absolute clearest when I'm about to experience it again; if I'm about to get a shot, for example, I can feel the pain really strongly in my mind right before I get the shot because the memories of all the other shots I've had just flood into my mind when I'm in that situation again.<br/><br/>I don't think I experience physical pain in my dreams the same way I can if I'm awake and imagining.  If I'm dreaming about something that involves pain, usually the emotions I feel are dominant over any physical sensation, and I will usually wake up before feeling pain.""",
   "id":"52418c2d3a9b615f5beac513cb6252ab",
   "date_posted":datetime.date(2011, 7, 21)
@@ -267,7 +267,7 @@ If you're only talking about cases with huge age gaps, like 6-10 vs. 18-30, then
 {
   "parent":"25385117ba48e4172aed0855b01075f9",
   "username":"Angries",
-  "contents":"""<strong>TRIGGER WARNING</strong><br/>The type of pain I'm trying to imagine influences the ease of imagining it.<br/>Having been a cutter for such a long time, I can imagine the feeling of slicing into myself pretty well, probably because I've experienced it so many times. It's still slightly blurry (stolen from UntamableSpirit, i immediately thought "yes!" when i read that in your post), but more accessible when I'm contemplating doing it again or thinking really specifically about how cutting feels.<br/>However, there are other kinds of pain I can't imagine easily. For some reason the type of pain I experience when something that causes a large enough amount of pain that it makes me pretty much unable to think about anything else, I can't access at all.<br/>I guess for me it's based on what I've experienced the most.<br/><strong>TRIGGER WARNING</strong>""",
+  "contents":"""<strong>TRIGGER WARNING</strong><br/>The type of pain I'm trying to imagine influences the ease of imagining it.<br/>Having been a cutter for such a long time, I can imagine the feeling of slicing into myself pretty well, probably because I've experienced it so many times. It's still slightly blurry (stolen from Untamable Spirit, i immediately thought "yes!" when i read that in your post), but more accessible when I'm contemplating doing it again or thinking really specifically about how cutting feels.<br/>However, there are other kinds of pain I can't imagine easily. For some reason the type of pain I experience when something that causes a large enough amount of pain that it makes me pretty much unable to think about anything else, I can't access at all.<br/>I guess for me it's based on what I've experienced the most.<br/><strong>TRIGGER WARNING</strong>""",
   "id":"af47f4c370fc5b64c3da33bd516a53b4",
   "date_posted":datetime.date(2011, 7, 22)
 },
@@ -1234,7 +1234,7 @@ Also, think about what people would have said to Granger after ze was attacked b
 },
 {
   "parent":"d17079e65e6384ab2e774238890e6b9",
-  "username":"UntamableSpirit",
+  "username":"Untamable Spirit",
   "contents":"""Thank you so much for addressing this issue! Harry Potter is my favorite series, but I have always thought the issue of finding out when you're 11 that you have magical powers and you can't tell any of your friends was a problem. In real life, all my friends would talk about wanting to get their Hogwarts letter, and I said the same thing but I honestly didn't think I'd want to leave my family and friends behind at age 11, even for something like Hogwarts. It's like, you wouldn't have the support system going into the school and you couldn't really be friends after that because you'd have this huge secret. You could never go back. And even though your parents/guardians would know about Hogwarts, they couldn't even see the school if they were muggles, so they couldn't even come and visit you or see you play quidditch like wizard parents.<br/><br/>I always thought that Harry having absolutely no one at home was a little contrived - all his grandparents are apparently dead even though his parents were only 20 when they died, he has no friends because of Dudley, even though Harry and Dudley went to different schools, and if Dudley was bullying other kids then those other kids could be friends with Harry. I thought J K Rowling did that on purpose so that she wouldn't have to deal with Harry losing relationships back at home, so that it was logical that he'd just be happy at Hogwarts because anyplace would be better than his home environment. Harry and Tom Riddle have that in common in the books.<br/><br/>As for Hermione, I always wondered why she never mentioned any friends at home. I wondered if we were supposed to assume that she didn't fit in at home because she's so interested in reading and learning. In the first book, Hermione doesn't really make friends until after the troll incident, so maybe we're supposed to assume she didn't have many friends back at home. And if we do assume that, then Harry, Tom Riddle, and Hermione are all entering the school without having that support system from home in the first place, so not being able to tell anyone wouldn't be an issue. But there is a general sense of "Hogwarts is the awesomest place in the world," that is shared by everybody - absolutely no one seems to be homesick or have issues adjusting to the new lifestyle or missing their friends from home, even though it's logical that muggle-born students especially would have these issues. And I think you're right that there would be an achievement gap. Hermione is smarter than most, but Harry definitely would have struggled more. And how could he be the youngest quidditch seeker of the century when the wizard-born kids grew up riding on toy broomsticks?""",
   "id":"82381df2eadd0bd3432f9cc4ab648089",
   "date_posted":datetime.date(2013, 6, 3)
@@ -1276,38 +1276,45 @@ Also, think about what people would have said to Granger after ze was attacked b
 },
 {
   "parent":"d2c804969243f5f7f2dbf1cc6f8814f1",
-  "username":"UntamableSpirit",
+  "username":"Untamable Spirit",
   "contents":"""I know you posted this a long time ago, but I've been thinking about it again recently and thought I'd comment..<br/><br/>I do understand the analogy about the class with the fly buzzing around. That's how I think about most things that I'm willing to do. For example, say I have to drive a long way to see a friend. I may wish that they lived closer, but I don't really get frustrated by the drive because seeing my friend is worth the drive to me. I felt the same way even when long drives were really stressful for me. <br/><br/>But when I have to do that same drive for another reason, like going to class or to an interview, then it frustrates me because I don't really enjoy class or interviews and the drive doesn't feel worth it. Even if the interview will benefit me in the long-run, it's not an immediately enjoyable activity so I get frustrated at the drive because I don't really want to go.<br/><br/>I think the problem here is that a lot of us do feel like we have to do things, like graduating from college. You manage to not get frustrated at anything because if that insect really made the class not worth going to, you'd stop going. But I wouldn't - I would feel like I had to stay in the class even if the insect actually made me unwilling to stay, like the insect wasn't a good enough (or socially acceptable enough) reason to quit. <br/><br/>I think this is why I sometimes have trouble commiserating with other people - because to them, the class is still worth taking with the insect in it, and to me, it's not worth it. I'm staying even though quitting is the better option for me.""",
   "id":"21bfa0c8777f97269d55211555f8aeb0",
   "date_posted":datetime.date(2013, 6, 27)
 },
 {
   "parent":"2556d1049ea3c95822b18d369965bc15",
-  "username":"UntamableSpirit",
+  "username":"Untamable Spirit",
   "contents":"""I should have totally responded to this earlier, not sure why I didn't, but I'll do that now...<br/><br/>So, I'm "Friend 1" in the first scenario, and this is probably what we talked about at the time, but I'm going to say it again for other people reading: In terms of privileged people saying things about the world and less privileged people saying things about themselves, I've experienced that firsthand. Not just with other people's behavior, but I noticed a huge change in the way I talk about things once I was in a situation where I had less privilege/social power. I used to make blanket statements about things - if I personally loved something, I would just say, "This thing is awesome!" and I would keep repeating that even if someone told me that it was not awesome for them. I made a lot of generalizations and wasn't good about listening to people. <br/><br/>Then I entered a really bad situation, a situation that was a dream come true for most of the people in it, but a living nightmare for me. When I tried to tell people how bad things were for me, they invalidated my feelings just like I used to invalidate other people's feelings. They would make blanket statements about something being awesome or fine or at the very least acceptable for everyone, and I was *constantly* correcting them, saying, "No, that's not true for everyone because it's not true for me," but I apparently did not count as a real person because they would continue to believe these universal statements. <br/><br/>Ever since that happened, my own language changed completely. Not at first - when I was in the center of the storm, I tried to fight back by pushing my own reality back on people as a universal truth. And I will still do that a lot when someone is pushing their reality on me. But when that's not going on, when we're just talking, I am a lot more aware of not making universal statements about things. Now I will try to say, "Thing A was awesome for me because I love Thing B," and acknowledge the fact that everyone does not like Thing B.  I used to make universal statements, but ever since I experienced what it was like to not be in the majority, I've started doing the opposite. I'm currently working on a book about validating people's feelings/experiences, and I talk a lot about trying to make statements about yourself rather than the world. (Which is what returned me to this post in the first place!)""",
   "id":"d3b7109e334157b1c5c17196e7ab3f87",
   "date_posted":datetime.date(2014, 10, 20)
 },
 {
   "parent":"20b43baa61dce7ca4d4a7d7d069c22d5",
-  "username":"UntamableSpirit",
+  "username":"Untamable Spirit",
   "contents":"""I grew up believing in the whole "strict but fair" thing, but I absolutely see what you mean now. "strict but fair" teachers were never really fair to everyone. I definitely agree with you about it only being fair when students set their own goals.""",
   "id":"794ad86bfaad8ccaf0c13497274df6d5",
   "date_posted":datetime.date(2014, 12, 10)
 },
 {
   "parent":"35271e0c4603cfd4a05456a8ba8aaba6",
-  "username":"UntamableSpirit",
+  "username":"Untamable Spirit",
   "contents":"""YES! I love that Harry sees not destroying Hagrid's hut as a character flaw, not that it's inherently bad to hold yourself back from something like that, but Harry clearly does not want to hold zemself back in this case. Harry's inability to bring zemself to react the way ze wants to is clearly preventing Harry from doing what ze wants to do. I'm really glad you brought up the distinction between something being an actual flaw that prevents the character from accomplishing their goals and something that you just don't think they should do. Of course, a lot of people will read this scene and think that it's a character flaw that Harry considers it a character flaw that ze couldn't burn down Hagrid's hut, so I'm glad you addressed that in the notes :-)""",
   "id":"586c0dd4684097a602093f1d12f4d3eb",
   "date_posted":datetime.date(2014, 12, 12)
 },
 {
   "parent":"28d29ef3f41cfa016d703c6782c7d115",
-  "username":"UntamableSpirit",
+  "username":"Untamable Spirit",
   "contents":"""This is such a terrible thing for Dumbledore to do! When I first read the first book, I sort of imagined Dumbledore doing things like this for Harry while Harry was with the Dursleys. I didn't think specifically about suicide attempts, but I did imagine Dumbledore saving Harry when zir life was in danger or helping zem when ze tried to run away. But I never stopped and thought that after Dumbledore had placed Harry with zir abusive relatives, Dumbledore was actually blocking Harry's only escapes from the abuse by "protecting" Harry. What a jerk!!!""",
   "id":"9ab804991b4177562d7c38bae69173e6",
   "date_posted":datetime.date(2014, 12, 15)
+},
+{
+  "parent":"b8d3df5567ce10c2c742ab67c3f2813",
+  "username":"Untamable Spirit",
+  "contents":"""I am definitely looking forward to an Eli Dupree-filled future! :-)""",
+  "id":"50cb76653e67f7b3e952379abb5b0086",
+  "date_posted":datetime.date(2016, 7, 26)
 },
 
 ]
