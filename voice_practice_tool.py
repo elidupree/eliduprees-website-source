@@ -99,6 +99,10 @@ function stop_playback (force) {
     if (iterate_playback && redraw.next &&!force) {begin_playback (redraw.next, 0);}
     }
   }
+  function singleton_panel(elem) {
+    elem.addClass ("control");
+    return $("<div/>").addClass ("control_panel").append(elem);
+  }
   function set_current_recording (recording) {
     var old_recording = current_recording;
     current_recording = recording;
@@ -109,7 +113,7 @@ function stop_playback (force) {
       }
       if (recordings.length === 2) {
         var saving = false;
-        $(".control_panels").append ($("<div/>").addClass ("control").text ("💾 All").click(function () {
+        $(".control_panels").append (singleton_panel($("<div/>").text ("💾 All").click(function () {
           if (saving) {return;}
           saving = true;
           var zip = new JSZip();
@@ -120,7 +124,7 @@ function stop_playback (force) {
           }
 
           zip.generateAsync ({type: "blob"}).then (function (blob) {download (blob, "all-recordings-" + recordings [recordings.length - 1].date_string + ".zip", "application/zip"); saving = false;});
-        }));
+        })));
       }      
     }
     if (old_recording) {
@@ -409,6 +413,10 @@ logarithmic = false;}
 ["Log","Log scale (1 pixel = X semitones)", function () {
 logarithmic = true;}
 ]]);
+
+$(".control_panels").append (singleton_panel($("<div/>").addClass("vpt_patreon").addClass("hidden_from_restricted_users")));
+terse.push ([$(".vpt_patreon"), '<a href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt="Patreon" /></a>']);
+verbose.push ([$(".vpt_patreon"), 'If you like this tool, consider <a href="https://www.patreon.com/EliDupree">supporting me on Patreon</a> so that I can continue making awesome things and sharing them for free on the Internet.']);
 
   make_control_panel ("verbose", 0, [
     ["Verbose","Verbose options", function () {
