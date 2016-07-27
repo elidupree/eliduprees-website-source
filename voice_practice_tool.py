@@ -13,17 +13,19 @@ def add_page(page_dict):
 html,body {background-color: white;}
 div.recording {display: inline-block; margin:3px;/* padding-left:12px;*/ background-color:#ccc;}
 canvas.recording {display: block; cursor: pointer;}
-#recent_magnitudes {cursor: pointer;}
+#recent_magnitudes {display: block; cursor: pointer;}
 .control_panels {display: inline-block; vertical-align: middle;}
 .control_panel {display: inline-block; background-color: transparent; margin:3px; vertical-align: top;}
 .control {display: inline-block; background-color:#ccc; color:#555; font-weight: bold; padding:4px; vertical-align: top; cursor: pointer;}
 .control.selected {background-color:#5f5; color:#000;}
-.recent_box {display: inline-block; vertical-align: middle;}
+.recent_box {display: inline-block; vertical-align: middle; background-color:#ccc;}
+.recent_magnitudes_caption {padding:4px;}
 .recording_button {padding:0 3px; cursor: pointer;}
 .recordings {
     display: flex;
     flex-wrap: wrap-reverse;
 }
+.page_description {padding:0.3em 2em; font-size: 110%;}
 
 span.no_overlay {position: relative; z-index: 2;}
 span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
@@ -32,7 +34,7 @@ span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="320" height="80">
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
-    </canvas><div class="control_panels "></div><!--
+    </canvas><div class="page_description "></div><div class="control_panels "></div><!--
     --><div class="recent_box "><div class="recent_magnitudes_caption "></div><canvas id="recent_magnitudes"></canvas></div>
            <div class="recordings "></div>
      </main>'''), {"after_body":'''
@@ -320,10 +322,13 @@ var previous = 0;
   var verbose = [];
 terse.push ([$(".recent_magnitudes_caption"), ""]);
 verbose.push ([$(".recent_magnitudes_caption"), "When using auto recording, record exactly when the box is not empty. Click to move the corner of the box."]);
+terse.push ([$(".page_description"), ""]);
+verbose.push ([$(".page_description"), "This page lets you record your own voice, play it back to yourself, and save the recordings to a file. Tested in Firefox 47.0.1 and Chrome 52.0.2743.82 m."]);
   
   function update_controls (info) {
     for (var I = 0; I <info.length;++I) {
-      info [I] [0].empty ().append (info [I] [1]);
+      info [I] [0].empty ().append (info [I] [1]).show ();
+      if (info [I] [1] === "") {info [I] [0].hide ();}
     }
   }
   function make_control_panel (save, selected, controls){
@@ -351,7 +356,8 @@ verbose.push ([controls [index], info [1]]);
   panel.append (controls [I]);
     }
 
-    $(".control_panels").append (panel);    
+  /*hack: the verbose option currently must be listed last, but we want it earlier in the page*/
+   if (save === "vpt_verbose") { $(".control_panels").children ().first ().after (panel);} else { $(".control_panels").append (panel); }
     controls [selected].click ();
   }
 
