@@ -31,7 +31,7 @@ canvas.recording {display: block; cursor: pointer;}
 .fa-stack.force_small {width:1em; height:1em; line-height:0.7em;}
 span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
     </style> 
-    <link rel="stylesheet" href="/media/font-awesome-4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/media/font-awesome-4.6.3/css/font-awesome.min.css?rr">
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="320" height="80">
