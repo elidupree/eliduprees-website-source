@@ -316,5 +316,5 @@ The game should appear here, but it hasn't. Maybe you don't have JavaScript enab
     </canvas>
     '''+ blog.comments_section ("pac_asteroids") +''' </div>
   </div>
-</main>'''), {"jQuery_before": True}
+</main>'''), {"jQuery_before": True, "blurb": "A half-baked, unfinished online game.", "blurb_image": "/media/pac-asteroids-thumbnail.png?rr"}
   )

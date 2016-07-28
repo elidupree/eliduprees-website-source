@@ -6,6 +6,8 @@ import html_pages
 import bars
 import exmxaxixl
 import blog
+
+blurb = "A sexual board game for two or more players"
 	  
 def add_game(page_dict):
   utils.make_page (page_dict,
@@ -86,7 +88,7 @@ div.hexy_content .important_link {
 <div class="bigbox_outer">
 <div class="bigbox">
   <h1>Hexy Bondage</h1>
-  <div class="subtitle">A sexual board game for two or more players</div>
+  <div class="subtitle">'''+ blurb +'''</div>
   <p>
 Hexy Bondage is a game where in-game actions cause you to be tied up in real life.
   </p>
@@ -123,5 +125,5 @@ when their “opponent” is too tied up to reach the board.
 </div>
 </div>
   </div>
-</main>'''), {"html_class":"hexy"}
+</main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr"}
   )

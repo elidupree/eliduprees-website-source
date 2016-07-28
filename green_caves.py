@@ -4,6 +4,8 @@
 import utils
 import bars
 import blog
+
+blurb = "Will you explore peacefully, doing as little damage as possible? Or will you destroy everything in sight?"
 	  
 def add_game(page_dict):
   utils.make_page (page_dict,
@@ -23,7 +25,7 @@ p {text-align: center; font-size: 120%;}
       <div class="green_caves_content">
     <div style="min-height: 50%;"><div style="min-height: 390px"></div></div><div style=" margin-top:-390px">
       <p>You are surrounded by endless caves.</p>
-      <p>Will you explore peacefully, doing as little damage as possible? Or will you destroy everything in sight?</p>
+      <p>'''+ blurb +'''</p>
       <p>Arrow keys or WASD to move. Point and click to shoot. Click in the <strong>timeline</strong> at the right to return to different points in history!</p>
     </div>
     <div style="margin: 0 auto; width:804px; cursor: crosshair"><canvas id="game_canvas" width="804" height="600">
@@ -159,5 +161,5 @@ else {
 
 };
     </script>
-    <script type="text/javascript" src="/media/green_caves.js?rr"></script>''', {}
+    <script type="text/javascript" src="/media/green_caves.js?rr"></script>''', {"blurb": blurb, "blurb_image": "/media/green-caves-screenshot.png?rr"}
   )

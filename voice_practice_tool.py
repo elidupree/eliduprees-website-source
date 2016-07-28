@@ -4,6 +4,8 @@
 import utils
 import bars
 import blog
+
+do_stuff = "record your own voice, play it back to yourself, and save the recordings to a file."
 	  
 def add_page(page_dict):
   utils.make_page (page_dict,
@@ -40,7 +42,7 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
     --><div class="recent_box "><div class="recent_magnitudes_caption "></div><canvas id="recent_magnitudes"></canvas></div>
            <div class="recordings "></div>
            '''+blog.comments_section("voice_practice_tool")+'''
-     </main>'''), {"after_body":'''
+     </main>'''), {"blurb": "A tool to " + do_stuff, "blurb_image": "/media/voice-practice-tool-screenshot.png?rr", "after_body":'''
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
      <script type="text/javascript" src="/media/download.js?rr"></script>
      <script type="text/javascript" src="/media/jszip.min.js?rr"></script>
@@ -330,7 +332,7 @@ var previous = 0;
 terse.push ([$(".recent_magnitudes_caption"), ""]);
 verbose.push ([$(".recent_magnitudes_caption"), "When using auto recording, record exactly when the box is not empty. Click to move the corner of the box."]);
 terse.push ([$(".page_description"), ""]);
-verbose.push ([$(".page_description"), "This page lets you record your own voice, play it back to yourself, and save the recordings to a file. Tested in Firefox and Chrome; may not work in other browsers."]);
+verbose.push ([$(".page_description"), "This page lets you '''+ do_stuff +''' Tested in Firefox and Chrome; may not work in other browsers."]);
   
   function update_controls (info) {
     for (var I = 0; I <info.length;++I) {
