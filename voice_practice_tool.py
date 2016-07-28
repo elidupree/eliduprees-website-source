@@ -6,6 +6,8 @@ import bars
 import blog
 
 do_stuff = "record your own voice, play it back to yourself, and save the recordings to a file."
+blurb = "A tool to " + do_stuff
+blurb_image ="/media/voice-practice-tool-screenshot.png?rr"
 	  
 def add_page(page_dict):
   utils.make_page (page_dict,
@@ -42,7 +44,7 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
     --><div class="recent_box "><div class="recent_magnitudes_caption "></div><canvas id="recent_magnitudes"></canvas></div>
            <div class="recordings "></div>
            '''+blog.comments_section("voice_practice_tool")+'''
-     </main>'''), {"blurb": "A tool to " + do_stuff, "blurb_image": "/media/voice-practice-tool-screenshot.png?rr", "after_body":'''
+     </main>'''), {"blurb": blurb, "blurb_image": blurb_image, "after_body":'''
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
      <script type="text/javascript" src="/media/download.js?rr"></script>
      <script type="text/javascript" src="/media/jszip.min.js?rr"></script>

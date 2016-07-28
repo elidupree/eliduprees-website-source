@@ -79,24 +79,16 @@ img.exhibit.paws {
 img.exhibit.acobs {
   border-radius: 1.5em 1.5em;
   margin-left: 1em; }
-img.exhibit.lasercake {
-  width: 300px;
-  height: 300px;
-  border-radius: 2em 8em; }
 img.exhibit.nwia {
   width: 20em;
   height: 10em;
   margin-top: -3em;
   border-radius: 2em 4em; }
-img.exhibit.hexy {
+img.exhibit.generic.left {
   width: 300px;
   height: 300px;
   border-radius: 2em 8em; }
-img.exhibit.greencaves {
-  width: 300px;
-  height: 300px;
-  border-radius: 8em 2em; }
-img.exhibit.asteroids {
+img.exhibit.generic.right {
   width: 300px;
   height: 300px;
   border-radius: 8em 2em; }
@@ -201,15 +193,30 @@ def add_category_pages(page_dict):
       '''+ utils.background_image () +'''
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
-    '''+ exhibit ("http://lasercake.net/", "lasercake left", "/media/lasercake-snapshot-progressive.jpg?rr", '''Lasercake, an (early prototype of an) open-world game about the environment.''', "Go to website")
+    '''+ exhibit ("http://lasercake.net/", "generic left", "/media/lasercake-snapshot-progressive.jpg?rr", '''Lasercake, an (early prototype of an) open-world game about the environment.''', "Go to website")
     + exhibit ("/games/green-caves", "greencaves right", "/media/green-caves-screenshot.png?rr", '''A simple online game where you fly around in some green caves.''', "Play now")
-    + exhibit ("/hexy", "hexy left", "/media/hexy-thumbnail.png?rr", '''Hexy Bondage, a (printable) sexual board game for two or more players.''', "Go to website")
-    + exhibit ("/games/pac-asteroids", "asteroids right", "/media/pac-asteroids-thumbnail.png?rr",'''Pac-asteroids, a half-baked unfinished online game I wrote while learning JavaScript.''', "Play now")
+    + exhibit ("/hexy", "generic left", "/media/hexy-thumbnail.png?rr", '''Hexy Bondage, a (printable) sexual board game for two or more players.''', "Go to website")
+    + exhibit ("/games/pac-asteroids", "generic right", "/media/pac-asteroids-thumbnail.png?rr",'''Pac-asteroids, a half-baked unfinished online game I wrote while learning JavaScript.''', "Play now")
     +'''<div class="category_page_bottom"></div>
   </div>
 </main>''')
   )
   
+  
+  import voice_practice_tool
+  utils.make_page (page_dict,
+    '/misc',
+      "Miscellaneous things ⊂ Eli Dupree's website",
+      '',
+      '''<a class="skip" href="#content">Skip to content</a>
+      '''+ utils.background_image () +'''
+      '''+bars.bars_wrap({"games":True}, '''<main>
+  <div id="content">
+    '''+ exhibit ("/voice-practice-tool", "generic left", voice_practice_tool.blurb_image, voice_practice_tool.blurb, "Check it out") +'''<div class="category_page_bottom"></div>
+  </div>
+</main>''')
+  )
+
 
   utils.make_page (page_dict,
     '/stories',
