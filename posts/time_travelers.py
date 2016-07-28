@@ -18,7 +18,7 @@ posts = [
     
   "contents": '''
 <div class="small_print">
-Copyright © 2015, 2016, 2078, 664, 8981 BC, 7474+2i, International Time Travel Defense Research Group
+Copyright © 2015, 2016, 2078, 664, 8981 BC, 7474+2i, International Time Travel Defense Research Consortium
 All rights reserved under the Atemporal Copyright Convention.
 Time Travelers and How to Kill Them: a Practical Guide.
 Revision f017f23, based on parent revisions 7eefc88, 0930966, and 5e83d8c.
@@ -33,9 +33,9 @@ We all know the quote from William Shakespeare, "The only way to stop a time tra
 
 No better than Shakespeare’s cynicism is the cheerful subservience of the modern mass media, which typically tells stories of ordinary people being empowered by the force of time travel. They portray time travel as exciting, adventurous, and ultimately harmless. Make no mistake: time travel is power, and power attracts the most corrupt among us. The sheer scale of tyranny and abuse that has been enabled by time travel far outweighs any good it could possibly do.
 
-I recognize that not all time travelers are evil, and not all non-time-travelers are good. When I help people to fight against time travelers, it may not always result in the triumph of good over evil. However, I do hope that the advice in this book can, in some small way, even the playing field between the powerful and the powerless.
+We recognize that not all time travelers are evil, and not all non-time-travelers are good. If this book helps people to fight against time travelers, it may not always result in the triumph of good over evil. However, we do hope that the advice in this book can, in some small way, even the playing field between the powerful and the powerless.
 
-And lastly, if you are a time traveler yourself, don’t even bother trying to go back and prevent this book’s publication. It will only make things worse for you, trust me.
+And lastly, if you are a time traveler yourself, don’t even bother trying to go back and prevent this book’s publication. You will not only fail, but even make things worse for yourself in the process.
 
 <h2>A Note on the Morality of Killing</h2>
 
@@ -82,98 +82,93 @@ A word of warning: if your time traveler can go back and try different actions, 
 
 Using time travel usually has far-ranging effects, many of which the time travelers themselves do not intend. It is often possible to manipulate the unintended effects to gain an advantage against them.
 
-A friend of mine once fought a time traveler who had a habit of using his smartphone to bring lots of information back from the future. My friend, after discovering this, managed to infect the phone with a virus that sent all of the information directly to her - and allowed her to alter it as she saw fit. The time traveler assumed that his phone still contained accurate future knowledge, and he died as a result.
+Of particular interest is the possibility of sending messages back in time to <em>yourself</em>, using the time traveler as an unwitting messenger. If your enemy carries a smartphone on their time journeys, compromising it should be a top priority. It can be programmed to report to you every time its internal clock disagrees with the time servers. With sufficient planning, lower-tech methods are possible as well.
 
-Know Their Limits
+<h4>Know Their Limits</h4>
 
-Some time travelers can’t go back more than a certain amount of time - for instance, one hour. Imagine that you know your enemy will be attending a two-hour lecture. If you secretly lock the doors behind them at the beginning of the lecture, then wait until the end of the lecture to strike, they won’t be able to go back to before they were locked in. (Don’t make the mistake of trying to keep them trapped in this way, though - just use the trap to kill them.)
+Some time travelers can’t go back more than a certain amount of time. Suppose that your enemy cannot go back farther than one hour. Now suppose also that you know they will be attending a two-hour lecture. If you secretly lock the doors behind them at the beginning of the lecture, then wait until the end of the lecture to strike, they won’t be able to go back to before they were locked in. (Don’t make the mistake of relying on a trap like this to keep them contained in the long-term, though. Only use a technique like this as part of a larger plan to destroy the source of the time travel.)
 
-Time travelers with a short limit, like one hour, are much easier to defeat. Most of this book will assume that your enemy’s limit is much too long to use a strategy like this.
+Those who can go back much more than one hour usually have other limitations. Some have to <em>wait</em> a certain amount of time before they can use their power again, making certain attacks possible during the cooldown period. Some abilities can only be used a certain number of times in total, making it possible to force (or trick) the time traveler and using up their ability.
 
-Multiple Opponents
-
-Fortunately, time travelers rarely work together. The risk of betrayal is too high, so they usually make sure any other time travelers know as little about them as possible.
-
-If you do have to fight against multiple time travelers working together, you can’t just kill them one at a time, because the survivors can interfere with what you did. Kill them all at the same time, or at least kill each of them before they learn that any of the others were attacked.
 
 
-Part two: Spotting time travelers
+<h3>1.2: Spotting time travelers</h3>
 
 Most time travelers try to hide the fact that they are time travelers. If one of your enemies is a time traveler, it is crucial for you to figure that out as soon as possible. With equal importance, you must not let the time traveler realize that you have discovered them.
 
-Each type of time travel has its own telltale signs. (See chapter 4, “Specific Types of Time Travel”.) However, there are also signs that are common to all types of time travel.
+Each type of time travel has its own telltale signs. (See Part Three, “Specific Types of Time Travel”.) However, there are also signs that are common to all types of time travel.
 
 Firstly, all time travelers run the risk of getting confused about the passage of time as others experience it. Especially careless time travelers might act confused about time in ordinary conversations, or even reveal that they remember events that haven’t happened yet. With smart time travelers, don’t rely too much and obvious giveaways, since they are likely to keep close track of time themselves. In that case, you can sometimes spot the time traveler when they display an unusually accurate memory of when things happened. This is, of course, merely circumstantial evidence, since many people possess unusually good or bad memories naturally.
 
-You can gather evidence not only from the time traveler themselves, but also from the time traveler’s possessions. If a time traveler wears a watch while reversing time, the watch may report an incorrect time afterwards. Don’t let a time traveler catch you looking at their watch, though - use a high quality hidden camera and review the footage later.
+You can gather evidence not only from the time traveler themselves, but also from the time traveler’s possessions. If a time traveler carries a wristwatch or cell phone while reversing time, it may report an incorrect time afterwards. Don’t let a time traveler catch you looking at their watch, though. Perhaps the safest way is to use a high quality hidden camera and review the footage later.
 
 Secondly, many time travelers can appear to be in two places at once, or at least to move unusually fast. Keep track of your enemy’s location as much as possible, and see if you can catch them in two places at once, or catch them traveling between two distant locations almost instantly. However, these feats may be the result of other supernatural powers, not time travel. Consider them in combination with the other signs, and look for evidence that what you observed isn’t simply the result of shapeshifters or teleportation.
 
-Thirdly, many time travelers undo any significant bad events that occur in their lives. If you have the chance to observe a potential time traveler for a long time, watch for suspicious patterns. Most people occasionally experience a bad thing happening to their family or friends or themselves, bad enough that they worry about it for a long time afterwards. If a person doesn’t have anything like this in their life, they may be a time traveler. If your time traveler isn’t especially careful about being detected, they may even reverse minor bad things, and thereby appear to lead a charmed life.
+Thirdly, many time travelers undo or avoid any significant bad events that occur in their lives. If you have the chance to observe a potential time traveler for a long time, watch for suspicious patterns. Most people occasionally experience a bad thing happening to their family, friends, or themselves &ndash; bad enough that they worry about it for a long time afterwards. If a person doesn’t have anything like this in their life, they may be a time traveler. If your time traveler isn’t especially careful about being detected, they may even reverse minor bad things, and thereby appear to lead a charmed life.
 
-Caution: if a person seems very fortunate, but doesn’t display the other signs of a time traveler, they may be a luck manipulator rather than a time traveler. This requires different strategies. For instance, if you shoot a gun at a time traveler, they are likely to die, but if you shoot a gun at a luck manipulator, you will miss. However, since luck manipulators are generally much easier to fight against than time travelers, this book will not attempt to discuss anti-luck-manipulator strategy.
+Like the other signs, this one has false-positives as well. If a person seems very fortunate, they may still be a luck manipulator rather than a time traveler. This requires different strategies. For instance, if you shoot a gun at a time traveler, they are fairly likely to die, but if you shoot a gun at a luck manipulator, you will almost certainly miss. Since luck manipulators require very different techniques to fight against than time travelers, this book will not attempt to discuss anti-luck-manipulator strategy.
 
 
-Part three: Using other supernatural powers against time travelers
+<h3>1.3: Using other supernatural powers against time travelers</h3>
 
-Time Travel
+<h4>Time Travel</h4>
 
-Using time travel against other time travelers is outside the scope of this book.
+Time travel is undoubtedly a useful power for fighting against time travelers. However, using time travel against other time travelers is outside the scope of this book.
 
-Mind Control
+<h4>Mind Control</h4>
 
-If you’re fighting against one opponent, mind control is a suitable weapon. Once you control them, make them stand still while you kill them. Don’t try anything clever.
+If you are fighting against one opponent, mind control is a suitable weapon. Once you control them, you can make them stand still while you kill them. With the right type of mind control, you can also force them to reveal anything they know that the source of their abilities. Those two ways of using mind control should be sufficient. Trying any cleverer techniques is usually an unnecessary risk.
 
-If you have multiple opponents, you might be able to control one of them and use that one against the others. This includes multiple copies of the same time traveler. Special strategies for using mind control against certain types of time travelers will be covered in the sections on those types.
+If you have multiple opponents, you might be able to control one of them and use that one against the others. This includes when you are up against multiple copies of the same time traveler. Special strategies for using mind control against certain types of time travelers will be covered in the sections on those types.
 
 You can also, of course, use your control to take advantage of their time travel powers yourself, but using time travel against other time travelers is outside the scope of this book.
 
-Memory Modification
+<h4>Memory Modification</h4>
 
 Like mind control, this can be used as a weapon directly against your enemy: give them false memories that lead them to their death. However, there are additional uses.
 
-Normally, it’s not safe to ask around or interrogate other people about the time traveler, because the time traveler might hear about it. If you can erase the memories afterwards, you can safely question as many people as you want. 
+Normally, it’s not safe to ask around or interrogate other people about the time traveler, because the time traveler might hear about it. If you can erase the memories afterwards, it becomes much safer to question possible witnesses. 
 
 Erasing parts of your own memory (after recording them in a safe place) may occasionally be useful to prevent a time traveler from discovering what you know. 
 
 Be wary of giving false memories to other people in the hope of deceiving the time traveler. Smart time travelers don’t fully trust anyone but themselves, and complicated schemes like this may leave evidence of your involvement. (Imagine if the time traveler goes back to examine how the person got the memories they claimed to have…)
 
-Shapeshifting 
+<h4>Shapeshifting</h4>
 
 Theoretically, by impersonating a time traveler, you could trick them into believing that you are delivering a message from themselves from the future. However, impersonating a person to themselves is extraordinarily difficult. It could possibly work, but if the time traveler becomes suspicious, they will be much more careful after that.
 
-For a short time during my career, I worked with a team of time travelers who would take it upon themselves to hunt other time travelers. At one point, they experimented with using a doppelgänger, and tested the strategy by sending the doppelgänger to trick each other. They concluded that the strategy was too unreliable to use.
+Although the International Time Travel Defense Research Consortium no longer works directly with any time traveler, we did originally employ a team of time travelers whose mission was to hunt other time travelers. At one point, they experimented with using a doppelgänger, and tested the strategy by sending the doppelgänger to trick each other. They concluded that the strategy was too unreliable to use.
 
-That said, the team had access to many other, more reliable powers. If shapeshifting is your main ability, it may be your best bet. It may also be worthwhile if you can make your enemy less likely to catch you, by making them unlucky or clouding their mind in some way.
+That said, the team had access to many other, more reliable powers. If shapeshifting is your main ability, it may be your best bet. It may also be worthwhile if you have a second ability that can make your enemy less likely to detect you, such as by making them unlucky or clouding their mind in some way.
 
-Luck Manipulation
+<h4>Luck Manipulation</h4>
 
-Don’t try anything too clever. If a time traveler notices how lucky you are, they might suspect you have a power and consider you a possible threat. However, this is a useful power to have: you’ll need luck to make sure that the time traveler doesn’t notice you in any way. Concentrate your power on that.
+Although this is a useful power, it is not wise to try anything too clever. If a time traveler notices how lucky you are, they might suspect you have a power and consider you a possible threat. However, it's always good to have extra luck to make sure that the time traveler doesn’t notice you in any way. Concentrate your power on that.
 
-Note that some time travelers have a unique way to resist luck manipulation: if they go back in time far enough, they can make plans and gather resources before you got your luck manipulation power in the first place.
+Also note that some time travelers have a unique way to resist luck manipulation: if they go back in time far enough, they can make plans and gather resources before you got your luck manipulation power in the first place.
 
-Power Suppression
+<h4>Power Suppression</h4>
 
-Temporarily suppressing a time traveler’s powers is no better than putting the time traveler in a prison: it won’t work.
+Temporarily suppressing a time traveler’s powers is no better than putting the time traveler in a prison. To be blunt, it won't work.
 
-If you have access to an ability that permanently removes an enemy’s powers, it is possible to use that as a substitute for killing them, but I don’t recommend it. An enemy who knows a lot about time travel, even if they can’t use it themselves, might be able to contact another time traveler and convince (or trick) them into undoing the events that let you remove their powers. That said, if you are very generous, or if you have special reason not to kill them, you may be willing to take this risk. (And, indeed, there will always be some risk from other time travelers, even if you kill your enemy outright.)
+If you have access to an ability that permanently removes an enemy’s powers, it is possible to use that as a substitute for killing them. However, it is still somewhat less reliable. An enemy who knows a lot about time travel, even if they can’t use it themselves, might be able to contact another time traveler and convince (or trick) them into undoing the events that let you remove their powers. That said, if you are the more merciful type of regulationist, or if you have a special reason not to kill them, you may be willing to take this risk. (And, indeed, there will always be some risk from other time travelers, even if you kill your enemy outright.)
 
-Flight, Invisibility, Teleportation, Strength, Bulletproof, Telekinesis, etc.
+<h4>Flight, Invisibility, Teleportation, Strength, Bulletproof, Telekinesis, etc.</h4>
 
-Lesser powers like these are occasionally useful for combat or spying, but they are generally much too conspicuous. Yes, even invisibility. If your enemy catches you spying normally, they might still think you’re just a snoopy muggle. If they catch you spying while invisible, you are obviously a threat.
+Lesser powers like these are occasionally useful for combat or spying, but they are generally much too conspicuous. Yes, even invisibility. If your enemy catches you spying normally, they might still think you’re just a snoopy muggle. If they catch you spying while invisible, you become an obvious threat.
 
-If you’re already known for having powers like these, you may be worse off than if you didn’t have them at all, because your enemy is probably already keeping an eye on you. The best way to avoid their attention is to keep playing the role of a naïve superhero who does things like saving children, stopping petty criminals, and so forth. If you don’t show an interest in finding the man-behind-the-man, they probably won’t consider you a threat.
+If you’re already known for having powers like these, you may be worse off than if you didn’t have them at all. In this case, your enemy is probably already keeping an eye on you. The best way to avoid their attention is to keep playing the role of a naïve superhero who does things like saving children, stopping petty criminals, and so forth. If you don’t show an interest in finding the man-behind-the-man, you may be able to stay beneath their notice.
 
 
 
 
-Part four: Specific Types of Time Travel
+<h2>Part two: Specific Types of Time Travel</h2>
 
 Personal Time Reversal
 
 We cover this type of time travel first because it is the easiest to understand: it is the smallest departure from conventional reality. Reversers, unlike other time travelers, can never be in two places at once, and cannot even attempt to cause paradoxes. However, they are every bit as dangerous.
 
-A typical reverser has the power to “undo” their own actions, causing everything in the universe to return to its previous state, except for their own memories of what happened. Outside observers never experience the undone actions. Instead, from an outside perspective, the reverser appears to have a series of “replacement events”: moments when their mind is replaced by a mind that has experienced a possible future.
+A typical reverser has the power to "undo" their own actions, causing everything in the universe to return to its previous state, except for their own memories of what happened. Outside observers never experience the undone actions. Instead, from an outside perspective, the reverser appears to have a series of "replacement events": moments when their mind is replaced by a mind that has experienced a possible future.
 
 Reversers can be divided into several types, depending on the scope of their abilities. “Short-term reversers” can go back by a few seconds to an hour as many times as they want, and repeat a task until they succeed. “Long-term reversers” can go back and repeat days, months, or even years at a time. The most powerful reversers can use both long-term and short-term reversals with ease. Theoretically, most long-term reversers can also function as short-term reversers. Fortunately, most long-term reversers find their power very difficult or unpleasant to use, so they only use it occasionally, and only for important things. Also, a long-term reverser’s power may take a long time to activate, meaning that they can’t necessarily use it to escape immediate danger.
 
