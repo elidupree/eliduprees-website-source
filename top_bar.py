@@ -8,7 +8,7 @@ bar_height = 3
 category_button_width = 9
 category_text_width_regular_ems = 6
 category_text_width_modified_ems = category_text_width_regular_ems / 1.2
-num_categories = 4
+num_categories = 5
 category_border_width = .65
 all_categories_width = category_button_width * num_categories + category_border_width * (num_categories - 1)
 category_button_height = bar_height - category_border_width
@@ -87,6 +87,10 @@ span.top_bar_category.stories {
 span.top_bar_category.comics {
   background-image: url("'''+comics.last_comic_thumbnail_url()+'''");
   background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
+span.top_bar_category.misc  {
+  background-image: url("/media/voice-practice-tool-screenshot.png?rr");
+  background-size:'''+str(category_button_width)+'''em '''+str(category_button_height)+'''em; }
+
 span.top_bar_category_text {
   position:absolute; display:block;
   bottom:0; right:0; width:'''+str(category_text_width_modified_ems)+'''em;
@@ -150,7 +154,7 @@ span.top_bar_blog_preview_text {
 @media screen and (max-width: '''+str(categories_get_very_squished_width)+'''em) {
   span.top_bar_category_text {
     font-size: 100%;
-    font-size: 5vw;
+    font-size: '''+ str(24/num_categories) +'''vw;
     width: 100%;
     border-top-left-radius:0;
     border-bottom-left-radius:'''+str(button_border_radius)+'''em;
@@ -167,7 +171,10 @@ def comics_string(you_are_here):
 def stories_string(you_are_here):
   return '''<a class="top_bar_category_link" href="/stories"><span class="top_bar_category stories"><span class="top_bar_category_text">Stories</span></span></a>'''
 def blog_string(you_are_here):
-  return '''<a class="top_bar_category_link far_right" href="/blog"><span class="top_bar_category blog"><span class="top_bar_blog_preview_text">'''+blog.latest_post_preview_text()+'''</span><span class="top_bar_category_text">Blog</span></span></a>'''
+  return '''<a class="top_bar_category_link" href="/blog"><span class="top_bar_category blog"><span class="top_bar_blog_preview_text">'''+blog.latest_post_preview_text()+'''</span><span class="top_bar_category_text">Blog</span></span></a>'''
+def misc_string(you_are_here):
+  return '''<a class="top_bar_category_link far_right" href="/misc"><span class="top_bar_category misc"><span class="top_bar_category_text">Misc</span></span></a>'''
+
 def shop_string(you_are_here):
   return '''<a class="top_bar_category_link far_right" href="https://secure.elidupree.com/shop"><span class="top_bar_category"><span class="top_bar_category_text">Shop</span></span></a>'''
 
@@ -180,8 +187,9 @@ def top_bar_contents(info):
   comics  =  comics_string( "comics" in info)
   stories = stories_string("stories" in info)
   blog    =    blog_string(   "blog" in info)
+  misc    =    misc_string(   "misc" in info)
   shop    =    shop_string(   "shop" in info)
-  return home+categories_wrap(games+comics+stories+blog+(shop if False else ""))
+  return home+categories_wrap(games+comics+stories+blog+misc+(shop if False else ""))
   
 def top_bar(info):
   return '<header><div class="top_bar'+(' '+info["extra_class"] if "extra_class" in info else '')+'">'+top_bar_contents(info)+'</div></header>'

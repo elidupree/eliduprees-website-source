@@ -227,7 +227,8 @@ def add_home_page(page_dict):
             '''+top_bar.games_string(False)+'''<!-- Commenting out white space to prevent inline-block issues
             -->'''+top_bar.comics_string(False)+'''<!--
             -->'''+top_bar.stories_string(False)+'''<!--
-            -->'''+top_bar.blog_string(False)+'''
+            -->'''+top_bar.blog_string(False)+'''<!--
+            -->'''+top_bar.misc_string(False)+'''
           </div>
           <div class="home_page_bottom">
             <div class="home_page_bottom_inner">

@@ -5,7 +5,7 @@ import utils
 import bars
 import blog
 
-do_stuff = "record your own voice, play it back to yourself, and save the recordings to a file."
+do_stuff = "record your own voice, play it back to yourself, and save the recordings to your computer."
 blurb = "A tool to " + do_stuff
 blurb_image ="/media/voice-practice-tool-screenshot.png?rr"
 	  
