@@ -600,6 +600,8 @@ def date_posted (post):
   return post_metadata (post) ["date_posted"]
   
 def post_permalink(post_dict):
+  if "stream_entry" in post_dict:
+    return post_dict ["stream_entry"] [0]
   if "parent_story" in post_dict:
     return "/stories/"+utils.format_for_url(post_dict["parent_story"])+"/discussion"
   return post_dict["path_prefix"]+url_formatted_title(post_dict)
@@ -960,7 +962,9 @@ for tag in tags.tags:
 #for category, posts in blog_posts.posts.items ():
 
 current_blog_page = page_lists ["blog"] [len (page_lists ["blog"])-1]
-current_blog_page_extras = []
+current_blog_page_extras = [
+{"title": "stream entry for voice practice tool", "stream_entry": ("/voice-practice-tool", "New online tool for voice practice!")},
+]
 def consider_list_for_current_page (list, limit = 8):
   for index in range (1, min (1 + limit, 1 + len( list))):
     post = list [len( list) - index]

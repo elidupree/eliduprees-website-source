@@ -212,7 +212,7 @@ def add_category_pages(page_dict):
       '''+ utils.background_image () +'''
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
-    '''+ exhibit ("/voice-practice-tool", "generic left", voice_practice_tool.blurb_image, voice_practice_tool.blurb, "Check it out") +'''<div class="category_page_bottom"></div>
+    '''+ exhibit ("/voice-practice-tool", "generic left", voice_practice_tool.blurb_image, voice_practice_tool.blurb, "Use it now") +'''<div class="category_page_bottom"></div>
   </div>
 </main>''')
   )
