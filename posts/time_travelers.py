@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 
-
+import re
+import utils
 
 
 posts = [
@@ -11,12 +12,29 @@ posts = [
   "blurb": "A fictional book written in a world with many forms of time travel.",
   "don't deploy": True,
 "auto_paragraphs": True,
+"authors_notes":'''
+
+<p>There are a lot of stories with time travel in them, but very few that try to establish a consistent set of rules about how time travel works. I enjoy designing fictional systems, so I decided to do something about that.</p>
+
+
+
+<p>Another common thing in stories with time travel is that it's usually the protagonists who have time travel. Their enemies usually don't have any time travel powers, or, at worst, they have the same amount as the protagonists do. I decided to amuse myself by writing this document from the opposite perspective: you have to fight against time travelers without having any time travel powers yourself.</p>
+
+
+
+''',
   "head":'''<style>
   .small_print {font-size: 90%;}
   .small_print p {text-indent: 0; margin-top: 0; margin-bottom: 0;}
+  .table_of_contents { display: block; margin:0.2em 0;}
+  .table_of_contents_3 { padding-left:1.5em;}
+  .table_of_contents_4 { padding-left:3em;}
  </style>''', 
+},
+]
+
     
-  "contents": '''
+contents ='''
 <div class="small_print">
 Copyright © 2015, 2016, 2078, 664, 8981 BC, 7474+2i, International Time Travel Defense Research Consortium
 All rights reserved under the Atemporal Copyright Convention.
@@ -24,7 +42,9 @@ Time Travelers and How to Kill Them: a Practical Guide.
 Revision f017f23, based on parent revisions 7eefc88, 0930966, and 5e83d8c.
 A full revision history of this book, including alternate timelines and possible lost versions, is on display at the Time Travel Historical Society in Vancouver.
 </div>
-<bigbreak>
+
+<h2>Table of Contents</h2>
+<TOC>
 
 
 <h2>Preamble</h2>
@@ -165,7 +185,7 @@ If you're already known for having powers like these, you may be worse off than 
 
 <h2>Part two: Specific Types of Time Travel</h2>
 
-<h3>Personal Time Reversal</h3>
+<h3>2.1: Personal Time Reversal</h3>
 
 We cover this type of time travel first because it is the easiest to understand: it is the smallest departure from conventional reality. Reversers, unlike other time travelers, can never be in two places at once, and cannot even attempt to cause paradoxes. However, they are every bit as dangerous.
 
@@ -233,7 +253,7 @@ This story, though it may potentially be true, is not meant as a model to be rep
 
 
 
-<h3>Paradox Cloners</h3>
+<h3>2.2: Paradox Cloners</h3>
 
 What happens if you go back in time by two minutes and tell yourself not to get in the time machine? For paradox cloners, the answer is simple: neither of them gets in the time machine, and both of them continue existing.
 
@@ -272,7 +292,7 @@ If the cloners are a type that can supercharge their power to go back to before 
 If you can't use any of the strategies above, this is the one case where futilist thinking is arguably justifiable: if you don't attack, the clone community may remain stable, but if you attack and miss even a single backup clone, that clone may expand into a bigger and more dangerous community just to protect itself. However, provoking the group may still be useful, from a certain point of view. The larger and more active a group becomes, the more likely it is to attract the hostility of powerful organizations with their own time travelers and other abilities.
 
 
-<h3>Consistent Coilers</h3>
+<h3>2.3: Consistent Coilers</h3>
 
 We have left this, the most mind-bending form of time travel, for last.
 
@@ -380,7 +400,7 @@ If you use mind control, make sure you know whether you can maintain your contro
 
 
 
-<h3>Long-Leaping Time Travelers</h3>
+<h3>2.4: Long-Leaping Time Travelers</h3>
 
 Neither paradox cloners nor consistent time travelers can go back in time by more than a decade, except under extremely rare circumstances. Any time traveler from that far in the future is almost certainly one of a special category: Long-leapers.
 
@@ -393,10 +413,10 @@ The only difference between the simulations is that random events happen differe
 <h4>Counter-Strategy</h4>
 
 If you find yourself fighting against a long-leaper in the long-leaper's <em>present</em>, you have an ordinary opponent. They have a few special abilities, but none of them are exceptional. Depending on the exact rules of their ability, they may have any of the following options:
-1. To gain extensive, accurate knowledge of history and geography without leaving any evidence.
-2. To spend days developing plans in the past without taking any time to plan in the present.
-3. To teleport from place to place instantly, by going back in time and then returning in a different place.
-4. To travel into the future, making themselves vanish (and thus be impossible to attack) for a period of time.
+<ol> <li>To gain extensive, accurate knowledge of history and geography without leaving any evidence.</li>
+<li>To spend days developing plans in the past without taking any time to plan in the present.</li>
+<li>To teleport from place to place instantly, by going back in time and then returning in a different place.</li>
+<li>To travel into the future, making themselves vanish (and thus be impossible to attack) for a period of time.</li></ol>
 
 If, on the other hand, you are in a long-leaper's past, the strategic considerations are much different. Go ahead and fight the long-leaper &ndash; it is usually an easy task. Since the long-leaper cannot do anything that would change the future too much, their actions are very limited. The more they antagonize people, the more they disrupt history. If a long-leaper has picked a fight with you, the most likely result is that they are swiftly defeated and escape back to the future (or die). Their luck manipulation actually works in your favor. You are free to make complex schemes and use risky strategies, just as if you had a normal luck manipulator on your side. (However, you must consider the usual caveats of that ability as well.)
 
@@ -408,10 +428,10 @@ The most well-known example of this, of course, is Adolf Hitler. Although he was
 
 One might ask, "if they can't actually change how things turn out, how do we know that they attacked at all?" We can know about it under two circumstances: firstly, some long-leapers over the last century have left journals of their plans to go back and stop Hitler, then disappeared. Presumably, the reason they disappeared is because they were executing their plans, although of course, we have no proof dating from Hitler's time. Secondly, we have hard evidence of attacks by long-leapers from the distant future. We must assume that we will eventually lose all records of this evidence, so that none will be left by the time those attackers came from.
 
-Certain time travel historical societies have a policy of only keeping long-term records of long-leapers who die while trying to kill Hitler, and not those who survive and return to the future, in order to make the luck manipulation more likely to let them survive. Other societies, particularly exterminationist ones, only keep records of the ones who <em>survive</em>, to make them more likely to die. However, these societies occasionally change leadership, and the new leaders often expunge the records kept by the old ones, rendering the decision moot.
+Certain time travel historical societies have a policy of only keeping long-term records of long-leapers who die while trying to kill Hitler, and not of those who survive and return to the future, in order to make the luck manipulation more likely to let them survive. Other societies, particularly exterminationist ones, only keep records of the ones who <em>survive</em>, to make them more likely to die. However, these societies occasionally change leadership, and the new leaders often expunge the records kept by the old ones, rendering the decision moot.
 
 
-<h3>A Brief Note on Oracles</h3>
+<h3>2.5: A Brief Note on Oracles</h3>
 
 The power to predict the future has many similarities to the power to travel into the past. Time travelers, like oracles, often have knowledge of possible futures. Oracles, like time travelers, are rarely seen taking actions that have bad results.
 
@@ -422,6 +442,17 @@ Oracles are typically less dangerous than time travelers, because oracles can ma
 There exists a possible counter-strategy for this. The one thing an oracle cannot predict is their own future predictions. That is, in each potential future an oracle sees, the oracle never makes another prediction. Thus, to kill a reverser-like oracle, wait until you see them using their power, then strike immediately. Since you only kill them immediately after they make a prediction, they never see you kill them in any of their other predictions &ndash; only the last one, which hopefully doesn't give them enough time to react.
 
 If the oracle is aware of this strategy, they could theoretically make a habit of predicting what happens if they pretend to receive further predictions. If you suspect that your oracle would do this, you must fall back to a different strategy, such as leading the oracle into a trap. However, unlike a short-term reverser, an oracle must spend real time to make each prediction. Thus, they are much less likely to take obscure defensive measures such as this.
-''',
-},
-]
+'''
+
+table_of_contents = []
+used = {}
+def thing (match):
+  fragment =utils.format_for_url (match.group (2))
+  while fragment in used: fragment = fragment +"i"
+  used [fragment] = True
+  table_of_contents.append ('<a class="table_of_contents table_of_contents_' + match.group (1) + '" href="#' + fragment + '">' + match.group (2) + '</a>')
+  return ("<bigbreak>" if match.group (1) == "2" else "") +'<a id="' + fragment + '">' + match.group (0)+ "</a>" 
+contents = re.sub(r"<h(.)>(.*?)</h.>", thing, contents)
+contents =re.sub(r"<TOC>", "".join (table_of_contents), contents)
+
+posts [0] ["contents"] = contents
