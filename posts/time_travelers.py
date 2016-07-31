@@ -132,7 +132,7 @@ If you can permanently erase a person's memories of using time travel, that is a
 
 Normally, it's not safe to ask around or interrogate other people about the time traveler, because the time traveler might hear about it. If you can erase the memories afterwards, it becomes much safer to question possible witnesses. Also, erasing parts of your own memory (after recording them in a safe place) may occasionally be useful to prevent a time traveler from discovering what you know. 
 
-Be wary of giving false memories to other people in the hope of deceiving the time traveler. Smart time travelers don't fully trust anyone but themselves, and complicated schemes like this may leave evidence of your involvement. (Imagine if the time traveler goes back to examine how the person got the memories they claimed to have…)
+Be wary of giving false memories to other people in the hope of deceiving the time traveler. Smart time travelers make sure to investigate things in detail before acting, and complicated schemes like this may leave evidence of your involvement. (Imagine if the time traveler goes back to examine how the person got the memories they claimed to have…)
 
 <h4>Shapeshifting</h4>
 
@@ -259,37 +259,42 @@ The most difficult type of cloner to fight against, however, is a cloner who eff
 
 <h4>Counter-Strategy</h4>
 
+There are no surefire techniques for dealing with smart cooperative cloners, <em>in general</em>. However, among all types of time traveler, they are also the most likely to have specific limitations or weaknesses to their power. 
+
 If you can track down all of the clones, killing them all simultaneously is sufficient. This may be difficult, but backup clones have at least one special weakness when it comes to hiding: they all have the same habits, so if you find one, it may be easier to find the others.
 
-If you can't be confident that you'll find all the clones, your fight requires a different strategy. You must somehow trick at least one of the clones into going back in time and preventing the creation of the others. There are countless ways to do this, but we list some common possibilities below.
+If the cloners are a type that can supercharge their power to go back to before the times when any of the current clones appeared, then any of them can go back and prevent the creation of any of the others. In this case, it may be possible to trick at least one of the clones into doing so. There are countless ways to do this, but we list a few possibilities below.
 
-1. Make it look like some of the clones have secretly betrayed the others. When the others learn of this, they will go back to prevent the creation of the traitors &ndash; they likely won't investigate too long, for fear that the traitors will go back first. This won't destroy the whole group, but they will be more cautious about creating extra clones next time, which will give you an advantage in the next timeline.
+1. Make it look like some of the clones have secretly betrayed the others. When the others learn of this, they will go back to prevent the creation of the traitors &ndash; the hope is that they won't investigate too long, for fear that the traitors will go back first. This won't destroy the whole group, but they will be more cautious about creating extra clones next time, which will give you an advantage in the next timeline.
 
-2. Make it look like an important event happened just after the first appearance of any clones &ndash; an event that they would want to go back and a change in some way. Identify which clone wants to go back and fix it, then plant a bomb on that clone. If you're lucky, the bomb will explode in the past and kill all the clones who are alive at that time.
+2. Make it look like an important event happened just after the first appearance of any clones &ndash; an event that they would want to go back and a change in some way. Identify which clone is chosen to go back and fix it, then plant a bomb on that clone. If you're lucky, the bomb will explode in the past and kill all the clones who are alive at that time.
+
+If you can't use any of the strategies above, this is the one case where futilist thinking is arguably justifiable: if you don't attack, the clone community may remain stable, but if you attack and miss even a single backup clone, that clone may expand into a bigger and more dangerous community just to protect itself. However, provoking the group may still be useful, from a certain point of view. The larger and more active a group becomes, the more likely it is to attract the hostility of powerful organizations with their own time travelers and other abilities.
 
 
-
-Consistent Time Travelers
+<h3>Consistent Coilers</h3>
 
 We have left this, the most mind-bending form of time travel, for last.
 
-Strengths and Distinctive Traits
+<h4>Strengths and Distinctive Traits</h4>
 
-If a consistent time traveler never encounters any of the counter-strategies this book discusses, their abilities are mind-bogglingly powerful. A consistent time traveler can, for instance, carry out an elaborate mission, then go back and give themselves a report before they even set out, giving themselves every detail that they need in order to be successful. Having received such a report, the time traveler knows their plan cannot fail &ndash; else, why would they have reported that it succeeded? 
+If a consistent coiler never encounters any of the counter-strategies this book discusses, their abilities are mind-bogglingly powerful. A consistent coiler can, for instance, carry out an elaborate mission, then go back and give themselves a report before they even set out, giving themselves every detail that they need in order to be successful. Having received such a report, the coiler knows their plan cannot fail &ndash; else, why would they have reported that it succeeded? 
 
-As if unlimited future knowledge and the guarantee of success weren't enough, the time traveler can even provide assistance to themselves along the way. If they ever end up in trouble, which is unlikely, they can return to bail themselves out later. Unlike any other type of time traveler, they can even take safeguards against their own death: they can habitually rendezvous with themselves in an obscure location, and only set out from there if they see themselves return safely.
+As if unlimited future knowledge and the guarantee of success weren't enough, the coiler can even provide assistance to themselves along the way. If they ever end up in trouble, which is unlikely, they can return to bail themselves out later. Unlike any other type of time traveler, they have a built-in way to take safeguards against their own death: they can habitually rendezvous with themselves in an obscure location, and only set out from there if they see themselves return safely.
 
-If you suspect that your enemy is a consistent time traveler, don't even think about fighting them yourself unless you have already established the defenses described later in this book (or otherwise been specifically trained to fight consistent time travelers). Report the matter to someone who is already trained, and keep a low profile. Training yourself when you already have some involvement with a consistent time traveler should be a last resort.
+If you suspect that your enemy is a consistent coiler, don't even think about fighting them yourself unless you have already established the defenses described later in this book (or otherwise been specifically trained to fight consistent coilers). Report the matter to someone who is already trained, and keep a low profile. Training yourself when you already have some involvement with a consistent coiler should be a last resort.
 
-Counter-Strategy
+<h4>Counter-Strategy</h4>
+
+<div style="position: relative; left:-0.5em; float: left; width: 30%; margin:0.9em; padding: 0.5em;box-shadow:0.3em 0.3em 1em black;"> Eli's note: This warning is for the fictional audience, who lives in a world where time travel exists. You, who live in the real world, can safely continue reading. </div>
 
 Detailed knowledge about this type of time travel can literally be a memetic hazard.
 
-DO NOT CONTINUE READING THIS BOOK UNLESS YOU ARE WILLING TO RISK YOUR LIFE IN THE FIGHT AGAINST CONSISTENT TIME TRAVELERS. If you stop reading now, your existing misconceptions may protect you.
+<strong>DO NOT CONTINUE READING THIS BOOK UNLESS YOU ARE WILLING TO RISK YOUR LIFE IN THE FIGHT AGAINST CONSISTENT TIME TRAVELERS.</strong> If you stop reading now, your existing misconceptions may protect you.
 
-If you do decide to continue, DO NOT STOP READING UNTIL YOU REACH THE END OF THIS SECTION. If you read only partway, you will learn how to attract the enmity of time travelers, but not how to protect yourself against them. The longer you hold only partial knowledge, the greater the risk that you will use the techniques incorrectly by mistake.
+<strong>If you do decide to continue, DO NOT STOP READING UNTIL YOU REACH THE END OF THIS SECTION.</strong> If you read only partway, you will learn how to attract the enmity of time travelers, but not how to protect yourself against them. The longer you hold only partial knowledge, the greater the risk that you will use the techniques incorrectly by mistake.
 
-How It Works
+<h4>How It Works</h4>
 
 "It should be possible to form a complete theory of human behavior, i.e., to predict from the hereditary and environmental givens what a person will do. However, if a mischievous person learns of this theory, he can act in a way so as to negate it. Hence I conclude that such a theory exists, but that no mischievous person will learn of it. In the same way, time travel is possible, but no person will ever manage to kill his past self." &ndash; Kurt Gödel
 
