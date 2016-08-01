@@ -101,7 +101,7 @@ def postprocess_post_string(initial_string, unique_id, title, mark_broken_tags, 
   words_replaced = 0
   if scrutinize:
     (result_string, words_replaced) = scrutinize_non_quoted_words(result_string)
-  result_string = re.sub(r"<blockquote>", '<div><span class="big_quote_mark_outer"><span class="big_quote_mark_inner">&#8220;</span></span><blockquote>', result_string)
+  result_string = re.sub(r"<blockquote>", '<div class="block_quote_outer"><span class="big_quote_mark_outer"><span class="big_quote_mark_inner">&#8220;</span></span><blockquote>', result_string)
   result_string = re.sub(r"</blockquote>", '</blockquote></div>', result_string)
   if title != "Neurodiversity":
     # Sub in the first use of the string "neurodiversity" with a link to my awesome post. Note that this is done AFTER the footnotes are replaced, in order to prefer subbing the first occurence of the word in the body text rather than the first in the flow of reading all footnotes immediately.
