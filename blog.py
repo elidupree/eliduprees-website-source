@@ -964,7 +964,7 @@ for tag in tags.tags:
 
 current_blog_page = page_lists ["blog"] [len (page_lists ["blog"])-1]
 current_blog_page_extras = [
-{"title": "stream entry for voice practice tool", "stream_entry": ("/voice-practice-tool", "New online tool for voice practice!")},
+{"title": "New online tool for voice practice!", "stream_entry": ("/voice-practice-tool", "New online tool for voice practice!")},
 ]
 def consider_list_for_current_page (list, limit = 8):
   for index in range (1, min (1 + limit, 1 + len( list))):
