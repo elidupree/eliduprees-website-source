@@ -112,7 +112,6 @@ Some time travelers can't go back more than a certain amount of time. Suppose th
 Those who can go back much more than one hour usually have other limitations. Some have to <em>wait</em> a certain amount of time before they can use their power again, making certain attacks possible during the cooldown period. Some abilities can only be used a certain number of times in total, making it possible to force (or trick) the time traveler and using up their ability.
 
 
-
 <h3>1.2: Spotting time travelers</h3>
 
 Most time travelers try to hide the fact that they are time travelers. If one of your enemies is a time traveler, it is crucial for you to figure that out as soon as possible. With equal importance, you must not let the time traveler realize that you have discovered them.
@@ -129,7 +128,7 @@ Thirdly, many time travelers undo or avoid any significant bad events that occur
 
 Like the other signs, this one has false-positives as well. If a person seems very fortunate, they may still be a luck manipulator rather than a time traveler. This requires different strategies. For instance, if you shoot a gun at a time traveler, they are fairly likely to die, but if you shoot a gun at a luck manipulator, you will almost certainly miss. Since luck manipulators require very different techniques to fight against than time travelers, this book will not attempt to discuss anti-luck-manipulator strategy.
 
-
+
 <h3>1.3: Using other supernatural powers against time travelers</h3>
 
 <h4>Time Travel</h4>
@@ -182,7 +181,6 @@ If you're already known for having powers like these, you may be worse off than 
 
 
 
-
 <h2>Part two: Specific Types of Time Travel</h2>
 
 <h3>2.1: Personal Time Reversal</h3>
