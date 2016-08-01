@@ -14,7 +14,7 @@ def ajax_func():
   import secrets
 
   if os.environ["REQUEST_METHOD"] != "POST":
-    raise error_stuff.WebsiteError("Oops! This request used a method that is not POST. Either there's a bug in my code, or you're trying to hack my website.")
+    raise errors.WebsiteError("Oops! This request used a method that is not POST. Either there's a bug in my code, or you're trying to hack my website.")
 
   request_type = forms.ensure_presence_and_uniqueness_of_and_get_field("request_type")
   parent       = forms.ensure_presence_and_uniqueness_of_and_get_field("parent"      )
@@ -47,7 +47,7 @@ Last secret ID: '''+ last_secret_comment_identifier
   if request_type == "submit":
     response = urllib.urlopen ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.urlencode ({"value1": reviewable_text}))
     if response.getcode() != 200:
-      raise WebsiteError ("Your comment failed to be delivered.")
+      raise errors.WebsiteError ("Your comment failed to be delivered.")
 
   preview_items.append('<div class="comment_body">'+postprocessed_string+'</div>')
 
