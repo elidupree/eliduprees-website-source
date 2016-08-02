@@ -48,6 +48,11 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
      <script type="text/javascript" src="/media/download.js?rr"></script>
      <script type="text/javascript" src="/media/jszip.min.js?rr"></script>
+     
+     <!--<script type="text/javascript" src="/media/complex.js?rr"></script>
+     <script type="text/javascript" src="/media/pitch.js?rr"></script>-->
+     <script type="text/javascript" src="/media/pitchdetect.js?rr"></script>
+     
      <script type="text/javascript">
 
 /* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
@@ -57,6 +62,9 @@ $(function(){
   var rate = audio.sampleRate;
   var recorder_buffer_length = 2048;
   var histogram_canvas = document.getElementById("histogram_canvas").getContext("2d");
+  var min_pitch = 80;
+  var Max_pitch = 3000;
+var pitch_analyzer = new PitchAnalyzer (rate);
   
   var recent_magnitudes_size = 1;
   var recent_magnitudes_scale = 1;
@@ -64,7 +72,11 @@ $(function(){
   var recent_magnitudes_height = 1;
   var recent_magnitudes_canvas = document.getElementById("recent_magnitudes").getContext("2d");
   var recent_magnitudes = [];
-  for (var I = 0; I <recent_magnitudes_size ;++I) {recent_magnitudes.push (0);}
+  var recent_pitches = [];
+  for (var I = 0; I <recent_magnitudes_size ;++I) {
+    recent_magnitudes.push (0);
+    recent_pitches.push (0);
+  }
   var start_recording_threshold = 0.5;
   var stop_recording_timeout = Math.ceil (rate*0.5/recorder_buffer_length);
     
@@ -172,7 +184,7 @@ function stop_playback (force) {
 
   }
   function create_recording () {
-    var output = {buffer: audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: []};
+    var output = {buffer: audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: [], pitches: []};
     output.canvas = $("<canvas/>").attr("width", 1).attr("height", recording_height).addClass ("recording").click (function (event) {
       var offset = output.canvas.offset ();
       var X = event.pageX - offset.left;
@@ -207,14 +219,21 @@ function stop_playback (force) {
       } else {
       context.fillStyle = "rgb(50, 50, 50)"
             }
-context.strokeStyle = "rgb(255, 0, 0)"
-    context.fillRect (0, 0, recording.canvas.width (), recording.canvas.height ());
-context.beginPath ();
+    var width = recording.canvas.width ();
+    var height = recording.canvas.height ();
+    context.fillRect (0, 0, width, height);
+    var previous = 0;
     for (var I = 0; I <recording.lines.length;++I) {
-context.moveTo (I, recording_height/2 + recording.lines [I]*recording_height/2);
-context.lineTo (I, recording_height/2 - recording.lines [I]*recording_height/2);
+      var X = (I + 1)*width/recording.lines.length;
+      context.fillStyle = "rgb(255, 0, 0)"
+      context.fillRect (X, height/2 - recording.lines [I]*height/2, X - previous, recording.lines [I]*height);
+      if (recording.pitches [I] !== -1) {
+        var pitch_fraction = (Math.log (recording.pitches [I] ) - Math.log (min_pitch))/Math.log (Max_pitch/min_pitch);
+        context.fillStyle = "rgb(255, 255, 255)"
+        context.fillRect (X, height*(1 - pitch_fraction), X - previous, 1);
+      }
+      previous = X;
     }
-context.stroke ();
     if (current_playback && current_playback.recording=== recording) {
 recording.play_button.html ('<i class="fa fa-stop"></i>');
     context.strokeStyle = "rgb(255, 255, 0)"
@@ -240,9 +259,21 @@ recording.play_button.html ('<i class="fa fa-stop"></i>');
     }
     var magnitude = Math.sqrt (square_total/recorder_buffer_length);
     magnitude = 1-(Math.log (magnitude)/Math.log (1/1024));
+
+    /*pitch_analyzer.input (input);
+    pitch_analyzer.process ();
+    var tone =pitch_analyzer.findTone ();
+    var frequency = -1;
+    if (tone !== null) {frequency = tone.freq;}*/
+    var frequency = autoCorrelate (input, rate);
+    $(".recent_magnitudes_caption").text ("" + frequency);
     
-    for (var I = 0; I <recent_magnitudes_size - 1 ;++I) {recent_magnitudes [I] = recent_magnitudes [I + 1];}
+    for (var I = 0; I <recent_magnitudes_size - 1 ;++I) {
+      recent_magnitudes [I] = recent_magnitudes [I + 1];
+      recent_pitches [I] = recent_pitches [I + 1];
+    }
     recent_magnitudes [recent_magnitudes_size - 1] = magnitude;
+    recent_pitches [recent_magnitudes_size - 1] = frequency;
     
   recent_magnitudes_size = Math.ceil (rate*2/recorder_buffer_length);
   recent_magnitudes_scale = Math.ceil (Math.min ($("body").width ()/3, 200)/recent_magnitudes_size);
@@ -256,17 +287,21 @@ recording.play_button.html ('<i class="fa fa-stop"></i>');
     var context = recent_magnitudes_canvas;
       context.fillStyle = "rgb(0, 0, 0)"
     context.fillRect (0, 0, recent_magnitudes_width, recent_magnitudes_height);
-      context.fillStyle = "rgb(255, 0, 0)"
     for (var I = 0; I <recent_magnitudes_size;++I) {
+      context.fillStyle = "rgb(255, 0, 0)"
       context.fillRect (I*recent_magnitudes_scale, recent_magnitudes_height*(1 - recent_magnitudes [I]), recent_magnitudes_scale, recent_magnitudes_height*recent_magnitudes [I]);
+      if (recent_pitches [I] !== -1) {
+        var pitch_fraction = (Math.log (recent_pitches [I] ) - Math.log (min_pitch))/Math.log (Max_pitch/min_pitch);
+        context.fillStyle = "rgb(255, 255, 255)"
+        context.fillRect (I*recent_magnitudes_scale, recent_magnitudes_height *(1- pitch_fraction), recent_magnitudes_scale, 1);
+      }
     }
+    
     context.strokeStyle = "rgb(255, 255, 0)"
     context.beginPath ();
       var X = recent_magnitudes_width - stop_recording_timeout*recent_magnitudes_scale;
       var Y = recent_magnitudes_height*(1 - start_recording_threshold);
        context.moveTo (X, 0); context.lineTo (X, Y); context.lineTo (recent_magnitudes_width, Y); context.stroke ();
-
-    
     
     if (current_playback && pause_during_playback) {return;}
     
@@ -298,6 +333,7 @@ recording.play_button.html ('<i class="fa fa-stop"></i>');
       ++current_recording.next_sample;
     }
     current_recording.lines.push (magnitude);
+    current_recording.pitches.push (frequency);
     draw_recording (current_recording);
   }
   
