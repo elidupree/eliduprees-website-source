@@ -372,9 +372,11 @@
   "remembered_contents": "5083e323d64655943ebbb73a834ca5fa926e75e10b962a70a36a2fec83d4728df83c6c03e53a186e357c476a64f36088"
  },
  "My 0-10 pain scale": {
-  "date_modified": "2016-07-25",
-  "date_posted": "2016-07-25",
-  "id": "1ea559bc34fcd5809e4f265009d00d6"
+  "date_modified": "2016-08-03",
+  "date_posted": "2016-08-03",
+  "deployed": true,
+  "id": "1ea559bc34fcd5809e4f265009d00d6",
+  "remembered_contents": "8164ebb45d1bb73a0852c1139c68e1e23cb71179af4d1260746b1c6b97f9a4e0c618d2791435f470b0d7600dc98b3eef"
  },
  "Neurodiversity": {
   "date_modified": "2016-07-24",

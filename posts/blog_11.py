@@ -174,7 +174,7 @@ Maybe one of <strong>you</strong> could write it, though! If you do, I'll even p
 "title": "My 0-10 pain scale",
 "tags": ["neurodiversity"],
 "auto_paragraphs": True,
-"don't deploy": True,
+"blurb":'''When someone asks me, "rate your pain on a scale from 0 to 10", I now have a good way to do it.''',
 "contents":'''
 
 
@@ -216,7 +216,7 @@ There are a lot of reasons someone might cause pain to themself on purpose. They
 
 Generally, pain causes distress for me if it's at least a 6 (for sudden pain) or a 3 (for ongoing pain). In terms of distress, an ongoing pain is about equivalent to a sudden pain about 3 points higher. A pain I caused myself on purpose is equivalent to an unwanted pain about 2 points <em>lower</em>.
 
-I used to think, "I don't always want to avoid pain, but I always want to avoid distress." But one day, I was on a car ride through a city, inhaling a bunch of car exhaust. It made me feel a bunch of nausea and distress. I used a mental technique to make the distress go away, but that made the nausea worse. So I <em>brought back the distress on purpose</em> to help suppress the nausea. As it turns out, even "bad" feelings can have worthwhile uses. I still say "pain isn't a bad feeling, distress is", but that doesn't mean distress is completely bad all the time.
+I used to think, "I don't always want to avoid pain, but I always want to avoid distress." But one day, I was on a car ride through a city, inhaling a bunch of car exhaust. It made me feel a bunch of nausea and distress. I used a mental technique to make the distress go away, but that made the nausea worse. So I <em>brought back the distress on purpose</em> to help suppress the nausea. As it turns out, even "bad" feelings can have worthwhile uses. I still generally say "pain isn't a bad feeling, distress is", but that doesn't mean distress is completely bad all the time.
 
 <h2>Using the scale in practice</h2>
 
@@ -226,7 +226,7 @@ This has been very helpful for keeping track when I have a pain that comes and g
 
 I can also use the same scale to measure some other feelings, like nausea and anxiety.
 
-It's hard to pin down exactly how <em>useful</em> this has been. There's nothing I can point to and say, "See, knowing more about my pain has given me this material benefit". But it definitely feels good knowing that I understand myself a little better.
+It's hard to pin down exactly how <em>useful</em> this has been. There's nothing I can point to and say, "See, knowing more about my pain has given me this material benefit". But it definitely feels good to know that I understand myself a little better.
 
 ''',
 },
