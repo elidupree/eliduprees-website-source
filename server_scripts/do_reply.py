@@ -1,11 +1,59 @@
 #!/usr/local/bin/python
 
+import re
 import errors
 import blog_server_shared
 
+
+html_tags_allowed_for_everyone = set(["q","blockquote","em","strong"])
+
+chars_to_html_escapements = {
+  "&":"&amp;",
+  ">":"&gt;",
+  "<":"&lt;",
+  "\n":"<br/>",
+}
+
+# Unfortunately this function is NOT idempotent, so the user should not normally be shown its string output (though we can surely show them how it displays in HTML !)
+# It escapes any tag that a normal poster isn't allowed to use.
+# My own posting abilities allow me to post arbitrary HTML that does NOT go through this function.
+def cleanup_post(post_string):
+  # Use a only-this-is-okay model rather than an only-this-is-not-okay model so that the user can't throw me for a loop with a clever input
+  open_tags = []
+  approved_angle_brackets = set() # Only string indices that land in this set will allow angle brackets to remain on them unescaped.
+  for matchinfo in re.finditer(r"</?([a-zA-Z]+)>", post_string):
+    if matchinfo.group(0)[1] != "/":
+      # we have an opening tag
+      if matchinfo.group(1) in html_tags_allowed_for_everyone:
+        open_tags.append(matchinfo)
+    else:
+      # we have a closing tag
+      if len(open_tags) > 0:
+        opened_tag = open_tags[len(open_tags) - 1]
+        if matchinfo.group(1) == opened_tag.group(1):
+          # Holy crap, we're actually closing the same tag, and that means we have a winnar!!!
+          open_tags.pop()
+          approved_angle_brackets.add(opened_tag.start(0))
+          approved_angle_brackets.add(opened_tag.end(0)-1)
+          approved_angle_brackets.add(matchinfo.start(0))
+          approved_angle_brackets.add(matchinfo.end(0)-1)
+
+  pieces = []
+  for i in range(len(post_string)):
+    c = post_string[i]
+    if i in approved_angle_brackets:
+      pieces.append(c)
+    elif c in chars_to_html_escapements:
+      pieces.append(chars_to_html_escapements[c])
+    else:
+      pieces.append(c)
+
+  # We've now escaped all the things that need to be escaped.
+  # We also take a moment to stop the user from doing something pointless that circumvents the word scrutiny.
+  return re.sub(r"<em></em>|<strong></strong>|</em><em>|</strong><strong>", "", "".join(pieces))
+
 def ajax_func():
   import os
-  import re
   import forms
   import random
   import datetime
@@ -23,6 +71,7 @@ def ajax_func():
   secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field("secret_comment_identifier")
   last_secret_comment_identifier = forms.ensure_presence_and_uniqueness_of_and_get_field("last_secret_comment_identifier")
   
+  contents = cleanup_post(contents)
 
   preview_items = []
   

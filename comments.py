@@ -1325,5 +1325,12 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
   "id":"5b16d065f934ae06571bb197980b7f50",
   "date_posted":datetime.date(2016, 8, 3)
 },
+{
+  "parent":"5b16d065f934ae06571bb197980b7f50",
+  "username":"Eli Dupree",
+  "contents":"""Yeah, that is an issue. Doctors don't always listen to their patients or respect their patients, and that's bad. If you're in that situation, it's fair to say whatever number you think will get you the proper medical attention.<br><br>I've especially heard of doctors (and other medical staff) refusing to take <em>black</em> patients' pain seriously – which they justify by claiming that black people "exaggerate". I've even heard of black patients saying 8 or 9 when they want to say 10, because they will hope it will make the untrustworthy doctors believe they're not exaggerating. I hope we can make doctors be less terrible in the future.<br><br>Personally, I have mostly interacted with doctors who respected me, and took the time to pay attention to exactly what I mean by the numbers.""",
+  "id":"2f6f01f3525f351788e194450e76a844",
+  "date_posted":datetime.date(2016, 8, 3)
+},
 
 ]
