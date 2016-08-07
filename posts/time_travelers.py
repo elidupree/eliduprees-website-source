@@ -11,7 +11,6 @@ posts = [
   "title":"Time Travelers and How to Kill Them: a Practical Guide",
   "blurb": "A fictional book written in a world with many forms of time travel.",
   "don't deploy": True,
-"auto_paragraphs": True,
 "authors_notes":'''
 
 <p>There are a lot of stories with time travel in them, but very few that try to establish a consistent set of rules about how time travel works. I enjoy designing fictional systems, so I decided to do something about that. It was quite a challenge to design systems that behave <em>similarly</em> to the inconsistent systems from stories, while still being consistent themselves. I think I did a pretty good job, though.</p>
@@ -29,6 +28,7 @@ posts = [
   .table_of_contents { display: block; margin:0.2em 0;}
   .table_of_contents_3 { padding-left:1.5em;}
   .table_of_contents_4 { padding-left:3em;}
+  pre {overflow: scroll;}
  </style>''', 
 },
 ]
@@ -447,6 +447,10 @@ If the oracle is aware of this strategy, they could theoretically make a habit o
 
 <h2>Appendix: Time as a computer program</h2>
 
+We here provide an approximate implementation of the time travel rules in JavaScript. It is not intended to run on any <em>actual</em> computer, but it serves to illustrate the exact rules and potential interactions of various time travel powers.
+
+This implementation also simplifies physics by using a series of simulation steps ("ticks") rather than a continuum, and gives no consideration to relativity.
+
 '''
 
 program ='''
@@ -457,7 +461,8 @@ function present (history) { return history [history.length - 1];}
 
 function tick (history) {
   history.push (deepcopy (present (history)));
-  /* Do physics on the new moment of history, possibly calling some of the time travel functions below. */
+  /* Do physics on the new moment of history,
+  possibly calling some of the time travel functions below. */
 }
 
 function reverse (history, person, target_time) {
@@ -468,8 +473,13 @@ function reverse (history, person, target_time) {
 
 function paradox_clone (history, person, target_time, destination, ability_info) {
   var area = history [target_time].find_area (destination);
-  if (area.density() > ability_info.density_limit && ability_info.arrival_type === "safe") {return;}
-  if (area.density() > ability_info.density_limit && ability_info.arrival_type === "weak") {present (history).erase_person (person); return;}
+  if (area.density() > ability_info.density_limit
+       && ability_info.arrival_type === "safe") {return;}
+  if (area.density() > ability_info.density_limit
+       && ability_info.arrival_type === "weak") {
+    present (history).erase_person (person);
+    return;
+  }
   while (history.length > target_time + 1) {history.pop();}
   if (area.density() > ability_info.density_limit) {area.insert (person);}
   else {area.replace (person);}
@@ -492,23 +502,36 @@ function imagine (history, person, ability_info, imagined_arrivals) {
   
   var start = history.length - 1;
   function simulate (arrivals) {
-    /* note: it's not technically correct that these arrivals are only a local variable in this function. They need to be recorded in the history state instead. Otherwise, */
+    /* Note: it's not technically correct that these arrivals
+    are only a local variable in this function.
+    They need to be recorded in the history state instead.
+    Otherwise, if (for instance) a reverser goes back 
+    to before one of the arrivals,
+    the arrival doesn't happen the second time.
+    We write it this way for now for ease of understanding. */
     arrivals.sort_by (when);
     person.current_coil_simulation.next_arrivals = [];
     for (var which = 0; which < arrivals.length; ++which) {
       var arrival = arrivals [which];
-      while (history.length <= arrival.when) {tick (history);}
+      while (history.length <= arrival.when) {
+        tick (history);
+      }
       var area = present (history).find_area (arrival.where);
-      if (area.density() <= ability_info.density_limit) {area.insert (arrival.who);}
+      if (area.density() <= ability_info.density_limit) {
+        area.insert (arrival.who);
+      }
     }
-    while (history.length <= start + ability_info.time_limit) {tick (history);}
+    while (history.length <= start + ability_info.time_limit) {
+      tick (history);
+    }
   }
   person.current_coil_simulation = {next_arrivals: imagined_arrivals};
   for (var which = 0; which < ability_info.max_simulations; ++which) {
     var last_result = present (history);
     while (history.length > start + 1) {history.pop();}
     simulate (person.current_coil_simulation.next_arrivals);
-    if (difference (present (history), last_result) < ability_info.inconsistency_limit) {
+    if (difference (present (history), last_result)
+         < ability_info.inconsistency_limit) {
       present (history).find_person (person).current_coil_simulation = null;
       return;
     }
@@ -519,10 +542,39 @@ function imagine (history, person, ability_info, imagined_arrivals) {
 function actualize (history, person, target_time, destination) {
   if (person.current_coil_simulation) {
     present (history).erase_person (person);
-    person.current_coil_simulation.next_arrivals.push ({who: person, when: target_time, where: destination]);
+    person.current_coil_simulation.next_arrivals.push ({
+      who: person, when: target_time, where: destination});
   }
 }
 
+function long_leap (history, person, target_time, destination, ability_info) {
+  var area = history [target_time].find_area (destination);
+  if (area.density() > ability_info.density_limit) {return;}
+  var start = history.length - 1;
+  var old_history = deepcopy (history);
+  while (history.length > target_time + 1) {history.pop();}
+  
+  /* Like the coiler implementation, this arrival can be erased by a reverser.
+  We don't believe this should be possible, but further research is needed
+  to determine the exact interaction. */
+  area.replace (person);
+  
+  /* For this to find a working result, max_simulations needs to be HUGE,
+  somewhere between a googol and a googolplex. For simplicity, we will assume
+  that JavaScript's numeric type can handle such numbers. */
+  for (var which = 0; which < ability_info.max_simulations; ++which) {
+    history [target_time].random_seed = which;
+    while (history.length <= start) {tick (history);}
+    if (difference (present (history), present (old_history))
+         < ability_info.inconsistency_limit) {
+      return;
+    }
+  }
+  
+  /* If no possible simulation was found,
+  the time travel attempt simply fails. */
+  history = old_history;
+}
 
 
 
@@ -539,5 +591,6 @@ def thing (match):
   return ("<bigbreak>" if match.group (1) == "2" else "") +'<a id="' + fragment + '">' + match.group (0)+ "</a>" 
 contents = re.sub(r"<h(.)>(.*?)</h.>", thing, contents)
 contents =re.sub(r"<TOC>", "".join (table_of_contents), contents)
+contents = utils.auto_paragraphs (contents) + program
 
 posts [0] ["contents"] = contents
