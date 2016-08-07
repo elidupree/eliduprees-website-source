@@ -1316,5 +1316,21 @@ Also, think about what people would have said to Granger after ze was attacked b
   "id":"50cb76653e67f7b3e952379abb5b0086",
   "date_posted":datetime.date(2016, 7, 26)
 },
+{
+  "parent":"1ea559bc34fcd5809e4f265009d00d6",
+  "username":"momothefiddler",
+  "contents":"""Having a pain scale is useful (I've certainly fiddled with my own varying pain scales), and I also have trouble remembering pain (or any other) sensations! However, I've found that while this sort of scale is <em>honest</em> and <em>internally useful</em>, as far as I can tell, when doctors or other hospital folk use a 1-10 scale, they... don't mean it. By which I mean, any reasonable scale that <em>actually</em> uses 10 as "worst pain imaginable" ends up giving you numbers like 3 and 6 for <em>really very problematic pain</em>, while, based on everything I've seen in hospitals, responding to their questions with 6, not to mention 3, will cause medical workers to ignore your pain.
+<br><br>
+As a result, I've decided to go with something vaguely logarithmic rather than linear (though I haven't laid it out with breakpoints like this because I've only actually used it once) <em>for doctor purposes</em>, but your scale here is certainly useful for non-doctor purposes and I think I'll start using it.""",
+  "id":"5b16d065f934ae06571bb197980b7f50",
+  "date_posted":datetime.date(2016, 8, 3)
+},
+{
+  "parent":"5b16d065f934ae06571bb197980b7f50",
+  "username":"Eli Dupree",
+  "contents":"""Yeah, that is an issue. Doctors don't always listen to their patients or respect their patients, and that's bad. If you're in that situation, it's fair to say whatever number you think will get you the proper medical attention.<br><br>I've especially heard of doctors (and other medical staff) refusing to take <em>black</em> patients' pain seriously – which they justify by claiming that black people "exaggerate". I've even heard of black patients saying 8 or 9 when they want to say 10, because they will hope it will make the untrustworthy doctors believe they're not exaggerating. I hope we can make doctors be less terrible in the future.<br><br>Personally, I have mostly interacted with doctors who respected me, and took the time to pay attention to exactly what I mean by the numbers.""",
+  "id":"2f6f01f3525f351788e194450e76a844",
+  "date_posted":datetime.date(2016, 8, 3)
+},
 
 ]
