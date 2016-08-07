@@ -444,6 +444,89 @@ Most reverser-like oracles have a limit to how far they can see into the future.
 Some reverser-like oracles have another weakness as well: they are unable to predict their own future predictions. That is, in each potential future such an oracle sees, the oracle never makes another prediction. Thus, one way to kill them is to wait until you see them using their power, then strike immediately. Since you only kill them immediately after they make a prediction, they never see you kill them in any of their earlier predictions &ndash; only the last one, which hopefully doesn't give them enough time to react.
 
 If the oracle is aware of this strategy, they could theoretically make a habit of predicting what happens if they <em>pretend</em> to receive further predictions. If you suspect that your oracle would do this, you must fall back to a different strategy, such as leading the oracle into a trap. However, unlike a short-term reverser, an oracle must spend a certain amount of real time to make each prediction. Thus, they are much less likely to take obscure defensive measures such as this.
+
+<h2>Appendix: Time as a computer program</h2>
+
+'''
+
+program ='''
+
+<pre> <code class="language-javascript">
+
+function present (history) { return history [history.length - 1];}
+
+function tick (history) {
+  history.push (deepcopy (present (history)));
+  /* Do physics on the new moment of history, possibly calling some of the time travel functions below. */
+}
+
+function reverse (history, person, target_time) {
+  var transferred_mind = person.mind;
+  while (history.length > target_time + 1) {history.pop();}
+  history [target_time].find_person (person).mind = transferred_mind;
+}
+
+function paradox_clone (history, person, target_time, destination, ability_info) {
+  var area = history [target_time].find_area (destination);
+  if (area.density() > ability_info.density_limit && ability_info.arrival_type === "safe") {return;}
+  if (area.density() > ability_info.density_limit && ability_info.arrival_type === "weak") {present (history).erase_person (person); return;}
+  while (history.length > target_time + 1) {history.pop();}
+  if (area.density() > ability_info.density_limit) {area.insert (person);}
+  else {area.replace (person);}
+}
+
+function imagine (history, person, ability_info, imagined_arrivals) {
+  /* In our current model, the imagination power cannot be nested.
+  That is, you cannot use it during your own simulations.
+  If you could, it wouldn't be clear how the actualization power
+  decides which simulation to apply to.
+  
+  However, that would imply that many consistent coilers have a
+  moment of vulnerability at the end of each successful simulation,
+  because they can't have any duplicates or future knowledge if they
+  haven't been able to imagine further than that yet.
+  
+  We have not observed such moments of weakness, so further research
+  is clearly needed. */
+  if (person.current_coil_simulation) {return;}
+  
+  var start = history.length - 1;
+  function simulate (arrivals) {
+    /* note: it's not technically correct that these arrivals are only a local variable in this function. They need to be recorded in the history state instead. Otherwise, */
+    arrivals.sort_by (when);
+    person.current_coil_simulation.next_arrivals = [];
+    for (var which = 0; which < arrivals.length; ++which) {
+      var arrival = arrivals [which];
+      while (history.length <= arrival.when) {tick (history);}
+      var area = present (history).find_area (arrival.where);
+      if (area.density() <= ability_info.density_limit) {area.insert (arrival.who);}
+    }
+    while (history.length <= start + ability_info.time_limit) {tick (history);}
+  }
+  person.current_coil_simulation = {next_arrivals: imagined_arrivals};
+  for (var which = 0; which < ability_info.max_simulations; ++which) {
+    var last_result = present (history);
+    while (history.length > start + 1) {history.pop();}
+    simulate (person.current_coil_simulation.next_arrivals);
+    if (difference (present (history), last_result) < ability_info.inconsistency_limit) {
+      present (history).find_person (person).current_coil_simulation = null;
+      return;
+    }
+  }
+  while (history.length > start + 1) {history.pop();}
+}
+
+function actualize (history, person, target_time, destination) {
+  if (person.current_coil_simulation) {
+    present (history).erase_person (person);
+    person.current_coil_simulation.next_arrivals.push ({who: person, when: target_time, where: destination]);
+  }
+}
+
+
+
+
+</code> </pre>
 '''
 
 table_of_contents = []
