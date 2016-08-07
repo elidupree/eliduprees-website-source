@@ -10,7 +10,6 @@ posts = [
 {
   "title":"Time Travelers and How to Kill Them: a Practical Guide",
   "blurb": "A fictional book written in a world with many forms of time travel.",
-  "don't deploy": True,
 "authors_notes":'''
 
 <p>There are a lot of stories with time travel in them, but very few that try to establish a consistent set of rules about how time travel works. I enjoy designing fictional systems, so I decided to do something about that. It was quite a challenge to design systems that behave <em>similarly</em> to the inconsistent systems from stories, while still being consistent themselves. I think I did a pretty good job, though.</p>
@@ -19,7 +18,7 @@ posts = [
 
 <p>Another common thing in stories with time travel is that it's usually the protagonists who have time travel. Their enemies usually don't have any time travel powers, or, at worst, they have the same amount as the protagonists do. I decided to amuse myself by writing this document from the opposite perspective: you have to fight against time travelers without having any time travel powers yourself. That makes for a much bigger challenge. It also helped force me to think out all the details of how each power worked.</p>
 
-
+<p>I'm not sure there's any ultimate <em>purpose</em> to this book &ndash; after all, time travel doesn't exist, and assassinating people is a bad idea. You could say it was just an exercise in thinking things through from a certain perspective. It was also one of the first big things I wrote after I got my current speech recognition software, so it helped me get used to using that.</p>
 
 ''',
   "head":'''<style>
