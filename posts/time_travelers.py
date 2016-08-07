@@ -76,7 +76,7 @@ Although there are many types of time travel, they have enough in common that mu
 
 <h3>1.1: Countering time travel</h3>
 
-<h4>Destroy the source</h4>
+<h4>Destroy The Source</h4>
 
 All time travel abilities have a specific source &ndash; usually a machine, a spirit, or a human being. If you want to stop the time travel, you have to destroy the source.
 
@@ -109,14 +109,14 @@ Of particular interest is the possibility of sending messages back in time to <e
 
 Some time travelers can't go back more than a certain amount of time. Suppose that your enemy cannot go back farther than one hour. Now suppose also that you know they will be attending a two-hour lecture. If you secretly lock the doors behind them at the beginning of the lecture, then wait until the end of the lecture to strike, they won't be able to go back to before they were locked in. (Don't make the mistake of relying on a trap like this to keep them contained in the long-term, though. Only use a technique like this as part of a larger plan to destroy the source of the time travel.)
 
-Those who can go back much more than one hour usually have other limitations. Some have to <em>wait</em> a certain amount of time before they can use their power again, making certain attacks possible during the cooldown period. Some abilities can only be used a certain number of times in total, making it possible to force (or trick) the time traveler and using up their ability.
+Those who can go back much more than one hour usually have other limitations. Some have to <em>wait</em> a certain amount of time before they can use their power again, making certain attacks possible during the cooldown period. Some abilities can only be used a certain number of times in total, making it possible to force (or trick) the time traveler into using up their ability.
 
 
 <h3>1.2: Spotting time travelers</h3>
 
 Most time travelers try to hide the fact that they are time travelers. If one of your enemies is a time traveler, it is crucial for you to figure that out as soon as possible. With equal importance, you must not let the time traveler realize that you have discovered them.
 
-Each type of time travel has its own telltale signs. (See Part Three, "Specific Types of Time Travel".) However, there are also signs that are common to all types of time travel.
+Each type of time travel has its own telltale signs. (See Part two, "Specific types of time travel".) However, there are also signs that are common to all types of time travel.
 
 Firstly, all time travelers run the risk of getting confused about the passage of time as others experience it. Especially careless time travelers might act confused about time in ordinary conversations, or even reveal that they remember events that haven't happened yet. With smart time travelers, don't rely too much on obvious giveaways, since they are likely to keep close track of time themselves. In that case, you can sometimes spot the time traveler when they display an unusually accurate memory of when things happened. This is, of course, merely circumstantial evidence, since many people possess unusually good or bad memories naturally.
 
@@ -181,9 +181,9 @@ If you're already known for having powers like these, you may be worse off than 
 
 
 
-<h2>Part two: Specific Types of Time Travel</h2>
+<h2>Part two: Specific types of time travel</h2>
 
-<h3>2.1: Personal Time Reversal</h3>
+<h3>2.1: Personal Time Reversers</h3>
 
 We cover this type of time travel first because it is the easiest to understand: it is the smallest departure from conventional reality. Reversers, unlike other time travelers, can never be in two places at once, and cannot even attempt to cause paradoxes. However, they are every bit as dangerous.
 
@@ -431,7 +431,7 @@ One might ask, "if they can't actually change how things turn out, how do we kno
 Certain time travel historical societies have a policy of only keeping long-term records of long-leapers who die while trying to kill Hitler, and not of those who survive and return to the future, in order to make the luck manipulation more likely to let them survive. Other societies, particularly exterminationist ones, only keep records of the ones who <em>survive</em>, to make them more likely to die. However, these societies occasionally change leadership, and the new leaders often expunge the records kept by the old ones, rendering the decision moot.
 
 
-<h3>2.5: A Brief Note on Oracles</h3>
+<h3>2.5: A brief note on Oracles</h3>
 
 The power to predict the future has many similarities to the power to travel into the past. Time travelers, like oracles, often have knowledge of possible futures. Oracles, like time travelers, are rarely seen taking actions that have bad results.
 
@@ -447,12 +447,13 @@ If the oracle is aware of this strategy, they could theoretically make a habit o
 
 <h2>Appendix: Time as a computer program</h2>
 
-We here provide an approximate implementation of the time travel rules in JavaScript. It is not intended to run on any <em>actual</em> computer, but it serves to illustrate the exact rules and potential interactions of various time travel powers.
+We here provide an approximate implementation of the time travel rules in JavaScript. It is not intended to run on any <em>actual</em> computer, but it serves to illustrate the exact rules and some potential interactions of the various time travel powers.
+
+This implementation is an experimental first draft, first published with this edition of this book. It will likely need to be refactored in future editions to handle all interactions correctly.
 
 This implementation also simplifies physics by using a series of simulation steps ("ticks") rather than a continuum, and gives no consideration to relativity.
 
 '''
-
 program ='''
 
 <pre> <code class="language-javascript">
@@ -567,6 +568,7 @@ function long_leap (history, person, target_time, destination, ability_info) {
     while (history.length <= start) {tick (history);}
     if (difference (present (history), present (old_history))
          < ability_info.inconsistency_limit) {
+      present (history).erase_person (person);
       return;
     }
   }
