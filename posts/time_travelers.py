@@ -18,7 +18,7 @@ posts = [
 
 <p>Another common thing in stories with time travel is that it's usually the protagonists who have time travel. Their enemies usually don't have any time travel powers, or, at worst, they have the same amount as the protagonists do. I decided to amuse myself by writing this document from the opposite perspective: you have to fight against time travelers without having any time travel powers yourself. That makes for a much bigger challenge. It also helped force me to think out all the details of how each power worked.</p>
 
-<p>I'm not sure there's any ultimate <em>purpose</em> to this book &ndash; after all, time travel doesn't exist, and assassinating people is a bad idea. You could say it was just an exercise in thinking things through from a certain perspective. It was also one of the first big things I wrote after I got my current speech recognition software, so it helped me get used to using that.</p>
+<p>I'm not sure there's any ultimate <em>purpose</em> to this book &ndash; after all, time travel doesn't exist, and assassinating people is a bad idea. You could say it was just an exercise in thinking things through from a certain perspective. Back when I wrote the first draft of this book, it was also one of the first big things I wrote after I got my current speech recognition software, so it helped me get used to using that.</p>
 
 ''',
   "head":'''<style>

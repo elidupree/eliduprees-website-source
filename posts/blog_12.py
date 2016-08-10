@@ -9,13 +9,12 @@ posts = [
 "title": "Story idea(s): The imprisoned good being",
 "tags": ["story ideas"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "contents":'''
 Here's a story you've probably heard before:
 
 The heroes stumble upon someone who has been magically imprisoned. Maybe it's a thousand-year-old spirit, maybe it's a regular person. Maybe it begs them to free it. Maybe they free it by accident. Maybe this is a game where you can choose whether to free it. Either way, freeing it is <strong>bad</strong>. If it eventually gets free, then it turns out to be evil. The heroes may have to spend the rest of the story fighting it.
 
-I've seen a lot of different stories that follow this pattern. On the other hand, I can hardly think of any stories with an imprisoned <em>good</em> being, unless it is a counterpart to an imprisoned evil being in the same story.
+I've seen a lot of different stories that follow this pattern. On the other hand, I can hardly think of any stories with an imprisoned <em>good</em> being. The main exception is when there's a good counterpart to an imprisoned evil being in the same story.
 
 I'd like to change this pattern. I live in the United States, which injustly imprisons huge numbers of people. Because imprisoning people is generally bad in real life, I would like to make it look bad in my stories as well.
 

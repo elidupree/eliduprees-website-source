@@ -1332,5 +1332,20 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
   "id":"2f6f01f3525f351788e194450e76a844",
   "date_posted":datetime.date(2016, 8, 3)
 },
+{
+  "parent":"2f6f01f3525f351788e194450e76a844",
+  "username":"momothefiddler",
+  "contents":"""<q>If you're in that situation, it's fair to say whatever number you think will get you the proper medical attention.</q><br>On one hand this is an important self-advocacy thing!<br>On the other I find that it's easier for me to justify it to myself when I think about it less confrontationally as, like, the way language works? It's not <em>lying</em> to say the words that properly communicate your sensations into the other person's head!<br>(Perhaps that is a broader discussion about my brain function and getting around internal blocks, but if it helps other people get around similar blocks....)""",
+  "id":"c42282ccb09510c7d34966ec4d46431",
+  "date_posted":datetime.date(2016, 8, 3)
+},
+{
+  "parent":"c42282ccb09510c7d34966ec4d46431",
+  "username":"Eli Dupree",
+  "contents":"""That makes sense. I tend to suggest more-confrontational ways of thinking because they're the ones that <em>I'm</em> most comfortable with. But both ways have their advantages.""",
+  "id":"27f1f3a769ac5edd0c9c10bd47a0ec11",
+  "date_posted":datetime.date(2016, 8, 3)
+},
+
 
 ]
