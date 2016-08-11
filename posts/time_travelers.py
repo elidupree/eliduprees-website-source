@@ -4,6 +4,7 @@
 
 import re
 import utils
+import html
 
 
 posts = [
@@ -453,11 +454,11 @@ This implementation is an experimental first draft, first published with this ed
 This implementation also simplifies physics by using a series of simulation steps ("ticks") rather than a continuum, and gives no consideration to relativity.
 
 '''
-program ='''
+program = '''
 
 <pre> <code class="language-javascript">
 
-function present (history) { return history [history.length - 1];}
+'''+html.escape('''function present (history) { return history [history.length - 1];}
 
 function tick (history) {
   history.push (deepcopy (present (history)));
@@ -577,7 +578,7 @@ function long_leap (history, person, target_time, destination, ability_info) {
   history = old_history;
 }
 
-
+''')+'''
 
 </code> </pre>
 '''
