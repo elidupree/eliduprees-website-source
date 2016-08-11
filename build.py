@@ -182,6 +182,9 @@ def main():
       'reload-or-try-restart', 'nginx.service'])
     time.sleep(1)
     if '--no-idupree-websitepy-tests' not in sys.argv:
+      # tests not working?
+      # sudo systemctl restart validatornu.service
+      # and wait 3 minutes
       idupree_websitepy.tests.test(config)
       if "--deploy" in sys.argv:
         with open(build_dir + "/deploy_ready", 'w') as deploy_file:
