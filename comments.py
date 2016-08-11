@@ -1346,6 +1346,14 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
   "id":"27f1f3a769ac5edd0c9c10bd47a0ec11",
   "date_posted":datetime.date(2016, 8, 3)
 },
+{
+  "parent":"e3b65d12b0a1b35f2b46f2cdadb10e5",
+  "username":"momothefiddler",
+  "contents":"""i like the idea of a story that never explicitly buys into the imprisoned evil being trope, but is similar enough overall (mysterious being is imprisoned, offers rewards for freedom, whatever) that the revelation in the reader that this being is clearly <em>not</em> evil prompts an examination of the trope itself.<br><br>of course, thats just my favorite way of dealing with that sort of thing, because that way you dont <em>support</em> the unmerited assumption but you <em>do</em> draw attention to it, though i definitely acknowledge the possibility that i overuse the idea""",
+  "id":"76e024b170b41b06014943f472ddae64",
+  "date_posted":datetime.date(2016, 8, 10)
+},
+
 
 
 ]
