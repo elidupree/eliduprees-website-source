@@ -1353,6 +1353,13 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
   "id":"76e024b170b41b06014943f472ddae64",
   "date_posted":datetime.date(2016, 8, 10)
 },
+{
+  "parent":"d04e531e495dead8d8cc8de43373aac",
+  "username":"idupree",
+  "contents":""""Of course you should."<br><br>Citation needed. Depending on the genie's motivations and context, some people will refuse that offer, for example related to https://en.wikipedia.org/wiki/Ultimatum_game . Are the lives to save randomly selected from the world? Is the genie more like a drug or a military operation? Is it a spokesgenie for the KKK? Does the genie recognize (depending who it makes the offer to) how it is insulting that person? A search also showed me https://en.wikipedia.org/wiki/Inequity_aversion<br><br>But I don't think you're meaning to defend equality's lack of intrinsic value. You're just trying to introduce that as an idea some people feel affinity with, so you can talk about it.<br><br>"We don't have to transfer [harassment, abuse, etc] to someone else"<br><br>Apparently a lot of people do implement "equality" by choosing a new scapegoat. Can we link to resources about how to deal with this, because I don't understand it thoroughly enough to write about it?""",
+  "id":"eae13f070dd6c8ce821ee95a97d47662",
+  "date_posted":datetime.date(2016, 8, 17)
+},
 
 
 
