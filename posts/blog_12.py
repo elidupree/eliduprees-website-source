@@ -60,7 +60,7 @@ Suppose a genie appeared and offered to save the lives of 100 white people, and 
 
 That's a critique I've heard a few times. It says: "Equality has no inherent value. What really matters is doing as much good as you can, for as many people as you can." I can't <em>completely</em> disagree with that &ndash; it was even one of the assumptions in my <a href="/blog/game-theory-contracts-altruism">mathematical model</a>. But it's much more complicated than that.
 
-At worst, the genie example proves that equality isn't in <strong>end in itself</strong>. Increasing equality might still <strong>cause</strong> good things to happen. In philosophy terms, it doesn't have <a href="https://en.wikipedia.org/wiki/Intrinsic_value_(ethics)">intrinsic value</a>, it only has <a href="https://en.wikipedia.org/wiki/Instrumental_value">instrumental value</a>.
+At worst, the genie example proves that equality isn't an <strong>end in itself</strong>. Increasing equality might still <strong>cause</strong> good things to happen. In philosophy terms, it doesn't have <a href="https://en.wikipedia.org/wiki/Intrinsic_value_(ethics)">intrinsic value</a>, it only has <a href="https://en.wikipedia.org/wiki/Instrumental_value">instrumental value</a>.
 
 Usually, when I've seen other people use this argument, they've tried to twist it farther than that. They've implied: "Because equality doesn't have intrinsic value, we don't need to care about it at all." But there are many reasons to care about it. That's why I'm writing this post. In case you run into this argument somewhere yourself, let me prepare you with a defense:
 
