@@ -141,9 +141,11 @@
   "remembered_transcript": "1b1784bac5602792a93c7b33f7cfd307572f8d0ec613d93509b93b3465c7d1e9d5333e6d236d0090ee4bb708cf019713"
  },
  "A Critique and Defense of Equality": {
-  "date_modified": "2016-08-16",
-  "date_posted": "2016-08-16",
-  "id": "d04e531e495dead8d8cc8de43373aac"
+  "date_modified": "2016-08-17",
+  "date_posted": "2016-08-17",
+  "deployed": true,
+  "id": "d04e531e495dead8d8cc8de43373aac",
+  "remembered_contents": "3a208b6f2a4c87acdcec71fb08c27d350326414edbdcfa7f60873f9372e15de6b4c2065fbd601c8c731c81c170263545"
  },
  "A few concepts I need": {
   "date_modified": "2011-06-27",

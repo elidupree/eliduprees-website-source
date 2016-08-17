@@ -54,7 +54,7 @@ If I include this concept in my actual writing, I think I'd rather just do it in
 "title": "A Critique and Defense of Equality",
 "tags": ["philosophical"],
 "auto_paragraphs": True,
-"don't deploy": True,
+"blurb": "Suppose a genie appeared and offered to save the lives of 100 white people, and also save the lives of 5 black people. Should you accept?",
 "contents":'''
 Suppose a genie appeared and offered to save the lives of 100 white people, and also save the lives of 5 black people. Should you accept? Of course you should.
 
@@ -78,6 +78,8 @@ This isn't perfect, of course. It only works on a small scale – if the group i
 
 However, that doesn't mean it's useless. Enforcing equality is a blunt instrument, but the good often outweighs the bad.
 
+You could ask, "why doesn't the elder just ban stealing instead?" But there are many selfish behaviors that are more subtle. If it's harder to judge whether something was selfish, it's harder to ban it. And even in this case, the elder can't necessarily tell whether I stole or not. Ze might end up punishing someone who didn't steal, or failing to punish someone who did. Enforcement is much more effective (for both good <em>and</em> bad) if it is consistent.
+
 <h3>2. Equality as a proof-of-concept</h3>
 
 Is it possible for a person to walk along the street without ever being sexually harassed? Is it possible to walk into shops without being suspected as a thief? Is it possible ask your doctor about a medical problem and get advice that relates that actual problem?
@@ -98,7 +100,6 @@ Therefore, if you're trying to hand out resources in the most efficient way, it'
 
 On the same subject, the genie from the example doesn't exist. There's never only one choice &ndash; there are always other options. If someone has the power to save 100 white people's lives, they could probably spend the same resources to save just as many black people's lives, if not more. Even if we don't say the genie's racial bias is inherently bad, we could still critique the genie for spending resources inefficiently.
 
-
 <h3>4. Equality as friendship repair</h3>
 
 Suppose your friend really really wanted a piano, but couldn't afford one. Now suppose that you could snap your fingers and make a piano appear out of thin air. Would you do it? Of course you would.
@@ -115,9 +116,11 @@ Like everything else, this wouldn't be perfect. Even with equal <em>physical</em
 
 Despite this defense, I still have some hesitation about the idea of equality. It's not a central part of my moral system. My reasons can be summed up in one sentence: Equality is not <strong>sufficient</strong> for justice. To reach a good world, we will have to fix the evils caused by inequality, but we will also have to do much more than that.
 
+When people talk about equality, they are often aiming much lower. Let's say my goal is "LGBT equality". Maybe I want to end employment and housing discrimination against LGBT people. That would be a good thing. But is it good <em>enough</em>? Should we be content if LGBT homelessness is <em>only as common as</em> non-LGBT homelessness? It can be good to say, "let us achieve equality", but I am much more comfortable when someone says, "let us end the abuse completely".
+
 Like a lot of people, I have an instinct to think "that's not fair" when people are treated unequally. "That's not fair" <em>can</em> be a useful way to think, as I argued above. However, it isn't always right. Many people think it's not "fair" to give extra accommodations for people's disabilities. And on the other hand, it <em>would</em> seem fair to apply an unjust law equally to everyone. My <em>own</em> sense of "fair" doesn't always agree with my sense of justice. Part of why I wrote this post was to try to reconcile those two things.
 
-Anyway, I hope this post helps people think about things. I'm not trying to argue that "equality is good" or "equality is bad" &ndash; it's much nicer to understand what <em>aspects</em> are good and bad <em>about</em> it.
+Anyway, I hope this post helps people think about things. I'm not trying to argue that "equality is good" or "equality is bad" &ndash; it's much nicer to understand <em>how</em> it can be good and bad.
 ''',
 },
 
