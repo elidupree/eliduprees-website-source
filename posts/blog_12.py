@@ -82,7 +82,7 @@ You could ask, "why doesn't the elder just ban stealing instead?" But there are 
 
 <h3>2. Equality as a proof-of-concept</h3>
 
-Is it possible for a person to walk along the street without ever being sexually harassed? Is it possible to walk into shops without being suspected as a thief? Is it possible ask your doctor about a medical problem and get advice that relates that actual problem?
+Is it possible for a person to walk along the street without ever being sexually harassed? Is it possible to walk into shops without being suspected as a thief? Is it possible ask your doctor about a medical problem and get advice that relates to that actual problem?
 
 Of course it is. We know this because male people, white people, and thin cis people do these things all the time. If <em>everyone</em> got harassed, we wouldn't know that we could do anything about it. We might think it was an inevitable fact of life. But because it <em>doesn't</em> happen to some people, that proves that it's possible to prevent this evil.
 
