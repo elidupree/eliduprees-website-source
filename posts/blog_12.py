@@ -124,6 +124,37 @@ Anyway, I hope this post helps people think about things. I'm not trying to argu
 ''',
 },
 
+{
+"title": "Eli status: August 2016",
+"tags": ["crass physical reality", "this website", "programming"],
+"auto_paragraphs": True,
+"blurb":"A quick update on how things are going for me right now.",
+"contents":'''
+Here's a quick update on how things are going for me right now.
+
+<h2>My hands</h2>
+
+I've been having various problems with using my thumbs for years, since I injured them through overuse. However, 6 weeks ago, I finally figured out the cause of most of my current issues. It seems that my <a href="https://en.wikipedia.org/wiki/Adductor_pollicis">adductor pollicis</a> was going completely unused (in both hands). That meant my other hand muscles had to do extra work to compensate.
+
+For the last 6 weeks, I've been deliberately exercising the adductor pollicis, and my problems have gotten MUCH better. If I'm lucky, I'll be able to draw again within <cut>a month or so – then I can FINALLY finish my comics. That said, there have been a lot of times when my hands have seemed to get better, then got worse again. So there are no guarantees. I still have some upcoming doctor's appointments to investigate other possible causes of the problems.
+
+<h2>My voice</h2>
+
+Currently, I do most of my work using speech-to-text software, which means I have to use my voice a lot. This is mostly fine, but my throat sometimes gets irritated. I've been having some long-term throat problems, which I think are seasonal allergies. I'm taking antihistamines to help with that, and it's allowing me to use my voice <em>almost</em> as much as I want to. But it sometimes randomly gets better or worse on its own.
+
+<h2>My projects!</h2>
+
+I'm currently working on a HUGE programming project. It's kind of hard to explain what it is, but it's a game/simulation backend thing. It'll make it easier for me to write games in the future, and I'm especially designing it to help build Lasercake. It's called the TimeSteward because it lets you mess around with things back in time, like in <a href="/games/green-caves">the green caves game</a>.
+
+If you're a programmer, you can <a href="https://github.com/elidupree/time-steward">check out the TimeSteward on GitHub</a>. It's very incomplete, but there's already a working example with some circles bouncing around. It looks kind of like this, except with bouncing:
+
+<img alt="A screenshot of the example; 20 red circles on a black background" src="/media/bouncy-circles-screenshot.png?rr"/>
+
+I've been on a roll working on this. It's occupying my attention enough that I can't concentrate on any other projects on the side. That's why I only posted a blog post last week. I'm still sitting on some previously-unpublished stories that I want to edit and release, but that will have to wait until the TimeSteward isn't using up all my energy.
+
+''',
+},
+
 
 ]
 
