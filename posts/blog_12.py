@@ -155,6 +155,59 @@ I've been on a roll working on this. It's occupying my attention enough that I c
 ''',
 },
 
+{
+"title": "Consenting in Advance",
+"tags": ["sex"],
+"auto_paragraphs": True,
+"blurb": "When I talk about sexual consent, people sometimes say something like this:",
+"contents":'''
+When I talk about sexual consent, people sometimes say something like this:
+
+"But it's sexy to just do things in the moment and go with the flow! If I stopped to talk about consent, it would kill the mood."
+
+Before I go on, I should say this: There are a lot of different sexy things. If we have to sacrifice a few sexy things in order to avoid accidentally abusing people, we should certainly sacrifice them.
+
+However, we mostly <em>don't</em> have to sacrifice this one. All you have to do is talk about it <em>before</em> you end up being "in the moment".
+
+That's what I do. When I start doing things with a new partner, we obviously have a conversation about what each of us likes. That includes some things that each of us is okay with the other doing to them <em>without</em> asking every time. It's sort of like setting up ground rules, so we know which things could be a problem and which things we don't need to worry about.
+
+As part of the conversation, you might say something like <cut>this:
+
+"I'm really excited by the idea of you just coming up to me and groping me without warning. So... yeah, you can do that whenever you feel like it. I mean, not when I'm in the middle of working on something. But when we're only chilling out, that would be great."
+
+Or like this:
+
+"Yes, I AM really into biting! Whenever we're having sex, go for it. Although, I can't have the marks be visible at my work, and the uniform is really strict, so &ndash;"
+
+Or like this:
+
+"It's not that I don't <em>want</em> to have sex with you &ndash; I do want to, it's really tempting, but I know that I always feel awful after having sex unless I've been intimate with the person for a lot longer. So I don't want to do that for now. But, when we're making out, it could still be fun for you to feel me up a lot more &ndash; you could even pull my clothes off and go at it naked, just as long as you don't expect it to lead to something else."
+
+That last one could take a lot of trust. There are a lot of people who WOULD take naked make-outs as an excuse to pressure someone into sex. Because of that, other people might not be willing to admit that they want it. But if you do a good job of practicing consent, your partner may learn that it <em>is</em> safe to trust you. Then both of you will get to do things that you otherwise couldn't.
+
+<h2>Renegotiating</h2>
+
+The ground rules you choose won't always be perfect. Sometimes you need to change them later. I used to have an arrangement where my partner could tickle me by surprise whenever they wanted to. But when my hand problem got worse, I started worrying that I would hurt my hands more when I squirmed around from being tickled. So we agreed that they would have to ask before doing that in the future.
+
+Other times, something unexpected comes up while you're in the middle of doing stuff. Maybe you suddenly have an idea that you didn't discuss before. Or maybe somebody starts feeling bad about something they thought was okay for them. Then you have to pause the scene to renegotiate.
+
+In BDSM terms, there's the idea of a "safeword" &ndash; a special word that means "I'm not just playing at protesting, I really need this to stop now". With my partners, we don't <em>just</em> use a safeword. When we need to make it clear that we're not just playing around, we say "out of character". So the safeword becomes "Out of character, that's too much." We can also use it the other way around: "Out of character &ndash; I'm just acting freaked out because it's fun to act freaked out. I can actually handle a lot more than this." Or if I'm not sure how my partner is feeling, I could say, "Out of character, are you still enjoying this?". With the "out of character" rule, the "me" who is having fun in the moment can stay separate from the "me" who is stepping back and being responsible.
+
+<h2>"But I can tell whether they like it from their body language!"</h2>
+
+Well, maybe. Reading people is a real skill, and some people are pretty good at it. But it's not completely reliable. If someone's from a different culture, or <a href="/blog/neurodiversity">thinks in a different way</a>, they might use body language differently than you expect. And your skills might <a href="https://en.wikipedia.org/wiki/Dunning-Kruger_effect">not be quite as accurate as you think they are</a>.
+
+Let's say you're correct 95% of the time. That might sound pretty good. If you're telling jokes, and 95% of them are funny, you're pretty good joker. But if you're driving a car, and 95% of the time you don't run into anybody, you're a terrible driver and you shouldn't be on the road. Sexual things can be pretty high-stakes for people, so they're more like driving a car. You're <em>probably</em> right, but if you happen to be wrong, you could hurt someone a lot. If you like someone, you shouldn't take big risks with their feelings when you could just ask them and make sure.
+
+<h2>"But..."</h2>
+
+There's sometimes a darker side to the "but it would kill the mood" idea. Maybe you're relying on someone to be "in the mood" so that they'll agree to something they normally wouldn't. Maybe you're worried that they won't agree to have sex with you if they take a step back and think about it. It's not good to approach things this way. If you try to stop them from thinking about whether they really want to do it, you're taking a big risk that you'll hurt them.
+
+If you're sitting there thinking "But that's me. I've done that", I'm not necessarily blaming you. We all do things that might hurt people. It's okay to admit that you didn't always do the right thing. The important thing is that you learn how you CAN avoid hurting people, then practice it.
+
+Consent doesn't make everything perfect, but it's an important safety measure, and it can help build intimacy and trust. If I can help people practice consent in a way that works for them, I can be satisfied with a job well done.
+''',
+},
 
 ]
 
@@ -166,6 +219,7 @@ I've been on a roll working on this. It's occupying my attention enough that I c
 "tags": [],
 "auto_paragraphs": True,
 "don't deploy": True,
+"blurb": "",
 "contents":'''
 
 ''',
