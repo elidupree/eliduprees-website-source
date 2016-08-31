@@ -209,6 +209,33 @@ Consent doesn't make everything perfect, but it's an important safety measure, a
 ''',
 },
 
+{
+"title": '''Story idea: The "Big Data Killer"''',
+"tags": ["story ideas", "writing"],
+"auto_paragraphs": True,
+"blurb": "Our hero, an ace detective, gets called in to investigate a mysterious serial killer.",
+"contents":'''
+
+Our hero, an ace detective, gets called in to investigate a mysterious serial killer.
+
+Apparently, the "Big Data Killer" strikes completely at random, all across the country. The only thing the cases have in common is this: The killer leaves behind a notebook listing all the metadata of the victim's recent communications. The notebook says who the victim called on the phone, how long they talked, what websites they visited recently, what search terms they searched for, and so on. The killer must be someone with access to some sort of <a href="https://en.wikipedia.org/wiki/Big_data">big data</a> database. It creates a picture of a terrifying surveillance state, seemingly assassinating people at random.
+
+After many misadventures, our hero finally tracks the person down. But that's when the twist comes. The "killer" wasn't actually <em>killing</em> anyone at all. Ze was just a disillusioned <a href="https://en.wikipedia.org/wiki/Life_insurance">life insurance</a> executive. Zir company had used big data to accurately predict when its clients were going to attempt suicide, but didn't do anything about the suicides, because the insurance company didn't have to pay in the case of suicide. The "killer" had tried to work within the system to solve this, but failed. So ze decided to sabotage zir own company by altering scenes of suicide to make them <em>look</em> like murder!
+
+<h2>Discussion</h2>
+
+I think this gimmick is pretty funny. I'm not sure it justifies building a whole story around it, though. The message seems unnecessarily cynical. I don't think it's <em>bad</em> to be cynical about mass surveillance, but I'd rather write something that actually says what we can <em>do</em> about it.
+
+I also think there's something exploitative about this idea, and detective stories about serial killers in general. The story is <em>about</em> a tragedy &ndash; a series of deaths. But the <em>story</em> isn't a tragedy &ndash; it's a spectacle, a tale of intrigue. The main character is the detective, who usually has nothing in common with the people who are actually suffering. In this particular case, it seems like completely the wrong way to approach the issue of suicide, as well.
+
+I guess maybe you could make it work by making the <em>detective</em> have a personal relationship with suicide and surveillance as well.
+
+As it is, though, I can't really use this idea. But it does make a good example of 90% of my creative process: "Coming up with clever ideas, but discarding them because they aren't quite right."
+
+''',
+},
+
+
 ]
 
 """
