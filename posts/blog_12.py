@@ -239,7 +239,6 @@ As it is, though, I can't really use this idea. But it does make a good example 
 "title": "On Virtues",
 "tags": ["philosophical"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "blurb": "It is better to be a coward and avoid fighting than to be brave and commit murder.",
 "contents":'''
 It is better to be a coward and avoid fighting than to be brave and commit murder.

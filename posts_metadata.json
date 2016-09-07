@@ -455,7 +455,9 @@
  "On Virtues": {
   "date_modified": "2016-09-07",
   "date_posted": "2016-09-07",
-  "id": "5d7a8f2f8d67df557d89e6fcbfb518f"
+  "deployed": true,
+  "id": "5d7a8f2f8d67df557d89e6fcbfb518f",
+  "remembered_contents": "45711cf1da90234d1631e42b3b7b4a1a564a0de27d1e679b64360167575139035c9527d379eed38fbc8b515a29f59c4d"
  },
  "People Are Wrong Sometimes, page 1": {
   "date_modified": "2011-01-26",
