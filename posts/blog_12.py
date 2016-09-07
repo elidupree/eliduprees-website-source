@@ -210,7 +210,7 @@ Consent doesn't make everything perfect, but it's an important safety measure, a
 },
 
 {
-"title": '''Story idea: The "Big Data Killer"''',
+"title": '''Story idea: The “Big Data Killer”''',
 "tags": ["story ideas", "writing"],
 "auto_paragraphs": True,
 "blurb": "Our hero, an ace detective, gets called in to investigate a mysterious serial killer.",

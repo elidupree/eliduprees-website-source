@@ -660,7 +660,16 @@
  "Story idea: The \"Big Data Killer\"": {
   "date_modified": "2016-08-31",
   "date_posted": "2016-08-31",
-  "id": "85fa856856cd3191f14f2c64ae3df67"
+  "deployed": true,
+  "id": "85fa856856cd3191f14f2c64ae3df67",
+  "remembered_contents": "758c4bebfa918edbe8611fb586e93daaa2a7b23f8796e354c3d3b998f0fb18bcdb606b6fa5642a3cf83a27809388dc0c"
+ },
+ "Story idea: The <q>Big Data Killer</q>": {
+  "date_modified": "2016-08-31",
+  "date_posted": "2016-08-31",
+  "deployed": true,
+  "id": "2ee95bc73d8550b32710cb5d1609361",
+  "remembered_contents": "758c4bebfa918edbe8611fb586e93daaa2a7b23f8796e354c3d3b998f0fb18bcdb606b6fa5642a3cf83a27809388dc0c"
  },
  "Story idea: The Shell": {
   "date_modified": "2016-06-03",
@@ -687,6 +696,13 @@
   "deployed": true,
   "id": "e690c468852d0a6659163f7fd51e6a4f",
   "remembered_contents": "08d3e6676e0da21b41acd3101f66a0767a387f304334d4da02ec84d45a4a83c05384702e12fbdf293cac5ad3db9c0338"
+ },
+ "Story idea: The \u201cBig Data Killer\u201d": {
+  "date_modified": "2016-08-31",
+  "date_posted": "2016-08-31",
+  "deployed": true,
+  "id": "c7f13daf3f42c52443b11a07b4d0af5",
+  "remembered_contents": "758c4bebfa918edbe8611fb586e93daaa2a7b23f8796e354c3d3b998f0fb18bcdb606b6fa5642a3cf83a27809388dc0c"
  },
  "Story idea: the shell": {
   "date_modified": "2016-06-03",
