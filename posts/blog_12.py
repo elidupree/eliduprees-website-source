@@ -235,6 +235,48 @@ As it is, though, I can't really use this idea. But it does make a good example 
 ''',
 },
 
+{
+"title": "On Virtues",
+"tags": ["philosophical"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "It is better to be a coward and avoid fighting than to be brave and commit murder.",
+"contents":'''
+It is better to be a coward and avoid fighting than to be brave and commit murder.
+
+It is better to dishonorably betray a tyrant than to loyally serve one.
+
+It is better to lazily stay at home than to be a hard-working employee for a fossil fuel company.<footnote((If you can afford to, that is. Please don't take this as an excuse to judge working-class people. The choice to avoid starvation is likely the greater good, and even if it isn't, it's no use to judge someone in that position.))>
+
+It is better to selfishly hoard your money than to generously donate it to certain organizations.
+
+It is better to dishonestly hide the fact that you're hiding the refugees than to honestly admit to it.
+
+It is better to show disrespect for immoral authorities than to show respect for them.
+
+It is better to hypocritically help people than to stick to your principles and hurt them. 
+
+<p><strong>The only thing I call "virtuous" is to accomplish good.</strong> The other "virtues" are merely traits. Sometimes, they lead people to do good, but sometimes, they lead people to do evil. But the way people talk about them is much different. People tend to value "good" traits more than the actual amount of good or evil you do. They act like <a href="http://thebaffler.com/salvos/bullys-pulpit">being a coward is just as bad as being an abuser</a>.</p>
+
+So how should we talk about them instead? I've given a lot of thought to this:
+
+Some of these things are <strong>abilities</strong>. Bravery gives you the <strong>ability</strong> to face your fears, in the same way that knowing Chinese gives you the ability to read things that are written in Chinese, or that having a full bank account gives you the ability to buy a sandwich. Having these things is good in the <em>practical</em> sense of "good", just not in the moral sense of "good". It's okay to be proud of your abilities, and to admire other people who have great abilities. And of course it's good &ndash; in the practical sense &ndash; to develop your abilities further, if you can. The problem comes when we treat people worse for having <em>fewer</em> abilities, even though <a href="/blog/a-critique-and-defense-of-equality">it's probably better to give <em>more</em> help to people with fewer abilities</a>. And it can also be a problem to revere someone's abilities so much that you ignore the ways they are hurting other people. They are just material abilities. They have no inherent relationship to morality.
+
+Other "virtues" are merely <strong>habits</strong>. Some of them are generally good &ndash; if you have a habit of being nice to everyone, that's usually better than having a habit of being mean to everyone. But some of them are more of a trade-off. A hard-working person might get more work done, but a lazy person might find ways to get work done more <em>efficiently</em>. A person with the habit of loyalty might help zir friend through hard times, but ze might also help zir friend do something evil. If you know that you have a certain habit, it can be good to think "Is there any way this might end up causing problems? If so, can I change my habit in those situations? If I can't, can I avoid getting into those situations? On the other hand, if I I've been told it's a bad habit, is there any <em>good</em> this habit brings that I just haven't recognized yet? Might there be a good way to work with it, rather than just trying to suppress it?"
+
+<p>(One interesting note: the difference between an "ability" and a "habit" isn't always well-defined. More on this in another post, though.)</p>
+
+A lot of the "virtuous" habits have something in common: they involve self-sacrifice. Hard work is hard. Being loyal means you support someone even when you have to make sacrifices. Being honest to someone who can hurt you may be a sacrifice. Self-sacrifice isn't <em>bad</em>, but it isn't <em>good</em> unless you get something good out of it. People <a href="https://en.wikipedia.org/wiki/Just-world_fallacy">usually don't want to believe that suffering happens pointlessly</a>, so it can be more comfortable to believe that it is virtuous.
+
+I have a completely different perspective: almost all suffering <em>is</em> pointless. We should focus on preventing it, not justifying it. I find it much more comforting to think that my suffering was completely unnecessary and preventable.
+
+I've met a lot of people who make themselves suffer for the sake of others, but don't do it in a way that actually succeeds in helping others. If you're ever making yourself suffer, you should always take at least a moment to think: "What are my alternatives to doing this? If I stopped, what effect would it have on the other person? Are there other ways I could accomplish something similar without hurting myself as much? If I didn't spend these resources on this, what other good things could I do with them? Would the other person still want me to do this if they knew how much it was costing me?"
+
+Our culture's ideas about goodness don't always match what's actually good. It can be useful to learn from them, but we shouldn't rely on them to define our sense of morality.
+''',
+},
+
+
 
 ]
 
