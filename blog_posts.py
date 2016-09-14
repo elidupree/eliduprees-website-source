@@ -19,6 +19,7 @@ import posts.blog_09
 import posts.blog_10
 import posts.blog_11
 import posts.blog_12
+import posts.blog_13
 import posts.not_what_i_am
 import posts.time_travelers
 import posts.stories_01
@@ -41,6 +42,7 @@ blog_posts = flatten([
   posts.blog_10.posts,
   posts.blog_11.posts,
   posts.blog_12.posts,
+  posts.blog_13.posts,
 ])
 
 stories = flatten([
