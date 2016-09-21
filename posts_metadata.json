@@ -681,7 +681,9 @@
  "Story idea: The Power of Love": {
   "date_modified": "2016-09-14",
   "date_posted": "2016-09-14",
-  "id": "d3a312eb4b1929ae8d71fca5f501a37"
+  "deployed": true,
+  "id": "d3a312eb4b1929ae8d71fca5f501a37",
+  "remembered_contents": "0fbe250cd1cad940bcfe82c5a3443cf8609149b03d51b14f5e1808129d431584deac4a504b41e6b8f98f9eb2fc1b98fb"
  },
  "Story idea: The Shell": {
   "date_modified": "2016-06-03",
