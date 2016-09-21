@@ -38,6 +38,25 @@ If you're talking to someone, and they call this kind of thing "love", don't say
 
 """
 
+{
+"title": "On evil people
+"tags": ["philosophical"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+I don't really believe in the idea of "evil people". Everyone does some good actions and some evil actions. If we want to make the world a better place, we should take the people we have and figure out how to make their actions better, not try to pick out which people are evil.
+
+But for this post, I'm going to imagine that the idea of evil people is a useful, and see where it leads me.
+
+Specifically, let's assume:
+
+<ul> <li>
+''',
+},
+
+
+
 #A template for new posts, which I copy each time I start one.
 {
 "title": "
