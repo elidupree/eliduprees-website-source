@@ -82,6 +82,85 @@ I'm not sure there's a term like "atheist" or "agnostic" for my perspective here
 ''',
 },
 
+{
+"title": "Imagine a ball, but not what color it is.",
+"tags": ["neurodiversity"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "The first post in a series about my internal language.",
+"contents":'''
+
+(I've been thinking about writing a blog post about my internal language. However, that might be a bit too complex for just <em>one</em> post. So this post might be the first in a series.)
+
+Can you imagine a ball, without imagining a ball of the specific color?
+
+Can you imagine a handheld tool, like a hammer or a screwdriver, without imagining which one it is?
+
+Can you imagine a person, without imagining someone of a specific gender or race?
+
+For me, these things are not just <em>possible</em>, they are <em>automatic</em>. If you tell me "imagine a ball", I imagine the <em>idea</em> of ball-ness. Nothing else is specified. If you ask me, "what color is the ball you imagined?", that question doesn't make any sense. It's like if you asked me "what color is a crayon?". There are lots of different colors of crayons. I can't answer unless you ask something more specific.
+
+For a lot of people, if you asked them to think of a ball, they would automatically think of a <em>specific</em> ball. They would have to do extra work to imagine the idea of a ball without imagining a specific ball. Or they might not even be able to do that. For me, it's the other way around &ndash; I actually have to do extra work to imagine a <em>specific</em> ball, but imagining a generic ball is trivial.
+
+That's not my only trick, either. Watch this: I'm imagining one of the metal forks from my kitchen. And now I'm imagining that the fork still has <em>some number of pointy tines</em>, but not what specific <em>number</em> of tines it has. But here comes the good part: I'm separating the points from the tines. Now, on the right side of my mind, I have a metal fork with some number of tines, which don't end in any specific way. And on the left side of my mind, I have a row of points, which aren't made of a specific material, and aren't attached to anything.
+
+What?
+
+There's a couple of different things I need to explain <cut>here. Let's go!
+
+<h2>Translation</h2>
+
+Suppose you're thinking of an object, and you have to explain it to somebody else. To do that, you have to describe that object in words. I think of this as <em>translation</em>: you have to <em>translate</em> from thoughts to words. And then when the other person hears it, they have to translate your words into their own type of thoughts. If you're lucky, not too much information is lost in translation. But there's always <em>some</em> loss.
+
+If you look at a real object and then think about it, that works a similar way. You <em>translate</em> the real object into thoughts. It's also possible to translate thoughts into a real object, although it's harder, because you have to actually create the object.
+
+In all of these cases, some things can hardly be translated at all.
+
+<ul>
+<li>Words to thoughts: Try to translate "the if of about six tell" into meaningful thoughts, I dare you.</li>
+<li>Thoughts to words: If you have a feeling, and you don't already know a word for that feeling, you usually can't translate it into words.</li>
+<li>Objects to thoughts: If you see something completely unlike anything you understand, your thoughts won't be very good at describing what the thing is like.</li>
+<li>Thoughts to objects: Most thoughts don't represent objects. The idea of friendship, for instance.</li>
+</ul>
+
+When I see a fork, I can translate it into thoughts. If I could shape metal, I could translate it back into an object, with pretty good accuracy. But I could also rearrange the thoughts into something that translates differently.
+
+The individual words in "the if of about six tell" can normally have meaning, but I rearranged them into something that didn't mean anything. Similarly, I could take my idea of a fork, and rearrange it into a complete mess of curves, pointiness and metal. That's a form of mental gibberish, just like the English gibberish that I wrote earlier. By rearranging the ideas into a meaningless form, I deliberately made it impossible to translate into other forms. I can't make a real object that fits the "gibberish fork" description. I can't even write an English explanation that would let other people imagine the same "gibberish fork" that I'm imagining.
+
+Do people usually have thoughts that are possible to translate into words? Or are most of their thoughts untranslatable? I suspect it's the latter. Most of my own thoughts don't have any obvious translation into English. The unusual thing about me is not that I <em>have</em> so many untranslatable thoughts &ndash; the unusual thing is that I <em>understand</em> my untranslatable thoughts well enough to say that.
+
+It's fun to make up gibberish, just to see what it feels like. But there's lots of other interesting things to do, too. When I took the points off the fork, I created a new idea that <em>does</em> have some form of meaning &ndash; just an unusual one. And that brings us to...
+
+<h2>Instantiation</h2>
+
+Suppose I asked you to translate the phrase "a chair" into an object. In order to make a chair, you have to make a specific <em>type</em> of chair. Later, I can show your chair to someone else and ask them to translate it into English. But there will <em>never</em> be a guarantee that they translate it as "a chair". If you made the chair out of wood, for instance, they might translate it as "a wooden chair". By making the chair, you were forced to <em>add new information</em> that wasn't in the original phrase.
+
+I call this <strong>instantiation</strong>. "Chair" is a <strong>category</strong>. A specific chair is a <strong>instance</strong> of that category. When you start with a category and choose an instance, you've <strong>instantiated</strong> the category. When you start with an object and choose a category that describes it, you've <strong>categorized</strong> the object.
+
+Generally, instantiation adds information and categorization removes information. That's not completely true, though. Think about how someone could also translate the wooden chair as "a piece of wooden furniture". When you created the chair, you <em>added</em> the information of what kind of chair it was, but you <em>removed</em> another piece of information: the fact that the chair-ness was the important part. And there are many different layers of categories: "chair" is more specific than "furniture" is more specific than "tool" is more specific than "object".
+
+<strong>All translation involves a lot of categorization and instantiation.</strong> Imagine that you're trying to explain the idea of "furniture", but in a language doesn't have a word for "furniture". You could do it by categorizing: "Big household objects that are used for holding your body or your possessions." Or you could do it by instantiating: "Things like chairs, tables, and beds." Usually, the best way is a combination of the two.
+
+Compared with normal English, my own thoughts are much closer to the "category" end of the scale. When I translate from English to my own thoughts, I use a lot of categorization and only a little instantiation. So when I have to translate from my own thoughts back to English, I mostly have to instantiate them. It's <em>possible</em> to write in English at my normal level of categorization, but not generally a good idea. Imagine if I had written this post like this:
+
+<blockquote>
+Can you imagine an object of some specific type, without imagining the object having any attributes other than being an object of that type?
+
+For me, that's not just <em>possible</em>, it's <em>automatic</em>. If you tell me to imagine an object, I imagine the <em>idea</em> of that type of object. Nothing else is specified. If you ask me about a specific attribute of the object I imagined, that question doesn't make any sense.
+</blockquote>
+
+That looks worse even to me. English just isn't suitable for this kind of thing. In English, it's much better to explain things by example.
+
+Back to the fork example: When I took the points off the fork, that was something like categorization. I started with a fully detailed fork, and separated out just the <em>idea</em> of a row of points. You could call this a "phrase" in my internal language. It translates pretty well to English: "row of points".
+
+But now I can break it down more. I can separate the row of points into just the <em>idea</em> of pointiness, and the <em>idea</em> of a row of something. And those two ideas can't be broken down further. So you could say they are two  of the the <strong>words</strong> of my internal language.
+
+In the next post in this series, I think I'll talk about what my words are made of, and how they can be put together.
+
+''',
+},
+
+
 
 ]
 
