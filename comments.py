@@ -1360,7 +1360,20 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
   "id":"eae13f070dd6c8ce821ee95a97d47662",
   "date_posted":datetime.date(2016, 8, 17)
 },
-
+{
+  "parent":"23cc0640b5ab20968997a4838cc97b",
+  "username":"momothefiddler",
+  "contents":"""It's interesting to me that, even in this disambiguation page, you're still largely referring to absolute, singular deities. Do you have thoughts on the type outside that exemplified by abrahamic religions? There also seems to be a border somewhere between animism and pantheism and your Transcendent that I don't really have hammered down, as well as the (as far as I can tell common) situation where people seem to be somewhere between the canon of their religion and the Transcendent? Perhaps that's just a situation where I'm not understanding them and their beliefs about brains make it hard for them to explain to me.<br><br>Guess that got a little rambly, sorry. Feel free to ignore some or all of it. I'm not the most coherent right now, but I'm still interested in your opinions.""",
+  "id":"56cb24a64e7fc3b2e55fc245d7a58332",
+  "date_posted":datetime.date(2016, 9, 21)
+},
+{
+  "parent":"23cc0640b5ab20968997a4838cc97b",
+  "username":"Adia",
+  "contents":"""Thanks for posting this. I had a recent encounter with some devout religious folks, and found their actions confusing. """,
+  "id":"c34df8d242e0dd6fad43dc82482915d2",
+  "date_posted":datetime.date(2016, 9, 22)
+},
 
 
 ]

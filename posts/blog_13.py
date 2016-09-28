@@ -76,7 +76,7 @@ But <strong>here's the important part:</strong> if someone says, "the sky is bea
 
 The Transcendent is similar. People have a lot of feelings, and they want to express them. Sometimes, "God" or "Divine" is the best word the people find to express them. That's not wrong.
 
-Sometimes, when people talk to me about the Transcendent, they act as if <em>everyone</em> must have these feelings. This frustrates me, because I don't have those feelings myself. It's obvious to me that their beliefs are incorrect. But they don't necessarily have incorrect beliefs about <strong>gods</strong>. They might just have <a href="/blog/neurodiversity">incorrect beliefs about <strong>brains</strong></a>.
+Sometimes, when people talk to me about the Transcendent, they act as if <em>everyone</em> must have these feelings. This frustrates me, because I don't have those feelings myself. It's obvious to me that at least one of their beliefs is incorrect. But they don't necessarily have incorrect beliefs about <strong>gods</strong>. They might just have <a href="/blog/neurodiversity">incorrect beliefs about <strong>brains</strong></a>.
 
 I'm not sure there's a term like "atheist" or "agnostic" for my perspective here. It has some things in common with <a href="https://en.wikipedia.org/wiki/Theological_noncognitivism">theological noncognitivism</a> &ndash; I think that descriptions of the Transcendent do not describe anything that <em>can</em> exist in a literal sense. But the difference is that my response is not, "ha ha, people who describe the Transcendent are thinking wrong!", but instead, "if they're not describing a literal existence, let me figure out what they <em>are</em> trying to express."
 ''',

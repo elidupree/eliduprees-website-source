@@ -268,7 +268,9 @@
  "Gods and atheism": {
   "date_modified": "2016-09-21",
   "date_posted": "2016-09-21",
-  "id": "23cc0640b5ab20968997a4838cc97b"
+  "deployed": true,
+  "id": "23cc0640b5ab20968997a4838cc97b",
+  "remembered_contents": "13728e2f95f33ca87357955974f61bd95cf294f41d2f502415edae83e89e7602e5f362cb4dce970abea42e1ebac95894"
  },
  "Happy Tau Day!": {
   "date_modified": "2011-06-28",
