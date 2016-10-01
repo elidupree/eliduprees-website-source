@@ -8,6 +8,7 @@ import blog
 import pac_asteroids
 import hexy
 import green_caves
+import the_path
 
 
 import html_pages
@@ -295,6 +296,7 @@ def add_game_pages(page_dict):
   pac_asteroids.add_game (page_dict)
   hexy.add_game (page_dict)
   green_caves.add_game (page_dict)
+  the_path.add_game (page_dict)
   
   import voice_practice_tool
   voice_practice_tool.add_page (page_dict)
