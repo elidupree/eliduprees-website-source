@@ -25,6 +25,17 @@ var canvas_element = $("<canvas>").addClass ("game_canvas")
 game_element.append (canvas_element);
 var canvas_context = canvas_element[0].getContext ("2d");
 
+var game_height = game_element.height();
+var game_width = game_element.width();
+function linear_height (height) {
+  return game_element.height() - height;
+}
+function cylindrical_height (height) {
+  
+  return game_height - Math.sin (height*(Math.PI/2)/game_height)*game_height/(Math.PI/2);
+}
+var perspective_height = cylindrical_height
+
 var paths = [{info: {max_speed: 1}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]}];
 function tick() {
   requestAnimationFrame (tick);
@@ -72,23 +83,34 @@ function tick() {
     //}
     var width = game_element.width();
     var height = game_element.height();
+    game_height = height ;
+    game_width = width;
+    var component_width = width*0.1; // * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/600)));
     canvas_element.attr ("width", width).attr ("height", height);
     canvas_context.fillStyle = "rgb(0,0,0)";
     canvas_context.fillRect (0, 0, width, height);
     canvas_context.fillStyle = "rgb(255, 255, 255)";
+    canvas_context.beginPath();
+    var began = false;
+    var center_X = function (component) {return width*(component.position - deleted.position + 0.5);};
     path.data.forEach (function(current, index) {
-      var component_width = width*0.1;// * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/600)));
+     
       //current.element.css ("bottom", index).css ("left", game_element.width()*(current.position - deleted.position +0.45));
-      //console.log (current.position - deleted.position + 0.45);      console.log (width*(current.position - deleted.position + 0.45));
       
-      // linear scale:
-      // var component_height = height - index
+      if (began) {
+        canvas_context.lineTo(center_X (current) -component_width/2, perspective_height (index));
+      }
+      else {
+        canvas_context.moveTo(center_X (current) -component_width/2, perspective_height (index));
+        began = true;
+      }
       
-      // cylindrical scale:
-      var component_height = height - Math.sin (index*(Math.PI/2)/height)*height/(Math.PI/2);
-      
-      canvas_context.fillRect (width*(current.position - deleted.position + 0.5) -component_width/2, component_height, component_width, 1);
     });
+    for (var index = path.data.length - 1; index >= 0; index -= 1){
+      var current = path.data [index];
+      canvas_context.lineTo(center_X (current) +component_width/2, perspective_height (index));
+    }
+    canvas_context.fill();
   });
 }
 tick();
