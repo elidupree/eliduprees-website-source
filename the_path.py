@@ -80,7 +80,14 @@ function tick() {
       var component_width = width*0.1;// * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/600)));
       //current.element.css ("bottom", index).css ("left", game_element.width()*(current.position - deleted.position +0.45));
       //console.log (current.position - deleted.position + 0.45);      console.log (width*(current.position - deleted.position + 0.45));
-      canvas_context.fillRect (width*(current.position - deleted.position + 0.5) -component_width/2, height - index, component_width, 1);
+      
+      // linear scale:
+      // var component_height = height - index
+      
+      // cylindrical scale:
+      var component_height = height - Math.sin (index*(Math.PI/2)/height)*height/(Math.PI/2);
+      
+      canvas_context.fillRect (width*(current.position - deleted.position + 0.5) -component_width/2, component_height, component_width, 1);
     });
   });
 }
@@ -94,7 +101,7 @@ tick();
       
       <div id="game"></div>
 
-    '''+ blog.comments_section ("the_path") +''' </div>
+    '''+ blog.comments_section ("the_path") +'''
   </div>
 </main>'''), {
   "jQuery_before": True,
