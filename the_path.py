@@ -36,10 +36,24 @@ function cylindrical_height (height) {
 }
 var perspective_height = cylindrical_height
 
+var player = {position: 0};
 var paths = [{info: {max_speed: 1}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]}];
+
+var mouse_X = 0;
+var mouse_Y = 0;
+game_element.mousemove (function (event) {
+  var offset = game_element.offset();
+  mouse_X = event.pageX - offset.left;
+  mouse_Y = event.pageY - offset.top;
+});
+
 function tick() {
   requestAnimationFrame (tick);
   
+  var width = game_element.width();
+  var height = game_element.height();
+  game_height = height ;
+  game_width = width;
   paths.forEach (function(path) {
     while (path.data.length <600) {
       var previous = path.data [path.data.length - 1];
@@ -81,37 +95,58 @@ function tick() {
       deleted = path.data.shift();
       //deleted.element.detach();
     //}
-    var width = game_element.width();
-    var height = game_element.height();
-    game_height = height ;
-    game_width = width;
-    var component_width = width*0.1; // * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/600)));
+    
+    // you can't get TOO far away from the paths.
+    // TODO: possibly better symbolism and gameplay if the paths stay near YOU instead
+    if (player.position - deleted.position > 0.5) {
+      player.position -= (player.position - deleted.position - 0.5)*3/600/paths.length;
+    }
+    if (player.position - deleted.position < -0.5) {
+      player.position -= (player.position - deleted.position + 0.5)*3/600/paths.length;
+    }
+    
+    var component_width = function (index) {
+      return width*0.15*(height - index)/height; // * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/600)));
+    };
     canvas_element.attr ("width", width).attr ("height", height);
     canvas_context.fillStyle = "rgb(0,0,0)";
     canvas_context.fillRect (0, 0, width, height);
     canvas_context.fillStyle = "rgb(255, 255, 255)";
     canvas_context.beginPath();
     var began = false;
-    var center_X = function (component) {return width*(component.position - deleted.position + 0.5);};
+    var center_X = function (component, index) {return width*((component.position - player.position)*(height - index)/height + 0.5);};
     path.data.forEach (function(current, index) {
      
       //current.element.css ("bottom", index).css ("left", game_element.width()*(current.position - deleted.position +0.45));
       
       if (began) {
-        canvas_context.lineTo(center_X (current) -component_width/2, perspective_height (index));
+        canvas_context.lineTo(center_X (current, index) -component_width (index)/2, perspective_height (index));
       }
       else {
-        canvas_context.moveTo(center_X (current) -component_width/2, perspective_height (index));
+        canvas_context.moveTo(center_X (current, index) -component_width (index)/2, perspective_height (index));
         began = true;
       }
       
     });
     for (var index = path.data.length - 1; index >= 0; index -= 1){
       var current = path.data [index];
-      canvas_context.lineTo(center_X (current) +component_width/2, perspective_height (index));
+      canvas_context.lineTo(center_X (current, index) +component_width (index)/2, perspective_height (index));
     }
     canvas_context.fill();
   });
+  
+  var player_velocity = Math.max (-1, Math.min (1, ((mouse_X/width) - 0.5)*10));
+  player.position += player_velocity/600;
+  
+  canvas_context.beginPath();
+  canvas_context.moveTo(width*0.47, height - 20);
+  canvas_context.lineTo(width*0.53, height - 20);
+  canvas_context.lineTo(width*0.5, height - 80);
+  canvas_context.closePath();
+  canvas_context.fill();
+  canvas_context.strokeStyle = "rgb(0,0,0)";
+  canvas_context.stroke();
+  
 }
 tick();
 
