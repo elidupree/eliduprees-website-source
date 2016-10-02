@@ -69,6 +69,29 @@ game_element.mousemove (function (event) {
   mouse_Y = event.pageY - offset.top;
 });
 
+function speech_bubble (text, direction) {
+  var text_height = Math.min (22, game_width/32);
+
+  canvas_context.font = text_height +"px Arial, Helvetica, sans-serif";
+  canvas_context.textBaseline = "middle";
+  var text_width = canvas_context.measureText (text).width;
+  var padding = Math.max (9, text_width/13);
+  var text_middle = -16-padding - text_height/2;
+  var text_top = text_middle-text_height/2;
+  var text_bottom = text_middle+text_height/2;
+  canvas_context.beginPath();
+  canvas_context.moveTo (0,0);
+  canvas_context.quadraticCurveTo (17,-5,17, text_bottom + padding);
+  canvas_context.quadraticCurveTo (-padding, text_bottom + padding,-padding, text_middle);
+  canvas_context.quadraticCurveTo (-padding,text_top - padding, text_width/2, text_top - padding);
+  canvas_context.quadraticCurveTo (text_width+padding, text_top - padding, text_width + padding, text_middle);
+  canvas_context.quadraticCurveTo (text_width+padding, text_bottom + padding, 30, text_bottom + padding);
+  canvas_context.quadraticCurveTo (30,-5,0,0);
+  close_shape();
+  canvas_context.fillStyle = "rgb(0, 0, 0)";
+  canvas_context.fillText (text, 0, text_middle);
+}
+
 function generic_polygon (points) {
   canvas_context.beginPath();
   canvas_context.moveTo(points [0], points [1]);
@@ -112,6 +135,12 @@ function draw_person (person) {
   canvas_context.beginPath();
   canvas_context.arc (center, body_height - 1.7*radius, radius*0.7, 0, turn, true);
   close_shape();
+  
+  canvas_context.save();
+  canvas_context.translate(center + radius, body_height - 1.7*radius);
+  canvas_context.rotate (turn/17);
+  speech_bubble ("You have to stay on the path");
+  canvas_context.restore();
 }
 
 function tick() {
