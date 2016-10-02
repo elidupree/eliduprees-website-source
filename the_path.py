@@ -39,9 +39,21 @@ var player_max_speed = 0.1; // in screens per second
 
 var game_height;
 var game_width;
+function update_dimensions() {
+  var game_top = top_bar.offset().top + top_bar.height();
+  var game_bottom = $(window).height() - bottom_bar.height();
+  game_element.height (game_bottom - game_top);
+  var width = game_element.width();
+  var height = game_element.height();
+  game_height = height;
+  game_width = width;
+  canvas_element.attr ("width", width).attr ("height", height);
+}
+update_dimensions();
+
 var linear = {
   height: function (height) {
-    return game_element.height() *(1-height);
+    return game_height *(1-height);
   },
   scale: function (height) {
     return 1;
@@ -53,13 +65,23 @@ var cylindrical = {
   },
   scale: function (height) {
     return 1 - height;
-  }
+  },
+  horizon: function() {
+    return game_height - game_height/(Math.PI/2);
+  },
 }
 var perspective = cylindrical;
 
 var player = {position: 0, height: 0.05, size: 0.04, speech: []};
 var companion = {position: 0, height: 0.01, size: 0.05, speech: []};
 var paths = [{info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]}];
+var hills = [];
+var skies = [];
+
+for (var index = 0; index < 15; index++){
+  skies.push ({peak: Math.random(), height: Math.random(), steepness: Math.random()*0.1+0.1});
+}
+
 
 var mouse_X = 0;
 var mouse_Y = 0;
@@ -148,8 +170,9 @@ function draw_person (person) {
   canvas_context.arc (center, body_height - 1.7*radius, radius*0.7, 0, turn, true);
   close_shape();
   
-  person.speech.forEach (function(speech) {
+  person.speech.filter (function(speech) {
     speech.age += 1/frames_per_second;
+    if (speech.age >= 3.5) {return false;}
     var distortion = 0;
     if (speech.age < 0.25) {distortion = (0.25 - speech.age)*4;}
     if (speech.age > 3.25) {distortion = (3.25 - speech.age)*4;}
@@ -158,22 +181,54 @@ function draw_person (person) {
     canvas_context.rotate (distortion*turn/17);
     speech_bubble (speech.text, false, 1.0 - Math.abs (distortion));
     canvas_context.restore();
-  });
-  person.speech.filter (function (speech) {
-    return speech.age < 3.5;
+    return true;
   });
 }
 
 function tick() {
   requestAnimationFrame (tick);
   
-  var game_top = top_bar.offset().top + top_bar.height();
-  var game_bottom = $(window).height() - bottom_bar.height();
-  game_element.height (game_bottom - game_top);
-  var width = game_element.width();
-  var height = game_element.height();
-  game_height = height;
-  game_width = width;
+  update_dimensions();
+  var width = game_width;
+  var height = game_height;
+  
+  canvas_context.fillStyle = "rgb(0,0,0)";
+  canvas_context.fillRect (0, 0, width, height);
+  skies.forEach (function(sky) {
+    canvas_context.beginPath();
+    sky.peak += ((Math.random()*2) - 1)*0.05/frames_per_second;
+    sky.height += ((Math.random()*2) - 1)*0.05/frames_per_second;
+    sky.peak -= (sky.peak - 0.5)*0.006/frames_per_second;
+    sky.height -= (sky.height - 0.7)*0.003/frames_per_second;
+    var peak = sky.peak*width;
+    var sky_height = sky.height*perspective.horizon();
+    canvas_context.moveTo(peak - width, sky_height + height*sky.steepness);
+    canvas_context.bezierCurveTo(
+      peak - width*0.6,
+      sky_height + height*sky.steepness,
+      peak - width*0.4,
+      sky_height,
+      peak,
+      sky_height
+    );
+    canvas_context.bezierCurveTo(
+      peak + width*0.4,
+      sky_height,
+      peak + width*0.6,
+      sky_height + height*sky.steepness,
+      peak + width,
+      sky_height + height*sky.steepness
+    );
+    var limit = Math.max (sky_height + height*sky.steepness, perspective.horizon());
+    canvas_context.lineTo (width, limit);
+    canvas_context.lineTo (0, limit);
+    canvas_context.fillStyle = "rgba(255, 255, 255, 0.05)";
+    canvas_context.fill();
+  });
+  
+  canvas_context.fillStyle = "rgb(0,0,0)";
+  canvas_context.fillRect (0, perspective.horizon(), width, height - perspective.horizon());
+      
   paths.forEach (function(path) {
     while (path.data.length <visible_path_components) {
       var previous = path.data [path.data.length - 1];
@@ -239,9 +294,7 @@ function tick() {
     var component_width = function (index) {
       return width*0.15*perspective.scale (index/visible_path_components); // * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/visible_path_components)));
     };
-    canvas_element.attr ("width", width).attr ("height", height);
-    canvas_context.fillStyle = "rgb(0,0,0)";
-    canvas_context.fillRect (0, 0, width, height);
+    
     canvas_context.fillStyle = "rgb(255, 255, 255)";
     canvas_context.beginPath();
     var began = false;
