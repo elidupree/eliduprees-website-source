@@ -72,9 +72,15 @@ var cylindrical = {
 }
 var perspective = cylindrical;
 
+var default_path = {info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]};
 var player = {position: 0, height: 0.05, size: 0.04, speech: []};
-var companion = {position: 0, height: 0.01, size: 0.05, speech: []};
-var paths = [{info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]}];
+var companion = {position: 0, height: 0.01, size: 0.05, speech: [], path: default_path,
+pronouncements: [
+  {text: "Don't stray from the path", delay_from_same: 100, delay_from_any: 5, automatically_at_distance: [0.9,1.1]},
+  {text: "It's dangerous out there", delay_from_same: 100, delay_from_any: 5, automatically_at_distance: [2,1000]}
+  
+]};
+var paths = [default_path];
 var hills = [];
 var skies = [];
 
@@ -215,12 +221,22 @@ function draw_person (person) {
   });
 }
 
+function closest_component (path, height) {
+  return path.data [Math.floor (height/visible_path_components)];
+}
+var path_radius = 0.075;
+function normalized_distance_from (path, person) {
+  return Math.abs (person.position - closest_component (path, person.height).position)/path_radius;
+}
+
+var start = Date.now();
 function tick() {
   requestAnimationFrame (tick);
   
   update_dimensions();
   var width = game_width;
   var height = game_height;
+  var time = (Date.now() - start)/1000;
   
   canvas_context.fillStyle = "rgb(0,0,0)";
   canvas_context.fillRect (0, 0, width, height);
@@ -312,7 +328,7 @@ function tick() {
       deleted = path.data.shift();
       //deleted.element.detach();
     }
-    companion.position = path.data [0].position;
+    companion.position = closest_component (path, companion.height).position;
     
     // you can't get TOO far away from the paths.
     // TODO: possibly better symbolism and gameplay if the paths stay near YOU instead
@@ -324,7 +340,7 @@ function tick() {
     //}
     
     var component_width = function (index) {
-      return width*0.15*perspective.scale (index/visible_path_components); // * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/visible_path_components)));
+      return width*path_radius*2*perspective.scale (index/visible_path_components); // * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/visible_path_components)));
     };
     
     canvas_context.fillStyle = "rgb(255, 255, 255)";
@@ -358,6 +374,19 @@ function tick() {
     text: "Ow, it hurts",
     age: 0,
   });}
+  
+  var distance = normalized_distance_from (companion.path, player);
+  companion.pronouncements.forEach (function (pronouncement) {
+    if (companion.last_pronouncement && companion.last_pronouncement + pronouncement.delay_from_any >time) {return;}
+    if (pronouncement.last_spoken && pronouncement.last_spoken + pronouncement.delay_from_same>time) {return;}
+    if (pronouncement.automatically_at_distance) {
+      if (pronouncement.automatically_at_distance [0] <= distance && pronouncement.automatically_at_distance [1] >= distance) {
+        companion.last_pronouncement = time;
+        pronouncement.last_spoken = time;
+        companion.speech.push ({text: pronouncement.text, age: 0});
+      }
+    }
+  });
   
   draw_person (player);
   draw_person (companion);
