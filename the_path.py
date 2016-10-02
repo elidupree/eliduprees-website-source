@@ -81,7 +81,37 @@ var skies = [];
 for (var index = 0; index < 15; index++){
   skies.push ({peak: Math.random(), height: Math.random(), steepness: Math.random()*0.1+0.1});
 }
-
+function hill_step(draw) {
+  var hill_scale = 30;
+  if (Math.random() < 1.6/frames_per_second) {
+    var hill = {position: player.position + (Math.random ()*2 - 1)*70, height: Math.random()*0.1 + 0.1, radius: Math.random()*0.2 + 0.2, age: 0};
+    if ((hill.position-player.position)/hill_scale+ hill.radius <0 || (hill.position-player.position)/hill_scale - hill.radius >0) {
+      hills.push (hill);
+    }
+  }
+  
+  hills.filter (function (hill) {
+    hill.age += 1/frames_per_second;
+    if (draw) {
+      var peak_height = perspective.horizon() - (hill.height * Math.sin ((hill.age/50)*turn/4))*game_height;
+      var base_height = peak_height + hill.height*game_height;
+      var center = game_width*((hill.position - player.position)/hill_scale + 0.5);
+      var radius = game_width*hill.radius;
+      
+      canvas_context.beginPath();
+      canvas_context.moveTo(center - radius, base_height);
+      canvas_context.lineTo (center, peak_height);
+      canvas_context.lineTo (center + radius, base_height);
+      canvas_context.fillStyle = "rgb(0, 0, 0)";
+      canvas_context.fill();
+    }
+    
+    return hill.age < 100;
+  });
+}
+for (var index = 0; index < 200*frames_per_second; index++){
+  hill_step (false);
+}
 
 var mouse_X = 0;
 var mouse_Y = 0;
@@ -198,8 +228,8 @@ function tick() {
     canvas_context.beginPath();
     sky.peak += ((Math.random()*2) - 1)*0.05/frames_per_second;
     sky.height += ((Math.random()*2) - 1)*0.05/frames_per_second;
-    sky.peak -= (sky.peak - 0.5)*0.006/frames_per_second;
-    sky.height -= (sky.height - 0.7)*0.003/frames_per_second;
+    sky.peak -= (sky.peak - 0.5)*0.0006/frames_per_second;
+    sky.height -= (sky.height - 0.7)*0.0003/frames_per_second;
     var peak = sky.peak*width;
     var sky_height = sky.height*perspective.horizon();
     canvas_context.moveTo(peak - width, sky_height + height*sky.steepness);
@@ -222,13 +252,15 @@ function tick() {
     var limit = Math.max (sky_height + height*sky.steepness, perspective.horizon());
     canvas_context.lineTo (width, limit);
     canvas_context.lineTo (0, limit);
-    canvas_context.fillStyle = "rgba(255, 255, 255, 0.05)";
+    canvas_context.fillStyle = "rgba(255, 255, 255, 0.04)";
     canvas_context.fill();
   });
   
   canvas_context.fillStyle = "rgb(0,0,0)";
   canvas_context.fillRect (0, perspective.horizon(), width, height - perspective.horizon());
-      
+  
+  hill_step (true);
+        
   paths.forEach (function(path) {
     while (path.data.length <visible_path_components) {
       var previous = path.data [path.data.length - 1];
