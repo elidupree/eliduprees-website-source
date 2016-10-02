@@ -57,8 +57,8 @@ var cylindrical = {
 }
 var perspective = cylindrical;
 
-var player = {position: 0, height: 0.05, size: 0.04};
-var companion = {position: 0, height: 0.01, size: 0.05};
+var player = {position: 0, height: 0.05, size: 0.04, speech: []};
+var companion = {position: 0, height: 0.01, size: 0.05, speech: []};
 var paths = [{info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]}];
 
 var mouse_X = 0;
@@ -77,7 +77,7 @@ function speech_bubble (text, direction, alpha) {
   canvas_context.font = text_height +"px Arial, Helvetica, sans-serif";
   canvas_context.textBaseline = "middle";
   var text_width = canvas_context.measureText (text).width;
-  var padding = Math.max (9, text_width/13);
+  var padding = Math.max (text_height/2, text_width/13);
   var text_middle = -16-padding - text_height/2;
   var text_top = text_middle-text_height/2;
   var text_bottom = text_middle+text_height/2;
@@ -148,11 +148,20 @@ function draw_person (person) {
   canvas_context.arc (center, body_height - 1.7*radius, radius*0.7, 0, turn, true);
   close_shape();
   
-  canvas_context.save();
-  canvas_context.translate(center + radius, body_height - 1.7*radius);
-  canvas_context.rotate (turn/17);
-  speech_bubble ("You have to stay on the path", true, 0.5);
-  canvas_context.restore();
+  person.speech.forEach (function(speech) {
+    speech.age += 1/frames_per_second;
+    var distortion = 0;
+    if (speech.age < 0.25) {distortion = (0.25 - speech.age)*4;}
+    if (speech.age > 3.25) {distortion = (3.25 - speech.age)*4;}
+    canvas_context.save();
+    canvas_context.translate(center + radius, body_height - 1.7*radius);
+    canvas_context.rotate (distortion*turn/17);
+    speech_bubble (speech.text, false, 1.0 - Math.abs (distortion));
+    canvas_context.restore();
+  });
+  person.speech.filter (function (speech) {
+    return speech.age < 3.5;
+  });
 }
 
 function tick() {
@@ -259,6 +268,11 @@ function tick() {
   
   var player_velocity_request = Math.max (-1, Math.min (1, ((mouse_X/width) - 0.5)*10));
   player.position += player_velocity_request*player_max_speed/frames_per_second;
+  
+  if (Math.random() <0.003) {player.speech.push ({
+    text: "Ow, it hurts",
+    age: 0,
+  });}
   
   draw_person (player);
   draw_person (companion);
