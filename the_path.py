@@ -69,7 +69,9 @@ game_element.mousemove (function (event) {
   mouse_Y = event.pageY - offset.top;
 });
 
-function speech_bubble (text, direction) {
+function speech_bubble (text, direction, alpha) {
+  canvas_context.save();
+  if (direction) {canvas_context.scale (-1, 1);}
   var text_height = Math.min (22, game_width/32);
 
   canvas_context.font = text_height +"px Arial, Helvetica, sans-serif";
@@ -87,9 +89,19 @@ function speech_bubble (text, direction) {
   canvas_context.quadraticCurveTo (text_width+padding, text_top - padding, text_width + padding, text_middle);
   canvas_context.quadraticCurveTo (text_width+padding, text_bottom + padding, 30, text_bottom + padding);
   canvas_context.quadraticCurveTo (30,-5,0,0);
-  close_shape();
-  canvas_context.fillStyle = "rgb(0, 0, 0)";
+  canvas_context.closePath();
+  canvas_context.fillStyle = "rgba(255, 255, 255,"+ alpha +")";
+  canvas_context.fill();
+  canvas_context.strokeStyle = "rgba(0,0,0,"+ alpha +")";
+  canvas_context.stroke();
+  canvas_context.fillStyle = "rgba(0, 0, 0,"+ alpha +")";
+  
+  if (direction) {
+    canvas_context.scale (-1, 1);
+    canvas_context.translate (-text_width, 0);
+  }
   canvas_context.fillText (text, 0, text_middle);
+  canvas_context.restore();
 }
 
 function generic_polygon (points) {
@@ -139,7 +151,7 @@ function draw_person (person) {
   canvas_context.save();
   canvas_context.translate(center + radius, body_height - 1.7*radius);
   canvas_context.rotate (turn/17);
-  speech_bubble ("You have to stay on the path");
+  speech_bubble ("You have to stay on the path", true, 0.5);
   canvas_context.restore();
 }
 
