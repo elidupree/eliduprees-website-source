@@ -156,7 +156,7 @@ function tick() {
   canvas_context.beginPath();
   canvas_context.moveTo(width*0.47, height - 20);
   canvas_context.lineTo(width*0.53, height - 20);
-  canvas_context.lineTo(width*0.5, height - 80);
+  canvas_context.lineTo(width*0.5, height - width*0.06);
   canvas_context.closePath();
   canvas_context.fill();
   canvas_context.strokeStyle = "rgb(0,0,0)";
