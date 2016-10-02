@@ -78,6 +78,14 @@ function tick() {
       
       var default_change_radius = max_speed*2.16/path_components_per_second;
       var bias = -previous.velocity*0.36/path_components_per_second;
+      // the path secretly follows the player if the player moves too far away,
+      // for both gameplay and symbolism reasons
+      if (player.position - previous.position > 0.7) {
+        bias += (player.position - previous.position - 0.7)*0.04/path_components_per_second;
+      }
+      if (player.position - previous.position < -0.7) {
+        bias += (player.position - previous.position + 0.7)*0.04/path_components_per_second;
+      }
       var max_acceleration = Math.min (previous.acceleration + default_change_radius + bias, (max_speed - previous.velocity)*20);
       var min_acceleration = Math.max (previous.acceleration - default_change_radius + bias, (-max_speed - previous.velocity)*20);
       current.acceleration = min_acceleration +Math.random()*(max_acceleration - min_acceleration);
@@ -113,12 +121,12 @@ function tick() {
     
     // you can't get TOO far away from the paths.
     // TODO: possibly better symbolism and gameplay if the paths stay near YOU instead
-    if (player.position - deleted.position > 0.5) {
-      player.position -= (player.position - deleted.position - 0.5)*3/600/paths.length;
-    }
-    if (player.position - deleted.position < -0.5) {
-      player.position -= (player.position - deleted.position + 0.5)*3/600/paths.length;
-    }
+    //if (player.position - deleted.position > 0.5) {
+    //  player.position -= (player.position - deleted.position - 0.5)*3/600/paths.length;
+    //}
+    //if (player.position - deleted.position < -0.5) {
+    //  player.position -= (player.position - deleted.position + 0.5)*3/600/paths.length;
+    //}
     
     var component_width = function (index) {
       return width*0.15*(visible_path_components - index)/visible_path_components; // * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/visible_path_components)));
