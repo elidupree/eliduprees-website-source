@@ -19,6 +19,7 @@ html,body {background-color: black;}
 $(function() {
 "use strict";
 
+var turn = Math.PI*2;
 var game_element = $("#game");
 var top_bar = $(".top_bar");
 var bottom_bar = $(".bottom_bar");
@@ -38,15 +39,26 @@ var player_max_speed = 0.1; // in screens per second
 
 var game_height;
 var game_width;
-function linear_height (component_index) {
-  return game_element.height() *(1-component_index/visible_path_components);
+var linear = {
+  height: function (height) {
+    return game_element.height() *(1-height);
+  },
+  scale: function (height) {
+    return 1;
+  }
 }
-function cylindrical_height (component_index) {
-  return game_height - Math.sin (component_index/visible_path_components*(Math.PI/2))*game_height/(Math.PI/2);
+var cylindrical = {
+  height: function (height) {
+    return game_height - Math.sin (height*(Math.PI/2))*game_height/(Math.PI/2);
+  },
+  scale: function (height) {
+    return 1 - height;
+  }
 }
-var perspective_height = cylindrical_height;
+var perspective = cylindrical;
 
-var player = {position: 0};
+var player = {position: 0, height: 0.05, size: 0.04};
+var companion = {position: 0, height: 0.01, size: 0.05};
 var paths = [{info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]}];
 
 var mouse_X = 0;
@@ -56,6 +68,51 @@ game_element.mousemove (function (event) {
   mouse_X = event.pageX - offset.left;
   mouse_Y = event.pageY - offset.top;
 });
+
+function generic_polygon (points) {
+  canvas_context.beginPath();
+  canvas_context.moveTo(points [0], points [1]);
+  for (var index = 2; index <points.length; index += 2){
+    canvas_context.lineTo(points [index], points [index + 1]);
+  }
+  close_shape();
+}
+
+function close_shape () {
+  canvas_context.closePath();
+  canvas_context.fillStyle = "rgb(255, 255, 255)";
+  canvas_context.fill();
+  canvas_context.strokeStyle = "rgb(0,0,0)";
+  canvas_context.stroke();
+}
+
+
+function draw_person (person) {
+  var center = game_width*((person.position - player.position)*perspective.scale (person.height) + 0.5);
+  var radius = game_width*person.size/2*perspective.scale (person.height);
+  var height = perspective.height (person.height);
+  var body_height = height - radius*2/3;
+  var leg_height = height - radius;
+  var offset = Math.sin (Date.now()*turn/900)*radius/4;
+  generic_polygon ([
+    center - radius/8, leg_height - offset,
+    center - radius*2/3, leg_height - offset,
+    center - radius*11/24, leg_height - offset + radius
+  ]);
+  generic_polygon ([
+    center + radius/8, leg_height + offset,
+    center + radius*2/3, leg_height + offset,
+    center + radius*11/24, leg_height + offset + radius
+  ]);
+  generic_polygon ([
+    center - radius, body_height,
+    center + radius, body_height,
+    center, body_height - 2*radius
+  ]);
+  canvas_context.beginPath();
+  canvas_context.arc (center, body_height - 1.7*radius, radius*0.7, 0, turn, true);
+  close_shape();
+}
 
 function tick() {
   requestAnimationFrame (tick);
@@ -118,6 +175,7 @@ function tick() {
       deleted = path.data.shift();
       //deleted.element.detach();
     }
+    companion.position = path.data [0].position;
     
     // you can't get TOO far away from the paths.
     // TODO: possibly better symbolism and gameplay if the paths stay near YOU instead
@@ -129,7 +187,7 @@ function tick() {
     //}
     
     var component_width = function (index) {
-      return width*0.15*(visible_path_components - index)/visible_path_components; // * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/visible_path_components)));
+      return width*0.15*perspective.scale (index/visible_path_components); // * Math.sqrt ((1 + Math.abs (current.velocity)*width/(height/visible_path_components)));
     };
     canvas_element.attr ("width", width).attr ("height", height);
     canvas_context.fillStyle = "rgb(0,0,0)";
@@ -137,23 +195,23 @@ function tick() {
     canvas_context.fillStyle = "rgb(255, 255, 255)";
     canvas_context.beginPath();
     var began = false;
-    var center_X = function (component, index) {return width*((component.position - player.position)*(visible_path_components - index)/visible_path_components+ 0.5);};
+    var center_X = function (component, index) {return width*((component.position - player.position)*perspective.scale (index/visible_path_components)+ 0.5);};
     path.data.forEach (function(current, index) {
      
       //current.element.css ("bottom", index).css ("left", game_element.width()*(current.position - deleted.position +0.45));
       
       if (began) {
-        canvas_context.lineTo(center_X (current, index) -component_width (index)/2, perspective_height (index));
+        canvas_context.lineTo(center_X (current, index) -component_width (index)/2, perspective.height (index/visible_path_components));
       }
       else {
-        canvas_context.moveTo(center_X (current, index) -component_width (index)/2, perspective_height (index));
+        canvas_context.moveTo(center_X (current, index) -component_width (index)/2, perspective.height (index/visible_path_components));
         began = true;
       }
       
     });
     for (var index = path.data.length - 1; index >= 0; index -= 1){
       var current = path.data [index];
-      canvas_context.lineTo(center_X (current, index) +component_width (index)/2, perspective_height (index));
+      canvas_context.lineTo(center_X (current, index) +component_width (index)/2, perspective.height (index/visible_path_components));
     }
     canvas_context.fill();
   });
@@ -161,14 +219,9 @@ function tick() {
   var player_velocity_request = Math.max (-1, Math.min (1, ((mouse_X/width) - 0.5)*10));
   player.position += player_velocity_request*player_max_speed/frames_per_second;
   
-  canvas_context.beginPath();
-  canvas_context.moveTo(width*0.47, height - 20);
-  canvas_context.lineTo(width*0.53, height - 20);
-  canvas_context.lineTo(width*0.5, height - width*0.06);
-  canvas_context.closePath();
-  canvas_context.fill();
-  canvas_context.strokeStyle = "rgb(0,0,0)";
-  canvas_context.stroke();
+  draw_person (player);
+  draw_person (companion);
+
   
 }
 tick();
