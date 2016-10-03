@@ -30,8 +30,8 @@ var canvas_element = $("<canvas>").addClass ("game_canvas")
 game_element.append (canvas_element);
 var canvas_context = canvas_element[0].getContext ("2d");
 
-var visible_path_components = 600;
-var seconds_to_travel_visible = 10;
+var visible_path_components = 1800;
+var seconds_to_travel_visible = 30;
 var path_components_per_second = visible_path_components/seconds_to_travel_visible;
 var frames_per_second = 60;
 var path_components_per_frame = path_components_per_second/frames_per_second;
@@ -51,7 +51,8 @@ function update_dimensions() {
 }
 update_dimensions();
 
-var linear = {
+
+var flat = {
   height: function (distance) {
     return game_height *(1-distance);
   },
@@ -59,7 +60,7 @@ var linear = {
     return 1;
   }
 }
-var cylindrical = {
+var cylindrical_fake = {
   height: function (distance) {
     return game_height - Math.sin (distance*(Math.PI/2))*game_height/(Math.PI/2);
   },
@@ -70,7 +71,19 @@ var cylindrical = {
     return game_height - game_height/(Math.PI/2);
   },
 }
-var perspective = cylindrical;
+var linear = function (scale) {return {
+  height: function (distance) {
+    return perspective.horizon() + Math.exp (- scale*distance)*(game_height - perspective.horizon());
+  },
+  scale: function (distance) {
+    return Math.exp (- scale*distance);
+  },
+  horizon: function() {
+    return game_height - game_height/(Math.PI/2);
+  },
+};};
+
+var perspective = linear (seconds_to_travel_visible/10);
 
 var default_path = {info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]};
 var player = {position: 0, distance: 0.08, size: 0.04, speech: []};
@@ -233,6 +246,7 @@ function draw_person (person) {
 }
 function draw_thing (thing) {
   draw_at (thing.position, thing.distance);
+  canvas_context.globalAlpha = (0.5 - thing.distance)/0.1;
   var center = 0;
   var radius = game_width*0.05;
 
@@ -392,7 +406,7 @@ function tick() {
   
   
   if (Math.random() < 16/frames_per_second) {
-    var thing = {distance: 1, position: player.position + ((Math.random()*2) - 1)*20};
+    var thing = {distance: 0.5, position: player.position + ((Math.random()*2) - 1)*20};
     stuff.push (thing);
   }
   
