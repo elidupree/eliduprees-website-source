@@ -83,12 +83,13 @@ pronouncements: [
 var paths = [default_path];
 var hills = [];
 var skies = [];
+var stuff = [];
 
 function draw_at (position, distance) {
   canvas_context.save();
   var scale = perspective.scale (distance);
   var height = perspective.height (distance);
-  canvas_context.translate (game_width*((position - player.position)/scale + 0.5), height);
+  canvas_context.translate (game_width*((position - player.position)*scale + 0.5), height);
   canvas_context.scale (scale, scale);
 }
 
@@ -228,6 +229,18 @@ function draw_person (person) {
     canvas_context.restore();
     return true;
   });
+  canvas_context.restore();
+}
+function draw_thing (thing) {
+  draw_at (thing.position, thing.distance);
+  var center = 0;
+  var radius = game_width*0.05;
+
+  generic_polygon ([
+    center - radius, 0,
+    center + radius, 0,
+    center, - 2*radius
+  ]);
   canvas_context.restore();
 }
 
@@ -376,6 +389,20 @@ function tick() {
     }
     canvas_context.fill();
   });
+  
+  
+  if (Math.random() < 16/frames_per_second) {
+    var thing = {distance: 1, position: player.position + ((Math.random()*2) - 1)*20};
+    stuff.push (thing);
+  }
+  
+  stuff.filter (function (thing) {
+    thing.distance -= 1/seconds_to_travel_visible/frames_per_second;
+    if (thing.distance < -0.3) {return false;}
+    draw_thing (thing);
+    return true;
+  });
+
   
   var player_velocity_request = Math.max (-1, Math.min (1, ((mouse_X/width) - 0.5)*10));
   player.position += player_velocity_request*player_max_speed/frames_per_second;
