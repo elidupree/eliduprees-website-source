@@ -30,8 +30,8 @@ var canvas_element = $("<canvas>").addClass ("game_canvas")
 game_element.append (canvas_element);
 var canvas_context = canvas_element[0].getContext ("2d");
 
-var visible_path_components = 1800;
-var seconds_to_travel_visible = 30;
+var visible_path_components = 1200;
+var seconds_to_travel_visible = 20;
 var path_components_per_second = visible_path_components/seconds_to_travel_visible;
 var frames_per_second = 60;
 var path_components_per_frame = path_components_per_second/frames_per_second;
@@ -51,10 +51,12 @@ function update_dimensions() {
 }
 update_dimensions();
 
-
+var horizon =function() {
+    return game_height - game_height/(Math.PI/2);
+  };
 var flat = {
   height: function (distance) {
-    return game_height *(1-distance);
+    return horizon() + (game_height - horizon()) *(1-distance);
   },
   scale: function (distance) {
     return 1;
@@ -67,23 +69,28 @@ var cylindrical_fake = {
   scale: function (distance) {
     return 1 - distance;
   },
-  horizon: function() {
-    return game_height - game_height/(Math.PI/2);
-  },
 }
 var linear = function (scale) {return {
   height: function (distance) {
-    return perspective.horizon() + Math.exp (- scale*distance)*(game_height - perspective.horizon());
+    return horizon() + Math.exp (- scale*distance)*(game_height - horizon());
   },
   scale: function (distance) {
     return Math.exp (- scale*distance);
   },
-  horizon: function() {
-    return game_height - game_height/(Math.PI/2);
+};};
+var hybrid;
+hybrid = function (scale) {
+  var specific_linear = linear (scale);
+  return {
+  height: function (distance) {
+    return cylindrical_fake.height (distance)*distance + specific_linear.height (distance)*(1 - distance);
+  },
+  scale: function (distance) {
+    return cylindrical_fake.scale (distance)*distance + specific_linear.scale (distance)*(1 - distance);
   },
 };};
 
-var perspective = linear (seconds_to_travel_visible/10);
+var perspective = hybrid (seconds_to_travel_visible/10);
 
 var default_path = {info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]};
 var player = {position: 0, distance: 0.08, size: 0.04, speech: []};
@@ -121,7 +128,7 @@ function hill_step(draw) {
   hills.filter (function (hill) {
     hill.age += 1/frames_per_second;
     if (draw) {
-      var peak_height = perspective.horizon() - (hill.height * Math.sin ((hill.age/50)*turn/4))*game_height;
+      var peak_height = horizon() - (hill.height * Math.sin ((hill.age/50)*turn/4))*game_height;
       var base_height = peak_height + hill.height*game_height;
       var center = game_width*((hill.position - player.position)/hill_scale + 0.5);
       var radius = game_width*hill.radius;
@@ -284,7 +291,7 @@ function tick() {
     sky.peak -= (sky.peak - 0.5)*0.0006/frames_per_second;
     sky.height -= (sky.height - 0.7)*0.0003/frames_per_second;
     var peak = sky.peak*width;
-    var sky_height = sky.height*perspective.horizon();
+    var sky_height = sky.height*horizon();
     canvas_context.moveTo(peak - width, sky_height + height*sky.steepness);
     canvas_context.bezierCurveTo(
       peak - width*0.6,
@@ -302,7 +309,7 @@ function tick() {
       peak + width,
       sky_height + height*sky.steepness
     );
-    var limit = Math.max (sky_height + height*sky.steepness, perspective.horizon());
+    var limit = Math.max (sky_height + height*sky.steepness, horizon());
     canvas_context.lineTo (width, limit);
     canvas_context.lineTo (0, limit);
     canvas_context.fillStyle = "rgba(255, 255, 255, 0.04)";
@@ -310,7 +317,7 @@ function tick() {
   });
   
   canvas_context.fillStyle = "rgb(0,0,0)";
-  canvas_context.fillRect (0, perspective.horizon(), width, height - perspective.horizon());
+  canvas_context.fillRect (0, horizon(), width, height - horizon());
   
   hill_step (true);
         
