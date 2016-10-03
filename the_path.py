@@ -218,21 +218,35 @@ function speech_bubble (text, direction, alpha) {
   canvas_context.restore();
 }
 
+function polygon (points, fill, stroke) {
+  canvas_context.beginPath();
+  canvas_context.moveTo(points [0], points [1]);
+  for (var index = 2; index <points.length; index += 2){
+    canvas_context.lineTo(points [index], points [index + 1]);
+  }
+  close_shape(fill, stroke);
+}
+
 function generic_polygon (points) {
   canvas_context.beginPath();
   canvas_context.moveTo(points [0], points [1]);
   for (var index = 2; index <points.length; index += 2){
     canvas_context.lineTo(points [index], points [index + 1]);
   }
-  close_shape();
+  close_generic_shape();
 }
 
-function close_shape () {
+function close_shape (fill, stroke) {
   canvas_context.closePath();
-  canvas_context.fillStyle = "rgb(255, 255, 255)";
-  canvas_context.fill();
-  canvas_context.strokeStyle = "rgb(0,0,0)";
-  canvas_context.stroke();
+  if (fill) {canvas_context.fillStyle = fill;
+  canvas_context.fill();}
+  if (stroke) {canvas_context.strokeStyle = stroke;
+  canvas_context.stroke();}
+}
+
+
+function close_generic_shape () {
+  close_shape ("rgb(255, 255, 255)", "rgb(0,0,0)");
 }
 
 
@@ -261,7 +275,7 @@ function draw_person (person) {
   ]);
   canvas_context.beginPath();
   canvas_context.arc (center, body_height - 1.7*radius, radius*0.7, 0, turn, true);
-  close_shape();
+  close_generic_shape();
   
   person.speech.filter (function(speech) {
     speech.age += 1/frames_per_second;
@@ -282,13 +296,24 @@ function draw_thing (thing) {
   draw_at (thing.position, thing.distance);
   canvas_context.globalAlpha = (thing_start_distance - thing.distance)/0.2;
   var center = 0;
-  var radius = game_width*0.05;
+  var radius = game_width*thing.radius;
 
-  generic_polygon ([
-    center - radius, 0,
-    center + radius, 0,
+  var tree_color = "rgb(70, 70, 70)"
+  polygon ([
+    center - radius*0.3, 0,
+    center + radius*0.3, 0,
     center, - 2*radius
-  ]);
+  ],tree_color);
+  polygon ([
+    center - radius, - radius,
+    center + radius, - radius,
+    center, - 2.8*radius
+  ],tree_color);
+  polygon ([
+    center - radius*0.8, - 2*radius,
+    center + radius*0.8, - 2*radius,
+    center, - 3.5*radius
+  ],tree_color);
   canvas_context.restore();
 }
 
@@ -440,7 +465,7 @@ function tick() {
   
   
   if (Math.random() < 16/frames_per_second) {
-    var thing = {distance: thing_start_distance, position: player.position + ((Math.random()*2) - 1)*20};
+    var thing = {distance: thing_start_distance, position: player.position + ((Math.random()*2) - 1)*20, radius: 0.05};
     stuff.push (thing);
   }
   
