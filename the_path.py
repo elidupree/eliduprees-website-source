@@ -374,7 +374,7 @@ function tick() {
   hill_step (true);
         
   paths.forEach (function(path) {
-    while (path.data.length <visible_path_components) {
+    while (path.data.length <visible_path_components+path_components_per_frame) {
       var previous = path.data [path.data.length - 1];
       var current = {
         position: previous.position + previous.velocity/path_components_per_second,
