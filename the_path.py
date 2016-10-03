@@ -36,6 +36,7 @@ var path_components_per_second = visible_path_components/seconds_to_travel_visib
 var frames_per_second = 60;
 var path_components_per_frame = path_components_per_second/frames_per_second;
 var player_max_speed = 0.1; // in screens per second
+var thing_start_distance = 0.8;
 
 var game_height;
 var game_width;
@@ -279,7 +280,7 @@ function draw_person (person) {
 }
 function draw_thing (thing) {
   draw_at (thing.position, thing.distance);
-  canvas_context.globalAlpha = (0.5 - thing.distance)/0.1;
+  canvas_context.globalAlpha = (thing_start_distance - thing.distance)/0.2;
   var center = 0;
   var radius = game_width*0.05;
 
@@ -439,7 +440,7 @@ function tick() {
   
   
   if (Math.random() < 16/frames_per_second) {
-    var thing = {distance: 0.5, position: player.position + ((Math.random()*2) - 1)*20};
+    var thing = {distance: thing_start_distance, position: player.position + ((Math.random()*2) - 1)*20};
     stuff.push (thing);
   }
   
