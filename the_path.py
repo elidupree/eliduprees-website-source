@@ -73,7 +73,7 @@ var cylindrical = {
 var perspective = cylindrical;
 
 var default_path = {info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]};
-var player = {position: 0, height: 0.05, size: 0.04, speech: []};
+var player = {position: 0, height: 0.08, size: 0.04, speech: []};
 var companion = {position: 0, height: 0.01, size: 0.05, speech: [], path: default_path,
 pronouncements: [
   {text: "Don't stray from the path", delay_from_same: 100, delay_from_any: 5, automatically_at_distance: [0.9,1.1]},
@@ -83,6 +83,14 @@ pronouncements: [
 var paths = [default_path];
 var hills = [];
 var skies = [];
+
+function draw_at (position, distance) {
+  canvas_context.save();
+  var scale = perspective.scale (distance);
+  var height = perspective.height (distance);
+  canvas_context.translate (game_width*((position - player.position)/scale + 0.5), height);
+  canvas_context.scale (scale, scale);
+}
 
 for (var index = 0; index < 15; index++){
   skies.push ({peak: Math.random(), height: Math.random(), steepness: Math.random()*0.1+0.1});
@@ -181,11 +189,12 @@ function close_shape () {
 
 
 function draw_person (person) {
-  var center = game_width*((person.position - player.position)*perspective.scale (person.height) + 0.5);
-  var radius = game_width*person.size/2*perspective.scale (person.height);
-  var height = perspective.height (person.height);
-  var body_height = height - radius*2/3;
-  var leg_height = height - radius;
+  draw_at (person.position, person.height);
+  //var center = game_width*((person.position - player.position)*perspective.scale (person.height) + 0.5);
+  var center = 0;
+  var radius = game_width*person.size/2;
+  var body_height = - radius*2/3;
+  var leg_height = - radius;
   var offset = Math.sin (Date.now()*turn/900)*radius/4;
   generic_polygon ([
     center - radius/8, leg_height - offset,
@@ -213,12 +222,13 @@ function draw_person (person) {
     if (speech.age < 0.25) {distortion = (0.25 - speech.age)*4;}
     if (speech.age > 3.25) {distortion = (3.25 - speech.age)*4;}
     canvas_context.save();
-    canvas_context.translate(center + radius, body_height - 1.7*radius);
+    canvas_context.translate(center + (speech.direction && -1 || 1)* radius, body_height - 1.7*radius);
     canvas_context.rotate (distortion*turn/17);
-    speech_bubble (speech.text, false, 1.0 - Math.abs (distortion));
+    speech_bubble (speech.text, speech.direction, 1.0 - Math.abs (distortion));
     canvas_context.restore();
     return true;
   });
+  canvas_context.restore();
 }
 
 function closest_component (path, height) {
@@ -383,7 +393,9 @@ function tick() {
       if (pronouncement.automatically_at_distance [0] <= distance && pronouncement.automatically_at_distance [1] >= distance) {
         companion.last_pronouncement = time;
         pronouncement.last_spoken = time;
-        companion.speech.push ({text: pronouncement.text, age: 0});
+        var direction = companion.position <player.position;
+        if (Math.abs (companion.position - player.position) >0.3) {direction =!direction;}
+        companion.speech.push ({text: pronouncement.text, direction: direction, age: 0});
       }
     }
   });
