@@ -89,8 +89,34 @@ hybrid = function (scale) {
     return cylindrical_fake.scale (distance)*distance + specific_linear.scale (distance)*(1 - distance);
   },
 };};
+var cylindrical_real = function (camera_distance, angle_range) {
+  function get_coordinates(distance) {
+    return [
+      camera_distance - Math.sin (angle_range*(1 - distance)),
+      1 - Math.cos (angle_range*(1 - distance))
+    ];
+  }
+  function get_camera_distance (coordinates) {
+    var Delta_X = coordinates [0];
+    return Math.sqrt (Delta_X*Delta_X + coordinates [1]*coordinates [1]);
+  }
+  function get_drop (coordinates) {
+    return Math.atan2 (coordinates [1], coordinates [0]);   
+  }
+  var distance_factor = get_camera_distance (get_coordinates (0));
+  var drop_factor = get_drop (get_coordinates (0));
+return {
+  height: function (distance) {
+    var coordinates = get_coordinates (distance);
+    var drop = get_drop (coordinates);
+    return horizon() + (game_height - horizon()) *drop/drop_factor;
+  },
+  scale: function (distance) {
+    return distance_factor/get_camera_distance (get_coordinates (distance));
+  },
+};};
 
-var perspective = hybrid (seconds_to_travel_visible/10);
+var perspective = cylindrical_real (.11, .1);//hybrid (seconds_to_travel_visible/10);
 
 var default_path = {info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]};
 var player = {position: 0, distance: 0.08, size: 0.04, speech: []};
