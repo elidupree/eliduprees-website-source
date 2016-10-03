@@ -86,11 +86,10 @@ I'm not sure there's a term like "atheist" or "agnostic" for my perspective here
 "title": "Imagine a ball, but not what color it is.",
 "tags": ["neurodiversity"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "blurb": "The first post in a series about my internal language.",
 "contents":'''
 
-(I've been thinking about writing a blog post about my internal language. However, that might be a bit too complex for just <em>one</em> post. So this post might be the first in a series.)
+<p>(I've been thinking about writing a blog post about my internal language. However, that might be a bit too complex for just <em>one</em> post. So this post might be the first in a series.)</p>
 
 Can you imagine a ball, without imagining a ball of the specific color?
 

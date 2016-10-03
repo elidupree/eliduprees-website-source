@@ -336,7 +336,9 @@
  "Imagine a ball, but not what color it is.": {
   "date_modified": "2016-09-28",
   "date_posted": "2016-09-28",
-  "id": "c783dc41ee543e7413d7fcc90d2402"
+  "deployed": true,
+  "id": "c783dc41ee543e7413d7fcc90d2402",
+  "remembered_contents": "9ae1126066c61eeee4d83ac0c1fbc09652b54d44a4296e73e7b3871794dabfbb7278ae681f627ff7dbf7b9e14ed63160"
  },
  "Imagining pain": {
   "date_modified": "2016-07-24",
