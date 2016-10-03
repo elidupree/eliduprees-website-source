@@ -52,19 +52,19 @@ function update_dimensions() {
 update_dimensions();
 
 var linear = {
-  height: function (height) {
-    return game_height *(1-height);
+  height: function (distance) {
+    return game_height *(1-distance);
   },
-  scale: function (height) {
+  scale: function (distance) {
     return 1;
   }
 }
 var cylindrical = {
-  height: function (height) {
-    return game_height - Math.sin (height*(Math.PI/2))*game_height/(Math.PI/2);
+  height: function (distance) {
+    return game_height - Math.sin (distance*(Math.PI/2))*game_height/(Math.PI/2);
   },
-  scale: function (height) {
-    return 1 - height;
+  scale: function (distance) {
+    return 1 - distance;
   },
   horizon: function() {
     return game_height - game_height/(Math.PI/2);
@@ -73,8 +73,8 @@ var cylindrical = {
 var perspective = cylindrical;
 
 var default_path = {info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]};
-var player = {position: 0, height: 0.08, size: 0.04, speech: []};
-var companion = {position: 0, height: 0.01, size: 0.05, speech: [], path: default_path,
+var player = {position: 0, distance: 0.08, size: 0.04, speech: []};
+var companion = {position: 0, distance: 0.01, size: 0.05, speech: [], path: default_path,
 pronouncements: [
   {text: "Don't stray from the path", delay_from_same: 100, delay_from_any: 5, automatically_at_distance: [0.9,1.1]},
   {text: "It's dangerous out there", delay_from_same: 100, delay_from_any: 5, automatically_at_distance: [2,1000]}
@@ -189,8 +189,8 @@ function close_shape () {
 
 
 function draw_person (person) {
-  draw_at (person.position, person.height);
-  //var center = game_width*((person.position - player.position)*perspective.scale (person.height) + 0.5);
+  draw_at (person.position, person.distance);
+  //var center = game_width*((person.position - player.position)*perspective.scale (person.distance) + 0.5);
   var center = 0;
   var radius = game_width*person.size/2;
   var body_height = - radius*2/3;
@@ -231,12 +231,12 @@ function draw_person (person) {
   canvas_context.restore();
 }
 
-function closest_component (path, height) {
-  return path.data [Math.floor (height/visible_path_components)];
+function closest_component (path, distance) {
+  return path.data [Math.floor (distance/visible_path_components)];
 }
 var path_radius = 0.075;
 function normalized_distance_from (path, person) {
-  return Math.abs (person.position - closest_component (path, person.height).position)/path_radius;
+  return Math.abs (person.position - closest_component (path, person.distance).position)/path_radius;
 }
 
 var start = Date.now();
@@ -338,7 +338,7 @@ function tick() {
       deleted = path.data.shift();
       //deleted.element.detach();
     }
-    companion.position = closest_component (path, companion.height).position;
+    companion.position = closest_component (path, companion.distance).position;
     
     // you can't get TOO far away from the paths.
     // TODO: possibly better symbolism and gameplay if the paths stay near YOU instead
