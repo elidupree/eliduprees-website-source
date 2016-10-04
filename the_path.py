@@ -120,8 +120,8 @@ return {
 var perspective = cylindrical_real (.11, .1);//hybrid (seconds_to_travel_visible/10);
 
 var default_path = {info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]};
-var player = {position: 0, distance: 0.08, size: 0.04, speech: []};
-var companion = {position: 0, distance: 0.01, size: 0.05, speech: [], path: default_path,
+var player = {kind: "person", position: 0, distance: 0.08, size: 0.04, speech: []};
+var companion = {kind: "person", position: 0, distance: 0.01, size: 0.05, speech: [], path: default_path,
 pronouncements: [
   {text: "Don't stray from the path", delay_from_same: 100, delay_from_any: 5, automatically_at_distance: [0.9,1.1]},
   {text: "It's dangerous out there", delay_from_same: 100, delay_from_any: 5, automatically_at_distance: [2,1000]}
@@ -131,6 +131,7 @@ var paths = [default_path];
 var hills = [];
 var skies = [];
 var stuff = [];
+stuff.push (player); stuff.push (companion);
 
 function draw_at (position, distance) {
   canvas_context.save();
@@ -251,7 +252,7 @@ function close_generic_shape () {
 
 
 function draw_person (person) {
-  draw_at (person.position, person.distance);
+  //draw_at (person.position, person.distance);
   //var center = game_width*((person.position - player.position)*perspective.scale (person.distance) + 0.5);
   var center = 0;
   var radius = game_width*person.size/2;
@@ -290,11 +291,9 @@ function draw_person (person) {
     canvas_context.restore();
     return true;
   });
-  canvas_context.restore();
+  //canvas_context.restore();
 }
-function draw_thing (thing) {
-  draw_at (thing.position, thing.distance);
-  canvas_context.globalAlpha = (thing_start_distance - thing.distance)/0.2;
+function draw_tree (thing) {
   var center = 0;
   var radius = game_width*thing.radius;
 
@@ -314,6 +313,14 @@ function draw_thing (thing) {
     center + radius*0.8, - 2*radius,
     center, - 3.5*radius
   ],tree_color);
+}
+function draw_thing (thing) {
+  draw_at (thing.position, thing.distance);
+  canvas_context.globalAlpha = (thing_start_distance - thing.distance)/0.2;
+  
+  if (thing.kind == "tree") {draw_tree (thing);}
+  if (thing.kind == "person") {draw_person (thing);}
+  
   canvas_context.restore();
 }
 
@@ -465,17 +472,21 @@ function tick() {
   
   
   if (Math.random() < 16/frames_per_second) {
-    var thing = {distance: thing_start_distance, position: player.position + ((Math.random()*2) - 1)*20, radius: 0.05};
+    var thing = {kind: "tree", distance: thing_start_distance, position: player.position + ((Math.random()*2) - 1)*20, radius: 0.05};
     stuff.push (thing);
   }
   
   stuff.filter (function (thing) {
-    thing.distance -= 1/seconds_to_travel_visible/frames_per_second;
+    if (thing.kind != "person") {thing.distance -= 1/seconds_to_travel_visible/frames_per_second;}
     if (thing.distance < -0.3) {return false;}
-    draw_thing (thing);
     return true;
   });
-
+  
+  stuff.sort (function (first, second) {return second.distance - first.distance;});
+  
+  stuff.forEach (function (thing) {
+    draw_thing (thing);
+  });
   
   var player_velocity_request = Math.max (-1, Math.min (1, ((mouse_X/width) - 0.5)*10));
   player.position += player_velocity_request*player_max_speed/frames_per_second;
@@ -500,8 +511,8 @@ function tick() {
     }
   });
   
-  draw_person (player);
-  draw_person (companion);
+  //draw_person (player);
+  //draw_person (companion);
 
   
 }
