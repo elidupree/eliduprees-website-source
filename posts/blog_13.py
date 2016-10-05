@@ -160,6 +160,61 @@ In the next post in this series, I think I'll talk about what my words are made 
 },
 
 
+{
+"title": "“Tuning out” and “Dream thinking”",
+"tags": ["neurodiversity"],
+"auto_paragraphs": True,
+"blurb": "These are a couple of my mental techniques for problem-solving.",
+"contents":'''
+These are a couple of my mental techniques for problem-solving.
+
+<h2>Tuning out</h2>
+
+Sometimes, I work on the same problem for a long time, but I get stuck. I keep thinking of slightly different solutions, but none of them actually work. Focusing really hard on the specific problem isn't helping me. So I "tune out". I keep directing my brain to think about the problem, but I relax and don't focus so hard on specific solutions. Doing this often gives me useful new ideas.
+
+I'm going to try to explain exactly what I'm doing and how it helps. But before I can do that, I have to explain some things about how brains work.
+
+Let's say someone shows me a picture of a bear. I can immediately say, "that's a bear", without having to think about it. How did I do this?
+
+<p><em>Somewhere</em> in my brain, there's the knowledge of what a bear is. But there's also a lot of other knowledge. Suppose my brain had a single CPU, and it had to go to all the knowledge one at a time. "Is it a twig? Nope. Is it a sack of potatoes? Nope. Is it the Burj Khalifa? Nope. Is it..." This process will eventually get to "Is it a bear?", but it will take forever. So that can't be how it works.</p>
+
+Instead, I want you to imagine that my brain has separate processors for every single <cut>piece of knowledge. When I see the picture, all of the processors start analyzing the picture at the same time. The "twig" processor sees that it's not a twig and shuts up. The same thing happens with most of the others. But the "bear" processor sees that it <em>is</em> a bear, and starts yelling, "It's a bear! It's a bear!". Now, the rest of my brain also knows that it's a bear. And that includes the brain-part that allows me to speak the words "it's a bear" out loud.
+
+Now let's say you ask me something else about the picture, like "How tall you think this bear is?". Now, I don't want to keep thinking about the fact that it's a bear. I want to think about the specific details instead. I need a way to get the "bear" processor to stop yelling "bear, bear, bear". So I make an announcement to <em>all</em> the processors: "Only send me information related the height and proportions."
+
+This is a <strong>context change</strong>. This almost always happens automatically. Most people don't even think about the fact that they're doing it.
+
+Your context can also be <strong>sharper</strong> or <strong>less sharp</strong>. Some people can focus very sharply on a specific subject, and suppress almost all other information. There are stories about researchers not even noticing what's going on around them, because they are working on a problem so hard. I'm not quite as extreme, but I do think I'm above average in how sharply I focus on things.
+
+A sharp focus has an advantage &ndash; you won't be distracted by useless information. But it also has a disadvantage &ndash; some of the information you suppress might actually be useful.
+
+That's where "tuning out" comes in. When I'm trying to solve the problem, I normally focus as sharply as I can. When I "tune out", what I'm really doing is <em>making my focus less sharp</em>. That way, I can receive more information that might be useful.
+
+There are other things I can do, too. Because I've practiced this a lot, I have a lot of conscious control over exactly what context I'm using.
+
+Sometimes, I alternate between tuning out (to get more information) and tuning back in (to analyze the new information in more detail).
+
+Other times, I change the context in other ways. For instance, I might say to myself, "Okay everybody, I need to do this lots of times in a row, so give me any information about doing something like this quickly. Don't worry if it solves the problem exactly." (I don't actually say those <em>words</em> to myself &ndash; it's something I understand internally. This is just my best translation of it.) Once I get that information, I might be able to rearrange my original problem so that it can use the quicker solution. Or even if the quicker idea doesn't quite work, it might inspire me to think of something that does.
+
+<h2>Dream thinking</h2>
+
+There are a bunch of stories about scientists having brilliant ideas in their dreams. That hasn't happened for me, but I <em>do</em> often have good ideas while I'm going to sleep or waking up in the morning.
+
+One time a couple years ago, I got out of bed, but didn't really feel completely awake. My thoughts were still sort of random and incoherent, the same way they are in my dreams. Instead of trying to wake myself up, I started thinking about a programming problem I had been working on the previous day. I actually came up with a lot of good ideas that way.
+
+That got me thinking: Can I make myself have dreamlike thoughts on purpose? So I experimented with trying to make my thoughts less dreamlike and then more dreamlike. I actually got pretty good at it. I don't think I would have been able to figure this out if I had been fully awake in the first place. But now that I have figured it out, I can take my thoughts about halfway to the dreamlike state even when I'm fully awake.
+
+"Dream thinking" is like a more extreme version of tuning out. When I use dream thoughts, I don't <em>just</em> turn off the context. I also turn off another thing: the part of my brain that tries to make everything makes sense. I just let my brain keep running with whatever ideas it comes up with, even if those ideas don't initially seem to make sense or relate to the problem. You could put it this way: "If you've already tried all of your ideas that make sense, and they didn't solve the problem, try some of the ones that don't make any sense."
+
+Dream thinking is a lot harder to control than tuning out. The dream thoughts tend to run off and think about things completely unrelated to the problem. When I tune out, I still stay in the same context &ndash; just not as sharply. But dream thinking gets a lot less effective if I try to restrict the context <em>at all</em>. Instead of trying to <em>stop</em> those thoughts, I just keep running different parts of the problem through my head and letting the thoughts go wherever they want with them.
+
+This tends to give me a lot of useless and/or <a href="/blog/imagine-a-ball-but-not-what-color-it-is">untranslatable</a> ideas. But it's great for finding ways to look at the problem from a new perspective. I come up with a lot of things that I would never have thought of if I just discarded everything that doesn't make sense at first.
+
+
+
+''',
+},
+
 
 ]
 
