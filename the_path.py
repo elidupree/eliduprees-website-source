@@ -263,6 +263,7 @@ function draw_person (person) {
   var body_height = - radius*2/3;
   var leg_height = - radius;
   var offset = Math.sin (Date.now()*turn/900)*radius/4;
+  if (person.falling_down) {canvas_context.rotate (turn/4);}
   generic_polygon ([
     center - radius/8, leg_height - offset,
     center - radius*2/3, leg_height - offset,
@@ -293,7 +294,7 @@ function draw_speech (person) {
     speech.age += 1/frames_per_second;
     if (speech.age >= 3.5) {return false;}
     
-    if (speech.age >1.5 && speech.response) {
+    if (speech.age >1.0 && speech.response) {
       speech.response.age = 0;
       speech.response.person.speech.push (speech.response);
       speech.response = undefined;
@@ -366,6 +367,8 @@ function tick() {
   var height = game_height;
   var time = (Date.now() - start)/1000;
   
+  var moving = !player.falling_down;
+  
   canvas_context.fillStyle = "rgb(0,0,0)";
   canvas_context.fillRect (0, 0, width, height);
   skies.forEach (function(sky) {
@@ -406,7 +409,7 @@ function tick() {
   hill_step (true);
         
   paths.forEach (function(path) {
-    while (path.data.length <visible_path_components+path_components_per_frame) {
+    if (moving) {while (path.data.length <visible_path_components+path_components_per_frame) {
       var previous = path.data [path.data.length - 1];
       var current = {
         position: previous.position + previous.velocity/path_components_per_second,
@@ -457,6 +460,7 @@ function tick() {
       //deleted.element.detach();
     }
     companion.position = closest_component (path, companion.distance).position;
+    }
     
     // you can't get TOO far away from the paths.
     // TODO: possibly better symbolism and gameplay if the paths stay near YOU instead
@@ -496,7 +500,7 @@ function tick() {
   });
   
   
-  if (Math.random() < 16/frames_per_second) {
+  if (moving && Math.random() < 16/frames_per_second) {
     var thing = {kind: "tree", distance: thing_start_distance, position: player.position + ((Math.random()*2) - 1)*20, radius: 0.05};
     stuff.push (thing);
   }
@@ -505,7 +509,7 @@ function tick() {
   var collision;
   
   stuff = stuff.filter (function (thing) {
-    if (thing.kind != "person") {thing.distance -= 1/seconds_to_travel_visible/frames_per_second;}
+    if (moving && thing.kind != "person") {thing.distance -= 1/seconds_to_travel_visible/frames_per_second;}
     if (thing.distance < -0.3) {return false;}
     if (thing.distance >player.distance && thing.distance <= player.distance + 2/seconds_to_travel_visible/frames_per_second && Math.abs (thing.position - player.position) <thing.radius + player.radius &&!(collision && collision.distance < thing.distance)) {
       collision = thing;
@@ -526,17 +530,21 @@ function tick() {
   
   if (collision) {
     if (collision.kind == "tree") {
-      
-      player.speech.push ({
+      if (collision.position >player.position) {player.position -= 0.025/frames_per_second;}
+      else {player.position += 0.025/frames_per_second;}
+      if (!player.falling_down) {player.speech.push ({
         text: "Ow, it hurts",
         age: 0,
         response: {
           person: companion,
           text: (distance <= 1.2) && "That's just part of life" || "It's your fault for straying"
         }
-      });
+      });}
+      player.falling_down = true;
     }
+    
   }
+  else {player.falling_down = false;}
 
   companion.pronouncements.forEach (function (pronouncement) {
     if (companion.last_pronouncement && companion.last_pronouncement + pronouncement.delay_from_any >time) {return;}
