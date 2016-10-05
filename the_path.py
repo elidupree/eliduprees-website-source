@@ -133,11 +133,15 @@ var skies = [];
 var stuff = [];
 stuff.push (player); stuff.push (companion);
 
+function draw_position (position, distance) {
+  var scale = perspective.scale (distance);
+  return game_width*((position - player.position)*scale + 0.5);
+}
 function draw_at (position, distance) {
   canvas_context.save();
   var scale = perspective.scale (distance);
   var height = perspective.height (distance);
-  canvas_context.translate (game_width*((position - player.position)*scale + 0.5), height);
+  canvas_context.translate (draw_position (position, distance), height);
   canvas_context.scale (scale, scale);
 }
 
@@ -153,7 +157,7 @@ function hill_step(draw) {
     }
   }
   
-  hills.filter (function (hill) {
+  hills = hills.filter (function (hill) {
     hill.age += 1/frames_per_second;
     if (draw) {
       var peak_height = horizon() - (hill.height * Math.sin ((hill.age/50)*turn/4))*game_height;
@@ -277,8 +281,15 @@ function draw_person (person) {
   canvas_context.beginPath();
   canvas_context.arc (center, body_height - 1.7*radius, radius*0.7, 0, turn, true);
   close_generic_shape();
+  //canvas_context.restore();
+}
+
+function draw_speech (person) {
+  var scale = perspective.scale (person.distance);
+  var reference_position = draw_position (person.position, person.distance);
+  var radius = game_width*person.radius*scale;
   
-  person.speech.filter (function(speech) {
+  person.speech = person.speech.filter (function(speech) {
     speech.age += 1/frames_per_second;
     if (speech.age >= 3.5) {return false;}
     
@@ -292,15 +303,21 @@ function draw_person (person) {
     if (speech.age < 0.25) {distortion = (0.25 - speech.age)*4;}
     if (speech.age > 3.25) {distortion = (3.25 - speech.age)*4;}
     
+    if (reference_position <game_width/3) {speech.direction = false;}
+    if (reference_position >game_width*2/3) {speech.direction = true;}
+    var speech_position = reference_position + (speech.direction && -1 || 1)* radius;
+    if (!speech.direction) {speech_position = Math.max (speech_position, 5);}
+    if (speech.direction) {speech_position = Math.min (speech_position, game_width - 5);}
+    
     canvas_context.save();
-    canvas_context.translate(center + (speech.direction && -1 || 1)* radius, body_height - 1.7*radius);
+    canvas_context.translate(speech_position, perspective.height (person.distance) - radius*2/3 - 1.7*radius);
     canvas_context.rotate (distortion*turn/17);
     speech_bubble (speech.text, speech.direction, 1.0 - Math.abs (distortion));
     canvas_context.restore();
     return true;
   });
-  //canvas_context.restore();
 }
+
 function draw_tree (thing) {
   var center = 0;
   var radius = game_width*thing.radius;
@@ -487,7 +504,7 @@ function tick() {
   //var boxes = {}
   var collision;
   
-  stuff.filter (function (thing) {
+  stuff = stuff.filter (function (thing) {
     if (thing.kind != "person") {thing.distance -= 1/seconds_to_travel_visible/frames_per_second;}
     if (thing.distance < -0.3) {return false;}
     if (thing.distance >player.distance && thing.distance <= player.distance + 2/seconds_to_travel_visible/frames_per_second && Math.abs (thing.position - player.position) <thing.radius + player.radius &&!(collision && collision.distance < thing.distance)) {
@@ -535,8 +552,8 @@ function tick() {
     }
   });
   
-  //draw_person (player);
-  //draw_person (companion);
+  draw_speech (player);
+  draw_speech (companion);
 
   
 }
