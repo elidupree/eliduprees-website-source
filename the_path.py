@@ -120,8 +120,8 @@ return {
 var perspective = cylindrical_real (.11, .1);//hybrid (seconds_to_travel_visible/10);
 
 var default_path = {info: {max_speed: player_max_speed}, data: [{position: 0, velocity: 0, acceleration: 0, element: $("<div/>") .addClass ("path_component")}]};
-var player = {kind: "person", position: 0, distance: 0.08, size: 0.04, speech: []};
-var companion = {kind: "person", position: 0, distance: 0.01, size: 0.05, speech: [], path: default_path,
+var player = {kind: "person", position: 0, distance: 0.08, radius: 0.02, speech: []};
+var companion = {kind: "person", position: 0, distance: 0.01, radius: 0.025, speech: [], path: default_path,
 pronouncements: [
   {text: "Don't stray from the path", delay_from_same: 100, delay_from_any: 5, automatically_at_distance: [0.9,1.1]},
   {text: "It's dangerous out there", delay_from_same: 100, delay_from_any: 5, automatically_at_distance: [2,1000]}
@@ -255,7 +255,7 @@ function draw_person (person) {
   //draw_at (person.position, person.distance);
   //var center = game_width*((person.position - player.position)*perspective.scale (person.distance) + 0.5);
   var center = 0;
-  var radius = game_width*person.size/2;
+  var radius = game_width*person.radius;
   var body_height = - radius*2/3;
   var leg_height = - radius;
   var offset = Math.sin (Date.now()*turn/900)*radius/4;
@@ -476,9 +476,15 @@ function tick() {
     stuff.push (thing);
   }
   
+  //var boxes = {}
+  var collision;
+  
   stuff.filter (function (thing) {
     if (thing.kind != "person") {thing.distance -= 1/seconds_to_travel_visible/frames_per_second;}
     if (thing.distance < -0.3) {return false;}
+    if (thing.distance >player.distance && thing.distance <= player.distance + 2/seconds_to_travel_visible/frames_per_second && Math.abs (thing.position - player.position) <thing.radius + player.radius &&!(collision && collision.distance < thing.distance)) {
+      collision = thing;
+    }
     return true;
   });
   
@@ -491,7 +497,7 @@ function tick() {
   var player_velocity_request = Math.max (-1, Math.min (1, ((mouse_X/width) - 0.5)*10));
   player.position += player_velocity_request*player_max_speed/frames_per_second;
   
-  if (Math.random() <0.003) {player.speech.push ({
+  if (collision) {player.speech.push ({
     text: "Ow, it hurts",
     age: 0,
   });}
