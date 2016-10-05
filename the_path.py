@@ -281,9 +281,17 @@ function draw_person (person) {
   person.speech.filter (function(speech) {
     speech.age += 1/frames_per_second;
     if (speech.age >= 3.5) {return false;}
+    
+    if (speech.age >1.5 && speech.response) {
+      speech.response.age = 0;
+      speech.response.person.speech.push (speech.response);
+      speech.response = undefined;
+    }
+    
     var distortion = 0;
     if (speech.age < 0.25) {distortion = (0.25 - speech.age)*4;}
     if (speech.age > 3.25) {distortion = (3.25 - speech.age)*4;}
+    
     canvas_context.save();
     canvas_context.translate(center + (speech.direction && -1 || 1)* radius, body_height - 1.7*radius);
     canvas_context.rotate (distortion*turn/17);
@@ -497,12 +505,22 @@ function tick() {
   var player_velocity_request = Math.max (-1, Math.min (1, ((mouse_X/width) - 0.5)*10));
   player.position += player_velocity_request*player_max_speed/frames_per_second;
   
-  if (collision) {player.speech.push ({
-    text: "Ow, it hurts",
-    age: 0,
-  });}
-  
   var distance = normalized_distance_from (companion.path, player);
+  
+  if (collision) {
+    if (collision.kind == "tree") {
+      
+      player.speech.push ({
+        text: "Ow, it hurts",
+        age: 0,
+        response: {
+          person: companion,
+          text: (distance <= 1.2) && "That's just part of life" || "It's your fault for straying"
+        }
+      });
+    }
+  }
+
   companion.pronouncements.forEach (function (pronouncement) {
     if (companion.last_pronouncement && companion.last_pronouncement + pronouncement.delay_from_any >time) {return;}
     if (pronouncement.last_spoken && pronouncement.last_spoken + pronouncement.delay_from_same>time) {return;}
