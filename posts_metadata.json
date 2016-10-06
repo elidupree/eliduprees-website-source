@@ -1769,6 +1769,8 @@
  "\u201cTuning out\u201d and \u201cDream thinking\u201d": {
   "date_modified": "2016-10-05",
   "date_posted": "2016-10-05",
-  "id": "e97722f3c8e0c4643ea16e6c83500b4"
+  "deployed": true,
+  "id": "e97722f3c8e0c4643ea16e6c83500b4",
+  "remembered_contents": "03d14f08b70a0b1bbf2899194443af7065bd1b5ad8365b73c0ea7b4d10d178076e9b89b2f75006957f739a79751bbb66"
  }
 }
