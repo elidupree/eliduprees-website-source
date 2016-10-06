@@ -26,6 +26,9 @@ var bottom_bar = $(".bottom_bar");
 $(".bars_inner_box").css ("padding-bottom", 0);
 //var body = $("body");
 //game_element.height (600);
+var background_element = $("<canvas>").addClass ("game_canvas")
+game_element.append (background_element);
+var background_context = background_element[0].getContext ("2d");
 var canvas_element = $("<canvas>").addClass ("game_canvas")
 game_element.append (canvas_element);
 var canvas_context = canvas_element[0].getContext ("2d");
@@ -48,7 +51,10 @@ function update_dimensions() {
   var height = game_element.height();
   game_height = height;
   game_width = width;
-  canvas_element.attr ("width", width).attr ("height", height);
+  if (canvas_element.attr ("width") != width || canvas_element.attr ("height") != height) {
+    canvas_element.attr ("width", width).attr ("height", height);
+    background_element.attr ("width", width).attr ("height", height);
+  }
 }
 update_dimensions();
 
@@ -165,12 +171,12 @@ function hill_step(draw) {
       var center = game_width*((hill.position - player.position)/hill_scale + 0.5);
       var radius = game_width*hill.radius;
       
-      canvas_context.beginPath();
-      canvas_context.moveTo(center - radius, base_height);
-      canvas_context.lineTo (center, peak_height);
-      canvas_context.lineTo (center + radius, base_height);
-      canvas_context.fillStyle = "rgb(0, 0, 0)";
-      canvas_context.fill();
+      background_context.beginPath();
+      background_context.moveTo(center - radius, base_height);
+      background_context.lineTo (center, peak_height);
+      background_context.lineTo (center + radius, base_height);
+      background_context.fillStyle = "rgb(0, 0, 0)";
+      background_context.fill();
     }
     
     return hill.age < 100;
@@ -359,28 +365,35 @@ function normalized_distance_from (path, person) {
 }
 
 var start = Date.now();
+var step = 0;
 function tick() {
   requestAnimationFrame (tick);
-  
-  update_dimensions();
+  if (Math.random() <0.2) {return;}
+  step++;
+  var updated = update_dimensions();
   var width = game_width;
   var height = game_height;
-  var time = (Date.now() - start)/1000;
+  var time = step/frames_per_second;//(Date.now() - start)/1000;
+  var draw_background = updated || (step % Math.floor (frames_per_second/20)) == 1;
   
   var moving = !player.falling_down;
   
-  canvas_context.fillStyle = "rgb(0,0,0)";
-  canvas_context.fillRect (0, 0, width, height);
+  canvas_context.clearRect (0, 0, width, height);  
+  if (draw_background) {
+    background_context.fillStyle = "rgb(0,0,0)";
+    background_context.fillRect (0, 0, width, height);
+  }
   skies.forEach (function(sky) {
-    canvas_context.beginPath();
     sky.peak += ((Math.random()*2) - 1)*0.05/frames_per_second;
     sky.height += ((Math.random()*2) - 1)*0.05/frames_per_second;
     sky.peak -= (sky.peak - 0.5)*0.0006/frames_per_second;
     sky.height -= (sky.height - 0.7)*0.0003/frames_per_second;
+    if (draw_background) {
+    background_context.beginPath();
     var peak = sky.peak*width;
     var sky_height = sky.height*horizon();
-    canvas_context.moveTo(peak - width, sky_height + height*sky.steepness);
-    canvas_context.bezierCurveTo(
+    background_context.moveTo(peak - width, sky_height + height*sky.steepness);
+    background_context.bezierCurveTo(
       peak - width*0.6,
       sky_height + height*sky.steepness,
       peak - width*0.4,
@@ -388,7 +401,7 @@ function tick() {
       peak,
       sky_height
     );
-    canvas_context.bezierCurveTo(
+    background_context.bezierCurveTo(
       peak + width*0.4,
       sky_height,
       peak + width*0.6,
@@ -397,16 +410,19 @@ function tick() {
       sky_height + height*sky.steepness
     );
     var limit = Math.max (sky_height + height*sky.steepness, horizon());
-    canvas_context.lineTo (width, limit);
-    canvas_context.lineTo (0, limit);
-    canvas_context.fillStyle = "rgba(255, 255, 255, 0.04)";
-    canvas_context.fill();
+    background_context.lineTo (width, limit);
+    background_context.lineTo (0, limit);
+    background_context.fillStyle = "rgba(255, 255, 255, 0.04)";
+    background_context.fill();
+    }
   });
   
-  canvas_context.fillStyle = "rgb(0,0,0)";
-  canvas_context.fillRect (0, horizon(), width, height - horizon());
+  if (draw_background) {
+    background_context.fillStyle = "rgb(0,0,0)";
+    background_context.fillRect (0, horizon(), width, height - horizon());
+  }
   
-  hill_step (true);
+  hill_step (draw_background);
         
   paths.forEach (function(path) {
     if (moving) {while (path.data.length <visible_path_components+path_components_per_frame) {
