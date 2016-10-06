@@ -352,6 +352,20 @@ function draw_thing (thing) {
   
   if (thing.kind == "tree") {draw_tree (thing);}
   if (thing.kind == "person") {draw_person (thing);}
+  if (thing.kind == "reward") {
+    var points = [];
+    var radius = game_width*0.03;
+    var progress = thing.receiving || 0;
+    var offset = - (radius*(1 + 2*progress));
+    canvas_context.globalAlpha = Math.min (1, 10 - progress*10);
+    for (var index = 0; index <5;++index) {
+      points.push (radius*Math.sin (turn*(progress + index/5)));
+      points.push (offset - radius*Math.cos (turn*(progress + index/5)));
+      points.push (radius*Math.sin (turn*(progress + 0.1 + index/5))/Math.sqrt (5));
+      points.push (offset - radius*Math.cos (turn*(progress + 0.1 + index/5))/Math.sqrt (5));
+    }
+    generic_polygon (points);
+  }
   
   canvas_context.restore();
 }
@@ -366,6 +380,7 @@ function normalized_distance_from (path, person) {
 
 var start = Date.now();
 var step = 0;
+var pause_next_frame = false;
 function tick() {
   requestAnimationFrame (tick);
   if (Math.random() <0.2) {return;}
@@ -376,7 +391,7 @@ function tick() {
   var time = step/frames_per_second;//(Date.now() - start)/1000;
   var draw_background = updated || (step % Math.floor (frames_per_second/20)) == 1;
   
-  var moving = !player.falling_down;
+  var moving = !pause_next_frame;
   
   canvas_context.clearRect (0, 0, width, height);  
   if (draw_background) {
@@ -518,6 +533,7 @@ function tick() {
   
   if (moving && Math.random() < 16/frames_per_second) {
     var thing = {kind: "tree", distance: thing_start_distance, position: player.position + ((Math.random()*2) - 1)*20, radius: 0.05};
+    if (Math.random() <0.05) {thing.kind = "reward";}
     stuff.push (thing);
   }
   
@@ -539,12 +555,15 @@ function tick() {
     draw_thing (thing);
   });
   
-  var player_velocity_request = Math.max (-1, Math.min (1, ((mouse_X/width) - 0.5)*10));
-  player.position += player_velocity_request*player_max_speed/frames_per_second;
+  if (moving) {
+    var player_velocity_request = Math.max (-1, Math.min (1, ((mouse_X/width) - 0.5)*10));
+    player.position += player_velocity_request*player_max_speed/frames_per_second;
+  }
   
   var distance = normalized_distance_from (companion.path, player);
   
   if (collision) {
+    pause_next_frame = true;
     if (collision.kind == "tree") {
       if (collision.position >player.position) {player.position -= 0.025/frames_per_second;}
       else {player.position += 0.025/frames_per_second;}
@@ -558,9 +577,26 @@ function tick() {
       });}
       player.falling_down = true;
     }
-    
+    if (collision.kind == "reward") {
+      if (moving) {player.speech.push ({
+        text: "Yay!",
+        age: 0,
+        response: {
+          person: companion,
+          text: (distance <= 1.2) && "I'm proud of you" || "That's not good for you"
+        }
+      });}
+      collision.receiving = (collision.receiving || 0) + 0.7/frames_per_second;
+      if (collision.receiving >1) {
+        //hack: destroy
+        collision.distance = - 1;
+      }
+    }
   }
-  else {player.falling_down = false;}
+  else {
+    player.falling_down = false;
+    pause_next_frame = false;
+  }
 
   companion.pronouncements.forEach (function (pronouncement) {
     if (companion.last_pronouncement && companion.last_pronouncement + pronouncement.delay_from_any >time) {return;}
