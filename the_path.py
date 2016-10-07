@@ -354,7 +354,7 @@ function draw_thing (thing) {
   if (thing.kind == "person") {draw_person (thing);}
   if (thing.kind == "reward") {
     var points = [];
-    var radius = game_width*0.03;
+    var radius = game_width*thing.radius;
     var progress = thing.receiving || 0;
     var offset = - (radius*(1 + 2*progress));
     canvas_context.globalAlpha = Math.min (1, 10 - progress*10);
@@ -366,6 +366,27 @@ function draw_thing (thing) {
     }
     generic_polygon (points);
   }
+  if (thing.kind == "box") {
+    var radius = game_width*thing.radius;
+    var progress = thing.receiving || 0;
+    canvas_context.globalAlpha = Math.min (1, 1 - progress*1);
+    canvas_context.beginPath();
+    canvas_context.rect (- radius, - radius*1.6, radius*2, radius*1.6);
+    canvas_context.fillStyle = "rgb(255, 255, 255)";
+    canvas_context.fill();
+    canvas_context.strokeStyle = "rgb(0, 0, 0)";
+    canvas_context.stroke();
+
+  canvas_context.font = 24+"px Arial, Helvetica, sans-serif";
+  canvas_context.textBaseline = "middle";
+  canvas_context.textAlign = "center";
+  canvas_context.translate (0, - radius*0.8);
+  canvas_context.scale (radius/24, radius/24);
+  canvas_context.fillStyle = "rgb(0, 0, 0)";
+  canvas_context.fillText ("?", 0, 0);
+
+  }
+
   
   canvas_context.restore();
 }
@@ -533,7 +554,8 @@ function tick() {
   
   if (moving && Math.random() < 16/frames_per_second) {
     var thing = {kind: "tree", distance: thing_start_distance, position: player.position + ((Math.random()*2) - 1)*20, radius: 0.05};
-    if (Math.random() <0.05) {thing.kind = "reward";}
+    if (Math.random() <0.05) {thing.kind = "reward"; thing.radius = 0.03;}
+    if (Math.random() <0.1) {thing.kind = "box"; thing.radius = 0.03;}
     stuff.push (thing);
   }
   
@@ -587,6 +609,21 @@ function tick() {
         }
       });}
       collision.receiving = (collision.receiving || 0) + 0.7/frames_per_second;
+      if (collision.receiving >1) {
+        //hack: destroy
+        collision.distance = - 1;
+      }
+    }
+    if (collision.kind == "box") {
+      if (moving) {
+        player.speech.push ({
+          text: "What's inside?",
+          age: 0,
+        });
+        var thing = {kind: "reward", distance: collision.distance + 0.001, position: collision.position, radius: 0.03};
+        stuff.push (thing);
+      }
+      collision.receiving = (collision.receiving || 0) + 1.5/frames_per_second;
       if (collision.receiving >1) {
         //hack: destroy
         collision.distance = - 1;
