@@ -394,7 +394,7 @@ function draw_thing (thing) {
 function closest_component (path, distance) {
   return path.data [Math.floor (distance*visible_path_components)];
 }
-var path_radius = 0.075;
+var path_radius = 0.12;
 function normalized_distance_from (path, person) {
   return Math.abs (person.position - closest_component (path, person.distance).position)/path_radius;
 }
