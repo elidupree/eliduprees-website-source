@@ -402,6 +402,9 @@ function normalized_distance_from (path, person) {
 var start = Date.now();
 var step = 0;
 var pause_next_frame = false;
+var permanent_pain = 0.4;
+var temporary_pain = 0.4;
+var transient_pain = 0.4;
 function tick() {
   requestAnimationFrame (tick);
   if (Math.random() <0.2) {return;}
@@ -414,7 +417,9 @@ function tick() {
   
   var moving = !pause_next_frame;
   
-  canvas_context.clearRect (0, 0, width, height);  
+  canvas_context.clearRect (0, 0, width, height);
+
+  
   if (draw_background) {
     background_context.fillStyle = "rgb(0,0,0)";
     background_context.fillRect (0, 0, width, height);
@@ -589,25 +594,32 @@ function tick() {
     if (collision.kind == "tree") {
       if (collision.position >player.position) {player.position -= 0.025/frames_per_second;}
       else {player.position += 0.025/frames_per_second;}
-      if (!player.falling_down) {player.speech.push ({
-        text: "Ow, it hurts",
-        age: 0,
-        response: {
-          person: companion,
-          text: (distance <= 1.2) && "That's just part of life" || "It's your fault for straying"
-        }
-      });}
+      if (!player.falling_down) {
+        temporary_pain += 0.15;
+        player.speech.push ({
+          text: "Ow, it hurts",
+          age: 0,
+          response: {
+            person: companion,
+            text: (distance <= 1.2) && "That's just part of life" || "It's your fault for straying"
+          }
+        });
+      }
       player.falling_down = true;
     }
     if (collision.kind == "reward") {
-      if (moving) {player.speech.push ({
-        text: "Yay!",
-        age: 0,
-        response: {
-          person: companion,
-          text: (distance <= 1.2) && "I'm proud of you" || "That's not good for you"
-        }
-      });}
+      if (moving) {
+        permanent_pain -= 0.02;
+        temporary_pain -= 0.03;
+        player.speech.push ({
+          text: "Yay!",
+          age: 0,
+          response: {
+            person: companion,
+            text: (distance <= 1.2) && "I'm proud of you" || "That's not good for you"
+          }
+        });
+      }
       collision.receiving = (collision.receiving || 0) + 0.7/frames_per_second;
       if (collision.receiving >1) {
         //hack: destroy
@@ -634,6 +646,9 @@ function tick() {
     player.falling_down = false;
     pause_next_frame = false;
   }
+  
+  temporary_pain += (permanent_pain - temporary_pain)/(2*frames_per_second);
+  transient_pain += (temporary_pain - transient_pain)/(frames_per_second/20);
 
   companion.pronouncements.forEach (function (pronouncement) {
     if (companion.last_pronouncement && companion.last_pronouncement + pronouncement.delay_from_any >time) {return;}
@@ -648,6 +663,17 @@ function tick() {
       }
     }
   });
+  
+  canvas_context.save();
+  canvas_context.beginPath();
+  //canvas_context.moveTo()
+  canvas_context.rect (0, 0, width, height);
+  canvas_context.scale (width, height);
+  canvas_context.arc(0.5, 0.5, (1-transient_pain)/Math.sqrt (2), 0, turn, true);
+  //canvas_context.globalCompositeOperation = "destination-in";
+  canvas_context.fillStyle = "rgb(0,0,0)";
+  canvas_context.fill();
+  canvas_context. restore();
   
   draw_speech (player);
   draw_speech (companion);
