@@ -386,6 +386,22 @@ function draw_thing (thing) {
   canvas_context.fillText ("?", 0, 0);
 
   }
+  if (thing.kind == "monster") {
+    var radius = game_width*thing.radius;
+    var progress = thing.receiving || 0;
+    generic_polygon ([- radius*0.8, 0, radius*0.8, 0, 0, - radius*1.6]);
+    for (var index = 0; index <3;++index) {
+      for (var direction= -1; direction<=1;direction+=2) {
+        var height = (0.2 + index/3);
+        var tips = (thing.attacking !== undefined) && (1-thing.attacking*1.5) || 1;
+        canvas_context.beginPath();
+        canvas_context.moveTo (radius*direction/3, - radius*(height+0.8));
+        canvas_context.quadraticCurveTo (radius*direction, - radius*(height+0.6), radius*direction*tips, - radius*height);
+        canvas_context.quadraticCurveTo (radius*direction*0.84, - radius*(height+0.4), radius*direction/3, - radius*(height+0.2));
+        close_generic_shape();
+      }
+    }
+  }
 
   
   canvas_context.restore();
@@ -559,6 +575,7 @@ function tick() {
   
   if (moving && Math.random() < 16/frames_per_second) {
     var thing = {kind: "tree", distance: thing_start_distance, position: player.position + ((Math.random()*2) - 1)*20, radius: 0.05};
+    if (Math.random() <0.1) {thing.kind = "monster"; thing.radius = 0.05;}
     if (Math.random() <0.05) {thing.kind = "reward"; thing.radius = 0.03;}
     if (Math.random() <0.1) {thing.kind = "box"; thing.radius = 0.03;}
     stuff.push (thing);
@@ -568,7 +585,12 @@ function tick() {
   var collision;
   
   stuff = stuff.filter (function (thing) {
-    if (moving && thing.kind != "person") {thing.distance -= 1/seconds_to_travel_visible/frames_per_second;}
+    if (moving && thing.kind != "person") {
+      thing.distance -= 1/seconds_to_travel_visible/frames_per_second;
+      if (thing.kind == "monster") {
+        thing.position += (((Math.random()*2) - 1)*0.1 + (player.position - thing.position)*0.03)/frames_per_second;
+      }
+    }
     if (thing.distance < -0.3) {return false;}
     if (thing.distance >player.distance && thing.distance <= player.distance + 2/seconds_to_travel_visible/frames_per_second && Math.abs (thing.position - player.position) <thing.radius + player.radius &&!(collision && collision.distance < thing.distance)) {
       collision = thing;
@@ -633,6 +655,9 @@ function tick() {
           age: 0,
         });
         var thing = {kind: "reward", distance: collision.distance + 0.001, position: collision.position, radius: 0.03};
+        if (Math.random() < 0.24) {
+          thing.kind = "monster"; thing.radius = 0.05;
+        }
         stuff.push (thing);
       }
       collision.receiving = (collision.receiving || 0) + 1.5/frames_per_second;
@@ -641,6 +666,26 @@ function tick() {
         collision.distance = - 1;
       }
     }
+    if (collision.kind == "monster") {
+      if (moving) {
+        permanent_pain += 0.02;
+        temporary_pain += 0.3;
+        player.speech.push ({
+          text: "Ow, it hurts!",
+          age: 0,
+          response: {
+            person: companion,
+            text: (distance <= 1.2) && "Liar, that would never happen on the path" || "It's your fault for straying"
+          }
+        });
+      }
+      collision.attacking = (collision.attacking || 0) + 2/frames_per_second;
+      if (collision.attacking>1) {
+        // wander past the player without disappearing
+        collision.distance = player.distance - 0.001;
+      }
+    }
+
   }
   else {
     player.falling_down = false;
@@ -673,7 +718,7 @@ function tick() {
   //canvas_context.globalCompositeOperation = "destination-in";
   canvas_context.fillStyle = "rgb(0,0,0)";
   canvas_context.fill();
-  canvas_context. restore();
+  canvas_context.restore();
   
   draw_speech (player);
   draw_speech (companion);
