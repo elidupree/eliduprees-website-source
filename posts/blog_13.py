@@ -215,6 +215,60 @@ This tends to give me a lot of useless and/or <a href="/blog/imagine-a-ball-but-
 ''',
 },
 
+{
+"title": "How to Train Your Brain, Part 1",
+"tags": ["neurodiversity"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+
+A lot of people assume that you can't train creativity or intelligence. I know that's not true, because I've done it myself. That is, I have improved my intelligence &ndash; including <a href="https://en.wikipedia.org/wiki/Fluid_intelligence">fluid intelligence</a> &ndash; through deliberate training.
+
+Here's the real reason people think you can't do it: We just haven't figured out the best <em>techniques</em> for training your brain yet. That's understandable, since brains are complicated and <a href="/blog/neurodiversity">different for different people</a>. Since other people haven't invented the best techniques yet, I was forced to invent a lot of techniques myself.
+
+I'm very interested to see whether I can share my techniques with other people. A lot of them are internal and <a href="/blog/imagine-a-ball-but-not-what-color-it-is">untranslatable</a>, but I think a lot of them can be explained &ndash; and they might even be useful for other people. This post is my first attempt to do that.
+
+<h2>The basics</h2>
+
+I'm going to explain a few of the basic ideas that I always use when I train myself. This is <strong>general brain training</strong>. It's not specifically "intelligence training" or "anger management training" or "memory training", although I've used it for all of those things.
+
+To help explain the ideas, I'm going to use a specific example from my life. When I was around 10 years old, I was a bit nervous about going into dark places. I thought that was a silly thing to be nervous about, so I changed it, using an older version of these techniques. I'm going to use this example because it is a relatively <em>simple</em> task: "I get nervous, and my goal is to stop getting nervous." Intelligence is much more complicated, so I'm going to leave that for a later post.
+
+<h3>1. Observe your brain</h3>
+
+"I get nervous when I go into dark places" is a good place to start, but there's lots more to learn. Am I nervous about the <em>idea</em> of going into the dark, or only the actual <em>experience</em> of having the darkness around me? If I <em>imagine</em> going into a dark place, does that trigger the nervousness too? What if I imagine different <em>kinds</em> of dark places &ndash; big open ones, small cramped ones, etc.? How about turning all the lights off in a room that I'm already standing in?
+
+When you're doing this kind of thing, the goal is to imagine something that will <em>trigger the nervousness on purpose</em>. The more different ways you find to trigger it, the more you'll understand where it's coming from. You could think of yourself like a doctor, poking in different places to see where it hurts.
+
+By exploring these questions, you can figure out exactly what part of your brain is causing the problem. In my case, it turned out that my brain was perceiving unknown dark spaces as a <em>possible threat</em>. I was nervous about going <em>close</em> to a large dark space, but I wasn't bothered by darkness if I already had a good sense of what was around me. For instance, a tiny dark closet wasn't a problem at all, because my brain didn't feel like there was enough room in the closet for anything spooky.
+
+If you're trying to gain a new ability instead, look around your brain for anything that does something similar to what you want. Just like before, keep poking it in different ways to see what makes it do its thing.
+
+<h3>2. Teach it the correct way</h3>
+
+Once I knew what I wanted, I repeatedly imagined myself going into dark spaces <em>while remaining calm</em>.
+
+Your conscious thoughts are only a tiny part of your whole brain. Your conscious thoughts are easy to change, but that's not the point &ndash; the point is to change the large mass <em>behind</em> the conscious thoughts. You could imagine your conscious thoughts as a broom, and the rest as a huge heap of sand. Dragging the broom a long way away won't move the sand, but if you move the broom in just the <em>right</em> way, you can slowly <em>sweep</em> the sand in the direction you want.
+
+So how do you sweep your brain? Generally, when you imagine doing something, it uses a lot of the same neurons that you use when you <em>actually</em> do the thing. By imagining something, you can walk yourself through the process that you <em>want</em> to happen, rather than the process that happens normally. Think of it as waking up a specific part of your brain, then showing it what to do.
+
+This is where your observations become really important. You have to wake up the exact part of your brain that you want to change. In my case, I had to imagine exactly the situations that would normally make me nervous. I could have easily imagined staying calm while going in a dark closet, but that wouldn't have been useful.
+
+<h3>3. Never fight with yourself</h3>
+
+If you're trying to imagine staying calm, and you find yourself feeling nervous anyway, <em>don't</em> keep trying to stay calm. Stop imagining and start over, and try doing it a different way next time. Your brain will remember exactly how you imagined it, whether it was right or wrong. You can never teach your brain that the <em>wrong</em> way is <em>wrong</em>. You can only teach it that the <em>right</em> way is <em>right</em>. 
+
+Therefore, you have to keep thinking of new things to try until you find one that works <em>and</em> is right. Maybe you can make it work if you practice imagining similar things, then come back to the important one after you've gotten more automatic at imagining it the right way. Maybe instead of trying to replace nervousness with calm, you can focus on a stronger feeling, like pride or conviction.
+
+A lot of people talk about "suppressing" their emotions, or keeping them "bottled up". This is completely different from my techniques. When you suppress an emotion, you're not changing that part of your brain at all &ndash; you're just trying to stop it from waking up. With my techniques, you deliberately wake up the problem parts, so that you can permanently reshape them to be less of a problem.
+
+
+
+
+''',
+},
+
 
 ]
 
