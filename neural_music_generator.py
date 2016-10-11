@@ -34,6 +34,8 @@ $(function(){
   var audio = new (window.AudioContext || window.webkitAudioContext)();
   var rate = audio.sampleRate;
   var generator_buffer_length = 2048;
+  
+  var turn = Math.PI*2;
     
   var source;
   var analyzer = audio.createAnalyser ();
@@ -145,10 +147,18 @@ game_element.click (function (event) {
   generator_node.onaudioprocess = window.global_hack.audio_process = function (event) {
     update_dimensions();
     var output = event.outputBuffer.getChannelData (0);
+    memory = multiply (memory, current_matrix);
+    
+    var log_min = Math.log (20);
+    var log_max = Math.log (20000);
+    var half_log_range = (log_max - log_min)/2;
     
     for (var sample = 0; sample <generator_buffer_length;++sample) {
-      output [sample] = memory [0];
-      memory = multiply (memory, current_matrix);
+      output [sample] = 0;
+      for (var index = 0; index <10;++index) {
+        var frequency = Math.exp (log_min + (memory [index]+1)*half_log_range);
+        output [sample] += Math.sin (frequency*turn*sample/rate);
+      }
     }
   }
 });
