@@ -233,7 +233,7 @@ I'm very interested to see whether I can share my techniques with other people. 
 
 I'm going to explain a few of the basic ideas that I always use when I train myself. This is <strong>general brain training</strong>. It's not specifically "intelligence training" or "anger management training" or "memory training", although I've used it for all of those things.
 
-To help explain the ideas, I'm going to use a specific example from my life. When I was around 10 years old, I was a bit nervous about going into dark places. I thought that was a silly thing to be nervous about, so I changed it, using an older version of these techniques. I'm going to use this example because it is a relatively <em>simple</em> task: "I get nervous, and my goal is to stop getting nervous." Intelligence is much more complicated, so I'm going to leave that for a later post.
+To help explain the ideas, I'm going to use a specific example from my life. When I was around 10 years old, <cut>I was a bit nervous about going into dark places. I thought that was a silly thing to be nervous about, so I changed it, using an older version of these techniques. I'm going to use this example because it is a relatively <em>simple</em> task: "I get nervous, and my goal is to stop getting nervous." Intelligence is much more complicated, so I'm going to leave that for a later post.
 
 <h3>1. Observe your brain</h3>
 
@@ -263,7 +263,7 @@ Therefore, you have to keep thinking of new things to try until you find one tha
 
 A lot of people talk about "suppressing" their emotions, or keeping them "bottled up". This is completely different from my techniques. When you suppress an emotion, you're not changing that part of your brain at all &ndash; you're just trying to stop it from waking up. With my techniques, you deliberately wake up the problem parts, so that you can permanently reshape them to be less of a problem.
 
-
+In Part 2, I think I'll talk about how I use these same techniques to make myself better at remembering new information.
 
 
 ''',
