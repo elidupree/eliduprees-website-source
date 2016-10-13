@@ -143,6 +143,64 @@ game_element.click (function (event) {
   game_element.append (base_canvas).append (current_canvas);
 
   generator_node.connect (audio.destination);
+  
+  var time = 0;
+  function evaluate (node) {
+    if (typeof node === 'number') {return node;}
+    return node.evaluate (node.parameters);
+  }
+  function total (parameters) {
+    var result = 0;
+    parameters.forEach (function (parameter) {
+      result += evaluate (parameter);
+    });
+    return result;
+  }
+  function product (parameters) {
+    var result = 1;
+    parameters.forEach (function (parameter) {
+      result *= evaluate (parameter);
+    });
+    return result;
+  }
+  function get_time() {return time;}
+  function sin (parameters) {
+    return Math.sin (evaluate (parameters [0])*40);
+  }
+  
+  function generate_random_node (level) {
+    if (level <= 0) {
+      if (Math.random() <0.5) {
+        return Math.random()*2-1;
+      }
+      else {
+        return {evaluate: get_time};
+      }
+    }
+    if (Math.random() <0.3) {
+      return {
+        parameters: [generate_random_node (level-1), generate_random_node (level-2)],
+        evaluate: total
+      };
+    }
+    if (Math.random() <0.4) {
+      return {
+        parameters: [generate_random_node (level-1), generate_random_node (level-2)],
+        evaluate: product
+      };
+    }
+      return {
+        parameters: [generate_random_node (level-1)],
+        evaluate: sin
+      };
+  }
+  
+  var root = {
+          parameters: [generate_random_node (5)],
+                  evaluate: sin
+                };
+  console.log (root);  console.log (evaluate (root));console.log (evaluate (Math.random()*2-1));
+  
     
   generator_node.onaudioprocess = window.global_hack.audio_process = function (event) {
     update_dimensions();
@@ -154,11 +212,13 @@ game_element.click (function (event) {
     var half_log_range = (log_max - log_min)/2;
     
     for (var sample = 0; sample <generator_buffer_length;++sample) {
-      output [sample] = 0;
-      for (var index = 0; index <10;++index) {
-        var frequency = Math.exp (log_min + (memory [index]+1)*half_log_range);
-        output [sample] += Math.sin (frequency*turn*sample/rate);
-      }
+      time += 1/rate;
+      output [sample] = evaluate (root);
+      //output [sample] = 0;
+      //for (var index = 0; index <10;++index) {
+      //  var frequency = Math.exp (log_min + (memory [index]+1)*half_log_range);
+      //  output [sample] += Math.sin (frequency*turn*sample/rate);
+      //}
     }
   }
 });
