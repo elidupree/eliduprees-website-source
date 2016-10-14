@@ -64,7 +64,7 @@ $(function(){
   var histogram_canvas = document.getElementById("histogram_canvas").getContext("2d");
   var min_pitch = 80;
   var Max_pitch = 3000;
-var pitch_analyzer = new PitchAnalyzer (rate);
+  //var pitch_analyzer = new PitchAnalyzer (rate);
   
   var recent_magnitudes_size = 1;
   var recent_magnitudes_scale = 1;
@@ -94,6 +94,7 @@ var source;
   var recording_height = 100;
   var current_playback;
   var current_recording;
+  var focused_recording;
   var recordings = [];
   var pause_during_playback;
   var auto_recording;
@@ -190,7 +191,7 @@ function stop_playback (force) {
       var X = event.pageX - offset.left;
       if (X <0) {X = 0;}
       stop_playback (true);
-      var start_position =X/recording_1_second_width;
+      var start_position =X*output.lines.length/output.canvas.width()/recording_1_second_width;
       begin_playback (output, start_position);
     });
     output.play_button = $("<div/>").addClass ("recording_button").click (function () {
@@ -206,22 +207,41 @@ function stop_playback (force) {
       var blob = new window.Blob([ new DataView(wav) ], { type: 'audio/wav' });
       download (blob, output.filename, "audio/wav");
     });
-    output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button);
+    output.zoom_button = $("<div/>").addClass ("recording_button").click (function () {
+      if (focused_recording) {
+        var old = focused_recording;
+        focused_recording = undefined;
+        draw_recording (old);
+        if (old === output) { return; }
+      }
+      focused_recording = output;
+      draw_recording (output);
+    });
+    output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button).append (output.zoom_button);
     $(".recordings").append (output.element);
     output.canvas_context = output.canvas [0].getContext("2d");
     return output;
   }
   function draw_recording (recording) {
     var context = recording.canvas_context;
-    recording.canvas.attr("width", recording.lines.length);
-    if(recording=== current_recording) {
+    var width = recording.lines.length;
+    var height = recording_height;
+    if (recording === focused_recording) {
+      width = $("body").width()*0.95;
+      height = $("body").height()*0.95;
+      recording.zoom_button.html ('<i class="fa fa-search-minus"></i>');
+    }
+    else {
+      recording.zoom_button.html ('<i class="fa fa-search-plus"></i>');
+    }
+    recording.canvas.attr("width", width).attr ("height", height);
+    if(recording === current_recording) {
       context.fillStyle = "rgb(0, 0, 0)"
-      } else {
+    } else {
       context.fillStyle = "rgb(50, 50, 50)"
-            }
-    var width = recording.canvas.width ();
-    var height = recording.canvas.height ();
+    }
     context.fillRect (0, 0, width, height);
+    
     var previous = 0;
     for (var I = 0; I <recording.lines.length;++I) {
       var X = (I + 1)*width/recording.lines.length;
@@ -230,21 +250,34 @@ function stop_playback (force) {
       if (recording.pitches [I] !== -1) {
         var pitch_fraction = (Math.log (recording.pitches [I] ) - Math.log (min_pitch))/Math.log (Max_pitch/min_pitch);
         context.fillStyle = "rgb(255, 255, 255)"
-        context.fillRect (X, height*(1 - pitch_fraction), X - previous, 1);
+        context.fillRect (X, height*(1 - pitch_fraction)-1, X - previous, 2);
       }
       previous = X;
     }
-    if (current_playback && current_playback.recording=== recording) {
-recording.play_button.html ('<i class="fa fa-stop"></i>');
-    context.strokeStyle = "rgb(255, 255, 0)"
-    context.beginPath ();
-      var X = (current_playback.start_position + (audio.currentTime - current_playback.start_time))*recording_1_second_width; context.moveTo (X, 0); context.lineTo (X, recording_height); context.stroke ();
+    if (recording === focused_recording) {
+      var black_keys = [false, true, false, false, true, false, true, false, false, true, false, true];
+      for (var semitones = 0; ; ++semitones) {
+        var pitch = 55 * Math.pow (2, semitones/12);
+        if (pitch >Max_pitch) {break;}
+        var pitch_fraction = (Math.log (pitch) - Math.log (min_pitch))/Math.log (Max_pitch/min_pitch);
+        context.fillStyle = black_keys[semitones % 12] && "rgba(40, 40, 40, 0.5)" || "rgba(255, 255, 255, 0.5)";
+        context.fillRect (0, height*(1 - pitch_fraction), width, 1);
+      }
+    }
+
+    if (current_playback && current_playback.recording === recording) {
+      recording.play_button.html ('<i class="fa fa-stop"></i>');
+      context.strokeStyle = "rgb(255, 255, 0)"
+      context.beginPath ();
+      var X = ((current_playback.start_position + (audio.currentTime - current_playback.start_time))*recording_1_second_width)*width/recording.lines.length;
+      context.moveTo (X, 0);
+      context.lineTo (X, height);
+      context.stroke ();
     }
     else {
-    recording.play_button.html ('<i class="fa fa-play"></i>');
+      recording.play_button.html ('<i class="fa fa-play"></i>');
     }
   }
-
   
   analyzer.maxDecibels = 0;
   analyzer.fftSize = 2048;
