@@ -135,6 +135,12 @@ game_element.click (function (event) {
   randomize (mod_magnitudes);
   mouse_moved (event);
 });
+  var log_min = Math.log (20);
+  var log_max = Math.log (3500);
+  var log_range = (log_max - log_min);
+  var half_log_range = (log_max - log_min)/2;
+  var log_very_min = Math.log (1/(4*60));
+  var log_very_range = (log_max - log_very_min);
   
   var base_canvas = $("<canvas>");
   var current_canvas = $("<canvas>");
@@ -181,7 +187,13 @@ game_element.click (function (event) {
     return Math.sin (time*turn*evaluate (parameters [0])+evaluate (parameters [1]));
   }
   function adjusted_sin (parameters) {
-    return Math.sin (time*turn*(evaluate (parameters [0])+evaluate (parameters [1])*evaluate (parameters [2]))+evaluate (parameters [3]));
+    return Math.sin (
+      time*turn*Math.exp (
+        evaluate (parameters [0])+
+        (evaluate (parameters [1])*evaluate (parameters [2]))
+      )
+      +evaluate (parameters [3])
+    );
   }
   
   function generate_random_node_1 (level) {
@@ -216,13 +228,7 @@ game_element.click (function (event) {
                   evaluate: sin_hack
                 };
   console.log (root);  console.log (evaluate (root));console.log (evaluate (Math.random()*2-1));
-  
-  var log_min = Math.log (20);
-  var log_max = Math.log (3500);
-  var log_range = (log_max - log_min);
-  var half_log_range = (log_max - log_min)/2;
-  var log_very_min = Math.log (1/(30));
-  var log_very_range = (log_max - log_very_min);
+ 
     
   function generate_random_node_2 (level, ancestor, force_sin) {
     if (level <= 0) {
@@ -231,7 +237,7 @@ game_element.click (function (event) {
       }
       else {
         return {
-          parameters: [Math.exp (log_very_min + Math.random()*log_very_range), Math.random()*5000],
+          parameters: [Math.exp (log_very_min + Math.random()*log_very_range), Math.random()*turn],
           evaluate: sin_frequency
         };
       }
@@ -246,23 +252,40 @@ game_element.click (function (event) {
         evaluate: average
       };
     }
-    if (Math.random() <0.4) {
+    if (Math.random() <0.6) {
       return {
         parameters: [ancestor(level), ancestor(level)],
         evaluate: product
       };
     }
-    if (Math.random() <0.4) {
+    if (Math.random() <0.5) {
       return {
-        parameters: [Math.random()*5, ancestor(level)],
+        parameters: [Math.random()*10, ancestor(level)],
         evaluate: adjusted_sigmoid
       };
     }
     }
       return {
-        parameters: [Math.random()*half_log_range, half_log_range, ancestor(level), Math.random()*5000],
+        parameters: [log_min+Math.random()*log_range, Math.random()*half_log_range, ancestor(level), Math.random()*turn],
         evaluate: adjusted_sin
       };
+  }
+  
+  function approximate_pitch_hack (node) {
+    if (typeof node === 'number') {return 9999999999;}
+    if (node.evaluate === sin_frequency) {return node.parameters [0];}
+    var result = 999999999;
+    node.parameters.forEach (function (parameter) {
+      var a = approximate_pitch_hack(parameter);
+      result = Math.min (result, Math.abs (a));
+      node.parameters.forEach (function (parameter2) {
+        var b = approximate_pitch_hack (parameter2);
+        var difference = a - b;
+        result = Math.min (result, Math.abs (difference));
+      });
+    });
+    if (node.evaluate === adjusted_sin) {return Math.min(1,result)/200;}
+    return result;
   }
   
   function random_range (min, max) {
@@ -274,7 +297,16 @@ game_element.click (function (event) {
   var components = []
   function ancestor(level) {
   console.log (random_range (0, components.length));
-    return components [random_range (0, components.length)];
+    var first = components [random_range (0, components.length)];
+    var second = components [random_range (0, components.length)];
+    if (first.evaluate === adjusted_sin) { return ancestor(level); }
+    if (second.evaluate === adjusted_sin) { return ancestor(level); }
+    var first_hack = approximate_pitch_hack (first);
+    var second_hack = approximate_pitch_hack (second);
+    //if (first_hack < 1/3500) { return ancestor(level); }
+    //if (second_hack < 1/3500) { return ancestor(level); }
+    if (first_hack > second_hack || first_hack > 2) { return first; }
+    return second;
   }
   for (var index = 0; index <20; ++index) {
     components.push (generate_random_node_2 (0, ancestor));
