@@ -64,6 +64,8 @@ $(function(){
   var histogram_canvas = document.getElementById("histogram_canvas").getContext("2d");
   var min_pitch = 80;
   var Max_pitch = 3000;
+  var turn = Math.PI*2;
+  var cent_magnitudes;
   //var pitch_analyzer = new PitchAnalyzer (rate);
   
   var recent_magnitudes_size = 1;
@@ -305,6 +307,12 @@ function stop_playback (force) {
       recent_magnitudes [I] = recent_magnitudes [I + 1];
       recent_pitches [I] = recent_pitches [I + 1];
     }
+    if (cent_magnitudes) {
+      var replace_with = cent_magnitudes.best_pitch_representative;
+      while (frequency > 1 && replace_with < frequency/Math.sqrt (2)) {replace_with *= 2;}
+      while (frequency > 1 && replace_with > frequency*Math.sqrt (2)) {replace_with /= 2;}
+      frequency = replace_with;
+    } 
     recent_magnitudes [recent_magnitudes_size - 1] = magnitude;
     recent_pitches [recent_magnitudes_size - 1] = frequency;
     
@@ -370,6 +378,10 @@ function stop_playback (force) {
     draw_recording (current_recording);
   }
   
+  function frequency_to_cents (frequency) {
+    return Math.log (frequency)/Math.log (Math.pow (2,1/1200))
+  }
+  
   var last_line_added = audio.currentTime;
   var line_adding_increment = 1/recording_1_second_width;
   function draw () {
@@ -380,12 +392,29 @@ function stop_playback (force) {
     var height = Math.min (128, $("body").height ()/4);
     
     $("#histogram_canvas").attr("width", width).attr("height", height);
+    
+    cent_magnitudes = []
+    for (var index = 0; index <1200;++index) {cent_magnitudes.push (0);}
         
     histogram_canvas.fillStyle = "rgb(0, 0, 0)"
     histogram_canvas.fillRect (0, 0, width, height);
     histogram_canvas.fillStyle = "rgb(255, 0, 0)"
-var previous = 0;
+    var previous = 0;
     for (var I = 0; I <frequency_buffer_length;++I) {
+      if (I >= 2) {
+        var min_frequency = I*rate/frequency_buffer_length/2;
+        var max_frequency = (I+1)*rate/frequency_buffer_length/2;
+        var min_cents = frequency_to_cents (min_frequency);
+        var max_cents = frequency_to_cents (max_frequency);
+        //console.log (max_cents - min_cents);
+        for (var index = Math.floor (min_cents); index < max_cents;++index) {
+          var value = frequency_data [I]/256/4;
+          if (index < min_cents) {value *= 1 - (min_cents - Math.floor(min_cents));}
+          if (index+1 > max_cents) {value *= max_cents - Math.floor(max_cents);}
+          cent_magnitudes [index % 1200] += value;
+        }
+      }
+      
       total = total + frequency_data [I];
       var X = (I + 1)*width/frequency_buffer_length;
       var Y =frequency_data [I]*height/256
@@ -395,6 +424,28 @@ var previous = 0;
     }
     var average = total/frequency_buffer_length;
     if (current_playback) {draw_recording (current_playback.recording);}
+    
+    histogram_canvas.beginPath();
+    var best = 0;
+    for (var index = 0; index < 1200;++index) {
+      var first = width/2 + height/2*cent_magnitudes[index]*Math.sin (index*turn/1200);
+      var second = height/2 + height/2*cent_magnitudes[index]*Math.cos (index*turn/1200);
+      if (index == 0) {
+        histogram_canvas.moveTo (first, second);
+      } else {
+        histogram_canvas.lineTo (first, second);
+      }
+      if (cent_magnitudes[index] > cent_magnitudes[best]) {best = index;}
+    }
+    cent_magnitudes.best = best;
+    cent_magnitudes.best_pitch_representative = Math.pow(2, best/1200)*256;
+    histogram_canvas.closePath();
+    histogram_canvas.strokeStyle = "rgb(0,255,0)"
+    histogram_canvas.fillStyle = "rgb(0,255,0)"
+    histogram_canvas.stroke();
+    var first = width/2 + height/2*cent_magnitudes[best]*Math.sin (best*turn/1200);
+    var second = height/2 + height/2*cent_magnitudes[best]*Math.cos (best*turn/1200);
+    histogram_canvas.fillRect (first-6, second-6, 12, 12);
   }
   draw ();
 
