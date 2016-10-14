@@ -235,9 +235,9 @@ game_element.click (function (event) {
         };
       }
     }
-    function ancestor(level) {
-      return generate_random_node_2 (Math.floor (Math.random()*level-0.01))
-    }
+    //function ancestor(level) {
+    //  return generate_random_node_2 (Math.floor (Math.random()*level-0.01))
+    //}
     if (Math.random() <0.3) {
       return {
         parameters: [ancestor(level), ancestor(level)],
@@ -257,14 +257,29 @@ game_element.click (function (event) {
       };
     }
       return {
-        parameters: [Math.random()*40, ancestor(level)],
+        parameters: [Math.random()*20, ancestor(level)],
         evaluate: adjusted_sin
       };
   }
   
+  function random_range (min, max) {
+    return min + Math.floor (Math.random()*(max - min));
+  }
+  
   var depth = 12;
+  var components = []
+  function ancestor(level) {
+  console.log (random_range (0, components.length));
+    return components [random_range (0, components.length)];
+  }
+  for (var index = 0; index <20; ++index) {
+    components.push (generate_random_node_2 (0, ancestor));
+  }
+  for (var index = 0; index <190; ++index) {
+    components.push (generate_random_node_2 (1, ancestor));
+  }
   root = {
-    parameters: [generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth)],
+    parameters: components.slice (-8), //[generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth)],
     evaluate: average
   };
   console.log (root);  console.log (evaluate (root));console.log (evaluate (Math.random()*2-1));
