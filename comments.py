@@ -1316,5 +1316,64 @@ Also, think about what people would have said to Granger after ze was attacked b
   "id":"50cb76653e67f7b3e952379abb5b0086",
   "date_posted":datetime.date(2016, 7, 26)
 },
+{
+  "parent":"1ea559bc34fcd5809e4f265009d00d6",
+  "username":"momothefiddler",
+  "contents":"""Having a pain scale is useful (I've certainly fiddled with my own varying pain scales), and I also have trouble remembering pain (or any other) sensations! However, I've found that while this sort of scale is <em>honest</em> and <em>internally useful</em>, as far as I can tell, when doctors or other hospital folk use a 1-10 scale, they... don't mean it. By which I mean, any reasonable scale that <em>actually</em> uses 10 as "worst pain imaginable" ends up giving you numbers like 3 and 6 for <em>really very problematic pain</em>, while, based on everything I've seen in hospitals, responding to their questions with 6, not to mention 3, will cause medical workers to ignore your pain.
+<br><br>
+As a result, I've decided to go with something vaguely logarithmic rather than linear (though I haven't laid it out with breakpoints like this because I've only actually used it once) <em>for doctor purposes</em>, but your scale here is certainly useful for non-doctor purposes and I think I'll start using it.""",
+  "id":"5b16d065f934ae06571bb197980b7f50",
+  "date_posted":datetime.date(2016, 8, 3)
+},
+{
+  "parent":"5b16d065f934ae06571bb197980b7f50",
+  "username":"Eli Dupree",
+  "contents":"""Yeah, that is an issue. Doctors don't always listen to their patients or respect their patients, and that's bad. If you're in that situation, it's fair to say whatever number you think will get you the proper medical attention.<br><br>I've especially heard of doctors (and other medical staff) refusing to take <em>black</em> patients' pain seriously – which they justify by claiming that black people "exaggerate". I've even heard of black patients saying 8 or 9 when they want to say 10, because they will hope it will make the untrustworthy doctors believe they're not exaggerating. I hope we can make doctors be less terrible in the future.<br><br>Personally, I have mostly interacted with doctors who respected me, and took the time to pay attention to exactly what I mean by the numbers.""",
+  "id":"2f6f01f3525f351788e194450e76a844",
+  "date_posted":datetime.date(2016, 8, 3)
+},
+{
+  "parent":"2f6f01f3525f351788e194450e76a844",
+  "username":"momothefiddler",
+  "contents":"""<q>If you're in that situation, it's fair to say whatever number you think will get you the proper medical attention.</q><br>On one hand this is an important self-advocacy thing!<br>On the other I find that it's easier for me to justify it to myself when I think about it less confrontationally as, like, the way language works? It's not <em>lying</em> to say the words that properly communicate your sensations into the other person's head!<br>(Perhaps that is a broader discussion about my brain function and getting around internal blocks, but if it helps other people get around similar blocks....)""",
+  "id":"c42282ccb09510c7d34966ec4d46431",
+  "date_posted":datetime.date(2016, 8, 3)
+},
+{
+  "parent":"c42282ccb09510c7d34966ec4d46431",
+  "username":"Eli Dupree",
+  "contents":"""That makes sense. I tend to suggest more-confrontational ways of thinking because they're the ones that <em>I'm</em> most comfortable with. But both ways have their advantages.""",
+  "id":"27f1f3a769ac5edd0c9c10bd47a0ec11",
+  "date_posted":datetime.date(2016, 8, 3)
+},
+{
+  "parent":"e3b65d12b0a1b35f2b46f2cdadb10e5",
+  "username":"momothefiddler",
+  "contents":"""i like the idea of a story that never explicitly buys into the imprisoned evil being trope, but is similar enough overall (mysterious being is imprisoned, offers rewards for freedom, whatever) that the revelation in the reader that this being is clearly <em>not</em> evil prompts an examination of the trope itself.<br><br>of course, thats just my favorite way of dealing with that sort of thing, because that way you dont <em>support</em> the unmerited assumption but you <em>do</em> draw attention to it, though i definitely acknowledge the possibility that i overuse the idea""",
+  "id":"76e024b170b41b06014943f472ddae64",
+  "date_posted":datetime.date(2016, 8, 10)
+},
+{
+  "parent":"d04e531e495dead8d8cc8de43373aac",
+  "username":"idupree",
+  "contents":""""Of course you should."<br><br>Citation needed. Depending on the genie's motivations and context, some people will refuse that offer, for example related to https://en.wikipedia.org/wiki/Ultimatum_game . Are the lives to save randomly selected from the world? Is the genie more like a drug or a military operation? Is it a spokesgenie for the KKK? Does the genie recognize (depending who it makes the offer to) how it is insulting that person? A search also showed me https://en.wikipedia.org/wiki/Inequity_aversion<br><br>But I don't think you're meaning to defend equality's lack of intrinsic value. You're just trying to introduce that as an idea some people feel affinity with, so you can talk about it.<br><br>"We don't have to transfer [harassment, abuse, etc] to someone else"<br><br>Apparently a lot of people do implement "equality" by choosing a new scapegoat. Can we link to resources about how to deal with this, because I don't understand it thoroughly enough to write about it?""",
+  "id":"eae13f070dd6c8ce821ee95a97d47662",
+  "date_posted":datetime.date(2016, 8, 17)
+},
+{
+  "parent":"23cc0640b5ab20968997a4838cc97b",
+  "username":"momothefiddler",
+  "contents":"""It's interesting to me that, even in this disambiguation page, you're still largely referring to absolute, singular deities. Do you have thoughts on the type outside that exemplified by abrahamic religions? There also seems to be a border somewhere between animism and pantheism and your Transcendent that I don't really have hammered down, as well as the (as far as I can tell common) situation where people seem to be somewhere between the canon of their religion and the Transcendent? Perhaps that's just a situation where I'm not understanding them and their beliefs about brains make it hard for them to explain to me.<br><br>Guess that got a little rambly, sorry. Feel free to ignore some or all of it. I'm not the most coherent right now, but I'm still interested in your opinions.""",
+  "id":"56cb24a64e7fc3b2e55fc245d7a58332",
+  "date_posted":datetime.date(2016, 9, 21)
+},
+{
+  "parent":"23cc0640b5ab20968997a4838cc97b",
+  "username":"Adia",
+  "contents":"""Thanks for posting this. I had a recent encounter with some devout religious folks, and found their actions confusing. """,
+  "id":"c34df8d242e0dd6fad43dc82482915d2",
+  "date_posted":datetime.date(2016, 9, 22)
+},
+
 
 ]

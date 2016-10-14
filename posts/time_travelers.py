@@ -4,14 +4,13 @@
 
 import re
 import utils
+import html
 
 
 posts = [
 {
   "title":"Time Travelers and How to Kill Them: a Practical Guide",
   "blurb": "A fictional book written in a world with many forms of time travel.",
-  "don't deploy": True,
-"auto_paragraphs": True,
 "authors_notes":'''
 
 <p>There are a lot of stories with time travel in them, but very few that try to establish a consistent set of rules about how time travel works. I enjoy designing fictional systems, so I decided to do something about that. It was quite a challenge to design systems that behave <em>similarly</em> to the inconsistent systems from stories, while still being consistent themselves. I think I did a pretty good job, though.</p>
@@ -20,7 +19,7 @@ posts = [
 
 <p>Another common thing in stories with time travel is that it's usually the protagonists who have time travel. Their enemies usually don't have any time travel powers, or, at worst, they have the same amount as the protagonists do. I decided to amuse myself by writing this document from the opposite perspective: you have to fight against time travelers without having any time travel powers yourself. That makes for a much bigger challenge. It also helped force me to think out all the details of how each power worked.</p>
 
-
+<p>I'm not sure there's any ultimate <em>purpose</em> to this book &ndash; after all, time travel doesn't exist, and assassinating people is a bad idea. You could say it was just an exercise in thinking things through from a certain perspective. Back when I wrote the first draft of this book, it was also one of the first big things I wrote after I got my current speech recognition software, so it helped me get used to using that.</p>
 
 ''',
   "head":'''<style>
@@ -29,6 +28,7 @@ posts = [
   .table_of_contents { display: block; margin:0.2em 0;}
   .table_of_contents_3 { padding-left:1.5em;}
   .table_of_contents_4 { padding-left:3em;}
+  pre {overflow: scroll;}
  </style>''', 
 },
 ]
@@ -76,7 +76,7 @@ Although there are many types of time travel, they have enough in common that mu
 
 <h3>1.1: Countering time travel</h3>
 
-<h4>Destroy the source</h4>
+<h4>Destroy The Source</h4>
 
 All time travel abilities have a specific source &ndash; usually a machine, a spirit, or a human being. If you want to stop the time travel, you have to destroy the source.
 
@@ -109,14 +109,14 @@ Of particular interest is the possibility of sending messages back in time to <e
 
 Some time travelers can't go back more than a certain amount of time. Suppose that your enemy cannot go back farther than one hour. Now suppose also that you know they will be attending a two-hour lecture. If you secretly lock the doors behind them at the beginning of the lecture, then wait until the end of the lecture to strike, they won't be able to go back to before they were locked in. (Don't make the mistake of relying on a trap like this to keep them contained in the long-term, though. Only use a technique like this as part of a larger plan to destroy the source of the time travel.)
 
-Those who can go back much more than one hour usually have other limitations. Some have to <em>wait</em> a certain amount of time before they can use their power again, making certain attacks possible during the cooldown period. Some abilities can only be used a certain number of times in total, making it possible to force (or trick) the time traveler and using up their ability.
+Those who can go back much more than one hour usually have other limitations. Some have to <em>wait</em> a certain amount of time before they can use their power again, making certain attacks possible during the cooldown period. Some abilities can only be used a certain number of times in total, making it possible to force (or trick) the time traveler into using up their ability.
 
 
 <h3>1.2: Spotting time travelers</h3>
 
 Most time travelers try to hide the fact that they are time travelers. If one of your enemies is a time traveler, it is crucial for you to figure that out as soon as possible. With equal importance, you must not let the time traveler realize that you have discovered them.
 
-Each type of time travel has its own telltale signs. (See Part Three, "Specific Types of Time Travel".) However, there are also signs that are common to all types of time travel.
+Each type of time travel has its own telltale signs. (See Part two, "Specific types of time travel".) However, there are also signs that are common to all types of time travel.
 
 Firstly, all time travelers run the risk of getting confused about the passage of time as others experience it. Especially careless time travelers might act confused about time in ordinary conversations, or even reveal that they remember events that haven't happened yet. With smart time travelers, don't rely too much on obvious giveaways, since they are likely to keep close track of time themselves. In that case, you can sometimes spot the time traveler when they display an unusually accurate memory of when things happened. This is, of course, merely circumstantial evidence, since many people possess unusually good or bad memories naturally.
 
@@ -181,9 +181,9 @@ If you're already known for having powers like these, you may be worse off than 
 
 
 
-<h2>Part two: Specific Types of Time Travel</h2>
+<h2>Part two: Specific types of time travel</h2>
 
-<h3>2.1: Personal Time Reversal</h3>
+<h3>2.1: Personal Time Reversers</h3>
 
 We cover this type of time travel first because it is the easiest to understand: it is the smallest departure from conventional reality. Reversers, unlike other time travelers, can never be in two places at once, and cannot even attempt to cause paradoxes. However, they are every bit as dangerous.
 
@@ -431,7 +431,7 @@ One might ask, "if they can't actually change how things turn out, how do we kno
 Certain time travel historical societies have a policy of only keeping long-term records of long-leapers who die while trying to kill Hitler, and not of those who survive and return to the future, in order to make the luck manipulation more likely to let them survive. Other societies, particularly exterminationist ones, only keep records of the ones who <em>survive</em>, to make them more likely to die. However, these societies occasionally change leadership, and the new leaders often expunge the records kept by the old ones, rendering the decision moot.
 
 
-<h3>2.5: A Brief Note on Oracles</h3>
+<h3>2.5: A brief note on Oracles</h3>
 
 The power to predict the future has many similarities to the power to travel into the past. Time travelers, like oracles, often have knowledge of possible futures. Oracles, like time travelers, are rarely seen taking actions that have bad results.
 
@@ -444,6 +444,143 @@ Most reverser-like oracles have a limit to how far they can see into the future.
 Some reverser-like oracles have another weakness as well: they are unable to predict their own future predictions. That is, in each potential future such an oracle sees, the oracle never makes another prediction. Thus, one way to kill them is to wait until you see them using their power, then strike immediately. Since you only kill them immediately after they make a prediction, they never see you kill them in any of their earlier predictions &ndash; only the last one, which hopefully doesn't give them enough time to react.
 
 If the oracle is aware of this strategy, they could theoretically make a habit of predicting what happens if they <em>pretend</em> to receive further predictions. If you suspect that your oracle would do this, you must fall back to a different strategy, such as leading the oracle into a trap. However, unlike a short-term reverser, an oracle must spend a certain amount of real time to make each prediction. Thus, they are much less likely to take obscure defensive measures such as this.
+
+<h2>Appendix: Time as a computer program</h2>
+
+We here provide an approximate implementation of the time travel rules in JavaScript. It is not intended to run on any <em>actual</em> computer, but it serves to illustrate the exact rules and some potential interactions of the various time travel powers.
+
+This implementation is an experimental first draft, first published with this edition of this book. It will likely need to be refactored in future editions to handle all interactions correctly.
+
+This implementation also simplifies physics by using a series of simulation steps ("ticks") rather than a continuum, and gives no consideration to relativity.
+
+'''
+program = '''
+
+<pre> <code class="language-javascript">
+
+'''+html.escape('''function present (history) { return history [history.length - 1];}
+
+function tick (history) {
+  history.push (deepcopy (present (history)));
+  /* Do physics on the new moment of history,
+  possibly calling some of the time travel functions below. */
+}
+
+function reverse (history, person, target_time) {
+  var transferred_mind = person.mind;
+  while (history.length > target_time + 1) {history.pop();}
+  history [target_time].find_person (person).mind = transferred_mind;
+}
+
+function paradox_clone (history, person, target_time, destination, ability_info) {
+  var area = history [target_time].find_area (destination);
+  if (area.density() > ability_info.density_limit
+       && ability_info.arrival_type === "safe") {return;}
+  if (area.density() > ability_info.density_limit
+       && ability_info.arrival_type === "weak") {
+    present (history).erase_person (person);
+    return;
+  }
+  while (history.length > target_time + 1) {history.pop();}
+  if (area.density() > ability_info.density_limit) {area.insert (person);}
+  else {area.replace (person);}
+}
+
+function imagine (history, person, ability_info, imagined_arrivals) {
+  /* In our current model, the imagination power cannot be nested.
+  That is, you cannot use it during your own simulations.
+  If you could, it wouldn't be clear how the actualization power
+  decides which simulation to apply to.
+  
+  However, that would imply that many consistent coilers have a
+  moment of vulnerability at the end of each successful simulation,
+  because they can't have any duplicates or future knowledge if they
+  haven't been able to imagine further than that yet.
+  
+  We have not observed such moments of weakness, so further research
+  is clearly needed. */
+  if (person.current_coil_simulation) {return;}
+  
+  var start = history.length - 1;
+  function simulate (arrivals) {
+    /* Note: it's not technically correct that these arrivals
+    are only a local variable in this function.
+    They need to be recorded in the history state instead.
+    Otherwise, if (for instance) a reverser goes back 
+    to before one of the arrivals,
+    the arrival doesn't happen the second time.
+    We write it this way for now for ease of understanding. */
+    arrivals.sort_by (when);
+    person.current_coil_simulation.next_arrivals = [];
+    for (var which = 0; which < arrivals.length; ++which) {
+      var arrival = arrivals [which];
+      while (history.length <= arrival.when) {
+        tick (history);
+      }
+      var area = present (history).find_area (arrival.where);
+      if (area.density() <= ability_info.density_limit) {
+        area.insert (arrival.who);
+      }
+    }
+    while (history.length <= start + ability_info.time_limit) {
+      tick (history);
+    }
+  }
+  person.current_coil_simulation = {next_arrivals: imagined_arrivals};
+  for (var which = 0; which < ability_info.max_simulations; ++which) {
+    var last_result = present (history);
+    while (history.length > start + 1) {history.pop();}
+    simulate (person.current_coil_simulation.next_arrivals);
+    if (difference (present (history), last_result)
+         < ability_info.inconsistency_limit) {
+      present (history).find_person (person).current_coil_simulation = null;
+      return;
+    }
+  }
+  while (history.length > start + 1) {history.pop();}
+}
+
+function actualize (history, person, target_time, destination) {
+  if (person.current_coil_simulation) {
+    present (history).erase_person (person);
+    person.current_coil_simulation.next_arrivals.push ({
+      who: person, when: target_time, where: destination});
+  }
+}
+
+function long_leap (history, person, target_time, destination, ability_info) {
+  var area = history [target_time].find_area (destination);
+  if (area.density() > ability_info.density_limit) {return;}
+  var start = history.length - 1;
+  var old_history = deepcopy (history);
+  while (history.length > target_time + 1) {history.pop();}
+  
+  /* Like the coiler implementation, this arrival can be erased by a reverser.
+  We don't believe this should be possible, but further research is needed
+  to determine the exact interaction. */
+  area.replace (person);
+  
+  /* For this to find a working result, max_simulations needs to be HUGE,
+  somewhere between a googol and a googolplex. For simplicity, we will assume
+  that JavaScript's numeric type can handle such numbers. */
+  for (var which = 0; which < ability_info.max_simulations; ++which) {
+    history [target_time].random_seed = which;
+    while (history.length <= start) {tick (history);}
+    if (difference (present (history), present (old_history))
+         < ability_info.inconsistency_limit) {
+      present (history).erase_person (person);
+      return;
+    }
+  }
+  
+  /* If no possible simulation was found,
+  the time travel attempt simply fails. */
+  history = old_history;
+}
+
+''')+'''
+
+</code> </pre>
 '''
 
 table_of_contents = []
@@ -456,5 +593,6 @@ def thing (match):
   return ("<bigbreak>" if match.group (1) == "2" else "") +'<a id="' + fragment + '">' + match.group (0)+ "</a>" 
 contents = re.sub(r"<h(.)>(.*?)</h.>", thing, contents)
 contents =re.sub(r"<TOC>", "".join (table_of_contents), contents)
+contents = utils.auto_paragraphs (contents) + program
 
 posts [0] ["contents"] = contents

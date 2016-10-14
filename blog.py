@@ -319,7 +319,7 @@ div.transcript_block {border: 1px solid black;}
 div.transcript_header {padding:0.5em;}
 div.transcript_content {padding:0.5em; border-top:1px dashed black;}
   
-div.blog_post span.inline_quote {background-color:#f0f0f0; color:#404040; border-radius:0.5em; }
+span.inline_quote {background-color:#f0f0f0; color:#404040; border-radius:0.5em; }
 div.block_quote_outer {margin:0.9em 0;}
 blockquote {padding: 0.25em; background-color:#f0f0f0; color:#404040;  margin-left: 2.5em; margin-right: 2.8em; margin-top: 0; margin-bottom: 1em; }
 p.reply_input_info { padding-left: 0.5em; }
@@ -972,12 +972,13 @@ def consider_list_for_current_page (list, limit = 8):
     if date_posted (post) >= date_posted (current_blog_page [0]):
       current_blog_page_extras.append (post)
       
+#Hack: this code puts comments (and other stuff) AFTER everything else, because a comment on the same day as another post is likely to be a comment ON that post. In the future, maybe we should have a more precise ordering system for recent stream entries, although we never want to store exact times posted, for privacy reasons.
+consider_list_for_current_page (comments.comments, 4)
 for list in comics.comics_pages.values ():
   consider_list_for_current_page (list)
 consider_list_for_current_page (blog_posts.posts ["stories"])
-consider_list_for_current_page (comments.comments, 4)
 current_blog_page_extras.reverse ()
-current_blog_page = sorted (current_blog_page_extras + current_blog_page, key = date_posted)
+current_blog_page = sorted (current_blog_page + current_blog_page_extras, key = date_posted)
 page_lists ["blog"] [len (page_lists ["blog"])-1] = current_blog_page
 
 def recent_updates (how_many):

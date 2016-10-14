@@ -140,6 +140,13 @@
   "remembered_annotation": "a6c69f04ac8324c86781744a6cd82967ac7462abcc8377257efa20df74d5ca4edcabd6e0fa9834d8d579a295f9c27764",
   "remembered_transcript": "1b1784bac5602792a93c7b33f7cfd307572f8d0ec613d93509b93b3465c7d1e9d5333e6d236d0090ee4bb708cf019713"
  },
+ "A Critique and Defense of Equality": {
+  "date_modified": "2016-08-17",
+  "date_posted": "2016-08-17",
+  "deployed": true,
+  "id": "d04e531e495dead8d8cc8de43373aac",
+  "remembered_contents": "d7665663b477f9e42beffbeff7741e2933fe6be8b85deacefd20b8bc7e7d2f59367fc2080566e0c1397c464d0e98e6b6"
+ },
  "A few concepts I need": {
   "date_modified": "2011-06-27",
   "date_posted": "2011-06-27",
@@ -230,6 +237,20 @@
   "id": "fcfc157d9b5dd799dd2cb28109cf4d8",
   "remembered_contents": "0a184a4ee20c33183f1f79e985b7af2564aa1cad9c0a8ab8ba2bb7887f282f2f3111db2601ee64bd2e14de7f43c644f4"
  },
+ "Consenting in Advance": {
+  "date_modified": "2016-08-24",
+  "date_posted": "2016-08-24",
+  "deployed": true,
+  "id": "5f0db752e53cfb40432249af20299ff",
+  "remembered_contents": "8f317d6748826455ed4ec27ca55198e33d1a1b1a55f949325213b9cc5c979850b218dd9bf21158b840ec10c6e05bdb68"
+ },
+ "Eli status: August 2016": {
+  "date_modified": "2016-08-21",
+  "date_posted": "2016-08-21",
+  "deployed": true,
+  "id": "8dde1ac2dee95c389fbb51165580fd0",
+  "remembered_contents": "7b6b634f219bbc4af06c50e0ad3154b0d3833204bdb07d21b9160e345bdeebace46527f7c1f2e911e6a234faf4c55c09"
+ },
  "First progress!": {
   "date_modified": "2011-06-12",
   "date_posted": "2011-06-12",
@@ -243,6 +264,13 @@
   "deployed": true,
   "id": "4155fdd076353a7f996f160d2663fa06",
   "remembered_contents": "2054cfb23e4deee0b5e55f3739893d8552e42696362c7c4f8acd1f66e885bee7de5d1a20b5b6c7282f4674b89e4693c7"
+ },
+ "Gods and atheism": {
+  "date_modified": "2016-09-21",
+  "date_posted": "2016-09-21",
+  "deployed": true,
+  "id": "23cc0640b5ab20968997a4838cc97b",
+  "remembered_contents": "13728e2f95f33ca87357955974f61bd95cf294f41d2f502415edae83e89e7602e5f362cb4dce970abea42e1ebac95894"
  },
  "Happy Tau Day!": {
   "date_modified": "2011-06-28",
@@ -269,6 +297,11 @@
   "deployed": true,
   "id": "d2c804969243f5f7f2dbf1cc6f8814f1",
   "remembered_contents": "02eff58f862e4c47ffdaa0adef40ad786bf5ad86b870a43eb36ca5a2fdffa758db3df399f3587bb4708ca64e6be42514"
+ },
+ "How to Train Your Brain, Part 1": {
+  "date_modified": "2016-10-11",
+  "date_posted": "2016-10-11",
+  "id": "377cda24af23e893dedf6a93dc51ec"
  },
  "I made biscuits!": {
   "date_modified": "2013-06-16",
@@ -304,6 +337,13 @@
   "deployed": true,
   "id": "b8d3df5567ce10c2c742ab67c3f2813",
   "remembered_contents": "90da24ee06207939ec0df210a75ad187d0af553a538652038388668a41a2b73ed386a3314df6a009784fe5d0b221e652"
+ },
+ "Imagine a ball, but not what color it is.": {
+  "date_modified": "2016-09-28",
+  "date_posted": "2016-09-28",
+  "deployed": true,
+  "id": "c783dc41ee543e7413d7fcc90d2402",
+  "remembered_contents": "9ae1126066c61eeee4d83ac0c1fbc09652b54d44a4296e73e7b3871794dabfbb7278ae681f627ff7dbf7b9e14ed63160"
  },
  "Imagining pain": {
   "date_modified": "2016-07-24",
@@ -372,9 +412,11 @@
   "remembered_contents": "5083e323d64655943ebbb73a834ca5fa926e75e10b962a70a36a2fec83d4728df83c6c03e53a186e357c476a64f36088"
  },
  "My 0-10 pain scale": {
-  "date_modified": "2016-07-25",
-  "date_posted": "2016-07-25",
-  "id": "1ea559bc34fcd5809e4f265009d00d6"
+  "date_modified": "2016-08-03",
+  "date_posted": "2016-08-03",
+  "deployed": true,
+  "id": "1ea559bc34fcd5809e4f265009d00d6",
+  "remembered_contents": "8164ebb45d1bb73a0852c1139c68e1e23cb71179af4d1260746b1c6b97f9a4e0c618d2791435f470b0d7600dc98b3eef"
  },
  "Neurodiversity": {
   "date_modified": "2016-07-24",
@@ -428,6 +470,13 @@
   "deployed": true,
   "id": "ccf81c1d873dede7e5944f93638240b1",
   "remembered_contents": "842e40c714208ff307a5e1527de28929dae404774154a6e98cfe34e4a79b5692951a371915813175f9832f0bb85eb3e0"
+ },
+ "On Virtues": {
+  "date_modified": "2016-09-07",
+  "date_posted": "2016-09-07",
+  "deployed": true,
+  "id": "5d7a8f2f8d67df557d89e6fcbfb518f",
+  "remembered_contents": "45711cf1da90234d1631e42b3b7b4a1a564a0de27d1e679b64360167575139035c9527d379eed38fbc8b515a29f59c4d"
  },
  "People Are Wrong Sometimes, page 1": {
   "date_modified": "2011-01-26",
@@ -622,15 +671,38 @@
   "remembered_contents": "5c492d015dc0d0c1de049ffe08a666e0e99a0f550bda56e5e5984e417933cacd9a628f0e5c88d54313f341935f976340"
  },
  "Story idea(s): The imprisoned good being": {
-  "date_modified": "2016-07-31",
-  "date_posted": "2016-07-31",
-  "id": "e3b65d12b0a1b35f2b46f2cdadb10e5"
+  "date_modified": "2016-08-10",
+  "date_posted": "2016-08-10",
+  "deployed": true,
+  "id": "e3b65d12b0a1b35f2b46f2cdadb10e5",
+  "remembered_contents": "e855fe75d009ace4a2b6a71ca7b6c7096f5dff2a7b25f7913e56bc0d7763475a742d873530e163c3199b732cb857436f"
  },
  "Story idea: ": {
   "date_modified": "2016-06-03",
   "date_posted": "2011-07-06",
   "id": "e690c468852d0a6659163f7fd51e6a4f",
   "remembered_contents": "08d3e6676e0da21b41acd3101f66a0767a387f304334d4da02ec84d45a4a83c05384702e12fbdf293cac5ad3db9c0338"
+ },
+ "Story idea: The \"Big Data Killer\"": {
+  "date_modified": "2016-08-31",
+  "date_posted": "2016-08-31",
+  "deployed": true,
+  "id": "85fa856856cd3191f14f2c64ae3df67",
+  "remembered_contents": "758c4bebfa918edbe8611fb586e93daaa2a7b23f8796e354c3d3b998f0fb18bcdb606b6fa5642a3cf83a27809388dc0c"
+ },
+ "Story idea: The <q>Big Data Killer</q>": {
+  "date_modified": "2016-08-31",
+  "date_posted": "2016-08-31",
+  "deployed": true,
+  "id": "2ee95bc73d8550b32710cb5d1609361",
+  "remembered_contents": "758c4bebfa918edbe8611fb586e93daaa2a7b23f8796e354c3d3b998f0fb18bcdb606b6fa5642a3cf83a27809388dc0c"
+ },
+ "Story idea: The Power of Love": {
+  "date_modified": "2016-09-14",
+  "date_posted": "2016-09-14",
+  "deployed": true,
+  "id": "d3a312eb4b1929ae8d71fca5f501a37",
+  "remembered_contents": "0fbe250cd1cad940bcfe82c5a3443cf8609149b03d51b14f5e1808129d431584deac4a504b41e6b8f98f9eb2fc1b98fb"
  },
  "Story idea: The Shell": {
   "date_modified": "2016-06-03",
@@ -657,6 +729,13 @@
   "deployed": true,
   "id": "e690c468852d0a6659163f7fd51e6a4f",
   "remembered_contents": "08d3e6676e0da21b41acd3101f66a0767a387f304334d4da02ec84d45a4a83c05384702e12fbdf293cac5ad3db9c0338"
+ },
+ "Story idea: The \u201cBig Data Killer\u201d": {
+  "date_modified": "2016-08-31",
+  "date_posted": "2016-08-31",
+  "deployed": true,
+  "id": "c7f13daf3f42c52443b11a07b4d0af5",
+  "remembered_contents": "758c4bebfa918edbe8611fb586e93daaa2a7b23f8796e354c3d3b998f0fb18bcdb606b6fa5642a3cf83a27809388dc0c"
  },
  "Story idea: the shell": {
   "date_modified": "2016-06-03",
@@ -717,14 +796,18 @@
   "remembered_contents": "ea08fcf8e6249c0cd023b340ba1be4eddbd52582167edf96dd79187133a69a9cc6469bf2a0805843487a2f1925f5413c"
  },
  "Time Travelers and How to Kill Them: a Practical Guide": {
-  "date_modified": "2016-07-27",
-  "date_posted": "2016-07-27",
-  "id": "671e9e2e9d75fa7f367f57f10d55081"
+  "date_modified": "2016-08-11",
+  "date_posted": "2016-08-07",
+  "deployed": true,
+  "id": "671e9e2e9d75fa7f367f57f10d55081",
+  "remembered_contents": "505d3ee62561f16994f43768a62fcbb85671019242125c780806dc23ff68ceea1845c004c0b4c919ab2abacfd9c8f76b"
  },
  "Time Travelers and How to Kill Them: a Practical Guide: Discussion": {
-  "date_modified": "2016-07-27",
-  "date_posted": "2016-07-27",
-  "id": "9f9dc9f1a6d4f95c87f0cbaa8c090c6"
+  "date_modified": "2016-08-07",
+  "date_posted": "2016-08-07",
+  "deployed": true,
+  "id": "9f9dc9f1a6d4f95c87f0cbaa8c090c6",
+  "remembered_contents": "824ffc9119bb411809c7bd52928a1ab005cc2e7b0cf92d105137e75c8a7949e0c48ab3dde9525bdf90a02a7d9abb2faa"
  },
  "Tired of coding": {
   "date_modified": "2011-07-17",
@@ -1687,5 +1770,12 @@
   "deployed": true,
   "id": "bdc6144c86f5c4049532b0f39ba781a7",
   "remembered_contents": "914a951c761255630f0de8c7653b33df90332acdc0544eeeb46de03db2a73e9a329ef400cf03a57ba536e6b018d89414"
+ },
+ "\u201cTuning out\u201d and \u201cDream thinking\u201d": {
+  "date_modified": "2016-10-05",
+  "date_posted": "2016-10-05",
+  "deployed": true,
+  "id": "e97722f3c8e0c4643ea16e6c83500b4",
+  "remembered_contents": "03d14f08b70a0b1bbf2899194443af7065bd1b5ad8365b73c0ea7b4d10d178076e9b89b2f75006957f739a79751bbb66"
  }
 }

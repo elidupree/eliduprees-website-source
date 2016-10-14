@@ -199,7 +199,7 @@ function stop_playback (force) {
       if (!stop) { begin_playback (output, 0);}
     });
     var date = new Date ();
-    output.date_string = date.getFullYear () + "-" + date.getMonth () + "-" + date.getDate () + "-" + date.getHours ()  + "-" + date.getMinutes ()  + "-" + date.getSeconds () ;
+    output.date_string = date.getFullYear () + "-" + (date.getMonth () + 1) + "-" + date.getDate () + "-" + date.getHours ()  + "-" + date.getMinutes ()  + "-" + date.getSeconds () ;
     output.filename ="recording-" + output.date_string + ".wav";
     output.save_button = $("<div/>").addClass ("recording_button").html ('<i class="fa fa-floppy-o"></i>').click (function () {
       var wav = audioBufferToWav(output.buffer);
