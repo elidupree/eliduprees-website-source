@@ -178,10 +178,10 @@ game_element.click (function (event) {
     return Math.sin (evaluate (parameters [0])*40);
   }
   function sin_frequency (parameters) {
-    return Math.sin (time*evaluate (parameters [0])*turn);
+    return Math.sin (time*turn*evaluate (parameters [0])+evaluate (parameters [1]));
   }
   function adjusted_sin (parameters) {
-    return Math.sin (evaluate (parameters [0])*evaluate (parameters [1]));
+    return Math.sin (time*turn*(evaluate (parameters [0])+evaluate (parameters [1])*evaluate (parameters [2]))+evaluate (parameters [3]));
   }
   
   function generate_random_node_1 (level) {
@@ -218,19 +218,20 @@ game_element.click (function (event) {
   console.log (root);  console.log (evaluate (root));console.log (evaluate (Math.random()*2-1));
   
   var log_min = Math.log (20);
-  var log_max = Math.log (5000);
+  var log_max = Math.log (3500);
+  var log_range = (log_max - log_min);
   var half_log_range = (log_max - log_min)/2;
-  var log_very_min = Math.log (1/(4*60));
+  var log_very_min = Math.log (1/(30));
   var log_very_range = (log_max - log_very_min);
     
-  function generate_random_node_2 (level, ancestor) {
+  function generate_random_node_2 (level, ancestor, force_sin) {
     if (level <= 0) {
       if (Math.random() <0.5) {
         return Math.random()*2-1;
       }
       else {
         return {
-          parameters: [Math.exp (log_very_min + Math.random()*log_very_range)],
+          parameters: [Math.exp (log_very_min + Math.random()*log_very_range), Math.random()*5000],
           evaluate: sin_frequency
         };
       }
@@ -238,6 +239,7 @@ game_element.click (function (event) {
     //function ancestor(level) {
     //  return generate_random_node_2 (Math.floor (Math.random()*level-0.01))
     //}
+    if (!force_sin) {
     if (Math.random() <0.3) {
       return {
         parameters: [ancestor(level), ancestor(level)],
@@ -256,8 +258,9 @@ game_element.click (function (event) {
         evaluate: adjusted_sigmoid
       };
     }
+    }
       return {
-        parameters: [Math.random()*20, ancestor(level)],
+        parameters: [Math.random()*half_log_range, half_log_range, ancestor(level), Math.random()*5000],
         evaluate: adjusted_sin
       };
   }
@@ -267,6 +270,7 @@ game_element.click (function (event) {
   }
   
   var depth = 12;
+  var surface = 12;
   var components = []
   function ancestor(level) {
   console.log (random_range (0, components.length));
@@ -278,8 +282,11 @@ game_element.click (function (event) {
   for (var index = 0; index <190; ++index) {
     components.push (generate_random_node_2 (1, ancestor));
   }
+  for (var index = 0; index <surface ; ++index) {
+    components.push (generate_random_node_2 (1, ancestor, true));
+  }
   root = {
-    parameters: components.slice (-8), //[generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth)],
+    parameters: components.slice (-surface), //[generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth)],
     evaluate: average
   };
   console.log (root);  console.log (evaluate (root));console.log (evaluate (Math.random()*2-1));
