@@ -378,8 +378,9 @@ function stop_playback (force) {
     draw_recording (current_recording);
   }
   
+  var inv_log_cent_ratio = 1/Math.log (Math.pow (2,1/1200));
   function frequency_to_cents (frequency) {
-    return Math.log (frequency)/Math.log (Math.pow (2,1/1200))
+    return Math.log (frequency)*inv_log_cent_ratio;
   }
   
   var last_line_added = audio.currentTime;
