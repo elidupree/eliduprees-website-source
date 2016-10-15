@@ -104,27 +104,31 @@ var source;
   var iterate_playback;
   var logarithmic;
   
-var no = function (underlay) {return '<span class="fa-stack force_small">  <i class="fa fa-' + underlay + ' fa-stack-1x"></i> <i class="fa fa-ban fa-stack-1x text-danger fa-lg"></i></span>';};
+  var no = function (underlay) {return '<span class="fa-stack force_small">  <i class="fa fa-' + underlay + ' fa-stack-1x"></i> <i class="fa fa-ban fa-stack-1x text-danger fa-lg"></i></span>';};
   
-function stop_playback (force) {
+  function stop_playback (force) {
     if (current_playback) {
-    var old_player = current_playback.player;
-    var redraw = current_playback.recording;
-    current_playback = undefined;
-    if (old_player) {old_player.stop ();}
-    source.connect (analyzer);
-    /*disconnecting from only one thing at a time doesn't seem to work*/
-    playback.disconnect (analyzer);
-    playback.connect (audio.destination);
-    
-    draw_recording (redraw);
-    if (iterate_playback && redraw.next &&!force) {begin_playback (redraw.next, 0);}
+      var old_player = current_playback.player;
+      var redraw = current_playback.recording;
+      current_playback = undefined;
+      if (old_player) {old_player.stop ();}
+      source.connect (analyzer);
+      /*disconnecting from only one thing at a time doesn't seem to work*/
+      playback.disconnect (analyzer);
+      playback.connect (audio.destination);
+      
+      draw_recording (redraw);
+      if (iterate_playback && redraw.next && !force) {
+        begin_playback (redraw.next, 0);
+      }
     }
   }
+  
   function singleton_panel(elem) {
     elem.addClass ("control");
     return $("<div/>").addClass ("control_panel").append(elem);
   }
+  
   function set_current_recording (recording) {
     var old_recording = current_recording;
     current_recording = recording;
@@ -140,7 +144,7 @@ function stop_playback (force) {
           saving = true;
           var zip = new JSZip();
           for (var I = 0; I <recordings.length;++I) {
-      var wav = audioBufferToWav(recordings [I].buffer);
+            var wav = audioBufferToWav(recordings [I].buffer);
             var blob = new window.Blob([ new DataView(wav) ], { type: 'audio/wav' });
             zip.file (recordings [I].filename, blob);
           }
@@ -154,8 +158,9 @@ function stop_playback (force) {
       if (auto_playback) {begin_playback (old_recording, 0);}
     }
   }
+  
   function begin_playback (recording, start_position) {
-  var last_length = recording.next_sample;
+      var last_length = recording.next_sample;
       var start_function = function () {
         var new_start_position =current_playback.start_position + (audio.currentTime - current_playback.start_time);
         var current_end = recording.next_sample/rate;
@@ -184,8 +189,8 @@ function stop_playback (force) {
         playback.connect (analyzer);
       }
       start_function ();
-
   }
+  
   function create_recording () {
     var output = {buffer: audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: [], pitches: []};
     output.canvas = $("<canvas/>").attr("width", 1).attr("height", recording_height).addClass ("recording").click (function (event) {
@@ -224,6 +229,7 @@ function stop_playback (force) {
     output.canvas_context = output.canvas [0].getContext("2d");
     return output;
   }
+  
   function draw_recording (recording) {
     var context = recording.canvas_context;
     var width = recording.lines.length;
