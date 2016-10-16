@@ -302,6 +302,8 @@ def add_game_pages(page_dict):
   voice_practice_tool.add_page (page_dict)
   import neural_music_generator
   neural_music_generator.add_page (page_dict)
+  import codecophony 
+  codecophony.add_page (page_dict)
   
   return
   (maze_CSS, maze_HTML) = generate_maze (100, 100)

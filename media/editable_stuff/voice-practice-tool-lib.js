@@ -1,7 +1,7 @@
 /* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
 window.global_hack = {}
 $(function(){
-  var audio = new (window.AudioContext || window.webkitAudioContext)();
+  var audio = window.audio_context_instance = new (window.AudioContext || window.webkitAudioContext)();
   var rate = audio.sampleRate;
   var recorder_buffer_length = 2048;
   var histogram_canvas = document.getElementById("histogram_canvas").getContext("2d");
@@ -135,14 +135,14 @@ var source;
   }
   
   function create_recording (initial_buffer) {
-    var output = {buffer: initial_buffer || audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: [], pitches: []};
+    var output = {buffer: initial_buffer || audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: initial_buffer && initial_buffer.length || 0, lines: [], pitches: []};
     
     if (initial_buffer) {
       var data = initial_buffer.getChannelData (0);
       for (var sample = 0; sample <data.length;sample += recorder_buffer_length) {
         var analysis = analyze_samples (data.slice (sample, sample + recorder_buffer_length));
-        output.lines.push (magnitude);
-        output.pitches.push (frequency);
+        output.lines.push (analysis.magnitude);
+        output.pitches.push (analysis.frequency);
       }
     }
     
@@ -186,6 +186,7 @@ var source;
     output.canvas_context = output.canvas [0].getContext("2d");
     return output;
   }
+  window.create_recording = create_recording;
   
   function draw_recording (recording) {
     var context = recording.canvas_context;
@@ -243,6 +244,7 @@ var source;
       recording.play_button.html ('<i class="fa fa-play"></i>');
     }
   }
+  window.draw_recording = draw_recording;
   
   analyzer.maxDecibels = 0;
   analyzer.fftSize = 2048;
