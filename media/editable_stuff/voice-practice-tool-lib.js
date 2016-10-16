@@ -1,4 +1,3 @@
-
 /* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
 window.global_hack = {}
 $(function(){
@@ -135,8 +134,18 @@ var source;
       start_function ();
   }
   
-  function create_recording () {
-    var output = {buffer: audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: [], pitches: []};
+  function create_recording (initial_buffer) {
+    var output = {buffer: initial_buffer || audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: [], pitches: []};
+    
+    if (initial_buffer) {
+      var data = initial_buffer.getChannelData (0);
+      for (var sample = 0; sample <data.length;sample += recorder_buffer_length) {
+        var analysis = analyze_samples (data.slice (sample, sample + recorder_buffer_length));
+        output.lines.push (magnitude);
+        output.pitches.push (frequency);
+      }
+    }
+    
     output.canvas = $("<canvas/>").attr("width", 1).attr("height", recording_height).addClass ("recording").click (function (event) {
       var offset = output.canvas.offset ();
       var X = event.pageX - offset.left;
@@ -145,11 +154,13 @@ var source;
       var start_position =X*output.lines.length/output.canvas.width()/recording_1_second_width;
       begin_playback (output, start_position);
     });
+    
     output.play_button = $("<div/>").addClass ("recording_button").click (function () {
       var stop = (current_playback && current_playback.recording === output);
       stop_playback (true);
       if (!stop) { begin_playback (output, 0);}
     });
+    
     var date = new Date ();
     output.date_string = date.getFullYear () + "-" + (date.getMonth () + 1) + "-" + date.getDate () + "-" + date.getHours ()  + "-" + date.getMinutes ()  + "-" + date.getSeconds () ;
     output.filename ="recording-" + output.date_string + ".wav";
@@ -158,6 +169,7 @@ var source;
       var blob = new window.Blob([ new DataView(wav) ], { type: 'audio/wav' });
       download (blob, output.filename, "audio/wav");
     });
+    
     output.zoom_button = $("<div/>").addClass ("recording_button").click (function () {
       if (focused_recording) {
         var old = focused_recording;
@@ -168,6 +180,7 @@ var source;
       focused_recording = output;
       draw_recording (output);
     });
+    
     output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button).append (output.zoom_button);
     $(".recordings").append (output.element);
     output.canvas_context = output.canvas [0].getContext("2d");
@@ -236,36 +249,44 @@ var source;
   var frequency_buffer_length = analyzer.frequencyBinCount; 
   var frequency_data = new Uint8Array(frequency_buffer_length);
   
-  recorder.onaudioprocess = window.global_hack.audio_process = function (event) {
-    var input = event.inputBuffer.getChannelData (0);
+  function analyze_samples(buffer, live) {
     var square_total = 0;
-    for (var sample = 0; sample <recorder_buffer_length;++sample) {
-      square_total += input [sample]*input [sample];
+    for (var sample = 0; sample < buffer.length;++sample) {
+      square_total += buffer[sample]*buffer[sample];
     }
-    var magnitude = Math.sqrt (square_total/recorder_buffer_length);
+    var magnitude = Math.sqrt (square_total/buffer.length);
     magnitude = 1-(Math.log (magnitude)/Math.log (1/1024));
 
-    /*pitch_analyzer.input (input);
+    /*pitch_analyzer.input (buffer);
     pitch_analyzer.process ();
     var tone =pitch_analyzer.findTone ();
     var frequency = -1;
     if (tone !== null) {frequency = tone.freq;}*/
-    var frequency = autoCorrelate (input, rate);
-    $(".recent_magnitudes_caption").text ("" + frequency);
+    var frequency = autoCorrelate (buffer, rate);
     
     for (var I = 0; I <recent_magnitudes_size - 1 ;++I) {
       recent_magnitudes [I] = recent_magnitudes [I + 1];
       recent_pitches [I] = recent_pitches [I + 1];
     }
-    if (cent_magnitudes) {
+    if (live && cent_magnitudes) {
       var replace_with = cent_magnitudes.best_pitch_representative;
       while (frequency > 1 && replace_with < frequency/Math.sqrt (2)) {replace_with *= 2;}
       while (frequency > 1 && replace_with > frequency*Math.sqrt (2)) {replace_with /= 2;}
       frequency = replace_with;
-    } 
+    }
+    return {frequency: frequency, magnitude: magnitude};
+  }
+  
+  recorder.onaudioprocess = window.global_hack.audio_process = function (event) {
+    var input = event.inputBuffer.getChannelData (0);
+    var analysis = analyze_samples (input, true);
+    var magnitude = analysis.magnitude;
+    var frequency = analysis.frequency;
+
     recent_magnitudes [recent_magnitudes_size - 1] = magnitude;
     recent_pitches [recent_magnitudes_size - 1] = frequency;
     
+    $(".recent_magnitudes_caption").text ("" + frequency);
   recent_magnitudes_size = Math.ceil (rate*2/recorder_buffer_length);
   recent_magnitudes_scale = Math.ceil (Math.min ($("body").width ()/3, 200)/recent_magnitudes_size);
   recent_magnitudes_width =recent_magnitudes_size*recent_magnitudes_scale;
