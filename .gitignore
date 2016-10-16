@@ -3,3 +3,4 @@
 *.pkl
 /build
 /__pycache__
+Thumbs.db
