@@ -1,11 +1,20 @@
 var items;
 var stack;
 
+// A wrapper to stop eval() from changing variables local to the codecophony internals
+function codecophony_internals_evaluate_script (source) {
+  return eval (source);
+}
+
+//A wrapper to namespace isolate the codecophony internals from user scripts
+var codecophony = (function() {
+
+var evaluate_script = codecophony_internals_evaluate_script;
+
 function message_main (message) {
   self.postMessage (message);
 }
 
-// TODO: namespace isolate some of these from user scripts
 function run_script (name) {
   var item = items [name];
   item.began = true;
@@ -16,7 +25,7 @@ function run_script (name) {
   });
   var success = false;
   try {
-    item.result = eval (item.source);
+    item.result = evaluate_script (item.source);
     success = true;
   } catch (error) {
     self.postMessage ({
@@ -89,3 +98,14 @@ var handlers = {
 self.onmessage = function (event) {
   handlers [event.data.action] (event.data);
 }
+
+return {get: get, create: create};
+
+})();
+
+// Hide the wrapper function
+codecophony_internals_evaluate_script = undefined;
+
+// Conveniences for the user
+var get = codecophony.get;
+var create = codecophony.create;
