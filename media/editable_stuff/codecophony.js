@@ -6,6 +6,15 @@ var audio = window.audio_context_instance;
 
 var items = {
   //random_data:{item_type: "script", source:` create ("demonstration", get ("reed_organ")["C4"]); `}
+  /*random_data:{item_type: "script", source:`
+    create ("foo", codecophony.render_note ({
+      instrument: "reed_organ",
+      volume: 1,
+      pitch: 51,
+      start: 0,
+      duration: 1,
+    }));
+  `}*/
 };
 var dependencies = {};
 var dependents = {};
@@ -41,12 +50,6 @@ function user_error (message) {
 }
 function create_item (message) {
   set (message.name, message.value);
-  if (message.value instanceof Float32Array) {
-    var source =message.value ;
-    var buffer = audio.createBuffer (1, source.length, audio.sampleRate);
-    buffer.copyToChannel (source, 0, 0);
-    draw_recording (create_recording (buffer));
-  }
 }
 
 var handlers = {
@@ -101,6 +104,19 @@ function set (name, value) {
   dependents [name] = dependents [name] || {};
   dependencies [name] = dependencies [name] || {};
   interfaces [name] = interfaces [name] || {};
+  
+  if (value.item_type === "sequence") {
+    var source = value.data;
+    var buffer = audio.createBuffer (1, source.length, audio.sampleRate);
+    buffer.copyToChannel (source, 0, 0);
+    if (interfaces [name].recording) {
+      replace_recording (interfaces [name].recording, buffer);
+    } else {
+      interfaces [name].recording = create_recording (buffer);
+    }
+    draw_recording (interfaces [name].recording);
+  }
+  
   var my_dependents = dependents [name];
   message_worker ({
     action: "item_changed",

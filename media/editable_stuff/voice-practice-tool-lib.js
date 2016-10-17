@@ -135,15 +135,10 @@ var source;
   }
   
   function create_recording (initial_buffer) {
-    var output = {buffer: initial_buffer || audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: initial_buffer && initial_buffer.length || 0, lines: [], pitches: []};
+    var output = {buffer: initial_buffer || audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: [], pitches: []};
     
     if (initial_buffer) {
-      var data = initial_buffer.getChannelData (0);
-      for (var sample = 0; sample <data.length;sample += recorder_buffer_length) {
-        var analysis = analyze_samples (data.slice (sample, sample + recorder_buffer_length));
-        output.lines.push (analysis.magnitude);
-        output.pitches.push (analysis.frequency);
-      }
+      replace_recording (output, initial_buffer);
     }
     
     output.canvas = $("<canvas/>").attr("width", 1).attr("height", recording_height).addClass ("recording").click (function (event) {
@@ -187,6 +182,18 @@ var source;
     return output;
   }
   window.create_recording = create_recording;
+  window.replace_recording = function(recording, buffer) {
+    recording.buffer = buffer;
+    recording.lines = [];
+    recording.pitches = [];
+    recording.next_sample = buffer.length;
+    var data = buffer.getChannelData (0);
+    for (var sample = 0; sample < data.length;sample += recorder_buffer_length) {
+      var analysis = analyze_samples (data.slice (sample, sample + recorder_buffer_length));
+      recording.lines.push (analysis.magnitude);
+      recording.pitches.push (analysis.frequency);
+    }
+  };
   
   function draw_recording (recording) {
     var context = recording.canvas_context;
