@@ -29,8 +29,10 @@ function awaiting_script (name) {
 }
 function begin_script (name) {
   last_started_script = name;
-  interfaces [name].status = "running";
-  interfaces [name].error_display.text ("running...");
+  if (interfaces [name].status === "set_to_run") {
+    interfaces [name].status = "running";
+    interfaces [name].error_display.text ("running...");
+  }
 }
 function finish_script (name, success) {
   if (interfaces [name].status === "running") {
@@ -87,11 +89,12 @@ function restart_worker() {
   last_heard_from_worker = Date.now();
 }
 function message_worker (message) {
-  if (worker) {worker.postMessage (message);}
+  if (worker) {worker.postMessage (message); return true;}
 }
 
 function add_dependency(dependent, dependency) {
   dependencies [dependent] [dependency] = true;
+  dependents [dependency] = dependents [dependency] || {};
   dependents [dependency] [dependent] = true;
 }
 function remove_dependency(dependent, dependency) {
@@ -152,35 +155,53 @@ loadAudio (instrument_URL ("reed_organ"), {fetch: fetch, context: audio}).then (
 restart_worker();
 });
 
+function create_script (name, initial_source) {
+  interfaces [name] = interfaces [name] || {};
+  var script_box = $("<div>").text (name);
+  var script_input = $('<textarea rows="5" cols="50">').text (initial_source).on ("input", function (event) {
+    interfaces [name].changed_to = script_input.val();
+    interfaces [name].changed_at = Date.now();
+    error_display.text ("waiting for you to finish typing...");
+  });
+  var error_display = $("<div>");
+  interfaces [name].error_display = error_display;
+  script_box.append (script_input).append (error_display);
+  $(".codecophony_space").append (script_box);
+  set (name, {item_type: "script", source: initial_source});
+}
+
 var codecophony_box = $("<div>");
 $(".codecophony_space").append (codecophony_box);
 var new_script_button = $("<button>").text ("new script").click (function (event) {
   var name = new_script_name_input.val();
   if (name !== "" && !items [name]) {
-    set (name, {item_type: "script", source: ""});
-    var script_box = $("<div>").text (name);
-    var script_input = $('<textarea rows="5" cols="50">').on ("input", function (event) {
-      interfaces [name].changed_to = script_input.val();
-      interfaces [name].changed_at = Date.now();
-    });
-    var error_display = $("<div>");
-    interfaces [name].error_display = error_display;
-    script_box.append (script_input).append (error_display);
-    $(".codecophony_space").append (script_box);
+    create_script (name, "");
   }
 });
 codecophony_box.append (new_script_button);
 var new_script_name_input = $('<input type="text">').change (function (event) {});
 codecophony_box.append (new_script_name_input);
 
+
+create_script ("example_script", `
+  create ("example_output", codecophony.render_note_array (codecophony.scrawl (
+    "with instrument reed_organ pitch 51 duration 0.25 play 0 then 2 then 3 then 5 then 7 lasting 4"
+  )));
+`);
+
 function draw_codecophony() {
   requestAnimationFrame (draw_codecophony);
   
   var anything_running = false;
+  var anything_set_to_run = false;
   var item_names = Object.getOwnPropertyNames (items);
   item_names.forEach (function (name) {
     if (interfaces [name].status === "running") {
+      anything_set_to_run = true;
       anything_running = true;
+    }
+    if (interfaces [name].status === "set_to_run") {
+      anything_set_to_run = true;
     }
     if (interfaces [name].changed_at && Date.now() > interfaces [name].changed_at + 1000) {
       set (name, {item_type: "script", source: interfaces [name].changed_to});
@@ -193,27 +214,26 @@ function draw_codecophony() {
       item_names.forEach (function (name) {
         if (interfaces [name].status === "running") {
           if (last_started_script === name) {
-            interfaces [message.name].error_display.text ("Error: timed out");
+            interfaces [name].error_display.text ("Error: timed out");
           }
           else {
-            interfaces [message.name].error_display.text ("Couldn't finish because "+ last_started_script +" timed out");
+            interfaces [name].error_display.text ("Couldn't finish because "+ last_started_script +" timed out");
           }
           finish_script (name, false);
         }
       });
     }
   }
-  else {
+  if (!anything_set_to_run) {
     item_names.forEach (function (name) {
-      if (interfaces [name].status === "awaiting") {
-        message_worker ({
+      if (interfaces [name].status === "awaiting" && !anything_set_to_run) {
+        if (message_worker ({
           action: "run_script",
           name: name,
-        });
-        // hack: Mark it as running even before the worker gets back to us,
-        // so that we don't run more than one thing at a time
-        interfaces [name].status = "running";
-        anything_running = true;
+        })){
+          interfaces [name].status = "set_to_run";
+          anything_set_to_run = true;
+        }
       }
     });
   }

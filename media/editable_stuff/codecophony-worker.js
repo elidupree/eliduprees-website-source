@@ -34,7 +34,7 @@ function run_script (name) {
       name: name,
       file: error.filename,
       line: error.lineno,
-      message: error.message
+      message: error.message + error.stack
     });
   }
   message_main({
@@ -75,13 +75,13 @@ self.onmessage = function (event) {
 function get (name) {
   var item = items [name];
   var result;
-  if (item.item_type === "script") {
+  if (item && item.item_type === "script") {
     if (!item.began) {
       run_script (name, item);
     }
     result = item.result;
   }
-  else {
+  else if (item) {
     result = item.data;
   }
   message_main ({
@@ -160,7 +160,93 @@ function render_note_array (note_array) {
   return add_sequences (sequences);
 }
 
-return {get: get, create: create, sample_rate: sample_rate, render_note: render_note, render_note_default: render_note_default, render_note_array: render_note_array, add_sequences: add_sequences};
+function scrawl (input) {
+  var commands = input.split (/\s+|(\[)/).filter (function (command) {
+    return command !== undefined; 
+  });
+  var notes = [];
+  var context_stack = [{duration: 1, start: 0, pitch: 0, volume: 1}];
+  var current_note;
+  var most_recent_note;
+  
+  var finish_note = function() {
+    if (current_note) {
+      /*var note = {};
+      context_stack.forEach (function (context) {
+        Object.assign (note, context);
+      });
+      Object.assign (note, current_note);*/
+      notes.push (current_note);
+      most_recent_note = current_note;
+    }
+  }
+  
+  function context_add (index, value) {
+    (current_note || current_context()) [index] += value;
+  }
+  function context_multiply (index, value) {
+    (current_note || current_context()) [index] *= value;
+  }
+  function context_set (index, value) {
+    (current_note || current_context()) [index] = value;
+  }
+  function current_context() {
+    return context_stack[context_stack.length - 1];
+  }
+  function current_context_copy() {
+    return Object.assign ({}, current_context());
+  }
+  
+  var handlers = {
+    "[": function() {context_stack.push (current_context_copy());},
+    "]": function() {context_stack.pop ();},
+    "play": function() {
+      finish_note();
+      current_note = current_context_copy();
+    },
+    "then": function() {
+      finish_note();
+      current_note = current_context_copy();
+      current_note.start = most_recent_note.start + most_recent_note.duration;
+    },
+    "with": function() {
+      finish_note();
+      current_note = undefined;
+    },
+  };
+  for (index = 0; index <commands.length;++index) {
+    var command = commands [index];
+    if (handlers [command]) {
+      handlers [command]();
+    }
+    else {
+      var as_integer = parseInt (command);
+      if (!isNaN (as_integer)) {
+        context_add ("pitch", as_integer);
+      }
+      else {
+        ++index;
+        var value = commands [index];
+        var as_float = parseFloat (value);
+        if (command === "duration" || command === "lasting") {
+          context_multiply ("duration", as_float);
+        }
+        else if (!isNaN (as_float)) {
+          context_set (command, as_float);
+        }
+        else {
+          context_set (command, value);
+        }
+      }
+    }
+  };
+  finish_note();
+  console.log (commands);
+  console.log (notes);
+  return notes;
+}
+
+return {get: get, create: create, sample_rate: sample_rate, render_note: render_note, render_note_default: render_note_default, render_note_array: render_note_array, add_sequences: add_sequences, scrawl: scrawl};
 
 })();
 
