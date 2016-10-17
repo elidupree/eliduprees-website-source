@@ -360,6 +360,8 @@ var source;
   var line_adding_increment = 1/recording_1_second_width;
   function draw () {
     requestAnimationFrame (draw);
+    if (current_playback) {draw_recording (current_playback.recording);}
+    if (!$(".codecophony_space")[0]) {
     analyzer.getByteFrequencyData (frequency_data);
     var total = 0;
     var width = $("body").width ();
@@ -397,7 +399,6 @@ var source;
       previous = X;
     }
     var average = total/frequency_buffer_length;
-    if (current_playback) {draw_recording (current_playback.recording);}
     
     histogram_canvas.beginPath();
     var best = 0;
@@ -420,8 +421,9 @@ var source;
     var first = width/2 + height/2*cent_magnitudes[best]*Math.sin (best*turn/1200);
     var second = height/2 + height/2*cent_magnitudes[best]*Math.cos (best*turn/1200);
     histogram_canvas.fillRect (first-6, second-6, 12, 12);
+    }
   }
-  if (!$(".codecophony_space")[0]) {draw ();}
+  draw ();
 
   var terse = [];
   var verbose = [];
