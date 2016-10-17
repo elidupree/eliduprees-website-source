@@ -28,6 +28,12 @@ function finish_script (name, success) {
     interfaces [name].status = "finished";
     if (success) {interfaces [name].error_display.text ("Completed successfully");}
   }
+  Object.getOwnPropertyNames(dependents [name]).forEach(function (dependent) {
+    if (interfaces [name].status === "finished") {
+      remove_dependency (dependent, name);
+      awaiting_script (dependent);
+    }
+  });
 }
 function user_error (message) {
   //alert ("user error in codecophony script "+ message.name +": "+ message.file + ":" + message.line + ": " + message.message);
