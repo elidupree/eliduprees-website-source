@@ -421,7 +421,7 @@ var source;
     var second = height/2 + height/2*cent_magnitudes[best]*Math.cos (best*turn/1200);
     histogram_canvas.fillRect (first-6, second-6, 12, 12);
   }
-  draw ();
+  if (!$(".codecophony_space")[0]) {draw ();}
 
   var terse = [];
   var verbose = [];

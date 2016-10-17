@@ -1,19 +1,23 @@
 var items;
 var stack;
-var dependencies = {};
-var dependents = {};
+
+function message_main (message) {
+  self.postMessage (message);
+}
 
 // TODO: namespace isolate some of these from user scripts
 function run_script (name) {
   var item = items [name];
   item.began = true;
   stack = {current: name, parent: stack};
-  self.postMessage ({
+  message_main({
     action: "begin_script",
     name: name,
   });
+  var success = false;
   try {
     item.result = eval (item.source);
+    success = true;
   } catch (error) {
     self.postMessage ({
       action: "user_error",
@@ -23,9 +27,10 @@ function run_script (name) {
       message: error.message
     });
   }
-  self.postMessage ({
+  message_main({
     action: "finish_script",
     name: name,
+    success: success
   });
   item.finished = true;
   stack = stack.parent;
@@ -33,50 +38,16 @@ function run_script (name) {
 
 function initialize (message) {
   items = message.items;
-  Object.getOwnPropertyNames (items).forEach (function (name) {
-    dependencies [name] = {};
-    dependents [name] = {};
-  });
-  Object.getOwnPropertyNames (items).forEach (function (name) {
-    var item = items [name];
-    if (item.item_type === "script" && !item.began) {
-      run_script (name);
-    }
-  });
 }
 
 function item_changed (message) {
   var name = message.name;
   var item = message.value;
   items [message.name] = item;
-  dependents[name] = dependents[name] || {};
-  dependencies[name] = dependencies[name] || {};
-  var my_dependents = [];
   
-  Object.getOwnPropertyNames (dependents[name]).forEach (function (dependent) {
-    remove_dependency (dependent, name);
-    dependents.push (dependent);
-  });
   if (item.item_type === "script") {
     run_script (name);
   }
-  my_dependents.forEach (function (dependent) {
-    run_script (dependent);
-  });
-}
-
-function rerun (message) {
-  run_script (message.name);
-}
-
-
-function remove_dependency(dependent, dependency) {
-  delete dependencies [dependent] [dependency];
-  delete dependents [dependency] [dependent];
-}
-function add_dependency(dependent, dependency) {
-  dependencies [dependent] [dependency] = true;
-  dependents [dependency] [dependent] = true;
 }
 
 function get (name) {
@@ -91,11 +62,15 @@ function get (name) {
   else {
     result = item.data;
   }
-  add_dependency (stack.current, name);
+  message_main ({
+    action: "add_dependency",
+    dependent: stack.current,
+    dependency: name
+  });
   return result;
 }
 function create (name, value) {
-  self.postMessage ({
+  message_main({
     action: "create_item",
     name: name,
     value: value,
@@ -106,7 +81,9 @@ function create (name, value) {
 var handlers = {
   initialize: initialize,
   item_changed: item_changed,
-  rerun: rerun
+  run_script: function (message) {
+    run_script (message.name);
+  },
 }
 
 self.onmessage = function (event) {

@@ -32,18 +32,28 @@ canvas.recording {display: block; cursor: pointer;}
 }
 .page_description {padding:0.3em 2em; font-size: 110%;}
 
+main {
+display: flex;
+}
+.tool_box,.codecophony_space {
+flex: 1 1 auto;
+}
+
 .fa-stack.force_small {width:1em; height:1em; line-height:0.7em;}
 span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
     </style> 
     <link rel="stylesheet" href="/media/font-awesome-4.6.3/css/font-awesome.min.css?rr">
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
-      '''+bars.bars_wrap({"games":True}, '''<main><canvas id="histogram_canvas" width="320" height="80">
+      '''+bars.bars_wrap({"games":True}, '''<main>
+      <div class="tool_box">
+      <canvas id="histogram_canvas" width="320" height="80">
 The histogram should appear here, but it hasn't. Maybe you don't have JavaScript enabled. Or maybe your browser doesn't support the canvas element.
     </canvas><div class="page_description "></div><div class="control_panels "></div><!--
     --><div class="recent_box "><div class="recent_magnitudes_caption "></div><canvas id="recent_magnitudes"></canvas></div>
            <div class="recordings "></div>
            '''+blog.comments_section("voice_practice_tool")+'''
+     </div> <div class="codecophony_space"> </div>
      </main>'''), {"blurb": blurb, "blurb_image": blurb_image, "after_body":'''
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
      <script type="text/javascript" src="/media/download.js?rr"></script>
