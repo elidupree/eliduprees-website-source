@@ -34,9 +34,11 @@ canvas.recording {display: block; cursor: pointer;}
 
 main {
 display: flex;
+width: 100%;
 }
 .tool_box,.codecophony_space {
-flex: 1 1 auto;
+flex: 1 1 50%;
+min-width: 0;
 }
 
 .fa-stack.force_small {width:1em; height:1em; line-height:0.7em;}

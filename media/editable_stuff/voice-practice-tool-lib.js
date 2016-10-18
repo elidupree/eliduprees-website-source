@@ -456,16 +456,18 @@ verbose.push ([$(".page_description"), "This page lets you '''+ do_stuff +''' Te
 var panel = $("<div/>").addClass ("control_panel");
     for (var I = 0; I <controls.length;++I) {
       (function (index, info) {
-      controls [index] = $("<div/>").addClass ("control").click(function () {
+      controls [index] = $("<div/>").addClass ("control").attr ("title", info [1]).click(function () {
       for (var J = 0; J  <controls.length;++J) {
 if (controls [J] [0] === $(this) [0]) {controls [J] .addClass ("selected");} else{controls [J] .removeClass ("selected");}
     
 }
 if (save) {set_cookie (save, index, 30);}
-info [2] ();
+info [3] ();
   });
+  var full_description = info [1];
+  if (info [2]) {full_description = info [0]+" "+info [1];}
 terse.push ([controls [index], info [0]]);
-verbose.push ([controls [index], info [1]]);
+verbose.push ([controls [index], full_description]);
   } (I, controls [I]));
   panel.append (controls [I]);
     }
@@ -476,66 +478,67 @@ verbose.push ([controls [index], info [1]]);
   }
 
   make_control_panel (null, 1, [
-    ['<i class="fa fa-microphone"></i>',"On", function () {
-
-    set_current_recording (create_recording ());
-    auto_recording = false;}
-],
-[no ('microphone'),"Off", function () {
-    set_current_recording (undefined);
-    auto_recording = false;}
-],
-['<i class="fa fa-microphone"></i><i class="fa fa-cog"></i>',"Auto", function () {auto_recording = true;}]
-]);
+    ['<i class="fa fa-microphone"></i>',"On", true, function () {
+      set_current_recording (create_recording ());
+      auto_recording = false;
+    }],
+    [no ('microphone'),"Off", true, function () {
+      set_current_recording (undefined);
+      auto_recording = false;
+    }],
+    ['<i class="fa fa-microphone"></i><i class="fa fa-cog"></i>', "Auto", true, function () {
+      auto_recording = true;
+    }]
+  ]);
 
   make_control_panel ("pause_during_playback", 0, [
-    ['<i class="fa fa-play"></i>' + no ('microphone'),"During playback, pause recording and display the playback data in the histogram", function () {
-
-    pause_during_playback = true;}
-],
-['<i class="fa fa-play"></i><i class="fa fa-microphone"></i>',"During playback, continue recording and displaying the microphone input data in the histogram", function () {
-    pause_during_playback = false;}
-]]);
+    ['<i class="fa fa-play"></i>' + no ('microphone'), "During playback, pause recording and display the playback data in the histogram", true, function () {
+      pause_during_playback = true;
+    }],
+    ['<i class="fa fa-play"></i><i class="fa fa-microphone"></i>',"During playback, continue recording and displaying the microphone input data in the histogram", true, function () {
+      pause_during_playback = false;
+    }]
+  ]);
 
   make_control_panel ("auto_playback", 1, [
-    ['<i class="fa fa-microphone"></i><i class="fa fa-play"></i>',"Whenever a recording finishes, play it back automatically", function () {
-
-auto_playback = true;}
-],
-['<i class="fa fa-ban"></i>',"Don't", function () {
-auto_playback = false;}
-]]);
+    ['<i class="fa fa-microphone"></i><i class="fa fa-play"></i>',"Whenever a recording finishes, play it back automatically", true, function () {
+      auto_playback = true;
+    }],
+    ['<i class="fa fa-ban"></i>',"Don't", true, function () {
+      auto_playback = false;
+    }]
+  ]);
 
   make_control_panel ("iterate_playback", 1, [
-    ['<i class="fa fa-play"></i><i class="fa fa-play"></i>',"Play back multiple recordings in a row", function () {
-
-iterate_playback = true;}
-],
-['<i class="fa fa-play"></i>',"Only play back one recording at a time", function () {
-iterate_playback = false;}
-]]);
+    ['<i class="fa fa-play"></i><i class="fa fa-play"></i>',"Play back multiple recordings in a row", true, function () {
+      iterate_playback = true;
+    }],
+    ['<i class="fa fa-play"></i>',"Only play back one recording at a time", true, function () {
+      iterate_playback = false;
+    }]
+  ]);
 
   make_control_panel ("logarithmic", 1, [
-    ["Hz","Linear scale (1 pixel = X Hertz)", function () {
-
-logarithmic = false;}
-],
-["Log","Log scale (1 pixel = X semitones)", function () {
-logarithmic = true;}
-]]);
+    ["Hz","Linear scale (1 pixel = X Hertz)", false, function () {
+      logarithmic = false;
+    }],
+    ["Log","Log scale (1 pixel = X semitones)", false, function () {
+      logarithmic = true;
+    }]
+  ]);
 
 $(".control_panels").append (singleton_panel($("<div/>").addClass("vpt_patreon").addClass("hidden_from_restricted_users")));
 terse.push ([$(".vpt_patreon"), '<a href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt="Patreon" /></a>']);
 verbose.push ([$(".vpt_patreon"), 'If you like this tool, consider <a href="https://www.patreon.com/EliDupree">supporting me on Patreon</a> so that I can continue making awesome things and sharing them for free on the Internet.']);
 
   make_control_panel ("verbose", 0, [
-    ["Verbose","Verbose options", function () {
-
-update_controls (verbose);}
-],
-['<i class="fa fa-ban"></i>',"Terse options", function () {
-update_controls (terse);}
-]]);
+    ["Verbose", "Verbose options", false, function () {
+      update_controls (verbose);
+    }],
+    ['<i class="fa fa-ban"></i>', "Terse options", false, function () {
+      update_controls (terse);
+    }]
+  ]);
 
 
 

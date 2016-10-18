@@ -158,7 +158,7 @@ restart_worker();
 function create_script (name, initial_source) {
   interfaces [name] = interfaces [name] || {};
   var script_box = $("<div>").text (name);
-  var script_input = $('<textarea rows="5" cols="50">').text (initial_source).on ("input", function (event) {
+  var script_input = $('<textarea rows="10" cols="80">').text (initial_source).on ("input", function (event) {
     interfaces [name].changed_to = script_input.val();
     interfaces [name].changed_at = Date.now();
     error_display.text ("waiting for you to finish typing...");
