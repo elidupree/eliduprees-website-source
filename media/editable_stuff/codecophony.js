@@ -136,10 +136,10 @@ function set (name, value, generated) {
     var notes = [];
     function display (input) {
       if (typeof input === "object") {
-        if (input.pitch && input.start && input.duration) {
+        if (typeof input.pitch === "number" && typeof input.start === "number" && typeof input.duration === "number") {
           notes.push (input);
         }
-        else if (input instanceof Float32Array) {
+        else if (input instanceof Float32Array && input.length >0) {
           var buffer = audio.createBuffer (1, input.length, audio.sampleRate);
           buffer.copyToChannel (input, 0, 0);
           var UI_stuff = interfaces [name];
@@ -156,8 +156,30 @@ function set (name, value, generated) {
     }
     display (value);
     if (notes.length >0) {
-      var notes_element = $('<div>');
-      element.prepend (notes_element);
+      var notes_element = $('<canvas>');
+      element.append (notes_element);
+      var context = notes_element [0].getContext ("2d");
+      
+      var min_pitch = Infinity;
+      var max_pitch = - Infinity;
+      var min_time = Infinity;
+      var max_time = - Infinity;
+      notes.forEach(function(note) {
+        min_pitch = Math.min (min_pitch, note.pitch);
+        max_pitch = Math.max (max_pitch, note.pitch);
+        min_time = Math.min (min_time, note.start);
+        max_time = Math.max (max_time, note.start + note.duration);
+      });
+      var width = 200;
+      var height = 100;
+      var semitone_height = height/(1 + max_pitch - min_pitch);
+      notes_element.attr ("width", width).attr ("height", height);
+      context.fillStyle = "rgb(255, 0, 0)";
+      function X (time) {return width*(time - min_time)/(max_time - min_time);}
+      notes.forEach(function(note) {
+        var start = X (note.start);
+        context.fillRect (start, height - semitone_height*(1+note.pitch - min_pitch), X (note.start + note.duration) - start, semitone_height);
+      });
     }
     $(".generated").append (element);
     
@@ -280,12 +302,14 @@ codecophony_box.append (new_script_name_input);
 
 
 create_script ("example_script", `
-  create ("example_output", codecophony.render_note_array (codecophony.scrawl (
-    "with instrument reed_organ pitch 0 duration 0.25 play 0 then 2 then 3 then 5 then 7 lasting 4"
-  )));
+var notes = codecophony.scrawl (
+  "with instrument reed_organ pitch 0 duration 0.25 play 0 then 2 then 3 then 5 then 7 lasting 4"
+)
+create ("example_notes", notes);
+create ("example_sequence", codecophony.render_note_array (notes));
 `);
 create_script ("example_copier", `
-  create ("bar", get ("foo"));
+  create ("example_notes_copy", get ("example_notes"));
 `);
 
 function draw_codecophony() {

@@ -84,7 +84,7 @@ function get (name) {
     result = item.result;
   }
   else if (item) {
-    result = item.data;
+    result = item;
   }
   message_main ({
     action: "add_dependency",
@@ -108,19 +108,25 @@ function semitones_to_note_name (semitones) {
 }
 
 function render_note_default (note) {
+  var empty = {
+      item_type: "sequence",
+      start: start,
+      data: new Float32Array (0),
+    };
+
   var instrument = get (note.instrument);
-  var instrument_samples = instrument [semitones_to_note_name (note.pitch)];
+  if (!(instrument && instrument.item_type === "midijs_soundfont_instrument")) {
+    user_warning (`"${note.instrument}" is not a recognized type of instrument.`);
+    return empty;
+  }
+  var instrument_samples = instrument.data [semitones_to_note_name (note.pitch)];
   
   // round the start time to an integer so that samples can be combined easier
   var start = Math.floor (note.start*sample_rate)
   
   if (!instrument_samples) {
     user_warning (`Pitch ${note.pitch} (${semitones_to_note_name (note.pitch)}) is not available from instrument "${note.instrument}"`);
-    return {
-      item_type: "sequence",
-      start: start,
-      data: new Float32Array (0),
-    }
+    return empty;
   }
   
   var decay = note.decay || 0.2;
