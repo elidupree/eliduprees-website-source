@@ -1,6 +1,6 @@
-/* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
-window.global_hack = {}
-$(function(){
+window.initialize_voice_practice_tool = function(voice_practice_tool_options){
+  /* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
+  window.global_hack = {}
   var audio = window.audio_context_instance = new (window.AudioContext || window.webkitAudioContext)();
   var rate = audio.sampleRate;
   var recorder_buffer_length = 2048;
@@ -46,6 +46,9 @@ var source;
   var auto_playback;
   var iterate_playback;
   var logarithmic;
+  var sizes = voice_practice_tool_options.sizes();
+  
+  $(window).resize (function() { sizes = voice_practice_tool_options.sizes(); });
   
   var no = function (underlay) {return '<span class="fa-stack force_small">  <i class="fa fa-' + underlay + ' fa-stack-1x"></i> <i class="fa fa-ban fa-stack-1x text-danger fa-lg"></i></span>';};
   
@@ -150,7 +153,7 @@ var source;
       begin_playback (output, start_position);
     });
     
-    output.play_button = $("<div/>").addClass ("recording_button").click (function () {
+    output.play_button = $("<div/>").addClass ("recording_button").html('<i class="fa"></i>').click (function () {
       var stop = (current_playback && current_playback.recording === output);
       stop_playback (true);
       if (!stop) { begin_playback (output, 0);}
@@ -165,7 +168,7 @@ var source;
       download (blob, output.filename, "audio/wav");
     });
     
-    output.zoom_button = $("<div/>").addClass ("recording_button").click (function () {
+    output.zoom_button = $("<div/>").addClass ("recording_button").html('<i class="fa"></i>').click (function () {
       if (focused_recording) {
         var old = focused_recording;
         focused_recording = undefined;
@@ -177,8 +180,11 @@ var source;
     });
     
     output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button).append (output.zoom_button);
-    $(".recordings").append (output.element);
     output.canvas_context = output.canvas [0].getContext("2d");
+    
+    if (voice_practice_tool_options.recording_created) {
+      voice_practice_tool_options.recording_created(output);
+    }
     return output;
   }
   window.create_recording = create_recording;
@@ -202,10 +208,10 @@ var source;
     if (recording === focused_recording) {
       width = $("body").width()*0.95;
       height = $("body").height()*0.95;
-      recording.zoom_button.html ('<i class="fa fa-search-minus"></i>');
+      recording.zoom_button.children().addClass("fa-search-minus").removeClass("fa-search-plus");
     }
     else {
-      recording.zoom_button.html ('<i class="fa fa-search-plus"></i>');
+      recording.zoom_button.children().addClass("fa-search-plus").removeClass("fa-search-minus");
     }
     recording.canvas.attr("width", width).attr ("height", height);
     if(recording === current_recording) {
@@ -239,7 +245,7 @@ var source;
     }
 
     if (current_playback && current_playback.recording === recording) {
-      recording.play_button.html ('<i class="fa fa-stop"></i>');
+      recording.play_button.children().addClass("fa-stop").removeClass("fa-play");
       context.strokeStyle = "rgb(255, 255, 0)"
       context.beginPath ();
       var X = ((current_playback.start_position + (audio.currentTime - current_playback.start_time))*recording_1_second_width)*width/recording.lines.length;
@@ -248,7 +254,7 @@ var source;
       context.stroke ();
     }
     else {
-      recording.play_button.html ('<i class="fa fa-play"></i>');
+      recording.play_button.children().addClass("fa-play").removeClass("fa-stop");
     }
   }
   window.draw_recording = draw_recording;
@@ -297,13 +303,13 @@ var source;
     
     $(".recent_magnitudes_caption").text ("" + frequency);
   recent_magnitudes_size = Math.ceil (rate*2/recorder_buffer_length);
-  recent_magnitudes_scale = Math.ceil (Math.min ($("body").width ()/3, 200)/recent_magnitudes_size);
-  recent_magnitudes_width =recent_magnitudes_size*recent_magnitudes_scale;
-  recent_magnitudes_height = Math.min ($("body").height ()/3, 300);
+  recent_magnitudes_scale = Math.ceil (sizes.recent_magnitudes_width/recent_magnitudes_size);
+  recent_magnitudes_width = recent_magnitudes_size*recent_magnitudes_scale;
+  recent_magnitudes_height = sizes.recent_magnitudes_height;
   
   $(".recent_box").width (recent_magnitudes_width);
   $("#recent_magnitudes").attr("width", recent_magnitudes_width).attr("height", recent_magnitudes_height);
-  $(".control_panels").width ($("body").width () - recent_magnitudes_width);
+  $(".control_panels").width ($(".recent_box").parent().width () - recent_magnitudes_width);
 
     var context = recent_magnitudes_canvas;
       context.fillStyle = "rgb(0, 0, 0)"
@@ -371,8 +377,8 @@ var source;
     if (!$(".codecophony_space")[0]) {
     analyzer.getByteFrequencyData (frequency_data);
     var total = 0;
-    var width = $("body").width ();
-    var height = Math.min (128, $("body").height ()/4);
+    var width = sizes.histogram_width;
+    var height = sizes.histogram_height;
     
     $("#histogram_canvas").attr("width", width).attr("height", height);
     
@@ -437,7 +443,7 @@ var source;
 terse.push ([$(".recent_magnitudes_caption"), ""]);
 verbose.push ([$(".recent_magnitudes_caption"), "When using auto recording, record exactly when the box is not empty. Click to move the corner of the box."]);
 terse.push ([$(".page_description"), ""]);
-verbose.push ([$(".page_description"), "This page lets you '''+ do_stuff +''' Tested in Firefox and Chrome; may not work in other browsers."]);
+verbose.push ([$(".page_description"), voice_practice_tool_options.page_description || ""]);
   
   function update_controls (info) {
     for (var I = 0; I <info.length;++I) {
@@ -510,7 +516,7 @@ verbose.push ([controls [index], full_description]);
   ]);
 
   make_control_panel ("iterate_playback", 1, [
-    ['<i class="fa fa-play"></i><i class="fa fa-play"></i>',"Play back multiple recordings in a row", true, function () {
+    ['<i class="fa fa-play"></i>…<i class="fa fa-play"></i>',"Play back multiple recordings in a row", true, function () {
       iterate_playback = true;
     }],
     ['<i class="fa fa-play"></i>',"Only play back one recording at a time", true, function () {
@@ -570,4 +576,4 @@ navigator.msGetUserMedia);
   }
 );  
 
-});
+}
