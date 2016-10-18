@@ -100,9 +100,9 @@ function create (name, value) {
   });
 }
 
-var note_names = ["Ab", "A", "Bb", "B", "C", "Db", "D", "Eb", "E", "F", "Gb", "G"];
+var note_names = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"];
 function semitones_to_note_name (semitones) {
-  return note_names [(semitones+1) % 12] + Math.floor (semitones/12).toString();
+  return note_names [(semitones+48) % 12] + (Math.floor ((semitones+48)/12)).toString();
 }
 
 function render_note_default (note) {

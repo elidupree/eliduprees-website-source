@@ -185,7 +185,7 @@ codecophony_box.append (new_script_name_input);
 
 create_script ("example_script", `
   create ("example_output", codecophony.render_note_array (codecophony.scrawl (
-    "with instrument reed_organ pitch 51 duration 0.25 play 0 then 2 then 3 then 5 then 7 lasting 4"
+    "with instrument reed_organ pitch 0 duration 0.25 play 0 then 2 then 3 then 5 then 7 lasting 4"
   )));
 `);
 
