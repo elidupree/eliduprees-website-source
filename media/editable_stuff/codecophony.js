@@ -119,6 +119,13 @@ function remove_dependency(dependent, dependency) {
   delete dependents [dependency] [dependent];
 }
 
+function invalidate_dependencies (name) {
+  Object.getOwnPropertyNames(dependents [name]).forEach(function (dependent) {
+    remove_dependency (dependent, name);
+    awaiting_script (dependent);
+  });
+}
+
 function set (name, value) {
   items [name] = value;
   dependents [name] = dependents [name] || {};
@@ -137,7 +144,6 @@ function set (name, value) {
     voice_practice_tool.draw_recording (interfaces [name].recording);
   }
   
-  var my_dependents = dependents [name];
   message_worker ({
     action: "item_changed",
     name: name,
@@ -146,10 +152,34 @@ function set (name, value) {
   if (value.item_type === "script" && value.source !== "") {
     awaiting_script (name);
   }
-  Object.getOwnPropertyNames(my_dependents).forEach(function (dependent) {
-    remove_dependency (dependent, name);
-    awaiting_script (dependent);
+  invalidate_dependencies (name);
+}
+
+function remove_item (name) {
+  var result = items [name];
+  if (result) {
+    message_worker ({
+      action: "item_changed",
+      name: name,
+      value: value
+    });
+  }
+  invalidate_dependencies (name);
+  Object.getOwnPropertyNames(dependencies [name]).forEach(function (dependency) {
+    remove_dependency (name, dependency);
   });
+  delete dependencies [name];
+  delete dependents [name];
+  delete items [name];
+  return result;
+}
+
+function rename_item (name, new_name) {
+  var UI_stuff = interfaces [name];
+  var item = remove_item (name);
+  delete interfaces [name];
+  interfaces [new_name] = UI_stuff;
+  set (new_name, item);
 }
 
 function instrument_URL (name) {
@@ -174,15 +204,19 @@ restart_worker();
 
 function create_script (name, initial_source) {
   interfaces [name] = interfaces [name] || {};
-  var script_box = $("<div>").text (name);
-  var script_input = $('<textarea rows="10" cols="80">').text (initial_source).on ("input", function (event) {
+  var script_box = $("<div>").addClass("script_box");
+  var name_input = $('<input type="text">').val(name).on ("input", function (event) {
+    rename_item (name, name_input.val());
+    name = name_input.val();
+  });
+  var script_input = $('<textarea rows="6" cols="80">').text (initial_source).on ("input", function (event) {
     interfaces [name].changed_to = script_input.val();
     interfaces [name].changed_at = Date.now();
     error_display.text ("waiting for you to finish typing...");
   });
   var error_display = $("<div>");
   interfaces [name].error_display = error_display;
-  script_box.append (script_input).append (error_display);
+  script_box.append (name_input).append (script_input).append (error_display);
   $(".codecophony_space").append (script_box);
   set (name, {item_type: "script", source: initial_source});
 }

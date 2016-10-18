@@ -41,6 +41,12 @@ flex: 1 1 50%;
 min-width: 0;
 }
 
+textarea {
+  width: 96%;
+}
+textarea:focus {
+  height: 60vh;
+}
 
 .fa-stack.force_small {width:1em; height:1em; line-height:0.7em;}
 span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
