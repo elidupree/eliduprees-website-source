@@ -24,18 +24,7 @@ initialize_voice_practice_tool ({
 var audio = voice_practice_tool.audio;
 
 
-var items = {
-  //random_data:{item_type: "script", source:` create ("demonstration", get ("reed_organ")["C4"]); `}
-  /*random_data:{item_type: "script", source:`
-    create ("foo", codecophony.render_note ({
-      instrument: "reed_organ",
-      volume: 1,
-      pitch: 51,
-      start: 0,
-      duration: 1,
-    }));
-  `}*/
-};
+var items = {};
 var dependencies = {};
 var dependents = {};
 var interfaces = {};
@@ -71,8 +60,7 @@ function user_error (message) {
   interfaces [message.name].error_display.text ("Error: " + message.message);
 }
 function create_item (message) {
-  message.value.generated = true;
-  set (message.name, message.value);
+  set (message.name, message.value, true);
 }
 
 var handlers = {
@@ -130,25 +118,46 @@ function invalidate_dependencies (name) {
   });
 }
 
-function set (name, value) {
+function set (name, value, generated) {
   items [name] = value;
   dependents [name] = dependents [name] || {};
   dependencies [name] = dependencies [name] || {};
   interfaces [name] = interfaces [name] || {name: name};
   
-  if (value.item_type === "sequence" && value.generated) {
-    var source = value.data;
-    var buffer = audio.createBuffer (1, source.length, audio.sampleRate);
-    buffer.copyToChannel (source, 0, 0);
-    var UI_stuff = interfaces [name];
-    if (UI_stuff.recording) {
-      voice_practice_tool.replace_recording (UI_stuff.recording, buffer);
-    } else {
-      UI_stuff.recording = voice_practice_tool.create_recording (buffer, true);
-      $(".generated").append (UI_stuff.recording.element);
-      UI_stuff.recording.element.prepend ($("<div>").text (name));
+  if (generated) {
+    if (interfaces [name].element) {
+      interfaces [name].element.detach();
     }
-    voice_practice_tool.draw_recording (UI_stuff.recording);
+    var element = interfaces [name].element = $('<div class="item">');
+    element.prepend ($("<div>").text (name));
+    var notes = [];
+    function display (input) {
+      if (typeof input === "object") {
+        if (input.pitch && input.start && input.duration) {
+          notes.push (input);
+        }
+        else if (input instanceof Float32Array) {
+          var buffer = audio.createBuffer (1, input.length, audio.sampleRate);
+          buffer.copyToChannel (input, 0, 0);
+          var UI_stuff = interfaces [name];
+          UI_stuff.recording = voice_practice_tool.create_recording (buffer, true);
+          element.append (UI_stuff.recording.element);
+          voice_practice_tool.draw_recording (UI_stuff.recording);
+        }
+        else {
+          Object.getOwnPropertyNames (input).forEach(function(index) {
+            display (input[index]);
+          });
+        }
+      }
+    }
+    display (value);
+    if (notes.length >0) {
+      var notes_element = $('<div>');
+      element.prepend (notes_element);
+    }
+    $(".generated").append (element);
+    
   }
   
   message_worker ({
@@ -156,7 +165,7 @@ function set (name, value) {
     name: name,
     value: value
   });
-  if (value.item_type === "script" && value.source !== "") {
+  if (value && value.item_type === "script" && value.source !== "") {
     awaiting_script (name);
   }
   invalidate_dependencies (name);
@@ -175,6 +184,9 @@ function remove_item (name) {
   Object.getOwnPropertyNames(dependencies [name]).forEach(function (dependency) {
     remove_dependency (name, dependency);
   });
+  if (interfaces [name].element) {
+    interfaces [name].element.detach();
+  }
   delete dependencies [name];
   delete dependents [name];
   delete items [name];
@@ -205,7 +217,7 @@ loadAudio (instrument_URL ("reed_organ"), {fetch: fetch, context: audio}).then (
   Object.getOwnPropertyNames(buffers).forEach(function (note) {
     converted [note] = buffers [note].getChannelData(0);
   });
-  set ("reed_organ", {item_type: "instrument", data: converted});
+  set ("reed_organ", {item_type: "midijs_soundfont_instrument", data: converted});
   
 restart_worker();
 });
@@ -216,7 +228,7 @@ function initialize_source_recording (recording) {
   interfaces [name] = UI_stuff;
   recording.codecophony_interface = UI_stuff;
   
-  set (name, {item_type: "sequence", data: recording.buffer.getChannelData(0)});
+  set (name, recording.buffer.getChannelData(0));
   $(".recordings").append (recording.element);
   
   var name_input = UI_stuff.name_input = $('<input type="text">').val(name).on ("input", function (event) {
@@ -270,7 +282,7 @@ create_script ("example_script", `
   )));
 `);
 create_script ("example_copier", `
-  create ("bar", {item_type: "sequence", data: get ("foo")});
+  create ("bar", get ("foo"));
 `);
 
 function draw_codecophony() {

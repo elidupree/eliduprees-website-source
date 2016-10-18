@@ -55,7 +55,7 @@ function item_changed (message) {
   var item = message.value;
   items [message.name] = item;
   
-  if (item.item_type === "script") {
+  if (item && item.item_type === "script") {
     run_script (name);
   }
 }
@@ -132,6 +132,9 @@ function add_sequences (sequences) {
   var min = Infinity;
   var exclusive_max = -Infinity;
   sequences.forEach (function (sequence) {
+    if (sequence instanceof Float32Array) {
+      sequence = {start: 0, data: sequence};
+    }
     min = Math.min (min, sequence.start);
     exclusive_max = Math.max (exclusive_max, sequence.start + sequence.data.length);
   });
@@ -141,6 +144,9 @@ function add_sequences (sequences) {
     data [index] = 0;
   }
   sequences.forEach (function (sequence) {
+    if (sequence instanceof Float32Array) {
+      sequence = {start: 0, data: sequence};
+    }
     for (var index = 0; index < sequence.data.length;++index) {
       data [index + sequence.start - min] += sequence.data [index];
     }

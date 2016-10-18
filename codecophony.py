@@ -44,6 +44,7 @@ min-width: 0;
 .generated {
   border-top:3px solid black;
 }
+div.item {display: inline-block; margin:3px; background-color:#999;}
 
 textarea {
   width: 96%;
