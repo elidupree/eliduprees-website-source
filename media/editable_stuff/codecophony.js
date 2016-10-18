@@ -4,7 +4,10 @@ $(function(){
 
 initialize_voice_practice_tool ({
   recording_created: function (recording) {
-    $(".recordings").append (recording.element);
+    initialize_source_recording (recording);
+  },
+  recording_changed: function (recording) {
+    items [recording.codecophony_interface.name].data = recording.buffer.getChannelData (0);
   },
   sizes: function() {
     var width = $("body").width();
@@ -68,6 +71,7 @@ function user_error (message) {
   interfaces [message.name].error_display.text ("Error: " + message.message);
 }
 function create_item (message) {
+  message.value.generated = true;
   set (message.name, message.value);
 }
 
@@ -130,18 +134,21 @@ function set (name, value) {
   items [name] = value;
   dependents [name] = dependents [name] || {};
   dependencies [name] = dependencies [name] || {};
-  interfaces [name] = interfaces [name] || {};
+  interfaces [name] = interfaces [name] || {name: name};
   
-  if (value.item_type === "sequence") {
+  if (value.item_type === "sequence" && value.generated) {
     var source = value.data;
     var buffer = audio.createBuffer (1, source.length, audio.sampleRate);
     buffer.copyToChannel (source, 0, 0);
-    if (interfaces [name].recording) {
-      voice_practice_tool.replace_recording (interfaces [name].recording, buffer);
+    var UI_stuff = interfaces [name];
+    if (UI_stuff.recording) {
+      voice_practice_tool.replace_recording (UI_stuff.recording, buffer);
     } else {
-      interfaces [name].recording = voice_practice_tool.create_recording (buffer);
+      UI_stuff.recording = voice_practice_tool.create_recording (buffer, true);
+      $(".generated").append (UI_stuff.recording.element);
+      UI_stuff.recording.element.prepend ($("<div>").text (name));
     }
-    voice_practice_tool.draw_recording (interfaces [name].recording);
+    voice_practice_tool.draw_recording (UI_stuff.recording);
   }
   
   message_worker ({
@@ -178,6 +185,7 @@ function rename_item (name, new_name) {
   var UI_stuff = interfaces [name];
   var item = remove_item (name);
   delete interfaces [name];
+  UI_stuff.name = new_name;
   interfaces [new_name] = UI_stuff;
   set (new_name, item);
 }
@@ -202,20 +210,36 @@ loadAudio (instrument_URL ("reed_organ"), {fetch: fetch, context: audio}).then (
 restart_worker();
 });
 
+function initialize_source_recording (recording) {
+  var name = Math.random().toString();
+  var UI_stuff = interfaces [name] || {name: name};
+  interfaces [name] = UI_stuff;
+  recording.codecophony_interface = UI_stuff;
+  
+  set (name, {item_type: "sequence", data: recording.buffer.getChannelData(0)});
+  $(".recordings").append (recording.element);
+  
+  var name_input = UI_stuff.name_input = $('<input type="text">').val(name).on ("input", function (event) {
+    UI_stuff.changed_name_to = name_input.val();
+    UI_stuff.changed_at = Date.now();
+  });
+  var error_display = UI_stuff.error_display = $("<div>");
+  recording.element.prepend (name_input).append (error_display);
+}
 function create_script (name, initial_source) {
-  interfaces [name] = interfaces [name] || {};
+  var UI_stuff = interfaces [name] || {name: name};
+  interfaces [name] = UI_stuff;
   var script_box = $("<div>").addClass("script_box");
-  var name_input = $('<input type="text">').val(name).on ("input", function (event) {
-    rename_item (name, name_input.val());
-    name = name_input.val();
+  var name_input = UI_stuff.name_input = $('<input type="text">').val(name).on ("input", function (event) {
+    UI_stuff.changed_name_to = name_input.val();
+    UI_stuff.changed_at = Date.now();
   });
   var script_input = $('<textarea rows="6" cols="80">').text (initial_source).on ("input", function (event) {
-    interfaces [name].changed_to = script_input.val();
-    interfaces [name].changed_at = Date.now();
+    UI_stuff.changed_to = script_input.val();
+    UI_stuff.changed_at = Date.now();
     error_display.text ("waiting for you to finish typing...");
   });
-  var error_display = $("<div>");
-  interfaces [name].error_display = error_display;
+  var error_display = UI_stuff.error_display = $("<div>");
   script_box.append (name_input).append (script_input).append (error_display);
   $(".codecophony_space").append (script_box);
   set (name, {item_type: "script", source: initial_source});
@@ -245,6 +269,9 @@ create_script ("example_script", `
     "with instrument reed_organ pitch 0 duration 0.25 play 0 then 2 then 3 then 5 then 7 lasting 4"
   )));
 `);
+create_script ("example_copier", `
+  create ("bar", {item_type: "sequence", data: get ("foo")});
+`);
 
 function draw_codecophony() {
   requestAnimationFrame (draw_codecophony);
@@ -253,19 +280,37 @@ function draw_codecophony() {
   var anything_set_to_run = false;
   var item_names = Object.getOwnPropertyNames (items);
   item_names.forEach (function (name) {
-    if (interfaces [name].status === "running") {
+    var UI_stuff = interfaces [name];
+    
+    if (UI_stuff.changed_at && Date.now() > UI_stuff.changed_at + 1000) {
+      if (UI_stuff.changed_to) {
+        set (name, {item_type: "script", source: UI_stuff.changed_to});
+        delete UI_stuff.changed_to;
+      }
+      if (UI_stuff.changed_name_to) {
+        if (items [UI_stuff.changed_name_to]) {
+          UI_stuff.error_display.text ("error: another item already has the same name");
+          UI_stuff.name_input.val (UI_stuff.name);
+        } else {
+          rename_item (name, UI_stuff.changed_name_to);
+        }
+        delete UI_stuff.changed_name_to;
+      }
+      delete UI_stuff.changed_at;
+    }
+    
+    if (UI_stuff.status === "running") {
       anything_set_to_run = true;
       anything_running = true;
     }
-    if (interfaces [name].status === "set_to_run") {
+    if (UI_stuff.status === "set_to_run") {
       anything_set_to_run = true;
     }
-    if (interfaces [name].changed_at && Date.now() > interfaces [name].changed_at + 1000) {
-      set (name, {item_type: "script", source: interfaces [name].changed_to});
-      delete interfaces [name].changed_at;
-      delete interfaces [name].changed_to;
-    }
   });
+  
+  // items could have been renamed
+  item_names = Object.getOwnPropertyNames (items);
+  
   if (anything_running) {
     if (Date.now() > last_heard_from_worker + 10000) {
       item_names.forEach (function (name) {

@@ -195,8 +195,11 @@ var source;
     recording.pitches = [];
     recording.next_sample = buffer.length;
     var data = buffer.getChannelData (0);
-    for (var sample = 0; sample < data.length;sample += recorder_buffer_length) {
-      var analysis = analyze_samples (data.slice (sample, sample + recorder_buffer_length));
+    while (recording.next_sample >0 && data[recording.next_sample - 1] == 0) {
+      --recording.next_sample;
+    }
+    for (var sample = 0; sample < recording.next_sample; sample += recorder_buffer_length) {
+      var analysis = analyze_samples (data.slice (sample, Math.min (recording.next_sample, sample + recorder_buffer_length)));
       recording.lines.push (analysis.magnitude);
       recording.pitches.push (analysis.frequency);
     }
@@ -364,6 +367,9 @@ var source;
     }
     current_recording.lines.push (magnitude);
     current_recording.pitches.push (frequency);
+    if (voice_practice_tool_options.recording_changed) {
+      voice_practice_tool_options.recording_changed (current_recording);
+    }
     draw_recording (current_recording);
   }
   

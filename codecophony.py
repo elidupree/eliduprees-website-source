@@ -26,7 +26,7 @@ canvas.recording {display: block; cursor: pointer;}
 .recent_box {float: right; background-color:#ccc;}
 .recent_magnitudes_caption {padding:4px;}
 .recording_button {padding:0 3px; cursor: pointer;}
-.recordings {
+.recordings,.generated {
     display: flex;
     flex-wrap: wrap-reverse;
 }
@@ -39,6 +39,10 @@ justify-content: space-between;
 .tool_box,.codecophony_space {
 flex: 1 1 50%;
 min-width: 0;
+}
+
+.generated {
+  border-top:3px solid black;
 }
 
 textarea {
@@ -68,6 +72,7 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
     </div>
     <div class="control_panels "></div>
     <div class="recordings "></div>
+    <div class="generated "></div>
   </div>
   <div class="codecophony_space"></div>
 </main>
