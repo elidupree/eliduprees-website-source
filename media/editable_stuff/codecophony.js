@@ -23,6 +23,12 @@ initialize_voice_practice_tool ({
 
 var audio = voice_practice_tool.audio;
 
+var adjectives = "palpable, terrible, awesome, extreme, tragic, lamentable, radical, exploratory, sesquipedalian, despicable, proud, clever, subtle, shining, structural, perforated, triumphant, understandable, malicious, dreaded infinite, relaxed confident complete ambitious logical intuitive insightful eloquent efficient quick yucky unstoppable optimal angry factual altruistic good helpful justified kinesthetic complicated vivacious liminal persistent invincible virtual vivid unstable bounded unbounded preventative iterative burning tentative novel countable dramatic flexible sensory modified modular momentarily ethical automatic mundane formalized explicit evaluated incorrect reasonable pragmatic responsible determined complementary prompt adequate sufficient necessary required local straightforward enthusiastic useful mythological philosophical derived precise superficial"
+var nouns = "doom, destiny, phlogiston, visitor archway doorway wizard device liberation knowledge justice solution hypothesis question description poise persona movement sphere source destination comprehension system design specification clarity choices assertion warning story will imagination prediction regret transcendence despair kilometer label zenith xenophobia calamity vision exception vehicle verification accomplishment viewpoint reality evolution revolution transformation enjoyment barrier code principle ideology being entity number defiance mischief control decision mapping visualization resolution maintenance magic category instance measurement consideration ingenuity removal quantity pattern inference labor performance realization reference injustice safety cycle route process structure truth nanosecond challenge investigation sarcasm judgment omnipotence opportunity ordering diffusion substance overflow"
+adjectives = adjectives.split(/[\s,]+/);
+nouns = nouns.split(/[\s,]+/);
+console.log ("Adjectives available: " + adjectives.length);
+console.log ("Nouns available: " + nouns.length);
 
 var items = {};
 var dependencies = {};
@@ -248,7 +254,10 @@ restart_worker();
 });
 
 function initialize_source_recording (recording) {
-  var name = Math.random().toString();
+  var name;
+  while (!name || items [name]) {
+    name = adjectives [Math.floor (Math.random()*adjectives.length)]+"-"+ nouns [Math.floor (Math.random()*nouns.length)];
+  }
   var UI_stuff = interfaces [name] || {name: name};
   interfaces [name] = UI_stuff;
   recording.codecophony_interface = UI_stuff;
