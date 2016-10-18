@@ -186,18 +186,24 @@ function create_script (name, initial_source) {
   $(".codecophony_space").append (script_box);
   set (name, {item_type: "script", source: initial_source});
 }
-
-var codecophony_box = $("<div>");
-$(".codecophony_space").append (codecophony_box);
-var new_script_button = $("<button>").text ("new script").click (function (event) {
+function create_script_UI () {
   var name = new_script_name_input.val();
   if (name !== "" && !items [name]) {
     create_script (name, "");
   }
-});
+}
+
+var codecophony_box = $("<div>");
+$(".codecophony_space").append (codecophony_box);
+var new_script_button = $("<button>").text ("new script").click (create_script_UI);
 codecophony_box.append (new_script_button);
-var new_script_name_input = $('<input type="text">').change (function (event) {});
+var new_script_name_input = $('<input type="text">').keyup(function (event) {
+  if (event.keyCode == 13) {
+    create_script_UI();
+  }
+});
 codecophony_box.append (new_script_name_input);
+
 
 
 create_script ("example_script", `
