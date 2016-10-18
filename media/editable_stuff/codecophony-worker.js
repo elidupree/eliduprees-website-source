@@ -108,10 +108,11 @@ function semitones_to_note_name (semitones) {
 function render_note_default (note) {
   var instrument = get (note.instrument);
   var instrument_samples = instrument [semitones_to_note_name (note.pitch)];
-  var duration = Math.floor(note.duration*sample_rate);
+  var decay = note.decay || 0.2;
+  var duration = Math.floor((note.duration+decay)*sample_rate);
   var data = new Float32Array (duration);
   for (var index = 0; index < duration;++index) {
-    var cutoff = Math.min (1, (1-(index/sample_rate)/note.duration)*10);
+    var cutoff = Math.min (1, 1 - ((index/sample_rate) - note.duration)/decay);
     data [index] = (instrument_samples [index] || 0)*cutoff*note.volume;
   }
   
@@ -204,6 +205,11 @@ function scrawl (input) {
       finish_note();
       current_note = current_context_copy();
     },
+    "and": function() {
+      finish_note();
+      current_note = current_context_copy();
+      current_note.start = most_recent_note.start;
+    },
     "then": function() {
       finish_note();
       current_note = current_context_copy();
@@ -230,6 +236,12 @@ function scrawl (input) {
         var as_float = parseFloat (value);
         if (command === "duration" || command === "lasting") {
           context_multiply ("duration", as_float);
+        }
+        else if (command === "volume") {
+          context_multiply ("duration", as_float);
+        }
+        if (command === "pitch" || command === "transpose") {
+          context_add ("pitch", as_float);
         }
         else if (!isNaN (as_float)) {
           context_set (command, as_float);
