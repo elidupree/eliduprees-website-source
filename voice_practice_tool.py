@@ -79,6 +79,7 @@ $(function(){
         histogram_height: Math.min (height/4, 128),
       }
     },
+    controls_next_to_recent: true,
   });
 });
 </script>

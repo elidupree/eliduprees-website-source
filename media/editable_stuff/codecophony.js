@@ -1,7 +1,24 @@
 $(function(){
 "use strict";
 
-var audio = window.audio_context_instance;
+
+initialize_voice_practice_tool ({
+  recording_created: function (recording) {
+    $(".recordings").append (recording.element);
+  },
+  sizes: function() {
+    var width = $("body").width();
+    var height = $("body").height();
+    return {
+      recent_magnitudes_width: Math.ceil (Math.min (width/4, 256)),  
+      recent_magnitudes_height: Math.min (height/6, 128),
+      histogram_width: Math.min (width/4, 256),
+      histogram_height: Math.min (height/6, 128),
+    }
+  },
+});
+
+var audio = voice_practice_tool.audio;
 
 
 var items = {
@@ -113,11 +130,11 @@ function set (name, value) {
     var buffer = audio.createBuffer (1, source.length, audio.sampleRate);
     buffer.copyToChannel (source, 0, 0);
     if (interfaces [name].recording) {
-      replace_recording (interfaces [name].recording, buffer);
+      voice_practice_tool.replace_recording (interfaces [name].recording, buffer);
     } else {
-      interfaces [name].recording = create_recording (buffer);
+      interfaces [name].recording = voice_practice_tool.create_recording (buffer);
     }
-    draw_recording (interfaces [name].recording);
+    voice_practice_tool.draw_recording (interfaces [name].recording);
   }
   
   var my_dependents = dependents [name];

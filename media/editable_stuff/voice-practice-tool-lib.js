@@ -1,7 +1,8 @@
 window.initialize_voice_practice_tool = function(voice_practice_tool_options){
   /* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
-  window.global_hack = {}
-  var audio = window.audio_context_instance = new (window.AudioContext || window.webkitAudioContext)();
+  window.global_hack = {};
+  window.voice_practice_tool = {};
+  var audio = window.voice_practice_tool.audio = new (window.AudioContext || window.webkitAudioContext)();
   var rate = audio.sampleRate;
   var recorder_buffer_length = 2048;
   var histogram_canvas = document.getElementById("histogram_canvas").getContext("2d");
@@ -137,7 +138,7 @@ var source;
       start_function ();
   }
   
-  function create_recording (initial_buffer) {
+  function create_recording (initial_buffer, suppress_callback) {
     var output = {buffer: initial_buffer || audio.createBuffer (1, audio.sampleRate, audio.sampleRate), next_sample: 0, lines: [], pitches: []};
     
     if (initial_buffer) {
@@ -182,13 +183,13 @@ var source;
     output.element = $("<div/>").addClass ("recording").append (output.canvas).append (output.play_button).append (output.save_button).append (output.zoom_button);
     output.canvas_context = output.canvas [0].getContext("2d");
     
-    if (voice_practice_tool_options.recording_created) {
+    if (voice_practice_tool_options.recording_created && !suppress_callback) {
       voice_practice_tool_options.recording_created(output);
     }
     return output;
   }
-  window.create_recording = create_recording;
-  window.replace_recording = function(recording, buffer) {
+  window.voice_practice_tool.create_recording = create_recording;
+  var replace_recording = window.voice_practice_tool.replace_recording = function(recording, buffer) {
     recording.buffer = buffer;
     recording.lines = [];
     recording.pitches = [];
@@ -257,7 +258,7 @@ var source;
       recording.play_button.children().addClass("fa-play").removeClass("fa-stop");
     }
   }
-  window.draw_recording = draw_recording;
+  window.voice_practice_tool.draw_recording = draw_recording;
   
   analyzer.maxDecibels = 0;
   analyzer.fftSize = 2048;
@@ -303,13 +304,15 @@ var source;
     
     $(".recent_magnitudes_caption").text ("" + frequency);
   recent_magnitudes_size = Math.ceil (rate*2/recorder_buffer_length);
-  recent_magnitudes_scale = Math.ceil (sizes.recent_magnitudes_width/recent_magnitudes_size);
+  recent_magnitudes_scale = Math.max(1, Math.floor(sizes.recent_magnitudes_width/recent_magnitudes_size));
   recent_magnitudes_width = recent_magnitudes_size*recent_magnitudes_scale;
   recent_magnitudes_height = sizes.recent_magnitudes_height;
   
   $(".recent_box").width (recent_magnitudes_width);
   $("#recent_magnitudes").attr("width", recent_magnitudes_width).attr("height", recent_magnitudes_height);
-  $(".control_panels").width ($(".recent_box").parent().width () - recent_magnitudes_width);
+  if(voice_practice_tool_options.controls_next_to_recent){
+    $(".control_panels").width ($(".recent_box").parent().width () - recent_magnitudes_width);
+  }
 
     var context = recent_magnitudes_canvas;
       context.fillStyle = "rgb(0, 0, 0)"
@@ -374,7 +377,7 @@ var source;
   function draw () {
     requestAnimationFrame (draw);
     if (current_playback) {draw_recording (current_playback.recording);}
-    if (!$(".codecophony_space")[0]) {
+    //if ($(".codecophony_space")[0]) { return; }
     analyzer.getByteFrequencyData (frequency_data);
     var total = 0;
     var width = sizes.histogram_width;
@@ -434,7 +437,6 @@ var source;
     var first = width/2 + height/2*cent_magnitudes[best]*Math.sin (best*turn/1200);
     var second = height/2 + height/2*cent_magnitudes[best]*Math.cos (best*turn/1200);
     histogram_canvas.fillRect (first-6, second-6, 12, 12);
-    }
   }
   draw ();
 
@@ -442,8 +444,11 @@ var source;
   var verbose = [];
 terse.push ([$(".recent_magnitudes_caption"), ""]);
 verbose.push ([$(".recent_magnitudes_caption"), "When using auto recording, record exactly when the box is not empty. Click to move the corner of the box."]);
+
+if (voice_practice_tool_options.page_description) {
 terse.push ([$(".page_description"), ""]);
-verbose.push ([$(".page_description"), voice_practice_tool_options.page_description || ""]);
+verbose.push ([$(".page_description"), voice_practice_tool_options.page_description]);
+}
   
   function update_controls (info) {
     for (var I = 0; I <info.length;++I) {
