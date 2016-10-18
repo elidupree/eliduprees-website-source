@@ -16,6 +16,14 @@ function message_main (message) {
   self.postMessage (message);
 }
 
+function user_warning (message) {
+  message_main ({
+    action: "user_warning",
+    name: stack.current,
+    message: message
+  });
+}
+
 function run_script (name) {
   var item = items [name];
   item.began = true;
@@ -29,12 +37,10 @@ function run_script (name) {
     item.result = evaluate_script (item.source);
     success = true;
   } catch (error) {
-    self.postMessage ({
+    message_main({
       action: "user_error",
       name: name,
-      file: error.filename,
-      line: error.lineno,
-      message: error.message + error.stack
+      message: /*error.message + */error.stack
     });
   }
   message_main({
@@ -54,10 +60,6 @@ function item_changed (message) {
   var name = message.name;
   var item = message.value;
   items [message.name] = item;
-  
-  if (item && item.item_type === "script") {
-    run_script (name);
-  }
 }
 
 var handlers = {
@@ -108,6 +110,19 @@ function semitones_to_note_name (semitones) {
 function render_note_default (note) {
   var instrument = get (note.instrument);
   var instrument_samples = instrument [semitones_to_note_name (note.pitch)];
+  
+  // round the start time to an integer so that samples can be combined easier
+  var start = Math.floor (note.start*sample_rate)
+  
+  if (!instrument_samples) {
+    user_warning (`Pitch ${note.pitch} (${semitones_to_note_name (note.pitch)}) is not available from instrument "${note.instrument}"`);
+    return {
+      item_type: "sequence",
+      start: start,
+      data: new Float32Array (0),
+    }
+  }
+  
   var decay = note.decay || 0.2;
   var duration = Math.floor((note.duration+decay)*sample_rate);
   var data = new Float32Array (duration);
@@ -118,8 +133,7 @@ function render_note_default (note) {
   
   return {
     item_type: "sequence",
-    // round the start time to an integer so that samples can be combined easier
-    start: Math.floor (note.start*sample_rate),
+    start: start,
     data: data,
   }
 }

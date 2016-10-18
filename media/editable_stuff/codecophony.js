@@ -34,19 +34,19 @@ var last_started_script;
 
 function awaiting_script (name) {
   interfaces [name].status = "awaiting";
-  interfaces [name].error_display.text ("waiting to be run ...");
+  interfaces [name].error_display.text ("Waiting to be run ...");
 }
 function begin_script (name) {
   last_started_script = name;
   if (interfaces [name].status === "set_to_run") {
     interfaces [name].status = "running";
-    interfaces [name].error_display.text ("running...");
+    interfaces [name].error_display.text ("Running...");
   }
 }
 function finish_script (name, success) {
   if (interfaces [name].status === "running") {
     interfaces [name].status = "finished";
-    if (success) {interfaces [name].error_display.text ("Completed successfully");}
+    if (success) {interfaces [name].error_display.append ("\nCompleted successfully");}
   }
   Object.getOwnPropertyNames(dependents [name]).forEach(function (dependent) {
     if (interfaces [name].status === "finished") {
@@ -55,9 +55,11 @@ function finish_script (name, success) {
     }
   });
 }
+function user_warning (message) {
+  interfaces [message.name].error_display.append ("\nWarning: " + message.message);
+}
 function user_error (message) {
-  //alert ("user error in codecophony script "+ message.name +": "+ message.file + ":" + message.line + ": " + message.message);
-  interfaces [message.name].error_display.text ("Error: " + message.message);
+  interfaces [message.name].error_display.append ("\nError: " + message.message);
 }
 function create_item (message) {
   set (message.name, message.value, true);
@@ -65,6 +67,7 @@ function create_item (message) {
 
 var handlers = {
   user_error: user_error,
+  user_warning: user_warning,
   create_item: create_item,
   begin_script: function(message) {
     begin_script (message.name);
@@ -241,7 +244,7 @@ function initialize_source_recording (recording) {
 function create_script (name, initial_source) {
   var UI_stuff = interfaces [name] || {name: name};
   interfaces [name] = UI_stuff;
-  var script_box = $("<div>").addClass("script_box");
+  var script_box = $('<div class="item">').addClass("script_box");
   var name_input = UI_stuff.name_input = $('<input type="text">').val(name).on ("input", function (event) {
     UI_stuff.changed_name_to = name_input.val();
     UI_stuff.changed_at = Date.now();
@@ -251,7 +254,7 @@ function create_script (name, initial_source) {
     UI_stuff.changed_at = Date.now();
     error_display.text ("waiting for you to finish typing...");
   });
-  var error_display = UI_stuff.error_display = $("<div>");
+  var error_display = UI_stuff.error_display = $("<pre>");
   script_box.append (name_input).append (script_input).append (error_display);
   $(".codecophony_space").append (script_box);
   set (name, {item_type: "script", source: initial_source});
@@ -301,7 +304,7 @@ function draw_codecophony() {
       }
       if (UI_stuff.changed_name_to) {
         if (items [UI_stuff.changed_name_to]) {
-          UI_stuff.error_display.text ("error: another item already has the same name");
+          UI_stuff.error_display.text ("Error: another item already has the same name");
           UI_stuff.name_input.val (UI_stuff.name);
         } else {
           rename_item (name, UI_stuff.changed_name_to);
