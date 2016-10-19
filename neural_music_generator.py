@@ -135,6 +135,12 @@ game_element.click (function (event) {
   randomize (mod_magnitudes);
   mouse_moved (event);
 });
+  var log_min = Math.log (20);
+  var log_max = Math.log (3500);
+  var log_range = (log_max - log_min);
+  var half_log_range = (log_max - log_min)/2;
+  var log_very_min = Math.log (1/(4*60));
+  var log_very_range = (log_max - log_very_min);
   
   var base_canvas = $("<canvas>");
   var current_canvas = $("<canvas>");
@@ -163,12 +169,34 @@ game_element.click (function (event) {
     });
     return result;
   }
+  function average (parameters) {
+    var result = 0;
+    parameters.forEach (function (parameter) {
+      result += evaluate (parameter);
+    });
+    return result/parameters.length;
+  }
+  function adjusted_sigmoid(parameters) {
+    return 1/(1+ Math.exp (- evaluate (parameters [0])*evaluate (parameters [1])));
+  }
   function get_time() {return time;}
-  function sin (parameters) {
+  function sin_hack (parameters) {
     return Math.sin (evaluate (parameters [0])*40);
   }
+  function sin_frequency (parameters) {
+    return Math.sin (time*turn*evaluate (parameters [0])+evaluate (parameters [1]));
+  }
+  function adjusted_sin (parameters) {
+    return Math.sin (
+      time*turn*Math.exp (
+        evaluate (parameters [0])+
+        (evaluate (parameters [1])*evaluate (parameters [2]))
+      )
+      +evaluate (parameters [3])
+    );
+  }
   
-  function generate_random_node (level) {
+  function generate_random_node_1 (level) {
     if (level <= 0) {
       if (Math.random() <0.5) {
         return Math.random()*2-1;
@@ -179,26 +207,120 @@ game_element.click (function (event) {
     }
     if (Math.random() <0.3) {
       return {
-        parameters: [generate_random_node (level-1), generate_random_node (level-2)],
+        parameters: [generate_random_node_1 (level-1), generate_random_node_1 (level-2)],
         evaluate: total
       };
     }
     if (Math.random() <0.4) {
       return {
-        parameters: [generate_random_node (level-1), generate_random_node (level-2)],
+        parameters: [generate_random_node_1 (level-1), generate_random_node_1 (level-2)],
         evaluate: product
       };
     }
       return {
-        parameters: [generate_random_node (level-1)],
-        evaluate: sin
+        parameters: [generate_random_node_1 (level-1)],
+        evaluate: sin_hack
       };
   }
   
   var root = {
-          parameters: [generate_random_node (5)],
-                  evaluate: sin
+          parameters: [generate_random_node_1 (5)],
+                  evaluate: sin_hack
                 };
+  console.log (root);  console.log (evaluate (root));console.log (evaluate (Math.random()*2-1));
+ 
+    
+  function generate_random_node_2 (level, ancestor, force_sin) {
+    if (level <= 0) {
+      if (Math.random() <0.5) {
+        return Math.random()*2-1;
+      }
+      else {
+        return {
+          parameters: [Math.exp (log_very_min + Math.random()*log_very_range), Math.random()*turn],
+          evaluate: sin_frequency
+        };
+      }
+    }
+    //function ancestor(level) {
+    //  return generate_random_node_2 (Math.floor (Math.random()*level-0.01))
+    //}
+    if (!force_sin) {
+    if (Math.random() <0.3) {
+      return {
+        parameters: [ancestor(level), ancestor(level)],
+        evaluate: average
+      };
+    }
+    if (Math.random() <0.6) {
+      return {
+        parameters: [ancestor(level), ancestor(level)],
+        evaluate: product
+      };
+    }
+    if (Math.random() <0.5) {
+      return {
+        parameters: [Math.random()*10, ancestor(level)],
+        evaluate: adjusted_sigmoid
+      };
+    }
+    }
+      return {
+        parameters: [log_min+Math.random()*log_range, Math.random()*half_log_range, ancestor(level), Math.random()*turn],
+        evaluate: adjusted_sin
+      };
+  }
+  
+  function approximate_pitch_hack (node) {
+    if (typeof node === 'number') {return 9999999999;}
+    if (node.evaluate === sin_frequency) {return node.parameters [0];}
+    var result = 999999999;
+    node.parameters.forEach (function (parameter) {
+      var a = approximate_pitch_hack(parameter);
+      result = Math.min (result, Math.abs (a));
+      node.parameters.forEach (function (parameter2) {
+        var b = approximate_pitch_hack (parameter2);
+        var difference = a - b;
+        result = Math.min (result, Math.abs (difference));
+      });
+    });
+    if (node.evaluate === adjusted_sin) {return Math.min(1,result)/200;}
+    return result;
+  }
+  
+  function random_range (min, max) {
+    return min + Math.floor (Math.random()*(max - min));
+  }
+  
+  var depth = 12;
+  var surface = 12;
+  var components = []
+  function ancestor(level) {
+  console.log (random_range (0, components.length));
+    var first = components [random_range (0, components.length)];
+    var second = components [random_range (0, components.length)];
+    if (first.evaluate === adjusted_sin) { return ancestor(level); }
+    if (second.evaluate === adjusted_sin) { return ancestor(level); }
+    var first_hack = approximate_pitch_hack (first);
+    var second_hack = approximate_pitch_hack (second);
+    //if (first_hack < 1/3500) { return ancestor(level); }
+    //if (second_hack < 1/3500) { return ancestor(level); }
+    if (first_hack > second_hack || first_hack > 2) { return first; }
+    return second;
+  }
+  for (var index = 0; index <20; ++index) {
+    components.push (generate_random_node_2 (0, ancestor));
+  }
+  for (var index = 0; index <190; ++index) {
+    components.push (generate_random_node_2 (1, ancestor));
+  }
+  for (var index = 0; index <surface ; ++index) {
+    components.push (generate_random_node_2 (1, ancestor, true));
+  }
+  root = {
+    parameters: components.slice (-surface), //[generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth),generate_random_node_2 (depth)],
+    evaluate: average
+  };
   console.log (root);  console.log (evaluate (root));console.log (evaluate (Math.random()*2-1));
   
     
@@ -207,9 +329,7 @@ game_element.click (function (event) {
     var output = event.outputBuffer.getChannelData (0);
     memory = multiply (memory, current_matrix);
     
-    var log_min = Math.log (20);
-    var log_max = Math.log (20000);
-    var half_log_range = (log_max - log_min)/2;
+    
     
     for (var sample = 0; sample <generator_buffer_length;++sample) {
       time += 1/rate;

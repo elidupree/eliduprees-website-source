@@ -268,6 +268,94 @@ In Part 2, I think I'll talk about how I use these same techniques to make mysel
 ''',
 },
 
+{
+"title": "How to Train Your Brain, Part 2: Memory",
+"tags": ["neurodiversity"],
+"auto_paragraphs": True,
+"blurb": "How to apply my techniques to learning and memory.",
+"contents":'''
+This is the second post in a series. You should <a href="/blog/how-to-train-your-brain-part-1">go read Part 1 first</a> if you haven't.
+
+This post is about how to apply the same techniques to <em>learning and memory</em>.
+
+<h2>A simple example</h2>
+
+This post <em>isn't</em> just about rote memorization, but talking about rote memorization will help to introduce some ideas. Let's say I'm trying to memorize this quote:
+
+<blockquote>If there is no struggle there is no progress. Those who profess to favor freedom, and yet depreciate agitation, are men who want crops without plowing up the ground. They want rain without thunder and lightning. They want the ocean without the awful roar of its many waters. This struggle may be a moral one; or it may be a physical one; or it may be both moral and physical; but it must be a struggle. Power concedes nothing without demand. It never did and it never will.
+<br><br>
+&ndash; Frederick Douglass<footnote((Alas, this quote is still relevant more than 150 years later. I want to say "I'll prove you wrong, Frederick Douglass! I'll seize power and then concede something without demand. That'll show you!" But what Douglass is really saying is that violent resistance can be justified as a way to end injustices, which is something I actually agree with.))></blockquote>
+
+First, I'd read the quote a few times on the page. Then I'd look away and try to repeat parts of it from memory. I'd go back and forth until I could repeat the whole thing.
+
+The obvious way is to memorize the first line, then the first two lines, then the first three lines, and so forth. But some people suggest that you first memorize the <em>last</em> line, then the <em>last</em> two lines, and so forth. This can be a good technique. Explaining <em>why</em> it's good will be a bit more complicated:
+
+I want you to imagine memory as a <strong>set of one-way arrows</strong>.
+
+<ul>
+<li><q>If there is no struggle there is no progress.</q> &#8594; <q>Those who profess to favor freedom,</q></li>
+<li><q>Those who profess to favor freedom,</q> &#8594; <q>and yet depreciate agitation,</q></li>
+<li><q>and yet depreciate agitation,</q> &#8594; <q>are men who want crops without plowing up the ground.</q></li>
+<li>...etc.</li>
+</ul>
+
+<p>(It should be obvious that the arrows are one-way: you can't repeat a quote backwards just because you can repeat it forwards!)</p>
+
+In order to memorize the quote, you have to <strong>build</strong> each of these arrows in your mind. That's what happens automatically when you memorize something. But there are ways to make the process easier or harder.
+
+When you try to look away from the page and repeat first two parts, you're <em>trying</em> to build this:
+
+<ul>
+<li><q>If there is no struggle there is no progress.</q> &#8594; <q>Those who profess to favor freedom,</q></li>
+</ul>
+
+But what if you forget the second part before you get to it? Then you end up with:
+
+<ul>
+<li><q>If there is no struggle there is no progress.</q> &#8594; "Uhh... what was the next part?"</li>
+</ul>
+
+<em>This actually gets recorded as a memory</em>. Remember from Part 1: Your brain will remember exactly how you imagined it, whether it was right or wrong. Later, your brain will sometimes automatically follow the "&#8594; I forget" path, unless the "&#8594; [actual next line]" path is much stronger. In order to memorize things well, you need to make sure that you <em>will</em> still remember the second part when you get to the point where you can record it.
+
+That's why starting from the end can be useful. If you've memorized the first four lines, and you are trying to add the fifth, then you have to remember the fifth line while you repeat the first four to yourself. But if you've memorized the <em>last</em> four lines, you can <em>start</em> with the fifth-to-last, and then proceed into ones you already remember pretty well.
+
+But that's enough about rote memorization. Let's get into the good stuff:
+
+<h2>A more sophisticated example</h2>
+
+Let's say I'm trying to learn all about how trees work. At some point, I learn that they bring water from their roots up to their branches using <a href="https://en.wikipedia.org/wiki/Capillary_action">capillary action</a>. I obviously want to form these memories:
+
+<ul>
+<li>Capillary action &#8594; trees use it to lift water</li>
+<li>How trees lift water &#8594; capillary action</li>
+</ul>
+
+Remember, memories are one-way, so these are two <em>separate</em> memories, even if you usually form them at the same time. So when I'm really trying to remember something, I often go over it in my head both ways. Capillary action, trees; trees, capillary action.
+
+Also, what I really want to happen is to remember this a while in the future, when I <em>haven't</em> just been studying it. Recall from Part 1 that you have to wake up the exact part of your brain that you want to change. I want to be able to remember this even <em>without</em> all the other context. So I specifically <em>try to clear my brain of all the other context</em>. I imagine that I've just run into the term "capillary action" and want to remember some things about it, sometime when I <em>haven't</em> just been thinking about trees. <em>Then</em> I lead my brain through the other related knowledge.
+
+And that's not even the good part. If I build the two memories above, it's like using my brain as a dictionary. A dictionary contains lots of information, but it doesn't know how to <em>understand</em> or <em>interpret</em> that information. My goal isn't to learn <em>facts</em> about trees &ndash; my goal is to understand the <em>system</em> of trees.
+
+Therefore, when I learn a new fact, I specifically try to build a lot of memories related to understanding the systems behind it. I play around with the fact in my mind, trying to relate it to other things I know. In this case, I might build memories like these:
+
+<ul>
+<li>Things that happen in tree roots &#8594; collecting water for capillary action</li>
+<li>Things that happen in tree leaves &#8594; pulling water through capillary action</li>
+<li>Ways various lifeforms transport water &#8594; capillary action</li>
+<li>Ways plants exploit quirks of physics &#8594; capillary action</li>
+<li>Things trees need in order to survive &#8594; moving water from roots to branches through capillary action</li>
+
+</ul>
+
+And when I think of each memory I want to build, I do the "imagining it without context" thing again. I imagine that I have only been asked "what are some things that tree roots do?", when I wasn't thinking about the other stuff. And so on for each of the others.
+
+<p>(I don't worry about trying to build the reverse memories for these ones. That tends to happen automatically when I'm trying to think of what memories to build. And besides, if I was able to come up with those ideas just now, I can probably come up with them again in the future.)</p>
+
+Forming these the extra memories helps me understand things faster and better. You start with a <em>list</em> of facts. This technique transforms it into a <em>network</em> of facts. That way, you can remember each fact <em>whenever it might be helpful</em>, rather than just when someone asks about that fact specifically.
+
+''',
+},
+
 
 ]
 
