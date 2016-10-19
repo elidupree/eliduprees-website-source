@@ -102,6 +102,9 @@ var source;
     }
     if (old_recording) {
       draw_recording (old_recording);
+      if (voice_practice_tool_options.recording_finished) {
+        voice_practice_tool_options.recording_finished (old_recording);
+      }
       if (auto_playback) {begin_playback (old_recording, 0);}
     }
   }
