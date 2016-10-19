@@ -299,9 +299,11 @@
   "remembered_contents": "02eff58f862e4c47ffdaa0adef40ad786bf5ad86b870a43eb36ca5a2fdffa758db3df399f3587bb4708ca64e6be42514"
  },
  "How to Train Your Brain, Part 1": {
-  "date_modified": "2016-10-11",
-  "date_posted": "2016-10-11",
-  "id": "377cda24af23e893dedf6a93dc51ec"
+  "date_modified": "2016-10-12",
+  "date_posted": "2016-10-12",
+  "deployed": true,
+  "id": "377cda24af23e893dedf6a93dc51ec",
+  "remembered_contents": "d9e4fa08456d51c9a6bf9da9eb30c1743d3f32ce3019d0882f032c7d477af64ac7f143497513b408a723a4642f47ef7c"
  },
  "I made biscuits!": {
   "date_modified": "2013-06-16",

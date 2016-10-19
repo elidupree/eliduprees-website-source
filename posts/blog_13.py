@@ -219,8 +219,7 @@ This tends to give me a lot of useless and/or <a href="/blog/imagine-a-ball-but-
 "title": "How to Train Your Brain, Part 1",
 "tags": ["neurodiversity"],
 "auto_paragraphs": True,
-"don't deploy": True,
-"blurb": "",
+"blurb": "Since other people haven't invented the best techniques yet, I was forced to invent a lot of techniques myself.",
 "contents":'''
 
 A lot of people assume that you can't train creativity or intelligence. I know that's not true, because I've done it myself. That is, I have improved my intelligence &ndash; including <a href="https://en.wikipedia.org/wiki/Fluid_intelligence">fluid intelligence</a> &ndash; through deliberate training.
