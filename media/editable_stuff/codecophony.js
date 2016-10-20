@@ -38,9 +38,36 @@ var items = {};
 var dependencies = {};
 var dependents = {};
 var interfaces = {};
-var worker;
+var worker_port;
+var sandbox_port;
+var sandbox_remote_port;
+var worker_script;
+var sandbox_initialized;
 var last_heard_from_worker;
 var last_started_script;
+
+var sandbox = $("#sandbox").on ("load", function (event) {
+  var channel = new MessageChannel();
+  sandbox_port = channel.port1;
+  sandbox_remote_port = channel.port2;
+  initialize_sandbox ();
+}) [0];
+
+function initialize_sandbox () {
+  if (worker_script && sandbox_port && !sandbox_initialized) {
+    sandbox.contentWindow.postMessage ({action:"initialize", worker_script: worker_script}, "*", [sandbox_remote_port]);
+    sandbox_port.onmessage = function (event) {
+      error_from_worker (event.data);
+    };
+    sandbox_initialized = true;
+    restart_worker();
+  }
+}
+
+$.get ("/media/codecophony-worker.js?rr", function (script) {
+  worker_script = script;
+  initialize_sandbox ();
+});
 
 function awaiting_script (name) {
   interfaces [name].status = "awaiting";
@@ -95,23 +122,29 @@ function receive_from_worker(event) {
 }
 function error_from_worker (error) {
   last_heard_from_worker = Date.now();
-  alert ("internal error in codecophony worker: "+ error.filename + ":" + error.lineno + ": " + error.message);
+  alert ("internal error in codecophony worker: "+ error.message);
 }
 function restart_worker() {
-  if (worker) {
+  /*if (worker) {
     worker.terminate();
   }
   worker = new Worker ("/media/codecophony-worker.js?rr");
   worker.onmessage = receive_from_worker;
-  worker.onerror = error_from_worker;
-  message_worker ({
-    action: "initialize",
-    items: items
-  });
-  last_heard_from_worker = Date.now();
+  worker.onerror = error_from_worker;*/
+  if (sandbox_initialized) {
+    var channel = new MessageChannel();
+    worker_port = channel.port1;
+    sandbox.contentWindow.postMessage ({action:"restart_worker"}, "*", [channel.port2]);
+    message_worker ({
+      action: "initialize",
+      items: items
+    });
+    last_heard_from_worker = Date.now();
+    worker_port.onmessage = receive_from_worker;
+  }
 }
 function message_worker (message) {
-  if (worker) {worker.postMessage (message); return true;}
+  if (worker_port) {worker_port.postMessage (message); return true;}
 }
 
 function add_dependency(dependent, dependency) {
@@ -243,18 +276,12 @@ function instrument_URL (name) {
 
 function fetch(url,type){return new Promise(function(done,reject){var req=new XMLHttpRequest;if(type)req.responseType=type;req.open("GET",url);req.onload=function(){req.status===200?done(req.response):reject(Error(req.statusText))};req.onerror=function(){reject(Error("Network Error"))};req.send()})}
 
-
-//restart_worker();
-
 loadAudio (instrument_URL ("reed_organ"), {fetch: fetch, context: audio}).then (function (buffers) {
-  
   var converted = {};
   Object.getOwnPropertyNames(buffers).forEach(function (note) {
     converted [note] = buffers [note].getChannelData(0);
   });
   set ("reed_organ", {item_type: "midijs_soundfont_instrument", data: converted});
-  
-restart_worker();
 });
 
 function initialize_source_recording (recording) {

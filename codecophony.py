@@ -53,6 +53,8 @@ textarea:focus {
   height: 60vh;
 }
 
+#sandbox {display: none;}
+
 .fa-stack.force_small {width:1em; height:1em; line-height:0.7em;}
 span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
     </style> 
@@ -61,6 +63,7 @@ span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''
 <main>
+  <iframe sandbox="allow-scripts" id="sandbox" src="/media/codecophony-iframe.html"></iframe>
   <div class="tool_box">
     <div class="tool_box_top">
       <canvas id="histogram_canvas" width="320" height="80">

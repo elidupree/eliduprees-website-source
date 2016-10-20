@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Codecophony sandbox frame</title>
+    <script>
+      // a simple wrapper that creates a worker and passes a MessagePort into it.
+      var worker;
+      var error_port;
+      var script_URL;
+      window.addEventListener('message', function (e) {
+        if (e.data.action === "initialize") {
+          var blob = new Blob ([e.data.worker_script]);
+          script_URL = window.URL.createObjectURL (blob);
+          error_port = e.ports[0];
+        }
+        if (e.data.action === "restart_worker") {
+          if (worker) {
+            worker.terminate();
+          }
+          worker = new Worker (script_URL);//"/media/codecophony-worker.js?rr");
+          worker.onerror = function(error) {
+            error_port.postMessage ({message: error.message});
+          };
+          worker.postMessage("...", [e.ports[0]]);
+        }
+      });
+    </script>
+  </head>
+</html>

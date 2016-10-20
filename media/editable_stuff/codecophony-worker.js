@@ -11,9 +11,10 @@ var codecophony = (function() {
 
 var sample_rate = 44100;
 var evaluate_script = codecophony_internals_evaluate_script;
+var port;
 
 function message_main (message) {
-  self.postMessage (message);
+  port.postMessage (message);
 }
 
 function user_warning (message) {
@@ -71,7 +72,10 @@ var handlers = {
 }
 
 self.onmessage = function (event) {
-  handlers [event.data.action] (event.data);
+  port = event.ports [0];
+  port.onmessage = function(event) {
+    handlers [event.data.action] (event.data);
+  };
 }
 
 function get (name) {
@@ -116,7 +120,7 @@ function render_note_default (note) {
 
   var instrument = get (note.instrument);
   if (!(instrument && instrument.item_type === "midijs_soundfont_instrument")) {
-    user_warning (`"${note.instrument}" is not a recognized type of instrument.`);
+    user_warning (`"${note.instrument}" is not a recognized type of instrument. (Perhaps it isn't loaded yet, or perhaps you misspelled it?)`);
     return empty;
   }
   var instrument_samples = instrument.data [semitones_to_note_name (note.pitch)];
