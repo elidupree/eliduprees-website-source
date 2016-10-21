@@ -206,14 +206,19 @@ function load_project (new_project_id) {
   restart_worker();
 }
 function unload_project () {
-  Object.getOwnPropertyNames(interfaces).forEach(function (UI_stuff) {
-    UI_stuff.element.detach();
+  Object.getOwnPropertyNames(interfaces).forEach(function (name) {
+    var UI_stuff = interfaces [name];
+    if (UI_stuff.element) {
+      UI_stuff.element.detach();
+    }
   });
 
   items = undefined;
   dependencies = undefined;
   dependents = undefined;
   interfaces = undefined;
+  project = undefined;
+  project_id = undefined;
   
   $(".project_editor").hide();
   $(".project_select").show();
@@ -327,7 +332,7 @@ function set (name, value, generated) {
   items [name] = value;
   dependents [name] = dependents [name] || {};
   dependencies [name] = dependencies [name] || {};
-  interfaces [name] = interfaces [name] || {name: name};
+  interfaces [name] = interfaces [name] || {};
   
   if (generated) {
     if (interfaces [name].element) {
@@ -458,7 +463,7 @@ function initialize_source_recording (recording) {
 }
 
 function create_script (name, initial_source, add_to_project) {
-  var UI_stuff = interfaces [name] || {name: name};
+  var UI_stuff = interfaces [name] || {};
   interfaces [name] = UI_stuff;
   var script_box = UI_stuff.element = $('<div class="item">').addClass("script_box");
   var name_input = UI_stuff.name_input = $('<input type="text">').val(name).on ("input", function (event) {
@@ -490,9 +495,10 @@ function create_script_from_UI () {
 
 var codecophony_box = $("<div>");
 $(".codecophony_space").append (codecophony_box);
-var new_script_button = $("<button>").text ("new script").click (create_script_from_UI);
+var new_script_button = $("<button>").text ("New script").click (create_script_from_UI);
 codecophony_box.append (new_script_button);
-
+var unload_project_button = $("<button>").text ("Quit to project-selection screen").click (unload_project);
+codecophony_box.append (unload_project_button);
 
 
 /*create_script ("example_script", `
