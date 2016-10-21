@@ -7,11 +7,14 @@ initialize_voice_practice_tool ({
     initialize_source_recording (recording);
   },
   recording_changed: function (recording) {
-    items [recording.codecophony_interface.name].data = recording.buffer.getChannelData (0);
+    items [recording.codecophony_interface.project_entry.name] = recording.buffer.getChannelData (0);
   },
   recording_finished: function (recording) {
-    var name = recording.codecophony_interface.name;
+    var UI_stuff = recording.codecophony_interface;
+    var name = UI_stuff.project_entry.name;
+    save (UI_stuff.project_entry.id, items [name]);
     set (name, items [name]);
+    console.log(project, items, UI_stuff);
   },
   sizes: function() {
     var width = $("body").width();
@@ -27,17 +30,20 @@ initialize_voice_practice_tool ({
 
 var audio = voice_practice_tool.audio;
 
-var adjectives = "palpable, terrible, awesome, extreme, tragic, lamentable, radical, exploratory, sesquipedalian, despicable, proud, clever, subtle, shining, structural, perforated, triumphant, understandable, malicious, dreaded infinite, relaxed confident complete ambitious logical intuitive insightful eloquent efficient quick yucky unstoppable optimal angry factual altruistic good helpful justified kinesthetic complicated vivacious liminal persistent invincible virtual vivid unstable bounded unbounded preventative iterative burning tentative novel countable dramatic flexible sensory modified modular momentarily ethical automatic mundane formalized explicit evaluated incorrect reasonable pragmatic responsible determined complementary prompt adequate sufficient necessary required local straightforward enthusiastic useful mythological philosophical derived precise superficial vindictive counterintuitive idiosyncratic"
+var adjectives = "palpable, terrible, awesome, extreme, tragic, lamentable, radical, exploratory, sesquipedalian, despicable, proud, clever, subtle, shining, structural, perforated, triumphant, understandable, malicious, dreaded infinite, relaxed confident complete ambitious logical intuitive insightful eloquent efficient quick yucky unstoppable optimal angry factual altruistic good helpful justified kinesthetic complicated vivacious liminal persistent invincible virtual vivid unstable bounded unbounded preventative iterative burning tentative novel countable dramatic flexible sensory modified modular momentary ethical automatic mundane formalized explicit evaluated incorrect reasonable pragmatic responsible determined complementary prompt adequate sufficient necessary required local straightforward enthusiastic useful mythological philosophical derived precise superficial vindictive counterintuitive idiosyncratic, immediate"
 var nouns = "doom, destiny, phlogiston, visitor archway doorway wizard device liberation knowledge justice solution hypothesis question description poise persona movement sphere source destination comprehension system design specification clarity choices assertion warning story will imagination prediction regret transcendence despair kilometer label zenith xenophobia calamity vision exception vehicle verification accomplishment viewpoint reality evolution revolution transformation enjoyment barrier code principle ideology being entity number defiance mischief control decision mapping visualization resolution maintenance magic category instance measurement consideration ingenuity removal quantity pattern inference labor performance realization reference injustice safety cycle route process structure truth nanosecond challenge investigation sarcasm judgment omnipotence opportunity ordering diffusion substance overflow focus"
 adjectives = adjectives.split(/[\s,]+/);
 nouns = nouns.split(/[\s,]+/);
 console.log ("Adjectives available: " + adjectives.length);
 console.log ("Nouns available: " + nouns.length);
 
-var items = {};
-var dependencies = {};
-var dependents = {};
-var interfaces = {};
+var items;// = {};
+var dependencies;// = {};
+var dependents;// = {};
+var interfaces;// = {};
+var project_id;
+var project;
+var project_list;
 var worker_port;
 var sandbox_port;
 var sandbox_remote_port;
@@ -45,6 +51,45 @@ var worker_script;
 var sandbox_initialized;
 var last_heard_from_worker;
 var last_started_script;
+var database;
+
+(function(){
+  var request = indexedDB.open("codecophony", 2);
+  request.onerror = function (event) {
+  
+  };
+  request.onsuccess = function (event) {
+    database = event.target.result;
+    load ("project_list", function (p) {
+      project_list = p || [];
+      project_list.forEach(function(id) {
+        load (id, function (project) {
+          if (project) {
+            add_project_selection (id, project);
+          }
+          else {
+            console.log ("Warning: deleting list entry for nonexistent project " + id);
+            project_list = project_list.filter (function (other_id) {return other_id !== id;});
+            save ("project_list", project_list);
+          }
+        });
+      });
+    });
+  };
+  request.onupgradeneeded = function (event) {
+    var database = event.target.result;
+    database.createObjectStore ("files", {keyPath: "id"});
+  }
+})();
+
+function save (id, data, onsuccess) {
+  database.transaction (["files"], "readwrite").objectStore ("files").put ({id: id, data: data}).onsuccess = onsuccess;
+}
+function load (id, onload) {
+  database.transaction (["files"]).objectStore ("files").get (id).onsuccess = function (event) {
+    onload(event.target.result && event.target.result.data);
+  };
+}
 
 var sandbox = $("#sandbox").on ("load", function (event) {
   var channel = new MessageChannel();
@@ -60,7 +105,6 @@ function initialize_sandbox () {
       error_from_worker (event.data);
     };
     sandbox_initialized = true;
-    restart_worker();
   }
 }
 
@@ -68,6 +112,114 @@ $.get ("/media/codecophony-worker.js?rr", function (script) {
   worker_script = script;
   initialize_sandbox ();
 });
+
+function generate_id() {
+  function display (u32) {return ("0000000" + u32.toString (16)).substr (-8);}
+  var array = new Uint32Array (4);
+  window.crypto.getRandomValues (array);
+  return display (array [0]) + display (array [1]) + display (array [2]) + display (array [3]);
+}
+function generate_name() {
+  return adjectives [Math.floor (Math.random()*adjectives.length)]+"-"+ nouns [Math.floor (Math.random()*nouns.length)];
+}
+
+$(".project_select").append ($("<button>").text ("new project").click (function() {new_project ();}));
+
+function add_project_selection (id, project) {
+  var name_input = $('<input type="text">').val(project.name).on ("input", function (event) {
+    project.name = name_input.val();
+  });
+  var edit_button = $("<button>").text ("edit").click (function() {load_project (id);});
+
+  $(".project_select").append (name_input, edit_button);
+}
+
+function new_project () {
+  var id = generate_id();
+  var project = {
+    name: generate_name(),
+    entries: [],
+  };
+  add_project_selection (id, project);
+  project_list.push (id);
+  save ("project_list", project_list);
+  save (id, project);
+}
+
+function load_project (new_project_id) {
+  if (!(database && sandbox_initialized)) {return;}
+  project_id = new_project_id;
+  items = {};
+  dependencies = {};
+  dependents = {};
+  interfaces = {};
+  
+  load (project_id, function (p) {
+   project = p;
+   project.entries.forEach(function(entry) {
+    
+    if (entry.entry_type === "midijs_soundfont_instrument") {
+      loadAudio (entry.URL, {fetch: fetch, context: audio}).then (function (buffers) {
+        var converted = {};
+        Object.getOwnPropertyNames(buffers).forEach(function (note) {
+          converted [note] = buffers [note].getChannelData(0);
+        });
+        set (entry.name, {item_type: "midijs_soundfont_instrument", data: converted});
+        interfaces [entry.name].project_entry = entry;
+      });
+    }
+    else {
+      load (entry.id, function (item) {
+        if (item) {
+          if (item.item_type == "script") {
+            create_script (entry.name, item.source);
+            interfaces [entry.name].project_entry = entry;
+          }
+          else {
+            set (entry.name, item);
+            interfaces [entry.name].project_entry = entry;
+            if (item instanceof Float32Array) {
+              var buffer = audio.createBuffer (1, item.length, audio.sampleRate);
+              buffer.copyToChannel (item, 0, 0);
+              var UI_stuff = interfaces [entry.name];
+              var recording = voice_practice_tool.create_recording (buffer, true);
+              recording.codecophony_interface = UI_stuff;
+              create_source_recording_UI (recording);
+              voice_practice_tool.draw_recording (recording);
+            }
+          }
+        }
+      });
+    }
+   });
+   
+  });
+  $(".project_editor").show();
+  $(".project_select").hide();
+  restart_worker();
+}
+function unload_project () {
+  Object.getOwnPropertyNames(interfaces).forEach(function (UI_stuff) {
+    UI_stuff.element.detach();
+  });
+
+  items = undefined;
+  dependencies = undefined;
+  dependents = undefined;
+  interfaces = undefined;
+  
+  $(".project_editor").hide();
+  $(".project_select").show();
+}
+
+function instrument_URL (name) {
+  return 'https://gleitz.github.io/midi-js-soundfonts/MusyngKite/' + name + '-ogg.js';
+}
+
+function fetch(url,type){return new Promise(function(done,reject){var req=new XMLHttpRequest;if(type)req.responseType=type;req.open("GET",url);req.onload=function(){req.status===200?done(req.response):reject(Error(req.statusText))};req.onerror=function(){reject(Error("Network Error"))};req.send()})}
+
+
+
 
 function awaiting_script (name) {
   interfaces [name].status = "awaiting";
@@ -185,10 +337,9 @@ function set (name, value, generated) {
         else if (input instanceof Float32Array && input.length >0) {
           var buffer = audio.createBuffer (1, input.length, audio.sampleRate);
           buffer.copyToChannel (input, 0, 0);
-          var UI_stuff = interfaces [name];
-          UI_stuff.recording = voice_practice_tool.create_recording (buffer, true);
-          element.append (UI_stuff.recording.element);
-          voice_practice_tool.draw_recording (UI_stuff.recording);
+          var recording = voice_practice_tool.create_recording (buffer, true);
+          element.append (recording.element);
+          voice_practice_tool.draw_recording (recording);
         }
         else {
           Object.getOwnPropertyNames (input).forEach(function(index) {
@@ -225,7 +376,6 @@ function set (name, value, generated) {
       });
     }
     $(".generated").append (element);
-    
   }
   
   message_worker ({
@@ -265,48 +415,47 @@ function rename_item (name, new_name) {
   var UI_stuff = interfaces [name];
   var item = remove_item (name);
   delete interfaces [name];
-  UI_stuff.name = new_name;
+  UI_stuff.project_entry.name = new_name;
+  save (project_id, project);
   interfaces [new_name] = UI_stuff;
   set (new_name, item);
 }
 
-function instrument_URL (name) {
-  return 'https://gleitz.github.io/midi-js-soundfonts/MusyngKite/' + name + '-ogg.js';
-}
 
-function fetch(url,type){return new Promise(function(done,reject){var req=new XMLHttpRequest;if(type)req.responseType=type;req.open("GET",url);req.onload=function(){req.status===200?done(req.response):reject(Error(req.statusText))};req.onerror=function(){reject(Error("Network Error"))};req.send()})}
-
-loadAudio (instrument_URL ("reed_organ"), {fetch: fetch, context: audio}).then (function (buffers) {
-  var converted = {};
-  Object.getOwnPropertyNames(buffers).forEach(function (note) {
-    converted [note] = buffers [note].getChannelData(0);
-  });
-  set ("reed_organ", {item_type: "midijs_soundfont_instrument", data: converted});
-});
-
-function initialize_source_recording (recording) {
-  var name;
-  while (!name || items [name]) {
-    name = adjectives [Math.floor (Math.random()*adjectives.length)]+"-"+ nouns [Math.floor (Math.random()*nouns.length)];
-  }
-  var UI_stuff = interfaces [name] || {name: name};
-  interfaces [name] = UI_stuff;
-  recording.codecophony_interface = UI_stuff;
-  
-  set (name, recording.buffer.getChannelData(0));
-  $(".recordings").append (recording.element);
-  
-  var name_input = UI_stuff.name_input = $('<input type="text">').val(name).on ("input", function (event) {
+function create_source_recording_UI (recording) {
+  var UI_stuff = recording.codecophony_interface;
+  var name_input = UI_stuff.name_input = $('<input type="text">').val(UI_stuff.project_entry.name).on ("input", function (event) {
     UI_stuff.changed_name_to = name_input.val();
     UI_stuff.changed_at = Date.now();
   });
   var error_display = UI_stuff.error_display = $("<div>");
   recording.element.prepend (name_input).append (error_display);
+  
+  UI_stuff.element = recording.element;
+  $(".recordings").append (recording.element);
 }
-function create_script (name, initial_source) {
+
+function initialize_source_recording (recording) {
+  var name;
+  while (!name || items [name]) {
+    name = generate_name();
+  }
+  var UI_stuff = interfaces [name] || {};
+  interfaces [name] = UI_stuff;
+  recording.codecophony_interface = UI_stuff;
+  
+  set (name, recording.buffer.getChannelData(0));
+  
+  UI_stuff.project_entry = {entry_type: "recording", id: generate_id(), name: name,};
+  project.entries.push (UI_stuff.project_entry);
+  save (project_id, project);
+  create_source_recording_UI (recording);
+}
+
+function create_script (name, initial_source, add_to_project) {
   var UI_stuff = interfaces [name] || {name: name};
   interfaces [name] = UI_stuff;
-  var script_box = $('<div class="item">').addClass("script_box");
+  var script_box = UI_stuff.element = $('<div class="item">').addClass("script_box");
   var name_input = UI_stuff.name_input = $('<input type="text">').val(name).on ("input", function (event) {
     UI_stuff.changed_name_to = name_input.val();
     UI_stuff.changed_at = Date.now();
@@ -319,29 +468,38 @@ function create_script (name, initial_source) {
   var error_display = UI_stuff.error_display = $("<pre>");
   script_box.append (name_input).append (script_input).append (error_display);
   $(".codecophony_space").append (script_box);
-  set (name, {item_type: "script", source: initial_source});
+  
+  var item = {item_type: "script", source: initial_source};
+  set (name, item);
+  
+  if (add_to_project) {
+    UI_stuff.project_entry = {entry_type: "script", id: generate_id(), name: name,};
+    project.entries.push (UI_stuff.project_entry);
+    save (project_id, project);
+    save (UI_stuff.project_entry.id, item);
+  }
 }
-function create_script_UI () {
+function create_script_from_UI () {
   var name = new_script_name_input.val();
   if (name !== "" && !items [name]) {
-    create_script (name, "");
+    create_script (name, "", true);
   }
 }
 
 var codecophony_box = $("<div>");
 $(".codecophony_space").append (codecophony_box);
-var new_script_button = $("<button>").text ("new script").click (create_script_UI);
+var new_script_button = $("<button>").text ("new script").click (create_script_from_UI);
 codecophony_box.append (new_script_button);
 var new_script_name_input = $('<input type="text">').keyup(function (event) {
   if (event.keyCode == 13) {
-    create_script_UI();
+    create_script_from_UI();
   }
 });
 codecophony_box.append (new_script_name_input);
 
 
 
-create_script ("example_script", `
+/*create_script ("example_script", `
 var notes = codecophony.scrawl (
   "with instrument reed_organ pitch 0 duration 0.25 play 0 then 2 then 3 then 5 then 7 lasting 4"
 )
@@ -350,11 +508,12 @@ create ("example_sequence", codecophony.render_note_array (notes));
 `);
 create_script ("example_copier", `
   create ("example_notes_copy", get ("example_notes"));
-`);
+`);*/
 
 function draw_codecophony() {
   requestAnimationFrame (draw_codecophony);
   
+  if (!items) {return;}
   var anything_running = false;
   var anything_set_to_run = false;
   var item_names = Object.getOwnPropertyNames (items);
@@ -363,13 +522,15 @@ function draw_codecophony() {
     
     if (UI_stuff.changed_at && Date.now() > UI_stuff.changed_at + 1000) {
       if (UI_stuff.changed_to) {
-        set (name, {item_type: "script", source: UI_stuff.changed_to});
+        var item = {item_type: "script", source: UI_stuff.changed_to};
+        set (name, item);
+        save (UI_stuff.project_entry.id, item);
         delete UI_stuff.changed_to;
       }
       if (UI_stuff.changed_name_to) {
         if (items [UI_stuff.changed_name_to]) {
           UI_stuff.error_display.text ("Error: another item already has the same name");
-          UI_stuff.name_input.val (UI_stuff.name);
+          UI_stuff.name_input.val (UI_stuff.project_entry.name);
         } else {
           rename_item (name, UI_stuff.changed_name_to);
         }

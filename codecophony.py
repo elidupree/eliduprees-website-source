@@ -32,7 +32,8 @@ canvas.recording {display: block; cursor: pointer;}
 }
 .page_description {padding:0.3em 2em; font-size: 110%;}
 
-main,.tool_box_top {
+.project_editor {display: none;}
+.project_editor_inner,.tool_box_top {
 display: flex;
 justify-content: space-between;
 }
@@ -64,6 +65,8 @@ span.no_underlay {position: absolute; top: 0; left: 0; z-index: 1;}
       '''+bars.bars_wrap({"games":True}, '''
 <main>
   <iframe sandbox="allow-scripts" id="sandbox" src="/media/codecophony-iframe.html"></iframe>
+  <div class="project_select "></div>
+  <div class="project_editor "><div class="project_editor_inner ">
   <div class="tool_box">
     <div class="tool_box_top">
       <canvas id="histogram_canvas" width="320" height="80">
@@ -79,6 +82,7 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
     <div class="generated "></div>
   </div>
   <div class="codecophony_space"></div>
+  </div></div>
 </main>
 '''), {"blurb": blurb, "blurb_image": blurb_image, "after_body":'''
      <script type="text/javascript" src="/media/audiobuffer-to-wav.js?rr"></script>
