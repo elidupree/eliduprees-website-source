@@ -166,14 +166,7 @@ function load_project (new_project_id) {
    project.entries.forEach(function(entry) {
     
     if (entry.entry_type === "midijs_soundfont_instrument") {
-      loadAudio (entry.URL, {fetch: fetch, context: audio}).then (function (buffers) {
-        var converted = {};
-        Object.getOwnPropertyNames(buffers).forEach(function (note) {
-          converted [note] = buffers [note].getChannelData(0);
-        });
-        set (entry.name, {item_type: "midijs_soundfont_instrument", data: converted});
-        interfaces [entry.name].project_entry = entry;
-      });
+      load_instrument_item (entry);
     }
     else {
       load (entry.id, function (item) {
@@ -229,6 +222,19 @@ function instrument_URL (name) {
 }
 
 function fetch(url,type){return new Promise(function(done,reject){var req=new XMLHttpRequest;if(type)req.responseType=type;req.open("GET",url);req.onload=function(){req.status===200?done(req.response):reject(Error(req.statusText))};req.onerror=function(){reject(Error("Network Error"))};req.send()})}
+    
+function load_instrument_item (entry) {
+      loadAudio (entry.URL, {fetch: fetch, context: audio}).then (function (buffers) {
+        var converted = {};
+        Object.getOwnPropertyNames(buffers).forEach(function (note) {
+          converted [note] = buffers [note].getChannelData(0);
+        });
+        set (entry.name, {item_type: "midijs_soundfont_instrument", data: converted});
+        interfaces [entry.name].project_entry = entry;
+        var element = interfaces [entry.name].element =
+        $(".codecophony_instruments").append ($(`<div class="item">Imported instrument: ${entry.name}</div>`));
+      });
+}
 
 
 
@@ -477,7 +483,7 @@ function create_script (name, initial_source, add_to_project) {
   });
   var error_display = UI_stuff.error_display = $("<pre>");
   script_box.append ("Script name: ", name_input).append (script_input).append (error_display);
-  $(".codecophony_space").append (script_box);
+  $(".codecophony_scripts").append (script_box);
   
   var item = {item_type: "script", source: initial_source};
   set (name, item);
@@ -496,10 +502,34 @@ function create_script_from_UI () {
 var codecophony_box = $("<div>");
 $(".codecophony_space").append (codecophony_box);
 var new_script_button = $("<button>").text ("New script").click (create_script_from_UI);
-codecophony_box.append (new_script_button);
-var unload_project_button = $("<button>").text ("Quit to project-selection screen").click (unload_project);
-codecophony_box.append (unload_project_button);
 
+var unload_project_button = $("<button>").text ("Quit to project-selection screen").click (unload_project);
+
+var instrument_importer = $('<select class="import_instruments"> <option>Import instruments…</option></select>').on ("input", function() {
+  var instrument = instrument_importer.val();
+  if (instrument && !items [instrument]) {
+    var entry = {
+      entry_type: "midijs_soundfont_instrument",
+      URL: instrument_URL (instrument),
+      name: instrument,
+    };
+    project.entries.push (entry);
+    save (project_id, project);
+    load_instrument_item (entry);
+  }
+});
+
+codecophony_box.append (new_script_button,unload_project_button,instrument_importer);
+$(".codecophony_space").append ($('<div class="codecophony_instruments">'));
+$(".codecophony_space").append ($('<div class="codecophony_scripts">'));
+
+
+
+$.get ("https://gleitz.github.io/midi-js-soundfonts/MusyngKite/names.json", function (something) {
+  something.forEach(function(name) {
+    instrument_importer.append ($(`<option value="${name}">${name}</option>`));
+  });
+});
 
 /*create_script ("example_script", `
 var notes = codecophony.scrawl (
