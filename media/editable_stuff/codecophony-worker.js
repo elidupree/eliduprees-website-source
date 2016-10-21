@@ -1,13 +1,22 @@
-var items;
-var stack;
 
 // A wrapper to stop eval() from changing variables local to the codecophony internals
 function codecophony_internals_evaluate_script (source) {
+  var items = new Proxy ({},{
+    get: function (target, property, receiver) {
+      return codecophony.get (property);
+    },
+    set: function (target, property, value, receiver) {
+      return codecophony.create (property, value);
+    },
+  });
   return eval (source);
 }
 
 //A wrapper to namespace isolate the codecophony internals from user scripts
 var codecophony = (function() {
+
+var items;
+var stack;
 
 var sample_rate = 44100;
 var evaluate_script = codecophony_internals_evaluate_script;
@@ -192,8 +201,8 @@ function render_note_array (note_array) {
 }
 
 function scrawl (input) {
-  var commands = input.split (/\s+|(\[)/).filter (function (command) {
-    return command !== undefined; 
+  var commands = input.split (/\s+|(\[|\])/).filter (function (command) {
+    return command !== undefined && command !== ""; 
   });
   var notes = [];
   var context_stack = [{duration: 1, start: 0, pitch: 0, volume: 1}];
@@ -268,9 +277,9 @@ function scrawl (input) {
           context_multiply ("duration", as_float);
         }
         else if (command === "volume") {
-          context_multiply ("duration", as_float);
+          context_multiply ("volume", as_float);
         }
-        if (command === "pitch" || command === "transpose") {
+        else if (command === "pitch" || command === "transpose") {
           context_add ("pitch", as_float);
         }
         else if (!isNaN (as_float)) {
@@ -296,5 +305,5 @@ return {get: get, create: create, sample_rate: sample_rate, render_note: render_
 codecophony_internals_evaluate_script = undefined;
 
 // Conveniences for the user
-var get = codecophony.get;
-var create = codecophony.create;
+//var get = codecophony.get;
+//var create = codecophony.create;
