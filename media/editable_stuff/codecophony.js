@@ -120,7 +120,7 @@ function generate_id() {
   return display (array [0]) + display (array [1]) + display (array [2]) + display (array [3]);
 }
 function generate_name() {
-  return adjectives [Math.floor (Math.random()*adjectives.length)]+"-"+ nouns [Math.floor (Math.random()*nouns.length)];
+  return adjectives [Math.floor (Math.random()*adjectives.length)]+"_"+ nouns [Math.floor (Math.random()*nouns.length)];
 }
 function generate_item_name() {
   var name;
@@ -231,8 +231,8 @@ function load_instrument_item (entry) {
         });
         set (entry.name, {item_type: "midijs_soundfont_instrument", data: converted});
         interfaces [entry.name].project_entry = entry;
-        var element = interfaces [entry.name].element =
-        $(".codecophony_instruments").append ($(`<div class="item">Imported instrument: ${entry.name}</div>`));
+        var element = interfaces [entry.name].element = $(`<div class="item">Imported instrument: ${entry.name}</div>`)
+        $(".codecophony_instruments").append (element);
       });
 }
 
