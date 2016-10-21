@@ -122,6 +122,13 @@ function generate_id() {
 function generate_name() {
   return adjectives [Math.floor (Math.random()*adjectives.length)]+"-"+ nouns [Math.floor (Math.random()*nouns.length)];
 }
+function generate_item_name() {
+  var name;
+  while (!name || items [name]) {
+    name = generate_name();
+  }
+  return name;
+}
 
 $(".project_select").append ($("<button>").text ("new project").click (function() {new_project ();}));
 
@@ -436,10 +443,8 @@ function create_source_recording_UI (recording) {
 }
 
 function initialize_source_recording (recording) {
-  var name;
-  while (!name || items [name]) {
-    name = generate_name();
-  }
+  var name = generate_item_name();
+
   var UI_stuff = interfaces [name] || {};
   interfaces [name] = UI_stuff;
   recording.codecophony_interface = UI_stuff;
@@ -466,7 +471,7 @@ function create_script (name, initial_source, add_to_project) {
     error_display.text ("waiting for you to finish typing...");
   });
   var error_display = UI_stuff.error_display = $("<pre>");
-  script_box.append (name_input).append (script_input).append (error_display);
+  script_box.append ("Script name: ", name_input).append (script_input).append (error_display);
   $(".codecophony_space").append (script_box);
   
   var item = {item_type: "script", source: initial_source};
@@ -480,22 +485,13 @@ function create_script (name, initial_source, add_to_project) {
   }
 }
 function create_script_from_UI () {
-  var name = new_script_name_input.val();
-  if (name !== "" && !items [name]) {
-    create_script (name, "", true);
-  }
+  create_script (generate_item_name(), "", true);
 }
 
 var codecophony_box = $("<div>");
 $(".codecophony_space").append (codecophony_box);
 var new_script_button = $("<button>").text ("new script").click (create_script_from_UI);
 codecophony_box.append (new_script_button);
-var new_script_name_input = $('<input type="text">').keyup(function (event) {
-  if (event.keyCode == 13) {
-    create_script_from_UI();
-  }
-});
-codecophony_box.append (new_script_name_input);
 
 
 
