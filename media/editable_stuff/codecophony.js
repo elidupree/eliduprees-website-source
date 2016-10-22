@@ -48,6 +48,7 @@ var worker_port;
 var sandbox_port;
 var sandbox_remote_port;
 var worker_script;
+var lodash_script;
 var sandbox_initialized;
 var last_heard_from_worker;
 var last_started_script;
@@ -99,8 +100,8 @@ var sandbox = $("#sandbox").on ("load", function (event) {
 }) [0];
 
 function initialize_sandbox () {
-  if (worker_script && sandbox_port && !sandbox_initialized) {
-    sandbox.contentWindow.postMessage ({action:"initialize", worker_script: worker_script}, "*", [sandbox_remote_port]);
+  if (lodash_script && worker_script && sandbox_port && !sandbox_initialized) {
+    sandbox.contentWindow.postMessage ({action:"initialize", worker_script: lodash_script+"\n"+worker_script}, "*", [sandbox_remote_port]);
     sandbox_port.onmessage = function (event) {
       error_from_worker (event.data);
     };
@@ -110,6 +111,10 @@ function initialize_sandbox () {
 
 $.get ("/media/codecophony-worker.js?rr", function (script) {
   worker_script = script;
+  initialize_sandbox ();
+});
+$.get ("/media/lodash.js?rr", function (script) {
+  lodash_script = script;
   initialize_sandbox ();
 });
 
@@ -241,19 +246,25 @@ function load_instrument_item (entry) {
 
 function awaiting_script (name) {
   interfaces [name].status = "awaiting";
-  interfaces [name].error_display.text ("Waiting to be run ...");
+  if (!interfaces [name].running) {
+    interfaces [name].error_display.text ("Waiting to be run ...");
+  }
 }
 function begin_script (name) {
   last_started_script = name;
+  interfaces [name].running = true;
   if (interfaces [name].status === "set_to_run") {
-    interfaces [name].status = "running";
+    interfaces [name].status = "properly_running";
     interfaces [name].error_display.text ("Running...");
   }
 }
 function finish_script (name, success) {
-  if (interfaces [name].status === "running") {
+  if (interfaces [name].status === "properly_running") {
     interfaces [name].status = "finished";
     if (success) {interfaces [name].error_display.append ("\nCompleted successfully");}
+  }
+  if (interfaces [name].running) {
+    interfaces [name].running = false;
   }
   Object.getOwnPropertyNames(dependents [name]).forEach(function (dependent) {
     if (interfaces [name].status === "finished") {
@@ -571,11 +582,11 @@ function draw_codecophony() {
       delete UI_stuff.changed_at;
     }
     
-    if (UI_stuff.status === "running") {
+    if (UI_stuff.running) {
       anything_set_to_run = true;
       anything_running = true;
     }
-    if (UI_stuff.status === "set_to_run") {
+    else if (UI_stuff.status === "set_to_run") {
       anything_set_to_run = true;
     }
   });
@@ -586,7 +597,7 @@ function draw_codecophony() {
   if (anything_running) {
     if (Date.now() > last_heard_from_worker + 10000) {
       item_names.forEach (function (name) {
-        if (interfaces [name].status === "running") {
+        if (interfaces [name].running) {
           if (last_started_script === name) {
             interfaces [name].error_display.text ("Error: timed out");
           }
@@ -607,6 +618,7 @@ function draw_codecophony() {
           name: name,
         })){
           interfaces [name].status = "set_to_run";
+          interfaces [name].error_display.text ("Sending to worker thread…");
           anything_set_to_run = true;
         }
       }

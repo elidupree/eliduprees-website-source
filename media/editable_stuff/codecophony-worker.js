@@ -1,4 +1,3 @@
-
 // A wrapper to stop eval() from changing variables local to the codecophony internals
 function codecophony_internals_evaluate_script (source) {
   var items = new Proxy ({},{
@@ -16,7 +15,9 @@ function codecophony_internals_evaluate_script (source) {
 var codecophony = (function() {
 
 var items;
+var script_results;
 var stack;
+var script_context;
 
 var sample_rate = 44100;
 var evaluate_script = codecophony_internals_evaluate_script;
@@ -37,14 +38,14 @@ function user_warning (message) {
 function run_script (name) {
   var item = items [name];
   item.began = true;
-  stack = {current: name, parent: stack};
+  stack = {current: name, parent: stack, current_items: {}};
   message_main({
     action: "begin_script",
     name: name,
   });
   var success = false;
   try {
-    item.result = evaluate_script (item.source);
+    script_results [name] = deepFreeze(evaluate_script (item.source));
     success = true;
   } catch (error) {
     message_main({
@@ -62,14 +63,41 @@ function run_script (name) {
   stack = stack.parent;
 }
 
+function deepFreeze (o) {
+  // this does not work. You get a type error when the object contains any array buffers.
+  // I'm disabling it completely in case there are OTHER undocumented type errors. :/
+  return o;
+
+  if (o !== null
+      && (typeof o === "object" || typeof o === "function")
+      && !Object.isFrozen(o)) {
+      
+  Object.freeze(o);
+
+  Object.getOwnPropertyNames(o).forEach(function (prop) {
+    if (o.hasOwnProperty(prop)) {
+      deepFreeze(o[prop]);
+    }
+  });
+  
+  }
+  return o;
+};
+
 function initialize (message) {
   items = message.items;
+  script_results = {};
+  Object.getOwnPropertyNames(items).forEach(function (name) {
+    deepFreeze (items [name]);
+  });
 }
 
 function item_changed (message) {
   var name = message.name;
   var item = message.value;
   items [message.name] = item;
+  delete script_results[message.name];
+  deepFreeze (item);
 }
 
 var handlers = {
@@ -88,22 +116,33 @@ self.onmessage = function (event) {
 }
 
 function get (name) {
+  if (stack.current_items [name]) {return stack.current_items [name];}
   var item = items [name];
   var result;
   if (item && item.item_type === "script") {
     if (!item.began) {
       run_script (name, item);
     }
-    result = item.result;
+    result = script_results [name];
   }
   else if (item) {
-    result = item;
+  console.log("aaa", item);
+    result = _.cloneDeepWith (item, function (value) {
+      if (value instanceof Float32Array) {
+        var result = new Float32Array (value.length);
+        result.set (value);
+        return result;
+      }
+    });
+  console.log("bbb");
+  
   }
   message_main ({
     action: "add_dependency",
     dependent: stack.current,
     dependency: name
   });
+  stack.current_items [name] = result;
   return result;
 }
 function create (name, value) {
@@ -161,29 +200,60 @@ function render_note (note) {
   return (note.renderer && get (note.renderer) || render_note_default) (note);
 }
 
+function recursively (something, actions) {
+  function handle (input) {
+    if (typeof input === "object") {
+      if (typeof input.pitch === "number" && typeof input.start === "number" && typeof input.duration === "number") {
+        actions.note_action && actions.note_action (input);
+      }
+      else if (is_sequence(input)) {
+        actions.sequence_action && actions.sequence_action (input);
+      }
+      else {
+        Object.getOwnPropertyNames (input).forEach(function(index) {
+          handle (input[index]); 
+        });
+      }
+    }
+  }
+  handle (something);
+}
+
+function is_sequence (sequence) {
+  return sequence && (sequence instanceof Float32Array || (typeof sequence.start === "number" && sequence.data instanceof Float32Array));
+}
+
+function normalized_sequence (sequence) {
+  if (sequence instanceof Float32Array) {
+    return {
+      item_type: "sequence",
+      start: 0,
+      data: sequence
+    };
+  }
+  return sequence;
+}
+
+
 function add_sequences (sequences) {
   var min = Infinity;
   var exclusive_max = -Infinity;
-  sequences.forEach (function (sequence) {
-    if (sequence instanceof Float32Array) {
-      sequence = {start: 0, data: sequence};
-    }
+  recursively (sequences, {sequence_action: function (sequence) {
+    sequence = normalized_sequence(sequence);
     min = Math.min (min, sequence.start);
     exclusive_max = Math.max (exclusive_max, sequence.start + sequence.data.length);
-  });
+  }});
   var duration = exclusive_max - min;
   var data = new Float32Array (duration);
   for (var index = 0; index < duration;++index) {
     data [index] = 0;
   }
-  sequences.forEach (function (sequence) {
-    if (sequence instanceof Float32Array) {
-      sequence = {start: 0, data: sequence};
-    }
-    for (var index = 0; index < sequence.data.length;++index) {
+  recursively (sequences, {sequence_action: function (sequence) {
+    sequence = normalized_sequence(sequence);
+    for (var index = 0; index < sequence.data.length; ++index) {
       data [index + sequence.start - min] += sequence.data [index];
     }
-  });
+  }});
   
   return {
     item_type: "sequence",
@@ -192,12 +262,26 @@ function add_sequences (sequences) {
   }
 }
 
-function render_note_array (note_array) {
+function render_notes (notes) {
   var sequences = [];
-  note_array.forEach (function (note) {
+  recursively (notes, {note_action: function (note) {
     sequences.push (render_note (note));
-  });
+  }});
   return add_sequences (sequences);
+}
+
+function amplify (stuff, factor) {
+  recursively (stuff, {
+    note_action: function (note) {
+      note.volume = (note.volume || 1)*factor;
+    },
+    sequence_action: function (sequence) {
+      var buffer = normalized_sequence (sequence).data;
+      for (var index = 0; index < buffer.length; ++index) {
+        buffer [index] *= factor;
+      }
+    }
+  });
 }
 
 function scrawl (input) {
@@ -297,7 +381,7 @@ function scrawl (input) {
   return notes;
 }
 
-return {get: get, create: create, sample_rate: sample_rate, render_note: render_note, render_note_default: render_note_default, render_note_array: render_note_array, add_sequences: add_sequences, scrawl: scrawl};
+return {get: get, create: create, sample_rate: sample_rate, render_note: render_note, render_note_default: render_note_default, render_notes: render_notes, add_sequences: add_sequences, scrawl: scrawl, amplify: amplify};
 
 })();
 
