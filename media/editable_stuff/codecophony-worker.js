@@ -175,7 +175,7 @@ function render_note_default (note) {
   var half_loop_length = Math.floor (instrument_samples.length*0.2);
   var loop_length = half_loop_length*2;
   var loop_start = instrument_samples.length - loop_length;
-  function sample (position) {
+  function sample_integer (position) {
     if (position < instrument_samples.length-half_loop_length) {return instrument_samples [position];}
     var position_1 = (position - loop_start) % loop_length;
     var position_2 = (position_1 + half_loop_length) % loop_length;
@@ -184,9 +184,12 @@ function render_note_default (note) {
     //console.log (position_1, position_2, weight_1, weight_2);
     return instrument_samples [loop_start + position_1]*Math.sqrt (weight_1) + instrument_samples [loop_start + position_2]*Math.sqrt (weight_2);
   }
+  function sample (position) {
+    return sample_integer (Math.floor (position))*(1-(position % 1)) + sample_integer (Math.ceil(position))*(position % 1);
+  }
   
   // round the start time to an integer so that samples can be combined easier
-  var start = Math.floor (note.start*sample_rate)
+  var start = Math.floor (note.start*sample_rate);
   
   if (!instrument_samples) {
     user_warning (`Pitch ${note.pitch} (${semitones_to_note_name (note.pitch)}) is not available from instrument "${note.instrument}"`);
@@ -194,11 +197,27 @@ function render_note_default (note) {
   }
   
   var decay = note.decay || 0.2;
+  var speed = 1;
+  if (typeof note.speed === "number") {
+    speed = note.speed;
+  }
+  else if (note.speed) {
+    speed = get (note.speed);
+  }
   var duration = Math.floor((note.duration+decay)*sample_rate);
   var data = new Float32Array (duration);
+  var instrument_position = 0;
   for (var index = 0; index < duration;++index) {
     var cutoff = Math.min (1, 1 - ((index/sample_rate) - note.duration)/decay);
-    data [index] = sample (index)*cutoff*note.volume;
+    
+    data [index] = sample (instrument_position)*cutoff*note.volume;
+    
+    if (typeof speed === "number") {
+      instrument_position += speed;
+    }
+    else {
+      instrument_position += speed (index/sample_rate, note);
+    }
   }
   
   return {
