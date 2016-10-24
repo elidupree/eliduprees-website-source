@@ -31,7 +31,7 @@ initialize_voice_practice_tool ({
 var audio = voice_practice_tool.audio;
 
 var adjectives = "palpable, terrible, awesome, extreme, tragic, lamentable, radical, exploratory, sesquipedalian, despicable, proud, clever, subtle, shining, structural, perforated, triumphant, understandable, malicious, dreaded infinite, relaxed confident complete ambitious logical intuitive insightful eloquent efficient quick yucky unstoppable optimal angry factual altruistic good helpful justified kinesthetic complicated vivacious liminal persistent invincible virtual vivid unstable bounded unbounded preventative iterative burning tentative novel countable dramatic flexible sensory modified modular momentary ethical automatic mundane formalized explicit evaluated incorrect reasonable pragmatic responsible determined complementary prompt adequate sufficient necessary required local straightforward enthusiastic useful mythological philosophical derived precise superficial vindictive counterintuitive idiosyncratic, immediate"
-var nouns = "doom, destiny, phlogiston, visitor archway doorway wizard device liberation knowledge justice solution hypothesis question description poise persona movement sphere source destination comprehension system design specification clarity choices assertion warning story will imagination prediction regret transcendence despair kilometer label zenith xenophobia calamity vision exception vehicle verification accomplishment viewpoint reality evolution revolution transformation enjoyment barrier code principle ideology being entity number defiance mischief control decision mapping visualization resolution maintenance magic category instance measurement consideration ingenuity removal quantity pattern inference labor performance realization reference injustice safety cycle route process structure truth nanosecond challenge investigation sarcasm judgment omnipotence opportunity ordering diffusion substance overflow focus"
+var nouns = "doom, destiny, phlogiston, visitor archway doorway wizard device liberation knowledge justice solution hypothesis question description poise persona movement sphere source destination comprehension system design specification clarity choices assertion warning story will imagination prediction regret transcendence despair kilometer label zenith xenophobia calamity vision exception vehicle verification accomplishment viewpoint reality evolution revolution transformation enjoyment barrier code principle ideology being entity number defiance mischief control decision mapping visualization resolution maintenance magic category instance measurement consideration ingenuity removal quantity pattern inference labor performance realization reference injustice safety cycle route process structure truth nanosecond challenge investigation sarcasm judgment omnipotence opportunity ordering diffusion substance overflow focus insight"
 adjectives = adjectives.split(/[\s,]+/);
 nouns = nouns.split(/[\s,]+/);
 console.log ("Adjectives available: " + adjectives.length);
@@ -251,27 +251,48 @@ function awaiting_script (name) {
   }
 }
 function begin_script (name) {
+  var UI_stuff = interfaces [name];
   last_started_script = name;
-  interfaces [name].running = true;
-  if (interfaces [name].status === "set_to_run") {
-    interfaces [name].status = "properly_running";
-    interfaces [name].error_display.text ("Running...");
+  UI_stuff.running = true;
+  UI_stuff.old_created = UI_stuff.created || [];
+  UI_stuff.created = [];
+  if (UI_stuff.status === "set_to_run") {
+    UI_stuff.status = "properly_running";
+    UI_stuff.error_display.text ("Running...");
   }
 }
 function finish_script (name, success) {
-  if (interfaces [name].status === "properly_running") {
-    interfaces [name].status = "finished";
-    if (success) {interfaces [name].error_display.append ("\nCompleted successfully");}
+  var UI_stuff = interfaces [name];
+  if (UI_stuff.status === "properly_running") {
+    UI_stuff.status = "finished";
+    if (success) {UI_stuff.error_display.append ("\nCompleted successfully");}
   }
-  if (interfaces [name].running) {
-    interfaces [name].running = false;
+  if (UI_stuff.running) {
+    UI_stuff.running = false;
   }
   Object.getOwnPropertyNames(dependents [name]).forEach(function (dependent) {
-    if (interfaces [name].status === "finished") {
+    if (UI_stuff.status === "finished") {
       remove_dependency (dependent, name);
       awaiting_script (dependent);
     }
   });
+  var retain = {};
+  UI_stuff.created.forEach(function(created_name) {
+    if (interfaces [created_name].created_by !== name) {
+      throw new Error ("item creation records are inconsistent");
+    }
+    retain [created_name] = true;
+  });
+  UI_stuff.old_created.forEach(function(created_name) {
+    if (interfaces [created_name].created_by !== name) {
+      throw new Error ("item creation records are inconsistent");
+    }
+    if (!retain [created_name]) {
+      console.log (created_name);
+      remove_item (created_name, true);
+    }
+  });
+  delete UI_stuff.old_created;
 }
 function user_warning (message) {
   interfaces [message.name].error_display.append ("\nWarning: " + message.message);
@@ -280,7 +301,17 @@ function user_error (message) {
   interfaces [message.name].error_display.append ("\nError: " + message.message);
 }
 function create_item (message) {
-  set (message.name, message.value, true);
+  if (interfaces [message.name] && interfaces [message.name].created_by !== message.created_by) {
+    interfaces [message.created_by].error_display.append ("\nWarning: attempted to set value of the item " + message.name + ", which already existed and wasn't created by the same script.");
+  }
+  else {
+    var UI_stuff = interfaces [message.name] || {};
+    interfaces [message.name] = UI_stuff;
+    UI_stuff.created_by = message.created_by;
+    interfaces [message.created_by].created.push (message.name);
+    
+    set (message.name, message.value, true);
+  }
 }
 
 var handlers = {
@@ -418,7 +449,7 @@ function set (name, value, generated) {
   invalidate_dependencies (name);
 }
 
-function remove_item (name) {
+function remove_item (name, purge) {
   var result = items [name];
   if (result) {
     message_worker ({
@@ -431,8 +462,17 @@ function remove_item (name) {
   Object.getOwnPropertyNames(dependencies [name]).forEach(function (dependency) {
     remove_dependency (name, dependency);
   });
-  if (interfaces [name].element) {
-    interfaces [name].element.detach();
+  var UI_stuff = interfaces [name];
+  if (UI_stuff && purge) {
+    if (UI_stuff.created) { UI_stuff.created.forEach(function(created_name) {
+      if (interfaces [created_name].created_by !== name) {
+        throw new Error ("item creation records are inconsistent");
+      }
+      remove_item (created_name, true);
+    });}
+    if (UI_stuff.element) {
+      UI_stuff.element.detach();
+    }
   }
   delete dependencies [name];
   delete dependents [name];
@@ -442,12 +482,18 @@ function remove_item (name) {
 
 function rename_item (name, new_name) {
   var UI_stuff = interfaces [name];
-  var item = remove_item (name);
+  var item = remove_item (name, false);
   delete interfaces [name];
   UI_stuff.project_entry.name = new_name;
   save (project_id, project);
   interfaces [new_name] = UI_stuff;
   set (new_name, item);
+  if (UI_stuff.created) {UI_stuff.created.forEach(function(created_name) {
+    if (interfaces [created_name].created_by !== name) {
+      throw new Error ("item creation records are inconsistent");
+    }
+    interfaces [created_name].created_by = new_name;
+  });}
 }
 
 
@@ -557,31 +603,13 @@ function draw_codecophony() {
   requestAnimationFrame (draw_codecophony);
   
   if (!items) {return;}
+  
   var anything_running = false;
   var anything_set_to_run = false;
   var item_names = Object.getOwnPropertyNames (items);
+  
   item_names.forEach (function (name) {
     var UI_stuff = interfaces [name];
-    
-    if (UI_stuff.changed_at && Date.now() > UI_stuff.changed_at + 1000) {
-      if (UI_stuff.changed_to) {
-        var item = {item_type: "script", source: UI_stuff.changed_to};
-        set (name, item);
-        save (UI_stuff.project_entry.id, item);
-        delete UI_stuff.changed_to;
-      }
-      if (UI_stuff.changed_name_to) {
-        if (items [UI_stuff.changed_name_to]) {
-          UI_stuff.error_display.text ("Error: another item already has the same name");
-          UI_stuff.name_input.val (UI_stuff.project_entry.name);
-        } else {
-          rename_item (name, UI_stuff.changed_name_to);
-        }
-        delete UI_stuff.changed_name_to;
-      }
-      delete UI_stuff.changed_at;
-    }
-    
     if (UI_stuff.running) {
       anything_set_to_run = true;
       anything_running = true;
@@ -591,8 +619,38 @@ function draw_codecophony() {
     }
   });
   
-  // items could have been renamed
-  item_names = Object.getOwnPropertyNames (items);
+  // to make the UI code simpler, don't record changes while scripts are running
+  if (!anything_set_to_run) {
+    item_names.forEach (function (name) {
+      var UI_stuff = interfaces [name];
+    
+      if (UI_stuff.changed_at && Date.now() > UI_stuff.changed_at + 1000) {
+        if (UI_stuff.changed_to) {
+          var item = {item_type: "script", source: UI_stuff.changed_to};
+          set (name, item);
+          save (UI_stuff.project_entry.id, item);
+          delete UI_stuff.changed_to;
+        }
+        if (UI_stuff.changed_name_to) {
+          if (items [UI_stuff.changed_name_to]) {
+            UI_stuff.error_display.text ("Error: another item already has the same name");
+            UI_stuff.name_input.val (UI_stuff.project_entry.name);
+          } else {
+            rename_item (name, UI_stuff.changed_name_to);
+          }
+          delete UI_stuff.changed_name_to;
+        }
+        delete UI_stuff.changed_at;
+      }
+    });
+  
+    // items could have been renamed
+    item_names = Object.getOwnPropertyNames (items);
+  }
+
+  
+  // avoid messing around with scripts while recording because it can cause hiccups
+  if (voice_practice_tool.current_recording) {return;}
   
   if (anything_running) {
     if (Date.now() > last_heard_from_worker + 10000) {

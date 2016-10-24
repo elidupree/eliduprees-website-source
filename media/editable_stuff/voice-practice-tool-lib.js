@@ -78,7 +78,7 @@ var source;
   
   function set_current_recording (recording) {
     var old_recording = current_recording;
-    current_recording = recording;
+    current_recording = window.voice_practice_tool.current_recording = recording;
     if (current_recording) {
       recordings.push (current_recording);
       if (recordings.length >1) {
