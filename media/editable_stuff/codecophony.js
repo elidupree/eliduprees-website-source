@@ -49,6 +49,7 @@ var sandbox_port;
 var sandbox_remote_port;
 var worker_script;
 var lodash_script;
+var seedrandom_script;
 var sandbox_initialized;
 var last_heard_from_worker;
 var last_started_script;
@@ -101,8 +102,8 @@ var sandbox = $('<iframe sandbox="allow-scripts" id="sandbox" src="/media/codeco
 $("main").append(sandbox);
 
 function initialize_sandbox () {
-  if (lodash_script && worker_script && sandbox_port && !sandbox_initialized) {
-    sandbox.contentWindow.postMessage ({action:"initialize", worker_script: lodash_script+"\n"+worker_script}, "*", [sandbox_remote_port]);
+  if (lodash_script && seedrandom_script && worker_script && sandbox_port && !sandbox_initialized) {
+    sandbox.contentWindow.postMessage ({action:"initialize", worker_script: lodash_script + "\n" + seedrandom_script +"\n"+worker_script}, "*", [sandbox_remote_port]);
     sandbox_port.onmessage = function (event) {
       error_from_worker (event.data);
     };
@@ -116,6 +117,10 @@ $.get ("/media/codecophony-worker.js?rr", function (script) {
 });
 $.get ("/media/lodash.js?rr", function (script) {
   lodash_script = script;
+  initialize_sandbox ();
+});
+$.get ("/media/seedrandom.js?rr", function (script) {
+  seedrandom_script = script;
   initialize_sandbox ();
 });
 

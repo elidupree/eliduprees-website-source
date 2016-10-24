@@ -104,6 +104,7 @@ var handlers = {
   initialize: initialize,
   item_changed: item_changed,
   run_script: function (message) {
+    Math.seedrandom ("codecophony");
     run_script (message.name);
   },
 }
