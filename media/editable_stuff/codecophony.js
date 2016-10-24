@@ -92,12 +92,13 @@ function load (id, onload) {
   };
 }
 
-var sandbox = $("#sandbox").on ("load", function (event) {
+var sandbox = $('<iframe sandbox="allow-scripts" id="sandbox" src="/media/codecophony-iframe.html?rr"></iframe>').on ("load", function (event) {
   var channel = new MessageChannel();
   sandbox_port = channel.port1;
   sandbox_remote_port = channel.port2;
   initialize_sandbox ();
 }) [0];
+$("main").append(sandbox);
 
 function initialize_sandbox () {
   if (lodash_script && worker_script && sandbox_port && !sandbox_initialized) {
