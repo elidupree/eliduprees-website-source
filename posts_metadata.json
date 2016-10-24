@@ -308,7 +308,9 @@
  "How to Train Your Brain, Part 2: Memory": {
   "date_modified": "2016-10-19",
   "date_posted": "2016-10-19",
-  "id": "7b2755f314380db4d101553182cc4a2"
+  "deployed": true,
+  "id": "7b2755f314380db4d101553182cc4a2",
+  "remembered_contents": "0006ae0e8161b9cf2762702f3b2bbcdfc7ae3ca0e176756b2792e03f4cdd9947f08a11e3e640beda97ad1e37fd70954a"
  },
  "I made biscuits!": {
   "date_modified": "2013-06-16",
