@@ -126,7 +126,6 @@ function get (name) {
     result = script_results [name];
   }
   else if (item) {
-  console.log("aaa", item);
     result = _.cloneDeepWith (item, function (value) {
       if (value instanceof Float32Array) {
         var result = new Float32Array (value.length);
@@ -134,8 +133,6 @@ function get (name) {
         return result;
       }
     });
-  console.log("bbb");
-  
   }
   message_main ({
     action: "add_dependency",
@@ -173,6 +170,21 @@ function render_note_default (note) {
   }
   var instrument_samples = instrument.data [semitones_to_note_name (note.pitch)];
   
+  // hack: as far as I can tell, midi.js DOESN'T provide the loop position data from sound fonts,
+  // so I just hackily extend the note by crossfading the end part repeatedly.
+  var half_loop_length = Math.floor (instrument_samples.length*0.2);
+  var loop_length = half_loop_length*2;
+  var loop_start = instrument_samples.length - loop_length;
+  function sample (position) {
+    if (position < instrument_samples.length-half_loop_length) {return instrument_samples [position];}
+    var position_1 = (position - loop_start) % loop_length;
+    var position_2 = (position_1 + half_loop_length) % loop_length;
+    var weight_2 = Math.abs (position_1 - half_loop_length)/half_loop_length;
+    var weight_1 = 1 - weight_2;
+    //console.log (position_1, position_2, weight_1, weight_2);
+    return instrument_samples [loop_start + position_1]*Math.sqrt (weight_1) + instrument_samples [loop_start + position_2]*Math.sqrt (weight_2);
+  }
+  
   // round the start time to an integer so that samples can be combined easier
   var start = Math.floor (note.start*sample_rate)
   
@@ -186,7 +198,7 @@ function render_note_default (note) {
   var data = new Float32Array (duration);
   for (var index = 0; index < duration;++index) {
     var cutoff = Math.min (1, 1 - ((index/sample_rate) - note.duration)/decay);
-    data [index] = (instrument_samples [index] || 0)*cutoff*note.volume;
+    data [index] = sample (index)*cutoff*note.volume;
   }
   
   return {
@@ -376,8 +388,8 @@ function scrawl (input) {
     }
   };
   finish_note();
-  console.log (commands);
-  console.log (notes);
+  //console.log (commands);
+  //console.log (notes);
   return notes;
 }
 
