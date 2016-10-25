@@ -105,6 +105,8 @@ var handlers = {
   item_changed: item_changed,
   run_script: function (message) {
     Math.seedrandom ("codecophony");
+    context_stack = [{duration: 1, start: 0, pitch: 0, volume: 1}];
+    most_recent_note = undefined;
     run_script (message.name);
   },
 }
@@ -316,14 +318,41 @@ function amplify (stuff, factor) {
   });
 }
 
+function scale(stuff, factor, center) {
+  center = center || 0;
+  recursively (stuff, {
+    note_action: function (note) {
+      note.duration = note.duration*factor;
+      note.start = center + (note.start - center)*factor;
+    },
+  });
+}
+
+function translate (stuff, time) {
+  recursively (stuff, {
+    note_action: function (note) {
+      note.start += time;
+    },
+  });
+}
+
+function transpose (stuff, semitones) {
+  recursively (stuff, {
+    note_action: function (note) {
+      note.pitch += semitones;
+    },
+  });
+}
+
+var context_stack;
+var most_recent_note;
+
 function scrawl (input) {
   var commands = input.split (/\s+|(\[|\])/).filter (function (command) {
     return command !== undefined && command !== ""; 
   });
   var notes = [];
-  var context_stack = [{duration: 1, start: 0, pitch: 0, volume: 1}];
   var current_note;
-  var most_recent_note;
   
   var finish_note = function() {
     if (current_note) {
@@ -398,6 +427,9 @@ function scrawl (input) {
         else if (command === "pitch" || command === "transpose") {
           context_add ("pitch", as_float);
         }
+        else if (command === "start" || command === "at") {
+          context_set ("start", as_float);
+        }
         else if (!isNaN (as_float)) {
           context_set (command, as_float);
         }
@@ -413,7 +445,20 @@ function scrawl (input) {
   return notes;
 }
 
-return {get: get, create: create, sample_rate: sample_rate, render_note: render_note, render_note_default: render_note_default, render_notes: render_notes, add_sequences: add_sequences, scrawl: scrawl, amplify: amplify};
+return {
+  get,
+  create,
+  
+  sample_rate,
+  
+  render_note_default,
+  render_note, render_notes,
+  
+  add_sequences,
+  
+  scrawl,
+  
+  amplify, scale, translate, transpose};
 
 })();
 
