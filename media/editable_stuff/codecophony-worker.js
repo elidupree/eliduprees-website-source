@@ -199,7 +199,7 @@ function render_note_default (note) {
     return empty;
   }
   
-  var decay = note.decay || 0.2;
+  var decay = note.decay || 0.2*Math.min(1,note.duration);
   var speed = 1;
   if (typeof note.speed === "number") {
     speed = note.speed;
