@@ -356,6 +356,57 @@ Forming these the extra memories helps me understand things faster and better. Y
 ''',
 },
 
+{
+"title": "Why should knowledge be correct, anyway?",
+"tags": ["philosophical"],
+"auto_paragraphs": True,
+"blurb": "A fable about how we come to understand things.",
+"contents":'''
+Let me tell you a fable about how we come to understand things:
+
+One time, long before geometry was invented, Uzoma and Carmen were standing at the corner of a square racetrack.
+
+"I wonder what shape this racetrack is," said Carmen.
+
+"Well," said Uzoma, "I have run along it many times, and I always get back to where I started. So it must be a circle."
+
+"You fool!" exclaimed Carmen. "It has a corner right here! Circles do not have corners!"
+
+"I guess that's strange, but I still think it's a circle," said Uzoma.
+
+"Hmph," said Carmen. "You're being unscientific. None of our <cut>theories fits the evidence, so we can only conclude that we do not know what shape it is."
+
+A few months later, the rainy season came. There was a lot of flooding. Uzoma and Carmen built a wall to block the flood, but the water just poured around the ends of the wall. They build a bigger wall, but the same problem happened. Very frustrated, they tried to figure out how to solve this problem.
+
+"I have an idea," said Uzoma finally. "A <em>circle</em> separates the inside from the outside. So if we build the wall along the racetrack, which is a circle, it will keep the water out."
+
+"It's not a circle," said Carmen. But Carmen didn't have any better ideas, so the two of them built the wall along the racetrack. They were safe from the floods after that.
+
+<em>Uzoma or Carmen &ndash; which one had better knowledge?</em>
+
+<h2>Discussion</h2>
+
+Uzoma's knowledge wasn't <em>correct</em>, but it was <em>useful for finding other correct knowledge</em>. When Carmen threw away the incorrect knowledge "the racetrack is a circle", ze also threw away the chance to discover the correct knowledge of how to protect from the floods.
+
+I always want to find the truth. But finding the truth has two parts. In the first part, you imagine any wild idea you can think of that could help you understand. In the second part, you doubt your ideas, trying to figure out which of them are actually good. Eventually, you alternate between the two parts, developing and refining your ideas until you're satisfied.
+
+It's not wrong to doubt &ndash; in fact, it's very important. Carmen simply doubted <em>too early in the process</em>. As long as Carmen throws away every idea that isn't completely correct, ze won't learn anything until Uzoma gets all the way to inventing the <a href="https://en.wikipedia.org/wiki/Jordan_curve_theorem">Jordan curve theorem</a>. In the early parts of the process, we shouldn't judge ideas based on strict correctness. We should judge them based on whether they are <em>useful for understanding</em>.
+
+When I describe memory as <a href="/blog/tuning-out-and-dream-thinking">a bunch of parallel processors</a> or <a href="/blog/how-to-train-your-brain-part-2-memory">one-way arrows</a>, that's what I'm doing. I don't believe those things because I can prove they are exactly correct &ndash; in fact, they're probably not. I believe them because believing them has given me the power to understand and accomplish things.
+
+This issue can come up in a lot of different scenarios:
+
+<ul>
+<li>When I learn a new (programming) language, I imagine that it works mostly like languages that I already know. After I make a lot of guesses, I eventually learn where I'm wrong. This is much faster than trying to study the grammar from the ground up.</li>
+<li>I'm a white person. When a person of color tells me how racism works, I shouldn't doubt it just because their theory is incomplete. Theories of racism can never be truly completed because racist institutions keep evolving, so we have to use the best theories we can get at the time.</li>
+<li>I have developed a lot of beliefs about how to write well. Because <a href="/blog/in-which-i-rant-about-the-study-of-english">the idea of "good writing" is inherently subjective</a>, these beliefs inherently can't be "correct". But they've enabled me to write things that a lot of people like, so they are clearly useful for something.<footnote((One might ask, "can these really count as beliefs, if you don't think they're correct?". Well, you could say that I still believe they are true <em>within some context</em> &ndash; I just don't know exactly where the boundaries of that context are. And I'm not <em>completely</em> certain about any specific belief, but it would be silly to say that I don't have any beliefs. Perhaps it makes more sense to view the mind as an ecosystem of contradictory beliefs, rather than a logic machine.))></li>
+</ul>
+
+Western science training focuses almost entirely on finding the best ways to doubt. This is a useful skill. But we also need to learn the best ways to <em>imagine</em>, and our training for <em>that</em> is far less well-developed.
+
+
+''',
+},
 
 ]
 
