@@ -374,9 +374,9 @@ One time, long before geometry was invented, Uzoma and Carmen were standing at t
 
 "I guess that's strange, but I still think it's a circle," said Uzoma.
 
-"Hmph," said Carmen. "You're being unscientific. None of our <cut>theories fits the evidence, so we can only conclude that we do not know what shape it is."
+"Hmph," said Carmen. "You're being unscientific. None of our theories fits the evidence, so we can only conclude that we do not know what shape it is."
 
-A few months later, the rainy season came. There was a lot of flooding. Uzoma and Carmen built a wall to block the flood, but the water just poured around the ends of the wall. They build a bigger wall, but the same problem happened. Very frustrated, they tried to figure out how to solve this problem.
+A few months later, the rainy season came. There was a lot of flooding. Uzoma and Carmen built a wall to block the flood, but <cut>the water just poured around the ends of the wall. They build a bigger wall, but the same problem happened. Very frustrated, they tried to figure out how to solve this problem.
 
 "I have an idea," said Uzoma finally. "A <em>circle</em> separates the inside from the outside. So if we build the wall along the racetrack, which is a circle, it will keep the water out."
 

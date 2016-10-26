@@ -1751,7 +1751,9 @@
  "Why should knowledge be correct, anyway?": {
   "date_modified": "2016-10-26",
   "date_posted": "2016-10-26",
-  "id": "2a92d70b3e5c6f006038fde563f3b44"
+  "deployed": true,
+  "id": "2a92d70b3e5c6f006038fde563f3b44",
+  "remembered_contents": "f1f14e4a26e2b70fd0debece932808e22a7f036beaf5812d6a57f4bef732f5f9a486735dadcd8bdb53bea0061b5511c9"
  },
  "Will You Try to Escape?": {
   "date_modified": "2015-08-03",
