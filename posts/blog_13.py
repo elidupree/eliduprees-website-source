@@ -408,6 +408,28 @@ Western science training focuses almost entirely on finding the best ways to dou
 ''',
 },
 
+{
+"title": "Supervillains are cool",
+"tags": ["writing","story ideas"],
+"auto_paragraphs": True,
+"blurb": "Tell me, why is this character the villain?",
+"contents":'''
+Supervillains are cool.
+
+Don't get me wrong. The story of a superhero is a story of empowerment. The reader &ndash; an ordinary person who can't easily fix the problems in zir society &ndash; gets to imagine having awesome powers and saving the world.
+
+But if the superhero is empowered, the supervillain is even more empowered. Ze doesn't just have more <em>physical</em> power (although that's still true, so that the audience can root for the underdog). Ze also has more <em>freedom</em>. Ze isn't limited by laws or social norms. Ze can do anything ze wants to. The supervillain, and ze alone, has a vision to change the world.
+
+Tell me &ndash; why is this character the villain? Many of our laws are unjust. Many of our social norms are repressive. In a typical story, the hero stops the villain's plan and restores the status quo. But in our world, the status quo is not good, and has never been good. To reach a good world, we <em>need</em> a vision for a change.
+
+Give me a story where the hero accepts everyone's identity and sympathizes with everyone's struggles, not because the wise old mentor told zem to, but because <em>fuck the rules</em>. Give me a story where the hero ignores people's hypocritical moralizing, not to become evil, but to forge a better morality. Give me a story where the hero has a genuine project to change the world.
+
+And then let the hero succeed.
+
+''',
+},
+
+
 ]
 
 """
