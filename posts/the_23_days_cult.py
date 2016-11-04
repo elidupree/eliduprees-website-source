@@ -8,13 +8,18 @@ posts = [
   "title":"The 23 Days Cult",
   "blurb": "What if Light Yagami, from Death Note, was both smart and good? (Everything is explained for people who don't know Death Note.)",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "authors_notes":'''
 <p>A few notes on specific parts of the story:</p>
 <ul>
 <li>I changed the wording of the first rule in the Death Note, so that it's not weird for Light to assume that it can be used multiple times.</li>
 
+<li>Most of the rules about lifespans are ambiguous, and never become relevant in the original story. I tried to create a system that was consistent, while being as true to the original story as possible.</li>
+
+<li>In particular, there's an obscure rule from <em>Death Note 13: How to Read</em> that says: "The use of the Death Note in the human world sometimes affects other humans' lives or shortens their original life span, even though their names are not actually written in the Death Note itself. In these cases, no matter the cause, the god of death sees only the original lifespan and not the shortened lifespan." This might imply that you also can't see <em>extended</em> lifespans, but Rem specifically states that ze can see Misa's extended lifespan. I've chosen to ignore this rule in Light's case. Besides, it arguably doesn't restrict humans who have made the eyes deal, only the Gods of Death themselves.</li>
+
 <li>Light's list of "3 main limitations" on the Death Note's control is incomplete. You also can't write something that directly causes the death of another person. Light didn't discover this because ze never saw a reason to kill people except where the Death Note specifically required it.</li>
+
+<li>The original story doesn't actually say whether Gods of Death can know their own lifespans, but I decided it makes sense for them to see their own lifespans in their reflections, the same way humans who make the eyes deal can see their own names in their reflections.</li>
 
 </ul>
 ''',
@@ -570,11 +575,110 @@ Julia Kaczyńska's relatives hadn't been affected. One of the climbers' lifespan
 
 <p><em>In any case… This is exactly the data I've been looking for. <strong>This</strong> is the limit of "fate's" ability to stop the changes from propagating. If a person lives 32 years after they would have died, the effects on the people they'll interact with are too big to suppress. But still, it stops somewhere. Some of the relatives stayed the same. And it looks like mere friends-of-friends haven't been affected. If I want to reshape the entire world… it looks like I'll have to do something much bigger than saving one life.</em></p>
 
+<bigbreak>
 
+Light started writing down ideas for how to change the world, but zir heart wasn't really in it.
 
+<p><em>I wish I had someone to talk to about this. I keep saying that I can't take the risk of letting anyone know about the Death Note, but is that the only risk? What about the risk of me screwing up, because I didn't have anyone to catch my bad ideas? What if I get discovered anyway, because of something I didn't think of, because I didn't have a second person to notice things? But what if I get discovered because I told someone?!</em></p>
+
+<p><em>Well, what about Ryuk? Ze already knows about the Death Note. I originally thought I'd have to worry about zem using my ideas to wreak havoc, but now, maybe…</em></p>
+
+"Hey, Ryuk. I want to ask you something about the Death Note."
+
+"Does it have to be right now? I want to finish this game of Civilization III."
+
+Light smiled. "Ryuk, you've been playing Civilization III for 96 hours straight."
+
+"No, I haven't. I took a 2 hour break to try out some of your other games."
+
+"If you say so. Anyway, what if I told you that I had a brilliant idea for how to use the Death Note to cause all kinds of mischief?"
+
+"Eh? That old thing?" Ryuk waved a claw dismissively. "Killing people is boring. I'm sure your idea is very clever, but I don't really feel like writing things down and staring at lifespans all day. Or worse, I might have to leave the house."
+
+<p><em>Perfect. I should probably make extra sure, though.</em> "Don't you eventually have to kill someone to continue your immortal life?"</em></p>
+
+"Sure, in about…" Ryuk looked at zir reflection in the computer screen. "50,000 years."
+
+<p><em>50,000 years! I had been thinking about setting up a system where Gods of Death could extend their lives without murdering, by participating in voluntary euthanasia. But if your average God of Death has 50,000 years in the bank, I'll be long dead before it ever becomes an issue. Probably.</em></p>
+
+"Ryuk, let's make a deal. I want you to help me talk through my plans for using the Death Note to change the world. In exchange, I'll buy you all of the video games you want." <em>Which I'm already doing anyway, just to keep Ryuk distracted.</em> "And sometimes play multiplayer games with you." <em>Why not? I've been pretty stressed out recently.</em>
 
 <bigbreak>
 
+<div class="death_note_page">
+Danielle Porter
+
+Old age
+
+The Iceland President confirms a law that establishes a universal basic income. The subject reads a newspaper article about this, then dies peacefully at 1:51 PM JST on January 4.
+</div>
+
+"What are we looking at here?" asked Ryuk, pointing at Light's computer screen.
+
+"These," said Light, sitting back and a self-satisfied way, "are photos of a representative sample of Icelandic residents. Or as close as I could manage, anyway. The concept is pretty simple: I force Iceland to make laws that I think are good. Then, I check what effects those laws have had on people's lifespans. If the lifespans go up on average, it's a good law. If they go down, it's a bad law, so I force them to repeal it again."
+
+"Why are we messing with the laws in Iceland, instead of here in Japan?"
+
+"Ease of measurement," said Light simply. "Iceland has a high percentage of Internet users, making it easier for me to sample them. Also, it's a relatively small country. If I messed with, say, the United States, it has an oversized role in international relations, so I'd have to worry about the effects on people in <em>every</em> country. I eventually want to improve the entire world, holistic way, but right now I'm just focusing on domestic policy. If this works well, I might eventually create an international census."
+
+"But you still wrote down the time of death in Japan Standard Time?"
+
+"I always write JST now, so that I don't mess up. Some of my earlier 'victims' have turned out to die at a different hour than I expected, because the Death Note assumed I meant <em>their</em> local time, when I was really thinking of <em>my</em> local time. So now I just do all the calculations in my own time zone, find the proper time so that it will cut off no more than two minutes of their life, and then write down JST so that the Death Note knows what I'm doing. Making someone die few hours early isn't the worst thing in the world, but if I get it wrong in the <em>other</em> direction, the entry won't work at all."
+
+"Wow, you've really put some thought into this."
+
+<p><em>Of course I thought about it. How could you expect to save the world without thinking about it?</em></p>
+
+"You know," said Light, "you Gods of Death have <em>no idea</em> what you're carrying around, do you?"
+
+"Hmmm?"
+
+"Look at this. You even wrote 'Death Note' on the front of it." Light took a piece of ordinary paper and wrote "Death Note" on it. Then Light crossed out "Death Note" and wrote under it, "Sacrifice Note".
+
+Then ze flipped open to the rules page and got another piece of paper. "And look at these rules! They're all about killing people, even though the real power of this notebook is far greater. You've been thinking about it as nothing but a magic sniper rifle, when it's actually an Alethiometer, the Imperius Curse, and the Orbis Tertius, rolled into one!"
+
+Light quickly wrote a new set of rules on the paper:
+
+
+
+<div class="death_note_page">
+<div style="text-align: center;">SACRIFICE NOTE<BR>How to use it<BR>I<BR>
+</div>
+
+<ul>
+<li>This note can influence reality in almost any way possible, but requires a human sacrifice. To use it, you must first write the name of the human to be sacrificed.</li>
+
+<li>This note will not take effect unless the writer has the subject's face in their mind when writing his/her name. Therefore, people sharing the same name will not be affected.</li>
+
+<li>After writing the subject's name, you must write the cause of death within 40 seconds.</li>
+
+<li>After writing the cause of death, you must write any instructions of things that you want to happen, within the next 6 minutes and 40 seconds (400 seconds).</li>
+
+<li>If you fail to write the cause of death, or if your instructions are impossible, the subject will die without granting any benefit.</li>
+
+<li>This note can only influence the next 23 days. Anything after that will be considered impossible.</li>
+
+<li>It's possible to avoid paying most of the price, by sacrificing someone who is about to die anyway. Ask your friendly neighborhood God of Death about how you can see people's lifespans.</li>
+
+</ul>
+
+</div>
+
+"That'll do for a first draft." Light sighed. "It's a good thing I was the one who found this notebook, instead of someone else."
+
+"What, because you're all about justice?" Ryuk grumbled.
+
+"Not <em>only</em> that. A person who kills for selfish reasons would be pretty bad, but they probably wouldn't kill <em>that</em> many people. No, the worst thing would be someone who does care a lot about justice, but doesn't see past their first impressions."
+
+"Oh?"
+
+"Suppose I'm that person, and I find the Death Note. Oh, I think, this is a magic book for killing people. Every day in the news, I hear about horrible things done by criminals. Aha, I think. If I just kill off all of those criminals, the world will be a better place."
+
+"Would that be so bad? If you kill off all the criminals, wouldn't people be afraid to be criminals?"
+
+"Ryuk, I don't know if you've picked this up by now, but we do have <em>laws</em> in the human world. Criminals are already afraid &ndash; of getting <em>caught</em>. And, laws or not, anyone would be afraid of having their face plastered across the news a a major criminal. But imagine what effect this would have on the news media itself. Once people caught on to what was happening, they'd say it was unethical to display anyone's face as a suspected criminal. So then I'd have to turn to news sources that don't care about ethics &ndash; like the tabloids and random websites that publish outrageous 'true crime' stories. But then, there's no one forcing them to publish the <em>correct</em> name and face for those criminals, is there? You could probably pay them to publish whatever you want. A lot of 'news sources' would effectively be turned into hired killers. But the effects on actual crime would be essentially nonexistent."
+
+<bigbreak>
 
 "I've been doing this all wrong," said Light.
 
