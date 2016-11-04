@@ -1381,6 +1381,20 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
   "id":"5f15b35956bb720ad797094a53cefdc3",
   "date_posted":datetime.date(2016, 10, 26)
 },
+{
+  "parent":"18bdcc126f39efc182955586f0669d1",
+  "username":"Kappa",
+  "contents":"""Is this a rhetorical "give me a story", or would you like recs?""",
+  "id":"5f3a5866f6a4a8b0b79deb31a0876a54",
+  "date_posted":datetime.date(2016, 11, 3)
+},
+{
+  "parent":"5f3a5866f6a4a8b0b79deb31a0876a54",
+  "username":"Eli Dupree",
+  "contents":"""It's mostly rhetorical. Or rather, I was thinking "<em>Write</em> a story for my sake", not "Inform me-personally of a story that already exists". Still, if you do know of stories like this, I'd be somewhat interested to hear of them!""",
+  "id":"38aeede43361e1f3165acc74f7b5bcf1",
+  "date_posted":datetime.date(2016, 11, 3)
+},
 
 
 ]

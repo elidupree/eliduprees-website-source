@@ -755,7 +755,9 @@
  "Supervillains are cool": {
   "date_modified": "2016-11-02",
   "date_posted": "2016-11-02",
-  "id": "18bdcc126f39efc182955586f0669d1"
+  "deployed": true,
+  "id": "18bdcc126f39efc182955586f0669d1",
+  "remembered_contents": "75025ee53c2225b944770191f4b97497828532ee1b9a3d968b78026601dad65358f5c0b6f0a14dcc648027fb777c3e35"
  },
  "THE MORALITY OF LEGEND OF KORRA": {
   "date_modified": "2016-07-03",
