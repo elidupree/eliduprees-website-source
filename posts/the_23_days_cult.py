@@ -9,6 +9,15 @@ posts = [
   "blurb": "What if Light Yagami, from Death Note, was both smart and good? (Everything is explained for people who don't know Death Note.)",
   "auto_paragraphs": True,
   "don't deploy": True,
+  "authors_notes":'''
+<p>A few notes on specific parts of the story:</p>
+<ul>
+<li>I changed the wording of the first rule in the Death Note, so that it's not weird for Light to assume that it can be used multiple times.</li>
+
+<li>Light's list of "3 main limitations" on the Death Note's control is incomplete. You also can't write something that directly causes the death of another person. Light didn't discover this because ze never saw a reason to kill people except where the Death Note specifically required it.</li>
+
+</ul>
+''',
   "head":'''<style>
 .death_note_page {
   width: 70%; text-align: justify; margin: 1.8em auto; text-indent: 0;
@@ -432,6 +441,140 @@ Light installed the Tor Browser and spent an hour or so looking at best practice
 For the rest of that evening, Light patiently collected photographs of people who were going to die during the next few weeks. On the left side of zir computer screen, ze kept a file full of all the photos of people ze was monitoring. To fit as many as possible, ze scaled down the photos as far as ze could. (Ze couldn't make out the lifespan on pictures smaller than about 50 pixels by 80 pixels.) Whenever any of the lifespans disappeared, Light would notice it at a glance, so ze could record the person's exact time of death in a second file, along with any other notes ze was keeping about that person.
 
 <bigbreak>
+
+"Urrghhh…"
+
+Light rolled over in bed and tried to sit up.
+
+"Hey, Light, you're awake! I've got something I wanna ask you!" Ryuk's inhuman face was looming very close to Light.
+
+Light looked at the clock. "Ryuk, it's 4 AM." <em>I don't think I'm going to get back to sleep anytime soon, though. Might as well make use of the time.</em> "Fine, just let me use the bathroom first."
+
+"<em>Humans</em>," muttered Ryuk.
+
+In the bathroom, Light's thoughts started to come together. <em>By any reasonable measure, my experiments are going smoothly. I just wish these nightmares would go away.</em> Light had been having a lot of different dreams about the Death Note. In the most persistent one, ze opened the Death Note to a random page, only to see that ze had already written zir own name there. Each time that happened, ze spent the rest of the dream waiting for a death that never came.
+
+<p><em>I hope these dreams aren't prophetic. There's no reason they would be, though. I've <strong>always</strong> had a lot of nightmares where I discover that I've done something wrong. It's just part of my perfectionistic nature.</em></p>
+
+<p><em>Anyway, what was I planning to do next? Oh right! The one-month summary of my results so far.</em></p>
+
+Light left the bathroom to find Ryuk waiting expectantly. Light rubbed zir eyes again. "Right, what did you want to ask?"
+
+"Why do you humans make so many video games where you kill people?"
+
+<p><em>Of course Ryuk would focus on something like that. Wait &ndash;</em> "Wait, why would <em>you</em> be surprised by that? Aren't human deaths completely ordinary to you?"</p>
+
+"It's not the deaths that bother me, it's how unrealistic they are! I can't even enjoy these games, they're breaking my suspension of disbelief too much! Death does not work this way! Why would these humans make so many games about killing people when they obviously don't know anything about it?"
+
+"I guess…" Light thought about it for a little while. "Humans are afraid of death, so putting the <em>idea</em> of death in a game can make it exciting. Or the threat of death, for the player. But if the game makes the deaths too realistic, then it would become too close to the <em>actual</em> fear. Human players would be too disturbed to enjoy the game. Unless the point was to be disturbing, like in a horror game &ndash;"
+
+"Horror games are the worst of all!"
+
+"&ndash; but in a horror game," Light continued patiently, "the idea is to exaggerate the player's fear. Most human players don't have much experience with <em>actual</em> death, so they're afraid of what they <em>imagine</em> death is like, which isn't quite the same as the real thing." Light sighed. "Was that enough of a human culture lesson for you? I'd really rather get back to my work."
+
+"Whatever you say, boss."
+
+Light tuned out Ryuk's gaming and brought up zir records on zir computer. Here were the detailed notes ze'd kept on all 105 names ze had written in the Death Note so far. Light read through them carefully, trying to reason out a list of rules from the idiosyncratic results.
+
+The one thing every death had in common was that Light had written down for it to be painless. Light hadn't put too many ethical restrictions on zir experiments, reasoning that the greater good would be served by Light learning as much and as quickly as possible. But pain was important to people, and it didn't cost Light anything to alleviate it. And it helped make up for the significant minority who died of heart attacks due to unknown rules.
+
+The first thing ze'd tested was extending the lifespan of the person ze was writing down. It seemed this was impossible. If you wrote down a time of death after the end of their lifespan, they simply died at the end of their lifespan like they would have anyway.
+
+The second set of tests was about how much you could control. As it turned out, the "details of the death" could include almost <em>anything</em>. The Death Note ignored statements that were completely unrelated to the death, but even the flimsiest excuse would do. "Dies peacefully at 8 PM, and also the Tokyo Shimbun prints an article supporting a basic income" didn't work. "Dies peacefully at 8 PM, after seeing that the Tokyo Shimbun has printed an article supporting a basic income" worked flawlessly.
+
+However, there were certain limits. There were some details that the Death Note wouldn't accept. If you wrote down any details like that, the Death Note would ignore <em>all</em> the details you wrote, and the victim would die exactly 6 minutes and 40 seconds after you wrote the cause of death.
+
+Light had been reluctant to test the limits too thoroughly, since failures generally meant that the death wouldn't be painless. Still, from what ze'd gathered, it seemed that there were 3 main limitations. First, impossible things were impossible. Second, magical things were off-limits. Anything that explicitly referred to lifetimes would cause a failure.
+
+Third, there was a time limit. You couldn't write down a death too far in advance. Light had specifically tested to find the exact limit, knowing that this would be important later. As it turned out, you could write down anything you wanted to happen within 23 days of the time you wrote the name. But if you described anything happening <em>more</em> than 23 days into the future, it would all be ignored, and the victim would die 6 minutes and 40 seconds after you wrote the cause of death.
+
+23 days. Why 23 days?
+
+<bigbreak>
+
+The third set of experiments was where it got really interesting. In these experiments, Light had tried to find ways to extend people's lifespans.
+
+Mostly, it was just like Ryuk had said. If you made a small change to someone's natural death, it wouldn't have any effect on other people's lifespans, even the people who were standing right next to the person who died. <em>Apparently</em>, the butterfly effect didn't exist. Hmph. Light didn't stop there.
+
+For this research, the most valuable subjects were actually <em>pairs</em> of people who were going to die at about the same time. That way, you could write <em>one</em> of their names in the Death Note, while observing the lifespan of the <em>other</em>. Finding these pairs was much harder than finding individuals who would die soon, but the few Light had found had proved <em>very</em> fruitful.
+
+First, there were a married couple who were going to die a few days apart, probably of old age. Joseph Kerrigan was scheduled to die on a Sunday, while Maria Kerrigan was to die on the following Tuesday. So Light wrote this:
+
+<div class="death_note_page">
+Maria Kerrigan
+
+Old age
+
+On Tuesday, her husband of 50 years speaks some reassuring words to her, then she dies peacefully.
+</div>
+
+Light had been a little worried about this one. The Death Note might consider it physically impossible. But it had <em>worked</em>. Joseph Kerrigan's lifespan had increased to include Tuesday. So the Death Note could simply <em>coerce</em> people's lifespans, if you wrote down something that required a person to be alive at a certain time. Presumably, this could increase someone's lifespan by up to 23 days.
+
+<p><em>Seems like a huge oversight in the rules. You can't extend the lifespan of the person you write, but you can extend other people's lifespans? Who would design rules like this? Were they even designed by a person in the first place, or are they just… magic?</em></p>
+
+Still, that result hadn't been very satisfying. Extending a few people's lifespans by a few weeks was far short of Light's ambitions. And just like the other cases, this hadn't had a ripple effect on the lifespans of any of their other relatives.
+
+How far could you stretch this ability? Light had tried writing down this:
+
+<div class="death_note_page">
+On Friday, no one in his entire city of New York dies for a full 24 hours. After he hears the news about this, he feels satisfied and dies peacefully.
+</div>
+
+But <em>that</em> victim had died after the first 6 minutes and 40 seconds. Maybe that was too impossible for the Death Note, even if it wasn't impossible for each individual person to survive an extra day.
+
+The next experiment was a much different story. Light had found photos of a pair of rock climbers, Julia Kaczyńska and Diane Chin, who were both going to die within a minute of each other. When ze investigated further, ze discovered that they had posted on a rock climbers' forum that they were about to attempt a particularly dangerous climb… and the date and time of their plan matched the time of their deaths perfectly.
+
+<p><em>Almost certainly a climbing accident,</em> Light had thought. <em>I wish I could just warn them, so that neither of them has to die. But what if they don't believe me? What would that look like? A completely new user joins the forum specifically to give a dire warning. The climbers ignore the warning, because, duh, who would pay attention to a warning from a complete stranger who doesn't know anything? And then they actually die! The rumors about the stranger would spread all over the place. I already decided I don't want to attract that much attention. There will always be more people to save if I do change my mind...</em></p>
+
+So instead, Light wrote the following:
+
+<div class="death_note_page">
+Julia Kaczyńska
+
+Accident
+
+Encounters a danger while rock climbing at 6:34 PM on Saturday. Realizes the danger just in time to protect her climbing partner. As a result of her quick action, that climbing partner returns home safely. However, she herself dies an instant and painless death.
+</div>
+
+<p><em>I wonder what happens if this doesn't work? They haven't even left on the trip yet. Does Julia Kaczyńska die of an accident at home? But if that happens, they won't leave them the trip at all! So… does that mean Diane Chin won't die either way?</em></p>
+
+Light's heart beat fast as ze waited for the 6 minutes and 40 seconds to finish. Ze stared at a computer screen full of photographs of the 2 climbers, their various relatives, and the other forum members. In another file, ze had recorded all of their original lifespans.
+
+5 seconds left…
+
+3 seconds left…
+
+1 second left…
+
+And then Diane Chin's lifespan increased by <em>32 years</em>.
+
+<bigbreak>
+
+Light felt a surge of relief.
+
+<p><em>I didn't realize I was feeling so tense. It's not even about <strong>this</strong>… I guess I've been worrying about all the people whose lives I've cut short. I know most of them have only been by a day or two, but… Anyway, this should <strong>more</strong> than make up or it.</em></p>
+
+It wasn't even just Diane Chin. There were also increases in the lifespans of &ndash;
+
+"Light! LIGHT! I did it! I beat the game! I beat <em>Beyond Good & Evil</em>!"
+
+Light gritted zir teeth. "Ryuk, this is <em>not</em> a good time!"
+
+<p><em>I wonder if I can use the Death Note to make Ryuk shut up? Ha ha, that sounds as if I mean I want to kill zem. I actually just mean using mind control. Never mind that for now! I should observe these lifespans.</em></p>
+
+Many of Diane Chin's relatives and fellow rock climbers had seen their lifespans increase. Not a majority, but a lot of them. Julia Kaczyńska's lifespan stayed the same, which was expected. <em>Hmm. If it's possible to alter people's lifespans in general, might it be possible to alter the lifespan of someone whose name has already been written in a Death Note? If the lifespan became shorter than the time until their written death, would the Death Note effects be canceled? That's something to think about later, I guess…</em>
+
+Julia Kaczyńska's relatives hadn't been affected. One of the climbers' lifespans had actually <em>decreased</em>. Odd, but not unexpected.
+
+<p><em>I wonder what these changes look like on the ground? Maybe Diane Chin teaches the other climbers to be more cautious after this incident? Maybe zir aging parents live longer because ze's still alive to economically support them?</em></p>
+
+<p><em>In any case… This is exactly the data I've been looking for. <strong>This</strong> is the limit of "fate's" ability to stop the changes from propagating. If a person lives 32 years after they would have died, the effects on the people they'll interact with are too big to suppress. But still, it stops somewhere. Some of the relatives stayed the same. And it looks like mere friends-of-friends haven't been affected. If I want to reshape the entire world… it looks like I'll have to do something much bigger than saving one life.</em></p>
+
+
+
+
+<bigbreak>
+
 
 "I've been doing this all wrong," said Light.
 
