@@ -8,6 +8,7 @@ posts = [
   "title":"The 23 Days Cult",
   "blurb": "What if Light Yagami, from Death Note, was both smart and good? (Everything is explained for people who don't know Death Note.)",
   "auto_paragraphs": True,
+  "don't deploy": True,
   "authors_notes":'''
 <p>A few notes on specific parts of the story:</p>
 <ul>
