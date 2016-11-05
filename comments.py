@@ -1395,6 +1395,13 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
   "id":"38aeede43361e1f3165acc74f7b5bcf1",
   "date_posted":datetime.date(2016, 11, 3)
 },
+{
+  "parent":"18bdcc126f39efc182955586f0669d1",
+  "username":"Untamable Spirit",
+  "contents":"""Yes yes yes! I would love to see superheros like that!!!! Maybe the lead characters of my next novel will be what you described, even if they are not technically "super" heroes""",
+  "id":"332cb9e53c94c8cbf8e19ff1624305fc",
+  "date_posted":datetime.date(2016, 11, 5)
+},
 
 
 ]
