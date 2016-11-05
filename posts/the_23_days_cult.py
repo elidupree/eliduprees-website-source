@@ -10,6 +10,8 @@ posts = [
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
+
+  
 <p>A few notes on specific parts of the story:</p>
 <ul>
 <li>I changed the wording of the first rule in the Death Note, so that it's not weird for Light to assume that it can be used multiple times.</li>
@@ -679,7 +681,19 @@ Light quickly wrote a new set of rules on the paper:
 
 "Ryuk, I don't know if you've picked this up by now, but we do have <em>laws</em> in the human world. Criminals are already afraid &ndash; of getting <em>caught</em>. And, laws or not, anyone would be afraid of having their face plastered across the news a a major criminal. But imagine what effect this would have on the news media itself. Once people caught on to what was happening, they'd say it was unethical to display anyone's face as a suspected criminal. So then I'd have to turn to news sources that don't care about ethics &ndash; like the tabloids and random websites that publish outrageous 'true crime' stories. But then, there's no one forcing them to publish the <em>correct</em> name and face for those criminals, is there? You could probably pay them to publish whatever you want. A lot of 'news sources' would effectively be turned into hired killers. But the effects on actual crime would be essentially nonexistent."
 
+"Or," continued Light, "suppose I'm a <em>little</em> smarter and I decide to target the real sources of violence and exploitation in our society, rather than individual criminals. Who do I kill? Corporate executives? Wouldn't <em>that</em> be interesting." Light laughed. "Mob bosses, maybe. Paramilitary leaders. Xenophobic politicians. Half the time, they're just figureheads. They'll just be replaced by someone who doesn't show you their face. Or someone who knows how to control the sources of information that <em>you</em> are using, to make themselves look like a morally acceptable alternative. And they'd make their enemies look like the really evil ones. But then again… that wouldn't even be a new order imposed by the Death Note, would it? It's already happening. I <em>already</em> don't have reliable information about who is the most evil."
+
+Ryuk made a scandalized face, which was pretty impressive, considering how Ryuk's face normally looked. "I've always thought it was interesting to mess with humans, but I never knew how <em>completely screwed up</em> human society was."
+
+"Yeah…" said Light. "Anyway, it's a good thing I, Light Yagami, found the Death Note, instead of someone who didn't understand all that stuff."
+
 <bigbreak>
+
+Light looked over the results of the last dozen experiments with the laws of Iceland.
+
+<p><em>Not all of these have turned out I expected. Which is what I expected, of course. But I wish I knew <strong>why</strong> each law turned out how it did. For the few that did reduce lifespans, were they just bad laws, or were they somehow executed improperly? Influenced by corruption at some level?</em></p>
+
+<p><em>I've already given a significant boost to the average lifespan in Iceland, but it's obvious that I could be doing better. If only there was some way to &ndash;</em></p>
 
 "I've been doing this all wrong," said Light suddenly.
 
@@ -691,10 +705,110 @@ Ryuk finally took the hint. "Remembered what?"
 
 "That I have a magic book that can give me whatever I want."
 
-M
+Ryuk made an annoyed face. "That thing again? Do you want me to &ndash;"
+
+"No, not yet, you can keep gaming. I have a lot of drafting to do."
+
+<bigbreak>
 
 
-m
+
+<div class="death_note_page">
+[NAME]
+
+Suicide
+
+The subject is approached by a stranger online, has an epiphany, and joins the 23 Days Cult.
+
+Over the next 23 days, the subject often participates in the cult's online meetings, contributing many ideas useful for the cult's mission of making the world a better place.
+
+The subject serves the cult and its founder loyally until death. No cult activity is discovered by anyone outside the cult.
+
+During the 23rd day, the subject has a final online conversation with the founder, during which the founder is alive, healthy, and has never lost possession of the notebook central to the cult's operations. Then, the subject signs off, and soon receives death in a manner that is painless and doesn't attract suspicion.
+
+</div>
+
+Ryuk looked it over.
+
+"Why suicide?"
+
+"Well, I'm planning to tell the cult members everything about how the Death Note works and how I've used it. They'll know that <em>whatever</em> actions they take that day will end in their death, so it's arguably suicide no matter what. This keeps it flexible."
+
+Ryuk kept reading. "Why did you write 'the notebook central to the cult's operations'? Seems like pretty funny wording to just say the Death Note."
+
+"For some reason, the Death Note doesn't like me referring to Death Notes directly. It seems that referring to magical stuff is off-limits. Also, there's more than one Death Note, so I had to write it in a way that wouldn't permit somebody to swap them."
+
+"That's thorough!" Ryuk finished reading and looked back at Light eagerly. "How many cult members are you gonna make? Does this mean you'll finally stop pestering me about Death Note stuff?"
+
+Light held up a hand. "Not <em>yet</em>. Even if this template does work on the first try, I'll still only use it a on a few people before I see the full results. And I'll want you to participate in the first few cult meetings."
+
+"Eh, I can put up with that. But if it works well?"
+
+"I'm hoping I'll eventually move up to maintaining a few dozen cult members, which means writing about one name per day. Maybe even make a bigger organization, with subcommittees. But that's a long way off, and in order to get more members, I have to find more people who are going to die in exactly 23-24 days. But! <em>If</em> I end up with a steady membership, then yes, I'll leave you to play games as much as you want." <em>Which is exactly what I want, anyway. Ryuk doesn't seem very <strong>dangerous</strong> right now, but I'll still be happier once I'm only sharing my ideas with people I've mind-controlled into loyalty… and magically secured against eavesdroppers.</em>
+
+Ryuk somehow managed to grin even more than usual.
+
+<bigbreak>
+
+"How do you keep winning?! Shouldn't 166 hours of practice count for something?!"
+
+Light was sitting with Ryuk, playing a few rounds of Super Smash Bros. Melee to relax after a long week of saving the world.
+
+"Sure, but that was practice against the AI. I'm not playing like the AI, so you won't start winning until you learn to counter <em>my</em> strategy."
+
+"Come on, give me a chance!"
+
+"How about I play with my controller upside down?"
+
+Ryuk won a few games in a row while Light was still getting used to the upside-down controls. That seemed to make zeem happy. It seemed that Ryuk wasn't a huge fan of challenging zemself.
+
+"Say, Light, how's the whole 'saving the world' thing going?"
+
+"I'm surprised. I thought you didn't care about that stuff."
+
+"I didn't like it when you were trying to make me think about all the time, but now that you've just been hanging out with your cult for weeks, I'm kind of curious. I keep thinking of eavesdropping, but I never seem to notice when you're doing it."
+
+<em>Never seem to notice? But I'm right across the room from you every time! Wait… Holy crap! When I stopped having Ryuk join in the meetings, ze became "anyone outside the cult" and was unable to "discover" any "cult activity". Amazing.</em>
+
+Light's character got knocked out of the arena.
+
+"Also because you get distracted when you're thinking about it," said Ryuk mischievously.
+
+"You got me there." Light smiled. "Anyway, things are… What was I saying?" Light was distracted by a flurry of fighting in the game.
+
+"Your cult. How's it going?"
+
+"Give me a minute, I… Wait. Screw it. I hereby induct you into the 23 Days Cult."
+
+"What?"
+
+"I just realized that I accidentally mind-controlled <em>myself</em> so that I couldn't tell you about cult activities unless you were a cult member. Don't worry, I'll expel you again when we're done talking. I guess I'll need to be more careful about mind-controlling myself in the future. Anyway! Things are going great. I'm nearly up to the full complement of 23 members, and they've come up with so many good ideas, it feels like <em>more</em> than enough. Last week, they were pointing out maybe we should prioritize stopping wars before tweaking domestic policy, which I can't believe I didn't think of myself, so since then we've been working on the best way to do that. Dang it!" Light got knocked out again.
+
+"Can't you just write down that they stop the wars, like you did with the laws?"
+
+"Yes and no. You know what, I'm not taking more than one handicap at the same time." Light flipped zir controller back to the normal position. Ryuk pouted. "We <em>could</em> just write down that the parties make a peace treaty, but that wouldn't necessarily stop them from <em>violating</em> the peace treaty. We could write down that they don't violate it, but that would only work for 23 days at most, unless we kept including it in later Death Note entries. We've gone over a lot of ideas for the wording, but they would probably just bore you."
+
+"Yeah, probably." Ryuk launched a series of fireballs at Light.
+
+"We might be able to settle on something soon, but there's a lot of other work to do, like &ndash;" Light jumped up onto a platform to try to get some time to think &ndash; "like figuring out if we can use the Death Note to wipe out infectious diseases. We can't just write down that no one gets sick, because that'll be 'impossible'. But there are a lot of other possibilities. We could help out aid organizations, or find disease hotspots and force groups of people to stay healthy there. There are a couple of top epidemiologists set to die in June, so we might be able to get help from them too. At least, if our other changes don't make them live longer. And there's also the issue of global warming, although we're still trying to find a way to get good, measurable results for our actions on that."
+
+Ryuk put down zir controller and smiled. "I think I've heard enough."
+
+"No problem. I hereby expel you fr&mdash;"
+
+"Wait! No!" said Ryuk. "I meant… I've decided I want to help you."
+
+Light nearly dropped zir own controller in surprise. "Really?"
+
+"Well. I mean. You humans." began Ryuk clumsily. "I mean. In between looking up all the new games I want, I've been reading all of these articles online about how terrible you are. Without someone helping you, you're probably going to nuke the planet. And fry it. And drive all your food sources into extinction. Yeah. And then it'll just be a dried up husk with no humans and no video games, just like the death world. And then there will be no names left to write, so in a few hundred thousand years, there won't be any Gods of Death left either." It was hard to read Ryuk's face, but was that… Sadness? Fear? "So… I want to stay in the cult, so I can help you. I may not be a genius like you, but at least I can be an extra pair of eyes. And hands. You know, if you need something written in the Death Note when you're doing one of your human things, like sleeping or whatever." Ryuk extended a clawed hand. "Deal?"
+
+Light considered this. "Just promise you won't write anything in the Death Note without getting my approval first, okay?"
+
+"No problem." Ryuk rumbled. "You're the one with the plans and everything. I promise."
+
+Light smiled and shook Ryuk's hand. "It's a deal."
+
+
 
 ''',
 },
