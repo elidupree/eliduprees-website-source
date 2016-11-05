@@ -680,7 +680,7 @@ Light quickly wrote a new set of rules on the paper:
 
 <bigbreak>
 
-"I've been doing this all wrong," said Light.
+"I've been doing this all wrong," said Light suddenly.
 
 "Hmmm?" rumbled Ryuk.
 
