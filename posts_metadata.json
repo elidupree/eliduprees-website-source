@@ -784,14 +784,17 @@
   "remembered_contents": "ab4cc13dc46cd7deee11634b4948e158f7b63d0ed2c2f655035d2ae714702f7e822a6a3901bda267126bcb06c2164b3c"
  },
  "The 23 Days Cult": {
-  "date_modified": "2016-10-27",
-  "date_posted": "2016-10-27",
-  "id": "6f86aac88ac28a1e3019cd40ecbe642"
+  "date_modified": "2016-11-05",
+  "date_posted": "2016-11-05",
+  "id": "6f86aac88ac28a1e3019cd40ecbe642",
+  "remembered_contents": "c5dc5f9ce24befc000e799283af61ebd6b2763399fabbbce285027da17149c50e56fbee2d90acfe50035ba5fbfa63966"
  },
  "The 23 Days Cult: Discussion": {
-  "date_modified": "2016-10-27",
-  "date_posted": "2016-10-27",
-  "id": "b2e55796cf6efdbc80709b740499c38"
+  "date_modified": "2016-11-05",
+  "date_posted": "2016-11-05",
+  "deployed": true,
+  "id": "b2e55796cf6efdbc80709b740499c38",
+  "remembered_contents": "d64c585848647c4e470325a38028ecf5eec522c71417c8c740ec9f721c629effb8a1aaef14bcd2e5de4cf4ac414eea7d"
  },
  "The Food Experiments": {
   "date_modified": "2013-06-11",

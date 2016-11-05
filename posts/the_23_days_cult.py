@@ -8,6 +8,7 @@ posts = [
   "title":"The 23 Days Cult",
   "blurb": "What if Light Yagami, from Death Note, was both smart and good? (Everything is explained for people who don't know Death Note.)",
   "auto_paragraphs": True,
+  "don't deploy": True,
   "authors_notes":'''
 <p>A few notes on specific parts of the story:</p>
 <ul>
@@ -595,7 +596,7 @@ Light smiled. "Ryuk, you've been playing Civilization III for 96 hours straight.
 
 "Eh? That old thing?" Ryuk waved a claw dismissively. "Killing people is boring. I'm sure your idea is very clever, but I don't really feel like writing things down and staring at lifespans all day. Or worse, I might have to leave the house."
 
-<p><em>Perfect. I should probably make extra sure, though.</em> "Don't you eventually have to kill someone to continue your immortal life?"</em></p>
+<p><em>Perfect. I should probably make extra sure, though.</em> "Don't you eventually have to kill someone to continue your immortal life?"</p>
 
 "Sure, in about…" Ryuk looked at zir reflection in the computer screen. "50,000 years."
 
