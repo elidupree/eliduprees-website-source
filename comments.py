@@ -1402,6 +1402,12 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
   "id":"332cb9e53c94c8cbf8e19ff1624305fc",
   "date_posted":datetime.date(2016, 11, 5)
 },
-
+{
+  "parent":"38aeede43361e1f3165acc74f7b5bcf1",
+  "username":"Kappa",
+  "contents":"""People pursuing world-changing visions and refusing to be limited by tradition or the status quo is one of the foundational tropes of a small writing community I belong to. We have produced a <em>lot</em> of material in this vein, and are likely to go on producing more for the forseeable future. <br><br>Our genre/format is called glowfic, and we have a TV Tropes page and an IRC channel and our own website. Unfortunately we're not well-optimized for explainability to outsiders, and I'm low on cognitive energy right now so I'm having difficulty summarizing.""",
+  "id":"3e0fe952d20878859e17361c5f9896ab",
+  "date_posted":datetime.date(2016, 11, 5)
+},
 
 ]
