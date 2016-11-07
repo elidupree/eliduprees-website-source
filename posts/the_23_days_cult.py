@@ -14,9 +14,11 @@ posts = [
   
 <p>A few notes on specific parts of the story:</p>
 <ul>
-<li>The narrator voice uses <a href="/blog/scrutinized-words-she-he">gender-neutral pronouns</a> because it's a neutral narrator that doesn't care to make any specific statement about the characters' genders. I also use those pronouns for Light's thoughts, because Light's thoughts mostly aren't in English or Japanese to begin with, so I can translate them however I want.</li>
+<li>The narrator voice uses <a href="/blog/scrutinized-words-she-he">gender-neutral pronouns</a> because it's a neutral narrator that doesn't care to make any specific statement about the characters' genders. I also use those pronouns for Light's thoughts, because my version of Light thinks other things are much more important than gender. Also, zir thoughts mostly aren't in English or Japanese to begin with, so I can translate them however I want.</li>
 
 <li>I changed the wording of the first rule in the Death Note, so that it's not weird for Light to assume that it can be used multiple times.</li>
+
+<li>If Light thought there was a one-in-a-billion chance of magic being real, ze technically should have assigned a much smaller chance to <em>this particular</em> magic being real. I glossed over some details like this because even though I could have written thousands of words about Light analyzing whether magic was real, that isn't what I wanted the story to focus on.</li>
 
 <li>Most of the rules about lifespans are ambiguous, and never become relevant in the original story. I tried to create a system that was consistent, while being as true to the original story as possible.</li>
 
@@ -26,7 +28,7 @@ posts = [
 
 <li>Light's list of "three main limitations" on the Death Note's control is incomplete, in that it omits the above rule. Light didn't discover this because ze never saw a reason to kill people except where the Death Note specifically required it.</li>
 
-<li>The "no referring to magical things" rule isn't explicitly written in the original story, but I included it because the characters seem to obey it anyway. For instance, when Light causes a hijacking to fish for Raye Penber's name, ze conspicuously writes "sees a horrific phantom" instead of "sees a God of Death".</li>
+<li>The "no referring to magical things" rule isn't explicitly written in the original story, but I included it because the characters seem to obey it anyway. For instance, when Light causes a hijacking, to fish for Raye Penber's name, ze conspicuously writes "sees a horrific phantom" instead of "sees a God of Death".</li>
 
 <li>The original story doesn't actually say whether Gods of Death can know their own lifespans, but I decided it makes sense for them to see their own lifespans in their reflections, the same way humans who make the eyes deal can see their own names in their reflections.</li>
 
