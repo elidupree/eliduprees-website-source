@@ -14,15 +14,25 @@ posts = [
   
 <p>A few notes on specific parts of the story:</p>
 <ul>
+<li>The narrator voice uses <a href="/blog/scrutinized-words-she-he">gender-neutral pronouns</a> because it's a neutral narrator that doesn't care to make any specific statement about the characters' genders. I also use those pronouns for Light's thoughts, because Light's thoughts mostly aren't in English or Japanese to begin with, so I can translate them however I want.</li>
+
 <li>I changed the wording of the first rule in the Death Note, so that it's not weird for Light to assume that it can be used multiple times.</li>
 
 <li>Most of the rules about lifespans are ambiguous, and never become relevant in the original story. I tried to create a system that was consistent, while being as true to the original story as possible.</li>
 
-<li>In particular, there's an obscure rule from <em>Death Note 13: How to Read</em> that says: "The use of the Death Note in the human world sometimes affects other humans' lives or shortens their original life span, even though their names are not actually written in the Death Note itself. In these cases, no matter the cause, the god of death sees only the original lifespan and not the shortened lifespan." This might imply that you also can't see <em>extended</em> lifespans, but Rem specifically states that ze can see Misa's extended lifespan. I've chosen to ignore this rule in Light's case. Besides, it arguably doesn't restrict humans who have made the eyes deal, only the Gods of Death themselves.</li>
+<li>In particular, there's an obscure rule from <em>Death Note 13: How to Read</em> that says: "The use of the Death Note in the human world sometimes affects other humans' lives or shortens their original life span, even though their names are not actually written in the Death Note itself. In these cases, no matter the cause, the god of death sees only the original lifespan and not the shortened lifespan." This might imply that you also can't see <em>extended</em> lifespans, but Rem specifically states that ze can see Misa's extended lifespan. I've chosen to ignore this rule in Light's case. I suppose I could excuse this by pointing out that the rule doesn't necessarily restrict humans who have made the eyes deal, only the Gods of Death themselves.</li>
 
-<li>Light's list of "3 main limitations" on the Death Note's control is incomplete. You also can't write something that directly causes the death of another person. Light didn't discover this because ze never saw a reason to kill people except where the Death Note specifically required it.</li>
+<li>Another tricky rule was "Whether the cause of the individual's death is either a suicide or accident, if the death leads to the death of more than the intended, the person will simply die of a heart attack. This is to ensure that other lives are not influenced." There's a lot of leeway in how you interpret "leads to the death". You <em>could</em> take this to apply to any case where at least one other person's life span is shortened by any amount &ndash; but of course, that's contradicted by the previous rule I mentioned. I've chosen a fairly limited interpretation of this rule, which made it never end up taking effect in my story.</li>
+
+<li>Light's list of "three main limitations" on the Death Note's control is incomplete, in that it omits the above rule. Light didn't discover this because ze never saw a reason to kill people except where the Death Note specifically required it.</li>
+
+<li>The "no referring to magical things" rule isn't explicitly written in the original story, but I included it because the characters seem to obey it anyway. For instance, when Light causes a hijacking to fish for Raye Penber's name, ze conspicuously writes "sees a horrific phantom" instead of "sees a God of Death".</li>
 
 <li>The original story doesn't actually say whether Gods of Death can know their own lifespans, but I decided it makes sense for them to see their own lifespans in their reflections, the same way humans who make the eyes deal can see their own names in their reflections.</li>
+
+<li>I was deliberately vague about the results of Light's experiments with laws, because giving the details would require me to actually know which laws were the best, which I don't.</li>
+
+<li>On a similar note, the story ends shortly after the cult is formed because there's no way my real-life ingenuity can match that of 23 people with magical information sources working together under the influence of magical encouragement.</li>
 
 </ul>
 ''',
@@ -40,6 +50,10 @@ div.death_note_page p{
   
 </style>''',
   "contents": '''
+  
+What if Light Yagami, from Death Note, was both smart and good? (Everything is explained for people who don't know Death Note.)
+
+<bigbreak>
 
 "Today, at approximately 11 AM, a 32-year-old man was found stabbed to death in a department in the city of..."
 
@@ -290,7 +304,7 @@ Ryuk's face loomed over the Death Note. "Hmm? Interesting. Maybe you won't be so
 
 "You want to know one of the differences between a God of Death and a human who just happens to be holding a Death Note? Through the eyes of a God of Death, a human's name can be seen above their head. Not only that, we see their lifespan as well."
 
-"Their life span? You mean you can see exactly when I'm going to die?"
+"Their lifespan? You mean you can see exactly when I'm going to die?"
 
 "Yes. That is the difference between you and I. However, a God of Death <em>can</em> grant a human the eyes of the God of Death, but only if the deal is made. The price for the eyes of the God of Death… is half of <em>your</em> remaining lifespan."
 
@@ -302,7 +316,7 @@ One explanation later…
 
 "Let me get this straight," said Light, quickly organizing everything in zir head. "There's a human world and a death world. The death world isn't actually an afterlife, just a boring place where the Gods of Death live. Each God of Death typically has exactly one Death Note, but they can sometimes lose them or get more of them. Gods of Death can't be seen or heard by humans who haven't touched a Death Note. Also, they are essentially indestructible as long as their lifespan doesn't run out, and they can keep stealing additional lifespan from humans by killing them with Death Notes."
 
-"However," continued Light, "they are also required to live in the death world, which is boring. And so you, Ryuk, used the one exception, which is that if a human is holding one of your Death Notes, you can follow that human around instead of staying in the death world. You dropped a Death Note into the human world, because…"
+"However," continued Light, "they are also required to live in the death world, which is boring. And so you, Ryuk, used the biggest exception, which is that if a human is holding one of your Death Notes, you can follow that human around instead of staying in the death world. You dropped a Death Note into the human world, because…"
 
 "Because I was bored."
 
@@ -326,11 +340,11 @@ One explanation later…
 
 "Probably not. Most humans lead totally insignificant lives."
 
-"Now, suppose I tell you that I'm Japan's #1 honor student. Now do you think I can do it?"
+"Now, suppose I tell you that I'm Japan's number one honor student. Now do you think I can do it?"
 
 "Where are you going with this?"
 
-"The answer is still no, of course. Japan has had many #1 honor students over the years. A lot of them have wanted to save the world. But the world is still rotten."
+"The answer is still no, of course. Japan has had many number one honor students over the years. A lot of them have wanted to save the world. But the world is still rotten."
 
 "But now," Light continued, "suppose that I have found a supernatural power that none of them knew of…"
 
@@ -342,7 +356,7 @@ One explanation later…
 
 Ryuk pulled back a little. <em>Wow, Ryuk is easy to impress. Ze's actually a lot like a child, isn't ze? Not really understanding ethics, messing around just to see what happens… I wonder if I can actually change zem for the better? How similar is God of Death psychology to human psychology?</em>
 
-"There's no answer, of course," Light continued. "It is simply in the <em>nature</em> of Ryuk to seek amusement. So if you want to know why I plan to do what I plan to do, put it this way: to seek justice is simply the <em>nature</em> of Light Yagami."
+"There's no answer, of course," Light continued. "It is simply in the <em>nature</em> of Ryuk to seek amusement. So if you want to know why I plan to do what I plan to do, put it this way: To seek justice is simply the <em>nature</em> of Light Yagami."
 
 Ryuk's eyes widened. "It's just as I thought. Humans are so <em>interesting</em>…"
 
@@ -398,7 +412,7 @@ Light sighed. "Look, for all my life, I've assumed that people just die when som
 
 "No, there's no fate &ndash; at least, not that I've ever heard of. There's just you humans and us Gods of Death."
 
-"But there is, isn't there? The same power that I've already seen &ndash; the power to manipulate reality so precisely that the details of someone's death happen exactly how you write them. What if that power was active not <em>just</em> when you write down a name, but actually active <em>all</em> the time, everywhere, forever? When you use the Death Note, you use the power to change fate &ndash; but fate resists the change, by changing <em>again</em> to put everyone's death back on its original schedule, in every situation except where that's literally impossible! Like when you kill somebody who's about to kill another person. If you kill someone at random, fate can find a way to twist the future to make the depths stay the same. But if you kill a killer right before they do it, there's no way for the victim to still get murdered at the same time, so you've <em>forced</em> fate to change!"
+"But there is, isn't there? The same power that I've already seen &ndash; the power to manipulate reality so precisely that the details of someone's death happen exactly how you write them. What if that power was active not <em>just</em> when you write down a name, but actually active <em>all</em> the time, everywhere, forever? When you use the Death Note, you use the power to change fate &ndash; but fate resists the change, by changing <em>again</em> to put everyone's death back on its original schedule, in every situation except where that's literally impossible! Like when you kill somebody who's about to kill another person. If you kill someone at random, fate can find a way to twist the future to make the deaths stay the same. But if you kill a killer right before they do it, there's no way for the victim to still get murdered at the same time, so you've <em>forced</em> fate to change!"
 
 "Amazing. How did you figure out all that from the few things I told you?"
 
@@ -492,7 +506,7 @@ The second set of tests was about how much you could control. As it turned out, 
 
 However, there were certain limits. There were some details that the Death Note wouldn't accept. If you wrote down any details like that, the Death Note would ignore <em>all</em> the details you wrote, and the victim would die exactly 6 minutes and 40 seconds after you wrote the cause of death.
 
-Light had been reluctant to test the limits too thoroughly, since failures generally meant that the death wouldn't be painless. Still, from what ze'd gathered, it seemed that there were 3 main limitations. First, impossible things were impossible. Second, magical things were off-limits. Anything that explicitly referred to lifetimes would cause a failure.
+Light had been reluctant to test the limits too thoroughly, since failures generally meant that the death wouldn't be painless. Still, from what ze'd gathered, it seemed that there were three main limitations. First, impossible things were impossible. Second, magical things were off-limits. Anything that explicitly referred to lifetimes would cause a failure.
 
 Third, there was a time limit. You couldn't write down a death too far in advance. Light had specifically tested to find the exact limit, knowing that this would be important later. As it turned out, you could write down anything you wanted to happen within 23 days of the time you wrote the name. But if you described anything happening <em>more</em> than 23 days into the future, it would all be ignored, and the victim would die 6 minutes and 40 seconds after you wrote the cause of death.
 
@@ -522,7 +536,7 @@ Light had been a little worried about this one. The Death Note might consider it
 
 Still, that result hadn't been very satisfying. Extending a few people's lifespans by a few weeks was far short of Light's ambitions. And just like the other cases, this hadn't had a ripple effect on the lifespans of any of their other relatives.
 
-How far could you stretch this ability? Light had tried writing down this:
+How far could you stretch this ability? With another test subject, Light had tried writing down this:
 
 <div class="death_note_page">
 On Friday, no one in his entire city of New York dies for a full 24 hours. After he hears the news about this, he feels satisfied and dies peacefully.
@@ -530,7 +544,7 @@ On Friday, no one in his entire city of New York dies for a full 24 hours. After
 
 But <em>that</em> victim had died after the first 6 minutes and 40 seconds. Maybe that was too impossible for the Death Note, even if it wasn't impossible for each individual person to survive an extra day.
 
-The next experiment was a much different story. Light had found photos of a pair of rock climbers, Julia Kaczyńska and Diane Chin, who were both going to die within a minute of each other. When ze investigated further, ze discovered that they had posted on a rock climbers' forum that they were about to attempt a particularly dangerous climb… and the date and time of their plan matched the time of their deaths perfectly.
+The next experiment was a much different story. Light had found photos of a pair of rock climbers, Julia Kaczyńska and Diane Chin, who were both going to die within a minute of each other. When Light investigated further, ze discovered that they had posted on a rock climbers' forum that they were about to attempt a particularly dangerous climb… and the date and time of their plan matched the time of their deaths perfectly.
 
 <p><em>Almost certainly a climbing accident,</em> Light had thought. <em>I wish I could just warn them, so that neither of them has to die. But what if they don't believe me? What would that look like? A completely new user joins the forum specifically to give a dire warning. The climbers ignore the warning, because, duh, who would pay attention to a warning from a complete stranger who doesn't know anything? And then they actually die! The rumors about the stranger would spread all over the place. I already decided I don't want to attract that much attention. There will always be more people to save if I do change my mind...</em></p>
 
@@ -622,7 +636,7 @@ The Iceland President confirms a law that establishes a universal basic income. 
 
 "Why are we messing with the laws in Iceland, instead of here in Japan?"
 
-"Ease of measurement," said Light simply. "Iceland has a high percentage of Internet users, making it easier for me to sample them. Also, it's a relatively small country. If I messed with, say, the United States, it has an oversized role in international relations, so I'd have to worry about the effects on people in <em>every</em> country. I eventually want to improve the entire world, holistic way, but right now I'm just focusing on domestic policy. If this works well, I might eventually create an international census."
+"Ease of measurement," said Light simply. "Iceland has a high percentage of Internet users, making it easier for me to sample them. Also, it's a relatively small country. If I messed with, say, the United States, it has an oversized role in international relations, so I'd have to worry about the effects on people in <em>every</em> country. I eventually want to improve the entire world, holistically, but right now I'm just focusing on domestic policy. If this works well, I might eventually create an international census."
 
 "But you still wrote down the time of death in Japan Standard Time?"
 
@@ -734,7 +748,7 @@ Ryuk looked it over.
 
 "Well, I'm planning to tell the cult members everything about how the Death Note works and how I've used it. They'll know that <em>whatever</em> actions they take that day will end in their death, so it's arguably suicide no matter what. This keeps it flexible."
 
-Ryuk kept reading. "Why did you write 'the notebook central to the cult's operations'? Seems like pretty funny wording to just say the Death Note."
+Ryuk kept reading. "Why did you write 'the notebook central to the cult's operations'? Seems like pretty funny way to just say the Death Note."
 
 "For some reason, the Death Note doesn't like me referring to Death Notes directly. It seems that referring to magical stuff is off-limits. Also, there's more than one Death Note, so I had to write it in a way that wouldn't permit somebody to swap them."
 
