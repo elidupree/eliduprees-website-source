@@ -700,7 +700,7 @@ def secondary_hidden_cw_box(contents):
   </div>'''
 
 def post_dict_html(post_dict, stream_only = False):
-  (body, head) = post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories", allow_comments = ("disallow_comments" not in post_dict))
+  (body, head) = post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else ("story_discussion" if "parent_story" in post_dict else stream_only), post_metadata(post_dict), post_dict["category"] != "stories", allow_comments = ("disallow_comments" not in post_dict))
   if "head" in post_dict:
     head = head + post_dict ["head"]
   return (body, head)  
@@ -813,18 +813,24 @@ def metadata_and_comments_section_html(title, permalink, taglist, stream_only, m
   Patreon_stuff = ""
   
   if allow_comments == False:
-    # note: all disallow-comments posts are metastatic where it also makes sense not to have a Patreon appeal
     pass
   elif stream_only == "story":
     Patreon_stuff = '''<a class="hidden_from_restricted_users blog_Patreon_appeal" href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt=""> Did you like this story? Consider pledging a few $$$ on Patreon so I can keep putting cool things online for free.</a>'''
     comments_stuff = '''<a href="'''+permalink+'''/discussion" class="direct_comment">Author's notes and comments</a>'''
-  elif stream_only == False:
+  elif stream_only == False or stream_only == "story_discussion":
     comments_stuff = comments_section(metadata["id"])
     Patreon_stuff = '''<a class="hidden_from_restricted_users blog_Patreon_appeal" href="https://www.patreon.com/EliDupreeBlog"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt=""> Are my blog posts helpful to you? Consider pledging a few $$$ on Patreon so I can keep putting cool things online for free.</a>'''
   else:
     (cnum, chtml) = do_comments(metadata["id"], True)
     comments_stuff = utils.inline_separator+'<a href="'+permalink+'#comments">Comments' + specifier + '&nbsp;('+str(cnum)+')</a>'
     
+  if allow_comments == False:
+    # note: all disallow-comments posts are metacontent where it also makes sense not to have a Patreon appeal
+    pass
+  elif stream_only == "story" or stream_only == "story_discussion":
+    Patreon_stuff = '''<a class="hidden_from_restricted_users blog_Patreon_appeal" href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt=""> Did you like this story? Consider pledging a few $$$ on Patreon so I can keep putting cool things online for free.</a>'''
+  elif stream_only == False:
+    Patreon_stuff = '''<a class="hidden_from_restricted_users blog_Patreon_appeal" href="https://www.patreon.com/EliDupreeBlog"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt=""> Are my blog posts helpful to you? Consider pledging a few $$$ on Patreon so I can keep putting cool things online for free.</a>'''
   
   tags_str = ''
   if taglist:
