@@ -311,7 +311,14 @@ background-color:#ff7;
 border-color:#442;}
 a.Patreon_link:hover span {text-decoration: underline;}
 
-a.blog_Patreon_appeal {display: block; padding-bottom:0.6em;}
+a.blog_Patreon_appeal {
+  display: block;
+  padding-top: 0.2em;
+  padding-bottom: 1.0em;
+  padding-left: 1.4em;
+  padding-right: 1.4em;
+  font-size: 111%;
+}
 
 .MailChimp_form input {width: 100%; margin: 0.2em 0;}
 .MailChimp_form .button {border: 0 none; border-radius:0.25em; height:  2em; cursor: pointer; transition: all 0.23s ease-in-out 0s; background-color: #777; color: white;}
