@@ -311,6 +311,8 @@ background-color:#ff7;
 border-color:#442;}
 a.Patreon_link:hover span {text-decoration: underline;}
 
+a.blog_Patreon_appeal {display: block; padding-bottom:0.6em;}
+
 .MailChimp_form input {width: 100%; margin: 0.2em 0;}
 .MailChimp_form .button {border: 0 none; border-radius:0.25em; height:  2em; cursor: pointer; transition: all 0.23s ease-in-out 0s; background-color: #777; color: white;}
 .MailChimp_form .button:hover {background-color: #444;}
@@ -801,20 +803,28 @@ html.transcript_hidden_'''+ transcript_identifier_string +''' #hide_transcript_b
   '''+(''.join(post_content_sections))+'''
 </div>'''+metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata, allow_comments = allow_comments), "".join (head))
 
+
 def metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata, allow_comments = True):
   specifier = ""
   if title:
     specifier = '<span class="invisible"> for '+ title +'</span>'
+  
   comments_stuff = ""
+  Patreon_stuff = ""
+  
   if allow_comments == False:
+    # note: all disallow-comments posts are metastatic where it also makes sense not to have a Patreon appeal
     pass
   elif stream_only == "story":
+    Patreon_stuff = '''<a class="hidden_from_restricted_users blog_Patreon_appeal" href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt=""> Did you like this story? Consider pledging a few $$$ on Patreon so I can keep putting cool things online for free.</a>'''
     comments_stuff = '''<a href="'''+permalink+'''/discussion" class="direct_comment">Author's notes and comments</a>'''
   elif stream_only == False:
     comments_stuff = comments_section(metadata["id"])
+    Patreon_stuff = '''<a class="hidden_from_restricted_users blog_Patreon_appeal" href="https://www.patreon.com/EliDupreeBlog"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt=""> Are my blog posts helpful to you? Consider pledging a few $$$ on Patreon so I can keep putting cool things online for free.</a>'''
   else:
     (cnum, chtml) = do_comments(metadata["id"], True)
     comments_stuff = utils.inline_separator+'<a href="'+permalink+'#comments">Comments' + specifier + '&nbsp;('+str(cnum)+')</a>'
+    
   
   tags_str = ''
   if taglist:
@@ -823,12 +833,14 @@ def metadata_and_comments_section_html(title, permalink, taglist, stream_only, m
   if metadata["date_modified"] != metadata["date_posted"]:
     date_str = 'Posted '+date_stringify(metadata["date_posted"])+utils.inline_separator+'Last updated '+date_stringify(metadata["date_modified"])+utils.inline_separator
   
-  return '''
+  return ('''
 <div class="blog_post_metadata_outer">
   <div class="blog_post_metadata">
-    '''+tags_str+date_str+'<a rel="bookmark" href="'+permalink+'">Permalink' + specifier + '</a>'+comments_stuff+'''
+    '''+ Patreon_stuff +'''
+    '''+tags_str+date_str+'<a rel="bookmark" href="'+permalink+'">Permalink' + specifier + '</a>'+
+    comments_stuff+'''
   </div>
-</div>'''
+</div>''')
   
   
 
