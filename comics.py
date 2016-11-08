@@ -519,7 +519,7 @@ def page_html_and_head(page, prev_page, next_page):
   navbar = comic_navbar(prev_page, next_page)
   metabar = comic_metabar(page)
   metadata = blog.post_metadata(page)
-  (HTML, head) =blog.post_html(page["annotation"], None, page_url(page), None, False, metadata)
+  (HTML, head) =blog.post_html(page["annotation"], None, page_url(page), None, False, metadata, allow_comments = True, Patreon_type = "comic")
   return (
     '''
 <div class="comic_and_nav">'''
