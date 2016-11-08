@@ -841,7 +841,7 @@ def metadata_and_comments_section_html(title, permalink, taglist, stream_only, m
       question = '''Did you like this story?'''
       which = "EliDupree"
     elif Patreon_type == "comic":
-      question = '''Did you like this comic?'''
+      question = '''Do you like this comic?'''
       which = "EliDupree"
       
     Patreon_stuff = '''<a class="hidden_from_restricted_users blog_Patreon_appeal" href="https://www.patreon.com/'''+which+'''"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt=""> '''+question+''' Consider pledging a few $$$ on Patreon so I can keep putting cool things online for free.</a>'''
