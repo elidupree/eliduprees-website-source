@@ -423,7 +423,7 @@ Light sighed. "Look, for all my life, I've assumed that people just die when som
 
 "I'm not really. This is all just a theory. It could all be nonsense. In fact, I'd actually be happier if it's nonsense &ndash; I <em>want</em> people's lifespans to be <em>easy</em> to change, so that I can change them for the better. That way, it won't even matter if I give up half my lifespan, because I can just increase it again. I know I won't be able to see my <em>own</em> lifespan, but I'm sure I'll come up with something. For instance, suppose I could find a way to make someone <em>else</em> die as soon as I die. Then I could look at that person's lifespan to determine my own."
 
-Light stood up straight and smiled grimly. "But if there <em>is</em> and enormously powerful force of fate trying to stop me, then I, Light Yagami, must find a way to force this fate to change at a scale that has never before been seen in this world. Ryuk, I accept this deal. Half my lifespan for the eyes of a God of Death."
+Light stood up straight and smiled grimly. "But if there <em>is</em> an enormously powerful force of fate trying to stop me, then I, Light Yagami, must find a way to force this fate to change at a scale that has never before been seen in this world. Ryuk, I accept this deal. Half my lifespan for the eyes of a God of Death."
 
 <bigbreak>
 
@@ -641,7 +641,7 @@ The Iceland President confirms a law that establishes a universal basic income. 
 
 "But you still wrote down the time of death in Japan Standard Time?"
 
-"I always write JST now, so that I don't mess up. Some of my earlier 'victims' have turned out to die at a different hour than I expected, because the Death Note assumed I meant <em>their</em> local time, when I was really thinking of <em>my</em> local time. So now I just do all the calculations in my own time zone, find the proper time so that it will cut off no more than two minutes of their life, and then write down JST so that the Death Note knows what I'm doing. Making someone die few hours early isn't the worst thing in the world, but if I get it wrong in the <em>other</em> direction, the entry won't work at all."
+"I always write JST now, so that I don't mess up. Some of my earlier 'victims' have turned out to die at a different hour than I expected, because the Death Note assumed I meant <em>their</em> local time, when I was really thinking of <em>my</em> local time. So now I just do all the calculations in my own time zone, find the proper time so that it will cut off no more than two minutes of their life, and then write down JST so that the Death Note knows what I'm doing. Making someone die a few hours early isn't the worst thing in the world, but if I get it wrong in the <em>other</em> direction, the entry won't work at all."
 
 "Wow, you've really put some thought into this."
 
@@ -694,7 +694,7 @@ Light quickly wrote a new set of rules on the paper:
 
 "Would that be so bad? If you kill off all the criminals, wouldn't people be afraid to be criminals?"
 
-"Ryuk, I don't know if you've picked this up by now, but we do have <em>laws</em> in the human world. Criminals are already afraid &ndash; of getting <em>caught</em>. And, laws or not, anyone would be afraid of having their face plastered across the news a a major criminal. But imagine what effect this would have on the news media itself. Once people caught on to what was happening, they'd say it was unethical to display anyone's face as a suspected criminal. So then I'd have to turn to news sources that don't care about ethics &ndash; like the tabloids and random websites that publish outrageous 'true crime' stories. But then, there's no one forcing them to publish the <em>correct</em> name and face for those criminals, is there? You could probably pay them to publish whatever you want. A lot of 'news sources' would effectively be turned into hired killers. But the effects on actual crime would be essentially nonexistent."
+"Ryuk, I don't know if you've picked this up by now, but we do have <em>laws</em> in the human world. Criminals are already afraid &ndash; of getting <em>caught</em>. And, laws or not, anyone would be afraid of having their face plastered across the news as a major criminal. But imagine what effect this would have on the news media itself. Once people caught on to what was happening, they'd say it was unethical to display anyone's face as a suspected criminal. So then I'd have to turn to news sources that don't care about ethics &ndash; like the tabloids and random websites that publish outrageous 'true crime' stories. But then, there's no one forcing them to publish the <em>correct</em> name and face for those criminals, is there? You could probably pay them to publish whatever you want. A lot of 'news sources' would effectively be turned into hired killers. But the effects on actual crime would be essentially nonexistent."
 
 "Or," continued Light, "suppose I'm a <em>little</em> smarter and I decide to target the real sources of violence and exploitation in our society, rather than individual criminals. Who do I kill? Corporate executives? Wouldn't <em>that</em> be interesting." Light laughed. "Mob bosses, maybe. Paramilitary leaders. Xenophobic politicians. Half the time, they're just figureheads. They'll just be replaced by someone who doesn't show you their face. Or someone who knows how to control the sources of information that <em>you</em> are using, to make themselves look like a morally acceptable alternative. And they'd make their enemies look like the really evil ones. But then again… that wouldn't even be a new order imposed by the Death Note, would it? It's already happening. I <em>already</em> don't have reliable information about who is the most evil."
 
@@ -775,7 +775,7 @@ Light was sitting with Ryuk, playing a few rounds of Super Smash Bros. Melee to 
 
 "How about I play with my controller upside down?"
 
-Ryuk won a few games in a row while Light was still getting used to the upside-down controls. That seemed to make zeem happy. It seemed that Ryuk wasn't a huge fan of challenging zemself.
+Ryuk won a few games in a row while Light was still getting used to the upside-down controls. That seemed to make zem happy. It seemed that Ryuk wasn't a huge fan of challenging zemself.
 
 "Say, Light, how's the whole 'saving the world' thing going?"
 
