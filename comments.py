@@ -1409,5 +1409,26 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
   "id":"3e0fe952d20878859e17361c5f9896ab",
   "date_posted":datetime.date(2016, 11, 5)
 },
+{
+  "parent":"332cb9e53c94c8cbf8e19ff1624305fc",
+  "username":"Untamable Spirit",
+  "contents":"""Also, I think it would be really cool if you had a hero like this fighting a villain who was *not* doing anything to violate the status quo, but a villain who was being evil by trying to maintain the status quo and keep people following the rules of society.""",
+  "id":"7970d2fd1751d5aaa26797fa48ebc78",
+  "date_posted":datetime.date(2016, 11, 5)
+},
+{
+  "parent":"829e44ef515bc2933e02bc6e5633e59f",
+  "username":"Guest",
+  "contents":"""This comic has quickly become my favourite piece of fanart after I've discovered it (credit to TVTropes). However, it seems that it's been abandoned. Is that the case? Or did you continue it somewhere else?""",
+  "id":"40ef3245f0dc5e425214758769356b86",
+  "date_posted":datetime.date(2016, 11, 8)
+},
+{
+  "parent":"40ef3245f0dc5e425214758769356b86",
+  "username":"Eli Dupree",
+  "contents":"""Aww thanks! I've actually scripted and sketched out all the remaining pages (there's about 30 of them). Unfortunately, the hand problem that I mentioned in an earlier comment has continued off-and-on for years. I intend to finish drawing them eventually, but I don't know when that will be.""",
+  "id":"228b31ec27c13bd16eed23a1e89dbf05",
+  "date_posted":datetime.date(2016, 11, 8)
+},
 
 ]
