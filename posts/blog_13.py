@@ -429,6 +429,65 @@ And then let the hero succeed.
 ''',
 },
 
+{
+"title": "How to make your fantasy setting less racist",
+"tags": ["writing"],
+"auto_paragraphs": True,
+"blurb": "Suppose I'm a white supremacist, and I want to write a fantasy story. What kind of story do I write?",
+"contents":'''
+Suppose I'm a white supremacist, and I want to write a fantasy story. What kind of story do I write? Maybe it would be something like this:
+
+<ul>
+<li>There is a "white" race, which is consistently portrayed as normal or good. Other races are usually portrayed as unusual, exotic, and/or bad.</li>
+<li>Races are clearly separated from each other. Interracial relationships are rare or nonexistent. There is no significant population of mixed-race people.</li>
+<li>The white race may have some variety, but non-white races are often one-dimensional caricatures. The question "why are they attacking people?" doesn't need much of a reason beyond "they are [race]".</li>
+<li>However, I want to spend my propaganda without everyone instantly knowing can racist it is. So, I don't explicitly label the races "white", "black", etc.. Instead, I make them fantasy races that just have some <em>superficial traits</em> of the human races I'm thinking of. The audience can figure out what I'm implying for themselves.</li>
+</ul>
+
+What have I just described? This isn't just some weird thing done by a few white supremacists. It's a staple of modern fantasy. It's <em>Humans and Orcs.</em> In a lot of modern fantasy, all humans are white, and <a href="https://chroniclesofharriet.com/2012/01/19/racism-role-playing/">orcs are people's worst stereotypes about black people</a> (and/or other <a href="https://en.wikipedia.org/wiki/People_of_color">PoC</a>), just with the name changed.<footnote((Note that <em>Tolkien's</em> fiction, which is the original source of orcs, is not quite like this. Tolkien's fiction features good dark-skinned humans, such as Ghân-buri-Ghân, and many mixed-race people, technically including all hobbits. Tolkien's writing is not free from racism, but its racism is very different than the things that have come after it.))>
+
+I'm going to single out <cut>two video games here: Hearthstone and Battle for Wesnoth. I'm focusing on these games because I enjoy playing them online. Thus, in a way, my actions help to <em>promote</em> these games. I feel like I have a duty not to promote racist things without at least criticizing them as well.
+
+In both games, all humans are white.<footnote((Wesnoth has recently introduced the "Khalifate", a group of humans who clearly represent Arab Muslims. However, their race isn't even listed as "Human", but instead as "Khalifate Human", as if Muslims can't just be regular-human like the rest of us. Also, it's strange to include a "Khalifate" in a fantasy game that generally avoids real-life religious terms. Imagine how you would feel if you played a game where the races were Humans, Elves, Orcs, and Christians.))> Hearthstone has plenty of green people and some blue and orange people, but no brown people. Wesnoth does it one worse by making the brutish orcs literally have brown skin.
+
+Humans have Knights, Crusaders, Kings, and Priests. Orcs have Warriors, Warlords, Chiefs, and Shamans. In real life, I ask you, what races of people are normally called each of these things? That should tell you what kind of thoughts about race the authors were having when they created these settings.
+
+Hearthstone also misuses terms from various cultures just to add flavor to the game. It has "Totems" and a "Voodoo Doctor", although I'm certain no Ojibwe people or Voodoo practitioners<footnote((Of <em>either</em> of the religious traditions often called "Voodoo".))> were consulted during the making of the game. These things are associated with orcs and trolls, adding to the "human = white" implications.<footnote((Both games also have <em>elves</em>, which are an interesting complication. In Wesnoth, elves are just as white as humans. Even the desert elves from <em>Under the Burning Suns</em> have the same skin tone, even though they should logically have much more melanin, if only from tanning. In Hearthstone, they have different skin tones (such as purple), but still use cultural terms/ideas associated with white people. Elves tend to vary between different fantasy settings. In some, they aren't quite white. In others, they are super white.))> Humans are also much more likely to speak in Standard English, while trolls often borrow grammar from <a href="https://en.wikipedia.org/wiki/AAVE">AAVE</a>.
+
+Naturally, none of these things are unique to Hearthstone. They are common to many modern fantasy settings. And it seems likely that most of them are unintentional. If a writer is trying to include some spooky magic, they may reach for the term "voodoo", without thinking about the actual religious tradition. If they are trying to write dialogue for a stupid character, they may reach for grammar from AAVE simply because they've seen the same grammar on stupid characters in other stories. They don't realize that this originated from deliberate attempts to portray black Americans as stupid. But because they don't know, they end up repeating the same harmful implications.
+
+
+
+So what do we do about all this? There are many possibilities.
+<h2>1. Don't use fantasy races.</h2>
+
+Probably, we should create new fantasy stories, which don't rely on the cliché of human-like races with distinctive traits. But even within this kind of fantasy setting, there are lots of other things you could do to avoid some of the problems.
+
+<h2>2. Make all the humans black.</h2>
+
+Well, why not?
+
+Sure, some assholes will call you an <a href="https://en.wikipedia.org/wiki/Social_justice_warrior">SJW</a> who drags race into everything. But if making all humans black is dragging race into it, then making all the humans <em>white</em> is dragging race into it just as much. The only difference is that all-white humans are so common that they don't even stand out. But if it's so common for people to write stories with these kinds of white-supremacist undertones, that's all the more reason for us to write stories with a different message.
+
+You could also make humans be a broad assortment of real-life races (which might or might not happen to have any white people in it).
+
+You could even use the cliché fantasy story where the Evil Hordes invade the Good Kingdom just because they can. This isn't even an unrealistic story. The only unrealistic thing is PoC doing it to white people instead of the other way around. You could have your Orcs be a fantasy-ized version of white European conquerors.
+
+<h2>3. Get rid of the <em>humans</em>.</h2>
+
+Fantasy races can be an interesting way to explore the different sides of real-life humanity. Say, you can have the passionate people, who are made out of fire, and the intellectual people, who are made out of air. If one of the races is actually called "humans", that messes up the metaphor.
+
+The important thing here is for the fantasy-racial divisions <em>not</em> to represent real-life racial divisions. However, this is actually quite difficult. Almost all terms for social roles have racial connotations in one way or another. One possible technique is to invent your own terms for the roles in your fictional cultures. This is fairly common in fantasy novels, but can't be used all the time without making things harder for the reader.
+
+A more thorough thing to do is to make detailed designs for all of your fictional dialects and cultures. If you find a specific reason for each cultural quirk &ndash; a reason that arises from your own fiction &ndash; then it's easier to avoid falling into stereotypes. Even this isn't foolproof, because your own assumptions about race may be built into the foundation. However, it can catch some of the more careless stereotypes.
+
+Ultimately, your story's portrayal of racial issues can only be good as <em>your</em> understanding of racial issues. If you've grown up in a racist society, it can be hard work to keep racist implications out of your own stories. The important thing is to do that work while you're writing, instead of trying to justify yourself afterwards.
+
+
+
+
+''',
+},
 
 ]
 
