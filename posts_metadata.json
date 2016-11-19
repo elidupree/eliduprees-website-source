@@ -315,7 +315,9 @@
  "How to make your fantasy setting less racist": {
   "date_modified": "2016-11-16",
   "date_posted": "2016-11-16",
-  "id": "4d70c1c7f5c23d360e1cf9ee3ebc1cd"
+  "deployed": true,
+  "id": "4d70c1c7f5c23d360e1cf9ee3ebc1cd",
+  "remembered_contents": "06de9330a7e3a09a60ba5952f6dc59d88e7c4a1e7e640acf653d0394a3faf4ec934979b7ae9ca570d32b5ab786e6b53a"
  },
  "I made biscuits!": {
   "date_modified": "2013-06-16",
