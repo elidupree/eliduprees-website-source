@@ -793,7 +793,9 @@
  "That's Not Funny!": {
   "date_modified": "2016-11-23",
   "date_posted": "2016-11-23",
-  "id": "3f5919ca19381fc5fc84cf5bc7e5ce7"
+  "deployed": true,
+  "id": "3f5919ca19381fc5fc84cf5bc7e5ce7",
+  "remembered_contents": "821da5a3c11896a0aa0611dca069b6f3418ab408922d315e01d19864af1d0ec38e90f084d401d01dc4f52a8d4b43bbd9"
  },
  "The 23 Days Cult": {
   "date_modified": "2016-11-09",
