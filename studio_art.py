@@ -3,6 +3,10 @@
 from __future__ import division
 import css
 
+blurb = "A collection of drawings I did for a studio art class."
+blurb_big = '''<p>In AP Studio Art, each student makes a portfolio of 24 drawings. 12 are "breadth" drawings, where you try to show your expertise with as many different materials and subject matter as you can. The other 12 are "concentration" drawings. You pick a single concept to focus on, and make 12 drawings exploring that theme, whatever it is.</p>
+
+<p>For my concentration, I chose "bringing meaning to empty spaces". I felt like it would help me learn the craft of arranging an image on a page &ndash; so that I could draw attention to a space and make it meaningful, even if there was nothing there.</p>'''
 
 css.insert('''
 
@@ -65,21 +69,63 @@ You may recognize this as the background image from other parts of this website.
 
 I love scratchboard drawings. It's one of the few media where both white and black are so vivid. Subtlety is nice and all, but BAM! Bright white! BAM! Solid black! It's great.
 
-This particular scratchboard started weight, and we had to add the ink layer ourselves. I deliberately left the ink off of the moon, and made the edges irregular. That way, the borders of the clouds over the moon aren't actually scratched, so they have a different look than the rest of the image.'''},
+This particular scratchboard started white, and we had to add the ink layer ourselves. I deliberately left the ink off of the moon, and made the edges irregular. That way, the borders of the clouds over the moon aren't actually scratched, so they have a different look than the rest of the image.'''},
 {"source": "looking_down.jpg", "chapter_start": "Concentration", "annotation":'''Scratchboard.
 
-This drawing was practically the inspiration of my concentration, "bringing meaning to empty spaces". What's down the stairs? What is the person seeing? Nobody knows, but yet, it's the most important part of the image.'''},
-{"source": "pastel_gateway.jpg", "annotation":''''''},
-{"source": "flashlight.jpg", "annotation":''''''},
-{"source": "st_lukes_tower.jpg", "annotation":''''''},
-{"source": "5_pillars.jpg", "annotation":''''''},
-{"source": "scratchboard_gateway.jpg", "annotation":''''''},
-{"source": "stupid_slogan.jpg", "annotation":''''''},
-{"source": "hand_reaching.jpg", "annotation":''''''},
-{"source": "1_pillar.jpg", "annotation":''''''},
-{"source": "red_shirt.jpg", "annotation":''''''},
-{"source": "buddha.jpg", "annotation":''''''},
-{"source": "candle.jpg", "annotation":''''''},
+This drawing was practically the inspiration of my concentration, "bringing meaning to empty spaces". What's down the stairs? What is the person seeing? Nobody knows, but yet, it's the most important part of the image.
+
+Unfortunately, scratchboard doesn't photograph very well, because the ink is very reflective. The bluish area in the bottom right is just an artifact of how we photographed the original drawing.'''},
+{"source": "pastel_gateway.jpg", "annotation":'''Chalk pastel on black paper.
+
+One of my favorite historical paintings is van Gogh's "Wheatfield with Crows". The warm colors of the ground, the cool colors of the sky, and the black crows &ndash; which are neither warm nor cool &ndash; crossing the boundary. I tried to create a similar effect in this picture.
+
+Chalk pastel on black paper is one of my favorite ways to draw (with physical media, anyway). A dark image with a few bright highlights looks much more vivid to me than most things with a white background can be.
+
+The "archway going to nowhere" is a cool fantasy trope. I'm not quite satisfied with this one, though. Because the black paper is actually less dark than the archway itself, it feels more like "I just didn't draw anything there" than "That's spooky, I wonder what's past the archway?"'''},
+{"source": "flashlight.jpg", "annotation":'''Scratchboard.
+
+This drawing didn't come out quite as intended. Per my concentration, your eye is supposed to be drawn to the vast empty space the person is looking into. Instead, the person takes up too much of the space. I should've made the person much smaller, squeeze way into the bottom corner of the picture &ndash; only about one-tenth as tall as the full picture, instead of one-third as tall. Then it really <em>would</em> call attention to the 99% of the surface that I left in darkness.'''},
+{"source": "st_lukes_tower.jpg", "annotation":'''Colored pencil on index card. This is a church tower I can see from the window of my art classroom.
+
+I bet there's loads of symbolism you can read into my swapping the church texture with the sky texture. Making up symbolism is a fun pastime. All I was doing was having fun playing with textures.'''},
+{"source": "5_pillars.jpg", "annotation":'''White colored pencil on black paper.
+
+There's a lot of different ways to "bring meaning to empty spaces". Here, I did it by creating a <em>pattern</em>. The four pillars create the <em>expectation</em> of a fifth pillar, so the fact that it isn't there becomes meaningful.
+
+White colored pencil is a much softer white than white chalk pastel. The more subtle coloring worked well for this picture.'''},
+{"source": "scratchboard_gateway.jpg", "annotation":'''Scratchboard.
+
+This is a much simpler interpretation of the "empty gateway" concept. The lines imply that there's a bright light from behind the wall, so why can't you see the light in the gateway itself?'''},
+{"source": "stupid_slogan.jpg", "annotation":'''Chalk pastel on black paper.
+
+Looking back on this picture now, I'm not sure it fulfills the concentration very well. The dark half could just be a background. The viewer's eye is drawn to the action on the left and the Statue-of-Liberty-ish figure in the middle.
+
+Maybe the figure should have been facing <em>towards</em> the darkness, instead of away from it. Or maybe something more subtle &ndash; like ze could be walking away in one direction, but turning to look back in the other.
+
+'''},
+{"source": "hand_reaching.jpg", "annotation":'''Chalk pastel on white paper.
+
+Another way to "bring meaning to empty spaces" is to put an empty space where the viewer knows something <em>should</em> being. In this case, the viewer knows that there's supposed to be a reflection in the water.
+
+I made the hand dark brown so that it would make the most vivid contrast with the sky and water. If you want that to symbolize something else, like black people not seeing their real life stories reflected in the mainstream media, that's cool too.
+
+Making the watery reflections was fun. First, I drew the blue sky on the blank page. Then, I drew both versions of the trees/sleeve, so that the upper versions are drawn <em>over</em> the blue sky. Then, I took a white chalk pastel and dragged it horizontally over the lower versions, smudging them and creating the ripple effect. I didn't have to purposefully draw a single ripple myself.'''},
+{"source": "1_pillar.jpg", "annotation":'''White chalk pastel on black paper.
+
+This is a very simple one. <em>Why</em> and infinitely wide flat empty space has an infinitely tall pillar right next to a lightbulb, is left as an exercise to the viewer.'''},
+{"source": "red_shirt.jpg", "annotation":'''Chalk pastel on black paper.
+
+In this one, I actually did some symbolism on purpose. Having someone's <em>head</em> be hidden has special meanings. Hiding someone's head makes them look less human. If you hide your own head with a mask &ndash; let's say, to go and fight in the resistance without having your identity be known &ndash; you take away your human vulnerability. If you hide someone <em>else's</em> head, you take away their human <em>agency</em>. Here, the viewer is supposed to be disturbed by the objectification of the person in the picture.
+
+I think I was in a hurry when I drew this one. I think the thing in the middle was supposed to be a plaque, as if the person was a museum exhibit, but it's not obvious what it is, and its perspective isn't correct compared with the rest of the picture.'''},
+{"source": "buddha.jpg", "annotation":'''Charcoal on white paper.
+
+I don't want to spoil this one with words.'''},
+{"source": "candle.jpg", "annotation":'''Chalk(?) on black paper. (I'm pretty sure one of these pictures used regular chalk rather than white chalk pastel, but I'm not sure which one. I think it might've been this one. Regardless, I didn't like it as much, so I only used it once.)
+
+This picture was originally inspired by the H.P. Lovecraft story "The Music of Erich Zann". I made a couple of attempts to sketch the scene of all the pages of music blowing out through the mysterious window. I never managed to arrange it in a way that I liked, though. In the end, I went with only a single candle, which has a drama all of its own.
+
+'''},
 
 
 ]
