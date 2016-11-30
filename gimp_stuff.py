@@ -34,24 +34,26 @@ def generate_images(infile_path, infile_base, outfile_base, width, height, targe
   gimp_batch('''
 (let* (
         (page (car (gimp-file-load RUN-NONINTERACTIVE "'''+infile+'" "'+infile_base+'''")))
+        (observed_height (gimp-image-height page))
+        (observed_width (gimp-image-width page))
         (page_drawable (car (gimp-image-flatten page)))
         (thumbnail_top (car (gimp-image-duplicate page)))
         (thumbnail_top_drawable (car (gimp-image-get-active-layer thumbnail_top)))
         (thumbnail_full (car (gimp-image-duplicate page)))
         (thumbnail_full_drawable (car (gimp-image-get-active-layer thumbnail_full)))
       )
-  '''+ ('''(gimp-image-scale-full page '''+ str (target_width) +''' '''+ str (height*target_width//width) +''' INTERPOLATION-CUBIC)
+  '''+ ('''(gimp-image-scale-full page '''+ str (target_width) +''' (quotient (* '''+ str (height) +''' '''+ str (target_width) +''') '''+str (width) +''') INTERPOLATION-CUBIC)
   ; (gimp-image-convert-indexed page FIXED-DITHER MAKE-PALETTE 127 FALSE FALSE "")''' if scale_full_page else "") +'''
   (file-png-save RUN-NONINTERACTIVE page page_drawable "'''+page_outfile+'" "'+page_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete page)
   
-  (gimp-image-crop thumbnail_top '''+ str (width//2) +''' '''+ str (78*width//600) +''' 0 0)
+  (gimp-image-crop thumbnail_top (quotient '''+ str (width) +''' 2) (quotient (* 78 '''+ str (width) +''') 600) 0 0)
   (gimp-image-scale-full thumbnail_top 300 78 INTERPOLATION-CUBIC)
   ; (gimp-image-convert-indexed thumbnail_top NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
   (file-png-save RUN-NONINTERACTIVE thumbnail_top thumbnail_top_drawable "'''+thumbnail_top_outfile+'" "'+thumbnail_top_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete thumbnail_top)
   
-  (gimp-image-scale-full thumbnail_full 120 '''+ str (height*120//width) +''' INTERPOLATION-CUBIC)
+  (gimp-image-scale-full thumbnail_full 120 (quotient (* '''+ str (height)+''' 120) '''+str(width) +''') INTERPOLATION-CUBIC)
   ; (gimp-image-convert-indexed thumbnail_full NO-DITHER MAKE-PALETTE 63 FALSE FALSE "")
   (file-png-save RUN-NONINTERACTIVE thumbnail_full thumbnail_full_drawable "'''+thumbnail_full_outfile+'" "'+thumbnail_full_outfile_base+'''" 0 9 0 0 0 0 0)
   (gimp-image-delete thumbnail_full)
@@ -77,11 +79,18 @@ metadata = {
 "width":2552, "height":3508,
 "scale_full_page": True,
 },
+"studio_art": {
+"path":"/n/art/studio_art/",
+"scale_full_page": True,
+},
 }
 
 def do_page(comic, num):
   page_dict =comics.comics_pages[comic][num]
-  generate_images(metadata [comic] ["path"], page_dict["xcf_base"] + ".xcf", comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]),metadata [comic] ["width"], metadata [comic] ["height"], comics.comics_metadata [comic] ["image_width"], "scale_full_page" in metadata [comic])
+  if comic == "studio_art:
+    generate_images (metadata [comic] ["path"], page_dict ["source"], comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]), "observed_width", "observed_height", "(sqrt (/ (* 360000 observed_width observed_height))", "scale_full_page" in metadata [comic])
+  else:
+    generate_images(metadata [comic] ["path"], page_dict["xcf_base"] + ".xcf", comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]),metadata [comic] ["width"], metadata [comic] ["height"], comics.comics_metadata [comic] ["image_width"], "scale_full_page" in metadata [comic])
 
 def do_pages ():
   comic = sys.argv[1]
