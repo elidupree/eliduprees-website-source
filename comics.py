@@ -265,6 +265,7 @@ comics_pages = {
   "voldemorts_children":voldemorts_children.pages.vc_pages,
   "acobs":acobs_pages.acobs_pages,
   "people_are_wrong_sometimes":paws_pages.pages,
+  "studio_art":studio_art.pages,
 }
 comics_metadata = {
   "voldemorts_children": {
@@ -304,7 +305,7 @@ comics_metadata = {
     "title": "AP Studio Art portfolio",
     "html_class": "studio_art",
     "url": "/ap-studio-art",
-    "abbr": "PAWS",
+    "abbr": "studio_art",
     "image_width": 638,
     "dialogue_name_replacements":{},
     "image_url_offset":1,
@@ -543,11 +544,11 @@ def page_html_and_head(page, prev_page, next_page):
           <img class="comic_image" alt="A comic page; see below for a transcript" src="'''+comic_image_url(page)+'''" />
         '''+('</a>'                                             if next_page else '')+'''
       </div><!--
-   --><div class="comic_transcript_outer">
+   -->'''+('''<div class="comic_transcript_outer">
         <div class="comic_transcript_inner">
           '''+format_transcript(page, wide_screen_rules_list)+'''
         </div>
-      </div>
+      </div>''' if "transcript" in page else '')+'''
     </div>'''
     +navbar+metabar+'''
     <div class="comic_annotation_outer">

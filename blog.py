@@ -720,7 +720,7 @@ def very_stream_entry (post):
   elif "contents" in post:
     (URL, contents) = (post_permalink (post), 'New ' + ("story" if post ["category"] == "stories" else "blog post") + ': ' + post ["title"]) 
   else:
-    (URL, contents) = (comics.page_url  (post) + '<img src="'+ comics.comic_image_url (post, "thumbnail_full") +'" alt=""> New comic: ' + post ["title"] )
+    (URL, contents) = (comics.page_url(post), '<img src="'+ comics.comic_image_url (post, "thumbnail_full") +'" alt=""> New comic: ' + post ["title"] )
   return '''
 <div class="stream_media_reference_outer">
   <a class="stream_media_reference" href="'''+ URL + '">'+ contents + '''</a>

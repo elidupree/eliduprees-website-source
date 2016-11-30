@@ -33,9 +33,9 @@ def generate_images(infile_path, infile_base, outfile_base, width, height, targe
   #Scheme code
   gimp_batch('''
 (let* (
-        (page (car (gimp-file-load RUN-NONINTERACTIVE "'''+infile+'" "'+infile_base+'''")))
-        (observed_height (gimp-image-height page))
-        (observed_width (gimp-image-width page))
+        (page (car ('''+('file-jpeg-load' if infile_base.endswith(".jpg") else '''gimp-file-load''')+''' RUN-NONINTERACTIVE "'''+infile+'" "'+infile_base+'''")))
+        (observed_height (car (gimp-image-height page)))
+        (observed_width (car (gimp-image-width page)))
         (page_drawable (car (gimp-image-flatten page)))
         (thumbnail_top (car (gimp-image-duplicate page)))
         (thumbnail_top_drawable (car (gimp-image-get-active-layer thumbnail_top)))
@@ -87,8 +87,10 @@ metadata = {
 
 def do_page(comic, num):
   page_dict =comics.comics_pages[comic][num]
-  if comic == "studio_art:
-    generate_images (metadata [comic] ["path"], page_dict ["source"], comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]), "observed_width", "observed_height", "(sqrt (/ (* 360000 observed_width observed_height))", "scale_full_page" in metadata [comic])
+  if comic == "studio_art":
+    generate_images (metadata [comic] ["path"], page_dict ["source"], comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]),
+      "observed_width", "observed_height", "(round (sqrt (/ (* 360000 observed_width) observed_height)))",
+      "scale_full_page" in metadata [comic])
   else:
     generate_images(metadata [comic] ["path"], page_dict["xcf_base"] + ".xcf", comics.comics_metadata [comic] ["abbr"] + "_" +str(page_dict["list_index"] + comics.comics_metadata [comic] ["image_url_offset"]),metadata [comic] ["width"], metadata [comic] ["height"], comics.comics_metadata [comic] ["image_width"], "scale_full_page" in metadata [comic])
 

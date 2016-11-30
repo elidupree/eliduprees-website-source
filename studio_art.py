@@ -23,11 +23,11 @@ html.studio_art .complete_comic {color:#999;}
 
 pages = [
 
-{"source": "postage_stamp.jpg", "chapter_start": "Breadth", "annotation":''''''},
+{"source": "SP_postage_stamp.jpg", "chapter_start": "Breadth", "annotation":''''''},
 {"source": "fiery_stuff.jpg", "annotation":''''''},
 {"source": "coat.jpg", "annotation":''''''},
 {"source": "watch.jpg", "annotation":''''''},
-{"source": "escher.jpg", "annotation":''''''},
+{"source": "SP_escher.jpg", "annotation":''''''},
 {"source": "devil_phone.jpg", "annotation":''''''},
 {"source": "conte_figure.jpg", "annotation":''''''},
 {"source": "rosebush.jpg", "annotation":''''''},
