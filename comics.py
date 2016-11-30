@@ -259,6 +259,7 @@ import acobs_pages
 import acobs
 import paws
 import paws_pages
+import studio_art
 
 comics_pages = {
   "voldemorts_children":voldemorts_children.pages.vc_pages,
@@ -292,6 +293,17 @@ comics_metadata = {
     "title": "People Are Wrong Sometimes",
     "html_class": "paws",
     "url": "/people-are-wrong-sometimes",
+    "abbr": "PAWS",
+    "image_width": 638,
+    "dialogue_name_replacements":{},
+    "image_url_offset":1,
+    "page_number_offset": 1,
+    "complete": True,
+  },
+  "studio_art": {
+    "title": "AP Studio Art portfolio",
+    "html_class": "studio_art",
+    "url": "/ap-studio-art",
     "abbr": "PAWS",
     "image_width": 638,
     "dialogue_name_replacements":{},
