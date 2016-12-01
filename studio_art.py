@@ -4,14 +4,18 @@ from __future__ import division
 import css
 
 blurb = "A collection of drawings I did for a studio art class."
-blurb_big = '''<p>In AP Studio Art, each student makes a portfolio of 24 drawings. 12 are "breadth" drawings, where you try to show your expertise with as many different materials and subject matter as you can. The other 12 are "concentration" drawings. You pick a single concept to focus on, and make 12 drawings exploring that theme, whatever it is.</p>
+blurb_big = '''<p>In AP Studio Art, each student makes a portfolio of 24 drawings. 12 are "breadth" drawings, where you try to show your expertise with as many different materials and subjects as you can. The other 12 are "concentration" drawings. You pick a single concept to focus on, and make 12 drawings exploring that theme, whatever it is.</p>
 
-<p>For my concentration, I chose "bringing meaning to empty spaces". I felt like it would help me learn the craft of arranging an image on a page &ndash; so that I could draw attention to a space and make it meaningful, even if there was nothing there.</p>'''
+<p>For my concentration, I chose "bringing meaning to empty spaces". I felt like it would help me learn the craft of arranging an image on a page &ndash; so that I could draw attention to a space and make it meaningful, even if there was nothing there.</p>
+
+<p>Click on each image to get a closer view, and see my notes on each one.</p>'''
 
 css.insert('''
 
+html.studio_art div.comic_image {padding-bottom: 0;}
+
 html.studio_art div.bars_outer_box {
-  background-color: #ffffff; }
+  background-color: #dddddd; }
 html.studio_art div.comic_content_warning_text {
   color: black; }
 html.studio_art .meta_controls_coloring {
@@ -38,10 +42,12 @@ To get a sense of the scale, the tiny white ladders I drew on the sides of the f
 '''},
 {"source": "coat.jpg", "annotation":'''Pencil on paper.
 
-I usually draw from my imagination, but it's also useful to be able to draw things that you see in real life.'''},
+For this picture, I hung someone's winter coat from a doorknob and drew it just as it looked. I usually draw from my imagination, but it's also useful to be able to draw things that you see in real life.'''},
 {"source": "watch.jpg", "annotation":'''Vine charcoal on paper. This was a broken wristwatch that I used to carry around.
 
-Vine charcoal was fun to work with. It's very easy to smudge, but unlike a lot of drawing materials, it's actually possible to erase. I was even able to erase it with my <em>breath</em>. Whenever I drew part of the picture and it didn't look exactly right, I carefully blew away the problem area and redrew it.'''},
+Vine charcoal was fun to work with. It's very easy to smudge, but unlike a lot of drawing materials, it's actually possible to erase. I was even able to erase it with my <em>breath</em>. Whenever I drew part of the picture and it didn't look exactly right, I carefully blew away the problem area and redrew it.
+
+Once you finish a charcoal drawing, you can spray it with a <a href="https://en.wikipedia.org/wiki/Fixative_(drawing)">fixative</a> to protect it from blowing away or smudging.'''},
 {"source": "escher.jpg", "annotation":'''Pencil on paper. Imitate the style of the famous artist, they said. So I do a self-portrait based on an Escher drawing.
 
 It took me a long time to draw this and I didn't end up having time to finish it, but I think it got the main point across.'''},
@@ -52,7 +58,7 @@ I don't even agree with the message that much anymore! I've always found it hard
 {"source": "rosebush.jpg", "annotation":'''Pencil on paper.
 
 I drew this from a photograph of an old rosebush that grows next to my driveway. I don't feel like this was a successful drawing. I wanted to make the various vines and branches show up as clearly as in the photograph, but I worked at a long time and didn't succeed.'''},
-{"source": "negative_space.jpg", "annotation":'''Charcoal on paper. One of our assignments was to draw using negative space &ndash; they stacked several schools on a table, and we drew everything <em>except</em> the stools.
+{"source": "negative_space.jpg", "annotation":'''Charcoal on paper. One of our assignments was to draw using negative space &ndash; they stacked several stools on a table, and we drew everything <em>except</em> the stools.
 
 We were all given the same size of paper to use, but told we could orient it however we wanted. Naturally, I took this instruction literally.'''},
 {"source": "light_switch.jpg", "annotation":'''Pencil on an index card. This is one of the light switches from my house, viewed from above.
@@ -60,7 +66,7 @@ We were all given the same size of paper to use, but told we could orient it how
 It can be hard to shade with pencil, because pencil strokes inherently have a direction to them. But this also makes pencil excellent for drawing wood grain. There's something very pleasing about a drawing that looks like actual wood.'''},
 {"source": "landscape.jpg", "annotation":'''Chalk pastel on gray paper.
 
-Drawing on gray paper is interesting because the original color can be both darkened <em>and</em> lightened. On white paper, you color in all the shadows and leave the highlights untouched. On black paper, you color in the highlights and leaves the shadows untouched. On gray paper, you have to draw both.
+Drawing on gray paper is interesting because the original color can be both darkened <em>and</em> lightened. On white paper, you color in all the shadows and leave the highlights untouched. On black paper, you color in the highlights and leave the shadows untouched. On gray paper, you have to draw both.
 
 I didn't really have a plan in mind for this picture when I started it. I just started drawing a landscape and added in whatever came to mind. I added the Eye of Sauron in the corner, casting a dark cloud over everything, when I decided the rest of the page was too boring. The dark cloud really helps make the sun stand out, as well.
 
@@ -84,13 +90,13 @@ Chalk pastel on black paper is one of my favorite ways to draw (with physical me
 The "archway going to nowhere" is a cool fantasy trope. I'm not quite satisfied with this one, though. Because the black paper is actually less dark than the archway itself, it feels more like "I just didn't draw anything there" than "That's spooky, I wonder what's past the archway?"'''},
 {"source": "flashlight.jpg", "annotation":'''Scratchboard.
 
-This drawing didn't come out quite as intended. Per my concentration, your eye is supposed to be drawn to the vast empty space the person is looking into. Instead, the person takes up too much of the space. I should've made the person much smaller, squeeze way into the bottom corner of the picture &ndash; only about one-tenth as tall as the full picture, instead of one-third as tall. Then it really <em>would</em> call attention to the 99% of the surface that I left in darkness.'''},
+This drawing didn't come out quite as intended. Per my concentration, your eye is supposed to be drawn to the vast empty space the person is looking into. Instead, the person takes up too much of the space. I should've made the person much smaller, squeezed way into the bottom corner of the picture &ndash; only about one-tenth as tall as the full picture, instead of one-third as tall. Then it really <em>would</em> call attention to the 99% of the surface that I left in darkness.'''},
 {"source": "st_lukes_tower.jpg", "annotation":'''Colored pencil on index card. This is a church tower I can see from the window of my art classroom.
 
 I bet there's loads of symbolism you can read into my swapping the church texture with the sky texture. Making up symbolism is a fun pastime. All I was doing was having fun playing with textures.'''},
 {"source": "5_pillars.jpg", "annotation":'''White colored pencil on black paper.
 
-There's a lot of different ways to "bring meaning to empty spaces". Here, I did it by creating a <em>pattern</em>. The four pillars create the <em>expectation</em> of a fifth pillar, so the fact that it isn't there becomes meaningful.
+There's a lot of different ways to "bring meaning to empty spaces". Here, I did it by creating a <em>pattern</em>. I drew the four pillars to create the <em>expectation</em> of a fifth pillar, so the fact that it isn't there becomes meaningful.
 
 White colored pencil is a much softer white than white chalk pastel. The more subtle coloring worked well for this picture.'''},
 {"source": "scratchboard_gateway.jpg", "annotation":'''Scratchboard.
@@ -105,14 +111,14 @@ Maybe the figure should have been facing <em>towards</em> the darkness, instead 
 '''},
 {"source": "hand_reaching.jpg", "annotation":'''Chalk pastel on white paper.
 
-Another way to "bring meaning to empty spaces" is to put an empty space where the viewer knows something <em>should</em> being. In this case, the viewer knows that there's supposed to be a reflection in the water.
+Another way to "bring meaning to empty spaces" is to put an empty space where the viewer knows something <em>should</em> be. In this case, the viewer knows that there's supposed to be a reflection in the water.
 
 I made the hand dark brown so that it would make the most vivid contrast with the sky and water. If you want that to symbolize something else, like black people not seeing their real life stories reflected in the mainstream media, that's cool too.
 
 Making the watery reflections was fun. First, I drew the blue sky on the blank page. Then, I drew both versions of the trees/sleeve, so that the upper versions are drawn <em>over</em> the blue sky. Then, I took a white chalk pastel and dragged it horizontally over the lower versions, smudging them and creating the ripple effect. I didn't have to purposefully draw a single ripple myself.'''},
 {"source": "1_pillar.jpg", "annotation":'''White chalk pastel on black paper.
 
-This is a very simple one. <em>Why</em> and infinitely wide flat empty space has an infinitely tall pillar right next to a lightbulb, is left as an exercise to the viewer.'''},
+This is a very simple one. <em>Why</em> an infinitely wide flat empty space has an infinitely tall pillar right next to a lightbulb, is left as an exercise to the viewer.'''},
 {"source": "red_shirt.jpg", "annotation":'''Chalk pastel on black paper.
 
 In this one, I actually did some symbolism on purpose. Having someone's <em>head</em> be hidden has special meanings. Hiding someone's head makes them look less human. If you hide your own head with a mask &ndash; let's say, to go and fight in the resistance without having your identity be known &ndash; you take away your human vulnerability. If you hide someone <em>else's</em> head, you take away their human <em>agency</em>. Here, the viewer is supposed to be disturbed by the objectification of the person in the picture.

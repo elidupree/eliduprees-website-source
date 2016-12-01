@@ -843,6 +843,9 @@ def metadata_and_comments_section_html(title, permalink, taglist, stream_only, m
     elif Patreon_type == "comic":
       question = '''Do you like this comic?'''
       which = "EliDupree"
+    elif Patreon_type == "art":
+      question = '''Do you like this artwork?'''
+      which = "EliDupree"
       
     Patreon_stuff = '''<a class="hidden_from_restricted_users blog_Patreon_appeal" href="https://www.patreon.com/'''+which+'''"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt=""> '''+question+''' Consider pledging a few $$$ on Patreon so I can keep putting cool things online for free.</a>'''
   
@@ -997,7 +1000,7 @@ for tag in tags.tags:
 current_blog_page = page_lists ["blog"] [len (page_lists ["blog"])-1]
 current_blog_page_extras = [
 {"title": "New online tool for voice practice!", "stream_entry": ("/voice-practice-tool", "New online tool for voice practice!")},
-
+{"title": "New collection of drawings from a studio art class!", "stream_entry": ("/ap-studio-art", "New collection of drawings from a studio art class!")},
 ]
 def consider_list_for_current_page (list, limit = 8):
   for index in range (1, min (1 + limit, 1 + len( list))):
@@ -1007,8 +1010,9 @@ def consider_list_for_current_page (list, limit = 8):
       
 #Hack: this code puts comments (and other stuff) AFTER everything else, because a comment on the same day as another post is likely to be a comment ON that post. In the future, maybe we should have a more precise ordering system for recent stream entries, although we never want to store exact times posted, for privacy reasons.
 consider_list_for_current_page (comments.comments, 4)
-for list in comics.comics_pages.values ():
-  consider_list_for_current_page (list)
+for comic_id, list in comics.comics_pages.items():
+  if comic_id != "studio_art":
+    consider_list_for_current_page (list)
 consider_list_for_current_page (blog_posts.posts ["stories"])
 current_blog_page_extras.reverse ()
 current_blog_page = sorted (current_blog_page + current_blog_page_extras, key = date_posted)

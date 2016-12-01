@@ -145,6 +145,9 @@ div.comic_archive h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 250%;
   padding: 0.2em; }
+div.comic_archive p {
+  padding-left: 5%;
+  padding-right: 5%; }
 div.comic_archive h2 {
   font-size: 200%;
   padding: 0.2em; }
@@ -306,11 +309,15 @@ comics_metadata = {
     "html_class": "studio_art",
     "url": "/ap-studio-art",
     "abbr": "studio_art",
-    "image_width": 638,
+    "image_width": 750,
     "dialogue_name_replacements":{},
     "image_url_offset":1,
     "page_number_offset": 1,
     "complete": True,
+    "annotation_promoted": True,
+    "archive_promoted": True,
+    "no_transcript": True,
+    "archive_blurb": studio_art.blurb_big,
   },
 }
 
@@ -332,7 +339,8 @@ for page_dict in comics_pages["voldemorts_children"]:
   page_dict["height_conversion_factor"] = 4
 
 def page_url(page):
-  return comics_metadata[page["comic_id"]]["url"]+('' if page["list_index"] == 0 else '/'+str(page["page_number"]))
+  meta = comics_metadata[page["comic_id"]]
+  return meta["url"]+('' if page["list_index"] == 0 and "archive_promoted" not in meta else '/'+str(page["page_number"]))
 
 def comic_image_url(page, ext = ''):
   meta = comics_metadata[page["comic_id"]]
@@ -380,7 +388,7 @@ margin: 0 auto;}
 '''+ancestor_str+''' .comic_nav_button_main {
   width: '''+str(navbut_wid*100//navhalf_wid )+'''%;}
 }
-
+'''+('' if "no_transcript" in comics_metadata[comic_id] else '''
 @media screen and (min-width: '''+str(transcript_at_side_width)+'''px) {
   '''+ancestor_str+''' div.comic_and_nav {
     width: auto;
@@ -415,6 +423,8 @@ margin: 0 auto;}
   '''+ancestor_str+''' div.comic_transcript_outer {
     width: '''+str(transcript_maximized_width-comic_width)+'''px; }
 }
+''')+'''
+
 ''')
 
 for comic_id,page_list in comics_pages.items():
@@ -451,6 +461,12 @@ def bars_wrap(info, html, page):
 
 
 def comic_navbar(prev_page, next_page):
+  if prev_page:
+    metadata = comics_metadata [prev_page["comic_id"]]
+  elif next_page:
+    metadata = comics_metadata [next_page["comic_id"]]
+  else:
+    metadata = {}
   def link(string, big_string, page):
     inner_link = ''
     extra_class = ''
@@ -462,14 +478,17 @@ def comic_navbar(prev_page, next_page):
         extra_class = extra_class+' content_warning'
       else:
         extra_class = extra_class+' no_content_warning'
-      if "arrow_images" in comics_metadata[page["comic_id"]]:
+      if "arrow_images" in metadata:
         button = '<img class="comic_nav_button_main'+extra_class+'" alt="'+big_string+'" src="/media/'+comics_metadata[page["comic_id"]]["abbr"]+'-arrow-'+string+'.png?rr">'
       else:
         button = '<span class="comic_nav_button_main'+extra_class+'">'+big_string+'</span>'
       inner_link = (
       '<a class="comic_nav_button" rel="'+string+'" href="'+page_url(page)+'">'+cw+button+'</a>')
     elif string == "next":
-      inner_link = ('''<div class="complete_comic">This story is complete. </div>''' if "complete" in comics_metadata[prev_page["comic_id"]] else blog.MailChimp_form_labeled ("That's the last page so far! Follow elidupree.com by email for future updates:"))
+      inner_link = ('''<div class="complete_comic">This story is complete. </div>''' if "complete" in metadata else blog.MailChimp_form_labeled ("That's the last page so far! Follow elidupree.com by email for future updates:"))
+      # hack
+      if prev_page["comic_id"] == "studio_art":
+        inner_link = ""
     
     return '''<div class="comic_nav_button'''+extra_class+'''">
         '''+inner_link+'''
@@ -477,10 +496,16 @@ def comic_navbar(prev_page, next_page):
   return '<div class="comic_nav_bar">'+link("prev","Previous",prev_page)+link("next","Next",next_page)+'</div>'
 
 def comic_metabar(page):
+  metadata = comics_metadata [page["comic_id"]]
   return ('''
 <div class="comic_metabar">
-  <a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''">First</a>'''+utils.inline_separator+
-  '''<a class="meta_controls_coloring" href="'''+comics_metadata[page["comic_id"]]["url"]+'''/archive">Archive</a>'''+utils.inline_separator+
+  '''+(
+  ('''<a class="meta_controls_coloring" href="'''+metadata ["url"]+'''">Gallery</a>''')
+  if "archive_promoted" in metadata else
+  ('''<a class="meta_controls_coloring" href="'''+metadata ["url"]+'''">First</a>'''+utils.inline_separator+
+  '''<a class="meta_controls_coloring" href="'''+metadata ["url"]+'''/archive">Archive</a>'''))+
+  
+  utils.inline_separator+
   ('''
   <span class="metabar_content_warnings_enabled'''+(" content_warning" if "content_warning" in page else "")+'''">
     ⚠ '''+(page["content_warning"] if "content_warning" in page else "none")+''' <a class="disable_content_warnings_button meta_controls_coloring" href="javascript:;">(disable content warnings)</a>
@@ -532,7 +557,8 @@ def page_html_and_head(page, prev_page, next_page):
   navbar = comic_navbar(prev_page, next_page)
   metabar = comic_metabar(page)
   metadata = blog.post_metadata(page)
-  (HTML, head) =blog.post_html(page["annotation"], None, page_url(page), None, False, metadata, allow_comments = True, Patreon_type = "comic")
+  (HTML, head) =blog.post_html(page["annotation"], None, page_url(page), None, False, metadata, allow_comments = True, Patreon_type = ("art" if page["comic_id"] == "studio_art" else "comic"))
+  annotation_promoted = "annotation_promoted" in comics_metadata[page ["comic_id"]] 
   return (
     '''
 <div class="comic_and_nav">'''
@@ -550,12 +576,14 @@ def page_html_and_head(page, prev_page, next_page):
         </div>
       </div>''' if "transcript" in page else '')+'''
     </div>'''
-    +navbar+metabar+'''
+    + ("" if annotation_promoted else navbar+metabar)+'''
     <div class="comic_annotation_outer">
       <div class="comic_annotation">
         '''+ HTML +'''
       </div>
     </div>
+    '''
+    + (navbar+metabar if annotation_promoted else "")+'''
   </main>
 </div>''',
 
@@ -571,7 +599,12 @@ head +'''
 def add_comic_pages(page_dict):
   for comic_id,page_list in comics_pages.items():
     
-    archive_entries = ['<div class="comic_archive_chapter"><h1>Archive of <span class="title">'+comics_metadata[comic_id]["title"]+'</span></h1>']
+    archive_entries = ['<div class="comic_archive_chapter">'+
+      (
+      '<h1>'+comics_metadata[comic_id]["title"]+'</h1>'
+      if "archive_promoted" in comics_metadata[comic_id] else
+      '<h1>Archive of <span class="title">'+comics_metadata[comic_id]["title"]+'</span></h1>'
+      ) + (comics_metadata [comic_id] ["archive_blurb"] if "archive_blurb" in comics_metadata [comic_id] else "")]
     
     for i in range(0,len(page_list)):
       page = page_list[i]
@@ -600,7 +633,7 @@ def add_comic_pages(page_dict):
     archive_entries.append('</div>')
     archive_html = '<main><div id="content" class="comic_archive">'+''.join(archive_entries)+'</div></main>'
     utils.make_page (page_dict,
-      comics_metadata[comic_id]["url"]+'/archive',
+      comics_metadata[comic_id]["url"]+ ("" if "archive_promoted" in comics_metadata [comic_id] else '/archive'),
         'Archive ⊂ '+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
         head,
         '''

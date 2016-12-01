@@ -9,6 +9,7 @@ import javascript
 import comics
 import blog
 import blog_posts
+import studio_art
 
 css.insert('''
 div.category_page_bottom { clear:both; }
@@ -212,7 +213,12 @@ def add_category_pages(page_dict):
       '''+ utils.background_image () +'''
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
-    '''+ exhibit ("/voice-practice-tool", "generic left", voice_practice_tool.blurb_image, voice_practice_tool.blurb, "Use it now") +'''<div class="category_page_bottom"></div>
+    '''+ exhibit ("/voice-practice-tool", "generic left", voice_practice_tool.blurb_image, voice_practice_tool.blurb, "Use it now") +'''
+    
+    '''+ exhibit ("/ap-studio-art", "generic right", "/media/studio_art_12.png?rr",'''
+        <p>'''+ studio_art.blurb +'''</p>''', "View the gallery") + '''
+
+    <div class="category_page_bottom"></div>
   </div>
 </main>''')
   )
