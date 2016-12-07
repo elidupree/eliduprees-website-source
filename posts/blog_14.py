@@ -31,6 +31,26 @@ But in any case, don't think, "That joke was disparaging, but it was funny." Thi
 ''',
 },
 
+{
+"title": "Eli status: December 2016",
+"tags": ["crass physical reality", "this website"],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+I've been sort of sick for a few days, so I'm not up to writing a serious blog post. So instead, I'll take this time to give an update on what I've been doing recently.
+
+<h2>My hands</h2>
+
+In <a href="/blog/eli-status-august-2016">my last status update</a>, I mentioned that my <a href="https://en.wikipedia.org/wiki/Adductor_pollicis">adductor pollicis</a> hadn't been doing its job. Since then, we've discovered that the same thing happened with my <a href="https://en.wikipedia.org/wiki/Dorsal_interossei_of_the_hand">first dorsal interosseous muscle</a>, which also helps the thumb move. Training that muscle has given me another big improvement in how well my hands work. A couple weeks ago, I actually drew for 30 minutes straight, which was manageable (although close to my limit at the time). They're not feeling quite as good now, but they are normally worse when I'm sick, so they may still be improving overall.
+
+<h2>My projects</h2>
+
+Writing <a href="/stories/the-23-days-cult">The 23 Days Cult</a> turned out to be a much bigger project than I had planned for. It left me pretty burnt out, and I didn't manage to get excited about another project for the month after that. I did manage to do some work on a game modding thing in Wesnoth, which is fun, but it's not one of the Great Works Of Elidupree.com. I also randomly learned how to livestream games on Twitch. <a href="https://www.twitch.tv/EliDupree">Here's my Twitch page, if you're interested in that kind of thing.</a>
+
+But yesterday I think I finally got excited about something again &ndash; continuing work on <a href="/hexy">[NSFW] Hexy Bondage</a>. I actually made a couple changes to the rules, more than a year ago, but I never published the changes, because my original publishing process was INCREDIBLY inconvenient. So first I was thinking of improving the publishing process. But now I'm also hoping to make an online version of the game, which you could play on a computer or smartphone or whatever. I'm not sure if I'll stick to this project &ndash; we'll have to see how I feel when I'm not so sick. But I'm pretty excited about it so far.
+''',
+},
+
 ]
 
 """
