@@ -1432,5 +1432,7 @@ As a result, I've decided to go with something vaguely logarithmic rather than l
 },
 { "parent":"3f5919ca19381fc5fc84cf5bc7e5ce7", "username":"idupree", "contents":"""I like how the phrase "joke power" has more joke power because it's funny. (it can be parsed as "the power of a joke", which you mean, or as something more like "fake power", if you don't yet think jokes are powerful).""", "id":"b66f4ceb573ff1c8e4a938ba9eec2f01", "date_posted":datetime.date(2016, 11, 24) },
 { "parent":"3f5919ca19381fc5fc84cf5bc7e5ce7", "username":"Monika", "contents":"""This is perfect.""", "id":"c544a83c09053e85754e9ab5c014883d", "date_posted":datetime.date(2016, 11, 25) },
+{ "parent":"57492a04236e4c043e61a7b9a52f02e", "username":"Kagar", "contents":"""What are the criteria for something to qualify as a Great Work? I admit I kind of think of that as one, so I'm puzzled.""", "id":"f36e37e3ae6a0f3a1b6c5918fa3069f5", "date_posted":datetime.date(2016, 12, 7) },
+{ "parent":"f36e37e3ae6a0f3a1b6c5918fa3069f5", "username":"Eli Dupree", "contents":"""True. The main thing I'm doubting is the "Of Elidupree.com" part, not the "Great Work" part.<br><br>When I share something here on elidupree.com, I generally want it to either (1) be accessible to a general audience or (2) promote justice in some way, and preferably both. EoHS is only accessible to Wesnoth players and it barely does anything to promote justice, so I'm ambivalent about sharing it here.""", "id":"38c876f9a053cbadfbfc53c022620b46", "date_posted":datetime.date(2016, 12, 7) },
 
 ]

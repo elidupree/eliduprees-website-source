@@ -422,7 +422,9 @@
  "Eli status: December 2016": {
   "date_modified": "2016-12-07",
   "date_posted": "2016-12-07",
-  "id": "57492a04236e4c043e61a7b9a52f02e"
+  "deployed": true,
+  "id": "57492a04236e4c043e61a7b9a52f02e",
+  "remembered_contents": "3cd16d68b0b02388911b17dc727ed6e61f7f551416900353bc0e9c313230a72d5ff1c8cff9f58ebeae09b70bc8c894a2"
  },
  "First progress!": {
   "date_modified": "2011-06-12",

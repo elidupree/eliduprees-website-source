@@ -35,7 +35,7 @@ But in any case, don't think, "That joke was disparaging, but it was funny." Thi
 "title": "Eli status: December 2016",
 "tags": ["crass physical reality", "this website"],
 "auto_paragraphs": True,
-"blurb": "",
+"blurb": "I've been sort of sick for a few days, so I'm not up to writing a serious blog post. So instead, I'll take this time to give an update on what I've been doing recently.",
 "contents":'''
 I've been sort of sick for a few days, so I'm not up to writing a serious blog post. So instead, I'll take this time to give an update on what I've been doing recently.
 
