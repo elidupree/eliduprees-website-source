@@ -7,6 +7,10 @@ import bars
 import exmxaxixl
 import blog
 
+source_svg = ""
+with open ("./hexy_source/game.svg", encoding = "utf-8") as source_svg_file:
+  source_svg = source_svg_file.read()
+
 blurb = "A sexual board game for two or more players"
 	  
 def add_game(page_dict):
@@ -127,3 +131,32 @@ when their “opponent” is too tied up to reach the board.
   </div>
 </main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr"}
   )
+  
+  utils.make_page (page_dict,
+    '/hexy-future',
+      "Hexy Bondage ⊂ Eli Dupree's website",
+      r'''
+<style>
+
+
+</style>
+''',
+      '''<a class="skip" href="#content">Skip to content</a>
+      '''+bars.bars_wrap({"games":True}, '''<main>
+  <div id="content">
+    '''+source_svg+'''
+  </div>
+</main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
+
+     
+     <script type="text/javascript">
+$(function(){
+  var whatever =document.createElementNS("http://www.w3.org/2000/svg", 'use');
+  whatever.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', '#g5028');
+  $(whatever).css({transform:"scale(20, 20)"});
+  $("svg").append(whatever);
+});
+</script>
+'''}
+  )
+
