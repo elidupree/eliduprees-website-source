@@ -151,9 +151,27 @@ when their “opponent” is too tied up to reach the board.
      
      <script type="text/javascript">
 $(function(){
+  "use strict"
+  
+  function get_link (whatever) {return whatever.getAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href'); }
+  function set_link (whatever, value) {return whatever.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', value); }
+  
+  function calculate_transform (clone) {
+    var original = $(get_link (clone))[0];
+    
+    var offset = original.getBBox();
+    console.log (offset);
+    var transform_origin = "50% 50% 0";//""+ (offset.x+0.5*offset.width)+"px "+ (offset.y+0.5*offset.height)+"px 0px";
+    console.log (transform_origin);
+    var transform ="translate(-"+ (offset.x+0.5*offset.width)+"px, -"+ (offset.y+0.5*offset.height)+"px) translate(500px, 300px) rotate(0.0833turn) scale(36,36)"
+    return {"transform-origin": transform_origin, transform: transform}
+  }
+  
   var whatever =document.createElementNS("http://www.w3.org/2000/svg", 'use');
-  whatever.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', '#g5028');
-  $(whatever).css({transform:"scale(20, 20)"});
+  set_link (whatever, '#g5028');
+  console.log (get_link (whatever));
+  $(whatever).css(calculate_transform (whatever));
+  //whatever.css({transform:"scale(20, 20)"});
   $("svg").append(whatever);
 });
 </script>
