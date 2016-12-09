@@ -143,7 +143,7 @@ when their “opponent” is too tied up to reach the board.
       r'''
 <style>
 
-.foo{transition-duration: 1s;}
+.tile {transition-duration: 1s;}
 
 </style>
 ''',
@@ -170,6 +170,7 @@ $(function(){
   }
   
   var tile_ids = ['''+ (",".join (['"'+id+'"' for id in tile_ids])) +''']
+  var blank_hex_id = "g7168"
   var long_radius = 36;
   var short_radius = long_radius*0.866;
   
@@ -234,7 +235,12 @@ $(function(){
     if (direct) {return direct;}
     var indirect;
     $(get_link (element)).children().each (function (index) {
-      if (!indirect) {indirect = connections_table [get_link (this).slice (1)];}
+      if (!indirect) {
+        var link = get_link (this);
+        if (link) {
+          indirect = connections_table [link.slice (1)];
+        }
+      }
     });
     return indirect;
   }
@@ -282,30 +288,66 @@ $(function(){
   }
   
   var tiles = {}
+  var floating_tile;
   
+  function create_clone (id) {
+    var whatever =document.createElementNS("http://www.w3.org/2000/svg", 'use');
+    set_link (whatever, '#'+id);
+    //console.log (get_link (whatever));
+    whatever.setAttribute("x", 0);
+    whatever.setAttribute("y", 0);
+    $("svg").append(whatever);
+    return whatever;
+  }
+  function create_tile (id, rotation) {
+    var element = create_clone (id);
+    $(element).addClass("tile");
+    return {rotation, element};
+  }
+  function create_border_tile (location) {
+    var element = create_clone (blank_hex_id);
+    $(element).addClass("tile border").css(calculate_transform (element, location.horizontal, location.vertical, 0)).click(function() {
+      set_tile (location, floating_tile);
+    });
+    set_tile (location, {element: element, rotation: 0, border: true});
+  }
+  function remove_tile (location) {
+    var previous = get_tile (location);
+    if (previous) {
+      delete previous.horizontal; delete previous.vertical;
+      $(previous.element).detach();
+      delete tiles ["" + location.horizontal + "_" + location.vertical];
+    }
+  }
   function set_tile (location, tile) {
+    remove_tile (location);
     tiles ["" + location.horizontal + "_" + location.vertical] = tile
+    if (tile.horizontal) {
+      delete tiles ["" + tile.horizontal + "_" + tile.vertical]
+      create_border_tile ({horizontal: tile.horizontal, vertical: tile.vertical});
+    }
     tile.horizontal = location.horizontal; tile.vertical = location.vertical;
     $(tile.element).css(calculate_transform (tile.element, location.horizontal, location.vertical, tile.rotation));
+    if (!(tile.border || tile === floating_tile)) {
+      for (var direction = 0; direction <6 ;++direction) {
+        var neighbor = in_direction (location, direction);
+        if (!get_tile (neighbor)) {create_border_tile (neighbor);}
+      }
+    }
   }
   function get_tile (location) {
     return tiles ["" + location.horizontal + "_" + location.vertical]
   }
   
   function hack (horizontal, vertical, rotation) {
-    var whatever =document.createElementNS("http://www.w3.org/2000/svg", 'use');
-    set_link (whatever, '#'+ random_choice (tile_ids));
-    //console.log (get_link (whatever));
-    whatever.setAttribute("x", 0);
-    whatever.setAttribute("y", 0);
+    var tile = create_tile(random_choice (tile_ids), rotation);
     //$(whatever).css(calculate_transform (whatever, horizontal, vertical+0.00001, rotation));
-    
-    var tile = {rotation: rotation, element: whatever};
-    $(whatever).addClass("foo").css(calculate_transform (whatever, horizontal*1.3, vertical*1.3-2, rotation+0.5)).click(function() {
+   
+    $(tile.element).css(calculate_transform (tile.element, horizontal*1.3, vertical*1.3-2, rotation+0.5)).click(function() {
       draw_path(tile.horizontal, tile.vertical, 0);
     });
     //whatever.css({transform:"scale(20, 20)"});
-    $("svg").append(whatever);
+    
     setTimeout (function() {
       set_tile ({horizontal, vertical}, tile);
       //$(whatever).css(calculate_transform (whatever, horizontal, vertical, rotation));
@@ -316,6 +358,7 @@ $(function(){
       hack (index, terrible, random_range (0, 6));
     }
   }
+  floating_tile = create_tile(random_choice (tile_ids), 0);
 });
 </script>
 '''}
