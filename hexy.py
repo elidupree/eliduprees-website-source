@@ -6,10 +6,15 @@ import html_pages
 import bars
 import exmxaxixl
 import blog
+import re
 
 source_svg = ""
+tile_ids = []
 with open ("./hexy_source/game.svg", encoding = "utf-8") as source_svg_file:
   source_svg = source_svg_file.read()
+with open ("./hexy_source/tile_ids_hack.svg", encoding = "utf-8") as something:
+  for match in re.finditer(r'''id="(g\d*?)"(?!>)''', something.read()):
+    tile_ids.append (match.group (1))
 
 blurb = "A sexual board game for two or more players"
 	  
@@ -138,6 +143,7 @@ when their “opponent” is too tied up to reach the board.
       r'''
 <style>
 
+.foo{transition-duration: 1s;}
 
 </style>
 ''',
@@ -153,26 +159,143 @@ when their “opponent” is too tied up to reach the board.
 $(function(){
   "use strict"
   
-  function get_link (whatever) {return whatever.getAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href'); }
+  function get_link (whatever) {return whatever.getAttributeNS('http://www.w3.org/1999/xlink', 'href'); }
   function set_link (whatever, value) {return whatever.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', value); }
   
-  function calculate_transform (clone) {
+  function random_range (min, max) {
+    return min + Math.floor (Math.random()*(max - min));
+  }
+  function random_choice (sequence) {
+    return sequence [random_range (0, sequence.length)];
+  }
+  
+  var tile_ids = ['''+ (",".join (['"'+id+'"' for id in tile_ids])) +''']
+  var long_radius = 36;
+  var short_radius = long_radius*0.866;
+  
+  function tile_position (horizontal, vertical) {
+    return {horizontal: horizontal*1.5*long_radius, vertical: vertical*short_radius}
+  }
+  
+  // CSS rotations are clockwise, so I'm making the directions be clockwise so that I don't screw up.
+  // Direction 0 is up in user space, up-right in the source (I rotate the tiles by 1/2
+  // because I'm familiar with hexagonal tiles being oriented that way in Wesnoth)
+  var directions = [
+    {horizontal:  0, vertical: -2},
+    {horizontal:  1, vertical: -1},
+    {horizontal:  1, vertical:  1},
+    {horizontal:  0, vertical:  2},
+    {horizontal: -1, vertical:  1},
+    {horizontal: -1, vertical: -1}
+  ];
+  
+  var dead={};var icon={};var lock={};
+  var connections_table = {
+    g8043: [3, 2, 1, 0, 5, 4],
+    g8261: [2, 4, 0, 5, 1, 3],
+    g8571: [2, 3, 0, 1, 5, 4],
+    g8657: [1, 0, 3, 2, 5, 4],
+    g8985: [3, 4, 5, 0, 1, 2],
+    
+    g9384: [5, dead, icon, 4, 3, 0],
+    g9425: [1, 0, icon, 4, 3, dead],
+    g9432: [1, 0, icon, dead, 5, 4],
+    g9631: [2, 3, 0, 1, icon, dead],
+    g9625: [2, 3, 0, 1, dead, icon],
+    g9812: [4, 2, 1, icon, 0, dead],
+    g9843: [2, dead, 0, icon, 5, 4],
+    g10007: [3, 2, 1, 0, icon, dead],
+    g10014: [3, 2, 1, 0, dead, icon],
+    g10195: [3, 4, dead, 0, 1, icon],
+    g10315: [2, 4, 0, dead, 1, icon],
+    g10325: [icon, 4, dead, 5, 1, 3],
+    g10573: [lock, lock, lock, 5, lock, 3],
+    g10495: [2, 3, 0, 1, lock, lock],
+  };
+  
+  Object.getOwnPropertyNames(connections_table).forEach(function(id) {
+    var tile = connections_table [id];
+    tile.forEach(function(connection, index) {
+      if (typeof connection == "number") {
+        if (tile [connection] !== index) {
+          console.log ("error: mismatched connections");
+        }
+      }
+    });
+  });
+  
+  function get_connections (element) {
+    var direct = connections_table [get_link (element).slice (1)];
+    if (direct) {return direct;}
+    var indirect;
+    $(get_link (element)).children().each (function (index) {
+      if (!indirect) {indirect = connections_table [get_link (this).slice (1)];}
+    });
+    return indirect;
+  }
+  
+  function draw_path (tile, from_direction) {
+    $(tile.element).css({opacity: 0.5});
+    var connections = get_connections (tile.element);
+    var index = (from_direction + 6 - tile.rotation) % 6;
+    var destination = connections[index];
+    if (typeof destination === "number") {
+      var offset = directions [destination];
+      var next = get_tile (tile.horizontal + offset.horizontal, tile.vertical + offset.vertical);
+      if (next) {
+        draw_path(next, (destination + 3) % 6);
+      }
+    }
+  }
+  
+  function calculate_transform (clone, horizontal, vertical, rotation) {
     var original = $(get_link (clone))[0];
     
     var offset = original.getBBox();
     console.log (offset);
     var transform_origin = "50% 50% 0";//""+ (offset.x+0.5*offset.width)+"px "+ (offset.y+0.5*offset.height)+"px 0px";
     console.log (transform_origin);
-    var transform ="translate(-"+ (offset.x+0.5*offset.width)+"px, -"+ (offset.y+0.5*offset.height)+"px) translate(500px, 300px) rotate(0.0833turn) scale(36,36)"
+    var position = tile_position (horizontal, vertical);
+    var transform ="translate("+ (-(offset.x+0.5*offset.width))+"px, "+ (-(offset.y+0.5*offset.height))+"px) translate(500px, 300px) translate(" + position.horizontal + "px," + position.vertical + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius+ "," + long_radius+ ")"
+    console.log (transform);
     return {"transform-origin": transform_origin, transform: transform}
   }
   
-  var whatever =document.createElementNS("http://www.w3.org/2000/svg", 'use');
-  set_link (whatever, '#g5028');
-  console.log (get_link (whatever));
-  $(whatever).css(calculate_transform (whatever));
-  //whatever.css({transform:"scale(20, 20)"});
-  $("svg").append(whatever);
+  var tiles = {}
+  
+  function set_tile (horizontal, vertical, tile) {
+    tiles ["" + horizontal + "_" + vertical] = tile
+    tile.horizontal = horizontal; tile.vertical = vertical;
+    $(tile.element).css(calculate_transform (tile.element, horizontal, vertical, tile.rotation));
+  }
+  function get_tile (horizontal, vertical) {
+    return tiles ["" + horizontal + "_" + vertical]
+  }
+  
+  function hack (horizontal, vertical, rotation) {
+    var whatever =document.createElementNS("http://www.w3.org/2000/svg", 'use');
+    set_link (whatever, '#'+ random_choice (tile_ids));
+    console.log (get_link (whatever));
+    whatever.setAttribute("x", 0);
+    whatever.setAttribute("y", 0);
+    //$(whatever).css(calculate_transform (whatever, horizontal, vertical+0.00001, rotation));
+    
+    var tile = {rotation: rotation, element: whatever};
+    $(whatever).addClass("foo").css(calculate_transform (whatever, horizontal*1.3, vertical*1.3-2, rotation+0.5)).click(function() {
+      draw_path(tile, 0);
+    });
+    //whatever.css({transform:"scale(20, 20)"});
+    $("svg").append(whatever);
+    setTimeout (function() {
+      set_tile (horizontal, vertical, tile);
+      //$(whatever).css(calculate_transform (whatever, horizontal, vertical, rotation));
+    }, 10);
+  }
+  for (var index = -5; index <=5;++index) {
+    for (var terrible = index-5; terrible <=index+5;terrible+=2) {
+      hack (index, terrible, 0);
+    }
+  }
 });
 </script>
 '''}
