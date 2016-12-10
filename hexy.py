@@ -44,8 +44,14 @@ def find(element):
 for id in tile_ids:
   find (elements_by_id [id])
 
+modified.remove (elements_by_id ["layer1"])
+elements_by_id ["defs4"].append(elements_by_id ["layer1"])
+
 def prune (element):
-  if element.tag == "{http://www.w3.org/2000/svg}metadata" or element.tag == "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}namedview":
+  if (False
+  #or element.tag == "{http://www.w3.org/2000/svg}metadata"
+  #or element.tag == "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}namedview"
+  ):
     return True
   
   self_used = (element.get (svg_id) in used_ids)
