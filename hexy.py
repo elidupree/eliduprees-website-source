@@ -38,6 +38,10 @@ def find(element):
     link = element.get ("{http://www.w3.org/1999/xlink}href")
     if link:
       find (elements_by_id[link[1:]])
+    style = element.get ("style")
+    if style:
+      for referenced in re.finditer(r'url\(#(.*?)\)', style):
+        find (elements_by_id [referenced.group (1)])
     for descendent in element.iter():
       find (descendent)
 
