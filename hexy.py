@@ -15,8 +15,10 @@ used_ids = {}
 with open ("./hexy_source/game.svg", encoding = "utf-8") as source_svg_file:
   source_svg = source_svg_file.read()
 with open ("./hexy_source/tile_ids_hack.svg", encoding = "utf-8") as something:
-  for match in re.finditer(r'''id="(g\d*?)"(?!>)''', something.read()):
-    tile_ids.append (match.group (1))
+  for match in re.finditer(r'''id="(g\d*?)"''', something.read()):
+    id = match.group (1)
+    if id != "layer1":
+      tile_ids.append (match.group (1))
 
 elements_by_id = {}
 
@@ -39,6 +41,10 @@ def find(element):
     if link:
       find (elements_by_id[link[1:]])
     style = element.get ("style")
+    if style:
+      for referenced in re.finditer(r'url\(#(.*?)\)', style):
+        find (elements_by_id [referenced.group (1)])
+    style = element.get ("clip-path")
     if style:
       for referenced in re.finditer(r'url\(#(.*?)\)', style):
         find (elements_by_id [referenced.group (1)])
@@ -256,46 +262,45 @@ $(function(){
   var connections_table = {
     [blank_hex_id]: { offset: {horizontal: 0, vertical: 1050.862}},
   
-    g8043: {connections: [3, 2, 1, 0, 5, 4], offset: {horizontal: 3, vertical: 1038.862}},
-    g8261: {connections: [2, 4, 0, 5, 1, 3], offset: {horizontal: 3, vertical: 1026.862}},
-    g8571: {connections: [2, 3, 0, 1, 5, 4], offset: {horizontal: 3, vertical: 1014.862}},
-    g8657: {connections: [1, 0, 3, 2, 5, 4], offset: {horizontal: 20, vertical: 1007.862}},
-    g8985: {connections: [3, 4, 5, 0, 1, 2], offset: {horizontal: 20, vertical: 1001.862}},
+    g8043: {connections: [3, 2, 1, 0, 5, 4], offset: {horizontal: 3, vertical: 1038.862}, weight: 10},
+    g8261: {connections: [2, 4, 0, 5, 1, 3], offset: {horizontal: 3, vertical: 1026.862}, weight: 15},
+    g8571: {connections: [2, 3, 0, 1, 5, 4], offset: {horizontal: 3, vertical: 1014.862}, weight: 15},
+    g8657: {connections: [1, 0, 3, 2, 5, 4], offset: {horizontal: 20, vertical: 1007.862}, weight: 4},
+    g8985: {connections: [3, 4, 5, 0, 1, 2], offset: {horizontal: 20, vertical: 1001.862}, weight: 0},
     
     
-    g9384: {connections: [5, dead, icon, 4, 3, 0], offset: {horizontal: 20, vertical: 1036.862}},
-    g9425: {connections: [1, 0, icon, 4, 3, dead], offset: {horizontal: 20, vertical: 1036.862 - 2}},
-    g9432: {connections: [1, 0, icon, dead, 5, 4], offset: {horizontal: 20, vertical: 1036.862 - 4}},
-    g9631: {connections: [2, 3, 0, 1, icon, dead], offset: {horizontal: 20, vertical: 1036.862-6}},
-    g9625: {connections: [2, 3, 0, 1, dead, icon], offset: {horizontal: 20, vertical: 1036.862-8}},
-    g9812: {connections: [4, 2, 1, icon, 0, dead], offset: {horizontal: 20, vertical: 1036.862-10}},
-    g9843: {connections: [2, dead, 0, icon, 5, 4], offset: {horizontal: 20, vertical: 1036.862-12}},
-    g10007: {connections: [3, 2, 1, 0, icon, dead], offset: {horizontal: 20, vertical: 1036.862-14}},
-    g10014: {connections: [3, 2, 1, 0, dead, icon], offset: {horizontal: 20, vertical: 1036.862-16}},
-    g10195: {connections: [3, 4, dead, 0, 1, icon], offset: {horizontal: 20, vertical: 1036.862-18}},
-    g10315: {connections: [2, 4, 0, dead, 1, icon], offset: {horizontal: 20, vertical: 1036.862-20}},
-    g10325: {connections: [icon, 4, dead, 5, 1, 3], offset: {horizontal: 20, vertical: 1036.862-22}},
-    g10573: {connections: [lock, lock, lock, 5, lock, 3], offset: {horizontal: 20, vertical: 1012.862}},
-    g10495: {connections: [2, 3, 0, 1, lock, lock], offset: {horizontal: 20, vertical: 1010.862}},
+    g9384: {connections: [5, dead, icon, 4, 3, 0], offset: {horizontal: 20, vertical: 1036.862}, weight: 8},
+    g9425: {connections: [1, 0, icon, 4, 3, dead], offset: {horizontal: 20, vertical: 1036.862 - 2}, weight: 34},
+    g9432: {connections: [1, 0, icon, dead, 5, 4], offset: {horizontal: 20, vertical: 1036.862 - 4}, weight: 8},
+    g9631: {connections: [2, 3, 0, 1, icon, dead], offset: {horizontal: 20, vertical: 1036.862-6}, weight: 29},
+    g9625: {connections: [2, 3, 0, 1, dead, icon], offset: {horizontal: 20, vertical: 1036.862-8}, weight: 29},
+    g9812: {connections: [4, 2, 1, icon, 0, dead], offset: {horizontal: 20, vertical: 1036.862-10}, weight: 10},
+    g9843: {connections: [2, dead, 0, icon, 5, 4], offset: {horizontal: 20, vertical: 1036.862-12}, weight: 10},
+    g10007: {connections: [3, 2, 1, 0, icon, dead], offset: {horizontal: 20, vertical: 1036.862-14}, weight: 24},
+    g10014: {connections: [3, 2, 1, 0, dead, icon], offset: {horizontal: 20, vertical: 1036.862-16}, weight: 24},
+    g10195: {connections: [3, 4, dead, 0, 1, icon], offset: {horizontal: 20, vertical: 1036.862-18}, weight: 0},
+    g10315: {connections: [2, 4, 0, dead, 1, icon], offset: {horizontal: 20, vertical: 1036.862-20}, weight: 0},
+    g10325: {connections: [icon, 4, dead, 5, 1, 3], offset: {horizontal: 20, vertical: 1036.862-22}, weight: 0},
+    g10573: {connections: [lock, lock, lock, 5, lock, 3], offset: {horizontal: 20, vertical: 1012.862}, weight: 1},
+    g10495: {connections: [2, 3, 0, 1, lock, lock], offset: {horizontal: 20, vertical: 1010.862}, weight: 3},
   };
   
   var icons_table = {
-    g9171: {grid_position: 1, icon: "hand", color: "black", side: "right"},
-    g9179: {grid_position: 2, icon: "hand", color: "white", side: "right"},
-    g9187: {grid_position: 3, icon: "hand", color: "black", side: "left"},
-    g9202: {grid_position: 4, icon: "hand", color: "white", side: "left"},
-    g9224: {grid_position: 5, icon: "foot", color: "black", side: "right"},
-    g9231: {grid_position: 6, icon: "foot", color: "white", side: "right"},
-    g9217: {grid_position: 7, icon: "foot", color: "black", side: "left"},
-    g9210: {grid_position: 8, icon: "foot", color: "white", side: "left"},
-    g9278: {grid_position: 11, icon: "crotch", color: "black"},
-    g9267: {grid_position: 12, icon: "crotch", color: "white"},
-    g9289: {grid_position: 9, icon: "torso", color: "black"},
-    g9299: {grid_position: 10, icon: "torso", color: "white"},
-    g9250: {grid_position: 13, icon: "furniture"},
-    g9238: {grid_position: 14, icon: "toybox"},
+    g9171: {grid_position: 1, icon: "hand", color: "black", side: "right", weight: 12},
+    g9179: {grid_position: 2, icon: "hand", color: "white", side: "right", weight: 12},
+    g9187: {grid_position: 3, icon: "hand", color: "black", side: "left", weight: 12},
+    g9202: {grid_position: 4, icon: "hand", color: "white", side: "left", weight: 12},
+    g9224: {grid_position: 5, icon: "foot", color: "black", side: "right", weight: 6},
+    g9231: {grid_position: 6, icon: "foot", color: "white", side: "right", weight: 6},
+    g9217: {grid_position: 7, icon: "foot", color: "black", side: "left", weight: 6},
+    g9210: {grid_position: 8, icon: "foot", color: "white", side: "left", weight: 6},
+    g9278: {grid_position: 11, icon: "crotch", color: "black", weight: 17},
+    g9267: {grid_position: 12, icon: "crotch", color: "white", weight: 17},
+    g9289: {grid_position: 9, icon: "torso", color: "black", weight: 23},
+    g9299: {grid_position: 10, icon: "torso", color: "white", weight: 23},
+    g9250: {grid_position: 13, icon: "furniture", weight: 16},
+    g9238: {grid_position: 14, icon: "toybox", weight: 8},
   };
-  
   
   Object.getOwnPropertyNames(connections_table).forEach(function(id) {
     var info = connections_table [id];
@@ -309,17 +314,20 @@ $(function(){
         }
       }
     });}
-  });  
+  });
+  
   Object.getOwnPropertyNames(icons_table).forEach(function(id) {
     var icon_info = icons_table [id];
     icon_info .id = id;
   });
   
+  
   function get_tile_info (element) {
-    var direct = connections_table [get_link (element).slice (1)];
+    var original = (typeof element === "string") && ('#'+element) || get_link (element);
+    var direct = connections_table [original.slice (1)];
     if (direct) {return direct;}
     var indirect;
-    $(get_link (element)).children().each (function (index) {
+    $(original).children().each (function (index) {
       if (!indirect) {
         var link = get_link (this);
         if (link) {
@@ -334,8 +342,9 @@ $(function(){
   }
    
   function get_icon (element) {
+    var original = (typeof element === "string") && ('#'+element) || get_link (element);
     var indirect;
-    $(get_link (element)).children().each (function (index) {
+    $(original).children().each (function (index) {
       if (!indirect) {
         var link = get_link (this);
         if (link) {
@@ -345,6 +354,14 @@ $(function(){
     });
     return indirect;
   }
+
+  var icons_by_tile_id = {};
+  var info_by_tile_id = {};
+
+  tile_ids.forEach(function(id) {
+    icons_by_tile_id[id] = get_icon(id);
+    info_by_tile_id[id] = get_tile_info(id);
+  });
   
   function follow_path (location, from_direction, tile_callback, finish_callback) {
     var tile = get_tile (location);
@@ -384,7 +401,7 @@ $(function(){
     var offset = get_tile_info (clone).offset;
     var icon = get_icon (clone);
     var offset_horizontal = offset.horizontal + (icon && icon.grid_position*1.732 || 0);
-    var offset_vertical = 1050-offset.vertical;
+    var offset_vertical = 1052.36218-offset.vertical;
     
     //console.log (offset);
     var transform_origin = ""+(offset_horizontal)+"px "+(offset_vertical)+"px 0px"//"50% 50% 0";//""+ (offset.x+0.5*offset.width)+"px "+ (offset.y+0.5*offset.height)+"px 0px";
@@ -424,6 +441,20 @@ $(function(){
     });
     return tile;
   }
+  function create_random_tile () {
+    var choose_icon = Math.random() < 0.7;
+    var id;
+    while (true) {
+      id = random_choice (tile_ids);
+      var icon = icons_by_tile_id[id];
+      var info = info_by_tile_id[id];
+      //console.log(info.weight*(icon && icon.weight || 1));
+      if ((!!icon === !!choose_icon) && (Math.random()*10000 < info.weight*(icon && icon.weight || 1))) {
+        break;
+      }
+    }
+    return create_tile(id, random_range (0, 6));
+  }
   function create_border_tile (location) {
     var element = create_clone (blank_hex_id);
     $(element).addClass("tile border").css(calculate_transform (element, location.horizontal, location.vertical, 0)).click(function() {
@@ -462,11 +493,11 @@ $(function(){
     return tiles ["" + location.horizontal + "_" + location.vertical]
   }
   
-  function hack (horizontal, vertical, rotation) {
-    var tile = create_tile(random_choice (tile_ids), rotation);
+  function hack (horizontal, vertical) {
+    var tile = create_random_tile ();
     //$(whatever).css(calculate_transform (whatever, horizontal, vertical+0.00001, rotation));
    
-    $(tile.element).css(calculate_transform (tile.element, horizontal*1.3, vertical*1.3-2, rotation+0.5));
+    $(tile.element).css(calculate_transform (tile.element, horizontal*1.3, vertical*1.3-2, tile.rotation+0.5));
     //whatever.css({transform:"scale(20, 20)"});
     
     setTimeout (function() {
@@ -476,10 +507,10 @@ $(function(){
   }
   for (var index = -5; index <=5;++index) {
     for (var terrible = index-5; terrible <=index+5;terrible+=2) {
-      hack (index, terrible, random_range (0, 1));
+      hack (index, terrible);
     }
   }
-  floating_tile = create_tile(random_choice (tile_ids), 0);
+  floating_tile = create_random_tile ();
 });
 </script>
 '''}
