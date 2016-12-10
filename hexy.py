@@ -197,40 +197,68 @@ $(function(){
   
   var dead={};var icon={};var lock={};
   var connections_table = {
-    g8043: [3, 2, 1, 0, 5, 4],
-    g8261: [2, 4, 0, 5, 1, 3],
-    g8571: [2, 3, 0, 1, 5, 4],
-    g8657: [1, 0, 3, 2, 5, 4],
-    g8985: [3, 4, 5, 0, 1, 2],
+    [blank_hex_id]: { offset: {horizontal: 0, vertical: 1050.862}},
+  
+    g8043: {connections: [3, 2, 1, 0, 5, 4], offset: {horizontal: 3, vertical: 1038.862}},
+    g8261: {connections: [2, 4, 0, 5, 1, 3], offset: {horizontal: 3, vertical: 1026.862}},
+    g8571: {connections: [2, 3, 0, 1, 5, 4], offset: {horizontal: 3, vertical: 1014.862}},
+    g8657: {connections: [1, 0, 3, 2, 5, 4], offset: {horizontal: 20, vertical: 1007.862}},
+    g8985: {connections: [3, 4, 5, 0, 1, 2], offset: {horizontal: 20, vertical: 1001.862}},
     
-    g9384: [5, dead, icon, 4, 3, 0],
-    g9425: [1, 0, icon, 4, 3, dead],
-    g9432: [1, 0, icon, dead, 5, 4],
-    g9631: [2, 3, 0, 1, icon, dead],
-    g9625: [2, 3, 0, 1, dead, icon],
-    g9812: [4, 2, 1, icon, 0, dead],
-    g9843: [2, dead, 0, icon, 5, 4],
-    g10007: [3, 2, 1, 0, icon, dead],
-    g10014: [3, 2, 1, 0, dead, icon],
-    g10195: [3, 4, dead, 0, 1, icon],
-    g10315: [2, 4, 0, dead, 1, icon],
-    g10325: [icon, 4, dead, 5, 1, 3],
-    g10573: [lock, lock, lock, 5, lock, 3],
-    g10495: [2, 3, 0, 1, lock, lock],
+    
+    g9384: {connections: [5, dead, icon, 4, 3, 0], offset: {horizontal: 20, vertical: 1036.862}},
+    g9425: {connections: [1, 0, icon, 4, 3, dead], offset: {horizontal: 20, vertical: 1036.862 - 2}},
+    g9432: {connections: [1, 0, icon, dead, 5, 4], offset: {horizontal: 20, vertical: 1036.862 - 4}},
+    g9631: {connections: [2, 3, 0, 1, icon, dead], offset: {horizontal: 20, vertical: 1036.862-6}},
+    g9625: {connections: [2, 3, 0, 1, dead, icon], offset: {horizontal: 20, vertical: 1036.862-8}},
+    g9812: {connections: [4, 2, 1, icon, 0, dead], offset: {horizontal: 20, vertical: 1036.862-10}},
+    g9843: {connections: [2, dead, 0, icon, 5, 4], offset: {horizontal: 20, vertical: 1036.862-12}},
+    g10007: {connections: [3, 2, 1, 0, icon, dead], offset: {horizontal: 20, vertical: 1036.862-14}},
+    g10014: {connections: [3, 2, 1, 0, dead, icon], offset: {horizontal: 20, vertical: 1036.862-16}},
+    g10195: {connections: [3, 4, dead, 0, 1, icon], offset: {horizontal: 20, vertical: 1036.862-18}},
+    g10315: {connections: [2, 4, 0, dead, 1, icon], offset: {horizontal: 20, vertical: 1036.862-20}},
+    g10325: {connections: [icon, 4, dead, 5, 1, 3], offset: {horizontal: 20, vertical: 1036.862-22}},
+    g10573: {connections: [lock, lock, lock, 5, lock, 3], offset: {horizontal: 20, vertical: 1012.862}},
+    g10495: {connections: [2, 3, 0, 1, lock, lock], offset: {horizontal: 20, vertical: 1010.862}},
   };
   
+  var icons_table = {
+    g9171: {grid_position: 1, icon: "hand", color: "black", side: "right"},
+    g9179: {grid_position: 2, icon: "hand", color: "white", side: "right"},
+    g9187: {grid_position: 3, icon: "hand", color: "black", side: "left"},
+    g9202: {grid_position: 4, icon: "hand", color: "white", side: "left"},
+    g9224: {grid_position: 5, icon: "foot", color: "black", side: "right"},
+    g9231: {grid_position: 6, icon: "foot", color: "white", side: "right"},
+    g9217: {grid_position: 7, icon: "foot", color: "black", side: "left"},
+    g9210: {grid_position: 8, icon: "foot", color: "white", side: "left"},
+    g9278: {grid_position: 11, icon: "crotch", color: "black"},
+    g9267: {grid_position: 12, icon: "crotch", color: "white"},
+    g9289: {grid_position: 9, icon: "torso", color: "black"},
+    g9299: {grid_position: 10, icon: "torso", color: "white"},
+    g9250: {grid_position: 13, icon: "furniture"},
+    g9238: {grid_position: 14, icon: "toybox"},
+  };
+  
+  
   Object.getOwnPropertyNames(connections_table).forEach(function(id) {
-    var tile = connections_table [id];
-    tile.forEach(function(connection, index) {
+    var info = connections_table [id];
+    info .id = id;
+    info.offset.horizontal += 0.866;
+    info.offset.vertical += 1;
+    if (info.connections) {info.connections.forEach(function(connection, index) {
       if (typeof connection == "number") {
-        if (tile [connection] !== index) {
+        if (info.connections[connection] !== index) {
           console.log ("error: mismatched connections");
         }
       }
-    });
+    });}
+  });  
+  Object.getOwnPropertyNames(icons_table).forEach(function(id) {
+    var icon_info = icons_table [id];
+    icon_info .id = id;
   });
   
-  function get_connections (element) {
+  function get_tile_info (element) {
     var direct = connections_table [get_link (element).slice (1)];
     if (direct) {return direct;}
     var indirect;
@@ -239,6 +267,22 @@ $(function(){
         var link = get_link (this);
         if (link) {
           indirect = connections_table [link.slice (1)];
+        }
+      }
+    });
+    return indirect;
+  }
+  function get_connections (element) {
+    return get_tile_info (element).connections;
+  }
+   
+  function get_icon (element) {
+    var indirect;
+    $(get_link (element)).children().each (function (index) {
+      if (!indirect) {
+        var link = get_link (this);
+        if (link) {
+          indirect = icons_table [link.slice (1)];
         }
       }
     });
@@ -277,12 +321,23 @@ $(function(){
   function calculate_transform (clone, horizontal, vertical, rotation) {
     var original = $(get_link (clone))[0];
     
-    var offset = original.getBBox();
+    //does not take into account clipping paths
+    var inaccurate_offset = original.getBBox();
+    
+    var offset = get_tile_info (clone).offset;
+    var icon = get_icon (clone);
+    var offset_horizontal = offset.horizontal + (icon && icon.grid_position*1.732 || 0);
+    var offset_vertical = 1050-offset.vertical;
+    
     //console.log (offset);
-    var transform_origin = "50% 50% 0";//""+ (offset.x+0.5*offset.width)+"px "+ (offset.y+0.5*offset.height)+"px 0px";
+    var transform_origin = ""+(offset_horizontal)+"px "+(offset_vertical)+"px 0px"//"50% 50% 0";//""+ (offset.x+0.5*offset.width)+"px "+ (offset.y+0.5*offset.height)+"px 0px";
     //console.log (transform_origin);
     var position = tile_position (horizontal, vertical);
-    var transform ="translate("+ (-(offset.x+0.5*offset.width))+"px, "+ (-(offset.y+0.5*offset.height))+"px) translate(500px, 300px) translate(" + position.horizontal + "px," + position.vertical + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius+ "," + long_radius+ ")"
+    var transform = (
+      //"translate("+ (-(offset.x+0.5*offset.width))+"px, "+ (-(offset.y+0.5*offset.height))+"px)"
+      "translate("+ (-(offset_horizontal))+"px, "+ (-(offset_vertical))+"px)"
+      +" translate(500px, 300px) translate(" + position.horizontal + "px," + position.vertical + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius+ "," + long_radius+ ")"
+    );
     //console.log (transform);
     return {"transform-origin": transform_origin, transform: transform}
   }
@@ -301,8 +356,16 @@ $(function(){
   }
   function create_tile (id, rotation) {
     var element = create_clone (id);
-    $(element).addClass("tile");
-    return {rotation, element};
+    var tile = {rotation, element};
+    $(element).addClass("tile").click(function() {
+      if (tile === floating_tile) {
+        create_borders_around (tile);
+        floating_tile = create_tile(random_choice (tile_ids), 0);
+      } else {
+        draw_path(tile.horizontal, tile.vertical, 0);
+      }
+    });
+    return tile;
   }
   function create_border_tile (location) {
     var element = create_clone (blank_hex_id);
@@ -310,6 +373,12 @@ $(function(){
       set_tile (location, floating_tile);
     });
     set_tile (location, {element: element, rotation: 0, border: true});
+  }
+  function create_borders_around (location) {
+    for (var direction = 0; direction <6 ;++direction) {
+      var neighbor = in_direction (location, direction);
+      if (!get_tile (neighbor)) {create_border_tile (neighbor);}
+    }
   }
   function remove_tile (location) {
     var previous = get_tile (location);
@@ -329,10 +398,7 @@ $(function(){
     tile.horizontal = location.horizontal; tile.vertical = location.vertical;
     $(tile.element).css(calculate_transform (tile.element, location.horizontal, location.vertical, tile.rotation));
     if (!(tile.border || tile === floating_tile)) {
-      for (var direction = 0; direction <6 ;++direction) {
-        var neighbor = in_direction (location, direction);
-        if (!get_tile (neighbor)) {create_border_tile (neighbor);}
-      }
+      create_borders_around (location);
     }
   }
   function get_tile (location) {
@@ -343,9 +409,7 @@ $(function(){
     var tile = create_tile(random_choice (tile_ids), rotation);
     //$(whatever).css(calculate_transform (whatever, horizontal, vertical+0.00001, rotation));
    
-    $(tile.element).css(calculate_transform (tile.element, horizontal*1.3, vertical*1.3-2, rotation+0.5)).click(function() {
-      draw_path(tile.horizontal, tile.vertical, 0);
-    });
+    $(tile.element).css(calculate_transform (tile.element, horizontal*1.3, vertical*1.3-2, rotation+0.5));
     //whatever.css({transform:"scale(20, 20)"});
     
     setTimeout (function() {
@@ -355,7 +419,7 @@ $(function(){
   }
   for (var index = -5; index <=5;++index) {
     for (var terrible = index-5; terrible <=index+5;terrible+=2) {
-      hack (index, terrible, random_range (0, 6));
+      hack (index, terrible, random_range (0, 1));
     }
   }
   floating_tile = create_tile(random_choice (tile_ids), 0);
