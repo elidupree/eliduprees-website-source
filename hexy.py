@@ -7,14 +7,61 @@ import bars
 import exmxaxixl
 import blog
 import re
+import xml.etree.ElementTree as XML
 
 source_svg = ""
 tile_ids = []
+used_ids = {}
 with open ("./hexy_source/game.svg", encoding = "utf-8") as source_svg_file:
   source_svg = source_svg_file.read()
 with open ("./hexy_source/tile_ids_hack.svg", encoding = "utf-8") as something:
   for match in re.finditer(r'''id="(g\d*?)"(?!>)''', something.read()):
     tile_ids.append (match.group (1))
+
+elements_by_id = {}
+
+svg_id = "id"
+XML.register_namespace("","http://www.w3.org/2000/svg")
+XML.register_namespace("sodipodi","http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd")
+XML.register_namespace("xlink","http://www.w3.org/1999/xlink")
+XML.register_namespace("inkscape","http://www.inkscape.org/namespaces/inkscape")
+XML.register_namespace("cc","http://creativecommons.org/ns#")
+modified = XML.fromstring (source_svg)
+
+for element in modified.findall (".//*[@"+svg_id+"]"):
+  elements_by_id [element.get (svg_id)] = element
+
+def find(element):
+  id = element.get (svg_id)
+  if id not in used_ids:
+    used_ids [id] = True
+    link = element.get ("{http://www.w3.org/1999/xlink}href")
+    if link:
+      find (elements_by_id[link[1:]])
+    for descendent in element.iter():
+      find (descendent)
+
+for id in tile_ids:
+  find (elements_by_id [id])
+
+def prune (element):
+  if element.tag == "{http://www.w3.org/2000/svg}metadata" or element.tag == "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}namedview":
+    return True
+  
+  self_used = (element.get (svg_id) in used_ids)
+  for child in element.findall("*"):
+    child_used = (child.get (svg_id) in used_ids) or prune (child)
+    if child_used:
+      self_used = True
+    else:
+      element.remove (child)
+  return self_used
+
+prune (modified)
+
+trimmed_svg = XML.tostring (modified, encoding = "unicode", method = "html")
+
+
 
 blurb = "A sexual board game for two or more players"
 	  
@@ -150,7 +197,7 @@ when their “opponent” is too tied up to reach the board.
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
-    '''+source_svg+'''
+    '''+ trimmed_svg+'''
   </div>
 </main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
 
