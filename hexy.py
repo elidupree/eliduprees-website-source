@@ -44,6 +44,7 @@ def find(element):
     if style:
       for referenced in re.finditer(r'url\(#(.*?)\)', style):
         find (elements_by_id [referenced.group (1)])
+      element.set ("style", re.sub(r'fill:#808080', "fill:var(--path-color)", style))
     style = element.get ("clip-path")
     if style:
       for referenced in re.finditer(r'url\(#(.*?)\)', style):
@@ -206,7 +207,7 @@ when their “opponent” is too tied up to reach the board.
       r'''
 <style>
 
-.tile {transition-duration: 1s;}
+.tile {transition-duration: 1s; --path-color: #808080; }
 
 </style>
 ''',
@@ -388,7 +389,8 @@ $(function(){
   
   function draw_path (horizontal, vertical, from_direction) {
     follow_path({horizontal, vertical}, from_direction, function(tile) {
-      $(tile.element).css({opacity: 0.5});
+      //$(tile.element).css({opacity: 0.5});
+      tile.element.style.setProperty ("--path-color", "red");
     });
   }
   
