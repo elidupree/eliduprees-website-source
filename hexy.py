@@ -44,7 +44,7 @@ def find(element):
     if style:
       for referenced in re.finditer(r'url\(#(.*?)\)', style):
         find (elements_by_id [referenced.group (1)])
-      element.set ("style", re.sub(r'fill:#808080', "fill:var(--path-color)", style))
+      element.set ("style", re.sub(r'fill:#808080', "fill:var(--path-fill)", style))
     style = element.get ("clip-path")
     if style:
       for referenced in re.finditer(r'url\(#(.*?)\)', style):
@@ -207,7 +207,7 @@ when their “opponent” is too tied up to reach the board.
       r'''
 <style>
 
-.tile {transition-duration: 1s; --path-color: #808080; }
+.tile {transition-duration: 1s; --path-fill: #808080; }
 
 </style>
 ''',
@@ -263,11 +263,11 @@ $(function(){
   var connections_table = {
     [blank_hex_id]: { offset: {horizontal: 0, vertical: 1050.862}},
   
-    g8043: {connections: [3, 2, 1, 0, 5, 4], offset: {horizontal: 3, vertical: 1038.862}, weight: 10},
-    g8261: {connections: [2, 4, 0, 5, 1, 3], offset: {horizontal: 3, vertical: 1026.862}, weight: 15},
-    g8571: {connections: [2, 3, 0, 1, 5, 4], offset: {horizontal: 3, vertical: 1014.862}, weight: 15},
-    g8657: {connections: [1, 0, 3, 2, 5, 4], offset: {horizontal: 20, vertical: 1007.862}, weight: 4},
-    g8985: {connections: [3, 4, 5, 0, 1, 2], offset: {horizontal: 20, vertical: 1001.862}, weight: 0},
+    g8043: {connections: [3, 2, 1, 0, 5, 4], offset: {horizontal: 3, vertical: 1038.862}, weight: 10, pieces: ["use7975","use8039","use8041"]},
+    g8261: {connections: [2, 4, 0, 5, 1, 3], offset: {horizontal: 3, vertical: 1026.862}, weight: 15, pieces: ["use8257","use8259","use8255"]},
+    g8571: {connections: [2, 3, 0, 1, 5, 4], offset: {horizontal: 3, vertical: 1014.862}, weight: 15, pieces: ["use8567","use8565","use8569"]},
+    g8657: {connections: [1, 0, 3, 2, 5, 4], offset: {horizontal: 20, vertical: 1007.862}, weight: 4, pieces: ["use8655","use8653","use8651"]},
+    g8985: {connections: [3, 4, 5, 0, 1, 2], offset: {horizontal: 20, vertical: 1001.862}, weight: 0, pieces: ["use8983","use8981","use8979"]},
     
     
     g9384: {connections: [5, dead, icon, 4, 3, 0], offset: {horizontal: 20, vertical: 1036.862}, weight: 8},
@@ -308,10 +308,16 @@ $(function(){
     info .id = id;
     info.offset.horizontal += 0.866;
     info.offset.vertical += 1;
+    var piece_index = 0;
     if (info.connections) {info.connections.forEach(function(connection, index) {
       if (typeof connection == "number") {
         if (info.connections[connection] !== index) {
           console.log ("error: mismatched connections");
+        }
+        if (info.pieces && index <connection) {
+          var piece_element = document.getElementById (info.pieces [piece_index]);
+          piece_element.style.setProperty ("--path-fill", "var(--path-fill-" + index + "-" + connection+")");
+          ++piece_index;
         }
       }
     });}
@@ -390,7 +396,7 @@ $(function(){
   function draw_path (horizontal, vertical, from_direction) {
     follow_path({horizontal, vertical}, from_direction, function(tile) {
       //$(tile.element).css({opacity: 0.5});
-      tile.element.style.setProperty ("--path-color", "red");
+      tile.element.style.setProperty ("--path-fill", "red");
     });
   }
   
