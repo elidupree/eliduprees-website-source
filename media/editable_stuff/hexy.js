@@ -37,7 +37,7 @@ $(function(){
     return {horizontal: location.horizontal + offset.horizontal, vertical: location.vertical + offset.vertical};
   }
   
-  var dead={};var icon={};var lock={};
+  var dead= "dead";var icon= "icon";var lock= "lock";
   var connections_table = {
     [blank_hex_id]: { offset: {horizontal: 0, vertical: 1050.862}},
   
@@ -48,15 +48,15 @@ $(function(){
     g8985: {connections: [3, 4, 5, 0, 1, 2], offset: {horizontal: 20, vertical: 1001.862}, weight: 0, pieces: ["use8983","use8981","use8979"]},
     
     
-    g9384: {connections: [5, dead, icon, 4, 3, 0], offset: {horizontal: 20, vertical: 1036.862}, weight: 8},
-    g9425: {connections: [1, 0, icon, 4, 3, dead], offset: {horizontal: 20, vertical: 1036.862 - 2}, weight: 34},
-    g9432: {connections: [1, 0, icon, dead, 5, 4], offset: {horizontal: 20, vertical: 1036.862 - 4}, weight: 8},
-    g9631: {connections: [2, 3, 0, 1, icon, dead], offset: {horizontal: 20, vertical: 1036.862-6}, weight: 29},
-    g9625: {connections: [2, 3, 0, 1, dead, icon], offset: {horizontal: 20, vertical: 1036.862-8}, weight: 29},
-    g9812: {connections: [4, 2, 1, icon, 0, dead], offset: {horizontal: 20, vertical: 1036.862-10}, weight: 10},
-    g9843: {connections: [2, dead, 0, icon, 5, 4], offset: {horizontal: 20, vertical: 1036.862-12}, weight: 10},
-    g10007: {connections: [3, 2, 1, 0, icon, dead], offset: {horizontal: 20, vertical: 1036.862-14}, weight: 24},
-    g10014: {connections: [3, 2, 1, 0, dead, icon], offset: {horizontal: 20, vertical: 1036.862-16}, weight: 24},
+    g9384: {connections: [5, dead, icon, 4, 3, 0], offset: {horizontal: 20, vertical: 1036.862}, weight: 8, pieces: ["use9344","use9348","use9382","use9346"]},
+    g9425: {connections: [1, 0, icon, 4, 3, dead], offset: {horizontal: 20, vertical: 1036.862 - 2}, weight: 34, pieces: ["use9395","use9401","use9397","use9399"]},
+    g9432: {connections: [1, 0, icon, dead, 5, 4], offset: {horizontal: 20, vertical: 1036.862 - 4}, weight: 8, pieces: ["use9409","use9413","use9411","use9407"]},
+    g9631: {connections: [2, 3, 0, 1, icon, dead], offset: {horizontal: 20, vertical: 1036.862-6}, weight: 29, pieces: ["g9154","g9144","use9607","use9609"]},
+    g9625: {connections: [2, 3, 0, 1, dead, icon], offset: {horizontal: 20, vertical: 1036.862-8}, weight: 29, pieces: ["g9154","g9144","use9617","use9615"]},
+    g9812: {connections: [4, 2, 1, icon, 0, dead], offset: {horizontal: 20, vertical: 1036.862-10}, weight: 10, pieces: ["use9798","use9796","use9800","use9794"]},
+    g9843: {connections: [2, dead, 0, icon, 5, 4], offset: {horizontal: 20, vertical: 1036.862-12}, weight: 10, pieces: ["use9806","use9810","use9808","use9804"]},
+    g10007: {connections: [3, 2, 1, 0, icon, dead], offset: {horizontal: 20, vertical: 1036.862-14}, weight: 24, pieces: ["use9987","use9995","use9993","use9991"]},
+    g10014: {connections: [3, 2, 1, 0, dead, icon], offset: {horizontal: 20, vertical: 1036.862-16}, weight: 24, pieces: ["use10001","use9999","use10003","use10005"]},
     g10195: {connections: [3, 4, dead, 0, 1, icon], offset: {horizontal: 20, vertical: 1036.862-18}, weight: 0},
     g10315: {connections: [2, 4, 0, dead, 1, icon], offset: {horizontal: 20, vertical: 1036.862-20}, weight: 0},
     g10325: {connections: [icon, 4, dead, 5, 1, 3], offset: {horizontal: 20, vertical: 1036.862-22}, weight: 0},
@@ -88,15 +88,25 @@ $(function(){
     info.offset.vertical += 1;
     var piece_index = 0;
     if (info.connections) {info.connections.forEach(function(connection, index) {
+      function do_connection (identifier) {
+        if (!info.pieces) {return;}
+        console.log (info.pieces [piece_index]);
+        var piece_element = document.getElementById (info.pieces [piece_index]);
+        piece_element.style.setProperty ("--path-fill", "var(--path-fill-" + identifier +")");
+        ++piece_index;
+      }
       if (typeof connection == "number") {
         if (info.connections[connection] !== index) {
           console.log ("error: mismatched connections");
         }
-        if (info.pieces && index <connection) {
-          var piece_element = document.getElementById (info.pieces [piece_index]);
-          piece_element.style.setProperty ("--path-fill", "var(--path-fill-" + index + "-" + connection+")");
-          ++piece_index;
+        if (index <connection) {
+          do_connection (index + "-" + connection);
         }
+      }
+      else if (connection == "lock") {
+        do_connection ("lock");
+      } else {
+        do_connection (index + "-" + connection);
       }
     });}
   });
@@ -149,10 +159,15 @@ $(function(){
   });
   
   function fill_component (tile, from, towards, fill) {
+    from = (from + 6 - tile.rotation) % 6;
     if (typeof towards === "number") {
-      from = (from + 6 - tile.rotation) % 6;
       towards = (towards + 6 - tile.rotation) % 6 ;
       if (from >towards) {[from, towards] = [towards, from];}
+      tile.element.style.setProperty ("--path-fill-" + from + "-" + towards, fill);
+    }
+    else if (towards === lock) {
+      tile.element.style.setProperty ("--path-fill-lock", fill);
+    } else {
       tile.element.style.setProperty ("--path-fill-" + from + "-" + towards, fill);
     }
   }
