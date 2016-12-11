@@ -370,18 +370,27 @@ $(function(){
     info_by_tile_id[id] = get_tile_info(id);
   });
   
+  function fill_component (tile, from, towards, fill) {
+    if (typeof towards === "number") {
+      from = (from + 6 - tile.rotation) % 6;
+      towards = (towards + 6 - tile.rotation) % 6 ;
+      if (from >towards) {[from, towards] = [towards, from];}
+      tile.element.style.setProperty ("--path-fill-" + from + "-" + towards, fill);
+    }
+  }
+  
   function follow_path (location, from_direction, tile_callback, finish_callback) {
     var tile = get_tile (location);
-    if (!tile) {
+    if (!tile || tile.border) {
       if (finish_callback) { finish_callback (location, from_direction); }
       return;
     }
-    tile_callback (tile, from_direction);
     var connections = get_connections (tile.element);
     var index = (from_direction + 6 - tile.rotation) % 6;
     var destination = connections[index];
     if (typeof destination === "number") {
       destination = (connections[index] + tile.rotation) % 6;
+      tile_callback (tile, from_direction, destination);
       //var offset = directions [destination];
       //var next = get_tile (tile.horizontal + offset.horizontal, tile.vertical + offset.vertical);
       //if (next) {
@@ -389,14 +398,16 @@ $(function(){
       //}
     }
     else {
+      tile_callback (tile, from_direction, destination);
       if (finish_callback) {finish_callback (location, from_direction, tile, destination);}
     }
   }
   
-  function draw_path (horizontal, vertical, from_direction) {
-    follow_path({horizontal, vertical}, from_direction, function(tile) {
+  function draw_path (horizontal, vertical, from_direction, towards) {
+    follow_path({horizontal, vertical}, from_direction, function(tile, from, towards) {
       //$(tile.element).css({opacity: 0.5});
       tile.element.style.setProperty ("--path-fill", "red");
+      fill_component (tile, from, towards, "blue");
     });
   }
   
