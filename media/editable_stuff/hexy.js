@@ -171,34 +171,57 @@ $(function(){
       tile.element.style.setProperty ("--path-fill-" + from + "-" + towards, fill);
     }
   }
+    
+  function collect_path (tile, from_direction) {
+    var found = {};
+    var result = {components: [], icons: [], lock: false, completed: true};
+    function find (tile, from_direction) {
+      if (!tile || tile.border) {result.completed = false; return;}
+      if (!found [position_string (tile)+"_"+from_direction]) {
+        found [position_string (tile)+"_"+from_direction] = true;
+        var connections = get_connections (tile.element);
+        var index = (from_direction + 6 - tile.rotation) % 6;
+        var destination = connections[index];
+        if (typeof destination === "number") {
+          destination = (connections[index] + tile.rotation) % 6;
+          found [position_string (tile)+"_"+destination] = true;
+          var neighbor = get_tile (in_direction (tile, destination));
+          find(neighbor, (destination + 3) % 6);
+          result.components.push ({tile, from: from_direction, towards: destination});
+        }
+        else if (destination === "lock") {
+          result.components.push ({tile, from: from_direction, towards: destination})
+          result.lock = true;
+          for (var direction = 0; direction <6 ;++direction) {
+            if (connections [(direction + 6 - tile.rotation) % 6] == lock) {
+              var neighbor = get_tile (in_direction (tile, direction));
+              find(neighbor, (direction + 3) % 6);
+            }
+          }
+        }
+        else {
+          result.components.push ({tile, from: from_direction, towards: destination});
+          if (destination === icon) {result.icons.push (get_icon (tile.element));}
+        }
+      }
+    }
+    find (tile, from_direction);
+    find (get_tile (in_direction (tile, from_direction)), (from_direction + 3) % 6);
+    return result;
+  }
   
-  function follow_path (location, from_direction, tile_callback, finish_callback, original_tile) {
-    var tile = get_tile (location);
-    if (!tile || tile.border || tile === original_tile) {
-      if (finish_callback) { finish_callback (location, from_direction); }
-      return;
-    }
-    original_tile = original_tile || tile;
+  function collect_paths (tile) {
+    // TODO: no repeats
     var connections = get_connections (tile.element);
-    var index = (from_direction + 6 - tile.rotation) % 6;
-    var destination = connections[index];
-    if (typeof destination === "number") {
-      destination = (connections[index] + tile.rotation) % 6;
-      tile_callback (tile, from_direction, destination);
-      //var offset = directions [destination];
-      //var next = get_tile (tile.horizontal + offset.horizontal, tile.vertical + offset.vertical);
-      //if (next) {
-        follow_path(in_direction (location, destination), (destination + 3) % 6, tile_callback, finish_callback, original_tile);
-      //}
+    var result = [];
+    for (var direction = 0; direction <6 ;++direction) {
+      result.push (collect_path (tile, direction));
     }
-    else {
-      tile_callback (tile, from_direction, destination);
-      if (finish_callback) {finish_callback (location, from_direction, tile, destination);}
-    }
+    return result;
   }
   
   function iterate_tiles (callback) {
-    var found = {}
+    var found = {};
     function find (tile) {
       if (!found [position_string (tile)]) {
         found [position_string (tile)] = true;
@@ -223,14 +246,11 @@ $(function(){
         tile.element.style.setProperty ("--path-fill-lock", "blue");
       }
     });
-    for (var direction = 0; direction <6 ;++direction) {
-      follow_path(floating_tile, direction, function(tile, from, towards) {
-        fill_component (tile, from, towards, "green");
+    collect_paths (floating_tile).forEach(function(path) {
+      path.components.forEach(function(component) {
+        fill_component (component.tile, component.from, component.towards, "#00ff00");
       });
-      follow_path(in_direction (floating_tile, direction), (direction+3)%6, function(tile, from, towards) {
-        fill_component (tile, from, towards, "green");
-      });
-    }
+    });
   }
   
   /*function draw_path (horizontal, vertical, from_direction, towards) {
