@@ -90,7 +90,7 @@ $(function(){
     if (info.connections) {info.connections.forEach(function(connection, index) {
       function do_connection (identifier) {
         if (!info.pieces) {return;}
-        console.log (info.pieces [piece_index]);
+        //console.log (info.pieces [piece_index]);
         var piece_element = document.getElementById (info.pieces [piece_index]);
         piece_element.style.setProperty ("--path-fill", "var(--path-fill-" + identifier +")");
         ++piece_index;
@@ -172,12 +172,13 @@ $(function(){
     }
   }
   
-  function follow_path (location, from_direction, tile_callback, finish_callback) {
+  function follow_path (location, from_direction, tile_callback, finish_callback, original_tile) {
     var tile = get_tile (location);
-    if (!tile || tile.border) {
+    if (!tile || tile.border || tile === original_tile) {
       if (finish_callback) { finish_callback (location, from_direction); }
       return;
     }
+    original_tile = original_tile || tile;
     var connections = get_connections (tile.element);
     var index = (from_direction + 6 - tile.rotation) % 6;
     var destination = connections[index];
@@ -187,7 +188,7 @@ $(function(){
       //var offset = directions [destination];
       //var next = get_tile (tile.horizontal + offset.horizontal, tile.vertical + offset.vertical);
       //if (next) {
-        follow_path(in_direction (location, destination), (destination + 3) % 6, tile_callback, finish_callback);
+        follow_path(in_direction (location, destination), (destination + 3) % 6, tile_callback, finish_callback, original_tile);
       //}
     }
     else {
