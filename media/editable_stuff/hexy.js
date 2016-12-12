@@ -207,7 +207,7 @@ $(function(){
         }
         else {
           result.components.push ({tile, from: from_direction, towards: destination});
-          if (destination === icon) {result.icons.push (get_icon (tile.element));}
+          if (destination === icon) {result.icons.push (tile);}
         }
       }
     }
@@ -225,6 +225,28 @@ $(function(){
     }
     return result;
   }
+  
+  function path_legality (path, placed_tile) {
+    if (!path.completed) {return "acceptable";}
+    
+    if (path.icons.length === 1) {return "waste";}
+    if (path.icons.length === 0) {return "acceptable";}
+    
+    var forbidden = false;
+    path.icons.forEach(function(tile) {
+      if (tile === placed_tile) {forbidden = true;}
+    });
+    if (forbidden) {return "forbidden";}
+    
+    if (path.lock) {return "success";}
+    return "success";
+  }
+  var legality_fill = {
+    acceptable: "#0000ff",
+    forbidden: "#ff0000",
+    waste: "#990000",
+    success: "#ffff00"
+  };
   
   function iterate_tiles (callback) {
     var found = {};
@@ -245,16 +267,17 @@ $(function(){
     iterate_tiles (function(tile) {
       for (var direction = 0; direction <6 ;++direction) {
         for (var destination = direction + 1; destination <6 ;++destination) {
-          tile.element.style.setProperty ("--path-fill-" + direction + "-" + destination, "blue");
+          tile.element.style.setProperty ("--path-fill-" + direction + "-" + destination, "#808080");
         }
-        tile.element.style.setProperty ("--path-fill-" + direction + "-dead", "blue");
-        tile.element.style.setProperty ("--path-fill-" + direction + "-icon", "blue");
-        tile.element.style.setProperty ("--path-fill-lock", "blue");
+        tile.element.style.setProperty ("--path-fill-" + direction + "-dead", "#808080");
+        tile.element.style.setProperty ("--path-fill-" + direction + "-icon", "#808080");
+        tile.element.style.setProperty ("--path-fill-lock", "#808080");
       }
     });
     collect_paths (floating_tile).forEach(function(path) {
+      var fill = legality_fill [path_legality (path, floating_tile)];
       path.components.forEach(function(component) {
-        fill_component (component.tile, component.from, component.towards, "#00ff00");
+        fill_component (component.tile, component.from, component.towards, fill);
       });
     });
   }
