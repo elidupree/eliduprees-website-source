@@ -349,16 +349,16 @@ $(function(){
     if (previous) {
       delete previous.horizontal; delete previous.vertical;
       $(previous.element).detach();
-      delete tiles ["" + location.horizontal + "_" + location.vertical];
+      delete tiles [position_string (location)];
     }
   }
   function position_string (location) {
-    return "" + location.horizontal + "_" + location.vertical;
+    return location.horizontal.toString() + "_" + location.vertical;
   }
   function set_tile (location, tile) {
     remove_tile (location);
     tiles [position_string (location)] = tile
-    if (tile.horizontal) {
+    if (tile.horizontal !== undefined) {
       delete tiles [position_string (tile)]
       create_border_tile ({horizontal: tile.horizontal, vertical: tile.vertical});
     }
