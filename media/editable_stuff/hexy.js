@@ -63,6 +63,12 @@ $(function(){
     g10573: {connections: [lock, lock, lock, 5, lock, 3], offset: {horizontal: 20, vertical: 1012.862}, weight: 1},
     g10495: {connections: [2, 3, 0, 1, lock, lock], offset: {horizontal: 20, vertical: 1010.862}, weight: 3},
   };
+  document.getElementById ("use10453").style.setProperty ("--path-fill", "var(--path-fill-lock)");
+  document.getElementById ("use15461").style.setProperty ("--path-fill", "var(--path-fill-lock)");
+  document.getElementById ("use10515").style.setProperty ("--path-fill", "var(--path-fill-lock)");
+  document.getElementById ("use10539").style.setProperty ("--path-fill", "var(--path-fill-lock)");
+  document.getElementById ("path15465").style.setProperty ("--path-fill", "var(--path-fill-lock)");
+  document.getElementById ("use10527").style.setProperty ("--path-fill", "var(--path-fill-3-5)");
   
   var icons_table = {
     g9171: {grid_position: 1, icon: "hand", color: "black", side: "right", weight: 12},
@@ -80,7 +86,7 @@ $(function(){
     g9250: {grid_position: 13, icon: "furniture", weight: 16},
     g9238: {grid_position: 14, icon: "toybox", weight: 8},
   };
-  
+   
   Object.getOwnPropertyNames(connections_table).forEach(function(id) {
     var info = connections_table [id];
     info .id = id;
