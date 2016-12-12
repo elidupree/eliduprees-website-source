@@ -293,11 +293,26 @@ $(function(){
     remove_tile (location);
     tiles ["" + location.horizontal + "_" + location.vertical] = tile
     if (tile.horizontal) {
+      if (tile === floating_tile) {
+        for (var direction = 0; direction <6 ;++direction) {
+          follow_path({horizontal: tile.horizontal, vertical: tile.vertical}, direction, function(tile, from, towards) {
+            fill_component (tile, from, towards, "foo");
+          });
+        }
+      }
       delete tiles ["" + tile.horizontal + "_" + tile.vertical]
       create_border_tile ({horizontal: tile.horizontal, vertical: tile.vertical});
     }
     tile.horizontal = location.horizontal; tile.vertical = location.vertical;
     $(tile.element).css(calculate_transform (tile.element, location.horizontal, location.vertical, tile.rotation));
+    if (tile === floating_tile) {
+      for (var direction = 0; direction <6 ;++direction) {
+        follow_path({horizontal: location.horizontal, vertical: location.vertical}, direction, function(tile, from, towards) {
+          fill_component (tile, from, towards, "blue");
+        });
+      }
+    }
+
     if (!(tile.border || tile === floating_tile)) {
       create_borders_around (location);
     }
