@@ -197,13 +197,49 @@ $(function(){
     }
   }
   
-  function draw_path (horizontal, vertical, from_direction, towards) {
+  function iterate_tiles (callback) {
+    var found = {}
+    function find (tile) {
+      if (!found [position_string (tile)]) {
+        found [position_string (tile)] = true;
+        callback (tile);
+        for (var direction = 0; direction <6 ;++direction) {
+          var neighbor = get_tile (in_direction (tile, direction));
+          if (neighbor) {find (neighbor);}
+        }
+      }
+    }
+    find (get_tile ({horizontal: 0, vertical: 0}));
+  }
+  
+  function refresh_paths() {
+    iterate_tiles (function(tile) {
+      for (var direction = 0; direction <6 ;++direction) {
+        for (var destination = direction + 1; destination <6 ;++destination) {
+          tile.element.style.setProperty ("--path-fill-" + direction + "-" + destination, "blue");
+        }
+        tile.element.style.setProperty ("--path-fill-" + direction + "-dead", "blue");
+        tile.element.style.setProperty ("--path-fill-" + direction + "-icon", "blue");
+        tile.element.style.setProperty ("--path-fill-lock", "blue");
+      }
+    });
+    for (var direction = 0; direction <6 ;++direction) {
+      follow_path(floating_tile, direction, function(tile, from, towards) {
+        fill_component (tile, from, towards, "green");
+      });
+      follow_path(in_direction (floating_tile, direction), (direction+3)%6, function(tile, from, towards) {
+        fill_component (tile, from, towards, "green");
+      });
+    }
+  }
+  
+  /*function draw_path (horizontal, vertical, from_direction, towards) {
     follow_path({horizontal, vertical}, from_direction, function(tile, from, towards) {
       //$(tile.element).css({opacity: 0.5});
       tile.element.style.setProperty ("--path-fill", "red");
       fill_component (tile, from, towards, "blue");
     });
-  }
+  }*/
   
   function calculate_transform (clone, horizontal, vertical, rotation) {
     var original = $(get_link (clone))[0];
@@ -249,7 +285,7 @@ $(function(){
         create_borders_around (tile);
         floating_tile = create_tile(random_choice (tile_ids), 0);
       } else {
-        draw_path(tile.horizontal, tile.vertical, 0);
+        //draw_path(tile.horizontal, tile.vertical, 0);
       }
     });
     return tile;
@@ -272,6 +308,7 @@ $(function(){
     var element = create_clone (blank_hex_id);
     $(element).addClass("tile border").css(calculate_transform (element, location.horizontal, location.vertical, 0)).click(function() {
       set_tile (location, floating_tile);
+      refresh_paths();
     });
     set_tile (location, {element: element, rotation: 0, border: true});
   }
@@ -289,36 +326,25 @@ $(function(){
       delete tiles ["" + location.horizontal + "_" + location.vertical];
     }
   }
+  function position_string (location) {
+    return "" + location.horizontal + "_" + location.vertical;
+  }
   function set_tile (location, tile) {
     remove_tile (location);
-    tiles ["" + location.horizontal + "_" + location.vertical] = tile
+    tiles [position_string (location)] = tile
     if (tile.horizontal) {
-      if (tile === floating_tile) {
-        for (var direction = 0; direction <6 ;++direction) {
-          follow_path({horizontal: tile.horizontal, vertical: tile.vertical}, direction, function(tile, from, towards) {
-            fill_component (tile, from, towards, "foo");
-          });
-        }
-      }
-      delete tiles ["" + tile.horizontal + "_" + tile.vertical]
+      delete tiles [position_string (tile)]
       create_border_tile ({horizontal: tile.horizontal, vertical: tile.vertical});
     }
     tile.horizontal = location.horizontal; tile.vertical = location.vertical;
     $(tile.element).css(calculate_transform (tile.element, location.horizontal, location.vertical, tile.rotation));
-    if (tile === floating_tile) {
-      for (var direction = 0; direction <6 ;++direction) {
-        follow_path({horizontal: location.horizontal, vertical: location.vertical}, direction, function(tile, from, towards) {
-          fill_component (tile, from, towards, "blue");
-        });
-      }
-    }
 
     if (!(tile.border || tile === floating_tile)) {
       create_borders_around (location);
     }
   }
   function get_tile (location) {
-    return tiles ["" + location.horizontal + "_" + location.vertical]
+    return tiles [position_string (location)]
   }
   
   function hack (horizontal, vertical) {
@@ -334,7 +360,7 @@ $(function(){
     }, 10);
   }
   for (var index = -5; index <=5;++index) {
-    for (var terrible = index-5; terrible <=index+5;terrible+=2) {
+    for (var terrible = index-6; terrible <=index+4;terrible+=2) {
       hack (index, terrible);
     }
   }
