@@ -262,16 +262,16 @@ $(function(){
   }
   
   function path_legality (path, placed_tile) {
+    var forbidden = false;
+    if (path.icons.length >1) {path.icons.forEach(function(tile) {
+      if (tile === placed_tile) {forbidden = true;}
+    });}
+    if (forbidden) {return "forbidden";}
+    
     if (!path.completed) {return "acceptable";}
     
     if (path.icons.length === 1) {return "waste";}
     if (path.icons.length === 0) {return "acceptable";}
-    
-    var forbidden = false;
-    path.icons.forEach(function(tile) {
-      if (tile === placed_tile) {forbidden = true;}
-    });
-    if (forbidden) {return "forbidden";}
     
     if (path.lock) {return "success";}
     return "success";
@@ -496,5 +496,56 @@ $(function(){
   }
   setTimeout (draw, 20);
   //draw();
+  
+  /*
+    The starting tile is ${player.name}, so ${player.name} goes first.
+    
+    ${player.name}'s turn!
+    
+    ${player.name}, you drew:
+    
+    [tile]
+    
+    move_instructions = tap a different border hex to try a different location. TODO if you want to rotate it.
+    
+    
+    Tap one of the border hexes to move it there.
+    
+    Great! Tap it again to put it there and pass your turn, or ${move_instructions}   
+
+    Whoops! You can't place it there because its icon connects to the ${path pre-existing icons description} that's already on the board. ${move_instructions}
+    
+    
+    Whoops! It's your own ${icon.icon}. You skip your turn. [Drat]
+    what's! It's ${player.name}'s ${icon.icon}, and ${player.name} already lost. You skip your turn. [Drat]
+    
+    ${player.name}, you skip your turn because ${ you couldn't connection effect}. [Drat]
+    
+    a connection has been formed! [Picture of the icons]
+    
+    Tie ${player.name}'s hands together in front of them! [Okay, done] [We can't do that]
+    
+    Why not? [${player.name} is already too tied up] [${player.name} only has one usable hand] [something else]
+    
+    Okay. ${Player.name} will skip their next 2 turns instead.
+    
+    Okay. We'll skip the connection this time.
+    
+    Re-tie ${player.name}'s hands together behind them!
+    Tie ${player.name}'s hand behind them!
+    
+    Tie ${player.name}'s ${icon.side} ${icon.icon} to their ${icon.side} ${icon.icon}!
+    
+    From now on, ${player0.name} can stimulate ${player1.name}'s ${stuff} with their ${stuff}!
+    ${player0.name} was already allowed to stimulate ${player1.name}'s ${stuff} with their ${stuff}, so ${player1} skips 2 turns instead.
+    
+    ${player.name}, choose a toy to be used on you. [Okay, done] [All my toys are already used]
+    
+    Tie X to Y!
+    Tie together all of these: []!
+    
+    (Probably only in multiplayer:)
+    [Click here if ${player.name} can't reach the board, and thus has lost the game]
+  */
   
 });
