@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="game.svg">
   <defs
      id="defs4">
@@ -26877,11 +26877,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="77.394672"
-     inkscape:cx="49.310257"
-     inkscape:cy="1063.2688"
+     inkscape:zoom="54.726297"
+     inkscape:cx="36.331596"
+     inkscape:cy="1064.7821"
      inkscape:document-units="px"
-     inkscape:current-layer="g14068"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1392"
      inkscape:window-height="974"
@@ -28372,7 +28372,7 @@
            inkscape:connector-curvature="0" />
         <path
            transform="matrix(-0.04540755,-0.10912858,0.10912858,-0.04540755,24.855283,39.07087)"
-           d="m 34.078125,12.87781 c 0,0.129441 -0.104933,0.234375 -0.234375,0.234375 -0.129442,0 -0.234375,-0.104934 -0.234375,-0.234375 0,-0.129442 0.104933,-0.234375 0.234375,-0.234375 0.129442,0 0.234375,0.104933 0.234375,0.234375 z"
+           d="M 34.078125,12.87781 A 0.234375,0.234375 0 0 1 33.84375,13.112185 0.234375,0.234375 0 0 1 33.609375,12.87781 0.234375,0.234375 0 0 1 33.84375,12.643435 0.234375,0.234375 0 0 1 34.078125,12.87781 Z"
            sodipodi:ry="0.234375"
            sodipodi:rx="0.234375"
            sodipodi:cy="12.87781"
@@ -32489,41 +32489,34 @@
          id="tspan12745">Connection effects</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.20833249px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSansDemiCond10;-inkscape-font-specification:LMSansDemiCond10 Semi-Bold"
-       x="35.931442"
-       y="-7.1513658"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.20833249px;line-height:100%;font-family:LMSansDemiCond10;-inkscape-font-specification:'LMSansDemiCond10 Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="35.867489"
+       y="-7.1970477"
        id="text12747"
        sodipodi:linespacing="100%"
        inkscape:export-filename="/n/art/hex_sex_game/rules_3.png"
        inkscape:export-xdpi="27000"
        inkscape:export-ydpi="27000"><tspan
          sodipodi:role="line"
-         x="35.931442"
-         y="-7.1513658"
-         style="font-size:0.20833249px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans10;-inkscape-font-specification:LMSans10"
-         id="tspan14178">If there’s nothing left that the</tspan><tspan
+         x="35.867489"
+         y="-7.1970477"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.20833249px;line-height:100%;font-family:LMSans10;-inkscape-font-specification:LMSans10;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan14203">If the same connection is</tspan><tspan
          sodipodi:role="line"
-         x="35.931442"
-         y="-6.9430332"
-         style="font-size:0.20833249px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans10;-inkscape-font-specification:LMSans10"
-         id="tspan14197">connection effect can change,</tspan><tspan
+         x="35.867489"
+         y="-6.9887152"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.20833249px;line-height:100%;font-family:LMSans10;-inkscape-font-specification:LMSans10;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan50731">repeated, and there's nothing</tspan><tspan
          sodipodi:role="line"
-         x="35.931442"
-         y="-6.7347007"
-         style="font-size:0.20833249px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans10;-inkscape-font-specification:LMSans10"
-         id="tspan14199">you take a penalty: You lose a</tspan><tspan
+         x="35.867489"
+         y="-6.7803826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.20833249px;line-height:100%;font-family:LMSans10;-inkscape-font-specification:LMSans10;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan50733">left for it to do to you, you skip</tspan><tspan
          sodipodi:role="line"
-         x="35.931442"
-         y="-6.5256052"
-         style="font-size:0.20833249px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans10;-inkscape-font-specification:LMSans10"
-         id="tspan14201"><tspan
-   style="font-weight:bold"
-   id="tspan14205">scissors</tspan>, or if you have none,</tspan><tspan
-         sodipodi:role="line"
-         x="35.931442"
-         y="-6.3172727"
-         style="font-size:0.20833249px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:LMSans10;-inkscape-font-specification:LMSans10"
-         id="tspan14203">you skip two turns.</tspan></text>
+         x="35.867489"
+         y="-6.5720501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.20833249px;line-height:100%;font-family:LMSans10;-inkscape-font-specification:LMSans10;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan50735">your next two turns instead.</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect13047"
@@ -32880,7 +32873,7 @@
          sodipodi:open="true"
          sodipodi:end="7.8539816"
          sodipodi:start="5.7594013"
-         d="M 0.32905445,-0.19006095 C 0.43402222,-0.0083292 0.37179271,0.22408668 0.19006095,0.32905445 0.13227917,0.36242905 0.06672781,0.37999999 1.2910303e-8,0.38"
+         d="m 0.32905445,-0.19006095 a 0.38,0.38 0 0 1 5.28e-5,0.38003046 A 0.38,0.38 0 0 1 1.2910303e-8,0.38"
          sodipodi:ry="0.38"
          sodipodi:rx="0.38"
          sodipodi:cy="0"
@@ -32896,7 +32889,7 @@
          sodipodi:cy="0"
          sodipodi:rx="0.62"
          sodipodi:ry="0.62"
-         d="M 0.53687832,-0.31009945 C 0.70814152,-0.01358974 0.60660917,0.36561512 0.31009945,0.53687832 0.21582391,0.59133162 0.10887169,0.62 2.106418e-8,0.62"
+         d="M 0.53687832,-0.31009945 A 0.62,0.62 0 0 1 0.53696447,0.30995026 0.62,0.62 0 0 1 2.106418e-8,0.62"
          sodipodi:start="5.7594013"
          sodipodi:end="7.8539816"
          sodipodi:open="true" />
@@ -32918,7 +32911,7 @@
          sodipodi:cy="0.5"
          sodipodi:rx="1.38"
          sodipodi:ry="1.38"
-         d="M 0.32898723,-0.19022136 C 0.57562525,0.23678555 0.57567397,0.76294744 0.32911504,1.19"
+         d="M 0.32898723,-0.19022136 A 1.38,1.38 0 0 1 0.32911504,1.19"
          sodipodi:start="5.7594013"
          sodipodi:end="6.8067841"
          sodipodi:open="true" />
@@ -32926,7 +32919,7 @@
          sodipodi:open="true"
          sodipodi:end="6.8067841"
          sodipodi:start="5.7594013"
-         d="M 0.5368111,-0.31025986 C 0.82634269,0.19100912 0.82639989,0.80867743 0.53696115,1.31"
+         d="M 0.5368111,-0.31025986 A 1.62,1.62 0 0 1 0.53696115,1.31"
          sodipodi:ry="1.62"
          sodipodi:rx="1.62"
          sodipodi:cy="0.5"
@@ -33084,7 +33077,7 @@
          sodipodi:cy="-0.25"
          sodipodi:rx="0.12"
          sodipodi:ry="0.12"
-         d="m 0.53692462,-0.31001925 c 0.0331477,0.057389 0.0134963,0.13078347 -0.0438927,0.16393118 -0.057389,0.0331477 -0.13078346,0.0134963 -0.16393118,-0.0438927 -3.7e-6,-6.42e-6 -7.4e-6,-1.283e-5 -1.111e-5,-1.924e-5"
+         d="m 0.53692462,-0.31001925 a 0.12,0.12 0 0 1 1.853e-5,0.12000641 A 0.12,0.12 0 0 1 0.43302011,-0.13 a 0.12,0.12 0 0 1 -0.10393046,-0.06"
          sodipodi:start="5.7594013"
          sodipodi:end="8.9011791"
          sodipodi:open="true"
@@ -42650,7 +42643,6 @@
         <g
            id="g313">
           <circle
-             d="m 253.36866,90.224609 c 0,5.96821 -4.83819,10.806401 -10.8064,10.806401 -5.96821,0 -10.8064,-4.838191 -10.8064,-10.806401 0,-5.96821 4.83819,-10.8064 10.8064,-10.8064 5.96821,0 10.8064,4.83819 10.8064,10.8064 z"
              style="fill:#ffffff"
              sodipodi:ry="10.8064"
              sodipodi:rx="10.8064"
@@ -42667,7 +42659,6 @@
                d="m 245.68994,87.09766 c 0,-0.4165 -0.33789,-0.75342 -0.75391,-0.75342 l -4.77246,0 c -0.41602,0 -0.75391,0.33691 -0.75391,0.75342 l 0,4.77295 1.33105,0 0,5.65234 3.61719,0 0,-5.65234 1.33203,0 0,-4.77295 L 245.68994,87.09766 Z"
                inkscape:connector-curvature="0" />
             <circle
-               d="m 244.18212,84.083008 c 0,0.901505 -0.73081,1.63232 -1.63232,1.63232 -0.9015,0 -1.63232,-0.730815 -1.63232,-1.63232 0,-0.901506 0.73082,-1.63232 1.63232,-1.63232 0.90151,0 1.63232,0.730814 1.63232,1.63232 z"
                sodipodi:ry="1.63232"
                sodipodi:rx="1.63232"
                sodipodi:cy="84.083008"
