@@ -4,6 +4,13 @@ $(function(){
   function get_link (whatever) {return whatever.getAttributeNS('http://www.w3.org/1999/xlink', 'href'); }
   function set_link (whatever, value) {return whatever.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', value); }
   
+  function iterate_sources (element, callback) {
+    callback (element);
+    var link = get_link (element);
+    if (link) {iterate_sources (document.getElementById (link.slice (1)), callback);}
+    $(element).children().each (function() {iterate_sources (this, callback);});
+  }
+  
   function random_range (min, max) {
     return min + Math.floor (Math.random()*(max - min));
   }
@@ -134,8 +141,20 @@ $(function(){
   });
   
   Object.getOwnPropertyNames(icons_table).forEach(function(id) {
-    var icon_info = icons_table [id];
-    icon_info .id = id;
+    var info = icons_table [id];
+    info .id = id;
+    iterate_sources (document.getElementById (id), function(source) {
+      if (info . color === "black") {
+        if (source.style.fill === "rgb(0, 0, 0)") {source.style.fill = "var(--icon-fill)";}
+        if (source.style.stroke === "rgb(255, 255, 255)") {source.style.stroke = "var(--icon-stroke)";}
+        if (source.style.fill === "rgb(255, 255, 255)") {source.style.fill = "var(--icon-stroke)";}
+      }
+      if (info . color === "white") {
+        if (source.style.fill === "rgb(255, 255, 255)") {source.style.fill = "var(--icon-fill)";}
+        if (source.style.stroke === "rgb(0, 0, 0)") {source.style.stroke = "var(--icon-stroke)";}
+        if (source.style.fill === "rgb(0, 0, 0)") {source.style.fill = "var(--icon-stroke)";}
+      }
+    });
   });
   
   
@@ -330,7 +349,16 @@ $(function(){
     return {"transform-origin": transform_origin, transform: transform}
   }
   
-  var tiles = {}
+  var players = [
+    {based_on: "white", name: "white", fill: "#ffffff", stroke: "#000000"},
+    {based_on: "black", name: "black", fill: "#000000", stroke: "#ffffff"},
+    {based_on: "white", name: "pink", fill: "#ffaaff", stroke: "#ff00ff"},
+    {based_on: "white", name: "green", fill: "#99ff99", stroke: "#008800"},
+    {based_on: "black", name: "blue", fill: "#0000ff", stroke: "#ffffff"},
+    {based_on: "black", name: "purple", fill: "#5500aa", stroke: "#ffffff"},
+  ];
+  
+  var tiles = {};
   var floating_tile;
   
   function create_clone (id) {
@@ -345,10 +373,11 @@ $(function(){
   function create_tile (id, rotation) {
     var element = create_clone (id);
     var tile = {rotation, element};
+    var icon = get_icon (element);
     $(element).addClass("tile").click(function() {
       if (tile === floating_tile) {
         create_borders_around (tile);
-        floating_tile = create_tile(random_choice (tile_ids), 0);
+        floating_tile = create_random_tile ();
       } else {
         //draw_path(tile.horizontal, tile.vertical, 0);
       }
@@ -358,16 +387,30 @@ $(function(){
   function create_random_tile () {
     var choose_icon = Math.random() < 0.7;
     var id;
+    var player;
     while (true) {
       id = random_choice (tile_ids);
       var icon = icons_by_tile_id[id];
       var info = info_by_tile_id[id];
+      
       //console.log(info.weight*(icon && icon.weight || 1));
       if ((!!icon === !!choose_icon) && (Math.random()*10000 < info.weight*(icon && icon.weight || 1))) {
-        break;
+        //hack: preserve the ratio of player-specific icons to non-player-specific icons, regardless of the number of players
+        if (icon && icon.color && !player) {
+          player = random_choice (players);
+        }
+        if (!(player && icon.color !== player.based_on)) {
+          break;
+        }
       }
     }
-    return create_tile(id, random_range (0, 6));
+    var result = create_tile(id, random_range (0, 6));
+    result.player = player;
+    if (player) {
+      result.element.style.setProperty ("--icon-fill", player.fill);
+      result.element.style.setProperty ("--icon-stroke", player.stroke);
+    }
+    return result;
   }
   function create_border_tile (location) {
     var element = create_clone (blank_hex_id);
