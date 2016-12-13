@@ -11,12 +11,28 @@ $(function(){
     return sequence [random_range (0, sequence.length)];
   }
   
+  var game_height;
+  var game_width;
+  function update_dimensions() {
+    game_height = $(window).height();
+    game_width = $(window).width();
+    $("svg").width (game_width).height(game_height);
+  }
+  update_dimensions();
+  var board = document.createElementNS("http://www.w3.org/2000/svg", 'g');
+  board.setAttribute ("id", "board");
+  $("svg").append (board);
+  $("#board").css({["transform-origin"]: "0px 0px 0px"
+    //, "transition-delay": "1.5s"
+  });
+  
   var tile_ids = window.hexy_tile_ids
   var blank_hex_id = "g7168"
   var long_radius = 36;
   var short_radius = long_radius*0.866;
   
   function tile_position (horizontal, vertical) {
+    if (vertical === undefined) {vertical = horizontal.vertical; horizontal = horizontal.horizontal;}
     return {horizontal: horizontal*1.5*long_radius, vertical: vertical*short_radius}
   }
   
@@ -308,7 +324,7 @@ $(function(){
     var transform = (
       //"translate("+ (-(offset.x+0.5*offset.width))+"px, "+ (-(offset.y+0.5*offset.height))+"px)"
       "translate("+ (-(offset_horizontal))+"px, "+ (-(offset_vertical))+"px)"
-      +" translate(500px, 300px) translate(" + position.horizontal + "px," + position.vertical + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius+ "," + long_radius+ ")"
+      +" translate(" + position.horizontal + "px," + position.vertical + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius+ "," + long_radius+ ")"
     );
     //console.log (transform);
     return {"transform-origin": transform_origin, transform: transform}
@@ -323,7 +339,7 @@ $(function(){
     //console.log (get_link (whatever));
     whatever.setAttribute("x", 0);
     whatever.setAttribute("y", 0);
-    $("svg").append(whatever);
+    $("#board").append(whatever);
     return whatever;
   }
   function create_tile (id, rotation) {
@@ -414,4 +430,28 @@ $(function(){
     }
   }
   floating_tile = create_random_tile ();
+
+  
+  function draw() {
+    requestAnimationFrame (draw);
+    update_dimensions();
+    var min_horizontal = 0;
+    var max_horizontal = 0;
+    var min_vertical = 0;
+    var max_vertical = 0;
+    iterate_tiles (function (tile) {
+      var position = tile_position (tile);
+      min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
+      max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius);
+      min_vertical = Math.min (min_vertical , position.vertical - short_radius);
+      max_vertical = Math.max(max_vertical , position.vertical + short_radius);
+    });
+    var scale = Math.min (game_width/(max_horizontal - min_horizontal), game_height/(max_vertical - min_vertical));
+    var transform ="translate(" + (game_width - max_horizontal*scale - min_horizontal*scale)/2 + "px, "+ (game_height - max_vertical*scale - min_vertical*scale)/2 + "px) scale("+ scale+","+ scale +")";
+    console.log (transform);
+    $("#board").css({transform});
+  }
+  setTimeout (draw, 20);
+  //draw();
+  
 });
