@@ -299,16 +299,23 @@ $(function(){
   }
   
   function refresh_paths() {
-    iterate_tiles (function(tile) {
-      for (var direction = 0; direction <6 ;++direction) {
-        for (var destination = direction + 1; destination <6 ;++destination) {
-          tile.element.style.setProperty ("--path-fill-" + direction + "-" + destination, "#808080");
-        }
-        tile.element.style.setProperty ("--path-fill-" + direction + "-dead", "#808080");
-        tile.element.style.setProperty ("--path-fill-" + direction + "-icon", "#808080");
-        tile.element.style.setProperty ("--path-fill-lock", "#808080");
+    iterate_tiles (function(tile) {if (!tile.border) {
+      function do_connection (identifier) {
+        tile.element.style.setProperty ("--path-fill-" + identifier, "#808080");
       }
-    });
+      get_tile_info (tile.element).connections.forEach(function(connection, index) {
+        if (typeof connection == "number") {
+          if (index <connection) {
+            do_connection (index + "-" + connection);
+          }
+        }
+        else if (connection == "lock") {
+          do_connection ("lock");
+        } else {
+          do_connection (index + "-" + connection);
+        }
+      });
+    }});
     collect_paths (floating_tile).forEach(function(path) {
       var fill = legality_fill [path_legality (path, floating_tile)];
       path.components.forEach(function(component) {
@@ -491,7 +498,7 @@ $(function(){
     });
     var scale = Math.min (game_width/(max_horizontal - min_horizontal), game_height/(max_vertical - min_vertical));
     var transform ="translate(" + (game_width - max_horizontal*scale - min_horizontal*scale)/2 + "px, "+ (game_height - max_vertical*scale - min_vertical*scale)/2 + "px) scale("+ scale+","+ scale +")";
-    console.log (transform);
+    //console.log (transform);
     $("#board").css({transform});
   }
   setTimeout (draw, 20);
