@@ -56,7 +56,7 @@ But yesterday I think I finally got excited about something again &ndash; contin
 "title": "Whoops, we are violating people's freedom of speech all the time",
 "tags": ["philosophical"],
 "auto_paragraphs": True,
-"blurb": "",
+"blurb": "It's not enough to say “I will never punish any speech”.",
 "contents":'''
 
 "Freedom of speech" can mean a lot of different things, but mostly boils down to this: <em>Don't punish people for what they say</em>. Different people have different reasons for thinking this is important. Here are a few perspectives:
@@ -77,7 +77,7 @@ Scenario #1: If you're caught denouncing the tyrant, the tyrant's soldiers will 
 
 Scenario #2: You are already in a hole. The tyrant's soldiers don't care what you say. A few people are willing to feed you, but only in exchange for you consistently praising the tyrant.
 
-Do you have more freedom of speech in scenario #2? Of course not. For perspectives A and B, the incentive for you to stay quiet is the same. For perspective C, the material harm to you is also the same, or worse. The only difference is that there's not such an obvious "bad guy".
+Do you have more freedom of speech in scenario #2? Of course not. For <cut>perspectives A and B, the incentive for you to stay quiet is the same. For perspective C, the material harm to you is also the same, or worse. The only difference is that there's not such an obvious "bad guy".
 
 Scenario #2 is the <em>de facto</em> state of freedom-of-speech in a lot of the United States. Even in my middle-class community, a lot of people change how they talk online because they're afraid of losing their jobs. And I've heard that it's much worse among working-class people, who have less job security and less ability to bring lawsuits if their bosses fire them illegally.
 
