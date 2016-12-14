@@ -51,6 +51,60 @@ But yesterday I think I finally got excited about something again &ndash; contin
 ''',
 },
 
+
+{
+"title": "Whoops, we are violating people's freedom of speech all the time",
+"tags": ["philosophical"],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+"Freedom of speech" can mean a lot of different things, but mostly boils down to this: <em>Don't punish people for what they say</em>. Different people have different reasons for thinking this is important. Here are a few perspectives:
+
+<ol type="A">
+<li>People benefit individually from saying what they want to.</li>
+<li>Society as a whole benefits from people saying what they want to.</li>
+<li>Punishment causes material harm to people (regardless of whether there's a justification for it).</li>
+</ol>
+
+For C, the size of the punishment is important. Killing someone for denouncing the tyrant is much worse than yelling at someone for denouncing the tyrant. But for A and B, the only thing that matters is <em>what speech actually happened</em>. If 10 people stay quiet because they're afraid of being yelled at, that has the <em>same</em> effect as 10 people staying quiet because they're afraid of being killed, or 10 people having their messages blocked by official censorship. This will be important later.
+
+<h2>Here's one way we screw it up</h2>
+
+Consider these two scenarios:
+
+Scenario #1: If you're caught denouncing the tyrant, the tyrant's soldiers will throw you in a hole until you starve.
+
+Scenario #2: You are already in a hole. The tyrant's soldiers don't care what you say. A few people are willing to feed you, but only in exchange for you consistently praising the tyrant.
+
+Do you have more freedom of speech in scenario #2? Of course not. For perspectives A and B, the incentive for you to stay quiet is the same. For perspective C, the material harm to you is also the same, or worse. The only difference is that there's not such an obvious "bad guy".
+
+Scenario #2 is the <em>de facto</em> state of freedom-of-speech in a lot of the United States. Even in my middle-class community, a lot of people change how they talk online because they're afraid of losing their jobs. And I've heard that it's much worse among working-class people, who have less job security and less ability to bring lawsuits if their bosses fire them illegally.
+
+In our current system, most people have to sell their labor in order to survive. And for many people, it won't be easy to find a new job if they lose their current one. As long as these two things are true, the threat of losing your job is in the same general category as the threat of being beaten up or put in prison. Your freedom of speech is only as strong as your social safety net.
+
+If you're interested in protecting freedom of speech, creating a <a href="https://en.wikipedia.org/wiki/Basic_income">universal basic income</a> might be the most effective policy.
+
+<h2>Another situation</h2>
+
+Again, two scenarios:
+
+Scenario #3: I run an online community. Joe the sexist troll says rude things to the female members whenever they say anything. As a result, many of the female members hesitate to speak up, and a lot of them leave.
+
+Scenario #4: I ban Joe from the community. Everyone else is fine.
+
+In scenario #4, I did technically <em>punish somebody for what they said</em>. But as a result, more people found the opportunity to say what they wanted to. Thus, under perspectives A and B, there was <em>more total freedom of speech</em>. There's a small trade-off &ndash; I don't <em>intrinsically</em> want to stop Joe from having fun, but stopping Joe from having fun accomplishes a greater good for other people.
+
+If you're deciding policy for a group, and you want to make sure that the group members can speak freely, it's not enough to say "I will never punish any speech". You have to consider what problems might discourage the members from speaking. If you have harassers in your group, what are you going to do about them? If some members have more resources or influence than others, how do you make sure they don't control the conversation? If you've misused your own authority in the past, how do you assure people that they're safe speaking in front of you this time?
+
+
+
+
+
+''',
+},
+
+
 ]
 
 """
@@ -66,5 +120,4 @@ But yesterday I think I finally got excited about something again &ndash; contin
 
 ''',
 },
-
 """
