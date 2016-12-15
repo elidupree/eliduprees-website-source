@@ -379,7 +379,7 @@ $(function(){
       result.transform = result.transform + (
         " translate(" + (long_radius*2) + "px," + (short_radius*2) + "px) rotate("+(-0.0833 + tile.graphical_rotation /6)+"turn) scale(" + radius+ "," + radius+ ")"
       );
-      console.log (result.transform);
+      //console.log (result.transform);
       $(tile.element).css(result);
     }
   }
@@ -551,6 +551,7 @@ $(function(){
     refresh_paths ();
   }));
   $("#tile_controls").append ($("<button>").text ("place tile").click (function() {
+    if (floating_tile.horizontal === undefined) {return;}
     create_borders_around (floating_tile);
     floating_tile = create_random_tile ();
     update_position (floating_tile) ;
