@@ -362,7 +362,7 @@ $(function(){
   }
   function update_position (tile) {
     if (tile.horizontal !== undefined) {
-      $(tile.element).css(calculate_transform (tile.element, tile.horizontal, tile.vertical, tile.rotation));
+      $(tile.element).css(calculate_transform (tile.element, tile.horizontal, tile.vertical, tile.graphical_rotation));
     }
   }
   
@@ -389,7 +389,7 @@ $(function(){
   }
   function create_tile (id, rotation) {
     var element = create_clone (id);
-    var tile = {rotation, element};
+    var tile = {rotation, graphical_rotation: rotation, element};
     var icon = get_icon (element);
     $(element).addClass("tile").click(function() {
       if (tile === floating_tile) {
@@ -519,11 +519,13 @@ $(function(){
   
   $("#tile_controls").append ($("<button>").text ("rotate left").click (function() {
     floating_tile.rotation = (floating_tile.rotation + 5) % 6;
+    floating_tile.graphical_rotation -= 1;
     update_position (floating_tile) ;
     refresh_paths ();
   }));
   $("#tile_controls").append ($("<button>").text ("rotate right").click (function() {
     floating_tile.rotation = (floating_tile.rotation + 1) % 6;
+    floating_tile.graphical_rotation += 1;
     update_position (floating_tile) ;
     refresh_paths ();
   }));
