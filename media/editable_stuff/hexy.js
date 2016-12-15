@@ -532,7 +532,8 @@ $(function(){
     floating_tile = create_random_tile ();
     refresh_paths();
   }));
-  
+  $("#tile_controls").css({position: "fixed",left:0,top:"50%"});  
+  $("#tile_controls button").css({display:"block"});  
   /*
     The starting tile is ${player.name}, so ${player.name} goes first.
     
