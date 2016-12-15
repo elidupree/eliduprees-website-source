@@ -23,7 +23,7 @@ $(function(){
   function update_dimensions() {
     game_height = $(window).height();
     game_width = $(window).width();
-    $("svg").width (game_width).height(game_height);
+    //$("svg").width (game_width).height(game_height);
   }
   update_dimensions();
   var board = document.createElementNS("http://www.w3.org/2000/svg", 'g');
@@ -528,9 +528,12 @@ $(function(){
       min_vertical = Math.min (min_vertical , position.vertical - short_radius);
       max_vertical = Math.max(max_vertical , position.vertical + short_radius);
     });
-    var scale = Math.min (game_width/(max_horizontal - min_horizontal), game_height/(max_vertical - min_vertical));
-    var transform ="translate(" + (game_width - max_horizontal*scale - min_horizontal*scale)/2 + "px, "+ (game_height - max_vertical*scale - min_vertical*scale)/2 + "px) scale("+ scale+","+ scale +")";
+    //var scale = Math.min (game_width/(max_horizontal - min_horizontal), game_height/(max_vertical - min_vertical));
+    //var transform ="translate(" + (game_width - max_horizontal*scale - min_horizontal*scale)/2 + "px, "+ (game_height - max_vertical*scale - min_vertical*scale)/2 + "px) scale("+ scale+","+ scale +")";
+    var transform ="translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)";
+    
     //console.log (transform);
+    $("svg").width (max_horizontal - min_horizontal).height(max_vertical - min_vertical);
     $("#board").css({transform});
   }
   setTimeout (draw, 20);
