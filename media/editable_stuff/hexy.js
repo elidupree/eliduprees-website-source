@@ -122,6 +122,7 @@ $(function(){
         //console.log (info.pieces [piece_index]);
         var piece_element = document.getElementById (info.pieces [piece_index]);
         piece_element.style.setProperty ("--path-fill", "var(--path-fill-" + identifier +")");
+        //piece_element.style.setProperty ("transition-delay", "1s");
         ++piece_index;
       }
       if (typeof connection == "number") {
@@ -138,6 +139,10 @@ $(function(){
         do_connection (index + "-" + connection);
       }
     });}
+    iterate_sources (document.getElementById (id), function(source) {
+      //if (source.style.fill) {source.style.setProperty ("transition-delay", "1s"); }
+      source.style.removeProperty ("filter");
+    });
   });
   
   Object.getOwnPropertyNames(icons_table).forEach(function(id) {
