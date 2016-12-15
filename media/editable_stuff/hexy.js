@@ -337,7 +337,7 @@ $(function(){
     });
   }*/
   
-  function calculate_transform (clone, horizontal, vertical, rotation) {
+  function neutral_transform (clone) {
     var original = $(get_link (clone))[0];
     
     //does not take into account clipping paths
@@ -351,18 +351,36 @@ $(function(){
     //console.log (offset);
     var transform_origin = ""+(offset_horizontal)+"px "+(offset_vertical)+"px 0px"//"50% 50% 0";//""+ (offset.x+0.5*offset.width)+"px "+ (offset.y+0.5*offset.height)+"px 0px";
     //console.log (transform_origin);
-    var position = tile_position (horizontal, vertical);
     var transform = (
       //"translate("+ (-(offset.x+0.5*offset.width))+"px, "+ (-(offset.y+0.5*offset.height))+"px)"
       "translate("+ (-(offset_horizontal))+"px, "+ (-(offset_vertical))+"px)"
-      +" translate(" + position.horizontal + "px," + position.vertical + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius+ "," + long_radius+ ")"
     );
     //console.log (transform);
     return {"transform-origin": transform_origin, transform: transform}
   }
+  function calculate_transform (clone, horizontal, vertical, rotation) {
+    var result = neutral_transform (clone);
+    
+    var position = tile_position (horizontal, vertical);
+    result.transform = result.transform + (
+      " translate(" + position.horizontal + "px," + position.vertical + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius+ "," + long_radius+ ")"
+    );
+    //console.log (transform);
+    return result
+  }
   function update_position (tile) {
     if (tile.horizontal !== undefined) {
       $(tile.element).css(calculate_transform (tile.element, tile.horizontal, tile.vertical, tile.graphical_rotation));
+    }
+    else {
+      var result = neutral_transform (tile.element);
+      
+      var radius = long_radius*2;
+      result.transform = result.transform + (
+        " translate(" + (long_radius*2) + "px," + (short_radius*2) + "px) rotate("+(-0.0833 + tile.graphical_rotation /6)+"turn) scale(" + radius+ "," + radius+ ")"
+      );
+      console.log (result.transform);
+      $(tile.element).css(result);
     }
   }
   
@@ -491,7 +509,10 @@ $(function(){
     }
   }
   floating_tile = create_random_tile ();
-
+  setTimeout (function() {
+    update_position (floating_tile) ;
+    refresh_paths();
+  }, 15);
   
   function draw() {
     requestAnimationFrame (draw);
@@ -532,6 +553,7 @@ $(function(){
   $("#tile_controls").append ($("<button>").text ("place tile").click (function() {
     create_borders_around (floating_tile);
     floating_tile = create_random_tile ();
+    update_position (floating_tile) ;
     refresh_paths();
   }));
   $("#tile_controls").css({position: "fixed",left:0,top:"50%"});  
