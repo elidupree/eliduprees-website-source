@@ -214,7 +214,9 @@ when their “opponent” is too tied up to reach the board.
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
+    <div id="messages"></div>
     '''+ trimmed_svg+'''
+    <div id="tile_controls"></div>
   </div>
 </main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
 

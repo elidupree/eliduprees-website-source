@@ -321,12 +321,12 @@ $(function(){
         }
       });
     }});
-    collect_paths (floating_tile).forEach(function(path) {
+    if (floating_tile.horizontal !== undefined) {collect_paths (floating_tile).forEach(function(path) {
       var fill = legality_fill [path_legality (path, floating_tile)];
       path.components.forEach(function(component) {
         fill_component (component.tile, component.from, component.towards, fill);
       });
-    });
+    });}
   }
   
   /*function draw_path (horizontal, vertical, from_direction, towards) {
@@ -360,6 +360,11 @@ $(function(){
     //console.log (transform);
     return {"transform-origin": transform_origin, transform: transform}
   }
+  function update_position (tile) {
+    if (tile.horizontal !== undefined) {
+      $(tile.element).css(calculate_transform (tile.element, tile.horizontal, tile.vertical, tile.rotation));
+    }
+  }
   
   var players = [
     {based_on: "white", name: "white", fill: "#ffffff", stroke: "#000000"},
@@ -388,8 +393,9 @@ $(function(){
     var icon = get_icon (element);
     $(element).addClass("tile").click(function() {
       if (tile === floating_tile) {
-        create_borders_around (tile);
+        /*create_borders_around (tile);
         floating_tile = create_random_tile ();
+        refresh_paths();*/
       } else {
         //draw_path(tile.horizontal, tile.vertical, 0);
       }
@@ -457,8 +463,8 @@ $(function(){
       create_border_tile ({horizontal: tile.horizontal, vertical: tile.vertical});
     }
     tile.horizontal = location.horizontal; tile.vertical = location.vertical;
-    $(tile.element).css(calculate_transform (tile.element, location.horizontal, location.vertical, tile.rotation));
-
+    update_position (tile) ;
+    
     if (!(tile.border || tile === floating_tile)) {
       create_borders_around (location);
     }
@@ -508,6 +514,24 @@ $(function(){
   }
   setTimeout (draw, 20);
   //draw();
+  
+  
+  
+  $("#tile_controls").append ($("<button>").text ("rotate left").click (function() {
+    floating_tile.rotation = (floating_tile.rotation + 5) % 6;
+    update_position (floating_tile) ;
+    refresh_paths ();
+  }));
+  $("#tile_controls").append ($("<button>").text ("rotate right").click (function() {
+    floating_tile.rotation = (floating_tile.rotation + 1) % 6;
+    update_position (floating_tile) ;
+    refresh_paths ();
+  }));
+  $("#tile_controls").append ($("<button>").text ("place tile").click (function() {
+    create_borders_around (floating_tile);
+    floating_tile = create_random_tile ();
+    refresh_paths();
+  }));
   
   /*
     The starting tile is ${player.name}, so ${player.name} goes first.
