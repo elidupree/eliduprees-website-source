@@ -301,6 +301,7 @@ $(function(){
       }
     }
     find (get_tile ({horizontal: 0, vertical: 0}));
+    callback (floating_tile);
   }
   
   function refresh_paths() {
@@ -388,10 +389,10 @@ $(function(){
   var players = [
     {based_on: "white", name: "white", fill: "#ffffff", stroke: "#000000"},
     {based_on: "black", name: "black", fill: "#000000", stroke: "#ffffff"},
-    {based_on: "white", name: "pink", fill: "#ffaaff", stroke: "#ff00ff"},
+    /*{based_on: "white", name: "pink", fill: "#ffaaff", stroke: "#ff00ff"},
     {based_on: "white", name: "green", fill: "#99ff99", stroke: "#008800"},
     {based_on: "black", name: "blue", fill: "#0000ff", stroke: "#ffffff"},
-    {based_on: "black", name: "purple", fill: "#5500aa", stroke: "#ffffff"},
+    {based_on: "black", name: "purple", fill: "#5500aa", stroke: "#ffffff"},*/
   ];
   
   var tiles = {};
@@ -451,6 +452,7 @@ $(function(){
   function create_border_tile (location) {
     var element = create_clone (blank_hex_id);
     $(element).addClass("tile border").css(calculate_transform (element, location.horizontal, location.vertical, 0)).click(function() {
+      if (skip_turn) {return;}
       set_tile (location, floating_tile);
       refresh_paths();
     });
@@ -521,6 +523,7 @@ $(function(){
     var min_vertical = 0;
     var max_vertical = 0;
     iterate_tiles (function (tile) {
+      if (tile === floating_tile) {return;}
       var position = tile_position (tile);
       min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
       max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius);
@@ -539,20 +542,25 @@ $(function(){
   //draw();
   
   
+  var skip_turn = false;
+  
   
   $("#tile_controls").append ($("<button>").text ("rotate left").click (function() {
+    if (skip_turn) {return;}
     floating_tile.rotation = (floating_tile.rotation + 5) % 6;
     floating_tile.graphical_rotation -= 1;
     update_position (floating_tile) ;
     refresh_paths ();
   }));
   $("#tile_controls").append ($("<button>").text ("rotate right").click (function() {
+    if (skip_turn) {return;}
     floating_tile.rotation = (floating_tile.rotation + 1) % 6;
     floating_tile.graphical_rotation += 1;
     update_position (floating_tile) ;
     refresh_paths ();
   }));
   $("#tile_controls").append ($("<button>").text ("place tile").click (function() {
+    if (skip_turn) {return;}
     if (floating_tile.horizontal === undefined) {return;}
     var legalities = {};
     collect_paths (floating_tile).forEach(function(path) {
@@ -568,18 +576,37 @@ $(function(){
   
   var current_player_index = 0;
   function begin_turn() {
-    current_player_index = (current_player_index + 1) % 6;
+    current_player_index = (current_player_index + 1) % players.length;
     var player = players [current_player_index];
     
     floating_tile = create_random_tile ();
+    update_position (floating_tile) ;
+    refresh_paths();
+    var icon = get_icon (floating_tile.element);
     
-    $("#messages").empty().css({"background-color":"#ffcccc"}).append (
-      `${player.name}, you drew:`,
+    function paragraph (text) { return $("<p>").text (text);}
+    var drat = $("<button>").text ("Drat").click (function() {
+      begin_turn();
+    });
+    
+    $("#messages").empty().css({"background-color":"#ffcccc", "text-align": "center "}).append (paragraph (`${player.name}'s turn!`));
+    
+    
+    $("#messages").append (
+      paragraph (`${player.name}, you drew:`),
       $(`<svg width="${long_radius*2}" height="${short_radius*2}">`).append (floating_tile.element)
     );
     
-    update_position (floating_tile) ;
-    refresh_paths();
+    if (floating_tile.player === player && (icon.icon === "torso" || icon.icon === "crotch")) {
+      skip_turn = true;
+      $("#messages").append (
+        paragraph (`Whoops! It's your own ${icon.icon}. You skip your turn.`),
+        drat
+      );
+      return;
+    }
+    
+    skip_turn = false;
   }
   /*
     The starting tile is ${player.name}, so ${player.name} goes first.
