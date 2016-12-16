@@ -28,7 +28,7 @@ $(function(){
   update_dimensions();
   var board = document.createElementNS("http://www.w3.org/2000/svg", 'g');
   board.setAttribute ("id", "board");
-  $("svg").append (board);
+  $("svg").attr("id", "main_display").append (board);
   $("#board").css({["transform-origin"]: "0px 0px 0px"
     //, "transition-delay": "1.5s"
   });
@@ -370,14 +370,15 @@ $(function(){
   }
   function update_position (tile) {
     if (tile.horizontal !== undefined) {
+      $("#board").append(tile.element);
       $(tile.element).css(calculate_transform (tile.element, tile.horizontal, tile.vertical, tile.graphical_rotation));
     }
     else {
       var result = neutral_transform (tile.element);
       
-      var radius = long_radius*2;
+      var radius = long_radius;
       result.transform = result.transform + (
-        " translate(" + (long_radius*2) + "px," + (short_radius*2) + "px) rotate("+(-0.0833 + tile.graphical_rotation /6)+"turn) scale(" + radius+ "," + radius+ ")"
+        " translate(" + (radius) + "px," + (radius*short_radius/long_radius) + "px) rotate("+(-0.0833 + tile.graphical_rotation /6)+"turn) scale(" + radius+ "," + radius+ ")"
       );
       //console.log (result.transform);
       $(tile.element).css(result);
@@ -402,7 +403,6 @@ $(function(){
     //console.log (get_link (whatever));
     whatever.setAttribute("x", 0);
     whatever.setAttribute("y", 0);
-    $("#board").append(whatever);
     return whatever;
   }
   function create_tile (id, rotation) {
@@ -510,8 +510,7 @@ $(function(){
   }
   floating_tile = create_random_tile ();
   setTimeout (function() {
-    update_position (floating_tile) ;
-    refresh_paths();
+    begin_turn();
   }, 15);
   
   function draw() {
@@ -533,7 +532,7 @@ $(function(){
     var transform ="translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)";
     
     //console.log (transform);
-    $("svg").width (max_horizontal - min_horizontal).height(max_vertical - min_vertical).css ({display: "block", margin: "0 auto"});
+    $("#main_display").width (max_horizontal - min_horizontal).height(max_vertical - min_vertical).css ({display: "block", margin: "0 auto"});
     $("#board").css({transform});
   }
   setTimeout (draw, 20);
@@ -562,12 +561,26 @@ $(function(){
     if (legalities.forbidden || (legalities.waste &&!legalities.success)) {return;}
 
     create_borders_around (floating_tile);
-    floating_tile = create_random_tile ();
-    update_position (floating_tile) ;
-    refresh_paths();
+    begin_turn();
   }));
   $("#tile_controls").css({position: "fixed",left:0,top:"50%"});  
-  $("#tile_controls button").css({display:"block"});  
+  $("#tile_controls button").css({display:"block"});
+  
+  var current_player_index = 0;
+  function begin_turn() {
+    current_player_index = (current_player_index + 1) % 6;
+    var player = players [current_player_index];
+    
+    floating_tile = create_random_tile ();
+    
+    $("#messages").empty().css({"background-color":"#ffcccc"}).append (
+      `${player.name}, you drew:`,
+      $(`<svg width="${long_radius*2}" height="${short_radius*2}">`).append (floating_tile.element)
+    );
+    
+    update_position (floating_tile) ;
+    refresh_paths();
+  }
   /*
     The starting tile is ${player.name}, so ${player.name} goes first.
     
