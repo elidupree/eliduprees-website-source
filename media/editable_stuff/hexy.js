@@ -379,7 +379,7 @@ $(function(){
       
       var radius = long_radius;
       result.transform = result.transform + (
-        " translate(" + (radius) + "px," + (radius*short_radius/long_radius) + "px) rotate("+(-0.0833 + tile.graphical_rotation /6)+"turn) scale(" + radius+ "," + radius+ ")"
+        " translate(" + (radius) + "px," + (radius/**short_radius/long_radius*/) + "px) rotate("+(-0.0833 + tile.graphical_rotation /6)+"turn) scale(" + radius+ "," + radius+ ")"
       );
       //console.log (result.transform);
       $(tile.element).css(result);
@@ -412,6 +412,7 @@ $(function(){
     var icon = get_icon (element);
     $(element).addClass("tile").click(function() {
       if (tile === floating_tile) {
+        rotate_right();
         /*create_borders_around (tile);
         floating_tile = create_random_tile ();
         refresh_paths();*/
@@ -422,7 +423,7 @@ $(function(){
     return tile;
   }
   function create_random_tile () {
-    var choose_icon = Math.random() < 0.7;
+    var choose_icon = Math.random() < 0.8;
     var id;
     var player;
     while (true) {
@@ -505,11 +506,16 @@ $(function(){
       //$(whatever).css(calculate_transform (whatever, horizontal, vertical, rotation));
     }, 10);
   }
+  /*
   for (var index = -5; index <=5;++index) {
     for (var terrible = index-6; terrible <=index+4;terrible+=2) {
       hack (index, terrible);
     }
-  }
+  }*/
+  
+  hack (0,0);
+  
+  
   floating_tile = create_random_tile ();
   setTimeout (function() {
     begin_turn();
@@ -523,7 +529,7 @@ $(function(){
     var min_vertical = 0;
     var max_vertical = 0;
     iterate_tiles (function (tile) {
-      if (tile === floating_tile) {return;}
+      if (tile.horizontal === undefined) {return;}
       var position = tile_position (tile);
       min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
       max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius);
@@ -544,7 +550,14 @@ $(function(){
   
   var skip_turn = false;
   
-  
+  function rotate_right ()
+  {
+    if (skip_turn) {return;}
+    floating_tile.rotation = (floating_tile.rotation + 1) % 6;
+    floating_tile.graphical_rotation += 1;
+    update_position (floating_tile) ;
+    refresh_paths ();
+  }
   $("#tile_controls").append ($("<button>").text ("rotate left").click (function() {
     if (skip_turn) {return;}
     floating_tile.rotation = (floating_tile.rotation + 5) % 6;
@@ -552,13 +565,7 @@ $(function(){
     update_position (floating_tile) ;
     refresh_paths ();
   }));
-  $("#tile_controls").append ($("<button>").text ("rotate right").click (function() {
-    if (skip_turn) {return;}
-    floating_tile.rotation = (floating_tile.rotation + 1) % 6;
-    floating_tile.graphical_rotation += 1;
-    update_position (floating_tile) ;
-    refresh_paths ();
-  }));
+  $("#tile_controls").append ($("<button>").text ("rotate right").click (rotate_right));
   $("#tile_controls").append ($("<button>").text ("place tile").click (function() {
     if (skip_turn) {return;}
     if (floating_tile.horizontal === undefined) {return;}
@@ -589,12 +596,12 @@ $(function(){
       begin_turn();
     });
     
-    $("#messages").empty().css({"background-color":"#ffcccc", "text-align": "center "}).append (paragraph (`${player.name}'s turn!`));
+    $("#messages").empty().css({"background-color":"#ffcccc", "text-align": "center", padding: "0.1em", "font-size": "120%"}).append (paragraph (`${player.name}'s turn!`));
     
     
     $("#messages").append (
       paragraph (`${player.name}, you drew:`),
-      $(`<svg width="${long_radius*2}" height="${short_radius*2}">`).append (floating_tile.element)
+      $(`<svg width="${long_radius*2}" height="${long_radius*2}">`).css({display: "block", margin: "0.9em auto"}).append (floating_tile.element)
     );
     
     if (floating_tile.player === player && (icon.icon === "torso" || icon.icon === "crotch")) {
