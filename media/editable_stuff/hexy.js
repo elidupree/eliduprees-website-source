@@ -555,6 +555,12 @@ $(function(){
   }));
   $("#tile_controls").append ($("<button>").text ("place tile").click (function() {
     if (floating_tile.horizontal === undefined) {return;}
+    var legalities = {};
+    collect_paths (floating_tile).forEach(function(path) {
+      legalities [path_legality (path, floating_tile)] = true;
+    });
+    if (legalities.forbidden || (legalities.waste &&!legalities.success)) {return;}
+
     create_borders_around (floating_tile);
     floating_tile = create_random_tile ();
     update_position (floating_tile) ;
