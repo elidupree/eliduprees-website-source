@@ -533,7 +533,7 @@ $(function(){
     var transform ="translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)";
     
     //console.log (transform);
-    $("svg").width (max_horizontal - min_horizontal).height(max_vertical - min_vertical);
+    $("svg").width (max_horizontal - min_horizontal).height(max_vertical - min_vertical).css ({display: "block", margin: "0 auto"});
     $("#board").css({transform});
   }
   setTimeout (draw, 20);
