@@ -1973,7 +1973,9 @@
  "Whoops, we are violating people's freedom of speech all the time": {
   "date_modified": "2016-12-14",
   "date_posted": "2016-12-14",
-  "id": "2237afefc667362da0fe5c83dfd7a39"
+  "deployed": true,
+  "id": "2237afefc667362da0fe5c83dfd7a39",
+  "remembered_contents": "76f7b93d6f6d35be074cc9a1f59a09d515b8292aa96ed17399065206d339722f011b6c46648b303baf9776906bfe72cb"
  },
  "Why should knowledge be correct, anyway?": {
   "date_modified": "2016-10-26",
