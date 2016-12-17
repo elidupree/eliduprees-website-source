@@ -296,9 +296,10 @@ $(function(){
     if (icon.icon === "toybox") {
       return "a toy";
     }
-    return (!omit_player && `${tile.player.name}'s` || "") + (icon.side && " "+ icon.side || "") +  icon.icon;
+    return (!omit_player && `${tile.player.name}'s ` || "") + (icon.side && icon.side+" " || "") + icon.icon;
   }
   function path_effects (path) {
+    if (path.icons.length <2) {return;}
     function tie(icons) {
       if (icons.length === 2) {
         return {
@@ -662,11 +663,17 @@ $(function(){
     if (skip_turn) {return;}
     if (floating_tile.horizontal === undefined) {return;}
     var legalities = {};
-    collect_paths (floating_tile).forEach(function(path) {
+    var paths = collect_paths (floating_tile);
+    paths.forEach(function(path) {
       legalities [path_legality (path, floating_tile)] = true;
     });
     if (legalities.forbidden || (legalities.waste &&!legalities.success)) {return;}
-
+    paths.forEach(function(path) {
+      var effects = path_effects (path);
+      if (effects !== undefined) {
+        console.log (effects.message);
+      }
+    });
     create_borders_around (floating_tile);
     begin_turn();
   }));
