@@ -207,7 +207,8 @@ when their “opponent” is too tied up to reach the board.
       r'''
 <style>
 
-.tile {transition-duration: 1s; --path-fill: #808080; }
+.tile {transition-duration: 1s; }
+button {font-size: 120%; padding: 3px 5px; border:2px solid black; border-radius:5px;}
 
 </style>
 ''',

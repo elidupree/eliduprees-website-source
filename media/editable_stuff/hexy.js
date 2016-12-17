@@ -275,10 +275,10 @@ $(function(){
     
     if (!path.completed) {return "acceptable";}
     
-    if (path.icons.length === 1) {return "waste";}
     if (path.icons.length === 0) {return "acceptable";}
+    if (path.icons.length === 1) {return "waste";}
+    if (path_effects (path) === undefined) {return "waste";}
     
-    if (path.lock) {return "success";}
     return "success";
   }
   var legality_fill = {
@@ -287,6 +287,81 @@ $(function(){
     waste: "#990000",
     success: "#ffff00"
   };
+  
+  function describe_tile_icon (tile) {
+    var icon = get_icon (tile.element);
+    if (icon.icon === "furniture") {
+      return "a piece of furniture";
+    }
+    if (icon.icon === "toybox") {
+      return "a toy";
+    }
+    return `${tile.player.name}'s ${icon.icon}`;
+  }
+  function path_effects (path) {
+    function tie(icons) {
+      if (icons.length === 2) {
+        return {
+          message:`tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`
+        };
+      }
+      else {
+        var result = `tie together ${describe_tile_icon(icons [0])}`
+        for (var index = 1; index <icons.length - 1;++index) {
+          result += `, ${describe_tile_icon(icons [index])}`
+        }
+        return {
+          message:result+ `, and ${describe_tile_icon(icons [icons.length - 1])}`
+        };
+      }
+    }
+    
+    if (path.lock) {
+      return tie (path.icons);
+    }
+    
+    function strip (player, text) {
+      return {
+        message:`${player.name}, remove a piece of clothing${text}`,
+      };
+    }
+    
+    var handlers = [
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "torso" && second.icon.icon === "crotch") {
+          return strip(first.player,"");
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "torso") {
+          return strip(first.player," from your torso");
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "crotch") {
+          return strip(first.player," from your legs");
+        }
+      },
+      function (first, second) {
+        if (first.player && second.icon.icon === "furniture") {
+          return tie ([first, second]);
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "hand" && second.icon.icon === "foot") {
+          return tie ([first, second]);
+        }
+      },
+    ];
+    
+    for (var index = 0; index <handlers.length;++index) {
+      var handler = handlers [index];
+      var result = handler(path.icons [0],path.icons [1]);
+      if (result !== undefined) {return result;}
+      result = handler(path.icons [1],path.icons [0]);
+      if (result !== undefined) {return result;}
+    };
+  }
   
   function iterate_tiles (callback) {
     var found = {};
@@ -410,6 +485,7 @@ $(function(){
     var element = create_clone (id);
     var tile = {rotation, graphical_rotation: rotation, element};
     var icon = get_icon (element);
+    tile.icon = icon;
     $(element).addClass("tile").click(function() {
       if (tile === floating_tile) {
         rotate_right();
@@ -592,7 +668,7 @@ $(function(){
     var icon = get_icon (floating_tile.element);
     
     function paragraph (text) { return $("<p>").text (text);}
-    var drat = $("<button>").text ("Drat").click (function() {
+    var drat = $("<button>").css({width:"16em", height: "3em",}).text ("Drat").click (function() {
       begin_turn();
     });
     
