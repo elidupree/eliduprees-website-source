@@ -288,7 +288,7 @@ $(function(){
     success: "#ffff00"
   };
   
-  function describe_tile_icon (tile) {
+  function describe_tile_icon (tile, omit_player) {
     var icon = get_icon (tile.element);
     if (icon.icon === "furniture") {
       return "a piece of furniture";
@@ -296,7 +296,7 @@ $(function(){
     if (icon.icon === "toybox") {
       return "a toy";
     }
-    return `${tile.player.name}'s ${icon.icon}`;
+    return (!omit_player && `${tile.player.name}'s` || "") + (icon.side && " "+ icon.side || "") +  icon.icon;
   }
   function path_effects (path) {
     function tie(icons) {
@@ -348,10 +348,26 @@ $(function(){
         }
       },
       function (first, second) {
+        if (first.player && second.icon.icon === "toybox") {
+          return {
+            message:`${first.player.name}, choose a toy to be used on you.`
+          };
+        }
+      },
+      function (first, second) {
         if (first.player === second.player && first.icon.icon === "hand" && second.icon.icon === "foot") {
           return tie ([first, second]);
         }
       },
+      function (first, second) {
+        if (first.player && second.player && first.icon.icon !== second.icon.icon && (first.icon.icon === "hand" || first.icon.icon === "foot") && (second.icon.icon === "foot" || second.icon.icon === "torso" || second.icon.icon === "crotch")) {
+          return {
+            message: `from now on, ${first.player.name} can stimulate ${describe_tile_icon (second)} with their ${describe_tile_icon (first, true)}`
+            
+          };
+        }
+      },
+
     ];
     
     for (var index = 0; index <handlers.length;++index) {
