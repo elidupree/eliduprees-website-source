@@ -104,6 +104,35 @@ If you're deciding policy for a group, and you want to make sure that the group 
 ''',
 },
 
+{
+"title": "Brain technique: “Patient problem-solving”",
+"tags": ["neurodiversity"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "Here is a trouble I sometimes have: I sit down to solve a problem, but I can't figure it out right away, and I get frustrated.",
+"contents":'''
+
+This post is part of a series about my brain training techniques. It might help to read <a href="/blog/how-to-train-your-brain-part-1">Part 1</a> and <a href="/blog/how-to-train-your-brain-part-2-memory">Part 2</a> first if you haven't.
+
+Here is a trouble I sometimes have: I sit down to solve a problem, but I can't figure it out right away, and I get frustrated. Maybe it's a story I'm trying to write, maybe it's a computer program I'm trying to design, maybe it's a big decision I'm trying to make. Whatever it is, my brain forms this memory:
+
+<strong>Try to solve the problem &#8594; Argh, I'm stuck</strong>
+
+So I come back and try again later. But after one or two attempts, my brain starts jumping straight to "Argh, I'm stuck", without even making a good try at the problem first. Worse yet, being frustrated makes me more stuck, and being stuck makes me more frustrated. It <em>reinforces</em> the memory that's causing trouble!
+
+To deal with this, I need a technique. The technique needs two things: First, it should avoid <em>triggering</em> the bad memory. Second, it should avoid <em>creating</em> any more bad memories.
+
+I call my technique "patient problem-solving". The first part of the technique is to <cut>have a <strong>background task</strong>. For me, this is usually browsing the Internet, going for a walk, or playing casual video games. But a lot of different things would work &ndash; perhaps knitting, drawing, or whatever your favorite idle activity is. The only limitation is that you still have to be able to look at the problem. (So, for instance, going for a walk doesn't work if you need to refer to a textbook.)
+
+While I'm doing the background task, I frequently remind myself to glance at the problem. I try to see if there's anything new I can notice about it, that I didn't spot before. Sometimes, I make some progress on the problem. That's great! Usually, I don't see anything new. But because I didn't <em>expect</em> to make progress every time, I don't get frustrated. That way, I can just flow back to the background task. A minute or so later, I'll be ready to glance at the problem again.
+
+The key here is that the background task is, in some sense, the main thing that I'm doing. The background task will keep me interested <em>whether or not</em> I get anything done on the problem. The worst-case scenario is that I just play video games for an hour without getting anything done &ndash; but that's something I might have done anyway, so it doesn't feel frustrating at all!
+
+Usually, though, I actually do make some progress. "Patient problem-solving" is a bit slower than focusing on the problem directly, and it isn't ideal for making something complete and polished, but it's great for getting a few insights when I'm stuck on something. Usually, I can "patient problem-solve" for a while, and then feel like I'm ready to work on the problem directly after that.
+
+
+''',
+},
 
 ]
 
