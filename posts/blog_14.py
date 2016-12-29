@@ -138,8 +138,7 @@ Usually, though, I actually do make some progress. "Patient problem-solving" is 
 "title": "What my internal language is made of",
 "tags": ["neurodiversity"],
 "auto_paragraphs": True,
-"don't deploy": True,
-"blurb": "",
+"blurb": "The brain actually has a lot of different subsystems, which all work in different ways.",
 "contents":'''
 
 This post is part of a series about my internal language. It might help to read <a href="/blog/imagine-a-ball-but-not-what-color-it-is">the first post</a> first if you haven't.
@@ -150,7 +149,7 @@ Normal English has a few words talking about what goes on inside the brain. <em>
 
 All my thinking relies on my <strong>main network</strong>. Scientifically, I think I'm referring to my long-term <a href="https://en.wikipedia.org/wiki/Implicit_memory">implicit memories</a> or maybe <a href="https://en.wikipedia.org/wiki/Semantic_memory">semantic memories</a>. (I'm not sure there's actually a distinction between those two things, at least for me.) Most of these memories are about relations between <strong>words</strong>.
 
-When I say "words", I don't just mean <em>English</em> words. Everything that I can think about counts as a "word". The color red is a "word". Standing up is a "word". (My main network stores memories that <em>connect</em> those words to the English words for the same things, but they are not the same words.) But most of my words are actually internal things.
+When I say "words", I don't just mean <em>English</em> words. Everything that <cut>I can think about counts as a "word". The color red is a "word". Standing up is a "word". (My main network stores memories that <em>connect</em> those words to the English words for the same things, but they are not the same words.) But most of my words are actually internal things.
 
 A lot of my other subsystems, like working memory, <em>interact</em> with the main network. I'll talk about that in another post. This one is about the words themselves.
 

@@ -537,11 +537,11 @@
   "remembered_contents": "90da24ee06207939ec0df210a75ad187d0af553a538652038388668a41a2b73ed386a3314df6a009784fe5d0b221e652"
  },
  "Imagine a ball, but not what color it is.": {
-  "date_modified": "2016-09-28",
+  "date_modified": "2016-12-28",
   "date_posted": "2016-09-28",
   "deployed": true,
   "id": "c783dc41ee543e7413d7fcc90d2402",
-  "remembered_contents": "9ae1126066c61eeee4d83ac0c1fbc09652b54d44a4296e73e7b3871794dabfbb7278ae681f627ff7dbf7b9e14ed63160"
+  "remembered_contents": "fe1bdc0086302f4be57153faa9629edd8f95b0f90cb75024d2e342f00e6c579761522c3e52e8a1be539486e02a791722"
  },
  "Imagining pain": {
   "date_modified": "2016-07-24",
@@ -676,11 +676,11 @@
   "remembered_contents": "842e40c714208ff307a5e1527de28929dae404774154a6e98cfe34e4a79b5692951a371915813175f9832f0bb85eb3e0"
  },
  "On Virtues": {
-  "date_modified": "2016-09-07",
+  "date_modified": "2016-12-28",
   "date_posted": "2016-09-07",
   "deployed": true,
   "id": "5d7a8f2f8d67df557d89e6fcbfb518f",
-  "remembered_contents": "45711cf1da90234d1631e42b3b7b4a1a564a0de27d1e679b64360167575139035c9527d379eed38fbc8b515a29f59c4d"
+  "remembered_contents": "df95d04295dcbe901d8ee9aabf24c91b581583db443733f7c8ad1ea802ad5b4f48e0a148ecae68805663d9de702b8dff"
  },
  "People Are Wrong Sometimes, page 1": {
   "date_modified": "2011-01-26",
@@ -1974,7 +1974,9 @@
  "What my internal language is made of": {
   "date_modified": "2016-12-28",
   "date_posted": "2016-12-28",
-  "id": "24ff26505d08c28385abdfe05f733be"
+  "deployed": true,
+  "id": "24ff26505d08c28385abdfe05f733be",
+  "remembered_contents": "e5a8981e33ccd9c4ee6a5632bd16f1c05f561d225bebadb0e844ed815c791e16af9328ec123610ec8bcb1f3779d19147"
  },
  "Whoops, I accidentally deployed a unfinished story yesterday. I've taken it down now.": {
   "date_modified": "2016-11-05",
