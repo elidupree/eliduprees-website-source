@@ -108,7 +108,6 @@ If you're deciding policy for a group, and you want to make sure that the group 
 "title": "Brain technique: “Patient problem-solving”",
 "tags": ["neurodiversity"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "blurb": "Here is a trouble I sometimes have: I sit down to solve a problem, but I can't figure it out right away, and I get frustrated.",
 "contents":'''
 

@@ -378,9 +378,11 @@
   "remembered_contents": "92259c9600683e8b3ea70197f839b0291bd3e45430c6aa5d0c0da34ff0f5d688fed87b3e8cf773eab4a0377678f3f233"
  },
  "Brain technique: \u201cPatient problem-solving\u201d": {
-  "date_modified": "2016-12-20",
-  "date_posted": "2016-12-20",
-  "id": "e5140ddd4890d058694348d7d869ab1"
+  "date_modified": "2016-12-21",
+  "date_posted": "2016-12-21",
+  "deployed": true,
+  "id": "e5140ddd4890d058694348d7d869ab1",
+  "remembered_contents": "2f8475e6e50cd72f9e9776775d499ff8b89d2300f2d854765f843df507d2bd82986dc37c1e262c0ce909a096c4065e20"
  },
  "C++ vs. Haskell: ROUND ONE: What's a programming language, anyway?": {
   "date_modified": "2011-06-15",
