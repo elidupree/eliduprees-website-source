@@ -154,7 +154,7 @@ Back to the fork example: When I took the points off the fork, that was somethin
 
 But now I can break it down more. I can separate the row of points into just the <em>idea</em> of pointiness, and the <em>idea</em> of a row of something. And those two ideas can't be broken down further. So you could say they are two  of the the <strong>words</strong> of my internal language.
 
-In the next post in this series, I think I'll talk about what my words are made of, and how they can be put together.
+In <a href="/blog/what-my-internal-language-is-made-of">the next post in this series</a>, I'll talk about what my words are made of, and how I define them.
 
 ''',
 },

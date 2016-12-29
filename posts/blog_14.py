@@ -134,6 +134,58 @@ Usually, though, I actually do make some progress. "Patient problem-solving" is 
 ''',
 },
 
+
+{
+"title": "What my internal language is made of",
+"tags": ["neurodiversity"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+
+This post is part of a series about my internal language. It might help to read <a href="/blog/imagine-a-ball-but-not-what-color-it-is">the first post</a> first if you haven't.
+
+What is my internal language made of? It's pretty hard to explain.
+
+Normal English has a few words talking about what goes on inside the brain. <em>Think. Feel. Visualize. Imagine.</em> But those words aren't very specific. The brain actually has a lot of different subsystems, which all work in different ways. Scientific language gets into a bit more detail: We have visual processing, spatial processing, language processing, working memory, long-term memory, and a lot of other things. (We know that these are separate because you can damage specific parts of the brain and cause <em>one</em> of them to stop working, while the others work just the same as before!) But even the science is pretty imprecise about a lot of things. I'll have to make up some of my own terms.
+
+All my thinking relies on my <strong>main network</strong>. Scientifically, I think I'm referring to my long-term <a href="https://en.wikipedia.org/wiki/Implicit_memory">implicit memories</a> or maybe <a href="https://en.wikipedia.org/wiki/Semantic_memory">semantic memories</a>. (I'm not sure there's actually a distinction between those two things, at least for me.) Most of these memories are about relations between <strong>words</strong>.
+
+When I say "words", I don't just mean <em>English</em> words. Everything that I can think about counts as a "word". The color red is a "word". Standing up is a "word". (My main network stores memories that <em>connect</em> those words to the English words for the same things, but they are not the same words.) But most of my words are actually internal things.
+
+A lot of my other subsystems, like working memory, <em>interact</em> with the main network. I'll talk about that in another post. This one is about the words themselves.
+
+When I have an internal word, it doesn't do much all by itself. It's defined by its relations with <em>other</em> words. For example:
+
+<h2>Example #1: "[probably bogus]"</h2>
+
+A month ago, I noticed myself having a thought, which I will translate like this:
+
+"That sounds like it's probably bogus (although I'm not completely sure). But my belief that it's bogus is subject to confirmation bias, in the sense that, even if it's actually true, I might just keep thinking it's bogus every time it comes up, and never bothering to check it, so I should make sure to check it."
+
+This thought was <em>two words long</em>: "[probably bogus] [subject to confirmation bias]". I thought it as quickly as you could say "Bullshit! Wait…", and then I smoothly went on with the conversation. But I did make sure to remember it for later.
+
+How did I think such a complex thought so quickly? Remember, each word is not complex <em>by itself</em>. It only has a complex meaning because it is <em>linked</em> to lots of other words. When I thought those two words, I didn't <em>consciously follow</em> all of those links. I just remembered the words, so that I could follow the links later when I needed to explain it. This is probably what happens for most people when they think of <em>any</em> complex idea.
+
+I did follow at least <em>one</em> link at the time. The second word has a strong link to "I must remember to do this". Following that link made me record the thought for later reference.
+
+These words make a good example because they are easy to translate into English, albeit verbose. Other words can be trickier:
+
+<h2>Example #2: "[ability/habit]"</h2>
+
+For most of my life, people have called me "observant". I'm always looking around and noticing the things around me. Should I call this an "ability" or a "habit"? "Habit" is okay, but it doesn't necessarily do the job. Because I'm always looking around, I can find things other people wouldn't be able to find, and I can learn things other people wouldn't learn. That sure sounds like an "ability". But it would sound silly to say that other people don't have the "ability" to look around a lot.
+
+Here's another one: I write a lot of computer programs. This is definitely an "ability". But if I just say "I have the ability to write computer programs", that doesn't express the fact that I <em>actually do it</em> very much. But it also sounds strange to say "I have a habit of writing computer programs". You don't usually say "habit" for something that is a complicated skill to do at all.
+
+In my internal language, this isn't a problem. I have a single word that translates equally well as "ability" and "habit". The full definition would be something like this: "Something that a person can, and does, do a lot." The closest English translation is "practice", as in "ze has a practice of writing computer programs", but that's excessively formal, and people generally aren't used to that meaning of "practice".
+
+I hope this post has helped you learn something! In the next post in this series, I think I'll talk about how I assemble my words into more complex ideas, especially using my spatial working memory.
+
+
+
+''',
+},
+
 ]
 
 """
