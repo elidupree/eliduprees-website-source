@@ -300,10 +300,23 @@ $(function(){
   }
   function path_effects (path) {
     if (path.icons.length <2) {return;}
-    function tie(icons) {
+    
+    var success = {text: "Okay, done"};
+    function fail_option (victim, message) {
+      if (victim === undefined) {
+        return {text: message};
+      } else {
+        return {text: message+` ${victim.name} skips two turns`, action: function() {
+          victim.skip_turns = (victim.skip_turns || 0) + 2;
+        }};
+      }
+    }
+    
+    function tie(icons, victim) {
       if (icons.length === 2) {
         return {
-          message:`tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`
+          message:`tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`,
+          options: [success, fail_option (victim, "that's physically impossible")]
         };
       }
       else {
@@ -312,7 +325,8 @@ $(function(){
           result += `, ${describe_tile_icon(icons [index])}`
         }
         return {
-          message:result+ `, and ${describe_tile_icon(icons [icons.length - 1])}`
+          message:result+ `, and ${describe_tile_icon(icons [icons.length - 1])}`,
+          options: [success, fail_option (victim, "that's physically impossible")]
         };
       }
     }
@@ -321,9 +335,15 @@ $(function(){
       return tie (path.icons);
     }
     
+    
+    
     function strip (player, text) {
       return {
         message:`${player.name}, remove a piece of clothing${text}`,
+        options: [
+          success,
+          fail_option (player, `${player.name} has nothing left to remove`),
+        ]
       };
     }
     
@@ -345,19 +365,52 @@ $(function(){
       },
       function (first, second) {
         if (first.player && second.icon.icon === "furniture") {
-          return tie ([first, second]);
+          return tie ([first, second], first.player);
         }
       },
       function (first, second) {
         if (first.player && second.icon.icon === "toybox") {
           return {
-            message:`${first.player.name}, choose a toy to be used on you.`
+            message:`${first.player.name}, choose a toy to be used on you`
           };
         }
       },
       function (first, second) {
         if (first.player === second.player && first.icon.icon === "hand" && second.icon.icon === "foot") {
-          return tie ([first, second]);
+          return tie ([first, second], first.player);
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "foot" && second.icon.icon === "foot") {
+          return {
+            message:`tie ${first.player.name}'s feet together`
+          };
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "hand" && second.icon.icon === "hand") {
+          if (first.player.hands_tied === undefined) {
+            return {
+              message:`tie ${first.player.name}'s hands together in front of them`,
+              options: [
+                {text: "Drat", action: function() {first.player.hands_tied = "front";}},
+                fail_option (first.player, "")
+              ]
+            };
+          }
+          if (first.player.hands_tied === "front") {
+            return {
+              message:`re-tie ${first.player.name}'s hands together behind them`
+            };
+          }
+          if (first.player.hands_tied === "back") {
+            return {
+              message:`${first.player.name}'s hands are already tied behind their back`,
+              options: [
+                fail_option (first.player, "Drat")
+              ]
+            };
+          }
         }
       },
       function (first, second) {
@@ -546,7 +599,7 @@ $(function(){
   function create_border_tile (location) {
     var element = create_clone (blank_hex_id);
     $(element).addClass("tile border").css(calculate_transform (element, location.horizontal, location.vertical, 0)).click(function() {
-      if (skip_turn) {return;}
+      if (!playing) {return;}
       set_tile (location, floating_tile);
       refresh_paths();
     });
@@ -641,18 +694,18 @@ $(function(){
   //draw();
   
   
-  var skip_turn = false;
+  var playing;
   
   function rotate_right ()
   {
-    if (skip_turn) {return;}
+    if (!playing) {return;}
     floating_tile.rotation = (floating_tile.rotation + 1) % 6;
     floating_tile.graphical_rotation += 1;
     update_position (floating_tile) ;
     refresh_paths ();
   }
   $("#tile_controls").append ($("<button>").text ("rotate left").click (function() {
-    if (skip_turn) {return;}
+    if (!playing) {return;}
     floating_tile.rotation = (floating_tile.rotation + 5) % 6;
     floating_tile.graphical_rotation -= 1;
     update_position (floating_tile) ;
@@ -660,7 +713,7 @@ $(function(){
   }));
   $("#tile_controls").append ($("<button>").text ("rotate right").click (rotate_right));
   $("#tile_controls").append ($("<button>").text ("place tile").click (function() {
-    if (skip_turn) {return;}
+    if (!playing) {return;}
     if (floating_tile.horizontal === undefined) {return;}
     var legalities = {};
     var paths = collect_paths (floating_tile);
@@ -704,7 +757,7 @@ $(function(){
     );
     
     if (floating_tile.player === player && (icon.icon === "torso" || icon.icon === "crotch")) {
-      skip_turn = true;
+      playing = false;
       $("#messages").append (
         paragraph (`Whoops! It's your own ${icon.icon}. You skip your turn.`),
         drat
@@ -712,7 +765,7 @@ $(function(){
       return;
     }
     
-    skip_turn = false;
+    playing = true;
   }
   /*
     The starting tile is ${player.name}, so ${player.name} goes first.
