@@ -211,13 +211,16 @@ when their “opponent” is too tied up to reach the board.
 button {font-size: 120%; padding: 3px 5px; border:2px solid black; border-radius:5px;}
 
 </style>
+<script src="https://unpkg.com/react@latest/dist/react.js"></script>
+<script src="https://unpkg.com/react-dom@latest/dist/react-dom.js"></script>
+<script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
 ''',
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
-    <div id="messages"></div>
+    <!-- <div id="messages"></div> -->
     '''+ trimmed_svg+'''
-    <div id="tile_controls"></div>
+    <!-- <div id="tile_controls"></div> -->
   </div>
 </main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
 
@@ -225,7 +228,8 @@ button {font-size: 120%; padding: 3px 5px; border:2px solid black; border-radius
        window.hexy_tile_ids = ['''+ (",".join (['"'+id+'"' for id in tile_ids])) +''']
      </script>
      
-     <script type="text/javascript" src="/media/hexy.js?rr"></script>
+     <!-- <script type="text/javascript" src="/media/hexy.js?rr"></script> -->
+     <script type="text/babel" src="/media/hexy-react.js?rr">
 '''}
   )
 
