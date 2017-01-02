@@ -187,9 +187,57 @@
     info_by_tile_id[id] = get_tile_info(id);
   });
   
+  
+  
 var element = React.createElement;
 
+function neutral_transform (id) {
+    var original = $("#"+id)[0];
+    
+    //does not take into account clipping paths
+    var inaccurate_offset = original.getBBox();
+    
+    var offset = info_by_tile_id[id].offset;
+    var icon = icons_by_tile_id[id];
+    var offset_horizontal = offset.horizontal + (icon && icon.grid_position*1.732 || 0);
+    var offset_vertical = 1052.36218-offset.vertical;
+    
+    //console.log (offset);
+    var transform_origin = ""+(offset_horizontal)+"px "+(offset_vertical)+"px 0px"//"50% 50% 0";//""+ (offset.x+0.5*offset.width)+"px "+ (offset.y+0.5*offset.height)+"px 0px";
+    //console.log (transform_origin);
+    var transform = (
+      //"translate("+ (-(offset.x+0.5*offset.width))+"px, "+ (-(offset.y+0.5*offset.height))+"px)"
+      "translate("+ (-(offset_horizontal))+"px, "+ (-(offset_vertical))+"px)"
+    );
+    //console.log (transform);
+    return {"transformOrigin": transform_origin, transform: transform}
+  }
+  function calculate_transform (id, horizontal, vertical, rotation) {
+    var result = neutral_transform (id);
+    
+    var position = tile_position (horizontal, vertical);
+    result.transform = result.transform + (
+      " translate(" + position.horizontal + "px," + position.vertical + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius+ "," + long_radius+ ")"
+    );
+    //console.log (transform);
+    return result
+  }
+
+class Tile extends React.Component {
+  render() {
+    var CSS = calculate_transform (this.props.id, this.props.horizontal, this.props.vertical, this.props.graphical_rotation);
+    
+    return element ("use", {xlinkHref: "#"+this.props.id, x:0, y:0, className:"tile", style:CSS});
+  }
+}
+class Board extends React.Component {
+  render() {
+    
+  }
+}
+
+
 ReactDOM.render(
-  element ("div", null, "Hello, world!", element ("svg", null, element ("use", {"xlinkHref": "g8043"}))),
+  element ("div", null, "Hello, world!", element ("svg", null, element (Tile, {id: "g8043", horizontal: 0, vertical: 0, graphical_rotation: 0}))),
   document.getElementById("content")
 );

@@ -219,9 +219,10 @@ button {font-size: 120%; padding: 3px 5px; border:2px solid black; border-radius
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
     <!-- <div id="messages"></div> -->
-    '''+ trimmed_svg+'''
+    
     <!-- <div id="tile_controls"></div> -->
   </div>
+  '''+ trimmed_svg+'''
 </main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
 
      <script type="text/javascript">
