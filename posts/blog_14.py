@@ -184,6 +184,36 @@ I hope this post has helped you learn something! In the next post in this series
 ''',
 },
 
+{
+"title": "Positive and negative characterization",
+"tags": ["writing"],
+"auto_paragraphs": True,
+"blurb": "I think about this a lot for characters in my stories. Negative characterization is harder to write, and harder to notice, but equally important.",
+"contents":'''
+If you're acting on stage, and don't have real furniture, you can use pretend furniture instead. You can put things on an imaginary table. You can eat breakfast at the imaginary table. You can chop vegetables on the imaginary table.
+
+But to make it feel real, you also have to walk <em>around</em> the table whenever you want to get somewhere. The moment you walk <em>through</em> the table, the illusion is broken. Now, the audience may not be paying attention to the table, so they won't consciously realize what happened. But as soon as someone walks through the table, the audience will automatically stop believing in it. They just won't know <em>why</em>.
+
+Chopping vegetables on the table is <strong>positive characterization</strong>. <em>Never</em> walking through the table is <strong>negative characterization</strong>. In general, <strong>positive characterization</strong> is when it's interesting that you <em>did</em> something, and <strong>negative characterization</strong> is when it's interesting that you <em>never</em> do something. (Or that you <em>always</em> do something, which is similar to never-not-doing the thing.)
+
+I think about this a lot for characters in my stories. When I'm designing a character, I think: what are some interesting <cut>things this character does? Maybe ze is sad a lot, or plays sports, or drinks the blood of the living. That part is the positive characterization. But what are some interesting things this character <em>never</em> does? Maybe ze never laughs, or is never dishonest, or never enters a home uninvited. In <a href="/voldemorts-children">Voldemort's Children</a>, where Harry's abusers told zem not to ask questions, I made Harry <em>never</em> ask a question (at least, for most of the story). The other main characters have important negative characterization as well.
+
+Negative characterization is harder to <em>write</em>, and harder to <em>notice</em>, but equally important. A lot of stories, especially from inexperienced writers, have "walking through the table" moments. Let's say a character is supposed to panic and freeze up when something bad happens. So the writer makes zem do that a few times in the story. But at some point, there's a scene that just says everybody is running away from a monster or something, and the writer just doesn't explain how this <em>particular</em> character handled it. For the character to be really distinctive, you want zem to <em>never</em> respond to a crisis without panicking for at least two paragraphs.
+
+To be fair, it can be hard to do. You've already thought of the plot you want to write, and the characters are always trying to mess it up. That writer just wanted everyone to escape so that ze could get on with the story. For me, a lot of scenes would be easier to write if I could just have Harry ask a question. But if you want your negative characterization to be effective, you have to do it right <em>every</em> time. If you want Harry to learn something, you <em>always</em> need a reason why someone explains it unasked. If an extremely independent character follows along with a group, you <em>always</em> need to show why they wanted to be there. If a vampire is in a house, you <em>always</em> have to explain who invited zem.
+
+Finally, if your negative characterization has been consistent for most of the story, there are times when you can <em>deliberately</em> break it for great effect. The moment when the silent character speaks for the first time can be huge. Or the moment when the joker gets serious. Or the person who never smiles finally smiles. If you have a character who <em>always</em> checks everything and takes all the safety precautions, you can show the urgency of a crisis by having zem rush in without checking anything. If you've done it really well, the reader will instantly know there's a crisis just by how the character is acting, before you even reveal what happened.
+
+But just like <em>breaking</em> negative characterization can make a powerful moment, you can also make a powerful moment where you <em>maintain</em> it, but with a new importance. Maybe the silent character is the only one who doesn't swear loyalty to the new tyrant. Maybe the joker <em>continues</em> telling jokes while everything falls apart around zem. Maybe the careful character <em>does</em> take the time to check everything, even while the bad guys are breaking down the door.
+
+Thinking about negative characterization helps me write stories. It also helps me understand why I like or dislike other people's stories. It's a powerful tool that can be used in a lot of different ways.
+
+
+
+
+''',
+},
+
 ]
 
 """
