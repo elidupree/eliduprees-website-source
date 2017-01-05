@@ -352,14 +352,14 @@
   
 
   ReactDOM.render(
-    element ("div", null, "Hello, world!", element (Game, {players: [
-    {based_on: "white", name: "white", fill: "#ffffff", stroke: "#000000"},
-    {based_on: "black", name: "black", fill: "#000000", stroke: "#ffffff"},
-    /*{based_on: "white", name: "pink", fill: "#ffaaff", stroke: "#ff00ff"},
-    {based_on: "white", name: "green", fill: "#99ff99", stroke: "#008800"},
-    {based_on: "black", name: "blue", fill: "#0000ff", stroke: "#ffffff"},
-    {based_on: "black", name: "purple", fill: "#5500aa", stroke: "#ffffff"},*/
-  ]}, element (Tile, {tile_id: "g8043", horizontal: 0, vertical: 0, graphical_rotation: 0}))),
+    element (Game, {players: [
+      {based_on: "white", name: "white", fill: "#ffffff", stroke: "#000000"},
+      {based_on: "black", name: "black", fill: "#000000", stroke: "#ffffff"},
+      /*{based_on: "white", name: "pink", fill: "#ffaaff", stroke: "#ff00ff"},
+      {based_on: "white", name: "green", fill: "#99ff99", stroke: "#008800"},
+      {based_on: "black", name: "blue", fill: "#0000ff", stroke: "#ffffff"},
+      {based_on: "black", name: "purple", fill: "#5500aa", stroke: "#ffffff"},*/
+    ]}),
     document.getElementById("content")
   );
 

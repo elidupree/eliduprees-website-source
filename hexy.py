@@ -207,8 +207,15 @@ when their “opponent” is too tied up to reach the board.
       r'''
 <style>
 
-.tile {transition-duration: 1s; }
-button {font-size: 120%; padding: 3px 5px; border:2px solid black; border-radius:5px;}
+.tile {
+  /*transition-duration: 1s;*/
+}
+button {
+  font-size: 120%;
+  padding: 3px 5px;
+  border:2px solid black;
+  border-radius:5px;
+}
 
 </style>
 <script src="https://unpkg.com/react@latest/dist/react.js"></script>
@@ -224,6 +231,8 @@ button {font-size: 120%; padding: 3px 5px; border:2px solid black; border-radius
   </div>
   '''+ trimmed_svg+'''
 </main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
+
+     <script type="text/javascript" src="/media/lodash.min.js?rr"></script>
 
      <script type="text/javascript">
        window.hexy_tile_ids = ['''+ (",".join (['"'+id+'"' for id in tile_ids])) +''']
