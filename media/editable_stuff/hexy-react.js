@@ -294,7 +294,7 @@
     render() {
       var CSS = calculate_transform (this.props.tile_id, this.props.horizontal, this.props.vertical, this.props.graphical_rotation);
       
-      return element ("use", {xlinkHref: "#"+this.props.tile_id, x:0, y:0, className:"tile", style:CSS});
+      return element ("use", {xlinkHref: "#"+this.props.tile_id, x:0, y:0, className:"tile", style:CSS, onClick: this.props.onClick});
     }
   }
   class Game extends React.Component {
@@ -310,10 +310,20 @@
       this.state.tiles [0].horizontal = 0;
       this.state.tiles [0].vertical = 0;
       set_tile (this.state.tiles_by_location, this.state.tiles [0]);
+      new_tile (this.state);
     }
     
-    move_floating_tile() {
-    
+    move_floating_tile(location) {
+      var that = this;
+      return function () {that.setState (function (state, props) {
+        state = _.cloneDeep (state);
+        var floating_tile = state.tiles [state.tiles.length - 1];
+        if (floating_tile.horizontal !== undefined) {remove_tile (state.tiles_by_location, floating_tile) ;}
+        floating_tile.horizontal = location.horizontal;
+        floating_tile.vertical = location.vertical;
+        set_tile (state.tiles_by_location, floating_tile) ;
+        return state;
+      });};
     }
     
     render() {
@@ -325,28 +335,32 @@
       var min_vertical = 0;
       var max_vertical = 0;
       var that = this;
+      function include (location) {
+        var position = tile_position (location);
+        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
+        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius);
+        min_vertical = Math.min (min_vertical , position.vertical - short_radius);
+        max_vertical = Math.max(max_vertical , position.vertical + short_radius);
+      }
       this.state.tiles.forEach(function(tile) {
         if (tile.horizontal === undefined) {return;}
-        var position = tile_position (tile);
-        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius*5/2);
-        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius*5/2);
-        min_vertical = Math.min (min_vertical , position.vertical - short_radius*3);
-        max_vertical = Math.max(max_vertical , position.vertical + short_radius*3);
+        include (tile);
         tiles.push (element (Tile, {...tile}));
-        for (var direction = 0; direction <6 ;++direction) {
+        if (tile !== that.state.tiles [that.state.tiles.length - 1]) {for (var direction = 0; direction <6 ;++direction) {
           var neighbor = in_direction (tile, direction);
           var whatever = position_string (neighbor);
           if (!(get_tile (that.state.tiles_by_location, neighbor) || border_tile_locations [whatever])) {
             border_tile_locations [whatever] = true;
-            border_tiles.push (element (Tile, {key: whatever, horizontal: neighbor.horizontal, vertical: neighbor.vertical, tile_id: blank_hex_id, rotation: 0, graphical_rotation: 0, onClick: that.move_floating_tile}));
+            include (neighbor);
+            border_tiles.push (element (Tile, {key: whatever, horizontal: neighbor.horizontal, vertical: neighbor.vertical, tile_id: blank_hex_id, rotation: 0, graphical_rotation: 0, onClick: that.move_floating_tile (neighbor)}));
           }
-        }
+        }}
       });
       var transform ="translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)";
       
       
 
-      return element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, tiles, border_tiles));
+      return element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, border_tiles, tiles));
     }
   }
   

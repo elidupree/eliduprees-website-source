@@ -208,7 +208,7 @@ when their “opponent” is too tied up to reach the board.
 <style>
 
 .tile {
-  /*transition-duration: 1s;*/
+  transition-duration: 0.6s;
 }
 button {
   font-size: 120%;
