@@ -191,10 +191,36 @@
     icons_by_tile_id[id] = get_icon(id);
     info_by_tile_id[id] = get_tile_info(id);
   });
+  info_by_tile_id [blank_hex_id] = connections_table [blank_hex_id];
   
   
   
-  var element = React.createElement;
+  
+  function get_tile (tiles, location) {
+    return tiles [position_string (location)]
+  }
+  function set_tile (tiles, tile) {
+    tiles [position_string (tile)] = tile
+  }
+  function remove_tile (tiles, location) {
+    delete tiles [position_string (location)]
+  }
+
+  function iterate_tiles (tiles, callback) {
+    var found = {};
+    function find (tile) {
+      if (!found [position_string (tile)]) {
+        found [position_string (tile)] = true;
+        callback (tile);
+        for (var direction = 0; direction <6 ;++direction) {
+          var neighbor = get_tile (tiles, in_direction (tile, direction));
+          if (neighbor) {find (neighbor);}
+        }
+      }
+    }
+    find (get_tile (tiles, {horizontal: 0, vertical: 0}));
+    callback (floating_tile);
+  }
 
   function neutral_transform (id) {
     var original = $("#"+id)[0];
@@ -227,41 +253,113 @@
     //console.log (transform);
     return result
   }
+  
+  
+  function create_random_tile (game_state) {
+    var choose_icon = Math.random() < 0.8;
+    var id;
+    var player;
+    while (true) {
+      id = random_choice (tile_ids);
+      var icon = icons_by_tile_id[id];
+      var info = info_by_tile_id[id];
+      
+      //console.log(info.weight*(icon && icon.weight || 1));
+      if ((!!icon === !!choose_icon) && (Math.random()*10000 < info.weight*(icon && icon.weight || 1))) {
+        //hack: preserve the ratio of player-specific icons to non-player-specific icons, regardless of the number of players
+        if (icon && icon.color && !player) {
+          player = random_choice (game_state.players);
+        }
+        if (!(player && icon.color !== player.based_on)) {
+          break;
+        }
+      }
+    }
+    var result = {tile_id: id, rotation: random_range (0, 6)};
+    result.graphical_rotation = result.rotation;
+    result.player = player;
+    return result;
+  }
+  
+  function new_tile(game_state) {
+    var tile = create_random_tile(game_state);
+    tile.key = game_state.next_tile_key++;
+    game_state.tiles.push (tile);
+  }
+  
+    
+  var element = React.createElement;
 
   class Tile extends React.Component {
     render() {
-      var CSS = calculate_transform (this.props.id, this.props.horizontal, this.props.vertical, this.props.graphical_rotation);
+      var CSS = calculate_transform (this.props.tile_id, this.props.horizontal, this.props.vertical, this.props.graphical_rotation);
       
-      return element ("use", {xlinkHref: "#"+this.props.id, x:0, y:0, className:"tile", style:CSS});
+      return element ("use", {xlinkHref: "#"+this.props.tile_id, x:0, y:0, className:"tile", style:CSS});
     }
   }
-  class Board extends React.Component {
+  class Game extends React.Component {
+    constructor (props) {
+      super(props);
+      this.state={
+        tiles: [],
+        tiles_by_location: {},
+        next_tile_key: 0,
+        players: props.players,
+      };
+      new_tile (this.state);
+      this.state.tiles [0].horizontal = 0;
+      this.state.tiles [0].vertical = 0;
+      set_tile (this.state.tiles_by_location, this.state.tiles [0]);
+    }
+    
+    move_floating_tile() {
+    
+    }
+    
     render() {
-      var tiles = []
+      var tiles = [];
+      var border_tiles = [];
+      var border_tile_locations = {};
       var min_horizontal = 0;
       var max_horizontal = 0;
       var min_vertical = 0;
       var max_vertical = 0;
-      iterate_tiles (this.state.tiles, function (tile) {
+      var that = this;
+      this.state.tiles.forEach(function(tile) {
         if (tile.horizontal === undefined) {return;}
         var position = tile_position (tile);
-        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
-        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius);
-        min_vertical = Math.min (min_vertical , position.vertical - short_radius);
-        max_vertical = Math.max(max_vertical , position.vertical + short_radius);
-        tiles.push (element (Tile, {key: position_string (tile),...tile}));
+        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius*5/2);
+        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius*5/2);
+        min_vertical = Math.min (min_vertical , position.vertical - short_radius*3);
+        max_vertical = Math.max(max_vertical , position.vertical + short_radius*3);
+        tiles.push (element (Tile, {...tile}));
+        for (var direction = 0; direction <6 ;++direction) {
+          var neighbor = in_direction (tile, direction);
+          var whatever = position_string (neighbor);
+          if (!(get_tile (that.state.tiles_by_location, neighbor) || border_tile_locations [whatever])) {
+            border_tile_locations [whatever] = true;
+            border_tiles.push (element (Tile, {key: whatever, horizontal: neighbor.horizontal, vertical: neighbor.vertical, tile_id: blank_hex_id, rotation: 0, graphical_rotation: 0, onClick: that.move_floating_tile}));
+          }
+        }
       });
       var transform ="translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)";
       
       
 
-      return element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, tiles));
+      return element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, tiles, border_tiles));
     }
   }
   
 
   ReactDOM.render(
-    element ("div", null, "Hello, world!", element ("svg", null, element (Tile, {id: "g8043", horizontal: 0, vertical: 0, graphical_rotation: 0}))),
+    element ("div", null, "Hello, world!", element (Game, {players: [
+    {based_on: "white", name: "white", fill: "#ffffff", stroke: "#000000"},
+    {based_on: "black", name: "black", fill: "#000000", stroke: "#ffffff"},
+    /*{based_on: "white", name: "pink", fill: "#ffaaff", stroke: "#ff00ff"},
+    {based_on: "white", name: "green", fill: "#99ff99", stroke: "#008800"},
+    {based_on: "black", name: "blue", fill: "#0000ff", stroke: "#ffffff"},
+    {based_on: "black", name: "purple", fill: "#5500aa", stroke: "#ffffff"},*/
+  ]}, element (Tile, {tile_id: "g8043", horizontal: 0, vertical: 0, graphical_rotation: 0}))),
     document.getElementById("content")
   );
 
