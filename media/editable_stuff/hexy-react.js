@@ -206,21 +206,78 @@
     delete tiles [position_string (location)]
   }
 
-  function iterate_tiles (tiles, callback) {
+    
+  function collect_path (tiles, tile, from_direction) {
     var found = {};
-    function find (tile) {
-      if (!found [position_string (tile)]) {
-        found [position_string (tile)] = true;
-        callback (tile);
-        for (var direction = 0; direction <6 ;++direction) {
-          var neighbor = get_tile (tiles, in_direction (tile, direction));
-          if (neighbor) {find (neighbor);}
+    var result = {components: [], icons: [], lock: false, completed: true};
+    function find (tile, from_direction) {
+      if (!tile) {result.completed = false; return;}
+      if (!found [position_string (tile)+"_"+from_direction]) {
+        found [position_string (tile)+"_"+from_direction] = true;
+        var connections = info_by_tile_id[tile.tile_id].connections;
+        var index = (from_direction + 6 - tile.rotation) % 6;
+        var destination = connections[index];
+        if (typeof destination === "number") {
+          destination = (connections[index] + tile.rotation) % 6;
+          found [position_string (tile)+"_"+destination] = true;
+          var neighbor = get_tile (tiles, in_direction (tile, destination));
+          find(neighbor, (destination + 3) % 6);
+          result.components.push ({tile, from: from_direction, towards: destination});
+        }
+        else if (destination === "lock") {
+          result.components.push ({tile, from: from_direction, towards: destination})
+          result.lock = true;
+          for (var direction = 0; direction <6 ;++direction) {
+            if (connections [(direction + 6 - tile.rotation) % 6] == lock) {
+              var neighbor = get_tile (tiles, in_direction (tile, direction));
+              find(neighbor, (direction + 3) % 6);
+            }
+          }
+        }
+        else {
+          result.components.push ({tile, from: from_direction, towards: destination});
+          if (destination === icon) {result.icons.push (tile);}
         }
       }
     }
-    find (get_tile (tiles, {horizontal: 0, vertical: 0}));
-    callback (floating_tile);
+    find (tile, from_direction);
+    find (get_tile (tiles, in_direction (tile, from_direction)), (from_direction + 3) % 6);
+    return result;
   }
+  
+  function collect_paths (tiles, tile) {
+    // TODO: no repeats
+    var connections = info_by_tile_id[tile.tile_id].connections;
+    var result = [];
+    for (var direction = 0; direction <6 ;++direction) {
+      result.push (collect_path (tiles, tile, direction));
+    }
+    return result;
+  }
+  
+  function path_legality (path, placed_tile) {
+    var forbidden = false;
+    if (path.icons.length >1) {path.icons.forEach(function(tile) {
+      if (tile === placed_tile) {forbidden = true;}
+    });}
+    if (forbidden) {return "forbidden";}
+    
+    if (!path.completed) {return "acceptable";}
+    
+    if (path.icons.length === 0) {return "acceptable";}
+    if (path.icons.length === 1) {return "waste";}
+    if (path_effects (path) === undefined) {return "waste";}
+    
+    return "success";
+  }
+  var legality_fill = {
+    acceptable: "#0000ff",
+    forbidden: "#ff0000",
+    waste: "#990000",
+    success: "#ffff00"
+  };
+  
+  
 
   function neutral_transform (id) {
     var original = $("#"+id)[0];
@@ -301,11 +358,15 @@
     }
     update_CSS_variables() {
       // Work around React not supporting CSS variables fully
+      var that = this;
       var node = ReactDOM.findDOMNode (this);
       if (this.props.player) {
         node.style.setProperty ("--icon-fill", this.props.player.fill);
         node.style.setProperty ("--icon-stroke", this.props.player.stroke);
       }
+      if (this.props.extra_CSS) {Object.getOwnPropertyNames (this.props.extra_CSS).forEach(function(prop) {
+        node.style.setProperty (prop, that.props.extra_CSS[prop]);
+      });}
     }
     componentDidMount() {
       this.update_CSS_variables() ;
@@ -345,6 +406,7 @@
     
     render() {
       var tiles = [];
+      var tile_metadata = {};
       var border_tiles = [];
       var border_tile_locations = {};
       var min_horizontal = 0;
@@ -352,6 +414,7 @@
       var min_vertical = 0;
       var max_vertical = 0;
       var that = this;
+      var floating_tile = this.state.tiles [this.state.tiles.length - 1];
       function include (location) {
         var position = tile_position (location);
         min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
@@ -360,9 +423,55 @@
         max_vertical = Math.max(max_vertical , position.vertical + short_radius);
       }
       this.state.tiles.forEach(function(tile) {
+        var CSS = {};
+        function do_connection (identifier) {
+          CSS ["--path-fill-" + identifier] = "#808080";
+        }
+        info_by_tile_id[tile.tile_id].connections.forEach(function(connection, index) {
+          if (typeof connection == "number") {
+            if (index <connection) {
+              do_connection (index + "-" + connection);
+            }
+          }
+          else if (connection == "lock") {
+            do_connection ("lock");
+          } else {
+            do_connection (index + "-" + connection);
+          }
+        });
+        tile_metadata [tile.key] = {
+          CSS: CSS,
+        }
+      });
+      
+      
+      function fill_component (tile, from, towards, fill) {
+    from = (from + 6 - tile.rotation) % 6;
+    var CSS = tile_metadata [tile.key].CSS
+    if (typeof towards === "number") {
+      towards = (towards + 6 - tile.rotation) % 6 ;
+      if (from >towards) {[from, towards] = [towards, from];}
+      CSS ["--path-fill-" + from + "-" + towards]= fill;
+    }
+    else if (towards === lock) {
+      CSS ["--path-fill-lock"]= fill;
+    } else {
+      CSS ["--path-fill-" + from + "-" + towards]= fill;
+    }
+  }
+      if (floating_tile.horizontal !== undefined) {collect_paths (that.state.tiles_by_location, floating_tile).forEach(function(path) {
+        var fill = legality_fill [path_legality (path, floating_tile)];
+        path.components.forEach(function(component) {
+          fill_component (component.tile, component.from, component.towards, fill);
+        });
+      });}
+      
+      
+      
+      this.state.tiles.forEach(function(tile) {
         if (tile.horizontal === undefined) {return;}
         include (tile);
-        tiles.push (element (Tile, {...tile}));
+        tiles.push (element (Tile, {extra_CSS: tile_metadata [tile.key].CSS, ...tile}));
         if (tile !== that.state.tiles [that.state.tiles.length - 1]) {for (var direction = 0; direction <6 ;++direction) {
           var neighbor = in_direction (tile, direction);
           var whatever = position_string (neighbor);
