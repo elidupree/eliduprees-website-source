@@ -293,8 +293,25 @@
   class Tile extends React.Component {
     render() {
       var CSS = calculate_transform (this.props.tile_id, this.props.horizontal, this.props.vertical, this.props.graphical_rotation);
-      
+      /*if (this.props.player) {
+        CSS ["--icon-fill"] = this.props.player.fill;
+        CSS ["--icon-stroke"] = this.props.player.stroke;
+      }*/
       return element ("use", {xlinkHref: "#"+this.props.tile_id, x:0, y:0, className:"tile", style:CSS, onClick: this.props.onClick});
+    }
+    update_CSS_variables() {
+      // Work around React not supporting CSS variables fully
+      var node = ReactDOM.findDOMNode (this);
+      if (this.props.player) {
+        node.style.setProperty ("--icon-fill", this.props.player.fill);
+        node.style.setProperty ("--icon-stroke", this.props.player.stroke);
+      }
+    }
+    componentDidMount() {
+      this.update_CSS_variables() ;
+    }
+    componentDidUpdate() {
+      this.update_CSS_variables() ;
     }
   }
   class Game extends React.Component {
