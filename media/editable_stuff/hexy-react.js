@@ -344,6 +344,11 @@
     game_state.tiles.push (tile);
   }
   
+  function begin_turn (state) {
+    new_tile (state);
+    state.placing_tile = true;
+  }
+  
     
   var element = React.createElement;
 
@@ -388,7 +393,7 @@
       this.state.tiles [0].horizontal = 0;
       this.state.tiles [0].vertical = 0;
       set_tile (this.state.tiles_by_location, this.state.tiles [0]);
-      new_tile (this.state);
+      begin_turn (this.state);
     }
     
     move_floating_tile(location) {
@@ -396,13 +401,41 @@
       return function () {that.setState (function (state, props) {
         state = _.cloneDeep (state);
         var floating_tile = state.tiles [state.tiles.length - 1];
+        
         if (floating_tile.horizontal !== undefined) {remove_tile (state.tiles_by_location, floating_tile) ;}
         floating_tile.horizontal = location.horizontal;
         floating_tile.vertical = location.vertical;
-        set_tile (state.tiles_by_location, floating_tile) ;
+        set_tile (state.tiles_by_location, floating_tile);
+        
         return state;
       });};
     }
+    
+    rotate_floating_tile(amount) {
+      var that = this;
+      return function () {that.setState (function (state, props) {
+        state = _.cloneDeep (state);
+        var floating_tile = state.tiles [state.tiles.length - 1];
+        
+        floating_tile.graphical_rotation += amount;
+        floating_tile.rotation = (floating_tile.rotation + amount + 6) % 6;
+        
+        return state;
+      });};
+    }
+    
+    place_floating_tile() {
+      var that = this;
+      return function () {that.setState (function (state, props) {
+        state = _.cloneDeep (state);
+        var floating_tile = state.tiles [state.tiles.length - 1];
+        
+        begin_turn (state);
+        
+        return state;
+      });}
+    }
+
     
     render() {
       var tiles = [];
@@ -485,8 +518,20 @@
       var transform ="translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)";
       
       
-
-      return element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, border_tiles, tiles));
+      
+      var board = element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, border_tiles, tiles));
+      
+      if (this.state.placing_tile) {
+        var buttons = element ("div", {id: "tile_controls"},
+          element ("button", {onClick: this.rotate_floating_tile (- 1)}, "rotate left"),
+          element ("button", {onClick: this.rotate_floating_tile (1)}, "rotate right"),
+          element ("button", {onClick: this.place_floating_tile()}, "place tile")
+        );
+        return element ("div", {}, board, buttons);
+      }
+      else {
+        return board;
+      }
     }
   }
   
