@@ -75,6 +75,7 @@ def prune (element):
   return self_used
 
 prune (modified)
+modified.set ("style", "display: none")
 
 trimmed_svg = XML.tostring (modified, encoding = "unicode", method = "html")
 
