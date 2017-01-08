@@ -335,18 +335,45 @@
     var result = {tile_id: id, rotation: random_range (0, 6)};
     result.graphical_rotation = result.rotation;
     result.player = player;
+    result.key = game_state.next_tile_key++;
+    result.icon = icons_by_tile_id [result.tile_id];
     return result;
   }
   
   function new_tile(game_state) {
     var tile = create_random_tile(game_state);
-    tile.key = game_state.next_tile_key++;
     game_state.tiles.push (tile);
   }
   
   function begin_turn (state) {
-    new_tile (state);
-    state.placing_tile = true;
+    var current_player_index = (state.current_player.index + 1) % state.players.length;
+    var old_player = state.current_player;
+    var player = state.current_player = state.players [current_player_index];
+    
+    if (old_player.skip_turns >0) {
+      old_player.skip_turns--;
+    }
+    if (player.skip_turns >0) {
+      state.current_prompt = {
+        kind: "message",
+        message: "still_skipping",
+      };
+      return;
+    }
+    
+    var tile = create_random_tile(state);
+    
+    if (tile.player === player && (tile.icon.icon === "torso" || tile.icon.icon === "crotch")) {
+      state.current_prompt = {
+        kind: "message",
+        message: "tile_based_skipping",
+        tile: tile,
+      };
+      return;
+    }
+    
+    state.tiles.push (tile);
+    state.current_prompt = {kind:"place_tile"};
   }
   
     
@@ -389,7 +416,18 @@
         next_tile_key: 0,
         players: props.players,
       };
-      new_tile (this.state);
+      this.state.players.forEach(function(player, index) {
+        player.index = index;
+        player.skip_turns = 0;
+      });
+      while (!(this.state.tiles[0] && this.state.tiles[0].player)) {
+        this.state.tiles = [];
+        new_tile (this.state);
+      }
+      this.state.current_player = this.state.players [
+        (this.state.players.length + this.state.tiles[0].player.index - 1)
+        % this.state.players.length
+      ];
       this.state.tiles [0].horizontal = 0;
       this.state.tiles [0].vertical = 0;
       set_tile (this.state.tiles_by_location, this.state.tiles [0]);
@@ -435,6 +473,17 @@
         return state;
       });}
     }
+    
+    dismiss_message() {
+      var that = this;
+      return function () {that.setState (function (state, props) {
+        state = _.cloneDeep (state);
+        
+        begin_turn (state);
+        
+        return state;
+      });}
+    }
 
     
     render() {
@@ -447,7 +496,8 @@
       var min_vertical = 0;
       var max_vertical = 0;
       var that = this;
-      var floating_tile = this.state.tiles [this.state.tiles.length - 1];
+      var floating_tile;
+      if (this.state.current_prompt.kind === "place_tile") { floating_tile = this.state.tiles [this.state.tiles.length - 1];}
       function include (location) {
         var position = tile_position (location);
         min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
@@ -455,7 +505,7 @@
         min_vertical = Math.min (min_vertical , position.vertical - short_radius);
         max_vertical = Math.max(max_vertical , position.vertical + short_radius);
       }
-      this.state.tiles.forEach(function(tile) {
+      var clear_tile = function(tile) {
         var CSS = {};
         function do_connection (identifier) {
           CSS ["--path-fill-" + identifier] = "#808080";
@@ -475,7 +525,9 @@
         tile_metadata [tile.key] = {
           CSS: CSS,
         }
-      });
+      }
+      this.state.tiles.forEach(clear_tile);
+      if (this.state.current_prompt.tile){ clear_tile (this.state.current_prompt.tile);}
       
       
       function fill_component (tile, from, towards, fill) {
@@ -492,20 +544,20 @@
       CSS ["--path-fill-" + from + "-" + towards]= fill;
     }
   }
-      if (floating_tile.horizontal !== undefined) {collect_paths (that.state.tiles_by_location, floating_tile).forEach(function(path) {
+      if (floating_tile && floating_tile.horizontal !== undefined) {collect_paths (that.state.tiles_by_location, floating_tile).forEach(function(path) {
         var fill = legality_fill [path_legality (path, floating_tile)];
         path.components.forEach(function(component) {
           fill_component (component.tile, component.from, component.towards, fill);
         });
       });}
       
-      
+      var draw_tile = function(tile) {return element (Tile, {extra_CSS: tile_metadata [tile.key].CSS, ...tile});}
       
       this.state.tiles.forEach(function(tile) {
         if (tile.horizontal === undefined) {return;}
         include (tile);
-        tiles.push (element (Tile, {extra_CSS: tile_metadata [tile.key].CSS, ...tile}));
-        if (tile !== that.state.tiles [that.state.tiles.length - 1]) {for (var direction = 0; direction <6 ;++direction) {
+        tiles.push (draw_tile (tile));
+        if (tile !== floating_tile) {for (var direction = 0; direction <6 ;++direction) {
           var neighbor = in_direction (tile, direction);
           var whatever = position_string (neighbor);
           if (!(get_tile (that.state.tiles_by_location, neighbor) || border_tile_locations [whatever])) {
@@ -521,7 +573,7 @@
       
       var board = element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, border_tiles, tiles));
       
-      if (this.state.placing_tile) {
+      if (this.state.current_prompt.kind === "place_tile") {
         var buttons = element ("div", {id: "tile_controls"},
           element ("button", {onClick: this.rotate_floating_tile (- 1)}, "rotate left"),
           element ("button", {onClick: this.rotate_floating_tile (1)}, "rotate right"),
@@ -530,7 +582,15 @@
         return element ("div", {}, board, buttons);
       }
       else {
-        return board;
+        var message = element ("div", {id: "messages", style:{
+            backgroundColor: "#ffcccc",
+            textAlign: "center",
+            padding: "0.1em",
+            fontSize: "120%",
+          }},
+          element ("button", {onClick: this.dismiss_message()}, "ok"),
+        );
+        return element ("div", {}, message, board);
       }
     }
   }
