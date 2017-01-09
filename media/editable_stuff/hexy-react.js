@@ -353,6 +353,7 @@
     if (old_player.skip_turns >0) {
       old_player.skip_turns--;
     }
+    old_player.played_yet = true;
     if (player.skip_turns >0) {
       state.current_prompt = {
         kind: "message",
@@ -453,6 +454,7 @@
         floating_tile.horizontal = location.horizontal;
         floating_tile.vertical = location.vertical;
         set_tile (state.tiles_by_location, floating_tile);
+        state.current_player.moved_tile = true;
         
         return state;
       });};
@@ -602,9 +604,16 @@
       var icon = tile && tile.icon;
       message_children.push(paragraph (`${player.name}'s turn!`));
       
-      if (this.state.current_prompt.tile) {
+      if (tile) {
         message_children.push(paragraph (`${player.name}, you drew:`));
-        message_children.push (draw_standalone_tile (this.state.current_prompt.tile));
+        message_children.push (draw_standalone_tile (tile));
+      }
+      if (!player.played_yet) {
+        if (!player.moved_tile) {
+          message_children.push(paragraph (`Tap one of the empty hexes to place it there.`));
+        } else {
+          message_children.push(paragraph (`Great! Tap "place tile" to leave it there and end your turn, or continue moving it around if you're not satisfied.`));
+        }
       }
       
       if (this.state.current_prompt.kind === "place_tile") {
