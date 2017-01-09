@@ -263,6 +263,142 @@
     return result;
   }
   
+
+  function path_effects (path) {
+    if (path.icons.length <2) {return;}
+    
+    var success = {text: "Okay, done"};
+    function fail_option (victim, message) {
+      if (victim === undefined) {
+        return {text: message};
+      } else {
+        return {text: message+` ${victim.name} skips two turns`, action: function() {
+          victim.skip_turns = (victim.skip_turns || 0) + 2;
+        }};
+      }
+    }
+    
+    function tie(icons, victim) {
+      if (icons.length === 2) {
+        return {
+          message:`tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`,
+          options: [success, fail_option (victim, "that's physically impossible")]
+        };
+      }
+      else {
+        var result = `tie together ${describe_tile_icon(icons [0])}`
+        for (var index = 1; index <icons.length - 1;++index) {
+          result += `, ${describe_tile_icon(icons [index])}`
+        }
+        return {
+          message:result+ `, and ${describe_tile_icon(icons [icons.length - 1])}`,
+          options: [success, fail_option (victim, "that's physically impossible")]
+        };
+      }
+    }
+    
+    if (path.lock) {
+      return tie (path.icons);
+    }
+    
+    
+    
+    function strip (player, text) {
+      return {
+        message:`${player.name}, remove a piece of clothing${text}`,
+        options: [
+          success,
+          fail_option (player, `${player.name} has nothing left to remove`),
+        ]
+      };
+    }
+    
+    var handlers = [
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "torso" && second.icon.icon === "crotch") {
+          return strip(first.player,"");
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "torso") {
+          return strip(first.player," from your torso");
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "crotch") {
+          return strip(first.player," from your legs");
+        }
+      },
+      function (first, second) {
+        if (first.player && second.icon.icon === "furniture") {
+          return tie ([first, second], first.player);
+        }
+      },
+      function (first, second) {
+        if (first.player && second.icon.icon === "toybox") {
+          return {
+            message:`${first.player.name}, choose a toy to be used on you`
+          };
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "hand" && second.icon.icon === "foot") {
+          return tie ([first, second], first.player);
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "foot" && second.icon.icon === "foot") {
+          return {
+            message:`tie ${first.player.name}'s feet together`
+          };
+        }
+      },
+      function (first, second) {
+        if (first.player === second.player && first.icon.icon === "hand" && second.icon.icon === "hand") {
+          if (first.player.hands_tied === undefined) {
+            return {
+              message:`tie ${first.player.name}'s hands together in front of them`,
+              options: [
+                {text: "Drat", action: function() {first.player.hands_tied = "front";}},
+                fail_option (first.player, "")
+              ]
+            };
+          }
+          if (first.player.hands_tied === "front") {
+            return {
+              message:`re-tie ${first.player.name}'s hands together behind them`
+            };
+          }
+          if (first.player.hands_tied === "back") {
+            return {
+              message:`${first.player.name}'s hands are already tied behind their back`,
+              options: [
+                fail_option (first.player, "Drat")
+              ]
+            };
+          }
+        }
+      },
+      function (first, second) {
+        if (first.player && second.player && first.icon.icon !== second.icon.icon && (first.icon.icon === "hand" || first.icon.icon === "foot") && (second.icon.icon === "foot" || second.icon.icon === "torso" || second.icon.icon === "crotch")) {
+          return {
+            message: `from now on, ${first.player.name} can stimulate ${describe_tile_icon (second)} with their ${describe_tile_icon (first, true)}`
+            
+          };
+        }
+      },
+
+    ];
+    
+    for (var index = 0; index <handlers.length;++index) {
+      var handler = handlers [index];
+      var result = handler(path.icons [0],path.icons [1]);
+      if (result !== undefined) {return result;}
+      result = handler(path.icons [1],path.icons [0]);
+      if (result !== undefined) {return result;}
+    };
+  }
+  
   function path_legality (path, placed_tile) {
     var forbidden = false;
     if (path.icons.length >1) {path.icons.forEach(function(tile) {
