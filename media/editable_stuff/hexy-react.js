@@ -497,7 +497,6 @@
     if (old_player.skip_turns >0) {
       old_player.skip_turns--;
     }
-    old_player.played_yet = true;
     if (player.skip_turns >0) {
       state.current_prompt = {
         kind: "message",
@@ -623,6 +622,7 @@
         state = _.cloneDeep (state);
         var floating_tile = state.tiles [state.tiles.length - 1];
         
+        state.current_player.played_yet = true;
         begin_turn (state);
         
         return state;
