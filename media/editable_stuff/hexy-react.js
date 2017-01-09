@@ -249,7 +249,15 @@
     // TODO: no repeats
     var connections = info_by_tile_id[tile.tile_id].connections;
     var result = [];
+    var done_lock = false;
     for (var direction = 0; direction <6 ;++direction) {
+      var index = (direction + 6 - tile.rotation) % 6;
+      var destination = connections[index];
+      if (typeof destination === "number" && destination <index) { continue; }
+      if (destination === lock) {
+        if (done_lock) {continue;}
+        done_lock = true;
+      }
       result.push (collect_path (tiles, tile, direction));
     }
     return result;
