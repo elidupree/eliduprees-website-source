@@ -373,7 +373,16 @@
     }
     
     state.tiles.push (tile);
-    state.current_prompt = {kind:"place_tile"};
+    state.current_prompt = {kind:"place_tile", tile: {...tile, key:"message_tile"}};
+  }
+  
+  var messages = {
+    still_skipping: function (state) {
+      
+    },
+    tile_based_skipping: function (state) {
+      
+    },
   }
   
     
@@ -551,7 +560,14 @@
         });
       });}
       
-      var draw_tile = function(tile) {return element (Tile, {extra_CSS: tile_metadata [tile.key].CSS, ...tile});}
+      var draw_tile = function(tile) {
+        return element (Tile, {extra_CSS: tile_metadata [tile.key].CSS, ...tile});
+      }
+      var draw_standalone_tile = function (tile) {
+        var modified = {...tile};
+        modified.horizontal = 0; modified.vertical = 0;
+        return element ("svg", {width: long_radius*2, height: short_radius*2, style:{display: "block", margin: "0.9em auto"}}, element ("g", {style: {transform: "translate("+long_radius+"px,"+short_radius+"px)"}}, draw_tile(modified)));
+      }
       
       this.state.tiles.forEach(function(tile) {
         if (tile.horizontal === undefined) {return;}
@@ -573,24 +589,43 @@
       
       var board = element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, border_tiles, tiles));
       
+      var message_props = {id: "messages", style:{
+            backgroundColor: "#ffcccc",
+            textAlign: "center",
+            padding: "0.1em",
+            fontSize: "120%",
+          }};
+      var message_children = [];
+      var paragraph = function (text) {return element ("p", {}, text);};
+      var player = this.state.current_player;
+      var tile = this.state.current_prompt.tile;
+      var icon = tile && tile.icon;
+      message_children.push(paragraph (`${player.name}'s turn!`));
+      
+      if (this.state.current_prompt.tile) {
+        message_children.push(paragraph (`${player.name}, you drew:`));
+        message_children.push (draw_standalone_tile (this.state.current_prompt.tile));
+      }
+      
       if (this.state.current_prompt.kind === "place_tile") {
         var buttons = element ("div", {id: "tile_controls"},
           element ("button", {onClick: this.rotate_floating_tile (- 1)}, "rotate left"),
           element ("button", {onClick: this.rotate_floating_tile (1)}, "rotate right"),
           element ("button", {onClick: this.place_floating_tile()}, "place tile")
         );
-        return element ("div", {}, board, buttons);
+        return element ("div", {}, element ("div", message_props, message_children), board, buttons);
       }
       else {
-        var message = element ("div", {id: "messages", style:{
-            backgroundColor: "#ffcccc",
-            textAlign: "center",
-            padding: "0.1em",
-            fontSize: "120%",
-          }},
-          element ("button", {onClick: this.dismiss_message()}, "ok"),
-        );
-        return element ("div", {}, message, board);
+        var message = this.state.current_prompt.message;
+        if (message === "tile_based_skipping") {
+          message_children.push (paragraph (`Whoops! It's your own ${icon.icon}. You skip your turn.`));
+          message_children.push (element ("button", {onClick: this.dismiss_message()}, "Drat"));
+        }
+        if (message === "still_skipping") {
+          message_children.push (paragraph (`Whoops! You are still skipping turns.`));
+          message_children.push (element ("button", {onClick: this.dismiss_message()}, "Drat"));
+        }
+        return element ("div", {}, element ("div", message_props, message_children), board);
       }
     }
   }
