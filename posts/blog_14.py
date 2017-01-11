@@ -218,7 +218,6 @@ Thinking about negative characterization helps me write stories. It also helps m
 "title": "Does the law control personal relationships?",
 "tags": ["philosophical"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "blurb": "",
 "contents":'''
 
@@ -226,13 +225,13 @@ Laws often try to regulate personal things. The law has its own opinions about w
 
 For this post, I'm going to use the example of gay marriage. I'm not a huge fan of marriage, but I think it makes a good example here.
 
-In many countries, there are laws that give certain privileges to straight couples, but don't give those privileges to gay couples. This is absolutely <a href="/blog/A-critique-and-defense-of-equality">unfair</a>. But I'm going to look at a much sutler question: do these laws prevent gay people from <em>getting married</em>?
+In many countries, there are laws that give certain privileges to straight couples, but don't give those privileges to gay couples. This is absolutely <a href="/blog/a-critique-and-defense-of-equality">unfair</a>. But I'm going to look at a much sutler question: do these laws prevent gay people from <em>getting married</em>?
 
 <h2>The argument for "no"</h2>
 
 When people say "marriage", they're usually talking about a social relationship &ndash; a personal and/or religious commitment. They're not talking about a mishmash of legal privileges, like hospital visitation and joint tax filing. In this sense, these laws don't make gay marriage illegal at all. It's still completely legal to perform a marriage ceremony. It's legal to live together with any kind of relationship or commitments that you choose.
 
-The only thing the law does is refuse to <em>acknowledge</em> or <em>privilege</em> your relationship. But you can't get a legal certificate saying what my hobbies are, either, and that doesn't mean your hobbies are illegal.
+The only thing the law does is refuse to <em>acknowledge</em> or <em>privilege</em> your relationship. But you can't get a legal certificate saying what your hobbies are, either, and that doesn't mean your hobbies are illegal.
 
 <h2>The argument for "yes"</h2>
 

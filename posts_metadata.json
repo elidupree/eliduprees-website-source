@@ -422,7 +422,9 @@
  "Does the law control personal relationships?": {
   "date_modified": "2017-01-11",
   "date_posted": "2017-01-11",
-  "id": "f84c4784e5568728882b8a9a4d2c569"
+  "deployed": true,
+  "id": "f84c4784e5568728882b8a9a4d2c569",
+  "remembered_contents": "24e9eee38a507d1196edb8f1f834c4a78d6345fbcd3c84e43b512a7fef01382c66d81094b99f8ee840b55577776b2579"
  },
  "Eli status: August 2016": {
   "date_modified": "2016-08-21",
