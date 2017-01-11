@@ -214,6 +214,39 @@ Thinking about negative characterization helps me write stories. It also helps m
 ''',
 },
 
+{
+"title": "Does the law control personal relationships?",
+"tags": ["philosophical"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+
+Laws often try to regulate personal things. The law has its own opinions about what your name is, who your family is, where you live, and so on. But these don't always reflect reality. You might go by a different name. You might live with a different family. You might spend most of your time in a different place.
+
+For this post, I'm going to use the example of gay marriage. I'm not a huge fan of marriage, but I think it makes a good example here.
+
+In many countries, there are laws that give certain privileges to straight couples, but don't give those privileges to gay couples. This is absolutely <a href="/blog/A-critique-and-defense-of-equality">unfair</a>. But I'm going to look at a much sutler question: do these laws prevent gay people from <em>getting married</em>?
+
+<h2>The argument for "no"</h2>
+
+When people say "marriage", they're usually talking about a social relationship &ndash; a personal and/or religious commitment. They're not talking about a mishmash of legal privileges, like hospital visitation and joint tax filing. In this sense, these laws don't make gay marriage illegal at all. It's still completely legal to perform a marriage ceremony. It's legal to live together with any kind of relationship or commitments that you choose.
+
+The only thing the law does is refuse to <em>acknowledge</em> or <em>privilege</em> your relationship. But you can't get a legal certificate saying what my hobbies are, either, and that doesn't mean your hobbies are illegal.
+
+<h2>The argument for "yes"</h2>
+
+Look at what happens in places where the laws change. When the government starts acknowledging gay marriages, many gay couples go out and get married &ndash; and not just in the legal sense of getting a certificate at an office. They actually do the ceremonies and feel like they now have the <em>social</em> relationship of marriage.
+
+Presumably, a lot of these are people who <em>would</em> have gotten married earlier if the law had supported it. If changing laws can <em>cause</em> some people to marry or not-marry, that's a form of control. If the law doesn't actually punish people for marrying, so what? That just means that its control is exerted in some <em>other way</em>. In fact, perhaps this form of control is <em>more</em> effective than punishment. After all, laws that punish drug use don't stop people from using drugs. But I think the law's effect on gay marriages may have been much bigger.
+
+I would say this: A law's control is often not based on punishment, but on <em>trust</em>. Drug users know they can't trust the law. But too many people trust the law to define their personal relationships.
+
+Let's not place our trust in unjust laws.
+
+''',
+},
+
 ]
 
 """
