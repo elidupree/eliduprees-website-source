@@ -779,7 +779,9 @@
  "Positive and negative characterization": {
   "date_modified": "2017-01-04",
   "date_posted": "2017-01-04",
-  "id": "9f83c5048256b3bc57a4951689b2dfa"
+  "deployed": true,
+  "id": "9f83c5048256b3bc57a4951689b2dfa",
+  "remembered_contents": "bfdd36c60e7e997b201bfc485665fc701ed5fe04a17df768960a9d538f63cecfcc5430517279ec10d04d878f2caf49a5"
  },
  "Prose vs. graphic narration": {
   "date_modified": "2011-09-05",
