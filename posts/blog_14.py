@@ -239,7 +239,7 @@ Look at what happens in places where the laws change. When the government starts
 
 Presumably, a lot of these are people who <em>would</em> have gotten married earlier if the law had supported it. If a change in the law can <em>cause</em> some people to marry or not-marry, the law must have had some form of control. If the law never actually punished people for marrying, so what? That just means that its control was exerted in some <em>other way</em>. In fact, perhaps this form of control is <em>more</em> effective than punishment. After all, laws that punish drug use don't stop people from using drugs. But I think the law's effect on gay marriages may have been much bigger.
 
-I would say this: A law's control is often not based on punishment, but on <em>trust</em>. Drug users know they can't trust the law. But too many people trust the law to define their personal relationships, and to define other people's personal relationships as well.
+I would say this: A law's control is often not based on punishment, but on <em>trust</em>. Drug users know they can't trust the law. But too many people trust the law to define other people's personal relationships, and sometimes their own as well.
 
 Let's not place our trust in unjust laws.
 
