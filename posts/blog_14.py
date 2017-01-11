@@ -223,9 +223,9 @@ Thinking about negative characterization helps me write stories. It also helps m
 
 Laws often try to regulate personal things. The law has its own opinions about what your name is, who your family is, where you live, and so on. But these don't always reflect reality. You might go by a different name. You might live with a different family. You might spend most of your time in a different place.
 
-For this post, I'm going to use the example of gay marriage. I'm not a huge fan of marriage, but I think it makes a good example here.
+When the law is wrong about your life, that can cause problems. Some are minor inconveniences, but others are much worse. I've heard of laws giving "family members" the right to make decisions for someone, even after the person severed all ties with them for being abusive. And of course, the law can endanger trans people by outing them by using an incorrect gender marker.
 
-In many countries, there are laws that give certain privileges to straight couples, but don't give those privileges to gay couples. This is absolutely <a href="/blog/a-critique-and-defense-of-equality">unfair</a>. But I'm going to look at a much sutler question: do these laws prevent gay people from <em>getting married</em>?
+For this post, I'm going to use the example of gay marriage. I'm not a huge fan of marriage, but I think it makes a good example here. In many countries, there are laws that give certain privileges to straight couples, but don't give those privileges to gay couples. This is absolutely <a href="/blog/a-critique-and-defense-of-equality">unfair</a>. But I'm going to look at a much sutler question: do these laws prevent gay people from <em>getting married</em>?
 
 <h2>The argument for "no"</h2>
 
