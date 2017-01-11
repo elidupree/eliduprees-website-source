@@ -218,10 +218,10 @@ Thinking about negative characterization helps me write stories. It also helps m
 "title": "Does the law control personal relationships?",
 "tags": ["philosophical"],
 "auto_paragraphs": True,
-"blurb": "",
+"blurb": "The law has its own opinions about what your name is, who your family is, where you live, and so on. But these don't always match reality.",
 "contents":'''
 
-Laws often try to regulate personal things. The law has its own opinions about what your name is, who your family is, where you live, and so on. But these don't always reflect reality. You might go by a different name. You might live with a different family. You might spend most of your time in a different place.
+Laws often try to regulate personal things. The law has its own opinions about what your name is, who your family is, where you live, and so on. But these don't always match reality. You might go by a different name. You might live with a different family. You might spend most of your time in a different place.
 
 When the law is wrong about your life, that can cause problems. Some are minor inconveniences, but others are much worse. I've heard of laws giving "family members" the right to make decisions for someone, even after the person severed all ties with them for being abusive. And of course, the law can endanger trans people by outing them by using an incorrect gender marker.
 
@@ -229,7 +229,7 @@ For this post, I'm going to use the example of gay marriage. I'm not a huge fan 
 
 <h2>The argument for "no"</h2>
 
-When people say "marriage", they're usually talking about a social relationship &ndash; a personal and/or religious commitment. They're not talking about a mishmash of legal privileges, like hospital visitation and joint tax filing. In this sense, these laws don't make gay marriage illegal at all. It's still completely legal to perform a marriage ceremony. It's legal to live together with any kind of relationship or commitments that you choose.
+When people say "marriage", they're usually talking about a <cut>social relationship &ndash; a personal and/or religious commitment. They're not talking about a mishmash of legal privileges, like hospital visitation and joint tax filing. In this sense, these laws don't make gay marriage illegal at all.<footnote((<em>Some</em> countries have laws that outright criminalize gay relationships. That just isn't the subject of <em>this</em> post.))> It's still completely legal to perform a marriage ceremony. It's legal to live together with any kind of relationship or commitments that you choose.
 
 The only thing the law does is refuse to <em>acknowledge</em> or <em>privilege</em> your relationship. But you can't get a legal certificate saying what your hobbies are, either, and that doesn't mean your hobbies are illegal.
 
