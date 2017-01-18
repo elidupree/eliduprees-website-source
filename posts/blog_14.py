@@ -250,13 +250,13 @@ Let's not place our trust in unjust laws.
 "title": "How will creative workers be paid?",
 "tags": ["philosophical"],
 "auto_paragraphs": True,
-"blurb": "",
+"blurb": "A good idea can be shared with everyone for free. Indeed, that's what SHOULD happen. But how will the worker get paid?",
 "contents":'''
 Suppose you work all day building tables, and you want to get paid for your work. You can have a pretty straightforward business model. You can show them your tables, and say, "Give me X dollars, and I will give you one table." People need tables, and they can't pull free tables out of thin air, so you'll probably be able to find people to buy them.
 
 If your work is <em>ideas</em>, things are different. A good idea can be shared with everyone for free. Indeed, that's what <em>should</em> happen, to make the world better for everyone. But how will the worker get paid? Even if you tried to hoard your ideas and sell them, you wouldn't be able to <em>show</em> them to potential buyers without giving them away.
 
-When I talk about "creative workers", you might think of artists, writers, and musicians. But I also mean <em>any</em> worker who mainly works to produce reusable information. That includes scientists, engineers, mathematicians, software developers, and many other things. And as time goes on, more and more traditional jobs are being done by machines. We should prepare for a future where almost <em>all</em> work is creative work.
+When I talk about "creative workers", you might think of artists, writers, and musicians. But I also mean <em>any</em> <cut>worker who mainly works to produce reusable information. That includes scientists, engineers, mathematicians, software developers, and many other things. And as time goes on, more and more traditional jobs are being done by machines. We should prepare for a future where almost <em>all</em> work is creative work.
 
 There have been a lot of different ways to pay creative workers. I'll discuss some of them here:
 
