@@ -264,13 +264,13 @@ There have been a lot of different ways to pay creative workers. I'll discuss so
 
 Also known as "you get paid if a rich person likes your work".
 
-This clearly isn't an ideal system. It may be <em>good</em> for rich people to be generous, but it's not something we should rely on to pay everyday workers.
+This clearly isn't an ideal system. It may be <em>good</em> when rich people are generous, but it's not something we should rely on to pay everyday workers.
 
 <h2>"Intellectual property" controls</h2>
 
-Copyright and patent law allow you to <em>pretend</em> that your work is a traditional product. They let you ban people from sharing and reusing your work, the way somebody would normally share and reuse information. That way, you can at potentially charge them money for the privilege.
+Copyright and patent law allow you to <em>pretend</em> that your work is a traditional product. They let you ban people from sharing and reusing your work. This forces them to use it the way they would normally use a table, not the way they would normally share and reuse information. That way, you can at potentially charge them money for the privilege.
 
-This is obviously inconvenient for other people, but it also creates a unpleasant trade-off for <em>you</em> as well. The more you restrict people from sharing your work, the fewer people will learn of it in the first place. And the fewer people who learn of it, the fewer will pay you. It's actually worse than a popularity contest, because you have to sabotage your own popularity in order to get paid.
+This is obviously inconvenient for other people, but it also creates a unpleasant trade-off for <em>you</em> as well. The more you restrict people from sharing your work, the fewer people will learn of it in the first place. And the fewer people learn of it, the fewer will pay you. It's actually worse than a popularity contest, because you have to sabotage your own popularity in order to get paid.
 
 Information isn't a traditional product, and we shouldn't try to force it to be one.
 
@@ -278,7 +278,7 @@ Information isn't a traditional product, and we shouldn't try to force it to be 
 
 <p class="hidden_from_restricted_users">This is the approach I'm trying to take with my <a href="https://www.patreon.com/EliDupree">Patreon page</a>.</p>
 
-The ideal case is that you share all of your work for free to everyone, and also get paid for it. Voluntary donations can <em>sometimes</em> achieve this ideal. A lot of webcomic artists use this model. Some also try to make money by selling <em>merchandise</em>, which is similar. (The main work is free, and you make money by selling related physical objects.)
+The ideal situation is that you share all of your work for free to everyone, and also get paid for it. Voluntary donations can <em>sometimes</em> achieve this ideal. A lot of webcomic artists use this model. Some also try to make money by selling <em>merchandise</em>, which is similar. (The main work is free, and you make money by selling related physical objects.)
 
 The problem is that you can't make a living this way without having a large audience. And <em>getting an audience</em> isn't easy, even if your work is good. It often involves doing your work for a long time <em>without</em> getting paid. What kinds of people can work for a long time without getting paid? People who already have enough money to support themselves.
 
@@ -288,17 +288,17 @@ I started out with a lot of resources, so I can afford to take the risk that I w
 
 The government can tax everyone, and then pay directly for people to do research and art.
 
-Creative work benefits everyone, but can't force anyone to pay for the benefit. The government, on the other hand, <em>does</em> force people to pay. I don't know if that's <em>good</em>, but it <em>would</em> make the people who pay be the same as the people who benefit.
+Creative work benefits everyone, but can't force anyone to pay for the benefit. The government, on the other hand, <em>does</em> force people to pay. I don't know if that's <em>good</em>, but that's a subject for a different post.
 
 All the previous methods rely on you getting a rich patron or a large audience. Government programs pay creative workers directly, avoiding this problem. I think they have a useful place in the "creative work ecosystem".
 
-However, I wouldn't want to <em>all</em> creative work to be controlled by the government. If the government pays for art, it may be prone to propaganda. And my government doesn't have the best track record for running programs fairly.
+However, I wouldn't want to <em>all</em> creative work to be controlled by the government. If the government pays for art, it may be prone to propaganda. And my government doesn't have a great track record for running programs fairly.
 
 <h2>Being a college professor</h2>
 
 Colleges have an <em>interesting</em> position in society. Theoretically, they're places of vibrant intellectual community. But they also usually rely on rich patrons or the government. And they can be inaccessible to students who don't have enough money to begin with.
 
-Certainly, some creative workers thrive as college professors. But can this support the majority of creative workers? I don't really envision a world where we turn every city block into a college. Even if that was economically practical, I don't think it's the right form of community for everyone.
+Certainly, some creative workers thrive as college professors. But can this support the majority of creative workers? I don't really envision a world where we turn every city block into a college. Even if that becomes economically practical, I don't think it's the right form of community for everyone.
 
 <h2>A basic income</h2>
 
@@ -306,7 +306,7 @@ Earlier, I said, "unless <em>everyone</em> starts with a lot of resources...". W
 
 Honestly, there's only one reason I want to be paid for my work: So that I can survive with decent living conditions. If everyone is paid a living income unconditionally, I won't have to find a way to extract money from my work. I can just dive into my work without worries.
 
-No country-wide basic income has been implemented yet. But there has been some research on smaller-scale basic income programs. As far as I remember from what I've read, people who start getting a basic income generally do the same amount of paid work as they did before. But two kinds of people do significantly less paid work: child-rearers and artists. Child-rearers and artists both do very important work, they just aren't usually paid for it. Getting a basic income frees them up to do more of the important work they're doing. It means they're not forced to split their labor with other jobs.
+No country-wide basic income has been implemented yet. But there has been some research on smaller-scale basic income programs. As far as I remember from what I've read, when people start getting a basic income, they generally do the same amount of paid work as they did before. But two kinds of people do significantly less paid work: child-rearers and artists. Child-rearers and artists both do very important work, they just aren't usually paid for it. Getting a basic income means they're not forced to split their labor with other jobs. This frees them up to do more of the important work they're doing.
 
 
 ''',
