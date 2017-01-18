@@ -511,7 +511,9 @@
  "How will creative workers be paid?": {
   "date_modified": "2017-01-18",
   "date_posted": "2017-01-18",
-  "id": "2e9243723aa31d958de1816282948c0"
+  "deployed": true,
+  "id": "2e9243723aa31d958de1816282948c0",
+  "remembered_contents": "431052bb1f49d2894453ef6d94546ae4c90228264b2f01f676bf1c4126ba46b60526c561f3981b85a71adc3ef6533364"
  },
  "I made biscuits!": {
   "date_modified": "2013-06-16",
