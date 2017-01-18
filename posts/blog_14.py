@@ -229,7 +229,7 @@ For this post, I'm going to use the example of gay marriage. I'm not a huge fan 
 
 <h2>The argument for "no"</h2>
 
-When people say "marriage", they're usually talking about a <cut>social relationship &ndash; a personal and/or religious commitment. They're not talking about a mishmash of legal privileges, like hospital visitation and joint tax filing. In this sense, these laws don't make gay marriage illegal at all.<footnote((<em>Some</em> countries have laws that outright criminalize gay relationships. That just isn't the subject of <em>this</em> post.))> It's still completely legal to perform a marriage ceremony. It's legal to live together with any kind of relationship or commitments that you choose.
+When people say "marriage", they're usually talking about a <cut>social relationship &ndash; a personal and/or religious commitment. They're not talking about a mishmash of legal privileges, like hospital visitation and joint tax filing. In this sense, these laws don't make gay marriage illegal at all.<footnote((<em>Some</em> countries have laws that outright criminalize gay relationships. That just isn't the subject of <em>this</em> post.))> It's still completely -perform a marriage ceremony. It's legal to live together with any kind of relationship or commitments that you choose.
 
 The only thing the law does is refuse to <em>acknowledge</em> or <em>privilege</em> your relationship. But you can't get a legal certificate saying what your hobbies are, either, and that doesn't mean your hobbies are illegal.
 
@@ -242,6 +242,72 @@ Presumably, a lot of these are people who <em>would</em> have gotten married ear
 I would say this: A law's control is often not based on punishment, but on <em>trust</em>. Drug users know they can't trust the law. But too many people trust the law to define other people's personal relationships, and sometimes their own as well.
 
 Let's not place our trust in unjust laws.
+
+''',
+},
+
+{
+"title": "How will creative workers be paid?",
+"tags": ["philosophical"],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+Suppose you work all day building tables, and you want to get paid for your work. You can have a pretty straightforward business model. You can show them your tables, and say, "Give me X dollars, and I will give you one table." People need tables, and they can't pull free tables out of thin air, so you'll probably be able to find people to buy them.
+
+If your work is <em>ideas</em>, things are different. A good idea can be shared with everyone for free. Indeed, that's what <em>should</em> happen, to make the world better for everyone. But how will the worker get paid? Even if you tried to hoard your ideas and sell them, you wouldn't be able to <em>show</em> them to potential buyers without giving them away.
+
+When I talk about "creative workers", you might think of artists, writers, and musicians. But I also mean <em>any</em> worker who mainly works to produce reusable information. That includes scientists, engineers, mathematicians, software developers, and many other things. And as time goes on, more and more traditional jobs are being done by machines. We should prepare for a future where almost <em>all</em> work is creative work.
+
+There have been a lot of different ways to pay creative workers. I'll discuss some of them here:
+
+<h2>Patronage</h2>
+
+Also known as "you get paid if a rich person likes your work".
+
+This clearly isn't an ideal system. It may be <em>good</em> for rich people to be generous, but it's not something we should rely on to pay everyday workers.
+
+<h2>"Intellectual property" controls</h2>
+
+Copyright and patent law allow you to <em>pretend</em> that your work is a traditional product. They let you ban people from sharing and reusing your work, the way somebody would normally share and reuse information. That way, you can at potentially charge them money for the privilege.
+
+This is obviously inconvenient for other people, but it also creates a unpleasant trade-off for <em>you</em> as well. The more you restrict people from sharing your work, the fewer people will learn of it in the first place. And the fewer people who learn of it, the fewer will pay you. It's actually worse than a popularity contest, because you have to sabotage your own popularity in order to get paid.
+
+Information isn't a traditional product, and we shouldn't try to force it to be one.
+
+<h2>Voluntary donations</h2>
+
+<p class="hidden_from_restricted_users">This is the approach I'm trying to take with my <a href="https://www.patreon.com/EliDupree">Patreon page</a>.</p>
+
+The ideal case is that you share all of your work for free to everyone, and also get paid for it. Voluntary donations can <em>sometimes</em> achieve this ideal. A lot of webcomic artists use this model. Some also try to make money by selling <em>merchandise</em>, which is similar. (The main work is free, and you make money by selling related physical objects.)
+
+The problem is that you can't make a living this way without having a large audience. And <em>getting an audience</em> isn't easy, even if your work is good. It often involves doing your work for a long time <em>without</em> getting paid. What kinds of people can work for a long time without getting paid? People who already have enough money to support themselves.
+
+I started out with a lot of resources, so I can afford to take the risk that I won't get popular enough. But unless <em>everyone</em> starts with a lot of resources, this isn't a realistic way to pay most creative workers.
+
+<h2>Government programs</h2>
+
+The government can tax everyone, and then pay directly for people to do research and art.
+
+Creative work benefits everyone, but can't force anyone to pay for the benefit. The government, on the other hand, <em>does</em> force people to pay. I don't know if that's <em>good</em>, but it <em>would</em> make the people who pay be the same as the people who benefit.
+
+All the previous methods rely on you getting a rich patron or a large audience. Government programs pay creative workers directly, avoiding this problem. I think they have a useful place in the "creative work ecosystem".
+
+However, I wouldn't want to <em>all</em> creative work to be controlled by the government. If the government pays for art, it may be prone to propaganda. And my government doesn't have the best track record for running programs fairly.
+
+<h2>Being a college professor</h2>
+
+Colleges have an <em>interesting</em> position in society. Theoretically, they're places of vibrant intellectual community. But they also usually rely on rich patrons or the government. And they can be inaccessible to students who don't have enough money to begin with.
+
+Certainly, some creative workers thrive as college professors. But can this support the majority of creative workers? I don't really envision a world where we turn every city block into a college. Even if that was economically practical, I don't think it's the right form of community for everyone.
+
+<h2>A basic income</h2>
+
+Earlier, I said, "unless <em>everyone</em> starts with a lot of resources...". Well, what if that were true?
+
+Honestly, there's only one reason I want to be paid for my work: So that I can survive with decent living conditions. If everyone is paid a living income unconditionally, I won't have to find a way to extract money from my work. I can just dive into my work without worries.
+
+No country-wide basic income has been implemented yet. But there has been some research on smaller-scale basic income programs. As far as I remember from what I've read, people who start getting a basic income generally do the same amount of paid work as they did before. But two kinds of people do significantly less paid work: child-rearers and artists. Child-rearers and artists both do very important work, they just aren't usually paid for it. Getting a basic income frees them up to do more of the important work they're doing. It means they're not forced to split their labor with other jobs.
+
 
 ''',
 },
