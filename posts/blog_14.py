@@ -268,7 +268,7 @@ This clearly isn't an ideal system. It may be <em>good</em> when rich people are
 
 <h2>"Intellectual property" controls</h2>
 
-Copyright and patent law allow you to <em>pretend</em> that your work is a traditional product. They let you ban people from sharing and reusing your work. This forces them to use it the way they would normally use a table, not the way they would normally share and reuse information. That way, you can at potentially charge them money for the privilege.
+Copyright and patent law allow you to <em>pretend</em> that your work is a traditional product. They let you ban people from sharing and reusing your work. This forces them to use it the way they would normally use a table, not the way they would normally share and reuse information. That way, you can potentially charge them money for the privilege.
 
 This is obviously inconvenient for other people, but it also creates a unpleasant trade-off for <em>you</em> as well. The more you restrict people from sharing your work, the fewer people will learn of it in the first place. And the fewer people learn of it, the fewer will pay you. It's actually worse than a popularity contest, because you have to sabotage your own popularity in order to get paid.
 
