@@ -252,7 +252,7 @@ Let's not place our trust in unjust laws.
 "auto_paragraphs": True,
 "blurb": "A good idea can be shared with everyone for free. Indeed, that's what SHOULD happen. But how will the worker get paid?",
 "contents":'''
-Suppose you work all day building tables, and you want to get paid for your work. You can have a pretty straightforward business model. You can show them your tables, and say, "Give me X dollars, and I will give you one table." People need tables, and they can't pull free tables out of thin air, so you'll probably be able to find people to buy them.
+Suppose you work all day building tables, and you want to get paid for your work. You can have a pretty straightforward business model. You can show people your tables, and say, "Give me X dollars, and I will give you one table." People need tables, and they can't pull free tables out of thin air, so you'll probably be able to find people to buy them.
 
 If your work is <em>ideas</em>, things are different. A good idea can be shared with everyone for free. Indeed, that's what <em>should</em> happen, to make the world better for everyone. But how will the worker get paid? Even if you tried to hoard your ideas and sell them, you wouldn't be able to <em>show</em> them to potential buyers without giving them away.
 
@@ -276,7 +276,7 @@ Information isn't a traditional product, and we shouldn't try to force it to be 
 
 <h2>Voluntary donations</h2>
 
-<p class="hidden_from_restricted_users">This is the approach I'm trying to take with my <a href="https://www.patreon.com/EliDupree">Patreon page</a>.</p>
+<p class="hidden_from_restricted_users">This is the approach I'm trying to take with my <a href="https://www.patreon.com/EliDupreeBlog">Patreon pages</a>.</p>
 
 The ideal situation is that you share all of your work for free to everyone, and also get paid for it. Voluntary donations can <em>sometimes</em> achieve this ideal. A lot of webcomic artists use this model. Some also try to make money by selling <em>merchandise</em>, which is similar. (The main work is free, and you make money by selling related physical objects.)
 
@@ -292,7 +292,7 @@ Creative work benefits everyone, but can't force anyone to pay for the benefit. 
 
 All the previous methods rely on you getting a rich patron or a large audience. Government programs pay creative workers directly, avoiding this problem. I think they have a useful place in the "creative work ecosystem".
 
-However, I wouldn't want to <em>all</em> creative work to be controlled by the government. If the government pays for art, it may be prone to propaganda. And my government doesn't have a great track record for running programs fairly.
+However, I wouldn't want to <em>all</em> creative work to be controlled by the government. If the government pays for art, it may end up censoring that art. And my government doesn't have a great track record for running programs fairly.
 
 <h2>Being a college professor</h2>
 
