@@ -312,6 +312,71 @@ No country-wide basic income has been implemented yet. But there has been some r
 ''',
 },
 
+{
+"title": "Bad actions and punishment",
+"tags": ["philosophical"],
+"auto_paragraphs": True,
+"blurb": "“If you do something bad, you should be punished.” That's something a lot of people believe. But it's much more complicated than that.",
+"contents":'''
+
+"If you do something bad, you should be punished." That's something a lot of people believe. But it's much more complicated than that. In this post, I'm going to explore the morality of punishment.
+
+Since I'm going to be talking about morals, let me be precise about my terms. If I say an action is <strong>good</strong>, I mean it ultimately causes more good than harm. <strong>Bad</strong> means it ultimately causes more harm than good.<footnote((It should really be the morality of a <em>choice</em>, relative to your other possible choices. In this post, I happen to just be talking about "do an action vs. just don't do the action" scenarios.))> For clarity, I'll try to avoid using other meanings of those words. Also, <strong>punishment</strong> can include any action intended to punish. Prison, social censure, physical violence, "time-outs" &ndash; anything. Each have their own issues, but some things are common to all of them.
+
+<h2>Costs and benefits of punishment</h2>
+
+Punishment is inherently a form of harm, so it's always bad unless it also causes more good. I think of this as a <strong>moral cost</strong>. You don't want to pay the moral cost unless you get a big enough moral benefit. So what are <cut>some possible benefits of punishment?
+
+<ul class="big_list">
+<li><strong>Deterrent effect</strong>: Theoretically, if you punish people for doing something, they'll do it less often. However, this has some <em>big</em> exceptions. If it's something people do out of desperation, they will risk the punishment anyway. If it's something people do accidentally, they might not be skilled enough to avoid doing it. And the punishment can even <em>encourage</em> the action, the way banned books get more popular.
+
+<br><br>If I remember right, in children, the research says that says punishment is only effective if it's both prompt and reliable. If it isn't, you just pay the moral cost <em>without</em> gaining the benefit. (Of course, even if it is, the cost might still <em>outweigh</em> the benefit.)
+
+<br><br>Interestingly, this effect isn't necessarily based on how much you <em>actually</em> punish people. Instead, it's based on how much people <em>believe</em> you're punishing people. Social norms and beliefs can end up being more important than the actual action and punishment. I suppose that means, when punishment is actually good, it's also good to <em>publicize</em> the punishment as much as possible.</li>
+<li><strong>Discouraging revenge</strong>: If someone is hurt, they might seek revenge on the person who hurt them. However, if they feel the person has <em>already been sufficiently punished</em>, they might be content enough to go home. If the punishment is less harmful than the revenge would have been, this ends up being a good effect.
+
+<br><br>Notice that this benefit only depends on the victim <em>thinking</em> they know who hurt them. But they can sometimes be wrong. That implies that it might be good for you to punish someone even if <em>you</em> know that person didn't hurt anyone. Punishing an innocent person can even have a deterrent effect, if others believe that the innocent person actually did the thing. Does these things make you uncomfortable?</li>
+</ul>
+
+On the other hand, punishment can also have other bad effects, even besides the direct harm:
+
+<ul class="big_list">
+<li><strong>Prevention of trust</strong>: Suppose you know someone who has a bad habit of punching people. There's a lot of different ways you could try to solve this problem. You could ask zem: What makes you feel like punching people? Can you think of another way you could deal with your feelings? Do you understand how it might hurt the other person? If ze thinks about these questions sincerely, ze might end up changing for the better.
+
+<br><br>But if you're known for punishing people, ze probably won't think about the questions sincerely. Ze'll just give the answers ze thinks will make you least likely to punish zem. When you use punishment as a solution, you actually <em>give up</em> the opportunity to use other solutions.</li>
+<li><strong>Becoming an authority</strong>: If you demonstrate the power to punish people, you become an authority figure. This can theoretically be good, if it stops a worse person from becoming an authority first. But most people don't know how to use authority responsibly. You might end up using your authority to benefit yourself at other people's expense. This can even happen without you realizing it. For instance, people might make sacrifices to get your approval, without you knowing it was only to get your approval.
+
+<br><br>When you punish someone, even if that <em>specific</em> punishment was good, it increases the chance that you might harm someone else using your authority in the future.</li>
+</ul>
+
+<h2>Example scenarios</h2>
+
+Because of the many downsides of punishment, here's a category we can think about: <strong>Actions that are bad, but where punishing them is also bad.</strong>
+
+I happen to think that <em>almost all</em> bad actions are in this category. Other people might think it's not as many. But here's an example that I think most people can agree on: Parents leaving young children unattended for ten minutes.
+
+This action is undoubtedly <em>bad</em> &ndash; young children can get themselves seriously hurt if they are not taken care of. But <em>punishing</em> parents for it is also undoubtedly bad. It's inevitable that a parent will eventually get distracted or make a mistake. Such a punishment has no deterrent effect. Worse, the stress of worrying about being punished uses up parents' mental energy. This makes them <em>more</em> likely to accidentally harm their children in the future.
+
+Here's another example. Suppose there's someone who often abuses you. One day, you decide to fight back. However, you lose the fight and the abuser retaliates by hurting both you and other people.
+
+Your action is technically <em>bad</em> &ndash; if you hadn't done it, fewer people would've been hurt. However, it's ridiculous to punish someone for fighting back against an abuser. If we're trying to solve the problem of people being hurt by abuse, all our energy should be directed towards changing the actions of the <em>abuser</em>. In fact, we probably shouldn't even <em>criticize</em> someone for fighting back in a destructive way. Even by pointing it out at all, we risk putting too much emphasis on their actions, when the problem can only be solved by changing the abuser's actions.
+
+So we can actually break things down into more categories:
+
+<ul>
+<li><strong>Actions that are bad to do, but also bad to criticize.</strong></li>
+<li><strong>Actions that are good to criticize, but bad to punish.</strong></li>
+<li><strong>Actions that are good to punish.</strong></li>
+</ul>
+
+Obviously, this is still too simple &ndash; for instance, an action might be good to criticize in one way, but not in another. But I've found it helpful to think using these categories. It helps remind me not to automatically jump up and criticize someone, even if I think their action is bad.
+
+
+
+
+''',
+},
+
 ]
 
 """
