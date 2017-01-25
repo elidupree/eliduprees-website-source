@@ -380,7 +380,9 @@
  "Bad actions and punishment": {
   "date_modified": "2017-01-25",
   "date_posted": "2017-01-25",
-  "id": "d3bd0ffa5e0ee5f661c94765db54405"
+  "deployed": true,
+  "id": "d3bd0ffa5e0ee5f661c94765db54405",
+  "remembered_contents": "34eb50dad57ba7a038138953e831c26e23c081359e72a76cb12327da2671b4102ed6d2db016acfc0bf39418f6c690923"
  },
  "Brain technique: \u201cPatient problem-solving\u201d": {
   "date_modified": "2016-12-21",
@@ -518,7 +520,7 @@
   "date_posted": "2017-01-18",
   "deployed": true,
   "id": "2e9243723aa31d958de1816282948c0",
-  "remembered_contents": "431052bb1f49d2894453ef6d94546ae4c90228264b2f01f676bf1c4126ba46b60526c561f3981b85a71adc3ef6533364"
+  "remembered_contents": "601eb45ac3010e8ee69b6bdea4843d5ba945cd5a37350488f20fb875e99abfd16c88fa23ce905eecd4b50e219d7c32eb"
  },
  "I made biscuits!": {
   "date_modified": "2013-06-16",
