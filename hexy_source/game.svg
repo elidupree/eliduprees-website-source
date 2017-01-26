@@ -26877,17 +26877,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="54.726297"
-     inkscape:cx="36.331596"
-     inkscape:cy="1064.7821"
+     inkscape:zoom="45.254834"
+     inkscape:cx="8.7382"
+     inkscape:cy="1049.778"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1392"
-     inkscape:window-height="974"
-     inkscape:window-x="41"
-     inkscape:window-y="31"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1068"
+     inkscape:window-x="0"
+     inkscape:window-y="80"
+     inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
      showborder="true"
@@ -27709,7 +27709,7 @@
        sodipodi:cy="-0.25"
        sodipodi:cx="0.43301269"
        id="path6169-1"
-       style="fill:#e4e4e4;stroke:#000000;stroke-width:0.03000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       style="fill:#e4e4e4;stroke:#000000;stroke-width:0.03;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
        sodipodi:type="arc" />
     <path
        id="path7044"
@@ -43538,5 +43538,11 @@
        inkscape:export-filename="/n/art/hex_sex_game/examplegame.png"
        inkscape:export-xdpi="4001.1343"
        inkscape:export-ydpi="4001.1343" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.02869831;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -0.46252196,-0.60209382 c -0.29889536,0.2104338 -0.49876656,0.53391614 -0.55323034,0.89537783 -0.056241,0.38231473 0.055428,0.77028629 0.30630748,1.06420319 l -0.1724154,0.1546468 0.60085397,0.069453 0.0106873,-0.59945505 -0.17443082,0.14802515 c -0.18476045,-0.2171937 -0.26683049,-0.50354117 -0.2251692,-0.78562967 0.0398511,-0.26260471 0.18361545,-0.49815807 0.39894718,-0.65366237 z"
+       id="path16699-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
   </g>
 </svg>
