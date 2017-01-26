@@ -81,6 +81,8 @@
   document.getElementById ("path15465").style.setProperty ("--path-fill", "var(--path-fill-lock)");
   document.getElementById ("use10527").style.setProperty ("--path-fill", "var(--path-fill-3-5)");
   
+  document.getElementById ("path16699-3").style.setProperty ("fill", "var(--arrow-fill)");
+  
   var icons_table = {
     g9171: {grid_position: 1, icon: "hand", color: "black", side: "right", weight: 12},
     g9179: {grid_position: 2, icon: "hand", color: "white", side: "right", weight: 12},
@@ -454,6 +456,18 @@
     //console.log (transform);
     return result
   }
+  function arrow_transform (horizontal, vertical, right) {
+    var position = tile_position (horizontal, vertical);
+    var flip = ""
+    if (right) {flip = " scale(-1,1)";}
+    var transform_origin = ""+(0.5)+"px "+(0.5)+"px 0px";
+    //console.log (transform_origin);
+    var transform = (
+      "translate("+ (-(0.5))+"px, "+ (-(0.5))+"px)"
+    )+(
+      " translate(" + position.horizontal + "px," + position.vertical + "px)"+flip +" scale(" + long_radius+ "," + long_radius+ ")");
+    return {"transformOrigin": transform_origin, transform: transform};
+  }
   
   
   function create_random_tile (game_state) {
@@ -655,10 +669,10 @@
       if (this.state.current_prompt.kind === "place_tile") { floating_tile = this.state.tiles [this.state.tiles.length - 1];}
       function include (location) {
         var position = tile_position (location);
-        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
-        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius);
-        min_vertical = Math.min (min_vertical , position.vertical - short_radius);
-        max_vertical = Math.max(max_vertical , position.vertical + short_radius);
+        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius*2);
+        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius*2);
+        min_vertical = Math.min (min_vertical , position.vertical - short_radius*2);
+        max_vertical = Math.max(max_vertical , position.vertical + short_radius*2);
       }
       var clear_tile = function(tile) {
         var CSS = {};
@@ -732,8 +746,16 @@
       var transform ="translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)";
       
       
+      var tile_controls = [];
+      if (this.state.current_prompt.kind === "place_tile" && floating_tile.horizontal !== undefined) {
+        tile_controls = [
+          element ("use", {xlinkHref: "#path16699-3", x:0, y:0, className:"rotation_arrow", style:arrow_transform (floating_tile.horizontal, floating_tile.vertical, false), key:"rotate_left", onClick: this.rotate_floating_tile (- 1)}),
+          element ("use", {xlinkHref: "#path16699-3", x:0, y:0, className:"rotation_arrow", style:arrow_transform (floating_tile.horizontal, floating_tile.vertical, true), key:"rotate_right", onClick: this.rotate_floating_tile (1)}),
+          element ("button", {key:"place_tile", onClick: this.place_floating_tile()})
+        ];
+      }
       
-      var board = element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, border_tiles, tiles));
+      var board = element ("svg", {width: max_horizontal - min_horizontal, height: max_vertical - min_vertical, style:{display: "block", margin: "0 auto"}}, element ("g", {style: {transform}}, border_tiles, tiles, tile_controls));
       
       var message_props = {id: "messages", style:{
             backgroundColor: "#ffcccc",

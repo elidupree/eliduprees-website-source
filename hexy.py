@@ -54,6 +54,7 @@ def find(element):
 
 for id in tile_ids:
   find (elements_by_id [id])
+find (elements_by_id ["path16699-3"])
 
 modified.remove (elements_by_id ["layer1"])
 elements_by_id ["defs4"].append(elements_by_id ["layer1"])
@@ -210,6 +211,12 @@ when their “opponent” is too tied up to reach the board.
 
 .tile {
   transition-duration: 0.6s;
+}
+.rotation_arrow {
+  --arrow-fill: #ffffff;
+}
+.rotation_arrow:hover {
+  --arrow-fill: #ffff00;
 }
 button {
   font-size: 120%;
