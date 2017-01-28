@@ -4,3 +4,4 @@
 /build
 /__pycache__
 Thumbs.db
+/server_scripts/secrets.py
