@@ -102,7 +102,7 @@ Last secret ID: '''+ last_secret_comment_identifier
     if response.getcode() != 200:
       raise errors.WebsiteError ("Your comment failed to be delivered.")
     else:
-      with open ("/home/public/secrets/recent_comments.txt", "a", encoding = "utf-8") as file:
+      with open ("/home/public/secrets/recent_comments.txt", "a") as file:
         file.write (reviewable_text)
 
   preview_items.append('<div class="comment_body">'+postprocessed_string+'</div>')
