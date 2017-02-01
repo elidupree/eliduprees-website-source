@@ -54,6 +54,7 @@ def cleanup_post(post_string):
 
 def ajax_func():
   import os
+  import sys
   import forms
   import random
   import datetime
@@ -86,6 +87,9 @@ def ajax_func():
 
 Secret ID: '''+ secret_comment_identifier +'''
 Last secret ID: '''+ last_secret_comment_identifier
+  
+  if sys.getsizeof(reviewable_text) > 100000:
+    raise errors.WebsiteError("Oops! I don't support comments larger than about 100 kB.")
 
   (postprocessed_string, scrutinies, broken_tags_marked) = blog_server_shared.postprocess_post_string(contents, None, None, True);
   if broken_tags_marked:
@@ -97,6 +101,9 @@ Last secret ID: '''+ last_secret_comment_identifier
     response = urllib.urlopen ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.urlencode ({"value1": reviewable_text}))
     if response.getcode() != 200:
       raise errors.WebsiteError ("Your comment failed to be delivered.")
+    else:
+      with open ("/home/public/secrets/recent_comments.txt", "a", encoding = "utf-8") as file:
+        file.write (reviewable_text)
 
   preview_items.append('<div class="comment_body">'+postprocessed_string+'</div>')
 
