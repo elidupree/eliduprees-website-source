@@ -392,7 +392,7 @@ I want not pleasure, but awe. Not the beautiful, but the sublime. Not "that was 
 
 If someone says to me, "I liked your story", that's nice, but it's not what I'm after. I want to hear "I never saw things that way before". Or "That was fascinating". Or "I'm still processing it". Or "I didn't think that was possible". Or "I can't believe I didn't realize that before". Or "I'm going to remember that next time I..." Or even "What the fuck did I just read?"
 
-When you tell your friends about it, I don't want to make you say "You should read Eli's book. It's a high-quality piece of literature." I want to make you trip over yourself trying to retell the whole story, because you have no other words to express what you've just experienced. I don't want to be <em>like</em> some other famous story. I want to <em>become</em> the point of reference that you use to explain the rest of your world.
+When you tell your friends about it, I don't want to make you say "You should read Eli's book. It's a high-quality piece of literature." I want to make you trip over yourself trying to retell the whole story, because you have no other words to express what you've just experienced. I don't want to be <em>like</em> some other famous story. I want to <em>become</em> a point of reference that you use to explain the rest of your world.
 
 Only after I have changed human nature &ndash; that is when I will have mastered my craft of writing.
 
