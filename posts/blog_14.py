@@ -377,6 +377,28 @@ Obviously, this is still too simple &ndash; for instance, an action might be goo
 ''',
 },
 
+
+{
+"title": "Let my writing shake the world.",
+"tags": ["writing"],
+"auto_paragraphs": True,
+"blurb": "I want to show you something you've never seen before.",
+"contents":'''
+<p>(Content warning: physical violence used as a metaphor.)</p>
+
+I don't want my writing to be memorable like a beautiful sunset. I want it to be memorable like being stabbed in the face.
+
+I want not pleasure, but awe. Not the beautiful, but the sublime. Not "that was cool", but "holy shit!" I want my work to change you. I want to show you something you've never seen before. Something that shakes the foundations of your beliefs. I want to take what you thought was simple, and make it seem bizarre. I want to take what you thought was bizarre, and make it seem simple. I want to show you the truth hidden in plain sight.
+
+If someone says to me, "I liked your story", that's nice, but it's not what I'm after. I want to hear "I never saw things that way before". Or "That was fascinating". Or "I'm still processing it". Or "I didn't think that was possible". Or "I can't believe I didn't realize that before". Or "I'm going to remember that next time I..." Or even "What the fuck did I just read?"
+
+When you tell your friends about it, I don't want to make you say "You should read Eli's book. It's a high-quality piece of literature." I want to make you trip over yourself trying to retell the whole story, because you have no other words to express what you've just experienced. I don't want to be <em>like</em> some other famous story. I want to <em>become</em> the point of reference that you use to explain the rest of your world.
+
+Only after I have changed human nature &ndash; that is when I will have mastered my craft of writing.
+
+''',
+},
+
 ]
 
 """
