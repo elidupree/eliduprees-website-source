@@ -67,7 +67,7 @@ codecophony.receive_completed_buffer = function (message) {
   });
 }
 
-codecophony.load_file = function (file) {
+codecophony.load_audio_file = function (file) {
   var id = codecophony.generate_id();
   var record = state.items [id] = {
     id: id,
@@ -84,7 +84,7 @@ codecophony.load_file = function (file) {
         return true;
       }
       var message = {
-        message_type: "analyze_samples"
+        message_type: "append_samples"
         id: state.current_recording_id,
         channel_data: [],
       }
@@ -97,5 +97,9 @@ codecophony.load_file = function (file) {
   }); };
   reader.readAsArrayBuffer (file);
 }
+
+codecophony.user_set_JSON_item = function () {
+  
+});
 
 });
