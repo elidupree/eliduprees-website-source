@@ -593,9 +593,11 @@
   "remembered_contents": "e4cbaa0ad896346d8539dc59759adbb6bbdcf7be4744da1be144c7978eb7de8805c33f0ca0ba278a3df26a4fbe7134a4"
  },
  "Let my writing shake the world.": {
-  "date_modified": "2017-02-01",
+  "date_modified": "2017-02-02",
   "date_posted": "2017-02-01",
-  "id": "5b79f3336a8bd343bf88265da7554a4"
+  "deployed": true,
+  "id": "5b79f3336a8bd343bf88265da7554a4",
+  "remembered_contents": "0b93d51b7df1bcd618c5d03cb26cb28d29b8454ed2edc858c64791065a48de088caa966242318dd496771b807776e729"
  },
  "Let's talk about affirmative consent!": {
   "date_modified": "2011-11-08",
