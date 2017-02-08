@@ -974,7 +974,10 @@ def sidebar_with_entries (index_entries, header, random_itemname):
     
   '''+ MailChimp_form + Patreon_link +index
 
-tag_index = '<div class="index_page_entry">All tags</div>' + "\n".join (['<div class="index_entry"><a href="'+ tags.tag_url (tag [0]) +'" title="'+ tag [1] +'">'+ tag [1] + '</a></div>' for tag in tags.tags_list])
+def tag_index_entry(tag):
+  text = tag [1]+' ('+str(len(posts_by_tag[tag[0]]))+')'
+  return '<div class="index_entry"><a href="'+ tags.tag_url (tag [0]) +'" title="'+ text +'">'+ text + '</a></div>'
+tag_index = '<div class="index_page_entry">All tags</div>' + "\n".join ([tag_index_entry(tag) for tag in tags.tags_list])
 
 def page_list_sidebar (page_list, header, tags_string = ""):
   index_entries = []
