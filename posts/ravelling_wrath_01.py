@@ -68,11 +68,11 @@ We'd been dating for about a month, and Yali was one of the calmest, most patien
 
 The gods?! I wondered again. What could the gods have to do with us? Sure, "Our five gods are the foundation of all life in the city", but <em>really</em>. We were just a couple of kids. Weren't we?
 
-I dashed across a street and tried to parkour my way up the low wall on the other side. I made it, barely. It was just a couple more blocks uphill to the side-gate I was going to use.
+I dashed across a street and tried to parkour my way up the high embankment on the other side. I made it, barely. It was just a couple more blocks uphill to the side-gate I was going to use.
 
-Our city is built on a hill. It's divided into five circular layers by five walls, each with its own great gate, to honor the five gods who watch over us all. Supposedly. In real life, only four of the gods were worshipped, and only three of them had taxes and temples. And each of the walls had a dozen smaller gates, and the outer wall was in total ruins, and the only people I'd noticed "watching over me" were those hypocrites who ran the schools. May the Stern God take them.
+Our city was built on a hill. It had five circular layers, separated by five walls, each with its own great gate, to honor the five gods who watched over us all. Supposedly. In real life, only four of the gods were worshipped, and only three of them had taxes and temples. And each of the walls had a dozen smaller gates, and the outer wall was in total ruins, and the only beings I'd noticed "watching over me" were those hypocrites who ran the schools. May the Stern God take them.
 
-Anyway, <em>I</em> lived on the fifth layer, at the bottom. Our school was on the fourth layer, and <em>Yali</em> lived on the third. So it was always an uphill run to get there. I <em>could</em> take a bus, but when I'm excited to see her, I don't like to just sit around and wait. Plus, the bus can't take a shortcut through some shmuck's backyard like I was doing.
+Anyway, <em>I</em> lived on the fifth layer, at the bottom. Our school was on the fourth layer, and <em>Yali</em> lived on the third. So it was always an uphill run to get there. I <em>could</em> take a bus, but when I'm excited to see her, I don't like to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing.
 
 
 ''',
