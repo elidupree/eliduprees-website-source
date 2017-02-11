@@ -70,9 +70,55 @@ The gods?! I wondered again. What could the gods have to do with us? Sure, "Our 
 
 I dashed across a street and tried to parkour my way up the high embankment on the other side. I made it, barely. It was just a couple more blocks uphill to the side-gate I was going to use.
 
-Our city was built on a hill. It had five circular layers, separated by five walls, each with its own great gate, to honor the five gods who watched over us all. Supposedly. In real life, only four of the gods were worshipped, and only three of them had taxes and temples. And each of the walls had a dozen smaller gates, and the outer wall was in total ruins, and the only beings I'd noticed "watching over me" were those hypocrites who ran the schools. May the Stern God take them.
+Our city was built on a hill. It had five circular layers, separated by five walls, each with its own great gate, to honor the five gods who watched over us all. Supposedly. In real life, only four of the gods were worshipped, and only three of them had taxes and temples. And each of the walls had a dozen smaller gates, and the outer wall was in total ruins, and the only beings I'd noticed "watching over me" were those hypocrites who ran the schools. May the Stern God take them. I knew the gods were out there doing <em>something</em>, I just didn't see what it had to do with me.
 
-Anyway, <em>I</em> lived on the fifth layer, at the bottom. Our school was on the fourth layer, and <em>Yali</em> lived on the third. So it was always an uphill run to get there. I <em>could</em> take a bus, but when I'm excited to see her, I don't like to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing.
+Anyway, <em>I</em> lived on the fifth layer, at the bottom. Our school was on the fourth layer, and <em>Yali</em> lived on the third. So it was always an uphill run to get there. I <em>could</em> take a bus, but when I'm excited to see her, I don't like to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing. Heh.
+
+Panting, I finally made it up to the side gate. From there, it would only be a short run to Yali's place. But my legs didn't want to do it. I paused to lean my back against the cool stones of the gate and catch my breath. Why did why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
+
+I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "you ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
+
+She gently pulled me inside and we flopped down on a couch. While I relaxed, Yali leaned forward, looking off into the distance, as if she was thinking hard about something. She turned halfway towards me and opened her mouth, but then closed it again. Was this the important thing she was going to tell me? But she... couldn't figure out how to say it?
+
+"Your leg!" said Yali suddenly.
+
+I looked down. On the leg of my pants, there was a dark stain. Blood. "I must have hurt it when," I panted, "when I was jumping a fence on the way here. I didn't notice." Yali gave me a skeptical look. "I was in a hurry!"
+
+"You cut open your leg, and you didn't notice <em>because you were in a hurry</em>."
+
+"Of course! What's weird about that?"
+
+Yali smiled. "Well, we should get this cleaned up."
+
+"Give me a minute." I wasn't planning to get up from the couch <em>any</em>time soon.
+
+"We can do it here. I'll be right back."
+
+Yali came back wearing nitrile gloves, carrying bandages and stuff. "Did you become an EMT when I wasn't looking?" I teased.
+
+"YouTube tutorials," murmured Yali. She handed me a piece of gauze. "If it's still bleeding, I'll want you to press this onto the wound." She gave me a lopsided smile. "Now remove your pants."
+
+"I thought you'd never ask," I teased back, as I did what she said.
+
+Yali muttered while she worked. "Your pants are pretty tight. That might have helped stop the bleeding. Still a mess though. Don't worry about the couch, it's just a thing. Hold still, this might sting a bit."
+
+"I'll be fiiiiiine." Yali cleaned up the wound with some sort of antiseptic wipe. It stung a bit. I was fine.
+
+"Good. Now, I'm not sure if we can fit this Band-Aid over the whole cut. So I'll use the cloth bandages. Can you slide forward a bit? Good."
+
+While she was finishing up, I echoed, "YouTube tutorials?"
+
+"It seemed like something I might need to know eventually."
+
+"You watch YouTube first aid tutorials in your," pant, pant, "spare time, just because you might need to know them <em>eventually</em>?"
+
+"Of course!" said Yali. We laughed together.
+
+
+
+
+
+Why <em>did</em> she live on the third layer, anyway?
 
 
 ''',
