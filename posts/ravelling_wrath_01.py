@@ -112,10 +112,53 @@ While she was finishing up, I echoed, "YouTube tutorials?"
 
 "You watch YouTube first aid tutorials in your," pant, pant, "spare time, just because you might need to know them <em>eventually</em>?"
 
-"Of course!" said Yali. We laughed together.
+"Of course!" said Yali.
 
+We laughed together. ????? Yali and I were so different, yet so... so...
 
+?????
 
+"What's the important thing?"
+
+Yali... hesitated. I couldn't tell whether she was uncomfortable or just not sure what to say. She swallowed. Turned away. Turned back towards me. My heart seemed to be pounding harder than it was even when I was running.
+
+"I don't," blurted out Yali, "know how to tell you this. I've been trying to plan it out, all day, but it's just, it's just, the words. They won't come."
+
+"I &ndash;" I didn't know what to say. Yali was always so sure of herself! I had no idea how to respond to this. "I... we could save it for another day if you're &ndash;"
+
+"No!"
+
+I jumped. Yali's expression was still carefully neutral, but she had spoken with so much force...
+
+"I didn't mean to yell. But I should've told you this a long time ago. I just, I just... How do <em>you</em> always know what to say?"
+
+"What? You're the one who always knows what to say!"
+
+"Just help me out here."
+
+"Uh..." I said. "Maybe if you start by, uh... at the beginning? Or like find ONE thing you know how to tell me and start with that?"
+
+"I could work with that." Yali was silent for a minute. ?????
+
+Finally, she spoke up. "How much do you know about," she swallowed, "the Ravelling?"
+
+"Don't tell me you're one of the Chosen!?"
+
+"It's, it's, it's worse than that. Just tell me how much you know, so I can explain from there."
+
+I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous about what she was going to tell me, and now I had to explain the Ravelling like I was in Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of tasks. If they live, they get to go home, and the gods can... Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles &ndash; "
+
+Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
+
+"It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but then you're screwing your career, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could &ndash; I could lose you forever &ndash;"
+
+Yali ignored me. She was speaking clearly again. "Most of the Chosen don't even know they've been picked until the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer knows in advance. And the Farseer can also see other things. She gets the memories of past Farseers, and &ndash; Why am I talking like this? It's me. I'm the Farseer. And you're &ndash;"
+
+I froze. I could see where this sentence was going, and I didn't like it. Me, one of the Chosen? A million questions formed in my head at once. And then all the questions vanished again. What could I even say?
+
+"&ndash; you're the Blood Child."
+
+I snapped back into the present. Yali was looking at me carefully. Studying me, to see how was going to react. But how <em>was</em> I going to react?
 
 
 Why <em>did</em> she live on the third layer, anyway?
