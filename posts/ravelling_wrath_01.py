@@ -138,7 +138,7 @@ I jumped. Yali's expression was still carefully neutral, but she had spoken with
 
 "Uh..." I said. "Maybe if you start by, uh... at the beginning? Or like find ONE thing you know how to tell me and start with that?"
 
-"I could work with that." Yali was silent for a minute. ?????
+"I could work with that." Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. ??????
 
 Finally, she spoke up. "How much do you know about," she swallowed, "the Ravelling?"
 
@@ -158,7 +158,16 @@ I froze. I could see where this sentence was going, and I didn't like it. Me, on
 
 "&ndash; you're the Blood Child."
 
-I snapped back into the present. Yali was looking at me carefully. Studying me, to see how was going to react. But how <em>was</em> I going to react?
+I snapped back into the present. Yali was looking at me carefully. Studying me, to see how was going to react. But how <em>was</em> I going to react? There were so many things going through my head. What – how – why –
+
+Yali took my hand. "Think of one thing you know how to tell me, and start with that."
+
+"Okay... <em>how</em>? I don't even follow the Blood God. Nobody does. Why would the Blood God pick <em>me</em> out of everyone?"
+
+"The gods don't pick the Ravellers based on who worships them," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "They pick people who live by their <em>principles</em>. So, for example, the Waiting God values patience, foresight, and planning.
+
+[Dawning on Rinn that this is real]
+
 
 
 Why <em>did</em> she live on the third layer, anyway?
