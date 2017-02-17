@@ -669,6 +669,12 @@
   "deployed": true,
   "id": "841d48435429a919ada81f219ad7187"
  },
+ "No blog post today": {
+  "date_modified": "2017-02-15",
+  "date_posted": "2017-02-15",
+  "deployed": true,
+  "id": "a89c22cf2b93a31b813b3cab773ed19"
+ },
  "No comic today": {
   "date_modified": "2011-10-22",
   "date_posted": "2011-10-22",

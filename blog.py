@@ -1004,6 +1004,7 @@ current_blog_page = page_lists ["blog"] [len (page_lists ["blog"])-1]
 current_blog_page_extras = [
 {"title": "New online tool for voice practice!", "stream_entry": ("/voice-practice-tool", "New online tool for voice practice!")},
 {"title": "New collection of drawings from a studio art class!", "stream_entry": ("/ap-studio-art", "New collection of drawings from a studio art class!")},
+{"title": "No blog post today", "stream_entry": ("/", "No blog post today. I have a sore in my mouth, so I can't dictate and/or type enough. I MIGHT post one on Friday if it gets better soon.")},
 ]
 def consider_list_for_current_page (list, limit = 8):
   for index in range (1, min (1 + limit, 1 + len( list))):
