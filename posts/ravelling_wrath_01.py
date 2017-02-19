@@ -15,6 +15,9 @@ posts = [
 
   ''',
   "head":'''<style>
+div.blog_post h2 {
+  text-align: center;
+}
 div.blog_post p {
   clear: both;
 }
@@ -40,6 +43,8 @@ p.text.left {
 A pair of teenagers get caught up in a conflict between the gods.
 
 <bigbreak>
+
+<h2>Chapter 1: Blood Child</h2>
 
 "Ow! Fuck."
 
@@ -84,7 +89,7 @@ She gently pulled me inside and we flopped down on a couch. While I relaxed, Yal
 
 I looked down. On the leg of my pants, there was a dark stain. Blood. "I must have hurt it when," I panted, "when I was jumping a fence on the way here. I didn't notice." Yali gave me a skeptical look. "I was in a hurry!"
 
-"You cut open your leg, and you didn't notice <em>because you were in a hurry</em>."
+"You tore open your leg, and you didn't notice <em>because you were in a hurry</em>."
 
 "Of course! What's weird about that?"
 
@@ -94,7 +99,7 @@ Yali smiled. "Well, we should get this cleaned up."
 
 "We can do it here. I'll be right back."
 
-Yali came back wearing nitrile gloves, carrying bandages and stuff. "Did you become an EMT when I wasn't looking?" I teased.
+Yali came back wearing nitrile gloves, carrying bandages and stuff. "Did you become a paramedic when I wasn't looking?" I teased.
 
 "YouTube tutorials," murmured Yali. She handed me a piece of gauze. "If it's still bleeding, I'll want you to press this onto the wound." She gave me a lopsided smile. "Now remove your pants."
 
@@ -104,9 +109,9 @@ Yali muttered while she worked. "Your pants are pretty tight. That might have he
 
 "I'll be fiiiiiine." Yali cleaned up the wound with some sort of antiseptic wipe. It stung a bit. I was fine.
 
-"Good. Now, I'm not sure if we can fit this Band-Aid over the whole cut. So I'll use the cloth bandages. Can you slide forward a bit? Good."
+"Good. Now, I'm not sure if we can fit this band-aid over the whole cut. So I'll wrap it with the cloth bandages. Can you slide forward a bit? Good."
 
-While she was finishing up, I echoed, "YouTube tutorials?"
+As she was finishing up, I echoed, "YouTube tutorials?"
 
 "It seemed like something I might need to know eventually."
 
@@ -114,11 +119,9 @@ While she was finishing up, I echoed, "YouTube tutorials?"
 
 "Of course!" said Yali.
 
-We laughed together. ????? Yali and I were so different, yet so... so...
+We laughed together. Yali and I were so different, yet so... so...
 
-?????
-
-"What's the important thing?"
+Yali went to put away the extra bandages and stuff. By the time she was back, I had finally caught my breath. Maybe now this distraction was over. I said, "So, about what you texted me…"
 
 Yali... hesitated. I couldn't tell whether she was uncomfortable or just not sure what to say. She swallowed. Turned away. Turned back towards me. My heart seemed to be pounding harder than it was even when I was running.
 
@@ -138,7 +141,7 @@ I jumped. Yali's expression was still carefully neutral, but she had spoken with
 
 "Uh..." I said. "Maybe if you start by, uh... at the beginning? Or like find ONE thing you know how to tell me and start with that?"
 
-"I could work with that." Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. ??????
+"That could work..." Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. I watched her uncertainly. She didn't look upset, but this wasn't something I'd seen before. Yali squinting. Yali chewing her lip. From anyone else, that wouldn't have caught my attention. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
 
 Finally, she spoke up. "How much do you know about," she swallowed, "the Ravelling?"
 
@@ -152,7 +155,7 @@ Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
 "It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but then you're screwing your career, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could &ndash; I could lose you forever &ndash;"
 
-Yali ignored me. She was speaking clearly again. "Most of the Chosen don't even know they've been picked until the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer knows in advance. And the Farseer can also see other things. She gets the memories of past Farseers, and &ndash; Why am I talking like this? It's me. I'm the Farseer. And you're &ndash;"
+Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're, they're, the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also &ndash; Why am I talking like this? It's me. I'm the Farseer. And you're &ndash;"
 
 I froze. I could see where this sentence was going, and I didn't like it. Me, one of the Chosen? A million questions formed in my head at once. And then all the questions vanished again. What could I even say?
 
@@ -160,11 +163,99 @@ I froze. I could see where this sentence was going, and I didn't like it. Me, on
 
 I snapped back into the present. Yali was looking at me carefully. Studying me, to see how was going to react. But how <em>was</em> I going to react? There were so many things going through my head. What – how – why –
 
-Yali took my hand. "Think of one thing you know how to tell me, and start with that."
+"Do you know the history between them?" continued Yali. "The Waiting God and the Blood God?"
 
-"Okay... <em>how</em>? I don't even follow the Blood God. Nobody does. Why would the Blood God pick <em>me</em> out of everyone?"
+My head was spinning. "I don't feel like I know anything about anything. Where do I even start?"
 
-"The gods don't pick the Ravellers based on who worships them," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "They pick people who live by their <em>principles</em>. So, for example, the Waiting God values patience, foresight, and planning.
+Yali took my hand. "Think of one thing you know how to ask me, and start with that."
+
+She made it look so easy, throwing my own advice right back at me. Well, the advice <em>did</em> work. I cleared my throat. "Okay... <em>how</em>? I don't even follow the Blood God. Nobody does. Why would the Blood God pick <em>me</em> out of everyone?"
+
+"The gods don't pick the Ravellers based on who worships them. They pick people who live by their <em>principles</em>," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "So, for example, the Waiting God values patience, foresight, and planning. And – you know me, I'd plan what shoes to wear to my own execution."
+
+"Well of course it makes than for <em>you</em>, I was even comparing you to the Waiting God earlier today –"
+
+"Really?"
+
+"When you texted me. You know, 'When the Waiting God moves, beware.'"
+
+"Oh, that. But it does fit…" Yali thought it over. Then she got back to explaining. "The other gods have their own values, too. The Seeking God likes curiosity, of course, the Stern God likes conviction…"
+
+"And the Blood God?"
+
+"The Blood God values… <em>power</em>."
+
+"Power? What am I, a high priest?"
+
+Yali laughed. "Not that kind of power. The Blood God's idea of power is more… personal. 'Power of the body, the mind, and the heart.' Which <em>you</em> have in spades."
+
+"I do?"
+
+"Says the person who casually jumped a fence on the way here, and –"
+
+"No, I get the 'body' part. But the others. What does 'power of the heart' even mean? I mean in real life."
+
+"Hmm." Yali considered for a minute. "So this fence you jumped… would it happen to be Old Man Tienna's?"
+
+"Stern take him," I said.
+
+"The one who says he'll sic his dogs on any kids he catches trespassing…"
+
+"He's just a blowhard," I said. "He'll yell at you, but he'll never actually do it."
+
+"You're not… worried about it? At all?"
+
+"What, are you saying the power is courage? Just because I –"
+
+"You really can't see it?"
+
+"See what?"
+
+"It's not <em>just</em> courage. It's more like, like, like <em>everything</em> is easy for you. You just go wherever you want and don't worry about the consequences, and you fight whoever you want, and you, you, you even get good grades. You do all this rebellious stuff and you still walk away with good grades afterwards."
+
+I shrugged. "I do the work."
+
+"You just <em>do the work</em>, and &ndash; Come on. What was your worst grade last year?"
+
+"I had a B- in History, but &ndash;"
+
+"A B-. That was my <em>best</em> grade last year."
+
+"What?! How can I be getting better grades than someone who was literally selected by the gods for being smart?"
+
+"<em>Not</em> for being smart. For patience, foresight, and planning," said Yali patiently.
+
+"What's the difference? Can't you just... <em>plan</em> your way into getting the right answers? Oh! And <em>foresee</em> what's going to be on the test!"
+
+"Well, I'll be able to do that <em>soon</em>."
+
+"What?"
+
+"I mean, that's one of the magic powers the Farseer gets. But I'll get back to that. Schoolwork really isn't that easy for me. If you give me a worksheet to do, I just, just can't focus on it. Like I have to find the right time of day, get relaxed, make sure to take care of anything else I'm worrying about, and <em>then</em> I can sit down with a worksheet, and then <em>maybe</em> I can focus on it. But most of the time there's just too much other stuff going on in my head. But <em>you</em>, you just think, 'I want to focus on this,' and then you try to focus, and then you're focused. That's how you are. 'I wanted to do it, so I did it.' <em>That's power.</em> It's just automatic for you, so you don't even notice it, but you have power <em>here</em> –" she touched my arm "– and <em>here</em> –" she touched my forehead "– and <em>here</em> –"
+
+She touched my heart.
+
+Her hand on my heart felt like a pulse of energy. It was as if she was <em>giving</em> me the power, not just telling me about it. It was a thrill, but it also felt like… a burden.
+
+"Shit," I said glumly. "This is real."
+
+"It – is."
+
+"Well… at least we'll be in it together? I won't have to wait here on Earth all winter wondering if you're going to make it."
+
+Yali was biting her lip.
+
+"What?" I said.
+
+"The – history. Between the Blood Child and the Farseer..."
+
+"What is it?"
+
+"Listen, before I tell you this, just know that I have a plan, understand? I have a plan for what we can do, so that both of us can stay – safe."
+
+
+
+
 
 [Dawning on Rinn that this is real]
 
