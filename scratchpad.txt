@@ -1,0 +1,206 @@
+string ='''
+
+'''
+
+index = 0
+def transform (match):
+  nonlocal index
+  if match.group (0) == "voldemort's":
+    index = index + 1
+    return match.group (0)
+  else:
+    return "voldemorts-children/" +str (index)
+  
+import re
+print (re.sub (r"voldemort's|voldemorts-children/\d+", transform, string ))
+
+
+
+import shutil
+import re
+import subprocess
+
+with open ("./game.svg", "r") as file:
+  text = file.readall ()
+  text_identifiers = [match.group (1) for match in re. finditer (r'''<text.*?id=".+?)".*?(?<!>R|>L)</tspan></text>''')]
+shutil.copy ("./game.svg", "./without_text.svg")
+shutil.copy ("./game.svg", "./with_only_text.svg")
+
+subprocess.run (["inkscape", "./without_text.svg"] + ["--select=" + ID for ID in text_identifiers] + ["--verb=EditDelete","--verb=FileSave"])
+subprocess.run (["inkscape", "./with_only_text.svg"] + ["--select=" + ID for ID in text_identifiers] + ["--verb=EditInvert","--verb=EditDelete","--verb=FileSave"])
+
+
+
+
+codecophony:
+
+main thread:
+only this thread can interact with the UI.
+Only this thread can interact with web audio.
+Forbidden from cloning large arrays to or from other threads or indexedDB, although it may transfer them with other threads.
+Records audio input, and also clone-messages it live (incrementally, in small chunks) to Trusted Worker.
+The UI gives information about tasks that have been allocated to other threads and not yet completed.
+
+Trusted Worker:
+Able to interact with indexedDB.
+New audio buffers are sent here to be analyzed/rendered; analysis is sent incrementally to the main thread to be shown to the user
+Answers requests from Sandbox Worker for stuff from indexedDB.
+Fetches MIDIJS instruments and stores them in indexedDB.
+
+Sandbox Worker:
+runs user scripts.
+
+render_notes:
+first iterates through the notes, requesting all instruments and sorting them by start time.
+Incrementally transfers the rendered audio to Trusted Worker for analysis.
+You may specify a "focal time" to begin the rendering at, so that you can get prompt updates if you're tweaking the middle of a long piece of music. Also maybe we should be more incremental in general? Render_notes could examine the previous collection of notes and only re-render parts that have changed. The "focal time" feature is still useful if you, say, transpose the entire piece.
+
+
+
+"invariants" (things which should become true if you leave the scripts alone long enough to do them):
+manually created user data is in indexedDB
+MIDIJS instruments which are referenced by any project are in indexedDB
+MIDIJS instruments which are NOT referenced by any project are NOT in indexedDB
+the UI reflects the data in indexedDB
+
+
+
+
+
+var reference_intervals = [];
+
+// inefficient algorithm to generate the lookup table
+// specifically, we want to be able to look up, for any interval, the interval with the smallest odd-limit that is within the just-noticeable-difference (about 0.6%, according to Wikipedia) of the query.
+
+var JND = 1.006;
+var semitone_ratio = Math.pow (2, 1/12) ;
+
+function closest_intervals_impl (frequency) {
+  var index =_.sortedIndexBy (reference_intervals, {frequency}, (interval) => interval.frequency);
+  var previous = reference_intervals [index - 1];
+  var next = reference_intervals [index];
+  
+  if (!previous) {previous = {numerator: 1, denominator: 1, frequency: 1.0};}
+  if (!next) {next = {numerator: 1, denominator: 1, frequency: 2.0};}
+  
+  return {index, previous, next};
+}
+
+var limit = 3;
+while (limit < 40) {
+  var done = reference_intervals.length >0;
+  reference_intervals.forEach(function(interval, index) {
+    var next = reference_intervals [index + 1];
+    if (next && next.frequency > interval.frequency*JND*JND) {done = false;}
+    if (!next && 2.0 > interval.frequency*JND*JND) {done = false;}
+  });
+  if (done) {break;}
+  
+  
+  function consider (limit, numerator, denominator) {
+    var frequency = numerator/denominator;
+    while (frequency <1.0) {frequency *= 2;}
+    while (frequency >2.0) {frequency /= 2;}
+    var interval = {limit, numerator, denominator, frequency};
+    
+    var nearby = closest_intervals_impl (frequency);
+    
+    // try not to duplicate intervals by ruling out ones that are VERY close
+    // I could instead rule out intervals that are not introduced form, but I can't bother
+    if (nearby.previous.frequency*1.00001 > frequency && frequency*1.00001 > nearby.previous.frequency) {return;}
+    if (nearby.next.frequency*1.00001 > frequency && frequency*1.00001 > nearby.next.frequency) {return;}
+    
+    //rule out intervals that are already in the shadow of others
+    if (nearby.next.frequency < nearby.previous.frequency*JND*JND) {return;}
+      
+    reference_intervals.splice (nearby.index, 0, interval);
+  }
+  for (var other = 1; other <= limit; other += 2) {
+    consider (limit, limit, other);
+    consider (limit, other, limit);
+  }
+  
+  limit += 2;
+}
+
+function closest_interval (frequency) {
+  while (frequency <1.0) {frequency *= 2;}
+  while (frequency >2.0) {frequency /= 2;}
+  
+  var nearby = closest_intervals_impl (frequency);
+  if (frequency/nearby.previous.frequency < nearby.frequency/frequency) {
+    return nearby.previous;
+  }
+  else {
+    return nearby.next;
+  }
+}
+
+function note_frequency (note) {
+  return 261.626 * Math.pow (2, note.pitch / 12) * (note.speed || 1);
+}
+
+function optimize (notes, extras) {
+  if (!extras) {extras={};}
+  if (extras.neighbor_leeway === undefined) {extras.neighbor_leeway = 0.2;}
+  if (extras.iterations === undefined) {extras.iterations = 30;}
+  if (extras.change_leeway === undefined) {extras.change_leeway = 1.015;}
+  if (extras.interval_quality === undefined) {
+    extras.interval_quality = function (frequency) {
+      var closest = closest_interval (frequency);
+      return -Math.abs (frequency/closest.frequency - 1.0) - closest.limit
+    }
+  }
+  notes.forEach(function(note) {
+    note.neighbors = [];
+    note.original_frequency = note.frequency = note_frequency (note);
+  });
+  notes.forEach(function(first) {
+    notes.forEach(function(second) {
+      if (first == second) {return;}
+      if (first.start <= second.start + second.duration + extras.neighbor_leeway && second.start <= first.start + first.duration + extras.neighbor_leeway) {
+        first.neighbors.push (second);
+      }
+    });
+  });
+  
+  function compute_quality (first) {
+    var total_quality = 0;
+    first.neighbors.forEach(function(second) {
+      total_quality += extras.interval_quality (first.frequency/second.frequency);
+    });
+    return total_quality;
+  }
+  notes.forEach(function(note) {
+    note.quality = compute_quality (note);
+  });
+  
+  for (var iteration = 0; iteration <extras.iterations;++iteration) {
+   notes.forEach(function(note) {
+    var old_frequency = note.frequency;
+    var new_frequency = note.frequency;
+    var adjustment = Math.exp(Math.random ()*(Math.random ()*2-1.0));
+    new_frequency *= adjustment;
+    if (new_frequency < note.original_frequency*extras.change_leeway && new_frequency*extras.change_leeway > note.original_frequency) {
+      note.frequency = new_frequency;
+      var new_quality = compute_quality (note);
+      if (new_quality >note.quality) {
+        note.quality = new_quality;
+      }
+      else {
+        note.frequency = old_frequency;
+      }
+    }
+   });
+  }
+  notes.forEach(function(note) {
+    while (note.frequency/note.original_frequency >semitone_ratio) {note.frequency /= semitone_ratio; note.pitch -= 1;}
+    while (note.original_frequency/note.frequency >semitone_ratio) {note.frequency *= semitone_ratio; note.pitch += 1;}
+    note.speed = (note.speed || 1)*note.frequency/note.original_frequency;
+  });
+console.log(notes)
+}
+
+optimize
+
+
