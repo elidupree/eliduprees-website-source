@@ -67,6 +67,81 @@ the UI reflects the data in indexedDB
 
 
 
+
+
+
+
+
+var notes = [];
+for (var whatever = 0; whatever <100;++whatever) {
+  notes.push ({
+    start: Math.floor (Math.random()*30)/3,
+    duration: Math.random()*0.4 + 0.2,
+    pitch: Math.floor (Math.random()*12)-6,
+    instrument: "trumpet",
+    volume: 1,
+  });
+}
+items.optimize (notes, {change_leeway:2, iterations:510, interval_quality:
+  function (interval, imperfection, first, second) {
+    var center = (first.start + second.start)/2;
+    var target = 11 - center;
+    var reward = -Math.abs (interval.limit - target)*Math.abs (interval.limit - target);
+    return reward - imperfection;
+  }
+});
+items.example_notes = notes;
+
+var example_sequence = items.example_sequence = codecophony.render_notes (notes);
+
+
+
+var notes = codecophony.scrawl (
+  `with instrument trumpet pitch -10 duration 0.28 change_leeway 1.015
+
+play 0 then 2 then 3 then 5 then 7 then 8 then 10 then 12
+then 0 then 2 then 3 then 5 then 7 then 8 then 10 then 12
+then 0 then 2 then 3 then 5 then 7 then 8 then 10 then 12
+then 0 then 2 then 3 then 5 then 7 then 8 then 10 then 12
+
+`
+)
+for (var scale = 1; scale <32;scale*=2) {
+  for (var position = 0; position <32; position += scale) {
+    notes.push ({
+      start: position/4,
+      duration: scale/4,
+      pitch: 0,//Math.floor (Math.random()*12)-6,
+      instrument: "trumpet",
+      volume: 0.2,
+    });
+  }
+}
+
+items.optimize (notes, {change_leeway:2, iterations:510,interval_quality: function (interval, imperfection, first, second) {
+      var overlapping = (first.start <second.start + second.duration - 0.2) && (second.start <first.start + first.duration - 0.2);
+      var badness = interval.limit;
+      
+      if (overlapping) {
+        badness = badness*badness;
+        imperfection *= 20;
+      }
+else if (badness == 9 || badness == 17) {
+badness = -10
+}
+if (interval.limit === 1) {badness = 7999999;}
+      var result =-imperfection - badness;
+      return result*first.volume*second.volume;
+    }
+});
+items.example_notes3 = notes;
+
+var example_sequence = items.example_sequence3 = codecophony.render_notes (notes);
+
+
+
+
+
 var reference_intervals = [];
 
 // inefficient algorithm to generate the lookup table
@@ -80,8 +155,8 @@ function closest_intervals_impl (frequency) {
   var previous = reference_intervals [index - 1];
   var next = reference_intervals [index];
   
-  if (!previous) {previous = {numerator: 1, denominator: 1, frequency: 1.0};}
-  if (!next) {next = {numerator: 1, denominator: 1, frequency: 2.0};}
+  if (!previous) {previous = {limit: 1, numerator: 1, denominator: 1, frequency: 1.0};}
+  if (!next) {next = {limit: 1, numerator: 1, denominator: 1, frequency: 2.0};}
   
   return {index, previous, next};
 }
@@ -146,9 +221,15 @@ function optimize (notes, extras) {
   if (extras.iterations === undefined) {extras.iterations = 30;}
   if (extras.change_leeway === undefined) {extras.change_leeway = 1.015;}
   if (extras.interval_quality === undefined) {
-    extras.interval_quality = function (frequency) {
-      var closest = closest_interval (frequency);
-      return -Math.abs (frequency/closest.frequency - 1.0) - closest.limit
+    extras.interval_quality = function (interval, imperfection, first, second) {
+      var overlapping = (first.start <second.start + second.duration - extras.neighbor_leeway) && (second.start <first.start + first.duration - extras.neighbor_leeway);
+      var badness = interval.limit;
+      if (interval.limit === 1) {badness = 7;}
+      if (overlapping) {
+        badness *= 2;
+        imperfection *= 20;
+      }
+      return -imperfection - badness*badness*badness;
     }
   }
   notes.forEach(function(note) {
@@ -164,10 +245,17 @@ function optimize (notes, extras) {
     });
   });
   
+  function pair_quality (first, second) {
+    var frequency = first.frequency/second.frequency;
+    while (frequency <1.0) {frequency *= 2;}
+    while (frequency >2.0) {frequency /= 2;}
+    var closest = closest_interval (frequency);
+    return extras.interval_quality (closest, Math.abs (Math.log (frequency/closest.frequency)), first, second);
+  }
   function compute_quality (first) {
     var total_quality = 0;
     first.neighbors.forEach(function(second) {
-      total_quality += extras.interval_quality (first.frequency/second.frequency);
+      total_quality += pair_quality (first, second);
     });
     return total_quality;
   }
@@ -175,13 +263,18 @@ function optimize (notes, extras) {
     note.quality = compute_quality (note);
   });
   
+  var adjustment_scale = Math.log (extras.change_leeway)*2;
+  var adjustment_scale_final = Math.log (1.001);
+  var adjustment_scale_decay = Math.pow(adjustment_scale_final/adjustment_scale, 1/extras.iterations);
   for (var iteration = 0; iteration <extras.iterations;++iteration) {
    notes.forEach(function(note) {
     var old_frequency = note.frequency;
     var new_frequency = note.frequency;
-    var adjustment = Math.exp(Math.random ()*(Math.random ()*2-1.0));
+    var leeway = note.change_leeway || extras.change_leeway;
+    var scale = Math.min (adjustment_scale, Math.log (leeway));
+    var adjustment = Math.exp(scale*(Math.random ()*2-1.0));
     new_frequency *= adjustment;
-    if (new_frequency < note.original_frequency*extras.change_leeway && new_frequency*extras.change_leeway > note.original_frequency) {
+    if (new_frequency < note.original_frequency*leeway && new_frequency*leeway > note.original_frequency) {
       note.frequency = new_frequency;
       var new_quality = compute_quality (note);
       if (new_quality >note.quality) {
@@ -192,11 +285,13 @@ function optimize (notes, extras) {
       }
     }
    });
+   adjustment_scale *= adjustment_scale_decay;
   }
   notes.forEach(function(note) {
-    while (note.frequency/note.original_frequency >semitone_ratio) {note.frequency /= semitone_ratio; note.pitch -= 1;}
-    while (note.original_frequency/note.frequency >semitone_ratio) {note.frequency *= semitone_ratio; note.pitch += 1;}
-    note.speed = (note.speed || 1)*note.frequency/note.original_frequency;
+    var pitch_frequency = note.original_frequency;
+    while (note.frequency/pitch_frequency >semitone_ratio) {pitch_frequency *= semitone_ratio; note.pitch += 1;}
+    while (pitch_frequency/note.frequency >semitone_ratio) {pitch_frequency /= semitone_ratio; note.pitch -= 1;}
+    note.speed = (note.speed || 1)*note.frequency/pitch_frequency;
   });
 console.log(notes)
 }

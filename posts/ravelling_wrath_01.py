@@ -50,7 +50,7 @@ A pair of teenagers get caught up in a conflict between the gods.
 
 I scrambled the rest of the way over the fence, dropped down, and hopped on my bruised leg to see if it was okay. It was, so I kept running. I shouldn't have messed up jumping a fence like that, but I was in a hurry. Yali had texted me earlier that day. She'd said it was <em>important</em>.
 
-Worse yet, they'd already kept me late after school. They gave me the usual "Rinn-Akatura-you-have-to-understand-what-is-appropriate-behavior-for-a-young-lady" spiel. Well, I didn't start the fight, and I wasn't just going to stand there and do nothing. "Appropriate behavior for a young lady" can kiss my ass.
+Worse yet, they'd already kept me late after school. ?????[this is a detention] They gave me the usual "Rinn-Akatura-you-have-to-understand-what-is-appropriate-behavior-for-a-young-lady" spiel. Well, I didn't start the fight, and I wasn't just going to stand there and do nothing. "Appropriate behavior for a young lady" can kiss my ass.
 
 I didn't say that to <em>them</em>, though. The Stern God's people can be awfully uptight about that. Why do the Stern run the schools, anyway? Isn't the Seeking God the one that's all about learning? But I just kept quiet and pretended to care about their lecture, so they wouldn't keep me even later. On a normal day, it would've been fun to take the piss out of them. But <em>Yali</em>.
 
@@ -75,11 +75,11 @@ The gods?! I wondered again. What could the gods have to do with us? Sure, "Our 
 
 I dashed across a street and tried to parkour my way up the high embankment on the other side. I made it, barely. It was just a couple more blocks uphill to the side-gate I was going to use.
 
-Our city was built on a hill. It had five circular layers, separated by five walls, each with its own great gate, to honor the five gods who watched over us all. Supposedly. In real life, only four of the gods were worshipped, and only three of them had taxes and temples. And each of the walls had a dozen smaller gates, and the outer wall was in total ruins, and the only beings I'd noticed "watching over me" were those hypocrites who ran the schools. May the Stern God take them. I knew the gods were out there doing <em>something</em>, I just didn't see what it had to do with me.
+Our city was built on a hill. It had five circular layers, separated by five walls, each with its own great gate, to honor the five gods who watched over us all. Supposedly. In real life, only four of the gods were worshipped, and only three of them had taxes and temples. And each of the walls had a dozen smaller gates, and the outer wall was in total ruins, and the only beings I'd noticed "watching over me" were those hypocrites who ran the schools, may the Stern God take them. I knew the gods were out there doing <em>something</em>, I just didn't see what it had to do with me.
 
 Anyway, <em>I</em> lived on the fifth layer, at the bottom. Our school was on the fourth layer, and <em>Yali</em> lived on the third. So it was always an uphill run to get there. I <em>could</em> take a bus, but when I'm excited to see her, I don't like to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing. Heh.
 
-Panting, I finally made it up to the side gate. From there, it would only be a short run to Yali's place. But my legs didn't want to do it. I paused to lean my back against the cool stones of the gate and catch my breath. Why did why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
+Panting, I finally made it up to the side gate. From there, it would only be a short run to Yali's place. But my legs didn't want to do it.?????[this is a hard run even if you do it every day] I paused to lean my back against the cool stones of the gate and catch my breath. Why did why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
 
 I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "you ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
 
@@ -87,19 +87,19 @@ She gently pulled me inside and we flopped down on a couch. While I relaxed, Yal
 
 "Your leg!" said Yali suddenly.
 
-I looked down. On the leg of my pants, there was a dark stain. Blood. "I must have hurt it when," I panted, "when I was jumping a fence on the way here. I didn't notice." Yali gave me a skeptical look. "I was in a hurry!"
+I looked down. On the leg of my pants, there was a dark stain. Blood, I guess. "I must have hurt it when," I panted, "when I was jumping a fence on the way here. I didn't notice." Yali gave me a skeptical look. "I was in a hurry!"
 
-"You tore open your leg, and you didn't notice <em>because you were in a hurry</em>."
+Yali smiled. "You tore open your leg, and you didn't notice <em>because you were in a hurry</em>."
 
 "Of course! What's weird about that?"
 
-Yali smiled. "Well, we should get this cleaned up."
+Still smiling, she started getting to her feet. "Well, we should get this cleaned up."
 
 "Give me a minute." I wasn't planning to get up from the couch <em>any</em>time soon.
 
 "We can do it here. I'll be right back."
 
-Yali came back wearing nitrile gloves, carrying bandages and stuff. "Did you become a paramedic when I wasn't looking?" I teased.
+Yali came back wearing disposable gloves, carrying bandages and stuff. "Did you become a paramedic when I wasn't looking?" I teased.
 
 "YouTube tutorials," murmured Yali. She handed me a piece of gauze. "If it's still bleeding, I'll want you to press this onto the wound." She gave me a lopsided smile. "Now remove your pants."
 
@@ -115,7 +115,7 @@ As she was finishing up, I echoed, "YouTube tutorials?"
 
 "It seemed like something I might need to know eventually."
 
-"You watch YouTube first aid tutorials in your," pant, pant, "spare time, just because you might need to know them <em>eventually</em>?"
+"You watch YouTube first aid tutorials in your," pant, pant,??????[needed to mention this earlier] "spare time, just because you might need to know them <em>eventually</em>?"
 
 "Of course!" said Yali.
 
@@ -131,7 +131,7 @@ Yali... hesitated. I couldn't tell whether she was uncomfortable or just not sur
 
 "No!"
 
-I jumped. Yali's expression was still carefully neutral, but she had spoken with so much force...
+I jumped. Yali's expression was still neutral, oddly enough, but she had spoken with so much force...
 
 "I didn't mean to yell. But I should've told you this a long time ago. I just, I just... How do <em>you</em> always know what to say?"
 
@@ -143,7 +143,7 @@ I jumped. Yali's expression was still carefully neutral, but she had spoken with
 
 "That could work..." Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. I watched her uncertainly. She didn't look upset, but this wasn't something I'd seen before. Yali squinting. Yali chewing her lip. From anyone else, that wouldn't have caught my attention. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
 
-Finally, she spoke up. "How much do you know about," she swallowed, "the Ravelling?"
+Finally, she spoke up. "How much do you know about what happens during," she swallowed, "the Ravelling?"
 
 "Don't tell me you're one of the Chosen!?"
 
@@ -257,11 +257,6 @@ Yali was biting her lip.
 
 
 
-[Dawning on Rinn that this is real]
-
-
-
-Why <em>did</em> she live on the third layer, anyway?
 
 
 ''',

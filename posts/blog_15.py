@@ -40,6 +40,29 @@ In this post, I'm not trying to convince you which of those forms of violence ar
 ''',
 },
 
+{
+"title": "A slight change to my blog schedule, and an update on my projects",
+"tags": ["this website"],
+"auto_paragraphs": True,
+"blurb": "No serious-business blog post today, but I'm in the process of writing a new story.",
+"contents":'''
+My "post something every Wednesday" schedule hasn't been working very well for me lately. I keep putting off writing a blog post into Wednesday, then feeling lethargic on Wednesday and not wanting to write one. Now, this isn't <em>entirely</em> a problem – after all, it's gotten me to write some good posts, even if I didn't 100% enjoy the process. However, there's an extra issue:
+
+A lot of the time, I've been working on some <em>other</em> project that I'll post here eventually, but it isn't ready to post by Wednesday. So when Wednesday rolls around, I <em>interrupt</em> myself from that project in order to write a blog post. My blog posts are Serious Business and take a lot of mental energy, so writing one really disrupts my flow on the other project.
+
+So I feel like I need to change my schedule. The problem is, if I just <em>skip</em> Wednesdays when I need to, I'm worried that I'll <cut>skip a lot of them and lose my sense of Obligation To Produce Stuff. I'm intentionally maintaining that sense of obligation, because it generally makes me produce more stuff without being too much of a burden on me, so I don't want to lose it.
+
+So my new rule is this: I still have to post something every Wednesday, but sometimes it can be just <em>a short status update about a project I'm currently working on</em>. To make sure the rule stays rigid, I can only do this if I actually use the Wednesday to work on a project.
+
+In that spirit, here's what I'm working on currently:
+
+I'm in the process of writing a new story, named <em>Ravelling Wrath</em>. I've written about 2500 words and drawn about 20% of a picture. When I have about 4000 words and 2 pictures, I'll be ready to publish the first chapter (out of 18 planned).
+
+I've also been messing around with some computer music generation. Here are some of the coolest ditties it's produced so far. I didn't choose any of the pitches myself. (<a href="/media/randomly-generated-music-1.wav?rr">Randomly generated music 1</a>, <a href="/media/randomly-generated-music-2.wav?rr">randomly generated music 2</a>)
+
+''',
+},
+
 ]
 
 """
