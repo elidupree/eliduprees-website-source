@@ -50,7 +50,7 @@ A pair of teenagers get caught up in a conflict between the gods.
 
 I scrambled the rest of the way over the fence, dropped down, and hopped on my bruised leg to see if it was okay. It was, so I kept running. I shouldn't have messed up jumping a fence like that, but I was in a hurry. Yali had texted me earlier that day. She'd said it was <em>important</em>.
 
-Worse yet, they'd already kept me late after school. ?????[this is a detention] They gave me the usual "Rinn-Akatura-you-have-to-understand-what-is-appropriate-behavior-for-a-young-lady" spiel. Well, I didn't start the fight, and I wasn't just going to stand there and do nothing. "Appropriate behavior for a young lady" can kiss my ass.
+Worse yet, they'd already kept me late after school in detention. They gave me the usual "Rinn-Akatura-you-have-to-understand-what-is-appropriate-behavior-for-a-young-lady" spiel. Well, I didn't start the fight, and I wasn't just going to stand there and do nothing. "Appropriate behavior for a young lady" can kiss my ass.
 
 I didn't say that to <em>them</em>, though. The Stern God's people can be awfully uptight about that. Why do the Stern run the schools, anyway? Isn't the Seeking God the one that's all about learning? But I just kept quiet and pretended to care about their lecture, so they wouldn't keep me even later. On a normal day, it would've been fun to take the piss out of them. But <em>Yali</em>.
 
@@ -253,10 +253,53 @@ Yali was biting her lip.
 
 "Listen, before I tell you this, just know that I have a plan, understand? I have a plan for what we can do, so that both of us can stay – safe."
 
+"Just tell me."
 
+"You always – The Blood Child always – No... if I explain it like that, you won't <em>get</em> it." Yali swallowed. "When I was Chosen as the Farseer, I got two powers. One of them was the ability to see possible futures, although it's very weak and hard to use here in the material world. The other was a lot of <em>memories</em>. The memories of dozens of previous Farseers. So I can <em>remember</em> previous Ravellings, almost as if they happened to me directly."
 
+"And...?"
 
+"In each Ravelling, I'm a different person, and the other Ravellers are different too. They don't always have the same powers, and they don't always have the same personalities – except for, for, they always have something in common with their god, but the rest is different. And so I have a different relationship with each of them each time. Sometimes they work with me, sometimes they work against me. The Blood Child sometimes starts out as my enemy, but not always. In one of them, the Blood Child even loves me, just like you do now. But in all the memories – even the one where the Blood Child loves me –"
 
+Yali breathed in, then out, then in again.
+
+"– The Blood Child <em>kills</em> me."
+
+I stared, wondering if I should feel shocked. But I didn't know how to feel shocked when I didn't know what to make of it at all. "But why?" I said. "Does the Blood God, like… <em>control</em> them?"
+
+"It's, it's more complicated than that. During the Ravelling, the gods put part of their souls into us. That's why it's called the Ravelling, actually – because the threads of the gods' souls are tangled together with the threads of our own souls."
+
+"I thought 'ravelling' meant picking something apart, not tangling it together."
+
+"I think it can mean both. Tangling <em>or</em> untangling."
+
+"Symbolic," I deadpanned. Yali snorted.
+
+"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way they got <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. Aihael – that's the one who loved me – I remember Aihael wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
+
+"I don't want to make you remember anything traumatic," I said quickly.
+
+"You don't have a choice," said Yali evenly. "I'm going to have to dig through these memories a lot. I might as well get used to it. The point is to make sure that these things don't happen in the <em>future</em>."
+
+"So…" I said. "So I'm going to get really mad at you and then kill you? But there's no way I'd kill you." I laughed nervously. "Seriously, I'd rather die."
+
+Yali's eyes widened. Before I knew what was happening, she had grabbed my shoulder violently. "Don't – you – dare –" she growled. Now I really <em>was</em> shocked. Yali <em>never</em> acted like that! "Don't you <em>dare</em> sacrifice yourself for me."
+
+"It's not going to come to that... is it?"
+
+"Promise me," she said. "No matter what happens, promise me you'll never die for my sake. We are <em>both</em> going to get out of this alive."
+
+"Uh... I promise," I said nervously.
+
+"Remember that." Yali let go of my shoulder and leaned back on the couch. She was back to her normal self again, just as suddenly. "Sorry about that," she said. "I just really, really don't want you to die."
+
+I looked at her. "You… really think I'd – you really think there's a chance I'd feel like I needed to die for your sake?"
+
+"There's a chance," she said heavily. "If it happens, just assume I've got a plan, okay? No matter what, I'll find a way to save both of us. Just like I have a plan for what we can do right now, to make sure that the moment where you kill me… never happens."
+
+"But – what can we do <em>now</em>?"
+
+Yali grinned, and began to explain her plan.
 
 
 ''',
