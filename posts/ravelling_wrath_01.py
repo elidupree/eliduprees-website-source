@@ -79,7 +79,7 @@ Our city was built on a hill. It had five circular layers, separated by five wal
 
 Anyway, <em>I</em> lived on the fifth layer, at the bottom. Our school was on the fourth layer, and <em>Yali</em> lived on the third. So it was always an uphill run to get there. I <em>could</em> take a bus, but when I'm excited to see her, I don't like to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing. Heh.
 
-Panting, I finally made it up to the side gate. From there, it would only be a short run to Yali's place. But my legs didn't want to do it.?????[this is a hard run even if you do it every day] I paused to lean my back against the cool stones of the gate and catch my breath. Why did why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
+Panting, I finally made it up to the side gate. From there, it would only be a short run to Yali's place. But my legs didn't want to do it. I paused to lean my back against the cool stones of the gate and catch my breath. I ran this route all the time, but it was a lot of work even on a good day, and I'd forgotten to pace myself. Why did why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
 
 I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "you ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
 
@@ -115,7 +115,7 @@ As she was finishing up, I echoed, "YouTube tutorials?"
 
 "It seemed like something I might need to know eventually."
 
-"You watch YouTube first aid tutorials in your," pant, pant,??????[needed to mention this earlier] "spare time, just because you might need to know them <em>eventually</em>?"
+"You watch YouTube first aid tutorials in your –" I began. I hadn't <em>quite</em>, caught my breath yet. "– in your spare time, just because you might need to know them <em>eventually</em>?"
 
 "Of course!" said Yali.
 
@@ -275,7 +275,7 @@ I stared, wondering if I should feel shocked. But I didn't know how to feel shoc
 
 "Symbolic," I deadpanned. Yali snorted.
 
-"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way they got <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. Aihael – that's the one who loved me – I remember Aihael wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
+"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. Aihael – that's the one who loved me – I remember Aihael wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
 
 "I don't want to make you remember anything traumatic," I said quickly.
 

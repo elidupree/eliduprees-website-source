@@ -26,6 +26,7 @@ import posts.not_what_i_am
 import posts.time_travelers
 import posts.the_23_days_cult
 import posts.ravelling_wrath_01
+import posts.ravelling_wrath_02
 import posts.stories_01
 import posts.uncategorized_01
 
@@ -56,6 +57,7 @@ stories = flatten([
   posts.time_travelers.posts,
   posts.the_23_days_cult.posts,
   posts.ravelling_wrath_01.posts,
+  posts.ravelling_wrath_02.posts,
   posts.stories_01.posts,
 ])
 
