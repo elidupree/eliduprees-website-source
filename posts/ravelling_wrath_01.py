@@ -115,7 +115,7 @@ As she was finishing up, I echoed, "YouTube tutorials?"
 
 "It seemed like something I might need to know eventually."
 
-"You watch YouTube first aid tutorials in your –" I began. I hadn't <em>quite</em>, caught my breath yet. "– in your spare time, just because you might need to know them <em>eventually</em>?"
+"You watch YouTube first aid tutorials in your –" I began. I hadn't <em>quite</em> caught my breath yet. "– in your spare time, just because you might need to know them <em>eventually</em>?"
 
 "Of course!" said Yali.
 
@@ -173,7 +173,7 @@ She made it look so easy, throwing my own advice right back at me. Well, the adv
 
 "The gods don't pick the Ravellers based on who worships them. They pick people who live by their <em>principles</em>," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "So, for example, the Waiting God values patience, foresight, and planning. And – you know me, I'd plan what shoes to wear to my own execution."
 
-"Well of course it makes than for <em>you</em>, I was even comparing you to the Waiting God earlier today –"
+"Well of course it makes sense for <em>you</em>, I was even comparing you to the Waiting God earlier today –"
 
 "Really?"
 
@@ -275,7 +275,7 @@ I stared, wondering if I should feel shocked. But I didn't know how to feel shoc
 
 "Symbolic," I deadpanned. Yali snorted.
 
-"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. Aihael – that's the one who loved me – I remember Aihael wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
+"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. Aihael – that's the one from the memories, the one who loved me – I remember Aihael wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
 
 "I don't want to make you remember anything traumatic," I said quickly.
 
@@ -295,7 +295,16 @@ Yali's eyes widened. Before I knew what was happening, she had grabbed my should
 
 I looked at her. "You… really think I'd – you really think there's a chance I'd feel like I needed to die for your sake?"
 
-"There's a chance," she said heavily. "If it happens, just assume I've got a plan, okay? No matter what, I'll find a way to save both of us. Just like I have a plan for what we can do right now, to make sure that the moment where you kill me… never happens."
+"There's a chance," she said heavily.
+
+I didn't want to believe it, but I cannot not believe it
+
+ill stay away from you! nope
+
+
+
+
+"If it happens, just assume I've got a plan, okay? No matter what, I'll find a way to save both of us. Just like I have a plan for what we can do right now, to make sure that the moment where you kill me… never happens."
 
 "But – what can we do <em>now</em>?"
 

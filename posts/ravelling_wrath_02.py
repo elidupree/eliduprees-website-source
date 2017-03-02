@@ -110,7 +110,7 @@ That was true. It was still ?????. And everyone knew the Ravelling started aroun
 
 "Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper layers. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
 
-But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer to the fifth layer". I don't remember that stuff because it all happened when I was just two years old,
+But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer to the fifth layer". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once.
 
 ''',
 },
