@@ -62,6 +62,19 @@ I've also been messing around with some computer music generation. Here are some
 
 ''',
 },
+{
+"title": "Projects update 2017-03-01",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+I'm almost finished writing the first chapter of Ravelling Wrath, and I've written part of the second chapter as well. With any luck, I'll be able to post Chapter 1 next week.
+
+The illustrations are a bit of a problem. My hands aren't up to doing that much drawing yet. But since I don't know when they'll be ready, I don't want to stall posting the written part. I think I might post it with just sketches instead of the finished drawings. I can come back and replace them with the finished versions later, and in the meantime, it'll be better than nothing.
+
+Also! My sibling and I have been making a silly game called Portaltron. It's like the classic arcade game Tron, but the paths you leave behind are rows of the portals from Portal. I don't have a good guess about if/when we'll finish it, though.
+''',
+},
 
 ]
 
