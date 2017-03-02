@@ -178,7 +178,9 @@
  "A slight change to my blog schedule, and an update on my projects": {
   "date_modified": "2017-02-22",
   "date_posted": "2017-02-22",
-  "id": "6d7a3c1eb3bf7e71f1fc49e8831b0fc"
+  "deployed": true,
+  "id": "6d7a3c1eb3bf7e71f1fc49e8831b0fc",
+  "remembered_contents": "29911999506293f1fea49f2724d9a09ac63902c4e5d6239311258405b6352ce8cced9b68571214627d53a1c0e0625080"
  },
  "A story idea": {
   "date_modified": "2016-04-25",
