@@ -297,18 +297,35 @@ I looked at her. "You… really think I'd – you really think there's a chance 
 
 "There's a chance," she said heavily.
 
-I didn't want to believe it, but I cannot not believe it
+I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? There was no way Yali would lie to me. And I couldn't even think of a way she could be <em>wrong</em>…
 
-ill stay away from you! nope
+"I –" I said. "If I'm really that dangerous, couldn't I just… stay away from you? When we're in the Otherworld, we could do our tasks separately. Not that I <em>want</em> to, but, you know…"
 
+"If only it were that simple. Even if we try to stay apart, some of the layers will force us together."
 
+"Layers?"
 
+"The Otherworld – at least, the part of the Otherworld where the Ravelling happens – it has five layers –"
 
-"If it happens, just assume I've got a plan, okay? No matter what, I'll find a way to save both of us. Just like I have a plan for what we can do right now, to make sure that the moment where you kill me… never happens."
+"Let me guess, one for each god."
 
-"But – what can we do <em>now</em>?"
+"Yeah. What you've been calling 'tasks' – that basically just means that we have to travel through each of the layers. We – the Ravellers – we do the first layer together, then we do the second layer together, and so on. And the layers are sort of… <em>shaped</em> by the will of their gods. We won't be able to stay apart if it's not something the god… <em>likes</em>."
 
-Yali grinned, and began to explain her plan.
+"What if we just <em>don't</em> go through all the layers? Or – what if I get behind, so we're never in the <em>same</em> –"
+
+"That – let me see if I can remember something." Yali concentrated for a moment. "That's <em>also</em> not something the gods like. I'm not sure exactly what would happen if you tried that, but it can be harder to... I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
+
+"So – if the gods are trying to force us together, and force me to attack you –" I was thinking wildly, but I can come up with any way out of this. "What do we <em>do?</em>"
+
+"Well – I have a plan," said Yali hesitantly.
+
+"Of course, ha ha, you have a <em>plan</em>, I should have seen this coming," I babbled.
+
+"It's, it's, it's not perfect. But I think there's a way we can prepare, while we're still in the material world, to make sure we never get to the point where you would actually kill me."
+
+I didn't want to have to hear it. I didn't want to <em>need</em> a fancy plan just to stop myself from hurting the person I loved. But there was no way around it. Reluctantly, I forced myself to say, "What is it?"
+
+Yali squared her shoulders, and began to explain her plan.
 
 
 ''',
