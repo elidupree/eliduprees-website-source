@@ -1459,4 +1459,18 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"21ff734fdd477d4cd151e24392b56dc1",
   "date_posted":datetime.date(2017, 1, 31)
 },
+{
+  "parent":"5edffd5798fb5c51576a74b605dd7e5",
+  "username":"Kagar",
+  "contents":"""I'm curious about Portaltron - specifically, what portals link to what others? Or is that part of the unfinished bit?""",
+  "id":"e04e10745ea6b2ee2f6db41cdeb58123",
+  "date_posted":datetime.date(2017, 3, 5)
+},
+{
+  "parent":"e04e10745ea6b2ee2f6db41cdeb58123",
+  "username":"Eli Dupree",
+  "contents":"""Basically, each step, one player leaves behind a blue portal-segment and the other player leaves behind an orange one. Those two newly created ones are linked with each other. The left side of the blue one goes to the right side of the orange one, and vice versa.""",
+  "id":"a257c4fb3be621dc00fd49d36269f63e",
+  "date_posted":datetime.date(2017, 3, 5)
+},
 ]
