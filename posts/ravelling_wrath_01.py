@@ -149,7 +149,7 @@ Finally, she spoke up. "How much do you know about what happens during," she swa
 
 "It's, it's, it's worse than that. Just tell me how much you know, so I can explain from there."
 
-I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous about what she was going to tell me, and now I had to explain the Ravelling like I was in Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of tasks. If they live, they get to go home, and the gods can... Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles &ndash; "
+I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous about what she was going to tell me, and now I had to explain the Ravelling like I was in Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of tasks. If they live, they get to go home, and the gods can... Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles &ndash;"
 
 Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 

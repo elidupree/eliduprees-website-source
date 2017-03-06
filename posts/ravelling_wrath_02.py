@@ -54,21 +54,23 @@ Yali smiled. "Well, whenever you're in a situation that makes you angry –"
 
 Yali gave me a Look.
 
-"I'm serious!" I said.
+"I'm serious!" I said. "Just because I've been in a few fights –"
 
-????? I just don't put up with people's bullshit. That doesn't mean I'm actually mad at them. Come on, don't tell me you don't believe me!"
+"And yell at people in the hallways –"
+
+"Those assholes! <em>Someone</em> had to stop them harassing Nika. Look, I just don't put up with people's bullshit. That doesn't mean I'm actually mad at them. Not <em>really</em> mad, anyway… come on, don't tell me you don't believe me!"
 
 "No, I believe you." Yali stopped and thought for a minute. "That… could actually make things harder."
 
-"Well, if the point is just to get me mad, so that I can practice getting less mad or whatever..." I began. This was actually an intriguing idea. "Why not just <em>make</em> me mad?"
+"Well, if the point is just to get me mad, so that I can practice getting less mad or whatever..." I began. This was actually an intriguing idea. "Why don't you just <em>make</em> me mad?"
 
-"But… how?"
+"But… how? You just said –"
 
-?????
+"It can't be that hard if we're doing it on purpose. You could yell at me, pester me… you could even hit me if that's what it takes, I wouldn't mind."
 
 "<em>Hit</em> you? But… I don't want to hurt you."
 
-"I <em>want</em> to do this. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
+"I'm the one who's suggesting it. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
 
 "Well, no, but –" Yali laughed suddenly. "I suppose if I'm asking <em>you</em> to be willing to hurt <em>me</em> for the sake of the plan, it's only fair if <em>I'm</em> willing to hurt <em>you</em> for the sake of the plan."
 
@@ -76,7 +78,7 @@ Yali gave me a Look.
 
 "Oh. I, I guess I hadn't gotten to that part yet." Yali put her finger on the paper again. "What we've talked about so far are just the defenses on <em>this</em> side of the wall. But we can also think about defenses on the <em>other</em> side. I mean, in case you do get angry enough to hurt me even though you love me. Even if that happens, we can still avoid the worst case, if you hurt me in a way that doesn't <em>kill</em> me. So –"
 
-"No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That's – okay, fine, I get it, I might have to do some things I don't want to do, but even looking past that, this can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free."
+"No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That's – whatever, fine, I get it, I might have to do some things I don't want to do, but even looking past that, this can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free."
 
 "Maybe… But if we don't break them down here, then when they break down in the Otherworld, you'll be totally unprepar—"
 
@@ -84,13 +86,13 @@ Yali gave me a Look.
 
 "You were literally just talking about having me hurt you as if <em>that</em> was nothing."
 
-"That really is no big deal for me. Seriously, I'm not being hypocritical here – we don't have the same, you know – "
+"That really is no big deal for me. Seriously, I'm not being hypocritical here – we don't have the same, you know –"
 
 "I get what you mean. But even so, it's to make sure we stay alive. In the long run, if I have to go through some pain, it doesn't really matter."
 
 "What you mean, it doesn't matter? Of course it matters! If you're in pain, that matters!"
 
-Yali looked down, and for a moment I was worried I had made her feel bad. But then she smiled ruefully. "I should have known you'd feel that way," she said. "Well, we don't <em>have</em> to do it. Send me not right away. There's plenty of time before the Ravelling begins proper."
+Yali looked down, and for a moment I was worried I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."
 
 That was true. It was still ?????. And everyone knew the Ravelling started around ?????. So we had a couple of months to go.
 
@@ -106,11 +108,11 @@ That was true. It was still ?????. And everyone knew the Ravelling started aroun
 
 "I'll just tell them I was with you. They think you're <em>responsible</em> and shit."
 
-"They don't mind that I'm a Seti?" she said lightly.
+"They don't mind that I'm a Seti?" she said wryly.
 
-"Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper layers. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
+"Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper layers. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
 
-But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer to the fifth layer". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once.
+But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once.
 
 ''',
 },
