@@ -315,7 +315,7 @@ I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Th
 
 "That – let me see if I can remember something." Yali concentrated for a moment. "That's <em>also</em> not something the gods like. I'm not sure exactly what would happen if you tried that, but it can be harder to... I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
 
-"So – if the gods are trying to force us together, and force me to attack you –" I was thinking wildly, but I can come up with any way out of this. "What do we <em>do?</em>"
+"So – if the gods are trying to force us together, and force me to attack you –" I was thinking wildly, but I couldn't come up with any way out of this. "What do we <em>do?</em>"
 
 "Well – I have a plan," said Yali hesitantly.
 

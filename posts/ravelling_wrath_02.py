@@ -28,7 +28,7 @@ div.blog_post h2 {
 
 Yali put a piece of paper on the table in front of us.
 
-"<em>This</em> –" she drew a square at one end of the paper "– is where you are right now. And <em>This</em> –" she drew a square at the other end "– is where you have to get in order to kill me."
+"<em>This</em> –" she drew a square at one end of the paper "– is where you are right now. And <em>this</em> –" she drew a square at the other end "– is where you have to get in order to kill me."
 
 "In order <em>to</em> kill you?"
 
@@ -113,6 +113,46 @@ That was true. It was still ?????. And everyone knew the Ravelling started aroun
 "Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper layers. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
 
 But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once.
+
+I continued, "They're only really mad if they think I'm hanging out with Fasia's goons."
+
+"Fasia as in Fasia Namaar, the gang leader?" Yali looked at me curiously. "Are you <em>actually</em> friends with any gangsters?"
+
+"Hell if I know. Do actual gangsters tell everyone they're gangsters? 'course, Mom and Dad think anyone named ????? is a gangster. They know an awful lot about the Stern God, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
+
+"Hmm. How far do you think it's safe to trust them?"
+
+"Safe? You think it might not be <em>safe?</em>"
+
+"I…" Yali trailed off.
+
+"I'm not saying they're going to… whatever. I'm just saying, how would they even react to this? They already don't know <em>anything</em> about my life right now. I'm not sure they even know I'm a lesbian!"
+
+"I thought you introduced me as your girlfriend!"
+
+"I <em>did</em>," I said morosely. "But now they're always talking about 'your friend Yali' and 'Yali from school'… Ugh, I don't even know why I'm complaining about this. With the, you know, literal life-and-death stuff going on."
+
+Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be</em> part of the literal life-and-death stuff. But…" She trailed off again. It looked like she had something on her mind.
+
+"What's the matter?" I said.
+
+"I don't want to ask you for this," she said uneasily. "It's something an abuser would do."
+
+"What!?"
+
+"Not to tell anyone else about this. That we're going to be Ravellers."
+
+"What? Why not?"
+
+"There are people who, who, who can't be allowed to know that I'm the Farseer. I don't mean because of the magic, it's a, a, a personal thing."
+
+"What kind of –"
+
+"I'm not ready to talk about it. It's just, it's just… Never mind. The point is, if we tell anyone… word could get around. But… I can't ask you not to tell anyone. That would be…"
+
+"Look, if it has to be a secret, that's not a big deal for me. I'm not sure who I would tell anyway. And you're definitely not an abuser, you're like the total opposite –"
+
+Yali didn't seem very reassured. "It's important for you to be able to talk to someone about it."
 
 ''',
 },
