@@ -10,7 +10,13 @@ posts = [
   "auto_paragraphs": True,
   "authors_notes":'''
   
+<p>Let's get this story started!</p>
 
+<p>It's been a little over a year since I originally came up with the premise for this story. At the time, I wasn't planning to actually write it. The original idea was cool in a way, but it was also based on those shounen action animes where a bunch of people get nonconsensually given magic powers and have to fight each other. I enjoy <em>watching</em> that genre, but it doesn't have the kind of message that I want to get across in my own stories. And I didn't really want to have most of the characters kill each other off by the end.</p>
+
+<p>But I liked the story I had come up with for Rinn and Yali<footnote((Although it was actually <em>months</em> before I came up with names for those two characters.))>. So over the next year, I slowly changed the setting into something that worked for me. Something that could be called a "Ravelling" instead of a "War".</p>
+
+<p>I can't tell you too much more because SPOILERS!!!!, but there's one thing I can promise you: Rinn and Yali will both survive the entire story. We're purposefully defying <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BuryYourGays">(TV Tropes link) that trope where gay characters die instead of getting a happy ending together</a>. Seriously, that trope is awful.</p>
 
   ''',
   "head":'''<style>
