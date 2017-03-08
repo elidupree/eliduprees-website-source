@@ -80,10 +80,10 @@ We'd been dating for about a month, and Yali was one of the calmest, most patien
 <p class="text right">the gods?!</p>
 <p class="text left">I'm not explaining this right</p>
 <p class="text left">Just meet at my place after school, OK?</p>
-<p class="text right">kk <3</p>
+<p class="text right">kk &lt;3</p>
 <p class="text right">omg they gave me detention >_&lt; I'll skip it tho</p>
 <p class="text left">lol don't do that</p>
-<p class="text right">but I wanted an excuse to skip :( jk see you right after <3</p>
+<p class="text right">but I wanted an excuse to skip :( jk see you right after &lt;3</p>
 <div class="clear"></div>
 
 The gods?! I wondered again. What could the gods have to do with us? Sure, "Our five gods are the foundation of all life in the city", but <em>really</em>. We were just a couple of kids. Weren't we?
