@@ -154,6 +154,14 @@ Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be<
 
 Yali didn't seem very reassured. "It's important for you to be able to talk to someone about it."
 
+
+
+"That's also, like, way too much pressure to put on yourself."
+
+"Right,"
+
+"No, I meant
+
 ''',
 },
 ]

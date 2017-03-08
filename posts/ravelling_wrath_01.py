@@ -21,6 +21,9 @@ div.blog_post h2 {
 div.blog_post p {
   clear: both;
 }
+div.blog_post div.clear {
+  clear: both;
+}
 div.blog_post p.text {
   border-radius: 1.3em;
   max-width: 60%;
@@ -42,6 +45,8 @@ p.text.left {
   
 A pair of teenagers get caught up in a conflict between the gods.
 
+(Eli's note: this story is supposed to have more pictures in it, but I haven't been in good shape for drawing. Since I'm not sure when I <em>will</em> be in good shape again, I'm posting it anyway. I've included the one sketch I managed to do last time I was up to it.)
+
 <bigbreak>
 
 <h2>Chapter 1: Blood Child</h2>
@@ -58,6 +63,7 @@ As I jogged towards her house, I pulled out my phone to check exactly what she'd
 
 <p class="text left">I have something important to tell you</p>
 <p class="text left">Texting you so I don't put it off any longer</p>
+<div class="clear"></div>
 
 We'd been dating for about a month, and Yali was one of the calmest, most patient people I'd ever met. If Yali said something was important, it was <strong>important</strong>. You know the saying &ndash; "When the Waiting God moves, beware." I scrolled through the rest of the messages:
 
@@ -70,6 +76,7 @@ We'd been dating for about a month, and Yali was one of the calmest, most patien
 <p class="text right">omg they gave me detention >_&lt; I'll skip it tho</p>
 <p class="text left">lol don't do that</p>
 <p class="text right">but I wanted an excuse to skip :( jk see you right after <3</p>
+<div class="clear"></div>
 
 The gods?! I wondered again. What could the gods have to do with us? Sure, "Our five gods are the foundation of all life in the city", but <em>really</em>. We were just a couple of kids. Weren't we?
 
