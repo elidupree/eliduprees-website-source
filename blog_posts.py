@@ -121,6 +121,7 @@ def stories_index (full):
     return category_pages.exhibit (None, "", None, '<h1>' + name + '</h1>' + contents, None) if full else '<div class="index_page_entry">' + name +'</div>' + contents
   
   return (
+  big_story ("Ravelling Wrath, chapter 1") +
   big_story ("Not What I Am") +
   big_story ("Time Travelers and How to Kill Them: a Practical Guide") +
   group ("Short stories",

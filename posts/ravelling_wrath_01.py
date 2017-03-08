@@ -6,9 +6,8 @@ import datetime
 posts = [
 {
   "title":"Ravelling Wrath, chapter 1",
-  "blurb": "A pair of teenagers get caught up in a conflict between the gods.",
+  "blurb": "A pair of teenagers get caught up in a conflict between the gods. (1 out of 18 chapters completed so far.)",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "authors_notes":'''
   
 
@@ -20,6 +19,11 @@ div.blog_post h2 {
 }
 div.blog_post p {
   clear: both;
+}
+div.blog_post img {
+  display: block;
+  margin: 2.8em auto;
+  max-width: 100%;
 }
 div.blog_post div.clear {
   clear: both;
@@ -42,10 +46,8 @@ p.text.left {
 }
   </style>''',
   "contents": '''
-  
-A pair of teenagers get caught up in a conflict between the gods.
 
-(Eli's note: this story is supposed to have more pictures in it, but I haven't been in good shape for drawing. Since I'm not sure when I <em>will</em> be in good shape again, I'm posting it anyway. I've included the one sketch I managed to do last time I was up to it.)
+<p>(Eli's note: this story is supposed to have more pictures in it, but I haven't been in good shape for drawing. Since I'm not sure when I <em>will</em> be in good shape again, I'm posting it anyway. I've included the one sketch I managed to do last time I was up to it.)</p>
 
 <bigbreak>
 
@@ -86,7 +88,7 @@ Our city was built on a hill. It had five circular layers, separated by five wal
 
 Anyway, <em>I</em> lived on the fifth layer, at the bottom. Our school was on the fourth layer, and <em>Yali</em> lived on the third. So it was always an uphill run to get there. I <em>could</em> take a bus, but when I'm excited to see her, I don't like to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing. Heh.
 
-Panting, I finally made it up to the side gate. From there, it would only be a short run to Yali's place. But my legs didn't want to do it. I paused to lean my back against the cool stones of the gate and catch my breath. I ran this route all the time, but it was a lot of work even on a good day, and I'd forgotten to pace myself. Why did why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
+Panting, I finally made it up to the side gate. From there, it would only be a short run to Yali's place. But my legs didn't want to do it. I paused to lean my back against the cool stones of the gate and catch my breath. This was a route that I ran all the time, but it was a lot of work even on a good day, and I'd forgotten to pace myself. Why did why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
 
 I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "you ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
 
@@ -138,7 +140,7 @@ Yali... hesitated. I couldn't tell whether she was uncomfortable or just not sur
 
 "No!"
 
-I jumped. Yali's expression was still neutral, oddly enough, but she had spoken with so much force...
+I jumped. Yali's expression was still neutral, oddly enough, but she had said it so forcefully...
 
 "I didn't mean to yell. But I should've told you this a long time ago. I just, I just... How do <em>you</em> always know what to say?"
 
@@ -150,6 +152,8 @@ I jumped. Yali's expression was still neutral, oddly enough, but she had spoken 
 
 "That could work..." Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. I watched her uncertainly. She didn't look upset, but this wasn't something I'd seen before. Yali squinting. Yali chewing her lip. From anyone else, that wouldn't have caught my attention. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
 
+<img src="/media/yali-sketch.png?rr" alt="A picture of a person hunched over and sitting on a couch, labeled 'Yali Seti'.">
+
 Finally, she spoke up. "How much do you know about what happens during," she swallowed, "the Ravelling?"
 
 "Don't tell me you're one of the Chosen!?"
@@ -160,7 +164,7 @@ I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already ne
 
 Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
-"It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but then you're screwing your career, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could &ndash; I could lose you forever &ndash;"
+"It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but if that's what you're after, then it screws your career too, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could &ndash; I could lose you forever &ndash;"
 
 Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're, they're, the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also &ndash; Why am I talking like this? It's me. I'm the Farseer. And you're &ndash;"
 
