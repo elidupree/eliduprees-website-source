@@ -1076,6 +1076,8 @@ def add_individual_post_pages (page_dict, post_dict):
         extras ["after_body"] = post_dict ["after_body"]
       if "blurb" in post_dict:
         extras ["blurb"] = post_dict ["blurb"]
+      if "blurb_image" in post_dict:
+        extras ["blurb_image"] = post_dict ["blurb_image"]
       utils.make_page (page_dict,
         post_dict["path_prefix"]+url_formatted_title(post_dict),
           title_formatted_title(post_dict)+("" if (category == "") else " ⊂ "+utils.capitalize_string(category))+" ⊂ Eli Dupree's website",
