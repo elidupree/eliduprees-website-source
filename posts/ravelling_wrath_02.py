@@ -136,7 +136,7 @@ Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be<
 
 "What's the matter?" I said.
 
-"I don't want to ask you for this," she said uneasily. "It's something an abuser would do."
+"I don't want to ask you for this," she said uneasily. "It's the kind of thing an abuser would do."
 
 "What!?"
 
@@ -152,15 +152,29 @@ Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be<
 
 "Look, if it has to be a secret, that's not a big deal for me. I'm not sure who I would tell anyway. And you're definitely not an abuser, you're like the total opposite –"
 
-Yali didn't seem very reassured. "It's important for you to be able to talk to someone about it."
+Yali didn't seem very reassured. "It's important for you to be able to talk to someone about it. I have the memories of the old Farseers to look to, but you'd only have me. What if I can't give you all the support you need? What if it strains our relationship and then –"
 
+"That's, like, way too much pressure to put on yourself," I said.
 
+"Right, if I was the only one you could talk to, then I'd feel like I had to do everything –"
 
-"That's also, like, way too much pressure to put on yourself."
+"No, I meant the other way around! I mean your – you said you had a 'personal thing'? I wish I knew what it was here, but I can respect that, but like, what are you going to do – <em>not</em> have a personal thing? You're allowed to have some personal things! And every time you have a personal thing, are you going to be worrying about whether it strains our relationship? Seriously, it's okay, I'm literally telling you it's okay. Look, what do I have to do to convince you it's okay?"
 
-"Right,"
+"Hmm." Yali thought about it for a minute. "I believe you, but it still doesn't feel right. Maybe I can use my Seeing…"
 
-"No, I meant
+"Your what? Oh, is that the magic power?"
+
+"Yes."
+
+"How does that work? Can you literally see the future?"
+
+"Not exactly. It's more like fragments of possible futures. The way it works is, I think of something I'm planning to do, and it shows me what will happen if I go through with it. So I can think of someone for you to tell about this, and then see if telling them what lead to, to, to anything bad."
+
+"Awesome," I said. I still didn't see why this was so important, but I didn't get to see people doing actual magic very often, so I was excited for this.
+
+"It takes a lot out of me, though," she said. "So I'd like to put that off until later this evening. At the very least we should eat something first."
+
+"Stern take it, I wasn't hungry until you mentioned food!" I said. Yali chuckled.
 
 ''',
 },
