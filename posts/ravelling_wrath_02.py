@@ -68,7 +68,7 @@ Yali gave me a Look.
 
 "It can't be that hard if we're doing it on purpose. You could yell at me, pester me… you could even hit me if that's what it takes, I wouldn't mind."
 
-"<em>Hit</em> you? But… I don't want to hurt you."
+"<em>Hit</em> you? Even if that would work… I don't want to hurt you."
 
 "I'm the one who's suggesting it. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
 
@@ -184,7 +184,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "What – but I don't know what to do. Or what you're okay with."
 
-"Like I said, you can yell at me, hit me… pretty much anything, as long as it wouldn't actually injure anyone."
+"Like I said, you can yell at me, hit me… just about anything, as long as it wouldn't actually injure anyone."
 
 "Anything? Like including, say… publicly humiliating you?"
 
@@ -262,7 +262,7 @@ I burst out laughing. "Sorry, you're right, that <em>would</em> piss me off, if 
 
 "That's terrible," I joked back.
 
-"But seriously, I did think of another thing to try. I just wasn't sure about it because, because…"
+"But really, I still have more things to try. I'm just not sure about this next thing, because, because…"
 
 "Whatever it is, bring it on!"
 
@@ -276,8 +276,43 @@ Yali laughed. "You're right. I'm glad we talked about this. I'm okay to 'bring i
 
 Yali closed her eyes.
 
+When she opened them again, it was like she was a completely different person. She lurched to her feet, grabbed my arm, and yanked me out of when I was sitting. By the time I had gotten my balance and stood up, she was towering over me. Yali didn't normally look that much taller than me, because she slouched a lot, but when she <em>did</em> stand up straight, she was almost a head taller than me.
 
+Yali twisted my arm into a painful position. Her voice was cold and unfeeling. "<em>You think you're tough? You're not tough. You're pathetic.</em>"
 
+"Uh," I said nervously, "I still know that's not tr—"
+
+"<em>Shut up. You don't know anything.</em>"
+
+I glared up into her eyes. But she wasn't even looking back at me. She was looking past me as if I was totally insignificant. I felt trapped and confused. Who was this monster and what was it doing in Yali's body? I reflexively tried to shove her away from me. But she just twisted harder on my arm and I yelled out in pain.
+
+"<em>Shut. Up. Don't make a sound, you worthless child.</em>"
+
+We were just play-acting, right? I looked up into Yali's eyes for reassurance, but there was nothing there. What was going on? I could feel my whole body starting to tense up.
+
+Wait a minute. I was Rinn Akatura. I could handle anything. I forced myself to laugh and relax. It wasn't even that much pain, anyway.
+
+Just then Yali let go of me, stepped back and closed her eyes again. When she opened them, she was back to normal.
+
+"You could've kept going," I said.
+
+"How are you feeling?" said Yali gently.
+
+"That was fuckin' scary!" I said. "Not in a bad way! I mean, that was the point, right? Why'd you stop?"
+
+Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali hugged me and tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but it's always good to keep checking."
+
+"The second reason," she continued, "is that I'm not sure <em>I</em> can handle doing that for very long. And the third one is… It wasn't working."
+
+"It almost worked! If you'd gone on for a bit longer…"
+
+"I saw what happened," said Yali. "It only worked because you weren't expecting it. And that's pretty much what I thought would happen. This is how you usually deal with anger, isn't it? As soon as you noticed that you were getting angry, you turned it into a challenge. Right?"
+
+"Stern take it all, you know me better than I know myself. You <em>thought</em> this would happen?!"
+
+"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… Those are things are comfortable with. In a way. Like they're things you know how to handle. And that's going to be... Like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else."
+???
+Hang on, are <em>you</em> okay? ??? Never mind, I guess.
 
 
 
