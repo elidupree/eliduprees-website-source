@@ -62,7 +62,7 @@ Yali gave me a Look.
 
 "No, I believe you." Yali stopped and thought for a minute. "That… could actually make things harder."
 
-"Well, if the point is just to get me mad, so that I can practice getting less mad or whatever..." I began. This was actually an intriguing idea. "Why don't you just <em>make</em> me mad?"
+"Well, if the point is just to get me mad, so that I can practice getting less mad or whatever..." I began. That was kind of a weird idea, but also kind of intriguing. Like a challenge. "Why don't you just <em>make</em> me mad?"
 
 "But… how? You just said –"
 
@@ -120,7 +120,7 @@ I continued, "They're only really mad if they think I'm hanging out with Fasia's
 
 "Hell if I know. Do actual gangsters tell everyone they're gangsters? 'course, Mom and Dad think anyone named ????? is a gangster. They know an awful lot about the Stern God, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
 
-"Hmm. How far do you think it's safe to trust them?"
+"About us being in the Ravelling? Hmm… How far do you think it's safe to trust them?"
 
 "Safe? You think it might not be <em>safe?</em>"
 
@@ -128,7 +128,7 @@ I continued, "They're only really mad if they think I'm hanging out with Fasia's
 
 "I'm not saying they're going to… whatever. I'm just saying, how would they even react to this? They already don't know <em>anything</em> about my life right now. I'm not sure they even know I'm a lesbian!"
 
-"I thought you introduced me as your girlfriend!"
+Yali startled. "I thought you introduced me as your girlfriend!"
 
 "I <em>did</em>," I said morosely. "But now they're always talking about 'your friend Yali' and 'Yali from school'… Ugh, I don't even know why I'm complaining about this. With the, you know, literal life-and-death stuff going on."
 
@@ -138,11 +138,11 @@ Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be<
 
 "I don't want to ask you for this," she said uneasily. "It's the kind of thing an abuser would do."
 
-"What!?"
+"What!? What are you thinking of asking for?"
 
-"Not to tell anyone else about this. That we're going to be Ravellers."
+"For you not to tell anyone else about this. That we're going to be Ravellers."
 
-"What? Why not?"
+"Why not?"
 
 "There are people who, who, who can't be allowed to know that I'm the Farseer. I don't mean because of the magic, it's a, a, a personal thing."
 
@@ -166,7 +166,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Yes."
 
-"How does that work? Can you literally see the future?"
+"What does that have to do with – wait, actually, how <em>does</em> that work? Can you literally see the future?"
 
 "Not exactly. It's more like fragments of possible futures. The way it works is, I think of something I'm planning to do, and it shows me what will happen if I go through with it. So I can think of someone for you to tell about this, and then see if telling them what lead to, to, to anything bad."
 
@@ -175,6 +175,25 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 "It takes a lot out of me, though," she said. "So I'd like to put that off until later this evening. At the very least we should eat something first."
 
 "Stern take it, I wasn't hungry until you mentioned food!" I said. Yali chuckled.
+
+???? food
+
+??? "Let's try your idea. See if we can make you mad."
+
+"Alright, bring it on."
+
+"What – but I don't know what to do. Or what you're okay with."
+
+"Like I said, you can yell at me, hit me… pretty much anything, as long as it wouldn't actually injure anyone."
+
+"Anything? Like including, say… publicly humiliating you?"
+
+"Woah!"
+
+"I don't mean I want to do that, I mean… I want you to think about what your limits are. 'Anything' is scary. It's so easy to accidentally hurt somebody."
+
+
+
 
 ''',
 },
