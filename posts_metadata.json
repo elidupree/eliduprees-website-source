@@ -839,14 +839,18 @@
   "remembered_contents": "3cdfd1862a6240622540eff3cd69d6d18cc9526f36ef1ae5ed7234f89a66c575220b4c12a85492d38a0cd28b055e25d8"
  },
  "Ravelling Wrath, chapter 1": {
-  "date_modified": "2017-02-06",
-  "date_posted": "2017-02-06",
-  "id": "2a150769152d75109cccd3e1f72ab8e"
+  "date_modified": "2017-03-08",
+  "date_posted": "2017-03-08",
+  "deployed": true,
+  "id": "2a150769152d75109cccd3e1f72ab8e",
+  "remembered_contents": "a24255449e4feb1008ed73192b45f5ec4d359c44e3bc6d0991f336cfcedff6b40fb42a882317138e9224fb3322b8f4f3"
  },
  "Ravelling Wrath, chapter 1: Discussion": {
-  "date_modified": "2017-02-06",
-  "date_posted": "2017-02-06",
-  "id": "9983a609c9161318f4e7a595784370"
+  "date_modified": "2017-03-08",
+  "date_posted": "2017-03-08",
+  "deployed": true,
+  "id": "9983a609c9161318f4e7a595784370",
+  "remembered_contents": "f523ffcb963119a67b2cdcdee523b2c4029def72b6df0458a8d498f21ad6814268133d80fb20168b625551b894701baa"
  },
  "Ravelling Wrath, chapter 2": {
   "date_modified": "2017-02-24",
