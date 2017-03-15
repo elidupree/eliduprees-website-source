@@ -128,7 +128,7 @@ I continued, "They're only really mad if they think I'm hanging out with Fasia's
 
 "I'm not saying they're going to… whatever. I'm just saying, how would they even react to this? They already don't know <em>anything</em> about my life right now. I'm not sure they even know I'm a lesbian!"
 
-Yali startled. "I thought you introduced me as your girlfriend!"
+Yali startled. "How can they <em>not know</em>? You're – You even introduced me as your girlfriend!"
 
 "I <em>did</em>," I said morosely. "But now they're always talking about 'your friend Yali' and 'Yali from school'… Ugh, I don't even know why I'm complaining about this. With the, you know, literal life-and-death stuff going on."
 
@@ -308,12 +308,113 @@ Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to ch
 
 "I saw what happened," said Yali. "It only worked because you weren't expecting it. And that's pretty much what I thought would happen. This is how you usually deal with anger, isn't it? As soon as you noticed that you were getting angry, you turned it into a challenge. Right?"
 
-"Stern take it all, you know me better than I know myself. You <em>thought</em> this would happen?!"
+"Stern take it all, you know me better than I know myself. You even <em>thought</em> this would happen?!"
 
-"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… Those are things are comfortable with. In a way. Like they're things you know how to handle. And that's going to be... Like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else."
-???
-Hang on, are <em>you</em> okay? ??? Never mind, I guess.
+"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things are comfortable with. In a way. Like they're things you know how to handle. And that's going to be... Like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
 
+I sighed. "I don't either!"
+
+"If you don't know right now… what if you think of a time in the past when you <em>were</em> really angry?"
+
+Yali looked really exhausted for a moment. "Hang on, are <em>you</em> okay?" I said.
+
+"Uh… yes?"
+
+"Never mind, I guess."
+
+"So, can you think of –"
+
+"Yeah, yeah." I wracked my brains. Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually got me to do chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
+
+"Maybe you're looking for the wrong <em>kind</em> of thing."
+
+"Yeah, well, how do I look for the <em>right</em> kind?"
+
+"Well –" There was that exhaustion again. "How about, how about you think about it overnight? That would give you time to, to, to, get more perspectives?"
+
+Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, and she'd <em>said</em> she was okay, but there was something weird about it. I didn't want to screw anything up by pushing it. "Good idea," I said.
+
+?????
+
+
+
+I took her hand and we started walking.
+
+"You still haven't told me why you can't go to the place near the school," Yali said as we walked.
+
+"Ugh, I don't want to tell that story. I was kind of irresponsible."
+
+"Aww. I love hearing stories about you being irresponsible."
+
+"You do?! I only wasn't going to tell you because you're always telling me to be careful and stuff –"
+
+"I don't want you to get hurt <em>now</em>! But if it already happened – by the Stern, if I've missed out on four and a half weeks of fun stories because you thought I wouldn't like them…"
+
+"You totally have! I have <em>so</em> many to tell you. This one, though… eh…"
+
+"You don't have to if you don't want to," said Yali soothingly.
+
+"Hang on, I just remembered this story has a point in it where I got really angry. So it's kind of killing two birds with one stone if I tell it. Sure, I'll do it," I said. I danced a few steps ahead and then looked back, waving my arms like a stage magician. "The Adventures of Rinn Akatura, Chapter 752: The Fast Food Place," I began. "So, there was this girl –"
+
+Yali smirked.
+
+"Hey! I haven't told you the best part yet! I haven't told you <em>any</em> of the parts!"
+
+Yali doubled over, laughing silently. I couldn't help laughing along a little bit. Then she straightened up. "Sorry. You can keep going now."
+
+I let Yali catch up with me and held her hand again. "So, there was this girl I liked. I'm not going to say who it was, because I think she wants to forget about all this now, but anyway. I asked her out, and we had a good time, so we went on another date after that, and so on. Although they were less 'dates' and more 'me taking her to the movies or whatever so that we could make out for the whole time'. It wasn't a real relationship, we were just horny teenagers." That felt a little weird to say. "Ha ha, Waiting God knows I'm still a horny teenager. Buuu-uuut I'm in a real relationship now –" I squeezed Yali's hand "– and I'm fine if you want to take it slow."
+
+"Uh... right," said Yali. "Go on with the story!"
+
+"Alright! So I kept taking her places, but I'd never had much spending money, so I ran out pretty fast. So I got myself an under-the-table job working in the kitchen at the fast food place."
+
+"Wow. How old were you?"
+
+"This was a three years ago. I was like 13. Sure it was illegal and stuff, but whatever. That got me enough money to keep paying for 'dates'. Until… ugh, I feel really stupid about this next part."
+
+"It's okay. I won't judge you."
+
+I glanced around to make sure no one else on the street was listening. "Yeeeeaaaah… we got caught at the movies with our hands down each other's pants."
+
+"Wow."
+
+"And then like… word got around. And like, <em>I</em> can laugh off that kind of thing, but I guess it hurt a lot more for her. She's basically been avoiding me ever since then, and I don't even blame her, I feel like total shit for putting her in that situation. And then I lost a bunch of friends over <em>that</em> too."
+
+"Did they drop you because of the rumors?"
+
+"No, that's the worst part. None of <em>my</em> friends would have a problem with some wild stuff –"
+
+"Right, silly me –"
+
+"– but I had people trying to, like, <em>high-five</em> me for 'getting some action'. But that's <em>not</em> what <em>happened</em>! It wasn't <em>cool</em>, it was a <em>mistake</em>, I <em>hurt</em> someone! Someone I <em>liked</em>! So if anyone thinks they can <em>congratulate</em> me for that, like if they think that's what I <em>wanted</em> – just, <em>argh!</em>"
+
+"It makes you really angry."
+
+"Yeah! If somebody just says 'fuck you, Rinn' or whatever, I know where I stand with them, you know? But when people <em>act</em> like they're on my side when they're <em>not</em>... I basically told them to fuck off. I wish I had come up with something smarter to say."
+
+"Maybe we can use this. I can <em>see</em> you getting angry right now, more than we managed the other day."
+
+"You're totally right." I hadn't even noticed, but my whole body felt charged up.
+
+"You're hurting my fingers, by the way."
+
+"Shit, sorry." I let go of Yali's hand. She shook it out.
+
+"It's fine," she said. She looked at me curiously. "Before we get to the serious stuff, why don't you finish the story? You got caught in the movies, but what happened to the fast food place?"
+
+"Oh, right. Well, I was kind of upset for the next few days, so I wasn't really paying attention, and I let a cop see me going in and out of the kitchen. He started to make a fuss, so we all pretended I was just there to visit a cousin who worked there. But they basically told me not to come back after that, to make sure they wouldn't get in trouble. Kind of anticlimactic, I know."
+
+????
+
+"'Anger turns helplessness into strength,'" Yali said.
+
+"Hey, is that a quote from somewhere?"
+
+"We had a book full of sayings in the, the, when I was growing up. It was a really old book, so it still had some of the Blood God's sayings, from back when the Blood God was worshipped. That's one of them."
+
+"'Anger turns helplessness into strength,'" I repeated, trying it out. "I kind of get it. I'm not sure it's always true, though."
+
+"Same."
 
 
 ''',
