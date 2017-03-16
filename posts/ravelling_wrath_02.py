@@ -102,7 +102,7 @@ That was true. It was still ?????. And everyone knew the Ravelling started aroun
 
 "It's okay. We can talk more tomorrow –"
 
-"No way. I still have a zillion questions. I'm not, what was it, Dr.-Patience-Foresight-And-Planning over here. I want to know <em>now</em>. Plus, my parents won't be <em>that</em> mad."
+"No way. I still have a zillion questions. I'm not all those – what were those things you were saying the Waiting God valued? – I'm not Dr.-Patience-Foresight-And-Planning over here. I want to know <em>now</em>. Plus, my parents won't be <em>that</em> mad."
 
 "I thought you said –"
 
@@ -336,6 +336,14 @@ Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally
 
 ?????
 
+"The gods don't think like we do. They're much… bigger and slower. The whole winter for them is like a single night for us. People say the high priests can talk to the gods, but it's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
+
+"A wisdom… rock?"
+
+"Sure, a wisdom rock. You ever wonder why we call the gods 'it' instead of 'he' or 'she'? That's why. With any luck, the Blood God won't understand what we're doing at all. At least not until after the Ravelling is over."
+
+?????
+
 
 
 I took her hand and we started walking.
@@ -406,13 +414,17 @@ I glanced around to make sure no one else on the street was listening. "Yeeeeaaa
 
 ????
 
+"Would you say you felt… helpless?"
+
+"Ugh, I don't want to <em>say</em> I felt like that, but I don't know… maybe? Why do you ask?"
+
 "'Anger turns helplessness into strength,'" Yali said.
 
 "Hey, is that a quote from somewhere?"
 
 "We had a book full of sayings in the, the, when I was growing up. It was a really old book, so it still had some of the Blood God's sayings, from back when the Blood God was worshipped. That's one of them."
 
-"'Anger turns helplessness into strength,'" I repeated, trying it out. "I kind of get it. I'm not sure it's always true, though."
+"'Anger turns helplessness into strength,'" I repeated, trying it out. "I can see that. I'm not sure it's always true, though."
 
 "Same."
 
