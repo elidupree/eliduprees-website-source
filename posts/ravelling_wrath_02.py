@@ -336,7 +336,7 @@ Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally
 
 ?????
 
-"The gods don't think like we do. They're much… bigger and slower. The whole winter for them is like a single night for us. People say the high priests can talk to the gods, but it's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
+"The gods don't think like we do. They're much bigger and slower. The whole winter for them is like a single night for us… and the Ravelling is their dreams. People say the high priests can talk to the gods, but it's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
 
 "A wisdom… rock?"
 
@@ -362,7 +362,7 @@ I took her hand and we started walking.
 
 "You don't have to if you don't want to," said Yali soothingly.
 
-"Hang on, I just remembered this story has a point in it where I got really angry. So it's kind of killing two birds with one stone if I tell it. Sure, I'll do it," I said. I danced a few steps ahead and then looked back, waving my arms like a stage magician. "The Adventures of Rinn Akatura, Chapter 752: The Fast Food Place," I began. "So, there was this girl –"
+"Hang on, I just remembered this story <em>also</em> has a point in it where I got really angry. So it's kind of killing two birds with one stone if I tell it. Sure, I'll do it," I said. I danced a few steps ahead and then looked back, waving my arms like a stage magician. "The Adventures of Rinn Akatura, Chapter 752: The Fast Food Place," I began. "So, there was this girl –"
 
 Yali smirked.
 
@@ -398,7 +398,7 @@ I glanced around to make sure no one else on the street was listening. "Yeeeeaaa
 
 "It makes you really angry."
 
-"Yeah! If somebody just says 'fuck you, Rinn' or whatever, I know where I stand with them, you know? But when people <em>act</em> like they're on my side when they're <em>not</em>... I basically told them to fuck off. I wish I had come up with something smarter to say."
+"Yeah! If somebody just says 'fuck you, Rinn' or whatever, I know where I stand with them, you know? But when people <em>act</em> like they're on my side when they're <em>not</em>... I basically just told them to fuck off. I wish I had come up with something smarter to say."
 
 "Maybe we can use this. I can <em>see</em> you getting angry right now, more than we managed the other day."
 
@@ -411,6 +411,34 @@ I glanced around to make sure no one else on the street was listening. "Yeeeeaaa
 "It's fine," she said. She looked at me curiously. "Before we get to the serious stuff, why don't you finish the story? You got caught in the movies, but what happened to the fast food place?"
 
 "Oh, right. Well, I was kind of upset for the next few days, so I wasn't really paying attention, and I let a cop see me going in and out of the kitchen. He started to make a fuss, so we all pretended I was just there to visit a cousin who worked there. But they basically told me not to come back after that, to make sure they wouldn't get in trouble. Kind of anticlimactic, I know."
+
+????
+
+I noticed that Yali was still smiling at me. "I can't believe you actually liked listening to <em>that</em> story," I said.
+
+"You have no <em>idea</em> how adorable you are."
+
+"Okay but seriously <em>that</em> story? That story sucked."
+
+Yali tried to make a more serious face. "I know it's <em>bad</em>, what happened. But there's just something about, about, about you being so… free to feel things. It makes me want to go with you on all your adventures. Even though when I actually think about it, I might be better off watching your adventures from a safe distance."
+
+I smirked. "You know, if you ever want to go on an adventure –"
+
+"No, I'm good. I can't wait to hear some more of your stories, though."
+
+"Okay! Let me tell you one of actually good ones. Like about that time when I –"
+
+"Just a minute. I really want to hear your stories. But the problem is, I'd love to spend <em>all afternoon</em> hearing them. And then we won't get to the thing we were going to do first."
+
+"Which thing – oh yeah, the thing that got me angry. Way to pick out another downer," I said.
+
+"Is it that bad?"
+
+"Do you know name and name??????" I said quietly.
+
+"Oh. I can see where this is going."??????
+
+"He treats her like shit! And I <em>like</em> her. Not in a romantic way, just in an I-really-don't-want-anything-bad-to-happen-to-her way."
 
 ????
 
