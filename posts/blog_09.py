@@ -80,9 +80,9 @@ posts = [
 <p>It's easy for you to say that if you have the <em>ability</em> to conform to those social standards of dress (either at all, or without going to prohibitively large amounts of effort).</p>
 
 <p>For instance, "dressing up" is a (not entirely anymore, but still mostly) gender-segregated thing: There isn't a way "to dress up", there's a way "to dress up male" and a way "to dress up female". This causes me two problems:</p>
-<ol><li>Since I'm agendered, there is no possible way for me to dress up.</li>
+<ol><li>Since I'm agender, there is no possible way for me to dress up.</li>
 <li>Even if I could, I wouldn't, because I hate gendered conventions with a fiery passion.</li></ol>
-I personally deal with this by never going to a venue that requires me to dress up, but not everybody has the luxury of being able to avoid such venues.
+<p>I personally deal with this by never going to a venue that requires me to dress up, but not everybody has the luxury of being able to avoid such venues.</p>
 
 <p>And to some people, "dress up" means "buy an extra garment you can ill afford".</p>
 <p>Or "Battle your depression into letting you spend lots of effort dealing with clothes and body stuff, using energy you would rather have spent on the actual task".</p>

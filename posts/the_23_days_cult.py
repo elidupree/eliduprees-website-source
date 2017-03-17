@@ -111,7 +111,7 @@ Light stuck the notebook into zir bag and promptly forgot about it.
 
 The next few weeks saw Light studying for the upcoming nationwide exams. Ze spent many evenings alone in their room, hard at work.
 
-Today was one such evening. Lights sat at a plain desk, in front of neatly organized shelves, steadily solving math problems. The TV news played in the background. <em>Why do I leave that on, anyway? I know it's all spin. Maybe it's a bad habit of mine. Or maybe biased news is better than no news. Who knows? I guess it helps to know what other people are watching, at least.</em>
+Today was one such evening. Light sat at a plain desk, in front of neatly organized shelves, steadily solving math problems. The TV news played in the background. <em>Why do I leave that on, anyway? I know it's all spin. Maybe it's a bad habit of mine. Or maybe biased news is better than no news. Who knows? I guess it helps to know what other people are watching, at least.</em>
 
 Light came to the end of a problem. <em>Now, where were my notes for the next class?</em> Light fished in zir bag, then fished some more, but didn't find them. Not wanting to waste my time, ze emptied the bag onto the desk.
 
