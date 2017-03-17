@@ -825,16 +825,18 @@
   "remembered_contents": "bfdd36c60e7e997b201bfc485665fc701ed5fe04a17df768960a9d538f63cecfcc5430517279ec10d04d878f2caf49a5"
  },
  "Projects update 2017-03-01": {
-  "date_modified": "2017-03-01",
+  "date_modified": "2017-03-15",
   "date_posted": "2017-03-01",
   "deployed": true,
   "id": "5edffd5798fb5c51576a74b605dd7e5",
-  "remembered_contents": "7e80f5146af131b68cd92c6897e372d9a869df1d98fcb12e4edfd08f00fff631aa63aa2ae50eb879e7e7c4308d1bc121"
+  "remembered_contents": "def06429811b779c0c37684069ddcf1088c41a17790490dc7c9b1b25c066ca7069ad3d5266a9c26a67b315b6ec396c83"
  },
  "Projects update 2017-03-15": {
   "date_modified": "2017-03-15",
   "date_posted": "2017-03-15",
-  "id": "2fb86c132fae1c85924e5144aa4f7d"
+  "deployed": true,
+  "id": "2fb86c132fae1c85924e5144aa4f7d",
+  "remembered_contents": "0f44dd2c0eb8e1f266ae5721195fae84c7d362278095374d9e34b6bffef6266083ba3f95a5d44f2e947a1f47187c7600"
  },
  "Prose vs. graphic narration": {
   "date_modified": "2011-09-05",
