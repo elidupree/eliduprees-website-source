@@ -90,6 +90,72 @@ I haven't made progress on any other projects this week. My hands still aren't d
 ''',
 },
 
+{
+"title": "My rules of Go, on arbitrary directed graphs",
+"tags": ["math"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "These are rules for the game of Go that elegantly generalize the game to arbitrary directed graphs, made by my sibling and I. (This post probably won't be interesting unless you're Go player and/or a mathematician.)",
+"contents":'''
+
+These are rules for <a href="https://en.wikipedia.org/wiki/Go_(game)">the game of Go</a> that elegantly generalize the game to arbitrary <a href="https://en.wikipedia.org/wiki/Directed_graph">directed graphs</a>, made by <a href="http://www.idupree.com/">my sibling</a> and I. (This post probably won't be interesting unless you're Go player and/or a mathematician.)
+
+Our ruleset uses stone scoring because it's super simple and clear what that means.  It uses divide-and-choose for komi because the first move is more valuable on some graphs than others.  It uses a novel divide-and-choose method to address (super)ko. An ordinary superko rule would be well-defined here too.
+
+<h2>The rules</h2>
+
+INTRO: Go is a class of infinite combinatorial games between two players, one for each directed graph and <cut>starting state.  Points have three possible states: empty, filled with a black stone, and filled with a white stone.  (Most common is a 19x19 grid with each point having arcs to the orthogonally adjacent points, in which all points begin empty.) Each player has an rational-number score that begins at 0. There is also a set of previous board states, the "history".
+
+KOMI:  The first player chooses a rational number Komi. The second player chooses to be "White" or "Black".  The first player becomes the other color. White gains Komi score.
+
+TURNS: Black and White take turns, with Black going first. Before each turn, the current position is added to the history. Then either player may delete the entire history. On your turn, you either place a stone of your color on an empty point, or pass.
+
+CAPTURING: A stone's "liberties" are the empty points reachable from it by a path whose internal points are stones of its color. After you place a stone, all opposite-color stones with no liberties are simultaneously removed, then all same-color stones with no liberties are simultaneously removed.
+
+KO: After you place a stone, you may make a ko bid. In a ko bid, you choose a nonnegative rational amount of score. Your opponent may ignore it, or they may choose a "ko winner". If they do: The ko winner may reset the board state to any state in the history. The ko loser gains the amount of score you chose. Then it becomes the ko winner's turn.
+
+WINNING: If both players <a href="https://en.wikipedia.org/wiki/Eventually_(mathematics)">eventually</a> do nothing but pass, the board and scores are eventually constant. In that case, each player adds their number of stones to their score, then if one player has more score than the other, that player wins. Otherwise, if one player was more "active" than the other, the less active player wins. A player's "activity" is the most active action that they did infinitely many times. The following actions are ranked in increasing order of activity: passing, placing a stone, choosing yourself to be a ko winner, ignoring a ko bid, deleting the history. If neither player wins, it's a draw.
+
+<h2>Notes</h2>
+
+Although this game theoretically has infinite moves, it is practical to play in real life. Typically, both players would end the game by saying "I pass forever if you do", and then it's understood that infinite passes have taken place.
+
+The ko rule is quite fun. When you get in a loop (of any length), you delete the history, then the next time around the loop, you make a ko bid. That way, the ko winner can take an extra move from whichever point in the loop they prefer, but not from before the loop. Literally speaking, you can bid on <em>any</em> move, even if there isn't a ko. But with good players, if there's no actual infinite loop, there's no reason to make a ko bid, and no reason not to ignore one.
+
+The "activity" rule forces people to eventually answer ko bids instead of ignoring them forever. It includes "choosing yourself to be a ko winner" to deal with endgame kos that only one player can win. That player should be able to bid 0 instead of having to arbitrarily choose a small amount. This rule prevents the other player from just winning for 0 forever. In the case of complex loops, the activity rule forces the players to offer bids that include the whole loop, rather than repeatedly deleting the history so that their opponent can only reset to points in the loop that are more favorable to themself.
+
+The history deletion rule gives the game a cute property: two perfect players could theoretically sit down at a board and continue the game with perfect play, without knowing any of the history of that game.
+
+I have a bunch of mathematical conjectures about this ruleset, but I haven't proved any of them. Proving things about infinite combinatorial games can be pretty hard.
+
+<strong>"Perfect play" conjecture</strong>: All graphs, with all starting states, have a win-or-draw strategy for both players.
+
+<strong>"Going first is good" conjecture</strong>: All graphs that start with an empty board have a win-or-draw strategy that chooses a nonnegative Komi.
+
+<h3>Unstable components</h3>
+
+Consider an isolated pair of points that are only connected to each other. Without a superko rule, the players can keep playing back and forth in this space.
+
+Now, suppose there are N such pairs. With superko, the game can be completed, but it takes Ω(2<sup>N</sup>) moves to do so. Intuitively, it seems like games should be possible to complete in O(N) moves, where N is the number of points on the board. This is one of the reasons I didn't want to use a superko rule. (Our rules allow infinite loops, but at least the loop can begin within O(N) moves.)
+
+In our rules, components like these cause a sort of <em>score leeway</em>. Suppose three of them exist, and one player is ahead by 10 points elsewhere on the board. Then that player can settle and allow the opponent to place stones in the three unstable components, but still win. But if the player is only 2 points up, the game will be a draw. Thus, there's a leeway of three points, meaning that you have to be more than three points ahead elsewhere to win. To me, this seems more elegant than the score being decided by superko behavior.
+
+<strong>Stability conjecture</strong>: Each graph is "stable" or "unstable", independent of what stones start out in it. In an unstable graph, the first player has a strategy that always wins if the opponent eventually passes. In a stable graph, both players have a win-or-draw strategy that always eventually passes.
+
+<strong>"A regular board is stable" conjecture</strong>: The 19x19 grid is a stable graph.
+
+<strong>Score-independence conjecture</strong>: On any stable graph, both players have a win-or-draw strategy that always eventually passes and is independent of the current scores.
+
+<strong>"Score-independent strategies are score-maximizing" corollary</strong>: On any stable graph, a strategy that always eventually passes and is score-independent is also a <em>score-maximizing</em> strategy. That is, when playing against such a strategy, another such strategy will always achieve the maximum relative score that can be achieved by any strategy. This follows from the previous conjecture, because two such strategies playing against each other would always achieve equal scores.
+
+<strong>"Independence of disconnected settled boards" conjecture</strong>: If two score-maximizing strategies play against each other on a stable graph, we call the result a "settled board". For any stable graph, there exist score-maximizing strategies whose moves (other than deciding Komi) are independent of any combination of settled boards being added to the initial state as disconnected components. Note that this is <em>not</em> true with a superko rule, because settled boards may contain unremovable ko threats.
+
+
+
+
+''',
+},
+
 ]
 
 """
