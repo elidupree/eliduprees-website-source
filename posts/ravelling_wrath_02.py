@@ -126,7 +126,7 @@ I continued, "They're only really mad if they think I'm hanging out with Fasia's
 
 "I…" Yali trailed off.
 
-"I'm not saying they're going to… whatever. I'm just saying, how would they even react to this? They already don't know <em>anything</em> about my life right now. I'm not sure they even know I'm a lesbian!"
+"I'm not saying they're going to… whatever. I'm just saying, how would they even react to this? They already don't know <em>anything</em> about my life right now. I'm not sure they even know I'm gay!"
 
 Yali startled. "How can they <em>not know</em>? You're – You even introduced me as your girlfriend!"
 
@@ -316,7 +316,7 @@ I sighed. "I don't either!"
 
 "If you don't know right now… what if you think of a time in the past when you <em>were</em> really angry?"
 
-Yali looked really exhausted for a moment. "Hang on, are <em>you</em> okay?" I said.
+Yali looked really exhausted for a moment. "Hang on," I said. "Are <em>you</em> okay?" 
 
 "Uh… yes?"
 
@@ -332,15 +332,31 @@ Yali looked really exhausted for a moment. "Hang on, are <em>you</em> okay?" I s
 
 "Well –" There was that exhaustion again. "How about, how about you think about it overnight? That would give you time to, to, to, get more perspectives?"
 
-Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, and she'd <em>said</em> she was okay, but there was something weird about it. I didn't want to screw anything up by pushing it. "Good idea," I said.
+Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, and she'd <em>said</em> she was okay, but there was something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
+
+There was an awkward pause. I scrambled for something to break the silence.
+
+"So… the Ravelling!" I said. "What's it actually like? Tell me everything."
+
+Yali brightened a little.
 
 ?????
 
-"The gods don't think like we do. They're much bigger and slower. The whole winter for them is like a single night for us… and the Ravelling is their dreams. People say the high priests can talk to the gods, but it's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
+"The gods don't think like we do. They're much bigger and slower. The whole winter for them is like a single night for us… and the Ravelling is like their dreams. People say the high priests can talk to the gods, but it's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
 
-"A wisdom… rock?"
+"A wisdom… <em>rock</em>?"
 
 "Sure, a wisdom rock. You ever wonder why we call the gods 'it' instead of 'he' or 'she'? That's why. With any luck, the Blood God won't understand what we're doing at all. At least not until after the Ravelling is over."
+
+?????
+
+broken god
+
+????
+
+"<em>Neither</em> of our gods has rejuvenated for the last 70 years."
+
+"Rejuvenated?"
 
 ?????
 
@@ -455,6 +471,19 @@ I smirked. "You know, if you ever want to go on an adventure –"
 "'Anger turns helplessness into strength,'" I repeated, trying it out. "I can see that. I'm not sure it's always true, though."
 
 "Same."
+
+
+?????
+
+Yali took my hand. Her voice was soft and serious. "Before we make plans, I want to make sure whether you really want to do this. It's okay if you say no, or that I'm dragging you into things too fast."
+
+"I'm fine with it. It seems like a good –"
+
+"Stop. Just this once, can I ask you to take some time and think it through? If this works, it'll be a really unpleasant experience for you. So I don't want to do it unless you're sure about it. Think about whether you'd want to do it if it wasn't my idea."
+
+
+
+
 
 
 ''',
