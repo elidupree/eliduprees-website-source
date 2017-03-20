@@ -146,7 +146,9 @@ In our rules, components like these cause a sort of <em>score leeway</em>. Suppo
 
 <strong>Score-independence conjecture</strong>: On any stable graph, both players have a win-or-draw strategy that always eventually passes and is independent of the current scores.
 
-<strong>"Score-independent strategies are score-maximizing" corollary</strong>: On any stable graph, a strategy that always eventually passes and is score-independent is also a <em>score-maximizing</em> strategy. That is, when playing against such a strategy, another such strategy will always achieve the maximum relative score that can be achieved by any strategy. This follows from the previous conjecture, because two such strategies playing against each other would always achieve equal scores.
+<strong>"Perfect Komi" conjecture</strong>: On any stable graph, all win-or-draw strategies choose the same Komi.
+
+<strong>"Score-independent strategies are score-maximizing" corollary</strong>: On any stable graph, a strategy that always eventually passes and is score-independent is also a <em>score-maximizing</em> strategy. That is, when playing against such a strategy, another such strategy will always achieve the maximum relative score that can be achieved by any strategy, even if the scores are different than what ideal play would achieve. This follows from the previous conjecture, because two such strategies playing against each other would always achieve equal scores.
 
 <strong>"Independence of disconnected settled boards" conjecture</strong>: If two score-maximizing strategies play against each other on a stable graph, we call the result a "settled board". For any stable graph, there exist score-maximizing strategies whose moves (other than deciding Komi) are independent of any combination of settled boards being added to the initial state as disconnected components. Note that this is <em>not</em> true with a superko rule, because settled boards may contain unremovable ko threats.
 
