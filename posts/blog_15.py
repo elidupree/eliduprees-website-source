@@ -104,7 +104,7 @@ Our ruleset uses stone scoring because it's super simple and clear what that mea
 
 <h2>The rules</h2>
 
-INTRO: Go is a class of infinite combinatorial games between two players, one for each directed graph and <cut>starting state.  Points have three possible states: empty, filled with a black stone, and filled with a white stone.  (Most common is a 19x19 grid with each point having arcs to the orthogonally adjacent points, in which all points begin empty.) Each player has an rational-number score that begins at 0. There is also a set of previous board states, the "history".
+INTRO: Go is a class of infinite combinatorial games<footnote((Formally, an infinite combinatorial game can be defined like this: A "move" is a natural number. A "strategy" is a function from finite sequences of moves (the game history) to moves (the next move to play). When two strategies are matched up against each other, such that they take turns choosing the next move, they produce an infinite sequence of moves. A "game" is a function from infinite sequences of moves to a game result (who won). When you're defining an infinite combinatorial game, you usually don't specify exactly how the game's moves map to natural numbers, because that is tedious and unimportant. You only need to understand that the moves <em>can</em> be represented that way.))> between two players, one for each directed graph and <cut>starting state.  Points have three possible states: empty, filled with a black stone, and filled with a white stone.  (Most common is a 19x19 grid with each point having arcs to the orthogonally adjacent points, in which all points begin empty.) Each player has an rational-number score that begins at 0. There is also a set of previous board states, the "history".
 
 KOMI:  The first player chooses a rational number Komi. The second player chooses to be "White" or "Black".  The first player becomes the other color. White gains Komi score.
 
@@ -114,7 +114,7 @@ CAPTURING: A stone's "liberties" are the empty points reachable from it by a pat
 
 KO: After you place a stone, you may make a ko bid. In a ko bid, you choose a nonnegative rational amount of score. Your opponent may ignore it, or they may choose a "ko winner". If they do: The ko winner may reset the board state to any state in the history. The ko loser gains the amount of score you chose. Then it becomes the ko winner's turn.
 
-WINNING: If both players <a href="https://en.wikipedia.org/wiki/Eventually_(mathematics)">eventually</a> do nothing but pass, the board and scores are eventually constant. In that case, each player adds their number of stones to their score, then if one player has more score than the other, that player wins. Otherwise, if one player was more "active" than the other, the less active player wins. A player's "activity" is the most active action that they did infinitely many times. The following actions are ranked in increasing order of activity: passing, placing a stone, choosing yourself to be a ko winner, ignoring a ko bid, deleting the history. If neither player wins, it's a draw.
+WINNING: The following actions are "unsustainable", in increasing order of unsustainability: making a ko bid, choosing yourself to be a ko winner, ignoring a ko bid, deleting the history. A player's "unsustainability" is the most unsustainable action that they did infinitely many times. If either player did infinitely many unsustainable actions, the player with lower unsustainability wins. Otherwise, the scores are eventually constant, and the winner is determined by score and stones, as follows: a player's "live stones" are the points that <a href="https://en.wikipedia.org/wiki/Eventually_(mathematics)">eventually</a> always contain a stone of that player's color. Each player adds their eventual score to their number of live stones, to get a final score, which is either a rational number or infinity. If one player has a higher final score than the other, that player wins. If neither player wins, it's a draw.
 
 <h2>Notes</h2>
 
@@ -122,15 +122,25 @@ Although this game theoretically has infinite moves, it is practical to play in 
 
 The ko rule is quite fun. When you get in a loop (of any length), you delete the history, then the next time around the loop, you make a ko bid. That way, the ko winner can take an extra move from whichever point in the loop they prefer, but not from before the loop. Literally speaking, you can bid on <em>any</em> move, even if there isn't a ko. But with good players, if there's no actual infinite loop, there's no reason to make a ko bid, and no reason not to ignore one.
 
-The "activity" rule forces people to eventually answer ko bids instead of ignoring them forever. It includes "choosing yourself to be a ko winner" to deal with endgame kos that only one player can win. That player should be able to bid 0 instead of having to arbitrarily choose a small amount. This rule prevents the other player from just winning for 0 forever. In the case of complex loops, the activity rule forces the players to offer bids that include the whole loop, rather than repeatedly deleting the history so that their opponent can only reset to points in the loop that are more favorable to themself.
+The "unsustainability" rule forces people to eventually answer ko bids instead of ignoring them forever. It includes "choosing yourself to be a ko winner" to deal with endgame kos that only one player can win. That player should be able to bid 0 instead of having to arbitrarily choose a small amount. This rule prevents the other player from just winning for 0 forever. In the case of complex loops, the unsustainability rule forces the players to offer bids that include the whole loop, rather than repeatedly deleting the history so that their opponent can only reset to points in the loop that are more favorable to themself.
 
 The history deletion rule gives the game a cute property: two perfect players could theoretically sit down at a board and continue the game with perfect play, without knowing any of the history of that game.
 
 I have a bunch of mathematical conjectures about this ruleset, but I haven't proved any of them. Proving things about infinite combinatorial games can be pretty hard.
 
-<strong>"Perfect play" conjecture</strong>: All graphs, with all starting states, have a win-or-draw strategy for both players.
+<strong>"Perfect play" conjecture</strong>: For all graphs, with all starting states, either there is a winning strategy for the second player, or there is a win-or-draw strategy for both players. On finite graphs, there is always a win-or-draw strategy for both players.
 
-<strong>"Going first is good" conjecture</strong>: All graphs that start with an empty board have a win-or-draw strategy that chooses a nonnegative Komi.
+I will call a strategy "reasonable" if it is never unsustainable and most opponent is more unsustainable.
+
+<strong>"The ko rules basically work" conjecture</strong>: We may also require that such strategies are reasonable.
+
+<strong>Score-independence conjecture</strong>: We may also require that such strategies' choices of move are independent of the current scores.
+
+<strong>"Going first is good" conjecture</strong>: All finite graphs that start with an empty board have a win-or-draw strategy that chooses a nonnegative Komi.
+
+<strong>"Perfect Komi" conjecture</strong>: On any finite graph, all win-or-draw strategies choose the same Komi.
+
+<strong>"Score-independent strategies are score-maximizing" conjecture</strong>: On any finite graph, any reasonable, score-independent, win-or-draw strategy is also a <em>score-maximizing</em> strategy. That is, if the opponent is not unsustainable, it guarantees at least the maximum relative score that can be guaranteed by any strategy. This is technically a trivial corollary because any reasonable win-or-draw strategy guarantees at least 0 relative score, and 0 is always the maximum relative score that can be guaranteed in a game where the opponent also has a win-or-draw strategy. However, I claim that reasonable, score-independent, win-or-draw strategies <em>also</em> maximize their guaranteed relative score after any given incorrect play by the opponent, at which point it is possible to guarantee a relative score higher than 0.
 
 <h3>Unstable components</h3>
 
@@ -138,21 +148,13 @@ Consider an isolated pair of points that are only connected to each other. Witho
 
 Now, suppose there are N such pairs. With superko, the game can be completed, but it takes Ω(2<sup>N</sup>) moves to do so. Intuitively, it seems like games should be possible to complete in O(N) moves, where N is the number of points on the board. This is one of the reasons I didn't want to use a superko rule. (Our rules allow infinite loops, but at least the loop can begin within O(N) moves.)
 
-In our rules, components like these cause a sort of <em>score leeway</em>. Suppose three of them exist, and one player is ahead by 10 points elsewhere on the board. Then that player can settle and allow the opponent to place stones in the three unstable components, but still win. But if the player is only 2 points up, the game will be a draw. Thus, there's a leeway of three points, meaning that you have to be more than three points ahead elsewhere to win. To me, this seems more elegant than the score being decided by superko behavior.
+In our rules, these pairs are always worth 0. That seems much more elegant to me. Neither player has an incentive to play in one. If either player does, the other player can just capture back indefinitely. So after all real points are decided, the game would end with them capturing back and forth forever, meaning that neither point becomes a <em>live stone</em>.<footnote((In an older version of our rules, <em>placing stones</em> was also an unsustainable action. With that variant, components like these cause a sort of <em>score leeway</em>. Suppose three of them exist, and one player is ahead by 10 points elsewhere on the board. Then that player can stop placing stones and allow the opponent to place stones in the three unstable components, but still win. But if the player is only 2 points up, the game will be a draw. Thus, there's a leeway of three points, meaning that you have to be more than three points ahead elsewhere to win. To me, this still seems more elegant than the score being decided by superko behavior.))>
 
-<strong>Stability conjecture</strong>: Each graph is "stable" or "unstable", independent of what stones start out in it. In an unstable graph, the first player has a strategy that always wins if the opponent eventually passes. In a stable graph, both players have a win-or-draw strategy that always eventually passes.
+<strong>Stability conjecture</strong>: Each finite graph is "stable" or "unstable", independent of what stones start out in it. In an unstable graph, both players have a strategy that always wins if the opponent eventually passes. In a stable graph, both players have a win-or-draw strategy that always eventually passes.
 
 <strong>"A regular board is stable" conjecture</strong>: The 19x19 grid is a stable graph.
 
-<strong>Score-independence conjecture</strong>: On any stable graph, both players have a win-or-draw strategy that always eventually passes and is independent of the current scores.
-
-<strong>"Perfect Komi" conjecture</strong>: On any stable graph, all win-or-draw strategies choose the same Komi.
-
-<strong>"Score-independent strategies are score-maximizing" corollary</strong>: On any stable graph, a strategy that always eventually passes and is score-independent is also a <em>score-maximizing</em> strategy. That is, when playing against such a strategy, another such strategy will always achieve the maximum relative score that can be achieved by any strategy, even if the scores are different than what ideal play would achieve. This follows from the previous conjecture, because two such strategies playing against each other would always achieve equal scores.
-
-<strong>"Independence of disconnected settled boards" conjecture</strong>: If two score-maximizing strategies play against each other on a stable graph, we call the result a "settled board". For any stable graph, there exist score-maximizing strategies whose moves (other than deciding Komi) are independent of any combination of settled boards being added to the initial state as disconnected components. Note that this is <em>not</em> true with a superko rule, because settled boards may contain unremovable ko threats.
-
-
+<strong>"Independence of disconnected settled boards" conjecture</strong>: If two win-or-draw strategies that always eventually pass play against each other on a stable graph, we call the resulting position a "settled board". For any of the above conjectures, we can also require that the strategies' choices of move, other than deciding Komi, are independent of any combination of settled boards being added to the initial state as disconnected components, as long as their opponent doesn't play inside any of the settled boards. (Note that this is <em>not</em> true with a superko rule, because settled boards may contain unremovable ko threats.) Also, on any finite graph, we can require that their choices of Komi should only differ by exactly the relative total numbers of stones on the added settled boards.
 
 
 ''',
