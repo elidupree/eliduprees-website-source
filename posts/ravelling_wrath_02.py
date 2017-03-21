@@ -172,7 +172,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Awesome," I said. I still didn't see why this was so important, but I didn't get to see people doing actual magic very often, so I was excited for this.
 
-"It takes a lot out of me, though," she said. "So I'd like to put that off until later this evening. At the very least we should eat something first."
+"It takes a lot out of me, though. I've only used it twice before," she said. "So I'd like to put that off until later this evening. At the very least we should eat something first."
 
 "Stern take it, I wasn't hungry until you mentioned food!" I said. Yali chuckled.
 
@@ -347,6 +347,44 @@ Yali brightened a little.
 "A wisdom… <em>rock</em>?"
 
 "Sure, a wisdom rock. You ever wonder why we call the gods 'it' instead of 'he' or 'she'? That's why. With any luck, the Blood God won't understand what we're doing at all. At least not until after the Ravelling is over."
+
+?????
+
+????? That's just before when you…" I stopped.
+
+"It's okay. You can ask."
+
+I hesitated. I didn't <em>want</em> to ask this. It felt like I was accusing her of something. But… she <em>was</em> waiting for me to continue. Maybe she just wanted to get it out in the open. "Did you… plan <em>all</em> of this? Did you ask me out <em>because</em> you knew I was the Blood Child?"
+
+"I did know that," said Yali slowly. "But I didn't have a big plan at first. It was more that I had literal magic to tell me that if I asked out the girl I liked… she'd say yes."
+
+I grinned. "That is <em>so</em> unfair! That is like the most unfair thing –"
+
+Yali waggled her fingers. "Literaaaaal maaaaaaaagic."
+
+I jumped up to tickle her, but then I remembered she didn't like that. Still, the tension was totally broken. "So if I wasn't the Blood Child, you'd still –"
+
+"Honestly?" She paused. "I love you to bits. But if you weren't the Blood Child… Think about it."
+
+I thought about it. "We could still have dated for three months… and then, you'd disappear, and maybe – Shit, I didn't mean –"
+
+"It's okay," she said. "I wish I could tell you something else. Like that we were destined to be together, no matter the odds. But… 'we build with the pieces you have left us'." It was part of a prayer to the Broken God.
+
+"Not many kids our age quote the Broken," I said. I was kind of impressed. If you asked a random person to imagine someone who follows the Broken God, they'd probably imagine an old wise hermit or something. Myself, I only knew that prayer from talking to an old homeless couple I often saw on the way to school.
+
+"I <em>am</em> a year older than you," Yali teased.
+
+"Just one year? So you're 17?" She nodded. "I'd assumed, since you live alone…"
+
+Yali didn't say anything.
+
+"Hang on, how <em>do</em> you live alone? And on the third layer, too?" The third layer of the city didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
+
+"If we talk about my past," Yali said calmly, "I'll get upset. And if I get upset, I won't be able to plan for the future."
+
+Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the ????"
+
+"Right!
 
 ?????
 
