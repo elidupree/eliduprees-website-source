@@ -362,7 +362,7 @@ I grinned. "That is <em>so</em> unfair! That is like the most unfair thing –"
 
 Yali waggled her fingers. "Literaaaaal maaaaaaaagic."
 
-I jumped up to tickle her, but then I remembered she didn't like that. Still, the tension was totally broken. "So if I wasn't the Blood Child, you'd still –"
+I jumped up to tickle her, but then I remembered she didn't like that. Still, the tension was totally relieved. "So if I wasn't the Blood Child, you'd still –"
 
 "Honestly?" She paused. "I love you to bits. But if you weren't the Blood Child… Think about it."
 
@@ -374,13 +374,13 @@ I thought about it. "We could still have dated for three months… and then, you
 
 "I <em>am</em> a year older than you," Yali teased.
 
-"Just one year? So you're 17?" She nodded. "I'd assumed, since you live alone…"
+"Just one year? So you're 17?" She nodded. "I'd assumed you were a little older, since you live alone…"
 
 Yali didn't say anything.
 
 "Hang on, how <em>do</em> you live alone? And on the third layer, too?" The third layer of the city didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
 
-"If we talk about my past," Yali said calmly, "I'll get upset. And if I get upset, I won't be able to plan for the future."
+"If we talk about my past," said Yali calmly, "I'll get upset. And if I get upset, I won't be able to plan for the future."
 
 Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the ????"
 
