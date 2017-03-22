@@ -186,7 +186,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Like I said, you can yell at me, hit me… just about anything, as long as it wouldn't actually injure anyone."
 
-"Anything? Like including, say… publicly humiliating you?"
+"Anything? What does that include? Like does it include… publicly humiliating you?"
 
 "Woah!"
 
@@ -196,7 +196,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "You'd be surprised. Just think about it."
 
-"Fine, I get it. I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
+"Fine, I get it, I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
 
 "But yelling the wrong thing at somebody <em>can</em> permanently hurt them."
 
@@ -206,15 +206,15 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Sure."
 
-"How about hurtful things that <em>are</em> true?"
+"Is it okay to include hurtful things that <em>are</em> true?"
 
 "Of course – Oh, I see. True things could actually hurt more. But go ahead, I can take it."
 
-"Okay!" said Yali. Then she hesitated. "What <em>would</em> you actually find hurtful?"
+"Okay!" said Yali. She opened her mouth, then stopped. "What <em>would</em> you actually find hurtful?"
 
 "I dunno. I guess you could call me weak?"
 
-"You're weak," said Yali.
+"Okay," said Yali. She leaned forward slightly. "You're weak."
 
 "Uh huh."
 
@@ -222,11 +222,11 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "I'm not though."
 
-"Uh… You're horrible. I hate you."
+"Uh… You're horrible? That's right, you're horrible. I hate you."
 
 "Nope."
 
-"You're an impudent child."
+"You're a, a, an impudent child."
 
 "LOL screw off."
 
@@ -242,7 +242,7 @@ I burst out laughing. "Sorry, you're right, that <em>would</em> piss me off, if 
 
 "I was just <em>telling</em> you what was true about <em>me</em> –" I began irritably. "Ohhhhhh. You said that to make me mad. It's not what you were really thinking."
 
-"I did say it to make you mad. But it <em>was</em> what I was really thinking, sort of. That's why it sort of worked."
+"I did say it to make you mad. But it <em>was</em> sort of what I was really thinking. Sort of. That's why it sort of worked."
 
 "Well <em>that's</em> a mindfuck."
 
@@ -252,9 +252,9 @@ I burst out laughing. "Sorry, you're right, that <em>would</em> piss me off, if 
 
 "I mean, that's not how I would have said it if I wasn't trying to make you mad on purpose –"
 
-"I know! I agreed to this, I'm not accusing you. But… you really <em>don't</em> like me thinking of you as harmless?"
+"I know! I agreed to this, I'm not accusing you. But…" I quickly tried to sort out the main point of what she said. "You really <em>don't</em> like me thinking of you as harmless?"
 
-"I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, like, not harming you. And that's nice. But I'm <em>not</em> harmless. I know that."
+"I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, of, not harming you. And that's nice. But I'm <em>not</em> harmless. I know that."
 
 "I think I get it," I said. "Shit, I said a lot of stuff like that about you today, didn't I? Sorry. I'll try to be more sensitive about that."
 
@@ -300,9 +300,9 @@ Just then Yali let go of me, stepped back and closed her eyes again. When she op
 
 "That was fuckin' scary!" I said. "Not in a bad way! I mean, that was the point, right? Why'd you stop?"
 
-Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali hugged me and tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but it's always good to keep checking."
+Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but it's always good to keep checking."
 
-"The second reason," she continued, "is that I'm not sure <em>I</em> can handle doing that for very long. And the third one is… It wasn't working."
+"The second reason," she continued, "is that I'm not sure <em>I</em> can handle doing that for very long. And the third one is… It wasn't going to work."
 
 "It almost worked! If you'd gone on for a bit longer…"
 
@@ -314,7 +314,7 @@ Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to ch
 
 I sighed. "I don't either!"
 
-"If you don't know right now… what if you think of a time in the past when you <em>were</em> really angry?"
+"I know. I'm not saying it's going to be easy. Maybe… what if you think of a time in the past when you <em>were</em> really angry?"
 
 Yali looked really exhausted for a moment. "Hang on," I said. "Are <em>you</em> okay?" 
 
@@ -324,7 +324,7 @@ Yali looked really exhausted for a moment. "Hang on," I said. "Are <em>you</em> 
 
 "So, can you think of –"
 
-"Yeah, yeah." I wracked my brains. Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually got me to do chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
+"Yeah, yeah." I wracked my brains. Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually managed to force me into doing chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
 
 "Maybe you're looking for the wrong <em>kind</em> of thing."
 
@@ -338,7 +338,7 @@ There was an awkward pause. I scrambled for something to break the silence.
 
 "So… the Ravelling!" I said. "What's it actually like? Tell me everything."
 
-Yali brightened a little.
+Yali brightened a little. "Right! I've gotten so used to having these memories of it, it's hard to remember only knowing what I learned from – from school. What do you want to know about first?"
 
 ?????
 
@@ -350,13 +350,13 @@ Yali brightened a little.
 
 ?????
 
-????? That's just before when you…" I stopped.
+????? The start of August? That's just before when you…" I stopped.
 
 "It's okay. You can ask."
 
 I hesitated. I didn't <em>want</em> to ask this. It felt like I was accusing her of something. But… she <em>was</em> waiting for me to continue. Maybe she just wanted to get it out in the open. "Did you… plan <em>all</em> of this? Did you ask me out <em>because</em> you knew I was the Blood Child?"
 
-"I did know that," said Yali slowly. "But I didn't have a big plan at first. It was more that I had literal magic to tell me that if I asked out the girl I liked… she'd say yes."
+"I did know that," said Yali slowly. "But I didn't have a big plan at first. It was more that I had literal magic to tell me, that if I asked out the girl I liked, she'd say yes."
 
 I grinned. "That is <em>so</em> unfair! That is like the most unfair thing –"
 
@@ -388,7 +388,7 @@ Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the ????"
 
 ?????
 
-broken god
+how does the broken god
 
 ????
 
@@ -398,7 +398,9 @@ broken god
 
 ?????
 
+?????
 
+?????
 
 I took her hand and we started walking.
 
