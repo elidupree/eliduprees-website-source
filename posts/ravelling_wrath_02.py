@@ -112,13 +112,13 @@ That was true. It was still ?????. And everyone knew the Ravelling started aroun
 
 "Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper layers. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
 
-But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once.
+But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
 
 I continued, "They're only really mad if they think I'm hanging out with Fasia's goons."
 
 "Fasia as in Fasia Namaar, the gang leader?" Yali looked at me curiously. "Are you <em>actually</em> friends with any gangsters?"
 
-"Hell if I know. Do actual gangsters tell everyone they're gangsters? 'course, Mom and Dad think anyone named ????? is a gangster. They know an awful lot about the Stern God's rules, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
+"Hell if I know. Do actual gangsters tell everyone they're gangsters? And as for Fasia, I'm not sure he even exists. 'course, Mom and Dad think anyone named Monoë is a gangster. They know an awful lot about the Stern God's rules, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
 
 "About us being in the Ravelling? Hmm… How far do you think it's safe to trust them?"
 
@@ -394,6 +394,10 @@ how does the broken god
 
 ????
 
+If you die first
+
+????
+
 "<em>Neither</em> of our gods has rejuvenated for the last 70 years."
 
 "Rejuvenated?"
@@ -401,6 +405,100 @@ how does the broken god
 ?????
 
 ?????
+
+We kept talking until long after the sun went down. Yali told me all about ???.
+
+Finally, hours later, Yali said, "I'm starting to get tired. Before I send you home and settle down for the night, let's go ahead and try the Seeing."
+
+I perked up at the mention of Seeing. "What do I have to do?"
+
+"Let me think. You won't have to help with the actual magic. But, but… I'm going to try to see who we can trust with knowing all this. But I need to pick specific plans, specific… courses of action for us, to look for how they would turn out in the future. So I guess I'll need you to think about –"
+
+"– about <em>who</em> I might want to tell."
+
+"Yes."
+
+"Well, there's Layo, obviously." Laökuru Katsín was my best friend since elementary school. I could talk to him about literally anything. "Other than that… well, how <em>many</em> people should I come up with? Does your Seeing have a limit, or –"
+
+"There's not technically a limit, but… it takes a lot out of me. The more I want to See, the more work it takes. So, I <em>want</em> to check everyone you can think of, but when I actually think about it… I can probably only do a few of them. And you should tell me what order to do them, in case, in case I don't get through all of them."
+
+"Okay." I thought about my other friends, and eventually gave Yali a few to try. But even with Layo, it was hard to imagine explaining everything to him. My heart wasn't really in it, and Yali could tell.
+
+"I understand," said Yali. "I think I'm ready to begin. Move over a little?" I moved over, and Yali leaned back against the couch, a relaxed position. "When I'm in the future, I won't be aware of what's around me in real life. So just… take care of my body, okay? Don't touch it if you don't have to, but make sure it doesn't fall over or anything."
+
+"Is that likely to happen?"
+
+"No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about before I burn myself out?"
+
+"Go for it."
+
+Yali rested her head back on the couch, looked up into space, and unfocused her eyes.
+
+It wasn't like I expected. I'd seen a few sorceries before, and they had a <em>buzz</em> to them. If someone was doing a sorcery near you, you could feel it in your head, even if there was a wall in between. But this was just… nothing. It was just Yali staring into space. The only thing that looked different was her eyes, which were shifting back and forth as if they were looking for something – but the something was light-years away. I couldn't resist waving my hand in front of her face, and sure enough, she didn't see it at all.
+
+Looking at her, I was suddenly struck by how much she was trusting me. She couldn't tell what I was doing, and no one else was here either. If I wanted to take advantage of her, she'd never even know I'd done it. I could literally just slide my hands under her clothing, and – I shivered. It was scary to have thoughts like that. Even though I knew I would never do that to her.
+
+How was Yali so amazing? She'd obviously been hurt in her past, but she still managed to come out so kind and patient and trusting. And now she was wrapped up in this whole Ravelling mess, but she still found the energy to care for <em>me</em>. I <em>couldn't</em> let her get hurt again. Not by anyone else. And especially not by me.
+
+I started getting jittery just sitting on the couch next to her. So I got up and started pacing around the room.
+
+???? this would be a good place to describe Yali's house
+
+Just then, I heard Yali jerk awake behind me. I rushed over to her.
+
+She didn't even lift her head, but her eyes focused on me, so I could tell she was back. "You can… talk… to Layo," she said dully.
+
+"You okay? Can I get you anything?"
+
+"Future… first. Parents…"
+
+"Yeah?"
+
+"Tell… nothing."
+
+"I can't tell my parents anything?" Yali nodded. But why? I wasn't exactly <em>looking forward</em> to telling them, but they'd keep my secrets if I asked them to, wouldn't they? "What did you see?" I asked.
+
+"Bad… futures. Don't… see you… again."
+
+"If I tell my parents, we won't see each other again? Is that what happens when those people hear about you? The ones you don't want to find out about you being –"
+
+"Could… be."
+
+But it could <em>not</em> be? A horrible thought crept into my head. A lot of people thought Blood worship was monstrous – especially the Stern, and <em>especially</em> my parents. If they knew I was the Blood Child... "You don't think my <em>parents</em> would take me away?!"
+
+Yali said nothing.
+
+"Or it could just be the Stern Temple. Maybe Mom would go and ask the Stern for 'guidance'… And then they'd…" What would they do? Throw me in jail? Try to brainwash me? "Is that it? Is that what would happen?"
+
+"Don't… know."
+
+So that was it, then. We just didn't know. 24 hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today… it didn't really affect me. It was just another chain in the whole pile of chains dragging on my soul.
+
+"Okay. Whatever it is, I won't tell them anything. Did you see anything else?"
+
+"Trust… Layo. Rest is… details… tell you when…"
+
+"You'll tell me the details when you're less exhausted? Of course. I totally get it."
+
+"Now, need rest. You too. I can call… taxi…"
+
+"A taxi for me to get home? Seriously? It's all downhill."
+
+"Dark…"
+
+"If anyone tries to creep on me, I'll just punch them."
+
+"Lots to… think…"
+
+"I think better on my feet anyway."
+
+"Hmm."
+
+"Anyway, is it even okay for me to leave you like this?"
+
+"I'll… recover. Just bring… food." I hurried to bring her another one of the ????. When I got there, she tapped a hand on the couch next to her, meaning for me to leave it there. "Eat… later. Thanks. Now… goodnight hug."
+
+
 
 ?????
 
@@ -414,7 +512,7 @@ I took her hand and we started walking.
 
 "You do?! I only wasn't going to tell you because you're always telling me to be careful and stuff –"
 
-"I don't want you to get hurt <em>now</em>! But if it already happened – by the Stern, if I've missed out on four and a half weeks of fun stories because you thought I wouldn't like them…"
+"I don't want you to get hurt <em>now</em>! But if it already happened – By the Stern, if I've missed out on four and a half weeks of fun stories because you thought I wouldn't like them…"
 
 "You totally have! I have <em>so</em> many to tell you. This one, though… eh…"
 
@@ -543,7 +641,9 @@ Yali chuckled. Then she focused again. "These two stories have a lot in common,"
 "'Anger turns helplessness into strength,'" I repeated, trying it out. "I can see that. I'm not sure it's always true, though."
 
 "Same."
+????
 
+"I want you to try to
 
 ?????
 
