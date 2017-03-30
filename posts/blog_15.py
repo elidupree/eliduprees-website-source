@@ -159,6 +159,19 @@ In our rules, these pairs are always worth 0. That seems much more elegant to me
 ''',
 },
 
+{
+"title": "Projects update 2017-03-29",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+The second chapter of <a href="/stories/ravelling-wrath-chapter-1">Ravelling Wrath</a> now stands at <em>7100</em> words, almost twice as long as the first one. I'll probably split it in two. However, because I've been writing it out-of-order, the first half isn't finished yet either. And once I finish it, I will still have to do some website work. (Right now, I don't have a real system for stories with multiple chapters.) I could theoretically have a chapter ready by next week, but my best guess is more like two or three weeks.
+
+My other projects are still stalled. The current phase in the Saga Of Eli Dupree's Hand Problems is expected to take another month or so. They are currently at a point where they sometimes feel good enough to do a bunch of computer work, but I have to stop myself because they're not <em>actually</em> ready for that much.
+
+
+''',
+},
 ]
 
 """

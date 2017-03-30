@@ -112,13 +112,13 @@ That was true. It was still ?????. And everyone knew the Ravelling started aroun
 
 "Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper layers. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
 
-But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once.
+But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
 
 I continued, "They're only really mad if they think I'm hanging out with Fasia's goons."
 
 "Fasia as in Fasia Namaar, the gang leader?" Yali looked at me curiously. "Are you <em>actually</em> friends with any gangsters?"
 
-"Hell if I know. Do actual gangsters tell everyone they're gangsters? 'course, Mom and Dad think anyone named ????? is a gangster. They know an awful lot about the Stern God, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
+"Hell if I know. Do actual gangsters tell everyone they're gangsters? And as for Fasia, I'm not sure he even exists. 'course, Mom and Dad think anyone named Monoë is a gangster. They know an awful lot about the Stern God's rules, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
 
 "About us being in the Ravelling? Hmm… How far do you think it's safe to trust them?"
 
@@ -186,7 +186,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Like I said, you can yell at me, hit me… just about anything, as long as it wouldn't actually injure anyone."
 
-"Anything? Like including, say… publicly humiliating you?"
+"Anything? What does that include? Like does it include… publicly humiliating you?"
 
 "Woah!"
 
@@ -196,7 +196,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "You'd be surprised. Just think about it."
 
-"Fine, I get it. I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
+"Fine, I get it, I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
 
 "But yelling the wrong thing at somebody <em>can</em> permanently hurt them."
 
@@ -206,15 +206,15 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Sure."
 
-"How about hurtful things that <em>are</em> true?"
+"Is it okay to include hurtful things that <em>are</em> true?"
 
 "Of course – Oh, I see. True things could actually hurt more. But go ahead, I can take it."
 
-"Okay!" said Yali. Then she hesitated. "What <em>would</em> you actually find hurtful?"
+"Okay!" said Yali. She opened her mouth, then stopped. "What <em>would</em> you actually find hurtful?"
 
 "I dunno. I guess you could call me weak?"
 
-"You're weak," said Yali.
+"Okay," said Yali. She leaned forward slightly. "You're weak."
 
 "Uh huh."
 
@@ -222,17 +222,19 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "I'm not though."
 
-"Uh… You're horrible. I hate you."
+"Uh… You're horrible? That's right, you're horrible. I hate you."
 
 "Nope."
 
-"You're an impudent child."
+"You're a, a, an impudent child."
 
 "LOL screw off."
 
 "Don't use that disrespectful tone with me, <em>young lady</em>."
 
-I burst out laughing. "Sorry, you're right, that <em>would</em> piss me off, if someone else said it. But I just <em>can't</em> believe it when it's coming from you. You're just so lovable and… harmless."
+I burst out laughing.
+
+After a moment, I realized that Yali was just sort of staring at me. Maybe I had hurt her feelings by laughing so much. "Sorry," I said. "You're right, that <em>would</em> piss me off, if someone else said it. But I just <em>can't</em> believe it when it's coming from you. You're just so lovable and… harmless."
 
 "I'm not as harmless as I look." Yali thought about something for a moment. "Why do you keep making assumptions about me?" she said sharply.
 
@@ -242,7 +244,7 @@ I burst out laughing. "Sorry, you're right, that <em>would</em> piss me off, if 
 
 "I was just <em>telling</em> you what was true about <em>me</em> –" I began irritably. "Ohhhhhh. You said that to make me mad. It's not what you were really thinking."
 
-"I did say it to make you mad. But it <em>was</em> what I was really thinking, sort of. That's why it sort of worked."
+"I did say it to make you mad. But it <em>was</em> sort of what I was really thinking. Sort of. That's why it sort of worked."
 
 "Well <em>that's</em> a mindfuck."
 
@@ -252,11 +254,11 @@ I burst out laughing. "Sorry, you're right, that <em>would</em> piss me off, if 
 
 "I mean, that's not how I would have said it if I wasn't trying to make you mad on purpose –"
 
-"I know! I agreed to this, I'm not accusing you. But… you really <em>don't</em> like me thinking of you as harmless?"
+"I know! I agreed to this, I'm not accusing you. But…" I quickly tried to sort out the main point of what she said. "You really <em>don't</em> like me thinking of you as harmless?"
 
-"I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, like, not harming you. And that's nice. But I'm <em>not</em> harmless. I know that."
+"I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, of, not harming you. And that's nice. But I'm <em>not</em> harmless. I know that."
 
-"I think I get it," I said. "Shit, I said a lot of stuff like that about you today, didn't I? Sorry. I'll try to be more sensitive about that."
+"I... I think I get it," I said. "Shit, I said a lot of stuff like that about you today, didn't I? Sorry. I'll try to be more sensitive about that."
 
 "Thanks." Yali laughed. "We're solving our relationship conflicts too fast! Now this will never work."
 
@@ -264,11 +266,11 @@ I burst out laughing. "Sorry, you're right, that <em>would</em> piss me off, if 
 
 "But really, I still have more things to try. I'm just not sure about this next thing, because, because…"
 
-"Whatever it is, bring it on!"
+"Whatever it is, bring it on –"
 
 Yali hesitated.
 
-"Or is that too much of a 'you're harmless' thing? It's not though, I'd probably say that to anyone. Unless they were pointing a knife at me or something."
+"– or is that too much of a 'you're harmless' thing? It's not though, I'd probably say that to anyone. Unless they were pointing a knife at me or something."
 
 Yali laughed. "You're right. I'm glad we talked about this. I'm okay to 'bring it on' now. Whenever you're ready."
 
@@ -286,7 +288,7 @@ Yali twisted my arm into a painful position. Her voice was cold and unfeeling. "
 
 I glared up into her eyes. But she wasn't even looking back at me. She was looking past me as if I was totally insignificant. I felt trapped and confused. Who was this monster and what was it doing in Yali's body? I reflexively tried to shove her away from me. But she just twisted harder on my arm and I yelled out in pain.
 
-"<em>Shut. Up. Don't make a sound, you worthless child.</em>"
+"<em>Shut. Up. Don't make a sound, you worthless thing.</em>"
 
 We were just play-acting, right? I looked up into Yali's eyes for reassurance, but there was nothing there. What was going on? I could feel my whole body starting to tense up.
 
@@ -300,9 +302,9 @@ Just then Yali let go of me, stepped back and closed her eyes again. When she op
 
 "That was fuckin' scary!" I said. "Not in a bad way! I mean, that was the point, right? Why'd you stop?"
 
-Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali hugged me and tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but it's always good to keep checking."
+Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but it's always good to keep checking."
 
-"The second reason," she continued, "is that I'm not sure <em>I</em> can handle doing that for very long. And the third one is… It wasn't working."
+"The second reason," she continued, "is that I'm not sure <em>I</em> can handle doing that for very long. And the third one is… It wasn't going to work."
 
 "It almost worked! If you'd gone on for a bit longer…"
 
@@ -310,11 +312,11 @@ Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to ch
 
 "Stern take it all, you know me better than I know myself. You even <em>thought</em> this would happen?!"
 
-"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things are comfortable with. In a way. Like they're things you know how to handle. And that's going to be... Like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
+"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be... Like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
 
 I sighed. "I don't either!"
 
-"If you don't know right now… what if you think of a time in the past when you <em>were</em> really angry?"
+"I know. I'm not saying it's going to be easy. Maybe… what if you think of a time in the past when you <em>were</em> really angry?"
 
 Yali looked really exhausted for a moment. "Hang on," I said. "Are <em>you</em> okay?" 
 
@@ -324,7 +326,7 @@ Yali looked really exhausted for a moment. "Hang on," I said. "Are <em>you</em> 
 
 "So, can you think of –"
 
-"Yeah, yeah." I wracked my brains. Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually got me to do chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
+"Yeah, yeah." I wracked my brains. Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually managed to force me into doing chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
 
 "Maybe you're looking for the wrong <em>kind</em> of thing."
 
@@ -338,7 +340,7 @@ There was an awkward pause. I scrambled for something to break the silence.
 
 "So… the Ravelling!" I said. "What's it actually like? Tell me everything."
 
-Yali brightened a little.
+Yali brightened a little. "Right! I've gotten so used to having these memories of it, it's hard to remember only knowing what I learned from – from school. What do you want to know about first?"
 
 ?????
 
@@ -350,13 +352,13 @@ Yali brightened a little.
 
 ?????
 
-????? That's just before when you…" I stopped.
+????? The start of August? That's just before when you…" I stopped.
 
 "It's okay. You can ask."
 
 I hesitated. I didn't <em>want</em> to ask this. It felt like I was accusing her of something. But… she <em>was</em> waiting for me to continue. Maybe she just wanted to get it out in the open. "Did you… plan <em>all</em> of this? Did you ask me out <em>because</em> you knew I was the Blood Child?"
 
-"I did know that," said Yali slowly. "But I didn't have a big plan at first. It was more that I had literal magic to tell me that if I asked out the girl I liked… she'd say yes."
+"I did know that," said Yali slowly. "But I didn't have a big plan at first. It was more that I had literal magic to tell me, that if I asked out the girl I liked, she'd say yes."
 
 I grinned. "That is <em>so</em> unfair! That is like the most unfair thing –"
 
@@ -388,7 +390,11 @@ Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the ????"
 
 ?????
 
-broken god
+how does the broken god
+
+????
+
+If you die first
 
 ????
 
@@ -398,7 +404,103 @@ broken god
 
 ?????
 
+?????
 
+We kept talking until long after the sun went down. Yali told me all about ???.
+
+Finally, hours later, Yali said, "I'm starting to get tired. Before I send you home and settle down for the night, let's go ahead and try the Seeing."
+
+I perked up at the mention of Seeing. "What do I have to do?"
+
+"Let me think. You won't have to help with the actual magic. But, but… I'm going to try to see who we can trust with knowing all this. But I need to pick specific plans, specific… courses of action for us, to look for how they would turn out in the future. So I guess I'll need you to think about –"
+
+"– about <em>who</em> I might want to tell."
+
+"Yes."
+
+"Well, there's Layo, obviously." Laökuru Katsín was my best friend since elementary school. I could talk to him about literally anything. "Other than that… well, how <em>many</em> people should I come up with? Does your Seeing have a limit, or –"
+
+"There's not technically a limit, but… it takes a lot out of me. The more I want to See, the more work it takes. So, I <em>want</em> to check everyone you can think of, but when I actually think about it… I can probably only do a few of them. And you should tell me what order to do them, in case, in case I don't get through all of them."
+
+"Okay." I thought about my other friends, and eventually gave Yali a few to try. But even with Layo, it was hard to imagine explaining everything to him. My heart wasn't really in it, and Yali could tell.
+
+"I understand," said Yali. "I think I'm ready to begin. Move over a little?" I moved over, and Yali leaned back against the couch, a relaxed position. "When I'm in the future, I won't be aware of what's around me in real life. So just… take care of my body, okay? Don't touch it if you don't have to, but make sure it doesn't fall over or anything."
+
+"Is that likely to happen?"
+
+"No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about before I burn myself out?"
+
+"Go for it."
+
+Yali rested her head back on the couch, looked up into space, and unfocused her eyes.
+
+It wasn't like I expected. I'd seen a few sorceries before, and they had a <em>buzz</em> to them. If someone was doing a sorcery near you, you could feel it in your head, even if there was a wall in between. But this was just… nothing. It was just Yali staring into space. The only thing that looked different was her eyes, which were shifting back and forth as if they were looking for something – but the something was light-years away. I couldn't resist waving my hand in front of her face, and sure enough, she didn't see it at all.
+
+Looking at her, I was suddenly struck by how much she was trusting me. She couldn't tell what I was doing, and no one else was here either. If I wanted to take advantage of her, she'd never even know I'd done it. I could literally just slide my hands under her clothing, and – I shivered. It was scary to have thoughts like that. Even though I knew I would never do that to her.
+
+How was Yali so amazing? She'd obviously been hurt in her past, but she still managed to come out so kind and patient and trusting. And now she was wrapped up in this whole Ravelling mess, but she still found the energy to care for <em>me</em>. I <em>couldn't</em> let her get hurt again. Not by anyone else. And especially not by me.
+
+I started getting jittery just sitting on the couch next to her. So I got up and started pacing around the room.
+
+???? this would be a good place to describe Yali's house
+
+Just then, I heard Yali jerk awake behind me. I rushed over to her.
+
+She didn't even lift her head, but her eyes focused on me, so I could tell she was back. "You can… talk… to Layo," she said dully.
+
+"You okay? Can I get you anything?"
+
+"Future… first. Parents…"
+
+"Yeah?"
+
+"Tell… nothing."
+
+"I can't tell my parents anything?" Yali nodded. But why? I wasn't exactly <em>looking forward</em> to telling them, but they'd keep my secrets if I asked them to, wouldn't they? "What did you see?" I asked.
+
+"Bad… futures. Don't… see you… again."
+
+"If I tell my parents, we won't see each other again? Is that what happens when those people hear about you? The ones you don't want to find out about you being –"
+
+"Could… be."
+
+But it could <em>not</em> be? A horrible thought crept into my head. A lot of people thought Blood worship was monstrous – especially the Stern, and <em>especially</em> my parents. If they knew I was the Blood Child... "You don't think my <em>parents</em> would take me away?!"
+
+Yali said nothing.
+
+"Or it could just be the Stern Temple. Maybe Mom would go and ask the Stern for 'guidance'… And then they'd…" What would they do? Throw me in jail? Try to brainwash me? "Is that it? Is that what would happen?"
+
+"Don't… know."
+
+So that was it, then. We just didn't know. 24 hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today… it didn't really affect me. It was just another chain in the whole pile of chains dragging on my soul.
+
+"Okay. Whatever it is, I won't tell them anything. Did you see anything else?"
+
+"Trust… Layo. Rest is… details… tell you when…"
+
+"You'll tell me the details when you're less exhausted? Of course. I totally get it."
+
+"Now, need rest. You too. I can call… taxi…"
+
+"A taxi for me to get home? Seriously? It's all downhill."
+
+"Dark…"
+
+"If anyone tries to creep on me, I'll just punch them."
+
+"Lots to… think…"
+
+"I think better on my feet anyway."
+
+"Hmm."
+
+"Anyway, is it even okay for me to leave you like this?"
+
+"I'll… recover. Just bring… food." I hurried to bring her another one of the ????. When I got there, she tapped a hand on the couch next to her, meaning for me to leave it there. "Eat… later. Thanks. Now… goodnight hug."
+
+
+
+?????
 
 I took her hand and we started walking.
 
@@ -410,7 +512,7 @@ I took her hand and we started walking.
 
 "You do?! I only wasn't going to tell you because you're always telling me to be careful and stuff –"
 
-"I don't want you to get hurt <em>now</em>! But if it already happened – by the Stern, if I've missed out on four and a half weeks of fun stories because you thought I wouldn't like them…"
+"I don't want you to get hurt <em>now</em>! But if it already happened – By the Stern, if I've missed out on four and a half weeks of fun stories because you thought I wouldn't like them…"
 
 "You totally have! I have <em>so</em> many to tell you. This one, though… eh…"
 
@@ -490,17 +592,47 @@ I smirked. "You know, if you ever want to go on an adventure –"
 
 "Do you know name and name??????" I said quietly.
 
-"Oh. I can see where this is going."??????
+"I hope she dumps him already," Yali muttered.
 
-"He treats her like shit! And I <em>like</em> her. Not in a romantic way, just in an I-really-don't-want-anything-bad-to-happen-to-her way."
+"I know, right? He treats her like shit! And I <em>like</em> her. Not in a romantic way, just in an I-really-don't-want-anything-bad-to-happen-to-her way. So I can't stand it when I see him talking down to her. But that's not the <em>real</em> problem. Not the real problem for me, I mean. Or it wasn't at first. It was just, you know…" I paused, fishing for words.
 
-????
+"Just your normal. Your 'mad, but not <em>really</em> mad'."
 
-"Would you say you felt… helpless?"
+"Yeah, that's it. But then…" I grimaced. "There was this one time when he was, like, pushing her around, putting her down in front of everybody, and I told him to stop it. But he just kept at it, like he was daring me to do something about it. So I kind of punched him a little bit."
+
+"A little bit."
+
+"Okay, fine, more than a little bit. But it's not like I put him in the hospital or anything. He was fine. But a couple days later, <em>she</em> came up to me in private and told me that he was acting really bitter about it, and he was dumping all the blame on her."
+
+"Oh no."
+
+"Yeah. She basically begged me to leave him alone, to make sure that wouldn't happen again. And I obviously couldn't say no to that, you know? She's the victim here. But now whenever I see them talking together, it's like… I'm so mad, but I can't <em>do</em> anything about it. I just <em>stew</em> about it, for, like, an hour."
+
+"Only an hour? Not longer?"
+
+"Hey! An hour is a long time! For me, anyway."
+
+"I'm not judging. You can keep going."
+
+"That's the whole story though. It just sucks." I idly kicked the leg of the table. "So… what do you think? Do you see any way we can use this? Seems hard."
+
+"True. We probably shouldn't get me an abusive boyfriend in order to make you mad."
+
+"Oh my gods, I can't believe you even thought of that."
+
+Yali chuckled. Then she focused again. "These two stories have a lot in common," she said.
+
+"They do?"
+
+"Think about it. In both of them, you accidentally – Well, I was going to say 'accidentally hurt', but it wasn't <em>you</em> who hurt – actually, it was other people who did the actual hurting, both times. But you felt responsible. And both times, the person who got hurt was a girl you like."
+
+"That… I guess they <em>are</em> really similar."
+
+"And both of them… don't have any closure, and they end with you feeling like you don't know what you can do about it." Yali looked at me. "Would you say you felt… helpless?"
 
 "Ugh, I don't want to <em>say</em> I felt like that, but I don't know… maybe? Why do you ask?"
 
-"'Anger turns helplessness into strength,'" Yali said.
+"'Anger turns helplessness into strength,'" Yali intoned.
 
 "Hey, is that a quote from somewhere?"
 
@@ -509,7 +641,9 @@ I smirked. "You know, if you ever want to go on an adventure –"
 "'Anger turns helplessness into strength,'" I repeated, trying it out. "I can see that. I'm not sure it's always true, though."
 
 "Same."
+????
 
+"I want you to try to
 
 ?????
 
