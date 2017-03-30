@@ -94,7 +94,6 @@ I haven't made progress on any other projects this week. My hands still aren't d
 "title": "My rules of Go, on arbitrary directed graphs",
 "tags": ["math"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "blurb": "These are rules for the game of Go that elegantly generalize the game to arbitrary directed graphs, made by my sibling and I. (This post probably won't be interesting unless you're Go player and/or a mathematician.)",
 "contents":'''
 

@@ -652,9 +652,11 @@
   "remembered_contents": "8164ebb45d1bb73a0852c1139c68e1e23cb71179af4d1260746b1c6b97f9a4e0c618d2791435f470b0d7600dc98b3eef"
  },
  "My rules of Go, on arbitrary directed graphs": {
-  "date_modified": "2017-03-19",
-  "date_posted": "2017-03-19",
-  "id": "2165af10b3c0c608c4858a208409943"
+  "date_modified": "2017-03-22",
+  "date_posted": "2017-03-22",
+  "deployed": true,
+  "id": "2165af10b3c0c608c4858a208409943",
+  "remembered_contents": "16d85cd03e04174f0fca14811a2787d77b44f798773c196620c2ebd6ee3b70ee45cb4e54731515000aafc039f93d5e57"
  },
  "Neurodiversity": {
   "date_modified": "2016-07-24",
