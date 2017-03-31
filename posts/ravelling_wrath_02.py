@@ -21,6 +21,10 @@ div.blog_post h2 {
 
   </style>''',
   "contents": '''
+
+<content_warning_header((this chapter includes verbally abusive language; discussion of an abusive relationship; discussion of sexual assault;))>
+
+<bigbreak>
   
 <h2>Chapter 2: The Plan</h2>
 
@@ -342,15 +346,82 @@ There was an awkward pause. I scrambled for something to break the silence.
 
 Yali brightened a little. "Right! I've gotten so used to having these memories of it, it's hard to remember only knowing what I learned from – from school. What do you want to know about first?"
 
-?????
+"Uh… everything! Yeah, yeah. How about… what's the Otherworld like? All five layers?"
 
-"The gods don't think like we do. They're much bigger and slower. The whole winter for them is like a single night for us… and the Ravelling is like their dreams. People say the high priests can talk to the gods, but it's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
+Yali launched into elaborate descriptions of everything, from the starry void of the Waiting, to the riddle-maze of the Seeking, to the trials of the Stern, to the lush wilderness of the Broken. They all sounded so beautiful – except the Stern, anyway – and I couldn't wait to see them myself. Obviously, I didn't <em>want</em> to be involved in all this, but I really wanted to see them, too.
+
+"So…" I said, "Waiting, Seeking, Stern, Broken, Blood. That's the same order as the city! If you count from top to bottom."
+
+Yali smiled. "That's right. The layers of the city were built to mimic the layers of the Otherworld. That's why the first layer doesn't allow any lights at night – so that you can see the stars."
+
+"I didn't know that! My parents did take me to a few museums on the second layer when I was a kid. I remember the roads being all twisty and I got really lost. It was built that way on <em>purpose</em>?"
+
+"It probably was!"
+
+"And the third layer is obvious, it's boring and strict, just like the Stern. Uh, no offense."
+
+Yali shrugged. "It's true, I live in a boring place."
+
+"What about the fourth layer? It's not all overgrown with plants like you said the Broken God's layer was in the Otherworld. I mean, there's a few parks, but it's mostly packed with buildings."
+
+"That <em>is</em> strange." Yali thought about it. "Maybe it's because the Broken God doesn't have any laws of its own. Maybe they just allowed people to build anything they want there, and the structure formed naturally. Not naturally like nature, just –"
+
+"Hang on. I was just thinking, didn't you say the gods pick the Ravellers based on their principles? But they say Broken God itself doesn't really <em>have</em> any sort of intention or purpose, so how does it pick someone?"
+
+"That, that, that's something I don't actually know."
+
+"Oh well. What about the fifth layer, then? How is it like – wait, you haven't told me about the Blood God's layer yet."
+
+"I… didn't get a good look at it. In my memories, I mean. The only time I got there, I died right afterwards."
+
+"You died right after you got to the last layer? Well <em>that's</em> a shitty coincidence."
+
+"Not a coincidence. It's because of the, the, the passage between the layers. Every time we enter another layer, our gods weave a few more of the threads of <em>their</em> souls into <em>our</em> souls. So each layer gives us new powers, and new… personality changes. Like –"
+
+"Like the Blood Child freaking out and killing you. Shit."
+
+"Yes."
+
+"Shit, what's the Blood God going to do when it notices we're resisting it? What if it gives me threads that are even <em>more</em> violent?"
+
+"I'm… I'm not sure that can happen. You're imagining the god as if it's a regular person, but the gods don't think like we do. They're much bigger and slower. The whole winter for them is like a single night for us. You could say the Ravelling is like their dreams."
+
+"But people say the high priests can talk to the gods. How does that work?"
+
+"It works, but it's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
 
 "A wisdom… <em>rock</em>?"
 
 "Sure, a wisdom rock. You ever wonder why we call the gods 'it' instead of 'he' or 'she'? That's why. With any luck, the Blood God won't understand what we're doing at all. At least not until after the Ravelling is over."
 
-?????
+"Huh."
+
+"And our chances are even better with how weak it is now."
+
+"What? You didn't say anything about the Blood God being weak."
+
+"I didn't? Oh. Well, <em>neither</em> of our gods has rejuvenated for the last 70 years."
+
+"Rejuvenated?"
+
+"That's what happens if we survive – our gods get to rejuvenate. It's the whole purpose of –"
+
+"But you said – wait, the Blood Child always dies too?! You could've mentioned that earlier!"
+
+"I, I, I didn't think of it because it's not in my memories. But I looked up the records. The Blood Child usually gets killed by the other Ravellers <em>after</em> they kill me. So…"
+
+"So if I don't kill you – <em>when</em> I don't kill you – there won't be a reason for the others to kill me either. That's… well, I wouldn't say it's a <em>relief</em>, but, you know…"
+
+"I understand."
+
+"Uh… sorry, you can keep explaining the rejuvenating thing now."
+
+"Rejuvenation is the whole purpose of the Ravelling, from the gods' point of view. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that somehow allows them to stay strong, by getting a supply of new human threads every year. If they don't get that for too long… they get weaker."
+
+
+????? 
+
+"Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year.
 
 ????? The start of August? That's just before when you…" I stopped.
 
@@ -428,9 +499,9 @@ I perked up at the mention of Seeing. "What do I have to do?"
 
 "Is that likely to happen?"
 
-"No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about before I burn myself out?"
+"No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about before I burn myself out? I'll probably want to be alone afterwards, so this is our last chance to talk normally for the night."
 
-"Go for it."
+I thought about it. There were so many things I still had to ask her, but nothing that couldn't wait for another day. "Go for it."
 
 Yali rested her head back on the couch, looked up into space, and unfocused her eyes.
 
@@ -498,7 +569,17 @@ So that was it, then. We just didn't know. 24 hours ago, that would've been a pr
 
 "I'll… recover. Just bring… food." I hurried to bring her another one of the ????. When I got there, she tapped a hand on the couch next to her, meaning for me to leave it there. "Eat… later. Thanks. Now… goodnight hug."
 
+I carefully straddled her on the couch and wrapped my arms around her. ?????
 
+"Good night."
+
+"…night."
+
+I grabbed my things and started the long jog home. It was an easy route, just like I'd said. But being on my feet always helped me feel more stable, and sort things out in my head.
+
+????
+
+It was pretty dark from all of the burnt out streetlights, but I knew this place like the back of my hand.
 
 ?????
 
@@ -652,6 +733,12 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 "I'm fine with it. It seems like a good –"
 
 "Stop. Just this once, can I ask you to take some time and think it through? If this works, it'll be a really unpleasant experience for you. So I don't want to do it unless you're sure about it. Think about whether you'd want to do it if it wasn't my idea."
+
+"Okay," I said. I looked down at the table. "How can it be not your idea, though? It's, like… if it's not your idea, it's completely different."
+
+"Well… Suppose it was <em>your</em> idea. And you suggested it to me, and I said I'd do it if you wanted to, but I didn't really care one way or the other. Would you ask me to do it?"
+
+"I…" I thought about it.
 
 
 
