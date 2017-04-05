@@ -98,7 +98,7 @@ Yali gave me a Look.
 
 Yali looked down, and for a moment I was worried I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."
 
-That was true. It was still ?????. And everyone knew the Ravelling started around ?????. So we had a couple of months to go.
+That was true. It was still ?????. And everyone knew the Ravelling started around ?????. So we had a couple of months to go. ??????remidn reader of dating length?
 
 "Speaking of time…" Yali said, glancing at the clock.
 
@@ -118,7 +118,7 @@ That was true. It was still ?????. And everyone knew the Ravelling started aroun
 
 But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
 
-I continued, "They're only really mad if they think I'm hanging out with Fasia's goons."
+I continued, "They're only really mad if ?????[they think I'm hanging out with Fasia's goons.]"
 
 "Fasia as in Fasia Namaar, the gang leader?" Yali looked at me curiously. "Are you <em>actually</em> friends with any gangsters?"
 
@@ -324,7 +324,7 @@ I sighed. "I don't either!"
 
 Yali looked really exhausted for a moment. "Hang on," I said. "Are <em>you</em> okay?" 
 
-"Uh… yes?"
+??????uh implies  "Uh… yes?"
 
 "Never mind, I guess."
 
@@ -366,7 +366,7 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "That <em>is</em> strange." Yali thought about it. "Maybe it's because the Broken God doesn't have any laws of its own. Maybe they just allowed people to build anything they want there, and the structure formed naturally. Not naturally like nature, just –"
 
-"Hang on. I was just thinking, didn't you say the gods pick the Ravellers based on their principles? But they say Broken God itself doesn't really <em>have</em> any sort of intention or purpose, so how does it pick someone?"
+"Hang on. I was just thinking, didn't you say the gods pick the Ravellers based on their principles? But they say the Broken God itself doesn't really <em>have</em> any sort of intention or purpose, so how does it pick someone?"
 
 "That, that, that's something I don't actually know."
 
@@ -418,6 +418,7 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "Rejuvenation is the whole purpose of the Ravelling, from the gods' point of view. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that somehow allows them to stay strong, by getting a supply of new human threads every year. If they don't get that for too long… they get weaker."
 
+?????rin qs; why kill each other; why cant take threads if dead
 
 ????? 
 
@@ -447,7 +448,7 @@ I thought about it. "We could still have dated for three months… and then, you
 
 "I <em>am</em> a year older than you," Yali teased.
 
-"Just one year? So you're 17?" She nodded. "I'd assumed you were a little older, since you live alone…"
+"Just one year? So you're 17?" She nodded. ???surprised i ddint know stuff "I'd assumed you were a little older, since you live alone…"
 
 Yali didn't say anything.
 
