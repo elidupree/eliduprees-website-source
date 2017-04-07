@@ -118,7 +118,7 @@ That was true. It was still ?????. And everyone knew the Ravelling started aroun
 
 But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
 
-I continued, "They're only really mad if ?????[they think I'm hanging out with Fasia's goons.]"
+I continued, "They're only really mad if I'm hanging out with someone they think is one of Fasia's goons."
 
 "Fasia as in Fasia Namaar, the gang leader?" Yali looked at me curiously. "Are you <em>actually</em> friends with any gangsters?"
 
@@ -324,7 +324,7 @@ I sighed. "I don't either!"
 
 Yali looked really exhausted for a moment. "Hang on," I said. "Are <em>you</em> okay?" 
 
-??????uh implies  "Uh… yes?"
+Yali seemed confused that I'd asked the question. "Uh… yes?"
 
 "Never mind, I guess."
 
@@ -448,7 +448,7 @@ I thought about it. "We could still have dated for three months… and then, you
 
 "I <em>am</em> a year older than you," Yali teased.
 
-"Just one year? So you're 17?" She nodded. ???surprised i ddint know stuff "I'd assumed you were a little older, since you live alone…"
+"Just one year? So you're 17?" She nodded. I was pretty surprised that I hadn't known that. We'd gotten really close in the month we'd been together, but come to think of it, Yali had never talked about her personal life very much. "I'd assumed you were a little older, since you live alone…"
 
 Yali didn't say anything.
 
