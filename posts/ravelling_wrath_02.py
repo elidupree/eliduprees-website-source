@@ -180,9 +180,19 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Stern take it, I wasn't hungry until you mentioned food!" I said. Yali chuckled.
 
-???? food
+"I have some ????? fruit in the fridge. Want some?"
 
-??? "Let's try your idea. See if we can make you mad."
+"Aren't those expensive?"
+
+"I'm allowed to have <em>some</em> nice things." Yali got to her feet, walked over to the fridge, and pulled out two ?????s for herself, then looked back at me. She saw me hesitate. "If you don't like them, I also –"
+
+"No, I love ?????s! I just never get to have them, are you sure it's okay –"
+
+"Help yourself!" Yali awkwardly carried over three more ?????s and handed them to me before starting on her own.
+
+"Sweet! Thank you so much!" I took a huge bite out of one of them immediately. It was delicious. Before long, I had wolfed down two whole fruits. When I looked up, Yali was still methodically chewing through her first one.
+
+Yali finished her first fruit and set down the other one. Then she wiped her mouth and looked back at me. "Let's try your idea. See if we can make you mad."
 
 "Alright, bring it on."
 
@@ -190,7 +200,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Like I said, you can yell at me, hit me… just about anything, as long as it wouldn't actually injure anyone."
 
-"Anything? What does that include? Like does it include… publicly humiliating you?"
+"Anything? What does that include?" Yali took another bite while I couldn't figure out what to say. She swallowed it and continued, "Like does it include… publicly humiliating you?"
 
 "Woah!"
 
@@ -214,7 +224,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Of course – Oh, I see. True things could actually hurt more. But go ahead, I can take it."
 
-"Okay!" said Yali. She opened her mouth, then stopped. "What <em>would</em> you actually find hurtful?"
+"Okay!" said Yali. She put down the last of her fruit, faced me, and opened her mouth, then stopped. "What <em>would</em> you actually find hurtful?"
 
 "I dunno. I guess you could call me weak?"
 
