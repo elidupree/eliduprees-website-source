@@ -428,11 +428,25 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "Rejuvenation is the whole purpose of the Ravelling, from the gods' point of view. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that somehow allows them to stay strong, by getting a supply of new human threads every year. If they don't get that for too long… they get weaker."
 
-?????rin qs; why kill each other; why cant take threads if dead
+"Does it only happen if we survive <em>all</em> the way? Like if one of the Ravellers gets through <em>most</em> of the layers and their soul is <em>mostly</em> intertwined…"
 
-????? 
+"When a human dies, their soul unravels. If that happens, the god has to pull back the threads of its own soul, but the human parts just disperse. It takes the whole winter to fully link the human threads to the god threads. So it really only works if we survive to the end. That's what usually happens for the <em>other</em> three gods, but –"
 
-"Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year.
+"Then wouldn't all the gods be better off if we just didn't kill each other? If the Blood God and the Waiting God just worked together, wouldn't they both be able to rejuvenate like the others?"
+
+"They should be! I have no idea why the Blood God started killing –"
+
+"What about your memories? Even if the Blood God didn't, like, explain its reasons, maybe you can see a difference between the years before it started and the years after?"
+
+"But I don't <em>have</em> memories from before. I only have the memories of the Farseers who died. Which, which, might make sense? Maybe the Waiting God can't make <em>copies</em> of people's memories, it just has a way to <em>preserve</em> memories from people who died. Then the ones who survived would have brought their memories back to the material world with them. Either way, I don't know about the time before. My first few deaths aren't even much different than the others."
+
+I kicked the table. "For fuck's sake! I don't want us to die without even knowing why!"
+
+"I'm sorry. I wish I could tell you something else."
+
+"Nah, I get it. If we don't know, we just don't know." I sighed. "So the gods really take, like, a whole year just to think about something?"
+
+"Yes. There's a cycle to it. Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year. Here's where the Ravelling starts, around the start of November." She marked one point on the circle. "And here's where it ends, around the start of February. Those are the events that everyone knows about. But that's only one quarter of the year.
 
 ????? The start of August? That's just before when you…" I stopped.
 
@@ -472,19 +486,12 @@ Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the ????"
 
 ?????
 
-how does the broken god
 
-????
 
 If you die first
 
 ????
 
-"<em>Neither</em> of our gods has rejuvenated for the last 70 years."
-
-"Rejuvenated?"
-
-?????
 
 ?????
 
