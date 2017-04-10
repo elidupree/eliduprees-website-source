@@ -430,9 +430,9 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "Does it only happen if we survive <em>all</em> the way? Like if one of the Ravellers gets through <em>most</em> of the layers and their soul is <em>mostly</em> intertwined…"
 
-"When a human dies, their soul unravels. If that happens, the god has to pull back the threads of its own soul, but the human parts just disperse. It takes the whole winter to fully link the human threads to the god threads. So it really only works if we survive to the end. That's what usually happens for the <em>other</em> three gods, but –"
+"When a human dies, their soul unravels. If that happens, the god has to pull back the threads of its own soul, but the human parts just disperse. It takes the whole winter to fully link the human threads to the god threads. So it really only works if its human host survives to the end. That's what usually happens for the <em>other</em> three gods, but –"
 
-"Then wouldn't all the gods be better off if we just didn't kill each other? If the Blood God and the Waiting God just worked together, wouldn't they both be able to rejuvenate like the others?"
+"Then why does – wouldn't all the gods be better off if we just didn't kill each other? If the Blood God and the Waiting God just worked together, wouldn't they both be able to rejuvenate like the others?"
 
 "They should be! I have no idea why the Blood God started killing –"
 
@@ -446,9 +446,9 @@ I kicked the table. "For fuck's sake! I don't want us to die without even knowin
 
 "Nah, I get it. If we don't know, we just don't know." I sighed. "So the gods really take, like, a whole year just to think about something?"
 
-"Yes. There's a cycle to it. Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year. Here's where the Ravelling starts, around the start of November." She marked one point on the circle. "And here's where it ends, around the start of February. Those are the events that everyone knows about. But that's only one quarter of the year.
+"Yes. There's a cycle to it. Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year. Here's where the Ravelling starts, around the start of November." She marked one point on the circle. "And here's where it ends, around the start of February. Those are the events that everyone knows about. But that's only one quarter of the year. There's also <em>here</em> and <em>here</em>. From February to May, they finish assimilating their new human threads. That's like their way of learning from the human they picked. Then from May to August, that's when they're most active in the material world. And at the start of August, they pick the next year's Ravellers and start preparing for winter again. So it's like… They use us to dream up new ideas in the winter, refine the ideas in the spring, try them out in the summer, and then use the autumn to prepare for the next round."
 
-????? The start of August? That's just before when you…" I stopped.
+Something was bugging me. "They pick us out at the start of August? That's just before when you…" I stopped.
 
 "It's okay. You can ask."
 
@@ -480,18 +480,29 @@ Yali didn't say anything.
 
 "If we talk about my past," said Yali calmly, "I'll get upset. And if I get upset, I won't be able to plan for the future."
 
-Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the ????"
+Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle and stuff…"
 
-"Right!
+"Right!"
 
-?????
+"I didn't think about this before, but isn't it weird that the gods leave us on Earth for three months before the Ravelling starts? What if one of us dies <em>here</em>? Do they get to redo their choice or what?"
 
+"Actually, if you die in the material world, the gods preserve your soul and you can still run the Ravelling with a manifested body."
 
+"A what?!"
 
-If you die first
+Yali began asking, "You know how in this world, matter is dominant, and in the –"
 
-????
+"– and in the Otherworld, souls are dominant?" It was some basic stuff you learned in science class.
 
+"Yes. <em>Here</em>, you need to feed your body, and keep it from getting big holes in it, or you die, and your soul unravels too. But in the <em>Otherworld</em>, it's your soul that sustains your body, not the other way around. You don't have to eat, although you can if you want to. You also don't have to pee, or have periods –"
+
+"Sweet."
+
+"– and even if your body gets destroyed, you can still create a new one as long as your soul is strong enough. It's called <em>manifesting</em> – creating things, or reshaping things, using just the power of your soul. The catch is that manifested matter can only exist in the Otherworld, not the material world, so when the Ravelling is over, you'd be dead for real."
+
+"<em>Man</em> that would suck. I'll definitely make sure not to die."
+
+Yali patted me on the head. "Good idea."
 
 ?????
 
