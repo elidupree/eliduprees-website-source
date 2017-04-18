@@ -490,7 +490,7 @@ Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle a
 
 "A what?!"
 
-Yali began asking, "You know how in this world, matter is dominant, and in the –"
+Yali began to ask a, "You know how in this world, matter is dominant, and in the –"
 
 "– and in the Otherworld, souls are dominant?" It was some basic stuff you learned in science class.
 
@@ -498,7 +498,7 @@ Yali began asking, "You know how in this world, matter is dominant, and in the �
 
 "Sweet."
 
-"– and even if your body gets destroyed, you can still create a new one as long as your soul is strong enough. It's called <em>manifesting</em> – creating things, or reshaping things, using just the power of your soul. The catch is that manifested matter can only exist in the Otherworld, not the material world, so when the Ravelling is over, you'd be dead for real."
+"– and even if your body gets destroyed, you can still create a new one as long as your soul is strong enough. It's called <em>manifesting</em> – creating things, or reshaping things, using just the power of your soul. The catch is that if you get attacked in the Otherworld, that generally damages your soul too, not just your body. And manifested matter can only exist in the Otherworld, not the material world, so when the Ravelling is over, you'd be dead for real."
 
 "<em>Man</em> that would suck. I'll definitely make sure not to die."
 
@@ -560,7 +560,7 @@ She didn't even lift her head, but her eyes focused on me, so I could tell she w
 
 "Bad… futures. Don't… see you… again."
 
-"If I tell my parents, we won't see each other again? Is that what happens when those people hear about you? The ones you don't want to find out about you being –"
+"If I tell my parents, you and me won't see each other again? Is that what happens when those people hear about you? The ones you don't want to find out about you being –"
 
 "Could… be."
 
@@ -592,9 +592,9 @@ So that was it, then. We just didn't know. 24 hours ago, that would've been a pr
 
 "I think better on my feet anyway."
 
-"Hmm."
+"Hmm." I knew that sound. There was the sound Yali made whenever she gave up on arguing me out of something.
 
-"Anyway, is it even okay for me to leave you like this?"
+"Anyway," I continued, "is it even okay for me to leave you like this?"
 
 "I'll… recover. Just bring… food." I hurried to bring her another one of the ????. When I got there, she tapped a hand on the couch next to her, meaning for me to leave it there. "Eat… later. Thanks. Now… goodnight hug."
 
