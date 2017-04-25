@@ -109,12 +109,14 @@ def stories_index (full):
     if story not in stories_map:
       return category_pages.exhibit (None, "", None, '<h1>' + story + '</h1>', "Coming Soon...") if full else ''
     story = stories_map [story]
+    story ["listed"] = True
     return category_pages.exhibit (blog.post_permalink (story), "", None, '<h1>' + story ["title"] + '</h1>' + story ["blurb"] + info (story), "Start reading") if full else '<div class=" big_story">' + blog.index_entry_html (story) + '</div>'
   
   def small_story (story):
     if story not in stories_map:
       return '<a class="small_story"><h2>' + story + ": "  + '</h2><span class="blurb"> Coming soon... </span></a>' if full else ''
     story = stories_map [story]
+    story ["listed"] = True
     return '<a class="small_story" href="' + blog.post_permalink (story) +'"><h2 class=" restore_link">' + story ["title"]+ info (story) + ": "  + '</h2><span class="blurb">' + story ["blurb"] + '</span></a>' if full else blog.index_entry_html (story)
     
   def group (name, contents):

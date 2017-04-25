@@ -1011,7 +1011,8 @@ current_blog_page_extras = [
 def consider_list_for_current_page (list, limit = 8):
   for index in range (1, min (1 + limit, 1 + len( list))):
     post = list [len( list) - index]
-    if date_posted (post) >= date_posted (current_blog_page [0]):
+    ignore = (list == blog_posts.posts ["stories"]) and ("listed" not in post)
+    if date_posted (post) >= date_posted (current_blog_page [0]) and not ignore:
       current_blog_page_extras.append (post)
       
 #Hack: this code puts comments (and other stuff) AFTER everything else, because a comment on the same day as another post is likely to be a comment ON that post. In the future, maybe we should have a more precise ordering system for recent stream entries, although we never want to store exact times posted, for privacy reasons.
