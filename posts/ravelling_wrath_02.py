@@ -98,7 +98,7 @@ Yali gave me a Look.
 
 Yali looked down, and for a moment I was worried I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."
 
-That was true. It was still ?????. And everyone knew the Ravelling started around ?????. So we had a couple of months to go. ??????remidn reader of dating length?
+That was true. It was still early September. And everyone knew the Ravelling started around November 1. So we had a couple of months to go. ??????remidn reader of dating length?
 
 "Speaking of time…" Yali said, glancing at the clock.
 
@@ -442,11 +442,11 @@ Yali shrugged. "It's true, I live in a boring place."
 
 I kicked the table. "For fuck's sake! I don't want us to die without even knowing why!"
 
-"I'm sorry. I wish I could tell you something else."
+"I'm sorry. I wish I could tell you something else. I even tried to look it up, but the temples are pretty secretive about their records, and –"
 
 "Nah, I get it. If we don't know, we just don't know." I sighed. "So the gods really take, like, a whole year just to think about something?"
 
-"Yes. There's a cycle to it. Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year. Here's where the Ravelling starts, around the start of November." She marked one point on the circle. "And here's where it ends, around the start of February. Those are the events that everyone knows about. But that's only one quarter of the year. There's also <em>here</em> and <em>here</em>. From February to May, they finish assimilating their new human threads. That's like their way of learning from the human they picked. Then from May to August, that's when they're most active in the material world. And at the start of August, they pick the next year's Ravellers and start preparing for winter again. So it's like… They use us to dream up new ideas in the winter, refine the ideas in the spring, try them out in the summer, and then use the autumn to prepare for the next round."
+"Yes. There's a cycle to it. Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year. Here's where the Ravelling starts, around the start of November." She marked one point on the circle. "And here's where it ends, around the start of February. Those are the events that everyone knows about. But that's only one quarter of the year. There's also <em>here</em> and <em>here</em>. From February to May, they finish assimilating their new human threads. That's like their way of learning from the human they picked. Then from May to August, that's when they're most active in the material world. And at the start of August, they pick the next year's Ravellers and start preparing for winter again. So it's like… They use us to dream up new ideas in the winter, refine the ideas in the spring, try them out in the summer, and then use the autumn to prepare for the next round." When
 
 Something was bugging me. "They pick us out at the start of August? That's just before when you…" I stopped.
 
@@ -484,13 +484,13 @@ Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle a
 
 "Right!"
 
-"I didn't think about this before, but isn't it weird that the gods leave us on Earth for three months before the Ravelling starts? What if one of us dies <em>here</em>? Do they get to redo their choice or what?"
+"I didn't think about this before, but isn't it weird that after the gods pick us, they just leave us on Earth for three months before the Ravelling starts? What if one of us dies <em>here</em>? Do the gods get to redo their choice or what?"
 
 "Actually, if you die in the material world, the gods preserve your soul and you can still run the Ravelling with a manifested body."
 
 "A what?!"
 
-Yali began to ask a, "You know how in this world, matter is dominant, and in the –"
+Yali began to ask, "You know how in this world, matter is dominant, and in the –"
 
 "– and in the Otherworld, souls are dominant?" It was some basic stuff you learned in science class.
 
@@ -530,7 +530,7 @@ I perked up at the mention of Seeing. "What do I have to do?"
 
 "No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about before I burn myself out? I'll probably want to be alone afterwards, so this is our last chance to talk normally for the night."
 
-I thought about it. There were so many things I still had to ask her, but nothing that couldn't wait for another day. "Go for it."
+?????affection I thought about it. There were so many things I still had to ask her, but nothing that couldn't wait for another day. "Go for it."
 
 Yali rested her head back on the couch, looked up into space, and unfocused her eyes.
 
@@ -572,7 +572,7 @@ Yali said nothing.
 
 "Don't… know."
 
-So that was it, then. We just didn't know. 24 hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today… it didn't really affect me. It was just another chain in the whole pile of chains dragging on my soul.
+So that was it, then. We just didn't know. 24 hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today… it didn't really affect me. It was just another chain in the whole pile of chains dragging on my soul. ????less poetic
 
 "Okay. Whatever it is, I won't tell them anything. Did you see anything else?"
 
