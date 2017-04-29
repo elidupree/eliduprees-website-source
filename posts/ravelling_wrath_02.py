@@ -530,7 +530,7 @@ I perked up at the mention of Seeing. "What do I have to do?"
 
 "No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about before I burn myself out? I'll probably want to be alone afterwards, so this is our last chance to talk normally for the night."
 
-?????affection I thought about it. There were so many things I still had to ask her, but nothing that couldn't wait for another day. "No, I'm fine. So this is like goodnight?"
+I thought about it. There were so many things I still had to ask her, but nothing that couldn't wait for another day. "No, I'm fine. So this is like goodnight?"
 
 "Yes." Yali smiled a little. "C'mere you."
 
