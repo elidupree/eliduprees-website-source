@@ -530,7 +530,23 @@ I perked up at the mention of Seeing. "What do I have to do?"
 
 "No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about before I burn myself out? I'll probably want to be alone afterwards, so this is our last chance to talk normally for the night."
 
-?????affection I thought about it. There were so many things I still had to ask her, but nothing that couldn't wait for another day. "Go for it."
+?????affection I thought about it. There were so many things I still had to ask her, but nothing that couldn't wait for another day. "No, I'm fine. So this is like goodnight?"
+
+"Yes." Yali smiled a little. "C'mere you."
+
+I carefully straddled her on the couch and wrapped my arms around her. As I squeezed her tight, she gently lifted her arms and pulled me in so that she could nuzzle my face. Then she pressed even closer and kissed me on the lips.
+
+We stayed that way for a long moment. I could feel her heart beating heavily against my chest. I felt so close to her. But I also wanted so much more. I wanted to cling onto her forever so that we'd never have to face everything that was waiting for us.
+
+Finally, I pulled away a little. "I love you so much," I whispered.
+
+"I love you too."
+
+Yali looked down.
+
+"So…" she mumbled, "I suppose I should get started."
+
+"Go for it." I climbed off of her and sat next to her again.
 
 Yali rested her head back on the couch, looked up into space, and unfocused her eyes.
 
@@ -598,17 +614,31 @@ So that was it, then. We just didn't know. 24 hours ago, that would've been a pr
 
 "I'll… recover. Just bring… food." I hurried to bring her another one of the ????. When I got there, she tapped a hand on the couch next to her, meaning for me to leave it there. "Eat… later. Thanks. Now… goodnight hug."
 
-I carefully straddled her on the couch and wrapped my arms around her. ?????
-
-"Good night."
+I hugged her tight again, but this time her body was limp and unresponsive. I could tell that my touch didn't mean very much to her when she was like this. I stood up, and, hoping my feelings would reach her, I said, "I love you. Good night."
 
 "…night."
 
-I grabbed my things and started the long jog home. It was an easy route, just like I'd said. But being on my feet always helped me feel more stable, and sort things out in my head.
+Reluctantly, I grabbed my things and started the long jog home.
+
+It was an easy route, just like I'd said. But being on my feet always helped me feel more stable, and sort things out in my head. And I had a lot to sort out. The Ravelling was coming, in just under two months. And even before that, there were so many preparations we have to make. I had to learn all about the Otherworld and the powers we were going to get. And for Yali's plan… I'd have to figure out some things that could make me mad. What <em>could</em> make me mad?
+
+As I ran down the nighttime streets, it all still felt a little unreal to me. But when it came down to it, maybe it wasn't that complicated after all. <em>Protect Yali. Protect myself.</em> When I thought about it that way, it didn't seem so hard to handle.
 
 ????
 
 It was pretty dark from all of the burnt out streetlights, but I knew this place like the back of my hand.
+
+
+''',
+},
+]
+
+
+"""
+'''
+
+
+
 
 ?????
 
@@ -777,3 +807,4 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 ''',
 },
 ]
+"""
