@@ -101,7 +101,7 @@ people.forEach(function(person) {
     if (other != person) {
       var resources = {};
       resource_names.forEach(resource => {
-        resources [resource] = {immediate: Math.random(),};
+        resources [resource] = Math.random()*2-1;
       });
       person.relationships [other] = {received_resources: resources}
     }
@@ -126,7 +126,7 @@ function desire (person, other) {
   var relationship = person.relationships [other];
   var result = 0;
   resource_names.forEach(resource => {
-    result += (1 - person.resources [resource])*relationship.received_resources [resource];
+    result += (1 - person.resources [resource].immediate)*relationship.received_resources [resource];
   });
   return result;
 }
@@ -158,7 +158,8 @@ function tick() {
   canvas_context.scale (width, height);
   
   people.forEach(function(person) {
-    var neighbors =[];
+    person.neighbors =[];
+    person.avoidance = {x:0,y:0};
     var best;
     var best_desire;
     people.forEach(function(other) {
@@ -168,8 +169,18 @@ function tick() {
           best = other;
           best_desire = whatever;
         }
-        if ((person.x - other.x)*(person.x - other.x) + (person.y - other.y)*(person.y - other.y) <= interaction_distance*interaction_distance) {
-          neighbors.push (other);
+        var distance = Math.sqrt ((person.x - other.x)*(person.x - other.x) + (person.y - other.y)*(person.y - other.y));
+        if (distance <= interaction_distance*2) {
+          var factor = Math.min (1, 2 - distance/interaction_distance);
+          if (whatever <0) {
+            var heading = Math.atan2 (other.y - person.y, other.x - person.x);
+            person.avoidance.x += factor*whatever*Math.cos(heading);
+            person.avoidance.y += factor*whatever*Math.sin(heading);
+          }
+        }
+        if (distance <= interaction_distance) {
+          person.neighbors.push (other);
+          
         }
       }
     });
@@ -179,6 +190,8 @@ function tick() {
   people.forEach(function(person) {
     person.x += 0.1/frames_per_second*Math.cos(person.heading) ;
     person.y += 0.1/frames_per_second*Math.sin (person.heading) ;
+    person.x += person.avoidance.x/frames_per_second;
+    person.y += person.avoidance.y/frames_per_second;
     draw_person (person);
   });
   
