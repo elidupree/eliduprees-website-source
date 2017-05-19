@@ -32,6 +32,7 @@ game_element.append (canvas_element);
 var canvas_context = canvas_element[0].getContext ("2d");
 
 var frames_per_second = 60;
+var interaction_distance = 0.05;
 
 
 var game_height;
@@ -50,13 +51,7 @@ function update_dimensions() {
 }
 update_dimensions();
 
-var people = [];
-for (var index = 0; index <20;++index) {
-  people.push ({
-    x: Math.random(),
-    y: Math.random(),
-  });
-}
+
 
 var mouse_X = 0;
 var mouse_Y = 0;
@@ -83,12 +78,68 @@ function close_generic_shape () {
 }
 
 
+
+
+var resource_names = ["energy", "companionship"];
+
+
+var people = [];
+for (var index = 0; index <20;++index) {
+  var resources = {};
+  resource_names.forEach(resource => {
+    resources [resource] = {immediate: Math.random(),};
+  });
+  people.push ({
+    x: Math.random(),
+    y: Math.random(),
+    resources,
+    relationships: {},
+  });
+}
+people.forEach(function(person) {
+  people.forEach(function(other) {
+    if (other != person) {
+      var resources = {};
+      resource_names.forEach(resource => {
+        resources [resource] = {immediate: Math.random(),};
+      });
+      person.relationships [other] = {received_resources: resources}
+    }
+  });
+  
+    person.heading = Math.random()*turn;
+    person.y += 0.1/frames_per_second*Math.cos(person.heading) ;
+    person.x += 0.1/frames_per_second*Math.sin (person.heading) ;
+    draw_person (person);
+});
+
 function draw_person (person) {
   
   canvas_context.beginPath();
   canvas_context.arc (person.x, person.y, 0.05, 0, turn, true);
-  close_generic_shape();
+  canvas_context.lineWidth = 0.005;
+  
+  close_shape ("rgb("+Math.floor(255*person.resources.energy.immediate) +", 255, 255)", "rgb("+Math.floor(255*person.resources.companionship.immediate) +",0,0)");
 }
+
+function desire (person, other) {
+  var relationship = person.relationships [other];
+  var result = 0;
+  resource_names.forEach(resource => {
+    result += (1 - person.resources [resource])*relationship.received_resources [resource];
+  });
+  return result;
+}
+
+
+
+
+
+
+//resources.forEach(function(
+
+
+
 
 var start = Date.now();
 var step = 0;
@@ -107,9 +158,27 @@ function tick() {
   canvas_context.scale (width, height);
   
   people.forEach(function(person) {
-    person.heading = Math.random()*turn;
-    person.y += 0.1/frames_per_second*Math.cos(person.heading) ;
-    person.x += 0.1/frames_per_second*Math.sin (person.heading) ;
+    var neighbors =[];
+    var best;
+    var best_desire;
+    people.forEach(function(other) {
+      if (other != person) {
+        var whatever = desire (person, other);
+        if (best === undefined || whatever >best_desire) {
+          best = other;
+          best_desire = whatever;
+        }
+        if ((person.x - other.x)*(person.x - other.x) + (person.y - other.y)*(person.y - other.y) <= interaction_distance*interaction_distance) {
+          neighbors.push (other);
+        }
+      }
+    });
+  
+    person.heading = Math.atan2 (best.y - person.y, best.x - person.x);//Math.random()*turn;
+  });
+  people.forEach(function(person) {
+    person.x += 0.1/frames_per_second*Math.cos(person.heading) ;
+    person.y += 0.1/frames_per_second*Math.sin (person.heading) ;
     draw_person (person);
   });
   
