@@ -131,6 +131,20 @@ function desire (person, other) {
   return result;
 }
 
+function interact (person, other) {
+  var relationship = person.relationships [other];
+  resource_names.forEach(resource => {
+    person.resources [resource].immediate += relationship.received_resources [resource];
+    if (person.resources [resource].immediate <0) {
+      person.resources [resource].immediate = 0;
+    }
+    if (person.resources [resource].immediate >1) {
+      person.resources [resource].immediate = 1;
+    }
+  });
+
+}
+
 
 
 
@@ -188,6 +202,9 @@ function tick() {
     person.heading = Math.atan2 (best.y - person.y, best.x - person.x);//Math.random()*turn;
   });
   people.forEach(function(person) {
+    person.neighbors.forEach(function(other) {
+      interact (person, other);
+    });
     person.x += 0.1/frames_per_second*Math.cos(person.heading) ;
     person.y += 0.1/frames_per_second*Math.sin (person.heading) ;
     person.x += person.avoidance.x/frames_per_second;
