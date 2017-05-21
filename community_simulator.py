@@ -209,6 +209,10 @@ function tick() {
     person.y += 0.1/frames_per_second*Math.sin (person.heading) ;
     person.x += person.avoidance.x/frames_per_second;
     person.y += person.avoidance.y/frames_per_second;
+    if (person.x <0) {person.x = 0;}
+    if (person.x >1) {person.x = 1;}
+    if (person.y <0) {person.y = 0;}
+    if (person.y >1) {person.y = 1;}
     draw_person (person);
   });
   
