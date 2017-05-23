@@ -19,6 +19,24 @@ posts = [
 
 <p>I can't tell you too much more because SPOILERS!!!!, but there's one thing I can promise you: Rinn and Yali will both survive the entire story. We're purposefully defying <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BuryYourGays">(TV Tropes link) that trope where gay characters die instead of getting a happy ending together</a>. Seriously, that trope is awful.</p>
 
+<h2>How I used promise theory while writing this chapter</h2>
+
+<p>This chapter makes pretty good study of how I use <a href="/blog/how-to-write-cliffhangers-a-theory-of-writing">promise theory</a>.</p>
+
+<p>The biggest, most central <strong>promise</strong> of <i>Ravelling Wrath</i> is that Rinn and Yali will go through the Ravelling somehow. I wanted to establish this promise as soon as possible. The catch is that in order to do that, I have to explain what the Ravelling is, which takes a while.</p>
+
+<p>Some readers enjoy world-building. They'd read my description of the gods and the Ravelling just because it's interesting by itself. But not <em>all</em> readers are like that. For the sake of the other readers, I spent the first 20 or so paragraphs building up <strong>weight</strong> to pile on to my promise to explain the Ravelling. By the time I get to the explanation, it isn't just "I promise to tell you an interesting thing about how this world works". It's also "I promise to tell you something that's really important to Rinn and Yali".</p>
+
+<p>Of course, while I built up the weight, I used a series of smaller promises. The first one is the very first word<footnote((Actually, the first words are the title "Ravelling Wrath", which promises "Read here for a story that someone might call Ravelling Wrath" and "I will explain what Ravelling Wrath means at some point in the story", potentially followed by the tagline "A pair of teenagers get caught up in a conflict between the gods", which has a pretty straightforward promise, followed by the chapter title "Blood Child", which promises "I will tell you what a Blood Child is sometime in this chapter, and it will be important".))> – "Ow!" implies "I promise to immediately explain how [the person speaking] got hurt". By the end of the first real paragraph, we know that the narrator got hurt while rushing to hear something important from Yali. That creates the first big promise: "I promise that [the narrator] will get there and I'll tell you what the important thing was". And this promise <em>already has a bit of extra weight</em>, because it's important enough for Rinn to get hurt over it. I keep adding weight to that promise, by telling you more about Rinn and Yali's relationship, until it leads into the big central promise.</p>
+
+<p>Once the explanation starts, I keep using short-term promises by explaining one thing while hinting at another thing that <em>will</em> be explained in a moment.</p>
+
+<p>The chapter ends with both short-term and long-term promises open, just like promise theory calls for. Yali will explain the plan immediately, and they will go through the actual Ravelling eventually. It's actually preferable to have even <em>more</em> of the range of promises, including medium-term ones about what might happen along the way to the Ravelling. But this is okay for a first chapter. It takes time to set things up.</p>
+
+<p><i>Ravelling Wrath</i> uses the "cliffhanger style", generally including a high-weight, short-term promise at the end of each chapter. The non-cliffhanger style wouldn't put a short-term promise of the end of a chapter, but should still include <em>some</em> promises about what will happen at <em>some</em> point in the next chapter.</p>
+
+
+
   ''',
   "head":'''<style>
 div.blog_post h2 {

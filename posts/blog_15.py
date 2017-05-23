@@ -172,6 +172,96 @@ My other projects are still stalled. The current phase in the Saga Of Eli Dupree
 
 ''',
 },
+
+{
+"title": "How to Write Cliffhangers: a Theory of Writing",
+"tags": ["writing"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+
+I grew up reading the Harry Potter books. They were real page-turners – I was always eager to keep reading. In particular, many chapters ended in <a href="https://en.wikipedia.org/wiki/Cliffhanger">cliffhangers</a>.
+
+I took a lot of creative writing classes, but none of them taught me how to write a book like that. They taught me a lot of theories about Conflict and Symbolism and Scene Structure. But none of them taught me a theory of how to write a page-turner. So I was forced to invent my own.
+
+<p><a href="/blog/in-which-i-rant-about-the-study-of-english">Like any theory of "good writing", this theory isn't objectively true</a> – it won't work on all readers. But <a href="/blog/why-should-knowledge-be-correct-anyway">I'm going to say it as if it's true, because it's been useful to me.</a> Also, I refer to fiction writing in this post, but this theory applies to any form of narrative, including movies, comics, news articles, etc..</p>
+ 
+<h2>Promise theory</h2>
+
+A classic cliffhanger is a type of <strong>promise</strong>. It says, "Just turn the page, and I'll tell you what happens next!"
+
+Promises are what makes the reader what to keep reading. But there are lots of different kinds of promises. Some are big and long-term: A mystery novel promises, "finish the book and I'll tell you how the murder happened!" But others are small and short-term: When a character asks a question, that promises, "read the next line and I'll tell you how the other person answers!" Every medium has its own variations. A news headline promises, "read the article and I'll tell you about this thing that happened!"
+
+The central advice of promise theory is that <strong>you want to maintain a good variety of open promises at all times</strong>. By the time you fulfill each promise, you should make a new one to replace it. That way, the reader always has a lot of reasons to keep reading. You want both physical promises and emotional promises. You want both hopeful promises and scary promises. And you want both short-term promises and long-term promises. Ideally, the reader will have a sense of what's going to happen on the next <em>line</em>, and also what's going to happen in the next <em>paragraph</em>, and what's going to happen on the next <em>page</em>, and what's going to happen by the end of the <em>chapter</em>, and what's going to happen by the end of the <em>book</em>.
+
+Only at the very end of the story, you can fulfill all of your remaining promises in a row.
+
+Why such a variety? Because there's a lot of ways promises can fail.
+
+<ul class="big_list">
+<li>Sometimes the reader just isn't interested. "Okay, so I'm going to see how Harry wrestles with zir feelings. But I don't relate to Harry's feelings anyway, so I don't care."</li>
+<li>Sometimes the reader forgot a promise. Maybe it wasn't mentioned for a while, or maybe they took a break from reading and didn't remember when they got back.</li>
+<li>Sometimes the reader didn't believe a promise because you've broken too many promises in the past. "Okay, so Su-jin just walked into a death trap at the end of a chapter, and I want to see how ze'll manage to escape. But this book always switches to a different scene in the next chapter, so what's the point?"</li>
+<li>Note that you don't have to deliberately break a promise for that to happen. The reader might just interpret one differently than you intended it. "I thought they were going to explore the cave right away, but they've spent two chapters just talking. Now I don't really expect that they'll explore the cave anytime soon."</li>
+<li>Sometimes the reader didn't notice a promise because they don't know the genre conventions. "Okay, so the heroes of this horror story heard a clunking noise behind them – so what? That could be anything."</li>
+</ul>
+
+When you have a good variety of promises, they probably won't fail <em>all at once</em>. If the reader doesn't care about the stuff that happens on <em>this</em> page, but you promised that something really cool will happen on the <em>next</em> page, the reader will still stay engaged in the story. If your strongest promise fails for a particular reader, there should be a few more promises that are almost as strong to back it up.
+
+<h3>Promise weight</h3>
+
+What does it mean for a promise to be "strong"?
+
+When I say "strength", I mean how strongly the promise makes the reader want to keep reading. This is affected by two things: <strong>promptness</strong> and <strong>weight</strong>. Promptness is <em>how soon</em> the reader expects the promise to be fulfilled. Weight is <em>how much importance</em> the story has given to the promise. Strength is promptness multiplied by weight.
+
+I call it "weight" because it's built up over time. The weightiest promises are usually about a character who has been developed over many chapters. Even things that are important in <em>real life</em>, like "find out if Aaliyah lives or dies!", only have much <em>weight</em> if the story has spent a lot of time with Aaliyah already. (Although they do have <em>some</em> weight.)
+
+Have you ever noticed how a lot of stories start <a href="https://en.wikipedia.org/wiki/In_medias_res">in the middle of an action scene</a>? That's because action scenes, like big fights, are automatically high-stakes. It's one of the few ways to excite a reader who hasn't gotten to know the characters yet. Action scenes have lot of short-term promises, with the highest weight they can manage. That keeps the reader going long enough for the story to start building up its own weight, to use on subtler promises in the future.
+
+Once the story has gotten going, it's best to stack as much weight as you can on every promise. Sometimes this is harder than others, like when you're introducing a totally new character. But there's usually a way to make it important to a plot or character that's already established.
+
+For instance, let's say a story wants to introduce the main character's sibling. The story starts a long paragraph with, "My sister was totally disorganized. She was always […]". That's a <em>promise</em> to tell me a paragraph full of facts about the sibling. I'm not interested in that promise, because it doesn't have much weight. But if the main character <em>first</em> starts worrying about whether the sibling will be able to keep an important secret, then the promised facts become much more interesting.
+
+Like promises, not all types of weight will work for all readers. Some readers will care more about The Fate Of The World, others will care more about how their beloved characters feel about it. If a promise is related to <em>both</em> of those things, it's more likely to work for all readers.
+
+A cliffhanger is effective because it has both kinds of strength. It has high promptness – the reader expects the story to start fulfilling it as soon as they start the next chapter. And it also has high weight – the fate of the story hangs in the balance!
+
+<h3>Is this respectful to the reader?</h3>
+
+Under promise theory, you might deliberately hide information that the reader wants, just to keep them reading. "I promise that I'll tell you what happens to the village… in the next chapter. I could tell you now, but I won't!" This can be kind of mean.
+
+However, promise theory isn't inherently mean. It's just a matter of how you apply it. Readers are happier when they have a general sense of what's coming. And the reader will always make <em>some</em> sort of guesses about what's coming. So in a sense, <em>all</em> stories have implied promises – it's just that some of those promises are more accurate than others.
+
+Promises aren't just information, either. They also create a structure in the story. When you get to a scene that fulfills a promise, it automatically has an extra meaning, because it's related to the scene(s) that established the promise.
+
+The classic frustrating case is when a story promises to get to something eventually, but then drags on and on without getting to it. These stories rely on the big promise to keep the reader reading something they don't enjoy. This is <em>not</em> a very good use of promise theory. Under promise theory, there should also be short-term promises to keep the reader interested from moment to moment. <strong>Short-term promises are the backbone of enjoyable writing.</strong> Weighty long-term promises are a good thing to <em>include</em> – they can help keep the reader going if a few of your short-term promises didn't work for that particular reader. But they can't carry a story by themselves. (Also, the frustrating stories may have actually broken their promises by implying that they'd be fulfilled more promptly than they actually were.)
+
+Cliffhangers in particular are a little questionable. Some readers want chapter boundaries to be good places to take a break from reading. If you put a cliffhanger at the end of a chapter, you're deliberately making it a harder place to stop, which is mean to those readers. However, other readers <em>enjoy</em> a story that has constant excitement and no good place to stop. So cliffhangers aren't inherently good or bad, they're just a choice about the style you want your story to have.
+
+<h3>What about plot twists?</h3>
+
+Let's say a fantasy story promises that the heroes will confront the Dark Lord and save the world. But when they get to the Dark Castle, they find that the Dark Lord has been dead for 50 years and zir minions are covering it up! Did the story break its promise?
+
+I don't think of this as <em>breaking</em> a promise, just <em>fulfilling a promise in an unexpected way</em>. If you really analyze the implied promise, it's usually not "the heroes will definitely defeat the Dark Lord", but rather, "there will be a climactic event that settles the fate of the Dark Lord in some way". The plot twist here fulfills that promise. (It might also create a new promise that the heroes will do something about the minions.)
+
+It's still quite possible to break this promise. The story could end without ever deciding the fate of the Dark Lord. Or it could decide their fate in a way that's not climactic, like if the heroes are just walking down the road when they see the Dark Lord get hit by a truck and die.
+
+It also helps if your story is clear about whether it's <em>the kind of story where plot twists happen</em>. If you have a clever twist in the first chapter, the reader will expect more clever twists, and appreciate them when they happen. But if the story generally plays out straightforwardly, then they might be alienated by a big twist in the final chapter. This is because the implied promises are different. The first story promised "They'll go to face the Dark Lord… but there might be a twist! Read on and see!" The second story <em>actually</em> promised "They'll defeat the Dark Lord and save the world."
+
+There's sometimes a good reason to actually break a promise. If you must break a promise, it's good to have a moment that makes it 100% clear that the promise is broken. That way, the reader won't be left wondering if you're going to get around to it.
+
+<h3>Conclusion</h3>
+
+I think about promise theory a lot while I'm writing my stories. I didn't choose the word "promise" until a few weeks ago when I started planning this post, but the concept has been about the same for years.
+
+Along with this post, I've added a section to <a href="/stories/ravelling-wrath-chapter-1/discussion">the author's notes of Ravelling Wrath, chapter 1</a>. It talks about exactly how I used promise theory while writing that chapter. I think it makes a pretty good example.
+
+
+
+''',
+},
+
 ]
 
 """
