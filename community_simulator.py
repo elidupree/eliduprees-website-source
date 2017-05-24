@@ -128,7 +128,8 @@ function draw_person (person) {
   var relationship = person.relationships [person.target_index];
   canvas_context.beginPath();
   canvas_context.moveTo(person.x, person.y);
-  canvas_context.lineTo(person.x+ person_radius* 0.5*Math.cos(person.heading), person.y+ person_radius* 0.5*Math.sin(person.heading));
+  canvas_context.lineWidth = person_radius* (0.02+0.3*person.target_desire);
+  canvas_context.lineTo(person.x+ person_radius* 0.6*Math.cos(person.heading), person.y+ person_radius* 0.6*Math.sin(person.heading));
   canvas_context.strokeStyle = "rgb("+Math.floor(255*relationship.received_resources.companionship) +",0,0)";
   canvas_context.stroke();
   
