@@ -77,6 +77,7 @@ var person_radius = 0.04;
 var interaction_distance = person_radius*2.2;
 //var comfort_distance = person_radius*1.6;
 var resource_decay = 1/10;
+var indifference_threshold = 0.01;
 
 
 
@@ -124,7 +125,7 @@ function draw_person (person) {
   
   close_shape ("rgb("+Math.floor(255*person.resources.energy.immediate) +", 255, 255)", "rgb("+Math.floor(255*person.resources.companionship.immediate) +",0,0)");
   
-  var relationship = person.relationships [person.best.index];
+  var relationship = person.relationships [person.target_index];
   canvas_context.beginPath();
   canvas_context.moveTo(person.x, person.y);
   canvas_context.lineTo(person.x+ person_radius* 0.5*Math.cos(person.heading), person.y+ person_radius* 0.5*Math.sin(person.heading));
@@ -141,6 +142,9 @@ function desire (person, other) {
   });
   //console.log(result);
   return result / resource_names.length;
+}
+function distance (person, other) {
+  return Math.sqrt ((person.x - other.x)*(person.x - other.x) + (person.y - other.y)*(person.y - other.y));
 }
 
 function interact (person, other) {
@@ -164,6 +168,11 @@ function time_passes (person) {
   });
 }
 
+function update_target (person, other) {
+  person.target_index = other.index;
+  person.target_desire = desire (person, other);
+  person.target_distance = distance (person, other);
+}
 
 
 
@@ -195,42 +204,39 @@ function tick() {
   people.forEach(function(person) {
     person.neighbors =[];
     person.avoidance = {x:0,y:0};
-    var best;
-    var best_desire;
+    if (person.target_index !== undefined) {update_target (person, people [person.target_index]);}
     people.forEach(function(other) {
       if (other !== person) {
-        var whatever = desire (person, other);
-        var distance = Math.sqrt ((person.x - other.x)*(person.x - other.x) + (person.y - other.y)*(person.y - other.y));
+        var other_desire = desire (person, other);
+        var other_distance = distance (person, other);
         var heading = Math.atan2 (other.y - person.y, other.x - person.x);
         
-        if ((best === undefined) || (whatever >best_desire)) {
-          person.best = best = other;
-          best_desire = whatever;
-          person.best_distance = distance;
+        if ((person.target_index === undefined) || (other_desire > person.target_desire + indifference_threshold)) {
+          update_target (person, other);
         }
         
-        if (distance <= interaction_distance*2) {
-          var factor = Math.min (1, 2 - distance/interaction_distance);
+        if (other_distance <= interaction_distance*2) {
+          var factor = Math.min (1, 2 - other_distance/interaction_distance);
           //if (whatever <0) {
-            person.avoidance.x += factor*whatever*Math.cos(heading);
-            person.avoidance.y += factor*whatever*Math.sin(heading);
+            person.avoidance.x += factor*other_desire*Math.cos(heading);
+            person.avoidance.y += factor*other_desire*Math.sin(heading);
           //}
         }
-        if (distance <= interaction_distance) {
+        if (other_distance <= interaction_distance) {
           person.neighbors.push (other);
         }
-        if (distance < person_radius*2) {
-          var factor = 2*(1 - distance/(person_radius*2));
+        if (other_distance < person_radius*2) {
+          var factor = 2*(1 - other_distance/(person_radius*2));
           person.avoidance.x -= factor*Math.cos(heading);
           person.avoidance.y -= factor*Math.sin(heading);
         }
       }
     });
-  
-    person.heading = Math.atan2 (best.y - person.y, best.x - person.x);//Math.random()*turn;
+    var target = people [person.target_index];
+    person.heading = Math.atan2 (target.y - person.y, target.x - person.x);
   });
   people.forEach(function(person) {
-    var speed = default_speed*desire (person, person.best);
+    var speed = default_speed*person.target_desire;
     person.x += speed/frames_per_second*Math.cos(person.heading) ;
     person.y += speed/frames_per_second*Math.sin (person.heading) ;
   });
