@@ -32,7 +32,6 @@ game_element.append (canvas_element);
 var canvas_context = canvas_element[0].getContext ("2d");
 
 var frames_per_second = 60;
-var interaction_distance = 0.05;
 
 
 var game_height;
@@ -71,16 +70,14 @@ function close_shape (fill, stroke) {
 }
 
 
-function close_generic_shape () {
-  canvas_context.lineWidth = 0.005;
-  
-  close_shape ("rgb(255, 255, 255)", "rgb(0,0,0)");
-}
-
-
-
 
 var resource_names = ["energy", "companionship"];
+var default_speed = 0.1;
+var person_radius = 0.04;
+var interaction_distance = person_radius*2.2;
+//var comfort_distance = person_radius*1.6;
+
+
 
 
 var people = [];
@@ -90,6 +87,7 @@ for (var index = 0; index <20;++index) {
     resources [resource] = {immediate: Math.random(),};
   });
   people.push ({
+    index: index,
     x: Math.random(),
     y: Math.random(),
     resources,
@@ -98,43 +96,56 @@ for (var index = 0; index <20;++index) {
 }
 people.forEach(function(person) {
   people.forEach(function(other) {
-    if (other != person) {
+    if (other !== person) {
       var resources = {};
       resource_names.forEach(resource => {
         resources [resource] = Math.random()*2-1;
       });
-      person.relationships [other] = {received_resources: resources}
+      person.relationships [other.index] = {received_resources: resources}
     }
   });
   
-    person.heading = Math.random()*turn;
-    person.y += 0.1/frames_per_second*Math.cos(person.heading) ;
-    person.x += 0.1/frames_per_second*Math.sin (person.heading) ;
-    draw_person (person);
+    /*person.heading = Math.random()*turn;
+    person.y += default_speed/frames_per_second*Math.cos(person.heading) ;
+    person.x += default_speed/frames_per_second*Math.sin (person.heading) ;
+    draw_person (person);*/
 });
+
+
+
+
 
 function draw_person (person) {
   
   canvas_context.beginPath();
-  canvas_context.arc (person.x, person.y, 0.05, 0, turn, true);
-  canvas_context.lineWidth = 0.005;
+  canvas_context.arc (person.x, person.y, person_radius* 0.95, 0, turn, true);
+  canvas_context.lineWidth = person_radius* 0.1;
   
   close_shape ("rgb("+Math.floor(255*person.resources.energy.immediate) +", 255, 255)", "rgb("+Math.floor(255*person.resources.companionship.immediate) +",0,0)");
+  
+  var relationship = person.relationships [person.best.index];
+  canvas_context.beginPath();
+  canvas_context.moveTo(person.x, person.y);
+  canvas_context.lineTo(person.x+ person_radius* 0.5*Math.cos(person.heading), person.y+ person_radius* 0.5*Math.sin(person.heading));
+  canvas_context.strokeStyle = "rgb("+Math.floor(255*relationship.received_resources.companionship) +",0,0)";
+  canvas_context.stroke();
+  
 }
 
 function desire (person, other) {
-  var relationship = person.relationships [other];
+  var relationship = person.relationships [other.index];
   var result = 0;
   resource_names.forEach(resource => {
     result += (1 - person.resources [resource].immediate)*relationship.received_resources [resource];
   });
-  return result;
+  //console.log(result);
+  return result / resource_names.length;
 }
 
 function interact (person, other) {
-  var relationship = person.relationships [other];
+  var relationship = person.relationships [other.index];
   resource_names.forEach(resource => {
-    person.resources [resource].immediate += relationship.received_resources [resource];
+    person.resources [resource].immediate += relationship.received_resources [resource]/frames_per_second;
     if (person.resources [resource].immediate <0) {
       person.resources [resource].immediate = 0;
     }
@@ -169,7 +180,9 @@ function tick() {
   canvas_context.clearRect (0, 0, width, height);
   
   canvas_context.save();
-  canvas_context.scale (width, height);
+  canvas_context.translate (width*0.05, height*0.05);
+  canvas_context.scale (width*0.9, height*0.9);
+  
   
   people.forEach(function(person) {
     person.neighbors =[];
@@ -177,24 +190,31 @@ function tick() {
     var best;
     var best_desire;
     people.forEach(function(other) {
-      if (other != person) {
+      if (other !== person) {
         var whatever = desire (person, other);
-        if (best === undefined || whatever >best_desire) {
-          best = other;
-          best_desire = whatever;
-        }
         var distance = Math.sqrt ((person.x - other.x)*(person.x - other.x) + (person.y - other.y)*(person.y - other.y));
+        var heading = Math.atan2 (other.y - person.y, other.x - person.x);
+        
+        if ((best === undefined) || (whatever >best_desire)) {
+          person.best = best = other;
+          best_desire = whatever;
+          person.best_distance = distance;
+        }
+        
         if (distance <= interaction_distance*2) {
           var factor = Math.min (1, 2 - distance/interaction_distance);
-          if (whatever <0) {
-            var heading = Math.atan2 (other.y - person.y, other.x - person.x);
+          //if (whatever <0) {
             person.avoidance.x += factor*whatever*Math.cos(heading);
             person.avoidance.y += factor*whatever*Math.sin(heading);
-          }
+          //}
         }
         if (distance <= interaction_distance) {
           person.neighbors.push (other);
-          
+        }
+        if (distance < person_radius*2) {
+          var factor = 2*(1 - distance/(person_radius*2));
+          person.avoidance.x -= factor*Math.cos(heading);
+          person.avoidance.y -= factor*Math.sin(heading);
         }
       }
     });
@@ -202,17 +222,30 @@ function tick() {
     person.heading = Math.atan2 (best.y - person.y, best.x - person.x);//Math.random()*turn;
   });
   people.forEach(function(person) {
+    var speed = default_speed*desire (person, person.best);
+    person.x += speed/frames_per_second*Math.cos(person.heading) ;
+    person.y += speed/frames_per_second*Math.sin (person.heading) ;
+  });
+  people.forEach(function(person) {
     person.neighbors.forEach(function(other) {
       interact (person, other);
     });
-    person.x += 0.1/frames_per_second*Math.cos(person.heading) ;
-    person.y += 0.1/frames_per_second*Math.sin (person.heading) ;
+    
+    var max_avoidance = default_speed*3;
+    var current_avoidance = Math.sqrt ((person.avoidance.x)*(person.avoidance.x) + (person.avoidance.y)*(person.avoidance.y));
+    if (current_avoidance >max_avoidance) {
+      person.avoidance.x *= max_avoidance/current_avoidance;
+      person.avoidance.y *= max_avoidance/current_avoidance;
+    }
+    
+
+    
     person.x += person.avoidance.x/frames_per_second;
     person.y += person.avoidance.y/frames_per_second;
-    if (person.x <0) {person.x = 0;}
-    if (person.x >1) {person.x = 1;}
-    if (person.y <0) {person.y = 0;}
-    if (person.y >1) {person.y = 1;}
+    if (person.x <0) {person.x = 0 + (person.x - 0)*0.5;}
+    if (person.x >1) {person.x = 1 + (person.x - 1)*0.5;}
+    if (person.y <0) {person.y = 0 + (person.y - 0)*0.5;}
+    if (person.y >1) {person.y = 1 + (person.y - 1)*0.5;}
     draw_person (person);
   });
   
@@ -238,3 +271,4 @@ tick();
   #"blurb_image": "/media/pac-asteroids-thumbnail.png?rr"
 }
   )
+  
