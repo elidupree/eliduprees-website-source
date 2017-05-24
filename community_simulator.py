@@ -76,6 +76,7 @@ var default_speed = 0.1;
 var person_radius = 0.04;
 var interaction_distance = person_radius*2.2;
 //var comfort_distance = person_radius*1.6;
+var personal_space_distance = person_radius*1.1;
 var resource_decay = 1/10;
 var indifference_threshold = 0.01;
 
@@ -218,14 +219,17 @@ function tick() {
         
         if (other_distance <= interaction_distance*2) {
           var factor = Math.min (1, 2 - other_distance/interaction_distance);
-          //if (whatever <0) {
-            person.avoidance.x += factor*other_desire*Math.cos(heading);
-            person.avoidance.y += factor*other_desire*Math.sin(heading);
-          //}
+          // don't push other people on purpose just because you like them
+          if (other_desire>0) {
+            factor = Math.min (factor, (other_distance-personal_space_distance)/(interaction_distance-personal_space_distance));
+          }
+          person.avoidance.x += factor*other_desire*Math.cos(heading);
+          person.avoidance.y += factor*other_desire*Math.sin(heading);
         }
         if (other_distance <= interaction_distance) {
           person.neighbors.push (other);
         }
+        //step away from people who are actually bumping into you
         if (other_distance < person_radius*2) {
           var factor = 2*(1 - other_distance/(person_radius*2));
           person.avoidance.x -= factor*Math.cos(heading);
