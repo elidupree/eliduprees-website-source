@@ -516,9 +516,11 @@
   "remembered_contents": "0006ae0e8161b9cf2762702f3b2bbcdfc7ae3ca0e176756b2792e03f4cdd9947f08a11e3e640beda97ad1e37fd70954a"
  },
  "How to Write Cliffhangers: a Theory of Writing": {
-  "date_modified": "2017-05-19",
-  "date_posted": "2017-05-19",
-  "id": "29390d3c2462d6efa1ccc8a77d34682"
+  "date_modified": "2017-05-24",
+  "date_posted": "2017-05-24",
+  "deployed": true,
+  "id": "29390d3c2462d6efa1ccc8a77d34682",
+  "remembered_contents": "9bc47374557ec086f1706bc215cf8850e58d10d5761e8c8aae242e7ab8aad4b2e8ad73f741b9659637b0570512698732"
  },
  "How to make your fantasy setting less racist": {
   "date_modified": "2016-11-18",
@@ -884,11 +886,11 @@
   "remembered_contents": "a24255449e4feb1008ed73192b45f5ec4d359c44e3bc6d0991f336cfcedff6b40fb42a882317138e9224fb3322b8f4f3"
  },
  "Ravelling Wrath, chapter 1: Discussion": {
-  "date_modified": "2017-03-08",
+  "date_modified": "2017-05-24",
   "date_posted": "2017-03-08",
   "deployed": true,
   "id": "9983a609c9161318f4e7a595784370",
-  "remembered_contents": "f523ffcb963119a67b2cdcdee523b2c4029def72b6df0458a8d498f21ad6814268133d80fb20168b625551b894701baa"
+  "remembered_contents": "212c6e9ab2235c0191b5c0e3c218538f4c48d8f52562b3508cc0a9520ae7e8dffcc57fea775ac8295a5e97c5a24d0c28"
  },
  "Ravelling Wrath, chapter 2": {
   "date_modified": "2017-02-24",
