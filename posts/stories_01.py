@@ -49,4 +49,36 @@ width: 100%; height: 55em;
 </style>''',
   "contents":'''<p class="noscript"> (To play this interactive story, you must have JavaScript enabled.)</p> <iframe class="script_required" title="story content" src="/media/will-you-try-to-escape-iframe.html?rr"></iframe>''',
 },
+{
+  "title":"The Console of the Time Cops",
+  "blurb": "“Man, that takes me back. Everyone bought one because it was supposed to be the next great thing, but no studios released any regular games for it, just those weird minimalist things...",
+  "authors_notes":'''<p>I wrote this story on a whim during a conversation about retro gaming and tool assisted speedruns.</p> <p>I don't list this story on my main stories page because I think it appeals to a pretty narrow audience, it has no particular moral to it, and I don't really want to normalize police officers arresting people for random stuff. That said, feel free to share it if you want to. I'm not <em>against</em> promoting this story, I'm just choosing not to do so in a specific context.</p>''',
+  "auto_paragraphs": True,
+  "contents":'''
+  
+"Remember the old GKS-20 game console?"
+
+"Man, that takes me back. Everyone bought one because it was supposed to be the next great thing, but no studios released any regular games for it, just those weird minimalist things. Never knew why that happened. It was way ahead of its time, other than the tiny disk space. There's probably thousands of them still lying around in people's closets, with just the built-in games it shipped with."
+
+"I know, right? But that's what I just learned today – it was never a legitimate console in the first place. Apparently it was a sting operation for illegal time travelers."
+
+"You've got to be kidding me."
+
+"No, I'm serious! Think about it. Let's say you're a game dev working away in 2060 – you're good, but hardly anyone's good enough to turn a profit in 2060 because the market is so competitive. You need something extra to get noticed. So you turn to time travel. And once you start thinking about it, the GKS-20 seems perfect – it was popular but it hardly had any games, so if you go back and release a game for it, it would get instant popularity. You'd make a pretty big mark on history – really get your name out there. But the moment you go back in time and actually negotiate for a GKS-20 release… Bam! Straight to jail."
+
+"What about legitimate studios at the time? It can't have been a good sting if they had to sort through all the legitimate studios and just, what, reject them?"
+
+"That's just the thing. The GKS-20 never had enough disk space to actually store a modern game – I mean modern at the time – assuming the game was written by a human. Anyone who was working at the time would've seen that and just given up, aside from the ones who made those minimalist games just to prove they could. But there's one way to make a game that can actually run on it – generate your game with 2050s-era AI, like using next-generation autoencoders and stuff. All the built-in games –"
+
+"– were actually made by undercover cops from the future?"
+
+"Exactly."
+
+"I still think you're pulling my leg here. But, you know… I know JUST enough about how hard-core the time cops are that I wonder if they might actually run something like this."
+
+"I'm not pulling your leg, I'm serious. Time cops don't mess around."
+
+"Man. They sure don't."
+  ''',
+},
 ]
