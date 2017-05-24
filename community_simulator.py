@@ -76,6 +76,7 @@ var default_speed = 0.1;
 var person_radius = 0.04;
 var interaction_distance = person_radius*2.2;
 //var comfort_distance = person_radius*1.6;
+var resource_decay = 1/10;
 
 
 
@@ -153,7 +154,14 @@ function interact (person, other) {
       person.resources [resource].immediate = 1;
     }
   });
-
+}
+function time_passes (person) {
+  resource_names.forEach(resource => {
+    person.resources [resource].immediate -= resource_decay/frames_per_second;
+    if (person.resources [resource].immediate <0) {
+      person.resources [resource].immediate = 0;
+    }
+  });
 }
 
 
@@ -230,6 +238,7 @@ function tick() {
     person.neighbors.forEach(function(other) {
       interact (person, other);
     });
+    time_passes (person);
     
     var max_avoidance = default_speed*3;
     var current_avoidance = Math.sqrt ((person.avoidance.x)*(person.avoidance.x) + (person.avoidance.y)*(person.avoidance.y));
