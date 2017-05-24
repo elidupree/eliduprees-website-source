@@ -93,21 +93,32 @@ def main():
   
   reached_pages = {}
   orphaned_pages = {}
+  orphaned_pages_display = [
+    
+    ("/stories/the-console-of-the-time-cops", "The Console of the Time Cops, a short story"),
+    ("/2013-04-29-Lasercake-talk-script", "The script for my 2013-04-29 Lasercake talk"),
+    
+    ("/some-thoughts-about-undyne-the-character-from-the-game-undertale", "Some thoughts about Undyne, the character from the game Undertale"),
+    ("/the-morality-of-legend-of-korra", "A post about the morality of Legend of Korra"),
+  ]
   def reach_page (path):
     if path in page_dict and path not in reached_pages:
       reached_pages [path] = True
       for destination in re.finditer ('href="(.+?)"', page_dict [path]):
         reach_page (destination.group (1) + ".html")
   reach_page ("/index.html")
+  for (path, _) in orphaned_pages_display:
+    reach_page (path+".html")
   def find_orphaned_pages ():
     for path,contents in page_dict.items():
       if path.endswith (".html") and path not in reached_pages:
         reach_page (path)
         orphaned_pages [path [0:-5]] = True
+        orphaned_pages_display.append ((path [0:-5], path [0:-5]))
   find_orphaned_pages ()
   print ("Orphaned pages:")
   print (orphaned_pages)
-  category_pages.add_secrets (page_dict, orphaned_pages)
+  category_pages.add_secrets (page_dict, orphaned_pages_display)
   
   for path,contents in page_dict.items():
     if False and path.endswith(".html"):
