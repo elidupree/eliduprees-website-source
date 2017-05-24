@@ -560,6 +560,8 @@ I started getting jittery just sitting on the couch next to her. So I got up and
 
 ???? this would be a good place to describe Yali's house
 
+shoes were lined up neatly next to the door, . The only thing that wasn't ????? was my own bags, which I'd just thrown on the floor at random. In another corner, a space heater hummed away, even though it wasn't that cold in here.
+
 Just then, I heard Yali jerk awake behind me. I rushed over to her.
 
 She didn't even lift her head, but her eyes focused on me, so I could tell she was back. "You can… talk… to Layo," she said dully.
@@ -628,6 +630,7 @@ As I ran down the nighttime streets, it all still felt a little unreal to me. Bu
 
 It was pretty dark from all of the burnt out streetlights, but I knew this place like the back of my hand.
 
+????
 
 ''',
 },
