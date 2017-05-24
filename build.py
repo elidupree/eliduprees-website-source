@@ -96,7 +96,7 @@ def main():
   orphaned_pages_display = [
     
     ("/stories/the-console-of-the-time-cops", "The Console of the Time Cops, a short story"),
-    ("/2013-04-29-Lasercake-talk-script", "The script for my 2013-04-29 Lasercake talk"),
+    ("/2013-04-29-lasercake-talk-script", "The script for my 2013-04-29 Lasercake talk"),
     
     ("/some-thoughts-about-undyne-the-character-from-the-game-undertale", "Some thoughts about Undyne, the character from the game Undertale"),
     ("/the-morality-of-legend-of-korra", "A post about the morality of Legend of Korra"),
