@@ -148,7 +148,7 @@ def main():
     config = idupree_websitepy.build.Config(
       site_source_dir = build_dir,
       build_output_dir = './build/idupree_websitepy_output/',
-      doindexfrom = ['/', "/harry-potter-and-the-methods-of-rationality-commentary", "/the-morality-of-legend-of-korra", "/some-thoughts-about-undyne-the-character-from-the-game-undertale",],
+      doindexfrom = ['/', "/harry-potter-and-the-methods-of-rationality-commentary", "/the-morality-of-legend-of-korra", "/some-thoughts-about-undyne-the-character-from-the-game-undertale","/stories/the-console-of-the-time-cops","/2013-04-29-lasercake-talk-script", ],
       butdontindexfrom = [],
       error_on_missing_resource = False,
       error_on_broken_internal_link = False,
