@@ -329,6 +329,8 @@ div.transcript_header {padding:0.5em;}
 div.transcript_content {padding:0.5em; border-top:1px dashed black;}
   
 span.inline_quote {background-color:#f0f0f0; color:#404040; border-radius:0.5em; }
+a:link span.inline_quote { background-color:#f0f0ff; color:#4040ff; }
+a:visited span.inline_quote { background-color:#f8f0f8; color:#804080; }
 div.block_quote_outer {margin:0.9em 0;}
 blockquote {padding: 0.25em; background-color:#f0f0f0; color:#404040;  margin-left: 2.5em; margin-right: 2.8em; margin-top: 0; margin-bottom: 1em; }
 p.reply_input_info { padding-left: 0.5em; }
