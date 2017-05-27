@@ -11,7 +11,13 @@ posts = [
   "don't deploy": True,
   "authors_notes":'''
   
+<p>It took me a long time to decide on Rinn's relationship to social class.</p>
 
+<p>I was tempted to make Rinn be poor. Then ze'd be a badass poor person saying "fuck the rules", which I like. But I was concerned that it would make the story a misleading representation of poverty. Could Rinn represent the day-to-day burden of being insecure in having your basic needs met? Rinn's "power" – the qualities that made the Blood God choose Rinn above every other person in the city – could make it pretty questionable. Rinn laughs at all burdens, because ze is just that extraordinary of a person. If the story's biggest representation of poverty was someone who could ignore the burdens, that would be bad.</p>
+
+<p>On the other hand, a big focus of the story is on Rinn's relationship to <em>anger</em>. And I didn't want to center the anger of a sheltered middle-class person when I could just as easily center a poor person's legitimate anger about the injustice of their position in society.</p>
+
+<p>So I settled with this. Rinn's family has enough wealth to meet zir basic needs, but <em>Rinn</em> has grown up with poor people and is alienated by zir parents' classist attitudes. Ze inherently takes the side of the poor, not because see thinks ze's doing a good deed, but because ze instinctively thinks of them as zir own people. It was very intentional that when Rinn says "real people", ze's referring to poor people.</p>
 
   ''',
   "head":'''<style>
@@ -98,7 +104,7 @@ Yali gave me a Look.
 
 Yali looked down, and for a moment I was worried I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."
 
-That was true. It was still early September. And everyone knew the Ravelling started around November 1. So we had a couple of months to go. ??????remidn reader of dating length?
+That was true. It was still early September, about a month after Yali first asked me out. And everyone knew the Ravelling started around November 1. So we had a couple of months to go.
 
 "Speaking of time…" Yali said, glancing at the clock.
 
@@ -504,9 +510,7 @@ Yali began to ask, "You know how in this world, matter is dominant, and in the �
 
 Yali patted me on the head. "Good idea."
 
-?????
-
-We kept talking until long after the sun went down. Yali told me all about ???.
+We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she had <em>access</em> to the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
 
 Finally, hours later, Yali said, "I'm starting to get tired. Before I send you home and settle down for the night, let's go ahead and try the Seeing."
 
@@ -560,7 +564,7 @@ I started getting jittery just sitting on the couch next to her. So I got up and
 
 ???? this would be a good place to describe Yali's house
 
-shoes were lined up neatly next to the door, . The only thing that wasn't ????? was my own bags, which I'd just thrown on the floor at random. In another corner, a space heater hummed away, even though it wasn't that cold in here.
+shoes were lined up neatly next to the door, . The only thing that wasn't ????? was my own bags, which I'd just thrown on the floor at random. In another corner, a space heater hummed away, even though it wasn't that cold today.
 
 Just then, I heard Yali jerk awake behind me. I rushed over to her.
 
@@ -590,7 +594,7 @@ Yali said nothing.
 
 "Don't… know."
 
-So that was it, then. We just didn't know. 24 hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today… it didn't really affect me. It was just another chain in the whole pile of chains dragging on my soul. ????less poetic
+So that was it, then. We just didn't know. 24 hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today… it didn't really affect me. It was just another thing dragging on me. There were already so many.
 
 "Okay. Whatever it is, I won't tell them anything. Did you see anything else?"
 
@@ -622,15 +626,13 @@ I hugged her tight again, but this time her body was limp and unresponsive. I co
 
 Reluctantly, I grabbed my things and started the long jog home.
 
-It was an easy route, just like I'd said. But being on my feet always helped me feel more stable, and sort things out in my head. And I had a lot to sort out. The Ravelling was coming, in just under two months. And even before that, there were so many preparations we have to make. I had to learn all about the Otherworld and the powers we were going to get. And for Yali's plan… I'd have to figure out some things that could make me mad. What <em>could</em> make me mad?
+It was an easy route, just like I'd said. But being on my feet always helped me feel more stable, and sort things out in my head. And I had a lot to sort out. The Ravelling was coming, in just under two months. And even before that, there were so many preparations we have to make. I had lots more to learn all about the Otherworld and the powers we were going to get. And for Yali's plan… I'd have to figure out some things that could make me mad. What <em>could</em> make me mad?
 
 As I ran down the nighttime streets, it all still felt a little unreal to me. But when it came down to it, maybe it wasn't that complicated after all. <em>Protect Yali. Protect myself.</em> When I thought about it that way, it didn't seem so hard to handle.
 
-????
+Then it hit me how tired I was. Not from the running, naturally. But it would be so good to just be at home in bed. I counted off the buildings as I passed. One less to go until I get there… another…
 
-It was pretty dark from all of the burnt out streetlights, but I knew this place like the back of my hand.
-
-????
+Finally I got all the way down to my own street. It was pretty dark from all of the burnt out streetlights, but I knew this place like the back of my hand. I casually avoided the familiar potholes leading up to my house, then slipped in through the door, careful not to wake anyone. Upstairs, I threw myself into bed, and I was asleep as soon as I hit the sheets.
 
 ''',
 },
