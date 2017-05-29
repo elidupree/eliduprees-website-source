@@ -28,7 +28,8 @@ div.blog_post h2 {
   </style>''',
   "contents": '''
 
-<content_warning_header((this chapter includes verbally abusive language; discussion of an abusive relationship; discussion of sexual assault;))>
+????? Content warnings need fixing
+<content_warning_header((this chapter includes verbally abusive language))>
 
 <bigbreak>
   
@@ -645,7 +646,7 @@ Finally I got all the way down to my own street. It was pretty dark from all of 
 '''
 
 
-
+; discussion of an abusive relationship; discussion of sexual assault;
 
 ?????
 
