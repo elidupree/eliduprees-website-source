@@ -65,9 +65,53 @@ function close_shape (fill, stroke) {
 var start = Date.now();
 var step = 0;
 
-var position = 0;
-var direction = 1;
+var create_component = function (id, name) {
+  var result = {
+    id: id,
+    position:0,
+    direction:1,
+    cycles_per_minute:20,
+  }
+  result.panel = $("<div>");
+  result.panel.append (
+    $("<label>", {text: name}),
+    $("<input>", {type: "checkbox", id: id+"_enabled"}),
+    $("<label>", {"for": id+"_enabled", text: "enabled"}),
+    $("<input>", {type: "checkbox", id: id+"_sinusoidal", checked: true}),
+    $("<label>", {"for": id+"_sinusoidal", text: "sinusoidal"}),
+    $("<input>", {type: "text", id: id+"_speed", value: "20"}),
+    $("<label>", {"for": id+"_speed", text: "cycles per minute"})
+  );
+  $("#panels").append (result.panel);
+  result.enabled
+  return result;
+}
 
+function update_component (component) {
+  var cycle_input = parseFloat($("#"+component.id+"_speed").val());
+  if (cycle_input !== NaN) {
+    component.cycles_per_minute = cycle_input;
+  }
+  var cycles_per_frame = component.cycles_per_minute/(60*frames_per_second);
+  if ($("#"+component.id+"_sinusoidal").prop("checked")) {
+    var new_angle = Math.asin (component.position*component.direction) + turn*cycles_per_frame;
+    if (new_angle > turn/4) {
+      new_angle -= turn/2;
+      component.direction *= -1;
+    }
+    component.position = component.direction*Math.sin (new_angle);
+  }
+  else {
+    component.position = component.position + component.direction*4*cycles_per_frame;
+    if (component.position*component.direction > 1) {
+      component.position = component.direction*2 - component.position;
+      component.direction *= -1;
+    }
+  }
+  
+}
+
+var visuals = create_component ("visuals", "Visuals:");
 
 
 
@@ -87,30 +131,15 @@ function tick() {
   canvas_context.scale (width*0.9, height*0.9);
   
   
-  
-  var cycles_per_frame = 0.5/frames_per_second;
-  if (true||linear) {
-    position = position + direction*4*cycles_per_frame;
-    if (position*direction > 1) {
-      position = direction*2 - position;
-      direction *= -1;
-    }
+  if ($("#visuals_enabled").prop("checked")) {
+    update_component (visuals);
+    
+    canvas_context.beginPath();
+    canvas_context.arc (0.5 + visuals.position/2, 0.5, 0.05, 0, turn, true);
+    canvas_context.lineWidth = 0.001;
+    
+    close_shape ("rgb(0, 0, 0)", "rgb(0,0,0)");
   }
-  else {
-    var new_angle = Math.asin (position*direction) + turn*cycles_per_frame;
-    if (new_angle > turn/4) {
-      new_angle -= turn/2;
-      direction *= -1;
-    }
-    position = direction*Math.sin (new_angle);
-  }
-  
-  canvas_context.beginPath();
-  canvas_context.arc (0.5 + position/2, 0.5, 0.05, 0, turn, true);
-  canvas_context.lineWidth = 0.001;
-  
-  close_shape ("rgb(0, 0, 0)", "rgb(0,0,0)");
-  
   
   canvas_context.restore();  
 }
@@ -123,11 +152,8 @@ tick();
       '''+bars.bars_wrap({"games":True}, '''<main><div id="content">
       
       <p>I made this tool to help with ABS (alternating bilateral stimulation) therapy, but I have no expertise in it and only designed this based on third hand information. Use at your own risk!</p>
+      <div id="panels"></div>
       <div id="game"></div>
-
-    '''+
-    # blog.comments_section ("the_path") +
-    '''
   </div>
 </main>'''), {
   "jQuery_before": True,
