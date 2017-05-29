@@ -15,9 +15,9 @@ posts = [
 
 <p>I was tempted to make Rinn be poor. Then ze'd be a badass poor person saying "fuck the rules", which I like. But I was concerned that it would make the story a misleading representation of poverty. Could Rinn represent the day-to-day burden of being insecure in having your basic needs met? Rinn's "power" – the qualities that made the Blood God choose Rinn above every other person in the city – could make it pretty questionable. Rinn laughs at all burdens, because ze is just that extraordinary of a person. If the story's biggest representation of poverty was someone who could ignore the burdens, that would be bad.</p>
 
-<p>On the other hand, a big focus of the story is on Rinn's relationship to <em>anger</em>. And I didn't want to center the anger of a sheltered middle-class person when I could just as easily center a poor person's legitimate anger about the injustice of their position in society.</p>
+<p>On the other hand, a big focus of the story is on Rinn's relationship to <em>anger</em>. And I didn't want to center the anger of a sheltered middle-class person when I could just as easily center a poor person's anger. The former wouldn't necessarily make a <em>bad</em> story, but the world could use more stories that empathize with the anger of people who are forced into unjust positions in society.</p>
 
-<p>So I settled with this. Rinn's family has enough wealth to meet zir basic needs, but <em>Rinn</em> has grown up with poor people and is alienated by zir parents' classist attitudes. Ze inherently takes the side of the poor, not because see thinks ze's doing a good deed, but because ze instinctively thinks of them as zir own people. It was very intentional that when Rinn says "real people", ze's referring to poor people.</p>
+<p>Eventually I settled with this. Rinn's family has enough wealth to meet zir basic needs, but <em>Rinn</em> has grown up with poor people and is alienated by zir parents' classist attitudes. Ze inherently takes the side of the poor, not because see thinks ze's doing a good deed, but because ze instinctively thinks of them as zir own people. It was very intentional that when Rinn says "real people", ze's referring to poor people.</p>
 
   ''',
   "head":'''<style>
@@ -562,9 +562,11 @@ How was Yali so amazing? She'd obviously been hurt in her past, but she still ma
 
 I started getting jittery just sitting on the couch next to her. So I got up and started pacing around the room.
 
-???? this would be a good place to describe Yali's house
+Everything in Yali's house was neat and orderly. Her shoes were all in a row next to the door, with her coats hanging just above. At the other end of the room there was a kitchen area, with a clean sink – no dirty dishes stacked in it like there always were at my place. ("A dirty kitchen means an uncivilized life", Dad always complained, not that <em>he</em> cleaned up any more than the rest of us.) The only thing that wasn't in order was my own bags, which I'd just thrown on the floor at random.
 
-shoes were lined up neatly next to the door, . The only thing that wasn't ????? was my own bags, which I'd just thrown on the floor at random. In another corner, a space heater hummed away, even though it wasn't that cold today.
+I paced all the way to the far corner, where a space heater hummed away, even though it wasn't that cold today. Then I paced back. Each time I turned around, I glanced over to check on Yali. She was still just sitting there, looking into the distance. The papers she'd drawn on were still lying on the table in front of her, along with her laptop, which we'd opened to look some stuff up.
+
+Back in the other direction was a big window, with some nice curtains. I liked the pattern on them, and it was already dark outside, so I walked over to them and pulled them closed. I made sure to neaten them up so they'd match the rest of the room.
 
 Just then, I heard Yali jerk awake behind me. I rushed over to her.
 
