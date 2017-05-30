@@ -14,6 +14,10 @@ html,body {background-color: white;}
 #game {position: relative;}
 .game_canvas {position: absolute; height: 100%; width: 100%;}
 p {font-size: 200%; text-align: center;}
+.panel {margin:0.8em auto; padding:0.8em; background-color:#eee;}
+.panel .labeled_input {margin:0.2em;}
+.panel label {margin-left: 0.2em; margin-right: 0.6em;}
+
     </style> 
     <script type="text/javascript">
 $(function() {
@@ -77,15 +81,24 @@ var create_component = function (id, name) {
     direction:1,
     cycles_per_minute:20,
   }
-  result.panel = $("<div>");
+  result.panel = $("<div>", {class: "panel"});
   result.panel.append (
     $("<label>", {text: name}),
-    $("<input>", {type: "checkbox", id: id+"_enabled"}),
-    $("<label>", {"for": id+"_enabled", text: "enabled"}),
-    $("<input>", {type: "checkbox", id: id+"_sinusoidal", checked: true}),
-    $("<label>", {"for": id+"_sinusoidal", text: "sinusoidal"}),
-    $("<input>", {type: "text", id: id+"_speed", value: "20"}),
-    $("<label>", {"for": id+"_speed", text: "cycles per minute"})
+    $("<div>", {class: "labeled_input"}).append (
+      $("<input>", {type: "checkbox", id: id+"_enabled"}),
+      $("<label>", {"for": id+"_enabled", text: "enabled"})
+    ),
+    $("<div>", {class: "labeled_input"}).append (
+      $("<label>", {text: "Waveform:"}),
+      $("<input>", {type: "radio", id: id+"_sinusoidal", name: id+"_waveform", value: "sinusoidal", checked: true}),
+      $("<label>", {"for": id+"_sinusoidal", text: "sinusoidal"}),
+      $("<input>", {type: "radio", id: id+"_sawtooth", name: id+"_waveform", value: "sawtooth"}),
+      $("<label>", {"for": id+"_sawtooth", text: "sawtooth"})
+    ),
+    $("<div>", {class: "labeled_input"}).append (
+      $("<input>", {type: "text", id: id+"_speed", value: "20"}),
+      $("<label>", {"for": id+"_speed", text: "cycles per minute"})
+    )
   );
   $("#panels").append (result.panel);
   result.enabled
@@ -98,7 +111,8 @@ function update_component (component) {
     component.cycles_per_minute = cycle_input;
   }
   var cycles_per_frame = component.cycles_per_minute/(60*frames_per_second);
-  if ($("#"+component.id+"_sinusoidal").prop("checked")) {
+  var waveform = $("input:radio[name="+component.id+"_waveform]:checked").val();
+  if (waveform === "sinusoidal") {
     var new_angle = Math.asin (component.position*component.direction) + turn*cycles_per_frame;
     if (new_angle > turn/4) {
       new_angle -= turn/2;
@@ -106,7 +120,7 @@ function update_component (component) {
     }
     component.position = component.direction*Math.sin (new_angle);
   }
-  else {
+  else if (waveform === "sawtooth") {
     component.position = component.position + component.direction*4*cycles_per_frame;
     if (component.position*component.direction > 1) {
       component.position = component.direction*2 - component.position;
@@ -119,9 +133,25 @@ function update_component (component) {
 var visuals = create_component ("visuals", "Visuals:");
 var audio_component = create_component ("audio", "Audio:");
 audio_component.panel.append (
-  $("<input>", {type: "file", id: "audio_file", accept: "audio/*"}).change (reload_audio),
-  $("<label>", {"for": "audio_file", text: "Audio file to play"}),
-  $("<input>", {type: "button", id: "audio_sync", value:"Synchronize with visuals"}).click (sync_audio)
+  $("<div>", {class: "labeled_input"}).append (
+    $("<label>", {text: "Audio file:"}),
+    $("<input>", {type: "radio", id: "white_noise", name: "audio_file", value: "white_noise", checked: true}),
+    $("<label>", {"for": "white_noise", text: "white noise"}),
+    $("<input>", {type: "radio", id: "pink_noise", name: "audio_file", value: "pink_noise"}),
+    $("<label>", {"for": "pink_noise", text: "pink noise"}),
+    $("<input>", {type: "radio", id: "nature_sounds", name: "audio_file", value: "nature_sounds"}),
+    $("<label>", {"for": "nature_sounds", text: "nature sounds"}),
+    $("<input>", {type: "radio", id: "custom", name: "audio_file", value: "custom"}),
+    $("<label>", {"for": "custom", text: "custom"}),
+    $("<input>", {type: "file", id: "audio_file", accept: "audio/*"}).change (reload_audio)
+    //$("<label>", {"for": "audio_file", text: "Audio file to play"})
+  ),
+  $("<div>", {class: "labeled_input"}).append (
+    
+  ),
+  $("<div>", {class: "unlabeled_input"}).append (
+    $("<input>", {type: "button", id: "audio_sync", value:"Synchronize with visuals"}).click (sync_audio)
+  )
 );
 
 function reload_audio () {
