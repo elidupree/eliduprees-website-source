@@ -102,7 +102,6 @@ var create_component = function (id, name) {
     )
   );
   $("#panels").append (result.panel);
-  result.enabled
   return result;
 }
 
