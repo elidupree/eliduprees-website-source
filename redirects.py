@@ -427,7 +427,7 @@ old_website_conversions = {
   "main/posts/368-author's-comment": "blog/game-theory-contracts-altruism",
   "main/posts/369-user-comment": "blog/alignments",
 }
-conveniences = {
+manual_redirects = {
   "hexybondage": "/hexy",
   "hexy-bondage": "/hexy",
   "hexy_bondage": "/hexy",
@@ -443,6 +443,8 @@ conveniences = {
   "korra": "/the-morality-of-legend-of-korra",
   "Undyne": "/some-thoughts-about-undyne-the-character-from-the-game-undertale",
   "undyne": "/some-thoughts-about-undyne-the-character-from-the-game-undertale",
+  
+  "stories/ravelling-wrath-chapter-1": "/ravelling-wrath",
 }
 
 def add_redirects(page_dict):
@@ -477,7 +479,7 @@ def add_redirects(page_dict):
       e = re.sub (pattern, replace, from_path)
       if e != from_path:
         add_redirect(page_dict, '/'+e, '/'+to_path)
-  for from_path, to_path in conveniences.items():
+  for from_path, to_path in manual_redirects.items():
     add_redirect(page_dict, '/'+from_path, to_path)
 
 

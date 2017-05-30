@@ -68,7 +68,7 @@ I've also been messing around with some computer music generation. Here are some
 "auto_paragraphs": True,
 "blurb": "",
 "contents":'''
-I'm almost finished writing the first chapter of <a href="/stories/ravelling-wrath-chapter-1">Ravelling Wrath</a>, and I've written part of the second chapter as well. With any luck, I'll be able to post Chapter 1 next week.
+I'm almost finished writing the first chapter of <a href="/ravelling-wrath">Ravelling Wrath</a>, and I've written part of the second chapter as well. With any luck, I'll be able to post Chapter 1 next week.
 
 The illustrations are a bit of a problem. My hands aren't up to doing that much drawing yet. But since I don't know when they'll be ready, I don't want to stall posting the written part. I think I might post it with just sketches instead of the finished drawings. I can come back and replace them with the finished versions later, and in the meantime, it'll be better than nothing.
 
@@ -82,7 +82,7 @@ Also! My sibling and I have been making a silly game called Portaltron. It's lik
 "auto_paragraphs": True,
 "blurb": "",
 "contents":'''
-I've been making a lot of progress on <a href="/stories/ravelling-wrath-chapter-1">Ravelling Wrath</a>. The second chapter is now about 4500 words long. That's already 600 longer than the first chapter, and I'm not nearly done with it yet! I might even end up splitting it into two chapters. We'll see.
+I've been making a lot of progress on <a href="/ravelling-wrath">Ravelling Wrath</a>. The second chapter is now about 4500 words long. That's already 600 longer than the first chapter, and I'm not nearly done with it yet! I might even end up splitting it into two chapters. We'll see.
 
 I haven't made progress on any other projects this week. My hands still aren't doing great. It's also been very dry, which makes my throat less comfortable, so I can't always dictate a lot. I've had a few ideas for blog posts, but I'm saving most of my throat usage for the story.
 
@@ -165,7 +165,7 @@ In our rules, these pairs are always worth 0. That seems much more elegant to me
 "auto_paragraphs": True,
 "blurb": "",
 "contents":'''
-The second chapter of <a href="/stories/ravelling-wrath-chapter-1">Ravelling Wrath</a> now stands at <em>7100</em> words, almost twice as long as the first one. I'll probably split it in two. However, because I've been writing it out-of-order, the first half isn't finished yet either. And once I finish it, I will still have to do some website work. (Right now, I don't have a real system for stories with multiple chapters.) I could theoretically have a chapter ready by next week, but my best guess is more like two or three weeks.
+The second chapter of <a href="/ravelling-wrath">Ravelling Wrath</a> now stands at <em>7100</em> words, almost twice as long as the first one. I'll probably split it in two. However, because I've been writing it out-of-order, the first half isn't finished yet either. And once I finish it, I will still have to do some website work. (Right now, I don't have a real system for stories with multiple chapters.) I could theoretically have a chapter ready by next week, but my best guess is more like two or three weeks.
 
 My other projects are still stalled. The current phase in the Saga Of Eli Dupree's Hand Problems is expected to take another month or so. They are currently at a point where they sometimes feel good enough to do a bunch of computer work, but I have to stop myself because they're not <em>actually</em> ready for that much.
 
