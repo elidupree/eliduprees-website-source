@@ -89,15 +89,15 @@ var create_component = function (id, name) {
       $("<label>", {"for": id+"_enabled", text: "enabled"})
     ),
     $("<div>", {class: "labeled_input"}).append (
+      $("<input>", {type: "text", id: id+"_speed", value: "20"}),
+      $("<label>", {"for": id+"_speed", text: "cycles per minute"})
+    ),
+    $("<div>", {class: "labeled_input"}).append (
       $("<label>", {text: "Waveform:"}),
       $("<input>", {type: "radio", id: id+"_sinusoidal", name: id+"_waveform", value: "sinusoidal", checked: true}),
       $("<label>", {"for": id+"_sinusoidal", text: "sinusoidal"}),
       $("<input>", {type: "radio", id: id+"_sawtooth", name: id+"_waveform", value: "sawtooth"}),
       $("<label>", {"for": id+"_sawtooth", text: "sawtooth"})
-    ),
-    $("<div>", {class: "labeled_input"}).append (
-      $("<input>", {type: "text", id: id+"_speed", value: "20"}),
-      $("<label>", {"for": id+"_speed", text: "cycles per minute"})
     )
   );
   $("#panels").append (result.panel);
@@ -135,38 +135,36 @@ var audio_component = create_component ("audio", "Audio:");
 audio_component.panel.append (
   $("<div>", {class: "labeled_input"}).append (
     $("<label>", {text: "Audio file:"}),
-    $("<input>", {type: "radio", id: "white_noise", name: "audio_file", value: "white_noise", checked: true}),
-    $("<label>", {"for": "white_noise", text: "white noise"}),
-    $("<input>", {type: "radio", id: "pink_noise", name: "audio_file", value: "pink_noise"}),
-    $("<label>", {"for": "pink_noise", text: "pink noise"}),
-    $("<input>", {type: "radio", id: "nature_sounds", name: "audio_file", value: "nature_sounds"}),
-    $("<label>", {"for": "nature_sounds", text: "nature sounds"}),
-    $("<input>", {type: "radio", id: "custom", name: "audio_file", value: "custom"}),
-    $("<label>", {"for": "custom", text: "custom"}),
-    $("<input>", {type: "file", id: "audio_file", accept: "audio/*"}).change (reload_audio)
+    $("<input>", {type: "radio", id: "brown_noise", name: "audio_file", value: "brown_noise", checked: true}).click (switch_audio),
+    $("<label>", {"for": "brown_noise", text: "brown noise"}),
+    $("<input>", {type: "radio", id: "bird_calls", name: "audio_file", value: "bird_calls"}).click (switch_audio),
+    $("<label>", {"for": "bird_calls", text: "bird calls"}),
+    $("<input>", {type: "radio", id: "water_flowing", name: "audio_file", value: "water_flowing"}).click (switch_audio),
+    $("<label>", {"for": "water_flowing", text: "water flowing"}),
+    $("<input>", {type: "radio", id: "audio_custom", name: "audio_file", value: "custom"}).click (switch_audio),
+    $("<label>", {"for": "audio_custom", text: "custom"}),
+    $("<input>", {type: "file", id: "audio_file", accept: "audio/*"}).change (reload_custom_audio)
     //$("<label>", {"for": "audio_file", text: "Audio file to play"})
-  ),
-  $("<div>", {class: "labeled_input"}).append (
-    
   ),
   $("<div>", {class: "unlabeled_input"}).append (
     $("<input>", {type: "button", id: "audio_sync", value:"Synchronize with visuals"}).click (sync_audio)
   )
 );
 
-function reload_audio () {
+function setup_node (node, buffer) {
+  node.buffer = buffer;
+  node.loop = true;
+  node.start();
+}
+
+function reload_custom_audio () {
   var reader = new FileReader();
   reader.onload = function() {
     audio.decodeAudioData (reader.result).then(function(decoded) {
-      audio_component.buffer = decoded;
-      if (audio_component.node) {
-        audio_component.node.stop();
-      }
-      audio_component.node = audio.createBufferSource();
-      audio_component.node.buffer = audio_component.buffer;
-      audio_component.node.connect (gain);
-      audio_component.node.loop = true;
-      audio_component.node.start();
+      custom_audio_node = audio.createBufferSource();
+      setup_node (custom_audio_node, decoded);
+      $("#audio_custom").prop("checked", true);
+      switch_audio();
     });
   }
   reader.readAsArrayBuffer($("#audio_file")[0].files [0]);
@@ -176,9 +174,52 @@ function sync_audio () {
   audio_component.position = visuals.position;
   audio_component.direction = visuals.direction;
   audio_component.cycles_per_minute = visuals.cycles_per_minute;
-  $("#audio_sinusoidal").prop("checked", $("#visuals_sinusoidal").prop("checked"));
+  $("#audio_"+$("input:radio[name=visuals_waveform]:checked").val()).prop("checked", true);
   $("#audio_speed").val($("#visuals_speed").val());
 }
+
+var audio_presets = {};
+var custom_audio_node;
+
+
+
+function make_preset (id, file) {
+  var node = audio.createBufferSource();
+  audio_presets [id] = node;
+  var request = new XMLHttpRequest();
+  request.open ("GET", "/media/"+file+"?rr", true);
+  request.responseType = 'arraybuffer';
+  
+  request.onload = function() {
+    audio.decodeAudioData (request.response).then(function(decoded) {
+      setup_node (node, decoded);
+      switch_audio();
+    });
+  };
+  request.send();
+}
+
+make_preset ("brown_noise", "brown-noise.wav");
+make_preset ("bird_calls", "bird_calls.mp3");
+make_preset ("water_flowing", "water_flowing.mp3");
+
+function switch_audio() {
+  var choice = $("input:radio[name=audio_file]:checked").val();
+  if (audio_component.node) {
+    audio_component.node.disconnect (gain);
+  }
+  if (audio_presets [choice]) {
+    audio_component.node = audio_presets [choice];
+  }
+  else {
+    audio_component.node = custom_audio_node;
+  }
+  if (audio_component.node) {
+    audio_component.node.connect (gain);
+  }
+}
+
+
 
 
 
