@@ -13,8 +13,9 @@ def add_page(page_dict):
 html,body {background-color: white;}
 #game {position: relative;}
 .game_canvas {position: absolute; height: 100%; width: 100%;}
-p {font-size: 200%; text-align: center;}
-.panel {margin:0.8em auto; padding:0.8em; background-color:#eee;}
+p.disclaimer {font-size: 200%; text-align: center; margin:0.4em 0.8em;}
+#panels {display: flex; justify-content: center; }
+.panel {margin:0.8em; padding:0.8em; background-color:#eee;}
 .panel .labeled_input {margin:0.2em;}
 .panel label {margin-left: 0.2em; margin-right: 0.6em;}
 
@@ -25,7 +26,7 @@ $(function() {
 
 var turn = Math.PI*2;
 var game_element = $("#game");
-var top_bar = $(".top_bar");
+var panels = $("#panels");
 var bottom_bar = $(".bottom_bar");
 $(".bars_inner_box").css ("padding-bottom", 0);
 //var body = $("body");
@@ -41,9 +42,9 @@ var frames_per_second = 60;
 var game_height;
 var game_width;
 function update_dimensions() {
-  var game_top = top_bar.offset().top + top_bar.height();
+  var game_top = panels.offset().top + panels.height();
   var game_bottom = $(window).height() - bottom_bar.height();
-  game_element.height (game_bottom - game_top);
+  game_element.height (Math.max(game_bottom - game_top, $(window).width()/3));
   var width = game_element.width();
   var height = game_element.height();
   game_height = height;
@@ -268,7 +269,7 @@ tick();
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main><div id="content">
       
-      <p>I made this tool to help with ABS (alternating bilateral stimulation) therapy, but I have no expertise in it and only designed this based on third hand information. Use at your own risk!</p>
+      <p class="disclaimer">I made this tool to help with ABS (alternating bilateral stimulation) therapy, but I have no expertise in it and only designed this based on third hand information. Use at your own risk!</p>
       <div id="panels"></div>
       <div id="game"></div>
   </div>
