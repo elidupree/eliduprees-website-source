@@ -239,10 +239,10 @@ function tick() {
   canvas_context.translate (width*0.05, height*0.05);
   canvas_context.scale (width*0.9, height*0.9);
   
+  update_component (visuals);
+  update_component (audio_component);
   
   if ($("#visuals_enabled").prop("checked")) {
-    update_component (visuals);
-    
     canvas_context.beginPath();
     canvas_context.arc (0.5 + visuals.position/2, 0.5, 0.05, 0, turn, true);
     canvas_context.lineWidth = 0.001;
@@ -250,8 +250,6 @@ function tick() {
     close_shape ("rgb(0, 0, 0)", "rgb(0,0,0)");
   }
   if ($("#audio_enabled").prop("checked")) {
-    update_component (audio_component);
-    
     panner.pan.value = audio_component.position;
     gain.gain.value = 1;
   }
