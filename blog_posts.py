@@ -96,7 +96,7 @@ for name,story in long_stories.items():
     #post_dict["path_prefix"] = story["url"]+"/"
     post_dict["long_story_name"] = name
     post_dict["long_story_index"] = index
-    stories.append(post_dict)
+    posts ["stories"].append(post_dict)
     
 for cat,post_list in posts.items():
   for post_dict in post_list:
