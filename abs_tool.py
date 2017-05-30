@@ -14,10 +14,21 @@ html,body {background-color: white;}
 #game {position: relative;}
 .game_canvas {position: absolute; height: 100%; width: 100%;}
 p.disclaimer {font-size: 200%; text-align: center; margin:0.4em 0.8em;}
-#panels {display: flex; justify-content: center; }
+#panels {display: flex; justify-content: center; flex-wrap: wrap; }
 .panel {margin:0.8em; padding:0.8em; background-color:#eee;}
 .panel .labeled_input {margin:0.2em;}
 .panel label {margin-left: 0.2em; margin-right: 0.6em;}
+input[type='checkbox'] {width:2em;height:2em;}
+input[type='radio'] {width:2em;height:2em;}
+input[type='button'] {padding: 0 0.8em;}
+input[type='text'] {width:3em;}
+input {height:2em; vertical-align: middle;}
+label {vertical-align: middle;}
+
+@media screen and (max-width: 30em) {
+  p.disclaimer {font-size: 85%;}
+  #panels { }
+}
 
     </style> 
     <script type="text/javascript">
@@ -27,6 +38,7 @@ $(function() {
 var turn = Math.PI*2;
 var game_element = $("#game");
 var panels = $("#panels");
+var buffer_element = $("#buffer");
 var bottom_bar = $(".bottom_bar");
 $(".bars_inner_box").css ("padding-bottom", 0);
 //var body = $("body");
@@ -42,9 +54,11 @@ var frames_per_second = 60;
 var game_height;
 var game_width;
 function update_dimensions() {
-  var game_top = panels.offset().top + panels.height();
-  var game_bottom = $(window).height() - bottom_bar.height();
-  game_element.height (Math.max(game_bottom - game_top, $(window).width()/3));
+  var bottom_height = bottom_bar.height();
+  var game_top = panels.offset().top + panels.outerHeight();
+  var game_bottom = $(window).height() - bottom_height;
+  game_element.height (Math.max(game_bottom - game_top, $(window).width()/10));
+  buffer_element.height(bottom_height);
   var width = game_element.width();
   var height = game_element.height();
   game_height = height;
@@ -235,15 +249,15 @@ function tick() {
   canvas_context.clearRect (0, 0, width, height);
   
   canvas_context.save();
-  canvas_context.translate (width*0.05, height*0.05);
-  canvas_context.scale (width*0.9, height*0.9);
+  canvas_context.translate (width*0.05, height*(0.5+0.05));
+  canvas_context.scale (width*0.9, height*0.9*4);
   
   update_component (visuals);
   update_component (audio_component);
   
   if ($("#visuals_enabled").prop("checked")) {
     canvas_context.beginPath();
-    canvas_context.arc (0.5 + visuals.position/2, 0.5, 0.05, 0, turn, true);
+    canvas_context.arc (0.5 + visuals.position/2, 0, 0.05, 0, turn, true);
     canvas_context.lineWidth = 0.001;
     
     close_shape ("rgb(0, 0, 0)", "rgb(0,0,0)");
@@ -269,6 +283,7 @@ tick();
       <p class="disclaimer">I made this tool to help with ABS (alternating bilateral stimulation) therapy, but I have no expertise in it and only designed this based on third hand information. Use at your own risk!</p>
       <div id="panels"></div>
       <div id="game"></div>
+      <div id="buffer"></div>
   </div>
 </main>'''), {
   "jQuery_before": True,
