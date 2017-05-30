@@ -64,6 +64,11 @@ function close_shape (fill, stroke) {
 
 var start = Date.now();
 var step = 0;
+var audio = new AudioContext();
+var panner = audio.createStereoPanner();
+var gain = audio.createGain();
+gain.connect (panner);
+panner.connect (audio.destination);
 
 var create_component = function (id, name) {
   var result = {
@@ -112,6 +117,38 @@ function update_component (component) {
 }
 
 var visuals = create_component ("visuals", "Visuals:");
+var audio_component = create_component ("audio", "Audio:");
+audio_component.panel.append (
+  $("<input>", {type: "file", id: "audio_file", accept: "audio/*"}).change (reload_audio),
+  $("<label>", {"for": "audio_file", text: "Audio file to play"}),
+  $("<input>", {type: "button", id: "audio_sync", value:"Synchronize with visuals"}).click (sync_audio)
+);
+
+function reload_audio () {
+  var reader = new FileReader();
+  reader.onload = function() {
+    audio.decodeAudioData (reader.result).then(function(decoded) {
+      audio_component.buffer = decoded;
+      if (audio_component.node) {
+        audio_component.node.stop();
+      }
+      audio_component.node = audio.createBufferSource();
+      audio_component.node.buffer = audio_component.buffer;
+      audio_component.node.connect (gain);
+      audio_component.node.loop = true;
+      audio_component.node.start();
+    });
+  }
+  reader.readAsArrayBuffer($("#audio_file")[0].files [0]);
+}
+
+function sync_audio () {
+  audio_component.position = visuals.position;
+  audio_component.direction = visuals.direction;
+  audio_component.cycles_per_minute = visuals.cycles_per_minute;
+  $("#audio_sinusoidal").prop("checked", $("#visuals_sinusoidal").prop("checked"));
+  $("#audio_speed").val($("#visuals_speed").val());
+}
 
 
 
@@ -139,6 +176,15 @@ function tick() {
     canvas_context.lineWidth = 0.001;
     
     close_shape ("rgb(0, 0, 0)", "rgb(0,0,0)");
+  }
+  if ($("#audio_enabled").prop("checked")) {
+    update_component (audio_component);
+    
+    panner.pan.value = audio_component.position;
+    gain.gain.value = 1;
+  }
+  else {
+    gain.gain.value = 0;
   }
   
   canvas_context.restore();  
