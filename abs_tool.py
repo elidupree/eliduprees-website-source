@@ -188,7 +188,7 @@ function make_preset (id, file) {
   var node = audio.createBufferSource();
   audio_presets [id] = node;
   var request = new XMLHttpRequest();
-  request.open ("GET", "/media/"+file+"?rr", true);
+  request.open ("GET", file, true);
   request.responseType = 'arraybuffer';
   
   request.onload = function() {
@@ -200,9 +200,9 @@ function make_preset (id, file) {
   request.send();
 }
 
-make_preset ("brown_noise", "brown-noise.wav");
-make_preset ("bird_calls", "bird_calls.mp3");
-make_preset ("water_flowing", "water_flowing.mp3");
+make_preset ("brown_noise", "/media/brown-noise.wav?rr");
+make_preset ("bird_calls", "/media/bird_calls.mp3?rr");
+make_preset ("water_flowing", "/media/water_flowing.mp3?rr");
 
 function switch_audio() {
   var choice = $("input:radio[name=audio_file]:checked").val();
