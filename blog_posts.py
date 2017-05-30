@@ -25,8 +25,7 @@ import posts.blog_15
 import posts.not_what_i_am
 import posts.time_travelers
 import posts.the_23_days_cult
-import posts.ravelling_wrath_01
-import posts.ravelling_wrath_02
+import ravelling_wrath.main
 import posts.stories_01
 import posts.uncategorized_01
 
@@ -56,10 +55,17 @@ stories = flatten([
   posts.not_what_i_am.posts,
   posts.time_travelers.posts,
   posts.the_23_days_cult.posts,
-  posts.ravelling_wrath_01.posts,
-  posts.ravelling_wrath_02.posts,
   posts.stories_01.posts,
 ])
+
+long_stories = {
+  "ravelling_wrath": {
+    "title": "Ravelling Wrath",
+    "url": "/ravelling-wrath",
+    "blurb": ravelling_wrath.main.blurb,
+    "pages": ravelling_wrath.main.posts,
+  },
+}
 
 uncategorized_posts = flatten([
   posts.uncategorized_01.posts,
@@ -81,14 +87,33 @@ stories_map = {}
 for story in posts ["stories"]:
   stories_map [story ["title"]] = story
 
+for name,story in long_stories.items():
+  index = 0
+  if "--deploy" in sys.argv:
+    story["pages"] = [post for post in story["pages"] if "don't deploy" not in post]
+  for post_dict in story["pages"]:
+    index = index + 1
+    #post_dict["path_prefix"] = story["url"]+"/"
+    post_dict["long_story_name"] = name
+    post_dict["long_story_index"] = index
+    stories.append(post_dict)
+    
 for cat,post_list in posts.items():
   for post_dict in post_list:
-    post_dict["path_prefix"] = "/" if cat=="" else "/"+cat+"/"
+    if "long_story_name" not in post_dict:
+      post_dict["path_prefix"] = "/" if cat=="" else "/"+cat+"/"
     post_dict["category"] = cat
+    post_dict["word_count"] = utils.word_count (post_dict ["contents"])
     if "auto_paragraphs" in post_dict:
       post_dict ["contents"] = utils.auto_paragraphs (post_dict ["contents"])
     if cat == 'blog':
       post_dict['contents'] += signature
+      
+for name,story in long_stories.items():
+  story["word_count"] = 0
+  for post_dict in story["pages"]:
+    story["word_count"] = story["word_count"] + post_dict["word_count"]
+
 
 css.insert ('''
 a.small_story {display: block; padding: 0.8em 0; color: black; text-decoration: none;}
@@ -102,15 +127,19 @@ def stories_index (full):
   import category_pages
   
   def info (story):
-    words = utils.word_count (story ["contents"])
+    words = story["word_count"]
     return " [" + (story ["word_count_override"] if "word_count_override" in story else str(((words + 50)//100)*100) + " words") + "]"
   
   def big_story (story):
-    if story not in stories_map:
+    if story in stories_map:
+      story = stories_map [story]
+      story ["listed"] = True
+      return category_pages.exhibit (blog.post_permalink (story), "", None, '<h1>' + story ["title"] + '</h1>' + story ["blurb"] + info (story), "Start reading") if full else '<div class=" big_story">' + blog.index_entry_html (story) + '</div>'
+    elif story in long_stories:
+      story = long_stories [story]
+      return category_pages.exhibit (story["url"], "", None, '<h1>' + story ["title"] + '</h1>' + story ["blurb"] + info (story), "Start reading") if full else '<div class=" big_story">' + blog.index_entry_html (story) + '</div>'
+    else:
       return category_pages.exhibit (None, "", None, '<h1>' + story + '</h1>', "Coming Soon...") if full else ''
-    story = stories_map [story]
-    story ["listed"] = True
-    return category_pages.exhibit (blog.post_permalink (story), "", None, '<h1>' + story ["title"] + '</h1>' + story ["blurb"] + info (story), "Start reading") if full else '<div class=" big_story">' + blog.index_entry_html (story) + '</div>'
   
   def small_story (story):
     if story not in stories_map:
@@ -123,7 +152,7 @@ def stories_index (full):
     return category_pages.exhibit (None, "", None, '<h1>' + name + '</h1>' + contents, None) if full else '<div class="index_page_entry">' + name +'</div>' + contents
   
   return (
-  big_story ("Ravelling Wrath, chapter 1") +
+  big_story ("ravelling_wrath") +
   big_story ("Not What I Am") +
   big_story ("Time Travelers and How to Kill Them: a Practical Guide") +
   group ("Short stories",

@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*-
 
 import datetime
+from ravelling_wrath.definitions import *
 
 posts = [
 {
   "title":"Ravelling Wrath, chapter 2",
-  "blurb": "A pair of teenagers get caught up in a conflict between the gods.",
+  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
@@ -17,7 +18,7 @@ posts = [
 
 <p>On the other hand, a big focus of the story is on Rinn's relationship to <em>anger</em>. And I didn't want to center the anger of a sheltered middle-class person when I could just as easily center a poor person's anger. The former wouldn't necessarily make a <em>bad</em> story, but the world could use more stories that empathize with the anger of people who are forced into unjust positions in society.</p>
 
-<p>Eventually I settled with this. Rinn's family has enough wealth to meet zir basic needs, but <em>Rinn</em> has grown up with poor people and is alienated by zir parents' classist attitudes. Ze inherently takes the side of the poor, not because see thinks ze's doing a good deed, but because ze instinctively thinks of them as zir own people. It was very intentional that when Rinn says "real people", ze's referring to poor people.</p>
+<p>Eventually I settled with this. Rinn's family has enough wealth to meet zir basic needs, but <em>Rinn</em> has grown up with poor people and is alienated by zir parents' classist attitudes. Ze inherently takes the side of the poor, not because ze thinks ze's doing a good deed, but because ze instinctively thinks of them as zir own people. It was very intentional that when Rinn says "real people", ze's referring to poor people.</p>
 
   ''',
   "head":'''<style>
@@ -629,7 +630,7 @@ I hugged her tight again, but this time her body was limp and unresponsive. I co
 
 Reluctantly, I grabbed my things and started the long jog home.
 
-It was an easy route, just like I'd said. But being on my feet always helped me feel more stable, and sort things out in my head. And I had a lot to sort out. The Ravelling was coming, in just under two months. And even before that, there were so many preparations we have to make. I had lots more to learn all about the Otherworld and the powers we were going to get. And for Yali's plan… I'd have to figure out some things that could make me mad. What <em>could</em> make me mad?
+It was an easy route, just like I'd said. But being on my feet always helped me feel more stable, and sort things out in my head. And I had a lot to sort out. The Ravelling was coming, in just under two months. And even before that, there were so many preparations we'd have to make. I had lots more to learn all about the Otherworld and the powers we were going to get. And for Yali's plan… I'd have to figure out some things that could make me mad. What <em>could</em> make me mad?
 
 As I ran down the nighttime streets, it all still felt a little unreal to me. But when it came down to it, maybe it wasn't that complicated after all. <em>Protect Yali. Protect myself.</em> When I thought about it that way, it didn't seem so hard to handle.
 

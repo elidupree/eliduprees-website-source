@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*-
 
 import datetime
+from ravelling_wrath.definitions import *
 
 posts = [
 {
   "title":"Ravelling Wrath, chapter 1",
-  "blurb": "A pair of teenagers get caught up in a conflict between the gods. (1 out of 18 chapters completed so far.)",
+  "blurb": blurb,
   "blurb_image": "/media/yali-sketch.png?rr",
   "auto_paragraphs": True,
   "authors_notes":'''

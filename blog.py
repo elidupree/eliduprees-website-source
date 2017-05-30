@@ -615,7 +615,10 @@ def post_permalink(post_dict):
   if "stream_entry" in post_dict:
     return post_dict ["stream_entry"] [0]
   if "parent_story" in post_dict:
-    return "/stories/"+utils.format_for_url(post_dict["parent_story"])+"/discussion"
+    return post_permalink(post_dict["parent_story"])+"/discussion"
+  if "long_story_name" in post_dict:
+    index = post_dict["long_story_index"]
+    return blog_posts.long_stories[post_dict["long_story_name"]]["url"]+("" if index == 1 else "/"+str (index))
   return post_dict["path_prefix"]+url_formatted_title(post_dict)
 
 
@@ -623,7 +626,7 @@ def story_discussion_post (post_dict):
   return {
           "title": post_dict["title"]+": Discussion",
           "contents": '''<p>If you haven't read <a href="'''+post_permalink(post_dict)+'''">'''+post_dict["title"]+'''</a> yet, you should do that before reading further.</p>'''+(post_dict["authors_notes"] if "authors_notes" in post_dict else "<p>There are no author's notes yet.</p>"),
-          "parent_story": post_dict["title"],
+          "parent_story": post_dict,
           "category": "" # Not treated as a story.
         }
 
@@ -892,7 +895,12 @@ def add_fake_comments(html):
   return re.sub(re.escape(utils.inline_separator+'<a href="">Comments&nbsp;(14)</a>'), fake_comment_html, html)
 
 def index_entry_html(post_dict):
-  return '<div class="index_entry"><a class="index_entry_link" href="'+post_permalink(post_dict)+'" title="'+post_dict["title"]+'">'+post_dict["title"]+'</a></div>'
+  # hack so that this can apply to long stories
+  if "url" in post_dict:
+    url = post_dict["url"]
+  else:
+    url = post_permalink(post_dict)
+  return '<div class="index_entry"><a class="index_entry_link" href="'+url+'" title="'+post_dict["title"]+'">'+post_dict["title"]+'</a></div>'
 
 
 def make_blog_page_body(main_contents, sidebar_contents):
@@ -1084,22 +1092,18 @@ def add_individual_post_pages (page_dict, post_dict):
       if "blurb_image" in post_dict:
         extras ["blurb_image"] = post_dict ["blurb_image"]
       utils.make_page (page_dict,
-        post_dict["path_prefix"]+url_formatted_title(post_dict),
+        post_permalink(post_dict),
           title_formatted_title(post_dict)+("" if (category == "") else " ⊂ "+utils.capitalize_string(category))+" ⊂ Eli Dupree's website",
           head, make_blog_page_body(HTML, specific_sidebar_contents), extras
       )
         
       if category == "stories":
         disc_specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''">Return to '''+post_dict["title"]+'''</a>'''+sidebars [category]
-        discussion_post = {
-          "title": post_dict["title"]+": Discussion",
-          "contents": '''<p>If you haven't read <a href="'''+post_permalink(post_dict)+'''">'''+post_dict["title"]+'''</a> yet, you should do that before reading further.</p>'''+(post_dict["authors_notes"] if "authors_notes" in post_dict else "<p>There are no author's notes yet.</p>"),
-          "parent_story": post_dict["title"],
-          "category": "" # Not treated as a story.
-        }
+        
+        discussion_post = story_discussion_post(post_dict)
         (HTML, head) = post_dict_html(discussion_post)
         utils.make_page (page_dict,
-          post_dict["path_prefix"]+url_formatted_title(post_dict)+'/discussion',
+          post_permalink(discussion_post),
             title_formatted_title(discussion_post)+" ⊂ "+utils.capitalize_string(category)+" ⊂ Eli Dupree's website",
             head, make_blog_page_body(HTML, disc_specific_sidebar_contents)
         )
