@@ -64,6 +64,7 @@ long_stories = {
     "url": "/ravelling-wrath",
     "blurb": ravelling_wrath.main.blurb,
     "pages": ravelling_wrath.main.posts,
+    "listed": True,
   },
 }
 
@@ -96,6 +97,8 @@ for name,story in long_stories.items():
     #post_dict["path_prefix"] = story["url"]+"/"
     post_dict["long_story_name"] = name
     post_dict["long_story_index"] = index
+    if "listed" in story:
+      post_dict["listed"] = True
     posts ["stories"].append(post_dict)
     
 for cat,post_list in posts.items():
