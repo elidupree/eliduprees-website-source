@@ -200,7 +200,8 @@ function sync_audio () {
   audio_component.direction = visuals.direction;
   audio_component.cycles_per_minute = visuals.cycles_per_minute;
   $("#audio_"+$("input:radio[name=visuals_waveform]:checked").val()).prop("checked", true);
-  $("#audio_speed").val($("#visuals_speed").val());
+  $("#audio_speed_number").val($("#visuals_speed_number").val());
+  $("#audio_speed_range").val($("#visuals_speed_range").val());
 }
 
 var audio_presets = {};
