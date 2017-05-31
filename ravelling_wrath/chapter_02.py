@@ -10,7 +10,6 @@ posts = [
   "title":"Ravelling Wrath, chapter 2",
   "blurb": blurb,
   "auto_paragraphs": True,
-  "don't deploy": True,
   "authors_notes":'''
 
 <h2>Rinn and social class</h2>
@@ -43,8 +42,6 @@ div.blog_post h2 {
 
   </style>''',
   "contents": '''
-
-<bigbreak>
 
 This chapter contains:
 '''+ content_warning_header ('''<p>Description of anti-gay attitudes; verbally abusive language; brief mention of sexual assault.</p>''')+'''
@@ -205,15 +202,15 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Stern take it, I wasn't hungry until you mentioned food!" I said. Yali chuckled.
 
-"I have some ????? fruit in the fridge. Want some?"
+"I have some sienkah fruit in the fridge. Want some?"
 
 "Aren't those expensive?"
 
-"I'm allowed to have <em>some</em> nice things." Yali got to her feet, walked over to the fridge, and pulled out two ?????s for herself, then looked back at me. She saw me hesitate. "If you don't like them, I also –"
+"I'm allowed to have <em>some</em> nice things." Yali got to her feet, walked over to the fridge, and pulled out two sienkahs for herself, then looked back at me. She saw me hesitate. "If you don't like them, I also –"
 
-"No, I love ?????s! I just never get to have them, are you sure it's okay –"
+"No, I love sienkahs! I just never get to have them, are you sure it's okay –"
 
-"Help yourself!" Yali awkwardly carried over three more ?????s and handed them to me before starting on her own.
+"Help yourself!" Yali awkwardly carried over three more sienkahs and handed them to me before starting on her own.
 
 "Sweet! Thank you so much!" I took a huge bite out of one of them immediately. It was delicious. Before long, I had wolfed down two whole fruits. When I looked up, Yali was still methodically chewing through her first one.
 
@@ -639,7 +636,7 @@ So that was it, then. We just didn't know. 24 hours ago, that would've been a pr
 
 "Anyway," I continued, "is it even okay for me to leave you like this?"
 
-"I'll… recover. Just bring… food." I hurried to bring her another one of the ????. When I got there, she tapped a hand on the couch next to her, meaning for me to leave it there. "Eat… later. Thanks. Now… goodnight hug."
+"I'll… recover. Just bring… food." I hurried to bring her another one of the sienkah fruit. When I got there, she tapped a hand on the couch next to her, meaning for me to leave it there. "Eat… later. Thanks. Now… goodnight hug."
 
 I hugged her tight again, but this time her body was limp and unresponsive. I could tell that my touch didn't mean very much to her when she was like this. I stood up, and, hoping my feelings would reach her, I said, "I love you. Good night."
 
