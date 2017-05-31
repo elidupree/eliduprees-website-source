@@ -21,7 +21,7 @@ p.disclaimer {font-size: 200%; text-align: center; margin:0.4em 0.8em;}
 input[type='checkbox'] {width:2em;height:2em;}
 input[type='radio'] {width:2em;height:2em;}
 input[type='button'] {padding: 0 0.8em;}
-input[type='text'] {width:3em;}
+input[type='number'] {width:3em;}
 input {height:2em; vertical-align: middle;}
 label {vertical-align: middle;}
 
@@ -89,13 +89,23 @@ var gain = audio.createGain();
 gain.connect (panner);
 panner.connect (audio.destination);
 
+var default_cycles = 20;
+
 var create_component = function (id, name) {
   var result = {
     id: id,
     position:0,
     direction:1,
-    cycles_per_minute:20,
+    cycles_per_minute:default_cycles,
   }
+  
+  function range_overrides(){
+    $("#"+id+"_speed_number").val($("#"+id+"_speed_range").val());
+  }
+  function number_overrides(){
+    $("#"+id+"_speed_range").val($("#"+id+"_speed_number").val());
+  }
+  
   result.panel = $("<div>", {class: "panel"});
   result.panel.append (
     $("<label>", {text: name}),
@@ -104,8 +114,9 @@ var create_component = function (id, name) {
       $("<label>", {"for": id+"_enabled", text: "enabled"})
     ),
     $("<div>", {class: "labeled_input"}).append (
-      $("<input>", {type: "text", id: id+"_speed", value: "20"}),
-      $("<label>", {"for": id+"_speed", text: "cycles per minute"})
+      $("<input>", {type: "range", id: id+"_speed_range", value: default_cycles, min: 1, max: 100, step: 1}).on ("input", range_overrides),
+      $("<input>", {type: "number", id: id+"_speed_number", value: default_cycles, min: 1, max: 100, step: 1}).on ("input", number_overrides),
+      $("<label>", {"for": id+"_speed_number", text: "cycles per minute"})
     ),
     $("<div>", {class: "labeled_input"}).append (
       $("<label>", {text: "Waveform:"}),
@@ -120,7 +131,7 @@ var create_component = function (id, name) {
 }
 
 function update_component (component) {
-  var cycle_input = parseFloat($("#"+component.id+"_speed").val());
+  var cycle_input = $("#"+component.id+"_speed_number").val();
   if (cycle_input !== NaN) {
     component.cycles_per_minute = cycle_input;
   }
