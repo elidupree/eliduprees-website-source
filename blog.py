@@ -661,6 +661,11 @@ def date_stringify(d):
   # %- isn't available on Windows, so:
   return re.sub('(?<= )0(?=[0-9])', '', d.strftime("%B %d, %Y"))
 
+def put_in_hover_boxes(comment_list):
+  if len(comment_list) == 0:
+    return ''
+  return '<div class="comment_hover_box"><div class="whole_comment_hover_marker">'+comment_list[0]+'</div>'+put_in_hover_boxes(comment_list[1:])+'</div>'
+
 def do_comments(parent, top_level):
   child_ids = comment_ids_by_parent[parent] if parent in comment_ids_by_parent else []
   html_list = []
@@ -871,6 +876,7 @@ def metadata_and_comments_section_html(title, permalink, taglist, stream_only, m
 </div>''')
   
   
+
 
 
 
