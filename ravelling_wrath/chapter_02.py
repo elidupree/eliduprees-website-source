@@ -12,6 +12,8 @@ posts = [
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
+
+<h2>Rinn and social class</h2>
   
 <p>It took me a long time to decide on Rinn's relationship to social class.</p>
 
@@ -20,6 +22,18 @@ posts = [
 <p>On the other hand, a big focus of the story is on Rinn's relationship to <em>anger</em>. And I didn't want to center the anger of a sheltered middle-class person when I could just as easily center a poor person's anger. The former wouldn't necessarily make a <em>bad</em> story, but the world could use more stories that empathize with the anger of people who are forced into unjust positions in society.</p>
 
 <p>Eventually I settled with this. Rinn's family has enough wealth to meet zir basic needs, but <em>Rinn</em> has grown up with poor people and is alienated by zir parents' classist attitudes. Ze inherently takes the side of the poor, not because ze thinks ze's doing a good deed, but because ze instinctively thinks of them as zir own people. It was very intentional that when Rinn says "real people", ze's referring to poor people.</p>
+
+
+<h2>Promise theory</h2>
+
+<p>Continuing the discussion of <a href="/blog/how-to-write-cliffhangers-a-theory-of-writing">promise theory</a> from the <a href="/ravelling-wrath/discussion">previous chapter's commentary</a>.</p>
+
+<p>Dialogue is pretty good at generating short-term promises naturally, so I didn't have to think about that aspect too much in this chapter. My main intentional promise within this chapter was the promise to have Yali use zir magic power at the end.</p>
+
+<p>This chapter <em>doesn't</em> end in a cliffhanger. In fact, it's a very straightforward example of the "non-cliffhanger style" that I described in the last commentary. The last few paragraphs directly outline some of the important promises for the next few chapters.</p>
+
+<p>You don't always need to do it so directly. Some stories very cleverly set up their promises by implication over the course of the whole chapter. Either style is valid. With Ravelling Wrath specifically, I'm aiming for an easier reading level, so I prefer to be clear and direct about things.</p> 
+
 
   ''',
   "head":'''<style>
