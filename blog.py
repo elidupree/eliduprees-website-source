@@ -324,6 +324,13 @@ a.blog_Patreon_appeal {
 .MailChimp_form .button {border: 0 none; border-radius:0.25em; height:  2em; cursor: pointer; transition: all 0.23s ease-in-out 0s; background-color: #777; color: white;}
 .MailChimp_form .button:hover {background-color: #444;}
 
+.long_story_navbar a.previous, .long_story_navbar a.next { font-size: 150%;}
+.long_story_navbar .row {display: flex; justify-content: space-between; align-items: center; padding: 0.2em 0;}
+.long_story_navbar .row.bottom{ font-size: 110%; justify-content: space-around;}
+.long_story_navbar .previous, .long_story_navbar .next, .long_story_navbar .first, .long_story_navbar .commentary{max-width: 47%;}
+.long_story_navbar .next, .long_story_navbar .commentary{text-align: right;}
+.long_story_navbar .previous, .long_story_navbar .first{text-align: left;}
+
 div.transcript_block {border: 1px solid black;}
 div.transcript_header {padding:0.5em;}
 div.transcript_content {padding:0.5em; border-top:1px dashed black;}
@@ -703,7 +710,11 @@ def comments_section(parent):
 
 
 def post_dict_html(post_dict, stream_only = False):
-  (body, head) = post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories", allow_comments = ("disallow_comments" not in post_dict), Patreon_type = ("story" if (post_dict["category"] == "stories" or "parent_story" in post_dict) else "blog"))
+  contents =post_dict["contents"]
+  if "long_story_name" in post_dict:
+    bar = long_story_navbar (post_dict)
+    contents = bar + "<bigbreak>"+ contents + "<bigbreak>"+  bar
+  (body, head) = post_html(contents, post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories", allow_comments = ("disallow_comments" not in post_dict), Patreon_type = ("story" if (post_dict["category"] == "stories" or "parent_story" in post_dict) else "blog"))
   if "head" in post_dict:
     head = head + post_dict ["head"]
   return (body, head)  
@@ -729,6 +740,34 @@ def stream_entry (post):
   else:
     return (very_stream_entry (post), "")
 
+def long_story_navbar(post):
+  metadata = post_metadata (post)
+  index = post["long_story_index"]
+  story = blog_posts.long_stories [post["long_story_name"]]
+  previous = ""
+  page = story ["pages"] [0]
+  first = 'First: '+ page ["title"]
+  
+  if index > 1:
+    first = '<a class="long_story_adjacent first" href="'+ post_permalink (page)+'">'+ first  +'</a>'
+    page = story ["pages"] [index - 2]
+    previous = '<a class="long_story_adjacent previous" href="'+ post_permalink (page)+'">Previous: '+ page ["title"] +'</a>'
+  
+  if index < len(story ["pages"]):
+    page = story ["pages"] [index]
+    next = '<a class="long_story_adjacent next" href="'+ post_permalink (page)+'">Next: '+ page ["title"] +'</a>'
+  else:
+    next = '''<div class="complete_comic">This story is complete. </div>''' if "complete" in metadata else MailChimp_form_labeled ("This is the last chapter so far! Follow elidupree.com by email for future updates:")
+    
+  page = story_discussion_post (post)
+  commentary = '<a class="long_story_adjacent commentary" href="'+ post_permalink (page)+'''">Author's notes and comments for this chapter</a>'''
+  
+  return '''<div class="long_story_navbar">
+  <div class="row top"><div class="previous">'''+previous +'''</div>
+  <div class="next">'''+ next +'''</div></div>
+  <div class="row bottom"><div class="first">'''+ first +'''</div>
+  <div class="commentary">'''+ commentary +'''</div></div>
+</div>'''
 
 def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True, allow_comments = True, Patreon_type = "blog"):
   head = []
