@@ -445,6 +445,7 @@ manual_redirects = {
   "undyne": "/some-thoughts-about-undyne-the-character-from-the-game-undertale",
   
   "stories/ravelling-wrath-chapter-1": "/ravelling-wrath",
+  "stories/ravelling-wrath-chapter-1/discussion": "/ravelling-wrath/discussion",
 }
 
 def add_redirects(page_dict):
