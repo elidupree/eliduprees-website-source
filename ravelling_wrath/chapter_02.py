@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import datetime
+from post_contents_utils import *
 from ravelling_wrath.definitions import *
 
 posts = [
@@ -29,8 +30,10 @@ div.blog_post h2 {
   </style>''',
   "contents": '''
 
-????? Content warnings need fixing
-<content_warning_header((this chapter includes verbally abusive language))>
+<bigbreak>
+
+This chapter contains:
+'''+ content_warning_header ('''<p>Description of anti-gay attitudes; verbally abusive language; brief mention of sexual assault.</p>''')+'''
 
 <bigbreak>
   

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import datetime
+from post_contents_utils import *
 
 posts = [
 {
@@ -12,11 +13,15 @@ posts = [
 <p style="font-size: 200%; text-align: center">a novella</p>
 <p style="font-size: 150%; text-align: center">by Eli Dupree</p>
 <bigbreak>
-<content_warning_header((
-    <li>Sex with questionable consent (in sections 9 and 12 (out of 17))</li>
-    <li>Domestic abuse (section 10)</li>
-    <li>Details of a person's psychological reaction to trauma (section 17)</li>
-  ))>
+<p>This story contains:</p>
+'''+ content_warning_header ('''
+<ul>
+  <li>Sex with questionable consent (in sections 9 and 12 (out of 17))</li>
+  <li>Domestic abuse (section 10)</li>
+  <li>Details of a person's psychological reaction to trauma (section 17)</li>
+</ul>
+<p>Notices will also appear in-context in the story, just before the material appears.</p>''')
++'''
 <bigbreak>
 <h2 style="text-align: center">1.</h2>
 <p>&quot;Let's
@@ -1146,7 +1151,9 @@ Dad, anyway, I want Rose. I don't want to calm down. I don't want to
 see a psychiatrist. I hate being here.</p>
 <bigbreak>
 <h2 style="text-align: center">9.</h2>
-<content_warning_p((sex with questionable consent))>
+'''+ content_warning_section ('''
+sex with questionable consent''')
++'''
 <p>It's
 another few days before I get a chance to see Rose outside of school
 again. It's already more than halfway through the fourth quarter, on
@@ -1340,7 +1347,9 @@ maybe it's just Rose who thinks that. Either way, it looks like Rose
 wants me to come, so I start getting dressed and ready to go.</p>
 <bigbreak>
 <h2 style="text-align: center">10.</h2>
-<content_warning_p((domestic abuse))>
+'''+ content_warning_section ('''
+domestic abuse''')
++'''
 <p>It's
 starting to get dark when we get to Leah's house. Rose and I walk up
 to the front door and ring the doorbell. A call of &quot;Come in!&quot;
@@ -1586,7 +1595,9 @@ titles of the books on the bookshelf than to whatever Dr. Fawcett is
 going to say next. I don't want to be here.</p>
 <bigbreak>
 <h2 style="text-align: center">12.</h2>
-<content_warning_p((sex with questionable consent))>
+'''+ content_warning_section ('''
+sex with questionable consent''')
++'''
 <p>The
 crowd thunders in the stands above us. The high school girls' soccer
 team is facing off against the team from a nearby town. It's not a
@@ -1981,7 +1992,9 @@ away and I roll over and go back to sleep, with the bed sheets
 wrapped all about me.</p>
 <bigbreak>
 <h2 style="text-align: center">17.</h2>
-<content_warning_p((details of a person's psychological reaction to trauma))>
+'''+ content_warning_section ('''
+details of a person's psychological reaction to trauma''')
++'''
 <p>I
 wake again before dawn. Rose is gone and I'm restless. I haul myself
 out of bed and step out into the hall.</p>

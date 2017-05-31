@@ -701,20 +701,6 @@ def comments_section(parent):
   </div>
 '''
 
-def hidden_cw_box(contents):
-  return '''<div class="hidden_cw_box">
-    <a href="javascript:;" class="enable_content_warnings_button reveal_cw_button">Reveal content warnings</a>
-    <div class="hidden_cws">
-      '''+contents+'''
-      <a class="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
-    </div>
-  </div>'''
-
-def secondary_hidden_cw_box(contents):
-  return '''<div class="hidden_cw_box secondary">
-    '''+contents+'''
-    <a class="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
-  </div>'''
 
 def post_dict_html(post_dict, stream_only = False):
   (body, head) = post_html(post_dict["contents"], post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories", allow_comments = ("disallow_comments" not in post_dict), Patreon_type = ("story" if (post_dict["category"] == "stories" or "parent_story" in post_dict) else "blog"))
@@ -748,27 +734,7 @@ def post_html(contents, title, permalink, taglist, stream_only, metadata, scruti
   head = []
   post_content = blog_server_shared.postprocess_post_string(contents, metadata["id"], title, False, scrutinize)[0]
   
-  before_content_warnings = post_content
-  
-  content_warning_header_regex = re.compile(r"<content_warning_header"+blog_server_shared.grouped_string_regex("content_warning_header_contents")+">", re.DOTALL)
-  post_content = content_warning_header_regex.sub(lambda match: ('''
-
-<div class="story_content_warning_header">
-  <p>This story contains:</p>
-  '''+hidden_cw_box('''
-  <ul>
-    '''+match.group("content_warning_header_contents")+'''
-  </ul>
-  <p>Notices will also appear in-context in the story, just before the material appears.</p>
-  <p>If you see other material that should be marked (such as common triggers or phobias), '''+exmxaxixl.a('e-mail me')+'''. I am serious about web accessibility, and I will respond to your concerns as soon as I can manage.</p>
-  ''')+'''
-</div>'''), post_content)
-
-  content_warning_p_regex = re.compile(r"<content_warning_p"+blog_server_shared.grouped_string_regex("content_warning_p_contents")+">", re.DOTALL)
-  post_content = content_warning_p_regex.sub(lambda match: secondary_hidden_cw_box('This section depicts '+match.group("content_warning_p_contents")+'.'), post_content)
-  
-  if post_content != before_content_warnings:
-    head.append ("<script>window.elidupree.handle_content_warnings('"+ metadata ["id"]+"', false)</script>" )
+  head.append ("<script>window.elidupree.handle_content_warnings ('"+ metadata ["id"]+"', false)</script>" )
 
   next_transcript_number = 1
   while True:
