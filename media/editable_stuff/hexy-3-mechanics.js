@@ -422,6 +422,37 @@
     success: "#ffff00"
   };
   
+  function placement_results (tile, paths) {
+    var paths_by_legality={};
+    paths.forEach(function(path) {
+      var legality = path_legality (path, tile);
+      paths_by_legality[legality] = paths_by_legality[legality] || [];
+      paths_by_legality[legality].push(path);
+    });
+    if (paths_by_legality.forbidden) {
+      return {
+        legality: "forbidden",
+        relevant_paths: paths_by_legality.forbidden
+      };
+    }
+    if (paths_by_legality.success) {
+      return {
+        legality: "success",
+        relevant_paths: paths_by_legality.success
+      };
+    }
+    if (paths_by_legality.waste) {
+      return {
+        legality: "forbidden",
+        relevant_paths: paths_by_legality.waste
+      };
+    }
+    return {
+      legality: "acceptable",
+      relevant_paths: paths_by_legality.acceptable
+    };
+  }
+  
   
   function create_random_tile (game_state) {
     var choose_icon = Math.random() < 0.8;

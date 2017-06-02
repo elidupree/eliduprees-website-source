@@ -258,6 +258,7 @@ button {
 <style>
 
 .game {display: block; margin: 0 auto;}
+#message_area {background-color:#ffaaaa; padding: 0.5em; }
 .tile {
   transition-duration: 0.6s;
 }

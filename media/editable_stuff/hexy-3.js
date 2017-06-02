@@ -100,10 +100,25 @@ function move_to_nearest_hex (tile) {
   tile.vertical = Math.round((tile.vertical-adjustment)/2)*2+adjustment;
 }
 
-
+function move_towards (value, target, speed) {
+  if (value === undefined) {return target;}
+  if (Math.abs (value - target) <speed) {return target;}
+  if (value >target) {return value - speed;}
+  return value + speed;
+}
 
 function draw_game (game) {
   var drawn = drawn_games [game.id];
+  
+  function get_floating_tile_paths() {
+    if (get_tile (game.tiles, drawn.floating_tile)) { return []; }
+    // set temporarily in order to collect paths
+    set_tile (drawn.tiles, drawn.floating_tile);
+    var result = collect_paths (drawn.tiles, drawn.floating_tile);
+    remove_tile (drawn.tiles, drawn.floating_tile);
+    return result;
+  }
+  
   if (drawn === undefined) {
     drawn_games [game.id] = drawn = {tiles:{}};
     drawn.svg = create_("svg", {id:"game_"+game.id, class:"game" });
@@ -123,12 +138,11 @@ function draw_game (game) {
     
     // click event doesn't work...?
     drawn.svg.addEventListener("mouseup", function (event) {
-      var position ={
-        horizontal: drawn.mouse_horizontal,
-        vertical: drawn.mouse_vertical
+      if (!get_tile (game.tiles, drawn.floating_tile)) {
+        if (placement_results (drawn.floating_tile, get_floating_tile_paths()).legality !== "forbidden") {
+          place_floating_tile (game, drawn.floating_tile);
+        }
       }
-      move_to_nearest_hex (position);
-      place_floating_tile (game, position);
     });
   }
   
@@ -163,40 +177,48 @@ function draw_game (game) {
     }
   });
   
-  var message_area = $("<div>", {id:"message_area"});
+  var message_area = $("<div>", {id:"message_area", class:"draw_game_temporary_"+game.id});
+  $("#content"). append (message_area) ;
   
   if (game.floating_tile) {
     var tile = game.floating_tile;
-    var drawn_tile = create_drawn_tile (tile);
-    drawn_tile.element.classList.add("draw_game_temporary_"+game.id);
-    drawn_tile.horizontal = drawn.mouse_horizontal;
-    drawn_tile.vertical = drawn.mouse_vertical;
-    position_drawn_tile (drawn_tile);
-    clear_paths (drawn_tile);
-    drawn.board.appendChild (drawn_tile.element);
+    drawn.floating_tile = create_drawn_tile (tile);
+    drawn.floating_tile.element.classList.add("draw_game_temporary_"+game.id);
+    drawn.floating_tile.horizontal = drawn.mouse_horizontal;
+    drawn.floating_tile.vertical = drawn.mouse_vertical;
+    position_drawn_tile (drawn.floating_tile);
+    clear_paths (drawn.floating_tile);
+    drawn.board.appendChild (drawn.floating_tile.element);
     
-    move_to_nearest_hex (drawn_tile);
+    move_to_nearest_hex (drawn.floating_tile);
     
-    // set temporarily in order to collect paths
-    set_tile (drawn.tiles, drawn_tile);
-    collect_paths (drawn.tiles, drawn_tile).forEach(function(path) {
-      var fill = legality_fill [path_legality (path, drawn_tile)];
+    var location_indicator = create_drawn_tile ({ horizontal: drawn.floating_tile.horizontal, vertical: drawn.floating_tile.vertical, tile_id: blank_hex_id, rotation: 0, graphical_rotation: 0 });
+    location_indicator.element.style.setProperty ("opacity", "0.3");
+    position_drawn_tile (location_indicator);
+    location_indicator.element.classList.add("draw_game_temporary_"+game.id);
+        drawn.board.insertBefore (location_indicator.element, drawn.board.firstChild);
+    
+    var paths = get_floating_tile_paths();
+    paths.forEach(function(path) {
+      var fill = legality_fill [path_legality (path, drawn.floating_tile)];
       path.components.forEach(function(component) {
         fill_component (component.tile, component.from, component.towards, fill);
       });
     });
-    remove_tile (drawn.tiles, drawn_tile);
+    var results = placement_results (drawn.floating_tile, paths);
+    message_area.append (results.legality) ;
   }
   
-  drawn.min_horizontal = min_horizontal;
-  drawn.max_horizontal = max_horizontal;
-  drawn.min_vertical = min_vertical;
-  drawn.max_vertical = max_vertical;
-  var width = max_horizontal - min_horizontal;
-  var height = max_vertical - min_vertical;
+  var speed = 2;
+  drawn.min_horizontal = move_towards (drawn.min_horizontal, min_horizontal, speed);
+  drawn.max_horizontal = move_towards (drawn.max_horizontal, max_horizontal, speed);
+  drawn.min_vertical = move_towards (drawn.min_vertical, min_vertical, speed);
+  drawn.max_vertical = move_towards (drawn.max_vertical, max_vertical, speed);
+  var width = drawn.max_horizontal - drawn.min_horizontal;
+  var height = drawn.max_vertical - drawn.min_vertical;
   drawn.svg.setAttribute("width", width);
   drawn.svg.setAttribute("height", height);
-  drawn.board.style.setProperty ("transform", "translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)");
+  drawn.board.style.setProperty ("transform", "translate(" + (-drawn.min_horizontal) + "px, "+ (-drawn.min_vertical) + "px)");
   
 }
 
