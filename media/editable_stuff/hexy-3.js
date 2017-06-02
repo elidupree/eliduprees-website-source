@@ -88,7 +88,7 @@ function calculate_transform (id, horizontal, vertical, rotation) {
 
 
 function position_drawn_tile (tile) {
-  var CSS = calculate_transform (tile.tile_id, tile.horizontal, tile.vertical, tile.rotation);
+  var CSS = calculate_transform (tile.tile_id, tile.horizontal, tile.vertical, tile.graphical_rotation);
   tile.element.style.setProperty ("transform", CSS.transform);
   tile.element.style.setProperty ("transform-origin", CSS.transformOrigin);
 }
@@ -128,6 +128,7 @@ function draw_game (game) {
     
     drawn.mouse_horizontal = 0;
     drawn.mouse_vertical = 0;
+    drawn.rotation = drawn.rotation_target = 0;
     drawn.svg.addEventListener("mousemove", function (event) {
       var offset = $(drawn.svg).offset();
       var mouse_X = event.pageX - offset.left;
@@ -138,11 +139,18 @@ function draw_game (game) {
     
     // click event doesn't work...?
     drawn.svg.addEventListener("mouseup", function (event) {
-      if (!get_tile (game.tiles, drawn.floating_tile)) {
+      if (event.button == 0 && game.floating_tile && drawn.floating_tile && !get_tile (game.tiles, drawn.floating_tile)) {
         if (placement_results (drawn.floating_tile, get_floating_tile_paths()).legality !== "forbidden") {
           place_floating_tile (game, drawn.floating_tile);
         }
       }
+    });
+    
+    drawn.svg.addEventListener("contextmenu", function (event) {
+      if (game.floating_tile && drawn.floating_tile) {
+        drawn.rotation_target++;
+      }
+      event.preventDefault();
     });
   }
   
@@ -180,12 +188,16 @@ function draw_game (game) {
   var message_area = $("<div>", {id:"message_area", class:"draw_game_temporary_"+game.id});
   $("#content"). append (message_area) ;
   
-  if (game.floating_tile) {
+  if (!game.floating_tile) {
+    delete drawn.floating_tile;
+  }
+  else {
     var tile = game.floating_tile;
     drawn.floating_tile = create_drawn_tile (tile);
     drawn.floating_tile.element.classList.add("draw_game_temporary_"+game.id);
     drawn.floating_tile.horizontal = drawn.mouse_horizontal;
     drawn.floating_tile.vertical = drawn.mouse_vertical;
+    drawn.floating_tile.rotation = Math.round(drawn.floating_tile.graphical_rotation = drawn.rotation) % 6;
     position_drawn_tile (drawn.floating_tile);
     clear_paths (drawn.floating_tile);
     drawn.board.appendChild (drawn.floating_tile.element);
@@ -206,7 +218,12 @@ function draw_game (game) {
       });
     });
     var results = placement_results (drawn.floating_tile, paths);
-    message_area.append (results.legality) ;
+    if (results.legality === "forbidden") {
+      message_area.append ("You can't place the tile there because...") ;
+    }
+    if (results.legality === "success") {
+      message_area.append ("If you place the tile there, it will cause…") ; 
+    }
   }
   
   var speed = 2;
@@ -214,6 +231,7 @@ function draw_game (game) {
   drawn.max_horizontal = move_towards (drawn.max_horizontal, max_horizontal, speed);
   drawn.min_vertical = move_towards (drawn.min_vertical, min_vertical, speed);
   drawn.max_vertical = move_towards (drawn.max_vertical, max_vertical, speed);
+  drawn.rotation = move_towards (drawn.rotation, drawn.rotation_target, 0.1);
   var width = drawn.max_horizontal - drawn.min_horizontal;
   var height = drawn.max_vertical - drawn.min_vertical;
   drawn.svg.setAttribute("width", width);
