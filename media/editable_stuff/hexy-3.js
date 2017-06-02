@@ -111,6 +111,15 @@ function draw_game (game) {
     drawn.svg.appendChild (drawn.board);
     document.getElementById("content").appendChild (drawn.svg);
     
+    drawn.mouse_horizontal = 0;
+    drawn.mouse_vertical = 0;
+    $(drawn.svg).mousemove (function (event) {
+      var offset = $(drawn.svg).offset();
+      var mouse_X = event.pageX - offset.left;
+      var mouse_Y = event.pageY - offset.top;
+      drawn.mouse_horizontal = (mouse_X + drawn.min_horizontal)/(long_radius*1.5);
+      drawn.mouse_vertical = (mouse_Y + drawn.min_vertical)/short_radius;
+    });
   }
   
   $(".draw_game_temporary_"+game.id).remove();
@@ -134,9 +143,9 @@ function draw_game (game) {
       drawn_tile = create_drawn_tile (tile);
       set_tile (drawn.tiles, drawn_tile);
       position_drawn_tile (drawn_tile);
-      clear_paths (drawn_tile);
       drawn.board.appendChild (drawn_tile.element);
     }
+    clear_paths (drawn_tile);
     
     for (var direction = 0; direction <6 ;++direction) {
       var neighbor = in_direction (tile, direction);
@@ -146,12 +155,12 @@ function draw_game (game) {
   
   var message_area = $("<div>", {id:"message_area"});
   
-  if (game.state === "placing_tile") {
+  if (game.floating_tile) {
     var tile = game.floating_tile;
     var drawn_tile = create_drawn_tile (tile);
-    drawn_tile.classList.add("draw_game_temporary_"+game.id);
-    drawn_tile.horizontal = 0;
-    drawn_tile.vertical = 0;
+    drawn_tile.element.classList.add("draw_game_temporary_"+game.id);
+    drawn_tile.horizontal = drawn.mouse_horizontal;
+    drawn_tile.vertical = drawn.mouse_vertical;
     position_drawn_tile (drawn_tile);
     clear_paths (drawn_tile);
     drawn.board.appendChild (drawn_tile.element);
@@ -163,12 +172,16 @@ function draw_game (game) {
     collect_paths (drawn.tiles, drawn_tile).forEach(function(path) {
       var fill = legality_fill [path_legality (path, drawn_tile)];
       path.components.forEach(function(component) {
-        fill_component (component.tile, component.from, component.towards, fill); will
+        fill_component (component.tile, component.from, component.towards, fill);
       });
     });
     remove_tile (drawn.tiles, drawn_tile);
   }
   
+  drawn.min_horizontal = min_horizontal;
+  drawn.max_horizontal = max_horizontal;
+  drawn.min_vertical = min_vertical;
+  drawn.max_vertical = max_vertical;
   var width = max_horizontal - min_horizontal;
   var height = max_vertical - min_vertical;
   drawn.svg.setAttribute("width", width);
