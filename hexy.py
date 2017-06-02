@@ -250,4 +250,51 @@ button {
      <script type="text/babel" src="/media/hexy-react.js?rr">
 '''}
   )
+  
+  utils.make_page (page_dict,
+    '/hexy-future-3',
+      "Hexy Bondage ⊂ Eli Dupree's website",
+      r'''
+<style>
+
+.game {display: block; margin: 0 auto;}
+.tile {
+  transition-duration: 0.6s;
+}
+.rotation_arrow {
+  --arrow-fill: #ffffff;
+}
+.rotation_arrow:hover {
+  --arrow-fill: #ffff00;
+}
+button {
+  font-size: 120%;
+  padding: 3px 5px;
+  border:2px solid black;
+  border-radius:5px;
+}
+
+</style>
+''',
+      '''<a class="skip" href="#content">Skip to content</a>
+      '''+bars.bars_wrap({"games":True}, '''<main>
+  <div id="content">
+    <!-- <div id="messages"></div> -->
+    
+    <!-- <div id="tile_controls"></div> -->
+  </div>
+  '''+ trimmed_svg+'''
+</main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
+
+     <script type="text/javascript" src="/media/lodash.min.js?rr"></script>
+
+     <script type="text/javascript">
+       window.hexy_tile_ids = ['''+ (",".join (['"'+id+'"' for id in tile_ids])) +''']
+     </script>
+     
+     <script type="text/javascript" src="/media/hexy-3-mechanics.js?rr"></script>
+     <script type="text/javascript" src="/media/hexy-3.js?rr"></script>
+'''}
+  )
+
 

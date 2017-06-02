@@ -1,26 +1,34 @@
+"use strict";
 
-var drawn_games = {}
+var drawn_games = {};
+
+function create_(tag, attributes) {
+  var result = document.createElementNS("http://www.w3.org/2000/svg", tag);
+  if (attributes) { Object.getOwnPropertyNames (attributes).forEach(function(name) {
+    result.setAttribute(name, attributes [name]);
+  }); }
+  return result;
+}
 
 function create_drawn_tile (tile) {
-  var drawn_tile = Object.extend({}, tile};
-  drawn_tile.element = create_ ("g");
-  set_link (drawn_tile.element, tile.tile_id);
+  var drawn_tile = _.clone(tile);
+  drawn_tile.element = create_ ("use");
+  set_link (drawn_tile.element, "#"+tile.tile_id);
+  drawn_tile.element.classList.add("tile");
+  
   if (tile.player) {
-    drawn_tile.element.style.setProperty ("--icon-fill", player.fill);
-    drawn_tile.element.style.setProperty ("--icon-stroke", player.stroke);
+    drawn_tile.element.style.setProperty ("--icon-fill", tile.player.fill);
+    drawn_tile.element.style.setProperty ("--icon-stroke", tile.player.stroke);
   }
   return drawn_tile;
 }
 
-function position_drawn_tile (drawn_tile) {
-
-}
 
 function clear_paths (tile) {
       function do_connection (identifier) {
         tile.element.style.setProperty ("--path-fill-" + identifier, "#808080");
       }
-      get_tile_info (tile.element).connections.forEach(function(connection, index) {
+      info_by_tile_id[tile.tile_id].connections.forEach(function(connection, index) {
         if (typeof connection == "number") {
           if (index <connection) {
             do_connection (index + "-" + connection);
@@ -67,6 +75,7 @@ function neutral_transform (id) {
     var transform = "translate("+ (-(offset_horizontal))+"px, "+ (-(offset_vertical))+"px)";
     return {"transformOrigin": transform_origin, transform: transform}
 }
+
 function calculate_transform (id, horizontal, vertical, rotation) {
     var result = neutral_transform (id);
     
@@ -77,6 +86,13 @@ function calculate_transform (id, horizontal, vertical, rotation) {
     return result
 }
 
+
+function position_drawn_tile (tile) {
+  var CSS = calculate_transform (tile.tile_id, tile.horizontal, tile.vertical, tile.rotation);
+  tile.element.style.setProperty ("transform", CSS.transform);
+  tile.element.style.setProperty ("transform-origin", CSS.transformOrigin);
+}
+
 function move_to_nearest_hex (tile) {
   // this can be improved
   tile.horizontal = Math.round(tile.horizontal);
@@ -84,17 +100,34 @@ function move_to_nearest_hex (tile) {
   tile.vertical = Math.round((tile.vertical-adjustment)/2)*2+adjustment;
 }
 
+
+
 function draw_game (game) {
   var drawn = drawn_games [game.id];
   if (drawn === undefined) {
-    drawn_games [game.id] = drawn = {};
-    drawn.svg = create_("svg", {id="game_"..game.id, class="game" });
+    drawn_games [game.id] = drawn = {tiles:{}};
+    drawn.svg = create_("svg", {id:"game_"+game.id, class:"game" });
     drawn.board = create_ ("g");
     drawn.svg.appendChild (drawn.board);
+    document.getElementById("content").appendChild (drawn.svg);
+    
   }
   
-  $(".draw_game_temporary_"..game.id).remove();
+  $(".draw_game_temporary_"+game.id).remove();
   
+  
+      var min_horizontal = 0;
+      var max_horizontal = 0;
+      var min_vertical = 0;
+      var max_vertical = 0;
+      function include (location) {
+        var position = tile_position (location);
+        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius*2);
+        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius*2);
+        min_vertical = Math.min (min_vertical , position.vertical - short_radius*2);
+        max_vertical = Math.max(max_vertical , position.vertical + short_radius*2);
+      }
+      
   game.anchored_tiles.forEach(function(tile) {
     var drawn_tile = get_tile (drawn.tiles, tile);
     if (drawn_tile === undefined) {
@@ -104,15 +137,21 @@ function draw_game (game) {
       clear_paths (drawn_tile);
       drawn.board.appendChild (drawn_tile.element);
     }
+    
+    for (var direction = 0; direction <6 ;++direction) {
+      var neighbor = in_direction (tile, direction);
+      include (neighbor);
+    }
   });
   
-  var message_area = $("<div>", {id="message_area"});
+  var message_area = $("<div>", {id:"message_area"});
   
   if (game.state === "placing_tile") {
     var tile = game.floating_tile;
     var drawn_tile = create_drawn_tile (tile);
-    drawn_tile.classList.add("draw_game_temporary_"..game.id);
-    drawn_tile.horizontal = ????
+    drawn_tile.classList.add("draw_game_temporary_"+game.id);
+    drawn_tile.horizontal = 0;
+    drawn_tile.vertical = 0;
     position_drawn_tile (drawn_tile);
     clear_paths (drawn_tile);
     drawn.board.appendChild (drawn_tile.element);
@@ -130,12 +169,20 @@ function draw_game (game) {
     remove_tile (drawn.tiles, drawn_tile);
   }
   
+  var width = max_horizontal - min_horizontal;
+  var height = max_vertical - min_vertical;
+  drawn.svg.setAttribute("width", width);
+  drawn.svg.setAttribute("height", height);
+  drawn.board.style.setProperty ("transform", "translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)");
   
 }
+
 
 
 function tick() {
+  requestAnimationFrame (tick);
   
+  draw_game (global_game) ;
 }
-
+tick();
 
