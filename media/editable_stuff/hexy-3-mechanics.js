@@ -521,6 +521,17 @@
     begin_turn (game);
     return game;
   }
+  
+  function place_floating_tile(game, location) {
+      game.floating_tile.horizontal = location.horizontal;
+      game.floating_tile.vertical = location.vertical;
+      game.anchored_tiles.push (game.floating_tile);
+      set_tile (game.tiles, game.floating_tile) ;
+      delete game.floating_tile;
+        
+      game.current_player.played_yet = true;
+      begin_turn (game);
+    }
     /*
     move_floating_tile(location) {
       var that = this;
@@ -551,18 +562,7 @@
       });};
     }
     
-    place_floating_tile() {
-      var that = this;
-      return function () {that.setState (function (state, props) {
-        state = _.cloneDeep (state);
-        var floating_tile = state.tiles [state.tiles.length - 1];
-        
-        state.current_player.played_yet = true;
-        begin_turn (state);
-        
-        return state;
-      });}
-    }
+
     
     dismiss_message() {
       var that = this;

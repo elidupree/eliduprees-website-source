@@ -113,12 +113,22 @@ function draw_game (game) {
     
     drawn.mouse_horizontal = 0;
     drawn.mouse_vertical = 0;
-    $(drawn.svg).mousemove (function (event) {
+    drawn.svg.addEventListener("mousemove", function (event) {
       var offset = $(drawn.svg).offset();
       var mouse_X = event.pageX - offset.left;
       var mouse_Y = event.pageY - offset.top;
       drawn.mouse_horizontal = (mouse_X + drawn.min_horizontal)/(long_radius*1.5);
       drawn.mouse_vertical = (mouse_Y + drawn.min_vertical)/short_radius;
+    });
+    
+    // click event doesn't work...?
+    drawn.svg.addEventListener("mouseup", function (event) {
+      var position ={
+        horizontal: drawn.mouse_horizontal,
+        vertical: drawn.mouse_vertical
+      }
+      move_to_nearest_hex (position);
+      place_floating_tile (game, position);
     });
   }
   
