@@ -3,6 +3,7 @@
 
 import ravelling_wrath.chapter_01
 import ravelling_wrath.chapter_02
+import ravelling_wrath.chapter_03
 import ravelling_wrath.definitions
 
 blurb = ravelling_wrath.definitions.blurb
@@ -14,4 +15,5 @@ def flatten(l):
 posts = flatten([
   ravelling_wrath.chapter_01.posts,
   ravelling_wrath.chapter_02.posts,
+  ravelling_wrath.chapter_03.posts,
 ])
