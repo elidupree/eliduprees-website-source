@@ -258,7 +258,16 @@ button {
 <style>
 
 .game {display: block; margin: 0 auto;}
-#message_area {background-color:#ffaaaa; padding: 0.5em; }
+#message_area {
+  /*background-color:#ffaaaa;*/
+  font-size: 160%;
+  margin: 0.5em;
+  padding: 0.5em;
+  border-radius: 1em;
+  border: 0.2em solid white;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
 .tile {
   transition-duration: 0.6s;
 }

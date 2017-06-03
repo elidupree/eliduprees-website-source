@@ -2,6 +2,13 @@
 
 var drawn_games = {};
 
+  var legality_fill = {
+    acceptable: "#0000ff",
+    forbidden: "#ff0000",
+    waste: "#990000",
+    success: "#ffff00"
+  };
+
 function create_(tag, attributes) {
   var result = document.createElementNS("http://www.w3.org/2000/svg", tag);
   if (attributes) { Object.getOwnPropertyNames (attributes).forEach(function(name) {
@@ -140,7 +147,8 @@ function draw_game (game) {
     // click event doesn't work...?
     drawn.svg.addEventListener("mouseup", function (event) {
       if (event.button == 0 && game.floating_tile && drawn.floating_tile && !get_tile (game.tiles, drawn.floating_tile)) {
-        if (placement_results (drawn.floating_tile, get_floating_tile_paths()).legality !== "forbidden") {
+        var legality = placement_results (drawn.floating_tile, get_floating_tile_paths()).legality;
+        if (legality !== "forbidden" && legality !== "waste") {
           place_floating_tile (game, drawn.floating_tile);
         }
       }
@@ -173,6 +181,7 @@ function draw_game (game) {
     var drawn_tile = get_tile (drawn.tiles, tile);
     if (drawn_tile === undefined) {
       drawn_tile = create_drawn_tile (tile);
+      drawn_tile.graphical_rotation = drawn_tile.rotation;
       set_tile (drawn.tiles, drawn_tile);
       position_drawn_tile (drawn_tile);
       drawn.board.appendChild (drawn_tile.element);
@@ -187,6 +196,9 @@ function draw_game (game) {
   
   var message_area = $("<div>", {id:"message_area", class:"draw_game_temporary_"+game.id});
   $("#content"). append (message_area) ;
+  function color_messages (color) {
+    message_area.css({color:color, "border-color":color});
+  }
   
   if (!game.floating_tile) {
     delete drawn.floating_tile;
@@ -210,6 +222,9 @@ function draw_game (game) {
     location_indicator.element.classList.add("draw_game_temporary_"+game.id);
         drawn.board.insertBefore (location_indicator.element, drawn.board.firstChild);
     
+    
+    if (!get_tile (game.tiles, drawn.floating_tile)) {
+    
     var paths = get_floating_tile_paths();
     paths.forEach(function(path) {
       var fill = legality_fill [path_legality (path, drawn.floating_tile)];
@@ -218,12 +233,47 @@ function draw_game (game) {
       });
     });
     var results = placement_results (drawn.floating_tile, paths);
+    function list(things, transform) {
+      if (things.length === 1) { return " "+transform (things[0]); }
+      var result = "...<ul>"
+      things.forEach(function(thing, index) {
+        var item = transform (thing);
+        result = result + "<li>"+item+"</li>";
+      });
+      return result+"</ul>"
+    }
+    
     if (results.legality === "forbidden") {
-      message_area.append ("You can't place the tile there because...") ;
+      message_area.append ("You can't place the tile there because you can't connect your current icon to an icon that's already on the board.") ;
+      color_messages (legality_fill [results.legality]);
+    }
+    if (results.legality === "waste") {
+      message_area.append ("You can't place the tile there because"+ list (results.relevant_paths, path => {
+        if (path.icons.length >1) {
+          return `a connection between ${describe_tile_icon (path.icons [0])} and ${describe_tile_icon (path.icons [1])} doesn't do anything`;
+        }
+        else {
+          return `it would connect ${describe_tile_icon (path.icons [0])} to a dead end`;
+        }
+      })+ " (and you didn't also make any connections that <em>do</em> do something.)") ;
+      color_messages (legality_fill ["forbidden"]);
     }
     if (results.legality === "success") {
-      message_area.append ("If you place the tile there, it will cause…") ; 
+      message_area.append ("If you place the tile there, it will cause…") ;
+      color_messages (legality_fill [results.legality]);
     }
+    
+    }
+  }
+  
+  if (game.prompt_stack.length >0) {
+    var prompt = game.prompt_stack [game.prompt_stack.length - 1];
+    message_area.append (prompt.message);
+    prompt.options.forEach(function(option) {
+      message_area.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).click(function() {
+        answer_prompt (game, option);
+      }));
+    });
   }
   
   var speed = 2;
