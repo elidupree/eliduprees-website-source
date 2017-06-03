@@ -505,14 +505,14 @@
     
     var tile = create_random_tile(state);
     
-    if (tile.player === player && (tile.icon.icon === "torso" || tile.icon.icon === "crotch")) {
+    /*if (tile.player === player && (tile.icon.icon === "torso" || tile.icon.icon === "crotch")) {
       state.current_prompt = {
         kind: "message",
         message: "tile_based_skipping",
         tile: tile,
       };
       return;
-    }
+    }*/
     
     state.floating_tile = tile;
     state.current_prompt = {kind:"place_tile", tile: tile};
