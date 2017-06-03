@@ -247,7 +247,6 @@
   }
   
   function collect_paths (tiles, tile) {
-    // TODO: no repeats
     var connections = info_by_tile_id[tile.tile_id].connections;
     var result = [];
     var done_lock = false;
@@ -264,6 +263,11 @@
     return result;
   }
   
+  function describe_tile_icon(tile, player_already_named) {
+    if (player_already_named) { return tile.icon.icon; }
+    if (tile.player) { return tile.player.name+"'s "+tile.icon.icon; }
+    return tile.icon.icon;
+  }
 
   function path_effects (path) {
     if (path.icons.length <2) {return;}
