@@ -551,6 +551,7 @@
   function place_floating_tile(game, location) {
       game.floating_tile.horizontal = location.horizontal;
       game.floating_tile.vertical = location.vertical;
+      game.floating_tile.rotation = location.rotation;
       game.anchored_tiles.push (game.floating_tile);
       set_tile (game.tiles, game.floating_tile) ;
       delete game.floating_tile;
