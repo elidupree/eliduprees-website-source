@@ -29,9 +29,11 @@
   "id": "dc356b548f7e81d2fceb97c2f3035ad"
  },
  "2013-04-29 Lasercake talk script": {
-  "date_modified": "2017-05-24",
+  "date_modified": "2017-05-28",
   "date_posted": "2017-05-24",
-  "id": "31eda06e974ce207ff9c512ae7cfd7f"
+  "deployed": true,
+  "id": "31eda06e974ce207ff9c512ae7cfd7f",
+  "remembered_contents": "2dae7dfc343f4d7f50febc5fc682496ada9f5c0b0dae8a2b2680b9d5a847614469ad643c2eb80d23406206f50929daad"
  },
  "A Couple of Badass Superheroes, page 1": {
   "date_modified": "2011-09-10",
@@ -721,11 +723,11 @@
   "remembered_contents": "f99790d262015e18cd14ef151f44d8f38ba3de317c09ade72f8e977ffdc7f7a4ce9afaeb4ef1b413fc672734faaa5cc3"
  },
  "Not What I Am": {
-  "date_modified": "2011-10-07",
+  "date_modified": "2017-05-31",
   "date_posted": "2011-10-07",
   "deployed": true,
   "id": "5891f9659597a68afcefb4e7ffaa20f",
-  "remembered_contents": "004f35197ba7c922177f5c6e68d3366a3bf20b780500cfe222734332037a58ba2cab93b00ad2e3eba248e7fa690bd7fc"
+  "remembered_contents": "7d9db7cc907dae0266945948c2280b701c42372beb55b6e218133136e79e99b2157b107f4ccb7a9c899710cb0bcab4b2"
  },
  "Not What I Am: Discussion": {
   "date_modified": "2016-07-24",
@@ -856,25 +858,25 @@
   "remembered_contents": "bfdd36c60e7e997b201bfc485665fc701ed5fe04a17df768960a9d538f63cecfcc5430517279ec10d04d878f2caf49a5"
  },
  "Projects update 2017-03-01": {
-  "date_modified": "2017-03-15",
+  "date_modified": "2017-05-31",
   "date_posted": "2017-03-01",
   "deployed": true,
   "id": "5edffd5798fb5c51576a74b605dd7e5",
-  "remembered_contents": "def06429811b779c0c37684069ddcf1088c41a17790490dc7c9b1b25c066ca7069ad3d5266a9c26a67b315b6ec396c83"
+  "remembered_contents": "0964780d4898cba404fdc880ac9b551db1aa31922ef38b0d201432f34333b48ffcbd05f75c5138396a90eb99047aacb7"
  },
  "Projects update 2017-03-15": {
-  "date_modified": "2017-03-15",
+  "date_modified": "2017-05-31",
   "date_posted": "2017-03-15",
   "deployed": true,
   "id": "2fb86c132fae1c85924e5144aa4f7d",
-  "remembered_contents": "0f44dd2c0eb8e1f266ae5721195fae84c7d362278095374d9e34b6bffef6266083ba3f95a5d44f2e947a1f47187c7600"
+  "remembered_contents": "a4ab3a170814292ff5341cbb351b062f71a98f1697e5070608615967571dd8c6a2c67dcbc9b01c78ecce058907ae28b2"
  },
  "Projects update 2017-03-29": {
-  "date_modified": "2017-03-29",
+  "date_modified": "2017-05-31",
   "date_posted": "2017-03-29",
   "deployed": true,
   "id": "91e2465c89dcfca76835b80229e8853",
-  "remembered_contents": "21213ea5047c26d5d883b0d5877fff63a9c10bb7b2b3e32c4688b00ba1bfac2b102f42bf27395329ce8813f8133c318c"
+  "remembered_contents": "1e516cb06cb97bd80333b8991d68780f347f8e06eb90ed6b58f99fdbffa2db44dc5fb6448c943a8a99232761a9cb34bf"
  },
  "Prose vs. graphic narration": {
   "date_modified": "2011-09-05",
@@ -891,21 +893,25 @@
   "remembered_contents": "a24255449e4feb1008ed73192b45f5ec4d359c44e3bc6d0991f336cfcedff6b40fb42a882317138e9224fb3322b8f4f3"
  },
  "Ravelling Wrath, chapter 1: Discussion": {
-  "date_modified": "2017-05-24",
+  "date_modified": "2017-05-31",
   "date_posted": "2017-03-08",
   "deployed": true,
   "id": "9983a609c9161318f4e7a595784370",
-  "remembered_contents": "212c6e9ab2235c0191b5c0e3c218538f4c48d8f52562b3508cc0a9520ae7e8dffcc57fea775ac8295a5e97c5a24d0c28"
+  "remembered_contents": "ac6ccc1c6b5797f8906e82deccf15d1c6a97d821c734d3ede0b92ad75874fc8f03c842d1dc3ec6172112f5ffa7fb4b4c"
  },
  "Ravelling Wrath, chapter 2": {
-  "date_modified": "2017-02-24",
-  "date_posted": "2017-02-24",
-  "id": "f30627d504c236027c7a74d5ca3f349"
+  "date_modified": "2017-05-31",
+  "date_posted": "2017-05-31",
+  "deployed": true,
+  "id": "f30627d504c236027c7a74d5ca3f349",
+  "remembered_contents": "b4789b946337c3e0222b16a004bdf25ff819df18d3e871e979babe115b29400169e5364647fcb01c19a14c00583c50e4"
  },
  "Ravelling Wrath, chapter 2: Discussion": {
-  "date_modified": "2017-02-24",
-  "date_posted": "2017-02-24",
-  "id": "207442a8b0059f4b4d73392f8ddaf8"
+  "date_modified": "2017-05-31",
+  "date_posted": "2017-05-31",
+  "deployed": true,
+  "id": "207442a8b0059f4b4d73392f8ddaf8",
+  "remembered_contents": "9a29fd9c56ce6953fbdb7e640a7bdb8eb3188f8567fccac0fd1bbb45cb132def05e9e2fe4bc55ea0f345b1b39df1727e"
  },
  "Recommended website: Fugitivus": {
   "date_modified": "2016-07-24",
@@ -1126,12 +1132,16 @@
  "The Console of the Time Cops": {
   "date_modified": "2017-05-24",
   "date_posted": "2017-05-24",
-  "id": "6c1b62cb8b8c7b94ffd51da94d99796"
+  "deployed": true,
+  "id": "6c1b62cb8b8c7b94ffd51da94d99796",
+  "remembered_contents": "5e690ba1dcb64f238a71cdd6d7a4b20c499271c6001ba47747c0c6045885530d8e5d0f3dca32ba1eee09b602771e1d37"
  },
  "The Console of the Time Cops: Discussion": {
   "date_modified": "2017-05-24",
   "date_posted": "2017-05-24",
-  "id": "59aa59daace758e514553a517e2c046"
+  "deployed": true,
+  "id": "59aa59daace758e514553a517e2c046",
+  "remembered_contents": "a20c026f64d774a23f3c23b8f9e6878c0afd49a26dd42b6cdf7cf23190916bdaa785c3e7b83418124aa5183b8f56e8d2"
  },
  "The Food Experiments": {
   "date_modified": "2013-06-11",
