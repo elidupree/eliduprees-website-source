@@ -266,6 +266,16 @@ function draw_game (game) {
     }
   }
   
+  if (game.prompt_stack.length >0) {
+    var prompt = game.prompt_stack [game.prompt_stack.length - 1];
+    message_area.append (prompt.message);
+    prompt.options.forEach(function(option) {
+      message_area.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).click(function() {
+        answer_prompt (game, option);
+      }));
+    });
+  }
+  
   var speed = 2;
   drawn.min_horizontal = move_towards (drawn.min_horizontal, min_horizontal, speed);
   drawn.max_horizontal = move_towards (drawn.max_horizontal, max_horizontal, speed);

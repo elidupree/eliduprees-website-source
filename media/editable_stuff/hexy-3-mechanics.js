@@ -272,7 +272,8 @@
   function path_effects (path) {
     if (path.icons.length <2) {return;}
     
-    var success = {text: "Okay, done"};
+    var success_message = "Okay, done";
+    var success = {text: success_message };
     function fail_option (victim, message) {
       if (victim === undefined) {
         return {text: message};
@@ -283,10 +284,12 @@
       }
     }
     
-    function tie(icons, victim) {
+    function tie(icons, victim, message_override, success_action) {
+      var success_option = success;
+      if (success_action) {success_option = {text: success_message, action: success_action};}
       if (icons.length === 2) {
         return {
-          message:`tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`,
+          message: message_override || `tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`,
           options: [success, fail_option (victim, "that's physically impossible")]
         };
       }
@@ -342,7 +345,8 @@
       function (first, second) {
         if (first.player && second.icon.icon === "toybox") {
           return {
-            message:`${first.player.name}, choose a toy to be used on you`
+            message:`${first.player.name}, choose a toy to be used on you`,
+            success
           };
         }
       },
@@ -353,26 +357,16 @@
       },
       function (first, second) {
         if (first.player === second.player && first.icon.icon === "foot" && second.icon.icon === "foot") {
-          return {
-            message:`tie ${first.player.name}'s feet together`
-          };
+          return tie ([first, second], first.player, `tie ${first.player.name}'s feet together`);
         }
       },
       function (first, second) {
         if (first.player === second.player && first.icon.icon === "hand" && second.icon.icon === "hand") {
           if (first.player.hands_tied === undefined) {
-            return {
-              message:`tie ${first.player.name}'s hands together in front of them`,
-              options: [
-                {text: "Drat", action: function() {first.player.hands_tied = "front";}},
-                fail_option (first.player, "")
-              ]
-            };
+            return tie ([first, second], first.player, `tie ${first.player.name}'s hands together in front of them`, function() {first.player.hands_tied = "front";});
           }
           if (first.player.hands_tied === "front") {
-            return {
-              message:`re-tie ${first.player.name}'s hands together behind them`
-            };
+            return tie ([first, second], first.player, `re-tie ${first.player.name}'s hands together together behind them`, function() {first.player.hands_tied = "back";});
           }
           if (first.player.hands_tied === "back") {
             return {
@@ -387,8 +381,8 @@
       function (first, second) {
         if (first.player && second.player && first.icon.icon !== second.icon.icon && (first.icon.icon === "hand" || first.icon.icon === "foot") && (second.icon.icon === "foot" || second.icon.icon === "torso" || second.icon.icon === "crotch")) {
           return {
-            message: `from now on, ${first.player.name} can stimulate ${describe_tile_icon (second)} with their ${describe_tile_icon (first, true)}`
-            
+            message: `from now on, ${first.player.name} can stimulate ${describe_tile_icon (second)} with their ${describe_tile_icon (first, true)}`,
+            options: [{text: "Okay",}]
           };
         }
       },
@@ -514,7 +508,6 @@
     }*/
     
     state.floating_tile = tile;
-    state.current_prompt = {kind:"place_tile", tile: tile};
   }
   
   var messages = {
@@ -532,6 +525,7 @@
       anchored_tiles: [],
       tiles: {},
       players: _.cloneDeep(players),
+      prompt_stack: [],
     };
     game.players.forEach(function(player, index) {
       player.index = index;
@@ -558,24 +552,27 @@
       game.floating_tile.rotation = location.rotation;
       game.anchored_tiles.push (game.floating_tile);
       set_tile (game.tiles, game.floating_tile) ;
+      var paths = collect_paths (game.tiles, game.floating_tile) ;
       delete game.floating_tile;
         
       game.current_player.played_yet = true;
+      paths.forEach(function(path) {
+        var effects = path_effects (path);
+        if (effects !== undefined) {
+          game.prompt_stack.push (effects);
+        }
+      }) ;
       begin_turn (game);
-    }
-    /*    
+    }  
     
-    dismiss_message() {
-      var that = this;
-      return function () {that.setState (function (state, props) {
-        state = _.cloneDeep (state);
-        
-        begin_turn (state);
-        
-        return state;
-      });}
-    }
-*/
+  function answer_prompt (game, option) {
+    
+    game.prompt_stack.pop();
+    if (option.action) {option.action (game);}
+    begin_turn (game);
+
+  }
+
 
 var global_game = new_game ([
       {based_on: "white", name: "white", fill: "#ffffff", stroke: "#000000"},
