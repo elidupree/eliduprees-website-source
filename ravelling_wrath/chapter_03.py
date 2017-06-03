@@ -29,6 +29,19 @@ This chapter contains:
 
 <bigbreak>
   
+<h2>Chapter 2: The Ordeal</h2>
+
+"Uuuuughhhh."
+
+I rolled over tried to flop out of bed. I had dreamed of a world of steel and stone, where a glaring sun pulsed like a heart. Now I was stuck back here in the real world, with... ugh. My bedsheets didn't taste good.
+
+I hauled myself up and stumbled down the stairs. Rubbing my eyes, I almost walked straight into my dad.
+
+Dad sighed. "Good morning, Rinn."
+
+We had a lot of rules that we didn't keep, but there was one that Dad always stuck to: <em>no arguing before breakfast</em>. From the look on his face, he was having a hard time keeping that rule today.
+
+
 ?????
 
 I took her hand and we started walking.
