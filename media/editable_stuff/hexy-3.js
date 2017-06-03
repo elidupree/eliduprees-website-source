@@ -144,7 +144,7 @@ function draw_game (game) {
       drawn.mouse_vertical = (mouse_Y + drawn.min_vertical)/short_radius;
     });
     
-    // click event doesn't work...?
+    // TODO: click doesn't work because we keep regenerating it
     drawn.svg.addEventListener("mouseup", function (event) {
       if (event.button == 0 && game.floating_tile && drawn.floating_tile && !get_tile (game.tiles, drawn.floating_tile)) {
         var legality = placement_results (drawn.floating_tile, get_floating_tile_paths()).legality;
@@ -270,7 +270,8 @@ function draw_game (game) {
     var prompt = game.prompt_stack [game.prompt_stack.length - 1];
     message_area.append (prompt.message);
     prompt.options.forEach(function(option) {
-      message_area.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).click(function() {
+      // TODO: click doesn't work because we keep regenerating it
+      message_area.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).on("mouseup", function() {
         answer_prompt (game, option);
       }));
     });

@@ -271,6 +271,24 @@ button {
 .tile {
   transition-duration: 0.6s;
 }
+.prompt_option {
+  display: block;
+  font-size: 100%;
+  background-color: black;
+  margin: 0.5em;
+  padding: 0.5em;
+  border-radius: 1em;
+  border: 0.2em solid white;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.prompt_option:hover {
+  background-color: white;
+  border-color: 0.2em solid black;
+  color: black;
+}
+
 .rotation_arrow {
   --arrow-fill: #ffffff;
 }

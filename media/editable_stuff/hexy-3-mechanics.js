@@ -489,10 +489,10 @@
       old_player.skip_turns--;
     }
     if (player.skip_turns >0) {
-      state.current_prompt = {
-        kind: "message",
-        message: "still_skipping",
-      };
+      state.prompt_stack.push ({
+        message: `${player.name} skips their turn due to a previous effect. (${player.skip_turns - 1} more turns to skip)`,
+        options: [{text: "Drat"}]
+      });
       return;
     }
     
