@@ -226,11 +226,20 @@ function draw_game (game) {
       });
     });
     var results = placement_results (drawn.floating_tile, paths);
+    function list(things, transform) {
+      if (things.length === 1) { return " "+transform (things[0]); }
+      var result = "...<ul>"
+      things.forEach(function(thing, index) {
+        var item = transform (thing);
+        result = result + "<li>"+item+"</li>";
+      });
+      return result+"</ul>"
+    }
     if (results.legality === "forbidden") {
-      message_area.append ("You can't place the tile there because...") ;
+      message_area.append ("You can't place the tile there because you can't connect your current icon to an icon that's already on the board.") ;
     }
     if (results.legality === "waste") {
-      message_area.append ("You can't place the tile there because...") ;
+      message_area.append ("You can't place the tile there because"+ list (results.relevant_paths, path => "the connection between this and that doesn't do anything")+ ", and you didn't also make any connections that <em>do</em> do something.") ;
     }
     if (results.legality === "success") {
       message_area.append ("If you place the tile there, it will cause…") ; 
