@@ -2,6 +2,13 @@
 
 var drawn_games = {};
 
+  var legality_fill = {
+    acceptable: "#0000ff",
+    forbidden: "#ff0000",
+    waste: "#990000",
+    success: "#ffff00"
+  };
+
 function create_(tag, attributes) {
   var result = document.createElementNS("http://www.w3.org/2000/svg", tag);
   if (attributes) { Object.getOwnPropertyNames (attributes).forEach(function(name) {
@@ -140,7 +147,8 @@ function draw_game (game) {
     // click event doesn't work...?
     drawn.svg.addEventListener("mouseup", function (event) {
       if (event.button == 0 && game.floating_tile && drawn.floating_tile && !get_tile (game.tiles, drawn.floating_tile)) {
-        if (placement_results (drawn.floating_tile, get_floating_tile_paths()).legality !== "forbidden") {
+        var legality = placement_results (drawn.floating_tile, get_floating_tile_paths()).legality;
+        if (legality !== "forbidden" && legality !== "waste") {
           place_floating_tile (game, drawn.floating_tile);
         }
       }
@@ -219,6 +227,9 @@ function draw_game (game) {
     });
     var results = placement_results (drawn.floating_tile, paths);
     if (results.legality === "forbidden") {
+      message_area.append ("You can't place the tile there because...") ;
+    }
+    if (results.legality === "waste") {
       message_area.append ("You can't place the tile there because...") ;
     }
     if (results.legality === "success") {

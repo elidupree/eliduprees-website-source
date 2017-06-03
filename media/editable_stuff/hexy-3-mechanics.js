@@ -415,12 +415,7 @@
     
     return "success";
   }
-  var legality_fill = {
-    acceptable: "#0000ff",
-    forbidden: "#ff0000",
-    waste: "#990000",
-    success: "#ffff00"
-  };
+
   
   function placement_results (tile, paths) {
     var paths_by_legality={};
@@ -443,7 +438,7 @@
     }
     if (paths_by_legality.waste) {
       return {
-        legality: "forbidden",
+        legality: "waste",
         relevant_paths: paths_by_legality.waste
       };
     }
@@ -563,37 +558,7 @@
       game.current_player.played_yet = true;
       begin_turn (game);
     }
-    /*
-    move_floating_tile(location) {
-      var that = this;
-      return function () {that.setState (function (state, props) {
-        state = _.cloneDeep (state);
-        var floating_tile = state.tiles [state.tiles.length - 1];
-        
-        if (floating_tile.horizontal !== undefined) {remove_tile (state.tiles_by_location, floating_tile) ;}
-        floating_tile.horizontal = location.horizontal;
-        floating_tile.vertical = location.vertical;
-        set_tile (state.tiles_by_location, floating_tile);
-        state.current_player.moved_tile = true;
-        
-        return state;
-      });};
-    }
-    
-    rotate_floating_tile(amount) {
-      var that = this;
-      return function () {that.setState (function (state, props) {
-        state = _.cloneDeep (state);
-        var floating_tile = state.tiles [state.tiles.length - 1];
-        
-        floating_tile.graphical_rotation += amount;
-        floating_tile.rotation = (floating_tile.rotation + amount + 6) % 6;
-        
-        return state;
-      });};
-    }
-    
-
+    /*    
     
     dismiss_message() {
       var that = this;
