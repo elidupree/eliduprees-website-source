@@ -481,6 +481,9 @@
   }
   
   function begin_turn (state) {
+    if (state.prompt_stack.length >0) {
+      return;
+    }
     var current_player_index = (state.current_player.index + 1) % state.players.length;
     var old_player = state.current_player;
     var player = state.current_player = state.players [current_player_index];
@@ -575,10 +578,10 @@
 
 
 var global_game = new_game ([
-      {based_on: "white", name: "white", fill: "#ffffff", stroke: "#000000"},
-      {based_on: "black", name: "black", fill: "#000000", stroke: "#ffffff"},
-      /*{based_on: "white", name: "pink", fill: "#ffaaff", stroke: "#ff00ff"},
-      {based_on: "white", name: "green", fill: "#99ff99", stroke: "#008800"},
-      {based_on: "black", name: "blue", fill: "#0000ff", stroke: "#ffffff"},
-      {based_on: "black", name: "purple", fill: "#5500aa", stroke: "#ffffff"},*/
+      {based_on: "white", name: "White", fill: "#ffffff", stroke: "#000000"},
+      {based_on: "black", name: "Black", fill: "#000000", stroke: "#ffffff"},
+      /*{based_on: "white", name: "Pink", fill: "#ffaaff", stroke: "#ff00ff"},
+      {based_on: "white", name: "Green", fill: "#99ff99", stroke: "#008800"},
+      {based_on: "black", name: "Blue", fill: "#0000ff", stroke: "#ffffff"},
+      {based_on: "black", name: "Purple", fill: "#5500aa", stroke: "#ffffff"},*/
     ]);

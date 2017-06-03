@@ -6,7 +6,7 @@ var drawn_games = {};
     acceptable: "#0000ff",
     forbidden: "#ff0000",
     waste: "#990000",
-    success: "#ffff00"
+    success: "#aaaa00"
   };
 
 function create_(tag, attributes) {
@@ -164,6 +164,9 @@ function draw_game (game) {
   
   $(".draw_game_temporary_"+game.id).remove();
   
+  document.documentElement.style.setProperty ("--meta-fill", game.current_player.fill);
+  document.documentElement.style.setProperty ("--meta-stroke", game.current_player.stroke);
+  
   
       var min_horizontal = 0;
       var max_horizontal = 0;
@@ -222,6 +225,7 @@ function draw_game (game) {
     location_indicator.element.classList.add("draw_game_temporary_"+game.id);
         drawn.board.insertBefore (location_indicator.element, drawn.board.firstChild);
     
+    message_area.append (`<p>${game.current_player.name}'s turn.</p>`) ;
     
     if (!get_tile (game.tiles, drawn.floating_tile)) {
     
@@ -235,31 +239,34 @@ function draw_game (game) {
     var results = placement_results (drawn.floating_tile, paths);
     function list(things, transform) {
       if (things.length === 1) { return " "+transform (things[0]); }
-      var result = "...<ul>"
+      var result = "...</p><ul>"
       things.forEach(function(thing, index) {
         var item = transform (thing);
         result = result + "<li>"+item+"</li>";
       });
-      return result+"</ul>"
+      return result+"</ul><p>"
     }
     
     if (results.legality === "forbidden") {
-      message_area.append ("You can't place the tile there because you can't connect your current icon to an icon that's already on the board.") ;
+      message_area.append ("<p>You can't place the tile there because you can't connect your current icon to an icon that's already on the board.</p>") ;
       color_messages (legality_fill [results.legality]);
     }
     if (results.legality === "waste") {
-      message_area.append ("You can't place the tile there because"+ list (results.relevant_paths, path => {
+      message_area.append ("<p>You can't place the tile there because"+ list (results.relevant_paths, path => {
         if (path.icons.length >1) {
           return `a connection between ${describe_tile_icon (path.icons [0])} and ${describe_tile_icon (path.icons [1])} doesn't do anything`;
         }
         else {
           return `it would connect ${describe_tile_icon (path.icons [0])} to a dead end`;
         }
-      })+ " (and you didn't also make any connections that <em>do</em> do something.)") ;
+      })+ " (and you didn't also make any connections that <em>do</em> do something.)</p>") ;
       color_messages (legality_fill ["forbidden"]);
     }
     if (results.legality === "success") {
-      message_area.append ("If you place the tile there, it will cause…") ;
+      message_area.append ("<p>If you place the tile there, it will cause"+list (results.relevant_paths, path => {
+        var effects = path_effects (path);
+        return '"'+ effects.message +'"';
+      })+"</p>");
       color_messages (legality_fill [results.legality]);
     }
     

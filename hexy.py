@@ -257,6 +257,7 @@ button {
       r'''
 <style>
 
+html,body {background-color: var(--meta-fill);}
 .game {display: block; margin: 0 auto;}
 #message_area {
   /*background-color:#ffaaaa;*/
@@ -264,8 +265,8 @@ button {
   margin: 0.5em;
   padding: 0.5em;
   border-radius: 1em;
-  border: 0.2em solid white;
-  color: white;
+  border: 0.2em solid var(--meta-stroke);
+  color: var(--meta-stroke);
   font-family: Arial, Helvetica, sans-serif;
 }
 .tile {
@@ -274,19 +275,19 @@ button {
 .prompt_option {
   display: block;
   font-size: 100%;
-  background-color: black;
+  background-color: var(--meta-fill);
   margin: 0.5em;
   padding: 0.5em;
   border-radius: 1em;
-  border: 0.2em solid white;
-  color: white;
+  border: 0.2em solid var(--meta-stroke);
+  color: var(--meta-stroke);
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .prompt_option:hover {
-  background-color: white;
-  border-color: 0.2em solid black;
-  color: black;
+  background-color: var(--meta-stroke);
+  border-color: 0.2em solid var(--meta-fill);
+  color: var(--meta-fill);
 }
 
 .rotation_arrow {
