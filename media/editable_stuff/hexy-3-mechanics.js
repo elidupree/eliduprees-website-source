@@ -267,9 +267,12 @@
   }
   
   function describe_tile_icon(tile, player_already_named) {
-    if (player_already_named) { return tile.icon.icon; }
-    if (tile.player) { return tile.player.name+"'s "+tile.icon.icon; }
-    return tile.icon.icon;
+    var kind = tile.icon.icon;
+    if (tile.icon.side) { kind = tile.icon.side+" "+kind; }
+    if (kind === "toybox") { kind = "a toybox"; }
+    if (player_already_named) { return kind; }
+    if (tile.player) { return tile.player.name+"'s "+kind; }
+    return kind;
   }
 
   function path_effects (path) {
@@ -281,7 +284,7 @@
       if (victim === undefined) {
         return {text: message};
       } else {
-        return {text: message+` ${victim.name} skips two turns`, action: function() {
+        return {text: message+` (${victim.name} skips two turns)`, action: function() {
           victim.skip_turns = (victim.skip_turns || 0) + 2;
         }};
       }
