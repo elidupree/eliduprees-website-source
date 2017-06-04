@@ -256,6 +256,17 @@ function draw_game (game) {
     drawn.floating_tile.vertical = drawn.mouse_rounded.vertical;
     drawn.floating_tile.rotation = drawn.mouse_rounded.rotation;
   }
+  
+  function list(things, transform) {
+      if (things.length === 1) { return " "+transform (things[0]); }
+      var result = "...</p><ul>"
+      things.forEach(function(thing, index) {
+        var item = transform (thing);
+        result = result + "<li>"+item+"</li>";
+      });
+      return result+"</ul><p>"
+    }
+    
   if (drawn.floating_tile && floating_rounded_position_changed) {
     clear_paths (drawn.floating_tile);
     
@@ -276,15 +287,6 @@ function draw_game (game) {
       });
     });
     var results = placement_results (drawn.floating_tile, paths);
-    function list(things, transform) {
-      if (things.length === 1) { return " "+transform (things[0]); }
-      var result = "...</p><ul>"
-      things.forEach(function(thing, index) {
-        var item = transform (thing);
-        result = result + "<li>"+item+"</li>";
-      });
-      return result+"</ul><p>"
-    }
     
     if (results.legality === "forbidden") {
       drawn.message_area.append ("<p>You can't place the tile there because you can't connect your current icon to an icon that's already on the board.</p>") ;

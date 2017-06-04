@@ -261,13 +261,20 @@ html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke
 .game {display: block; margin: 0 auto;}
 #message_area {
   /*background-color:#ffaaaa;*/
-  font-size: 160%;
+  font-size: 3vh;
   margin: 0.5em;
   padding: 0.5em;
   border-radius: 1em;
   border: 0.2em solid var(--meta-stroke);
   /*color: var(--meta-stroke);*/
   font-family: Arial, Helvetica, sans-serif;
+}
+#message_area p {
+  margin: 0;
+  line-height: 1.10em;
+}
+#message_area p~p {
+  margin-top: 0.5em;
 }
 .tile {
   /*transition-duration: 0.6s;*/
