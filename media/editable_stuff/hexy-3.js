@@ -128,7 +128,8 @@ function draw_game (game) {
     return result;
   }
   
-  if (drawn === undefined) {
+  var just_created = (drawn === undefined);
+  if (just_created) {
     drawn_games [game.id] = drawn = {tiles:{}};
     drawn.element = $("<div>", {id:"game_"+game.id,class:"game" });
     
@@ -155,6 +156,7 @@ function draw_game (game) {
         var legality = placement_results (drawn.floating_tile, get_floating_tile_paths()).legality;
         if (legality !== "forbidden" && legality !== "waste") {
           place_floating_tile (game, drawn.floating_tile);
+          autosave_game (game);
         }
       }
     });
@@ -177,7 +179,7 @@ function draw_game (game) {
     drawn.current_player = game.current_player;
   }
   
-  var floating_changed = (game.floating_tile && game.floating_tile.key) !== (drawn.floating_tile && drawn.floating_tile.key);
+  var floating_changed = just_created || (game.floating_tile && game.floating_tile.key) !== (drawn.floating_tile && drawn.floating_tile.key);
   var floating_rounded_position_changed = floating_changed || (drawn.floating_tile && (
     drawn.floating_tile.horizontal !== drawn.mouse_rounded.horizontal ||
     drawn.floating_tile.vertical !== drawn.mouse_rounded.vertical ||
@@ -321,6 +323,7 @@ function draw_game (game) {
     prompt.options.forEach(function(option) {
       drawn.message_area.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).on("click", function() {
         answer_prompt (game, option);
+        autosave_game (game);
       }));
     });
   }
@@ -340,6 +343,24 @@ function draw_game (game) {
   
 }
 
+var global_game;
+function autosave_game (game) {
+  localStorage.setItem ("hexy_bondage_autosave", JSON.stringify(game));
+}
+function autoload_game () {
+  var save = localStorage.getItem ("hexy_bondage_autosave");
+  global_game = JSON.parse(save);
+  if (global_game === null) {
+    global_game = new_game ([
+      {based_on: "white", name: "White", fill: "#ffffff", stroke: "#000000"},
+      {based_on: "black", name: "Black", fill: "#000000", stroke: "#ffffff"},
+      /*{based_on: "white", name: "Pink", fill: "#ffaaff", stroke: "#ff00ff"},
+      {based_on: "white", name: "Green", fill: "#99ff99", stroke: "#008800"},
+      {based_on: "black", name: "Blue", fill: "#0000ff", stroke: "#ffffff"},
+      {based_on: "black", name: "Purple", fill: "#5500aa", stroke: "#ffffff"},*/
+    ]);
+  }
+}
 
 
 function tick() {
@@ -347,5 +368,6 @@ function tick() {
   
   draw_game (global_game) ;
 }
+autoload_game ();
 tick();
 

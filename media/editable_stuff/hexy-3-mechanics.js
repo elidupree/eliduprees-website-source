@@ -588,12 +588,3 @@
 
   }
 
-
-var global_game = new_game ([
-      {based_on: "white", name: "White", fill: "#ffffff", stroke: "#000000"},
-      {based_on: "black", name: "Black", fill: "#000000", stroke: "#ffffff"},
-      /*{based_on: "white", name: "Pink", fill: "#ffaaff", stroke: "#ff00ff"},
-      {based_on: "white", name: "Green", fill: "#99ff99", stroke: "#008800"},
-      {based_on: "black", name: "Blue", fill: "#0000ff", stroke: "#ffffff"},
-      {based_on: "black", name: "Purple", fill: "#5500aa", stroke: "#ffffff"},*/
-    ]);
