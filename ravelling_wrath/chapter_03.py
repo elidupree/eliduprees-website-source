@@ -33,18 +33,108 @@ This chapter contains:
 
 "Uuuuughhhh."
 
-I rolled over tried to flop out of bed. I had dreamed of a world of steel and stone, where a glaring sun pulsed like a heart. Now I was stuck back here in the real world, with... ugh. My bedsheets didn't taste good.
+I rolled over and tried to flop out of bed. I had dreamed of a world of steel and stone, where a glaring sun pulsed like a heart. Now I was stuck back here in the real world, with... ugh. My bedsheets tasted bad.
 
 I hauled myself up and stumbled down the stairs. Rubbing my eyes, I almost walked straight into my dad.
 
-Dad sighed. "Good morning, Rinn."
+Dad sighed. "<em>Good morning</em>, Rinn."
 
-We had a lot of rules that we didn't keep, but there was one that Dad always stuck to: <em>no arguing before breakfast</em>. From the look on his face, he was having a hard time keeping that rule today.
+We had a lot of rules that we didn't keep, but there was one that Dad always stuck to: <em>No arguing before breakfast</em>. From the look on his face, he was having a hard time keeping that rule today. But he managed it, and we passed by each other.
 
+That was a relief. I went in the bathroom and washed up. It gave me enough time to think about –
+
+Right. <em>Everything.</em>
 
 ?????
 
-I took her hand and we started walking.
+With all the thoughts spinning through my head, I wasn't that interested in eating. I swallowed my food slowly, one bite at a time. Anyway, I can tell that Dad was itching to say something to me when I was finished eating. If I dragged it out, I could put that off for a while.
+
+In the end, he finished before I did.
+
+"Rinn," he said pointedly.
+
+I still didn't feel totally awake.
+
+"Rinn…"
+
+"I was hanging out with Yali yesterday."
+
+"We called you three times."
+
+"I didn't notice." It was half true. Thinking back, I had heard my phone buzz a few times, but I'd been too busy with Yali to pay attention.
+
+"Rinn, tell us the truth."
+
+The mention of <em>telling the truth</em> made my mind snap into a frenzy. <em>Parents… tell nothing</em>, she'd said. Well what if – maybe it was better if they <em>didn't</em> even think it was the truth!
+
+"Fine, I wasn't at Yali's! I was –" Stern take it, I was no good at making up stories. "You know what, never mind!"
+
+Dad looked like he was gearing up to say something else, but Mom touched his hand, meaning, "Let me handle this."
+
+?????
+
+Sometimes I hated being so easy to read.
+
+?????
+
+"You <em>never</em> sleep through your alarm, and you <em>never</em> leave your breakfast half-eaten. So please… just tell us what happened. Are you in trouble?"
+
+<p><em>Shit.</em></p>
+
+It would be one thing if Mom was angry at me. She'd lecture me for a bit, but then it would be over. But if she was <em>concerned</em>… she'd never give it up. She'd follow me around and pester me about it and look over my shoulder when I was texting and then I'd say something careless and she'd find out and then there would be… there would be <em>bad futures</em> and I'd never see Yali again.
+
+Mom must have seen that I was panicking. "Rinn, it's okay. We're not going to punish you. We just want to make sure you're safe."
+
+A flash of rage swept over me. She could <em>say</em> that, but the Waiting God knew – literally, Yali had seen with its eyes – that I wouldn't be safe at all. And even if I didn't know that, Mom was always like this. Dad was simpler. He'd tell me the rules and get mad if I broke them. But Mom would do the whole "wink wink, nudge nudge" thing. Sometimes she'd even take me aside and say, like, "This is what the rules are, but just between us, this is how we <em>really</em> do things." But as soon as I relied on her for anything, she'd go straight back to law-and-order.
+
+I clamped down on the rage and tried not to let it show. I didn't have time for that. If I didn't come up with something to say <em>soon</em>, she'd know I had taken the extra time to come up with a lie. And then it would be just as bad as if I hadn't said anything. But what could I say that would make her stop worrying when <em>I</em> was worrying?
+
+Finally I managed to think of something. I wasn't sure about it, but I didn't have anything else, so it would have to do.
+
+"I'm not in trouble, it's not <em>me</em>, I'm just worried about –" no backing out now "– Yali. She's having a, uh, a personal thing. A crisis. But, see, I promised her that I wouldn't tell anyone, so –" I did my best to sound like I was uncomfortable about breaking the promise. It wasn't hard, because I <em>was</em> uncomfortable, just not in the way that I wanted them to think I was. "– so please, just, don't mention it to anybody, okay?"
+
+"Don't worry, sweetie, of course we won't. But is it –"
+
+"I thought you <em>weren't</em> with Yali," Dad interrupted.
+
+"We've moved past that," said Mom.
+
+"What?"
+
+"It was a lie," I said. Mom had figured that out, but she had an annoying habit of not explaining things to Dad when he hadn't caught up. "I panicked and thought I was about to break my promise, so I just… you know what, never mind."
+
+"That was… misguided, –"
+
+"I just got out of bed! You can't expect me to be, uh, correctly guided about everything!" It was a relief to be able to just be annoyed about something I was actually annoyed about.
+
+"Misguided, but also honorable. You thought you were protecting your friend's secret." I winced internally at "friend" – <em>we were dating, for gods' sakes</em> – but I had bigger things to worry about right now.
+
+"Rinn," said Mom tiredly. She had put her hand to her forehead with an expression that said, "I can't believe you two". "What's happening with Yali? Does she need help?"
+
+"I wish I could tell you, but I can't break my promise any further."
+
+"That promise doesn't mean you can't tell <em>us</em>. We're your parents."
+
+"I told her I wouldn't tell anyone! I can't go back on that! Dad, back me up here!"
+
+Dad clearly didn't <em>want</em> to back me up, but he said, reluctantly, "Every promise is law before the Stern."
+
+"I really, really can't tell you," I continued.
+
+"Of all the days to get serious about the Stern…" muttered Mom. "Well. You can tell Yali, from us, that if she needs any help, –"
+
+I gave an internal sigh of relief. Mom wasn't trying to press the issue. I could just say I'd give her message to Yali, and – Wait. I had to stick to my story. "But then I'd have to tell her that I told you, even though I said I –"
+
+"Stern give me strength… Well. Just tell her, there <em>are</em> people who <em>would</em> help her, if she would just <em>tell</em> them what the problem is."
+
+"Are you talking about her, or me?"
+
+"Don't ask questions you don't want the answers to."
+
+?????
+
+I took quote
+ her hand and we started walking.
 
 "You still haven't told me why you can't go to the place near the school," Yali said as we walked.
 
