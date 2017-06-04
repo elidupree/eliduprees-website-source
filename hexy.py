@@ -258,8 +258,8 @@ button {
 <style>
 
 html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke: transparent;}
-.game {display: block; margin: 0 auto;}
-#message_area {
+.game_svg {display: block; margin: 0 auto;}
+.message_area {
   /*background-color:#ffaaaa;*/
   font-size: 3vh;
   margin: 0.5em;
@@ -269,11 +269,11 @@ html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke
   /*color: var(--meta-stroke);*/
   font-family: Arial, Helvetica, sans-serif;
 }
-#message_area p {
+.message_area p {
   margin: 0;
   line-height: 1.10em;
 }
-#message_area p~p {
+.message_area p~p {
   margin-top: 0.5em;
 }
 .tile {

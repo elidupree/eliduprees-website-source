@@ -130,12 +130,14 @@ function draw_game (game) {
   
   if (drawn === undefined) {
     drawn_games [game.id] = drawn = {tiles:{}};
-    drawn.svg = create_("svg", {id:"game_"+game.id, class:"game" });
+    drawn.element = $("<div>", {id:"game_"+game.id,class:"game" });
+    
+    drawn.svg = create_("svg", {class:"game_svg" });
     drawn.board = create_ ("g");
     drawn.svg.appendChild (drawn.board);
-    document.getElementById("content").appendChild (drawn.svg);
-    drawn.message_area = $("<div>", {id:"message_area", class:"draw_game_temporary_"+game.id});
-    $("#content").append (drawn.message_area);
+    document.getElementById("content").appendChild (drawn.element[0]);
+    drawn.message_area = $("<div>", {class:"message_area message_area_"+game.id});
+    drawn.element.append (drawn.svg, drawn.message_area);
     
     drawn.mouse_exact = {horizontal: 0, vertical: 0, rotation: 0};
     drawn.mouse_rounded = {horizontal: 0, vertical: 0, rotation: 0};
