@@ -540,6 +540,7 @@
       players: _.cloneDeep(players),
       prompt_stack: [],
       next_tile_key: 55,
+      id: Math.floor(Math.random()*90000000),
     };
     game.players_immutable.forEach(function(player, index) {
       player.index = index;

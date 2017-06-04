@@ -139,6 +139,11 @@ function draw_game (game) {
     document.getElementById("content").appendChild (drawn.element[0]);
     drawn.message_area = $("<div>", {class:"message_area message_area_"+game.id});
     drawn.element.append (drawn.svg, drawn.message_area);
+    drawn.element.append (
+      $("<input>", {type: "button", class: "prompt_option", value: "restart game"}).on("click", function() {
+        restart_game (game);
+      })
+    );
     
     drawn.mouse_exact = {horizontal: 0, vertical: 0, rotation: 0};
     drawn.mouse_rounded = {horizontal: 0, vertical: 0, rotation: 0};
@@ -343,15 +348,31 @@ function draw_game (game) {
   
 }
 
+
+function undraw_game (game) {
+  if (game) {
+    var drawn = drawn_games [game.id];
+    if (drawn) {
+      drawn.element.remove();
+      delete drawn_games [game.id];
+    }
+  }
+}
+  
+
 var global_game;
 function autosave_game (game) {
   localStorage.setItem ("hexy_bondage_autosave", JSON.stringify(game));
 }
 function autoload_game () {
+  undraw_game (global_game);
   var save = localStorage.getItem ("hexy_bondage_autosave");
   global_game = JSON.parse(save);
-  if (global_game === null) {
-    global_game = new_game ([
+  if (global_game === null) {restart_game(); }
+}
+function restart_game () {
+  undraw_game (global_game);
+  global_game = new_game ([
       {based_on: "white", name: "White", fill: "#ffffff", stroke: "#000000"},
       {based_on: "black", name: "Black", fill: "#000000", stroke: "#ffffff"},
       /*{based_on: "white", name: "Pink", fill: "#ffaaff", stroke: "#ff00ff"},
@@ -359,7 +380,7 @@ function autoload_game () {
       {based_on: "black", name: "Blue", fill: "#0000ff", stroke: "#ffffff"},
       {based_on: "black", name: "Purple", fill: "#5500aa", stroke: "#ffffff"},*/
     ]);
-  }
+  autosave_game (global_game);
 }
 
 
