@@ -218,14 +218,17 @@ function draw_game (game) {
       include (neighbor);
     }
   });
+
+  function color_messages (color) {
+    drawn.message_area.css({color:color, "border-color":color});
+    if (drawn.location_indicator) {
+      drawn.location_indicator.element.style.setProperty ("--hex-stroke", color);
+    }
+  }
   
   if (floating_rounded_position_changed || prompt !== drawn.prompt) {
     drawn.message_area.empty();
-    drawn.message_area.css({color:"", "border-color":""});
-  }
-  
-  function color_messages (color) {
-    drawn.message_area.css({color:color, "border-color":color});
+    color_messages("var(--meta-stroke)");
   }
   
   if (floating_changed) {
@@ -238,7 +241,8 @@ function draw_game (game) {
       drawn.board.appendChild (drawn.floating_tile.element);
       
       drawn.location_indicator = create_drawn_tile ({ horizontal: drawn.floating_tile.horizontal, vertical: drawn.floating_tile.vertical, tile_id: blank_hex_id, rotation: 0 });
-      drawn.location_indicator.element.style.setProperty ("opacity", "0.3");
+      //drawn.location_indicator.element.style.setProperty ("opacity", "0.3");
+      drawn.location_indicator.element.style.setProperty ("--hex-fill", "transparent");
       drawn.location_indicator.element.classList.add("floating_tile_"+game.id);
       drawn.board.insertBefore (drawn.location_indicator.element, drawn.board.firstChild);
     }

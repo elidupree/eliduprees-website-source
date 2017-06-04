@@ -80,6 +80,9 @@
   document.getElementById ("path15465").style.setProperty ("--path-fill", "var(--path-fill-lock)");
   document.getElementById ("use10527").style.setProperty ("--path-fill", "var(--path-fill-3-5)");
   
+  document.getElementById ("path2985").style.setProperty ("fill", "var(--hex-fill)");
+  document.getElementById ("path2985").style.setProperty ("stroke", "var(--hex-stroke)");
+  document.getElementById ("path2985").style.setProperty ("stroke-width", "0.06");
   document.getElementById ("path16699-3").style.setProperty ("fill", "var(--arrow-fill)");
   
   var icons_table = {

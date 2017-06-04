@@ -257,7 +257,7 @@ button {
       r'''
 <style>
 
-html,body {background-color: var(--meta-fill);}
+html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke: transparent;}
 .game {display: block; margin: 0 auto;}
 #message_area {
   /*background-color:#ffaaaa;*/
@@ -266,7 +266,7 @@ html,body {background-color: var(--meta-fill);}
   padding: 0.5em;
   border-radius: 1em;
   border: 0.2em solid var(--meta-stroke);
-  color: var(--meta-stroke);
+  /*color: var(--meta-stroke);*/
   font-family: Arial, Helvetica, sans-serif;
 }
 .tile {
