@@ -172,8 +172,8 @@ function draw_game (game) {
   var prompt = game.prompt_stack.length > 0 && game.prompt_stack [game.prompt_stack.length - 1];
   
   if (drawn.current_player !== game.current_player) {
-    document.documentElement.style.setProperty ("--meta-fill", game.current_player.fill);
-    document.documentElement.style.setProperty ("--meta-stroke", game.current_player.stroke);
+    document.documentElement.style.setProperty ("--meta-fill", current_player (game).fill);
+    document.documentElement.style.setProperty ("--meta-stroke", current_player (game).stroke);
     drawn.current_player = game.current_player;
   }
   
@@ -277,7 +277,7 @@ function draw_game (game) {
     drawn.location_indicator.rotation = drawn.mouse_rounded.rotation;
     position_drawn_tile (drawn.location_indicator);
     
-    drawn.message_area.append (`<p>${game.current_player.name}'s turn.</p>`) ;
+    drawn.message_area.append (`<p>${current_player (game).name}'s turn.</p>`) ;
     
     if (!get_tile (game.tiles, drawn.floating_tile)) {
     

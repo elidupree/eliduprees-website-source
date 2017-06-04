@@ -466,7 +466,7 @@
       if ((!!icon === !!choose_icon) && (Math.random()*10000 < info.weight*(icon && icon.weight || 1))) {
         //hack: preserve the ratio of player-specific icons to non-player-specific icons, regardless of the number of players
         if (icon && icon.color && !player) {
-          player = random_choice (game_state.players);
+          player = random_choice (game_state.players_immutable);
         }
         if (!(player && icon.color !== player.based_on)) {
           break;
@@ -489,9 +489,9 @@
     if (state.prompt_stack.length >0) {
       return;
     }
-    var current_player_index = (state.current_player.index + 1) % state.players.length;
-    var old_player = state.current_player;
-    var player = state.current_player = state.players [current_player_index];
+    var old_player = current_player (state);
+    state.current_player = (state.current_player + 1) % state.players.length;
+    var player = current_player (state);
     
     if (old_player.skip_turns >0) {
       old_player.skip_turns--;
@@ -528,14 +528,22 @@
   }
   
   
+  function current_player (game) {
+    return game.players [game.current_player];
+  }
+  
   function new_game (players) {
     var game ={
       anchored_tiles: [],
       tiles: {},
+      players_immutable: _.cloneDeep(players),
       players: _.cloneDeep(players),
       prompt_stack: [],
       next_tile_key: 55,
     };
+    game.players_immutable.forEach(function(player, index) {
+      player.index = index;
+    });
     game.players.forEach(function(player, index) {
       player.index = index;
       player.skip_turns = 0;
@@ -544,9 +552,7 @@
     while (!(tile && tile.player)) {
       tile = create_random_tile (game);
     }
-    game.current_player = game.players [
-      (game.players.length + tile.player.index - 1) % game.players.length
-    ];
+    game.current_player = (game.players.length + tile.player.index - 1) % game.players.length;
     tile.horizontal = 0;
     tile.vertical = 0;
     game.anchored_tiles.push (tile);
@@ -564,7 +570,7 @@
       var paths = collect_paths (game.tiles, game.floating_tile) ;
       delete game.floating_tile;
         
-      game.current_player.played_yet = true;
+      current_player (game).played_yet = true;
       paths.forEach(function(path) {
         var effects = path_effects (path);
         if (effects !== undefined) {
