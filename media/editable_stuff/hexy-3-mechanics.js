@@ -468,7 +468,6 @@
       }
     }
     var result = {tile_id: id, rotation: random_range (0, 6)};
-    result.graphical_rotation = result.rotation;
     result.player = player;
     result.key = game_state.next_tile_key++;
     result.icon = icons_by_tile_id [result.tile_id];
@@ -529,6 +528,7 @@
       tiles: {},
       players: _.cloneDeep(players),
       prompt_stack: [],
+      next_tile_key: 55,
     };
     game.players.forEach(function(player, index) {
       player.index = index;

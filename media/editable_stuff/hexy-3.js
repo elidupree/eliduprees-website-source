@@ -95,16 +95,18 @@ function calculate_transform (id, horizontal, vertical, rotation) {
 
 
 function position_drawn_tile (tile) {
-  var CSS = calculate_transform (tile.tile_id, tile.horizontal, tile.vertical, tile.graphical_rotation);
+  var CSS = calculate_transform (tile.tile_id, tile.horizontal, tile.vertical, tile.rotation);
   tile.element.style.setProperty ("transform", CSS.transform);
   tile.element.style.setProperty ("transform-origin", CSS.transformOrigin);
 }
 
-function move_to_nearest_hex (tile) {
+function move_to_nearest_hex (approximate, modified) {
+  //modified = modified || approximate;
   // this can be improved
-  tile.horizontal = Math.round(tile.horizontal);
-  var adjustment = tile.horizontal & 1;
-  tile.vertical = Math.round((tile.vertical-adjustment)/2)*2+adjustment;
+  modified.horizontal = Math.round(approximate.horizontal);
+  var adjustment = modified.horizontal & 1;
+  modified.vertical = Math.round((approximate.vertical-adjustment)/2)*2+adjustment;
+  modified.rotation = Math.round(approximate.rotation) % 6;
 }
 
 function move_towards (value, target, speed) {
@@ -132,20 +134,21 @@ function draw_game (game) {
     drawn.board = create_ ("g");
     drawn.svg.appendChild (drawn.board);
     document.getElementById("content").appendChild (drawn.svg);
+    drawn.message_area = $("<div>", {id:"message_area", class:"draw_game_temporary_"+game.id});
+    $("#content").append (drawn.message_area);
     
-    drawn.mouse_horizontal = 0;
-    drawn.mouse_vertical = 0;
-    drawn.rotation = drawn.rotation_target = 0;
+    drawn.mouse_exact = {horizontal: 0, vertical: 0, rotation: 0};
+    drawn.mouse_rounded = {horizontal: 0, vertical: 0, rotation: 0};
+    drawn.rotation_target = 0;
     drawn.svg.addEventListener("mousemove", function (event) {
       var offset = $(drawn.svg).offset();
       var mouse_X = event.pageX - offset.left;
       var mouse_Y = event.pageY - offset.top;
-      drawn.mouse_horizontal = (mouse_X + drawn.min_horizontal)/(long_radius*1.5);
-      drawn.mouse_vertical = (mouse_Y + drawn.min_vertical)/short_radius;
+      drawn.mouse_exact.horizontal = (mouse_X + drawn.min_horizontal)/(long_radius*1.5);
+      drawn.mouse_exact.vertical = (mouse_Y + drawn.min_vertical)/short_radius;
     });
     
-    // TODO: click doesn't work because we keep regenerating it
-    drawn.svg.addEventListener("mouseup", function (event) {
+    drawn.svg.addEventListener("click", function (event) {
       if (event.button == 0 && game.floating_tile && drawn.floating_tile && !get_tile (game.tiles, drawn.floating_tile)) {
         var legality = placement_results (drawn.floating_tile, get_floating_tile_paths()).legality;
         if (legality !== "forbidden" && legality !== "waste") {
@@ -162,10 +165,28 @@ function draw_game (game) {
     });
   }
   
-  $(".draw_game_temporary_"+game.id).remove();
+  move_to_nearest_hex (drawn.mouse_exact, drawn.mouse_rounded);
   
-  document.documentElement.style.setProperty ("--meta-fill", game.current_player.fill);
-  document.documentElement.style.setProperty ("--meta-stroke", game.current_player.stroke);
+  var prompt = game.prompt_stack.length > 0 && game.prompt_stack [game.prompt_stack.length - 1];
+  
+  if (drawn.current_player !== game.current_player) {
+    document.documentElement.style.setProperty ("--meta-fill", game.current_player.fill);
+    document.documentElement.style.setProperty ("--meta-stroke", game.current_player.stroke);
+    drawn.current_player = game.current_player;
+  }
+  
+  var floating_changed = (game.floating_tile && game.floating_tile.key) !== (drawn.floating_tile && drawn.floating_tile.key);
+  var floating_rounded_position_changed = floating_changed || (drawn.floating_tile && (
+    drawn.floating_tile.horizontal !== drawn.mouse_rounded.horizontal ||
+    drawn.floating_tile.vertical !== drawn.mouse_rounded.vertical ||
+    drawn.floating_tile.rotation !== drawn.mouse_rounded.rotation
+  ));
+  /*var floating_exact_position_changed = floating_changed || (drawn.floating_tile && (
+    drawn.floating_tile.horizontal !== drawn.mouse_exact.horizontal ||
+    drawn.floating_tile.vertical !== drawn.mouse_exact.vertical ||
+    drawn.floating_tile.rotation !== drawn.mouse_exact.rotation
+  ));*/
+  
   
   
       var min_horizontal = 0;
@@ -184,12 +205,13 @@ function draw_game (game) {
     var drawn_tile = get_tile (drawn.tiles, tile);
     if (drawn_tile === undefined) {
       drawn_tile = create_drawn_tile (tile);
-      drawn_tile.graphical_rotation = drawn_tile.rotation;
       set_tile (drawn.tiles, drawn_tile);
       position_drawn_tile (drawn_tile);
       drawn.board.appendChild (drawn_tile.element);
     }
-    clear_paths (drawn_tile);
+    if (floating_rounded_position_changed) {
+      clear_paths (drawn_tile);
+    }
     
     for (var direction = 0; direction <6 ;++direction) {
       var neighbor = in_direction (tile, direction);
@@ -197,35 +219,48 @@ function draw_game (game) {
     }
   });
   
-  var message_area = $("<div>", {id:"message_area", class:"draw_game_temporary_"+game.id});
-  $("#content"). append (message_area) ;
-  function color_messages (color) {
-    message_area.css({color:color, "border-color":color});
+  if (floating_rounded_position_changed || prompt !== drawn.prompt) {
+    drawn.message_area.empty();
+    drawn.message_area.css({color:"", "border-color":""});
   }
   
-  if (!game.floating_tile) {
-    delete drawn.floating_tile;
+  function color_messages (color) {
+    drawn.message_area.css({color:color, "border-color":color});
   }
-  else {
-    var tile = game.floating_tile;
-    drawn.floating_tile = create_drawn_tile (tile);
-    drawn.floating_tile.element.classList.add("draw_game_temporary_"+game.id);
-    drawn.floating_tile.horizontal = drawn.mouse_horizontal;
-    drawn.floating_tile.vertical = drawn.mouse_vertical;
-    drawn.floating_tile.rotation = Math.round(drawn.floating_tile.graphical_rotation = drawn.rotation) % 6;
+  
+  if (floating_changed) {
+    delete drawn.floating_tile;
+    $(".floating_tile_"+game.id).remove();
+    if (game.floating_tile) {
+      var tile = game.floating_tile;
+      drawn.floating_tile = create_drawn_tile (tile);
+      drawn.floating_tile.element.classList.add("floating_tile_"+game.id);
+      drawn.board.appendChild (drawn.floating_tile.element);
+      
+      drawn.location_indicator = create_drawn_tile ({ horizontal: drawn.floating_tile.horizontal, vertical: drawn.floating_tile.vertical, tile_id: blank_hex_id, rotation: 0 });
+      drawn.location_indicator.element.style.setProperty ("opacity", "0.3");
+      drawn.location_indicator.element.classList.add("floating_tile_"+game.id);
+      drawn.board.insertBefore (drawn.location_indicator.element, drawn.board.firstChild);
+    }
+  }
+  if (drawn.floating_tile) {
+    drawn.floating_tile.horizontal = drawn.mouse_exact.horizontal;
+    drawn.floating_tile.vertical = drawn.mouse_exact.vertical;
+    drawn.floating_tile.rotation = drawn.mouse_exact.rotation;
     position_drawn_tile (drawn.floating_tile);
+    drawn.floating_tile.horizontal = drawn.mouse_rounded.horizontal;
+    drawn.floating_tile.vertical = drawn.mouse_rounded.vertical;
+    drawn.floating_tile.rotation = drawn.mouse_rounded.rotation;
+  }
+  if (drawn.floating_tile && floating_rounded_position_changed) {
     clear_paths (drawn.floating_tile);
-    drawn.board.appendChild (drawn.floating_tile.element);
     
-    move_to_nearest_hex (drawn.floating_tile);
+    drawn.location_indicator.horizontal = drawn.mouse_rounded.horizontal;
+    drawn.location_indicator.vertical = drawn.mouse_rounded.vertical;
+    drawn.location_indicator.rotation = drawn.mouse_rounded.rotation;
+    position_drawn_tile (drawn.location_indicator);
     
-    var location_indicator = create_drawn_tile ({ horizontal: drawn.floating_tile.horizontal, vertical: drawn.floating_tile.vertical, tile_id: blank_hex_id, rotation: 0, graphical_rotation: 0 });
-    location_indicator.element.style.setProperty ("opacity", "0.3");
-    position_drawn_tile (location_indicator);
-    location_indicator.element.classList.add("draw_game_temporary_"+game.id);
-        drawn.board.insertBefore (location_indicator.element, drawn.board.firstChild);
-    
-    message_area.append (`<p>${game.current_player.name}'s turn.</p>`) ;
+    drawn.message_area.append (`<p>${game.current_player.name}'s turn.</p>`) ;
     
     if (!get_tile (game.tiles, drawn.floating_tile)) {
     
@@ -248,11 +283,11 @@ function draw_game (game) {
     }
     
     if (results.legality === "forbidden") {
-      message_area.append ("<p>You can't place the tile there because you can't connect your current icon to an icon that's already on the board.</p>") ;
+      drawn.message_area.append ("<p>You can't place the tile there because you can't connect your current icon to an icon that's already on the board.</p>") ;
       color_messages (legality_fill [results.legality]);
     }
     if (results.legality === "waste") {
-      message_area.append ("<p>You can't place the tile there because"+ list (results.relevant_paths, path => {
+      drawn.message_area.append ("<p>You can't place the tile there because"+ list (results.relevant_paths, path => {
         if (path.icons.length >1) {
           return `a connection between ${describe_tile_icon (path.icons [0])} and ${describe_tile_icon (path.icons [1])} doesn't do anything`;
         }
@@ -263,7 +298,7 @@ function draw_game (game) {
       color_messages (legality_fill ["forbidden"]);
     }
     if (results.legality === "success") {
-      message_area.append ("<p>If you place the tile there, it will cause"+list (results.relevant_paths, path => {
+      drawn.message_area.append ("<p>If you place the tile there, it will cause"+list (results.relevant_paths, path => {
         var effects = path_effects (path);
         return '"'+ effects.message +'"';
       })+"</p>");
@@ -273,23 +308,22 @@ function draw_game (game) {
     }
   }
   
-  if (game.prompt_stack.length >0) {
-    var prompt = game.prompt_stack [game.prompt_stack.length - 1];
-    message_area.append (prompt.message);
+  if (prompt && prompt !== drawn.prompt) {
+    drawn.message_area.append (prompt.message);
     prompt.options.forEach(function(option) {
-      // TODO: click doesn't work because we keep regenerating it
-      message_area.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).on("mouseup", function() {
+      drawn.message_area.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).on("click", function() {
         answer_prompt (game, option);
       }));
     });
   }
+  drawn.prompt = prompt;
   
   var speed = 2;
   drawn.min_horizontal = move_towards (drawn.min_horizontal, min_horizontal, speed);
   drawn.max_horizontal = move_towards (drawn.max_horizontal, max_horizontal, speed);
   drawn.min_vertical = move_towards (drawn.min_vertical, min_vertical, speed);
   drawn.max_vertical = move_towards (drawn.max_vertical, max_vertical, speed);
-  drawn.rotation = move_towards (drawn.rotation, drawn.rotation_target, 0.1);
+  drawn.mouse_exact.rotation = move_towards (drawn.mouse_exact.rotation, drawn.rotation_target, 0.1);
   var width = drawn.max_horizontal - drawn.min_horizontal;
   var height = drawn.max_vertical - drawn.min_vertical;
   drawn.svg.setAttribute("width", width);

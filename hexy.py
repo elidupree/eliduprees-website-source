@@ -270,7 +270,7 @@ html,body {background-color: var(--meta-fill);}
   font-family: Arial, Helvetica, sans-serif;
 }
 .tile {
-  transition-duration: 0.6s;
+  /*transition-duration: 0.6s;*/
 }
 .prompt_option {
   display: block;
