@@ -352,7 +352,10 @@
         if (first.player && second.icon.icon === "toybox") {
           return {
             message:`${first.player.name}, choose a toy to be used on you`,
-            success
+            options: [
+              success,
+              fail_option (first.player, `${first.player.name} has no toys left to choose`)
+            ]
           };
         }
       },
