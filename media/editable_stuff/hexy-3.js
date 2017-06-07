@@ -143,6 +143,9 @@ function move_to_nearest_hex (approximate, modified) {
 function move_towards (value, target, speed) {
   if (value === undefined) {return target;}
   if (Math.abs (value - target) <speed) {return target;}
+  if (Math.abs (value - target) > speed*(frames_per_second/2)) {
+    return target*0.05 + value*0.95;
+  }
   if (value >target) {return value - speed;}
   return value + speed;
 }
