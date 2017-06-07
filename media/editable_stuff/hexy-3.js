@@ -10,15 +10,22 @@ bottom_bar.css ("font-size", "2vh");
 var frames_per_second = 60;
 var game_height;
 var game_width;
+var resized = true;
+$(window).resize (function() {
+  resized = true;
+});
 function update_dimensions() {
-  var game_top = top_bar.offset().top + top_bar.height();
-  var game_bottom = $(window).height() - bottom_bar.height();
-  var width = $(window).width();
-  var height = game_bottom - game_top;
-  var result = game_width != width || game_height != height;
-  game_height = height;
-  game_width = width;
-  return result;
+  if (resized) {
+    resized = false;
+    var game_top = top_bar.offset().top + top_bar.height();
+    var game_bottom = $(window).height() - bottom_bar.height();
+    var width = $(window).width();
+    var height = game_bottom - game_top;
+    var result = game_width != width || game_height != height;
+    game_height = height;
+    game_width = width;
+    return result;
+  }
 }
 update_dimensions();
 
@@ -245,7 +252,8 @@ function draw_game (game) {
     drawn.floating_tile.rotation !== drawn.mouse_exact.rotation
   ));*/
   
-  if (update_dimensions() || just_created) {
+  var dimensions_changed = update_dimensions();
+  if (dimensions_changed || just_created) {
     var board_share = Math.ceil(game_height * 0.7);
     drawn.board_container.height(board_share);
     drawn.non_board_container.height(game_height - board_share);
@@ -295,7 +303,8 @@ function draw_game (game) {
     }
   }
   
-  if (floating_rounded_position_changed || prompt !== drawn.prompt) {
+  var redraw_messages = floating_rounded_position_changed || prompt !== drawn.prompt;
+  if (redraw_messages) {
     drawn.message_contents.empty();
     color_messages("var(--meta-stroke)");
   }
@@ -394,12 +403,18 @@ function draw_game (game) {
   }
   drawn.prompt = prompt;
   
-  var font_size = 100;
-  drawn.message_contents.css ("font-size", `${font_size}%`);
-  while (font_size > 30 && (drawn.message_contents.outerHeight() > drawn.message_area.height())) {
-    font_size -= 5;
+  if (redraw_messages || dimensions_changed) {
+    var font_size = 100;
     drawn.message_contents.css ("font-size", `${font_size}%`);
+    while (font_size > 30 && (drawn.message_contents.outerHeight() > drawn.message_area.height())) {
+      font_size -= 5;
+      drawn.message_contents.css ("font-size", `${font_size}%`);
+    }
   }
+  
+  var board_changing = drawn.min_horizontal !== min_horizontal || drawn.max_horizontal !== max_horizontal || 
+  drawn.min_vertical !== min_vertical || 
+  drawn.max_vertical !== max_vertical;
   
   var speed = 120/frames_per_second;
   drawn.min_horizontal = move_towards (drawn.min_horizontal, min_horizontal, speed);
@@ -409,10 +424,11 @@ function draw_game (game) {
   drawn.mouse_exact.rotation = move_towards (drawn.mouse_exact.rotation, drawn.rotation_target, 6/frames_per_second);
   var width = drawn.max_horizontal - drawn.min_horizontal;
   var height = drawn.max_vertical - drawn.min_vertical;
-  drawn.svg.setAttribute("width", width*drawn.scale);
-  drawn.svg.setAttribute("height", height*drawn.scale);
-  drawn.board.style.setProperty ("transform", "translate(" + (-drawn.min_horizontal*drawn.scale) + "px, "+ (-drawn.min_vertical*drawn.scale) + "px)");
-  
+  if (board_changing) {
+    drawn.svg.setAttribute("width", width*drawn.scale);
+    drawn.svg.setAttribute("height", height*drawn.scale);
+    drawn.board.style.setProperty ("transform", "translate(" + (-drawn.min_horizontal*drawn.scale) + "px, "+ (-drawn.min_vertical*drawn.scale) + "px)");
+  }
 }
 
 
