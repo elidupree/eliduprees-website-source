@@ -272,7 +272,7 @@ My hands are doing much better than they were a month ago! I've been able to do 
 
 My throat is also doing better. I think the problem was mostly allergies. I've been taking allergy meds and using air purifiers, and my throat's doing a lot better now, although it's not perfect. I even built an air-filter-on-a-hose to deliver filtered air straight to my face:
 
-<img src="/media/air-filter-on-a-hose.jpg" alt="[Photo: Me with an air hose coming from out of the picture and connecting to a box that sits just below my chin]" style="display:block; margin: 2em auto; max-width: 100%;">
+<img src="/media/air-filter-on-a-hose.jpg?rr" alt="[Photo: Me with an air hose coming from out of the picture and connecting to a box that sits just below my chin]" style="display:block; margin: 2em auto; max-width: 100%;">
 
 I might eventually write up a full description of this device, the way I did with <a href="/blog/the-carrying-contraption">my carrying contraption</a>.
 
