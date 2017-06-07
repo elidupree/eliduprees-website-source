@@ -523,11 +523,11 @@
   "remembered_contents": "0006ae0e8161b9cf2762702f3b2bbcdfc7ae3ca0e176756b2792e03f4cdd9947f08a11e3e640beda97ad1e37fd70954a"
  },
  "How to Write Cliffhangers: a Theory of Writing": {
-  "date_modified": "2017-05-24",
+  "date_modified": "2017-06-07",
   "date_posted": "2017-05-24",
   "deployed": true,
   "id": "29390d3c2462d6efa1ccc8a77d34682",
-  "remembered_contents": "9bc47374557ec086f1706bc215cf8850e58d10d5761e8c8aae242e7ab8aad4b2e8ad73f741b9659637b0570512698732"
+  "remembered_contents": "613ec12dd1c7d8dc431cdc0453980c721b2c98bb63e613218070cd1e4ef92c9edb7c9c715c23fe8c50f97262cc17766b"
  },
  "How to make your fantasy setting less racist": {
   "date_modified": "2016-11-18",
@@ -881,7 +881,9 @@
  "Projects update 2017-06-07": {
   "date_modified": "2017-06-07",
   "date_posted": "2017-06-07",
-  "id": "634705889d108c763a26b9993fb03d5"
+  "deployed": true,
+  "id": "634705889d108c763a26b9993fb03d5",
+  "remembered_contents": "2bba0a74dca8994eb90287144526bbc8d02ed50759a2d933fb4ecd2674606ef5dd1de6b46a732a039c4b22b22cf5d83d"
  },
  "Prose vs. graphic narration": {
   "date_modified": "2011-09-05",
