@@ -254,8 +254,33 @@ There's sometimes a good reason to actually break a promise. If you must break a
 
 I think about promise theory a lot while I'm writing my stories. I didn't choose the word "promise" until a few weeks ago when I started planning this post, but the concept has been about the same for years.
 
-Along with this post, I've added a section to <a href="/stories/ravelling-wrath-chapter-1/discussion">the author's notes of Ravelling Wrath, chapter 1</a>. It talks about exactly how I used promise theory while writing that chapter. I think it makes a pretty good example.
+Along with this post, I've added a section to <a href="/ravelling-wrath/discussion">the author's notes of Ravelling Wrath, chapter 1</a>. It talks about exactly how I used promise theory while writing that chapter. I think it makes a pretty good example.
 
+
+
+''',
+},
+
+{
+"title": "Projects update 2017-06-07",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+My hands are doing much better than they were a month ago! I've been able to do lots of things that I couldn't do for a while. I've been bicycling, I've been using scissors, I've been typing somewhat more, and lots of other stuff. Unfortunately, <em>drawing</em> is still being troublesome for me. I can currently draw for about 10 minutes at a time without problems, but I want to do much more than that. I might get there soon, but I might not.
+
+My throat is also doing better. I think the problem was mostly allergies. I've been taking allergy meds and using air purifiers, and my throat's doing a lot better now, although it's not perfect. I even built an air-filter-on-a-hose to deliver filtered air straight to my face:
+
+<img src="/media/air-filter-on-a-hose.jpg" alt="[Photo: Me with an air hose coming from out of the picture and connecting to a box that sits just below my chin]" style="display:block; margin: 2em auto; max-width: 100%;">
+
+I might eventually write up a full description of this device, the way I did with <a href="/blog/the-carrying-contraption">my carrying contraption</a>.
+
+
+Today, I've been working on a web version of <a href="/hexy">[NSFW] Hexy Bondage</a>! The idea is that people will be able to play together on one computer/smartphone/tablet, rather than having to print it out. I have a complete prototype, but I still have a lot of polishing to do before I'm ready to publish it. <span class="hidden_from_restricted_users">(That said, the prototype is already available on the secret page for my <a href="https://www.patreon.com/EliDupree">Patreon supporters</a>!)</span>
+
+
+Also, Chapter 3 of <a href="/ravelling-wrath">Ravelling Wrath</a> currently stands at about 3000 words. I'm guessing it'll be about 8000 words when it's done, like Chapter 2 is.
 
 
 ''',
