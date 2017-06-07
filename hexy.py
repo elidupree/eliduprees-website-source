@@ -261,13 +261,13 @@ html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke
 .game_svg {display: block; margin: 0 auto;}
 .message_area {
   /*background-color:#ffaaaa;*/
-  font-size: 3vh;
-  margin: 0.5em;
+  margin: 0.2em;
   padding: 0.5em;
   border-radius: 1em;
   border: 0.2em solid var(--meta-stroke);
   /*color: var(--meta-stroke);*/
   font-family: Arial, Helvetica, sans-serif;
+  flex-grow: 1;
 }
 .message_area p {
   margin: 0;
@@ -282,33 +282,39 @@ html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke
 .prompt_option {
   display: block;
   font-size: 100%;
+  margin: 0.5em;}
+
+input[type="button"] {
   background-color: var(--meta-fill);
-  margin: 0.5em;
+  border: 0.2em solid var(--meta-stroke);
   padding: 0.5em;
   border-radius: 1em;
-  border: 0.2em solid var(--meta-stroke);
   color: var(--meta-stroke);
   font-family: Arial, Helvetica, sans-serif;
 }
-
-.prompt_option:hover {
+input[type="button"]:hover {
   background-color: var(--meta-stroke);
   border-color: 0.2em solid var(--meta-fill);
   color: var(--meta-fill);
 }
 
-.rotation_arrow {
-  --arrow-fill: #ffffff;
+.board_container {
+  width: 100%;
+  overflow: auto;
 }
-.rotation_arrow:hover {
-  --arrow-fill: #ffff00;
+.non_board_container {
+  display: flex;
+  font-size: 3vh;
 }
-button {
-  font-size: 120%;
-  padding: 3px 5px;
-  border:2px solid black;
-  border-radius:5px;
+.buttons_area {
+  display: flex;
+  flex-direction: column;
 }
+.buttons_area input[type="button"] {
+  display: block;
+  font-size: 100%;
+  padding: 0.3em;
+  margin: 0.2em;}
 
 </style>
 ''',

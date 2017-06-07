@@ -1,5 +1,29 @@
 "use strict";
 
+var turn = Math.PI*2;
+var top_bar = $(".top_bar");
+var bottom_bar = $(".bottom_bar");
+$(".bars_inner_box").css ("padding-bottom", 0);
+top_bar.css ("font-size", "2vh");
+bottom_bar.css ("font-size", "2vh");
+
+var frames_per_second = 60;
+var game_height;
+var game_width;
+function update_dimensions() {
+  var game_top = top_bar.offset().top + top_bar.height();
+  var game_bottom = $(window).height() - bottom_bar.height();
+  var width = $(window).width();
+  var height = game_bottom - game_top;
+  var result = game_width != width || game_height != height;
+  game_height = height;
+  game_width = width;
+  return result;
+}
+update_dimensions();
+
+
+
 var drawn_games = {};
 
   var legality_fill = {
@@ -83,19 +107,19 @@ function neutral_transform (id) {
     return {"transformOrigin": transform_origin, transform: transform}
 }
 
-function calculate_transform (id, horizontal, vertical, rotation) {
+function calculate_transform (drawn, id, horizontal, vertical, rotation) {
     var result = neutral_transform (id);
     
     var position = visual_position (horizontal, vertical);
     result.transform = result.transform + (
-      " translate(" + position.horizontal + "px," + position.vertical + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius+ "," + long_radius+ ")"
+      " translate(" + position.horizontal*drawn.scale + "px," + position.vertical*drawn.scale + "px) rotate("+(-0.0833 + rotation/6)+"turn) scale(" + long_radius*drawn.scale+ "," + long_radius*drawn.scale+ ")"
     );
     return result
 }
 
 
-function position_drawn_tile (tile) {
-  var CSS = calculate_transform (tile.tile_id, tile.horizontal, tile.vertical, tile.rotation);
+function position_drawn_tile (drawn, tile) {
+  var CSS = calculate_transform (drawn, tile.tile_id, tile.horizontal, tile.vertical, tile.rotation);
   tile.element.style.setProperty ("transform", CSS.transform);
   tile.element.style.setProperty ("transform-origin", CSS.transformOrigin);
 }
@@ -106,7 +130,7 @@ function move_to_nearest_hex (approximate, modified) {
   modified.horizontal = Math.round(approximate.horizontal);
   var adjustment = modified.horizontal & 1;
   modified.vertical = Math.round((approximate.vertical-adjustment)/2)*2+adjustment;
-  modified.rotation = Math.round(approximate.rotation) % 6;
+  modified.rotation = ((Math.round(approximate.rotation) % 6) + 6) % 6;
 }
 
 function move_towards (value, target, speed) {
@@ -128,6 +152,13 @@ function draw_game (game) {
     return result;
   }
   
+  function rotate (amount) {
+    if (game.floating_tile && drawn.floating_tile) {
+      drawn.rotation_target += amount;
+      return true;
+    }
+  }
+  
   var just_created = (drawn === undefined);
   if (just_created) {
     drawn_games [game.id] = drawn = {tiles:{}};
@@ -138,12 +169,29 @@ function draw_game (game) {
     drawn.svg.appendChild (drawn.board);
     document.getElementById("content").appendChild (drawn.element[0]);
     drawn.message_area = $("<div>", {class:"message_area message_area_"+game.id});
-    drawn.element.append (drawn.svg, drawn.message_area);
     drawn.element.append (
-      $("<input>", {type: "button", class: "prompt_option", value: "restart game"}).on("click", function() {
-        restart_game (game);
-      })
+      drawn.board_container = $("<div>", {class:"board_container"}).append(
+        drawn.svg
+      ),
+      drawn.non_board_container = $("<div>", {class:"non_board_container"}).append(
+        drawn.message_area,
+        $("<div>", {class:"buttons_area"}).append(
+          $("<input>", {type: "button", value: "rotate left"}).on("click", function() {
+            rotate (-1);
+          }),
+          $("<input>", {type: "button", value: "rotate right"}).on("click", function() {
+            rotate (1);
+          }),
+          $("<input>", {type: "button", value: "restart game"}).on("click", function() {
+            restart_game ();
+          })
+        )
+      )
     );
+    document.addEventListener ("keydown", event => {
+      if (event.keyCode === 37 && rotate (-1)) {event.preventDefault();}
+      if (event.keyCode === 39 && rotate (1)) {event.preventDefault();}
+    });
     
     drawn.mouse_exact = {horizontal: 0, vertical: 0, rotation: 0};
     drawn.mouse_rounded = {horizontal: 0, vertical: 0, rotation: 0};
@@ -152,8 +200,8 @@ function draw_game (game) {
       var offset = $(drawn.svg).offset();
       var mouse_X = event.pageX - offset.left;
       var mouse_Y = event.pageY - offset.top;
-      drawn.mouse_exact.horizontal = (mouse_X + drawn.min_horizontal)/(long_radius*1.5);
-      drawn.mouse_exact.vertical = (mouse_Y + drawn.min_vertical)/short_radius;
+      drawn.mouse_exact.horizontal = (mouse_X + drawn.min_horizontal*drawn.scale)/(long_radius*1.5*drawn.scale);
+      drawn.mouse_exact.vertical = (mouse_Y + drawn.min_vertical*drawn.scale)/(short_radius*drawn.scale);
     });
     
     drawn.svg.addEventListener("click", function (event) {
@@ -166,12 +214,12 @@ function draw_game (game) {
       }
     });
     
-    drawn.svg.addEventListener("contextmenu", function (event) {
+    /*drawn.svg.addEventListener("contextmenu", function (event) {
       if (game.floating_tile && drawn.floating_tile) {
         drawn.rotation_target++;
       }
       event.preventDefault();
-    });
+    });*/
   }
   
   move_to_nearest_hex (drawn.mouse_exact, drawn.mouse_rounded);
@@ -196,6 +244,14 @@ function draw_game (game) {
     drawn.floating_tile.rotation !== drawn.mouse_exact.rotation
   ));*/
   
+  if (update_dimensions() || just_created) {
+    var board_share = Math.ceil(game_height * 0.7);
+    drawn.board_container.height(board_share);
+    drawn.non_board_container.height(game_height - board_share);
+    var scale = Math.min (1, Math.min(game_width, board_share)/ (long_radius*10));
+    var scale_changed = just_created || scale !== drawn.scale;
+    drawn.scale = scale;
+  }
   
   
       var min_horizontal = 0;
@@ -215,8 +271,11 @@ function draw_game (game) {
     if (drawn_tile === undefined) {
       drawn_tile = create_drawn_tile (tile);
       set_tile (drawn.tiles, drawn_tile);
-      position_drawn_tile (drawn_tile);
+      position_drawn_tile (drawn, drawn_tile);
       drawn.board.appendChild (drawn_tile.element);
+    }
+    else if (scale_changed) {
+      position_drawn_tile (drawn, drawn_tile);
     }
     if (floating_rounded_position_changed) {
       clear_paths (drawn_tile);
@@ -260,7 +319,7 @@ function draw_game (game) {
     drawn.floating_tile.horizontal = drawn.mouse_exact.horizontal;
     drawn.floating_tile.vertical = drawn.mouse_exact.vertical;
     drawn.floating_tile.rotation = drawn.mouse_exact.rotation;
-    position_drawn_tile (drawn.floating_tile);
+    position_drawn_tile (drawn, drawn.floating_tile);
     drawn.floating_tile.horizontal = drawn.mouse_rounded.horizontal;
     drawn.floating_tile.vertical = drawn.mouse_rounded.vertical;
     drawn.floating_tile.rotation = drawn.mouse_rounded.rotation;
@@ -282,7 +341,7 @@ function draw_game (game) {
     drawn.location_indicator.horizontal = drawn.mouse_rounded.horizontal;
     drawn.location_indicator.vertical = drawn.mouse_rounded.vertical;
     drawn.location_indicator.rotation = drawn.mouse_rounded.rotation;
-    position_drawn_tile (drawn.location_indicator);
+    position_drawn_tile (drawn, drawn.location_indicator);
     
     drawn.message_area.append (`<p>${current_player (game).name}'s turn.</p>`) ;
     
@@ -334,17 +393,17 @@ function draw_game (game) {
   }
   drawn.prompt = prompt;
   
-  var speed = 2;
+  var speed = 120/frames_per_second;
   drawn.min_horizontal = move_towards (drawn.min_horizontal, min_horizontal, speed);
   drawn.max_horizontal = move_towards (drawn.max_horizontal, max_horizontal, speed);
   drawn.min_vertical = move_towards (drawn.min_vertical, min_vertical, speed);
   drawn.max_vertical = move_towards (drawn.max_vertical, max_vertical, speed);
-  drawn.mouse_exact.rotation = move_towards (drawn.mouse_exact.rotation, drawn.rotation_target, 0.1);
+  drawn.mouse_exact.rotation = move_towards (drawn.mouse_exact.rotation, drawn.rotation_target, 6/frames_per_second);
   var width = drawn.max_horizontal - drawn.min_horizontal;
   var height = drawn.max_vertical - drawn.min_vertical;
-  drawn.svg.setAttribute("width", width);
-  drawn.svg.setAttribute("height", height);
-  drawn.board.style.setProperty ("transform", "translate(" + (-drawn.min_horizontal) + "px, "+ (-drawn.min_vertical) + "px)");
+  drawn.svg.setAttribute("width", width*drawn.scale);
+  drawn.svg.setAttribute("height", height*drawn.scale);
+  drawn.board.style.setProperty ("transform", "translate(" + (-drawn.min_horizontal*drawn.scale) + "px, "+ (-drawn.min_vertical*drawn.scale) + "px)");
   
 }
 
