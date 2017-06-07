@@ -282,7 +282,9 @@ html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke
 .prompt_option {
   display: block;
   font-size: 100%;
-  margin: 0.5em;}
+  margin: 0.5em;
+  white-space: normal;
+}
 
 input[type="button"] {
   background-color: var(--meta-fill);

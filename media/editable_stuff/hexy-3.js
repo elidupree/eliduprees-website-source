@@ -168,13 +168,14 @@ function draw_game (game) {
     drawn.board = create_ ("g");
     drawn.svg.appendChild (drawn.board);
     document.getElementById("content").appendChild (drawn.element[0]);
-    drawn.message_area = $("<div>", {class:"message_area message_area_"+game.id});
     drawn.element.append (
       drawn.board_container = $("<div>", {class:"board_container"}).append(
         drawn.svg
       ),
       drawn.non_board_container = $("<div>", {class:"non_board_container"}).append(
-        drawn.message_area,
+        drawn.message_area = $("<div>", {class:"message_area message_area_"+game.id}).append(
+          drawn.message_contents = $("<div>")
+        ),
         $("<div>", {class:"buttons_area"}).append(
           $("<input>", {type: "button", value: "rotate left"}).on("click", function() {
             rotate (-1);
@@ -295,7 +296,7 @@ function draw_game (game) {
   }
   
   if (floating_rounded_position_changed || prompt !== drawn.prompt) {
-    drawn.message_area.empty();
+    drawn.message_contents.empty();
     color_messages("var(--meta-stroke)");
   }
   
@@ -343,7 +344,7 @@ function draw_game (game) {
     drawn.location_indicator.rotation = drawn.mouse_rounded.rotation;
     position_drawn_tile (drawn, drawn.location_indicator);
     
-    drawn.message_area.append (`<p>${current_player (game).name}'s turn.</p>`) ;
+    drawn.message_contents.append (`<p>${current_player (game).name}'s turn.</p>`) ;
     
     if (!get_tile (game.tiles, drawn.floating_tile)) {
     
@@ -357,11 +358,11 @@ function draw_game (game) {
     var results = placement_results (drawn.floating_tile, paths);
     
     if (results.legality === "forbidden") {
-      drawn.message_area.append ("<p>You can't place the tile there because you can't connect your current icon to an icon that's already on the board.</p>") ;
+      drawn.message_contents.append ("<p>You can't place the tile there because you can't connect your current icon to an icon that's already on the board.</p>") ;
       color_messages (legality_fill [results.legality]);
     }
     if (results.legality === "waste") {
-      drawn.message_area.append ("<p>You can't place the tile there because"+ list (results.relevant_paths, path => {
+      drawn.message_contents.append ("<p>You can't place the tile there because"+ list (results.relevant_paths, path => {
         if (path.icons.length >1) {
           return `a connection between ${describe_tile_icon (path.icons [0])} and ${describe_tile_icon (path.icons [1])} doesn't do anything`;
         }
@@ -372,7 +373,7 @@ function draw_game (game) {
       color_messages (legality_fill ["forbidden"]);
     }
     if (results.legality === "success") {
-      drawn.message_area.append ("<p>If you place the tile there, it will cause"+list (results.relevant_paths, path => {
+      drawn.message_contents.append ("<p>If you place the tile there, it will cause"+list (results.relevant_paths, path => {
         var effects = path_effects (path);
         return '"'+ effects.message +'"';
       })+"</p>");
@@ -383,15 +384,22 @@ function draw_game (game) {
   }
   
   if (prompt && prompt !== drawn.prompt) {
-    drawn.message_area.append (prompt.message);
+    drawn.message_contents.append (prompt.message);
     prompt.options.forEach(function(option) {
-      drawn.message_area.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).on("click", function() {
+      drawn.message_contents.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).on("click", function() {
         answer_prompt (game, option);
         autosave_game (game);
       }));
     });
   }
   drawn.prompt = prompt;
+  
+  var font_size = 100;
+  drawn.message_contents.css ("font-size", `${font_size}%`);
+  while (font_size > 30 && (drawn.message_contents.outerHeight() > drawn.message_area.height())) {
+    font_size -= 5;
+    drawn.message_contents.css ("font-size", `${font_size}%`);
+  }
   
   var speed = 120/frames_per_second;
   drawn.min_horizontal = move_towards (drawn.min_horizontal, min_horizontal, speed);
