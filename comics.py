@@ -254,6 +254,20 @@ var disable_content_warnings_buttons = document.getElementsByClassName("disable_
 for (i = 0; i < disable_content_warnings_buttons.length; ++i) {
   add_event_listener(disable_content_warnings_buttons[i],'click',window.elidupree.disable_content_warnings);
 }
+
+add_event_listener (document, "keydown", event => {
+  var link;
+  if (event.keyCode === 37) {
+    link = $("link[rel*='prev']")[0];
+  }
+  if (event.keyCode === 39) {
+    link = $("link[rel*='next']")[0];
+  }
+  
+  if (link) {
+    window.location.href = link.href;
+  }
+});
 ''')
 
 import voldemorts_children.pages
