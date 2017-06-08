@@ -255,7 +255,7 @@ for (i = 0; i < disable_content_warnings_buttons.length; ++i) {
   add_event_listener(disable_content_warnings_buttons[i],'click',window.elidupree.disable_content_warnings);
 }
 
-add_event_listener (document, "keydown", event => {
+add_event_listener (document, "keydown", function (event) {
   var link;
   if (event.keyCode === 37) {
     link = $("link[rel*='prev']")[0];
