@@ -577,7 +577,7 @@
       current_player (game).played_yet = true;
       paths.forEach(function(path) {
         var effects = path_effects (path);
-        if (effects !== undefined) {
+        if (path.completed && effects !== undefined) {
           game.prompt_stack.push (effects);
         }
       }) ;
