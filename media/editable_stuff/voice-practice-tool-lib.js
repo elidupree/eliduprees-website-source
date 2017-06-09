@@ -10,6 +10,7 @@ window.initialize_voice_practice_tool = function(voice_practice_tool_options){
   var min_pitch = 80;
   var Max_pitch = 3000;
   var turn = Math.PI*2;
+  var cent_magnitudes;
   //var pitch_analyzer = new PitchAnalyzer (rate);
   
   var recent_magnitudes_size = 1;
@@ -389,7 +390,7 @@ var source;
     
     $("#histogram_canvas").attr("width", width).attr("height", height);
     
-    var cent_magnitudes = get_cent_decibels (analyzer);
+    cent_magnitudes = get_cent_decibels (analyzer);
             
     histogram_canvas.fillStyle = "rgb(0, 0, 0)"
     histogram_canvas.fillRect (0, 0, width, height);
