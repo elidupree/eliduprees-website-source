@@ -62,9 +62,9 @@ function create_drawn_tile (tile) {
 }
 
 
-function clear_paths (tile) {
+function clear_paths (tile, color) {
       function do_connection (identifier) {
-        tile.element.style.setProperty ("--path-fill-" + identifier, "#808080");
+        tile.element.style.setProperty ("--path-fill-" + identifier, color || "#808080");
       }
       info_by_tile_id[tile.tile_id].connections.forEach(function(connection, index) {
         if (typeof connection == "number") {
@@ -131,15 +131,22 @@ function position_drawn_tile (drawn, tile) {
   tile.element.style.setProperty ("transform-origin", CSS.transformOrigin);
 }
 
-function move_to_nearest_hex (approximate, modified) {
-  //modified = modified || approximate;
+function visual_to_exact (visual, modified) {
+  modified = modified || {};
+  modified.horizontal = visual.horizontal/(1.5*long_radius);
+  modified.vertical = visual.vertical/short_radius;
+  return modified;
+}
+
+function move_to_nearest_hex (exact, modified) {
+  //modified = modified || exact;
   modified = modified || {};
   // this can be improved
-  modified.horizontal = Math.round(approximate.horizontal);
+  modified.horizontal = Math.round(exact.horizontal);
   var adjustment = modified.horizontal & 1;
-  modified.vertical = Math.round((approximate.vertical-adjustment)/2)*2+adjustment;
-  if (approximate.rotation) {
-    modified.rotation = ((Math.round(approximate.rotation) % 6) + 6) % 6;
+  modified.vertical = Math.round((exact.vertical-adjustment)/2)*2+adjustment;
+  if (exact.rotation) {
+    modified.rotation = ((Math.round(exact.rotation) % 6) + 6) % 6;
   }
   return modified;
 }
@@ -173,21 +180,22 @@ function draw_game (game) {
     }
   }
   
-  function horizontal_from_pageX (pageX) {
-    return ((pageX - drawn.svg_offset.left) + drawn.min_horizontal*drawn.scale)/(long_radius*1.5*drawn.scale);
+  function visual_horizontal_from_pageX (pageX) {
+    return (pageX - drawn.svg_offset.left)/drawn.scale + drawn.min_horizontal;
     
   }
-  function vertical_from_pageY (pageY) {
-    return ((pageY - drawn.svg_offset.top) + drawn.min_vertical*drawn.scale)/(short_radius*drawn.scale);
+  function visual_vertical_from_pageY (pageY) {
+    return (pageY - drawn.svg_offset.top)/drawn.scale + drawn.min_vertical;
   }
   
   function update_touch_position (touch) {
     var info = drawn.touches [touch.identifier];
-    info.exact_location = {horizontal: horizontal_from_pageX (touch.pageX), vertical: vertical_from_pageY (touch.pageY)};
+    info.visual_location = {horizontal: visual_horizontal_from_pageX (touch.pageX), vertical: visual_vertical_from_pageY (touch.pageY)};
+    info.exact_location = visual_to_exact (info.visual_location);
     info.rounded_location = move_to_nearest_hex (info.exact_location);
     if (drawn.touch_holding_tile === touch.identifier) {
-      drawn.mouse_exact.horizontal = info.exact_location.horizontal;
-      drawn.mouse_exact.vertical = info.exact_location.vertical;
+      drawn.mouse_visual.horizontal = info.visual_location.horizontal;
+      drawn.mouse_visual.vertical = info.visual_location.vertical;
     }
   }
   
@@ -196,6 +204,7 @@ function draw_game (game) {
     drawn_games [game.id] = drawn = {
       tiles:{},
       touches: {},
+      frame: 0,
     };
     drawn.element = $("<div>", {id:"game_"+game.id,class:"game" });
     
@@ -230,17 +239,19 @@ function draw_game (game) {
     });
     
     
-    
+    drawn.mouse_visual = {horizontal: 0, vertical: 0};
     drawn.mouse_exact = {horizontal: 0, vertical: 0, rotation: 0};
     drawn.mouse_rounded = {horizontal: 0, vertical: 0, rotation: 0};
     drawn.rotation_target = 0;
     drawn.svg.addEventListener("mousemove", function (event) {
       drawn.svg_offset = $(drawn.svg).offset();
-      drawn.mouse_exact.horizontal = horizontal_from_pageX (event.pageX);
-      drawn.mouse_exact.vertical = vertical_from_pageY (event.pageY);
+      drawn.mouse_visual.horizontal = visual_horizontal_from_pageX (event.pageX);
+      drawn.mouse_visual.vertical = visual_vertical_from_pageY (event.pageY);
+      delete drawn.tile_hover_location;
     });
     
     drawn.svg.addEventListener("click", function (event) {
+      // TODO: only if it's on the title
       if (event.button == 0 && game.floating_tile && drawn.floating_tile && !get_tile (game.tiles, drawn.floating_tile)) {
         var legality = placement_results (drawn.floating_tile, get_floating_tile_paths()).legality;
         if (legality !== "forbidden" && legality !== "waste") {
@@ -269,6 +280,7 @@ function draw_game (game) {
         console.log(drawn.touch_holding_tile, info.rounded_location.horizontal , info.rounded_location.vertical , drawn.floating_tile.horizontal , drawn.floating_tile.vertical)
         if (drawn.touch_holding_tile === undefined && drawn.floating_tile && info.rounded_location.horizontal === drawn.floating_tile.horizontal && info.rounded_location.vertical === drawn.floating_tile.vertical) {
           drawn.touch_holding_tile = touch.identifier;
+          delete drawn.tile_hover_location;
           update_touch_position (touch);
           event.preventDefault();
         }
@@ -294,6 +306,7 @@ function draw_game (game) {
         delete drawn.touches [touch.identifier];
         if (drawn.touch_holding_tile === touch.identifier) {
           delete drawn.touch_holding_tile;
+          drawn.tile_hover_location = visual_position (drawn.floating_tile);
           event.preventDefault();
         }
       }
@@ -303,6 +316,21 @@ function draw_game (game) {
 
   }
   
+  ++drawn.frame;
+  
+  if (drawn.tile_hover_location) {
+    var cycle = turn*drawn.frame/(frames_per_second*2);
+    var horizontal = drawn.tile_hover_location.horizontal + long_radius/6*Math.cos(cycle);
+    var vertical = drawn.tile_hover_location.vertical + long_radius/10*Math.sin(cycle);
+    var distance = (drawn.mouse_visual.horizontal - horizontal)*(drawn.mouse_visual.horizontal - horizontal) + (drawn.mouse_visual.vertical - vertical)*(drawn.mouse_visual.vertical - vertical);
+    if (distance !== 0) {
+      var new_distance = move_towards (distance, 0, long_radius*100/frames_per_second);
+      var factor = new_distance / distance;
+      drawn.mouse_visual.horizontal = drawn.mouse_visual.horizontal * factor + horizontal*(1 - factor);
+      drawn.mouse_visual.vertical = drawn.mouse_visual.vertical * factor + vertical*(1 - factor);
+    }
+  }
+  visual_to_exact (drawn.mouse_visual, drawn.mouse_exact) ;
   move_to_nearest_hex (drawn.mouse_exact, drawn.mouse_rounded);
   
   var prompt = game.prompt_stack.length > 0 && game.prompt_stack [game.prompt_stack.length - 1];
@@ -407,6 +435,9 @@ function draw_game (game) {
     drawn.floating_tile.horizontal = drawn.mouse_rounded.horizontal;
     drawn.floating_tile.vertical = drawn.mouse_rounded.vertical;
     drawn.floating_tile.rotation = drawn.mouse_rounded.rotation;
+    if (floating_changed) {
+      drawn.tile_hover_location = visual_position (drawn.floating_tile);
+    }
   }
   
   function list(things, transform) {
@@ -420,7 +451,7 @@ function draw_game (game) {
     }
     
   if (drawn.floating_tile && floating_rounded_position_changed) {
-    clear_paths (drawn.floating_tile);
+    clear_paths (drawn.floating_tile, legality_fill.acceptable);
     
     drawn.location_indicator.horizontal = drawn.mouse_rounded.horizontal;
     drawn.location_indicator.vertical = drawn.mouse_rounded.vertical;
