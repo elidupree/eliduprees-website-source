@@ -1,4 +1,12 @@
 
+var decibel_log_factor = 20/Math.log(10);
+function decibels_to_pressure (decibels) {
+  return Math.exp(decibels/decibel_log_factor);
+}
+function pressure_to_decibels (pressure) {
+  return Math.log (pressure)*decibel_log_factor;
+}
+
 var inv_log_cent_ratio = 1/Math.log (Math.pow (2,1/1200));
 function frequency_to_cents (frequency) {
   return Math.log (frequency)*inv_log_cent_ratio;
@@ -14,6 +22,29 @@ function for_frequency_values (sample_rate, frequency_buffer, callback) {
   }
 }
 
+function get_cent_pressures (analyzer) {
+  var frequency_buffer_length = analyzer.frequencyBinCount; 
+  var frequency_data = new Float32Array(frequency_buffer_length);
+  analyzer.getFloatFrequencyData (frequency_data);
+  var cent_magnitudes = [];
+  for (var index = 0; index <1200;++index) {cent_magnitudes.push (0);}
+  
+  for_frequency_values (analyzer.context.sampleRate, frequency_data, function (min_frequency, max_frequency, decibels) {
+    if (min_frequency > 0) {
+      var min_cents = frequency_to_cents (min_frequency);
+      var max_cents = frequency_to_cents (max_frequency);
+      var amount = decibels_to_pressure (decibels);
+      for (var index = Math.floor (min_cents); index < max_cents;++index) {
+        var value = amount;
+        if (index < min_cents) {value *= 1 - (min_cents - Math.floor(min_cents));}
+        if (index+1 > max_cents) {value *= max_cents - Math.floor(max_cents);}
+        cent_magnitudes [index % 1200] += value;
+      }
+    }
+  });
+  return cent_magnitudes;
+}
+  
 window.initialize_voice_practice_tool = function(voice_practice_tool_options){
   /* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
   window.global_hack = {};
@@ -25,7 +56,6 @@ window.initialize_voice_practice_tool = function(voice_practice_tool_options){
   var min_pitch = 80;
   var Max_pitch = 3000;
   var turn = Math.PI*2;
-  var cent_magnitudes;
   //var pitch_analyzer = new PitchAnalyzer (rate);
   
   var recent_magnitudes_size = 1;
@@ -405,26 +435,13 @@ var source;
     
     $("#histogram_canvas").attr("width", width).attr("height", height);
     
-    cent_magnitudes = []
-    for (var index = 0; index <1200;++index) {cent_magnitudes.push (0);}
-        
+    var cent_magnitudes = get_cent_pressures (analyzer);
+            
     histogram_canvas.fillStyle = "rgb(0, 0, 0)"
     histogram_canvas.fillRect (0, 0, width, height);
     histogram_canvas.fillStyle = "rgb(255, 0, 0)"
     var previous = 0;
-    for_frequency_values (rate, frequency_data, function (min_frequency, max_frequency, magnitude, I) {
-      if (min_frequency > 0) {
-        var min_cents = frequency_to_cents (min_frequency);
-        var max_cents = frequency_to_cents (max_frequency);
-        //console.log (max_cents - min_cents);
-        for (var index = Math.floor (min_cents); index < max_cents;++index) {
-          var value = frequency_data [I]/256/4;
-          if (index < min_cents) {value *= 1 - (min_cents - Math.floor(min_cents));}
-          if (index+1 > max_cents) {value *= max_cents - Math.floor(max_cents);}
-          cent_magnitudes [index % 1200] += value;
-        }
-      }
-      
+    for_frequency_values (rate, frequency_data, function (min_frequency, max_frequency, magnitude, I) {      
       total = total + frequency_data [I];
       var X = (I + 1)*width/frequency_buffer_length;
       var Y =frequency_data [I]*height/256
@@ -437,8 +454,9 @@ var source;
     histogram_canvas.beginPath();
     var best = 0;
     for (var index = 0; index < 1200;++index) {
-      var first = width/2 + height/2*cent_magnitudes[index]*Math.sin (index*turn/1200);
-      var second = height/2 + height/2*cent_magnitudes[index]*Math.cos (index*turn/1200);
+      var value = cent_magnitudes[index] = height/2* ((100+pressure_to_decibels(cent_magnitudes[index]))/100);
+      var first = width/2 + value*Math.sin (index*turn/1200);
+      var second = height/2 + value*Math.cos (index*turn/1200);
       if (index == 0) {
         histogram_canvas.moveTo (first, second);
       } else {
@@ -452,8 +470,8 @@ var source;
     histogram_canvas.strokeStyle = "rgb(0,255,0)"
     histogram_canvas.fillStyle = "rgb(0,255,0)"
     histogram_canvas.stroke();
-    var first = width/2 + height/2*cent_magnitudes[best]*Math.sin (best*turn/1200);
-    var second = height/2 + height/2*cent_magnitudes[best]*Math.cos (best*turn/1200);
+    var first = width/2 + cent_magnitudes[best]*Math.sin (best*turn/1200);
+    var second = height/2 + cent_magnitudes[best]*Math.cos (best*turn/1200);
     histogram_canvas.fillRect (first-6, second-6, 12, 12);
   }
   draw ();
