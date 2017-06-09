@@ -60,6 +60,7 @@ The histogram should appear here, but it hasn't. Maybe you don't have JavaScript
      <script type="text/javascript" src="/media/pitch.js?rr"></script>-->
      <script type="text/javascript" src="/media/pitchdetect.js?rr"></script>
      
+     <script type="text/javascript" src="/media/sound-processing-utils.js?rr"></script>
      <script type="text/javascript" src="/media/voice-practice-tool-lib.js?rr"></script>
      
      <script type="text/javascript">
