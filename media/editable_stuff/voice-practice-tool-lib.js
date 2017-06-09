@@ -44,6 +44,11 @@ function get_cent_pressures (analyzer) {
   });
   return cent_magnitudes;
 }
+function get_cent_decibels (analyzer) {
+  var result = get_cent_pressures (analyzer);
+  for (var index = 0; index <1200;++index) {result [index] = pressure_to_decibels (result [index]);}
+  return result;
+}
   
 window.initialize_voice_practice_tool = function(voice_practice_tool_options){
   /* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
@@ -435,7 +440,7 @@ var source;
     
     $("#histogram_canvas").attr("width", width).attr("height", height);
     
-    var cent_magnitudes = get_cent_pressures (analyzer);
+    var cent_magnitudes = get_cent_decibels (analyzer);
             
     histogram_canvas.fillStyle = "rgb(0, 0, 0)"
     histogram_canvas.fillRect (0, 0, width, height);
@@ -454,7 +459,7 @@ var source;
     histogram_canvas.beginPath();
     var best = 0;
     for (var index = 0; index < 1200;++index) {
-      var value = cent_magnitudes[index] = height/2* ((100+pressure_to_decibels(cent_magnitudes[index]))/100);
+      var value = cent_magnitudes[index] = height/2* ((100+cent_magnitudes[index])/100);
       var first = width/2 + value*Math.sin (index*turn/1200);
       var second = height/2 + value*Math.cos (index*turn/1200);
       if (index == 0) {
