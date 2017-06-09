@@ -268,6 +268,7 @@ var source;
   window.voice_practice_tool.draw_recording = draw_recording;
   
   analyzer.maxDecibels = 0;
+  analyzer.minDecibels = -100;
   analyzer.fftSize = 2048;
   var frequency_buffer_length = analyzer.frequencyBinCount; 
   var frequency_data = new Uint8Array(frequency_buffer_length);
@@ -409,7 +410,7 @@ var source;
     histogram_canvas.beginPath();
     var best = 0;
     for (var index = 0; index < 1200;++index) {
-      var value = cent_magnitudes[index] = height/2* ((100+cent_magnitudes[index])/100);
+      var value = cent_magnitudes[index] = (height/2) * ((100+Math.max(-100, cent_magnitudes[index]))/100) * 1.5;
       var first = width/2 + value*Math.sin (index*turn/1200);
       var second = height/2 + value*Math.cos (index*turn/1200);
       if (index == 0) {

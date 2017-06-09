@@ -32,7 +32,7 @@ function get_cent_pressures (analyzer) {
     if (min_frequency > 0) {
       var min_cents = frequency_to_cents (min_frequency);
       var max_cents = frequency_to_cents (max_frequency);
-      var amount = decibels_to_pressure (decibels);
+      var amount = decibels_to_pressure (decibels) / (max_cents - min_cents);
       for (var index = Math.floor (min_cents); index < max_cents;++index) {
         var value = amount;
         if (index < min_cents) {value *= 1 - (min_cents - Math.floor(min_cents));}
