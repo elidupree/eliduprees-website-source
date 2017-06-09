@@ -133,11 +133,15 @@ function position_drawn_tile (drawn, tile) {
 
 function move_to_nearest_hex (approximate, modified) {
   //modified = modified || approximate;
+  modified = modified || {};
   // this can be improved
   modified.horizontal = Math.round(approximate.horizontal);
   var adjustment = modified.horizontal & 1;
   modified.vertical = Math.round((approximate.vertical-adjustment)/2)*2+adjustment;
-  modified.rotation = ((Math.round(approximate.rotation) % 6) + 6) % 6;
+  if (approximate.rotation) {
+    modified.rotation = ((Math.round(approximate.rotation) % 6) + 6) % 6;
+  }
+  return modified;
 }
 
 function move_towards (value, target, speed) {
@@ -169,9 +173,30 @@ function draw_game (game) {
     }
   }
   
+  function horizontal_from_pageX (pageX) {
+    return ((pageX - drawn.svg_offset.left) + drawn.min_horizontal*drawn.scale)/(long_radius*1.5*drawn.scale);
+    
+  }
+  function vertical_from_pageY (pageY) {
+    return ((pageY - drawn.svg_offset.top) + drawn.min_vertical*drawn.scale)/(short_radius*drawn.scale);
+  }
+  
+  function update_touch_position (touch) {
+    var info = drawn.touches [touch.identifier];
+    info.exact_location = {horizontal: horizontal_from_pageX (touch.pageX), vertical: vertical_from_pageY (touch.pageY)};
+    info.rounded_location = move_to_nearest_hex (info.exact_location);
+    if (drawn.touch_holding_tile === touch.identifier) {
+      drawn.mouse_exact.horizontal = info.exact_location.horizontal;
+      drawn.mouse_exact.vertical = info.exact_location.vertical;
+    }
+  }
+  
   var just_created = (drawn === undefined);
   if (just_created) {
-    drawn_games [game.id] = drawn = {tiles:{}};
+    drawn_games [game.id] = drawn = {
+      tiles:{},
+      touches: {},
+    };
     drawn.element = $("<div>", {id:"game_"+game.id,class:"game" });
     
     drawn.svg = create_("svg", {class:"game_svg" });
@@ -204,15 +229,15 @@ function draw_game (game) {
       if (event.keyCode === 39 && rotate (1)) {event.preventDefault();}
     });
     
+    
+    
     drawn.mouse_exact = {horizontal: 0, vertical: 0, rotation: 0};
     drawn.mouse_rounded = {horizontal: 0, vertical: 0, rotation: 0};
     drawn.rotation_target = 0;
     drawn.svg.addEventListener("mousemove", function (event) {
-      var offset = $(drawn.svg).offset();
-      var mouse_X = event.pageX - offset.left;
-      var mouse_Y = event.pageY - offset.top;
-      drawn.mouse_exact.horizontal = (mouse_X + drawn.min_horizontal*drawn.scale)/(long_radius*1.5*drawn.scale);
-      drawn.mouse_exact.vertical = (mouse_Y + drawn.min_vertical*drawn.scale)/(short_radius*drawn.scale);
+      drawn.svg_offset = $(drawn.svg).offset();
+      drawn.mouse_exact.horizontal = horizontal_from_pageX (event.pageX);
+      drawn.mouse_exact.vertical = vertical_from_pageY (event.pageY);
     });
     
     drawn.svg.addEventListener("click", function (event) {
@@ -231,6 +256,51 @@ function draw_game (game) {
       }
       event.preventDefault();
     });*/
+    
+    
+    
+    drawn.svg.addEventListener("touchstart", function (event) {
+      drawn.svg_offset = $(drawn.svg).offset();
+      var touches = event.changedTouches;
+      for (var i = 0; i < touches.length; i++) {
+        var touch = touches[i];
+        var info = drawn.touches [touch.identifier] = {};
+        update_touch_position (touch);
+        console.log(drawn.touch_holding_tile, info.rounded_location.horizontal , info.rounded_location.vertical , drawn.floating_tile.horizontal , drawn.floating_tile.vertical)
+        if (drawn.touch_holding_tile === undefined && drawn.floating_tile && info.rounded_location.horizontal === drawn.floating_tile.horizontal && info.rounded_location.vertical === drawn.floating_tile.vertical) {
+          drawn.touch_holding_tile = touch.identifier;
+          update_touch_position (touch);
+          event.preventDefault();
+        }
+      }
+    });
+    drawn.svg.addEventListener("touchmove", function (event) {
+      drawn.svg_offset = $(drawn.svg).offset();
+      var touches = event.changedTouches;
+      for (var i = 0; i < touches.length; i++) {
+        var touch = touches[i];
+        var info = drawn.touches [touch.identifier];
+        update_touch_position (touch);
+        if (drawn.touch_holding_tile === touch.identifier) {
+          event.preventDefault();
+        }
+      }
+    });
+    drawn.svg.addEventListener("touchend", function (event) {
+      drawn.svg_offset = $(drawn.svg).offset();
+      var touches = event.changedTouches;
+      for (var i = 0; i < touches.length; i++) {
+        var touch = touches[i];
+        delete drawn.touches [touch.identifier];
+        if (drawn.touch_holding_tile === touch.identifier) {
+          delete drawn.touch_holding_tile;
+          event.preventDefault();
+        }
+      }
+    });
+
+
+
   }
   
   move_to_nearest_hex (drawn.mouse_exact, drawn.mouse_rounded);
@@ -314,6 +384,7 @@ function draw_game (game) {
   
   if (floating_changed) {
     delete drawn.floating_tile;
+    delete drawn.touch_holding_tile;
     $(".floating_tile_"+game.id).remove();
     if (game.floating_tile) {
       var tile = game.floating_tile;
