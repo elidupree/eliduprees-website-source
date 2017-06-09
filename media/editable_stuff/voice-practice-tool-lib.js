@@ -1,3 +1,19 @@
+
+var inv_log_cent_ratio = 1/Math.log (Math.pow (2,1/1200));
+function frequency_to_cents (frequency) {
+  return Math.log (frequency)*inv_log_cent_ratio;
+}
+
+function for_frequency_values (sample_rate, frequency_buffer, callback) {
+  var rate = sample_rate;
+  var frequency_buffer_length = frequency_buffer.length;
+  for (var I = 0; I <frequency_buffer_length;++I) {
+    var min_frequency = I*rate/frequency_buffer_length/2;
+    var max_frequency = (I+1)*rate/frequency_buffer_length/2;
+    callback (min_frequency, max_frequency, frequency_buffer [I], I);
+  }
+}
+
 window.initialize_voice_practice_tool = function(voice_practice_tool_options){
   /* possible risk of things getting garbage collected when they shouldn't be? Stick them in a global */
   window.global_hack = {};
@@ -375,12 +391,7 @@ var source;
     }
     draw_recording (current_recording);
   }
-  
-  var inv_log_cent_ratio = 1/Math.log (Math.pow (2,1/1200));
-  function frequency_to_cents (frequency) {
-    return Math.log (frequency)*inv_log_cent_ratio;
-  }
-  
+    
   var last_line_added = audio.currentTime;
   var line_adding_increment = 1/recording_1_second_width;
   function draw () {
@@ -401,10 +412,8 @@ var source;
     histogram_canvas.fillRect (0, 0, width, height);
     histogram_canvas.fillStyle = "rgb(255, 0, 0)"
     var previous = 0;
-    for (var I = 0; I <frequency_buffer_length;++I) {
-      if (I >= 2) {
-        var min_frequency = I*rate/frequency_buffer_length/2;
-        var max_frequency = (I+1)*rate/frequency_buffer_length/2;
+    for_frequency_values (rate, frequency_data, function (min_frequency, max_frequency, magnitude, I) {
+      if (min_frequency > 0) {
         var min_cents = frequency_to_cents (min_frequency);
         var max_cents = frequency_to_cents (max_frequency);
         //console.log (max_cents - min_cents);
@@ -422,7 +431,7 @@ var source;
       if (logarithmic) {X = Math.log (I + 1)*width/Math.log (frequency_buffer_length);}
       histogram_canvas.fillRect (previous, height - Y, X - previous, Y);
       previous = X;
-    }
+    });
     var average = total/frequency_buffer_length;
     
     histogram_canvas.beginPath();
