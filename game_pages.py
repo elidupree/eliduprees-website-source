@@ -303,6 +303,8 @@ def add_game_pages(page_dict):
   
   import voice_practice_tool
   voice_practice_tool.add_page (page_dict)
+  import annoying_sound_tool
+  annoying_sound_tool.add_page (page_dict)
   import abs_tool
   abs_tool.add_page (page_dict)
   import neural_music_generator

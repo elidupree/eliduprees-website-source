@@ -48,3 +48,54 @@ function get_cent_decibels (analyzer) {
   for (var index = 0; index <1200;++index) {result [index] = pressure_to_decibels (result [index]);}
   return result;
 }
+
+
+var annoying = {};
+
+annoying.create_memory = function(context) {
+  return {
+    samples: {},
+    num_samples_ever: 0,
+    context: context,
+    max_samples: Math.floor(context.sampleRate / 20),
+    totals: {},
+    silence_threshold: 1/1024,
+  };
+}
+
+annoying.process_sample = function(memory, sample) {
+  // maintain a running root mean square of the last X samples
+  
+  if (memory.num_samples_ever >= memory.max_samples) {
+    var removed_index = memory.num_samples_ever - memory.max_samples;
+    var removed = memory.samples [removed_index];
+    delete memory.samples [removed_index];
+    Object.getOwnPropertyNames (removed.contributions).forEach(function(name) {
+      memory.totals [name] -= removed.contributions [name];
+    });
+  }
+  
+  var contributions = {};
+  memory.samples[memory.num_samples_ever] = {value: sample, contributions};
+  ++memory.num_samples_ever;
+  memory.num_samples_currently = Math.min(memory.num_samples_ever, memory.max_samples);
+  
+  function contribute (name, value) {
+    contributions [name] = value;
+    if (memory.totals [name] === undefined) {
+      memory.totals [name] = 0;
+    }
+    memory.totals [name] += value;
+  }
+  
+  contribute ("square", sample*sample);
+  
+  
+  memory.root_mean_square = Math.sqrt(memory.totals.square / memory.num_samples_currently);
+  
+  contribute ("excess", Math.max(0, Math.abs(sample/(2*Math.max(memory.silence_threshold, memory.root_mean_square))) - 1));
+  
+  memory.average_excess = memory.totals.excess / memory.num_samples_currently;
+}
+
+
