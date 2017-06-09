@@ -493,9 +493,10 @@ function draw_game (game) {
       color_messages (legality_fill ["forbidden"]);
     }
     if (results.legality === "success") {
-      drawn.message_contents.append ("<p>If you place the tile there, it will cause"+list (results.relevant_paths, path => {
+      drawn.message_contents.append ("<p>If you place the tile there, then"+list (results.relevant_paths, path => {
         var effects = path_effects (path);
-        return '"'+ effects.message +'"';
+        console.log(effects );
+        return effects.hypothetical;
       })+"</p>");
       color_messages (legality_fill [results.legality]);
     }

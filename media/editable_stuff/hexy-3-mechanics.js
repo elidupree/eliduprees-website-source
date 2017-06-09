@@ -290,22 +290,26 @@
       }
     }
     
-    function tie(icons, victim, message_override, success_action) {
+    function tie(icons, victim, hypothetical_override, message_override, success_action) {
       var success_option = success;
       if (success_action) {success_option = {text: success_message, action: success_action};}
       if (icons.length === 2) {
         return {
-          message: message_override || `tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`,
+          hypothetical: hypothetical_override || `${describe_tile_icon(icons [0])} will be tied to ${describe_tile_icon(icons [1])}`,
+          message: message_override || `Tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`,
           options: [success, fail_option (victim, "that's physically impossible")]
         };
       }
       else {
-        var result = `tie together ${describe_tile_icon(icons [0])}`
+        var hypothetical = describe_tile_icon(icons [0]);
+        var result = `Tie together ${describe_tile_icon(icons [0])}`
         for (var index = 1; index <icons.length - 1;++index) {
+          hypothetical += `, ${describe_tile_icon(icons [index])}`
           result += `, ${describe_tile_icon(icons [index])}`
         }
         return {
-          message:result+ `, and ${describe_tile_icon(icons [icons.length - 1])}`,
+          hypothetical: hypothetical + `, and ${describe_tile_icon(icons [icons.length - 1])} will be tied together`,
+          message: result+ `, and ${describe_tile_icon(icons [icons.length - 1])}`,
           options: [success, fail_option (victim, "that's physically impossible")]
         };
       }
@@ -317,8 +321,9 @@
     
     
     
-    function strip (player, text) {
+    function strip (player, hypothetical, text) {
       return {
+        hypothetical: `${player.name} must remove a piece of clothing${hypothetical}`,
         message:`${player.name}, remove a piece of clothing${text}`,
         options: [
           success,
@@ -329,18 +334,18 @@
     
     var handlers = [
       function (first, second) {
-        if (first.player === second.player && first.icon.icon === "torso" && second.icon.icon === "crotch") {
-          return strip(first.player,"");
+        if (first.player.index === second.player.index && first.icon.icon === "torso" && second.icon.icon === "crotch") {
+          return strip(first.player,"","");
         }
       },
       function (first, second) {
-        if (first.player === second.player && first.icon.icon === "torso") {
-          return strip(first.player," from your torso");
+        if (first.player.index === second.player.index && first.icon.icon === "torso") {
+          return strip(first.player," from their torso"," from your torso");
         }
       },
       function (first, second) {
-        if (first.player === second.player && first.icon.icon === "crotch") {
-          return strip(first.player," from your legs");
+        if (first.player.index === second.player.index && first.icon.icon === "crotch") {
+          return strip(first.player," from their legs"," from your legs");
         }
       },
       function (first, second) {
@@ -351,6 +356,7 @@
       function (first, second) {
         if (first.player && second.icon.icon === "toybox") {
           return {
+            message:`${first.player.name} must choose a toy to be used on them`,
             message:`${first.player.name}, choose a toy to be used on you`,
             options: [
               success,
@@ -360,22 +366,22 @@
         }
       },
       function (first, second) {
-        if (first.player === second.player && first.icon.icon === "hand" && second.icon.icon === "foot") {
+        if (first.player.index === second.player.index && first.icon.icon === "hand" && second.icon.icon === "foot") {
           return tie ([first, second], first.player);
         }
       },
       function (first, second) {
-        if (first.player === second.player && first.icon.icon === "foot" && second.icon.icon === "foot") {
-          return tie ([first, second], first.player, `tie ${first.player.name}'s feet together`);
+        if (first.player.index === second.player.index && first.icon.icon === "foot" && second.icon.icon === "foot") {
+          return tie ([first, second], first.player, `${first.player.name}'s feet will be tied together`, `Tie ${first.player.name}'s feet together`);
         }
       },
       function (first, second) {
-        if (first.player === second.player && first.icon.icon === "hand" && second.icon.icon === "hand") {
+        if (first.player.index === second.player.index && first.icon.icon === "hand" && second.icon.icon === "hand") {
           if (first.player.hands_tied === undefined) {
-            return tie ([first, second], first.player, `tie ${first.player.name}'s hands together in front of them`, function() {first.player.hands_tied = "front";});
+            return tie ([first, second], first.player, `${first.player.name}'s hands will be tied together in front of them`, `Tie ${first.player.name}'s hands together in front of them`, function() {first.player.hands_tied = "front";});
           }
           if (first.player.hands_tied === "front") {
-            return tie ([first, second], first.player, `re-tie ${first.player.name}'s hands together together behind them`, function() {first.player.hands_tied = "back";});
+            return tie ([first, second], first.player, `${first.player.name}'s hands will be re-tied together together behind them`, `Re-tie ${first.player.name}'s hands together together behind them`, function() {first.player.hands_tied = "back";});
           }
           if (first.player.hands_tied === "back") {
             return {
@@ -390,7 +396,8 @@
       function (first, second) {
         if (first.player && second.player && first.icon.icon !== second.icon.icon && (first.icon.icon === "hand" || first.icon.icon === "foot") && (second.icon.icon === "foot" || second.icon.icon === "torso" || second.icon.icon === "crotch")) {
           return {
-            message: `from now on, ${first.player.name} can stimulate ${describe_tile_icon (second)} with their ${describe_tile_icon (first, true)}`,
+            hypothetical: `from now on, ${first.player.name} can stimulate ${describe_tile_icon (second)} with their ${describe_tile_icon (first, true)}`,
+            message: `From now on, ${first.player.name} can stimulate ${describe_tile_icon (second)} with their ${describe_tile_icon (first, true)}`,
             options: [{text: "Okay",}]
           };
         }
@@ -509,7 +516,7 @@
     
     var tile = create_random_tile(state);
     
-    /*if (tile.player === player && (tile.icon.icon === "torso" || tile.icon.icon === "crotch")) {
+    /*if (tile.player.index === player.index && (tile.icon.icon === "torso" || tile.icon.icon === "crotch")) {
       state.current_prompt = {
         kind: "message",
         message: "tile_based_skipping",
