@@ -151,11 +151,15 @@ function move_to_nearest_hex (exact, modified) {
   return modified;
 }
 
+var speed_switch_threshold = frames_per_second/2;
+// at a distance of speed*speed_switch_threshold, this times speed*speed_switch_threshold should equal speed
+var speed_exponential_factor = 1/speed_switch_threshold;
+
 function move_towards (value, target, speed) {
   if (value === undefined) {return target;}
   if (Math.abs (value - target) <speed) {return target;}
-  if (Math.abs (value - target) > speed*(frames_per_second/2)) {
-    return target*0.05 + value*0.95;
+  if (Math.abs (value - target) > speed*speed_switch_threshold) {
+    return target*speed_exponential_factor + value*(1-speed_exponential_factor);
   }
   if (value >target) {return value - speed;}
   return value + speed;
@@ -436,6 +440,8 @@ function draw_game (game) {
     drawn.floating_tile.vertical = drawn.mouse_rounded.vertical;
     drawn.floating_tile.rotation = drawn.mouse_rounded.rotation;
     if (floating_changed) {
+      drawn.mouse_visual.horizontal = min_horizontal - long_radius*3;
+      drawn.mouse_visual.vertical = min_vertical - long_radius*3;
       drawn.tile_hover_location = visual_position (drawn.floating_tile);
     }
   }
