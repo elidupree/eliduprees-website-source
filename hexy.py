@@ -320,7 +320,7 @@ input[type="button"]:hover {
   margin: 0.2em;}
 
 
-.game_setup {
+#menu {
   position: fixed;
   left: 5%; right: 5%; top: 8%; bottom: 5%;
   border: 3vh solid black; border-radius: 6vh; padding: 4vh;

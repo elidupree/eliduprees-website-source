@@ -122,19 +122,17 @@ function make_game_setup_area (initial_players) {
     }),
     $("<input>", {type: "button", value: "Start game"}).click (function() {
       if (players.length > 0) { 
-        result.remove();
-        undraw_game (global_game);
-        global_game = new_game (players);
-        autosave_game (global_game);
+        close_menu();
+        restart_game (new_game (players));
       }
     })
   );
   
-  result.append (
+  /*result.append (
     $("<input>", {type: "button", value: "Cancel"}).click (function() {
       result.remove();
     })
-  );
+  );*/
   
   initial_players.forEach(function(player) {
     add_player (player);
@@ -143,47 +141,93 @@ function make_game_setup_area (initial_players) {
   return result;
 }
 
+function navigation() {
+  var result = $("<div>").append (
+    $("<input>", {type: "button", value: "Instructions"}).click (function() {
+      instructions();
+    }),
+    $("<input>", {type: "button", value: global_game? "Start a new game": "Start a game"}).click (function() {
+      before_playing();
+    })
+  );
+  if (global_game) {
+    result.append (
+      $("<input>", {type: "button", value: "Current game"}).click (function() {
+        game_menu();
+      }),
+      $("<input>", {type: "button", value: "Close menu"}).click (function() {
+        close_menu();
+      })
+    );
+  }
+  
+  return result;
+}
+
 function instructions() {
-  `
-  Hexy Bondage is a sexual game for two players (or more) to play together on the same device.
+  $("#menu").empty().append (
+    $("<h1>").text ("Welcome to Hexy Bondage!"),
+    $("<p>").text ("Hexy Bondage is a sexual game for two players (or more) to play together on the same device."),
+    $("<h2>").text ("Instructions"),
+    $("<p>").text ("You take turns placing tiles like this:"),
   
-  You take turns placing tiles like this:
+    $("<p>").text ("Your goal is to connect different icons together, like this:"),
   
-  Your goal is to connect different icons together, like this:
+    $("<p>").text ("When you finish a connection, you do something in real life. Some connections make the players get tied up. When you're too tied up to play your turns, you lose the game!"),
   
-  When you finish a connection, you do something in real life. Some connections make the players get tied up. When you're too tied up to play your turns, you lose the game!
+    $("<p>").text ("Connecting someone's torso or crotch to their other body parts makes them remove a piece of clothing."),
   
-  Connecting someone's torso or crotch to their other body parts makes them remove a piece of clothing.
-  
-  Connecting your own hands or feet to an opponent's body parts gives you a chance to stimulate that body part in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of stimulation they want.
-  
-  `
+    $("<p>").text ("Connecting your own hands or feet to an opponent's body parts gives you a chance to stimulate that body part in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of stimulation they want."),
+    navigation()
+  );
 }
 function before_playing() {
-  `
-  
-  Welcome to Hexy Bondage!
-  
-  
-  Instructions
-  
+  $("#menu").empty().append (
+    $("<p>").text ("Ready to play a game with your partner(s)?"),
+    $("<ul>").append (
+      $("<li>").text ("Get plenty of things to tie people up with. (Rope? Handcuffs? Clothing?) Find a place to play with furniture nearby, where you could keep playing even if everyone has an arm or leg tied to it. Keep scissors nearby in case of emergencies. (Preferably medical scissors.)"),
     
-  Ready to play a game with your partner(s)?
+      $("<li>").text ("Talk about what each of you wants. When it comes up in the game, what kind of stimulation do you want? What toys can be used on you? What do you want your partner(s) to do if you lose the game? (Untie you right away? Leave you tied up? Stimulate you more?)"),
+  
+      $("<li>").text (`Remember that any player can withdraw consent at any time, even if you planned to finish the game together. If you like to playfully protest, choose a safeword that means "stop" unambiguously. If someone speaks the safeword, stop and untie them right away.`),
+  
+      $("<li>").text ("Set up the players below and have fun!")
+    ),
+    make_game_setup_area (global_game && global_game.players || default_players.slice (0, 2)),
+    navigation()
+  );
+}
+function game_menu() {
+  $("#menu").empty().append (
+  `
+   
 
-  Get plenty of things to tie people up with. (Rope? Handcuffs? Clothing?) Find a place to play with furniture nearby, where you could keep playing even if everyone has an arm or leg tied to it. Keep scissors nearby in case of emergencies. (Preferably medical scissors.)
+Save string (copy this somewhere to save the game, or paste here to load one):
+
+The game also autosaves, although it will delete the autosave after four hours of not playing.
+
+Just end the game and delete your autosave
+  
     
-  Talk about what each of you wants. When it comes up in the game, what kind of stimulation do you want? What toys can be used on you? What do you want your partner(s) to do if you lose the game? (Untie you right away? Leave you tied up? Stimulate you more?)
   
-  Remember that any player can withdraw consent at any time, even if you planned to finish the game together. If you like to playfully protest, choose a safeword that means "stop" unambiguously. If someone speaks the safeword, stop and untie them right away.
-  
-  Set up the players below and have fun!
-  
-  `
+  `,
+    navigation()
+  );
+}
+
+function show_menu() {
+  $("#content").append (global_menu = $("<div>", {id: "menu"}));
+  global_game ? game_menu() : instructions();
+}
+function close_menu() {
+  $("#menu").remove();
+  global_menu = null;
 }
 
 var global_game;
+var global_menu;
 function autosave_game (game) {
-  localStorage.setItem ("hexy_autosave", JSON.stringify(game, (key, value) => typeof value==="string"?unescape_string (value): value));
+  localStorage.setItem ("hexy_autosave", save_game (game));
   localStorage.setItem ("hexy_autosave_date", Date.now());
 }
 function autoload_game () {
@@ -211,24 +255,35 @@ elidupree [2 hours ago]
   */
   if (date && date > Date.now() - 1000*60*60*4) {
     var save = localStorage.getItem ("hexy_autosave");
-    global_game = JSON.parse(save, (key, value) => typeof value === "string"? escape_string (value): value);
+    restart_game (load_game (save));
   }
   else {
     localStorage.removeItem ("hexy_autosave");
   }
-  if (global_game === null) {restart_game(new_game (default_players.slice (0, 2))); }
+  //if (global_game === null) {restart_game(new_game (default_players.slice (0, 2))); }
 }
 function restart_game (new_game) {
   undraw_game (global_game);
   global_game = new_game;
   autosave_game (global_game);
 }
+function load_game (save) {
+  return JSON.parse(save, (key, value) => typeof value === "string"? escape_string (value): value);
+}
+function save_game (game) {
+  return JSON.stringify(game, (key, value) => typeof value==="string"?unescape_string (value): value);
+}
 
 
 function tick() {
   requestAnimationFrame (tick);
   
-  draw_game (global_game) ;
+  if (global_game) {
+    draw_game (global_game) ;
+  }
+  else if (!global_menu) {
+    show_menu();
+  }
 }
 autoload_game ();
 tick();
