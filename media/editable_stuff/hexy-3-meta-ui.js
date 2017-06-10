@@ -8,6 +8,24 @@ function to_rgb(color) {
   }
 }
 
+function UI_colors (player) {
+  var results = {
+    fill: to_rgb (player.fill),
+    stroke: to_rgb (player.stroke),
+  };
+  var lighter = player.based_on === "white" && results.fill || results.stroke;
+  var darker = player.based_on === "white" && results.stroke || results.fill;
+  lighter.red = Math.round(255-(255-lighter.red)/3);
+  lighter.green = Math.round(255-(255-lighter.green)/3);
+  lighter.blue = Math.round(255-(255-lighter.blue)/3);
+  darker.red = Math.round(darker.red/3);
+  darker.green = Math.round(darker.green/3);
+  darker.blue = Math.round(darker.blue/3);
+  results.fill = `rgb(${results.fill.red}, ${results.fill.green}, ${results.fill.blue})`;
+  results.stroke = `rgb(${results.stroke.red}, ${results.stroke.green}, ${results.stroke.blue})`;
+  return results ;
+}
+
 var default_players = [
   {based_on: "white", name: "White", fill: "#ffffff", stroke: "#000000"},
   {based_on: "black", name: "Black", fill: "#000000", stroke: "#ffffff"},

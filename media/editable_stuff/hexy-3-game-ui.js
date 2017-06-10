@@ -340,8 +340,9 @@ function draw_game (game) {
   var prompt = game.prompt_stack.length > 0 && game.prompt_stack [game.prompt_stack.length - 1];
   
   if (drawn.current_player !== game.current_player) {
-    document.documentElement.style.setProperty ("--meta-fill", current_player (game).fill);
-    document.documentElement.style.setProperty ("--meta-stroke", current_player (game).stroke);
+    var colors = UI_colors (current_player (game));
+    document.documentElement.style.setProperty ("--meta-fill", colors.fill);
+    document.documentElement.style.setProperty ("--meta-stroke", colors.stroke);
     drawn.current_player = game.current_player;
   }
   
