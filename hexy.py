@@ -80,7 +80,8 @@ modified.set ("style", "display: none")
 
 trimmed_svg = XML.tostring (modified, encoding = "unicode", method = "html")
 
-
+#with open ("./hack.svg", "w", encoding = "utf-8") as dst_svg_file:
+#  print (trimmed_svg, file=dst_svg_file)
 
 blurb = "A sexual board game for two or more players"
 	  
@@ -337,7 +338,8 @@ input[type="button"]:hover {
      </script>
      
      <script type="text/javascript" src="/media/hexy-3-mechanics.js?rr"></script>
-     <script type="text/javascript" src="/media/hexy-3.js?rr"></script>
+     <script type="text/javascript" src="/media/hexy-3-game-ui.js?rr"></script>
+     <script type="text/javascript" src="/media/hexy-3-meta-ui.js?rr"></script>
 '''}
   )
 
