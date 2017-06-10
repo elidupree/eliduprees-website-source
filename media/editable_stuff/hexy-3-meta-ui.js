@@ -183,12 +183,39 @@ function before_playing() {
 
 var global_game;
 function autosave_game (game) {
-  localStorage.setItem ("hexy_bondage_autosave", JSON.stringify(game, (key, value) => typeof value==="string"?unescape_string (value): value));
+  localStorage.setItem ("hexy_autosave", JSON.stringify(game, (key, value) => typeof value==="string"?unescape_string (value): value));
+  localStorage.setItem ("hexy_autosave_date", Date.now());
 }
 function autoload_game () {
   undraw_game (global_game);
-  var save = localStorage.getItem ("hexy_bondage_autosave");
-  global_game = JSON.parse(save, (key, value) => typeof value === "string"? escape_string (value): value);
+  global_game = null;
+  var date = localStorage.getItem ("hexy_autosave_date");
+  /*
+elidupree 
+[2 hours ago] I can assume that the players have sufficient privacy WHILE they are playing; I'm thinking about scenarios where an untrusted or semi-trusted person examines the device later, after the game.
+
+elidupree 
+[2 hours ago] 
+Now, this might not be relevant if you merely don't want the attacker to know that you have BDSM interests at all; then you would delete your history and not show them
+
+elidupree 
+[2 hours ago] 
+But the game data might also include the names of the players, and that might be an extra level of sensitive information
+
+elidupree 
+[2 hours ago] 
+For instance, you could play it with one person and then want to play it with (or just show it to) another person who mustn't know that you played it with the first person for one reason or another
+
+elidupree [2 hours ago] 
+"The app deletes your autosave on load after 4 hours of not playing" would probably take care of that case
+  */
+  if (date && date > Date.now() - 1000*60*60*4) {
+    var save = localStorage.getItem ("hexy_autosave");
+    global_game = JSON.parse(save, (key, value) => typeof value === "string"? escape_string (value): value);
+  }
+  else {
+    localStorage.removeItem ("hexy_autosave");
+  }
   if (global_game === null) {restart_game(new_game (default_players.slice (0, 2))); }
 }
 function restart_game (new_game) {
