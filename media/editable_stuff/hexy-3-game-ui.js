@@ -231,8 +231,8 @@ function draw_game (game) {
           $("<input>", {type: "button", value: "rotate right"}).on("click", function() {
             rotate (1);
           }),
-          $("<input>", {type: "button", value: "restart game"}).on("click", function() {
-            restart_game ();
+          $("<input>", {type: "button", value: "new game"}).on("click", function() {
+            $("#content").append (make_game_setup_area (game.players));
           })
         )
       )

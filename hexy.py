@@ -319,6 +319,19 @@ input[type="button"]:hover {
   padding: 0.3em;
   margin: 0.2em;}
 
+
+.game_setup {
+  position: fixed;
+  left: 5%; right: 5%; top: 5%; bottom: 5%;
+  border: 3vh solid black; border-radius: 6vh; padding: 4vh;
+  background-color: white;
+}
+.players {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
 </style>
 ''',
       '''<a class="skip" href="#content">Skip to content</a>
