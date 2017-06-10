@@ -1,5 +1,22 @@
 "use strict";
 
+var entityMap = {
+  '&': '&amp;',
+  '<': '&lt;',
+  '>': '&gt;',
+  '"': '&quot;',
+  "'": '&#39;',
+  '/': '&#x2F;',
+  '`': '&#x60;',
+  '=': '&#x3D;'
+};
+
+function escape_string(string) {
+  return String(string).replace(/[&<>"'`=\/]/g, function (s) {
+    return entityMap[s];
+  });
+}
+
 function to_rgb(color) {
   return {
     red: parseInt (color.substring (1, 3), 16),
@@ -50,7 +67,7 @@ function make_game_setup_area (initial_players) {
       player.based_on = (fill.red + fill.green + fill.blue >stroke.red + stroke.green + stroke.blue) && "white" || "black";
     }
     function update_player_name() {
-      var input = player_info.name_input.val();
+      var input = escape_string (player_info.name_input.val());
       if (players.every (existing => existing.name !== input)) {
         player.name = input;
       } else {
@@ -122,6 +139,44 @@ function make_game_setup_area (initial_players) {
   return result;
 }
 
+function instructions() {
+  `
+  Hexy Bondage is a sexual game for two players (or more) to play together on the same device.
+  
+  You take turns placing tiles like this:
+  
+  Your goal is to connect different icons together, like this:
+  
+  When you finish a connection, you do something in real life. Some connections make the players get tied up. When you're too tied up to play your turns, you lose the game!
+  
+  Connecting someone's torso or crotch to their other body parts makes them remove a piece of clothing.
+  
+  Connecting your own hands or feet to an opponent's body parts gives you a chance to stimulate that body part in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of stimulation they want.
+  
+  `
+}
+function before_playing() {
+  `
+  
+  Welcome to Hexy Bondage!
+  
+  
+  Instructions
+  
+    
+  Ready to play a game with your partner(s)?
+
+  Get plenty of things to tie people up with. (Rope? Handcuffs? Clothing?) Find a place to play with furniture nearby, where you could keep playing even if everyone has an arm or leg tied to it. Keep scissors nearby in case of emergencies. (Preferably medical scissors.)
+    
+  Talk about what each of you wants. When it comes up in the game, what kind of stimulation do you want? What toys can be used on you? What do you want your partner(s) to do if you lose the game? (Untie you right away? Leave you tied up? Stimulate you more?)
+  
+  Remember that any player can withdraw consent at any time, even if you planned to finish the game together. If you like to playfully protest, choose a safeword that means "stop" unambiguously. If someone speaks the safeword, stop and untie them right away.
+  
+  Set up the players below and have fun!
+  
+  `
+}
+
 var global_game;
 function autosave_game (game) {
   localStorage.setItem ("hexy_bondage_autosave", JSON.stringify(game));
@@ -129,7 +184,7 @@ function autosave_game (game) {
 function autoload_game () {
   undraw_game (global_game);
   var save = localStorage.getItem ("hexy_bondage_autosave");
-  global_game = JSON.parse(save);
+  global_game = JSON.parse(save, (key, value) => typeof value === "string"? escape_string (value): value);
   if (global_game === null) {restart_game(new_game (default_players.slice (0, 2))); }
 }
 function restart_game (new_game) {
