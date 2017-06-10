@@ -332,7 +332,15 @@ input[type="button"]:hover {
   display: flex;
   flex-wrap: wrap;
 }
-
+.player_options {
+  margin: 0.2em;
+  border-radius:0.4em;
+  padding:0.5em;
+  background-color:#ddd;
+}
+.player_options input[type="text"] {
+  width: 6em;
+}
 
 </style>
 ''',
