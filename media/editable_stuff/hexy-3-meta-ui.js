@@ -19,23 +19,31 @@ var default_players = [
 
 function make_game_setup_area (initial_players) {
   var players = [];
-  function make_player_area(player, default_name, default_fill, default_stroke) {
+  function make_player_area(player) {
     var player_info = {};
     var default_name = player.name;
     var default_fill = player.fill;
     var default_stroke = player.stroke;
     function update_player_colors() {
-      player.fill = player_info.fill_input.value();
-      player.stroke = player_info.stroke_input.value();
+      player.fill = player_info.fill_input.val();
+      player.stroke = player_info.stroke_input.val();
       var fill = to_rgb (player.fill);
       var stroke = to_rgb (player.stroke);
       player.based_on = (fill.red + fill.green + fill.blue >stroke.red + stroke.green + stroke.blue) && "white" || "black";
+    }
+    function update_player_name() {
+      var input = player_info.name_input.val();
+      if (players.every (existing => existing.name !== input)) {
+        player.name = input;
+      } else {
+        player_info.name_input.val(player.name);
+      }
     }
   
     return player_info.element = $("<div>", {class:"player_options"}).append(
       $("<div>", {class:"player_row"}).append(
         $("<label>", {for: "player_name_" + default_name}).text("Player name: "),
-        player_info.name_input = $("<input>", {type: "text", value: default_name, id: "player_name_" + default_name})
+        player_info.name_input = $("<input>", {type: "text", value: default_name, id: "player_name_" + default_name}).change (update_player_name)
       ),
       $("<div>", {class:"player_row"}).append(
         $("<label>", {for: "player_fill_" + default_name}).text("Color: "),
@@ -74,10 +82,12 @@ function make_game_setup_area (initial_players) {
       if (prototype) {add_player (prototype);}
     }),
     $("<input>", {type: "button", value: "Start game"}).click (function() {
-      result.remove();
-      undraw_game (global_game);
-      global_game = new_game (players);
-      autosave_game (global_game);
+      if (players.length > 0) { 
+        result.remove();
+        undraw_game (global_game);
+        global_game = new_game (players);
+        autosave_game (global_game);
+      }
     })
   );
   
