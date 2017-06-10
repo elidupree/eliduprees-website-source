@@ -17,6 +17,10 @@ function escape_string(string) {
   });
 }
 
+function unescape_string (string) {
+  return (new DOMParser().parseFromString (string, "text/html")).documentElement.textContent;
+}
+
 function to_rgb(color) {
   return {
     red: parseInt (color.substring (1, 3), 16),
@@ -179,7 +183,7 @@ function before_playing() {
 
 var global_game;
 function autosave_game (game) {
-  localStorage.setItem ("hexy_bondage_autosave", JSON.stringify(game));
+  localStorage.setItem ("hexy_bondage_autosave", JSON.stringify(game, (key, value) => typeof value==="string"?unescape_string (value): value));
 }
 function autoload_game () {
   undraw_game (global_game);
