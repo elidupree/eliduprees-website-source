@@ -266,11 +266,15 @@
     return result;
   }
   
-  function describe_tile_icon(tile, player_already_named) {
+  var general_areas = {"hand": "hands", foot: "feet", torso: "upper body", crotch: "lower body"};
+  
+  function describe_tile_icon(tile, extras) {
+    extras = extras || {};
     var kind = tile.icon.icon;
     if (tile.icon.side) { kind = tile.icon.side+" "+kind; }
+    if (extras.general_area && general_areas [tile.icon.icon]) {kind = general_areas [tile.icon.icon];}
     if (kind === "toybox") { kind = "a toybox"; }
-    if (player_already_named) { return kind; }
+    if (extras.player_already_named) { return kind; }
     if (tile.player) { return tile.player.name+"'s "+kind; }
     return kind;
   }
@@ -340,12 +344,12 @@
       },
       function (first, second) {
         if (first.player.index === second.player.index && first.icon.icon === "torso") {
-          return strip(first.player," from their torso"," from your torso");
+          return strip(first.player," from their upper body"," from your upper body");
         }
       },
       function (first, second) {
         if (first.player.index === second.player.index && first.icon.icon === "crotch") {
-          return strip(first.player," from their legs"," from your legs");
+          return strip(first.player," from their lower body"," from your lower body");
         }
       },
       function (first, second) {
@@ -396,8 +400,8 @@
       function (first, second) {
         if (first.player && second.player && first.icon.icon !== second.icon.icon && (first.icon.icon === "hand" || first.icon.icon === "foot") && (second.icon.icon === "foot" || second.icon.icon === "torso" || second.icon.icon === "crotch")) {
           return {
-            hypothetical: `from now on, ${first.player.name} can stimulate ${describe_tile_icon (second)} with their ${describe_tile_icon (first, true)}`,
-            message: `From now on, ${first.player.name} can stimulate ${describe_tile_icon (second)} with their ${describe_tile_icon (first, true)}`,
+            hypothetical: `${first.player.name} may use their ${describe_tile_icon (first, {general_area: true, player_already_named: true})} to stimulate ${describe_tile_icon (second, {general_area: true})}`,
+            message: `${first.player.name} may now use their ${describe_tile_icon (first, {general_area: true, player_already_named: true})} to stimulate ${describe_tile_icon (second, {general_area: true})}`,
             options: [{text: "Okay",}]
           };
         }
