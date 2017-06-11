@@ -213,6 +213,7 @@ function draw_game (game) {
   if (just_created) {
     drawn_games [game.id] = drawn = {
       tiles:{},
+      tiles_list: [],
       touches: {},
       frame: 0,
     };
@@ -393,6 +394,7 @@ function draw_game (game) {
     var drawn_tile = get_tile (drawn.tiles, tile);
     if (drawn_tile === undefined) {
       drawn_tile = create_drawn_tile (tile);
+      drawn.tiles_list.push (drawn_tile);
       set_tile (drawn.tiles, drawn_tile);
       position_drawn_tile (drawn, drawn_tile);
       drawn.board.appendChild (drawn_tile.element);
@@ -403,6 +405,7 @@ function draw_game (game) {
     if (floating_rounded_position_changed) {
       clear_paths (drawn_tile);
     }
+    drawn_tile.frame_existed = drawn.frame;
     include (tile);
     if (!tile.edge) {
     for (var direction = 0; direction <6 ;++direction) {
@@ -411,6 +414,14 @@ function draw_game (game) {
     }
     }
   });
+  drawn.tiles_list.filter (tile => {
+    if (tile.frame_existed !== drawn.frame) {
+      $(tile.element).remove();
+      remove_tile (drawn.tiles, tile);
+      return false;
+    }
+    return true;
+  }) ;
   
   var deficiency = drawn.dimensions.horizontal/drawn.scale - (max_horizontal - min_horizontal);
   if (deficiency >0) {max_horizontal += deficiency/2; min_horizontal -= deficiency/2;}

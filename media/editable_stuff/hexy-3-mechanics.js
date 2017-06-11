@@ -491,14 +491,14 @@
   }
   
   
-  function create_random_tile (game_state, icon_chance, extras) {
+  function create_random_tile (game, icon_chance, extras) {
     extras = extras || {};
     var choose_icon = Math.random() <icon_chance;
     var id;
     var player;
     var bucket = choose_icon? tile_ids_with_icon: tile_ids_without_icon;
     
-    var player_if_any = random_choice (game_state.players_immutable);
+    var player_if_any = random_choice (game.players_immutable);
     while (true) {
       id = random_choice (bucket);
       var icon = icons_by_tile_id[id];
@@ -509,7 +509,7 @@
         // Note that because this eliminates half the possible choices of player-specific icon,
         // non-player-specific icons are effectively double weight.
         if (icon && icon.color && !player) {
-          player = random_choice (game_state.players_immutable);
+          player = random_choice (game.players_immutable);
         }
         if (!(player && icon.color !== player.based_on)) {
           break;
@@ -518,7 +518,7 @@
     }
     var result = {tile_id: id, rotation: random_range (0, 6)};
     result.player = player;
-    result.key = game_state.next_tile_key++;
+    result.key = game.next_tile_key++;
     result.icon = icons_by_tile_id [result.tile_id];
     return result;
   }
@@ -531,29 +531,43 @@
     }
   }
   
-  function begin_turn (state) {
-    if (state.prompt_stack.length >0) {
+  function begin_turn (game) {
+    if (game.prompt_stack.length >0) {
       return;
     }
-    var old_player = current_player (state);
-    state.current_player = (state.current_player + 1) % state.players.length;
-    var player = current_player (state);
+    var old_player = current_player (game);
+    game.current_player = (game.current_player + 1) % game.players.length;
+    var player = current_player (game);
     
     if (old_player.skip_turns >0) {
       old_player.skip_turns--;
     }
     if (player.skip_turns >0) {
-      state.prompt_stack.push ({
+      game.prompt_stack.push ({
         message: `${player.name} skips their turn due to a previous effect. (${player.skip_turns - 1} more turns to skip)`,
         options: [{text: "Drat"}]
       });
       return;
     }
     
-    var tile = create_random_tile(state, 0.0);
+    if (game.available_icons === 0) {
+      game.anchored_tiles = [];
+      game.tiles = {};
+      var location = {};
+      for (location.horizontal = -4; location.horizontal <= 4; ++location.horizontal) {
+      for (location.vertical = ((location.horizontal % 2) ===0)? -6 : -3; location.vertical <= 6; location.vertical += 6) {
+      if (logical_distance (location, origin) <= 4) {
+        var tile = create_random_tile (game, 1);
+        tile.horizontal = location.horizontal; tile.vertical = location.vertical;
+        place_tile (game, tile);
+      }}}
+      make_arena (game, 1) ;
+    }
+    
+    var tile = create_random_tile(game, 0.0);
     
     /*if (tile.player.index === player.index && (tile.icon.icon === "torso" || tile.icon.icon === "crotch")) {
-      state.current_prompt = {
+      game.current_prompt = {
         kind: "message",
         message: "tile_based_skipping",
         tile: tile,
@@ -561,7 +575,7 @@
       return;
     }*/
     
-    state.floating_tile = tile;
+    game.floating_tile = tile;
   }
   
   function get_distance_info (game, max_distance) {
@@ -591,12 +605,14 @@
     return {distance_map, frontiers};
   }
   
+  var origin = {horizontal: 0, vertical: 0};
+  
   function populate (game) {
     var info = get_distance_info (game, 3);
     var tile = create_random_tile (game, 1);
     var candidate = random_choice (info.frontiers [2]);
     var other_candidate = random_choice (info.frontiers [3]);
-    var origin = {horizontal: 0, vertical: 0};
+    
     if (logical_distance (other_candidate, origin) <logical_distance (candidate, origin)) {
       candidate = other_candidate;
     }
@@ -814,20 +830,22 @@
       player.skip_turns = 0;
     });
     
+    game.current_player = random_range (0, game.players.length);
     
-    var tile;
+    
+    /*var tile;
     while (!(tile && tile.player)) {
       tile = create_random_tile (game, 1);
     }
     game.current_player = (game.players.length + tile.player.index - 1) % game.players.length;
     tile.horizontal = 0;
     tile.vertical = 0;
-    place_tile (game, tile);
+    place_tile (game, tile);*/
         
-    while (game.available_icons < 20) {
+    /*while (game.available_icons < 20) {
       populate (game);
     }
-    make_arena (game, 2);
+    make_arena (game, 2);*/
     
     begin_turn (game);
     return game;
