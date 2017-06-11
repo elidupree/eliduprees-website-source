@@ -549,10 +549,6 @@
     }*/
     
     state.floating_tile = tile;
-    
-    while (state.available_icons < 5 + Math.sqrt (state.anchored_tiles.length)) {
-      populate (state);
-    }
   }
   
   function get_distance_info (game, max_distance) {
@@ -643,7 +639,6 @@
       walker.previous = previous;
       walker.next = next;
       walker.previous_live = contours_live;
-      console.log (walker.worse_neighbors);
       if (walker.worse_neighbors !== 2) {
         contours_live = !contours_live;
       }
@@ -771,10 +766,13 @@
     tile.horizontal = 0;
     tile.vertical = 0;
     place_tile (game, tile);
-    
+        
+    while (game.available_icons < 20) {
+      populate (game);
+    }
+    make_arena (game, 2);
     
     begin_turn (game);
-    make_arena (game, 1);
     return game;
   }
   
