@@ -198,7 +198,7 @@ function before_playing() {
   
       $("<li>").text ("Set up the players below and have fun!")
     ),
-    make_game_setup_area (global_game && global_game.players || default_players.slice (0, 2)),
+    make_game_setup_area (global_game && global_game.players_immutable || default_players.slice (0, 2)),
     navigation("start_game")
   );
 }
