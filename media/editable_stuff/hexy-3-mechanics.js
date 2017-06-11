@@ -211,8 +211,8 @@
   }
 
     
-  function collect_path (tiles, tile, from_direction) {
-    var found = {};
+  function collect_path (tiles, tile, from_direction, found_accumulator) {
+    var found = found_accumulator || {};
     var result = {components: [], icons: [], lock: false, completed: true};
     function find (tile, from_direction) {
       if (!tile) {result.completed = false; return;}
@@ -252,16 +252,19 @@
   function collect_paths (tiles, tile) {
     var connections = info_by_tile_id[tile.tile_id].connections;
     var result = [];
+    var found_accumulator = {};
     var done_lock = false;
     for (var direction = 0; direction <6 ;++direction) {
       var index = (direction + 6 - tile.rotation) % 6;
       var destination = connections[index];
+      /*
+      these were needed to avoid duplicate connections when we didn't use found_accumulator to do that
       if (typeof destination === "number" && destination <index) { continue; }
       if (destination === lock) {
         if (done_lock) {continue;}
         done_lock = true;
-      }
-      result.push (collect_path (tiles, tile, direction));
+      }*/
+      result.push (collect_path (tiles, tile, direction, found_accumulator));
     }
     return result;
   }
