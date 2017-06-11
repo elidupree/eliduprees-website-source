@@ -553,14 +553,33 @@
     if (game.available_icons === 0) {
       game.anchored_tiles = [];
       game.tiles = {};
-      var location = {};
+      
+      /*var location = {};
       for (location.horizontal = -4; location.horizontal <= 4; ++location.horizontal) {
       for (location.vertical = ((location.horizontal % 2) ===0)? -6 : -3; location.vertical <= 6; location.vertical += 6) {
       if (logical_distance (location, origin) <= 4) {
         var tile = create_random_tile (game, 1);
         tile.horizontal = location.horizontal; tile.vertical = location.vertical;
         place_tile (game, tile);
-      }}}
+      }}}*/
+      
+      var place = function (location, direction) {
+        var tile = create_random_tile (game, 1);
+        tile.horizontal = location.horizontal; tile.vertical = location.vertical;
+        var connections = info_by_tile_id [tile.tile_id].connections;
+        for (tile.rotation = 0; tile.rotation <6 ;++tile.rotation) {
+          if (connections [(direction + 6 - tile.rotation) % 6] === dead) {
+            break;
+          }
+        }
+        place_tile (game, tile) ;
+      }
+      for (var direction = 0; direction <6 ;++direction) {
+        var location = in_direction (in_direction (origin, direction), direction);
+        place (location, (direction + 5) % 6);
+        place (in_direction (location, (direction + 5) % 6), (direction + 2) % 6);
+      }
+      
       make_arena (game, 1) ;
     }
     
