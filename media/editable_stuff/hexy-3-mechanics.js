@@ -703,17 +703,19 @@
     
     locations_list.forEach(function(location) {
       location.badness = 0;
-      //location.paths = [];
+      location.paths = {};
     });
     var found_accumulator = {};
+    function path_badness (path) {return path.live ? Math.max (0, path.components.length*path.components.length - 25) : 0;}
     info.frontiers [size].forEach(function(location) {
       for (var direction = 0; direction <6 ;++direction) {
         var path = collect_path (proposed_tiles, location, direction, found_accumulator);
+        path.live = true;
         if (path.components.length > 5) {
           path.components.forEach(function(component) {
             var location = get_tile (info.distance_map, component.tile)
-            location.badness += path.components.length*path.components.length - 25;
-            //location.paths.push (path);
+            location.badness += path_badness (path);
+            location.paths [component.from] = location.paths [component.towards] = path;
           });
         }
       }
@@ -722,16 +724,21 @@
     var consider_live = function (component) {
       return get_tile (info.distance_map, in_direction (component.tile, component.from)).distance === size || get_tile (info.distance_map, in_direction (component.tile, component.towards)).distance === size;
     }
-    var evaluate = function (location) {
-      if (location.badness !== undefined) {return {badness: location.badness /*, paths: location.paths*/};}
+    var evaluate = function (location, tile) {
       var badness = 0;
-      var paths = collect_paths (proposed_tiles, get_tile (proposed_tiles, location));
+      var paths = collect_paths (proposed_tiles, tile);
       paths.forEach(function(path) {
-        if (path.components.length > 5 && path.components.some(consider_live)) {
-          badness += path.components.length*path.components.length - 25;
+        path.live = false;
+        var multiplier = 0;
+        path.components.forEach(function (component) {
+          if (consider_live (component)) {path.live = true;}
+          if (component.tile === tile) {++multiplier; }
+        });
+        if (path.components.length > 5 && path.live) {
+          badness += multiplier*path_badness (path);
         }
       });
-      return {badness: location.badness = badness, paths: location.paths = paths};
+      return {badness: badness, paths: paths};
     }
     
     for (var whatever = 0; whatever <locations_list.length*30;++whatever) {
@@ -739,26 +746,28 @@
       //console.log (query);
       if (!query.boundary) {
         var original = get_tile (proposed_tiles, query);
-        var original_badness = evaluate (query);
+        var original_badness = query.badness;
         var candidate = create_random_tile (game, 0, {no_locks: true});
         candidate.horizontal = query.horizontal; candidate.vertical = query.vertical;
         set_tile (proposed_tiles, candidate);
-        delete query.badness;
-        var candidate_badness = evaluate (query);
-        //console.log (original_badness, candidate_badness);
-        if (original_badness.badness < candidate_badness.badness) {
+        var candidate_evaluation = evaluate (query, candidate);
+        //console.log (original_badness, candidate_evaluation);
+        if (original_badness < candidate_evaluation.badness) {
           set_tile (proposed_tiles, original);
-          query.badness = original_badness.badness;
         }
         else {
-          candidate_badness.paths.forEach(function(path) {
+          candidate_evaluation.paths.forEach(function(path) {
             path.components.forEach(function(component) {
               var location = get_tile (info.distance_map, component.tile)
-              delete location.badness;
-              //delete location.paths;
+              if (location.paths [component.from]) {
+                location.badness -= path_badness (location.paths [component.from]);
+                //if (location.paths [component.towards] !== location.paths [component.from] && location !== query) {console.log ("what", location); return;}
+              }
+              location.badness += path_badness (path);
+              location.paths [component.from] = location.paths [component.towards] = path;
             });
           });
-          query.badness = candidate_badness.badness;
+          query.badness = candidate_evaluation.badness;
           //query.paths = candidate_badness.paths;
         }
       }
