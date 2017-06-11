@@ -197,10 +197,19 @@
 
   var icons_by_tile_id = {};
   var info_by_tile_id = {};
+  var tile_ids_with_icon = [];
+  var tile_ids_without_icon = [];
 
   tile_ids.forEach(function(id) {
-    icons_by_tile_id[id] = get_icon(id);
-    info_by_tile_id[id] = get_tile_info(id);
+    var icon = get_icon(id);
+    var info = get_tile_info(id);
+    icons_by_tile_id[id] = icon;
+    info_by_tile_id[id] = info;
+    var weight = info.weight*(icon && icon.weight || 1);
+    var bucket = icon? tile_ids_with_icon: tile_ids_without_icon;
+    for (var whatever = 0; whatever <weight;++whatever) {
+      bucket.push (id);
+    }
   });
   info_by_tile_id [blank_hex_id] = connections_table [blank_hex_id];
   
@@ -257,21 +266,24 @@
   }
   
   function collect_paths (tiles, tile) {
-    var connections = info_by_tile_id[tile.tile_id].connections;
+    //var connections = info_by_tile_id[tile.tile_id].connections;
     var result = [];
     var found_accumulator = {};
-    var done_lock = false;
+    //var done_lock = false;
     for (var direction = 0; direction <6 ;++direction) {
-      var index = (direction + 6 - tile.rotation) % 6;
+      /*var index = (direction + 6 - tile.rotation) % 6;
       var destination = connections[index];
-      /*
+      
       these were needed to avoid duplicate connections when we didn't use found_accumulator to do that
       if (typeof destination === "number" && destination <index) { continue; }
       if (destination === lock) {
         if (done_lock) {continue;}
         done_lock = true;
       }*/
-      result.push (collect_path (tiles, tile, direction, found_accumulator));
+      var path = collect_path (tiles, tile, direction, found_accumulator);
+      if (path.components.length >0) {
+        result.push (path);
+      }
     }
     return result;
   }
@@ -484,17 +496,18 @@
     var choose_icon = Math.random() <icon_chance;
     var id;
     var player;
+    var bucket = choose_icon? tile_ids_with_icon: tile_ids_without_icon;
+    
+    var player_if_any = random_choice (game_state.players_immutable);
     while (true) {
-      id = random_choice (tile_ids);
+      id = random_choice (bucket);
       var icon = icons_by_tile_id[id];
       var info = info_by_tile_id[id];
       
-      //console.log(info.weight*(icon && icon.weight || 1));
-      if (
-        (!!icon === !!choose_icon) &&
-        (Math.random()*10000 < info.weight*(icon && icon.weight || 1)) &&
-        !(extras.no_locks && info.lock)) {
-        //hack: preserve the ratio of player-specific icons to non-player-specific icons, regardless of the number of players
+      if (!(extras.no_locks && info.lock)) {
+        // hack: preserve the ratio of player-specific icons to non-player-specific icons, regardless of the number of players
+        // Note that because this eliminates half the possible choices of player-specific icon,
+        // non-player-specific icons are effectively double weight.
         if (icon && icon.color && !player) {
           player = random_choice (game_state.players_immutable);
         }
@@ -695,6 +708,7 @@
           return get_tile (info.distance_map, in_direction (component.tile, component.from)).distance === size || get_tile (info.distance_map, in_direction (component.tile, component.towards)).distance === size;
         }
         if (path.components.some(consider_live)) {
+        if (path.components.length > 5 && path.components.some(consider_live)) {
           badness += Math.max (0, path.components.length*path.components.length - 25);
         }
       });
