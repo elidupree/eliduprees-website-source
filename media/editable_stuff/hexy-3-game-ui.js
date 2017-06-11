@@ -404,10 +404,10 @@ function draw_game (game) {
     }
   });
   
-  var deficiency = drawn.dimensions.horizontal - (max_horizontal - min_horizontal);
-  if (deficiency >0) {max_horizontal += Math.floor (deficiency/2); min_horizontal -= Math.ceil (deficiency/2) ;}
-  deficiency = drawn.dimensions.vertical - (max_vertical - min_vertical);
-  if (deficiency >0) {max_vertical += Math.floor (deficiency/2); min_vertical -= Math.ceil (deficiency/2) ;}
+  var deficiency = drawn.dimensions.horizontal/drawn.scale - (max_horizontal - min_horizontal);
+  if (deficiency >0) {max_horizontal += deficiency/2; min_horizontal -= deficiency/2;}
+  deficiency = drawn.dimensions.vertical/drawn.scale - (max_vertical - min_vertical);
+  if (deficiency >0) {max_vertical += deficiency/2; min_vertical -= deficiency/2;}
 
 
   function color_messages (color) {
@@ -537,17 +537,20 @@ function draw_game (game) {
   drawn.min_vertical !== min_vertical || 
   drawn.max_vertical !== max_vertical;
   
-  var speed = 120/frames_per_second;
+  var speed = dimensions_changed ? 99999999 : 120/frames_per_second;
   drawn.min_horizontal = move_towards (drawn.min_horizontal, min_horizontal, speed);
   drawn.max_horizontal = move_towards (drawn.max_horizontal, max_horizontal, speed);
   drawn.min_vertical = move_towards (drawn.min_vertical, min_vertical, speed);
   drawn.max_vertical = move_towards (drawn.max_vertical, max_vertical, speed);
   drawn.mouse_exact.rotation = move_towards (drawn.mouse_exact.rotation, drawn.rotation_target, 6/frames_per_second);
-  var width = drawn.max_horizontal - drawn.min_horizontal;
-  var height = drawn.max_vertical - drawn.min_vertical;
+  var width = Math.floor ((drawn.max_horizontal - drawn.min_horizontal)*drawn.scale);
+  var height = Math.floor ((drawn.max_vertical - drawn.min_vertical)*drawn.scale);
   if (board_changing) {
-    drawn.svg.setAttribute("width", width*drawn.scale);
-    drawn.svg.setAttribute("height", height*drawn.scale);
+    drawn.svg.setAttribute("width", width);
+    drawn.svg.setAttribute("height", height);
+    drawn.svg.style.setProperty("width", width);
+    drawn.svg.style.setProperty("height", height);
+    drawn.board_container.css("overflow", width>drawn.dimensions.horizontal || height >drawn.dimensions.vertical? "auto": "visible");
     drawn.board.style.setProperty ("transform", "translate(" + (-drawn.min_horizontal*drawn.scale) + "px, "+ (-drawn.min_vertical*drawn.scale) + "px)");
   }
 }

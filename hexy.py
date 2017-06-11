@@ -259,7 +259,12 @@ button {
 <style>
 
 html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke: transparent;}
-.game_svg {display: block; margin: 0 auto;}
+.game_svg {
+  display: block;
+  /*margin: 0 auto;*/
+  /* prevent it from overflowing its box before being sized */
+  width: 0; height: 0;
+}
 .message_area {
   /*background-color:#ffaaaa;*/
   margin: 0.2em;
