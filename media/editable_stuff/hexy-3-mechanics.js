@@ -250,7 +250,7 @@
         }
       }
     }
-    find (tile, from_direction);
+    find (get_tile (tiles, tile), from_direction);
     find (get_tile (tiles, in_direction (tile, from_direction)), (from_direction + 3) % 6);
     return result;
   }
@@ -591,11 +591,11 @@
     place_tile (game, tile);
   }
   
-  function make_arena (game) {
-    var max_width = 3;
+  function make_arena (game, size) {
+    var max_width = size + 3;
     var info = get_distance_info (game, max_width+1);
     var walker;
-    for (var which = 2; which <= max_width; ++which) {
+    for (var which = size+1; which <= max_width; ++which) {
       info.frontiers [which].forEach(function(location) {
         location.worse_neighbors = 0;
         location.better_neighbors = 0;
@@ -617,7 +617,7 @@
     var previous;
     var next;
     var original_walker = walker;
-    while (next !== original_walker) {
+    function find_next() {
       for (var direction = 0; direction <6 ;++direction) {
         var neighbor = get_tile (info.distance_map, in_direction (walker, direction));
         if (neighbor.distance == walker.distance && neighbor.worse_neighbors >0 && neighbor !== previous) {
@@ -625,21 +625,31 @@
           break;
         };
       }
-      
-      walker.boundary = true;
-      if (walker.worse_neighbors == 2) {
-        walker.contours_live = contours_live;
-      }
-      else {
-        contours_live = !contours_live;
-      }
-      
+    }
+    function step() {
       previous = walker;
       walker = next;
+      find_next();
+    }
+    find_next();
+    step();
+    while (true) {
+      walker.boundary = true;
+      walker.previous = previous;
+      walker.next = next;
+      walker.previous_live = contours_live;
+      console.log (walker.worse_neighbors);
+      if (walker.worse_neighbors !== 2) {
+        contours_live = !contours_live;
+      }
+      walker.next_live = contours_live;
+      if (walker === original_walker) {break;}
+      step();
     }
     
     function not_escaping (tile) {
       var location = get_tile (info.distance_map, tile);
+      if (!location.boundary) { return true; }
       var connections = info_by_tile_id[tile.tile_id].connections;
       for (var direction = 0; direction <6 ;++direction) {
         var index = (direction + 6 - tile.rotation) % 6;
@@ -647,19 +657,14 @@
         if (typeof destination === "number") {
           var first = get_tile (info.distance_map, in_direction (tile, direction));
           var second = get_tile (info.distance_map, in_direction (tile, (destination + tile.rotation) % 6));
-          if ((location.contours_live === true) &&
-               first.distance <= location.distance &&
-              second.distance >  location.distance) {
-            return false;
-          }
-          if ((location.contours_live === false) &&
-               first.distance <  location.distance &&
-              second.distance >= location.distance) {
-            return false;
-          }
-          if (walker.boundary && 
-             (first.distance < location.distance || first.contours_live === true) &&
-             (second.distance > location.distance || second.contours_live === false)) {
+                    
+          var live = neighbor => (
+            neighbor.distance < location.distance ||
+            (neighbor.distance === location.distance && (
+              (neighbor === location.previous && location.previous_live === true) ||
+              (neighbor === location.    next && location.    next_live === true) ||
+              !neighbor.boundary)));
+          if (live (first) !== live (second)) {
             return false;
           }
         }
@@ -669,16 +674,28 @@
       }
       return true;
     }
-    for (var which = 2; which <= max_width; ++which) {
+    var proposed_tiles = {};
+    for (var which = size+1; which <= max_width; ++which) {
       info.frontiers [which].forEach(function(location) {
         var tile;
         while (!(tile && (which <max_width || not_escaping (tile)))) {
           tile = create_random_tile (game, 0);
           tile.horizontal = location.horizontal; tile.vertical = location.vertical; tile.rotation = random_range (0, 6);
         }
-        place_tile (game, tile) ;
+        set_tile (proposed_tiles, tile);
       });
     }
+    
+    info.frontiers [size].forEach(function(location) {
+      for (var direction = 0; direction <6 ;++direction) {
+        collect_path (proposed_tiles, location, direction).components.forEach(function(component) {
+          if (!component.tile.confirmed) {
+            component.tile.confirmed = true;
+            place_tile (game, component.tile) ;
+          }
+        });
+      }
+    });
   }
   
   
@@ -718,7 +735,7 @@
     
     
     begin_turn (game);
-    make_arena (game);
+    make_arena (game, 1);
     return game;
   }
   
