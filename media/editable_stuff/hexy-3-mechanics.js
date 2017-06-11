@@ -741,7 +741,7 @@
       return {badness: badness, paths: paths};
     }
     
-    for (var whatever = 0; whatever <locations_list.length*30;++whatever) {
+    for (var whatever = 0; whatever <locations_list.length*20;++whatever) {
       var query = random_choice (locations_list);
       //console.log (query);
       if (!query.boundary) {
