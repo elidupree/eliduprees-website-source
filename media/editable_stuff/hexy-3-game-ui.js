@@ -281,12 +281,13 @@ function draw_game (game) {
         var touch = touches[i];
         var info = drawn.touches [touch.identifier] = {};
         update_touch_position (touch);
+        
         console.log(drawn.touch_holding_tile, info.rounded_location.horizontal , info.rounded_location.vertical , drawn.floating_tile.horizontal , drawn.floating_tile.vertical)
         if (drawn.touch_holding_tile === undefined && drawn.floating_tile && info.rounded_location.horizontal === drawn.floating_tile.horizontal && info.rounded_location.vertical === drawn.floating_tile.vertical) {
           drawn.touch_holding_tile = touch.identifier;
           delete drawn.tile_hover_location;
           update_touch_position (touch);
-          event.preventDefault();
+          //event.preventDefault();
         }
       }
     });
@@ -311,7 +312,7 @@ function draw_game (game) {
         if (drawn.touch_holding_tile === touch.identifier) {
           delete drawn.touch_holding_tile;
           drawn.tile_hover_location = visual_position (drawn.floating_tile);
-          event.preventDefault();
+          //event.preventDefault();
         }
       }
     });
