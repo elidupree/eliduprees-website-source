@@ -505,6 +505,14 @@
     return result;
   }
   
+  function place_tile (game, tile) {
+    game.anchored_tiles.push (tile);
+    set_tile (game.tiles, tile) ;
+    if (tile.icon !== undefined) {
+      ++game.available_icons;
+    }
+  }
+  
   function begin_turn (state) {
     if (state.prompt_stack.length >0) {
       return;
@@ -542,20 +550,20 @@
     }
   }
   
-  function populate (game) {
+  function get_distance_info (game, max_distance) {
     var distance_map = {};
-    var frontier = [];
-    var next_frontier = [];
+    var frontiers = [[]];
     game.anchored_tiles.forEach(function(tile) {
-      next_frontier.push (tile);
+      tile = {horizontal: tile.horizontal, vertical: tile.vertical, distance: 0};
+      frontiers[0].push (tile);
       set_tile (distance_map, tile);
     });
     
-    for (var next_distance = 1; next_distance <= 3; ++next_distance) {
-      frontier = next_frontier;
-      next_frontier = [];
+    for (var next_distance = 1; next_distance <= max_distance; ++next_distance) {
+      var frontier = frontiers [frontiers.length - 1];
+      var next_frontier = [];
+      frontiers.push (next_frontier)
       frontier.forEach(function(tile) {
-          
         for (var direction = 0; direction <6 ;++direction) {
           var neighbor = in_direction (tile, direction);
           if (get_tile (distance_map, neighbor) === undefined) {
@@ -566,20 +574,111 @@
         }
       });
     }
-    
+    return {distance_map, frontiers};
+  }
+  
+  function populate (game) {
+    var info = get_distance_info (game, 3);
     var tile = create_random_tile (game, 1);
-    var candidate = random_choice (frontier);
-    var other_candidate = random_choice (next_frontier);
-    var origin = {horizontal: 0, vertical: 0}
+    var candidate = random_choice (info.frontiers [2]);
+    var other_candidate = random_choice (info.frontiers [3]);
+    var origin = {horizontal: 0, vertical: 0};
     if (logical_distance (other_candidate, origin) <logical_distance (candidate, origin)) {
       candidate = other_candidate;
     }
     tile.horizontal = candidate.horizontal; tile.vertical = candidate.vertical; tile.rotation = random_range (0, 6);
     
-    game.anchored_tiles.push (tile);
-    set_tile (game.tiles, tile);
-    ++game.available_icons;
+    place_tile (game, tile);
+  }
+  
+  function make_arena (game) {
+    var max_width = 3;
+    var info = get_distance_info (game, max_width+1);
+    var walker;
+    for (var which = 2; which <= max_width; ++which) {
+      info.frontiers [which].forEach(function(location) {
+        location.worse_neighbors = 0;
+        location.better_neighbors = 0;
+        for (var direction = 0; direction <6 ;++direction) {
+          var neighbor = get_tile (info.distance_map, in_direction (location, direction));
+          if (neighbor.distance > location.distance) {
+            ++location.worse_neighbors;
+          };
+          if (neighbor.distance < location.distance) {
+            ++location.better_neighbors;
+          };
+        }
+        if (which == max_width && location.worse_neighbors >0 && !walker) {
+          walker = location;
+        }
+      });
+    }
+    var contours_live = true;
+    var previous;
+    var next;
+    var original_walker = walker;
+    while (next !== original_walker) {
+      for (var direction = 0; direction <6 ;++direction) {
+        var neighbor = get_tile (info.distance_map, in_direction (walker, direction));
+        if (neighbor.distance == walker.distance && neighbor.worse_neighbors >0 && neighbor !== previous) {
+          next = neighbor;
+          break;
+        };
+      }
+      
+      walker.boundary = true;
+      if (walker.worse_neighbors == 2) {
+        walker.contours_live = contours_live;
+      }
+      else {
+        contours_live = !contours_live;
+      }
+      
+      previous = walker;
+      walker = next;
+    }
     
+    function not_escaping (tile) {
+      var location = get_tile (info.distance_map, tile);
+      var connections = info_by_tile_id[tile.tile_id].connections;
+      for (var direction = 0; direction <6 ;++direction) {
+        var index = (direction + 6 - tile.rotation) % 6;
+        var destination = connections[index];
+        if (typeof destination === "number") {
+          var first = get_tile (info.distance_map, in_direction (tile, direction));
+          var second = get_tile (info.distance_map, in_direction (tile, (destination + tile.rotation) % 6));
+          if ((location.contours_live === true) &&
+               first.distance <= location.distance &&
+              second.distance >  location.distance) {
+            return false;
+          }
+          if ((location.contours_live === false) &&
+               first.distance <  location.distance &&
+              second.distance >= location.distance) {
+            return false;
+          }
+          if (walker.boundary && 
+             (first.distance < location.distance || first.contours_live === true) &&
+             (second.distance > location.distance || second.contours_live === false)) {
+            return false;
+          }
+        }
+        else {
+          return false;
+        }
+      }
+      return true;
+    }
+    for (var which = 2; which <= max_width; ++which) {
+      info.frontiers [which].forEach(function(location) {
+        var tile;
+        while (!(tile && (which <max_width || not_escaping (tile)))) {
+          tile = create_random_tile (game, 0);
+          tile.horizontal = location.horizontal; tile.vertical = location.vertical; tile.rotation = random_range (0, 6);
+        }
+        place_tile (game, tile) ;
+      });
+    }
   }
   
   
@@ -615,12 +714,11 @@
     game.current_player = (game.players.length + tile.player.index - 1) % game.players.length;
     tile.horizontal = 0;
     tile.vertical = 0;
-    game.anchored_tiles.push (tile);
-    set_tile (game.tiles, tile);
-    ++game.available_icons;
+    place_tile (game, tile);
     
     
     begin_turn (game);
+    make_arena (game);
     return game;
   }
   
@@ -628,12 +726,8 @@
       game.floating_tile.horizontal = location.horizontal;
       game.floating_tile.vertical = location.vertical;
       game.floating_tile.rotation = location.rotation;
-      game.anchored_tiles.push (game.floating_tile);
-      set_tile (game.tiles, game.floating_tile) ;
+      place_tile (game, game.floating_tile);
       var paths = collect_paths (game.tiles, game.floating_tile) ;
-      if (game.floating_tile.icon !== undefined) {
-        ++game.available_icons;
-      }
       delete game.floating_tile;
         
       current_player (game).played_yet = true;
