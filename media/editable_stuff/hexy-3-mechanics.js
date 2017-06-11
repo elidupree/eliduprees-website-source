@@ -336,19 +336,21 @@
       };
     }
     
+    var same_player = path.icons[0].player && path.icons[1].player && path.icons[0].player.index === path.icons[1].player.index;
+    
     var handlers = [
       function (first, second) {
-        if (first.player.index === second.player.index && first.icon.icon === "torso" && second.icon.icon === "crotch") {
+        if (same_player && first.icon.icon === "torso" && second.icon.icon === "crotch") {
           return strip(first.player,"","");
         }
       },
       function (first, second) {
-        if (first.player.index === second.player.index && first.icon.icon === "torso") {
+        if (same_player && first.icon.icon === "torso") {
           return strip(first.player," from their upper body"," from your upper body");
         }
       },
       function (first, second) {
-        if (first.player.index === second.player.index && first.icon.icon === "crotch") {
+        if (same_player && first.icon.icon === "crotch") {
           return strip(first.player," from their lower body"," from your lower body");
         }
       },
@@ -370,17 +372,17 @@
         }
       },
       function (first, second) {
-        if (first.player.index === second.player.index && first.icon.icon === "hand" && second.icon.icon === "foot") {
+        if (same_player && first.icon.icon === "hand" && second.icon.icon === "foot") {
           return tie ([first, second], first.player);
         }
       },
       function (first, second) {
-        if (first.player.index === second.player.index && first.icon.icon === "foot" && second.icon.icon === "foot") {
+        if (same_player && first.icon.icon === "foot" && second.icon.icon === "foot") {
           return tie ([first, second], first.player, `${first.player.name}'s feet will be tied together`, `Tie ${first.player.name}'s feet together`);
         }
       },
       function (first, second) {
-        if (first.player.index === second.player.index && first.icon.icon === "hand" && second.icon.icon === "hand") {
+        if (same_player && first.icon.icon === "hand" && second.icon.icon === "hand") {
           if (first.player.hands_tied === undefined) {
             return tie ([first, second], first.player, `${first.player.name}'s hands will be tied together in front of them`, `Tie ${first.player.name}'s hands together in front of them`, function() {first.player.hands_tied = "front";});
           }
