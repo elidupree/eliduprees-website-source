@@ -494,7 +494,11 @@ function draw_game (game) {
     
     drawn.message_contents.append (`<p>${current_player (game).name}'s turn.</p>`) ;
     
-    if (!get_tile (game.tiles, drawn.floating_tile)) {
+    var no_message = false;
+    if (get_tile (game.tiles, drawn.floating_tile)) {
+      no_message = true;
+    }
+    else {
     
     var paths = get_floating_tile_paths();
     paths.forEach(function(path) {
@@ -509,7 +513,7 @@ function draw_game (game) {
       drawn.message_contents.append ("<p>You can't place the tile there because you can't connect your current icon to an icon that's already on the board.</p>") ;
       color_messages (legality_fill [results.legality]);
     }
-    if (results.legality === "waste") {
+    else if (results.legality === "waste") {
       drawn.message_contents.append ("<p>You can't place the tile there because"+ list (results.relevant_paths, path => {
         if (path.icons.length >1) {
           return `a connection between ${describe_tile_icon (path.icons [0])} and ${describe_tile_icon (path.icons [1])} doesn't do anything`;
@@ -520,7 +524,7 @@ function draw_game (game) {
       })+ " (and you didn't also make any connections that <em>do</em> do something.)</p>") ;
       color_messages (legality_fill ["forbidden"]);
     }
-    if (results.legality === "success") {
+    else if (results.legality === "success") {
       drawn.message_contents.append ("<p>If you place the tile there, then"+list (results.relevant_paths, path => {
         var effects = path_effects (path);
         console.log(effects );
@@ -528,7 +532,16 @@ function draw_game (game) {
       })+"</p>");
       color_messages (legality_fill [results.legality]);
     }
+    else {
+      no_message = true;
+    }
+    }
     
+    if (no_message) {
+    drawn.message_contents.append ($("<input>", {type: "button", class: "prompt_option", value: `(click here if ${current_player (game).name} is unable to play)`}).on("click", function() {
+      eliminate_current_player (game);
+      autosave_game (game);
+    }));
     }
   }
   

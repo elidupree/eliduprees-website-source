@@ -498,7 +498,6 @@
     var player;
     var bucket = choose_icon? tile_ids_with_icon: tile_ids_without_icon;
     
-    var player_if_any = random_choice (game.players_immutable);
     while (true) {
       id = random_choice (bucket);
       var icon = icons_by_tile_id[id];
@@ -510,6 +509,11 @@
         // non-player-specific icons are effectively double weight.
         if (icon && icon.color && !player) {
           player = random_choice (game.players_immutable);
+          if (!game.players.every (player => player.eliminated)) {
+            while (game.players [player.index].eliminated) {
+              player = random_choice (game.players_immutable);
+            }
+          }
         }
         if (!(player && icon.color !== player.based_on)) {
           break;
@@ -535,8 +539,12 @@
     if (game.prompt_stack.length >0) {
       return;
     }
+    if (game.players.every (player => player.eliminated)) {
+      return;
+    }
     var old_player = current_player (game);
     game.current_player = (game.current_player + 1) % game.players.length;
+    while (current_player (game).eliminated) {game.current_player = (game.current_player + 1) % game.players.length;}
     var player = current_player (game);
     
     if (old_player.skip_turns >0) {
@@ -897,5 +905,10 @@
     if (option.action) {option.action (game);}
     begin_turn (game);
 
+  }
+  
+  function eliminate_current_player (game) {
+    current_player (game).eliminated = true;
+    begin_turn (game) ;
   }
 
