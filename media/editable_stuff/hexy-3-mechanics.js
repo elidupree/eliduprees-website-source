@@ -778,6 +778,7 @@
         collect_path (proposed_tiles, location, direction).components.forEach(function(component) {
           if (!component.tile.confirmed) {
             component.tile.confirmed = true;
+            component.tile.edge = true;
             component.tile.drawn_components = {};
             place_tile (game, component.tile);
           }

@@ -383,10 +383,10 @@ function draw_game (game) {
       var max_vertical = 0;
       function include (location) {
         var position = tile_position (location);
-        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius*2);
-        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius*2);
-        min_vertical = Math.min (min_vertical , position.vertical - short_radius*2);
-        max_vertical = Math.max(max_vertical , position.vertical + short_radius*2);
+        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
+        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius);
+        min_vertical = Math.min (min_vertical , position.vertical - short_radius);
+        max_vertical = Math.max(max_vertical , position.vertical + short_radius);
       }
       
   game.anchored_tiles.forEach(function(tile) {
@@ -403,10 +403,12 @@ function draw_game (game) {
     if (floating_rounded_position_changed) {
       clear_paths (drawn_tile);
     }
-    
+    include (tile);
+    if (!tile.edge) {
     for (var direction = 0; direction <6 ;++direction) {
       var neighbor = in_direction (tile, direction);
       include (neighbor);
+    }
     }
   });
   
