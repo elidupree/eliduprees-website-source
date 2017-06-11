@@ -362,7 +362,7 @@
       function (first, second) {
         if (first.player && second.icon.icon === "toybox") {
           return {
-            message:`${first.player.name} must choose a toy to be used on them`,
+            hypothetical:`${first.player.name} must choose a toy to be used on them`,
             message:`${first.player.name}, choose a toy to be used on you`,
             options: [
               success,
