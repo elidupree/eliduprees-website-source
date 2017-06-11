@@ -701,19 +701,39 @@
       });
     }
     
-    var evaluate = function (location) {
-      var badness = 0;
-      collect_paths (proposed_tiles, get_tile (proposed_tiles, location)).forEach(function(path) {
-        var consider_live = function (component) {
-          return get_tile (info.distance_map, in_direction (component.tile, component.from)).distance === size || get_tile (info.distance_map, in_direction (component.tile, component.towards)).distance === size;
+    locations_list.forEach(function(location) {
+      location.badness = 0;
+      //location.paths = [];
+    });
+    var found_accumulator = {};
+    info.frontiers [size].forEach(function(location) {
+      for (var direction = 0; direction <6 ;++direction) {
+        var path = collect_path (proposed_tiles, location, direction, found_accumulator);
+        if (path.components.length > 5) {
+          path.components.forEach(function(component) {
+            var location = get_tile (info.distance_map, component.tile)
+            location.badness += path.components.length*path.components.length - 25;
+            //location.paths.push (path);
+          });
         }
-        if (path.components.some(consider_live)) {
+      }
+    });
+    
+    var consider_live = function (component) {
+      return get_tile (info.distance_map, in_direction (component.tile, component.from)).distance === size || get_tile (info.distance_map, in_direction (component.tile, component.towards)).distance === size;
+    }
+    var evaluate = function (location) {
+      if (location.badness !== undefined) {return {badness: location.badness /*, paths: location.paths*/};}
+      var badness = 0;
+      var paths = collect_paths (proposed_tiles, get_tile (proposed_tiles, location));
+      paths.forEach(function(path) {
         if (path.components.length > 5 && path.components.some(consider_live)) {
-          badness += Math.max (0, path.components.length*path.components.length - 25);
+          badness += path.components.length*path.components.length - 25;
         }
       });
-      return badness;
+      return {badness: location.badness = badness, paths: location.paths = paths};
     }
+    
     for (var whatever = 0; whatever <locations_list.length*30;++whatever) {
       var query = random_choice (locations_list);
       //console.log (query);
@@ -723,10 +743,23 @@
         var candidate = create_random_tile (game, 0, {no_locks: true});
         candidate.horizontal = query.horizontal; candidate.vertical = query.vertical;
         set_tile (proposed_tiles, candidate);
+        delete query.badness;
         var candidate_badness = evaluate (query);
         //console.log (original_badness, candidate_badness);
-        if (original_badness < candidate_badness) {
+        if (original_badness.badness < candidate_badness.badness) {
           set_tile (proposed_tiles, original);
+          query.badness = original_badness.badness;
+        }
+        else {
+          candidate_badness.paths.forEach(function(path) {
+            path.components.forEach(function(component) {
+              var location = get_tile (info.distance_map, component.tile)
+              delete location.badness;
+              //delete location.paths;
+            });
+          });
+          query.badness = candidate_badness.badness;
+          //query.paths = candidate_badness.paths;
         }
       }
     }
