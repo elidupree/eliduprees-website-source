@@ -4,8 +4,6 @@ var turn = Math.PI*2;
 var top_bar = $(".top_bar");
 var bottom_bar = $(".bottom_bar");
 $(".bars_inner_box").css ("padding-bottom", 0);
-top_bar.css ("font-size", "2vh");
-bottom_bar.css ("font-size", "2vh");
 
 var frames_per_second = 60;
 var game_height;
@@ -17,13 +15,19 @@ $(window).resize (function() {
 function update_dimensions() {
   if (resized) {
     resized = false;
+    var window_height = $(window).height();
+    var bars_size = game_height < 600 ? "2vh" : "unset";
+    top_bar.css ("font-size", bars_size);
+    bottom_bar.css ("font-size", bars_size);
+    
     var game_top = top_bar.offset().top + top_bar.height();
-    var game_bottom = $(window).height() - bottom_bar.height();
+    var game_bottom = window_height - bottom_bar.height();
     var width = $(window).width();
     var height = game_bottom - game_top;
     var result = game_width != width || game_height != height;
     game_height = height;
     game_width = width;
+    
     return result;
   }
 }
