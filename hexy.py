@@ -323,14 +323,29 @@ input[type="button"]:hover {
 #menu {
   position: fixed;
   left: 5%; right: 5%; top: 8%; bottom: 5%;
-  border: 3vh solid black; border-radius: 6vh; padding: 4vh;
+  border: 1.5vh solid black; border-radius: 6vh; padding: 2vh;
   background-color: white;
   --meta-stroke: black;
   --meta-fill: white;
+  text-align: center;
+  overflow: auto;
 }
+h1 {font-size: 200%;}
+h2 {font-size: 150%;}
+#menu p {}
+#menu ul {text-align: left; line-height: 1.35em;}
+#menu_navigation {
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .players {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .player_options {
   margin: 0.2em;

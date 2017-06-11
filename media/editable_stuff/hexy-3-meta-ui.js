@@ -111,7 +111,7 @@ function make_game_setup_area (initial_players) {
   
   var result = $("<div>", {class:"game_setup"}).append(
     info.players_area = $("<div>", {class:"players"}),
-    $("<input>", {type: "button", value: "Add player"}).click (function() {
+    $("<input>", {type: "button", value: "Add another player"}).click (function() {
       var prototype =
         default_players.find(function(proposed) {
           return players.every (function (existing) {
@@ -141,20 +141,25 @@ function make_game_setup_area (initial_players) {
   return result;
 }
 
-function navigation() {
-  var result = $("<div>").append (
-    $("<input>", {type: "button", value: "Instructions"}).click (function() {
+function navigation(current) {
+  var result = $("<div>", {id: "menu_navigation"});
+  if (current !== "instructions") {result.append (
+    $("<input>", {type: "button", value: "Back to instructions"}).click (function() {
       instructions();
-    }),
+    })
+  );}
+  if (current !== "start_game") {result.append (
     $("<input>", {type: "button", value: global_game? "Start a new game": "Start a game"}).click (function() {
       before_playing();
     })
-  );
+  );}
   if (global_game) {
-    result.append (
-      $("<input>", {type: "button", value: "Current game"}).click (function() {
+    if (current !== "game_menu") {result.append (
+      $("<input>", {type: "button", value: "Current game options"}).click (function() {
         game_menu();
-      }),
+      })
+    );}
+    result.append (
       $("<input>", {type: "button", value: "Close menu"}).click (function() {
         close_menu();
       })
@@ -165,7 +170,7 @@ function navigation() {
 }
 
 function instructions() {
-  $("#menu").empty().append (
+  $("#menu").empty().scrollTop (0).append (
     $("<h1>").text ("Welcome to Hexy Bondage!"),
     $("<p>").text ("Hexy Bondage is a sexual game for two players (or more) to play together on the same device."),
     $("<h2>").text ("Instructions"),
@@ -178,13 +183,13 @@ function instructions() {
     $("<p>").text ("Connecting someone's torso or crotch to their other body parts makes them remove a piece of clothing."),
   
     $("<p>").text ("Connecting your own hands or feet to an opponent's body parts gives you a chance to stimulate that body part in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of stimulation they want."),
-    navigation()
+    navigation("instructions")
   );
 }
 function before_playing() {
-  $("#menu").empty().append (
+  $("#menu").empty().scrollTop (0).append (
     $("<p>").text ("Ready to play a game with your partner(s)?"),
-    $("<ul>").append (
+    $("<ul>", {class: "big_list"}).append (
       $("<li>").text ("Get plenty of things to tie people up with. (Rope? Handcuffs? Clothing?) Find a place to play with furniture nearby, where you could keep playing even if everyone has an arm or leg tied to it. Keep scissors nearby in case of emergencies. (Preferably medical scissors.)"),
     
       $("<li>").text ("Talk about what each of you wants. When it comes up in the game, what kind of stimulation do you want? What toys can be used on you? What do you want your partner(s) to do if you lose the game? (Untie you right away? Leave you tied up? Stimulate you more?)"),
@@ -194,29 +199,34 @@ function before_playing() {
       $("<li>").text ("Set up the players below and have fun!")
     ),
     make_game_setup_area (global_game && global_game.players || default_players.slice (0, 2)),
-    navigation()
+    navigation("start_game")
   );
 }
 function game_menu() {
-  $("#menu").empty().append (
-  `
-   
-
-Save string (copy this somewhere to save the game, or paste here to load one):
-
-The game also autosaves, although it will delete the autosave after four hours of not playing.
-
-Just end the game and delete your autosave
-  
-    
-  
-  `,
-    navigation()
+  var save_box;
+  $("#menu").empty().scrollTop (0).append (
+    $("<p>").text ("Save string (copy this somewhere to save the game, or paste here to load one):"),
+    save_box = $("<input>", {type: "text", value: save_game (global_game)}).click (function() {
+      save_box[0].select();
+    }).on("input", function() {
+      var loaded = load_game (save_box.val());
+      if (loaded) {
+        restart_game (loaded);
+        close_menu();
+      }
+    }),
+    $("<p>").text ("The game also autosaves, although it will delete the autosave after four hours of not playing."),
+    $("<input>", {type: "button", value: "End the game and delete your autosave"}).click (function() {
+      restart_game (null);
+      close_menu();
+      show_menu();
+    }),
+    navigation("game_menu")
   );
 }
 
 function show_menu() {
-  $("#content").append (global_menu = $("<div>", {id: "menu"}));
+  $("#content").append (global_menu = $("<div>", {id: "menu", class: global_game? "game_exists" : "no_game"}));
   global_game ? game_menu() : instructions();
 }
 function close_menu() {
@@ -227,8 +237,17 @@ function close_menu() {
 var global_game;
 var global_menu;
 function autosave_game (game) {
-  localStorage.setItem ("hexy_autosave", save_game (game));
-  localStorage.setItem ("hexy_autosave_date", Date.now());
+  if (global_game) {
+    localStorage.setItem ("hexy_autosave", save_game (game));
+    localStorage.setItem ("hexy_autosave_date", Date.now());
+  }
+  else {
+    delete_autosave ();
+  }
+}
+function delete_autosave () {
+  localStorage.removeItem ("hexy_autosave");
+  localStorage.removeItem ("hexy_autosave_date");
 }
 function autoload_game () {
   undraw_game (global_game);
@@ -258,7 +277,7 @@ elidupree [2 hours ago]
     restart_game (load_game (save));
   }
   else {
-    localStorage.removeItem ("hexy_autosave");
+    delete_autosave ();
   }
   //if (global_game === null) {restart_game(new_game (default_players.slice (0, 2))); }
 }
