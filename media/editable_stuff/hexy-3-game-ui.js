@@ -392,7 +392,7 @@ function draw_game (game) {
       
   game.anchored_tiles.forEach(function(tile) {
     var drawn_tile = get_tile (drawn.tiles, tile);
-    if (drawn_tile === undefined) {
+    if (drawn_tile === undefined || drawn_tile.key !== tile.key) {
       drawn_tile = create_drawn_tile (tile);
       drawn.tiles_list.push (drawn_tile);
       set_tile (drawn.tiles, drawn_tile);
@@ -417,7 +417,7 @@ function draw_game (game) {
   drawn.tiles_list.filter (tile => {
     if (tile.frame_existed !== drawn.frame) {
       $(tile.element).remove();
-      remove_tile (drawn.tiles, tile);
+      if (get_tile (drawn.tiles, tile) === tile) {remove_tile (drawn.tiles, tile);}
       return false;
     }
     return true;
