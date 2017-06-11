@@ -43,6 +43,12 @@
     return {horizontal: location.horizontal + offset.horizontal, vertical: location.vertical + offset.vertical};
   }
   
+  function logical_distance (first, second) {
+    var horizontal = Math.abs (first.horizontal - second.horizontal);
+    var vertical = Math.abs (first.vertical - second.vertical);
+    return (horizontal + Math.max (0, vertical - horizontal)/2) ;
+  }
+  
   function position_string (location) {
     return location.horizontal.toString() + "_" + location.vertical;
   }
@@ -472,8 +478,8 @@
   }
   
   
-  function create_random_tile (game_state) {
-    var choose_icon = Math.random() < 0.8;
+  function create_random_tile (game_state, icon_chance) {
+    var choose_icon = Math.random() <icon_chance;
     var id;
     var player;
     while (true) {
@@ -499,11 +505,6 @@
     return result;
   }
   
-  function new_tile(game_state) {
-    var tile = create_random_tile(game_state);
-    game_state.tiles.push (tile);
-  }
-  
   function begin_turn (state) {
     if (state.prompt_stack.length >0) {
       return;
@@ -523,7 +524,7 @@
       return;
     }
     
-    var tile = create_random_tile(state);
+    var tile = create_random_tile(state, 0.0);
     
     /*if (tile.player.index === player.index && (tile.icon.icon === "torso" || tile.icon.icon === "crotch")) {
       state.current_prompt = {
@@ -535,16 +536,52 @@
     }*/
     
     state.floating_tile = tile;
+    
+    while (state.available_icons < 5 + Math.sqrt (state.anchored_tiles.length)) {
+      populate (state);
+    }
   }
   
-  var messages = {
-    still_skipping: function (state) {
-      
-    },
-    tile_based_skipping: function (state) {
-      
-    },
+  function populate (game) {
+    var distance_map = {};
+    var frontier = [];
+    var next_frontier = [];
+    game.anchored_tiles.forEach(function(tile) {
+      next_frontier.push (tile);
+      set_tile (distance_map, tile);
+    });
+    
+    for (var next_distance = 1; next_distance <= 3; ++next_distance) {
+      frontier = next_frontier;
+      next_frontier = [];
+      frontier.forEach(function(tile) {
+          
+        for (var direction = 0; direction <6 ;++direction) {
+          var neighbor = in_direction (tile, direction);
+          if (get_tile (distance_map, neighbor) === undefined) {
+            neighbor.distance = next_distance;
+            set_tile (distance_map, neighbor);
+            next_frontier.push (neighbor);
+          }
+        }
+      });
+    }
+    
+    var tile = create_random_tile (game, 1);
+    var candidate = random_choice (frontier);
+    var other_candidate = random_choice (next_frontier);
+    var origin = {horizontal: 0, vertical: 0}
+    if (logical_distance (other_candidate, origin) <logical_distance (candidate, origin)) {
+      candidate = other_candidate;
+    }
+    tile.horizontal = candidate.horizontal; tile.vertical = candidate.vertical; tile.rotation = random_range (0, 6);
+    
+    game.anchored_tiles.push (tile);
+    set_tile (game.tiles, tile);
+    ++game.available_icons;
+    
   }
+  
   
   
   function current_player (game) {
@@ -560,6 +597,7 @@
       prompt_stack: [],
       next_tile_key: 55,
       id: Math.floor(Math.random()*90000000),
+      available_icons: 0,
     };
     game.players_immutable.forEach(function(player, index) {
       player.index = index;
@@ -568,15 +606,20 @@
       player.index = index;
       player.skip_turns = 0;
     });
+    
+    
     var tile;
     while (!(tile && tile.player)) {
-      tile = create_random_tile (game);
+      tile = create_random_tile (game, 1);
     }
     game.current_player = (game.players.length + tile.player.index - 1) % game.players.length;
     tile.horizontal = 0;
     tile.vertical = 0;
     game.anchored_tiles.push (tile);
     set_tile (game.tiles, tile);
+    ++game.available_icons;
+    
+    
     begin_turn (game);
     return game;
   }
@@ -588,13 +631,19 @@
       game.anchored_tiles.push (game.floating_tile);
       set_tile (game.tiles, game.floating_tile) ;
       var paths = collect_paths (game.tiles, game.floating_tile) ;
+      if (game.floating_tile.icon !== undefined) {
+        ++game.available_icons;
+      }
       delete game.floating_tile;
         
       current_player (game).played_yet = true;
       paths.forEach(function(path) {
-        var effects = path_effects (path);
-        if (path.completed && effects !== undefined) {
-          game.prompt_stack.push (effects);
+        if (path.completed) {
+          game.available_icons -= path.icons.length;
+          var effects = path_effects (path);
+          if (effects !== undefined) {
+            game.prompt_stack.push (effects);
+          }
         }
       }) ;
       begin_turn (game);
