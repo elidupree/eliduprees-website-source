@@ -120,6 +120,7 @@
         //console.log (info.pieces [piece_index]);
         var piece_element = document.getElementById (info.pieces [piece_index]);
         piece_element.style.setProperty ("--path-fill", "var(--path-fill-" + identifier +")");
+        piece_element.style.setProperty ("display", "var(--path-display-" + identifier +")");
         //piece_element.style.setProperty ("transition-delay", "1s");
         ++piece_index;
       }
@@ -726,8 +727,11 @@
         collect_path (proposed_tiles, location, direction).components.forEach(function(component) {
           if (!component.tile.confirmed) {
             component.tile.confirmed = true;
+            component.tile.drawn_components = {};
             place_tile (game, component.tile);
           }
+          component.tile.drawn_components [(component.from + 6 - component.tile.rotation) % 6] = true;
+          component.tile.drawn_components [(component.towards + 6 - component.tile.rotation) % 6] = true;
         });
       }
     });

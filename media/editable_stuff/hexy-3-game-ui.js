@@ -63,13 +63,15 @@ function create_drawn_tile (tile) {
 
 
 function clear_paths (tile, color) {
-      function do_connection (identifier) {
+      function do_connection (identifier, display_override) {
         tile.element.style.setProperty ("--path-fill-" + identifier, color || "#808080");
+        tile.element.style.setProperty ("--path-display-" + identifier, display_override ? "none" : "unset");
+        
       }
       info_by_tile_id[tile.tile_id].connections.forEach(function(connection, index) {
         if (typeof connection == "number") {
           if (index <connection) {
-            do_connection (index + "-" + connection);
+            do_connection (index + "-" + connection, tile.drawn_components && !tile.drawn_components [index]);
           }
         }
         else if (connection == "lock") {
