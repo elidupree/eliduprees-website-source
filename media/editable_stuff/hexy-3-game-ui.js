@@ -367,6 +367,7 @@ function draw_game (game) {
     var scale = Math.min (1, Math.min(game_width, board_share)/ (long_radius*10));
     var scale_changed = just_created || scale !== drawn.scale;
     drawn.scale = scale;
+    drawn.dimensions = {horizontal: game_width, vertical: board_share};
   }
   
   
@@ -402,6 +403,12 @@ function draw_game (game) {
       include (neighbor);
     }
   });
+  
+  var deficiency = drawn.dimensions.horizontal - (max_horizontal - min_horizontal);
+  if (deficiency >0) {max_horizontal += Math.floor (deficiency/2); min_horizontal -= Math.ceil (deficiency/2) ;}
+  deficiency = drawn.dimensions.vertical - (max_vertical - min_vertical);
+  if (deficiency >0) {max_vertical += Math.floor (deficiency/2); min_vertical -= Math.ceil (deficiency/2) ;}
+
 
   function color_messages (color) {
     drawn.message_area.css({color:color, "border-color":color});
