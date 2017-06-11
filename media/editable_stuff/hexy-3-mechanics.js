@@ -76,8 +76,8 @@
     g10195: {connections: [3, 4, dead, 0, 1, icon], offset: {horizontal: 20, vertical: 1036.862-18}, weight: 0},
     g10315: {connections: [2, 4, 0, dead, 1, icon], offset: {horizontal: 20, vertical: 1036.862-20}, weight: 0},
     g10325: {connections: [icon, 4, dead, 5, 1, 3], offset: {horizontal: 20, vertical: 1036.862-22}, weight: 0},
-    g10573: {connections: [lock, lock, lock, 5, lock, 3], offset: {horizontal: 20, vertical: 1012.862}, weight: 1},
-    g10495: {connections: [2, 3, 0, 1, lock, lock], offset: {horizontal: 20, vertical: 1010.862}, weight: 3},
+    g10573: {connections: [lock, lock, lock, 5, lock, 3], lock: true, offset: {horizontal: 20, vertical: 1012.862}, weight: 1},
+    g10495: {connections: [2, 3, 0, 1, lock, lock], lock: true, offset: {horizontal: 20, vertical: 1010.862}, weight: 3},
   };
   document.getElementById ("use10453").style.setProperty ("--path-fill", "var(--path-fill-lock)");
   document.getElementById ("use15461").style.setProperty ("--path-fill", "var(--path-fill-lock)");
@@ -478,7 +478,8 @@
   }
   
   
-  function create_random_tile (game_state, icon_chance) {
+  function create_random_tile (game_state, icon_chance, extras) {
+    extras = extras || {};
     var choose_icon = Math.random() <icon_chance;
     var id;
     var player;
@@ -488,7 +489,10 @@
       var info = info_by_tile_id[id];
       
       //console.log(info.weight*(icon && icon.weight || 1));
-      if ((!!icon === !!choose_icon) && (Math.random()*10000 < info.weight*(icon && icon.weight || 1))) {
+      if (
+        (!!icon === !!choose_icon) &&
+        (Math.random()*10000 < info.weight*(icon && icon.weight || 1)) &&
+        !(extras.no_locks && info.lock)) {
         //hack: preserve the ratio of player-specific icons to non-player-specific icons, regardless of the number of players
         if (icon && icon.color && !player) {
           player = random_choice (game_state.players_immutable);
@@ -675,15 +679,46 @@
       return true;
     }
     var proposed_tiles = {};
+    var locations_list = [];
     for (var which = size+1; which <= max_width; ++which) {
       info.frontiers [which].forEach(function(location) {
         var tile;
         while (!(tile && (which <max_width || not_escaping (tile)))) {
-          tile = create_random_tile (game, 0);
-          tile.horizontal = location.horizontal; tile.vertical = location.vertical; tile.rotation = random_range (0, 6);
+          tile = create_random_tile (game, 0, {no_locks: true});
+          tile.horizontal = location.horizontal; tile.vertical = location.vertical;
         }
+        locations_list.push(location);
         set_tile (proposed_tiles, tile);
       });
+    }
+    
+    var evaluate = function (location) {
+      var badness = 0;
+      collect_paths (proposed_tiles, get_tile (proposed_tiles, location)).forEach(function(path) {
+        var consider_live = function (component) {
+          return get_tile (info.distance_map, in_direction (component.tile, component.from)).distance === size || get_tile (info.distance_map, in_direction (component.tile, component.towards)).distance === size;
+        }
+        if (path.components.some(consider_live)) {
+          badness += Math.max (0, path.components.length*path.components.length - 25);
+        }
+      });
+      return badness;
+    }
+    for (var whatever = 0; whatever <locations_list.length*30;++whatever) {
+      var query = random_choice (locations_list);
+      //console.log (query);
+      if (!query.boundary) {
+        var original = get_tile (proposed_tiles, query);
+        var original_badness = evaluate (query);
+        var candidate = create_random_tile (game, 0, {no_locks: true});
+        candidate.horizontal = query.horizontal; candidate.vertical = query.vertical;
+        set_tile (proposed_tiles, candidate);
+        var candidate_badness = evaluate (query);
+        //console.log (original_badness, candidate_badness);
+        if (original_badness < candidate_badness) {
+          set_tile (proposed_tiles, original);
+        }
+      }
     }
     
     info.frontiers [size].forEach(function(location) {
@@ -691,7 +726,7 @@
         collect_path (proposed_tiles, location, direction).components.forEach(function(component) {
           if (!component.tile.confirmed) {
             component.tile.confirmed = true;
-            place_tile (game, component.tile) ;
+            place_tile (game, component.tile);
           }
         });
       }
