@@ -133,8 +133,11 @@ I gave an internal sigh of relief. Mom wasn't trying to press the issue. I could
 
 ?????
 
-I took quote
- her hand and we started walking.
+
+
+?????
+
+I took her hand and we started walking.
 
 "You still haven't told me why you can't go to the place near the school," Yali said as we walked.
 
@@ -273,9 +276,26 @@ Yali chuckled. Then she focused again. "These two stories have a lot in common,"
 "'Anger turns helplessness into strength,'" I repeated, trying it out. "I can see that. I'm not sure it's always true, though."
 
 "Same."
-????
 
-"I want you to try to
+There was a pause. We ate a few more bites in silence.
+
+"So," I began, "Where are you going with all this?"
+
+Yali hesitated. "My idea is to, to, to <em>explore</em> your ways of feeling anger. So that we know what we have to work with." She looked at me squarely. "I want you to try to put yourself back in that situation. Feel all the pain and anger – or, no, feel all the pain and helplessness, and let it lead you to anger."
+
+"Okay…" I thought back to sometime when ????? was shit-talking ?????. He was such a fucking asshole. ?????
+
+"Eh..." I said.
+
+"I saw you grimace for a moment there."
+
+"Yeah, it <em>sort of</em> worked, just like those other times. But, like, it's in the past, right? I can't just get mad about it again just because I want to. Like, I'm here with you now, it's different."
+
+"That's the problem… an outlet…"
+
+"What?"
+
+Yali didn't answer. She was deep in thought. I wanted to know what she was thinking, but I knew how she got when she was like this – if I tried to interrupt her, she'd just mumble something incomprehensible and then take even longer.
 
 ?????
 
