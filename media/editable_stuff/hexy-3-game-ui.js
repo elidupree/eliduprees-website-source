@@ -16,7 +16,7 @@ function update_dimensions() {
   if (resized) {
     resized = false;
     var window_height = $(window).height();
-    var bars_size = game_height < 600 ? "2vh" : "unset";
+    var bars_size = window_height < 600 ? "2vh" : "unset";
     top_bar.css ("font-size", bars_size);
     bottom_bar.css ("font-size", bars_size);
     
