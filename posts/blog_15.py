@@ -286,6 +286,27 @@ Also, Chapter 3 of <a href="/ravelling-wrath">Ravelling Wrath</a> currently stan
 ''',
 },
 
+
+{
+"title": "Projects update 2017-06-14",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+I've made a lot of progress on the web version of <a href="/hexy">[NSFW] Hexy Bondage</a>! I've been tweaking the rules a bunch. There were a bunch of ways the original rules could make things slow or confusing, even on a computer where you don't have to remember all the rules yourself. But I think I found a good way to fix a lot of the problems. My work isn't done yet, but there's a good chance it'll be ready for next week.
+
+Also, I've been trying out drawing again! Yesterday, I decided to try out drawing the Voldemort's Children characters again:
+
+<img src="/media/vc-sketch-2017-06-14.png?rr" alt="[Drawing: About 7 of the characters of Voldemort's Children, as a simple white line drawing on a black background.]" style="display:block; margin: 2em auto; max-width: 100%;">
+
+That went well and only took me 10 minutes, so today, I did 15 minutes of work on the actual comic. I have to be extra careful not to hurt my hands, so I can't promise anything, but I have a vague plan to do 10 or 15 minutes of work every day or two and see how it goes.
+
+
+''',
+},
+
+
 ]
 
 """
