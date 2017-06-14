@@ -622,6 +622,12 @@
         }
         place_tile (game, tile) ;
       }
+      var place_boundary = function (location, id, rotation, drawn_components) {
+        var tile = create_tile (game, id, rotation);
+        tile.horizontal = location.horizontal; tile.vertical = location.vertical;
+        tile.drawn_components = drawn_components;
+        place_tile (game, tile);
+      }
       var info = get_distance_info (game.anchored_tiles.filter (tile => tile.horizontal === 0 || tile.horizontal === 1).concat([origin]), 4);
       info.frontiers.forEach(function(frontier) {frontier.forEach(function(location) {
         if (!get_tile (game.tiles, location)) {
@@ -631,12 +637,21 @@
           if (location.horizontal == 2 &&!get_tile (game.tiles, location)) {
             place (location, (mod (location.vertical, 4) === 2)?"g9384":"g9812", 4);
           }
-          if (location.horizontal === -2 || location.horizontal === 3) {
-            var tile = create_tile (game, "g8043", 0);
-            tile.horizontal = location.horizontal; tile.vertical = location.vertical;
-            tile.drawn_components = {1: true, 2: true};
-            if (location.horizontal === 3) { tile.rotation = 3;}
-            place_tile (game, tile);
+          if (location.horizontal === -2) {
+            if (mod (location.vertical, 4) === 2) {
+              place_boundary (location, "g8043", 0, {0: true, 1: true, 2: true, 3: true});
+            }
+            else {
+              place_boundary (location, "g8571", 0, {0: true, 1: true, 2: true, 3: true});
+            }
+          }
+          if (location.horizontal === 3) {
+            if (mod (location.vertical, 4) === 1) {
+              place_boundary (location, "g8043", 3, {0: true, 1: true, 2: true, 3: true});
+            }
+            else {
+              place_boundary (location, "g8571", 3, {0: true, 1: true, 2: true, 3: true});
+            }
           }
         }
       })});
