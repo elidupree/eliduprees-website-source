@@ -622,7 +622,7 @@
         }
         place_tile (game, tile) ;
       }
-      var info = get_distance_info (game, 4, tile => tile.horizontal === 0 || tile.horizontal === 1);
+      var info = get_distance_info (game.anchored_tiles.filter (tile => tile.horizontal === 0 || tile.horizontal === 1).concat([origin]), 4);
       info.frontiers.forEach(function(frontier) {frontier.forEach(function(location) {
         if (!get_tile (game.tiles, location)) {
           if (location.horizontal == -1) {
@@ -654,10 +654,10 @@
     game.floating_tile = tile;
   }
   
-  function get_distance_info (game, max_distance, filter) {
+  function get_distance_info (locations, max_distance) {
     var distance_map = {};
     var frontiers = [[]];
-    game.anchored_tiles.filter (filter || ((tile) => true)).forEach(function(tile) {
+    locations.forEach(function(tile) {
       tile = {horizontal: tile.horizontal, vertical: tile.vertical, distance: 0};
       frontiers[0].push (tile);
       set_tile (distance_map, tile);
@@ -684,7 +684,7 @@
   var origin = {horizontal: 0, vertical: 0};
   
   function populate (game) {
-    var info = get_distance_info (game, 3);
+    var info = get_distance_info (game.anchored_tiles, 3);
     var tile = create_random_tile (game, 1);
     var candidate = random_choice (info.frontiers [2]);
     var other_candidate = random_choice (info.frontiers [3]);
@@ -699,7 +699,7 @@
   
   function make_arena (game, size) {
     var max_width = size + 3;
-    var info = get_distance_info (game, max_width+1);
+    var info = get_distance_info (game.anchored_tiles, max_width+1);
     var walker;
     for (var which = size+1; which <= max_width; ++which) {
       info.frontiers [which].forEach(function(location) {
