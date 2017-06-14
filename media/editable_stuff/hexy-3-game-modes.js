@@ -263,7 +263,7 @@
     classic: {
       location_playable: function(game, location) {
         for (var direction = 0; direction <6;++direction) {
-          if (get_tile (game.tiles, location)) {return true;}
+          if (get_tile (game.tiles, in_direction (location, direction))) {return true;}
         }
         return false;
       },
