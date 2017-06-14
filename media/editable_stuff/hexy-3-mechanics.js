@@ -16,6 +16,7 @@
   function random_choice (sequence) {
     return sequence [random_range (0, sequence.length)];
   }
+  function mod (first, second) {return ((first % second) + second) % second;}
 
   var tile_ids = window.hexy_tile_ids
   var blank_hex_id = "g7168"
@@ -100,10 +101,10 @@
     g9231: {grid_position: 6, icon: "foot", color: "white", side: "right", weight: 6},
     g9217: {grid_position: 7, icon: "foot", color: "black", side: "left", weight: 6},
     g9210: {grid_position: 8, icon: "foot", color: "white", side: "left", weight: 6},
-    g9278: {grid_position: 11, icon: "crotch", color: "black", weight: 17},
-    g9267: {grid_position: 12, icon: "crotch", color: "white", weight: 17},
-    g9289: {grid_position: 9, icon: "torso", color: "black", weight: 23},
-    g9299: {grid_position: 10, icon: "torso", color: "white", weight: 23},
+    g9278: {grid_position: 11, icon: "crotch", color: "black", weight: 12},
+    g9267: {grid_position: 12, icon: "crotch", color: "white", weight: 12},
+    g9289: {grid_position: 9, icon: "torso", color: "black", weight: 16},
+    g9299: {grid_position: 10, icon: "torso", color: "white", weight: 16},
     g9250: {grid_position: 13, icon: "furniture", weight: 16},
     g9238: {grid_position: 14, icon: "toybox", weight: 8},
   };
@@ -162,7 +163,7 @@
   });
   
   
-  function get_tile_info (element) {
+  function excavate_tile_info (element) {
     var original = (typeof element === "string") && ('#'+element) || get_link (element);
     var direct = connections_table [original.slice (1)];
     if (direct) {return direct;}
@@ -177,11 +178,8 @@
     });
     return indirect;
   }
-  function get_connections (element) {
-    return get_tile_info (element).connections;
-  }
    
-  function get_icon (element) {
+  function excavate_icon (element) {
     var original = (typeof element === "string") && ('#'+element) || get_link (element);
     var indirect;
     $(original).children().each (function (index) {
@@ -199,10 +197,11 @@
   var info_by_tile_id = {};
   var tile_ids_with_icon = [];
   var tile_ids_without_icon = [];
+  var tile_ids_with_icon_by_connections = {};
 
   tile_ids.forEach(function(id) {
-    var icon = get_icon(id);
-    var info = get_tile_info(id);
+    var icon = excavate_icon(id);
+    var info = excavate_tile_info(id);
     icons_by_tile_id[id] = icon;
     info_by_tile_id[id] = info;
     var weight = info.weight*(icon && icon.weight || 1);
@@ -210,9 +209,23 @@
     for (var whatever = 0; whatever <weight;++whatever) {
       bucket.push (id);
     }
+    if (icon) {
+      bucket = tile_ids_with_icon_by_connections [info.id] =tile_ids_with_icon_by_connections [info.id] || [];
+      for (var whatever = 0; whatever < icon.weight;++whatever) {
+        bucket.push (id);
+      }
+    }
   });
   info_by_tile_id [blank_hex_id] = connections_table [blank_hex_id];
-  
+  function get_connections (id) {
+    return info_by_tile_id[id].connections;
+  }
+  function get_tile_info(id) {
+    return info_by_tile_id[id];
+  }
+  function get_tile_icon(id) {
+    return icons_by_tile_id[id];
+  }
   
   
   
@@ -497,6 +510,9 @@
     var id;
     var player;
     var bucket = choose_icon? tile_ids_with_icon: tile_ids_without_icon;
+    if (choose_icon && extras.force_connections) {
+      bucket =tile_ids_with_icon_by_connections [extras.force_connections];
+    }
     
     while (true) {
       id = random_choice (bucket);
@@ -520,7 +536,10 @@
         }
       }
     }
-    var result = {tile_id: id, rotation: random_range (0, 6)};
+    return create_tile (game, id, random_range (0,6), player);
+  }
+  function create_tile (game, id, rotation, player) {
+    var result = {tile_id: id, rotation};
     result.player = player;
     result.key = game.next_tile_key++;
     result.icon = icons_by_tile_id [result.tile_id];
@@ -558,7 +577,7 @@
       return;
     }
     
-    if (game.available_icons === 0) {
+    if (false && game.available_icons === 0) {
       game.anchored_tiles = [];
       game.tiles = {};
       
@@ -591,6 +610,36 @@
       make_arena (game, 1) ;
     }
     
+    {
+      var place = function (location, connections, direction) {
+        var tile = create_random_tile (game, 1, {force_connections: connections});
+        tile.horizontal = location.horizontal; tile.vertical = location.vertical;
+        var connections = info_by_tile_id [tile.tile_id].connections;
+        for (tile.rotation = 0; tile.rotation <6 ;++tile.rotation) {
+          if (connections [(direction + 6 - tile.rotation) % 6] === icon) {
+            break;
+          }
+        }
+        place_tile (game, tile) ;
+      }
+      var info = get_distance_info (game, 4, tile => tile.horizontal === 0 || tile.horizontal === 1);
+      info.frontiers.forEach(function(frontier) {frontier.forEach(function(location) {
+        if (!get_tile (game.tiles, location)) {
+          if (location.horizontal == -1) {
+            place (location, (mod (location.vertical, 4) === 1)?"g9384":"g9812", 1);
+          }
+          if (location.horizontal == 2 &&!get_tile (game.tiles, location)) {
+            place (location, (mod (location.vertical, 4) === 2)?"g9384":"g9812", 4);
+          }
+          if (location.horizontal === -2 || location.horizontal === 3) {
+            var tile = create_tile (game, "g8043", 0);
+            tile.horizontal = location.horizontal; tile.vertical = location.vertical;
+            place_tile (game, tile);
+          }
+        }
+      })});
+    }
+    
     var tile = create_random_tile(game, 0.0);
     
     /*if (tile.player.index === player.index && (tile.icon.icon === "torso" || tile.icon.icon === "crotch")) {
@@ -605,10 +654,10 @@
     game.floating_tile = tile;
   }
   
-  function get_distance_info (game, max_distance) {
+  function get_distance_info (game, max_distance, filter) {
     var distance_map = {};
     var frontiers = [[]];
-    game.anchored_tiles.forEach(function(tile) {
+    game.anchored_tiles.filter (filter || ((tile) => true)).forEach(function(tile) {
       tile = {horizontal: tile.horizontal, vertical: tile.vertical, distance: 0};
       frontiers[0].push (tile);
       set_tile (distance_map, tile);
