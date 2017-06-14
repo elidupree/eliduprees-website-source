@@ -634,6 +634,8 @@
           if (location.horizontal === -2 || location.horizontal === 3) {
             var tile = create_tile (game, "g8043", 0);
             tile.horizontal = location.horizontal; tile.vertical = location.vertical;
+            tile.drawn_components = {1: true, 2: true};
+            if (location.horizontal === 3) { tile.rotation = 3;}
             place_tile (game, tile);
           }
         }
