@@ -173,6 +173,11 @@ function move_towards (value, target, speed) {
 
 function draw_game (game) {
   var drawn = drawn_games [game.id];
+  var mode = game_modes [game.mode];
+  
+  function floating_tile_playable() {
+    return game.floating_tile && drawn.floating_tile && !get_tile (game.tiles, drawn.floating_tile) && mode.location_playable (game, drawn.floating_tile);
+  }
   
   function get_floating_tile_paths() {
     if (get_tile (game.tiles, drawn.floating_tile)) { return []; }
@@ -263,7 +268,7 @@ function draw_game (game) {
     
     drawn.svg.addEventListener("click", function (event) {
       // TODO: only if it's on the title
-      if (event.button == 0 && game.floating_tile && drawn.floating_tile && !get_tile (game.tiles, drawn.floating_tile)) {
+      if (event.button == 0 && floating_tile_playable()) {
         var legality = placement_results (drawn.floating_tile, get_floating_tile_paths()).legality;
         if (legality !== "forbidden" && legality !== "waste") {
           place_floating_tile (game, drawn.floating_tile);
@@ -495,7 +500,7 @@ function draw_game (game) {
     drawn.message_contents.append (`<p>${current_player (game).name}'s turn.</p>`) ;
     
     var no_message = false;
-    if (get_tile (game.tiles, drawn.floating_tile)) {
+    if (!floating_tile_playable()) {
       no_message = true;
     }
     else {

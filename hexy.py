@@ -381,6 +381,7 @@ h2 {font-size: 150%;}
      </script>
      
      <script type="text/javascript" src="/media/hexy-3-mechanics.js?rr"></script>
+     <script type="text/javascript" src="/media/hexy-3-game-modes.js?rr"></script>
      <script type="text/javascript" src="/media/hexy-3-game-ui.js?rr"></script>
      <script type="text/javascript" src="/media/hexy-3-meta-ui.js?rr"></script>
 '''}
