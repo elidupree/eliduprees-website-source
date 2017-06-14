@@ -38,10 +38,10 @@ update_dimensions();
 var drawn_games = {};
 
   var legality_fill = {
-    acceptable: "#0000ff",
-    forbidden: "#ff0000",
-    waste: "#990000",
-    success: "#aaaa00"
+    acceptable: ["#0000ff","#0099ff","#9900ff"],
+    forbidden: ["#ff0000"],
+    waste: ["#990000","#995500","#990055"],
+    success: ["#aaaa00","#99dd00","#dd9900"]
   };
 
 function create_(tag, attributes) {
@@ -485,7 +485,7 @@ function draw_game (game) {
     }
     
   if (drawn.floating_tile && floating_rounded_position_changed) {
-    clear_paths (drawn.floating_tile, legality_fill.acceptable);
+    clear_paths (drawn.floating_tile, legality_fill.acceptable[0]);
     
     drawn.location_indicator.horizontal = drawn.mouse_rounded.horizontal;
     drawn.location_indicator.vertical = drawn.mouse_rounded.vertical;
@@ -501,8 +501,11 @@ function draw_game (game) {
     else {
     
     var paths = get_floating_tile_paths();
+    var legality_counts = {};
     paths.forEach(function(path) {
-      var fill = legality_fill [path_legality (path, drawn.floating_tile)];
+      var legality =path_legality (path, drawn.floating_tile);
+      legality_counts[legality] = (legality_counts[legality] + 1) || 0;
+      var fill = legality_fill [legality] [legality_counts[legality]];
       path.components.forEach(function(component) {
         fill_component (component.tile, component.from, component.towards, fill);
       });
@@ -511,7 +514,7 @@ function draw_game (game) {
     
     if (results.legality === "forbidden") {
       drawn.message_contents.append ("<p>You can't place the tile there because you can't connect your current icon to an icon that's already on the board.</p>") ;
-      color_messages (legality_fill [results.legality]);
+      color_messages (legality_fill [results.legality] [0]);
     }
     else if (results.legality === "waste") {
       drawn.message_contents.append ("<p>You can't place the tile there because"+ list (results.relevant_paths, path => {
@@ -522,7 +525,7 @@ function draw_game (game) {
           return `it would connect ${describe_tile_icon (path.icons [0])} to a dead end`;
         }
       })+ " (and you didn't also make any connections that <em>do</em> do something.)</p>") ;
-      color_messages (legality_fill ["forbidden"]);
+      color_messages (legality_fill ["forbidden"] [0]);
     }
     else if (results.legality === "success") {
       drawn.message_contents.append ("<p>If you place the tile there, then"+list (results.relevant_paths, path => {
@@ -530,7 +533,7 @@ function draw_game (game) {
         console.log(effects );
         return effects.hypothetical;
       })+"</p>");
-      color_messages (legality_fill [results.legality]);
+      color_messages (legality_fill [results.legality] [0]);
     }
     else {
       no_message = true;
