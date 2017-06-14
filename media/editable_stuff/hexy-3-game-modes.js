@@ -290,6 +290,7 @@
         var tile = create_tile (game, id, rotation);
         tile.horizontal = location.horizontal; tile.vertical = location.vertical;
         tile.drawn_components = drawn_components;
+        tile.edge = true;
         place_tile (game, tile);
       }
       var info = get_distance_info (game.anchored_tiles.filter (tile => tile.horizontal === 0 || tile.horizontal === 1).concat([origin]), 4);
