@@ -262,6 +262,7 @@
           result.lock = true;
           for (var direction = 0; direction <6 ;++direction) {
             if (connections [(direction + 6 - tile.rotation) % 6] == lock) {
+              found [position_string (tile)+"_"+direction] = true;
               var neighbor = get_tile (tiles, in_direction (tile, direction));
               find(neighbor, (direction + 3) % 6);
             }
