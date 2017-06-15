@@ -510,7 +510,7 @@
     var choose_icon = Math.random() <icon_chance;
     var id;
     var player;
-    var bucket = choose_icon? tile_ids_with_icon: tile_ids_without_icon;
+    var bucket = extras.bucket || (choose_icon? tile_ids_with_icon: tile_ids_without_icon);
     if (choose_icon && extras.force_connections) {
       bucket =tile_ids_with_icon_by_connections [extras.force_connections];
     }
@@ -581,7 +581,7 @@
     var mode = game_modes [game.mode];
     if (mode.on_turn_start) {mode.on_turn_start(game);}
     
-    var tile = create_random_tile(game, 0.0);
+    var tile = create_random_tile(game, mode.icon_chance, {bucket: mode.bucket});
     
     /*if (tile.player.index === player.index && (tile.icon.icon === "torso" || tile.icon.icon === "crotch")) {
       game.current_prompt = {

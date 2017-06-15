@@ -1,12 +1,6 @@
   "use strict"
   /*
-  var corridor_weightings = {
-    g8043: 15,
-    g8261: 15,
-    g8571: 15,
-    g8657: 1,
-    g8985: 1,
-  }
+  
 
   var icons_by_tile_id = {};
   var info_by_tile_id = {};
@@ -261,6 +255,7 @@
   
   var game_modes = {
     classic: {
+      icon_chance: 0.75,
       location_playable: function(game, location) {
         for (var direction = 0; direction <6;++direction) {
           if (get_tile (game.tiles, in_direction (location, direction))) {return true;}
@@ -269,6 +264,14 @@
       },
     },
     corridor: {
+      icon_chance: 0,
+      weights: {
+        g8043: 15,
+        g8261: 15,
+        g8571: 15,
+        g8657: 1,
+        g8985: 1,
+      },
       location_playable: function(game, location) {
         for (var direction = 0; direction <6;++direction) {
           var neighbor =in_direction (location, direction);
@@ -329,6 +332,21 @@
       },
     },
   };
+  
+  Object.getOwnPropertyNames (game_modes).forEach(function(name) {
+    var mode = game_modes [name];
+    mode.id = name;
+    
+    if (mode.weights) {
+      mode.bucket = [];
+      Object.getOwnPropertyNames (mode.weights).forEach(function(id) {
+        var weight = mode.weights [id];
+        for (var whatever = 0; whatever < weight;++whatever) {
+          mode.bucket.push (id);
+        }
+      });
+    }
+  });
   
   // turn start functions for other game modes I tried it didn't turn out too well
   
