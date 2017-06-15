@@ -270,6 +270,10 @@
     },
     corridor: {
       location_playable: function(game, location) {
+        for (var direction = 0; direction <6;++direction) {
+          var neighbor =in_direction (location, direction);
+          if ((neighbor.horizontal === -1 || neighbor.horizontal === 2) && !get_tile (game.tiles, neighbor)) {return false;}
+        }
         return location.horizontal === 0 || location.horizontal === 1;
       },
       on_turn_start: function (game) {
