@@ -52,17 +52,17 @@ function draw_fake_board (tiles_list) {
   var board = create_ ("g");
   var tiles = {};
   svg.appendChild (board);
-  
+  var border = 5;
       var min_horizontal = 0;
       var max_horizontal = 0;
       var min_vertical = 0;
       var max_vertical = 0;
       function include (location) {
         var position = tile_position (location);
-        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
-        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius);
-        min_vertical = Math.min (min_vertical , position.vertical - short_radius);
-        max_vertical = Math.max(max_vertical , position.vertical + short_radius);
+        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius-border);
+        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius+border);
+        min_vertical = Math.min (min_vertical , position.vertical - short_radius-border);
+        max_vertical = Math.max(max_vertical , position.vertical + short_radius+border);
       }
       
   tiles_list.forEach(function(tile) {
@@ -80,6 +80,7 @@ function draw_fake_board (tiles_list) {
     svg.setAttribute("height", height);
     svg.style.setProperty("width", width);
     svg.style.setProperty("height", height);
+    svg.style.setProperty("background-color", "#ccc");
     svg.classList.add ("fake_board");
     board.style.setProperty ("transform", "translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)");
 
