@@ -533,11 +533,12 @@ function draw_game (game) {
       color_messages (legality_fill ["forbidden"] [0]);
     }
     else if (results.legality === "success") {
-      drawn.message_contents.append ("<p>If you place the tile there, then"+list (results.relevant_paths, path => {
+      var all_effects = [];
+      results.relevant_paths.forEach(function(path) {
         var effects = path_effects (path);
-        console.log(effects );
-        return effects.hypothetical;
-      })+"</p>");
+        all_effects = all_effects.concat(effects);
+      }) ;
+      drawn.message_contents.append ("<p>If you place the tile there, then"+list (all_effects, effect => effect.hypothetical)+"</p>");
       color_messages (legality_fill [results.legality] [0]);
     }
     else {
