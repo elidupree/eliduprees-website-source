@@ -47,9 +47,56 @@ function UI_colors (player) {
   return results ;
 }
 
+function draw_fake_board (tiles_list) {
+  var svg = create_("svg", {class:"game_svg" });
+  var board = create_ ("g");
+  var tiles = {};
+  svg.appendChild (board);
+  
+      var min_horizontal = 0;
+      var max_horizontal = 0;
+      var min_vertical = 0;
+      var max_vertical = 0;
+      function include (location) {
+        var position = tile_position (location);
+        min_horizontal = Math.min (min_horizontal, position.horizontal - long_radius);
+        max_horizontal = Math.max(max_horizontal, position.horizontal + long_radius);
+        min_vertical = Math.min (min_vertical , position.vertical - short_radius);
+        max_vertical = Math.max(max_vertical , position.vertical + short_radius);
+      }
+      
+  tiles_list.forEach(function(tile) {
+    var drawn_tile = create_drawn_tile (tile);
+    set_tile (tiles, drawn_tile);
+    position_drawn_tile ({scale:1}, drawn_tile);
+    board.appendChild (drawn_tile.element);
+    clear_paths (drawn_tile);
+    include (tile);
+  });
+  var width = max_horizontal - min_horizontal;
+  var height = max_vertical - min_vertical;
+    
+    svg.setAttribute("width", width);
+    svg.setAttribute("height", height);
+    svg.style.setProperty("width", width);
+    svg.style.setProperty("height", height);
+    svg.classList.add ("fake_board");
+    board.style.setProperty ("transform", "translate(" + (-min_horizontal) + "px, "+ (-min_vertical) + "px)");
+
+  tiles_list.forEach(function(tile) {
+    (tile.paths || []).forEach(function(path_specs) {
+      var path = collect_path (tiles, tile, path_specs.direction);
+      path.components.forEach(function(component) {
+        fill_component (component.tile, component.from, component.towards, path_specs.fill);
+      });
+    });
+  });
+  return svg;
+}
+
 var default_players = [
-  {based_on: "white", name: "White", fill: "#ffffff", stroke: "#000000"},
   {based_on: "black", name: "Black", fill: "#000000", stroke: "#ffffff"},
+  {based_on: "white", name: "White", fill: "#ffffff", stroke: "#000000"},
   {based_on: "white", name: "Pink", fill: "#ffaaff", stroke: "#ff00ff"},
   {based_on: "white", name: "Green", fill: "#99ff99", stroke: "#008800"},
   {based_on: "black", name: "Blue", fill: "#0000ff", stroke: "#ffffff"},
@@ -175,9 +222,22 @@ function instructions() {
     $("<p>").text ("Hexy Bondage is a sexual game for two players (or more) to play together on the same device."),
     $("<h2>").text ("Instructions"),
     $("<p>").text ("You take turns placing tiles like this:"),
-  
+    $("<div>", {class: "fake_boards"}).append (
+      draw_fake_board ([{tile_id: "g8043", horizontal: 0, vertical: 0, rotation: 0}]),
+      draw_fake_board ([{tile_id: "g8261", horizontal: 0, vertical: 0, rotation: 0}]),
+      draw_fake_board ([{tile_id: "g8571", horizontal: 0, vertical: 0, rotation: 0}]),
+    ),
     $("<p>").text ("Your goal is to connect different icons together, like this:"),
   
+    $("<div>", {class: "fake_boards"}).append (
+      draw_fake_board ([
+        {tile_id: "g4955", horizontal: -1, vertical: -1, rotation: 0, player: default_players [0]},
+        {tile_id: "g8261", horizontal: 0, vertical: 0, rotation: 5},
+        {tile_id: "g8571", horizontal: 1, vertical: -1, rotation: 2},
+        {tile_id: "g5188", horizontal: 2, vertical: 0, rotation: 0, player: default_players [1], paths:[{direction:5, fill: legality_fill.success [0]}]}
+      ]),
+    ),
+
     $("<p>").text ("When you finish a connection, you do something in real life. Some connections make the players get tied up. When you're too tied up to play your turns, you lose the game!"),
   
     $("<p>").text ("Connecting someone's torso or crotch to their other body parts makes them remove a piece of clothing."),

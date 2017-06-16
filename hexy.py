@@ -362,6 +362,14 @@ h2 {font-size: 150%;}
   width: 6em;
 }
 
+.fake_boards {
+  display: flex ;
+  justify-content: center;
+}
+.fake_board {
+  margin: 0.6em;
+}
+
 </style>
 ''',
       '''<a class="skip" href="#content">Skip to content</a>
