@@ -348,7 +348,7 @@
         return {
           hypothetical: hypothetical_override || `${describe_tile_icon(icons [0])} will be tied to ${describe_tile_icon(icons [1])}`,
           message: message_override || `Tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`,
-          options: [success, fail_option (victim, "That's physically impossible")]
+          options: [success_option, fail_option (victim, "That's physically impossible")]
         };
       }
       else {
@@ -361,7 +361,7 @@
         return {
           hypothetical: hypothetical + `, and ${describe_tile_icon(icons [icons.length - 1])} will be tied together`,
           message: result+ `, and ${describe_tile_icon(icons [icons.length - 1])}`,
-          options: [success, fail_option (victim, "That's physically impossible")]
+          options: [success_option, fail_option (victim, "That's physically impossible")]
         };
       }
     }
@@ -424,6 +424,7 @@
           }
           if (current === "back") {
             return {
+              message:`${first.player.name} will have to skip two turns because their hands are already tied behind their back `,
               message:`${first.player.name}'s hands are already tied behind their back`,
               options: [
                 fail_option (first.player, "Drat")
