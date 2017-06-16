@@ -348,10 +348,26 @@ function restart_game (new_game) {
   autosave_game (global_game);
 }
 function load_game (save) {
-  return JSON.parse(save, (key, value) => typeof value === "string"? escape_string (value): value);
+  var game = JSON.parse(save, (key, value) => {
+    if (typeof value === "string") { return escape_string (value) }
+    return value;
+  });
+  game.tiles = {};
+  game.anchored_tiles.forEach(function(tile) {
+    tile.player = game.players_immutable [tile.player];
+    tile.icon = get_tile_icon (tile.tile_id);
+    set_tile (game.tiles, tile);
+  });
+  return game;
 }
 function save_game (game) {
-  return JSON.stringify(game, (key, value) => typeof value==="string"?unescape_string (value): value);
+  return JSON.stringify(game, (key, value) => {
+    if (typeof value==="string") {return unescape_string (value);}
+    if (key === "tiles") {return undefined;}
+    if (key === "icon") {return undefined;}
+    if (key === "player" && value) {return value.index;}
+    return value;
+  });
 }
 
 
