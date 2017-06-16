@@ -269,7 +269,7 @@ function draw_game (game) {
     drawn.svg.addEventListener("click", function (event) {
       // TODO: only if it's on the title
       if (event.button == 0 && floating_tile_playable()) {
-        var legality = placement_results (drawn.floating_tile, get_floating_tile_paths()).legality;
+        var legality = placement_results (game, drawn.floating_tile, get_floating_tile_paths()).legality;
         if (legality !== "forbidden" && legality !== "waste") {
           place_floating_tile (game, drawn.floating_tile);
           autosave_game (game);
@@ -508,14 +508,14 @@ function draw_game (game) {
     var paths = get_floating_tile_paths();
     var legality_counts = {};
     paths.forEach(function(path) {
-      var legality =path_legality (path, drawn.floating_tile);
+      var legality =path_legality (game, path, drawn.floating_tile);
       legality_counts[legality] = (legality_counts[legality] + 1) || 0;
       var fill = legality_fill [legality] [legality_counts[legality]];
       path.components.forEach(function(component) {
         fill_component (component.tile, component.from, component.towards, fill);
       });
     });
-    var results = placement_results (drawn.floating_tile, paths);
+    var results = placement_results (game, drawn.floating_tile, paths);
     
     if (results.legality === "forbidden") {
       drawn.message_contents.append ("<p>You can't place the tile there because you can't connect your current icon to an icon that's already on the board.</p>") ;
@@ -535,7 +535,7 @@ function draw_game (game) {
     else if (results.legality === "success") {
       var all_effects = [];
       results.relevant_paths.forEach(function(path) {
-        var effects = path_effects (path);
+        var effects = path_effects (game, path);
         all_effects = all_effects.concat(effects);
       }) ;
       drawn.message_contents.append ("<p>If you place the tile there, then"+list (all_effects, effect => effect.hypothetical)+"</p>");

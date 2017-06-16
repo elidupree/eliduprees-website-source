@@ -314,8 +314,20 @@
     if (tile.player) { return tile.player.name+"'s "+kind; }
     return kind;
   }
+  
+  //effects have to be serializable, so we make the functions just index this object
+  var effect_actions = {
+    fail: function (game, data) {
+      var victim = game.players [data [1]];
+      victim.skip_turns = (victim.skip_turns || 0) + 2;
+    },
+    tie_hands: function (game, data) {
+      var victim = game.players [data [1]];
+      victim.hands_tied = data [2];
+    },
+  }
 
-  function path_effects (path) {
+  function path_effects (game, path) {
     var results = [];
     if (path.icons.length <2) {return results;}
     
@@ -325,9 +337,7 @@
       if (victim === undefined) {
         return {text: message};
       } else {
-        return {text: message+` (${victim.name} skips two turns)`, action: function() {
-          victim.skip_turns = (victim.skip_turns || 0) + 2;
-        }};
+        return {text: message+` (${victim.name} skips two turns)`, action: ["fail", victim.index]};
       }
     }
     
@@ -405,13 +415,14 @@
       },
       function (first, second) {
         if (same_player && first.icon.icon === "hand" && second.icon.icon === "hand") {
-          if (first.player.hands_tied === undefined) {
-            return tie ([first, second], first.player, `${first.player.name}'s hands will be tied together in front of them`, `Tie ${first.player.name}'s hands together in front of them`, function() {first.player.hands_tied = "front";});
+          var current = game.players [first.player.index].hands_tied;
+          if (current === undefined) {
+            return tie ([first, second], first.player, `${first.player.name}'s hands will be tied together in front of them`, `Tie ${first.player.name}'s hands together in front of them`, ["tie_hands", first.player.index, "front"]);
           }
-          if (first.player.hands_tied === "front") {
-            return tie ([first, second], first.player, `${first.player.name}'s hands will be re-tied together together behind them`, `Re-tie ${first.player.name}'s hands together together behind them`, function() {first.player.hands_tied = "back";});
+          if (current === "front") {
+            return tie ([first, second], first.player, `${first.player.name}'s hands will be re-tied together together behind them`, `Re-tie ${first.player.name}'s hands together together behind them`, ["tie_hands", first.player.index, "back"]);
           }
-          if (first.player.hands_tied === "back") {
+          if (current === "back") {
             return {
               message:`${first.player.name}'s hands are already tied behind their back`,
               options: [
@@ -458,7 +469,7 @@
     return results;
   }
   
-  function path_legality (path, placed_tile) {
+  function path_legality (game, path, placed_tile) {
     var forbidden = false;
     if (path.icons.length >1) {path.icons.forEach(function(tile) {
       if (tile === placed_tile) {forbidden = true;}
@@ -469,16 +480,16 @@
     
     if (path.icons.length === 0) {return "acceptable";}
     if (path.icons.length === 1) {return "waste";}
-    if (path_effects (path).length === 0) {return "waste";}
+    if (path_effects (game, path).length === 0) {return "waste";}
     
     return "success";
   }
 
   
-  function placement_results (tile, paths) {
+  function placement_results (game, tile, paths) {
     var paths_by_legality={};
     paths.forEach(function(path) {
-      var legality = path_legality (path, tile);
+      var legality = path_legality (game, path, tile);
       paths_by_legality[legality] = paths_by_legality[legality] || [];
       paths_by_legality[legality].push(path);
     });
@@ -654,7 +665,7 @@
       paths.forEach(function(path) {
         if (path.completed) {
           game.available_icons -= path.icons.length;
-          var effects = path_effects (path);
+          var effects = path_effects (game, path);
           effects.forEach(function(effect) {
             game.prompt_stack.push (effect);
           });
@@ -666,7 +677,7 @@
   function answer_prompt (game, option) {
     
     game.prompt_stack.pop();
-    if (option.action) {option.action (game);}
+    if (option.action) {effect_actions[option.action[0]] (game, option.action);}
     begin_turn (game);
 
   }
