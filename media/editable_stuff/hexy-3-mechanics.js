@@ -316,7 +316,8 @@
   }
 
   function path_effects (path) {
-    if (path.icons.length <2) {return;}
+    var results = [];
+    if (path.icons.length <2) {return results;}
     
     var success_message = "Okay, done";
     var success = {text: success_message };
@@ -376,26 +377,6 @@
     
     var handlers = [
       function (first, second) {
-        if (same_player && first.icon.icon === "torso" && second.icon.icon === "crotch") {
-          return strip(first.player,"","");
-        }
-      },
-      function (first, second) {
-        if (same_player && first.icon.icon === "torso") {
-          return strip(first.player," from their upper body"," from your upper body");
-        }
-      },
-      function (first, second) {
-        if (same_player && first.icon.icon === "crotch") {
-          return strip(first.player," from their lower body"," from your lower body");
-        }
-      },
-      function (first, second) {
-        if (first.player && second.icon.icon === "furniture") {
-          return tie ([first, second], first.player);
-        }
-      },
-      function (first, second) {
         if (first.player && second.icon.icon === "toybox") {
           return {
             hypothetical:`${first.player.name} must choose a toy to be used on them`,
@@ -405,6 +386,11 @@
               fail_option (first.player, `${first.player.name} has no toys left to choose`)
             ]
           };
+        }
+      },
+      function (first, second) {
+        if (first.player && second.icon.icon === "furniture") {
+          return tie ([first, second], first.player);
         }
       },
       function (first, second) {
@@ -436,7 +422,7 @@
         }
       },
       function (first, second) {
-        if (first.player && second.player && first.icon.icon !== second.icon.icon && (first.icon.icon === "hand" || first.icon.icon === "foot") && (second.icon.icon === "foot" || second.icon.icon === "torso" || second.icon.icon === "crotch")) {
+        if (first.player && second.player && !same_player && first.icon.icon !== second.icon.icon && (first.icon.icon === "hand" || first.icon.icon === "foot") && (second.icon.icon === "foot" || second.icon.icon === "torso" || second.icon.icon === "crotch")) {
           return {
             hypothetical: `${first.player.name} may use their ${describe_tile_icon (first, {general_area: true, player_already_named: true})} to stimulate ${describe_tile_icon (second, {general_area: true})}`,
             message: `${first.player.name} may now use their ${describe_tile_icon (first, {general_area: true, player_already_named: true})} to stimulate ${describe_tile_icon (second, {general_area: true})}`,
@@ -444,16 +430,32 @@
           };
         }
       },
-
+      function (first, second) {
+        if (same_player && first.icon.icon === "torso" && second.icon.icon === "crotch") {
+          return strip(first.player,"","");
+        }
+      },
+      function (first, second) {
+        if (results.length === 0) {
+          if (first.icon.icon === "torso") {
+            return strip(first.player," from their upper body"," from your upper body");
+          }
+          if (first.icon.icon === "crotch") {
+            return strip(first.player," from their lower body"," from your lower body");
+          }
+        }
+      },
+      
     ];
     
     for (var index = 0; index <handlers.length;++index) {
       var handler = handlers [index];
-      var result = handler(path.icons [0],path.icons [1]);
-      if (result !== undefined) {return result;}
-      result = handler(path.icons [1],path.icons [0]);
-      if (result !== undefined) {return result;}
+      var result1 = handler(path.icons [0],path.icons [1]);
+      var result2 = handler(path.icons [1],path.icons [0]);
+      if (result1) {results.push (result1);}
+      if (result2 && !(result1 && result1.message === result2.message)) {results.push (result2);}
     };
+    return results;
   }
   
   function path_legality (path, placed_tile) {
@@ -467,7 +469,7 @@
     
     if (path.icons.length === 0) {return "acceptable";}
     if (path.icons.length === 1) {return "waste";}
-    if (path_effects (path) === undefined) {return "waste";}
+    if (path_effects (path).length === 0) {return "waste";}
     
     return "success";
   }
@@ -653,9 +655,9 @@
         if (path.completed) {
           game.available_icons -= path.icons.length;
           var effects = path_effects (path);
-          if (effects !== undefined) {
-            game.prompt_stack.push (effects);
-          }
+          effects.forEach(function(effect) {
+            game.prompt_stack.push (effect);
+          });
         }
       }) ;
       begin_turn (game);
