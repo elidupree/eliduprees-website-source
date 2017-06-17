@@ -549,7 +549,7 @@ function draw_game (game) {
     }
     
     if (no_message) {
-    drawn.message_contents.append ($("<input>", {type: "button", class: "prompt_option", value: `(click here if ${current_player (game).name} is unable to play)`}).on("click", function() {
+    drawn.message_contents.append ($("<div>", {role: "button", class: "prompt_option fake_button"}).html (`(click here if ${current_player (game).name} is unable to play)`).on("click", function() {
       eliminate_current_player (game);
       autosave_game (game);
     }));
@@ -557,9 +557,11 @@ function draw_game (game) {
   }
   
   if (prompt && prompt !== drawn.prompt) {
-    drawn.message_contents.append (prompt.message);
+    drawn.message_contents.append ($("<p>").html(prompt.message));
+    var options = $("<div>", {class: "prompt_options"});
+    drawn.message_contents.append (options);
     prompt.options.forEach(function(option) {
-      drawn.message_contents.append ($("<input>", {type: "button", class: "prompt_option", value: option.text}).on("click", function() {
+      options.append ($("<div>", {role: "button", class: "prompt_option fake_button"}).html (option.text).on("click", function() {
         answer_prompt (game, option);
         autosave_game (game);
       }));

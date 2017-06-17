@@ -285,14 +285,18 @@ html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke
 .tile {
   /*transition-duration: 0.6s;*/
 }
+.prompt_options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
 .prompt_option {
-  display: block;
   font-size: 100%;
   margin: 0.5em;
   white-space: normal;
 }
 
-input[type="button"] {
+input[type="button"],.fake_button {
   background-color: var(--meta-fill);
   border: 0.2em solid var(--meta-stroke);
   padding: 0.5em;
@@ -300,7 +304,7 @@ input[type="button"] {
   color: var(--meta-stroke);
   font-family: Arial, Helvetica, sans-serif;
 }
-input[type="button"]:hover {
+input[type="button"]:hover,.fake_button:hover {
   background-color: var(--meta-stroke);
   border-color: 0.2em solid var(--meta-fill);
   color: var(--meta-fill);
