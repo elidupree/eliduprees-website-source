@@ -303,6 +303,7 @@ input[type="button"],.fake_button {
   border-radius: 1em;
   color: var(--meta-stroke);
   font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
 }
 input[type="button"]:hover,.fake_button:hover {
   background-color: var(--meta-stroke);
