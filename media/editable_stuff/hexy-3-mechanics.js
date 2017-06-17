@@ -311,7 +311,7 @@
     if (extras.general_area && general_areas [tile.icon.icon]) {kind = general_areas [tile.icon.icon];}
     if (kind === "toybox") { kind = "a toybox"; }
     if (extras.player_already_named) { return kind; }
-    if (tile.player) { return tile.player.name+"'s "+kind; }
+    if (tile.player) { return (extras.pronoun? "their ": tile.player.name+"'s ")+kind; }
     return kind;
   }
   
@@ -324,6 +324,10 @@
     tie_hands: function (game, data) {
       var victim = game.players [data [1]];
       victim.hands_tied = data [2];
+    },
+    tie_generic: function (game, data) {
+      var victim = game.players [data [1]];
+      victim[data [2]] = true;
     },
   }
 
@@ -342,8 +346,34 @@
     }
     
     function tie(icons, victim, hypothetical_override, message_override, success_action) {
-      var success_option = success;
-      if (success_action) {success_option = {text: success_message, action: success_action};}
+      var success_option = {text: success_message, action: success_action};
+      if (victim && !success_action) {
+        icons.sort(function(a, b) {
+  var nameA = a.icon.id;
+  var nameB = b.icon.id;
+  if (nameA < nameB) {
+    return -1;
+  }
+  if (nameA > nameB) {
+    return 1;
+  }
+
+  // names must be equal
+  return 0;
+});
+        console.log (icons) ;
+        var index = icons.map (icon => icon.icon.id).join ("_")+"_tied";
+        if (game.players [victim.index] [index]) {
+          return {
+            hypothetical:`${victim.name} will have to skip two turns because ${describe_tile_icon(icons [0], {pronoun: true})} is already tied to ${describe_tile_icon(icons [1], {pronoun: true})}`,
+            message:`${describe_tile_icon(icons [0])} is already tied to ${describe_tile_icon(icons [1])}`,
+            options: [
+              fail_option (victim, "Drat")
+            ]
+          };
+        }
+        success_option.action = ["tie_generic", victim.index, index];
+      }
       if (icons.length === 2) {
         return {
           hypothetical: hypothetical_override || `${describe_tile_icon(icons [0])} will be tied to ${describe_tile_icon(icons [1])}`,
@@ -361,7 +391,7 @@
         return {
           hypothetical: hypothetical + `, and ${describe_tile_icon(icons [icons.length - 1])} will be tied together`,
           message: result+ `, and ${describe_tile_icon(icons [icons.length - 1])}`,
-          options: [success_option, fail_option (victim, "That's physically impossible")]
+          options: [success_option, fail_option (victim, "That's physically impossible or meaningless")]
         };
       }
     }
@@ -410,7 +440,16 @@
       },
       function (first, second) {
         if (first.icon.icon === "foot" && second.icon.icon === "foot") {
-          return tie ([first, second], first.player, `${first.player.name}'s feet will be tied together`, `Tie ${first.player.name}'s feet together`);
+          if (game.players [first.player.index].feet_tied) {
+            return {
+              hypothetical:`${first.player.name} will have to skip two turns because their feet are already tied together`,
+              message:`${first.player.name}'s feet are already tied together`,
+              options: [
+                fail_option (first.player, "Drat")
+              ]
+            };
+          }
+          return tie ([first, second], first.player, `${first.player.name}'s feet will be tied together`, `Tie ${first.player.name}'s feet together`, ["tie_generic", first.player.index, "feet_tied"]);
         }
       },
       function (first, second) {
@@ -424,7 +463,7 @@
           }
           if (current === "back") {
             return {
-              message:`${first.player.name} will have to skip two turns because their hands are already tied behind their back `,
+              hypothetical:`${first.player.name} will have to skip two turns because their hands are already tied behind their back`,
               message:`${first.player.name}'s hands are already tied behind their back`,
               options: [
                 fail_option (first.player, "Drat")
