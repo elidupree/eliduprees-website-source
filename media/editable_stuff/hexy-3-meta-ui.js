@@ -130,7 +130,7 @@ function make_game_setup_area (initial_players) {
     return player_info.element = $("<div>", {class:"player_options"}).append(
       $("<div>", {class:"player_row"}).append(
         $("<label>", {for: "player_name_" + default_name}).text("Player name: "),
-        player_info.name_input = $("<input>", {type: "text", value: default_name, id: "player_name_" + default_name}).change (update_player_name)
+        player_info.name_input = $("<input>", {type: "text", value: unescape_string (default_name), id: "player_name_" + default_name}).change (update_player_name)
       ),
       $("<div>", {class:"player_row"}).append(
         $("<label>", {for: "player_fill_" + default_name}).text("Color: "),
