@@ -409,12 +409,12 @@
         }
       },
       function (first, second) {
-        if (same_player && first.icon.icon === "foot" && second.icon.icon === "foot") {
+        if (first.icon.icon === "foot" && second.icon.icon === "foot") {
           return tie ([first, second], first.player, `${first.player.name}'s feet will be tied together`, `Tie ${first.player.name}'s feet together`);
         }
       },
       function (first, second) {
-        if (same_player && first.icon.icon === "hand" && second.icon.icon === "hand") {
+        if (first.icon.icon === "hand" && second.icon.icon === "hand") {
           var current = game.players [first.player.index].hands_tied;
           if (current === undefined) {
             return tie ([first, second], first.player, `${first.player.name}'s hands will be tied together in front of them`, `Tie ${first.player.name}'s hands together in front of them`, ["tie_hands", first.player.index, "front"]);
