@@ -502,8 +502,10 @@ function draw_game (game) {
     var no_message = false;
     if (!floating_tile_playable()) {
       no_message = true;
+      drawn.location_indicator.element.style.setProperty ("display", "none");
     }
     else {
+      drawn.location_indicator.element.style.setProperty ("display", "unset");
     
     var paths = get_floating_tile_paths();
     var legality_counts = {};
