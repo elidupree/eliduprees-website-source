@@ -36,9 +36,9 @@ function UI_colors (player) {
   };
   var lighter = player.based_on === "white" && results.fill || results.stroke;
   var darker = player.based_on === "white" && results.stroke || results.fill;
-  lighter.red = Math.round(255-(255-lighter.red)/3);
-  lighter.green = Math.round(255-(255-lighter.green)/3);
-  lighter.blue = Math.round(255-(255-lighter.blue)/3);
+  lighter.red = Math.round(200-(200-lighter.red)/3);
+  lighter.green = Math.round(200-(200-lighter.green)/3);
+  lighter.blue = Math.round(200-(200-lighter.blue)/3);
   darker.red = Math.round(darker.red/3);
   darker.green = Math.round(darker.green/3);
   darker.blue = Math.round(darker.blue/3);
