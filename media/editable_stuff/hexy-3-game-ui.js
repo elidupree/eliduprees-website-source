@@ -81,7 +81,7 @@ function clear_paths (tile, color) {
         else if (connection == "lock") {
           do_connection ("lock");
         } else {
-          do_connection (index + "-" + connection);
+          do_connection (index + "-" + connection, tile.drawn_components && !tile.drawn_components [index]);
         }
       });
 }

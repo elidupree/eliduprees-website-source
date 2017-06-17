@@ -196,6 +196,11 @@ function navigation(current) {
       instructions();
     })
   );}
+  if (current !== "connections") {result.append (
+    $("<input>", {type: "button", value: "Connection effects"}).click (function() {
+      connections();
+    })
+  );}
   if (current !== "start_game") {result.append (
     $("<input>", {type: "button", value: global_game? "Start a new game": "Start a game"}).click (function() {
       before_playing();
@@ -244,6 +249,46 @@ function instructions() {
     $("<p>").text ("Connecting someone's torso or crotch to their other body parts makes them remove a piece of clothing."),
   
     $("<p>").text ("Connecting your own hands or feet to an opponent's body parts gives you a chance to stimulate that body part in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of stimulation they want."),
+    navigation("instructions")
+  );
+}
+function connections() {
+  function orient (tile, direction) {
+    tile.player = default_players [(get_tile_icon (tile.tile_id).color === "black")? 0:1];
+    var connections = get_connections (tile.tile_id);
+    for (tile.rotation = 0; tile.rotation <6 ;++tile.rotation) {
+      var index = (direction + 6 - tile.rotation) % 6;
+      if (connections [index] === icon) {
+        //tile.drawn_components = {[index]: true};
+        break;
+      }
+    }
+  }
+  function connection (first, second) {
+    first = {tile_id: first, horizontal: 0, vertical: -2};
+    second = {tile_id: second, horizontal: 0, vertical: 2, paths:[{direction:0, fill: legality_fill.success [0]}]};
+    orient (first, 3);
+    orient (second, 0);
+        
+    return draw_fake_board ([
+        first,
+        {tile_id: "g8043", horizontal: 0, vertical: 0, rotation: 0, drawn_components: {[0]: true, [3]: true}},
+        second
+    ])
+  }
+  function connection_type (description, pairs) {
+    $("#menu").append ($("<p>").text (description));
+    var boards = $("<div>", {class: "fake_boards"});
+    $("#menu").append (boards);
+    pairs.forEach(function(pair) {
+      boards.append (connection (pair[0], pair[1]));
+    });
+  }
+  $("#menu").empty().scrollTop (0).append (
+    $("<h1>").text ("Connection effects")
+  );
+  connection_type ("Any body part to furniture: Tie that body part to a piece of furniture.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  $("#menu").append ( 
     navigation("instructions")
   );
 }
