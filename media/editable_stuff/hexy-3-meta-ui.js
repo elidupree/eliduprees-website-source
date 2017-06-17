@@ -277,17 +277,23 @@ function connections() {
     ])
   }
   function connection_type (description, pairs) {
-    $("#menu").append ($("<p>").text (description));
     var boards = $("<div>", {class: "fake_boards"});
     $("#menu").append (boards);
     pairs.forEach(function(pair) {
       boards.append (connection (pair[0], pair[1]));
     });
+    $("#menu").append ($("<p>").html(description));
   }
   $("#menu").empty().scrollTop (0).append (
-    $("<h1>").text ("Connection effects")
+    $("<h1>").text ("If you connect…")
   );
   connection_type ("Any body part to furniture: Tie that body part to a piece of furniture.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  connection_type ("A player's hand to any other hand: Tie that player's hands together in front of them. (Left/right doesn't matter, and if you connect two different player's hands, <em>both</em> players get their hands tied.) If a player would get their hands tied a second time, re-tie their hands behind them.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  connection_type ("A player's foot to any other foot: Tie that player's feet together.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  connection_type ("A player's hand to the <em>same</em> player's foot: Tie exactly those two body parts together.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  connection_type ("A player's hand/foot to a <em>different</em> player's torso, crotch, or foot: The first player gets a chance to use their hands/feet to stimulate the other body part.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  connection_type ("A player's body part to a toybox: That player must choose a toy to be used on them.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  connection_type ("A player's torso/crotch to any body part that doesn't have some other effect: That player removes a piece of clothing from that area. (If you connect the same player's torso and crotch together, they choose what to remove.).", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
   $("#menu").append ( 
     navigation("instructions")
   );
