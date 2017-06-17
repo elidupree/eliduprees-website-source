@@ -327,7 +327,7 @@ function game_menu() {
         close_menu();
       }
     }),
-    $("<p>").text ("The game also autosaves, although it will delete the autosave after four hours of not playing."),
+    $("<p>").text ("The game also autosaves, although it will delete the autosave after four hours of not playing." + (global_game.autosave_failed? " (Also, the autosave is not currently working, possibly because your browser is forbidding local storage to be set.)": "")),
     $("<input>", {type: "button", value: "End the game and delete your autosave"}).click (function() {
       restart_game (null);
       close_menu();
@@ -350,21 +350,30 @@ var global_game;
 var global_menu;
 function autosave_game (game) {
   if (global_game) {
-    localStorage.setItem ("hexy_autosave", save_game (game));
-    localStorage.setItem ("hexy_autosave_date", Date.now());
+    try {
+      localStorage.setItem ("hexy_autosave", save_game (game));
+      localStorage.setItem ("hexy_autosave_date", Date.now());
+      delete global_game.autosave_failed;
+    }
+    catch (exception) {
+      global_game.autosave_failed = true;
+    }
   }
   else {
     delete_autosave ();
   }
 }
 function delete_autosave () {
-  localStorage.removeItem ("hexy_autosave");
-  localStorage.removeItem ("hexy_autosave_date");
+  try {
+    localStorage.removeItem ("hexy_autosave");
+    localStorage.removeItem ("hexy_autosave_date");
+  } catch (exception) {}
 }
 function autoload_game () {
   undraw_game (global_game);
   global_game = null;
-  var date = localStorage.getItem ("hexy_autosave_date");
+  try {
+    var date = localStorage.getItem ("hexy_autosave_date");
   /*
 elidupree 
 [2 hours ago] I can assume that the players have sufficient privacy WHILE they are playing; I'm thinking about scenarios where an untrusted or semi-trusted person examines the device later, after the game.
@@ -384,13 +393,14 @@ For instance, you could play it with one person and then want to play it with (o
 elidupree [2 hours ago] 
 "The app deletes your autosave on load after 4 hours of not playing" would probably take care of that case
   */
-  if (date && date > Date.now() - 1000*60*60*4) {
-    var save = localStorage.getItem ("hexy_autosave");
-    restart_game (load_game (save));
-  }
-  else {
-    delete_autosave ();
-  }
+    if (date && date > Date.now() - 1000*60*60*4) {
+      var save = localStorage.getItem ("hexy_autosave");
+      restart_game (load_game (save));
+    }
+    else {
+      delete_autosave ();
+    }
+  } catch (exception) {}
   //if (global_game === null) {restart_game(new_game (default_players.slice (0, 2))); }
 }
 function restart_game (new_game) {
