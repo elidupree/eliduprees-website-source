@@ -581,12 +581,10 @@
     while (current_player (game).eliminated) {game.current_player = (game.current_player + 1) % game.players.length;}
     var player = current_player (game);
     
-    if (old_player.skip_turns >0) {
-      old_player.skip_turns--;
-    }
     if (player.skip_turns >0) {
+      player.skip_turns--;
       game.prompt_stack.push ({
-        message: `${player.name} skips their turn due to a previous effect. (${player.skip_turns - 1} more turns to skip)`,
+        message: `${player.name} skips their turn due to a previous effect. (${player.skip_turns} more turns to skip)`,
         options: [{text: "Drat"}]
       });
       return;
@@ -661,8 +659,7 @@
       place_tile (game, game.floating_tile);
       var paths = collect_paths (game.tiles, game.floating_tile) ;
       delete game.floating_tile;
-        
-      current_player (game).played_yet = true;
+      
       paths.forEach(function(path) {
         if (path.completed) {
           game.available_icons -= path.icons.length;
