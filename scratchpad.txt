@@ -1,0 +1,124 @@
+
+import math
+
+cardboard_width = 0.157
+padding_width = 3/8;
+
+
+box_length = 5.75
+box_width = 4.72 #4.75
+box_outer_length = box_length + cardboard_width*2
+box_outer_width = box_width + cardboard_width*2
+
+fan_depth = 1
+fan_outer_width = 4.72
+fan_inner_width = 4.5
+fan_inner_radius = fan_inner_width/2
+
+filter_depth = 0.5
+filter_outer_length = 5.75
+filter_outer_width = 3+15/16
+filter_border = 3/16
+filter_inner_length = filter_outer_length - filter_border*2
+filter_inner_width = filter_outer_width - filter_border*2
+filter_grip_width = (box_width - filter_inner_width)/2
+
+filter_placement = (box_width - filter_outer_width)/2
+fan_placement = (box_length - fan_outer_width)/2
+
+support_depth = 0.25
+
+box_depth = support_depth + cardboard_width + fan_depth + cardboard_width + filter_depth
+
+head_width = 6.25
+head_length = 7.5
+
+turn = math.pi*2
+
+next_id = 40000
+close = "z"
+
+def draw_path (path):
+  first = "M"
+  components = []
+  for location in path:
+    #convert in to pt
+    if location == "z":
+      components.append ("z")
+      first = "M"
+    else:
+      components.append (first + " " + str (location [0]*72) + " " + str (location [1]*72))
+      first = "L"
+  global next_id
+  next_id = next_id + 1
+  return '''<path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.0283465;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="'''+ " ".join (components) +''' "
+       id="'''+ str (next_id) +'''" />'''
+
+def split_path (path):
+  previous = None
+  components = []
+  origin = None
+  for location in path:
+    print (location, origin)
+    if location == close:
+      components.append ([previous, origin])
+      origin = None
+    else:
+      if previous is not None:
+        components.append ([previous, location])
+      previous = location
+      if origin is None:
+        origin = location
+  return components
+
+def rectangle_center (first, second, width, height):
+  return [(first - width/2, second - height/2), (first + width/2, second - height/2), (first + width/2, second + height/2), (first - width/2, second + height/2), close]
+
+def rectangle_corner (first, second, width, height):
+  return [(first, second), (first + width, second), (first + width, second + height), (first, second + height), close]
+
+def oval (first, second, width, height, segments, parity, inscribed):
+  inaccuracy = 1 if inscribed else math.cos (turn*0.5/segments);
+  result = []
+  for index in range (0, segments):
+    angle = turn*(index + parity)/segments
+    result.append ((first + width*math.cos (angle)/inaccuracy, second + height*math.sin (angle)/inaccuracy))
+  result.append (close)
+  return result
+  
+paths = [
+  #rectangle_corner (0, 0, box_width + box_length + box_width + box_length, box_depth),
+  [(0, 0), (0, box_depth + filter_grip_width), (box_length, box_depth + filter_grip_width), (box_length, box_depth), (box_length + box_width, box_depth), (box_length + box_width, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth), (box_length + box_width + box_length + box_width, box_depth), (box_length + box_width + box_length + box_width, 0), close],
+  
+  rectangle_corner (0, 0, box_length, support_depth),
+  rectangle_corner (0, 0, box_length, support_depth),
+
+  rectangle_corner (0, 0, box_width, box_length) + oval (box_width/2, box_length/2, fan_inner_width/2, fan_inner_width/2, 8, 0.5, False)[-2::-1] + [close],
+  rectangle_corner (0, 0, fan_placement, box_width),
+  rectangle_corner (0, 0, fan_placement, box_width),
+  
+  rectangle_corner (0, 0, box_length, fan_depth - cardboard_width),
+  rectangle_corner (0, 0, box_length, fan_depth - cardboard_width),
+  
+  rectangle_corner (0, 0, box_width, box_length) + rectangle_center (box_width/2, box_length/2, filter_inner_width, fan_inner_width)[-2::-1] + [close],
+  rectangle_corner (0, 0, filter_placement, box_length),
+  rectangle_corner (0, 0, filter_placement, box_length),
+  
+  rectangle_corner (0, 0, box_length, filter_depth - cardboard_width),
+  rectangle_corner (0, 0, box_length, filter_depth - cardboard_width),
+  
+  
+]
+
+rendered = []
+for path in paths:
+  for component in split_path (path):
+    rendered.append (component)
+
+print ("\n".join ([draw_path (path) for path in rendered]))
+
+       
+#junk junk junk
+#(Dragon sometimes freezes up, and I think it happens more when it's near the end of the file, so…)
