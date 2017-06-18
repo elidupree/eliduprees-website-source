@@ -42,12 +42,12 @@ def draw_path (path):
   first = "M"
   components = []
   for location in path:
-    #convert in to pt
     if location == "z":
       components.append ("z")
       first = "M"
     else:
-      components.append (first + " " + str (location [0]*72) + " " + str (location [1]*72))
+      #convert in to pt and position within bounds
+      components.append (first + " " + str (location [0]*72 + 14.173) + " " + str (location [1]*72 + 14.173))
       first = "L"
   global next_id
   next_id = next_id + 1
@@ -65,6 +65,7 @@ def split_path (path):
     if location == close:
       components.append ([previous, origin])
       origin = None
+      previous = None
     else:
       if previous is not None:
         components.append ([previous, location])
@@ -74,12 +75,31 @@ def split_path (path):
   return components
 
 def rectangle_center (first, second, width, height):
+  first = first + horizontal_default
+  second = second + vertical_default
   return [(first - width/2, second - height/2), (first + width/2, second - height/2), (first + width/2, second + height/2), (first - width/2, second + height/2), close]
 
+vertical_default = 0
+def rectangle_advance_vertical (first, second, width, height):
+  global vertical_default
+  result = rectangle_corner(first, second, width, height)
+  vertical_default = vertical_default + height
+  return result
+horizontal_default = 0
+def rectangle_advance_horizontal (first, second, width, height):
+  global horizontal_default
+  result = rectangle_corner(first, second, width, height)
+  horizontal_default = horizontal_default + width
+  return result
+
 def rectangle_corner (first, second, width, height):
+  first = first + horizontal_default
+  second = second + vertical_default
   return [(first, second), (first + width, second), (first + width, second + height), (first, second + height), close]
 
 def oval (first, second, width, height, segments, parity, inscribed):
+  first = first + horizontal_default
+  second = second + vertical_default
   inaccuracy = 1 if inscribed else math.cos (turn*0.5/segments);
   result = []
   for index in range (0, segments):
@@ -91,33 +111,60 @@ def oval (first, second, width, height, segments, parity, inscribed):
 paths = [
   #rectangle_corner (0, 0, box_width + box_length + box_width + box_length, box_depth),
   [(0, 0), (0, box_depth + filter_grip_width), (box_length, box_depth + filter_grip_width), (box_length, box_depth), (box_length + box_width, box_depth), (box_length + box_width, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth), (box_length + box_width + box_length + box_width, box_depth), (box_length + box_width + box_length + box_width, 0), close],
-  
-  rectangle_corner (0, 0, box_length, support_depth),
-  rectangle_corner (0, 0, box_length, support_depth),
-
-  rectangle_corner (0, 0, box_width, box_length) + oval (box_width/2, box_length/2, fan_inner_width/2, fan_inner_width/2, 8, 0.5, False)[-2::-1] + [close],
-  rectangle_corner (0, 0, fan_placement, box_width),
-  rectangle_corner (0, 0, fan_placement, box_width),
-  
-  rectangle_corner (0, 0, box_length, fan_depth - cardboard_width),
-  rectangle_corner (0, 0, box_length, fan_depth - cardboard_width),
-  
-  rectangle_corner (0, 0, box_width, box_length) + rectangle_center (box_width/2, box_length/2, filter_inner_width, fan_inner_width)[-2::-1] + [close],
-  rectangle_corner (0, 0, filter_placement, box_length),
-  rectangle_corner (0, 0, filter_placement, box_length),
-  
-  rectangle_corner (0, 0, box_length, filter_depth - cardboard_width),
-  rectangle_corner (0, 0, box_length, filter_depth - cardboard_width),
-  
-  
 ]
 
-rendered = []
-for path in paths:
-  for component in split_path (path):
-    rendered.append (component)
+horizontal_default = 0
+vertical_default = box_depth + filter_grip_width
 
-print ("\n".join ([draw_path (path) for path in rendered]))
+supports = [
+  rectangle_advance_vertical (0, 0, box_length, support_depth),
+  rectangle_advance_vertical (0, 0, box_length, support_depth),
+  rectangle_advance_vertical (0, 0, box_length, fan_depth - cardboard_width),
+  rectangle_advance_vertical (0, 0, box_length, fan_depth - cardboard_width),  
+  rectangle_advance_vertical (0, 0, box_length, filter_depth - cardboard_width),
+  rectangle_advance_vertical (0, 0, box_length, filter_depth - cardboard_width),
+]
+
+horizontal_default = box_length
+vertical_default = box_depth + filter_grip_width
+placements = [
+  rectangle_advance_horizontal (0, 0, fan_placement, box_width),
+  rectangle_advance_horizontal (0, 0, fan_placement, box_width),
+  rectangle_advance_horizontal (0, 0, filter_placement, box_length),
+  rectangle_advance_horizontal (0, 0, filter_placement, box_length),
+]
+
+gates = [
+  oval (box_width/2, box_length/2, fan_inner_width/2, fan_inner_width/2, 8, 0.5, False)[-2::-1] + [close] + rectangle_advance_horizontal (0, 0, box_width, box_length),
+  rectangle_center (box_width/2, box_length/2, filter_inner_width, fan_inner_width)[-2::-1] + [close] + rectangle_advance_horizontal (0, 0, box_width, box_length),
+]
+
+diagonal = []
+horizontal = []
+vertical = []
+
+for path in (paths + supports + placements + gates):
+  for component in split_path (path):
+    (horizontal if component[0] [1] == component[1] [1] else vertical if component[0] [0] == component[1] [0] else diagonal).append (component)
+
+
+for (list, equal_dimension, different_dimension) in [(horizontal, 1, 0), (vertical, 0, 1)]:
+  for index in range (len (list)):
+    if list[index] [0] [different_dimension] >list[index] [1] [different_dimension]:
+      list[index] = (list[index] [1], list[index] [0])
+  
+  list.sort (key = lambda component: component [0] [equal_dimension] + 0.00001*component [0] [different_dimension])
+    
+  index = 0
+  while index <len (list) - 1:
+    if abs(list[index] [0] [equal_dimension] - list [index + 1] [0] [equal_dimension]) < 0.0001 and list [index] [1] [different_dimension] >= -0.0001 + list [index + 1] [0] [different_dimension]:
+      removed = list.pop (index + 1)
+      list [index] = (list [index] [0], removed [1])
+    else:
+      index = index + 1
+      
+
+print ("\n".join ([draw_path (path) for path in (horizontal + vertical + diagonal)]))
 
        
 #junk junk junk
