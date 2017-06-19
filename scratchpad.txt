@@ -61,7 +61,7 @@ def split_path (path):
   components = []
   origin = None
   for location in path:
-    print (location, origin)
+    #print (location, origin)
     if location == close:
       components.append ([previous, origin])
       origin = None
@@ -75,8 +75,21 @@ def split_path (path):
   return components
 
 def perforated (component):
-  return [component]
-
+  vertex = (component [1] [0] - component [0] [0], component [1] [1] - component [0] [1])
+  distance = math.sqrt (vertex [0]*vertex [0] + vertex [1]*vertex [1])
+  perforation_length = 1/8
+  segments = math.floor (distance/perforation_length)
+  increment = segments*2 + 1
+  result = []
+  for index in range (segments):
+    factor_1 = (index*2 + 1)/increment
+    factor_2 = (index*2 + 2)/increment
+    result.append ([
+      (component [1] [0] - vertex [0]*factor_1, component [1] [1] - vertex [1]*factor_1),
+      (component [1] [0] - vertex [0]*factor_2, component [1] [1] - vertex [1]*factor_2)
+    ])
+  return result
+  
 def translate_path (path, horizontal, vertical):
   for index in range (len (path)):
     if type (path [index]) is tuple:
@@ -126,12 +139,6 @@ paths = [
   [(0, 0), (0, box_depth + filter_grip_width), (box_length, box_depth + filter_grip_width), (box_length, box_depth), (box_length + box_width, box_depth), (box_length + box_width, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth), (box_length + box_width + box_length + box_width, box_depth), (box_length + box_width + box_length + box_width, 0), close],
 ]
 
-flip_path (paths [0])
-translate_path (paths [0], 0, box_depth + filter_grip_width)
-
-horizontal_default = 0
-vertical_default = box_depth + filter_grip_width
-
 band_depth = 1
 air_width = 1
 brim_min_width = 2
@@ -139,7 +146,16 @@ brim_min_width = 2
 hat_top = []
 hat_brim = []
 hat_band = [rectangle_advance_vertical (0, 0, head_circumference + turn*padding_width, band_depth)]
+
+
+#flip_path (paths [0])
+#translate_path (paths [0], 0, box_depth + filter_grip_width)
+translate_path (paths [0], 0, vertical_default)
+
+horizontal_default = 0
+vertical_default = vertical_default + box_depth + filter_grip_width
 long_position = vertical_default
+
 
 supports = [
   rectangle_advance_vertical (0, 0, box_length, support_depth),
@@ -192,6 +208,10 @@ for index in range (brim_segments + 1):
     hat_brim.append ([vertex, cut_vertex])
     hat_brim.append ([cut_vertex, previous_cut_vertex])
     hat_brim.extend (perforated ([vertex, previous_vertex]))
+    hat_top.append ([
+      vertex if bonus_vertex is None else bonus_vertex,
+      previous_vertex if previous_bonus_vertex is None else previous_bonus_vertex
+    ])
     if (bonus_vertex is not None) and (previous_bonus_vertex is not None):
       factor_1 = 0.8
       factor_2 = 0.2
@@ -216,7 +236,10 @@ for index in range (brim_segments + 1):
 for whatever in hat_brim:
   flip_path (whatever)
   translate_path (whatever, 31 - head_width/2 - padding_width - cardboard_width - brim_min_width, 15 - head_length/2 - padding_width - cardboard_width - brim_min_width)
-  
+
+for whatever in hat_top:
+  flip_path (whatever)
+  translate_path (whatever, 31 - head_width*1.5 - brim_min_width*2 - (padding_width + cardboard_width)*3, 15 - head_length/2 - padding_width - cardboard_width)
 
 diagonal = []
 horizontal = []
