@@ -81,6 +81,11 @@ def translate_path (path, horizontal, vertical):
   for index in range (len (path)):
     if type (path [index]) is tuple:
       path [index] = (path [index] [0] + horizontal, path [index] [1] + vertical)
+      
+def flip_path (path):
+  for index in range (len (path)):
+    if type (path [index]) is tuple:
+      path [index] = (path [index] [0], -path [index] [1])
 
 def rectangle_center (first, second, width, height):
   first = first + horizontal_default
@@ -121,8 +126,20 @@ paths = [
   [(0, 0), (0, box_depth + filter_grip_width), (box_length, box_depth + filter_grip_width), (box_length, box_depth), (box_length + box_width, box_depth), (box_length + box_width, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth), (box_length + box_width + box_length + box_width, box_depth), (box_length + box_width + box_length + box_width, 0), close],
 ]
 
+flip_path (paths [0])
+translate_path (paths [0], 0, box_depth + filter_grip_width)
+
 horizontal_default = 0
 vertical_default = box_depth + filter_grip_width
+
+band_depth = 1
+air_width = 1
+brim_min_width = 2
+
+hat_top = []
+hat_brim = []
+hat_band = [rectangle_advance_vertical (0, 0, head_circumference + turn*padding_width, band_depth)]
+long_position = vertical_default
 
 supports = [
   rectangle_advance_vertical (0, 0, box_length, support_depth),
@@ -141,7 +158,7 @@ supports = [
 ]
 
 horizontal_default = box_length
-vertical_default = box_depth + filter_grip_width
+vertical_default = long_position
 placements = [
   rectangle_advance_horizontal (0, 0, fan_placement, box_width),
   rectangle_advance_horizontal (0, 0, fan_placement, box_width),
@@ -154,12 +171,6 @@ gates = [
   rectangle_center (box_width/2, box_length/2, filter_inner_width, fan_inner_width)[-2::-1] + [close] + rectangle_advance_horizontal (0, 0, box_width, box_length),
 ]
 
-band_depth = 1
-air_width = 1
-
-hat_top = []
-hat_brim = []
-hat_band = [rectangle_advance_vertical (0, 0, head_circumference + turn*padding_width, band_depth)]
 
 brim_segments = 24
 for index in range (brim_segments + 1):
@@ -174,7 +185,7 @@ for index in range (brim_segments + 1):
   bonus_factor = 1 - abs (angle - (turn/4))/(turn/8)
   bonus_vertex = None
   if bonus_factor >0:
-    bonus_vertex_factor = 1 + ((distance + air_width * bonus_factor)/distance)
+    bonus_vertex_factor = ((distance + air_width * bonus_factor)/distance)
     bonus_vertex = (vertex [0] * bonus_vertex_factor, vertex [1] * bonus_vertex_factor)
   
   if index > 0:
@@ -201,6 +212,11 @@ for index in range (brim_segments + 1):
   previous_vertex = vertex
   previous_cut_vertex = cut_vertex
   previous_bonus_vertex = bonus_vertex
+
+for whatever in hat_brim:
+  flip_path (whatever)
+  translate_path (whatever, 31 - head_width/2 - padding_width - cardboard_width - brim_min_width, 15 - head_length/2 - padding_width - cardboard_width - brim_min_width)
+  
 
 diagonal = []
 horizontal = []
