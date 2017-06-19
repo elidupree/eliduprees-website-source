@@ -222,7 +222,8 @@ for (list, equal_dimension, different_dimension) in [(horizontal, 1, 0), (vertic
   while index <len (list) - 1:
     if abs(list[index] [0] [equal_dimension] - list [index + 1] [0] [equal_dimension]) < 0.0001 and list [index] [1] [different_dimension] >= -0.0001 + list [index + 1] [0] [different_dimension]:
       removed = list.pop (index + 1)
-      list [index] = (list [index] [0], removed [1])
+      if removed [1] [different_dimension] >list [index] [1] [different_dimension]:
+        list [index] = (list [index] [0], removed [1])
     else:
       index = index + 1
       
