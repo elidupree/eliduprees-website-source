@@ -307,6 +307,30 @@ That went well and only took me 10 minutes, so today, I did 15 minutes of work o
 },
 
 
+{
+"title": "Projects update 2017-06-21",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+The web version of <a href="/hexy">[NSFW] Hexy Bondage</a> is coming along. However, <em>this</em> week, I've mostly been working on building outrageous things out of cardboard:
+
+<img src="/media/allergy-hat-photo-1.jpg?rr" alt="[Photo: Me wearing a top hat made out of cardboard, with a power cord dangling past my face.]" style="display:block; margin: 2em auto; max-width: 100%;">
+
+To help with my allergy problems, I made this top hat that is also an air purifier. It has a fan and filters inside it, and it blows a continuous stream of filtered air down my face. It's working great.
+
+The hat weighs 1 pound, it's pretty comfortable to wear, and the fan is quiet. It's much more efficient than a normal air purifier because a normal one tries to purify the whole room, while this one just purifies my face. Since it doesn't use much power, it can theoretically run off a rechargeable battery for over 24 hours.
+
+I definitely plan to write a full blog post describing this hat and how I built it, but I'm not ready to do that <em>quite</em> yet. I want to wait until it's all the way finished, and specifically, I want to wait until I've <em>actually</em> tried running it off a battery. And although I've ordered a battery, I have to wait a few weeks for it to be shipped.
+
+I've also been working on the next version of <a href="/blog/the-carrying-contraption">my carrying contraption</a> – this time made out of cardboard! The new design will hopefully solve the problems of the previous version, while being cheaper and easier to build as well. However, I'm only in the early stages of prototyping so far.
+
+
+''',
+},
+
+
 ]
 
 """
