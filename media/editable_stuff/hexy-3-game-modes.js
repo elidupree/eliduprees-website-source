@@ -256,7 +256,7 @@
   var game_modes = {
     classic: {
       name: "Classic",
-      description: "The players place all the icons manually on an empty canvas, like in the old board game.",
+      description: "Place all the icons manually on an empty canvas, like in the old board game.",
       icon_chance: 0.75,
       location_playable: function(game, location) {
         for (var direction = 0; direction <6;++direction) {

@@ -160,10 +160,10 @@ function make_game_setup_area (initial_settings) {
   var mode_row = $("<div>", {class: "modes"});
   modes_list.forEach(function(id) {
     var mode = game_modes [id];
-    mode_row.append (
+    mode_row.append ($("<div>", {class:"mode_box"}).append(
       $("<input>", {type: "radio", id: "mode_" + id, name: "mode", value: id, checked: initial_settings.mode === id}),
       $("<label>", {"for": "mode_" + id, text: mode.name + " (" + mode.description + ")"})
-    ); 
+    )); 
   });
   
   var result = $("<div>", {class:"game_setup"}).append(

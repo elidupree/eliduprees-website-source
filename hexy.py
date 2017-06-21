@@ -352,6 +352,24 @@ h2 {font-size: 150%;}
   justify-content: center;
 }
 
+.modes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 40em;
+  margin: 0 auto;
+  text-align: left;
+}
+.mode_box {
+  margin:0.2em;
+}
+.modes input {
+  width:2em; height:2em; vertical-align: middle;
+}
+.modes label {
+  vertical-align: middle; margin-left:0.2em;
+}
+
 .players {
   display: flex;
   flex-wrap: wrap;
