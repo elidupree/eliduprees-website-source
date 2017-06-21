@@ -578,10 +578,10 @@
         // Note that because this eliminates half the possible choices of player-specific icon,
         // non-player-specific icons are effectively double weight.
         if (icon && icon.color && !player) {
-          player = random_choice (game.players_immutable);
+          player = random_choice (game.settings.players);
           if (!game.players.every (player => player.eliminated)) {
             while (game.players [player.index].eliminated) {
-              player = random_choice (game.players_immutable);
+              player = random_choice (game.settings.players);
             }
           }
         }
@@ -629,7 +629,7 @@
       return;
     }
     
-    var mode = game_modes [game.mode];
+    var mode = game_modes [game.settings.mode];
     if (mode.on_turn_start) {mode.on_turn_start(game);}
     
     var tile = create_random_tile(game, mode.icon_chance, {bucket: mode.bucket});
@@ -650,19 +650,18 @@
     return game.players [game.current_player];
   }
   
-  function new_game (players) {
+  function new_game (settings) {
     var game ={
       anchored_tiles: [],
       tiles: {},
-      players_immutable: _.cloneDeep(players),
-      players: _.cloneDeep(players),
+      settings: _.cloneDeep(settings),
+      players: _.cloneDeep(settings.players),
       prompt_stack: [],
       next_tile_key: 55,
       id: Math.floor(Math.random()*90000000),
       available_icons: 0,
-      mode: "corridor",
     };
-    game.players_immutable.forEach(function(player, index) {
+    game.settings.players.forEach(function(player, index) {
       player.index = index;
     });
     game.players.forEach(function(player, index) {
@@ -672,20 +671,8 @@
     
     game.current_player = random_range (0, game.players.length);
     
-    
-    /*var tile;
-    while (!(tile && tile.player)) {
-      tile = create_random_tile (game, 1);
-    }
-    game.current_player = (game.players.length + tile.player.index - 1) % game.players.length;
-    tile.horizontal = 0;
-    tile.vertical = 0;
-    place_tile (game, tile);*/
-        
-    /*while (game.available_icons < 20) {
-      populate (game);
-    }
-    make_arena (game, 2);*/
+    var mode = game_modes [game.settings.mode];
+    if (mode.on_game_start) {mode.on_game_start(game);}
     
     begin_turn (game);
     return game;

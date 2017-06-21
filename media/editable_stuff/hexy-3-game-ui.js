@@ -173,7 +173,7 @@ function move_towards (value, target, speed) {
 
 function draw_game (game) {
   var drawn = drawn_games [game.id];
-  var mode = game_modes [game.mode];
+  var mode = game_modes [game.settings.mode];
   
   function floating_tile_playable() {
     return game.floating_tile && drawn.floating_tile && !get_tile (game.tiles, drawn.floating_tile) && mode.location_playable (game, drawn.floating_tile);

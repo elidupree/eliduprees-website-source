@@ -255,6 +255,8 @@
   
   var game_modes = {
     classic: {
+      name: "Classic",
+      description: "The players place all the icons manually on an empty canvas, like in the old board game.",
       icon_chance: 0.75,
       location_playable: function(game, location) {
         for (var direction = 0; direction <6;++direction) {
@@ -262,8 +264,20 @@
         }
         return false;
       },
+      on_game_start: function (game) {
+        var tile;
+        while (!(tile && tile.player)) {
+          tile = create_random_tile (game, 1);
+        }
+        game.current_player = (game.players.length + tile.player.index - 1) % game.players.length;
+        tile.horizontal = 0;
+        tile.vertical = 0;
+        place_tile (game, tile);
+      }
     },
     corridor: {
+      name: "Corridor",
+      description: "The default mode. Connect icons across a narrow corridor.",
       icon_chance: 0,
       weights: {
         g8043: 15,
@@ -348,8 +362,18 @@
     }
   });
   
-  // turn start functions for other game modes I tried it didn't turn out too well
+  var modes_list = [
+    "corridor",
+    "classic"
+  ];
   
+  // turn/game start functions for other game modes I tried it didn't turn out too well
+          
+    /*while (game.available_icons < 20) {
+      populate (game);
+    }
+    make_arena (game, 2);*/
+    
     if (false && game.available_icons === 0) {
       game.anchored_tiles = [];
       game.tiles = {};

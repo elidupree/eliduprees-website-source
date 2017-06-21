@@ -104,7 +104,7 @@ var default_players = [
   {based_on: "black", name: "Purple", fill: "#5500aa", stroke: "#ffffff"},
 ];
 
-function make_game_setup_area (initial_players) {
+function make_game_setup_area (initial_settings) {
   var players = [];
   function make_player_area(player) {
     var player_info = {};
@@ -157,7 +157,17 @@ function make_game_setup_area (initial_players) {
     info.players_area.append (make_player_area (created));
   }
   
+  var mode_row = $("<div>", {class: "modes"});
+  modes_list.forEach(function(id) {
+    var mode = game_modes [id];
+    mode_row.append (
+      $("<input>", {type: "radio", id: "mode_" + id, name: "mode", value: id, checked: initial_settings.mode === id}),
+      $("<label>", {"for": "mode_" + id, text: mode.name + " (" + mode.description + ")"})
+    ); 
+  });
+  
   var result = $("<div>", {class:"game_setup"}).append(
+    mode_row,
     info.players_area = $("<div>", {class:"players"}),
     $("<input>", {type: "button", value: "Add another player"}).click (function() {
       var prototype =
@@ -169,9 +179,10 @@ function make_game_setup_area (initial_players) {
       if (prototype) {add_player (prototype);}
     }),
     $("<input>", {type: "button", value: "Start game"}).click (function() {
-      if (players.length > 0) { 
+      if (players.length > 0) {
+        var game = new_game ({players, mode: $("input:radio[name=mode]:checked").val()});
         close_menu();
-        restart_game (new_game (players));
+        restart_game (game);
       }
     })
   );
@@ -182,7 +193,7 @@ function make_game_setup_area (initial_players) {
     })
   );*/
   
-  initial_players.forEach(function(player) {
+  initial_settings.players.forEach(function(player) {
     add_player (player);
   });
   
@@ -310,7 +321,7 @@ function before_playing() {
   
       $("<li>").text ("Set up the players below and have fun!")
     ),
-    make_game_setup_area (global_game && global_game.players_immutable || default_players.slice (0, 2)),
+    make_game_setup_area (global_game && global_game.settings || {mode: "corridor", players: default_players.slice (0, 2)}),
     navigation("start_game")
   );
 }
@@ -415,7 +426,7 @@ function load_game (save) {
   });
   game.tiles = {};
   game.anchored_tiles.forEach(function(tile) {
-    tile.player = game.players_immutable [tile.player];
+    tile.player = game.settings.players [tile.player];
     tile.icon = get_tile_icon (tile.tile_id);
     set_tile (game.tiles, tile);
   });
