@@ -38,9 +38,9 @@ update_dimensions();
 var drawn_games = {};
 
   var legality_fill = {
-    acceptable: ["#0000ff","#0099ff","#9900ff"],
+    acceptable: ["#0000ff","#0099ff","#9900ff","#9999ff"],
     forbidden: ["#ff0000"],
-    waste: ["#990000","#995500","#990055"],
+    waste: ["#990000","#995500","#990055","#995555"],
     success: ["#aaaa00","#99dd00","#dd9900"]
   };
 

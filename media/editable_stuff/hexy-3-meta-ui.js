@@ -430,6 +430,11 @@ function load_game (save) {
     tile.icon = get_tile_icon (tile.tile_id);
     set_tile (game.tiles, tile);
   });
+  if (game.floating_tile) {
+    var tile = game.floating_tile;
+    tile.player = game.settings.players [tile.player];
+    tile.icon = get_tile_icon (tile.tile_id);
+  }
   return game;
 }
 function save_game (game) {
