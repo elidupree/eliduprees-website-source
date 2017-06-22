@@ -197,7 +197,7 @@ when their “opponent” is too tied up to reach the board.
 </div>
 <div class="bigbox_outer narrower comments last">
 <div class="bigbox narrower comments last">
-  '''+blog.comments_section("hexy")+'''
+  '''+blog.comments_section("hexy_classic")+'''
 </div>
 </div>
   </div>
@@ -396,6 +396,9 @@ h2 {font-size: 150%;}
 .fake_board {
   margin: 0.6em;
 }
+#comments {
+  display: none;
+}
 
 </style>
 ''',
@@ -406,6 +409,7 @@ h2 {font-size: 150%;}
     
     <!-- <div id="tile_controls"></div> -->
   </div>
+  '''+blog.comments_section("hexy")+'''
   '''+ trimmed_svg+'''
 </main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
 

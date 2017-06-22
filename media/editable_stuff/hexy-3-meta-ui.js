@@ -1,5 +1,7 @@
 "use strict";
 
+var comments_area = $("#comments").detach().css("display", "block");
+
 var entityMap = {
   '&': '&amp;',
   '<': '&lt;',
@@ -229,6 +231,11 @@ function navigation(current) {
       })
     );
   }
+  if (current !== "comments") {result.append (
+    $("<input>", {type: "button", value: "Comments"}).click (function() {
+      comments();
+    })
+  );}
   
   return result;
 }
@@ -236,7 +243,9 @@ function navigation(current) {
 function instructions() {
   $("#menu").empty().scrollTop (0).append (
     $("<h1>").text ("Welcome to Hexy Bondage!"),
-    $("<p>").text ("Hexy Bondage is a sexual game for two players (or more) to play together on the same device."),
+    $("<p>").html(`Hexy Bondage is a sexual game for two players (or more) to play together on the same device. It's a web version of <a href="/hexy-classic">a board game I wrote four years earlier</a>.`),
+    
+    $("<p>").text ("This web game works best in Chrome. Firefox may have some display errors, and I haven't tested in other browsers."),
     $("<h2>").text ("Instructions"),
     $("<p>").text ("You take turns placing tiles like this:"),
     $("<div>", {class: "fake_boards"}).append (
@@ -258,6 +267,7 @@ function instructions() {
     $("<p>").text ("When you finish a connection, you do something in real life. Some connections make the players get tied up. When you're too tied up to play your turns, you lose the game!"),
   
     $("<p>").text ("Other connections can make players remove clothing, have toys used on them, or allow other players to stimulate them in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of toys and stimulation they want."),
+    
     navigation("instructions")
   );
 }
@@ -343,6 +353,17 @@ function game_menu() {
       show_menu();
     }),
     navigation("game_menu")
+  );
+}
+
+function comments() {
+  $("#menu").empty().scrollTop (0).append (
+    navigation("instructions"),
+    
+    $("<h1>").text ("Comments"),
+    comments_area,
+    
+    navigation("instructions"),
   );
 }
 
