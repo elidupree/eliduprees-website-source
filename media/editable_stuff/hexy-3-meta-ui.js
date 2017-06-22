@@ -278,7 +278,7 @@ function connections() {
     for (tile.rotation = 0; tile.rotation <6 ;++tile.rotation) {
       var index = (direction + 6 - tile.rotation) % 6;
       if (connections [index] === icon) {
-        //tile.drawn_components = {[index]: true};
+        tile.drawn_components = {[index]: true};
         break;
       }
     }
@@ -297,24 +297,26 @@ function connections() {
   }
   function connection_type (description, pairs) {
     var boards = $("<div>", {class: "fake_boards"});
-    $("#menu").append (boards);
+    var area = $("<div>", {class: "connection_type"});
+    area.append ($("<p>").html(description));
+    area.append (boards);
     pairs.forEach(function(pair) {
       boards.append (connection (pair[0], pair[1]));
     });
-    $("#menu").append ($("<p>").html(description));
+    $("#menu").append (area);
   }
   $("#menu").empty().scrollTop (0).append (
     $("<h1>").text ("If you connect…")
   );
   connection_type ("Any body part to furniture: Tie that body part to a piece of furniture.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
-  connection_type ("A player's hand to any other hand: Tie that player's hands together in front of them. (Left/right doesn't matter, and if you connect two different player's hands, <em>both</em> players get their hands tied.) If a player would get their hands tied a second time, re-tie their hands behind them.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
-  connection_type ("A player's foot to any other foot: Tie that player's feet together.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
-  connection_type ("A player's hand to the <em>same</em> player's foot: Tie exactly those two body parts together.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
-  connection_type ("A player's hand/foot to a <em>different</em> player's torso, crotch, or foot: The first player gets a chance to use their hands/feet to stimulate the other body part.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
-  connection_type ("A player's body part to a toybox: That player must choose a toy to be used on them. (Insert a dildo? Attach nipple clamps? Put on a collar?)", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
-  connection_type ("A player's torso/crotch to anything that doesn't have some other effect: That player removes a piece of clothing from that area. (If you connect the same player's torso and crotch together, they choose what to remove.).", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  connection_type ("A player's hand to any other hand: Tie that player's hands together in front of them. (Left/right doesn't matter, and if you connect two different player's hands, <em>both</em> players get their hands tied.) If a player would get their hands tied a second time, re-tie their hands behind them.", [["g5305", "g5317"], ["g5035", "g5200"], ["g5016", "g5225"]]);
+  connection_type ("A player's foot to any other foot: Tie that player's feet together.", [["g6913", "g5092"], ["g5051", "g5088"], ["g6924", "g7012"]]);
+  connection_type ("A player's hand to the <em>same</em> player's foot: Tie exactly those two body parts together.", [["g5084", "g4975"], ["g4988", "g5024"], ["g5209", "g5384"]]);
+  connection_type ("A player's hand/foot to a <em>different</em> player's torso, crotch, or foot: The first player gets a chance to use their hands/feet to stimulate the other body part.", [["g5301", "g5180"], ["g5285", "g5257"], ["g5028", "g5196"]]);
+  connection_type ("A player's body part to a toybox: That player must choose a toy to be used on them. (Insert a dildo? Attach nipple clamps? Put on a collar?)", [["g5337", "g7382"], ["g5273", "g5136"], ["g7325", "g6990"]]);
+  connection_type ("A player's torso/crotch to anything that doesn't have some other effect: That player removes a piece of clothing from that area. (If you connect the same player's torso and crotch together, they choose what to remove.).", [["g5020", "g5112"], ["g7155", "g5043"], ["g5104", "g5269"]]);
   $("#menu").append ( 
-    navigation("instructions")
+    navigation("connections")
   );
 }
 function before_playing() {

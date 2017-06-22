@@ -395,7 +395,31 @@ h2 {font-size: 150%;}
 }
 .fake_board {
   margin: 0.6em;
+  flex-shrink: 0;
 }
+
+.connection_type {
+  display: inline-block;
+  margin: 0.6em;
+  max-width: 40em;
+  background-color:#ccc;
+}
+@media screen and (max-width: 400px) {
+  .fake_board {
+    margin: 0.1em;
+    flex-shrink: 0;
+  }
+  .connection_type {
+    margin: 0.6em -0.2em;
+  }
+}
+.connection_type p {
+  padding: 0 1.1em;
+}
+.connection_type .fake_board {
+  margin: 0.1em;
+}
+
 #comments {
   display: none;
 }
