@@ -330,6 +330,10 @@ input[type="button"]:hover,.fake_button:hover {
   margin: 0.2em;}
 
 
+#menu_wrapper {
+  position: fixed;
+  left: 0; right: 0; top: 0; bottom: 0;
+}
 #menu {
   position: fixed;
   left: 5%; right: 5%; top: 8%; bottom: 5%;

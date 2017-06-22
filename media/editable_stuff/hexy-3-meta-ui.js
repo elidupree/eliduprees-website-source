@@ -347,11 +347,16 @@ function game_menu() {
 }
 
 function show_menu() {
-  $("#content").append (global_menu = $("<div>", {id: "menu", class: global_game? "game_exists" : "no_game"}));
+  $("#content").append (
+    $("<div>", {id: "menu_wrapper"}).css ("top", top_bar.outerHeight()).click (function(event) {if (global_game) {event.stopPropagation(); close_menu();}})
+    .append (
+      global_menu = $("<div>", {id: "menu", class: global_game? "game_exists" : "no_game"}).click (event => event.stopPropagation())
+    )
+  );
   global_game ? game_menu() : instructions();
 }
 function close_menu() {
-  $("#menu").remove();
+  $("#menu_wrapper").remove();
   global_menu = null;
 }
 
