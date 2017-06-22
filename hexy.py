@@ -424,11 +424,19 @@ h2 {font-size: 150%;}
   display: none;
 }
 
+.noscript {
+  margin: 3em auto;
+  padding: 0 1.1em;
+  max-width: 40em;
+  font-size: 130%;
+}
+
 </style>
 ''',
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main>
   <div id="content">
+    <div class="noscript">This game requires JavaScript to play. To play, enable JavaScript in your browser and reload the page. Alternatively, look at <a href="/hexy-classic">the older printable board game</a>, which doesn't require JavaScript.
     <!-- <div id="messages"></div> -->
     
     <!-- <div id="tile_controls"></div> -->
