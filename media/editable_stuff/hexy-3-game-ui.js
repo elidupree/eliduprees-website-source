@@ -206,9 +206,15 @@ function draw_game (game) {
   function update_touch_position (touch) {
     var info = drawn.touches [touch.identifier];
     info.visual_location = {horizontal: visual_horizontal_from_pageX (touch.pageX), vertical: visual_vertical_from_pageY (touch.pageY)};
+    if (!info.original_location) {info.original_location = info.visual_location;}
+    if (
+      Math.abs(info.original_location.horizontal-info.visual_location.horizontal) > 3 || 
+      Math.abs(info.original_location.vertical-info.visual_location.vertical) > 3 ) {
+      info.moved = true;
+    }
     info.exact_location = visual_to_exact (info.visual_location);
     info.rounded_location = move_to_nearest_hex (info.exact_location);
-    if (drawn.touch_holding_tile === touch.identifier) {
+    if (info.moved && drawn.touch_holding_tile === touch.identifier) {
       drawn.mouse_visual.horizontal = info.visual_location.horizontal;
       drawn.mouse_visual.vertical = info.visual_location.vertical;
     }
@@ -260,10 +266,12 @@ function draw_game (game) {
     drawn.mouse_rounded = {horizontal: 0, vertical: 0, rotation: 0};
     drawn.rotation_target = 0;
     drawn.svg.addEventListener("mousemove", function (event) {
-      drawn.svg_offset = $(drawn.svg).offset();
-      drawn.mouse_visual.horizontal = visual_horizontal_from_pageX (event.pageX);
-      drawn.mouse_visual.vertical = visual_vertical_from_pageY (event.pageY);
-      delete drawn.tile_hover_location;
+      if (!drawn.touch_holding_tile) {
+        drawn.svg_offset = $(drawn.svg).offset();
+        drawn.mouse_visual.horizontal = visual_horizontal_from_pageX (event.pageX);
+        drawn.mouse_visual.vertical = visual_vertical_from_pageY (event.pageY);
+        delete drawn.tile_hover_location;
+      }
     });
     
     drawn.svg.addEventListener("click", function (event) {
