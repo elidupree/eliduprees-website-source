@@ -257,9 +257,7 @@ function instructions() {
 
     $("<p>").text ("When you finish a connection, you do something in real life. Some connections make the players get tied up. When you're too tied up to play your turns, you lose the game!"),
   
-    $("<p>").text ("Connecting someone's torso or crotch to their other body parts makes them remove a piece of clothing."),
-  
-    $("<p>").text ("Connecting your own hands or feet to an opponent's body parts gives you a chance to stimulate that body part in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of stimulation they want."),
+    $("<p>").text ("Other connections can make players remove clothing, have toys used on them, or allow other players to stimulate them in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of toys and stimulation they want."),
     navigation("instructions")
   );
 }
@@ -303,8 +301,8 @@ function connections() {
   connection_type ("A player's foot to any other foot: Tie that player's feet together.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
   connection_type ("A player's hand to the <em>same</em> player's foot: Tie exactly those two body parts together.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
   connection_type ("A player's hand/foot to a <em>different</em> player's torso, crotch, or foot: The first player gets a chance to use their hands/feet to stimulate the other body part.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
-  connection_type ("A player's body part to a toybox: That player must choose a toy to be used on them.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
-  connection_type ("A player's torso/crotch to any body part that doesn't have some other effect: That player removes a piece of clothing from that area. (If you connect the same player's torso and crotch together, they choose what to remove.).", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  connection_type ("A player's body part to a toybox: That player must choose a toy to be used on them. (Insert a dildo? Attach nipple clamps? Put on a collar?)", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
+  connection_type ("A player's torso/crotch to anything that doesn't have some other effect: That player removes a piece of clothing from that area. (If you connect the same player's torso and crotch together, they choose what to remove.).", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
   $("#menu").append ( 
     navigation("instructions")
   );
