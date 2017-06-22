@@ -358,12 +358,12 @@ function game_menu() {
 
 function comments() {
   $("#menu").empty().scrollTop (0).append (
-    navigation("instructions"),
+    navigation("comments"),
     
     $("<h1>").text ("Comments"),
     comments_area,
     
-    navigation("instructions"),
+    navigation("comments"),
   );
 }
 
