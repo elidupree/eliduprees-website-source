@@ -180,7 +180,7 @@ function make_game_setup_area (initial_settings) {
         });
       if (prototype) {add_player (prototype);}
     }),
-    $("<input>", {type: "button", value: "Start game"}).click (function() {
+    $("<input>", {type: "button", value: "Start game"}).css({display: "block", margin: "0.8em auto", "margin-bottom": "2.6em", "font-size": "180%", "font-weight": "bold"}).click (function() {
       if (players.length > 0) {
         var game = new_game ({players, mode: $("input:radio[name=mode]:checked").val()});
         close_menu();

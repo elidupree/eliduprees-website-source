@@ -16,13 +16,13 @@ function update_dimensions() {
   if (resized) {
     resized = false;
     var window_height = $(window).height();
-    var bars_size = window_height < 600 ? "2vh" : "unset";
+    var width = $(window).width();
+    var bars_size = window_height*width < 600*400 ? window_height*width/(600*400)*12 : "unset";
     top_bar.css ("font-size", bars_size);
     bottom_bar.css ("font-size", bars_size);
-    
     var game_top = top_bar.offset().top + top_bar.height();
     var game_bottom = window_height - bottom_bar.height();
-    var width = $(window).width();
+    
     var height = game_bottom - game_top;
     var result = game_width != width || game_height != height;
     game_height = height;
