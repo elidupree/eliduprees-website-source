@@ -243,7 +243,7 @@ function navigation(current) {
 function instructions() {
   $("#menu").empty().scrollTop (0).append (
     $("<h1>").text ("Welcome to Hexy Bondage!"),
-    $("<p>").html(`Hexy Bondage is a sexual game for two players (or more) to play together on the same device. It's a web version of <a href="/hexy-classic">a board game I wrote four years earlier</a>.`),
+    $("<p>").html(`Hexy Bondage is a sexual game for two players (or more) to play together on the same device. It's based on <a href="/hexy-classic">a printable board game I designed four years earlier</a>.`),
     
     $("<p>").text ("This web game works best in Chrome. Firefox may have some display errors, and I haven't tested in other browsers."),
     $("<h2>").text ("Instructions"),
@@ -315,7 +315,21 @@ function connections() {
   connection_type ("A player's hand/foot to a <em>different</em> player's torso, crotch, or foot: The first player gets a chance to use their hands/feet to stimulate the other body part.", [["g5301", "g5180"], ["g5285", "g5257"], ["g5028", "g5196"]]);
   connection_type ("A player's body part to a toybox: That player must choose a toy to be used on them. (Insert a dildo? Attach nipple clamps? Put on a collar?)", [["g5337", "g7382"], ["g5273", "g5136"], ["g7325", "g6990"]]);
   connection_type ("A player's torso/crotch to anything that doesn't have some other effect: That player removes a piece of clothing from that area. (If you connect the same player's torso and crotch together, they choose what to remove.).", [["g5020", "g5112"], ["g7155", "g5043"], ["g5104", "g5269"]]);
-  $("#menu").append ( 
+  $("#menu").append (
+    $("<div>", {class: "connection_type"}).append (
+    $("<p>").html("Any icons through a lock: Tie all those things together, regardless of the normal connection rules. Be creative. (If you're tied to another player, you still have to let them play their turns, as long as it's physically possible. Also, locks currently aren't included in corridor mode)"),
+    $("<div>", {class: "fake_boards"}).append (
+      draw_fake_board ([
+        {tile_id: "g5096", horizontal: 2, vertical: 0, rotation: 1, player: default_players [1]},
+        {tile_id: "g7166", horizontal: 0, vertical: 2, rotation: 1, player: default_players [1]},
+        {tile_id: "g5172", horizontal: 2, vertical: 2, rotation: 0, player: default_players [0]},
+        {tile_id: "g5265", horizontal: -1, vertical: -1, rotation: 5},
+        {tile_id: "g8571", horizontal: 1, vertical: -1, rotation: 2},
+        {tile_id: "g8261", horizontal: 1, vertical: 1, rotation: 1},
+        {tile_id: "g10573", horizontal: 0, vertical: 0, rotation: 1, paths:[{direction:5, fill: legality_fill.success [0]}]}
+      ]),
+    )
+    ),
     navigation("connections")
   );
 }

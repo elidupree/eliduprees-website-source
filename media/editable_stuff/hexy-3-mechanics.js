@@ -77,8 +77,8 @@
     g10195: {connections: [3, 4, dead, 0, 1, icon], offset: {horizontal: 20, vertical: 1036.862-18}, weight: 0},
     g10315: {connections: [2, 4, 0, dead, 1, icon], offset: {horizontal: 20, vertical: 1036.862-20}, weight: 0},
     g10325: {connections: [icon, 4, dead, 5, 1, 3], offset: {horizontal: 20, vertical: 1036.862-22}, weight: 0},
-    g10573: {connections: [lock, lock, lock, 5, lock, 3], lock: true, offset: {horizontal: 20, vertical: 1012.862}, weight: 1},
-    g10495: {connections: [2, 3, 0, 1, lock, lock], lock: true, offset: {horizontal: 20, vertical: 1010.862}, weight: 3},
+    g10573: {connections: [lock, lock, lock, 5, lock, 3], lock: true, offset: {horizontal: 20, vertical: 1012.862}, weight: 100},
+    g10495: {connections: [2, 3, 0, 1, lock, lock], lock: true, offset: {horizontal: 20, vertical: 1010.862}, weight: 300},
   };
   document.getElementById ("use10453").style.setProperty ("--path-fill", "var(--path-fill-lock)");
   document.getElementById ("use15461").style.setProperty ("--path-fill", "var(--path-fill-lock)");
@@ -307,6 +307,7 @@
   function describe_tile_icon(tile, extras) {
     extras = extras || {};
     var kind = tile.icon.icon;
+    if (extras.kind_overrides) {kind = extras.kind_overrides [kind] || kind;}
     if (tile.icon.side) { kind = tile.icon.side+" "+kind; }
     if (extras.general_area && general_areas [tile.icon.icon]) {kind = general_areas [tile.icon.icon];}
     if (kind === "toybox") { kind = "a toybox"; }
@@ -347,6 +348,9 @@
     
     function tie(icons, victim, hypothetical_override, message_override, success_action) {
       var success_option = {text: success_message, action: success_action};
+      var default_extras = {kind_overrides: {"toybox": "a toy of some sort"}};
+      var pronoun_extras =_.clone (default_extras);
+      pronoun_extras.pronoun = true;
       if (victim && !success_action) {
         icons.sort(function(a, b) {
   var nameA = a.icon.id;
@@ -365,8 +369,8 @@
         var index = icons.map (icon => icon.icon.id).join ("_")+"_tied";
         if (game.players [victim.index] [index]) {
           return {
-            hypothetical:`${victim.name} will have to skip two turns because ${describe_tile_icon(icons [0], {pronoun: true})} is already tied to ${describe_tile_icon(icons [1], {pronoun: true})}`,
-            message:`${describe_tile_icon(icons [0])} is already tied to ${describe_tile_icon(icons [1])}`,
+            hypothetical:`${victim.name} will have to skip two turns because ${describe_tile_icon(icons [0], pronoun_extras)} is already tied to ${describe_tile_icon(icons [1], pronoun_extras)}`,
+            message:`${describe_tile_icon(icons [0], default_extras)} is already tied to ${describe_tile_icon(icons [1], default_extras)}`,
             options: [
               fail_option (victim, "Drat")
             ]
@@ -376,21 +380,21 @@
       }
       if (icons.length === 2) {
         return {
-          hypothetical: hypothetical_override || `${describe_tile_icon(icons [0])} will be tied to ${describe_tile_icon(icons [1])}`,
-          message: message_override || `Tie ${describe_tile_icon(icons [0])} to ${describe_tile_icon(icons [1])}`,
+          hypothetical: hypothetical_override || `${describe_tile_icon(icons [0], default_extras)} will be tied to ${describe_tile_icon(icons [1], default_extras)}`,
+          message: message_override || `Tie ${describe_tile_icon(icons [0], default_extras)} to ${describe_tile_icon(icons [1], default_extras)}`,
           options: [success_option, fail_option (victim, "That's physically impossible")]
         };
       }
       else {
-        var hypothetical = describe_tile_icon(icons [0]);
-        var result = `Tie together ${describe_tile_icon(icons [0])}`
+        var hypothetical = describe_tile_icon(icons [0], default_extras);
+        var result = `Tie together ${describe_tile_icon(icons [0]), default_extras}`
         for (var index = 1; index <icons.length - 1;++index) {
-          hypothetical += `, ${describe_tile_icon(icons [index])}`
-          result += `, ${describe_tile_icon(icons [index])}`
+          hypothetical += `, ${describe_tile_icon(icons [index], default_extras)}`
+          result += `, ${describe_tile_icon(icons [index], default_extras)}`
         }
         return {
-          hypothetical: hypothetical + `, and ${describe_tile_icon(icons [icons.length - 1])} will be tied together`,
-          message: result+ `, and ${describe_tile_icon(icons [icons.length - 1])}`,
+          hypothetical: hypothetical + `, and ${describe_tile_icon(icons [icons.length - 1], default_extras)} will be tied together`,
+          message: result+ `, and ${describe_tile_icon(icons [icons.length - 1], default_extras)}`,
           options: [success_option, fail_option (victim, "That's physically impossible or meaningless")]
         };
       }
