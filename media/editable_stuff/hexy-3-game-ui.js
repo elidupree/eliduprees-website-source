@@ -226,6 +226,7 @@ function draw_game (game) {
       tiles:{},
       tiles_list: [],
       touches: {},
+      time_since_last_touch: 999,
       frame: 0,
     };
     drawn.element = $("<div>", {id:"game_"+game.id,class:"game" });
@@ -266,7 +267,7 @@ function draw_game (game) {
     drawn.mouse_rounded = {horizontal: 0, vertical: 0, rotation: 0};
     drawn.rotation_target = 0;
     drawn.svg.addEventListener("mousemove", function (event) {
-      if (!drawn.touch_holding_tile) {
+      if (drawn.time_since_last_touch > 5) {
         drawn.svg_offset = $(drawn.svg).offset();
         drawn.mouse_visual.horizontal = visual_horizontal_from_pageX (event.pageX);
         drawn.mouse_visual.vertical = visual_vertical_from_pageY (event.pageY);
@@ -275,13 +276,20 @@ function draw_game (game) {
     });
     
     drawn.svg.addEventListener("click", function (event) {
-      // TODO: only if it's on the title
-      if (event.button == 0 && floating_tile_playable()) {
+      if (!drawn.floating_tile) {return;}
+      if (event.button !== 0) {return;}
+      var location =move_to_nearest_hex (visual_to_exact ({horizontal:visual_horizontal_from_pageX (event.pageX), vertical:visual_vertical_from_pageY (event.pageY)}));
+      if (floating_tile_playable() && (
+            location.horizontal === drawn.floating_tile.horizontal && location.vertical === drawn.floating_tile.vertical
+          )) {
         var legality = placement_results (game, drawn.floating_tile, get_floating_tile_paths()).legality;
         if (legality !== "forbidden" && legality !== "waste") {
           place_floating_tile (game, drawn.floating_tile);
           autosave_game (game);
         }
+      }
+      else {
+        drawn.tile_hover_location = visual_position (location);
       }
     });
     
@@ -297,6 +305,7 @@ function draw_game (game) {
     drawn.svg.addEventListener("touchstart", function (event) {
       drawn.svg_offset = $(drawn.svg).offset();
       var touches = event.changedTouches;
+      drawn.time_since_last_touch = 0;
       for (var i = 0; i < touches.length; i++) {
         var touch = touches[i];
         var info = drawn.touches [touch.identifier] = {};
@@ -313,6 +322,7 @@ function draw_game (game) {
     });
     drawn.svg.addEventListener("touchmove", function (event) {
       drawn.svg_offset = $(drawn.svg).offset();
+      drawn.time_since_last_touch = 0;
       var touches = event.changedTouches;
       for (var i = 0; i < touches.length; i++) {
         var touch = touches[i];
@@ -325,6 +335,7 @@ function draw_game (game) {
     });
     drawn.svg.addEventListener("touchend", function (event) {
       drawn.svg_offset = $(drawn.svg).offset();
+      drawn.time_since_last_touch = 0;
       var touches = event.changedTouches;
       for (var i = 0; i < touches.length; i++) {
         var touch = touches[i];
@@ -342,6 +353,7 @@ function draw_game (game) {
   }
   
   ++drawn.frame;
+  ++drawn.time_since_last_touch;
   
   if (drawn.tile_hover_location) {
     var cycle = turn*drawn.frame/(frames_per_second*2);
