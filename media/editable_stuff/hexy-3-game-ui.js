@@ -468,6 +468,36 @@ function draw_game (game) {
   }
   
   if (floating_changed) {
+    if (mode.fog_tiles) {
+      drawn.fog_tiles = drawn.fog_tiles || {};
+      var fog_tiles =mode.fog_tiles (game);
+      Object.getOwnPropertyNames (fog_tiles).forEach(function(index) {
+        var tile = fog_tiles [index];
+        var drawn_tile = get_tile (drawn.fog_tiles, tile);
+        if (drawn_tile === undefined) {
+          tile.tile_id = blank_hex_id;
+          tile.rotation = 0;
+          drawn_tile = create_drawn_tile (tile);
+          set_tile (drawn.fog_tiles, drawn_tile);
+          position_drawn_tile (drawn, drawn_tile);
+          console.log (tile, drawn_tile);
+          drawn_tile.element.style.setProperty ("--hex-fill-opacity", tile.opacity);
+          drawn.board.appendChild (drawn_tile.element);
+        }
+        else if (scale_changed) {
+          position_drawn_tile (drawn, drawn_tile);
+        }
+        drawn_tile.frame_existed = drawn.frame;
+      });
+      Object.getOwnPropertyNames (drawn.fog_tiles).forEach(function(index) {
+        var tile = drawn.fog_tiles [index];
+        if (tile.frame_existed !== drawn.frame) {
+          $(tile.element).remove();
+          remove_tile (drawn.fog_tiles, tile);
+        }
+      });
+    }
+    
     delete drawn.floating_tile;
     delete drawn.touch_holding_tile;
     $(".floating_tile_"+game.id).remove();

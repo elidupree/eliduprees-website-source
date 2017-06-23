@@ -293,6 +293,31 @@
         }
         return location.horizontal === 0 || location.horizontal === 1;
       },
+      fog_tiles: function (game) {
+        var result = {};
+        for (var direction = 0; direction <6; direction += 3) {
+          var location = {};
+          
+          for (location.horizontal = -2; location.horizontal <= 3; ++location.horizontal) {
+            location.vertical = location.horizontal % 2;
+            if (location.horizontal === 0 || location.horizontal === 1) {
+              while (game_modes.corridor.location_playable (game, location)) {location = in_direction (location, direction);}
+            } else {
+              while (get_tile (game.tiles, location)) {location = in_direction (location, direction);}
+            }
+            for (var whatever = 0; whatever <3;++whatever) {
+              if (location.horizontal === 0 || location.horizontal === 1) {
+                location.opacity = "0.5";
+              } else {
+                location.opacity = "0.7";
+              }
+              set_tile (result,_.clone (location));
+              location = in_direction (location, direction);
+            }
+          }
+        }
+        return result;
+      },
       on_turn_start: function (game) {
       
       
