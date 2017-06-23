@@ -473,6 +473,7 @@ function draw_game (game) {
     $(".floating_tile_"+game.id).remove();
     if (game.floating_tile) {
       var tile = game.floating_tile;
+      drawn.mouse_exact.rotation = drawn.mouse_rounded.rotation = drawn.rotation_target = tile.rotation;
       drawn.floating_tile = create_drawn_tile (tile);
       drawn.floating_tile.element.classList.add("floating_tile_"+game.id);
       drawn.board.appendChild (drawn.floating_tile.element);
