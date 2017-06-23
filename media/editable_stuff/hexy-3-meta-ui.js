@@ -121,7 +121,7 @@ function make_game_setup_area (initial_settings) {
       player.based_on = (fill.red + fill.green + fill.blue >stroke.red + stroke.green + stroke.blue) && "white" || "black";
     }
     function update_player_name() {
-      var input = escape_string (player_info.name_input.val());
+      var input = escape_string (player_info.name_input.val()).trim();
       if (players.every (existing => existing.name !== input)) {
         player.name = input;
       } else {
