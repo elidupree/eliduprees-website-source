@@ -620,6 +620,8 @@ function undraw_game (game) {
     if (drawn) {
       drawn.element.remove();
       delete drawn_games [game.id];
+      document.documentElement.style.setProperty ("--meta-fill", "unset");
+      document.documentElement.style.setProperty ("--meta-stroke", "unset");
     }
   }
 }
