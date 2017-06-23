@@ -345,7 +345,7 @@ input[type="button"]:hover,.fake_button:hover {
   overflow: auto;
 }
 h1 {font-size: 200%;}
-h2 {font-size: 150%;}
+h2 {font-size: 150%; margin: 0.5em;}
 #menu p {}
 #menu ul {text-align: left; line-height: 1.35em;}
 #menu_navigation {

@@ -351,6 +351,19 @@ function before_playing() {
 }
 function game_menu() {
   var save_box;
+  var connection_effects = $("<div>");
+  var cheats = $("<div>");
+  global_game.completed_effects.forEach(function(effect) {
+    connection_effects.append($("<div>").html(effect.effect + " (Result: " + effect.result + ")"));
+  });
+  global_game.players.forEach(function(player) {
+    if (player.eliminated) {
+      cheats.append($("<input>", {type: "button", value: `Un-eliminate ${player.name}`}).click (function() {
+        delete player.eliminated;
+        close_menu();
+      }));
+    }
+  });
   $("#menu").empty().scrollTop (0).append (
     $("<p>").text ("Save string (copy this somewhere to save the game, or paste here to load one):"),
     save_box = $("<input>", {type: "text", value: save_game (global_game)}).click (function() {
@@ -368,6 +381,11 @@ function game_menu() {
       close_menu();
       show_menu();
     }),
+    $("<h2>").text ("Connection effects completed so far"),
+    connection_effects,
+    $("<h2>").text ("Cheats"),
+    $("<p>").text ("These cheats allow you to control the game in additional ways, if all players agree to it. (Currently, the only cheat is to restore players who have been eliminated.)"),
+    cheats,
     navigation("game_menu")
   );
 }

@@ -664,6 +664,7 @@
       next_tile_key: 55,
       id: Math.floor(Math.random()*90000000),
       available_icons: 0,
+      completed_effects: [],
     };
     game.settings.players.forEach(function(player, index) {
       player.index = index;
@@ -704,8 +705,9 @@
     
   function answer_prompt (game, option) {
     
-    game.prompt_stack.pop();
+    var prompt = game.prompt_stack.pop();
     if (option.action) {effect_actions[option.action[0]] (game, option.action);}
+    game.completed_effects.push ({effect: prompt.message, result: option.text});
     begin_turn (game);
 
   }
