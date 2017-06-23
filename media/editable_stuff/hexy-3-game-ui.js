@@ -557,10 +557,15 @@ function draw_game (game) {
     }
     
     if (no_message) {
-    drawn.message_contents.append ($("<div>", {role: "button", class: "prompt_option fake_button"}).html (`(click here if ${current_player (game).name} is unable to play)`).on("click", function() {
-      eliminate_current_player (game);
-      autosave_game (game);
-    }));
+      if (game.players.reduce ((count, player) => player.eliminated? count: count + 1, 0) === 1) {
+        drawn.message_contents.append (`<p>${current_player (game).name} is the only player left. They win! You can keep placing tiles if you want.</p>`) ;
+      } else {
+        drawn.message_contents.append (`<p>Mouse/touch-and-drag to position the tile. Buttons or arrow keys to rotate. Tap to place it.</p>`) ;
+        drawn.message_contents.append ($("<div>", {role: "button", class: "prompt_option fake_button"}).html (`(click here if ${current_player (game).name} is unable to play)`).on("click", function() {
+          eliminate_current_player (game);
+          autosave_game (game);
+        }));
+      }
     }
   }
   
