@@ -11,6 +11,7 @@ var game_width;
 var resized = true;
 $(window).resize (function() {
   resized = true;
+  if (global_menu) { resize_menu_navigation(); }
 });
 function update_dimensions() {
   if (resized) {
