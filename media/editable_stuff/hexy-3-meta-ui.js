@@ -241,7 +241,11 @@ function navigation(current) {
   resize_menu_navigation();
 }
 function resize_menu_navigation() {
-  $("#menu_contents").outerHeight ($("#menu").height() - $("#menu_navigation").outerHeight(true));
+  $("#menu_navigation").css({position: "unset"});
+  var navigation_height = $("#menu_navigation").outerHeight(true);
+  var menu_height = $("#menu").height();
+  $("#menu_navigation").css({position: "absolute", left: 0, right: 0, top: menu_height - navigation_height, bottom: 0, "border-bottom-left-radius":"4vh","border-bottom-right-radius":"4vh",});
+  $("#menu_contents").css({position: "absolute", left: 0, right: 0, bottom: navigation_height, top: 0});
 }
 
 function instructions() {

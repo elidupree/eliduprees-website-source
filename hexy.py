@@ -343,7 +343,7 @@ input[type="button"]:hover,.fake_button:hover {
 #menu {
   position: fixed;
   left: 5%; right: 5%; top: 8%; bottom: 5%;
-  border: 1.5vh solid black; border-radius: 6vh; padding: 2vh;
+  border: 1.5vh solid black; border-radius: 6vh;
   box-shadow: 10px 5px 15px #fff;
   background-color: white;
   --meta-stroke: black;
@@ -355,10 +355,12 @@ h2 {font-size: 150%; margin: 0.5em;}
 #menu p {}
 #menu ul {text-align: left; line-height: 1.35em;}
 #menu_contents {
+  padding: 2vh;
   overflow: auto;
 }
 #menu_navigation {
   padding: 0.8em 0.2em;
+  background-color: #aaa;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
