@@ -203,7 +203,7 @@ function make_game_setup_area (initial_settings) {
 }
 
 function navigation(current) {
-  var result = $("<div>", {id: "menu_navigation"});
+  var result = $("<div>");
   if (current !== "instructions") {result.append (
     $("<input>", {type: "button", value: "Back to instructions"}).click (function() {
       instructions();
@@ -237,11 +237,15 @@ function navigation(current) {
     })
   );}
   
-  return result;
+  $("#menu_navigation").empty().append (result);
+  resize_menu_navigation();
+}
+function resize_menu_navigation() {
+  $("#menu_contents").outerHeight ($("#menu").height() - $("#menu_navigation").outerHeight(true));
 }
 
 function instructions() {
-  $("#menu").empty().scrollTop (0).append (
+  $("#menu_contents").empty().scrollTop (0).append (
     $("<h1>").text ("Welcome to Hexy Bondage!"),
     $("<p>").html(`Hexy Bondage is a sexual game for two players (or more) to play together on the same device. It's based on <a href="/hexy-classic">a printable board game I designed four years earlier</a>.`),
     
@@ -266,10 +270,9 @@ function instructions() {
 
     $("<p>").text ("When you finish a connection, you do something in real life. Some connections make the players get tied up. When you're too tied up to play your turns, you lose the game!"),
   
-    $("<p>").text ("Other connections can make players remove clothing, have toys used on them, or allow other players to stimulate them in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of toys and stimulation they want."),
-    
-    navigation("instructions")
+    $("<p>").text ("Other connections can make players remove clothing, have toys used on them, or allow other players to stimulate them in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of toys and stimulation they want.")
   );
+  navigation("instructions");
 }
 function connections() {
   function orient (tile, direction) {
@@ -303,9 +306,9 @@ function connections() {
     pairs.forEach(function(pair) {
       boards.append (connection (pair[0], pair[1]));
     });
-    $("#menu").append (area);
+    $("#menu_contents").append (area);
   }
-  $("#menu").empty().scrollTop (0).append (
+  $("#menu_contents").empty().scrollTop (0).append (
     $("<h1>").text ("If you connect…")
   );
   connection_type ("Any body part to furniture: Tie that body part to a piece of furniture.", [["g5084", "g5265"], ["g5273", "g5265"], ["g4979", "g6990"]]);
@@ -315,7 +318,7 @@ function connections() {
   connection_type ("A player's hand/foot to a <em>different</em> player's torso, crotch, or foot: The first player gets a chance to use their hands/feet to stimulate the other body part.", [["g5301", "g5180"], ["g5285", "g5257"], ["g5028", "g5196"]]);
   connection_type ("A player's body part to a toybox: That player must choose a toy to be used on them. (Insert a dildo? Attach nipple clamps? Put on a collar?)", [["g5337", "g7382"], ["g5273", "g5136"], ["g7325", "g6990"]]);
   connection_type ("A player's torso/crotch to anything that doesn't have some other effect: That player removes a piece of clothing from that area. (If you connect the same player's torso and crotch together, they choose what to remove.).", [["g5020", "g5112"], ["g7155", "g5043"], ["g5104", "g5269"]]);
-  $("#menu").append (
+  $("#menu_contents").append (
     $("<div>", {class: "connection_type"}).append (
     $("<p>").html("Any icons through a lock: Tie all those things together, regardless of the normal connection rules. Be creative. (If you're tied to another player, you still have to let them play their turns, as long as it's physically possible. Also, locks currently aren't included in corridor mode)"),
     $("<div>", {class: "fake_boards"}).append (
@@ -329,12 +332,12 @@ function connections() {
         {tile_id: "g10573", horizontal: 0, vertical: 0, rotation: 1, paths:[{direction:5, fill: legality_fill.success [0]}]}
       ]),
     )
-    ),
-    navigation("connections")
+    )
   );
+  navigation("connections");
 }
 function before_playing() {
-  $("#menu").empty().scrollTop (0).append (
+  $("#menu_contents").empty().scrollTop (0).append (
     $("<p>").text ("Ready to play a game with your partner(s)?"),
     $("<ul>", {class: "big_list"}).append (
       $("<li>").text ("Get plenty of things to tie people up with. (Rope? Handcuffs? Clothing?) Find a place to play with furniture nearby, where you could keep playing even if everyone has an arm or leg tied to it. Keep scissors nearby in case of emergencies. (Preferably medical scissors.)"),
@@ -346,8 +349,8 @@ function before_playing() {
       $("<li>").text ("Set up the players below and have fun!")
     ),
     make_game_setup_area (global_game && global_game.settings || {mode: "corridor", players: default_players.slice (0, 2)}),
-    navigation("start_game")
   );
+  navigation("start_game");
 }
 function game_menu() {
   var save_box;
@@ -364,7 +367,7 @@ function game_menu() {
       }));
     }
   });
-  $("#menu").empty().scrollTop (0).append (
+  $("#menu_contents").empty().scrollTop (0).append (
     $("<p>").text ("Save string (copy this somewhere to save the game, or paste here to load one):"),
     save_box = $("<input>", {type: "text", value: save_game (global_game)}).click (function() {
       save_box[0].select();
@@ -385,27 +388,27 @@ function game_menu() {
     connection_effects,
     $("<h2>").text ("Cheats"),
     $("<p>").text ("These cheats allow you to control the game in additional ways, if all players agree to it. (Currently, the only cheat is to restore players who have been eliminated.)"),
-    cheats,
-    navigation("game_menu")
+    cheats
   );
+  navigation("game_menu");
 }
 
 function comments() {
-  $("#menu").empty().scrollTop (0).append (
-    navigation("comments"),
-    
+  $("#menu_contents").empty().scrollTop (0).append (
     $("<h1>").text ("Comments"),
-    comments_area,
-    
-    navigation("comments"),
+    comments_area
   );
+  navigation("comments");
 }
 
 function show_menu() {
   $("#content").append (
     $("<div>", {id: "menu_wrapper"}).css ("top", top_bar.outerHeight()).click (function(event) {if (global_game) {event.stopPropagation(); close_menu();}})
     .append (
-      global_menu = $("<div>", {id: "menu", class: global_game? "game_exists" : "no_game"}).click (event => event.stopPropagation())
+      global_menu = $("<div>", {id: "menu", class: global_game? "game_exists" : "no_game"}).click (event => event.stopPropagation()).append(
+        $("<div>", {id: "menu_contents"}),
+        $("<div>", {id: "menu_navigation"})
+      )
     )
   );
   global_game ? game_menu() : instructions();

@@ -258,7 +258,13 @@ button {
       r'''
 <style>
 
-html,body {background-color: var(--meta-fill); --hex-fill: #ffffff; --hex-stroke: transparent;}
+html,body {
+  background-color: var(--meta-fill);
+  --hex-fill: #ffffff;
+  --hex-stroke: transparent;
+  --meta-stroke: black;
+  --meta-fill: #ccc;
+}
 .game_svg {
   display: block;
   /*margin: 0 auto;*/
@@ -338,19 +344,21 @@ input[type="button"]:hover,.fake_button:hover {
   position: fixed;
   left: 5%; right: 5%; top: 8%; bottom: 5%;
   border: 1.5vh solid black; border-radius: 6vh; padding: 2vh;
+  box-shadow: 10px 5px 15px #fff;
   background-color: white;
   --meta-stroke: black;
   --meta-fill: white;
   text-align: center;
-  overflow: auto;
 }
 h1 {font-size: 200%;}
 h2 {font-size: 150%; margin: 0.5em;}
 #menu p {}
 #menu ul {text-align: left; line-height: 1.35em;}
+#menu_contents {
+  overflow: auto;
+}
 #menu_navigation {
-  margin-top: 1.5em;
-  margin-bottom: 0.8em;
+  padding: 0.8em 0.2em;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
