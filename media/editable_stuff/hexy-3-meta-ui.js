@@ -269,7 +269,7 @@ function instructions() {
         {tile_id: "g8261", horizontal: 0, vertical: 0, rotation: 5},
         {tile_id: "g8571", horizontal: 1, vertical: -1, rotation: 2},
         {tile_id: "g5188", horizontal: 2, vertical: 0, rotation: 0, player: default_players [1], paths:[{direction:5, fill: legality_fill.success [0]}]}
-      ]),
+      ])
     ),
 
     $("<p>").text ("When you finish a connection, you do something in real life. Some connections make the players get tied up. When you're too tied up to play your turns, you lose the game!"),
