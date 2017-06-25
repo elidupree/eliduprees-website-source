@@ -11,95 +11,97 @@ import xml.etree.ElementTree as XML
 import subprocess
 
 def build_hexy():
-source_svg = ""
-tile_ids = []
-used_ids = {}
-with open ("./hexy_source/game.svg", encoding = "utf-8") as source_svg_file:
-  source_svg = source_svg_file.read()
-with open ("./hexy_source/tile_ids_hack.svg", encoding = "utf-8") as something:
-  for match in re.finditer(r'''id="(g\d*?)"''', something.read()):
-    id = match.group (1)
-    if id != "layer1":
-      tile_ids.append (match.group (1))
+  source_svg = ""
+  tile_ids = []
+  used_ids = {}
+  with open ("./hexy_source/game.svg", encoding = "utf-8") as source_svg_file:
+    source_svg = source_svg_file.read()
+  with open ("./hexy_source/tile_ids_hack.svg", encoding = "utf-8") as something:
+    for match in re.finditer(r'''id="(g\d*?)"''', something.read()):
+      id = match.group (1)
+      if id != "layer1":
+        tile_ids.append (match.group (1))
 
-elements_by_id = {}
+  elements_by_id = {}
 
-svg_id = "id"
-XML.register_namespace("","http://www.w3.org/2000/svg")
-XML.register_namespace("sodipodi","http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd")
-XML.register_namespace("xlink","http://www.w3.org/1999/xlink")
-XML.register_namespace("inkscape","http://www.inkscape.org/namespaces/inkscape")
-XML.register_namespace("cc","http://creativecommons.org/ns#")
-modified = XML.fromstring (source_svg)
+  svg_id = "id"
+  XML.register_namespace("","http://www.w3.org/2000/svg")
+  XML.register_namespace("sodipodi","http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd")
+  XML.register_namespace("xlink","http://www.w3.org/1999/xlink")
+  XML.register_namespace("inkscape","http://www.inkscape.org/namespaces/inkscape")
+  XML.register_namespace("cc","http://creativecommons.org/ns#")
+  modified = XML.fromstring (source_svg)
 
-for element in modified.findall (".//*[@"+svg_id+"]"):
-  elements_by_id [element.get (svg_id)] = element
+  for element in modified.findall (".//*[@"+svg_id+"]"):
+    elements_by_id [element.get (svg_id)] = element
 
-def find(element):
-  id = element.get (svg_id)
-  if id not in used_ids:
-    used_ids [id] = True
-    link = element.get ("{http://www.w3.org/1999/xlink}href")
-    if link:
-      find (elements_by_id[link[1:]])
-    style = element.get ("style")
-    if style:
-      for referenced in re.finditer(r'url\(#(.*?)\)', style):
-        find (elements_by_id [referenced.group (1)])
-      element.set ("style", re.sub(r'fill:#808080', "fill:var(--path-fill)", style))
-    style = element.get ("clip-path")
-    if style:
-      for referenced in re.finditer(r'url\(#(.*?)\)', style):
-        find (elements_by_id [referenced.group (1)])
-    for descendent in element.iter():
-      find (descendent)
+  def find(element):
+    id = element.get (svg_id)
+    if id not in used_ids:
+      used_ids [id] = True
+      link = element.get ("{http://www.w3.org/1999/xlink}href")
+      if link:
+        find (elements_by_id[link[1:]])
+      style = element.get ("style")
+      if style:
+        for referenced in re.finditer(r'url\(#(.*?)\)', style):
+          find (elements_by_id [referenced.group (1)])
+        element.set ("style", re.sub(r'fill:#808080', "fill:var(--path-fill)", style))
+      style = element.get ("clip-path")
+      if style:
+        for referenced in re.finditer(r'url\(#(.*?)\)', style):
+          find (elements_by_id [referenced.group (1)])
+      for descendent in element.iter():
+        find (descendent)
 
-for id in tile_ids:
-  find (elements_by_id [id])
-find (elements_by_id ["path16699-3"])
+  for id in tile_ids:
+    find (elements_by_id [id])
+  find (elements_by_id ["path16699-3"])
 
-modified.remove (elements_by_id ["layer1"])
-elements_by_id ["defs4"].append(elements_by_id ["layer1"])
+  modified.remove (elements_by_id ["layer1"])
+  elements_by_id ["defs4"].append(elements_by_id ["layer1"])
 
-def prune (element):
-  if (False
-  #or element.tag == "{http://www.w3.org/2000/svg}metadata"
-  #or element.tag == "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}namedview"
-  ):
-    return True
-  
-  self_used = (element.get (svg_id) in used_ids)
-  for child in element.findall("*"):
-    child_used = (child.get (svg_id) in used_ids) or prune (child)
-    if child_used:
-      self_used = True
-    else:
-      element.remove (child)
-  return self_used
+  def prune (element):
+    if (False
+    #or element.tag == "{http://www.w3.org/2000/svg}metadata"
+    #or element.tag == "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}namedview"
+    ):
+      return True
+    
+    self_used = (element.get (svg_id) in used_ids)
+    for child in element.findall("*"):
+      child_used = (child.get (svg_id) in used_ids) or prune (child)
+      if child_used:
+        self_used = True
+      else:
+        element.remove (child)
+    return self_used
 
-prune (modified)
-modified.set ("style", "display: none")
+  prune (modified)
+  modified.set ("style", "display: none")
 
-text_ids = []
-for element in modified.findall (".//text"):
-  text_ids.append(element.get (svg_id))
-  
-trimmed_svg = XML.tostring (modified, encoding = "unicode", method = "html")
+  text_ids = []
+  for element in modified.findall (".//*[@"+svg_id+"]"):#for element in modified.findall (".//text"):
+    if element.tag == "{http://www.w3.org/2000/svg}text":
+      text_ids.append(element.get (svg_id))
+    
+  trimmed_svg = XML.tostring (modified, encoding = "unicode", method = "html")
 
-with open ("./hexy_generated/trimmed.svg", "w", encoding = "utf-8") as dst_svg_file:
-  print (trimmed_svg, file=dst_svg_file)
+  with open ("./hexy_generated/trimmed.svg", "w", encoding = "utf-8") as dst_svg_file:
+    print (trimmed_svg, file=dst_svg_file)
 
-Inkscape_commands = ["inkscape"]
-for id in text_ids:
-  Inkscape_commands.extend ([
-    "--select=" + id,
-    "--verb", "ObjectToPath",
-  ])
-Inkscape_commands.extend (["--verb", "FileSave", "--verb", "FileClose", "./hexy_generated/trimmed.svg"])
-subprocess.run (Inkscape_commands)
+  Inkscape_commands = ["inkscape"]
+  for id in text_ids:
+    Inkscape_commands.extend ([
+      "--select=" + id,
+      "--verb", "ObjectToPath",
+    ])
+  Inkscape_commands.extend (["--verb", "FileSave", "--verb", "FileClose", "--verb", "FileQuit", "./hexy_generated/trimmed.svg"])
+  print(Inkscape_commands)
+  subprocess.run (Inkscape_commands)
 
-with open ("./hexy_generated/trimmed.svg", "r", encoding = "utf-8") as dst_svg_file:
-  trimmed_svg = dst_svg_file.read()
+#with open ("./hexy_generated/trimmed.svg", "r", encoding = "utf-8") as dst_svg_file:
+#  trimmed_svg = dst_svg_file.read()
 
 blurb = "A sexual board game for two or more players"
 	  
