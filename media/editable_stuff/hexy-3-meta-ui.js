@@ -259,7 +259,7 @@ function instructions() {
     $("<div>", {class: "fake_boards"}).append (
       draw_fake_board ([{tile_id: "g8043", horizontal: 0, vertical: 0, rotation: 0}]),
       draw_fake_board ([{tile_id: "g8261", horizontal: 0, vertical: 0, rotation: 0}]),
-      draw_fake_board ([{tile_id: "g8571", horizontal: 0, vertical: 0, rotation: 0}]),
+      draw_fake_board ([{tile_id: "g8571", horizontal: 0, vertical: 0, rotation: 0}])
     ),
     $("<p>").text ("Your goal is to connect different icons together, like this:"),
   
