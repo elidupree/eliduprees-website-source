@@ -10,17 +10,18 @@ import re
 import xml.etree.ElementTree as XML
 import subprocess
 
+tile_ids = []
+with open ("./hexy_source/tile_ids_hack.svg", encoding = "utf-8") as something:
+  for match in re.finditer(r'''id="(g\d*?)"''', something.read()):
+    id = match.group (1)
+    if id != "layer1":
+      tile_ids.append (match.group (1))
+
 def build_hexy():
   source_svg = ""
-  tile_ids = []
   used_ids = {}
   with open ("./hexy_source/game.svg", encoding = "utf-8") as source_svg_file:
     source_svg = source_svg_file.read()
-  with open ("./hexy_source/tile_ids_hack.svg", encoding = "utf-8") as something:
-    for match in re.finditer(r'''id="(g\d*?)"''', something.read()):
-      id = match.group (1)
-      if id != "layer1":
-        tile_ids.append (match.group (1))
 
   elements_by_id = {}
 
@@ -100,8 +101,8 @@ def build_hexy():
   print(Inkscape_commands)
   subprocess.run (Inkscape_commands)
 
-#with open ("./hexy_generated/trimmed.svg", "r", encoding = "utf-8") as dst_svg_file:
-#  trimmed_svg = dst_svg_file.read()
+with open ("./hexy_generated/trimmed.svg", "r", encoding = "utf-8") as dst_svg_file:
+  trimmed_svg = dst_svg_file.read()
 
 blurb = "A sexual board game for two or more players"
 	  
