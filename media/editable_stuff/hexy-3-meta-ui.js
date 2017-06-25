@@ -334,7 +334,7 @@ function connections() {
         {tile_id: "g8571", horizontal: 1, vertical: -1, rotation: 2},
         {tile_id: "g8261", horizontal: 1, vertical: 1, rotation: 1},
         {tile_id: "g10573", horizontal: 0, vertical: 0, rotation: 1, paths:[{direction:5, fill: legality_fill.success [0]}]}
-      ]),
+      ])
     )
     )
   );
@@ -352,7 +352,7 @@ function before_playing() {
   
       $("<li>").text ("Set up the players below and have fun!")
     ),
-    make_game_setup_area (global_game && global_game.settings || {mode: "corridor", players: default_players.slice (0, 2)}),
+    make_game_setup_area (global_game && global_game.settings || {mode: "corridor", players: default_players.slice (0, 2)})
   );
   navigation("start_game");
 }
