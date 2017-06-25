@@ -8,7 +8,9 @@ import exmxaxixl
 import blog
 import re
 import xml.etree.ElementTree as XML
+import subprocess
 
+def build_hexy():
 source_svg = ""
 tile_ids = []
 used_ids = {}
@@ -78,10 +80,26 @@ def prune (element):
 prune (modified)
 modified.set ("style", "display: none")
 
+text_ids = []
+for element in modified.findall (".//text"):
+  text_ids.append(element.get (svg_id))
+  
 trimmed_svg = XML.tostring (modified, encoding = "unicode", method = "html")
 
-#with open ("./hack.svg", "w", encoding = "utf-8") as dst_svg_file:
-#  print (trimmed_svg, file=dst_svg_file)
+with open ("./hexy_generated/trimmed.svg", "w", encoding = "utf-8") as dst_svg_file:
+  print (trimmed_svg, file=dst_svg_file)
+
+Inkscape_commands = ["inkscape"]
+for id in text_ids:
+  Inkscape_commands.extend ([
+    "--select=" + id,
+    "--verb", "ObjectToPath",
+  ])
+Inkscape_commands.extend (["--verb", "FileSave", "--verb", "FileClose", "./hexy_generated/trimmed.svg"])
+subprocess.run (Inkscape_commands)
+
+with open ("./hexy_generated/trimmed.svg", "r", encoding = "utf-8") as dst_svg_file:
+  trimmed_svg = dst_svg_file.read()
 
 blurb = "A sexual board game for two or more players"
 	  
