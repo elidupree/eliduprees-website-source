@@ -1473,4 +1473,18 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"a257c4fb3be621dc00fd49d36269f63e",
   "date_posted":datetime.date(2017, 3, 5)
 },
+{
+  "parent":"8dfc4e13d5962a5f10ebe2f5bc7bd44",
+  "username":"Kagar",
+  "contents":"""Does the brim serve a purpose, or is it just to make it a top hat? Do you have issues balancing it? Do you get better results from having the fan pull the air through the filter, or push it through?""",
+  "id":"7c55e401f981c5d40970b3adb5c5eb23",
+  "date_posted":datetime.date(2017, 6, 22)
+},
+{
+  "parent":"7c55e401f981c5d40970b3adb5c5eb23",
+  "username":"Eli Dupree",
+  "contents":"""There's a bit of foam padding inside the brim, which grips my head pretty securely. That lets me move my head around without the hat getting unbalanced, even though its center of mass is pretty high.<br/><br/>The fan pulls air from above my head and pushes it into the space inside the hat. From there, there is a small air passage open at the front, pointing down towards my face. The brim piece keeps that passage open, as well as helping with the grip on my head. The shape of the brim/padding matches my head closely enough to prevent air from getting out any other way.<br/><br/>The fan is sandwiched between a washable prefilter and a HEPA filter. I haven't tried any other ordering of them, because this ordering also helps keep things from getting caught in the fan (my hair, for instance). And theoretically, there's not much difference between pulling and pushing. If everything is sealed well enough, it's just the same static pressure drop either way. There might be a difference in turbulence, but it's probably small.""",
+  "id":"21547222dff536dfd0d5f0febcc9ba32",
+  "date_posted":datetime.date(2017, 6, 22)
+},
 ]
