@@ -195,8 +195,10 @@ and some paths. The paths can be used to connect icons together. Connections cau
 things to happen in real life, like tying your body parts together. A player wins
 when their “opponent” is too tied up to reach the board.
   </p>
+  <p>In June 2017, I made <a href="/hexy">a web version of Hexy Bondage for players to play together on the same device</a>. The web version is generally better than this printable version. But I'm leaving this older, printable version available in case you find it useful.</p>
   <p><a class=" important_link lesswrap" href="/hexy/hexy-bondage-rules.pdf">Read the full rules (pdf)</a></p>
   <p> <a class=" important_link lesswrap" href="/hexy/hexy-bondage-tiles.pdf">Download printable tiles</a> </p>
+  
   <p class="hidden_from_restricted_users">If you like this game, consider <a href="https://www.patreon.com/EliDupree">supporting me on Patreon</a> so that I can continue making awesome things and sharing them for free on the Internet.</p>
 </div>
 </div>
