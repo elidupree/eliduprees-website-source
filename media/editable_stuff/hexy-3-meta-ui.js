@@ -291,7 +291,7 @@ function instructions() {
     var reference_position = element => {
       var position = $(element).position().top;
       var height = $(element).outerHeight(true);
-      var middle = position + height*3/5;
+      var middle = position + height*4/7;
       return middle;
     };
     $("#menu_contents").children().each(function (index) {
