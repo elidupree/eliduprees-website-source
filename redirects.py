@@ -431,6 +431,8 @@ manual_redirects = {
   "hexybondage": "/hexy",
   "hexy-bondage": "/hexy",
   "hexy_bondage": "/hexy",
+  "hexy-future": "/hexy",
+  "hexy-future-3": "/hexy",
   "eohs": "https://www.patreon.com/EoHS",
   "Eohs": "https://www.patreon.com/EoHS",
   "EoHS": "https://www.patreon.com/EoHS",

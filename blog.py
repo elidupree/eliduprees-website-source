@@ -1008,6 +1008,7 @@ current_blog_page_extras = [
 {"title": "No blog post today", "stream_entry": ("/", "No blog post today. I have a sore in my mouth, so I can't dictate and/or type enough. I MIGHT post one on Friday if it gets better soon.")},
 {"title": "No blog post today-2", "stream_entry": ("/", "No blog post today. I have a sore in my mouth, so I can't dictate and/or type enough.")},
 {"title": "No blog post today-3", "stream_entry": ("/", "No blog post AGAIN today. This time I've had throat problems for days. :-(.")},
+{"title": "[NSFW] The web version of Hexy Bondage is finished!", "stream_entry": ("/hexy", "[NSFW] The web version of Hexy Bondage is finished!")},
 ]
 def consider_list_for_current_page (list, limit = 8):
   for index in range (1, min (1 + limit, 1 + len( list))):

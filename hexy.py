@@ -108,7 +108,7 @@ blurb = "A sexual board game for two or more players"
 	  
 def add_game(page_dict):
   utils.make_page (page_dict,
-    '/hexy',
+    '/hexy-classic',
       "Hexy Bondage ⊂ Eli Dupree's website",
       r'''
 <style>
@@ -225,6 +225,7 @@ when their “opponent” is too tied up to reach the board.
 </main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr"}
   )
   
+  """
   utils.make_page (page_dict,
     '/hexy-future',
       "Hexy Bondage ⊂ Eli Dupree's website",
@@ -272,9 +273,10 @@ button {
      <script type="text/babel" src="/media/hexy-react.js?rr">
 '''}
   )
+  """
   
   utils.make_page (page_dict,
-    '/hexy-future-3',
+    '/hexy',
       "Hexy Bondage ⊂ Eli Dupree's website",
       r'''
 <style>
