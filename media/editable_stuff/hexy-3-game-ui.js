@@ -375,8 +375,8 @@ function draw_game (game) {
   
   if (drawn.current_player !== game.current_player) {
     var colors = UI_colors (current_player (game));
-    document.documentElement.style.setProperty ("--meta-fill", colors.fill);
-    document.documentElement.style.setProperty ("--meta-stroke", colors.stroke);
+    document.body.style.setProperty ("--meta-fill", colors.fill);
+    document.body.style.setProperty ("--meta-stroke", colors.stroke);
     drawn.current_player = game.current_player;
   }
   
@@ -664,8 +664,8 @@ function undraw_game (game) {
     if (drawn) {
       drawn.element.remove();
       delete drawn_games [game.id];
-      document.documentElement.style.setProperty ("--meta-fill", "unset");
-      document.documentElement.style.setProperty ("--meta-stroke", "unset");
+      document.body.style.setProperty ("--meta-fill", "unset");
+      document.body.style.setProperty ("--meta-stroke", "unset");
     }
   }
 }
