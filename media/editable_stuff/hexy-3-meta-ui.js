@@ -254,6 +254,7 @@ function instructions() {
     $("<p>").html(`Hexy Bondage is a sexual game for two players (or more) to play together on the same device. It's based on <a href="/hexy-classic">a printable board game I designed four years earlier</a>.`),
     
     $("<p>").text ("This web game works best in Chrome. Firefox may have some display errors, and I haven't tested in other browsers."),
+    $(`<p class="hidden_from_restricted_users">If you enjoy playing this game, consider <a href="https://www.patreon.com/EliDupree"><img class="small_inline_image" src="/media/patreon-logo.png?rr" alt="" /> supporting me on Patreon</a> so that I can continue making awesome things and sharing them for free on the Internet.</p>`),
     $("<h2>").text ("Instructions"),
     $("<p>").text ("You take turns placing tiles like this:"),
     $("<div>", {class: "fake_boards"}).append (
