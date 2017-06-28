@@ -210,7 +210,7 @@ function navigation(current) {
     })
   );}
   if (current !== "connections") {result.append (
-    $("<input>", {type: "button", value: "Connection effects"}).click (function() {
+    $("<input>", {type: "button", value: "More details"}).click (function() {
       connections();
     })
   );}
@@ -249,7 +249,10 @@ function resize_menu_navigation() {
 }
 
 function instructions() {
+  var padding_trick;
+  var last;
   $("#menu_contents").empty().scrollTop (0).append (
+    padding_trick = $("<div>"),
     $("<h1>").text ("Welcome to Hexy Bondage!"),
     $("<p>").html(`Hexy Bondage is a sexual game for two players (or more) to play together on the same device. It's based on <a href="/hexy-classic">a printable board game I designed four years earlier</a>.`),
     
@@ -275,9 +278,36 @@ function instructions() {
 
     $("<p>").text ("When you finish a connection, you do something in real life. Some connections make the players get tied up. When you're too tied up to play your turns, you lose the game!"),
   
-    $("<p>").text ("Other connections can make players remove clothing, have toys used on them, or allow other players to stimulate them in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of toys and stimulation they want.")
+    last = $("<p>").text ("Other connections can make players remove clothing, have toys used on them, or allow other players to stimulate them in some way. (Groping? Tickling? Slapping?) Players should talk before the game about what kind of toys and stimulation they want.")
   );
   navigation("instructions");
+  
+  //setTimeout(function() {
+  var menu_height = $("#menu_contents").innerHeight();
+  //console.log (height, last.position().top);
+  if (last.position().top >= menu_height - 4) {
+    var best;
+    var hack;
+    var reference_position = element => {
+      var position = $(element).position().top;
+      var height = $(element).outerHeight(true);
+      var middle = position + height*3/5;
+      return middle;
+    };
+    $("#menu_contents").children().each(function (index) {
+      //console.log (this.tagName );
+      if (this.tagName === "P" || this.tagName === "H2") {
+        var middle = reference_position (this);
+        if (!best || middle <= menu_height) {
+          best = middle;
+          hack = this;
+        }
+      }
+    });
+    padding_trick.height (menu_height - best);
+    console.log (menu_height, best, reference_position (hack));
+  }
+  //}, 2000);
 }
 function connections() {
   function orient (tile, direction) {
