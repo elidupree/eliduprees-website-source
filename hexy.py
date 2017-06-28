@@ -474,7 +474,7 @@ h2 {font-size: 150%; margin: 0.5em;}
   </div>
   '''+blog.comments_section("hexy")+'''
   '''+ trimmed_svg+'''
-</main>'''), {"html_class":"hexy", "blurb": blurb + ".", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
+</main>'''), {"html_class":"hexy", "blurb": "A sexual game for two players (or more) to play together on the same device.", "blurb_image": "/media/hexy-thumbnail.png?rr", "after_body":'''
 
      <script type="text/javascript" src="/media/lodash.min.js?rr"></script>
 
