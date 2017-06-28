@@ -8,31 +8,37 @@ $(".bars_inner_box").css ("padding-bottom", 0);
 var frames_per_second = 60;
 var game_height;
 var game_width;
+var window_height;
+var window_width;
 var resized = true;
-$(window).resize (function() {
-  resized = true;
-  if (global_menu) { resize_menu_navigation(); }
-});
+
+var global_menu;
+
 function update_dimensions() {
+  window_height = $(window).height();
+  window_width = $(window).width();
+  var bars_size = window_height*window_width < 300000 ? window_height*window_width/300000*16 : "unset";
+  top_bar.css ("font-size", bars_size);
+  bottom_bar.css ("font-size", bars_size);
+
+  var game_top = top_bar.offset().top + top_bar.height();
+  var game_bottom = window_height - bottom_bar.height();
+  
+  var height = game_bottom - game_top;
+  resized = game_width != window_width || game_height != height;
+  game_height = height;
+  game_width = window_width;
+
+  if (global_menu) { resize_menu_navigation(); }
+}
+function did_update_dimensions() {
   if (resized) {
-    resized = false;
-    var window_height = $(window).height();
-    var width = $(window).width();
-    var bars_size = window_height*width < 300000 ? window_height*width/300000*16 : "unset";
-    top_bar.css ("font-size", bars_size);
-    bottom_bar.css ("font-size", bars_size);
-    var game_top = top_bar.offset().top + top_bar.height();
-    var game_bottom = window_height - bottom_bar.height();
-    
-    var height = game_bottom - game_top;
-    var result = game_width != width || game_height != height;
-    game_height = height;
-    game_width = width;
-    
-    return result;
+    resized = false;    
+    return true;
   }
 }
 update_dimensions();
+$(window).resize (update_dimensions);
 
 
 
@@ -392,7 +398,7 @@ function draw_game (game) {
     drawn.floating_tile.rotation !== drawn.mouse_exact.rotation
   ));*/
   
-  var dimensions_changed = update_dimensions();
+  var dimensions_changed = did_update_dimensions();
   if (dimensions_changed || just_created) {
     var board_share = Math.ceil(game_height * 0.7);
     drawn.board_container.height(board_share);
@@ -422,6 +428,7 @@ function draw_game (game) {
       drawn_tile = create_drawn_tile (tile);
       drawn.tiles_list.push (drawn_tile);
       set_tile (drawn.tiles, drawn_tile);
+      console.log("aaa")
       position_drawn_tile (drawn, drawn_tile);
       drawn.board.appendChild (drawn_tile.element);
     }
@@ -449,6 +456,41 @@ function draw_game (game) {
     return true;
   }) ;
   
+  if (floating_changed || scale_changed) {
+    if (mode.fog_tiles) {
+      drawn.fog_tiles = drawn.fog_tiles || {};
+      var fog_tiles =mode.fog_tiles (game);
+      Object.getOwnPropertyNames (fog_tiles).forEach(function(index) {
+        var tile = fog_tiles [index];
+        var drawn_tile = get_tile (drawn.fog_tiles, tile);
+        if (drawn_tile === undefined) {
+          tile.tile_id = blank_hex_id;
+          tile.rotation = 0;
+          drawn_tile = create_drawn_tile (tile);
+          set_tile (drawn.fog_tiles, drawn_tile);
+          position_drawn_tile (drawn, drawn_tile);
+          //console.log (tile, drawn_tile);
+          drawn_tile.element.style.setProperty ("--hex-fill-opacity", tile.opacity);
+          drawn.board.appendChild (drawn_tile.element);
+          console.log("dfdfd");
+        }
+        else if (scale_changed) {
+          console.log("aaaa");
+          position_drawn_tile (drawn, drawn_tile);
+        }
+        console.log("afafa");
+        drawn_tile.frame_existed = drawn.frame;
+      });
+      Object.getOwnPropertyNames (drawn.fog_tiles).forEach(function(index) {
+        var tile = drawn.fog_tiles [index];
+        if (tile.frame_existed !== drawn.frame) {
+          $(tile.element).remove();
+          remove_tile (drawn.fog_tiles, tile);
+        }
+      });
+    }
+  }
+  
   var deficiency = drawn.dimensions.horizontal/drawn.scale - (max_horizontal - min_horizontal);
   if (deficiency >0) {max_horizontal += deficiency/2; min_horizontal -= deficiency/2;}
   deficiency = drawn.dimensions.vertical/drawn.scale - (max_vertical - min_vertical);
@@ -468,37 +510,7 @@ function draw_game (game) {
     color_messages("var(--meta-stroke)");
   }
   
-  if (floating_changed) {
-    if (mode.fog_tiles) {
-      drawn.fog_tiles = drawn.fog_tiles || {};
-      var fog_tiles =mode.fog_tiles (game);
-      Object.getOwnPropertyNames (fog_tiles).forEach(function(index) {
-        var tile = fog_tiles [index];
-        var drawn_tile = get_tile (drawn.fog_tiles, tile);
-        if (drawn_tile === undefined) {
-          tile.tile_id = blank_hex_id;
-          tile.rotation = 0;
-          drawn_tile = create_drawn_tile (tile);
-          set_tile (drawn.fog_tiles, drawn_tile);
-          position_drawn_tile (drawn, drawn_tile);
-          console.log (tile, drawn_tile);
-          drawn_tile.element.style.setProperty ("--hex-fill-opacity", tile.opacity);
-          drawn.board.appendChild (drawn_tile.element);
-        }
-        else if (scale_changed) {
-          position_drawn_tile (drawn, drawn_tile);
-        }
-        drawn_tile.frame_existed = drawn.frame;
-      });
-      Object.getOwnPropertyNames (drawn.fog_tiles).forEach(function(index) {
-        var tile = drawn.fog_tiles [index];
-        if (tile.frame_existed !== drawn.frame) {
-          $(tile.element).remove();
-          remove_tile (drawn.fog_tiles, tile);
-        }
-      });
-    }
-    
+  if (floating_changed) {    
     delete drawn.floating_tile;
     delete drawn.touch_holding_tile;
     $(".floating_tile_"+game.id).remove();

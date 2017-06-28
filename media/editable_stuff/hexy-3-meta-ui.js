@@ -423,7 +423,6 @@ function close_menu() {
 }
 
 var global_game;
-var global_menu;
 function autosave_game (game) {
   if (global_game) {
     try {
