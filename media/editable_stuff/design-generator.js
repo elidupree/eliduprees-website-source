@@ -2,7 +2,7 @@
 var inches = 96
 var millimeters = 3.78;
 var pixels = 1;
-
+var turn = Math.PI*2;
 
 var context;
 
@@ -123,6 +123,9 @@ var filter_width = (3+15/16)*inches;
 var filter_length = 5.75*inches;
 var filter_depth = 0.5*inches;
 var filter_border = 3/16*inches;
+var fan_width = 40*millimeters;
+var fan_depth = 20*millimeters;
+var fan_opening_width = fan_width - 6*millimeters;
 
 
 // Depending on your assumptions, the leeway should be somewhere between 0 and cardboard_width.
@@ -142,14 +145,42 @@ var filter_inner_length = filter_length - filter_border*2;
 var filter_inner_width = filter_width - filter_border*2;
 
 
+var wall_slope_tester = new Point (box_width, box_depth).normalize();
+var wall_slope_with_respect_to_fan = new Point (0, 1).dot (wall_slope_tester.rotate (90))/new Point (0, 1).dot (wall_slope_tester);
+var minimum_possible_fan_offset = fan_depth/wall_slope_with_respect_to_fan;
+var maximum_possible_fan_offset = box_diagonal - fan_width - fan_depth*wall_slope_with_respect_to_fan;
+// I think I want to put the fan equidistant between the 2 filters.
+// maximum_possible_fan_offset is the offset when it touches one filter wall;
+// 0 is the offset when it touches the other (impossible, but theoretically).
+var fan_offset = maximum_possible_fan_offset/2;
+//console.log (minimum_possible_fan_offset, fan_offset, maximum_possible_fan_offset, box_diagonal) ;
+var fan_center_offset = fan_offset + fan_width/2;
+
+
 
 function protrusion (fold_vector, perpendicular_vector, fold_function) {
-  var start = context.position;
+  var start = context.position.clone();
   cut_by (perpendicular_vector);
   cut_by (fold_vector);
   cut_by (perpendicular_vector*-1);
   move_to (start);
   (fold_function || score_by) (fold_vector) ;
+}
+
+function circumscribed_circle (center, radius, segments) {
+  var inaccuracy = Math.cos (turn*0.5/segments);
+  var start = context.position.clone();
+  var position = function (angle) {
+    return center + new Point (Math.cos (angle), Math.sin (angle))*radius;
+  };
+  for (var index = 0; index <segments;++index) {
+    context.position = start;
+    var first_angle = turn*(index - 0.5)/segments;
+    var second_angle = turn*(index + 0.5)/segments;
+    move_to(position (first_angle));
+    cut_to (position (second_angle));
+  }
+  move_to (start);
 }
 
 function box_side (direction) {
@@ -158,7 +189,10 @@ function box_side (direction) {
   cut_by (protrusion_surroundings, 0);
   if (direction >0) {score_towards (0, - box_length);}
   cut_by (box_depth, 0); //protrusion (new Point (box_depth, 0), new Point (0, box_width*direction));
-  if (direction >0) {score_towards (0, - box_length);}
+  if (direction >0) {
+    score_towards (0, - box_length);
+    circumscribed_circle (context.position + new Point (fan_center_offset, - box_length/2), fan_opening_width/2, 8);
+  }
   cut_by (box_diagonal, 0);
   if (direction >0) {score_towards (0, - box_length);}
   cut_by (box_depth, 0);
@@ -167,7 +201,7 @@ function box_side (direction) {
 }
 
 function box() {
-  var start = context.position;
+  var start = context.position.clone();
   cut_by (0, box_length);
   box_side (1) ;
   cut_by (0, - box_length);
@@ -183,7 +217,7 @@ function box() {
 }
 
 function holder (direction) {
-  var start = context.position;
+  var start = context.position.clone();
   protrusion (new Point (0, box_length), new Point (-holder_protrusion_length, 0));
   cut_by (box_width, 0);
   protrusion (new Point (0, -box_length), new Point (holder_protrusion_length, 0));
