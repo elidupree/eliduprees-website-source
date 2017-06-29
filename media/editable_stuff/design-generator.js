@@ -150,7 +150,7 @@ function protrusion (fold_vector, perpendicular_vector, fold_function) {
 
 function box_side (direction) {
   cut_by (protrusion_surroundings, 0);
-  protrusion (new Point (protrusion_width, 0), new Point (0, protrusion_length*direction));
+  protrusion (new Point (protrusion_width, 0), new Point (0, protrusion_length*direction), move_by);
   cut_by (protrusion_surroundings, 0);
   if (direction >0) {score_towards (0, - box_length);}
   protrusion (new Point (box_depth, 0), new Point (0, box_width*direction));
