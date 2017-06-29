@@ -124,11 +124,14 @@ var filter_depth = 0.5*inches;
 var filter_border = 3/16*inches;
 
 
-var box_width = filter_width;
-var box_length = filter_length;
-var box_depth = 1.5*inches;
+// Depending on your assumptions, the leeway should be somewhere between 0 and cardboard_width.
+// If it's too low, the filters might not quite fit. If it's too high, they might slide around a bit. Not fitting is a bigger inconvenience.
+var box_leeway = cardboard_width;
+var box_width = filter_width + 2*box_leeway;
+var box_length = filter_length + 2*box_leeway;
+var box_depth = 2*inches;
 var protrusion_width = box_width/3;
-var protrusion_length = cardboard_width*2;
+var protrusion_length = 0.25*inches; //cardboard_width*2;
 
 var holder_protrusion_length = filter_depth + 0.25*inches;
 
@@ -153,13 +156,13 @@ function box_side (direction) {
   protrusion (new Point (protrusion_width, 0), new Point (0, protrusion_length*direction), move_by);
   cut_by (protrusion_surroundings, 0);
   if (direction >0) {score_towards (0, - box_length);}
-  protrusion (new Point (box_depth, 0), new Point (0, box_width*direction));
+  cut_by (box_depth, 0); //protrusion (new Point (box_depth, 0), new Point (0, box_width*direction));
   if (direction >0) {score_towards (0, - box_length);}
   cut_by (box_diagonal, 0);
   if (direction >0) {score_towards (0, - box_length);}
   cut_by (box_depth, 0);
   if (direction >0) {score_towards (0, - box_length);}
-  cut_by (box_width, 0);
+  protrusion (new Point (box_width, 0), new Point (0, box_depth*direction)); //cut_by (box_width, 0);
 }
 
 function box() {
@@ -168,13 +171,13 @@ function box() {
   box_side (1) ;
   cut_by (0, - box_length);
   
-  move_by (- filter_border, filter_border) ;
+  move_by (- filter_border - box_leeway, filter_border + box_leeway) ;
   protrusion (new Point (-filter_inner_width, 0), new Point (0, filter_inner_length), cut_by);
   
   move_to (start);
   box_side (- 1);
   move_to (start);
-  move_by (filter_border, filter_border) ;
+  move_by (filter_border + box_leeway, filter_border + box_leeway) ;
   protrusion (new Point (filter_inner_width, 0), new Point (0, filter_inner_length), cut_by);
 }
 
@@ -191,7 +194,7 @@ function holder (direction) {
     cut_by (- protrusion_width, 0) ;
     protrusion (new Point (-protrusion_surroundings, 0), new Point (0, - holder_protrusion_length));
   }
-  move_by (filter_border, filter_border) ;
+  move_by (filter_border + box_leeway, filter_border + box_leeway) ;
   protrusion (new Point (filter_inner_width, 0), new Point (0, filter_inner_length), cut_by);
 }
 
@@ -204,7 +207,7 @@ move_by (0,7*inches);
 holder (- 1);
 
 context.paths.forEach(function(path) {
-  path.strokeWidth = 2*pixels;
+  path.strokeWidth = 1*pixels;
 });
 
 var exportSVG = function() {
