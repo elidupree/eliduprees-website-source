@@ -1,3 +1,110 @@
+
+
+var inches = 96
+var millimeters = 3.78;
+var pixels = 1;
+
+
+var context;
+
+function new_context() {
+  return {
+    position: new Point (0, 0),
+    paths: [],
+  };
+}
+function get_context() {return context = context || ;}
+
+function segment (first, second, color) {
+  var path = new Path ([first.clone(), second.clone()]);
+  path.strokeColor = color;
+  path.strokeWidth = 0.01*millimeters;
+}
+
+function move_to (position) {
+  get_context();
+  context.position = position;
+}
+
+function cut_to (position) {
+  get_context();
+  context.paths.push (segment (context.position, position, "#0000ff"));
+  context.position = position;
+}
+
+function score_to (position) {
+  get_context();
+  context.paths.push (segment (context.position, position, "#ff0000"));
+  context.position = position;
+}
+
+function move_by (position) {
+  get_context();
+  context.position += position;
+}
+
+function cut_by (position) {
+  get_context();
+  context.paths.push (segment (context.position, context.position + position, "#0000ff"));
+  context.position += position;
+}
+
+function score_by (position) {
+  get_context();
+  context.paths.push (segment (context.position, context.position + position, "#ff0000"));
+  context.position += position;
+}
+
+function organize() {
+  var paths_by_normal = {};
+  var bucket = [];
+  context.paths.forEach(function(path) {
+    var normal = path.getTangentAt (0);
+    if (normal.x <0 || (normal.x === 0 && normal.y <0)) {
+      normal *= -1;
+      path.reverse();
+    }
+    var index = `${normal.x}_${normal.y}`;
+    var bucket = paths_by_normal [index];
+    if (!bucket) {
+      bucket = paths_by_normal [index] = paths_by_normal [index] || {normal, index, perpendicular: normal.rotate (90), paths: []};
+      buckets.push (bucket);
+    }
+    bucket.paths.push (path);
+  });
+  context.paths = [];
+  buckets.forEach(function(bucket) {
+    var evaluate = function (path) {
+      var point = path.firstSegment. point;
+      return point.dot (bucket.perpendicular) + point.dot (bucket.normal)*0.00001;
+    };
+    bucket.paths.sort ((first, second) => evaluate (first) - evaluate (second));
+    for (var index = 0; index <bucket.paths.length - 1;) {
+      var first_second = bucket.paths [index].lastSegment. point;
+      var second_first = bucket.paths [index + 1].firstSegment. point;
+      var difference = second_first - first_second;
+      if (Math.abs (difference.dot (bucket.normal)) < 0.0001 && difference.dot (bucket.perpendicular) < 0.0001) {
+        var second_second = bucket.paths [index + 1].lastSegment. point;
+        var second_difference = second_second - first_second;
+        if (second_difference.dot (bucket.perpendicular) > 0) {
+          bucket.paths [index].segments [1] = bucket.paths [index+1].segments [1];
+        }
+        bucket.paths.splice (index + 1, 1) ;
+      }
+      else {++index;}
+    }
+    bucket.paths.forEach(function(path) {context.path.push (path) ; });
+  });
+}
+
+
+
+
+
+
+
+
+
 import math
 
 cardboard_width = 0.06
