@@ -75,7 +75,7 @@ function score_towards (position, coordinate) {
 
 function organize() {
   var paths_by_normal = {};
-  var bucket = [];
+  var buckets = [];
   context.paths.forEach(function(path) {
     var normal = path.getTangentAt (0);
     if (normal.x <0 || (normal.x === 0 && normal.y <0)) {
@@ -101,17 +101,18 @@ function organize() {
       var first_second = bucket.paths [index].lastSegment. point;
       var second_first = bucket.paths [index + 1].firstSegment. point;
       var difference = second_first - first_second;
-      if (bucket.paths [index].strokeColor === bucket.paths [index + 1].strokeColor && Math.abs (difference.dot (bucket.normal)) < 0.0001 && difference.dot (bucket.perpendicular) < 0.0001) {
+      if (bucket.paths [index].strokeColor.toString() === bucket.paths [index + 1].strokeColor.toString() && Math.abs (difference.dot (bucket.normal)) < 0.0001 && difference.dot (bucket.perpendicular) < 0.0001) {
         var second_second = bucket.paths [index + 1].lastSegment. point;
         var second_difference = second_second - first_second;
         if (second_difference.dot (bucket.perpendicular) > 0) {
           bucket.paths [index].segments [1] = bucket.paths [index+1].segments [1];
         }
+        bucket.paths [index + 1].remove();
         bucket.paths.splice (index + 1, 1) ;
       }
       else {++index;}
     }
-    bucket.paths.forEach(function(path) {context.path.push (path) ; });
+    bucket.paths.forEach(function(path) {context.paths.push (path) ; });
   });
 }
 
@@ -205,6 +206,8 @@ move_by (0,11*inches);
 holder (1) ;
 move_by (0,7*inches);
 holder (- 1);
+
+organize();
 
 context.paths.forEach(function(path) {
   path.strokeWidth = 1*pixels;
