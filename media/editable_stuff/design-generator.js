@@ -125,7 +125,7 @@ var filter_depth = 0.5*inches;
 var filter_border = 3/16*inches;
 var fan_width = 40*millimeters;
 var fan_depth = 20*millimeters;
-var fan_opening_width = fan_width - 6*millimeters;
+var fan_opening_width = fan_width - 3*millimeters;
 
 
 // Depending on your assumptions, the leeway should be somewhere between 0 and cardboard_width.
