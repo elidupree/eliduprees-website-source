@@ -16,7 +16,7 @@ html,body {background-color: white;}
     ''',
       '''<a class="skip" href="#content">Skip to content</a>
       '''+bars.bars_wrap({"games":True}, '''<main><div id="content">
-      <canvas id="canvas">
+      <canvas id="canvas" width="1056" height="816">
       </div>
      </main>'''), {"after_body":'''
      <script type="text/javascript" src="/media/paper-full.js?rr"></script>

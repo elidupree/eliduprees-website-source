@@ -191,6 +191,8 @@ function holder (direction) {
     cut_by (- protrusion_width, 0) ;
     protrusion (new Point (-protrusion_surroundings, 0), new Point (0, - holder_protrusion_length));
   }
+  move_by (filter_border, filter_border) ;
+  protrusion (new Point (filter_inner_width, 0), new Point (0, filter_inner_length), cut_by);
 }
 
 context = new_context();
