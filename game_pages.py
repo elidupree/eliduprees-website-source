@@ -309,6 +309,8 @@ def add_game_pages(page_dict):
   abs_tool.add_page (page_dict)
   import neural_music_generator
   neural_music_generator.add_page (page_dict)
+  import design_generator
+  design_generator.add_page (page_dict)
   import codecophony 
   codecophony.add_page (page_dict)
   
