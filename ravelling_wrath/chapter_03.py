@@ -45,9 +45,7 @@ That was a relief. I went in the bathroom and washed up. It gave me enough time 
 
 Right. <em>Everything.</em>
 
-?????
-
-With all the thoughts spinning through my head, I wasn't that interested in eating. I swallowed my food slowly, one bite at a time. Anyway, I can tell that Dad was itching to say something to me when I was finished eating. If I dragged it out, I could put that off for a while.
+There were gods and Ravellers and I <em>had</em> to protect Yali if it's the <em>last thing I do</em>, and stuff. I wandered back out and sat down at breakfast without looking at anybody. With all the thoughts spinning through my head, I wasn't that interested in eating either. I swallowed my food slowly, one bite at a time. I had this itching feeling that Dad was going to say something when I was finished eating. But maybe if I dragged it out…
 
 In the end, he finished before I did.
 
@@ -57,7 +55,7 @@ I still didn't feel totally awake.
 
 "Rinn…"
 
-"I was hanging out with Yali yesterday."
+Guess I had to say something. "I was hanging out with Yali yesterday."
 
 "We called you three times."
 
@@ -67,31 +65,31 @@ I still didn't feel totally awake.
 
 The mention of <em>telling the truth</em> made my mind snap into a frenzy. <em>Parents… tell nothing</em>, she'd said. Well what if – maybe it was better if they <em>didn't</em> even think it was the truth!
 
-"Fine, I wasn't at Yali's! I was –" Stern take it, I was no good at making up stories. "You know what, never mind!"
+"Fine, I wasn't at Yali's! I was –" Stern take it, I was no good at making up stories – "You know what, never mind! It's not important!"
 
-Dad looked like he was gearing up to say something else, but Mom touched his hand, meaning, "Let me handle this."
+Dad looked like he was gearing up to say something else, but Mom touched his hand, meaning, "Let me handle this." Then she said, "Rinn, we can tell it was something serious."
 
-?????
+"Oh yeah? How do you know that?!"
 
-Sometimes I hated being so easy to read.
+Mom sighed. "You slept through your alarm, and you've barely touched your food…"
 
-?????
+I had... slept through my alarm? Never mind, I didn't have time to think about it. "I've eaten more than half of this!" I snapped back.
 
-"You <em>never</em> sleep through your alarm, and you <em>never</em> leave your breakfast half-eaten. So please… just tell us what happened. Are you in trouble?"
+"Not if you count the snack you always have directly afterwards." I grimaced. Sometimes I hated being so easy to read. "Rinn… you <em>never</em> sleep through your alarm, and you <em>never</em> leave your breakfast half-eaten. So please… just tell us what happened. Are you in trouble?"
 
 <p><em>Shit.</em></p>
 
-It would be one thing if Mom was angry at me. She'd lecture me for a bit, but then it would be over. But if she was <em>concerned</em>… she'd never give it up. She'd follow me around and pester me about it and look over my shoulder when I was texting and then I'd say something careless and she'd find out and then there would be… there would be <em>bad futures</em> and I'd never see Yali again.
+It would be one thing if Mom was angry at me. She'd lecture me for a bit, but then it would be over. But if she was <em>concerned</em>… she'd never give it up. She'd follow me around and pester me about it and look over my shoulder when I was texting and then I'd say something careless and she'd find out and then there would be… there would be <em>bad futures</em> and I'd never see Yali again –
 
 Mom must have seen that I was panicking. "Rinn, it's okay. We're not going to punish you. We just want to make sure you're safe."
 
 A flash of rage swept over me. She could <em>say</em> that, but the Waiting God knew – literally, Yali had seen with its eyes – that I wouldn't be safe at all. And even if I didn't know that, Mom was always like this. Dad was simpler. He'd tell me the rules and get mad if I broke them. But Mom would do the whole "wink wink, nudge nudge" thing. Sometimes she'd even take me aside and say, like, "This is what the rules are, but just between us, this is how we <em>really</em> do things." But as soon as I relied on her for anything, she'd go straight back to law-and-order.
 
-I clamped down on the rage and tried not to let it show. I didn't have time for that. If I didn't come up with something to say <em>soon</em>, she'd know I had taken the extra time to come up with a lie. And then it would be just as bad as if I hadn't said anything. But what could I say that would make her stop worrying when <em>I</em> was worrying?
+I clamped down on the rage and tried not to let it show. I didn't have time for that. If I didn't come up with some of thing to say <em>soon</em>, she'd know I had taken the extra time to come up with a lie. And then it would be just as bad as if I hadn't said anything. But what could I say that would make her stop worrying when <em>I</em> was worrying?
 
-Finally I managed to think of something. I wasn't sure about it, but I didn't have anything else, so it would have to do.
+Finally an idea scraped out. It was rough, but I didn't have anything else, so it'd have to do.
 
-"I'm not in trouble, it's not <em>me</em>, I'm just worried about –" no backing out now "– Yali. She's having a, uh, a personal thing. A crisis. But, see, I promised her that I wouldn't tell anyone, so –" I did my best to sound like I was uncomfortable about breaking the promise. It wasn't hard, because I <em>was</em> uncomfortable, just not in the way that I wanted them to think I was. "– so please, just, don't mention it to anybody, okay?"
+"I'm not in trouble, it's not <em>me</em>, I'm just worried about –" no backing out now "– Yali. She's having a, uh, a personal thing. A crisis. But, see, I promised her that I wouldn't tell anyone, so –" I did my best to sound like I was uncomfortable about breaking the promise. It wasn't hard, because I <em>was</em> uncomfortable, just not <em>that</em> way. "– so please, just, don't mention it to anybody, okay?"
 
 "Don't worry, sweetie, of course we won't. But is it –"
 
@@ -113,7 +111,7 @@ Finally I managed to think of something. I wasn't sure about it, but I didn't ha
 
 "I wish I could tell you, but I can't break my promise any further."
 
-"That promise doesn't mean you can't tell <em>us</em>. We're your parents."
+"That doesn't mean you can't tell <em>us</em>. We're your parents."
 
 "I told her I wouldn't tell anyone! I can't go back on that! Dad, back me up here!"
 
@@ -131,8 +129,27 @@ I gave an internal sigh of relief. Mom wasn't trying to press the issue. I could
 
 "Don't ask questions you don't want the answers to."
 
-?????
+<bigbreak>
 
+I met Layo at lunch that day. I gave our usual greeting, running up and giving him a big hug. He hugged me back and grinned at me.
+
+"Hey hey, what's up?"
+
+<em>So much</em> was up. I opened my mouth to start telling him all about it, but something stopped me. It was just too much to explain. It would take forever, and…
+
+Anyway, I had something else to talk about. "Layo, what makes me mad?"
+
+"Assholes?"
+
+"No, what makes me <em>really</em> mad?"
+
+"Really big assholes?"
+
+"Serious question."
+
+Layo paused. "I <em>was</em> joking, but that's my serious answer as well. Why do you ask?"
+
+"Never mind that, just – look, you know I just don't put up with people's bullshit.
 
 
 ?????
