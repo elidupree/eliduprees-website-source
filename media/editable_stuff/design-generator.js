@@ -413,6 +413,26 @@ move_by (0,7*inches);
 holder (- 1);
 hat();
 
+/*
+
+  Note: Other pieces that aren't made of cardboard:
+  
+  the fan
+  the USB cord to power the fan
+  the HEPA filter
+  the pre-filter
+  the foam padding around the head
+  
+  the thin foam padding used for sealing the fan and brim-to-wall-to-roof (and box to roof?)
+  the cloth cover
+  
+  glue to attach the band and cloth
+  packing tape to assemble the purifier box and to suppress smells
+  
+  optionally, a USB battery pack
+  
+*/
+
 organize();
 
 context.paths.forEach(function(path) {
