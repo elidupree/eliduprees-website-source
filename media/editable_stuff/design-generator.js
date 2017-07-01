@@ -118,6 +118,33 @@ function organize() {
 
 
 
+function protrusion (fold_vector, perpendicular_vector, fold_function) {
+  var start = context.position.clone();
+  cut_by (perpendicular_vector);
+  cut_by (fold_vector);
+  cut_by (perpendicular_vector*-1);
+  move_to (start);
+  (fold_function || score_by) (fold_vector) ;
+}
+
+function circumscribed_circle (center, radius, segments) {
+  var inaccuracy = Math.cos (turn*0.5/segments);
+  var start = context.position.clone();
+  var position = function (angle) {
+    return center + new Point (Math.cos (angle), Math.sin (angle))*radius;
+  };
+  for (var index = 0; index <segments;++index) {
+    context.position = start;
+    var first_angle = turn*(index - 0.5)/segments;
+    var second_angle = turn*(index + 0.5)/segments;
+    move_to(position (first_angle));
+    cut_to (position (second_angle));
+  }
+  move_to (start);
+}
+
+
+
 var cardboard_width = 0.06*inches;
 var filter_width = (3+15/16)*inches;
 var filter_length = 5.75*inches;
@@ -126,6 +153,18 @@ var filter_border = 3/16*inches;
 var fan_width = 40*millimeters;
 var fan_depth = 20*millimeters;
 var fan_opening_width = fan_width - 3*millimeters;
+
+var padding_width = 3/8*inches;
+var head_width = (6+3/8)*inches;
+var head_length = (7+5/8)*inches;
+var head_circumference = 22*inches;
+var band_depth = 1*inches;
+var air_holes_width = 1*inches;
+var back_wall_distance = 0.5*inches;
+var brim_min_width = 2*inches;
+var wall_holder_length = 1*inches;
+var wall_holder_tab_length = 0.5*inches;
+
 
 
 // Depending on your assumptions, the leeway should be somewhere between 0 and cardboard_width.
@@ -156,32 +195,6 @@ var fan_offset = maximum_possible_fan_offset/2;
 //console.log (minimum_possible_fan_offset, fan_offset, maximum_possible_fan_offset, box_diagonal) ;
 var fan_center_offset = fan_offset + fan_width/2;
 
-
-
-function protrusion (fold_vector, perpendicular_vector, fold_function) {
-  var start = context.position.clone();
-  cut_by (perpendicular_vector);
-  cut_by (fold_vector);
-  cut_by (perpendicular_vector*-1);
-  move_to (start);
-  (fold_function || score_by) (fold_vector) ;
-}
-
-function circumscribed_circle (center, radius, segments) {
-  var inaccuracy = Math.cos (turn*0.5/segments);
-  var start = context.position.clone();
-  var position = function (angle) {
-    return center + new Point (Math.cos (angle), Math.sin (angle))*radius;
-  };
-  for (var index = 0; index <segments;++index) {
-    context.position = start;
-    var first_angle = turn*(index - 0.5)/segments;
-    var second_angle = turn*(index + 0.5)/segments;
-    move_to(position (first_angle));
-    cut_to (position (second_angle));
-  }
-  move_to (start);
-}
 
 function box_side (direction) {
   cut_by (protrusion_surroundings, 0);
@@ -233,6 +246,76 @@ function holder (direction) {
   protrusion (new Point (filter_inner_width, 0), new Point (0, filter_inner_length), cut_by);
 }
 
+
+var brim_segments = 24;
+function hat() {
+
+  function offset (index) {return turn*index/brim_segments;}
+  function head_vector (offset) {
+    return new Point (
+      (head_width/2)*Math.cos (offset),
+      (head_length/2)*Math.sin (offset)
+    );
+  }
+  
+  var data = [];
+  for (var index = 0; index <brim_segments;++index) {
+    data.push ({});
+  }
+
+  function iterate (
+  
+  function info (index) {
+    var result = {};
+    var current = result.head_vector = head_vector (offset (index));
+    var previous = head_vector (offset (index - 1));
+    var next = head_vector (offset (index + 1));
+    var previous_perpendicular = (current - previous).rotate (-90).normalize();
+    var next_perpendicular = (next - current).rotate (-90).normalize();
+    var middle_perpendicular = (previous_perpendicular + next_perpendicular).normalize();
+    
+    result.band_vector = result.head_vector + middle_perpendicular*padding_width;
+    result.band_holder_vector = result.band_vector + middle_perpendicular*cardboard_width;
+    result.band_holder_tab_vector = result.band_holder_vector - middle_perpendicular*band_depth;
+    
+    result.previous_middle = (current + previous)/2;
+    //var next_middle = (next + current)/2;
+    var previous_middle_wall_bonus = Math.max (0, 1 - Math.abs ((index-0.5)/(brim_segments/4) - 1));
+    var previous_middle_wall_distance = air_holes_width*previous_middle_wall_bonus + back_wall_distance*(1 - previous_middle_wall_bonus);
+    result.previous_middle_wall_vector = result.previous_middle + previous_perpendicular*previous_middle_wall_distance;
+    result.previous_middle_wall_holder_vector = result.previous_middle + previous_perpendicular*cardboard_width;
+  }
+  
+  for (var index = 0; index <brim_segments;++index) {
+    var current = data [index]
+  }
+  
+  var brim_center = new Point (20*inches, 0);
+  var roof_center = new Point (40*inches, 0);
+  var wall_start = new Point (20*inches, 20*inches);
+  var band_start = new Point (20*inches, 30*inches);
+  var wall_length_so_far = 0;
+  
+  for (var index = 0; index <brim_segments;++index) {
+    var first = info (turn*index/brim_segments);
+    var second = info (turn*(index + 1)/brim_segments);
+    
+    move_to (brim_center + first.band_holder_vector);
+    cut_to (brim_center + first.band_holder_tab_vector);
+    cut_to (brim_center + second.band_holder_tab_vector);
+    cut_to (brim_center + second.band_holder_vector);
+    score_to (brim_center + first.band_holder_vector);
+    
+    var wall_segment_length = (first.previous_middle_wall_vector - second.previous_middle_wall_vector).length;
+    if (index % 3 == 0) {
+      
+    }
+    wall_length_so_far += wall_segment_length;
+  }
+}
+
+
+
 context = new_context();
 
 box();
@@ -240,6 +323,7 @@ move_by (0,11*inches);
 holder (1) ;
 move_by (0,7*inches);
 holder (- 1);
+hat();
 
 organize();
 
