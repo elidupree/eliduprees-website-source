@@ -159,6 +159,8 @@ var head_width = (6+3/8)*inches;
 var head_length = (7+5/8)*inches;
 var head_circumference = 22*inches;
 var band_depth = 1*inches;
+var wall_height = 7*inches;
+var wall_overlap = 1*inches;
 var air_holes_width = 1*inches;
 var back_wall_distance = 0.5*inches;
 var brim_min_width = 2*inches;
@@ -262,56 +264,123 @@ function hat() {
   for (var index = 0; index <brim_segments;++index) {
     data.push ({});
   }
-
-  function iterate (
-  
-  function info (index) {
-    var result = {};
-    var current = result.head_vector = head_vector (offset (index));
-    var previous = head_vector (offset (index - 1));
-    var next = head_vector (offset (index + 1));
-    var previous_perpendicular = (current - previous).rotate (-90).normalize();
-    var next_perpendicular = (next - current).rotate (-90).normalize();
-    var middle_perpendicular = (previous_perpendicular + next_perpendicular).normalize();
-    
-    result.band_vector = result.head_vector + middle_perpendicular*padding_width;
-    result.band_holder_vector = result.band_vector + middle_perpendicular*cardboard_width;
-    result.band_holder_tab_vector = result.band_holder_vector - middle_perpendicular*band_depth;
-    
-    result.previous_middle = (current + previous)/2;
-    //var next_middle = (next + current)/2;
-    var previous_middle_wall_bonus = Math.max (0, 1 - Math.abs ((index-0.5)/(brim_segments/4) - 1));
-    var previous_middle_wall_distance = air_holes_width*previous_middle_wall_bonus + back_wall_distance*(1 - previous_middle_wall_bonus);
-    result.previous_middle_wall_vector = result.previous_middle + previous_perpendicular*previous_middle_wall_distance;
-    result.previous_middle_wall_holder_vector = result.previous_middle + previous_perpendicular*cardboard_width;
+  var index, current, previous, next;
+  function iterate (callback) {
+    for (index = 0; index <brim_segments;++index) {
+      current = data [index];
+      next = data [(index + 1) % brim_segments];
+      previous = data [(index + brim_segments - 1) % brim_segments];
+      callback();
+    }
   }
   
-  for (var index = 0; index <brim_segments;++index) {
-    var current = data [index]
-  }
   
-  var brim_center = new Point (20*inches, 0);
+  iterate (function() {
+    current.head_vector = head_vector (offset (index));
+  });
+  iterate (function() {
+    current.previous_perpendicular = (current.head_vector - previous.head_vector).rotate (-90).normalize();
+    current.previous_middle = (current.head_vector + previous.head_vector)/2;
+    current.wall_bonus = Math.max (0, 1 - Math.abs ((index-0.5)/(brim_segments/4) - 1)*2);
+    current.wall_distance = padding_width + cardboard_width + air_holes_width*current.wall_bonus + back_wall_distance*(1 - current.wall_bonus);
+    current.wall_vector = current.previous_middle + current.previous_perpendicular*current.wall_distance;
+    current.wall_holder_vector = current.wall_vector + current.previous_perpendicular*cardboard_width;
+    current.brim_vector = current.wall_holder_vector + current.previous_perpendicular*brim_min_width;
+  });
+  iterate (function() {
+    current.middle_perpendicular = (current.previous_perpendicular + next.previous_perpendicular).normalize();
+    current.band_vector = current.head_vector + current.middle_perpendicular*padding_width;
+    current.band_holder_vector = current.band_vector + current.middle_perpendicular*cardboard_width;
+    current.band_holder_tab_vector = current.band_holder_vector - current.middle_perpendicular*band_depth;
+    
+    current.wall_holder_perpendicular = (next.wall_holder_vector - current.wall_holder_vector).rotate (- 90).normalize();
+    
+    var small = 0.1;
+    var big = 0.8;    
+    current.air_holes = [
+      previous.band_holder_vector*big + current.band_holder_vector*small + current.wall_holder_vector*small,
+      previous.band_holder_vector*small + current.band_holder_vector*big + current.wall_holder_vector*small,
+      previous.band_holder_vector*small + current.band_holder_vector*small + current.wall_holder_vector*big,
+      next.wall_holder_vector*big + current.band_holder_vector*small + current.wall_holder_vector*small,
+      next.wall_holder_vector*small + current.band_holder_vector*big + current.wall_holder_vector*small,
+      next.wall_holder_vector*small + current.band_holder_vector*small + current.wall_holder_vector*big,
+    ];
+  });
+  iterate (function() {
+    current.wall_holder_fold_1 = current.wall_holder_vector + current.wall_holder_perpendicular*wall_holder_length;
+    current.wall_holder_fold_2 = next.wall_holder_vector + current.wall_holder_perpendicular*wall_holder_length;
+    current.wall_holder_end_1 = current.wall_holder_fold_1 + current.wall_holder_perpendicular*wall_holder_tab_length;
+    current.wall_holder_end_2 = current.wall_holder_fold_2 + current.wall_holder_perpendicular*wall_holder_tab_length;
+  });
+  
+  var brim_center = new Point (27*inches, 0);
   var roof_center = new Point (40*inches, 0);
-  var wall_start = new Point (20*inches, 20*inches);
-  var band_start = new Point (20*inches, 30*inches);
-  var wall_length_so_far = 0;
+  var wall_start = new Point (20*inches, 10*inches);
+  var band_start = new Point (20*inches, 20*inches);
+  var wall_length_so_far = wall_overlap;
+  var band_length_so_far = 0;
   
-  for (var index = 0; index <brim_segments;++index) {
-    var first = info (turn*index/brim_segments);
-    var second = info (turn*(index + 1)/brim_segments);
+  iterate (function() {
+    move_to (brim_center + current.band_holder_vector);
+    cut_to (brim_center + current.band_holder_tab_vector);
+    cut_to (brim_center + next.band_holder_tab_vector);
+    cut_to (brim_center + next.band_holder_vector);
+    score_to (brim_center + current.band_holder_vector);
     
-    move_to (brim_center + first.band_holder_vector);
-    cut_to (brim_center + first.band_holder_tab_vector);
-    cut_to (brim_center + second.band_holder_tab_vector);
-    cut_to (brim_center + second.band_holder_vector);
-    score_to (brim_center + first.band_holder_vector);
+    move_to (brim_center + current.brim_vector);
+    cut_to (brim_center + next.brim_vector) ;
     
-    var wall_segment_length = (first.previous_middle_wall_vector - second.previous_middle_wall_vector).length;
-    if (index % 3 == 0) {
+    var wall_segment_length = (current.wall_vector - next.wall_vector).length;
+    var band_segment_length = (current.band_vector - next.band_vector).length;
+    
+    if (current.wall_bonus >0.01) {
+      move_to (brim_center + current.air_holes [0]);
+      cut_to (brim_center + current.air_holes [1]);
+      cut_to (brim_center + current.air_holes [2]);
+      cut_to (brim_center + current.air_holes [0]);
+    }
+    if (current.wall_bonus >0.01 && next.wall_bonus >0.01 && index % 3 !== 0) {
+      move_to (brim_center + current.air_holes [3]);
+      cut_to (brim_center + current.air_holes [4]);
+      cut_to (brim_center + current.air_holes [5]);
+      cut_to (brim_center + current.air_holes [3]);
+    }
+    
+    if (index % 3 === 0) {
+      var centers = [roof_center, brim_center];
+      centers.forEach(function(center) {
+      move_to (center + current.wall_holder_vector);
+      cut_to (center + current.wall_holder_fold_1);
+      cut_to (center + current.wall_holder_end_1);
+      cut_to (center + current.wall_holder_end_2);
+      cut_to (center + current.wall_holder_fold_2);
+      cut_to (center + next.wall_holder_vector);
+      score_to (center + current.wall_holder_vector);
+      move_to (center + current.wall_holder_fold_1);
+      score_to (center + current.wall_holder_fold_2);
+      });
       
+      move_to (wall_start + new Point (wall_length_so_far, wall_holder_length));
+      protrusion (new Point (wall_segment_length, 0), new Point (0, -cardboard_width), cut_by);
+      
+      move_to (wall_start + new Point (wall_length_so_far, wall_height - wall_holder_length));
+      protrusion (new Point (wall_segment_length, 0), new Point (0, cardboard_width), cut_by);
+    }
+    else {
+      move_to (roof_center + current.wall_holder_vector);
+      cut_to (roof_center + current.wall_holder_fold_1);
+      cut_to (roof_center + current.wall_holder_fold_2);
+      cut_to (roof_center + next.wall_holder_vector);
+      score_to (roof_center + current.wall_holder_vector);
     }
     wall_length_so_far += wall_segment_length;
-  }
+    band_length_so_far += band_segment_length;
+  });
+  
+  move_to (wall_start);
+  protrusion (new Point (wall_length_so_far, 0), new Point (0, wall_height), cut_by);
+  move_to (band_start);
+  protrusion (new Point (band_length_so_far, 0), new Point (0, band_depth), cut_by);
 }
 
 
