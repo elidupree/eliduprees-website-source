@@ -156,9 +156,11 @@ var fan_depth = 20*millimeters;
 var fan_opening_width = fan_width - 3*millimeters;
 
 var padding_width = 3/8*inches;
-var head_width = (6+3/8)*inches;
+// Note: these sizes may be slightly smaller than my actual head, so that the foam grips my head instead of just sliding past it.
+// The first prototype has something like 6+3/8 x 7+5/8, and the front-to-back grip is better than the side grip, so I made it narrower.
+var head_width = (6+1/8)*inches;
 var head_length = (7+5/8)*inches;
-var head_circumference = 22*inches;
+//var head_circumference = 22*inches;
 var band_depth = 1*inches;
 var wall_height = 7*inches;
 var wall_overlap = 1*inches;
