@@ -150,6 +150,7 @@ var filter_width = (3+15/16)*inches;
 var filter_length = 5.75*inches;
 var filter_depth = 0.5*inches;
 var filter_border = 3/16*inches;
+var prefilter_depth = 0.25*inches;
 var fan_width = 40*millimeters;
 var fan_depth = 20*millimeters;
 var fan_opening_width = fan_width - 3*millimeters;
@@ -184,6 +185,10 @@ var box_diagonal = new Point (box_width, box_depth).length;
 var protrusion_surroundings = (box_width - protrusion_width)/2;
 var filter_inner_length = filter_length - filter_border*2;
 var filter_inner_width = filter_width - filter_border*2;
+
+var roof_opening_width = filter_inner_width;
+var roof_opening_length = box_length;
+var roof_opening_slot_depth = cardboard_width + cardboard_width + prefilter_depth
 
 
 var wall_slope_tester = new Point (box_width, box_depth).normalize();
@@ -376,6 +381,18 @@ function hat() {
     wall_length_so_far += wall_segment_length;
     band_length_so_far += band_segment_length;
   });
+  
+  move_to (roof_center + new Point (- roof_opening_width/2, - roof_opening_length/2));
+  cut_to (roof_center + new Point (- roof_opening_width/2, roof_opening_length/2));
+  score_to (roof_center + new Point (roof_opening_width/2, roof_opening_length/2));
+  cut_to (roof_center + new Point (roof_opening_width/2, -roof_opening_length/2));
+  score_to (roof_center + new Point (-roof_opening_width/2, -roof_opening_length/2));
+  move_to (roof_center + new Point (- roof_opening_width/2, 0));
+  cut_to (roof_center + new Point (roof_opening_width/2, 0));
+  move_to (roof_center + new Point (- protrusion_width/2, - roof_opening_length/2 + roof_opening_slot_depth));
+  protrusion (new Point (protrusion_width, 0), new Point (0, cardboard_width), cut_by);
+  move_to (roof_center + new Point (- protrusion_width/2, roof_opening_length/2 - roof_opening_slot_depth));
+  protrusion (new Point (protrusion_width, 0), new Point (0, -cardboard_width), cut_by);
   
   move_to (wall_start);
   protrusion (new Point (wall_length_so_far, 0), new Point (0, wall_height), cut_by);
