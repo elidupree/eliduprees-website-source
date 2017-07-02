@@ -147,9 +147,27 @@ Anyway, I had something else to talk about. "Layo, what makes me mad?"
 
 "Serious question."
 
-Layo paused. "I <em>was</em> joking, but that's my serious answer as well. Why do you ask?"
+Layo paused. "I <em>was</em> joking, but that's honestly the first thing I think of. Why do you ask?"
 
-"Never mind that, just – look, you know I just don't put up with people's bullshit.
+"Never mind that, just – come on, you've gotta be able to come up with something better than that. You know I just don't put –"
+
+"– don't put up with people's you-know-what, I know."
+
+????
+
+Layo put a hand over his chest. "If I think of when <em>I</em> get angry,
+
+????
+
+"Eh, never mind trying for serious answers. How about, like, pretend like we're in a movie. Like you're supervillain and you have an evil plan to make me lose control, what is it?"
+
+Layo smiled. "We-ell... I'd murder your parents right in front of you, obviously."
+
+"Hey!"
+
+"Wait, I take that back. I forgot you're not on the best terms with your parents. Clearly I'll have to murder your girlfriend instead." Layo was on a roll with this. "And I wouldn't do it in front of you, because you'd kill me first. I'd do it somewhere else and then send you a video of it. And then I'd send you a heart emoji."
+
+"You <em>monster.</em>"
 
 
 ?????
