@@ -431,6 +431,15 @@ hat();
   
   optionally, a USB battery pack
   
+  
+  
+  Hat caveats:
+  avoid rain
+  carbon filter collects smells
+  the constant airflow occasionally makes my eyes dry
+  tiny sound and vibration
+  specific to head size
+  
 */
 
 organize();
