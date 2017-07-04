@@ -438,15 +438,35 @@ hat();
   carbon filter collects smells
   the constant airflow occasionally makes my eyes dry
   tiny sound and vibration
+  slightly top-heavy
   specific to head size
   
 */
+
+/*function hip_support () {
+  var reference = new Point (7, 3);
+  cut_by (2*inches, 0);
+  score_towards (0, reference.length);
+  cut_by (new Point ({length: 3+2+4.5, angle: reference.angle}));
+  var something = context.position.clone();
+  score_towards (new Point ({length: reference.length, angle: 90+reference.angle*2}));
+  cut_by (new Point ({length: 2.5, angle: reference.angle*3}));
+  cut_by (new Point ({length: 1, angle: reference.angle*2}));
+  cut_to (something + new Point ({length: reference.length, angle: 90+reference.angle*2}) + new Point ({length: 3.5, angle: reference.angle*2}));
+  cut_by (new Point ({length: -3.5, angle: reference.angle*2}));
+  cut_by (new Point ({length: -(3+2+1.5), angle: reference.angle}));
+  cut_by (-2*inches, 0);
+}
+move_to (0, -20*inches);
+hip_support();*/
 
 organize();
 
 context.paths.forEach(function(path) {
   path.strokeWidth = 1*pixels;
 });
+
+//project.view.scale (10);
 
 var exportSVG = function() {
   var svg = project.exportSVG();
