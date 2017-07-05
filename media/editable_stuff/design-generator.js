@@ -340,18 +340,18 @@ function hat() {
     var wall_segment_length = (current.wall_vector - next.wall_vector).length;
     var band_segment_length = (current.band_vector - next.band_vector).length;
     
-    /*if (current.wall_bonus >0.3) {
+    if (current.wall_bonus >0.3) {
       move_to (brim_center + current.air_holes [0]);
       cut_to (brim_center + current.air_holes [1]);
       cut_to (brim_center + current.air_holes [2]);
       cut_to (brim_center + current.air_holes [0]);
-    }*/
-    if (current.wall_bonus >0.3 && next.wall_bonus >0.3 && index % 3 !== 0) {
+    }
+    /*if (current.wall_bonus >0.3 && next.wall_bonus >0.3 && index % 3 !== 0) {
       move_to (brim_center + current.air_holes [3]);
       cut_to (brim_center + current.air_holes [4]);
       cut_to (brim_center + current.air_holes [5]);
       cut_to (brim_center + current.air_holes [3]);
-    }
+    }*/
     
     if (index % 3 === 0) {
       var centers = [roof_center, brim_center];
