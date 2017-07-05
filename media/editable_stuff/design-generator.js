@@ -165,9 +165,9 @@ var band_depth = 1*inches;
 var wall_height = 7*inches;
 var wall_overlap = 1*inches;
 var air_holes_width = 1*inches;
-var back_wall_distance = 0.5*inches;
+var back_wall_distance = cardboard_width + (0.08)*inches;
 var brim_min_width = 2*inches;
-var wall_holder_length = 1*inches;
+var wall_holder_length = band_depth + (1/8)*inches;
 var wall_holder_tab_length = 0.5*inches;
 
 
@@ -288,7 +288,7 @@ function hat() {
   iterate (function() {
     current.previous_perpendicular = (current.head_vector - previous.head_vector).rotate (-90).normalize();
     current.previous_middle = (current.head_vector + previous.head_vector)/2;
-    current.wall_bonus = Math.max (0, 1 - Math.abs ((index-0.5)/(brim_segments/4) - 1)*2);
+    current.wall_bonus = Math.max (0, 1 - Math.abs ((index-0.5)/(brim_segments/4) - 1)*1.5);
     current.wall_distance = padding_width + cardboard_width + air_holes_width*current.wall_bonus + back_wall_distance*(1 - current.wall_bonus);
     current.wall_vector = current.previous_middle + current.previous_perpendicular*current.wall_distance;
     current.wall_holder_vector = current.wall_vector + current.previous_perpendicular*cardboard_width;
@@ -340,13 +340,13 @@ function hat() {
     var wall_segment_length = (current.wall_vector - next.wall_vector).length;
     var band_segment_length = (current.band_vector - next.band_vector).length;
     
-    if (current.wall_bonus >0.01) {
+    /*if (current.wall_bonus >0.3) {
       move_to (brim_center + current.air_holes [0]);
       cut_to (brim_center + current.air_holes [1]);
       cut_to (brim_center + current.air_holes [2]);
       cut_to (brim_center + current.air_holes [0]);
-    }
-    if (current.wall_bonus >0.01 && next.wall_bonus >0.01 && index % 3 !== 0) {
+    }*/
+    if (current.wall_bonus >0.3 && next.wall_bonus >0.3 && index % 3 !== 0) {
       move_to (brim_center + current.air_holes [3]);
       cut_to (brim_center + current.air_holes [4]);
       cut_to (brim_center + current.air_holes [5]);
@@ -443,30 +443,37 @@ hat();
   
 */
 
-/*function hip_support () {
-  var reference = new Point (7, 3);
-  cut_by (2*inches, 0);
+function hip_support () {
+  var reference = new Point (7*inches, 3*inches);
+  cut_by(new Point (2*inches, 0));
   score_towards (0, reference.length);
-  cut_by (new Point ({length: 3+2+4.5, angle: reference.angle}));
+  protrusion (new Point ({length: (3)*inches, angle: reference.angle}), new Point ({length: (1)*inches, angle: reference.angle-90}));
+  score_towards (new Point ({length: (7)*inches, angle: reference.angle+90}));
+  cut_by(new Point ({length: (2)*inches, angle: reference.angle}));
+  score_towards (new Point ({length: (7)*inches, angle: reference.angle+90}));
+  protrusion (new Point ({length: (4.5)*inches, angle: reference.angle}), new Point ({length: (1)*inches, angle: reference.angle-90}));
   var something = context.position.clone();
-  score_towards (new Point ({length: reference.length, angle: 90+reference.angle*2}));
-  cut_by (new Point ({length: 2.5, angle: reference.angle*3}));
-  cut_by (new Point ({length: 1, angle: reference.angle*2}));
-  cut_to (something + new Point ({length: reference.length, angle: 90+reference.angle*2}) + new Point ({length: 3.5, angle: reference.angle*2}));
-  cut_by (new Point ({length: -3.5, angle: reference.angle*2}));
-  cut_by (new Point ({length: -(3+2+1.5), angle: reference.angle}));
+  score_by(new Point ({length: reference.length, angle: 90+reference.angle*2}));
+  var whatever = context.position.clone();
+  cut_by (new Point ({length: 2.5*inches, angle: reference.angle*2}));
+  var weird_distance = 6.6*inches;
+  score_towards (new Point ({length: weird_distance, angle: reference.angle*2-90}));
+  cut_by (new Point ({length: 1*inches, angle: reference.angle*2}));
+  cut_by (new Point ({length: weird_distance, angle: reference.angle*2-90}));
+  cut_by (new Point ({length: 1*inches, angle: reference.angle*2-180}));
+  cut_to (something);
+  move_to (whatever);
+  cut_by (new Point ({length: (0+2+1.5)*inches, angle: 180+reference.angle}));
   cut_by (-2*inches, 0);
 }
 move_to (0, -20*inches);
-hip_support();*/
+hip_support();
 
 organize();
 
 context.paths.forEach(function(path) {
   path.strokeWidth = 1*pixels;
 });
-
-//project.view.scale (10);
 
 var exportSVG = function() {
   var svg = project.exportSVG();
