@@ -335,7 +335,8 @@ I've also been working on the next version of <a href="/blog/the-carrying-contra
 "title_url_override": "saddlebags-2-0",
 "tags": ["crass physical reality"],
 "auto_paragraphs": True,
-"blurb": "",
+"blurb": "My original saddlebags were built using a piece of aluminum. But why use regular old aluminum when you can use modern-day supermaterials?",
+"blurb_image": "/media/saddlebags-2-0-demo-1.jpg?rr",
 "contents":'''
 
 <p><a href="/blog/the-carrying-contraption">My original saddlebags</a> were built using a piece of aluminum. But why use regular old aluminum when you can use modern-day supermaterials?</p>
