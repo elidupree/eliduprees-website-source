@@ -330,6 +330,66 @@ I've also been working on the next version of <a href="/blog/the-carrying-contra
 ''',
 },
 
+{
+"title": "Saddlebags 2.0",
+"title_url_override": "saddlebags-2-0",
+"tags": ["crass physical reality"],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+<p><a href="/blog/the-carrying-contraption">My original saddlebags</a> were built using a piece of aluminum. But why use regular old aluminum when you can use modern-day supermaterials?</p>
+
+<img src="/media/cardboard-pile.jpg?rr" alt="[Photo: a pile of corrugated cardboard in various shapes.]" style="display:block; margin: 2em auto; max-width: 100%;">
+
+That's right, corrugated cardboard is a supermaterial. It's easy to build with, lightweight and strong. People have built chairs and even <em>bicycles</em> out of it. And on top of that, it's absurdly cheap and biodegradable. It's so cheap that I don't even have to <em>buy</em> it directly – I can just reuse the cardboard they use as packing materials when I buy other things.
+
+Behold:
+
+<div style=" margin: 2em auto; max-width: 100%;">
+<img src="/media/saddlebags-2-0-demo-1.jpg?rr" alt="[Photo: Me, wearing Saddlebags 2.0 around my hips. They are a rectangular-ish cardboard contraption that supports two cardboard boxes at my sides.]" style="flex-shrink:1; display:inline-block; max-width: 50%;"><img src="/media/saddlebags-2-0-demo-2.jpg?rr" alt="" style="flex-shrink:1; display:inline-block; max-width: 50%;">
+</div>
+
+I call these Saddlebags 2.0. They're a lot bulkier than <a href="/blog/the-carrying-contraption">saddlebags 1.0</a>, but they are <em>heavy-duty</em>. I was able to walk around while carrying <strong>32 pounds (15.5 kg) of encyclopedias</strong> in <cut>them (16 pounds on each side).
+
+These are 28 inches across. The old ones were 22 inches. (3 of the extra inches are because I used 4-inch pouches instead of 2.5-inch pouches. The other 3 are because the pouches are spaced further apart.) This makes it a little bulky, and I sometimes have to turn sideways to go through doors.
+
+In 1.0, the pouches were allowed to swing from side to side. This made it easier to move my legs. 2.0 has a rigid piece of cardboard connecting the two pouches, which constrains my legs a bit, but has its own advantages. I shaped it to match the shape of my hips, so it has a much better grip. I don't have to worry about it slipping even while I run or bicycle. Because of the grip, they're surprisingly convenient even though they are so wide.
+
+<h2>Materials and cost</h2>
+
+<ul>
+<li>A lot of corrugated cardboard – about 17.4 ft²/1.6 m² in total. I got it all from reused packing materials, but if I had to buy it, I could easily get it for about $4.50.</li>
+<li>Two 6"x7" foam pads for my hips. I cut these from an old sleeping pad. Proportionally, they were about $1 worth.</li>
+<li>Some white glue.</li>
+<li>A bit of clear packing tape.</li>
+</ul>
+
+<div style=" margin: 2em auto; max-width: 100%;">
+<img src="/media/saddlebags-2-0-demo-3.jpg?rr" alt="[Photo: Saddlebags 2.0 from the front.]" style="flex-shrink:1; display:inline-block; max-width: 33%;"><img src="/media/saddlebags-2-0-demo-5.jpg?rr" alt="[Photo: Saddlebags 2.0 from the side.]" style="flex-shrink:1; display:inline-block; max-width: 33%;"><img src="/media/saddlebags-2-0-demo-4.jpg?rr" alt="[Photo: Saddlebags 2.0 from the back.]" style="flex-shrink:1; display:inline-block;max-width: 33%;">
+</div>
+
+The biggest inconvenience so far has been something completely different: <em>Where do I put my arms?</em> Normally, I would hang my arms by my sides, right in the space taken up by the saddlebags. And when I was bicycling, my <em>legs</em> were fine, but I had to keep my arms raised so the front corners of the pouches didn't chafe them. I think I'll try to deal with this by putting a form-padded cover over the pouches, so that it's more comfortable for me to rest my arms on them. For instance, like this:
+
+<div style=" margin: 2em auto; max-width: 100%;">
+<img src="/media/saddlebags-2-0-demo-6.jpg?rr" alt="[Photo: Me, wearing Saddlebags 2.0, with my arms resting on them and my hands clasped in the front.]" style="flex-shrink:1; display:inline-block; max-width: 50%;"><img src="/media/saddlebags-2-0-demo-7.jpg?rr" alt="" style="flex-shrink:1; display:inline-block; max-width: 50%;">
+</div>
+
+<p>(And in any case, I need to add <em>some</em> sort of cover to protect the saddlebags in case I get caught in the rain.)</p>
+
+Also, I <em>would</em> like to make the next version a bit narrower. Making the <em>pouches</em> narrower would be easy, but moving them <em>closer together</em> will be a bit tricky to design. If I don't let them swing from side to side, they'll constrain my legs more. And if I let them swing from side to side, they'll naturally rest against my legs. (And if they do, they'll keep swinging inwards and bouncing off my legs when I walk or run while wearing it.) 1.0 could get away with this because its aluminum strut held up the pouches from the outside, so they hung straight down and didn't rest against my legs. 2.0 supports the pouches entirely from the inner top, so the large flat piece of cardboard at the back is necessary to keep the bottoms of the pouches away from each other (i.e. away from my legs).
+
+One idea is to put stops at the back so that the pouches can swing <em>outwards</em>, but not <em>inwards</em>. It would have more moving parts, though, potentially making it weaker.
+
+Overall, 2.0 is Heavy-Duty Saddlebags, sacrificing flexibility to be extra sturdy. If/when I build another version, I think I'll go for more of a compromise.
+
+
+
+
+
+''',
+},
+
 
 ]
 

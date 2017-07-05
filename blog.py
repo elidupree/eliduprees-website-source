@@ -626,7 +626,7 @@ def post_permalink(post_dict):
   if "long_story_name" in post_dict:
     index = post_dict["long_story_index"]
     return blog_posts.long_stories[post_dict["long_story_name"]]["url"]+("" if index == 1 else "/"+str (index))
-  return post_dict["path_prefix"]+url_formatted_title(post_dict)
+  return post_dict["path_prefix"]+ (post_dict ["title_url_override"] if "title_url_override" in post_dict else url_formatted_title(post_dict))
 
 
 def story_discussion_post (post_dict):
