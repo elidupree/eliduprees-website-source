@@ -444,19 +444,19 @@ hat();
 */
 
 function hip_support () {
-  var reference = new Point (7*inches, 3*inches);
+  var reference = new Point (3.5*inches, 1.5*inches);
   cut_by(new Point (2*inches, 0));
   score_towards (0, reference.length);
-  protrusion (new Point ({length: (3)*inches, angle: reference.angle}), new Point ({length: (1)*inches, angle: reference.angle-90}));
-  score_towards (new Point ({length: (7)*inches, angle: reference.angle+90}));
+  protrusion (new Point ({length: reference.y, angle: reference.angle}), new Point ({length: (1)*inches, angle: reference.angle-90}));
+  score_towards (new Point ({length: reference.x, angle: reference.angle+90}));
   cut_by(new Point ({length: (2)*inches, angle: reference.angle}));
-  score_towards (new Point ({length: (7)*inches, angle: reference.angle+90}));
-  protrusion (new Point ({length: (4.5)*inches, angle: reference.angle}), new Point ({length: (1)*inches, angle: reference.angle-90}));
+  score_towards (new Point ({length: reference.x, angle: reference.angle+90}));
+  protrusion (new Point ({length: reference.y + (1.5)*inches, angle: reference.angle}), new Point ({length: (1)*inches, angle: reference.angle-90}));
   var something = context.position.clone();
   score_by(new Point ({length: reference.length, angle: 90+reference.angle*2}));
   var whatever = context.position.clone();
   cut_by (new Point ({length: 2.5*inches, angle: reference.angle*2}));
-  var weird_distance = 6.6*inches;
+  var weird_distance = 3.3*inches;
   score_towards (new Point ({length: weird_distance, angle: reference.angle*2-90}));
   cut_by (new Point ({length: 1*inches, angle: reference.angle*2}));
   cut_by (new Point ({length: weird_distance, angle: reference.angle*2-90}));
@@ -466,8 +466,36 @@ function hip_support () {
   cut_by (new Point ({length: (0+2+1.5)*inches, angle: 180+reference.angle}));
   cut_by (-2*inches, 0);
 }
+function corner_support() {
+  var reference = new Point (3*inches - cardboard_width*2, 2*inches);
+  var depth = 2.5*inches;
+  var something = context.position.clone();
+  cut_by (0, depth);
+  cut_by (reference.y, 0);
+  score_towards (0, - depth);
+  score_by (reference.length, 0);
+  score_towards (0, - depth);
+  var whatever = context.position.clone();
+  cut_by(new Point ({length: reference.x, angle: 180-reference.angle}));
+  cut_by(new Point ({length: reference.y, angle: 270-reference.angle}));
+  move_to (whatever) ;
+  cut_by (reference.x, 0);
+  //score_towards (0, - depth);
+  //cut_by (reference.y, 0);
+  cut_by (0, - depth);
+  //cut_to (something);
+  cut_by (- reference.x, 0);
+  //whatever = context.position.clone();
+  score_towards (- reference.length, 0);
+  protrusion (new Point ({length: reference.x, angle: 180 + reference.angle}), new Point ({length: depth, angle: 270 + reference.angle}));
+  protrusion (new Point ({length: reference.y, angle: 90 + reference.angle}), new Point ({length: depth, angle: 180 + reference.angle}));
+  
+  cut_by (- reference.y, 0);
+}
 move_to (0, -20*inches);
 hip_support();
+move_to (0, -30*inches);
+corner_support();
 
 organize();
 
