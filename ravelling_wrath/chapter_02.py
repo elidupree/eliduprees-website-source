@@ -35,12 +35,7 @@ posts = [
 
 
   ''',
-  "head":'''<style>
-div.blog_post h2 {
-  text-align: center;
-}
-
-  </style>''',
+  "head":head,
   "contents": '''
 
 This chapter contains:

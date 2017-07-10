@@ -15,12 +15,7 @@ posts = [
 
 
   ''',
-  "head":'''<style>
-div.blog_post h2 {
-  text-align: center;
-}
-
-  </style>''',
+  "head":head,
   "contents": '''
 
 This chapter contains:
@@ -172,9 +167,41 @@ Layo smiled. "We-ell... I'd murder your parents right in front of you, obviously
 
 ?????
 
+<p class="text right">omg i love you so much can't want to see u &lt;3</p>
+<p class="text right">u ok? from the you-know-what last night</p>
+<p class="text right">anyway I thought of something that actually made me angry</p>
+<p class="text right">its like</p>
+<p class="text left">im ok</p>
+<p class="text left">tell me after school</p>
+<p class="text left">meet you out front?</p>
+<p class="text right">sure thing &lt;3 &lt;3 &lt;3</p>
+<div class="clear"></div>
+
+When I caught up to Yali after school, she didn't see me at first. She had her bags next to her on the bench, and she was sitting with her elbows resting on her knees, looking totally exhausted.
+
+"Yaliiiiiiiii!!"
+
+When she saw me, she stood up right away. I ran to her and hugged her fiercely. Then I pulled back and take another look at her. She was slightly smiling, looking like her regular self <em>now</em>, but… "No seriously, are you okay?" I said. "You looked like you were totally –"
+
+Yali rubbed my shoulders. "Don't worry about me. We have things to do."
+
+"Wait, which things?"
+
+"You said you thought of a, a –" Yali fumbled for her phone.
+
+"Oh yeah, the thing that made me angry? That was…" I glanced around, thinking about how to start explaining it. There was a kind of touchy subject.
+
+"Not here," Yali interrupted my thoughts. "Let's not get into serious business while we're just standing around. How about I take you to ?????? My treat."
+
+"I told you, I can't –"
+
+"The one near ????? Square."
+
+"Oh. Yeah. That'd be great!"
+
 I took her hand and we started walking.
 
-"You still haven't told me why you can't go to the place near the school," Yali said as we walked.
+"You still haven't told me why you can't go to the one near the school," Yali said as we walked.
 
 "Ugh, I don't want to tell that story. I was kind of irresponsible."
 
