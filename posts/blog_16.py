@@ -10,7 +10,6 @@ posts = [
 "title_url_override": "saddlebags-2-1",
 "tags": ["crass physical reality"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "blurb": "The same day I finished Saddlebags 2.0, we had a great idea for how to improve the design!",
 "blurb_image": "/media/saddlebags-2-1-demo-1.jpg?rr",
 "contents":'''
@@ -46,7 +45,7 @@ Also, there are a bunch of design things I still need to polish:
 
 <ul class="big_list">
 <li>The pouches need to be protected from rain. I plan to add a lid and cover them with waterproof contact paper. (The contact paper doubles as a way to decorate them with nice designs!) I also want to make the top of each pouch have a slight slant away from the body, so that rain is shed outwards instead of pooling on the lids and/or pouring onto your body. I'm confident I can make this work, but I'll have to do some math to shape the supporting pieces correctly.</li>
-<li>I want to build some slightly smaller boxes to organize the stuff <em>in</em> the pouches. Each one will have a small compartment just under the top lid of the box, and a larger compartment below it. That way, you can store small things at the top, then can grab them easily without having to dig through the whole box. Or you can pull the organizing-box out of the pouch and open it from the side, for easy access to the bigger stuff. Or something like that.</li>
+<li>I want to build some slightly smaller boxes to organize the stuff <em>in</em> the pouches. Each one will have a small compartment just under the top lid of the box, and a larger compartment below it. That way, you can store small things at the top, then grab them easily without having to dig through the whole box. Or you can pull the organizing-box out of the pouch and open it from the side, for easy access to the bigger stuff. Or something like that.</li>
 <li>The foam pads don't stay on very well. The glue doesn't fail, but the foam itself can easily tear apart if you pull on the corners. And that happens every time you put them on. For <em>myself</em>, I can just be careful and/or keep re-taping them, but if I want to sell them, I should make them more user-friendly. I need to change the design so they don't get pulled on, and/or find a tougher type of padding to use.</li>
 <li>Cutting out the cardboard is too much work for me currently. I can make a few prototypes, but building a lot of them would be too much for my hands. I'll need a different way to make the pieces. For the smaller pieces, I can reasonably pay a laser-cutting service. For the boxes, laser cutting might be inefficient because they're much larger. There are companies that sell cardboard boxes in bulk, but these are an unusual shape. I haven't found a place to buy 12"x12"x3" boxes that open on one of the narrow sides. I'll need to investigate things more.</li>
 <li>Right now, the strap is just a plain strap with a rolling hitch tied in it. I'm not sure this is secure enough. I should probably use a strap with a cam buckle in it.</li>

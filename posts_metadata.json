@@ -987,9 +987,11 @@
   "remembered_contents": "cac453f0cf0bcd7a8c169e5877ddd82ada83066819653d81bb304401b8c5cf212d98b6c7685379b273a44f633d7f1a56"
  },
  "Saddlebags 2.1": {
-  "date_modified": "2017-07-11",
-  "date_posted": "2017-07-11",
-  "id": "36457ba95bf075aebe53b022d21f6f8"
+  "date_modified": "2017-07-12",
+  "date_posted": "2017-07-12",
+  "deployed": true,
+  "id": "36457ba95bf075aebe53b022d21f6f8",
+  "remembered_contents": "82149216b53c9ce1b4520410ce82782e9b40d2a5e7c963bcc877375faab97f1b1f1e4da609369bae7cbde4c6374cacc5"
  },
  "Scrutinized words: man, woman, boy, girl": {
   "date_modified": "2011-06-13",
