@@ -1487,4 +1487,18 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"21547222dff536dfd0d5f0febcc9ba32",
   "date_posted":datetime.date(2017, 6, 22)
 },
+{
+  "parent":"955ce782f05869856690c7b472817be",
+  "username":"Kagar",
+  "contents":"""What kind of cardboard did you use? How do you determine what direction to put each piece?""",
+  "id":"c0cc0014f2d44bb6fd63651e00c03979",
+  "date_posted":datetime.date(2017, 7, 8)
+},
+{
+  "parent":"c0cc0014f2d44bb6fd63651e00c03979",
+  "username":"Eli Dupree",
+  "contents":"""This is all done using single-layer corrugated cardboard.<br/><br/>For parts that rely on <em>compressive</em> strength, I try to align the flutes in the same direction as the compressive force. If I put them perpendicular to the force, it's much easier for the cardboard to fold over along one flute. For <em>tensile</em> strength, the direction doesn't matter as much.<br/><br/>Most of the parts of the saddlebags are mostly using tensile strength. This includes the pouches, which happen to have the flutes oriented in different directions (one goes vertically along the large faces, the other goes horizontally) because I just happened to use pieces of cardboard that were the right shape to make the boxes that way.<br/><br/>The main compressive-strength parts are the hip supports and the big triangular tube at the back. The hip supports aren't very visible and are stuck being diagonal anyway. The triangular tube is the more interesting one. It has the flutes running side-to-side rather than front-to-back, because (I think) the main forces on it are trying to crush parts of it it in the side-to-side direction.<br/><br/>Specifically: In order to resist the downward force of gravity on the material in the pouches, the hip supports have to exert upward force. But the hip supports are at an angle, so every unit of upward force also gives some amount of outward force. The outward force from the hip supports tries to push the two pouches away from each other. But the pouches can't be pushed away from each other unless the triangular tube is bent. Trying to bend the tube puts side-to-side tension on the front part of the tube (and/or the top face), and side-to-side compressive force on the back part of the tube. Since that's the force I'm trying to resist, the flutes are aligned side-to-side. If they were front-to-back, it would be easier for the tube to start collapsing at the back edge.""",
+  "id":"ee7bd30480c28c79e4b97e2b8b2bbc1c",
+  "date_posted":datetime.date(2017, 7, 8)
+},
 ]
