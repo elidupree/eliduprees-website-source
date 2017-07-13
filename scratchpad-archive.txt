@@ -1,5 +1,286 @@
-
 ## I put old scratchpad contents in this file, so that that file can remain small without me deleting my data
+
+
+
+
+
+
+import math
+
+cardboard_width = 0.06
+padding_width = 3/8;
+
+
+box_length = 5.75
+box_width = 4.72 #4.75
+box_outer_length = box_length + cardboard_width*2
+box_outer_width = box_width + cardboard_width*2
+
+fan_depth = 1
+fan_outer_width = 4.72
+fan_inner_width = 4.5
+fan_inner_radius = fan_inner_width/2
+
+filter_depth = 0.5
+filter_outer_length = 5.75
+filter_outer_width = 3+15/16
+filter_border = 3/16
+filter_inner_length = filter_outer_length - filter_border*2
+filter_inner_width = filter_outer_width - filter_border*2
+filter_grip_width = (box_width - filter_inner_width)/2
+
+filter_placement = (box_width - filter_outer_width)/2
+fan_placement = (box_length - fan_outer_width)/2
+
+support_depth = 0.5
+
+box_depth = support_depth + cardboard_width + fan_depth + cardboard_width + filter_depth
+
+head_width = 6+3/8
+head_length = 7+5/8
+head_circumference = 22
+
+turn = math.pi*2
+
+next_id = 40000
+close = "z"
+
+def draw_path (path):
+  first = "M"
+  components = []
+  for location in path:
+    if location == "z":
+      components.append ("z")
+      first = "M"
+    else:
+      #convert in to pt and position within bounds
+      components.append (first + " " + str (location [0]*72 + 14.173) + " " + str (location [1]*72 + 14.173))
+      first = "L"
+  global next_id
+  next_id = next_id + 1
+  return '''<path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.0283465;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="'''+ " ".join (components) +''' "
+       id="'''+ str (next_id) +'''" />'''
+
+def split_path (path):
+  previous = None
+  components = []
+  origin = None
+  for location in path:
+    #print (location, origin)
+    if location == close:
+      components.append ([previous, origin])
+      origin = None
+      previous = None
+    else:
+      if previous is not None:
+        components.append ([previous, location])
+      previous = location
+      if origin is None:
+        origin = location
+  return components
+
+def perforated (component):
+  vertex = (component [1] [0] - component [0] [0], component [1] [1] - component [0] [1])
+  distance = math.sqrt (vertex [0]*vertex [0] + vertex [1]*vertex [1])
+  perforation_length = 1/8
+  segments = math.floor (distance/perforation_length)
+  increment = segments*2 + 1
+  result = []
+  for index in range (segments):
+    factor_1 = (index*2 + 1)/increment
+    factor_2 = (index*2 + 2)/increment
+    result.append ([
+      (component [1] [0] - vertex [0]*factor_1, component [1] [1] - vertex [1]*factor_1),
+      (component [1] [0] - vertex [0]*factor_2, component [1] [1] - vertex [1]*factor_2)
+    ])
+  return result
+  
+def translate_path (path, horizontal, vertical):
+  for index in range (len (path)):
+    if type (path [index]) is tuple:
+      path [index] = (path [index] [0] + horizontal, path [index] [1] + vertical)
+      
+def flip_path (path):
+  for index in range (len (path)):
+    if type (path [index]) is tuple:
+      path [index] = (path [index] [0], -path [index] [1])
+
+def rectangle_center (first, second, width, height):
+  first = first + horizontal_default
+  second = second + vertical_default
+  return [(first - width/2, second - height/2), (first + width/2, second - height/2), (first + width/2, second + height/2), (first - width/2, second + height/2), close]
+
+vertical_default = 0
+def rectangle_advance_vertical (first, second, width, height):
+  global vertical_default
+  result = rectangle_corner(first, second, width, height)
+  vertical_default = vertical_default + height
+  return result
+horizontal_default = 0
+def rectangle_advance_horizontal (first, second, width, height):
+  global horizontal_default
+  result = rectangle_corner(first, second, width, height)
+  horizontal_default = horizontal_default + width
+  return result
+
+def rectangle_corner (first, second, width, height):
+  first = first + horizontal_default
+  second = second + vertical_default
+  return [(first, second), (first + width, second), (first + width, second + height), (first, second + height), close]
+
+def oval (first, second, width, height, segments, parity, inscribed):
+  first = first + horizontal_default
+  second = second + vertical_default
+  inaccuracy = 1 if inscribed else math.cos (turn*0.5/segments);
+  result = []
+  for index in range (0, segments):
+    angle = turn*(index + parity)/segments
+    result.append ((first + width*math.cos (angle)/inaccuracy, second + height*math.sin (angle)/inaccuracy))
+  result.append (close)
+  return result
+  
+paths = [
+  #rectangle_corner (0, 0, box_width + box_length + box_width + box_length, box_depth),
+  [(0, 0), (0, box_depth + filter_grip_width), (box_length, box_depth + filter_grip_width), (box_length, box_depth), (box_length + box_width, box_depth), (box_length + box_width, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth + filter_grip_width),(box_length + box_width + box_length, box_depth), (box_length + box_width + box_length + box_width, box_depth), (box_length + box_width + box_length + box_width, 0), close],
+]
+
+band_depth = 1
+air_width = 1
+brim_min_width = 2
+
+hat_top = []
+hat_brim = []
+hat_band = [rectangle_advance_vertical (0, 0, head_circumference + turn*padding_width, band_depth)]
+
+
+#flip_path (paths [0])
+#translate_path (paths [0], 0, box_depth + filter_grip_width)
+translate_path (paths [0], 0, vertical_default)
+
+horizontal_default = 0
+vertical_default = vertical_default + box_depth + filter_grip_width
+long_position = vertical_default
+
+
+supports = [
+  rectangle_advance_vertical (0, 0, box_length, support_depth),
+  rectangle_advance_vertical (0, 0, box_length, support_depth),
+  
+  #the other supports aren't strictly needed. However:
+  # – supports in the filter allow you to run it without the filter, like for cooling
+  # – supports in the fan area allow you to run it without the fan, like if you have some other source of airflow
+  # – having ALL the supports means that the gates can stay in place even when the components aren't there, such as during construction and if you temporarily removed them to use for something else.
+  
+  rectangle_advance_vertical (0, 0, box_length, fan_depth - cardboard_width),
+  rectangle_advance_vertical (0, 0, box_length, fan_depth - cardboard_width),
+   
+  rectangle_advance_vertical (0, 0, box_length, filter_depth - cardboard_width),
+  rectangle_advance_vertical (0, 0, box_length, filter_depth - cardboard_width),
+]
+
+horizontal_default = box_length
+vertical_default = long_position
+placements = [
+  rectangle_advance_horizontal (0, 0, fan_placement, box_width),
+  rectangle_advance_horizontal (0, 0, fan_placement, box_width),
+  rectangle_advance_horizontal (0, 0, filter_placement, box_length),
+  rectangle_advance_horizontal (0, 0, filter_placement, box_length),
+]
+
+gates = [
+  oval (box_width/2, box_length/2, fan_inner_width/2, fan_inner_width/2, 8, 0.5, False)[-2::-1] + [close] + rectangle_advance_horizontal (0, 0, box_width, box_length),
+  rectangle_center (box_width/2, box_length/2, filter_inner_width, fan_inner_width)[-2::-1] + [close] + rectangle_advance_horizontal (0, 0, box_width, box_length),
+]
+
+
+brim_segments = 24
+for index in range (brim_segments + 1):
+  angle = turn*(index)/brim_segments
+  vertex = (
+    (head_width /2 + padding_width + cardboard_width)*math.cos (angle),
+    (head_length/2 + padding_width + cardboard_width)*math.sin (angle)
+  )
+  distance = math.sqrt (vertex [0]*vertex [0] + vertex [1]*vertex [1])
+  cut_factor = (distance - band_depth)/distance
+  cut_vertex = (vertex [0] * cut_factor, vertex [1] * cut_factor)
+  bonus_factor = 1 - abs (angle - (turn/4))/(turn/8)
+  bonus_vertex = None
+  if bonus_factor >0:
+    bonus_vertex_factor = ((distance + air_width * bonus_factor)/distance)
+    bonus_vertex = (vertex [0] * bonus_vertex_factor, vertex [1] * bonus_vertex_factor)
+  
+  if index > 0:
+    hat_brim.append ([vertex, cut_vertex])
+    hat_brim.append ([cut_vertex, previous_cut_vertex])
+    hat_brim.extend (perforated ([vertex, previous_vertex]))
+    hat_top.append ([
+      vertex if bonus_vertex is None else bonus_vertex,
+      previous_vertex if previous_bonus_vertex is None else previous_bonus_vertex
+    ])
+    if (bonus_vertex is not None) and (previous_bonus_vertex is not None):
+      factor_1 = 0.8
+      factor_2 = 0.2
+      endpoint_1 = (bonus_vertex [0]*factor_1 + previous_bonus_vertex [0]*factor_2,
+                    bonus_vertex [1]*factor_1 + previous_bonus_vertex [1]*factor_2)
+      endpoint_2 = (previous_bonus_vertex [0]*factor_1 + bonus_vertex [0]*factor_2,
+                    previous_bonus_vertex [1]*factor_1 + bonus_vertex [1]*factor_2)
+      midpoint_1 = (vertex [0]*factor_1 + previous_bonus_vertex [0]*factor_2,
+                    vertex [1]*factor_1 + previous_bonus_vertex [1]*factor_2)
+      midpoint_2 = (previous_vertex [0]*factor_1 + bonus_vertex [0]*factor_2,
+                    previous_vertex [1]*factor_1 + bonus_vertex [1]*factor_2)
+      hat_brim.append ([endpoint_1, midpoint_1])
+      hat_brim.append ([midpoint_1, midpoint_2])
+      hat_brim.append ([midpoint_2, endpoint_2])
+      hat_brim.extend (perforated ([endpoint_1, endpoint_2]))
+  
+  previous_angle = angle
+  previous_vertex = vertex
+  previous_cut_vertex = cut_vertex
+  previous_bonus_vertex = bonus_vertex
+
+for whatever in hat_brim:
+  flip_path (whatever)
+  translate_path (whatever, 31 - head_width/2 - padding_width - cardboard_width - brim_min_width, 15 - head_length/2 - padding_width - cardboard_width - brim_min_width)
+
+for whatever in hat_top:
+  flip_path (whatever)
+  translate_path (whatever, 31 - head_width*1.5 - brim_min_width*2 - (padding_width + cardboard_width)*3, 15 - head_length/2 - padding_width - cardboard_width)
+
+diagonal = []
+horizontal = []
+vertical = []
+
+for path in (paths + supports + placements + gates + hat_top + hat_brim + hat_band):
+  for component in split_path (path):
+    (horizontal if component[0] [1] == component[1] [1] else vertical if component[0] [0] == component[1] [0] else diagonal).append (component)
+
+
+for (list, equal_dimension, different_dimension) in [(horizontal, 1, 0), (vertical, 0, 1)]:
+  for index in range (len (list)):
+    if list[index] [0] [different_dimension] >list[index] [1] [different_dimension]:
+      list[index] = (list[index] [1], list[index] [0])
+  
+  list.sort (key = lambda component: component [0] [equal_dimension] + 0.00001*component [0] [different_dimension])
+    
+  index = 0
+  while index <len (list) - 1:
+    if abs(list[index] [0] [equal_dimension] - list [index + 1] [0] [equal_dimension]) < 0.0001 and list [index] [1] [different_dimension] >= -0.0001 + list [index + 1] [0] [different_dimension]:
+      removed = list.pop (index + 1)
+      if removed [1] [different_dimension] >list [index] [1] [different_dimension]:
+        list [index] = (list [index] [0], removed [1])
+    else:
+      index = index + 1
+      
+
+
+#TODO: add tabs to enclosure; add folding lines; design hat; secure grip for purifier in hat so it needn't stick up; optimize; fix bug
+print ("\n".join ([draw_path (path) for path in (horizontal + vertical + diagonal)]))
+
+
+
+
 
 string ='''
 
