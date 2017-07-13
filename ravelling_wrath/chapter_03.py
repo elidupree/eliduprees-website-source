@@ -189,7 +189,7 @@ Yali rubbed my shoulders. "Don't worry about me. We have things to do."
 
 "You said you thought of a, a –" Yali fumbled for her phone.
 
-"Oh yeah, the thing that made me angry? That was…" I glanced around, thinking about how to start explaining it. There was a kind of touchy subject.
+"Oh yeah, the thing that made me angry? That was…" I glanced around, thinking about how to start explaining it. It was a kind of touchy subject.
 
 "Not here," Yali interrupted my thoughts. "Let's not get into serious business while we're just standing around. How about I take you to ?????? My treat."
 
@@ -373,9 +373,49 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 
 "I…" I thought about it.
 
+?????
 
+<p class="text left">One last thing. I plan to make you feel like you have no way out. But the truth is, you always have the right to back out of this. No matter what I say, if you say you don't want to do this anymore, I'll respect that.</p>
 
+?????
 
+As I got close to Yali's house, I all but forgot my hunger. I felt myself tensing up. I had no idea what was coming. I mean, we'd <em>discussed</em> all those things, but I didn't know what it was really going to be like.
+
+I rang the doorbell.
+
+The door cracked open. Yali's voice, tired and tense, came through the crack. "Come in. Don't touch me. Don't look directly at me."
+
+I let myself in. I wanted to run straight to her and hug her, like I always did, but she'd said not to… "So, are you –"
+
+"Shut up."
+
+She said it so dismissively, like she didn't even care. She paced a few steps away from me. "I will torment you," she said, "until you're so angry that you are willing to punch me. That is your only way out of this ordeal. Now," she faced me again and pointed to her stomach, "punch me once for practice. Right here. So you'll know what to do when the time comes."
+
+I made a fist, then hesitated. "Are you sure this is okay?"
+
+"Just do it."
+
+She was asking me to… But I couldn't punch Yali! I loved her! It was just <em>wrong!</em>
+
+"Stop wasting my time."
+
+I was frozen. I had to do it. But I couldn't. "I –"
+
+Yali grabbed my arm and slammed it into her stomach so hard that it hurt my wrist a little. "There. Like that. Now you do it."
+
+"Woah! You're gonna hurt yourself!"
+
+"I'll do it again if you don't."
+
+I – I couldn't let her get hurt. I swung my fist like she told me to, just not very hard.
+
+"Fine," she said. "But that was pathetic. Now sit in the chair."
+
+I stepped back and laughed nervously. "Ha ha, I know you're only saying this to make me angry."
+
+"Sit down."
+
+I <em>knew</em> she was only doing it to make me angry. But I couldn't stop a sickening doubt from creeping in. <em>Yali</em> wouldn't say that stuff to me, but… she wasn't acting like Yali at all. Her arms were slack, and all her movements were deadened. She wasn't reacting normally when I moved or spoke. And her voice was cold and flat, like when she had tried to make me mad on the first day.
 
 
 ''',
