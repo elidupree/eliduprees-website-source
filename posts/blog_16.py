@@ -66,7 +66,7 @@ So I have a lot of stuff to work out. But I'm very happy with what I've got so f
 "auto_paragraphs": True,
 "blurb": "",
 "contents":'''
-A few weeks ago, I built <a href="/blog/projects-update-2017-06-21">a top hat that is also an air purifier</a>. Last week, I stated building a second one. I wanted to improve on the design, and take photos of the process to show the rest of you.
+A few weeks ago, I built <a href="/blog/projects-update-2017-06-21">a top hat that is also an air purifier</a>. Last week, I stated building a second one. I wanted to improve on the design, and take photos of the process to show to the rest of you.
 
 I was hoping for this to be a triumphant post about how I built a great hat, but, well… you'll see.
 
@@ -79,7 +79,7 @@ I was hoping for this to be a triumphant post about how I built a great hat, but
 <li>A USB cord with one end missing.</li>
 <li>A 5V 40mm static pressure fan (NF-A4x20 5V).</li>
 <li>A 6"x4" HEPA filter.</li>
-<li>A box of cut-to-fit prefilter, which I cut to the same size.</li>
+<li>A box of cut-to-fit pre-filter, which I cut to the same size as the HEPA filter.</li>
 <li>Some thin nonporous foam, for making things airtight.</li>
 <li>Some white glue.</li>
 <li>Some clear packing tape.</li>
@@ -130,11 +130,11 @@ After cutting out the pieces, I started assembling them. The hat is made to the 
 <img src="/media/allergy-hat-2/band-gluing.jpg?rr" alt="" style="flex-shrink:1; display:inline-block; max-width: 33%;"><img src="/media/allergy-hat-2/foam-gluing-prepare.jpg?rr" alt="" style="flex-shrink:1; display:inline-block; max-width: 33%;"><img src="/media/allergy-hat-2/foam-gluing-finished.jpg?rr" alt="" style="flex-shrink:1; display:inline-block; max-width: 33%;">
 </div>
 
-That I attached the other pieces to the brim, making a complete hat! This hat has a fun feature: The roof and brim of the hat are attached to the wall by cardboard tabs in cardboard slots. You can pull out the tabs and collapse the whole hat into a much smaller space. This is useful for transporting it – for instance, I might need to collapse it to carry it by bicycle.
+Then I attached the other pieces to the brim, making a complete hat! This hat has a fun feature: The roof and brim of the hat are attached to the wall by cardboard tabs in cardboard slots. You can pull out the tabs and collapse the whole hat into a much smaller space. This is useful for transporting it – for instance, I might need to collapse it to carry it by bicycle.
 
 <img src="/media/allergy-hat-2/hat-assembled.jpg?rr" alt="" style="display:block; margin: 2em auto; max-width: 100%;">
 
-Then, I built the air-purifier box. It has a slot at one end for a prefilter, and a slot at the other end for the HEPA filter. In between, there's a wall with a hole for the fan to mount. The fan blows air from one side to the other. All of the assembly (not counting cutting) only took about 1.5 hours, and was less hard on my hands.
+Then, I built the air-purifier box. It has a slot at one end for a pre-filter, and a slot at the other end for the HEPA filter. In between, there's a wall with a hole for the fan to mount. The fan blows air from one side to the other. All of the assembly (not counting cutting) only took about 1.5 hours, and was less hard on my hands.
 
 <div style=" margin: 2em auto; max-width: 100%;">
 <img src="/media/allergy-hat-2/box-empty.jpg?rr" alt="" style="flex-shrink:1; display:inline-block; max-width: 33%;"><img src="/media/allergy-hat-2/box-pre-side.jpg?rr" alt="" style="flex-shrink:1; display:inline-block; max-width: 33%;"><img src="/media/allergy-hat-2/box-hepa-side.jpg?rr" alt="" style="flex-shrink:1; display:inline-block; max-width: 33%;">
