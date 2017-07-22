@@ -98,7 +98,7 @@ Finally an idea scraped out. It was rough, but I didn't have anything else, so i
 
 "That was… misguided, –"
 
-"I just got out of bed! You can't expect me to be, uh, correctly guided about everything!" It was a relief to be able to just be annoyed about something I was actually annoyed about.
+"I just got out of bed! You can't expect me to be, uh, right-guided about everything!" It was a relief to be able to just be annoyed about something I was actually annoyed about.
 
 "Misguided, but also honorable. You thought you were protecting your friend's secret." I winced internally at "friend" – <em>we were dating, for gods' sakes</em> – but I had bigger things to worry about right now.
 
@@ -146,17 +146,23 @@ Layo paused. "I <em>was</em> joking, but that's honestly the first thing I think
 
 "Never mind that, just – come on, you've gotta be able to come up with something better than that. You know I just don't put –"
 
-"– don't put up with people's you-know-what, I know."
+"– just don't put up with people's you-know-what, I know. If that doesn't count, hmm..."
 
-????
+"Hasn't there been any time I've come to you just stewing about something?"
 
-Layo put a hand over his chest. "If I think of when <em>I</em> get angry,
+"If you have, I'm not sure I can tell the difference? There's been a few times when I <em>thought</em> you were upset for real, but when we –"
 
-????
+"You mean like when I get kicked out of the ????? club? You were acting all <em>empathetic</em> and shit –"
 
-"Eh, never mind trying for serious answers. How about, like, pretend like we're in a movie. Like you're supervillain and you have an evil plan to make me lose control, what is it?"
+"Yeah, I remember you laughed it off like you didn't care. Not that I'm saying you didn't! I mean –"
 
-Layo smiled. "We-ell... I'd murder your parents right in front of you, obviously."
+I smirked. "Yeah, I pretty much didn't care about that."
+
+"That's okay! I mean..." Layo put a hand over his chest. "If I think of what makes <em>me</em> the most upset, it's not that kind of thing either. It's more about, uh, my own flaws. I, uh, I get really jealous of people sometimes, and I <em>know</em> it's wrong for me to be jealous, and it just eats me up. So, if you… I mean, it might not work the same way for you! I'm not saying there's something wrong with you if you get –"
+
+I guess I'd asked for it, but I didn't really want to get into Layo-level introspectiveness. "Eh, never mind being serious. How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
+
+Layo swallowed whatever he was going to say next. I wasn't sure how he was feeling, but then he relaxed. "We-ell..." he said, like he was mulling over my question. "Obviously, I'd murder your parents right in front of you. Obviously."
 
 "Hey!"
 
@@ -374,6 +380,24 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 "I…" I thought about it.
 
 ?????
+
+Being denied food?
+
+sure np
+
+and I guess itd be annoying but
+
+It doesn't need to anger you directly. Hunger will make you emotionally weaker.
+
+Skip lunch today.
+
+you coulda told me earlier >_<
+
+I could have. But then you'd have been more prepared for it.
+
+screwwww you lol
+
+<3
 
 <p class="text left">One last thing. I plan to make you feel like you have no way out. But the truth is, you always have the right to back out of this. No matter what I say, if you say you don't want to do this anymore, I'll respect that.</p>
 
