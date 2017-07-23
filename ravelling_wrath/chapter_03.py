@@ -160,7 +160,7 @@ I smirked. "Yeah, I pretty much didn't care about that."
 
 "That's okay! I mean..." Layo put a hand over his chest. "If I think of what makes <em>me</em> the most upset, it's not that kind of thing either. It's more about, uh, my own flaws. I, uh, I get really jealous of people sometimes, and I <em>know</em> it's wrong for me to be jealous, and it just eats me up. So, if you… I mean, it might not work the same way for you! I'm not saying there's something wrong with you if you get –"
 
-I guess I'd asked for it, but I didn't really want to get into Layo-level introspectiveness. "Eh, never mind being serious. How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
+I internally kicked myself. I guess I'd asked for it, but I wasn't really ready to get into Layo-level introspectiveness. "Eh, never mind being serious," I said. "How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
 
 Layo swallowed whatever he was going to say next. I wasn't sure how he was feeling, but then he relaxed. "We-ell..." he said, like he was mulling over my question. "Obviously, I'd murder your parents right in front of you. Obviously."
 
@@ -171,7 +171,13 @@ Layo swallowed whatever he was going to say next. I wasn't sure how he was feeli
 "You <em>monster.</em>"
 
 
+???
+
+
+
 ?????
+
+
 
 <p class="text right">omg i love you so much can't want to see u &lt;3</p>
 <p class="text right">u ok? from the you-know-what last night</p>
@@ -187,7 +193,7 @@ When I caught up to Yali after school, she didn't see me at first. She had her b
 
 "Yaliiiiiiiii!!"
 
-When she saw me, she stood up right away. I ran to her and hugged her fiercely. Then I pulled back and take another look at her. She was slightly smiling, looking like her regular self <em>now</em>, but… "No seriously, are you okay?" I said. "You looked like you were totally –"
+When she saw me, she stood up right away. I ran to her and hugged her fiercely. Then I pulled back and took another look at her. She was slightly smiling, looking like her regular self <em>now</em>, but… "No seriously, are you okay?" I said. "You looked like you were totally –"
 
 Yali rubbed my shoulders. "Don't worry about me. We have things to do."
 
