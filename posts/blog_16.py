@@ -64,7 +64,8 @@ So I have a lot of stuff to work out. But I'm very happy with what I've got so f
 "title": "The Misadventures of Allergy Hat 2",
 "tags": ["crass physical reality"],
 "auto_paragraphs": True,
-"blurb": "",
+"blurb": "I was hoping for this to be a triumphant post about how I built a great hat, but, well… you'll see.",
+"blurb_image": "/media/allergy-hat-2/hat-assembled.jpg?rr",
 "contents":'''
 A few weeks ago, I built <a href="/blog/projects-update-2017-06-21">a top hat that is also an air purifier</a>. Last week, I stated building a second one. I wanted to improve on the design, and take photos of the process to show to the rest of you.
 
@@ -85,7 +86,7 @@ I was hoping for this to be a triumphant post about how I built a great hat, but
 <li>Some clear packing tape.</li>
 </ul>
 
-Out of these materials, my only significant costs were for the fan (about $16) and the HEPA filter (about $4). I got the rest by taking bits of old things we had in storage. If you didn't have any of the materials to start out with, it would have a much bigger up-front cost.
+Out of these materials, my only significant costs were for the fan (about $16) and <cut>the HEPA filter (about $4). I got the rest by taking bits of old things we had in storage. If you didn't have any of the materials to start out with, it would have a much bigger up-front cost.
 
 I also used a lot of tools – scissors, rulers, clothespins, utility knives, and more.
 

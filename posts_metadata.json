@@ -1198,7 +1198,9 @@
  "The Misadventures of Allergy Hat 2": {
   "date_modified": "2017-07-19",
   "date_posted": "2017-07-19",
-  "id": "9b5bf7da706c7f38f276c290e246529"
+  "deployed": true,
+  "id": "9b5bf7da706c7f38f276c290e246529",
+  "remembered_contents": "7e5c422099a5325c01df3a9af9d89686452ca5486e2a93ba06f5ab67426a3beff33f9082ca14666a89f4118c232722ea"
  },
  "The Morality of Legend of Korra": {
   "date_modified": "2016-07-24",
