@@ -28,7 +28,7 @@ def add_page(page_dict, hyphenated_name, human_name):
     <div class="emscripten" id="status">Downloading...</div>
 
     <div class="emscripten">
-      <progress value="0" max="100" id="progress" hidden=1></progress>
+      <progress value="0" max="100" id="progress" hidden></progress>
     </div>
 
     
