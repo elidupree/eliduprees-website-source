@@ -6,7 +6,7 @@ import bars
 import blog
 
 blurb = "A simple test case of TimeSteward physics."
-blurb_image ="/media/voice-practice-tool-screenshot.png?rr"
+blurb_image ="/media/bouncy-circles-screenshot.png?rr"
 	  
 def add_pages(page_dict):
   add_page (page_dict, "bouncy-circles", "Bouncy circles")
