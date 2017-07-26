@@ -6,6 +6,7 @@ import re
 import utils
 import css
 import sys
+import html
 
 import posts.blog_01
 import posts.blog_02
@@ -108,7 +109,7 @@ for cat,post_list in posts.items():
     if "long_story_name" not in post_dict:
       post_dict["path_prefix"] = "/" if cat=="" else "/"+cat+"/"
     post_dict["category"] = cat
-    post_dict["word_count"] = utils.word_count (post_dict ["contents"])
+    post_dict["word_count"] = utils.word_count (html.unescape (utils.strip_tags (post_dict ["contents"])))
     if "auto_paragraphs" in post_dict:
       post_dict ["contents"] = utils.auto_paragraphs (post_dict ["contents"])
     if cat == 'blog':

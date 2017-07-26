@@ -30,7 +30,7 @@ def strip_tags(string):
   return re.sub(r"<.+?>","",string)
 
 def word_count (string):
-  return len(re. findall (r"\w[\w']*", html.unescape (strip_tags (string))))
+  return len(re. findall (r"\w[\w']*", string))
 
 def auto_paragraphs (string):
   return re.sub(r"""(?m)^([\w"]|<strong|<em).+?$""", lambda match: "<p>" + match.group (0) + "</p>", string)

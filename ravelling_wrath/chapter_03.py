@@ -397,13 +397,13 @@ It doesn't need to anger you directly. Hunger will make you emotionally weaker.
 
 Skip lunch today.
 
-you coulda told me earlier >_<
+you coulda told me earlier &gt;_&lt;
 
 I could have. But then you'd have been more prepared for it.
 
 screwwww you lol
 
-<3
+&lt;3
 
 <p class="text left">One last thing. I plan to make you feel like you have no way out. But the truth is, you always have the right to back out of this. No matter what I say, if you say you don't want to do this anymore, I'll respect that.</p>
 
