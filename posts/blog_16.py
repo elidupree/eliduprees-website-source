@@ -171,6 +171,26 @@ Since then, I've had some more design ideas that might work better. I'll get bac
 ''',
 },
 
+
+{
+"title": "Projects update 2017-07-26",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+This week, I've been hard at work on <a href="https://github.com/elidupree/time-steward">TimeSteward</a>, which I've <a href="/blog/eli-status-august-2016">briefly mentioned before</a>. My mind is pretty occupied with the design, so I don't have the energy to <em>explain</em> what I'm actually doing right now.
+
+However, I've managed to <a href="/time-steward-examples/bouncy-circles">make the bouncy-circles example into a webpage!</a>
+
+I've also been slowly working away at chapter 3 of <a href="/ravelling-wrath">Ravelling Wrath</a>, and it currently stands at about 4500 words.
+
+
+
+
+''',
+},
+
 ]
 
 """

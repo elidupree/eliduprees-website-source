@@ -9,16 +9,17 @@ blurb = "A simple test case of TimeSteward physics."
 blurb_image ="/media/bouncy-circles-screenshot.png?rr"
 	  
 def add_pages(page_dict):
-  add_page (page_dict, "bouncy-circles", "Bouncy circles")
-  add_page (page_dict, "simple-diffusion", "Simple diffusion")
+  add_page (page_dict, "bouncy-circles", "Bouncy circles", '''<p>Bouncy-circles example for <a href="https://github.com/elidupree/time-steward">TimeSteward</a>. Click near any circle to make it zoom towards the center. The circles should move smoothly if your computer is fast enough, but this prototype isn't very efficient, so they may move jerkily instead. Eventually stops working due to a known issue (just reload the page if you want).</p>''')
+  add_page (page_dict, "simple-diffusion", "Simple diffusion", "")
   
-def add_page(page_dict, hyphenated_name, human_name):
+def add_page(page_dict, hyphenated_name, human_name, description):
   utils.make_page (page_dict,
     '/time-steward-examples/' + hyphenated_name,
       human_name + " ⊂ TimeSteward examples ⊂ Eli Dupree's website",
       r'''
       <style>
       html,body {background-color: white;}
+      p {text-align: center; font-size: 110%; max-width: 50em; margin: 0.9em auto;}
       </style>
       <link rel="stylesheet" type="text/css" href="/media/time-steward-examples/emscripten-examples.css?rr">''',
       '''<a class="skip" href="#content">Skip to content</a>
@@ -33,6 +34,7 @@ def add_page(page_dict, hyphenated_name, human_name):
 
     
     <div class="emscripten_border">
+      '''+ description +'''
       <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
     </div>
     <textarea id="output" rows="8"></textarea>
