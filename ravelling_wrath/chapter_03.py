@@ -130,9 +130,11 @@ I met Layo at lunch that day. I gave our usual greeting, running up and giving h
 
 "Hey hey, what's up?"
 
-<em>So much</em> was up. I opened my mouth to start telling him all about it, but something stopped me. It was just too much to explain. It would take forever, and…
+<em>So much</em> was up. I opened my mouth to start telling him all about – well, to tell him that I <em>would</em> have something big to tell him when we could talk in private. He was right there. All I'd have to do was open my mouth and say "Layo, I've got some big news, when can we talk?"
 
-Anyway, I had something else to talk about. "Layo, what makes me mad?"
+But... something stopped me. It was just too much to explain. It would take forever, and…
+
+Anyway, I had something else on my mind. "Layo, what makes me mad?"
 
 "Assholes?"
 
@@ -168,16 +170,27 @@ Layo swallowed whatever he was going to say next. I wasn't sure how he was feeli
 
 "Wait, I take that back. I forgot you're not on the best terms with your parents. Clearly I'll have to murder your girlfriend instead." Layo was on a roll with this. "And I wouldn't do it in front of you, because you'd kill me first. I'd do it somewhere else and then send you a video of it. And then I'd send you a heart emoji."
 
-"You <em>monster.</em>"
+"You <em>monster.</em>" I dove at Layo and started tickling the shit out of him. He squirmed out of the way and tickled me back, and before long we had both stumbled and smashed into one of the lunch tables.
 
+"Rinn Akatura! No roughhousing in the lunchroom!"
 
-???
+"It was my fault," said Layo immediately. A lot of heads were turning our way, not to mention the poor sods at the table we'd hit. I'd heard a glass of juice spill somewhere.
 
+"I know perfectly well it wasn't. Rinn –"
 
+"Leave her alone, lunch fascist!" said another voice. Some of my other friends were showing up.
 
-?????
+"Everyone calm down," I said, laughing. I wasn't <em>against</em> yelling at a few authority figures, but I had better things to do right now. "I promise I'll clean it up, okay?"
 
+"Just don't do it again." Heh. If they actually made me clean it up, I'd just end up making a bigger mess, and they knew it.
 
+Dehel tried to keep yelling in my defense, so I covered his mouth and dragged him off towards the lunch lines. We all got our lunches and found an empty table to sit at. As I sat down, I was still grinning and catching my breath from the tickle fight. Between the food and the ????? playful arguing my group always did ?????, I almost forgot ?????.
+
+<bigbreak>
+
+But somewhere in the back of my mind, the idea of <em>murdering your girlfriend</em> had stirred a memory.
+
+As soon as I had a moment alone in the halls, I pulled out my phone and started texting Yali.
 
 <p class="text right">omg i love you so much can't want to see u &lt;3</p>
 <p class="text right">u ok? from the you-know-what last night</p>
