@@ -32,7 +32,9 @@ stimulation_list = [
   simple_item ("pinch/twist my nipples", 1, 6, 0, 3, immediate, "TODO description"),
   simple_item ("stroke/lick/suck my neck, nipples, undersides of arms, sides, face, inner thighs", 0, 2, 1, 6, immediate, "TODO description", {"variants":[
     simple_item (verb+" "+noun, 0, 2, 1, 6, immediate, "", {"weight":weight, "no_self": verb != "stroke"})
-    for (verb, weight) in [("stroke", 2), ("lick", 1), ("suck", 1)] for noun in ["my neck","my nipples","the undersides of my arms","my sides","my face","my inner thighs"]
+      for (verb, weight) in [("stroke", 2), ("lick", 1), ("suck", 1)]
+      for noun in ["my neck","my nipples","the undersides of my arms","my sides","my face","my inner thighs"]
+      if (verb != "suck") or (noun not in ["my sides","my face","my inner thighs"])
   ]}),
   simple_item ("slap/whip me in the chest, nipples, stomach, inner thighs", 1, 7, 0, 2, immediate, "The best thing is to slap/whip me on all different parts of my body. If you whip the same spot repeatedly, the pain gets more intense, but stops being sexy.", {"variants":[
     simple_item (verb+" me in the "+noun, 1 + intensity, 5 + intensity, 0, 2, time, "")
@@ -41,6 +43,7 @@ stimulation_list = [
   simple_item ("spray me with water", 0, 3, 1, 5, medium, "TODO description"),
   simple_item ("hit me in the balls", 2, 7, 1, 3, immediate, '''Some people worry that the sudden pain of ball-kicking can risk causing a heart attack. I normally avoid risk, but in this case, I think that I get a lot less pain than most people with testicles do. Maybe mine are desensitized because I've hit them for fun so many times, or maybe they've just always been less sensitive. When I was a little kid, I got hit there once during a soccer game, and my reaction was like "This pain is kind of weird, but why is everyone acting so empathetic? It's not THAT bad."<br> The real caveat is that if my balls get hit a lot of times, they'll be achy for the next few days, which is inconvenient. Hitting them <em>hard</em> is good if you do it once or a few times, but hitting them <em>repeatedly</em> is a bigger commitment.''', {"caveat": True}),
   simple_item ("scratch me", 2, 5, 2, 3, immediate, "I didn't think of this myself. A play partner asked to try scratching me, and I didn't expect much from it, but it turned out to be a much bigger sensation than I expected. Kind of like tickling, but more aggressive. Scratching me repeatedly gets annoying, but an occasional long scratch really emphasizes that you have the power to inflict sensations on me, which is exciting."),
+  simple_item ("scratch the soles of my feet", 4, 7, 0, 1, immediate+1, "TODO description"),
   simple_item ("force me to orgasm", 0, 2, 3, 7, medium, '''Being forced to orgasm is a huge fantasy for me. The trouble is that generally, after I <em>actually</em> orgasm, I completely lose interest in sexual things. I don't even get the "post-orgasm glow" or satisfied feeling that a lot of people say they get. I <em>sometimes</em> stay interested, but I don't know exactly what determines it. With the right play partner, I might be interested in experimenting with this. Currently, I generally avoid orgasming when actually playing with people.''', {"caveat": True}),
   simple_item ("dunk me in water", 1, 2, 1, 4, medium, "TODO description"),
   simple_item ("put your hand threateningly on my throat, balls", 0, 1, 2, 4, immediate, "I don't do actual choking because of the risks, but the threat is exciting.", {"no_self": True, "variants": [
@@ -48,7 +51,7 @@ stimulation_list = [
     for noun in ["throat","balls"]
   ]}),
   simple_item ("talk to me intimidatingly", 0, 2, 0, 4, immediate, "I feel like most of the time I'd just laugh at it, but if you said exactly the right thing and I was in exactly the right mood, it could be exciting.", {"no_self": True, "unsure": True}),
-  simple_item ("electrostim", 1, 7, 0, 1, immediate, "The idea of being tortured with electricity turns me on a lot. In practice, I'd have to find someone who was enough of an expert to make sure it was safe. It's not my biggest desire, so I haven't gone out looking, but if I run into someone with the knowledge, I'm eager to try it.", {"unsure": True}),
+  simple_item ("electrostim", 1, 7, 0, 1, immediate, "The idea of being tortured with electricity turns me on a lot. In practice, I'd have to find someone who was enough of an expert to make sure it was safe. It's not my biggest desire, so I haven't gone out looking, but if I run into someone with the knowledge, I'm eager to try it.", {"unsure": True, "no_generate": True}),
 ]
 
 participation_list = [
@@ -64,20 +67,20 @@ participation_list = [
 ]
 
 conditions_list = [
-  simple_item ("I'm tied up", 0, 3, 0, 3, medium, "TODO description", {"inflict": "tie me up"}),
-  simple_item ("I'm blindfolded", 0, 2, 0, 1, immediate, "TODO description", {"inflict": "blindfold me"}),
+  simple_item ("I'm tied up", 0, 3, 0, 3, medium, "TODO description", {"inflict": "tie me up", "enhance": True}),
+  simple_item ("I'm blindfolded", 0, 2, 0, 1, immediate, "TODO description", {"inflict": "blindfold me", "enhance": True}),
   simple_item ("I'm gagged", 0, 2, 0, 2, medium, "TODO description", {"inflict": "gag me"}),
-  simple_item ("I'm kneeling", 0, 2, 0, 0, immediate, "TODO description", {"participate": "kneel"}),
+  simple_item ("I'm kneeling", 0, 2, 0, 0, immediate, "TODO description", {"assume": "kneel", "enhance": True}),
   simple_item ("I'm forced to remain naked/partially naked", 0, 1, 0, 3, small, "TODO description", {}),
   simple_item ("I'm forced to remain naked when it's cold", 1, 3, 0, 3, small, "TODO description", {}),
   simple_item ("I have clothespins on my nipples", 1, 5, 0, 3, immediate + 1, "TODO description", {"inflict": "put clothespins on my nipples"}),
   simple_item ("I'm wearing a collar", 0, 1, 0, 2, small, "Collars aren't as exciting for me as they are for people who do power dynamics, but the slight pressure on my neck makes me feel nice and vulnerable.", {"inflict": "put a collar on me"}),
-  simple_item ("I'm forced to stand in a stress position, like with my legs bent and/or my arms over my head", 2, 5, 0, 4, immediate + 1, "Having my muscles straining makes all pleasure sensations much more intense.", {"participate": "stand in a stress position"}),
-  simple_item ("I'm in a predicament bondage position", 0, 3, 0, 3, medium, "TODO description", {"inflict": "put me in predicament bondage"}),
-  simple_item ("I'm forced to stay perfectly still", 0, 3, 0, 3, immediate, "TODO description", {"participate": "stay perfectly still"}),
-  simple_item ("I'm forced to keep my eyes closed", 2, 3, 0, 3, immediate, '''I don't normally trust people enough to close my eyes in front of them. If someone says "close your eyes", I just don't do it. In a BDSM context, it can make me nervous in a good way. It's like being blindfolded, but with the extra bonus that I feel threatened by the idea that I could be making a mistake by trusting the other person. (Literally speaking, I'm trusting them just as much if I let them blindfold me, but it feels different. It feels more like I have the option to open my eyes at any time, so the "mistake" is prolonged.)''', {"participate": "keep my eyes closed"}),
-  simple_item ("I'm forced to look you in the eye", 0, 3, 0, 2, immediate, "Eye contact can be slightly uncomfortable for me, as it is for many autistic people. In the right context, that discomfort can be used for fun. Also, it stops me from looking at what you're doing, which is exciting for the same reason as a blindfold.", {"participate": "look you in the eye", "caveat": True}),
-  simple_item ("one or more other people are watching/participating", 0, 3, 0, 3, medium, "Naturally, I would have to trust everyone involved. But I'd love to have people ganging up on me.", {"caveat": True}),
+  simple_item ("I'm forced to stand in a stress position, like with my legs bent and/or my arms over my head", 2, 5, 0, 4, immediate + 1, "Having my muscles straining makes all pleasure sensations much more intense.", {"maintain": "stand in a stress position", "enhance": True}),
+  simple_item ("I'm in a predicament bondage position", 4, 7, 0, 4, medium, "TODO description", {"inflict": "put me in predicament bondage", "enhance": True}),
+  simple_item ("I'm forced to stay perfectly still", 0, 1, 0, 1, immediate, "TODO description", {"maintain": "stay perfectly still", "enhance": True}),
+  simple_item ("I'm forced to keep my eyes closed", 2, 3, 0, 3, immediate, '''I don't normally trust people enough to close my eyes in front of them. If someone says "close your eyes", I just don't do it. In a BDSM context, it can make me nervous in a good way. It's like being blindfolded, but with the extra bonus that I feel threatened by the idea that I could be making a mistake by trusting the other person. (Literally speaking, I'm trusting them just as much if I let them blindfold me, but it feels different. It feels more like I have the option to open my eyes at any time, so the "mistake" is prolonged.)''', {"maintain": "keep my eyes closed", "enhance": True}),
+  simple_item ("I'm forced to look you in the eye", 0, 3, 0, 2, immediate, "Eye contact can be slightly uncomfortable for me, as it is for many autistic people. In the right context, that discomfort can be used for fun. Also, it stops me from looking at what you're doing, which is exciting for the same reason as a blindfold.", {"maintain": "look you in the eye", "caveat": True, "enhance": True}),
+  simple_item ("one or more other people are watching/participating", 0, 0, 0, 2, medium, "Naturally, I would have to trust everyone involved. But I'd love to have people ganging up on me.", {"caveat": True, "no_generate": True}),
 ]
 
 lists = [
@@ -180,7 +183,17 @@ textarea {display: block; width: 100%; height: 10em;}
   ''',
   "after_body": """<script type="text/javascript">
 
+var stimulation = 0;
+var participation = 1;
+var conditions = 2;
 var preprocessed_lists = JSON.parse (`"""+json.dumps(lists)+r"""`)
+
+function rename (item, name) {
+  var changed = Object.assign({}, item);
+  changed.name = name;
+  return changed;
+}
+
 preprocessed_lists.forEach(function(list) {
   var varying = [];
   list.list = list.list.filter(function(item) {
@@ -189,7 +202,6 @@ preprocessed_lists.forEach(function(list) {
       return false;
     }
     if (item.no_generate) {
-      Array.prototype.push.apply (varying, item.variants);
       return false;
     }
     return true;
@@ -197,8 +209,24 @@ preprocessed_lists.forEach(function(list) {
   
   Array.prototype.push.apply (list.list, varying);
 });
+preprocessed_lists.forEach(function(list) {
+  list.list.forEach(function(item) {
+    item.max_sensation = Math.max (item.max_unpleasantness, item.max_pleasantness);
+    if (item.inflict) {
+      preprocessed_lists[stimulation].list.push (rename (item, item.inflict));
+    }
+    if (item.assume) {
+      preprocessed_lists[participation].list.push (rename (item, item.assume));
+    }
+  });
+});
+Array.prototype.push.apply (preprocessed_lists[participation].list, preprocessed_lists[stimulation].list.filter (item => !item.no_self).map (item => {
+  var changed = Object.assign({}, item);
+  changed.name = item.name.replace (/\bme\b/, "myself").replace (/\bmy\b/, "my own").replace (/\byour\b/, "my");
+  return changed;
+}));
 
-//stimulation_list = lists[0];
+
 
 /* Things to generate notes
 punishment for losing one round of a game
@@ -214,23 +242,68 @@ function random_range (min, max) {
 function random_choice (sequence) {
   return sequence [random_range (0, sequence.length)];
 }
+function choose (list) {
+  var item = random_choice (list);
+  return item && item.name
+}
 
+
+function inflict (lists) {
+  return choose (lists[stimulation]);
+}
+function participate (lists) {
+  return choose (lists[participation]);
+}
+function condition (lists) {
+  return choose (lists[conditions]);
+}
+function maintain_condition (lists) {
+  return choose (lists[conditions].filter (item => item.maintain).map (item => rename (item, item.maintain)));
+}
+/*function while_enhanced (lists) {
+  var item = random_choice (lists[conditions].filter (item => item.enhance && !item.maintain));
+  if (item.inflict)
+    return "agree to " + participate (lists);
+  }
+  return "let you " + choose (lists [stimulation].filter (item => item.max_unpleasantness < 6));
+}*/
+function surrender (lists) {
+  if (Math.random() <0.5) {
+    return "agree to " + participate (lists);
+  }
+  return "let you " + choose (lists [stimulation].filter (item => item.max_unpleasantness < 6));
+}
+
+function act (lists) {
+  
+}
   var generators = [
     function(lists) {
-      var item = random_choice (lists[0]);
-      return item && "You " + item.name
+      return inflict (lists);
     },
     function(lists) {
-      var item = random_choice (lists[1]);
-      return item && "I must " + item.name
+      return "make me " + participate (lists);
     },
     function(lists) {
-      var item = random_choice (lists[0].filter (item => !item.no_self));
-      return item && "I must " + item.name.replace (/\bme\b/, "myself").replace (/\bmy\b/, "my own").replace (/\byour\b/, "my")
+      return "make me " + maintain_condition(lists) + " while you " + choose (lists [stimulation].filter (item => item.max_sensation >= 4));
+    },
+    function(lists) {
+      return choose (lists [stimulation].filter (item => item.max_unpleasantness >= 6).concat ([{name: "squeeze my balls"}])) + " until I " + surrender(lists);
+    },
+    function(lists) {
+      return "threaten to "+choose (lists [stimulation].filter (item => item.max_unpleasantness >= 6).concat ([{name: "squeeze my balls"},{name: "beat me up"},{name: "cut me with a (not actually sharp) knife"}])) + " unless I " + surrender(lists);
+    },
+    function (lists) {
+      return "while " + choose (lists[conditions].filter (item => item.enhance && !item.maintain)) + ", " + inflict(lists);
+    },
+  ];
+  var recursive_generators = [
+    function (lists, generate) {
+      return "while " + condition(lists) + ", " + generate();
     },
   ];
   
-function generate (parameters, recursion_levels) {
+function global_generate (parameters, recursion_levels) {
   var filter = function (item) {
     return (
       item.min_unpleasantness <= parameters.max_unpleasantness &&
@@ -248,7 +321,7 @@ function generate (parameters, recursion_levels) {
   return random_choice (generators)(filtered_lists);
 }
 function UI_generate() {
-  return generate({max_unpleasantness: $("#max_unpleasantness").val(), max_time: $("#max_time").val(), caveat_allowed: true});
+  return global_generate({max_unpleasantness: $("#max_unpleasantness").val(), max_time: $("#max_time").val(), caveat_allowed: true});
 }
 
 display = $("<textarea>");
