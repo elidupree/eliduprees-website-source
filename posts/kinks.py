@@ -285,14 +285,15 @@ preprocessed_lists.forEach(function(list) {
       preprocessed_lists[stimulation].list.push (adjust (item, {name: item.inflict, original_list: list.name}));
     }
     if (item.assume) {
-      preprocessed_lists[participation].list.push (rename (item, {name: item.assume, original_list: list.name}));
+      preprocessed_lists[participation].list.push (adjust (item, {name: item.assume, original_list: list.name}));
     }
   });
 });
 Array.prototype.push.apply (preprocessed_lists[participation].list, preprocessed_lists[stimulation].list.filter (item => !item.no_self).map (item => {
-  var changed = Object.assign({}, item);
-  changed.name = item.name.replace (/\bme\b/, "myself").replace (/\bmy\b/, "my own").replace (/\byour\b/, "my");
-  return changed;
+  return adjust (item, {
+    name: item.name.replace (/\bme\b/, "myself").replace (/\bmy\b/, "my own").replace (/\byour\b/, "my"),
+    weight: (item.weight || 1) / (item.max_unpleasantness > 3 ? 3 : 1000),
+  });
 }));
 
 
@@ -321,8 +322,8 @@ function participate (lists) {
 function condition (lists) {
   return choose (lists[conditions]);
 }
-function maintain_condition (lists) {
-  return choose (lists[conditions].filter (item => item.maintain).map (item => rename (item, item.maintain)));
+function maintain_condition (lists, need_enhance) {
+  return choose (lists[conditions].filter (item => item.maintain && (item.enhance || !need_enhance)).map (item => rename (item, item.maintain)));
 }
 /*function while_enhanced (lists) {
   var item = random_choice (lists[conditions].filter (item => item.enhance && !item.maintain));
@@ -342,6 +343,9 @@ function act (lists) {
   
 }
 
+function I_must_strip(lists) {
+      return "I must remove a piece of clothing";
+    }
 function I_must_participate(lists) {
       return "I must " + participate (lists);
     }
@@ -349,7 +353,7 @@ function make_me_participate(lists) {
       return "make me " + participate (lists);
     }
     function maintain_while_inflict (lists) {
-      return "make me " + maintain_condition(lists) + " while you " + choose (lists [stimulation].filter (item => item.max_sensation >= 4));
+      return "make me " + maintain_condition(lists, true) + " while you " + choose (lists [stimulation].filter (item => item.max_sensation >= 4));
     }
     function inflict_until_surrender (lists) {
       return choose (lists [stimulation].filter (item => item.max_unpleasantness >= 6).concat ([{name: "squeeze my balls"}])) + " until I " + surrender(lists);
@@ -363,7 +367,7 @@ function make_me_participate(lists) {
     }
     function challenge_to_maintain (lists) {
       var inflict_first = choose (lists [stimulation].filter (item => item.max_unpleasantness >= 5 && !item.original_list));
-      return "challenge me to " + maintain_condition(lists) + " while you " + inflict_first + ". If I can't keep it up, " + choose (lists [stimulation].filter (item => item.max_sensation >= 7 && item.name !== inflict_first));
+      return "challenge me to " + maintain_condition(lists, true) + " while you " + inflict_first + ". If I can't keep it up, " + choose (lists [stimulation].filter (item => item.max_sensation >= 7 && item.name !== inflict_first));
     }
   
 function global_generate (parameters, generators) {
@@ -392,7 +396,8 @@ function global_generate (parameters, generators) {
   return result;
 }
 function UI_generate(generators, parameters) {
-  var max_time = Math.min($("#max_time").val(), parameters.max_time || 10);
+  parameters = Object.assign({}, parameters);
+  var max_time = Math.min($("#max_time").val(), parameters.max_time || 7);
   delete parameters.max_time;
   return global_generate(Object.assign({max_unpleasantness: $("#max_unpleasantness").val(), max_time, caveat_allowed: true}, parameters), generators);
 }
@@ -434,11 +439,9 @@ $("#kink_generator").append (
       return list.id === "stimulation" || item.possible_tied
     }}
   ),
-  button("a punishment for losing one round of the game", 
-    [inflict, inflict, inflict, inflict, inflict, I_must_participate, maintain_while_inflict, inflict_until_surrender, threaten_unless_surrender, challenge_to_maintain],
-    {filter: function (item, list) {
-      return list.id === "stimulation" || item.possible_tied
-    }}
+  button("a punishment for losing one round of a game", 
+    [I_must_strip, inflict, inflict, I_must_participate, I_must_participate, maintain_while_inflict ],
+    { max_time: 3, }
   ),
   
   display
