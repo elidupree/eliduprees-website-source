@@ -40,7 +40,7 @@ stimulation_list = [
     simple_item ("put your hand threateningly on my "+noun, 0, 1, 2, 4, immediate, "", {"no_self": True})
     for noun in ["throat","balls"]
   ]}),
-  simple_item ("pull off my clothes", 0, 2, 1, 4, small, "This kind of requires my participation, but only a little."),
+  simple_item ("pull off my clothes", 0, 2, 1, 4, small, "This kind of requires my participation, but only a little.", {"weight":2, "no_self": True}), # no_self because there's already a participation version
   simple_item ("tickle me", 2, 5, 0, 3, immediate, "TODO description", {"no_self": True}),
   simple_item ("stroke/lick/suck my neck, nipples, undersides of arms, sides, face, inner thighs", 0, 2, 1, 6, immediate, "TODO description", {"variants":[
     simple_item (verb+" "+noun, 0, 2, 1, 6, immediate, "", {"weight":weight, "no_self": verb != "stroke"})
@@ -57,11 +57,11 @@ stimulation_list = [
   simple_item ("spray me with water", 0, 3, 1, 5, medium, "TODO description"),
   simple_item ("dunk me in water", 1, 2, 1, 4, medium, "TODO description"),
   simple_item ("hit me in the balls", 2, 7, 1, 3, immediate, '''Some people worry that the sudden pain of ball-kicking can risk causing a heart attack. I normally avoid risk, but in this case, I think that I get a lot less pain than most people with testicles do. Maybe mine are desensitized because I've hit them for fun so many times, or maybe they've just always been less sensitive. When I was a little kid, I got hit there once during a soccer game, and my reaction was like "This pain is kind of weird, but why is everyone acting so empathetic? It's not THAT bad."<br> The real caveat is that if my balls get hit a lot of times, they'll be achy for the next few days, which is inconvenient. Hitting them <em>hard</em> is good if you do it once or a few times, but hitting them <em>repeatedly</em> is a bigger commitment.''', {"variants":[
-    simple_item (verb+" me in the balls", 2, 7, 1, 3, immediate, "")
-    for verb in ["punch", "kick"]
+    simple_item (verb+" me in the balls", 2, 7, 1, 3, immediate, "", {"weight":0.6})
+    for verb in ["punch","punch","kick"]
   ]}),
-  simple_item ("scratch me", 2, 5, 2, 3, immediate, "I didn't think of this myself. A play partner asked to try scratching me, and I didn't expect much from it, but it turned out to be a much bigger sensation than I expected. Kind of like tickling, but more aggressive. Scratching me repeatedly gets annoying, but an occasional long scratch really emphasizes that you have the power to inflict sensations on me, which is exciting."),
-  simple_item ("scratch the soles of my feet", 4, 7, 0, 1, immediate+1, "TODO description"),
+  simple_item ("scratch me", 2, 5, 2, 3, immediate, "I didn't think of this myself. A play partner asked to try scratching me, and I didn't expect much from it, but it turned out to be a much bigger sensation than I expected. Kind of like tickling, but more aggressive. Scratching me repeatedly gets annoying, but an occasional long scratch really emphasizes that you have the power to inflict sensations on me, which is exciting.", {"weight":0.5}),
+  simple_item ("scratch the soles of my feet", 4, 7, 0, 1, immediate+1, "TODO description", {"weight":0.5}),
   simple_item ("force me to orgasm", 0, 2, 3, 7, medium, '''Being forced to orgasm is a huge fantasy for me. The trouble is that generally, after I <em>actually</em> orgasm, I completely lose interest in sexual things. I don't even get the "post-orgasm glow" or satisfied feeling that a lot of people say they get. I <em>sometimes</em> stay interested, but I don't know exactly what determines it. With the right play partner, I might be interested in experimenting with this. Currently, I generally avoid orgasming when actually playing with people.''', {"caveat": True}),
   simple_item ("talk to me intimidatingly", 0, 2, 0, 4, immediate, "I feel like most of the time I'd just laugh at it, but if you said exactly the right thing and I was in exactly the right mood, it could be exciting.", {"no_self": True, "unsure": True}),
   simple_item ("electrostim", 1, 7, 0, 1, immediate, "The idea of being tortured with electricity turns me on a lot. In practice, I'd have to find someone who was enough of an expert to make sure it was safe. It's not my biggest desire, so I haven't gone out looking, but if I run into someone with the knowledge, I'd be eager to try it.", {"unsure": True, "no_generate": True}),
@@ -274,8 +274,11 @@ something to do while I'm tied up
 function random_range (min, max) {
   return min + Math.floor (Math.random()*(max - min));
 }
-function random_choice (sequence) {
-  return sequence [random_range (0, sequence.length)];
+function random_choice (list) {
+  var total = list.reduce (function (total, item) {return total + (item.weight || 1);}, 0);
+  var choice = Math.random ()*total;
+  return list.find (function (item) {choice -= (item.weight || 1); return choice < 0.00000001});
+  //return list [random_range (0, list.length)];
 }
 function choose (list) {
   var item = random_choice (list);
