@@ -17,6 +17,15 @@ def simple_item(name, min_unpleasantness, max_unpleasantness, min_pleasantness, 
   })
   return result
 
+def brief_item(name, min_time_commitment, description, extra = {}):
+  result = extra.copy()
+  result.update ({
+    "name": name,
+    "min_time_commitment": min_time_commitment,
+    "description": description,
+  })
+  return result
+
 immediate = 1
 small = 3
 medium = 5
@@ -25,38 +34,41 @@ long = 8
 stimulation_list = [
   simple_item ("push me around", 0, 1, 0, 2, immediate, "TODO description", {"no_self": True}),
   simple_item ("pin me down", 0, 1, 0, 3, immediate, "TODO description", {"no_self": True}),
-  simple_item ("grab me by the hair", 1, 4, 0, 2, immediate, "A great combination of the slight pain of pulling my hair with physical control over the position of my head. Just be careful not to bend my neck in a weird direction."),
+  simple_item ("grab me by the hair", 1, 3, 0, 2, immediate, "A great combination of the slight pain of pulling my hair with physical control over the position of my head. Just be careful not to bend my neck in a weird direction."),
   simple_item ("slap me in the face", 1, 4, 0, 0, immediate, "TODO description"),
-  simple_item ("tickle me", 2, 4, 0, 3, immediate, "TODO description", {"no_self": True}),
-  simple_item ("squeeze my breasts", 0, 2, 1, 4, immediate, "TODO description"),
-  simple_item ("pinch/twist my nipples", 1, 6, 0, 3, immediate, "TODO description"),
+  simple_item ("put your hand threateningly on my throat and/or balls", 0, 1, 2, 4, immediate, "I don't do actual choking because of the risks, but the threat is exciting.", {"no_self": True, "variants": [
+    simple_item ("put your hand threateningly on my "+noun, 0, 1, 2, 4, immediate, "", {"no_self": True})
+    for noun in ["throat","balls"]
+  ]}),
+  simple_item ("pull off my clothes", 0, 2, 1, 4, small, "This kind of requires my participation, but only a little."),
+  simple_item ("tickle me", 2, 5, 0, 3, immediate, "TODO description", {"no_self": True}),
   simple_item ("stroke/lick/suck my neck, nipples, undersides of arms, sides, face, inner thighs", 0, 2, 1, 6, immediate, "TODO description", {"variants":[
     simple_item (verb+" "+noun, 0, 2, 1, 6, immediate, "", {"weight":weight, "no_self": verb != "stroke"})
       for (verb, weight) in [("stroke", 2), ("lick", 1), ("suck", 1)]
       for noun in ["my neck","my nipples","the undersides of my arms","my sides","my face","my inner thighs"]
       if (verb != "suck") or (noun not in ["my sides","my face","my inner thighs"])
   ]}),
+  simple_item ("squeeze my breasts", 0, 2, 1, 4, immediate, "TODO description"),
+  simple_item ("pinch/twist my nipples", 1, 6, 0, 3, immediate, "TODO description"),
   simple_item ("slap/whip me in the chest, nipples, stomach, inner thighs", 1, 7, 0, 2, immediate, "The best thing is to slap/whip me on all different parts of my body. If you whip the same spot repeatedly, the pain gets more intense, but stops being sexy.", {"variants":[
     simple_item (verb+" me in the "+noun, 1 + intensity, 5 + intensity, 0, 2, time, "")
     for (verb, time, intensity) in [("slap", immediate, 0), ("whip", immediate + 1, 2)] for noun in ["chest","nipples","chest and stomach","inner thighs"]
   ]}),
   simple_item ("spray me with water", 0, 3, 1, 5, medium, "TODO description"),
-  simple_item ("hit me in the balls", 2, 7, 1, 3, immediate, '''Some people worry that the sudden pain of ball-kicking can risk causing a heart attack. I normally avoid risk, but in this case, I think that I get a lot less pain than most people with testicles do. Maybe mine are desensitized because I've hit them for fun so many times, or maybe they've just always been less sensitive. When I was a little kid, I got hit there once during a soccer game, and my reaction was like "This pain is kind of weird, but why is everyone acting so empathetic? It's not THAT bad."<br> The real caveat is that if my balls get hit a lot of times, they'll be achy for the next few days, which is inconvenient. Hitting them <em>hard</em> is good if you do it once or a few times, but hitting them <em>repeatedly</em> is a bigger commitment.''', {"caveat": True}),
+  simple_item ("dunk me in water", 1, 2, 1, 4, medium, "TODO description"),
+  simple_item ("hit me in the balls", 2, 7, 1, 3, immediate, '''Some people worry that the sudden pain of ball-kicking can risk causing a heart attack. I normally avoid risk, but in this case, I think that I get a lot less pain than most people with testicles do. Maybe mine are desensitized because I've hit them for fun so many times, or maybe they've just always been less sensitive. When I was a little kid, I got hit there once during a soccer game, and my reaction was like "This pain is kind of weird, but why is everyone acting so empathetic? It's not THAT bad."<br> The real caveat is that if my balls get hit a lot of times, they'll be achy for the next few days, which is inconvenient. Hitting them <em>hard</em> is good if you do it once or a few times, but hitting them <em>repeatedly</em> is a bigger commitment.''', {"variants":[
+    simple_item (verb+" me in the balls", 2, 7, 1, 3, immediate, "")
+    for verb in ["punch", "kick"]
+  ]}),
   simple_item ("scratch me", 2, 5, 2, 3, immediate, "I didn't think of this myself. A play partner asked to try scratching me, and I didn't expect much from it, but it turned out to be a much bigger sensation than I expected. Kind of like tickling, but more aggressive. Scratching me repeatedly gets annoying, but an occasional long scratch really emphasizes that you have the power to inflict sensations on me, which is exciting."),
   simple_item ("scratch the soles of my feet", 4, 7, 0, 1, immediate+1, "TODO description"),
   simple_item ("force me to orgasm", 0, 2, 3, 7, medium, '''Being forced to orgasm is a huge fantasy for me. The trouble is that generally, after I <em>actually</em> orgasm, I completely lose interest in sexual things. I don't even get the "post-orgasm glow" or satisfied feeling that a lot of people say they get. I <em>sometimes</em> stay interested, but I don't know exactly what determines it. With the right play partner, I might be interested in experimenting with this. Currently, I generally avoid orgasming when actually playing with people.''', {"caveat": True}),
-  simple_item ("dunk me in water", 1, 2, 1, 4, medium, "TODO description"),
-  simple_item ("put your hand threateningly on my throat, balls", 0, 1, 2, 4, immediate, "I don't do actual choking because of the risks, but the threat is exciting.", {"no_self": True, "variants": [
-    simple_item ("put your hand threateningly on my "+noun, 0, 1, 2, 4, immediate, "", {"no_self": True})
-    for noun in ["throat","balls"]
-  ]}),
   simple_item ("talk to me intimidatingly", 0, 2, 0, 4, immediate, "I feel like most of the time I'd just laugh at it, but if you said exactly the right thing and I was in exactly the right mood, it could be exciting.", {"no_self": True, "unsure": True}),
-  simple_item ("electrostim", 1, 7, 0, 1, immediate, "The idea of being tortured with electricity turns me on a lot. In practice, I'd have to find someone who was enough of an expert to make sure it was safe. It's not my biggest desire, so I haven't gone out looking, but if I run into someone with the knowledge, I'm eager to try it.", {"unsure": True, "no_generate": True}),
+  simple_item ("electrostim", 1, 7, 0, 1, immediate, "The idea of being tortured with electricity turns me on a lot. In practice, I'd have to find someone who was enough of an expert to make sure it was safe. It's not my biggest desire, so I haven't gone out looking, but if I run into someone with the knowledge, I'd be eager to try it.", {"unsure": True, "no_generate": True}),
 ]
 
 participation_list = [
   simple_item ("strip naked", 0, 1, 0, 3, small, "TODO description"),
-  simple_item ("allow you to strip me yourself", 0, 2, 1, 4, small, "It would be nice if this could go in the stimulation list, but in practice, it's pretty hard to pull off someone's clothes if they're just sitting there rather than actively helping out."),
   simple_item ("do exercises (e.g. squats, situps, jumping jacks)", 1, 5, 0, 2, small, "TODO description"),
   simple_item ("get in a cold shower", 3, 5, 0, 0, medium, "TODO description"),
   simple_item ("get in a shower with my clothes still on", 1, 2, 0, 2, medium, "TODO description"),
@@ -67,26 +79,46 @@ participation_list = [
 ]
 
 conditions_list = [
-  simple_item ("I'm tied up", 0, 3, 0, 3, medium, "TODO description", {"inflict": "tie me up", "enhance": True}),
-  simple_item ("I'm blindfolded", 0, 2, 0, 1, immediate, "TODO description", {"inflict": "blindfold me", "enhance": True}),
-  simple_item ("I'm gagged", 0, 2, 0, 2, medium, "TODO description", {"inflict": "gag me"}),
-  simple_item ("I'm kneeling", 0, 2, 0, 0, immediate, "TODO description", {"assume": "kneel", "enhance": True}),
-  simple_item ("I'm forced to remain naked/partially naked", 0, 1, 0, 3, small, "TODO description", {}),
+  simple_item ("I'm tied up", 0, 3, 0, 3, medium, "When I was a little kid, I liked to tie myself up naked or nearly naked. At the time, I didn't understand that it was a sexual thing, but now I do. I would sometimes imagine that I been tied up naked and left on a pirate ship. (I didn't really care about pirates, it was just the excuse for why people would tie me up.)<br><br>It's a little disappointing that I never got to play tie-up games with other children. At the time, I was never willing to show vulnerability to other kids – perhaps as a reaction to the coercive environment I was always in at school. But now that I'm out of that environment, I've been able to start experimenting with showing vulnerability.<br><br>Being tied up is one of my biggest turn-ons. It lets me feel vulnerable and helpless, and it also lets me exert my muscles by struggling against the bonds. When I twist and struggle, but still can't stop what's happening, that's an amazing feeling.", {"inflict": "tie me up", "enhance": True}),
+  simple_item ("I'm blindfolded", 0, 2, 0, 1, immediate, "Being blindfolded heightens my other sensations, and lets me be pleasantly nervous about not knowing where you're going to touch me next.", {"inflict": "blindfold me", "enhance": True}),
+  simple_item ("I'm gagged", 0, 2, 0, 2, medium, "Honestly, gags aren't very believable. They can't actually stop you from yelling – or even talking understandably – unless they dangerously block your airways. But it's still exciting to have one pushed into my mouth, because it's an intimate space that I wouldn't normally let such things into.", {"inflict": "gag me"}),
+  simple_item ("I'm kneeling", 0, 2, 0, 0, immediate, "Aside from the symbolic meaning of kneeling, I'm also a fairly tall person. Kneeling forces me to me look up at my partners instead of down, which makes them feel bigger and more dangerous.", {"assume": "kneel", "enhance": True}),
+  simple_item ("I'm forced to remain naked/partially naked", 0, 1, 0, 3, small, """In reality, I don't have any discomfort about being naked around other people. But if I <em>pretend</em> that I do, then have nudity "forced" on me, it can become a great vulnerability thing. It's not the fact of <em>being</em> naked that's exciting, it's the idea that you can keep me that way whether I want you to or not.""", {}),
   simple_item ("I'm forced to remain naked when it's cold", 1, 3, 0, 3, small, "TODO description", {}),
-  simple_item ("I have clothespins on my nipples", 1, 5, 0, 3, immediate + 1, "TODO description", {"inflict": "put clothespins on my nipples"}),
-  simple_item ("I'm wearing a collar", 0, 1, 0, 2, small, "Collars aren't as exciting for me as they are for people who do power dynamics, but the slight pressure on my neck makes me feel nice and vulnerable.", {"inflict": "put a collar on me"}),
-  simple_item ("I'm forced to stand in a stress position, like with my legs bent and/or my arms over my head", 2, 5, 0, 4, immediate + 1, "Having my muscles straining makes all pleasure sensations much more intense.", {"maintain": "stand in a stress position", "enhance": True}),
+  simple_item ("I have clothespins on my nipples", 0, 5, 0, 3, immediate + 1, """Interestingly, depending on the exact angle, clothespins can cause anything from "no pain at all" to "lots of pain". If you want, you can order me to adjust them to whatever level of pain you specify.""", {"inflict": "put clothespins on my nipples"}),
+  simple_item ("I'm wearing a collar", 0, 1, 0, 2, small, "Collars aren't as exciting for me as they are for people who do power dynamics, but the slight pressure on my neck still makes me feel nice and vulnerable.", {"inflict": "put a collar on me"}),
+  simple_item ("I'm forced to stand in a stress position, like with my legs bent and/or my arms over my head", 2, 5, 0, 4, immediate + 1, "Having my muscles straining makes all pleasure sensations much more intense. It's one of the same reasons that I enjoy struggling in bondage.", {"maintain": "stand in a stress position", "enhance": True}),
   simple_item ("I'm in a predicament bondage position", 4, 7, 0, 4, medium, "TODO description", {"inflict": "put me in predicament bondage", "enhance": True}),
-  simple_item ("I'm forced to stay perfectly still", 0, 1, 0, 1, immediate, "TODO description", {"maintain": "stay perfectly still", "enhance": True}),
+  simple_item ("I'm forced to stay perfectly still", 0, 1, 0, 1, immediate, """I'm really good at suppressing my own reactions, but it does take a mental effort. There's a lot of facets to this kind of restraint. First, I can't protect myself against your touch because of my own suppression. Second, when you do touch me, it not only forces the sensation on me, but also forces the internal mental effort. And finally, there's the fear of however you might "punish" me if I mess up and move.""", {"maintain": "stay perfectly still", "enhance": True}),
   simple_item ("I'm forced to keep my eyes closed", 2, 3, 0, 3, immediate, '''I don't normally trust people enough to close my eyes in front of them. If someone says "close your eyes", I just don't do it. In a BDSM context, it can make me nervous in a good way. It's like being blindfolded, but with the extra bonus that I feel threatened by the idea that I could be making a mistake by trusting the other person. (Literally speaking, I'm trusting them just as much if I let them blindfold me, but it feels different. It feels more like I have the option to open my eyes at any time, so the "mistake" is prolonged.)''', {"maintain": "keep my eyes closed", "enhance": True}),
-  simple_item ("I'm forced to look you in the eye", 0, 3, 0, 2, immediate, "Eye contact can be slightly uncomfortable for me, as it is for many autistic people. In the right context, that discomfort can be used for fun. Also, it stops me from looking at what you're doing, which is exciting for the same reason as a blindfold.", {"maintain": "look you in the eye", "caveat": True, "enhance": True}),
+  simple_item ("I'm forced to look you in the eye", 0, 3, 0, 2, immediate, "Eye contact can be slightly uncomfortable for me, as it is for many autistic people. In the right context, that discomfort can be used for fun. Also, it stops me from looking at what you're doing, which is exciting for the same reason as a blindfold.", {"maintain": "look you in the eye", "enhance": True}),
   simple_item ("one or more other people are watching/participating", 0, 0, 0, 2, medium, "Naturally, I would have to trust everyone involved. But I'd love to have people ganging up on me.", {"caveat": True, "no_generate": True}),
+]
+
+scene_list = [
+  brief_item ("we play a game and the winner tops the loser", medium, "Losing at games is one of my biggest turn-ons. If there's a set punishment for losing, then every time it starts to look like I'm losing the game, I get to feel a rush of vulnerability as I anticipate the punishment. And then another rush after the final move when I've actually lost.", {}),
+  brief_item ('we play a strip game, except with BDSM "punishments" instead of just stripping', medium, "Perhaps using the random generator at the bottom of this post to pick the punishment after each round!", {}),
+  brief_item ("we wrestle and the winner tops the loser", small, 'Another thing I sometimes did as a kid was to "wrestle" with a heavy blanket and imagine that it had pinned me down on the bed.', {}),
+  brief_item ("you violently overpower me, then use that to force other stimulation on me", small, "TODO description", {}),
+  brief_item ('you start pleasuring me, then when I relax into it, you "take advantage" by doing other things to me', small, "TODO description", {}),
+  brief_item ("you order me to do various things to myself while you sit back and enjoy the show", immediate, "This is something we could even do remotely, like over video chat.", {}),
+  brief_item ("while we're hanging out for a while, you casually keep me in a state of [anything from the conditions list] and/or casually do things to me from time to time", medium, "This could be especially nice if I had a play partner I lived with. It would keep me in an ongoing state of slight vulnerability, even if we were both busy with other things and didn't want to do a full scene.", {}),
+  brief_item ("you dare me to do a difficult challenge, then top me if I refuse or fail at it", small, '''When people dared me to do things as a kid, I rarely did them, since I felt like "why would I do that just because you dared me to?" The idea of letting someone give me dares that I might <em>not</em> be able to refuse is an exciting kind of vulnerability. (Of course, in reality, I'd be able to refuse the dares if I wanted. But I can pretend, just like for all the other things.)''', {}),
+  brief_item ('''you force me to exercise until I'm exhausted, then use that to "take advantage" of me''', medium + 1, "I love the helplessness of being too tired to fight back. However, there might be some safety concerns about overdoing the exercise.", {"caveat": True}),
+]
+
+circumstances_list = [
+'''you jump me in retaliation for saying something smug
+you ambush me by surprise?
+you ambush me while I'm still asleep? (is it possible to tie me to the bed without waking me up?)
+I stake "you can top me as much as you want for the next X days" on one of the above'''
 ]
 
 lists = [
   {"name": "Stimulation list", "description": "Things you can do to me even if I don't actively cooperate", "list": stimulation_list},
   {"name": "Participation list", "description": "Things you can force me to do, that require my cooperation", "list": participation_list},
   {"name": "Conditions list", "description": "Things that can be ongoing while you do other stuff to me", "list": conditions_list},
+  {"name": "Scene list", "description": "Overall progressions of things we can do together", "list": scene_list},
 ]
 
 def render_item(simple, item, list):
@@ -95,9 +127,9 @@ def render_item(simple, item, list):
     return "<li>" + name + "</li>"
   return ("<tr>" + 
     "<td>" + name + "</td>" +
-    "<td>" + str (item ["min_unpleasantness"]) + "-" + str (item ["max_unpleasantness"])  + "</td>" +
+    ("<td>" + str (item ["min_unpleasantness"]) + "-" + str (item ["max_unpleasantness"])  + "</td>" +
     "<td>" + str (item ["min_pleasantness"]) + "-" + str (item ["max_pleasantness"])  + "</td>" +
-    "<td>" + str (item ["min_time_commitment"]) + "</td>" +
+    "<td>" if "min_unpleasantness" in item else '<td>') + str (item ["min_time_commitment"]) + "</td>" +
     "<td>" + item ["description"] + "</td>" +
   "</tr>")
   
@@ -107,7 +139,7 @@ def render_list(simple, list):
   items ="".join([render_item (simple, item, list) for item in list["list"]])
   if simple:
     return header + "<ul>" + items + "</ul>"
-  return header + "<table><tr><th></th><th> Unpl. </th><th> Plea. </th><th> Time </th><th> Notes </th></tr>" + items + "</table>"
+  return header + "<table><tr><th></th>"+ ("<th> Unpl. </th><th> Plea. </th>" if "min_unpleasantness" in list ["list"] [0] else "")+"<th> Time </th><th> Notes </th></tr>" + items + "</table>"
 
 def render(simple):
   return "".join([render_list (simple, list) for list in lists])
@@ -174,8 +206,9 @@ posts = [
   "contents": contents,
   "head": '''
   <style type="text/css">
-td { padding-top: 0.5em }
-ul { margin-top: 0.6em; margin-bottom: 0.9em; }
+th,td { padding: 0.3em 0; }
+td { border-top: 1px solid black; }
+ul,table { margin-top: 0.6em; margin-bottom: 0.9em; }
 h3 { padding-top: 0.5em }
 .subtitle {margin:0.3em 0;}
 textarea {display: block; width: 100%; height: 10em;}
@@ -186,12 +219,14 @@ textarea {display: block; width: 100%; height: 10em;}
 var stimulation = 0;
 var participation = 1;
 var conditions = 2;
-var preprocessed_lists = JSON.parse (`"""+json.dumps(lists)+r"""`)
+var preprocessed_lists = """+json.dumps(lists)+r"""
 
+
+function adjust (item, attrs) {
+  return changed = Object.assign({}, item, attrs);
+}
 function rename (item, name) {
-  var changed = Object.assign({}, item);
-  changed.name = name;
-  return changed;
+  return adjust (item, {name});
 }
 
 preprocessed_lists.forEach(function(list) {
@@ -213,10 +248,10 @@ preprocessed_lists.forEach(function(list) {
   list.list.forEach(function(item) {
     item.max_sensation = Math.max (item.max_unpleasantness, item.max_pleasantness);
     if (item.inflict) {
-      preprocessed_lists[stimulation].list.push (rename (item, item.inflict));
+      preprocessed_lists[stimulation].list.push (adjust (item, {name: item.inflict, original_list: list.name}));
     }
     if (item.assume) {
-      preprocessed_lists[participation].list.push (rename (item, item.assume));
+      preprocessed_lists[participation].list.push (rename (item, {name: item.assume, original_list: list.name}));
     }
   });
 });
@@ -263,7 +298,7 @@ function maintain_condition (lists) {
 /*function while_enhanced (lists) {
   var item = random_choice (lists[conditions].filter (item => item.enhance && !item.maintain));
   if (item.inflict)
-    return "agree to " + participate (lists);
+    return "agree to " + choose (lists [participation].filter (item => item.max_unpleasantness < 6));
   }
   return "let you " + choose (lists [stimulation].filter (item => item.max_unpleasantness < 6));
 }*/
@@ -291,10 +326,14 @@ function act (lists) {
       return choose (lists [stimulation].filter (item => item.max_unpleasantness >= 6).concat ([{name: "squeeze my balls"}])) + " until I " + surrender(lists);
     },
     function(lists) {
-      return "threaten to "+choose (lists [stimulation].filter (item => item.max_unpleasantness >= 6).concat ([{name: "squeeze my balls"},{name: "beat me up"},{name: "cut me with a (not actually sharp) knife"}])) + " unless I " + surrender(lists);
+      return "threaten to "+choose (lists [stimulation].filter (item => item.max_unpleasantness >= 6).concat ([{name: "squeeze my balls"},{name: "(not actually) beat me up"},{name: "cut me with a (not actually sharp) knife"}])) + " unless I " + surrender(lists);
     },
     function (lists) {
       return "while " + choose (lists[conditions].filter (item => item.enhance && !item.maintain)) + ", " + inflict(lists);
+    },
+    function(lists) {
+      var inflict_first = choose (lists [stimulation].filter (item => item.max_unpleasantness >= 5 && !item.original_list));
+      return "challenge me to " + maintain_condition(lists) + " while you " + inflict_first + ". If I can't keep it up, " + choose (lists [stimulation].filter (item => item.max_sensation >= 7 && item.name !== inflict_first));
     },
   ];
   var recursive_generators = [
