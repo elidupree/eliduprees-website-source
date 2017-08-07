@@ -99,7 +99,7 @@ conditions_list = [
   ]}),
   simple_item ("I'm forced to remain naked when it's cold", 1, 3, 0, 3, half_hour, hours, "TODO description", {}),
   simple_item ("I have clothespins on my nipples", 0, 5, 0, 3, immediate + 1, half_hour, """Interestingly, depending on the exact angle, clothespins can cause anything from "no pain at all" to "lots of pain". If you want, you can order me to adjust them to whatever level of pain you specify.""", {"inflict": "put clothespins on my nipples", "non_interfering": True}),
-  simple_item ("I'm wearing a collar", 0, 1, 0, 2, several_minutes, hours, "Collars aren't as exciting for me as they are for people who do power dynamics, but the slight pressure on my neck still makes me feel nice and vulnerable.", {"inflict": "put a collar on me", "maintain": "wear a collar"}),
+  simple_item ("I'm wearing a collar", 0, 1, 0, 2, several_minutes, hours, "Collars aren't as exciting for me as they are for people who do power dynamics, but the slight pressure on my neck still makes me feel nice and vulnerable.", {"inflict": "put a collar on me", "maintain": "wear a collar", "non_interfering": True}),
   simple_item ("I'm forced to stand in a stress position, like with my legs bent and/or my arms over my head", 2, 5, 0, 4, immediate + 1, half_hour, "Having my muscles straining makes all pleasure sensations much more intense. It's one of the same reasons that I enjoy struggling in bondage.", {"maintain": "stand in a stress position", "enhance": True}),
   simple_item ("I'm in a predicament bondage position", 4, 7, 0, 4, half_hour, half_hour, "TODO description", {"inflict": "put me in predicament bondage", "enhance": True}),
   simple_item ("I'm forced to stay perfectly still", 0, 1, 0, 1, immediate, half_hour, """I'm really good at suppressing my own reactions, but it does take a mental effort. There's a lot of facets to this kind of restraint. First, I can't protect myself against your touch because of my own suppression. Second, when you do touch me, it not only forces the sensation on me, but also forces the internal mental effort. And finally, there's the fear of however you might "punish" me if I mess up and move.""", {"maintain": "stay perfectly still", "enhance": True, "possible_tied": True}),
@@ -376,10 +376,11 @@ function make_me_participate(lists) {
       return "challenge me to " + maintain_condition(lists, true) + " while you " + inflict_first + ". If I can't keep it up, " + choose (lists [stimulation].filter (item => item.max_sensation >= 7 && item.name !== inflict_first));
     }
 function casually_force_condition (lists) {
-      return "casually force me to " + choose (lists [participation].filter (item => item.maintain && item.non_interfering)) + " for a while";
+      var item = random_choice (lists [conditions].filter (item => item.maintain && item.non_interfering))
+      return "casually force me to " + item.maintain + " for a while";
     }
 function casually_inflict (lists) {
-      return "from time to time, casually " + choose (lists [stimulation].filter (item => item.min_time <= 2));
+      return "from time to time, casually " + choose (lists [stimulation].filter (item => item.min_time <= 2 && item.max_sensation < 7));
     }
     
 function global_generate (parameters, generators) {
