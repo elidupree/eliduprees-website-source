@@ -27,6 +27,14 @@ def brief_item(name, min_time, max_time, description, extra = {}):
     "description": description,
   })
   return result
+  
+def simplest_item(name, description, extra = {}):
+  result = extra.copy()
+  result.update ({
+    "name": name,
+    "description": description,
+  })
+  return result
 
 immediate = 1
 several_minutes = 3
@@ -38,7 +46,7 @@ indefinitely = 7
 
 stimulation_list = [
   simple_item ("push me around", 0, 1, 0, 2, immediate, half_hour, "TODO description", {"no_self": True, "not_when_tied": True}),
-  simple_item ("pin me down", 0, 1, 0, 3, immediate, half_hour, "TODO description", {"no_self": True}),
+  simple_item ("pin me down with your body", 0, 1, 0, 3, immediate, half_hour, "TODO description", {"no_self": True}),
   simple_item ("grab me by the hair", 1, 3, 0, 2, immediate, several_minutes, "A great combination of the slight pain of pulling my hair with physical control over the position of my head. Just be careful not to bend my neck in a weird direction."),
   simple_item ("slap me in the face", 1, 4, 0, 0, immediate, several_minutes, "TODO description"),
   simple_item ("put your hand threateningly on my throat and/or balls", 0, 1, 2, 3, immediate, immediate + 1, "I don't do actual choking because of the risks, but the threat is exciting.", {"no_self": True, "variants": [
@@ -89,7 +97,7 @@ participation_list = [
 ]
 
 conditions_list = [
-  simple_item ("I'm tied up", 0, 3, 0, 3, half_hour, all_afternoon, "When I was a little kid, I liked to tie myself up naked or nearly naked. At the time, I didn't understand that it was a sexual thing, but now I do. I would sometimes imagine that I been tied up naked and left on a pirate ship. (I didn't really care about pirates, it was just the excuse for why people would tie me up.)<br><br>It's a little disappointing that I never got to play tie-up games with other children. At the time, I was never willing to show vulnerability to other kids – perhaps as a reaction to the coercive environment I was always in at school. But now that I'm out of that environment, I've been able to start experimenting with showing vulnerability.<br><br>Being tied up is one of my biggest turn-ons. It lets me feel vulnerable and helpless, and it also lets me exert my muscles by struggling against the bonds. When I twist and struggle, but still can't stop what's happening, that's an amazing feeling.", {"inflict": "tie me up", "enhance": True}),
+  simple_item ("I'm tied up", 0, 3, 0, 3, half_hour, all_afternoon, "When I was a little kid, I liked to tie myself up naked or nearly naked. At the time, I didn't understand that it was a sexual thing, but now I do. I would sometimes imagine that I'd been tied up naked and left on a pirate ship. (I didn't really care about pirates, it was just the excuse for why people would tie me up.)<br><br>It's a little disappointing that I never got to play tie-up games with other children. There are some ways it was <em>more</em> fun to enjoy being tied up the way I did as a child, without the <em>additional</em> sexual feelings I got as I grew older. But at the time, I was never willing to show vulnerability to other kids – perhaps as a reaction to the coercive environment I was always in at school. Now that I'm out of that environment, I've been able to start experimenting with showing vulnerability.<br><br>Being tied up is one of my biggest turn-ons. It lets me feel vulnerable and helpless, and it also lets me exert my muscles by struggling against the bonds. When I twist and struggle, but still can't stop what's happening, that's an amazing feeling.", {"inflict": "tie me up", "enhance": True}),
   simple_item ("I'm blindfolded", 0, 2, 0, 1, immediate + 1, hours, "Being blindfolded heightens my other sensations, and lets me be pleasantly nervous about not knowing where you're going to touch me next.", {"inflict": "blindfold me", "enhance": True}),
   simple_item ("I'm gagged", 0, 2, 0, 2, half_hour, half_hour, "Honestly, gags aren't very believable. They can't actually stop you from yelling – or even talking understandably – unless they dangerously block your airways. But it's still exciting to have one pushed into my mouth, because it's an intimate space that I wouldn't normally let such things into.", {"inflict": "gag me"}),
   simple_item ("I'm kneeling", 0, 2, 0, 0, immediate, hours, "Aside from the symbolic meaning of kneeling, I'm also a fairly tall person. Kneeling forces me to me look up at my partners instead of down, which makes them feel bigger and more dangerous.", {"assume": "kneel", "enhance": True}),
@@ -109,8 +117,9 @@ conditions_list = [
 ]
 
 scene_list = [
-  brief_item ("we play a game and the winner tops the loser", hours, multiple_days, "Losing at games is one of my biggest turn-ons. If there's a set punishment for losing, then every time it starts to look like I'm losing the game, I get to feel a rush of vulnerability as I anticipate the punishment. And then another rush after the final move when I've actually lost.", {}),
-  brief_item ('we play a strip game, except with BDSM "punishments" instead of just stripping', hours, all_afternoon, "Perhaps using the random generator at the bottom of this post to pick the punishment after each round!", {}),
+  brief_item ("we play a game and the winner tops the loser", half_hour, multiple_days, "Losing at games is one of my biggest turn-ons. If there's a set punishment for losing, then every time it starts to look like I'm losing the game, I get to feel a rush of vulnerability as I anticipate the punishment. And then another rush after the final move when I've actually lost.", {}),
+  brief_item ('we play a strip game, except with BDSM "punishments" instead of just stripping', half_hour, all_afternoon, "Perhaps using the random generator at the bottom of this post to pick the punishment after each round!", {}),
+  brief_item ('''we play <a href="/hexy">Hexy Bondage</a>''', hours, all_afternoon, "", {}),
   brief_item ("we wrestle and the winner tops the loser", several_minutes, hours, 'Another thing I sometimes did as a kid was to "wrestle" with a heavy blanket and imagine that it had pinned me down on the bed.', {}),
   brief_item ("you violently overpower me, then use that to force other stimulation on me", several_minutes, hours, "TODO description", {}),
   brief_item ('you start pleasuring me, then when I relax into it, you "take advantage" by doing other things to me', several_minutes, hours, "TODO description", {}),
@@ -136,19 +145,32 @@ bondage_list = [
   brief_item ("nipple-clothespins tied to an overhead hook to wrists/thumbs/ankles/toes, so I have to keep holding up my arms/legs", half_hour, half_hour, "", {}),
 ]
 
+miscellaneous_list = [
+  simplest_item ("we agree that you can start topping me whenever you feel like, without asking first", "The idea of having", {}),
+  simplest_item ("you jump me in retaliation for saying something smug", '''I say a lot of smug things. I sometimes even make it into a game – how to say the thing that's <em>as smug as possible</em>. Then we can have a playful back-and-forth, either with more smug things or physical attacks. In a way, retaliating can actually be a form of appreciation, even if it's "violent". It's like the affectionately incredulous "I can't <em>believe</em> you actually said that".''', {}),
+  simplest_item ("you interpret game rules unfairly against me", '''In my normal life, I like playing games, but I have a lot of boundaries about them. <ul> <li>I don't like playing games with ambiguous rules. This includes most physical games, because someone has to call what's "close enough".</li> <li>I always refuse to play games where the rules refer to things from real life, like the ages of the players.</li> <li>I don't even like playing games with real-life rewards, although I'm usually fine if I just pretend there's no reward.</li></ul> I feel like these things <em>violate the boundaries of a game</em>. They drag human social problems into my fun. The discomfort I get from them usually makes the game not worth playing. <br><br>In a BDSM context, playing with that discomfort on purpose can be fun. I can deliberately let myself get attached to the outcome, and then let myself feel unstable when I start to lose or when you change the rules out from under me. And I don't feel like my <em>real</em> boundaries have been violated, because the real boundary is drawn around the BDSM context as a whole.''', {}),
+  simplest_item ("while I'm doing a game/challenge, you keep teasing me/feeling me up/reminding me of what you'll do to me once I lose", "", {}),
+  simplest_item ("I [make a bet/play a game] where the punishment for losing is that you can top me as much as you want for the next X days", "", {}),
+  simplest_item ("you order me to do things to myself even when we're not physically together", "Most of what I enjoy is on a mental level. My excitement comes from the <em>idea</em> of being vulnerable or helpless. So there's really no reason we actually have to be in the same place to do it.<br><br>This can be anything from just emailing me orders to challenging me to play a game with punishments over video chat.", {}),
+  simplest_item ("you ambush me by surprise", "", {"unsure": True}),
+  simplest_item ("you ambush me while I'm still asleep", "I wonder if it's possible to tie me to the bed without waking me up...", {"unsure": True}),
+]
+
 circumstances_list = [
-'''you jump me in retaliation for saying something smug
-you ambush me by surprise?
-you ambush me while I'm still asleep? (is it possible to tie me to the bed without waking me up?)
-I stake "you can top me as much as you want for the next X days" on one of the above
-foreshadow topping
+'''
+
+
 
 online
 
-while I'm doing a game/challenge, you keep teasing me/feeling me up/reminding me of what you'll do to me once I lose
-being unfair
+fantasy list? "impractical list"
+robots?
+magic?
+squeeze balls/beat up/knife
+real fighting
+STI risking stuff
 
-find list for squeeze balls/beat up/knife'''
+'''
 ]
 
 lists = [
@@ -157,6 +179,7 @@ lists = [
   {"name": "Conditions list", "id": "conditions", "description": "Things that can be ongoing while you do other stuff to me", "list": conditions_list},
   {"name": "Scene list", "id": "scene", "description": "Overall progressions of things we can do together", "list": scene_list},
   {"name": "Bondage list", "id": "bondage", "description": "A few of the infinite ways I like to be tied up", "list": bondage_list},
+  {"name": "Miscellaneous list", "id": "miscellaneous", "description": "Things that didn't fit into one of the other list", "list": miscellaneous_list},
 ]
 
 def render_item(simple, item, list):
@@ -166,9 +189,10 @@ def render_item(simple, item, list):
   return ("<tr>" + 
     "<td>" + name + "</td>" +
     ("<td>" + str (item ["min_unpleasantness"]) + "-" + str (item ["max_unpleasantness"])  + "</td>" +
-    "<td>" + str (item ["min_pleasantness"]) + "-" + str (item ["max_pleasantness"])  + "</td>" +
-    "<td>" if "min_unpleasantness" in item else '<td>') +
-    str (item ["min_time"]) + "-"+ str (item ["max_time"]) + "</td>" +
+    "<td>" + str (item ["min_pleasantness"]) + "-" + str (item ["max_pleasantness"])  + "</td>"
+     if "min_unpleasantness" in item else '') +
+    ("<td>" +str (item ["min_time"]) + "-"+ str (item ["max_time"]) + "</td>"
+     if "min_time" in item else '') +
     "<td>" + item ["description"] + "</td>" +
   "</tr>")
   
@@ -178,7 +202,7 @@ def render_list(simple, list):
   items ="".join([render_item (simple, item, list) for item in list["list"]])
   if simple:
     return header + "<ul>" + items + "</ul>"
-  return header + "<table><tr><th></th>"+ ("<th> Unpl. </th><th> Plea. </th>" if "min_unpleasantness" in list ["list"] [0] else "")+"<th> Time </th><th> Notes </th></tr>" + items + "</table>"
+  return header + "<table><tr><th></th>"+ ("<th> Unpl. </th><th> Plea. </th>" if "min_unpleasantness" in list ["list"] [0] else "")+("<th> Time </th>" if "min_time" in list ["list"] [0] else "")+"<th> Notes </th></tr>" + items + "</table>"
 
 def render(simple):
   return "".join([render_list (simple, list) for list in lists])
@@ -188,7 +212,7 @@ contents = '''
 
 <p>(Content: Details of sexual stuff, including BDSM things that would normally be violent.)</p>
 
-This post describes the things I enjoy doing sexually. I have a lot of different purposes in writing it:
+This post describes the things I enjoy doing sexually. I have a lot of different purposes in writing it. Here are a few of them:
 <ul class="big_list">
 <li>For me and my play partners to use as a reference, to find ideas for things to do together.</li>
 <li>To help normalize these desires. Now, I am hardly a normal person, so just listing them doesn't prove they're "normal". But trust me, none of them are especially rare. I also want to make sure everyone knows it's possible to do these things in a consensual environment. If you also want these things, but you're only getting them from a coercive relationship, trust me: better things are possible.</li>
@@ -201,15 +225,19 @@ You may share this. I'm not keeping it secret from anyone.
 
 Anyone who wants to do them with me, as long as I know them and trust that they wouldn't harm me or <em>be</em> harmed.
 
-A note about "be harmed": Many people form emotional attachments when they do sexual things. My brain works differently. It doesn't form emotional attachments to people, in any situation. Not everyone likes being attached to someone who isn't attached back. Asymmetric attachments aren't always bad, but it they have some risks, which I need to consider before I do stuff.
+This theoretically has no boundaries of gender, although it's generally a bit harder for me to trust male people in both ways.
+
+A note about "be harmed": Many people form emotional attachments when they do sexual things. My brain works differently. It doesn't form emotional attachments to people, in any situation. Not everyone likes being attached to someone who isn't attached back. Asymmetric attachments aren't always bad, but they do have some risks, which I need to consider before I do stuff.
+
+It's okay to try to befriend me specifically because you're looking for a play partner. If you do, I'd prefer that you be upfront about it, but I'm also fine if you don't. I understand if you aren't ready to trust <em>me</em> right away either. Also, you can always ask me for my honest assessment of how much I trust you at the moment and how much I expect I might trust you in the future.
 
 <h2>Terminology</h2>
 
 Most of the things I like involve having something "forced" on me by another person. In real life, I and another person would mutually agree to play out the "forcing". In that context, the one <em>doing</em> the thing is called the <strong>top</strong>, and the one <em>having the thing done to them</em> is called the <strong>bottom</strong>. "<strong>Topping</strong>" is also the verb for doing this.
 
-You may have seen the similar terms "dom" and "sub". These are subtly different – they refer to some sort of human authority structures. For me, on a gut level, human authority structures are just meaningless. So I use different terms.
+You might have seen the similar terms "dom" and "sub". These are subtly different – they refer to some sort of human authority structures. For me, on a gut level, human authority structures are just meaningless. So I use different terms.
 
-This is mostly a list of ways I like other people topping me. I also enjoy topping other people. However, I'm not listing those for a couple reasons. First, when I top someone, what I enjoy is much more dependent on what the other person likes. (I think I get a lot of my enjoyment out of internally mirroring their reactions.) Second, if I did have to pick my own preferences, it would basically be the same list, just in reverse.
+This is mostly a list of ways I like other people topping me. I also enjoy topping other people. However, this list doesn't cover that, for a couple reasons. First, when I top someone, what I enjoy is much more dependent on what the other person likes. (I think I get a lot of my enjoyment out of mentally mirroring their reactions.) Second, if I did have to pick my own preferences, it would basically be the same list, just in reverse.
 
 Lastly, instead of saying "the top" or "the person I'm playing with" in this list, I'm going to say "you", because it's easier to read and doesn't sound as dry and formal. 
 
@@ -245,7 +273,8 @@ posts = [
   "contents": contents,
   "head": '''
   <style type="text/css">
-th,td { padding: 0.3em 0; }
+th { padding: 0.3em 0em; }
+td { padding: 0.3em 0.2em; }
 td { border-top: 1px solid black; }
 ul,table { margin-top: 0.6em; margin-bottom: 0.9em; }
 h3 { padding-top: 0.5em }
