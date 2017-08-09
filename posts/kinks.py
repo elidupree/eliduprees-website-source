@@ -98,16 +98,16 @@ participation_list = [
 
 conditions_list = [
   simple_item ("I'm tied up", 0, 3, 0, 3, half_hour, all_afternoon, "When I was a little kid, I liked to tie myself up naked or nearly naked. At the time, I didn't understand that it was a sexual thing, but now I do. I would sometimes imagine that I'd been tied up naked and left on a pirate ship. (I didn't really care about pirates, it was just the excuse for why people would tie me up.)<br><br>It's a little disappointing that I never got to play tie-up games with other children. There are some ways it was <em>more</em> fun to enjoy being tied up the way I did as a child, without the <em>additional</em> sexual feelings I got as I grew older. But at the time, I was never willing to show vulnerability to other kids – perhaps as a reaction to the coercive environment I was always in at school. Now that I'm out of that environment, I've been able to start experimenting with showing vulnerability.<br><br>Being tied up is one of my biggest turn-ons. It lets me feel vulnerable and helpless, and it also lets me exert my muscles by struggling against the bonds. When I twist and struggle, but still can't stop what's happening, that's an amazing feeling.", {"inflict": "tie me up", "enhance": True}),
-  simple_item ("I'm blindfolded", 0, 2, 0, 1, immediate + 1, hours, "Being blindfolded heightens my other sensations, and lets me be pleasantly nervous about not knowing where you're going to touch me next.", {"inflict": "blindfold me", "enhance": True}),
-  simple_item ("I'm gagged", 0, 2, 0, 2, half_hour, half_hour, "Honestly, gags aren't very believable. They can't actually stop you from yelling – or even talking understandably – unless they dangerously block your airways. But it's still exciting to have one pushed into my mouth, because it's an intimate space that I wouldn't normally let such things into.", {"inflict": "gag me"}),
+  simple_item ("I'm blindfolded", 0, 2, 0, 1, immediate + 1, hours, "Being blindfolded heightens my other sensations, and lets me be pleasantly nervous about not knowing where you're going to touch me next.", {"inflict": "blindfold me", "enhance": True, "possible_tied": True}),
+  simple_item ("I'm gagged", 0, 2, 0, 2, half_hour, half_hour, "Honestly, gags aren't very believable. They can't actually stop you from yelling – or even talking understandably – unless they dangerously block your airways. But it's still exciting to have one pushed into my mouth, because it's an intimate space that I wouldn't normally let such things into.", {"inflict": "gag me", "possible_tied": True}),
   simple_item ("I'm kneeling", 0, 2, 0, 0, immediate, hours, "Aside from the symbolic meaning of kneeling, I'm also a fairly tall person. Kneeling forces me to me look up at my partners instead of down, which makes them feel bigger and more dangerous.", {"assume": "kneel", "enhance": True}),
   simple_item ("I'm forced to remain naked/partially naked", 0, 1, 0, 3, half_hour, multiple_days, """In reality, I don't have any discomfort about being naked around other people. But if I <em>pretend</em> that I do, then have nudity "forced" on me, it can become a great vulnerability thing. It's not the fact of <em>being</em> naked that's exciting, it's the idea that you can keep me that way whether I want you to or not.<br><br>Interestingly, wearing just my underpants doesn't feel the most vulnerable. I think it has to do with the point of reference. If I'm topless, it feels like "I have clothes on <em>except that my chest and underarms are exposed</em>." If I'm wearing a shirt and underpants, it feels like "I have clothes on <em>except that my thighs are exposed</em>." But with just underpants, it feels like "I'm naked <em>except that my crotch is covered</em>."<br><br>There are other ways to play with clothing, too. <ul> <li>If you grope me while I'm still <em>wearing</em> clothes, it's exciting because "the clothing didn't protect me".</li> <li>If I'm wearing a crotch-guard or other protective gear, it's exciting because of the idea that I might <em>need</em> the protection.</li> <li>If you're the one who's (semi-)naked while <em>you're</em> topping <em>me</em>, then instead of being a "vulnerability" thing, it can become a "sexual aggressiveness" thing.</li></ul> """, {"variants": [
     simple_item ("I'm forced to remain "+state, 0, 1, 0, 3, half_hour, multiple_days, "", {"maintain": "remain "+state, "non_interfering": True})
     for state in ["naked", "topless", "wearing only a shirt", "wearing only a shirt and underpants"]
   ]}),
   simple_item ("I'm forced to remain naked when it's cold", 1, 3, 0, 3, half_hour, hours, "TODO description", {}),
-  simple_item ("I have clothespins on my nipples", 0, 5, 0, 3, immediate + 1, half_hour, """Interestingly, depending on the exact angle, clothespins can cause anything from "no pain at all" to "lots of pain". If you want, you can order me to adjust them to whatever level of pain you specify.""", {"inflict": "put clothespins on my nipples", "non_interfering": True}),
-  simple_item ("I'm wearing a collar", 0, 1, 0, 2, several_minutes, hours, "Collars aren't as exciting for me as they are for people who do power dynamics, but the slight pressure on my neck still makes me feel nice and vulnerable.", {"inflict": "put a collar on me", "maintain": "wear a collar", "non_interfering": True}),
+  simple_item ("I have clothespins on my nipples", 0, 5, 0, 3, immediate + 1, half_hour, """Interestingly, depending on the exact angle, clothespins can cause anything from "no pain at all" to "lots of pain". If you want, you can order me to adjust them to whatever level of pain you specify.""", {"inflict": "put clothespins on my nipples", "non_interfering": True, "possible_tied": True}),
+  simple_item ("I'm wearing a collar", 0, 1, 0, 2, several_minutes, hours, "Collars aren't as exciting for me as they are for people who do power dynamics, but the slight pressure on my neck still makes me feel nice and vulnerable.", {"inflict": "put a collar on me", "maintain": "wear a collar", "non_interfering": True, "possible_tied": True}),
   simple_item ("I'm forced to stand in a stress position, like with my legs bent and/or my arms over my head", 2, 5, 0, 4, immediate + 1, half_hour, "Having my muscles straining makes all pleasure sensations much more intense. It's one of the same reasons that I enjoy struggling in bondage.", {"maintain": "stand in a stress position", "enhance": True}),
   simple_item ("I'm in a predicament bondage position", 4, 7, 0, 4, half_hour, half_hour, '''Predicament bondage is when you're tied in a position where you have to choose between multiple uncomfortable options. For instance, you could put clothespins on my nipples and tie them to an overhead hook, so I have to either strain to stand on my tiptoes, or have my nipples pulled hard.<br><br>Predicament bondage combines a lot of different things I like. And while a <em>single</em> painful sensation tends to become too much and stop being sexy, predicament bondage naturally keeps each sensation at the "very intense, but not excessively intense" level.''', {"inflict": "put me in predicament bondage", "enhance": True}),
   simple_item ("I'm forced to stay perfectly still", 0, 1, 0, 1, immediate, half_hour, """I'm really good at suppressing my own reactions, but it does take a mental effort. There's a lot of differen sides to this kind of restraint. First, I can't protect myself against your touch because of my own suppression. Second, when you do touch me, it not only forces the sensation on me, but also forces the internal mental effort. And finally, there's the fear of however you might "punish" me if I mess up and move.""", {"maintain": "stay perfectly still", "enhance": True, "possible_tied": True}),
@@ -148,8 +148,17 @@ bondage_list = [
   ]}),
 ]
 
+impractical_list = [
+  simplest_item ("being threatened with a knife", "I don't want to take the risk of using an <em>actual</em> knife, but threatening me with a butter knife and <em>pretending</em> it's sharp can be fun.", {"control": "threaten me with a (not actually sharp) knife to make me", "possible_tied": True}),
+  simplest_item ("being beaten up for real", "", {"control": "(play-)threaten to beat me up unless I", "possible_tied": True}),
+  simplest_item ("no-holds-barred fighting", "It turns me on SO much to imagine getting beaten in a no-holds-barred fight. I like to feel helpless, but usually, the helplessness is partly sabotaged by my knowledge that I'm not <em>actually</em> resisting as hard as I could be. But if I could somehow fight back with my full abilities and still get crushed…<br><br>Even if I don't lose, there's also the <em>body exhilaration</em> of fighting as hard as I can and disengaging my normal respect for human life.<br><br>Anyway, I don't want anyone to die or get injured, so I can't actually do this. But it's still a persistent fantasy of mine.", {}),
+  simplest_item ("penetrative sex, or other things with STI risk", "I don't want to do anything that risks transmitting STIs. Condoms can <em>reduce</em> the risk, but not remove it. Since this isn't a major part of my sexual interests, it's a logical decision for me not to take the risk. I don't even want much mouth-to-mouth contact – a forced kiss would turn me on, but I'm happy to sacrifice ever doing that in order to slightly reduce my risk of some diseases.", {}),
+  simplest_item ("literal magic", "There are so many sexy things you could do with magic. Shapeshifting… Mind control… Telekinesis… There are way too many for me to list them all.", {"control": "pretend to use magical mind control to make me", "possible_tied": True}),
+  simplest_item ("getting topped by programmed robots", '''Like in my story, <a href="/stories/will-you-try-to-escape">Will You Try to Escape?</a>. Maybe if robots are much cheaper and easier to program in the future… Nah, it would probably still have too many safety concerns and not actually be worth the effort.''', {}),
+]
+
 miscellaneous_list = [
-  simplest_item ("we agree that you can start topping me whenever you feel like it, without asking first", "I get a rush out of looking at someone and knowing that they <em>could</em> just jump me whenever they wanted. ", {}),
+  simplest_item ("we agree that you can start topping me whenever you feel like it, without asking first", "I get a rush out of looking at someone and knowing that they <em>could</em> just jump me whenever they wanted.", {}),
   simplest_item ("you jump me in retaliation for saying something smug", '''I say a lot of smug things. I sometimes even make it into a game – how to say the thing that's <em>as smug as possible</em>. Then we can have a playful back-and-forth, either with more smug things or physical attacks. In a way, retaliating can actually be a form of appreciation, even if it's "violent". It's like the affectionately incredulous "I can't <em>believe</em> you actually said that".''', {}),
   simplest_item ("you interpret game rules unfairly against me", '''In my normal life, I like playing games, but I have a lot of boundaries about them. <ul> <li>I don't like playing games with ambiguous rules. This includes most physical games, because someone has to call what's "close enough".</li> <li>I always refuse to play games where the rules refer to things from real life, like the ages of the players.</li> <li>I don't even like playing games with real-life rewards, although I'm usually fine if I just pretend there's no reward.</li></ul> I feel like these things <em>violate the boundaries of a game</em>. They drag human social problems into my fun. The discomfort I get from them usually makes the game not worth playing. <br><br>In a BDSM context, playing with that discomfort on purpose can be fun. I can deliberately let myself get attached to the outcome, and then let myself feel unstable when I start to lose or when you change the rules out from under me. And I don't feel like my <em>real</em> boundaries have been violated, because the real boundary is drawn around the BDSM context as a whole.''', {}),
   simplest_item ("while I'm doing a game/challenge, you keep teasing me/feeling me up/reminding me of what you'll do to me once I lose", "", {}),
@@ -164,15 +173,6 @@ circumstances_list = [
 
 
 
-online
-
-fantasy list? "impractical list"
-robots?
-magic?
-squeeze balls/beat up/knife
-real fighting
-STI risking stuff
-
 source code
 
 '''
@@ -184,6 +184,7 @@ lists = [
   {"name": "Conditions list", "id": "conditions", "description": "Things that can be ongoing while you do other stuff to me", "list": conditions_list},
   {"name": "Scene list", "id": "scene", "description": "Overall progressions of things we can do together", "list": scene_list},
   {"name": "Bondage list", "id": "bondage", "description": "A few of the infinite ways I like to be tied up", "list": bondage_list},
+  {"name": "Impractical list", "id": "impractical", "description": "Things that I sometimes fantasize about, but don't do in real life because they're risky or impossible. Although we can still pretend or play-threaten to do them.", "list": impractical_list},
   {"name": "Miscellaneous list", "id": "miscellaneous", "description": "Things that didn't fit into one of the other list", "list": miscellaneous_list},
 ]
 
@@ -294,6 +295,9 @@ var participation = 1;
 var conditions = 2;
 var preprocessed_lists = """+json.dumps(lists)+r"""
 var bondage;
+var impractical;
+var scene;
+
 
 function adjust (item, attrs) {
   return changed = Object.assign({}, item, attrs);
@@ -322,10 +326,16 @@ preprocessed_lists.forEach(function(list, index) {
   if (list.id === "bondage") {
     bondage = index;
   }
+  if (list.id === "impractical") {
+    impractical = index;
+  }
+  if (list.id === "scene") {
+    scene = index;
+  }
   list.list.forEach(function(item) {
     item.max_sensation = Math.max (item.max_unpleasantness, item.max_pleasantness);
     if (item.inflict) {
-      preprocessed_lists[stimulation].list.push (adjust (item, {name: item.inflict, from_different_list: true}));
+      preprocessed_lists[stimulation].list.push (adjust (item, {name: item.inflict, from_different_list: true, possible_tied: false}));
     }
     /*if (item.assume) {
       preprocessed_lists[participation].list.push (adjust (item, {name: item.assume, from_different_list: true}));
@@ -382,9 +392,6 @@ function surrender (lists) {
   return "let you " + choose (lists [stimulation].filter (item => item.max_unpleasantness < 6));
 }
 
-function act (lists) {
-  
-}
 
 function I_must_strip(lists) {
       return "I must remove a piece of clothing";
@@ -398,12 +405,21 @@ function make_me_participate(lists) {
     function maintain_while_inflict (lists) {
       return "make me " + maintain_condition(lists, true) + " while you " + choose (lists [stimulation].filter (item => item.max_sensation >= 4));
     }
-    function inflict_until_surrender (lists) {
-      return choose (lists [stimulation].filter (item => item.max_unpleasantness >= 6).concat ([{name: "squeeze my balls"}])) + " until I " + surrender(lists);
+    function inflict_until_surrender (lists, extras) {
+      var unfiltered_list = [].concat (
+        preprocessed_lists [stimulation].list.filter (item => item.max_unpleasantness >= 6),
+        [{name: "squeeze my balls"}],
+      );
+      return choose (unfiltered_list.filter (extras.filter)) + " until I " + surrender(lists);
     }
-    function threaten_unless_surrender (lists) {
+    function threaten_unless_surrender (lists, extras) {
       // since the threat needn't be carried out, we choose it from the unfiltered list
-      return "threaten to "+choose (preprocessed_lists [stimulation].list.filter (item => item.max_unpleasantness >= 6).concat ([{name: "squeeze my balls"},{name: "(not actually) beat me up"},{name: "cut me with a (not actually sharp) knife"}])) + " unless I " + surrender(lists);
+      var unfiltered_list = [].concat (
+        preprocessed_lists [stimulation].list.filter (item => item.max_unpleasantness >= 6).map (item => rename (item, "threaten to "+item.name + " unless I")),
+        [{name: "threaten to squeeze my balls unless I"}],
+        preprocessed_lists [impractical].list.filter (item => item.control).map (item => rename (item, item.control)),
+      );
+      return choose (unfiltered_list.filter(parameter_filter (adjust (extras.parameters,{max_unpleasantness: 10})))) + " " + surrender(lists);
     }
     function while_condition_inflict (lists) {
       return "while " + choose (lists[conditions].filter (item => item.enhance && !item.maintain)) + ", " + inflict(lists);
@@ -430,17 +446,24 @@ function tie_me_up (lists) {
   }
   return "tie my " + item.name.replace ("tied ", "");
 }
-    
-function global_generate (parameters, generators) {
-  var filter = function (item, list) {
+function random_scene(lists) {
+  return choose (lists[scene].map (item => rename (item, item.name.replace ("you ", "").replace (", you", ","))));
+}
+
+function parameter_filter (parameters) {
+  return function (item, list) {
     return (
       (item.min_unpleasantness === undefined || item.min_unpleasantness <= parameters.max_unpleasantness) &&
       (item.min_time === undefined || item.min_time <= parameters.max_time) &&
       (parameters.caveat_allowed || !item.caveat) &&
       (parameters.unsure_allowed || !item.unsure) &&
       (!parameters.remote_only || list.id === "participation" || item.possible_remotely)
-    )
-  }
+    );
+  };
+}
+ 
+function global_generate (parameters, generators) {
+  var filter = parameter_filter (parameters);
   var filtered_lists = preprocessed_lists.map (function (list) {return list.list.filter (function(item) {
     return filter(item, list) && (!parameters.filter || parameters.filter(item, list))
   });});
@@ -452,7 +475,7 @@ function global_generate (parameters, generators) {
   var result = "undefined";
   var attempts = 0;
   while (result.includes ("undefined")) {
-    result = ""+random_choice (generators)(filtered_lists);
+    result = ""+random_choice (generators)(filtered_lists, {parameters, filter});
     if (++attempts > 1000) {return "Oops! Couldn't find any activities that meet your restrictions";}
   }
   return result;
@@ -503,7 +526,7 @@ $("#kink_generator").append (
   $("<label>", {for:"remote", text:"only list things that we can do remotely (e.g. by email or video chat)"}),
   
   button("any random thing for us to do", 
-    [inflict, inflict, inflict, I_must_participate, I_must_participate, maintain_while_inflict, inflict_until_surrender, threaten_unless_surrender, challenge_to_maintain, casually_force_condition, casually_inflict, tie_me_up],
+    [inflict, inflict, inflict, I_must_participate, I_must_participate, I_must_participate, maintain_while_inflict, inflict_until_surrender, threaten_unless_surrender, challenge_to_maintain, casually_force_condition, casually_inflict, tie_me_up, random_scene, random_scene, random_scene, random_scene],
     {}
   ),
   button("a way to tie me up", 
@@ -513,7 +536,7 @@ $("#kink_generator").append (
   button("something to do to me while I'm tied up", 
     [inflict, inflict, inflict, inflict, inflict, inflict, maintain_while_inflict, inflict_until_surrender, threaten_unless_surrender, challenge_to_maintain],
     {filter: function (item, list) {
-      return list.id === "stimulation" || item.possible_tied
+      return ((list.id === "stimulation" && item.original_list === "stimulation") || item.possible_tied) && !item.not_when_tied;
     }}
   ),
   button("a punishment for losing one round of a game", 
@@ -523,7 +546,7 @@ $("#kink_generator").append (
       filter: function (item, list) {
         return (item.original_list !== "stimulation" || item.max_sensation >= 4) &&
                (item.original_list !== "conditions" || item.non_interfering) &&
-               (item.name !== "strip naked")
+               (item.name !== "strip naked");
 
       }
     }
