@@ -191,6 +191,23 @@ I've also been slowly working away at chapter 3 of <a href="/ravelling-wrath">Ra
 ''',
 },
 
+{
+"title": "Projects update 2017-08-09",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+I missed last week's update because I was very busy, both working on <a href="https://github.com/elidupree/time-steward">TimeSteward</a>, which I've <a href="/blog/eli-status-august-2016">briefly mentioned before</a>, and some exhausting personal stuff.
+
+I can explain a bit of my TimeSteward work now! Both <a href="/games/green-caves">the green caves game</a> and <a href="/time-steward-examples/bouncy-circles">the bouncy-circles example</a> are working examples of TimeSteward simulations, but they are both very simple. That's because I've only made prototypes of TimeSteward that <em>work</em>, but are not efficient. Complex simulations run too slowly.
+
+My current work is fixing that. The old TimeSteward did a lot of extra computations tracking redundant dependencies, to make sure it works even if there are mistakes in the simulation design. In the new system I'm building right now, TimeSteward trusts the simulation to do its own tracking, in whichever way is the most efficient. To deal with mistakes, I'm making a way to <em>audit</em> the simulation after-the-fact to make sure there are no inconsistencies.
+
+
+''',
+},
+
 ]
 
 """
