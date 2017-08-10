@@ -173,16 +173,6 @@ miscellaneous_list = [
   simplest_item ("you ambush me while I'm still asleep", "I wonder if it's possible to tie me to the bed without waking me up...", {"unsure": True}),
 ]
 
-circumstances_list = [
-'''
-
-
-fix hexy link
-css generator
-
-'''
-]
-
 lists = [
   {"name": "Stimulation list", "id": "stimulation", "description": "Things you can do to me even if I don't actively cooperate.", "list": stimulation_list},
   {"name": "Participation list", "id": "participation", "description": "Things you can force me to do, that require my cooperation.", "list": participation_list},
@@ -308,8 +298,13 @@ ul,table { margin-top: 0.6em; margin-bottom: 0.9em; }
 h3 { padding-top: 0.5em }
 .subtitle {margin:0.3em 0;}
 /*textarea {display: block; width: 100%; height: 10em;}*/
-#kink_generator {background-color: #ddd; border-radius: 2em; padding: 0.8em; }
-#display {background-color: white; border-radius: 1.5em; padding: 0.8em; }
+#kink_generator {background-color: #bbb; border-radius: 2em; padding: 0.8em; margin: 1.1em 0; }
+#options {background-color: white; border-radius: 1.5em; padding: 0.8em 1.1em; margin-bottom: 0.8em; }
+input[type="number"] {width: 2.3em;}
+input[type="checkbox"] {width: 1.2em; height: 1.2em;}
+input[type="checkbox"], label { vertical-align: middle;}
+#display {background-color: white; border-radius: 1.5em; padding: 0.8em 1.1em; }
+button {display: block; padding: 0.3em; margin: 0.3em 0;}
   </style>
   ''',
   "after_body": """<script type="text/javascript">
@@ -527,19 +522,26 @@ a way to tie me up
 */
 
 function button (text, generators, parameters) {
-  return $("<button>").css("display", "block").text ("Pick "+text).click (function() {
+  return $("<button>").text ("Pick "+text).click (function() {
     var result = UI_generate(generators, parameters);
     var number = $("#number").val();
     for (var index = 1; index < number;++index) {
       result += "<br>\n"+UI_generate(generators, parameters);
     }
     display.html(result);//.css("height", ""+(2+number*10/7)+"em");
+    display.css({
+      opacity: 0,
+      //"font-size": 0
+    }).animate({
+      opacity: 1,
+      //"font-size": "120%",
+    });
   });
 }
 
 display = $("<div>", {id: "display"});
 $("#kink_generator").append (
-  
+  $("<div>", {id: "options"}).append(
   
   "Generate ",
   $("<input>", {id: "number", type:"number", min: 1, max: 100, value: 7,}),
@@ -550,7 +552,7 @@ $("#kink_generator").append (
   " time",
   $("<br>"),
   $("<input>", {id: "remote", type:"checkbox",}),
-  $("<label>", {for:"remote", text:"only list things that we can do remotely (e.g. by email or video chat)"}),
+  $("<label>", {for:"remote", text:" only list things that we can do remotely (e.g. by email or video chat)"}),
   
   button("any random thing for us to do", 
     [inflict, inflict, inflict, I_must_participate, I_must_participate, I_must_participate, maintain_while_inflict, inflict_until_surrender, threaten_unless_surrender, challenge_to_maintain, casually_force_condition, casually_inflict, tie_me_up, random_scene, random_scene, random_scene, random_scene],
@@ -581,6 +583,7 @@ $("#kink_generator").append (
 
       }
     }
+  )
   ),
   
   display
