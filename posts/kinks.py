@@ -213,7 +213,7 @@ contents = '''
 
 <p>(Content: Details of sexual stuff, including BDSM things that would normally be violent.)</p>
 
-This post describes the things I enjoy doing sexually. I have a lot of different purposes in writing it. Here are a few of them:
+This page describes the things I enjoy doing sexually. I have a lot of different purposes in writing it. Here are a few of them:
 <ul class="big_list">
 <li>For me and my play partners to use as a reference, to find ideas for things to do together.</li>
 <li>To help normalize these desires. Now, I am hardly a normal person, so just listing them doesn't prove they're "normal". But trust me, none of them are especially rare. I also want to make sure everyone knows it's possible to do these things in a consensual environment. If you also want these things, but you're only getting them from a coercive relationship, trust me: better things are possible.</li>
@@ -240,7 +240,7 @@ You might have seen the similar terms "dom" and "sub". These are subtly differen
 
 This is mostly a list of ways I like other people topping me. I also enjoy topping other people. However, this list doesn't cover that, for a couple reasons. First, when I top someone, what I enjoy is much more dependent on what the other person likes. (I think I get a lot of my enjoyment out of mentally mirroring their reactions.) Second, if I did have to pick my own preferences, it would basically be the same list, just in reverse.
 
-Lastly, instead of saying "the top" or "the person I'm playing with" in this list, I'm going to say "you", because it's easier to read and doesn't sound as dry and formal.
+Lastly, instead of saying "the top" or "the person I'm playing with" in this list, I'm going to say "you", because it doesn't sound so dry and formal.
 
 
 <h2>The list</h2>
@@ -286,7 +286,7 @@ posts = [
 {
   "title":"My kinks",
   "title_url_override": "kinks",
-  "don't deploy": True,
+  "blurb": "This page describes the things I enjoy doing sexually.",
   "auto_paragraphs": True,
   "contents": contents,
   "head": '''
