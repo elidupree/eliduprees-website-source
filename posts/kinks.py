@@ -157,7 +157,7 @@ impractical_list = [
   simplest_item ("no-holds-barred fighting", "It turns me on SO much to imagine getting beaten in a no-holds-barred fight. I like to feel helpless, but usually, the helplessness is partly sabotaged by my knowledge that I'm not <em>actually</em> resisting as hard as I could be. But if I could somehow fight back with my full abilities and still get crushed…<br><br>Even if I don't lose, there's also the <em>body exhilaration</em> of fighting as hard as I can and disengaging my normal reluctance to injure others.<br><br>Anyway, I don't want anyone to die or get injured, so I can't actually do this. But it's still a persistent fantasy of mine.", {}),
   simplest_item ("penetrative sex, or other things with STI risk", "I don't want to do anything that risks transmitting STIs. Condoms can <em>reduce</em> the risk, but not remove it. Since this isn't a major part of my sexual interests, it's a logical decision for me not to take the risk. I don't even want much mouth-to-mouth contact – a forced kiss would turn me on, but I'm happy to sacrifice ever doing that in order to slightly reduce my risk of some diseases.", {}),
   simplest_item ("playing in the woods when it's warm", "We have a lot of mosquitoes. Also, in my area, tickborne diseases are a serious concern. It's not such a big risk that people should avoid the woods in <em>general</em>, but I'm a person who doesn't like the outdoors that much anyway.", {}),
-  simplest_item ("getting topped by programmed robots", '''Like in my story, <a href="/stories/will-you-try-to-escape">Will You Try to Escape?</a>. Maybe if robots are much cheaper and easier to program in the future… Nah, it would probably still have too many safety concerns and not actually be worth the effort.''', {}),
+  simplest_item ("getting topped by programmed robots", '''Like in my interactive story, <a href="/stories/will-you-try-to-escape">Will You Try to Escape?</a>.<br><br>I used to fantasize about mechanical topping quite a bit. Since my desires aren't inherently about <em>human</em> relations, a mechanical top would be about as good as a human one. And it could make me feel a lot more helpless, because (in the fantasy) they wouldn't have any reaction to me asking them to stop.<br><br>Nowadays, I care about other humans a lot more, and I'm more comfortable doing things with them, so my fantasies about using robots have lessened. Maybe if robots are much cheaper and easier to program in the future… Nah, it would probably still have too many safety concerns and not actually be worth the effort.''', {}),
   simplest_item ("literal magic", "There are so many sexy things you could do with magic. Shapeshifting… Mind control… Telekinesis… There are way too many for me to list them all.", {"control": "pretend to use magical mind control to make me", "possible_tied": True, "possible_remotely": True}),
 ]
 
@@ -174,7 +174,7 @@ miscellaneous_list = [
 ]
 
 lists = [
-  {"name": "Stimulation list", "id": "stimulation", "description": "Things you can do to me even if I don't actively cooperate.", "list": stimulation_list},
+  {"name": "Stimulation list", "id": "stimulation", "description": "Things you can do to me that don't require me to actively cooperate.", "list": stimulation_list},
   {"name": "Participation list", "id": "participation", "description": "Things you can force me to do, that require my cooperation.", "list": participation_list},
   {"name": "Conditions list", "id": "conditions", "description": "Things that can be ongoing while you do other stuff to me", "list": conditions_list},
   {"name": "Scene list", "id": "scene", "description": "Overall progressions of things we can do together.", "list": scene_list},
@@ -224,7 +224,7 @@ You may share this. I'm not keeping it secret from anyone.
 
 <h2><em>Who</em> I would do these things with</h2>
 
-Anyone who wants to do them with me, as long as I know them and trust that they wouldn't harm me or <em>be</em> harmed.
+Anyone who wants to do them with me, as long as I know them, trust that they wouldn't harm me, and trust that they wouldn't <em>be</em> harmed.
 
 This theoretically has no boundaries of gender, although it's generally a bit harder for me to trust male people, in both ways.
 
