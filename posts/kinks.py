@@ -216,7 +216,7 @@ contents = '''
 This page describes the things I enjoy doing sexually. I have a lot of different purposes in writing it. Here are a few of them:
 <ul class="big_list">
 <li>For me and my play partners to use as a reference, to find ideas for things to do together.</li>
-<li>To help normalize these desires. Now, I am hardly a normal person, so just listing them doesn't prove they're "normal". But trust me, none of them are especially rare. I also want to make sure everyone knows it's possible to do these things in a consensual environment. If you also want these things, but you're only getting them from a coercive relationship, trust me: better things are possible.</li>
+<li>To help normalize these desires. Now, I am hardly a normal person, so just listing them doesn't prove they're "normal". But none of them are especially rare. I also want to make sure everyone knows it's possible to do these things in a consensual environment. If you also want these things, but you're only getting them from a coercive relationship, better things are possible.</li>
 <li>For people to enjoy reading, either because it sexually excites them or because it just satisfies their curiosity.</li>
 </ul>
 
