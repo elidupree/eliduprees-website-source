@@ -30,6 +30,7 @@ import posts.the_23_days_cult
 import ravelling_wrath.main
 import posts.stories_01
 import posts.uncategorized_01
+import posts.kinks
 
 # https://programmers.stackexchange.com/questions/254279/why-doesnt-python-have-a-flatten-function-for-lists
 def flatten(l):
@@ -73,6 +74,7 @@ long_stories = {
 
 uncategorized_posts = flatten([
   posts.uncategorized_01.posts,
+  posts.kinks.posts,
 ])
 
 posts = {
