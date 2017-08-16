@@ -212,7 +212,7 @@ My current work is fixing that. The old TimeSteward did a lot of extra computati
 "title": "Consent and Conflictedness",
 "tags": ["sex"],
 "auto_paragraphs": True,
-"blurb": "",
+"blurb": "Ideally, most parts of yourself agree about who you are and what you want. But there will always be parts that have different interests, or even disagree about what you, as a whole, should be doing.",
 "contents":'''
 
 Suppose I have a friend who knows I'm interested in them sexually, but hasn't decided to do anything sexual with me before. One day, this friend comes up to me, obviously <strong>upset</strong>, and says they want to have sex with me. What should I do?
