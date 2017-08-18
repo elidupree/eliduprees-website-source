@@ -436,7 +436,9 @@
  "Consent and Conflictedness": {
   "date_modified": "2017-08-16",
   "date_posted": "2017-08-16",
-  "id": "abb0bda1d76cb9f4686a9eddd28914f"
+  "deployed": true,
+  "id": "abb0bda1d76cb9f4686a9eddd28914f",
+  "remembered_contents": "d254ac2dda0722ce7a15fd6e94e252bf77fc6408ebd15e648a95148c2c9ccfb11e511d60ba21f1ba023de1893dd2a271"
  },
  "Consenting in Advance": {
   "date_modified": "2016-08-24",

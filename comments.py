@@ -1501,4 +1501,19 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"ee7bd30480c28c79e4b97e2b8b2bbc1c",
   "date_posted":datetime.date(2017, 7, 8)
 },
+{
+  "parent":"abb0bda1d76cb9f4686a9eddd28914f",
+  "username":"Kagar",
+  "contents":"""Do you have a policy for handling the fact that one part of me might be lying (or wrong, maybe?) about what other parts of me want? If I'm drunk and I assure you all of me has wanted this for a while now (especially now that I've read this post), what's your response?""",
+  "id":"bf26dcb0f562b3378f02f45142f09645",
+  "date_posted":datetime.date(2017, 8, 17)
+},
+{
+  "parent":"bf26dcb0f562b3378f02f45142f09645",
+  "username":"Eli Dupree",
+  "contents":"""That's a good question!<br/><br/>If I <em>know</em> you're drunk, I know that drunk people may be less aware of their feelings, so I'd play it safe and ask you again when I believed that you were sober.<br/><br/>Even if I don't know you're drunk, I might have other ways of guessing. When I've known someone for a while, I have a general sense of how well their internal cooperation works. (Are they normally good at predicting how they'll feel in different situations? How much do they express negative judgments of their own past actions? How well do they accept the fact that they sometimes desire different things than what they're desiring at the moment?) My response to (2) would be different if I knew that particular friend had bad internal cooperation. In that case, I would steer much more towards my response to (3).<br/><br/>Now, sure, someone who read this post <em>would</em> know the right lies to tell to me. And if one part of them was very good at suppressing their other parts of self, they could calmly give fake answers while I was trying to get the attention of the other parts. At some point, it's impossible to tell the difference between "this person is intelligently suppressing a part that doesn't agree" and "this person just doesn't have any parts that don't agree". But fortunately, I don't think many people are as Machiavellian as that. And if I had actually noticed them doing anything like that in the past, I would know to be careful of it. I might wait until another day to see if they still wanted the same thing, regardless of what they said at the time.<br/><br/>The basic rule is "<em>As long as you still have doubts</em> about the consent, try to find more safety checks you can do.\"""",
+  "id":"70d09b6085c3d826e2b0680d5736ff7d",
+  "date_posted":datetime.date(2017, 8, 18)
+},
+
 ]
