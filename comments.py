@@ -1515,5 +1515,19 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"70d09b6085c3d826e2b0680d5736ff7d",
   "date_posted":datetime.date(2017, 8, 18)
 },
+{
+  "parent":"70d09b6085c3d826e2b0680d5736ff7d",
+  "username":"Kagar",
+  "contents":"""Fair enough!<br/><br/>Do you have stances on "appropriate" vs "inappropriate" ways of coming to a conclusion for multiple parts? For instance, if a part of me disagreed, but was outvoted and thus shut up, is that within my right to determine how my internal function works, or does that still count as lack of consent for you?<br/><br/>I'm perhaps more intrigued by this post overall than most (other people|other posts) because I've been on both sides of "I agreed to sexy things with you at the time but now I regret it." (as well as one side of "I think you will regret this and so will not do sexy things with you right now.") and my response to regretting it was very different from the relevant other person's response to regretting it and having an Appropriate way to handle that beforehand sure would be nice.""",
+  "id":"8c1aa3f14e192282d24fc847be80ad9d",
+  "date_posted":datetime.date(2017, 8, 18)
+},
+{
+  "parent":"8c1aa3f14e192282d24fc847be80ad9d",
+  "username":"Eli Dupree",
+  "contents":"""I think it comes down to this: A person/part can <em>consent</em> to do something they don't really <em>want</em> to do, as a favor to someone else. So the disagreeing part could be like "I don't really want to do this, but I see that the rest of you are all excited about it, and I care about you all too, so I'll put up with it." Or maybe "I don't really want to do this, but we've agreed that each of us gets a chance to do the things we want to do even if the others don't, so I'll put up with it." If your internal relationships look like either of those things, I'd say the consent is acceptable.<br/><br/>On the other hand, if the disagreeing part's message was more like "Stop it! Stop it! I can't stand this!" and the others were like "Too bad, it's ten against one and WE say we're doing this", I'd say it was <em>not</em> legitimate consent.<br/><br/>Naturally, it's hard for an outsider to tell which of those things is happening. And it's not always clear-cut because there can be coercion involved. But ideally, you'd be close to the first case and far away from the second one. And there's sometimes a risk that it be disagreeing part will feel worse about it afterwards than you think it will beforehand, so it's good if your system has good ways to take care of upset parts in case that does happen.""",
+  "id":"af635795779f7e4d73d004a78c997d7a",
+  "date_posted":datetime.date(2017, 8, 18)
+},
 
 ]
