@@ -55,6 +55,7 @@ def cleanup_post(post_string):
 def ajax_func():
   import os
   import sys
+  import json
   import forms
   import random
   import datetime
@@ -98,12 +99,15 @@ Last secret ID: '''+ last_secret_comment_identifier
     preview_items.append('''<p>By the way, certain words are <span class="scrutiny">scrutinized</span> on this website. Each word links to an explanation of why I scrutinize it.</p>''')
 
   if request_type == "submit":
-    response = urllib.urlopen ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.urlencode ({"value1": reviewable_text}))
-    if response.getcode() != 200:
+    with open ("/home/public/secrets/recent_comments.txt", "a") as file:
+      file.write (reviewable_text)
+    response1 = urllib.urlopen(secrets.slack_incoming_webhook_url, data =
+        urllib.urlencode({"payload": json.dumps({
+            "text": "@elidupree There is a new comment!"
+        })}))
+    response2 = urllib.urlopen ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.urlencode ({"value1": reviewable_text}))
+    if response1.getcode() != 200 and response2.getcode() != 200:
       raise errors.WebsiteError ("Your comment failed to be delivered.")
-    else:
-      with open ("/home/public/secrets/recent_comments.txt", "a") as file:
-        file.write (reviewable_text)
 
   preview_items.append('<div class="comment_body">'+postprocessed_string+'</div>')
 
