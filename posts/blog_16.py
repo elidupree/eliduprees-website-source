@@ -268,6 +268,19 @@ Do the communication work. Try to help the person develop a better relationship 
 ''',
 },
 
+{
+"title": "Projects update 2017-08-23",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+This week, I've gotten loads of work done on <a href="/blog/eli-status-august-2016">TimeSteward</a>! I've completed the basic form of the new, faster TimeSteward. Now I can show you <a href="/time-steward-examples/simple-diffusion">a simulation of simple diffusion</a>. I already implemented it for the old TimeSteward, but it was so slow that it wasn't practical to watch. It's still a little slow, but it will be much easier to optimize it now.
+
+
+''',
+},
+
 ]
 
 """

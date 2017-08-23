@@ -9,8 +9,8 @@ blurb = "A simple test case of TimeSteward physics."
 blurb_image ="/media/bouncy-circles-screenshot.png?rr"
 	  
 def add_pages(page_dict):
-  add_page (page_dict, "bouncy-circles", "Bouncy circles", '''<p>Bouncy-circles example for <a href="https://github.com/elidupree/time-steward">TimeSteward</a>. Click near any circle to make it zoom towards the center. The circles should move smoothly if your computer is fast enough, but this prototype isn't very efficient, so they may move jerkily instead. Eventually stops working due to a known issue (just reload the page if you want).</p>''')
-  add_page (page_dict, "simple-diffusion", "Simple diffusion", "")
+  add_page (page_dict, "bouncy-circles", "Bouncy circles", '''<p>Bouncy-circles example for <a href="https://github.com/elidupree/time-steward">TimeSteward</a>. Click near any circle to make it zoom towards the center. (Known bug: Clicks land in the wrong place if you scroll the page.) The circles should move smoothly if your computer is fast enough, but this prototype isn't very efficient, so they may move jerkily instead. Eventually stops working due to a known issue (just reload the page if you want)</p>''')
+  add_page (page_dict, "simple-diffusion", "Simple diffusion", '''<p>Simple diffusion example for <a href="https://github.com/elidupree/time-steward">TimeSteward</a>. Click anywhere to add a random (positive or negative) amount of ink. (Known bug: Clicks land in the wrong place if you scroll the page.)</p>''')
   
 def add_page(page_dict, hyphenated_name, human_name, description):
   utils.make_page (page_dict,
