@@ -281,6 +281,20 @@ This week, I've gotten loads of work done on <a href="/blog/eli-status-august-20
 ''',
 },
 
+{
+"title": "Projects update 2017-08-30",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+I'd really like to be making real Wednesday posts for y'all, but I'm still on a roll with my huge project, <a href="/blog/eli-status-august-2016">TimeSteward</a>, and I don't want to mess it up. My mind is focusing on it really well, and I can't easily switch to focusing on a different project. (In general, I'm sometimes able to switch projects by choice, but not always.) And between my hand issues and throat issues, it's been a long time since I've had the chance to be this productive, so I want to make the most of this.
+
+Unfortunately, most of it is still arcane computer stuff that I can't exhibit in a cool way. I did made a better version of the <a href="/time-steward-examples/simple-diffusion">simple diffusion example</a>, but I can't show it to you today because of technical difficulties.
+
+''',
+},
+
 ]
 
 """
