@@ -378,25 +378,49 @@ Yali hesitated. "My idea is to, to, to <em>explore</em> your ways of feeling ang
 
 "Yeah, it <em>sort of</em> worked, just like those other times. But, like, it's in the past, right? I can't just get mad about it again just because I want to. Like, I'm here with you now, it's different."
 
-"That's the problem… an outlet…"
+"That's the problem… a…"
 
-"What?"
+"A what?"
 
 Yali didn't answer. She was deep in thought. I wanted to know what she was thinking, but I knew how she got when she was like this – if I tried to interrupt her, she'd just mumble something incomprehensible and then take even longer.
 
-?????
+I finished my food. Yali finished hers and pushed her plate aside. She was still looking down in silence.
 
-Yali took my hand. Her voice was soft and serious. "Before we make plans, I want to make sure whether you really want to do this. It's okay if you say no, or that I'm dragging you into things too fast."
+"So, are you going to –" I began.
 
-"I'm fine with it. It seems like a good –"
+"I've had an idea." Then she was quiet again.
 
-"Stop. Just this once, can I ask you to take some time and think it through? If this works, it'll be a really unpleasant experience for you. So I don't want to do it unless you're sure about it. Think about whether you'd want to do it if it wasn't my idea."
+"…okay, spit it out."
 
-"Okay," I said. I looked down at the table. "How can it be not your idea, though? It's, like… if it's not your idea, it's completely different."
+"It's, it's, I don't know if it's okay."
 
-"Well… Suppose it was <em>your</em> idea. And you suggested it to me, and I said I'd do it if you wanted to, but I didn't really care one way or the other. Would you ask me to do it?"
+"Just tell me."
 
-"I…" I thought about it.
+Yali fidgeted with her plate. "You are too comfortable. I've never seen you stay uncomfortable for very long. I don't mean physically, I mean, you always, whenever something hurts you, you always find a way to say, 'well that's no big deal'." Yali swallowed. "I wonder what would happen if you couldn't do that. What if I – we – put you through a, an <em>ordeal</em>, where you <em>couldn't</em> make yourself comfortable…"
+
+"You can do that?"
+
+"Maybe I can," she said gravely.
+
+"Well now I'm <em>curious</em>."
+
+"I can tell you what I'm thinking of –"
+
+"No, don't tell me, I bet it'll work better if I don't know what's coming."
+
+"You – you're acting like you're actually excited about it…?"
+
+"Come on, ever since you told me yesterday, I've been wondering, what the hell is it going to feel like to have the fucking –" I glanced around to see make sure no one was listening "– <em>you-know-what</em> in my head making me angry all over the place? How <em>would</em> I handle that? So, this 'ordeal' you've got, I know it's not the same, but if it's going to be something like it, I want to see what it's like, sign me up, when do we start –"
+
+Yali took my hand. Her voice was soft and serious. "Before we make plans, I want to make sure you've thought through whether you really want to do this. It's okay if you say no, or that I'm dragging you into things too fast."
+
+"I'm fine with it. I literally <em>just</em> said –"
+
+"Stop. Just this once, can I ask you to take some time and think it through? If this works, it'll be a really unpleasant experience for you. So I don't want to jump into it unless you're sure about it."
+
+"How bad can it be?" I said. Yali stared back at me. "Fuck, I bet that's exactly what you <em>didn't</em> want me to say. Okay, give me a minute." I said. I looked down at the table. What was I supposed to do, though – think like a careful person? What <em>would</em> a careful person do in this situation? "Okay,
+
+
 
 ?????
 
