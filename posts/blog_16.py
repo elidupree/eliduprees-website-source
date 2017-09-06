@@ -295,6 +295,22 @@ Unfortunately, most of it is still arcane computer stuff that I can't exhibit in
 ''',
 },
 
+{
+"title": "Projects update 2017-09-06",
+"tags": [],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+This week was another week of good work on <a href="/blog/eli-status-august-2016">TimeSteward</a>.
+
+Most of it is still backend stuff, but I also created a new example case, <a href="/time-steward-examples/quadtree-diffusion">quadtree diffusion</a>.
+
+I've also updated the <a href="/time-steward-examples/bouncy-circles">bouncy circles example</a> and the <a href="/time-steward-examples/simple-diffusion">simple diffusion example</a> to the latest, somewhat faster versions.
+
+''',
+},
+
 ]
 
 """
