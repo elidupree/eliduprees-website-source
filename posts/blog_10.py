@@ -61,6 +61,7 @@ posts = [
   "force_id":"52f82504d99f552bd503844c15c21189",
   "force_date":datetime.date(2013, 8, 10),
   "tags":["crass physical reality","this website"],
+  "ignore_for_random_post": True,
   "contents":'''
 
 <p>So, I said I wanted to post an awesome thing every week. That didn't happen. Instead, I got overheated.</p>

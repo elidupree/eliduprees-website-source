@@ -128,6 +128,7 @@ Anyway, I hope this post helps people think about things. I'm not trying to argu
 "title": "Eli status: August 2016",
 "tags": ["crass physical reality", "this website", "programming"],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
 "blurb":"A quick update on how things are going for me right now.",
 "contents":'''
 Here's a quick update on how things are going for me right now.

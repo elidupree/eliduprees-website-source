@@ -10,6 +10,7 @@ posts = [
   "title":"""Some things""",
   "force_id":"5fe8419f347fbd2743748859447a33bf",
   "force_date":datetime.date(2011, 9, 28),
+  "ignore_for_random_post": True,
   "contents":'''
 
 <p>(This post is basically just a list of things. I could have written about each of these things individually, but I'm having some health issues right now, and so I don't have the time-and-energy to write nicely about all of them.)</p>
@@ -51,6 +52,8 @@ posts = [
   "title":"""No comic today""",
   "force_id":"1d63ca51a5813c4a35a253a637e2e8e8",
   "force_date":datetime.date(2011, 10, 22),
+  "ignore_for_random_post": True,
+  "deleted": True,
   "contents":'''
 
 <p>I've been very busy this week, and I've stayed up late for the last four days. Today, I have no obligations, but I'm too tired to draw &ndash; or do any other work, for that matter.</p>

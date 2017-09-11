@@ -176,6 +176,8 @@ Since then, I've had some more design ideas that might work better. I'll get bac
 "title": "Projects update 2017-07-26",
 "tags": [],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
 "blurb": "",
 "contents":'''
 
@@ -195,6 +197,8 @@ I've also been slowly working away at chapter 3 of <a href="/ravelling-wrath">Ra
 "title": "Projects update 2017-08-09",
 "tags": [],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
 "blurb": "",
 "contents":'''
 
@@ -272,6 +276,8 @@ Do the communication work. Try to help the person develop a better relationship 
 "title": "Projects update 2017-08-23",
 "tags": [],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
 "blurb": "",
 "contents":'''
 
@@ -285,6 +291,8 @@ This week, I've gotten loads of work done on <a href="/blog/eli-status-august-20
 "title": "Projects update 2017-08-30",
 "tags": [],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
 "blurb": "",
 "contents":'''
 
@@ -299,6 +307,8 @@ Unfortunately, most of it is still arcane computer stuff that I can't exhibit in
 "title": "Projects update 2017-09-06",
 "tags": [],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
 "blurb": "",
 "contents":'''
 

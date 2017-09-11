@@ -44,6 +44,7 @@ In this post, I'm not trying to convince you which of those forms of violence ar
 "title": "A slight change to my blog schedule, and an update on my projects",
 "tags": ["this website"],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
 "blurb": "No serious-business blog post today, but I'm in the process of writing a new story.",
 "contents":'''
 My "post something every Wednesday" schedule hasn't been working very well for me lately. I keep putting off writing a blog post into Wednesday, then feeling lethargic on Wednesday and not wanting to write one. Now, this isn't <em>entirely</em> a problem – after all, it's gotten me to write some good posts, even if I didn't 100% enjoy the process. However, there's an extra issue:
@@ -67,6 +68,7 @@ I've also been messing around with some computer music generation. Here are some
 "tags": [],
 "auto_paragraphs": True,
 "blurb": "",
+"ignore_for_random_post": True,
 "contents":'''
 I'm almost finished writing the first chapter of <a href="/ravelling-wrath">Ravelling Wrath</a>, and I've written part of the second chapter as well. With any luck, I'll be able to post Chapter 1 next week.
 
@@ -81,6 +83,7 @@ Also! My sibling and I have been making a silly game called Portaltron. It's lik
 "tags": [],
 "auto_paragraphs": True,
 "blurb": "",
+"ignore_for_random_post": True,
 "contents":'''
 I've been making a lot of progress on <a href="/ravelling-wrath">Ravelling Wrath</a>. The second chapter is now about 4500 words long. That's already 600 longer than the first chapter, and I'm not nearly done with it yet! I might even end up splitting it into two chapters. We'll see.
 
@@ -163,6 +166,8 @@ In our rules, these pairs are always worth 0. That seems much more elegant to me
 "title": "Projects update 2017-03-29",
 "tags": [],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
 "blurb": "",
 "contents":'''
 The second chapter of <a href="/ravelling-wrath">Ravelling Wrath</a> now stands at <em>7100</em> words, almost twice as long as the first one. I'll probably split it in two. However, because I've been writing it out-of-order, the first half isn't finished yet either. And once I finish it, I will still have to do some website work. (Right now, I don't have a real system for stories with multiple chapters.) I could theoretically have a chapter ready by next week, but my best guess is more like two or three weeks.
@@ -265,6 +270,8 @@ Along with this post, I've added a section to <a href="/ravelling-wrath/discussi
 "title": "Projects update 2017-06-07",
 "tags": [],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
 "blurb": "",
 "contents":'''
 
@@ -291,6 +298,8 @@ Also, Chapter 3 of <a href="/ravelling-wrath">Ravelling Wrath</a> currently stan
 "title": "Projects update 2017-06-14",
 "tags": [],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
 "blurb": "",
 "contents":'''
 
@@ -311,6 +320,8 @@ That went well and only took me 10 minutes, so today, I did 15 minutes of work o
 "title": "Projects update 2017-06-21",
 "tags": [],
 "auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
 "blurb": "",
 "contents":'''
 

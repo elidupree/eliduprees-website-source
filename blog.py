@@ -376,7 +376,7 @@ javascript.do_after_body(r'''
 var comments = document.getElementsByClassName("user_comment");
 var all_comments_divs = document.getElementsByClassName("all_comments");
 var random_post_link = document.getElementById("random_post");
-var index_entries = document.getElementsByClassName("index_entry_link");
+var randomable_index_entries = document.getElementsByClassName("randomable_index_entry");
 var random_entry;
 var i;
 
@@ -493,7 +493,7 @@ for (i = 0; i < all_comments_divs.length; ++i) {
   setup_reply_box(all_comments_divs[i].id);
 }
 if (random_post_link) {
-  random_entry = index_entries[Math.floor(Math.random()*index_entries.length)];
+  random_entry = randomable_index_entries[Math.floor(Math.random()*randomable_index_entries.length)];
   random_post_link.setAttribute("href", random_entry.getAttribute("href"));
   random_post_link.innerHTML = random_post_link.dataset.itemname+random_entry.innerHTML;
   random_post_link.className = random_post_link.className+" enabled";
@@ -891,7 +891,7 @@ def index_entry_html(post_dict):
     url = post_dict["url"]
   else:
     url = post_permalink(post_dict)
-  return '<div class="index_entry"><a class="index_entry_link" href="'+url+'" title="'+post_dict["title"]+'">'+post_dict["title"]+'</a></div>'
+  return '<div class="index_entry"><a class="index_entry_link'+("" if "ignore_for_random_post" in post_dict else " randomable_index_entry")+ '" href="'+url+'" title="'+post_dict["title"]+'">'+post_dict["title"]+'</a></div>'
 
 
 def make_blog_page_body(main_contents, sidebar_contents):
@@ -920,9 +920,6 @@ def latest_post_preview_text():
 
 page_length = 10
 latest_page_max_posts = page_length + 5
-def post_is_on_latest_page(list_index, posts):
-  first_on_this_page = list_index - (list_index % page_length)
-  return len(posts) - first_on_this_page <= latest_page_max_posts
 
 posts_by_tag = {}
 for tag in tags.tags:
@@ -934,12 +931,30 @@ for post_dict in blog_posts.posts ["blog"]:
 
 page_lists = {}
 def make_page_list (posts):
+  if len(posts) == 0:
+    return []
   result = []
-  fixed_pages = max (0, (len (posts) - latest_page_max_posts + page_length - 1)//page_length)
+  strong_count = 0
+  for post in posts:
+    if "ignore_for_page_numbering" not in post:
+      strong_count = strong_count + 1
+  fixed_pages = max (0, (strong_count - latest_page_max_posts + page_length - 1)//page_length)
+  index = 0;
   for page_number in range (0, fixed_pages):
-    result.append ([posts [i] for i in range (page_number*page_length, page_number*page_length + page_length)])
-  if len(posts) >0:
-    result.append ([posts [i] for i in range (fixed_pages*page_length, len(posts))])
+    page = []
+    page_strong_count = 0
+    while True:
+      post = posts [index]
+      if "deleted" not in post:
+        page.append (post)
+      # Note: deleted posts DO count in the page numbering so that the pages don't lose their place when I delete old posts
+      if "ignore_for_page_numbering" not in post:
+        page_strong_count = page_strong_count + 1
+      index = index + 1
+      if page_strong_count == page_length:
+        break
+    result.append(page)
+  result.append ([posts [i] for i in range (index, len(posts))])
   return result
 
 def MailChimp_form_labeled (label):
@@ -1109,5 +1124,6 @@ def add_pages(page_dict):
 
   for cat,post_list in blog_posts.posts.items():
     for post_dict in post_list:
-      add_individual_post_pages (page_dict, post_dict)
+      if "deleted" not in post_dict:
+        add_individual_post_pages (page_dict, post_dict)
 

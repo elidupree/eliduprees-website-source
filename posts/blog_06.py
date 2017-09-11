@@ -185,6 +185,7 @@ posts = [
   "force_id":"44998bca2d10e2d54497c8fea598eb08",
   "force_date":datetime.date(2011, 9, 5),
   "tags":["announcements"],
+  "ignore_for_random_post": True,
   "contents":'''
 
 <p>(This post will assume basic knowledge of the United States college/university system.)</p>
