@@ -422,6 +422,26 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 
 
 
+... next Friday."
+
+"Will your parents let you stay out late on the weekend?"
+
+I laughed. "Sorry, but you just sounded like my sister."
+
+"I didn't know you had a sister."
+
+"Yeah, she's like six years older than me though, so I don't see her much. She's like a photographer on the second layer now or something. Anyway, whenever she visits my parents, she's like, 'Wow, you let Rinn go out on the weekends?' And my parents are like, 'No, we don't <em>let</em> Rinn go out on the weekends, –'"
+
+Yali finished my sentence along with me. "' – she just <em>does</em> go out on the weekends.'" She suppressed a smile. "I love you, but be careful. I don't want to see you taking any risks with your parents on my account."
+
+"Oh, don't be such a – wait, shit, you mean because of the – when you did the thing."
+
+"Just be careful."
+
+"Fine, I'll be careful. But this isn't really a risk, I do it all the time. They'd more suspicious if I started acting all obedient."
+
+
+
 ?????
 
 Being denied food?
@@ -456,7 +476,7 @@ I let myself in. I wanted to run straight to her and hug her, like I always did,
 
 "Shut up."
 
-She said it so dismissively, like she didn't even care. She paced a few steps away from me. "I will torment you," she said, "until you're so angry that you are willing to punch me. That is your only way out of this ordeal. Now," she faced me again and pointed to her stomach, "punch me once for practice. Right here. So you'll know what to do when the time comes."
+She said it so dismissively, like she didn't even care. She paced a few steps away from me. "I will keep you here," she said, "until you're so angry that you are willing to punch me. That is your only way out of this ordeal. Now," she faced me again and pointed to her stomach, "punch me once for practice. Right here. So you'll know what to do when the time comes."
 
 I made a fist, then hesitated. "Are you sure this is okay?"
 
@@ -474,7 +494,7 @@ Yali grabbed my arm and slammed it into her stomach so hard that it hurt my wris
 
 "I'll do it again if you don't."
 
-I – I couldn't let her get hurt. I swung my fist like she told me to, just not very hard.
+I – I couldn't let her get hurt. I swung my fist like she told me to, just not very hard. It bounced off her body weakly.
 
 "Fine," she said. "But that was pathetic. Now sit in the chair."
 
@@ -482,7 +502,31 @@ I stepped back and laughed nervously. "Ha ha, I know you're only saying this to 
 
 "Sit down."
 
-I <em>knew</em> she was only doing it to make me angry. But I couldn't stop a sickening doubt from creeping in. <em>Yali</em> wouldn't say that stuff to me, but… she wasn't acting like Yali at all. Her arms were slack, and all her movements were deadened. She wasn't reacting normally when I moved or spoke. And her voice was cold and flat, like when she had tried to make me mad on the first day.
+I <em>knew</em> she was only doing it to make me angry. But I couldn't stop a sickening doubt from creeping in. <em>Yali</em> wouldn't say that stuff to me, but… she wasn't acting like Yali at all. Her arms were slack, and all her movements were deadened. She wasn't reacting normally when I moved or said anything. And her voice was cold and flat, like when she had tried to make me mad on the first day.
+
+Reluctantly, I sat in the chair.
+
+"Sit up straight. Don't look back at me. Only look at the table in front of you."
+
+I immediately wanted to look back at her. Why did looking at the table suddenly make me feel trapped? I was sure I'd stared at tables plenty of times without thinking about it. <em>Okay,</em> I said to myself. <em>It's just a stupid wooden table. Just look at the wood grain. You've done this before. Look at the little patterns… Look at the…</em>
+
+"What are those for?" I asked, pointing at a collection of little wooden blocks.
+
+"Stop talking. I'll explain when you need to know."
+
+I waited. Moments passed in silence, with Yali just standing there behind me while I was stuck staring at the table. My hunger started bothering me again. Ugh, she was making me wait on purpose. <em>Come on, Yali, just get on with it. I get the point, you're trying to piss me off, but…</em> That was just it, wasn't it? The waiting was part of the ordeal. Well, I could handle a bit of waiting. I sighed and settled in for the long-haul –
+
+"Those blocks are your job for today. Stack them end-to-end until they're eight blocks tall."
+
+Well, that was "having to do pointless tasks" all right. "Fine," I said, and reached for the blocks.
+
+"I told you to stop talking. Don't make a sound unless I give you permission."
+
+"Fi– Oh. Right," I said. Yali snorted. I grinned internally. <em>That</em> was the Yali I knew, that affectionate laughter when I jumped into saying the wrong thing.
+
+"Get going," she said, quickly acting all cold again. But maybe her cold mask wasn't that tough after all.
+
+I took the blocks and started stacking them. Of course, they fell over after I'd only stacked up about three or four of them.
 
 
 ''',
