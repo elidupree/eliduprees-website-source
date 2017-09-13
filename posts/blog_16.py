@@ -321,6 +321,24 @@ I've also updated the <a href="/time-steward-examples/bouncy-circles">bouncy cir
 ''',
 },
 
+{
+"title": "Projects update 2017-09-13",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+This week was another week of good work on <a href="/blog/eli-status-august-2016">TimeSteward</a>.
+
+I also did some more work on <a href="/ravelling-wrath">Ravelling Wrath</a>. Chapter 3 is now about 5500 words.
+
+In TimeSteward, there were a lot of arcane technical things I had to deal with before I could make more example simulations. But fortunately, a big chunk of that work is now <em>finished</em>, and I should be able to make more simulations soon. I specifically improved the code of <a href="/time-steward-examples/quadtree-diffusion">quadtree diffusion</a> so that I can easily make other things similar to it. I'm planning to make a more sophisticated fluid-dynamics thing next.
+
+''',
+},
+
 ]
 
 """
