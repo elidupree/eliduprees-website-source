@@ -190,7 +190,7 @@ old_website_conversions = {
   "main/posts/131-user-comment": "a-couple-of-badass-superheroes/4",
   "main/posts/132-a-couple-of-badass-superheroes-page-6": "a-couple-of-badass-superheroes/6",
   "main/posts/133-author's-comment": "a-couple-of-badass-superheroes/4",
-  "main/posts/134-no-comic-today": "blog/no-comic-today",
+#  "main/posts/134-no-comic-today": "blog/no-comic-today",
   "main/posts/135-a-couple-of-badass-superheroes-page-7": "a-couple-of-badass-superheroes/7",
   "main/posts/136-a-couple-of-badass-superheroes-page-8": "a-couple-of-badass-superheroes/8",
   "main/posts/137-recommended-website-the-usual-error": "blog/recommended-website-the-usual-error",
