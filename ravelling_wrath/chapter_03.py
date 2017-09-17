@@ -418,13 +418,27 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 
 "Stop. Just this once, can I ask you to take some time and think it through? If this works, it'll be a really unpleasant experience for you. So I don't want to jump into it unless you're sure about it."
 
-"How bad can it be?" I said. Yali stared back at me. "Fuck, I bet that's exactly what you <em>didn't</em> want me to say. Okay, give me a minute." I said. I looked down at the table. What was I supposed to do, though – think like a careful person? What <em>would</em> a careful person do in this situation? "Okay,
+"How bad can it be?" I said. Yali stared back at me. "Fuck, I bet that's exactly what you <em>didn't</em> want me to say. Okay, give me a minute." I said. I looked down at the table. What was I supposed to do, though – think like a careful person? What <em>would</em> a careful person do in this situation? "Okay, so I <em>want</em> to challenge myself, but I guess I need to be worried about, uh... like if it could cause lasting damage to my psyche? That's just, like, no way – I'm not a 'lasting damage to my psyche' sort of person. Or if it… messes up our relationship? But I'll <em>know</em> you're just doing it because, you know –"
 
+Yali was looking at me.
 
+"Oh my gods, you're giving me <em>that</em> look, I bet I'm totally putting my foot in it, aren't I."
 
-... next Friday."
+"No! You, you…" she shifted uneasily, "you're thinking exactly how you should be."
 
-"Will your parents let you stay out late on the weekend?"
+I leaned in towards her. "You're just <em>that</em> worried about hurting me, huh?"
+
+Yali flushed. I didn't understand how she was acting. Had I said something wrong? "Er," I began, "I didn't mean to, uh –"
+
+"You're fine." Yali hesitated, then squeezed my hand. "We can do this." And just like that, it was decided. And also just like that, Yali was back to being calm and collected, like always. "I'll need some time to plan," she said. "In the meantime, if I think of anything that I'm – that I feel like I need to ask you about, I'll text you. Like, I'll think of things to do during the ordeal, and you can tell me if you're okay with them, and you can also tell me if you think they'd make you angry."
+
+"Got it. So when will we –"
+
+"I'll need at least a few days to plan. And then… we'll have to find a day when were both free for a long time."
+
+"Next Friday?"
+
+"Will your parents let you stay out late on a Friday night?"
 
 I laughed. "Sorry, but you just sounded like my sister."
 
@@ -439,6 +453,12 @@ Yali finished my sentence along with me. "' – she just <em>does</em> go out on
 "Just be careful."
 
 "Fine, I'll be careful. But this isn't really a risk, I do it all the time. They'd more suspicious if I started acting all obedient."
+
+Yali relaxed a little. "So, next Friday it is then?"
+
+"Sure is!"
+
+<bigbreak>
 
 
 
