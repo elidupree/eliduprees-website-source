@@ -339,6 +339,33 @@ In TimeSteward, there were a lot of arcane technical things I had to deal with b
 ''',
 },
 
+{
+"title": "The Umpteen Senses",
+"tags": ["neurodiversity"],
+"auto_paragraphs": True,
+"blurb": "In school, they taught me that humans have five senses. This is silly.",
+"contents":'''
+In school, they taught me that humans have five senses: sight, hearing, smell, touch, and taste.
+
+This is silly. We have many more wonderful senses than that. Some people like to say <q>and <a href="https://en.wikipedia.org/wiki/Proprioception">proprioception</a>!</q>, but that's only the tip of the iceberg. Lately, I've been trying to notice all the various ways I perceive the world.
+
+With my lungs, I can perceive a lot of things about the air in my environment. I can tell the difference between very humid air and dry air. I can sense certain pollutants when I feel nausea, even without smelling them directly. If my airways are blocked, I can feel the low pressure inside my lungs when I try to breathe in, and the high pressure when I try to breathe out.
+
+When I eat something, my digestive system gives me information about which nutrients were in it. Is it satisfying? Does it feel good in my stomach? Does it give me energy, and for how long? The tongue is part of this, but not all of it. We humans aren't born knowing exactly which foods will be filling. Many of our feelings about taste sensations are <em>created</em> by information from further down the digestive system.
+
+Inside my body, I can feel how much work each of my muscles is doing. My muscles can feel the difference between moving freely, being blocked, and being pulled taut. Even if I was deprived of my sight, hearing, and every sense of my skin, I could theoretically learn to navigate obstacles using my internal muscle senses alone.<footnote((What I'm describing here is part of <a href="https://en.wikipedia.org/wiki/Proprioception">proprioception</a>. But this post is my description of it based on my own observations, before I looked it up. Also, some people group this together with "touch" as the "somatosensory system", but that seems like a totally unjustified grouping – "somato" just means "body", so I guess "somatosensory system" means "all the senses that aren't unique to the head". That just doesn't seem like a "single sense" to me. Plus, it apparently doesn't include the intestines, even though they're not in the head and are useful for perceiving the external world.))>
+
+With my inner ear, I can perceive the force of the ground holding me up against gravity.<footnote((Haha, this isn't generally how people describe our sense of balance. But it's technically the <em>specific external force that's being perceived</em> by the system. Gravity itself accelerates the whole body evenly, so we have no way of sensing it – that's why being in free-fall in the atmosphere is similar to being in outer space. The only thing we can actually sense is the <em>difference</em> between the local gravity and some point of reference, like the ground holding us up.))> And also whether I'm spinning.
+
+"Touch" sounds so simple. My skin is much more interesting than that. I have pressure sense and vibration sense and warm sense and cold sense. I can sense the difference between warm air and warm sunlight through the pattern of heating on my skin. I can even sense <a href="https://en.wikipedia.org/wiki/UV-B">UV-B</a> exposure specifically if I wait long enough to notice whether it makes my skin irritated. But – and I also find this very interesting – I <em>don't</em> have a specific skin-sense for water. I have to guess whether something is wet based on its appearance, weight, and temperature response.
+
+There are just so many senses to notice! And I haven't even listed perceptions of internal state, like sleepiness. For this post, I restricted myself to senses that can be used to examine the external world.
+
+Our senses are important to us, so it's good if we can have a full understanding of them. And the idea of "five senses" isn't just a simplification – it's plain inaccurate. I hope that one day, the idea of "five senses" will be as archaic as the idea of <q><a href="https://en.wikipedia.org/wiki/Four_humors">four humors</a></q>.
+
+''',
+},
+
 ]
 
 """
