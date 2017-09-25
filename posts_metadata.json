@@ -1268,7 +1268,9 @@
  "The Umpteen Senses": {
   "date_modified": "2017-09-20",
   "date_posted": "2017-09-20",
-  "id": "285ce565689db8854dcd15a8df38385"
+  "deployed": true,
+  "id": "285ce565689db8854dcd15a8df38385",
+  "remembered_contents": "c4166ef77528723966935385f297ba38e664e6341b7652e77f3e5c2b6efe21a302d021f9b136b25195a60b9fabc6450a"
  },
  "The carrying contraption": {
   "date_modified": "2013-06-26",
