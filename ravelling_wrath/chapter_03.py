@@ -24,7 +24,7 @@ This chapter contains:
 
 <bigbreak>
   
-<h2>Chapter 2: The Ordeal</h2>
+<h2>Chapter 3: The Ordeal</h2>
 
 "Uuuuughhhh."
 
@@ -528,7 +528,7 @@ Reluctantly, I sat in the chair.
 
 "Sit up straight. Don't look back at me. Only look at the table in front of you."
 
-I immediately wanted to look back at her. Why did looking at the table suddenly make me feel trapped? I was sure I'd stared at tables plenty of times without thinking about it. <em>Okay,</em> I said to myself. <em>It's just a stupid wooden table. Just look at the wood grain. You've done this before. Look at the little patterns… Look at the…</em>
+I immediately wanted to look back at her. Why did looking at the table suddenly make me feel trapped? I was sure I'd stared at tables plenty of times without thinking about it. <em>Okay,</em> I said to myself. <em>It's just a stupid wooden table. Just look at the wood grain. You've done this before. Look at the little patterns… Look at the… what's that?</em>
 
 "What are those for?" I asked, pointing at a collection of little wooden blocks.
 
@@ -542,12 +542,107 @@ Well, that was "having to do pointless tasks" all right. "Fine," I said, and rea
 
 "I told you to stop talking. Don't make a sound unless I give you permission."
 
-"Fi– Oh. Right," I said. Yali snorted. I grinned internally. <em>That</em> was the Yali I knew, that affectionate laughter when I jumped into saying the wrong thing.
+"Fin– Oh. Right," I said. Yali snorted. I grinned internally. <em>That</em> was the Yali I knew, that affectionate laughter when I jumped into saying the wrong thing.
 
 "Get going," she said, quickly acting all cold again. But maybe her cold mask wasn't that tough after all.
 
 I took the blocks and started stacking them. Of course, they fell over after I'd only stacked up about three or four of them.
 
+"Pathetic. Do it again."
+
+I started again, carefully balancing each block on top of the previous one. When I balanced the fourth one on top of the stack, it started to wobble. Getting to eight would be just impossible. I wasn't going to give up so easily, though. I delicately lowered the fifth block into place, and took my hand away…
+
+The whole thing tumbled into a pile.
+
+"Again."
+
+I did it again. And again, and again. I could definitely see how this was supposed to piss me off. I'd barely started, and I already couldn't wait for it to be over. But there was no way I'd be beaten so easily. I just focused on what was in front of me. It became a little ritual. Two blocks on... three blocks on... four... and it all comes down. And start again... two blocks on... three...
+
+Hunger ground away at me. I resolutely ignored it. It didn't matter if I was used to eating three meals a day plus three or four snacks, I was <em>not</em> going to let this hunger get the better of me. I just had to focus on what I was doing. Two blocks on... three...
+
+...and it all comes down.
+
+What the fuck, was I getting <em>worse</em> at balancing the blocks? I gathered them up impatiently to start again. Wait a minute, what was even the point of being impatient? I was never going to finish.
+
+I sighed and grabbed another black to start again. Something slapped me on the cheek.
+
+"Ow! What the –"
+
+"No talking. Keep looking at what you're doing."
+
+Yali had slapped me with a meterstick. When I looked back at the blocks, she slapped me again, but I just gritted my teeth and kept working. I stared at the blocks dully. My hands kept going through the motions. My stomach growled. Every so often, the meterstick slapped me again.
+
+"You know, you're not hitting me very hard. You could –"
+
+"No talking."
+
+I kept working. Yali kept hitting me, but not any harder. Fuck, she was doing it on <em>purpose!</em> If she hit me harder, at least I'd have the pain to focus on. But this just left me unfulfilled, it was just distracting and fucking <em>annoying!</em> Well fuck you, too! I clenched my hand around a block and –
+
+Wait a minute. I couldn't think like that. I wasn't supposed to get pissed off so easily. <em>This is just a challenge,</em> I started repeating to myself. <em>I can beat this. I am in control.</em> Every time the meterstick slapped me again, I repeated it again: <em>This is just a challenge.</em> Every time the hunger invaded my mind again, I repeated it: <em>This is just a challenge. I am in control.</em>
+
+Time drag on. I was locked in the routine. Trapped in the chair, getting stiffer and more restless by the minute. Yali wouldn't even let me look up from the table. I noticed that the shadows were at a different angle than they used to be. How long had it been?
+
+Behind me, I heard Yali put down the meterstick and stand up. I paused, wondering what she was going to do next.
+
+"Keep going," she said coldly.
+
+I gritted my teeth and kept stacking the blocks, even though it was hopeless. I was tempted to look at that what she was doing, but some stubborn streak in me kept me looking at the table. <em>Fuck you, I don't need a break anyway.</em> Plus, pretty soon it was obvious.
+
+Yali was microwaving herself some food. The smell drove me crazy. When I got out of there, I was going to make myself a fucking <em>feast</em>. I was going to pile on everything I loved into one giant super-meal, and anyone who didn't like it could go Seek their way into a hole in the ground. I was going to – No. No. I was going to, I told myself very firmly, keep putting one block on top of the other. And another. I was in control.
+
+Yali sat down behind me again and started fucking <em>chewing her food right there behind me</em>.
+
+<em>Fuck you. Fuck you!</em> I wanted to spin around and grab the plate right away from her. What a twisted thing she was doing. I wanted to punch her in the face and gobble it all down right in front of her and then –
+
+No, I couldn't think like that! I <em>couldn't!</em> By all the five gods, I would never hurt Yali, NEVER!
+
+
+????
+
+
+I felt closed in. There was no world around me, only Yali in front of me, my pounding head, and my clenched fist. But I couldn't, I couldn't, I couldn't!
+
+"Get on with it," she said coldly. "Hit me or get back in the chair."
+
+I stood there frozen.
+
+"Get on with it. Stop wasting my time. You know how much effort I went through to set this up? If you're not going to do as I say, you're wasting it. You're wasting everything I've done for you. <em>Hit me or get back in the chair.</em>"
+
+I <em>had</em> to! But I <em>couldn't</em>! But...
+
+"You're not going to do it? Then <em>sit down, shut up, and get back to work.</em>"
+
+I was being crushed. For just a moment, all the energy went out of me. I did the only thing I <em>could</em> do. Dully, I stumbled back to the chair.
+
+I sat down.
+
+I took a look at the blocks.
+
+I reached out a shaky hand.
+
+Something snapped inside me. Before I knew what was happening, I had flown out of the chair, leapt towards where Yali was standing, and –
+
+And –
+
+<bigbreak>
+
+"No, no, no, no, NO!" I screamed. I stumbled backwards and grabbed my fist in my other shaking hand, as if I could take back what I'd just done. But there was no taking it back. My arm could still feel the shock from the impact.
+
+"Rinn, it's okay, it's –"
+
+It didn't matter that Yali was talking like her normal self again. Nothing mattered. Terror flooded through me. "I – we – we're gonna die! In the Otherworld, I'm gonna lose it, and I'll – and – and – we're both gonna die!"
+
+"Rinn, that's not –" Yali moved towards me.
+
+I backed away. I just knew I couldn't be near her. "Remember what you said about Aihael! He said it was more anger than he'd ever felt! If that's what's gonna happen, then this was nothing! NOTHING! You're ONE human! This was ONE day! If this can break me, the Blood God is going to break me into a million pieces and then I – and then you'll be dead and then I'll be dead and it'll be <em>all my fault</em> and – Oof!"
+
+Yali's big arms closed around me. She pulled me into a hug even as I shook and half-struggled to get away. I was so sure that just touching me would hurt her, but I was desperately grateful that she wouldn't let me go.
+
+"Rinn, Rinn, Rinn..." she whispered, holding me tight. I could only see her face out of the corner of my eye. But was she... actually <em>grinning</em>? "This is <em>exactly</em> what we planned on! I knew something like this would happen, and I know just what to do next. We are going to make it. <em>We are going to make it.</em>"
+
+I willed myself to believe it. But everything was getting too real, too fast. There was nothing for me to think. There was only my pounding headache and my body slumped against hers.
+
+"But first," said Yali, "let's get some food in you."
 
 ''',
 },
