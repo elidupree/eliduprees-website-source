@@ -368,22 +368,22 @@ Our senses are important to us, so it's good if we can have a full understanding
 
 {
 "title": "How to Get Good at Words",
-"tags": [],
+"tags": ["writing"],
 "auto_paragraphs": True,
 "don't deploy": True,
-"blurb": "",
+"blurb": "I didn't learn my writing skills in school – I developed them on my own. How did I do it? This post will explain. Maybe it can help you develop your own skills, too.",
 "contents":'''
-I've written a lot of stories, and. I didn't learn my writing skills in school – I developed them on my own.
+I've written a lot of <a href="/stories">stories</a>, and a lot of <a href="/blog/tags/writing">blog posts about writing them</a>. I didn't learn my writing skills in school – I developed them on my own.
 
 How did I do it? This post will explain. Maybe it can help you develop your own skills, too.
 
 <h2>My general approach</h2>
 
-Many writers think of writing as a mystical activity. Their words come from a metaphorical "muse", whose methods are unknowable. I am the opposite. I like to say "I'm not an artist, I'm an art engineer!" I want to understand the structure of prose in detail – how all the elements work, and how they fit together.
+Many writers think of writing as a mystical activity. Their words come from a metaphorical "muse", whose methods are unknowable. I am the opposite. I like to say "I'm not an artist, I'm an art engineer!" I want to understand the structure of prose in detail – how all the elements work, and how <cut>they fit together.
 
-Second, I'm talking about <strong>words</strong>. For this post, I don't really care about <a href="/blog/how-to-write-cliffhangers-a-theory-of-writing">plot</a>, setting, <a href=" positive-and-negative-characterization">characterization</a>, and all that stuff. Words are the most important thing, because if your words don't get your point across, none of that other stuff will make a difference. Specifically, I'm going to focus on <strong>studying individual sentences</strong>.
+Also, I'm talking about <strong>words</strong>. For this post, I don't really care about <a href="/blog/how-to-write-cliffhangers-a-theory-of-writing">plot</a>, setting, <a href=" positive-and-negative-characterization">characterization</a>, and all that stuff. Words are the most important thing, because if your words don't get your point across, none of that other stuff will make a difference. Specifically, I'm going to focus on <strong>studying individual sentences</strong>.
 
-There are countless variations on any sentence, and even if the literal meaning is the same, you can make totally different impressions on the reader. So I want to be able to look at a sentence and say, "What impression that this sentence make?" and "What other impressions could I make if I wanted to write it differently?"
+There are countless variations on any sentence, and even if the literal meaning is the same, you can make totally different impressions on the reader. So I want to be able to look at a sentence and say, "What impression does this sentence make?" and "If I write this sentence differently, what other impressions can I make?"
 
 Here are some exercises for studying those things.
 
@@ -395,11 +395,14 @@ Maybe you've seen some of these writing challenges before:
 <li>Write a story that's entirely dialogue.</li>
 <li>Write a conversation that's entirely questions.</li>
 <li>Write without using the letter <em>e</em>.</li>
+<li>Write a story about a conversation, but without using dialogue or mentioning exactly what anyone <em>said</em>.</li>
+<li>Write using only the 1000 most common words of English.</li>
+<li>Write a character who wants to know something, but they can't ask any questions.</li>
 </ul>
 
 Restrictions are useful because they <em>force you to learn new techniques</em>. When you get to a place where you'd <em>normally</em> use the forbidden thing, you end up searching for a new way to write. That searching is the key ingredient for learning.
 
-The best restrictions are ones that you chose <em>yourself</em>. If you want to learn more about something, forbid the way you usually do it. For example: Suppose I want my writing to <em>express a sense of urgency</em>. I <em>could</em> write,
+The best restrictions are ones that you choose <em>yourself</em>. If you want to learn more about something, forbid the way you usually do it. For example: Suppose I want my writing to <strong>express a sense of urgency</strong>. I <em>could</em> write,
 
 "I had to get these results to the lab immediately! I jumped up from my chair and ran down the street as fast as I could."
 
@@ -407,16 +410,16 @@ But that's just <em>one</em> way of doing it, and I want to learn more. So I tel
 
 "I scattered the papers from my desk and jumped up–"
 
-Nope, can't use "jumped", because that word expresses speed (at least when used in the "jumping up from a chair" sense, rather than.
+Nope, can't use "jumped", because that word expresses speed (at least when used in the "jumping up from a chair" sense, rather than the "standing jump" sense).
 
 "I scattered the papers from my desk. I was at the door in moments–" Nope, "moments" is time. "I was at the door before–" Nope, "before" is also time. "I was at the door when–" Also time. At this point, I had to ponder for a while.
 
-"I scattered the papers from my desk. This was it! The door swung closed behind me on the tail end of Yeason's surprised yell. Up the street, down the block, there was only one thought in my mind – <em>get to the lab</em>."
+"I scattered the papers from my desk. This was it! I was up on my feet, and the door swung closed behind me on the tail end of Yeason's surprised yell. Up the street, down the block, there was only one thought in my mind – <em>get to the lab</em>."
 
 What did I learn from this?
 
 <ul>
-<li>Include an action that someone <em>would</em> do if they were in a hurry (scattering papers).</li>
+<li>Include an action that someone would <em>do</em> if they were in a hurry – scattering papers.</li>
 <li><em>Skip</em> some moments that are less important – the narrator skips straight from the desk, to the door, to down the street, as if they're in too much of a hurry to even describe each step.</li>
 <li>Include something that only <em>could</em> happen if it was very fast – being out the door while someone is still yelling.</li>
 <li>Skip some <em>structure words</em> too. "Up the street, down the block," actually ends up sounding <em>more</em> urgent than "I ran up the street and down the block."</li>
@@ -425,20 +428,72 @@ What did I learn from this?
 
 And these techniques will be useful even once I go back to writing a normal story, where I'm allowed to use the word "when".
 
-When I study by using a restriction, I never write a whole story that way. One sentence or one paragraph is usually enough to learn a lot. If I finish a paragraph and want to continue in the same theme, I just write another, different paragraph. Sometimes I do it by adding an <em>additional</em> restriction, banning the technique I used to do it the first time, so that I have to find yet another technique.
+When I study by using a restriction, I never write a whole story that way. One sentence or one paragraph is usually enough to learn a lot. If I keep writing, I'll just keep using the techniques I used to write the first paragraph, rather than learning more new ones. So if I still want to continue studying, I just write another, different paragraph. Sometimes I do it by adding an <em>additional</em> restriction, banning the technique I used the first time, so that I have to find yet another technique.
 
 <h2>Ordering</h2>
 
-Take a sentence you wrote, and put the phrases in a different order.
 
-(Reorder the phrases of a sentence you wrote.)
+"I rushed into the room carrying the new evidence, quietly, hoping no one would notice I was late."
 
+Notice the progression of this sentence. "Rushing" is normally conspicuous, so the reader may assume it was conspicuous until they get the later words correcting that. Here's the sentence again, translated into what someone might assume while reading it:
+
+"I rushed into the room, loudly, waving around my new evidence for everyone to see. No, that's not what happened. I actually came in quietly, hoping no one would notice I was late."
+
+This <em>usually</em> isn't what you're trying to write. When I write, I often reorder sentences a lot, to make sure the halfway-read meaning is still something I want to say. Here's a simple reordering:
+
+"Quietly, hoping no one would notice I was late, I rushed into the room carrying the new evidence."
+
+This isn't exactly what I wanted either. It's not <em>wrong</em>, but now the <em>evidence</em> is inserted after-the-fact, even though it's important to the whole action. I think I actually want the order "evidence – quietly – into room – fast – details." So how about...
+
+"Carrying the new evidence, quietly, into the room, I rushed, hoping no one would notice I was late."
+
+Oops. Sometimes you have to rephrase things in order to reorder them. Let's try again:
+
+"Gripping the new evidence in my hands, I slipped into the back of the room as quickly as I could, hoping no one would notice I was late."
+
+I'm much happier with this!
+
+Since I've practiced this a lot, I often get an order I like on the first try. But I still often look back at a sentence to see if there's a better order. There's always more to learn.
+
+Note that ordering choices aren't necessarily <em>right</em> or <em>wrong</em> – sometimes, a <a href="https://en.wikipedia.org/wiki/Garden_path_sentence">tricky sentence</a> may actually create the impression you <em>want</em> to create, especially if you're writing something humorous. And writing tricky sentences on purpose can be another good way to study.
+
+<h2>Playing with style</h2>
+
+I could write this:
+
+"It was dark and rainy, so I stupidly slipped and fell down a hole into a cave."
+
+Or, I could write this:
+
+"On a stormy night, a foolish mortal tumbled down a crevice into the bowels of the Earth."
+
+Or this:
+
+"Man, what a fuckin' day that was. I was soaked through and I couldn't see for shit, so like a dumbass, I just <em>had</em> to trip over summin', an', next thing I knew, I was half-a-way down the ass-crack of the Earth."
+
+They're all good sentences, and they mean about the same thing! But they are <em>oh so different</em> from each other.
+
+I often play around with a sentence like this, translating it into many different styles. This helps me notice what makes the difference between the styles, so that I can choose exactly the style I want for each of my own stories. That way, I'll be prepared whether I want to write an <a href="/stories/capitalism-sat">over-the-top fable</a>, a <a href="/ravelling-wrath">first-person story of a casual teenager</a>, or a <a href="/stories/time-travelers-and-how-to-kill-them-a-practical-guide">document by a stuffy research organization</a>.
+
+<h2>Other challenges</h2>
+
+One of my favorite writing challenges I've done was this: write a very short story where <em>every</em> sentence is a paradigm shift. That is, every sentence changes the implications or meaning of the story up to that point as a whole.
+
+That one could be very tricky. But there are lots of others. Write poetry with a strict meter, if you haven't. Now write a prose poem, to learn what really makes something poetic, independent of meter!
+
+Write from the perspective of a character who's very different from you. Write a genre you normally don't write – like a hammy mystery story if you normally do psychological realism, or vice versa!
+
+Just like with restrictions, writing challenges are best if you choose them for yourself. Pick one that intrigues you, or come up with your own! The one thing I'd suggest is to keep them short. The shorter they are, the more you can pay attention to every detail.
 
 <h2>But I want to write fast!</h2>
 
-Everything I've written so far is about <strong>study</strong>. When you study, you can spend an hour dissecting a single sentence, to help you learn about it. If you want to write a novel, you can't do that for every sentence. So you need to take some shortcuts.
+So far, this whole post has been about <strong>study</strong>. When you study, you can spend an hour dissecting a single sentence, to help you learn about it. If you want to write a novel, you can't do that for every sentence. So you need to take some shortcuts.
+
+Fortunately, study isn't just a machine where you put in X hours of work and get out X perfect sentences. Through the <em>process</em> of study, you learn things that will come to mind quickly when you need them later.
 
 When I write a story, I don't analyze every sentence (unless the story is only a few sentences long). Instead, <strong>before</strong> I start writing, I develop a <strong>voice</strong> for the story.
+
+I would write more about developing a voice here, but this post has gone on long enough for now. Maybe another time!
 
 ''',
 },
