@@ -366,6 +366,83 @@ Our senses are important to us, so it's good if we can have a full understanding
 ''',
 },
 
+{
+"title": "How to Get Good at Words",
+"tags": [],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+I've written a lot of stories, and. I didn't learn my writing skills in school – I developed them on my own.
+
+How did I do it? This post will explain. Maybe it can help you develop your own skills, too.
+
+<h2>My general approach</h2>
+
+Many writers think of writing as a mystical activity. Their words come from a metaphorical "muse", whose methods are unknowable. I am the opposite. I like to say "I'm not an artist, I'm an art engineer!" I want to understand the structure of prose in detail – how all the elements work, and how they fit together.
+
+Second, I'm talking about <strong>words</strong>. For this post, I don't really care about <a href="/blog/how-to-write-cliffhangers-a-theory-of-writing">plot</a>, setting, <a href=" positive-and-negative-characterization">characterization</a>, and all that stuff. Words are the most important thing, because if your words don't get your point across, none of that other stuff will make a difference. Specifically, I'm going to focus on <strong>studying individual sentences</strong>.
+
+There are countless variations on any sentence, and even if the literal meaning is the same, you can make totally different impressions on the reader. So I want to be able to look at a sentence and say, "What impression that this sentence make?" and "What other impressions could I make if I wanted to write it differently?"
+
+Here are some exercises for studying those things.
+
+<h2>Writing with a restriction</h2>
+
+Maybe you've seen some of these writing challenges before:
+
+<ul>
+<li>Write a story that's entirely dialogue.</li>
+<li>Write a conversation that's entirely questions.</li>
+<li>Write without using the letter <em>e</em>.</li>
+</ul>
+
+Restrictions are useful because they <em>force you to learn new techniques</em>. When you get to a place where you'd <em>normally</em> use the forbidden thing, you end up searching for a new way to write. That searching is the key ingredient for learning.
+
+The best restrictions are ones that you chose <em>yourself</em>. If you want to learn more about something, forbid the way you usually do it. For example: Suppose I want my writing to <em>express a sense of urgency</em>. I <em>could</em> write,
+
+"I had to get these results to the lab immediately! I jumped up from my chair and ran down the street as fast as I could."
+
+But that's just <em>one</em> way of doing it, and I want to learn more. So I tell myself, "write that again – but this time, you're not allowed to use any words that express speed or time by themselves."
+
+"I scattered the papers from my desk and jumped up–"
+
+Nope, can't use "jumped", because that word expresses speed (at least when used in the "jumping up from a chair" sense, rather than.
+
+"I scattered the papers from my desk. I was at the door in moments–" Nope, "moments" is time. "I was at the door before–" Nope, "before" is also time. "I was at the door when–" Also time. At this point, I had to ponder for a while.
+
+"I scattered the papers from my desk. This was it! The door swung closed behind me on the tail end of Yeason's surprised yell. Up the street, down the block, there was only one thought in my mind – <em>get to the lab</em>."
+
+What did I learn from this?
+
+<ul>
+<li>Include an action that someone <em>would</em> do if they were in a hurry (scattering papers).</li>
+<li><em>Skip</em> some moments that are less important – the narrator skips straight from the desk, to the door, to down the street, as if they're in too much of a hurry to even describe each step.</li>
+<li>Include something that only <em>could</em> happen if it was very fast – being out the door while someone is still yelling.</li>
+<li>Skip some <em>structure words</em> too. "Up the street, down the block," actually ends up sounding <em>more</em> urgent than "I ran up the street and down the block."</li>
+<li>Emphasize the <em>objective</em> the narrator is rushing towards – exactly what would be on someone's mind when they're in a hurry.</li>
+</ul>
+
+And these techniques will be useful even once I go back to writing a normal story, where I'm allowed to use the word "when".
+
+When I study by using a restriction, I never write a whole story that way. One sentence or one paragraph is usually enough to learn a lot. If I finish a paragraph and want to continue in the same theme, I just write another, different paragraph. Sometimes I do it by adding an <em>additional</em> restriction, banning the technique I used to do it the first time, so that I have to find yet another technique.
+
+<h2>Ordering</h2>
+
+Take a sentence you wrote, and put the phrases in a different order.
+
+(Reorder the phrases of a sentence you wrote.)
+
+
+<h2>But I want to write fast!</h2>
+
+Everything I've written so far is about <strong>study</strong>. When you study, you can spend an hour dissecting a single sentence, to help you learn about it. If you want to write a novel, you can't do that for every sentence. So you need to take some shortcuts.
+
+When I write a story, I don't analyze every sentence (unless the story is only a few sentences long). Instead, <strong>before</strong> I start writing, I develop a <strong>voice</strong> for the story.
+
+''',
+},
+
 ]
 
 """
