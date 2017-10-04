@@ -370,7 +370,6 @@ Our senses are important to us, so it's good if we can have a full understanding
 "title": "How to Get Good at Words",
 "tags": ["writing"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "blurb": "I didn't learn my writing skills in school – I developed them on my own. How did I do it? This post will explain. Maybe it can help you develop your own skills, too.",
 "contents":'''
 I've written a lot of <a href="/stories">stories</a>, and a lot of <a href="/blog/tags/writing">blog posts about writing them</a>. I didn't learn my writing skills in school – I developed them on my own.

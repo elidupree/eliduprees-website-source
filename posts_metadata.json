@@ -516,9 +516,11 @@
   "remembered_contents": "02eff58f862e4c47ffdaa0adef40ad786bf5ad86b870a43eb36ca5a2fdffa758db3df399f3587bb4708ca64e6be42514"
  },
  "How to Get Good at Words": {
-  "date_modified": "2017-09-26",
-  "date_posted": "2017-09-26",
-  "id": "c419b19ae6ad31f484034545b1ed68a"
+  "date_modified": "2017-09-27",
+  "date_posted": "2017-09-27",
+  "deployed": true,
+  "id": "c419b19ae6ad31f484034545b1ed68a",
+  "remembered_contents": "a348f7bff5f2820aa6e86ba7712d9a73beceabba9004d06dd02ecc98af1a04b7e983870e20fbff125c488e7f04e08260"
  },
  "How to Train Your Brain, Part 1": {
   "date_modified": "2016-10-12",
