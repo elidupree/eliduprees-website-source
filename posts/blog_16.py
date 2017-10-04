@@ -501,7 +501,6 @@ I would write more about developing a voice here, but this post has gone on long
 "title": "About grouping mental illness with violence...",
 "tags": ["philosophical"],
 "auto_paragraphs": True,
-"don't deploy": True,
 "blurb": "For a long time, I've had two conflicting ideas, and I've been looking for a way to reconcile them:",
 "contents":'''
 

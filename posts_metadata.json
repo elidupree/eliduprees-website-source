@@ -373,7 +373,9 @@
  "About grouping mental illness with violence...": {
   "date_modified": "2017-10-04",
   "date_posted": "2017-10-04",
-  "id": "94eaa3b8b4af054b397755a3ae528aa"
+  "deployed": true,
+  "id": "94eaa3b8b4af054b397755a3ae528aa",
+  "remembered_contents": "1847fa4ffddb06c02d1b19eda73ffb376760139ea5cc9a95d9a010bcb769464f17eb43b767d4fe525869a663a6aa20aa"
  },
  "Alignments": {
   "date_modified": "2016-07-24",
@@ -397,11 +399,11 @@
   "remembered_contents": "92259c9600683e8b3ea70197f839b0291bd3e45430c6aa5d0c0da34ff0f5d688fed87b3e8cf773eab4a0377678f3f233"
  },
  "Bad actions and punishment": {
-  "date_modified": "2017-01-25",
+  "date_modified": "2017-10-04",
   "date_posted": "2017-01-25",
   "deployed": true,
   "id": "d3bd0ffa5e0ee5f661c94765db54405",
-  "remembered_contents": "829c6e2703523a200133a15cb6ad521124dccef6a226867d1a757eeb841d063bd8d19c668e2a97859ef0f6c4287ef644"
+  "remembered_contents": "68f3f07f704dfab3fef26144645935e5cb2696f0be25e061e43709ce069c88d63fc2c241e16cda4e191ba0a7de4d6cad"
  },
  "Brain technique: \u201cPatient problem-solving\u201d": {
   "date_modified": "2016-12-21",
