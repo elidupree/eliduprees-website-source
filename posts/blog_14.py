@@ -360,7 +360,7 @@ This action is undoubtedly <em>bad</em> &ndash; young children can get themselve
 
 Here's another example. Suppose there's someone who often abuses you. One day, you decide to fight back. However, you lose the fight and the abuser retaliates by hurting both you and other people.
 
-Your action is technically <em>bad</em> &ndash; if you hadn't done it, fewer people would've been hurt. However, it's ridiculous to punish someone for fighting back against an abuser. If we're trying to solve the problem of people being hurt by abuse, all our energy should be directed towards changing the actions of the <em>abuser</em>. In fact, we probably shouldn't even <em>criticize</em> someone for fighting back in a destructive way. Even by pointing it out at all, we risk putting too much emphasis on their actions, when the problem can only be solved by changing the abuser's actions.
+Your action is technically <em>bad</em> &ndash; if you hadn't done it, fewer people would've been hurt. However, it's ridiculous to punish someone for fighting back against an abuser. If we're trying to solve the problem of people being hurt by abuse, all our energy should be directed towards changing the actions of the <em>abuser</em>. In fact, we probably shouldn't even <em>criticize</em> someone for fighting back in a destructive way. Even by pointing it out at all, we risk <a href="/blog/when-is-it-justified-to-ask-whether-violence-is-justified">putting too much emphasis on their actions</a>, when the problem can only be solved by changing the abuser's actions.
 
 So we can actually break things down into more categories:
 

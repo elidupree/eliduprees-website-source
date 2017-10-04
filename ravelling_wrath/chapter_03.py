@@ -446,9 +446,9 @@ I laughed. "Sorry, but you just sounded like my sister."
 
 "Yeah, she's like six years older than me though, so I don't see her much. She's like a photographer on the second layer now or something. Anyway, whenever she visits my parents, she's like, 'Wow, you let Rinn go out on the weekends?' And my parents are like, 'No, we don't <em>let</em> Rinn go out on the weekends, –'"
 
-Yali finished my sentence along with me. "' – she just <em>does</em> go out on the weekends.'" She suppressed a smile. "I love you, but be careful. I don't want to see you taking any risks with your parents on my account."
+Yali finished my sentence along with me. "' – she just <em>does</em> go out on the weekends.'" Yali suppressed a smile. "I love you, but be careful. I don't want to see you taking any risks with your parents on my account."
 
-"Oh, don't be such a – wait, shit, you mean because of the – when you did the thing."
+"Oh, don't be such a – wait, shit, you mean because of the – what you Saw."
 
 "Just be careful."
 
@@ -461,30 +461,89 @@ Yali relaxed a little. "So, next Friday it is then?"
 <bigbreak>
 
 
+<p class="text left">Having to do pointless tasks?</p></p>
 
-?????
+<p class="text right">What?</p>
 
-Being denied food?
+<p class="text left">For the ordeal. Is it okay to do, and would it make you angry?</p>
 
-sure np
+<p class="text right">Oh right</p>
 
-and I guess itd be annoying but
+<p class="text right">Yeah that really pisses me off, go for it</p>
 
-It doesn't need to anger you directly. Hunger will make you emotionally weaker.
+<p class="text left">Having to sit still for a long time?</p>
 
-Skip lunch today.
+<p class="text right">You really need to ask about that?</p>
 
-you coulda told me earlier &gt;_&lt;
+<p class="text left">Even if it's obvious to you, just think of it as a way to make ME more comfortable with it. Just say ok if it's ok, ok?</p>
 
-I could have. But then you'd have been more prepared for it.
+<p class="text right">ok</p>
 
-screwwww you lol
+<p class="text right">and also it's ok</p>
 
-&lt;3
+<p class="text right">and also yeah I can't stand it</p>
+<div class="clear"></div>
+
+<bigbreak>
+
+Something was off about Yali the next time we spoke. She was just as affectionate as usual, but even while she was clasping my hands in hers, she wasn't quite there. I talked, but she wasn't really paying attention.
+
+"What's up?" I said finally. She didn't seem to notice, so I repeated it. "What's up? You seem totally out-of-it."
+
+She focused a little. "It's true. I'm not feeling well."
+
+"Oh no! Is there any way I can help? I'll totally pamper you, I'll bring you breakfast in bed… "
+
+"You, you don't need to do anything."
+
+"You gonna be okay?"
+
+"…should be… after Friday. I'm sorry, I didn't mean to space out on you like –"
+
+"Wait, is this about the ordeal?! You've gotta take care of yourself! First you burnt yourself out looking in the future, and now you're already working hard on – "
+
+"Shh. It's, it's easier this way." 
+
+"You're doing all this stuff for me, at least you've gotta let me help you back somehow! Come on!"
+
+"…not now."
+
+"Not… now?"
+
+"I'll, I'll tell you if I need anything."
+
+<bigbreak>
+
+the day of friday,?????
+
+<p class="text left">Being denied food?</p>
+
+<p class="text right">sure np</p>
+
+<p class="text right">and I guess itd be annoying but</p>
+
+<p class="text left">It doesn't need to anger you directly. Hunger will make you emotionally weaker.</p>
+
+<p class="text left">Skip lunch today.</p>
+
+<p class="text right">you coulda told me earlier &gt;_&lt;</p>
+
+<p class="text left">I could have. But then you'd have been more prepared for it.</p>
+
+<p class="text right">screwwww you lol</p>
+
+<p class="text right">&lt;3</p>
+
+<div class="clear"></div>
+
+
+?????I headed for yali's
 
 <p class="text left">One last thing. I plan to make you feel like you have no way out. But the truth is, you always have the right to back out of this. No matter what I say, if you say you don't want to do this anymore, I'll respect that.</p>
 
-?????
+<p class="text right">yeah yeah</p>
+
+<div class="clear"></div>
 
 As I got close to Yali's house, I all but forgot my hunger. I felt myself tensing up. I had no idea what was coming. I mean, we'd <em>discussed</em> all those things, but I didn't know what it was really going to be like.
 

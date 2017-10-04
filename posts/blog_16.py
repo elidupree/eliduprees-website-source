@@ -497,6 +497,53 @@ I would write more about developing a voice here, but this post has gone on long
 ''',
 },
 
+{
+"title": "About grouping mental illness with violence...",
+"tags": ["philosophical"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "For a long time, I've had two conflicting ideas, and I've been looking for a way to reconcile them:",
+"contents":'''
+
+<p>(Content warning: Discussion of abusive relationships and other violence.)</p>
+
+For a long time, I've had two conflicting ideas, and I've been looking for a way to reconcile them:
+
+<ol class="big_list">
+<li>When we're talking about abusers and spree killers, we shouldn't call them "psychos". We shouldn't call them mentally ill in general, because that stigmatizes mental illness. Mentally ill people are disproportionately the targets of violence, rather than the perpetrators. If you imply that they're violent, that isolates them further and prevents them from getting the care they need. So we should treat violence and mental illness as completely separate issues.</li>
+
+<li><a href="/blog/bad-actions-and-punishment">Punishment</a> isn't the most effective way to reduce violence. As a society, we should take an epidemiological approach to violence. We should research the causes of violent behavior and remove those causes, rather than just punishing individual people who did violent things. In a sense, we should treat most violence as mental illness.</li>
+</ol>
+
+Obviously, these two beliefs have a conflict of each other. But yesterday, I finally found a way to reconcile them.
+
+The difference is <cut><strong>rejection of the person</strong>. When people hear of a violent attack, they may think things like:
+<ul>
+<li>That person is a monster.</li>
+<li>That person is nothing like me.</li>
+<li>People like that should be punished.</li>
+<li>People like that don't deserve care.</li>
+<li>We need to stay away from people like that.</li>
+</ul>
+We certainly don't want them thinking those things about mentally ill people. So, Idea 1 is a pragmatic response to that.
+
+But those responses aren't necessarily a good approach to violence, either! It's just shunning. If we could identify all of the violent people, shun them, and neglect their needs, would they become less violent? Of course not! <a href="https://nplusonemag.com/issue-13/politics/raise-the-crime-rate/">It's being tried, and it's not working.</a> To actually stop violence from happening in the first place, we'll need different treatments. And they will probably look less like punishment, and more like care.
+
+So as it turns out, my two "conflicting" ideas are very similar. Idea 1 says "don't treat mentally ill people in the bad way we treat violent people", and Idea 2 says "don't treat violent people in the bad way we treat violent people, either". (Of course, Idea 1 may still be pragmatic for an audience that isn't ready for Idea 2.)
+
+So, what would this "care" look like? I don't have all the answers, but I do have a few. Economic insecurity makes people more violent, so guarantee food and housing to everyone. Emotional isolation makes people more violent, so teach children of all genders to take care of each other's emotional needs. And when an individual does harm someone, offer to help them learn how to stop, rather than saying "If you harm others, you're a bad person and you should be shunned." After all, if someone is physically sick, they may harm others by spreading the disease. Should we say "what a terrible person"? No, we should say "You poor thing! Let's provide a doctor to treat you, and/or send you home to rest." If someone is starving, they may harm others by taking their food. Should we say "what a terrible person"? No, we should say "You poor thing! Let's make sure no one goes hungry." What if we could treat violence the same way? Imagine a world where <a href="https://everydayfeminism.com/2016/02/be-accountable-when-abusive/">working with abusers</a> is not only <em>done</em>, but <em>generally expected</em>. A world where someone might say "Oh no, I actually hit someone today! My violence is getting bad, I should go to the doctor."
+
+"But," you say, "most abusers aren't looking for help stopping! They just make excuses and keep doing it!" But how can someone reach out for help if they've never seen that "getting help" is something you can actually <em>do</em>? If the only other model I've seen is "I am a terrible person", of <em>course</em> I'm going to reject that model! Or, if I admit that I'm a terrible person, what do I do? My society's main remedy for "being a terrible person" is to perform extreme acts of atonement, but atonement doesn't necessarily fix the source of the problem at all. It might even just make me a more effective abuser, by manipulating my victim's feelings even though I'm still hurting them. (Atonement can be worthwhile in some situations, but it's not a cure-all.)
+
+This is why I prefer the "disease" model. When you have a disease, you know that there's something bad inside of you that is harming both yourself and (possibly) others, and you want to get rid of it. But you don't think "I am a bad person and should be punished", or "This is just how I am and it can't be fixed", or "I must perform excessive atonement". <em>You just want to get rid of it.</em> That's the approach I think people should generally take to their own harmful behavior.
+
+Now, I should clarify, if you're the one who's <em>being</em> hurt, you're under no obligation to heal the person who's hurting you. It's probably better to focus on protecting yourself. But if you're in a position of power, either in a personal relationship or in a social institution, things are different. In that case, helping people to reduce their own violence may be something you can do. It's something I try to do in my own relationships when I can.
+
+
+
+''',
+},
+
 ]
 
 """
