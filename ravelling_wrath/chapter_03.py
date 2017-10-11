@@ -19,8 +19,7 @@ posts = [
   "contents": '''
 
 This chapter contains:
-; discussion of an abusive relationship; discussion of sexual assault; ?????
-'''+ content_warning_header ('''<p>Description of anti-gay attitudes; verbally abusive language; brief mention of sexual assault.</p>''')+'''
+'''+ content_warning_header ('''<p>Verbally abusive language; brief descriptions of anti-gay attitudes, sexual harassment, and abusive relationships.</p>''')+'''
 
 <bigbreak>
   
@@ -178,7 +177,7 @@ Layo swallowed whatever he was going to say next. I wasn't sure how he was feeli
 
 "I know perfectly well it wasn't. Rinn –"
 
-"Leave her alone, lunch fascist!" said another voice. Some of my other friends were showing up.
+"Leave her alone, lunch fascist!" said another voice. Some of my other friends were showing up. ??????elaborate description?!?
 
 "Everyone calm down," I said, laughing. I wasn't <em>against</em> yelling at a few authority figures, but I had better things to do right now. "I promise I'll clean it up, okay?"
 
@@ -232,7 +231,7 @@ I took her hand and we started walking.
 
 "Aww. I love hearing stories about you being irresponsible."
 
-"You do?! I only wasn't going to tell you because you're always telling me to be careful and stuff –"
+"You whaaaaaaat?! I only wasn't going to tell you because you're always telling me to be careful and stuff –"
 
 "I don't want you to get hurt <em>now</em>! But if it already happened – By the Stern, if I've missed out on four and a half weeks of fun stories because you thought I wouldn't like them…"
 
@@ -288,11 +287,13 @@ I glanced around to make sure no one else on the street was listening. "Yeeeeaaa
 
 "It's fine," she said. She looked at me curiously. "Before we get to the serious stuff, why don't you finish the story? You got caught in the movies, but what happened to the fast food place?"
 
-"Oh, right. Well, I was kind of upset for the next few days, so I wasn't really paying attention, and I let a cop see me going in and out of the kitchen. He started to make a fuss, so we all pretended I was just there to visit a cousin who worked there. But they basically told me not to come back after that, to make sure they wouldn't get in trouble. Kind of anticlimactic, I know."
+"Oh, right. Well, I was kind of upset for the next few days, so I wasn't really paying attention, and I let a cop see me going in and out of the kitchen. He started to make a fuss about 'child labor' and shit, so we all pretended I was just there to visit a cousin who worked there. But they basically told me not to come back after that, to make sure they wouldn't get in trouble. Kind of anticlimactic, I know."
 
-????
+We got to the door of the ?????. I yanked it open and held it for Yali. My chest was tight while we waited in line to make our orders. Yali knew something <em>bad</em> about me now. I wished I could make up for it somehow, but what could I even do?
 
-I noticed that Yali was still smiling at me. "I can't believe you actually liked listening to <em>that</em> story," I said.
+They finally took our orders and we went to find a table. As we sat down, I noticed that Yali was still smiling at me.
+
+"I can't believe you actually liked listening to <em>that</em> story," I said.
 
 "You have no <em>idea</em> how adorable you are."
 
@@ -312,7 +313,7 @@ I smirked. "You know, if you ever want to go on an adventure –"
 
 "Is it that bad?"
 
-"Do you know name and name??????" I said quietly.
+"Do you know Tierze and Breck?" I said quietly.
 
 "I hope she dumps him already," Yali muttered.
 
@@ -320,11 +321,11 @@ I smirked. "You know, if you ever want to go on an adventure –"
 
 "Just your normal. Your 'mad, but not <em>really</em> mad'."
 
-"Yeah, that's it. But then…" I grimaced. "There was this one time when he was, like, pushing her around, putting her down in front of everybody, and I told him to stop it. But he just kept at it, like he was daring me to do something about it. So I kind of punched him a little bit."
+"Yeah, that's it. But then…" I grimaced. "There was this one time when Breck was, like, pushing her around, putting her down in front of everybody, and I told him to stop it. But he just kept at it, like he was daring me to do something about it. So I kind of punched him a little bit."
 
 "A little bit."
 
-"Okay, fine, more than a little bit. But it's not like I put him in the hospital or anything. He was fine. But a couple days later, <em>she</em> came up to me in private and told me that he was acting really bitter about it, and he was dumping all the blame on her."
+"Okay, fine, more than a little bit. But it's not like I put him in the hospital or anything. He was fine. But a couple days later, <em>Tierze</em> came up to me in private and told me that he was acting really bitter about it, and he was dumping all the blame on her."
 
 "Oh no."
 
@@ -370,7 +371,7 @@ There was a pause. We ate a few more bites in silence.
 
 Yali hesitated. "My idea is to, to, to <em>explore</em> your ways of feeling anger. So that we know what we have to work with." She looked at me squarely. "I want you to try to put yourself back in that situation. Feel all the pain and anger – or, no, feel all the pain and helplessness, and let it lead you to anger."
 
-"Okay…" I thought back to sometime when ????? was shit-talking ?????. He was such a fucking asshole. ?????
+"Okay…" I thought back to sometime when Breck was harassing Tierze. He was such a fucking asshole. I wished I could just smash his stupid face in. Was I supposed to still be mad about it, though?
 
 "Eh..." I said.
 
@@ -410,7 +411,7 @@ Yali fidgeted with her plate. "You are too comfortable. I've never seen you stay
 
 "You – you're acting like you're actually excited about it…?"
 
-"Come on, ever since you told me yesterday, I've been wondering, what the hell is it going to feel like to have the fucking –" I glanced around to see make sure no one was listening "– <em>you-know-what</em> in my head making me angry all over the place? How <em>would</em> I handle that? So, this 'ordeal' you've got, I know it's not the same, but if it's going to be something like it, I want to see what it's like, sign me up, when do we start –"
+"Come on, ever since you told me yesterday, I've been wondering, what the hell is it going to feel like to have the fucking –" I glanced around to see make sure no one was listening "– <em>you-know-what</em> in my head making me angry all over the place? How <em>would</em> I handle that? So, this 'ordeal' you've got, I know it won't be the same, but if it's going to be something like it, I want to see what it's like, sign me up, when do we start –"
 
 Yali took my hand. Her voice was soft and serious. "Before we make plans, I want to make sure you've thought through whether you really want to do this. It's okay if you say no, or that I'm dragging you into things too fast."
 
@@ -506,17 +507,27 @@ She focused a little. "It's true. I'm not feeling well."
 
 "You're doing all this stuff for me, at least you've gotta let me help you back somehow! Come on!"
 
-"…not now."
+Yali looked away and didn't answer. Ugh, when we'd said we'd do the thing next Friday, I didn't think we <em>wouldn't</em> get to spend time together normally before that! At least if I could help her out, I'd get to be <em>with</em> her.
 
-"Not… now?"
+"There's gotta be something!" I went on.
 
-"I'll, I'll tell you if I need anything."
+Yali kept staring past me. "I'll, I'll tell you if I need anything."
+
+Stern take it, that was <em>not</em> the answer I was looking for. But it wasn't like I could complain about it. It was <em>Yali</em>. I'd just have to put up with waiting until she was back to her regular self again.
 
 <bigbreak>
 
-the day of friday,?????
+But as that Friday got closer, I didn't feel so frustrated. Instead, I was <em>excited</em>. What did Yali have in store for me?
+
+Sitting in class on Friday morning, I couldn't think of anything else. What-all <em>would</em> Yali try to do to me? The things she was texting me were just tiny glimpses into it.
+
+Just then, another one came in.
 
 <p class="text left">Being denied food?</p>
+
+<div class="clear"></div>
+
+It was during class, but I held my phone under the table to text her back.
 
 <p class="text right">sure np</p>
 
@@ -536,8 +547,9 @@ the day of friday,?????
 
 <div class="clear"></div>
 
+And she'd texted it to me, too, even though she was probably just a few classrooms away and could totally have told me in person. And it was during class, so I couldn't even show my reaction to it! So evil. I grinned to myself. She'd really gotten me good.
 
-?????I headed for yali's
+by ???? the time I headed for yali's, i was hungry
 
 <p class="text left">One last thing. I plan to make you feel like you have no way out. But the truth is, you always have the right to back out of this. No matter what I say, if you say you don't want to do this anymore, I'll respect that.</p>
 
@@ -655,11 +667,37 @@ Yali sat down behind me again and started fucking <em>chewing her food right the
 
 No, I couldn't think like that! I <em>couldn't!</em> By all the five gods, I would never hurt Yali, NEVER!
 
+I slammed the next block down in front of me.
 
-????
+<em>I'd never hurt her in a million years!</em>
 
+I slammed the next block on top of it.
 
-I felt closed in. There was no world around me, only Yali in front of me, my pounding head, and my clenched fist. But I couldn't, I couldn't, I couldn't!
+<em>I wouldn't do it even if you –</em>
+
+"Quit being childish," said Yali. "Stack the blocks nicely."
+
+I glared at the table, and I was glad that at least she was behind me and couldn't see <em>that</em>. I forced the my hands to go back to stacking the blocks "nicely". I hated that word.
+
+Time dragged on into the evening. Everything was slowly tearing me apart. Hunger ate away on my insides. My back was sore from sitting in the chair for so long. And at some point, I'd gotten a headache, bashing at my skull with every heartbeat.
+
+I had to go to the toilet a couple of times. Yali made me wait each time. When I went, she made me hurry up and didn't give me time to stretch. The tantalizing relief for my legs and back only made things worse when I sat down again.
+
+And then a miracle happened. I got six blocks standing stably on top of each other. With trembling fingers, I lifted a seventh one to the top of the stack, before it slowly, agonizingly, went to pieces again.
+
+"I almost had it! I got seven!"
+
+"I told you to go to eight," Yali said dismissively. "Seven isn't – oh, silly me!" she interrupted herself in her normal voice, and I felt a rush of hope in the middle of the awful grind. But then she snapped back. "I see that was too much for you. From now on, you'll be doing stacks of <em>two</em>."
+
+"But that's..."
+
+"Get going."
+
+<em>Too easy.</em> I made a stack of two, and then another stack. It didn't feel like anything. With the stack-of-eight thing, at least I'd been able to pretend I was going to get somewhere. But now I had nothing to look forward to, nothing to think about, other than my constant pain and hunger. I couldn't even look forward to having them all stacked up in pairs, because Yali just slapped them down with her meterstick whenever I had more than a few of them.
+
+It was all too much. Everything was closing in on me. I clenched my fist, and Yali just slapped it and ordered me to relax. How was I supposed to relax? My head was pounding so hard. Then I was standing up, my fist clenched at my sides. When had I decided to stand up?
+
+Yali was there facing me. It was like we were facing off in a tunnel. I felt closed in. There was no world around me, only Yali in front of me, my pounding head, and my clenched fists. And I was supposed to – But I couldn't, I couldn't, I couldn't!
 
 "Get on with it," she said coldly. "Hit me or get back in the chair."
 
@@ -671,7 +709,7 @@ I <em>had</em> to! But I <em>couldn't</em>! But...
 
 "You're not going to do it? Then <em>sit down, shut up, and get back to work.</em>"
 
-I was being crushed. For just a moment, all the energy went out of me. I did the only thing I <em>could</em> do. Dully, I stumbled back to the chair.
+I was being crushed. That should have sent me over the edge. But it didn't. All the energy had gone out of me. I did the only thing I <em>could</em> do. Dully, I stumbled back to the chair.
 
 I sat down.
 
@@ -693,11 +731,13 @@ It didn't matter that Yali was talking like her normal self again. Nothing matte
 
 "Rinn, that's not –" Yali moved towards me.
 
-I backed away. I just knew I couldn't be near her. "Remember what you said about Aihael! He said it was more anger than he'd ever felt! If that's what's gonna happen, then this was nothing! NOTHING! You're ONE human! This was ONE day! If this can break me, the Blood God is going to break me into a million pieces and then I – and then you'll be dead and then I'll be dead and it'll be <em>all my fault</em> and – Oof!"
+I backed away. I just knew I couldn't be near her. "Remember what you said about Aihael! He said it was more anger than he'd ever felt! If that's what's gonna happen, then this was nothing! NOTHING! You're ONE person! A HUMAN! This was ONE day! If this can break me, the Blood God is going to break me into a million pieces and then I – and then you'll be dead and then I'll be dead and it'll be <em>all my fault</em> and – Oof!"
 
-Yali's big arms closed around me. She pulled me into a hug even as I shook and half-struggled to get away. I was so sure that just touching me would hurt her, but I was desperately grateful that she wouldn't let me go.
+Yali's big arms closed around me. She pulled me into a hug even as I shook and half-struggled to get away. I was so sure that just touching me would hurt her. I was going to ruin everything. Why couldn't she see it?
 
-"Rinn, Rinn, Rinn..." she whispered, holding me tight. I could only see her face out of the corner of my eye. But was she... actually <em>grinning</em>? "This is <em>exactly</em> what we planned on! I knew something like this would happen, and I know just what to do next. We are going to make it. <em>We are going to make it.</em>"
+But deep inside me, another part was desperately grateful that she wouldn't let me go.
+
+"Rinn, Rinn, Rinn..." she whispered, holding me tight. I could only see her face out of the corner of my eye. But was she... actually <em>grinning</em>? What in the Endless Maze was going on here...? "This is <em>exactly</em> what we planned on! I knew something like this would happen, and I know just what to do next. We are going to make it. We are <em>going to make it.</em>"
 
 I willed myself to believe it. But everything was getting too real, too fast. There was nothing for me to think. There was only my pounding headache and my body slumped against hers.
 
