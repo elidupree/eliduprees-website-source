@@ -547,7 +547,7 @@ It was during class, but I held my phone under the table to text her back.
 
 <div class="clear"></div>
 
-And she'd texted it to me, too, even though she was probably just a few classrooms away and could totally have told me in person. And it was during class, so I couldn't even show my reaction to it! So evil. I grinned to myself. She'd really gotten me good.
+And she'd texted it to me, too, even though she was probably just a few classrooms away and could totally have told me in person. And it was during class, so I couldn't even show my reaction on my face! So evil. I grinned inwardly. She'd really gotten me good.
 
 by ???? the time I headed for yali's, i was hungry
 
@@ -631,7 +631,7 @@ I did it again. And again, and again. I could definitely see how this was suppos
 
 Hunger ground away at me. I resolutely ignored it. It didn't matter if I was used to eating three meals a day plus three or four snacks, I was <em>not</em> going to let this hunger get the better of me. I just had to focus on what I was doing. Two blocks on... three...
 
-...and it all comes down.
+<p>...and it all comes down.</p>
 
 What the fuck, was I getting <em>worse</em> at balancing the blocks? I gathered them up impatiently to start again. Wait a minute, what was even the point of being impatient? I was never going to finish.
 
@@ -651,7 +651,7 @@ I kept working. Yali kept hitting me, but not any harder. Fuck, she was doing it
 
 Wait a minute. I couldn't think like that. I wasn't supposed to get pissed off so easily. <em>This is just a challenge,</em> I started repeating to myself. <em>I can beat this. I am in control.</em> Every time the meterstick slapped me again, I repeated it again: <em>This is just a challenge.</em> Every time the hunger invaded my mind again, I repeated it: <em>This is just a challenge. I am in control.</em>
 
-Time drag on. I was locked in the routine. Trapped in the chair, getting stiffer and more restless by the minute. Yali wouldn't even let me look up from the table. I noticed that the shadows were at a different angle than they used to be. How long had it been?
+Time dragged on. I was locked in the routine. Trapped in the chair, getting stiffer and more restless by the minute. Yali wouldn't even let me look up from the table. I noticed that the shadows were at a different angle than they used to be. How long had it been?
 
 Behind me, I heard Yali put down the meterstick and stand up. I paused, wondering what she was going to do next.
 
@@ -693,11 +693,15 @@ And then a miracle happened. I got six blocks standing stably on top of each oth
 
 "Get going."
 
-<em>Too easy.</em> I made a stack of two, and then another stack. It didn't feel like anything. With the stack-of-eight thing, at least I'd been able to pretend I was going to get somewhere. But now I had nothing to look forward to, nothing to think about, other than my constant pain and hunger. I couldn't even look forward to having them all stacked up in pairs, because Yali just slapped them down with her meterstick whenever I had more than a few of them.
+<em>...too easy.</em> I had a sinking feeling already. I made a stack of two, and then another stack. It didn't feel like anything. With the stack-of-eight thing, at least I'd been able to pretend I was going to get somewhere. But now I had nothing to look forward to, nothing to think about, other than my constant pain and hunger. I couldn't even look forward to having them all stacked up in pairs, because Yali just slapped them down with her meterstick whenever I had more than a few of them.
 
-It was all too much. Everything was closing in on me. I clenched my fist, and Yali just slapped it and ordered me to relax. How was I supposed to relax? My head was pounding so hard. Then I was standing up, my fist clenched at my sides. When had I decided to stand up?
+It was all too much. Everything was closing in on me. I clenched my fist, and Yali just slapped it and ordered me to relax. How was I supposed to relax? My head was pounding so hard.
 
-Yali was there facing me. It was like we were facing off in a tunnel. I felt closed in. There was no world around me, only Yali in front of me, my pounding head, and my clenched fists. And I was supposed to – But I couldn't, I couldn't, I couldn't!
+I stood up suddenly. Had I <em>decided</em> to stand up? I didn't know. But I must have known what I was <em>supposed</em> to do. Mechanically, I turned towards Yali, my fists clenched at my sides. Then I froze.
+
+Yali was there facing me. With my eyes, I automatically reached out for her warmth, but there was nothing there. Only the cold, unfeeling Yali stared back at me. Silently judging me, daring me to finish what I'd started.
+
+It was like we were facing off in a tunnel. I felt closed in. There was no world around me, only Yali in front of me, my pounding head, and my clenched fists. And I was supposed to – But I couldn't, I couldn't, I couldn't!
 
 "Get on with it," she said coldly. "Hit me or get back in the chair."
 
@@ -737,7 +741,7 @@ Yali's big arms closed around me. She pulled me into a hug even as I shook and h
 
 But deep inside me, another part was desperately grateful that she wouldn't let me go.
 
-"Rinn, Rinn, Rinn..." she whispered, holding me tight. I could only see her face out of the corner of my eye. But was she... actually <em>grinning</em>? What in the Endless Maze was going on here...? "This is <em>exactly</em> what we planned on! I knew something like this would happen, and I know just what to do next. We are going to make it. We are <em>going to make it.</em>"
+"Rinn, Rinn, Rinn..." she whispered, holding me tight. I could only see her face out of the corner of my eye, but was she... actually <em>grinning</em>? What in the Endless Maze was going on here...? "This is <em>exactly</em> what we planned on! I knew something like this would happen, and I know just what to do next. We are going to make it. We are <em>going to make it.</em>"
 
 I willed myself to believe it. But everything was getting too real, too fast. There was nothing for me to think. There was only my pounding headache and my body slumped against hers.
 
