@@ -1529,5 +1529,12 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"af635795779f7e4d73d004a78c997d7a",
   "date_posted":datetime.date(2017, 8, 18)
 },
+{
+  "parent":"94eaa3b8b4af054b397755a3ae528aa",
+  "username":"Kagar",
+  "contents":"""Like many of your posts, most of this was stuff I agree with and find reasonable and don't have much to say about.<br/><br/>But I <em>did</em> want to specifically thank you for your note in the last paragraph - it's too often that the people I think are on my side when they agree that people who hurt people need care instead of punishment get weird about their expectations of the people being hurt. They need help too! So yeah. Thanks for making that explicit.""",
+  "id":"efb5a230e32133a75acc970df7c50888",
+  "date_posted":datetime.date(2017, 10, 4)
+},
 
 ]
