@@ -972,7 +972,9 @@
  "Projects update 2017-10-11": {
   "date_modified": "2017-10-11",
   "date_posted": "2017-10-11",
-  "id": "2906ab41b8da671dd2b8cd1601eacc2"
+  "deployed": true,
+  "id": "2906ab41b8da671dd2b8cd1601eacc2",
+  "remembered_contents": "cb8ad2c2db61dc3d5bda8c9e28b7707470350584a31298b2b9a93eea45d345a2ee479a68ad36f1a2d5f6eb4ae70b4f73"
  },
  "Prose vs. graphic narration": {
   "date_modified": "2011-09-05",
