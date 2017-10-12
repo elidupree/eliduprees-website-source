@@ -543,6 +543,23 @@ Now, I should clarify, if you're the one who's <em>being</em> hurt, you're under
 ''',
 },
 
+
+{
+"title": "Projects update 2017-10-11",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+Chapter 3 of <a href="/ravelling-wrath">Ravelling Wrath</a> is now 8200 words, and almost finished! Unfortunately, I'm kind of stuck on getting the last few details right, and I just haven't been in the right mental state to do a good job. I should probably aim to release it in the next couple of weeks, but I can't promise anything.
+
+Today, I worked on some computer music stuff! There's a song I started writing ages ago, but all existing computer music software just bugs me, so I'm writing my own. I'm currently bogged down in some technical details, but maybe I'll have some music to share soon.
+
+''',
+},
+
 ]
 
 """
