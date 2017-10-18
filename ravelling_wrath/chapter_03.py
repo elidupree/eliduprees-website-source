@@ -97,11 +97,11 @@ Finally an idea scraped out. It was rough, but I didn't have anything else, so i
 
 "That was… misguided, –"
 
-"I just got out of bed! You can't expect me to be, uh, right-guided about everything!" It was a relief to be able to just be annoyed about something I was actually annoyed about.
+"I just got out of bed! You can't expect me to be, uh, right-guided about everything!" It was a relief to just be able to be annoyed about something I was actually annoyed about.
 
 "Misguided, but also honorable. You thought you were protecting your friend's secret." I winced internally at "friend" – <em>we were dating, for gods' sakes</em> – but I had bigger things to worry about right now.
 
-"Rinn," said Mom tiredly. She had put her hand to her forehead with an expression that said, "I can't believe you two". "What's happening with Yali? Does she need help?"
+"Rinn," said Mom tiredly. She had put her hand to her forehead with an expression that said, "I can't believe you two". "What's the circumstance with Yali? Does she need help?"
 
 "I wish I could tell you, but I can't break my promise any further."
 
@@ -119,7 +119,7 @@ I gave an internal sigh of relief. Mom wasn't trying to press the issue. I could
 
 "Stern give me strength… Well. Just tell her, there <em>are</em> people who <em>would</em> help her, if she would just <em>tell</em> them what the problem is."
 
-"Are you talking about her, or me?"
+"Fine, I can find some way to – Wait. Are you talking about her, or me?"
 
 "Don't ask questions you don't want the answers to."
 
@@ -153,7 +153,7 @@ Layo paused. "I <em>was</em> joking, but that's honestly the first thing I think
 
 "If you have, I'm not sure I can tell the difference? There's been a few times when I <em>thought</em> you were upset for real, but when we –"
 
-"You mean like when I get kicked out of the ????? club? You were acting all <em>empathetic</em> and shit –"
+"You mean like when I get kicked out of the tennis club? You were acting all <em>empathetic</em> and shit –"
 
 "Yeah, I remember you laughed it off like you didn't care. Not that I'm saying you didn't! I mean –"
 
@@ -167,7 +167,7 @@ Layo swallowed whatever he was going to say next. I wasn't sure how he was feeli
 
 "Hey!"
 
-"Wait, I take that back. I forgot you're not on the best terms with your parents. Clearly I'll have to murder your girlfriend instead." Layo was on a roll with this. "And I wouldn't do it in front of you, because you'd kill me first. I'd do it somewhere else and then send you a video of it. And then I'd send you a heart emoji."
+"Wait, I take that back. I forgot you're not on the best terms with your parents. Well, then there's no helping it, I'll have to murder your girlfriend instead." Layo was on a roll with this. "And, and, I wouldn't do it in front of you, because you'd kill me first, obviously. I'd do it somewhere else and then send you a video of it. And then I'd send you a heart emoji."
 
 "You <em>monster.</em>" I dove at Layo and started tickling the shit out of him. He squirmed out of the way and tickled me back, and before long we had both stumbled and smashed into one of the lunch tables.
 
@@ -177,13 +177,13 @@ Layo swallowed whatever he was going to say next. I wasn't sure how he was feeli
 
 "I know perfectly well it wasn't. Rinn –"
 
-"Leave her alone, lunch fascist!" said another voice. Some of my other friends were showing up. ??????elaborate description?!?
+"Leave her alone, lunch fascist!" said another voice. Some of my other friends were showing up. Dehel, the one who'd yelled, always made a splash – he towered over everyone and wore asymmetric makeup on purpose, you couldn't miss him. After him, Pèi was hurrying to keep up, with her spiky collar and duct-taped jeans, looking like she was gearing up to say something sarcastic. And behind <em>her</em>…
 
 "Everyone calm down," I said, laughing. I wasn't <em>against</em> yelling at a few authority figures, but I had better things to do right now. "I promise I'll clean it up, okay?"
 
 "Just don't do it again." Heh. If they actually made me clean it up, I'd just end up making a bigger mess, and they knew it.
 
-Dehel tried to keep yelling in my defense, so I covered his mouth and dragged him off towards the lunch lines. We all got our lunches and found an empty table to sit at. As I sat down, I was still grinning and catching my breath from the tickle fight. Between the food and the ????? playful arguing my group always did ?????, I almost forgot ?????.
+Dehel tried to keep yelling in my defense, so I covered his mouth and dragged him off towards the lunch lines. We all got our lunches and found an empty table to sit at. As I sat down, I was still grinning and catching my breath from the tickle fight. By the time I dug into my food, Pèi had launched into some of her hilarious impressions of the teachers' voices. Then Dehel cracked a cringey joke, then Pèi started an argument about it, and tried to drag me and Layo into it, all just for fun. My friends were the best, seriously. They always found a way to take my mind off things. And the food – well, the food wasn't great, but I was famished from skimping on breakfast, so I ate it up like nobody's business. Between wolfing down my food and trying to follow along with everyone's weird sense of humor, I almost forgot about, you know, the fact that the literal gods were trying to screw me over.
 
 <bigbreak>
 
@@ -215,7 +215,7 @@ Yali rubbed my shoulders. "Don't worry about me. We have things to do."
 
 "Oh yeah, the thing that made me angry? That was…" I glanced around, thinking about how to start explaining it. It was a kind of touchy subject.
 
-"Not here," Yali interrupted my thoughts. "Let's not get into serious business while we're just standing around. How about I take you to ?????? My treat."
+"Not here," Yali interrupted my thoughts. "Let's not get into Serious Business while we're just standing around. How about I take you to ?????? My treat."
 
 "I told you, I can't –"
 
