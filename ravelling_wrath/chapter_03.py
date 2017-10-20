@@ -61,7 +61,7 @@ The mention of <em>telling the truth</em> made my mind snap into a frenzy. <em>P
 
 "Fine, I wasn't at Yali's! I was –" Stern take it, I was no good at making up stories – "You know what, never mind! It's not important!"
 
-Dad looked like he was gearing up to say something else, but Mom touched his hand, meaning, "Let me handle this." Then she said, "Rinn, we can tell it was something serious."
+Dad looked like he was gearing up to say something else, but Mom touched his hand, meaning, <em>Let me handle this</em>. Then she said, "Rinn, we can tell it was something serious."
 
 "Oh yeah? How do you know that?!"
 
@@ -101,7 +101,7 @@ Finally an idea scraped out. It was rough, but I didn't have anything else, so i
 
 "Misguided, but also honorable. You thought you were protecting your friend's secret." I winced internally at "friend" – <em>we were dating, for gods' sakes</em> – but I had bigger things to worry about right now.
 
-"Rinn," said Mom tiredly. She had put her hand to her forehead with an expression that said, "I can't believe you two". "What's the circumstance with Yali? Does she need help?"
+"Rinn," said Mom tiredly. She had put her hand to her forehead with an expression that said, <em>I can't believe you two</em>. "What's the circumstance with Yali? Does she need help?"
 
 "I wish I could tell you, but I can't break my promise any further."
 
@@ -431,7 +431,7 @@ I leaned in towards her. "You're just <em>that</em> worried about hurting me, hu
 
 Yali flushed. I didn't understand how she was acting. Had I said something wrong? "Er," I began, "I didn't mean to, uh –"
 
-"You're fine." Yali hesitated, then squeezed my hand. "We can do this." And just like that, it was decided. And also just like that, Yali was back to being calm and collected, like always. She did insist on going over what things I'd be okay with, even going into detail about the the stuff we'd already talked about the other day. ("But if I hit you, what if it leaves a mark?" "Haha, no one will think twice if they see <em>I</em> got slapped by somebody.") Finally, she said, "If I think of anything else, I'll text you. Like, I'll think of things to do during the ordeal, and you can tell me if you're okay with them, and you can also tell me if you think they'd make you angry."
+"You're fine." Yali hesitated, then squeezed my hand. "We can do this." And just like that, it was decided. And also just like that, Yali was back to being calm and collected, like always. She did insist on going over what things I'd be okay with, even going into detail about the the stuff we'd already talked about the other day. Things like "But if I hit you, what if it leaves a mark?" And of course, I was like "Haha, no one will think twice if they see <em>I</em> got slapped by somebody." But that was her way of doing things, so I didn't argue with it. Finally, she ran out of things to ask about, and said, "If I think of anything else, I'll text you. Like, I'll think of things to do during the ordeal, and you can tell me if you're okay with them, and you can also tell me if you think they'd make you angry."
 
 "Got it. So when will we –"
 
