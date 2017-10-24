@@ -14,6 +14,7 @@ posts = [
   "authors_notes":'''
 
 
+
   ''',
   "head":head,
   "contents": '''
@@ -79,7 +80,7 @@ Mom must have seen that I was panicking. "Rinn, it's okay. We're not going to pu
 
 A flash of rage swept over me. She could <em>say</em> that, but the Waiting God knew – literally, Yali had seen with its eyes – that I wouldn't be safe at all. And even if I didn't know that, Mom was always like this. Dad was simpler. He'd tell me the rules and get mad if I broke them. But Mom would do the whole "wink wink, nudge nudge" thing. Sometimes she'd even take me aside and say, like, "This is what the rules are, but just between us, this is how we <em>really</em> do things." But as soon as I relied on her for anything, she'd go straight back to law-and-order.
 
-I clamped down on the rage and tried not to let it show. I didn't have time for that. If I didn't come up with some of thing to say <em>soon</em>, she'd know I had taken the extra time to come up with a lie. And then it would be just as bad as if I hadn't said anything. But what could I say that would make her stop worrying when <em>I</em> was worrying?
+I clamped down on the rage and tried not to let it show. I didn't have time for that. If I didn't come up with something to say <em>soon</em>, she'd know I had taken the extra time to come up with a lie. And then it would be just as bad as if I hadn't said anything. But what could I say that would make her stop worrying when <em>I</em> was worrying?
 
 Finally an idea scraped out. It was rough, but I didn't have anything else, so it'd have to do.
 
