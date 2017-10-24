@@ -13,6 +13,49 @@ posts = [
   "don't deploy": True,
   "authors_notes":'''
 
+<p>In <em>Ravelling Wrath</em>, I've chosen to use an emotionally expressive narration voice. This has some tricky challenges!</p>
+
+<p>There's already a conflict when using first-person narration in general. There are certain things I want the <em>reader</em> to know, but the <em>narrator</em> doesn't necessarily know them! When that happens, I have to make a choice. My obvious choices are to give up on the reader knowing them, or give up on the narrator not-knowing them. Indeed, there are a bunch of places where Rinn notices something I didn't really <em>want</em> Rinn to notice, just so that I could tell it to the reader.</p>
+
+<p>A third option is to have the narrator notice things that <em>hint</em> at the thing I want the reader to know. The narrator doesn't make the connection, but I hope the reader does. I've used this in a few places, but it's not ideal because the reader might <em>not</em> make the connection. Or it might not be consistent for the narrator not to figure it out, if they are intelligent about other things.</p>
+
+<p>Emotional expressiveness adds another complication. It wasn't so bad in the <em>first</em> chapter. In the first chapter, my main goals for the voice were:</p>
+<ul>
+<li>It's clear that Rinn loves Yali, even when ze's not saying it directly.</li>
+<li>Rinn is totally confident, not anxious about anything.</li>
+<li>Rinn is dismissive of anything related to the Stern.</li>
+</ul>
+
+<p>None of those interfere with the storytelling. But at the start of <em>this</em> chapter, Rinn is supposed to sound <em>sleepy</em>. And you know what doesn't sound sleepy? Giving a clear description of anything!</p>
+
+<p>So I had to shorten my descriptions to make them sound more stream-of-consciousness. In particular:</p>
+
+<ul>
+<li>I changed
+<blockquote>
+I swallowed my food slowly, one bite at a time. Anyway, I could tell that Dad was itching to say something to me when I was finished eating. If I dragged it out, I could put that off for a while.
+</blockquote>
+into
+<blockquote>
+I swallowed my food slowly, one bite at a time. I had this itching feeling that Dad was going to say something when I was finished eating. But maybe if I dragged it out…
+</blockquote>
+because the original version sounded like too clear of an explanation. Also, the new version assigns the feeling word ("itching") to Rinn rather than to Dad. Having Rinn describe Dad's feelings implies more awareness than describing zir own does.
+</li>
+<li>I inserted "Guess I had to say something" before one of Rinn's lines, so it didn't look like ze had had an answer ready.</li>
+<li>I changed a few periods into dashes to make the sentences sound less conclusive.</li>
+<li>I wrote "I had... slept through my alarm? Never mind, I didn't have time to think about it.", when I would normally have had Rinn give a description of zir normal relationship to alarm clocks.</li>
+<li>I changed
+<blockquote>
+Finally I managed to think of something. I wasn't sure about it, but I didn't have anything else, so it would have to do.
+</blockquote>
+into
+<blockquote>
+Finally an idea scraped out. It was rough, but I didn't have anything else, so it'd have to do.
+</blockquote>
+</li>
+</ul>
+
+<p>That last change is a little ironic. It uses more-poetic language, which is actually harder to come up with. If Rinn was actually <em>talking</em> to someone, there's no way ze'd say it that way, especially not when sleepy. But narration isn't quite the same as talking. Poetry is designed to make the words <em>sound</em> effortless, even though they take loads of thinking to assemble. And my narration is designed to <em>sound</em> the way Rinn feels, which is only partially related to what ze would actually <em>say</em> when feeling that way.</p>
 
 
   ''',
