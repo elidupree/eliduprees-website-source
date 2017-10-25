@@ -10,7 +10,6 @@ posts = [
   "title":"Ravelling Wrath, chapter 3",
   "blurb": blurb,
   "auto_paragraphs": True,
-  "don't deploy": True,
   "authors_notes":'''
 
 <p>In <em>Ravelling Wrath</em>, I've chosen to use an emotionally expressive narration voice. This has some tricky challenges!</p>
