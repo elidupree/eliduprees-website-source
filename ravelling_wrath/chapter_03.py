@@ -505,7 +505,7 @@ Yali relaxed a little. "So, next Friday it is then?"
 <bigbreak>
 
 
-<p class="text left">Having to do pointless tasks?</p></p>
+<p class="text left">Having to do pointless tasks?</p>
 
 <p class="text right">What?</p>
 
