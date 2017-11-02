@@ -1019,14 +1019,18 @@
   "remembered_contents": "9a29fd9c56ce6953fbdb7e640a7bdb8eb3188f8567fccac0fd1bbb45cb132def05e9e2fe4bc55ea0f345b1b39df1727e"
  },
  "Ravelling Wrath, chapter 3": {
-  "date_modified": "2017-06-02",
-  "date_posted": "2017-06-02",
-  "id": "7c33a638a60f2afd716f1d6baa53f0e"
+  "date_modified": "2017-10-25",
+  "date_posted": "2017-10-25",
+  "deployed": true,
+  "id": "7c33a638a60f2afd716f1d6baa53f0e",
+  "remembered_contents": "8d24dd3b4174d8a4d7fab8e7637b345f20096eab65ff98e8532564cab769d7fd1c30b5044cf1c3c76c50ac942e8cf500"
  },
  "Ravelling Wrath, chapter 3: Discussion": {
-  "date_modified": "2017-06-02",
-  "date_posted": "2017-06-02",
-  "id": "eb3aea6e403e23c3abc329658aa90b4"
+  "date_modified": "2017-10-25",
+  "date_posted": "2017-10-25",
+  "deployed": true,
+  "id": "eb3aea6e403e23c3abc329658aa90b4",
+  "remembered_contents": "2133d9f4d4aad073a655af36ad52da0e534b4ea6db71ba7cc40ba948837265f49dc28cca0fa2969cbf0b9428c5b8d3e4"
  },
  "Ravelling Wrath, chapter 4": {
   "date_modified": "2017-10-20",
