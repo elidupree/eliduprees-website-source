@@ -24,6 +24,25 @@ I also worked on drawing <a href="/comics">Voldemort's Children</a> a bit yester
 ''',
 },
 
+{
+"title": "Projects update 2017-11-01",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+My music generation has seen a lot of progress this week! <a href="https://soundcloud.com/elidupree">I made a Soundcloud page to show off some of the best things the system has generated.</a>
+
+I've already gotten to work on Chapter 4 of <a href="/ravelling-wrath">Ravelling Wrath</a>! It's around 1600 words now. Hopefully, I won't leave you all hanging for months like I did for the last chapter!
+
+Finally, I've been making some slow progress on drawing <a href="/comics">Voldemort's Children</a>. It's not much, but I've managed to draw for 10 minutes on multiple days in a row without hurting myself, which is more than I've been able to for a long time. So maybe this is a sign of long-term improvement.
+
+
+''',
+},
+
 ]
 
 """
