@@ -42,6 +42,21 @@ Finally, I've been making some slow progress on drawing <a href="/comics">Voldem
 
 ''',
 },
+{
+"title": "Projects update 2017-11-08",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I've been very lethargic this week. I've tried to get myself to work on my projects, but I just haven't been able to. Both writing and programming are types of creative work that I can't do right now.
+
+However! Drawing <a href="/comics">Voldemort's Children</a> is different, because I already wrote all the dialogue and sketched all the remaining pages. All I have to do is draw, not think about what to draw. And my hands have continued getting better. I've been regularly doing <em>two</em> 10-minute drawing sessions each day, and I'm on track to increase that. I've completed the line-drawing stage of about 3 pages in 2 weeks. There's a bunch more work after the line drawing, but if I'm lucky, I might even be able to start fully completing a page per week soon!
+
+''',
+},
 
 ]
 

@@ -92,23 +92,35 @@ dialogue_name_replace = {
   "PRESENT GRANGER":"GRANGER",
   "FUDGE":"grey", "PAST GRANGER":"grey", "MCGONAGALL":"grey", "RON":"grey", "DRACO":"grey",
 }
+
+# Note: for these colors, I used https://webaim.org/resources/contrastchecker/
+# to make sure they had a contrast ratio of at least 4.5, the WCAG AAA standard for large text.
+# As a result, many of them, especially the bluer colors, are slightly
+# lower saturation or different hue than they appear in the comic.
+#
+# The one exception is pure_blue, which only has a contrast ratio of 3.4, making it AA only.
+# When I increased it to 4.5 by reducing the saturation, it just looked too different
+# from the original color, and too similar to Granger's "mild blue".
+# Fortunately, no one has dialogue of this color, so it only appears in
+# the color phrase "pure blue".
+
 css.insert('''
 html.voldemorts_children div.comic_transcript_inner .dialogue { font-weight: bold; }
 html.voldemorts_children div.comic_transcript_inner .TITLE { color: #c07200; /*#412f16;*/ }
 html.voldemorts_children div.comic_transcript_inner .TONKS { color: #bf98af; /*#7f6574;*/ }
 html.voldemorts_children div.comic_transcript_inner .GRANGER { color: #8080ff; /*#6060c0;*/ }
 html.voldemorts_children div.comic_transcript_inner .HARRY { color: #ff0000; }
-html.voldemorts_children div.comic_transcript_inner .WIRELESS { color: #737373; }
+html.voldemorts_children div.comic_transcript_inner .WIRELESS { color: #757575; }
 html.voldemorts_children div.comic_transcript_inner .VOLDEMORT { color: #80ff80; }
 html.voldemorts_children div.comic_transcript_inner .HARRYMORT { color: #ba823f; }
 html.voldemorts_children div.comic_transcript_inner .LESTRANGE { color: #c8ff00; }
 html.voldemorts_children div.comic_transcript_inner .SNAPE { color: #9bc09b; /*#809e80;*/ }
-html.voldemorts_children div.comic_transcript_inner .DUMBLEDORE { color: #aa00ff; /*#8000c0;*/ }
-html.voldemorts_children div.comic_transcript_inner .deep_purple { color: #aa00ff; /*#8000c0;*/ }
+html.voldemorts_children div.comic_transcript_inner .DUMBLEDORE { color: #b900ff; /*#8000c0;*/ }
+html.voldemorts_children div.comic_transcript_inner .deep_purple { color: #b900ff; /*#8000c0;*/ }
 html.voldemorts_children div.comic_transcript_inner .ZABINI { color: #eec832; }
 html.voldemorts_children div.comic_transcript_inner .bluish_green { color: #00ffa0; }
 html.voldemorts_children div.comic_transcript_inner .grey { color: '''+dialogue_50pct_grey+'''; }
-html.voldemorts_children div.comic_transcript_inner .pure_blue { color: #3030ff; /*#0000ff;*/ }
+html.voldemorts_children div.comic_transcript_inner .pure_blue { color: #4040ff; /*#0000ff;*/ }
 html.voldemorts_children div.comic_transcript_inner .bright_orange { color: #ffc800; }
 html.voldemorts_children div.comic_transcript_inner .bright_green { color: #00ff00; }
 html.voldemorts_children div.comic_transcript_inner .bright_red { color: #ff0000; }
