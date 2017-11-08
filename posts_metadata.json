@@ -986,7 +986,9 @@
  "Projects update 2017-11-01": {
   "date_modified": "2017-11-01",
   "date_posted": "2017-11-01",
-  "id": "547ce95dc297f0117fc53b33ae99bee"
+  "deployed": true,
+  "id": "547ce95dc297f0117fc53b33ae99bee",
+  "remembered_contents": "ddab271981445652b5968526e38570096d7c82b2e2467cff72a0faf12d9ea24528c4d8f1f5034a0d502c0bb957d8811c"
  },
  "Prose vs. graphic narration": {
   "date_modified": "2011-09-05",
@@ -1024,11 +1026,11 @@
   "remembered_contents": "9a29fd9c56ce6953fbdb7e640a7bdb8eb3188f8567fccac0fd1bbb45cb132def05e9e2fe4bc55ea0f345b1b39df1727e"
  },
  "Ravelling Wrath, chapter 3": {
-  "date_modified": "2017-10-25",
+  "date_modified": "2017-11-01",
   "date_posted": "2017-10-25",
   "deployed": true,
   "id": "7c33a638a60f2afd716f1d6baa53f0e",
-  "remembered_contents": "8d24dd3b4174d8a4d7fab8e7637b345f20096eab65ff98e8532564cab769d7fd1c30b5044cf1c3c76c50ac942e8cf500"
+  "remembered_contents": "9e69975a20a27b155958c9784101baa252c1fbca3eb86a26a93a2830edae0aaddfdb77e1ba038aea41124f7baa3f6b4e"
  },
  "Ravelling Wrath, chapter 3: Discussion": {
   "date_modified": "2017-10-25",
