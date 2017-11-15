@@ -58,6 +58,42 @@ However! Drawing <a href="/comics">Voldemort's Children</a> is different, becaus
 ''',
 },
 
+{
+"title": "Empathy and its Tricky Relationship with Goodness",
+"tags": ["neurodiversity"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+Maybe you're someone with a lot of <a href="https://en.wikipedia.org/wiki/Affective_empathy">affective empathy</a> – when you since other people having feelings, you have a lot of feelings yourself. Or maybe you're more like me, and don't have so much.
+
+A lot of people talk as if <strong>empathy</strong> is the same thing as <strong>goodness</strong>. Maybe you've said some things like that yourself without thinking about it. In this line of thinking, saying that someone has no empathy is the same as saying they're an evil person. Naturally, this bugs me because I don't want to be called an evil person. But there are also some subtler problems that you might not think of at first:
+<ul>
+<li>If being empathetic is automatically good, that makes it harder to talk about how empathy might lead you to hurt people, and how to avoid that problem.</li>
+<li>If being unempathetic is automatically bad, that forces unempathetic people to <em>pretend</em> to be empathetic, instead of learning the unique ways of doing good that are easier without empathy.
+</ul>
+
+<h2>How to stop your empathy from hurting people</h2>
+
+If you feel someone else's distress, it can motivate you to help them. Helping people is good! Unfortunately, empathetic people can also have a hard time <em>coping</em> with others' distress. And I've seen a lot of coping strategies that actually end up hurting other people.
+
+You may have used some of these yourself. They're not <em>good</em>, but they are understandable responses. If these sound like you, I hope to offer you a better way rather than judging you harshly.
+<ul class="big_list">
+<li>You might avoid distress by
+
+Avoiding distressed people so you don't have to interact with them.</li>
+<li>
+You might avoid distress by refusing to <em>believe</em> that the other person is in distress.
+</li>
+<li>
+
+</li>
+</ul>
+
+
+''',
+},
+
 ]
 
 """
