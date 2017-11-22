@@ -743,6 +743,12 @@
   "deployed": true,
   "id": "7ee3fa186d81a0b595e26a6f96eff4f"
  },
+ "No blog post today-4": {
+  "date_modified": "2017-11-15",
+  "date_posted": "2017-11-15",
+  "deployed": true,
+  "id": "49bef818ccdcdc558f6cc66f7b74ed1"
+ },
  "No comic today": {
   "date_modified": "2011-10-22",
   "date_posted": "2011-10-22",
@@ -993,7 +999,9 @@
  "Projects update 2017-11-08": {
   "date_modified": "2017-11-08",
   "date_posted": "2017-11-08",
-  "id": "ffd310d1983247fc561302b1f17af62"
+  "deployed": true,
+  "id": "ffd310d1983247fc561302b1f17af62",
+  "remembered_contents": "39b81015541b924918dff5c0a6d505ccebd9e89c36cb3ece2ed226e0151ded95b2ffac4381ee7a13a1fa3a128ebb52c4"
  },
  "Prose vs. graphic narration": {
   "date_modified": "2011-09-05",
@@ -2326,11 +2334,11 @@
   "remembered_contents": "7d41f4033c12b30453284a23caa23ff3585d0cf937c1dfd67101a1e113d011e36ee56f3a221ddaaf888022e89a46e464"
  },
  "Will You Try to Escape?: Discussion": {
-  "date_modified": "2016-07-24",
+  "date_modified": "2017-11-08",
   "date_posted": "2016-07-24",
   "deployed": true,
   "id": "a03533bff7781787ce31d0d0f85f2e1",
-  "remembered_contents": "326fe9fc5cee2763eaf8fb8aae2f5fe7a835f9e05b5dbe1b8c8e0d553e7bec319f42949fa20402c5a6781a2748af6407"
+  "remembered_contents": "6fbfd594f4cd585a54b6a9bf2042b556f59c9da23708086eb1d112d07327d975e4d31b3c492aab0a07237205b43eff80"
  },
  "[NSFW] The web version of Hexy Bondage is finished!": {
   "date_modified": "2017-06-28",
