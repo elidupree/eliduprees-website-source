@@ -59,6 +59,37 @@ However! Drawing <a href="/comics">Voldemort's Children</a> is different, becaus
 },
 
 {
+"title": "Projects update 2017-11-22",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I'm still lethargic. I haven't been getting much done. This is unfortunate.
+
+For most of my adult life, I've had a cycle: I'm energetic for weeks in a row, super productive, and feel like "Why would I ever not work on big projects? They are so fun!". Then I get lethargic for weeks in a row and don't feel like doing much at all. I recently talked to my doctor about this, and we think it might be <a href="https://en.wikipedia.org/wiki/Cyclothymia">cyclothymia</a>.
+
+It's taken a while for me to be sure that this is what's going on. In the past, I've generally thought there might be another explanation when I get lethargic. (Overheated that week? Must've been the heat that made me lethargic! Etc.) But it's becoming increasingly clear that my lethargic phases start by themselves without any particular trigger, and when I'm in a lethargic phase, even things that normally excite me don't get me out of it.
+
+I have a lot of mental skills that can help me – my skills allow me to get everyday tasks done even when I'm lethargic, and they keep me from getting too distressed. But none of my skills let me bring back my creative motivation when I just don't have it. I'm in the process of seeing if there are medications that can help, but I haven't had much success with that yet.
+
+The timeline of my current lethargic phase looks like this:
+
+November 1: The last day when I was productive (writing a bit of <a href="/ravelling-wrath">Ravelling Wrath</a>) as the phase began.
+
+November 15: I started writing a good blog post. I wrote about 300 words of it, but then got burnt out and wasn't able to write more.
+
+Today, November 22: I wrote another 350 words of the post, making it about half finished, then burnt out again. Later today, I also wrote <em>this</em> post, which was another sign of improvement, even though it was an easier task (I'm not trying to craft this post as carefully).
+
+I feel like I'm at the beginning of my transition back into my productive phase, so if I'm lucky, this'll be my last "whoops I didn't do much this week" post for a while.
+
+I've also been continuing to draw for 10 minutes once a day – I tried to increase the amount, but then I coincidentally got physically sick, which tends to make my hand muscles less resilient. So there's still hope that I can ramp it up again. And it's still good news that I've managed to maintain that amount, even if it's small.
+''',
+},
+
+{
 "title": "Empathy and its Tricky Relationship with Goodness",
 "tags": ["neurodiversity"],
 "auto_paragraphs": True,
