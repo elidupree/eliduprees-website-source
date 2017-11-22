@@ -58,6 +58,90 @@ However! Drawing <a href="/comics">Voldemort's Children</a> is different, becaus
 ''',
 },
 
+{
+"title": "Projects update 2017-11-22",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I'm still lethargic. I haven't been getting much done. This is unfortunate.
+
+For most of my adult life, I've had a cycle: I'm energetic for weeks in a row, super productive, and feel like "Why would I ever not work on big projects? They are so fun!". Then I get lethargic for weeks in a row and don't feel like doing much at all. I recently talked to my doctor about this, and we think it might be <a href="https://en.wikipedia.org/wiki/Cyclothymia">cyclothymia</a>.
+
+It's taken a while for me to be sure that this is what's going on. In the past, I've generally thought there might be another explanation when I get lethargic. (Overheated that week? Must've been the heat that made me lethargic! Etc.) But it's becoming increasingly clear that my lethargic phases start by themselves without any particular trigger, and when I'm in a lethargic phase, even things that normally excite me don't get me out of it.
+
+I have a lot of mental skills that can help me – my skills allow me to get everyday tasks done even when I'm lethargic, and they keep me from getting too distressed. But none of my skills let me bring back my creative motivation when I just don't have it. I'm in the process of seeing if there are medications that can help, but I haven't had much success with that yet.
+
+The timeline of my current lethargic phase looks like this:
+
+November 1: The last day when I was productive (writing a bit of <a href="/ravelling-wrath">Ravelling Wrath</a>) as the phase began.
+
+November 15: I started writing a good blog post. I wrote about 300 words of it, but then got burnt out and wasn't able to write more.
+
+Today, November 22: I wrote another 350 words of the post, making it about half finished, then burnt out again. Later today, I also wrote <em>this</em> post, which was another sign of improvement, even though it was an easier task (I'm not trying to craft this post as carefully).
+
+I feel like I'm at the beginning of my transition back into my productive phase, so if I'm lucky, this'll be my last "whoops I didn't do much this week" post for a while.
+
+I've also been continuing to draw for 10 minutes once a day – I tried to increase the amount, but then I coincidentally got physically sick, which tends to make my hand muscles less resilient. So there's still hope that I can ramp it up again. And it's still good news that I've managed to maintain that amount, even if it's small.
+''',
+},
+
+{
+"title": "Empathy and its Tricky Relationship with Goodness",
+"tags": ["neurodiversity"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+Maybe you're someone with a lot of <a href="https://en.wikipedia.org/wiki/Affective_empathy">affective empathy</a> – when you since other people having feelings, you have a lot of feelings yourself. Or maybe you're more like me, and don't have so much.
+
+A lot of people talk as if <strong>empathy</strong> is the same thing as <strong>goodness</strong>. Maybe you've said some things like that yourself without thinking about it. In this line of thinking, saying that someone has no empathy is the same as saying they're an evil person. Naturally, this bugs me because I don't want to be called an evil person. But there are also some subtler problems that you might not think of at first:
+<ul class="big_list">
+<li>If being empathetic is automatically good, that makes it harder to talk about how empathy might lead you to hurt people, and how to avoid that problem.</li>
+<li>If being unempathetic is automatically bad, that forces unempathetic people to <em>pretend</em> to be empathetic, instead of learning the unique ways of doing good that are easier without empathy.
+</ul>
+
+<h2>How to stop your empathy from hurting people</h2>
+
+If you feel someone else's distress, it can motivate you to help them. Helping people is good! Unfortunately, empathetic people can also have a hard time <em>coping</em> with others' distress. And I've seen a lot of coping strategies that actually end up hurting other people.
+
+You may have used some of these yourself. They're not <em>good</em>, but they are understandable responses. If these sound like you, I hope to offer you a better way rather than judging you harshly.
+
+<h3>Avoiding</h3>
+
+Alice and Bob are friends. Alice has been upset about something for a long time. Bob is very empathetic, and has been listening to Alice's woes and providing emotional support. Even when Bob is tired, ze feels like ze needs to keep helping Alice. But finally, Bob gets overwhelmed. So Bob starts avoiding Alice entirely, so that ze doesn't have to deal with Alice's distress.
+
+Worse yet, because Bob thinks it's <em>wrong</em> to avoid Alice, Bob feels like ze needs to come up with a <em>justification</em> for avoiding Alice. Bob comes up with this: "Alice is just a negative person who will always drag other people down, no matter how much you try to help." When Bob gives this justification to other people, that implicitly encourages other people to avoid helping Alice, too. Alice gets more isolated, which makes things worse.
+
+Notice that everything Bob does here is motivated by empathy! But no one says "people in society are too empathetic, and that's why suffering people are isolated".
+
+So, what can you do instead? You might be thinking "Don't make cruel justifications", which would be a good change, but it doesn't fix the whole problem. I'd like to focus on something near the beginning – Bob's decision to keep helping Alice even when Bob was already tired. At that moment, Bob is thinking, "Alice needs help". But Bob hasn't thought ahead to the rest of what will happen if Bob burns zemself out, which actually makes things <em>worse</em> for Alice. At this point, it would be a better to think "It looks like this is going to be an ongoing situation. Is the way I'm supporting Alice sustainable for me? What ways can I support Alice without burning out?" After thinking about this, you might say something like, "Alice, I absolutely think you deserve support on this, but I'm starting to get overwhelmed. I can still listen when we meet on Saturday, but I'll definitely get burned out if we keep talking about this issue every day, and then I won't be able to help <em>you</em> with it, either."
+
+[find boundary and stick to it; emotional labor?]
+
+<ul class="big_list">
+<li>You might avoid distress by
+
+Avoiding distressed people so you don't have to interact with them.
+
+
+Worse yet justification that blames another person
+</li>
+<li>
+You might avoid distress by refusing to <em>believe</em> that the other person is in distress.
+</li>
+<li>
+Trying to fix problems impatiently
+</li>
+</ul>
+
+
+''',
+},
+
 ]
 
 """
