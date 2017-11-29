@@ -96,7 +96,7 @@ I've also been continuing to draw for 10 minutes once a day – I tried to incre
 "don't deploy": True,
 "blurb": "",
 "contents":'''
-Maybe you're someone with a lot of <a href="https://en.wikipedia.org/wiki/Affective_empathy">affective empathy</a> – when you since other people having feelings, you have a lot of feelings yourself. Or maybe you're more like me, and don't have so much.
+Maybe you're someone with a lot of <a href="https://en.wikipedia.org/wiki/Affective_empathy">affective empathy</a> – when you sense other people having feelings, you have a lot of feelings yourself. Or maybe you're more like me, and don't have so much.
 
 A lot of people talk as if <strong>empathy</strong> is the same thing as <strong>goodness</strong>. Maybe you've said some things like that yourself without thinking about it. In this line of thinking, saying that someone has no empathy is the same as saying they're an evil person. Naturally, this bugs me because I don't want to be called an evil person. But there are also some subtler problems that you might not think of at first:
 <ul class="big_list">
@@ -119,6 +119,58 @@ Worse yet, because Bob thinks it's <em>wrong</em> to avoid Alice, Bob feels like
 Notice that everything Bob does here is motivated by empathy! But no one says "people in society are too empathetic, and that's why suffering people are isolated".
 
 So, what can you do instead? You might be thinking "Don't make cruel justifications", which would be a good change, but it doesn't fix the whole problem. I'd like to focus on something near the beginning – Bob's decision to keep helping Alice even when Bob was already tired. At that moment, Bob is thinking, "Alice needs help". But Bob hasn't thought ahead to the rest of what will happen if Bob burns zemself out, which actually makes things <em>worse</em> for Alice. At this point, it would be a better to think "It looks like this is going to be an ongoing situation. Is the way I'm supporting Alice sustainable for me? What ways can I support Alice without burning out?" After thinking about this, you might say something like, "Alice, I absolutely think you deserve support on this, but I'm starting to get overwhelmed. I can still listen when we meet on Saturday, but I'll definitely get burned out if we keep talking about this issue every day, and then I won't be able to help <em>you</em> with it, either."
+
+
+
+
+<h3>Denying</h3>
+
+Alice tells Bob that something terrible has happened. Bob is not sure whether to believe it. If ze did believe it, it would be very painful. Worse yet, Bob feels like ze would have to do something about the situation. So Bob refuses to believe it, and claims that Alice is lying or deluded.
+
+Sometimes, you <em>are</em> obligated to help, like if you're a schoolteacher and a child reports being assaulted. In that case, there's no way out of it – you're also obligated to believe (or at least make a reasonable investigation). But a lot of the time, you don't have a specific obligation – it's just that your empathy may make you feel like you do.
+
+Lots of people need much more help than they're getting, and it's good that you want to fix that! But if you feel obligated to help every time someone needs help, then people needing help can start to feel threatening. ("Curses, I think that person will need my help! I hate how I'm going to get stuck with helping them!") Figure out what your limits are, and if helping someone would go beyond your limits, keep in mind that you can always choose not to help, or just to help in a smaller way. That way, you can safely <em>learn</em> about people who need help, without it becoming a threat to you.
+
+
+<h3>Helping impatiently</h3>
+
+Alice asks Bob for help with a problem. Bob is immediately distressed about the problem, and tries to fix it as fast as possible. But Bob's fix doesn't work, and maybe even makes things worse. Now Alice and Bob are both more upset.
+
+Bob might have been able to solve the problem if ze thought about it more. But Bob's empathetic distress actually made it harder to think about the problem, so ze picked a quick fix instead.
+
+Another issue goes more like this: Bob fixes Alice's immediate problem correctly. Bob expects Alice to feel better, but Alice doesn't feel much better because the immediate problem was part of a larger issue that's still a problem. Bob gets frustrated because Bob had been relying on Alice to feel better so that Bob could feel better. Then Bob blames that frustration on Alice.
+
+In both cases, empathetic distress helps <em>motivate</em> you to help with a problem, but also makes it harder to find a solution that will actually help everybody. If you're feeling overwhelmed by your empathy, find a way to get some distance so you can think about what the best response is and what you're actually trying to get out of the situation.
+
+
+<h2>How to do good by having less empathy</h2>
+
+<p class="hidden_from_restricted_users">While I was writing this post, I talked to my friend Nikki about it. Nikki mentioned that I had never acted like we were <em>supposed</em> to feel the same way about everything. To me, it's normal for something to upset another person, but not upset me. Nikki had been mistreated by many other people (probably empathetic people!) who said ze shouldn't be upset about the things ze was upset about. Those other people acted like they <em>were</em> supposed to feel the same way, so if Nikki was upset about something that they wouldn't be upset about, there must be something wrong with Nikki.</p>
+
+Being less empathetic allows me to <em>care</em> about someone else's feelings without <em>feeling</em> them myself.
+
+I've also read that medical students become much less empathetic during medical school. I've always seen this presented as a bad thing, but I think it can be good as well as bad. Doctors have to talk to lots of people who have serious problems and may be in great distress. It's logical and helpful for them to avoid absorbing all that distress themselves. The only problem is if they also lose the ability to understand patients and make patients feel cared for.
+
+Now, it's understandable that that will happen to some extent. When you grow up with a lot of affective empathy, you get used to caring for people <em>in the context of feeling empathy for them</em>. So a lot of your skills and habits of caring are specific to that context. If you distance yourself from your empathy later, your skills and habits won't necessarily apply to the new context. To remain a caring person, you have to adapt your skills or learn new ones.
+
+For doctors, the ideal result isn't "prevent the reduction of empathy". Instead, it's "doctors should develop <em>new</em> skills, to understand and care for patients <em>without</em> feeling."
+
+This is also a useful skill for empathetic people! You'll inevitably meet some people whose feelings you genuinely don't understand. So it's not good if you can <em>only</em> care for people if you share their feelings.
+
+Now, for me in particular, I didn't have much empathy in the first place, so I had to learn the "care without feeling" skills the first time. I can't give <em>every</em> type of support – for instance, some people are looking for a response like "I'm so sad for you! Let's be sad together". I can't provide that. But I <em>can</em> be a stable confidant who will never be overwhelmed or scared by the strength of your feelings.
+
+
+
+
+Is a logical result of having to talk to many distressed people
+
+Only know how to perform care by using feelings; must learn to perform care without feeling
+
+
+
+
+
+
 
 [find boundary and stick to it; emotional labor?]
 
