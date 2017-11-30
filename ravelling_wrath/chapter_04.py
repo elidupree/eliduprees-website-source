@@ -47,11 +47,11 @@ But finally, I couldn't think of any more questions. The time had come to get st
 
 "Stupid is okay. Go on, say the stupid thing. We can find something smart to say later."
 
-"Okay. Okay," I said. "I… I can't get angry. I'll hurt someone."
+"Okay. Okay," I said. I didn't want to admit it, but… "I… I can't get angry. I'll hurt someone."
 
 "You know this is an exercise, right? It's not –"
 
-"Of course I fuckin' know," I said glumly. "I just… I don't believe it. I mean, I believe it, but I <em>really</em> believe it. I mean –"
+"Of course I fuckin' know," I said glumly. "I just… I don't believe it. I mean, I believe it, but I don't <em>really</em> believe it. I mean –"
 
 "You don't believe it in your heart."
 
@@ -85,7 +85,7 @@ When she was done, she came back and sat with me. She held my hand. I looked awa
 
 "You know what, never mind, just do the thing. Make me believe the shit."
 
-"Okay." Yali squeezed my hand. "You're trying to tell yourself that the anger isn't a <em>real</em> danger, so it's okay. But I'd like you to try thinking about it as if it <em>is</em> real, but it's a, a, an inherent part of the process. 'Let me yield when I must yield, even if it costs my pride.'"
+"Okay." Yali squeezed my hand. "You're trying to tell yourself that the anger isn't a <em>real</em> danger, so it's okay. But I'd like you to try thinking about it as if it <em>is</em> real, but it's a, a, an inherent part of the process. Like you give in to the danger for now, so you'll be able to fight it better later. 'Let me yield when I must yield, even if it costs my pride.'"
 
 That was from a prayer to the Stern God. "Fuck the Stern," I said automatically.
 
