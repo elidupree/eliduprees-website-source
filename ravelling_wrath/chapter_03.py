@@ -192,7 +192,7 @@ Layo paused. "I <em>was</em> joking, but that's honestly the first thing I think
 
 "– just don't put up with people's you-know-what, I know. If that doesn't count, hmm..."
 
-"Hasn't there been any time I've come to you just stewing about something?"
+"Hasn't there been anything where I've come to you afterwards just stewing about something?"
 
 "If you have, I'm not sure I can tell the difference? There's been a few times when I <em>thought</em> you were upset for real, but when we –"
 
@@ -298,7 +298,7 @@ I let Yali catch up with me and held her hand again. "So, there was this girl I 
 
 "Wow. How old were you?"
 
-"This was a three years ago. I was like 13. Sure it was illegal and stuff, but whatever. That got me enough money to keep paying for 'dates'. Until… ugh, I feel really stupid about this next part."
+"This was like three years ago. I was like 13. Sure it was illegal and stuff, but whatever. That got me enough money to keep paying for 'dates'. Until… ugh, I feel really stupid about this next part."
 
 "It's okay. I won't judge you."
 
