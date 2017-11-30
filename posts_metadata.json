@@ -476,9 +476,11 @@
   "remembered_contents": "3cd16d68b0b02388911b17dc727ed6e61f7f551416900353bc0e9c313230a72d5ff1c8cff9f58ebeae09b70bc8c894a2"
  },
  "Empathy and its Tricky Relationship with Goodness": {
-  "date_modified": "2017-11-14",
-  "date_posted": "2017-11-14",
-  "id": "6cd703bd2ad773233e61dbef13aac74"
+  "date_modified": "2017-11-29",
+  "date_posted": "2017-11-29",
+  "deployed": true,
+  "id": "6cd703bd2ad773233e61dbef13aac74",
+  "remembered_contents": "aa267f71055daeef2ca4bcb67dbf0513a0db63aef91f11ae87a944643cff4f6b75dd97bb786167332d81c1781a5e2fbf"
  },
  "First progress!": {
   "date_modified": "2011-06-12",
@@ -1051,11 +1053,11 @@
   "remembered_contents": "9a29fd9c56ce6953fbdb7e640a7bdb8eb3188f8567fccac0fd1bbb45cb132def05e9e2fe4bc55ea0f345b1b39df1727e"
  },
  "Ravelling Wrath, chapter 3": {
-  "date_modified": "2017-11-01",
+  "date_modified": "2017-11-29",
   "date_posted": "2017-10-25",
   "deployed": true,
   "id": "7c33a638a60f2afd716f1d6baa53f0e",
-  "remembered_contents": "9e69975a20a27b155958c9784101baa252c1fbca3eb86a26a93a2830edae0aaddfdb77e1ba038aea41124f7baa3f6b4e"
+  "remembered_contents": "921cc73d7f88c1e5c1b4eb6997a48906be2eeb755b6b433f83e4f0dfec877c897f446ab3babf5271d3ebd5b42582105f"
  },
  "Ravelling Wrath, chapter 3: Discussion": {
   "date_modified": "2017-10-25",
