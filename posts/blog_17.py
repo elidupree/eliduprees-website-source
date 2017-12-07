@@ -164,6 +164,23 @@ Now that I've figured out a better way, I hope to be a good example to unempathe
 
 ''',
 },
+{
+"title": "Projects update 2017-12-06",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I've been doing significantly better this week. I'm nowhere near full energy yet, but I've been able to start getting things done to a certain extent.
+
+In particular, I'm working on music composition software again! It's even technically usable already – I can arrange musical notes on the screen and have it play the music or save it to a file. But it's still very much in "only the author of this incomplete program would understand how to use it" territory. And I haven't quite gotten to using it to write music that I would actually want to share.
+
+I've also been slowly but steadily doing more drawing. Now I have 5 comic pages with complete line drawings. I haven't been able to increase from 10 minutes a day yet, because of one thing and another, but it's still something.
+
+''',
+},
 
 ]
 
