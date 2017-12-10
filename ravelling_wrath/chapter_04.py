@@ -155,13 +155,13 @@ I hadn't thought I was going to do it, but I couldn't resist. "<em>Fuck! You!</e
 
 "You want to be able to do that, right?"
 
-"Well – that just wasn't what I was expecting – okay, I get it –" Slowly, I sat up straight and forced my hands to relax. "Okay," I said uncertainly.
+"Well – that just wasn't what I was expecting – okay, I get it –" Slowly, I sat up straight and forced my hands to relax. "Okay," I said uncertainly. "But, I wasn't exactly angry right then. That all went away when, uh," I carefully kept my voice calm, "when, you know, uh..." My eyes lingered on her hurt arm. I was still feeling pretty weird about the whole <em>hurting-Yali-is-part-of-the-process</em> thing.
 
-Yali took a close look at me. "Are you <em>calm</em>, or are you just acting that way?"
+"And then you were worried instead of angry? It's still a strong emotion. Still worth calming down from." Yali took a close look at me. "Are you <em>calm</em>, or are you just acting that way?"
 
 "We-ell…"
 
-"That's okay. You don't have to get it perfect on the first try. Now, Releasing Game again!"
+"That's okay. You don't have to get it perfect [???? this is the controlling game] on the first try. Now, Releasing Game again!"
 
 "But –"
 
@@ -169,7 +169,10 @@ Yali took a close look at me. "Are you <em>calm</em>, or are you just acting tha
 
 I grabbed a block. "Fuck you, couch! This is all your fault!" Yali snickered.
 
-And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling Game. Calming Game.</em>.
+And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling Game. Calming Game.</em>. 
+[???? this paragraph specify how hard it is]
+
+[????? "I want to know more about how Rinn is calming herself down exactly"; "curious to see the progression"]
 
 ?????
 
