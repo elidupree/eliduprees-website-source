@@ -182,6 +182,24 @@ I've also been slowly but steadily doing more drawing. Now I have 5 comic pages 
 ''',
 },
 
+{
+"title": "Projects update 2017-12-13",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+On the same day I said I was feeling better, I started feeling a bunch worse again. I think there might be a feedback loop where when I start feeling better, I get excited and do a bunch of work, but then I'm not actually up to it and I get burned out again. I don't think this loop is actually <em>bad</em> (like I'm not hurting myself, I just have limited total energy, and I happen to spend it in that pattern). But it does make things sort of unpredictable.
+
+The next day, I started taking tianeptine, an atypical antidepressant. It's definitely been making me feel better, although it's hard to tell yet whether it's treating the underlying problem. I might write sometime about the subtleties of its effects, but I don't have the energy to do that right now, since I already did a bunch of work today.
+
+Specifically, today, I did manage to write another thousand words or so in chapter 4 of <a href="/ravelling-wrath">Ravelling Wrath</a> – the first time I've managed to work on it since November 1. It's up to about 2800 words now!
+
+''',
+},
+
 ]
 
 """
