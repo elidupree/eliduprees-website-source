@@ -169,8 +169,90 @@ I hadn't thought I was going to do it, but I couldn't resist. "<em>Fuck! You!</e
 
 I grabbed a block. "Fuck you, couch! This is all your fault!" Yali snickered.
 
-And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling Game. Calming Game.</em>. 
-[???? this paragraph specify how hard it is]
+And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling Game. Calming Game.</em>. It went on and on, and it was exhausting. The sun had already set when we'd started, and now the night was dragging on later and later. I kept trying to actually calm myself down, but I never felt like I was doing more than just pretending. How was I even supposed to do that? What was I accomplishing here?
+
+Finally, we were both too exhausted to go on. Yali told me I'd done a great job, but I still didn't feel like I'd gotten anything done at all. Worse, when I got up to jog home as usual, it was just too overwhelming to think of. I ended up flopping on Yali's couch that night. I went to sleep feeling weird, almost disoriented.
+
+In the next week or so, we saw a lot of each other. Every time we hung out, we did some more of the "games". I still didn't really get it, but Yali was sure I was making progress, and I had to do <em>something</em>. Even if I wanted to procrastinate it, we were on a clock – the Ravelling was just six weeks away. If I ever spent a week putting it off… Well. It could get us both killed. Nothing like a little fear of death to get me off my ass, haha.
+
+<bigbreak>
+
+At the same time, I was having that dream again. It was hard to remember, but it was like I was walking through the ruins of a gigantic city. And the sun… The sun, always high in the sky, warm and bright, pulsing like a heart. Every pulse filled me with its warmth, melting away all my worries and stress. The more I had that dream, the more I woke up feeling like I was ready for anything.
+
+After having the dream like half a dozen times, I thought of telling Yali about it. I told her all about it. As much as I could, anyway. Even for the parts I remembered, nothing I said could really get across how awesome it was.
+
+"A bright sun that pulses like a heart…" Yali said thoughtfully. Then she cringed.
+
+"Wait, is there something wrong with that!?"
+
+"No, no, it's, it's, it's… I think you might be dreaming of the Blood God's world. Which is fine, I, I, –"
+
+"Oh right, you died there once. I mean, one of the other Farseers died there and you have their –"
+
+"– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. It was like…" she trailed off.
+
+"Like what?"
+
+Yali gave an embarrassed smile. "Like how your face lights up when you see <em>me</em>. Why <em>do</em> you love me so much?"
+
+"Whaaaaaaat?! But there's so much about you to love! Don't tell me you don't –"
+
+"No, no, I, I don't mean I'm insecure about it, I mean, it's obvious that you <em>do</em> love me, but, I just want to understand, how does it <em>work</em>?"
+
+"How am I supposed to know that? I mean, you're like, sexy, and smart, and caring, but like, I don't fall in love with <em>everyone</em> who's sexy and smart and caring, it's just one of those things, you know, –"
+
+"Am I? Sexy, I mean."
+
+"I thought you just said you weren't insecure about stuff!"
+
+"Uh, I'm not. I don't think I'm <em>not</em> sexy, I just didn't think of myself that way. And there's a million things more important than being sexy, and it's subjective anyway. But… I'm sexy to you?"
+
+"Soooooo much! I mean you've got that thing where you, like, whenever you move, you just look so <em>confident</em>, so… <em>solid</em>,
+
+????
+
+ ????? I mean, he's a boy, so I'm not really interested in him romantically, but I definitely think he's hot."
+
+Yali smiled. "Does <em>he</em> know that?"
+
+"Oh yeah, we joke about it all the time. He thinks I'm hot too. Of course, nothing's gonna happen because I'm gay and he's got his <em>thing</em>, but –"
+
+"What thing?"
+
+"He's not gay, he's just decided not to date anyone until he's older. No casual sex, either. I don't get it, but it's his own business."
+
+?????
+
+
+"[???? Going back to a thing...] You think I move confidently? I usually feel slow and clumsy. That reminds me –"
+
+"Well, I mean, actually one of the first times I noticed I was attracted to you was when you were, like, we were in class, and you were just sort of awkwardly getting out of a chair. Gods, I could watch you awkwardly get out of a chair <em>all day</em>."
+
+"That reminds me… You know how you keep wanting to be able to help me somehow?"
+
+"Yeah?"
+
+"Well, I thought of something. Do you… do you know your way around the gym?"
+
+"Well, yeah, I mean, I'd rather just run around outside instead of messing around inside a gym, but I know my way around, yeah."
+
+
+
+"In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily... and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. You know, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. Well… just like we're having you go against the Blood God, I want to go against the Waiting God too. It may not be as dramatic, but I really want to get in better shape."
+
+"I'll totally show you around the gym if that's what you want! I'd be happy to."
+
+Yali still looked sort of downcast. "Will you go with me… more than just once? I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried that people will be judging me because I'm fat. But now it occurs to me that my life is more important than other people judging me. But…"
+
+"Of course I'll go with you! It'd be no big deal, really. Nobody will look at you funny when I'm around, I'll beat them up."
+
+Yali smiled. "Please don't actually beat anyone up for my sake."
+
+"Oh don't worry, no one will mess with us in the first place, so I won't have to." Yali glared at me a little. "Okay, okay, fine, I won't."
+
+"…thanks." Yali sounded subdued, but somehow also extra sincere.
+
+
 
 [????? "I want to know more about how Rinn is calming herself down exactly"; "curious to see the progression"]
 
