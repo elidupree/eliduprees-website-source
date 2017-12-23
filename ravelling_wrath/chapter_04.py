@@ -197,21 +197,17 @@ Yali gave an embarrassed smile. "Like how your face lights up when you see <em>m
 
 "Whaaaaaaat?! But there's so much about you to love! Don't tell me you don't –"
 
-"No, no, I, I don't mean I'm insecure about it, I mean, it's obvious that you <em>do</em> love me, but, I just want to understand, how does it <em>work</em>?"
+"No, no, I, I don't mean I'm insecure about it, I mean, it's obvious that you <em>do</em> love me, but, I just want to understand… what is it <em>about</em> me?"
 
-"How am I supposed to know that? I mean, you're like, sexy, and smart, and caring, but like, I don't fall in love with <em>everyone</em> who's sexy and smart and caring, it's just one of those things, you know, –"
+"How am I supposed to know that? I mean, you're, like, sexy, and smart, and caring, but like, I don't fall in love with <em>everyone</em> who's sexy and smart and caring, it's just one of those things, you know, –"
 
-"Am I? Sexy, I mean."
+"Am I? Sexy, I mean. I –"
 
 "I thought you just said you weren't insecure about stuff!"
 
-"Uh, I'm not. I don't think I'm <em>not</em> sexy, I just didn't think of myself that way. And there's a million things more important than being sexy, and it's subjective anyway. But… I'm sexy to you?"
+"Uh, I'm not. I don't think I'm <em>not</em> sexy, I just didn't think of myself that way. There's a million things more important than being sexy. But what I mean is… since it's subjective anyway… what makes someone sexy to <em>you</em>?"
 
-"Soooooo much! I mean you've got that thing where you, like, whenever you move, you just look so <em>confident</em>, so… <em>solid</em>,
-
-????
-
- ????? I mean, he's a boy, so I'm not really interested in him romantically, but I definitely think he's hot."
+"For me, I think it's like… it's about how you move? Like, whenever someone's got that thing where they move so <em>confidently</em>, like they don't care what anybody thinks, it's like, <em>woah</em>. Even boys! Layo's got it – I mean, he's a boy, so I'm not really interested in him romantically, but I definitely think he's hot."
 
 Yali smiled. "Does <em>he</em> know that?"
 
@@ -221,36 +217,63 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "He's not gay, he's just decided not to date anyone until he's older. No casual sex, either. I don't get it, but it's his own business."
 
-?????
+"Ah… Going back, you think <em>I</em> move confidently? I know it's subjective, but I usually feel slow and clumsy, so, so, wait, that reminds me –"
 
+"Well, I mean, actually one of the first times I noticed I was attracted to you was when you were, like, we were in class, and you were just sort of awkwardly getting out of a chair. Gods, I could watch you awkwardly get out of a chair <em>all day</em>. It's just so, so –" Then I realized I had interrupted Yali, so I shut up. Yali didn't say anything right away. "Er, were you gonna say something?"
 
-"[???? Going back to a thing...] You think I move confidently? I usually feel slow and clumsy. That reminds me –"
-
-"Well, I mean, actually one of the first times I noticed I was attracted to you was when you were, like, we were in class, and you were just sort of awkwardly getting out of a chair. Gods, I could watch you awkwardly get out of a chair <em>all day</em>."
-
-"That reminds me… You know how you keep wanting to be able to help me somehow?"
+"Yes… You know how you keep wanting to be able to help me somehow?"
 
 "Yeah?"
 
 "Well, I thought of something. Do you… do you know your way around the gym?"
 
-"Well, yeah, I mean, I'd rather just run around outside instead of messing around inside a gym, but I know my way around, yeah."
+"Well, yeah, I mean, I'd rather just run around outside instead of messing around inside a gym, but I know my way around, yeah. What about it?"
 
+"In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily... and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the thing I really can't stand is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So I, I, I really want to get in better shape. I guess it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to just do the Waiting God wants, too, I…" Yali trailed off.
 
-
-"In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily... and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. You know, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. Well… just like we're having you go against the Blood God, I want to go against the Waiting God too. It may not be as dramatic, but I really want to get in better shape."
-
-"I'll totally show you around the gym if that's what you want! I'd be happy to."
+I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize, but I didn't know what the sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
 
 Yali still looked sort of downcast. "Will you go with me… more than just once? I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried that people will be judging me because I'm fat. But now it occurs to me that my life is more important than other people judging me. But…"
 
-"Of course I'll go with you! It'd be no big deal, really. Nobody will look at you funny when I'm around, I'll beat them up."
+Now <em>this</em> I could make sense of. "Of course I'll go with you! It'd be no big deal, really. Nobody will look at you funny when I'm around, I'll beat them up."
 
 Yali smiled. "Please don't actually beat anyone up for my sake."
 
 "Oh don't worry, no one will mess with us in the first place, so I won't have to." Yali glared at me a little. "Okay, okay, fine, I won't."
 
 "…thanks." Yali sounded subdued, but somehow also extra sincere.
+
+<bigbreak>
+
+"I still don't feel like I'm <em>doing</em> anything," I said, as we walked home from the gym one day.
+
+"You are, and I greatly appreciate it."
+
+"Eh…"
+
+"What would it take for you to feel like you were doing something?"
+
+"I don't even know!"
+
+Yali had picked out an exercise routine almost immediately. Stern take it, she'd probably looked it all up online before I even got involved. I didn't end up doing much but standing around, keeping her company and spotting for her when she was using the weights. She didn't even want to talk much – she always got quiet when she was concentrating on what she was doing, just methodically going through the motions.
+
+While we walked, I tried to make conversation. "You've been working really hard. Aren't you tired?"
+
+"I am," she said simply. Even now, she was walking along at a steady pace, not showing any sign of fatigue, even though she'd just been on the treadmill for half an hour too.
+
+"You know you don't have to be so stoic about it, right?" I said. "You can be like 'Ow, my aching legs' and then I can be like 'I know right?' and then –"
+
+"Stop," said Yali forcefully. I was surprised into silence. As we walked, I waited for her to explain, but she seemed lost in thought.
+
+Finally, I figured she'd forgotten about it, and began, "Uh, what –"
+
+Yali interrupted before I could even ask my question. When she spoke, she didn't seem that upset from the outside – but compared with her normal, she was practically <em>radiating</em> discomfort. "I know I'm not, not, not <em>good</em> at expressing myself when I'm, I'm, when something hurts. But just… <em>don't</em>. It's, it's easier this way."
+
+I had loads of questions, but I could tell it wasn't the right time for them. "It's okay, it's okay, I can respect that. Contrary to popular belief, I <em>sometimes</em> know when to shut up."
+
+<bigbreak>
+
+
 
 
 
