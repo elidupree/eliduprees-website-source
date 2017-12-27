@@ -273,6 +273,17 @@ I had loads of questions, but I could tell it wasn't the right time for them. "I
 
 <bigbreak>
 
+"Expressing Game," said Yali.
+
+We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. ?????? long paragraph
+
+"Ugh, the Expressing Game is the hardest," I said.
+
+"Oh?"
+
+"I mean, the more I yell about it, the more I want to <em>do</em> something, you know? ?????
+
+"Good to know. I thought letting you yell about it would give you an outlet, but I guess it doesn't work that way."
 
 
 
@@ -281,14 +292,7 @@ I had loads of questions, but I could tell it wasn't the right time for them. "I
 
 ?????
 
-"The Expressing Game is the hardest," I said one day.
-
-"Oh?"
-
-"I mean, the more I yell about it, the more I want to <em>do</em> something, you know? ?????
-
-"Good to know. I thought letting you yell about it would give you an outlet, but I guess it doesn't work that way."
-
+ I said one day.
 
 
 ''',
