@@ -200,6 +200,24 @@ Specifically, today, I did manage to write another thousand words or so in chapt
 ''',
 },
 
+{
+"title": "Projects update 2017-12-27",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I'm feeling much better!
+
+This Sunday, my brain decided to get interested in <a href="https://github.com/elidupree/time-steward">TimeSteward</a> again. That's a huge project, so I didn't think I'd be up to it, but then it turned out I was! I've been working on it since then. I still have to be careful not to overdo it, but I've also been succeeding at being careful, so overall this is looking like a great success.
+
+I've also been intermittently working on Chapter 4 of <a href="/ravelling-wrath">Ravelling Wrath</a> (up to 3400 words) and my comics (up to 6 completed line drawings).
+
+''',
+},
+
 ]
 
 """
