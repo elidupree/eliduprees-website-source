@@ -216,6 +216,18 @@ This Sunday, my brain decided to get interested in <a href="https://github.com/e
 I've also been intermittently working on Chapter 4 of <a href="/ravelling-wrath">Ravelling Wrath</a> (up to 3400 words) and my comics (up to 6 completed line drawings).
 
 ''',
+},{
+"title": "Projects update 2018-01-03",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+My energy levels have been up and down a lot in the last week. On average, they've been significantly more "up" than they have been in a while, and I've continued getting stuff done on <a href="https://github.com/elidupree/time-steward">TimeSteward</a>. On the other hand, I don't really have control over which days I'll be productive and which days I won't. I've also tried to channel the energy into other projects, but it's just not working yet. I'm hoping that these things will improve over the next few weeks.
+
+''',
 },
 
 ]
