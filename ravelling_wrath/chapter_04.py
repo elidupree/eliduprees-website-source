@@ -275,7 +275,7 @@ I had loads of questions, but I could tell it wasn't the right time for them. "I
 
 "Expressing Game," said Yali.
 
-We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. ?????? long paragraph
+We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. ?????? long paragraph; how long until ravelling (2/3?)
 
 "Ugh, the Expressing Game is the hardest," I said.
 
@@ -283,7 +283,23 @@ We were hanging out at Yali's house, running through the "games" again for the u
 
 "I mean, the more I yell about it, the more I want to <em>do</em> something, you know? ?????
 
-"Good to know. I thought letting you yell about it would give you an outlet, but I guess it doesn't work that way."
+"Good to know. I thought letting you yell about it would give you an outlet, but I guess it doesn't work that way." ????? thought about; bigger challenge
+
+???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
+
+????
+
+???? wheres layo; pei annoyance; rinns gone crazy
+
+????
+
+???? what the fuck is this
+
+????
+
+???? day before rav??:: yeah lets have fun isntead; yali strong; sex thing; irresp. stories; go home; rinn angry at home
+
+???? leave parents; meet up, hoodies, journey; it all doesn't feel real; it begins
 
 
 
