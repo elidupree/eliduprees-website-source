@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python2
 
 import re
 import errors
@@ -60,7 +60,6 @@ def ajax_func():
   import random
   import datetime
   import urllib
-  import urllib2
   import secrets
 
   if os.environ["REQUEST_METHOD"] != "POST":
