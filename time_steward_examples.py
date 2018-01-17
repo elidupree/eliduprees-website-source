@@ -13,6 +13,25 @@ def add_pages(page_dict):
   add_page (page_dict, "simple-diffusion", "Simple diffusion", '''<p>Simple diffusion example for <a href="https://github.com/elidupree/time-steward">TimeSteward</a>. Click anywhere to add some ink. (Known bug: Clicks land in the wrong place if you scroll the page.)</p>''')
   add_page (page_dict, "quadtree-diffusion", "Quadtree diffusion", '''<p>Quadtree diffusion example for <a href="https://github.com/elidupree/time-steward">TimeSteward</a>. Click anywhere to add some ink. (Known bug: Clicks land in the wrong place if you scroll the page.)</p>''')
   
+  utils.make_page (page_dict,
+    '/games/rustweb-test-game',
+      "Rustweb test game ⊂ Eli Dupree's website",
+      r'''
+      <style>
+      html,body {background-color: white;}
+      p {text-align: center; font-size: 110%; max-width: 50em; margin: 0.9em auto;}
+      </style>
+      ''',
+      '''<a class="skip" href="#content">Skip to content</a>
+      '''+bars.bars_wrap({"games":True}, '''
+  <main>
+  </main>
+'''), {"blurb": blurb, "blurb_image": blurb_image, "after_body":'''
+    <script type='text/javascript' src="/media/rustweb-test-game.js?rr"></script>
+  '''}
+  )
+
+  
 def add_page(page_dict, hyphenated_name, human_name, description):
   utils.make_page (page_dict,
     '/time-steward-examples/' + hyphenated_name,
