@@ -26,7 +26,7 @@ def add_pages(page_dict):
       '''+bars.bars_wrap({"games":True}, '''
   <main>
   </main>
-'''), {"blurb": blurb, "blurb_image": blurb_image, "after_body":'''
+'''), {"blurb": "A prototype web game built using Rust, stdweb/cargo-web, and TimeSteward.", "after_body":'''
     <script type='text/javascript' src="/media/rustweb-test-game.js?rr"></script>
   '''}
   )
