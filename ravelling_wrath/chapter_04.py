@@ -275,15 +275,41 @@ I had loads of questions, but I could tell it wasn't the right time for them. "I
 
 "Expressing Game," said Yali.
 
-We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. I could pretty much do what she wanted for most of them – whenever she said "releasing game" now, I could sort of <em>turn back on</em> the anger from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever she wanted me to do with it. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Yali seemed to think I would get there eventually, but number one, <em>how the fuck?</em>, and number two, how much time did she think we had? It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling. We'd used up half our time, and I didn't feel halfway prepared.
+We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. I could pretty much do what she wanted for most of them – whenever she said "releasing game" now, I could sort of <em>turn back on</em> the anger from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever she wanted me to do with it. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Even when we officially stopped doing the games, I was always tired and irritable afterwards. Yali seemed to think I would get there eventually, but number one, <em>how the fuck?</em>, and number two, how much time did she think we had? It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling. We'd used up half our time, and I didn't feel halfway prepared.
 
-And now we were sitting here, doing the same thing that didn't work last time. "Ugh, the Expressing Game is the hardest," I complained.
+And now we were sitting here, doing the same thing that hadn't worked for the last hour. Or maybe it hadn't even been an hour. Whatever. "Ugh, the Expressing Game is the hardest," I complained.
 
 "Oh? I thought letting you yell about things would give you an outlet."
 
 "Yeah, but, I mean, the more I yell, the more I want to <em>do</em> something, you know? It's just so, <em>argh</em> – " I made a fist to demonstrate. "At least with the Controlling Game I can just <em>not</em> do anything…"
 
-"Good to know..." Yali was lost in thought for a while. "????? thought about; bigger challenge
+"Good to know..." Yali was lost in thought for a while. "????? thought about; bigger challenge "Yell at me as bitterly as you can, but don't move at <em>all</em>. And, and, keep your hands open on the table."
+
+"Oh, fuck you!"
+
+"Yeah, but with your hands open."
+
+I did what she said. Every time I yelled, it sent a wave through my body, making my hands want to clench, my body want to lean forward, jump up from the chair, anything. But I had to hold myself back. It was torture. Each word just exploded out of my mouth, leaving a lump of pain that piled up with all the others. If only I could just stop. Why did I keep making myself do this?
+
+"Controlling Game," Yali said finally. I slumped back in the chair as relief flooded through me. I didn't even think about what I was supposed to do next, I was just glad it was over. After a little while, Yali continued, "Calming Game."
+
+"Yeah, yeah, I did it," I said dully. I'm not angry anymore."
+
+"Actually?" Yali perked up. She was excited about this. I wasn't. I just felt drained. I mean, it was good, I guess. The anger was actually gone. It's just that I'd been hoping to have some big epiphany or something. Not just this.
+
+"Yeah," I said.
+
+"Tell me more. What did it feel like?"
+
+Explaining it to her just seemed like way too much. "Can we call it a day?" I said.
+
+"Are you sure?"
+
+"...yeah, I'm sure." It felt weird to myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it.
+
+Andy only just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. So we said our goodbyes and I went home early.
+
+
 
 ???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
 
