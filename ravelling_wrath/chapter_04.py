@@ -275,15 +275,15 @@ I had loads of questions, but I could tell it wasn't the right time for them. "I
 
 "Expressing Game," said Yali.
 
-We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. ?????? long paragraph; how long until ravelling (2/3?)
+We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. I could pretty much do what she wanted for most of them – whenever she said "releasing game" now, I could sort of <em>turn back on</em> the anger from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever she wanted me to do with it. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Yali seemed to think I would get there eventually, but number one, <em>how the fuck?</em>, and number two, how much time did she think we had? It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling. We'd used up half our time, and I didn't feel halfway prepared.
 
-"Ugh, the Expressing Game is the hardest," I said.
+And now we were sitting here, doing the same thing that didn't work last time. "Ugh, the Expressing Game is the hardest," I complained.
 
-"Oh?"
+"Oh? I thought letting you yell about things would give you an outlet."
 
-"I mean, the more I yell about it, the more I want to <em>do</em> something, you know? ?????
+"Yeah, but, I mean, the more I yell, the more I want to <em>do</em> something, you know? It's just so, <em>argh</em> – " I made a fist to demonstrate. "At least with the Controlling Game I can just <em>not</em> do anything…"
 
-"Good to know. I thought letting you yell about it would give you an outlet, but I guess it doesn't work that way." ????? thought about; bigger challenge
+"Good to know..." Yali was lost in thought for a while. "????? thought about; bigger challenge
 
 ???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
 
