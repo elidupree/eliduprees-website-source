@@ -245,6 +245,24 @@ In the last few days, I've been feeling a lot better. Surprisingly normal, in a 
 ''',
 },
 
+{
+"title": "Projects update 2018-01-17",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+A few days ago, I got nostalgic about a couple of old strategy games that I played many years ago. This got me excited about game design again! So I went ahead and made <a href="/games/rustweb-test-game">this simple prototype of a real-time strategy game.</a> There's no actual controls yet (you just watch the game spawn little dots that shoot at each other), but hey.
+
+I'm doing loads better on the mental health side, too! I've been consistently close to a fairly normal level of motivation to do the stuff I want to do. I'm especially hoping to break my long stall on <a href="/ravelling-wrath">Ravelling Wrath</a> – I actually expect to get back to work on it within the next few days.
+
+For the computer programmers among you, the game linked above is written using <a href="https://github.com/elidupree/time-steward">TimeSteward</a>, my game/simulation library. It also has <a href="https://github.com/elidupree/rustweb-test-game">a git repository here</a>, and it uses <a href="https://github.com/koute/stdweb">the Rust stdweb library</a> – it's written mainly in Rust and then compiled to the web, with small bits of JavaScript embedded in the Rust code. This makes it <strong>much</strong> more convenient for me to write games for the web, since it lets me write the main game in Rust (my favorite programming language) without having to make a clunky compatibility layer. Finding a way to do this has been one of my long-term goals. It should help me finally make a bigger collection of games to put on my games page.
+
+''',
+},
+
 ]
 
 """
