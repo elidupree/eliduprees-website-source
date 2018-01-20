@@ -295,19 +295,23 @@ I did what she said. Every time I yelled, it sent a wave through my body, making
 
 "Yeah, yeah, I did it," I said dully. I'm not angry anymore."
 
-"Actually?" Yali perked up. She was excited about this. I wasn't. I just felt drained. I mean, it was good, I guess. The anger was actually gone. It's just that I'd been hoping to have some big epiphany or something. Not just this.
+"Actually?" Yali perked up. She was excited about this. I wasn't. I just felt drained. I mean, it was good, I guess. The anger was actually gone. It's just that I'd been hoping to have some big epiphany or something. Not just this empty feeling.
 
 "Yeah," I said.
 
 "Tell me more. What did it feel like?"
 
-Explaining it to her just seemed like way too much. "Can we call it a day?" I said.
+Explaining it to her just seemed like way too much. ????? "Can we call it a day?" I said.
 
 "Are you sure?"
 
-"...yeah, I'm sure." It felt weird to myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it.
+"...yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
 
-Andy only just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. So we said our goodbyes and I went home early.
+And Yali just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. ????? So we said our goodbyes and I went home early.
+
+<bigbreak>
+
+
 
 
 
