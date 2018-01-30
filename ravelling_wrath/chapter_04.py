@@ -404,11 +404,11 @@ I glared at him. "How did you know it was that important?!? I could've been, I d
 
 ????
 
-The one nice thing about the fourth layer was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all.
+The one nice thing about the fourth layer was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like near the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all. Anyway, it was much nicer than down near my home.
 
 ????
 
-"So," I began. "I – I mean, Yali and me –" I swallowed. This wasn't
+"So," I began. "I – I mean, Yali and me –" I swallowed. This wasn't going how I wanted it to.
 
 ????
 
