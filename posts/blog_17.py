@@ -263,6 +263,55 @@ For the computer programmers among you, the game linked above is written using <
 ''',
 },
 
+{
+"title": "Game balance: specialized and unspecialized abilities",
+"tags": ["game design"],
+"auto_paragraphs": True,
+"blurb": "",
+"contents":'''
+
+In Hearthstone, there's a card called <strong>Auchenai Soulpriest</strong>. It turns all your healing spells into damage spells. It also has a 3/5 body, and it costs 4 mana. (If you don't know Hearthstone, that's okay – for this post, all you need to know is that bigger numbers are better, and spending more mana is worse.)
+
+Auchenai Soulpriest is a well-balanced card.
+
+But there's another card, <strong>Embrace the Shadow</strong>, that does exactly the same thing, except that it costs 2 mana, only lasts one turn, and doesn't have a body at all. So when you play Auchenai Soulpriest, it's like you're playing Embrace the Shadow and also paying 2 extra mana for a 3/5 body (and a chance for the effect to last longer). Adding a 3/5 for 2 mana is normally an outrageously good deal. You'd normally have to pay 4 mana for that. So it seems like Auchenai Soulpriest was balanced as if Embrace the Shadow was a <strong>zero</strong> mana card. Why?
+
+Here's why: The strongest way to use the "healing becomes damage" effect is to "heal" your opponent a lot at once, killing them in one turn. (And the one-turn kill strategy doesn't care about the 3/5 body, because it's already won the game.) For the one-turn kill strategy, 2 mana is a fair cost to pay for the effect. With any <em>other</em> strategy, 0 mana would be a fair cost.
+
+<h2>Specialized and unspecialized value</h2>
+
+I'm going to define some terms here. 2 mana is the <strong>specialized value</strong> of the "healing becomes damage" effect, and 0 mana is the <strong>generic value</strong> of the effect. The <strong>specialized value</strong> is the value assuming that you've designed the rest of your strategy to take advantage of it. The <strong>generic value</strong> is the value if you just throw it into a random strategy.
+
+(Technically, there's actually a 2-dimensional graph here, to represent the value depending on how <em>much</em> you specialize the rest of your strategy.)
+
+The specialized value is <em>always</em> greater than the generic value, by definition. (If it doesn't get stronger, you didn't actually specialize around it.) But cards can differ in how <em>big</em> the difference is. In the absolute worst case (a deck with <em>no</em> healing), Auchenai Soulpriest is still a 4 mana 3/5, which is mediocre but usable. But Embrace the Shadow does literally nothing. Thus, Embrace the Shadow is a much more <strong>specialized card</strong>. It has a steeper graph.
+
+And a body with no abilities is a supremely <strong>generic</strong> effect – it is moderately helpful for almost any strategy. When you combine the two of them, you get a card that's somewhere in the middle.
+
+Why would you want to do that? Well…
+
+<h2>The purpose of game balance</h2>
+
+What's the purpose of game balance?
+
+
+
+?????
+
+<strong>To maximize the number of meaningfully distinct strategies per game designer labor.</strong>
+
+Both Hearthstone and EoHS are games where the player can choose how to combine different game abilities. In Hearthstone, you choose 30 cards to put in your deck. In EoHS, you can spend 11 skill points on skills of your choice. As a game designer, letting the player recombine abilities can be a big bonus. That way, you only have to design a fixed number of abilities, but the number of strategies will be vastly bigger, because every combination of different abilities as a different strategy. It lets you get much more than "1 designer labor = 1 strategy".
+
+Well… ideally.
+
+In a competitive game, if your strategy is too weak, you always lose against opponents who use good strategies. So it fails to be <strong>meaningfully distinct</strong> from every other strategy that also always loses. The same thing can happen in a difficult single-player game, where only a narrow range of strategies can win. On the other hand, in a sandbox game, the player can do any different thing they want without the risk of losing. Sandbox games are easy to balance, because they can have lots of variety and don't have to worry about power levels. The tricky thing for a designer is to make a game that has both variety <em>and</em> a challenge.
+
+Let's say you're the game designer for Embrace the Shadow. If you make Embrace the Shadow cost <em>less</em> than 2, the one-turn kill strategy will be too powerful. But if you make it cost 2, no one will ever play it <em>except</em> in the one-turn kill strategy. And that's not exactly what you want. Because in that case, your <em>entire</em> labor in creating Embrace the Shadow can only be used by <em>one</em> strategy. And then you're right back to "1 designer labor = 1 strategy".
+
+
+''',
+},
+
 ]
 
 """
