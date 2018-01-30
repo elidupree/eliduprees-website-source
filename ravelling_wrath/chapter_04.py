@@ -311,8 +311,106 @@ And Yali just accepted it, of course. We tried to find something fun to do inste
 
 <bigbreak>
 
+There I was, leaning on the wall after school, staring at my phone. At an unanswered text from Yali.
 
+Ugh, this wasn't supposed to happen! <em>Other</em> people spent ages worrying what to text to their girlfriends. Not me!
 
+It wasn't even anything weird, just normal making plans. But whenever I thought of talking to her, it just came back, that <em>exhaustion</em> from the Expressing Game. I just <em>couldn't</em> see her today. But I wanted to see her! I loved her so much, it would just be stupid if I missed a chance to get together! Plus, if I didn't answer the text, that would make me an asshole! If I wasn't going to see her today, I should just <em>tell</em> her instead of ????. No, there's no way I would just <em>not</em> want to see her!
+
+Ugh, I needed to talk to someone about this. But who? Yali was the only one who knew how to help me with my feelings! But I couldn't ask her for help <em>again!</em> she was already helping me so much!
+
+As soon as I thought that, I practically <em>heard</em> Yali's voice echoing in my head, saying "It's okay, the <em>point</em> is for me to help you." Okay, fine, that was probably what I <em>should</em> do, but fuck that! Couldn't I just chicken out of something once in a while? No way, I was Rinn Akatura, I never chickened out of anything! I –
+
+Fuck!
+
+If only there was someone else I could trust…
+
+Then it hit me. "Trust… Layo," she'd said.
+
+Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get help from Yali, I was still getting help from Yali to do it. Well, never mind that, there was no time to waste. I took off running.
+
+A few minutes later, I had another problem: Where the fuck was Layo?
+
+?????
+
+"I don't know," said Dehel.
+
+"I do!" said Pèi cheerfully.
+
+"You gonna tell me?" I snapped.
+
+"Maybe…" she teased.
+
+"I'm not in the mood for fucking games right now!" I got right up in her face. "If you weren't my friend, I'd smack you right now!"
+
+She came back sarcastically, "Oh no, I'm <em>so</em> scared."
+
+I stared at her.
+
+On any other day, it would've gone on like this for a while. I would've kept getting madder, and Pèi would've kept finding more ways to be a smartass. Until she finally decided it would be funnier to tell me the answer than to keep going. But today… I could see it all coming, and I just thought, <em>why?</em>
+
+What I'd been doing with Yali was practically a ritual now. <em>Calming Game</em>, I said to myself automatically. "Never mind, I'll be fine either way," I said out loud. But hey, the other part was automatic too. <em>Releasing Game</em>. "You fucking asshole, I could just smash your face in!" <em>Calming Game</em>. "Nah, I'm cool, I'm cool…"
+
+"Uh, I think Rinn's gone crazy," said Pèi.
+
+"We all knew it would happen eventually," said Dehel sagely.
+
+I stared at them both for a moment, then doubled over laughing.
+
+What did it even mean anymore? If I could just… <em>be calm</em>, or <em>be angry</em>, just because I said so? Which one of them was real? Or maybe neither of them was real! I couldn't stop laughing. It was all so <em>un</em>real.
+ 
+Maybe I shouldn't have laughed so much right after running all over the place, because I was already out of breath, and then suddenly I choked and started coughing my lungs out.
+
+"You need some help there?" said Pèi awkwardly.
+
+I caught my breath. "Nah, I'm good, this is the best, you're all the best." I grabbed both of them and hugged them. "I love you all."
+
+Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. In case that matters."
+
+"Yeah, thanks, you're the best."
+
+?????
+
+"Hey Layo!!"
+
+Layo didn't look up from his painting. "Hey Rinn. Stay three meters away from me at all times," he said casually.
+
+That was fair. I had maybe been too rambunctious (?????) around his paintings in the past.
+
+"Yeah, yeah. But I, ehhhh… I need to talk to you about something. Like, in private."
+
+<em>That</em> got his attention. He looked up at me, then did a double take, then quickly put down his brush and stood up.
+
+The girl next to him looked up from her work. "Yo, I'm not cleaning your shit up if you leave," she said.
+
+"I can owe you a huge favor. It's important," said Layo, glancing pointedly at me.
+
+The girl sized us both up, then seemed to give in. "…I'm coming for that favor tho."
+
+"Thank you ever so much!" Layo shot over his shoulder as he hurried out the door with me.
+
+????
+
+I glared at him. "How did you know it was that important?!? I could've been, I dunno, planning a surprise party or something! Then you'd be out a huge favor for nothing!"
+
+"I <em>know</em> you. You've had something on your mind for a while."
+????
+
+"Are you fucking kidding me?!!! How does everyone know everything about me before I do?!"
+
+"Er – I didn't mean – if you'd rather – "
+
+"Nah, you're fine, let's go to the park obviously." I grabbed his hand and dragged him along with me.
+
+????
+
+The one nice thing about the fourth layer was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all.
+
+????
+
+"So," I began. "I – I mean, Yali and me –" I swallowed. This wasn't
+
+????
 
 
 ???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
