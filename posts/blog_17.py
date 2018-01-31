@@ -267,10 +267,12 @@ For the computer programmers among you, the game linked above is written using <
 "title": "Game balance: Specialized and unspecialized abilities",
 "tags": ["game design"],
 "auto_paragraphs": True,
-"blurb": "",
+"blurb": "What's the purpose of game balance? People often assume it's to make all cards/skills/whatever equally powerful. But that would be easy – just make them all the same. So we need...",
 "contents":'''
 
-In Hearthstone, there's a card called <strong>Auchenai Soulpriest</strong>. It turns all your healing spells into damage spells. It also has a 3/5 body, and it costs 4 mana. (If you don't know Hearthstone, that's okay – for this post, all you need to know is that bigger numbers are better, and spending more mana is worse.)
+<p>(This is a post about game design. It's generally targeted at game designers, although players may also be interested. It assumes some knowledge of common computer game genres.)</p>
+
+In Hearthstone, there's a card called <strong>Auchenai Soulpriest</strong>. It turns all your healing spells into damage spells. It also has a 3/5 body, and it costs 4 mana. (If you don't know Hearthstone, that's okay – for this post, all you need to know is that it's a game where you choose what cards to put in your deck, bigger numbers are better, and spending more mana is worse.)
 
 Auchenai Soulpriest is a well-balanced card.
 
@@ -278,7 +280,7 @@ But there's another card, <strong>Embrace the Shadow</strong>, that does exactly
 
 <h2>Specialized and unspecialized value</h2>
 
-Here's why: The strongest way to use the "healing becomes damage" effect is to "heal" your opponent a lot at once, killing them in one turn. (And the one-turn kill strategy doesn't care about the 3/5 body, because it's already won the game.) For the one-turn kill strategy, 2 mana is a fair cost to pay for the effect. With any <em>other</em> strategy, 0 mana would be a fair cost.
+Here's why: The strongest way to <cut>use the "healing becomes damage" effect is to "heal" your opponent a lot at once, killing them in one turn. (And the one-turn kill strategy doesn't care about the 3/5 body, because it's already won the game.) For the one-turn kill strategy, 2 mana is a fair cost to pay for the effect. With any <em>other</em> strategy, 0 mana would be a fair cost.
 
 I'm going to define some terms here. 2 mana is the <strong>specialized value</strong> of the "healing becomes damage" effect, and 0 mana is the <strong>generic value</strong> of the effect. The <strong>specialized value</strong> is the value assuming that you've designed the rest of your strategy to take advantage of it. The <strong>generic value</strong> is the value if you just throw it into a random strategy.
 
@@ -320,7 +322,7 @@ Well… ideally.
 
 Let's go back to the example of Embrace the Shadow. Because it's so specialized, no one will play it <em>except</em> in the one-turn kill strategy. And in that case, your <em>entire</em> labor in creating Embrace the Shadow can only be used by <em>one</em> strategy. And then you're right back to "1 labor = 1 strategy".
 
-This is the problem with overspecialized abilities. A lot of people assume that the solution to an overpowered ability is to make it weaker. But then you get less reward for your labor. If you just make Embrace the Shadow expensive enough to be fair, you only give the player of the fun of the specialized strategy, not the fun of every other clever little way that ability could be used if it was more efficient. <strong>An ability like this can't be balanced by adjusting its power level</strong>, unless you're content to give it a narrow range of uses.
+This is the problem with overspecialized abilities. A lot of people assume that the solution to an overpowered ability is to make it weaker. But then you get less reward for your labor. If you just make Embrace the Shadow expensive enough to be fair, you only give the player the fun of the specialized strategy, not the fun of every other clever little way that ability could be used if it was more efficient. <strong>An ability like this can't be balanced by adjusting its power level</strong>, unless you're content to give it a narrow range of uses.
 
 Sometimes, there's a reason to make an ability narrow on purpose. For instance, if it's supposed to be rare for thematic reasons, then making it narrow can help support the theme. But most of the time, it's better for the abilities to be more flexible. And in that case, when an ability is too specialized and can't be flexible without being overpowered, I call it can <strong>unbalanceable ability</strong>. It has to be changed, not just strengthened or weakened.
 
@@ -330,7 +332,7 @@ Of course, you can't measure an ability's power or specialization in a vacuum. T
 
 In EoHS, two of the abilities you can buy are called <strong>Battlemage</strong> and <strong>Scribe</strong>. Battlemage makes your damage spells do 50% more damage. Scribe lets you store your spells in magic scrolls to be used later.
 
-I had a problem: Battlemage was a fair bonus <em>by itself</em>. 50% is a huge boost, but it's okay because you can't use damage spells all the time. (You spend a lot of time moving around when you're too far away from the enemy to use them, while other spells, like summoning monsters, can be used anywhere.) However, with Scribe, you could get the boost every turn by storing a damage spell in a scroll every turn, then using them all at once when you met the enemy. Battlemage+Scribe was a very powerful strategy and won a lot of games in a way that wasn't fun for the opponent.
+I had a problem: Battlemage was a fair bonus <em>by itself</em>. 50% is a huge boost, but it's okay because you can't use damage spells all the time. (You spend a lot of time moving around when you're too far away from the enemy to use them, while other spells, like summoning monsters, can be used anywhere.) However, with Scribe, you could get the boost every turn by storing a damage spell in a scroll every turn, then using them all at once when you met the enemy. Battlemage+Scribe was a very powerful strategy, and it won a lot of games in a way that wasn't fun for the opponent.
 
 So what did I do? I <em>could</em> have reduced the Battlemage bonus, but then Battlemage would have been too weak to use by itself. It would only be used with Scribe, making them an obligatory pairing (and not even a thematic one!). As-is, Battlemage was an <strong>unbalanceable ability</strong>. So instead, I made the Battlemage bonus only apply to spells you cast directly, not ones you stored in scrolls. That way, both Battlemage and Scribe could be strong individually, without breaking the game when used together.
 
@@ -361,7 +363,7 @@ All games make <em>some</em> trade-off like this. The role of the game designer 
 
 <ul class="big_list">
 <li>Remember your goals for each in-game ability you create. How do you want players to be able to use it? What will be the most fun?</li>
-<li>To make a cool ability work, you may need to constrain what other abilities can exist. Make purposeful decisions about what constraints you are okay with.</li>
+<li>To make a cool ability work, you may need to constrain what kinds of other abilities can exist. Make purposeful decisions about what constraints you are okay with.</li>
 <li>If it's too hard to make a specialized ability compatible with other abilities, consider grouping it with a more generic ability.</li>
 <li>"Game balance" is the process of making all the abilities play nicely together.</li>
 </ul>
