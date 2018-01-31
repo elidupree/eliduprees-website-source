@@ -27,6 +27,10 @@ def add_pages(page_dict):
   <main>
   </main>
 '''), {"blurb": "A prototype web game built using Rust, stdweb/cargo-web, and TimeSteward.", "after_body":'''
+    <script>
+window.Module = window.Module || {};
+Module.TOTAL_MEMORY = 250*1000*1000;
+    </script>
     <script type='text/javascript' src="/media/rustweb-test-game.js?rr"></script>
   '''}
   )
