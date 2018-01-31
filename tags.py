@@ -19,6 +19,7 @@ tags_list = [
   ("writing", auto),
   ("math", "Posts about mathematics"),
   ("programming", "Posts about computer programming"),
+  ("game design", auto),
   ("crass physical reality", auto),
   
   ("story ideas", "Story ideas"),

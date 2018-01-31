@@ -275,15 +275,143 @@ I had loads of questions, but I could tell it wasn't the right time for them. "I
 
 "Expressing Game," said Yali.
 
-We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. ?????? long paragraph; how long until ravelling (2/3?)
+We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. I could pretty much do what she wanted for most of them – whenever she said "releasing game" now, I could sort of <em>turn back on</em> the anger from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever she wanted me to do with it. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Even when we officially stopped doing the games, I was always tired and irritable afterwards. Yali seemed to think I would get there eventually, but number one, <em>how the fuck?</em>, and number two, how much time did she think we had? It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling. We'd used up half our time, and I didn't feel halfway prepared.
 
-"Ugh, the Expressing Game is the hardest," I said.
+And now we were sitting here, doing the same thing that hadn't worked for the last hour. Or maybe it hadn't even been an hour. Whatever. "Ugh, the Expressing Game is the hardest," I complained.
 
-"Oh?"
+"Oh? I thought letting you yell about things would give you an outlet."
 
-"I mean, the more I yell about it, the more I want to <em>do</em> something, you know? ?????
+"Yeah, but, I mean, the more I yell, the more I want to <em>do</em> something, you know? It's just so, <em>argh</em> – " I made a fist to demonstrate. "At least with the Controlling Game I can just <em>not</em> do anything…"
 
-"Good to know. I thought letting you yell about it would give you an outlet, but I guess it doesn't work that way." ????? thought about; bigger challenge
+"Good to know..." Yali was lost in thought for a while. "????? thought about; bigger challenge "Yell at me as bitterly as you can, but don't move at <em>all</em>. And, and, keep your hands open on the table."
+
+"Oh, fuck you!"
+
+"Yeah, but with your hands open."
+
+I did what she said. Every time I yelled, it sent a wave through my body, making my hands want to clench, my body want to lean forward, jump up from the chair, anything. But I had to hold myself back. It was torture. Each word just exploded out of my mouth, leaving a lump of pain that piled up with all the others. If only I could just stop. Why did I keep making myself do this?
+
+"Controlling Game," Yali said finally. I slumped back in the chair as relief flooded through me. I didn't even think about what I was supposed to do next, I was just glad it was over. After a little while, Yali continued, "Calming Game."
+
+"Yeah, yeah, I did it," I said dully. I'm not angry anymore."
+
+"Actually?" Yali perked up. She was excited about this. I wasn't. I just felt drained. I mean, it was good, I guess. The anger was actually gone. It's just that I'd been hoping to have some big epiphany or something. Not just this empty feeling.
+
+"Yeah," I said.
+
+"Tell me more. What did it feel like?"
+
+Explaining it to her just seemed like way too much. ????? "Can we call it a day?" I said.
+
+"Are you sure?"
+
+"...yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
+
+And Yali just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. ????? So we said our goodbyes and I went home early.
+
+<bigbreak>
+
+There I was, leaning on the wall after school, staring at my phone. At an unanswered text from Yali.
+
+Ugh, this wasn't supposed to happen! <em>Other</em> people spent ages worrying what to text to their girlfriends. Not me!
+
+It wasn't even anything weird, just normal making plans. But whenever I thought of talking to her, it just came back, that <em>exhaustion</em> from the Expressing Game. I just <em>couldn't</em> see her today. But I wanted to see her! I loved her so much, it would just be stupid if I missed a chance to get together! Plus, if I didn't answer the text, that would make me an asshole! If I wasn't going to see her today, I should just <em>tell</em> her instead of ????. No, there's no way I would just <em>not</em> want to see her!
+
+Ugh, I needed to talk to someone about this. But who? Yali was the only one who knew how to help me with my feelings! But I couldn't ask her for help <em>again!</em> she was already helping me so much!
+
+As soon as I thought that, I practically <em>heard</em> Yali's voice echoing in my head, saying "It's okay, the <em>point</em> is for me to help you." Okay, fine, that was probably what I <em>should</em> do, but fuck that! Couldn't I just chicken out of something once in a while? No way, I was Rinn Akatura, I never chickened out of anything! I –
+
+Fuck!
+
+If only there was someone else I could trust…
+
+Then it hit me. "Trust… Layo," she'd said.
+
+Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get help from Yali, I was still getting help from Yali to do it. Well, never mind that, there was no time to waste. I took off running.
+
+A few minutes later, I had another problem: Where the fuck was Layo?
+
+?????
+
+"I don't know," said Dehel.
+
+"I do!" said Pèi cheerfully.
+
+"You gonna tell me?" I snapped.
+
+"Maybe…" she teased.
+
+"I'm not in the mood for fucking games right now!" I got right up in her face. "If you weren't my friend, I'd smack you right now!"
+
+She came back sarcastically, "Oh no, I'm <em>so</em> scared."
+
+I stared at her.
+
+On any other day, it would've gone on like this for a while. I would've kept getting madder, and Pèi would've kept finding more ways to be a smartass. Until she finally decided it would be funnier to tell me the answer than to keep going. But today… I could see it all coming, and I just thought, <em>why?</em>
+
+What I'd been doing with Yali was practically a ritual now. <em>Calming Game</em>, I said to myself automatically. "Never mind, I'll be fine either way," I said out loud. But hey, the other part was automatic too. <em>Releasing Game</em>. "You fucking asshole, I could just smash your face in!" <em>Calming Game</em>. "Nah, I'm cool, I'm cool…"
+
+"Uh, I think Rinn's gone crazy," said Pèi.
+
+"We all knew it would happen eventually," said Dehel sagely.
+
+I stared at them both for a moment, then doubled over laughing.
+
+What did it even mean anymore? If I could just… <em>be calm</em>, or <em>be angry</em>, just because I said so? Which one of them was real? Or maybe neither of them was real! I couldn't stop laughing. It was all so <em>un</em>real.
+ 
+Maybe I shouldn't have laughed so much right after running all over the place, because I was already out of breath, and then suddenly I choked and started coughing my lungs out.
+
+"You need some help there?" said Pèi awkwardly.
+
+I caught my breath. "Nah, I'm good, this is the best, you're all the best." I grabbed both of them and hugged them. "I love you all."
+
+Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. In case that matters."
+
+"Yeah, thanks, you're the best."
+
+?????
+
+"Hey Layo!!"
+
+Layo didn't look up from his painting. "Hey Rinn. Stay three meters away from me at all times," he said casually.
+
+That was fair. I had maybe been too rambunctious (?????) around his paintings in the past.
+
+"Yeah, yeah. But I, ehhhh… I need to talk to you about something. Like, in private."
+
+<em>That</em> got his attention. He looked up at me, then did a double take, then quickly put down his brush and stood up.
+
+The girl next to him looked up from her work. "Yo, I'm not cleaning your shit up if you leave," she said.
+
+"I can owe you a huge favor. It's important," said Layo, glancing pointedly at me.
+
+The girl sized us both up, then seemed to give in. "…I'm coming for that favor tho."
+
+"Thank you ever so much!" Layo shot over his shoulder as he hurried out the door with me.
+
+????
+
+I glared at him. "How did you know it was that important?!? I could've been, I dunno, planning a surprise party or something! Then you'd be out a huge favor for nothing!"
+
+"I <em>know</em> you. You've had something on your mind for a while."
+????
+
+"Are you fucking kidding me?!!! How does everyone know everything about me before I do?!"
+
+"Er – I didn't mean – if you'd rather – "
+
+"Nah, you're fine, let's go to the park obviously." I grabbed his hand and dragged him along with me.
+
+????
+
+The one nice thing about the fourth layer was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like near the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all. Anyway, it was much nicer than down near my home.
+
+????
+
+"So," I began. "I – I mean, Yali and me –" I swallowed. This wasn't going how I wanted it to.
+
+????
+
 
 ???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
 
