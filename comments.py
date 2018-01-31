@@ -1550,5 +1550,19 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"13f5ec156963cea51eb138d30e102fff",
   "date_posted":datetime.date(2017, 12, 3)
 },
+{
+  "parent":"518994d1b7481591436640f49af8bf5",
+  "username":"Kagar",
+  "contents":"""<q>but it allows the enemies to be interesting. If there are many different types of player character, then when you design an enemy, you have to worry about whether the enemy is too difficult against certain types.</q><br/><br/>Can you provide examples of how this happens? I can grasp the idea in abstract, but I can't actually think of any interesting enemies that have come from this or that could come from this.""",
+  "id":"1adff7a07f4b1e9f2a34f955171cb613",
+  "date_posted":datetime.date(2018, 1, 31)
+}, 
+{
+  "parent":"1adff7a07f4b1e9f2a34f955171cb613",
+  "username":"Eli Dupree",
+  "contents":"""Here's a concrete example! Think of any game where there's an enemy that immune to magic. You have to use only your non-magical abilities/characters to defeat it, which is a different challenge than usual. But if the game wants to let you build a character who <em>only</em> has magical attacks, then the magic-immune enemy is unfair and can't be included.<br/><br/>On the flip side, you also can't build a challenge that is too easy for certain types – like if only certain characters can teleport, a mission about getting one character from point A to point B is unbalanceable unless you make an exception to the teleport ability.<br/><br/>Other examples of the same principle:<br/>– bosses in top-scrolling shooters can assume that you always shoot upwards<br/>– combat-focused games don't have to support stealth/pacifist runs<br/>– if you can never fly, not every encounter has to include enemies capable of attacking fliers""",
+  "id":"343c91a0ee4166758a20e1489751c26",
+  "date_posted":datetime.date(2018, 1, 31)
+},
 
 ]

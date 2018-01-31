@@ -492,7 +492,9 @@
  "Game balance: Specialized and unspecialized abilities": {
   "date_modified": "2018-01-31",
   "date_posted": "2018-01-31",
-  "id": "518994d1b7481591436640f49af8bf5"
+  "deployed": true,
+  "id": "518994d1b7481591436640f49af8bf5",
+  "remembered_contents": "8a874c9ac3adee8aa9e35526f5fc86a73914f34684619cca47ad65ba01a6530ae8dc0765b26f4cf90d646f1148608253"
  },
  "Game balance: specialized and unspecialized abilities": {
   "date_modified": "2018-01-30",
