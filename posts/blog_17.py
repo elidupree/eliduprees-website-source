@@ -264,7 +264,7 @@ For the computer programmers among you, the game linked above is written using <
 },
 
 {
-"title": "Game balance: specialized and unspecialized abilities",
+"title": "Game balance: Specialized and unspecialized abilities",
 "tags": ["game design"],
 "auto_paragraphs": True,
 "blurb": "",
@@ -276,25 +276,25 @@ Auchenai Soulpriest is a well-balanced card.
 
 But there's another card, <strong>Embrace the Shadow</strong>, that does exactly the same thing, except that it costs 2 mana, only lasts one turn, and doesn't have a body at all. So when you play Auchenai Soulpriest, it's like you're playing Embrace the Shadow and also paying 2 extra mana for a 3/5 body (and a chance for the effect to last longer). Adding a 3/5 for 2 mana is normally an outrageously good deal. You'd normally have to pay 4 mana for that. So it seems like Auchenai Soulpriest was balanced as if Embrace the Shadow was a <strong>zero</strong> mana card. Why?
 
-Here's why: The strongest way to use the "healing becomes damage" effect is to "heal" your opponent a lot at once, killing them in one turn. (And the one-turn kill strategy doesn't care about the 3/5 body, because it's already won the game.) For the one-turn kill strategy, 2 mana is a fair cost to pay for the effect. With any <em>other</em> strategy, 0 mana would be a fair cost.
-
 <h2>Specialized and unspecialized value</h2>
+
+Here's why: The strongest way to use the "healing becomes damage" effect is to "heal" your opponent a lot at once, killing them in one turn. (And the one-turn kill strategy doesn't care about the 3/5 body, because it's already won the game.) For the one-turn kill strategy, 2 mana is a fair cost to pay for the effect. With any <em>other</em> strategy, 0 mana would be a fair cost.
 
 I'm going to define some terms here. 2 mana is the <strong>specialized value</strong> of the "healing becomes damage" effect, and 0 mana is the <strong>generic value</strong> of the effect. The <strong>specialized value</strong> is the value assuming that you've designed the rest of your strategy to take advantage of it. The <strong>generic value</strong> is the value if you just throw it into a random strategy.
 
 <p>(Technically, there's actually a 2-dimensional graph here, to represent the value depending on how <em>much</em> you specialize the rest of your strategy.)</p>
 
-The specialized value is <em>always</em> greater than the generic value, by definition. (If it doesn't get stronger, you didn't actually specialize around it.) But cards can differ in how <em>big</em> the difference is. In the absolute worst case (a deck with <em>no</em> healing), Auchenai Soulpriest is still a 4 mana 3/5, which is mediocre but usable. But Embrace the Shadow does literally nothing. Thus, Embrace the Shadow is a much more <strong>specialized card</strong>. It has a steeper graph.
+The specialized value is <em>always</em> greater than the generic value, by definition. (If the card doesn't get stronger, you didn't actually specialize around it.) But cards can differ in how <em>big</em> the difference is. In the absolute worst case (a deck with <em>no</em> healing), Embrace the Shadow does literally nothing. But Auchenai Soulpriest is still a 4 mana 3/5, which is mediocre but usable. Thus, Embrace the Shadow is a much more <strong>specialized card</strong>. It has a steeper graph. If Embrace the Shadow's value ranges from 0 to 2 based on how specialized your strategy is, Auchenai Soulpriest's value ranges from 3 to 4, which is much less extreme.
 
-Let's say you're the game designer here. If you make Embrace the Shadow cost <em>less</em> than 2, the one-turn kill strategy will be too powerful. But if you make it cost 2, no one will ever play it <em>except</em> in the one-turn kill strategy. And that's usually not what you want. (I'll explain why later in the post.) This is an inherent problem with any card that is too specialized.
+Let's say you're the game designer here. If you make Embrace the Shadow cost <em>less</em> than 2, the one-turn kill strategy will be too powerful. But if you make it cost 2, no one will play it <em>except</em> in the one-turn kill strategy. And that's usually not what you want. (I'll explain why later in the post.) This is an inherent problem with any card that is too specialized.
 
 So what do you do about it?
 
-Well, a body with no abilities is a supremely <strong>generic</strong> effect – it's moderately helpful for almost any strategy. When you combine the two of them, you get a card that's somewhere in the middle. When you want to use it for the specialized part, you have to pay for the whole package. That way, it can afford to have a <strong>high cost</strong>, which it needs in order to keep the specialized strategy balanced, while still being worth the cost in general. If Embrace the Shadow's value ranges from 0 to 2 based on how specialized your strategy is, Auchenai Soulpriest's value ranges from 3 to 4, which is much less extreme.
+Well, a body with no abilities is a supremely <strong>generic</strong> effect – it's moderately helpful for almost any strategy. When you combine it with the specialized effect, you get a card that's somewhere in the middle. When a player wants to use the combined card for the specialized part, they have to pay for the whole package. That way, it can afford to have a <strong>higher cost</strong>, which it needs in order to keep the specialized strategy balanced, while still being worth the cost in general.
 
 I did a similar thing when designing Era of High Sorcery (EoHS), my mod for Battle for Wesnoth. EoHS isn't a card game, but both Hearthstone and EoHS are games where the player can choose how to combine different game abilities. In Hearthstone, you choose 30 cards to put in your deck. In EoHS, you spend 11 skill points on skills of your choice, such as knowledge of specific magic spells.
 
-In EoHS, there's a spell that can temporarily paralyze one enemy. The best use of paralysis is to paralyze the enemy leader so that you can kill them, winning the game. Because that's very powerful, the spell has to cost 20 mana, which is a lot. But for 20 mana, it's totally wasteful to paralyze anything <em>except</em> the enemy leader. If the spell is wasteful in most situations, it's less fun to play with.
+In EoHS, there's a spell that can temporarily paralyze one enemy. The strongest use of paralysis is to paralyze the enemy leader so that you can kill them, winning the game. Because that's very powerful, the spell has to cost 20 mana, which is a lot. But for 20 mana, it's totally wasteful to paralyze anything <em>except</em> the enemy leader. If the spell is wasteful in most situations, it's less fun to play with.
 
 So what did I do about it? I made the spell be <strong>Lightning Bolt</strong>, which also does lots of damage as well as causing paralysis. In EoHS, enemy leaders are immune to spell damage, so the spell can be worth a similar amount either way. On leaders, it's just paralysis, which is worth 20 mana. On other enemies, it's paralysis (worth much less than 20) <em>plus</em> a bunch of damage (worth the rest of the 20). It's <strong>less specialized</strong>, which makes it usable in more situations.
 
@@ -304,21 +304,67 @@ Why is this such a good thing? Well…
 
 What's the purpose of game balance?
 
-People often assume it's to make all cards/skills/whatever equally powerful. But that would be easy – just make them all the same. So we need some understanding of what the player <em>wants</em> from the game that creates the <em>need</em> for balance. And one important thing they want is variety.
+People often assume it's to make all cards/skills/whatever equally powerful. But that would be easy – just make them all the same. So we need some understanding of what the player <em>wants</em> from the game, and how that creates the <em>need</em> for balance. And one important thing they want is variety.
 
-Try this definition on for size: The purpose of game balance is <strong>to maximize the number of meaningfully distinct strategies per design labor.</strong>
+Try this definition on for size: The purpose of game balance is <strong>to maximize the variety of play experiences per labor expended.</strong> We're talking both labor of the game designer (you don't want to spend time developing without adding variety to the game), and labor of the player (who doesn't want to spend time learning extra rules that aren't meaningfully different). This concept doesn't apply to every type of game – but that's what we'd expect, because the idea of <strong>game balance</strong> doesn't apply to every type of game, either.
 
-In a competitive game, if your strategy is too weak, you always lose against opponents who use good strategies. So it fails to be <strong>meaningfully distinct</strong> from every other strategy that also always loses. The same thing can happen in a difficult single-player game, where only a narrow range of strategies can win. On the other hand, in a sandbox game, the player can do any different thing they want without the risk of losing. Sandbox games don't <em>need</em> game balance, because they can have lots of variety and don't have to worry about power levels. The tricky thing for a designer is to make a game that has both variety <em>and</em> a challenge.
+In a competitive game, if your strategy is too weak, you always lose against opponents who use good strategies. So your strategy isn't <strong>meaningfully distinct</strong> from every other strategy that also always loses. The reason we improve weak abilities is to <em>create</em> the fun of playing with them. The reason we weaken overpowered abilities is to create the fun of playing with <em>other</em> strategies.
 
-Now things start to make sense. As a game designer, letting the player recombine abilities can be a big bonus. That way, you only have to design a fixed number of abilities, but the number of strategies will be vastly bigger, because every combination of different abilities as a different strategy. It lets you get much more than "1 design labor = 1 strategy".
+The same thing can happen in a difficult single-player game, where only a narrow range of strategies can win. On the other hand, in a sandbox game, the player can do any different thing they want, and there's no risk of losing. Sandbox games don't <em>need</em> game balance, because they can have lots of variety without worrying about power levels. The place where it gets tricky is when you want to make a game that has both variety <em>and</em> a challenge.
+
+<h2>Recombining abilities</h2>
+
+Now things start to make sense. As a game designer, letting the player recombine abilities can be a big bonus. That way, you only have to design a fixed number of abilities, but the number of strategies will be vastly bigger, because every <em>combination</em> of abilities can be a different strategy. It lets you get much more than "1 labor = 1 strategy". It also lets the player feel like they're inventing new strategies, rather than just carrying out the game-designer's plan.
 
 Well… ideally.
 
-Let's go back to the example of Embrace the Shadow. Because it's so specialized, no one will ever play it <em>except</em> in the one-turn kill strategy. And in that case, your <em>entire</em> labor in creating Embrace the Shadow can only be used by <em>one</em> strategy. And then you're right back to "1 design labor = 1 strategy".
+Let's go back to the example of Embrace the Shadow. Because it's so specialized, no one will play it <em>except</em> in the one-turn kill strategy. And in that case, your <em>entire</em> labor in creating Embrace the Shadow can only be used by <em>one</em> strategy. And then you're right back to "1 labor = 1 strategy".
 
-?????
+This is the problem with overspecialized abilities. A lot of people assume that the solution to an overpowered ability is to make it weaker. But then you get less reward for your labor. If you just make Embrace the Shadow expensive enough to be fair, you only give the player of the fun of the specialized strategy, not the fun of every other clever little way that ability could be used if it was more efficient. <strong>An ability like this can't be balanced by adjusting its power level</strong>, unless you're content to give it a narrow range of uses.
+
+Sometimes, there's a reason to make an ability narrow on purpose. For instance, if it's supposed to be rare for thematic reasons, then making it narrow can help support the theme. But most of the time, it's better for the abilities to be more flexible. And in that case, when an ability is too specialized and can't be flexible without being overpowered, I call it can <strong>unbalanceable ability</strong>. It has to be changed, not just strengthened or weakened.
 
 <h2>An ability's relationship to the game environment</h2>
+
+Of course, you can't measure an ability's power or specialization in a vacuum. They depend on what other abilities are available.
+
+In EoHS, two of the abilities you can buy are called <strong>Battlemage</strong> and <strong>Scribe</strong>. Battlemage makes your damage spells do 50% more damage. Scribe lets you store your spells in magic scrolls to be used later.
+
+I had a problem: Battlemage was a fair bonus <em>by itself</em>. 50% is a huge boost, but it's okay because you can't use damage spells all the time. (You spend a lot of time moving around when you're too far away from the enemy to use them, while other spells, like summoning monsters, can be used anywhere.) However, with Scribe, you could get the boost every turn by storing a damage spell in a scroll every turn, then using them all at once when you met the enemy. Battlemage+Scribe was a very powerful strategy and won a lot of games in a way that wasn't fun for the opponent.
+
+So what did I do? I <em>could</em> have reduced the Battlemage bonus, but then Battlemage would have been too weak to use by itself. It would only be used with Scribe, making them an obligatory pairing (and not even a thematic one!). As-is, Battlemage was an <strong>unbalanceable ability</strong>. So instead, I made the Battlemage bonus only apply to spells you cast directly, not ones you stored in scrolls. That way, both Battlemage and Scribe could be strong individually, without breaking the game when used together.
+
+This particular situation turned out okay. But it's an example of a more general problem. <strong>The more abilities you make, the more combinations there are. And the more combinations there are, the more unexpected ways the players will find to take advantage of them.</strong> Games that have lots of different abilities tend to hit a limit in one of several ways:
+
+<ul class="big_list">
+<li>Most of the abilities are <em>de facto</em> unusable because they're not part of an overpowered combination. (Example: Magic: the Gathering's Legacy format.)</li>
+<li>Most of the abilities are <em>explicitly</em> forbidden to give other abilities a chance to shine. (Example: Dominion, and most games in the rogue-lite genre, where the available abilities are chosen <em>randomly</em>.)</li>
+<li>Most of the abilities are not meaningfully distinct from each other. (Example: any RPG with a zillion different swords that are pretty much the same except with different numbers on them.)</li>
+<li>The abilities can only be recombined in specific, limited ways. (Example: many Angband variants, which have dozens of complex character classes, but you can only play one class at a time, and you and can't use abilities from other classes.)</li>
+</ul>
+
+<h2>Design constraints</h2>
+
+In all those cases except the first, the design obeys some universal <strong>constraints</strong> that allow the abilities to play nicely together.
+
+The RPGs are the simplest example. They have a very narrow constraint: <em>All weapons are pretty much just a number, and the numbers don't go up too fast.</em> This makes the player boring, but it allows the enemies to be interesting. If there are many different types of player character, then when you design an enemy, you have to worry about whether the enemy is too difficult against certain types. But if all players are approximately the same, you don't have to worry about that.
+
+That's a general rule: <strong>the more constraints there are on one thing, the fewer constraints are needed on other things that interact with it</strong>.
+
+In EoHS, Battlemage creates a constraint. As long as Battlemage exists, all damage spells must be awkward to use. If I wanted to make more skills along the lines of Battlemage, each one would put more constraints on what the spells can be like. Conversely, whenever I make a new spell, it potentially rules out some possible skills like Battlemage. So as a designer, I have to make deliberate choices about the relationship between those things. Any time I make a very interesting spell, I have to consider whether it would make something I want to add later unbalancable.
+
+The rogue-lite genre is another interesting case. There, the constraint is "Almost <em>every</em> interesting ability is usually randomly unavailable". With this restriction, having a few overpowered combinations isn't a big problem. (Why? Remember the purpose of game balance. If you <em>usually</em> don't get the overpowered combination, it doesn't make other combinations unplayable.)
+ 
+All games make <em>some</em> trade-off like this. The role of the game designer is to decide <em>which</em> trade-off is best for the goals of the particular game.
+
+<h2>In summary</h2>
+
+<ul class="big_list">
+<li>Remember your goals for each in-game ability you create. How do you want players to be able to use it? What will be the most fun?</li>
+<li>To make a cool ability work, you may need to constrain what other abilities can exist. Make purposeful decisions about what constraints you are okay with.</li>
+<li>If it's too hard to make a specialized ability compatible with other abilities, consider grouping it with a more generic ability.</li>
+<li>"Game balance" is the process of making all the abilities play nicely together.</li>
+</ul>
 
 ''',
 },
