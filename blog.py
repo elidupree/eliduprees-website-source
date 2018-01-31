@@ -191,7 +191,9 @@ div.blog_post_metadata {
   background-color:'''+metacontent_color+'''; }
 
 a.continue_reading {
-  }
+  display: block;
+  text-indent: 2em;
+  padding-bottom: 1.2em; }
 
 h2.comments_title {
   font-size: 200%;
