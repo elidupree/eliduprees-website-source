@@ -1564,5 +1564,19 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"343c91a0ee4166758a20e1489751c26",
   "date_posted":datetime.date(2018, 1, 31)
 },
+{
+  "parent":"c419b19ae6ad31f484034545b1ed68a",
+  "username":"nlspeed",
+  "contents":"""Hello! I would be interested in your 'every sentence is a paradigm shift'-story! Could I possibly read it somewhere?<br/><br/>Thank you in advance! :)""",
+  "id":"c1471ff2c592aa27d445b004169c677a",
+  "date_posted":datetime.date(2018, 2, 1)
+},
+{
+  "parent":"c1471ff2c592aa27d445b004169c677a",
+  "username":"Eli Dupree",
+  "contents":"""It's not currently public. I'll think about it, but I have some weird feelings about my old stories. I might post a collection of them eventually, and if I do, I'll add a link here.""",
+  "id":"57803077d3709579f1a60836914151ac",
+  "date_posted":datetime.date(2018, 2, 1)
+},
 
 ]
