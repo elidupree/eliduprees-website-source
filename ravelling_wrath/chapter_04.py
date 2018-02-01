@@ -408,7 +408,27 @@ The one nice thing about the fourth layer was how it had a lot of green space. Y
 
 ????
 
-"So," I began. "I – I mean, Yali and me –" I swallowed. This wasn't going how I wanted it to.
+"So," I began. "I – I mean, Yali and me –" How was I supposed to explain this? "We – it's a huge mess – I mean, I don't mean between the two of us, we're great, I mean –" I swallowed. This wasn't going how I wanted it to.
+
+"We're just – we're just caught up in something, and we're working, we're both working so hard to make it work out, we're working so hard, but I'm so, I mean, I know we're getting somewhere, what we're doing is important, but I'm just to, <em>so</em> tired. I'm so tired." The words were pouring out of me now.
+
+I put my hand to my face, and it came away with tears.
+
+"What the fuck is this?!?" I exploded. "I didn't cry when – I mean, I didn't cry at the <em>worst</em> part! Why am I crying <em>now?</em>"
+
+"It's okay," murmured Layo. "I'm here. You can cry all you need to." He had put his hands on my shoulders… So soft, so gentle…
+
+"I don't <em>need</em> to cry," I complained. But there was no stopping it now. I sank into him, sobbing uncontrollably.
+
+Slumped in his arms, I felt like all the tension was pouring out of me. Even tension I didn't know I'd had. ????? Layo was my oldest friend, someone I could always just be myself around.
+
+"When did you get so good at this?" I demanded weakly. "Since when do you know how to comfort people?"
+
+Layo patiently rubbed my shoulders… Aaah… "The truth is, I do this for all my friends. It's just different with you. You could say you've always been my one 'fun friend'. We've –"
+
+"I bet I'm fucking it up, aren't I," I moaned. "I'm supposed to be the fun friend and I'm just, I'm fucking it up."
+
+"Not at all! This is the least I can do."
 
 ????
 
