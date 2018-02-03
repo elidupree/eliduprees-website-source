@@ -432,6 +432,52 @@ Layo patiently rubbed my shoulders… Aaah… "The truth is, I do this for all m
 
 ????
 
+<bigbreak>
+
+It wasn't until I was at home in my room, getting ready for bed, that it came back into my mind.
+
+<em>It was a long time ago. It wasn't anyone you know.</em>
+
+Images sprang unwanted into my head. A much younger Yali. A strange man, holding her down. Forcing himself on her. Violating her.
+
+????
+
+I felt like my head would split open. Everything was ????. Disgust. Horror. And finally, rage, uncontrollable rage. I wanted to <em>murder</em> that man. I wanted to feel my fists sink into his flesh, to beat him and beat him until he was a bloody mess on the floor.
+
+I <em>knew</em> there was nothing I could do. I <em>knew</em> it was already over. But the images kept coming back, over and over, as if they were stamped into my head. The man raping Yali. Me brutalizing the man. Every fresh image slammed into me with a crash of pain, of knowing that nothing I could do would change anything.
+
+<em>It was a long time ago. It wasn't anyone you know. They're in prison now.</em>
+
+She'd planned for this. Of <em>course</em> she had. She knew what I'd think – first, <em>who was it?!?</em>, and then, <em>I'll kill them!!!</em>. And she'd known exactly what to say to deny me. With those two short sentences, she'd ripped away everything I was reaching for.
+
+<em>It wasn't anyone you know. They're in prison now.</em>
+
+????
+
+Wait… She'd said "they". Not "he". Was she trying to leave out their gender? Could it have been a woman? Or an enby? Or were there <em>more than one of them?!?</em>
+
+I slammed my fist into the wall, putting a new dent alongside all the old ones. I slammed it again and again, splitting my knuckle on the broken-up wallboard. But the pain didn't end. Gods, what did she want me to do? What the fuck did she want me to do?
+
+Wait. What <em>did</em> she want me to do?
+
+Well. First of all, she wanted me to not bring it up again. I would absolutely do that, she was the victim here, I would do whatever it took to make her feel better. But what would she want me to do with my own feelings? I couldn't just not feel them!
+
+Or could I?
+
+The terrifying thing was, there was already a part of me that was saying, <em>Calming Game</em>. Already a bit of my rage that was fading into doubt. Was it even right? Should I be able to know something like this, and <em>not</em> be blinded by rage? But… that <em>was</em> what she'd want. She'd want me to know that someone raped her, and just <em>not</em> put holes in the wall. Just <em>not</em> murder anyone. Just… keep going on.
+
+The tension left me. I flopped down on my bed. <em>Fuck.</em>
+
+Lying limply on my back, I stared up at the ceiling, letting the cold truth sink into me. Someone had raped Yali, and I knew now, and the only thing I could do was… nothing. I felt empty. Drained. Helpless.
+
+<em>Anger turns helplessness into strength.</em> Bullshit. It hadn't turned my helplessness into anything but pain. ?????
+
+
+???cold realization: parents? how many layers of badass
+
+
+????
+
 
 ???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
 
