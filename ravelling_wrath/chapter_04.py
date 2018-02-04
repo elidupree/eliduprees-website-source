@@ -434,6 +434,74 @@ Layo patiently rubbed my shoulders… Aaah… "The truth is, I do this for all m
 
 <bigbreak>
 
+????
+
+"This is the best I've felt about my body in ages!"
+
+????
+
+"Wait, like, <em>actually</em> fight you?" ?????
+
+?????
+
+"Okay, but I'm warning you, ????? woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard and I didn't catch my balance until I stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
+
+"When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. ????? Charged up/heart pounding ?????
+
+??? Pinned against wall (definitely rinn feelings about that)
+
+???struggle; unfair
+
+"What, because I'm a heavyweight and you're a, a –"
+
+"No no no I didn't mean –"
+
+"Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it." [????? Here or somewhere else: Somehow, she was the most relaxed I'd ever seen her.] "Say, how much do you weigh?"
+
+"Er – I think I was ????? kilos last time I was at the doctor –"
+
+Yali grinned from year to year. "This is great! I'm ?????, I weigh <em>literally</em> twice as much as you!"
+
+"Uh…"
+
+"Ha ha, you'll never beat me! I lift twice your weight every morning before breakfast, ha ha ha ha ha!" She grabbed me around the waist, lifted me into the air, and spun me around.
+
+????
+
+"????? I can't. I'd have to deal with something I'm not ready to deal with yet."
+
+What? What did she mean by that? A million possibilities ran through my head [????? question for reader: what are some first possibilities you think of, and should I have Rinn named them explicitly], but none of them made sense. Was it, like, a medical issue? But Yali always took care of that stuff right away! How could she be "not ready", unless it was, like…
+
+I blurted it out without thinking. "Don't tell me someone raped you!"
+
+Yali paused for a long time. I felt like my stomach was going to flip over. <em>Fuck, what if it's true?! What's she thinking? Oh gods, I shouldn't have said that, I shouldn't have said that …</em>
+
+Finally, she spoke. "If I say yes, will you promise not to bring it up again until I say I'm ready?"
+
+"Of course," I breathed.
+
+"It was a long time ago. It wasn't anyone you know. They're in prison now."
+
+????? "I have so many questions," I said, ?????
+
+"Don't ask them," she said matter-of-factly. "Let's talk about something else." And then: "You're hurting my arms, by the way."
+
+Belatedly, I realized that I'd been holding her forearms in a white-knuckled grip since ?????. With effort, I made my hands unclench. Then I saw the discolored marks my grip had left on her. "Oh fuck, oh gods, I'm so sorry, I didn't mean to –"
+
+"Don't worry about it," she said, massaging her arms carefully. Then she shifted and lay heavily on the bed????? beside me. "Let's talk about something else."
+
+"Uh, what do you want to…" I tried to think of? ?????, but my mind was racing, I couldn't think of anything else.
+
+"How about you tell me more of your irresponsible stories? We never did –"
+
+"Woah, I can't believe we forgot about that! I never even told you about how I broke my leg!"
+
+????? New subject took over my mind mostly, Yali seemed energetic again but could it be really?
+
+
+
+<bigbreak>
+
 It wasn't until I was at home in my room, getting ready for bed, that it came back into my mind.
 
 <em>It was a long time ago. It wasn't anyone you know.</em>
@@ -473,10 +541,11 @@ Lying limply on my back, I stared up at the ceiling, letting the cold truth sink
 <em>Anger turns helplessness into strength.</em> Bullshit. It hadn't turned my helplessness into anything but pain. ?????
 
 
-???cold realization: parents? how many layers of badass
+??? general knowledge of rape; cold realization: parents? how many layers of badass
 
 
 ????
+
 
 
 ???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
