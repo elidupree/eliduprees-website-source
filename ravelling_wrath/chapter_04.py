@@ -460,11 +460,11 @@ Layo patiently rubbed my shoulders… Aaah… "The truth is, I do this for all m
 
 "Er – I think I was ????? kilos last time I was at the doctor –"
 
-Yali grinned from year to year. "This is great! I'm ?????, I weigh <em>literally</em> twice as much as you!"
+Yali grinned from ear to ear. "This is great! I'm ?????, I weigh <em>literally</em> twice as much as you!"
 
 "Uh…"
 
-"Ha ha, you'll never beat me! I lift twice your weight every morning before breakfast, ha ha ha ha ha!" She grabbed me around the waist, lifted me into the air, and spun me around.
+"Ha ha, you'll never beat me! I lift twice your weight every morning before breakfast! Ha ha ha ha ha!" She grabbed me around the waist, lifted me into the air, and spun me around.
 
 ????
 
@@ -495,6 +495,14 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 "How about you tell me more of your irresponsible stories? We never did –"
 
 "Woah, I can't believe we forgot about that! I never even told you about how I broke my leg!"
+
+"Ooh, tell me!" It was weird how quickly Yali started acting excited again. ?????. But I <em>did</em> really want to tell her about this stuff. Maybe it would be enough to distract me.
+
+"So, you know the big tree near the elementary school (?????)? Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
+
+"Oh, the one with the fence around it?"
+
+I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really get a kick out of impressing her. "
 
 ????? New subject took over my mind mostly, Yali seemed energetic again but could it be really?
 
