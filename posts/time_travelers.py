@@ -35,6 +35,10 @@ posts = [
 
     
 contents ='''
+<bigbreak>
+<div style="margin:0.9em; padding: 0.5em; margin-bottom: 1.9em; box-shadow:0.3em 0.3em 1em black;"> Eli's note: This is a fictional book written in a world with many forms of time travel. It gives many suggestions that would be a bad idea in real life, including murdering people and being suspicious of people based on superficial behaviors. Nothing in this book should be taken as guidance for how to behave in real life. </div>
+
+
 <div class="small_print">
 Copyright © 2015, 2016, 2078, 664, 8981 BC, 7474+2i, International Time Travel Defense Research Consortium
 All rights reserved under the Atemporal Copyright Convention.
@@ -42,6 +46,10 @@ Time Travelers and How to Kill Them: a Practical Guide.
 Revision f017f23, based on parent revisions 7eefc88, 0930966, and 5e83d8c.
 A full revision history of this book, including alternate timelines and possible lost versions, is on display at the Time Travel Historical Society in Vancouver.
 </div>
+
+
+
+
 
 <h2>Table of Contents</h2>
 <TOC>
