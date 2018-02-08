@@ -371,6 +371,21 @@ All games make <em>some</em> trade-off like this. The role of the game designer 
 ''',
 },
 
+{
+"title": "Projects update 2018-02-07",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I've been hard at work on <a href="/games/rustweb-test-game">the prototype real-time strategy game that I posted a couple weeks ago.</a> The player still doesn't have any control over the simulation, but there's a bigger map, a lot more game mechanics, a slider to adjust the time speed, and you can use the scroll wheel to zoom.
+
+I've also gotten a lot done on <a href="/ravelling-wrath">Ravelling Wrath</a>. Chapter 4 is now 6500 words, almost double the last time I reported! I expect it to finish at around 8000-8500, like the last 2 chapters. So it's getting there!
+
+''',
+},
 ]
 
 """
