@@ -446,11 +446,11 @@ Layo patiently rubbed my shoulders… Aaah… "The truth is, I do this for all m
 
 "Okay, but I'm warning you, ????? woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard and I didn't catch my balance until I stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
 
-"When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. ????? Charged up/heart pounding ?????
+"When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this... <em>physical.</em> We'd hug and kiss and stuff, but that was gentle, it just wasn't the same. But now… A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
 
-I leapt out to meet her. We collided and grappled our way across the room, bumping into furniture as we went. ????? I stepped back and then lunged at her, trying to get her off balance, but she was as solid as a rock. ???? I made once wrong step and lost my footing. Then it was her turn to take advantage. She surged forward,
+I jumped forward to meet her. We collided and grappled our way across the room, bumping into furniture as we went. She was good at it, too, I couldn't get the advantage of her easily. I stepped back and then lunged at her, trying to get her off balance, but she was as solid as a rock. Not expecting that, I made once wrong step and lost my footing. Then it was her turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
 
-I gasped for breath. Yali was leaning into me, pinning me against the wall with her full weight. Her body rubbed against mine as I tried to squirm away. Oh gods, this was turning me on! I heaved my body left and right, trying to get free, but all I managed to do was squish into her at different angles. She was squashing the air out of my lungs, too, I couldn't even breathe all the way.
+I gasped for breath. Yali was leaning into me, pinning me against the wall with her full weight. Her body rubbed against mine as I tried to squirm away, making my skin explode with feeling. Oh gods, this was turning me on! I heaved my body left and right, trying to get free, but all I managed to do was squish into her at different angles. She was squashing the air out of my lungs, too, I couldn't even breathe all the way.
 
 "No fair," I gasped.
 
@@ -469,6 +469,10 @@ Yali grinned from ear to ear. "This is great! I'm ?????, I weigh <em>literally</
 "Ha ha, you'll never beat me! I lift twice your weight every morning before breakfast! Ha ha ha ha ha!" She grabbed me around the waist, lifted me into the air, and spun me around.
 
 "Aaaaaah ha ha ha ha ha –"
+
+????
+
+"Ya know, usually I fight against people I'm willing to <em>hurt</em>."
 
 ????
 
