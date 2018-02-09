@@ -448,15 +448,17 @@ Layo patiently rubbed my shoulders… Aaah… "The truth is, I do this for all m
 
 "When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. ????? Charged up/heart pounding ?????
 
-??? Pinned against wall (definitely rinn feelings about that)
+I leapt out to meet her. We collided and grappled our way across the room, bumping into furniture as we went. ????? I stepped back and then lunged at her, trying to get her off balance, but she was as solid as a rock. ???? I made once wrong step and lost my footing. Then it was her turn to take advantage. She surged forward,
 
-???struggle; unfair
+I gasped for breath. Yali was leaning into me, pinning me against the wall with her full weight. Her body rubbed against mine as I tried to squirm away. Oh gods, this was turning me on! I heaved my body left and right, trying to get free, but all I managed to do was squish into her at different angles. She was squashing the air out of my lungs, too, I couldn't even breathe all the way.
 
-"What, because I'm a heavyweight and you're a, a –"
+"No fair," I gasped.
+
+My heart was pounding like a jackhammer. I was sandwiched, my back against the wall, my front engulfed by Yali's huge, warm, <em>powerful</em> body. She kept grinding up on me, shifting to a different angles to keep me pinned. In between movements, she managed to grunt a response. "Unfair, what, because I'm a heavyweight and you're a, a –"
 
 "No no no I didn't mean –"
 
-"Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it." [????? Here or somewhere else: Somehow, she was the most relaxed I'd ever seen her.] "Say, how much do you weigh?"
+"Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it." We both paused for a bit to catch our breath. [????? Here or somewhere else: Somehow, she was the most relaxed I'd ever seen her.] "Say, how much do you weigh?"
 
 "Er – I think I was ????? kilos last time I was at the doctor –"
 
@@ -466,11 +468,21 @@ Yali grinned from ear to ear. "This is great! I'm ?????, I weigh <em>literally</
 
 "Ha ha, you'll never beat me! I lift twice your weight every morning before breakfast! Ha ha ha ha ha!" She grabbed me around the waist, lifted me into the air, and spun me around.
 
+"Aaaaaah ha ha ha ha ha –"
+
 ????
 
-"????? I can't. I'd have to deal with something I'm not ready to deal with yet."
+The energy drained out of her. "You want to have sex," she said neutrally.
 
-What? What did she mean by that? A million possibilities ran through my head [????? question for reader: what are some first possibilities you think of, and should I have Rinn named them explicitly], but none of them made sense. Was it, like, a medical issue? But Yali always took care of that stuff right away! How could she be "not ready", unless it was, like…
+"We don't have to if you don't want to," I said hastily. "I just meant, if you wanted to, we could, you know, but if you didn't want to, that's fine, I don't want to push you into anyth–" I babbled, heat rising in my cheeks.
+
+"If I didn't <em>want</em> to," echoed Yali, in a strange tone. It was subtle, but did she say it almost… bitterly? "But I <em>do</em> want to. I want to <em>so</em> much. I have, I have, <em>wanted</em>, ever since I <em>saw</em> you."
+
+She was still [????? position], but something cold was gripping my heart. I didn't know what to think. "Uh, I thought you always said you wanted to take it slow, what do you mean…?"
+
+"What I mean is, I mean, I, I, I," she took a breath. "I can't. I'd have to deal with something I'm not ready to deal with yet."
+
+What? What did she mean by that? A million possibilities ran through my head [????? question for reader: what are some first possibilities you think of, and should I have Rinn name them explicitly? Answer before you read further. The own or], but none of them made sense. Was it, like, a medical issue? But Yali always took care of that stuff right away! How could she be "not ready", unless it was, like, if it wasn't a physical thing, like…
 
 I blurted it out without thinking. "Don't tell me someone raped you!"
 
@@ -482,27 +494,27 @@ Finally, she spoke. "If I say yes, will you promise not to bring it up again unt
 
 "It was a long time ago. It wasn't anyone you know. They're in prison now."
 
-????? "I have so many questions," I said, ?????
+"Shiiiiiit. Oh gods, I'm so sorry, how did it happen, I have so many questions –" I clamped my mouth shut. Shit, I shouldn't have said that, I kept saying things without thinking, what if she –
 
-"Don't ask them," she said matter-of-factly. "Let's talk about something else." And then: "You're hurting my arms, by the way."
+"Don't ask them," she said matter-of-factly, thank the gods. "Let's talk about something else." And then: "You're hurting my arms, by the way."
 
-Belatedly, I realized that I'd been holding her forearms in a white-knuckled grip since ?????. With effort, I made my hands unclench. Then I saw the discolored marks my grip had left on her. "Oh fuck, oh gods, I'm so sorry, I didn't mean to –"
+Belatedly, I realized that I'd been holding her forearms in a white-knuckled grip. With effort, I made my hands unclench. Then I saw the discolored marks my grip had left on her. "Oh fuck, oh gods, I'm so sorry, I didn't mean to –"
 
-"Don't worry about it," she said, massaging her arms carefully. Then she shifted and lay heavily on the bed????? beside me. "Let's talk about something else."
+"Don't worry about it," she said, massaging her arms carefully. Then she shifted and lay heavily on the bed????? beside me. "Let's talk about something else," she repeated.
 
-"Uh, what do you want to…" I tried to think of? ?????, but my mind was racing, I couldn't think of anything else.
+"Uh, what do you want to…" I tried to think of something to talk about, anything, but my mind was racing, I couldn't think of anything else.
 
 "How about you tell me more of your irresponsible stories? We never did –"
 
 "Woah, I can't believe we forgot about that! I never even told you about how I broke my leg!"
 
-"Ooh, tell me!" It was weird how quickly Yali started acting excited again. ?????. But I <em>did</em> really want to tell her about this stuff. Maybe it would be enough to distract me.
+"Ooh, tell me!" It was weird how quickly Yali started acting excited again. After hearing what I'd just heard, there was no <em>way</em> I could put it out of my mind. But I <em>did</em> really want to tell her my stories. Maybe it would be enough to distract me.
 
 "So, you know the big tree near the elementary school (?????)? Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
 
 "Oh, the one with the fence around it?"
 
-I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really get a kick out of impressing her. "
+I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her. "
 
 ????? New subject took over my mind mostly, Yali seemed energetic again but could it be really?
 
