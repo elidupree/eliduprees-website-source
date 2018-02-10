@@ -460,9 +460,9 @@ My heart was pounding like a jackhammer. I was sandwiched, my back against the w
 
 "Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it." We both paused for a bit to catch our breath. [????? Here or somewhere else: Somehow, she was the most relaxed I'd ever seen her.] "Say, how much do you weigh?"
 
-"Er – I think I was ????? kilos last time I was at the doctor –"
+"Er – I think I was 45 kilos last time I was at the doctor –"
 
-Yali grinned from ear to ear. "This is great! I'm ?????, I weigh <em>literally</em> twice as much as you!"
+Yali grinned from ear to ear. "This is great! I'm 90, I weigh <em>literally</em> twice as much as you!"
 
 "Uh…"
 
@@ -484,7 +484,7 @@ The energy drained out of her. "You want to have sex," she said neutrally.
 
 She was still [????? position], but something cold was gripping my heart. I didn't know what to think. "Uh, I thought you always said you wanted to take it slow, what do you mean…?"
 
-"What I mean is, I mean, I, I, I," she took a breath. "I can't. I'd have to deal with something I'm not ready to deal with yet."
+"What I mean is, I mean, I, I, I," she took a breath. Her calm focus was back again. "I can't. I'd have to deal with something I'm not ready to deal with yet."
 
 What? What did she mean by that? A million possibilities ran through my head [????? question for reader: what are some first possibilities you think of, and should I have Rinn name them explicitly? Answer before you read further. The own or], but none of them made sense. Was it, like, a medical issue? But Yali always took care of that stuff right away! How could she be "not ready", unless it was, like, if it wasn't a physical thing, like…
 
@@ -530,13 +530,11 @@ It wasn't until I was at home in my room, getting ready for bed, that it came ba
 
 <em>It was a long time ago. It wasn't anyone you know.</em>
 
-Images sprang unwanted into my head. A much younger Yali. A strange man, holding her down. Forcing himself on her. Violating her.
+Images sprang unwanted into my head. A much younger Yali, naked and scared. A strange man, holding her down. Forcing himself on her. Violating her.
 
-????
+I felt like my head would split open. A chaos of feelings ripped through me. Disgust. Horror. And finally, rage, uncontrollable rage. I wanted to <em>murder</em> that man. I wanted to feel my fists sink into his flesh, to beat him and beat him until he was a bloody mess on the floor. [????? I wonder if this should have more explicit details of the violent fantasy, instead of this compromise with summary language. It might help my message work for audience members who have that kind of fantasies. But I also don't want to disturb the other part of my audience…]
 
-I felt like my head would split open. Everything was ????. Disgust. Horror. And finally, rage, uncontrollable rage. I wanted to <em>murder</em> that man. I wanted to feel my fists sink into his flesh, to beat him and beat him until he was a bloody mess on the floor.
-
-I <em>knew</em> there was nothing I could do. I <em>knew</em> it was already over. But the images kept coming back, over and over, as if they were stamped into my head. The man raping Yali. Me brutalizing the man. Every fresh image slammed into me with a crash of pain, of knowing that nothing I could do would change anything.
+I <em>knew</em> there was nothing I could do. I <em>knew</em> it was already over. But the images kept coming back, over and over, as if they were permanently stamped into my head. The man raping Yali. Me brutalizing the man. Every fresh image slammed into me with a crash of pain, of knowing that nothing I could do would change anything.
 
 <em>It was a long time ago. It wasn't anyone you know. They're in prison now.</em>
 
@@ -544,17 +542,17 @@ She'd planned for this. Of <em>course</em> she had. She knew what I'd think – 
 
 <em>It wasn't anyone you know. They're in prison now.</em>
 
-????
+???? I mean, I obviously wasn't mad that they were in prison. But I couldn't stand not being able to <em>do</em> anything. And if they were already in prison, it was just… <em>over</em>.
 
 Wait… She'd said "they". Not "he". Was she trying to leave out their gender? Could it have been a woman? Or an enby? Or were there <em>more than one of them?!?</em>
 
-I slammed my fist into the wall, putting a new dent alongside all the old ones. I slammed it again and again, splitting my knuckle on the broken-up wallboard. But the pain didn't end. Gods, what did she want me to do? What the fuck did she want me to do?
+The rage surged through me again. I slammed my fist into the wall, putting a new dent alongside all the old ones. I slammed it again and again, splitting my knuckle on the broken-up wallboard. But the pain didn't end. Gods, what did she want me to do? What the fuck did she want me to do?
 
 Wait. What <em>did</em> she want me to do?
 
 Well. First of all, she wanted me to not bring it up again. I would absolutely do that, she was the victim here, I would do whatever it took to make her feel better. But what would she want me to do with my own feelings? I couldn't just not feel them!
 
-Or could I?
+Or… <em>could</em> I?
 
 The terrifying thing was, there was already a part of me that was saying, <em>Calming Game</em>. Already a bit of my rage that was fading into doubt. Was it even right? Should I be able to know something like this, and <em>not</em> be blinded by rage? But… that <em>was</em> what she'd want. She'd want me to know that someone raped her, and just <em>not</em> put holes in the wall. Just <em>not</em> murder anyone. Just… keep going on.
 
