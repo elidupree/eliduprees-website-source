@@ -470,19 +470,21 @@ Yali grinned from ear to ear. "This is great! I'm 90, I weigh <em>literally</em>
 
 "Aaaaaah ha ha ha ha ha –"
 
-????
+Yali practically <em>threw</em> me onto the couch. Then she thumped down beside me and cuddled up to me. She leaned in and started planting kisses all over my face. I kissed back eagerly, shoving my lips onto her face as hard as I could get away with. Gods, I couldn't handle how much I loved her. I'd almost thought I would never get a chance like this.
 
-"Ya know, usually I fight against people I'm willing to <em>hurt</em>."
+We pulled back to catch our breaths, but definitely not to stop. Even from hearing her <em>breathe</em>, I could tell how excited she was. She was panting in a totally natural way, not even regulating it like usual. We were both so full of energy.
 
-????
+"Soo-ooo…" I said slyly, "the two young lovebirds are about to go on a terrible journey… Who knows when they'll get another chance to be together like this…"
 
 The energy drained out of her. "You want to have sex," she said neutrally.
 
-"We don't have to if you don't want to," I said hastily. "I just meant, if you wanted to, we could, you know, but if you didn't want to, that's fine, I don't want to push you into anyth–" I babbled, heat rising in my cheeks.
+<em>Shit.</em>
 
-"If I didn't <em>want</em> to," echoed Yali, in a strange tone. It was subtle, but did she say it almost… bitterly? "But I <em>do</em> want to. I want to <em>so</em> much. I have, I have, <em>wanted</em>, ever since I <em>saw</em> you."
+"We don't have to if you don't want to," I said hastily. "I just meant, if you wanted to, we could, uh, you know, but if you didn't want to, that's fine, I don't want to push you into anyth–" I babbled, heat rising in my cheeks.
 
-She was still [????? position], but something cold was gripping my heart. I didn't know what to think. "Uh, I thought you always said you wanted to take it slow, what do you mean…?"
+"If I didn't <em>want</em> to," echoed Yali, in a strange tone. It was subtle, but did she say it almost <em>bitterly</em>? "But I <em>do</em> want to. I want to <em>so</em> much. I have, I have, <em>wanted</em>, ever since I <em>saw</em> you."
+
+She was still cuddling up to me, she was still so warm, but something cold was gripping my heart. I didn't know what to think. "Uh, I thought you always said you wanted to take it slow, what do you mean…?"
 
 "What I mean is, I mean, I, I, I," she took a breath. Her calm focus was back again. "I can't. I'd have to deal with something I'm not ready to deal with yet."
 
@@ -490,7 +492,7 @@ What? What did she mean by that? A million possibilities ran through my head [??
 
 I blurted it out without thinking. "Don't tell me someone raped you!"
 
-Yali paused for a long time. I felt like my stomach was going to flip over. <em>Fuck, what if it's true?! What's she thinking? Oh gods, I shouldn't have said that, I shouldn't have said that …</em>
+Yali paused for a long time. I felt like my stomach was going to flip over. <em>Fuck, what if it's true?! What's she thinking? Oh gods, I shouldn't have said that, I shouldn't have said that…</em>
 
 Finally, she spoke. "If I say yes, will you promise not to bring it up again until I say I'm ready?"
 
@@ -504,7 +506,7 @@ Finally, she spoke. "If I say yes, will you promise not to bring it up again unt
 
 Belatedly, I realized that I'd been holding her forearms in a white-knuckled grip. With effort, I made my hands unclench. Then I saw the discolored marks my grip had left on her. "Oh fuck, oh gods, I'm so sorry, I didn't mean to –"
 
-"Don't worry about it," she said, massaging her arms carefully. Then she shifted and lay heavily on the bed????? beside me. "Let's talk about something else," she repeated.
+"Don't worry about it," she said, massaging her arms carefully. Then she shifted and lay heavily on the couch beside me. We were still touching a little, but it wasn't the same. "Let's talk about something else," she repeated.
 
 "Uh, what do you want to…" I tried to think of something to talk about, anything, but my mind was racing, I couldn't think of anything else.
 
@@ -518,7 +520,7 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Oh, the one with the fence around it?"
 
-I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her. "
+I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. "
 
 ????? New subject took over my mind mostly, Yali seemed energetic again but could it be really?
 
@@ -568,6 +570,10 @@ Lying limply on my back, I stared up at the ceiling, letting the cold truth sink
 
 ????
 
+
+"Ya know, usually I fight against people I'm willing to <em>hurt</em>."
+
+????
 
 
 ???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
