@@ -317,7 +317,7 @@ Ugh, this wasn't supposed to happen! <em>Other</em> people spent ages worrying w
 
 It wasn't even anything weird, just normal making plans. But whenever I thought of talking to her, it just came back, that <em>exhaustion</em> from the Expressing Game. I just <em>couldn't</em> see her today. But I wanted to see her! I loved her so much, it would just be stupid if I missed a chance to get together! Plus, if I didn't answer the text, that would make me an asshole! If I wasn't going to see her today, I should just <em>tell</em> her instead of ????. No, there's no way I would just <em>not</em> want to see her!
 
-Ugh, I needed to talk to someone about this. But who? Yali was the only one who knew how to help me with my feelings! But I couldn't ask her for help <em>again!</em> she was already helping me so much!
+Ugh, I needed to talk to someone about this. But who? Yali was the only one who knew how to help me with my feelings! But I couldn't ask her for help <em>again!</em> She was already helping me so much!
 
 As soon as I thought that, I practically <em>heard</em> Yali's voice echoing in my head, saying "It's okay, the <em>point</em> is for me to help you." Okay, fine, that was probably what I <em>should</em> do, but fuck that! Couldn't I just chicken out of something once in a while? No way, I was Rinn Akatura, I never chickened out of anything! I –
 
@@ -331,11 +331,13 @@ Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get he
 
 A few minutes later, I had another problem: Where the fuck was Layo?
 
-?????
+He haven't answered my message, and he wasn't at any of the usual spots I'd find him at. I'd checked his locker, his last class of the day, and the ?????. I finally even ran to the corner behind the school where Pèi and Dehel usually hung out, even though Layo would never be there, he couldn't stand being around them when they were smoking.
 
-"I don't know," said Dehel.
+Well at least <em>they</em> were there. I ran up to them and asked, "Hey, where's Layo?"
 
-"I do!" said Pèi cheerfully.
+"I don't know," muttered Dehel.
+
+"I do!" said Pèi cheerfully. Then she kept standing there with a smug look on her face.
 
 "You gonna tell me?" I snapped.
 
@@ -359,7 +361,7 @@ I stared at them both for a moment, then doubled over laughing.
 
 What did it even mean anymore? If I could just… <em>be calm</em>, or <em>be angry</em>, just because I said so? Which one of them was real? Or maybe neither of them was real! I couldn't stop laughing. It was all so <em>un</em>real.
  
-Maybe I shouldn't have laughed so much right after running all over the place, because I was already out of breath, and then suddenly I choked and started coughing my lungs out.
+Maybe I shouldn't have laughed so much right after running all over the place, because I was already breathing hard, and then suddenly I choked and started coughing my lungs out.
 
 "You need some help there?" said Pèi awkwardly.
 
@@ -369,13 +371,13 @@ Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. I
 
 "Yeah, thanks, you're the best."
 
-?????
+And then I was off again. Pretty soon I flung open the art room door to find Layo and a few other kids hard at work.
 
 "Hey Layo!!"
 
 Layo didn't look up from his painting. "Hey Rinn. Stay three meters away from me at all times," he said casually.
 
-That was fair. I had maybe been too rambunctious (?????) around his paintings in the past.
+That was fair. I had maybe been too rambunctious [????? is this a word a teenager would use for themselves?] around his paintings in the past.
 
 "Yeah, yeah. But I, ehhhh… I need to talk to you about something. Like, in private."
 
@@ -389,16 +391,19 @@ The girl sized us both up, then seemed to give in. "…I'm coming for that favor
 
 "Thank you ever so much!" Layo shot over his shoulder as he hurried out the door with me.
 
-????
+On our way out, he asked me, "Shall we take a walk in the park?" I knew right away what park he meant. It was an old haunt of ours, where we'd often spent hours together back in middle school, although we haven't been there together in a while. And the paths were winding enough to give us a lot of privacy. If he was inviting me there, that meant he was treating this as serious business
 
 I glared at him. "How did you know it was that important?!? I could've been, I dunno, planning a surprise party or something! Then you'd be out a huge favor for nothing!"
 
-"I <em>know</em> you. You've had something on your mind for a while."
-????
+Layo smiled. "I <em>know</em> you. You've had something on your mind for a while."
 
-"Are you fucking kidding me?!!! How does everyone know everything about me before I do?!"
+"Oh yeah, since when?" I protested. Just because he was right didn't mean he <em>deserved</em> to be right.
 
-"Er – I didn't mean – if you'd rather – "
+"I've noticed something different about you ever since, when was it, that day you asked me about what makes you angry. That didn't seem like –"
+
+"Are you fucking kidding me?!!! How do you do it? How does everyone know everything about me before I tell them?!"
+
+"Er – if you'd rather – if you'd like me to – "
 
 "Nah, you're fine, let's go to the park obviously." I grabbed his hand and dragged him along with me.
 
