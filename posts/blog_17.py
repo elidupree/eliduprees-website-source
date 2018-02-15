@@ -386,6 +386,23 @@ I've also gotten a lot done on <a href="/ravelling-wrath">Ravelling Wrath</a>. C
 
 ''',
 },
+{
+"title": "Projects update 2018-02-14",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+This week, I've made more progress on <a href="/games/rustweb-test-game">my prototype real-time strategy game</a>, and also written a bit more of <a href="/ravelling-wrath">Ravelling Wrath</a>. (Chapter 4 is now 7500 words!)
+
+Unfortunately, this game isn't much closer to being an actual, playable game. It's gotten me some meaningful experience making web games in Rust, and it's going to be a useful test case for <a href="https://github.com/elidupree/time-steward">TimeSteward</a>, but I don't want to keep just posting a projects update on most weeks. I want to have awesome finished works to show you.
+
+We'll have to see what my mental health is up to, but I do have a small game project I was working on a year ago. That project is already about 70% complete, I just never finished it. Maybe I can finally finish it soon...
+
+''',
+},
 ]
 
 """
