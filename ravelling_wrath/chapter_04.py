@@ -231,7 +231,7 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily... and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the thing I really can't stand is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So I, I, I really want to get in better shape. I guess it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to just do the Waiting God wants, too, I…" Yali trailed off.
 
-I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize, but I didn't know what the sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
+I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize, but I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
 
 Yali still looked sort of downcast. "Will you go with me… more than just once? I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried that people will be judging me because I'm fat. But now it occurs to me that my life is more important than other people judging me. But…"
 
@@ -241,7 +241,7 @@ Yali smiled. "Please don't actually beat anyone up for my sake."
 
 "Oh don't worry, no one will mess with us in the first place, so I won't have to." Yali glared at me a little. "Okay, okay, fine, I won't."
 
-"…thanks." Yali sounded subdued, but somehow also extra sincere.
+"…thanks." Yali sounded subdued, but somehow extra sincere.
 
 <bigbreak>
 
