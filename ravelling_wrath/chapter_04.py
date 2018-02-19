@@ -525,11 +525,38 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Oh, the one with the fence around it?"
 
-I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. "
+I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff. So first, they told me to climb the tree, and I was like 'easy peasy' and I did it. And the next time they said to climb out on the big branch, so I did that too. And then they dared me to hang upside down from the big branch, so I did that, and so on and so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance a jig on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
 
-????? New subject took over my mind mostly, Yali seemed energetic again but could it be really?
+"That must have really hurt!"
 
+"Oh yeah, it hurt loads. And then I had to wear a cast <em>forever</em> and I couldn't run around or anything, and it <em>itched</em> under the cast, it was so annoying –"
 
+Yali started giggling uncontrollably.
+
+????
+
+"I guess it wasn't actually forever, but it <em>felt</em> like forever. So yeah, after that I stopped doing <em>everything</em> people do to me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again, just to prove I wasn't scared. And that's when I learned how to climb a fence, too."
+
+I pulled up the leg of my pants to show her ????
+????
+
+"Nah, that's different, that's from when I jumped out my window. And this one –" I showed her a scar on my knuckle "– this one's from when I got bitten by a squirrel. And –"
+
+"You got bitten by a <em>squirrel</em>?"
+
+"Oh yeah, don't mess with squirrels, they're nasty little buggers. So what happened was, I was a little kid, and my dad saw how much I liked running around outside, so he got me a butterfly net. But there were hardly any butterflies around and whenever I did spot one, it just flew away, they were annoying to catch. So instead I caught a squirrel."
+
+"You call a squirrel in a butterfly net?"
+
+"I mean, it tore its way out right away –"
+
+"But… don't squirrels run away from people?"
+
+"You've just gotta sneak up on them. Play it cool, like you're just passing by. I swear, they can tell if you're looking at them. Sure, they usually get away, but I finally managed to catch one in my net, and then I tried to grab it. I thought I was going to be able to bring the squirrel home and show my dad and that would be awesome. But it tore through the net and bit half my knuckle off and ran away. Dad made me go to the doctor because he was worried about rabies, but I was like, 'look, I attacked the squirrel, not the other way around'. And I was fine, all I got was this scar."
+
+Yali held my knuckle gently in her fingers and took a close look at it. It was super intimate. "I, I, I don't have anything with such a cool story, but," she shifted her arm to show me something. On the heel of her hand, there was a faint scar. Big and blotchy, but faint. "I was five. I put my hand on a cooktop that was still on." 
+
+I wasn't sure how to respond. It felt like she was
 
 <bigbreak>
 
