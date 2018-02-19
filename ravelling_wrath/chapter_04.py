@@ -177,7 +177,7 @@ In the next week or so, we saw a lot of each other. Every time we hung out, we d
 
 <bigbreak>
 
-At the same time, I was having that dream again. It was hard to remember, but it was like I was walking through the ruins of a gigantic city. And the sun… The sun, always high in the sky, warm and bright, pulsing like a heart. Every pulse filled me with its warmth, melting away all my worries and stress. The more I had that dream, the more I woke up feeling like I was ready for anything.
+At the same time, I was having that dream again. It was hard to remember, but it was like I was walking through the ruins of a gigantic city. And the sun… The sun, always high in the sky, warm and bright, pulsing like a heart. Every pulse filled me with its warmth, melting away all my worries and stress. The more I had that dream, the more I woke up feeling like I was ready for anything. ????tired
 
 After having the dream like half a dozen times, I thought of telling Yali about it. I told her all about it. As much as I could, anyway. Even for the parts I remembered, nothing I said could really get across how awesome it was.
 
@@ -189,15 +189,15 @@ After having the dream like half a dozen times, I thought of telling Yali about 
 
 "Oh right, you died there once. I mean, one of the other Farseers died there and you have their –"
 
-"– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. It was like…" she trailed off.
+"– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. ?????…" she trailed off.
 
-"Like what?"
+"???? question?"
 
-Yali gave an embarrassed smile. "Like how your face lights up when you see <em>me</em>. Why <em>do</em> you love me so much?"
+"Why do you love me so much?" said Yali suddenly.
 
 "Whaaaaaaat?! But there's so much about you to love! Don't tell me you don't –"
 
-"No, no, I, I don't mean I'm insecure about it, I mean, it's obvious that you <em>do</em> love me, but, I just want to understand… what is it <em>about</em> me?"
+Yali gave an embarrassed smile. "No, no, I, I mean, I've been meaning you to ask, I mean, it's obvious that you <em>do</em> love me, but, but, wait, I don't mean I'm insecure about it, but, I just want to understand, what is it <em>about</em> me? Like, ?????"
 
 "How am I supposed to know that? I mean, you're, like, sexy, and smart, and caring, but like, I don't fall in love with <em>everyone</em> who's sexy and smart and caring, it's just one of those things, you know, –"
 
@@ -231,7 +231,7 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily... and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the thing I really can't stand is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So I, I, I really want to get in better shape. I guess it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to just do the Waiting God wants, too, I…" Yali trailed off.
 
-I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize, but I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
+I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize ????tired. But I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
 
 Yali still looked sort of downcast. "Will you go with me… more than just once? I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried that people will be judging me because I'm fat. But now it occurs to me that my life is more important than other people judging me. But…"
 
