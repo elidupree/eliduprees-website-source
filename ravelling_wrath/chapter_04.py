@@ -596,12 +596,69 @@ Lying limply on my back, I stared up at the ceiling, letting the cold truth sink
 
 <em>Anger turns helplessness into strength.</em> Bullshit. It hadn't turned my helplessness into anything but pain. ?????
 
+How was I supposed to handle it? I'd never had to deal with something like this before.
+
+It's not like I didn't know <em>about</em> rape. There was a guerrilla feminist club at school who'd posted flyers all over the place with the statistics. I'd freaked myself out plenty of times thinking about how many of my friends must've had somebody do that to them, or worse, done it to somebody else. But to actually <em>know</em>… and about someone so close to me…
+
 
 ??? general knowledge of rape; cold realization: parents? how many layers of badass
 
 
 ????
 
+<bigbreak>
+
+???? Don't tire yourself out on the way here. We'll have a lot more walking to do.
+
+????
+
+Yali led me into a corner and handed me a shapeless gray hoodie that was a couple sizes too big for me. I obediently pulled it over my head and wriggled my arms into the sleeves. Yali was wearing one just like it, keeping her face well back under the hood. "I don't want anyone to recognize us. We need to go to the fountain at the center of the first layer, where the boundary between this world and the Otherworld is the thinnest. That will make the transition easier, so we'll be more likely to show up in the same place instead of being flung to faraway locations. We'll take a bus up to the second layer, then walk from there."
+
+"Why not all the way?"
+
+"Buses don't go up there."
+
+"Oh."
+
+We walked to the nearest bus stop and waited. It was cold, cloudy, and damp, and it felt like it could rain at any moment. I fidgeted with my hood. I'd never liked wearing a hood, it was annoying having my vision blocked off at the sides. [????? less aware?]
+
+"Keep your hood up," Yali hissed.
+
+I did what she said. "What's up with all this secrecy, though?" I said. "Aren't we about to leave this world anyway?"
+
+Yali whispered back, "I don't want anyone to be sure that we're Ravellers, even after we get back."
+
+"But… we're going to disappear <em>now</em>, then reappear <em>then</em>. Won't it be obvious?"
+
+"It's not just the Ravellers who disappear on Ravelling Week. There's –"
+
+"What? No one told me about any other stuff!"
+
+"I mean… Kidnappings. Runaways. Star-crossed lovers. Anyone who wants to create plausible deniability about why they disappeared. Who's going to look for you if they think you're not in the world anymore, right? Realistically, there's more fakers than actual Ravellers. So with us –"
+
+"Haha, yeah, how likely is it that we'd <em>both</em> be chosen? Everyone will think we're the star-crossed lovers for sure."
+
+"Actually, I think we might <em>literally</em> be star-crossed lovers."
+
+"What?"
+
+"'Star-crossed' means the fates are against us. That definitely fits. Ironically, because –"
+
+"But, don't you have to, uh, have sex, to count as 'lovers'?"
+
+Yali blinked, flustered. "What? The word is 'lovers', we love each other, that should be enough! Besides, we're probably going to <em>eventually</em>, I, I, I –"
+
+"But by then, we might not be star-crossed anymore! This is very important!"
+
+It took Yali a moment to realize that I was joking, but then she laughed loudly.
+
+????? "I think that's our bus."
+
+The bus drove up and we got on together. Yali paid for both of us.
+
+After we sat down, Yali whispered in my ear, ?????
+
+????
 
 "Ya know, usually I fight against people I'm willing to <em>hurt</em>."
 
