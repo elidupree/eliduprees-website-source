@@ -403,6 +403,23 @@ We'll have to see what my mental health is up to, but I do have a small game pro
 
 ''',
 },
+
+{
+"title": "Projects update 2018-02-21",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I went through with my plan from last week! I've made good progress on a small game project, which I might be able to release in a week or two. My mental health is still a little unreliable, but I've gotten at least <em>some</em> work done on all 7 of the last 7 days, so I think I can reasonably expect to keep being productive.
+
+Also, I've gotten Chapter 4 of <a href="/ravelling-wrath">Ravelling Wrath</a> up to <em>8700</em> words, and it's still growing! It's going to be a little longer than I expected, haha.
+
+''',
+},
+
 ]
 
 """
