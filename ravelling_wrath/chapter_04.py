@@ -658,11 +658,48 @@ The bus drove up and we got on together. Yali paid for both of us.
 
 After we sat down, Yali whispered in my ear, ?????
 
+I held Yali's hand the whole way there. Neither of us spoke.
+
 ????
 
 "Ya know, usually I fight against people I'm willing to <em>hurt</em>."
 
 ????
+
+
+We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobblestones.
+
+????
+
+, huddled together in the cold rain.
+
+"How are you holding up?"
+
+"I'm okay," I said.
+
+After a long pause, Yali said, "If you don't mind, I'd like a more detailed answer. Your feelings will soon be our battlefield. The more we know about them, the better."
+
+"Hmm…"
+
+"It's okay if you're scared, or overwhelmed, or..."
+
+"Nah, it's not any of that."
+
+"If you're ever not comfortable sharing, you can just tell me, I'll –"
+
+"Yeah, yeah. Honestly, the main thing I'm feeling right now is that I'm <em>soooo</em> glad we don't have to walk any more." I rubbed my legs.???? "Maybe that sounds kinda stupid, but like… it all doesn't feel real to me, still. All the god stuff. I mean, I know it's real, but it just feels like it's in a movie, like it's happening to someone else, not me, you know…? Stern take it, even my feelings don't feel real."
+
+"I understand."
+
+"You do? It's super weird."
+
+"Yes." She didn't elaborate.
+
+"So…" I said, "How are <em>you</em> holding up?"
+
+Yali laughed slightly, but didn't answer.
+
+???
 
 
 ???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
