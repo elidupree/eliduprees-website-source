@@ -1259,7 +1259,9 @@
  "Some thoughts about liches": {
   "date_modified": "2018-02-26",
   "date_posted": "2018-02-26",
-  "id": "1e5363510d037247f2e1396cd198b93"
+  "deployed": true,
+  "id": "1e5363510d037247f2e1396cd198b93",
+  "remembered_contents": "f7284c569bc1e6f9d318b0cc122d9eef6e077c6abf099dae1892483e96d48ee5d6b024ef329f902b09f7a0a16a7d25c2"
  },
  "Story idea(s): The imprisoned good being": {
   "date_modified": "2016-08-10",
