@@ -22,6 +22,8 @@ posts = [
 <li>Certain words are <strong>scrutinized words</strong> on this website &ndash; particularly <a href="/blog/scrutinized-words-she-he">gendered pronouns</a> and <a href="/blog/scrutinized-words-man-woman-boy-girl">other gendered terms</a>. You're allowed to use them, but they will be marked wherever they appear.</li>
 </ul>''',
 },
+
+
 {
   "title":"About Eli",
   "disallow_comments": True,
@@ -47,6 +49,9 @@ posts = [
 
 <p>I'm not religious. I'm middle-class. I'm white. I have no romantic or sexual attraction to people of any gender, but I do have sexual desires.</p>''',
 },
+
+
+
 {
   "title":"Some thoughts about Undyne, the character from the game Undertale",
   "contents":'''<p>(Spoilers ahoy.)</p>
@@ -55,6 +60,9 @@ posts = [
 <p>All of this is 100% by-the-book Lawful Evil<footnote((Mind you, I don't think it's generally a good idea to label people as Evil in real life, but ze fits <a href="http://www.d20srd.org/srd/description.htm">the D&D definition of Lawful Evil</a> perfectly.))>. In fact, ze's a very specific brand of evil: a leader who everyone admires so much that they don't consider how much ze might be hurting people. The game even points this out through the dialogue of Monster Kid and Papyrus. Ze's a brilliant example of the logic of abuse.</p>
 <p>And yet, even though I've had these thoughts about zem, my FEELINGS about Undyne still say, "Undyne is so cool!" There are some important lessons here: Really cool people can still do evil things, heroic people can still do evil things, and it is better to befriend a person who does evil things (if you have the chance to) than to kill them. But, given how people drew the alignment charts, I guess most people sidestep these lessons by simply concluding that ze is Good (or at least Neutral) and ignoring how many of zir actions and motivations are evil. Undertale tried to fight against the idea, "they're the bad guys, so we should kill them" &ndash; but maybe it didn't fully beat that idea, if people still see the Undertale monsters and think "we befriended them instead of killing them, so I guess they must not be bad guys."</p>''',
 },
+
+
+
 {
   "title":"The Morality of Legend of Korra",
   "contents":'''<p>I wrote this just after I finished watching Legend of Korra. I wanted to like this show, because it does a bunch of cool things, especially having multiple nuanced, badass female protagonists. So it was extra frustrating when it kept including some of the same old shit.</p>
@@ -68,6 +76,10 @@ posts = [
 </ul>
 <p>I'm going to hold off on complaining about any of the inconsistencies with the plot or physics, because the moral stuff is more important. And this show is supposedly progressive/"subversive". Compared to other TV shows, it might be? It's really terrible that we have set such a low bar.</p>''',
 },
+
+
+
+
 {
   "title":"Harry Potter and the Methods of Rationality: Commentary",
   "auto_paragraphs": True,
@@ -109,6 +121,29 @@ That's about the size of it.
 
 One last thing: In the "do not mess with time" incident, Harry didn't really get intimidated by the force of Time itself. It was just a false memory implanted by Dumbledore in accordance with the prophecies, to make sure Harry didn't learn too much about time travel too soon.''',
 },
+
+
+
+
+{
+  "title":"Some thoughts about liches",
+  "auto_paragraphs": True,
+  "contents":'''<p>(Content warning: descriptions of gender-based oppression.)</p>
+  
+The archetype of a lich is a powerful white man who sought immortality due to excessive ambition. Perhaps this is not, in itself, a bad moral. But must fantasy fiction always tell the stories of powerful men (whether good or evil), rather than fleshing out the other parts of society?
+
+What is lichdom, after all, in a material sense? A one-time ritual reduces you to a miserable unlife, but makes you permanently able to tolerate deadly dangers. You no longer die if deprived of food or shelter. And you probably can't reproduce anymore. I ask you: Which members of society have need of these blessings?
+
+Consider this: A world where mainly lower-class women are economically coerced into becoming liches. The society values sons more highly than daughters, so when a family doesn't have enough food to go around, the sons eat first, and the daughters are expected to be the ones to endure lichdom for the family's survival. They become efficient undead servants who can be asked to do even the most dangerous and unsanitary jobs.
+
+Millennia later, a tech startup develops a more pleasant liching process, and tries to market it as a way for the wealthy to achieve eternal life. But they never manage to attract many customers because, ha ha, what self-respecting man would want to become a lich, like a woman?
+
+''',
+},
+
+
+
+
 {
   "title":"2013-04-29 Lasercake talk script",
   "auto_paragraphs": True,

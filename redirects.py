@@ -445,6 +445,8 @@ manual_redirects = {
   "korra": "/the-morality-of-legend-of-korra",
   "Undyne": "/some-thoughts-about-undyne-the-character-from-the-game-undertale",
   "undyne": "/some-thoughts-about-undyne-the-character-from-the-game-undertale",
+  "lich": "/some-thoughts-about-liches",
+  "liches": "/some-thoughts-about-liches",
   
   "stories/ravelling-wrath-chapter-1": "/ravelling-wrath",
   "stories/ravelling-wrath-chapter-1/discussion": "/ravelling-wrath/discussion",
