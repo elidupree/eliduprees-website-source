@@ -275,13 +275,13 @@ I had loads of questions, but I could tell it wasn't the right time for them. "I
 
 "Expressing Game," said Yali.
 
-We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. I could pretty much do what she wanted for most of them – whenever she said "releasing game" now, I could sort of <em>turn back on</em> the anger from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever she wanted me to do with it. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Even when we officially stopped doing the games, I was always tired and irritable afterwards. Yali seemed to think I would get there eventually, but number one, <em>how the fuck?</em>, and number two, how much time did she think we had? It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling. We'd used up half our time, and I didn't feel halfway prepared.
+We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. I could pretty much do what she wanted for most of them – whenever she said "releasing game" now, I could sort of <em>turn the anger back on</em> from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever she wanted me to do with it. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Even when we officially stopped doing the games, I was always tired and irritable afterwards. Yali seemed to think I would get there eventually, but number one, <em>how the fuck?</em>, and number two, how much time did she think we had? It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling. We'd used up more than half our time, and I didn't feel halfway prepared.
 
 And now we were sitting here, doing the same thing that hadn't worked for the last hour. Or maybe it hadn't even been an hour. Whatever. "Ugh, the Expressing Game is the hardest," I complained.
 
 "Oh? I thought letting you yell about things would give you an outlet."
 
-"Yeah, but, I mean, the more I yell, the more I want to <em>do</em> something, you know? It's just so, <em>argh</em> – " I made a fist to demonstrate. "At least with the Controlling Game I can just <em>not</em> do anything…"
+"Yeah, but, I mean, the more I yell, the more I want to <em>do</em> something, you know? It's just so, <em>argh</em> –" I made a fist to demonstrate. "At least with the Controlling Game I can just <em>not</em> do anything…"
 
 "Good to know..." Yali was lost in thought for a while. "????? thought about; bigger challenge "Yell at me as bitterly as you can, but don't move at <em>all</em>. And, and, keep your hands open on the table."
 
@@ -293,7 +293,7 @@ I did what she said. Every time I yelled, it sent a wave through my body, making
 
 "Controlling Game," Yali said finally. I slumped back in the chair as relief flooded through me. I didn't even think about what I was supposed to do next, I was just glad it was over. After a little while, Yali continued, "Calming Game."
 
-"Yeah, yeah, I did it," I said dully. I'm not angry anymore."
+"Yeah, yeah, I did it," I said dully. "I'm not angry anymore."
 
 "Actually?" Yali perked up. She was excited about this. I wasn't. I just felt drained. I mean, it was good, I guess. The anger was actually gone. It's just that I'd been hoping to have some big epiphany or something. Not just this empty feeling.
 
@@ -391,7 +391,7 @@ The girl sized us both up, then seemed to give in. "…I'm coming for that favor
 
 "Thank you ever so much!" Layo shot over his shoulder as he hurried out the door with me.
 
-On our way out, he asked me, "Shall we take a walk in the park?" I knew right away what park he meant. It was an old haunt of ours, where we'd often spent hours together back in middle school, although we haven't been there together in a while. And the paths were winding enough to give us a lot of privacy. If he was inviting me there, that meant he was treating this as serious business
+On our way out, he asked me, "Shall we take a walk in the park?" I knew right away what park he meant. It was an old haunt of ours, where we'd often spent hours together back in middle school, although we hadn't been there together in a while. And the paths were winding enough to give us a lot of privacy. If he was inviting me there, that meant he was treating this like serious business.
 
 I glared at him. "How did you know it was that important?!? I could've been, I dunno, planning a surprise party or something! Then you'd be out a huge favor for nothing!"
 
@@ -403,7 +403,7 @@ Layo smiled. "I <em>know</em> you. You've had something on your mind for a while
 
 "Are you fucking kidding me?!!! How do you do it? How does everyone know everything about me before I tell them?!"
 
-"Er – if you'd rather – if you'd like me to – "
+"Er – if you'd rather – if you'd like me to –"
 
 "Nah, you're fine, let's go to the park obviously." I grabbed his hand and dragged him along with me.
 
