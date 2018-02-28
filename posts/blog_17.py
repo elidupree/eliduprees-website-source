@@ -420,6 +420,24 @@ Also, I've gotten Chapter 4 of <a href="/ravelling-wrath">Ravelling Wrath</a> up
 ''',
 },
 
+{
+"title": "Projects update 2018-02-28",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I've made more progress on my little game project, which is called <em>The Path</em>. I've been a little disappointed in my productivity this week, but again, I did work on all 7 of the last 7 days.
+
+I can't promise when I'll be able to release The Path, because my mental health is still unreliable. But if I have a productive week, it could possibly be ready by next week.
+
+I've also made a doctor's appointment to try to tackle the health issue some more. That'll happen on March 16.
+
+''',
+},
+
 ]
 
 """
