@@ -267,7 +267,7 @@ While we walked, I tried to make conversation. "You've been working really hard.
 
 Finally, I figured she'd forgotten about it, and began, "Uh, what –"
 
-Yali interrupted before I could even ask my question. When she spoke, she didn't seem that upset from the outside – but compared with her normal, she was practically <em>radiating</em> discomfort. "I know I'm not, not, not <em>good</em> at expressing myself when I'm, I'm, when something hurts. But just… <em>don't</em>. It's, it's easier this way."
+Yali interrupted before I could even ask my question. When she spoke, she didn't seem that upset from the outside – but compared to how she normally was, she was practically <em>radiating</em> discomfort. "I know I'm not, not, not <em>good</em> at expressing myself when I'm, I'm, when something hurts. But just… <em>don't</em>. It's, it's easier this way."
 
 I had loads of questions, but I could tell it wasn't the right time for them. "It's okay, it's okay, I can respect that. Contrary to popular belief, I <em>sometimes</em> know when to shut up."
 
