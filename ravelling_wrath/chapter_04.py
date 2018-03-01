@@ -537,26 +537,31 @@ Yali started giggling uncontrollably.
 
 "I guess it wasn't actually forever, but it <em>felt</em> like forever. So yeah, after that I stopped doing <em>everything</em> people do to me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again, just to prove I wasn't scared. And that's when I learned how to climb a fence, too."
 
-I pulled up the leg of my pants to show her ????
-????
+I pulled up the leg of my pants. "Here," I said, "let me show you my scar from the fall!"
 
-"Nah, that's different, that's from when I jumped out my window. And this one –" I showed her a scar on my knuckle "– this one's from when I got bitten by a squirrel. And –"
+"That long thin one? That looks like it was painful!"
+
+"Nah, that one's different, that's from when I jumped out my window. That's a good one, I should tell you that next. And this one –" I showed her a scar on my knuckle "– this one's from when I got bitten by a squirrel. And –"
 
 "You got bitten by a <em>squirrel</em>?"
 
 "Oh yeah, don't mess with squirrels, they're nasty little buggers. So what happened was, I was a little kid, and my dad saw how much I liked running around outside, so he got me a butterfly net. But there were hardly any butterflies around and whenever I did spot one, it just flew away, they were annoying to catch. So instead I caught a squirrel."
 
-"You call a squirrel in a butterfly net?"
+"You caught a squirrel in a butterfly net?"
 
 "I mean, it tore its way out right away –"
 
 "But… don't squirrels run away from people?"
 
-"You've just gotta sneak up on them. Play it cool, like you're just passing by. I swear, they can tell if you're looking at them. Sure, they usually get away, but I finally managed to catch one in my net, and then I tried to grab it. I thought I was going to be able to bring the squirrel home and show my dad and that would be awesome. But it tore through the net and bit half my knuckle off and ran away. Dad made me go to the doctor because he was worried about rabies, but I was like, 'look, I attacked the squirrel, not the other way around'. And I was fine, all I got was this scar."
+"You've just gotta sneak up on them. Play it cool, like you're just passing by. I swear, they can tell if you're looking at them. Sure, they usually get away, but, this one time, I finally managed to catch one in my net. And then I tried to grab it. I thought I was going to be able to bring the squirrel home and show my dad and that would be awesome. But it tore through the net and bit half my knuckle off and ran away. Dad made me go to the doctor because he was worried about rabies, even though I was like, 'look, I attacked the squirrel, not the other way around'. And I was fine, all I got was this scar."
 
 Yali held my knuckle gently in her fingers and took a close look at it. It was super intimate. "I, I, I don't have anything with such a cool story, but," she shifted her arm to show me something. On the heel of her hand, there was a faint scar. Big and blotchy, but faint. "I was five. I put my hand on a cooktop that was still on." 
 
-I wasn't sure how to respond. It felt like she was
+I wasn't sure how to respond. It felt like she was trying to open up to me, but I just didn't know what to say. The moment passed. "Tell me another one," Yali said.
+
+I told her my stories all evening. She was totally into it. I completely lost track of time, I was so caught up in telling her about all the fun times I'd had. Finally, Yali had to remind me that I'd planned to go home with enough time to get at least <em>some</em> sleep for the next day.
+
+On my way home, I realized I haven't even remembered to go back and tell her the one about how I jumped out a window. Stern take it, that was a good one! Well, we'd have plenty of time for me to tell that on another day.
 
 <bigbreak>
 
@@ -600,15 +605,60 @@ How was I supposed to handle it? I'd never had to deal with something like this 
 
 It's not like I didn't know <em>about</em> rape. There was a guerrilla feminist club at school who'd posted flyers all over the place with the statistics. I'd freaked myself out plenty of times thinking about how many of my friends must've had somebody do that to them, or worse, done it to somebody else. But to actually <em>know</em>… and about someone so close to me…
 
+I wasn't the kind of person who really had people confiding in me. I was the "fun friend". Or if I did get into serious stuff, half the time I'd make a mess of it, like I did with Tierze. But this wasn't just some random person I knew. This was Yali.
+
+<p><em>Yali</em>.</p>
+
+What ????? [make up a new fictional god reference?] had she been through? Not only this, but also the other things… I didn't know the details, but there were the people she had to hide her Chosen-ness from… there was the reason she lived alone…
+
+Another cold realization washed over me.
+
+<p>"It's the Stern Temple that pays for me to live here," she'd said. Well, <em>the Stern Temple was responsible for compensation paid to victims of crimes</em>. So if there was a crime that meant she needed a new home… a crime involving her parents… could they be dead? Could they have been her abusers?</p>
+
+And had she had to go through a trial? Of her own parents? Of their killers?
+
+How many layers of badass <em>was</em> she?
+
+
+
 
 ??? general knowledge of rape; cold realization: parents? how many layers of badass
 
 
 ????
 
+of something much, much bigger than me.
+
 <bigbreak>
 
-???? Don't tire yourself out on the way here. We'll have a lot more walking to do.
+The day finally came.
+
+I rose with the dawn. The sun echoed my dream, filling my blood with energy. I was ready.
+
+????
+
+"I love you so, so much."
+
+Mom sighed. "What do you want?"
+
+"I just want you to know how much I love you! Is that so wrong?" She didn't look very convinced. "Come on, I'm a teenager! I'm allowed to have mood swings! You too –" I jabbed a finger at Dad "– get over here!"
+
+I grabbed them and hugged them both tight. They exchanged a look, but went along with it. Oh, they had no idea what was coming. But I knew.
+
+"Bye! Love ya!"
+
+I headed out the door like it was any other day. I took off running down the road towards the school. But as soon as I was out of sight of my house, I turned and took a different road.
+
+<p class="text left">on my way to clover square eta 20 min</p>
+<p class="text left">ill have something for you</p>
+<p class="text left">don't tire yourself out on the way here, we'll have a lot more walking to do</p>
+
+<p class="text right">on my way! see you soon! <3</p>
+<div class="clear"></div>
+
+???
+
+houses and shops go by, might be the last time I see them
 
 ????
 
@@ -634,7 +684,7 @@ Yali whispered back, "I don't want anyone to be sure that we're Ravellers, even 
 
 "What? No one told me about any other stuff!"
 
-"I mean… Kidnappings. Runaways. Star-crossed lovers. Anyone who wants to create plausible deniability about why they disappeared. Who's going to look for you if they think you're not in the world anymore, right? Realistically, there's more fakers than actual Ravellers. So with us –"
+"I mean… Kidnappings. Runaways. Star-crossed lovers. Anyone who wants to create some doubt about why they disappeared. Who's going to look for you if they think you're not in the world anymore, right? Realistically, there's more fakers than actual Ravellers. So with us –"
 
 "Haha, yeah, how likely is it that we'd <em>both</em> be chosen? Everyone will think we're the star-crossed lovers for sure."
 
