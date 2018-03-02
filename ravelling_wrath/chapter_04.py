@@ -613,21 +613,15 @@ What ????? [make up a new fictional god reference?] had she been through? Not on
 
 Another cold realization washed over me.
 
-<p>"It's the Stern Temple that pays for me to live here," she'd said. Well, <em>the Stern Temple was responsible for compensation paid to victims of crimes</em>. So if there was a crime that meant she needed a new home… a crime involving her parents… could they be dead? Could they have been her abusers?</p>
+<p>"It's the Stern Temple that pays for me to live here," she'd said. Well, <em>the Stern courts were responsible for compensation paid to victims of crimes</em>. So if there was a crime that meant she needed a new home… a crime involving her parents… could they be dead? Could they have been her abusers?</p>
 
 And had she had to go through a trial? Of her own parents? Of their killers?
 
 How many layers of badass <em>was</em> she?
 
+My mind turned these ideas over and over, [????? "these ideas" maybe not the right phrase] late into the night, until sleep was finally heavier than they were. There was nothing I could do to loosen the cold grip on my heart, to make it seem like it wasn't so bad. And my image of Yali kept flopping back and forth, never able to settle, between the Yali who was isolated and suffering, and the Yali who stepped out of it all, grimly ready to defy the gods.
 
-
-
-??? general knowledge of rape; cold realization: parents? how many layers of badass
-
-
-????
-
-of something much, much bigger than me.
+As I slipped into unconsciousness, the only thing I knew for sure was that I was facing something much, much bigger than me.
 
 <bigbreak>
 
