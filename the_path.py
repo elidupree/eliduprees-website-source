@@ -7,6 +7,15 @@ import blog
 	  
 def add_game(page_dict):
   utils.make_page (page_dict,
+    '/games/the-path-prototype-2',
+      "The Path ⊂ Eli Dupree's website",
+      '',
+      '', {"blurb": "An unfinished online game.", "after_body":'''
+    <script type='text/javascript' src="/media/the-path.js?rr"></script>
+  '''}
+  )
+
+  utils.make_page (page_dict,
     '/games/the-path',
       "The Path ⊂ Eli Dupree's website",
       r'''<style type="text/css">
