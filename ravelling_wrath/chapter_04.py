@@ -743,6 +743,32 @@ After a long pause, Yali said, "If you don't mind, I'd like a more detailed answ
 
 Yali laughed slightly, but didn't answer.
 
+?????
+
+Yali's voice broke the silence. "It's coming," she said hoarsely, as if with great effort. "Look into the fountain and think of me."
+
+I looked into the fountain. The stone carvings and rippling water were as pretty as before, although wasn't really my style. I squeezed Yali's hand, and felt that she was trembling.
+
+It was hard to explain when it began. The sound of the fountain splashing continued unchanged, but somehow it was like a clock ticking down the hours. The water's surface became a rippling sheet of glass. When I looked into the reflections, I thought I glimpsed bits of writing I could barely make out, stone tablets carrying long-forgotten histories, and here and there a shadow of a face. The stones were still the stones of the fountain. The shadow was still the shadow of a rusted ?????. What had changed?
+
+<p><em>Think of me.</em></p>
+
+I tried to turn my head, to get another look over at Yali, but my muscles ignored me. The fountain was everything. The splatter of lamplight was pulling me inwards. I thought of my hand, still intertwined with Yali's. <em>Let us both be pulled in the same direction</em>, I begged, not knowing to which god I was praying. The raindrops were a thousand fragments that should have shattered into nothingness long ago, but continued inescapably on their course, amassing into a tunnel that stretched out before me. I was falling into the tunnel, into a bottomless pit that fell down into a void of stars.
+
+<p><em>Think of me.</em></p>
+
+I made her face appear among the stars. Her eyes were blazing pinpricks of light. Her hand was a constellation reaching out towards me. She was crowned with cold fire that shone from an eternity away.
+
+I fell for centuries, drifting through nothingness, never getting closer to the stars.
+
+At last, I felt a looming presence, like a giant hand looming over me. Maybe Yali's, or maybe something else's, I had no way to tell. The hand slowly closed over me, shutting out the stars one by one.
+
+In the emptiness of the hand's embrace, I waited, wondering what would happen next. Until, bit by bit, I somehow became aware that the <em>hand</em> was waiting for <em>me</em>. The void it had created was expectant. I reached out, not knowing how. I had no arms to crawl with, no voice to yell into the darkness, and even my mind was empty of ideas. Yet somehow I still reached out, as if with my life force itself, to scratch a foothold into this fragment of the universe that was being offered to me.
+
+As my life force touched the void, these images all winked away – the hand, the stars, and even the void itself. They left me blinking into a different light that was much closer, much more real and mundane.
+
+I was in another world.
+
 ???
 
 
