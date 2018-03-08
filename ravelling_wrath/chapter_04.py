@@ -411,29 +411,45 @@ Layo smiled. "I <em>know</em> you. You've had something on your mind for a while
 
 The one nice thing about the fourth layer was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like near the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all. Anyway, it was much nicer than down near my home.
 
-????
+We got to the park and picked a trail to walk along. There were technically city buildings pretty close by on the other side, but there were <em>just</em> enough trees to make it feel like you were lost in the woods. Places with trees had always been a good compromise between me and the Layo – he liked nature, I liked climbing things, it was a perfect match.
 
-"So," I began. "I – I mean, Yali and me –" How was I supposed to explain this? "We – it's a huge mess – I mean, I don't mean between the two of us, we're great, I mean –" I swallowed. This wasn't going how I wanted it to.
+I didn't feel like climbing things today. Once we'd wandered out of sight of the streets for a while, I sat down on a weathered old wooden bench. Layo sat down beside me. I stared at my hands. We stayed that way for a long time. I had so much to tell him, but how would I even start?
 
-"We're just – we're just caught up in something, and we're working, we're both working so hard to make it work out, we're working so hard, but I'm so, I mean, I know we're getting somewhere, what we're doing is important, but I'm just to, <em>so</em> tired. I'm so tired." The words were pouring out of me now.
+After a while, I said, "Aren't you gonna ask me what the deal is?"
+
+"I know you'll tell me when you're ready."
+
+"Of course I'm ready, I, er. So," I began. "I – I mean, Yali and me –" Really, how was I supposed to explain this? "We – it's a huge mess – I mean, I don't mean between the two of us, we're great, I mean –" I swallowed. This wasn't going how I wanted it to.
+
+"We're just – we're just caught up in something, and we're working, we're both working so hard to make it work out, we're working so hard, but I'm so, I mean, I know we're getting somewhere, what we're doing is important, but I'm just so, <em>so</em> tired. I'm so tired."
 
 I put my hand to my face, and it came away with tears.
 
 "What the fuck is this?!?" I exploded. "I didn't cry when – I mean, I didn't cry at the <em>worst</em> part! Why am I crying <em>now?</em>"
 
-"It's okay," murmured Layo. "I'm here. You can cry all you need to." He had put his hands on my shoulders… So soft, so gentle…
+"It's okay," murmured Layo. "I'm here. You can cry all you need to." He had put his hands around my shoulders… So soft, so gentle…
 
 "I don't <em>need</em> to cry," I complained. But there was no stopping it now. I sank into him, sobbing uncontrollably.
 
-Slumped in his arms, I felt like all the tension was pouring out of me. Even tension I didn't know I'd had. ????? Layo was my oldest friend, someone I could always just be myself around.
+Slumped in his arms, I felt like all the tension was pouring out of me. Even tension I didn't know I'd had. It was so much different than being with Yali. I mean, I loved Yali to bits, but it was different. Layo was my oldest friend. Someone I could always just be myself around.
 
-"When did you get so good at this?" I demanded weakly. "Since when do you know how to comfort people?"
+"When did you get so good at this?" I weakly demanded. "Since when do you know how to comfort people?"
 
 Layo patiently rubbed my shoulders… Aaah… "The truth is, I do this for all my friends. It's just different with you. You could say you've always been my one 'fun friend'. We've –"
 
 "I bet I'm fucking it up, aren't I," I moaned. "I'm supposed to be the fun friend and I'm just, I'm fucking it up."
 
 "Not at all! This is the least I can do."
+
+I sighed. "Okay, I guess I'd better tell you what's going on before I make a mess of it. So, it started with…"
+
+Once the words started pouring out of me, they didn't stop. I told Layo everything. He listened attentively, letting me run through the whole story without stopping. Letting me pause to cry when it overwhelmed me.
+
+"…and that's where we are. I just can't handle it. I mean, I <em>can</em> handle it. But I don't want to. But – oh, you know what I mean."
+
+"I know. That's a lot to have to handle," he said gently. "You got some heavy, heavy stuff on your back right now."
+
+"I know. It sucks." I started fidgeting. I didn't really know what to do with this whole thing of sitting around and feeling bad about stuff. "So what do I do now? Like what do I <em>do</em>."
 
 ????
 
@@ -629,6 +645,8 @@ The day finally came.
 
 I rose with the dawn. The sun echoed my dream, filling my blood with energy. I was ready.
 
+Well, I couldn't <em>really</em> say I was ready, but for some reason, I <em>felt</em> ready. I went through my morning routine on autopilot, my mind racing ahead to what was coming.
+
 ????
 
 "I love you so, so much."
@@ -650,9 +668,11 @@ I headed out the door like it was any other day. I took off running down the roa
 <p class="text right">on my way! see you soon! <3</p>
 <div class="clear"></div>
 
+
+
 ???
 
-houses and shops go by, might be the last time I see them
+On my way, I saw the houses and shops go by. With each one, I wondered if I'd ever see it again. There was ?????.
 
 ????
 
@@ -694,15 +714,17 @@ Yali blinked, flustered. "What? The word is 'lovers', we love each other, that s
 
 "But by then, we might not be star-crossed anymore! This is very important!"
 
-It took Yali a moment to realize that I was joking, but then she laughed loudly.
+It took Yali a moment to realize that I was joking, but then she laughed loudly. Then she looked around furtively. But she hadn't drawn any attention. It was a damp day and it felt like it was about to rain, so everyone was hurrying to where they were going, not paying attention to random people across the street like us.
 
-????? "I think that's our bus."
+"I think that's our bus," muttered Yali.
 
 The bus drove up and we got on together. Yali paid for both of us.
 
 After we sat down, Yali whispered in my ear, ?????
 
-I held Yali's hand the whole way there. Neither of us spoke.
+I held Yali's hand the whole way there. Neither of us spoke. We had so much to say, but most of it had already been said, and the rest could wait until there were fewer people to overhear us.
+
+Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows
 
 ????
 
@@ -759,7 +781,7 @@ I tried to turn my head, to get another look over at Yali, but my muscles ignore
 
 I made her face appear among the stars. Her eyes were blazing pinpricks of light. Her hand was a constellation reaching out towards me. She was crowned with cold fire that shone from an eternity away.
 
-I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. And what was I? I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
+I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great beast watched me steadily, seeing all that I might do. But what was I? I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
 
 At last, I felt a looming presence, like a giant hand hovering over me. Maybe Yali's, or maybe something else's, I had no way to tell. The hand slowly descended around me, forming a vast and empty enclosure around me, shutting out the stars one by one.
 
