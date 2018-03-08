@@ -438,6 +438,23 @@ I've also made a doctor's appointment to try to tackle the health issue some mor
 ''',
 },
 
+
+{
+"title": "Projects update 2018-03-07",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I've been hard at work on <em>The Path</em> this week. It's nearly finished! I was hoping to release it today, but there's a lot of little details left to clean up. That said, I'm pretty confident that I'll be able to release it next Wednesday!
+
+Meanwhile, Chapter 4 of <a href="/ravelling-wrath">Ravelling Wrath</a> has grown to over 10000 words. <em>The Path</em> has been taking most of my energy, but I'm hoping to finish this chapter within this month as well.
+
+''',
+},
+
 ]
 
 """
