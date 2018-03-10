@@ -451,6 +451,12 @@ Once the words started pouring out of me, they didn't stop. I told Layo everythi
 
 "I know. It sucks." I started fidgeting. I didn't really know what to do with this whole thing of sitting around and feeling bad about stuff. "So what do I do now? Like what do I <em>do</em>."
 
+?????
+
+"What would Yali say if you told. You wanted to take a break from ?????"
+
+"Oh, that's easy, she'd be all like," I mimicked Yali's voice,
+
 ????
 
 <bigbreak>
