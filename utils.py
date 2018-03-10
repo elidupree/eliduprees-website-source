@@ -39,7 +39,20 @@ def format_for_url(string):
    # ,.!$+*'() are allowed in URLs, but I've ommitted them because they will almost always just make the URL look ugly, and some programs omit them from automatically linkified text URLs if they're at the end.
    # I use <i> tags for titles in some things that will be passed through this function.
   return re.sub(r"[^-a-zA-Z0-9_]","",re.sub(" ","-",strip_tags(string))).lower()
-  
+
+def import_html (path):
+  with open (path, "r", encoding="utf-8") as file:
+    matches = re.search (
+      re.escape(r"<!-- eliduprees-website-source head -->")
+      +"(.*?)"+
+      re.escape(r"<!-- /eliduprees-website-source head -->")
+      +".*?"+
+      re.escape(r"<!-- eliduprees-website-source body -->")
+      +"(.*?)"+
+      re.escape(r"<!-- /eliduprees-website-source body -->")
+      , file.read(), re.DOTALL)
+    return (matches.group (1), matches.group (2))
+
 def checked_insert(dicti, idx, contents):
   if idx in dicti:
     raise Exception("checked_insert fail: "+idx)
