@@ -450,6 +450,7 @@ manual_redirects = {
   
   "stories/ravelling-wrath-chapter-1": "/ravelling-wrath",
   "stories/ravelling-wrath-chapter-1/discussion": "/ravelling-wrath/discussion",
+  "/games/the-path-prototype-2": "/games/the-path",
 }
 
 def add_redirects(page_dict):

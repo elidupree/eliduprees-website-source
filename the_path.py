@@ -8,7 +8,7 @@ import blog
 def add_game(page_dict):
   (head, body) = utils.import_html ("vendor/the_path.html")
   utils.make_page (page_dict,
-    '/games/the-path-prototype-2',
+    '/games/the-path',
       "The Path ⊂ Eli Dupree's website",
       head,
       body, {"blurb": "A game about social expectations.", "blurb_image": "/media/the-path-screenshot.png?rr", "after_body":'''
@@ -18,7 +18,7 @@ def add_game(page_dict):
   )
 
   utils.make_page (page_dict,
-    '/games/the-path',
+    '/games/the-path-prototype-1',
       "The Path ⊂ Eli Dupree's website",
       r'''<style type="text/css">
 html,body {background-color: black;}
