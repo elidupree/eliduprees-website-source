@@ -161,5 +161,5 @@ else {
 
 };
     </script>
-    <script type="text/javascript" src="/media/green_caves.js?rr"></script>''', {"blurb": blurb, "blurb_image": "/media/green-caves-screenshot.png?rr"}
+    <script async type="text/javascript" src="/media/green_caves.js?rr"></script>''', {"blurb": blurb, "blurb_image": "/media/green-caves-screenshot.png?rr"}
   )
