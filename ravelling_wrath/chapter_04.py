@@ -453,9 +453,9 @@ Once the words started pouring out of me, they didn't stop. I told Layo everythi
 
 ?????
 
-"What would Yali say if you told. You wanted to take a break from ?????"
+"What would Yali say if you told her you wanted to take a break from ?????"
 
-"Oh, that's easy, she'd be all like," I mimicked Yali's voice,
+"Oh, that's easy, she'd be all like," I mimicked Yali's voice, "I completely understand. I've been expecting you to need a break, and in fact, I've already made a plan for how to make the best of it."
 
 ????
 
