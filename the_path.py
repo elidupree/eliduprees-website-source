@@ -11,7 +11,7 @@ def add_game(page_dict):
     '/games/the-path-prototype-2',
       "The Path ⊂ Eli Dupree's website",
       head,
-      body, {"blurb": "An unfinished online game.", "after_body":'''
+      body, {"blurb": "A game about social expectations.", "blurb_image": "/media/the-path-screenshot.png?rr", "after_body":'''
     <script type='text/javascript' src="/media/paper-core.min.js?rr"></script>
     <script type='text/javascript' src="/media/the_path.js?rr"></script>
   '''}
