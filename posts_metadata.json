@@ -741,6 +741,7 @@
  "New online game: The Path!": {
   "date_modified": "2018-03-14",
   "date_posted": "2018-03-14",
+  "deployed": true,
   "id": "74f61eef083092caa70bec67abe7916"
  },
  "New online tool for voice practice!": {
