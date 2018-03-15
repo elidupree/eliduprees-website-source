@@ -61,7 +61,7 @@ Then Yali had gone quiet. And that's where we were now. I was just slumped on he
 
 While I sat, Yali idly started cleaning up our dirty dishes. And every now and then, she gave a long look back at me. She was probably thinking about how to help me with this. <em>She</em> was trying to help <em>me!</em> Why did <em>she</em> have to help <em>me</em> with something I <em>should</em> be able to just <em><strong>do</strong>?!</em>
 
-Gods, she was even doing something <em>productive</em> while I was just sitting there messing around with my shirt. I was being such an asshole. "I can help you with the dishes –"
+Gods, she doing something <em>productive</em> while I was just sitting there messing around with my shirt. I was being such an asshole. "I can help you with the dishes –"
 
 "Don't worry about it."
 
@@ -407,11 +407,9 @@ Layo smiled. "I <em>know</em> you. You've had something on your mind for a while
 
 "Nah, you're fine, let's go to the park obviously." I grabbed his hand and dragged him along with me.
 
-????
-
 The one nice thing about the fourth layer was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like near the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all. Anyway, it was much nicer than down near my home.
 
-We got to the park and picked a trail to walk along. There were technically city buildings pretty close by on the other side, but there were <em>just</em> enough trees to make it feel like you were lost in the woods. Places with trees had always been a good compromise between me and the Layo – he liked nature, I liked climbing things, it was a perfect match.
+We got to the park and picked a trail to walk along. There were technically city buildings pretty close on the other side, but there were <em>just</em> enough trees to make it feel like you were lost in the woods. Places with trees had always been a good compromise between me and the Layo – he liked nature, I liked climbing things, it was a perfect match.
 
 I didn't feel like climbing things today. Once we'd wandered out of sight of the streets for a while, I sat down on a weathered old wooden bench. Layo sat down beside me. I stared at my hands. We stayed that way for a long time. I had so much to tell him, but how would I even start?
 
@@ -461,17 +459,29 @@ Once the words started pouring out of me, they didn't stop. I told Layo everythi
 
 <bigbreak>
 
-????
+Yali was even more happy to take a break than I'd thought.
 
-"This is the best I've felt about my body in ages!"
+"I wasn't going to make us work all the way up to Ravelling Week!" she said. "What would we be able to look forward to if it was just 'work, work, work', and then everything trying to kill us? We deserve some time to, to, to just be girlfriends! Like, to, to…"
 
-????
+"To enjoy ourselves?"
 
-"Wait, like, <em>actually</em> fight you?" ?????
+"Yes, that! Besides, we need a time to celebrate everything we've gotten done in the last months! You've had some big breakthroughs with understanding your feelings –" I had told her all about my weird fight with Pèi "– and I'm doing great too!"
 
-?????
+"What have you been do–"
 
-"Okay, but I'm warning you, ????? woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard and I didn't catch my balance until I stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
+"This!" Yali surged to her feet. She spun around in the middle of her living room and flexed her muscles. "It was hard work at first, but by the Stern, this is the best I've felt about my body in ages!"
+
+I took a good look at her. "Fuck yeah," I said. "You look ready to kick ass."
+
+Yali smirked. "Fight me," she said.
+
+I laughed, thinking she was joking. She gave me a weird look. "What are you laughing at?" she said.
+
+"Wait, like, you meant <em>actually</em> fight you?" I said. That couldn't possibly be right, could it?
+
+"Why not?"
+
+"Okay," I got up and stepped forwards, "but I'm warning you, I – woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard and I didn't catch my balance until I stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
 
 "When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this... <em>physical.</em> We'd hug and kiss and stuff, but that was gentle, it just wasn't the same. But now… A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
 
@@ -485,7 +495,7 @@ My heart was pounding like a jackhammer. I was sandwiched, my back against the w
 
 "No no no I didn't mean –"
 
-"Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it." We both paused for a bit to catch our breath. [????? Here or somewhere else: Somehow, she was the most relaxed I'd ever seen her.] "Say, how much do you weigh?"
+"Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it." We both paused for a bit to catch our breath. It was weird, but somehow, she was the most relaxed I'd ever seen her. "Say, how much do you weigh?"
 
 "Er – I think I was 45 kilos last time I was at the doctor –"
 
@@ -499,7 +509,7 @@ Yali grinned from ear to ear. "This is great! I'm 90, I weigh <em>literally</em>
 
 Yali practically <em>threw</em> me onto the couch. Then she thumped down beside me and cuddled up to me. She leaned in and started planting kisses all over my face. I kissed back eagerly, shoving my lips onto her face as hard as I could get away with. Gods, I couldn't handle how much I loved her. I'd almost thought I would never get a chance like this.
 
-We pulled back to catch our breaths, but definitely not to stop. Even from hearing her <em>breathe</em>, I could tell how excited she was. She was panting in a totally natural way, not even regulating it like usual. We were both so full of energy.
+We pulled back to catch our breaths, but definitely not to stop. Even from hearing her <em>breathe</em>, I could tell how excited she was. She was panting like a normal person, not doing some sort of regulated breathing like she did at the gym. We were both so full of energy.
 
 "Soo-ooo…" I said slyly, "the two young lovebirds are about to go on a terrible journey… Who knows when they'll get another chance to be together like this…"
 
@@ -515,7 +525,7 @@ She was still cuddling up to me, she was still so warm, but something cold was g
 
 "What I mean is, I mean, I, I, I," she took a breath. Her calm focus was back again. "I can't. I'd have to deal with something I'm not ready to deal with yet."
 
-What? What did she mean by that? A million possibilities ran through my head [????? question for reader: what are some first possibilities you think of, and should I have Rinn name them explicitly? Answer before you read further. The own or], but none of them made sense. Was it, like, a medical issue? But Yali always took care of that stuff right away! How could she be "not ready", unless it was, like, if it wasn't a physical thing, like…
+What? What did she mean by that? A million possibilities ran through my head [????? question for reader: what are some first possibilities you think of, and should I have Rinn name them explicitly? Answer before you read further.], but none of them made sense. Was it, like, a medical issue? But Yali always took care of that stuff right away! How could she be "not ready", unless it was, like, if it wasn't a physical thing, like…
 
 I blurted it out without thinking. "Don't tell me someone raped you!"
 
@@ -547,7 +557,9 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Oh, the one with the fence around it?"
 
-I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff. So first, they told me to climb the tree, and I was like 'easy peasy' and I did it. And the next time they said to climb out on the big branch, so I did that too. And then they dared me to hang upside down from the big branch, so I did that, and so on and so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance a jig on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
+I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. I was forcing the grin a little, but that <em>was</em> how I would've felt about it any other time.
+
+I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like 'easy peasy' and I did it. And the next time they said to climb out on the big branch, so I did that too. And then they dared me to hang upside down from the big branch, so I did that, and so on and so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance a jig on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
 
 "That must have really hurt!"
 
@@ -555,9 +567,13 @@ I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I
 
 Yali started giggling uncontrollably.
 
-????
+"What's so funny?"
 
-"I guess it wasn't actually forever, but it <em>felt</em> like forever. So yeah, after that I stopped doing <em>everything</em> people do to me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again, just to prove I wasn't scared. And that's when I learned how to climb a fence, too."
+"You were, you were, in loads of pain," she forced out, "and it isn't even <em>interesting</em> to you!"
+
+"Uh, yeah? I mean it wasn't for very long." That only made her giggle harder. Eventually, she got herself under control and told me to keep going.
+
+"Okay. So I guess I didn't <em>actually</em> have the cast on forever, but it <em>felt</em> like forever, it was awful. So yeah, after that I stopped doing <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again, just to prove I wasn't scared. And that's when I learned how to climb a fence, too."
 
 I pulled up the leg of my pants. "Here," I said, "let me show you my scar from the fall!"
 
@@ -631,7 +647,7 @@ I wasn't the kind of person who really had people confiding in me. I was the "fu
 
 <p><em>Yali</em>.</p>
 
-What ????? [make up a new fictional god reference?] had she been through? Not only this, but also the other things… I didn't know the details, but there were the people she had to hide her Chosen-ness from… there was the reason she lived alone…
+How many horrors was she fighting through? Not only this, but also the other things… I didn't know the details, but there were the people she had to hide her Chosen-ness from… there was the reason she lived alone…
 
 Another cold realization washed over me.
 
@@ -736,6 +752,14 @@ Along the way, the rain began, a loud patter on the metal roof. Water streaked t
 
 "Ya know, usually I fight against people I'm willing to <em>hurt</em>."
 
+"What, don't you do play-fighting with your friends?"
+
+"More like with randos in the schoolyard. So what if they get a few bruises, they'll be fine."
+
+"If <em>I</em> get a few bruises," said Yali irritably, "<em>I'll</em> be fine."
+
+"It's not the same!" Yali ignored me. "Come on, you're my girlfriend! I'm allowed to be extra protective!"
+
 ????
 
 
@@ -787,7 +811,7 @@ I tried to turn my head, to get another look over at Yali, but my muscles ignore
 
 I made her face appear among the stars. Her eyes were blazing pinpricks of light. Her hand was a constellation reaching out towards me. She was crowned with cold fire that shone from an eternity away.
 
-I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great beast watched me steadily, seeing all that I might do. But what was I? I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
+I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great beast watched me indifferently, seeing all that I might do. And in front of all this, I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
 
 At last, I felt a looming presence, like a giant hand hovering over me. Maybe Yali's, or maybe something else's, I had no way to tell. The hand slowly descended around me, forming a vast and empty enclosure around me, shutting out the stars one by one.
 
