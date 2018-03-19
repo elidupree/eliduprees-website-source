@@ -6,12 +6,12 @@ import bars
 import blog
 	  
 def add_game(page_dict):
-  (head, body) = utils.import_html ("vendor/the_path.html")
+  (head, body, after_body) = utils.import_html ("vendor/the_path.html")
   utils.make_page (page_dict,
     '/games/the-path',
       "The Path ⊂ Eli Dupree's website",
       head,
-      body, {"blurb": "A game about social expectations.", "blurb_image": "/media/the-path-screenshot.png?rr", "after_body":'''
+      body, {"blurb": "A game about social expectations.", "blurb_image": "/media/the-path-screenshot.png?rr", "after_body": after_body+'''
     <script type='text/javascript' src="/media/paper-core.min.js?rr"></script>
     <script async type='text/javascript' src="/media/the_path.js?rr"></script>
   '''}

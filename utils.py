@@ -50,8 +50,12 @@ def import_html (path):
       re.escape(r"<!-- eliduprees-website-source body -->")
       +"(.*?)"+
       re.escape(r"<!-- /eliduprees-website-source body -->")
+      +".*?"+
+      re.escape(r"<!-- eliduprees-website-source after_body -->")
+      +"(.*?)"+
+      re.escape(r"<!-- /eliduprees-website-source after_body -->")
       , file.read(), re.DOTALL)
-    return (matches.group (1), matches.group (2))
+    return (matches.group (1), matches.group (2), matches.group (3))
 
 def checked_insert(dicti, idx, contents):
   if idx in dicti:
