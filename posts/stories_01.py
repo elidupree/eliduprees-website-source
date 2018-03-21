@@ -126,7 +126,7 @@ As soon as we snuck in the side door, it slammed behind us and a whole bunch of 
 
 "I'm sorry, I'm so sorry!" said Dave, panicked. "There's no time loop! It was a superintelligent AI! It threatened me, it told me exactly what to say to make you believe me! But now it's betrayed us, you have to –"
 
-The next thing I knew, I was floating in the air, looking down at Dave's body. And my own body. A robed skeleton floated nearby.
+The next thing I knew, I was floating in the air, looking down at Dave's body… and my own body. A robed skeleton floated nearby.
 
 "Am I dead?" I said.
 
