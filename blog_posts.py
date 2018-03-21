@@ -153,7 +153,7 @@ def stories_index (full):
   
   def small_story (story):
     if story not in stories_map:
-      return '<a class="small_story"><h2>' + story + ": "  + '</h2><span class="blurb"> Coming soon... </span></a>' if full else ''
+      return '<a class="small_story"><h2>' + story + ": "  + '</h2><span class="blurb"> Coming eventually... </span></a>' if full else ''
     story = stories_map [story]
     story ["listed"] = True
     return '<a class="small_story" href="' + blog.post_permalink (story) +'"><h2 class=" restore_link">' + story ["title"]+ info (story) + ": "  + '</h2><span class="blurb">' + story ["blurb"] + '</span></a>' if full else blog.index_entry_html (story)
