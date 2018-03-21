@@ -656,12 +656,16 @@
  "It Was All A Dream": {
   "date_modified": "2018-03-21",
   "date_posted": "2018-03-21",
-  "id": "3b0b531130592984fd2d2bbd1a3d32d"
+  "deployed": true,
+  "id": "3b0b531130592984fd2d2bbd1a3d32d",
+  "remembered_contents": "a21b67f3f6794c22d385a177cb2339b2ac601522f11506cff597a3f33434130855eff1718f7f04025285a7ab4a452907"
  },
  "It Was All A Dream: Discussion": {
   "date_modified": "2018-03-21",
   "date_posted": "2018-03-21",
-  "id": "40c11693fd9b6012d5d4f4bca44f49b"
+  "deployed": true,
+  "id": "40c11693fd9b6012d5d4f4bca44f49b",
+  "remembered_contents": "6b31df6204800d47edbca48b8e1ea3a5f41b33da8dd0117557bf03d0c9448613aac53c508c4781c7618e4530a64906cd"
  },
  "Let my writing shake the world.": {
   "date_modified": "2017-02-02",
