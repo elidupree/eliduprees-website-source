@@ -81,4 +81,97 @@ width: 100%; height: 55em;
 "Man. They sure don't."
   ''',
 },
+
+{
+  "title":"It Was All A Dream",
+  "blurb": "A Story Where There's A Time Loop And Then It All Goes Horribly Wrong",
+  "authors_notes":'''
+
+<p>I originally had the idea for this story months ago. I was thinking about how a lot of stories end by revealing that the whole first part was an illusion, or a metaphor, or ultimately meaningless or arbitrary. Or that all of the events had been manipulated by a villain beyond the scope of what the main characters could do anything about.</p>
+
+<p>It generally doesn't make for a satisfying ending. But when I realized just how many <em>different</em> ways of doing this there were, I couldn't resist writing this parody.</p>
+
+<p>As an unrelated note, the first time I said "robed skeleton", my speech-to-text software misheard it as "robot skeleton". That can be a headcanon if you want.</p>
+  
+  ''',
+  "head": '''
+  <style>
+
+.reaper {font-variant: small-caps;}
+
+</style>
+  
+  ''',
+  "auto_paragraphs": True,
+  "contents":'''
+  
+  
+I had just finished playing a good virtual-reality game when I got the call. 
+
+It was from my friend Dave. "You've got to help me," he said, his voice breaking up from the poor reception. "I'm trapped in a time loop, I keep reliving this day over and over."
+
+"Really?" I said. "If you've had this conversation before, then what number am I thinking of?"
+
+"It's usually 68," he said nervously. By Jove, he was right. He went on to tell me a bunch of other stuff about my plans for the day that he couldn't possibly have known normally. That seemed pretty convincing. At first, I had wondered if I was somehow still in the virtual reality, but VR tech isn't good enough to read anyone's <em>mind</em> yet. So I agreed to meet up with him. He came by in his car, picked me up, and drove me to a weird-looking building.
+
+"What is this place?" I asked.
+
+"Secret government facility where the artifact that controls the time loop is hidden," Dave said. "We've snuck into it loads of times before. It'll be easy."
+
+As soon as we snuck in the side door, it slammed behind us and a whole bunch of alarms started going off.
+
+"What?!!" said Dave. "This isn't supposed to happen!"
+
+"Uh, it'll be okay, right? With the time loop, you'll get another chance –"
+
+"I'm sorry, I'm so sorry!" said Dave, panicked. "There's no time loop! It was a superintelligent AI! It threatened me, it told me exactly what to say to make you believe me! But now it's betrayed us, you have to –"
+
+The next thing I knew, I was floating in the air, looking down at Dave's body. And my own body. A robed skeleton floated nearby.
+
+"Am I dead?" I said.
+
+<p><q><span class="reaper">Yes,</span></q> said the Reaper. <q><span class="reaper">You were killed by an automated security system,</span></q> it added helpfully.</p>
+
+"Was it true? About the time loop? Or the AI?"
+
+<p><q><span class="reaper">No,</span></q> said the Reaper.</p>
+
+"Then how –"
+
+<p><q><span class="reaper">Are you familiar with the many-worlds interpretation of quantum mech—</span></q></p>
+
+"Oh for cryin' out loud."
+
+<p><q><span class="reaper">Every possible sequence of events happens in <em>some</em> universe. There <em>is</em> an evil AI in this universe, and it <em>did</em> manipulate you and your friend. But it's not superintelligent. It just thinks it is, because we happen to be in the one universe where all of its plans get lucky and succeed.</span></q></p>
+
+"Oh."
+
+<p><q><span class="reaper">But you needn't concern yourself with that.</span></q> The Reaper waved an arm, and a glowing portal appeared.</p>
+
+The glowing light drew me in, flooding all my senses with warmth and peace. I blinked and found myself lying on my back, looking up into a beautiful garden. Standing over me were an elf, a dwarf, and a punk princess with a large axe.
+
+"Am I dead for real now? Is this the afterlife?"
+
+"What? Of course not! We just healed you!" exclaimed the punk princess.
+
+"But what about the time loop and the superintelligent AI and the Reaper and the multiple universes and –"
+
+They exchanged a look. "Last time we saw you, you were fighting in a wizards' duel with the sorcerer Cacomalbad. Cacomalbad must have defeated you, then used sorcery to erase your memories and replace them with some sort of nonsense."
+
+"But it felt so real…" I muttered.
+
+Just then, my alarm clock went off. Ugh.
+
+I got up and brushed my teeth groggily. As I brushed, I tried to think back to all the weird stuff that had happened in my dream. Time loops? Evil sorcerers? Gadzooks, that was some weird dream.
+
+Just kidding! I lied. I didn't even actually dream all that stuff, I just made it up.
+
+Or, technically speaking, I didn't lie. I'm just a fictional character in a story. Since I don't exist, I didn't technically <em>do</em> anything at all. The author is the one who made it up.
+
+Toodles!
+
+
+  ''',
+},
+
 ]

@@ -167,6 +167,7 @@ def stories_index (full):
   big_story ("Time Travelers and How to Kill Them: a Practical Guide") +
   group ("Short stories",
     small_story ("Capitalism Sat") + 
+    small_story ("It Was All A Dream") + 
     small_story ("Will You Try to Escape?") +
     small_story ("The Sieve") +
     small_story ("Nothing Is Wrong In This World") +
