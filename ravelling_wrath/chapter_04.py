@@ -445,19 +445,53 @@ Once the words started pouring out of me, they didn't stop. I told Layo everythi
 
 "…and that's where we are. I just can't handle it. I mean, I <em>can</em> handle it. But I don't want to. But – oh, you know what I mean."
 
-"I know. That's a lot to have to handle," he said gently. "You got some heavy, heavy stuff on your back right now."
+"I know. That's a lot to have to handle," he said gently. "You've got some heavy, heavy stuff on your back right now."
 
 "I know. It sucks." I started fidgeting. I didn't really know what to do with this whole thing of sitting around and feeling bad about stuff. "So what do I do now? Like what do I <em>do</em>."
 
-?????
+"It's okay if at first you don't know what to do. No one gets everything right the first time."
 
-"What would Yali say if you told her you wanted to take a break from ?????"
+"Yeah obviously, but I want to get <em>this</em> right the first time! You know, I kind of want to not die and stuff!" I wasn't sure why I was exploding at Layo when he was only being nice, but I couldn't help myself.
+
+"It's okay. It's okay. I can help you think it through if you want."
+
+"Okay, go. Help me."
+
+"So, you've been working hard, training yourself to think differently. You wanted to keep going –"
+
+"– but I <em>caaaaan't</em>."
+
+"– but it's come to a breaking point, and you can't keep going on like this. Something needs to change."
+
+"But I can't just stop! What if we die because I didn't keep at it?!"
+
+"You don't have to stop completely. But you can take a break. And the Waiting knows you deserve one."
+
+"Well of course I deserve a break! We both deserve for this to never have happened in the first place! But that doesn't matter now, this is <em>Yali</em>! I have to do whatever it takes to protect her!"
+
+"What would <em>Yali</em> say if you told her you wanted to take a break?"
 
 "Oh, that's easy, she'd be all like," I mimicked Yali's voice, "I completely understand. I've been expecting you to need a break, and in fact, I've already made a plan for how to make the best of it."
 
-????
+Layo smiled.
+
+"Screw you," I said.
+
+"I understand. It's not the answer you wanted. But my dad always says, no one with a mission wants to stop and rest, but –"
+
+"– but when it catches up to you, you'll wish you rested," I finished. Layo's dad had loads of sayings like that. And… shit. It wasn't wrong. All of a sudden I couldn't stop myself thinking about how nice it would be to just give up and rest. [rewrite???? better details] I was flooded with relief and terror at the same time. "But what if we die because I didn't keep at it?" I repeated, desperate to convince myself.
+
+Layo said softly, "What if you die because you burned yourself out?"
+
+Shiiiiit. That was it. [Broken now?????]. The tide of relief over took me completely. "I'm going to have to tell her that I can't handle it," I said morosely.
+
+"You're going to have to tell her that you're human."
+
+???? [Layo also cries]
 
 <bigbreak>
+
+[Note: I think I'm going to split the chapter here, so that's the end of chapter 4 and this is the beginning of chapter 5]
 
 Yali was even more happy to take a break than I'd thought.
 
