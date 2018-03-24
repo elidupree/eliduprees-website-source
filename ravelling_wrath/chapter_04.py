@@ -515,9 +515,9 @@ His voice broke. "I'll miss you."
 
 "I just thought… In case we don't get a good chance to say goodbye later…"
 
+With everything else that was going on, I hadn't even thought about this stuff. But now that he mentioned it… I'd never <em>not</em> had Layo around. Maybe there been times when one of us was away for a week or two, but <em>three months</em>…? I hugged him fiercely. "I <em>am</em> gonna miss you. I'm gonna miss you so much, I don't know how I'm gonna handle it."
 
-
-???? [Layo also cries]
+"It's okay. It's okay," Layo murmured. We cried together, there in each other's arms. It was all too real. So much too real.
 
 <bigbreak>
 
@@ -532,11 +532,11 @@ His voice broke. "I'll miss you."
 
 Yali was even more happy to take a break than I'd thought.
 
-"I wasn't going to make us work all the way up to Ravelling Week!" she said. "What would we be able to look forward to if it was just 'work, work, work', and then everything trying to kill us? We deserve some time to, to, to just be girlfriends! Like, to, to…"
+"I wasn't going to make us work all the way up to Ravelling Week!" she exclaimed. "What would we be able to look forward to if it was just 'work, work, work', and then everything trying to kill us? We deserve some time to, to, to just be girlfriends! Like, to, to…"
 
 "To enjoy ourselves?"
 
-"Yes, that! Besides, we need a time to celebrate everything we've gotten done in the last months! You've had some big breakthroughs with understanding your feelings –" I had told her all about my weird fight with Pèi "– and I'm doing great too!"
+"Yes, that! Besides, we need a time to celebrate everything we've gotten done in the last months! You've had some big breakthroughs with understanding your feelings –" I had told her all about my weird fight with Pèi, where I'd switched my emotions back and forth "– and I'm doing great too!"
 
 "What have you been do–"
 
@@ -552,7 +552,7 @@ I laughed, thinking she was joking. She gave me a weird look. "What are you laug
 
 "Why not?"
 
-"Okay," I got up and stepped forwards, "but I'm warning you, I – woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard and I didn't catch my balance until I stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
+"Ooo-kay," I got up and stepped forwards, "but I'm warning you, I – woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard and I didn't catch my balance until I stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
 
 "When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this... <em>physical.</em> We'd hug and kiss and stuff, but that was gentle, it just wasn't the same. But now… A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
 
