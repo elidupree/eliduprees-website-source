@@ -469,7 +469,7 @@ Once the words started pouring out of me, they didn't stop. I told Layo everythi
 
 "Well of course I deserve a break! We both deserve for this to never have happened in the first place! But that doesn't matter now, this is <em>Yali</em>! I have to do whatever it takes to protect her!"
 
-"What would <em>Yali</em> say if you told her you wanted to take a break?"
+"What would <em>Yali</em> say if you said you wanted to take a break?"
 
 "Oh, that's easy, she'd be all like," I mimicked Yali's voice, "I completely understand. I've been expecting you to need a break, and in fact, I've already made a plan for how to make the best of it."
 
@@ -485,11 +485,48 @@ Layo said softly, "What if you die because you burned yourself out?"
 
 Shiiiiit. That was it. [Broken now?????]. The tide of relief over took me completely. "I'm going to have to tell her that I can't handle it," I said morosely.
 
-"You're going to have to tell her that you're human."
+"You're going to have to tell her that you're <em>human</em>."
+
+"But I don't waaaaaant to be human," I mumbled into his chest. "I wanna be a badass who never needs any help with anything."
+
+"I understand."
+
+"I love you so much, you know that, right? As a friend, I mean –"
+
+"I know. I love you too."
+
+"I just love you so much, you make everything better. You've gone and solved my problem just like that. Wait, that's right!" I jumped up and started dancing around the bench, grinning. "I'm just going to tell Yali I need a break! Problem solved!"
+
+"Rinn…"
+
+"What, did you think I was gonna stay all emotional and stuff? I bet that's how it is with all your other friends, but <em>nope</em> –" I spun around and jumped up in the air. "I'm still Rinn Akatura, motherfucker!"
+
+"Rinn!" said Layo. He sounded really serious, so I stopped and looked back at him. Then I saw that he was crying, too.
+
+"What's the deal?"
+
+His voice broke. "I'll miss you."
+
+"Come on, I'm not <em>actually</em> going to die! It'll just be a few months, and then I'll be back and I can tell you all about my awesome adventures in the Otherworld! It'll be great!"
+
+"I… I believe you. If anyone can do it, you can," said Layo tentatively. "But it's still going to be three months… and I won't know… and, wherever you are, you'll miss me, too, won't you?"
+
+"Aw stop it, you're going to make me cry again!"
+
+"I just thought… In case we don't get a good chance to say goodbye later…"
+
+
 
 ???? [Layo also cries]
 
 <bigbreak>
+
+
+
+
+
+
+
 
 [Note: I think I'm going to split the chapter here, so that's the end of chapter 4 and this is the beginning of chapter 5]
 
