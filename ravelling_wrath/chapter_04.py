@@ -189,15 +189,15 @@ After having the dream like half a dozen times, I thought of telling Yali about 
 
 "Oh right, you died there once. I mean, one of the other Farseers died there and you have their –"
 
-"– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. ?????…" she trailed off.
+"– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. ????? [Mostly incoherent mumbling]…" she trailed off.
 
-"???? question?"
+"???? [Request to explain mumbling]?"
 
 "Why do you love me so much?" said Yali suddenly.
 
 "Whaaaaaaat?! But there's so much about you to love! Don't tell me you don't –"
 
-Yali gave an embarrassed smile. "No, no, I, I mean, I've been meaning you to ask, I mean, it's obvious that you <em>do</em> love me, but, but, wait, I don't mean I'm insecure about it, but, I just want to understand, what is it <em>about</em> me? Like, ?????"
+Yali gave an embarrassed smile. "No, no, I, I mean, I've been meaning you to ask, I mean, it's obvious that you <em>do</em> love me, but, but, wait, I don't mean I'm insecure about it, but, I just want to understand, what is it <em>about</em> me? Like, what do you <em>look</em> for, in, in… someone?"
 
 "How am I supposed to know that? I mean, you're, like, sexy, and smart, and caring, but like, I don't fall in love with <em>everyone</em> who's sexy and smart and caring, it's just one of those things, you know, –"
 
@@ -231,7 +231,7 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily... and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the thing I really can't stand is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So I, I, I really want to get in better shape. I guess it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to just do the Waiting God wants, too, I…" Yali trailed off.
 
-I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize ????tired. But I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
+I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize. It would even make me feel better! It was so tiring to just keep grinding away at the 'games', I'd be glad to make a real emotional connection. But the problem was, I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
 
 Yali still looked sort of downcast. "Will you go with me… more than just once? I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried that people will be judging me because I'm fat. But now it occurs to me that my life is more important than other people judging me. But…"
 
@@ -313,9 +313,9 @@ And Yali just accepted it, of course. We tried to find something fun to do inste
 
 There I was, leaning on the wall after school, staring at my phone. At an unanswered text from Yali.
 
-Ugh, this wasn't supposed to happen! <em>Other</em> people spent ages worrying what to text to their girlfriends. Not me!
+Ugh, this wasn't supposed to happen! <em>Other</em> people spent ages worrying about what to text to their girlfriends. Not me!
 
-It wasn't even anything weird, just normal making plans. But whenever I thought of talking to her, it just came back, that <em>exhaustion</em> from the Expressing Game. I just <em>couldn't</em> see her today. But I wanted to see her! I loved her so much, it would just be stupid if I missed a chance to get together! Plus, if I didn't answer the text, that would make me an asshole! If I wasn't going to see her today, I should just <em>tell</em> her instead of ????. No, there's no way I would just <em>not</em> want to see her!
+It wasn't even anything weird, just normal making plans. But whenever I thought of talking to her, it just came back, that <em>exhaustion</em> from the Expressing Game. I just <em>couldn't</em> see her today. But I wanted to see her! I loved her so much, it would just be stupid if I missed a chance to get together! Plus, if I didn't answer the text, that would make me an asshole! If I wasn't going to see her today, I should just <em>tell</em> her instead of screwing around. No, that was no good either, there was no way I would just <em>not</em> want to see her!
 
 Ugh, I needed to talk to someone about this. But who? Yali was the only one who knew how to help me with my feelings! But I couldn't ask her for help <em>again!</em> She was already helping me so much!
 
