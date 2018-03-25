@@ -161,7 +161,7 @@ I hadn't thought I was going to do it, but I couldn't resist. "<em>Fuck! You!</e
 
 "We-ell…"
 
-"That's okay. You don't have to get it perfect [???? this is the controlling game] on the first try. Now, Releasing Game again!"
+"That's okay. You don't have to get it perfect on the first try. In fact, <em>acting</em> calm is the way you do the Controlling Game, so that's a kind of success. Now, Releasing Game again!"
 
 "But –"
 
@@ -177,9 +177,9 @@ In the next week or so, we saw a lot of each other. Every time we hung out, we d
 
 <bigbreak>
 
-At the same time, I was having that dream again. It was hard to remember, but it was like I was walking through the ruins of a gigantic city. And the sun… The sun, always high in the sky, warm and bright, pulsing like a heart. Every pulse filled me with its warmth, melting away all my worries and stress. The more I had that dream, the more I woke up feeling like I was ready for anything. ????tired
+At the same time, I was having that dream again. It was hard to remember, but it was like I was walking through the ruins of a gigantic city. And the sun… The sun, always high in the sky, warm and bright, pulsing like a heart. Every pulse filled me with its warmth, melting away all my worries and stress. It was funny – a lot of days I was going to bed tired or irritable from burning myself out doing the "games" a lot, but the dream practically wiped it all away. The more I had that dream, the more I woke up feeling like I was ready for anything.
 
-After having the dream like half a dozen times, I thought of telling Yali about it. I told her all about it. As much as I could, anyway. Even for the parts I remembered, nothing I said could really get across how awesome it was.
+After having the dream like half a dozen times, I thought of telling Yali about it. I told her all about the city and the sun and everything. As much as I could, anyway. Even for the parts I remembered, there was no way I could really get across how awesome it was.
 
 "A bright sun that pulses like a heart…" Yali said thoughtfully. Then she cringed.
 
@@ -189,9 +189,9 @@ After having the dream like half a dozen times, I thought of telling Yali about 
 
 "Oh right, you died there once. I mean, one of the other Farseers died there and you have their –"
 
-"– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. ????? [Mostly incoherent mumbling]…" she trailed off.
+"– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. That face, I think, that is, I, I…" she trailed off.
 
-"???? [Request to explain mumbling]?"
+"That is what?"
 
 "Why do you love me so much?" said Yali suddenly.
 
@@ -231,7 +231,7 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily... and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the thing I really can't stand is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So I, I, I really want to get in better shape. I guess it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to just do the Waiting God wants, too, I…" Yali trailed off.
 
-I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize. It would even make me feel better! It was so tiring to just keep grinding away at the 'games', I'd be glad to make a real emotional connection. But the problem was, I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
+I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize. It would even make me feel better! It was so tiring to just keep grinding away at the "games", I'd be glad to make a real emotional connection. But the problem was, I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
 
 Yali still looked sort of downcast. "Will you go with me… more than just once? I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried that people will be judging me because I'm fat. But now it occurs to me that my life is more important than other people judging me. But…"
 
@@ -277,13 +277,17 @@ I had loads of questions, but I could tell it wasn't the right time for them. "I
 
 We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. I could pretty much do what she wanted for most of them – whenever she said "releasing game" now, I could sort of <em>turn the anger back on</em> from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever she wanted me to do with it. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Even when we officially stopped doing the games, I was always tired and irritable afterwards. Yali seemed to think I would get there eventually, but number one, <em>how the fuck?</em>, and number two, how much time did she think we had? It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling. We'd used up more than half our time, and I didn't feel halfway prepared.
 
-And now we were sitting here, doing the same thing that hadn't worked for the last hour. Or maybe it hadn't even been an hour. Whatever. "Ugh, the Expressing Game is the hardest," I complained.
+And now we were sitting here, doing the same thing that hadn't worked for the last half-hour. Or maybe it hadn't even been half an hour. Whatever. "Ugh, the Expressing Game is the hardest," I complained.
 
 "Oh? I thought letting you yell about things would give you an outlet."
 
 "Yeah, but, I mean, the more I yell, the more I want to <em>do</em> something, you know? It's just so, <em>argh</em> –" I made a fist to demonstrate. "At least with the Controlling Game I can just <em>not</em> do anything…"
 
-"Good to know..." Yali was lost in thought for a while. "????? thought about; bigger challenge "Yell at me as bitterly as you can, but don't move at <em>all</em>. And, and, keep your hands open on the table."
+"Good to know..." Yali was lost in thought for a while. Then she spoke up as if she'd had an idea. "I've been using the Expressing Game when I wanted to give you a bit of a break –"
+
+"– Stern take it all –"
+
+"– but maybe I should use it as a bigger challenge instead. So, let's try, let's try… Yell at me as bitterly as you can, but don't move at <em>all</em>. And, and, keep your hands open on the table."
 
 "Oh, fuck you!"
 
@@ -301,13 +305,15 @@ I did what she said. Every time I yelled, it sent a wave through my body, making
 
 "Tell me more. What did it feel like?"
 
-Explaining it to her just seemed like way too much. ????? "Can we call it a day?" I said.
+Explaining it to her just seemed like way too much. I'd already been dragged over the rocks, and now I was expected to give her a whole presentation about it? It was just way too much. "Can we call it a day?" I mumbled.
 
-"Are you sure?"
+"Are you sure? We only just –" She cut herself off and waited for me to respond.
 
 "...yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
 
-And Yali just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. ????? So we said our goodbyes and I went home early.
+And Yali just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. Even the things I normally liked doing seemed sort of distant and pointless. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. Eventually she suggested I should just go home and rest. I couldn't think of anything better to do, so I did what she said.
+
+That night, I even went to bed by my official bedtime. Probably blew Mom and Dad's minds, but I wasn't even really thinking about that. I just wanted the day to be over already.
 
 <bigbreak>
 
