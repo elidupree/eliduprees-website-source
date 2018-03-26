@@ -337,7 +337,7 @@ Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get he
 
 A few minutes later, I had another problem: Where the fuck was Layo?
 
-He haven't answered my message, and he wasn't at any of the usual spots I'd find him at. I'd checked his locker, his last class of the day, and the ?????. I finally even ran to the corner behind the school where Pèi and Dehel usually hung out, even though Layo would never be there, he couldn't stand being around them when they were smoking.
+He haven't answered my message, and he wasn't at any of the usual spots I'd find him at. I'd checked his locker, his last class of the day, and the club room for the club he sometimes volunteered with. I finally even ran to the corner behind the school where Pèi and Dehel usually hung out, even though Layo would never be there since he couldn't stand being around them when they were smoking.
 
 Well at least <em>they</em> were there. I ran up to them and asked, "Hey, where's Layo?"
 
@@ -345,13 +345,13 @@ Well at least <em>they</em> were there. I ran up to them and asked, "Hey, where'
 
 "I do!" said Pèi cheerfully. Then she kept standing there with a smug look on her face.
 
-"You gonna tell me?" I snapped.
+Ugh, was it going to be one of <em>those</em> days? Pèi was hilarious, but she was kind of an asshole sometimes. "You gonna tell me?" I snapped.
 
 "Maybe…" she teased.
 
 "I'm not in the mood for fucking games right now!" I got right up in her face. "If you weren't my friend, I'd smack you right now!"
 
-She came back sarcastically, "Oh no, I'm <em>so</em> scared."
+"Oh no, I'm <em>so</em> scared."
 
 I stared at her.
 
@@ -377,7 +377,7 @@ Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. I
 
 "Yeah, thanks, you're the best."
 
-And then I was off again. Pretty soon I flung open the art room door to find Layo and a few other kids hard at work.
+And then I took off again. My lungs were killing me, but I'd never let that stop me before, and I wasn't about to start now. Pretty soon I flung open the art room door to find Layo and a few other kids hard at work.
 
 "Hey Layo!!"
 
@@ -415,7 +415,7 @@ Layo smiled. "I <em>know</em> you. You've had something on your mind for a while
 
 The one nice thing about the fourth layer was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like near the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all. Anyway, it was much nicer than down near my home.
 
-We got to the park and picked a trail to walk along. There were technically city buildings pretty close on the other side, but there were <em>just</em> enough trees to make it feel like you were lost in the woods. Places with trees had always been a good compromise between me and the Layo – he liked nature, I liked climbing things, it was a perfect match.
+We got to the park and picked a trail to walk along. There were technically more buildings pretty close on the other side, but there were <em>just</em> enough trees to make it feel like you were lost in the woods. Trees had always been a good compromise between me and the Layo – he liked nature, I liked climbing things, it was a perfect match.
 
 I didn't feel like climbing things today. Once we'd wandered out of sight of the streets for a while, I sat down on a weathered old wooden bench. Layo sat down beside me. I stared at my hands. We stayed that way for a long time. I had so much to tell him, but how would I even start?
 
@@ -425,7 +425,7 @@ After a while, I said, "Aren't you gonna ask me what the deal is?"
 
 "Of course I'm ready, I, er. So," I began. "I – I mean, Yali and me –" Really, how was I supposed to explain this? "We – it's a huge mess – I mean, I don't mean between the two of us, we're great, I mean –" I swallowed. This wasn't going how I wanted it to.
 
-"We're just – we're just caught up in something, and we're working, we're both working so hard to make it work out, we're working so hard, but I'm so, I mean, I know we're getting somewhere, what we're doing is important, but I'm just so, <em>so</em> tired. I'm so tired."
+I swallowed and tried again. "We're just – we're just caught up in something, and we're working, we're both working so hard to make it work out, we're working so hard, but I'm so, I mean, I know we're getting somewhere, what we're doing is important, but I'm just so, <em>so</em> tired. I'm so tired."
 
 I put my hand to my face, and it came away with tears.
 
@@ -435,7 +435,7 @@ I put my hand to my face, and it came away with tears.
 
 "I don't <em>need</em> to cry," I complained. But there was no stopping it now. I sank into him, sobbing uncontrollably.
 
-Slumped in his arms, I felt like all the tension was pouring out of me. Even tension I didn't know I'd had. It was so much different than being with Yali. I mean, I loved Yali to bits, but it was different. Layo was my oldest friend. Someone I could always just be myself around.
+Slumped in his arms, I felt like all the tension was draining out of me. Even tension I didn't know I'd had. It was so much different than being with Yali. I mean, I loved Yali to bits, but it was different. Layo was my oldest friend. Someone I could always just be myself around.
 
 "When did you get so good at this?" I weakly demanded. "Since when do you know how to comfort people?"
 
@@ -463,33 +463,41 @@ Once the words started pouring out of me, they didn't stop. I told Layo everythi
 
 "Okay, go. Help me."
 
-"So, you've been working hard, training yourself to think differently. You wanted to keep going –"
+"So, if I understand this right, you've been working hard, training yourself to think differently. And on the one hand, you want to keep going –"
 
 "– but I <em>caaaaan't</em>."
 
-"– but it's come to a breaking point, and you can't keep going on like this. Something needs to change."
+"– but it's come to a breaking point, and you can't keep going on like this. Something needs to change. Now, that could be –"
 
 "But I can't just stop! What if we die because I didn't keep at it?!"
 
 "You don't have to stop completely. But you can take a break. And the Waiting knows you deserve one."
 
-"Well of course I deserve a break! We both deserve for this to never have happened in the first place! But that doesn't matter now, this is <em>Yali</em>! I have to do whatever it takes to protect her!"
+"Well of course I <em>deserve</em> a break! That's not even a question, like, we both deserve for this to never have happened in the first place! But that doesn't matter now, this is <em>Yali</em>! I have to do whatever it takes to protect her!"
 
-"What would <em>Yali</em> say if you said you wanted to take a break?"
+"I understand. It's good that you want to protect her. But you won't be able to if –"
+
+"Don't you fucking dare tell me I have to take care of myself first! If I ever, ever let Yali get hurt because I didn't try hard enough, I'd fucking, I'd rather die!" Saying those words made me flash back to when she'd made me promise not to die for her sake. <em>Don't you dare sacrifice yourself for me,</em> she'd said. Ugh, why did I have to think of that promise? It wasn't like it was going to actually come up, was it? Still, it made me add, sort of compulsively, "Okay, I'm not going to literally die, but that's how I feel. So don't say it."
+
+"What if resting was –"
+
+"No!"
+
+"Okay. Okay. Er… what would <em>Yali</em> say if you said you wanted to take a break?"
 
 "Oh, that's easy, she'd be all like," I mimicked Yali's voice, "I completely understand. I've been expecting you to need a break, and in fact, I've already made a plan for how to make the best of it."
 
-Layo smiled.
+Layo smiled. It took me a moment to realize what I just said.
 
 "Screw you," I said.
 
 "I understand. It's not the answer you wanted. But my dad always says, no one with a mission wants to stop and rest, but –"
 
-"– but when it catches up to you, you'll wish you rested," I finished. Layo's dad had loads of sayings like that. And… shit. It wasn't wrong. All of a sudden I couldn't stop myself thinking about how nice it would be to just give up and rest. [rewrite???? better details] I was flooded with relief and terror at the same time. "But what if we die because I didn't keep at it?" I repeated, desperate to convince myself.
+"– but when it catches up to you, you'll wish you rested," I finished. Layo's dad had loads of sayings like that. And… shit. It wasn't wrong. All of a sudden I couldn't stop myself thinking about how nice it would be to just give up and rest. It was like a tidal wave of relief crashing through me. But a small, terrified part of me still clawed against the wave. "But what if we die because I didn't keep at it?" I repeated, weakly, desperate to convince myself to keep fighting.
 
 Layo said softly, "What if you die because you burned yourself out?"
 
-Shiiiiit. That was it. [Broken now?????]. The tide of relief over took me completely. "I'm going to have to tell her that I can't handle it," I said morosely.
+Shiiiiit. That was it. The tide of relief took me over completely. <em>Anything</em> I did could be a mistake, equally, so what did it even matter anymore? The terrified part of me was fighting itself in both directions until it felt… Meaningless. Broken. Maybe there was even a Broken God saying for this situation, but fuck if I knew. "I'm going to have to tell her that I can't handle it," I said morosely.
 
 "You're going to have to tell her that you're <em>human</em>."
 
@@ -509,7 +517,7 @@ Shiiiiit. That was it. [Broken now?????]. The tide of relief over took me comple
 
 "Rinn!" said Layo. He sounded really serious, so I stopped and looked back at him. Then I saw that he was crying, too.
 
-"What's the deal?"
+"What's the deal, man?"
 
 His voice broke. "I'll miss you."
 
@@ -521,9 +529,13 @@ His voice broke. "I'll miss you."
 
 "I just thought… In case we don't get a good chance to say goodbye later…"
 
-With everything else that was going on, I hadn't even thought about this stuff. But now that he mentioned it… I'd never <em>not</em> had Layo around. Maybe there been times when one of us was away for a week or two, but <em>three months</em>…? I hugged him fiercely. "I <em>am</em> gonna miss you. I'm gonna miss you so much, I don't know how I'm gonna handle it."
+With everything else that was going on, I hadn't even thought about this stuff. But now that he mentioned it… I'd never <em>not</em> had Layo around. Maybe there'd been times when one of us was away for a week or two, but <em>three months</em>…? I ran back to him and I hugged him fiercely. "I <em>am</em> gonna miss you. I'm gonna miss you so much, I don't know how I'm gonna handle it."
 
-"It's okay. It's okay," Layo murmured. We cried together, there in each other's arms. It was all too real. So much too real.
+"It's okay. It's okay," Layo murmured. I could feel him shaking in my arms. My own tears flowed freely onto his shoulder again. It was all too real. So much too real.
+
+With the talk of saying goodbye, I felt like I'd be losing him for good as soon as we parted ways. We clung to each other until the sun was going down and I was too hungry to be sad anymore. And even when we finally said goodbye, it still felt like we had so much more left to do together.
+
+But at least I knew what I was doing again. I just had to see if I was really right about how Yali would react.
 
 ''',
 },
