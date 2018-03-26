@@ -61,7 +61,7 @@ Then Yali had gone quiet. And that's where we were now. I was just slumped on he
 
 While I sat, Yali idly started cleaning up our dirty dishes. And every now and then, she gave a long look back at me. She was probably thinking about how to help me with this. <em>She</em> was trying to help <em>me!</em> Why did <em>she</em> have to help <em>me</em> with something I <em>should</em> be able to just <em><strong>do</strong>?!</em>
 
-Gods, she doing something <em>productive</em> while I was just sitting there messing around with my shirt. I was being such an asshole. "I can help you with the dishes –"
+Gods, she was even doing something <em>productive</em> while I was just sitting there messing around with my shirt. I was being such an asshole. "I can help you with the dishes –"
 
 "Don't worry about it."
 
@@ -161,7 +161,7 @@ I hadn't thought I was going to do it, but I couldn't resist. "<em>Fuck! You!</e
 
 "We-ell…"
 
-"That's okay. You don't have to get it perfect on the first try. In fact, <em>acting</em> calm is the way you do the Controlling Game, so that's a kind of success. Now, Releasing Game again!"
+"That's okay. You don't have to get it perfect on the first try. In fact, <em>acting</em> calm is the way you do the Controlling Game, so that's just a different type of success. Now, Releasing Game again!"
 
 "But –"
 
