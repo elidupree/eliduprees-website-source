@@ -455,6 +455,26 @@ Meanwhile, Chapter 4 of <a href="/ravelling-wrath">Ravelling Wrath</a> has grown
 ''',
 },
 
+
+
+{
+"title": "Projects update 2018-03-28",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+My productivity has been very low in the last week, for mental health reasons. I've been trying all day to get myself to make a real post for today, instead of just a projects update, but it just isn't working. However:
+
+I'm almost ready to release a chapter of <a href="/ravelling-wrath">Ravelling Wrath</a>. My Chapter 4 got so big that I decided to split it up into two chapters. I've pretty much finished the new Chapter 4, at 7100 words. I just need to finish some editing. Chapter 5 is currently 5500 words and will grow somewhat before it's done. I might be able to finish it in the next few weeks as well.
+
+Also, I have a new game project that I decided to do after I finished <a href="/games/the-path">The Path</a>. I'm excited about it, but I've barely gotten any of it done yet.
+
+''',
+},
+
 ]
 
 """
