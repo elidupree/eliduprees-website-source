@@ -13,13 +13,20 @@ posts = [
   "don't deploy": True,
   "authors_notes":'''
 
+<h2>On the discussion of sexual assault</h2>
+
+<p>I was very careful about how I wrote the scene where Rinn thinks about the rape, and I'm still not sure I handled it 100% correctly. I've heard a lot of stories be (rightly) criticized for overly focusing on a male character's feelings about a female character being raped, and I didn't want to repeat those problems here. Like a lot of those male characters, Rinn has a lot of overprotective rage that Yali explicitly does not want. I didn't want to just glamorize that. But that's also a real situation and a real feeling that a lot of people experience. So I wanted to write a story that represents a <em>better</em> way of handling it. To show the reader that even when you feel rage, you can still respect the other person's agency and choices.</p>
+
+<p>I also specifically made sure to have Rinn say "don't tell me someone raped you" instead of "don't tell me you were raped", and "must've had somebody do that to them" instead of "must've had that happen to them". I don't want to portray rape as something that just happens to people, because that downplays the role of the aggressor. Fortunately, this is consistent with Rinn's way of thinking that I've been building already! Rinn's a very active person, in the sense that ze almost always takes active roles rather than passive roles. That colors how ze thinks about other people, too. Rinn's first thought is always to focus on the aggressor's actions, rather than focusing on the suffering of person being hurt.</p>
+
+<p></p>
 
   ''',
   "head":head,
   "contents": '''
 
 This chapter contains:
-'''+ content_warning_header ('''<p>.</p>''')+'''
+'''+ content_warning_header ('''<p>Brief description of a sexual assault, and details of a third-party's feelings about it.</p>''')+'''
 
 <bigbreak>
   
@@ -119,17 +126,17 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Ooh, tell me!" It was weird how quickly Yali started acting excited again. After hearing what I'd just heard, there was no <em>way</em> I could put it out of my mind. But I <em>did</em> really want to tell her my stories. Maybe it would be enough to distract me.
 
-"So, you know the big tree near the elementary school (?????)? Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
+"So, you know the big tree near the elementary school? Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
 
 "Oh, the one with the fence around it?"
 
-I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. I was forcing the grin a little, but that <em>was</em> how I would've felt about it any other time.
+I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. The fact that I was actually <em>grinning</em> was a little forced, but that <em>was</em> how I would've felt about it any other time.
 
-I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like 'easy peasy' and I did it. And the next time they said to climb out on the big branch, so I did that too. And then they dared me to hang upside down from the big branch, so I did that, and so on and so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance a jig on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
+I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like 'easy peasy' and I did it. And the next time, they said to climb out on the big branch, so I did that too. And then they dared me to hang upside down from the big branch, so I did that, and so on and so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance a jig on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
 
 "That must have really hurt!"
 
-"Oh yeah, it hurt loads. And then I had to wear a cast <em>forever</em> and I couldn't run around or anything, and it <em>itched</em> under the cast, it was so annoying –"
+"Oh yeah, it hurt loads. And then I had to wear a cast <em>forever</em> and I couldn't go running outdoors or anything, and it <em>itched</em> under the cast, it was so annoying –"
 
 Yali started giggling uncontrollably.
 
@@ -139,7 +146,7 @@ Yali started giggling uncontrollably.
 
 "Uh, yeah? I mean it wasn't for very long." That only made her giggle harder. Eventually, she got herself under control and told me to keep going.
 
-"Okay. So I guess I didn't <em>actually</em> have the cast on forever, but it <em>felt</em> like forever, it was awful. So yeah, after that I stopped doing <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again, just to prove I wasn't scared. And that's when I learned how to climb a fence, too."
+"Okay. So I guess I didn't <em>actually</em> have the cast on forever, but it <em>felt</em> like forever, it was awful. So yeah, after that I didn't do <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again, just to prove I wasn't scared. And that's when I learned how to climb a fence, too."
 
 I pulled up the leg of my pants. "Here," I said, "let me show you my scar from the fall!"
 
@@ -157,7 +164,7 @@ I pulled up the leg of my pants. "Here," I said, "let me show you my scar from t
 
 "But… don't squirrels run away from people?"
 
-"You've just gotta sneak up on them. Play it cool, like you're just passing by. I swear, they can tell if you're looking at them. Sure, they usually get away, but, this one time, I finally managed to catch one in my net. And then I tried to grab it. I thought I was going to be able to bring the squirrel home and show my dad and that would be awesome. But it tore through the net and bit half my knuckle off and ran away. Dad made me go to the doctor because he was worried about rabies, even though I was like, 'look, I attacked the squirrel, not the other way around'. And I was fine, all I got was this scar."
+"You've just gotta sneak up on them. Play it cool, like you're just passing by. I swear, they can tell if you're looking at them. Sure, they usually get away, but, this one time, I finally managed to catch one in my net. And then I tried to grab it, 'cause I thought I was going to be able to bring the squirrel home and show my dad and that would be awesome. But it tore through the net and bit half my knuckle off and ran away. Dad made me go to the doctor because he was worried about rabies, even though I was like, 'look, I attacked the squirrel, not the other way around'. And I was fine, all I got was this scar."
 
 Yali held my knuckle gently in her fingers and took a close look at it. It was super intimate. "I, I, I don't have anything with such a cool story, but," she shifted her arm to show me something. On the heel of her hand, there was a faint scar. Big and blotchy, but faint. "I was five. I put my hand on a cooktop that was still on." 
 
@@ -165,7 +172,7 @@ I wasn't sure how to respond. It felt like she was trying to open up to me, but 
 
 I told her my stories all evening. She was totally into it. I completely lost track of time, I was so caught up in telling her about all the fun times I'd had. Finally, Yali had to remind me that I'd planned to go home with enough time to get at least <em>some</em> sleep for the next day.
 
-On my way home, I realized I haven't even remembered to go back and tell her the one about how I jumped out a window. Stern take it, that was a good one! Well, we'd have plenty of time for me to tell that on another day.
+On my way home, I realized I haven't even remembered to get back to telling her the one about how I jumped out a window. Stern take it, that was a good one! Well, we'd have plenty of time for me to tell that on another day.
 
 <bigbreak>
 
@@ -185,7 +192,7 @@ She'd planned for this. Of <em>course</em> she had. She knew what I'd think – 
 
 <em>It wasn't anyone you know. They're in prison now.</em>
 
-???? I mean, I obviously wasn't mad that they were in prison. But I couldn't stand not being able to <em>do</em> anything. And if they were already in prison, it was just… <em>over</em>.
+Why the fuck did it have to be that way?! I mean, I obviously wasn't mad that they were in prison. But I couldn't stand not being able to <em>do</em> anything. And if they were already in prison, it was just… <em>over</em>.
 
 Wait… She'd said "they". Not "he". Was she trying to leave out their gender? Could it have been a woman? Or an enby? Or were there <em>more than one of them?!?</em>
 
@@ -203,7 +210,7 @@ The tension left me. I flopped down on my bed. <em>Fuck.</em>
 
 Lying limply on my back, I stared up at the ceiling, letting the cold truth sink into me. Someone had raped Yali, and I knew now, and the only thing I could do was… nothing. I felt empty. Drained. Helpless.
 
-<em>Anger turns helplessness into strength.</em> Bullshit. It hadn't turned my helplessness into anything but pain. ?????
+<em>Anger turns helplessness into strength.</em> Bullshit. It hadn't turned my helplessness into anything but pain.
 
 How was I supposed to handle it? I'd never had to deal with something like this before.
 
@@ -223,9 +230,9 @@ And had she had to go through a trial? Of her own parents? Of their killers?
 
 How many layers of badass <em>was</em> she?
 
-My mind turned these ideas over and over, [????? "these ideas" maybe not the right phrase] late into the night, until sleep was finally heavier than they were. There was nothing I could do to loosen the cold grip on my heart, to make it seem like it wasn't so bad. And my image of Yali kept flopping back and forth, never able to settle, between the Yali who was isolated and suffering, and the Yali who stepped out of it all, grimly ready to defy the gods.
+My mind turned these ideas over and over, [????? "these ideas" maybe not the right phrase] late into the night, until sleep was finally heavier than they were. There was nothing I could do to loosen the cold grip on my heart, to make it seem like it wasn't so bad. And the way I imagined Yali kept flopping back and forth, never able to settle, between the Yali who was isolated and suffering, and the Yali who stepped out of it all, grimly ready to defy the gods.
 
-As I slipped into unconsciousness, the only thing I knew for sure was that I was facing something much, much bigger than me.
+As I slipped into unconsciousness, the only thing I knew for sure was that I was up against something much, much bigger than me.
 
 <bigbreak>
 
@@ -235,28 +242,30 @@ I rose with the dawn. The sun echoed my dream, filling my blood with energy. I w
 
 Well, I couldn't <em>really</em> say I was ready, but for some reason, I <em>felt</em> ready. I went through my morning routine on autopilot, my mind racing ahead to what was coming.
 
-????
+I had planned to leave in the morning as if I was going to school like normal, without letting Mom and Dad know there was anything out of the ordinary. I almost did it, too. But as I was stepping out the front door, I felt like I was crossing a point of no return. I hesitated and turned around.
 
-"I love you so, so much."
+"Hey Mom. Hey Dad. I love you so, so much."
 
 Mom sighed. "What do you want?"
 
-"I just want you to know how much I love you! Is that so wrong?" She didn't look very convinced. "Come on, I'm a teenager! I'm allowed to have mood swings! You too –" I jabbed a finger at Dad "– get over here!"
+I almost laughed. Somehow, I hadn't expected her to turn my super serious emotions into regular annoyance. "I just want you to know how much I love you! Is that so wrong?" She didn't look very convinced. "Come on, I'm a teenager! I'm allowed to have mood swings! You too –" I jabbed a finger at Dad "– get over here!"
 
 I grabbed them and hugged them both tight. They exchanged a look, but went along with it. Oh, they had no idea what was coming. But I knew.
 
 "Bye! Love ya!"
 
-I headed out the door like it was any other day. I took off running down the road towards the school. But as soon as I was out of sight of my house, I turned and took a different road.
+I took off running down the road towards the school. But as soon as I was out of sight of my house, I turned and took a different road.
 
 <p class="text left">on my way to clover square eta 20 min</p>
 <p class="text left">ill have something for you</p>
 <p class="text left">don't tire yourself out on the way here, we'll have a lot more walking to do</p>
 
-<p class="text right">on my way! see you soon! <3</p>
+<p class="text right">on my way! see you soon! &lt;3</p>
 <div class="clear"></div>
 
+I snickered at "<em>more</em> walking", as if I was actually going to walk this first part. I was itching to run, to get there as soon as I could. But just for her, I held myself to someone in the middle, and settle into an easy jog.
 
+It was the last time I was going to be running these streets for a long time. I lovingly landed my feet in every familiar pothole and crack.
 
 ???
 
