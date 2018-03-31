@@ -505,7 +505,7 @@ Shiiiiit. That was it. The tide of relief took me over completely. <em>Anything<
 
 "I understand."
 
-"I love you so much, you know that, right? As a friend, I mean –"
+"I love you so much, you know that, right?" I didn't have to say "as a friend". We both knew how it was.
 
 "I know. I love you too."
 

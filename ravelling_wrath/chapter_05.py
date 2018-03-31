@@ -15,7 +15,7 @@ posts = [
 
 <h2>On the discussion of sexual assault</h2>
 
-<p>I was very careful about how I wrote the scene where Rinn thinks about the rape, and I'm still not sure I handled it 100% correctly. I've heard a lot of stories be (rightly) criticized for overly focusing on a male character's feelings about a female character being raped, and I didn't want to repeat those problems here. Like a lot of those male characters, Rinn has a lot of overprotective rage that Yali explicitly does not want. I didn't want to just glamorize that. But that's also a real situation and a real feeling that a lot of people experience. So I wanted to write a story that represents a <em>better</em> way of handling it. To show the reader that even when you feel rage, you can still respect the other person's agency and choices.</p>
+<p>I was very careful about how I wrote the scene where Rinn thinks about the rape, and I'm still not sure I handled it 100% correctly. I've heard a lot of stories be (rightly) criticized for overly focusing on a male character's feelings about a female character being raped, and I didn't want to repeat those problems here. Like a lot of those male characters, Rinn has a lot of overprotective rage that Yali explicitly does not want. I didn't want to just glamorize that. But that's also a real situation and a real feeling that a lot of people encounter in their lives. So I wanted to write a story that represents a <em>better</em> way of handling it. To show the reader that even when you feel rage, you can still respect the other person's agency and choices.</p>
 
 <p>I also specifically made sure to have Rinn say "don't tell me someone raped you" instead of "don't tell me you were raped", and "must've had somebody do that to them" instead of "must've had that happen to them". I don't want to portray rape as something that just happens to people, because that downplays the role of the aggressor. Fortunately, this is consistent with Rinn's way of thinking that I've been building already! Rinn's a very active person, in the sense that ze almost always takes active roles rather than passive roles. That colors how ze thinks about other people, too. Rinn's first thought is always to focus on the aggressor's actions, rather than focusing on the suffering of person being hurt.</p>
 
@@ -395,34 +395,6 @@ In the emptiness of the hand's embrace, I waited, wondering what would happen ne
 As my life force touched the void, these images all winked away – the hand, the stars, and even the void itself. They left me blinking into a different light that was much closer, much more real and mundane.
 
 I was in another world.
-
-???
-
-
-???? expressing game a while until tired; empty feeling, angry thoughts meaningless; call it a day; remember layo
-
-????
-
-???? wheres layo; pei annoyance; rinns gone crazy
-
-????
-
-???? what the fuck is this
-
-????
-
-???? day before rav??:: yeah lets have fun isntead; yali strong; sex thing; irresp. stories; go home; rinn angry at home
-
-???? leave parents; meet up, hoodies, journey; it all doesn't feel real; it begins
-
-
-
-
-[????? "I want to know more about how Rinn is calming herself down exactly"; "curious to see the progression"]
-
-?????
-
- I said one day.
 
 
 ''',
