@@ -309,6 +309,8 @@ def add_game_pages(page_dict):
   microphone_playground.add_page (page_dict)
   import abs_tool
   abs_tool.add_page (page_dict)
+  import webfxr
+  webfxr.add_page (page_dict)
   import neural_music_generator
   neural_music_generator.add_page (page_dict)
   import design_generator
