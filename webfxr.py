@@ -46,7 +46,7 @@ var audio = new AudioContext();
 var audio_source;
 var sample_rate = 44100;
 
-var something = 20;
+var definition = {};
 
 function play_buffer (buffer) {
   if (audio_source) {audio_source.stop();}
@@ -57,49 +57,75 @@ function play_buffer (buffer) {
 }
 
 function synthesize_and_play () {
-  let length = sample_rate*2;
-  let buffer = audio.createBuffer (1, length, sample_rate);
-  let data = buffer.getChannelData (0);
+  const length = sample_rate*2;
+  const buffer = audio.createBuffer (1, length, sample_rate);
+  const data = buffer.getChannelData (0);
+  
+  let phase = 0;
+  const frame_duration = 1/sample_rate;
+  const frequency = definition.frequency;
   for (var index = 0; index <length ;++index) {
-    let time = index/sample_rate;
-    data [index] = Math.sin (time*turn*11*something)/5 ;
+    const time = index/sample_rate;
+    phase += frequency*turn*frame_duration;
+    data [index] = Math.sin (phase)/5;
   }
-  play_buffer (buffer)
+  play_buffer (buffer);
 }
 
-function numerical_input(id, callback) {
+function numerical_input(data) {
+  const range_input = $("<input>", {type: "range", id: data.id+"_numerical_range", value: data.min, min: data.min, max: data.max, step: data.step });
+  const number_input = $("<input>", {type: "number", id: data.id+"_numerical_number", value: data.min, min: data.min, max: data.max, step: data.step });
+  
   function range_overrides() {
-    let value = $("#"+id+"_numerical_range").val();
+    const value = range_input[0].valueAsNumber;
     if (value === NaN) {return;}
-    $("#"+id+"_numerical_number").val(value);
-    callback (value) ;
+    number_input.val(value);
+    updated(value);
   }
   function number_overrides() {
-    let value = $("#"+id+"_numerical_number").val();
+    const value = number_input[0].valueAsNumber;
     if (value === NaN) {return;}
-    $("#"+id+"_numerical_range").val(value);
-    callback (value);
+    range_input.val(value);
+    updated(value);
   }
-  function value_overrides(value) {
+  function value_overrides() {
+    const value = definition [data.field];
     if (value === NaN) {return;}
-    $("#"+id+"_numerical_number").val(value);
-    $("#"+id+"_numerical_range").val(value);
-    callback (value);
+    number_input.val(value);
+    range_input.val(value);
+    updated(value);
+  }
+  function updated(value) {
+    definition [data.field] = value;
+    synthesize_and_play ();
   }
 
-  return $("<div>", {class: "labeled_input"}).append (
-    $("<input>", {type: "range", id: id+"_numerical_range", value: 20, min: 1, max: 100, step: 1}).on ("input", range_overrides),
-    $("<input>", {type: "number", id: id+"_numerical_number", value: 20, min: 1, max: 100, step: 1}).on ("input", number_overrides),
-    $("<label>", {"for": id+"_numerical_number", text: "numerical input"})
+  const result = $("<div>", {class: "labeled_input"}).append (
+    range_input.on ("input", range_overrides),
+    number_input.on ("input", number_overrides),
+    $("<label>", {"for": data.id+"_numerical_number", text: data.text})
   ).on("wheel", function (event) {
-    something += Math.sign(event.originalEvent.deltaY) || Math.sign(-event.originalEvent.deltaX) || 0;
-    value_overrides (something);
+    console.log (definition [data.field]) ;
+    definition [data.field] += (Math.sign(event.originalEvent.deltaY) || Math.sign(-event.originalEvent.deltaX) || 0)*data.step;
+    value_overrides ();
   });
+  
+  if (definition [data.field] === undefined) {
+    definition [data.field] = data.default;
+  }
+  value_overrides ();
+  
+  return result;
 }
 
-$("#panels").append ($("<div>", {class: "panel"}).append (numerical_input ("foo", function (value) {
-  something = value;
-  synthesize_and_play () ;
+$("#panels").append ($("<div>", {class: "panel"}).append (numerical_input ({
+  id: "frequency",
+  field: "frequency",
+  text: "Frequency (Hz)",
+  min: 1,
+  max: 22050,
+  step: 1,
+  default: 220,
 })));
 
 
