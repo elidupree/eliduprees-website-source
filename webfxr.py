@@ -64,10 +64,18 @@ function synthesize_and_play () {
   let phase = 0;
   const frame_duration = 1/sample_rate;
   const frequency = definition.frequency;
+  const waveform = definition.waveform;
   for (var index = 0; index <length ;++index) {
     const time = index/sample_rate;
     phase += frequency*turn*frame_duration;
-    data [index] = Math.sin (phase)/5;
+    let sample;
+    switch (waveform) {
+      case "sine": sample = Math.sin (phase); break;
+      case "square": sample = ((phase/turn)%1) < 0.5 ? 0.5 : -0.5; break;
+      case "triangle": sample = 1 - Math.abs (((phase/turn)%1)-0.5)*4; break;
+      case "sawtooth": sample = 1 - ((phase/turn)%1)*2; break;
+    }
+    data [index] = sample/5;
   }
   play_buffer (buffer);
 }
@@ -118,6 +126,48 @@ function numerical_input(data) {
   return result;
 }
 
+function radio_input (data) {
+  const result = $("<div>", {class: "labeled_input"}).append (
+    $("<label>", {text: data.text + ":"})
+  );
+  
+  data.options.forEach(function(option) {
+    result.append (
+      $("<input>", {type: "radio", id: data.id+"_radios_" + option.value, name: data.id+"_radios", value: option.value}).click (choice_overrides),
+      $("<label>", {"for": data.id+"_radios_" + option.value, text: option.text}),
+    );
+  });
+  
+  function choice_overrides() {
+    const value = $("input:radio[name="+data.id+"_radios]:checked").val();
+    updated(value);
+  }
+  function value_overrides() {
+    const value = definition [data.field];
+    if (value === NaN) {return;}
+    result.find ("#"+data.id+"_radios_" + value).prop ("checked", true);
+    updated(value);
+  }
+  function updated(value) {
+    definition [data.field] = value;
+    synthesize_and_play ();
+  }
+  
+  if (definition [data.field] === undefined) {
+    definition [data.field] = data.default;
+  }
+  value_overrides ();
+  
+  return result;
+}
+
+/*
+    $("<div>", {class: "labeled_input"}).append (
+      $("<input>", {type: "checkbox", id: id+"_enabled"}),
+      $("<label>", {"for": id+"_enabled", text: "enabled"})
+    ),
+*/
+
 $("#panels").append ($("<div>", {class: "panel"}).append (numerical_input ({
   id: "frequency",
   field: "frequency",
@@ -126,6 +176,20 @@ $("#panels").append ($("<div>", {class: "panel"}).append (numerical_input ({
   max: 22050,
   step: 1,
   default: 220,
+})));
+
+
+$("#panels").append ($("<div>", {class: "panel"}).append (radio_input ({
+  id: "waveform",
+  field: "waveform",
+  text: "Waveform",
+  default: "sine",
+  options: [
+    {value: "sine", text: "Sine"},
+    {value: "square", text: "Square"},
+    {value: "triangle", text: "Triangle"},
+    {value: "sawtooth", text: "Sawtooth"},
+  ]
 })));
 
 
