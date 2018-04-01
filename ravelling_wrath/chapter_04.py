@@ -173,7 +173,7 @@ And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling
 
 Finally, we were both too exhausted to go on. Yali told me I'd done a great job, but I still didn't feel like I'd gotten anything done at all. Worse, when I got up to jog home as usual, it was just too overwhelming to think of. I ended up flopping on Yali's couch that night. I went to sleep feeling weird, almost disoriented.
 
-In the next week or so, we saw a lot of each other. Every time we hung out, we did some more of the "games". I still didn't really get it, but Yali was sure I was making progress, and I had to do <em>something</em>. Even if I wanted to procrastinate it, we were on a clock – the Ravelling was just six weeks away. If I ever spent a week putting it off… Well. It could get us both killed. Nothing like a little fear of death to get me off my ass, haha.
+In the next week or so, we saw a lot of each other. Every time we hung out, we did some more of the "games". I still didn't really get it, but Yali was sure I was making progress, and I had to do <em>something</em>. Even if I wanted to procrastinate, we were on a clock – the Ravelling was just six weeks away. If I ever spent a week putting it off… Well. It could get us both killed. Nothing like a little fear of death to get me off my ass, haha.
 
 <bigbreak>
 
@@ -337,7 +337,7 @@ Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get he
 
 A few minutes later, I had another problem: Where the fuck was Layo?
 
-He haven't answered my message, and he wasn't at any of the usual spots I'd find him at. I'd checked his locker, his last class of the day, and the club room for the club he sometimes volunteered with. I finally even ran to the corner behind the school where Pèi and Dehel usually hung out, even though Layo would never be there since he couldn't stand being around them when they were smoking.
+He hadn't answered my message, and he wasn't at any of the usual spots I'd find him at. I'd checked his locker, his last class of the day, and the club room for the club he sometimes volunteered with. I finally even ran to the corner behind the school where Pèi and Dehel usually hung out, even though Layo would never be there since he couldn't stand being around them when they were smoking.
 
 Well at least <em>they</em> were there. I ran up to them and asked, "Hey, where's Layo?"
 
@@ -383,7 +383,7 @@ And then I took off again. My lungs were killing me, but I'd never let that stop
 
 Layo didn't look up from his painting. "Hey Rinn. Stay three meters away from me at all times," he said casually.
 
-That was fair. I had maybe been too rambunctious [????? is this a word a teenager would use for themselves?] around his paintings in the past.
+That was fair. I had maybe been too rambunctious around his paintings in the past.
 
 "Yeah, yeah. But I, ehhhh… I need to talk to you about something. Like, in private."
 
@@ -393,7 +393,7 @@ The girl next to him looked up from her work. "Yo, I'm not cleaning your shit up
 
 "I can owe you a huge favor. It's important," said Layo, glancing pointedly at me.
 
-The girl sized us both up, then seemed to give in. "…I'm coming for that favor tho."
+The girl sized us both up, then seemed to give in. "…I'm coming for that favor though."
 
 "Thank you ever so much!" Layo shot over his shoulder as he hurried out the door with me.
 
