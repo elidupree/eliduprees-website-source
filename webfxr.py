@@ -75,33 +75,54 @@ function synthesize_and_play () {
       case "triangle": sample = 1 - Math.abs (((phase/turn)%1)-0.5)*4; break;
       case "sawtooth": sample = 1 - ((phase/turn)%1)*2; break;
     }
-    data [index] = sample/5;
+    data [index] = sample/25;
   }
   play_buffer (buffer);
 }
 
 function numerical_input(data) {
-  const range_input = $("<input>", {type: "range", id: data.id+"_numerical_range", value: data.min, min: data.min, max: data.max, step: data.step });
+  let input_specs = {type: "range", id: data.id+"_numerical_range", value: data.min, min: data.min, max: data.max, step: data.step };
+  if (data.logarithmic) {
+    input_specs.min = 0;
+    input_specs.max = 1;
+    input_specs.step = 0.001;
+    data.log_min = Math.log (data.min);
+    data.log_range = Math.log (data.max) - data.log_min;
+  }
+  const range_input = $("<input>", input_specs);
   const number_input = $("<input>", {type: "number", id: data.id+"_numerical_number", value: data.min, min: data.min, max: data.max, step: data.step });
   
+  function valid (value) {
+    return Number.isFinite (value) && value !== 0;
+  }
+  
   function range_overrides() {
-    const value = range_input[0].valueAsNumber;
-    if (value === NaN) {return;}
+    const value = data.min*Math.exp(range_input[0].valueAsNumber*data.log_range);
+    if (!valid (value)) {return;}
     number_input.val(value);
     updated(value);
   }
   function number_overrides() {
     const value = number_input[0].valueAsNumber;
-    if (value === NaN) {return;}
-    range_input.val(value);
+    if (!valid (value)) {return;}
+    set_range_input(value);
     updated(value);
   }
   function value_overrides() {
     const value = definition [data.field];
-    if (value === NaN) {return;}
+    if (!valid (value)) {return;}
     number_input.val(value);
-    range_input.val(value);
+    set_range_input(value);
     updated(value);
+  }
+  function set_range_input(value) {
+    if (data.logarithmic) {
+      const transformed = (Math.log (value) - data.log_min)/data.log_range;
+      range_input.val(transformed);
+    }
+    else {
+      range_input.val(value);
+    }
   }
   function updated(value) {
     definition [data.field] = value;
@@ -172,8 +193,9 @@ $("#panels").append ($("<div>", {class: "panel"}).append (numerical_input ({
   id: "frequency",
   field: "frequency",
   text: "Frequency (Hz)",
-  min: 1,
+  min: 20,
   max: 22050,
+  logarithmic: true,
   step: 1,
   default: 220,
 })));
