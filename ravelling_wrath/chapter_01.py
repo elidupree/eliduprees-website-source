@@ -56,6 +56,8 @@ posts = [
 +
 '''
 <div class="table_of_contents_remaining">To be continued...</div>
+
+Many thanks to <a href="www.sarahfensore.com">Sarah Fensore</a>, who I've talked out my story plans with since the beginning, and who continues to help me edit the individual chapters.
   
   <bigbreak>
   
