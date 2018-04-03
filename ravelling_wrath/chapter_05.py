@@ -19,7 +19,7 @@ posts = [
 
 <p>I also specifically made sure to have Rinn say "don't tell me someone raped you" instead of "don't tell me you were raped", and "must've had somebody do that to them" instead of "must've had that happen to them". I don't want to portray rape as something that just happens to people, because that downplays the role of the aggressor. Fortunately, this is consistent with Rinn's way of thinking that I've been building already! Rinn's a very active person, in the sense that ze almost always takes active roles rather than passive roles. That colors how ze thinks about other people, too. Rinn's first thought is always to focus on the aggressor's actions, rather than focusing on the suffering of person being hurt.</p>
 
-<p></p>
+<p>????? explain the subtle thing from Chapter 3</p>
 
   ''',
   "head":head,
