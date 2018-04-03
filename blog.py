@@ -351,6 +351,8 @@ a.blog_Patreon_appeal {
   .long_story_navbar>.button { font-size: 100%; }
 }
 
+.long_story_navbar + .MailChimp_form {margin-top: 2.5em;}
+
 div.transcript_block {border: 1px solid black;}
 div.transcript_header {padding:0.5em;}
 div.transcript_content {padding:0.5em; border-top:1px dashed black;}
@@ -765,11 +767,13 @@ def long_story_navbar(post):
   index = post["long_story_index"]
   story = blog_posts.long_stories [post["long_story_name"]]
   previous = "&lt; Previous"
+  next = "Next >"
   page = story ["pages"] [0]
   first = '<a class="long_story_adjacent button first" href="'+ post_permalink (page)+'">&lt;&lt; First</a>'
   archive = '<a class="long_story_adjacent button" href="'+ post_permalink (page)+'">Archive</a>'
   page = story ["pages"] [len(story ["pages"])-1]
   latest = '<a class="long_story_adjacent button latest" href="'+ post_permalink (page)+'">Latest >></a>'
+  after = ""
   
   if index > 1:  
     page = story ["pages"] [index - 2]
@@ -779,16 +783,17 @@ def long_story_navbar(post):
   
   if index < len(story ["pages"]):
     page = story ["pages"] [index]
-    next = '<a class="long_story_adjacent next button" href="'+ post_permalink (page)+'">Next ></a>'
+    next = '<a class="long_story_adjacent next button" href="'+ post_permalink (page)+'">' + next + '</a>'
   else:
-    next = '''<div class="complete_comic">This story is complete. </div>''' if "complete" in metadata else MailChimp_form_labeled ("This is the last chapter so far! Follow elidupree.com by email for future updates:")
+    next = '<div class="next button">'+ next +'</div>'
+    after ='''<div class="complete_comic">This story is complete. </div>''' if "complete" in metadata else MailChimp_form_labeled ("This is the last chapter so far! Follow elidupree.com by email for future updates:")
     
   page = story_discussion_post (post)
   commentary = '<a class="long_story_adjacent commentary" href="'+ post_permalink (page)+'''">Author's notes and comments for this chapter</a>'''
   
   return '''<div class="long_story_navbar">
   '''+ first +previous +archive+next +latest+'''
-</div>'''
+</div>'''+ after
 
 def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True, allow_comments = True, Patreon_type = "blog"):
   head = []
