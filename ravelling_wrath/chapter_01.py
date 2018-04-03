@@ -4,6 +4,9 @@
 import datetime
 from ravelling_wrath.definitions import *
 
+def contents_link (link, name):
+  return '<div class="table_of_contents_chapter"><a href="' + link +'">' + name +'</a> [<a href="' + link +'''/discussion">author's notes</a>]</div>'''
+
 posts = [
 {
   "title":"Ravelling Wrath, chapter 1",
@@ -41,6 +44,19 @@ posts = [
   ''',
   "head":head,
   "contents": '''
+  
+<h2>Table of Contents</h2>
+
+
+'''
++contents_link("/ravelling-wrath", "Chapter 1: Blood Child")
++contents_link("/ravelling-wrath/2", "Chapter 2: The Plan")
++contents_link("/ravelling-wrath/3", "Chapter 3: The Ordeal")
++
+'''
+<div class="table_of_contents_remaining">To be continued...</div>
+  
+  <bigbreak>
 
 <p>(Eli's note: this story is supposed to have more pictures in it, but I haven't been in good shape for drawing. Since I'm not sure when I <em>will</em> be in good shape again, I'm posting it anyway. I've included the one sketch I managed to do last time I was up to it.)</p>
 
