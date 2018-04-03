@@ -41,7 +41,7 @@ right_bar_padded_width = 15 #right_bar_content_width + (2*text_padding_width)
 #right_bar_padded_width = max_side_space - 2*(min_side_space_for_post)
 #right_bar_content_width = right_bar_padded_width - (2*text_padding_width)
 
-#min_space_for_full_post_width = min_side_space_for_post + post_padded_max_width + max_side_space
+min_space_for_full_post_width = post_padded_max_width+3*nice_narrow_margin+right_bar_padded_width
 #min_space_for_two_columns_and_all_margins = min_side_space_for_post + post_padded_min_width + max_side_space
 #min_space_for_two_columns_and_all_but_left_margin = min_space_for_two_columns_and_all_margins - min_side_space_for_post
 #min_space_for_two_columns_and_all_but_side_margins = min_space_for_two_columns_and_all_but_left_margin - min_side_space_for_post
@@ -134,7 +134,7 @@ margin-right: 1.5em;
 @media screen and (max-width: '''+str(post_padded_max_width+4*nice_narrow_margin+2*right_bar_padded_width)+'''em) {
   div.blog_page_limits { width: 100%; }
 }
-@media screen and (max-width: '''+str(post_padded_max_width+3*nice_narrow_margin+right_bar_padded_width)+'''em) {
+@media screen and (max-width: '''+str(min_space_for_full_post_width)+'''em) {
   div.blog_stream      { width: auto; }
   div.blog_left_margin { width: '''+str(nice_narrow_margin)+'''em; }
   
@@ -326,12 +326,30 @@ a.blog_Patreon_appeal {
 .MailChimp_form .button {border: 0 none; border-radius:0.25em; height:  2em; cursor: pointer; transition: all 0.23s ease-in-out 0s; background-color: #777; color: white;}
 .MailChimp_form .button:hover {background-color: #444;}
 
-.long_story_navbar a.previous, .long_story_navbar a.next { font-size: 150%;}
-.long_story_navbar .row {display: flex; justify-content: space-between; align-items: center; padding: 0.2em 0;}
-.long_story_navbar .row.bottom{ font-size: 110%; justify-content: space-around;}
-.long_story_navbar .previous, .long_story_navbar .next, .long_story_navbar .first, .long_story_navbar .commentary{max-width: 47%;}
-.long_story_navbar .next, .long_story_navbar .commentary{text-align: right;}
-.long_story_navbar .previous, .long_story_navbar .first{text-align: left;}
+.long_story_navbar {display: flex; justify-content: space-around; align-items: center; padding: 0.2em 0; }
+.long_story_navbar>.button {
+  font-size: 160%;
+  color: #777;
+  background-color: #ddd;
+  background-image: linear-gradient(to bottom,#fff,#bbb);
+  background-repeat: repeat-x;
+  padding: 0.1em 0.45em;
+  border: 0.05em solid black;
+  border-color:#aaa #888 #555 #aaa;
+  border-radius: 0.25em;
+}
+.long_story_navbar>a.button {
+  color: black;
+  text-decoration: none;
+}
+.long_story_navbar>a.button:hover {
+  background-color: #bbb;
+  background-image: linear-gradient(to top,#ddd,#999);
+  border-color:#888 #777 #555 #888;
+}
+@media screen and (max-width: '''+str(min_space_for_full_post_width)+'''em) {
+  .long_story_navbar>.button { font-size: 100%; }
+}
 
 div.transcript_block {border: 1px solid black;}
 div.transcript_header {padding:0.5em;}
@@ -746,18 +764,22 @@ def long_story_navbar(post):
   metadata = post_metadata (post)
   index = post["long_story_index"]
   story = blog_posts.long_stories [post["long_story_name"]]
-  previous = ""
+  previous = "&lt; Previous"
   page = story ["pages"] [0]
-  first = 'First: '+ page ["title"]
+  first = '<a class="long_story_adjacent button first" href="'+ post_permalink (page)+'">&lt;&lt; First</a>'
+  archive = '<a class="long_story_adjacent button" href="'+ post_permalink (page)+'">Archive</a>'
+  page = story ["pages"] [len(story ["pages"])-1]
+  latest = '<a class="long_story_adjacent button latest" href="'+ post_permalink (page)+'">Latest >></a>'
   
-  if index > 1:
-    first = '<a class="long_story_adjacent first" href="'+ post_permalink (page)+'">'+ first  +'</a>'
+  if index > 1:  
     page = story ["pages"] [index - 2]
-    previous = '<a class="long_story_adjacent previous" href="'+ post_permalink (page)+'">Previous: '+ page ["title"] +'</a>'
+    previous = '<a class="long_story_adjacent button previous" href="'+ post_permalink (page)+'">'+previous+'</a>'
+  else:
+    previous = '<div class="previous button">'+previous+'</div>'
   
   if index < len(story ["pages"]):
     page = story ["pages"] [index]
-    next = '<a class="long_story_adjacent next" href="'+ post_permalink (page)+'">Next: '+ page ["title"] +'</a>'
+    next = '<a class="long_story_adjacent next button" href="'+ post_permalink (page)+'">Next ></a>'
   else:
     next = '''<div class="complete_comic">This story is complete. </div>''' if "complete" in metadata else MailChimp_form_labeled ("This is the last chapter so far! Follow elidupree.com by email for future updates:")
     
@@ -765,10 +787,7 @@ def long_story_navbar(post):
   commentary = '<a class="long_story_adjacent commentary" href="'+ post_permalink (page)+'''">Author's notes and comments for this chapter</a>'''
   
   return '''<div class="long_story_navbar">
-  <div class="row top"><div class="previous">'''+previous +'''</div>
-  <div class="next">'''+ next +'''</div></div>
-  <div class="row bottom"><div class="first">'''+ first +'''</div>
-  <div class="commentary">'''+ commentary +'''</div></div>
+  '''+ first +previous +archive+next +latest+'''
 </div>'''
 
 def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True, allow_comments = True, Patreon_type = "blog"):

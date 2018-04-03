@@ -3,6 +3,9 @@
 
 blurb = "A pair of teenagers get caught up in a conflict between the gods. (3 out of 19 chapters completed so far.)"
 head = '''<style>
+div.blog_post h1 {
+  text-align: center;
+}
 div.blog_post h2 {
   text-align: center;
 }
