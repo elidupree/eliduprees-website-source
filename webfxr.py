@@ -6,8 +6,23 @@ import bars
 import blog
 	  
 def add_page(page_dict):
+  (head, body, after_body) = utils.import_html ("vendor/webfxr.html")
   utils.make_page (page_dict,
     '/webfxr',
+      "WebFXR ⊂ Eli Dupree's website",
+      head,
+      '''<a class="skip" href="#content">Skip to content</a>
+      '''+bars.bars_wrap({"games":True}, '''<main>'''+body+'''
+</main>'''),
+      {"blurb": "Create random sound effects in your browser, customize them, and export them.", "after_body": after_body+'''
+    <script async type='text/javascript' src="/media/webfxr.js?rr"></script>
+  '''}
+  )
+
+
+
+  utils.make_page (page_dict,
+    '/webfxr-prototype-1',
       "WebFXR ⊂ Eli Dupree's website",
       r'''<style type="text/css">
 html,body {background-color: white;}
