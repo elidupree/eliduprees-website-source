@@ -652,7 +652,7 @@ def post_permalink(post_dict):
 def story_discussion_post (post_dict):
   return {
           "title": post_dict["title"]+": Discussion",
-          "contents": '''<p>If you haven't read <a href="'''+post_permalink(post_dict)+'''">'''+post_dict["title"]+'''</a> yet, you should do that before reading further.</p>'''+(post_dict["authors_notes"] if "authors_notes" in post_dict else "<p>There are no author's notes yet.</p>"),
+          "contents": '''<p>If you haven't read <a href="'''+post_permalink(post_dict)+'''">'''+post_dict["title"]+'''</a> yet, you might want to do that before reading further.</p>'''+(post_dict["authors_notes"] if "authors_notes" in post_dict else "<p>There are no author's notes yet.</p>"),
           "parent_story": post_dict,
           "category": "" # Not treated as a story.
         }
