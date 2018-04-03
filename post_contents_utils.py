@@ -10,14 +10,14 @@ def hidden_cw_box(contents):
     <a href="javascript:;" class="enable_content_warnings_button reveal_cw_button">Reveal content warnings</a>
     <div class="hidden_cws">
       '''+contents+'''
-      <a class="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
+      <a class="disable_content_warnings_button" href="javascript:;" >(hide content warnings)</a>
     </div>
   </div>'''
 
 def secondary_hidden_cw_box(contents):
   return '''<div class="hidden_cw_box secondary">
     '''+contents+'''
-    <a class="disable_content_warnings_button" href="javascript:;" >(disable content warnings)</a>
+    <a class="disable_content_warnings_button" href="javascript:;" >(hide content warnings)</a>
   </div>'''
   
 def content_warning_header(contents):
