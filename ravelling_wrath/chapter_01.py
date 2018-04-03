@@ -5,7 +5,7 @@ import datetime
 from ravelling_wrath.definitions import *
 
 def contents_link (link, name):
-  return '<div class="table_of_contents_chapter"><a href="' + link +'">' + name +'</a> [<a href="' + link +'''/discussion">author's notes</a>]</div>'''
+  return '<div class="table_of_contents_chapter"><a class="chapter_link" href="' + link +'">' + name +'</a> [<a href="' + link +'''/discussion">author's notes</a>]</div>'''
 
 posts = [
 {

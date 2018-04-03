@@ -7,6 +7,9 @@ head = '''<style>
 .table_of_contents_chapter {
   text-indent: 2em;
 }
+.table_of_contents_chapter .chapter_link {
+  margin-right: 0.3em;
+}
 .table_of_contents_remaining {
   text-indent: 2em;
   font-style: italic;
