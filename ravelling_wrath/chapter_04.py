@@ -12,8 +12,14 @@ posts = [
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
+<p>I originally intended for this chapter and the next one to be a single chapter. It was going to go all the way up until they enter the Otherworld. But then the last three scenes ended up being way longer than I expected, so I split them off as a whole chapter of their own.</p>
 
-????
+<p>The same thing happened with the original chapter 2. So the original chapters (1, 2, 3) became (1, [2 and 3], [4 and 5]). And even AFTER splitting, chapters 2 and 3 are each twice as big as Chapter 1. So for two chapters I had expected to be the same size, one of them ended up being <strong>four times</strong> as big as the other!</p>
+
+<p>For a lot of writers, that wouldn't be too surprising. Writing can be a long ramble where you discover new things. But I like to <a href="/blog/how-to-write-cliffhangers-a-theory-of-writing">have a clear structure for my stories</a> and <a href="/blog/how-to-get-good-at-words">figure out exactly what I'm doing</a>. So this was something that hasn't happened to me before.</p>
+
+<p>Then again, I've never written something this <em>long</em> before, either. So maybe I simply didn't have the experience that would have let me guess exactly how long something would be when it was already Very Long. As I write these notes, I haven't begun chapter 6 yet, so we'll see whether I get better at guessing in the future.</p>
+
   ''',
   "head":head,
   "contents": '''
