@@ -17,9 +17,25 @@ posts = [
 
 <p>I was very careful about how I wrote the scene where Rinn thinks about the rape, and I'm still not sure I handled it 100% correctly. I've heard a lot of stories be (rightly) criticized for overly focusing on a male character's feelings about a female character being raped, and I didn't want to repeat those problems here. Like a lot of those male characters, Rinn has a lot of overprotective rage that Yali explicitly does not want. I didn't want to just glamorize that. But that's also a real situation and a real feeling that a lot of people encounter in their lives. So I wanted to write a story that represents a <em>better</em> way of handling it. To show the reader that even when you feel rage, you can still respect the other person's agency and choices.</p>
 
-<p>I also specifically made sure to have Rinn say "don't tell me someone raped you" instead of "don't tell me you were raped", and "must've had somebody do that to them" instead of "must've had that happen to them". I don't want to portray rape as something that just happens to people, because that downplays the role of the aggressor. Fortunately, this is consistent with Rinn's way of thinking that I've been building already! Rinn's a very active person, in the sense that ze almost always takes active roles rather than passive roles. That colors how ze thinks about other people, too. Rinn's first thought is always to focus on the aggressor's actions, rather than focusing on the suffering of person being hurt.</p>
+<p>I also specifically made sure to have Rinn say "don't tell me someone raped you" instead of "don't tell me you were raped", and "must've had somebody do that to them" instead of "must've had that happen to them". I don't want to portray rape as something that just happens to people, because that downplays the role of the aggressor. Fortunately, this is consistent with Rinn's way of thinking – I didn't even have to tweak that way of thinking from how I've been developing it already! Rinn's a very active person, in the sense that ze almost always takes active roles rather than passive roles. That colors how ze thinks about other people, too. Rinn's first thought is always to focus on the aggressor's actions, rather than focusing on the suffering of person being hurt. That isn't <em>always</em> the best way to think about things, but it worked out well for this particular detail.</p>
 
-<p>????? explain the subtle thing from Chapter 3</p>
+<h2>A subtlety from Chapter 3</h2>
+
+<p>As I mentioned in the <a href="/ravelling-wrath/3/discussion">author's notes for Chapter 3</a>, I often want the reader to know something, but can't communicate it because the narrator doesn't know it. Here's one from Chapter 3 itself, which I couldn't explain at the time… but I <em>can</em> explain it now, here in the author's notes. In this exchange:</p>
+
+<blockquote>
+<p>"It wasn't a real relationship, we were just horny teenagers." That felt a little weird to say. "Ha ha, Waiting God knows I'm still a horny teenager. Buuu-uuut I'm in a real relationship now –" I squeezed Yali's hand "– and I'm fine if you want to take it slow."</p>
+
+<p>"Uh... right," said Yali. "Go on with the story!"</p>
+</blockquote>
+
+<p>On one hand, Yali was <em>almost</em> going to react affectionately to Rinn correcting zemself twice. But then Rinn mentioned the "take it slow" thing, and as we know from Chapter 5, the truth is a lot more complicated than that. Yali was distracted from being affectionate by a brief internal struggle about how to respond, and eventually settled on avoiding the issue.</p>
+
+<p>And then <em>Rinn didn't notice any of it!</em> Not only was it totally out of character for Rinn to notice at that moment, but neither of them would be likely to remember that exact exchange, so I had no chance of going back and explaining it later in the story. At most, I could have added something like "Yali seemed flustered for some reason". But since I want to establish that Yali doesn't show discomfort very much, it's not right to use that line unless this exact exchange hits one of zir biggest vulnerabilities – and it doesn't. All I could do was leave a couple of subtle hints – the fact that Yali says "Uh", which isn't zir usual response, and then answers with the single word "right", which ze only did in Chapter 2 when ze was trying to avoid thinking about something. Rinn's statement is, in fact, <em>not</em> right, because Yali doesn't technically <em>want</em> to take it slow. Instead, the "right" is in the sense of "Oh right, that's how you think of it given that I haven't told you the whole story."</p>
+
+<p>I wouldn't usually explain this kind of details in the author's notes, because it can be cool when you reread the earlier chapters and notice them for yourself. But since this one is particularly complex <em>and</em> particularly hard to guess, I decided it could be interesting to write about it here. There's still plenty of other things to notice on a second reading. ;-)</p>
+
+
 
   ''',
   "head":head,
