@@ -832,7 +832,7 @@ html.transcript_hidden_'''+ transcript_identifier_string +''' #hide_transcript_b
     characters = len(re.findall (r"\w", reference))
     if words >0 and sentences >0:
       readability = 4.71*characters/words +0.5 *words/sentences -21.43
-      post_content = '<em class="debug"> Approximate readability: ' + "{:.2f}".format (readability) + " ("+ str (characters) + " characters, " + str (words) +  " words, " + str (sentences)  + " sentences, " + "{:.2f}".format (characters/words) + " characters per word, " + "{:.2f}".format (words/sentences) + " words per sentence)</em>" + post_content
+      post_content = post_content + '<em class="debug"> Approximate readability: ' + "{:.2f}".format (readability) + " ("+ str (characters) + " characters, " + str (words) +  " words, " + str (sentences)  + " sentences, " + "{:.2f}".format (characters/words) + " characters per word, " + "{:.2f}".format (words/sentences) + " words per sentence)</em>"
   
   post_content_sections = post_content.split("<bigbreak>")
   id_str = ''
