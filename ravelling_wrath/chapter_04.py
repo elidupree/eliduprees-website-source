@@ -401,7 +401,7 @@ The girl next to him looked up from her work. "Yo, I'm not cleaning your shit up
 
 The girl sized us both up, then seemed to give in. "…I'm coming for that favor though."
 
-"Thank you ever so much!" Layo shot over his shoulder as he hurried out the door with me.
+Layo made a heart sign with his fingers. "Thank you ever so much!" he said, before hurrying over to join me. He had such a charming way of talking sometimes, it was great. Probably got it from his dad.
 
 On our way out, he asked me, "Shall we take a walk in the park?" I knew right away what park he meant. It was an old haunt of ours, where we'd often spent hours together back in middle school, although we hadn't been there together in a while. And the paths were winding enough to give us a lot of privacy. If he was inviting me there, that meant he was treating this like serious business.
 
