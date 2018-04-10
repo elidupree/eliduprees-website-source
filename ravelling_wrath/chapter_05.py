@@ -337,22 +337,39 @@ After we sat down, Yali whispered in my ear, ?????
 
 I held Yali's hand the whole way there. Neither of us spoke. We had so much to say, but most of it had already been said, and the rest could wait until there were fewer people to overhear us.
 
-Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows
+Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. ?????
 
-????
+Finally, we reached the last stop and shuffled off the bus with everyone. As soon as we were off, Yali pulled out her phone and brought up the route to where we were going. She waved for me to follow, and started walking without saying a word.
 
-"Ya know, usually I fight against people I'm willing to <em>hurt</em>."
+The second layer didn't really look how I remembered it. I guess that shouldn't have been a surprise, since I'd been a little kid last time I was here. And it was still way different from down at home. The buildings were big, brightly colored, and completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-paneled walkways sticking out all over the place. I couldn't resist looking around at everything. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
+
+"Yali?" I said. She didn't look up from her silent concentration. "Hey, Yali!"
+
+"Shhhh." She still didn't look up at me. A few paces later, she continued, "Don't say my name."
+
+"Oh, right. Sorry, I didn't think of that." Ugh, it felt weird that I wasn't getting a reaction out of her. It was like the bond between us had somehow been cut when I wasn't looking. Why was she acting like that? Well, when I thought about it, this was probably really stressful for her too. Whatever, I could put up with it. I went back to looking around while I followed her, to give her a little space. More streets went past. My hoodie slowly got more damp in the rain.
+
+"Ugh, my legs are tired," I said. They weren't <em>that</em> tired, but I was itching to say something.
+
+"Should I slow down?"
+
+"No, I'll be fine." I sped up a little, because screw that. "Seriously though, I'm supposed to be the athletic one, what happened? First you beat me at wrestling, now you're beating me at walking…"
+
+Yali half-laughed. "Maybe we didn't need to do anything with your emotions. Now I can just beat you in a fight."
+
+"Come on, we can't <em>really</em> count that. Ya know, 'cause usually I fight against people I'm willing to <em>hurt</em>."
 
 "What, don't you do play-fighting with your friends?"
 
-"More like with randos in the schoolyard. So what if they get a few bruises, they'll be fine."
+"More like with randos in the schoolyard. Like I don't care if they get a few bruises, they'll be fine."
 
 "If <em>I</em> get a few bruises," said Yali irritably, "<em>I'll</em> be fine."
 
-"It's not the same!" Yali ignored me. "Come on, you're my girlfriend! I'm allowed to be extra protective!"
+How had that even offended her?! I scrambled to think back to what I'd said. "It's not the same!" I complained. Yali ignored me. "Come on, you're my girlfriend! I'm allowed to be extra protective!"
 
-????
+"I was joking, anyway," she said. "With your powers, I wouldn't have a chance against you."
 
+"Way to kill the mood."
 
 We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobblestones.
 
