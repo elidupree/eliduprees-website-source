@@ -349,6 +349,18 @@ The second layer didn't really look how I remembered it. I guess that shouldn't 
 
 "Oh, right. Sorry, I didn't think of that." Ugh, it felt weird that I wasn't getting a reaction out of her. It was like the bond between us had somehow been cut when I wasn't looking. Why was she acting like that? Well, when I thought about it, this was probably really stressful for her too. Whatever, I could put up with it. I went back to looking around while I followed her, to give her a little space. More streets went past. My hoodie slowly got more damp in the rain.
 
+At last, the first layer's wall loomed above us. We didn't <em>get</em> there right away – we were still on the second layer's twisty roads, so even once we could see the wall over the shorter buildings, there was still a lot of meandering before we got to the actual gate. But we got there.
+
+At first glance, the Waiting Gate didn't look like much. For being one of the main gates, it was pretty small, only wide enough to fit one car at a time. But once I got close, I could see the details. Every part of the stonework around the gate was carved into finely shaped curves. The shapes looked somehow geometric and organic at the same time. And at the top of the gate, they all intertwined into a big version of the Waiting God's symbol, the Watchful Eye.
+
+I paused under the gates to run my fingers through the grooves in the the smooth stone. "Wooaah…" I said. "I can't even feel the gaps between the stones."
+
+Yali stood ahead of me impatiently. I hurried to catch up.
+
+On the other side of the gate, the difference in the city was like night and day. The roads around here weren't even paved normally, they were all cobblestones instead. And all the buildings were kind of… shorter than usual. Not just fewer multi-story buildings, but lower roofs and shorter doors as well. Wouldn't be a problem for me or even Yali, but someone as tall as Dehel would be hitting their head all the time.
+
+And a lot of the buildings had stone walls with carvings like the ones on the gate. I'd expect that kind of thing from a temple, but even regular shops and stuff had them.
+
 "Ugh, my legs are tired," I said. They weren't <em>that</em> tired, but I was itching to say something.
 
 "Should I slow down?"
@@ -367,11 +379,13 @@ Yali half-laughed. "Maybe we didn't need to do anything with your emotions. Now 
 
 How had that even offended her?! I scrambled to think back to what I'd said. "It's not the same!" I complained. Yali ignored me. "Come on, you're my girlfriend! I'm allowed to be extra protective!"
 
-"I was joking, anyway," she said. "With your powers, I wouldn't have a chance against you."
+"I was joking, anyway," she said wearily. "With your powers, I wouldn't have a chance against you."
 
 "Way to kill the mood."
 
-We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobblestones.
+We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobblestones. By the time we got where we were going, my legs really <em>were</em> sore from all the times I had to catch myself after tripping a little. I shouldn't have tripped, but I was paying more attention to Yali than to where I was putting my feet.
+
+
 
 ????
 
