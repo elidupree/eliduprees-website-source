@@ -475,6 +475,26 @@ Also, I have a new game project that I decided to do after I finished <a href="/
 ''',
 },
 
+{
+"title": "Projects update 2018-04-11",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I've dived into a new project this last week! I'm making a webpage for making sound effects, inspired by <a href="https://www.bfxr.net">Bfxr</a>. This will be useful for <a href="https://en.wikipedia.org/wiki/Game_jam">game jammers</a>, who make small games quickly and don't have time for a more in-depth sound design process. It'll be especially convenient because it's a webpage that doesn't require download. (Bfxr <em>used</em> to have this advantage, but it's written in Flash. Flash is old, insecure, and often not supported by modern browsers.)
+
+Since I started this project, my mental health has been a lot better! Before this, even though I was getting some work done, I mostly had to <em>convince</em> myself to do it. Now, I'm having a lot more days where I genuinely take an interest in my work. I'm not completely back to normal, but I feel way closer to normal than I have for months.
+
+I'm also making steady progress on Chapter 5 of <a href="/ravelling-wrath">Ravelling Wrath</a>. It's now 6200 words.
+
+
+''',
+},
+
+
 ]
 
 """
