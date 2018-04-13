@@ -46,7 +46,7 @@ This chapter contains:
 
 <bigbreak>
   
-<h2>Chapter 5: ?????</h2>
+<h2>Chapter 5: Boundary Crossing</h2>
 
 Yali was even more happy to take a break than I'd thought.
 
@@ -246,7 +246,7 @@ And had she had to go through a trial? Of her own parents? Of their killers?
 
 How many layers of badass <em>was</em> she?
 
-My mind turned these ideas over and over, [????? "these ideas" maybe not the right phrase] late into the night, until sleep was finally heavier than they were. There was nothing I could do to loosen the cold grip on my heart, to make it seem like it wasn't so bad. And the way I imagined Yali kept flopping back and forth, never able to settle, between the Yali who was isolated and suffering, and the Yali who stepped out of it all, grimly ready to defy the gods.
+My mind turned these worries over and over, late into the night, until sleep was finally heavier than they were. There was nothing I could do to loosen the cold grip on my heart, to make it seem like it wasn't so bad. And my way of picturing Yali kept flopping back and forth, never able to settle, between the Yali who was isolated and suffering, and the Yali who stepped out of it all, grimly ready to defy the gods.
 
 As I slipped into unconsciousness, the only thing I knew for sure was that I was up against something much, much bigger than me.
 
@@ -256,7 +256,7 @@ The day finally came.
 
 I rose with the dawn. The sun echoed my dream, filling my blood with energy. I was ready.
 
-Well, I couldn't <em>really</em> say I was ready, but for some reason, I <em>felt</em> ready. I went through my morning routine on autopilot, my mind racing ahead to what was coming.
+I couldn't <em>x</em> say I was ready, but for some reason, I <em>felt</em> ready. I went through my morning routine on autopilot, my mind racing ahead to what was coming.
 
 Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
 
@@ -285,7 +285,7 @@ I snickered at "<em>more</em> walking", as if I was actually going to walk this 
 
 It was the last time I was going to be running these streets for a long time. I lovingly landed my feet in every familiar pothole and crack.
 
-???
+????
 
 On my way, I saw the houses and shops go by. With each one, I wondered if I'd ever see it again. There was ?????.
 
@@ -335,15 +335,13 @@ It took Yali a moment to realize that I was joking, but then she laughed loudly.
 
 The bus drove up and we got on together. Yali paid for both of us.
 
-After we sat down, Yali whispered in my ear, ?????
-
 I held Yali's hand the whole way there. Neither of us spoke. We had so much to say, but most of it had already been said, and the rest could wait until there were fewer people to overhear us.
 
-Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. ?????
+Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. But there was nothing out there I hadn't seen before. There was the big main gate into the third layer. The dull rigidity of the Stern buildings. The menacing walls of the prison off in the distance. Was that where…? No, it wasn't worth thinking about, not when Yali was right next to me. I tried to focus on the trip. We passed by a busy gas station. We rolled through the weirdly hidden gate into the second layer, which you almost couldn't see until you got close to it.
 
-Finally, we reached the last stop and shuffled off the bus with everyone. As soon as we were off, Yali pulled out her phone and brought up the route to where we were going. She waved for me to follow, and started walking without saying a word.
+Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, showing the route to where we were going. She waved for me to follow, and started walking without saying a word.
 
-The second layer didn't really look how I remembered it. I guess that shouldn't have been a surprise, since I'd been a little kid last time I was here. And it was still way different from down at home. The buildings were big, brightly colored, and completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-paneled walkways sticking out all over the place. I couldn't resist looking around at everything. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
+The second layer didn't quite look how I remembered it. I guess that shouldn't have been a surprise, since I'd been a little kid last time I was here. And it was still way different from down at home. The buildings were big, brightly colored, and completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-paneled walkways sticking out all over the place. I couldn't resist looking around at everything. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
 
 "Yali?" I said. She didn't look up from her silent concentration. "Hey, Yali!"
 
@@ -381,17 +379,19 @@ Yali half-laughed. "Maybe we didn't need to do anything with your emotions. Now 
 
 How had that even offended her?! I scrambled to think back to what I'd said. "It's not the same!" I complained. Yali ignored me. "Come on, you're my girlfriend! I'm allowed to be extra protective!"
 
-"I was joking, anyway," she said wearily. "With your powers, I wouldn't have a chance against you."
+"I was joking, anyway," she said wearily. "With the powers you'll have as the Blood Child, I wouldn't have a chance against you."
 
 "Way to kill the mood."
 
 We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobblestones. By the time we got where we were going, my legs really <em>were</em> sore from all the times I had to catch myself after tripping a little. I shouldn't have tripped, but I was paying more attention to Yali than to where I was putting my feet.
 
-I'd expected the fountain to have a big jet of water shooting up into the air. But instead, it had thousands of little channels of water, flowing along the surfaces of more stone engravings like the others I'd seen around here. There there was a big, shallow basin in the middle of the city square, with a big carved stone sticking up in the middle, and more carvings around the edges. All the little channels of water flowed peacefully into the basin, with hardly even a splash. If it wasn't for the rain putting ripples all over the water's surface, it would probably all be flowing in the steady, continuous stream, making it look like the water wasn't moving at all.
+I'd expected the fountain to have a big jet of water shooting up into the air. But instead, it had thousands of little channels of water, flowing along the surfaces of more stone engravings like the others I'd seen around here. There there was a big, shallow basin in the middle of the city square, with a big carved stone sticking up in the middle, and more carvings around the edges. All the little channels of water flowed peacefully into the basin, with hardly even a splash. If it wasn't for the rain putting ripples all over the water's surface, it would probably all be a steady, continuous stream. It'd look like the water wasn't moving at all.
 
-Around the fountain were a few black iron benches [????? should they be stone instead?],. Yali led me to one of them and we sat down together. I held her hand and leaned against her shoulder.
+Around the fountain were a few benches made of the same stone. Yali led me to one of them and we sat down together. For a solid piece of rock, it was surprisingly comfortable. Once I was settled in, I held Yali's hand and leaned against her shoulder.
 
-The square was oddly deserted. Even though this was the center of the first layer, it wasn't exactly bustling. A few people walked past without really noticing us. At one point, an elderly couple paused on one of the benches across from us to observe the fountain, but they moved on before long. There weren't any cars either, although I got the impression that people just didn't use cars around here. It would probably be super bumpy on the cobblestones, anyway.
+The square was oddly deserted. Even though this was the center of the first layer, it wasn't exactly bustling. A few people walked past without really noticing us. At one point, an elderly couple paused on one of the benches across from us, to observe the fountain, but they moved on before long. Once they were gone, I asked Yali, "What if someone's looking at us when we disappear?" But Yali said they wouldn't notice, and gave a complicated explanation of the magic behind it, which I didn't really understand.
+
+There weren't any cars either, although I got the impression that people just didn't use cars around here. It would probably be super bumpy on the cobblestones, anyway.
 
 Most of the time, it was just me and Yali, huddled together in the cold rain.
 
@@ -409,7 +409,7 @@ After a long pause, Yali said, "If you don't mind, I'd like a more detailed answ
 
 "If you're ever not comfortable sharing, you can just tell me, I'll –"
 
-"Yeah, yeah. Honestly, the main thing I'm feeling right now is that I'm <em>soooo</em> glad we don't have to walk any more." I rubbed my legs.???? "Maybe that sounds kinda stupid, but like… it all doesn't feel real to me, still. All the god stuff. I mean, I know it's real, but it just feels like it's in a movie, like it's happening to someone else, not me, you know…? Stern take it, even my feelings don't feel real."
+"Yeah, yeah. Honestly, the main thing I'm feeling right now is that I'm <em>soooo</em> glad we don't have to walk any more." I rubbed my legs. Now that I wasn't using them, they'd taken the opportunity to get even <em>more</em> sore. "Maybe that sounds kinda stupid, but like… it all doesn't feel real to me, still. All the god stuff. I mean, I know it's real, but it just feels like it's in a movie, like it's happening to someone else, not me, you know…? Stern take it, even my feelings don't feel real."
 
 "I understand."
 
@@ -421,29 +421,33 @@ After a long pause, Yali said, "If you don't mind, I'd like a more detailed answ
 
 Yali laughed slightly, but didn't answer.
 
-?????
+And then it was back to waiting again. Even though I was cold, and sore, and impatient to get to the big event, waiting didn't seem so hard for some reason. Something about this place just felt oddly peaceful. Although maybe it shouldn't have been a surprise that it was a nice place for waiting, when it was built to honor the Waiting.
+
+Time passed. The rain slowly drained my body heat. I rested against Yali's body and let my mind tune out.
 
 Yali's voice broke the silence. "It's coming," she said hoarsely, as if it was a huge effort. "Look into the fountain and think of me."
 
-I looked into the fountain. The stone carvings and rippling water were as pretty as before, although it wasn't really my style. I squeezed Yali's hand, and felt that she was trembling.
+Obediently, I looked into the fountain. The stone carvings and rippling water were as pretty as before, although it wasn't really my style. I squeezed Yali's hand, and felt that she was trembling.
 
-It was hard to explain when it began. The sound of the fountain flowing continued unchanged, but somehow it was like a clock ticking down the hours. The water's surface became a rippling sheet of glass. When I looked into the reflections, I thought I glimpsed bits of writing I could barely make out, stone tablets carrying long-forgotten histories, and here and there a shadow of a face. The stones were still the stones of the fountain. The shadow was still the shadow of a rusted ?????. What had changed?
+It was hard to explain when it began. The sound of the fountain flowing continued unchanged, but somehow it was like a clock ticking down the hours. The water's surface became a rippling sheet of glass. When I looked into the reflections, I thought I glimpsed bits of writing I could barely make out, stone tablets carrying long-forgotten histories, and here and there a shadow of a face. The stones were still the stones of the fountain. The shadow was still the shadow of a rusted signpost. What had changed?
 
 <p><em>Think of me.</em></p>
 
-I tried to turn my head, to get another look over at Yali, but my muscles ignored me. The fountain was everything. The splatter of reflected sunlight was pulling me inwards. I thought of my hand, still intertwined with Yali's. <em>Let us both be pulled in the same direction</em>, I begged, not knowing to which god I was praying. The raindrops were a thousand fragments that should have shattered into nothingness long ago, but continued inescapably on their course, amassing into a tunnel that stretched out before me. I was falling into the tunnel, into a bottomless pit that fell down into a void of stars.
+I tried to turn my head, to get another look over at Yali, but my muscles ignored me. The fountain was everything. The splatter of reflected sunlight was pulling me inwards. I thought of my hand, still intertwined with Yali's. <em>Let us both be pulled in the same direction</em>, I begged, not knowing to which god I was praying. The raindrops were a thousand fragments that should have shattered into nothingness long ago. But they fell, they fell, they continued inescapably on their course, amassing into a tunnel that stretched out before me. I was falling into the tunnel, into a bottomless pit that fell down into a void of stars.
+
+The world was gone. Yali was gone. I was submerged in the void, with nothing but the stars in every direction around me.
 
 <p><em>Think of me.</em></p>
 
 I made her face appear among the stars. Her eyes were blazing pinpricks of light. Her hand was a constellation reaching out towards me. She was crowned with cold fire that shone from an eternity away.
 
-I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great beast watched me indifferently, seeing all that I might do. And in front of all this, I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
+I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great monstrosity watched me indifferently, seeing all that I might do. And in front of all this, I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
 
 At last, I felt a looming presence, like a giant hand hovering over me. Maybe Yali's, or maybe something else's, I had no way to tell. The hand slowly descended around me, forming a vast and empty enclosure around me, shutting out the stars one by one.
 
 In the emptiness of the hand's embrace, I waited, wondering what would happen next. Until, bit by bit, I somehow became aware that the <em>hand</em> was waiting for <em>me</em>. The void it had created was expectant. I reached out, not knowing how. I had no arms to crawl with, no voice to yell into the darkness, no mind to make sense of it with ideas. Yet somehow I still reached out, as if with my life force itself, to scratch a foothold into this fragment of the universe that was being offered to me.
 
-As my life force touched the void, these images all winked away – the hand, the stars, and even the void itself. They left me blinking into a different light that was much closer, much more real and mundane.
+As my life force breached the void, these images all winked away – the hand, the stars, and even the void itself. They left me blinking into a different light that was much closer, much more real and mundane.
 
 I was in another world.
 
