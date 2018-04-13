@@ -156,7 +156,7 @@ def stories_index (full):
       return '<a class="small_story"><h2>' + story + ": "  + '</h2><span class="blurb"> Coming eventually... </span></a>' if full else ''
     story = stories_map [story]
     story ["listed"] = True
-    return '<a class="small_story" href="' + blog.post_permalink (story) +'"><h2 class=" restore_link">' + story ["title"]+ info (story) + ": "  + '</h2><span class="blurb">' + story ["blurb"] + '</span></a>' if full else blog.index_entry_html (story)
+    return '<a class="small_story" href="' + blog.post_permalink (story) +'"><h2 class=" restore_link">' + ("[NSFW] " if "NSFW" in story else "") + story ["title"]+ info (story) + ": "  + '</h2><span class="blurb">' + story ["blurb"] + '</span></a>' if full else blog.index_entry_html (story)
     
   def group (name, contents):
     return category_pages.exhibit (None, "", None, '<h1>' + name + '</h1>' + contents, None) if full else '<div class="index_page_entry">' + name +'</div>' + contents

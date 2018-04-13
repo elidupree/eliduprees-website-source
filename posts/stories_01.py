@@ -37,6 +37,7 @@ posts = [
 },
 {
   "title":"Will You Try to Escape?",
+  "NSFW": True,
   "blurb": "An interactive erotic story about a BDSM scene.",
   "word_count_override": "5800 words total",
   "force_date":datetime.date(2015, 8, 3),

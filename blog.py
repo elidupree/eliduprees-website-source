@@ -912,7 +912,8 @@ def index_entry_html(post_dict):
     url = post_dict["url"]
   else:
     url = post_permalink(post_dict)
-  return '<div class="index_entry"><a class="index_entry_link'+("" if "ignore_for_random_post" in post_dict else " randomable_index_entry")+ '" href="'+url+'" title="'+post_dict["title"]+'">'+post_dict["title"]+'</a></div>'
+  title = ("[NSFW] " if "NSFW" in post_dict else "") + post_dict["title"]
+  return '<div class="index_entry"><a class="index_entry_link'+("" if "ignore_for_random_post" in post_dict else " randomable_index_entry")+ '" href="'+url+'" title="'+title+'">'+title+'</a></div>'
 
 
 def make_blog_page_body(main_contents, sidebar_contents):
