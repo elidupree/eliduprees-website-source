@@ -283,15 +283,15 @@ I took off running down the road towards the school. But as soon as I was out of
 
 I snickered at "<em>more</em> walking", as if I was actually going to walk this first part. I was itching to run, to get there as soon as I could. But just for her, I held myself to somewhere in the middle, and settled into an easy jog.
 
-It was the last time I was going to be running these streets for a long time. I lovingly landed my feet in every familiar pothole and crack.
+It was the last time I was going to be running these streets for a long time. I lovingly landed my feet in every familiar pothole and crack. Over there was the first bar I ever got kicked out of. A few blocks down, the corner store where Pèi stole most of her jewelry. The old half-a-basketball-court where I used to play with the neighborhood kids until the hoop fell down and people started dumping their trash there.
 
-????
+It was a long jog. I got to the fourth layer through its main gate, which was pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, just looking that way made me miss the shit out of him.
 
-On my way, I saw the houses and shops go by. With each one, I wondered if I'd ever see it again. There was ?????.
+It wouldn't be long till I was there. I stopped thinking and just jogged, feeling the wind blow over my face and arms. It was cold, but I getting plenty warmed up anyway. It was good to be alive.
 
-????
+When I got to Clover Square, I didn't see Yali anywhere. I was about to text her again, to ask when she'd get there, when I felt her hand land on my shoulder. She led me into a corner and handed me a shapeless gray hoodie that was a couple sizes too big for me. I obediently pulled it over my head and wriggled my arms into the sleeves. Yali was wearing one just like it, keeping her face well back under the hood.
 
-Yali led me into a corner and handed me a shapeless gray hoodie that was a couple sizes too big for me. I obediently pulled it over my head and wriggled my arms into the sleeves. Yali was wearing one just like it, keeping her face well back under the hood. "I don't want anyone to recognize us on our way to the fountain." She was referring to something we'd discussed earlier. We had to go to the fountain at the center of the first layer, where the boundary between this world and the Otherworld was the thinnest. That would make the transition easier, so we'd be more likely to show up in the same place instead of being flung to faraway parts of the Otherworld. "We'll take a bus up to the second layer, then walk from there."
+"I don't want anyone to recognize us on our way to the fountain," she said. She was referring to something we'd discussed earlier. We had to go to the fountain at the center of the first layer, where the boundary between this world and the Otherworld was the thinnest. That would make the transition easier, so we'd be more likely to show up in the same place instead of being flung to faraway parts of the Otherworld. "We'll take a bus up to the second layer, then walk from there."
 
 "Why not all the way?"
 
@@ -425,7 +425,7 @@ And then it was back to waiting again. Even though I was cold, and sore, and imp
 
 Time passed. The rain slowly drained my body heat. I rested against Yali's body and let my mind tune out.
 
-Yali's voice broke the silence. "It's coming," she said hoarsely, as if it was a huge effort. "Look into the fountain and think of me."
+Yali's voice broke the silence. "It's coming," she said hoarsely, as if it was a huge effort to speak at all. "Look into the fountain and think of me."
 
 Obediently, I looked into the fountain. The stone carvings and rippling water were as pretty as before, although it wasn't really my style. I squeezed Yali's hand, and felt that she was trembling.
 
