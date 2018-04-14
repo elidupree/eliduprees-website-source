@@ -256,7 +256,7 @@ The day finally came.
 
 I rose with the dawn. The sun echoed my dream, filling my blood with energy. I was ready.
 
-I couldn't <em>x</em> say I was ready, but for some reason, I <em>felt</em> ready. I went through my morning routine on autopilot, my mind racing ahead to what was coming.
+I couldn't <em>technically</em> say I was ready, but for some reason, I <em>felt</em> ready. I went through my morning routine on autopilot, my mind racing ahead to what was coming.
 
 Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
 
