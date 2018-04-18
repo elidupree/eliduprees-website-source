@@ -495,6 +495,25 @@ I'm also making steady progress on Chapter 5 of <a href="/ravelling-wrath">Ravel
 },
 
 
+{
+"title": "Projects update 2018-04-18",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I'm making great progress on my sound effect generator! It's a nontrivial project, but I think I'm close to half done. Mental health wise, I'm not feeling quite as great as when I started, but it's still an improvement – it's like I'm having some good days and some mediocre days, instead of having some okay days and some bad days.
+
+I'm also nearly done with Chapter 5 of <a href="/ravelling-wrath">Ravelling Wrath</a>. I've written the whole chapter, I just need to finish editing it. (It ended up at 7000 words.) I should be able to post it next week!
+
+
+
+''',
+},
+
+
 ]
 
 """
