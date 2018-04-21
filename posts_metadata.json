@@ -1143,7 +1143,9 @@
  "Projects update 2018-04-18": {
   "date_modified": "2018-04-18",
   "date_posted": "2018-04-18",
-  "id": "3fa102bd9ba7fd2d6870d907342ceed"
+  "deployed": true,
+  "id": "3fa102bd9ba7fd2d6870d907342ceed",
+  "remembered_contents": "cda13e77b5db8343cee1c973c7028ec7d7ea9e4a02990ee577d57c2d06b9ecfcbe0f29980af0f09f736c230ab2613b0b"
  },
  "Prose vs. graphic narration": {
   "date_modified": "2011-09-05",
