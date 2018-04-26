@@ -514,6 +514,24 @@ I'm also nearly done with Chapter 5 of <a href="/ravelling-wrath">Ravelling Wrat
 },
 
 
+{
+"title": "Projects update 2018-04-25",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I had hoped to post my Chapter 5 today, but it's hit an unexpected delay. I don't know when it will be ready.
+
+My sound effect generator is about 60% complete. I'm making progress, but my lingering hand problems are slowing down the progress. This week is also a week of multiple doctor's appointments about that, so hopefully they will have useful new advice…
+
+
+''',
+},
+
+
 ]
 
 """
