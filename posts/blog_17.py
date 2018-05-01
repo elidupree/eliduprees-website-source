@@ -532,6 +532,41 @@ My sound effect generator is about 60% complete. I'm making progress, but my lin
 },
 
 
+{
+"title": "When is a cause not a cause?",
+"tags": ["philosophical"],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+
+
+Maybe you've heard the principle "correlation is not causation".
+????? Just because two things tend to happen together, doesn't mean one of them causes the other. For example:
+
+"Thunder and fires often originate in the same place. Therefore, thunder causes fires." (No, lightning causes both of them separately.)
+
+"People who are taking medicine are more likely to be sick. Therefore, taking medicine causes you to be sick." (No, being sick causes people to take medicine.)
+
+This principle is a warning to be careful about drawing conclusions that aren't supported by the evidence. It's especially important in medical and social sciences, where it's much easier to observe correlations than to get stronger types of evidence. ?????:
+
+"People with higher HDL cholesterol have lower risk of heart attack. Therefore, HDL protects against heart attacks." (After doctors tried giving people medicine to increase their HDL, it didn't have the intended effect.)
+
+"People with a BMI above 35 have somewhat higher mortality rates. Therefore, high weight causes you to be less healthy." (The causes aren't well understood, and common beliefs are incorrect. In particular, this can't be <em>tested</em> because <a href="https://annamirer.wordpress.com/2015/01/23/lets-talk-about-intentional-weight-loss-and-evidence-based-medicine/">there is no safe and reliable way</a> for <a href="http://amptoons.com/blog/?p=22049">fat people to lose significant amounts of weight</a>.)
+
+If you want better evidence, you generally want a good <em>experiment</em>. In the ideal case, you take two situations that are exactly the same, do different things for them, and see if you get different results.
+
+In practice, it's a bunch more complicated. Suppose I want to tell if X causes Y. So I get a bunch of test subjects, and split them into two groups, randomly. (It has to be random because they aren't actually all the same, but I don't want the <em>groups</em> to be too different from each other.) Then I apply X, and <em>only</em> X, to one of the groups. (This is why it's ideal for experiments to be <a href="https://en.wikipedia.org/wiki/Double-blind">double-blind</a>. If you're testing a drug, you want to apply only the drug, not "the drug and also the knowledge that you're getting the drug".) Then I check if Y happened in each of the groups.
+
+If I do everything right, and my experiment gets a positive result, I'll <em>know</em> that X causes Y… right?
+
+Well… not exactly.
+
+
+''',
+},
+
+
 ]
 
 """
