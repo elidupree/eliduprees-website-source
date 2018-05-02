@@ -541,26 +541,53 @@ My sound effect generator is about 60% complete. I'm making progress, but my lin
 "contents":'''
 
 
-Maybe you've heard the principle "correlation is not causation".
-????? Just because two things tend to happen together, doesn't mean one of them causes the other. For example:
+Maybe you've heard the principle "correlation is not causation". To put it another way, just because two things tend to happen together, that doesn't mean one of them causes the other. For example:
 
 "Thunder and fires often originate in the same place. Therefore, thunder causes fires." (No, lightning causes both of them separately.)
 
 "People who are taking medicine are more likely to be sick. Therefore, taking medicine causes you to be sick." (No, being sick causes people to take medicine.)
 
-This principle is a warning to be careful about drawing conclusions that aren't supported by the evidence. It's especially important in medical and social sciences, where it's much easier to observe correlations than to get stronger types of evidence. ?????:
+This principle is a warning to be careful about drawing conclusions that aren't supported by the evidence. It's especially important in medical and social sciences, where it's much easier to observe correlations than to get stronger types of evidence. Because of this, we often act on incorrect guesses about the true causes of things. For example:
 
 "People with higher HDL cholesterol have lower risk of heart attack. Therefore, HDL protects against heart attacks." (After doctors tried giving people medicine to increase their HDL, it didn't have the intended effect.)
 
-"People with a BMI above 35 have somewhat higher mortality rates. Therefore, high weight causes you to be less healthy." (The causes aren't well understood, and common beliefs are incorrect. In particular, this can't be <em>tested</em> because <a href="https://annamirer.wordpress.com/2015/01/23/lets-talk-about-intentional-weight-loss-and-evidence-based-medicine/">there is no safe and reliable way</a> for <a href="http://amptoons.com/blog/?p=22049">fat people to lose significant amounts of weight</a>.)
+"People with a BMI above 35 have somewhat higher mortality rates. Therefore, high weight causes you to be less healthy." (The causes aren't well understood, and common beliefs are incorrect. In particular, this is impractical to <em>test</em> because <a href="https://annamirer.wordpress.com/2015/01/23/lets-talk-about-intentional-weight-loss-and-evidence-based-medicine/">there is no safe and reliable way</a> to <a href="http://amptoons.com/blog/?p=22049">significantly reduce a person's weight</a>.)
 
 If you want better evidence, you generally want a good <em>experiment</em>. In the ideal case, you take two situations that are exactly the same, do different things for them, and see if you get different results.
 
-In practice, it's a bunch more complicated. Suppose I want to tell if X causes Y. So I get a bunch of test subjects, and split them into two groups, randomly. (It has to be random because they aren't actually all the same, but I don't want the <em>groups</em> to be too different from each other.) Then I apply X, and <em>only</em> X, to one of the groups. (This is why it's ideal for experiments to be <a href="https://en.wikipedia.org/wiki/Double-blind">double-blind</a>. If you're testing a drug, you want to apply only the drug, not "the drug and also the knowledge that you're getting the drug".) Then I check if Y happened in each of the groups.
+In practice, it's a bunch more complicated. Suppose I want to tell if X causes Y. So I get a bunch of test subjects, and split them into two groups, randomly. (It has to be random because they aren't actually all the same, and I don't want the <em>groups</em> to be too different from each other.) Then I apply X, and <em>only</em> X, to one of the groups. (This is why it's ideal for experiments to be <a href="https://en.wikipedia.org/wiki/Double-blind">double-blind</a>. If you're testing a drug, you want to apply only the drug, not "the drug and also the knowledge that you're getting the drug".) Then I check if Y happened in each of the groups.
 
 If I do everything right, and my experiment gets a positive result, I'll <em>know</em> that X causes Y… right?
 
 Well… not exactly.
+
+<h2>A fable</h2>
+
+An alien, who has never seen water before, comes to Earth. It begins making observations about the water around it. Eventually, winter comes, and the alien notices that some of the water has frozen into ice.
+
+The alien wonders "what causes this water to freeze?" So it does a series of experiments. Eventually, it tries pouring salt on the ice, which causes the ice to melt. (This happens because salt lowers the melting point of water. In real life, many cities put salt on the roads during winter, to reduce ice.)
+
+The alien repeats this experiment many times, and finds that it's a consistent effect. Water that's left outdoors without salt turns into ice, and water that's left outdoors <em>with</em> salt stays as water.
+
+"Aha," thinks the alien. "Freezing is caused by a deficiency of salt!"
+
+But the winter eventually gets cold enough that water stays frozen no matter how much salt the alien puts on it. Now the alien is confused and needs a new theory.
+
+What went wrong? The alien's experiment was well-constructed, and it successfully observed causation. But an experiment like this still has two weaknesses. First, it doesn't tell you <em>the</em> cause, it only tells you <em>a</em> cause, and there may be other causes that are more important. Second, "X causes Y" might not be true <em>in general</em> – it might only be true for the exact test subjects that you used. In the alien's case, it did all of its research exactly when the temperature was very close to the melting point of water. So it didn't realize how, with different temperatures, salting doesn't have the same effect at all.
+
+Back in 2016, I ran into a problem like this in my own life. One day, I used my voice a lot more than usual, singing and talking in different voices. After that, my throat was very irritated, and it stayed that way for weeks. Eventually, it was mostly better. But then I had another day when I overused it somewhat, and it was irritated for weeks again. "Okay," I thought, "it looks like this problem is caused by overusing my voice."
+
+But over time, it took less and less usage to "overuse" it, and eventually, my throat was constantly irritated even when I didn't use it much at all. In hindsight, it seems that what was really happening was a slow onset of allergy symptoms. Throat usage was still <em>one</em> of the causes of the irritation – and it was the easiest one to observe – but it wasn't the most <em>important</em> cause. If I hadn't already had low-level allergies the first time, it would have recovered much faster from the first time I overused it, and it might not have gotten hurt at all.
+
+After I figured it out, I got better by using allergy treatments, eventually including <a href="/blog/projects-update-2017-06-21">my allergy hat</a>. That whole experience was the original inspiration for this post.
+
+<h2>But wait…</h2>
+
+"But Eli," you say, <q>it sounds like you're saying we shouldn't claim to know anything unless we have the best possible evidence. But you also wrote <a href="why-should-knowledge-be-correct-anyway">another fable with the opposite message – that we shouldn't ignore knowledge just because the evidence isn't good enough</a>. Aren't you contradicting yourself?</q>
+
+Maybe a little bit. But I can make them both make sense together. This post says, "don't be certain that you know something just because your evidence is pretty good". The other post says, "don't be certain that you <em>don't</em> know something just because your evidence isn't very good". On most subjects, we spend most of our time somewhere in between – not fully knowing, but not being fully ignorant either.
+
+I'm interested in developing more strategies for working with partially formed knowledge. I think there are a lot more interesting things to do an unproven theory than just to try to guess whether it's true or false. In fact, I already have some ideas for more sophisticated ways to think about partial knowledge – but that'll have to wait for another post.
 
 
 ''',
