@@ -536,8 +536,7 @@ My sound effect generator is about 60% complete. I'm making progress, but my lin
 "title": "When is a cause not a cause?",
 "tags": ["philosophical"],
 "auto_paragraphs": True,
-"don't deploy": True,
-"blurb": "",
+"blurb": "Maybe you've heard the principle “correlation is not causation”. But that's just the beginning!",
 "contents":'''
 
 
@@ -547,15 +546,15 @@ Maybe you've heard the principle "correlation is not causation". To put it anoth
 
 "People who are taking medicine are more likely to be sick. Therefore, taking medicine causes you to be sick." (No, being sick causes people to take medicine.)
 
-This principle is a warning to be careful about drawing conclusions that aren't supported by the evidence. It's especially important in medical and social sciences, where it's much easier to observe correlations than to get stronger types of evidence. Because of this, we often act on incorrect guesses about the true causes of things. For example:
+This principle is a warning to be careful about drawing conclusions that aren't supported by the evidence. It's especially important in <cut>medical and social sciences, where it's much easier to observe correlations than to get stronger types of evidence. Because of this, we often act on incorrect guesses about the true causes of things. For example:
 
 "People with higher HDL cholesterol have lower risk of heart attack. Therefore, HDL protects against heart attacks." (After doctors tried giving people medicine to increase their HDL, it didn't have the intended effect.)
 
-"People with a BMI above 35 have somewhat higher mortality rates. Therefore, high weight causes you to be less healthy." (The causes aren't well understood, and common beliefs are incorrect. In particular, this is impractical to <em>test</em> because <a href="https://annamirer.wordpress.com/2015/01/23/lets-talk-about-intentional-weight-loss-and-evidence-based-medicine/">there is no safe and reliable way</a> to <a href="http://amptoons.com/blog/?p=22049">significantly reduce a person's weight</a>.)
+"People with a BMI above 35 have somewhat higher mortality rates. Therefore, high weight causes you to be less healthy." (The causes aren't well understood, and many common beliefs are incorrect. In particular, this is impractical to <em>test</em> because <a href="https://annamirer.wordpress.com/2015/01/23/lets-talk-about-intentional-weight-loss-and-evidence-based-medicine/">there is no safe and reliable way</a> to <a href="http://amptoons.com/blog/?p=22049">significantly reduce a person's weight</a>.)
 
 If you want better evidence, you generally want a good <em>experiment</em>. In the ideal case, you take two situations that are exactly the same, do different things for them, and see if you get different results.
 
-In practice, it's a bunch more complicated. Suppose I want to tell if X causes Y. So I get a bunch of test subjects, and split them into two groups, randomly. (It has to be random because they aren't actually all the same, and I don't want the <em>groups</em> to be too different from each other.) Then I apply X, and <em>only</em> X, to one of the groups. (This is why it's ideal for experiments to be <a href="https://en.wikipedia.org/wiki/Double-blind">double-blind</a>. If you're testing a drug, you want to apply only the drug, not "the drug and also the knowledge that you're getting the drug".) Then I check if Y happened in each of the groups.
+In practice, it's a bunch more complicated. Suppose I want to tell if X causes Y. So I get a bunch of test subjects, and split them into two groups, randomly. (It has to be random because they aren't actually all the same, and I don't want the <em>groups</em> to be too different from each other.) Then I apply X to one of the groups and not the other. In every <em>other</em> way, I treat the groups exactly the same. (This is why it's ideal for experiments to be <a href="https://en.wikipedia.org/wiki/Double-blind">double-blind</a>. If you're testing a drug, you want to apply only the drug, not "the drug and also the knowledge that you're getting the drug".) Then I check if Y happened in each of the groups.
 
 If I do everything right, and my experiment gets a positive result, I'll <em>know</em> that X causes Y… right?
 
@@ -587,7 +586,7 @@ After I figured it out, I got better by using allergy treatments, eventually inc
 
 Maybe a little bit. But I can make them both make sense together. This post says, "don't be certain that you know something just because your evidence is pretty good". The other post says, "don't be certain that you <em>don't</em> know something just because your evidence isn't very good". On most subjects, we spend most of our time somewhere in between – not fully knowing, but not being fully ignorant either.
 
-I'm interested in developing more strategies for working with partially formed knowledge. I think there are a lot more interesting things to do an unproven theory than just to try to guess whether it's true or false. In fact, I already have some ideas for more sophisticated ways to think about partial knowledge – but that'll have to wait for another post.
+I'm interested in developing more strategies for working with partially formed knowledge. I think there are a lot more interesting things to do with an unproven theory than just to try to guess whether it's true or false. In fact, I already have some ideas for more sophisticated ways to think about partial knowledge – but that'll have to wait for another post.
 
 
 ''',
