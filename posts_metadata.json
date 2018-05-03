@@ -2482,9 +2482,11 @@
   "remembered_contents": "e5a8981e33ccd9c4ee6a5632bd16f1c05f561d225bebadb0e844ed815c791e16af9328ec123610ec8bcb1f3779d19147"
  },
  "When is a cause not a cause?": {
-  "date_modified": "2018-05-01",
-  "date_posted": "2018-05-01",
-  "id": "138ff0dc404de16ba3fd6a88ac77dad"
+  "date_modified": "2018-05-02",
+  "date_posted": "2018-05-02",
+  "deployed": true,
+  "id": "138ff0dc404de16ba3fd6a88ac77dad",
+  "remembered_contents": "2d6e1dbe679ed7619d3c33dcaeda2dba8e2100862392a3ccf8c882c82c3bbe2617472d1fa9a94ca0934165244b38c578"
  },
  "When is it justified to ask whether violence is justified?": {
   "date_modified": "2017-02-08",
