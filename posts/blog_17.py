@@ -592,6 +592,49 @@ I'm interested in developing more strategies for working with partially formed k
 ''',
 },
 
+{
+"title": "My cubital tunnel situation",
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"tags": ["announcements", "this website"],
+"contents":'''
+As some of you know, I've had <a href="https://en.wikipedia.org/wiki/Cubital_tunnel_syndrome">cubital tunnel syndrome</a> since at least January 2017.
+
+Short version:
+
+It's slowly getting worse, so I'm probably going to get surgery for it, which will make it much better.
+
+Long version:
+
+I've been working with my OT (who is amazing at zir job) off and on since 2014 about my various hand problems. Ze suspects that I have always had ulnar nerve problems – in fact, ze suspected it even before I got the obvious symptoms of tingling and numbness in my little fingers. (Ze suspected it based on the weakness of some of my hand muscles.)
+
+We've tried the physical-therapy approach. After it got aggravated in February 2017, I made sure to treat it nicely. I made sure to <cut>avoid having my elbows bent too much, to sit up straight (slouching aggravates it a bit), to change my sleeping position to accommodate it. And I sometimes used anti-inflammatory treatments as well. By a few months later, it seemed to be completely better, and I was able to do a lot of stuff. There were a few times when it flared up (especially from accidentally sleeping on my side), but it tended to get better again.
+
+But last November, it got a bit aggravated by something, and then… just didn't get better, even though I'm treating it just as well as before. It's been at a fairly constant, low level of aggravation ever since. It's not totally messing up my life, but there's a bunch of things it's limiting me from doing. Pushing with my arms (as in push-ups) aggravates it a bunch, so I don't do that. So I can't bicycle. Drawing aggravates it somewhat, so I don't do that either. Even using the mouse sometimes aggravates it, which has been limiting how much computer work I can do.
+
+Given that I'm already being the most careful that I can therapy-wise, my OT thinks it's only going to get worse over time, so the remaining option is surgery. Specifically, submuscular anterior transposition of the ulnar nerve. Basically, the surgery would physically move the ulnar nerve to a place where it doesn't get hurt when I do stuff.
+
+The optimistic view is pretty darn optimistic. Apparently, this particular surgery reliably and completely fixes the problem it's designed to fix. Especially since we've caught it early – i.e., before I did a lot of damage to the nerve. Because I'm able to be careful with it, I haven't gotten to the point where there's anything I PHYSICALLY can't do – just some discomfort and things I have to avoid doing. And not only should the surgery fix my immediate problem, but it might fix some of my other hand problems too. My OT has pointed out that my grip strength, and my <a href="https://en.wikipedia.org/wiki/Dorsal_interossei_of_the_hand">first dorsal interossei muscle</a>, are weaker than you'd expect given that I haven't been disusing them. And weakness like that can be caused by the nerve issue. So fixing the nerve issue might make my hands stronger, and making them stronger will make them less likely to get re-injured in other ways. In fact… When I was in elementary school, I really disliked writing by hand, because it made my thumb feel sort of cramped. That sort of thing can happen because of autistic sensory sensitivity, but maybe it was also an ulnar nerve problem all along? So theoretically, my hands might end up MORE capable than they ever were before!
+
+On the other hand, well… it's still an invasive surgery. And I don't even have it scheduled for sure yet – first I have to do an <a href="https://en.wikipedia.org/wiki/Electromyography">EMG test</a> and then talk to a surgeon, and the test has been scheduled more than a month away, which is an unfortunately long wait. And if/when I do get the surgery, I'll have to wear an elbow brace for 2-4 weeks, then take some more weeks to strengthen up, and then do it all over again, because you only do one arm at a time for obvious practical reasons. And it'll involve a bunch more car rides, which tend to give me some fatigue and nausea. And it's not necessarily going to fix all of my hand problems – there might still be unrelated damage left over from when I originally injured them through overuse.
+
+But overall, I'm hopeful. This has a pretty good chance of making things a lot better for me.
+
+<h2>What this means for this website in the near future</h2>
+
+I'm going to relax my Wednesday posting schedule.
+
+In the last few weeks, the nerve issue has been limiting my computer work a lot. In order to stay productive, I tried to switch to doing a bunch of prose writing (which I can do through speech-to-text), such as <a href="/blog/when-is-a-cause-not-a-cause">my blog post from last week</a>. However, I didn't succeed as much as I'd hoped. I've never been able to write prose for more than a few hours a day, and it's hard for me to stay excited about it when I don't have other exciting projects to fill the rest of my time.
+
+My mental health has been a lot better lately, but even so, my limited hand use has made the Wednesday schedule feel burdensome instead of motivating. So for now, I'm not going to hold myself to it. Being free to work only when I feel like it might help me stay interested, which will make me more productive than I would be otherwise. I'll still try to get some work done, and post it when it's ready, I'm just not going to maintain a specific schedule for now.
+
+Assuming the surgery happens the way I'm expecting, I intend to bring back the schedule after recovery.
+
+
+''',
+},
+
 
 ]
 
