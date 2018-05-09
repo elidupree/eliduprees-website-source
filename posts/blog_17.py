@@ -595,7 +595,6 @@ I'm interested in developing more strategies for working with partially formed k
 {
 "title": "My cubital tunnel situation",
 "auto_paragraphs": True,
-"don't deploy": True,
 "blurb": "",
 "tags": ["announcements", "this website"],
 "contents":'''

@@ -722,7 +722,9 @@
  "My cubital tunnel situation": {
   "date_modified": "2018-05-09",
   "date_posted": "2018-05-09",
-  "id": "d1c56560cb1122692568d51aebe8a01"
+  "deployed": true,
+  "id": "d1c56560cb1122692568d51aebe8a01",
+  "remembered_contents": "2db9ffc7ab86f42133b2652a3d3155916557134929364280d24ce18e060c9fc1631918d1ca671043e1981a541df369ef"
  },
  "My kinks": {
   "date_modified": "2017-08-09",
