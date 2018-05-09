@@ -63,6 +63,61 @@ Yali patted the platform under us.
 
 "<em>Every</em> star you see up there is a disk just like this one. That's what we're going to be navigating across."
 
+????
+
+[????? Didn't even have any space to move around in] I stuck my hands out in front of me and manifested one of the treadmills from the gym. I climbed on and switched it on, but nothing happened because there was no power. Fucking of <em>course</em>. I slammed my fist down on the controls, snapping off a bit of the plastic. Why did this have to happen to me? Even this fucking MACHINE wouldn't do what I wanted.
+
+[Angrily ?????], I started "walking" on the treadmill anyway. Since it wasn't on, it was more like just shoving the belt with my legs over and over. But at least it was a workout. Shove. Shove. Shove.
+
+After a few dozen angry steps, my muscles started warming up. Another few dozen, my head started to clear. I could finally [????? think about it properly].
+
+Yali…
+
+What had I yelled at her for? ?????
+
+Could it be that we were actually incompatible? ????? It was like having my guts ripped out. I had no one else. Not Layo. Not Mom and Dad. Not ?????. There'd be the other Ravellers, but they were so far away and I had no idea what they'd be like. Yali was the ONLY person I had. And if I kept fucking up like this, I was going to lose her.
+
+That look on her face, when I'd blown past her Calming Game… what was that look?
+
+?????
+
+almost like… fear?
+
+A sick feeling started [tangling up ?????] in the pit of my stomach. That couldn't be right, could it? She wasn't <em>afraid</em>, it was just a reaction, like when I'd first summoned a Blood Blade. She knew I wouldn't actually hurt her, right? I was just… ?????
+
+I had made her afraid of me.
+
+I felt like I was going to throw up. My hands tingled and my legs shook, I could barely walk anymore. I doubled over, slumping my full weight against the handle of the treadmill. How could I have DONE that?? Why couldn't I have just LISTENED to her??!! So many feelings were crushing me from all sides. Loneliness. Guilt. Fear. Nausea. Helplessness. Self-pity. An uncontrollable sob tore out of me. I was barely holding myself up. My tears splattered unrestrained on the floor.
+
+I don't know how long I stayed like that. Wave after wave of [????? feeling] [????? verbed me]. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, intending to un-manifest the treadmill and make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering [????? distance] up in the air. As soon as I moved, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
+
+I couldn't even bring myself to get up again. I just made a heavy blanket over me and curled up on the floor inside it. Parts of me were still lying directly on the floor, but if I wanted to get more comfortable, I'd have had to lift myself up at all, and that was just too much to even think about. I lay that way for a long time, not quite resting. It was half comfort, half pain.
+
+I should go apologize to her, I said to myself. I could just [????? go] back to the other side and tell her [????? I knew I'd done wrong] and beg for her forgiveness. What was I waiting for?! I should have done that as soon as I realized! But… what would that even mean to her? Would it be [????? something nice]? Or would it just be more [????? excessive talking that she didn't want to hear]?
+
+My muscles made the decision for me. I wasn't going anywhere, not anytime soon.
+
+There was no way to tell time in this world, and I [????? didn't check my phone]. After an eternity, I found myself drifting off, flickering in and out of the [????? noun that passed for sleep here].
+
+A voice shocked me out of [????? that], [????? warbling] from under the floor.
+
+"Rinn. I can talk now."
+
+[????? Oh my gods, Yali was going to be judging me so hard]
+
+?????
+
+I let myself collapse onto my hands and knees in front of her. "I'm sorry, I'm so so so sorry, I should never have done that, I –"
+
+Yali covered my mouth. "Rinn. Rinn." Her voice was low and soothing. "It's okay. [????? Stuff calculated to reassure Rinn]"
+
+I didn't even have words to say back. I [????? gratefully [but more spilling-your-guts-everywhere–ish]] wrapped my arms around her legs.
+
+?????
+
+[?????"It's very strange," she said. "I don't think it's you, I think it's the Blood God. [????? I've been noticing this change in your pattern of behavior]. But… It the blood God shouldn't be about entitlement, contempt – anger is different than obsessive dislike" will]
+
+?????
 
 ''',
 },
