@@ -65,7 +65,21 @@ Yali patted the platform under us.
 
 ????
 
-[????? Didn't even have any space to move around in] I stuck my hands out in front of me and manifested one of the treadmills from the gym. I climbed on and switched it on, but nothing happened because there was no power. Fucking of <em>course</em>. I slammed my fist down on the controls, snapping off a bit of the plastic. Why did this have to happen to me? Even this fucking MACHINE wouldn't do what I wanted.
+"This is how much I normally talk"
+
+?????
+
+"This is your idea of being nice to me?!"
+
+"Controlling Game," said Yali tensely.
+
+"You think this is the Blood God?! This is <em>me!</em> Don't you get it?! Maybe <em>you're</em> fine being all alone on the time, you don't understand how much it <em>hurts</em> when you just <em>shut me out</em> like this! ????? Come on, say something!"
+
+
+
+?????
+
+[????? Didn't even have any space to move around in] I stuck my hands out in front of me and manifested one of the treadmills from the gym back at home. I climbed on and switched it on, but nothing happened because there was no power. Fucking of <em>course</em>. I slammed my fist down on the controls, snapping off a bit of the plastic. Why did this have to happen to me? Even this fucking MACHINE wouldn't do what I wanted.
 
 [Angrily ?????], I started "walking" on the treadmill anyway. Since it wasn't on, it was more like just shoving the belt with my legs over and over. But at least it was a workout. Shove. Shove. Shove.
 
@@ -75,6 +89,8 @@ Yali…
 
 What had I yelled at her for? ?????
 
+?????
+
 Could it be that we were actually incompatible? ????? It was like having my guts ripped out. I had no one else. Not Layo. Not Mom and Dad. Not ?????. There'd be the other Ravellers, but they were so far away and I had no idea what they'd be like. Yali was the ONLY person I had. And if I kept fucking up like this, I was going to lose her.
 
 That look on her face, when I'd blown past her Calming Game… what was that look?
@@ -83,7 +99,7 @@ That look on her face, when I'd blown past her Calming Game… what was that loo
 
 almost like… fear?
 
-A sick feeling started [tangling up ?????] in the pit of my stomach. That couldn't be right, could it? She wasn't <em>afraid</em>, it was just a reaction, like when I'd first summoned a Blood Blade. She knew I wouldn't actually hurt her, right? I was just… ?????
+A sick feeling started [tangling up ?????] in the pit of my stomach. That couldn't be right, could it? She wasn't <em>afraid</em>, it was just a reaction, like when I'd first summoned a Blood Blade. She knew I wouldn't actually hurt her, right? I was just… [????? Rinn remembers details of the reaction]
 
 I had made her afraid of me.
 
@@ -91,7 +107,7 @@ I felt like I was going to throw up. My hands tingled and my legs shook, I could
 
 I don't know how long I stayed like that. Wave after wave of [????? feeling] [????? verbed me]. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, intending to un-manifest the treadmill and make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering [????? distance] up in the air. As soon as I moved, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
 
-I couldn't even bring myself to get up again. I just made a heavy blanket over me and curled up on the floor inside it. Parts of me were still lying directly on the floor, but if I wanted to get more comfortable, I'd have had to lift myself up at all, and that was just too much to even think about. I lay that way for a long time, not quite resting. It was half comfort, half pain.
+I couldn't even bring myself to get up again. I just made a heavy blanket over me and curled up inside it. Parts of me were still lying directly on the floor, but if I wanted to get more comfortable, I'd have had to lift myself up at all, and that was just too much to even think about. I lay that way for a long time, not quite resting. It was half comfort, half pain.
 
 I should go apologize to her, I said to myself. I could just [????? go] back to the other side and tell her [????? I knew I'd done wrong] and beg for her forgiveness. What was I waiting for?! I should have done that as soon as I realized! But… what would that even mean to her? Would it be [????? something nice]? Or would it just be more [????? excessive talking that she didn't want to hear]?
 
