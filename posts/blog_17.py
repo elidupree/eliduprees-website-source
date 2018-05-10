@@ -633,7 +633,45 @@ Assuming the surgery happens the way I'm expecting, I intend to bring back the s
 
 ''',
 },
+{
+"title": "Vampire ecology",
+"tags": [],
+"auto_paragraphs": True,
+"don't deploy": True,
+"blurb": "",
+"contents":'''
+In the modern vampire mythology, vampires can easily turn humans into vampires. They also live a long time. However, despite having plenty of time to make more vampires, they never seem to create a large population of vampires. Why not?
 
+Let's answer this question with ecology and evolution!
+
+In order for the <strong>behavior</strong> of infrequent reproduction to exist in vampires, there must be a <strong>selective pressure</strong> keeping it that way. A reason why a gene for more frequent reproduction would die off.
+
+<h2>The simplistic answer</h2>
+
+Vampires don't die of old age, and even though they drink blood for sustenance, they don't seem to starve to death if they don't get any. However, they can be killed with very simple implements: a wooden stake. This is a factor that could restrain their numbers.
+
+With one simple assumption, this can create a stable system: <em>the more vampires there are, the more likely the humans are to stake them.</em> When the population of vampires is below a certain percentage of the human population, they reproduce faster than they get staked. When it's above that percentage, they get staked faster than they reproduce. This seems plausible, because it's a lot of effort to gather a mob to go around staking vampires, so the humans would only do it when the problem got big enough.
+
+That percentage becomes the environment's <a href="https://en.wikipedia.org/wiki/Carrying_capacity">carrying capacity</a> for vampires.
+
+Thus, vampires are a <a href="https://en.wikipedia.org/wiki/R/K_selection_theory">K-selected species</a>. Vampires create relatively few offspring, so that they can spend a long time training each individual offspring. Perhaps newly created vampires are very weak. That way, even if a vampire has a mutation causing it to create lots of offspring, the offspring still get killed by humans before they can reproduce.
+
+However, this explanation doesn't <em>quite</em> satisfy me. In vampire stories, vampires are usually upper-class, and they usually prey on other upper-class people.
+
+
+
+
+
+
+
+
+
+
+
+
+The simple answer is, ?????. However, this isn't
+''',
+},
 
 ]
 
