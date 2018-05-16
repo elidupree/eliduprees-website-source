@@ -650,11 +650,20 @@ In order for the <strong>behavior</strong> of infrequent reproduction to exist i
 
 Vampires don't die of old age, and even though they drink blood for sustenance, they don't seem to starve to death if they don't get any. However, they can be killed with very simple implements: a wooden stake. This is a factor that could restrain their numbers.
 
-With one simple assumption, this can create a stable system: <em>the more vampires there are, the more likely the humans are to stake them.</em> When the population of vampires is below a certain percentage of the human population, they reproduce faster than they get staked. When it's above that percentage, they get staked faster than they reproduce. This seems plausible, because it's a lot of effort to gather a mob to go around staking vampires, so the humans would only do it when the problem got big enough.
+With one simple assumption, this can create a stable system: <em>the more vampires there are, the more likely the humans are to stake them.</em> This seems plausible, because it's a lot of effort to gather a mob to go around staking vampires, so the humans would only do it when the problem got big enough.
 
-That percentage becomes the environment's <a href="https://en.wikipedia.org/wiki/Carrying_capacity">carrying capacity</a> for vampires.
+When the population of vampires is below a certain percentage of the human population, they reproduce faster than they get staked. When it's above that percentage, they get staked faster than they reproduce. That percentage becomes the environment's <a href="https://en.wikipedia.org/wiki/Carrying_capacity">carrying capacity</a> for vampires.
 
-Thus, vampires are a <a href="https://en.wikipedia.org/wiki/R/K_selection_theory">K-selected species</a>. Vampires create relatively few offspring, so that they can spend a long time training each individual offspring. Perhaps newly created vampires are very weak. That way, even if a vampire has a mutation causing it to create lots of offspring, the offspring still get killed by humans before they can reproduce.
+Thus, vampires are a <a href="https://en.wikipedia.org/wiki/R/K_selection_theory">K-selected species</a>. Vampires create relatively few offspring, so that they can spend a long time training each individual offspring. Perhaps newly created vampires are very weak. That way, even if a vampire has a mutation causing it to create lots of offspring, the offspring still get killed by humans before they can reproduce. And then the parent is more likely to be killed because the humans have been roused to action.
+
+Note that I'm assuming that vampires can choose how many offspring to create. This doesn't quite work if vampires are compelled to drink blood frequently and they create a vampire every time they drink blood. However, there are lots of ways around this:
+<ul>
+<li>Vampires don't have to drink blood very often.</li>
+<li>A vampire can choose whether it makes someone into a vampire when it drinks their blood.</li>
+<li>You only become a vampire if you <em>die</em>, and vampires can drink part of your blood without killing you.</li>
+<li>Not everyone is eligible to become a vampire, and vampires mostly drink from people who aren't eligible.</li>
+<li>Vampires <em>do</em> make lots of extra offspring, but most of them get staked immediately.</li>
+</ul>
 
 However, this explanation doesn't <em>quite</em> satisfy me. In vampire stories, vampires are usually upper-class, and they usually prey on other upper-class people.
 
