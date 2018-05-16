@@ -65,16 +65,33 @@ Yali patted the platform under us.
 
 ????
 
-"This is how much I normally talk"
+[Rinn says one or 2 rude/annoyed things about Yali being unresponsive]
+
+????
+
+"This is how much I normally talk," said Yali abruptly.
+
+I looked back over at her. "What?" I said.
 
 ?????
 
-"This is your idea of being nice to me?!"
+"What are you talking about? What about all those times when – like, we've spent entire evenings talking together!"
+
+"????? I'm sorry, I, I didn't think of this, I spent so much time planning for the bigger stuff, I just, this kind of idle time, I didn't think of it. And I've, I've, been trying, to make this, to, to give you what you want, too, but, I, I've been trying, I…" she trailed off.
+
+I waited impatiently for her to go on, but she didn't. Frustrated, I gave up and turned away. But when I thought of going back to ?????, something [????? bitter] reared up inside me. How could I just <em>let her</em> leave me hanging like this?!
+
+I whirled back on her. The words caught in my throat – I knew it was wrong, but it just felt so <em>right</em>. I spat, "This is your idea of giving me what I want?!"
+
+Yali's face [verb] with dismay.
+
+I stomped towards her. "You think you can string me along, acting all nice, like everything's great [????? change those phrases to be more blood God inspired], and then when I'm <em>stuck on a rock with you</em>, you clam up on me?!" I swung my arm for emphasis, but [????? I clumsied] and my hand smacked into [????? object belonging to Yali that was established earlier]. It wobbled and almost fell over.
 
 "Controlling Game," said Yali tensely.
 
-"You think this is the Blood God?! This is <em>me!</em> Don't you get it?! Maybe <em>you're</em> fine being all alone on the time, you don't understand how much it <em>hurts</em> when you just <em>shut me out</em> like this! ????? Come on, say something!"
+I was momentarily stopped in my tracks. "What? You think this is the Blood God?! This is <em>me!</em> Don't you get it?! Maybe <em>you're</em> fine being all alone on the time, you don't understand how much it <em>hurts</em> when you just <em>shut me out</em> like this! ????? Come on, say something!"
 
+[????? Closer look at Yali's face]
 
 
 ?????
