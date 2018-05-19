@@ -65,6 +65,28 @@ Yali patted the platform under us.
 
 ????
 
+"[????? Hang on.] Before we get started, I want to check your feelings again. You really aren't having any anger?"
+
+"Yeah, like I told you. So much for that prediction, haha." [????? maybe fit some physical affection here?]
+
+"Well, it's possible… We don't really know how the previous Blood Children felt <em>right at first</em>. And Aihael hid his feelings for a long time, so…" She stopped and thought. "Maybe it just hasn't changed your feelings about <em>me</em>… How do you feel about <em>the Farseer</em>?"
+
+"What? But you <em>are</em> the Farseer."
+
+"It's about, it's about, how you think of me. Here…" Yali raised one hand, and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
+
+I snickered. "Don't pretend like you're some kind of holy person," I said. It came out sounding a bit meaner than I'd intended it. Yali looked flustered. "Uh, I didn't mean that in a bad way."
+
+"Don't worry about it. It may be the Blood God influencing you."
+
+"Really? But it's not like I felt, like, angry, or anything. It's just silly that you were acting that way when you're obviously, like, not."
+
+"Hmm." Yali squinted. "Well, keep paying attention to it. Tell me if you feel anything you don't expect."
+
+"Yeah, yeah."
+
+????
+
 [Rinn says one or 2 rude/annoyed things about Yali being unresponsive]
 
 ????
@@ -120,7 +142,7 @@ A sick feeling started [tangling up ?????] in the pit of my stomach. That couldn
 
 I had made her afraid of me.
 
-I felt like I was going to throw up. My hands tingled and my legs shook, I could barely walk anymore. I doubled over, slumping my full weight against the handle of the treadmill. How could I have DONE that?? Why couldn't I have just LISTENED to her??!! So many feelings were crushing me from all sides. Loneliness. Guilt. Fear. Nausea. Helplessness. Self-pity. An uncontrollable sob tore out of me. I was barely holding myself up. My tears splattered unrestrained on the floor.
+I felt like I was going to throw up. My hands tingled and my legs shook. I kept walking more and more aggressively. How could I have DONE that?? Why couldn't I have just LISTENED to her??!! So many feelings were crushing me from all sides. Loneliness. Guilt. Fear. Nausea. Helplessness. Self-pity. I doubled over, slumping my full weight against the handle of the treadmill. An uncontrollable sob tore out of me. I was barely holding myself up. My tears splattered unrestrained on the floor.
 
 I don't know how long I stayed like that. Wave after wave of [????? feeling] [????? verbed me]. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, intending to un-manifest the treadmill and make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering [????? distance] up in the air. As soon as I moved, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
 
