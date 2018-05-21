@@ -63,6 +63,44 @@ Yali patted the platform under us.
 
 "<em>Every</em> star you see up there is a disk just like this one. That's what we're going to be navigating across."
 
+?????
+
+Yali was holding a clay pot. "What's that?" I said.
+
+Yali gave an embarrassed smile. "I thought I'd try manifesting. The first thing I thought of was a potted plant I used to have in my room. But I forgot you can't manifest anything that has its own soul."
+
+"Plants have souls?" I said. Then I smacked myself in the forehead. "Well duh, of course I knew that. It's just not something you think about every day, you know? Wait, never mind that! Manifesting! How do I do this, do I just, like, <em>want</em> something into existence –" I waved a hand, imagining that I was pulling something out of thin air.
+
+Yali flinched.
+
+"You okay there?" I said, moving towards her. She frantically backed away from me, a terrified expression on her face. What was she looking at? I followed her gaze, and that's when I noticed what I was holding in my hand.
+
+It was a blade of the length of my forearm, black and glistening, its ????? ?????.
+
+"Whaaa –" I threw the blade away from me. It vanished before it hit the ground. "What the fuck was that?"
+
+"That," Yali panted, "that killed me a lot of times." She adjusted her shirt. "I'm okay now. I shouldn't have been surprised. Every Blood Child could summon the Blood Blades, it was probably just the easiest thing for you to manifest. Here, make another one. Go ahead, it's okay."
+
+Cautiously, I repeated the gesture I'd made earlier. Sure enough, another black blade sprang into existence in my hand. ?????
+
+Yali examined it gingerly. "?????. It's said that they're an extension of your own blood. Figuratively, I guess. You should even be able to feel through it, as if it was part of your own arm."
+
+Experimentally, I reached out with the blade and tapped the table with the end of it. Sure enough, I could feel the table like I was touching it. "Wow, I thought it would feel really weird, but it doesn't feel weird at all. That's so weird."
+
+?????
+
+"Let me manifest some normal stuff now. Catch!" I made a baseball appear in my hand and threw it to her. ?????
+
+"I can make anything I want. Nothing costs money <em>here</em>!" I made a sienkah fruit in each hand and chomped into them greedily, letting the juices drip down my chin. Out of the corner of my eye, I caught Yali smiling at that. So I made a show of it, making an absolute feast and eating as messily as I could. ????? From how she was looking at me, I could tell she was totally into it. So [????? Then with the food stains all over my lips,] I swaggered up to her and kissed her on the mouth.
+
+That didn't go over quite as well. She sort of stiffened up and pulled back. Then she concentrated for a moment, and the stains disappeared from her.
+
+"Spoilsport," I said affectionately.
+
+"I, I, I –"
+
+"Nah, it's fine. I'm sorry, I just got carried away."
+
 ????
 
 "[????? Hang on.] Before we get started, I want to check your feelings again. You really aren't having any anger?"
