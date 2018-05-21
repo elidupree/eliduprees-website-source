@@ -91,23 +91,25 @@ Experimentally, I reached out with the blade and tapped the table with the end o
 
 "Let me manifest some normal stuff now. Catch!" I made a baseball appear in my hand and threw it to her. ?????
 
-"I can make anything I want. Nothing costs money <em>here</em>!" I made a sienkah fruit in each hand and chomped into them greedily, letting the juices drip down my chin. Out of the corner of my eye, I caught Yali smiling at that. So I made a show of it, making an absolute feast and eating as messily as I could. ????? From how she was looking at me, I could tell she was totally into it. So [????? Then with the food stains all over my lips,] I swaggered up to her and kissed her on the mouth.
+"I can make anything I want. Nothing costs money <em>here</em>!" I made a sienkah fruit in each hand and chomped into them greedily, letting the juices drip down my chin. Out of the corner of my eye, I caught Yali smiling at that. So I made a show of it, making an absolute feast and eating as messily as I could. ????? From how she was looking at me, I could tell she was totally into it. So I swaggered up to her and, with bits of food still smeared all over my face, kissed her right on the mouth.
 
-That didn't go over quite as well. She sort of stiffened up and pulled back. Then she concentrated for a moment, and the stains disappeared from her.
+That didn't go over quite as well. She sort of stiffened up and pulled back. Then she concentrated for a moment, and the smears disappeared from her.
 
 "Spoilsport," I said affectionately.
 
 "I, I, I –"
 
-"Nah, it's fine. I'm sorry, I just got carried away."
+"Nah, it's fine. I'm sorry, I just got carried away. Look, I'm backing off now."
 
-????
+"It's not that, I, I…" she trailed off. It looked like she was deep in thought, so I gave her some space and went back to trying things out on my own.
 
-"We…" I looked up and saw that Yali was holding a fruit close to her mouth. "We can actually be as messy as we want, just for fun, and we don't have to worry about cleaning up after." She stared at the fruit she was holding. Then she shook her head a little, lowered her hand, and the fruit disappeared.
+A few minutes later, I noticed her muttering to herself. "We, we…" I looked up and saw that Yali was holding a fruit close to her mouth. "We can actually be as messy as we want, just for fun, and we don't have to worry about cleaning up after." She stared at the fruit she was holding. Then she shook her head a little, lowered her hand, and the fruit disappeared.
 
-"Hey, what's wrong?" I said.
+"Hey, uh, if you want to do it, you should do it," I said.
 
-"Nothing's wrong, it's just, it's easier this way."
+She shook her head again. "It's, it's easier this way."
+
+Stern take it all. <em>Are you going to hold back this entire time?</em> I thought. I didn't say it out loud, though, because that would just make her more stressed.
 
 ????
 
