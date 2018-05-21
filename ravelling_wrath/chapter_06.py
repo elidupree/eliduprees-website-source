@@ -103,6 +103,14 @@ That didn't go over quite as well. She sort of stiffened up and pulled back. The
 
 ????
 
+"We…" I looked up and saw that Yali was holding a fruit close to her mouth. "We can actually be as messy as we want, just for fun, and we don't have to worry about cleaning up after." She stared at the fruit she was holding. Then she shook her head a little, lowered her hand, and the fruit disappeared.
+
+"Hey, what's wrong?" I said.
+
+"Nothing's wrong, it's just, it's easier this way."
+
+????
+
 "[????? Hang on.] Before we get started, I want to check your feelings again. You really aren't having any anger?"
 
 "Yeah, like I told you. So much for that prediction, haha." [????? maybe fit some physical affection here?]
