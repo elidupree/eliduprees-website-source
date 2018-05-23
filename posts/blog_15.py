@@ -132,9 +132,9 @@ I have a bunch of mathematical conjectures about this ruleset, but I haven't pro
 
 <strong>"Perfect play" conjecture</strong>: For all graphs, with all starting states, there is a win-or-draw strategy for both players.
 
-I will call a strategy "reasonable" if it is never unsustainable unless the opponent is more unsustainable. The idea is that if two reasonable strategies play against each other, the result should be sustainable.
+For the next conjecture, I will call a strategy "reasonable" if it is never unsustainable unless the opponent is more unsustainable. The idea is that if two reasonable strategies play against each other, the result should be sustainable.
 
-<strong>"The ko rules basically work" conjecture</strong>: We may also require that such strategies are reasonable.
+<strong>"The ko rules basically work" conjecture</strong>: We may also require that those win-or-draw strategies are reasonable.
 
 <strong>Score-independence conjecture</strong>: We may also require that such strategies' choices of move are independent of the current scores.
 
