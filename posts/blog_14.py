@@ -232,7 +232,7 @@ For this post, I'm going to use the example of gay marriage. I'm not a huge fan 
 
 When people say "marriage", they're usually talking about a <cut>social relationship &ndash; a personal and/or religious commitment. They're not talking about a mishmash of legal privileges, like hospital visitation and joint tax filing. In this sense, these laws don't make gay marriage illegal at all.<footnote((<em>Some</em> countries have laws that outright criminalize gay relationships. That just isn't the subject of <em>this</em> post.))> It's still completely legal to perform a marriage ceremony. It's legal to live together with any kind of relationship or commitments that you choose.
 
-The only thing the law does is refuse to <em>acknowledge</em> or <em>privilege</em> your relationship. But you can't get a legal certificate saying what your hobbies are, either, and that doesn't mean your hobbies are illegal.
+The only thing the law does is refuse to <em>acknowledge</em> or <em>privilege</em> the relationship. But you can't get a legal certificate saying what your hobbies are, either, and that doesn't mean your hobbies are illegal.
 
 <h2>The argument for "yes"</h2>
 
