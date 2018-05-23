@@ -194,7 +194,7 @@ There are other things I can do, too. Because I've practiced this a lot, I have 
 
 Sometimes, I alternate between tuning out (to get more information) and tuning back in (to analyze the new information in more detail).
 
-Other times, I change the context in other ways. For instance, I might say to myself, "Okay everybody, I need to do this lots of times in a row, so give me any information about doing something like this quickly. Don't worry if it solves the problem exactly." (I don't actually say those <em>words</em> to myself &ndash; it's something I understand internally. This is just my best translation of it.) Once I get that information, I might be able to rearrange my original problem so that it can use the quicker solution. Or even if the quicker idea doesn't quite work, it might inspire me to think of something that does.
+Other times, I change the context in other ways. For instance, I might say to myself, "Okay everybody, I have this task I need to do lots of times in a row, so give me any information about doing this kind of thing <em>quickly</em>. Don't worry if it solves the problem exactly." (I don't actually say those <em>words</em> to myself &ndash; it's something I understand internally. This is just my best translation of it.) Once I get that information, I might be able to rearrange my original problem so that it can use the quicker solution. Or even if the quicker idea doesn't quite work, it might inspire me to think of something that does.
 
 <h2>Dream thinking</h2>
 
