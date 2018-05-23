@@ -644,41 +644,29 @@ In the modern vampire mythology, vampires can easily turn humans into vampires. 
 
 Let's answer this question with ecology and evolution!
 
-In order for the <strong>behavior</strong> of infrequent reproduction to exist in vampires, there must be a <strong>selective pressure</strong> keeping it that way. A reason why a gene for more frequent reproduction would die off.
+For the purposes of this post, I'm going to assume that vampires have a genome. Specifically, a human-turned-vampire still has its original human genome, but <em>also</em> has a parasitic vampire genome, and the behavior of the host is influenced by both of these. When a vampire bites a human, it transmits its vampire genome into the victim, possibly with mutations.
 
-<h2>The simplistic answer</h2>
+So, what could make vampires reproduce infrequently? In order for the <strong>behavior</strong> of infrequent reproduction to exist in vampires, there must be a <strong>selective pressure</strong> keeping it that way. A reason why a gene for more frequent reproduction would die off.
 
-Vampires don't die of old age, and even though they drink blood for sustenance, they don't seem to starve to death if they don't get any. However, they can be killed with very simple implements: a wooden stake. This is a factor that could restrain their numbers.
+Here are some things we know about vampires: Vampires don't die of old age, and even though they drink blood for sustenance, they don't seem to starve to death if they don't get any. However, they can be killed with very simple implements: a wooden stake. This is a factor that could restrain their numbers.
 
-With one simple assumption, this can create a stable system: <em>the more vampires there are, the more likely the humans are to stake them.</em> This seems plausible, because it's a lot of effort to gather a mob to go around staking vampires, so the humans would only do it when the problem got big enough.
+With one simple assumption, this can create a stable system: <em>the more vampires there are, the more likely the humans are to stake them.</em> This seems plausible, because it's a lot of effort to gather a mob to go around staking vampires, so the humans might only do it when the problem got big enough.
 
-When the population of vampires is below a certain percentage of the human population, they reproduce faster than they get staked. When it's above that percentage, they get staked faster than they reproduce. That percentage becomes the environment's <a href="https://en.wikipedia.org/wiki/Carrying_capacity">carrying capacity</a> for vampires.
+When the population of vampires is below a certain percentage of the human population, they reproduce faster than they get staked. When it's above that percentage, they get staked faster than they reproduce. That percentage becomes the environment's <a href="https://en.wikipedia.org/wiki/Carrying_capacity">carrying capacity</a> for vampires. Thus, vampires are a classic <a href="https://en.wikipedia.org/wiki/R/K_selection_theory">K-selected species</a>. Vampires create relatively few offspring, so that they can spend a long time nurturing each individual offspring.
 
-Thus, vampires are a <a href="https://en.wikipedia.org/wiki/R/K_selection_theory">K-selected species</a>. Vampires create relatively few offspring, so that they can spend a long time training each individual offspring. Perhaps newly created vampires are very weak. That way, even if a vampire has a mutation causing it to create lots of offspring, the offspring still get killed by humans before they can reproduce. And then the parent is more likely to be killed because the humans have been roused to action.
-
-Note that I'm assuming that vampires can choose how many offspring to create. This doesn't quite work if vampires are compelled to drink blood frequently and they create a vampire every time they drink blood. However, there are lots of ways around this:
+Note that I'm assuming that vampires can choose how many offspring to create. This doesn't quite work if vampires are compelled to drink blood frequently and they create a vampire every time they drink blood. However, there are lots of ways around this. Pick any of these:
 <ul>
 <li>Vampires don't have to drink blood very often.</li>
-<li>A vampire can choose whether it makes someone into a vampire when it drinks their blood.</li>
-<li>You only become a vampire if you <em>die</em>, and vampires can drink part of your blood without killing you.</li>
+<li>A vampire can simply choose whether it makes someone into a vampire when it drinks their blood.</li>
+<li>You only become a vampire if you <em>die</em>, and vampires can drink part of your blood without killing you. (D&D 3.5 explicitly uses this system.)</li>
 <li>Not everyone is eligible to become a vampire, and vampires mostly drink from people who aren't eligible.</li>
-<li>Vampires <em>do</em> make lots of extra offspring, but most of them get staked immediately.</li>
+<li>Vampires <em>do</em> make lots of extra offspring, but they are very weak. Most of them get killed immediately with little fanfare.</li>
 </ul>
 
-However, this explanation doesn't <em>quite</em> satisfy me. In vampire stories, vampires are usually upper-class, and they usually prey on other upper-class people.
+Of course, mutations still happen. So in order for this to be stable, there needs to be a reason why, if a vampire had a mutation causing it to create lots of offspring, that mutation would die off. Consider this: Newly created vampires are both very weak and <em>and</em> very conspicuous. So if a parent vampire creates more offspring than they can nurture, the offspring get killed by humans before they can reproduce. And then the parent is more likely to be killed because the humans have been roused to action.
 
 
 
-
-
-
-
-
-
-
-
-
-The simple answer is, ?????. However, this isn't
 ''',
 },
 
