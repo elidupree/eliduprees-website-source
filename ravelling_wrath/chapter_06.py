@@ -63,6 +63,28 @@ Yali patted the platform under us.
 
 "<em>Every</em> star you see up there is a disk just like this one. That's what we're going to be navigating across."
 
+????
+
+"[????? Hang on.] Before we get started, I want to check your feelings again. You really aren't having any anger?"
+
+"Yeah, like I told you. So much for that prediction, haha." [????? maybe fit some physical affection here?]
+
+"Well, it's possible… We don't really know how the previous Blood Children felt <em>right at first</em>. And Aihael hid his feelings for a long time, so…" She stopped and thought. "Maybe it just hasn't changed your feelings about <em>me</em>… How do you feel about <em>the Farseer</em>?"
+
+"What? But you <em>are</em> the Farseer."
+
+"It's about, it's about, how you think of me. Here…" Yali raised one hand, and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
+
+I snickered. "Don't pretend like you're some kind of holy person," I said. It came out sounding a bit meaner than I'd intended it. Yali looked flustered. "Uh, I didn't mean that in a bad way."
+
+"Don't worry about it. It may be the Blood God influencing you."
+
+"Really? But it's not like I felt, like, angry, or anything. It's just silly that you were acting that way when you're obviously, like, not."
+
+"Hmm." Yali squinted. "Well, keep paying attention to it. Tell me if you feel anything you don't expect."
+
+"Yeah, yeah."
+
 ?????
 
 Yali was holding a clay pot. "What's that?" I said.
@@ -113,27 +135,6 @@ Stern take it all. <em>Are you going to hold back this entire time?</em> I thoug
 
 ????
 
-"[????? Hang on.] Before we get started, I want to check your feelings again. You really aren't having any anger?"
-
-"Yeah, like I told you. So much for that prediction, haha." [????? maybe fit some physical affection here?]
-
-"Well, it's possible… We don't really know how the previous Blood Children felt <em>right at first</em>. And Aihael hid his feelings for a long time, so…" She stopped and thought. "Maybe it just hasn't changed your feelings about <em>me</em>… How do you feel about <em>the Farseer</em>?"
-
-"What? But you <em>are</em> the Farseer."
-
-"It's about, it's about, how you think of me. Here…" Yali raised one hand, and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
-
-I snickered. "Don't pretend like you're some kind of holy person," I said. It came out sounding a bit meaner than I'd intended it. Yali looked flustered. "Uh, I didn't mean that in a bad way."
-
-"Don't worry about it. It may be the Blood God influencing you."
-
-"Really? But it's not like I felt, like, angry, or anything. It's just silly that you were acting that way when you're obviously, like, not."
-
-"Hmm." Yali squinted. "Well, keep paying attention to it. Tell me if you feel anything you don't expect."
-
-"Yeah, yeah."
-
-????
 
 [Rinn says one or 2 rude/annoyed things about Yali being unresponsive]
 
