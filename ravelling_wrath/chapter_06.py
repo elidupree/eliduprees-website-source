@@ -45,6 +45,8 @@ Yali lurched upwards and her eyes zeroed in on me. "Your feelings!" she choked o
 
 "Thank the gods, you're alright!" I hugged her quickly. "This is great! We're both here and –" my brain caught up with what she'd actually said "– and I'm not angry at all, in fact, I feel great!"
 
+Yali sank back to the floor. "That's a relief. I'll be up in a minute."
+
 ?????
 
 [????? Took a look around]. Well, first, I pulled off the hoodie Yali gave me and chucked it on the ground. That was much better. Without that loose clothing, I could feel the air around me again. Then I took a proper look at everything.
@@ -65,6 +67,8 @@ Yali patted the platform under us.
 
 ????
 
+"So, uh… what do we do next?"
+
 "[????? Hang on.] Before we get started, I want to check your feelings again. You really aren't having any anger?"
 
 "Yeah, like I told you. So much for that prediction, haha." [????? maybe fit some physical affection here?]
@@ -84,6 +88,38 @@ I snickered. "Don't pretend like you're some kind of holy person," I said. It ca
 "Hmm." Yali squinted. "Well, keep paying attention to it. Tell me if you feel anything you don't expect."
 
 "Yeah, yeah."
+
+?????
+
+"Why a computer? I thought you said there wouldn't be any computers unless we brought them."
+
+Yali frowned. "I did. There's never been a computer here before, it's always been… a shelf with a lot of books…"
+
+"Haha, I guess the Waiting God is finally 'digitizing its collection'!" [????? Consider why Rinn would make that reference]
+
+"No, no… Remember, this isn't a regular place, the gods re-create their worlds every year. So it's not about what's <em>physically</em> there, it's about…" Suddenly, she burst out laughing.
+
+"What's so funny?" I said. Yali kept laughing. "Hey! Don't leave me out of the loop here!"
+
+She barely contained herself. "Oh I get it now… It was never a bookshelf, it was 'a vast collection of ancient knowledge'! And it's constructed based on our assumptions, so maybe people USED to think that meant a bunch of books, but the place <em>we'd</em> look for ancient knowledge is –"
+
+"– on the Internet," we finished together. I grinned. "Hey, does that mean we'll have Internet here?"
+
+It didn't. When I started messing around on the computer, I didn't recognize any of the programs on it. Most of them had to do with some sort of Codex. There was one called Codex, one called CodexViewer, one called CodexSearch, one called KnowledgeBase, and a whole bunch more stuff like that. I tried starting a few of them, and none of them even did anything.
+
+"This is stupid," I said.
+
+"This is the Waiting God," said Yali.
+
+"Well then, the Waiting God is stupid." I said. "What do you mean, though?"
+
+"The Waiting God values patience, foresight, and planning. So everything in this world is built to require those things. To navigate through the stars, we have to examine them using the telescope. To learn to use the telescope, we have to study the Codex. To study the Codex, we have to, to… to figure out how the programs work, I guess. But if you jump into anything without thinking about what you're doing, you won't get anywhere."
+
+When she said "jump into anything", it made me think of physical jumping, and how I'd almost fallen over the first time I'd jumped up after I got here. Because the floor was slippery… "Oh for fuck's sake, even the <em>floor</em> needs planning?!" I glared and stomped on the floor, but it didn't react. Not sure what I was expecting.
+
+?????
+
+"– whereas in a 3-α cluster, the channels are similar, but the chirality is reversed. Thus, within a 3-α, sign echoes propagate in a clockwise direction (when viewed from the direction of the root – although here, "the root" may refer to the root of an ancestor cluster, if the 3-α is poly?????ic) rather than counterclockwise. Take caution: because of this unusual chirality, the presence of a 3-α greatly increases the chance of echo propagation that exceeds the usual bounds, meaning that observed signs may reflect the signs of a star multiple clusters away. Fortunately, this is limited to the case of –"
 
 ?????
 
