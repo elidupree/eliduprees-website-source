@@ -1,4 +1,0 @@
-
-       
-#junk junk junk
-#(Dragon sometimes freezes up, and I think it happens more when it's near the end of the file, so…)
