@@ -113,13 +113,33 @@ It didn't. When I started messing around on the computer, I didn't recognize any
 
 "Well then, the Waiting God is stupid." I said. "What do you mean, though?"
 
-"The Waiting God values patience, foresight, and planning. So everything in this world is built to require those things. To navigate through the stars, we have to examine them using the telescope. To learn to use the telescope, we have to study the Codex. To study the Codex, we have to, to… to figure out how the programs work, I guess. But if you jump into anything without thinking about what you're doing, you won't get anywhere."
+"The Waiting God values patience, foresight, and planning. So everything in this world is built to require those things. To navigate through the stars, we have to examine them using the telescope. To learn how to use the telescope, we have to study the Codex. To study the Codex, we have to, to… to figure out how the programs work, I guess. But if you jump into anything without thinking about what you're doing, you won't get anywhere."
 
 When she said "jump into anything", it made me think of physical jumping, and how I'd almost fallen over the first time I'd jumped up after I got here. Because the floor was slippery… "Oh for fuck's sake, even the <em>floor</em> needs planning?!" I glared and stomped on the floor, but it didn't react. Not sure what I was expecting.
 
 ?????
 
 "– whereas in a 3-α cluster, the channels are similar, but the chirality is reversed. Thus, within a 3-α, sign echoes propagate in a clockwise direction (when viewed from the direction of the root – although here, "the root" may refer to the root of an ancestor cluster, if the 3-α is poly?????ic) rather than counterclockwise. Take caution: because of this unusual chirality, the presence of a 3-α greatly increases the chance of echo propagation that exceeds the usual bounds, meaning that observed signs may reflect the signs of a star multiple clusters away. Fortunately, this is limited to the case of –"
+
+"This doesn't say <em>shit</em> about how to use a telescope," I said.
+
+"Aren't you just reading a random part in the middle?" said Yali from over my shoulder.
+
+"Well I STARTED at the beginning! But that was just pages and pages of boring stuff!" For some reason, all of the Codex programs had started working about half an hour after we showed up. But somehow, that wasn't making things any easier. "And why didn't CodexSearch show us anything good for 'telescope'? It's a freakin' <em>search!!</em>"
+
+"Maybe there's another name for the telescope. We should think about –"
+
+"If you're so smart, why don't <em>you</em> figure it out?" I shoved myself away from the desk and stood up, letting Yali sit down in my place. ????? "Hey, how about you use your Seeing? Look in the future and tell us how we figure it all out."
+
+"I, I, I think I'm not allowed," said Yali.
+
+"What?"
+
+"The Seeing comes from the god, right? And the god wants us all to plan out our journey the regular way. So it won't show me futures that let us skip past the process."
+
+"Of COURSE it wasn't going to be that easy. What a condescending –" I glared at the screen. I couldn't find the right words to express how messed up that was that the Waiting God was making us go along with this. Well, whatever.
+
+[????? Maybe Rinn enjoying watching Yali work, without actually paying attention to the screen]
 
 ?????
 
