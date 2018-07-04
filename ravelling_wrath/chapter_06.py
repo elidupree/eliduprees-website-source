@@ -45,15 +45,23 @@ Yali lurched upwards and her eyes zeroed in on me. "Your feelings!" she choked o
 
 "Thank the gods, you're alright!" I hugged her quickly. "This is great! We're both here and –" my brain caught up with what she'd actually said "– and I'm not angry at all, in fact, I feel great!"
 
-Yali sank back to the floor. "That's a relief. I'll be up in a minute."
+"That's a relief." Yali sank back to the floor.
 
-?????
+"You okay there? Anything I can get you? Haha I guess not but I can cuddle with you while you –"
 
-[????? Took a look around]. Well, first, I pulled off the hoodie Yali gave me and chucked it on the ground. That was much better. Without that loose clothing, I could feel the air around me again. Then I took a proper look at everything.
+Yali gently pushed me away. "Why don't you take a look around? I'll be up in a minute."
 
-We were standing [????? but Yali is sitting] on the middle of a smooth, translucent white platform, a circle about 20 meters wide. There was really almost nothing on it. The only features were a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction. I couldn't even see anything else beyond the edges of the platform. I carefully knelt down at the edge and looked over… and saw <em>more</em> stars stretching out endlessly below us.
+"But we should look together –"
 
-"Woah…" I said. "What happens if we fall off?!"
+"Remember, I know this place already."
+
+"Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff. Well, first, I pulled off the hoodie Yali gave me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. Now in just my shirt, I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
+
+With that done, I took a proper look at everything. We were on the middle of a smooth, translucent white platform, a circle about 20 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
+
+I couldn't even see anything else over the edges of the platform. I carefully knelt down at the edge and looked over… and saw <em>more</em> stars stretching out endlessly below us.
+
+"Woah…" I said, stepping back until I was next to Yali. "Are we just floating in space? What happens if we fall off?!"
 
 "You wouldn't fall very far," said Yali. "The gravity goes right back towards the star."
 
@@ -65,19 +73,17 @@ Yali patted the platform under us.
 
 "<em>Every</em> star you see up there is a disk just like this one. That's what we're going to be navigating across."
 
-????
+"Navigating the stars? Do we get, like, a rocket ship?"
 
-"So, uh… what do we do next?"
+Yali smiled. "No, it's actually the stars themselves that move. You see… you see…" Yali slowly climbed to her feet and brushed herself off. As soon as she was done, I couldn't resist putting my arms around her again. She idly hugged me back, still concentrating on something else. "I can explain in a minute. But first… Before we get started… I want to check your feelings again. You really aren't having any anger?"
 
-"[????? Hang on.] Before we get started, I want to check your feelings again. You really aren't having any anger?"
-
-"Yeah, like I told you. So much for that prediction, haha." [????? maybe fit some physical affection here?]
+"Yeah, like I told you, silly." I leaned into her warmth and planted a series of kisses on her cheek. "If anything, I love you even more than I did before. So much for that prediction, haha."
 
 "Well, it's possible… We don't really know how the previous Blood Children felt <em>right at first</em>. And Aihael hid his feelings for a long time, so…" She stopped and thought. "Maybe it just hasn't changed your feelings about <em>me</em>… How do you feel about <em>the Farseer</em>?"
 
 "What? But you <em>are</em> the Farseer."
 
-"It's about, it's about, how you think of me. Here…" Yali raised one hand, and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
+"It's about, it's about, how you think of me. Here…" Yali untangled herself in my arms and stepped back. She solemnly raised one hand and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
 
 I snickered. "Don't pretend like you're some kind of holy person," I said. It came out sounding a bit meaner than I'd intended it. Yali looked flustered. "Uh, I didn't mean that in a bad way."
 
@@ -85,17 +91,19 @@ I snickered. "Don't pretend like you're some kind of holy person," I said. It ca
 
 "Really? But it's not like I felt, like, angry, or anything. It's just silly that you were acting that way when you're obviously, like, not."
 
-"Hmm." Yali squinted. "Well, keep paying attention to it. Tell me if you feel anything you don't expect."
+"Hmm." Yali squinted. "Well, keep paying attention. Tell me if you feel anything you don't expect."
 
-"Yeah, yeah."
+"Yeah, yeah." I took her hand again. "Now tell me about how we're going to move the stars around."
 
-?????
+"Okay. Okay. For that, first, let's look at… over there…"
 
-"Why a computer? I thought you said there wouldn't be any computers unless we brought them."
+<bigbreak>
+
+"Why a computer?" I said. "I thought you said there wouldn't be any computers unless we brought them."
 
 Yali frowned. "I did. There's never been a computer here before, it's always been… a shelf with a lot of books…"
 
-"Haha, I guess the Waiting God is finally 'digitizing its collection'!" [????? Consider why Rinn would make that reference]
+"Haha, maybe the Waiting God scanned all the books and now it's a 'digital collection'!"
 
 "No, no… Remember, this isn't a regular place, the gods re-create their worlds every year. So it's not about what's <em>physically</em> there, it's about…" Suddenly, she burst out laughing.
 
