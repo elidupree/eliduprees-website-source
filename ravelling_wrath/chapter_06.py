@@ -83,7 +83,7 @@ Yali smiled. "No, it's actually the stars themselves that move. You see… you s
 
 "What? But you <em>are</em> the Farseer."
 
-"It's about, it's about, how you think of me. Here…" Yali untangled herself in my arms and stepped back. She solemnly raised one hand and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
+"It's about, it's about, how you think of me. Here…" Yali untangled herself from my arms and stepped back. She solemnly raised one hand and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
 
 I snickered. "Don't pretend like you're some kind of holy person," I said. It came out sounding a bit meaner than I'd intended it. Yali looked flustered. "Uh, I didn't mean that in a bad way."
 
@@ -212,7 +212,7 @@ I looked back over at her. "What?" I said.
 
 "What are you talking about? What about all those times when – like, we've spent entire evenings talking together!"
 
-"????? I'm sorry, I, I didn't think of this, I spent so much time planning for the bigger stuff, I just, this kind of idle time, I didn't think of it. And I've, I've, been trying, to make this, to, to give you what you want, too, but, I, I've been trying, I…" she trailed off.
+"????? I'm sorry, I, I didn't think of, of, I spent so much time planning for the bigger stuff, I just, this kind of idle time, I didn't think of it. And I've, I've, been trying, to make this, to, to give you what you want, too, but, I, I've been trying, I…" she trailed off.
 
 I waited impatiently for her to go on, but she didn't. Frustrated, I gave up and turned away. But when I thought of going back to ?????, something [????? bitter] reared up inside me. How could I just <em>let her</em> leave me hanging like this?!
 
