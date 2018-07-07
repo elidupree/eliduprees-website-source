@@ -21,7 +21,7 @@ posts = [
 
 <h2>A subtlety from Chapter 3</h2>
 
-<p>As I mentioned in the <a href="/ravelling-wrath/3/discussion">author's notes for Chapter 3</a>, I often want the reader to know something, but can't communicate it because the narrator doesn't know it. Here's one from Chapter 3 itself, which I couldn't explain at the time… but I <em>can</em> explain it now, here in the author's notes. In this exchange:</p>
+<p>As I mentioned in the <a href="/ravelling-wrath/3/discussion">author's notes for Chapter 3</a>, I often want the reader to know something, but can't communicate it because the narrator doesn't know it. Here's one from Chapter 3 itself, which I couldn't explain at the time… but I <em>can</em> explain it now, now that you've read Chapter 5. In this exchange:</p>
 
 <blockquote>
 <p>"It wasn't a real relationship, we were just horny teenagers." That felt a little weird to say. "Ha ha, Waiting God knows I'm still a horny teenager. Buuu-uuut I'm in a real relationship now –" I squeezed Yali's hand "– and I'm fine if you want to take it slow."</p>
@@ -29,13 +29,25 @@ posts = [
 <p>"Uh... right," said Yali. "Go on with the story!"</p>
 </blockquote>
 
-<p>On one hand, Yali was <em>almost</em> going to react affectionately to Rinn correcting zemself twice. But then Rinn mentioned the "take it slow" thing, and as we know from Chapter 5, the truth is a lot more complicated than that. Yali was distracted from being affectionate by a brief internal struggle about how to respond, and eventually settled on avoiding the issue.</p>
+<p>On one hand, Yali was <em>almost</em> going to react affectionately to Rinn correcting zemself twice. But then Rinn mentioned the "take it slow" thing, and as we know from Chapter 5, the truth is more complicated than that. Yali was distracted from being affectionate by a brief internal struggle about how to respond, and eventually settled on avoiding the issue.</p>
 
 <p>And then <em>Rinn didn't notice any of it!</em> Not only was it totally out of character for Rinn to notice at that moment, but neither of them would be likely to remember that exact exchange, so I had no chance of going back and explaining it later in the story. At most, I could have added something like "Yali seemed flustered for some reason". But since I want to establish that Yali doesn't show discomfort very much, it's not right to use that line unless this exact exchange hits one of zir biggest vulnerabilities – and it doesn't. All I could do was leave a couple of subtle hints – the fact that Yali says "Uh", which isn't zir usual response, and then answers with the single word "right", which ze only did in Chapter 2 when ze was trying to avoid thinking about something. Rinn's statement is, in fact, <em>not</em> right, because Yali doesn't technically <em>want</em> to take it slow. Instead, the "right" is in the sense of "Oh right, that's how you think of it given that I haven't told you the whole story."</p>
 
 <p>I wouldn't usually explain this kind of details in the author's notes, because it can be cool when you reread the earlier chapters and notice them for yourself. But since this one is particularly complex <em>and</em> particularly hard to guess, I decided it could be interesting to write about it here. There's still plenty of other things to notice on a second reading. ;-)</p>
 
+<h2>What if Yali was trans?</h2>
 
+<p>With the line "I'd have to deal with something I'm not ready to deal with yet", you might also wonder if Yali might be trans, and hesitating about disclosing zir trans status. However, that's not the direction I'm going with it. There's already a lot of stories about trans characters with lots of trauma. When I write a trans character, I'd rather make a more encouraging portrayal.</p>
+
+<p>That said, feel free to headcanon that Yali is trans if you like! The story works just as well regardless of Yali's assigned gender. There's just a few things I would tweak if it was different. If Yali is transfeminine, then:</p>
+<ul>
+<li>Yali thought it was important to tell Rinn about that. So, the same time ze used the Seeing to determine whether Rinn would say yes to a date, ze also checked how Rinn would react to zem disclosing zir trans status.</li>
+<li>Rinn thinks that trans people are kickass, because fuck the rules. So Rinn already knows, because Yali told zem about it right away.</li>
+<li>Yali's childhood friend, who will be mentioned later in the story, is definitely female. (I'm currently planning to have that character be male.)</li>
+<li>Yali knew ze was female from a very young age. All zir caregivers accepted that part of zem, at least most of the time. (I can't give too many details here because of spoilers, but those relationships can be mostly the same regardless of gender stuff.)</li>
+</ul>
+
+<p>Most of the other characters would also work pretty well with a different assigned gender, or even with a different actual gender. The one exception is Rinn – I feel like Rinn might be the most gender-specific character I've ever written, and I'd have to change a lot more details to be comfortable making zem anything other than cis female.</p>
 
   ''',
   "head":head,
