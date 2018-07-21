@@ -277,7 +277,6 @@ pages = [
     "transcript": [
       (0, '''In Professor Snape's classroom, Snape questions Harry. Draco Malfoy, Vincent Crabbe, and Gregory Goyle sit in a row near Snape, pointing and laughing when Harry fails to answer. All the students so far have had unadorned dark gray robes; Draco's robes, however, have a visible, '''+dark_green+''' collar &ndash; the signature color of Slytherin house. Granger sits nearby and raises zir hand fruitlessly. Snape is smirking, and ze speaks in a somewhat harsh visual style; the past Harry speaks with the same jagged, irregular shapes as the present Harry, but zir speech is colorless instead of of bright red. Harry is skinny in this moment.'''),
       (0, '''<span class="dialogue grey">DRACO, CRABBE, AND GOYLE: Ha Ha Ha Ha</span>'''),
-      (0, '''NOTE: dialogue is from Harry Potter and the Sorceror's Stone, pp. 136-138'''),
       (88, '''SNAPE: Ah, yes, Harry Potter. Our new &ndash; celebrity. Potter, what would I get if I added powdered root of asphodel to an infusion of wormwood?'''),
       (490, '''PAST HARRY: I don't know.'''),
       (620, '''SNAPE: That will be "I don't know, <em>sir</em>." Let's try again. Where would you look if I told you to find me a bezoar?'''),
@@ -415,7 +414,7 @@ PAST HARRY: Oh... I didn't think...<br/>
 LUNA: You could've aske&ndash;<br/>
 Luna is interrupted by an image of Uncle Vernon yelling "Don't ask questions" at Harry.<br/>
 <br/>
-We see Lun and Harry sitting together, looking at the book that is still reading itself.<br/>
+We see Luna and Harry sitting together, looking at the book that is still reading itself.<br/>
 LUNA: Are you sad about it? About your folks dying?<br/>
 BOOK: ...ith the defeat of Lord Voldemort. Claims of events "at the same time as" his death span up to six years in either direction, according to Ministry Common Time...<br/>
 PAST HARRY: Not really... I was one year old when it happened. I don't remember or feel anything about it.<br/>

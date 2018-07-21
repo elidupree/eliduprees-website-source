@@ -57,7 +57,7 @@ We will enter a narrative frame where we see the memories Harry is seeing in the
   "force_id":"8c400c2522e0a40972d7305d6765856c",
   "force_date":datetime.date(2012, 3, 13),
 
-  "transcript":"""One of Dumbledore's memories. Dumbledore and McGonagall stand in front of the Dursleys' home. It is a generic middle-class house, with shrubs arond the door. Dumbledore still has the same face concealment and flat expression of Voldemort; McGonagall is wearing a pointed hat with zir robes. A note says, "This page's dialogue is mostly from HP&tSS, pp. 13-14."<br/>
+  "transcript":"""One of Dumbledore's memories. Dumbledore and McGonagall stand in front of the Dursleys' home. It is a generic middle-class house, with shrubs arond the door. Dumbledore still has the same face concealment and flat expression of Voldemort; McGonagall is wearing a pointed hat with zir robes.<br/>
 DUMBLEDORE: I've come to bring Harry to his aunt and uncle. They're the only family he has left now.<br/>
 MCGONAGALL: You don't mean &ndash; you <em>can't</em> mean the people who live <em>here</em>? Any wizarding family in Britain would take him in &ndash; he'll be famous &ndash; a legend &ndash; there will be books written about him&ndash;<br/>
 DUMBLEDORE: Exactly. It would be enough to turn any child's head. Can't you see how much better off he'll be, growing up away from all that until he's ready to take it?<br/>
@@ -80,7 +80,7 @@ McGonagall is cut off by the narrative frame closing. We see Harry in front of t
 
   "transcript":"""We are viewing the memory again.<br/>
 PRESENT HARRY: I saw lots of painful memories in the Pensieve, but that one hit me harder than any of the others.<br/>
-In the memory, Hagrid arrives on an obviously magical motorcycle, carrying the infant Harry wrapped in blankets. Dumbledore and McGonagall are still standing in front of the Dursley home, waiting for zir arrival. Hagrid is huge; ze looks fully twice as tall as either of the others, although ze's also closer to the viewpoint, so the effect is somewhat more exaggerated than the reality. A note says "the remembered dialogue is from HP&tSS, pp. 14-15"<br/>
+In the memory, Hagrid arrives on an obviously magical motorcycle, carrying the infant Harry wrapped in blankets. Dumbledore and McGonagall are still standing in front of the Dursley home, waiting for zir arrival. Hagrid is huge; ze looks fully twice as tall as either of the others, although ze's also closer to the viewpoint, so the effect is somewhat more exaggerated than the reality.<br/>
 DUMBLEDORE: Hagrid. At last.<br/>
 HAGRID: House was almost destroyed, but I got him out alright before the muggles started swarming around.<br/>
 PRESENT HARRY: It was Hagrid. The same person who rescued me ten years later...<br/>
