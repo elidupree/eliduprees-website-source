@@ -258,7 +258,7 @@ DRACO: You'll pay for this!""",
   "force_id":"aa6dcb072361313a18d0d624b6086465",
   "force_date":datetime.date(2012, 4, 6),
 
-  "transcript":"""PRESENT HARRY: But reading fears is the first thing you learn in Legilimency. It was so easy to play on what I saw...<br/>
+  "transcript":"""PRESENT HARRY: But reading fears is the first thing you learn in Legilimency... It was so easy to play on what I saw... without even thinking...<br/>
 PAST HARRY { in Voldemort's voice }: I think not. You would not want to anger me.<br/>
 Draco sweats.<br/>
 Zabini comes up next to Draco and puts zir hand on Draco's shoulder. With zir other hand, ze blasts Harry backwards with a spell, knocking Harry's stool over as well. Another student next to Harry looks shocked. But Zabini isn't even looking at Harry; ze's looking at Draco.<br/>
@@ -288,7 +288,7 @@ SNAPE: Sit down. We will proceed as usual. You will attempt to read my memories;
   "force_id":"8db14984a33472526b30ef0f73c987b9",
   "force_date":datetime.date(2012, 4, 9),
 
-  "transcript":"""Harry and Snape face each other. Their eyes are joined by a beam of Legilimency. The beam opens into a narrative frame that shows one of Snape's memories. A note says "This page's dialogue is mostly from Harry Potter and the Order of the Phoenix, p. 646"<br/>
+  "transcript":"""Harry and Snape face each other. Their eyes are joined by a beam of Legilimency. The beam opens into a narrative frame that shows one of Snape's memories.<br/>
 In the memory, a younger Snape, as a Hogwarts student, is lying on the grass near the lake, surrounded by three people who are taunting and laughing at zem: James Potter, Sirius Black, and Peter Pettigrew. James Potter has light skin and light brown hair, and green eyes, like Harry's. Ze has a relatively smooth appearance. Ze's pointing a wand at Snape, and sitting in a chair. The speech of James and Sirius, who are both in Gryffindor, is similar to the Slytherin students' speech we've seen, but less curvy, more upright.<br/>
 JAMES: How'd the exam go, Snivelly?<br/>
 SIRIUS: I was watching him, his nose was touching the parchment. There'll be great grease marks&ndash;<br/>
