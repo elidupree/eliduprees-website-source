@@ -155,7 +155,7 @@ A large panel shows a view of the Auror quarters. There are two pairs of bunked 
 BLACK KING: Well, I'm the King, and I say &ndash; I can move two spaces!<br/>
 PAST GRANGER: But&ndash; but that's now how the <strong>rules</strong> work!<br/>
 PAST TONKS: Heh, don't let a little chess set get to you, Granger.<br/>
-PRESENT GRANGER: Sometimes one or two trainees would be taken on a mission with the full Aurors. We were supposed to be on the safer missions, but "safer" is a weak qualifier for any mission involving Aurors. {pause} Tonks, do you mind if I tell about when we raided the Malfoy home, after Lucius was brought in on corrpution charges? I don't need to if you'd rather I not&ndash;<br/>
+PRESENT GRANGER: Sometimes one or two trainees would be taken on a mission with the full Aurors. We were supposed to be on the safer missions, but "safer" is a weak qualifier for any mission involving Aurors. {pause} Tonks, do you mind if I tell about when we raided the Malfoy home, after Lucius was brought in on corruption charges? I don't need to if you'd rather I not&ndash;<br/>
 PRESENT TONKS: Ha ha, are you worried Harry'll think less of me for it? Tell whatever you like.""",
   "annotation":"""<p>Silly King, Granger can win that rook vs. knight endgame without resorting to cheating. Cheating would certainly help, but I doubt ze would agree to it.</p>
 
@@ -265,7 +265,7 @@ MOODY: Useful. But what will you do if your enemy grabs you before you can Disap
 PAST GRANGER: I've equipped two locations with traps for anyone who follows me.<br/>
 MOODY: So you could have taken me into a trap. Good. Right then. You had a favor to ask. One that requires a moderate level of security.<br/>
 PAST GRANGER: I want you to use the Cruciatus Curse on me. If I'm going to face it, and my fellow Aurors are going to face it, I need to know what it's like to be hit by it.<br/>
-PRESENT GRANGER: Or so I rationalized it to myself. What did I expect to accomplish? Would putting myself through this somehow change what had happened? Or was it simply the most convenient way to assuage a sense of suvivor's guilt? Do I know myself well enough to be sure?""",
+PRESENT GRANGER: Or so I rationalized it to myself. What did I expect to accomplish? Would putting myself through this somehow change what had happened? Or was it simply the most convenient way to assuage a sense of survivor's guilt? Do I know myself well enough to be sure?""",
   "annotation":"""<p>Granger may be second-guessing zemself here, but to Moody, that explanation seemed perfectly sensible and logical!</p>
 
 <p>This was obviously before Granger <a href="/voldemorts-children/52">instituted the policy about saying "Torture Curse" instead of "Cruciatus Curse."</a></p>

@@ -379,7 +379,7 @@ Meanwhile, Harry continues narrating, now telling about zir own life: the baby H
   "force_id":"3c98841300d774219796f2385600e85f",
   "force_date":datetime.date(2012, 6, 3),
 
-  "transcript":"""Harry narrates through images: a much younger Harry reaches into a refrigirator, glancing over zir shoulder at Aunt Petunia, who is facing the other direction, but looking suspiciously back in Harry's general direction.<br/>
+  "transcript":"""Harry narrates through images: a much younger Harry reaches into a refrigerator, glancing over zir shoulder at Aunt Petunia, who is facing the other direction, but looking suspiciously back in Harry's general direction.<br/>
 Harry narrates through images: Draco, as a smiling child, sits at a table, with food in front of zem. Lucius sits nearby, smiling at Draco.<br/>
 Harry narrates through images: Draco, as a child, frowns and shows Lucius that Draco's hand has a cut/scrape on it. Lucius uses magic to heal the cut. Draco smiles.<br/>
 On the Astronomy Tower, we see a single large image of Harry and Draco, from a low angle, against a wide, star-filled sky. Harry has lifted Draco and pinned zem against one of the crenellations. Draco is bleeding from the mouth. Harry's face is pressed very close to Draco's; Harry is looking in Draco's eyes, using Legilimency. A narrative frame opens to represent the memory of Draco's that Harry is reading.<br/>

@@ -14,7 +14,7 @@ pages = [
 
   "transcript":"""PRESENT HARRY: And now that you know how I met my allies, I can tell you about...<br/>
 <br/>
-Chapter title image: Hogwarts towers loom dimly in the background. An extremely bright blaze of fire enters the page from the left side and stops in the middle. In the head of the blaze are the slihouettes of Harry, Luna, and Draco, with their wands out. Draco crouches at the front; Luna, with zir wand raised above zir head, is in the middle; Harry is in the back, and Harry's forehead scar shows through the silhouette.<br/>
+Chapter title image: Hogwarts towers loom dimly in the background. An extremely bright blaze of fire enters the page from the left side and stops in the middle. In the head of the blaze are the silhouettes of Harry, Luna, and Draco, with their wands out. Draco crouches at the front; Luna, with zir wand raised above zir head, is in the middle; Harry is in the back, and Harry's forehead scar shows through the silhouette.<br/>
 <br/>
 At the bottom of the page is the title:<br/>
 CHAPTER SIX<br/>
