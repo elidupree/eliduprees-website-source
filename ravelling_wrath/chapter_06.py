@@ -151,7 +151,21 @@ When she said "jump into anything", it made me think of physical jumping, and ho
 
 ?????
 
-Yali was holding a clay pot. "What's that?" I said.
+Apparently the "star" we were standing on was already moving at a zillion kilometers per second, we just couldn't tell because, first, we were standing on it, and second, the rest of the stars were even more zillions of kilometers away. But they were all moving in some sort of ridiculously complex pattern. And every so often, two stars would meet up with each other while they were moving at the same speed, and then you could walk from one of them to the other. Even though we were supposedly "navigating through the stars", we didn't actually control how the stars were moving at all. All we could do was choose which one to stand on when they met up with each other. So once Yali figured out what star we should be moving to next, all we'd have to do was wait.
+
+<em>Wait.</em> I was already getting sick of that word.
+
+"I thought this was going to be a big adventure!" I complained. "Are you seriously telling me we're just going to be stuck on a rock together for weeks?! I mean, not that I mind being stuck on a rock with <em>you</em> –" I kissed her halfheartedly "– but, like, I thought we were going to be fighting monsters and stuff!"
+
+"There aren't any monsters, that's just in the movies. There <em>will</em> be some adventure, just –"
+
+"– just not until we get to the other layers. Yeah, yeah, I remember what you told me." The Seeking God's layer was next, and it sounded <em>way</em> cooler than this one. But meanwhile… "There's just nothing to <em>do</em> here!"
+
+"It's okay. I'm sure we can find things to do. We haven't even…" Yali trailed off and started quietly concentrating. I almost interrupted her, but I wasn't <em>that</em> impatient. I just sighed and looked around, as if I was going to spot anything new here. But there was just the same old stuff. And the same old stars.
+
+When I looked back, Yali was holding a clay pot.
+
+"Where'd that come from?" I said.
 
 Yali gave an embarrassed smile. "I thought I'd try manifesting. The first thing I thought of was a potted plant I used to have in my room. But I forgot you can't manifest anything that has its own soul."
 
@@ -161,21 +175,27 @@ Yali flinched.
 
 "You okay there?" I said, moving towards her. She frantically backed away from me, a terrified expression on her face. What was she looking at? I followed her gaze, and that's when I noticed what I was holding in my hand.
 
-It was a blade of the length of my forearm, black and glistening, its ????? ?????.
+It was a blade of the length of my forearm, black and glistening. Instinctively, it felt like an extra part of my arm. Like a claw ready to reach out and tear the world apart.
 
 "Whaaa –" I threw the blade away from me. It vanished before it hit the ground. "What the fuck was that?"
 
 "That," Yali panted, "that killed me a lot of times." She adjusted her shirt. "I'm okay now. I shouldn't have been surprised. Every Blood Child could summon the Blood Blades, it was probably just the easiest thing for you to manifest. Here, make another one. Go ahead, it's okay."
 
-Cautiously, I repeated the gesture I'd made earlier. Sure enough, another black blade sprang into existence in my hand. ?????
+Cautiously, I repeated the gesture I'd made earlier. Sure enough, another black blade sprang into existence in my hand. This time, I got a better look at it. When I looked closely at it, it was actually dark red rather than black. And it had an almost liquid quality about it. There was no clear line where the blade ended and the handle began, and it was perfectly molded to the shape of my hand. As if it had been made for me.
 
-Yali examined it gingerly. "?????. It's said that they're an extension of your own blood. Figuratively, I guess. You should even be able to feel through it, as if it was part of your own arm."
+Its sharp edge, though, looked ragged and vicious. Most of the blade showed a clear reflection of the stars, but near the edge, it was dull and scratched-looking.
 
-Experimentally, I reached out with the blade and tapped the table with the end of it. Sure enough, I could feel the table like I was touching it. "Wow, I thought it would feel really weird, but it doesn't feel weird at all. That's so weird."
+Curiously, I touched the edge with my other hand. It flowed around my fingers without cutting them, giving them a warm, wet sensation. "Check it out," I said.
 
-?????
+Yali examined the blade gingerly, without touching it. "Amazing. I've never gotten a clear look at one of these before. It's said that they're an extension of your own blood. Figuratively, I guess. You should even be able to feel through it, as if it was part of your own arm."
 
-"Let me manifest some normal stuff now. Catch!" I made a baseball appear in my hand and threw it to her. ?????
+"Yeah, it kind of felt like that. Let me just try –" Experimentally, I reached out with the side of the blade and tapped the table with it. Sure enough, I could feel the table like I was touching it. "Wow, I thought it would feel really weird, but it doesn't feel weird at all. That's so weird."
+
+I tried a lot more things with the Blood Blades before moving on. I could manifest more than one of them at a time, and I could make them bigger or smaller, or change their shape a little, just by wanting to. And they wouldn't cut anything unless I wanted to cut it – but if I <em>did</em> want to cut something, <em>oooooh boy</em> were they good at it. I shredded off a corner of the table in one swing. It wasn't a clean cut, but it sure did have a satisfying thud and ripping feeling. So I did it again.
+
+"Rinn…" said Yali hesitantly after I made a few more cuts. "Maybe don't destroy the <em>entire</em> table? You're getting close to the computer stuff."
+
+"Oh. Uh, right, of course. I mean, I was about to stop anyway," I lied. "Let me manifest some normal stuff now. Catch!" I made a ball appear in my hand and threw it to her. ?????
 
 "I can make anything I want. Nothing costs money <em>here</em>!" I made a sienkah fruit in each hand and chomped into them greedily, letting the juices drip down my chin. Out of the corner of my eye, I caught Yali smiling at that. So I made a show of it, making an absolute feast and eating as messily as I could. ????? From how she was looking at me, I could tell she was totally into it. So I swaggered up to her and, with bits of food still smeared all over my face, kissed her right on the mouth.
 
@@ -199,10 +219,27 @@ Stern take it all. <em>Are you going to hold back this entire time?</em> I thoug
 
 ????
 
-
-[Rinn says one or 2 rude/annoyed things about Yali being unresponsive]
+[alchemist: here?]
 
 ????
+
+
+[cut this - repeated above "I thought this was supposed to be a big adventure!" I complained. "Not just sitting on a rock all day, waiting for something to happen. Uh, not that I mind being stuck on a rock with <em>you</em> –" I kissed her on the cheek. But I was kind of forcing it.]
+
+????
+
+[And we'd made a nice couch where we could curl up and cuddle together very well.] Which was nice and all. It seemed to make <em>Yali</em> happy, at least. She always had that sleepy, peaceful expression on her face, only occasionally moving to shift her weight, or stroke my hair, or nuzzle into my cheek. And it's not that I <em>didn't</em> enjoy it. I'd never gotten to spend so much time with her before, and letting my body soak up her warmth, it made me feel floaty and wonderful. But I just didn't like doing it for as <em>wrong</em> as she did. Before long, I always wanted to be <em>doing</em> something.
+
+Or even if I wasn't doing something, at least we could be <em>talking</em> about something. But whenever I tried to talk to her while we were cuddling, she'd just go "mm-hmm" to everything. She wasn't really listening.
+
+?????
+
+[Experimenting with going over the edge]
+
+????
+
+
+[Rinn says one or 2 rude/annoyed things about Yali being unresponsive]
 
 "This is how much I normally talk," said Yali abruptly.
 
