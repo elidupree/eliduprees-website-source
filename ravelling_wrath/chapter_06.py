@@ -255,24 +255,27 @@ I waited impatiently for her to go on, but she didn't. Frustrated, I gave up and
 
 I whirled back on her. The words caught in my throat – I knew it was wrong, but it just felt so <em>right</em>. I spat, "This is your idea of giving me what I want?!"
 
-Yali's face [verb] with dismay.
+Yali's face fell with dismay.
 
-I stomped towards her. "You think you can string me along, acting all nice, like everything's great [????? change those phrases to be more blood God inspired], and then when I'm <em>stuck on a rock with you</em>, you clam up on me?!" I swung my arm for emphasis, but [????? I clumsied] and my hand smacked into [????? object belonging to Yali that was established earlier]. It wobbled and almost fell over.
+I stomped towards her. "You think you can string me along, acting all nice, like everything's great [????? change those phrases to be more blood God inspired], and then when I'm <em>stuck on a rock with you</em>, you clam up on me?!" I swung my arm for emphasis, but it went farther than I intended, and my hand smacked into the clay pot Yali had made earlier. It wobbled and almost fell over.
 
 "Controlling Game," said Yali tensely.
 
-I was momentarily stopped in my tracks. "What? You think this is the Blood God?! This is <em>me!</em> Don't you get it?! Maybe <em>you're</em> fine being all alone on the time, you don't understand how much it <em>hurts</em> when you just <em>shut me out</em> like this! ????? Come on, say something!"
+I was momentarily stopped in my tracks. "What? You think this is the Blood God?! This is <em>me!</em> Don't you get it?! Maybe <em>you're</em> fine being all alone on the time, you don't understand how much it <em>hurts</em> when you just <em>shut me out</em> like this!" Yali didn't respond. I shoved my face right in front of hers. "What, you don't have anything to say? Come on, say something!"
 
-[????? Closer look at Yali's face]
+That's when I noticed the look on her face. It was subtle, but I'd seen a lot of her face lately, and the difference was unmistakable. Her eyes were slightly widened, frozen in a stare. The muscles around her mouth were tight. 
 
+Something knotted up in my stomach, like maybe I'd gone too far. But I couldn't just leave it like this! I took half a step back and said, "Hey, uh, you've gotta work with me here, alright? Just, uh –" She still had that frozen look. I stepped back further. "Come on, you know I'm not going to hurt you! You can stop looking like that!" She didn't react. I held up my hands placatingly. "Look, I'm going to leave now, okay? Then you won't have to talk to me or anything. So that's good, right?!"
 
-?????
+I wasn't even sure if I was being bitter or just saying whatever came into my head. Anyway, I clearly wasn't getting any sort of response from her. With nothing else to do, I dashed off side of the platform and fell around to the underside.
 
-[????? Didn't even have any space to move around in] I stuck my hands out in front of me and manifested one of the treadmills from the gym back at home. I climbed on and switched it on, but nothing happened because there was no power. Fucking of <em>course</em>. I slammed my fist down on the controls, snapping off a bit of the plastic. Why did this have to happen to me? Even this fucking MACHINE wouldn't do what I wanted.
+It wasn't much for privacy, but at least we couldn't see each other directly. My head was pounding. I just wanted to get away from everything. If only there was somewhere around here to go for a long run, to blow off all this excess energy. But all I had was this tiny platform, with nowhere to really move around at all.
 
-[Angrily ?????], I started "walking" on the treadmill anyway. Since it wasn't on, it was more like just shoving the belt with my legs over and over. But at least it was a workout. Shove. Shove. Shove.
+I needed <em>something</em>. With my stomach in a knot, I stuck my hands out in front of me and manifested one of the treadmills from the gym back at home. I climbed on and switched it on, but nothing happened. Because there was no power. Fucking of <em>course</em>. I slammed my fist down on the controls, snapping off a bit of the plastic. Why did this have to happen to me? Even this fucking MACHINE wouldn't do what I wanted.
 
-After a few dozen angry steps, my muscles started warming up. Another few dozen, my head started to clear. I could finally [????? think about it properly].
+Raging, I started "walking" on the treadmill anyway. Since it wasn't on, it was more like just shoving the belt with my legs over and over. But at least it was a workout. Shove. Shove. Shove.
+
+After a few dozen angry steps, my muscles started warming up. Another few dozen, my head started to clear. The angry, bitter thoughts stopped pounding so hard. I had room to think again.
 
 Yali…
 
@@ -282,23 +285,19 @@ What had I yelled at her for? ?????
 
 Could it be that we were actually incompatible? ????? It was like having my guts ripped out. I had no one else. Not Layo. Not Mom and Dad. Not ?????. There'd be the other Ravellers, but they were so far away and I had no idea what they'd be like. Yali was the ONLY person I had. And if I kept fucking up like this, I was going to lose her.
 
-That look on her face, when I'd blown past her Calming Game… what was that look?
+That look on her face, when I'd blown past her Controlling Game… what was that look? She'd been tensed up, frozen in place, like she couldn't handle what was happening. Almost like… fear?
 
-?????
-
-almost like… fear?
-
-A sick feeling started [tangling up ?????] in the pit of my stomach. That couldn't be right, could it? She wasn't <em>afraid</em>, it was just a reaction, like when I'd first summoned a Blood Blade. She knew I wouldn't actually hurt her, right? I was just… [????? Rinn remembers details of the reaction]
+A sick feeling drilled into the pit of my stomach. That couldn't be right, could it? She wasn't <em>afraid</em>, it was just a reaction, like when I'd first summoned a Blood Blade. She knew I wouldn't actually hurt her, right? I was just blowing off steam! And besides, she had looked way more scared when the Blood Blade thing happened! And then she'd gotten back under control right away, because she knew it was just me and I wouldn't hurt her! Obviously! So obviously, THIS time, maybe I did some stuff I shouldn't have, and she got scared, but then I started backing off, and then she was… still acting scared… because… that meant…
 
 I had made her afraid of me.
 
-I felt like I was going to throw up. My hands tingled and my legs shook. I kept walking more and more aggressively. How could I have DONE that?? Why couldn't I have just LISTENED to her??!! So many feelings were crushing me from all sides. Loneliness. Guilt. Fear. Nausea. Helplessness. Self-pity. I doubled over, slumping my full weight against the handle of the treadmill. An uncontrollable sob tore out of me. I was barely holding myself up. My tears splattered unrestrained on the floor.
+I felt like I was going to throw up. My hands tingled and my legs shook. I kept shoving my feet into the treadmill harder and harder, as if walking hard enough would change what happened. How could I have DONE that?? Why couldn't I have just LISTENED to her??!! So many feelings were crushing me from all sides. Loneliness. Guilt. Fear. Nausea. Helplessness. Self-pity. I doubled over, slumping my full weight against the handle of the treadmill. An uncontrollable sob tore out of me. I was barely holding myself up. My tears splattered unrestrained on the floor.
 
 I don't know how long I stayed like that. Wave after wave of [????? feeling] [????? verbed me]. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, intending to un-manifest the treadmill and make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering [????? distance] up in the air. As soon as I moved, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
 
 I couldn't even bring myself to get up again. I just made a heavy blanket over me and curled up inside it. Parts of me were still lying directly on the floor, but if I wanted to get more comfortable, I'd have had to lift myself up at all, and that was just too much to even think about. I lay that way for a long time, not quite resting. It was half comfort, half pain.
 
-I should go apologize to her, I said to myself. I could just [????? go] back to the other side and tell her [????? I knew I'd done wrong] and beg for her forgiveness. What was I waiting for?! I should have done that as soon as I realized! But… what would that even mean to her? Would it be [????? something nice]? Or would it just be more [????? excessive talking that she didn't want to hear]?
+I should go apologize to her, I said to myself. I could just run back to the other side and tell her I knew I fucked up and beg for her forgiveness. What was I waiting for?! I should have done that as soon as I realized! But… what would that even mean to her? Would that make her feel better? Or would I just be pushing more talking on her when she wasn't ready for it?
 
 My muscles made the decision for me. I wasn't going anywhere, not anytime soon.
 
@@ -323,6 +322,8 @@ I didn't even have words to say back. I [????? gratefully [but more spilling-you
 [?????"It's very strange," she said. "I don't think it's you, I think it's the Blood God. [????? I've been noticing this change in your pattern of behavior]. But… It the blood God shouldn't be about entitlement, contempt – anger is different than obsessive dislike" will]
 
 ?????
+
+The freaky thing was that I didn't feel any different. When Yali had told me about the Blood God stuff, I had expected that it would be a constant struggle to hold on to what I really wanted. Like there would be an invader in my mind that I had to fight against. But instead, it was constant… normal stuff. Just me thinking stuff that I would normally think. Reacting the way I would normally react. Until the moment when I realized I had gone over the edge and hurt her.
 
 ''',
 },
