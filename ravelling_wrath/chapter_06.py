@@ -321,6 +321,26 @@ I didn't even have words to say back. I [????? gratefully [but more spilling-you
 
 [?????"It's very strange," she said. "I don't think it's you, I think it's the Blood God. [????? I've been noticing this change in your pattern of behavior]. But… It the blood God shouldn't be about entitlement, contempt – anger is different than obsessive dislike" will]
 
+[???? "Don't pretend like you're some kind of holy person" wasn't like you"]
+
+"Really? I mean, when have I ever respected anything religious?"
+
+"You can't think of any other way you might have reacted? Like, if I was actually more religious than I am?"
+
+"I mean, if you were <em>actually</em> religious, I guess that would be, like, one of the things that makes you <em>you</em>? I mean, like, I wouldn't get it, but I'd have to, you know…"
+
+"That's what I thought… Whenever it's about <em>me</em>, you find a way to interpret it in a positive way. But that time, you didn't." She paused. "Not that I mind if you hate the Waiting Temple. I'm only pointing it out."
+
+"Wait a minute. So you don't want me to hate on the Stern Temple around you. But the Waiting Temple is fair game?"
+
+"Yeah, why not? They're different temples." Yali squinted. "Actually, no. Please don't make fun of the Waiting Temple either."
+
+"What?"
+
+"The point is, <em>I've</em> noticed a difference. You haven't been giving me the benefit of the doubt as much, at least when it's about the Waiting God or its world. So I think we might be seeing the first part of the Blood God's influence. But…" She frowned. "This isn't how the Blood God is supposed to operate. It's supposed to be about anger, like, direct confrontation. Not about contempt, or… feeling like you're entitled to my help… I mean, this change has to be coming from the Blood God, but I don't understand."
+
+Why did it have to be coming from the Blood God? Maybe because… because if it <em>wasn't</em> coming from the Blood God, that would mean it was coming from <em>me</em>. And Yali couldn't believe that it was coming from me. I felt like my heart was being pulled in two different directions. Yali really trusted me so much that she couldn't believe I would have said all those things of my own accord. But what if she was wrong?
+
 ?????
 
 The freaky thing was that I didn't feel any different. When Yali had told me about the Blood God stuff, I had expected that it would be a constant struggle to hold on to what I really wanted. Like there would be an invader in my mind that I had to fight against. But instead, it was constant… normal stuff. Just me thinking stuff that I would normally think. Reacting the way I would normally react. Until the moment when I realized I had gone over the edge and hurt her.
