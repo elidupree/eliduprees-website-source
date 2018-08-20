@@ -345,6 +345,15 @@ Why did it have to be coming from the Blood God? Maybe because… because if it 
 
 The freaky thing was that I didn't feel any different. When Yali had told me about the Blood God stuff, I had expected that it would be a constant struggle to hold on to what I really wanted. Like there would be an invader in my mind that I had to fight against. But instead, it was constant… normal stuff. Just me thinking stuff that I would normally think. Reacting the way I would normally react. Until the moment when I realized I had gone over the edge and hurt her.
 
+
+?????
+
+Finally, the stars [verbed together]. There was a tense silence. Yali and the Justicar had both stood close to the edge of their stars to meet each other, so now, they were scarcely a meter apart from each other. The Justicar's eyes flicked back and forth between Yali and me. I was itching to break the tension, but Yali had told me to let her do the talking. And Yali was waiting for the Justicar to make the first move.
+
+Finally, the Justicar spoke.
+
+"The stars told me of a Blood Child and a Farseer here," she said. "But which of you is which?"
+
 ''',
 },
 ]
