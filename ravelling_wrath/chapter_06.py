@@ -348,11 +348,17 @@ The freaky thing was that I didn't feel any different. When Yali had told me abo
 
 ?????
 
-Finally, the stars [verbed together]. There was a tense silence. Yali and the Justicar had both stood close to the edge of their stars to meet each other, so now, they were scarcely a meter apart from each other. The Justicar's eyes flicked back and forth between Yali and me. I was itching to break the tension, but Yali had told me to let her do the talking. And Yali was waiting for the Justicar to make the first move.
+could make out a figure standing there.
 
-Finally, the Justicar spoke.
+As the star drifted closer, I could make out more details of the figure. Tall and proud, she was dressed in a gleaming armor from the neck down. She stood rigidly in place, silently watching us as the stars came together.
 
-"The stars told me of a Blood Child and a Farseer here," she said. "But which of you is which?"
+So this was the Justicar.
+
+The edges of the two stars touched smoothly together, without even a bump. There was a tense silence. Yali and the Justicar had each stood close to the edge of their star to meet the other, so now, they were scarcely a meter apart. The Justicar's eyes flicked back and forth between Yali and me. I was itching to break the tension, but Yali had told me to let her do the talking. And Yali was waiting for the Justicar to make the first move.
+
+Finally, the Justicar broke the silence.
+
+"The stars spoke of a Blood Child and a Farseer here," she said. "But which of you is which?"
 
 ''',
 },
