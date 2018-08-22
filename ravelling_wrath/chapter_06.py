@@ -228,7 +228,21 @@ Stern take it all. <em>Are you going to hold back this entire time?</em> I thoug
 
 ????
 
-[And we'd made a nice couch where we could curl up and cuddle together very well.] Which was nice and all. It seemed to make <em>Yali</em> happy, at least. She always had that sleepy, peaceful expression on her face, only occasionally moving to shift her weight, or stroke my hair, or nuzzle into my cheek. And it's not that I <em>didn't</em> enjoy it. I'd never gotten to spend so much time with her before, and letting my body soak up her warmth, it made me feel floaty and wonderful. But I just didn't like doing it for as <em>wrong</em> as she did. Before long, I always wanted to be <em>doing</em> something.
+[Sleeping? Charging cell phone?]
+
+????
+
+<bigbreak>
+
+Traveling through the Otherworld was NOT as interesting as it was cracked up to be.
+
+Sure, there was the looming threat of our possible deaths. But it didn't really seem like that was going to happen <em>here</em>, on a tiny platform in the middle of literal empty space. Being <em>here</em> was just <em>boring</em>.
+
+[????? Experimenting with manifesting ?????]
+
+The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't see just keep us alive faster? Stern take it all.
+
+And then there was our together time. Yali had manifested an enormous, reclining couch that was just the right shape for us to curl up together and cuddle for hours. Which was nice and all. It seemed to make <em>Yali</em> happy, at least. She always had that sleepy, peaceful expression on her face, only occasionally moving to shift her weight, or stroke my hair, or nuzzle into my cheek. And it's not that I <em>didn't</em> enjoy it. I'd never gotten to spend so much time with her before, and letting my body soak up her warmth, it made me feel floaty and wonderful. But I just didn't like doing it for as <em>long</em> as she did. Before long, I always wanted to be <em>doing</em> something.
 
 Or even if I wasn't doing something, at least we could be <em>talking</em> about something. But whenever I tried to talk to her while we were cuddling, she'd just go "mm-hmm" to everything. She wasn't really listening.
 
