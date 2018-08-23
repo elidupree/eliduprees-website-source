@@ -238,7 +238,7 @@ Traveling through the Otherworld was NOT as interesting as it was cracked up to 
 
 Sure, there was the looming threat of our possible deaths. But it didn't really seem like that was going to happen <em>here</em>, on a tiny platform in the middle of literal empty space. Being <em>here</em> was just <em>boring</em>.
 
-[????? Experimenting with manifesting ?????]
+[????? Experimenting with manifesting ?????; blood blades are the easiest thing to manifest]
 
 The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't see just keep us alive faster? Stern take it all.
 
