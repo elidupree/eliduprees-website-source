@@ -91,17 +91,17 @@ My heart was pounding. I hardly knew what was happening – but there was one th
 
 "Fine!" Justicar raised her arms again, and more metal beams snapped into place, holding up half the trampoline. "Move over, you're in the way of the other side –"
 
-"Here, I'll do these –" I manifested the first thing I could think of – more Blood Blades, but this time, distorted into long poles that flowed and merged with the trampoline on one hand and the floor of our star on the other.
+"I'll do this side –" I manifested the first thing I could think of – more Blood Blades, but this time, distorted into long poles that flowed and merged with the trampoline on one end and the floor of our star on the other.
 
 "That's a weak structure, you need to reinforce it with –" Justicar stepped towards me, arms held out to add to my work –
 
-"GET DOWN!!!" yelled Yali. She grabbed my arm and threw me with her full weight, sending me to tumbling off towards the edge of the star. And then everything exploded.
+"GET DOWN!!!" yelled Yali. She grabbed my arm and threw me with her full weight, sending me tumbling off towards the edge of the star. And then everything exploded.
 
 In an instant, an overwhelming pain had smashed through limbs I didn't know I'd had. And then after the first shock, there was a burning so strong it brought tears to my eyes. But I had my own fire inside of me, and I wouldn't be beaten so easily. Biting back the pain, I forced myself to climb to my feet and look back at the wreckage.
 
 The sounds echoed into my mind. The loud snap of the Blood Blades shattering and the trampoline tearing apart. The crash of collapsing metal. And the thud and crack as a human body smashed onto the surface of the star.
 
-He lay sprawled on the floor, a mass of blood with one arm torn open and one leg twisted at a horrible angle under him. My heart caught in my throat as I struggled towards him. For an awful moment I was sure he was dead.
+He lay sprawled on the floor, a mass of blood with one arm torn open and one leg twisted at a horrible angle under him. Massive burn marks covered his clothing and half his chest. My heart caught in my throat as I struggled towards him. For an awful moment I was sure he was dead.
 
 Then he opened his mouth and screamed, a deafening scream that pounded at my eardrums ?????.
 
@@ -129,9 +129,99 @@ Somehow, under my touch, he started to relax. His breathing got a little steadie
 
 "What did you do?" said Justicar, impressed.
 
-"I… I gave him some of my blood," I said dizzily, not knowing how I knew.
+I pulled my hand back and sat on the floor, exhausted. "I… I gave him some of my blood," I said dizzily, not knowing how I knew.
 
-"That doesn't make any sen–" Justicar interrupted herself. "Thank you for… whatever you did. Now please, stay out of the way." She went back to 
+"That doesn't make any sen–" Justicar interrupted herself. "Thank you for… whatever you did. Now please, stay out of the way."
+
+I wasn't planning to move anyway, but I couldn't just let that stand. "What makes you think you have the right to tell me what to do?" I said forcefully.
+
+Justicar didn't look away from the fallen human. "Farseer, is he stable? Is there more we need to do?"
+
+Yali stepped up beside me and looked at him intently. Was she looking into the future? Her eyes had that same glazed look. "He is… not at risk of more physical harm," she said, still looking. After another moment, she added, "You should release the restraints."
+
+"I understand." Justicar allowed the metal bands to awkwardly lower his limbs to the floor, then disappear. Once she was satisfied that he wasn't going to hurt himself, she turned back to me. "To answer your question, <em>someone</em> needs to be responsible in a crisis situation. Had you listened to me the first time, the trampoline would have been adequately reinforced. But instead, –"
+
+"Are you fucking kidding me!! If I'd –"
+
+"– your pride required you to do it yourself, when the <em>correct</em> choice was simply to stand aside and let the person with the needed abilities –"
+
+"If I'd gone along with <em>your</em> way, he'd be splatted on your stupid dome right now!!"
+
+"Did I not accept your alternative as soon as it was proposed?"
+
+I opened my mouth to yell another retort, but Yali's hand fell heavily on my shoulder. "It's okay. He was in less danger than you both realize. Since his injuries weren't inflicted with hostile intent, they only damaged his body, never his soul. And the body can recover from almost anything, through manifesting." When she said <em>hostile intent</em>, she said it like it was a special phrase with its own meaning.
+
+Justicar and I glared at each other silently. Before either of us thought of what to say next, we were interrupted by another voice. "Aww yesss, it's just like she said! Allllll manifested back together!!"
+
+We all turned to look. He was already helping himself up onto his knees. It was pretty freaky to see him completely intact, so soon after he'd been all smashed up.
+
+"Heyyy everybody! I'm Morrow! Morrow Monoë! Nice to meet'cha'll!" He jumped to his feet and hopped back-and-forth between one leg and another.
+
+"What the fuck," I said. "That leg was just broken!"
+
+"'Ow'm I gonna know it works if I don't try it??"
+
+I grinned. "I <em>like</em> this guy," I said to no one in particular.
+
+Justicar stepped forward. "If your body is whole again, that means you can tell us <em>what</em> you just did, and promise not to do anything like it again."
+
+"I was in space! It was great! It was so weightless I actually vomited! I vomited in space, can you believe that!!" Morrow pulled a huge sandwich out of thin air and chomped into it.
+
+"I asked, what did you <em>do</em> to –"
+
+"I think he used a rocket," I said. "Remember he had burns all over him?" Sure enough, over in the wreckage there was a bunch of torn-up junk that might have been a rocket back when it was in one piece.
+
+With one hand still holding the sandwich, Morrow waved dismissively with the other. Between bites, he mumbled, "I'll do a better one next time."
+
+"There won't <em>be</em> a next time," snapped Justicar. "I will not allow you to endanger yourself and others like that!"
+
+Morrow smiled tsuntingly. "You gonna stop me?"
+
+[????? This was great]. I couldn't resist watching Morrow take the piss out of her. She took herself so seriously, and he completely blew her off, it was great. Apparently Yali didn't think so, though, because she quickly stepped up to spoil the fun. "Before we all argue, at least we should introduce ourselves. I'm Yali, and –"
+
+"Yaliiiii! Nice't'meet'cha, wow, your mind is even better up close! I smelled it from space, but wow, that's a real emotional shell you've got there! Multi-layered and everything! I wonder what happens when it breaks??"
+
+For a moment, we were all stunned into silence.
+
+"You can smell people's minds??" I said, flabbergasted.
+
+Justicar sized him up, frowning. "An Imminent with powers of the mind? Be warned, if you defile the minds of anyone here, your life is forfeit."
+
+"Stern take it, do you threaten <em>everyone</em> you've just met?!" I exploded.
+
+Morrow was already responding in his own way. "Oh don't worry, <em>Officer</em>, I wouldn't touch <em>your</em> mind with a ten-foot pole! I mean, ewww!" He held his nose and theatrically leaned away from her.
+
+"I'm not a police officer," said Justicar stiffly.
+
+"Yeah, yeah, bet you're a judge or summin'."
+
+"I am not a –"
+
+"When I lower my shell," interrupted Yali coldly, "it will be on my own terms."
+
+"Yeah!" I yelled. "Don't try to mess with Yali, I'll fuck you up!"
+
+"Excuse me?" said Justicar. "What did you just say about threatening people?"
+
+"I said you threaten <em>everyone</em> you meet! You're two-for-two, I'm only one-for-two –"
+
+"At most, I would be two-for-<em>three</em>. I did not threaten the Farseer."
+
+"Oh you can shut right up about –"
+
+"<em>We can argue later!</em>" thundered Yali. "We haven't even all introduced ourselves yet!"
+
+"Very well." Justicar turned to Morrow stiffly. "You can call me Justicar."
+
+"And I'm Rinn." I would normally have said my full name, but Yali had only said her first name, so I didn't want to make her the odd one out.
+
+Morrow tossed his sandwich on the floor so he could shake my hand. "Rinn! Brilliant! Your mind is kick <em>ass</em>!"
+
+I grinned. "You seem pretty kickass yourself," I said. Then, because I didn't want him to get the wrong idea, I added, "I'm gay, by the way."
+
+"Brilliant! Betcha get all the girls!"
+
+"Haha, yeah, that's me – Yali's my girlfriend though." Even if she <em>said</em> it was okay for me to go for other people, it still <em>felt</em> like I wasn't supposed to talk like that.
 
 ''',
 },
