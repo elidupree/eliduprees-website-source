@@ -197,13 +197,13 @@ Morrow was already responding in his own way. "Oh don't worry, <em>Officer</em>,
 
 "I am not a –"
 
-"When I lower my shell," interrupted Yali coldly, "it will be on my own terms."
+"When I lower my shell," interrupted Yali firmly, "it will be on my own terms."
 
 "Yeah!" I yelled. "Don't try to mess with Yali, I'll fuck you up!"
 
 "Excuse me?" said Justicar. "What did you just say about threatening people?"
 
-"I said you threaten <em>everyone</em> you meet! You're two-for-two, I'm only one-for-two –"
+"Wh– I said you threaten <em>everyone</em> you meet! You're two-for-two, I'm only one-for-two –"
 
 "At most, I would be two-for-<em>three</em>. I did not threaten the Farseer."
 
@@ -222,6 +222,104 @@ I grinned. "You seem pretty kickass yourself," I said. Then, because I didn't wa
 "Brilliant! Betcha get all the girls!"
 
 "Haha, yeah, that's me – Yali's my girlfriend though." Even if she <em>said</em> it was okay for me to go for other people, it still <em>felt</em> like I wasn't supposed to talk like that.
+
+??????
+
+[Morrow eating something as part of a scene]
+
+"Hey, why do you eat so much?" I said. "You know we don't have to eat here, right?"
+
+"But I'm <em>huuungry!!</em> I'm always hungry, even when I've eaten –"
+
+"Wait, really? <em>I'm</em> not hungry, wait, can't you manifest yourself into not being hungry?" Curiously, I tried to manifest myself into <em>being</em> hungry. It worked.
+
+"It is probably because of his nature as the Imminent," said Justicar. "It is the nature of the Seeking God to perpetually want more, and never be satisfied. Thus, ?????"
+
+"That can't be right," I said. I didn't really have a <em>reason</em> to think it was wrong, but I couldn't stand Justicar being all <em>Well the Farseer would be like this and the Imminent would be like that</em> instead of listening to us as actual fucking people. So I scrambled to come up with a reason. "Hang on, if that was true, then all the old Imminents would have been hungry all the time too. Hey Yali, you have all those memories, so were they?"
+
+Yali froze up, not answering.
+
+"I did it!" yelled Morrow into the silence. "I manifested myself into not being hungry! But it's even worse, it's so tiring to stay like that, it's worse than just <em>being</em> hungr–"
+
+"No, Yali, what's up? You okay there?"
+
+"I, I, I –"
+
+"[????? The Farseer shouldn't spill every piece of knowledge, said Justicar]"
+
+Yali relaxed a bit.
+
+"Wait," I said, "so you <em>were</em> keeping it secret on purpose? But why would <em>this</em> piece of knowledge be a secret?"
+
+Justicar raised an eyebrow. "I suppose if all Imminents <em>were</em> hungry, she would have no reason not to tell us. So it follows that <em>not</em> all Imminents were hungry, and the difference would allow us to learn some sensitive information. Now…"
+
+"Justicar," said Yali harshly.
+
+"Yes?"
+
+The air was thick with tension. What was going on? Why had Yali suddenly turned ice-cold?
+
+Yali swallowed. Then she spoke slowly and deliberately, choosing each word with care. "You understand that I may have my own reasons to keep things hidden."
+
+"What of it?"
+
+"Then do not take knowledge from me that I have not willingly given to you."
+
+[????? Justicar's reaction]
+
+"I… apologize. I understand how I overstepped my bounds, and I will not do it again."
+
+"Thank you."
+
+?????
+
+[????? Summary of interactions with Morrow, leading up to complaining about Morrow overloading Rinn the same way Rinn overloaded Yali]
+
+[????? I almost cried laughing.] <em>Okay, universe, you get me fair and square.</em>
+
+?????
+
+[????? Morrow refers to the Alchemist as "he"]
+
+"Or she," I said. "Or –"
+
+"Sure maybe, but think about it! Right now we're three girls and one guy. So statistically, it'll probably be a dude."
+
+"That's not how statistics works," said Justicar stiffly.
+
+"Betcha Yali can tell us! I mean, we're gonna meet him in the future, right? And you can see the future! So you can see us meeting him, so you can see if he's a he!"
+
+"The power of the Farseer is not to be used frivolously!" said Justicar.
+
+"Hey! She can use it frivolously if she wants to!" I said. I turned to Yali. "So… do you want to?"
+
+"No," said Yali.
+
+"Okay that's it, case closed, the rest of you can fuck right off now."
+
+?????
+
+[????? Probably actually in chapter 8]
+
+"Can be rest of you stop manifesting for a while?" said Yali suddenly.
+
+"Sure, but why?" I said.
+
+"It's the Seeing. It's –"
+
+"Ooh! Ooh!" said Morrow. "Does it mess it up when he manifest? How does it work? Tell me!"
+
+"The truth is, even though it's called the Seeing," began Yali patiently, "it's not much like seeing with my eyes. It's more like, sort of… holding very still, to <em>listen</em> for the future. And your manifesting is very… noisy. So it's hard to hear anything past what you're about to manifest."
+
+"Oh! So – wait a minute, you just asked us to stop manifesting! So before that, you were <em>already</em> about to ask us to stop manifesting! So you shouldn't have seen us manifesting anything in the future! How does that make sense?!"
+
+"I think, I think, maybe it's about the fact that it was <em>my</em> decision? I mean, I didn't decide to tell you until after I saw it, so maybe, maybe…"
+
+"If the Farseer could reliably predict the results of the Farseer's own future decisions," Justicar cut in, "then what would happen if she foresaw a danger? Naturally, she would act to prevent the danger. But then the danger would never occur as she saw it. That would be a contradiction, so it follows that, <em>until</em> the Farseer has committed to a decision, she can still See the results of alternate decisions she could make." She looked to Yali. "Is that not so?"
+
+"Something like that, yes."
+
+
 
 ''',
 },
