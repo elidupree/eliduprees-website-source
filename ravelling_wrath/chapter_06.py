@@ -83,17 +83,17 @@ Yali smiled. "No, it's actually the stars themselves that move. You see… you s
 
 "What? But you <em>are</em> the Farseer."
 
-"It's about, it's about, how you think of me. Here…" Yali untangled herself from my arms and stepped back. She solemnly raised one hand and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
+"It's about, it's about, how you think of me. Here…" Yali pulled away from me. I reluctantly let her untangle herself from my arms and step back. Then she solemnly raised one hand and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
 
 I snickered. "Don't pretend like you're some kind of holy person," I said. It came out sounding a bit meaner than I'd intended it. Yali looked flustered. "Uh, I didn't mean that in a bad way."
 
-"Don't worry about it. It may be the Blood God influencing you."
+"Don't feel bad about it. It might be the Blood God influencing you."
 
 "Really? But it's not like I felt, like, angry, or anything. It's just silly that you were acting that way when you're obviously, like, not."
 
 "Hmm." Yali squinted. "Well, keep paying attention. Tell me if you feel anything you don't expect."
 
-"Yeah, yeah." I took her hand again. "Now tell me about how we're going to move the stars around."
+"Yeah, yeah." I sidled up and wrapped myself around her again. "Now tell me about how we're going to move the stars around."
 
 "Okay. Okay. For that, first, let's look at… over there…"
 
