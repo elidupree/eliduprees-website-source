@@ -349,9 +349,11 @@ I didn't even have words to say back. I [????? gratefully [but more spilling-you
 
 "Wait a minute. So you don't want me to hate on the Stern Temple around you. But the Waiting Temple is fair game?"
 
-"Yeah, why not? They're different temples." Yali squinted. "Actually, no. Please don't make fun of the Waiting Temple either."
+"Yeah, why not? They're different temples." That was a bit of an unusual thing to say. It was <em>technically</em> true, but to most people, the Stern and the Waiting were kind of just two different branches of <em>the people in charge of the city</em>. The Stern were more of the everyday throw-you-in-jail types, and the Waiting were more of a faraway authority handing down decrees about long-term projects for the city, but they were pretty much on the same side. And Stern preachers were always like <em>you must respect the Waiting</em>, too. When I was a kid, my parents had made me go to temple every week, it was so annoying. And that meant a Stern temple. I'd never actually <em>been</em> inside a Waiting temple – at least, not that I could remember. There weren't many around where I lived, and they were even more boring and old-fashioned.
 
-"What?"
+After a pause, Yali squinted. "Actually, no. Please don't make fun of the Waiting Temple either."
+
+"What?" I said.
 
 "The point is, <em>I've</em> noticed a difference. You haven't been giving me the benefit of the doubt as much, at least when it's about the Waiting God or its world. So I think we might be seeing the first part of the Blood God's influence. But…" She frowned. "This isn't how the Blood God is supposed to operate. It's supposed to be about anger, like, direct confrontation. Not about contempt, or… feeling like you're entitled to my help… I mean, this change has to be coming from the Blood God, but I don't understand."
 
