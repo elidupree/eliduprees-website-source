@@ -16,14 +16,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": '''
-
-This chapter contains:
-'''+ content_warning_header ('''<p></p>''')+'''
-
-<bigbreak>
-  
-<h2>Chapter 6: The Starry Void</h2>
+  "contents": chapter_start ("Chapter 6: The Starry Void", '''<p></p>''') +'''
 
 I quickly sat up and looked around.
 

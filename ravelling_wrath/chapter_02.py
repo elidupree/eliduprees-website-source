@@ -36,14 +36,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": '''
-
-This chapter contains:
-'''+ content_warning_header ('''<p>Description of anti-gay attitudes; verbally abusive language; brief mention of sexual assault.</p>''')+'''
-
-<bigbreak>
-  
-<h2>Chapter 2: The Plan</h2>
+  "contents": chapter_start ("Chapter 2: The Plan", '''<p>Description of anti-gay attitudes; verbally abusive language; brief mention of sexual assault.</p>''') +'''
 
 "This is your mind."
 

@@ -51,14 +51,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": '''
-
-This chapter contains:
-'''+ content_warning_header ('''<p>Brief description of a sexual assault, and details of a third-party's feelings about it.</p>''')+'''
-
-<bigbreak>
-  
-<h2>Chapter 5: Boundary Crossing</h2>
+  "contents": chapter_start ("Chapter 5: Boundary Crossing", '''<p>Brief description of a sexual assault, and details of a third-party's feelings about it.</p>''') + '''
 
 Yali was even more happy to take a break than I'd thought.
 

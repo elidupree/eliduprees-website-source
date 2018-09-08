@@ -1,7 +1,15 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+from post_contents_utils import *
+
 blurb = "A pair of teenagers get caught up in a conflict between the gods. (4 out of 20 chapters completed so far.)"
+
+def chapter_start (title, warnings = None):
+  return '''<h2>'''+ title +'''</h2>
+
+  '''+ ("" if warnings is None else content_warning_header (warnings))
+
 head = '''<style>
 
 .table_of_contents_chapter {
@@ -46,5 +54,8 @@ p.text.right {
 p.text.left {
   background-color: #e5e4e4;
   float: left;
+}
+.story_content_warning_header {
+  margin-top: 1.1em;
 }
   </style>'''

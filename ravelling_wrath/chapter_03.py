@@ -59,14 +59,7 @@ Finally an idea scraped out. It was rough, but I didn't have anything else, so i
 
   ''',
   "head":head,
-  "contents": '''
-
-This chapter contains:
-'''+ content_warning_header ('''<p>Verbally abusive language; brief descriptions of anti-gay attitudes, sexual harassment, and abusive relationships.</p>''')+'''
-
-<bigbreak>
-  
-<h2>Chapter 3: The Ordeal</h2>
+  "contents": chapter_start ("Chapter 3: The Ordeal", '''<p>Verbally abusive language; brief descriptions of anti-gay attitudes, sexual harassment, and abusive relationships.</p>''') +'''
 
 "Uuuuughhhh."
 

@@ -16,14 +16,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": '''
-
-This chapter contains:
-'''+ content_warning_header ('''<p></p>''')+'''
-
-<bigbreak>
-  
-<h2>Chapter 7: The Ravellers</h2>
+  "contents": chapter_start ("Chapter 7: The Ravellers", '''<p></p>''') +'''
 
 Now that I got a closer look at her, the Justicar wasn't <em>that</em> tall. She had only looked that way because she had been standing above me. Of course, pretty much everyone looks tall to <em>me</em>, but really, she was only about Yali's height.
 
