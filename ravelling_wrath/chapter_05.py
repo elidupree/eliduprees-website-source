@@ -15,7 +15,7 @@ posts = [
 
 <h2>On the discussion of sexual assault</h2>
 
-<p>I was very careful about how I wrote the scene where Rinn thinks about the rape, and I'm still not sure I handled it 100% correctly. I've heard a lot of stories be (rightly) criticized for overly focusing on a male character's feelings about a female character being raped, and I didn't want to repeat those problems here. Like a lot of those male characters, Rinn has a lot of overprotective rage that Yali explicitly does not want. I didn't want to just glamorize that. But that's also a real situation and a real feeling that a lot of people encounter in their lives. So I wanted to write a story that represents a <em>better</em> way of handling it. To show the reader that even when you feel rage, you can still respect the other person's agency and choices.</p>
+<p>I was very careful about how I wrote the scene where Rinn thinks about the rape, and I'm still not sure I handled it 100% correctly. I've heard a lot of stories be (rightly) criticized for overly focusing on a male character's feelings about a female character being raped, and I didn't want to have similar problems here. Like a lot of those male characters, Rinn has a lot of overprotective rage that Yali explicitly does not want. I didn't want to just glamorize that. But that's also a real situation and a real feeling that a lot of people encounter in their lives. So I wanted to write a story that represents a <em>better</em> way of handling it. To show the reader that even when you feel rage, you can still respect the other person's agency and choices.</p>
 
 <p>I also specifically made sure to have Rinn say "don't tell me someone raped you" instead of "don't tell me you were raped", and "must've had somebody do that to them" instead of "must've had that happen to them". I don't want to portray rape as something that just happens to people, because that downplays the role of the aggressor. Fortunately, this is consistent with Rinn's way of thinking – I didn't even have to tweak that way of thinking from how I've been developing it already! Rinn's a very active person, in the sense that ze almost always takes active roles rather than passive roles. That colors how ze thinks about other people, too. Rinn's first thought is always to focus on the aggressor's actions, rather than focusing on the suffering of person being hurt. That isn't <em>always</em> the best way to think about things, but it worked out well for this particular detail.</p>
 
@@ -37,7 +37,7 @@ posts = [
 
 <h2>What if Yali was trans?</h2>
 
-<p>With the line "I'd have to deal with something I'm not ready to deal with yet", you might also wonder if Yali might be trans, and hesitating about disclosing zir trans status. However, that's not the direction I'm going with it. There's already a lot of stories about trans characters with lots of trauma. When I write a trans character, I'd rather make a more encouraging portrayal.</p>
+<p>With the line "I'd have to deal with something I'm not ready to deal with yet", you might also wonder if Yali might be trans, and hesitating about disclosing zir trans status. However, that's not the direction I'm going with it. There's already a lot of stories about trans characters with lots of trauma. When I write a trans character, I'd rather make a more comforting portrayal.</p>
 
 <p>That said, feel free to headcanon that Yali is trans if you like! The story works just as well regardless of Yali's assigned gender. There's just a few things I would tweak if it was different. If Yali is transfeminine, then:</p>
 <ul>
@@ -62,7 +62,7 @@ This chapter contains:
 
 Yali was even more happy to take a break than I'd thought.
 
-"I wasn't going to make us work all the way up to Ravelling Week!" she exclaimed. "What would we be able to look forward to if it was just 'work, work, work', and then everything trying to kill us? We deserve some time to, to, to just be girlfriends! Like, to, to…"
+"I wasn't going to make us work all the way up to Ravelling Week!" she exclaimed. She was smiling, but a little exasperated. "What would we be able to look forward to if it was just 'work, work, work', and then everything trying to kill us? We deserve some time to, to, to just be girlfriends! Like, to, to…"
 
 "To enjoy ourselves?"
 
@@ -72,7 +72,7 @@ Yali was even more happy to take a break than I'd thought.
 
 "This!" Yali surged to her feet. She spun around in the middle of her living room and flexed her muscles. "It was hard work at first, but by the Stern, this is the best I've felt about my body in ages!"
 
-I took a good look at her. "Fuck yeah," I said. "You look ready to kick ass."
+I looked her up and down. "Fuck yeah," I said. "You look ready to kick ass."
 
 Yali smirked. "Fight me," she said.
 
@@ -86,7 +86,7 @@ I laughed, thinking she was joking. She gave me a weird look. "What are you laug
 
 "When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this... <em>physical.</em> We'd hug and kiss and stuff, but that was gentle, it just wasn't the same. But now… A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
 
-I jumped forward to meet her. We collided and grappled our way across the room, bumping into furniture as we went. She was good at it, too, I couldn't get the advantage of her easily. I stepped back and then lunged at her, trying to get her off balance, but she was as solid as a rock. Not expecting that, I made once wrong step and lost my footing. Then it was her turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
+I jumped forward to meet her. We collided and grappled our way across the room, bumping into furniture as we went. She was good at it, too, I couldn't get the advantage of her easily. I stepped back and then lunged at her, trying to get her off balance, but she was as solid as a rock. Not expecting that, I made one wrong step and lost my footing. Then it was her turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
 
 I gasped for breath. Yali was leaning into me, pinning me against the wall with her full weight. Her body rubbed against mine as I tried to squirm away, making my skin explode with feeling. Oh gods, this was turning me on! I heaved my body left and right, trying to get free, but all I managed to do was squish into her at different angles. She was squashing the air out of my lungs, too, I couldn't even breathe all the way.
 
@@ -104,7 +104,7 @@ Yali grinned from ear to ear. "This is great! I'm 90, I weigh <em>literally</em>
 
 "Uh…"
 
-"Ha ha, you'll never beat me! I lift twice your weight every morning before breakfast! Ha ha ha ha ha!" She grabbed me around the waist, lifted me into the air, and spun me around.
+Yali barked out with laughter. "Ha ha, you'll never beat me! I lift twice your weight every morning before breakfast! Ha ha ha ha ha!" She grabbed me around the waist, lifted me into the air, and spun me around.
 
 "Aaaaaah ha ha ha ha ha –"
 
@@ -158,7 +158,7 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Oh, the one with the fence around it?"
 
-I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. The fact that I was actually <em>grinning</em> was a little forced, but that <em>was</em> how I would've felt about it any other time.
+I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. The fact that I was <em>grinning</em> while telling the story was a little forced, but that <em>was</em> how I would've felt about it any other time.
 
 I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like 'easy peasy' and I did it. And the next time, they said to climb out on the big branch, so I did that too. And then they dared me to hang upside down from the big branch, so I did that, and so on and so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance a jig on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
 
@@ -174,7 +174,7 @@ Yali started giggling uncontrollably.
 
 "Uh, yeah? I mean it wasn't for very long." That only made her giggle harder. Eventually, she got herself under control and told me to keep going.
 
-"Okay. So I guess I didn't <em>actually</em> have the cast on forever, but it <em>felt</em> like forever, it was awful. So yeah, after that I didn't do <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again, just to prove I wasn't scared. And that's when I learned how to climb a fence, too."
+"Okay. So I guess I didn't <em>actually</em> have the cast on forever, but it <em>felt</em> like forever, it was awful. So yeah, after that I didn't do <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again. And that's when I learned how to climb a fence, too."
 
 I pulled up the leg of my pants. "Here," I said, "let me show you my scar from the fall!"
 
@@ -210,7 +210,9 @@ It wasn't until I was at home in my room, getting ready for bed, that it came ba
 
 Images sprang unwanted into my head. A much younger Yali, naked and scared. A strange man, holding her down. Forcing himself on her. Violating her.
 
-I felt like my head would split open. A chaos of feelings ripped through me. Disgust. Horror. And finally, rage, uncontrollable rage. I wanted to <em>murder</em> that man. I wanted to feel my fists sink into his flesh, to beat him and beat him until he was a bloody mess on the floor. [????? I wonder if this should have more explicit details of the violent fantasy, instead of this compromise with summary language. It might help my message work for audience members who have that kind of fantasies. But I also don't want to disturb the other part of my audience…]
+I felt like my head would split open. A chaos of feelings ripped through me. Disgust. Horror. And finally, rage, uncontrollable rage. I wanted to <em>murder</em> that man. I wanted to feel my fists sink into his flesh, to beat him and beat him until he was a bloody mess on the floor. Where was he now?! If I just knew where he was, I would make him pay for what he did! I'd go there tonight –!
+
+<em>They're in prison now.</em>
 
 I <em>knew</em> there was nothing I could do. I <em>knew</em> it was already over. But the images kept coming back, over and over, as if they were permanently stamped into my head. The man raping Yali. Me brutalizing the man. Every fresh image slammed into me with a crash of pain, of knowing that nothing I could do would change anything.
 
