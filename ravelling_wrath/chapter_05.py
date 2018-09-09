@@ -115,11 +115,11 @@ The energy drained out of her. "You want to have sex," she said neutrally.
 
 "If I didn't <em>want</em> to," echoed Yali, in a strange tone. It was subtle, but did she say it almost <em>bitterly</em>? "But I <em>do</em> want to. I want to <em>so</em> much. I have, I have, <em>wanted</em>, ever since I <em>saw</em> you."
 
-She was still cuddling up to me, she was still so warm, but something cold was gripping my heart. I didn't know what to think. "Uh, I thought you always said you wanted to take it slow, what do you mean…?"
+She was still cuddling up to me, she was still so warm, but something cold was gripping my heart. I didn't know what to think. "Uh, I thought you always said you wanted to take it slow, what do you mean…? You think it'd mess something up between us? For the Ravelling?" I guessed, hoping it was something that simple. But her face was like a stone wall. I could tell I was nowhere near the truth.
 
 "What I mean is, I mean, I, I, I," she took a breath. Her calm focus was back again. "I can't. I'd have to deal with something I'm not ready to deal with yet."
 
-What? What did she mean by that? A million possibilities ran through my head [????? question for reader: what are some first possibilities you think of, and should I have Rinn name them explicitly? Answer before you read further.], but none of them made sense. Was it, like, a medical issue? But Yali always took care of that stuff right away! How could she be "not ready", unless it was, like, if it wasn't a physical thing, like…
+What? What did she mean by that? A million possibilities ran through my head, but none of them made sense. Was it, like, a medical issue? But Yali always took care of that stuff right away! How could she be "not ready", unless it was, like, if it wasn't a physical thing, like…
 
 I blurted it out without thinking. "Don't tell me someone raped you!"
 
