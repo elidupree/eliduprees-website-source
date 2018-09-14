@@ -216,6 +216,12 @@ I grinned. "You seem pretty kickass yourself," I said. Then, because I didn't wa
 
 "Haha, yeah, that's me – Yali's my girlfriend though." Even if she <em>said</em> it was okay for me to go for other people, it still <em>felt</em> like I wasn't supposed to talk like that.
 
+?????
+
+Morrow was <em>fun</em>.
+
+
+
 ??????
 
 [Morrow eating something as part of a scene]

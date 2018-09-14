@@ -142,9 +142,24 @@ When she said "jump into anything", it made me think of physical jumping, and ho
 
 [????? Maybe Rinn enjoying watching Yali work, without actually paying attention to the screen]
 
+[????? I was frustrated that I put up with it because I knew she had a lot to figure out.] She had told me some of this back in the regular world. Besides just figuring out where we were going, it was also important to find the locations of the other Ravellers – especially the Alchemist.
+
+There were three other Ravellers in the Otherworld with us ?????
+
+First, there was the Imminent, with the Seeking God. Yali hadn't gone out of her way to tell me about previous Imminents, saying they didn't really have a big effect on the whole Blood Child/Farseer thing. But <em>I</em> had asked about them, because they got the coolest powers. They got a different random power every year – she'd told me about one who could turn invisible and walk through walls, one who could shapeshift into any animal, and one who could eat literally anything and absorb its properties. Of course, <em>this</em> year's Imminent wouldn't be able to do any of those things, because they never got the same power twice. ????? Usually, the Imminent did one of two things – either they'd ignore everyone else and run off to experiment with weird magic stuff, or they'd constantly provoke the other Ravellers, just to see what would happen.
+
+Then, there was the Justicar. The Justicar was the Stern God's champion, so it was pretty obvious what <em>they'd</em> be like. They'd probably act like they owned the place and try to make everyone else do what they told them to. Yali said the Justicar was a powerful war. So itrior, and usually tried to protect the Farseer from the Blood Child. So it was going to be interesting to see how <em>that</em> would turn out. Not that I was looking forward to it.
+
+And finally, there was the Alchemist. The Alchemist was a big mystery, just like the Broken God in general. Even the way Yali had described them was pretty mysterious. First, she'd said that the Alchemist often had a pivotal role, setting the whole direction of the Ravelling. But when I asked her what they actually <em>did</em> to "set the direction of the Ravelling", she had said they didn't necessarily <em>do</em> anything at all. I couldn't get a straight answer out of her.
+
+Either way, though, Yali was convinced that the Alchemist was important. And the other special thing about the Alchemist was that the Broken God didn't give the Alchemist any knowledge or sense of purpose at all. The rest of the gods did that – according to Yali, if I hadn't already known I was the Blood Child, I would still have known immediately as soon as I was pulled into the Otherworld. And I'd have been ready to go do Ravelling stuff, too – the god would somehow make it so I wouldn't get shaken up from being pulled out of my regular life. But each Alchemist just got thrown into the Otherworld unprepared, like a regular human.
+
+So the sooner we found the Alchemist, the sooner we could help them deal with the transition. And for whatever weird, Broken-God importance the Alchemist had, Yali wanted them to hear our side of the story first, rather than getting their introduction from the Justicar or the Imminent.
+
+
 ?????
 
-Apparently the "star" we were standing on was already moving at a zillion kilometers per second, we just couldn't tell because, first, we were standing on it, and second, the rest of the stars were even more zillions of kilometers away. But they were all moving in some sort of ridiculously complex pattern. And every so often, two stars would meet up with each other while they were moving at the same speed, and then you could walk from one of them to the other. Even though we were supposedly "navigating through the stars", we didn't actually control how the stars were moving at all. All we could do was choose which one to stand on when they met up with each other. So once Yali figured out what star we should be moving to next, all we'd have to do was wait.
+Apparently the "star" we were standing on was already moving at a zillion kilometers per second, we just couldn't tell because, first, we were standing on it, and second, the rest of the stars were even more zillions of kilometers away. But they were all moving in some sort of ridiculously complex pattern. And every so often, two stars would meet up with each other while they were moving at the same speed, and then you could walk from one of them to the other. Even though we were supposedly "navigating through the stars", we didn't actually control how the stars were moving at all. All we could do was choose which one to stand on when they met up with each other. So once Yali figured out what star we should transfer to next, all we'd have to do was wait.
 
 <em>Wait.</em> I was already getting sick of that word.
 
@@ -166,7 +181,7 @@ Yali gave an embarrassed smile. "I thought I'd try manifesting. The first thing 
 
 Yali flinched.
 
-"You okay there?" I said, moving towards her. She frantically backed away from me, a terrified expression on her face. What was she looking at? I followed her gaze, and that's when I noticed what I was holding in my hand.
+"You okay there?" I said, moving towards her. She frantically backed away from me, a panicked expression on her face. What was she looking at? I followed her gaze, and that's when I noticed what I was holding in my hand.
 
 It was a blade of the length of my forearm, black and glistening. Instinctively, it felt like an extra part of my arm. Like a claw ready to reach out and tear the world apart.
 
@@ -188,7 +203,7 @@ I tried a lot more things with the Blood Blades before moving on. I could manife
 
 "Rinn…" said Yali hesitantly after I made a few more cuts. "Maybe don't destroy the <em>entire</em> table? You're getting close to the computer stuff."
 
-"Oh. Uh, right, of course. I mean, I was about to stop anyway," I lied. "Let me manifest some normal stuff now. Catch!" I made a ball appear in my hand and threw it to her. ?????
+"Oh. Uh, right, of course. I mean, I was about to stop anyway," I lied. "I'll just manifest some normal stuff now. Catch!" I made a ball appear in my hand and threw it to her. ?????
 
 "I can make anything I want. Nothing costs money <em>here</em>!" I made a sienkah fruit in each hand and chomped into them greedily, letting the juices drip down my chin. Out of the corner of my eye, I caught Yali smiling at that. So I made a show of it, making an absolute feast and eating as messily as I could. ????? From how she was looking at me, I could tell she was totally into it. So I swaggered up to her and, with bits of food still smeared all over my face, kissed her right on the mouth.
 
@@ -208,9 +223,11 @@ A few minutes later, I noticed her muttering to herself. "We, we…" I looked up
 
 She shook her head again. "It's, it's easier this way."
 
-Stern take it all. <em>Are you going to hold back this entire time?</em> I thought. I didn't say it out loud, though, because that would just make her more stressed.
+Stern take it all. <em>Are you going to hold back this entire time?</em> I thought. I didn't say it out loud, though, because that would just make her clam up about it more.
 
 ????
+
+
 
 [alchemist: here?]
 
