@@ -21,9 +21,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": '''
-  
-<h2>Chapter 4: The Releasing Game</h2>
+  "contents": chapter_start ("Chapter 4: The Releasing Game") + '''
 
 "The first one is the Releasing Game…" she'd said.
 
