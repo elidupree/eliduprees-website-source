@@ -225,6 +225,28 @@ She shook her head again. "It's, it's easier this way."
 
 Stern take it all. <em>Are you going to hold back this entire time?</em> I thought. I didn't say it out loud, though, because that would just make her clam up about it more.
 
+<bigbreak>
+
+After floating in empty space for hours, I was excited for our first encounter with another star star. Right on schedule, one of the distant stars started moving slowly across the sky, then quicker and quicker. Over the next few minutes, it got bigger and bigger, until it was finally close enough for me to see that it really was another platform just like ours.
+
+The other platform glided toward us with a wide, sweeping movement, and I briefly worried that we'd crash. But then it slowed down and gently came to a stop exactly next to our own platform. The very edges of the circles were just barely touching each other, and they'd settled into place without a sound. It was actually pretty amazing.
+
+The novelty wore off almost immediately. The other star was literally <em>exactly</em> like ours. Same computer, same telescope, everything. The only difference was that the other table didn't have any chunks cut out of it. Well, <em>that</em> was no good. I stepped across to take care of it.
+
+"This isn't the one we're going to move to," said Yali.
+
+"Yeah, yeah. You said it'll be like half an hour before they separate again, though, right?"
+
+"Yes."
+
+"And we're never going to see this one again after that?"
+
+"Yes…"
+
+I grinned. I strode up to the computer on the other platform, manifested a Blood Blade high over my head, and smashed it down through the middle of the screen.
+
+
+
 ????
 
 
@@ -357,7 +379,7 @@ I didn't even have words to say back. I [????? gratefully [but more spilling-you
 
 "That's what I thought… Whenever it's about <em>me</em>, you find a way to interpret it in a positive way. But that time, you didn't." She paused. "Not that I mind if you hate the Waiting Temple. I'm only pointing it out."
 
-"Wait a minute. So you don't want me to hate on the Stern Temple around you. But the Waiting Temple is fair game?"
+"Wait a minute. So you didn't want me to hate on the Stern Temple around you. But the Waiting Temple is fair game?"
 
 "Yeah, why not? They're different temples." That was a bit of an unusual thing to say. It was <em>technically</em> true, but to most people, the Stern and the Waiting were kind of just two different branches of <em>the people in charge of the city</em>. The Stern were more of the everyday throw-you-in-jail types, and the Waiting were more of a faraway authority handing down decrees about long-term projects for the city, but they were pretty much on the same side. And Stern preachers were always like <em>you must respect the Waiting</em>, too. When I was a kid, my parents had made me go to temple every week, it was so annoying. And that meant a Stern temple. I'd never actually <em>been</em> inside a Waiting temple – at least, not that I could remember. There weren't many around where I lived, and they were even more boring and old-fashioned.
 
