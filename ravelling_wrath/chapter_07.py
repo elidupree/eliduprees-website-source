@@ -270,6 +270,10 @@ Yali swallowed. Then she spoke slowly and deliberately, choosing each word with 
 
 "Thank you."
 
+"So <em>that</em> was awkward," I said. "Hey, Morrow –"
+
+"I TRIED it!" said Morrow sourly. "But it's so much WORK! I'd rather just be hungry."
+
 ?????
 
 [????? Summary of interactions with Morrow, leading up to complaining about Morrow overloading Rinn the same way Rinn overloaded Yali]
