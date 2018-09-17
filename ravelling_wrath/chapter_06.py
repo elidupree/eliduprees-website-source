@@ -50,7 +50,7 @@ Yali gently pushed me away. "Why don't you take a look around? I'll be up in a m
 
 "Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff. Well, first, I pulled off the hoodie Yali gave me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. Now in just my shirt, I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
 
-With that done, I took a proper look at everything. We were on the middle of a smooth, translucent white platform, a circle about 20 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
+With that done, I took a proper look at everything. We were on the middle of a smooth, translucent white platform, a circle about 15 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
 
 I couldn't even see anything else over the edges of the platform. I carefully knelt down at the edge and looked over… and saw <em>more</em> stars stretching out endlessly below us.
 
@@ -117,6 +117,8 @@ It didn't. When I started messing around on the computer, I didn't recognize any
 "The Waiting God values patience, foresight, and planning. So everything in this world is built to require those things. To navigate through the stars, we have to examine them using the telescope. To learn how to use the telescope, we have to study the Codex. To study the Codex, we have to, to… to figure out how the programs work, I guess. But if you jump into anything without thinking about what you're doing, you won't get anywhere."
 
 When she said "jump into anything", it made me think of physical jumping, and how I'd almost fallen over the first time I'd jumped up after I got here. Because the floor was slippery… "Oh for fuck's sake, even the <em>floor</em> needs planning?!" I glared and stomped on the floor, but it didn't react. Not sure what I was expecting.
+
+<bigbreak>
 
 ?????
 
@@ -225,6 +227,28 @@ She shook her head again. "It's, it's easier this way."
 
 Stern take it all. <em>Are you going to hold back this entire time?</em> I thought. I didn't say it out loud, though, because that would just make her clam up about it more.
 
+<bigbreak>
+
+After floating in empty space for hours, I was excited for our first encounter with another star star. Right on schedule, one of the distant stars started moving slowly across the sky, then quicker and quicker. Over the next few minutes, it got bigger and bigger, until it was finally close enough for me to see that it really was another platform just like ours.
+
+The other platform glided toward us with a wide, sweeping movement, and I briefly worried that we'd crash. But then it slowed down and gently came to a stop exactly next to our own platform. The very edges of the circles were just barely touching each other, and they'd settled into place without a sound. It was actually pretty amazing.
+
+The novelty wore off almost immediately. The other star was literally <em>exactly</em> like ours. Same computer, same telescope, everything. The only difference was that the other table didn't have any chunks cut out of it. Well, <em>that</em> was no good. I stepped across to take care of it.
+
+"This isn't the one we're going to move to," said Yali.
+
+"Yeah, yeah. You said it'll be like half an hour before they separate again, though, right?"
+
+"Yes."
+
+"And we're never going to see this one again after that? And there's lots more like it?"
+
+"Yes…"
+
+I grinned. I strode up to the computer on the other platform, manifested a Blood Blade, raised it high over my head, and smashed it down through the middle of the screen. "Aww yeah! I've been wanting to do this!" I completely trashed the place, chopping the computer and the telescope into little pieces.
+
+
+
 ????
 
 
@@ -238,7 +262,35 @@ Stern take it all. <em>Are you going to hold back this entire time?</em> I thoug
 
 ????
 
-[Sleeping? Charging cell phone?]
+<bigbreak>
+
+Sleeping in the Otherworld was kind of strange.
+
+Yali had decided to settle down for the night long before I would have. She started painstakingly manifesting a bed that was only just big enough for her to sleep in.
+
+"Why such a small bed?" I asked.
+
+"It's hard work manifesting something so big."
+
+"It is?" I held out my hands and manifested a GIGANTIC bed, deep and fluffy, complete with pillows the size of my body. Then I dived onto it and rolled around blissfully. "There ya go. No need to thank me," I said smugly.
+
+"Thanks. The Blood Child <em>would</em> have powerful manifesting…" Yali muttered. She slowly lowered herself onto the bed with me. "Wow. I'm not going to want to get up from this."
+
+I had still had plenty of energy, but now that I was lying down, sleeping felt like a great idea too. I cuddled up to Yali and closed my eyes. And that's when the problems started.
+
+"You keep elbowing me," said Yali a few minutes later.
+
+"I'm just shifting around!"
+
+"It sure felt like elbowing to me."
+
+"Okay, I'll be careful!"
+
+A few minutes of being careful later, Yali said, "This isn't really helping."
+
+"Look, I'm trying!!"
+
+"No, I mean, I… I've never actually slept in the same bed with someone else before. I don't think I'll be able to get to sleep this way."
 
 ????
 
@@ -357,7 +409,7 @@ I didn't even have words to say back. I [????? gratefully [but more spilling-you
 
 "That's what I thought… Whenever it's about <em>me</em>, you find a way to interpret it in a positive way. But that time, you didn't." She paused. "Not that I mind if you hate the Waiting Temple. I'm only pointing it out."
 
-"Wait a minute. So you don't want me to hate on the Stern Temple around you. But the Waiting Temple is fair game?"
+"Wait a minute. So you didn't want me to hate on the Stern Temple around you. But the Waiting Temple is fair game?"
 
 "Yeah, why not? They're different temples." That was a bit of an unusual thing to say. It was <em>technically</em> true, but to most people, the Stern and the Waiting were kind of just two different branches of <em>the people in charge of the city</em>. The Stern were more of the everyday throw-you-in-jail types, and the Waiting were more of a faraway authority handing down decrees about long-term projects for the city, but they were pretty much on the same side. And Stern preachers were always like <em>you must respect the Waiting</em>, too. When I was a kid, my parents had made me go to temple every week, it was so annoying. And that meant a Stern temple. I'd never actually <em>been</em> inside a Waiting temple – at least, not that I could remember. There weren't many around where I lived, and they were even more boring and old-fashioned.
 

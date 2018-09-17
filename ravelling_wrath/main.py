@@ -8,6 +8,7 @@ import ravelling_wrath.chapter_04
 import ravelling_wrath.chapter_05
 import ravelling_wrath.chapter_06
 import ravelling_wrath.chapter_07
+import ravelling_wrath.chapter_08
 import ravelling_wrath.definitions
 
 blurb = ravelling_wrath.definitions.blurb
@@ -24,4 +25,5 @@ posts = flatten([
   ravelling_wrath.chapter_05.posts,
   ravelling_wrath.chapter_06.posts,
   ravelling_wrath.chapter_07.posts,
+  ravelling_wrath.chapter_08.posts,
 ])
