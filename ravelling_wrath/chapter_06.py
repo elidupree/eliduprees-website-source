@@ -211,13 +211,15 @@ Yali examined the blade gingerly, without touching it. "Amazing. I've never gott
 
 "Yeah, it kind of felt like that. Let me just try –" Experimentally, I reached out with the side of the blade and tapped the table with it. Sure enough, I could feel the table like I was touching it. "Wow, I thought it would feel really weird, but it doesn't feel weird at all. That's so weird."
 
-I tried a lot more things with the Blood Blades before moving on. I could manifest more than one of them at a time, and I could make them bigger or smaller, or change their shape a little, just by wanting to. And they wouldn't cut anything unless I wanted to cut it – but if I <em>did</em> want to cut something, <em>oooooh boy</em> were they good at it. I shredded off a corner of the table in one swing. It wasn't a clean cut, but it sure did have a satisfying thud and ripping feeling. So I did it again.
+I immediately tried a lot more things with the Blood Blades. I could manifest more than one of them at a time, and I could make them bigger or smaller, or change their shape a little, just by wanting to. And they wouldn't cut anything unless I wanted to cut it – but if I <em>did</em> want to cut something, <em>oooooh boy</em> were they good at it. I shredded off a corner of the table in one swing. It wasn't a clean cut, but it sure did have a satisfying thud and ripping feeling. So I did it again.
 
 "Rinn…" said Yali hesitantly after I made a few more cuts. "Maybe don't destroy the <em>entire</em> table? You're getting close to the computer stuff."
 
-"Oh. Uh, right, of course. I mean, I was about to stop anyway," I lied transparently. "I'll just manifest some normal stuff now. Catch!" I made a ball appear in my hand and threw it to her. ?????
+"Oh. Uh, right, of course. I mean, I was about to stop anyway," I lied transparently. "I'll just manifest some normal stuff now. Catch!" I made a ball appear in my hand and threw it to her. Yali tried to catch the ball, but she reacted a bit too late and knocked it off into the distance instead. "Uh, sorry!" I said.
 
-"I can make anything I want. Nothing costs money <em>here</em>!" I made a sienkah fruit in each hand and chomped into them greedily, letting the juices drip down my chin. Out of the corner of my eye, I caught Yali smiling at that. So I made a show of it, making an absolute feast and eating as messily as I could. ????? From how she was looking at me, I could tell she was totally into it. So I swaggered up to her and, with bits of food still smeared all over my face, kissed her right on the mouth.
+"No, no, do it again! I'm ready now." We played catch for a little while. With the slippery floor, it was impossible to run after a ball when we missed it, so a lot of them just ended up rolling off the edge of the platform. But every time we lost a ball, I just made a new, different one.
+
+"So…" I said, "We can really make anything we can think of? Like…" I stuck out my hand as if I was pulling back a chair, and a solid gold throne shimmered into existence. I slouched on the throne theatrically. The gold was actually kind of hard and uncomfortable, but I wasn't going to let that get in the way of anything. Next, I made a sienkah fruit in each hand and chomped into them greedily, letting the juices drip down my chin. Out of the corner of my eye, I caught Yali smiling at that. So I made a show of it, making an absolute feast and eating as messily as I could. Pretty soon I was stuffed, had smears all over my face and sticky crumbs down my shirt. From how she was looking at me, I could tell she was totally into it. So I swaggered up to her and, with bits of food still smeared all over my face, kissed her right on the mouth.
 
 That didn't go over quite as well. She sort of stiffened up and pulled back. Then she concentrated for a moment, and the smears disappeared from her.
 
@@ -237,9 +239,23 @@ She shook her head again. "It's, it's easier this way."
 
 Stern take it all. <em>Are you going to hold back this entire time?</em> I thought. I didn't say it out loud, though, because that would just make her clam up about it more.
 
+I went back to experimenting with manifesting. There were all kinds of things I do with it. It wasn't just limited to making things in my <em>hands</em>. I could make a hat right on top of my head. I could change my hairstyle and color whenever I wanted. I could jump and manifest a skateboard under my feet while I was in midair.
+
+I could <em>also</em> use manifesting to make my bruises go away after I landed on my ass. 
+
+Not <em>everything</em> was possible. For instance, I generally couldn't manifest things that didn't exist. Yali said we could technically only manifest things that were <em>imprinted</em> on our souls. Whenever you touched a physical object, it automatically made an imprint on your soul, especially if you were interested in it. Then you could use the imprint to manifest a copy of it later. You could also manifest complex things if you knew how to make them out of smaller parts you had imprinted. Like my golden throne – I had probably imprinted gold from somebody's ring, and I knew what a chair was shaped like.
+
+But if you touched something that had its <em>own</em> soul, the other soul stopped you from imprinting its physical body. You could make a soul-level connection with another person (or a plant or animal), it just wasn't the same thing as imprinting. That was why we couldn't manifest anything that was alive, even though I could manifest food, which was technically stuff that <em>used</em> to be alive. After something died, its soul slowly left its body, so you could eventually imprint it again.
+
+That would mean I could manifest corpses, I guess. Curiously, I tried out manifesting a dead bird I had picked up in the yard when I was a little kid. It worked. Then I realized that I was holding a dead bird in my hand. It hadn't bothered me when I was a kid, but for some reason, this time it was really disturbing to be holding something dead. I flinched and made it disappear.
+
+That was another thing we could do. We could <em>unmanifest</em> anything we manifested, just by wanting it to go away. I had done that subconsciously the first time I made a Blood Blade. Things wouldn't disappear just because you forgot about them, but if you specifically <em>wanted</em> them to disappear, they would.
+
+And the Blood Blades… they were still the easiest thing for me to manifest. Not that other things were hard, but I could basically grab a Blood Blade out of thin air and cut something with it in one smooth motion, without having to think about what I was doing first.
+
 <bigbreak>
 
-After floating in empty space for hours, I was excited for our first encounter with another star star. Right on schedule, one of the distant stars started moving slowly across the sky, then quicker and quicker. Over the next few minutes, it got bigger and bigger, until it was finally close enough for me to see that it really was another platform just like ours.
+After floating in empty space for hours, I was excited for our first encounter with another star. Right on schedule, one of the distant stars started moving slowly across the sky, then quicker and quicker. Over the next few minutes, it got bigger and bigger, until it was finally close enough for me to see that it really was another platform just like ours.
 
 The other platform glided toward us with a wide, sweeping movement, and I briefly worried that we'd crash. But then it slowed down and gently came to a stop exactly next to our own platform. The very edges of the circles were just barely touching each other, and they'd settled into place without a sound. It was actually pretty amazing.
 
@@ -255,8 +271,7 @@ The novelty wore off almost immediately. The other star was literally <em>exactl
 
 "Yes…"
 
-I grinned. I strode up to the computer on the other platform, manifested a Blood Blade, raised it high over my head, and smashed it down through the middle of the screen. "Aww yeah! I've been wanting to do this!" I completely trashed the place, chopping the computer and the telescope into little pieces.
-
+I grinned. I strode up to the computer on the other platform, grabbed a Blood Blade high over my head, and smashed it down through the middle of the screen. "Aww yeah! I've been wanting to do this!" I completely trashed the place, chopping the computer and the telescope into little pieces. I knew it wouldn't change anything, but that computer had really pissed me off.
 
 ????
 
