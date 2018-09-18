@@ -120,9 +120,8 @@ When she said "jump into anything", it made me think of physical jumping, and ho
 
 <bigbreak>
 
-?????
 
-"– whereas in a 3-α cluster, the channels are similar, but the chirality is reversed. Thus, within a 3-α, sign echoes propagate in a clockwise direction (when viewed from the direction of the root – although here, "the root" may refer to the root of an ancestor cluster, if the 3-α is poly?????ic) rather than counterclockwise. Take caution: because of this unusual chirality, the presence of a 3-α greatly increases the chance of echo propagation that exceeds the usual bounds, meaning that observed signs may reflect the signs of a star multiple clusters away. Fortunately, this is limited to the case of –"
+<p><q>– whereas in a 3-α cluster, the channels are similar, but the chirality is reversed. Thus, within a 3-α, marker signals propagate in a clockwise direction (when viewed from the direction of the root – although here, "the root" may refer to the root of an ancestor cluster, if the 3-α is polyastretic) rather than counterclockwise. Take note: because of this abnormal chirality, the presence of a 3-α greatly increases the chance of signal propagation that exceeds the usual bounds, meaning that signals observed in this area may reflect the properties of a star multiple clusters away. Fortunately, this is limited to the case of –</q></p>
 
 "This doesn't say <em>shit</em> about how to use a telescope," I said.
 
@@ -132,7 +131,7 @@ When she said "jump into anything", it made me think of physical jumping, and ho
 
 "Maybe there's another name for the telescope. We should think about –"
 
-"If you're so smart, why don't <em>you</em> figure it out?" I shoved myself away from the desk and stood up, letting Yali sit down in my place. She adjusted the chair until she was comfortable, then focused in on the screen.
+"If you're so smart, why don't <em>you</em> figure it out?" I shoved myself away from the desk and stood up, waving for Yali to sit down in my place. She hesitated a little, but then nodded and sat down. She adjusted the chair until she was comfortable, then focused in on the screen.
 
 It looked like things were going to take a while. "Hey, how about you use your Seeing?" I said. "Look in the future and tell us how we figure it all out."
 
@@ -170,7 +169,7 @@ After what seemed like hours, Yali finally looked away from the screen. Then she
 
 "I haven't figured out everything," she said. "But I've figured out enough to know that we won't miss anything if we take a break for today."
 
-"Thank the fucking gods," I said.
+"Thank the fucking gods," I said. "So what's the deal? I mean, don't tell me the whole thing, obviously. Just give me, like, the cheat sheet."
 
 Yali explained a few things. Apparently the "star" we were standing on was already moving at a zillion kilometers per second, we just couldn't tell because, first, we were standing on it, and second, the rest of the stars were even more zillions of kilometers away. But they were all moving in some sort of ridiculously complex pattern. And every so often, two stars would meet up with each other while they were moving at the same speed, and then you could walk from one of them to the other. Even though we were supposedly "navigating" through the stars, we didn't actually have any control of how the star we were standing on moved. All we could do was choose which one to stand on when they met up with each other. So once Yali figured out what star we should transfer to next, all we'd have to do was wait.
 
