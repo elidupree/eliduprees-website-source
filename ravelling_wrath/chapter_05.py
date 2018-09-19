@@ -38,11 +38,10 @@ posts = [
 
 <p>With the line "I'd have to deal with something I'm not ready to deal with yet", you might also wonder if Yali might be trans, and hesitating about disclosing zir trans status. However, that's not the direction I'm going with it. There's already a lot of stories about trans characters with lots of trauma. When I write a trans character, I'd rather make a more comforting portrayal.</p>
 
-<p>That said, feel free to headcanon that Yali is trans if you like! The story works just as well regardless of Yali's assigned gender. There's just a few things I would tweak if it was different. If Yali is transfeminine, then:</p>
+<p>That said, feel free to headcanon that Yali is trans if you like! The story works just as well regardless of Yali's assigned gender. There's just a few things I would clarify if it was different. If Yali is transfeminine, then:</p>
 <ul>
 <li>Yali thought it was important to tell Rinn about that. So, the same time ze used the Seeing to determine whether Rinn would say yes to a date, ze also checked how Rinn would react to zem disclosing zir trans status.</li>
 <li>Rinn thinks that trans people are kickass, because fuck the rules. So Rinn already knows, because Yali told zem about it right away.</li>
-<li>Yali's childhood friend, who will be mentioned later in the story, is definitely female. (I'm currently planning to have that character be male.)</li>
 <li>Yali knew ze was female from a very young age. All zir caregivers accepted that part of zem, at least most of the time. (I can't give too many details here because of spoilers, but those relationships can be mostly the same regardless of gender stuff.)</li>
 </ul>
 
