@@ -56,6 +56,7 @@ posts = [
 +contents_link("/ravelling-wrath/2", "Chapter 2: The Plan")
 +contents_link("/ravelling-wrath/3", "Chapter 3: The Ordeal")
 +contents_link("/ravelling-wrath/4", "Chapter 4: The Releasing Game")
++contents_link("/ravelling-wrath/5", "Chapter 5: Boundary Crossing")
 +
 '''
 <div class="table_of_contents_remaining">To be continued...</div>

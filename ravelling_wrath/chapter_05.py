@@ -10,7 +10,6 @@ posts = [
   "title":"Ravelling Wrath, chapter 5",
   "blurb": blurb,
   "auto_paragraphs": True,
-  "don't deploy": True,
   "authors_notes":'''
 
 <h2>On the discussion of sexual assault</h2>
