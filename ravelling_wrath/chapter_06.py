@@ -419,7 +419,7 @@ That's when I noticed the look on her face. It was subtle, but I'd seen a lot of
 
 Something knotted up in my stomach, like maybe I'd gone too far. But I couldn't just leave it like this! I took half a step back and said, "Hey, uh, you've gotta work with me here, alright? Just, uh –" She still had that frozen look. I stepped back further. "Come on, you know I'm not going to hurt you! You can stop looking like that!" She didn't react. I held up my hands placatingly. "Look, I'm going to leave now, okay? Then you won't have to talk to me or anything. So that's good, right?!"
 
-I wasn't even sure if I was being bitter or just saying whatever came into my head. Anyway, I clearly wasn't getting any sort of response from her. With nothing else to do, I dashed off side of the platform and fell around to the underside.
+I wasn't even sure if I was being bitter or just saying whatever came into my head. Anyway, I clearly wasn't getting any sort of response from her. Just seeing her like this was tearing me up inside. I couldn't think of anything else to do, so I followed through with what I said, dashed off the side of the platform and fell around to the underside.
 
 It wasn't much for privacy, but at least we couldn't see each other directly. My head was pounding. I just wanted to get away from everything. If only there was somewhere around here to go for a long run, to blow off all this excess energy. But all I had was this tiny platform, with nowhere to really move around at all.
 
@@ -427,7 +427,7 @@ I needed <em>something</em>. With my stomach in a knot, I stuck my hands out in 
 
 Raging, I started "walking" on the treadmill anyway. Since it wasn't on, it was more like just shoving the belt with my legs over and over. But at least it was a workout. Shove. Shove. Shove.
 
-After a few dozen angry steps, my muscles started warming up. Another few dozen, my head started to clear. The angry, bitter thoughts stopped pounding so hard. I had room to think again.
+After a few dozen angry steps, my muscles started warming up. Another few dozen, my head started to clear. The angry, bitter thoughts were pounding a little less hard. I had room to think again.
 
 Yali…
 
@@ -443,46 +443,47 @@ A sick feeling drilled into the pit of my stomach. That couldn't be right, could
 
 I had made her afraid of me.
 
-I felt like I was going to throw up. My hands tingled and my legs shook. I kept shoving my feet into the treadmill harder and harder, as if walking hard enough would change what happened. How could I have DONE that?? Why couldn't I have just LISTENED to her??!! So many feelings were crushing me from all sides. Loneliness. Guilt. Fear. Nausea. Helplessness. Self-pity. I doubled over, slumping my full weight against the handle of the treadmill. An uncontrollable sob tore out of me. I was barely holding myself up. My tears splattered unrestrained on the floor.
+I felt like I was going to throw up. My hands tingled and my legs shook. I kept shoving my feet into the treadmill harder and harder, as if walking hard enough would change what happened. How could I have DONE that?? Why couldn't I have just LISTENED to her??!! So many feelings were crushing me from all sides. Loneliness. Guilt. Fear. Nausea. Helplessness. Self-pity. I doubled over, slumping my full weight against the handle of the treadmill. An uncontrollable sob tore out of me. I was barely holding myself up. My tears splattered freely on the floor.
 
-I don't know how long I stayed like that. Wave after wave of [????? feeling] [????? verbed me]. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, intending to un-manifest the treadmill and make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering [????? distance] up in the air. As soon as I moved, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
+I don't know how long I stayed like that. Wave after wave of emotion slammed into me. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, intending to un-manifest the treadmill and then make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering half a meter up in the air. As soon as I moved, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
 
-I couldn't even bring myself to get up again. I just made a heavy blanket over me and curled up inside it. Parts of me were still lying directly on the floor, but if I wanted to get more comfortable, I'd have had to lift myself up at all, and that was just too much to even think about. I lay that way for a long time, not quite resting. It was half comfort, half pain.
+I couldn't even bring myself to get up again. I just made a heavy blanket over me and curled up inside it. Parts of me were still lying directly on the floor, but if I wanted to get more comfortable, I'd have had to lift myself up at all. Was just too much to even think about. I lay that way for a long time, not quite resting. It was half comfort, half pain.
 
 I should go apologize to her, I said to myself. I could just run back to the other side and tell her I knew I fucked up and beg for her forgiveness. What was I waiting for?! I should have done that as soon as I realized! But… what would that even mean to her? Would that make her feel better? Or would I just be pushing more talking on her when she wasn't ready for it?
 
 My muscles made the decision for me. I wasn't going anywhere, not anytime soon.
 
-There was no way to tell time in this world, and I [????? didn't check my phone]. After an eternity, I found myself drifting off, flickering in and out of the [????? noun that passed for sleep here].
+An eternity went by. There was no way to tell time here. I could have checked my phone, but it was the farthest thing from my mind. I found myself drifting off, flickering in and out of the idleness that we had instead of sleep here.
 
-A voice shocked me out of [????? that], [????? warbling] from under the floor.
+A voice shocked me awake, echoing from under the floor.
 
 "Rinn. I can talk now."
 
-[????? Oh my gods, Yali was going to be judging me so hard]
+Oh gods. Oh gods. I was going to have to face her again. She was going to hate me.
 
-?????
-
-I let myself collapse onto my hands and knees in front of her. "I'm sorry, I'm so so so sorry, I should never have done that, I –"
+I clambered to my feet, shaking off my blanket and stumbling around to the topside where Yali was. I let myself collapse onto my hands and knees in front of her. "I'm sorry, I'm so so so sorry, I should never have done that, I –"
 
 Yali covered my mouth. "Rinn. Rinn." Her voice was low and soothing. "It's okay. We can work things out."
 
 I didn't even have words to say back. I wrapped my arms around her legs and sobbed into her thigh gratefully.
 
-?????
+She helped me up and sat me down next to her. [????? Elaborate more?]
 
-"Our love is always going to be real. But there are some things you have to understand about me. I'm a solitary person. If I had my way, I'd spend 80% of my time alone. 20% with you. Maybe 2% with everyone else."
+"So…" I choked out, "You don't hate me? For being such an asshole?"
 
-I laughed weakly. "That's so practical. If I had <em>my</em> way, I'd spend 100% of my time with you. And another 100% with everyone else. And 50% sleeping!"
+"No," said Yali gravely. "To tell the truth, I always expected that there'd be a time in the Otherworld when you would lose control of your emotions. The only question was whether you would catch yourself and learn from it. And you did catch yourself, and you are in the process of learning. So –"
 
-Yali smiled. "I know. It's what I love about you. You don't settle for just 100%. But…" ????? "I <em>need</em> my alone time. If I don't get it, I'll end up… well, you saw."
+"You… expected this? Even though my emotions didn't actually change when we crossed over?"
 
+"But they did."
 
-[???? "Don't pretend like you're some kind of holy person" wasn't like you"]
+"Uhh…"
 
-"Really? I mean, when have I ever respected anything religious?"
+"Don't you remember? When I first tried out saying that invocation. The first thing you said was 'Don't pretend like you're some kind of holy person'. It wasn't like you."
 
-"You can't think of any other way you might have reacted? Like, if I was actually more religious than I am?"
+"It wasn't? I mean, when have I ever respected anything religious?"
+
+"You can't think of any other way you might have reacted? Like, what would you have said if I was actually more religious than I am?"
 
 "I mean, if you were <em>actually</em> religious, I guess that would be, like, one of the things that makes you <em>you</em>? I mean, like, I wouldn't get it, but I'd have to, you know…"
 
@@ -494,14 +495,29 @@ Yali smiled. "I know. It's what I love about you. You don't settle for just 100%
 
 After a pause, Yali squinted. "Actually, no. Please don't make fun of the Waiting Temple either."
 
-"What?" I said.
+"Uhh…"
 
 "The point is, <em>I've</em> noticed a difference. You haven't been giving me the benefit of the doubt as much, at least when it's about the Waiting God or its world. So I think we might be seeing the first part of the Blood God's influence. But…" She frowned. "This isn't how the Blood God is supposed to operate. It's supposed to be about anger, like, direct confrontation. Not about contempt, or… feeling like you're entitled to my help… I mean, this change has to be coming from the Blood God, but I don't understand."
 
 Why did it have to be coming from the Blood God? Maybe because… because if it <em>wasn't</em> coming from the Blood God, that would mean it was coming from <em>me</em>. And Yali couldn't believe that it was coming from me. I felt like my heart was being pulled in two different directions. Yali really trusted me so much that she couldn't believe I would have said all those things by myself. But what if she was wrong?
 
-<em>Contempt. Entitlement.</em> She didn't think it was me, so she had softened the way she said it. So that was her honest opinion of how I've been treating her. It hit me like a punch in the gut.
+<em>Contempt. Entitlement.</em> She didn't think it was me, so she hadn't softened the way she said it. So that was her honest opinion of how I've been treating her. It hit me like a punch in the gut.
 
+"What do we do now?" I said hollowly. "I love you, I don't want to do anything to hurt you, but I –" <em>I'm still trapped here and if you keep shutting me out then I don't know if I can –</em> I swallowed to stop myself from saying it out loud. I tried again. "I – this wasn't supposed to happen! We were supposed to be in love and –" <em>and have romantic adventures all day and never stop to rest and –</em> I swallowed again. "I just feel like it's all falling apart."
+
+Yali took me by the shoulders. She was gentle, but sincere. "Our love is always going to be real. We <em>can</em> make things work out. It's just that for that to happen, there are a few things you have to understand about me."
+
+"I'm listening," I said, tears coming to my eyes again.
+
+"I'm a solitary person. If I had my way, I'd spend 80% of my time alone. 20% with you. Maybe 2% with everyone else."
+
+I laughed weakly. "That's so practical. If I had <em>my</em> way, I'd spend 100% of my time with you. And another 100% with everyone else. And 50% sleeping!"
+
+Yali smiled a little. "I know. It's what I love about you. You don't settle for just 100%. But…" she took a slow breath in and out. "I <em>need</em> my alone time. If I don't get it, I'll end up… well, you saw."
+
+"Shit, I'm sorry, I promise I'll do better, I'll, like, leave you alone until you call for me –"
+
+"We don't need to get a <em>Clay</em> that far." Yali and I spent a while laying out some ground rules.
 
 
 ?????
