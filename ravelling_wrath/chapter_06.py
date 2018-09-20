@@ -465,13 +465,18 @@ A voice shocked me out of [????? that], [????? warbling] from under the floor.
 
 I let myself collapse onto my hands and knees in front of her. "I'm sorry, I'm so so so sorry, I should never have done that, I –"
 
-Yali covered my mouth. "Rinn. Rinn." Her voice was low and soothing. "It's okay. [????? Stuff calculated to reassure Rinn]"
+Yali covered my mouth. "Rinn. Rinn." Her voice was low and soothing. "It's okay. We can work things out."
 
-I didn't even have words to say back. I [????? gratefully [but more spilling-your-guts-everywhere–ish]] wrapped my arms around her legs.
+I didn't even have words to say back. I wrapped my arms around her legs and sobbed into her thigh gratefully.
 
 ?????
 
-[?????"It's very strange," she said. "I don't think it's you, I think it's the Blood God. [????? I've been noticing this change in your pattern of behavior]. But… It the blood God shouldn't be about entitlement, contempt – anger is different than obsessive dislike" will]
+"Our love is always going to be real. But there are some things you have to understand about me. I'm a solitary person. If I had my way, I'd spend 80% of my time alone. 20% with you. Maybe 2% with everyone else."
+
+I laughed weakly. "That's so practical. If I had <em>my</em> way, I'd spend 100% of my time with you. And another 100% with everyone else. And 50% sleeping!"
+
+Yali smiled. "I know. It's what I love about you. You don't settle for just 100%. But…" ????? "I <em>need</em> my alone time. If I don't get it, I'll end up… well, you saw."
+
 
 [???? "Don't pretend like you're some kind of holy person" wasn't like you"]
 
@@ -494,6 +499,8 @@ After a pause, Yali squinted. "Actually, no. Please don't make fun of the Waitin
 "The point is, <em>I've</em> noticed a difference. You haven't been giving me the benefit of the doubt as much, at least when it's about the Waiting God or its world. So I think we might be seeing the first part of the Blood God's influence. But…" She frowned. "This isn't how the Blood God is supposed to operate. It's supposed to be about anger, like, direct confrontation. Not about contempt, or… feeling like you're entitled to my help… I mean, this change has to be coming from the Blood God, but I don't understand."
 
 Why did it have to be coming from the Blood God? Maybe because… because if it <em>wasn't</em> coming from the Blood God, that would mean it was coming from <em>me</em>. And Yali couldn't believe that it was coming from me. I felt like my heart was being pulled in two different directions. Yali really trusted me so much that she couldn't believe I would have said all those things by myself. But what if she was wrong?
+
+<em>Contempt. Entitlement.</em> She didn't think it was me, so she had softened the way she said it. So that was her honest opinion of how I've been treating her. It hit me like a punch in the gut.
 
 
 
