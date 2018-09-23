@@ -5,6 +5,8 @@ from git import *
 import git
 import os
 import time
+import datetime
+from datetime import date
 import re
 
 repo = Repo (os.getcwd())
@@ -19,7 +21,7 @@ def word_count (string):
 current_date = None
 previous_words = None
 while True:
-  commit_date = time.strftime ("%B %-d, %Y", time.gmtime (commit.committed_date))
+  commit_date = date.fromtimestamp (commit.committed_date).to_ordinal ()
   
   commit_words = 0
   for chapter_number in range (1, 20):
@@ -30,16 +32,23 @@ while True:
     except git.exc.GitCommandError:
       completed = (chapter_number == 1)
       break
-    
   
-  if completed or (commit_date != current_date):
+  if completed or (commit_date != current_date and commit_words != 0):
     if previous_words is not None:
       change = previous_words - commit_words
-      if change != 0:
-        print (current_date + ": " + str (previous_words - commit_words))
+      #print (current_date + ": " + str (previous_words - commit_words))
+      marks = (change + 25)//50
+      date_change = current_date - commit_date
+      if date_change < 5:
+        for ordinal in range (current_date - 1, commit_date, -1):
+          print (date.fromordinal (ordinal).strftime("%b %-d, %Y") + ": (0)"))
+      else:
+        print ("\n...\n")
+      print (date.fromordinal (current_date).strftime("%b %-d, %Y") + ": " + ("#"*marks) + " (" + str (change) + ")")
+      
     current_date = commit_date
     previous_words = commit_words
-    
+      
   if completed:
     break
     
