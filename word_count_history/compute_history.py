@@ -20,8 +20,9 @@ def word_count (string):
 
 current_date = None
 previous_words = None
+previous_drawn_date = None
 while True:
-  commit_date = date.fromtimestamp (commit.committed_date).to_ordinal ()
+  commit_date = date.fromtimestamp (commit.committed_date).toordinal ()
   
   commit_words = 0
   for chapter_number in range (1, 20):
@@ -33,19 +34,22 @@ while True:
       completed = (chapter_number == 1)
       break
   
-  if completed or (commit_date != current_date and commit_words != 0):
+  if completed or (commit_date != current_date):
     if previous_words is not None:
       change = previous_words - commit_words
-      #print (current_date + ": " + str (previous_words - commit_words))
-      marks = (change + 25)//50
-      date_change = current_date - commit_date
-      if date_change < 5:
-        for ordinal in range (current_date - 1, commit_date, -1):
-          print (date.fromordinal (ordinal).strftime("%b %-d, %Y") + ": (0)"))
-      else:
-        print ("\n...\n")
-      print (date.fromordinal (current_date).strftime("%b %-d, %Y") + ": " + ("#"*marks) + " (" + str (change) + ")")
-      
+      if change != 0:
+        #print (current_date + ": " + str (previous_words - commit_words))
+        marks = (change + 25)//50
+        if previous_drawn_date is not None:
+          date_change = previous_drawn_date - current_date
+          if date_change < 7:
+            for ordinal in range (previous_drawn_date - 1, current_date, -1):
+              print (date.fromordinal (ordinal).strftime("%b %d, %Y") + ":    0")
+          else:
+            print ("\n...\n")
+        print (date.fromordinal (current_date).strftime("%b %d, %Y") + ": {:4} ".format (change) + ("#"*marks))
+        previous_drawn_date = current_date
+    
     current_date = commit_date
     previous_words = commit_words
       
