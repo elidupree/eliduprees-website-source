@@ -517,7 +517,9 @@ Yali smiled a little. "I know. It's what I love about you. You don't settle for 
 
 "Shit, I'm sorry, I promise I'll do better, I'll, like, leave you alone until you call for me –"
 
-"We don't need to get a <em>Clay</em> that far." Yali and I spent a while laying out some ground rules.
+"We don't need to go <em>quite</em> that far." Yali and I spent a while laying out some ground rules.
+
+[?????  "I'll be better, I promise! I – when you say <em>Controlling Game</em>,]
 
 
 ?????

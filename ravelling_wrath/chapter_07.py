@@ -62,6 +62,12 @@ I couldn't stand having some intimidating stranger demand that I swear to stuff,
 
 ?????
 
+[????? Description of Justicar traveling with them]
+
+[????? Yali and Justicar work together using the telescope and stuff. Justicar uses the originals, Yali uses the vandalized ones]
+
+?????
+
 [Suddenly,] Yali jerked out of her [Seeing]. "Something's coming!!" she shouted.
 
 I jumped up, every part of me snapping to alert. "What's coming? Where?"
@@ -70,7 +76,7 @@ I jumped up, every part of me snapping to alert. "What's coming? Where?"
 
 "A human from the sky?" I confusedly looked where she was pointing, but didn't see anything. But Justicar was already in action. She raised her arms in front of her, in a powerful stance. All around us, a steel dome began to form, with a rigid network of supporting bars making it look almost impossible to break. Where in the Endless did she learn to manifest like that?! I couldn't make anything half as big, and she did it without even touching the stuff she was creating.
 
-My heart was pounding. I hardly knew what was happening – but there was one thing I knew for sure. "Hey, stop that!" I yelled. "Whoever's coming is gonna smash into this! You'll get them killed!" Justicar barely noticed me, so I jammed a Blood Blade into the structure of the partially-formed dome, disrupting how she was building it.
+My heart was pounding. I hardly knew what was happening – but there was one thing I knew for sure. "Hey, stop that!" I yelled to Justicar. "Whoever's coming is gonna smash into this! You'll get them killed!" Justicar barely noticed me, so I jammed a Blood Blade into the structure of the partially-formed dome, disrupting how she was building it.
 
 "What do you propose?" she said sharply. All her muscles were tensed up as she concentrated on keeping the dome intact.
 
@@ -96,13 +102,13 @@ The sounds echoed into my mind. The loud snap of the Blood Blades shattering and
 
 He lay sprawled on the floor, a mass of blood with one arm torn open and one leg twisted at a horrible angle under him. Massive burn marks covered his clothing and half his chest. My heart caught in my throat as I struggled towards him. For an awful moment I was sure he was dead.
 
-Then he opened his mouth and screamed, a deafening scream that pounded at my eardrums ?????.
+Then he opened his mouth and screamed, a deafening scream that stabbed at my eardrums and threatened to split my head open,
 
-Justicar didn't delay an instant. She was already standing over him. In a flash, heavy bindings tightened around the bleeding arm. The next moment, more steel slammed into existence around all his arms and legs, locking him in place and yanking the broken leg back around to ?????.
+Justicar didn't delay an instant. She was already standing over him. In a flash, heavy bindings tightened around the bleeding arm. The next moment, more steel slammed into existence around all his arms and legs, locking him in place and yanking the broken leg back around to its natural place.
 
 "Manifest it back together!" Justicar yelled at him. "Manifest your leg back together before the damage gets worse!"
 
-He didn't hear her. His eyes stared wildly into the distance, oblivious to everything around him. He screamed again, jerking and struggling against the bars, his voice getting ragged.
+He didn't hear her. His eyes stared wildly into the distance, oblivious to everything around him. He screamed again, jerking and struggling against the bars, his voice getting ragged. Desperately, I stumbled towards him. I wasn't sure what I was going to do, but I just knew I had to get there. I cringed as I stepped over the broken Blood Blades – they were <em>part of me</em> and they were lying in pieces. Shuddering, I unmanifested them. The pain subsided a little, and I hurried forward.
 
 "Stop struggling! You're only making it worse!" Justicar made more steel bands around his elbows and forehead, constraining his movement even further.
 
@@ -142,13 +148,13 @@ Yali stepped up beside me and looked at him intently. Was she looking into the f
 
 "Did I not accept your alternative as soon as it was proposed?"
 
-I opened my mouth to yell another retort, but Yali's hand fell heavily on my shoulder. "It's okay. He was in less danger than you both realize. Since his injuries weren't inflicted with hostile intent, they only damaged his body, never his soul. And the body can recover from almost anything, through manifesting." When she said <em>hostile intent</em>, she said it like it was a special phrase with its own meaning.
+I opened my mouth to yell another retort, but Yali's hand fell heavily on my shoulder. "It's okay. He was in less danger than you both realize. Since his injuries weren't inflicted with <em>hostile intent</em>, they only damaged his body, never his soul. And the body can recover from almost anything, through manifesting." When she said <em>hostile intent</em>, she said it like it was a special phrase with its own meaning.
 
 Justicar and I glared at each other silently. Before either of us thought of what to say next, we were interrupted by another voice. "Aww yesss, it's just like she said! Allllll manifested back together!!"
 
 We all turned to look. He was already helping himself up onto his knees. It was pretty freaky to see him completely intact, so soon after he'd been all smashed up.
 
-"Heyyy everybody! I'm Morrow! Morrow Monoë! Nice to meet'cha'll!" He jumped to his feet and hopped back-and-forth between one leg and another.
+"Heyyy everybody! I'm Morrow! Morrow Monoë! Nice to meet'cha'll!" He jumped to his feet and hopped back-and-forth between one leg and the other.
 
 "What the fuck," I said. "That leg was just broken!"
 
@@ -168,9 +174,9 @@ With one hand still holding the sandwich, Morrow waved dismissively with the oth
 
 "There won't <em>be</em> a next time," snapped Justicar. "I will not allow you to endanger yourself and others like that!"
 
-Morrow smiled tsuntingly. "You gonna stop me?"
+Morrow smiled tauntingly. "You gonna stop me?"
 
-[????? This was great]. I couldn't resist watching Morrow take the piss out of her. She took herself so seriously, and he completely blew her off, it was great. Apparently Yali didn't think so, though, because she quickly stepped up to spoil the fun. "Before we all argue, at least we should introduce ourselves. I'm Yali, and –"
+This was great. I couldn't resist watching Morrow take the piss out of her. She took herself so seriously, and he completely blew her off, it was amazing. Apparently Yali didn't think so, though, because she quickly stepped up to spoil the fun. "Before we all argue, at least we should introduce ourselves. I'm Yali, and –"
 
 "Yaliiiii! Nice't'meet'cha, wow, your mind is even better up close! I smelled it from space, but wow, that's a real emotional shell you've got there! Multi-layered and everything! I wonder what happens when it breaks??"
 
@@ -184,19 +190,19 @@ Justicar sized him up, frowning. "An Imminent with powers of the mind? Be warned
 
 Morrow was already responding in his own way. "Oh don't worry, <em>Officer</em>, I wouldn't touch <em>your</em> mind with a ten-foot pole! I mean, ewww!" He held his nose and theatrically leaned away from her.
 
-"I'm not a police officer," said Justicar stiffly.
+"I am not a police officer," said Justicar stiffly.
 
 "Yeah, yeah, bet you're a judge or summin'."
 
 "I am not a –"
 
-"When I lower my shell," interrupted Yali firmly, "it will be on my own terms."
+"When I lower my shell," interrupted Yali firmly, "it will be on my own terms, not anyone else's."
 
 "Yeah!" I yelled. "Don't try to mess with Yali, I'll fuck you up!"
 
 "Excuse me?" said Justicar. "What did you just say about threatening people?"
 
-"Wh– I said you threaten <em>everyone</em> you meet! You're two-for-two, I'm only one-for-two –"
+"Wh– I said you threaten <em>everyone</em> you meet! You're two-for-two, I'm only one-for-two at worst –"
 
 "At most, I would be two-for-<em>three</em>. I did not threaten the Farseer."
 
@@ -212,15 +218,13 @@ Morrow tossed his sandwich on the floor so he could shake my hand. "Rinn! Brilli
 
 I grinned. "You seem pretty kickass yourself," I said. Then, because I didn't want him to get the wrong idea, I added, "I'm gay, by the way."
 
-"Brilliant! Betcha get all the girls!"
-
-"Haha, yeah, that's me – Yali's my girlfriend though." Even if she <em>said</em> it was okay for me to go for other people, it still <em>felt</em> like I wasn't supposed to talk like that.
+Morrow did a double take. Then he shamelessly looked back and forth between me and Yali. "Fire and stone. I like it!" It was a compliment. He was comparing us to the lovers from a legend.
 
 ?????
 
 Morrow was <em>fun</em>.
 
-
+[????? Morrow and Rinn 1 upping each other with manifesting; the pain stick, probably when Justicar is NOT looking; the suicide joke, when Justicar IS looking]
 
 ??????
 
@@ -232,55 +236,53 @@ Morrow was <em>fun</em>.
 
 "Wait, really? <em>I'm</em> not hungry, wait, can't you manifest yourself into not being hungry?" Curiously, I tried to manifest myself into <em>being</em> hungry. It worked.
 
-"It is probably because of his nature as the Imminent," said Justicar. "It is the nature of the Seeking God to perpetually want more, and never be satisfied. Thus, ?????"
+"It is probably because of his nature as the Imminent," said Justicar. "It is the nature of the Seeking God to perpetually want more, and never be satisfied. Thus, it would only be natural for the Imminent to – "
 
 "That can't be right," I said. I didn't really have a <em>reason</em> to think it was wrong, but I couldn't stand Justicar being all <em>Well the Farseer would be like this and the Imminent would be like that</em> instead of listening to us as actual fucking people. So I scrambled to come up with a reason. "Hang on, if that was true, then all the old Imminents would have been hungry all the time too. Hey Yali, you have all those memories, so were they?"
 
 Yali froze up, not answering.
 
-"I did it!" yelled Morrow into the silence. "I manifested myself into not being hungry! But it's even worse, it's so tiring to stay like that, it's worse than just <em>being</em> hungr–"
+"I did it!" yelled Morrow into the silence. "I manifested myself into not being hungry! But it's even worse, it's so TIRING to stay like that, it's worse than just <em>being</em> hungr–"
 
 "No, Yali, what's up? You okay there?"
 
 "I, I, I –"
 
-"[????? The Farseer shouldn't spill every piece of knowledge, said Justicar]"
+"Leave her be," said Justicar. "A wise Farseer knows that not every piece of knowledge is to be handed out to every idle questioner."
 
 Yali relaxed a bit.
 
 "Wait," I said, "so you <em>were</em> keeping it secret on purpose? But why would <em>this</em> piece of knowledge be a secret?"
 
-Justicar raised an eyebrow. "I suppose if all Imminents <em>were</em> hungry, she would have no reason not to tell us. So it follows that <em>not</em> all Imminents were hungry, and the difference would allow us to learn some sensitive information. Now…"
+Yali didn't answer that either. Justicar raised an eyebrow. "I suppose if all Imminents <em>were</em> hungry, she would have no reason not to tell us. So it follows that <em>not</em> all Imminents were hungry, and the difference would allow us to learn some sensitive information. Now…"
 
-"Justicar," said Yali harshly.
+"Justicar," interrupted Yali – not loudly, but with a slight edge.
 
 "Yes?"
 
-The air was thick with tension. What was going on? Why had Yali suddenly turned ice-cold?
-
-Yali swallowed. Then she spoke slowly and deliberately, choosing each word with care. "You understand that I may have my own reasons to keep things hidden."
+Yali spoke slowly, choosing each word with care. "You understand that I may have my own reasons to keep things hidden."
 
 "What of it?"
 
 "Then do not take knowledge from me that I have not willingly given to you."
 
-[????? Justicar's reaction]
-
-"I… apologize. I understand how I overstepped my bounds, and I will not do it again."
+Justicar's eyes widened – only a little, but it was the first time I had seen her <em>actually</em> get thrown off her game. Then she composed herself and nodded. "I… apologize. I understand how I overstepped my bounds, and I will not do it again."
 
 "Thank you."
 
-"So <em>that</em> was awkward," I said. "Hey, Morrow –"
+"So <em>that</em> was awkward," I said. "Hey, Morrow, let's –"
 
-"I TRIED it!" said Morrow sourly. "But it's so much WORK! I'd rather just be hungry."
+[????? Oops, this already happened earlier – "I TRIED it!" said Morrow sourly. "But it's so much WORK! I'd rather just stay hungry!"]
 
 ?????
 
 [????? Summary of interactions with Morrow, leading up to complaining about Morrow overloading Rinn the same way Rinn overloaded Yali]
 
-[????? I almost cried laughing.] <em>Okay, universe, you get me fair and square.</em>
+[????? I almost cried laughing.] <em>Okay, universe, you got me fair and square.</em>
 
 ?????
+
+[????? Probably a discussion of Yali and Justicar's attempts to locate the Alchemist]
 
 [????? Morrow refers to the Alchemist as "he"]
 
@@ -298,7 +300,7 @@ Yali swallowed. Then she spoke slowly and deliberately, choosing each word with 
 
 "No," said Yali.
 
-"Okay that's it, case closed, the rest of you can fuck right off now."
+That wasn't <em>exactly</em> the answer I was hoping for, but I could roll with it. I turned back to the others and said, "Okay that's it, case closed, the rest of you can fuck right off now."
 
 ?????
 
