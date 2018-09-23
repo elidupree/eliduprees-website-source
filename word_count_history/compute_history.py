@@ -22,7 +22,7 @@ current_date = None
 previous_words = None
 previous_drawn_date = None
 while True:
-  commit_date = date.fromtimestamp (commit.committed_date).toordinal ()
+  commit_date = date.fromtimestamp (commit.committed_date - 5*60*60).toordinal ()
   
   commit_words = 0
   for chapter_number in range (1, 20):
