@@ -14,7 +14,7 @@ while True:
   
   commit_words = 0
   for chapter_number in range (1, 20):
-    print (repo.git.show ("{}:ravelling_wrath/chapter_{02}".format (commit.hexsha, chapter_number))
+    print (repo.git.show ("{}:ravelling_wrath/chapter_{:02}.py".format (commit.hexsha, chapter_number)))
   
   
   if commit_date != current_date:
