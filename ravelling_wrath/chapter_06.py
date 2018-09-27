@@ -295,7 +295,7 @@ I had still had plenty of energy, but now that I was lying down, sleeping felt l
 
 "I'm just shifting around!"
 
-"It sure felt like elbowing to me."
+"It felt like elbowing to me."
 
 "Okay, I'll be careful!"
 
@@ -305,11 +305,15 @@ A few minutes of being careful later, Yali said, "This isn't really helping."
 
 "No, I mean, I… I've never actually slept in the same bed with someone else before. I don't think I'll be able to get to sleep this way."
 
-[????? But, like, it's romantic]
+"But it's intimate!" I said, disappointed.
+
+"I know… it's not that I don't <em>want</em> it to work, it's just… We can try another time. When I've gotten used to being away from home at all."
+
+"Okay, fine." I rolled away and settle in on the far side of the bed.
 
 The next thing I knew, I was… awake again?
 
-Or was it even the next thing I knew? When I thought back, I could actually remember lying in the bed for hours. I'd been consciously aware of what was around me. I haven't had any dreams, or even been properly asleep at all. But I still felt refreshed as if I had actually slept. "That was weird…" I said. "Hey Yali, are you awake?"
+Or was it even the next thing I knew? When I thought back, I could actually remember lying in the bed for hours. I'd been consciously aware of what was around me. I hadn't had any dreams, or even been properly asleep at all. But I still felt refreshed as if I had actually slept. "That was weird…" I said. "Hey Yali, are you awake?"
 
 "I'm still asleep," said Yali. She didn't even sound sleepy.
 
