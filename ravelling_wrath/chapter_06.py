@@ -503,7 +503,7 @@ Yali covered my mouth. "Rinn. Rinn." Her voice was low and soothing. "It's okay.
 
 I didn't even have words to say back. I wrapped my arms around her legs and sobbed into her thigh gratefully.
 
-She helped me up and sat me down next to her. [????? Elaborate more?]
+She helped me up and sat me down next to her. [????? Elaborate more about the physical gesture?]
 
 "So…" I choked out, "You don't hate me? For being such an asshole?"
 
@@ -549,13 +549,62 @@ Yali took me by the shoulders. She was gentle, but sincere. "Our love is always 
 
 I laughed weakly. "That's so practical. If I had <em>my</em> way, I'd spend 100% of my time with you. And another 100% with everyone else. And 50% sleeping!"
 
-Yali smiled a little. "I know. It's what I love about you. You don't settle for just 100%. But…" she took a slow breath in and out. "I <em>need</em> my alone time. If I don't get it, I'll end up… well, you saw."
+Yali smiled, but only a little. "I know. It's what I love about you. You don't settle for just 100%. But…" she took a slow breath in and out. "I <em>need</em> my alone time. If I don't get it, I'll end up… well, you saw."
 
 "Shit, I'm sorry, I promise I'll do better, I'll, like, leave you alone until you call for me –"
 
-"We don't need to go <em>quite</em> that far." Yali and I spent a while laying out some ground rules.
+"We don't need to go <em>quite</em> that far." Yali and I spent a while laying out some ground rules. [????? details of ground rules]
 
-[?????  "I'll be better, I promise! I – when you say <em>Controlling Game</em>,]
+?????
+
+"I'll do better, I promise. I'll stick to the, uh, what we agreed to. And, like…" I was reluctant to say this next part, because I didn't really want to think back to what happened. But I felt like it was important. "Next time you say <em>Controlling Game</em>, I won't mess around. I'll control myself right away. Any of the other games, too. I get why it's important."
+
+"Thank you," she said sincerely. "That is… yes, it's important, but…" She looked away.
+
+"But what?"
+
+"You shouldn't let me control how you feel!" she said agitatedly.
+
+?????
+"I don't know whether this will matter in the Otherworld, but… I mean, I, I should have talked to you about this before…"
+
+"About what?"
+
+"I don't want you to feel like you can't go for intimate relationships with other people, because of me."
+
+"Woah, like, polyamory?"
+
+"Yes."
+
+"Are you sure? I mean, not that I'm <em>against</em> it, but, uh…"
+
+"Monogamy is such a trap! People act like you can just find the perfect person and then you'll meet all each other's needs, forever, and you'll never need anyone else for anything. But that's just not how things work in real life," she said.
+
+"But –" <em>But we were supposed to be soulmates and do everything together and…</em> Even as the thoughts formed in my head, they already felt broken. They were a fantasy that had never been real.
+
+"Are you feeling like that makes our love less real?" said Yali bluntly.
+
+"Uh, I kind of am! I mean, you're not wrong, but… fuck!"
+
+"Maybe I can help you believe that it can make it <em>more</em> real."
+
+"Yeah, probably, I mean, you've convinced me that black is white plenty of times before. We were supposed to be soulmates, though! Like a ?????, like two jigsaw puzzle pieces that fit together perfectly –"
+
+"Jigsaw pieces have three other sides, you know."
+
+I was flabbergasted.
+
+"I want to build something with you that's so solid that it will last forever. And there'll be a time when both our infatuation has worn off, when we won't be able to rely on just being head-over-heels for each other. But when that time comes, I want to <em>still be with you</em>. I want to make sure we both get <em>all</em> of our needs met, from, from, from all sides of the jigsaw puzzle, not just one. You have so much passion, you're overflowing with it, that's what I love about you, and if that passion ever makes you love someone else as well as me, that's what I <em>want</em> to happen."
+
+"That's… actually kind of inspiring. But, like, you're sure you're okay with it?" Even after she said all that, when I thought about the idea of loving somebody else, it still felt like I'd be breaking something. Betraying her.
+
+"Why would I want to lock you in to just me? Trying to force someone to rely on just one person… it's great if you want to abuse and control people, but… There's really nothing I want to hold you back from. If you love other people, if you want to have sex with other people –"
+
+"No fucking way! I'd feel like SUCH an asshole if I had sex with someone else first just because you – uh, you know, because you, uh, can't," I finished awkwardly. "And that other stuff, I mean, so I'm infatuated, but I <em>want</em> to be infatuated. I want to –" I swallowed. There were a lot of things I wanted, and a lot of them stepped over the boundaries we had just agreed to.
+
+"I'm not saying you <em>have to</em> do anything with anyone else. But I want you to keep it in mind. I don't ever want to be the one who makes you feel trapped."
+
+"I, uh, okay. I'll keep it in mind." I was feeling kind of weird about that, and I wanted to ask more questions, but I could feel that Yali was getting a little agitated again. I <em>really</em> didn't want to say something stupid and push her buttons when I had already messed up so badly just hours ago.
 
 
 ?????
