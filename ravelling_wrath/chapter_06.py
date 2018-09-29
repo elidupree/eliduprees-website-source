@@ -331,17 +331,37 @@ I rolled out of bed, then pulled out my phone to check how long it had been.
 
 "Oh gods, did I wake you up? I'm sorry –"
 
-"Don't worry about it." Yali handed me a battery pack that I could plug my phone into.
+"Don't worry about it." Yali tiredly handed me a battery pack that I could plug my phone into.
 
-"You brought a battery pack? I mean, thanks a bunch, but won't that run out too?"
+"You brought a battery pack? I mean, thanks a bunch, but won't that run out too?" I said. But I did plug my phone into it and leave it on the table.
 
 "I'll manifest another. This isn't even the original, I only borrowed it from someone –"
 
 "Ohhhh. Woah, so you intentionally imprinted a battery pack so you could make as many fully charged battery packs as you want? You're a genius!"
 
-Yali smiled a little. "I figured if we tried to manifest on our phones directly, it might not work right because neither of us knows how a phone actually works. And if we copied our phones, the copies would be out of battery, too, or they'd be a copy of how the phone <em>was</em> "
+Yali smiled a little. "I figured if we tried to manifest on our phones directly, it might not work right because neither of us knows how a phone actually works. And if we copied our phones, the copies would be out of battery, too, or they'd be a copy of how the phone <em>was</em> –"
 
-????
+"You <em>are</em> a genius. Absolute lifesaver." I ran to hug her. I practically tackled her onto the bed.
+
+"Ow," she said, smiling ruefully. "Now I'm going to have to sit up a second time."
+
+"Thought you didn't want to get up," I teased. She idly tousled my hair, looking past me. "So, what's up with sleeping here?" I said.
+
+"Ah…" She sighed and gazed up into the stars. "We are… It's a soul thing. When we dream, we retreat inside, so we're only aware of our souls. But here, we <em>are</em> the souls. We touch the Otherworld directly."
+
+I lightly poked her and said, "So our souls are touching each other right now."
+
+"But that was already true," said Yali dreamily.
+
+"OMG OMG OMG! That is, like, so cheesy. And so perfect at the same time."
+
+"Yes…" she said, not quite reacting.
+
+Even though she was being affectionate, I could sense her mind was on something else. "Uh, I could let you go back to sleep if you want," I said reluctantly.
+
+"No…" She suddenly looked tired again, this time in a stressed-out way instead of a sleepy way. "I shouldn't. There's a lot of things I should double-check before we get to the next, the next, one of the stars we're going towards." She sat up again, slightly pushing me out of the way, and hauled herself to her feet.
+
+"Yeah, or, uh –" I muttered. Yali was already walking towards the computer. "Yeah, I could just leave you alone to work on that shit. Yeah."
 
 <bigbreak>
 
@@ -349,7 +369,7 @@ Traveling through the Otherworld was NOT as interesting as it was cracked up to 
 
 Sure, there was the looming threat of our possible deaths. But it didn't really seem like that was going to happen <em>here</em>, on a tiny platform in the middle of literal empty space. Being <em>here</em> was just <em>boring</em>.
 
-We'd been floating through space for days now. We had only transferred to another star once. We still had no idea where the other Ravellers were, despite Yali spending hours with the telescope. Even manifesting wasn't any fun anymore. Every time I tried something, I just thought of how much I missed everyone from back home. Where was Layo to make things fun? Where was Pèi to say something sarcastic? Even my parents – I couldn't stand them, and it was great to be away from them looking over my shoulder, but now I just felt empty.
+We'd been floating through space for days now. We had only transferred to another star <em>once</em>. We still had no idea where the other Ravellers were, despite Yali spending hours with the telescope. Even manifesting wasn't any fun anymore. Every time I tried something, I just thought of how much I missed everyone from back home. Where was Layo to make things fun? Where was Pèi to say something sarcastic? Even my parents – I couldn't stand them, and it was great to be away from them looking over my shoulder, but now I just felt empty.
 
 The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't see just keep us alive faster? Stern take it all. Not only that, but whenever I <em>wanted</em> to know something from the future, she didn't know it, because the Seeing had a whole bunch of limitations.
 
@@ -373,9 +393,19 @@ The stars spun around me, then the glowy white of the platform swung up and trie
 
 Yali's voice echoed weirdly from somewhere. "Manifest a bucket!"
 
-"Nah, I'll be fine." I forced myself to look around. I was kneeling on… exactly the same platform, except with nothing on it but me. So now, I was… on the underside of the same star? Apparently I could stay sitting on the underside, because the gravity was pointing upwards. Or rather, downwards, from my perspective.
+"Nah, I'll be fine." I forced myself to look around. I was kneeling on… exactly the same platform, except with nothing on it but me and… a bunch of the balls we had been throwing around earlier? So now, I was… on the underside of the same star? Apparently I could stay sitting on the underside, because the gravity was pointing upwards. Or, I guess, downwards, from my perspective.
 
-?????
+I wasn't going to let a little nausea get the better of me. I immediately got up and stepped off the edge again, falling back around to the side I'd been on originally.
+
+"Check it out," I said, tossing one of the balls I found it Yali. "All those balls just went rolling off the edge and we never thought about what happened to them that!"
+
+"Yeah, that's pretty cool," said Yali. But she wasn't really paying attention. She'd probably seen this all before, Stern take it.
+
+"Yeah, so, uh, I guess I can go hang out on the other side now. So I won't disturb you."
+
+"Thanks. I think I'll be done in, in…" I didn't bother to wait for her to finish. Half the time she just trailed off and never finished anyway.
+
+[????? the other side was kind of fun because I didn't censor myself, but also I was lonely]
 
 <bigbreak>
 
