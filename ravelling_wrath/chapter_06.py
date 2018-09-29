@@ -627,7 +627,7 @@ Yali carefully asked me a few questions, to make sure I really wanted to help. B
 
 It was boring work, mostly just staring at one stationary star after another. But at least I could feel like I was working alongside Yali, theoretically getting stuff done. It was boring, but it wasn't the isolating, resentful kind of boring I'd been dealing with before.
 
-Eventually, we actually stole one of the telescopes from another star so that we could both use the telescope at the same time. I just cut the other telescope down with a Blood Blade – a little nervously, because I was worried I'd break my carefully balanced sense of calm if I cut anything aggressively. But it worked. And then I manifested in a new base for it on our own star.
+Eventually, we actually stole one of the telescopes from another star so that we could both use the telescope at the same time. I just cut the other telescope down with a Blood Blade – a little nervously, because I was worried I'd break my carefully balanced sense of calm if I cut anything aggressively. But it worked. And then I manifested in a new base for it on our own star. We actually did it with a few more telescopes soon after, just so Yali could leave them configured in different ways.
 
 We spent a lot of time scanning the sky together, almost shoulder to shoulder – although we technically stayed far enough apart that we wouldn't bump into each other, because it was way too easy to knock the telescopes off their calibration. We spent hours in near silence, just occasionally speaking if one of us saw something unusual.
 
@@ -635,7 +635,25 @@ And then – it happened.
 
 "Hey, is this the shimmering you were talking about?" I said.
 
-"Let me see.".
+"Let me see." Yali waved me out of the way and looked into the telescope I've been using. She started adjusting some of the dials, probably to get a better focus. "This could actually be it. Of course, I can't be sure because I haven't seen this before –"
+
+"What about in your memories?"
+
+"Different stars. Different rules." She hurriedly checked some things in the Codex, and on the other telescopes. At this point, I probably wasn't going to be much help, so I just stood and watched her work.
+
+Before long, she had come to a conclusion. "It's the Justicar," she said seriously. "And they're close. On course to meet us in hours." She paused. "I should use the Seeing to find out what they'll be like. The Waiting will probably allow it now that we've found them the regular way."
+
+"Yeah… of course." I was burning with questions, but letting Yali do her own thing was second nature now.
+
+<bigbreak>
+
+"The Justicar can be a powerful ally, or a powerful enemy," said Yali. "She already views you as a threat, so we must be very careful. First impressions will be very important."
+
+"Got it. I'll make sure to act extra nice and nonthreatening."
+
+"Don't put on too much of an act. She doesn't miss much. Just… Let me do the talking, okay?"
+
+"Okay."
 
 
 ?????
