@@ -615,9 +615,27 @@ The days dragged on.
 
 The freaky thing was that I didn't feel any different. When Yali had told me about the Blood God stuff, I had expected that it would be a constant struggle to hold on to what I really wanted. Like there would be an invader in my mind that I had to fight against. But instead, it was constant… normal stuff. Just me thinking stuff that I would normally think. Reacting the way I would normally react. Until the moment when I realized I had gone over the edge and hurt her.
 
-I ended up second-guessing myself all the time. Whenever I was about to say something, I hesitated, thinking, [????? <em>is this going to be the thing that fucks everything up again</em>?]
+I ended up second-guessing myself all the time. Whenever I was about to say something, I hesitated, thinking, <em>is this going to be the thing that sends me down the wrong path again?</em> The first time Yali said she was going to study the Codex, my first thought was <em>oh, for fuck's sake</em>. Of course, I didn't say <em>that</em>. So I said "sure, go ahead." But then I noticed that I had said it irritably without even thinking about it. That was scary. So the next time, I stopped myself, and didn't say it out loud until I was sure I could say it calmly.
 
-[????? I started helping Yali with the telescope, too. We]
+It turned into a routine. I would calm myself down, reminding myself of how much I believed in respecting Yali's boundaries. It wasn't exactly <em>fun</em> – my feelings felt kind of deadened, uncertain. But it kept the peace between us. I muddled along, just waiting for the stars to show us something new.
+
+One day, when I was about to say my usual "sure, go ahead," another thought popped up.
+
+"I'll help you out," I said uncertainly.
+
+Yali carefully asked me a few questions, to make sure I really wanted to help. But, to my surprise, I actually did. There was no real way I was going to catch up to Yali in understanding the Codex, but she told me a few basic things about how to use the telescope, and gave me a few things to do watching the stars. I was especially supposed to watch for <em>shimmering</em> stars, which were a sign of the other Ravellers being nearby, and <em>moving</em> stars, which meant the stars were close to us and we could consider transferring to them.
+
+It was boring work, mostly just staring at one stationary star after another. But at least I could feel like I was working alongside Yali, theoretically getting stuff done. It was boring, but it wasn't the isolating, resentful kind of boring I'd been dealing with before.
+
+Eventually, we actually stole one of the telescopes from another star so that we could both use the telescope at the same time. I just cut the other telescope down with a Blood Blade – a little nervously, because I was worried I'd break my carefully balanced sense of calm if I cut anything aggressively. But it worked. And then I manifested in a new base for it on our own star.
+
+We spent a lot of time scanning the sky together, almost shoulder to shoulder – although we technically stayed far enough apart that we wouldn't bump into each other, because it was way too easy to knock the telescopes off their calibration. We spent hours in near silence, just occasionally speaking if one of us saw something unusual.
+
+And then – it happened.
+
+"Hey, is this the shimmering you were talking about?" I said.
+
+"Let me see.".
 
 
 ?????
