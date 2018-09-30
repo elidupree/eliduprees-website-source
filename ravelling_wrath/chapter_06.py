@@ -371,7 +371,7 @@ Sure, there was the looming threat of our possible deaths. But it didn't really 
 
 We'd been floating through space for days now. We had only transferred to another star <em>once</em>. We still had no idea where the other Ravellers were, despite Yali spending hours with the telescope. Even manifesting wasn't any fun anymore. Every time I tried something, I just thought of how much I missed everyone from back home. Where was Layo to make things fun? Where was Pèi to say something sarcastic? Even my parents – I couldn't stand them, and it was great to be away from them looking over my shoulder, but now I just felt empty.
 
-The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't see just keep us alive faster? Stern take it all. Not only that, but whenever I <em>wanted</em> to know something from the future, she didn't know it, because the Seeing had a whole bunch of limitations.
+The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. It didn't make her exhausted like it had back in the regular world, but she still spent lots of time on it. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't see just keep us alive faster? Stern take it all. Not only that, but whenever I <em>wanted</em> to know something from the future, she didn't know it, because the Seeing had a whole bunch of limitations.
 
 For one thing, it only showed <em>possible</em> futures, so if she looked too far ahead, almost anything could happen. For another, she couldn't see <em>anything</em> after we went to the next layer. Apparently, at each layer crossing, the gods wove more of their threads in to us – and when the other gods did something big like that, the Waiting God wouldn't be able to predict it. Even some of the other Ravellers' powers were enough to disrupt the Seeing and make parts of the future unreadable. And finally, it was hard to find specific futures even if you wanted to. Yali said she'd seen glimpses of the other Ravellers, and even bits of conversation, but those were only things they <em>might</em> say in <em>some</em> situation, not a whole picture. So the Seeing <em>sounded</em> great, but it was a whole lot of bother to get anything good out of it.
 
@@ -553,11 +553,9 @@ Yali smiled, but only a little. "I know. It's what I love about you. You don't s
 
 "Shit, I'm sorry, I promise I'll do better, I'll, like, leave you alone until you call for me –"
 
-"We don't need to go <em>quite</em> that far." Yali and I spent a while laying out some ground rules. [????? details of ground rules]
+"We don't need to go <em>quite</em> that far." Yali and I spent a while laying out some ground rules. We agreed on <em>some</em> hours of each "day" when I'd stay on the underside and not disturb Yali unless it was an emergency. Which probably meant never, because Yali would see any emergency coming in advance. Then there were some more hours when it was <em>okay</em> to get her attention, I just shouldn't do it too much in a row. And then there was our official together time. Yali promised she'd be <em>more</em> responsive during that time, when she'd had the proper rest.
 
-?????
-
-"I'll do better, I promise. I'll stick to the, uh, what we agreed to. And, like…" I was reluctant to say this next part, because I didn't really want to think back to what happened. But I felt like it was important. "Next time you say <em>Controlling Game</em>, I won't mess around. I'll control myself right away. Any of the other games, too. I get why it's important."
+I wasn't exactly <em>happy</em> with the arrangement, but at least it made things feel more solid. "I'll do better, I promise," I said. "I'll stick to the, uh, what we agreed to. And, like…" I was reluctant to say this next part, because I didn't really want to think back to what happened. But I felt like it was important. "Next time you say <em>Controlling Game</em>, I won't mess around. I'll control myself right away. Any of the other games, too. I get why it's important."
 
 "Thank you," she said sincerely. "That is… yes, it's important, but…" She looked away.
 
@@ -565,12 +563,17 @@ Yali smiled, but only a little. "I know. It's what I love about you. You don't s
 
 "You shouldn't let me control how you feel!" she said agitatedly.
 
-?????
-"I don't know whether this will matter in the Otherworld, but… I mean, I, I should have talked to you about this before…"
+"Wait, what? Isn't that the whole point? I mean, if I feel the wrong thing, I'll want you to control it, so that we don't die."
 
-"About what?"
+"That is, that is, <em>logical</em>," said Yali reluctantly. "But it's just, it's just… Okay. We can agree to that, but if I ever make you do one of the games, we have to have a talk about it afterwards, once the crisis is over. To make sure that I didn't… didn't take away an outlet that you needed. I don't ever want to make you feel trapped. And, and, about that, there's, there's, there's…"
 
-"I don't want you to feel like you can't go for intimate relationships with other people, because of me."
+"Yeah?"
+
+"I don't know whether this will matter in the Otherworld, but… I mean, I, I should have talked to you about this before, this definitely isn't the right time…"
+
+"Oh come on, when have we ever stuck to doing things at the right time? Just spit it out."
+
+"I – okay. I, I don't want you to feel like you can't go for intimate relationships with other people, because of me."
 
 "Woah, like, polyamory?"
 
@@ -588,11 +591,11 @@ Yali smiled, but only a little. "I know. It's what I love about you. You don't s
 
 "Maybe I can help you believe that it can make it <em>more</em> real."
 
-"Yeah, probably, I mean, you've convinced me that black is white plenty of times before. We were supposed to be soulmates, though! Like a ?????, like two jigsaw puzzle pieces that fit together perfectly –"
+"Yeah, probably, I mean, you've convinced me that black is white plenty of times before. We were supposed to be soulmates, though! Like a ?????, like two jigsaw puzzle pieces that fit together perfectly!"
 
 "Jigsaw pieces have three other sides, you know."
 
-I was flabbergasted.
+[????? I was flabbergasted.]
 
 "I want to build something with you that's so solid that it will last forever. And there'll be a time when both our infatuation has worn off, when we won't be able to rely on just being head-over-heels for each other. But when that time comes, I want to <em>still be with you</em>. I want to make sure we both get <em>all</em> of our needs met, from, from, from all sides of the jigsaw puzzle, not just one. You have so much passion, you're overflowing with it, that's what I love about you, and if that passion ever makes you love someone else as well as me, that's what I <em>want</em> to happen."
 
@@ -602,12 +605,13 @@ I was flabbergasted.
 
 "No fucking way! I'd feel like SUCH an asshole if I had sex with someone else first just because you – uh, you know, because you, uh, can't," I finished awkwardly. "And that other stuff, I mean, so I'm infatuated, but I <em>want</em> to be infatuated. I want to –" I swallowed. There were a lot of things I wanted, and a lot of them stepped over the boundaries we had just agreed to.
 
-"I'm not saying you <em>have to</em> do anything with anyone else. But I want you to keep it in mind. I don't ever want to be the one who makes you feel trapped."
+"I'm not saying you <em>have to</em> do anything with anyone else. But I want you to keep it in mind. I don't <em>ever</em> want to be the one who makes you feel trapped."
 
-"I, uh, okay. I'll keep it in mind." I was feeling kind of weird about that, and I wanted to ask more questions, but I could feel that Yali was getting a little agitated again. I <em>really</em> didn't want to say something stupid and push her buttons when I had already messed up so badly just hours ago.
+"I, uh, okay. I'll keep it in mind." I was feeling kind of weird about that, and I wanted to ask more questions, but I could feel that Yali was getting a little agitated again. I <em>really</em> didn't want to say something stupid and push her buttons when I had already messed up so badly just hours ago. So we sort of uncomfortably left it at that.
 
+"So, uh," I said, "if that's all we have to talk about, I could give you your alone time for now."
 
-?????
+"Just a minute." Her eyes drifted past me. She was using the Seeing. Then she came back to the present. "
 
 <bigbreak>
 
@@ -615,7 +619,7 @@ The days dragged on.
 
 The freaky thing was that I didn't feel any different. When Yali had told me about the Blood God stuff, I had expected that it would be a constant struggle to hold on to what I really wanted. Like there would be an invader in my mind that I had to fight against. But instead, it was constant… normal stuff. Just me thinking stuff that I would normally think. Reacting the way I would normally react. Until the moment when I realized I had gone over the edge and hurt her.
 
-I ended up second-guessing myself all the time. Whenever I was about to say something, I hesitated, thinking, <em>is this going to be the thing that sends me down the wrong path again?</em> The first time Yali said she was going to study the Codex, my first thought was <em>oh, for fuck's sake</em>. Of course, I didn't say <em>that</em>. So I said "sure, go ahead." But then I noticed that I had said it irritably without even thinking about it. That was scary. So the next time, I stopped myself, and didn't say it out loud until I was sure I could say it calmly.
+I ended up second-guessing myself all the time. Whenever I was about to say something, I hesitated, thinking, <em>is this going to be the thing that sends me down the wrong path again?</em> After our talk, the first time Yali said she was going to study the Codex, my first thought was <em>oh, for fuck's sake</em>. Of course, I didn't say <em>that</em>. So I said "sure, go ahead." But then I noticed that I had said it irritably without even thinking about it. That was scary. So the next time, I stopped myself, and didn't say it out loud until I was sure I could say it calmly.
 
 It turned into a routine. I would calm myself down, reminding myself of how much I believed in respecting Yali's boundaries. It wasn't exactly <em>fun</em> – my feelings felt kind of deadened, uncertain. But it kept the peace between us. I muddled along, just waiting for the stars to show us something new.
 
@@ -627,7 +631,7 @@ Yali carefully asked me a few questions, to make sure I really wanted to help. B
 
 It was boring work, mostly just staring at one stationary star after another. But at least I could feel like I was working alongside Yali, theoretically getting stuff done. It was boring, but it wasn't the isolating, resentful kind of boring I'd been dealing with before.
 
-Eventually, we actually stole one of the telescopes from another star so that we could both use the telescope at the same time. I just cut the other telescope down with a Blood Blade – a little nervously, because I was worried I'd break my carefully balanced sense of calm if I cut anything aggressively. But it worked. And then I manifested in a new base for it on our own star. We actually did it with a few more telescopes soon after, just so Yali could leave them configured in different ways.
+Eventually, we actually stole one of the telescopes from another star so that we could both use the telescope at the same time. I just cut the other telescope down with a Blood Blade – a little nervously, because I was worried I'd break my carefully balanced sense of calm if I cut anything aggressively. But it worked. And then I manifested in a new base for it on our own star. We actually did it with a few more telescopes soon after, just so Yali could leave them configured in different ways. We tried to do it with one of the computers, too, but it didn't work once it was separated from the star, and we couldn't figure out how to power it.
 
 We spent a lot of time scanning the sky together, almost shoulder to shoulder – although we technically stayed far enough apart that we wouldn't bump into each other, because it was way too easy to knock the telescopes off their calibration. We spent hours in near silence, just occasionally speaking if one of us saw something unusual.
 
