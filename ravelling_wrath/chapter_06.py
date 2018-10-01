@@ -455,7 +455,7 @@ That's when I noticed the look on her face. It was subtle, but I'd seen a lot of
 
 Something knotted up in my stomach, like maybe I'd gone too far. But I couldn't just leave it like this! I took half a step back and said, "Hey, uh, you've gotta work with me here, alright? Just, uh –" She still had that frozen look. I stepped back further. "Come on, you know I'm not going to hurt you! You can stop looking like that!" She didn't react. I held up my hands placatingly. "Look, I'm going to leave now, okay? Then you won't have to talk to me or anything. So that's good, right?!"
 
-I wasn't even sure if I was being bitter or just saying whatever came into my head. Anyway, I clearly wasn't getting any sort of response from her. Just seeing her like this was tearing me up inside. I couldn't think of anything else to do, so I followed through with what I said, dashed off the side of the platform and fell around to the underside.
+I wasn't even sure if I was being bitter or just saying whatever came into my head. Anyway, I clearly wasn't getting any sort of response from her. Just seeing her like this was ripping me up inside. I couldn't think of anything else to do, so I followed through with what I said, dashed off the side of the platform and fell around to the underside.
 
 It wasn't much for privacy, but at least we couldn't see each other directly. My head was pounding. I just wanted to get away from everything. If only there was somewhere around here to go for a long run, to blow off all this excess energy. But all I had was this tiny platform, with nowhere to really move around at all.
 
@@ -467,11 +467,15 @@ After a few dozen angry steps, my muscles started warming up. Another few dozen,
 
 Yali…
 
-What had I yelled at her for? ?????
+What had I yelled at her for?
 
-?????
+It was so stupid. This wasn't supposed to happen! We were supposed to be going on romantic adventures and fighting off the Blood God. Not this! I wasn't supposed to be the kind of person who would yell in their girlfriend's face over petty shit like this!
 
-Could it be that we were actually incompatible? ????? It was like having my guts ripped out. I had no one else. Not Layo. Not Mom and Dad. Not ?????. There'd be the other Ravellers, but they were so far away and I had no idea what they'd be like. Yali was the ONLY person I had. And if I kept fucking up like this, I was going to lose her.
+How had this happened?! All I was trying to do was have fun and act normally! Why couldn't that just work? Why did Yali have to suddenly turn into someone who couldn't handle it?
+
+But worse… She had said it <em>wasn't</em> a change. This was how she was <em>normally</em>.
+
+A horrible thought snuck into my head. Could it be that we were actually incompatible? Would we be stuck fighting over how much time to spend together until one of us dumped the other? It was like having my guts ripped out. I had no one else. Not Layo. Not Mom and Dad. Not even some random asshole to rant at. There'd be the other Ravellers, but they were so far away and I had no idea what they'd be like. Yali was the ONLY person I had. I HAD to make this work, somehow. And if I kept fucking up like this, I was going to lose her.
 
 That look on her face, when I'd blown past her Controlling Game… what was that look? She'd been tensed up, frozen in place, like she couldn't handle what was happening. Almost like… fear?
 
@@ -481,11 +485,11 @@ I had made her afraid of me.
 
 I felt like I was going to throw up. My hands tingled and my legs shook. I kept shoving my feet into the treadmill harder and harder, as if walking hard enough would change what happened. How could I have DONE that?? Why couldn't I have just LISTENED to her??!! So many feelings were crushing me from all sides. Loneliness. Guilt. Fear. Nausea. Helplessness. Self-pity. I doubled over, slumping my full weight against the handle of the treadmill. An uncontrollable sob tore out of me. I was barely holding myself up. My tears splattered freely on the floor.
 
-I don't know how long I stayed like that. Wave after wave of emotion slammed into me. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, intending to un-manifest the treadmill and then make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering half a meter up in the air. As soon as I moved, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
+I don't know how long I stayed like that. Wave after wave of emotion slammed into me. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, intending to un-manifest the treadmill and then make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering half a meter up in the empty air. As soon as I made the gesture, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
 
-I couldn't even bring myself to get up again. I just made a heavy blanket over me and curled up inside it. Parts of me were still lying directly on the floor, but if I wanted to get more comfortable, I'd have had to lift myself up at all. Was just too much to even think about. I lay that way for a long time, not quite resting. It was half comfort, half pain.
+I couldn't even bring myself to get up again. I just made a heavy blanket over me and curled up inside it. Parts of me were still lying directly on the floor, but if I wanted to get more comfortable, I'd have had to lift myself up at all. And that was just too much to even think about. I lay that way for a long time, not quite resting. It was half comfort, half pain.
 
-I should go apologize to her, I said to myself. I could just run back to the other side and tell her I knew I fucked up and beg for her forgiveness. What was I waiting for?! I should have done that as soon as I realized! But… what would that even mean to her? Would that make her feel better? Or would I just be pushing more talking on her when she wasn't ready for it?
+I should go apologize to her, I said to myself. I could just run back to the other side and tell her I knew I fucked up and beg for her forgiveness. What was I waiting for?! I should have done that as soon as I realized! But… what would that even mean to her? Would that make her feel better? Or would I just be trying to make myself feel better, pushing more of my noise on her when she wasn't ready for it?
 
 My muscles made the decision for me. I wasn't going anywhere, not anytime soon.
 
@@ -611,7 +615,9 @@ I wasn't exactly <em>happy</em> with the arrangement, but at least it made thing
 
 "So, uh," I said, "if that's all we have to talk about, I could give you your alone time for now."
 
-"Just a minute." Her eyes drifted past me. She was using the Seeing. Then she came back to the present. "
+"Just a minute." Her eyes drifted past me. She was using the Seeing. Then she came back to the present. "Yes. Thank you."
+
+She hugged me tight, and then, for the moment, we went our separate ways.
 
 <bigbreak>
 
@@ -659,10 +665,9 @@ Before long, she had come to a conclusion. "It's the Justicar," she said serious
 
 "Okay."
 
+Yali gave me a bunch more tips about what to say and not say in front of the Justicar. I tried to pay attention, but I had trouble taking it to heart. Could I really trust what she was telling me? I mean, of course I could, but there was something nagging at me, and I wasn't sure what.
 
-?????
-
-could make out a figure standing there.
+It wasn't long before the time when Yali had calculated we'd meet up. Just like every other time, one of the stars started to move in the sky, then got bigger. Only this time, I could make out a figure standing there.
 
 As the star drifted closer, I could make out more details of the figure. Tall and proud, she was dressed in a gleaming armor from the neck down. She stood rigidly in place, silently watching us as the stars came together.
 
