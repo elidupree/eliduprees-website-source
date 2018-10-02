@@ -74,7 +74,7 @@ I jumped up, every part of me snapping to alert. "What's coming? Where?"
 
 "A, a – a human!" Yali pointed wildly towards the sky. "Very fast, going to crash!"
 
-"A human from the sky?" I confusedly looked where she was pointing, but didn't see anything. But Justicar was already in action. She raised her arms in front of her, in a powerful stance. All around us, a steel dome began to form, with a rigid network of supporting bars making it look almost impossible to break. Where in the Endless did she learn to manifest like that?! I couldn't make anything half as big, and she did it without even touching the stuff she was creating.
+"A human from the sky?" I confusedly looked where she was pointing, but didn't see anything. But Justicar was already in action. She raised her arms in front of her, in a powerful stance. All around us, a steel dome began to form, with a rigid network of supporting bars making it look almost impossible to break. Where in the Endless did she learn to manifest like that?! I could make some pretty big stuff, but something the size of the entire star was way beyond me. And she did it without even touching the stuff she was creating.
 
 My heart was pounding. I hardly knew what was happening – but there was one thing I knew for sure. "Hey, stop that!" I yelled to Justicar. "Whoever's coming is gonna smash into this! You'll get them killed!" Justicar barely noticed me, so I jammed a Blood Blade into the structure of the partially-formed dome, disrupting how she was building it.
 

@@ -251,7 +251,7 @@ That would mean I could manifest corpses, I guess. Curiously, I tried out manife
 
 That was another thing we could do. We could <em>unmanifest</em> anything we manifested, just by wanting it to go away. I had done that subconsciously the first time I made a Blood Blade. Things wouldn't disappear just because you forgot about them, but if you specifically <em>wanted</em> them to disappear, they would.
 
-And the Blood Blades… they were still the easiest thing for me to manifest. Not that other things were hard, but I could basically grab a Blood Blade out of thin air and cut something with it in one smooth motion, without having to think about what I was doing first.
+And the Blood Blades… they were still the easiest thing for me to manifest. Not that other things were hard, but I could basically grab a Blood Blade out of thin air and cut something with it in one smooth motion, without having to think about what I was doing first. ?????
 
 <bigbreak>
 
@@ -397,15 +397,17 @@ Yali's voice echoed weirdly from somewhere. "Manifest a bucket!"
 
 I wasn't going to let a little nausea get the better of me. I immediately got up and stepped off the edge again, falling back around to the side I'd been on originally.
 
-"Check it out," I said, tossing one of the balls I found it Yali. "All those balls just went rolling off the edge and we never thought about what happened to them that!"
+"Check it out," I said, tossing one of the balls I found it Yali. "All those balls just went rolling off the edge and we never thought about what happened to them!"
 
 "Yeah, that's pretty cool," said Yali. But she wasn't really paying attention. She'd probably seen this all before, Stern take it.
 
 "Yeah, so, uh, I guess I can go hang out on the other side now. So I won't disturb you."
 
-"Thanks. I think I'll be done in, in…" I didn't bother to wait for her to finish. Half the time she just trailed off and never finished anyway.
+"Thanks. I think I'll be done in, in…" I didn't bother to wait for her to finish. Half the time she would just trail off and never finish anyway.
 
-[????? the other side was kind of fun because I didn't censor myself, but also I was lonely]
+Being on the other side was… a bit of a relief, but not much. I had a little more privacy now, so I could just mess around doing whatever I wanted without worrying about how Yali would react. I manifested a lot of weird shit, just to see if I could. But even when I did something cool, I didn't have anyone to show it to. And the place wasn't even soundproof. One time I made a tower of junk just so I could kick it down, but then Yali complained about the noise. So now I was stuck in a magical world where I could do anything I wanted, except for all the things I actually wanted to do.
+
+So I ended up spending a lot of time sitting around feeling sour about things. And then the next time Yali wanted to talk to me, I didn't feel that much better. It went back and forth, back and forth. I couldn't wait to get out of this place.
 
 <bigbreak>
 
@@ -439,13 +441,13 @@ I looked back over at her. "What?" I said.
 
 "That's a, I'm sorry, I, I didn't think of, of, I spent so much time planning for the bigger stuff, I just, this kind of idle time, I didn't think of it. And I've, I've, been trying, to make this, to, to give you what you want, too, but, I, I've been trying, I…" she trailed off.
 
-I waited impatiently for her to go on, but she didn't. Frustrated, I gave up and turned away. But when I thought of going back to ?????, something bitter reared up inside me. How could I just <em>let her</em> leave me hanging like this?!
+I waited impatiently for her to go on, but she didn't. Frustrated, I gave up and turned away. But when I thought of going back to being all alone, something bitter reared up inside me. How could I just <em>let her</em> leave me hanging like this?!
 
 I whirled back on her. The words caught in my throat – I knew it was wrong, but it just felt so <em>right</em>. I spat, "This is your idea of giving me what I want?!"
 
 Yali's face fell with dismay.
 
-I stomped towards her. "You think you can string me along, acting all nice, like everything's great [????? change those phrases to be more blood God inspired], and then when I'm <em>stuck on a rock with you</em>, you clam up on me?!" I swung my arm for emphasis, but it went farther than I intended, and my hand smacked into the table, bumping the clay pot Yali had made earlier. It wobbled and almost fell over.
+I stomped towards her. "You think you can string me along, acting like you're such a caring person, like you're going to make everything right, and then when I'm <em>stuck on a rock with you</em>, you clam up on me?!" I swung my arm for emphasis, but it went farther than I intended, and my hand smacked into the table, bumping the clay pot Yali had made earlier. It wobbled and almost fell over.
 
 "Controlling Game," said Yali tensely.
 
