@@ -189,7 +189,7 @@ When I looked back, Yali was holding a clay pot.
 
 Yali gave an embarrassed smile. "I thought I'd try manifesting. The first thing I thought of was a potted plant I used to have in my room. But I forgot you can't manifest anything that has its own soul."
 
-"Plants have souls?" I said. Then I smacked myself in the forehead. "Well duh, of course I knew that. It's just not something you think about every day, you know? Wait, never mind that! Manifesting! How do I do this, do I just, like, <em>want</em> something into existence –" I waved a hand, imagining that I was pulling something out of thin air.
+"Plants have souls?" I said. Then I smacked myself in the forehead. "Well duh, of course I knew that. It's just not something you think about every day, you know? Wait, never mind that! Manifesting! How do I do this, do I just, like, <em>want</em> something into existence –" I waved a hand, imagining that I was pulling something out of thin air. [???? clear that it's not a specific thing imagined]
 
 Yali flinched.
 
@@ -251,11 +251,11 @@ That would mean I could manifest corpses, I guess. Curiously, I tried out manife
 
 That was another thing we could do. We could <em>unmanifest</em> anything we manifested, just by wanting it to go away. I had done that subconsciously the first time I made a Blood Blade. Things wouldn't disappear just because you forgot about them, but if you specifically <em>wanted</em> them to disappear, they would.
 
-And the Blood Blades… they were still the easiest thing for me to manifest. Not that other things were hard, but I could basically grab a Blood Blade out of thin air and cut something with it in one smooth motion, without having to think about what I was doing first. ?????
+And the Blood Blades… they were still the easiest thing for me to manifest. Not that other things were hard, but I could basically grab a Blood Blade out of thin air and cut something with it in one smooth motion, without having to think about what I was doing first. It was a little spooky to catch myself creating sharp blades without even thinking about it, but since they wouldn't cut anything I didn't want to cut, it wasn't <em>technically</em> dangerous.
 
 <bigbreak>
 
-After floating in empty space for hours, I was excited for our first encounter with another star. Right on schedule, one of the distant stars started moving slowly across the sky, then quicker and quicker. Over the next few minutes, it got bigger and bigger, until it was finally close enough for me to see that it really was another platform just like ours.
+After floating in empty space for hours, I was excited for our first encounter with another star. Yali had calculated the exact time it would get to us. Right on schedule, one of the distant stars started moving slowly across the sky, then quicker and quicker. Over the next few minutes, it got bigger and bigger, until it was finally close enough for me to see that it really was another platform just like ours.
 
 The other platform glided toward us with a wide, sweeping movement, and I briefly worried that we'd crash. But then it slowed down and gently came to a stop exactly next to our own platform. The very edges of the circles were just barely touching each other, and they'd settled into place without a sound. It was actually pretty amazing.
 
@@ -272,8 +272,6 @@ The novelty wore off almost immediately. The other star was literally <em>exactl
 "Yes…"
 
 I grinned. I strode up to the computer on the other platform, grabbed a Blood Blade high over my head, and smashed it down through the middle of the screen. "Aww yeah! I've been wanting to do this!" I completely trashed the place, chopping the computer and the telescope into little pieces. I knew it wouldn't change anything, but that computer had really pissed me off.
-
-????
 
 <bigbreak>
 
@@ -325,7 +323,7 @@ Irritably, I muttered, "Or you could just wake up now." But then I felt bad abou
 
 I rolled out of bed, then pulled out my phone to check how long it had been.
 
-"Fuck!! My battery!" I frantically checked the computer to see if it had the right port to charge it from, but it didn't. How in the Endless was I going to keep it charged? I'd known I wasn't going to get service out here, but I still used my phone for all kinds of things. Why hadn't I thought about how it was going to run out of battery? "Fuck!" I yelled again.
+"Fuck!! My battery!" I frantically checked where the computer was plugged in, but it didn't even have a power outlet, its power cord just went right down into the star somehow. And the computer didn't have the right port to charge my phone from either. How in the Endless was I going to keep it charged? I'd known I wasn't going to get service out here, but I still used my phone for all kinds of things. Why hadn't I thought about how it was going to run out of battery? "Fuck!" I yelled again.
 
 "Battery pack," said Yali's voice. She was sitting up now. "C'mere."
 
@@ -335,7 +333,7 @@ I rolled out of bed, then pulled out my phone to check how long it had been.
 
 "You brought a battery pack? I mean, thanks a bunch, but won't that run out too?" I said. But I did plug my phone into it and leave it on the table.
 
-"I'll manifest another. This isn't even the original, I only borrowed it from someone –"
+"I'll manifest another. I didn't even bring it to the Otherworld, I only borrowed it from someone –"
 
 "Ohhhh. Woah, so you intentionally imprinted a battery pack so you could make as many fully charged battery packs as you want? You're a genius!"
 
@@ -371,7 +369,7 @@ Sure, there was the looming threat of our possible deaths. But it didn't really 
 
 We'd been floating through space for days now. We had only transferred to another star <em>once</em>. We still had no idea where the other Ravellers were, despite Yali spending hours with the telescope. Even manifesting wasn't any fun anymore. Every time I tried something, I just thought of how much I missed everyone from back home. Where was Layo to make things fun? Where was Pèi to say something sarcastic? Even my parents – I couldn't stand them, and it was great to be away from them looking over my shoulder, but now I just felt empty.
 
-The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. It didn't make her exhausted like it had back in the regular world, but she still spent lots of time on it. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't see just keep us alive faster? Stern take it all. Not only that, but whenever I <em>wanted</em> to know something from the future, she didn't know it, because the Seeing had a whole bunch of limitations.
+The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. It didn't make her exhausted like it had back in the regular world, but she still spent lots of time on it. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't she just keep us alive faster? Stern take it all. Not only that, but whenever I <em>wanted</em> to know something from the future, she didn't know it, because the Seeing had a whole bunch of limitations.
 
 For one thing, it only showed <em>possible</em> futures, so if she looked too far ahead, almost anything could happen. For another, she couldn't see <em>anything</em> after we went to the next layer. Apparently, at each layer crossing, the gods wove more of their threads in to us – and when the other gods did something big like that, the Waiting God wouldn't be able to predict it. Even some of the other Ravellers' powers were enough to disrupt the Seeing and make parts of the future unreadable. And finally, it was hard to find specific futures even if you wanted to. Yali said she'd seen glimpses of the other Ravellers, and even bits of conversation, but those were only things they <em>might</em> say in <em>some</em> situation, not a whole picture. So the Seeing <em>sounded</em> great, but it was a whole lot of bother to get anything good out of it.
 
