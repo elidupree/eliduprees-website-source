@@ -60,9 +60,71 @@ I couldn't stand having some intimidating stranger demand that I swear to stuff,
 
 "I –" The Justicar shook her head slightly, as if she was trying to shake off some unpleasant thought. "My human name doesn't matter here. Call me Justicar."
 
+<bigbreak>
+
+Traveling with Justicar was, at least, something <em>new</em> to be annoyed about.
+
+She mostly just sat there stiffly and watched us. Occasionally, she stepped in to work with Yali in mapping out the upcoming stars. To my annoyance, she actually seemed to understand the Codex <em>better</em> than Yali did! I couldn't really be sure because I didn't understand any of the technical stuff they were talking about, but every time they disagreed with each other, Yali seemed vague and confused while Justicar had a concise and specific description of everything. Yali was still more efficient at using the telescopes, but only because Justicar absolutely refused to use our extra, stolen copies. She only used the one that was built into the star. Yali seemed happy enough to leave that one for Justicar and use the others herself.
+
+Other than warning me not to attack Yali and working on the star stuff, Justicar never seem to want to talk about anything. And not for lack of trying on my part. The first thing I'd tried was just acting casual, saying, "So, what's it like being the Justicar?"
+
+"I am not interested in small talk," she said.
+
+"You don't have to be so – wait, ha ha, was that actually an answer to my question?"
+
+"No. It was a refusal to answer."
+
+"Ugh, you don't have to rub it in."
+
+A while later, I tried again. "That's a cool sword you got there."
+
+She ignored me.
+
+"Can I look at it?"
+
+"A sword is not a toy. I will not draw my sword unless I intend to kill."
+
+"How can you carry around such a cool, shiny thing and never take it out to look at it??"
+
+"I have learned not to give in to every childish impulse. As we all should learn."
+
+"Stern take it, are you always like this??"
+
+"If, by 'like this', you mean 'honestly answering questions that are asked of –"
+
+"Oh, forget it."
+
+Another while later, I had another thought. "Wait a minute, if you never draw your sword, how do you practice?"
+
+"I have no need of practice. Should a tragedy occur wherein I am forced to draw my sword, the Stern God's guidance will be enough. And I certainly would not practice in front of <em>you</em>."
+
+"Okay, but you should totally practice with Yali!"
+
+"What?"
+
+"You want to protect her, right? So isn't it good if she knows how to defend herself?"
+
+That seemed to get under her skin a little. "That – the Farseer should not have to fight!"
+
+"Yeah, but if she does, wouldn't you want –"
+
+"Besides, the only one who seems likely to endanger the Farseer is <em>you</em>. Are you implying that you might do such a thing?"
+
+"Of course not! But in this <em>hypothetical</em> situation you <em>seem to be imagining</em> where I do, wouldn't you prefer it if –"
+
+"Rinn," said Yali warningly.
+
+"Okay, fine." Right, one of the random things Yali had told me was that I shouldn't encourage Justicar to think about me attacking her. I decided to shut up. Justicar seemed satisfied with that, which was… both frustrating and a relief, I guess. I didn't like letting her win, but if she just stayed out of the way and kept thinking annoying things all by herself, that wasn't my biggest problem.
+
+It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I ended up sleeping sitting up, staring right back at her.
+
+Since I was stuck staring at her face for the whole "night", I stated to notice some things that I hadn't noticed earlier. Even though she stayed in the same rigid posture the whole time, a few of the lines in her face suggested someone very, <em>very</em> tired. And some parts of her skin looked dry and flaky, even with tiny cracks. I wouldn't have noticed it if I didn't look closely, but there it was.
+
 ?????
 
 [????? Description of Justicar traveling with them]
+
+
 
 [????? Yali and Justicar work together using the telescope and stuff. Justicar uses the originals, Yali uses the vandalized ones]
 
