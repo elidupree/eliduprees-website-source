@@ -24,9 +24,13 @@ head = '''<style>
 }
 div.blog_post h1 {
   text-align: center;
+  padding-left: 0;
+  padding-right: 0;
 }
 div.blog_post h2 {
   text-align: center;
+  padding-left: 0;
+  padding-right: 0;
 }
 div.blog_post p {
   clear: both;
