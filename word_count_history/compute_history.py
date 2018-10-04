@@ -8,15 +8,18 @@ import time
 import datetime
 from datetime import date
 import re
+import html
 
 repo = Repo (os.getcwd())
 
 commit = repo.commit ("master")
 
 
+def strip_tags(string):
+  return re.sub(r"<.+?>","",string)
 
 def word_count (string):
-  return len(re. findall (r"\w[\w']*", string))
+  return len(re. findall (r"\w[\w']*", html.unescape (strip_tags (string))))
 
 current_date = None
 previous_words = None
