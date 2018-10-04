@@ -8,7 +8,7 @@ blurb = "A pair of teenagers get caught up in a conflict between the gods. (5 ou
 def chapter_start (title, warnings = None):
   return '''<h2>'''+ title +'''</h2>
 
-  '''+ ("" if warnings is None else content_warning_header (warnings))
+  '''+ ("" if warnings is None else content_warning_header ("<p>Content warnings for this chapter:</p>" + warnings))
 
 head = '''<style>
 
