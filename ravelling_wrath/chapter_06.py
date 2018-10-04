@@ -13,10 +13,19 @@ posts = [
   "don't deploy": True,
   "authors_notes":'''
 
+<p>At over 12000 words, this chapter sure is a doozy!</p>
+
+<p>Since this is the first chapter in the Otherworld, I had a lot of stuff I needed to set up. The rules of the Otherworld in general. The physics of the Waiting God's layer in particular. How manifesting works. The subtleties of Rinn's reactions to everything. And during all the exposition, I had to keep up the appropriate range of promises, like the one about the other Ravellers, and the ones from this chapter's major subplot about Rinn handling zir boredom and loneliness.</p>
+
+<p>Amusingly, the exact rules of manifesting weren't established until very late in my design process. I knew from the beginning that I didn't want it to be able to create living things. But I also had multiple planned scenes where characters manifested <em>food</em>, so I had to come up with the justification for why food is allowed when actual living things aren't. Also, I wanted it to be able to create pretty much anything you could think of, but what if you thought of "a supercomputer that's better than any that's been invented yet"? That seemed like it could get out of control. So I eventually came up with a system that's somewhere in the middle, with lots of freedom but also interesting limitations.</p>
+
+<p>Also, I definitely wanted manifested objects to be "less real" in some sense – e.g. the fact that it's possible to unmanifest them. (And the fact that they generally can't exist in the material world.) But I also didn't want them to disappear as soon as you weren't thinking about them, because it would suck if the characters manifested a bed and then it disappeared as soon as they were asleep. So… this is how it ended up.</p>
+
+<p>Finally, <em>(whispering)</em> don't tell anyone, but this chapter has specific foreshadowing for a secret that is isn't going to be revealed until <em>ten chapters later!</em> We're really getting into the swing of things.</p>
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 6: The Starry Void", '''<p></p>''') +'''
+  "contents": chapter_start ("Chapter 6: The Starry Void", '''<p>Verbal abuse.</p>''') +'''
 
 I quickly sat up and looked around.
 
