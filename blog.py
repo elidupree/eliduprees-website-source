@@ -893,7 +893,7 @@ def metadata_and_comments_section_html(title, permalink, taglist, stream_only, m
     date_str = 'Posted '+date_stringify(metadata["date_posted"])+utils.inline_separator+'Last updated '+date_stringify(metadata["date_modified"])+utils.inline_separator
   
   return ('''
-<div class="blog_post_metadata_outer">
+<div id="'''+metadata["id"]+'''_metadata" class="blog_post_metadata_outer">
   <div class="blog_post_metadata">
     '''+ Patreon_stuff +'''
     '''+tags_str+date_str+'<a rel="bookmark" href="'+permalink+'">Permalink' + specifier + '</a>'+

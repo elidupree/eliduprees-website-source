@@ -34,6 +34,28 @@ def make_page(title, head_stuff, body_stuff, extras = {}):
       <meta name="description" content="'''+ blurb +'''">
       <meta property="og:description" content="'''+ blurb +'''">
       ''')
+  cooperation_stuff.append('''<!-- Global site tag (gtag.js) - Google Analytics -->
+<script>
+  // don't even load the gtag script if the user said "do not track"
+  if (navigator.doNotTrack !== 1 && document.domain.endsWith("elidupree.com")) {
+    var a = document.createElement('script');
+    a.async=1;
+    a.src="https://www.googletagmanager.com/gtag/js?id=UA-127009167-1";
+    var m=document.getElementsByTagName('script')[0];
+    m.parentNode.insertBefore(a,m);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-127009167-1', {
+      'link_attribution': {
+        'levels': 4
+      },
+      'anonymize_ip': true
+    });
+  }
+</script>''')
   
   return '''<!DOCTYPE html>
 <html lang="en" class="javascript_disabled'''+(' '+extras["html_class"] if "html_class" in extras else '')+'''">
