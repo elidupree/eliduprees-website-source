@@ -20,6 +20,29 @@ posts = [
   
 [????? the missing star]
 
+?????
+
+"Wait, so you can just read our minds all the time?"
+
+"No, only Alchemist's."
+
+"What."
+
+"Ow'm I supposed to read those two's minds past how they're on guard all the time?"
+
+"What about me?" I said.
+
+"Oh, I don't NEED to read YOUR mind. I can already tell what you're going to do next."
+
+"Oh yeah? What am I going to do next?"
+
+"First you're going to deny it, then you're going to complain that it's not fair."
+
+"No, I'm not."
+
+"There's the denial…" said Justicar.
+
+"Hey!" <em>That's not fair</em>, I thought, but this time my mind managed to get a step ahead. I shut my mouth instead. Yali chuckled.
 
 ?????
 
@@ -29,7 +52,7 @@ posts = [
 
 "It's the Seeing. It's –"
 
-"Ooh! Ooh!" said Morrow. "Does it mess it up when he manifest? How does it work? Tell me!"
+"Ooh! Ooh!" said Morrow. "Does it mess it up when we manifest? How does it work? Tell me!"
 
 "The truth is, even though it's called the Seeing," began Yali patiently, "it's not much like seeing with my eyes. It's more like, sort of… holding very still, to <em>listen</em> for the future. And your manifesting is very… noisy. So it's hard to hear anything past what you're about to manifest."
 
@@ -42,9 +65,7 @@ posts = [
 "Something like that, yes."
 
 
-?????
-
-[????? Someone asks about the difference between alchemy, sorcery, and manifesting]
+????? [????? Someone asks about the difference between alchemy, sorcery, and manifesting]
 
 [Rinn tells the story about jumping out her window]
 

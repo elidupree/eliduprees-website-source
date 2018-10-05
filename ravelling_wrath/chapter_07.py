@@ -122,7 +122,7 @@ Since I was stuck staring at her face for the whole "night", I stated to notice 
 
 <bigbreak>
 
-The days went on. Justicar claimed she had found evidence about the Alchemist's location, although she couldn't get a clear picture because of some sort of star resonance or something. Yali and I tried to find time to enjoy ourselves, although it was hard to loosen up with Justicar watching us like a hawk whenever we were close to each other.
+The days went on. Justicar claimed she had found evidence about the Alchemist's location, although she couldn't get a clear picture because of some sort of star resonance or something. Yali and I tried to find time to enjoy ourselves, although it was hard to loosen up with Justicar watching us like a hawk whenever we were close to each other. [????? Mention the 5 portals?]
 
 Today, Yali was doing her Seeing, as usual. Justicar was sitting up straight on a hard stool, standing guard over her. I slouched in a plush chair nearby. Theoretically, I could have just left and done something else. I could have hung out in my own space on the underside, because neither Yali nor Justicar wanted to go down there. But just like Justicar refused to leave me and Yali alone together, I couldn't stand letting Justicar be alone with Yali either. So we had reluctantly agreed to sit <em>exactly</em> the same distance away from Yali, whenever she was doing the Seeing and unaware of her surroundings.
 
@@ -428,7 +428,11 @@ Justicar's eyes widened – only a little, but it was the first time I had seen 
 
 ?????
 
-[????? Probably a discussion of Yali and Justicar's attempts to locate the Alchemist]
+[????? Probably a discussion of Yali and Justicar's attempts to locate the Alchemist, and the 5 portals]
+
+"Do we <em>really</em> have to find routes to all of the portals? I mean, I'm not saying this is a <em>good</em> idea, but couldn't we take a rocket, just like Morrow did?"
+
+Yali shook her head. "Morrow was lucky that his star was close to our own. Most of the stars are physically so far away that traveling by rocket would take thousands of years."
 
 [????? Morrow refers to the Alchemist as "he"]
 
@@ -450,7 +454,29 @@ That wasn't <em>exactly</em> the answer I was hoping for, but I could roll with 
 
 ?????
 
+"Everyone, look at this," said Justicar grimly.
 
+"What is that, some kind of chart?" I said.
+
+"I have been recording the positions of the Alchemist over the last 48 hours. Farseer, what do you make of this?"
+
+Yali squinted at it. "How many stars has the Alchemist visited in that time?"
+
+"Only one. I have not seen any other star come close."
+
+"But…" Yali frowned. "This isn't any of the six trajectories described in the Codex. It looks like it's wandering around completely at random."
+
+"Exactly. I can only conclude that the Alchemist has tampered with the star somehow."
+
+"But… That should be impossible! The stars aren't just objects, they're part of the Waiting God's design. Altering one of them would be like altering the god itself!"
+
+"Which makes it all the more mysterious that it seems to have happened."
+
+"So, uh," I interrupted, "I get that this is really weird god stuff, but what does it actually mean for us?"
+
+"For all this time," said Yali, "we've been trying to get to the Alchemist by visiting stars that will move closer to their star. But now that the Alchemist's star isn't even <em>connected</em> to the grand pattern, it will <em>never</em> meet up with another star, no matter what we do."
+
+"Oh no! "
 
 ''',
 },
