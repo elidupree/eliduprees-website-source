@@ -116,21 +116,39 @@ That seemed to get under her skin a little. "That – the Farseer should not hav
 
 "Okay, fine." Right, one of the random things Yali had told me was that I shouldn't encourage Justicar to think about me attacking her. I decided to shut up. Justicar seemed satisfied with that, which was… both frustrating and a relief, I guess. I didn't like letting her win, but if she just stayed out of the way and kept thinking annoying things all by herself, that wasn't my biggest problem.
 
-It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I ended up sleeping sitting up, staring right back at her.
+It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I ended up sleeping sitting up too, staring right back at her.
 
-Since I was stuck staring at her face for the whole "night", I stated to notice some things that I hadn't noticed earlier. Even though she stayed in the same rigid posture the whole time, a few of the lines in her face suggested someone very, <em>very</em> tired. And some parts of her skin looked dry and flaky, even with tiny cracks. I wouldn't have noticed it if I didn't look closely, but there it was.
+Since I was stuck staring at her face for the whole "night", I stated to notice some things that I hadn't noticed earlier. Even though she stayed in the same rigid posture the whole time, a few of the lines in her face suggested someone very, <em>very</em> tired. And some parts of her skin looked dry and flaky, even with tiny cracks. I wouldn't have noticed it if I didn't look closely, because her commanding presence was normally just so overwhelming, but there it was.
 
-?????
+<bigbreak>
 
-[????? Description of Justicar traveling with them]
+The days went on. Justicar claimed she had found evidence about the Alchemist's location, although she couldn't get a clear picture because of some sort of star resonance or something. Yali and I tried to find time to enjoy ourselves, although it was hard to loosen up with Justicar watching us like a hawk whenever we were close to each other.
 
+Today, Yali was doing her Seeing, as usual. Justicar was sitting up straight on a hard stool, standing guard over her. I slouched in a plush chair nearby. Theoretically, I could have just left and done something else. I could have hung out in my own space on the underside, because neither Yali nor Justicar wanted to go down there. But just like Justicar refused to leave me and Yali alone together, I couldn't stand letting Justicar be alone with Yali either. So we had reluctantly agreed to sit <em>exactly</em> the same distance away from Yali, whenever she was doing the Seeing and unaware of her surroundings.
 
+Getting stiff, I shifted in my chair. Justicar moved her own chair slightly, to make sure I wasn't getting closer than she was. "Stern take it," I muttered. Maybe she was a little closer than me now. But I wasn't <em>that</em> picky. I rolled over and got comfortable again.
 
-[????? Yali and Justicar work together using the telescope and stuff. Justicar uses the originals, Yali uses the vandalized ones]
+"Why do you invoke the Stern like that?" said Justicar, unexpectedly breaking her silence.
 
-?????
+"What, when I say 'Stern take it'?"
 
-[Suddenly,] Yali jerked out of her [Seeing]. "Something's coming!!" she shouted.
+"You don't seem to revere the Stern."
+
+"It's just something people say! Not everything is about the gods and their <em>principles</em> all the time!"
+
+"This is the Ravelling. Principles are <em>important</em>. And you are the <em>Blood Child</em> –"
+
+I snorted. "What do you expect me to say, like, 'By my blood!' or some shit?"
+
+"That <em>would</em> be –"
+
+"But that's so <em>old-fashioned</em>!" I complained. "I'd sound like, like, a cultist from some movie or something! Maybe I've said stuff like 'you're unworthy of your blood' once or twice, but that's just to piss off the old people who care about that kind of thing." There was an old saying that went, "Am I worthy of my blood?". It was supposed to be a rhetorical question, like, of course everyone is worthy of their own blood. So if you said someone <em>wasn't</em> worthy of their blood, it was a mortal insult, like saying they were less than human. That is, if you said it to an old person. If you said it to someone my age, they'd probably just look at you like "what the fuck are you talking about?".
+
+Justicar sighed. "You have no respect," she said. She didn't say it harshly, though, just resignedly. "But there <em>is</em> a value in the gods' teachings. If you find a true connection with them, it can turn your life around."
+
+"Sure," I said, casually stretching out in my chair, "but, you know, my life was pretty good before this all started. So 'turning it around' is kind of exactly the opposite of what I –"
+
+Suddenly, Yali snapped out of the Seeing, her body jerking forward violently. "Something's coming!!" she shouted.
 
 I jumped up, every part of me snapping to alert. "What's coming? Where?"
 
@@ -158,9 +176,9 @@ My heart was pounding. I hardly knew what was happening – but there was one th
 
 "GET DOWN!!!" yelled Yali. She grabbed my arm and threw me with her full weight, sending me tumbling off towards the edge of the star. And then everything exploded.
 
-In an instant, an overwhelming pain had smashed through limbs I didn't know I'd had. And then after the first shock, there was a burning so strong it brought tears to my eyes. But I had my own fire inside of me, and I wouldn't be beaten so easily. Biting back the pain, I forced myself to climb to my feet and look back at the wreckage.
+In an instant, an overwhelming pain had smashed through limbs I didn't know I'd had. And then after the first shock, there was a burning so strong it brought tears to my eyes. But then my own fire surged up inside of me. I wouldn't be beaten so easily. Biting back the pain, I forced myself to climb to my feet and look back at the wreckage.
 
-The sounds echoed into my mind. The loud snap of the Blood Blades shattering and the trampoline tearing apart. The crash of collapsing metal. And the thud and crack as a human body smashed onto the surface of the star.
+Belatedly, the sounds echoed into my mind. The loud snap of the Blood Blades shattering and the trampoline tearing apart. The crash of collapsing metal. And the thud and crack as a human body smashed onto the surface of the star.
 
 He lay sprawled on the floor, a mass of blood with one arm torn open and one leg twisted at a horrible angle under him. Massive burn marks covered his clothing and half his chest. My heart caught in my throat as I struggled towards him. For an awful moment I was sure he was dead.
 
@@ -286,7 +304,7 @@ Morrow did a double take. Then he shamelessly looked back and forth between me a
 
 Morrow was <em>fun</em>.
 
-[????? Morrow and Rinn 1 upping each other with manifesting; the pain stick, probably when Justicar is NOT looking; the suicide joke, when Justicar IS looking]
+[????? Morrow and Rinn 1 upping each other with manifesting; the pain stick, probably when Justicar is NOT looking; the suicide joke, when Justicar IS looking; the water balloon thing]
 
 ??????
 

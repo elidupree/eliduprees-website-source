@@ -46,6 +46,8 @@ posts = [
 
 [????? Someone asks about the difference between alchemy, sorcery, and manifesting]
 
+[Rinn tells the story about jumping out her window]
+
 
 
 ''',
