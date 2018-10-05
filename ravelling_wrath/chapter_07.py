@@ -298,7 +298,7 @@ Morrow tossed his sandwich on the floor so he could shake my hand. "Rinn! Brilli
 
 I grinned. "You seem pretty kickass yourself," I said. Then, because I didn't want him to get the wrong idea, I added, "I'm gay, by the way."
 
-Morrow did a double take. Then he shamelessly looked back and forth between me and Yali. "Fire and stone. I like it!" It was a compliment. He was comparing us to the lovers from a legend.
+Morrow did a double take. Then he shamelessly looked back and forth between me and Yali. "Fire and stone. I like it!" It was a compliment. He was comparing us to the lovers from a legend. The lovers from the legend also died, but he probably wasn't thinking of that part.
 
 ?????
 
@@ -306,11 +306,47 @@ Morrow was <em>fun</em>.
 
 [????? Morrow and Rinn 1 upping each other with manifesting; the pain stick, probably when Justicar is NOT looking; the suicide joke, when Justicar IS looking; the water balloon thing]
 
-??????
+"Alas! For I am slain!" I joked along. "But I'll take you down with me!!" We happened to be standing near the edge of the star, so I tackled Morrow and pulled him over the edge with me.
 
-[Morrow eating something as part of a scene]
 
-"Hey, why do you eat so much?" I said. "You know we don't have to eat here, right?"
+????
+
+"We should tie a rope to the edge! So we can SWING from one side to the other!"
+
+"I mean, that'd be cool, but there's nowhere to tie it. The star is just smooth on all sides."
+
+"What if we tied it to the ENTIRE star?!"
+
+"What?"
+
+"All the ropes. In all directions. Like a giant web! Holding on to the all the edges!" Morrow started wildly manifesting ropes in all directions.
+
+After a little while, I figured out what he was trying to do. "Oh. If we tied one big loop across the middle of the star, that would sort of work, but it would slip off because the star is a big circle. But if we made a big net on each side of the star, and then tied the two nets together with little loops all around the edge…" Morrow wasn't really making progress – he kept starting at one edge and then accidentally pulling it off the edge. And he probably kept redesigning his whole idea when he wasn't even half finished building it. So I went back to the topside and manifested a single, big net, with ropes dangling off at all the edges. Then I came back and started tying the dangling ropes to whatever Morrow was making. I wasn't very good at <em>tying</em> knots, but I had <em>touched</em> knots before, so I just used manifesting to transform the ropes into a knotted shape. Eventually, we had something that pretty much worked.
+
+
+
+?????
+
+
+"Wheeeee!" Morrow swung around the world from under the star, and careened up into the air, partially propelled by a rocket. Then he came crashing down. Justicar and I ducked out of the way.
+
+"Ow ow ow ow OW OW OW ow ow!"
+
+It looks like Justicar was about to tell him off, but I was faster. "Dude, you've got to stop using rockets! I know it's kickass and all, but you're going to get yourself killed!"
+
+"Win-win," said Morrow cheerfully.
+
+"You shouldn't joke about suicide!" snapped Justicar.
+
+Morrow grinned fiendishly. "What if I'm not joking?"
+
+"If you were not joking, you should seek serious help rather than ?????
+
+"Hey, uh," I said quietly, so only Morrow could hear me. "If you actually weren't joking, uh…" I wanted to say something sympathetic, but I couldn't think of what to say. Ugh, what would Layo do? "Uh, do you want to talk about it?"
+
+Morrow ignored me, manifested a chunk of meat, and started chewing furiously. 
+
+"Tough guy, huh? I can roll with that." I said. "And another thing though, why do you eat all the time? You know we don't have to eat here, right?"
 
 "But I'm <em>huuungry!!</em> I'm always hungry, even when I've eaten –"
 
