@@ -304,12 +304,42 @@ Morrow did a double take. Then he shamelessly looked back and forth between me a
 
 Morrow was <em>fun</em>.
 
+Right away, he started showing off all kinds of manifesting tricks.
+
 [????? Morrow and Rinn 1 upping each other with manifesting; the pain stick, probably when Justicar is NOT looking; the suicide joke, when Justicar IS looking; the water balloon thing]
 
 "Alas! For I am slain!" I joked along. "But I'll take you down with me!!" We happened to be standing near the edge of the star, so I tackled Morrow and pulled him over the edge with me.
 
+Once got his bearings, he grinned. "So we have a whole empty side to work with! Amazing, let's build a castle!" He started manifesting a stone tower and gateway, but it kept falling apart while he was manifesting it.
 
+"I call dibs on the throne room!" I made a golden throne again, this time with actual cushions.
+
+"Mine's bigger!" Morrow was already sitting on a bigger throne.
+
+I tried to one-up him again, but it was all beyond what I could manifest easily. But then I thought of making a throne out of Blood Blades. Since they were the easiest thing to manifest, I could make a much bigger one that way. Plus, it looked totally badass. It was so tall I couldn't just sit down in it, I had to climb up the pedestal. I slouched in it and looked down at him imperiously.
+
+"Oh, I have been outdone! I bow you, my queen." Morrow bowed and kissed my shoe theatrically. "Now, check this out!" He ran behind the stone tower and waved for me to follow.
+
+I got up from the throne, stepped forward, and fell flat on my face. I could hear Morrow laughing. "Oh my gods, you used manifesting to glue my shoes together when you kissed them! It is ON!" I kicked off my sneakers and manifested cool boots in their place, then I jumped up onto the tower he was hiding behind. "Die, invader!" I yelled, dumping a bucket of water on his head.
+
+I jumped down from the tower and put another stone wall between me and him so he couldn't prank me back right away. I waited on high alert for him to come around, so I'd be ready for what he do next. But at some point, it seemed like he wasn't going to show up.
+
+Cautiously, I peeked back around the wall where he was standing. He was frozen in place, bent over and shivering.
+
+"Dude, what's your deal? You can jump right up from having your leg broken, but a bit of cold water is too much to handle?" He didn't seem to hear me. "Look, if you don't like it, just manifest it off."
+
+"I CAN'T!" he yelled. "It's YOUR water, YOU unmanifest it!"
+
+"What? I'm sure I saw Yali do something like that earlier." Still, I tried. "I can't unmanifest it either! Are you pranking me?" It was obvious that he wasn't, though. Not sure what to do, I manifested a hair dryer. But of course, there was nowhere to plug it in. Whoops.
+
+Suddenly, Morrow manifested a <em>car</em>.
+
+"What the fuck?" I said.
+
+"It has a power outlet inside! So you can –" It seemed like he hadn't quite thought this through. "Never mind it doesn't matter!! Let's go back to building the castle right away!!"
 ????
+
+[????breathing fire]
 
 "We should tie a rope to the edge! So we can SWING from one side to the other!"
 
