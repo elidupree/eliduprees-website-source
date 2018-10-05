@@ -25,6 +25,10 @@ posts = [
 
 "Are your victims worthy of theirs?"
 
+
+
+[????? Broken Gate at the end of this chapter, not the beginning of the next. Like scratching the entire interior of your body, can't tell if it's comfort or pain]
+
 ''',
 },
 ]
