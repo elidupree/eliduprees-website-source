@@ -7,7 +7,7 @@ from ravelling_wrath.definitions import *
 
 posts = [
 {
-  "title":"Ravelling Wrath, chapter 9",
+  "title":"Ravelling Wrath, chapter 13",
   "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
@@ -16,7 +16,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 9: ", '''<p></p>''') +'''
+  "contents": chapter_start ("Chapter 13: ", '''<p></p>''') +'''
 
 
 ''',
