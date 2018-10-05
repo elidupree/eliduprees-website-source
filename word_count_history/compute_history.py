@@ -28,7 +28,7 @@ while True:
   commit_date = date.fromtimestamp (commit.committed_date - 5*60*60).toordinal ()
   
   commit_words = 0
-  for chapter_number in range (1, 20):
+  for chapter_number in range (1, 100):
     try: 
       chapter = repo.git.show ("{}:ravelling_wrath/chapter_{:02}.py".format (commit.hexsha, chapter_number))
       contents = re.search (r"contents.*?'''(.*)'''", chapter, re.DOTALL).group (1)
