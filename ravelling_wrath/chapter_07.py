@@ -322,7 +322,7 @@ I tried to one-up him again, but it was all beyond what I could manifest easily.
 
 I got up from the throne, stepped forward, and fell flat on my face. I could hear Morrow laughing. "Oh my gods, you used manifesting to glue my shoes together when you kissed them! It is ON!" I kicked off my sneakers and manifested cool boots in their place, then I jumped up onto the tower he was hiding behind. "Die, invader!" I yelled, dumping a bucket of water on his head.
 
-I jumped down from the tower and put another stone wall between me and him so he couldn't prank me back right away. I waited on high alert for him to come around, so I'd be ready for what he do next. But at some point, it seemed like he wasn't going to show up.
+I jumped down from the tower and put another stone wall between me and him so he couldn't prank me back right away. I waited on high alert for him to come around, so I'd be ready for what he's do next. But at some point, it seemed like he wasn't going to show up.
 
 Cautiously, I peeked back around the wall where he was standing. He was frozen in place, bent over and shivering.
 
@@ -349,7 +349,7 @@ Suddenly, Morrow manifested a <em>car</em>.
 
 "What?"
 
-"All the ropes. In all directions. Like a giant web! Holding on to the all the edges!" Morrow started wildly manifesting ropes in all directions.
+"All the ropes. In all directions. Like a giant web! Holding on to all the edges!" Morrow started wildly manifesting ropes in all directions.
 
 After a little while, I figured out what he was trying to do. "Oh. If we tied one big loop across the middle of the star, that would sort of work, but it would slip off because the star is a big circle. But if we made a big net on each side of the star, and then tied the two nets together with little loops all around the edge…" Morrow wasn't really making progress – he kept starting at one edge and then accidentally pulling it off the edge. And he probably kept redesigning his whole idea when he wasn't even half finished building it. So I went back to the topside and manifested a single, big net, with ropes dangling off at all the edges. Then I came back and started tying the dangling ropes to whatever Morrow was making. I wasn't very good at <em>tying</em> knots, but I had <em>touched</em> knots before, so I just used manifesting to transform the ropes into a knotted shape. Eventually, we had something that pretty much worked.
 
@@ -358,7 +358,7 @@ After a little while, I figured out what he was trying to do. "Oh. If we tied on
 ?????
 
 
-"Wheeeee!" Morrow swung around the world from under the star, and careened up into the air, partially propelled by a rocket. Then he came crashing down. Justicar and I ducked out of the way.
+"Wheeeee!" Morrow swung around from under the star, and careened up into the air, partially propelled by a rocket. Then he came crashing down. Justicar and I ducked out of the way.
 
 "Ow ow ow ow OW OW OW ow ow!"
 
@@ -370,9 +370,9 @@ It looks like Justicar was about to tell him off, but I was faster. "Dude, you'v
 
 Morrow grinned fiendishly. "What if I'm not joking?"
 
-"If you were not joking, you should seek serious help rather than ?????
+"If you were not joking, you should seek serious help rather than make light of it. Unfortunately there are no trained therapists here, but under the circumstances, the Farseer or I would be able to consult –"
 
-"Hey, uh," I said quietly, so only Morrow could hear me. "If you actually weren't joking, uh…" I wanted to say something sympathetic, but I couldn't think of what to say. Ugh, what would Layo do? "Uh, do you want to talk about it?"
+"Hey, uh," I said quietly, so only Morrow could hear me, "if you actually weren't joking, uh…" I wanted to say something sympathetic, but I couldn't think of what to say. Ugh, what would Layo do? "Uh, do you want to talk about it?"
 
 Morrow ignored me, manifested a chunk of meat, and started chewing furiously. 
 
@@ -400,7 +400,7 @@ Yali relaxed a bit.
 
 "Wait," I said, "so you <em>were</em> keeping it secret on purpose? But why would <em>this</em> piece of knowledge be a secret?"
 
-Yali didn't answer that either. Justicar raised an eyebrow. "I suppose if all Imminents <em>were</em> hungry, she would have no reason not to tell us. So it follows that <em>not</em> all Imminents were hungry, and the difference would allow us to learn some sensitive information. Now…"
+Yali didn't answer that either. Justicar raised an eyebrow and said, "I suppose if all Imminents <em>were</em> hungry, she would have no reason not to tell us. So it follows that <em>not</em> all Imminents were hungry, and the difference would allow us to learn some sensitive information. Now…"
 
 "Justicar," interrupted Yali – not loudly, but with a slight edge.
 
@@ -454,6 +454,8 @@ That wasn't <em>exactly</em> the answer I was hoping for, but I could roll with 
 
 ?????
 
+<bigbreak>
+
 "Everyone, look at this," said Justicar grimly.
 
 "What is that, some kind of chart?" I said.
@@ -474,9 +476,17 @@ Yali squinted at it. "How many stars has the Alchemist visited in that time?"
 
 "So, uh," I interrupted, "I get that this is really weird god stuff, but what does it actually mean for us?"
 
-"For all this time," said Yali, "we've been trying to get to the Alchemist by visiting stars that will move closer to their star. But now that the Alchemist's star isn't even <em>connected</em> to the grand pattern, it will <em>never</em> meet up with another star, no matter what we do."
+"For all this time," said Yali, "we've been trying to get to the Alchemist by visiting stars that will move closer to their star. But now that the Alchemist's star isn't even <em>connected</em> to the grand pattern, it will <em>never</em> meet up with us, or any other star, no matter what we do."
 
-"Oh no! "
+"Oh no! So the Alchemist is just going to be lost in space forever?? That's so sad!!"
+
+"Or," said Yali darkly, "until the Waiting God decides to do whatever it does with Ravellers who fail to reach the portals."
+
+"We've gotta do something," I said.
+
+But as I looked around, I could see that none of the others had any more idea of what to do than I did.
+
+
 
 ''',
 },
