@@ -93,8 +93,35 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 Justicar insisted on staying in a stiff chair a slight distance away.
 
+"I'll go first!" I said. "This one's for you, Yali. I'm finally going to tell you the one about how I jumped out of my window!"
 
-    
+"This'll be good!" said Morrow, bouncing up and down. "Tell us tell us!"
+
+"Alllllright!" I clapped my hands over the fire. "So this one time in elementary school I got suspended for punching this annoying kid – don't look at me like that, I was like nine. Nowadays I only punch people if they actually hurt somebody. Anyway, the day I was suspended, my parents grounded me up in my room all day. But the problem was, that day was the day of…" I paused for effect "…the BIGGEST afterschool dodgeball tournament of my ENTIRE life. There was no way I was going to miss that for something stupid like getting suspended. So when afterschool time came, I was gonna sneak out. Problem was, Dad knew my tricks. So Dad had taken a work-from-home day and parked himself right at the bottom of the stairs while he worked. There was no way I could sneak past him, because the stairs were the only way to get down from my room. <em>Or so he thought!</em> There was also… – somebody give me a drumroll here –"
+
+Nobody gave me a drumroll. I thought at least Morrow would do it, but no such luck. So I just kept going.
+
+"<em>…the window.</em> See, right under my window, there was a bunch of big bushes. And they looked really soft and leafy, so I figured they'd make a good landing. My window wasn't built to be able to open, but I took an old coin and unscrewed it from the wall. I was really careful with the glass, I put it down on my bed without making any noise. And then I jumped out. And, well… Yeeeeaaaaaah so it turned out those bushes weren't as soft as I thought."
+
+Alchemist cringed.
+
+"Don't worry, I didn't have to go to the hospital or anything. I just got some really bad scrapes. But the worst thing is, I didn't EXPECT it, so I screamed out when it happened. Like, if I hadn't screamed, I could totally have still played dodgeball that way. But –" I sighed "– Mom and Dad came running and I was totally busted. They patched up the bleeding and then didn't let me out of their sight for the rest of the day. At least I got this cool scar though!" I unmanifested half of my pant leg so they could see the long scrape on my knee. Alchemist covered their face. Morrow came around the fire to take a closer look and poke at it.
+
+"Haha, that tickles. Anyway, there's more to the story. See, Mom and Dad had, like, a huge fight about it later. I think they thought I couldn't hear them, but they were really loud and I could totally hear them through the walls. Mom was like 'that was too dangerous, she could have gotten seriously hurt, we need to reinforce all the upstairs windows so she can never do that again'. And Dad was like 'that is Just Wrong, she is our daughter, that would be like putting her in a cage'. And I'm pretty sure they never came to an agreement about that. They just never tried to ground me in my room again, haha."
+
+Justicar let out a tiny sigh.
+
+"You got a problem with that? Bet you think I'm a total terror and they SHOULD have put me in a cage."
+
+"I won't rise to your provocation," said Justicar calmly. "A child cannot be expected to understand the need for rules. I certainly did not when I was a child myself. And I cannot judge another person's family from a simple story. All I can say is that it is a parent's duty to provide rules to structure a child's life. It seems possible that they were not fulfilling that duty even before this incident."
+
+"Yeah," I said sarcastically, "I feel so deprived of rules. What a tragedy. Oh well was me."
+
+"Stop fighting, you two!" said Morrow.
+
+"Wait, <em>you</em>? <em>You're</em> telling us to stop fighting?" I said incredulously.
+
+"You're making Alchemist upset!!"
 
 
 ?????
