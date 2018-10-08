@@ -105,7 +105,7 @@ Justicar insisted on staying in a stiff chair a slight distance away.
 
 "What."
 
-"Ow'm I supposed to read those two's minds past how they're on guard all the time?"
+"Ow'm I supposed to read those two's minds past how they're on guard all the time? All I've got from them is emotions."
 
 "What about me?" I said.
 
@@ -151,7 +151,29 @@ Justicar insisted on staying in a stiff chair a slight distance away.
 
 [????? I'm just breaking their concentration]
 
+"????? – I'm sorry, I didn't mean to break your concentration!" Morrow looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
 
+"Why does Justicar have to come with us?" I said.
+
+"He needs a break from all us extroverts!"
+
+It took me a little while to realize what he was implying. "Wait, are you saying Justicar's an extrovert?!"
+
+"Ssshhh!" Morrow half-dragged me over the edge of the star.
+
+From behind me, I heard Justicar say, "Very well, I will accompany you. But I will not take such an undignified route." After a short while, a big metal staircase popped into existence near us. Justicar had manifested two staircases, one on each side of the star. The tops of the two staircases were joined together by a big half-circle walkway from one side of the star to the other. With a loud clank-clank-clank, Justicar walked up the stairs on her side, along the walkway, and down on our side. It <em>was</em> much more dignified than just falling around the edge. Then she sat down on her customary hard stool.
+
+?????
+
+"Will you <em>stop doing that??</em>" Morrow hissed at Justicar suddenly.
+
+"Uh, she's not doing anything."
+
+"I told you she's an extrovert! She keeps wanting to be closer to us! But then she SQUASHES it! Over and over again! I can't STAND it!" he spat.
+
+"If you have a problem with the choices I make in what <em>should</em> be the privacy of my own mind," said Justicar, "it is not my responsibility to accommodate you."
+
+Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem."
 
 
 ?????
