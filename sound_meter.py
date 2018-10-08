@@ -47,7 +47,7 @@ $(function(){
   var recorder_buffer_length = 2048;
   var recorder;
   var memories = [];
-  var memory_count = Math.ceil (audio.sampleRate/recorder_buffer_length/2);
+  var memory_count = Math.ceil (audio.sampleRate*2/recorder_buffer_length);
   var storage = window.localStorage;
   var threshold;
   
