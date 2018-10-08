@@ -202,6 +202,22 @@ From behind me, I heard Justicar say, "Very well, I will accompany you. But I wi
 
 Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem."
 
+?????
+
+"By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted towards me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about in general, haha."
+
+Morrow shrugged. "Gay is just who you fuck, right?"
+
+"What? No way! It's about way more than that!"
+
+[???? "How do you know [if you're gay]?"]
+
+"Do you actually not know, or are you just messing with me?"
+
+"What do you think?"
+
+"I think you're just messing with me, but whatever, I'll tell you anyway.
+
 
 ?????
 
