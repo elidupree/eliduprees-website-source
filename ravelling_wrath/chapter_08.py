@@ -207,13 +207,15 @@ Morrow shrugged. "Gay is just who you fuck, right?"
 
 "What? No way! It's about way more than that!"
 
-[???? "How do you know [if you're gay]?"]
+"What is it then? How do you know if you're gay?"
 
 "Do you actually not know, or are you just messing with me?"
 
-"What do you think?"
+Morrow smirked. "Whaddaya think?"
 
-"I think you're just messing with me, but whatever, I'll tell you anyway.
+"I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on. Or, like, playing sports against her. <em>Girls</em>." I sighed happily. "Yeah, and now that I'm grown up and shit, I also want to fuck her. You know, in between doing all the other things."
+
+
 
 
 ?????

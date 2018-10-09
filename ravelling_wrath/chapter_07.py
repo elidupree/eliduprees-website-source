@@ -302,13 +302,27 @@ Morrow did a double take. Then he shamelessly looked back and forth between me a
 
 ?????
 
+<bigbreak>
+
 Morrow was <em>fun</em>.
 
-Right away, he started showing off all kinds of manifesting tricks.
+Right away, he started showing off all kinds of manifesting tricks. He didn't <em>just</em> have the rockets. He had a trick where he could manifest a whole new outfit under his clothing, then make the original outfit disappear so it looked like he'd been wearing the new one all along. I had to remember <em>that</em> one.
 
-[????? Morrow and Rinn 1 upping each other with manifesting; the pain stick, probably when Justicar is NOT looking; the suicide joke, when Justicar IS looking; the water balloon thing]
+"And check out this one!" Morrow waved a hand.
 
-"Alas! For I am slain!" I joked along. "But I'll take you down with me!!" We happened to be standing near the edge of the star, so I tackled Morrow and pulled him over the edge with me.
+Suddenly, there was an awful squawking right behind me. I jumped and whirled around. Then I heard Morrow laughing. He had manifested a phone and a big speaker system right behind my head!
+
+"Hey!" I said. "How come you and Justicar can manifest things wherever you want, but I can only manifest things I'm touching?"
+
+"Justicar can do that??"
+
+"Didn't you just –" I noticed that there was another wire leading from the speakers all the way back to Morrow's hand. So he <em>had</em> manifested something he was touching, it was just that the "thing" was "a phone AND speaker AND really long wire that doesn't do anything". "Wow, that's genius!" I said. I tried to do the same thing back to him, but it didn't work for me. "Why can't I do that? No fair! I thought <em>I</em> was supposed to have powerful manifesting!"
+
+"Powerful, yes. Adaptable, perhaps not," said Justicar.
+
+"Screw you too." I turned to Morrow. "I'll prank you back somehow!" I ran at him and started chasing him around the star. He was quick, but he kept slipping and falling on the slippery floor. <em>I</em> had already gotten used to the limits of how fast I could run, so I caught up to him easily. But just when I had cornered him at the edge of the star, he bopped me on the head with a foam sword.
+
+"Alas! For I am slain!" I joked along, manifesting a spurt of fake blood from my head. "But I'll take you down with me!!" I tackled Morrow and pulled him over the edge with me.
 
 Once got his bearings, he grinned. "So we have a whole empty side to work with! Amazing, let's build a castle!" He started manifesting a stone tower and gateway, but it kept falling apart while he was manifesting it.
 
@@ -316,7 +330,7 @@ Once got his bearings, he grinned. "So we have a whole empty side to work with! 
 
 "Mine's bigger!" Morrow was already sitting on a bigger throne.
 
-I tried to one-up him again, but it was all beyond what I could manifest easily. But then I thought of making a throne out of Blood Blades. Since they were the easiest thing to manifest, I could make a much bigger one that way. Plus, it looked totally badass. It was so tall I couldn't just sit down in it, I had to climb up the pedestal. I slouched in it and looked down at him imperiously.
+I tried to one-up him again, but it was all beyond what I could manifest easily. But then I thought of making a throne out of Blood Blades. Since they were the easiest thing to manifest, I managed to make a much bigger one that way. Plus, it looked totally badass. It was so tall I couldn't just sit down in it, I had to climb up the pedestal. I slouched in it and looked down at him imperiously.
 
 "Oh, I have been outdone! I bow you, my queen." Morrow bowed and kissed my shoe theatrically. "Now, check this out!" He ran behind the stone tower and waved for me to follow.
 
@@ -336,14 +350,9 @@ Suddenly, Morrow manifested a <em>car</em>.
 
 "What the fuck?" I said.
 
-"It has a power outlet inside! So you can –" It seemed like he hadn't quite thought this through. "Never mind it doesn't matter!! Let's go back to building the castle right away!!"
-????
+"It has a power outlet inside! So you can –" It seemed like he hadn't quite thought this through. "Never mind it doesn't matter!! Let's go back to building the castle right away!! No wait! I was just thinking, this thing we're standing on! We should tie a rope to the edge! So we can SWING from one side to the other!"
 
-[????breathing fire, swapping clothing]
-
-"We should tie a rope to the edge! So we can SWING from one side to the other!"
-
-"I mean, that'd be cool, but there's nowhere to tie it. The star is just smooth on all sides."
+It seemed like whenever Morrow thought of a new thing, it automatically erased whatever he'd been thinking about before. Well, I could roll with it. "I mean, that'd be cool," I said, "but there's nowhere to tie it. The star is just smooth on all sides."
 
 "What if we tied it to the ENTIRE star?!"
 
@@ -351,12 +360,11 @@ Suddenly, Morrow manifested a <em>car</em>.
 
 "All the ropes. In all directions. Like a giant web! Holding on to all the edges!" Morrow started wildly manifesting ropes in all directions.
 
-After a little while, I figured out what he was trying to do. "Oh. If we tied one big loop across the middle of the star, that would sort of work, but it would slip off because the star is a big circle. But if we made a big net on each side of the star, and then tied the two nets together with little loops all around the edge…" Morrow wasn't really making progress – he kept starting at one edge and then accidentally pulling it off the edge. And he probably kept redesigning his whole idea when he wasn't even half finished building it. So I went back to the topside and manifested a single, big net, with ropes dangling off at all the edges. Then I came back and started tying the dangling ropes to whatever Morrow was making. I wasn't very good at <em>tying</em> knots, but I had <em>touched</em> knots before, so I just used manifesting to transform the ropes into a knotted shape. Eventually, we had something that pretty much worked.
-
-
+After a little while, I figured out what he was trying to do. "Oh. If we tied one big loop across the middle of the star, that would sort of be a way to attach something to it, but it would slip off because the star is a big circle. But if we made a big net on each side of the star, and then tied the two nets together with little loops all around the edge…" Morrow wasn't really making progress – he kept starting at one edge and then accidentally pulling it off the edge. And he probably kept redesigning his whole idea when he wasn't even half finished building it. Just like how he'd left the "castle" as just a tower and three thrones, and left a car sitting there not doing anything. So I went back to the topside and manifested a single, big net, with ropes dangling off at all the edges. Then I came back and started tying the dangling ropes to whatever Morrow was making. I wasn't very good at <em>tying</em> knots, but I had <em>touched</em> knots before, so I just used manifesting to transform the ropes into a knotted shape. Eventually, we had something that pretty much worked.
 
 ?????
 
+<bigbreak>
 
 "Wheeeee!" Morrow swung around from under the star, and careened up into the air, partially propelled by a rocket. Then he came crashing down. Justicar and I ducked out of the way.
 
@@ -460,8 +468,19 @@ With a huge roar, a green, scaly dragon trampled over the wreckage on the unders
 
 "Is that you, Morrow?" I said, impressed.
 
-"Haha!" The dragon leapt down to where I was standing and spun around with a flourish, sending its scales flying off in all directions. Once I batted a few scales out of my face,
+"Haha!" The dragon leapt down to where I was standing and spun around with a flourish, sending its scales flying off in all directions. Once I batted a few scales out of my face, ?????
 
+"Also, how did you breathe fire?! <em>I</em> want to do that!"
+
+"I manifested the fire in my mouth! And then I –"
+
+I tried it. "Owwww! That's hot!" I quickly manifested the burns away.
+
+Morrow snickered. "Haha, you also gotta manifest on your mouth so it doesn't burn."
+
+It took me a few tries to get it right. I had to concentrate my will on maintaining the temperature of the whole inside of my mouth, while simultaneously making fire appear inside and shoot outwards.
+
+[????? the pain stick, probably when Justicar is NOT looking]
 ?????
 
 <bigbreak>
