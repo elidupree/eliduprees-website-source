@@ -63,7 +63,7 @@ while True:
               print (date.fromordinal (ordinal).strftime("%b %d, %Y") + ":    0")
           else:
             print ("\n...\n")
-        print (date.fromordinal (current_date).strftime("%b %d, %Y") + ": {:4} ".format (change) + ("#"*marks) + (" "*(45-marks)) + "(Average since: {:4})".format ((latest_words - commit_words)//(latest_ordinal - commit_date)))
+        print (date.fromordinal (current_date).strftime("%b %d, %Y") + ": {:4} ".format (change) + ("#"*marks) + (" "*(45-marks)) + "(Average since: {:4})".format ((latest_words - commit_words)//(latest_ordinal + 1 - current_date)))
         previous_drawn_date = current_date
     
     current_date = commit_date
