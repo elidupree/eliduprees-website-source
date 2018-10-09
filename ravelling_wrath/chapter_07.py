@@ -339,7 +339,7 @@ Suddenly, Morrow manifested a <em>car</em>.
 "It has a power outlet inside! So you can –" It seemed like he hadn't quite thought this through. "Never mind it doesn't matter!! Let's go back to building the castle right away!!"
 ????
 
-[????breathing fire]
+[????breathing fire, swapping clothing]
 
 "We should tie a rope to the edge! So we can SWING from one side to the other!"
 
@@ -451,6 +451,16 @@ Yali shook her head. "Morrow was lucky that his star was close to our own. Most 
 "No," said Yali.
 
 That wasn't <em>exactly</em> the answer I was hoping for, but I could roll with it. I turned back to the others and said, "Okay that's it, case closed, the rest of you can fuck right off now."
+
+?????
+
+<bigbreak>
+
+With a huge roar, a green, scaly dragon trampled over the wreckage on the underside of the star. It reared back and breathed a long stream of flames, singeing [????? object established earlier].
+
+"Is that you, Morrow?" I said, impressed.
+
+"Haha!" The dragon leapt down to where I was standing and spun around with a flourish, sending its scales flying off in all directions. Once I batted a few scales out of my face,
 
 ?????
 
