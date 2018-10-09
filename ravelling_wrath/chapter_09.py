@@ -18,7 +18,23 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 9: ", '''<p></p>''') +'''
 
+?????
 
+I'd had <em>her</em> right in front of me! Why didn't I <em>do</em> anything? [????? More details]
+
+Also, I could picture her right in front of me, so why was I drawing a blank when trying to think of her name?
+
+I was sure I'd used her name loads of times before. I'd go "Hey Yali!!" – Right. Her name was Yali. But it didn't feel right. Like, that wasn't the word I was trying to think of. The word I was trying to think of was a lot more like, more like…
+
+<em>The Farseer.</em>
+
+A chill shot through me. So these were the Blood God's thoughts.
+
+?????
+
+I was getting better at recognizing the Blood God's thoughts. [????? Examples]
+
+?????
 ''',
 },
 ]
