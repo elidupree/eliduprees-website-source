@@ -21,12 +21,11 @@ def strip_tags(string):
 def word_count (string):
   return len(re. findall (r"\w[\w']*", html.unescape (strip_tags (string))))
 
-current_date = None
-previous_words = None
-previous_drawn_date = None
-while True:
-  commit_date = date.fromtimestamp (commit.committed_date - 5*60*60).toordinal ()
-  
+
+def commit_ordinal(commit):
+  return date.fromtimestamp (commit.committed_date - 5*60*60).toordinal ()
+
+def scan_commit (commit):
   commit_words = 0
   for chapter_number in range (1, 100):
     try: 
@@ -37,7 +36,21 @@ while True:
       completed = (chapter_number == 1)
       break
   
-  if completed or (commit_date != current_date):
+  return (commit_words, completed)
+
+
+current_date = None
+previous_words = None
+previous_drawn_date = None
+(latest_words, _) = scan_commit (commit)
+latest_ordinal = commit_ordinal (commit)
+previous_words = latest_words
+while True:
+  commit = commit.parents[0]
+  commit_date = commit_ordinal(commit)
+  
+  if commit_date != current_date:
+    (commit_words, completed) = scan_commit (commit)
     if previous_words is not None:
       change = previous_words - commit_words
       if change != 0:
@@ -50,7 +63,7 @@ while True:
               print (date.fromordinal (ordinal).strftime("%b %d, %Y") + ":    0")
           else:
             print ("\n...\n")
-        print (date.fromordinal (current_date).strftime("%b %d, %Y") + ": {:4} ".format (change) + ("#"*marks))
+        print (date.fromordinal (current_date).strftime("%b %d, %Y") + ": {:4} ".format (change) + ("#"*marks) + (" "*(45-marks)) + "(Average since: {:4})".format ((latest_words - commit_words)//(latest_ordinal - commit_date)))
         previous_drawn_date = current_date
     
     current_date = commit_date
@@ -59,5 +72,5 @@ while True:
   if completed:
     break
     
-  commit = commit.parents[0]
+  
 
