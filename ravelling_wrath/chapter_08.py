@@ -115,16 +115,13 @@ Justicar let out a tiny sigh.
 
 "I won't rise to your provocation," said Justicar calmly. "A child cannot be expected to understand the need for rules. I certainly did not when I was a child myself. And I cannot judge another person's family from a simple story. All I can say is that it is a parent's duty to provide rules to structure a child's life. It seems possible that they were not fulfilling that duty even before this incident."
 
-"Yeah," I said sarcastically, "I feel so deprived of rules. What a tragedy. Oh well was me."
+"Yeah," I said sarcastically, "I feel so deprived of rules. What a tragedy. Oh woe is me."
 
 "Stop fighting, you two!" said Morrow.
 
 "Wait, <em>you</em>? <em>You're</em> telling us to stop fighting?" I said incredulously.
 
-"You're making Alchemist upset!!"
-
-
-?????
+"You're making Alchemist upset!! All he wants is for everyone to just get along! And maybe to have some nice stories where people have a good time instead of everyone getting hurt and fighting each other!"
 
 "Wait, so you can just read our minds all the time?"
 
@@ -150,7 +147,7 @@ Justicar let out a tiny sigh.
 
 ?????
 
-"Can be rest of you stop manifesting for a while?" said Yali suddenly.
+"Can the rest of you stop manifesting for a while?" said Yali suddenly.
 
 "Sure, but why?" I said.
 
