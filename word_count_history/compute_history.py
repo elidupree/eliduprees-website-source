@@ -45,10 +45,12 @@ previous_drawn_date = None
 (latest_words, _) = scan_commit (commit)
 latest_ordinal = commit_ordinal (commit)
 previous_words = latest_words
+current_date = latest_ordinal
 while True:
   commit = commit.parents[0]
   commit_date = commit_ordinal(commit)
   
+  completed = False
   if commit_date != current_date:
     (commit_words, completed) = scan_commit (commit)
     if previous_words is not None:
