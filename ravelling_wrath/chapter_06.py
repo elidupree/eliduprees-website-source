@@ -59,7 +59,7 @@ Yali gently pushed me away. "Why don't you take a look around? I'll be up in a m
 
 "Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff. Well, first, I pulled off the hoodie Yali gave me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. Now in just my shirt, I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
 
-[???? now that I was feeling better], I took a proper look at everything. We were on the middle of a smooth, translucent white platform, a circle about 15 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
+[???? now that I was feeling better], I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about 15 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
 
 I couldn't even see anything else over the edges of the platform. I carefully knelt down at the edge and looked over… and saw <em>more</em> stars stretching out endlessly below us.
 
@@ -378,7 +378,7 @@ Sure, there was the looming threat of our possible deaths. But it didn't really 
 
 We'd been floating through space for days now. We had only transferred to another star <em>once</em>. We still had no idea where the other Ravellers were, despite Yali spending hours with the telescope. Even manifesting wasn't any fun anymore. Every time I tried something, I just thought of how much I missed everyone from back home. Where was Layo to make things fun? Where was Pèi to say something sarcastic? Even my parents – I couldn't stand them, and it was great to be away from them looking over my shoulder, but now I just felt empty.
 
-The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. It didn't make her exhausted like it had back in the regular world, but she still spent lots of time on it. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't she just keep us alive faster? Stern take it all. Not only that, but whenever I <em>wanted</em> to know something from the future, she didn't know it, because the Seeing had a whole bunch of limitations.
+The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. It didn't make her exhausted like it had back in the regular world, but she still spent lots of time on it. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't she just keep us alive <em>faster</em>? Stern take it all. Not only that, but whenever I <em>wanted</em> to know something from the future, she didn't know it, because the Seeing had a whole bunch of limitations.
 
 For one thing, it only showed <em>possible</em> futures, so if she looked too far ahead, almost anything could happen. For another, she couldn't see <em>anything</em> after we went to the next layer. Apparently, at each layer crossing, the gods wove more of their threads in to us – and when the other gods did something big like that, the Waiting God wouldn't be able to predict it. Even some of the other Ravellers' powers were enough to disrupt the Seeing and make parts of the future unreadable. And finally, it was hard to find specific futures even if you wanted to. Yali said she'd seen glimpses of the other Ravellers, and even bits of conversation, but those were only things they <em>might</em> say in <em>some</em> situation, not a whole picture. So the Seeing <em>sounded</em> great, but it was a whole lot of bother to get anything good out of it.
 
@@ -404,7 +404,7 @@ Yali's voice echoed weirdly from somewhere. "Manifest a bucket!"
 
 I wasn't going to let a little nausea get the better of me. I immediately got up and stepped off the edge again, falling back around to the side I'd been on originally.
 
-"Check it out," I said, tossing one of the balls I found it Yali. "All those balls just went rolling off the edge and we never thought about what happened to them!"
+"Check it out," I said, tossing one of the balls I'd found at Yali. "All those balls just went rolling off the edge and we never thought about what happened to them!"
 
 "Yeah, that's pretty cool," said Yali. But she wasn't really paying attention. She'd probably seen this all before, Stern take it.
 
@@ -460,7 +460,7 @@ I stomped towards her. "You think you can string me along, acting like you're su
 
 I was momentarily stopped in my tracks. "What? You think this is the Blood God?! This is <em>me!</em> Don't you get it?! Maybe <em>you're</em> fine being all alone all the time, you don't understand how much it <em>hurts</em> when you just <em>shut me out</em> like this!" Yali didn't respond. I shoved my face right in front of hers. "What, you don't have anything to say? Come on, say something!"
 
-That's when I noticed the look on her face. It was subtle, but I'd seen a lot of her face lately, and the difference was unmistakable. Her eyes were slightly widened, frozen in a stare. The muscles around her mouth were tight. 
+That's when I noticed the look on her face. It was subtle, but I'd seen her face a lot lately, and the difference was unmistakable. Her eyes were slightly widened, frozen in a stare. The muscles around her mouth were tight. 
 
 Something knotted up in my stomach, like maybe I'd gone too far. But I couldn't just leave it like this! I took half a step back and said, "Hey, uh, you've gotta work with me here, alright? Just, uh –" She still had that frozen look. I stepped back further. "Come on, you know I'm not going to hurt you! You can stop looking like that!" She didn't react. I held up my hands placatingly. "Look, I'm going to leave now, okay? Then you won't have to talk to me or anything. So that's good, right?!"
 
@@ -516,7 +516,7 @@ Yali covered my mouth. "Rinn. Rinn." Her voice was low and soothing. "It's okay.
 
 I didn't even have words to say back. I wrapped my arms around her legs and sobbed into her thigh gratefully.
 
-She helped me up and sat me down next to her. [????? Elaborate more about the physical gesture?]
+Yali held out her hand to help me up. I took it and started climbing to my feet. Amazingly, I felt like I was putting my whole weight on Yali's hand, but it didn't move at all. She was so strong. Once I was up, she gently sat me down in the couch next to her.
 
 "So…" I choked out, "You don't hate me? For being such an asshole?"
 
@@ -530,21 +530,21 @@ She helped me up and sat me down next to her. [????? Elaborate more about the ph
 
 "Don't you remember? When I first tried out saying that invocation. The first thing you said was 'Don't pretend like you're some kind of holy person'. It wasn't like you."
 
-"It wasn't? I mean, when have I ever respected anything religious?"
+"It wasn't?" I said hollowly. "I mean, when have I ever respected anything religious?"
 
 "You can't think of any other way you might have reacted? Like, what would you have said if I was actually more religious than I am?"
 
 "I mean, if you were <em>actually</em> religious, I guess that would be, like, one of the things that makes you <em>you</em>? I mean, like, I wouldn't get it, but I'd have to, you know…"
 
-"That's what I thought… Whenever it's about <em>me</em>, you find a way to interpret it in a positive way. But that time, you didn't." She paused. "Not that I mind if you hate the Waiting Temple. I'm only pointing it out."
+"That's what I thought… Whenever it's about <em>me</em>, you find a way to interpret it in a positive way. But that time, you didn't." She paused. I didn't really see the connection, but apparently <em>she</em> saw something in it. "Not that I mind if you hate the Waiting Temple. I'm only pointing it out."
 
-"Wait a minute. So you didn't want me to hate on the Stern Temple around you. But the Waiting Temple is fair game?"
+I was still feeling like shit, but I just HAD to ask about that. "Wait a minute. So you didn't want me to hate on the Stern Temple around you. But the Waiting Temple is fair game?"
 
 "Yeah, why not? They're different temples." That was a bit of an unusual thing to say. It was <em>technically</em> true, but to most people, the Stern and the Waiting were kind of just two different branches of <em>the people in charge of the city</em>. The Stern were more of the everyday throw-you-in-jail types, and the Waiting were more of a faraway authority handing down decrees about long-term projects for the city, but they were pretty much on the same side. And Stern preachers were always like <em>you must respect the Waiting</em>, too. When I was a kid, my parents had made me go to temple every week, it was so annoying. And that meant a Stern temple. I'd never actually <em>been</em> inside a Waiting temple – at least, not that I could remember. There weren't many around where I lived, and they were even more boring and old-fashioned.
 
 After a pause, Yali squinted. "Actually, no. Please don't make fun of the Waiting Temple either."
 
-"Uhh…"
+"What?"
 
 "The point is, <em>I've</em> noticed a difference. You haven't been giving me the benefit of the doubt as much, at least when it's about the Waiting God or its world. So I think we might be seeing the first part of the Blood God's influence. But…" She frowned. "This isn't how the Blood God is supposed to operate. It's supposed to be about anger, like, direct confrontation. Not about contempt, or… feeling like you're entitled to my help… I mean, this change has to be coming from the Blood God, but I don't understand."
 
