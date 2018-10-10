@@ -28,7 +28,39 @@ posts = [
 
 ?????
 
-It wasn't anything like when Yali was using the Seeing. Morrow closed his eyes, leaned back, opened his mouth, and moved his tongue around.
+"What if we made a really bright light?" said Morrow. "And then used it to flash out a code!"
+
+"If the Alchemist even points their telescope in this direction…" I said.
+
+Yali shook her head. "What we see in the telescope isn't the literal light of the stars at all."
+
+"But we can see where the other Ravellers are! So we could move around in the stars and spell out a message! Like skywriting!" exclaimed Morrow. But then he drooped. Even Morrow could see the obvious flaws with that plan.
+
+"There's <em>gotta</em> be something," I said. "We've all got magic powers! And all we need is to talk at a long distance! Doesn't any of us have any powers that work at a distance? Hey, Justicar, I saw you manifesting at a distance earlier, can you manifest a message to where the Alchemist is?"
+
+"<em>A</em> distance, yes. But I doubt I could manifest a kilometer away, much less the distances of the stars."
+
+"What about you, Yali? Your Seeing can go any distance, right? I know it doesn't work for this exactly, but what if –"
+
+Yali shook her head sadly. "A Farseer's powers only ever obtain information, not change the world directly. Not even to communicate."
+
+"Uh, Morrow…? I mean, you <em>did</em> say you smelled Yali's mind from space?"
+
+"That might actually work," said Yali. "The mind is part of the soul. And our souls aren't necessarily considered 'far away from each other' just because our bodies are…"
+
+"Ooh! So I could sniff around for the Alchemist! I could totally do that, what if –" Morrow threw his head back and gazed up into space.
+
+It wasn't anything like when Yali was using the Seeing. Morrow immediately shut his eyes really tight, opened his mouth, and waggled his tongue around. He swayed around, like he was exploring for the best-tasting part of the air, then flopped down onto his knees and started <em>licking</em> the star we were standing on. His ass was sticking up in the air, it was pretty comical.
+
+"Why is he licking the floor??" I said.
+
+"If it <em>is</em> about the soul connection… all the stars are part of the same pattern, so the star itself would havethe closest connection to anything on any other star," said Yali.
+
+"Issh ieh uh ick uhhbehh," said Morrow, still licking the floor furiously.
+
+"What?"
+
+
 
 ?????
 
@@ -197,7 +229,7 @@ From behind me, I heard Justicar say, "Very well, I will accompany you. But I wi
 
 "If you have a problem with the choices I make in what <em>should</em> be the privacy of my own mind," said Justicar, "it is not my responsibility to accommodate you."
 
-Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar beating herself up <em>was</em> my problem. But getting Morrow calmed down was more important.
+Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But getting Morrow calmed down was more important.
 
 ?????
 

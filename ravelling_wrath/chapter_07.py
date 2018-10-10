@@ -435,20 +435,27 @@ Justicar's eyes widened – only a little, but it was the first time I had seen 
 [????? I almost cried laughing.] <em>Okay, universe, you got me fair and square.</em>
 
 ?????
+<bigbreak>
 
-[????? Probably a discussion of Yali and Justicar's attempts to locate the Alchemist, and the 5 portals]
+Meanwhile, Yali and Justicar were hard at work trying to find the Alchemist. They spent hours poring over the Codex and watching the stars. They worked together mostly in silence. Yali would draw a star map with circles and arrows and distance labels everywhere, then Justicar would mark it up with corrections, then Yali would take it back and redraw it in a different shape. They made copies of each other's work and compared them to what they saw in the telescopes, noting down any inconsistencies. They slowly accumulated a pile of manifested 3D models, too.
 
-"Do we <em>really</em> have to find routes to all of the portals? I mean, I'm not saying this is a <em>good</em> idea, but couldn't we take a rocket, just like Morrow did?"
+I mostly left them alone. But Morrow couldn't resist pestering them for information – at least, when I wasn't keeping him occupied on the underside. Generally, Justicar fended him off while Yali continued working. It was like Yali was using her as a bodyguard. That kind of irritated me for some reason.
 
-Yali shook her head. "Morrow was lucky that his star was close to our own. Most of the stars are physically so far away that traveling by rocket would take thousands of years."
+"Heyyyy you two how's it going? Spotted any cool stars yet??" said Morrow one time, as usual.
 
-[????? Morrow refers to the Alchemist as "he"]
+"As a matter of fact, we <em>do</em> have something to report," said Justicar. "We have found clear signs of the Alchemist, and also the portals –"
 
-"Or she," I said. "Or –"
+"The what?" said Morrow.
+
+"The five portals. As I told you yesterday, each of us has to reach one of them in order to leave this layer of the Otherworld and enter the next. We have now located three of them, although we still have not found routes to them yet. We have located the Alchemist as well – we have found the star the Alchemist is on, but there is something strange about its location. It is very far away, and we have not found any other stars that will visit it."
+
+"Haha who needs 'em? I'll just go to the Alchemist on a rocket! And then bring him back on another rocket!"
+
+"Or her," I said. "Or them –"
 
 "Sure maybe, but think about it! Right now we're three girls and one guy. So statistically, it'll probably be a dude."
 
-"That's not how statistics works," said Justicar stiffly.
+"That's not how statistics works," said Justicar stiffly. "And besides that –"
 
 "Betcha Yali can tell us! I mean, we're gonna meet him in the future, right? And you can see the future! So you can see us meeting him, so you can see if he's a he!"
 
@@ -459,6 +466,17 @@ Yali shook her head. "Morrow was lucky that his star was close to our own. Most 
 "No," said Yali.
 
 That wasn't <em>exactly</em> the answer I was hoping for, but I could roll with it. I turned back to the others and said, "Okay that's it, case closed, the rest of you can fuck right off now."
+
+Justicar let out a tiny sigh. "…As you say, we <em>can</em> get back to the matter of –"
+
+"Of how I'm gonna pick him up in a rocket!"
+
+"You are not."
+
+"You gonna stop me?"
+
+"No, it is simply impossible. You were lucky that your original star was close to ours. Most of the stars are physically so far away that traveling by rocket would take thousands of years. The Waiting God's pattern is the <em>only</em> way to travel there in the time we have available."
+
 
 ?????
 
@@ -493,7 +511,7 @@ It took me a few tries to get it right. I had to concentrate my will on maintain
 
 Yali squinted at it. "How many stars has the Alchemist visited in that time?"
 
-"Only one. I have not seen any other star come close."
+"Only the one. I have not seen any other star come close."
 
 "But…" Yali frowned. "This isn't any of the six trajectories described in the Codex. It looks like it's wandering around completely at random."
 
