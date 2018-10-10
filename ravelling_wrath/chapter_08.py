@@ -18,7 +18,7 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 8: ", '''<p></p>''') +'''
   
-"So," I said, summarizing the last hour of discussion, "the Alchemist is, like, infinitely far away. They broke their star, and it's not on the pattern anymore. We don't know if they did it on purpose. We don't know if they have any control over where it's going. And <em>we</em> have no way to get off the pattern to follow them, because what they did was probably an Alchemist power. And we have no way to communicate with them. And Yali's power is useless as usual, because apparently the Waiting God still think this is part of the challenge. And even if they <em>did</em> figure out where we are, and <em>could</em> move their star on purpose, they might crash into us really fast, because they don't have the pattern to slow them down at the right moment. It would be even worse than what happened with Morrow, because, uh…"
+"So," I said, summarizing the last hour of discussion, "the Alchemist is, like, infinitely far away. They broke their star, and it's not on the pattern anymore. We don't know if they did it on purpose. We don't know if they have any control over where it's going. And <em>we</em> have no way to get off the pattern to follow them, because what they did was probably an Alchemist power. And we have no way to communicate with them. And Yali's power is useless as usual, because apparently the Waiting God still thinks this is part of the challenge. And even if they <em>did</em> figure out where we are, and <em>could</em> move their star on purpose, they might crash into us really fast, because they don't have the pattern to slow them down at the right moment. It would be even worse than what happened with Morrow, because, uh…"
 
 "Because Morrow was slowed down by air resistance. All of our bodies would be destroyed, hostile intent or no."
 
@@ -32,7 +32,7 @@ posts = [
 
 "If the Alchemist even points their telescope in this direction…" I said.
 
-Yali shook her head. "What we see in the telescope isn't the literal light of the stars at all."
+Yali shook her head. "What we see in the telescope isn't the literal light of the stars at all. It's a soul thing."
 
 "But we can see where the other Ravellers are! So we could move around in the stars and spell out a message! Like skywriting!" exclaimed Morrow. But then he drooped. Even Morrow could see the obvious flaws with that plan.
 
@@ -48,17 +48,36 @@ Yali shook her head sadly. "A Farseer's powers only ever obtain information, not
 
 "That might actually work," said Yali. "The mind is part of the soul. And our souls aren't necessarily considered 'far away from each other' just because our bodies are…"
 
-"Ooh! So I could sniff around for the Alchemist! I could totally do that, what if –" Morrow threw his head back and gazed up into space.
+"Ooh! So I could sniff around for the Alchemist! I could totally do that, what if –" Morrow threw his head back, pointing his face up into space.
 
 It wasn't anything like when Yali was using the Seeing. Morrow immediately shut his eyes really tight, opened his mouth, and waggled his tongue around. He swayed around, like he was exploring for the best-tasting part of the air, then flopped down onto his knees and started <em>licking</em> the star we were standing on. His ass was sticking up in the air, it was pretty comical.
 
 "Why is he licking the floor??" I said.
 
-"If it <em>is</em> about the soul connection… all the stars are part of the same pattern, so the star itself would havethe closest connection to anything on any other star," said Yali.
+"If it <em>is</em> about the soul connection… all the stars are part of the same pattern, so the star itself would have the closest connection to anything on any other star," said Yali.
 
 "Issh ieh uh ick uhhbehh," said Morrow, still licking the floor furiously.
 
 "What?"
+
+He turned his head sideways to yell to us. "It's like a big puppy!"
+
+"The Alchemist is like a big puppy?" said Yali.
+
+"Can puppies be Ravellers?" I said.
+
+"What is like a big puppy?" said Justicar.
+
+"There's a human there too! I can barely smell it!"
+
+"A human <em>and</em> a puppy?" I said. "Would the gods bring someone's pet into the Otherworld with them?"
+
+"It's never happened before…" said Yali.
+
+"It's <em>not</em> a puppy! It's totally different! It doesn't have paws!" yelled Morrow. He kept licking the star for another minute. "It can't feel, or see, or hear anything! It's lost and confused! It had a bright line to hold onto, but it dropped it and now it can't find it again!!"
+
+"What <em>is</em> it??" I said.
+
 
 
 
