@@ -426,20 +426,66 @@ Justicar's eyes widened – only a little, but it was the first time I had seen 
 
 Almost before I started speaking, Morrow dragged me off to go have fun on the underside.
 
+<bigbreak>
 
-"Hey, uh," I said quietly, so only Morrow could hear me, "if you actually weren't joking, uh…" I wanted to say something sympathetic, but I couldn't think of what to say. Ugh, what would Layo do? "Uh, do you want to talk about it?"
+"I'm getting sleepy," I said. How many hours had it been? I checked my phone. I couldn't remember exactly when I had last slept, but it had definitely been a lot of hours.
 
-"Tough guy, huh? I can roll with that." I said.
+"But we still haven't decided who's the Ultimate Master of Manifesting!!" said Morrow. We'd been playing this game against each other for a while now, if you could call it a game when we hadn't managed to stick to the same rules for more than ten minutes in a row.
 
-[????? Oops, this already happened earlier – "I TRIED it!" said Morrow sourly. "But it's so much WORK! I'd rather just stay hungry!"]
+"Yeah, but if we haven't figured that out in the last five hours, we're probably not gonna figured it out in one or two more. I'm going to bed."
 
-?????
+Ignoring Morrow's complaints, I went back to the topside and went to bed. Yali was already in her own bed, wearing headphones. I quickly saw why. Even though Morrow stayed on the underside while we slept, he made a huge racket. Every few minutes, there was a yell or a crash or a big explosion.
 
-[????? Summary of interactions with Morrow, leading up to complaining about Morrow overloading Rinn the same way Rinn overloaded Yali]
+"Can you be quieter down there?!" I yelled.
 
-[????? I almost cried laughing.] <em>Okay, universe, you got me fair and square.</em>
+"No problem! I'll be super quiet!"
 
-?????
+I dived into my bed and pulled the blankets over me. Justicar was sitting up on alert and staring at me as usual, but I couldn't even be bothered to do the "staring back at her" thing. I just wanted to sleep.
+
+I had about five minutes of quiet to get started, then there was another boom and a whole series of clattering noises.
+
+"Hey! I thought you were going to be quiet!"
+
+"Just a mistake! Won't happen again!" Somehow, I wasn't convinced of his sincerity. So I checked the time on my phone.
+
+Three minutes and four seconds later, an actual person-sized cart rolled off the underside of the star and crashed near my bed.
+
+"Morrow! That was three minutes and four seconds! Are you kidding me! You can't give me peace and quiet for three minutes and four seconds??"
+
+"Wow! Did it actually keep rolling on the other side?"
+
+"Are you kidding me." I gave up and copied Yali, putting on some headphones and blasting loud music through them. It wasn't my favorite way to sleep, but I had fallen asleep to loud music before. I also copied a dark sleep mask that Yali was wearing. I hadn't seen her wear one before, so she had probably foreseen Morrow making a bright flashing light or something.
+
+Four hours later, I was impatient with trying to sleep. Not that I hadn't gotten any rest. More like I had gotten just <em>enough</em> rest that I felt like I could put up with being awake again. So I got up. Yali was still in bed, so, for lack of anything better to do, I headed back to the underside to hang out with Morrow again.
+
+At the end of <em>that</em> day, things went more or less the same.
+
+"Did you <em>ever</em> sleep?" I said, exasperated.
+
+"Why do people sleep?" said Morrow. "We need food and water and air to live, but why sleep?"
+
+"Don't tell me you didn't sleep on Earth!"
+
+"Haha!"
+
+"How old are you, anyway?" I said.
+
+"Old enough to know better!" said Morrow cheerfully.
+
+"Okay, got it, you're twelve," I said. He was clearly way older than twelve, but I was hoping to provoke him into telling me his actual age. It didn't work. He just jokingly manifested a birthday cake with twelve candles, blew them out, started eating the cake, and then got bored of eating the cake and dumped it on the floor.
+
+"See you tomorrow." My short rest the previous night had left me pretty tired, so this time I went to bed earlier. Yali was still up. Knowingly, she handed me a set of earplugs and noise-canceling headphones. "Thanks a bunch," I muttered, then collapsed into bed.
+
+When I got up the next day, the star was strangely quiet, even after I took out the earplugs. Confused, I went to the underside to check on Morrow. I found him sprawled facedown over a heap of random junk, drooling. He didn't look injured, so the lack of sleep had probably caught up to him.
+
+I thought of pranking him while he slept, but it just didn't feel right. Instead, I manifested a mattress and tiredly rolled him onto it. He'd been lying on some pretty pointy stuff, it looked really uncomfortable.
+
+What was up with this guy? He was fun, but <em>seriously</em>. I liked horsing around with him, but I didn't like doing it for 48 hours in a row! I <em>needed</em> rest. Didn't he know people normally needed rest?? Like, I <em>would</em> keep going forever, but if I didn't get my rest, I'd, like, turn into a zombie. Figuratively. Did literal zombies exist? Probably not.
+
+Couldn't he just learn to give people at least <em>some</em> space? Kind of like…
+
+Oh gods, this was exactly like me and Yali. I couldn't help but laugh. I ended up laughing harder and harder until I almost cried. <em>Okay, universe, you got me fair and square.</em>
+
 <bigbreak>
 
 Meanwhile, Yali and Justicar were hard at work trying to find the Alchemist. They spent hours poring over the Codex and watching the stars. They worked together mostly in silence. Yali would draw a star map with circles and arrows and distance labels everywhere, then Justicar would mark it up with corrections, then Yali would take it back and redraw it in a different shape. They made copies of each other's work and compared them to what they saw in the telescopes, noting down any inconsistencies. They slowly accumulated a pile of manifested 3D models, too.
@@ -482,12 +528,11 @@ Justicar let out a tiny sigh. "…As you say, we <em>can</em> get back to the ma
 
 "No, it is simply impossible. You were lucky that your original star was close to ours. Most of the stars are physically so far away that traveling by rocket would take thousands of years. The Waiting God's pattern is the <em>only</em> way to travel there in the time we have available."
 
-
-?????
+"You and your <em>facts</em>," muttered Morrow irritably.
 
 <bigbreak>
 
-With a huge roar, a green, scaly dragon trampled over the wreckage on the underside of the star. It reared back and breathed a long stream of flames, singeing [????? object established earlier].
+With a huge roar, a green, scaly dragon trampled over the wreckage on the underside of the star. It reared back and breathed a long stream of flames, singeing the rope net and setting a wooden crate on fire.
 
 "Is that you, Morrow?" I said, impressed.
 
@@ -503,11 +548,11 @@ Morrow snickered. "Haha, you also gotta manifest on your mouth so it doesn't bur
 
 It took me a few tries to get it right. I had to concentrate on maintaining the temperature of the whole inside of my mouth, while simultaneously making fire appear inside and shoot outwards.
 
-?????
+By the time I got good at it, Morrow had already moved on to something else. He had made a wooden model city, and now he was hanging upside down from some monkey bars. Naturally, I breathed fire all over the city immediately. But instead of the whole city catching on fire, only a thin outer layer of wood burned off, revealing a metal city underneath. In the background, I heard Morrow laughing at me.
 
 "Here, hold this!" Morrow tossed me a metal rod.
 
-I caught the rod. "Oww!" I yelled, dropping it immediately. Morrow snickered.  "Hey! I was just surprised!" I said, defiantly picking up the rod again, even though it was super hot.
+"If this is another prank –" I began as I caught the rod. "Oww!" I yelled, dropping it immediately. Morrow snickered. "Hey! I was just surprised!" I said, defiantly picking up the rod again, even though it was super hot.
 
 It hurt a <em>lot</em> to keep holding on to it, but it was worth it to turn the prank around on him. "Bet <em>you</em> can't hold on to this without manifesting on your hand!" I said. I pointed the rod towards him, offering him the other end.
 
@@ -525,13 +570,13 @@ I jumped. "Have you been watching us this whole time?!" Yali was still on the ot
 
 "You worried about me?" said Morrow, his voice dripping with sarcasm.
 
-Suddenly, everything was coming together. His cavalier attitude about his own safety. The way he avoided any questions about himself. [???? Foreshadow that] His "joke" about wanting to die. "Maybe I am!" I snapped.
+I hadn't planned on making a big deal of it. But suddenly, everything was coming together. His cavalier attitude about his own safety. The way he avoided any questions about himself. His "joke" about wanting to die. "Maybe I am!" I snapped.
 
-Morrow mimicked my voice insultingly. "Look at me, I'm Rinn and I <em>worry</em> about people –"
+Morrow mimicked my voice insultingly. "Look at me, I'm Rinn and I <em>worry</em> about people!"
 
 "Believe it or not, some things actually matter!" I said hotly. "<em>Your life actually matters –</em>"
 
-"It's no use," said Yali's voice again. "Believe me, I've tried."
+"It's no use," said Yali's voice again. "If you try to get through to him, he'll only fight it harder. Believe me, I've tried."
 
 "When have <em>you</em> tried?!"
 
@@ -545,7 +590,9 @@ Morrow mimicked my voice insultingly. "Look at me, I'm Rinn and I <em>worry</em>
 
 Morrow smirked. "You said I couldn't manifest on my <em>hand</em>."
 
-?????
+"Oh, for gods' sakes."
+
+It <em>was</em> easier to just joke back and forth with him and not think about things too hard. A tiny part of me was screaming that I was doing something very wrong, but as long as Yali was here, things couldn't go <em>that</em> badly, anyway. We settled back into our usual habits, and I just tried not to think about it.
 
 <bigbreak>
 
@@ -586,6 +633,13 @@ But as I looked around, I could see that none of the others had any more idea of
 ]
 
 
+# I cut this:
+
+"""
+"Hey, uh," I said quietly, so only Morrow could hear me, "if you actually weren't joking, uh…" I wanted to say something sympathetic, but I couldn't think of what to say. Ugh, what would Layo do? "Uh, do you want to talk about it?"
+
+"Tough guy, huh? I can roll with that." I said.
+"""
 
 # Yali cut this scene:
 
