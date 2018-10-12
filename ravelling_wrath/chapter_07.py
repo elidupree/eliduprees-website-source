@@ -306,9 +306,9 @@ Morrow did a double take. Then he shamelessly looked back and forth between me a
 
 Morrow was <em>fun</em>.
 
-Right away, he started showing off all kinds of manifesting tricks. He didn't <em>just</em> have the rockets. He had a trick where he could manifest a whole new outfit under his clothing, then make the original outfit disappear so it looked like he'd been wearing the new one all along. I had to remember <em>that</em> one.
+Right away, he started showing off all kinds of manifesting tricks. He didn't <em>just</em> have the rockets. He had a trick where he could manifest a whole new outfit under his clothing, then make the original outfit disappear so it looked like he'd been wearing the new one all along. I had to remember <em>that</em> one. And he made a giant cake and we tried to have an eating contest, but it went on forever because we could just unmanifest the food after it was in our stomachs. Not that it wasn't fun.
 
-"And check out this one!" Morrow waved a hand.
+"Whatever, this is getting boring," said Morrow. "Check out this one!" He waved a hand.
 
 Suddenly, there was an awful squawking right behind me. I jumped and whirled around. Then I heard Morrow laughing. He had manifested a phone and a big speaker system right behind my head!
 
@@ -316,11 +316,11 @@ Suddenly, there was an awful squawking right behind me. I jumped and whirled aro
 
 "Justicar can do that??"
 
-"Didn't you just –" I noticed that there was another wire leading from the speakers all the way back to Morrow's hand. So he <em>had</em> manifested something he was touching, it was just that the "thing" was "a phone AND speaker AND really long wire that doesn't do anything". "Wow, that's genius!" I said. I tried to do the same thing back to him, but it didn't work for me. "Why can't I do that? No fair! I thought <em>I</em> was supposed to have powerful manifesting!"
+"Didn't you just –" I noticed that there was another wire leading from the speakers all the way back to Morrow's hand. So he <em>had</em> manifested something he was touching, it was just that the "thing" was "a phone AND a speaker AND a really long wire that doesn't do anything". "Wow, that's genius!" I said. I tried to do the same thing back to him, but it didn't work for me. "Why can't I do that? No fair! I thought <em>I</em> was supposed to have powerful manifesting!"
 
 "Powerful, yes. Adaptable, perhaps not," said Justicar.
 
-"Screw you too." I turned to Morrow. "I'll prank you back somehow!" I ran at him and started chasing him around the star. He was quick, but he kept slipping and falling on the slippery floor. <em>I</em> had already gotten used to the limits of how fast I could run, so I caught up to him easily. But just when I had cornered him at the edge of the star, he bopped me on the head with a foam sword.
+"Yeah, screw you too." I turned to Morrow. "I'll prank you back somehow!" I ran at him and started chasing him around the star. He was quick, but he kept slipping and falling on the slippery floor. <em>I</em> had already gotten used to the limits of how fast I could run, so I caught up to him easily. But just when I had cornered him at the edge of the star, he bopped me on the head with a foam sword.
 
 "Alas! For I am slain!" I joked along, manifesting a spurt of fake blood from my head. "But I'll take you down with me!!" I tackled Morrow and pulled him over the edge with me.
 
@@ -380,11 +380,9 @@ Morrow grinned fiendishly. "What if I'm not joking?"
 
 "If you were not joking, you should seek serious help rather than make light of it. Unfortunately there are no trained therapists here, but under the circumstances, the Farseer or I would be able to consult –"
 
-"Hey, uh," I said quietly, so only Morrow could hear me, "if you actually weren't joking, uh…" I wanted to say something sympathetic, but I couldn't think of what to say. Ugh, what would Layo do? "Uh, do you want to talk about it?"
+Morrow ignored her, manifested a chunk of meat, and started chewing furiously. 
 
-Morrow ignored me, manifested a chunk of meat, and started chewing furiously. 
-
-"Tough guy, huh? I can roll with that." I said. "And another thing though, why do you eat all the time? You know we don't have to eat here, right?"
+"And another thing though, why do you eat all the time? You know we don't have to eat here, right?"
 
 "But I'm <em>huuungry!!</em> I'm always hungry, even when I've eaten –"
 
@@ -425,6 +423,13 @@ Justicar's eyes widened – only a little, but it was the first time I had seen 
 "Thank you."
 
 "So <em>that</em> was awkward," I said. "Hey, Morrow, let's –"
+
+Almost before I started speaking, Morrow dragged me off to go have fun on the underside.
+
+
+"Hey, uh," I said quietly, so only Morrow could hear me, "if you actually weren't joking, uh…" I wanted to say something sympathetic, but I couldn't think of what to say. Ugh, what would Layo do? "Uh, do you want to talk about it?"
+
+"Tough guy, huh? I can roll with that." I said.
 
 [????? Oops, this already happened earlier – "I TRIED it!" said Morrow sourly. "But it's so much WORK! I'd rather just stay hungry!"]
 
@@ -496,9 +501,50 @@ I tried it. "Owwww! That's hot!" I quickly manifested the burns away.
 
 Morrow snickered. "Haha, you also gotta manifest on your mouth so it doesn't burn."
 
-It took me a few tries to get it right. I had to concentrate my will on maintaining the temperature of the whole inside of my mouth, while simultaneously making fire appear inside and shoot outwards.
+It took me a few tries to get it right. I had to concentrate on maintaining the temperature of the whole inside of my mouth, while simultaneously making fire appear inside and shoot outwards.
 
-[????? the pain stick, probably when Justicar is NOT looking]
+?????
+
+"Here, hold this!" Morrow tossed me a metal rod.
+
+I caught the rod. "Oww!" I yelled, dropping it immediately. Morrow snickered.  "Hey! I was just surprised!" I said, defiantly picking up the rod again, even though it was super hot.
+
+It hurt a <em>lot</em> to keep holding on to it, but it was worth it to turn the prank around on him. "Bet <em>you</em> can't hold on to this without manifesting on your hand!" I said. I pointed the rod towards him, offering him the other end.
+
+"Rinn," said Yali's voice, echoing from the other side, sounding very serious. "Don't do it. Put it down."
+
+I jumped. "Have you been watching us this whole time?!" Yali was still on the other side of the star, but she could easily have been using some sort of magic power.
+
+"Please, just put it down. I'll explain in a moment."
+
+"Fine." I dropped the rod on the floor, where it clanged loudly. I was more amused than annoyed. "But like, seriously, what the fuck."
+
+"I've been searching the future for possible dangers, and this was one of them. After you challenge Morrow to hold that thing, he goes too far and then tries to use his mind powers on himself in order to block out the pain. But he does it wrong and messes up his own mind somehow –"
+
+"What the fuck!" I yelled at Morrow. "I told you NOT to do stupid shit that fucks you up!"
+
+"You worried about me?" said Morrow, his voice dripping with sarcasm.
+
+Suddenly, everything was coming together. His cavalier attitude about his own safety. The way he avoided any questions about himself. [???? Foreshadow that] His "joke" about wanting to die. "Maybe I am!" I snapped.
+
+Morrow mimicked my voice insultingly. "Look at me, I'm Rinn and I <em>worry</em> about people –"
+
+"Believe it or not, some things actually matter!" I said hotly. "<em>Your life actually matters –</em>"
+
+"It's no use," said Yali's voice again. "Believe me, I've tried."
+
+"When have <em>you</em> tried?!"
+
+"In the future."
+
+"Oh, right."
+
+"Just keep distracting him."
+
+"Fine." My head was pounding. It was hard to get my mind off how <em>wrong</em> it was that Morrow was devaluing his own blood. But if this <em>was</em> serious, it was extra important to do what Yali said. Maybe <em>I</em> needed a distraction, too. I quickly thought back to what we been doing just before. "Wait," I said to Morrow, allowing myself to grin a little. "So you were going to block out the pain by magic? You cheating cheater!"
+
+Morrow smirked. "You said I couldn't manifest on my <em>hand</em>."
+
 ?????
 
 <bigbreak>
@@ -539,3 +585,21 @@ But as I looked around, I could see that none of the others had any more idea of
 },
 ]
 
+
+
+# Yali cut this scene:
+
+"""
+"That's what you think!" Morrow grabbed the rod, but then immediately jerked his hand away again. It was my turn to snicker at him. But then he clamped down his hand on it again, and put his other hand over it so the first hand couldn't come off. He glared back at me, grinning manically.
+
+"Okay, it's on!" I said, gritting my teeth. "Remember, if you use manifesting, it's cheating!"
+
+We stood that way for a minute, stubbornly holding on to opposite ends of the rod. Morrow was breathing hard and his eyes kept flickering between me and his hands on the rod.
+
+"This is getting boring," Morrow panted.
+
+"If you're so bored, just make it hotter," I said, making myself sound casual on purpose, even though I could barely handle it myself.
+
+He actually did. The pain nearly overwhelmed me. My heart pounded as I held on fiercely, focused on nothing but my burning hand, determined to win. Then I got it under control, and looked back up at Morrow, intending to put on some more bravado.
+
+As soon as I looked at him, I could tell that something was weird. He wasn't tensed up or breathing hard anymore, and his gaze had drifted off into the distance. "Dude, what's the deal?" I said. I jiggled the rod, but he didn't react to the motion at all, even though he was still holding onto it."""
