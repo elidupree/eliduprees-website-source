@@ -58,7 +58,7 @@ We both moved in for a hug awkwardly, bumping our arms into each other.
 
 Alchemist was warm and gentle, lumpy in some places and bony in others. [????? More description]
 
-When we pulled away, Alchemist had tears streaming down their face. "Mama, Papa, Bubele, Neemah…" they sobbed. They kept crying and saying more names, probably all the people they had left behind on Earth.
+When we pulled away, Alchemist had tears streaming down their face. "Mama, Papa, Bubele, Niemah…" they sobbed. They kept crying and saying more names, probably all the people they had left behind on Earth.
 
 "Hey, hey, it's okay. We'll get you back to everyone safe and sound." I hugged them again.
 
