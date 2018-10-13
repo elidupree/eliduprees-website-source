@@ -32,9 +32,40 @@ A chill shot through me. So these were the Blood God's thoughts. Even the phrase
 
 ?????
 
+[????? Feeling like the Seeking God was like a younger sibling that didn't know how to take things seriously]
+
 I was getting better at recognizing the Blood God's thoughts. [????? Examples]
 
 ?????
+
+
+
+
+[????? The only thing I could see was] a clock inset into one of the walls.
+
+The clock was running at a normal pace. It had a simple, blocky hour hand, and similar hands for minutes and seconds. The only unusual thing was a mark on the ????. "That's eight hours from now," I said.
+
+"Betcha that means we've got eight hours to solve the puzzle!"
+
+"Yeah, but… what puzzle?" I looked around the room. It was probably big enough that we could have lain down next to each other, but just barely.
+
+"Okay, maybe the clock is the puzzle!" Morrow tried to take it down from the wall, but it didn't work. The clock was inset into the wall, and it was covered by a glass panel that was completely smooth with the surface of the wall. Morrow tried to dig his fingernails under it, but they just slid straight from the wall to the class without catching anywhere.
+
+"We must've missed something!!" said Morrow, agitated.
+
+It was hard to imagine that we could have missed anything. The room was literally just a rectangle with neutral gray walls on all sides. To humor him, I checked the ceiling, and I even checked under my feet, but there was nothing special.
+
+Morrow ?????, beating and scratching at the walls to see if there was any weakness. He was clearly looking for something that wasn't there. Mentally, I took a step back. ?????
+
+"Oh, <em>I</em> get it now," I said. "The puzzle is <em>us</em>. The puzzle is how we're gonna handle being stuck in a room with each other for eight hours."
+
+Morrow looked back towards me, eyes wild. "That's NOT a PUZZLE!!" he exploded. "There MUST be something else! This is SUPPOSED to be a PUZZLE! Give me a puzzle! Give me something to solve!!" he yelled, slamming his fist into the wall repeatedly.
+
+I could tell denial when I saw it. I leaned back, crossed my arms, and watched him flail. "You know," I said sharply, "for something that's not a puzzle, you're sure having a hard time solving it."
+
+<bigbreak>
+
+
 ''',
 },
 ]

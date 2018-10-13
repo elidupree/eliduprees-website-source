@@ -20,13 +20,13 @@ posts = [
   
 "So," I said, summarizing the last hour of discussion, "the Alchemist is, like, infinitely far away. They broke their star, and it's not on the pattern anymore. We don't know if they did it on purpose. We don't know if they have any control over where it's going. And <em>we</em> have no way to get off the pattern to follow them, because what they did was probably an Alchemist power. And we have no way to communicate with them. And Yali's power is useless as usual, because apparently the Waiting God still thinks this is part of the challenge. And even if they <em>did</em> figure out where we are, and <em>could</em> move their star on purpose, they might crash into us really fast, because they don't have the pattern to slow them down at the right moment. It would be even worse than what happened with Morrow, because, uh…"
 
-"Because Morrow was slowed down by air resistance. All of our bodies would be destroyed, hostile intent or no."
+"Because Morrow was slowed down by air resistance," supplied Yali.
 
-"Right, because there's air in space."
+"Right, because there's air everywhere, even though we're in space."
 
-"Right."
+"Right. The air generally moves along with the closest star. But the stars control the movement of the air, so with the star itself moving, there would be nothing to slow it down. All of our bodies would be destroyed, hostile intent or no."
 
-?????
+"Stern take it."
 
 "What if we made a really bright light?" said Morrow. "And then used it to flash out a code!"
 
@@ -78,13 +78,13 @@ He turned his head sideways to yell to us. "It's like a big puppy!"
 
 "What <em>is</em> it??" I said.
 
-Morrow was still busy licking the floor. Justicar raised an eyebrow. "There <em>is</em> one other mind that should be in here with us. One that we would call 'it'."
+Morrow was still busy licking the floor. Justicar raised an eyebrow. "There <em>is</em> one other mind that should be in here with us. One that we <em>would</em> call 'it'."
 
 "It's not the Waiting God," said Yali. "I would know. But… A mind that isn't human… A mind that's connected to the star…" With a sudden realization, she whispered an old saying: "<em>Only the Broken God can create life.</em>"
 
 "You think the Alchemist <em>created</em> a new form of life??" I said.
 
-"This doesn't add up," said Justicar, unimpressed. "Newly created life would not have a strong soul. But this is something that the Imminent sensed much <em>more</em> strongly than the Alchemist themself. It makes much more sense if he is sensing a god."
+"This doesn't add up," said Justicar, unimpressed. "Newly created life would not have a strong soul. But this is something that the Imminent sensed much <em>more</em> strongly than he sensed the Alchemist themself. It makes much more sense if he is sensing a god."
 
 "It's the star!!" I yelled.
 
@@ -114,7 +114,9 @@ The only thing it <em>could</em> do was try to move. And since it could never te
 
 "Okay. We can try kzz again, just to see. Justicar?"
 
-"Done." Justicar wrote down "kzz" in a little notebook, along with the current time, down to the nearest 10 seconds.
+"Done." Justicar wrote down "kzz" in a little notebook, along with the current time, down to the nearest ten seconds.
+
+This went on for hours.
 
 
 ?????
@@ -170,7 +172,7 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 ?????
 
-"Now that were altogether – all five of us – we can…" I wasn't quite sure where I was going with this, but there is something that felt almost nostalgic about the five of us all being together and friendly with each other – or at least tolerating each other, I guess. There was an irritating doubt in the back of my mind, but for now, I just wanted to have fun. "Let's have a campfire! And then we can tell stories around the campfire!"
+"Now that we're all together – all five of us – we can…" I wasn't quite sure where I was going with this, but there is something that felt almost nostalgic about the five of us all being together and friendly with each other – or at least tolerating each other, I guess. There was an irritating doubt in the back of my mind, but for now, I just wanted to have fun. "Let's have a campfire! And then we can tell stories around the campfire!"
 
 "We could also tell stories without setting anything on fire," said Justicar.
 
@@ -232,30 +234,14 @@ Justicar let out a tiny sigh.
 
 "Hey!" <em>That's not fair</em>, I thought, but this time my mind managed to get a step ahead. I shut my mouth instead. Yali chuckled.
 
+<bigbreak>
+
 ?????
 
-"Can the rest of you stop manifesting for a while?" said Yali suddenly.
 
-"Sure, but why?" I said.
-
-"It's the Seeing. It's –"
-
-"Ooh! Ooh!" said Morrow. "Does it mess it up when we manifest? How does it work? Tell me!"
-
-"The truth is, even though it's called the Seeing," began Yali patiently, "it's not much like seeing with my eyes. It's more like, sort of… holding very still, to <em>listen</em> for the future. And your manifesting is very… noisy. So it's hard to hear anything past what you're about to manifest."
-
-"Oh! So – wait a minute, you just asked us to stop manifesting! So before that, you were <em>already</em> about to ask us to stop manifesting! So you shouldn't have seen us manifesting anything in the future! How does that make sense?!"
-
-"I think, I think, maybe it's about the fact that it was <em>my</em> decision? I mean, I didn't decide to tell you until after I saw it, so maybe, maybe…"
-
-"If the Farseer could reliably predict the results of the Farseer's own future decisions," Justicar cut in, "then what would happen if she foresaw a danger? Naturally, she would act to prevent the danger. But then the danger would never occur as she saw it. That would be a contradiction, so it follows that, <em>until</em> the Farseer has committed to a decision, she can still See the results of alternate decisions she could make." She looked to Yali. "Is that not so?"
-
-"Something like that, yes."
+It was weird. Morrow acted like a completely different person when he was around Alchemist. He wasn't just affectionate, he was also patient and reassuring. Not as patient as Yali or anything, but still totally different from his normal self.
 
 
-????? [????? Someone asks about the difference between alchemy, sorcery, and manifesting]
-
-[Rinn tells the story about jumping out her window]
 
 
 ?????
@@ -301,6 +287,33 @@ Morrow shrugged. "Gay is just who you fuck, right?"
 Morrow smirked. "Whaddaya think?"
 
 "I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on. Or, like, playing sports against her. <em>Girls</em>." I sighed happily. "Yeah, and now that I'm grown up and shit, I also want to fuck her. You know, in between doing all the other things."
+
+
+?????
+
+"Can the rest of you stop manifesting for a while?" said Yali suddenly.
+
+"Sure, but why?" I said.
+
+"It's the Seeing. It's –"
+
+"Ooh! Ooh!" said Morrow. "Does it mess it up when we manifest? How does it work? Tell me!"
+
+"The truth is, even though it's called the Seeing," began Yali patiently, "it's not much like seeing with my eyes. It's more like, sort of… holding very still, to <em>listen</em> for the future. And your manifesting is very… noisy. So it's hard to hear anything past what you're about to manifest."
+
+"Oh! So – wait a minute, you just asked us to stop manifesting! So before that, you were <em>already</em> about to ask us to stop manifesting! So you shouldn't have seen us manifesting anything in the future! How does that make sense?!"
+
+"I think, I think, maybe it's about the fact that it was <em>my</em> decision? I mean, I didn't decide to tell you until after I saw it, so maybe, maybe…"
+
+"If the Farseer could reliably predict the results of the Farseer's own future decisions," Justicar cut in, "then what would happen if she foresaw a danger? Naturally, she would act to prevent the danger. But then the danger would never occur as she saw it. That would be a contradiction, so it follows that, <em>until</em> the Farseer has committed to a decision, she can still See the results of alternate decisions she could make." She looked to Yali. "Is that not so?"
+
+"Something like that, yes."
+
+
+????? [????? Someone asks about the difference between alchemy, sorcery, and manifesting]
+
+
+?????
 
 
 
