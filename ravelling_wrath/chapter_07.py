@@ -52,7 +52,7 @@ After only a moment more in doubt, the Justicar straightened up, proud and profe
 
 "Blood Child, do you swear that you will not harm the Farseer?"
 
-I couldn't stand having some intimidating stranger demand that I swear to stuff, but I was supposed to make a good impression on her. And it wasn't like that was something I'd have a hard time swearing to. I put on my most solemn voice. It probably didn't sound completely sincere because I never did that kind of thing, but I was doing my best. "I swear before all the gods that I will not harm Yali," I said. I opened my hands to show that I wasn't planning to hurt anyone, and added, "Look, I love her. There's no way I could hurt her, it would tear me apart."
+I couldn't stand having some intimidating stranger demand that I swear to stuff, but I was supposed to make a good impression on her. And it wasn't like that was something I'd have a hard time swearing to. I put on my most solemn voice. It probably didn't sound completely sincere because I hardly ever did anything solemn, but I was doing my best. "I swear before all the gods that I will not harm Yali," I said. I opened my hands to show that I wasn't planning to hurt anyone, and added, "Look, I love her. There's no way I could hurt her, it would tear me apart."
 
 "Very well." The Justicar held out her hand. I shook it.
 

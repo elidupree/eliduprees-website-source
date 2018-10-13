@@ -17,7 +17,7 @@ posts = [
 
 <p>Since this is the first chapter in the Otherworld, I had a lot of stuff I needed to set up. The rules of the Otherworld in general. The physics of the Waiting God's layer in particular. How manifesting works. The subtleties of Rinn's reactions to everything. And during all the exposition, I had to keep up the appropriate range of promises, like the one about the other Ravellers, and the ones from this chapter's major subplot about Rinn handling zir boredom and loneliness.</p>
 
-<p>Amusingly, the exact rules of manifesting weren't established until very late in my design process. I knew from the beginning that I didn't want it to be able to create living things. But I also had multiple planned scenes where characters manifested <em>food</em>, so I had to come up with the justification for why food is allowed when actual living things aren't. Also, I wanted it to be able to create pretty much anything you could think of, but what if you thought of "a supercomputer that's better than any that's been invented yet"? That seemed like it could get out of control. So I eventually came up with a system that's somewhere in the middle, with lots of freedom but also interesting limitations.</p>
+<p>Amusingly, the exact rules of manifesting weren't established until very late in my design process. I knew from the beginning that I didn't want it to be able to create living things. But I also had multiple planned scenes where characters manifested <em>food</em>, so I had to come up with a justification for why food is allowed when actual living things aren't. Also, I wanted it to be able to create pretty much anything you could think of, but what if you thought of "a supercomputer that's better than any that's been invented yet"? That seemed like it could get out of control. So I eventually came up with a system that's somewhere in the middle, with lots of freedom but also interesting limitations.</p>
 
 <p>Also, I definitely wanted manifested objects to be "less real" in some sense – e.g. the fact that it's possible to unmanifest them. (And the fact that they generally can't exist in the material world.) But I also didn't want them to disappear as soon as you weren't thinking about them, because it would suck if the characters manifested a bed and then it disappeared as soon as they were asleep. So… this is how it ended up.</p>
 
@@ -59,7 +59,7 @@ Yali gently pushed me away. "Why don't you take a look around? I'll be up in a m
 
 "Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff. Well, first, I pulled off the hoodie Yali gave me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. Now in just my shirt, I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
 
-[???? now that I was feeling better], I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about 15 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
+Now that I was feeling better, I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about 15 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
 
 I couldn't even see anything else over the edges of the platform. I carefully knelt down at the edge and looked over… and saw <em>more</em> stars stretching out endlessly below us.
 
@@ -198,7 +198,7 @@ When I looked back, Yali was holding a clay pot.
 
 Yali gave an embarrassed smile. "I thought I'd try manifesting. The first thing I thought of was a potted plant I used to have in my room. But I forgot you can't manifest anything that has its own soul."
 
-"Plants have souls?" I said. Then I smacked myself in the forehead. "Well duh, of course I knew that. It's just not something you think about every day, you know? Wait, never mind that! Manifesting! How do I do this, do I just, like, <em>want</em> something into existence –" I waved a hand, imagining that I was pulling something out of thin air. [???? clear that it's not a specific thing imagined]
+"Plants have souls?" I said. Then I smacked myself in the forehead. "Well duh, of course I knew that. It's just not something you think about every day, you know? Wait, never mind that! Manifesting! How do I do this, do I just, like, <em>want</em> something into existence –" I waved a hand, imagining that I was pulling something out of thin air. I wasn't thinking of <em>what</em> to pull, I just pulled.
 
 Yali flinched.
 
@@ -566,7 +566,7 @@ Yali smiled, but only a little. "I know. It's what I love about you. You don't s
 
 "Shit, I'm sorry, I promise I'll do better, I'll, like, leave you alone until you call for me –"
 
-"We don't need to go <em>quite</em> that far." Yali and I spent a while laying out some ground rules. We agreed on <em>some</em> hours of each "day" when I'd stay on the underside and not disturb Yali unless it was an emergency. Which probably meant never, because Yali would see any emergency coming in advance. Then there were some more hours when it was <em>okay</em> to get her attention, I just shouldn't do it too much in a row. And then there was our official together time. Yali promised she'd be <em>more</em> responsive during that time, when she'd had the proper rest.
+"We don't need to go <em>quite</em> that far." Yali and I spent a while laying out some ground rules. We agreed on <em>some</em> hours of each "day" when I'd stay on the underside and not disturb Yali unless it was an emergency. Which probably meant never, because Yali would see any emergency coming in advance. Then there were some more hours when it was <em>okay</em> to get her attention, I just shouldn't overdo it. And then there was our official together time. Yali promised she'd be <em>more</em> responsive during that time, when she'd had the proper rest.
 
 I wasn't exactly <em>happy</em> with the arrangement, but at least it made things feel more solid. "I'll do better, I promise," I said. "I'll stick to the, uh, what we agreed to. And, like…" I was reluctant to say this next part, because I didn't really want to think back to what happened. But I felt like it was important. "Next time you say <em>Controlling Game</em>, I won't mess around. I'll control myself right away. Any of the other games, too. I get why it's important."
 
@@ -604,13 +604,13 @@ I wasn't exactly <em>happy</em> with the arrangement, but at least it made thing
 
 "Maybe I can help you believe that it can make it <em>more</em> real."
 
-"Yeah, probably, I mean, you've convinced me that black is white plenty of times before. We were supposed to be soulmates, though! Like a ?????, like two jigsaw puzzle pieces that fit together perfectly!"
+"Yeah, probably, I mean, you've convinced me that black is white plenty of times before. We were supposed to be soulmates, though! Like a hand in a glove, like two jigsaw puzzle pieces that fit together perfectly!"
 
 "Jigsaw pieces have three other sides, you know."
 
-[????? I was flabbergasted.]
+I sure hadn't thought of <em>that</em> way of looking at it. It knocked the words right out of me.
 
-"I want to build something with you that's so solid that it will last forever. And there'll be a time when both our infatuation has worn off, when we won't be able to rely on just being head-over-heels for each other. But when that time comes, I want to <em>still be with you</em>. I want to make sure we both get <em>all</em> of our needs met, from, from, from all sides of the jigsaw puzzle, not just one. You have so much passion, you're overflowing with it, that's what I love about you, and if that passion ever makes you love someone else as well as me, that's what I <em>want</em> to happen."
+"I want to build something with you that's so solid that it will last forever. And there'll be a time when the infatuation has worn off for both of us, when we won't be able to rely on just being head-over-heels for each other. But when that time comes, I want to <em>still be with you</em>. I want to make sure we both get <em>all</em> of our needs met, from, from, from all sides of the jigsaw puzzle, not just one. You have so much passion, you're overflowing with it, that's what I love about you, and if that passion ever makes you love someone else as well as me, that's what I <em>want</em> to happen."
 
 "That's… actually kind of inspiring. But, like, you're sure you're okay with it?" Even after she said all that, when I thought about the idea of loving somebody else, it still felt like I'd be breaking something. Betraying her.
 
@@ -646,7 +646,7 @@ Yali carefully asked me a few questions, to make sure I really wanted to help. B
 
 It was boring work, mostly just staring at one stationary star after another. But at least I could feel like I was working alongside Yali, theoretically getting stuff done. It was boring, but it wasn't the isolating, resentful kind of boring I'd been dealing with before.
 
-Eventually, we actually stole one of the telescopes from another star so that we could both use the telescope at the same time. I just cut the other telescope down with a Blood Blade – a little nervously, because I was worried I'd break my carefully balanced sense of calm if I cut anything aggressively. But it worked. And then I manifested in a new base for it on our own star. We actually did it with a few more telescopes soon after, just so Yali could leave them configured in different ways. We tried to do it with one of the computers, too, but it didn't work once it was separated from the star, and we couldn't figure out how to power it.
+Eventually, we actually stole one of the telescopes from another star so that we could both use the telescope at the same time. I just cut the other telescope down with a Blood Blade – a little nervously, because I was worried I'd break my carefully balanced sense of calm if I cut anything aggressively. But it worked. And then I manifested a new base for it on our own star. We actually did it with a few more telescopes soon after, just so Yali could leave them configured in different ways. We tried to do it with one of the computers, too, but it didn't work once it was separated from the star, and we couldn't figure out how to power it.
 
 We spent a lot of time scanning the sky together, almost shoulder to shoulder – although we technically stayed far enough apart that we wouldn't bump into each other, because it was way too easy to knock the telescopes off their calibration. We spent hours in near silence, just occasionally speaking if one of us saw something unusual.
 
@@ -666,7 +666,7 @@ Before long, she had come to a conclusion. "It's the Justicar," she said serious
 
 <bigbreak>
 
-"The Justicar can be a powerful ally, or a powerful enemy," said Yali. "She already views you as a threat, so we must be very careful. First impressions will be very important."
+"The Justicar can be a powerful ally, or a powerful enemy," said Yali. "She already views you as a threat, so we have to be very careful. First impressions will be very important."
 
 "Got it. I'll make sure to act extra nice and nonthreatening."
 
@@ -678,7 +678,7 @@ Yali gave me a bunch more tips about what to say and not say in front of the Jus
 
 It wasn't long before the time when Yali had calculated we'd meet up. Just like every other time, one of the stars started to move in the sky, then got bigger. Only this time, I could make out a figure standing there.
 
-As the star drifted closer, I could make out more details of the figure. Tall and proud, she was dressed in a gleaming armor from the neck down. She stood rigidly in place, silently watching us as the stars came together.
+As the star drifted closer, I could make out more details of the figure. Tall and proud, she was dressed in gleaming armor from the neck down. She stood rigidly in place, silently watching us as the stars came together.
 
 So this was the Justicar.
 
