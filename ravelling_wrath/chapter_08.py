@@ -78,7 +78,43 @@ He turned his head sideways to yell to us. "It's like a big puppy!"
 
 "What <em>is</em> it??" I said.
 
+Morrow was still busy licking the floor. Justicar raised an eyebrow. "There <em>is</em> one other mind that should be in here with us. One that we would call 'it'."
 
+"It's not the Waiting God," said Yali. "I would know. But… A mind that isn't human… A mind that's connected to the star…" With a sudden realization, she whispered an old saying: "<em>Only the Broken God can create life.</em>"
+
+"You think the Alchemist <em>created</em> a new form of life??" I said.
+
+"This doesn't add up," said Justicar, unimpressed. "Newly created life would not have a strong soul. But this is something that the Imminent sensed much <em>more</em> strongly than the Alchemist themself. It makes much more sense if he is sensing a god."
+
+"It's the star!!" I yelled.
+
+"What?"
+
+"It's the star! The Alchemist <em>brought their star to life</em>! Think about it! The star was attached to the pattern, but now it's not! That's exactly what Morrow just said! Hey, Morrow! Tell it to come over here!"
+
+"Don't do that!" shouted Yali. "If it <em>is</em> the star, tell it to come close to here but be careful not to crash into us!
+
+The next few minutes were a frantic struggle to figure out how to communicate with a living star when all you had was magic mind powers and the person with the magic mind powers had zero attention span. Morrow eventually figured out a way to insert thoughts into the mind of the star, so he could read what the star thought back in response. And then there was a problem of how to tell the star where to go. As far as we could tell, it literally had no senses, except for the sense of whether it was on the pattern. And it just wasn't any more. It couldn't, like, tell when it was getting closer or farther away or anything.
+
+The only thing it <em>could</em> do was try to move. And since it could never tell whether the moving was working, it had just kept trying to move every which way, hoping something would happen. And it didn't have a language to express which <em>direction</em> it was trying to move, so Morrow had to try to interpret it for us.
+
+"Okay this! What it's doing now! It feels like '<em>glep</em>'!"
+
+"Glep?"
+
+"Glep!"
+
+"Okay," said Yali, watching the telescope intently. "I'm not seeing movement right now. Tell it to <em>glep</em> as hard as it can, then we'll wait 10 minutes to see if it just has a slow buildup."
+
+"It already glepped! It can't glep any farther! Now it feels like it should <em>kzz</em>!"
+
+"Didn't it <em>kzz</em> earlier? And that took it farther away from us?"
+
+"That's when kzz was hard! Like an engine backfiring! Now it's ready to kzz for real!"
+
+"Okay. We can try kzz again, just to see. Justicar?"
+
+"Done." Justicar wrote down "kzz" in a little notebook, along with the current time, down to the nearest 10 seconds.
 
 
 ?????
