@@ -39,6 +39,15 @@ I was getting better at recognizing the Blood God's thoughts. [????? Examples]
 ?????
 
 
+"Have you seen Raylie??" He repeated.
+
+"Who's Raylie?"
+
+Morrow blinked. "Alchemist! Have you seen Alchemist??"
+
+"Can't you smell them?" I said.
+
+
 
 
 [????? The only thing I could see was] a clock inset into one of the walls.
