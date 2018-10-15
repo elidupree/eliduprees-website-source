@@ -334,6 +334,13 @@ So it was a transparent attempt for the other lovebirds to get some time alone. 
 
 "It is not a matter of what I want. It is a matter of what is wise."
 
+?????
+
+"This will be a lot like when we were pulled into the Otherworld. Just as the Waiting God put us into this layer, the Seeking God will put us into the next. So it will be similar, but different."
+
+"Different how? What's it going to be like?"
+
+"This is the Seeking God. If I told you what to expect, the god would do something else."
 
 ''',
 },
