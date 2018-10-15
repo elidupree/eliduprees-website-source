@@ -75,7 +75,7 @@ Justicar sighed. "I won't rise to your provocation."
 
 "What, like you got [????? very drunk] specifically to have sex with some dude?"
 
-"It doesn't matter if –"
+"No, but it doesn't matter if –"
 
 "Then I don't see how it was consensual," I ?????.
 
@@ -83,11 +83,25 @@ Justicar glared at me. "Are you so eager to avoid taking responsibility for your
 
 "What the fuck! Of course I take responsibility for my actions! When I hurt someone else, that's my responsibility. When someone else hurts me, that's their responsibility. It's not that complicated!"
 
+"So, according to you, any time you have sex with a drunk person, that's rape?"
 
+"Uh, generally," I said. I felt like she was trying to pin me down with some sort of clever logic. And I wasn't sure all of the girls <em>I'd</em> been with had been totally sober at the time, so that was a little uncomfortable.
 
-[????? Descriptions like "I devalued my body", perhaps unintentionally explicit about avoiding something.] I had no self-respect."
+"Then you could just as well say that <em>I</em> raped some of those <em>men</em>."
 
-Up to this point, I had mostly just been messing with her. But [????? this was serious. I got all charged up.] "That's your <em>real</em> problem," I said coldly. "But I've got loads of self-respect.
+"Haha, maybe you did! Did you check in with them afterwards or anything? It's not like they'd come up to you the next day and be like, 'By the way, Justicar,' or whatever your real name is, 'you actually traumatized me last night, just so you know'!"
+
+Justicar was smiling – the smile of someone who's being patient with a little kid who's talking nonsense. Stern take it, if I wanted to get through to her, I couldn't just keep saying the first thing that came into my head, even if it wasn't wrong. "So, what, do you think drunk girls are just asking for it?!" I snapped.
+
+"If you would give me a chance to explain the actual principles I follow, you would know I do not believe anything like that. It is always wrong to force yourself on someone else. But no one forced themselves on me. It was my own choice to devalue my body like that. I <em>chose</em> to fill my nights with sexual indiscretions, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
+
+Up to this point, I had mostly just been messing with her. But [????? this was serious. I got all charged up.] "That's your <em>real</em> problem," I said coldly. "But –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. If anyone doesn't treat me right, they can fuck right off. ?????"
+
+"When I was your age, I too believed that I was being assertive and empowered."
+
+"Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
+
+"You can believe what you like," she said.
  
 ?????
 

@@ -74,6 +74,23 @@ I could tell denial when I saw it. I leaned back, crossed my arms, and watched h
 
 <bigbreak>
 
+"I'm NOT trapped in a room," Morrow moaned, curled up in the corner, tears streaming down his face. "I'm in a floating castle. With streamers everywhere. Everyone's happy…"
+
+"Dude…" I wasn't sure what to say. Whatever was going on with him, he sure didn't look like he was having a good time. I wanted to say something sympathetic. But I just had no idea how to start. "I'm not good at dealing with mental health issues –" I began. Shit, that hadn't come out right. "I mean –"
+
+"I'm NOT a PSYCHO!!" Morrow snarled at me from the floor.
+
+"What the fuck, dude! I didn't say 'psycho', I said 'mental health'! You know, like something you can get help with! I'm just, like, not good at helping –"
+
+"Well I don't NEED any HELP!! I'm fine, FINE, FINE!!" He turned and smashed his face into the wall, then reared back to do it again.
+
+"What the fuck!! You can't smash your head on the wall, you'll give yourself brain damage!" I ran and grabbed his hair, yanking him back away from the wall to stop him. He twisted wildly in all directions, trying to get away from me. But for someone who was bigger and more frenzied than me, he was pathetically weak. Grappling with him, it felt like he had more bones than flesh. Pretty soon, I had him pinned in a position where at least he couldn't hurt his head anymore.
+
+"Make it stop, help me, make it stop," he sobbed.
+
+"You sure about that?" I said irritably. "Because, literally ten seconds ago, you said –" I stopped myself. <em>Calming Game, Rinn.</em> It wasn't his fault if he was doing stupid shit. What I really wanted was to tell him something reassuring. But I wasn't very good at reassuring people about emotional stuff, even under normal circumstances. Ugh, what would Layo do? "Uh, do you want to talk about anything?" I said.
+
+
 
 ''',
 },
