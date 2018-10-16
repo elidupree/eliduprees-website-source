@@ -22,6 +22,8 @@ posts = [
 
 [????? Somewhere in this chapter: Justicar saying that her understanding of "the laws by which each god/world functions" gives her an advantage]
 
+[????? somewhere in this chapter: Justicar's parents and the big decision]
+
 
 Up ahead of us was a big room where the floor was divided into a square grid, with each square about a meter wide. A lot of the squares had glass walls rising up from them, forming smaller rooms and hallways within the big gid. Other squares were missing, leaving pits going down into the floor. Still other squares had doors, buttons, levers, and other devices I didn't recognize.
 
@@ -56,7 +58,7 @@ Sure enough,
 
 "parties with underage drinking"
 
-"Sure, I've been to some of those. Only we didn't call them 'parties with underage drinking', we called them 'parties'."
+"Sure, I've been to some of those. Only we didn't call them 'parties with underage drinking', we called them 'parties'." I manifested a glass of beer and whooped. I was mostly just messing with her, though. [????? Oops, this has to be past tense narration?: "The truth is, I hardly ever drink alcohol. Look at me – I'm tiny. I go from zero to wasted in, like, ONE beer."] The first time I had ever gotten drunk, I had tried to kiss an older girl – and <em>missed</em>, and smashed my face into the table next to her. [????? Had to be taken home by some other partygoers?] So a couple weeks later I went back to another party with the same crowd,
 ?????
 
 "I had sex with many different men."
@@ -107,9 +109,13 @@ Up to this point, I had mostly just been messing with her. But [????? this was s
 
 "You can believe what you like," she said.
 
+
+
 ?????
 
+[????? Rinn assumes that Justicar would approve of anything done in the name of the Stern, and Justicar reveals that she was a police officer]
 
+?????
 
 
 "So, when you were a cop, how many people did you put in prison?"
@@ -151,6 +157,10 @@ I was about to complain ????? when another, much more serious thought shot throu
 "This knowledge does not come from the Stern God directly. I simply paid attention in divinity class, [????? after I changed]."
 
 "Fuck you."
+
+?????
+
+[????? The final puzzle where Justicar has to admit the first rule was wrong]
 
 ?????
 
