@@ -18,6 +18,12 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 9: ", '''<p></p>''') +'''
 
+The darkness ?????verbed impatiently.
+
+I couldn't see anything. I tried to move. It felt completely wrong. I was upside down. I was sideways. None of my arms or legs were where I'd left them. My left foot was on top of my head. My right thumb was riding a roller coaster ten meters to my left.
+
+
+
 ?????
 
 I'd had <em>her</em> right in front of me! Why didn't I <em>do</em> anything? [????? More details]
@@ -28,7 +34,7 @@ I was sure I'd used her name loads of times before. I'd go "Hey Yali!!" – Righ
 
 <em>The Farseer.</em>
 
-A chill shot through me. So these were the Blood God's thoughts. Even the phrase "the Farseer" hadn't felt <em>quite</em> right, but it was a lot closer, as if it was, like, pretty close to the same meaning. As if there was some purer, godly word for the Farseer that I was missing.
+A chill shot through me. So these were the Blood God's thoughts. Even the phrase "the Farseer" hadn't felt <em>quite</em> right, but it felt a lot <em>better</em>, as if it was, like, pretty close to the same meaning. As if there was some purer, godly word for the Farseer that I couldn't think of.
 
 ?????
 
