@@ -64,7 +64,7 @@ The clock was running at a normal pace. It had a simple, blocky hour hand, and s
 
 "Yeah, but… what puzzle?" I looked around the room. It was probably big enough that we could have lain down next to each other, but just barely.
 
-"Okay, maybe the clock is the puzzle!" Morrow tried to take it down from the wall, but it didn't work. The clock was inset into the wall, and it was covered by a glass panel that was completely smooth with the surface of the wall. Morrow tried to dig his fingernails under it, but they just slid straight from the wall to the class without catching anywhere.
+"Okay, maybe the clock is the puzzle!" Morrow tried to take it down from the wall, but it didn't work. The clock was inset into the wall, and it was covered by a glass panel that was completely smooth with the surface of the wall. Morrow tried to dig his fingernails under it, but they just slid straight from the wall to the glass without catching anywhere.
 
 "We must've missed something!!" said Morrow, agitated.
 
