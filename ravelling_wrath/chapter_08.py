@@ -116,24 +116,27 @@ The only thing it <em>could</em> do was try to move. And since it could never te
 
 "Done." Justicar wrote down "kzz" in a little notebook, along with the current time, down to the nearest ten seconds.
 
-This went on for hours.
+This went on for hours. It was hard to follow along, because I couldn't use the telescopes well enough to keep the moving star in view. But I was never bored. From the sound of things, the star could actually be here <em>soon</em>, because it didn't have to obey the normal rules. And then all five of us would be together! And even though I didn't have Morrow's magic or the others' knowledge, I still had plenty to do. It was my job to keep Morrow on task, because I was the one who knew how to talk to him. Yali and Justicar were too direct, just telling him what to do. But if you wanted him to actually do something, you had to <em>inspire</em> him. Like by hinting at what he could find out if he tried. Or by pretending you didn't think he could do it. He was a real sucker for dares and challenges, just like me.
 
+"We're getting close!!" exclaimed Morrow from the floor. "The Alchemist! I can taste him! He's so lonely and sad!!" he said mournfully. "I'm going to talk to him!"
 
-?????
+For the next few minutes, Morrow didn't answer anything we said. He just kept licking the floor, his face turning alternately mournful and blissfully happy.
 
-"Her? I thought you called the Alchemist 'he' earlier."
+"His mind is <em>delicious</em>," Morrow raved. "Would you believe he actually didn't know he made the star come to life! But then I told her! She named her Neenu!"
+
+"She… her?" I said. "Are there three people there??"
 
 "I just say whatever feels right at the time!"
 
-"Woah, so is the Alchemist, like, genderfluid?" I said. "Also, hang on, what's the Alchemist's name?"
+"Wait, do you mean – Woah, so is the Alchemist, like, genderfluid?" I said. "Also, hang on, Neenu is the star's name? What's the Alchemist's name?"
 
 "I'm in her mind!! Do people normally think about their own name??"
 
-"<em>I</em> do," I said, smirking. "Every morning I wake up and say, 'Sure is a fine day to be Rinn Akatura!" I was exaggerating, but only a little.
+"<em>I</em> do," I said, smirking. "Every morning I wake up and say, 'Sure is a fine day to be Rinn Akatura!" I was exaggerating, but I didn't <em>completely</em> make it up, haha.
 
 "You should ask for his, or her, name," said Justicar. "So that we know what to call him. Or her."
 
-Unfortunately for Justicar, Morrow was already [????? back to interacting with Alchemist]
+Unfortunately for Justicar, Morrow was already back in his own world with the Alchemist.
 
 ?????
 
