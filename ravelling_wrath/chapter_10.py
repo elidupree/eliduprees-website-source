@@ -17,6 +17,8 @@ posts = [
   ''',
   "head":head,
   "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
+  
+[????? early in this chapter: Justicar predicts that they will not find Yali, reasoning about Yali being too willing to give answers]
 
 [????? Somewhere in this chapter: noticing that the type of puzzles is dependent on who is running into them]
 
