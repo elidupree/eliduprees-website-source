@@ -18,6 +18,10 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
 
+[????? Somewhere in this chapter: noticing that the type of puzzles is dependent on who is running into them]
+
+[????? Somewhere in this chapter: Justicar saying that her understanding of "the laws by which each god/world functions" gives her an advantage]
+
 
 Up ahead of us was a big room where the floor was divided into a square grid, with each square about a meter wide. A lot of the squares had glass walls rising up from them, forming smaller rooms and hallways within the big gid. Other squares were missing, leaving pits going down into the floor. Still other squares had doors, buttons, levers, and other devices I didn't recognize.
 
@@ -102,8 +106,38 @@ Up to this point, I had mostly just been messing with her. But [????? this was s
 "Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
 
 "You can believe what you like," she said.
- 
+
 ?????
+
+
+
+
+"So, when you were a cop, how many people did you put in prison?"
+
+"Police officers do not 'put people in prison'. It is judges and juries who determine sentencing."
+
+I was about to complain ????? when another, much more serious thought shot through me. "<em>Now</em> who's not taking responsibility for their actions?!" I demanded.
+
+"We each do our own part in the system, and only our own part. If a conviction is unjust, that cannot be laid at the feet of officers who were only carrying out their duties."
+
+"Are you kidding me!! If I throw someone in a pit full of vipers, do you think I get to say, 'oh, it's not my fault, I'M not the one who put those vipers in that pit'!?! Or do you want to lay the blame where it fucking belongs?"
+
+????? [????? The person who went to prison for shoplifting]
+
+"Very well." Justicar opened her arms. "If you want to hold me individually responsible for every violent act ever performed in the name of the Stern, perhaps <em>I</em> should hold <em>you</em> responsible for the damage caused by <em>your</em> ideology."
+
+"And what's that?"
+
+"The collapse of society. Mass starvation. Gangs slaughtering each other in the streets."
+
+"Oh yeah? When did that happen?"
+
+"The only reason it has not happened is the fact that <em>the Stern are still in control</em>. What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order [????? set that up], but that is a contradiction, because order is the way that people's lives are preserved. If the laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stars make money? If stores cannot make money, who will be incentivized to import goods into the city? Food?"
+
+"I mean, if I'm in charge, I can just tell someone to import food into the city."
+
+"Because you have seen how a tower is shaped, you imagine that you could tear one down and build another from the ruins without any tools.
+
 
 
 "The lower gods act without thinking. The upper gods tarry in thought without taking meaningful action. Only the Stern, which stands in the middle, has the [????? balance necessary to run a society]. That is why the Stern Temple officially controls three fifths of the city, and why the Stern God ?????, despite what it lacks in raw power."
@@ -117,6 +151,34 @@ Up to this point, I had mostly just been messing with her. But [????? this was s
 "This knowledge does not come from the Stern God directly. I simply paid attention in divinity class, [????? after I changed]."
 
 "Fuck you."
+
+?????
+
+
+"Where are you going?" said Justicar.
+
+"The tunnel's bending back! We're getting farther away from Yali this way!"
+
+"You see? I told you the Seeking God would never allow us to reach the Farseer this way."
+
+I kept looking at the map in my hand. Going too far in one direction took me further away from her. Going too far in the other direction also took me further away from her. I found the closest point, and glared at the wall there. On the map, the little Burning Heart and the little Watchful Eye were so close they were almost touching.
+
+"She's right on the other side of this wall!!" I yelled. "I will <em>not</em> be denied <em>again!</em>" I snatched a Blood Blade out of thin air and swung it against the wall.
+
+The blade glanced off the wall's infinite smoothness. But I wasn't done. With my next heartbeat, another blade pulsed into my other hand. I whirled around, slashing both my blades against the wall, but every time they slid away.
+
+"You can't ignore me forever!!" I yelled at the wall.
+
+"Tell me when you are done trying to intimidate a god," said Justicar tiredly.
+
+There was much more I could do than just smacking it with a couple of sticks. With each heartbeat, I allowed more power to pulse into me. The Blood Blades merged into my arms – there was no longer just a hand gripping a handle, but a single, long, bladed arm, glowing red with heat. I whipped them against the wall, not trying to cut so much as to splatter and bludgeon. With each swing, extra droplets of blood sprayed in every direction around me, and pooled, sizzling, like an acid trying to eat away at the walls and floor.
+
+A short distance away, Justicar manifested a glass barrier to keep herself clean. My blood burned through it like it was tissue paper.
+
+
+
+
+
 
 
 
