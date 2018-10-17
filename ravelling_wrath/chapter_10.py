@@ -64,7 +64,7 @@ Sure enough,
 
 "parties with underage drinking"
 
-"Sure, I've been to some of those. Only we didn't call them 'parties with underage drinking', we called them 'parties'." I manifested a glass of beer and whooped. I was mostly just messing with her, though. [????? Oops, this has to be past tense narration?: "The truth is, I hardly ever drink alcohol. Look at me – I'm tiny. I go from zero to wasted in, like, ONE beer."] The first time I had ever gotten drunk, I had tried to kiss an older girl – and <em>missed</em>, and smashed my face into the table next to her. [????? Had to be taken home by some other partygoers?] So a couple weeks later I went back to another party with the same crowd,
+"Sure, I've been to some of those. Only we didn't call them 'parties with underage drinking', we called them 'parties'." I manifested a glass of beer and whooped. I was mostly just messing with her, though. [????? Oops, this has to be past tense narration?: "The truth is, I hardly ever drink alcohol. Look at me – I'm tiny. I go from zero to wasted in, like, ONE beer."] The first time I had ever gotten drunk, I had tried to kiss an older girl – and <em>missed</em>, and smashed my face into the table next to her. At least, that's what I heard from the other girls who had to take care of me and drive me home, while I kept hitting on them even though I couldn't sit up straight and had a huge bruise on my face. So a couple weeks later I went back to the next party with the same crowd, and that time I stayed completely sober while I went up to the same girl and started making out with her in front of everyone. And then she had taken me up to her room, and… haha, good times.
 ?????
 
 "I had sex with many different men."
@@ -168,7 +168,7 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 [????? The final puzzle where Justicar has to admit the first rule was wrong]
 
-"I can't believe I went this whole way
+"I can't believe I went this whole way [????? acting like I was against the rules, but the very first time you stated a rule, I believed it]"
 
 ?????
 
