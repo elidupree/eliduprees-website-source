@@ -94,7 +94,7 @@ Morrow was still busy licking the floor. Justicar raised an eyebrow. "There <em>
 
 "Don't do that!" shouted Yali. "If it <em>is</em> the star, tell it to come close to here but be careful not to crash into us!
 
-The next few minutes were a frantic struggle to figure out how to communicate with a living star when all you had was magic mind powers and the person with the magic mind powers had zero attention span. Morrow eventually figured out a way to insert thoughts into the mind of the star, so he could read what the star thought back in response. And then there was a problem of how to tell the star where to go. As far as we could tell, it literally had no senses, except for the sense of whether it was on the pattern. And it just wasn't any more. It couldn't, like, tell when it was getting closer or farther away or anything.
+The next few minutes were a frantic struggle to figure out how to communicate with a living star when all you had was magic mind powers, and when the person with the magic mind powers had zero attention span. Morrow eventually figured out a way to insert thoughts into the mind of the star, so he could read what the star thought back in response. And then there was a problem of how to tell the star where to go. As far as we could tell, it literally had no senses, except for the sense of whether it was on the pattern. And it just wasn't any more. It couldn't, like, tell when it was getting closer or farther away or anything.
 
 The only thing it <em>could</em> do was try to move. And since it could never tell whether the moving was working, it had just kept trying to move every which way, hoping something would happen. And it didn't have a language to express which <em>direction</em> it was trying to move, so Morrow had to try to interpret it for us.
 
@@ -118,7 +118,7 @@ The only thing it <em>could</em> do was try to move. And since it could never te
 
 This went on for hours. It was hard to follow along, because I couldn't use the telescopes well enough to keep the moving star in view. But I was never bored. From the sound of things, the star could actually be here <em>soon</em>, because it didn't have to obey the normal rules. And then all five of us would be together! And even though I didn't have Morrow's magic or the others' knowledge, I still had plenty to do. It was my job to keep Morrow on task, because I was the one who knew how to talk to him. Yali and Justicar were too direct, just telling him what to do. But if you wanted him to actually do something, you had to <em>inspire</em> him. Like by hinting at what he could find out if he tried. Or by pretending you didn't think he could do it. He was a real sucker for dares and challenges, just like me.
 
-"We're getting close!!" exclaimed Morrow from the floor. "The Alchemist! I can taste him! He's so lonely and sad!!" he said mournfully. "I'm going to talk to him!"
+"We're getting close!!" exclaimed Morrow from the floor. "The Alchemist! I can taste him! He's so lonely and sad!!" he said mournfully. "I'm going to think to him!"
 
 For the next few minutes, Morrow didn't answer anything we said. He just kept licking the floor, his face turning alternately mournful and blissfully happy.
 
@@ -140,8 +140,29 @@ Unfortunately for Justicar, Morrow was already back in his own world with the Al
 
 ?????
 
+[????? Eventually they got here]. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff.
 
-"So, now that you're here, what's your name? We've just been calling you 'the Alchemist' this whole time."
+?????
+
+The Alchemist stood nervously at the edge of Neenu.
+
+[????? It's just a little jump. You can do it!]
+
+"Or WE could all go ride on Neenu!" said Morrow, jumping across. He immediately [????? hugged Alchemist, but with more details]. I jumped across to join them, then looked back to Yali.
+
+"I can't do it," said Yali, standing at the edge of our old star and shuddering.
+
+"What do you mean, you can't –"
+
+"It's the Waiting God. It <em>knows</em> where that star is supposed to be!
+
+
+
+"I have a duty to complete the challenge set by this world's god," said Justicar doubtfully. "Stepping onto this altered star seems to transgress that. But I suppose I also have a duty to make sure the rest of you remain safe." She strode across Yali's bridge.
+
+
+
+"So, now that we're all here, what's your name? We've just been calling you 'the Alchemist' this whole time."
 
 The Alchemist wobbled back and forth shyly.
 
@@ -171,7 +192,11 @@ Alchemist smiled nervously.
 
 After a very awkward silence, Alchemist managed to psych themself up into saying something. "I – me? I can make potions?"
 
-"It is one of the abilities available to the Alchemist," said Yali. "Once you learn how to do it, you should be able to store parts of the Broken God's power in a physical medium,
+"It is one of the abilities that the Alchemist can learn," said Yali. "Once you learn how to do it, you should be able to store parts of the Broken God's power in a physical medium, like a potion."
+
+"If I could, maybe, learn? To do that? If you could help me?"
+
+"
 
 ?????
 

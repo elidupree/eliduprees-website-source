@@ -96,7 +96,21 @@ I could tell denial when I saw it. I leaned back, crossed my arms, and watched h
 
 "You sure about that?" I said irritably. "Because, literally ten seconds ago, you said –" I stopped myself. <em>Calming Game, Rinn.</em> It wasn't his fault if he was doing stupid shit. What I really wanted was to tell him something reassuring. But I wasn't very good at reassuring people about emotional stuff, even under normal circumstances. Ugh, what would Layo do? "Uh, do you want to talk about anything?" I said.
 
+?????
 
+"Do the loopy thing," said Alchemist nervously.
+
+"I CAN'T do the loopy thing because I CAN'T MANIFEST!"
+
+"What's the loopy thing?" I asked.
+
+Alchemist looked to Morrow, but Morrow was still pretty out of it. So Alchemist tried to answer. "It's a, thing, he does, to, not feel so bad? With his powers. Whenever he feels too, bad, it, magically makes him loop back to feeling better instead. That's why he calls it the loopy thing. But, maybe, it's not working? Not right now?"
+
+"Would he – I mean, hey, Morrow, would you be able to do the loopy thing on me?"
+
+"I CAN'T MANI –"
+
+"I mean, when we get out of here. I kinda have some, uh, feelings, that I don't want to."
 
 ''',
 },
