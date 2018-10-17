@@ -53,6 +53,10 @@ Sure enough,
 
 ?????
 
+[Probably down time where Rinn starts engaging Justicar about Justicar's beliefs]
+
+[Maybe Justicar believes that Rinn is going down the wrong path because Rinn's parents haven't been good Stern role models, so Justicar should try to be that]
+
 "I was not so different from you once. I [????? thought the world belonged to me? Multiple examples]."
 
 
@@ -140,7 +144,7 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 "Oh yeah? When did that happen?"
 
-"The only reason it has not happened is the fact that <em>the Stern are still in control</em>. What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order [????? set that up], but that is a contradiction, because order is the way that people's lives are preserved. If the laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stars make money? If stores cannot make money, who will be incentivized to import goods into the city? Food?"
+"The only reason it has not happened is the fact that <em>the Stern are still in control</em>. What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order [????? set that up], but that is a contradiction, because order is the way that people's lives are preserved. If the laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Food?"
 
 "I mean, if I'm in charge, I can just tell someone to import food into the city."
 
@@ -163,6 +167,8 @@ I was about to complain ????? when another, much more serious thought shot throu
 ?????
 
 [????? The final puzzle where Justicar has to admit the first rule was wrong]
+
+"I can't believe I went this whole way
 
 ?????
 
