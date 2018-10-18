@@ -148,19 +148,37 @@ The Alchemist stood nervously at the edge of Neenu.
 
 [????? It's just a little jump. You can do it!]
 
-"Or WE could all go ride on Neenu!" said Morrow, jumping across. He immediately [????? hugged Alchemist, but with more details]. I jumped across to join them, then looked back to Yali.
+"Or WE could all go ride on Neenu!" said Morrow, jumping across. He immediately [????? hugged Alchemist, but with more details]. I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, she felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
 
 "I can't do it," said Yali, standing at the edge of our old star and shuddering.
 
 "What do you mean, you can't –"
 
-"It's the Waiting God. It <em>knows</em> where that star is supposed to be!
+"It's the Waiting God. It <em>knows</em> where that star is supposed to be! That is just… <em>wrong</em>! Or… if the Waiting God thinks it's wrong…" Yali made a running jump and landed on Neenu, then collapsed to the ground.
 
+I rushed to her side. "You okay there?!"
 
+"I feel like I'm constantly about to fall because I'm standing in the middle of empty space."
 
-"I have a duty to complete the challenge set by this world's god," said Justicar doubtfully. "Stepping onto this altered star seems to transgress that. But I suppose I also have a duty to make sure the rest of you remain safe." She strode across Yali's bridge.
+"I'll hold you up!" I offered her my arm. She took it.
 
+"That, that… actually helps," she said.
 
+I sat with her and manifested a huge mat for both of us to sit on. "This is a, uh, a magic mat that can fly in empty space, see?" I joked. Yali smiled.
+
+Now, only Justicar was left on the other star.
+
+"Hey Morrow, now's our chance to leave without Justicar!" I said.
+
+"Please don't do that!" said Yali.
+
+But when I looked up at Morrow, he wasn't paying attention to either of us. He was right in the middle of… kissing the Alchemist. They were really going at it. Haha, they sure didn't waste any time.
+
+"Fine," I said. "Hey Justicar! Are you just going to stand there, or –"
+
+"I have a duty to complete the challenges set by this world's god," said Justicar doubtfully. "Stepping onto this altered star seems to transgress that. But I suppose I also have a duty to make sure the rest of you remain safe." She manifested a bridge – much longer than the gap, with plenty of leeway to compensate for Neenu bouncing around – and strode across.
+
+?????
 
 "So, now that we're all here, what's your name? We've just been calling you 'the Alchemist' this whole time."
 
