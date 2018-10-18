@@ -41,7 +41,7 @@ Up ahead of us was a big room where the floor was divided into a square grid, wi
 
 "Uh, right," I said shakily. I moved back. Justicar stepped out of the flames. She concentrated, and the remaining smoke blew away from her armor, leaving it shining as bright as new.
 
-"So are you, like, immune to fire? Or, wait, did you just manifest it away from you? But the god doesn't let us manifest on parts of the puzzle –"
+"So is that armor, like, fireproof? Or, wait, did you just manifest the fire away from you? But the god doesn't let us manifest on parts of the puzzle –" Even just standing <em>near</em> the flames felt really hot, and trying to manifest my skin to be cooler didn't help at all.
 
 "The Stern God's will protects me from all forms of physical harm. This armor is only a physical representation of that will." She looked at the puzzle ahead of us. "It appears that there are more corridors blocked off by the flames. So that is the first rule of this puzzle: Only the Justicar can stand safely in the flames. For us both to get past those corridors, I will have to block the flames while you run past."
 
@@ -150,7 +150,7 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 "Because you have seen how a tower is shaped, you imagine that you could tear one down and build another from the ruins without any tools.
 
-
+?????
 
 "The lower gods act without thinking. The upper gods tarry in thought without taking meaningful action. Only the Stern, which stands in the middle, has the [????? balance necessary to run a society]. That is why the Stern Temple officially controls three fifths of the city, and why the Stern God ?????, despite what it lacks in raw power."
 
@@ -167,6 +167,14 @@ I was about to complain ????? when another, much more serious thought shot throu
 ?????
 
 [????? The final puzzle where Justicar has to admit the first rule was wrong]
+
+"What I <em>really</em> don't get is this extra flamethrower over here on my side," I said. "It doesn't <em>do</em> anything. It's literally just down a dead end, not blocking off anything!"
+
+"In that case, it is irrelevant to the puzzle. It may be intended as a distraction."
+
+"It's out of place, though. There haven't been distractions like this before…"
+
+?????
 
 "I can't believe I went this whole way [????? acting like I was against the rules, but the very first time you stated a rule, I believed it]"
 
