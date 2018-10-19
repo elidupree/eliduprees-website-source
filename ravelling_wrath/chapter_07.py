@@ -598,11 +598,11 @@ It <em>was</em> easier to just joke back and forth with him and not think about 
 
 "Everyone, look at this," said Justicar grimly.
 
-"What is that, some kind of chart?" I said.
+"What is that, some kind of chart?" I said. Justicar had gathered us all on the topside, where she had a bunch of diagrams laid out in neat piles on a table near the telescope. Somehow, she had even convinced Morrow to sit still for a moment. We were all looking on with quiet uncertainty.
 
 "I have been recording the positions of the Alchemist over the last 48 hours. Farseer, what do you make of this?"
 
-Yali squinted at it. "How many stars has the Alchemist visited in that time?"
+Yali carefully took the chart from Justicar and squinted at it. "How many stars has the Alchemist visited in that time?"
 
 "Only the one. I have not seen any other star come close."
 
@@ -610,15 +610,15 @@ Yali squinted at it. "How many stars has the Alchemist visited in that time?"
 
 "Exactly. I can only conclude that the Alchemist has tampered with the star somehow."
 
-"But… That should be impossible! The stars aren't just objects, they're part of the Waiting God's design. Altering one of them would be like altering the god itself!"
+"But that, that should be impossible! The stars aren't just objects, they're part of the Waiting God's design. Altering one of them would be like altering the god itself!"
 
 "Which makes it all the more mysterious that it seems to have happened."
 
 "So, uh," I interrupted, "I get that this is really weird god stuff, but what does it actually mean for us?"
 
-"For all this time," said Yali, "we've been trying to get to the Alchemist by visiting stars that will move closer to their star. But now that the Alchemist's star isn't even <em>connected</em> to the grand pattern, it will <em>never</em> meet up with us, or any other star, no matter what we do."
+Yali kept staring at the chart, a hint of worry creeping over her face. "For all this time," she said, "we've been trying to get to the Alchemist by visiting stars that will move closer to the Alchemist's star. But now that the Alchemist's star isn't even <em>connected</em> to the grand pattern, it will <em>never</em> meet up with us, or any other star, no matter what we do."
 
-"Oh no! So the Alchemist is just going to be lost in space forever?? That's so sad!!"
+"Oh no!" I said. "So the Alchemist is just going to be lost in space forever?? That's so sad!!"
 
 "Or," said Yali darkly, "until the Waiting God decides to do whatever it does with Ravellers who fail to reach the portals."
 
