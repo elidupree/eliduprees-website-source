@@ -36,7 +36,7 @@ Yali shook her head. "What we see in the telescope isn't the literal light of th
 
 "But we can see where the other Ravellers are! So we could move around in the stars and spell out a message! Like skywriting!" exclaimed Morrow. But then he drooped. Even Morrow could see the obvious flaws with that plan.
 
-"There's <em>gotta</em> be something," I said. "We've all got magic powers! And all we need is to talk at a long distance! Doesn't any of us have any powers that work at a distance? Hey, Justicar, I saw you manifesting at a distance earlier, can you manifest a message to where the Alchemist is?"
+"There's <em>gotta</em> be something," I said. "We've all got magic powers! And if we're lucky, all we need is to talk at a long distance! Doesn't any of us have any powers that work at a distance? Hey, Justicar, I saw you manifesting at a distance earlier, can you manifest a message to where the Alchemist is?"
 
 "<em>A</em> distance, yes. But I doubt I could manifest a kilometer away, much less the distances of the stars."
 
@@ -84,7 +84,7 @@ Morrow was still busy licking the floor. Justicar raised an eyebrow. "There <em>
 
 "You think the Alchemist <em>created</em> a new form of life??" I said.
 
-"This doesn't add up," said Justicar, unimpressed. "Newly created life would not have a strong soul. But this is something that the Imminent sensed much <em>more</em> strongly than he sensed the Alchemist themself. It makes much more sense if he is sensing a god."
+"This doesn't add up," said Justicar, unimpressed. "Newly created life would not have a strong soul. But this is something that the Imminent sensed much <em>more</em> strongly than he sensed the actual Alchemist. It makes much more sense if he is sensing a god."
 
 "It's the star!!" I yelled.
 
@@ -148,7 +148,7 @@ The Alchemist stood nervously at the edge of Neenu.
 
 [????? It's just a little jump. You can do it!]
 
-"Or WE could all go ride on Neenu!" said Morrow, jumping across. He immediately [????? hugged Alchemist, but with more details]. I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, she felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
+"Or WE could all go ride on Neenu!" said Morrow, jumping across. He immediately [????? hugged Alchemist, but with more details]. I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
 
 "I can't do it," said Yali, standing at the edge of our old star and shuddering.
 
@@ -176,11 +176,13 @@ But when I looked up at Morrow, he wasn't paying attention to either of us. He w
 
 "Fine," I said. "Hey Justicar! Are you just going to stand there, or –"
 
-"I have a duty to complete the challenges set by this world's god," said Justicar doubtfully. "Stepping onto this altered star seems to transgress that. But I suppose I also have a duty to make sure the rest of you remain safe." She manifested a bridge – much longer than the gap, with plenty of leeway to compensate for Neenu bouncing around – and strode across.
+"I have a duty to complete the challenges set by this world's god," said Justicar doubtfully. "Stepping onto this altered star seems to transgress that. But I suppose I also have a duty to make sure the rest of you remain safe." She gathered her notes, then manifested a bridge – much longer than the gap, with plenty of leeway to compensate for Neenu bouncing around – and strode across.
 
-?????
+"Oy, Morrow! And whatever your name is!" I said. They were still all over each other. "Save it for later! We're all here now, and that means, let's celebrate!"
 
-"So, now that we're all here, what's your name? We've just been calling you 'the Alchemist' this whole time."
+"No, it means let us introduce ourselves," said Justicar.
+
+"Oh yeah, about that, what's your name? We've just been calling you 'the Alchemist' this whole time."
 
 The Alchemist wobbled back and forth shyly.
 
@@ -214,11 +216,9 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 "If I could, maybe, learn? To do that? If you could help me?"
 
-"
+"I, I, I only know what the Alchemist's power looks like from the outside, but I'm willing to help as far as I can."
 
-?????
-
-"Now that we're all together – all five of us – we can…" I wasn't quite sure where I was going with this, but there is something that felt almost nostalgic about the five of us all being together and friendly with each other – or at least tolerating each other, I guess. There was an irritating doubt in the back of my mind, but for now, I just wanted to have fun. "Let's have a campfire! And then we can tell stories around the campfire!"
+"Yeah that sounds great, but save it for later!" I said excitedly. "Now that we're all together – all five of us – we can…" I still wasn't quite sure where I was going with this, but there is something that felt almost nostalgic about the five of us all being together and friendly with each other – or at least tolerating each other, I guess. There was an irritating doubt in the back of my mind, but for now, I just wanted to have fun. "Let's have a campfire! And then we can tell stories around the campfire!"
 
 "We could also tell stories without setting anything on fire," said Justicar.
 
