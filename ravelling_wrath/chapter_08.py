@@ -300,7 +300,7 @@ It was weird. Morrow acted like a completely different person when he was around
 
 "He needs a break from all us extroverts!"
 
-It took me a little while to realize what he was implying. "Wait, are you saying Justicar's an extrovert?!"
+It took me a little while to realize what Morrow was implying. "Wait, are you saying Justicar's an extrovert?!"
 
 "Ssshhh!" Morrow half-dragged me over the edge of the star.
 
@@ -379,6 +379,26 @@ So it was a transparent attempt for the other lovebirds to get some time alone. 
 "You know, we don't have to do what you want us to."
 
 "It is not a matter of what I want. It is a matter of what is wise."
+
+?????
+
+[????? A pause in the discussion, long enough for Alchemist to speak up.]
+
+"Neenu…" said Alchemist uncertainly. "There isn't a portal for Neenu."
+
+"Maybe you can bring her through your portal! Make her smaller using a potion!" suggested Morrow.
+
+"How would a star drink a –" I began before Morrow shushed me.
+
+"I'm afraid it's impossible," said Yali. "Even if she is physically somewhere else, she is still made almost entirely from the Waiting God's threads. When the five Ravellers have passed through the portals, the Waiting God will reabsorb this world, and Neenu along with it."
+
+"So she'll just be… gone?" Alchemist looked [????? sad].
+
+"It's okay!" I said hastily. "It's still, like, beautiful, that she got to live for at least a little while!" That seemed to make Alchemist even sadder. Stern take it, I never knew what to say to make anyone feel better.
+
+Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way."
+
+
 
 ?????
 
