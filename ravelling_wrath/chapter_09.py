@@ -122,6 +122,16 @@ Morrow snatched my phone out of my hands. ?????
 
 While he was doing that, I idly flipped through his phone. He had a <em>lot</em> of games. I didn't recognize most of them, but a bunch of them were ones that I'd mostly seen girls play rather than boys. Interesting…
 
+?????
+
+"Are you kidding me!! That was my REAL phone!" I snatched it up from where it had landed on the floor. The screen was cracked and it wouldn't turn on. Enraged, I smacked Morrow across the face, hard.
+
+Morrow covered his head and cowered away from me. I stood over him, not even caring how he felt anymore. I felt so humiliated. I wanted to hit him again. "I've been trying to help you, and this is what you give me?!" I exploded.
+
+Morrow kept his head down and whimpered, "I'm a piece of shit, such a piece of shit…"
+
+"Yeah, that sounds –" I was about to say <em>that sounds about right,</em> but something stopped me. The way I was feeling – it was sickeningly close to how I'd felt when I had yelled at Yali on the first layer.
+
 
 
 ?????
