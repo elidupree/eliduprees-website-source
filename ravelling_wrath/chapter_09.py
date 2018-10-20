@@ -92,9 +92,37 @@ I could tell denial when I saw it. I leaned back, crossed my arms, and watched h
 
 "What the fuck!! You can't smash your head on the wall, you'll give yourself brain damage!" I ran and grabbed his hair, yanking him back away from the wall to stop him. He twisted wildly in all directions, trying to get away from me. But for someone who was bigger and more frenzied than me, he was pathetically weak. Grappling with him, it felt like he had more bones than flesh. Pretty soon, I had him pinned in a position where at least he couldn't hurt his head anymore.
 
-"Make it stop, help me, make it stop," he sobbed.
+"Make it stop, help me, make it stop," he sobbed. "Help me!!"
 
 "You sure about that?" I said irritably. "Because, literally ten seconds ago, you said –" I stopped myself. <em>Calming Game, Rinn.</em> It wasn't his fault if he was doing stupid shit. What I really wanted was to tell him something reassuring. But I wasn't very good at reassuring people about emotional stuff, even under normal circumstances. Ugh, what would Layo do? "Uh, do you want to talk about anything?" I said.
+
+Predictably, that didn't do any good.
+
+I <em>could</em> have just kept holding onto him for the next eight hours. That would probably count as a solution to the puzzle. But I didn't like watching people suffer, unless they were assholes. And Morrow might be pretty messed up, but he wasn't an asshole. So I racked my brains for something that could help. What would Layo do? What would Yali do? They'd probably both say something heartfelt and reassuring. But even if I could come up with something, Morrow probably wouldn't <em>get</em> reassured. Whenever anyone said something serious, he basically ripped it apart. Except for Alchemist…
+
+"What would Alchemist say?" I said aloud.
+
+"Raylie can't see me like this!! He'd be so worried and scared! I'm such a piece of shit! I don't deserve for anyone to like me!!" Morrow struggled wildly against my grip. "Let me go!!" he screamed.
+
+"Dude, I'm not going to let you go if you're going to hurt yourself," I said. "Look, just don't think about Alchemist, okay? Forget I said anything."
+
+"Yeah that's helpful, I'm going to forget right now!!" he said sarcastically.
+
+"Uh, right, that was pretty stupid of me," I said. "What if we did something distracting? Like playing a game?"
+
+"What game?!"
+
+"Uh…" I hadn't thought that far ahead. Normally I could just manifest any board game I can think of, but of course that didn't work now. I stuck my hands in my pockets to see if I was carrying anything we could use as game pieces. But the only thing I pulled out was my phone, of course. "Hey, do you have games on your phone that you could play?"
+
+I carefully allowed Morrow to take out his phone. He swiped through it aggressively. "I've already played all these!!"
+
+"Well, uh, what if we swap phones? I don't have too many games, but –"
+
+Morrow snatched my phone out of my hands. ?????
+
+While he was doing that, I idly flipped through his phone. He had a <em>lot</em> of games. I didn't recognize most of them, but a bunch of them were ones that I'd mostly seen girls play rather than boys. Interesting…
+
+
 
 ?????
 
@@ -116,3 +144,5 @@ Alchemist looked to Morrow, but Morrow was still pretty out of it. So Alchemist 
 },
 ]
 
+
+#I cut this: Stern take it, if I said anything he couldn't turn into a joke, he'd turn it into a dagger to stab himself with. The only way I'd ever seen him stop hurting was when he moved on to something else.
