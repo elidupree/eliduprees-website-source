@@ -138,21 +138,23 @@ For the next few minutes, Morrow didn't answer anything we said. He just kept li
 
 Unfortunately for Justicar, Morrow was already back in his own world with the Alchemist.
 
-[????? For the next while, Morrow spent a lot of time on the floor] He looked like he was actually <em>happy</em>. Like… normally, he grinned a lot when he was doing something clever, but it didn't stick. As soon as he got bored, he'd be right back to ?????. But now, he just had this blissful, relaxed expression on his face, and it lingered even minutes after he each time he stopped thinking to the Alchemist. He was practically glowing.
+For the next hour or so, Morrow spent a whole lot of his time lying on the floor, licking it and smiling to himself. He looked like he was actually <em>happy</em>. Like… normally, he grinned a lot when he was doing something clever, but it didn't stick. As soon as he got bored, it would be gone again. But now, he just had this blissful, relaxed expression on his face, and it lingered for minutes after he each time he finished talking to – well, communicating with – the Alchemist. He was practically glowing.
 
-"You <em>like</em> them, don't you?" I said one time. He just kept smiling and stared past me into space. Haha, he was lovestruck for sure.
+What's more, in between talking to the Alchemist, he actually <em>paid attention</em> to the mission of bringing them and Neenu closer to us.
 
-?????
+"You <em>like</em> them, don't you?" I said. He just kept smiling and stared past me into space. Haha, he was lovestruck for sure.
 
-[????? Eventually they got here]. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff.
+After a lot more [????? shenanigans communicating with Neenu], they finally got here. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff. Yali spent the whole time half in, half out of the Seeing, making sure Morrow's instructions weren't going to make Neenu crash into us. When she was finally within a few meters of our own star, she zoomed straight towards it, then bumped and bounced against the edge of our star happily.
 
-?????
+Happily? How could I tell that she was happy? She was just a solid platform like all the others.
 
-The Alchemist stood nervously at the edge of Neenu.
+We all rushed to the edge to greet me Alchemist. "Now," Justicar said, "we only need a safe way for the Alchemist to get across to this star."
 
-[????? It's just a little jump. You can do it!]
+The Alchemist stood nervously at the edge of Neenu, looking across at us and looking down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced.
 
-"Or WE could all go ride on Neenu!" said Morrow, jumping across. He immediately [????? hugged Alchemist, but with more details]. I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
+"It's just a little jump. You can do it!" I said.
+
+"Or WE could all go ride on Neenu!" yelled Morrow, jumping across. He immediately [????? hugged Alchemist, but with more details]. I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I still felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
 
 "I can't do it," said Yali, standing at the edge of our old star and shuddering.
 
@@ -184,7 +186,7 @@ But when I looked up at Morrow, he wasn't paying attention to either of us. He w
 
 "Oy, Morrow! And whatever your name is!" I said. They were still all over each other. "Save it for later! We're all here now, and that means, let's celebrate!"
 
-"No, it means let us introduce ourselves," said Justicar.
+"But first, it means let us introduce ourselves," said Justicar.
 
 "Oh yeah, about that, what's your name? We've just been calling you 'the Alchemist' this whole time."
 
@@ -268,7 +270,7 @@ Justicar let out a tiny sigh.
 
 "What."
 
-"Ow'm I supposed to read those two's minds past how they're on guard all the time? All I've got from them is emotions."
+"'Ow'm I supposed to read those two's minds past how they're on guard all the time? All I've got from them is emotions."
 
 "What about me?" I said.
 
@@ -286,21 +288,23 @@ Justicar let out a tiny sigh.
 
 <bigbreak>
 
-?????
+[????? Yali tells a story?]
 
+[????? Asking about pronouns]
 
-It was weird. Morrow acted like a completely different person when he was around Alchemist. He wasn't just affectionate, he was also patient and reassuring. Not as patient as Yali or anything, but still totally different from his normal self.
+"We could call you 'they', ?????"
 
+Alchemist shrugged uncomfortably. "You can call me whatever you like."
 
+I saw Morrow's perk up, the way he did when he was about to thank someone. He was probably about the call Alchemist something silly. But then, he just <em>didn't</em>.
 
+It was weird, and I noticed it more and more as we all spent time together. Morrow acted like a completely different person when he was around Alchemist. He wasn't just affectionate, he was also patient and reassuring. Not as patient as Yali or anything, but still totally different from his normal self.
 
-?????
+[????? Yali starting to teach Alchemist about potions]
 
-[????? I'm just breaking their concentration]
+Morrow immediately started asking all kinds of questions, ?????. But then, just as quickly, he cut himself off. "I'm sorry, I didn't mean to break your concentration!" he said. He looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
 
-"????? – I'm sorry, I didn't mean to break your concentration!" Morrow looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
-
-"Why does Justicar have to come with us?" I said.
+"Why does Justicar have to come with us?" I said, laughing.
 
 "He needs a break from all us extroverts!"
 
