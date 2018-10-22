@@ -138,6 +138,10 @@ For the next few minutes, Morrow didn't answer anything we said. He just kept li
 
 Unfortunately for Justicar, Morrow was already back in his own world with the Alchemist.
 
+[????? For the next while, Morrow spent a lot of time on the floor] He looked like he was actually <em>happy</em>. Like… normally, he grinned a lot when he was doing something clever, but it didn't stick. As soon as he got bored, he'd be right back to ?????. But now, he just had this blissful, relaxed expression on his face, and it lingered even minutes after he each time he stopped thinking to the Alchemist. He was practically glowing.
+
+"You <em>like</em> them, don't you?" I said one time. He just kept smiling and stared past me into space. Haha, he was lovestruck for sure.
+
 ?????
 
 [????? Eventually they got here]. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff.

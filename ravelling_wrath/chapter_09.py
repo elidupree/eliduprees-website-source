@@ -22,7 +22,7 @@ The darkness ?????verbed impatiently.
 
 I couldn't see anything. I tried to move. It felt completely wrong. I was upside down. I was sideways. None of my arms or legs were where I'd left them. My left foot was on top of my head. My right thumb was riding a roller coaster ten meters to my left.
 
-
+[????? Somewhere in this chapter: explanation of "the endless maze"]
 
 ?????
 
@@ -142,9 +142,17 @@ Morrow grinned up at me manically. "I'm less important than the phone," he said.
 
 ?????
 
-"Do the loopy thing," said Alchemist nervously.
+That's when Alchemist walked in through the wall.
 
-"I CAN'T do the loopy thing because I CAN'T MANIFEST!"
+"Morrow!!" cried out Alchemist. "When you stopped answering me, I was so afraid – "
+
+"Raylie!!!" Morrow ran and hugged Alchemist without slowing down, slamming them both into the wall. Before Alchemist could catch their balance again, Morrow was already yelling in their face. "It's happening again!! Help me, help me, you have to help me!!" Morrow grabbed onto Alchemist's shoulders, shaking violently. Alchemist's face flooded with confusion and distress.
+
+<em>How dare he!</em> screamed a part of me. <em>How dare he hurt poor, sweet Alchemist!</em> I ripped his arm away from Alchemist's shoulder and heaved him back across the room. He stumbled and bumped into the far wall, covering his head again. I stood between them, all charged up, ready to take him down if he tried anything again.
+
+"Do the loopy thing," said Alchemist nervously from behind me.
+
+"I CAN'T do the loopy thing because I CAN'T MANIFEST!" Morrow screamed. It didn't look like he was going to try anything, so I stepped back a little.
 
 "What's the loopy thing?" I asked.
 
@@ -155,6 +163,33 @@ Alchemist looked to Morrow, but Morrow was still pretty out of it. So Alchemist 
 "I CAN'T MANI –"
 
 "I mean, when we get out of here. I kinda have some, uh, feelings, that I don't want to."
+
+"Doing it on another person! That would be so weird! And interesting! I'd have to figure out their feelings at the same time I was doing it! But what if – actually it could be really easy! Because I don't have to feel it myself at the same time! But it would also – I'M STUCK HERE AND I CAN'T MANIFEST AND I'M GOING TO – MAKE IT STOP, MAKE IT STOP, HELP ME!!"
+
+"I could, maybe, make a potion? That would help?" Alchemist [????? did the things they normally do to make a potion], but nothing happened. They did it again, but still nothing.
+
+"None of our powers work in this room," I explained. "I think the Seeking God is trying to make us figure out… <em>that</em> –" I jerked a thumb towards Morrow "– without using magic."
+
+"Oh…" said Alchemist uneasily. They reflexively took a step towards Morrow, but then stopped themself and looked to me for permission.
+
+"Yeah, go ahead," I said. It didn't look like Morrow was going to do anything that would hurt Alchemist. He was still cowering with his head in his hands.
+
+Alchemist hesitantly put their arms around Morrow's shoulders. They guided Morrow down to the floor until they were both in a sitting position, with Alchemist cradling Morrow's head to their chest while Morrow sobbed. Alchemist gently hummed an aimless tune, slowly stroking Morrow's head all the while.
+
+Before long, Morrow was… not exactly <em>calm</em>, but a lot less frantic.
+
+????? [????? Time passes, Rinn gets less agitated and the other to start kissing]
+
+"Haha, get a room, you two," I said.
+
+"This is the only room we've got!!" complained Morrow.
+
+"I'm only joking, I don't really mind it. Get ahead and do whatever you want. Haha, I wouldn't mind even if you wanted to have sex in here –" What the furk was I saying? Well, I couldn't go back on it now. Time for the Rinn Akatura show, I guess. "It would be like the mile high club, except instead of being in an airplane you're in a –" <em>Wait, I shouldn't remind Morrow of where we are</em> "– I mean, hang on, if we don't have to eat, and we can heal all our injuries, does that mean we can't catch STDs? And, like, I don't know if pregnancy is the thing you two have to worry about, but –"
+
+[????? Needs further consideration: "It does," said Morrow. Weirdly, he started talking in a completely matter-of-fact voice. "Some people come to the Otherworld to fuck because you're immune to disease and you don't have to get pregnant 'less you want to. It's not worth it because the portals are expensive and unsafe."]
+
+
+
 
 ''',
 },
