@@ -122,7 +122,7 @@ Since I was stuck staring at her face for the whole "night", I stated to notice 
 
 <bigbreak>
 
-The days went on. Justicar claimed she had found evidence about the Alchemist's location, although she couldn't get a clear picture because of some sort of star resonance or something. Yali and I tried to find time to enjoy ourselves, although it was hard to loosen up with Justicar watching us like a hawk whenever we were close to each other. [????? Mention the 5 portals?]
+The days went on. Justicar claimed she had found evidence about the Alchemist's location, although she couldn't get a clear picture because of some sort of star resonance or something. And she also kept working with Yali to find our final goal – some magic portals that would take us to the next layer. In between that, Yali and I tried to find time to enjoy ourselves, although it was hard to loosen up with Justicar watching us like a hawk whenever we were close to each other.
 
 Today, Yali was doing her Seeing, as usual. Justicar was sitting up straight on a hard stool, standing guard over her. I slouched in a plush chair nearby. Theoretically, I could have just left and done something else. I could have hung out in my own space on the underside, because neither Yali nor Justicar wanted to go down there. But just like Justicar refused to leave me and Yali alone together, I couldn't stand letting Justicar be alone with Yali either. So we had reluctantly agreed to sit <em>exactly</em> the same distance away from Yali, whenever she was doing the Seeing and unaware of her surroundings.
 
@@ -536,9 +536,9 @@ With a huge roar, a green, scaly dragon trampled over the wreckage on the unders
 
 "Is that you, Morrow?" I said, impressed.
 
-"Haha!" The dragon leapt down to where I was standing and spun around with a flourish, sending its scales flying off in all directions. Once I batted a few scales out of my face, ?????
+"Haha!" The dragon leapt down to where I was standing and spun around with a flourish, sending its scales flying off in all directions. Once I batted a few scales out of my face, I could see that it <em>was</em> Morrow, except that now he was wearing shimmering wizard robes with long flowy sleeves.
 
-"Also, how did you breathe fire?! <em>I</em> want to do that!"
+"Also, how did you breathe fire?! <em>I</em> want to do that!" I said. All
 
 "I manifested the fire in my mouth! And then I –"
 

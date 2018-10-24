@@ -228,7 +228,7 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 "We could also tell stories without setting anything on fire," said Justicar.
 
-"Yeah, but then we wouldn't get to set things on fire." I dropped a pile of logs out of thin air onto the middle of the star. Then I took a big, exaggerated breath inwards, and breathed fire all over the logs. Alchemist startled. "Haha, didn't mean to spook ya!" I said. The logs weren't properly on fire yet, so I gave them another few fiery breaths until they caught.
+"Yeah, but then we wouldn't get to set things on fire." I dropped a pile of logs out of thin air onto the middle of the star. Then I took a big, exaggerated breath inwards, and breathed fire all over the logs. The fire shot out farther than I'd intended, but in a flash, Justicar manifested a glass wall to block the flames from burning anyone. Alchemist, standing just behind the wall, jumped in fright. "Haha, sorry about that!" I said. The logs weren't properly on fire yet, so I gave them another few fiery breaths until they caught. I was breathing fire more carefully this time, but Justicar still only dismissed her wall once the logs were burning steadily on their own.
 
 "Now everyone sit around the fire!" I said. They all did, to varying degrees of reluctance. Yali and I sat on a camping mat, with Yali sleepily putting in one arm around my shoulders. On the other side, Morrow and Alchemist were in a similar position. Alchemist initially seemed nervous about the fire, but once they relaxed and started warming themself, their face melted into a dreamy smile. It was really heartwarming.
 
@@ -300,9 +300,7 @@ I saw Morrow's perk up, the way he did when he was about to thank someone. He wa
 
 It was weird, and I noticed it more and more as we all spent time together. Morrow acted like a completely different person when he was around Alchemist. He wasn't just affectionate, he was also patient and reassuring. Not as patient as Yali or anything, but still totally different from his normal self.
 
-[????? Yali starting to teach Alchemist about potions]
-
-Morrow immediately started asking all kinds of questions, ?????. But then, just as quickly, he cut himself off. "I'm sorry, I didn't mean to break your concentration!" he said. He looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
+It especially made a difference when Yali started to help Alchemist figure out about making potions. Yali had made a cozy little workspace for the two of them, with [????? stuff] and a bunch of bottles and [????? stuff]. Then she started patiently explaining what she knew, and suggesting things for Alchemist to try. Like, ways that Alchemist could try to concentrate, to unlock the right mental pathways to access the Broken God's power. And at first, Morrow hovered around them, asking all kinds of questions. But then, after just a few questions, he cut himself off, telling Alchemist, "I'm sorry, I didn't mean to break your concentration!" He looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
 
 "Why does Justicar have to come with us?" I said, laughing.
 
