@@ -498,7 +498,7 @@ I mostly left them alone. But Morrow couldn't resist pestering them for informat
 
 "The what?" said Morrow.
 
-"The five portals. As I told you yesterday, each of us has to reach one of them in order to leave this layer of the Otherworld and enter the next. We have now located three of them, although we still have not found routes to them yet. We have located the Alchemist as well – we have found the star the Alchemist is on, but there is something strange about its location. It is very far away, and we have not found any other stars that will visit it."
+"The five portals. As I told you yesterday, each of us has to reach one of them in order to leave this layer of the Otherworld and enter the next. We have now located three of them, although we still have not yet found routes to them. We have located the Alchemist as well – we have found the star the Alchemist is on, but there is something strange about its location. It is very far away, and we have not found any other stars that will visit it."
 
 "Haha who needs 'em? I'll just go to the Alchemist on a rocket! And then bring him back on another rocket!"
 
@@ -578,7 +578,7 @@ Morrow mimicked my voice insultingly. "Look at me, I'm Rinn and I <em>worry</em>
 
 "It's no use," said Yali's voice again. "If you try to get through to him, he'll only fight it harder. Believe me, I've tried."
 
-"When have <em>you</em> tried?!"
+I glanced at Morrow, because we were talking about him right in front of him. But he was pointedly ignoring us. I yelled back to Yali, "When have <em>you</em> tried?!"
 
 "In the future."
 
@@ -610,7 +610,7 @@ Yali carefully took the chart from Justicar and squinted at it. "How many stars 
 
 "Exactly. I can only conclude that the Alchemist has tampered with the star somehow."
 
-"But that, that should be impossible! The stars aren't just objects, they're part of the Waiting God's design. Altering one of them would be like altering the god itself!"
+"But that, that should be impossible! The stars aren't just objects, they're part of the Waiting God's design. Changing one of them would be like changing the god itself!"
 
 "Which makes it all the more mysterious that it seems to have happened."
 
