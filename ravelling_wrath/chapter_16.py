@@ -22,11 +22,11 @@ posts = [
 
 "[????? Should I use the unraveling potion?]"
 
-"No. The Blood God <em>should</em> rejuvenate."
+"That <em>is</em> what I would have told you to do, as recently as the third layer…" said Yali. "But now… I am beginning to think that the Blood God <em>should</em> rejuvenate."
 
 "[????? but what if Justicar was right? The Blood God has actually been pretty violent in its quest for revenge]"
 
-"The Blood God is a god of anger, and it has been starving for the last 70 years. But are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose."
+"The Blood God is a god of anger, and it has been starving for the last 70 years. So are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose."
 
 ?????
 
