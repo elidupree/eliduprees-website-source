@@ -40,9 +40,13 @@ I was sure I'd used her name loads of times before. I'd go "Hey Yali!!" – Righ
 
 <em>The Farseer.</em>
 
-A chill shot through me. So these were the Blood God's thoughts. Even the phrase "the Farseer" hadn't felt <em>quite</em> right, but it felt a lot <em>better</em>, as if it was, like, pretty close to the same meaning. As if there was some purer, godly word for the Farseer that I couldn't think of.
+A chill shot through me. So these were the Blood God's thoughts. Even the phrase "the Farseer" hadn't felt <em>quite</em> right, but it felt a lot <em>better</em>, as if it was, like, pretty close to the same meaning. As if there was some purer, godly word for the Farseer that I couldn't think of. And that word… it was full of contempt.
 
-"This is <em>not me</em>," I said loudly.
+"This is <em>not me</em>," I said loudly. "It doesn't matter what thoughts you try to put in my head. I know what you're doing, and I'm not going to put up with it."
+
+Nothing answered me. Not sure what I was expecting.
+
+
 
 ?????
 
@@ -53,7 +57,7 @@ I was getting better at recognizing the Blood God's thoughts. [????? Examples]
 ?????
 
 
-"Have you seen Raylie??" He repeated.
+"Have you seen Raylie??" he repeated.
 
 "Who's Raylie?"
 
