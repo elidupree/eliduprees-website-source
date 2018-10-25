@@ -296,7 +296,7 @@ Justicar let out a tiny sigh.
 
 Alchemist shrugged uncomfortably. "You can call me whatever you like."
 
-I saw Morrow's perk up, the way he did when he was about to thank someone. He was probably about the call Alchemist something silly. But then, he just <em>didn't</em>.
+I saw Morrow perk up, the way he did when he was about to prank someone. He was probably about to call Alchemist something silly. But then, he just <em>didn't</em>.
 
 It was weird, and I noticed it more and more as we all spent time together. Morrow acted like a completely different person when he was around Alchemist. He wasn't just affectionate, he was also patient and reassuring. Not as patient as Yali or anything, but still totally different from his normal self.
 
@@ -326,7 +326,7 @@ Morrow was breathing hard, looking at Justicar with an anguished expression on h
 
 ?????
 
-"By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted towards me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about in general, haha."
+"By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted towards me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
 
 Morrow shrugged. "Gay is just who you fuck, right?"
 

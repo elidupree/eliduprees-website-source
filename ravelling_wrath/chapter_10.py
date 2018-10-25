@@ -115,11 +115,29 @@ Up to this point, I had mostly just been messing with her. But [????? this was s
 
 "You can believe what you like," she said.
 
+?????
+
+"?????? Of course I'm never going to do ?????! That shit fucks you up! I mean, not that you're fucked up because you did ?????. <em>You're</em> fucked up for completely unrelated reasons," I said, jabbing my finger into the chest plate of her armor. "Ow, that hurts."
+
+"Please stop being drunk," said Justicar wearily.
+
+?????
+
+"So," I said, summing things up, "what I'm hearing is, first, your life sucked. And then you found the Stern. And now, your life still sucks. When was the last time you enjoyed yourself?"
+
+"It is not important whether I enjoy myself. What is important is whether I stay true to my principles."
+
+
+
+
 
 
 ?????
 
 [????? Rinn assumes that Justicar would approve of anything done in the name of the Stern, and Justicar reveals that she was a police officer]
+
+"You assume, simply because a thing was done in the name of the Stern, that I would approve of it. But not all who claim to follow the Stern truly uphold its principles. Even the highest ranks of the Stern Temple are full of – have their share of hypocrites
+
 
 ?????
 

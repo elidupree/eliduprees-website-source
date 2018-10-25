@@ -24,9 +24,15 @@ I couldn't see anything. I tried to move. It felt completely wrong. I was upside
 
 [????? Somewhere in this chapter: explanation of "the endless maze"]
 
+Technically, this world was the true Endless Maze. But the Seeking God's symbol was also called the Endless Maze – that little symbol of [????? visual description]. And, metaphorically, "the Endless Maze" meant, like, life. Or the world. As in "how in the Endless did I end up like this?"
+
 ?????
 
-I'd had <em>her</em> right in front of me! Why didn't I <em>do</em> anything? [????? More details]
+Up to this point, I had never actually been completely alone. But now, I was in the new layer, and there was actually no one here.
+
+<em>She</em> wasn't here.
+
+I'd had <em>her</em> right in front of me! Why didn't I <em>do</em> anything? I had just given her a half-assed kiss goodbye and stepped into that portal like I knew what I was doing.
 
 Also, I could picture her right in front of me, so why was I drawing a blank when trying to think of her name?
 
@@ -35,6 +41,8 @@ I was sure I'd used her name loads of times before. I'd go "Hey Yali!!" – Righ
 <em>The Farseer.</em>
 
 A chill shot through me. So these were the Blood God's thoughts. Even the phrase "the Farseer" hadn't felt <em>quite</em> right, but it felt a lot <em>better</em>, as if it was, like, pretty close to the same meaning. As if there was some purer, godly word for the Farseer that I couldn't think of.
+
+"This is <em>not me</em>," I said loudly.
 
 ?????
 
