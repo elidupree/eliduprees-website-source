@@ -312,6 +312,26 @@ It took me a little while to realize what Morrow was implying. "Wait, are you sa
 
 From behind me, I heard Justicar say, "Very well, I will accompany you. But I will not take such an undignified route." After a short while, a big metal staircase popped into existence near us. Justicar had manifested two staircases, one on each side of the star. The tops of the two staircases were joined together by a big half-circle walkway from one side of the star to the other. With a loud clank-clank-clank, Justicar walked up the stairs on her side, along the walkway, and down on our side. It <em>was</em> much more dignified than just falling around the edge. Then she sat down on her customary hard stool.
 
+[????? Morrow tries to play quietly, tries to make soundproof walls] Since we were on Neenu now, the piles of stuff we'd left on the underside of the last star were gone, and there was lots of space to fill up with new stuff. ?????
+
+"By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted towards me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
+
+Morrow shrugged. "Gay is just who you fuck, right?"
+
+"What? No way, that makes it sound so one-dimensional! There's way more to it than that!"
+
+"What is it then? How do you know if you're gay?"
+
+"Do you actually not know, or are you just messing with me?"
+
+Morrow smirked. "Whaddaya think?"
+
+"I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on. Or, like, playing sports against her. <em>Girls</em>." I sighed happily.
+
+Then I looked over at Morrow. He was [????? playing with something in his hands], not listening to me at all. Haha, should've known not to try to explain anything serious to him.
+
+"You want to play like that?" I laughed. I [????? pranked Morrow, in a way that they both have fun with]
+
 ?????
 
 "Will you <em>stop doing that??</em>" Morrow hissed at Justicar suddenly.
@@ -326,19 +346,28 @@ Morrow was breathing hard, looking at Justicar with an anguished expression on h
 
 ?????
 
-"By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted towards me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
+"Bet we can ride Neenu straight to the portals!" said Morrow.
 
-Morrow shrugged. "Gay is just who you fuck, right?"
+"Sounds good to me!" I said. "I'm sick of all this star stuff already."
 
-"What? No way! It's about way more than that!"
+"If we are going to do that," said Yali, "we should think about exactly how we plan to do it. Especially, especially, what <em>order</em> we will visit the portals in."
 
-"What is it then? How do you know if you're gay?"
+I hadn't thought about that, but it was true. There was one portal for each of us, so each of us was going to have to get off separately. And… "Well, Morrow's the only one who can talk to Neenu, so I guess he'll have to get off last." Even as I said it, I could see the problem with that. Did Morrow even know how to find his way from one star to another? Thinking back to when he first showed up, he had probably just "smelled" us with his powers and gone that way on his rocket. I had at least <em>tried</em> to read the Codex. But Morrow…
 
-"Do you actually not know, or are you just messing with me?"
+"I can go with him," said Justicar, not sounding very enthusiastic about it. "I can wait on the star with the Imminent's portal, then travel to my own portal by riding the stars the way we are intended to."
 
-Morrow smirked. "Whaddaya think?"
+"It's settled then!" said Morrow. "Me and Justicar last, Alchemist second-to-last, that just leaves –"
 
-"I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on. Or, like, playing sports against her. <em>Girls</em>." I sighed happily. "Yeah, and now that I'm grown up and shit, I also want to fuck her. You know, in between doing all the other things."
+"Rinn goes before I do," said Yali decisively.
+
+"Alright, then, I'll –" I quickly counted up the order in my head. "Hey! Don't I get a choice about anything?"
+
+"Nope!" said Morrow cheerfully.
+
+"I mean, obviously I'd have chosen to go first, I just wanted to <em>choose</em> to go first, not just to have the rest of you stick me with it."
+
+Justicar raised an eyebrow. "If it helps… there is always a choice." [????? Rinn narrates a background of that saying]
+
 
 
 ?????
@@ -404,6 +433,8 @@ So it was a transparent attempt for the other lovebirds to get some time alone. 
 
 Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way."
 
+"Oh…"
+
 
 
 ?????
@@ -413,6 +444,8 @@ Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She 
 "Different how? What's it going to be like?"
 
 "This is the Seeking God. If I told you what to expect, the god would do something else."
+
+"Haha, of course it would."
 
 ''',
 },
