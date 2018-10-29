@@ -25,6 +25,71 @@ posts = [
 
 "Are your victims worthy of theirs?"
 
+????
+
+Justicar leapt backwards, ripping her sword out of my body. "Was that a Severing Step?" she demanded. "That is not a normal Farseer power!"
+
+"I'm not a normal Farseer." Yali's voice was cold and vicious. In the next instant, she whipped out a weapon of her own – a crude spike that buzzed with sorcery, glowing with a crackling light that was painful to look at.
+
+Justicar stood across from her. With one hand, she still held her sword, dripping with my blood. With the other, she touched her neck, where Yali had struck her. The mark of the Watchful Eye was already blossoming there. "You had the advantage of surprise, and you chose only to place the Eye? You must be very confident that you can defeat me."
+
+"I am. If you had killed Rinn Akatura, you would be dead right now." Not taking her eyes off of Justicar, Yali knelt down beside me. "Take this," she said out of the corner of her mouth. She handed me a potion.
+
+I struggled to hold the potion in my hand. My arms didn't even want to lift up off the floor. Still concentrating on Justicar, Yali carefully moved the potion to my lips. Obediently, I tried to swallow. I felt like I was choking. Half the potion spilled down my chin. But a little found its way down my throat. It started warming me on the inside. Just a little, like a candle on a cold night. But ?????.
+
+?????
+
+Justicar's sword pulsed with light. For a moment, I was afraid that she would attack again. But she was only cleaning it. A moment later, she slid it back into its sheath. She stood at the far edge of the intersection, seeming like she was about to leave us. "Just tell me one thing," she said. "I would understand if you only chose to stand against <em>me</em>. The wills of our gods are not always in alignment. But you, every step of the way, have chosen a path that is far astray from the path of the Waiting God. I cannot fault you for standing against <em>my</em> god, but who are you to defy your own?"
+
+Yali stood up and gave Justicar a long look. Then she laughed – a long, cold, hollow laugh that rang out like a bell and seemed to shake the very statues around us.
+
+"Who am I? I am Yali Seti, the betrayed daughter of Arinyo Seti, high priest of the Waiting God. I was six years old when was called by the Waiting God to be its vessel. Six years old when she chose that call above her duty to protect me. Any god who would make a call like that, <em>is no god of mine.</em>"
+
+?????
+
+[????? I guess later enough that Rinn can be curious normally?]
+
+"Shhhh. Don't talk yet. Take the rest of your potion."
+
+"I'm okay," I said weakly. "See, it's already healing up." I patted my side where Justicar's sword had stabbed through me. There was still a hole in my shirt, but the wound in my body had closed up.
+
+"No, you are not!" Yali thundered. "Your soul is still damaged! Half of that skin is a manifested patch! If you don't take more of the potion, you will <em>die</em>!"
+
+"Okay, okay…" I let Yali feed me the dregs of the potion. Then she tried to collect up some of the part that had spilled. It was pretty gooey, so she was able to wipe part of the spill from my neck and let me lick it off her fingers. [????? I started feeling better]
+
+"It's enough to keep you alive… I'm sorry, I didn't think of, I, I should have brought a second potion, I – "
+
+"Look, I'll be fine. If I'm not gonna die, we can just find Alchemist again later and get another potion. And as long as you're around to kick Justicar's ass if she tries anything –"
+
+Yali's face turned ashen.
+
+"I was bluffing," she whispered back. "I don't have anything that could have hurt her."
+
+"What about –"
+
+The spike she had been holding earlier lying near us, but its energy was already fading. She picked it up and stabbed it into her hand, and it just fizzled into nothingness. "I tried to make Alchemist make a weapon for me. Right after they made the Severing Step –"
+
+"What…"
+
+"What's a Severing Step? It's how I got here in time. It's a sorcery that temporarily severs the link between your body and the world around you, so that your soul can pull you to wherever you want to be in an instant."
+
+"An Alchemist power…?"
+
+"I mean, Alchemist did it, but it's just a regular type of sorcery that regular sorcerers can do, too. You just don't hear about it much because it's too dangerous to use in practice. No one wants to risk tearing their soul or –"
+
+"You did something really dangerous… for me."
+
+"Of course I did. I will risk anything I have to to keep us both alive. And I will destroy anyone I have to, even if it's a god."
+
+"Bad… ass…"
+
+
+
+
+
+?????
+
+
 
 
 "You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…" I babbled.
@@ -37,6 +102,35 @@ Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>
 
 <em>I see no reason not to tell you now.</em> Her words were infinitely cold. I could already sense that telling me would not be a kindness.
 
+<bigbreak>
+
+Arinyo Seti is not the one who abused me. But she bears some of the guilt nonetheless.
+
+I will begin at the beginning. My biological father died not long before I was born. Arinyo Seti had never intended to raise me by herself. With her memory and attention issues, she knew that she was not prepared to live alone, much less to raise a child that way. In the home where I lived, trash piled up for weeks before she would clear it. More than once, the city shut off our water because she had forgotten to pay her bills. And even though she always made sure I ate before she did, there were some days when there was no food left in the house. We were not poor, and she had friends who were willing to help, but she rarely asked for help until I reminded her. By the time I was six years old, I was more organized than my own mother.
+
+That was not her fault. That was not when she betrayed me.
+
+[????? Bit of a description about how she got selected to be high priest, probably involving the old high priest, some other high ranking people, and the god]
+
+?????
+
+a husband and wife who could not have children of their own. [????? They were very nice and did over the top acts of love for each other]
+
+?????
+
+She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
+
+At first, I thought she was right. I ate good food. I lived in a clean house. I missed her, but she had told me to trust the [????? name]s, and I believed her.
+
+It was barely days before their performance fell apart. Everything they did in public was just an act to cover up how bitter and dysfunctional they were in private. They hated each other, they hated themselves, and before long, they hated me as well. There was hardly a day when they didn't find a reason to yell at each other. If [????? something was out of order, it was the other one's fault]. And if I tried to make them stop, they yelled at me too. They called me ?????, worthless. I started making sure the house was in perfect order, hoping there wouldn't be anything to set them off. But every time they caught me trying to clean up, they found a reason to yell at me for that as well. I quickly learned to clean up when no one was looking.
+
+They had never wanted a child to love and care for. They had wanted a child because they thought, if they had to care for a child, they could ?????
+
+?????
+
+To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information on child abuse. I learned that what they were doing to me was not normal, and, more importantly, not <em>legal</em>. And that meant that there was something I could do to change it.
+
+I began recording everything they did. Every
 
 
 
