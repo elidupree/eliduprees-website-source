@@ -56,6 +56,9 @@ Nowadays, we know that the legend isn't entirely true. After all, there are othe
 
 [????? Not sure if this chapter or the next two: Justicar avoided having the confrontation in this world because the Broken God complicates her desired confrontation; Yali also finds this world uncomfortable, while Rinn enjoys it]
 
+
+[????? when revealing Morrow's backstory: remember to emphasize his inherent curiousity]
+
 ''',
 },
 ]

@@ -18,7 +18,7 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 8: ", '''<p></p>''') +'''
   
-"So," I said, summarizing the last hour of discussion, "the Alchemist is, like, infinitely far away. They broke their star, and it's not on the pattern anymore. We don't know if they did it on purpose. We don't know if they have any control over where it's going. And <em>we</em> have no way to get off the pattern to follow them, because what they did was probably an Alchemist power. And we have no way to communicate with them. And Yali's power is useless as usual, because apparently the Waiting God still thinks this is part of the challenge. And even if they <em>did</em> figure out where we are, and <em>could</em> move their star on purpose, they might crash into us really fast, because they don't have the pattern to slow them down at the right moment. It would be even worse than what happened with Morrow, because, uh…"
+"So," I said, summarizing the last hour of discussion, "the Alchemist is, like, infinitely far away. They broke their star, and it's not on the pattern anymore. We don't know if they did it on purpose. We don't know if they have any control over where it's going. And <em>we</em> have no way to get off the pattern to follow them, because what they did was probably an Alchemist power. And we have no way to communicate with them. And Yali's power is useless as usual, because apparently the Waiting God still thinks this is part of the challenge. And even if the Alchemist <em>did</em> figure out where we are, and <em>could</em> move their star on purpose, they might crash into us really fast, because they don't have the pattern to slow them down at the right moment. It would be even worse than what happened with Morrow, because, uh…"
 
 "Because Morrow was slowed down by air resistance," supplied Yali.
 
@@ -92,13 +92,13 @@ Morrow was still busy licking the floor. Justicar raised an eyebrow. "There <em>
 
 "It's the star! The Alchemist <em>brought their star to life</em>! Think about it! The star was attached to the pattern, but now it's not! That's exactly what Morrow just said! Hey, Morrow! Tell it to come over here!"
 
-"Don't do that!" shouted Yali. "If it <em>is</em> the star, tell it to come close to here but be careful not to crash into us!
+"Don't do that!" shouted Yali. "If it <em>is</em> the star, tell it to come close to here but be careful not to crash into us!"
 
 The next few minutes were a frantic struggle to figure out how to communicate with a living star when all you had was magic mind powers, and when the person with the magic mind powers had zero attention span. Morrow eventually figured out a way to insert thoughts into the mind of the star, so he could read what the star thought back in response. And then there was a problem of how to tell the star where to go. As far as we could tell, it literally had no senses, except for the sense of whether it was on the pattern. And it just wasn't any more. It couldn't, like, tell when it was getting closer or farther away or anything.
 
 The only thing it <em>could</em> do was try to move. And since it could never tell whether the moving was working, it had just kept trying to move every which way, hoping something would happen. And it didn't have a language to express which <em>direction</em> it was trying to move, so Morrow had to try to interpret it for us.
 
-"Okay this! What it's doing now! It feels like '<em>glep</em>'!"
+"Okay! This! What it's doing now! It feels like '<em>glep</em>'!"
 
 "Glep?"
 
@@ -272,7 +272,7 @@ Justicar let out a tiny sigh.
 
 "'Ow'm I supposed to read those two's minds past how they're on guard all the time? All I've got from them is emotions."
 
-"What about me?" I said.
+By "those two", he must have meant Yali and Justicar. "What about me?" I said.
 
 "Oh, I don't NEED to read YOUR mind. I can already tell what you're going to do next."
 
@@ -287,6 +287,8 @@ Justicar let out a tiny sigh.
 "Hey!" <em>That's not fair</em>, I thought, but this time my mind managed to get a step ahead. I shut my mouth instead. Yali chuckled.
 
 <bigbreak>
+
+[???? rinn tries to think of a nice story, but has trouble]
 
 [????? Yali tells a story?]
 
@@ -393,6 +395,7 @@ Justicar raised an eyebrow. "If it helps… there is always a choice." [????? Ri
 
 ????? [????? Someone asks about the difference between alchemy, sorcery, and manifesting]
 
+[????? maybe somewhere something about ages of the ravellers]
 
 ?????
 
