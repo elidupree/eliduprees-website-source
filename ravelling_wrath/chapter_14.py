@@ -73,29 +73,73 @@ My bones shook with the force of the blow. Justicar lifted one hand from her swo
 
 I stumbled away, uncomprehending. <em>How?</em> How had my only weapon been so powerless to injure her?
 
+"I told you! The Stern God's will protects me from all physical harm."
 
-
-????
-
-Justicar leapt backwards, ripping her sword out of my body. "Was that a Severing Step?" she demanded. "That is not a normal Farseer power!"
-
-"I'm not a normal Farseer." Yali's voice was cold and vicious. In the next instant, she whipped out a weapon of her own – a crude spike that buzzed with sorcery, glowing with a crackling light that was painful to look at.
-
-Justicar stood across from her. With one hand, she still held her sword, dripping with my blood. With the other, she touched her neck, where Yali had struck her. The mark of the Watchful Eye was already blossoming there. "You had the advantage of surprise, and you chose only to place the Eye? You must be very confident that you can defeat me."
-
-"I am," said Yali grimly. "If you had killed Rinn Akatura, you would be dead right now." Not taking her eyes off of Justicar, Yali knelt down beside me. "Take this," she said out of the corner of her mouth. She handed me a potion.
-
-I struggled to hold the potion in my hand. My arms didn't even want to lift up off the floor. Still concentrating on Justicar, Yali carefully moved the potion to my lips. Obediently, I tried to swallow. I felt like I was choking. Half the potion spilled down my chin. But a little found its way down my throat. It started warming me on the inside. Just a little, like a candle on a cold night. But ?????.
+"No fair," I said, my voice breaking.
 
 ?????
 
-Justicar's sword pulsed with light. For a moment, I was afraid that she would attack again. But she was only cleaning it. A moment later, she slid it back into its sheath. She stood at the far edge of the intersection, seeming like she was about to leave us. "Just tell me one thing," she said. "I would understand if you only chose to stand against <em>me</em>. The wills of our gods are not always in alignment. But you, every step of the way, have chosen a path that is far astray from the path of the Waiting God. I cannot fault you for standing against <em>my</em> god, but who are you to defy your own?"
+"Even if you could tear out my heart, [????? I would never stop carrying out the Stern God's will. /the Stern God's will would always carry me forward]"
+
+?????
+
+She advanced towards me.
+
+I ran.
+
+Before I got five steps, I ran headfirst into a steel wall. Desperately, I pressed my palm to the cold steel, trying to unmanifest it by force. It flickered for a moment, not letting me past, but letting me see behind it. And behind it… was a <em>second</em> wall, which Justicar had placed there while I was dealing with the first.
+
+I turned around.
+
+Justicar was still advancing towards me, barely more than a sword's length away. Every road away from here was blocked off with steel. I couldn't fight. I couldn't run.
+
+"Get back!" I screamed. I reached out desperately for anything that could keep her away from me. I stuck out my hands and manifested a jagged mass of fragments, a thornbush of Blood Blades jutting out in all directions.
+
+Justicar sized it up, raised her sword, and shattered her way through my thorns in a single blow.
+
+When the Blood Blades broke, <em>I</em> broke. The little strength I had left drained out of me. My body dropped to the floor, sprawling limply against the feet of the statues. Dimly, distantly, I could feel the pain and terror and ?????. But I couldn't move, couldn't speak, couldn't form a coherent thought. I was completely empty.
+
+Justicar stood over me and raised her sword for a final time. A tiny part of me screamed that it was time to roll out of the way, but my body did not hear it. Not a muscle moved to take me out of her path. "In the name of the Stern, the Waiting, and every soul you place in danger," she declared. And then she plunged her sword into my unmoving chest.
+
+The pain reached me as a distant echo. I watched, unfeeling, as my blood oozed from the edges of my wound. It was over… I didn't have to fight anymore…
+
+Yali…
+
+As my consciousness flickered, I tried to whisper her name. I couldn't even whisper. I tried to <em>think</em> name, holding onto the one thing that still made me feel a tiny flicker of heart.
+
+Yali…
+
+And then it almost seemed like she was there with me, standing solidly between me and Justicar, striking back to protect me…
+
+<bigbreak>
+
+She… actually was?
+
+My mind raced to catch up with what was happening. Somehow, Yali had appeared right in front of me, fully solid and already in motion, crashing into Justicar and jabbing two fingers into the side of her throat.
+
+Justicar leapt backwards, ripping her sword out of my body. [????? Or maybe it gets left there? Don't complicate the wound logic] "Was that a Severing Step?" she demanded. "That is not a normal Farseer power!"
+
+"I'm not a normal Farseer." Yali's voice was cold and vicious. In the next instant, she whipped out a weapon of her own – a crude spike that buzzed with sorcery, glowing with a greenish, crackling light that felt like it was stabbing into my eyes.
+
+Justicar stood across from her. With one hand, she still held her sword, dripping with my blood. With the other, she touched her neck, where Yali had struck her. The mark of the Watchful Eye was already blossoming there. "You had the advantage of surprise, and you chose only to place the Eye? You must be very confident that you can defeat me."
+
+"I am," said Yali grimly. "If you had killed Rinn Akatura, you would be dead right now."
+
+That was funny. Justicar <em>had</em> killed me. I was already dead.
+
+Not taking her eyes off of Justicar, Yali knelt down beside me. "Take this," she said out of the corner of her mouth. She handed me a potion.
+
+I struggled to hold the potion in my hand. My arms didn't even want to lift up off the floor. Still concentrating on Justicar, Yali carefully moved the potion to my lips. Obediently, I tried to swallow. I felt like I was choking. Half the potion spilled down my chin. But a little found its way down my throat. It started warming me on the inside. Just a little, like a candle on a cold night. But it was something.
+
+?????
+
+Justicar's sword pulsed with white light. For a moment, I was afraid that she would attack again. But she was only cleaning it, making the blood vanish from its surface. A moment later, she slid it back into its sheath. She stood at the far edge of the intersection, seeming like she was about to leave us. "Just tell me one thing," she said. "I would understand if you only chose to stand against <em>me</em>. The wills of our gods are not always in alignment. But you, every step of the way, have chosen a path that is far astray from the path of the Waiting God. I cannot fault you for standing against <em>my</em> god, but who are you to defy your own?"
 
 Yali stood up and stared at Justicar for a long moment. Then she laughed – a long, cold, hollow laugh that rang out like a bell and seemed to shake the very statues around us.
 
 "Who am I? I am Yali Seti, the betrayed daughter of Arinyo Seti, high priest of the Waiting God. I was six years old when she was called by the Waiting God to be its vessel. Six years old when she chose that call above her duty to protect me. Any god who would ask someone for that, <em>is no god of mine.</em>"
 
-Justicar ?????verbed. Visible anger crossed her face. "The gods <em>always</em> have their reasons! You, of all people – for something that you didn't understand when you were a child –"
+Justicar ?????verbed. Visible anger crossed her face. "The gods <em>always</em> have their reasons! You, of all people – for something that you didn't understand when you were a <em>child</em> –"
 
 "You have nothing to say that will change my mind. Now <em>begone</em>."
 
