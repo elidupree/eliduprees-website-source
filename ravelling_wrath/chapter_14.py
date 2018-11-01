@@ -123,9 +123,9 @@ Justicar leapt backwards, ripping her sword out of my body. [????? Or maybe it g
 
 Justicar stood across from her. With one hand, she still held her sword, dripping with my blood. With the other, she touched her neck, where Yali had struck her. The mark of the Watchful Eye was already blossoming there. "You had the advantage of surprise, and you chose only to place the Eye? You must be very confident that you can defeat me."
 
-"I am," said Yali grimly. "If you had killed Rinn Akatura, you would be dead right now."
+"I am," said Yali grimly. "If you had killed Rinn Akatura, you would already be dead."
 
-That was funny. Justicar <em>had</em> killed me. I was already dead.
+That was funny. Justicar <em>had</em> killed me. I was dead, right?
 
 Not taking her eyes off of Justicar, Yali knelt down beside me. "Take this," she said out of the corner of her mouth. She handed me a potion.
 
