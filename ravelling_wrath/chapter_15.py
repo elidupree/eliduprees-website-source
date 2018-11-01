@@ -52,6 +52,24 @@ So, even today, the four gods wage a constant struggle, to maintain their vision
 
 Nowadays, we know that the legend isn't entirely true. After all, there are other cities with other gods. ?????
 
+<bigbreak>
+
+The first thing I heard was the rustle of leaves in the wind. The first thing I smelled was the soft odor of the rotten treetrunk nearby. I looked around, and saw grass and trees, mushrooms and mold. <em>Life</em>.
+
+In all of the Otherworld so far, there hadn't been a single living thing besides us Ravellers. I hadn't thought about it too much at the time, but now that I was here, I couldn't wait to take it all in. I shamelessly hugged one of the trees, scraping my face on the hard bark and laughing.
+
+The next thing I did was I got rid of the uniform the Stern God made me wear. I stepped out into the open and manifested blades from every pore of my skin, shredding the stiff cloth into a zillion little scraps. I shook them off into a little pile, and peeled away the last few bits that had stuck to my sweat. Then, standing naked in the wilderness, I manifested a ball of fire in my hand and threw it on the pile, burning the hateful uniform into ash. And good riddance.
+
+Then I threw myself into the grass.
+
+My skin drank up the cool morning dew like a ?????. Every part of me was [????? happy], from the tall grasses tickling my neck all the way down to my toes digging into the soft earth. I rolled over and over, reveling in my freedom to throw all worries to the wind and relax.
+
+Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how I'd been expecting for Yali to see me naked for the first time. I smirked. If she didn't like it, she'd just have to deal with it. I stretched out luxuriantly, ?????
+
+?????
+
+[????? After I was done lying around], I got up and started walking. It didn't really matter which <em>way</em> I walked – I had no idea where anyone was anyway, and Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
+
 
 
 [????? Not sure if this chapter or the next two: Justicar avoided having the confrontation in this world because the Broken God complicates her desired confrontation; Yali also finds this world uncomfortable, while Rinn enjoys it]
