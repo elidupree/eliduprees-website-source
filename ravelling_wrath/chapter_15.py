@@ -70,6 +70,25 @@ Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how 
 
 [????? After I was done lying around], I got up and started walking. It didn't really matter which <em>way</em> I walked – I had no idea where anyone was anyway, and Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
 
+?????
+
+Yali began to cry.
+
+I had always assumed that if I ever saw Yali cry, it would be dignified, like in a movie where someone sheds a single tear while staring mournfully into the distance. But it wasn't like that at all. Her face sort of scrunched up ?????
+
+[????? If Yali was crying, that meant something really bad , I was scared because , what could it even be?]
+
+Not thinking of anything else to do, I turned to Alchemist. "Alchemist, what happened? Is she –"
+
+Alchemist's face looked like [????? nothing I'd seen before]. They ?????. I could see fear and anger wrestling inside them.
+
+?????, anger won.
+
+"<em>What happened</em>," Alchemist exploded, "is that <em>your girlfriend</em> beat Morrow half to death!"
+
+<bigbreak>
+
+
 
 
 [????? Not sure if this chapter or the next two: Justicar avoided having the confrontation in this world because the Broken God complicates her desired confrontation; Yali also finds this world uncomfortable, while Rinn enjoys it]

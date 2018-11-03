@@ -234,6 +234,14 @@ To keep me busy and quiet, they gave me the best computers and phones that money
 
 I began recording everything they did. Every
 
+<bigbreak>
+
+?????
+
+"How did your mom get picked to be the high priest if she had a bad memory? Isn't remembering the past really important to the Waiting?"
+
+"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>…" Yali said sourly, but then stopped herself. "But the ?????s did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
+
 
 
 [????? Broken Gate at the end of this chapter, not the beginning of the next. Like scratching the entire interior of your body, can't tell if it's comfort or pain]
