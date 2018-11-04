@@ -57,9 +57,9 @@ Yali gently pushed me away. "Why don't you take a look around? I'll be up in a m
 
 "Remember, I know this place already."
 
-"Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff. Well, first, I pulled off the hoodie Yali gave me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. Now in just my shirt, I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
+"Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff. Well, first, I pulled off the hoodie Yali had given me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. Now in just my shirt, I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
 
-Now that I was feeling better, I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about 15 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
+Now that I was more refreshed, I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about 15 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
 
 I couldn't even see anything else over the edges of the platform. I carefully knelt down at the edge and looked over… and saw <em>more</em> stars stretching out endlessly below us.
 
@@ -113,7 +113,7 @@ Yali frowned. "I did. There's never been a computer here before, it's always bee
 
 She barely contained herself. "Oh I get it now… It was never a bookshelf, it was 'a vast collection of ancient knowledge'! And it's constructed based on our assumptions, so maybe people USED to think that meant a bunch of books, but the place <em>we'd</em> look for ancient knowledge is –"
 
-"– on the Internet," we finished together. I grinned. "Hey, does that mean we'll have Internet here?"
+"– on the Internet," we finished together. I grinned. "Hey, does that mean we'll have internet here?"
 
 It didn't. When I started messing around on the computer, I didn't recognize any of the programs on it. Most of them had to do with some sort of Codex. There was one called Codex, one called CodexViewer, one called CodexSearch, one called KnowledgeBase, and a whole bunch more stuff like that. I tried starting a few of them, and none of them even did anything.
 
@@ -142,7 +142,9 @@ When she said "jump into anything", it made me think of physical jumping, and ho
 
 "If you're so smart, why don't <em>you</em> figure it out?" I shoved myself away from the desk and stood up, waving for Yali to sit down in my place. She hesitated a little, but then nodded and sat down. She adjusted the chair until she was comfortable, then focused in on the screen.
 
-It looked like things were going to take a while. "Hey, how about you use your Seeing?" I said. "Look in the future and tell us how we figure it all out."
+Yali found a starting point in the Codex and read for a while. Then she scrolled down and kept reading for a while longer. Pretty soon, I started to get the idea that this was going to keep going for a long time.
+
+"Hey, how about you use your Seeing?" I said. "Look in the future and tell us how we figure it all out."
 
 "I, I, I think I'm not allowed," said Yali.
 
@@ -150,9 +152,9 @@ It looked like things were going to take a while. "Hey, how about you use your S
 
 "The Seeing comes from the god, right? And the god wants us all to plan out our journey the regular way. So it won't show me futures that let us skip past the process."
 
-"Of COURSE it wasn't going to be that easy. What a condescending –" I glared at the screen. I couldn't find the right words to express how messed up that was that the Waiting God was making us go along with this. Well, whatever.
+"Of COURSE it wasn't going to be that easy. What a condescending –" I glared at the screen. I couldn't find the right words to express how messed up it was that the Waiting God was making us go along with this. Well, whatever.
 
-I settled into watching with Yali work. She was totally absorbed in the Codex, her eyes methodically scanning over the screen. I couldn't be bothered to read what she was looking at, so I spent most of my time looking at <em>her</em> instead. There was a bit of her hair that was hanging down separate from the rest, going past the curve of her cheek, with the end of the hair barely resting on her shoulder. Each time she moved her head a little, the end almost fell off her shoulder, and sort of flipped from side to side. After watching it for a while, I couldn't resist playing with her hair a bit. But she sort of shrugged and pushed me away so she could keep concentrating. Then she adjusted her hair again herself. The loose strand was gone now, Stern take it.
+I settled into watching with Yali work. She was totally absorbed in the Codex, her eyes methodically scanning over the screen. I couldn't be bothered to read what she was looking at, so I spent most of my time looking at <em>her</em> instead. There was a bit of her hair that was hanging down separately from the rest, going past the curve of her cheek, with the end of the hair barely resting on her shoulder. Each time she moved her head a little, the end almost fell off her shoulder, and sort of flipped from side to side. After watching it for a while, I couldn't resist playing with her hair a bit. But she sort of shrugged and pushed me away so she could keep concentrating. Then she adjusted her hair again herself. The loose strand was gone now, Stern take it.
 
 Yali didn't have a lot of idle habits, but that just made it easier for me to get engrossed in the little movements she <em>did</em> do. She had her neck stuck out towards the screen, like she was always leaning to get closer. As she read, her face barely moved a centimeter either way – but it did move, in a slow, repeating motion back and forth. When I watched it closely, it was almost a figure-eight, dipping down a little at each side before lifting back up to read in the middle again. I was hypnotized.
 
@@ -180,7 +182,7 @@ After what seemed like hours, Yali finally looked away from the screen. Then she
 
 "Thank the fucking gods," I said. "So what's the deal? I mean, don't tell me the whole thing, obviously. Just give me, like, the cheat sheet."
 
-Yali explained a few things. Apparently the "star" we were standing on was already moving at a zillion kilometers per second, we just couldn't tell because, first, we were standing on it, and second, the rest of the stars were even more zillions of kilometers away. But they were all moving in some sort of ridiculously complex pattern. And every so often, two stars would meet up with each other while they were moving at the same speed, and then you could walk from one of them to the other. Even though we were supposedly "navigating" through the stars, we didn't actually have any control of how the star we were standing on moved. All we could do was choose which one to stand on when they met up with each other. So once Yali figured out what star we should transfer to next, all we'd have to do was wait.
+Yali explained a few things. Apparently the "star" we were standing on was already moving at a zillion kilometers per second, we just couldn't tell because, first, we were standing on it, and second, the rest of the stars were even more zillions of kilometers away. But they were all moving in some sort of ridiculously complex pattern. And every so often, two stars would meet up with each other while they were moving at the same speed, and then you could walk from one of them to the other. Even though we were supposedly "navigating" through the stars, we didn't actually have any control of which way the star we were standing on would move. All we could do was choose which one to stand on when they met up with each other. So once Yali figured out what star we should transfer to next, all we'd have to do was wait.
 
 <em>Wait.</em> I was already getting sick of that word.
 
@@ -228,7 +230,7 @@ I immediately tried a lot more things with the Blood Blades. I could manifest mo
 
 "No, no, do it again! I'm ready now." We played catch for a little while. With the slippery floor, it was impossible to run after a ball when we missed it, so a lot of them just ended up rolling off the edge of the platform. But every time we lost a ball, I just made a new, different one.
 
-"So…" I said, "We can really make anything we can think of? Like…" I stuck out my hand as if I was pulling back a chair, and a solid gold throne shimmered into existence. I slouched on the throne theatrically. The gold was actually kind of hard and uncomfortable, but I wasn't going to let that get in the way of anything. Next, I made a sienkah fruit in each hand and chomped into them greedily, letting the juices drip down my chin. Out of the corner of my eye, I caught Yali smiling at that. So I made a show of it, making an absolute feast and eating as messily as I could. Pretty soon I was stuffed, had smears all over my face and sticky crumbs down my shirt. From how she was looking at me, I could tell she was totally into it. So I swaggered up to her and, with bits of food still smeared all over my face, kissed her right on the mouth.
+"So…" I said, "We can really make anything we can think of? Like…" I stuck out my hand as if I was pulling back a chair, and a solid gold throne shimmered into existence. I slouched on the throne theatrically. The gold was actually kind of hard and uncomfortable, but I wasn't going to let that get in the way of anything. Next, I made a sienkah fruit in each hand and chomped into them greedily, letting the juices drip down my chin. Out of the corner of my eye, I caught Yali smiling at that. So I made a show of it, making an absolute feast and eating as messily as I could. Pretty soon I was stuffed, and I had smears all over my face and sticky crumbs down my shirt. From how she was looking at me, I could tell she was totally into it. So I swaggered up to her and, with bits of food still smeared all over my face, kissed her right on the mouth.
 
 That didn't go over quite as well. She sort of stiffened up and pulled back. Then she concentrated for a moment, and the smears disappeared from her.
 
@@ -280,7 +282,7 @@ The novelty wore off almost immediately. The other star was literally <em>exactl
 
 "Yes…"
 
-I grinned. I strode up to the computer on the other platform, grabbed a Blood Blade high over my head, and smashed it down through the middle of the screen. "Aww yeah! I've been wanting to do this!" I completely trashed the place, chopping the computer and the telescope into little pieces. I knew it wouldn't change anything, but that computer had really pissed me off.
+I grinned. I strode up to the computer on the other platform, grabbed a Blood Blade high over my head, and smashed it down through the middle of the screen. "Aww yeah! I've been wanting to do this!" I completely trashed the place, chopping the computer and the telescope into little pieces. I knew it wouldn't change anything, but that computer had really pissed me off, so I was glad to smash it up a bit.
 
 <bigbreak>
 
@@ -332,7 +334,7 @@ Irritably, I muttered, "Or you could just wake up now." But then I felt bad abou
 
 I rolled out of bed, then pulled out my phone to check how long it had been.
 
-"Fuck!! My battery!" I frantically checked where the computer was plugged in, but it didn't even have a power outlet, its power cord just went right down into the star somehow. And the computer didn't have the right port to charge my phone from either. How in the Endless was I going to keep it charged? I'd known I wasn't going to get service out here, but I still used my phone for all kinds of things. Why hadn't I thought about how it was going to run out of battery? "Fuck!" I yelled again.
+"Fuck!! My battery!" I frantically checked where the computer was plugged in, but it didn't even have a power outlet. Its power cord just went right down into the star somehow. And the computer didn't have the right port to charge my phone from either. How in the Endless was I going to keep it charged? I'd known I wasn't going to get service out here, but I still used my phone for all kinds of things. Why hadn't I thought about how it was going to run out of battery? "Fuck!" I yelled again.
 
 "Battery pack," said Yali's voice. She was sitting up now. "C'mere."
 
@@ -354,7 +356,7 @@ Yali smiled a little. "I figured if we tried to manifest on our phones directly,
 
 "Thought you didn't want to get up," I teased. She idly tousled my hair, looking past me. "So, what's up with sleeping here?" I said.
 
-"Ah…" She sighed and gazed up into the stars. "We are… It's a soul thing. When we dream, we retreat inside, so we're only aware of our souls. But here, we <em>are</em> the souls. We touch the Otherworld directly."
+"Ah…" She sighed and gazed up into the stars. "We are… It's a soul thing. Normally, when we dream, we retreat inside, so we're only aware of our souls. But here, we <em>are</em> the souls. We touch the Otherworld directly."
 
 I lightly poked her and said, "So our souls are touching each other right now."
 
@@ -478,7 +480,7 @@ Yali…
 
 What had I yelled at her for?
 
-It was so stupid. This wasn't supposed to happen! We were supposed to be going on romantic adventures and fighting off the Blood God. Not this! I wasn't supposed to be the kind of person who would yell in their girlfriend's face over petty shit like this!
+It was so stupid. This wasn't supposed to happen! We were supposed to be going on romantic adventures and fighting off the Blood God. Not this! I wasn't supposed to be the kind of person who'd yell in their girlfriend's face over petty shit like this!
 
 How had this happened?! All I was trying to do was have fun and act normally! Why couldn't that just work? Why did Yali have to suddenly turn into someone who couldn't handle it?
 
@@ -502,7 +504,7 @@ I should go apologize to her, I said to myself. I could just run back to the oth
 
 My muscles made the decision for me. I wasn't going anywhere, not anytime soon.
 
-An eternity went by. There was no way to tell time here. I could have checked my phone, but it was the farthest thing from my mind. I found myself drifting off, flickering in and out of the idleness that we had instead of sleep here.
+An eternity went by. There was no way to tell time here. I could have checked my phone, but it was the farthest thing from my mind. Eventually, I found myself drifting off, flickering in and out of the idleness that we had instead of sleep here.
 
 A voice shocked me awake, echoing from under the floor.
 
@@ -528,7 +530,7 @@ Yali held out her hand to help me up. I took it and started climbing to my feet.
 
 "Uhh…"
 
-"Don't you remember? When I first tried out saying that invocation. The first thing you said was 'Don't pretend like you're some kind of holy person'. It wasn't like you."
+"Don't you remember? When I first tried saying that invocation. The first thing you said was 'Don't pretend like you're some kind of holy person'. It wasn't like you."
 
 "It wasn't?" I said hollowly. "I mean, when have I ever respected anything religious?"
 
@@ -634,7 +636,7 @@ The days dragged on.
 
 The freaky thing was that I didn't feel any different. When Yali had told me about the Blood God stuff, I had expected that it would be a constant struggle to hold on to what I really wanted. Like there would be an invader in my mind that I had to fight against. But instead, it was constant… normal stuff. Just me thinking stuff that I would normally think. Reacting the way I would normally react. Until the moment when I realized I had gone over the edge and hurt her.
 
-I ended up second-guessing myself all the time. Whenever I was about to say something, I hesitated, thinking, <em>is this going to be the thing that sends me down the wrong path again?</em> After our talk, the first time Yali said she was going to study the Codex, my first thought was <em>oh, for fuck's sake</em>. Of course, I didn't say <em>that</em>. So I said "sure, go ahead." But then I noticed that I had said it irritably without even thinking about it. That was scary. So the next time, I stopped myself, and didn't say it out loud until I was sure I could say it calmly.
+I ended up second-guessing myself all the time. Whenever I was about to say something, I hesitated, thinking, <em>is this going to be the thing that sends me down the wrong path again?</em> After our talk, the first time Yali said she was going to study the Codex, my first thought was <em>oh, for fuck's sake</em>. Of course, I didn't say <em>that</em>. So I said "sure, go ahead." But then I noticed that I had said it irritably, without even thinking about it. That was scary. So the next time, I stopped myself, and didn't say it out loud until I was sure I could say it calmly.
 
 It turned into a routine. I would calm myself down, reminding myself of how much I believed in respecting Yali's boundaries. It wasn't exactly <em>fun</em> – my feelings felt kind of deadened, uncertain. But it kept the peace between us. I muddled along, just waiting for the stars to show us something new.
 
@@ -646,7 +648,7 @@ Yali carefully asked me a few questions, to make sure I really wanted to help. B
 
 It was boring work, mostly just staring at one stationary star after another. But at least I could feel like I was working alongside Yali, theoretically getting stuff done. It was boring, but it wasn't the isolating, resentful kind of boring I'd been dealing with before.
 
-Eventually, we actually stole one of the telescopes from another star so that we could both use the telescope at the same time. I just cut the other telescope down with a Blood Blade – a little nervously, because I was worried I'd break my carefully balanced sense of calm if I cut anything aggressively. But it worked. And then I manifested a new base for it on our own star. We actually did it with a few more telescopes soon after, just so Yali could leave them configured in different ways. We tried to do it with one of the computers, too, but it didn't work once it was separated from the star, and we couldn't figure out how to power it.
+Eventually, we actually stole one of the telescopes from another star so that we could both use the telescope at the same time. I just cut the other telescope down with a Blood Blade – a little nervously, because I was worried that if I cut anything <em>aggressively</em>, I'd break my carefully balanced sense of calm. But it worked. And then I manifested a new base for it on our own star. We actually did it with a few more telescopes soon after, just so Yali could leave them configured in different ways. We even tried to do it with one of the computers, but the computer didn't work once it was separated from the star, and we couldn't figure out how to power it.
 
 We spent a lot of time scanning the sky together, almost shoulder to shoulder – although we technically stayed far enough apart that we wouldn't bump into each other, because it was way too easy to knock the telescopes off their calibration. We spent hours in near silence, just occasionally speaking if one of us saw something unusual.
 
