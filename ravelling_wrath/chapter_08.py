@@ -395,6 +395,35 @@ Justicar raised an eyebrow. "If it helps… there is always a choice." [????? Ri
 
 ????? [????? Someone asks about the difference between alchemy, sorcery, and manifesting]
 
+"Ah… I think there's one of me who's excited to explain this…"
+
+"One of you? Wait, do you mean your memories of the other Farseers? Are they, like, actual people inside your head?"
+
+"Not exactly. They are only memories. But they do feel like how the person was feeling at the time. So…" She clapped her hands and looked up cheerfully.
+
+"All magic is technically manifesting," she began. "And manifesting is when a soul, or a thread of a soul, exerts its will on matter, or on other souls. The thing that we <em>call</em> manifesting is when a person does this directly, using their own soul as it is, without changing it. Our souls aren't built to influence matter, so this is only possible in the Otherworld. Or if you're a god.
+
+"But there are other ways to use the power of manifesting. The most powerful way is to remove a thread from your own soul, then wind it into the perfect shape to do what you want. This is what we call <em>sorcery</em>. It's very powerful and versatile, but every sorcery has a permanent cost to your soul. Our souls have thousands of threads, so it doesn't ruin you immediately, but you can't cast a new sorcery every day without being changed. So professional sorcerers usually store sorceries in physical objects, so that they can be saved until they're needed, or even reused. If you've ever used a magic wand, that's a sorcery linked to a physical object. So is a potion.
+
+"Alchemist's power is similar to sorcery, but it uses the threads of the Broken God's soul instead of their own."
+
+"Wait a minute, so every time Alchemist makes a potion, they're permanently sacrificing part of the Broken God?!?"
+
+"No… unlike a human sorcerer, the Broken God can reabsorb the threads after they're used. A human soul is like a big, complex tangle of threads. You can pull one of the threads out of the tangle, but if you tried to put the same thread back exactly where it came from, you wouldn't have a chance.
+
+"Then there's alchemy. Certain substances have a natural, magical, connection to one of the gods. And an alchemist – that is, a lowercase-L alchemist – knows how to mix those substances to activate the divine power inside them. So it's technically the god manifesting on the world, just directed by the lowercase-L alchemist.
+
+"Those are the main types of magic. There's a few other terms you might have encountered. When we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So Rinn's Blood Blades, Justicar's sword and armor, and Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something.
+
+"And a <em>curse</em> is a special type of sorcery that weaves itself into the victim's soul, so that it's very difficult to remove."
+
+"Okay, so you've covered… all of us except you. Alchemist is like sorcery, the rest of us are like manifesting. But what about you? What's the Seeing like?"
+
+[????? "When I use it, I'm not technically doing much magic at all. It doesn't influence any other souls or matter, after all. Only my own, to receive the knowledge. As for how the god "]
+
+
+?????
+
 [????? maybe somewhere something about ages of the ravellers]
 
 ?????
