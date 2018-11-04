@@ -10,7 +10,6 @@ posts = [
   "title":"Ravelling Wrath, chapter 6",
   "blurb": blurb,
   "auto_paragraphs": True,
-  "don't deploy": True,
   "authors_notes":'''
 
 <p>At over 12000 words, this chapter sure is a doozy!</p>
