@@ -101,6 +101,26 @@ Yali's eyes were wide. "When… when did I sell you out to the Stern the <em>fir
 
 ?????
 
+"I finally understand that word the Blood God used to talk about you as the Farseer! I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, –"
+
+"I understand. I can feel the Waiting God using those not-quite-words, too."
+
+"Yeah, so, the Blood God has always called you, like, the Waiting God's <em>laskueh</em>. And I first I thought it meant Raveller, but it doesn't. It means, like… a servant. Someone who works for someone else." Trying to explain it in words felt so flat. Saying <em>someone who works for someone else</em> didn't have the overwhelming sense of contempt that this word had. So I tried to explain. "And, like, to the Blood God, that's really bad. Like… If you obey someone else's orders instead of doing what you really want, that's like, stepping on your own blood."
+
+"Stepping on your own blood…"
+
+"Er…"
+
+"No, it's familiar. Yes… it's an old expression. There were two expressions like that – if you said 'stepping on someone's <em>fire</em>', it meant you were stopping someone from going after their passions. But if you said 'stepping on someone's <em>blood</em>', it meant, it meant… a violation."
+
+"So obeying orders is violating yourself? Haha, that's pretty cool."
+
+"Sounds more like victim-blaming," said Yali loudly.
+
+"No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers!"
+
+?????
+
 "So, this 18 months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
 
 "It's okay. Go on."
