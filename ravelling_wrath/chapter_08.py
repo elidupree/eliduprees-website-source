@@ -154,7 +154,9 @@ The Alchemist stood nervously at the edge of Neenu, looking across at us and loo
 
 "It's just a little jump. You can do it!" I said.
 
-"Or WE could all go ride on Neenu!" yelled Morrow, jumping across. He immediately [????? hugged Alchemist, but with more details]. I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I still felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
+"Or WE could all go ride on Neenu!" yelled Morrow, jumping across. He immediately ran and grabbed the Alchemist in a big hug, knocking them off balance. Then just as suddenly, he pulled back and started being gentle instead, laying his arms softly around the Alchemist's shoulders.
+
+I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I still felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
 
 "I can't do it," said Yali, standing at the edge of our old star and shuddering.
 
@@ -224,7 +226,7 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 "I, I, I only know what the Alchemist's power looks like from the outside, but I'm willing to help as far as I can."
 
-"Yeah that sounds great, but save it for later!" I said excitedly. "Now that we're all together – all five of us – we can…" I still wasn't quite sure where I was going with this, but there is something that felt almost nostalgic about the five of us all being together and friendly with each other – or at least tolerating each other, I guess. There was an irritating doubt in the back of my mind, but for now, I just wanted to have fun. "Let's have a campfire! And then we can tell stories around the campfire!"
+"Yeah that sounds great, but save it for later!" I said excitedly. "Now that we're all together – all five of us – we can…" I still wasn't quite sure where I was going with this, but there was something that felt almost nostalgic about the five of us all being together and friendly with each other – or at least tolerating each other, I guess. There was an irritating doubt in the back of my mind, but for now, I just wanted to have fun. "Let's have a campfire! And then we can tell stories around the campfire!"
 
 "We could also tell stories without setting anything on fire," said Justicar.
 
@@ -471,13 +473,29 @@ Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She 
 
 ?????
 
-"This will be a lot like when we were pulled into the Otherworld. Just as the Waiting God put us into this layer, the Seeking God will put us into the next. So it will be similar, but different."
+"Woah…"
+
+The portal had caught my eye immediately. In the middle of the star we were approaching, there was a simple archway made of the same goalie, white material as the star itself. But when I look to <em>through</em> the archway, I saw… blackness, but it was also like a kaleidoscope. Not a kaleidoscope of color, but of some sort of shimmering energy. It felt like it was drawing me inwards.
+
+"What's woah?" said Morrow. "Isn't that just a doorway?"
+
+"It is the Blood Child's portal," said Justicar. "Naturally, only the Blood Child would be able to see its true form."
+
+"Yeah," I said. "I see, like, a tunnel, leading me into, like, <em>magic</em>."
+
+Neenu swooped towards the star with the portal on it, and hovered over it in a little wavy pattern. She had been getting better at moving smoothly. Now, she was almost halfway on top of the other star, leaving the portal almost only a step away from me.
+
+It was funny. When I looked at the portal with my <em>eyes</em>, I just saw solid blackness, like it was a black wall blocking off the doorway. But when I looked with my instincts, it was vibrant. "So I'm going to be stepping into that portal? What even <em>is</em> that thing?"
+
+"It will be a lot like when we were pulled into the Otherworld. Just as the Waiting God brought us into this layer, the Seeking God will bring us into the next. So it will be similar, but different."
 
 "Different how? What's it going to be like?"
 
 "This is the Seeking God. If I told you what to expect, the god would do something else."
 
-"Haha, of course it would."
+"Haha, of course it would. Finally, a god who knows how to have fun."
+
+?????
 
 ''',
 },
