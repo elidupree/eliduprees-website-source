@@ -219,7 +219,39 @@ There was much more I could do than just smacking it with a couple of sticks. Wi
 
 A short distance away, Justicar manifested a glass barrier to keep herself clean. My blood burned through it like it was tissue paper.
 
+But the wall was still utterly smooth, impervious to everything I was throwing at it. I couldn't just keep beating on at aimlessly. I needed <em>leverage</em>. What could I push off of? If I wanted to hit the wall harder, I'd have to brace myself against something in the other direction, and the only thing in the other direction was –
 
+The opposite wall of the tunnel.
+
+I called the power into myself again. I turned my body into one long, lean, mass of muscle. My legs stretched out, growing into powerful hindclaws. More blades sprouted from my back, forming jagged ridges like shredded wings. With every new blade that grew out of me, I braced myself more and more against the opposite wall.
+
+And then, I made my weapon. I focused a Blood Blade down to a single point, a vividly sharp, hard, exacting spike. I gripped a long handle in both hands, aiming it straight-on into the wall. I heaved my full strength into it with no worry that it could slip left or right.
+
+My spike bit into the wall.
+
+It felt like a distant scream. A wave of energy passed over me, an aching splash of color at the edges of my vision. Near me, I saw Justicar raise a hand in front of her face, as if protecting herself from an unseen force.
+
+"What are you doing?!" Justicar yelled.
+
+I grinned savagely. If the Seeking God was in pain, that meant I was winning. I heaved again, flexing and straining with every muscle along the length of my body. The screaming exploded into my ears, like a jackhammer, and gong, and a crying baby rolled into one. Reality flickered around me, becoming a mass of discordant color and stench.
+
+"That's enough!" shouted Justicar. "Stop this immediately!" She stepped forward, her sword bouncing at her side as she summoned a shard of white light in her hands. I could <em>feel</em> her light as a blank spot in my thunderhead of rage. If that light touched me, it would scrub away my strength, erase everything I was fighting for.
+
+Before she could get to me, I heaved a final time.
+
+The world shattered.
+
+<bigbreak>
+
+I stumbled and landed on my hands and knees.
+
+What had just happened? I looked around. It looked like a pretty normal place, as much as any part of the Seeking God's world was normal. [????? Medium length description of a weird room/landscape]
+
+I summoned the map in my hand. With a sinking feeling [????? can it be the feeling where you're desperately looking for some information while you expect that the information will be something that hurts you?], [????? I zeroed in on the Watchful Eye. It was very far away].
+
+"I'LL KILL YOU!!!" I snatched up one of the rocks in my hand, and, imagining that it was the Seeking God, I smashed it to pieces. Then I sprouted a Blood Blade from my heel and stomped on the broken rock, slicing it into smaller and smaller slivers. "YOU THINK YOU CAN JERK ME AROUND, LIKE THIS IS ALL A BIG GAME?! I AM BLEEDING ON THE FLOOR, AND YOU STILL USE MY HEART AS A PLAYTHING?! I DON'T CARE IF YOU'RE A GOD! I WILL TEAR YOU TO PIECES!" I whirled around, my arm whipping into a long blade with a bleeding edge, my eyes trying to zero in on whatever looked most like the heart of the god.
+
+But when my eyes began to make sense of what I saw, it was only [????? a bunch of stuff]. And among the [????? stuff], the frozen, terrified face of the Alchemist.
 
 
 
