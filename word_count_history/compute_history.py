@@ -51,7 +51,8 @@ while True:
   commits_queue.sort(key= lambda c: c.committed_date)
   commit = commits_queue.pop()
   for parent in commit.parents:
-    commits_queue.append (parent)
+    if all (c.hexsha!=parent.hexsha for c in commits_queue):
+      commits_queue.append (parent)
   commit_date = commit_ordinal(commit)
   
   completed = False
