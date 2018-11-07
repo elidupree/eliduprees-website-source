@@ -132,7 +132,7 @@ Getting stiff, I shifted in my chair. Justicar moved her own chair slightly, to 
 
 "What, when I say 'Stern take it'?"
 
-"You don't seem to revere the Stern."
+"You do not seem to revere the Stern."
 
 "It's just something people say! Not everything is about the gods and their <em>principles</em> all the time!"
 
@@ -252,7 +252,7 @@ Justicar stepped forward. "If your body is whole again, that means you can tell 
 
 With one hand still holding the sandwich, Morrow waved dismissively with the other. Between bites, he mumbled, "I'll do a better one next time."
 
-"There won't <em>be</em> a next time," snapped Justicar. "I will not allow you to endanger yourself and others like that!"
+"There will not <em>be</em> a next time," snapped Justicar. "I will not allow you to endanger yourself and others like that!"
 
 Morrow smiled tauntingly. "You gonna stop me?"
 
