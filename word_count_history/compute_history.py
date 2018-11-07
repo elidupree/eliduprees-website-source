@@ -46,8 +46,12 @@ previous_drawn_date = None
 latest_ordinal = commit_ordinal (commit)
 previous_words = latest_words
 current_date = latest_ordinal
+commits_queue =[commit]
 while True:
-  commit = commit.parents[0]
+  commits_queue.sort(key= lambda c: c.committed_date)
+  commit = commits_queue.pop()
+  for parent in commit.parents:
+    commits_queue.append (parent)
   commit_date = commit_ordinal(commit)
   
   completed = False
