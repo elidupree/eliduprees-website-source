@@ -28,15 +28,15 @@ It was –
 
 If I said it was over, I would sit down, and I wouldn't get up again for a long time. But there were many things I still needed to do.
 
-First, I would have to look at Rinn. There would still be injuries on her body. But logically, I knew that she was not in pain, and that the injuries would not be permanent. The healing potion I had given her had seen to that. So there was no need for me to feel anxious about what I saw.
+First, I would have to look at Rinn. There would still be injuries on her body. But logically, I knew that she was not in pain, and that the injuries would not be permanent. The healing potion I had given her would see to that. So there was no need for me to feel anxious about what I saw.
 
 I looked.
 
-[????? seeing Rinn makes Yali angry at Justicar, want to attack/kick her body]
+Unspeakable feelings pressed in at the edges of my mind. If I kept looking at this mutilation, I wouldn't be able to stay in control. I would strike Justicar in anger, even though she was already dead. And the tradition was clear: Anyone who defiles a corpse will be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. So I looked away.
 
-The tradition was clear: anyone who defiles a corpse will be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. So I looked away.
+I took a minute to store away the unwanted thoughts. Then I tried again, looking at Rinn the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
 
-Then I tried again, looking at her the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
+
 
 ?????
 
@@ -46,7 +46,7 @@ Could I put her in a different position?
 
 Also, how would I transport her? One way or another, she would have to arrive at the final portal. She was light enough that I could carry her, but if I slipped or jostled her along the way, it could reinjure her.
 
-[????? Once Rinn is relatively stable, Looking at Rinn's face,] If I thought about what I wanted to do with <em>her</em>, that would <em>also</em> make me have to calm myself down, just in a different way. It was easier if I just didn't think about it.
+[????? Once Rinn is relatively stable, Looking at Rinn's face,] There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam blocks. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. So if I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
 
 ?????
 

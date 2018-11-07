@@ -35,6 +35,18 @@ I twisted and fought, trying to get out. But when I pulled my arm against the ma
 
 [????? I was going to have to go look for Yali. Again. Frustration at the jobs, but feeling defeated, it probably won't work anyway?]
 
+And even if I found her, what good would it do? She would just be taken away from me again. And again, and again, until the day I died. And then they would all walk over me.
+
+That didn't make sense. I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either.
+
+?????
+
+There was that word again – the Blood God's word, if you could call it a word, for the Farseer. Idly, I held the word in my mind. Thinking it over, I could feel that it was actually two separate ideas joined together. The first one was clear. It meant the Waiting God. I could tell because the "word" had the same feeling as what I'd felt when the Waiting God was pulling me into the Otherworld. But the second…
+
+"Lask… ueh," I said out loud. It didn't sound anything like it sounded in my head, but it would have to do. Was it the word for a Raveller? No… the Farseer was <em>Waiting God laskueh</em>, but when I tried thinking of myself as <em>Blood God laskueh</em>, it made the Blood God angry. Justicar was <em>Stern God laskueh</em>, but Morrow wasn't <em>Seeking God laskueh</em> and Alchemist wasn't <em>Broken God laskueh</em> – they just weren't.
+
+Thinking about this was a waste of time.
+
 ?????
 
 [????? After an eternity of trudging], the statues parted to reveal the intersection with the Farseer's Path. Oddly, she was standing right there, as if she was waiting for me. And there was… another person there. The Alchemist.

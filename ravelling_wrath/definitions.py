@@ -3,7 +3,7 @@
 
 from post_contents_utils import *
 
-blurb = "A pair of teenagers get caught up in a conflict between the gods. (5 out of 20 chapters completed so far.)"
+blurb = "A pair of teenagers get caught up in a conflict between the gods. (6 out of 20 chapters completed so far.)"
 
 def chapter_start (title, warnings = None):
   return '''<h2>'''+ title +'''</h2>

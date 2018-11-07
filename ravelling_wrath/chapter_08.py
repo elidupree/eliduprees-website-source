@@ -154,7 +154,9 @@ The Alchemist stood nervously at the edge of Neenu, looking across at us and loo
 
 "It's just a little jump. You can do it!" I said.
 
-"Or WE could all go ride on Neenu!" yelled Morrow, jumping across. He immediately [????? hugged Alchemist, but with more details]. I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I still felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
+"Or WE could all go ride on Neenu!" yelled Morrow, jumping across. He immediately ran and grabbed the Alchemist in a big hug, knocking them off balance. Then just as suddenly, he pulled back and started being gentle instead, laying his arms softly around the Alchemist's shoulders.
+
+I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I still felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
 
 "I can't do it," said Yali, standing at the edge of our old star and shuddering.
 
@@ -224,7 +226,7 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 "I, I, I only know what the Alchemist's power looks like from the outside, but I'm willing to help as far as I can."
 
-"Yeah that sounds great, but save it for later!" I said excitedly. "Now that we're all together – all five of us – we can…" I still wasn't quite sure where I was going with this, but there is something that felt almost nostalgic about the five of us all being together and friendly with each other – or at least tolerating each other, I guess. There was an irritating doubt in the back of my mind, but for now, I just wanted to have fun. "Let's have a campfire! And then we can tell stories around the campfire!"
+"Yeah that sounds great, but save it for later!" I said excitedly. "Now that we're all together – all five of us – we can…" I still wasn't quite sure where I was going with this, but there was something that felt almost nostalgic about the five of us all being together and friendly with each other – or at least tolerating each other, I guess. There was an irritating doubt in the back of my mind, but for now, I just wanted to have fun. "Let's have a campfire! And then we can tell stories around the campfire!"
 
 "We could also tell stories without setting anything on fire," said Justicar.
 
@@ -395,6 +397,35 @@ Justicar raised an eyebrow. "If it helps… there is always a choice." [????? Ri
 
 ????? [????? Someone asks about the difference between alchemy, sorcery, and manifesting]
 
+"Ah… I think there's one of me who's excited to explain this…"
+
+"One of you? Wait, do you mean your memories of the other Farseers? Are they, like, actual people inside your head?"
+
+"Not exactly. They are only memories. But they do feel like how the person was feeling at the time. So…" She clapped her hands and looked up cheerfully.
+
+"All magic is technically manifesting," she began. "And manifesting is when a soul, or a thread of a soul, exerts its will on matter, or on other souls. The thing that we <em>call</em> manifesting is when a person does this directly, using their own soul as it is, without changing it. Our souls aren't built to influence matter, so this is only possible in the Otherworld. Or if you're a god.
+
+"But there are other ways to use the power of manifesting. The most powerful way is to remove a thread from your own soul, then wind it into the perfect shape to do what you want. This is what we call <em>sorcery</em>. It's very powerful and versatile, but every sorcery has a permanent cost to your soul. Our souls have thousands of threads, so it doesn't ruin you immediately, but you can't cast a new sorcery every day without being changed. So professional sorcerers usually store sorceries in physical objects, so that they can be saved until they're needed, or even reused. If you've ever used a magic wand, that's a sorcery linked to a physical object. So is a potion.
+
+"Alchemist's power is similar to sorcery, but it uses the threads of the Broken God's soul instead of their own."
+
+"Wait a minute, so every time Alchemist makes a potion, they're permanently sacrificing part of the Broken God?!?"
+
+"No… unlike a human sorcerer, the Broken God can reabsorb the threads after they're used. A human soul is like a big, complex tangle of threads. You can pull one of the threads out of the tangle, but if you tried to put the same thread back exactly where it came from, you wouldn't have a chance.
+
+"Then there's alchemy. Certain substances have a natural, magical, connection to one of the gods. And an alchemist – that is, a lowercase-L alchemist – knows how to mix those substances to activate the divine power inside them. So it's technically the god manifesting on the world, just directed by the lowercase-L alchemist.
+
+"Those are the main types of magic. There's a few other terms you might have encountered. When we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So Rinn's Blood Blades, Justicar's sword and armor, and Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something.
+
+"And a <em>curse</em> is a special type of sorcery that weaves itself into the victim's soul, so that it's very difficult to remove."
+
+"Okay, so you've covered… all of us except you. Alchemist is like sorcery, the rest of us are like manifesting. But what about you? What's the Seeing like?"
+
+[????? "When I use it, I'm not technically doing much magic at all. It doesn't influence any other souls or matter, after all. Only my own, to receive the knowledge. As for how the god "]
+
+
+?????
+
 [????? maybe somewhere something about ages of the ravellers]
 
 ?????
@@ -442,13 +473,29 @@ Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She 
 
 ?????
 
-"This will be a lot like when we were pulled into the Otherworld. Just as the Waiting God put us into this layer, the Seeking God will put us into the next. So it will be similar, but different."
+"Woah…"
+
+The portal had caught my eye immediately. In the middle of the star we were approaching, there was a simple archway made of the same goalie, white material as the star itself. But when I look to <em>through</em> the archway, I saw… blackness, but it was also like a kaleidoscope. Not a kaleidoscope of color, but of some sort of shimmering energy. It felt like it was drawing me inwards.
+
+"What's woah?" said Morrow. "Isn't that just a doorway?"
+
+"It is the Blood Child's portal," said Justicar. "Naturally, only the Blood Child would be able to see its true form."
+
+"Yeah," I said. "I see, like, a tunnel, leading me into, like, <em>magic</em>."
+
+Neenu swooped towards the star with the portal on it, and hovered over it in a little wavy pattern. She had been getting better at moving smoothly. Now, she was almost halfway on top of the other star, leaving the portal almost only a step away from me.
+
+It was funny. When I looked at the portal with my <em>eyes</em>, I just saw solid blackness, like it was a black wall blocking off the doorway. But when I looked with my instincts, it was vibrant. "So I'm going to be stepping into that portal? What even <em>is</em> that thing?"
+
+"It will be a lot like when we were pulled into the Otherworld. Just as the Waiting God brought us into this layer, the Seeking God will bring us into the next. So it will be similar, but different."
 
 "Different how? What's it going to be like?"
 
 "This is the Seeking God. If I told you what to expect, the god would do something else."
 
-"Haha, of course it would."
+"Haha, of course it would. Finally, a god who knows how to have fun."
+
+?????
 
 ''',
 },

@@ -123,9 +123,9 @@ Justicar leapt backwards, ripping her sword out of my body. [????? Or maybe it g
 
 Justicar stood across from her. With one hand, she still held her sword, dripping with my blood. With the other, she touched her neck, where Yali had struck her. The mark of the Watchful Eye was already blossoming there. "You had the advantage of surprise, and you chose only to place the Eye? You must be very confident that you can defeat me."
 
-"I am," said Yali grimly. "If you had killed Rinn Akatura, you would be dead right now."
+"I am," said Yali grimly. "If you had killed Rinn Akatura, you would already be dead."
 
-That was funny. Justicar <em>had</em> killed me. I was already dead.
+That was funny. Justicar <em>had</em> killed me. I was dead, right?
 
 Not taking her eyes off of Justicar, Yali knelt down beside me. "Take this," she said out of the corner of her mouth. She handed me a potion.
 
@@ -233,6 +233,14 @@ They had never wanted a child to love and care for. They had wanted a child beca
 To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information on child abuse. I learned that what they were doing to me was not normal, and, more importantly, not <em>legal</em>. And that meant that there was something I could do to change it.
 
 I began recording everything they did. Every
+
+<bigbreak>
+
+?????
+
+"How did your mom get picked to be the high priest if she had a bad memory? Isn't remembering the past really important to the Waiting?"
+
+"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>…" Yali said sourly, but then stopped herself. "But the ?????s did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
 
 
 
