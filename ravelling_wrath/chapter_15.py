@@ -74,9 +74,7 @@ Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how 
 
 Yali began to cry.
 
-I had always assumed that if I ever saw Yali cry, it would be dignified, like in a movie where someone sheds a single tear while staring mournfully into the distance. But it wasn't like that at all. Her face sort of scrunched up ?????
-
-[????? If Yali was crying, that meant something really bad , I was scared because , what could it even be?]
+I had always assumed that if I ever saw Yali cry, it would be dignified, like in a movie where someone sheds a single tear while staring mournfully into the distance. But it wasn't like that at all. Her face sort of scrunched up ????? [????? If Yali was crying, that meant something really bad , I was scared because , what could it even be?]
 
 Not thinking of anything else to do, I turned to Alchemist. "Alchemist, what happened? Is she –"
 
@@ -88,8 +86,30 @@ Alchemist's face looked like [????? nothing I'd seen before]. They ?????. I coul
 
 <bigbreak>
 
+" Yali thundered, yelling in Alchemist's face.
+
+"Hey, go easy on them!" I said.
 
 
+[????? Alchemist and Yali argue about what to do with Morrow]
+
+"We have to do <em>something</em>," I interrupted. "Otherwise, Justicar is going to kill him."
+
+"Well maybe he SHOULD be killed!" Yali snapped back.
+
+"No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, I'd understand that. But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but I didn't really want to say that in front of Alchemist.
+
+?????
+
+"He… he… never went to school? No, they sent him to school once, but the, the teachers yelled at him, called him a freak, sent him home, because, because, he, touched other children sexually. But…" [????? Yali voice/feelings] "that's a textbook sign of sexual abuse! Every Stern teacher is supposed to be trained to recognize the signs of abuse, they're supposed to –"
+
+"You think the Stern give a shit about us?" I said hotly.
+
+Yali looked dismayed. "I, I know people don't always do what they're supposed to, but, they, they just didn't care! At all! They saw how he was acting, they even saw his bruises! And they just sent him right back home to be beaten again! How could they just <em>not care?</em>"
+
+"Yeah, well, maybe they care about you if you're a <em>Seti</em>."
+
+The words hung in the air between us.
 
 [????? Not sure if this chapter or the next two: Justicar avoided having the confrontation in this world because the Broken God complicates her desired confrontation; Yali also finds this world uncomfortable, while Rinn enjoys it]
 
