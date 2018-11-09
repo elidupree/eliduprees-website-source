@@ -50,38 +50,39 @@ A [????? adjective] relaxation came over me. So this was it. It would all be ove
 
 It was like my body moved out of its own accord. It flung itself sideways just as the sword swung down. It was so close that the side of the blade bruised my elbow as it passed. Rolling, I staggered to my feet, my muscles screaming from being yanked without a chance to prepare.
 
+I was barely on my feet when the sword came at me again. I leaped to the side, barely fast enough to hear the woosh in my ear as it missed.
 
-?????
+At every instant, I was an arms length away from death. Desperately, I wrenched a Blood Blade out of the air. Even that was a strain. I felt like my blood was far away from me, like I had to pull it through a ?????. And as soon as I was holding it, I had to twist my body to block Justicar's sword again.
 
-[????? in the fight:]
+The two blades met with a sickening thud. I could feel my ????? blade fracture from the force. I leaped backwards ?????
 
-"Am I worthy of my blood?"
+????? [I forced myself to make a blade in my other hand ????? breathing heavily] ????? She seemed invincible. What was I supposed to do?
+
+How could she do this to me? Just days ago, we had spoken to each other. She had told me of her life, and I had told her of mine. And now she would tear that away?
+
+"Am I worthy of my blood?" I demanded.
 
 "Are your victims worthy of theirs?"
 
-"Answer me, yes or no!"
+The truth burned inside me. If she was trying to turn my question around, that meant she still had some discomfort about what she was doing. And that meant I had a hook in her. "Answer me, yes or no!" I yelled.
 
-"Do not imagine that I enjoy killing! I would like nothing more than to say that no one has to die. But what of the Farseer? What of the dozens or hundreds who will die if the Blood God is allowed to rejuvenate, as its rage infects our city once again?"
+"Do not imagine that I enjoy killing! I would like nothing more than to say that no one has to die! But what of the Farseer? What of the dozens or hundreds who will die if the Blood God is allowed to rejuvenate, as its rage infects our city once again?"
 
-Justicar leapt at me again, her sword swinging in a powerful arc. But when she had paused to argue her case, she had given me just enough time to get ready for it. And now, I saw my chance. As the sword came down, I made a row of tiny Blood Blades along the palm and fingers of my left hand. I caught the sword in my hand, my blood closing around the blade and trapping it in place. I knew I'd only have an instant before Justicar had it under control again. So in an instant, I rushed forward, making another blade in my right hand and aiming it towards her. It was like my vision narrowed to a tiny window. The only thing that mattered was the point of my blade, zooming forward and inwards, ready to stab into the exposed skin of Justicar's face.
+Justicar leapt at me again, her sword swinging in a powerful arc. But when she had paused to argue her case, she had given me just enough time to get my bearings. And now, I saw my chance. As the sword came down, I made a mesh of tiny Blood Blades along the palm and fingers of my left hand. I caught the sword in my hand, my blood closing around the blade and trapping it in place. I knew I'd only have an instant before Justicar had it under control again. So in an instant, I rushed forward, making another blade in my right hand and aiming it towards her. It was like my vision narrowed to a tiny window. The only thing that mattered was the point of my blade, zooming forward and inwards, ready to stab into the exposed skin of Justicar's face.
 
 I saw Justicar react, moments too late. My blade landed squarely onto her cheek.
 
 And then it <em>stopped</em>.
 
-My bones shook with the force of the blow. Justicar lifted one hand from her sword and took the tip of my blade between her fingers. She firmly pushed it aside, making it scrape over her cheek like it was my fingernails being scraped over concrete. [????? There wasn't a mark on her.]
+My bones shook with the force of the blow. Justicar lifted one hand from her sword and took the tip of my blade between her fingers. She firmly pushed it aside, making it scrape over her cheek like it was my fingernails being scraped over concrete. She didn't have a single scratch.
 
-I stumbled away, uncomprehending. <em>How?</em> How had my only weapon been so powerless to injure her?
+I stumbled away, uncomprehending. "<em>How?</em>" I gasped. How had my only weapon been so powerless to injure her?
 
-"I told you! The Stern God's will protects me from all physical harm."
+"I told you, did I not? The Stern God's will protects me from all physical harm."
 
 "No fair," I said, my voice breaking.
 
-?????
-
-"Even if you could tear out my heart, [????? I would never stop carrying out the Stern God's will. /the Stern God's will would always carry me forward]"
-
-?????
+"The battle between good and evil should not be <em>fair</em>," Justicar declared. "The Stern God understands this. And that is why the Stern has granted me the power to do what must be done. [????? None of your failing has come anywhere near to changing this.] Even if you draw on a greater weapon, even if you <em>cut out my heart</em>, the will of the Stern God will always carry me forward."
 
 She advanced towards me.
 
@@ -89,11 +90,11 @@ I ran.
 
 Before I got five steps, I ran headfirst into a steel wall. Desperately, I pressed my palm to the cold steel, trying to unmanifest it by force. It flickered for a moment, not letting me past, but letting me see behind it. And behind it… was a <em>second</em> wall, which Justicar had placed there while I was dealing with the first.
 
-I turned around.
+Hopelessly, I turned around again.
 
-Justicar was still advancing towards me, barely more than a sword's length away. Every road away from here was blocked off with steel. I couldn't fight. I couldn't run.
+Justicar was still advancing towards me, barely more than a sword's length away. Every road away from here was already blocked off by steel. I couldn't fight. I couldn't run.
 
-"Get back!" I screamed. I reached out desperately for anything that could keep her away from me. I stuck out my hands and manifested a jagged mass of fragments, a thornbush of Blood Blades jutting out in all directions.
+"Get away from me!" I screamed. I reached out desperately for anything that could keep her away. I stuck out my hands and manifested a jagged mass of fragments, a thornbush of Blood Blades jutting out in all directions. I felt like I was pouring out the last of my heart.
 
 Justicar sized it up, raised her sword, and shattered her way through my thorns in a single blow.
 

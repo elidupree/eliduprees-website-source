@@ -31,13 +31,22 @@ I twisted and fought, trying to get out. But when I pulled my arm against the ma
 
 ?????
 
-[????? The uniform; make sure to clarify what happens to Rinn's phone]
+
+
 
 [????? I was going to have to go look for Yali. Again. Frustration at the jobs, but feeling defeated, it probably won't work anyway?]
 
 And even if I found her, what good would it do? She would just be taken away from me again. And again, and again, until the day I died. And then they would all walk over me.
 
 That didn't make sense. I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either.
+
+
+?????
+[????? The Stern God's will appears]
+
+I yanked myself to my feet like a puppet.
+
+[????? The uniform; make sure to clarify what happens to Rinn's phone]
 
 ?????
 
