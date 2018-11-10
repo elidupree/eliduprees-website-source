@@ -18,6 +18,65 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 11: ", '''<p></p>''') +'''
 
+"Oh, uh, hi, Alchemist," I said awkwardly.
+
+Alchemist kept clinging to the other side of the ladder. It was as if they thought they could hide from me, even though I could obviously see them right through it.
+
+"It's okay, I'm not going to hurt you! It's the Seeking God! It just – it absolutely fucked me over!" I raged. Alchemist seemed to shrink even further away from me, if that were possible. Right, Alchemist was really sensitive. ?????
+
+Belatedly, I turned my bleeding blade back into a regular arm.
+
+?????
+
+"You're – you're definitely not going to hurt me?" said Alchemist tentatively, poking their head out from around the ladder.
+
+"Of course not! I'd never hurt <em>you</em>, you're – you're adorable!"
+
+Alchemist giggled a little.
+
+?????
+
+"Look," I said, "I can tell there's something [????? you're not comfortable with about me]."
+
+Alchemist cringed.
+
+"No, it's okay. I totally understand it if ?????. ?????. I just, like, want to get it out in the open, you know? I just can't stand leaving things like this, with us dancing around it all the time."
+
+"Well – er –"
+
+"Go on, do your worst."
+
+"I, maybe, Justicar said you're dangerous…" they said hesitantly.
+
+"Oh for fuck's sake –" I began. Then I caught myself and make sure to settle down a bit before I put my foot in it again. "Look, she's got her, like, <em>opinions</em> about stuff. But I'm really not going to hurt you. And if she was going on about the whole Blood Child and Farseer thing, there is no <em>fucking way</em> – er, there is no way I'm going to hurt Yali either. I'm really not."
+
+"Oh…" said Alchemist. They sounded pretty disappointed. I was starting to get the idea that when Alchemist said "oh" like that, it didn't really mean they understood something. It meant they just didn't feel like pushing anymore.
+
+"Look, it's okay. If you've got a problem with me, I want to hear about it. Just spit it out, don't leave me hanging."
+
+Alchemist swallowed. They shifted back and forth, trying to psych themselves up. Finally, they spoke.
+
+"Are… you… going to hurt Morrow?"
+
+Well, fuck.
+
+"He's not here right now, is he?" Ugh, that was a stupid thing to say. Alchemist obviously meant in general, not right now. "I mean, I don't <em>want</em> to hurt anybody! I'm not going to hurt him if he doesn't hurt anybody else!" I said defensively.
+
+"I… saw…" Alchemist ran their fingers wavily through the sand. [????? Set up whether they are sitting or standing?] Around the fingers, the sand formed into a picture – Morrow's face, with a hand print on it where I'd slapped him. "It was smaller than his hand… So it must have been you…" they said sadly.
+
+"Right, you would've seen that…" I said awkwardly. "So, what happened is, we tried trading phones when he was, you know, but then he freaked out and smashed mine. So, I was mad. But it was only for a moment! And it's not like I injured him or anything –" Ugh, I could already feel I was doing a bad job of this. If I wanted to reassure <em>Alchemist</em>, I'd have to come up with something better than saying "it could have been worse". ????? "I promise not to hurt him if he doesn't hurt anyone else."
+
+"He might…" said Alchemist sadly. "He might hurt… somebody else. Will you hurt him then?"
+
+"You're wiser than I thought," I said. I had kind of been assuming that [????? they would just avoid thinking about anything that hurt]. But, fuck, they sure knew how to ask the hard questions. I sighed. "I, like, I can't promise it'll <em>never</em> happen, but, I guess… Even if he's hurting someone, I promise I'll try everything else I can think of ?????"
+
+"Thanks…" Alchemist clearly wasn't <em>completely</em> satisfied, but ?????
+
+?????
+
+"So, what <em>is</em> this place?" I asked. "It doesn't look like the rest of the Endless Maze."[????? Description? The only weird thing was the ladders]
+
+?????
 
 
 "I heard Morrow call you Raylie earlier, is that your name?"
