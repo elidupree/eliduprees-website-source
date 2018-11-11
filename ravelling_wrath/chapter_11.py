@@ -22,11 +22,17 @@ posts = [
 
 Alchemist kept clinging to the other side of the ladder. It was as if they thought they could hide from me, even though I could obviously see them right through it.
 
-"It's okay, I'm not going to hurt you! It's the Seeking God! It just – it absolutely fucked me over!" I raged. Alchemist seemed to shrink even further away from me, if that were possible. Right, Alchemist was really sensitive. ?????
+"It's okay, I'm not going to hurt you! It's the Seeking God! It just – it absolutely fucked me over!" I raged. Alchemist seemed to shrink even further away from me, if that were possible. Right, Alchemist was really sensitive. I couldn't just <em>tell</em> them I wasn't mad at them, I had to <em>act</em> in a gentler way too. It was grating to have to do that right after what the gGod just did to me. But I really didn't want to hurt Alchemist, and as far as the "finding Yali" thing went, I was basically fucked either way.
 
-Belatedly, I turned my bleeding blade back into a regular arm.
+Belatedly, I turned my bleeding blade back into a regular arm. I had just been waving it in Alchemist's general direction, hadn't I. Stern take it all.
 
-?????
+"I'm really not mad at you," I said, forcing myself to sound calmer. I opened my arms, making sure they both had regular human hands on them. "It's okay. You can come out now."
+
+Alchemist didn't come out from behind the ladder.
+
+"Okay, fine, I'll just, uh, wait over here until you're ready," I said. I sat down on a rock a fair distance away and started idly kicking at the sand with my foot.
+
+[????? Description of this physical environment?]
 
 "You're – you're definitely not going to hurt me?" said Alchemist tentatively, poking their head out from around the ladder.
 
@@ -34,6 +40,27 @@ Belatedly, I turned my bleeding blade back into a regular arm.
 
 Alchemist giggled a little.
 
+?????
+
+"So, what <em>is</em> this place?" I asked. "It doesn't look like the rest of the Endless Maze." Most of this world had been made out of tiny rooms and twisty passageways, with puzzles hidden behind every corner. But right now, we were in the middle of a big landscape, stretching out in all directions. If it wasn't for the ladders sticking up everywhere, it would look completely normal.
+
+"It doesn't…?"
+
+"Yeah, this just doesn't seem like the Seeking God at all. It's more like…" I looked around at the endless sand and stones. There was kind of a sense of emptiness here, like an incomplete world. "…more like the Broken? Wait, did <em>you</em> do something to this part of the world?"
+
+"I… maybe?" said Alchemist doubtfully.
+
+"Or, wait, what if the <em>Seeking</em> makes different puzzles for each of us? Justicar's puzzles had rigid rules, too. I mean, the rules were a trick, but it was still <em>based on</em> rules ?????
+
+?????
+
+[????? Rinn climbs a ladder]
+
+Looking further, I could see that there was a long stretch of rocks that were arranged in the same pattern, going off in one direction. Maybe Alchemist had been coming from that direction when I showed up.
+
+I jumped down from the ladder. "Why are you putting the rocks like that? I mean, it looks nice, but is there a reason for it?"
+
+"I… don't know? It just, felt, like, something."
 ?????
 
 "Look," I said, "I can tell there's something [????? you're not comfortable with about me]."
@@ -62,7 +89,7 @@ Well, fuck.
 
 "He's not here right now, is he?" Ugh, that was a stupid thing to say. Alchemist obviously meant in general, not right now. "I mean, I don't <em>want</em> to hurt anybody! I'm not going to hurt him if he doesn't hurt anybody else!" I said defensively.
 
-"I… saw…" Alchemist ran their fingers wavily through the sand. [????? Set up whether they are sitting or standing?] Around the fingers, the sand formed into a picture – Morrow's face, with a hand print on it where I'd slapped him. "It was smaller than his hand… So it must have been you…" they said sadly.
+"I… saw…" Alchemist ran their fingers wavily through the sand. [????? Set up whether they are sitting or standing?] Around the fingers, the sand formed into a picture – Morrow's face, with a hand print on it where I'd slapped him. "It was smaller than his hand… so it must have been you…" they said mournfully.
 
 "Right, you would've seen that…" I said awkwardly. "So, what happened is, we tried trading phones when he was, you know, but then he freaked out and smashed mine. So, I was mad. But it was only for a moment! And it's not like I injured him or anything –" Ugh, I could already feel I was doing a bad job of this. If I wanted to reassure <em>Alchemist</em>, I'd have to come up with something better than saying "it could have been worse". ????? "I promise not to hurt him if he doesn't hurt anyone else."
 
@@ -74,7 +101,6 @@ Well, fuck.
 
 ?????
 
-"So, what <em>is</em> this place?" I asked. "It doesn't look like the rest of the Endless Maze."[????? Description? The only weird thing was the ladders]
 
 ?????
 
