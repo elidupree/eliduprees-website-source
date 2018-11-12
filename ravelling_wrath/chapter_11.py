@@ -148,6 +148,38 @@ When we pulled away, Alchemist had tears streaming down their face. "Mama, Papa,
 "Hey, hey, it's okay. We'll get you back to everyone safe and sound." I hugged them again.
 
 
+?????
+
+[????? The Blood God being impatient, making Rinn impatient with Alchemist]
+
+"I didn't mean that," I said through gritted teeth. "Look, I'm going to, uh, <em>go</em>. Like, for a walk."
+
+It hurt me to leave Alchemist on that sour note, but with all the thundering impatience in my head, I couldn't get myself to say anything gentler either. I stood up and stomped off before I could make things worse.
+
+Not sure where to go, I picked out one of the roads that went down the side of the gorge. As I walked through the cold, damp air, it took me zigzagging back and forth, down and down into the gorge, until the fog was too thick to see my way back up.
+
+As I walked, I thought about ?????
+
+?????. If only I didn't have the Blood God looking over my shoulder all the time.
+
+"You are <em>not me</em>," I shouted into the void. "I don't care what you want! I don't care about your fucking murder quest! And I'm sick of you trying to take away my chance to enjoy being with Alchemist when there's nothing we can even do anyway! And so, I am going to go back up there, and be everything Alchemist wants me to be! I will treat them like an absolute princess! I mean, a… whatever the non-binary equivalent of princess is! A prince… uh… whatever, actually even if they were a dude I'd still say I was going to treat them like a princess! So that's what I'm going to do! You hear me?!"
+
+?????
+
+– there she was!
+
+Two tides of feeling surged within me. Finally, <em>finally</em>, after so many days, she was here again! Inside me, there was a struggle for control, between the part that wanted to run and hug her and the part that wanted to charge and rip her to pieces. But I knew which part was me and which wasn't. I bore down on the second part with all my will, and it wavered. Grinning triumphantly, I stomped it down. <em>Stay in your corner, Blood God,</em> I thought loudly. <em>I am going to love Yali, and cherish her, and give her all the care and respect she deserves, no matter what you make me feel. And if you think you can make me lift a finger to hurt her, you're stupider than I thought.</em>
+
+I felt the rage inside me subside. It was like the Blood God had given up and decided to sulk instead. <em>Yeah, that's what I thought.</em>
+
+?????
+
+Yali looked at me seriously. "You've gotten the Blood God's attention."
+
+I smirked. "?????"
+
+"No, that's very bad. I had hoped that we could get through the whole Ravelling without the Blood God being aware of how actively you were resisting it. But now… I can feel it. Things are shifting. I think it's going to try something. And the other gods are starting to notice a change, too."
+
  
 ''',
 },
