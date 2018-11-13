@@ -20,6 +20,24 @@ posts = [
   
 [????? early in this chapter: Justicar predicts that they will not find Yali, reasoning about Yali being too willing to give answers]
 
+"I do not expect that we will," said Justicar.
+
+"You kidding me? Let me guess, it's because I'd like that, and nothing I like is allowed to happen."
+
+"The law of the Seeking is to challenge us with riddles. What do you think would happen if your Farseer were here? Although she –"
+
+"She's not 'my Farseer', she's my girlfriend!"
+
+"– Although she is wise for her years, she is still young. She has not fully realized that the virtue of restraint – to ?????, not to use the Waiting God's knowledge for every idle pursuit. So if she were with us –"
+
+"You're saying she'd give us the answers too easily."
+
+"Yes. It would contradict the will of the Seeking, so the Seeking will not allow it. If it has shown her location to us, it must have a different reason. We <em>may</em> reach her in a physical sense, but even if we do, it will be another layer of the Seeking God's game, not the happy reunion you are imagining."
+
+"Well fuck you too. <em>I</em> say after I do these puzzles, the Seeking will reward me by letting me get – letting me see my fucking girlfriend. Rewards are part of a puzzle too, you know!"
+
+"You can believe what you like."
+
 [????? Somewhere in this chapter: noticing that the type of puzzles is dependent on who is running into them]
 
 [????? Somewhere in this chapter: Justicar saying that her understanding of "the laws by which each god/world functions" gives her an advantage]

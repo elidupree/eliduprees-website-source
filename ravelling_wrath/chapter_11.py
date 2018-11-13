@@ -147,6 +147,12 @@ When we pulled away, Alchemist had tears streaming down their face. "Mama, Papa,
 
 "Hey, hey, it's okay. We'll get you back to everyone safe and sound." I hugged them again.
 
+?????
+
+[????? More time passing]
+
+????? Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was having to suppress my feelings all the time. And sure, I had to suppress some of my feelings with Yali, too, but at least Yali let me <em>be</em> angry, just as long as it wasn't at <em>her</em>.
+
 
 ?????
 
