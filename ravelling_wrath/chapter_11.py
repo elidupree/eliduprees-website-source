@@ -130,7 +130,32 @@ Well, fuck.
 
 "You're wiser than I thought," I said. Alchemist seemed not to like thinking about painful things, so I had kind of expected that they would just avoid bringing it up. But, fuck, they sure knew how to ask the hard questions. I sighed. "I, like, I can't promise it'll <em>never</em> happen, but, I guess… Even if he's hurting someone, I promise I'll try everything else I can think of first. Like, I'll, I don't know, just try to block him, or whatever. I promise."
 
-"Thanks…" Alchemist clearly wasn't <em>completely</em> satisfied, but they sounded sincere. ?????
+"Thanks…" Alchemist clearly wasn't <em>completely</em> satisfied, but they sounded sincere. Tentatively, they put their arms around me. Their hug was warm and gentle, lumpy in some places and bony in others. I hugged them back. And then, abruptly, they went limp, collapsing half their weight onto my shoulders.
+
+I quickly adjusted so I could hold them up. "Woah, are you okay there?!"
+
+Alchemist had tears streaming down their face. "Mama, Papa, Bubele, Niemah…" they sobbed. They kept crying and saying more names, probably all the people they had left behind on Earth.
+
+"Hey, hey, it's okay. We'll get you back to everyone safe and sound." I squeezed them tight.
+
+"But I'm so… I'm so…"
+
+"Sad?"
+
+Alchemist nodded. "And…"
+
+"Scared?"
+
+They nodded again. "And…"
+
+"Lonely?"
+
+Another nod.
+
+"Well, I'm here!" I said cheerfully. Alchemist giggled despite themself.
+
+
+?????
 
 ?????
 
@@ -174,11 +199,9 @@ Alchemist smiled involuntarily.
 
 We both moved in for a hug awkwardly, bumping our arms into each other.
 
-Alchemist was warm and gentle, lumpy in some places and bony in others. [????? More description]
+Alchemist  [????? More description]
 
-When we pulled away, Alchemist had tears streaming down their face. "Mama, Papa, Bubele, Niemah…" they sobbed. They kept crying and saying more names, probably all the people they had left behind on Earth.
-
-"Hey, hey, it's okay. We'll get you back to everyone safe and sound." I hugged them again.
+When we pulled away, 
 
 ?????
 
