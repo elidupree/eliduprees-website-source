@@ -18,10 +18,31 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 9: ", '''<p></p>''') +'''
 
-The darkness ?????verbed impatiently.
+The darkness jiggled impatiently.
 
 I couldn't see anything. I tried to move. It felt completely wrong. I was upside down. I was sideways. None of my arms or legs were where I'd left them. My left foot was on top of my head. My right thumb was riding a roller coaster ten meters to my left.
 
+I pulled hard, trying to get my body back under control. But that just made everything go even crazier. I struggled wildly, but it didn't feel like I was even exerting my muscles. The movement just <em>happened</em>. When that didn't help, I gave up and went limp, but it didn't bring anything back to normal. I was still constantly spinning around, bouncing up and down, turning inside out.
+
+What <em>was</em> this??
+
+I had to get at least <em>some</em> idea of how this worked. So I tried moving just one finger just a tiny bit, and paying attention to what changed. That made my ankle spin around. I tried moving the finger in the other direction, and it tried to squeeze my neck into my ear. I moved it back the first way, and it spun my ankle again.
+
+One by one, I tried some more of my muscles. Each of them did <em>something</em> consistent, even if it wasn't what they were supposed to. So I kept searching, waiting to find ones that would make me spin <em>less</em> fast.
+
+I found them, eventually. My big toe pulled my neck back out of my ear. My left eyebrow counteracted the spinning from my finger. It was a delicate balance, trying to slow down to an exact stop. I kept overshooting, and every time I overshot, I instinctively used the muscle that was <em>normally</em> the opposite, and that set something else out of whack again. But, slowly and unsteadily, I managed to get most of myself back under control.
+
+Right when I felt like I knew what I was doing, everything exploded again. The smell of rotten fruit bounced and spiraled into my ear. Wailing sirens flipped over in my stomach. A kaleidoscope of unnameable colors rushed through my periphery.
+
+Like before, I tried to focus on one sensation at a time. But as soon as I spotted a fleck of a particular color I could recognize, it split again, into another whole miniature kaleidoscope of its own. When I thought I recognized the sound of the siren, the sound changed into a thousand-part harmony of howling and steam. I tried to understand the new sensations, and they split again and again, taking everything that seemed understandable and turning it into a chaos of confusion.
+
+And just when I couldn't take it anymore, when the sensations were about to overwhelm and break me, the Seeking God threw me into the world.
+
+I tumbled onto a padded floor, my arms and legs suddenly coming back to me. I flopped and rolled until I was flat on my back, then stared up dizzily into… At first I thought it was another incoherent kaleidoscope of color. But then I focused in on part of it, and it actually stayed looking how it looked.
+
+Above me, below me, and in every direction around me, there were thousands of brightly colored shapes.???? Curving, multicolored walkways that waggled and twisted to absurd angles, making no distinction between floor, walls, and ceiling.???? And everything felt so <em>close</em> to me. I felt like I could just jump up and land on any of the walkways I wanted.
+
+I jumped up and spun through the air, landing somewhere that had been upside down when I started. I laughed and jumped again, grabbing and swinging from a giant wheel. So this was the Seeking God's world, the Endless Maze. It was like one giant playground.
 [????? Somewhere in this chapter: explanation of "the endless maze"]
 
 Technically, this world was the true Endless Maze. But the Seeking God's symbol was also called the Endless Maze – that little symbol of [????? visual description]. And, metaphorically, "the Endless Maze" meant, like, life. Or the world. As in "how in the Endless did I end up like this?"
