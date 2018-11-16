@@ -45,7 +45,7 @@ Above me, below me, and in every direction around me, there were thousands of br
 I jumped up and spun through the air, landing somewhere that had been upside down when I started. I laughed and jumped again, grabbing and swinging from a giant wheel. So this was the Seeking God's world, the Endless Maze. It was like one giant playground.
 [????? Somewhere in this chapter: explanation of "the endless maze"]
 
-Technically, this world was the true Endless Maze. But the Seeking God's symbol was also called the Endless Maze – that little symbol of [????? visual description]. And, metaphorically, "the Endless Maze" meant, like, life. Or the world. As in "how in the Endless did I end up like this?"
+Technically, "the Endless Maze" meant three different things. This world was the original Endless Maze. But the Seeking God's symbol was also called the Endless Maze – that little symbol of [????? visual description]. And, metaphorically, "the Endless Maze" meant, like, life. Or the world. As in "how in the Endless did I end up like this?"
 
 ?????
 
@@ -53,7 +53,7 @@ Up to this point, I had never actually been completely alone. But now, I was in 
 
 <em>She</em> wasn't here.
 
-I'd had <em>her</em> right in front of me! Why didn't I <em>do</em> anything? I had just given her a half-assed kiss goodbye and stepped into that portal like I knew what I was doing.
+I felt my blood pounding right behind my eyes. I'd had <em>her</em> right in front of me! Why didn't I <em>do</em> anything? I had just given her a half-assed kiss goodbye [????? make sure this is a correct callback] and stepped into that portal like I knew what I was doing. But I <em>didn't</em>! Now I felt like there was a hole ripped right out of my heart, like I'd missed my chance at her and now it was gone forever.
 
 Also, I could picture her right in front of me, so why was I drawing a blank when trying to think of her name?
 
@@ -67,6 +67,8 @@ A chill shot through me. So these were the Blood God's thoughts. Even the phrase
 
 Nothing answered me. Not sure what I was expecting.
 
+Well, if the Blood God wanted me to feel torn up about it, I wasn't going to. "Okay, so maybe <em>Yali</em> isn't here now, but I'll have plenty more chances. I mean, we're gonna be together forever! Someday I'll be 80 and she'll be 81, and if there's anything we forget to do now, we can just do it then!" I felt kind of like I was lying to myself, stepping on my own toes just to spite the god. But it did make me feel better.
+
 
 
 ?????
@@ -78,13 +80,25 @@ I was getting better at recognizing the Blood God's thoughts. [????? Examples]
 ?????
 
 
-"Have you seen Raylie??" he repeated.
+"Heeyyyyyy!" yelled a voice. "Hey Rinn! Have you seen Raylie?!"
+
+"Morrow!!" I yelled back excitedly. It was so good to see an actual person again, even if it wasn't the one I wanted the most. I ran towards him and tackle-hugged him, sending us both tumbling [manner related to current surroundings]
+
+Morrow ?????  "Have you seen Raylie??" he repeated.
 
 "Who's Raylie?"
 
 Morrow blinked. "Alchemist! Have you seen Alchemist??"
 
-"Can't you smell them?" I said.
+"Can't you, uh, 'smell' them?" I said.
+
+"She's right… here!!" Morrow waved an arm around himself vaguely, not giving me any idea of where "here" was. "I can feel where she is! I know where I am! But where's the way from here to there, huh? Huh??"
+
+"I mean at least we could try going in that direction –"
+
+"She's not <em>that</em> way or <em>that</em> way –" Morrow stabbed his finger in a couple of directions "– she's <em>that</em> way!" He waved his arm vaguely.
+
+"Uh…"
 
 
 
