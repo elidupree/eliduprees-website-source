@@ -95,8 +95,11 @@ $(function(){
         if (result >= threshold*0.5) {
           $("#warning").css("background-color", "red");
         }
-        else {
+        else if (result > 0.0) {
           $("#warning").css("background-color", "black");
+        }
+        else {
+          $("#warning").css("background-color", ((Date.now() % 1000) < 500) && "red" || "yellow" );
         }
         $("#level").css("height", (result*200)+ "%");
       }
