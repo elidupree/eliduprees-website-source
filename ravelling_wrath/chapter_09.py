@@ -67,7 +67,7 @@ A chill shot through me. So these were the Blood God's thoughts. Even the phrase
 
 Nothing answered me. Not sure what I was expecting.
 
-Well, if the Blood God wanted me to feel torn up about it, I wasn't going to. "Okay, so maybe <em>Yali</em> isn't here now, but I'll have plenty more chances. I mean, we're gonna be together forever! Someday I'll be 80 and she'll be 81, and if there's anything we forget to do now, we can just do it then!" I felt kind of like I was lying to myself, stepping on my own toes just to spite the god. But it did make me feel better.
+Well, if the Blood God wanted me to feel torn up about it, I wasn't going to. "Okay, so maybe <em>Yali</em> isn't here now, but I'll have plenty more chances. I mean, we're gonna be together forever! Someday I'll be 80, and she'll be 81, and if there's anything we forget to do now, we can just do it then!" I felt kind of like I was lying to myself, stepping on my own toes just to spite the god. But it did make me feel better.
 
 
 
@@ -100,6 +100,41 @@ Morrow blinked. "Alchemist! Have you seen Alchemist??"
 
 "Uh…"
 
+"Whatever, you don't understand. Come on!" Morrow rolled to his feet, waving for me to follow him. I jumped up and ran after him. He was probably just going to lead me on a wild goose chase, but the alternative was my own wild juice chase after Yali, and I didn't have any idea where I was going either.
+
+We weaved in and out between some floating curtains, quickly losing all sense of which way would come from. Pushing past the dozenth curtain, we found ourselves in front of a huge wooden gate.
+
+The gate didn't have any handles on it. "How're we going to open this?" said Morrow.
+
+"<em>The gate cannot be opened</em>," said a voice from nowhere.
+
+Where had the voice come from? Thinking back, I wasn't sure I had literally heard it with my ears at all. It was more just an idea that popped into my head.
+
+"Did you hear that too??" said Morrow.
+
+"Yeah, it must be in charge of the puzzle. I guess we've gotta do something that's not opening it," I said. I grinned and summoned a Blood Blade. "Bet it doesn't count as <em>opening</em> it if you smash it to pieces –"
+
+"<em>The gate cannot be smashed to pieces</em>," said the voice. A shiny, translucent coating appeared over the whole gate. I tried smashing it anyway, but my blade just bounced off the coating.
+
+"Now that's just no fair!" I yelled. "You can't change the rules after we've already started solving the puzzle!"
+
+"No, no!" said Morrow excitedly. "It's denying everything we say out loud –"
+
+"Wait, that's right! So I just won't say it out loud –" I glared at the gate, then silently manifested a big ladder to climb over it with.
+
+A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be climbed over</em>."
+
+"You absolute cheater!"
+
+"I know how to deal with this!" yelled Morrow. "I'm going to <em>stay on this side of</em> the gate!"
+
+"<em>The gate cannot be stayed on this side of</em>," said the voice, as an unseen force sucked us through the gate to the other side.
+
+"<em>That</em> was the solution??" I demanded. "What the fuck, how was I supposed to know that was the solution?"
+
+"Haha! Better luck next time!" Morrow ran on ahead. I hurried to keep up with him.
+
+In the next room, there was ?????
 
 
 
