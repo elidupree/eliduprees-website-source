@@ -137,6 +137,25 @@ A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be c
 In the next room, there was ?????
 
 
+????
+
+"Will you stop that!" I yelled at the god. "It's not cool to push someone's buttons just for your fucking puzzle! I've had enough of this!" I charged at the exit door and stabbed a Blood Blade into it. It cut through the door like it was a piece of cheese. I slashed it a few more times, completely taking it to pieces.
+
+I was about to step through the door when I noticed that it had nothing beyond it. Literally nothing. It was just a doorway going into empty space. Behind me, I heard Morrow snickering.
+
+"What the fuck," I said. I whirled on Morrow. "What do you know that I don't?!"
+
+"Haha! You haven't figured it out!"
+
+"Figured what out?"
+
+Morrow huffed irritably. "Come on, let's finish this puzzle! I bet we can get it in another go!"
+
+"Fine! But if you call yourself trash again, I'm gonna smack you!" I stopped myself. I could already see where this was going. Morrow was going to call himself trash again on purpose, just to see if I would actually smack him. "Never mind, I'm not going to smack you, I'm just going to be totally fed up with your nonsense! Just a little bit, not that much! So don't even think about doing it to make me mad on purpose, it won't work!"
+
+"Fine!" said Morrow. We glared at each other.
+
+
 
 [????? The only thing I could see was] a clock inset into one of the walls.
 
@@ -152,9 +171,9 @@ The clock was running at a normal pace. It had a simple, blocky hour hand, and s
 
 It was hard to imagine that we could have missed anything. The room was literally just a rectangle with neutral gray walls on all sides. To humor him, I checked the ceiling, and I even checked under my feet, but there was nothing special.
 
-Morrow ?????, beating and scratching at the walls to see if there was any weakness. He was clearly looking for something that wasn't there. Mentally, I took a step back. ?????
+Morrow ?????, beating and scratching at the walls to see if there was any weakness. He was clearly looking for something that wasn't there. Mentally, I took a step back. There was definitely <em>something</em> we were missing, but it wasn't a literal, physical thing in this room. It was something about the whole situation. The Seeking God <em>seemed</em> random, but it always had a purpose. Why would it stick us in a blank room like this?
 
-"Oh, <em>I</em> get it now," I said. "The puzzle is <em>us</em>. The puzzle is how we're gonna handle being stuck in a room with each other for eight hours."
+"Oh, <em>I</em> get it now," I said, realization dawning. "The puzzle is <em>us</em>. The puzzle is how we're gonna handle being stuck in a room with each other for eight hours."
 
 Morrow looked back towards me, eyes wild. "That's NOT a PUZZLE!!" he exploded. "There MUST be something else! This is SUPPOSED to be a PUZZLE! Give me a puzzle! Give me something to solve!!" he yelled, slamming his fist into the wall repeatedly.
 
