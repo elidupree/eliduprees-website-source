@@ -25,13 +25,13 @@ Then I turned back to Yali. "So –"
 
 Yali caught my wrist and pulled me down on the mat with her. Before I could react, she kissed me sloppily on the lips.
 
-She did it clumsily and kinda smashed my lip against my teeth, but I didn't care. It had been so long, so <em>long</em>, since anyone had touched me like this. I pressed back into her, my lips and tongue drinking up the warm wetness of her own, my ?????. For the moment, I forgot everything. I could stay like this forever, drowning in Yali.
+She did it clumsily and kinda smashed my lip against my teeth, but I didn't care. It had been so long, so <em>long</em>, since anyone had touched me like this. I pressed back into her, my lips and tongue drinking up the warm wetness of her own, my legs tangling together with hers. For the moment, I forgot everything. I could stay like this forever.
 
-[????? We flopped down so we were lying down.] Yali never stopped crying, but she kissed me again and again. [????? I drifted in bliss]
+Clinging together, we sank down further onto the mat. I lay back and allowed Yali to climb on top of me, her flesh pressing down heavily on the whole length of my body. She never stopped crying, but she kissed me again and again. I closed my eyes and drifted in bliss, drowning in Yali.
 
-?????
+I don't know how long we lay like that. My mind was empty of all thoughts, only pleasure and warmth.
 
-[????? Noticed something was different, tiny doubt that something was very wrong, not like the Yali I knew]
+But then, slowly creeping into my awareness, I began to notice that something had changed. Yali's movements had gotten rougher, and she was sort of clumsily pawing at me. Was she trying to be sexy? That… wasn't what I expected. I was definitely enjoying it, but it just wasn't like the Yali I knew. A tiny doubt was growing inside me, whispering that something was very wrong.
 
 Reluctantly, I pulled my lips away from her. "Yali, what –"
 
@@ -49,21 +49,25 @@ Yali struggled and tried to kiss me again, but I kept holding on. Once it sank i
 
 "No, but –"
 
-I gripped her shoulders. "Then it's NOT going to happen! [????? We're going to make a plan]"
+I gripped her shoulders. "Then it's NOT going to happen! Didn't you always say that?! Neither of us is going to die! You'll always have a plan!"
 
 "But my plans, they… I thought I knew what I was doing! But everything I planned… I almost got you killed! And then Morrow – it's all my fault!!"
 
-"Come on, <em>Justicar</em> tried to kill me. You <em>saved</em> me. Just because you didn't foresee it by magic –"
+"Come on, <em>Justicar</em> tried to kill me. You <em>saved</em> me. How are you even – wait, just because you didn't foresee it by magic –"
 
 "It's not <em>just</em> that I didn't <em>foresee</em> it," Yali sobbed. "I was the one who told Justicar what happened. I didn't think –"
 
 "Look, it's not your fault, there's no way you could have know AFTER EVERYTHING WE'VE BEEN THROUGH, YOU SOLD ME OUT TO THE STERN <strong>AGAIN?!?!!</strong>"
 
-For a moment, I was stunned. [????? A whole second voice had ripped out of me. This was the <em>truth</em> roaring up through my lungs. I was finally fed up with saying all this shit to put a nice coating over the truth that should have been glaring in all our faces. No, no, that wasn't me!] I pushed myself away from Yali in terror. "No no no, not now, I can't let the Blood God take over –"
+For a moment, I was stunned. A whole second voice had ripped out of me. And a new feeling thundered inside me, saying that this was the <em>truth</em> roaring up through my lungs, that I was done with trying to sugarcoat what was glaring in all our faces. And in the next instant, I was gripped by the cold certainty that those thoughts <em>had not been mine</em>. I pushed myself away from Yali in terror. "No no no, not now, I can't let the Blood God take over –"
 
 Yali's eyes were wide. "When… when did I sell you out to the Stern the <em>first</em> time?"
 
-"Shut up shut up SHUT UP!!" The Blood God was roaring inside of me, ?????
+"Shut up shut up SHUT UP!!" The Blood God was roaring inside of me, desperate to have its say. I rolled over and looked away from her, grabbing onto fistfuls of grass and dirt, anything that could distract me from the thoughts that were clamoring on the edges of my mind.
+
+Yali's voice came ripping from behind me, "I want to hear what the Blood God has to say!"
+
+"I'll kill you!! I don't have it under control!"
 
 
 

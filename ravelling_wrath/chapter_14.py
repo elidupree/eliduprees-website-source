@@ -186,7 +186,7 @@ The spike she had been holding earlier was still lying near us, but its energy w
 
 "Bad… ass…"
 
-
+[????? Yali doesn't know why she didn't see it in advance]
 
 
 
