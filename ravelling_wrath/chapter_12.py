@@ -42,6 +42,13 @@ That didn't make sense. I tried to shake my head clear. Was it the Blood God? Be
 
 
 ?????
+
+What had happened to me?
+
+I have never felt like this before. Up to this point, the Ravelling had been… certainly an <em>interesting</em> experience… but I had basically felt the way I would normally feel about all of it. But this… I had never felt like this before in my life. Listlessly, I tried lifting up a hand and making a fist. It didn't even feel like my hand. The fist didn't feel kickass. It was just… <em>a</em> hand that happened to be connected to my arm.
+
+I dropped my arm down to the floor again. If I didn't get to feel anything, what was the point of even getting up?
+
 [????? The Stern God's will appears]
 
 I yanked myself to my feet like a puppet.
