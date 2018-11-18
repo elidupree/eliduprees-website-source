@@ -116,6 +116,14 @@ The words hung in the air between us.
 
 [????? when revealing Morrow's backstory: remember to emphasize his inherent curiousity]
 
+[????? Not sure where: Rinn says something implying that Yali was fine with Morrow before]
+
+"No. He put me on edge from the beginning."
+
+"But I thought –"
+
+"I didn't say anything because I wanted to make sure you got along with each other. It was a delicate balancing act, making sure none of you three blew up on each other. But if this is what happened, then that was also a…" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not."
+
 ''',
 },
 ]
