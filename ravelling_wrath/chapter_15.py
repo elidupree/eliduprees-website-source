@@ -72,6 +72,8 @@ Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how 
 
 ?????
 
+
+
 Yali began to cry.
 
 I had always assumed that if I ever saw Yali cry, it would be dignified, like in a movie where someone sheds a single tear while staring mournfully into the distance. But it wasn't like that at all. Her face sort of scrunched up ????? [????? If Yali was crying, that meant something really bad , I was scared because , what could it even be?]
@@ -86,9 +88,29 @@ Alchemist's face looked like [????? nothing I'd seen before]. They ?????. I coul
 
 <bigbreak>
 
-" Yali thundered, yelling in Alchemist's face.
+?????
 
-"Hey, go easy on them!" I said.
+"You're talking as if he, like, sexually assaulted me. Wait, are you saying he –"
+
+Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you defending him?!"
+
+"I mean, sure, it sucked, obviously, but I knew he was trying to help! It's not his fault if –"
+
+"No," said Yali. "He wasn't."
+
+?????
+
+"I still don't see why I can't bring him a healing potion…" said Alchemist mournfully.
+
+"Because you will <em>DIE!</em>" Yali thundered, yelling in Alchemist's face.
+
+"Hey, go easy on them!" I snapped.
+
+"You think I don't want to?!" Yali roared at me. "If I <em>go easy on them</em>, they somehow convince themselves it isn't so bad! Then they go after Morrow, and motto attacks them! I've <em>Seen</em> it! Morrow is completely out of control, he doesn't stop until Alchemist's mind is DESTROYED!" She spat the last word in Alchemist's face again. Alchemist cringed away from her.
+
+"Holy fuck," I said.
+
+
 
 
 [????? Alchemist and Yali argue about what to do with Morrow]
