@@ -69,7 +69,11 @@ Yali's voice came ripping from behind me, "I want to hear what the Blood God has
 
 "I'll kill you!! I don't have it under control!"
 
+Yali's hand came down heavily on my shoulder. She tried to pull me back to her, as I struggled away and fell in the dirt. She yelled after me, "In the Stern God's world, I searched the future for danger and I saw nothing! The Waiting God could have showed me your death, but it didn't! I need to know! What is the Waiting hiding from me?!"
 
+?????
+
+"Look for yourself!" I screamed. With a crash, the clouds split apart and a shaft of light landed on me. All over my body, wounds began to appear. A bloody gouge across my stomach. A dozen holes through my chest. Multiple slashes to my arms and legs, that felt like they could have completely severed them. Memories flooded into my mind, of myself, in my dozens of other bodies, crawling desperately as my lifeblood flowed away from me. The pain of the wounds flooded through me, but it felt like catharsis. I was finally laying the truth out in the open. "These are the wounds your Justicars and your <em>laskueh</em> have dealt to me! Now do you see what you have done?!" I screamed. I doubled over, blood dripping from my forehead into my eyes. "I have been blinded, maimed, brought to my knees, torn limb from limb! You destroyed my temple and forced my people under the law of the Stern! Your <em>laskueh</em> have trampled over my body to make your perfect world! But I will not go down without a fight! I will tear the worlds apart before I allow myself to be erased by <em>you</em>!"
 
 ?????
 
