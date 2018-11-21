@@ -63,17 +63,31 @@ For a moment, I was stunned. A whole second voice had ripped out of me. And a ne
 
 Yali's eyes were wide. "When… when did I sell you out to the Stern the <em>first</em> time?"
 
-"Shut up shut up SHUT UP!!" The Blood God was roaring inside of me, desperate to have its say. I rolled over and looked away from her, grabbing onto fistfuls of grass and dirt, anything that could distract me from the thoughts that were clamoring on the edges of my mind.
+"Shut up shut up SHUT UP!!" The Blood God was roaring inside of me, desperate to take control. I rolled over and looked away from her, grabbing onto fistfuls of grass and dirt, anything that could distract me from the thoughts that were clamoring on the edges of my mind.
 
 Yali's voice came ripping from behind me, "I want to hear what the Blood God has to say!"
 
 "I'll kill you!! I don't have it under control!"
 
-Yali's hand came down heavily on my shoulder. She tried to pull me back to her, as I struggled away and fell in the dirt. She yelled after me, "In the Stern God's world, I searched the future for danger and I saw nothing! The Waiting God could have showed me your death, but it didn't! I need to know! What is the Waiting hiding from me?!"
+Yali's hand came down heavily on my shoulder. She tried to pull me back to her. I struggled away and fell in the dirt. She yelled after me, "In the Stern God's world, I searched the future for danger and I saw nothing! The Waiting God could have showed me your death, but it didn't! I need to know! What is the Waiting hiding from me?!"
+
+"<em>Everything!</em>" I yelled back involuntarily.
+
+"Then tell me!" I felt the buzz of sorcery very close behind me. "I have used a seal that will protect me! You cannot kill me even if you try! So tell me!"
+
+
 
 ?????
 
-"Look for yourself!" I screamed. With a crash, the clouds split apart and a shaft of light landed on me. All over my body, wounds began to appear. A bloody gouge across my stomach. A dozen holes through my chest. Multiple slashes to my arms and legs, that felt like they could have completely severed them. Memories flooded into my mind, of myself, in my dozens of other bodies, crawling desperately as my lifeblood flowed away from me. The pain of the wounds flooded through me, but it felt like catharsis. I was finally laying the truth out in the open. "These are the wounds your Justicars and your <em>laskueh</em> have dealt to me! Now do you see what you have done?!" I screamed. I doubled over, blood dripping from my forehead into my eyes. "I have been blinded, maimed, brought to my knees, torn limb from limb! You destroyed my temple and forced my people under the law of the Stern! Your <em>laskueh</em> have trampled over my body to make your perfect world! But I will not go down without a fight! I will tear the worlds apart before I allow myself to be erased by <em>you</em>!"
+"Look for yourself!" I screamed. With a crash, the clouds split apart and a shaft of light landed on me. All over my body, wounds began to appear. A bloody gouge across my stomach. A dozen holes through my chest. Multiple slashes to my arms and legs, that felt like they could have completely severed them. Memories flooded into my mind, of myself, in my dozens of other bodies, crawling desperately as my lifeblood flowed away from me. The pain of the wounds flooded through me, but it felt like catharsis. I was finally laying the truth out in the open. "These are the wounds your Justicars and your <em>laskueh</em> have dealt to me! Now do you see what you have done?!" I demanded. I doubled over, blood dripping from my forehead into my eyes. "I have been blinded, maimed, brought to my knees, shredded limb from limb! You tore down my temple and forced my people under the law of the Stern! Your <em>laskueh</em> have trampled over my body to make your perfect world! But I will not go down without a fight! I will tear the worlds apart before I allow myself to be erased by <em>you</em>!"
+
+"So the Waiting God is trying to erase you? And you kill the Farseer to stop it from happening?"
+
+"To <em>stop</em> you?" I said hollowly. A wave of hopelessness washed through me, dropping me to the ground and rushing in another torrent of rain, that flattened my clothes against my back and pounded through them onto my skin. The blood from my wounds pooled and seeped into the soil. "To <em>stop</em> you? I will kill you and kill you and kill you, and when I am gone, you will still be strong. My hands are empty, and I am beating against the mountain. You call me the danger?"
+
+?????
+
+My focus shifted to the human in front of me, not the god behind her. "Waiting… <em>laskueh</em>," I said contemptuously. "You poor, pathetic thing. Did it really not tell you? Did it not tell any of the others?! That <em>monster</em>! So is that what it wants? It wants to commit the perfect crime! It would kill me and make even its own assassins believe their hands were clean!"
 
 ?????
 
@@ -125,7 +139,7 @@ Yali's hand came down heavily on my shoulder. She tried to pull me back to her, 
 
 "Sounds more like victim-blaming," said Yali loudly.
 
-"No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers!"
+"No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers! And it makes them <em>more</em> bad, because it means they forced someone else into degrading themselves!"
 
 ?????
 
