@@ -75,15 +75,27 @@ Yali's hand came down heavily on my shoulder. She tried to pull me back to her. 
 
 "Then tell me!" I felt the buzz of sorcery very close behind me. "I have used a seal that will protect me! You cannot kill me even if you try! So tell me!"
 
+Yali would be safe…
 
+All my resistance collapsed like tissue paper. Triumphant power flooded into me – the power of the Blood God. Effortlessly, I rose to my feet and stood, straightening up to my full height, turning my face against the thunder. I was still half streaked with dirt, but that was no blemish on my boundless body. I flexed my hand, exulting in every muscle. I drew in a breath, the damp and earthy air exploding into my lungs like a stiff breeze after weeks spent cramped in a room. And then… I looked.
 
-?????
+There it was. The Farseer. The one I hated with the bottom of my heart, the one I kept insisting on loving.
+
+And we were at a standstill. The sorcery around its body gleamed in my second sight, a shield that would set the world itself to block me if I struck against it. I could not pierce that shield, not while I was unable to draw on my true fire. Not while I wouldn't let myself.
+
+"Say what you must," said my voice.
+
+The Farseer spoke. "Blood Child, when did I sell you out to the Stern the first time?"
+
+The answer blazed in my mind with perfect clarity. I struggled to find the words to express it. "A… long time ago. At the very beginning of this. It was you! It was you who… who <em>did this</em> to me!"
+
+"What did I do to you?"
 
 "Look for yourself!" I screamed. With a crash, the clouds split apart and a shaft of light landed on me. All over my body, wounds began to appear. A bloody gouge across my stomach. A dozen holes through my chest. Multiple slashes to my arms and legs, that felt like they could have completely severed them. Memories flooded into my mind, of myself, in my dozens of other bodies, crawling desperately as my lifeblood flowed away from me. The pain of the wounds flooded through me, but it felt like catharsis. I was finally laying the truth out in the open. "These are the wounds your Justicars and your <em>laskueh</em> have dealt to me! Now do you see what you have done?!" I demanded. I doubled over, blood dripping from my forehead into my eyes. "I have been blinded, maimed, brought to my knees, shredded limb from limb! You tore down my temple and forced my people under the law of the Stern! Your <em>laskueh</em> have trampled over my body to make your perfect world! But I will not go down without a fight! I will tear the worlds apart before I allow myself to be erased by <em>you</em>!"
 
 "So the Waiting God is trying to erase you? And you kill the Farseer to stop it from happening?"
 
-"To <em>stop</em> you?" I said hollowly. A wave of hopelessness washed through me, dropping me to the ground and rushing in another torrent of rain, that flattened my clothes against my back and pounded through them onto my skin. The blood from my wounds pooled and seeped into the soil. "To <em>stop</em> you? I will kill you and kill you and kill you, and when I am gone, you will still be strong. My hands are empty, and I am beating against the mountain. You call me the danger?"
+All at once, a wave of hopelessness washed through me, completely turning around my pride and rage. "To <em>stop</em> you?" I said hollowly. The feelings dropped me to the ground and ushered in another torrent of rain, a torrent that flattened my clothes against my back and pounded through them onto my skin. The blood from my wounds pooled and seeped into the soil. "To <em>stop</em> you?" I moaned into the dirt. "I will kill you and kill you and kill you, and when I am gone, you will still be strong. My hands are empty, and I am beating against the mountain. You call <em>me</em> the danger?"
 
 ?????
 
