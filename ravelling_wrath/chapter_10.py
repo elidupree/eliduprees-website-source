@@ -188,15 +188,23 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 ?????
 
-"The lower gods act without thinking. The upper gods tarry in thought without taking meaningful action. Only the Stern, which stands in the middle, has the [????? balance necessary to run a society]. That is why the Stern Temple officially controls three fifths of the city, and why the Stern God ?????, despite what it lacks in raw power."
+"The lower gods act without thinking. The upper gods tarry in thought, rarely taking meaningful action. Only the Stern, which stands in the middle, has the [????? balance necessary to run a society]. That is why the Stern Temple officially controls three fifths of the city, and why –"
 
-"Lacks in raw power? I thought all the gods were equally powerful."
+"Wait a minute. Three fifths?"
 
-"No. For one, the Broken God's power vastly exceeds that of all the others. Among the others, the Waiting God has the most, but rarely uses it. Then comes the Blood God – or <em>would</em> come, had it not [????? been deprived of rejuvenation; but phrase it in a way that sounds approving]. The Stern God is second to last, and last is the Seeking, which spends its power frivolously." Justicar waved an arm, indicating the elaborate puzzles all around us.
+"The Waiting Temple has formal authority over the first layer. The Seeking Temple, the second. And the Stern Temple is based in the third layer, but also has authority over the fourth and the fifth –"
+
+"– the fifth layer, which <em>should</em> go with the Blood Temple," I said instinctively.
+
+"Which <em>did</em> belong to the Blood Temple before its collapse and dissolution." Something about that description felt completely unfair. But I couldn't figure out how to express it, so I just glared at her while she continued. "But the Blood Temple was disorganized and corrupt. As I was saying, only the Stern [????? is organized]. That is why the Stern Temple was given the lower layers, and why the Stern God maintains equal influence in the Ravelling, despite what it lacks in raw power."
+
+"Lacks in…? I thought all the gods were equally powerful!"
+
+"No. For one, the Broken God's power vastly exceeds that of all the others." That <em>did</em> sound sort of familiar. "Among the others, the Waiting God has the most, but rarely uses it. Then comes the Blood God – or <em>would</em> come, had it not [????? been deprived of rejuvenation; but phrase it in a way that sounds approving]. The Stern God is second to last, and last is the Seeking, which spends its power frivolously." Justicar waved an arm, indicating the elaborate puzzles all around us.
 
 "How come you and Yali get to know all kinds of stuff about the gods? The Blood God never told <em>me</em> anything cool."
 
-"This knowledge does not come from the Stern God directly. I simply paid attention in divinity class, [????? after I changed]."
+"This knowledge does not come from the Stern God. At least, not directly. I simply paid attention in Divinity class, [????? after I changed]."
 
 "Fuck you."
 
