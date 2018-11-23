@@ -49,6 +49,10 @@ Technically, "the Endless Maze" meant three different things. This world was the
 
 ?????
 
+Funnily enough, the bottomless pit didn't really look like it stretched off into infinity. It was still a bottomless pit, but somehow, it looked like the whole depth of the pit was right here, right in front of me. Just an infinite hole right at the tips of my fingers.
+
+?????
+
 Up to this point, I had never actually been completely alone. But now, I was in the new layer, and there was actually no one here.
 
 <em>She</em> wasn't here.
@@ -73,9 +77,25 @@ Well, if the Blood God wanted me to feel torn up about it, I wasn't going to. "O
 
 ?????
 
-[????? Feeling like the Seeking God was like a younger sibling that didn't know how to take things seriously]
+"YES!" I pumped my fist in the air. "I <em>made</em> it! No stupid [????? part of obstacle course] can stop <em>me</em>!" With a flourish, I flung open the tantalizing exit door, to reveal my reward.
 
-I was getting better at recognizing the Blood God's thoughts. [????? Examples]
+It was another obstacle course, this one full of spiral slides and upside-down whirlpools and crisscrossing columns of steam. On another day, I might have thought that was awesome. But I wasn't feeling it anymore. "Look, I did your fucking obstacle course, what more do you want?!" I yelled at the world. "You can't just make me dance all day and expect me to put up with it! Give me Yali, you asshole!" Seriously, the Seeking God was fun, but it was basically my annoying younger sibling that never knew when to shut up. There were times when you had to get serious, but it always just stubbornly kept pulling tricks.
+
+Wait a minute. I didn't <em>have</em> a younger sibling.
+
+I was getting better at recognizing the Blood God's thoughts, I realized. So that was what it thought of the Seeking God? It wasn't wrong, haha. Especially if you counted Morrow – Morrow was the Seeking God's Raveller, and "never knew when to get serious" described him perfectly.
+
+What did the Blood God think of the other gods? I cleared my mind and tried to put myself in the same mental state I'd been in when I thought that stuff about the Seeking God.
+
+I thought of the Stern God, and felt pain, hatred, resentment, and a firm heart saying <em>this is not my real enemy</em>. Interesting…
+
+I thought of the Broken God, and felt conflicting feelings, distance, and regret. A longing to be closer, but the certainty that I had stuff going on that would keep us apart.
+
+I thought of the Waiting God, and felt KILL! MURDER! DO IT NOW, TEAR HER TO PIECES BEFORE IT'S TOO LATE –
+
+"Look, I'm not going to killmurder anyone," I said out loud. I tried to probe the Blood God's thoughts about a couple more things, but now that I had set it off, it didn't want to think about anything but how mad it was. I tried to block it out and focus on the stuff that was in front of me.
+
+[????? Examples]
 
 ?????
 
