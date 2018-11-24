@@ -242,6 +242,19 @@ I smirked. "?????"
 
 "No, that's very bad. I had hoped that we could get through the whole Ravelling without the Blood God being aware of how actively you were resisting it. But now… I can feel it. Things are shifting. I think it's going to try something. And the other gods are starting to notice a change, too."
 
+?????
+
+"So, uh… me and Alchemist… we kinda –"
+
+"I know."
+
+"You do?"
+
+"Future, remember?" She smirked a little. She looked around to make sure the others weren't paying attention, then muttered, "I even did a future where I told you and them to kiss in front of me. It was, was, kinda hot."
+
+"WHAAAAAAAAT???"
+
+
  
 ''',
 },

@@ -65,6 +65,14 @@ Thinking about this was a waste of time.
 
 ?????
 
+"Ugh, just get out of the way, you stupid statues," I said dully.
+
+The statues lifted their feet and shuffled out of the way.
+
+"What the fuck," I said.
+
+?????
+
 [????? After an eternity of trudging], the statues parted to reveal the intersection with the Farseer's Path. Oddly, she was standing right there, as if she was waiting for me. And there was… another person there. The Alchemist.
 
 Something wasn't quite how I expected. Normally, when I saw her, I would run and hug her, right? I was supposed to love her? But that wasn't happening. She was just… A person. Over there. I didn't feel anything.
