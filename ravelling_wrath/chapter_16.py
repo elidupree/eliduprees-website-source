@@ -16,7 +16,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 16: ", '''<p></p>''') +'''
+  "contents": chapter_start ("Chapter 16: Soulfire", '''<p></p>''') +'''
 ?????
 
 I watched Alchemist walk away, waiting until they were fully out of sight. No matter how serious things where, I really didn't want to scare Alchemist more than I already had.
@@ -165,7 +165,16 @@ My focus shifted to the human in front of me, not the god behind her. "Waiting�
 
 "Your what?"
 
-"Your awakening of blood. It's… an important concept in Blood law. Let me see if my memories know enough to explain it. It's like, like, like, the time when you've fully realized how much of a violation it was. So, so, if someone was abused, but they're still telling themself they can pretend it didn't happen, their blood hasn't awakened to the crime yet. So the timer hasn't started for their revenge. ''',
+"Your awakening of blood. It's… an important concept in Blood law. Let me see if my memories know enough to explain it. It's like, like, like, the time when you've fully realized how much of a violation it was. So, so, if someone was abused, but they're still telling themself they can pretend it didn't happen, their blood hasn't awakened to the crime yet. So the timer hasn't started for their revenge.
+
+
+
+?????
+
+
+"I've had… an idea," said Alchemist.
+
+''',
 },
 ]
 

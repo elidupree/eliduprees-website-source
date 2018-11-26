@@ -72,9 +72,37 @@ Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how 
 
 ?????
 
+I heard yelling around me. There was Yali's voice, and… another one that I couldn't place, both shouting words I couldn't understand.
 
+?????
 
-Yali began to cry.
+My body was propped up in a sitting position against a cushion, leaning against a tree. A face loomed over me – Alchemist. Behind them, Yali stood, also looking down at me with… worry?
+
+"I think, maybe, it's working?" said Alchemist. Something sounded <em>different</em> about that sentence, but I couldn't place it. But then I realized – it was the first thing I'd been able to understand for a while.
+
+"Wath worggih?" I said. Half my mouth was still numb. [????? More details] "Wha the fuuh. Thih thuuuth."
+
+Alchemist pressed a potion into my hands. "You could, drink this? It makes, Morrow's, stuff, feel, less bad."
+
+I drank. The potion was thick and hard to swallow, and afterwards it felt like a lump in my stomach. But at least it felt like it was a lump that was going to <em>stay</em> in my stomach. A wave of cool pressure expanded though my body, clearing most of the noise from my senses. It left me feeling just <em>regular</em> exhausted.
+
+I tried to speak again. "Where's Morrow? What'd I miss?"
+
+Yali and Alchemist exchanged a look.
+
+Now that my senses were working properly, I could see them a lot better. Clearly, <em>something</em> had happened. Yali had a foul expression on her face. Alchemist had a big bruise under their eye.
+
+"Yali?" I said.
+
+Yali crouched in front of me. Her voice was strained, like she needed a lot of effort to force the words out. "When Morrow was in your mind, were you angry?"
+
+"Does that matter?"
+
+"Were you?" she demanded.
+
+"Well, okay, I <em>was</em>, but I used the skills you taught me! I –"
+
+Yali sat down and began to cry.
 
 I had always assumed that if I ever saw Yali cry, it would be dignified, like in a movie where someone sheds a single tear while staring mournfully into the distance. But it wasn't like that at all. Her face sort of scrunched up ????? [????? If Yali was crying, that meant something really bad , I was scared because , what could it even be?]
 
@@ -82,7 +110,7 @@ Not thinking of anything else to do, I turned to Alchemist. "Alchemist, what hap
 
 Alchemist's face looked like [????? nothing I'd seen before]. They ?????. I could see fear and anger wrestling inside them.
 
-?????, anger won.
+In the end, anger won.
 
 "<em>What happened</em>," Alchemist exploded, "is that <em>your girlfriend</em> beat Morrow half to death!"
 
@@ -100,13 +128,17 @@ Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you 
 
 ?????
 
+
+
+?????
+
 "I still don't see why I can't bring him a healing potion…" said Alchemist mournfully.
 
 "Because you will <em>DIE!</em>" Yali thundered, yelling in Alchemist's face.
 
 "Hey, go easy on them!" I snapped.
 
-"You think I don't want to?!" Yali roared at me. "If I <em>go easy on them</em>, they somehow convince themselves it isn't so bad! Then they go after Morrow, and motto attacks them! I've <em>Seen</em> it! Morrow is completely out of control, he doesn't stop until Alchemist's mind is DESTROYED!" She spat the last word in Alchemist's face again. Alchemist cringed away from her.
+"You think I don't want to?!" Yali roared at me. "If I <em>go easy on them</em>, they somehow convince themselves it isn't so bad! Then they go after Morrow, and Morrow attacks them! I've <em>Seen</em> it! Morrow is completely out of control, he doesn't stop until Alchemist's mind is DESTROYED!" She spat the last word in Alchemist's face again. Alchemist cringed away from her.
 
 "Holy fuck," I said.
 
@@ -123,6 +155,22 @@ Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you 
 
 ?????
 
+[????? Not sure if this chapter or the next two: Justicar avoided having the confrontation in this world because the Broken God complicates her desired confrontation; Yali also finds this world uncomfortable, while Rinn enjoys it]
+
+?????
+
+[????? Not sure where: Rinn says something implying that Yali was fine with Morrow before]
+
+"No. He put me on edge from the beginning."
+
+"But I thought –"
+
+"I didn't say anything because I wanted to make sure you got along with each other. It was a delicate balancing act, making sure none of you three blew up on each other. But if this is what happened, then that was also a…" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not."
+
+?????
+
+[????? when revealing Morrow's backstory: remember to emphasize his inherent curiousity]
+
 "He… he… never went to school? No, they sent him to school once, but the, the teachers yelled at him, called him a freak, sent him home, because, because, he, touched other children sexually. But…" [????? Yali voice/feelings] "that's a textbook sign of sexual abuse! Every Stern teacher is supposed to be trained to recognize the signs of abuse, they're supposed to –"
 
 "You think the Stern give a shit about us?" I said hotly.
@@ -133,18 +181,9 @@ Yali looked dismayed. "I, I know people don't always do what they're supposed to
 
 The words hung in the air between us.
 
-[????? Not sure if this chapter or the next two: Justicar avoided having the confrontation in this world because the Broken God complicates her desired confrontation; Yali also finds this world uncomfortable, while Rinn enjoys it]
 
 
-[????? when revealing Morrow's backstory: remember to emphasize his inherent curiousity]
 
-[????? Not sure where: Rinn says something implying that Yali was fine with Morrow before]
-
-"No. He put me on edge from the beginning."
-
-"But I thought –"
-
-"I didn't say anything because I wanted to make sure you got along with each other. It was a delicate balancing act, making sure none of you three blew up on each other. But if this is what happened, then that was also a…" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not."
 
 ''',
 },

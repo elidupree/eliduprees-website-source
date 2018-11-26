@@ -16,7 +16,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 17: ", '''<p></p>''') +'''
+  "contents": chapter_start ("Chapter 17: The Unravelling Potion", '''<p></p>''') +'''
 
 
 ''',
