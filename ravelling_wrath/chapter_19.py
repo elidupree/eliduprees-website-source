@@ -58,6 +58,10 @@ To be true to the Blood God, I would have to say the prayer with true emotion. B
 
 In the end, I settled with the Broken. [????? The Broken prayer]
 
+?????
+
+I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed.
+
  
 ''',
 },
