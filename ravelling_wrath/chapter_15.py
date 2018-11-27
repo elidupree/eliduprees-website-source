@@ -128,7 +128,7 @@ Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you 
 
 ?????
 
-
+"You said '<em>it makes Morrow's stuff feel less bad</em>'."
 
 ?????
 
@@ -152,6 +152,24 @@ Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you 
 "Well maybe he SHOULD be killed!" Yali snapped back.
 
 "No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, I'd understand that. But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but I didn't really want to say that in front of Alchemist.
+
+?????
+
+"<em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– Alchemists have all kind of powers, but they all have to do with matter! His powers work purely by magic, you can't do anything against them! And <em>you</em> –" she jabbed her thumb at me "– <em>should</em> be able to summon soulfire, but –"
+
+"What's soulfire?"
+
+"It's this, like, magic fire thing, that beats every other kind of magic. Every Blood Child has been able to summon it instinctively, <em>except for you</em>."
+
+"What the fuck, I don't want to go down in history as the least powerful Blood Child ever! Wait, never mind that, we're talking about Morrow! You said neither of <em>us</em> can protect ourselves, so what about you?"
+
+"Well, I can resist his magic long enough to get close to him. That's not one of my powers, it's just how my mind works or something. But <em>there's just one little problem with me going to help Morrow –</em>"
+
+"What's that?"
+
+"If I find him, I'll kill him."
+
+"Oh."
 
 ?????
 
