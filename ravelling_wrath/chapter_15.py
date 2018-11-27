@@ -199,7 +199,19 @@ Yali looked dismayed. "I, I know people don't always do what they're supposed to
 
 The words hung in the air between us.
 
+?????
 
+[????? While Rinn is in the middle of ranting]
+
+"Where are you going?!"
+
+"What?" I followed were Yali was looking, and saw that Alchemist was trying to slip off into the woods.
+
+"I was just writing to, maybe, take a walk? I, um, it looks like you two have, maybe, some things to work out." Yali kept glaring at them. "I promise I won't go after Morrow. I know it wouldn't be…" they shuddered. "You can look in the future if you don't believe me."
+
+Yali did look in the future. When she came back to the present, all of her sharp insistence had gone dull. "Fine. You can go."
+
+[????? last line leading into the next chapter]
 
 
 
