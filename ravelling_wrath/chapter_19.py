@@ -60,6 +60,10 @@ In the end, I settled with the Broken. [????? The Broken prayer]
 
 ?????
 
+I remembered how Rinn had talked when she was ????? the Blood God. She hadn't said "Rinn" and "the Blood God" – she had said "me" and "me".
+
+?????
+
 I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed.
 
  
