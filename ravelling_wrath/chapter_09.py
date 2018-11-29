@@ -169,7 +169,7 @@ I was about to step through the door when I noticed that it had nothing beyond i
 
 "Figured what out?"
 
-Morrow huffed irritably. "Come on, let's finish this puzzle! I bet we can get it in another go!"
+Morrow huffed irritably. Ugh, he was just like my mom, not answering questions if he thought you should know already. "Come on, let's finish this puzzle! I bet we can get it in another go!"
 
 "Fine! But if you call yourself trash again, I'm gonna smack you!" I stopped myself. I could already see where this was going. Morrow was going to call himself trash again on purpose, just to see if I would actually smack him. "Never mind, I'm not going to smack you, I'm just going to be totally fed up with your nonsense! Just a little bit, not that much! So don't even think about doing it to make me mad on purpose, it won't work!"
 
