@@ -66,7 +66,7 @@ I jumped down from the ladder. "Why are you putting the rocks like that? I mean,
 
 "Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. [????? Alchemist was barefoot, wearing clothes that looked loose and comfy] I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the land. The sand felt [????? good] between my toes. Even the stones were mostly smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
 
-I cheerfully jumped down into a sitting position next to Alchemist. "So, how do you come up with these designs?" I said, picking up one of the stones to look at it. Alchemist flinched. "Oh, uh, was I not supposed to touch that? Let me just put it back." Luckily, I remembered where to put it back. I tried to make my conversation with Alchemist, but they seemed reluctant. "I could give you some space! I mean, if that's what you'd like –"
+I cheerfully jumped down into a sitting position next to Alchemist. "So, how do you come up with these designs?" I said, picking up one of the stones to look at it. Alchemist flinched. "Oh, uh, was I not supposed to touch that? Let me just put it back." Luckily, I remembered where to put it back. I tried to make more conversation with Alchemist, but they seemed reluctant. "I could give you some space! I mean, if that's what you'd like –"
 
 "I… maybe?" I could tell they were uncomfortable, but I couldn't tell whether they were uncomfortable about saying no or uncomfortable about saying yes, Stern take it. Whatever. I wanted to check this place out anyway, see if there was any more interesting landmarks behind the fog.
 
@@ -157,11 +157,35 @@ Another nod.
 
 ?????
 
-?????
+Traveling with Alchemist was oddly comforting.
+
+After a while, it had finally sunk in that I was never going to find Yali anytime soon. I had felt defeated, bitter, like there was a yawning hole in me, an empty space where ????? should have been. But then Alchemist came and… <em>filled</em> some of that space. I didn't understand how, but somehow, it was easier to just focus on what I was doing with Alchemist than to worry about the gods. The gentle resonance of their voice was almost enough to distract me.
+
+The weirdest thing was the world around us.
+
+"Seriously, what's up with there not being any puzzles here?" I said one day. We had been wandering aimlessly through foggy landscapes for ages, only pausing occasionally to manifest a place to rest. It didn't seem like the rest of the Endless Maze at all.
+
+"I think, maybe, there are? If you just, wait, and, let them come to you?"
+
+"What the – I mean, what do you mean by that?"
+
+"One time, I, was lying down, and I saw, a shape? In the ladders, the light shining through the ladders. And then I made the shape, with the stones. And then, it gave me another shape…"
+
+"Did that lead to something?"
+
+"I forgot one of the shapes…"
+
+"Oh."
+
+"It's okay. Maybe it'll come back later."
+
+
+
+ ?????
 
 
 ?????
-
+I sat up in bed. Near me, Alchemist ?????
 
 "I heard Morrow call you Raylie earlier, is that your name?"
 
@@ -207,7 +231,12 @@ When we pulled away,
 
 [????? More time passing]
 
-????? Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was having to suppress my feelings all the time. And sure, I had to suppress some of my feelings with Yali, too, but at least Yali let me <em>be</em> angry, just as long as it wasn't at <em>her</em>.
+[????? Rinn cuddling with Alchemist]
+
+Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was having to suppress my feelings all the time. And sure, I had to suppress some of my feelings with Yali, too, but at least Yali let me <em>be</em> angry, just as long as it wasn't at <em>her</em>.
+
+That was the problem – I liked Alchemist, but they just… <em>weren't Yali</em>. Even right now, I was comfortable enough here cuddling with Alchemist in the soft cushions I'd made, but it just wasn't the same. If only I had Yali here [????? physical fantasies].
+
 
 
 ?????
