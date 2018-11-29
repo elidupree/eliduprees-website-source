@@ -237,15 +237,53 @@ Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was havi
 
 That was the problem – I liked Alchemist, but they just… <em>weren't Yali</em>. Even right now, I was comfortable enough here cuddling with Alchemist in the soft cushions I'd made, but it just wasn't the same. If only I had Yali here [????? physical fantasies].
 
+I drifted out my daydream to find that I was nuzzling up beside Alchemist's head, practically brushing my lips against their neck. I pulled back sharply. "I'm not – I didn't mean –"
 
+Alchemist sleepily laid an arm over my shoulders and tugged me back towards them.
+
+"I didn't mean to be so – intimate – I'm with Yali! I mean – we're poly, I guess –" Heat rose in my cheeks. Alchemist's big eyes drifted close to my face. "I mean, I don't like you in <em>that way</em> –" I gently pulled away again. Alchemist looked [????? sad about that, slightly reluctant to let me go]. "Wait – do <em>you</em> – how do you, uh, feel about me?"
+
+"I don't, know?"
+
+Uncertainly, I allowed Alchemist to pull me closer to them again. They laid their head beside mine, rubbing our cheeks together.
+
+<em>Fuck.</em>
+
+I <em>did</em> like Alchemist in <em>that way</em>.
+
+My feelings were a huge mess. It wasn't supposed to be Alchemist here, it was supposed to be Yali! But the gentle pressure on my cheek told a different story. My heart wanted to sink into Alchemist, to leave the rest of my worries behind. I wasn't even sure if I liked them for themselves or if I was just trying to pretend they were Yali. And I didn't know which was worse. If I just used them as a temporary substitute for Yali, that would make me an asshole! But if I pulled away, then… I'd be… so alone…
+
+Tears came into my eyes. I clung to Alchemist, clutching at the soft back of their [????? top] helplessly.
+
+?????
+
+[????? Rinn still tearful:] "What will Morrow think? About us, uh, being like this?"
+
+"Morrow won't mind."
+
+I was surprised by how confident Alchemist sounded. I had pretty much been expecting that they would just say <em>I don't know</em> again. "Are you really sure about that?"
+
+"I can feel, what, Morrow wants? He likes it when I'm, happy. Like this." Alchemist smiled involuntarily.
+
+"Woah, so, you're actually happy?"
+
+"I, I guess I am?" said Alchemist happily.
+
+"Well, uh –" I said uncomfortably. I really didn't want to lead Alchemist into expecting something that wasn't going to happen. "So, you know, right, just so you know, when I'm back with Yali, I don't know if I'll want to keep, you know…"
+
+"I know," said Alchemist.
 
 ?????
 
 [????? The Blood God being impatient, making Rinn impatient with Alchemist]
 
+[????? we came to a gorge]
+
+[????? More impatience spilling out]
+
 "I didn't mean that," I said through gritted teeth. "Look, I'm going to, uh, <em>go</em>. Like, for a walk."
 
-It hurt me to leave Alchemist on that sour note, but with all the thundering impatience in my head, I couldn't get myself to say anything gentler either. I stood up and stomped off before I could make things worse.
+It hurt me to leave Alchemist on that sour note, but with all the thundering impatience in my head, I couldn't get myself to say anything nicer either. I stood up and stomped off before I could make things worse.
 
 Not sure where to go, I picked out one of the roads that went down the side of the gorge. As I walked through the cold, damp air, it took me zigzagging back and forth, down and down into the gorge, until the fog was too thick to see my way back up.
 
