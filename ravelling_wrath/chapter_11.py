@@ -275,6 +275,8 @@ I was surprised by how confident Alchemist sounded. I had pretty much been expec
 
 ?????
 
+Being intimate with Alchemist was like having one wound healed and another wound ripped back open. [????? I also couldn't stop thinking about Yali]
+
 [????? The Blood God being impatient, making Rinn impatient with Alchemist]
 
 [????? we came to a gorge]
