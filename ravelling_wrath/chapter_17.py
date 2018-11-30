@@ -19,6 +19,12 @@ posts = [
   "contents": chapter_start ("Chapter 17: The Unravelling Potion", '''<p></p>''') +'''
 
 
+"<em>When all plans fail and all ?????, the Broken God sees a way forward,</em>" Yali intoned.
+
+"Is that a Broken saying?" I asked.
+
+"Actually, it's a Waiting saying."
+
 ''',
 },
 ]
