@@ -60,6 +60,30 @@ In the end, I settled with the Broken. [????? The Broken prayer]
 
 ?????
 
+[????? Yali becomes physically tired of moving up in, and stopped to rest]
+
+It was time to move forward with my <em>other</em> plan.
+
+If I was going to spend time studying the past, I would need to get comfortable. I manifested my familiar reclining chair and sat down. I wasn't comfortable right away. An old wound bothered me, so I shifted my position until it was more tolerable. My leg was cramped. I reclined the chair just right to let it relax. My legs itched where they had gotten warm from walking. I concentrated until the itch subsided.
+
+Finally, my body stopped interrupting my thoughts.
+
+The sun was glaring in my eyes. I had chosen an indoor spot to rest, but the sun shone through a window, and the reflection on the far wall was too bright. I manifested a folding divider wall between me and the reflection, but somehow, even the ambient light in the room was glaring in my eyes. I manifested a sleep mask to completely shut out the light. That didn't help either. Belatedly, I realized what was really happening. It wasn't the physical light that was bothering me. It was the Blood God's presence. I wouldn't be able to shut <em>that</em> out. And given what I was about to do, I wouldn't even want to. It would be better if I could be aware of it, even if it was a strain. So I unmanifested the mask and wall. Instead of shutting out the bright light, I stared into it. I waited until every part of me stopped seeing it as a source of pain, and started seeing it as a point of reference.
+
+And then, I began my task. I began to dig up the memories.
+
+
+If I wanted to know more about the Blood Temple, I would have to search among my memories for what I might know and what I didn't. I attempted to think back to any memories related to the Blood Temple. None appeared. That seemed impossible. Surely, many of the former Farseers had lived in a time when the Blood Temple was still active. Did I have memories from those years? I did. Did I have memories from Farseers who lived in the fifth layer of the city? I did. The main Blood Temple building would have been at the main square of the fifth layer. I had seen a picture of it, in an old book I had found in a back room of the Stern monastery. Could I picture a memory of that temple?
+
+Slowly, an image formed into place. The wide front door, with the Burning Heart emblazoned at the top of its arch. Echoes of the deep pounding of its drums on its festival days. Flickering images of crowds gathered in celebration or rage.
+
+The Waiting God was resisting me. It had hidden the truth for as long as it could, and it would not simply give up now. But it was not in its nature to lie, either. It had shown me a misleading story of the past, and it had lied by omission about the future. But it had never shown me a false vision, and it would not refuse to show me a memory once I asked a specific question.
+
+I kept digging. Many of the Farseers had only known of the blood Temple from a distance. A few were more promising. There was a lawyer who had argued cases in the Blood courts. [????? Other examples]
+ ?????
+
+[???? Yali planning to confront the Waiting]
+
 I remembered how Rinn had talked when she was ????? the Blood God. She hadn't said "Rinn" and "the Blood God" – she had said "me" and "me".
 
 ?????
