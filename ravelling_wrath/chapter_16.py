@@ -171,6 +171,14 @@ My focus shifted to the human in front of me, not the god behind her. "Waiting�
 
 ?????
 
+"[????? Alchemist is coming back]. I should use the Seeing to prepare."
+
+"Are you sure? When the Seeing lied to you before?"
+
+"It did not… <em>lie</em>. I will be careful, but I don't believe [????? the Waiting God will mess things up all over the place]"
+
+?????
+
 
 "I've had… an idea," said Alchemist.
 
