@@ -45,6 +45,16 @@ I was about to say something, but Yali's hand squeezed my shoulder. I clamped my
 
 "Actually, it's a Waiting saying."
 
+?????
+
+"[????? Should I use the unraveling potion?]"
+
+"That <em>is</em> what I would have told you to do, as recently as the third layer…" said Yali. "But now… I am starting to think that the Blood God <em>should</em> rejuvenate."
+
+"But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even marked Justicar as "not my real enemy". <em>Justicar!</em>
+
+Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last 70 years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose."
+
 ''',
 },
 ]
