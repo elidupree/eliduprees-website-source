@@ -71,6 +71,22 @@ Sure enough,
 
 ?????
 
+[????? Rinn tries to hold down the buttons without a human involved, and also block the flames]
+
+I manifested a ginormous anvil
+
+The flames tore right through it. It didn't even burn – it just got instantly unmanifested wherever the flames touched it.
+
+"I told you," said Justicar patiently, "the Seeking God has set its rules for these puzzles. There will not be a clever trick to bypass them."
+
+"I thought the Seeking God was the <em>god</em> of clever tricks."
+
+"And thus, it is within the Seeking God's authority to determine <em>which</em> puzzles may be answered with clever tricks, and which may not."
+
+"Hmph."
+
+?????
+
 [Probably down time where Rinn starts engaging Justicar about Justicar's beliefs]
 
 [Maybe Justicar believes that Rinn is going down the wrong path because Rinn's parents haven't been good Stern role models, so Justicar should try to be that]
@@ -212,12 +228,64 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 [????? The final puzzle where Justicar has to admit the first rule was wrong]
 
+We came to another room, much smaller than the others. I checked the map. "This is got to be the final puzzle before we get to Yali!!" I said excitedly. I could <em>.</em> Justicar being skeptical. Well, screw her anyway.
+
+The puzzle in front of us looked really simple. Justicar and I were forced into separate corridors – one that you could only enter if you jumped, and one that you could only enter if you walked through fire. On my side, there was a closed door, then a room full of perpetually roaring flames. There was also a place where the corridor branched off, but it just led to a dead end with another flamethrower in it. On Justicar's side, there was also a closed door, but in front of it, there was a button.
+
+"Guess you've got to stand on that button," I said. "I'm literally looking at a closed door here. I can't do anything. "
+
+"Understood." Justicar stood on the button. The door on <em>my</em> side slid open, and the flames disappeared from the room beyond. She stepped off again to see whether it would stay that way, but it didn't – the doorway closed again and the flames came back. Then she stepped back on.
+
+"Ooooo-kay…" I said. "I guess I'm going to walk into the fire room now. You better not step off that button."
+
+"Understood."
+
+Tentatively, I poked my feet into the room. Now that the flames were gone, I could see what was inside. But it wasn't much. On the far wall, the only exit was another closed door. In the middle of the floor, there was another button. "I guess I'm going to stand on this button," I said. "That's literally the only thing we can do. There's no way the Seeking God we give us an <em>easy</em> puzzle at this point, is there…?"
+
+Not thinking of anything else to do, I stood on the button. The door on Justicar's side slid open.
+
+<bigbreak>
+
+"This is completely useless!" I yelled in frustration. We had been talking about the puzzle for ages, but it still seemed impossible. The <em>only</em> way to open the door on Justicar's side was for me to stand on the button in the fire room. But if Justicar wanted to walk <em>through</em> that door, she'd have to step <em>off</em> the button that was turning the fire off. And then I'd be locked in the room and barbecued. That was probably bad, although it was seeming more tempting by the minute.
+
+"There must be something we've missed…" muttered Justicar.
+
+"Like what, a secret switch that lets us skip the puzzle?"
+
+"No. These puzzles are about applying the rules established rules in new ways the solver may not think of. The god would not change the rules this late in the sequence."
+
+"Wait, why not? I mean, I was being sarcastic, but maybe we actually <em>should</em> look for –"
+
+"Though it may seem random, the Seeking God does everything with a purpose. If the puzzles have built up to this point, it must have a lesson for us that is more complex than a simple deception."
+
+"Fine, but if you haven't figured out what the lesson <em>is</em>, I'm going to look for a secret switch, just in case."
+
+"Suit yourself."
+
+I searched all up and down the walls. There wasn't much to search. I felt like Morrow from the room with the clock. Eventually, I just started pacing around and stirring irritably at the various parts of the puzzle.
+
+?????
+
 "What I <em>really</em> don't get is this extra flamethrower over here on my side," I said. "It doesn't <em>do</em> anything. It's literally just down a dead end, not blocking off anything!"
 
 "In that case, it is irrelevant to the puzzle. It may be intended as a distraction."
 
 "It's out of place, though. There haven't been distractions like this before…"
 
+?????
+
+"Wait. I have an idea! Something this flamethrower could be meant for!" A thrill shot through me. I stepped towards the flames.
+ 
+"What are you doing?" said Justicar.
+
+I brought my hand close to the fire. It felt burning hot, as if getting any closer would burn my hand to cinders. But I pressed on, bringing it closer and closer. The fire stayed hot. But it <em>didn't get hotter</em>. Before long, my fingertips were brushing the edge of the flame itself, and I hadn't been burned yet. I turned my hand around, and my fingers looked fine. There wasn't a mark on them – they looked the same color as the rest of my skin.
+
+When I really concentrated, really paid attention to how they felt… they weren't even <em>warm</em>.
+
+"Stop that!" said Justicar, probably still thinking I was playing with <em>real</em> fire.
+
+I smirked. With a flourish, I jumped into the center of the flames. Then I turned around and leaned my back against the fire, stretching and yawning as if I was relaxing in a hot spring or something It actually hurt a lot, but it was worth it to watch Justicar panic. "I <em>get it now!</em>" I said. ?????
+ 
 ?????
 
 "I can't believe I went this whole way [????? acting like I was against the rules, but the very first time you stated a rule, I believed it]"
