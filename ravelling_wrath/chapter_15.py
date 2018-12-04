@@ -132,6 +132,34 @@ Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you 
 
 ?????
 
+"That's not what happened!" Alchemist lied frantically. They were such a bad liar. Seeing them trying to defend him made me even more angry.
+
+?????
+
+Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone outcropping set against the ocean waves. "Expressing Game," she said.
+
+How could she stand in my way when Morrow had done such a thing?!! My fists clenched tighter. My blades grew further, pressing against their limits. But another part of me knew that if Yali was saying that, it was serious business. And it was only the Expressing Game. Reluctantly, I tried to force my rage into words. My voice felt alien. "How DARE he! Alchemist – Alchemist TRUSTED him! What kind of a MONSTER – he's a MONSTER – I'll –"
+
+"Morrow <em>isn't here</em>," said Yali severely. "You're looking at Alchemist. How do you think you're making Alchemist feel?"
+
+I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alchemist was right in front of me! They were going to be terrified! I had to –
+
+"<em>Controlling Game,</em>" said Yali.
+
+"FINE!" Painstakingly, I forced all my blades to retract back into my skin. Once I had just my regular, small human body left, a wave of exhaustion tried to knock me down. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
+
+I heard Alchemist's shaky voice in the background. "Is, she…"
+
+Yali answered firmly. "She's under control, for now."
+
+Reluctantly, I sat back down with the two of them. Looking at Alchemist made me feel like shit. "I'm –" I began. I was about to say <em>I'm sorry</em>, but it was still just <em>so wrong</em> to apologize for wanting to defend them. "This is all so fucked," I said instead.
+
+"Morrow, isn't, that bad," said Alchemist.
+
+"What do you want me to say?" I said bitterly.
+
+?????
+
 "I still don't see why I can't bring him a healing potion…" said Alchemist mournfully.
 
 "Because you will <em>DIE!</em>" Yali thundered, yelling in Alchemist's face.
@@ -142,7 +170,9 @@ Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you 
 
 "Holy fuck," I said.
 
+"But… he loves me!" said Alchemist. "He wouldn't hurt me! Not like that!"
 
+"He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, but you can't just pretend it isn't there!"
 
 
 [????? Alchemist and Yali argue about what to do with Morrow]

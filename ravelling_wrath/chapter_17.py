@@ -71,7 +71,7 @@ When I got close, Alchemist hurried to check on Morrow. It was pretty awkward wi
 
 As Alchemist crouched over him to check his vital signs, Yali looked down at Morrow contemptfully. She frowned. "I don't believe there is any risk that I will attack him again," she said, "but things will be much easier if he is kept a good distance away from me after he wakes up."
 
-
+[????? Is this the right place for Rinn to complain about Yali hating Morrow more than Justicar?]
 
 ?????
 

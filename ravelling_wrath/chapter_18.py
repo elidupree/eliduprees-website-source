@@ -28,7 +28,11 @@ Effortlessly, I stepped into the world.
 
 ?????
 
+"Justicar will be here soon. I have some potions I'm going to drink to prepare for whatever happens. I would have brought some for you, but –"
 
+Part of me felt like saying, <em>how come I don't get any potions?</em> But it was only a small part. She could use potions if she wanted to. I didn't need any. I had myself, and that was stronger than any potion.
+
+"– because if it comes to a fight, your soulfire will purge them from your system anyway."
 
 ''',
 },
