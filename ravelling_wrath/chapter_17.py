@@ -55,6 +55,36 @@ I was about to say something, but Yali's hand squeezed my shoulder. I clamped my
 
 Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last 70 years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose."
 
+?????
+
+[????? Rinn returning with Morrow]
+
+I saw Yali and Alchemist already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new broad belt with loads of potions hanging from it. ????
+
+"What's up with all the gear?" I called out.
+
+"Preparations for when we confront Justicar," she said firmly.
+
+"Oh yeah, that's a good point."
+
+When I got close, Alchemist hurried to check on Morrow. It was pretty awkward with me still carrying him over my shoulder. "Oy, let me put him down first!" I said. I shoved Alchemist back a bit, manifested a mattress and slung Morrow down onto it.
+
+As Alchemist crouched over him to check his vital signs, Yali looked down at Morrow contemptfully. She frowned. "I don't believe there is any risk that I will attack him again," she said, "but things will be much easier if he is kept a good distance away from me after he wakes up."
+
+
+
+?????
+
+[Alchemist comes back from talking to Morrow and relates feeling bad about how Morrow feels]
+
+"I'll go talk to him," I said.
+
+Yali stiffened.
+
+"Look, he can't hurt me again even if he wanted to. He was helpless to my soulfire even when he <em>had</em> his powers. Now he's just, like, some loser."
+
+"Fine. Go. Just don't make me think about it."
+
 ''',
 },
 ]
