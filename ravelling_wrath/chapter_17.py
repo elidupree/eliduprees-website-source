@@ -29,7 +29,7 @@ Alchemist swallowed.
 
 "What if, he, didn't, <em>have</em>, his, powers?"
 
-"Is that <em>possible?</em>" I reacted.
+"But how?" I reacted.
 
 "<em>The Broken God!</em> You, Yali, said, my, alchem –, my, powers, are, <em>parts of the Broken God stored in a physical medium</em>. And the god can do it! That's what I realized! It <em>ravels</em> into me, and then it <em>unravels</em> out of me! There's part of it that does the unravelling!"
 
@@ -37,13 +37,15 @@ I was about to say something, but Yali's hand squeezed my shoulder. I clamped my
 
 "So, if, maybe, the unravelling goes into a potion? And the potion goes into Morrow?"
 
-?????
+"Is that <em>possible?</em>" I said. "I thought the Ravelling was, like, a special rule that even the gods have to follow! Like, the Blood God wouldn't even need to kill anyone if it could just 'unravel' the Farseer – one god shouldn't be able to remove a <em>different</em> god's threads –"
 
-"<em>When all plans fail and all ?????, the Broken God sees a way forward,</em>" Yali intoned.
+"If any god can do it, it's the Broken God," said Yali. "<em>When all plans fail and all ?????, the Broken God sees a way forward,</em>" she intoned.
 
 "Is that a Broken saying?" I asked.
 
 "Actually, it's a Waiting saying."
+
+"Oh duh, it refers to plans, haha."
 
 ?????
 

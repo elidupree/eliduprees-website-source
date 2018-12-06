@@ -235,13 +235,13 @@ When we pulled away,
 
 Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was having to suppress my feelings all the time. And sure, I had to suppress some of my feelings with Yali, too, but at least Yali let me <em>be</em> angry, just as long as it wasn't at <em>her</em>.
 
-That was the problem – I liked Alchemist, but they just… <em>weren't Yali</em>. Even right now, I was comfortable enough here cuddling with Alchemist in the soft cushions I'd made, but it just wasn't the same. If only I had Yali here [????? physical fantasies].
+That was the problem – I liked Alchemist, but they just… <em>weren't Yali</em>. Even right now, I was comfortable enough here cuddling with Alchemist in the soft cushions I'd made, but it just wasn't the same. I missed Yali's big strong arms around me… Her lips, her wide soft cheeks… If only I had her here right now, she could ruffle my hair, squish me under her weight… I imagined her squishing me, pressing into me like she had when we wrestled on that one day before the Ravelling. That was how life should be. Why wouldn't they let us have that?
 
 I drifted out my daydream to find that I was nuzzling up beside Alchemist's head, practically brushing my lips against their neck. I pulled back sharply. "I'm not – I didn't mean –"
 
 Alchemist sleepily laid an arm over my shoulders and tugged me back towards them.
 
-"I didn't mean to be so – intimate – I'm with Yali! I mean – we're poly, I guess –" Heat rose in my cheeks. Alchemist's big eyes drifted close to my face. "I mean, I don't like you in <em>that way</em> –" I gently pulled away again. Alchemist looked [????? sad about that, slightly reluctant to let me go]. "Wait – do <em>you</em> – how do you, uh, feel about me?"
+"I didn't mean to be so – intimate – I'm with Yali! I mean – we're poly, I guess –" Heat rose in my cheeks. Alchemist's big eyes drifted close to my face. "I mean, I don't like you in <em>that way</em> –" I gently pulled away again. Alchemist's arm stayed around me, not quite limp, reluctant but allowing me to go. But before I pulled all the way, a heavy hesitation settled over me. I couldn't bear to do it. All of a sudden, Alchemist looked so sad and lonely… "Wait –" I said. "Do <em>you</em> – how do you, uh, feel about me?"
 
 "I don't, know?"
 
@@ -275,9 +275,13 @@ I was surprised by how confident Alchemist sounded. I had pretty much been expec
 
 ?????
 
-Being intimate with Alchemist was like having one wound healed and another wound ripped back open. [????? I also couldn't stop thinking about Yali]
+Being intimate with Alchemist was like having one injury healed and another injury ripped back open. ?????. But the more we touched, the more I couldn't stop thinking about Yali, too. [????? I also couldn't stop thinking about Yali]
+
+And the more I thought about Yali, the more it woke up the <em>other</em> part of me, too.
 
 [????? The Blood God being impatient, making Rinn impatient with Alchemist]
+
+[????? doesn't feel right to make you support us adults]
 
 [????? we came to a gorge]
 
