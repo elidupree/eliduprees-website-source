@@ -281,6 +281,8 @@ And the more I thought about Yali, the more it woke up the <em>other</em> part o
 
 [????? The Blood God being impatient, making Rinn impatient with Alchemist]
 
+[???? worry about forgetting Yali for Alchemist?]
+
 [????? doesn't feel right to make you support us adults]
 
 [????? we came to a gorge]
@@ -297,7 +299,41 @@ As I walked, I thought about ?????
 
 ?????. If only I didn't have the Blood God looking over my shoulder all the time.
 
-"You are <em>not me</em>," I shouted into the void. "I don't care what you want! I don't care about your fucking murder quest! And I'm sick of you trying to take away my chance to enjoy being with Alchemist when there's nothing we can even do anyway! And so, I am going to go back up there, and be everything Alchemist wants me to be! I will treat them like an absolute princess! I mean, a… whatever the non-binary equivalent of princess is! A prince… uh… whatever, actually even if they were a dude I'd still say I was going to treat them like a princess! So that's what I'm going to do! You hear me?!"
+"You are <em>not me</em>," I shouted into the void. "I don't care what you want! I don't care about your fucking murder quest! And I'm sick of you trying to take away my chance to enjoy being with Alchemist when there's nothing we can even do anyway! And so, I am going to go back up there, and be everything Alchemist wants me to be! I will treat them like an absolute princess! I mean, a… whatever the non-binary equivalent of princess is! A princ… uh… whatever, actually even if they were a dude I'd still say I was going to treat them like a princess! So that's what I'm going to do! You hear me?!"
+
+?????
+
+[????? Alchemist took a walk and then didn't come back and then I went and found them crying]
+
+"If you need some space away from me, I can –"
+
+"It's not that…"
+
+"Okay, then, what is it? Come on, talk to me."
+
+"This doesn't… feel right." Alchemist went quiet for a while. I stayed quiet to let them continue. "I can tell, you, have been trying, so hard, too, care for me. And Morrow, told me, how, you, maybe, fought so hard, too, keep him safe ?????. Having you work so hard, for us… it just, doesn't feel right."
+
+"But… I care about you!
+
+?????
+
+"But you're so young. Me and Morrow…"
+
+"Don't turn all Stern on me! I can make my own decisions!" I snapped. "How the fuck old are you, anyway?"
+
+"I'm twenty…" I had assumed Alchemist was older than me, so that wasn't too surprising. "Morrow's twenty-five."
+
+"You kidding me?! No way! He doesn't <em>look</em> twenty-five. He doesn't <em>act</em> twenty-five. And how the fuck did you even get him to tell you how old he was?"
+
+"I, didn't? He, didn't, tell me. It was… the shows he referred to, ?????. He was… so… upset, when I realized. He made me promise not to tell anyone…" Alchemist cringed. "Oh… I forgot…"
+
+"Don't worry, he won't hear about it from me." Alchemist stared at me. "Wait, shit." Morrow was going to read Alchemist's mind, and then he'd find out that Alchemist had told me <em>and</em> that I'd tried to cover it up. "I mean, just don't think about it when he's around!"
+
+"Oh…"
+
+<em>Yeah, great job, Rinn. Great advice.</em>
+
+
 
 ?????
 
@@ -325,7 +361,7 @@ I smirked. "?????"
 
 "Future, remember?" She smirked a little. She looked around to make sure the others weren't paying attention, then muttered, "I even did a future where I told you and them to kiss in front of me. It was, was, kinda hot."
 
-"WHAAAAAAAAT???"
+"WHAAAAAAAAT???" Oh gods, I had forgotten how hardcore Yali was. Suddenly it came rushing back – all my feelings about how much she blew me away. I had, like, NOTHING to worry about as far as forgetting her for Alchemist, haha.
 
 
  
