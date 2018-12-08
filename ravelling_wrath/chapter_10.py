@@ -89,6 +89,16 @@ The flames tore right through it. It didn't even burn – it just got instantly 
 
 [Probably down time where Rinn starts engaging Justicar about Justicar's beliefs]
 
+"In truth, very few who claim to follow the Stern truly uphold its ideals."
+
+"I bet <em>you</em> do, though," I said sarcastically.
+
+"It would be arrogance for me to claim that I am certain of my own virtue –"
+
+"Oh, quit being humble and tell the truth. You think you're hot shit. You're some kind of perfect Stern stick-in-the-mud –"
+
+"I am far from perfect," said Justicar severely.
+
 [Maybe Justicar believes that Rinn is going down the wrong path because Rinn's parents haven't been good Stern role models, so Justicar should try to be that]
 
 "I was not so different from you once. I [????? thought the world belonged to me? Multiple examples]."
@@ -98,7 +108,13 @@ The flames tore right through it. It didn't even burn – it just got instantly 
 
 "parties with underage drinking"
 
-"Sure, I've been to some of those. Only we didn't call them 'parties with underage drinking', we called them 'parties'." I manifested a glass of beer and whooped. I was mostly just messing with her, though. [????? Oops, this has to be past tense narration?: "The truth is, I hardly ever drink alcohol. Look at me – I'm tiny. I go from zero to wasted in, like, ONE beer."] The first time I had ever gotten drunk, I had tried to kiss an older girl – and <em>missed</em>, and smashed my face into the table next to her. At least, that's what I heard from the other girls who had to take care of me and drive me home, while I kept hitting on them even though I couldn't sit up straight and had a huge bruise on my face. So a couple weeks later I went back to the next party with the same crowd, and that time I stayed completely sober while I went up to the same girl and started making out with her in front of everyone. And then she had taken me up to her room, and… haha, good times.
+"Sure, I've been to some of those. Only we didn't call them 'parties with underage drinking', we called them 'parties'." I manifested a glass of beer and whooped. I was mostly just messing with her. Normally, getting drunk just made me feel bad. But now… I felt plenty shitty already. I was stuck between Justicar's preaching on one side and the Blood God's grinding impatience on the other. I felt like my head was full of voices yelling at me from all sides. Maybe the alcohol would make them all just <em>shut up</em> for once. I downed my beer angrily, then followed it up with another. As I filled the glass a third time, Justicar put her hand on my wrist and stopped me.
+
+The beer sat uncomfortably in my belly. Stern take it, I should have thought about the fact that I was technically drinking on an empty stomach. And I couldn't stand how Justicar was looking at me. As much as I had gotten a kick out of making her think I was a heavy drinker, I was kind of regretting it now. "I, uh, I don't usually do this," I said awkwardly. "The truth is, I hardly ever actually drink. Look at me – I'm tiny. I go from zero to wasted in, like, ONE beer." The first time I had ever gotten drunk, I had tried to kiss an older girl – and <em>missed</em>, and smashed my face into the table next to her. At least, that's what I heard from the other girls who had to take care of me and drive me home, while I kept hitting on them even though I couldn't sit up straight and had a huge bruise on my face. So a couple weeks later I went back to the next party with the same crowd, and that time I stayed completely sober while I went up to the same girl and started making out with her in front of everyone. And then she had taken me up to her room, and… haha, good times.
+
+"You can use manifesting to stop being drunk," said Justicar.
+
+"Well, I've come this far."
 ?????
 
 "I had sex with many different men."
@@ -154,6 +170,19 @@ Up to this point, I had mostly just been messing with her. But [????? this was s
 "?????? Of course I'm never going to do ?????! That shit fucks you up! I mean, not that you're fucked up because you did ?????. <em>You're</em> fucked up for completely unrelated reasons," I said, jabbing my finger into the chest plate of her armor. "Ow, that hurts."
 
 "Please stop being drunk," said Justicar wearily.
+
+"Yeah, orrrrrrrr, <em>you</em> could <em>start</em> being drunk," I said. I manifested a wine glass and pressed it to her lips.
+
+Justicar's hand struck the glass violently, shattering it to pieces.
+
+"Woah…" Fuck, I was really drunk now. Belatedly, I pulled my hand away. It was bleeding from the broken glass, but I didn't really feel it. Languidly, I looked up at Justicar, and saw her shaking with anger. "What's the matter?" I mumbled.
+
+"You will not take away the life I have taken back!" she shouted. A bright white light blazed from her in all directions, stabbing at my eyes and feeling like it was shining right through my chest. My drunkenness was stripped away from me, my mind forced to clear again. "Now heal your hand and stop this foolishness!" she ordered.
+
+"Fine!" I made my cuts close. "But seriously, what is your problem? Why'd you have to –"
+
+"You have no idea how much I have had to sacrifice to get away from that life! [????? Big story about her parents action]"
+
 
 ?????
 
@@ -256,7 +285,7 @@ Not thinking of anything else to do, I stood on the button. The door on Justicar
 
 "Wait, why not? I mean, I was being sarcastic, but maybe we actually <em>should</em> look for –"
 
-"Though it may seem random, the Seeking God does everything with a purpose. If the puzzles have built up to this point, it must have a lesson for us that is more complex than a simple deception."
+"Though it may seem random, the Seeking God does everything with a purpose. If the puzzles have built up to this point, it must have a lesson for us that is more complex than a simple deception. It would waste the potential of the situation."
 
 "Fine, but if you haven't figured out what the lesson <em>is</em>, I'm going to look for a secret switch, just in case."
 
@@ -284,11 +313,44 @@ When I really concentrated, really paid attention to how they felt… they weren
 
 "Stop that!" said Justicar, probably still thinking I was playing with <em>real</em> fire.
 
-I smirked. With a flourish, I jumped into the center of the flames. Then I turned around and leaned my back against the fire, stretching and yawning as if I was relaxing in a hot spring or something It actually hurt a lot, but it was worth it to watch Justicar panic. "I <em>get it now!</em>" I said. ?????
+I smirked. With a flourish, I jumped into the center of the flames. Then I turned around and leaned my back against the fire, stretching and yawning as if I was relaxing in a hot spring or something. It actually hurt a lot, but it was worth it to watch Justicar panic. "I <em>get it now!</em>" I said. ?????
+
+?????
+
+And it wasn't even just that I would have to <em>walk</em> into the flames. <em>I</em> didn't have to do anything except stand in the middle of the fire room helplessly, while <em>Justicar</em> had to turn it on.
+
+Justicar must have realized the same thing, because she immediately tensed up. "That cannot be what we have to do! There must be something else!"
+
+?????
+
+"But if it is only an illusion…"
+
+"Actually, it still hurts a lot. I was just pretending earlier."
+
+"Then there must be another way!"
+
+I grinned savagely. "No, there isn't! You said it yourself! If there was a way to get out of this, it would <em>waste that potential of the situation</em> –"
+
+Justicar glared at me.
+
+"I take back everything bad I ever said about the Seeking God, this is great! You're going to have to admit that you were wrong! You were wrong from the very beginning!"
+
+Justicar sighed. "If it comes to that, do you think I will have difficulty admitting that I was wrong? No one can be correct every time. The Stern asks that we remain humble and ?????"
+
+?????
+
+Justicar closed her eyes. With a strained voice, she recited, "<em>Let me strike when I must strike, even if it costs my life; but let me yield when I must yield, even if it costs my pride.</em>"
+
+"Oh, get on with it," I said. I knew I was safe, but just standing here waiting to be torched was giving me the jitters.
+
+
  
 ?????
 
-"I can't believe I went this whole way [????? acting like I was against the rules, but the very first time you stated a rule, I believed it]"
+"But there is something I wonder," said Justicar dourly. "These puzzles were constructed for both of us.
+
+I smirked. "Nah, it just means I was right all along! I'm the one who thought, uh…" Actually, when I thought about it, I hadn't really disagreed with Justicar about anything. I had just sort of… gone along with… "Oh. My. GODS!! I can't believe it, I seriously can't believe it! I've gone this entire way, this ENTIRE way, acting like I hate the rules, like I think they're all bullshit! But when you told me what you thought the rules were – the <em>very first time you told me</em> – I BELIEVED you! I could have checked any time I wanted! I could have stuck my hand in the fire whenever I wanted to, and then I could have skipped past all the puzzles! But the Seeking God <em>knew</em> I wouldn't do it! It knew I would just –" the words came reluctantly to my lips "– <em>trust</em> you."
+
 
 ?????
 
