@@ -361,7 +361,7 @@ I smirked. "?????"
 
 "Future, remember?" She smirked a little. She looked around to make sure the others weren't paying attention, then muttered, "I even did a future where I told you and them to kiss in front of me. It was, was, kinda hot."
 
-"WHAAAAAAAAT???" Oh gods, I had forgotten how hardcore Yali was. Suddenly it came rushing back – all my feelings about how much she blew me away. I had, like, NOTHING to worry about as far as forgetting her for Alchemist, haha.
+"WHAAAAAAAAT???" Oh gods, I had forgotten how hardcore Yali was. Suddenly it came rushing back – all my feelings of how much she blew me away. I had, like, NOTHING to worry about as far as forgetting her for Alchemist, haha.
 
 
  
