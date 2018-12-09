@@ -154,6 +154,9 @@ A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be c
 
 "Haha! Better luck next time!" Morrow ran on ahead. I hurried to keep up with him.
 
+
+????? [????? summary of other riddles]
+
 The next room was just an empty room, at first. I crossed it and tried to open the door at the other side, but it was locked, of course. When I looked back, the door behind us also slammed closed. Typical. In the middle of the room, two waist-high pedestals rose from the floor.
 
 "Okay, fine," I said. I stepped up to one of the pedestals. When I stood near it, it lit up and hummed. Morrow tried poking at it, but it didn't react until he went and stood in front of the <em>other</em> pedestal. And then the real game began.
