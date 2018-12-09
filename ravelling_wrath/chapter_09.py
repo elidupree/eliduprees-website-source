@@ -120,9 +120,9 @@ Morrow blinked. "Alchemist! Have you seen Alchemist??"
 
 "Uh…"
 
-"Whatever, you don't understand. Come on!" Morrow rolled to his feet, waving for me to follow him. I jumped up and ran after him. He was probably just going to lead me on a wild goose chase, but the alternative was my own wild juice chase after Yali, and I didn't have any idea where I was going either.
+"Whatever, you don't understand. Come on!" Morrow rolled to his feet, waving for me to follow him. I jumped up and ran after him. He was probably just going to lead me on a wild goose chase, but the alternative was my own wild goose chase after Yali, and I didn't have any idea where I was going either.
 
-We weaved in and out between some floating curtains, quickly losing all sense of which way would come from. Pushing past the dozenth curtain, we found ourselves in front of a huge wooden gate.
+We weaved in and out between some floating curtains, quickly losing all sense of which way we'd come from. Pushing past the dozenth curtain, we found ourselves in front of a huge wooden gate.
 
 The gate didn't have any handles on it. "How're we going to open this?" said Morrow.
 
@@ -154,12 +154,51 @@ A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be c
 
 "Haha! Better luck next time!" Morrow ran on ahead. I hurried to keep up with him.
 
-In the next room, there was ?????
+The next room was just an empty room, at first. I crossed it and tried to open the door at the other side, but it was locked, of course. When I looked back, the door behind us also slammed closed. Typical. In the middle of the room, two waist-high pedestals rose from the floor.
 
+"Okay, fine," I said. I stepped up to one of the pedestals. When I stood near it, it lit up and hummed. Morrow tried poking at it, but it didn't react until he went and stood in front of the <em>other</em> pedestal. And then the real game began.
 
-????
+The whole room lit up with carnival lights. The walls were covered with a projection of the farmyard scene. On the top of my pedestal, four icons appeared: a cow, a sword, a ?????, and a spaceship. It looked like Morrow had similar icons on his. "I think we're supposed to match the icon to the scene!" I said. We both touched the cow icon. A spinning hologram of a cow popped up from each pedestal, with a cheering sound. Moments later, the walls changed to a ocean scene and four new icons popped up.
 
-"Will you stop that!" I yelled at the god. "It's not cool to push someone's buttons just for your fucking puzzle! I've had enough of this!" I charged at the exit door and stabbed a Blood Blade into it. It cut through the door like it was a piece of cheese. I slashed it a few more times, completely taking it to pieces.
+"Haha, this is just like a game show!" I said. "Better watch out, I'll beat you!"
+
+We answered the next dozen questions really fast. A lot of them were easy prompts like the first one – it showed us the ocean and you were supposed to pick a fish, and ????? and you were supposed to pick a ?????, and stuff like that. Some of them were trickier – one time the scene was a graveyard and the answer was a sausage, because it was the only at one of the icons that was technically dead.
+
+Before long, Morrow got one wrong. A buzzer sounded, the pedestals went dark and the room was empty again. I pumped my fist in the air. "Haha! I won! Take that!"
+
+"I'm bored of this game, what's next??" said Morrow.
+
+But the room didn't show us what was next. The exit door was still locked. After about fifteen seconds, the pedestals hummed and glowed again.
+
+"Wait a minute…" I said.
+
+It turned out that it wasn't a competition at all. We had to <em>both</em> get the answer right, or it would set us back and make us do the last few scenes over again. Or, as we found out pretty soon, we could both get the same <em>wrong</em> answer, and it would still count. We just had to pick the <em>same</em> answer. I tried to take advantage of that rule by telling my answer to Morrow every time, but he said that was boring and stopped listening to me. Well, I couldn't argue with that.
+
+Finally, something popped up that was different than the others. The scene around us was a trash heap, full of absolutely disgusting piles of shit and toxic waste. Even if you <em>liked</em> playing in junk heaps, you wouldn't like this one. But the answers on the pedestal weren't, like, random objects, like usual. One of them was a picture of me. One was a picture of Morrow. One was a picture of me <em>and</em> Morrow. And the last one was a couch.
+
+Well, at least a couch <em>could</em> be trash. Feeling a little uncomfortable, I pressed the couch. As usual, a hologram of a couch popped up above my pedestal. But then the buzzer sounded. I looked towards Morrow, and saw that <em>his</em> choice had been… Morrow.
+
+"What the fuck!" I yelled. "Why would you pick that?"
+
+Morrow snickered.
+
+Whatever, it wasn't my problem if he had a messed up sense of humor. I waited for the game to come back. Before long, we get back to the same question. This time, the picture of Morrow was dark – you couldn't even select it. Well, now Morrow would <em>have</em> to pick the reasonable – no, wait, he was probably going to pick the picture of <em>me</em>, just to mess with me. I kind of wanted to pick that one myself, to one-up him. But it just didn't seem right to call myself trash. I reluctantly picked the couch again.
+
+The buzzer sounded. This time, Morrow had picked the picture of <em>both</em> of us.
+
+I gave him a look. What was up with him? The first time, I had thought he was just joking, but this wasn't even the answer that would have been funny. "How much do you want to call yourself trash? You'd rather call <em>me</em> trash than just <em>not</em> call yourself trash?!"
+
+"But I AM trash," said Morrow, grinning a distorted, comically wide grin.
+
+"No, you're not."
+
+"Oh? Oh?" said Morrow tauntingly. "You think you know something about me, huh?"
+
+"Oh shut up. I WOULD know something about you if you'd ever TELL me anything about yourself – " The game came back on.
+
+The last few scenes were getting pretty repetitive. Pretty soon, we were at the trash heap again. This time, there were only two possible answers. The second one was the couch, as usual. The first one was the city's sacred crest and the three main temples, their towers gleaming in the sunlight, along with all their holy regalia, and below them, a great feast laid out, with the poor and downtrodden receiving blessings and eating gratefully from the table, and at the very bottom, a tiny picture of Morrow.
+
+I instantly saw what was going to happen. Before Morrow could move, I smashed my fist into the center of the pedestal, forfeiting the game immediately. "Will you stop that!" I yelled at the god. "It's not cool to poke at someone's insecurities just for your fucking puzzle! I've had enough of this!" I charged at the exit door and stabbed a Blood Blade into it. It cut through the door like it was a piece of cheese. I slashed it a few more times, completely taking it to pieces.
 
 I was about to step through the door when I noticed that it had nothing beyond it. Literally nothing. It was just a doorway going into empty space. Behind me, I heard Morrow snickering.
 
@@ -169,13 +208,13 @@ I was about to step through the door when I noticed that it had nothing beyond i
 
 "Figured what out?"
 
-Morrow huffed irritably. Ugh, he was just like my mom, not answering questions if he thought you should know already. "Come on, let's finish this puzzle! I bet we can get it in another go!"
+Morrow huffed irritably. Ugh, he was just like my mom, not answering questions if he thought you should know already. Before I could complain again, he yelled out, "Come on, let's finish this puzzle! I bet we can get it in another go!"
 
 "Fine! But if you call yourself trash again, I'm gonna smack you!" I stopped myself. I could already see where this was going. Morrow was going to call himself trash again on purpose, just to see if I would actually smack him. "Never mind, I'm not going to smack you, I'm just going to be totally fed up with your nonsense! Just a little bit, not that much! So don't even think about doing it to make me mad on purpose, it won't work!"
 
 "Fine!" said Morrow. We glared at each other. I wasn't even <em>that</em> mad at him. But he had already been a handful in the first layer, and now we were basically in Morrow Theme Park.
 
-
+?????
 
 [????? The only thing I could see was] a clock inset into one of the walls.
 
@@ -203,7 +242,7 @@ I could tell denial when I saw it. I leaned back, crossed my arms, and watched h
 
 "I'm NOT trapped in a room," Morrow moaned, curled up in the corner, tears streaming down his face. "I'm in a floating castle. With streamers everywhere. Everyone's happy…"
 
-"Dude…" I wasn't sure what to say. Whatever was going on with him, he sure didn't look like he was having a good time. I wanted to say something sympathetic. But I just had no idea how to start. "I'm not good at dealing with mental health issues –" I began. Shit, that hadn't come out right. "I mean –"
+"Dude…" I wasn't sure what to say. Whatever was going on with him, he sure didn't look like he was having a good time. It was way past the point where it would be fun to make fun of him. I wanted to say something sympathetic. But I just had no idea how to start. "I'm not good at dealing with mental health issues –" I began. Shit, that hadn't come out right. "I mean –"
 
 "I'm NOT a PSYCHO!!" Morrow snarled at me from the floor.
 
@@ -215,7 +254,7 @@ I could tell denial when I saw it. I leaned back, crossed my arms, and watched h
 
 "Make it stop, help me, make it stop," he sobbed. "Help me!!"
 
-"You sure about that?" I said irritably. "Because, literally ten seconds ago, you said –" I stopped myself. <em>Calming Game, Rinn.</em> It wasn't his fault if he was doing stupid shit. What I really wanted was to tell him something reassuring. But I wasn't very good at reassuring people about emotional stuff, even under normal circumstances. Ugh, what would Layo do? "Uh, do you want to talk about anything?" I said.
+"You sure you want help?" I said irritably. "Because, literally ten seconds ago, you said –" I stopped myself. <em>Calming Game, Rinn.</em> It wasn't his fault if he was doing stupid shit. What I really wanted was to tell him something reassuring. But I wasn't very good at reassuring people about emotional stuff, even under normal circumstances. Ugh, what would Layo do? "Uh, do you want to talk about anything?" I said.
 
 Predictably, that didn't do any good.
 
@@ -233,7 +272,7 @@ I <em>could</em> have just kept holding onto him for the next eight hours. That 
 
 "What game?!"
 
-"Uh…" I hadn't thought that far ahead. Normally I could just manifest any board game I can think of, but of course that didn't work now. I stuck my hands in my pockets to see if I was carrying anything we could use as game pieces. But the only thing I pulled out was my phone, of course. "Hey, do you have games on your phone that you could play?"
+"Uh…" I hadn't thought that far ahead. Normally I could just manifest any board game I could think of, but of course that didn't work now. Still holding onto Morrow with one hand, I stuck my other hand in my pocket to see if I was carrying anything we could use as game pieces. But the only thing I pulled out was my phone, of course. "Hey, do you have games on your phone that you could play?"
 
 I carefully allowed Morrow to take out his phone. He swiped through it aggressively. "I've already played all these!!"
 
@@ -305,7 +344,7 @@ Before long, Morrow was… not exactly <em>calm</em>, but a lot less frantic.
 
 "This is the only room we've got!!" complained Morrow.
 
-"I'm only joking, I don't really mind it. Get ahead and do whatever you want. Haha, I wouldn't mind even if you wanted to have sex in here –" What the furk was I saying? Well, I couldn't go back on it now. Time for the Rinn Akatura show, I guess. "It would be like the mile high club, except instead of being in an airplane you're in a –" <em>Wait, I shouldn't remind Morrow of where we are</em> "– I mean, hang on, if we don't have to eat, and we can heal all our injuries, does that mean we can't catch STDs? And, like, I don't know if pregnancy is the thing you two have to worry about, but –"
+"I'm only joking, I don't really mind it. Get ahead and do whatever you want. Haha, I wouldn't mind even if you wanted to have sex in here –" What the fuck was I saying? Well, I couldn't go back on it now. Time for the Rinn Akatura show, I guess. "It would be like the mile high club, except instead of being in an airplane you're in a –" <em>Wait, I shouldn't remind Morrow of where we are</em> "– I mean, hang on, if we don't have to eat, and we can heal all our injuries, does that mean we can't catch STDs? And, like, I don't know if pregnancy is the thing you two have to worry about, but –"
 
 [????? Needs further consideration: "It does," said Morrow. Weirdly, he started talking in a completely matter-of-fact voice. "Some people come to the Otherworld to fuck because you're immune to disease and you don't have to get pregnant 'less you want to. It's not worth it because the portals are expensive and unsafe."]
 
