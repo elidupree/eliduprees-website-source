@@ -103,6 +103,8 @@ I thought of the Waiting God, and felt KILL! MURDER! DO IT NOW, TEAR HER TO PIEC
 
 [????? Examples]
 
+[????? whirlpool room: manifesting rules]
+
 ?????
 
 
