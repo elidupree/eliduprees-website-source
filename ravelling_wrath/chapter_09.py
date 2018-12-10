@@ -73,7 +73,13 @@ Nothing answered me. Not sure what I was expecting.
 
 Well, if the Blood God wanted me to feel torn up about it, I wasn't going to. "Okay, so maybe <em>Yali</em> isn't here now, but I'll have plenty more chances. I mean, we're gonna be together forever! Someday I'll be 80, and she'll be 81, and if there's anything we forget to do now, we can just do it then!" I felt kind of like I was lying to myself, stepping on my own toes just to spite the god. But it did make me feel better.
 
+?????
 
+Peeking around the corner, my vision was suddenly filled with blackness – a huge empty space like the bottomless pits from the earlier. Stretching into the blackness, a jumble of blocky shapes and ladders hovered in front of me, each one floating in space with no supports, surrounded by emptiness in all directions. It was like a giant obstacle course, and if I missed a jump, I'd fall into a pit. It didn't actually feel scary, though. It felt more like someone had just painted "bottomless pit" onto a floor that was right under them. So I eagerly started jumping and swinging across.
+
+The first bit was easy. But then, as I jumped from and ????? to an ?????, the world suddenly zoomed off sideways. The direction of gravity had changed while I was in midair! I flailed as I fell into infinite space. But I had scarcely fallen by a meter when I found myself landing on my hands and knees back at the beginning of the obstacle course.
+
+It turned out I could try the course as many times as I wanted. Each time I fell into a pit, I just landed back at the beginning. It took me a few more tries to get the next jump right, picking the right angle and timing to compensate for the gravity change. I ended up jumping off the edge of one big block, then landing on the side of the same block, which was now acting like a floor. Now everything was sideways. What had been a ladder earlier was now a set of monkey bars.
 
 ?????
 
@@ -219,13 +225,23 @@ Morrow huffed irritably. Ugh, he was just like my mom, not answering questions i
 
 ?????
 
-[????? The only thing I could see was] a clock inset into one of the walls.
+?????
 
-The clock was running at a normal pace. It had a simple, blocky hour hand, and similar hands for minutes and seconds. The only unusual thing was a mark on the ????. "That's eight hours from now," I said.
+and found myself in a tiny gray room.
+
+I looked around. Everything was gray. The walls were gray. The floor was the same color of gray. The ceiling was, you guessed it, the same gray again. The door we had come in through was… completely gone, turned into just another section of gray wall. In the gray lighting, even me and Morrow looked a bit grayer than usual.
+
+Other than us, the only thing in the whole room was a clock inset into one of the walls.
+
+The clock was running at a normal pace. It had a simple, blocky hour hand, and the same for minutes and seconds. The only unusual thing was a mark on the clock face, a curve starting at the tip of the hour hand.
+
+"That curve! That's where the hours moves! It'll finish the curve in a buncha hours –"
+
+"Yeah, eight hours," I said tiredly. Morrow always seemed to solve the puzzles before me, so I had resigned myself to just adding whatever information I could so I didn't feel totally useless.
 
 "Betcha that means we've got eight hours to solve the puzzle!"
 
-"Yeah, but… what puzzle?" I looked around the room. It was probably big enough that we could have lain down next to each other, but just barely.
+"Yeah, but… what puzzle?" I looked around the room again. It was probably wide enough that we could both lie down on the floor at once, but just barely.
 
 "Okay, maybe the clock is the puzzle!" Morrow tried to take it down from the wall, but it didn't work. The clock was inset into the wall, and it was covered by a glass panel that was completely smooth with the surface of the wall. Morrow tried to dig his fingernails under it, but they just slid straight from the wall to the glass without catching anywhere.
 
@@ -233,7 +249,7 @@ The clock was running at a normal pace. It had a simple, blocky hour hand, and s
 
 It was hard to imagine that we could have missed anything. The room was literally just a rectangle with neutral gray walls on all sides. To humor him, I checked the ceiling, and I even checked under my feet, but there was nothing special.
 
-Morrow ?????, beating and scratching at the walls to see if there was any weakness. He was clearly looking for something that wasn't there. Mentally, I took a step back. There was definitely <em>something</em> we were missing, but it wasn't a literal, physical thing in this room. It was something about the whole situation. The Seeking God <em>seemed</em> random, but it always had a purpose. Why would it stick us in a blank room like this?
+Morrow searched furiously, beating and scratching at the walls to see if there was any weakness. [???? unable to manifest] He was clearly looking for something that wasn't there. Mentally, I took a step back. There was definitely <em>something</em> we were missing, but it wasn't a literal, physical thing in this room. It was something about the whole situation. The Seeking God <em>seemed</em> random, but it always had a purpose. Why would it stick us in a blank room like this?
 
 "Oh, <em>I</em> get it now," I said, realization dawning. "The puzzle is <em>us</em>. The puzzle is how we're gonna handle being stuck in a room with each other for eight hours."
 
