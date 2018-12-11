@@ -233,6 +233,10 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 ?????
 
+"Your precious principles destroy people's LIVES, Justicar! Don't you dare call me the evil one!"
+
+?????
+
 "The lower gods act without thinking. The upper gods tarry in thought, rarely taking meaningful action. Only the Stern, which stands in the middle, has the [????? balance necessary to run a society]. That is why the Stern Temple officially controls three fifths of the city, and why –"
 
 "Wait a minute. Three fifths?"
@@ -251,7 +255,7 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 "This knowledge does not come from the Stern God. At least, not directly. I simply paid attention in Divinity class, [????? after I changed]."
 
-"Fuck you."
+"Fuck you too."
 
 ?????
 
