@@ -233,11 +233,31 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 ?????
 
-"Your precious principles destroy people's LIVES, Justicar! Don't you dare call me the evil one!"
+"You're good at making yourself sound smart, but you're not," I said aggressively. "It's all just a bunch of fancy words to try and justify what you Stern do to people. Why don't you just be honest and beat us up like the others?!"
 
-?????
+"That is not –"
 
-"The lower gods act without thinking. The upper gods tarry in thought, rarely taking meaningful action. Only the Stern, which stands in the middle, has the [????? balance necessary to run a society]. That is why the Stern Temple officially controls three fifths of the city, and why –"
+"I grew up down the street from that kid!" I shouted over her. ?????, but a righteous rage was building in my chest. "[????? Name]! He went to prison for stealing a $50 pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a $50 pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ????? Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. I couldn't stop ripping into Justicar with my words – I hadn't done nearly enough. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
+
+"If he was abused in prison, that is <em>not</em> the will of the Stern! You cannot blame –"
+
+"Prison IS abuse, Justicar! You think you're innocent?! A year of life! That's what your Temple took away! Was that a worthy sacrifice for your order?! Your precious <em>principles</em> destroy people's LIVES, Justicar! Don't you dare call me the evil one!"
+
+Justicar sighed.
+
+"Just the [????? manifesto] I would expect from a Blood Child," she said. "Full of passion and fury, lacking in consideration and foresight."
+
+Rage surged up in me. I wanted to punch the smug indifference right off her face. But my heart was weighed down with the thought, <em>this is not my true enemy</em>. That was <em>definitely</em> the Blood God again, not me. I settled with just yelling again. "Did you listen to a word I just said?!" I demanded.
+
+"The law is not naive," said Justicar, oblivious to the struggle inside me. "Judges can, and do, let common thieves go without prison time, when the circumstances allow. If your friend was given twelve months, he may have been a repeat offender, or –"
+
+"Like that changes anything! If he stole a few more times! He could have stolen a $50 pair of headphones <em>every day for the enire year</em> and it still wouldn't be worth as much as what you sacrificed!"
+
+"And still your solution is to erase the law and justice system that we have. How very like the Blood God."
+
+"Ya know, I wasn't a fan of the Blood God before, but the more you talk, the more I think maybe it's got some good ideas."
+
+"You will not find your enlightenment down that road," said Justicar. She continued, speaking like she was reciting a practiced statement. "The lower gods act without thinking. The upper gods tarry in thought, rarely taking meaningful action. Only the Stern, which stands in the middle, has the balance necessary to administrate a society. That is why the Stern Temple officially controls three fifths of the city, and why –"
 
 "Wait a minute. Three fifths?"
 
@@ -253,25 +273,27 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 "How come you and Yali get to know all kinds of stuff about the gods? The Blood God never told <em>me</em> anything cool."
 
-"This knowledge does not come from the Stern God. At least, not directly. I simply paid attention in Divinity class, [????? after I changed]."
+"This knowledge does not come from the Stern God. At least, not directly. Once I found the Stern… I simply learned to pay attention in Divinity class."
 
 "Fuck you too."
 
-?????
+We were interrupted by the elevator coming to a stop.
 
-[????? The final puzzle where Justicar has to admit the first rule was wrong]
+<bigbreak>
 
-We came to another room, much smaller than the others. I checked the map. "This is got to be the final puzzle before we get to Yali!!" I said excitedly. I could <em>.</em> Justicar being skeptical. Well, screw her anyway.
+The great doors slid open, revealing the final puzzle.
 
-The puzzle in front of us looked really simple. Justicar and I were forced into separate corridors – one that you could only enter if you jumped, and one that you could only enter if you walked through fire. On my side, there was a closed door, then a room full of perpetually roaring flames. There was also a place where the corridor branched off, but it just led to a dead end with another flamethrower in it. On Justicar's side, there was also a closed door, but in front of it, there was a button.
+The room in front of us much smaller than the others. I checked the map. "This has got to be the last puzzle before we get to Yali!!" I said excitedly, trying to just be happy about that and forget my raw conflict with Justicar. I could practically <em>feel</em> her being skeptical behind me. Well, screw her anyway.
+
+The puzzle in front of us looked really simple. Justicar and I were forced into separate corridors – there was one that you could only enter if you jumped, and one that you could only enter if you walked through fire. On my side, there was a closed door, then a room full of perpetually roaring flames. On Justicar's side, there was also a closed door, but in front of it, there was a button. There was also a place on my side where the corridor branched off, but it just led to a dead end with another flamethrower in it. Why?
 
 "Guess you've got to stand on that button," I said. "I'm literally looking at a closed door here. I can't do anything. "
 
-"Understood." Justicar stood on the button. The door on <em>my</em> side slid open, and the flames disappeared from the room beyond. She stepped off again to see whether it would stay that way, but it didn't – the doorway closed again and the flames came back. Then she stepped back on.
+"Understood." Justicar stood on the button. The door on <em>my</em> side slid open, and the flames disappeared from the room beyond. Continuing the routine, she stepped off again to see whether it would stay that way, but it didn't – the doorway closed again and the flames came back. Then she stepped back on, switching them again.
 
 "Ooooo-kay…" I said. "I guess I'm going to walk into the fire room now. You better not step off that button."
 
-"Understood."
+"Understood," said Justicar tiredly.
 
 Tentatively, I poked my feet into the room. Now that the flames were gone, I could see what was inside. But it wasn't much. On the far wall, the only exit was another closed door. In the middle of the floor, there was another button. "I guess I'm going to stand on this button," I said. "That's literally the only thing we can do. There's no way the Seeking God we give us an <em>easy</em> puzzle at this point, is there…?"
 
@@ -351,7 +373,7 @@ Justicar closed her eyes. With a strained voice, she recited, "<em>Let me strike
  
 ?????
 
-"But there is something I wonder," said Justicar dourly. "These puzzles were constructed for both of us.
+"But there is something I wonder," said Justicar dourly. "These puzzles were constructed for both of us. ?????
 
 I smirked. "Nah, it just means I was right all along! I'm the one who thought, uh…" Actually, when I thought about it, I hadn't really disagreed with Justicar about anything. I had just sort of… gone along with… "Oh. My. GODS!! I can't believe it, I seriously can't believe it! I've gone this entire way, this ENTIRE way, acting like I hate the rules, like I think they're all bullshit! But when you told me what you thought the rules were – the <em>very first time you told me</em> – I BELIEVED you! I could have checked any time I wanted! I could have stuck my hand in the fire whenever I wanted to, and then I could have skipped past all the puzzles! But the Seeking God <em>knew</em> I wouldn't do it! It knew I would just –" the words came reluctantly to my lips "– <em>trust</em> you."
 
