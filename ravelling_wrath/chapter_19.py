@@ -88,7 +88,7 @@ I remembered how Rinn had talked when she was ????? the Blood God. She hadn't sa
 
 ?????
 
-I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed.
+I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed. I might even have liked Morrow better if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
 
  
 ''',

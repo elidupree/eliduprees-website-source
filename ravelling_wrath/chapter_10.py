@@ -237,7 +237,7 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 "That is not –"
 
-"I grew up down the street from that kid!" I shouted over her. ?????, but a righteous rage was building in my chest. "[????? Name]! He went to prison for stealing a $50 pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a $50 pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ????? Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. I couldn't stop ripping into Justicar with my words – I hadn't done nearly enough. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
+"I grew up down the street from that kid!" I shouted over her. ?????, but a righteous rage was building in my chest. "[????? Name]! He went to prison for stealing a $50 pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a $50 pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ????? Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
 
 "If he was abused in prison, that is <em>not</em> the will of the Stern! You cannot blame –"
 
@@ -247,7 +247,7 @@ Justicar sighed.
 
 "Just the [????? manifesto] I would expect from a Blood Child," she said. "Full of passion and fury, lacking in consideration and foresight."
 
-Rage surged up in me. I wanted to punch the smug indifference right off her face. But my heart was weighed down with the thought, <em>this is not my true enemy</em>. That was <em>definitely</em> the Blood God again, not me. I settled with just yelling again. "Did you listen to a word I just said?!" I demanded.
+Rage surged up in me. I wanted to punch the smug indifference right off her face. But my heart was weighed down with a heavy thought: <em>this is not my true enemy</em>. That was <em>definitely</em> the Blood God again, not me. Why was it thinking <em>that</em>? Whatever. I settled with just yelling again. "Did you listen to a word I just said?!" I demanded.
 
 "The law is not naive," said Justicar, oblivious to the struggle inside me. "Judges can, and do, let common thieves go without prison time, when the circumstances allow. If your friend was given twelve months, he may have been a repeat offender, or –"
 
