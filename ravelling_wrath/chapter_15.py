@@ -64,23 +64,48 @@ Then I threw myself into the grass.
 
 My skin drank up the cool morning dew like a ?????. Every part of me was [????? happy], from the tall grasses tickling my neck all the way down to my toes digging into the soft earth. I rolled over and over, reveling in my freedom to throw all worries to the wind and relax.
 
-Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how I'd been expecting for Yali to see me naked for the first time. I smirked. If she didn't like it, she'd just have to deal with it. I stretched out luxuriantly, ?????
+Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how I'd been expecting for Yali to see me naked for the first time. I smirked. If she didn't like it, she'd just have to deal with it. I stretched out luxuriantly, strutting my stuff so she could take a good look at whatever she wanted. Then I just flopped over on my back and let every part of me relax, just staring unfocusedly into the twilit sky.
+
+
 
 ?????
 
 [????? After I was done lying around], I got up and started walking. It didn't really matter which <em>way</em> I walked – I had no idea where anyone was anyway, and Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
 
+Before long, I decided to put on at least <em>some</em> clothes. Pushing my way through the underbrush, I kept stubbing my toes on gnarly roots and tearing my skin on old thorns. So first, I manifested on some heavy jeans, tough and skintight, and sneakers just the perfect size for me, really to stomp through some old brush.
+
 ?????
+
+The face that looked back at me looked burdened down with exhaustion. Its hair was matted down, way too symmetric for my taste. Its eyes were weary, the muscles around them tight with suspicion. It was scraped and covered with flecks of dirt. Whose face was this? It was time to take Rinn back.
+
+The first thing I did was to get my hair straightened out. I tore at it with a comb until the comb got stuck, then gave up and just chopped half of it off without a second thought. I recolored the rest into a rainbow of red and gold and midnight black, like a living flame.
+
+I left the scrape and the dirt stains right where they were. I grinned and threw my head back. This was more like it.
+
+I climbed to the nearest tree right away, happily putting the first tear in my new clothes. Standing in the branches, I felt the old joy of looking down and seeing how much smaller the ground became. I jumped and climbed from tree to tree, ?????
+
+?????, the trees opened and I came to a broad stream, where water flowed lazily down from ????? to ?????.
+
+????? I leapt from the tree branch into the water, disturbing the surface with a massive splash. The shock of the sudden cold made me stop to fully awake. After a little flailing around, I came up laughing, unbelievably refreshed. I
+?????
+
+and slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went.
+
+?????
+
+<bigbreak>
 
 I heard yelling around me. There was Yali's voice, and… another one that I couldn't place, both shouting words I couldn't understand.
 
-?????
+I tried to look up from the ground. My head was spinning. Wild patches of color were smeared over everything. My mouth felt like it was stuffed with cotton balls, and when I tried to move my tongue, it didn't feel anything at all.
 
-My body was propped up in a sitting position against a cushion, leaning against a tree. A face loomed over me – Alchemist. Behind them, Yali stood, also looking down at me with… worry?
+The voices kept speaking. Every syllable echoed and distorted in my head, beating on my skull from all sides. Behind that, I was sure it sounded like normal speaking, but somehow, I couldn't make out a single word.
 
-"I think, maybe, it's working?" said Alchemist. Something sounded <em>different</em> about that sentence, but I couldn't place it. But then I realized – it was the first thing I'd been able to understand for a while.
+Eventually I gave up on trying to hear the words that were bouncing off of me. Instead, I tried to map out what was around me. My body was propped up in a sitting position against a cushion, leaning against a tree. A face loomed over me, but I couldn't see it properly because there was a smear of color right over it. I angled my eyes to the side, to aim a clear patch of my vision at the face, and saw that it was Alchemist. Behind them, Yali stood, also looking down at me with… worry?
 
-"Wath worggih?" I said. Half my mouth was still numb. [????? More details] "Wha the fuuh. Thih thuuuth."
+"I think, maybe, it's working?" said Alchemist. Something sounded <em>different</em> about that sentence, but I couldn't place it. But then I realized – for the first time, I had actually been able to make out the words.
+
+"Wath worggih?" I said. Half my mouth was still numb. I had to push through the cotton balls to make any sound, and then my own voice pounded on my head from the inside. "Wha the fuuh. Thih thuuuth."
 
 Alchemist pressed a potion into my hands. "You could, drink this? It makes, Morrow's, stuff, feel, less bad."
 
@@ -130,13 +155,15 @@ Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you 
 
 "You said '<em>it makes Morrow's stuff feel less bad</em>'."
 
+"Yeah…?"
+
+"You NEVER say anything like you're sure about it! So how would you know how that potion feels – <em>unless Morrow did the same thing to you?!!</em>"
+
 ?????
 
-"That's not what happened!" Alchemist lied frantically. They were such a bad liar. Seeing them trying to defend him made me even more angry.
+"That's not what happened!" Alchemist lied frantically. They were such a bad liar. Seeing them try to defend him made me even more angry. I shoved myself to my feet, already charged up and ready to fight. I wanted to scream out in rage, but no words were enough. How DARE he do such a thing to poor, sweet, INNOCENT Alchemist?!! Blades sprouted from my back and arms involuntarily, piercing my shirt and stabbing into the air. The more I imagined it – Morrow crouching over a helpless Alchemist, making Alchemist feel all those disturbing, terrifying things – the more I couldn't bear to just stand here. All my old sympathy for him was lying in shreds. I wanted to make him <em>suffer</em>. My blades kept growing, sprouting from every part of my body. I couldn't stop them now. I wasn't sure I even wanted to.
 
-?????
-
-Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone outcropping set against the ocean waves. "Expressing Game," she said.
+Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone cliff against the ocean waves. "Expressing Game," she said.
 
 How could she stand in my way when Morrow had done such a thing?!! My fists clenched tighter. My blades grew further, pressing against their limits. But another part of me knew that if Yali was saying that, it was serious business. And it was only the Expressing Game. Reluctantly, I tried to force my rage into words. My voice felt alien. "How DARE he! Alchemist – Alchemist TRUSTED him! What kind of a MONSTER – he's a MONSTER – I'll –"
 
@@ -146,7 +173,7 @@ I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alch
 
 "<em>Controlling Game,</em>" said Yali.
 
-"FINE!" Painstakingly, I forced all my blades to retract back into my skin. Once I had just my regular, small human body left, a wave of exhaustion tried to knock me down. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
+"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
 
 I heard Alchemist's shaky voice in the background. "Is, she…"
 
@@ -166,13 +193,13 @@ Reluctantly, I sat back down with the two of them. Looking at Alchemist made me 
 
 "Hey, go easy on them!" I snapped.
 
-"You think I don't want to?!" Yali roared at me. "If I <em>go easy on them</em>, they somehow convince themselves it isn't so bad! Then they go after Morrow, and Morrow attacks them! I've <em>Seen</em> it! Morrow is completely out of control, he doesn't stop until Alchemist's mind is DESTROYED!" She spat the last word in Alchemist's face again. Alchemist cringed away from her.
+"You think I don't want to?!" Yali roared at me. "If I <em>go easy on them</em>, they somehow convince themselves it isn't so bad! Then they go after Morrow, and Morrow attacks them! I've <em>Seen</em> it! Morrow is completely out of control, ?????! he doesn't stop until Alchemist's mind is DESTROYED!" She spat the last word in Alchemist's face again. Alchemist cringed away from her.
 
 "Holy fuck," I said.
 
 "But… he loves me!" said Alchemist. "He wouldn't hurt me! Not like that!"
 
-"He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, but you can't just pretend it isn't there!"
+"He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, you can try to change it, but you can't just pretend it isn't there! You think love will protect you? I have known since I was six years old that love is not enough! If you love someone but you hide from the truth, your love will do NOTHING! Morrow loves you! He would never do anything to hurt you! But when he is taking your mind to pieces, he has no idea how much he is hurting you! He would suffer if he knew, so he hides from it! His love does nothing! And you! You love Morrow, but you want to rush into danger without a plan! You don't want to believe that he would hurt you, so you hide from it! Your love will do nothing – no, less than nothing, it will destroy you! Love will never save you without a plan! So what's your plan, Alchemist?!"
 
 
 [????? Alchemist and Yali argue about what to do with Morrow]
