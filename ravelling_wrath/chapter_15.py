@@ -84,12 +84,13 @@ I left the scrape and the dirt stains right where they were. I grinned and threw
 
 I climbed to the nearest tree right away, happily putting the first tear in my new clothes. Standing in the branches, I felt the old joy of looking down and seeing how much smaller the ground became. I jumped and climbed from tree to tree, ?????
 
+Jumping between the trees wasn't anything like the gymnastics I've had to do in the Endless Maze. There, the Seeking God had put everything just barely within reach, so that every movement was a challenge, but possible. Here, the trees were spaced out at random. Some places were so dense that I could just step from one tree to the next. Other places were sparse enough that I couldn't make it even with a flying leap. I had to make my own challenges. I left the forest littered with ladders, long ropes I used to swing from tree to tree, and bits of my own blood from when it didn't work out so well.
+
 ?????, the trees opened and I came to a broad stream, where water flowed lazily down from ????? to ?????.
 
-????? I leapt from the tree branch into the water, disturbing the surface with a massive splash. The shock of the sudden cold made me stop to fully awake. After a little flailing around, I came up laughing, unbelievably refreshed. I
-?????
+????? I leapt from the tree branch into the water, breaking the surface with a massive splash. The shock of the sudden cold made me snap to fully awake. After a little flailing around, I came up laughing. I hadn't felt this refreshed since… well, possibly ever. ?????
 
-and slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went.
+The stream opened out and I slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went.
 
 ?????
 
