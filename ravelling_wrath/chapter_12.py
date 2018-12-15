@@ -59,17 +59,29 @@ I didn't have to guess what this was. It was the Stern God.
 
 Why was the Stern God allowed in my head? I didn't have the energy to question it. I had to get up. I ripped my tiredness aside. I yanked myself to my feet like a puppet. My muscles burned with the pain of being used before they were ready. They still weren't ready. I forced them to do the next thing anyway.
 
-<em>I must [????? prepare in an obedient way],</em> I thought. I stumbled to the center of the room. In front of me, there was a pedestal with a uniform neatly folded on top of it. I was to put on the uniform before continuing. Across from me, two grim-faced, white marble statues blocked the doorway with their spears, waiting for me to obey.
+<em>I must [????? prepare in an obedient way],</em> I thought. I stumbled to the center of the room. In front of me, there was a pedestal with a uniform neatly folded on top of it. I was to put on the uniform before continuing. Across from me, two grim-faced, white marble statues blocked the doorway with their spears, waiting for me to obey. They wouldn't let me pass until I was wearing the uniform. I didn't know how I knew that. I didn't care enough to think about it more.
 
-?????
+I held up the uniform shirt in my hands. It was made of heavy, stiff cloth, all white except for a narrow red border. And on the back of the shirt, there was a simple version of the Burning Heart symbol, as if to label me.
 
-The uniform was made of ill fitting, stiff cloth that chafed at my skin.
+Mechanically, I stripped off my clothing and changed into the uniform. It was ill fitting, and the stiff cloth chafed at my skin. The uniform shoes were hard and black, and made a sharp sound each time I took a step. It was hard not to stand up straight while wearing them. I felt like a soldier forced to march in a ceremonial parade.
 
-[????? The uniform; make sure to clarify what happens to Rinn's phone]
+I looked down at my old clothing, sitting limply in a heap that looked tiny in the big white room. Belatedly, I realized that I could have just unmanifested it rather than taking it off normally. Nothing I did was ever right.
 
-?????
+Where did that thought come from? It was such a weird thing for me to be thinking. Ugh, I couldn't stand this place.
 
-Normally, I would have fought against it, refused to [????? show obedience (bow down?)]. But now, I didn't even care anymore. <em>Joke's on you, Stern God, I don't give a shit.</em>
+I bent over to grab my phone from my old clothes. Once I was holding it, I realized that my uniform had no pockets. I felt stupid. I tried to manifest a pocket onto the uniform, but the Stern God didn't allow me. Carrying the phone in my hand, I approached the statues at the room's exit. They blocked me dismissively. <em>That is not to come with you,</em> they seemed to be saying.
+
+I didn't want to leave my phone behind. It was the last real object I still had with me. Even before I changed into the uniform, all my clothes had been replaced with manifested versions long ago. But I just wanted to get this over with. It was too much work to try to argue. Feeling empty, I set my phone down with the rest of my things and stepped away from it.
+
+I presented myself before the statues again. They seemed to acknowledge my presence. An iron demand radiated from them. It had no words, but I could feel it in my head, my heart, my bones. It felt like this: <em>Bow down.</em>
+
+<em>Bow down.</em>
+
+<em>Bow down.</em>
+
+Normally, I would have fought against it, refused to [????? show obedience (bow down?)]. But now, I didn't even care anymore. <em>Joke's on you, Stern God. You can't humble me when I don't give a shit in the first place.</em>
+
+I bowed. The statues stood aside approvingly.
 
 ?????
 
@@ -87,21 +99,43 @@ Slowly, the gravity let me rise again. I dragged my leaden body to its feet, bad
 
 There was that word again – the Blood God's word, if you could call it a word, for the Farseer. Idly, I held the word in my mind. Thinking it over, I could feel that it was actually two separate ideas joined together. The first one was clear. It meant the Waiting God. I could tell because the "word" had the same feeling as what I'd felt when the Waiting God was pulling me into the Otherworld. But the second…
 
-"Lask… ueh," I said out loud. It didn't sound anything like it sounded in my head, but it would have to do. Was it the word for a Raveller? No… the Farseer was <em>Waiting God laskueh</em>, but when I tried thinking of myself as <em>Blood God laskueh</em>, it made the Blood God angry. Justicar was <em>Stern God laskueh</em>, but Morrow wasn't <em>Seeking God laskueh</em> and Alchemist wasn't <em>Broken God laskueh</em> – they just weren't.
+"Lask… ueh," I said out loud. It didn't sound anything like it sounded in my head, but it would have to do. Was it the word for a Raveller? If the Farseer was <em>Waiting God laskueh</em>… I tried thinking of myself as <em>Blood God laskueh</em>, but from the part of me that was the Blood God, I felt a pulse of anger and rejection. I checked the others. Justicar was <em>Stern God laskueh</em>, but Morrow wasn't <em>Seeking God laskueh</em> and Alchemist wasn't <em>Broken God laskueh</em> – they just weren't.
 
 Thinking about this was a waste of time.
 
 ?????
 
-I stared at the statues blocking the Alchemist's Path. I could feel the Stern God watching me with contempt. It had made sure I knew what was wrong to take a different Raveller's path. But it was going to <em>let</em> me do this, and let the mark of my wrongdoing hang over me.
+I stared at the statues blocking the Alchemist's Path. I could feel the Stern God watching me with contempt. It had made sure I knew what was wrong to take a different Raveller's path. But it was going to <em>allow</em> me to do this, and let the mark of my wrongdoing hang over me.
 
-?????
+It didn't really matter how many marks of wrongdoing were smeared onto me. I wasn't going to live long enough to care.
 
-"Ugh, just get out of the way, you stupid statues," I said dully.
+Mechanically, I bowed to the statues. They didn't react. Was it because I wasn't the Alchemist? I tried kneeling, begging, everything I had done to get past the statues on the Blood Child's Path, but nothing worked. I couldn't even sense a demand from these statues. I listened for one, but they were silent. They didn't even move to stop me. I tried to squeeze between them, but they were too tightly packed.
+
+"What do you want me to do?!" I complained out loud. My voice didn't sound like myself. ?????
+
+I was getting sick of this. Part of me wanted to yell out bitterly, blaming this world for all its bullshit. Another part was desperately trying to silence the first part, insisting that the Stern God would punish me for my selfishness. But the second part was increasingly weak, unable to hold on to its insistence after so many hours of struggling. "Ugh, just get out of the way, you stupid statues," I said dully.
 
 The statues lifted their feet and shuffled out of the way.
 
 "What the fuck," I said.
+
+I began trudging down the Alchemist's Path. Every time I came to more statues, I ordered them aside. Any time I spoke decisively, they moved. Any time I begged or asked politely, they stayed in place. This was too easy. But I didn't have the energy to question it.
+
+Another eternity passed. The routine of the Alchemist's Path became so ingrained I barely noticed what I was doing. So I was more than halfway across the next intersection before I realized I wasn't just in the regular corridor anymore.
+
+I checked the map at the intersection. If I wanted to meet up with the Farseer, I should start <em>ahead</em> of the Farseer on the Farseer's Path, then head back along at all until I met them. From here, the quickest way to part of the Farseer's Path was along the Imminent's Path from the intersection where I was standing.
+
+I didn't see any statues on the Imminent's Path. It was just one long, blank, white marble corridor. So I started walking down it without thinking twice. The moment I stepped on it, I heard a tapping sound behind me. I looked around, but I didn't see anything there. So I kept walking. A few more steps along the path, I felt something brush the back of my neck. I whirled around, but again, there wasn't anything there.
+
+When I looked back at where I was going, I was right at the beginning of the Imminent's Path again.
+
+So <em>that</em> was the challenge of this path. You had to suppress your curiosity about the things you heard and felt. Shit, Morrow was <em>fucked</em>. It was exactly the most impossible thing for him. The most impossible thing for <em>an Imminent</em>.
+
+A slow, cold dawning of realization settled over me. Each of us was forced to sacrifice the thing most important to us. The Imminent had to sacrifice their curiosity. The Blood Child had to sacrifice their pride. The Alchemist had to… well, that was the path where you had to be decisive? That really was unlike Alchemist, yeah. Could you sacrifice indecisiveness?
+
+Well, I had to get through this one way or another. I sent off on the Imminent's Path again.
+
+The easiest way to handle the Imminent's Path was just to let my senses go dull. Every time I felt something move behind me, I just let the feeling echo off of me without really processing it. It all just passed over me meaninglessly.
 
 ?????
 
