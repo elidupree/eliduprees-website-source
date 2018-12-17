@@ -49,7 +49,53 @@ I was about to say something, but Yali's hand squeezed my shoulder. I clamped my
 
 ?????
 
-"[????? Should I use the unraveling potion?]"
+"But… it needs…" Alchemist manifested a flask of water in their hand. "This… isn't, enough, it, needs…"
+
+"A stronger medium," finished Yali. "Materials that are capable of holding such a powerful sorcery."
+
+"Oh… you, maybe, understand it, better…"
+
+"No. You're the one who told that to me. In the future. You explained a lot. You understand more than you know. You just have trouble putting it into words. So, if you'd like, I can fetch the words for you. Your own words, from the future."
+
+"I, maybe, yes? I would, like that?"
+
+The next bit of conversation was… certainly <em>interesting</em>. Alchemist kept saying something vague or even just waving aimlessly, and every time, Yali filled in a clear, detailed description. [????? Details of the potion making needs]
+
+?????
+
+"Do, you, know, what we're looking for?"
+
+"I don't. But you'll recognize it when we get to it. So let's go in, in, any direction, and just stop sometimes so that I can look in each direction and tell you whether we find anything that way in the future. Then we'll know which way to go."
+
+<bigbreak>
+
+?????
+
+Alchemist took us to a tiny brook and gathered clay from the ?????.
+
+"Solid… But it needs…"
+
+"The clay will stabilize the potion. Without the clay, the energy from the sorcery might be released prematurely or damage other parts of the medium. But the clay isn't receptive to magic by itself. With <em>only</em> the clay, the sorcery wouldn't stay in potion form, it would float away into the air."
+
+"Okay, that's nice, but," I said, "Morrow's going to have to drink a bottle of clay??"
+
+
+
+?????
+
+Alchemist and Yali got to work hunting the brambles for berries that were just the right ripeness. They were paying much attention to me. So I idly picked a few berries and ate them.
+
+Flavor exploded in my mouth, ?????. They were the absolute WORST thing I had EVER tasted. I immediately reached for some more.
+
+"Don't eat too many of those, they're poisonous," said Yali casually, not bothering to look back at me.
+
+"Whaaaaat?!"
+
+
+
+
+
+[????? Should I use the unraveling potion?]"
 
 "That <em>is</em> what I would have told you to do, as recently as the third layer…" said Yali. "But now… I am starting to think that the Blood God <em>should</em> rejuvenate."
 
@@ -73,15 +119,37 @@ When I got close, Alchemist hurried to check on Morrow. It was pretty awkward wi
 
 As Alchemist crouched over him to check his vital signs, Yali looked down at Morrow contemptfully. She frowned. "I don't believe there is any risk that I will attack him again," she said, "but things will be much easier if he is kept a good distance away from me after he wakes up."
 
-[????? Is this the right place for Rinn to complain about Yali hating Morrow more than Justicar?]
+[????? Is this the right place for Rinn to complain about Yali hating Morrow more than Justicar? Or should this go in the final chapter?]
+
+"Seriously, though, what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always '?????' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
+
+"<em>Forty-five minutes,</em>" said Yali angrily. "That's how long it took me, running as hard as I could, to get to you before Morrow did too much damage. I know because I checked my phone while I ran to make sure I was pacing myself the right amount. Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. Forty-five minutes of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. Once I hate someone like that, I will destroy them, as I destroyed the ?????
+
+"Woah, that's… I mean, shit."
+
+"I'm not done. There is another reason. Morrow has always been like the ?????s. Temperamental, clinging to obsessions to cover up his pain. But –"
+
+"Hey, <em>I'm</em> temperamental. Morrow's kind of a mess, but –"
+
+"For my <em>entire life</em> I have had to clean up other people's messes! ????? But Justicar… Justicar is like <em>me</em>."
+
+"Are you kidding me," I said.
+
+????? Both of us will sacrifice anything to achieve our goals. Both of us will destroy anyone we have to. The only difference is that Justicar will stop at the gods, and I will not."
+
+
 
 ?????
 
-[Alchemist comes back from talking to Morrow and relates feeling bad about how Morrow feels]
+A few hours later, Alchemist wandered back to us, leaving Morrow out ahead.
 
-"I'll go talk to him," I said.
+Dry leaves blew past on a chilly wind, clearing the dust and fog from the air. Our boots were covered in mud from walking over slimy ground. ?????
 
-Yali stiffened.
+"I don't know what to do," said Alchemist despondently. "I don't know what to say… He's…" They gestured vaguely in the air. Floating leaves formed into a picture of Morrow, sprawled out and twisted into several pieces. I knew instantly what it meant.
+
+"I'll go talk to him," I said tiredly.
+
+Beside me, Yali stiffened.
 
 "Look, he can't hurt me again even if he wanted to. He was helpless to my soulfire even when he <em>had</em> his powers. Now he's just, like, some loser."
 
