@@ -95,13 +95,27 @@ Terrible gravity slammed me down, breaking my ladder to splinters and crushing m
 
 Slowly, the gravity let me rise again. I dragged my leaden body to its feet, badly shaken. Could the Stern God just <em>do</em> that to me? When I thought of trying to climb the wall again, I shuddered and shied away.
 
-?????
+?????, I walked and walked. There were no forks in the corridor, only a long, straight hallway. After a while, it ended in another door, also flanked by the same grim statues. As I stumbled towards them, my body was burdened down with an overpowering demand to go down on my knees. I sank to the floor, crawling on hands and knees between the statues.
 
-There was that word again – the Blood God's word, if you could call it a word, for the Farseer. Idly, I held the word in my mind. Thinking it over, I could feel that it was actually two separate ideas joined together. The first one was clear. It meant the Waiting God. I could tell because the "word" had the same feeling as what I'd felt when the Waiting God was pulling me into the Otherworld. But the second…
+I found myself crawling along between two rows of statues, as if I was being forced to humiliate myself in front of a crowd. I didn't even want to look up at them. I just kept my eyes to the floor and crawled along without thinking about it.
 
-"Lask… ueh," I said out loud. It didn't sound anything like it sounded in my head, but it would have to do. Was it the word for a Raveller? If the Farseer was <em>Waiting God laskueh</em>… I tried thinking of myself as <em>Blood God laskueh</em>, but from the part of me that was the Blood God, I felt a pulse of anger and rejection. I checked the others. Justicar was <em>Stern God laskueh</em>, but Morrow wasn't <em>Seeking God laskueh</em> and Alchemist wasn't <em>Broken God laskueh</em> – they just weren't.
+The first time one of them poked me, I almost didn't notice. My mind was too dulled to react to it. But as I went on, the statues sometimes poked me with their feet, or the handles of their spears. It wasn't hard enough to be painful, but the more it happened, the more I built up a grinding irritation, a dull rage that they would treat me so degradingly. But I didn't do anything. A slow lethargy was draped over me, silencing my urge to fight back. I just kept crawling.
 
-Thinking about this was a waste of time.
+Finally, even with the lethargy clouding my thoughts, my irritation built up strong enough to just barely rouse me to action. "Are you fucking serious?" I mumbled, grabbing one of the spear handles before it could hit me. I hung in that position for a moment, unsure of what would happen. Then the guilt hollowed out my stomach again. How could I have done something so stupid, so ungrateful? The world moved around me. I felt myself sliding back, back past all the statues, all the way back to the first ones that made me kneel.
+
+I was going to have to crawl past all of them, all over again.
+
+What was the point of trying? I sank all the way down to the floor, lying face down on the hard stones. I was never going to get through this. I wasn't good enough. Tears welled up in my eyes, pouring uselessly onto the rock. I would never make it through this. She would go on without me. She, the, the, the Waiting God's, what…
+
+There was that word again – the Blood God's word, if you could call it a word, for the Farseer. Despondently, I held the word in my mind. It felt clearer now. I could feel that it was actually two separate ideas joined together. The first one was obvious. It meant the Waiting God. I could tell because the "word" had the same feeling as what I'd felt when the Waiting God was pulling me into the Otherworld. But the second…
+
+"Lask… ueh," I said out loud. It didn't sound anything like it sounded in my head, but it was the best I could do. Was it the word for a Raveller? If the Farseer was <em>Waiting God laskueh</em>… I tried thinking of myself as <em>Blood God laskueh</em>, but from the part of me that was the Blood God, I felt a pulse of anger, loudly rejecting that idea. I checked the others. Justicar was <em>Stern God laskueh</em>, but Morrow wasn't <em>Seeking God laskueh</em> and Alchemist wasn't <em>Broken God laskueh</em> – they just weren't.
+
+Thinking about the other Ravellers brought the things I had to do back into my mind. Crying into the floor wasn't getting any anywhere. If I wanted to get to any of them, I would have to get past this corridor. With a tremendous effort, I hauled myself up to my hands and knees again.
+
+<bigbreak>
+
+
 
 ?????
 
