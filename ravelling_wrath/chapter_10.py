@@ -65,21 +65,26 @@ Up ahead of us was a big room where the floor was divided into a square grid, wi
 
 "Yeah, okay," I said.
 
-"The question is, how will we get past the dead end directly in front of us?"
+"The question is, how will we get past the dead end directly in front of us? That lever must open a new passage, but how –"
 
-Sure enough,
+Ahead of us, the glass walls funneled us into a short hallway, and at the end of the hallway, there was a lever. But before the lever, there was a giant hole in the floor, cutting completely across the hall.
+
+I sized up the hole. "I could jump that, easy."
+
+"Maybe, but the puzzle might –"
+
+I took off running and jumped clean over the hole. I grabbed the lever and gave it a good heave, smirking. Then I jumped back over the hole as a wall slid open somewhere. "That was easy," I said. "You could probably jump it, too. Even with that armor, it's not –"
+
+"I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if you insist." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to be there if it functions no differently than a wall. So that is the second rule of the puzzle: only the Blood Child can cross gaps."
 
 ?????
 
-[????? Rinn tries to hold down the buttons without a human involved, and also block the flames]
 
-I manifested a ginormous anvil
+[????? While I was waiting for Justicar to finish her side, I] idly manifested a brick wall to block the fire in front of me. I knew it wasn't going to <em>works</em>, I was just curious to see what would happen. Sure enough, the flames tore right through it. It didn't even burn – it just got instantly unmanifested wherever the flames touched it.
 
-The flames tore right through it. It didn't even burn – it just got instantly unmanifested wherever the flames touched it.
+Justicar spotted what I was doing. "I told you," she said patiently, "the Seeking God has set its rules for these puzzles. There will not be a clever trick to bypass them."
 
-"I told you," said Justicar patiently, "the Seeking God has set its rules for these puzzles. There will not be a clever trick to bypass them."
-
-"I thought the Seeking God was the <em>god</em> of clever tricks."
+"I thought the Seeking God was the <em>god</em> of clever tricks," I muttered.
 
 "And thus, it is within the Seeking God's authority to determine <em>which</em> puzzles may be answered with clever tricks, and which may not."
 
