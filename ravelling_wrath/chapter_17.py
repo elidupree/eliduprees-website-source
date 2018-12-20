@@ -155,6 +155,12 @@ Beside me, Yali stiffened.
 
 "Fine. Go. Just don't make me think about it."
 
+?????
+
+Morrow half-startled. After a moment, he looked back at me. "Oh. It's you."
+
+Something <em>instantly</em> seemed off about him. His reaction was way slower than usual, and his words came out slower, too. he seemed… glum? First I thought that was super weird. I've seen him ripping himself apart, that I'd never seen him just regular sad, or any sort of less-energetic mood at all. Then I thought, <em>of course</em>! He didn't have the Seeking God inside him anymore.
+
 ''',
 },
 ]
