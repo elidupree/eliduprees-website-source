@@ -45,21 +45,25 @@ posts = [
 [????? somewhere in this chapter: Justicar's parents and the big decision]
 
 
-Up ahead of us was a big room where the floor was divided into a square grid, with each square about a meter wide. A lot of the squares had glass walls rising up from them, forming smaller rooms and hallways within the big gid. Other squares were missing, leaving pits going down into the floor. Still other squares had doors, buttons, levers, and other devices I didn't recognize.
+Up ahead of us was a big room where the floor was divided into a square grid, with each square about a meter wide. A lot of the squares had glass walls rising up from them, forming smaller rooms and hallways within the big grid. Other squares were missing, leaving pits going down into the floor. Still other squares had doors, buttons, levers, and other devices I didn't recognize.
 
-?????
+I pressed my face to one of the glass walls. "I feel like I'm in an aquarium," I said. "Gotta say, the Seeking God's got style."
 
-"The walls are made of glass so that we can see the whole puzzle at once."
+"Style, perhaps, but it also serves a function. I expect that the walls are made of glass so that we can see the whole puzzle at once. It allows us to examine the puzzle before jumping into anything –"
 
-?????
+Well, if she was going to say <em>that</em>, I knew what I had to do. "Alright, time to jump into things!!" I said cheerfully. I danced out onto the floor of the main puzzle area. I was planning to mess with one of the levers, but the glass walls were actually blocking off most of them. "Wonder what those are?" I said, waving my arm at a nozzle sticking out of one of the walls.
+
+Just then, the room roared to life. ????? ?????verbed and jets of flame spouted out of the nozzles on the walls. One of the jets was zooming right towards me. I was too startled to react.
+
+Justicar was quicker. Right away, she leapt in between me and the source of the flames. The flames deflected off of her armor, shooting off at wide angles and dispersing into the air.
 
 "Holy shit, that was badass!" I said.
 
 "Please move," said Justicar tightly, the flames still rolling off of her.
 
-"Uh, right," I said shakily. I moved back. Justicar stepped out of the flames. She concentrated, and the remaining smoke blew away from her armor, leaving it shining as bright as new.
+"Uh, right," I said shakily. I moved back out of range. Justicar stepped out of the flames. She concentrated, and the remaining smoke blew away from her armor, leaving it shining as bright as new.
 
-"So is that armor, like, fireproof? Or, wait, did you just manifest the fire away from you? But the god doesn't let us manifest on parts of the puzzle –" Even just standing <em>near</em> the flames felt really hot, and trying to manifest my skin to be cooler didn't help at all.
+"So is that armor, like, fireproof? Or, wait, did you just manifest the fire away from you? But the god doesn't let us manifest on parts of the puzzle –" Even just standing <em>near</em> the flames felt really hot, and trying to manifest my skin to be cooler didn't help at all. It just made me feel cold <em>and</em> hot.
 
 "The Stern God's will protects me from all forms of physical harm. This armor is only a physical representation of that will." She looked at the puzzle ahead of us. "It appears that there are more corridors blocked off by the flames. So that is the first rule of this puzzle: Only the Justicar can stand safely in the flames. For us both to get past those corridors, I will have to block the flames while you run past."
 
@@ -75,7 +79,7 @@ I sized up the hole. "I could jump that, easy."
 
 I took off running and jumped clean over the hole. I grabbed the lever and gave it a good heave, smirking. Then I jumped back over the hole as a wall slid open somewhere. "That was easy," I said. "You could probably jump it, too. Even with that armor, it's not –"
 
-"I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if you insist." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to be there if it functions no differently than a wall. So that is the second rule of the puzzle: only the Blood Child can cross gaps."
+"I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if only to illustrate." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to be there if it functions no differently than an empty floor. So that is the second rule of the puzzle: only the Blood Child can cross gaps."
 
 ?????
 
