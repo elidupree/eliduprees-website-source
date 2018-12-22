@@ -94,6 +94,29 @@ The stream opened out and I slid headfirst into a lake blooming with algae. I pu
 
 ?????
 
+Suddenly it was all too real, ????? my heart pounded. I dropped into a crouch, ready to fight against enemies on all sides. ????? And it wasn't even the pain that hurt. It was the <em>helplessness</em>. I had just lain there motionlessly while her sword plunged into me. Why hadn't I moved?! I should have moved, I should have fought back, twisted out of the way, ANYTHING!! How could I have been so stupid, so WEAK?!
+
+I would NEVER be that weak again. My hands clenched around my blades, looking for something to strike against. The next time I saw Justicar, I'd KILL her! I'd rip my blades into her flesh before she had a chance to fight back! Then she would NEVER be able to hurt me AGAIN! Roaring, I slammed my blades into the nearest tree, an enormous oak I probably couldn't even have fit my arms around. I beat and hacked at the tree until it splintered and fell, crashing violently through the woods. I left on top of the fallen trunk, glaring down at the world. I was STRONG! I was POWERFUL! I had CRUSHED this tree, and I could CRUSH anyone else who tried to stop me!!
+
+But another part of me knew that I was grasping at lies. I had known it since the first time I hit the tree, because it didn't feel <em>anything</em> like how it had felt to hit Justicar. My blade had scraped over her face like fingernails scraping against a mountain. How could I ever hope to stop her?! I could almost see her in front of me, coming back to finish me off, her sword plunging towards my eyes. Terror clawed at me, threatening to rip my heart out of my chest. I was going to <em>die!</em> Nothing I did was going to change a single thing! I was going to feel my life bleed out of me without even ?????!!
+
+The pain was too much. I felt a scream building inside me. I had to get out of here. I ran frantically into the woods. Branches tore at my arms and head. My legs screamed and I could barely see where I was going. But the pain didn't end. It was inside of me.
+
+I stumbled to a halt, hunched over and gasping for breath. I couldn't go on like this! I had to do SOMETHING! I had to get myself under control somehow! But I couldn't get away from her! Everywhere I ran, I felt Justicar two steps behind me! I had to get her out of my head! I had to think about something else, ANYTHING else! I cast about for something to think, but nothing came to me. There had to be <em>something</em>! Even if it was just the things I had done right before or after the fight! What had I been doing before? [????? I desperately forced my mind to dig back into my memory…]
+
+<em>I had stabbed Yali.</em>
+
+The scream ripped out through my lungs ?????. Waves of heat pulsed from my body, charring the grass at my feet. Leaves dried and cracked around me. Dark clouds gathered overhead. And the scream didn't end. My lungs were empty, and I couldn't stop trying to scream until they ached from lack of air. And as soon as I gasped, a second scream tore through me, even more painful than the first. No human lungs should have been able to handle this amount of pain. My body was too weak a vessel for the power that was forcing itself through me. The ground and sky themselves had formed a bridge through my body, using my lungs as their ?????.
+
+<em>I had stabbed Yali.</em>
+
+????? The trees withered and blackened before my ?????. ????? I fell to my knees, my hands clutching at the dying soil. Cracks formed underneath me, ?????
+
+?????
+
+I had never been so desperate to see another human face. "MORROW!!!" I tried to scream. But even his name was lost in the roar of pain. I looked up at him desperately, hoping he could tell from my eyes what I was begging him to do. <em>Help me! HELP ME!! Do the loopy thing on me again, do anything you can think of, just as long as I don't have to feel this for a moment longer –</em>
+
+
 <bigbreak>
 
 I heard yelling around me. There was Yali's voice, and… another one that I couldn't place, both shouting words I couldn't understand.
