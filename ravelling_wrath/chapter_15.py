@@ -268,11 +268,23 @@ Reluctantly, I sat back down with the two of them. Looking at Alchemist made me 
 
 ?????
 
-"<em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– Alchemists have all kind of powers, but they all have to do with matter! His powers work purely by magic, you can't do anything against them! And <em>you</em> –" she jabbed her thumb at me "– <em>should</em> be able to summon soulfire, but –"
+[????? Not sure where: Rinn says something implying that Yali was fine with Morrow before]
+
+"No. He put me on edge from the beginning."
+
+"But I thought –"
+
+"I didn't say anything because I wanted to make sure you got along with each other. It was a delicate balancing act, making sure none of you three blew up on each other. But if this is what happened, then that was also a…" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not."
+
+?????
+
+"But it really <em>wasn't</em> like him! Think about it! He was reading my mind, so he must have known that I was, uh, thinking about attacking him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, uh, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him to it! And he still managed to not hurt anyone for, like, two whole layers? Maybe three? Never mind that! We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
+
+Yali glared at me. But I could see some doubt breaking through to her. Her face almost softened for a moment. But then it tightened up again. "Even if I agree to that, how are we going to help him?!" she shouted. "<em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– Alchemists have all kind of powers, but one way or another, they all have to do with matter! His powers work purely by magic, you can't do anything against them! And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
 
 "What's soulfire?"
 
-"It's this, like, magic fire thing, that beats every other kind of magic. Every Blood Child has been able to summon it instinctively, <em>except for you</em>."
+"It's this, this, magic fire thing, that cuts through every other kind of magic. Every Blood Child has been able to summon it instinctively, <em>except for you</em>."
 
 "What the fuck, I don't want to go down in history as the least powerful Blood Child ever! Wait, never mind that, we're talking about Morrow! You said neither of <em>us</em> can protect ourselves, so what about you?"
 
@@ -287,16 +299,6 @@ Reluctantly, I sat back down with the two of them. Looking at Alchemist made me 
 ?????
 
 [????? Not sure if this chapter or the next two: Justicar avoided having the confrontation in this world because the Broken God complicates her desired confrontation; Yali also finds this world uncomfortable, while Rinn enjoys it]
-
-?????
-
-[????? Not sure where: Rinn says something implying that Yali was fine with Morrow before]
-
-"No. He put me on edge from the beginning."
-
-"But I thought –"
-
-"I didn't say anything because I wanted to make sure you got along with each other. It was a delicate balancing act, making sure none of you three blew up on each other. But if this is what happened, then that was also a…" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not."
 
 ?????
 
