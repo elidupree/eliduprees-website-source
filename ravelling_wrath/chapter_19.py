@@ -18,11 +18,11 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 19: ", '''<p></p>''') +'''
 
-Two bodies lay before me. One dead, one only unconscious. One Justicar. One Rinn.
+Two bodies lay before me. One dead, one only unconscious, both my doing. One Justicar. One Rinn.
 
 Was it over?
 
-I listened for the future. There was [????? details of the other ravellers]. [????? Something about the strong pulse of rinn's heartbeat in every corner of the future, reaching to the final portal].
+I listened for the future. There was the heavy hum of Alchemist's presence. The deadened coil of Morrow's anguish. And the strong, reassuring pulse of Rinn's heartbeat. I followed its thread down every branch, into every corner of the future, letting no tiny offshoot escape my notice. But everywhere I looked, the heartbeat continued. All the paths led unerringly to the final portal.
 
 It was –
 
@@ -36,7 +36,7 @@ Unspeakable feelings pressed in at the edges of my mind. If I kept looking at th
 
 I took a minute to store away the unwanted thoughts. Then I tried again, looking at Rinn the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
 
-
+The left arm and left leg were twisted into shapes that wouldn't be possible if the bones were intact. Most likely, they had been reduced to powder by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Under the body, the right shoulder was also crushed, torn and bloody.
 
 ?????
 
@@ -46,25 +46,46 @@ Could I put her in a different position?
 
 Also, how would I transport her? One way or another, she would have to arrive at the final portal. She was light enough that I could carry her, but if I slipped or jostled her along the way, it could reinjure her.
 
+?????
+
 [????? Once Rinn is relatively stable, Looking at Rinn's face,] There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam blocks. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. So if I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
 
 ?????
 
-If I left Justicar's body now, there would be no one left to say the prayer for the dead. [???? this was moved up, replace?] According to tradition, anyone who left a body un[?????honored] would be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. But which prayer should I say? Every god had its own prayer for the dead. I knew all the Waiting prayers by heart, but [????? it seemed offensive] to say a Waiting prayer when it was the Waiting God who had created the situation that caused her death. The Stern prayer was what she would want, but the Stern prayer also said "[????? may your sacrifice be successful]". I would not be able to say that sincerely. And in the eyes of the gods, an insincere prayer was the same as no prayer at all.
+If I left Justicar's body now, there would be no one left to say the prayer for the dead. [???? this was moved up, replace?] According to tradition, anyone who left a body un[?????honored] would be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. But which prayer should I say? Every god had its own prayer for the dead. I knew all the Waiting prayers by heart, but it seemed cruel to say a Waiting prayer, when it was the Waiting God who had created the situation that caused her death. The Stern prayer was what she would want, but the Stern prayer also said "[????? may your sacrifice be successful]". I would not be able to say that sincerely. And in the eyes of the gods, an insincere prayer was the same as no prayer at all.
 
 Could I say a Blood prayer?
 
 To be true to the Blood God, I would have to say the prayer with true emotion. But if I felt the emotions that my body wanted me to feel, I wouldn't be able to keep doing what I needed to do.
 
-In the end, I settled with the Broken. [????? The Broken prayer]
+In the end, I settled with the Broken. [????? The Broken prayer] 
 
 ?????
+
+I walked.
+
+Next to the vast structures of this world, I felt very small. Walking past just one building took multiple minutes. I felt suspended in time, slowly trudging away, wheeling Rinn along with me, the pulsing sun continuously burning away. I couldn't look straight ahead without getting it in my eyes. So I looked down. I had no sense of what was coming. The buildings and flagstones went past me one after another, without any plan or sense of order.
+
+The road heaved sharply uphill, twisting at an angle that made it hard to walk, as if a mountain had begun rising under the city with no regard to what was built there. I trudged past a collapsed tower, even its fallen stones taller than I was. I trudged past a massive spike of metal reaching up at an angle into the sky, like a giant's spear stabbed up through the ground from below. And everywhere, the braided cables of steel, [????? very large], that Rinn called the muscles of the city.
+
+My road ended at the entrance to a massive open-air forge. [????? Very large] mechanical bellows sat motionless, looming nearby broad anvils layered with the dust of years. Enormous crucibles stood against the sky, with channels where molten metal might have poured down from them. The whole place was piled with every kind of tool and device imaginable, the floor barely visible under them. I could just imagine Rinn digging through the piles, pulling out random devices and doing irresponsible things with them. I smiled despite myself.
+
+But to me, this was all so much trash. The tools might represent something with a purpose, if you looked across all of history, but right now, they were just things in my way. How would I cart Rinn past the forge without a flat floor to roll my wagon along? Could a clear them away? Could I go around? Could I manifest a sort of boardwalk over them?
+
+The boardwalk would not work. The piles were unsteady. They might shift under us, and then Rinn could be reinjured.
+
+?????
+
+I sat a while and thought of how I could move the things. No good ideas came to me. Eventually, I stood up and began hauling them out of the way one at a time, making a path just wide enough for me and my wagon. It was heavy work. Each thing seem to be tangled with a dozen others. Pain accumulated in my back.
+
+Many of the tools were already rusted out, and fell apart as I tried to pull them away.
+
 
 [????? Yali becomes physically tired of moving up in, and stopped to rest]
 
 It was time to move forward with my <em>other</em> plan.
 
-If I was going to spend time studying the past, I would need to get comfortable. I manifested my familiar reclining chair and sat down. I wasn't comfortable right away. An old wound bothered me, so I shifted my position until it was more tolerable. My leg was cramped. I reclined the chair just right to let it relax. My legs itched where they had gotten warm from walking. I concentrated until the itch subsided.
+If I was going to spend time studying the past, I would need to get comfortable. I manifested my familiar reclining chair and sat down. I wasn't comfortable at first. An old wound bothered me. I shifted my position until it was more tolerable. My leg was cramped. I reclined the chair just right to let it relax. My legs itched where they had gotten warm from walking. I concentrated until the itch subsided.
 
 Finally, my body stopped interrupting my thoughts.
 

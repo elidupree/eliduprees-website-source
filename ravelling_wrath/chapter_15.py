@@ -94,6 +94,51 @@ The stream opened out and I slid headfirst into a lake blooming with algae. I pu
 
 ?????
 
+Suddenly it was all too real, ????? my heart pounded. I dropped into a crouch, ready to fight against enemies on all sides. ????? And it wasn't even the pain that hurt. It was the <em>helplessness</em>. I had just lain there motionlessly while her sword plunged into me. Why hadn't I moved?! I should have moved, I should have fought back, twisted out of the way, ANYTHING!! How could I have been so stupid, so WEAK?!
+
+I would NEVER be that weak again. My hands clenched around my blades, looking for something to strike against. The next time I saw Justicar, I'd KILL her! I'd rip my blades into her flesh before she had a chance to fight back! Then she would NEVER be able to hurt me AGAIN! Roaring, I slammed my blades into the nearest tree, an enormous oak I probably couldn't even have fit my arms around. I beat and hacked at the tree until it splintered and fell, crashing violently through the woods. I left on top of the fallen trunk, glaring down at the world. I was STRONG! I was POWERFUL! I had CRUSHED this tree, and I could CRUSH anyone else who tried to stop me!!
+
+But another part of me knew that I was grasping at lies. I had known it since the first time I hit the tree, because it didn't feel <em>anything</em> like how it had felt to hit Justicar. My blade had scraped over her face like fingernails scraping against a mountain. How could I ever hope to stop her?! I could almost see her in front of me, coming back to finish me off, her sword plunging towards my eyes. Terror clawed at me, threatening to rip my heart out of my chest. I was going to <em>die!</em> Nothing I did was going to change a single thing! I was going to feel my life bleed out of me without even ?????!!
+
+The pain was too much. I felt a scream building inside me. I had to get out of here. I ran frantically into the woods. Branches tore at my arms and head. My legs screamed and I could barely see where I was going. But the pain didn't end. It was inside of me.
+
+I stumbled to a halt, hunched over and gasping for breath. I couldn't go on like this! I had to do SOMETHING! I had to get myself under control somehow! But I couldn't get away from her! Everywhere I ran, I felt Justicar two steps behind me! I had to get her out of my head! I had to think about something else, ANYTHING else! I cast about for something to think, but nothing came to me. There had to be <em>something</em>! Even if it was just the things I had done right before or after the fight! What had I been doing before? [????? I desperately forced my mind to dig back into my memory…]
+
+<em>I had stabbed Yali.</em>
+
+The scream ripped out through my lungs ?????. Waves of heat pulsed from my body, charring the grass at my feet. Leaves dried and cracked around me. Dark clouds gathered overhead. And the scream didn't end. My lungs were empty, and I couldn't stop trying to scream until they ached from lack of air. And as soon as I gasped, a second scream tore through me, even more painful than the first. No human lungs should have been able to handle this amount of pain. My body was too weak a vessel for the power that was forcing itself through me. The ground and sky themselves had formed a bridge through my body, using my lungs as their ?????.
+
+<em>I had stabbed Yali.</em>
+
+????? The trees withered and blackened before my ?????. ????? I fell to my knees, my hands clutching at the dying soil. Cracks formed underneath me, ?????
+
+?????
+
+[????? Morrow running towards Rinn]
+
+
+
+I had never been so desperate to see another human face. "MORROW!!!" I tried to scream. But even his name was lost in the roar of pain. I looked up at him desperately, hoping he could tell from my eyes what I was begging him to do. <em>Help me! HELP ME!! Do the loopy thing on me again, do anything you can think of, just as long as I don't have to feel this for a moment longer –</em>
+
+"Gotcha covered!" panted Morrow. He closed his eyes, covered his head, and ran the last few steps towards me. Then he grabbed onto my head with his hands. "Hold on tight, this is gonna get interesting!"
+
+The world swam around me. I felt Morrow's mind pressing into my own. Then everything turned inside out. My pain drained away immediately, completely, leaving a horrible empty space inside me. Instead of my vision closing in, it expanded outwards, far too much outwards. I could see <em>everything</em>, every tiny detail. Specks of burning dust patterned against the sky. Ants crawling over tree bark a hundred meters away. Every pore of Morrow's skin, every fiber of his shirt. It was all shoved into my head without heart or understanding.
+
+"That's not better!!" I screamed. Even my own voice was far too vivid in ears. "Put it back, put it b–"
+
+"Hold on, hold on! Everything's different, I'm gonna just –" The empty space inside me was suddenly, thankfully filled, with a sick feeling in my stomach, like being stuffed with too much food. The feeling expanded upwards, blossoming all the way up into a pressure behind my mouth, like I was going to vomit. Then the vertigo hit. The world spun around and the ground slammed into me. And then, even lying face down on the ground, I kept feeling like I was about to fall.
+
+<em>Do you have any idea what you're doing?!</em> I yelled inwardly. My mouth was in the dirt, I couldn't say it out loud. Morrow was already crouching over me again. In my rage, a vision blazed in my mind. With just a thought, I could summon the Blood God's blades against him, white-hot and invincible, to strike him with fire and fear so he would run far away. No, no, that wasn't what I wanted! I needed his help! He just didn't know how to do this right, this wasn't like the other time when we were all calm and had everything under control –
+
+"Yeah, just hold on! I'm gonna fix it!" Replacing the nausea, a feeling of unbelievable comfort washed through me. The dirt and rocks I was lying on the felt like the softest mattress. At first, it felt like a relief. But something was still wrong. It felt like a roaring anxiety, smothered just barely under the covers. As good as it felt, I couldn't relax. Every second that passed was agonizingly drawn out. <em>Can you do something about that?!</em> I thought at Morrow.
+
+The comfort ripped away, turning the rocks into daggers pressing into my flesh. <em>Not like that!!</em> I screamed inside. The rage burned within me again, nearly blotting out whatever feeling Morrow was going to stick me with next. It felt so real, like I had already jumped to my feet, like I was already about to strike him with my blades. It would be so easy… All I had to do was let it happen… The only thing stopping me was a tiny part of me, still terrified of what would happen if I lost control. But that part felt so small… I clung onto that terror desperately. I <em>couldn't</em> give in to the anger! <em>Controlling Game!!</em> I shouted at myself. I turned the rage against itself, mercilessly locking it away. <em>Please, Morrow, just finish this before I can't hold on any longer!</em>
+
+"Hold on, hold on!" Morrow repeated. Then the whirlwind of feelings began again.
+
+I lost track of time. It was impossible to think straight, desperately clinging to the edge of the roller coaster between my terror of the feelings Morrow was putting in me and my terror of what I would do if I tried to reject them. I felt hot and cold, empty and full, nearly asleep and far too awake. ?????
+
+
 <bigbreak>
 
 I heard yelling around me. There was Yali's voice, and… another one that I couldn't place, both shouting words I couldn't understand.
@@ -122,7 +167,7 @@ Now that my senses were working properly, I could see them a lot better. Clearly
 
 Yali crouched in front of me. Her voice was strained, like she needed a lot of effort to force the words out. "When Morrow was in your mind, were you angry?"
 
-"Does that matter?"
+I felt like I was being accused of something, and I didn't even understand what. "Does that matter?" I said.
 
 "Were you?" she demanded.
 
@@ -130,9 +175,9 @@ Yali crouched in front of me. Her voice was strained, like she needed a lot of e
 
 Yali sat down and began to cry.
 
-I had always assumed that if I ever saw Yali cry, it would be dignified, like in a movie where someone sheds a single tear while staring mournfully into the distance. But it wasn't like that at all. Her face sort of scrunched up ????? [????? If Yali was crying, that meant something really bad , I was scared because , what could it even be?]
+I had always assumed that if I ever saw Yali cry, it would be dignified, like in a movie where someone sheds a single tear while staring mournfully into the distance. But it wasn't like that at all. Her face sort of scrunched up, pinched in on itself. She looked so overwhelmed, so broken down. What could possibly have done this to her?! This was Yali! <em>Yali!!</em> The one who had stared down Justicar nearly empty-handed! "What's wrong?! What happened??!" I yelled. She hardly seemed to notice me. She just kept shaking with tears.
 
-Not thinking of anything else to do, I turned to Alchemist. "Alchemist, what happened? Is she –"
+A sense of dread was growing inside me. Not thinking of anything else to do, I turned to Alchemist. "Alchemist, what happened? Is she –"
 
 Alchemist's face looked like [????? nothing I'd seen before]. They ?????. I could see fear and anger wrestling inside them.
 
@@ -142,15 +187,25 @@ In the end, anger won.
 
 <bigbreak>
 
-?????
+"That can't be right. That's impossible…" I said weakly. But at this point, nothing seemed impossible anymore.
 
-"You're talking as if he, like, sexually assaulted me. Wait, are you saying he –"
+"I'm so, so, sorry," Yali choked out, her voice breaking and breathy. "This whole time, I've thought I was protecting you! I thought we had to stop you from being angry! To <em>protect</em> you, not to make you vulnerable! But it was my own skills, <em>my own skills</em> that let him violate you! It's all my fault, everything he did to you is my fault!!"
+
+"I mean, uh…" I had no idea what to do in this situation. "Uh, you're talking as if he, like, sexually assaulted me. Wait, are you saying he –"
 
 Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you defending him?!"
 
 "I mean, sure, it sucked, obviously, but I knew he was trying to help! It's not his fault if –"
 
 "No," said Yali. "He wasn't."
+
+The words hung in the air between us.
+
+"That's impossible…" I said again. "I mean, he wouldn't do that, would he? Just, what, mess with my head just because he could?"
+
+"He would. He did. I'm so sorry."
+
+"Uh…" I still wasn't sure what to say. [????? I WOULD normally have been somewhat mad at Morrow, but Yali was acting like it was way bigger]
 
 ?????
 

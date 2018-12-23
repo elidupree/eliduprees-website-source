@@ -105,6 +105,8 @@ Yali spoke gravely. "The Blood God is a god of anger, and it has been starving f
 
 ?????
 
+The forest swam around me.
+
 [????? Rinn returning with Morrow]
 
 I saw Yali and Alchemist already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new broad belt with loads of potions hanging from it. ????
@@ -156,6 +158,14 @@ Beside me, Yali stiffened.
 "Look, he can't hurt me again even if he wanted to. He was helpless to my soulfire even when he <em>had</em> his powers. Now he's just, like, some loser."
 
 "Fine. Go. Just don't make me think about it."
+
+?????
+
+Morrow half-startled. After a moment, he looked back at me. "Oh. It's you."
+
+Something <em>instantly</em> seemed off about him. His reaction was way slower than usual, and his words came out slower, too. He seemed… glum? At first I thought that was super weird. I'd seen him ripping himself apart, but I'd never seen him just regular sad, or any sort of less-energetic mood at all. Then I thought, <em>of course</em>! He didn't have the Seeking God inside him anymore. It had probably been the Seeking God that was keeping him going the whole time. And now…
+
+"How are you, uh, feeling?" I said.
 
 ''',
 },
