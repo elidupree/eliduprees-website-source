@@ -123,7 +123,7 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 "Seriously, though, what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always '?????' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
 
-"<em>Forty-five minutes,</em>" said Yali angrily. "That's how long it took me, running as hard as I could, to get to you before Morrow did too much damage. I know because I checked my phone while I ran to make sure I was pacing myself the right amount. Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. Forty-five minutes of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. Once I hate someone like that, I will destroy them, as I destroyed the ?????
+"<em>Forty-five minutes,</em>" said Yali angrily. "That's how long it took me, running as hard as I could, to get to you before Morrow did too much damage. I know because I checked my phone while I ran to make sure I was pacing myself the right amount. Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. Forty-five minutes of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. It doesn't matter what I believe now. I will hate the face of Morrow for as long as I live."
 
 "Woah, that's… I mean, shit."
 
@@ -146,6 +146,8 @@ A few hours later, Alchemist wandered back to us, leaving Morrow out ahead.
 Dry leaves blew past on a chilly wind, clearing the dust and fog from the air. Our boots were covered in mud from walking over slimy ground. ?????
 
 "I don't know what to do," said Alchemist despondently. "I don't know what to say… He's…" They gestured vaguely in the air. Floating leaves formed into a picture of Morrow, sprawled out and twisted into several pieces. I knew instantly what it meant.
+
+"Have fun with that," muttered Yali.
 
 "I'll go talk to him," I said tiredly.
 
