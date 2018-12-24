@@ -140,6 +140,12 @@ Yali stared at me blankly.
 
 "
 
+[????? Where in this chapter?:]
+
+[????? Rinn implies something like "we changed the world because of the power of love"]
+
+"I meant I said to Alchemist. I wasn't just trying to scare them. ????? We succeeded because of our love, yes. But also because we had a plan for how to [????? turn that love into a good result]
+
  ''',
 },
 ]
