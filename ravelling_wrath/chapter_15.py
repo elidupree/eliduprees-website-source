@@ -298,7 +298,7 @@ Yali clutched her head in her hands. "Of course it would be comfortable for <em>
 
 Yali looked dismayed. "You're allowed to have, to have, complicated feelings, about it. But what he is doing is abuse. To you, to Alchemist…"
 
-"But it really <em>isn't</em> like him! He's always been…" I thought back to the second layer. He had always jumped to hurt <em>himself</em>, but he never tried to hurt anyone <em>else</em> except maybe as a prank. And even then, if I got mad about it, he'd fold over right away – "Wait, that's it! Think about it! He was reading my mind, so he must have known that I was thinking about attacking him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, you know, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him to it! And he still managed to not hurt anyone for, like, two whole layers? Maybe three? We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
+"But it really <em>isn't</em> like him! He's always been…" I thought back to the second layer. He had always jumped to hurt <em>himself</em>, but he never tried to hurt anyone <em>else</em>, except maybe as a prank. And even then, if I got mad about it, he'd fold over right away – "Wait, that's it! Think about it! He was reading my mind, so he must have known that I was thinking about attacking him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, you know, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him to it! And he still managed to not hurt anyone for, like, two whole layers? Maybe three? We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
 
 Yali glared at me. But I could see some doubt breaking through to her. Her face almost softened for a moment. But then it tightened up again. She shouted back at me, "Even if I agree to that, how are we going to help him?! <em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– Alchemists have all kind of powers, but one way or another, they all have to do with matter! His powers work purely by magic, you can't do anything against them! And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
 
@@ -328,17 +328,47 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "That's great!" I said. "Maybe that'll tell us a way to get through to him –"
 
-"This feels, this feels, invasive…" Yali muttered. Then she shouted herself down – "HE DIDN'T WORRY ABOUT FEELING INVASIVE WHEN HE WAS IN RINN'S MIND!!"
+"This feels, this feels, invasive…" Yali muttered. Then she shouted herself down – "HE DIDN'T WORRY ABOUT BEING INVASIVE WHEN HE WAS IN RINN'S MIND!!"
 
 ?????
 
-A look of barely restrained horror grew on her face. Before long, she shook herself out of the Seeing. "I, I, I, I knew he had been abused, but not like this! This is so much worse, he was abused so much worse than I was –"
+A look of barely restrained horror grew on her face. Before long, she shook herself out of the Seeing. "I, I, I, I knew he might have been abused, but not like this! This is so much worse, he was abused so much worse than I was –"
 
 "You too?" gasped Alchemist. So they had known about Morrow already…
+
+"The memories, they're all mixed up with, with… So that's why he didn't fight back… He must have been having a flashback to being beaten by, by, by, that must be his father…"
+
+As Yali spoke, Alchemist wrung their hands, overwhelmed with anxiety. Wordlessly, I offered them a hug. They collapsed onto me. We leaned into each other, clinging to human warmth in the face of the cold truth. It was killing me that Alchemist had to hear this stuff. "You know," I murmured, "if you don't want to hear this, I'm sure me and Yali could –"
+
+"No. I know. I'm listening too."
+
+Across from us, Yali continued talking. She had turned cold again, brutally matter-of-fact. "It wasn't just beatings. His father locked him in his room and starved him for days at a time, which I already suspected. He constantly berated him, calling him worthless trash. More than once, he nearly drowned him, to the point that he was coughing up water.
+
+Morrow was an unwanted child. His mother was terrified of his father, and never did anything to stand up to him. And his father viewed him as an object to be used. ????? a series of 'uncles', who molested him. It seems that his father sold him to them as a –"
+
+"That's too much!" I blurted out, horrified, still holding on tight to Alchemist. "How could so many horrible things happen to one person –"
+
+"Shut up. If you can't handle the truth, you shouldn't have asked for it."
+
+"That hurts," I said.
+
+Yali talked over me. "During that time, there was one thing he reached for to give him a break from the suffering. Whenever he was alone, he was constantly curious. ?????
+
+"Oh gods… even his curiosity is a coping strategy?"
+
+"A coping strategy? The way his mind lights up when he is experimenting with something, it's genuine excitement. I don't think you could feel that way if you were only using it as a coping strategy. He certainly <em>used</em> it to cope, but, but, I think that's just inherently how he is. He built with the pieces that were left to him.
+
+He ran away from home, at least, at least, four different times. One time the police found him and brought him home. And after the police had gone, well, that is one of the times his father nearly killed him. He begged strangers to take him in,
+
+?????
+
+"His feelings toward his clients are very positive. Even later in his life, after some of them beat and robbed him, he felt very safe around clients in general. I believe it is because, because, because none of them ever tried to take him home to his parents. Well-meaning strangers are terrifying to him.
 
 ?????
 
 [????? when revealing Morrow's backstory: remember to emphasize his inherent curiousity]
+
+"One thing I don't understand is, I never saw him in school. Did he never go to school?" ?????
 
 "He… he… never went to school? No, they sent him to school once, but the, the teachers yelled at him, called him a freak, sent him home, because, because, he, touched other children sexually. But…" [????? Yali voice/feelings] "that's a textbook sign of sexual abuse! Every Stern teacher is supposed to be trained to recognize the signs of abuse, they're supposed to –"
 
