@@ -362,6 +362,10 @@ He ran away from home, at least, at least, four different times. One time the po
 
 ?????
 
+He became – he – well, the word HE used was 'Defiler', but –"
+
+?????
+
 "His feelings toward his clients are very positive. Even later in his life, after some of them beat and robbed him, he felt very safe around clients in general. I believe it is because, because, because none of them ever tried to take him home to his parents. Well-meaning strangers are terrifying to him.
 
 ?????
