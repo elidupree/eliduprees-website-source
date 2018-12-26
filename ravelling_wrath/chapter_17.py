@@ -92,6 +92,7 @@ Flavor exploded in my mouth, ?????. They were the absolute WORST thing I had EVE
 "Whaaaaat?!"
 
 
+[????? somewhere: how Alchemist is the only one who hasn't hurt anybody, and how both the blood and waiting will trample over the broken to get what they want]
 
 
 

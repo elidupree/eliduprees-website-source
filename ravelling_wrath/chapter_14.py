@@ -231,11 +231,25 @@ They had never wanted a child to love and care for. They had wanted a child beca
 
 ?????
 
+In those days, I had only one friend, and I treated [????? them] very badly. When [????? they] left me, it was the worst day of my life.
+
+?????
+
 To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information on child abuse. I learned that what they were doing to me was not normal, and, more importantly, not <em>legal</em>. And that meant that there was something I could do to change it.
 
 I began recording everything they did. Every
 
 <bigbreak>
+
+[????? I tried to decide what to respond to but it was all too much]
+
+"I can't believe your only friend left you…" I said hollowly. "like, officially <em>left</em> you! On a specific day and everything…"
+
+Yali answered matter-of-factly. "It was 100% my own fault. No child [????? their] age could have given me what I needed. I practically bullied [????? them] until [????? they] was a nervous wreck."
+
+"…<em>you</em> did that? <em>You</em>…?"
+
+"You've only ever seen what I'm like when I'm with <em>you</em>," she said simply.
 
 ?????
 

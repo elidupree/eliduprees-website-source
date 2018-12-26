@@ -134,11 +134,26 @@ She turned her head halfway towards me. "Can you honestly tell me that she'd sti
 
 "You… can?"
 
-"Yeah, YOU think about it! So let's pretend I don't stab you and we all get to the Broken God's world just fine. What happens then? <em>Morrow</em>! It's not like he went off the rails because I was [????? upset], he was going to lose control no matter what! And there's no way Justicar wouldn't have heard about it, and then she'd be trying to kill <em>Morrow</em> until one of <em>them</em> was dead. He might have even attacked her first! So unless you'd be happier if Morrow was dead than Justicar, you can just shut right up about blaming yourself, it's hot bullshit!"
+"Yeah, YOU think about it! So let's pretend I don't stab you and we all get to the Broken God's world just fine. What happens then? <em>Morrow</em>! It's not like he went off the rails just because I was screaming for help, he was going to lose control no matter what! And there's no way Justicar wouldn't have heard about it, and then she'd be trying to kill <em>Morrow</em> until one of <em>them</em> was dead. He might have even attacked her first! So unless you'd be happier if Morrow was dead than Justicar, you can just shut right up about blaming yourself, it's hot bullshit!"
 
 Yali stared at me blankly.
 
 "
+
+?????
+
+"I shouldn't be dumping this on you… You were there too, ?????"
+
+"Yeah, but I don't feel guilty about it," I said. It felt a little weird being so casual about it. "I mean, if I killed someone <em>now</em>, I'd probably be pretty broken up about it. But when I remember it, it's like it's the Blood God's memory more than mine. It doesn't feel like killing somebody, it feels like, I guess… righteously destroying a…"
+
+"Good! Don't think about it too much. Leave the memory how it is."
+
+?????. "That's <em>super</em> not what I expected you to say."
+
+"Why not? We can't change what happened. I just don't want you to feel bad about what you had to do."
+
+I gaped at her. "
+
 
 [????? Where in this chapter?:]
 
