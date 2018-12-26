@@ -95,13 +95,54 @@ Flavor exploded in my mouth, ?????. They were the absolute WORST thing I had EVE
 
 
 
-[????? Should I use the unraveling potion?]"
+[????? Should I use the unraveling potion?; where in this chapter? probably near the end?]
 
 "That <em>is</em> what I would have told you to do, as recently as the third layer…" said Yali. "But now… I am starting to think that the Blood God <em>should</em> rejuvenate."
 
 "But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even marked Justicar as "not my real enemy". <em>Justicar!</em>
 
-Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last 70 years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose."
+Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last 70 years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose." ????? "Besides… your soulfire is one of the only powers that can pierce Justicar's armor."
+
+"I'll have to kill her…" I said. I swallowed. "?????!"
+
+"It may be necessary," said Yali gravely.
+
+[?????"Well, fuck." I looked down at my hands. wait no, more aggressive: "Fuck!" I yelled. "[I ]] "<em>May</em> be, though? You think we can get away without a fight?"
+
+"The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to take the unravelling potion –"
+
+"– like that's gonna happen –"
+
+"– or tricked, or forced into taking it. And it doesn't have to be <em>you</em> who bears the burden. Alchemi–"
+
+"No FUCKING way!!! We are NOT making ALCHEMIST fight our –"
+
+"–st would be capable of <em>creating</em> a weapon that <em>I</em> could use to –"
+
+"Still no! I'll just do it myself, we are <em>not</em> getting Alchemist involved in this! They are SOFT and SWEET and – gods, Yali, how could you even <em>think</em> of such a thing?!"
+
+Yali shouted back, "Me thinking of things that hurt people is why you're still alive right now!"
+
+"Yeah, but not like <em>this</em> –"
+
+"Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! I have <em>always</em> been the one who does what has to be done, when no one else will!"
+
+I had wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking right under the surface… It was part of why I'd always loved her, why I couldn't get enough of her.
+
+And the worst part was, she wasn't wrong.
+
+"Well… fuck," I said. "
+
+?????
+
+"But, we don't have to force Alchemist to make a weapon this time. We have time. And I have my soulfire. I can do it. Waiting knows I'm the one who deserves to." I laughed hollowly. "I guess I shouldn't be using that saying anymore, should I…"
+
+"It's okay. I understand."
+
+
+
+
+
 
 ?????
 
