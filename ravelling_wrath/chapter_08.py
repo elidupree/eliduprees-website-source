@@ -322,7 +322,7 @@ From behind me, I heard Justicar say, "Very well, I will accompany you. But I wi
 
 Morrow shrugged. "Gay is just who you fuck, right?"
 
-"What? No way, that makes it sound so one-dimensional! There's way more to it than that!"
+"What? Don't say that, that makes it sound so one-dimensional! There's way more to it than that!"
 
 "What is it then? How do you know if you're gay?"
 
@@ -342,11 +342,27 @@ Then I looked over at Morrow. He was [????? playing with something in his hands]
 
 "Uh, she's not doing anything."
 
-"I told you she's an extrovert! She keeps wanting to be closer to us! But then she SQUASHES it! Over and over again! I can't STAND it!" he spat.
+"I TOLD you she's an extrovert! She keeps wanting to be closer to us! But then she SQUASHES it! Over and over again! I can't STAND it!" he spat.
 
 "If you have a problem with the choices I make in what <em>should</em> be the privacy of my own mind," said Justicar, "it is not my responsibility to accommodate you."
 
 Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But getting Morrow calmed down was more important.
+
+?????
+
+When we came back around the star, Alchemist was talking with Yali, quietly but confidently. But as soon as Alchemist saw the rest of us, their eyes locked on to us and they went silent again.
+
+"Don't think about them," Yali told Alchemist gently. "Just keep doing what you've been doing."
+
+Alchemist nodded, and they looked back at the workspace in front of them. There were a bunch of bottles of bubbling potions, a lot of pictures and notes, and even some little heaps of colorful goo just lying on the table. Before I was done looking at it, Alchemist got to work again. Their soft hands reached out and tugged glowing strands out of nowhere, less like a stage magician waving a wand and more like a heavy laborer wringing magic out of the soaking air. 
+
+?????
+
+"This. Is. AWESOME!!" I zoomed up into the air.
+
+"Before you fly off," Yali called after me, "take this." I dropped back to the ground, but misjudged the distance and went tumbling onto the floor. Once I got up, Yali handed me a kitchen timer. "The potion won't last forever. This will go off when you need to come back."
+
+"Okay, fine." I didn't want to just carry it in my hand the whole time, so I thought for a moment and then just glued it to the back of my arm. Then I realized that I had basically reinvented the wristwatch, haha.
 
 ?????
 
@@ -356,7 +372,7 @@ Morrow was breathing hard, looking at Justicar with an anguished expression on h
 
 "If we are going to do that," said Yali, "we should think about exactly how we plan to do it. Especially, especially, what <em>order</em> we will visit the portals in."
 
-I hadn't thought about that, but it was true. There was one portal for each of us, so each of us was going to have to get off separately. And… "Well, Morrow's the only one who can talk to Neenu, so I guess he'll have to get off last." Even as I said it, I could see the problem with that. Did Morrow even know how to find his way from one star to another? Thinking back to when he first showed up, he had probably just "smelled" us with his powers and gone that way on his rocket. I had at least <em>tried</em> to read the Codex. But Morrow…
+I hadn't thought about that, but it was true. There was one portal for each of us, so each of us was going to have to get off separately. And… "Well, Morrow's the only one who can talk to Neenu, so I guess he'll have to get off last." Even as I said it, I could see the problem with that. Did Morrow even know how to find his way from one star to another? Thinking back to when he first showed up, he had probably just "smelled" us with his powers and gone that way on his rocket. I mean, I couldn't say I was much better, but I had at least <em>tried</em> to read the Codex. But Morrow…
 
 "I can go with him," said Justicar, not sounding very enthusiastic about it. "I can wait on the star with the Imminent's portal, then travel to my own portal by riding the stars the way we are intended to."
 
@@ -370,7 +386,9 @@ I hadn't thought about that, but it was true. There was one portal for each of u
 
 "I mean, obviously I'd have chosen to go first, I just wanted to <em>choose</em> to go first, not just to have the rest of you stick me with it."
 
-Justicar raised an eyebrow. "If it helps… there is always a choice." [????? Rinn narrates a background of that saying]
+Justicar raised an eyebrow. "If it helps… there is always a choice."
+
+"Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private data, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess, the place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
 
 
 
@@ -475,7 +493,7 @@ Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She 
 
 "Woah…"
 
-The portal had caught my eye immediately. In the middle of the star we were approaching, there was a simple archway made of the same goalie, white material as the star itself. But when I look to <em>through</em> the archway, I saw… blackness, but it was also like a kaleidoscope. Not a kaleidoscope of color, but of some sort of shimmering energy. It felt like it was drawing me inwards.
+The portal had caught my eye immediately. In the middle of the star we were approaching, there was a simple archway made of the same glowy, white material as the star itself. But when I looked <em>through</em> the archway, I saw… blackness, but it was also like a kaleidoscope. Not a kaleidoscope of color, but of some sort of shimmering energy. It felt like it was drawing me inwards.
 
 "What's woah?" said Morrow. "Isn't that just a doorway?"
 
@@ -487,7 +505,7 @@ Neenu swooped towards the star with the portal on it, and hovered over it in a l
 
 It was funny. When I looked at the portal with my <em>eyes</em>, I just saw solid blackness, like it was a black wall blocking off the doorway. But when I looked with my instincts, it was vibrant. "So I'm going to be stepping into that portal? What even <em>is</em> that thing?"
 
-"It will be a lot like when we were pulled into the Otherworld. Just as the Waiting God brought us into this layer, the Seeking God will bring us into the next. So it will be similar, but different."
+"It will be a lot like when we were pulled into the Otherworld. Just like the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition  So it will be similar, but different."
 
 "Different how? What's it going to be like?"
 
