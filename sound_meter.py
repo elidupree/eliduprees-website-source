@@ -116,7 +116,11 @@ $(function(){
     set_threshold(1.0 - height);
   });
   
-  
+  // hack to work around chrome's badly-designed autoplay policy WRT the web audio API
+  function tick() {
+    if (audio.state === "suspended") {requestAnimationFrame(tick); audio.resume();}
+  }
+  tick()
 });
 </script>
 '''}

@@ -382,6 +382,10 @@ var source;
   var line_adding_increment = 1/recording_1_second_width;
   function draw () {
     requestAnimationFrame (draw);
+    
+    // hack to work around chrome's badly-designed autoplay policy WRT the web audio API
+    if (audio.state === "suspended") {audio.resume();}
+    
     if (current_playback) {draw_recording (current_playback.recording);}
     //if ($(".codecophony_space")[0]) { return; }
     analyzer.getByteFrequencyData (frequency_data);
