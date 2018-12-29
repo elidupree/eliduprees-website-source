@@ -298,7 +298,7 @@ Yali clutched her head in her hands. "Of course it would be comfortable for <em>
 
 Yali looked dismayed. "You're allowed to have, to have, complicated feelings, about it. But what he is doing is abuse. To you, to Alchemist…"
 
-"But it really <em>isn't</em> like him! He's always been…" I thought back to the second layer. He had always jumped to hurt <em>himself</em>, but he never tried to hurt anyone <em>else</em>, except maybe as a prank. And even then, if I got mad about it, he'd fold over right away – "Wait, that's it! Think about it! He was reading my mind, so he must have known that I was thinking about attacking him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, you know, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him to it! And he still managed to not hurt anyone for, like, two whole layers? Maybe three? We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
+"But it really <em>isn't</em> like him! He's always been –" I thought back to the second layer. He had always jumped to hurt <em>himself</em>, but he never tried to hurt anyone <em>else</em>, except maybe as a prank. And even then, if I got mad about it, he'd fold over right away – "Wait, that's it! Think about it! He was reading my mind, so he must have known that I was thinking about attacking him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, you know, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him to it! And he still managed to not hurt anyone for, like, two whole layers? Maybe three? We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
 
 Yali glared at me. But I could see some doubt breaking through to her. Her face almost softened for a moment. But then it tightened up again. She shouted back at me, "Even if I agree to that, how are we going to help him?! <em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– Alchemists have all kind of powers, but one way or another, they all have to do with matter! His powers work purely by magic, you can't do anything against them! And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
 
@@ -315,6 +315,10 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 "If I find him, I'll kill him."
 
 "Oh."
+
+?????
+
+[????? Find a place for this: "both a lover <em>and</em> a monster."
 
 ?????
 
@@ -356,33 +360,61 @@ Yali talked over me. "During that time, there was one thing he reached for to gi
 
 "Oh gods… even his curiosity is a coping strategy?"
 
-"A coping strategy? The way his mind lights up when he is experimenting with something, it's genuine excitement. I don't think you could feel that way if you were only using it as a coping strategy. He certainly <em>used</em> it to cope, but, but, I think that's just inherently how he is. He built with the pieces that were left to him.
+"A coping strategy? The way his mind lights up when he is experimenting with something, it's genuine excitement. I don't think you could feel that way if you were only using it as a coping strategy. He certainly <em>used</em> it to cope, but, but, I think it's just inherently how he is. He built with the pieces that were left to him.
 
-He ran away from home, at least, at least, four different times. One time the police found him and brought him home. And after the police had gone, well, that is one of the times his father nearly killed him. He begged strangers to take him in,
+He ran away from home, at least, at least, four different times. One time the police found him and brought him home. And after the police had gone, well, that is one of the times his father nearly killed him. He begged strangers to take him in, ?????
+
+The last time he ran away, he finally succeeded, living on the streets and hiding from anyone who might try to take him home. Even the iciest street felt like freedom to him. Sometimes. He alternated. Sometimes he was very happy to simply experience life for himself without any abuser hovering over him. Other times, he could not get away from the cold and hunger. To survive, he became – he became – he – well, the word HE used was 'Defiler', but –"
+
+"Oh! I, uh, I think you can say 'sex worker'." <em>Defiler</em> was the common word for sex workers in the city, but some people considered it really derogatory. Which made sense, since it basically lumped them in with people who vandalized temples and pissed on altars. Not that I had a problem with anyone pissing on a few altars, especially if they were Stern altars, but anyway. Some uptight Stern types acted like any kind of casual sex was <em>defiling the honor given to you by the gods</em> ?????
+
+So. Morrow was a sex worker? I felt like I should be surprised, but nothing would have really surprised me at this point. Thinking back, he had always been kind of… <em>indifferent</em> to sexuality. You <em>would</em> be, I guess, if it was your job. ?????
+
+"Yes, thank you," said Yali, still cold and emotionless. "He became a sex w–"
+
+"Holy shit, do you think Justicar knew?!" I exclaimed.
+
+"What?"
+
+"It was practically the first thing she said to him! '<em>If you <strong>defile</strong> anyone's mind, your life is forfeit</em>'! You think she was hinting at…?"
+
+"Interesting… But how would she have known?"
+
+"I dunno. I mean, she was a cop. Maybe she knew some kind of, uh, secret signal?" Now than I was trying to explain it, it felt more like it was just a stupid idea. "Never mind, it's probably just the way she talks."
+
+"Probably…"
 
 ?????
 
-He became – he – well, the word HE used was 'Defiler', but –"
+"His feelings toward his clients are very positive. Even though, even though – I saw a memory of some clients beating and robbing him when he was older, but even after that, he felt very safe around clients in general. I believe it is because, because, because none of them ever tried to take him home to his parents. Well-meaning strangers are still terrifying to him."
+
+"'When he was older'… fuck, this all happened when he was still a <em>kid</em>?"
+
+"I'm not, not sure. They're <em>his</em> memories, I can't see him directly. I think he might be… early teens? Not so much older than I was when I went to the police.
 
 ?????
 
-"His feelings toward his clients are very positive. Even later in his life, after some of them beat and robbed him, he felt very safe around clients in general. I believe it is because, because, because none of them ever tried to take him home to his parents. Well-meaning strangers are terrifying to him.
-
-?????
+Eventually he met up with, with, with… he thinks of them as 'the girls'. He views them like family.
 
 [????? when revealing Morrow's backstory: remember to emphasize his inherent curiousity]
 
 "One thing I don't understand is, I never saw him in school. Did he never go to school?" ?????
 
-"He… he… never went to school? No, they sent him to school once, but the, the teachers yelled at him, called him a freak, sent him home, because, because, he, touched other children sexually. But…" [????? Yali voice/feelings] "that's a textbook sign of sexual abuse! Every Stern teacher is supposed to be trained to recognize the signs of abuse, they're supposed to –"
+"He… he… never went to school? No, they sent him to school once, but the, the teachers yelled at him, called him a freak, sent him home… Why? He doesn't remember this very well… I'm trying to think back… it was because, because, he, touched other children sexually."
+
+"Oh gods."
+
+"But…" [????? Yali voice/feelings] "that's a textbook sign of sexual abuse! Every Stern teacher is supposed to be trained to recognize the signs of abuse, they're supposed to –"
 
 "You think the Stern give a shit about us?" I said hotly.
 
-Yali looked dismayed. "I, I know people don't always do what they're supposed to, but, they, they just didn't care! At all! They saw how he was acting, they even saw his bruises! And they just sent him right back home to be beaten again! How could they just <em>not care?</em>"
+Yali looked dismayed. "I, I know the police aren't always, aren't always, don't treat everyone well. But, but, these were <em>teachers</em>! They're supposed to care about kids! And they, they, they just didn't care! They saw how he was acting, they must have even saw his bruises! And they just sent him right back home to be beaten again! How could they just <em>not care?</em>"
 
-"Yeah, well, maybe they care about you if you're a <em>Seti</em>."
+"Yeah, well, maybe they care about you if you're a <em>Seti</em>." [????? Remind the reader of the implications of Seti earlier]
 
 The words hung in the air between us.
+
+Yali wasn't answering. Right away, part of me felt horribly guilty. I wanted to say, <em>Oh gods, I'm sorry, I didn't mean it!</em> But another part of me, thundering right behind my heart, refused to back down. I surged to my feet, carelessly bumping Alchemist off to the side. "?????! And you think the police '<em>don't always treat everyone well</em>'?! You haven't got a fucking clue what it's like!
 
 ?????
 
@@ -390,9 +422,9 @@ The words hung in the air between us.
 
 "Where are you going?!"
 
-"What?" I followed were Yali was looking, and saw that Alchemist was trying to slip off into the woods.
+"What?" I followed where Yali was looking, and saw that Alchemist was trying to slip off into the woods.
 
-"I was just writing to, maybe, take a walk? I, um, it looks like you two have, maybe, some things to work out." Yali kept glaring at them. "I promise I won't go after Morrow. I know it wouldn't be…" they shuddered. "You can look in the future if you don't believe me."
+"I was just going to, maybe, take a walk? I, um, it looks like you two have, maybe, some things to work out." Yali kept glaring at them. "I promise I won't look for Morrow. I know it wouldn't be…" they shuddered. "You can look in the future if you don't believe me."
 
 Yali did look in the future. When she came back to the present, all of her sharp insistence had gone dull. "Fine. You can go."
 
