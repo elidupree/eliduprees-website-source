@@ -229,15 +229,45 @@ Another puzzle
 
 "You assume, simply because a thing was done in the name of the Stern, that I would approve of it. But not all who claim to follow the Stern truly uphold its principles. Even the highest ranks of the Stern Temple are full of – have their share of hypocrites
 
+?????
+
+"Or, as I prefer to see it, I was dismissed from the police force <em>for enforcing the law</em>." She smiled grimly. "And now it seems that the god itself has vindicated me."
 
 ?????
 
+I had an idea. I waited for Justicar to [????? do something with the puzzle]…
 
-"So, when you were a cop, how many people did you put in prison?"
+"Hey, Havi!"
 
-"Police officers do not 'put people in prison'. It is judges and juries who determine sentencing."
+"Yes?" said Justicar. Then she whirled around angrily. "How did you know my name?!"
 
-I was about to complain ????? when another, much more serious thought shot through me. "<em>Now</em> who's not taking responsibility for their actions?!" I demanded.
+"This was a few years ago, right? You had a whole post about it! You were all like 'The so-called Stern Temple are a DEN OF HYPOCRITES!' and 'They will remember the name of Havi ????? until –'"
+
+"Please don't remind me."
+
+"I remember because Dehel kept reposting it from a meme page with just a whole bunch of thinking face emoji. Haha, I think it was actually called <em>The Blood God's Dank Meme Stash –</em> man, that was so three years ago." I sensed that Justicar was trying not to listen. "Wait a minute, why don't you want to be reminded about this?! You were kickass!"
+
+"I [????? gave in to my emotions]. It was not the appropriate way for me to air my grievances with the Stern Temple."
+
+"Ugh, you're so Stern that even when you hate the Stern you have to be more Stern than they are?"
+
+[????? how can the law be pure when it's also made by humans?]
+
+[????? Finishing up the puzzle]
+?????
+<bigbreak>
+
+We were in the elevator again, taking a brief rest as we got close to the end of a long chain of puzzles. How many days had we been at this now?
+
+Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>!
+
+But even though I had my phone back, I was long since bored of all the games I had on it. Messing with Justicar was the only entertainment I still had.
+
+"So…" I said, trying to sound sly but probably just sounding like an asshole, "when you were a cop, how many people did you put in prison?" I couldn't resist asking her that. I just <em>knew</em> she was going to come up with some reason not to answer.
+
+Sure enough, she completely avoided it. "Police officers do not 'put people in prison'. It is judges and juries who determine sentencing."
+
+This was gonna be good. I quickly tried to plan out all the ways I keep messing with her. But then, another thought shot through me, a much more serious thought. "<em>Now</em> who's not taking responsibility for their actions?!" I demanded. "You arrest people, then they go to prison. And somehow that doesn't count??"
 
 "We each do our own part in the system, and only our own part. If a conviction is unjust, that cannot be laid at the feet of officers who were only carrying out their duties."
 
@@ -335,7 +365,7 @@ Not thinking of anything else to do, I stood on the button. The door on Justicar
 
 "Like what, a secret switch that lets us skip the puzzle?"
 
-"No. These puzzles are about applying the rules established rules in new ways the solver may not think of. The god would not change the rules this late in the sequence."
+"No. These puzzles are about applying the established rules in new ways the solver may not think of. The god would not change the rules this late in the sequence."
 
 "Wait, why not? I mean, I was being sarcastic, but maybe we actually <em>should</em> look for –"
 
@@ -345,7 +375,7 @@ Not thinking of anything else to do, I stood on the button. The door on Justicar
 
 "Suit yourself."
 
-I searched all up and down the walls. There wasn't much to search. I felt like Morrow from the room with the clock. Eventually, I just started pacing around and stirring irritably at the various parts of the puzzle.
+I searched all up and down the walls. There wasn't much to search. I felt like Morrow from the room with the clock. Eventually, I just started pacing around and staring irritably at the various parts of the puzzle.
 
 ?????
 
@@ -353,7 +383,7 @@ I searched all up and down the walls. There wasn't much to search. I felt like M
 
 "In that case, it is irrelevant to the puzzle. It may be intended as a distraction."
 
-"It's out of place, though. There haven't been distractions like this before…"
+"It's out of place, though. There haven't been distractions like this before… It's gotta mean something!"
 
 ?????
 
@@ -367,7 +397,7 @@ When I really concentrated, really paid attention to how they felt… they weren
 
 "Stop that!" said Justicar, probably still thinking I was playing with <em>real</em> fire.
 
-I smirked. With a flourish, I jumped into the center of the flames. Then I turned around and leaned my back against the fire, stretching and yawning as if I was relaxing in a hot spring or something. It actually hurt a lot, but it was worth it to watch Justicar panic. "I <em>get it now!</em>" I said. ?????
+I smirked. With a flourish, I jumped into the center of the flames. Then I turned around and leaned my back against the spurting source of the fire, stretching and yawning as if I was relaxing in a hot spring or something. It actually hurt a lot, but it was worth it to watch Justicar panic. "I <em>get it now!</em>" I said. ?????
 
 ?????
 
@@ -405,6 +435,32 @@ Justicar closed her eyes. With a strained voice, she recited, "<em>Let me strike
 
 I smirked. "Nah, it just means I was right all along! I'm the one who thought, uh…" Actually, when I thought about it, I hadn't really disagreed with Justicar about anything. I had just sort of… gone along with… "Oh. My. GODS!! I can't believe it, I seriously can't believe it! I've gone this entire way, this ENTIRE way, acting like I hate the rules, like I think they're all bullshit! But when you told me what you thought the rules were – the <em>very first time you told me</em> – I BELIEVED you! I could have checked any time I wanted! I could have stuck my hand in the fire whenever I wanted to, and then I could have skipped past all the puzzles! But the Seeking God <em>knew</em> I wouldn't do it! It knew I would just –" the words came reluctantly to my lips "– <em>trust</em> you."
 
+"An interesting thought, but how was that <em>my</em> rule? Anyone could have assumed th–"
+
+I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this petty shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about ?????, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
+
+"That is not what 'belief in the Stern' m–"
+
+"I will never believe in the Stern again! By my blood, not a single thing you do is just a <em>fact of life</em>. You're a –"
+
+<em>– a monster who should never have been constructed.</em>
+
+<em>– a poor, vulnerable human clinging to a lie.</em>
+
+<em>– not my true enemy.</em>
+
+"Oh? What am I?"
+
+I clutched my head, trying to calm my warring thoughts. The feeling of insight was gone, leaving my mind in a jumble. Which part was me, and which part was the Blood God? Could they <em>all</em> be the Blood God? For fuck's sake, why wouldn't it just leave me OUT of its family squabbles? And now it was squabbling with <em>itself</em>, too?!
+
+"I don't know. This is stupid. Never mind."
+
+"No, you clearly had something to say. If you start something, you should finish it."
+
+I stared back at her. I almost wanted to say something defensive, but if there was one thing I had just learned, it was that I really <em>didn't</em> have to listen to her. "Let's just go find Yali," I said tiredly.
+
+
+The exit doorway was right in front of us, leading to a tunnel into the blackness.
 
 ?????
 
