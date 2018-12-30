@@ -123,12 +123,29 @@ The beer sat uncomfortably in my belly. Stern take it, I should have thought abo
 
 "You can use manifesting to stop being drunk," said Justicar.
 
-"Well, I've come this far."
-?????
+"Well, I've come this far. Let's, uh, get this party started." I manifested some big speakers, plugged them into my phone, and started blasting some upbeat party music. I picked a song with a strong beat and a sexy voice. As soon as it came on, I wanted to jump up and start dancing, even though it was just me and Justicar here. So I did. I grabbed Justicar's wrist and tried to pull her up with me, but she wouldn't budge.
 
-"I had sex with many different men."
+"Fiiiiine, be that way," I said. I happily started bobbing my head up and down to the beat. Pretty soon, the music started glitching in and out. The speakers I'd manifested were some old ones my dad had from, like, last century. They were flaky as shit. I was about to give them a good kick when I noticed Justicar glancing at them and twitching. Well, if <em>she</em> was annoyed –
 
-"Haha, that's where you went wrong. Shoulda had sex with girls instead."
+Before long, Justicar manifested a different pair of speakers and re-plugged them. The music sounded fine now. Well, worked for me.
+
+I strutted and spun across the floor, my body pumping with the pulse of the music. "Don't tell me you don't know how to enjoy yourself," I laughed in Justicar's direction.
+
+"Is that all you see in a party like this one you are mimicking? A harmless way to enjoy yourself?"
+
+Why did she have to make everything into some sort of serious issue? "Like <em>you'd</em> know anything about it," I snapped.
+
+"On the contrary, I know far too much. When I was your age, I went to parties like this nearly every weekend. I constantly lied to my parents about where I had been and how late I had stayed out."
+
+"You're bullshitting me."
+
+Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I do not believe to be true. [????? So you can be certain it's true when I say this: I did not respect myself.] I was a heavy drinker. I literally cannot count the times that I drank until I was blacked out or vomiting on the floor. My friends tried to stop me, but I persisted, even knowing that I was making them clean up after me. I ruined my relationships with them, one by one."
+
+I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie, but it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
+
+Justicar went on. "But even ?????, I refused to understand that it was myself who had [????? dug that hole]. To fill that void, I reached out in every direction except the one that would actually [????? restore me]. I reached for every kind of drug I could get my hands on, I had sex with many different men –"
+
+Well <em>that</em> I knew how to respond to. "Haha, that's where you went wrong. Shoulda had sex with girls instead."
 
 Justicar looked a little frustrated.
 
@@ -140,15 +157,15 @@ Justicar sighed. "I won't rise to your provocation."
 
 "I am not homophobic!" said Justicar angrily. She struggled to find the right words. "It didn't matter <em>who</em> I was having sex with! I –"
 
-"Also, you say you 'had sex' with these men when you were [????? very drunk]. Isn't that… rape?"
+"And, liiiiike, you say you 'had sex' with these men when you were totally wasted. Isn't that, like, rape?"
 
 "I put myself in that situation willingly."
 
-"What, like you got [????? very drunk] specifically to have sex with some dude?"
+"What, like you got wasted specifically to have sex with some dude?"
 
 "No, but it doesn't matter if –"
 
-"Then I don't see how it was consensual," I ?????.
+"Then I don't see how it was consensual," I concluded.
 
 Justicar glared at me. "Are you so eager to avoid taking responsibility for your actions that you must see victimhood everywhere, even when I tell you myself that I was not a victim?"
 
@@ -201,7 +218,9 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 
 
 
+?????
 
+Another puzzle
 
 
 ?????
@@ -224,7 +243,7 @@ I was about to complain ????? when another, much more serious thought shot throu
 
 "Are you kidding me!! If I throw someone in a pit full of vipers, do you think I get to say, 'oh, it's not my fault, I'M not the one who put those vipers in that pit'!?! Or do you want to lay the blame where it fucking belongs?"
 
-????? [????? The person who went to prison for shoplifting]
+????? [????? "or maybe I don't care about order as much as I care about people's lives!"] [
 
 "Very well." Justicar opened her arms. "If you want to hold me individually responsible for every violent act ever performed in the name of the Stern, perhaps <em>I</em> should hold <em>you</em> responsible for the damage caused by <em>your</em> ideology."
 
