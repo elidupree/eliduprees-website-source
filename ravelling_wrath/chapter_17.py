@@ -83,7 +83,7 @@ Alchemist took us to a tiny brook and gathered clay from the ?????.
 
 ?????
 
-Alchemist and Yali got to work hunting the brambles for berries that were just the right ripeness. They were paying much attention to me. So I idly picked a few berries and ate them.
+Alchemist and Yali got to work hunting the brambles for berries that were just the right ripeness. They weren't paying much attention to me. So I idly picked a few berries and ate them.
 
 Flavor exploded in my mouth, ?????. They were the absolute WORST thing I had EVER tasted. I immediately reached for some more.
 
@@ -180,6 +180,8 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 "Are you kidding me," I said.
 
 ????? Both of us will sacrifice anything to achieve our goals. Both of us will destroy anyone we have to. The only difference is that Justicar will stop at the gods, and I will not."
+
+????? The Stern doesn't have to be about sacrificing what you care about just to be obedient to someone else. It can also be about sacrificing… unimportant things… to get what you truly want.
 
 
 
