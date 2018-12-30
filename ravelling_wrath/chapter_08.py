@@ -366,6 +366,46 @@ Alchemist nodded, and they looked back at the workspace in front of them. There 
 
 ?????
 
+"What's y'all ship name??"
+
+"Woah, I can't believe we haven't got a ship name yet! We need one of those!"
+
+Alchemist must not have known what a ship name was, because Morrow immediately explained, "It's when you've got two people in a relationship and you stick their names together to be super cute! Like you take half of 'Rinn', so like 'ri', and then half of 'Yali', and you get… 'Rili'!"
+
+"Really?" I said.
+
+Yali smirked. "It's better than 'Yawn'."
+
+"Oh my gods."
+
+"What about Riyali?" said Morrow.
+
+"How come Yali gets her whole name but I only get half of mine??"
+
+"Yeah but you get the first part!!"
+
+"Plus, I know a kid named Riyali. That would be awkward."
+
+"How about your last names??"
+
+I had to think fast. The rest of them still didn't know Yali's name was Yali <em>Seti</em>, and if they knew, they might think she was a stuck-up rich person. So I had to use <em>my</em> last name, so… "Yal…katura," I said uncertainly.
+
+Morrow clapped me on the back. "Brilliant! Here comes Yalkatura to knock the gods on their asses!"
+
+When he put it like that, it <em>did</em> sound kinda awesome. "Yeah!" I shouted.
+
+"I wouldn't say we're going to, to, to do <em>that</em> to the gods," said Yali. "We do have a plan for how to handle them, –"
+
+I laughed. "Now you've made it sound like no big deal! So if you were trying to make us sound <em>less</em> badass –"
+
+"I, I, –"
+
+I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. Got some gods getting you down? We'll 'handle' them. Heh. NBD."
+
+
+
+?????
+
 "Bet we can ride Neenu straight to the portals!" said Morrow.
 
 "Sounds good to me!" I said. "I'm sick of all this star stuff already."
