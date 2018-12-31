@@ -239,6 +239,12 @@ To keep me busy and quiet, they gave me the best computers and phones that money
 
 I began recording everything they did. Every
 
+?????
+
+He called me "a perfect witness" and "my little psychopath". He said I would make a good lawyer one day, and I am not sure whether it was a compliment.
+
+?????
+
 <bigbreak>
 
 [????? I tried to decide what to respond to but it was all too much]
