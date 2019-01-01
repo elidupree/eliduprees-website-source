@@ -207,27 +207,46 @@ Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>
 
 <bigbreak>
 
-Arinyo Seti is not the one who abused me. But she bears some of the guilt nonetheless.
+Arinyo Seti is not the one who abused me. But [????? she bears some of the guilt] nonetheless.
 
 I will begin at the beginning. My biological father died not long before I was born. Arinyo Seti had never intended to raise me by herself. With her memory and attention issues, she knew that she was not prepared to live alone, much less to raise a child that way. In the home where I lived, trash piled up for weeks before she would clear it. More than once, the city shut off our water because she had forgotten to pay her bills. And even though she always made sure I ate before she did, there were some days when there was no food left in the house. We were not poor, and she had friends who were willing to help, but she rarely asked for help until I reminded her. By the time I was six years old, I was more organized than my own mother.
 
 That was not her fault. That was not when she betrayed me.
 
-[????? Bit of a description about how she got selected to be high priest, probably involving the old high priest, some other high ranking people, and the god]
+I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that made sense to her. And I hoped for her too.
 
-?????
+So when she explained to me that I would be given to another family when she was [????? made into high priest], I understood. She explained that they would take care of me from now on, that they would give me the care and nurturing that she could not. She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
 
-a husband and wife who could not have children of their own. [????? They were very nice and did over the top acts of love for each other]
+????? and ????? ?????surname were praised and respected by everyone in our community. They were fashionable. They gave generously to good causes. And everyone remembered their grand gestures of love for each other, the surprise romantic messages they delivered at their formal parties. They always laughed and smiled charmingly,
 
-?????
+And at the same time, they were a husband and wife who could not have children of their own. So it seemed only natural that they would be a good candidate to care for the high priest's child when she was consumed by her duties. Everyone told me it was a perfect match. They said it was sad I would be away from my mother, but they could imagine no better replacement.
 
-She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
+At first, I thought they were right. I ate good food. I lived in a clean house. I missed my mother, but she had told me to trust the [????? name]s, and I believed her.
 
-At first, I thought she was right. I ate good food. I lived in a clean house. I missed her, but she had told me to trust the [????? name]s, and I believed her.
+It was barely days before their performance fell apart. Everything they did in public was just an act to cover up how bitter and dysfunctional they were in private. They hated each other, they hated themselves, and before long, they hated me as well. There was hardly a day when they didn't find a reason to yell at each other. I have a clear memory of a day when they blamed each other for hours over a stain on one of their tabletops. A stain I could barely even see. If either of them saw something that was out of its perfect order, it was the other one's fault.
 
-It was barely days before their performance fell apart. Everything they did in public was just an act to cover up how bitter and dysfunctional they were in private. They hated each other, they hated themselves, and before long, they hated me as well. There was hardly a day when they didn't find a reason to yell at each other. If [????? something was out of order, it was the other one's fault]. And if I tried to make them stop, they yelled at me too. They called me ?????, worthless. I started making sure the house was in perfect order, hoping there wouldn't be anything to set them off. But every time they caught me trying to clean up, they found a reason to yell at me for that as well. I quickly learned to clean up when no one was looking.
+And if I ever spoke up to make them stop, they yelled at me as well. They called me worthless. They called me an inconvenience. I was no better than the furniture they tried to polish until the stain was invisible. I started making sure the house was in perfect order, hoping there wouldn't be anything to set them off. But when ????? caught me trying to clean the house, he cornered me and berated me until I was frightened into silence, accusing me of trying to cover up for ?????'s carelessness. I quickly learned to clean things up when no one was looking.
 
 They had never wanted a child to love and care for. They had wanted a child because they thought, if they had to care for a child, they could ?????
+
+?????
+
+[????? Sex]. I listened through the imperfectly soundproofed walls, a child trying to understand what made them moan, at one moment, "oh gods, I love you, how could I live without you," and at another moment, "[????? you pervert, you freak, only perverts are into that]".
+
+And then there was the day when I walked in on them.
+
+I understand that memories can be altered when we remember them. False memories are a thing that can happen. And the order of events I remember is impossible. But [????? the overall way it happened is something I can be certain about:] They used me as a glorified sex toy. Maybe they were trying to spice up their sex life to forget everything that was wrong with the relationship. And for all their convoluted rules about which kinds of sex were freakish or perverted, literally using a child's body to pleasure themselves was not covered.
+
+Once the idea was in their minds, it could not be removed. Both of them raped me many times. Both together and separately. [?????femalename in particular forced me into many different positions creatively, all the while complaining that it was on the fair because she thought ????? had gotten to use me more than she had.]
+
+I blamed myself for a long time. I no longer do. Those thoughts are not allowed authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. I no longer believe it. That is good.
+
+[????? I didn't tell many people.] But. I. On one of our visits. Which happened every other week. On one of our visits. I told. My mother. What was happening.
+
+She refused to believe me.
+
+
+
 
 ?????
 
