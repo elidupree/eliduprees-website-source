@@ -268,9 +268,13 @@ He called me "a perfect witness" and "my little psychopath". He said I would mak
 
 <bigbreak>
 
+Yali smiled joylessly. "Can you tell I've told this story before? The parts before ?????, that is. I haven't told anyone since I came to [????? our school]. I wanted to try having a normal school life, just to try it."
+
+Her words kept echoing around my head like it was an empty cave. I felt like there were a million things I wanted to say, but none of them came to me. How? How could people be so horrible? I was supposed to be angry, to hate ????? and ????? and Arinyo Seti for everything they had put her through. But there was an emptiness inside me where the anger should have been.
+
 [????? I tried to decide what to respond to but it was all too much]
 
-"I can't believe your only friend left you…" I said hollowly. "like, officially <em>left</em> you! On a specific day and everything…"
+"I can't believe your only friend left you…" I said hollowly. "like, officially <em>left</em> you. On a specific day and everything…"
 
 Yali answered matter-of-factly. "It was 100% my own fault. No child [????? their] age could have given me what I needed. I practically bullied [????? them] until [????? they] was a nervous wreck."
 
@@ -284,7 +288,19 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child [????? their
 
 "Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>…" Yali said sourly, but then stopped herself. "But the ?????s did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
 
+?????
 
+"The Broken Gate. It will be, it will be, <em>different</em>."
+
+"Will I stop being… like this?"
+
+"Yes." Yali turned towards me. She put her hands on my shoulders and spoke seriously. "Whatever happens, there's one thing I want you to remember. <em>Nothing</em> that happened in this layer was your fault. Do you understand me?"
+
+"O… kay," I said, uncomprehending.
+
+"You don't believe me," she said.
+
+"I don't believe anything right now."
 
 [????? Broken Gate at the end of this chapter, not the beginning of the next. Like scratching the entire interior of your body, can't tell if it's comfort or pain]
 

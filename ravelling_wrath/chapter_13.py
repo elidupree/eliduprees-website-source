@@ -55,7 +55,11 @@ I looked at her chest, uncomprehending. There was supposed to be a wound there, 
 
 "Say my name," she said.
 
-I opened my mouth. I knew her name, of course I knew her name. I had said her name so many times, shouting it across the schoolyard, whispering lovingly while she held me in her arms… I had whispered – "Yali. Oh gods, Yali." All the fear and tension drained out of me. I was back. Mostly. ''',
+I opened my mouth. I knew her name, of course I knew her name. I had said her name so many times, shouting it across the schoolyard, whispering lovingly while she held me in her arms… I had whispered – "Yali. Oh gods, Yali." All the fear and tension drained out of me. I was back. Mostly. 
+
+?????
+
+''',
 },
 ]
 
