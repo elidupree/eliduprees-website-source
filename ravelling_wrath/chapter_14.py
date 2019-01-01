@@ -241,6 +241,8 @@ Once the idea was in their minds, it could not be removed. Both of them raped me
 
 I blamed myself for a long time. I no longer do. Those thoughts are not allowed authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. I no longer believe it. That is good.
 
+On other days, they cried and begged me not to tell anyone what they had done. They said it would ruin them. ?????
+
 [????? I didn't tell many people.] But. I. On one of our visits. Which happened every other week. On one of our visits. I told. My mother. What was happening.
 
 She refused to believe me.
