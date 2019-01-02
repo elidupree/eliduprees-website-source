@@ -110,7 +110,7 @@ Yali spoke gravely. "The Blood God is a god of anger, and it has been starving f
 
 [?????"Well, fuck." I looked down at my hands. wait no, more aggressive: "Fuck!" I yelled. "[I fight people a lot but I never wanted to actually kill anyone]!"] "<em>May</em> be, though? You think we can get away without a fight?"
 
-"The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to take the unravelling potion –"
+"The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to take the unravelling potion herself –"
 
 "– like that's gonna happen –"
 

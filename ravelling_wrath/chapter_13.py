@@ -43,7 +43,7 @@ Her heavy hands gripped my shoulders. I tried to thrash away. Her voice echoed i
 The sound of her voice helped me focus on what was real. I
 ?????
 
-Looking at her was the most terrifying thing I'd ever done. I wanted 100 things of the same time. I wanted to run away. I wanted to hug her. I wanted to get down on the floor and beg for forgiveness and sob into her legs. I reached out to do it all at the same time. But I was frozen in terror.
+Looking at her was the most terrifying thing I'd ever done. I wanted a hundred things at the same time. I wanted to run away. I wanted to hug her. I wanted to get down on the floor and beg for forgiveness and sob into her legs. I reached out to do it all at the same time. But I was frozen in terror.
 
 "I apologize for putting you through this," she said earnestly. "But it was the only way to wake up the part of you that was still Rinn."
 

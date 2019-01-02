@@ -241,13 +241,13 @@ Once the idea was in their minds, it could not be removed. Both of them raped me
 
 I blamed myself for a long time. I no longer do. Those thoughts are not allowed authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. I no longer believe it. That is good.
 
-On other days, they cried and begged me not to tell anyone what they had done. They said it would ruin them. ?????
+On other days, they cried and begged me not to tell anyone what they had done. They said it would ruin them. They accused me of tempting them into it and despising them for their weakness. ?????
 
 [????? I didn't tell many people.] But. I. On one of our visits. Which happened every other week. On one of our visits. I told. My mother. What was happening.
 
 She refused to believe me.
 
-
+She told me she <em>understood</em> that I wasn't happy with the ?????s.
 
 
 ?????
@@ -274,7 +274,7 @@ Her words kept echoing around my head like it was an empty cave. I felt like the
 
 [????? I tried to decide what to respond to but it was all too much]
 
-"I can't believe your only friend left you…" I said hollowly. "like, officially <em>left</em> you. On a specific day and everything…"
+"I can't believe your only friend left you…" I said hollowly. "Like, officially <em>left</em> you. On a specific day and everything…"
 
 Yali answered matter-of-factly. "It was 100% my own fault. No child [????? their] age could have given me what I needed. I practically bullied [????? them] until [????? they] was a nervous wreck."
 
