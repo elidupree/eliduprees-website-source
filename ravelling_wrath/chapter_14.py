@@ -302,7 +302,29 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child [????? their
 
 "I don't believe anything right now."
 
-[????? Broken Gate at the end of this chapter, not the beginning of the next. Like scratching the entire interior of your body, can't tell if it's comfort or pain]
+?????
+
+I faced the portal.
+
+At the thought of stepping in, a terrible loneliness gripped me. I couldn't bear to go away from Yali again. With a desperate craving, I turned and moved in to kiss her.
+
+She gently held me away. "Even if you do that, you don't feel anything. It only makes us both feel worse."
+
+I slumped against her arms.
+
+"I know," she said. "But there's nothing else we can do. Go into the Gate. Things will be better on the other side."
+
+Her strong hands turned me around and guided me towards the portal. My heart cracked and crumpled as my legs carried me into the blackness.
+
+The Broken Gate swallowed me.
+
+The ocean crashed over me. A black ocean, heavy and infinite, tossed and dropped my body across the waves. It washed into my head, flooding away my tiny feelings of fear and despair and want. It washed into my mouth, flooding away my flimsy words of explanation. It washed into my eyes, leaving nothing behind them but the raw force of the cosmos.
+
+I was naked in the biting storm. The world lashed my skin with lines of pain, but I felt no need to strain against it. Every muscle felt its tension drain away, a deep relaxation like sinking into the softest mattress [????? and also peeing? How to make this sound grand?]. I was carried away on a tide of warm and cold. My throat was blocked, yet my chest was full of more breath than my lungs could bear.
+
+?????, like a deep scratch that rubbed over every pore of my skin and drilled down into my very bones. ?????. I was long past telling whether it was a scratch of comfort or of pain. It filled me up, like the roar of water filled my ears. This scratch was everything, everything I could feel or be. Tears poured from me, wrenching at my few remaining scraps of emotion and then draining them into the infinite sea. I was full and empty, awash with agony and bliss. I was everything and nothing. I was the clouds and the desert sand.
+
+[????? Final line?]
 
 ''',
 },
