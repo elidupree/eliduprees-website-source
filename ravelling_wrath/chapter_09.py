@@ -81,6 +81,14 @@ The first bit was easy. But then, as I jumped from and ????? to an ?????, the wo
 
 It turned out I could try the course as many times as I wanted. Each time I fell into a pit, I just landed back at the beginning. It took me a few more tries to get the next jump right, picking the right angle and timing to compensate for the gravity change. I ended up jumping off the edge of one big block, then landing on the side of the same block, which was now acting like a floor. Now everything was sideways. What had been a ladder earlier was now a set of monkey bars.
 
+[????? Long summary of obstacle course] Then there was a set of overlapping wheels I had to jump through without hitting any of the spokes. The first time I tried it, one of the spokes smacked into my stomach and knocked the wind out of me, then I fell onto another one that flung me off into space. By the time I made it to the final challenge, my arms and legs were sore and I had bruises all over me. It was the most fun I'd had in ages.
+
+For the final challenge, I had to run along a narrow spiral through space to get to a golden exit door. Along the spiral, I had to literally jump through flaming hoops while dodging giant hammers and tricky floor tiles that were trying to flip my feet out from under me. If you'd shown me this the day before, I would've been like, "how the fuck do you expect me to do that?!". But now that I'd made it past the rest of the obstacles, this last bit felt like it just might be possible.
+
+Of course, I still screwed it up on the first try. ?????
+
+?????
+
 ?????
 
 "YES!" I pumped my fist in the air. "I <em>made</em> it! No stupid [????? part of obstacle course] can stop <em>me</em>!" With a flourish, I flung open the tantalizing exit door, to reveal my reward.
@@ -101,9 +109,21 @@ I thought of the Waiting God, and felt KILL! MURDER! DO IT NOW, TEAR HER TO PIEC
 
 "Look, I'm not going to killmurder anyone," I said out loud. I tried to probe the Blood God's thoughts about a couple more things, but now that I had set it off, it didn't want to think about anything but how mad it was. I tried to block it out and focus on the stuff that was in front of me.
 
+
+
 [????? Examples]
 
 [????? whirlpool room: manifesting rules]
+
+Not that I was planning to do with the Seeking God wanted me to. Sure, normally, it would've been fun to dive into the whirlpools. But if I just dived in and had fun, I would be <em>giving in</em>. I refused to just roll over and let the Seeking God have its way.
+
+So I stuck out my hands and manifested a boat. Or I thought I did. When I looked, there wasn't anything there. I tried again, but still nothing. I tried for a bridge, and that didn't work either. Could I manifest anything at all? I manifested a rock. That worked, but it wasn't any use. I threw it into the water irritably.
+
+I spent ages trying different things, piling up a heap of different manifested junk around me. It probably would've been quicker to just do everything the way I was supposed to, but I couldn't stand the idea. But somehow, I could only manifest things that weren't any use. Eventually I realized that if I <em>code</em> manifest rocks, I could eventually fill up the water by dumping a load of rocks into it. But then I stopped being able to manifest rocks either.
+
+Was the Seeking God somehow stopping me from cheating?
+
+That gave me an idea. I grabbed a Blood Blade and extended it into a long pole, long enough to cross the water. I smirked. The Seeking God could stop my regular manifesting all it wanted, but it wasn't allowed to stop the powers the Blood God gave me. So I made some more long Blood Blades and fused to them into a bridge so I could walk across.
 
 ?????
 
@@ -163,7 +183,7 @@ A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be c
 "Haha! Better luck next time!" Morrow ran on ahead. I hurried to keep up with him.
 
 
-????? [????? summary of other riddles]
+????? [????? summary of other riddles; Morrow always answering them first, and Rinn getting increasingly irritated and impatient to find Yali]
 
 The next room was just an empty room, at first. I crossed it and tried to open the door at the other side, but it was locked, of course. When I looked back, the door behind us also slammed closed. Typical. In the middle of the room, two waist-high pedestals rose from the floor.
 
@@ -347,9 +367,9 @@ Alchemist looked to Morrow, but Morrow was still pretty out of it. So Alchemist 
 
 "Doing it on another person! That would be so weird! And interesting! I'd have to figure out their feelings at the same time I was doing it! But what if – actually it could be really easy! Because I don't have to feel it myself at the same time! But it would also – I'M STUCK HERE AND I CAN'T MANIFEST AND I'M GOING TO – MAKE IT STOP, MAKE IT STOP, HELP ME!!"
 
-"I could, maybe, make a potion? That would help?" Alchemist [????? did the things they normally do to make a potion], but nothing happened. They did it again, but still nothing.
+"I could, maybe, make a potion? That would help?" Alchemist cupped their hands in the air, but nothing happened. They did it again, but still nothing.
 
-"None of our powers work in this room," I explained. "I think the Seeking God is trying to make us figure out… <em>that</em> –" I jerked a thumb towards Morrow "– without using magic."
+"None of us can manifest anything in this room," I explained. "I think the Seeking God is trying to make us figure out… <em>that</em> –" I jerked a thumb towards Morrow "– without using magic."
 
 "Oh…" said Alchemist uneasily. They reflexively took a step towards Morrow, but then stopped themself and looked to me for permission.
 
@@ -371,7 +391,25 @@ Before long, Morrow was… not exactly <em>calm</em>, but a lot less frantic.
 
 
 
+?????
 
+"I'll check the other side!" said Morrow.
+
+I squinted. I didn't see anything interesting over there. "What's on the other s–"
+
+"Won't know until you look!" Morrow hurried off.
+
+"Well <em>I'm</em> going to check that cool thing in the middle." I jumped into the fountain and splashed noisily across to the center. Hovering in the spurting water, there was a shimmering sphere of all different colors. I tried to grab it with my hand, and my hand passed right through it. But then it sort of started following my hand around.
+
+"What <em>is</em> this thing??" I said. I splashed my way back to the others, the sphere hovering after me.
+
+Morrow ran up to me. "Ooh! You got the map!"
+
+"How the fuck is this a map??"
+
+"How is it not obvious??" Morrow snatched the sphere from my hands.
+
+"Hey!" I yelled. But somehow, it was still there in my hand, too. Morrow just had a <em>copy</em> of it. He cheerfully started handing more copies out to the others.
 ''',
 },
 ]
