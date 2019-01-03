@@ -348,6 +348,8 @@ As Yali spoke, Alchemist wrung their hands, overwhelmed with anxiety. Wordlessly
 
 Across from us, Yali continued talking. She had turned cold again, brutally matter-of-fact. "It wasn't just beatings. His father locked him in his room and starved him for days at a time, which I already suspected. He constantly berated him, calling him worthless trash. More than once, he nearly drowned him, to the point that he was coughing up water.
 
+It is difficult to find a clear story in something as disorganized as this. I believe that Morrow avoids thinking about his own past. He has never organized his memories as I do, or even as most of us do. But I will put it together as well as I can.
+
 Morrow was an unwanted child. His mother was terrified of his father, and never did anything to stand up to him. And his father viewed him as an object to be used. ????? a series of 'uncles', who molested him. It seems that his father sold him to them as a –"
 
 "That's too much!" I blurted out, horrified, still holding on tight to Alchemist. "How could so many horrible things happen to one person –"
