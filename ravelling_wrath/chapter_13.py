@@ -51,13 +51,22 @@ My voice came out shakily. "Are you seriously… apologizing to me? I – I stab
 
 "It's okay. Look, I'm okay. I took a potion, I'm already healed."
 
-I looked at her chest, uncomprehending. There was supposed to be a wound there, ?????. It was like it had never happened.
+I looked at her chest, uncomprehending. There was supposed to be a wound there, but there was just… her regular, unmarked sweater. It was like nothing had even happened.
 
 "Say my name," she said.
 
-I opened my mouth. I knew her name, of course I knew her name. I had said her name so many times, shouting it across the schoolyard, whispering lovingly while she held me in her arms… I had whispered – "Yali. Oh gods, Yali." All the fear and tension drained out of me. I was back. Mostly. 
+I opened my mouth. I knew her name, of course I knew her name. I had said her name so many times, shouting it across the schoolyard, whispering it lovingly while she held me in her arms… I had whispered – "Yali. Oh gods, Yali." The topmost layer of fear and tension drained out of me. I was back. At least halfway.
 
+I ?????. "But – oh gods, oh gods, oh gods, how – what –" I held out my hand, opening and closing it as if it was a strange thing that wasn't part of me. This hand had done what? Suddenly I was shivering violently, my hands tingling and tears squeezing painfully from my eyes. ????? [????? Yali hugs Rinn]
+
+And then came the pain and rage. I tried to jump up, to run at the wall and beat against it. But Yali was holding me too tightly. I struggled against her, thrashing back and forth. "LET ME GO!!" I screamed.
+
+"I'm not going to – oof! – to let you go if you're going to – ow! – to hurt yourself!" gasped Yali, struggling to hold on.
+
+"I DON'T CARE! LET ME GO, LET ME GO, –" I managed to jerk away from her and jump up. Blinded by rage, I slammed my fist into the stone wall with all my strength. I pulled my hand back for a second swing, and I was about to do it again when the pain hit. My hand felt like it was splitting apart. Normally, pain would fuel my anger, but now, I was suddenly too exhausted to be angry. I slumped against the wall, clutching my broken hand, and sank down to the floor again, curling up in the corner and sobbing.
 ?????
+
+[????? Walking along the Blood Child's Path: the statues ask Rinn to say moderately negative things about herself, and Rinn tries to say very negative things instead, but they reject it]
 
 ''',
 },

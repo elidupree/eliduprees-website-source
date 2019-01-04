@@ -65,11 +65,11 @@ I held up the uniform shirt in my hands. It was made of heavy, stiff cloth, all 
 
 Mechanically, I stripped off my clothing and changed into the uniform. It was ill fitting, and the stiff cloth chafed at my skin. The uniform shoes were hard and black, and made a sharp sound each time I took a step. It was hard not to stand up straight while wearing them. I felt like a soldier forced to march in a ceremonial parade.
 
-I looked down at my old clothing, sitting limply in a heap that looked tiny in the big white room. Belatedly, I realized that I could have just unmanifested it rather than taking it off normally. Nothing I did was ever right.
+I looked down at my old clothing, sitting limply in a heap, looking tiny in the big white room. Belatedly, I realized that I could have just unmanifested it rather than taking it off normally. Nothing I did was ever right.
 
 Where did that thought come from? It was such a weird thing for me to be thinking. Ugh, I couldn't stand this place.
 
-I bent over to grab my phone from my old clothes. Once I was holding it, I realized that my uniform had no pockets. I felt stupid. I tried to manifest a pocket onto the uniform, but the Stern God didn't allow me. Carrying the phone in my hand, I approached the statues at the room's exit. They blocked me dismissively. <em>That is not to come with you,</em> they seemed to be saying.
+I bent over to grab my phone from my old clothes. Once I was holding it, I realized that my uniform had no pockets. I felt stupid. I tried to manifest a pocket onto the uniform, but the Stern God didn't allow it. Carrying the phone in my hand, I approached the statues at the room's exit. They blocked me dismissively. <em>That is not to come with you,</em> they seemed to be saying.
 
 I didn't want to leave my phone behind. It was the last real object I still had with me. Even before I changed into the uniform, all my clothes had been replaced with manifested versions long ago. But I just wanted to get this over with. It was too much work to try to argue. Feeling empty, I set my phone down with the rest of my things and stepped away from it.
 
@@ -83,11 +83,11 @@ Normally, I would have fought against it, refused to [????? show obedience (bow 
 
 I bowed. The statues stood aside approvingly.
 
-?????
+I stumbled forward, in the Stern uniform, down the Stern corridor, leaving everything behind me.
 
-[????? Setting out on the corridor]
+The hard shoes pinched my feet as I walked. The corridor seemed endless. Straight rows of rigid stone blocks formed the walls and floor. More pairs of statues flanked the corridor, watching my every move. They didn't move to stop me, but I was never out of their sight.
 
-Despite the rigid walls everywhere, there was no ceiling. Every room and corridor was open to the sky. I gazed up at the walls resentfully. Why couldn't I just climb up one of the walls and then take a shortcut across the top? But that was forbidden. I had to stay on my own path. I lowered my head again and kept walking. Wait, what the fuck? I was Rinn Akatura. Since when did I ever not do something because it was forbidden? Struggling to hold on to my own thoughts, I manifested a ladder and set it against the wall.
+Despite the rigid walls everywhere, there was no ceiling. Every room and corridor was open to the sky, where the dark clouds loomed ominously and the low-angled glow of light hinted at wide-open spaces just out of reach above me. I gazed up at the walls resentfully. Why couldn't I just climb up one of the walls and then take a shortcut across the top? But that was forbidden. I had to stay on my own path. I lowered my head again and kept walking. Wait, what the fuck? I was Rinn Akatura. Since when did I ever not do something because it was forbidden? Struggling to hold on to my own thoughts, I manifested a ladder and set it against the wall.
 
 I took one step up the ladder, then another. Why was I climbing this way? It wouldn't work anyway. No, it was trying to make me forget! Stubbornly, I held on and kept climbing. Each step was harder than the last. Gravity weighed me down. I felt like my arms and legs were made of lead. With an earth-shattering effort, I forced my head almost up to the top of the wall. Just one more step, and I'd be able to see over the edge.
 
@@ -107,29 +107,41 @@ I was going to have to crawl past all of them, all over again.
 
 What was the point of trying? I sank all the way down to the floor, lying face down on the hard stones. I was never going to get through this. I wasn't good enough. Tears welled up in my eyes, pouring uselessly onto the rock. I would never make it through this. She would go on without me. She, the, the, the Waiting God's, what…
 
-There was that word again – the Blood God's word, if you could call it a word, for the Farseer. Despondently, I held the word in my mind. It felt clearer now. I could feel that it was actually two separate ideas joined together. The first one was obvious. It meant the Waiting God. I could tell because the "word" had the same feeling as what I'd felt when the Waiting God was pulling me into the Otherworld. But the second…
+There was that word again – the Blood God's word, if you could call it a word, for the Farseer. So the Blood God <em>was</em> still inside me, if only barely. Despondently, I held the word in my mind. It felt clearer now. I could feel that it was actually two separate ideas joined together. The first one was obvious. It meant the Waiting God. I could tell because the "word" had the same feeling as what I'd felt when the Waiting God was pulling me into the Otherworld. But the second…
 
 "Lask… ueh," I said out loud. It didn't sound anything like it sounded in my head, but it was the best I could do. Was it the word for a Raveller? If the Farseer was <em>Waiting God laskueh</em>… I tried thinking of myself as <em>Blood God laskueh</em>, but from the part of me that was the Blood God, I felt a pulse of anger, loudly rejecting that idea. I checked the others. Justicar was <em>Stern God laskueh</em>, but Morrow wasn't <em>Seeking God laskueh</em> and Alchemist wasn't <em>Broken God laskueh</em> – they just weren't.
 
-Thinking about the other Ravellers brought the things I had to do back into my mind. Crying into the floor wasn't getting any anywhere. If I wanted to get to any of them, I would have to get past this corridor. With a tremendous effort, I hauled myself up to my hands and knees again.
+Thinking about the other Ravellers brought the things I had to do back into my mind. Crying into the floor wasn't getting me anywhere. If I wanted to get to any of them, I would have to get past this corridor.
+
+With a tremendous effort, I hauled myself up to my hands and knees again.
 
 <bigbreak>
 
+By the time I reached the first intersection, I had already fallen to pieces. Not physically, of course. ?????. I had been made to stand stiff and still for hours at a time waiting to be let through. I had been made to wash dirty cloth by hand and hang it up to dry, then do it all over again because I'd missed a spot. I had been made to repeat long ?????s, saying that I was unimportant, that I would do what was asked of me, that I [????? couldn't get everything I wanted out of life, I'd have to sacrifice some of it]. And every time I got impatient and said anything [????? that wasn't prescribed], or even just yanked out the damp cloth with irritation, they made me redo the process all the way from the beginning.
 
+But eventually, I was through. My body stood straight-back to the intersection, carrying the tatters of myself that I had dragged through the grind.
 
-?????
+At the intersection, there was a pedestal with a map. Not a cool, magic map like the one from the Endless Maze. Just a diagram with bold straight lines defining the routes each Raveller must take, each marked with the symbol of their god. It seemed that I was standing on an intersection between the Blood Child's Path and the Alchemist's Path. Each path wove back and forth along the grid, crossing over the others. The four paths eventually met at the center, probably the location of the portal into the next layer. Hmph. You'd get there much faster if you just zigzagged straight towards the center, switching between the paths, rather than following your own path the whole way back and forth across the whole grid.
 
-I stared at the statues blocking the Alchemist's Path. I could feel the Stern God watching me with contempt. It had made sure I knew what was wrong to take a different Raveller's path. But it was going to <em>allow</em> me to do this, and let the mark of my wrongdoing hang over me.
+Wait. <em>Four</em> paths?
+
+Justicar was missing. Ugh, this was the Stern God's world, so it would probably let her do whatever she wanted. <em>Wrong.</em> The Justicar was required to walk along <em>every</em> path.
+
+Whatever. That didn't matter. What was I supposed to do again? Right, if I wanted to meet up with her, I should be looking at the <em>Farseer's</em> Path. The closest way to cross over to it would be to take the Alchemist's Path from where I was standing, then the Imminent's Path from the next intersection. Unless the Farseer was making slower progress than I was, which would mean I should… never mind. Thinking was too much work. I just turned and walked towards the entrance to the Alchemist's Path.
+
+Naturally, there was a row of statues blocking it. They didn't quite seem like the vigilant guardians I'd been seeing on the Blood Child's Path. They were standing around irregularly, not looking in my direction. And there were lots more of them, densely packed, like a crowd of people just jammed into a narrow space.
+
+I stared at the statues, wondering how to approach them. I could feel the Stern God watching me with contempt. It had made sure I knew it was wrong to take a different Raveller's path. But it was going to <em>allow</em> me to do this, and let the mark of my wrongdoing hang over me.
 
 It didn't really matter how many marks of wrongdoing were smeared onto me. I wasn't going to live long enough to care.
 
 Mechanically, I bowed to the statues. They didn't react. Was it because I wasn't the Alchemist? I tried kneeling, begging, everything I had done to get past the statues on the Blood Child's Path, but nothing worked. I couldn't even sense a demand from these statues. I listened for one, but they were silent. They didn't even move to stop me. I tried to squeeze between them, but they were too tightly packed.
 
-"What do you want me to do?!" I complained out loud. My voice didn't sound like myself. ?????
+"What do you want me to do?!" I complained out loud. My voice didn't sound like myself. It sounded like a normal person's voice. The sound echoed uncomfortably around my mind. What had happened to me?
 
-I was getting sick of this. Part of me wanted to yell out bitterly, blaming this world for all its bullshit. Another part was desperately trying to silence the first part, insisting that the Stern God would punish me for my selfishness. But the second part was increasingly weak, unable to hold on to its insistence after so many hours of struggling. "Ugh, just get out of the way, you stupid statues," I said dully.
+I was getting sick of this. Part of me wanted to yell out bitterly, ripping into this world for all its bullshit. Another part was desperately trying to silence the first part, insisting that the Stern God would punish me for my selfishness. But the second part was increasingly weak, unable to hold on to its insistence after so many hours of struggling. "Ugh, just get out of the way, you stupid statues," I said dully.
 
-The statues lifted their feet and shuffled out of the way.
+The statues lifted their feet and shuffled out of the way, squeezing themselves against the walls.
 
 "What the fuck," I said.
 
@@ -147,7 +159,7 @@ So <em>that</em> was the challenge of this path. You had to suppress your curios
 
 A slow, cold dawning of realization settled over me. Each of us was forced to sacrifice the thing most important to us. The Imminent had to sacrifice their curiosity. The Blood Child had to sacrifice their pride. The Alchemist had to… well, that was the path where you had to be decisive? That really was unlike Alchemist, yeah. Could you sacrifice indecisiveness?
 
-Well, I had to get through this one way or another. I sent off on the Imminent's Path again.
+Well, I had to get through this one way or another. I set off on the Imminent's Path again.
 
 The easiest way to handle the Imminent's Path was just to let my senses go dull. Every time I felt something move behind me, I just let the feeling echo off of me without really processing it. It all just passed over me meaninglessly.
 
@@ -161,13 +173,13 @@ Disinterestedly, I started walking toward them. This <em>was</em> what I was sup
 
 "Are you ready?" the Farseer asked the Alchemist tensely. "You remember what's about to happen?"
 
-"I'm as ready as I'm going to be," said the Alchemist. They were gripping a potion tightly in their shaking hands. They looked absolutely terrified. That didn't make me feel anything either.
+"I'm as ready as I'm going to be," said the Alchemist. They were gripping a potion tightly in their shaking hands. My eyes glanced over their face, idly noting their look of total terror.
 
 What were the two of them talking about? What was about to happen? Well, it didn't matter. I thought of opening my mouth to greet them, but it seemed like too much work. Dutifully, I walked up to where they were standing. I stared at the Farseer. The Farseer stared back.
 
 "Rinn, can you hear me?" she said.
 
-I was probably supposed to answer that. But I felt like there was something else I was supposed to do, too, that was more important, I just couldn't remember. What was it…?
+I was probably supposed to answer that. But I felt like there was something else I was supposed to do, too, that was kind of more important, I just couldn't remember. What was it…?
 
 Oh, right, of course.
 

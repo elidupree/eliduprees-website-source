@@ -318,7 +318,7 @@ Her strong hands turned me around and guided me towards the portal. My heart cra
 
 The Broken Gate swallowed me.
 
-The ocean crashed over me. A black ocean, heavy and infinite, tossed and dropped my body across the waves. It washed into my head, flooding away my tiny feelings of fear and despair and want. It washed into my mouth, flooding away my flimsy words of explanation. It washed into my eyes, leaving nothing behind them but the raw force of the cosmos.
+The ocean crashed over me. A black ocean, heavy and infinite, tossed and dropped my body across its waves. It washed into my head, flooding away my tiny feelings of fear and despair and want. It washed into my mouth, flooding away my flimsy words of explanation. It washed into my eyes, leaving nothing behind them but the raw force of the cosmos.
 
 I was naked in the biting storm. The world lashed my skin with lines of pain, but I felt no need to strain against it. Every muscle felt its tension drain away, a deep relaxation like sinking into the softest mattress [????? and also peeing? How to make this sound grand?]. I was carried away on a tide of warm and cold. My throat was blocked, yet my chest was full of more breath than my lungs could bear.
 
