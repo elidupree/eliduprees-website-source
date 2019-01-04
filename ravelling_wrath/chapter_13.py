@@ -66,7 +66,33 @@ And then came the pain and rage. I tried to jump up, to run at the wall and beat
 "I DON'T CARE! LET ME GO, LET ME GO, –" I managed to jerk away from her and jump up. Blinded by rage, I slammed my fist into the stone wall with all my strength. I pulled my hand back for a second swing, and I was about to do it again when the pain hit. My hand felt like it was splitting apart. Normally, pain would fuel my anger, but now, I was suddenly too exhausted to be angry. I slumped against the wall, clutching my broken hand, and sank down to the floor again, curling up in the corner and sobbing.
 ?????
 
-It was supposed to <em>end</em>. There was supposed to be a point where I'd be like "okay, I'm done being upset now" and just manifest my hand back together and get on with figuring out what I needed to do next. But it wasn't happening.
+It was supposed to <em>end</em>. There was supposed to be a point where I'd be like "okay, I'm done being upset now" and just manifest my hand back together and get on with figuring out what I needed to do next. But it wasn't happening. Even with Yali and Alchemist cuddling me from both sides, it wasn't happening.
+
+"I can't even fix it… I can't concentrate on manifesting, I can't visualize what my hand is supposed to be like…"
+
+"I could, maybe, make a potion?"
+
+"Do it," said Yali.
+
+Alchemist coached a potion out of the air offered handed it to me. With my good hand, I drank it down. It tasted sweet and filling. As soon as it went down, my hand was filled with warmth, ?????ing and ?????ing it back into his ?????proper shape.
+
+"Gods, you're the best," I mumbled. I kissed Alchemist without thinking. Wait a minute, I had just kissed Alchemist when I hadn't even kissed Yali! Well, I could fix that. I turned to the other side and kissed Yali too. Yali kissed me back tenderly, then guided me towards Alchemist again. They went back and forth, kissing me in turn.
+
+It only felt ?????loving for a minute. "Fuck, I don't deserve this!" I whimpered. ?????
+
+"I HAVE TO GO!" I screamed. "I CAN'T BE NEAR YOU! WHAT IF IT HAPPENS AGAIN!?"
+
+Yali held me down. "I'll be using this Seeing regularly. If anything is going to happen, I'll know. I can take you with me all the way to the portal –"
+
+"But it's not perfect! And you'll be on the Farseer's Path! You won't be able to use it for hours at a time! What if it happens in one of the futures you didn't check! What if – [????? I don't want, I don't want, I'm scared –]"
+
+"I'm scared too," said Alchemist nervously. "Yali…"
+
+Yali was silent for a time.
+
+"I should have known," she said darkly. "You're right, of course. It's only a tiny chance, but it's not worth risking everything for that. I should have known it wouldn't work to be close to you."
+
+
 
 [????? Walking along the Blood Child's Path: the statues ask Rinn to say moderately negative things about herself, and Rinn tries to say very negative things instead, but they reject it]
 
