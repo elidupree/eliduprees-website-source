@@ -66,6 +66,8 @@ And then came the pain and rage. I tried to jump up, to run at the wall and beat
 "I DON'T CARE! LET ME GO, LET ME GO, –" I managed to jerk away from her and jump up. Blinded by rage, I slammed my fist into the stone wall with all my strength. I pulled my hand back for a second swing, and I was about to do it again when the pain hit. My hand felt like it was splitting apart. Normally, pain would fuel my anger, but now, I was suddenly too exhausted to be angry. I slumped against the wall, clutching my broken hand, and sank down to the floor again, curling up in the corner and sobbing.
 ?????
 
+It was supposed to <em>end</em>. There was supposed to be a point where I'd be like "okay, I'm done being upset now" and just manifest my hand back together and get on with figuring out what I needed to do next. But it wasn't happening.
+
 [????? Walking along the Blood Child's Path: the statues ask Rinn to say moderately negative things about herself, and Rinn tries to say very negative things instead, but they reject it]
 
 ''',
