@@ -545,15 +545,34 @@ Neenu swooped towards the star with the portal on it, and hovered over it in a l
 
 It was funny. When I looked at the portal with my <em>eyes</em>, I just saw solid blackness, like it was a black wall blocking off the doorway. But when I looked with my instincts, it was vibrant. "So I'm going to be stepping into that portal? What even <em>is</em> that thing?"
 
-"It will be a lot like when we were pulled into the Otherworld. Just like the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition  So it will be similar, but different."
+"It will be a lot like when we were pulled into the Otherworld. Just like the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition is even technically called the Seeking Gate, and the first one was called the Waiting Gate –"
+
+"That's confusing, that's the same as what the physical gates in the city are called!"
+
+"Yeah, the city gates are named after these ones. In any case, this will be the same <em>kind</em> of thing you already experienced. So it will be similar, but different."
 
 "Different how? What's it going to be like?"
 
 "This is the Seeking God. If I told you what to expect, the god would do something else."
 
-"Haha, of course it would. Finally, a god who knows how to have fun."
+"Haha, of course it would. Finally, a god who knows how to have fun." I stepped down from Neenu and ran my fingers along the archway. I couldn't wait to see the Seeking God's world. Yali had called it a riddle-maze, a world that constantly challenged the Ravellers with puzzles and mysteries. Except in a fun way, not like the incomprehensible Codex from this world.
 
-?????
+The only thing was, I had been imagining going through it <em>with</em> Yali. But now, standing right in front of this door that <em>only me</em> would be going through… I was forced to realize ?????.
+
+I jumped back up and flung my arms around her, squeezing tightly onto her and burying my face in her chest. "I don't want to leave you!!" I said plaintively.
+
+Yali lifted my head to look at her, cupping my cheeks softly in her hands. "It's okay," she murmured. "I know it's hard. But I'll look for you as soon as I get there." She pulled me close and kissed me on the mouth, long and tenderly. "I don't want to leave you either, you know? But it's going to happen one way or another. So it's better if we do it on our own terms."
+
+I clung to her for ages. ?????
+
+"Goodbye Morrow. Goodbye Alchemist. Goodbye Justicar."
+
+Yali planted one last soft kiss on my forehead, then loosened her embrace and gently guided me on my way.
+
+So this was it.
+
+"Goodbye everyone! Goodbye Yali!" I yelled over my shoulder. And then, before I could change my mind, I dove headfirst into the portal.
+
 
 ''',
 },
