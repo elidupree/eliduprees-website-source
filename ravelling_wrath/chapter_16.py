@@ -133,6 +133,10 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 ?????
 
+Getting the details was a lot harder than I had hoped. The Blood God – or at least, the part of me that was the Blood God – had a general sense of what had happened, but it didn't seem to remember specific events the way a human would. Going through its memories took a lot of intuition and ?????
+
+?????
+
 "[????? the god speaking through me?]"
 
 "Not exactly… The gods can't form human words on their own. It was more like… you were <em>interpreting</em> for the god."
