@@ -91,54 +91,51 @@ Flavor exploded in my mouth, ?????. They were the absolute WORST thing I had EVE
 
 "Whaaaaat?!"
 
+?????
 
-[????? somewhere: how Alchemist is the only one who hasn't hurt anybody, and how both the blood and waiting will trample over the broken to get what they want]
+"Should there be this much blood? I mean, there's not, like, lakes of it, but we've been following him for a while, so it adds up –"
 
+"It's manifesting. His wounds aren't healing because I did them with hostile intent and damaged his soul. But he unconsciously manifests more blood to replace what is lost."
 
+"Oh gods, what if he loses all his original blood and then he gets back to Earth and –"
 
-[????? Should I use the unraveling potion?; where in this chapter? probably near the end?]
+"That's what the healing potion is for," said Yali tiredly.
 
-"That <em>is</em> what I would have told you to do, as recently as the third layer…" said Yali. "But now… I am starting to think that the Blood God <em>should</em> rejuvenate."
+"Right…"
 
-"But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even marked Justicar as "not my real enemy". <em>Justicar!</em>
+We came to a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Yali stopped walking and squinted. "Do you feel it, too?" she said.
 
-Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last 70 years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose." ????? "Besides… your soulfire is one of the only powers that can pierce Justicar's armor."
+I ?????. "Yeah. I do."
 
-"I'll have to kill her…" I said. I swallowed. "?????!"
-
-"It may be necessary," said Yali gravely.
-
-[?????"Well, fuck." I looked down at my hands. wait no, more aggressive: "Fuck!" I yelled. "[I fight people a lot but I never wanted to actually kill anyone]!"] "<em>May</em> be, though? You think we can get away without a fight?"
-
-"The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to take the unravelling potion herself –"
-
-"– like that's gonna happen –"
-
-"– or tricked, or forced into taking it. And it doesn't have to be <em>you</em> who bears the burden. Alchemi–"
-
-"No FUCKING way!!! We are NOT making ALCHEMIST fight our –"
-
-"–st would be capable of <em>creating</em> a weapon that <em>I</em> could use to –"
-
-"Still no! I'll just do it myself, we are <em>not</em> getting Alchemist involved in this! They are SOFT and SWEET and – gods, Yali, how could you even <em>think</em> of such a thing?!"
-
-Yali shouted back, "Me thinking of things that hurt people is why you're still alive right now!"
-
-"Yeah, but not like <em>this</em> –"
-
-"Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! I have <em>always</em> been the one who does what has to be done, when no one else will!"
-
-I had wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking right under the surface… It was part of why I'd always loved her, why I couldn't get enough of her.
-
-And the worst part was, she wasn't wrong.
-
-"Well… fuck," I said. "
+"We're getting close. This is where we stay behind, and you go on alone."
 
 ?????
 
-"But, we don't have to force Alchemist to make a weapon this time. We have time. And I have my soulfire. I can do it. Waiting knows I'm the one who deserves to." I laughed hollowly. "I guess I shouldn't be using that saying anymore, should I…"
+"You've got this."
 
-"It's okay. I understand."
+"That's pretty reassuring, coming from someone who can literally see the future."
+
+"Don't get careless."
+
+"Fine. What do I have to look out for?"
+
+"…don't lose your cool if he hurts himself. Just hold onto your soulfire. It's rare, but if you lose it, I have to step in to protect you. Then you're okay, but Morrow is dead for real."
+
+"Well, shit."
+
+"Yeah. You ready?"
+
+"Alright, let's do this thing." I threw my head back and howled into the air, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow from every part of my skin. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
+
+As I got closer, the forest swam around me. It felt like the world was unstable, trying to make me forget which way was up and down. But from inside my soulfire, it didn't seem so threatening. I was a transcendent pillar of flame. I knew exactly where <em>I</em> was. It was just the rest of the world that was having trouble.
+
+?????
+
+Morrow must have heard me, because he tried to turn around. But somehow, he only managed to trip over his own feet and go sprawling into the wall of the ravine [????? set that up]. I rushed to help him, but almost as soon as he had gone down, he lunged to his feet again, his grinning, battered face swaying towards me.
+
+Yali had <em>seriously</em> fucked him up. Like, I'd beaten up plenty of assholes myself. And I had gotten beat up plenty of times too. But I had never seen someone messed up <em>this</em> bad. One eye was completely swollen shut, and the other one wasn't looking much better. His nose was sticking off in the wrong direction, dripping a mass of blood right down his chin. His hands were messed up too, fingers torn up and sticking off in all the wrong directions.
+
+I immediately wanted to ?????, but that wasn't what I was here for. I knew what I had to do. "Morrow! I've got something for you."
 
 
 
@@ -146,8 +143,6 @@ And the worst part was, she wasn't wrong.
 
 
 ?????
-
-The forest swam around me.
 
 [????? Rinn returning with Morrow]
 
@@ -210,6 +205,55 @@ Morrow half-startled. After a moment, he looked back at me. "Oh. It's you."
 Something <em>instantly</em> seemed off about him. His reaction was way slower than usual, and his words came out slower, too. He seemed… glum? At first I thought that was super weird. I'd seen him ripping himself apart, but I'd never seen him just regular sad, or any sort of less-energetic mood at all. Then I thought, <em>of course</em>! He didn't have the Seeking God inside him anymore. It had probably been the Seeking God that was keeping him going the whole time. And now…
 
 "How are you, uh, feeling?" I said.
+
+[????? somewhere: how Alchemist is the only one who hasn't hurt anybody, and how both the blood and waiting will trample over the broken to get what they want]
+
+
+
+[????? Should I use the unraveling potion?; where in this chapter? probably near the end?]
+
+"That <em>is</em> what I would have told you to do, as recently as the third layer…" said Yali. "But now… I am starting to think that the Blood God <em>should</em> rejuvenate."
+
+"But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even marked Justicar as "not my real enemy". <em>Justicar!</em>
+
+Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last 70 years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose." ????? "Besides… your soulfire is one of the only powers that can pierce Justicar's armor."
+
+"I'll have to kill her…" I said. I swallowed. "?????!"
+
+"It may be necessary," said Yali gravely.
+
+[?????"Well, fuck." I looked down at my hands. wait no, more aggressive: "Fuck!" I yelled. "[I fight people a lot but I never wanted to actually kill anyone]!"] "<em>May</em> be, though? You think we can get away without a fight?"
+
+"The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to take the unravelling potion herself –"
+
+"– like that's gonna happen –"
+
+"– or tricked, or forced into taking it. And it doesn't have to be <em>you</em> who bears the burden. Alchemi–"
+
+"No FUCKING way!!! We are NOT making ALCHEMIST fight our –"
+
+"–st would be capable of <em>creating</em> a weapon that <em>I</em> could use to –"
+
+"Still no! I'll just do it myself, we are <em>not</em> getting Alchemist involved in this! They are SOFT and SWEET and – gods, Yali, how could you even <em>think</em> of such a thing?!"
+
+Yali shouted back, "Me thinking of things that hurt people is why you're still alive right now!"
+
+"Yeah, but not like <em>this</em> –"
+
+"Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! I have <em>always</em> been the one who does what has to be done, when no one else will!"
+
+I had wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking right under the surface… It was part of why I'd always loved her, why I couldn't get enough of her.
+
+And the worst part was, she wasn't wrong.
+
+"Well… fuck," I said. "
+
+?????
+
+"But, we don't have to force Alchemist to make a weapon this time. We have time. And I have my soulfire. I can do it. Waiting knows I'm the one who deserves to." I laughed hollowly. "I guess I shouldn't be using that saying anymore, should I…"
+
+"It's okay. I understand."
+
 
 ''',
 },
