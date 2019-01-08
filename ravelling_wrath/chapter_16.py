@@ -135,6 +135,8 @@ No wall can hold me. No truth can hide from me. No force can break me for as lon
 
 "Yes. The Blood God's prayer. You… I wish you could see yourself. It's beautiful."
 
+?????
+
 Getting the details was a lot harder than I had hoped. The Blood God – or at least, the part of me that was the Blood God – had a general sense of what had happened, but it didn't seem to remember specific events the way a human would. Going through its memories took a lot of intuition and ?????
 
 ?????

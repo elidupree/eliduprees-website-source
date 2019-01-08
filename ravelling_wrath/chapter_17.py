@@ -47,6 +47,7 @@ I was about to say something, but Yali's hand squeezed my shoulder. I clamped my
 
 "Oh duh, it refers to plans, haha."
 
+
 ?????
 
 "But… it needs…" Alchemist manifested a flask of water in their hand. "This… isn't, enough, it, needs…"
@@ -69,6 +70,9 @@ The next bit of conversation was… certainly <em>interesting</em>. Alchemist ke
 
 <bigbreak>
 
+
+[????? Summary language: setting off to look for ingredients, and also telling Alchemist about the revelations from last chapter
+
 ?????
 
 Alchemist took us to a tiny brook and gathered clay from the ?????.
@@ -83,13 +87,57 @@ Alchemist took us to a tiny brook and gathered clay from the ?????.
 
 ?????
 
-Alchemist and Yali got to work hunting the brambles for berries that were just the right ripeness. They weren't paying much attention to me. So I idly picked a few berries and ate them.
+Alchemist and Yali got to work hunting the brambles for berries that were just the right ripeness. They weren't paying much attention to me. So I idly picked a few of the berries and ate them.
 
-Flavor exploded in my mouth, ?????. They were the absolute WORST thing I had EVER tasted. I immediately reached for some more.
+Flavor exploded in my mouth, stabbing wildly down along my jaw and up behind my nostrils. They were the absolute WORST thing I had EVER tasted. I immediately reached for some more.
 
 "Don't eat too many of those, they're poisonous," said Yali casually, not bothering to look back at me.
 
 "Whaaaaat?!"
+
+?????
+
+"You'll have to take it from here. I can't See anything after you start making the potion."
+
+Alchemist nodded and closed their mouth. Then they closed their eyes, too. They set the flask on the ground in front of them. After a short pause, they dipped one hand into the mixture, then the other hand. With oily clay coating their hands, they reached into the air, their fingers curling like someone playing a harp.
+
+The haze stabbed into my head and heart. Lines of force flickered in the air, spreading out like lightning in slow motion, as if Alchemist was prying open fractures in the universe itself. It was almost painful to look at, but I couldn't look away. The feeling was way beyond the normal buzz of sorcery. Every time the lines flickered, it sent a jarring feeling through me, like it was trying to shake me to pieces. And in between, there was a terrible sense of unease, a doubt that anything I believed had ever been real.
+
+Alchemist stopped.
+
+Yali frantically muttered to me, "They're going to start again! We have to stay back!" She took my arm and hurried me away from where Alchemist was sitting. I couldn't resist glancing back as Alchemist started the process again. But Yali blocked me. "Don't look at it either! Don't pay attention to it!"
+
+"But –"
+
+"That, that, that stuff can take apart a human soul! We don't want our souls to get caught up in it! And if you pay attention to it, that makes you closer to it –"
+
+Even when I looked away, the cracks in the universe were still sizzling in the back of my mind. "How do I 'not pay attention' to <em>that</em>?!"
+
+"I, I, I –" Yali looked around wildly. Then, without warning, she shoved me by the shoulders. I stumbled backwards. 
+
+"Woah, what –"
+
+In moments, Yali had pinned me with my back to a tree. She leaned in and kissed me on the mouth. "I'm distracting you," she said.
+
+"You sure know how to distract me," I laughed, thrills running through me as she planted a series of kisses along my neck and up the side of my face.
+
+?????
+
+"The Seeing is working again. That's good…" She looked into the future for a while. "I can See up until when Morrow drinks the potion, then it's all blank again."
+
+"Why?"
+
+"The unravelling potion is supposed to be impossible. It breaks all the rules of the Ravelling. So it's no surprise the Waiting God can't see past it. But that doesn't make things any easier for me…" She sighed. "I guess we should be concerned what'll happen to Morrow after he drinks it. If the Seeking God is all that's keeping him going, then when it's taken away from him… He might pass out, his injuries might be more dangerous to him…"
+
+[????? consider possibly cutting this next bit if it doesn't have great promises]
+
+"What injuries?" I said without thinking. "Oh, right."
+
+"If Rinn is bringing, one potion to him…?" mumbled Alchemist.
+
+"Oh yeah, I could bring a healing potion too –"
+
+"You have a hard time convincing him to drink even one potion!" said Yali.
 
 ?????
 
@@ -137,7 +185,7 @@ Yali had <em>seriously</em> fucked him up. Like, I'd beaten up plenty of asshole
 
 I immediately wanted to ?????, but that wasn't what I was here for. I knew what I had to do. "Morrow! I've got something for you."
 
-
+Morrow's one working eye wavered back and forth, never quite focusing in on me.
 
 
 
