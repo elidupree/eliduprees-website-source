@@ -129,9 +129,11 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 ????? more fire stuff; Yali is awed
 
+No wall can hold me. No truth can hide from me. No force can break me for as long as my blood still flows."
 
+"That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it forever.
 
-?????
+"Yes. The Blood God's prayer. You… I wish you could see yourself. It's beautiful."
 
 Getting the details was a lot harder than I had hoped. The Blood God – or at least, the part of me that was the Blood God – had a general sense of what had happened, but it didn't seem to remember specific events the way a human would. Going through its memories took a lot of intuition and ?????
 
