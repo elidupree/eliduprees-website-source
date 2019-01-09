@@ -88,11 +88,51 @@ Yali held me down. "I'll be using this Seeing regularly. If anything is going to
 
 "I'm scared too," said Alchemist nervously. "Yali…"
 
-Yali was silent for a time.
+[????? Is this the right moment for this?: Yali was silent for a time.
 
-"I should have known," she said darkly. "You're right, of course. It's only a tiny chance, but it's not worth risking everything for that. I should have known it wouldn't work to be close to you."
+"I should have known," she said darkly. "You're right, of course. It's only a tiny chance, but it's not worth risking everything for that. I should have known it wouldn't work to be close to you."]
 
+?????
 
+"YOU HAVE TO!" I yelled, grabbing her shoulders and shaking her desperately. "YOU HAVE TO, YOU HAVE TO, I DON'T WANT YOU TO DIE!!"
+
+She caught my wrists and held me away from her. "It's not right! Watching you every minute of every day –"
+
+"YOU ALREADY WATCH ME IN THE FUTURE –"
+
+"It's different! Even in the future I only see what <em>I</em> see –"
+
+"AND I'M ASKING YOU TO DO IT! IT'S NOT WRONG IF I –"
+
+"You're in no state to consent to this! It's not consent if you're, if you're –"
+
+"LIKE ANY OF THIS WAS CONSENSUAL!! ?????! PLEASE! PLEASE! PLEASE! I'M BEGGING YOU!" I sobbed, straining against Yali's arms to bring my face closer to hers.
+
+Yali went silent again. For a long moment, everything was quiet except for the sound of my struggling. Tears poured down my face. It was hopeless. Yali's face loomed cold and impenetrable in front of me. She was going to deny me again. There was nothing I could do to change it. And then it would happen again. And it would be all my fault, all my fault…
+
+"I'm begging you," I whimpered again.
+
+"I –" Yali was about to protest again. But then, just a little, she broke. "I guess this is what I am now," she muttered.
+
+I melted, my arms going limp and my body slumping down. She was going to do it.
+
+"I guess I'm doing this…" Yali moved her hand towards me uncertainly. "This, this, this will put a permanent mark on your body, like a tattoo. The Watchful Eye symbol. The magic will only work while we're in the Otherworld, but the mark will stay forever. Are you sure –"
+
+"'course I am," I muttered. "Bit of ink on my skin for your life, are you kidding me?"
+
+"I just thought –"
+
+"Some choices aren't that hard."
+
+"Okay. Okay… okay, if I'm doing this… <em>where</em> should I put it…?"
+
+"…over my heart," I said, dully but with certainty. "That's where I would want it." Mechanically, I tried to pull down the neck of my shirt to expose my heart. But we were all still wearing the Stern uniform, and it was too stiff. Giving up, I just pulled up the whole front. "Go on. Do it."
+
+Yali hesitantly pressed her fingers over my heart.
+
+It didn't feel anything like when she'd touched my heart on that first day. It was just an object touching another object. A cold and hot feeling briefly sank into my chest, then it passed. The Watchful Eye was on me, a black symbol of an eye with an hourglass inside, drawn right onto my heart.
+
+"It's like I can see you from all sides at once," said Yali.
 
 [????? Walking along the Blood Child's Path: the statues ask Rinn to say moderately negative things about herself, and Rinn tries to say very negative things instead, but they reject it]
 
