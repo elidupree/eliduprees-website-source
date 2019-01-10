@@ -123,16 +123,17 @@ I spent ages trying different things, piling up a heap of different manifested j
 
 Was the Seeking God somehow stopping me from cheating?
 
-That gave me an idea. I grabbed a Blood Blade and extended it into a long pole, long enough to cross the water. I smirked. The Seeking God could stop my regular manifesting all it wanted, but it wasn't allowed to stop the powers the Blood God gave me. So I made some more long Blood Blades and fused to them into a bridge so I could walk across.
+That gave me an idea. I made a Blood Blade and extended it into a long pole, long enough to cross the water. I smirked. The Seeking God could stop my regular manifesting all it wanted, but it wasn't allowed to stop the powers the Blood God gave me. So I made some more long Blood Blades and fused to them into a bridge so I could walk across.
 
-?????
+Cheating was a lot of work, but it sure was satisfying. I molded my blades into bridges, ladders, and staircases, painstakingly crossing from platform to platform. Eventually, I realized that the final goal was at the top of one of the walls. So I just stabbed a blade into the wall, carefully stood on top of that blade, then stabbed another one in higher, and so on.
 
+I climbed through a hatch in the ceiling and found myself in another room, full of glowing ropes of light zigzagging through the air, with a whole mess of open doorways leading into dark tunnels on every wall.
 
 "Heeyyyyyy!" yelled a voice. "Hey Rinn! Have you seen Raylie?!"
 
-"Morrow!!" I yelled back excitedly. It was so good to see an actual person again, even if it wasn't the one I wanted the most. I ran towards him and tackle-hugged him, sending us both tumbling [manner related to current surroundings]
+"Morrow!!" I yelled back excitedly. It was so good to see an actual person again, even if it wasn't the one I wanted the most. I ran towards him and tackle-hugged him, sending us both tumbling. When we crashed into a few of the dangling ropes, it set the whole network swinging and flashing while the walls began to rotate.
 
-Morrow ?????  "Have you seen Raylie??" he repeated.
+Morrow twitchily tried to untangle a row that had wrapped around his arm. "Have you seen Raylie??" he repeated.
 
 "Who's Raylie?"
 
@@ -148,9 +149,9 @@ Morrow blinked. "Alchemist! Have you seen Alchemist??"
 
 "Uh…"
 
-"Whatever, you don't understand. Come on!" Morrow rolled to his feet, waving for me to follow him. I jumped up and ran after him. He was probably just going to lead me on a wild goose chase, but the alternative was my own wild goose chase after Yali, and I didn't have any idea where I was going either.
+"Whatever, you don't understand. Come on!" Morrow rolled to his feet, waving for me to follow him. I jumped up and ran after him. He was probably just going to lead me on a wild goose chase, but the other option was my own wild goose chase after Yali, and I didn't have any idea where I was going either.
 
-We weaved in and out between some floating curtains, quickly losing all sense of which way we'd come from. Pushing past the dozenth curtain, we found ourselves in front of a huge wooden gate.
+Morrow led me through one of the doors, probably picking it out at random. We weaved in and out between some floating curtains, quickly losing all sense of which way we'd come from. Pushing past the dozenth curtain, we found ourselves in front of a huge wooden gate.
 
 The gate didn't have any handles on it. "How're we going to open this?" said Morrow.
 
@@ -176,9 +177,9 @@ A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be c
 
 "I know how to deal with this!" yelled Morrow. "I'm going to <em>stay on this side of</em> the gate!"
 
-"<em>The gate cannot be stayed on this side of</em>," said the voice, as an unseen force sucked us through the gate to the other side.
+"<em>The gate cannot be stayed on this side of</em>," said the voice, as an invisible force sucked us through the gate to the other side.
 
-"<em>That</em> was the solution??" I demanded. "What the fuck, how was I supposed to know that was the solution?"
+"<em>That</em> was the solution??" I demanded, still trying to get my bearings. "What the fuck, how was I supposed to know that was the solution?"
 
 "Haha! Better luck next time!" Morrow ran on ahead. I hurried to keep up with him.
 
