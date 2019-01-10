@@ -130,7 +130,9 @@ I melted, my arms going limp and my body slumping down. She was going to do it.
 
 Yali hesitantly pressed her fingers over my heart.
 
-It didn't feel anything like when she'd touched my heart on that first day. It was just an object touching another object. A cold and hot feeling briefly sank into my chest, then it passed. The Watchful Eye was on me, a black symbol of an eye with an hourglass inside, drawn right onto my heart.
+It didn't feel anything like when she'd touched my heart on that first day. It was just an object touching another object. A cold and hot feeling briefly sank into my chest, then it passed. I looked down. The Watchful Eye was on me, a black symbol of an eye with an hourglass inside, drawn right there on my chest.
+
+"Did it work? What's it like?"
 
 "It's like I can see you from all sides at once," said Yali.
 

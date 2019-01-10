@@ -396,13 +396,17 @@ So. Morrow was a sex worker? I felt like I should be surprised, but nothing woul
 
 ?????
 
-Eventually he met up with, with, with… he thinks of them as 'the girls'. He views them like family.
+Eventually he met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them teaching him how to open a bank account, how to ?????. All the little things he missed out on by growing up in an abusive household. They were… also sex workers, I believe, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
+
+"Wait a minute, I thought you were looking at <em>his</em> memories! How do you know something he doesn't know?"
+
+"It's, it's kind of obvious. From the memories, if you just think about it. But if there's one thing Morrow is good at, it's avoiding thinking about things…"
+
+"You got that one right…"
 
 [????? when revealing Morrow's backstory: remember to emphasize his inherent curiousity]
 
-"One thing I don't understand is, I never saw him in school. Did he never go to school?" ?????
-
-"He… he… never went to school? No, they sent him to school once, but the, the teachers yelled at him, called him a freak, sent him home… Why? He doesn't remember this very well… I'm trying to think back… it was because, because, he, touched other children sexually."
+"One thing I don't understand is, I never saw him in school. Did he never go to school? [????? He… he… never went to school? No, they sent him to school once, but] the, the teachers yelled at him, called him a freak, sent him home… Why? He doesn't remember this very well… I'm trying to think back… it was because, because, he, touched other children sexually."
 
 "Oh gods."
 

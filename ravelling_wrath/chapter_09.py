@@ -296,7 +296,7 @@ I could tell denial when I saw it. I leaned back, crossed my arms, and watched h
 
 "Make it stop, help me, make it stop," he sobbed. "Help me!!"
 
-"You sure you want help?" I said irritably. "Because, literally ten seconds ago, you said –" I stopped myself. <em>Calming Game, Rinn.</em> It wasn't his fault if he was doing stupid shit. What I really wanted was to tell him something reassuring. But I wasn't very good at reassuring people about emotional stuff, even under normal circumstances. Ugh, what would Layo do? "Uh, do you want to talk about anything?" I said.
+"You sure you want help?" I said irritably. "Because, literally ten seconds ago, you said –" I stopped myself. <em>Calming Game, Rinn.</em> It wasn't his fault if he was doing stupid shit. What I really wanted to do was to tell him something reassuring. But I wasn't very good at reassuring people about emotional stuff, even under normal circumstances. Ugh, what would Layo do? "Uh, do you want to talk about anything?" I said.
 
 Predictably, that didn't do any good.
 
@@ -320,9 +320,9 @@ I carefully allowed Morrow to take out his phone. He swiped through it aggressiv
 
 "Well, uh, what if we swap phones? I don't have too many games, but –"
 
-Morrow snatched my phone out of my hands. ?????
+Morrow snatched my phone out of my hands and immediately started flipping through it. He impatiently opened the first game he saw. His hands jerked back and forth across the screen, winning each level almost as soon as it popped up. "These early levels are borrowing!" he complained, then switched to the next game.
 
-While he was doing that, I idly flipped through his phone. He had a <em>lot</em> of games. I didn't recognize most of them, but a bunch of them were ones that I'd mostly seen girls play rather than boys. Interesting…
+While he was doing that, I idly flipped through his phone, too. He had a <em>lot</em> of games. I didn't recognize most of them, but a bunch of them were ones that I'd mostly seen girls play rather than boys. Interesting…
 
 ?????
 
