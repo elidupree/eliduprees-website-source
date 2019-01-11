@@ -115,7 +115,7 @@ I thought of the Waiting God, and felt KILL! MURDER! DO IT NOW, TEAR HER TO PIEC
 
 [????? whirlpool room: manifesting rules]
 
-Not that I was planning to do with the Seeking God wanted me to. Sure, normally, it would've been fun to dive into the whirlpools. But if I just dived in and had fun, I would be <em>giving in</em>. I refused to just roll over and let the Seeking God have its way.
+Not that I was planning to do what the Seeking God wanted me to, either. Sure, normally, it would've been fun to dive into the whirlpools. But if I just dived in and had fun, I would be <em>giving in</em>. I refused to just roll over and let the god have its way.
 
 So I stuck out my hands and manifested a boat. Or I thought I did. When I looked, there wasn't anything there. I tried again, but still nothing. I tried for a bridge, and that didn't work either. Could I manifest anything at all? I manifested a rock. That worked, but it wasn't any use. I threw it into the water irritably.
 
@@ -334,23 +334,33 @@ Morrow covered his head and cowered away from me. I stood over him, not even car
 
 Morrow kept his head down and whimpered, "I'm a piece of shit, such a piece of shit…"
 
-"Yeah, that sounds –" I was about to say <em>that sounds about right,</em> but something stopped me. The way I was feeling – it was sickeningly close to how I'd felt when I had yelled at Yali on the first layer. And no matter how pissed off I was Morrow, I didn't want to go down that path again. <em>Controlling Game</em>, I said to myself. "Look, Morrow," I said, bringing my voice a lot closer to neutral, "just shut up, all right? I'm upset, you're upset, but it's just a phone. Both of us are way more important than it is. And if you say you're less important than the phone, I'll have to smack you again."
+"Yeah, that sounds about right!! You fucking – fucking – I don't know –" I faltered. The way I was feeling – it was sickeningly close to how I'd felt when I had yelled at Yali on the first layer. And no matter how much I was itching to rip into Morrow some more, I didn't want to go down that path again. <em>Controlling Game</em>, I said to myself. "Look, Morrow," I said, bringing my voice a lot closer to neutral, "just shut up, all right? I'm upset, you're upset, but it's just a phone. Both of us are way more important than it is. And if you say you're less important than the phone, I'll have to smack you again."
 
 Morrow grinned up at me manically. "I'm less important than the phone," he said.
 
 "Oh, for fuck's sake. Just shut up."
 
+What in the Endless was I going to do with him? The thought of trying to be nice again just made me rage harder. I suppressed the urge to kick him. Instead, I folded my arms again and leaned against the opposite wall.
 
+?????. "?????. I'll stay over here. You stay over there. We're just going to sit here and not do anything until the god lets us out. Got it?"
 
-?????
+Morrow breathed hard, but didn't try to move or speak.
+
+"I'll take that as a yes."
+
+I kept standing there and glaring at him. I was too frustrated to really do anything else. Instead, I just tried to get myself to calm down enough to figure out what to do next. There was no way he was <em>actually</em> going to stay still for hours, no matter how much I tried to make him. I was so sick of how his shit was dragging me away from looking for Yali. Why did I have to deal with this mess? Stupid room. Stupid phone. Stupid Morrow. I just needed to get <em>out</em> of this mess so I could <em>do</em> it. Why was I wasting my time with this mess when I <em>could</em> be out there <em>doing</em> it?
+
+Ugh, what would I even do when I got out of here? I shook my head, trying to clear my thoughts. When I tried to piece it together, this thing I'd just been thinking of "doing" was… <em>attacking the Farseer</em>. Stern take it, not that again! Would the Blood God shut up too?! There was nothing I could do to find the Farseer right now even if I wanted to! I gritted my teeth and tried to stop thinking about it.
+
+After a few minutes, I was startled to notice that Morrow still hadn't moved. He was still a total mess, but maybe I'd intimidated him enough to make him stay still for a while. As the minutes dragged on, I started feeling like these hours might be at least a <em>little</em> tolerable. I allowed myself to relax a bit.
 
 That's when Alchemist walked in through the wall.
 
 "Morrow!!" cried out Alchemist. "When you stopped answering me, I was so afraid – "
 
-"Raylie!!!" Morrow ran and hugged Alchemist without slowing down, slamming them both into the wall. Before Alchemist could catch their balance again, Morrow was already yelling in their face. "It's happening again!! Help me, help me, you have to help me!!" Morrow grabbed onto Alchemist's shoulders, shaking violently. Alchemist's face flooded with confusion and distress.
+"Raylie!!!" Morrow sprang to his feet, bolted straight towards Alchemist, and hugged them without slowing down, slamming both of them into the wall. Before Alchemist could catch their balance again, Morrow was already yelling in their face. "It's happening again!! Help me, help me, you have to help me!!" Morrow grabbed onto Alchemist's shoulders, shaking violently. Alchemist's face flooded with confusion and distress.
 
-<em>How dare he!</em> screamed a part of me. <em>How dare he hurt poor, sweet Alchemist!</em> I ripped his arm away from Alchemist's shoulder and heaved him back across the room. He stumbled and bumped into the far wall, covering his head again. I stood between them, all charged up, ready to take him down if he tried anything again.
+<em>How dare he!</em> screamed a part of me. <em>After all this! How dare he hurt poor, sweet Alchemist!</em> I ripped his arm away from Alchemist's shoulder and heaved him back across the room. He stumbled and bumped into the far wall, covering his head again. I stood between them, all charged up, ready to take him down if he tried anything again.
 
 "Do the loopy thing," said Alchemist nervously from behind me.
 
@@ -358,7 +368,11 @@ That's when Alchemist walked in through the wall.
 
 "What's the loopy thing?" I asked.
 
-Alchemist looked to Morrow, but Morrow was still pretty out of it. So Alchemist tried to answer. "It's a, thing, he does, to, not feel so bad? With his powers. Whenever he feels too, bad, it, magically makes him loop back to feeling better instead. That's why he calls it the loopy thing. But, maybe, it's not working? Not right now?"
+Alchemist looked to Morrow, but Morrow was still pretty out of it. So Alchemist tried to answer. "It's a, thing, he does, to, not feel so bad? With his powers. Whenever he feels too, bad, it, makes him loop back to feeling better instead. That's why he calls it the loopy thing. But, maybe, it's not working? Not right now?"
+
+"Wait, like, he can change his own feelings directly by magic?" I said.
+
+"Maybe, yes?"
 
 "Would he – I mean, hey, Morrow, would you be able to do the loopy thing on me?"
 
@@ -366,7 +380,7 @@ Alchemist looked to Morrow, but Morrow was still pretty out of it. So Alchemist 
 
 "I mean, when we get out of here. I kinda have some, uh, feelings, that I don't want to."
 
-"Doing it on another person! That would be so weird! And interesting! I'd have to figure out their feelings at the same time I was doing it! But what if – actually it could be really easy! Because I don't have to feel it myself at the same time! But it would also – I'M STUCK HERE AND I CAN'T MANIFEST AND I'M GOING TO – MAKE IT STOP, MAKE IT STOP, HELP ME!!"
+"Oh!! Doing it on another person! That would be so weird! And interesting! I'd have to figure out their feelings at the same time I was doing it! But what if – actually it could be really easy! Because I don't have to feel it myself at the same time! But it would also – AAAAHHH I'M STUCK HERE AND I CAN'T MANIFEST AND I'M GOING TO – MAKE IT STOP, MAKE IT STOP, HELP ME!!"
 
 "I could, maybe, make a potion? That would help?" Alchemist cupped their hands in the air, but nothing happened. They did it again, but still nothing.
 
