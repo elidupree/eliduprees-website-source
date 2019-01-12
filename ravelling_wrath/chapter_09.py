@@ -398,11 +398,11 @@ Before long, Morrow was… not exactly <em>calm</em>, but a lot less frantic.
 
 "Haha, get a room, you two," I said.
 
-"This is the only room we've got!!" complained Morrow.
+Morrow looked up at me with a little smirk. "This is the only room we've got!!" he complained.
 
-"I'm only joking, I don't really mind it. Get ahead and do whatever you want. Haha, I wouldn't mind even if you wanted to have sex in here –" What the fuck was I saying? Well, I couldn't go back on it now. Time for the Rinn Akatura show, I guess. "It would be like the mile high club, except instead of being in an airplane you're in a –" <em>Wait, I shouldn't remind Morrow of where we are</em> "– I mean, hang on, if we don't have to eat, and we can heal all our injuries, does that mean we can't catch STDs? And, like, I don't know if pregnancy is the thing you two have to worry about, but –"
+"I'm only joking, I don't really mind it. Go ahead and do whatever you want. Haha, I wouldn't mind even if you wanted to have sex in here –" What the fuck was I saying? Well, I couldn't go back on it now. Time for the Rinn Akatura show, I guess. "It would be like the mile high club, except instead of being in an airplane you're in a –" <em>Wait, I shouldn't remind Morrow of where we are</em> "– I mean, hang on, if we don't have to eat, and we can heal all our injuries, does that mean we can't catch STDs? And, like, I don't know if pregnancy is the thing you two have to worry about, but –"
 
-"It does," said Morrow. Weirdly, he started talking in a completely matter-of-fact voice. "Some people come here to fuck because you can't get sick and you can't get preggo. 'less you want to. Doesn't matter 'cause <em>smart</em> people don't do it 'cause the portals cost a fortune and they're just as unsafe as –"
+"It does," said Morrow. Weirdly, he started talking in a completely matter-of-fact voice. "Some people come here to fuck because you can't get sick and you can't get preggo 'less you want to. Doesn't matter 'cause <em>smart</em> people don't do it 'cause the portals cost a fortune and they're just as unsafe as –"
 
 "Wait a minute, people can come <em>here</em>? I thought we were the only ones here!"
 
@@ -410,19 +410,35 @@ Before long, Morrow was… not exactly <em>calm</em>, but a lot less frantic.
 
 "Also, why would you even know that??" I said. "Wait, never mind, you probably just looked it up because you were curious. Duh."
 
+?????
 
+"There you are," she said to Alchemist. Her eyes quickly scanned the room around us.
 
 ?????
 
+"This room feels different than the others," said Justicar. "I believe we have reached the very center of the Maze."
+
+"What does that even mean?" I said. Something <em>did</em> feel special about it, though. We were on the edge of a wide platform in the middle of a vast, dark space, with walkways stretching out in every direction – not just horizontally, but diagonally up and down at every angle as well. The platform and walkways were all made out of a sort of glass mesh, translucent and full of tiny gaps. And in the middle of the platform we were on, there was a fountain. Not anything like the peaceful fountain in the first layer of the city, this one shot up a good twenty meters into the air and splashed down chaotically into a shallow pool around it, which was constantly overflowing and pouring water right through the little gaps in the platform, where it fell through space and splashed through the walkways under us.
+
+Despite the wild water, the fountain seemed a little… <em>ordinary</em> compared to the rest of the world. The water wasn't even multicolored or shimmering. And the pool floor looked like plain old concrete, with nothing interesting but a couple silvery fish darting around in it.
+
+"Look at those fish! Betcha they're a mystery!" said Morrow. Showing him something new seemed to have perked him right at.
+
+"Yeah, but what's the mystery? They're just fish."
+
+"Maybe that's the mystery!"
+
+I ignored him. But then something caught my eye. In the very center of the jet of water, there <em>was</em> a multicolored shimmering. "Hey, maybe there's a mystery in this fountain after all," I said. "Let's check it out."
+
 "I'll check the other side!" said Morrow.
 
-I squinted. I didn't see anything interesting over there. "What's on the other s–"
+I squinted. I didn't see anything different over there. "What's on the other s–"
 
 "Won't know until you look!" Morrow hurried off.
 
 "Well <em>I'm</em> going to check that cool thing in the middle." I jumped into the fountain and splashed noisily across to the center. Hovering in the spurting water, there was a shimmering sphere of all different colors. I tried to grab it with my hand, and my hand passed right through it. But then it sort of started following my hand around.
 
-"What <em>is</em> this thing??" I said. I splashed my way back to the others, the sphere hovering after me.
+"What <em>is</em> this thing??" I said. I splashed my way back to the others, the sphere hovering along with me.
 
 Morrow ran up to me. "Ooh! You got the map!"
 
@@ -430,7 +446,28 @@ Morrow ran up to me. "Ooh! You got the map!"
 
 "How is it not obvious??" Morrow snatched the sphere from my hands.
 
-"Hey!" I yelled. But somehow, it was still there in my hand, too. Morrow just had a <em>copy</em> of it. He cheerfully started handing more copies out to the others.
+"Hey!" I yelled. But somehow, it was still there in my hands, too. Morrow just had a <em>copy</em> of it. He cheerfully started handing more copies out to the others.
+
+"I… see," said Justicar, holding hers up and scrutinizing it. "I can see the sigils inside."
+
+I looked into my own. It was barely bigger than my own, but as soon as I looked into it, I saw thousands of glowing lines swimming past inside the orb, forming countless diagrams that overlapped and slid past each other as my eyes tried to tell them apart. "How the fuck do you see anything in this??" I said.
+
+"Use your intention," said Justicar. "Try to look for a specific room. This one, for example."
+
+"Fine." I looked for the room we were standing in. I did what I'd gotten used to doing while manifesting, trying to use just my mind to force the orb to do what I wanted. In moments, every other diagram slid aside and I saw a small icon of the fountain, with the walkways zigzagging out in all directions around it. The map was even three-dimensional, I could look at it from a different angle if I tried. But the most interesting thing was the four symbols written right next to the fountain.
+
+The Endless Maze symbol, where Morrow was standing.
+
+The Cloven Earth, the symbol of the Broken God, next to Morrow, where Alchemist was standing.
+
+The Iron Gate, the symbol of the Stern God, just a little distance away, where Justicar stood.
+
+And the Burning Heart, the symbol of the Blood God, right where I was.
+
+"Woah, so it's labeled all of us? Then that means –" Excitement burned inside me. I focused my entire force of will on the little sphere, forcing it to show me the final symbol – the Watchful Eye. Countless rooms and landscapes flashed past as the map moved to show it to me. And there it was. Amid a twisting mass of tunnels, in a little room laid out like a courthouse, sitting before a giant set of scales, there it was.
+
+I pointed triumphantly. "That's where Yali is! That's where we're going next!"
+
 ''',
 },
 ]
