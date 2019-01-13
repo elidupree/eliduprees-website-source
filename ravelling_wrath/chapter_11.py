@@ -169,9 +169,9 @@ The weirdest thing was the world around us.
 
 "What the – I mean, what do you mean by that?"
 
-"One time, I, was lying down, and I saw, a shape? In the ladders, the light shining through the ladders. And then I made the shape, with the stones. And then, it gave me another shape…"
+"One time, I, was lying down, and I saw, a shape? In the ladders, the light shining through the ladders. And then I made the shape, with the stones. And then, it gave me another shape… There was a sequence…"
 
-"Did that lead to something?"
+"Did it lead to something?"
 
 "I forgot one of the shapes…"
 
@@ -179,19 +179,31 @@ The weirdest thing was the world around us.
 
 "It's okay. Maybe it'll come back later."
 
+I was kinda tired from walking, so I manifested one of my giant fluffy couches and flopped down in it. ?????
 
+????? I idly pulled out my broken phone and fidgeted with it in my hand. Twirling it around to catch the light, idly poking at the buttons as if it would turn on again.
 
- ?????
+Alchemist leaned in to take a closer look. "Is that, the one that, broke?"
 
+"Yeah…" I muttered.
 
-?????
-I sat up in bed. Near me, Alchemist ?????
+"It's, still, broken?"
 
-"I heard Morrow call you Raylie earlier, is that your name?"
+"Phones don't unbreak by themselves!" I said irritably. Alchemist flinched. Oh right, they were pretty sensitive, I shouldn't be snapping at them like that.
+
+"Maybe, if, you…?"
+
+"If I what, manifested it back together?" I held the phone at arm's length, as if I was trying to find an angle to fix it from. "I wish. But Yali said we probably can't manifest on our phones because we don't know how they work – wait, no, she said we couldn't <em>recharge</em> them because we don't really know how to put them <em>completely</em> back to how they were before – wait, that's it!" I focused my mind at the phone, willing it to change back to how it had been right before it broke. Right away, the cracks disappeared and the screen lit up.
+
+I threw my arms around Alchemist and hugged them tight. "That's amazing! You're amazing, Alchemist!"
+
+Alchemist smiled happily.
+
+Now that we were this comfortable together, it felt a little weird that I was still calling them by their title. "I, uh, I heard Morrow call you Raylie earlier, is that your name?"
 
 "It's, uh, short for Raline," said Alchemist awkwardly.
 
-"Should I call you that? I mean, calling you Alchemist all the time just feels so… cold and formal," I said.
+"Should I call you that? I mean, calling you Alchemist all the time just feels kinda… cold and formal," I said.
 
 Alchemist shrugged. "You can call me whatever you like."
 
@@ -311,23 +323,21 @@ As I walked, I thought about ?????
 
 "Okay, then, what is it? Come on, talk to me."
 
-"This doesn't… feel right." Alchemist went quiet for a while. I stayed quiet to let them continue. "I can tell, you, have been trying, so hard, too, care for me. And Morrow, told me, how, you, maybe, fought so hard, too, keep him safe ?????. Having you work so hard, for us… it just, doesn't feel right."
+"This doesn't… feel right." Alchemist went quiet for a while. I stayed quiet to let them continue. "I can tell, you, have been trying, so hard, to, care for me. And Morrow, told me, how, you, maybe, fought so hard, to, keep him safe, when he was, hurting himself. Having you work so hard, for us… it just, doesn't feel right."
 
-"But… I care about you!
-
-?????
+"But… I care about you! Why shouldn't I work hard for you?!" I couldn't stop a note of desperation from creeping into my voice. I had poured myself into Alchemist in these last days, and now it felt like they were tugging it away from me.
 
 "But you're so young. Me and Morrow…"
 
 "Don't turn all Stern on me! I can make my own decisions!" I snapped. "How the fuck old are you, anyway?"
 
-"I'm twenty…" I had assumed Alchemist was older than me, so that wasn't too surprising. "Morrow's twenty-five."
+"I'm twenty…" I had already assumed Alchemist was older than me, so that wasn't too surprising. "Morrow's twenty-five."
 
-"You kidding me?! No way! He doesn't <em>look</em> twenty-five. He doesn't <em>act</em> twenty-five. And how the fuck did you even get him to tell you how old he was?"
+I stared, open-mouthed. "You kidding me?! No way! He doesn't <em>look</em> twenty-five. He doesn't <em>act</em> twenty-five. And how the fuck did you even get him to tell you how old he was? <em>I</em> couldn't get him to!"
 
-"I, didn't? He, didn't, tell me. It was… the shows he referred to, ?????. He was… so… upset, when I realized. He made me promise not to tell anyone…" Alchemist cringed. "Oh… I forgot…"
+"I, didn't? He, didn't, tell me. It was… little things. There were some shows he referred to, and, things from politics, that he wouldn't know, if he was just my age. He was… so… upset, when I realized. He made me promise not to tell anyone…" Alchemist cringed. "Oh… I forgot…"
 
-"Don't worry, he won't hear about it from me." Alchemist stared at me. "Wait, shit." Morrow was going to read Alchemist's mind, and then he'd find out that Alchemist had told me <em>and</em> that I'd tried to cover it up. "I mean, just don't think about it when he's around!"
+"Don't worry, he won't hear about it from me." Alchemist stared at me. "Wait, shit." Morrow was going to read Alchemist's mind, and then he'd find out that Alchemist had told me. And then he'd <em>also</em> find out that I'd tried to cover it up! "I mean, just don't think about it when he's around!"
 
 "Oh…"
 
