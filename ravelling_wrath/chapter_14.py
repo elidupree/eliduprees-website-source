@@ -203,7 +203,7 @@ The thoughts slowly clicked into place in my brain. "Holy shit, is she the one w
 
 Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>did</em> ask you not to bring that up, didn't I. But I see no reason not to tell you now."
 
-<em>I see no reason not to tell you now.</em> Her words were infinitely cold. I could already sense that telling me would not be a kindness.
+<em>I see no reason not to tell you now.</em> Her words were infinitely cold. She was going to tell me, but there was no warmth in this, no kindness, no sense of closeness or vulnerability.
 
 <bigbreak>
 
@@ -215,11 +215,11 @@ That was not her fault. That was not when she betrayed me.
 
 I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that made sense to her. And I hoped for her too.
 
-So when she explained to me that I would be given to another family when she was [????? made into high priest], I understood. She explained that they would take care of me from now on, that they would give me the care and nurturing that she could not. She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
+So when she explained to me that I would be given to another family when she was [????? made into high priest], I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
 
-????? and ????? ?????surname were praised and respected by everyone in our community. They were fashionable. They gave generously to good causes. And everyone remembered their grand gestures of love for each other, the surprise romantic messages they delivered at their formal parties. They always laughed and smiled charmingly,
+????? and ????? ?????surname were praised and respected by everyone in our community. They were fashionable. They gave generously to good causes. And everyone remembered their grand gestures of love for each other, the surprise romantic messages they delivered at their formal parties. They always laughed and smiled charmingly, and whenever they were praised, they deflected it with modesty.
 
-And at the same time, they were a husband and wife who could not have children of their own. So it seemed only natural that they would be a good candidate to care for the high priest's child when she was consumed by her duties. Everyone told me it was a perfect match. They said it was sad I would be away from my mother, but they could imagine no better replacement.
+And at the same time, they were a husband and wife who could not have children of their own. So it seemed only natural that they would be a good candidate to care for the high priest's child when she was consumed by her duties. Everyone told me it was a perfect match. They said it was sad I would be away from my mother, but they could not imagine a better replacement.
 
 At first, I thought they were right. I ate good food. I lived in a clean house. I missed my mother, but she had told me to trust the [????? name]s, and I believed her.
 
@@ -227,11 +227,11 @@ It was barely days before their performance fell apart. Everything they did in p
 
 And if I ever spoke up to make them stop, they yelled at me as well. They called me worthless. They called me an inconvenience. I was no better than the furniture they tried to polish until the stain was invisible. I started making sure the house was in perfect order, hoping there wouldn't be anything to set them off. But when ????? caught me trying to clean the house, he cornered me and berated me until I was frightened into silence, accusing me of trying to cover up for ?????'s carelessness. I quickly learned to clean things up when no one was looking.
 
-They had never wanted a child to love and care for. They had wanted a child because they thought, if they had to care for a child, they could ?????
+They had never wanted a child to love and nurture for her own sake. They had wanted a child because they thought, if they were forced to love and nurture a child, they could pretend that was who they really were. They could complete the story they were telling themselves about who they were and what their relationship was. But they could not. And once they could no longer pretend, I was just another burden to them, a failed prop that they had no way to get rid of.
 
-?????
+And as they couldn't get rid of me, they put me to any use they could think of.
 
-[????? Sex]. I listened through the imperfectly soundproofed walls, a child trying to understand what made them moan, at one moment, "oh gods, I love you, how could I live without you," and at another moment, "[????? you pervert, you freak, only perverts are into that]".
+I was a child. I didn't understand what sex was. But I had heard them. I had listened through the imperfectly soundproofed walls, trying to understand what made them moan, at one moment, "oh gods, I love you, how could I live without you," and at another moment, "[????? you pervert, you freak, only perverts are into that]".
 
 And then there was the day when I walked in on them.
 
@@ -239,26 +239,33 @@ I understand that memories can be altered when we remember them. False memories 
 
 Once the idea was in their minds, it could not be removed. Both of them raped me many times. Both together and separately. [?????femalename in particular forced me into many different positions creatively, all the while complaining that it was on the fair because she thought ????? had gotten to use me more than she had.]
 
-I blamed myself for a long time. I no longer do. Those thoughts are not allowed authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. I no longer believe it. That is good.
+I blamed myself for a long time. I no longer do. Those thoughts are not allowed authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. Now I can even say it out loud without being afraid I will believe it. This time was easier than last time. That is good.
 
-On other days, they cried and begged me not to tell anyone what they had done. They said it would ruin them. They accused me of tempting them into it and despising them for their weakness. ?????
+On other days, they cried and begged me not to tell anyone what they had done. They said it would ruin them. They accused me of tempting them into it. They accused me of despising them for their weakness. Because I was silent. Because I never cried or screamed. Because I had seen them for what they truly were.
 
-[????? I didn't tell many people.] But. I. On one of our visits. Which happened every other week. On one of our visits. I told. My mother. What was happening.
+And I did what they told me to. I told almost no one. But. I. On one of our visits. Which happened every other week. On one of our visits. I told. My mother. What was happening.
 
 She refused to believe me.
 
-She told me she <em>understood</em> that I wasn't happy with the ?????s.
+She told me she <em>understood</em> that I wasn't happy with the ?????s. She told me she <em>understood</em> why I would <em>make up a story</em> to try to get her back. But she was the one who was making up a story because the truth was inconvenient for her! ?????
 
+<em>That</em> is when she betrayed me. To keep her grand plan to serve the Waiting God, she could not admit to her mistake, even to save me from years of abuse. I will never forgive her for that. And I will never forgive the Waiting God for accepting her service after that. The Waiting God knows all, but it did nothing to protect me. My suffering was insignificant to it. No matter what it wants or why, no matter how much [????? I seem to follow in its footsteps], I refuse to let it puppeteer my life any longer.
 
-?????
-
-In those days, I had only one friend, and I treated [????? them] very badly. When [????? they] left me, it was the worst day of my life.
+[????? But that is something I can only say from my comfortable position in the future. Back in the past, I had many years of life left to suffer through. They sent me to a private school described in some way.] In those days, I had only one friend, and I treated her very badly. When she left me, it was the worst day of my life.
 
 ?????
 
 To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information on child abuse. I learned that what they were doing to me was not normal, and, more importantly, not <em>legal</em>. And that meant that there was something I could do to change it.
 
 I began recording everything they did. Every
+
+?????
+
+[????? Concerns about pregnancy] I became increasingly certain that I needed to make my move.
+
+I didn't know whether I could trust the police. And I didn't know how far the ?????s would go to silence me. I had already left an earlier copy of my records with [????? a friend I thought I could trust], telling her to go to the police with them if I ever disappeared. When I decided to go to the police myself, I went back to her and told her the plans had changed. If I didn't come back, it would mean the police had betrayed me to the ?????s. So I told her that if I didn't come back, she should take my records to the press.
+
+
 
 ?????
 
@@ -272,11 +279,11 @@ Yali smiled joylessly. "Can you tell I've told this story before? The parts befo
 
 Her words kept echoing around my head like it was an empty cave. I felt like there were a million things I wanted to say, but none of them came to me. How? How could people be so horrible? I was supposed to be angry, to hate ????? and ????? and Arinyo Seti for everything they had put her through. But there was an emptiness inside me where the anger should have been.
 
-[????? I tried to decide what to respond to but it was all too much]
+What could I say? What would Rinn Akatura say? I was supposed to say something, to sympathize, to have an answer to the whole picture of what she told me. But it was a picture of something I couldn't comprehend. My mind stubbornly clung to the tiny details it could make sense of.
 
 "I can't believe your only friend left you…" I said hollowly. "Like, officially <em>left</em> you. On a specific day and everything…"
 
-Yali answered matter-of-factly. "It was 100% my own fault. No child [????? their] age could have given me what I needed. I practically bullied [????? them] until [????? they] was a nervous wreck."
+Yali answered matter-of-factly. "It was 100% my own fault. No child her age could have given me what I needed. I practically bullied her until she was a nervous wreck."
 
 "…<em>you</em> did that? <em>You</em>…?"
 
