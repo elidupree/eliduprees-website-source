@@ -77,23 +77,29 @@ Well, if the Blood God wanted me to feel torn up about it, I wasn't going to. "O
 
 Peeking around the corner, my vision was suddenly filled with blackness – a huge empty space like the bottomless pits from the earlier. Stretching into the blackness, a jumble of blocky shapes and ladders hovered in front of me, each one floating in space with no supports, surrounded by emptiness in all directions. It was like a giant obstacle course, and if I missed a jump, I'd fall into a pit. It didn't actually feel scary, though. It felt more like someone had just painted "bottomless pit" onto a floor that was right under them. So I eagerly started jumping and swinging across.
 
-The first bit was easy. But then, as I jumped from and ????? to an ?????, the world suddenly zoomed off sideways. The direction of gravity had changed while I was in midair! I flailed as I fell into infinite space. But I had scarcely fallen by a meter when I found myself landing on my hands and knees back at the beginning of the obstacle course.
+The first bit was easy. But then, as I jumped from an ????? to an ?????, the world suddenly zoomed off sideways. The direction of gravity had changed while I was in midair! I flailed as I fell into infinite space. But I had scarcely fallen by a meter when I found myself landing on my hands and knees back at the beginning of the obstacle course.
 
 It turned out I could try the course as many times as I wanted. Each time I fell into a pit, I just landed back at the beginning. It took me a few more tries to get the next jump right, picking the right angle and timing to compensate for the gravity change. I ended up jumping off the edge of one big block, then landing on the side of the same block, which was now acting like a floor. Now everything was sideways. What had been a ladder earlier was now a set of monkey bars.
 
-[????? Long summary of obstacle course] Then there was a set of overlapping wheels I had to jump through without hitting any of the spokes. The first time I tried it, one of the spokes smacked into my stomach and knocked the wind out of me, then I fell onto another one that flung me off into space. By the time I made it to the final challenge, my arms and legs were sore and I had bruises all over me. It was the most fun I'd had in ages.
+I paused to catch my breath and look at what was up ahead.
 
-For the final challenge, I had to run along a narrow spiral through space to get to a golden exit door. Along the spiral, I had to literally jump through flaming hoops while dodging giant hammers and tricky floor tiles that were trying to flip my feet out from under me. If you'd shown me this the day before, I would've been like, "how the fuck do you expect me to do that?!". But now that I'd made it past the rest of the obstacles, this last bit felt like it just might be possible.
+Everything was leading up to a golden exit door, hovering in the distance. Before that, there was everything you could think of – slides, nets, spinning wheels, ropes that dangled in impossible directions, platforms that wobbled back and forth, stretches of empty space with only tiny handles to hang onto.
 
-Of course, I still screwed it up on the first try. ?????
+Each challenge seemed nearly impossible before I did it. There was a set of monkey bars that were so far apart I couldn't reach between them even with my fall arm span, but it turned out I could swing and grab the next one with my legs. Then there was a rope swing that looked awesome but actually sent me smacking right into the side of a big post. After I climbed up to try it again, I figured out that I had to swing off at an angle so I went around it, <em>and</em> climb further up the rope while I was swinging so I could get off on the next platform. Then there was a set of overlapping wheels I had to jump through without hitting any of the spokes. The first time I tried it, one of the spokes smacked into my stomach and knocked the wind out of me, then I fell onto another one that flung me off into space. By the time I made it to the final challenge, my arms and legs were sore and I had bruises all over me. It was the most fun I'd had in ages.
+
+For the final challenge, I had to run along a narrow spiral through space to get to the golden exit door. Along the spiral, I had to literally jump through flaming hoops while dodging giant hammers and tricky floor tiles that were trying to flip my feet out from under me. If you'd shown me this the day before, I would've been like, "how the fuck do you expect me to do that?!". But now that I'd made it past the rest of the obstacles, this last bit felt like it just might be possible.
+
+Of course, I still screwed it up on the first try. I tried to be smart by paying attention to the floor tiles, because they were the ones that would trip me up when I wasn't paying attention. But while I was doing that, I somehow managed to miss one of the giant hammers, and it promptly smacked me off into space. And then I was tumbling onto the ground all the way back at the start. I was pretty pissed off. I <em>really</em> wanted to get to that exit. I jumped up right away and started the long process of getting to the final challenge again.
+
+[????? Summary language getting through the final challenge] ?????
 
 ?????
 
-?????
+????? Before ????? could [????? knock me off], I made a last giant leap for the exit. With my body sailing through the air, a hidden tripwire caught on my ankle, almost ruining everything. With a terrific effort, I wrenched my foot off of it fast enough for me to keep going and smack down onto the platform. And then – I was <em>there</em>. I was at the final door.
 
-"YES!" I pumped my fist in the air. "I <em>made</em> it! No stupid [????? part of obstacle course] can stop <em>me</em>!" With a flourish, I flung open the tantalizing exit door, to reveal my reward.
+"YES!" I pumped my fist in the air. "I <em>made</em> it! No stupid [????? part of obstacle course] can stop <em>me</em>!" With a flourish, I flung open the tantalizing exit door and stepped through to receive my reward.
 
-It was another obstacle course, this one full of spiral slides and upside-down whirlpools and crisscrossing columns of steam. On another day, I might have thought that was awesome. But I wasn't feeling it anymore. "Look, I did your fucking obstacle course, what more do you want?!" I yelled at the world. "You can't just make me dance all day and expect me to put up with it! Give me Yali, you asshole!" Seriously, the Seeking God was fun, but it was basically my annoying younger sibling that never knew when to shut up. There were times when you had to get serious, but it always just stubbornly kept pulling tricks.
+It was another obstacle course, this one with water everywhere, full of spiral slides and upside-down whirlpools and crisscrossing columns of steam. On another day, I might have thought that was awesome. But all of a sudden, I wasn't feeling it anymore. I slammed my fist into the doorpost. "Look, I did your fucking obstacle course, what more do you want?!" I yelled at the world. "You can't just make me dance all day and expect me to put up with it! Give me Yali, you asshole!" Seriously, the Seeking God was fun, but it was basically my annoying younger sibling that never knew when to shut up. There were times when you had to get serious, but it always just stubbornly kept pulling tricks.
 
 Wait a minute. I didn't <em>have</em> a younger sibling.
 
@@ -101,31 +107,25 @@ I was getting better at recognizing the Blood God's thoughts, I realized. So tha
 
 What did the Blood God think of the other gods? I cleared my mind and tried to put myself in the same mental state I'd been in when I thought that stuff about the Seeking God.
 
-I thought of the Stern God, and felt pain, hatred, resentment, and a firm heart saying <em>this is not my real enemy</em>. Interesting…
+I thought of the Stern God, and felt pain, hatred, resentment, and a firm heart saying <em>this is not my real enemy</em>. That was… interesting. I tried to think about it more, to figure out what it meant, but the feeling had passed. I had to give up for now.
 
 I thought of the Broken God, and felt conflicting feelings, distance, and regret. A longing to be closer, but the certainty that I had stuff going on that would keep us apart.
 
 I thought of the Waiting God, and felt KILL! MURDER! DO IT NOW, TEAR HER TO PIECES BEFORE IT'S TOO LATE –
 
-"Look, I'm not going to killmurder anyone," I said out loud. I tried to probe the Blood God's thoughts about a couple more things, but now that I had set it off, it didn't want to think about anything but how mad it was. I tried to block it out and focus on the stuff that was in front of me.
-
-
-
-[????? Examples]
-
-[????? whirlpool room: manifesting rules]
+"Look, I'm not going to killmurder anyone," I said out loud. It hadn't even literally been the words "kill" and "murder", but it sure <em>felt</em> like that. I tried to probe the Blood God's thoughts about a couple more things, but now that I had set it off, it didn't want to think about anything but how mad it was. I tried to block it out and focus on the stuff that was in front of me.
 
 Not that I was planning to do what the Seeking God wanted me to, either. Sure, normally, it would've been fun to dive into the whirlpools. But if I just dived in and had fun, I would be <em>giving in</em>. I refused to just roll over and let the god have its way.
 
 So I stuck out my hands and manifested a boat. Or I thought I did. When I looked, there wasn't anything there. I tried again, but still nothing. I tried for a bridge, and that didn't work either. Could I manifest anything at all? I manifested a rock. That worked, but it wasn't any use. I threw it into the water irritably.
 
-I spent ages trying different things, piling up a heap of different manifested junk around me. It probably would've been quicker to just do everything the way I was supposed to, but I couldn't stand the idea. But somehow, I could only manifest things that weren't any use. Eventually I realized that if I <em>code</em> manifest rocks, I could eventually fill up the water by dumping a load of rocks into it. But then I stopped being able to manifest rocks either.
+I spent ages trying different things, piling up a heap of different manifested junk around me. It probably would've been quicker to just do everything the way I was supposed to, but I couldn't stand the idea. But somehow, I could only manifest things that weren't any use. Eventually I realized something – if I <em>could</em> manifest rocks, I could eventually fill up the water by dumping a load of rocks into it. For a moment, I was excited that I had beaten the rules. But then I stopped being able to manifest rocks either.
 
-Was the Seeking God somehow stopping me from cheating?
+Was the Seeking God deliberately stopping me from cheating?!
 
 That gave me an idea. I made a Blood Blade and extended it into a long pole, long enough to cross the water. I smirked. The Seeking God could stop my regular manifesting all it wanted, but it wasn't allowed to stop the powers the Blood God gave me. So I made some more long Blood Blades and fused to them into a bridge so I could walk across.
 
-Cheating was a lot of work, but it sure was satisfying. I molded my blades into bridges, ladders, and staircases, painstakingly crossing from platform to platform. Eventually, I realized that the final goal was at the top of one of the walls. So I just stabbed a blade into the wall, carefully stood on top of that blade, then stabbed another one in higher, and so on.
+Cheating was a lot of work, but it sure was satisfying. I molded my blades into bridges, ladders, and staircases, painstakingly crossing from platform to platform. Eventually, I realized that the final goal was at the top of one of the walls. So I just stabbed a blade into the wall, carefully stood on top of that blade, then stabbed another one in higher and stood on that. By doing this over and over again, I slowly made it up the wall.
 
 I climbed through a hatch in the ceiling and found myself in another room, full of glowing ropes of light zigzagging through the air, with a whole mess of open doorways leading into dark tunnels on every wall.
 
