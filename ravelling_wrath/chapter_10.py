@@ -18,6 +18,8 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
   
+  [????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right"]
+  
 [????? early in this chapter: Justicar predicts that they will not find Yali, reasoning about Yali being too willing to give answers]
 
 "I do not expect that we will," said Justicar.
@@ -41,6 +43,9 @@ posts = [
 [????? Somewhere in this chapter: noticing that the type of puzzles is dependent on who is running into them]
 
 [????? Somewhere in this chapter: Justicar saying that her understanding of "the laws by which each god/world functions" gives her an advantage]
+
+
+[????? Where: "The Stern God asks that I consider the Farseer's guidance, but not become dependent on it."]
 
 [????? somewhere in this chapter: Justicar's parents and the big decision]
 
