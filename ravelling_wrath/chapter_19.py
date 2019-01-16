@@ -34,9 +34,9 @@ I looked.
 
 Unspeakable feelings pressed in at the edges of my mind. If I kept looking at this mutilation, I wouldn't be able to stay in control. I would strike Justicar in anger, even though she was already dead. And the tradition was clear: Anyone who defiles a corpse will be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. So I looked away.
 
-I took a minute to store away the unwanted thoughts. Then I tried again, looking at Rinn the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
+I took a minute to pack away the unwanted thoughts. Then I tried again, looking at Rinn the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
 
-The left arm and left leg were twisted into shapes that wouldn't be possible if the bones were intact. Most likely, they had been reduced to powder by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Under the body, the right shoulder was also crushed, torn and bloody.
+The left arm and left leg were positioned at angles that wouldn't be possible if the bones were intact. Most likely, they had been reduced to powder by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody.
 
 ?????
 
@@ -49,6 +49,38 @@ Also, how would I transport her? One way or another, she would have to arrive at
 ?????
 
 [????? Once Rinn is relatively stable, Looking at Rinn's face,] There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam blocks. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. So if I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
+
+Now there was nothing more I could do for Rinn immediately. Maybe now I would have time to think and plan my next move.
+
+Should I find a place to sit? It would not be possible for me to relax, not so soon after Rinn had been in danger. And even if I could, it would make me suffer. As much as I had improved my endurance, I could already feel my muscles burning from the strain of combat. For now, the feeling was kept at a distance, but if I relaxed, it would catch up with me.
+
+I compromised by manifesting a hard bench and sitting up straight on it. That called back a memory of Szaieto chiding me that it wasn't good for me to be so tense. It was funny to think of such an ordinary thing at a time like this. I allowed myself to be amused, but only for a moment. I had plans to make.
+
+<bigbreak>
+
+I had never intended to take the unravelling potion.
+
+When I had foreseen Alchemist approaching with idea of the potion, I had tried many different futures. I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So if the Blood God rejuvenated and the Waiting God did not, it would be a complete success. A total victory for the Blood God.
+
+To me, that wasn't enough.
+
+The Waiting God had <em>allowed</em> its Farseers to die. It had callously sacrificed them, for no more reason than to prove its story that the Blood God was a monster. Rinn's words echoed in my head: <em>I will kill you and kill you and kill you, and when I am gone, you will still be strong.</em> And the Waiting God knew it. The Waiting saw the grand span of time. The loss of a single rejuvenation, in a single year, was nothing to it. And so that loss was nothing to me as well. I was not content to take away only what it had already willingly discarded.
+
+What I needed was a way to access the Waiting God directly, [so that I could leave a <em>permanent</em> scar ?????].
+
+What I needed… were the threads it had woven into my soul.
+
+And so, here we were. Everything was going according to plan. Justicar was no longer a threat. Rinn… Well, that was one of the things it would be easier not to think about. Working with Alchemist, I had learned that the most powerful healing potions also leave the drinker unconscious, sometimes for days at a time. And when Rinn wasn't with us, I had asked them to heighten that effect even further. I had sincerely hoped that Rinn wouldn't have to be injured. But at least it had made it easy to get her to drink the potion. And now Rinn was no longer a threat either. Neither she nor the Blood God inside her would wake until we had already entered the final portal.
+
+Now only my most powerful enemy was left.
+
+[????? Probably in the final portal, maybe earlier (maybe a few small versions of this earlier building up to a big one in the portal?): I invited the Waiting God into me, then slammed it with as much guilt as I could]
+
+<bigbreak>
+
+But [????? there was little I could do against the Waiting God <em>now</em>. First, I would have to reach the final portal.]
+
+I forced myself to my feet. If I [????? kept sitting and thinking], I would begin to think of things that were not necessary, things that would only distract me with worries. It was time to take Rinn and begin moving.
 
 ?????
 

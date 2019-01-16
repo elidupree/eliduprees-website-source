@@ -47,6 +47,14 @@ I was about to say something, but Yali's hand squeezed my shoulder. I clamped my
 
 "Oh duh, it refers to plans, haha."
 
+?????
+
+"And in order to bring it to him…" began Yali exhaustedly.
+
+"I have my soulfire now! No one can stop me!" I was excited, but Yali didn't even crack a smile. "Yali, are you okay…?"
+
+She clearly wasn't happy. "I hate that you're going to help him right after he abused you. I actually hate it," she said neutrally. "But at least this will stop him from putting us in danger. I can live with that."
+
 
 ?????
 

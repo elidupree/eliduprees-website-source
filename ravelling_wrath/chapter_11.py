@@ -293,6 +293,8 @@ And the more I thought about Yali, the more it woke up the <em>other</em> part o
 
 [????? The Blood God being impatient, making Rinn impatient with Alchemist]
 
+Why was I wasting my time kissing someone irrelevant like Alchemist when I had more important things to do?!
+
 [???? worry about forgetting Yali for Alchemist?]
 
 [????? doesn't feel right to make you support us adults]
