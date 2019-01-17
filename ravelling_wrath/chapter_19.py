@@ -60,7 +60,7 @@ I compromised by manifesting a hard bench and sitting up straight on it. That ca
 
 I had never intended to take the unravelling potion.
 
-When I had foreseen Alchemist approaching with idea of the potion, I had tried many different futures. I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So if the Blood God rejuvenated and the Waiting God did not, it would be a complete success. A total victory for the Blood God.
+When I had foreseen Alchemist approaching with idea of the potion, I had tried many different futures. I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. And provoking the Blood God now wasn't something I was willing to risk. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So if the Blood God rejuvenated and the Waiting God did not, it would be a complete success. A total victory for the Blood God.
 
 To me, that wasn't enough.
 
@@ -70,21 +70,55 @@ What I needed was a way to access the Waiting God directly, [so that I could lea
 
 What I needed… were the threads it had woven into my soul.
 
-And so, here we were. Everything was going according to plan. Justicar was no longer a threat. Rinn… Well, that was one of the things it would be easier not to think about. Working with Alchemist, I had learned that the most powerful healing potions also leave the drinker unconscious, sometimes for days at a time. And when Rinn wasn't with us, I had asked them to heighten that effect even further. I had sincerely hoped that Rinn wouldn't have to be injured. But at least it had made it easy to get her to drink the potion. And now Rinn was no longer a threat either. Neither she nor the Blood God inside her would wake until we had already entered the final portal.
+And so, here we were. Everything was going according to plan. Justicar was no longer a threat. Rinn… Well, that was one of the things it would be easier not to think about. Working with Alchemist, I had learned that the most powerful healing potions also leave the drinker unconscious, sometimes for days at a time. And when Rinn wasn't with us, I had asked them to heighten that effect even further, just in case. I had sincerely hoped that Rinn wouldn't have to be injured. If she hadn't been, I would have used the Seeing again, to search again for ways the Blood God could be convinced. But this way, at least, everything was simpler. Now Rinn was no longer a threat, no matter what I chose to do. Neither she nor the Blood God inside her would wake until we had already entered the final portal.
 
 Now only my most powerful enemy was left.
 
-[????? Probably in the final portal, maybe earlier (maybe a few small versions of this earlier building up to a big one in the portal?): I invited the Waiting God into me, then slammed it with as much guilt as I could]
-
 <bigbreak>
 
-But [????? there was little I could do against the Waiting God <em>now</em>. First, I would have to reach the final portal.]
+How was I going to do this?
 
-I forced myself to my feet. If I [????? kept sitting and thinking], I would begin to think of things that were not necessary, things that would only distract me with worries. It was time to take Rinn and begin moving.
+ [???? Yali planning to confront the Waiting]
+
+I remembered how Rinn had talked when she was speaking for the Blood God. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. I would have to treat it as if I was trying to change part of <em>myself</em>.
+
+I smiled grimly.
+
+Keeping still and silent, I listened for the Waiting God's presence. The part of me that I listened for when I used the Seeing. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to [????? the best possible outcome].
+
+It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
+
+With each new thought, the presence felt weaker. This wasn't working. By denying it directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant ?????.
 
 ?????
 
-If I left Justicar's body now, there would be no one left to say the prayer for the dead. [???? this was moved up, replace?] According to tradition, anyone who left a body un[?????honored] would be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. But which prayer should I say? Every god had its own prayer for the dead. I knew all the Waiting prayers by heart, but it seemed cruel to say a Waiting prayer, when it was the Waiting God who had created the situation that caused her death. The Stern prayer was what she would want, but the Stern prayer also said "[????? may your sacrifice be successful]". I would not be able to say that sincerely. And in the eyes of the gods, an insincere prayer was the same as no prayer at all.
+[????? Favorable description of the Waiting God's vision of a world without the Blood God]
+
+THIS WAS SO WRONG. HOW COULD I NOT HAVE SEEN IT? HOW? <EM>HOW?!</EM>
+
+The thoughts came from nowhere, shattering my focus. Was there something urgent I had missed? I quickly put aside my thoughts of the plan –
+
+NO! YOU – I – MY PLAN <EM>WAS</EM> THE MISTAKE! ALL THE WAY FROM THE BEGINNING! I DIDN'T DESERVE TO GET TO STOP THINKING OF IT! SHE WAS RIGHT IN FRONT OF ME, SHE WAS SUFFERING! HOW HAD I NOT SEEN IT?! <EM>HOW?!</EM>
+
+Terror pressed in from the base of my mind. A crushing feeling gripped my chest. This made no sense! This was my plan, my plan! Nothing had changed! How could it be wrong?! How was Blood a "she"?! How – something was wrong, what was happening –
+
+I was Yali again, my body shaken away from the god by a violent force. It was agony, pushing myself back upright and trying to control the painful tears. My mind was in chaos. I'd thought I was being clever, using my own guilt about [????? childhood friend] – no, it HAD been clever! It had <em>worked!</em> The Waiting God was shaken too, I had felt it! A feeling of triumph rose inside me. And this was only the beginning! I gathered my determination. I listened for the Waiting again, and felt…
+
+Nothing but fatigue.
+
+After a moment, I understood. It was like the way I had felt back in the material world, when I had forced myself to use the Seeing for as long as I could. My connection to the Waiting God had been overtaxed. Well… if it was like before, it would recover after a time. It would not be soon, but I would have many more chances to confront the god. Still, this was troublesome. There were multiple things I would have to consider. How might the Waiting God's thoughts change while I was unable to access them? Would ????? ????? [????? concern about lack of access to the Seeing] [????? what about the memories? Are they also inaccessible?] [????? possibility of the main confrontation happening in the final portal]
+
+<bigbreak>
+
+For now, there was nothing more I could do with the Waiting God.
+
+I forced myself to my feet. I had sat for a long time, thinking and planning, but my thoughts had begun to stray. If I tried to keep at it much longer, I would begin to think of things that were not necessary, things that would only distract me with worries. It was time to take Rinn and begin moving.
+
+But first… there was Justicar's body to consider.
+
+If I left Justicar's body now, there would be no one left to say the prayer for the dead. A brief and spiteful thought told me that I could simply leave her to rot. But the satisfaction would be short-lived, and I would likely have guilt and doubt about that decision for much longer. It was better to say a prayer. It would bring closure to this tragedy.
+
+But which prayer should I say? Every god had its own prayer for the dead. I knew all the Waiting prayers by heart, but it seemed cruel to say a Waiting prayer, when it was the Waiting God which had created the situation that caused her death. The Stern prayer was what she would want, but the Stern prayer also said "[????? may your sacrifice be successful]". I would not be able to say that sincerely. And in the eyes of the gods, an insincere prayer was the same as no prayer at all.
 
 Could I say a Blood prayer?
 
@@ -143,9 +177,6 @@ I was sick of being assigned to cases in the fifth layer. Now, I was proud of my
  
 I took a lot of notes on my phone, too. I wasn't sure if I was going to keep any of the former Farseers' memories after I was brought back to the material world. I would <em>probably</em> still have my own memories of <em>remembering</em> the other memories, but I preferred not to rely on that if I didn't have to.
 
-[???? Yali planning to confront the Waiting]
-
-I remembered how Rinn had talked when she was ????? the Blood God. She hadn't said "Rinn" and "the Blood God" – she had said "me" and "me".
 
 ?????
 
