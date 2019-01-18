@@ -158,15 +158,15 @@ The moment Justicar was out of sight, Yali rushed to my side, all her grim deter
 
 "Shhhh! Don't talk yet! Take the rest of your potion!"
 
-"I'm okay," I said weakly. "See, it's already heal–" I patted my side where Justicar's sword had stabbed through me. There was still a hole in my shirt, but the wound in my body had closed up.
+"I'm okay," I said weakly. "See, it's already heal– ow–" I patted my side where Justicar's sword had stabbed through me. There was still a hole in my shirt, but the wound in my body had closed up.
 
 "No, you are not!" Yali thundered. "Your soul is still damaged! Half of that skin is a manifested patch! If you don't take more of the potion, you will <em>die</em>!"
 
-"Okay, okay…" I let Yali feed me the dregs of the potion. Then she tried to collect up some of the part that had spilled. It was pretty gooey, so she was able to wipe part of the spill from my neck and let me lick it off her fingers. [????? I started feeling better]
+"Okay, okay…" I let Yali feed me the dregs of the potion. Then she tried to collect up some of the part that had spilled. It was pretty gooey, so she was able to wipe part of the spill from my neck and let me lick it off her fingers. I was almost able to get distracted, just sucking on her fingers, but she didn't let me. Still, the potion was definitely making me feel a little better, life oozing back into my body.
 
 Yali examined my wound again. It must have satisfied her, because she settled down from an outright panic to just drawn-out anxiety. "It's enough to keep you alive…" she said uneasily. "I'm sorry, I didn't think of, I, I should have brought a second potion, I – "
 
-[????? Wrong diction: "Look, I'll be fine. If I'm not gonna die, we can just find Alchemist again later and get another potion. And as long as you're around to kick Justicar's ass if she tries anything –"]
+"Look, I'll be fine…" I muttered, straining to speak. "Alchemist can make another… And as long as you're around to kick Justicar's ass if she tries anyth…"
 
 Yali's face turned ashen.
 
@@ -179,7 +179,7 @@ how to hurt people even when they NEED to! If I'd had more time –"
 
 "What's… sev…"
 
-"What's a Severing Step? It's how I got here in time. It's a sorcery that temporarily severs the link between your body and the world around you, so that your soul can pull you to wherever you want to be in an instant."
+"What's a Severing Step? It's how I got here in time. It's a sorcery that temporarily severs the link between your body and the world around you, so that your soul can pull you to wherever you want to be in an instant –"
 
 "An Alchemist power…?"
 
@@ -187,17 +187,23 @@ how to hurt people even when they NEED to! If I'd had more time –"
 
 "You did something really dangerous… for me."
 
-"Of course I did. I will risk anything I need to to keep us both alive."
+"Of course I did. I will risk anything I need to, to keep us both alive."
 
 "Bad… ass…"
 
-Yali blushed a little. "That doesn't matter right now! The important thing is keeping you safe!"
+Yali blushed a little, but suddenly turned agitated again. "That doesn't matter right now! The important thing is keeping you safe! I, I, I need to think! I <em>don't know what's about to happen!</em>"
 
-[????? Yali doesn't know why she didn't see it in advance]
+It took me a moment to realize what that implied. "Wait, the Seeing –?"
 
-[????? Maybe: "and then we have to get you out of this layer before anything else happens"]
+"I don't know why I didn't see that this was going to happen! I <em>used</em> the Seeing! I specifically looked for danger! I didn't see Justicar attacking you! Why couldn't I find it?!"
 
-"We need to get you to Alchemist, but, but, how, how are we going to meet up with Alchemist? I didn't think of having a way to contact them –"
+"Could the Stern God… uh… mess it up somehow?"
+
+"I don't know! It doesn't feel like it! But, but, I <em>don't know!</em> Until I understand why it didn't work, I can't assume that we're safe, ever again! So! First of all, I am <em>not</em> leaving your side again, and I don't care what you have to say about it!"
+
+"…yeah… okay…"
+
+"Good! Now, second, we need to get you to Alchemist as soon as we can! And then we need to get you out of this layer before anything worse happens! But, but, how, how are we going to meet up with Alchemist? If I'd – I didn't think of having a way to contact them –"
 
 "Morrow!"
 
@@ -207,18 +213,19 @@ It was too much work to explain, so I just did it. I opened my mind, calling out
 
 Almost immediately, I felt his voice in my head. It didn't actually <em>sound</em> like his voice – it actually sounded more like my own thoughts. But it was obviously him. <em>What happened?? Did Yali beat Justicar?! Wait wait I've gotta tell Raylie, he's so worried –</em>
 
-"Morrow. <em>Please</em> shut up," I said out loud. I saw Yali smile despite herself.
+"Morrow. <em>Please</em> shut up," I said out loud.
 
+<bigbreak>
 
+It was a lot of negotiating and confusion, trying to communicate through Morrow. I didn't know how Alchemist could stand it all the time. But we managed to do it. We planned out a spot to meet up, mostly taking the Alchemist's Path to meet each other.
 
+Yali didn't want me to walk. "I'll carry you. No, no, that would jostle you too. We, we, we should put you in one of those rolling hospital beds." She stuck out her hands, but nothing happened. "I must not have one imprinted… I think I've only seen them in shows…"
 
+"I think I was in one when my leg was broken…"
 
-?????
+Manifesting was still agonizingly difficult, but I did it. So now here we were, Yali pushing me along in a hospital bed, occasionally shouting out to order the statues out of the way.
 
-
-
-
-"You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…" I babbled.
+Being carted along in bed gave me some time to process what had just happened. Or try to. My brain was still a mass of dull pain and shock. My train of thought drifted randomly. I babbled whatever came into my head. [????? Consider including two more things Rinn babbles before this, and have Yali reply "Shh" each time:] "You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…"
 
 "It's easier if people don't know that about me."
 

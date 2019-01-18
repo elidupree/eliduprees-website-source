@@ -469,11 +469,11 @@ Justicar raised an eyebrow. "If it helps… there is always a choice."
 
 "Wait a minute, so every time Alchemist makes a potion, they're permanently sacrificing part of the Broken God?!?"
 
-"No… unlike a human sorcerer, the Broken God can reabsorb the threads after they're used. A human soul is like a big, complex tangle of threads. You can pull one of the threads out of the tangle, but if you tried to put the same thread back exactly where it came from, you wouldn't have a chance.
+"No… unlike a human sorcerer, the Broken God can reabsorb the threads after they're used. A human soul is like a big, complex tangle of threads. You can pull one of the threads out of the tangle, but if you tried to put the same thread back exactly where it came from, you wouldn't have a chance. The rest of us can't perform sorcery here even if we know how to, because the gods want our souls fully intact. But the Broken God is, is, is, special.
 
-"Then there's alchemy. Certain substances have a natural, magical, connection to one of the gods. And an alchemist – that is, a lowercase-L alchemist – knows how to mix those substances to activate the divine power inside them. So it's technically the god manifesting on the world, just directed by the lowercase-L alchemist.
+"Then there's alchemy. Certain substances have a natural, magical, connection to one of the gods, usually the Broken. And an alchemist – that is, a lowercase-L alchemist – knows how to mix those substances to activate the divine power inside them. So it's technically the god manifesting on the world, just directed by the lowercase-L alchemist.
 
-"Those are the main types of magic. There's a few other terms you might have encountered. When we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So Rinn's Blood Blades, Justicar's sword and armor, and Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something.
+"Those are the main types of magic. There's a few other terms you might have encountered. When we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So Rinn's Blood Blades, Justicar's sword and armor, and Morrow's, Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something.
 
 "And a <em>curse</em> is a special type of sorcery that weaves itself into the victim's soul, so that it's very difficult to remove."
 
