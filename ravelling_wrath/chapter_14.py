@@ -44,37 +44,39 @@ Justicar looked at me incredulously. "A Blood Child three layers deep, and you c
 
 The sword hung high in the air above me.
 
-A [????? adjective] relaxation came over me. So this was it. It would all be over soon. The sword would enter my body. I would die. There would be no one left to put Yali in danger. She would ?????
+A strange relaxation came over me. So this was it. It would all be over soon. The sword would enter my body. I would die. There would be no one left to put Yali in danger. She would go on. She at least would escape from this place. Even if I didn't get to escape our fate myself, at least my sacrifice would –
 
-????? <em>Don't you dare sacrifice yourself for me.</em>
+<em>Don't you dare sacrifice yourself for me.</em>
 
 It was like my body moved out of its own accord. It flung itself sideways just as the sword swung down. It was so close that the side of the blade bruised my elbow as it passed. Rolling, I staggered to my feet, my muscles screaming from being yanked without a chance to prepare.
 
 I was barely on my feet when the sword came at me again. I leaped to the side, barely fast enough to hear the woosh in my ear as it missed.
 
-At every instant, I was an arms length away from death. Desperately, I wrenched a Blood Blade out of the air. Even that was a strain. I felt like my blood was far away from me, like I had to pull it through a ?????. And as soon as I was holding it, I had to twist my body to block Justicar's sword again.
+I had no time to think. Death was waiting just an arm's length away. Desperately, I wrenched a Blood Blade out of the air. Even that was a strain. I felt like my blood was far away from me, like I had to pull it through a ?????. And the moment the blade was in my hand, Justicar's sword was already whirling towards my eyes. I had to twist my body to block it, both hands shoving my Blood Blade up in its way.
 
-The two blades met with a sickening thud. I could feel my ????? blade fracture from the force. I leaped backwards ?????
+The two blades met with a sickening thud. I felt mine crack in my hand, terrible fractures spreading throughout its body from the force. I leaped backwards, trying to put even a moment's space between me and the onrushing death.
 
-????? [I forced myself to make a blade in my other hand ????? breathing heavily] ????? She seemed invincible. What was I supposed to do?
+Justicar stepped towards me, unhesitating, inevitable. I tried to stumble away, breathing hard, my thoughts blank with terror. How could I ever stop her?! She seemed invincible. I reached out wildly in my mind for an answer, grabbing onto anything I could think of.
 
-How could she do this to me? Just days ago, we had spoken to each other. She had told me of her life, and I had told her of mine. And now she would tear that away?
+A thin shred of rage answered me, fragile but blinding. "I don't deserve this!" I screamed, trying to make it real. <em>Justicar</em>. How could she do this to me?! Just days ago, we had spoken to each other! She had told me about her life, and I had told her about mine! And now she would toss that away like so much trash?! If only I could reach her! If only –
 
-"Am I worthy of my blood?" I demanded.
+The words sprang to my lips. "Am I worthy of my blood?" I demanded.
 
 "Are your victims worthy of theirs?"
 
-The truth burned inside me. If she was trying to turn my question around, that meant she still had some discomfort about what she was doing. And that meant I had a hook in her. "Answer me, yes or no!" I yelled.
+The truth burned inside me. If she was trying to turn my question around, that meant she was still carrying some guilt about what she was doing. And that meant I had a hook in her. "Answer me, yes or no!" I yelled.
 
 "Do not imagine that I enjoy killing! I would like nothing more than to say that no one has to die! But what of the Farseer? What of the dozens or hundreds who will die if the Blood God is allowed to rejuvenate, as its rage infects our city once again?"
 
-Justicar leapt at me again, her sword swinging in a powerful arc. But when she had paused to argue her case, she had given me just enough time to get my bearings. And now, I saw my chance. As the sword came down, I made a mesh of tiny Blood Blades along the palm and fingers of my left hand. I caught the sword in my hand, my blood closing around the blade and trapping it in place. I knew I'd only have an instant before Justicar had it under control again. So in an instant, I rushed forward, making another blade in my right hand and aiming it towards her. It was like my vision narrowed to a tiny window. The only thing that mattered was the point of my blade, zooming forward and inwards, ready to stab into the exposed skin of Justicar's face.
+Justicar leapt at me again, her sword swinging in a powerful arc. But when she had paused to argue her case, she had given me just enough time to get my bearings. With that scrap of rage had come a fragment of my old power. I had the <em>right</em> to protect my life at all costs, to make her burn and bleed if she would not yield. And now, I saw my chance.
+
+As the sword came down, I allowed one of my Blood Blades to lose its shape and flow over my palm and fingers like a glove. I caught the sword in my hand, my blood closing around the blade and trapping it in place. I knew I'd only have an instant before Justicar would understand and free it again. So in an instant, I rushed forward, focusing all of my will to form a blade in my other hand and aiming it towards her. It was like my vision narrowed to a tiny window. The only thing that mattered was the point of my blade, zooming forward and inwards, ready to stab into the exposed skin of Justicar's face.
 
 I saw Justicar react, moments too late. My blade landed squarely onto her cheek.
 
 And then it <em>stopped</em>.
 
-My bones shook with the force of the blow. Justicar lifted one hand from her sword and took the tip of my blade between her fingers. She firmly pushed it aside, making it scrape over her cheek like it was my fingernails being scraped over concrete. She didn't have a single scratch.
+My bones shook with the force of the blow. Justicar lifted one hand from her sword and took the tip of my blade between her fingers. She firmly pushed it aside, making it scrape over her cheek like it was my fingernails being scraped over concrete. And once her fingers passed off of the side of her face, they revealed a smooth and flawless cheek, without a trace of a scratch to be seen.
 
 I stumbled away, uncomprehending. "<em>How?</em>" I gasped. How had my only weapon been so powerless to injure her?
 
@@ -82,31 +84,33 @@ I stumbled away, uncomprehending. "<em>How?</em>" I gasped. How had my only weap
 
 "No fair," I said, my voice breaking.
 
-"The battle between good and evil should not be <em>fair</em>," Justicar declared. "The Stern God understands this. And that is why the Stern has granted me the power to do what must be done. [????? None of your failing has come anywhere near to changing this.] Even if you draw on a greater weapon, even if you <em>cut out my heart</em>, the will of the Stern God will always carry me forward."
+"The battle between good and evil should not be <em>fair</em>," Justicar declared. "The Stern God understands this. And that is why the Stern has granted me the power to do what must be done. None of your flailing has had the slightest chance of changing this. Do you think a more powerful weapon would have saved you? The Blood God does not even comprehend what it is fighting against. A Justicar is not simply a human who will fold over when struck with a blade. Even if you find a way to pierce my armor, even if you <em>cut out my heart</em>, the will of the Stern God will always carry me forward."
 
 She advanced towards me.
 
 I ran.
 
-Before I got five steps, I ran headfirst into a steel wall. Desperately, I pressed my palm to the cold steel, trying to unmanifest it by force. It flickered for a moment, not letting me past, but letting me see behind it. And behind it… was a <em>second</em> wall, which Justicar had placed there while I was dealing with the first.
+Before I got five steps, I crashed headfirst into a wall of steel. Desperately, I pressed my palm to the cold metal, trying to unmanifest it by force. It flickered for a moment, not letting me past, but letting me see behind it. And behind it… was a <em>second</em> wall, which Justicar had placed there while I was struggling with the first.
 
 Hopelessly, I turned around again.
 
 Justicar was still advancing towards me, barely more than a sword's length away. Every road away from here was already blocked off by steel. I couldn't fight. I couldn't run.
 
-"Get away from me!" I screamed. I reached out desperately for anything that could keep her away. I stuck out my hands and manifested a jagged mass of fragments, a thornbush of Blood Blades jutting out in all directions. I felt like I was pouring out the last of my heart.
+"Get away from me!" I screamed. I reached out desperately for anything that could keep her away. I stuck out my hands and summoned a jagged mass of fragments, a thornbush of Blood Blades jutting out in all directions. I felt like I was pouring out the last of my heart.
 
-Justicar sized it up, raised her sword, and shattered her way through my thorns in a single blow.
+Justicar sized it up, raised her sword, and shattered her way through my thorns with a single blow.
 
-When the Blood Blades broke, <em>I</em> broke. The little strength I had left drained out of me. My body dropped to the floor, sprawling limply against the feet of the statues. Dimly, distantly, I could feel the pain and terror and ?????. But I couldn't move, couldn't speak, couldn't form a coherent thought. I was completely empty.
+When the Blood Blades broke, <em>I</em> broke. The little strength I had left drained out of me. My body dropped to the floor, sprawling limply against the feet of the statues. Dimly, distantly, I could feel the pain and terror and longing. But I couldn't move, couldn't speak, couldn't form a coherent thought. I was completely empty.
 
-Justicar stood over me and raised her sword for a final time. A tiny part of me screamed that it was time to roll out of the way, but my body did not hear it. Not a muscle moved to take me out of her path. "In the name of the Stern, the Waiting, and every soul you place in danger," she declared. And then she plunged her sword into my unmoving chest.
+Justicar stood over me and raised her sword for a final time. A tiny part of me screamed that it was time to roll out of the way, but my body did not hear it. Not a muscle moved to take me out of her path.
+
+"In the name of the Stern, the Waiting, and every soul you place in danger," she declared. And then she plunged her sword into my unmoving chest.
 
 The pain reached me as a distant echo. I watched, unfeeling, as my blood oozed from the edges of my wound. It was over… I didn't have to fight anymore…
 
 Yali…
 
-As my consciousness flickered, I tried to whisper her name. I couldn't even whisper. I tried to <em>think</em> name, holding onto the one thing that still made me feel a tiny flicker of heart.
+As my consciousness flickered, I tried to whisper her name. I couldn't even whisper. I tried to <em>think</em> her name, holding onto the one thing that still made me feel a tiny flicker of heart.
 
 Yali…
 
@@ -132,19 +136,19 @@ Not taking her eyes off of Justicar, Yali knelt down beside me. "Take this," she
 
 I struggled to hold the potion in my hand. My arms didn't even want to lift up off the floor. Still concentrating on Justicar, Yali carefully moved the potion to my lips. Obediently, I tried to swallow. I felt like I was choking. Half the potion spilled down my chin. But a little found its way down my throat. It started warming me on the inside. Just a little, like a candle on a cold night. But it was something.
 
-?????
+Satisfied, Yali stood again. "Now begone. Leave us before I change my mind."
 
 Justicar's sword pulsed with white light. For a moment, I was afraid that she would attack again. But she was only cleaning it, making the blood vanish from its surface. A moment later, she slid it back into its sheath. She stood at the far edge of the intersection, seeming like she was about to leave us. "Just tell me one thing," she said. "I would understand if you only chose to stand against <em>me</em>. The wills of our gods are not always in alignment. But you, every step of the way, have chosen a path that is far astray from the path of the Waiting God. I cannot fault you for standing against <em>my</em> god, but who are you to defy your own?"
 
-Yali stood up and stared at Justicar for a long moment. Then she laughed – a long, cold, hollow laugh that rang out like a bell and seemed to shake the very statues around us.
+Yali stared at Justicar for a long moment. Then she laughed – a long, cold, hollow laugh that rang out like a bell and seemed to shake the very statues around us.
 
 "Who am I? I am Yali Seti, the betrayed daughter of Arinyo Seti, high priest of the Waiting God. I was six years old when she was called by the Waiting God to be its vessel. Six years old when she chose that call above her duty to protect me. Any god who would ask someone for that, <em>is no god of mine.</em>"
 
-Justicar ?????verbed. Visible anger crossed her face. "The gods <em>always</em> have their reasons! You, of all people – for something that you didn't understand when you were a <em>child</em> –"
+Justicar tensed. Visible anger crossed her face. "The gods <em>always</em> have their reasons! You, of all people – for something that you didn't understand when you were a <em>child</em> –"
 
 "You have nothing to say that will change my mind. Now <em>begone</em>."
 
-"Very well," said Justicar. She adjusted the position of the sword on her belt. "But there <em>will</em> be a reckoning. I promise you that."
+"Very well," said Justicar coldly. She adjusted the position of the sword on her belt. "But there <em>will</em> be a reckoning. I promise you that."
 
 She strode away, with Yali glaring after her.
 
@@ -154,7 +158,7 @@ The moment Justicar was out of sight, Yali rushed to my side, all her grim deter
 
 "Shhhh! Don't talk yet! Take the rest of your potion!"
 
-"I'm okay," I said weakly. "See, it's already healing up." I patted my side where Justicar's sword had stabbed through me. There was still a hole in my shirt, but the wound in my body had closed up.
+"I'm okay," I said weakly. "See, it's already heal–" I patted my side where Justicar's sword had stabbed through me. There was still a hole in my shirt, but the wound in my body had closed up.
 
 "No, you are not!" Yali thundered. "Your soul is still damaged! Half of that skin is a manifested patch! If you don't take more of the potion, you will <em>die</em>!"
 
@@ -162,7 +166,7 @@ The moment Justicar was out of sight, Yali rushed to my side, all her grim deter
 
 Yali examined my wound again. It must have satisfied her, because she settled down from an outright panic to just drawn-out anxiety. "It's enough to keep you alive…" she said uneasily. "I'm sorry, I didn't think of, I, I should have brought a second potion, I – "
 
-"Look, I'll be fine. If I'm not gonna die, we can just find Alchemist again later and get another potion. And as long as you're around to kick Justicar's ass if she tries anything –"
+[????? Wrong diction: "Look, I'll be fine. If I'm not gonna die, we can just find Alchemist again later and get another potion. And as long as you're around to kick Justicar's ass if she tries anything –"]
 
 Yali's face turned ashen.
 
@@ -170,9 +174,10 @@ Yali's face turned ashen.
 
 "What about –"
 
-The spike she had been holding earlier was still lying near us, but its energy was already fading. She picked it up and stabbed it into her hand, and it just fizzled into nothingness. "I tried to make Alchemist make a weapon for me. Right after they made the Severing Step –"
+The spike she had been holding earlier was still lying near us, but its energy was already fading. She picked it up and stabbed it into her hand, and it just fizzled into nothingness. "I tried to make Alchemist make a weapon for me. Right after they made the Severing Step. But they couldn't! They won't think of
+how to hurt people even when they NEED to! If I'd had more time –"
 
-"What's…"
+"What's… sev…"
 
 "What's a Severing Step? It's how I got here in time. It's a sorcery that temporarily severs the link between your body and the world around you, so that your soul can pull you to wherever you want to be in an instant."
 
@@ -182,11 +187,29 @@ The spike she had been holding earlier was still lying near us, but its energy w
 
 "You did something really dangerous… for me."
 
-"Of course I did. I will risk anything I have to to keep us both alive. And I will destroy anyone I have to, even if it's a god."
+"Of course I did. I will risk anything I need to to keep us both alive."
 
 "Bad… ass…"
 
+Yali blushed a little. "That doesn't matter right now! The important thing is keeping you safe!"
+
 [????? Yali doesn't know why she didn't see it in advance]
+
+[????? Maybe: "and then we have to get you out of this layer before anything else happens"]
+
+"We need to get you to Alchemist, but, but, how, how are we going to meet up with Alchemist? I didn't think of having a way to contact them –"
+
+"Morrow!"
+
+"What?"
+
+It was too much work to explain, so I just did it. I opened my mind, calling out for Morrow with my thoughts.
+
+Almost immediately, I felt his voice in my head. It didn't actually <em>sound</em> like his voice – it actually sounded more like my own thoughts. But it was obviously him. <em>What happened?? Did Yali beat Justicar?! Wait wait I've gotta tell Raylie, he's so worried –</em>
+
+"Morrow. <em>Please</em> shut up," I said out loud. I saw Yali smile despite herself.
+
+
 
 
 
