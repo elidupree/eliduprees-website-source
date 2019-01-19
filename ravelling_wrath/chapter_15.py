@@ -96,9 +96,9 @@ The stream opened out and I slid headfirst into a lake blooming with algae. I pu
 
 Suddenly it was all too real, ????? my heart pounded. I dropped into a crouch, ready to fight against enemies on all sides. ????? And it wasn't even the pain that hurt. It was the <em>helplessness</em>. I had just lain there motionlessly while her sword plunged into me. Why hadn't I moved?! I should have moved, I should have fought back, twisted out of the way, ANYTHING!! How could I have been so stupid, so WEAK?!
 
-I would NEVER be that weak again. My hands clenched around my blades, looking for something to strike against. The next time I saw Justicar, I'd KILL her! I'd rip my blades into her flesh before she had a chance to fight back! Then she would NEVER be able to hurt me AGAIN! Roaring, I slammed my blades into the nearest tree, an enormous oak I probably couldn't even have fit my arms around. I beat and hacked at the tree until it splintered and fell, crashing violently through the woods. I left on top of the fallen trunk, glaring down at the world. I was STRONG! I was POWERFUL! I had CRUSHED this tree, and I could CRUSH anyone else who tried to stop me!!
+I would NEVER be that weak again. My hands clenched around my blades, looking for something to strike against. The next time I saw Justicar, I'd KILL her! I'd rip my blades into her flesh before she had a chance to fight back! Then she would NEVER be able to hurt me AGAIN! Roaring, I slammed my blades into the nearest tree, an enormous oak I probably couldn't even have fit my arms around. I beat and hacked at the tree until it splintered and fell, crashing violently through the woods. I leapt on top of the fallen trunk, glaring down at the world. I was STRONG! I was POWERFUL! I had CRUSHED this tree, and I could CRUSH anyone else who tried to stop me!!
 
-But another part of me knew that I was grasping at lies. I had known it since the first time I hit the tree, because it didn't feel <em>anything</em> like how it had felt to hit Justicar. My blade had scraped over her face like fingernails scraping against a mountain. How could I ever hope to stop her?! I could almost see her in front of me, coming back to finish me off, her sword plunging towards my eyes. Terror clawed at me, threatening to rip my heart out of my chest. I was going to <em>die!</em> Nothing I did was going to change a single thing! I was going to feel my life bleed out of me without even ?????!!
+But in my core, I knew that I was grasping at lies. I had known it since the first time I hit the tree, because it didn't feel <em>anything</em> like how it had felt to hit Justicar. My blade had scraped over her face like fingernails scraping against a mountain. How could I ever hope to stop her?! I could almost see her in front of me, coming back to finish me off, her sword plunging towards my eyes. Terror clawed at me, threatening to rip my heart out of my chest. I was going to <em>die!</em> Nothing I did was going to change a single thing! I was going to feel my life bleed out of me without even ?????!!
 
 The pain was too much. I felt a scream building inside me. I had to get out of here. I ran frantically into the woods. Branches tore at my arms and head. My legs screamed and I could barely see where I was going. But the pain didn't end. It was inside of me.
 
@@ -115,10 +115,7 @@ The scream ripped out through my lungs ?????. Waves of heat pulsed from my body,
 ?????
 
 [????? Morrow running towards Rinn]
-
-
-
-I had never been so desperate to see another human face. "MORROW!!!" I tried to scream. But even his name was lost in the roar of pain. I looked up at him desperately, hoping he could tell from my eyes what I was begging him to do. <em>Help me! HELP ME!! Do the loopy thing on me again, do anything you can think of, just as long as I don't have to feel this for a moment longer –</em>
+[????? in between my upsetness], the sound of footsteps broke through, pounding through the crackling leaves. I had never been so desperate to see another human face. Looking up, I barely made out who it was, the figure rushing towards me, pelted by my howling storm. "MORROW!!!" I tried to scream. But even his name was lost in the roar of pain. I looked up at him desperately, hoping he could tell from my eyes what I was begging him to do. <em>Help me! HELP ME!! Do the loopy thing on me again, do anything you can think of, just as long as I don't have to feel this for a moment longer –</em>
 
 "Gotcha covered!" panted Morrow. He closed his eyes, covered his head, and ran the last few steps towards me. Then he grabbed onto my head with his hands. "Hold on tight, this is gonna get interesting!"
 
@@ -205,7 +202,7 @@ The words hung in the air between us.
 
 "He would. He did. I'm so sorry."
 
-"Uh…" I still wasn't sure what to say. [????? I WOULD normally have been somewhat mad at Morrow, but Yali was acting like it was way bigger]
+"Uh…" I still wasn't sure what to say. I mean, I normally would've been pretty pissed off at Morrow, like, <em>dude, what the fuck?</em> But the way Yali was talking about it, it was like it was deeply serious. I couldn't help being nervous – if <em>Yali</em> was taking something seriously, there had to be something much bigger that I wasn't thinking of!
 
 ?????
 

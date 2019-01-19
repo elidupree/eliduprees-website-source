@@ -193,7 +193,7 @@ Alchemist leaned in to take a closer look. "Is that, the one that, broke?"
 
 "Maybe, if, you…?"
 
-"If I what, manifested it back together?" I held the phone at arm's length, as if I was trying to find an angle to fix it from. "I wish. But Yali said we probably can't manifest on our phones because we don't know how they work – wait, no, she said we couldn't <em>recharge</em> them because we don't really know how to put them <em>completely</em> back to how they were before – wait, that's it!" I focused my mind at the phone, willing it to change back to how it had been right before it broke. Right away, the cracks disappeared and the screen lit up.
+"If I what, manifested it back together?" I held the phone at arm's length, as if I was trying to find an angle to fix it from. "I wish. But Yali said we probably can't manifest on our phones because we don't know how they work – wait, no, she said we couldn't <em>recharge</em> them because we don't really know how to put them <em>completely</em> back to how they were before – wait, that's it!" I wished I had Yali here to tell me whether it would actually work. But it wasn't like my phone could get <em>more</em> broken. I focused my mind at the phone, willing it to change back to how it had been right before it broke. Right away, the cracks disappeared and the screen lit up.
 
 I threw my arms around Alchemist and hugged them tight. "That's amazing! You're amazing, Alchemist!"
 
