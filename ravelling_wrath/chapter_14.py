@@ -339,7 +339,9 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 "I don't believe anything right now."
 
-?????
+"I understand. But remember it. In case you need it later."
+
+"Okay."
 
 I faced the portal.
 
