@@ -281,7 +281,7 @@ She told me she <em>understood</em> that I wasn't happy with the ?????s. She tol
 
 <em>That</em> is when she betrayed me. To keep her grand plan to serve the Waiting God, she could not admit to her mistake, even to save me from years of abuse. I will never forgive her for that. And I will never forgive the Waiting God for accepting her service after that. The Waiting God knows all, but it did nothing to protect me. My suffering was insignificant to it. No matter what it wants or why, no matter how much [????? I seem to follow in its footsteps], I refuse to let it puppeteer my life any longer.
 
-[????? But that is something I can only say from my comfortable position in the future. Back in the past, I had many years of life left to suffer through. They sent me to a private school described in some way.] In those days, I had only one friend, and I treated her very badly. When she left me, it was the worst day of my life.
+[????? But that is something I can only say from my comfortable position in the future. Back in the past, I had many years of life left to suffer through. They sent me to a private school described in some way.] In those days, I had only one friend, and I treated her very badly. When she left me, it was the worst day of my life. [????? Bit more details and her name]
 
 ?????
 
@@ -302,6 +302,20 @@ I didn't know whether I could trust the police. And I didn't know how far the ??
 He called me "a perfect witness" and "my little psychopath". He said I would make a good lawyer one day, and I am not sure whether it was a compliment.
 
 ?????
+
+[????? They both pled guilty.]
+
+For years, I had kept myself going with the thought that if only I could prove what had happened, she would take me back. ????? I was given into the custody of the Stern. For the next ????? years, I was raised and educated in a Stern monastery.
+
+In a way, it was [????? a relief]. My life had been uprooted in every way, but the Stern gave me stability. The monks kept the same routine every day, ?????. It was a predictability that I had never had before. It gave me a chance to rest and relax, for the first time in my life.
+
+Szaieto, the monk responsible for my upbringing, liked routines as much as I did. We had all our little ?????
+
+But I was never happy there. For years, I had dedicated my life to a single purpose – escape. But once I had succeeded, I had no idea what to do with my life. I was deeply depressed during my years at the monastery, even if I did not show it on the outside. The monks had answers to a lot of questions, but, but, not that one. There was one other orphan near my age there, but I didn't have anything in common with him.
+
+So, last year, I asked for permission to live independently, and to attend a regular high school. I don't think it was a normal thing to ask for in my situation. But Szaieto and the other monks had been very impressed by how organized and independent I was. They were sad to see me go, but they arranged for me to live in one of the houses the Stern Temple normally reserves for retirees. It's technically rented from the Stern Temple, but it's paid for out of the trust they set up after my parents – after the ?????s were convicted. So… that's why I live there now. The arrangement is, I have a stipend that lets me take care of my basic needs, and the monastery sends someone to visit me once a week to make sure I'm getting along okay.
+
+I guess there's not much more to tell. [????? Some stuff about the school?] [????? Here or above: now I have a mission again so I'm not currently depressed]
 
 <bigbreak>
 
