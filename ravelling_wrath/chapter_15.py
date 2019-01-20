@@ -176,9 +176,9 @@ I had always assumed that if I ever saw Yali cry, it would be dignified, like in
 
 A sense of dread was growing inside me. Not thinking of anything else to do, I turned to Alchemist. "Alchemist, what happened? Is she –"
 
-Alchemist's face looked like [????? nothing I'd seen before]. They ?????. I could see fear and anger wrestling inside them.
+Alchemist's face looked like nothing I'd seen before. Their lips were twisted into a grimace, tensing and flickering between anger and worry. A great battle was raging inside them, between their newfound anger wanting to be let out, and their old fear holding it back.
 
-In the end, anger won.
+In the end, the anger won.
 
 "<em>What happened</em>," Alchemist exploded, "is that <em>your girlfriend</em> beat Morrow half to death!"
 
@@ -218,7 +218,7 @@ The words hung in the air between us.
 
 Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone cliff against the ocean waves. "Expressing Game," she said.
 
-How could she stand in my way when Morrow had done such a thing?!! My fists clenched tighter. My blades grew further, pressing against their limits. But another part of me knew that if Yali was saying that, it was serious business. And it was only the Expressing Game. [????? Reluctantly], I tried to force my rage into words. My voice felt alien. "How DARE he! Alchemist – Alchemist TRUSTED him! What kind of a MONSTER – he's a MONSTER – I'll –"
+How could she stand in my way when Morrow had done such a thing?!! My fists clenched tighter. My blades grew further, pressing against their limits. But another part of me knew that if Yali was saying that, it was serious business. And it was only the Expressing Game. Fighting against a terrible resistance, I tried to force my rage into words. My voice felt alien. "How DARE he! Alchemist – Alchemist TRUSTED him! What kind of a MONSTER – he's a MONSTER – I'll –"
 
 "Morrow <em>isn't here</em>," said Yali severely. "You're looking at Alchemist. How do you think you're making Alchemist feel?"
 
