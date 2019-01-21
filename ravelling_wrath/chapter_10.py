@@ -214,6 +214,11 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 
 "You have no idea how much I have had to sacrifice to get away from that life! [????? Big story about her parents action]"
 
+[?????
+
+"That's horrible," I breathed.
+
+"It was exactly what I needed.
 
 ?????
 

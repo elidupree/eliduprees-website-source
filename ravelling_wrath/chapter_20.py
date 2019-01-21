@@ -138,13 +138,21 @@ She turned her head halfway towards me. "Can you honestly tell me that she'd sti
 
 Yali stared at me blankly.
 
-"
+"Oh my gods, if you're gonna say you <em>would</em> be happier if Morrow was dead than –"
 
-?????
+"It's not… that."
 
-"I shouldn't be dumping this on you… You were there too, ?????"
+"Then what is –"
 
-"Yeah, but I don't feel guilty about it," I said. It felt a little weird being so casual about it. "I mean, if I killed someone <em>now</em>, I'd probably be pretty broken up about it. But when I remember it, it's like it's the Blood God's memory more than mine. It doesn't feel like killing somebody, it feels like, I guess… righteously destroying a…"
+Yali waved her hand for me to be quiet.
+
+"Okay, at least [????? let's get you somewhere more comfortable?]"
+
+Yali allowed me to give her a hand up. I was probably completely useless – she was way heavier than I could lift. But she stood up and let me lead her to the couch. Once we'd both sat down, I put my arms around her shoulders and tried to pull her to lean into me, but she just leaned straight back and stared past me into space.
+
+She exhaled, long and shakily. "I shouldn't be dumping this on you… You were there too, you, you…"
+
+"Yeah, but I don't feel guilty about it," I said. It felt a little weird being so casual about it. "I mean, if I killed someone <em>now</em>, I'd probably be pretty freaked out about it. But when I remember it, it's like it's the Blood God's memory more than mine. It doesn't feel like killing somebody, it feels like, I guess… righteously destroying a…"
 
 "Good! Don't think about it too much. Leave the memory how it is."
 
@@ -152,14 +160,43 @@ Yali stared at me blankly.
 
 "Why not? We can't change what happened. I just don't want you to feel bad about what you had to do."
 
-I gaped at her. "
+I gaped at her.
+
+"What? I really don't."
+
+"Are you kidding me!! That's what you say to <em>me</em>, but for <em>yourself</em>, you're all 'it's all my fault' and –"
+
+"I…" Yali took another breath. "I suppose I <em>should</em> learn to take my own advice. I deserve to be happy."
+
+"FUCK YES you do!! You literally fought the gods themselves to keep me safe! You fought an invincible swordswoman with your bare hands –"
+
+"That's enough," she said, smiling slightly.
+
+"– You did SO much for us! I don't know how I would have made it if it wasn't for you! And not just me, even Alchemist –"
+
+"I said, <em>that's enough!</em>" she snarled bitterly.
+
+"What –"
+
+Yali's face scrunched up again, sobbing uncontrollably. [????? She was like that for a while. Eventually she said upsetly,] "How do you know what to say, when, when, when you feel bad? You always have something to say… How do you do it…?"
+
+"I dunno, I just say what comes naturally?"
+
+"Like… what?"
+
+"I don't know, I guess if I was upset I'd be like 'I can't stand this, this is all too much'…"
+
+"<em>This is all too much,</em>" whispered Yali. "It's too much. It's too much. It's too much. It's too much. It's too much. It's too much. It's too much. It's too much." She breathed again. "Thank you."
+
+<bigbreak>
+
 
 
 [????? Where in this chapter?:]
 
 [????? Rinn implies something like "we changed the world because of the power of love"]
 
-"I meant I said to Alchemist. I wasn't just trying to scare them. ????? We succeeded because of our love, yes. But also because we had a plan for how to [????? turn that love into a good result]
+"I meant what I said to Alchemist. I wasn't just trying to scare them. ????? We succeeded because of our love, yes. But also because we had a plan for how to [????? turn that love into a good result]
 
  ''',
 },
