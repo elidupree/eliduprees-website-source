@@ -100,11 +100,27 @@ I held up the fork and we both stared at it.
 
 "No, I don't, I'm, like, <em>completely</em> bamboozled."
 
-"It means that when the Blood God rejuvenated, when it took some of your threads – it <em>left to the threads for summoning Blood Blades with you.</em>"
+"It means that when the Blood God rejuvenated, when it took some of your threads – it <em>left the threads for summoning Blood Blades with you.</em> It thinks it doesn't need them anymore!"
 
-"That's… wow." ?????
+"That's… wow." I said. "But, like, what if it <em>does</em> need them? I mean, we won <em>this</em> year, but…"
 
+"Let's, let's, let's talk about that <em>after</em> you've eaten."
 
+"Works for me." I made another fork and ripped into my food. ?????
+
+<bigbreak>
+
+After my stomach settled a bit, we finally got to talking about the Ravelling. Yali carefully explained how she'd tricked me. How I'd been unconscious all the way from the fight to the final portal. How <em>both</em> the Blood God and the Waiting God had rejuvenated. How she had worked to influence the Waiting God to change its mind. I listened and asked a few questions, but it all felt like something that had happened a long time ago, maybe in a previous lifetime.
+
+"You're not… not bothered by this?" she said carefully. "By how I, I, deceived you?"
+
+I shrugged. "I mean, it was pretty smart. We don't know what the Blood God would've done."
+
+"I thought you, you, you, sort of became one with the Blood God."
+
+"I…" I reached out for the part of me that was the Blood God. Nothing happened. "I guess it's gone now. That kinda sucks, I was really starting to enjoy it. But, I mean, it <em>did</em> try to kill you for ages, so… <em>Huh</em>. When I said that, I was, like, subconsciously expecting that it was going to, like, be frustrated in my head. But it really <em>is</em> gone, isn't it?"
+
+"Yeah," said Yali somberly. "Mine's gone, too."
 
 
 
@@ -112,7 +128,7 @@ I held up the fork and we both stared at it.
 
 "I'm very grateful that you didn't, didn't let me… In the Broken God's world, when I was…"
 
-I was confused for a moment, then realized that she must be referring to when she had sort of come on to me sexually. "Of course!" I said, embarrassed. "I mean, there was obviously something wrong! If I'd have fucked you in a situation like that, that would make me an asshole!" I didn't mention how close I had felt to just… letting things happen.
+I was confused for a moment, then realized that she must be referring to when she had sort of come on to me sexually. "Of course!" I said, embarrassed. "I mean, there was obviously something wrong! If I'd have had sex with you in a situation like that, that would make me an asshole!" I didn't mention how close I had felt to just… letting things happen.
 
 "Now, when we eventually do have sex, it can be something beautiful, instead of, instead of, desperate."
 
@@ -146,7 +162,7 @@ Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
 
 "And more importantly, how do you even become a – <em>there isn't even a Blood Temple!!"
 
-"That's just the thing, though, isn't it? The Blood God has rejuvenated. And now some of us here in the material world will need to recreate the Blood Temple. And, I'm not asking you to decide on anything right now, but you… you're the one who knows the Blood God inside and out. The only person alive
+"That's just the thing, though, isn't it? The Blood God has rejuvenated. And now some of us here in the material world will need to recreate the Blood Temple. And, I'm not asking you to decide on anything right now, but you… you're the one who knows the Blood God inside and out. The only person alive who does."
 
 ?????
 
@@ -162,11 +178,13 @@ I knelt down next to her and reached out to her. I picked up her hands in mine a
 
 "I'm here," I said. "Let's [????? get you somewhere more comfortable?]
 
-[????? Yali is still unresponsive for a while, Rinn stays there to be supportive. Finally Yali chokes out:]
+She didn't answer. Not sure what to do, I just stayed with her and kept holding her hands. Time passed. I couldn't tell if I was helping. But I loved holding her big soft hands, I could keep sitting here forever. But knowing she was feeling like this was breaking my heart.
+
+Finally, she shifted a little. With a hoarse voice, she choked out a few words.
 
 "She's dead because of me."
 
-"Who in the – wait, you can't mean <em>Justicar??</em> Screw her!"
+I tensed up. "Who in the – wait, you can't mean <em>Justicar??</em> Screw her!"
 
 My words didn't seem to get through. Yali kept muttering into the wall. "If only I just hadn't made you stab me… If only I just hadn't told her…"
 
@@ -178,7 +196,7 @@ My words didn't seem to get through. Yali kept muttering into the wall. "If only
 
 She turned her head halfway towards me. "Can you honestly tell me that she'd still be dead right now if I hadn't told her what happened?"
 
-"You can't think like that! ?????!"
+"You can't think like that! It's not your fault, you didn't do anything wrong!!"
 
 "I'm not… disagreeing with you." Yali took a ragged breath. "But… think about it… can you honestly tell me she'd still be dead right now if I hadn't told her what happened?"
 
@@ -202,13 +220,13 @@ Yali waved her hand for me to be quiet.
 
 Yali allowed me to give her a hand up. I was probably completely useless – she was way heavier than I could lift. But she stood up and let me lead her to the couch. Once we'd both sat down, I put my arms around her shoulders and tried to pull her to lean into me, but she just leaned straight back and stared past me into space.
 
-She exhaled, long and shakily. "I shouldn't be dumping this on you… You were there too, you, you…"
+She exhaled, long and shakily. "I shouldn't be dumping this on you… You were there too, you, you, did it just as much as I did…"
 
 "Yeah, but I don't feel guilty about it," I said. It felt a little weird being so casual about it. "I mean, if I killed someone <em>now</em>, I'd probably be pretty freaked out about it. But when I remember it, it's like it's the Blood God's memory more than mine. It doesn't feel like killing somebody, it feels like, I guess… righteously destroying a…"
 
 "Good! Don't think about it too much. Leave the memory how it is."
 
-?????. "That's <em>super</em> not what I expected you to say."
+I blinked. "That's <em>super</em> not what I expected you to say."
 
 "Why not? We can't change what happened. I just don't want you to feel bad about what you had to do."
 
