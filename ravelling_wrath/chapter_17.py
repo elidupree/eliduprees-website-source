@@ -37,28 +37,35 @@ I was about to say something, but Yali's hand squeezed my shoulder. I clamped my
 
 "So, if, maybe, the unravelling goes into a potion? And the potion goes into Morrow?"
 
+We were all silent for a while, digesting that question.
+
 "Is that <em>possible?</em>" I said. "I thought the Ravelling was, like, a special rule that even the gods have to follow! Like, the Blood God wouldn't even need to kill anyone if it could just 'unravel' the Farseer – one god shouldn't be able to remove a <em>different</em> god's threads –"
 
-"If any god can do it, it's the Broken God," said Yali. "<em>When all plans fail and all ?????, the Broken God sees a way forward,</em>" she intoned.
+"If any god can do it, it's the Broken God," said Yali. "<em>When all plans fail and all hope seems lost, the Broken God finds a way forward,</em>" she intoned.
 
 "Is that a Broken saying?" I asked.
 
 "Actually, it's a Waiting saying."
 
-"Oh duh, it refers to plans, haha."
+"Oh duh, it refers to plans, haha. Wait, never mind that! You really think it's possible? This changes everything! If there was a potion like that, <em>I</em> could drink it and then the Blood God wouldn't – no, wait, <em>you</em> could drink it and then we'd have won without –"
 
-?????
+"Rinn. Shhhh. We'll have time to discuss that later. You're forgetting Alchemist."
 
-"And in order to bring it to him…" began Yali exhaustedly.
+I looked back at Alchemist, who was still watching us nervously. "Shit, sorry. This is about Morrow, we've gotta think about Morrow first. So… what's the plan? Alchemist makes this… unravelling potion, and then…"
 
-"I have my soulfire now! No one can stop me!" I was excited, but Yali didn't even crack a smile. "Yali, are you okay…?"
+Alchemist drooped. "Oh… I didn't think…"
+
+Yali said exhaustedly, "We <em>do</em> now have a way to safely bring it to him…"
+
+"Oh yeah! I have my soulfire now! No one can stop me!" I was excited, but Yali didn't even crack a smile. "Yali, are you okay…?"
 
 She clearly wasn't happy. "I hate that you're going to help him right after he abused you. I actually hate it," she said neutrally. "But at least this will stop him from putting us in danger. I can live with that."
 
+<bigbreak>
 
-?????
+Making the potion wasn't as simple as I had assumed.
 
-"But… it needs…" Alchemist manifested a flask of water in their hand. "This… isn't, enough, it, needs…"
+"I, maybe, know how to make the potion. But… it needs…" Alchemist manifested a flask of water in their hand. "This… isn't, enough, it, needs…"
 
 "A stronger medium," finished Yali. "Materials that are capable of holding such a powerful sorcery."
 
@@ -68,13 +75,15 @@ She clearly wasn't happy. "I hate that you're going to help him right after he a
 
 "I, maybe, yes? I would, like that?"
 
-The next bit of conversation was… certainly <em>interesting</em>. Alchemist kept saying something vague or even just waving aimlessly, and every time, Yali filled in a clear, detailed description. [????? Details of the potion making needs]
+The next bit of conversation was… certainly <em>interesting</em>. Alchemist kept saying something vague or even just waving their hand aimlessly, and every time, Yali filled in a clear, detailed description.
+
+Up until now, Alchemist had mostly just manifested their potions directly. But if a potion was too powerful, manifested matter wouldn't be able to hold it. The same power that let the potion <em>do</em> what it was supposed to <em>do</em>, could also destabilize the matter that contained it. And this <em>particular</em> potion was even worse. It was designed to take apart a person's soul, so it would [????? Details of the potion making needs]
 
 ?????
 
 "Do, you, know, what we're looking for?"
 
-"I don't. But you'll recognize it when we get to it. So let's go in, in, any direction, and just stop sometimes so that I can look in each direction and tell you whether we find anything that way in the future. Then we'll know which way to go."
+"I don't. But you'll recognize it when we get to it. So let's go, in, in, any direction, and just stop sometimes so that I can look in each direction and tell you whether we find anything that way in the future. Then we'll know which way to go."
 
 <bigbreak>
 
@@ -102,6 +111,10 @@ Flavor exploded in my mouth, stabbing wildly down along my jaw and up behind my 
 "Don't eat too many of those, they're poisonous," said Yali casually, not bothering to look back at me.
 
 "Whaaaaat?!"
+
+Yali chuckled. "As long as you only eat a few, your natural manifesting will keep you from getting sick."
+
+"Oooookay," I said, dropping the ones I was holding.
 
 ?????
 
@@ -272,7 +285,7 @@ Something <em>instantly</em> seemed off about him. His reaction was way slower t
 
 "But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even marked Justicar as "not my real enemy". <em>Justicar!</em>
 
-Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last 70 years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose." ????? "Besides… your soulfire is one of the only powers that can pierce Justicar's armor."
+Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last 70 years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose." ????? "Besides… even if we did want to, we still shouldn't do it <em>yet</em>. Your soulfire is one of the only powers that can pierce Justicar's armor."
 
 "I'll have to kill her…" I said. I swallowed. "?????!"
 
@@ -284,7 +297,7 @@ Yali spoke gravely. "The Blood God is a god of anger, and it has been starving f
 
 "– like that's gonna happen –"
 
-"– or tricked, or forced into taking it. And it doesn't have to be <em>you</em> who bears the burden. Alchemi–"
+"– and it doesn't have to be <em>you</em> who bears the burden. Alchemi–"
 
 "No FUCKING way!!! We are NOT making ALCHEMIST fight our –"
 

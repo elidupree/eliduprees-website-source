@@ -248,13 +248,15 @@ I gaped at her.
 
 "What –"
 
-Yali's face scrunched up again, sobbing uncontrollably. [????? She was like that for a while. Eventually she said upsetly,] "How do you know what to say, when, when, when you feel bad? You always have something to say… How do you do it…?"
+Yali's face scrunched up again, sobbing uncontrollably. Shit! Had I fucked up again?? I squeezed my arms around her shoulders, but she didn't react at all. I felt like I had been locked out. I just hung onto her while she shook, overcome with wave after wave of new tears. When ?????, ?????. When she began sniffling, I offered my sleeve for her to blow her nose in.
 
-"I dunno, I just say what comes naturally?"
+Finally, looking down, she blubbered, "How do you know what to say, when, when, when you feel bad? You always have something to say… How do you do it…?"
 
-"Like… what?"
+I wanted to help, but I wasn't sure how. "I mean, I don't know, I just say what comes naturally?"
 
-"I don't know, I guess if I was upset I'd be like 'I can't stand this, this is all too much'…"
+"Like… what? Just, what's something you might say if you were, if you were…"
+
+"I dunno, I guess if I was upset I'd be like 'I can't stand this, this is all too much'…"
 
 "<em>This is all too much,</em>" whispered Yali. "It's too much. It's too much. It's too much. It's too much. It's too much. It's too much. It's too much. It's too much." She breathed again. "Thank you."
 
