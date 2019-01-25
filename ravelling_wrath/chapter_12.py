@@ -149,7 +149,7 @@ I began trudging down the Alchemist's Path. Every time I came to more statues, I
 
 Another eternity passed. The routine of the Alchemist's Path became so ingrained I barely noticed what I was doing. So I was more than halfway across the next intersection before I realized I wasn't just in the regular corridor anymore.
 
-I checked the map at the intersection. If I wanted to meet up with the Farseer, I should start <em>ahead</em> of the Farseer on the Farseer's Path, then head back along at all until I met them. From here, the quickest way to part of the Farseer's Path was along the Imminent's Path from the intersection where I was standing.
+I checked the map at the intersection. If I wanted to meet up with the Farseer, I should start <em>ahead</em> of the Farseer on the Farseer's Path, then head back along it until I met them. From here, the quickest way to part of the Farseer's Path was along the Imminent's Path from the intersection where I was standing.
 
 I didn't see any statues on the Imminent's Path. It was just one long, blank, white marble corridor. So I started walking down it without thinking twice. The moment I stepped on it, I heard a tapping sound behind me. I looked around, but I didn't see anything there. So I kept walking. A few more steps along the path, I felt something brush the back of my neck. I whirled around, but again, there wasn't anything there.
 
@@ -165,21 +165,53 @@ The easiest way to handle the Imminent's Path was just to let my senses go dull.
 
 ?????
 
-[????? After an eternity of trudging], the statues parted to reveal the intersection with the Farseer's Path. Oddly, she was standing right there, as if she was waiting for me. And there was… another person there. The Alchemist.
+It was the Farseer's Path.
 
-Something wasn't quite how I expected. Normally, when I saw her, I would run and hug her, right? I was supposed to love her? But that wasn't happening. She was just… A person. Over there. I didn't feel anything.
+I look to the left. I looked to the right. If the Farseer hadn't gotten this far yet, I could just go backwards along her path until I found her. If she <em>had</em> gotten this far… what would I do then? I couldn't think of anything. I was just screwed. Well, it wasn't worth worrying about. I was probably screwed already.
+
+Either way, going backwards along the path was the only way that made sense. I dragged my feet in that direction.
+
+Like the Imminent's Path, it just looked like a blank hallway. There was obviously going to be a trick to it. I just had to try it to see what the track was. I stepped into the hallway, taking the first few steps on instinct. Then I paused.
+
+As soon as I stopped moving, I was sucked back to the beginning of the hallway.
+
+Maybe it was stopping me from pausing to think. That would make sense for the Farseer. I tried again, walking in a straight line without stopping. That didn't work either. I felt like I had gone in the wrong direction. I tried a few different angles, but I always ended up getting pushed back and feeling the same way.
+
+Finally, I gave up and just walked down the hallway at random.
+
+Somehow, after a few minutes of walking that way, I noticed that I hadn't been sent back. I was walking in a weird pattern, stepping left and right at random as I moved forward. I was just doing what I felt like, but it wasn't what I would normally feel like. Was the Stern God somehow guiding my footsteps? I thought back a little, wondering what the pattern was and where it would go next –
+
+I was back at the beginning again.
+
+"I didn't even stop…" I complained dully. But I was used to it by now. I just had to do what the Stern God wanted. I just had to <em>not</em> do… whatever it is I had just done that messed it up. I had…
+
+I had thought about it.
+
+The Farseer's Path didn't allow you to <em>think about what came next</em>. You had to go on instinct and nothing else.
+
+That was fine. I didn't want to think anyway. My thoughts were just making everything feel worse. So I tuned them out. I just trudged along, my mind turned to fuzz, a gray blur that didn't mean anything. All I had were the clacking of my uniform shoes on the ground, tapping out someone else's idea of where I should go.
+
+<bigbreak>
+
+In the corner of my eye, something was different. I painstakingly lifted my head.
+
+How long had I been trudging? I had no way to guess. I was at another intersection now. Another…
+
+Someone was there. She was standing right there. It didn't feel real. But she was right there, as if she was waiting for me. And there was… another person there. The Alchemist.
+
+Something didn't seem quite right. Something about how… when I saw her, I would run and hug her? I was supposed to love her? But that wasn't actually happening. She was just… A person. Over there. Was I supposed to feel something?
 
 Disinterestedly, I started walking toward them. This <em>was</em> what I was supposed to do, right?
 
 "Are you ready?" the Farseer asked the Alchemist tensely. "You remember what's about to happen?"
 
-"I'm as ready as I'm going to be," said the Alchemist. They were gripping a potion tightly in their shaking hands. My eyes glanced over their face, idly noting their look of total terror.
+"I'm as ready as I'm going to be," said the Alchemist. They were gripping a potion tightly in their shaking hands. My eyes glanced over their face, idly noticing their look of total terror.
 
-What were the two of them talking about? What was about to happen? Well, it didn't matter. I thought of opening my mouth to greet them, but it seemed like too much work. Dutifully, I walked up to where they were standing. I stared at the Farseer. The Farseer stared back.
+What were the two of them talking about? What was about to happen? Well, it didn't matter. I thought of opening my mouth to greet them, but it was too much work. Dutifully, I walked up to where they were standing. I stared at the Farseer. The Farseer stared back.
 
 "Rinn, can you hear me?" she said.
 
-I was probably supposed to answer that. But I felt like there was something else I was supposed to do, too, that was kind of more important, I just couldn't remember. What was it…?
+I was probably supposed to answer that. But there was something else I was supposed to do, too, that was kind of more important, I just couldn't remember. What was it…?
 
 Oh, right, of course.
 

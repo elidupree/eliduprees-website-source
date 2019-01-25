@@ -350,6 +350,16 @@ Morrow was breathing hard, looking at Justicar with an anguished expression on h
 
 ?????
 
+[????? Rinn wins something against Morrow and makes a crown out blood blades to celebrate her victory]
+
+"The Blood Blades are not a <em>toy</em>," said Justicar severely.
+
+"Oh yeah? They're MY blades, and <em>I</em> say they <em>are</em> a toy! Check it out, now they're a –" I let one melt and flow in my hand, reshaping into – what was a toy that was vaguely blade-shaped? "Uh, now they're ski poles!" I also manifested more Blood Blades out of my feet, in the shape of skis, and pretended to ski around on the platform. Right away, my legs slipped out from under me and I fell on my face.
+
+
+
+?????
+
 When we came back around the star, Alchemist was talking with Yali, quietly but confidently. But as soon as Alchemist saw the rest of us, their eyes locked on to us and they went silent again.
 
 "Don't think about them," Yali told Alchemist gently. "Just keep doing what you've been doing."
