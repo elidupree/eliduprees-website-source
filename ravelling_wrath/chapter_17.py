@@ -77,11 +77,13 @@ Making the potion wasn't as simple as I had assumed.
 
 The next bit of conversation was… certainly <em>interesting</em>. Alchemist kept saying something vague or even just waving their hand aimlessly, and every time, Yali filled in a clear, detailed description.
 
-Up until now, Alchemist had mostly just manifested their potions directly. But if a potion was too powerful, manifested matter wouldn't be able to hold it. The same power that let the potion <em>do</em> what it was supposed to <em>do</em>, could also destabilize the matter that contained it. And this <em>particular</em> potion was even worse. It was designed to take apart a person's soul, so it would [????? Details of the potion making needs]
+Up until now, Alchemist had mostly just manifested their potions directly. But if a potion was too powerful, manifested matter wouldn't be able to hold it. The same power that let the potion <em>do</em> what it was supposed to <em>do</em>, could also destabilize the matter that contained it. And this <em>particular</em> potion was even worse. It was specifically designed to mess with a person's soul. So, even when it was still in a bottle, it would constantly be trying to mess with any soul that touched it. And manifested matter wasn't technically part of your soul, but it was still <em>connected</em> to your soul – that's why you could unmanifest it. So we definitely needed to make the potion out of matter that came from the world, not from us.
 
-?????
+"So, do we have to go find some clean water?" I said. "I was at a stream a while back –"
 
-"Do, you, know, what we're looking for?"
+Yali stood up. "Not <em>just</em> water. Not for this. We'll have to go and search for ingredients."
+
+Alchemist hesitantly followed her. "Do you, know, what, we're looking for?"
 
 "I don't. But you'll recognize it when we get to it. So let's go, in, in, any direction, and just stop sometimes so that I can look in each direction and tell you whether we find anything that way in the future. Then we'll know which way to go."
 
@@ -92,13 +94,31 @@ Up until now, Alchemist had mostly just manifested their potions directly. But i
 
 ?????
 
-Alchemist took us to a tiny brook and gathered clay from the ?????.
+Alchemist led us to a tiny brook and knelt down next to it. They lowered their hands into the water, kneading the thick clay from the streambed and drawing up handfuls of it into a little sack.
 
 "Solid… But it needs…"
 
 "The clay will stabilize the potion. Without the clay, the energy from the sorcery might be released prematurely or damage other parts of the medium. But the clay isn't receptive to magic by itself. With <em>only</em> the clay, the sorcery wouldn't stay in potion form, it would float away into the air."
 
 "Okay, that's nice, but," I said, "Morrow's going to have to drink a bottle of clay??"
+
+"Maybe, if…"
+
+Yali looked into the future. "It can be diluted. Not with water, but with, with, oil."
+
+"How are we gonna get oil?"
+
+"Let me look something up." Yali pulled out her phone.
+
+Suddenly we had to do a lot of research. Yali opened the local encyclopedia on her phone and started looking up ways you could extract oil from plants. To give the rest of us something to do, she also manifested two copies of her phone so both of us could look in the encyclopedia, too.
+
+"Remember, I can see if you look at anything private," she said as put one of the copies into my hand.
+
+"Oh gods, did I do that in the future?"
+
+Yali chuckled. "Don't worry about it."
+
+Not that I was much use. I looked up a bunch of plants, but I didn't find anything about extracting oil. Then I found an article about a giant, enchanted plant that ate people. That kept me distracted for a while.
 
 
 
@@ -174,15 +194,15 @@ In moments, Yali had pinned me with my back to a tree. She leaned in and kissed 
 
 We came to a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Yali stopped walking and squinted. "Do you feel it, too?" she said.
 
-I ?????. "Yeah. I do."
+I stopped alongside her. When I paid attention, I could feel something sloshing at the edges of my mind. "Yeah. I do."
 
 "We're getting close. This is where we stay behind, and you go on alone."
 
-?????
+"Right…"
 
 "You've got this."
 
-"That's pretty reassuring, coming from someone who can literally see the future."
+I laughed. "That's pretty reassuring, coming from someone who can literally see the future."
 
 "Don't get careless."
 

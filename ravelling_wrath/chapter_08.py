@@ -376,6 +376,10 @@ Alchemist nodded, and they looked back at the workspace in front of them. There 
 
 ?????
 
+[????? Somewhere in this chapter: Yali having a local copy of an encyclopedia]
+
+?????
+
 "What's y'all ship name??"
 
 "Woah, I can't believe we haven't got a ship name yet! We need one of those!"
