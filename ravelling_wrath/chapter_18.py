@@ -52,6 +52,10 @@ We moved.
 
 ?????
 
+[????? Perhaps in response to Yali saying the world is overwhelming, Rinn feeling like she's the equal of every huge building, like she could take them down in one punch; examining the muscles of the city, "I punched it affectionately"]
+
+?????
+
 
 "Justicar is going to do something that interferes with my Seeing. It's like a white light that I can't see past.
 
