@@ -186,6 +186,8 @@ A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be c
 
 ????? [????? summary of other riddles; Morrow always answering them first, and Rinn getting increasingly irritated and impatient to find Yali]
 
+[????? Throughout this chapter: include Morrow's food stuff]
+
 The next room was just an empty room, at first. I crossed it and tried to open the door at the other side, but it was locked, of course. When I looked back, the door behind us also slammed closed. Typical. In the middle of the room, two waist-high pedestals rose from the floor.
 
 "Okay, fine," I said. I stepped up to one of the pedestals. When I stood near it, it lit up and hummed. Morrow tried poking at it, but it didn't react until he went and stood in front of the <em>other</em> pedestal. And then the real game began.
@@ -272,7 +274,7 @@ The clock was running at a normal pace. It had a simple, blocky hour hand, and t
 
 It was hard to imagine that we could have missed anything. The room was literally just a rectangle with neutral gray walls on all sides. To humor him, I checked the ceiling, and I even checked under my feet, but there was nothing special.
 
-Morrow searched furiously, beating and scratching at the walls to see if there was any weakness. [???? unable to manifest] He was clearly looking for something that wasn't there. Mentally, I took a step back. There was definitely <em>something</em> we were missing, but it wasn't a literal, physical thing in this room. It was something about the whole situation. The Seeking God <em>seemed</em> random, but it always had a purpose. Why would it stick us in a blank room like this?
+Morrow searched furiously, beating and scratching at the walls to see if there was any weakness. [???? unable to manifest] He was clearly looking for something that wasn't there. Mentally, I took a step back. There was definitely <em>something</em> we were missing, but it wasn't a literal, physical thing in this room. It was something about the whole situation. The Seeking God <em>seemed</em> random, but everything it had done so far had at least had an interesting challenge behind it. Why would it stick us in a blank room like this?
 
 "Oh, <em>I</em> get it now," I said, realization dawning. "The puzzle is <em>us</em>. The puzzle is how we're gonna handle being stuck in a room with each other for eight hours."
 
@@ -314,7 +316,7 @@ I <em>could</em> have just kept holding onto him for the next eight hours. That 
 
 "What game?!"
 
-"Uh…" I hadn't thought that far ahead. Normally I could just manifest any board game I could think of, but of course that didn't work now. Still holding onto Morrow with one hand, I stuck my other hand in my pocket to see if I was carrying anything we could use as game pieces. But the only thing I pulled out was my phone, of course. "Hey, do you have games on your phone that you could play?"
+"Uh…" I hadn't thought that far ahead. Normally I would have been able to manifest any board game I could think of, but of course that didn't work now. Still holding onto Morrow with one hand, I stuck my other hand in my pocket to see if I was carrying anything we could use to play a game with. But the only thing I pulled out was my phone, of course. "Hey, do you have games on your phone that you could play?"
 
 I carefully allowed Morrow to take out his phone. He swiped through it aggressively. "I've already played all these!!"
 
@@ -416,6 +418,30 @@ Morrow looked up at me with a little smirk. "This is the only room we've got!!" 
 
 ?????
 
+"So, uh," I said awkwardly, "can you try doing the loopy thing on me now?"
+
+"What is that?" said Justicar sharply.
+
+Shit, I hadn't thought about what <em>Justicar</em> would think of this. I quickly explained what we were planning to do, but I left out the part about exactly <em>what</em> thoughts I was trying to suppress.
+
+Justicar looked tense. "This is not wise," she said. "You should not let another person inside the boundaries of your mind. And you should not rely on someone else to manage thoughts you should learn to control on your own."
+
+I <em>could</em> have explained that I already had it pretty much under control, and I was just looking for an extra boost. But I didn't have to justify myself. "Whatever, I probably do, like, ten unwise things every day before breakfast. You gonna stop me?"
+
+Justicar's face tightened, and for a moment, I was a little worried that she <em>was</em> going to stop me. But then she backed down. "Very well. It is not my duty to protect you from the consequences of your own decisions. But <em>you</em> –" she turned to Morrow "– if the Blood Child allows you into her mind, I cannot stop you. But if you go the slightest fraction beyond what she willingly allows, I will not show mercy."
+
+"Whaddaya think I'm gonna do, steal her passwords while I'm in there?"
+
+"You have heard my warning," said Justicar coldly.
+
+<bigbreak>
+
+[????? Opening summary line about the loopy thing]
+
+
+
+?????
+
 "This room feels different than the others," said Justicar. "I believe we have reached the very center of the Maze."
 
 "What does that even mean?" I said. Something <em>did</em> feel special about it, though. We were on the edge of a wide platform in the middle of a vast, dark space, with walkways stretching out in every direction – not just horizontally, but diagonally up and down at every angle as well. The platform and walkways were all made out of a sort of glass mesh, translucent and full of tiny gaps. And in the middle of the platform we were on, there was a fountain. Not anything like the peaceful fountain in the first layer of the city, this one shot up a good twenty meters into the air and splashed down chaotically into a shallow pool around it, which was constantly overflowing and pouring water right through the little gaps in the platform, where it fell through space and splashed through the walkways under us.
@@ -454,7 +480,7 @@ I looked into my own. It was barely bigger than my own, but as soon as I looked 
 
 "Use your intention," said Justicar. "Try to look for a specific room. This one, for example."
 
-"Fine." I looked for the room we were standing in. I did what I'd gotten used to doing while manifesting, trying to use just my mind to force the orb to do what I wanted. In moments, every other diagram slid aside and I saw a small icon of the fountain, with the walkways zigzagging out in all directions around it. The map was even three-dimensional, I could look at it from a different angle if I tried. But the most interesting thing was the four symbols written right next to the fountain.
+"Fine." I looked for the room we were standing in. I did what I'd gotten used to doing while manifesting, trying to use just my mind to force the orb to do what I wanted. In moments, every other diagram slid aside and I saw a small icon of the fountain, with the walkways zigzagging out in all directions around it. The map was even three-dimensional – I could look at it from a different angle if I tried. But the most interesting thing was the four symbols written right next to the fountain.
 
 The Endless Maze symbol, where Morrow was standing.
 

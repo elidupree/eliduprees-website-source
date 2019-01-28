@@ -26,7 +26,7 @@ And then, when I was completely filled, when my body had received every swallow 
 
 Effortlessly, I stepped into the world.
 
-It was the city from my dreams, the city of steel and stone, with a blazing sun that pulsed like a heart. I basked in the warm sunlight, turning my chest to face the power of the wind, my eyes drinking up the vivid colors. The city's banners of red and gold and black, the sky of brilliant blue, the son a blazing orange like sunset and midday rolled into one. I raised my arms and unleashed a flare of soulfire around me, just because I could. At last, at last, this was a world I could feel my heart in.
+It was the city from my dreams, the city of steel and stone, with a blazing sun that pulsed like a heart. I basked in the warm sunlight, turning my chest to face the power of the wind, my eyes drinking up the vivid colors. The city's banners of red and gold and black, the sky of brilliant blue, the sun a blazing orange like sunset and midday rolled into one. I raised my arms and unleashed a flare of soulfire around me, just because I could. At last, at last, this was a world I could feel my heart in.
 
 And then <em>she</em> was there as well.
 
@@ -38,7 +38,23 @@ She was focused on the plan, and her focus on the plan was beautiful. I smiled a
 
 "Good enough." Her eyes drilled past me, looking into the future. "This is it," she said grimly. "Justicar will be here soon."
 
-"Already?" I said. But I wasn't really surprised. This was <em>my</em> world, the Blood God's world. There was no reason to wait around. It was time to get things over with.
+"Already?" I said. But I wasn't really surprised. This was <em>my</em> world, the Blood God's world. There was no reason to wait around. It was time to get things over with. "Let's go, then!"
+
+"Go? Go where?"
+
+I raised my arm towards the sun, where it hung over a distant part of the city. "Towards the center of the Blood God's power."
+
+Yali set her feet against the flagstones, solemnly facing towards the sun. She stared along the long uphill road, past the enormous arches and jagged towers, to the tiny, distant black dot that was the highest point of the city, standing high astride the city like a crown of steel. Standing directly beneath the sun, the crown was joined to the sky by a pillar of brilliant light.
+
+"That is also the location of the final portal," Yali said. "I understand."
+
+We moved.
+
+?????
+
+
+"Justicar is going to do something that interferes with my Seeing. It's like a white light that I can't see past.
+
 
 ?????
 
@@ -54,15 +70,15 @@ Yali drank [????? number] potions, one after another. The power of sorcery sizzl
 
 ?????
 
+
+
 ?????
 
 
 
 <em>Deception!!</em> cried out a tiny part of me. Was she trying to feed me the unravelling potion?! But that was impossible. If it was the unravelling potion, I would be able to feel its energy, [????? description matching the first description]. But <em>this</em> potion felt warm and wholesome. It smelled of sweetness and comfort, promising to waft my pain away and carry me home. How could I think this was deception? This was Yali. She was strength. She was safety. She was love.
 
-I raised my neck – the only part of me that I could still move – and let her press the potion to my lips. Its sweetness flooded into my mouth. Its warmth expanded in my chest. One by one, its effects reached each of the pains that were tearing apart my body, and wiped them gently away. And finally, it reached my head, and all of my thoughts began to fade, leaving me to drift away to a soft and comfortable darkness.
-
-''',
+I raised my neck – the only part of me that I could still move – and let her press the potion to my lips. Its sweetness flooded into my mouth. Its warmth expanded in my chest. One by one, its effects reached each of the pains that were tearing apart my body, and wiped them gently away. And finally, it reached my head, and all of my scrambling thoughts began to fade, leaving me to drift away to a soft and comfortable darkness. ''',
 },
 ]
 
