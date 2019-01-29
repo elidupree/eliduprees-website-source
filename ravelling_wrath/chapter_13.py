@@ -163,6 +163,8 @@ It didn't feel anything like when she'd touched my heart on that first day. It w
 
 [????? Rinn trying to do the paths the way she did before, through dissociation – the Rinn part of her recoils against that and they reach an awkward "compromise that no part of me was really okay with"]
 
+[????? The Stern God tries to be in her mind, but she bars it out]
+
 ?????
 
 How had this all gone so horribly wrong? I had only done what I felt like I was supposed to! Wasn't it RIGHT to destroy the Farseer? I'd thought it was the one thing I knew for sure! And I had finally tried to do it! I should have been happy. Why did I only feel all this guilt and fear?

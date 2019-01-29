@@ -57,7 +57,7 @@ We moved.
 ?????
 
 
-"Justicar is going to do something that interferes with my Seeing. It's like a white light that I can't see past.
+"When Justicar gets here, she does something that interferes with my Seeing. It's like a white light that I can't see past.
 
 
 ?????

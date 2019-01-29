@@ -356,6 +356,12 @@ Morrow was breathing hard, looking at Justicar with an anguished expression on h
 
 "Oh yeah? They're MY blades, and <em>I</em> say they <em>are</em> a toy! Check it out, now they're a –" I let one melt and flow in my hand, reshaping into – what was a toy that was vaguely blade-shaped? "Uh, now they're ski poles!" I also manifested more Blood Blades out of my feet, in the shape of skis, and pretended to ski around on the platform. Right away, my legs slipped out from under me and I fell on my face.
 
+Justicar's voice softened a little. "Have you never skied before?"
+
+"Oh, come on! There's nowhere to ski in the city anyway!"
+
+
+
 
 
 ?????
