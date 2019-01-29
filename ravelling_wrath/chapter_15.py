@@ -275,9 +275,11 @@ I slumped back down. "Well, that's a relief, but… why? The next layer is the B
 
 "What? How is this world uncomfortable? This world is great."
 
-Yali clutched her head in her hands. "Of course it would be comfortable for <em>you</em>. But I, I, constantly feel like it's trying to break down my defenses, like it's trying to make me forget everything I need to do. Even the Stern God's world was more comfortable for me."
+Yali clutched her head in her hands. "Of course it would be comfortable for <em>you</em>. But I, I, constantly feel like it's trying to break down my defenses, like it's trying to make me forget everything I need to do. Not even the Seeking God's world was this uncomfortable for me."
 
-"Are you kidding me!! The <em>Stern?!</em>"
+"Are you kidding me!! Not <em>even</em> the Seeking? So the <em>Stern</em> doesn't place at all?!"
+
+Yali ?????. "I don't expect you to understand this, but, but, the Stern God feels reassuring to me. It says to me, every part of myself that I've had to give up to get where I am, was a worthy sacrifice.."
 
 "Can we <em>not</em> argue about the Stern right now?"
 
@@ -295,9 +297,9 @@ Yali clutched her head in her hands. "Of course it would be comfortable for <em>
 
 Yali looked dismayed. "You're allowed to have, to have, complicated feelings, about it. But what he is doing is abuse. To you, to Alchemist…"
 
-"But it really <em>isn't</em> like him! He's always been –" I thought back to the second layer. He had always jumped to hurt <em>himself</em>, but he never tried to hurt anyone <em>else</em>, except maybe as a prank. And even then, if I got mad about it, he'd fold over right away – "Wait, that's it! Think about it! He was reading my mind, so he must have known that I was thinking about attacking him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, you know, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him to it! And he still managed to not hurt anyone for, like, two whole layers? Maybe three? We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
+"But it really <em>isn't</em> like him! He's always been –" I thought back to the second layer. He had always jumped to hurt <em>himself</em>, but he never tried to hurt anyone <em>else</em>, except maybe as a prank. And even then, if I got mad about it, he'd fold over right away – "Wait, that's it! Think about it! He was reading my mind, so he must have known that I was thinking about attacking him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, you know, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him through it! And he still managed to not hurt anyone for, like, two whole layers? Maybe three? We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
 
-Yali glared at me. But I could see some doubt breaking through to her. Her face almost softened for a moment. But then it tightened up again. She shouted back at me, "Even if I agree to that, how are we going to help him?! <em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– Alchemists have all kind of powers, but one way or another, they all have to do with matter! His powers work purely by magic, you can't do anything against them! And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
+Yali glared at me. But I could see some doubt breaking through to her. Her face almost softened for a moment. But then it tightened up again. She shouted back at me, "Even if I agree to that, how are we going to help him?! <em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– [????? uh maybe a different reason?: Alchemists have all kind of powers, but one way or another, they all have to do with matter! His powers work purely by magic, you can't do anything against them!] And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
 
 "What's soulfire?"
 
