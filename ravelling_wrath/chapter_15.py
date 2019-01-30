@@ -72,23 +72,25 @@ Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how 
 
 [????? After I was done lying around], I got up and started walking. It didn't really matter which <em>way</em> I walked – I had no idea where anyone was anyway, and Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
 
-Before long, I decided to put on at least <em>some</em> clothes. Pushing my way through the underbrush, I kept stubbing my toes on gnarly roots and tearing my skin on old thorns. So first, I manifested on some heavy jeans, tough and skintight, and sneakers just the perfect size for me, really to stomp through some old brush.
+Before long, I decided to put on at least <em>some</em> clothes. Pushing my way through the underbrush, I kept stubbing my toes on gnarly roots and tearing my skin on old thorns. So first, I manifested on some heavy jeans, tough and skintight, and boots just the perfect size for me, really to stomp through some old brush.
 
-?????
+Then I thought, if I was getting dressed up, I was gonna do this <em>right</em>. I manifested a full-length mirror, leaning against a tree.
 
 The face that looked back at me looked burdened down with exhaustion. Its hair was matted down, way too symmetric for my taste. Its eyes were weary, the muscles around them tight with suspicion. It was scraped and covered with flecks of dirt. Whose face was this? It was time to take Rinn back.
 
-The first thing I did was to get my hair straightened out. I tore at it with a comb until the comb got stuck, then gave up and just chopped half of it off without a second thought. I recolored the rest into a rainbow of red and gold and midnight black, like a living flame.
+The first thing I did was to get my hair straightened out. I tore at it with a comb until the comb got stuck, then gave up and just chopped half of it off without a second thought. I recolored the rest into a rainbow of red and gold and midnight black, like a living flame in the darkness.
+
+[????? Then clothing?]
 
 I left the scrape and the dirt stains right where they were. I grinned and threw my head back. This was more like it.
 
 I climbed to the nearest tree right away, happily putting the first tear in my new clothes. Standing in the branches, I felt the old joy of looking down and seeing how much smaller the ground became. I jumped and climbed from tree to tree, ?????
 
-Jumping between the trees wasn't anything like the gymnastics I've had to do in the Endless Maze. There, the Seeking God had put everything just barely within reach, so that every movement was a challenge, but possible. Here, the trees were spaced out at random. Some places were so dense that I could just step from one tree to the next. Other places were sparse enough that I couldn't make it even with a flying leap. I had to make my own challenges. I left the forest littered with ladders, long ropes I used to swing from tree to tree, and bits of my own blood from when it didn't work out so well.
+Jumping between the trees wasn't anything like the gymnastics I'd had to do in the Endless Maze. There, the Seeking God had put everything just barely within reach, so that every movement was a challenge, but possible. Here, the trees were spaced out at random. Some places were so dense that I could just step from one tree to the next. Other places were sparse enough that I couldn't make it even with a flying leap. I had to make my own challenges. I left the forest littered with ladders, long ropes I used to swing from tree to tree, and bits of my own blood from when it didn't work out so well.
 
 ?????, the trees opened and I came to a broad stream, where water flowed lazily down from ????? to ?????.
 
-????? I leapt from the tree branch into the water, breaking the surface with a massive splash. The shock of the sudden cold made me snap to fully awake. After a little flailing around, I came up laughing. I hadn't felt this refreshed since… well, possibly ever. ?????
+????? I leapt from the tree branch into the water, breaking the surface with a massive splash. The shock of the sudden cold made me snap to fully awake. After a little flailing around, I came up laughing. I hadn't felt this refreshed since… well, probably ever. ?????
 
 The stream opened out and I slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went.
 
@@ -106,16 +108,15 @@ I stumbled to a halt, hunched over and gasping for breath. I couldn't go on like
 
 <em>I had stabbed Yali.</em>
 
-The scream ripped out through my lungs ?????. Waves of heat pulsed from my body, charring the grass at my feet. Leaves dried and cracked around me. Dark clouds gathered overhead. And the scream didn't end. My lungs were empty, and I couldn't stop trying to scream until they ached from lack of air. And as soon as I gasped, a second scream tore through me, even more painful than the first. No human lungs should have been able to handle this amount of pain. My body was too weak a vessel for the power that was forcing itself through me. The ground and sky themselves had formed a bridge through my body, using my lungs as their ?????.
+The scream ripped out through my lungs ?????. Waves of heat pulsed from my body, charring the grass at my feet. Leaves dried and cracked around me. Dark clouds gathered overhead. And the scream didn't end. My lungs were empty, and I couldn't stop trying to scream until they ached from lack of air. And as soon as I gasped, a second scream tore through me, even more painful than the first. No human lungs should have been able to handle this amount of pain. My body was too weak a vessel for the power that was forcing itself through me. The ground and sky themselves had formed a bridge through my body, using my lungs as their highway.
 
 <em>I had stabbed Yali.</em>
 
-????? The trees withered and blackened before my ?????. ????? I fell to my knees, my hands clutching at the dying soil. Cracks formed underneath me, ?????
+There was no end to my raw vortex of pain. The trees withered and blackened before me. I fell to my knees, my hands clutching at the dying soil. Cracks tore forth through the earth from my hands. The ground buckled under me, raising me up while the fissures zigzagged out in every direction. I felt my arms and legs sinking in the ground. I could no longer lift my head to take my next breath. Tears squeezed from my eyes, sizzling and boiling away as they tried to soak the parched earth.
 
-?????
+And then, in the moment between my screams, in the gut-wrenching pause before I would be torn apart again, the sound of footsteps broke through.
 
-[????? Morrow running towards Rinn]
-[????? in between my upsetness], the sound of footsteps broke through, pounding through the crackling leaves. I had never been so desperate to see another human face. Looking up, I barely made out who it was, the figure rushing towards me, pelted by my howling storm. "MORROW!!!" I tried to scream. But even his name was lost in the roar of pain. I looked up at him desperately, hoping he could tell from my eyes what I was begging him to do. <em>Help me! HELP ME!! Do the loopy thing on me again, do anything you can think of, just as long as I don't have to feel this for a moment longer –</em>
+The footsteps pounded through the crackling leaves. I had never been so desperate to see another human face. Looking up, I barely made out who it was, the figure rushing towards me, pelted by my howling storm. "MORROW!!!" I tried to scream. But even his name was lost in the roar of pain. I looked up at him desperately, hoping he could tell from my eyes what I was begging him to do. <em>Help me! HELP ME!! Do the loopy thing on me again, do anything you can think of, just as long as I don't have to feel this for a moment longer –</em>
 
 "Gotcha covered!" panted Morrow. He closed his eyes, covered his head, and ran the last few steps towards me. Then he grabbed onto my head with his hands. "Hold on tight, this is gonna get interesting!"
 
@@ -133,8 +134,7 @@ The comfort ripped away, turning the rocks into daggers pressing into my flesh. 
 
 "Hold on, hold on!" Morrow repeated. Then the whirlwind of feelings began again.
 
-I lost track of time. It was impossible to think straight, desperately clinging to the edge of the roller coaster between my terror of the feelings Morrow was putting in me and my terror of what I would do if I tried to reject them. I felt hot and cold, empty and full, nearly asleep and far too awake. ?????
-
+I lost track of time. It was impossible to think straight, desperately clinging to the edge of the roller coaster between the feelings Morrow was putting in me and my terror of what I would do if I tried to reject them. I felt hot and cold, empty and full, nearly asleep and far too awake. Everything blurred together, stretched out, fell to pieces, and sank horribly away.
 
 <bigbreak>
 
@@ -144,7 +144,7 @@ I tried to look up from the ground. My head was spinning. Wild patches of color 
 
 The voices kept speaking. Every syllable echoed and distorted in my head, beating on my skull from all sides. Behind that, I was sure it sounded like normal speaking, but somehow, I couldn't make out a single word.
 
-Eventually I gave up on trying to hear the words that were bouncing off of me. Instead, I tried to map out what was around me. My body was propped up in a sitting position against a cushion, leaning against a tree. A face loomed over me, but I couldn't see it properly because there was a smear of color right over it. I angled my eyes to the side, to aim a clear patch of my vision at the face, and saw that it was Alchemist. Behind them, Yali stood, also looking down at me with… worry?
+Eventually I gave up on trying to hear the words that were bouncing off of me. Instead, I tried to map out what was around me. My body was propped up in a sitting position against a cushion, leaning against a tree. A face loomed over me, but I couldn't see it quite right because there was a smear of color right over it. I angled my eyes to the side, to aim a clear patch of my vision at the face, and saw that it was Alchemist. Behind them, Yali stood, also looking down at me with… worry?
 
 "I think, maybe, it's working?" said Alchemist. Something sounded <em>different</em> about that sentence, but I couldn't place it. But then I realized – for the first time, I had actually been able to make out the words.
 
@@ -154,7 +154,7 @@ Alchemist pressed a potion into my hands. "You could, drink this? It makes, Morr
 
 I drank. The potion was thick and hard to swallow, and afterwards it felt like a lump in my stomach. But at least it felt like it was a lump that was going to <em>stay</em> in my stomach. A wave of cool pressure expanded though my body, clearing most of the noise from my senses. It left me feeling just <em>regular</em> exhausted.
 
-I tried to speak again. "Where's Morrow? What'd I miss?"
+I tried to speak again. "Whereshh Morrow? What'd I miss?"
 
 Yali and Alchemist exchanged a look.
 
@@ -206,13 +206,33 @@ The words hung in the air between us.
 
 ?????
 
-"You said '<em>it makes Morrow's stuff feel less bad</em>'."
+[????? Not sure where in the ordering]
+
+"How'd you get that bruise?"
+
+Alchemist shrank back uncomfortably.
+
+"Hey, it's okay, you don't –"
+
+"It was my fault," said Yali. "They tried to pull me off of Morrow. I, I, I, couldn't tell friend from foe at the time."
+
+"Eh, shit happens." I turned to Alchemist. "You okay though?"
+
+"I, yes? I guess I, could, heal it up, if…"
+
+Poor Alchemist. They really weren't cut out for fighting. I really wished they could just have a nice life instead of being stuck between me and Morrow and – apparently even <em>Yali</em> was in the business of beating people up now. But Alchemist… they just kept on trying to help. Asking me to protect Morrow even though they knew Morrow might hurt someone… Bringing me all those potions to heal me up… Even just now, knowing what to do to –
+
+My blood ran cold. "<em>Alchemist,</em>" I said, my voice coming out harsh.
+
+"Yeah?" they said nervously.
+
+"That potion you gave me. You said '<em>it makes Morrow's stuff feel less bad</em>'."
 
 "Yeah…?"
 
 "You NEVER say anything like you're sure about it! So how would you know how that potion feels – <em>unless Morrow did the same thing to you?!!</em>"
 
-?????
+For a heartbeat, all three of us were frozen.
 
 "That's not what happened!" Alchemist lied frantically. They were such a bad liar. Seeing them try to defend him made me even more angry. I shoved myself to my feet, already charged up and ready to fight. I wanted to scream out in rage, but no words were enough. How DARE he do such a thing to poor, sweet, INNOCENT Alchemist?!! Blades sprouted from my back and arms involuntarily, piercing my shirt and stabbing into the air. The more I imagined it – Morrow crouching over a helpless Alchemist, making Alchemist feel all those disturbing, terrifying things – the more I couldn't bear to just stand here. All my old sympathy for him was lying in shreds. I wanted to make him <em>suffer</em>. My blades kept growing, sprouting from every part of my body. I couldn't stop them now. I wasn't sure I even wanted to.
 
@@ -226,7 +246,7 @@ I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alch
 
 "<em>Controlling Game,</em>" said Yali.
 
-"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
+"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded ?????shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
 
 I heard Alchemist's shaky voice in the background. "Is, she…"
 
@@ -238,13 +258,17 @@ Reluctantly, I sat back down with the two of them. Looking at Alchemist made me 
 
 "What do you want me to say?" I said bitterly.
 
-?????
+"I, guess, if, you…"
+
+"Whatever."
+
+We sat in silence for a while. ?????
 
 "I still don't see why I can't bring him a healing potion…" said Alchemist mournfully.
 
 "Because you will <em>DIE!</em>" Yali thundered, yelling in Alchemist's face.
 
-"Hey, go easy on them!" I snapped.
+"Hey, go easy on them!" I snapped. "Weren't you <em>just</em> saying –"
 
 "You think I don't want to?!" Yali roared at me. "If I <em>go easy on them</em>, they somehow convince themselves it isn't so bad! Then they go after Morrow, and Morrow attacks them! I've <em>Seen</em> it! Morrow is completely out of control, ?????! he doesn't stop until Alchemist's mind is DESTROYED!" She spat the last word in Alchemist's face again. Alchemist cringed away from her.
 
@@ -261,7 +285,7 @@ Reluctantly, I sat back down with the two of them. Looking at Alchemist made me 
 
 "Well maybe he SHOULD be killed!" Yali snapped back.
 
-"No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, I'd understand that. But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but I didn't really want to say that in front of Alchemist. I swallowed. Then something else exploded into my head again. Holy shit, how did I not think about Justicar?! I almost jumped back up to my feet again, every part of me tensing up. "Wait, <em>where's Justicar right now?!!</em> Is she coming for us?!"
+"No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, then I'd understand that. But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but I didn't really want to say that in front of Alchemist. I swallowed. Then something else exploded into my head again. Holy shit, how did I not think about Justicar?! I almost jumped back up to my feet again, every part of me tensing up. "Wait, <em>where's Justicar right now?!!</em> Is she coming for us?!"
 
 "She went on ahead."
 
@@ -279,7 +303,9 @@ Yali clutched her head in her hands. "Of course it would be comfortable for <em>
 
 "Are you kidding me!! Not <em>even</em> the Seeking? So the <em>Stern</em> doesn't place at all?!"
 
-Yali ?????. "I don't expect you to understand this, but, but, the Stern God feels reassuring to me. It says to me, every part of myself that I've had to give up to get where I am, was a worthy sacrifice.."
+Yali ?????. "I don't expect you to understand this, but, but, the Stern God feels reassuring to me. It says to me, that every part of myself that I've had to give up to get where I am, was a worthy sacrifice."
+
+?????
 
 "Can we <em>not</em> argue about the Stern right now?"
 
@@ -323,7 +349,7 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "Well, can you at least, like, help us figure out something to do? I mean, you're the one who's good at planning –" Yali glared at me so hard I was actually scared for a moment. "I mean, and, like, you're the one with the Seeing, you can't <em>not</em> help us –"
 
-"I know I <em>should</em>. And I haven't checked it since before…" She sighed and looked into the future. Then her eyes widened. "He spilled his thoughts all over the place."
+[????? This doesn't work because she must have checked in order to one Alchemist – "I know I <em>should</em>. And I haven't checked it since before…" She sighed and looked into the future. Then her eyes widened. "He spilled his thoughts all over the place."]
 
 "He <em>what</em>?"
 
