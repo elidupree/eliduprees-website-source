@@ -68,7 +68,7 @@ The truth burned inside me. If she was trying to turn my question around, that m
 
 "Do not imagine that I enjoy killing! I would like nothing more than to say that no one has to die! But what of the Farseer? What of the dozens or hundreds who will die if the Blood God is allowed to rejuvenate, as its rage infects our city once again?"
 
-Justicar leapt at me again, her sword swinging in a powerful arc. But when she had paused to argue her case, she had given me just enough time to get my bearings. With that scrap of rage had come a fragment of my old power. I had the <em>right</em> to protect my life at all costs, to make her burn and bleed if she would not yield. And now, I saw my chance.
+Justicar leapt at me again, her sword swinging in a powerful arc. But when she had paused to argue her case, she had given me just enough time to get my bearings. With that scrap of rage had come a fragment of my old power. I had the <em>right</em> to protect my life at all costs, to make her burn and bleed if she would not back down. And now, I saw my chance.
 
 As the sword came down, I allowed one of my Blood Blades to lose its shape and flow over my palm and fingers like a glove. I caught the sword in my hand, my blood closing around the blade and trapping it in place. I knew I'd only have an instant before Justicar would understand and free it again. So in an instant, I rushed forward, focusing all of my will to form a blade in my other hand and aiming it towards her. It was like my vision narrowed to a tiny window. The only thing that mattered was the point of my blade, zooming forward and inwards, ready to stab into the exposed skin of Justicar's face.
 

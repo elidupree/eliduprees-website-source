@@ -426,7 +426,7 @@ Shit, I hadn't thought about what <em>Justicar</em> would think of this. I quick
 
 Justicar looked tense. "This is not wise," she said. "You should not let another person inside the boundaries of your mind. And you should not rely on someone else to manage thoughts you should learn to control on your own."
 
-I <em>could</em> have explained that I already had it pretty much under control, and I was just looking for an extra boost. But I didn't have to justify myself. "Whatever, I probably do, like, ten unwise things every day before breakfast. You gonna stop me?"
+I <em>could</em> have explained that I already had it pretty much under control, and I was just looking for an extra boost. But I didn't have to justify myself. "Whatever, I probably do about ten unwise things every day before breakfast. You gonna stop me?"
 
 Justicar's face tightened, and for a moment, I was a little worried that she <em>was</em> going to stop me. But then she backed down. "Very well. It is not my duty to protect you from the consequences of your own decisions. But <em>you</em> –" she turned to Morrow "– if the Blood Child allows you into her mind, I cannot stop you. But if you go the slightest fraction beyond what she willingly allows, I will not show mercy."
 
@@ -434,11 +434,51 @@ Justicar's face tightened, and for a moment, I was a little worried that she <em
 
 "You have heard my warning," said Justicar coldly.
 
+It looked like Morrow was about to provoke Justicar some more. And I didn't want her to change her mind about putting up with this. "Let's get on with it," I said.
+
+Morrow focused back on me excitedly. "Loopy thing! Looking at your mind!! Might gotta touch your head –" he reached out a hand towards my head.
+
+"What, just with your hand?" I joked. "Don't you use your tongue for this stuff?"
+
+"I can use my tongue if you want!"
+
+"Haha, I'm cool." I pressed his hand to my forehead. "Let's do this."
+
 <bigbreak>
 
-[????? Opening summary line about the loopy thing]
+Morrow's powers didn't feel quite how I expected.
 
+I'd been assuming that when he went in my mind, it'd feel as hyperactive as he was. But the first thing I felt was a chilly feeling, part of my excitement draining away. My mind pulled back, taking a wider perspective.
 
+<em>Is this…</em> I thought. <em>Morrow, can you hear my thoughts when you're doing this?</em>
+
+A feeling of being correct popped into my mind.
+
+<em>Was that you?</em>
+
+<em>I can also do words!</em> It didn't sound like Morrow's voice – it actually sounded more like my own thoughts. But it was obviously Morrow. [????? Remove this from 14] His presence flickered across my mind, lighting up a series of different feelings – a flash of rage at injustice, a burst of satisfied laughter, a surge of my love for Yali. <em>Your feelings!! What a delicious jungle!!</em>
+
+"You can't eat them," I said out loud. "Oops." In my head, I felt Morrow snickering. <em>Hey! Okay, fine, that was all me. Anyway, the important thing is – so, I can't tell Justicar this, but –</em>
+
+That caught Morrow's interest immediately. In my thoughts, I quickly explained what I needed help with.
+
+<em>Gotcha covered! I can feel the god in here, it's like a whole little bundle inside you! Lemme gather these up –</em> More feelings flashed through me, hatred and pride and wounded rage. <em>Got 'em! Now next time if you feel any of this – what should I make you feel instead? Think of the feeling you want –</em>
+
+That was an easy choice. Right away, I thought of my deep, blissful love for Yali.
+
+There was a pause. <em>Morrow? You there?</em>
+
+<em>…Really bad idea,</em> Morrow sent back.
+
+<em>How is that a bad idea??</em>
+
+<em>Really bad idea,</em> Morrow repeated. I could feel him thinking of Alchemist somehow. <em>Pick something calmer. Something easy.</em>
+
+Well, I wasn't going to pick <em>calmness</em>, that would feel weird if it happened all of a sudden. Eventually we settled on a feeling of cool, confident pride.
+
+?????
+
+<em>There ya go! All loopied up!</em>
 
 ?????
 
