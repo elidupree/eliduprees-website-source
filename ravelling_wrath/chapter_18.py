@@ -42,7 +42,7 @@ She was focused on the plan, and her focus on the plan was beautiful. I smiled a
 
 "Go? Go where?"
 
-I raised my arm towards the sun, where it hung over a distant part of the city. "Towards the center of the Blood God's power."
+I raised my arm towards the sun, where it hung over a distant part of the city. "Towards the heart of the Blood God's power."
 
 Yali set her feet against the flagstones, solemnly facing towards the sun. She stared along the long uphill road, past the enormous arches and jagged towers, to the tiny, distant black dot that was the highest point of the city, standing high astride the city like a crown of steel. Standing directly beneath the sun, the crown was joined to the sky by a pillar of brilliant light.
 
@@ -50,9 +50,49 @@ Yali set her feet against the flagstones, solemnly facing towards the sun. She s
 
 We moved.
 
+My muscles warmed from our steady walking. We flowed up the street, like two drops of blood flowing up a vein, returning to the heart. We passed shattered towers still reaching towards the sky, twisted monuments of blackened steel, sculptures like raised fists towering high above. The sheer scale of everything was enormous. Even where a finger had broken from a sculpture and fallen to the ground, it was taller than we were.
+
+[????? examining the muscles of the city, "I punched it affectionately"]
+
+<bigbreak>
+
+"I feel like we're so small," said Yali.
+
+"I don't!" I said cheerfully. "We're the equals of this world! See those towers? They're so huge! But we have, like, the pride of humanity inside us! We could punch them down if we wanted! Or build our own! Every human is equal in value to the entire world!"
+
+"That, that, that sounded awesome, but I'm not sure if it makes sense?"
+
+I laughed. "Check this out!" I knelt down, pressing my hands to the flagstones beneath us. An enormous hand of stone emerged from the ground, bearing us upwards and upwards, past shattered windows and smokestacks, past the tallest spires of ancient temples, until we finally rose above the skyline, seeing the entire city laid out before us. It seemed to stretch on into infinity in every direction, a forest of silent silhouettes against the dusky sky.
+
+I watched Yali looking out over the city, taking it all in. Her eyes were slightly widened, her head pulled slightly back. Coming from Yali, that meant she was totally blown away.
+
+"And if you think <em>that's</em> awesome," I continued, "then just wait 'til you see what you already have, right here." I pressed my hand over her heart.
+
+She answered with her own hand over mine[????? Ambiguity]. Then she smiled wistfully. "I love how sincere you are. I will try to, to, to remember this moment, for sometime in the future when I can appreciate it properly."
+
+I felt the impulse to complain, but a heavier feeling laid over it. "I… understand," I said, the weight of truth weighing down my voice. "Your heart… isn't ready to accept this."
+
+"It will be! Once I take the time to, to deal with things. Once I, I…"
+
+"I understand." 
+
+"It just, isn't something I can think about right now. Not until the situation with the gods is resolved."
+
+"Right."
+
+I swept a hand across the skyline. From where we stood, a golden pathway rolled out. From the countless little pathways of the city, the muscles rose up, moving firmly into position to carry it, a spiderweb of cables holding it up as it snaked between the rooftops. My pathway gleamed invitingly, a direct route to our destination. I took Yali's hand and started out along its length.
+
+"Can you make a train, too?" said Yali distractedly.
+
+I laughed. "I <em>could</em> make a train. We could ride as far as the moon and back. But we'll never get closer to the heart unless we move there with our own bodies."
+
+"I'm not sure I like this Blood God of yours," said Yali affectionately.
+
+<bigbreak>
+
 ?????
 
-[????? Perhaps in response to Yali saying the world is overwhelming, Rinn feeling like she's the equal of every huge building, like she could take them down in one punch; examining the muscles of the city, "I punched it affectionately"]
+
 
 ?????
 
