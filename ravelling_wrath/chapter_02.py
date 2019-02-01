@@ -420,7 +420,7 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "What? You didn't say anything about the Blood God being weak."
 
-"I didn't? Oh. Well, <em>neither</em> of our gods has rejuvenated for the last 70 years."
+"I didn't? Oh. Well, <em>neither</em> of our gods has rejuvenated for the last seventy years."
 
 "Rejuvenated?"
 

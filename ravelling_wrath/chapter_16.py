@@ -117,7 +117,7 @@ So Yali was the one I was talking to… Now that I thought about it, what should
 
 "I believe you," she said. "Can you give me more details? How does the Waiting God kill you each year? How did it start? And you said it destroyed your temple, how did that happen?"
 
-I couldn't believe it. I was actually going to do this. I was actually talking to her. I was the Blood God, and I was <em>talking</em> to her! A peal of laughter burst from me, a sudden release of a tension deep inside. I doubled over laughing, laughing until I cried, straining the muscles in my sides and barely holding myself up. I gasped out, "I thought I could never live with me because I was trying to kill you! And <em>I</em> thought I could never live with <em>myself</em> because I kept stopping myself from doing anything against you! But <em>you weren't you all along!!</em> Ha ha ha ha hahahaha haha – urk –"
+I couldn't believe it. I was actually going to do this. I was actually talking to her. I was the Blood God, and I was <em>talking</em> to her! A peal of laughter burst from me, a sudden release of a tension deep inside. I doubled over laughing, laughing until I cried, straining the muscles in my sides and barely holding myself up. I gasped out, "I thought I could never live with me because I was trying to kill you! And <em>I</em> thought I could never live with <em>me</em> because I kept stopping me from doing anything against you! But <em>you weren't you all along!!</em> Ha ha ha ha hahahaha haha – urk –"
 
 "Steady there. Breathe." Yali tried to hold me up. I took a minute to get myself under control, tears of laughter still leaking from my eyes. "Can you, can you, say that again, but, but, but –"
 
@@ -125,7 +125,7 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I – I – I –"
 
-"I know what you're thinking. How are we going to kill the Farseer without hurting Yali? But that doesn't seem so hard, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the back. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been a ?????adjective wall inside me, and it was melting down even as we talked. I shook both of my fists in the air. "Now I am everything again! I am power! I am passion! I am – Aaaaaaaahhhhhh!" I screamed and exultant scream, shaking the sky with my joy. The power blazed forth from my heart, and unquenchable fire of strength, of sureness, of love.
+"I know what you're thinking. How are we going to kill the Farseer without hurting Yali? But that doesn't seem so hard, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the back. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been a ?????adjective wall inside me, and it was melting down even as we talked. I shook both of my fists in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, and unquenchable fire of strength, of sureness, of love.
 
 ????? more fire stuff; Yali is awed
 
@@ -136,28 +136,57 @@ No wall can hold me. No truth can hide from me. No force can break me for as lon
 "Yes. The Blood God's prayer. You… I wish you could see yourself. It's beautiful."
 
 ?????
+<bigbreak>
 
-Getting the details was a lot harder than I had hoped. The Blood God – or at least, the part of me that was the Blood God – had a general sense of what had happened, but it didn't seem to remember specific events the way a human would. Going through its memories took a lot of intuition and ?????
+Getting the details was a lot harder than I had hoped. The Blood God – or at least, the part of me that was the Blood God – had a general sense of what had happened, but it didn't seem to remember specific events the way a human would. Going through its memories took a lot of intuition and guesswork. Sometimes, something just felt right. But if I tried to think about it more, I'd lose it. Eventually, I settled into saying everything out loud as soon as it came into my head – and half the time, I'd immediately feel like, <em>no, I didn't say that right</em>. And then I'd have to say, "no, that's not right", so that Yali would know to delete it from where she was taking notes on her phone. And then I would try to think of something else and see if <em>that</em> was right.
 
-?????
+"Stern take it, I thought it would be a lot easier to just let the god speak through me," I said.
 
-"[????? the god speaking through me?]"
+"No, it makes sense… The gods can't form human words on their own. So, it's less like the god speaking through you, and more like, like… you're <em>interpreting</em> for the god."
 
-"Not exactly… The gods can't form human words on their own. It was more like… you were <em>interpreting</em> for the god."
+"But the Endless Maze had some puzzles with words in them! And the Codex –"
 
-?????
+"It's like I told you. The worlds are constructed based on our assumptions. Any words we saw came from the five Ravellers, one way or another."
 
-"I should have known. Whatever people think of the Blood God, it was never the god of holding a grudge. The god of holding a grudge is the Waiting God, because the Waiting God is the one that cares about the distant past and future. But the Blood God… I've learned a bit about the laws of the old Blood Temple, and they actually explicitly allowed revenge, but only if you did it quickly enough. For common assault, you were allowed to get revenge if it was within a few days, but not after that. If they seriously injured you, it was a lot longer, but there was still a limit. Even for murder. If someone murdered a member of your family, you had 18 months to get revenge. Not a day longer. And everything else was less."
+"Ugh."
 
-"18 months… That's, less than two years…" ???? "Holy shit! Do you think that means –?"
+Eventually, with effort, we managed to get some information out of it. A lot of information, actually. ?????
 
-"…that every year, the Blood God is only getting revenge for being murdered in the previous year?"
+And there was a number. Four. The number of years when the Blood God had ?????
+
+"I should have checked!" yelled Yali. "I had these memories as soon as I knew I was the Farseer! Seventy years of dead Farseers, seventy sets of memories… <em>but there were never seventy sets of memories in me!</em> If only I had checked that there were actually seventy separate individuals in there!
+
+"Who in the Endless would think of checking something like that?? There's no way you can have known about any of thi–"
+
+"No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge! The god of holding a grudge – <em>is the Waiting God</em>."
+
+"Wait, really?"
+
+"Really. The Waiting God is the one that cares about the distant past and future. But the Blood God… I've learned a bit about the laws of the old Blood Temple, and they actually explicitly allowed revenge, but only if you did it soon enough. For common assault, you were allowed to get revenge if it was within a few days, but not after that. If they seriously injured you, it was a lot longer, but there was still a limit. Even for murder. If someone murdered a member of your family, you had eighteen months to get revenge. Not a day longer. And everything else was less."
+
+"Eighteen months… That's, less than two years…" ???? "Holy shit! Do you think that means –?"
+
+"…that every year, the Blood God is only getting revenge for being murdered in the previous year? Maybe. The Blood law for humans isn't necessarily the same system that it uses for itself. Gods are different than humans. But we can hope."
 
 "And so if I survive this <em>one</em> time, it'll be over!"
 
-"The Blood law for humans isn't necessarily the same system that uses for itself. Gods are different than humans. But we can hope."
+"If the Waiting God lets go," said Yali darkly. That wasn't reassuring. <em>When the Waiting God lets go</em> was an expression that meant something that would never happen.
 
-"Holy shit."
+"It'll <em>have</em> to! Once it knows it's <em>lost</em>!"
+
+Yali was silent for a time. "?????
+
+?????
+
+"This sucks! I don't <em>want</em> my – I don't want Rinn to die, but what about <em>me</em>?"
+
+"[????? Was that you or the Blood God?]"
+
+"What? Look, <em>I, Rinn</em> think we need to help the Blood God! You don't know how much pain it's in! Ugh, I can't believe I spent all that time telling it to shut up when it was afraid it was going to be killed!!"
+
+?????
+
+
 
 ?????
 
@@ -191,7 +220,7 @@ Getting the details was a lot harder than I had hoped. The Blood God – or at l
 
 "Your what?"
 
-"Your awakening of blood. It's… an important concept in Blood law. Let me see if my memories know enough to explain it. It's like, like, like, the time when you've fully realized how much of a violation it was. So, so, if someone was abused, but they're still telling themself they can pretend it didn't happen, their blood hasn't awakened to the crime yet. So the timer hasn't started for their revenge.
+"Your awakening of blood. It's… an important concept in Blood law. Let me see if my memories know enough to explain it. It's like, like, like, the time when you've fully realized how much of a violation it was. So, so, if someone was abused, but they're still telling themself they can pretend it didn't happen, their blood hasn't awakened to the crime yet. So the timer hasn't started for their revenge. And if they're a kid, and they don't feel like they have the <em>power</em> to get revenge, they don't count as awakened yet.
 
 
 

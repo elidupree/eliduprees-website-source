@@ -358,7 +358,7 @@ After a few minutes, I was startled to notice that Morrow still hadn't moved. He
 
 That's when Alchemist walked in through the wall.
 
-"Morrow!!" cried out Alchemist. "When you stopped answering me, I was so afraid – "
+"Morrow!!" cried out Alchemist. "I was so afraid when you stopped answering me – "
 
 "Raylie!!!" Morrow sprang to his feet, bolted straight towards Alchemist, and hugged them without slowing down, slamming both of them into the wall. Before Alchemist could catch their balance again, Morrow was already yelling in their face. "It's happening again!! Help me, help me, you have to help me!!" Morrow grabbed onto Alchemist's shoulders, shaking violently. Alchemist's face flooded with confusion and distress.
 

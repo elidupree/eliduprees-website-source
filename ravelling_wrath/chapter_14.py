@@ -12,7 +12,7 @@ posts = [
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
-
+[????? Yali would still be fat even if it wasn't for her food insecurity in childhood, with a link to the VC page]
 
   ''',
   "head":head,
@@ -52,7 +52,7 @@ It was like my body moved out of its own accord. It flung itself sideways just a
 
 I was barely on my feet when the sword came at me again. I leaped to the side, barely fast enough to hear the woosh in my ear as it missed.
 
-I had no time to think. Death was waiting just an arm's length away. Desperately, I wrenched a Blood Blade out of the air. Even that was a strain. I felt like my blood was far away from me, like I had to pull it through a ?????. And the moment the blade was in my hand, Justicar's sword was already whirling towards my eyes. I had to twist my body to block it, both hands shoving my Blood Blade up in its way.
+I had no time to think. Death was waiting just an arm's length away. Desperately, I wrenched a Blood Blade out of the air. Even that was a strain. I felt like my blood was far away from me, like I had to pull it from the bottom of a deep hole. And the moment the blade was in my hand, Justicar's sword was already whirling towards my eyes. I had to twist my body to block it, both hands shoving my Blood Blade up in its way.
 
 The two blades met with a sickening thud. I felt mine crack in my hand, terrible fractures spreading throughout its body from the force. I leaped backwards, trying to put even a moment's space between me and the onrushing death.
 
