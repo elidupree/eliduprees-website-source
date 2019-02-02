@@ -136,11 +136,13 @@ The road heaved sharply uphill, twisting at an angle that made it hard to walk, 
 
 My road ended at the entrance to a massive open-air forge. [????? Very large] mechanical bellows sat motionless, looming nearby broad anvils layered with the dust of years. Enormous crucibles stood against the sky, with channels where molten metal might have poured down from them. The whole place was piled with every kind of tool and device imaginable, the floor barely visible under them. I could just imagine Rinn digging through the piles, pulling out random devices and doing irresponsible things with them. I smiled despite myself.
 
-But to me, this was all so much trash. The tools might represent something with a purpose, if you looked across all of history, but right now, they were just things in my way. How would I cart Rinn past the forge without a flat floor to roll my wagon along? Could a clear them away? Could I go around? Could I manifest a sort of boardwalk over them?
+But to me, this was all so much trash. The tools might represent something with a purpose, if you looked across all of history. But right now, they were just things in my way. How would I cart Rinn past the forge without a flat floor to roll my wagon along?
 
-The boardwalk would not work. The piles were unsteady. They might shift under us, and then Rinn could be reinjured.
+If <em>Rinn</em> was awake, she would probably manifest a giant bridge going all the way over everything, like she had before. Maybe even I would be able to do that, if my "heart was ready". But that wasn't something I could think about now.
 
-?????
+Could a clear the piles away? Could I go around? Could I manifest a sort of boardwalk over them?
+
+The boardwalk would not work. The piles were unsteady. They might shift under us, and then Rinn could be reinjured. And going around… even if I could find a way to go around, it probably wouldn't be allowed. This was the Blood God's world. I remembered Rinn saying that we wouldn't get closer to the heart unless we used our own bodies. In the same way, going <em>around</em> a problem just wasn't the Blood way of doing things.
 
 I sat a while and thought of how I could move the things. No good ideas came to me. Eventually, I stood up and began hauling them out of the way one at a time, making a path just wide enough for me and my wagon. It was heavy work. Each thing seem to be tangled with a dozen others. Pain accumulated in my back.
 

@@ -343,6 +343,18 @@ And the worst part was, she wasn't wrong.
 
 "It's okay. I understand."
 
+?????
+
+[????? Is there anything else we need to discuss before we go to the next world]
+
+"We still haven't talked about… When I made you do the Controlling Game. When –"
+
+"Oh gods, don't remind me," I said.
+
+"Remember, I, I promised I'd check in with you, to make sure –"
+
+"Uh, yeah, you were totally fine. I was being a huge asshole, I'm glad you stopped me."
+
 
 ''',
 },
