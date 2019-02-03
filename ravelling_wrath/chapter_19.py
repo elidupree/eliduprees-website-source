@@ -66,7 +66,7 @@ To me, that wasn't enough.
 
 The Waiting God had <em>allowed</em> its Farseers to die. It had callously sacrificed them, for no more reason than to prove its story that the Blood God was a monster. Rinn's words echoed in my head: <em>I will kill you and kill you and kill you, and when I am gone, you will still be strong.</em> And the Waiting God knew it. The Waiting saw the grand span of time. The loss of a single rejuvenation, in a single year, was nothing to it. And so that loss was nothing to me as well. I was not content to take away only what it had already willingly discarded.
 
-What I needed was a way to access the Waiting God directly, [so that I could leave a <em>permanent</em> scar ?????].
+What I needed was a way to access the Waiting God directly, [so that I could leave a <em>permanent</em> scar ????? so that the [wounds I dealt to it] would be <em>permanent</em>.].
 
 What I needed… were the threads it had woven into my soul.
 
@@ -88,7 +88,17 @@ Keeping still and silent, I listened for the Waiting God's presence. The part of
 
 It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
 
-With each new thought, the presence felt weaker. This wasn't working. By denying it directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant ?????.
+With each new thought, the presence felt weaker. This wasn't working. By denying it directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
+
+But, even if I knew what it felt like to listen to the Waiting God… what did it feel like to <em>be</em> the Waiting God?
+
+I did not know, but I <em>knew</em>. The Waiting God did not feel the reassurance of inevitability. The Waiting God <em>was</em> inevitability. To be the Waiting God <em>was</em> to watch and wait. To plan. To know. The Waiting God did not obtain knowledge. It <em>reviewed</em> knowledge. Past and future were already united within its soul.
+
+So… I waited.
+
+The knowledge I wanted would come to me. In fact, it was already here. It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.
+
+?????.
 
 ?????
 
@@ -96,11 +106,11 @@ With each new thought, the presence felt weaker. This wasn't working. By denying
 
 THIS WAS SO WRONG. HOW COULD I NOT HAVE SEEN IT? HOW? <EM>HOW?!</EM>
 
-The thoughts came from nowhere, shattering my focus. Was there something urgent I had missed? I quickly put aside my thoughts of the plan –
+The thoughts came from nowhere, disrupting our focus. Was there something urgent we had missed? we quickly put aside our thoughts of the plan –
 
-NO! YOU – I – MY PLAN <EM>WAS</EM> THE MISTAKE! ALL THE WAY FROM THE BEGINNING! I DIDN'T DESERVE TO GET TO STOP THINKING OF IT! SHE WAS RIGHT IN FRONT OF ME, SHE WAS SUFFERING! HOW HAD I NOT SEEN IT?! <EM>HOW?!</EM>
+NO! YOU – I – OUR PLAN <EM>WAS</EM> THE MISTAKE! ALL THE WAY FROM THE BEGINNING! WE DIDN'T DESERVE TO GET TO STOP THINKING OF IT! SHE WAS RIGHT IN FRONT OF ME, SHE WAS SUFFERING! HOW HAD I NOT SEEN IT?! <EM>HOW?!</EM>
 
-Terror pressed in from the base of my mind. A crushing feeling gripped my chest. This made no sense! This was my plan, my plan! Nothing had changed! How could it be wrong?! How was Blood a "she"?! How – something was wrong, what was happening –
+Terror pressed in from the base of our mind. A crushing feeling gripped our chest. This made no sense! This was our plan, our plan! Nothing had changed! How could it be wrong?! How was Blood a "she"?! How – something was wrong, what was happening –
 
 I was Yali again, my body shaken away from the god by a violent force. It was agony, pushing myself back upright and trying to control the painful tears. My mind was in chaos. I'd thought I was being clever, using my own guilt about [????? childhood friend] – no, it HAD been clever! It had <em>worked!</em> The Waiting God was shaken too, I had felt it! A feeling of triumph rose inside me. And this was only the beginning! I gathered my determination. I listened for the Waiting again, and felt…
 

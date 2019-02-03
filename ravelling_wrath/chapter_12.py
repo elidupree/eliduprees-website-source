@@ -49,7 +49,7 @@ And even if I found her, what good would it do? She would just be taken away fro
 
 That…
 
-Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either. Just in case, I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
+Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either. It did <em>feel</em> like the Blood God, but it… didn't really feel like it? Just in case, I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
 
 I ought to get up, I thought. My back was killing me. I <em>really</em> ought to get up. But somehow, it just didn't happen. I couldn't summon up the motivation to move.
 

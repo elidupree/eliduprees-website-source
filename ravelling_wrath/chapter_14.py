@@ -174,8 +174,7 @@ Yali's face turned ashen.
 
 "What about –"
 
-The spike she had been holding earlier was still lying near us, but its energy was already fading. She picked it up and stabbed it into her hand, and it just fizzled into nothingness. "I tried to make Alchemist make a weapon for me. Right after they made the Severing Step. But they couldn't! They won't think of
-how to hurt people even when they NEED to! If I'd had more time –"
+The spike she had been holding earlier was still lying near us, but its energy was already fading. She picked it up and stabbed it into her hand, and it just fizzled into nothingness. "I tried to make Alchemist make a weapon for me. Right after they made the Severing Step. But they couldn't! They won't think of how to hurt people even when they NEED to! If I'd had more time –"
 
 "What's… sev…"
 
