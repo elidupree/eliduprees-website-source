@@ -122,6 +122,25 @@ I shrugged. "I mean, it was pretty smart. We don't know what the Blood God would
 
 "Yeah," said Yali somberly. "Mine's gone, too."
 
+[????? Yali dissatisfied by not knowing how much she influenced the Waiting God]
+
+"I… remember something."
+
+"What is it?"
+
+"From when I was unconscious. I must've been in the portal, because I… I <em>was</em> the god."
+
+[????? Yali looked at me intently]
+
+"I could feel the other gods all around me. Not just the other four gods, but all the gods from all around the world. But the five of us, we were all, in… our own, special space. And I was, like… I really wanted to know what the Waiting God was going to feel like. And I, looked, or, not <em>looked</em>, but, you know. And it felt like… something. The Waiting God felt…"
+
+[????? Yali looked at me even more intently. It seemed impossible to put into words. I struggled to put it into words]
+
+"…<em>uncertain</em>."
+
+[????? Yali was frustrated "we will still have to see"]
+
+"[????? How can you be devaluing your accomplishments?] You did more than anyone could have POSSIBLY expected!! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and the mountain fell over! ?????"
 
 
 ?????
