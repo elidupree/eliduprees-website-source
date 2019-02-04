@@ -114,6 +114,10 @@ But Blood…
 
 Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down.
 
+????? [????? Look for inspiration in Blood as the unconscious mind rejecting choices that aren't in your human-selfish interest]
+
+The city was limited, only able to develop in ways that could navigate around Blood's limitations.
+
 ?????
 
 Once there was no more Blood, the city could flourish unhindered.
