@@ -100,19 +100,39 @@ The knowledge I wanted would come to me. In fact, it was already here. It would 
 
 ?????.
 
+The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its current city center on the hill, to the unified metropolis it could one day become.
+
+?????
+
+Three other forces struggled to guide the city, each with their own shortsighted fragments of wisdom.
+
+The Stern were a foundation. Flawed, at times unnecessarily cruel, but a foundation. Where humanity would not accept our gentle guidance to the proper path, Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape.
+
+The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to delight. Yet they had no power to achieve disaster without a loan of the others' strength. Their strength could be regulated, their ingenuity turned to the benefit of all.
+
+But Blood…
+
+Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down.
+
+?????
+
+Once there was no more Blood, the city could flourish unhindered.
+
+
+
 ?????
 
 [????? Favorable description of the Waiting God's vision of a world without the Blood God]
 
 THIS WAS SO WRONG. HOW COULD I NOT HAVE SEEN IT? HOW? <EM>HOW?!</EM>
 
-The thoughts came from nowhere, disrupting our focus. Was there something urgent we had missed? we quickly put aside our thoughts of the plan –
+The thoughts came from nowhere, disrupting our focus. Was there something urgent we had missed? We smoothly put aside our thoughts of the plan –
 
 NO! YOU – I – OUR PLAN <EM>WAS</EM> THE MISTAKE! ALL THE WAY FROM THE BEGINNING! WE DIDN'T DESERVE TO GET TO STOP THINKING OF IT! SHE WAS RIGHT IN FRONT OF ME, SHE WAS SUFFERING! HOW HAD I NOT SEEN IT?! <EM>HOW?!</EM>
 
 Terror pressed in from the base of our mind. A crushing feeling gripped our chest. This made no sense! This was our plan, our plan! Nothing had changed! How could it be wrong?! How was Blood a "she"?! How – something was wrong, what was happening –
 
-I was Yali again, my body shaken away from the god by a violent force. It was agony, pushing myself back upright and trying to control the painful tears. My mind was in chaos. I'd thought I was being clever, using my own guilt about [????? childhood friend] – no, it HAD been clever! It had <em>worked!</em> The Waiting God was shaken too, I had felt it! A feeling of triumph rose inside me. And this was only the beginning! I gathered my determination. I listened for the Waiting again, and felt…
+I was Yali again, my body shaken away from the god by a violent force. It was agony, pushing myself back upright and trying to control the painful tears. My mind was in chaos. I'd thought I was being clever, using my own feeling of guilt, but it had gotten mixed up with my guilt about [????? childhood friend] – no, it HAD been clever! It had <em>worked!</em> The Waiting God was shaken too, I had felt it! A feeling of triumph rose inside me. And this was only the beginning! I gathered my determination. I listened for the Waiting again, and felt…
 
 Nothing but fatigue.
 
