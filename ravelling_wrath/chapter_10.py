@@ -103,7 +103,9 @@ Justicar spotted what I was doing. "I told you," she said patiently, "the Seekin
 
 [Probably down time where Rinn starts engaging Justicar about Justicar's beliefs]
 
-"In truth, very few who claim to follow the Stern truly uphold its ideals."
+"[????? Any of you Stern hypocrites]. I've had enough of that back on Earth. Mom and Dad thinking they can control me, teachers acting like they know shit about what's good for me…"
+
+"Even if they are truly hypocrites – which perhaps they are! – you should not be so quick to discard the wisdom of the Stern simply because of their human failings. In truth, very few who claim to follow the Stern truly uphold its ideals."
 
 "I bet <em>you</em> do, though," I said sarcastically.
 
@@ -146,7 +148,7 @@ Why did she have to make everything into some sort of serious issue? "Like <em>y
 
 Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I do not believe to be true. [????? So you can be certain it's true when I say this: I did not respect myself.] I was a heavy drinker. I literally cannot count the times that I drank until I was blacked out or vomiting on the floor. My friends tried to stop me, but I persisted, even knowing that I was making them clean up after me. I ruined my relationships with them, one by one."
 
-I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie, but it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
+I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
 Justicar went on. "But even ?????, I refused to understand that it was myself who had [????? dug that hole]. To fill that void, I reached out in every direction except the one that would actually [????? restore me]. I reached for every kind of drug I could get my hands on, I had sex with many different men –"
 
@@ -212,17 +214,31 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 
 "Fine!" I made my cuts close. "But seriously, what is your problem? Why'd you have to –"
 
-"You have no idea how much I have had to sacrifice to get away from that life! [????? Big story about her parents action]"
+"You have no idea how much I have had to sacrifice to get away from that life! You treat this as a game – just as I did! You have no idea of the depths to which one can sink!
 
-[?????
+????? I woke up in the hospital after an overdose. Even then, I refused to believe it was over. Not until my parents walked in. They did not listen to my excuses. They simply <em>told</em> me that I would be going to the Borson School from then on –"
+
+"Isn't that that place that was in the news for abusing all those kids??"
+
+"You are thinking of Bolsard Academy, in ?????. They are unrelated institutions."
+
+"Er… oh."
+
+"As I was saying, ?????. They did not give me a choice that I could ?????mismake. [????? I did not protest]. On some level, I was aware of ?????.
+
+"My bags were already packed. I was not even allowed a moment with my phone to say goodbye to the few friends who would still talk to me –"
 
 "That's horrible," I breathed.
 
-"It was exactly what I needed.
+"It was exactly what I needed. A clean break from the world of the self-destructive habits I had developed.
+
+"But–! You… Argh!"
+
+"At the Borson School, nothing was done for us. We students had to do our own laundry, to clean our own dormitories.
 
 ?????
 
-"So," I said, summing things up, "what I'm hearing is, first, your life sucked. And then you found the Stern. And now, your life still sucks. When was the last time you enjoyed yourself?"
+"So," I said, summing things up, "what I'm hearing is, first, your life sucked. And then you 'found the Stern'. And now, your life still sucks. When was the last time you enjoyed yourself?"
 
 "It is not important whether I enjoy myself. What is important is whether I stay true to my principles."
 
