@@ -130,9 +130,9 @@ The beer sat uncomfortably in my belly. Stern take it, I should have thought abo
 
 "You can use manifesting to stop being drunk," said Justicar.
 
-"Well, I've come this far. Let's, uh, get this party started." I manifested some big speakers, plugged them into my phone, and started blasting some upbeat party music. I picked a song with a strong beat and a sexy voice. As soon as it came on, I wanted to jump up and start dancing, even though it was just me and Justicar here. So I did. I grabbed Justicar's wrist and tried to pull her up with me, but she wouldn't budge.
+"Well, I've come this far. Let's, uh, get this party started." I manifested some big speakers and a new copy of my phone, plugged them together, and started blasting some upbeat party music. I picked a song with a strong beat and a sexy voice. As soon as it came on, I wanted to jump up and start dancing, even though it was just me and Justicar here. So I did. I grabbed Justicar's wrist and tried to pull her up with me, but she wouldn't budge.
 
-"Fiiiiine, be that way," I said. I happily started bobbing my head up and down to the beat. Pretty soon, the music started glitching in and out. The speakers I'd manifested were some old ones my dad had from, like, last century. They were flaky as shit. I was about to give them a good kick when I noticed Justicar glancing at them and twitching. Well, if <em>she</em> was annoyed –
+"Fiiiiine, be that way," I said. I happily started bobbing my head up and down to the beat. Pretty soon, the music started glitching in and out. Right, the speakers I'd manifested were some old ones my dad had from, like, last century. They were flaky as shit. I was about to give them a good kick when I noticed Justicar glancing at them and twitching. Well, if <em>she</em> was annoyed –
 
 Before long, Justicar manifested a different pair of speakers and re-plugged them. The music sounded fine now. Well, worked for me.
 
@@ -150,7 +150,7 @@ Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I 
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
-Justicar went on. "But even ?????, I refused to understand that it was myself who had [????? dug that hole]. To fill that void, I reached out in every direction except the one that would actually [????? restore me]. I reached for every kind of drug I could get my hands on, I had sex with many different men –"
+Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had made that happen. I had been a star student, working hard and earning top marks, but I took it for granted. I always wanted more. To fill that void, I reached out in every direction except the one that would actually restore me. I reached for every kind of drug I could get my hands on, I had sex with many different men –"
 
 Well <em>that</em> I knew how to respond to. "Haha, that's where you went wrong. Shoulda had sex with girls instead."
 
@@ -190,11 +190,11 @@ Justicar was smiling – the smile of someone who's being patient with a little 
 
 "If you would give me a chance to explain the actual principles I follow, you would know I do not believe anything like that. It is always wrong to force yourself on someone else. But no one forced themselves on me. It was my own choice to devalue my body like that. I <em>chose</em> to fill my nights with sexual indiscretions, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
 
-Up to this point, I had mostly just been messing with her. But [????? this was serious. I got all charged up.] "That's your <em>real</em> problem," I said coldly. "But –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. If anyone doesn't treat me right, they can fuck right off. ?????"
+Up to this point, I had mostly just been messing with her. But now… a terrible ache pulled at my heart. This was deadly serious. Her words were a violation, a gaping wound, trying to twist my blood out of its course. Coldly, I stated, "That's your <em>real</em> problem. It's not the sex. It's not the drinking. It's the self-respect. But –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. If anyone doesn't treat me right, they can fuck right off. And if they don't fuck right off, I <em>make</em> them. I'm nothing like you."
 
-"When I was your age, I too believed that I was being assertive and empowered."
+Justicar raised an eyebrow. "When I was your age, I too believed that I was being assertive and empowered."
 
-"Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
+Ugh, what was even the point of being serious with her? She was just going to keep saying fucked-up stuff either way. "Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
 
 "You can believe what you like," she said.
 
@@ -224,13 +224,13 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 
 "Er… oh."
 
-"As I was saying, ?????. They did not give me a choice that I could ?????mismake. [????? I did not protest]. On some level, I was aware of ?????.
+"As I was saying, they simply told me of their decision. They did not give me a choice that I could ?????mismake. And for once, I did not try to fight it. On some level, I was aware of how badly my actions were destroying my life. I would never have been able to make that decision myself.
 
-"My bags were already packed. I was not even allowed a moment with my phone to say goodbye to the few friends who would still talk to me –"
+"By the time I was able to leave the hospital, my bags were already packed. They drove me directly to the new school. We did not stop at my home. I was not even allowed a moment with my phone to say goodbye to the few friends who would still talk to me –"
 
 "That's horrible," I breathed.
 
-"It was exactly what I needed. A clean break from the world of the self-destructive habits I had developed.
+"It was exactly what I needed. A clean break from the world of the self-destructive habits I had developed."
 
 "But–! You… Argh!"
 
@@ -253,9 +253,15 @@ Another puzzle
 
 [????? Rinn assumes that Justicar would approve of anything done in the name of the Stern, and Justicar reveals that she was a police officer]
 
-"You assume, simply because a thing was done in the name of the Stern, that I would approve of it. But not all who claim to follow the Stern truly uphold its principles. Even the highest ranks of the Stern Temple are full of – have their share of hypocrites
+"You assume, simply because a thing was done in the name of the Stern, that I would approve of it. But as I said, not all who claim to follow the Stern truly uphold its principles. Even the highest ranks of the Stern Temple are full of – have their share of hypocrites ?????
+
+"After I graduated from the Borson School, I was given a second chance at life – a privilege that not everyone receives. I wanted to make the most of what I had been given. I wanted to give back to society. I began training to enter the Stern police force."
 
 ?????
+
+"I was a star student once again. [????? authority figures] praised my hard work and sense of duty. Hypocrites, all of them.
+
+proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect to the will of the Stern as I did.	I was asked to overlook bias and petty corruption. [????? Bias in favor of rich people] simply because they could create trouble for us. Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us? ?????
 
 "Or, as I prefer to see it, I was dismissed from the police force <em>for enforcing the law</em>." She smiled grimly. "And now it seems that the god itself has vindicated me."
 
@@ -271,11 +277,11 @@ I had an idea. I waited for Justicar to [????? do something with the puzzle]…
 
 "Please don't remind me."
 
-"I remember because Dehel kept reposting it from a meme page with just a whole bunch of thinking face emoji. Haha, I think it was actually called <em>The Blood God's Dank Meme Stash –</em> man, that was so three years ago." I sensed that Justicar was trying not to listen. "Wait a minute, why don't you want to be reminded about this?! You were kickass!"
+"I remember because Dehel kept reposting it from a meme page. He always reposted it with just a whole bunch of thinking face emoji. Haha, I think it was actually called <em>The Blood God's Dank Meme Stash –</em> man, that was so three years ago." I sensed that Justicar was trying not to listen. "Wait a minute, why don't you want to be reminded about this?! You were kickass!"
 
-"I [????? gave in to my emotions]. It was not the appropriate way for me to air my grievances with the Stern Temple."
+"I gave in to my selfish resentment. It was not the appropriate way for me to air my grievances with the Stern Temple."
 
-"Ugh, you're so Stern that even when you hate the Stern you have to be more Stern than they are?"
+"Ugh, you're so Stern that even when you hate the Stern you have to be more Stern than they are??"
 
 [????? how can the law be pure when it's also made by humans?]
 
@@ -293,7 +299,7 @@ But even though I had my phone back, I was long since bored of all the games I h
 
 Sure enough, she completely avoided it. "Police officers do not 'put people in prison'. It is judges and juries who determine sentencing."
 
-This was gonna be good. I quickly tried to plan out all the ways I keep messing with her. But then, another thought shot through me, a much more serious thought. "<em>Now</em> who's not taking responsibility for their actions?!" I demanded. "You arrest people, then they go to prison. And somehow that doesn't count??"
+This was gonna be good. I quickly tried to plan out all the ways I could keep messing with her. But then, another thought shot through me, a much more serious thought. "<em>Now</em> who's not taking responsibility for their actions?!" I demanded. "You arrest people, then they go to prison. And somehow that doesn't count??"
 
 "We each do our own part in the system, and only our own part. If a conviction is unjust, that cannot be laid at the feet of officers who were only carrying out their duties."
 
@@ -329,7 +335,7 @@ This was gonna be good. I quickly tried to plan out all the ways I keep messing 
 
 Justicar sighed.
 
-"Just the [????? manifesto] I would expect from a Blood Child," she said. "Full of passion and fury, lacking in consideration and foresight."
+"Just the manifesto I would expect from a Blood Child," she said. "Full of passion and fury, lacking in consideration and foresight."
 
 Rage surged up in me. I wanted to punch the smug indifference right off her face. But my heart was weighed down with a heavy thought: <em>this is not my true enemy</em>. That was <em>definitely</em> the Blood God again, not me. Why was it thinking <em>that</em>? Whatever. I settled with just yelling again. "Did you listen to a word I just said?!" I demanded.
 
@@ -347,9 +353,9 @@ Rage surged up in me. I wanted to punch the smug indifference right off her face
 
 "The Waiting Temple has formal authority over the first layer. The Seeking Temple, the second. And the Stern Temple is based in the third layer, but also has authority over the fourth and the fifth –"
 
-"– the fifth layer, which <em>should</em> go with the Blood Temple," I said instinctively.
+"– the fifth layer, which <em>should</em> go with the Blood Temple," I finished instinctively.
 
-"Which <em>did</em> belong to the Blood Temple before its collapse and dissolution." Something about that description felt completely unfair. But I couldn't figure out how to express it, so I just glared at her while she continued. "But the Blood Temple was disorganized and corrupt. As I was saying, only the Stern [????? is organized]. That is why the Stern Temple was given the lower layers, and why the Stern God maintains equal influence in the Ravelling, despite what it lacks in raw power."
+"Which <em>did</em> belong to the Blood Temple before its collapse and dissolution." Something about that description felt completely unfair. But I couldn't figure out how to express it, so I just glared at her while she continued. "But the Blood Temple was disorganized and corrupt. As I was saying, only the Stern is capable of the organization the city needs. That is why the Stern Temple was given the lower layers, and why the Stern God maintains equal influence in the Ravelling, despite what it lacks in raw power."
 
 "Lacks in…? I thought all the gods were equally powerful!"
 
@@ -411,7 +417,7 @@ I searched all up and down the walls. There wasn't much to search. I felt like M
 
 "It's out of place, though. There haven't been distractions like this before… It's gotta mean something!"
 
-?????
+I walked up close to the spurting flames. I tried to look at them from every angle, hoping I'd notice something new. But it didn't look different than any of the others. Unless there was something different about the nozzle itself – it was kind of hard to see from where I was standing. To get to it, I'd have to walk through the flames, and this one was always on – none of the buttons turned it off. So…
 
 "Wait. I have an idea! Something this flamethrower could be meant for!" A thrill shot through me. I stepped towards the flames.
  
@@ -421,13 +427,11 @@ I brought my hand close to the fire. It felt burning hot, as if getting any clos
 
 When I really concentrated, really paid attention to how they felt… they weren't even <em>warm</em>.
 
-"Stop that!" said Justicar, probably still thinking I was playing with <em>real</em> fire.
+"Stop that!" said Justicar. She probably still thought I was playing with <em>real</em> fire.
 
-I smirked. With a flourish, I jumped into the center of the flames. Then I turned around and leaned my back against the spurting source of the fire, stretching and yawning as if I was relaxing in a hot spring or something. It actually hurt a lot, but it was worth it to watch Justicar panic. "I <em>get it now!</em>" I said. ?????
+I smirked. With a flourish, I jumped into the center of the flames. Then I turned around and leaned my back against the spurting source of the fire, stretching and yawning as if I was relaxing in a hot spring or something. It actually hurt a lot, but it was worth it to watch Justicar panic. "I <em>get it now!</em>" I said. "This one was here to <em>teach</em> me! To teach me that none of the flamethrowers ever mattered! I could have walked through them all along!"
 
-?????
-
-And it wasn't even just that I would have to <em>walk</em> into the flames. <em>I</em> didn't have to do anything except stand in the middle of the fire room helplessly, while <em>Justicar</em> had to turn it on.
+And it wasn't even just that I would have to <em>walk</em> into the flames. In this puzzle, <em>I</em> didn't have to do anything except stand in the middle of the fire room helplessly, while <em>Justicar</em> had to turn it on.
 
 Justicar must have realized the same thing, because she immediately tensed up. "That cannot be what we have to do! There must be something else!"
 
@@ -437,15 +441,15 @@ Justicar must have realized the same thing, because she immediately tensed up. "
 
 "Actually, it still hurts a lot. I was just pretending earlier."
 
-"Then there must be another way!"
+"Then there must be another way! The Seeking God may not want to injure you, but it still represents an impassable barrier! The puzzle will have a more proper solution –"
 
-I grinned savagely. "No, there isn't! You said it yourself! If there was a way to get out of this, it would <em>waste that potential of the situation</em> –"
+I grinned savagely. "No, it won't! You said it yourself! If there was a way to get out of this, it would <em>waste that potential of the situation</em> –"
 
 Justicar glared at me.
 
 "I take back everything bad I ever said about the Seeking God, this is great! You're going to have to admit that you were wrong! You were wrong from the very beginning!"
 
-Justicar sighed. "If it comes to that, do you think I will have difficulty admitting that I was wrong? No one can be correct every time. The Stern asks that we remain humble and ?????"
+Justicar sighed. "If it comes to that, do you think I will have difficulty admitting that I was wrong? No one can be correct every time. The Stern asks that we remain humble and admit to our mistakes when they do occur. "
 
 ?????
 
@@ -457,7 +461,7 @@ Justicar closed her eyes. With a strained voice, she recited, "<em>Let me strike
  
 ?????
 
-"But there is something I wonder," said Justicar dourly. "These puzzles were constructed for both of us. ?????
+"But there is something I wonder," said Justicar dourly. "These puzzles were constructed for both of us. If you are correct, and the solution we used was the one the Seeking God intended, then I have to admit that it <em>did</em> have an worthy lesson for me. But then, surely, somewhere in this, there must also be a lesson for <em>you</em>?"
 
 I smirked. "Nah, it just means I was right all along! I'm the one who thought, uh…" Actually, when I thought about it, I hadn't really disagreed with Justicar about anything. I had just sort of… gone along with… "Oh. My. GODS!! I can't believe it, I seriously can't believe it! I've gone this entire way, this ENTIRE way, acting like I hate the rules, like I think they're all bullshit! But when you told me what you thought the rules were – the <em>very first time you told me</em> – I BELIEVED you! I could have checked any time I wanted! I could have stuck my hand in the fire whenever I wanted to, and then I could have skipped past all the puzzles! But the Seeking God <em>knew</em> I wouldn't do it! It knew I would just –" the words came reluctantly to my lips "– <em>trust</em> you."
 
