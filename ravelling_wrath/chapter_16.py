@@ -109,7 +109,7 @@ I stared at the being in front of me.
 
 Now that I looked at it in detail, it was like an optical illusion, something that couldn't possibly exist. It was giving me a splitting headache. What – but – how – it was definitely a human! And it was definitely woven into the god! It even called itself a Farseer! But then how – how –
 
-Memories came flooding back to me. How it had collaborated with that broken fragment, the one we called Neenu. How it had fought against the Justicar, even bizarrely using deception, to prevent my death. A death the Waiting God itself had planned! And how it had claimed that the Waiting God had <em>hidden</em> things from it! How had I not realized before? <em>It</em>, the one I called Yali, was a broken fragment itself! Like a damaged clock with gears running at two different speeds, like a puppet wrestling for a grip on its own strings, like a parasite using its host's own nutrients to devour it, it was a flaw in the Waiting God's plan, and it was ripping and tearing to widen the flaw at every chance it had.
+Memories came flooding back to me. How it had worked together with that broken fragment, the one we called Neenu. How it had fought against the Justicar, even bizarrely using deception, to prevent my death. A death the Waiting God itself had planned! And how it had claimed that the Waiting God had <em>hidden</em> things from it! How had I not realized before? <em>It</em>, the one I called Yali, was a broken fragment itself! Like a damaged clock with gears running at two different speeds, like a puppet wrestling for a grip on its own strings, like a parasite using its host's own strength to devour it, it was a flaw in the Waiting God's plan, and it was ripping and tearing to widen the flaw at every chance it had.
 
 I tried to shift my focus, to look at the different parts of it. It was hard, because they were woven together so tightly. Every time I tried to see where one ended and the other began, it seemed to shimmer and shift. But slowly, I got a general sense of the shapes. The place where the transcendent web of the god twisted and meshed with… the other part. The human. Yali, I guess.
 
@@ -138,11 +138,11 @@ No wall can hold me. No truth can hide from me. No force can break me for as lon
 ?????
 <bigbreak>
 
-Getting the details was a lot harder than I had hoped. The Blood God – or at least, the part of me that was the Blood God – had a general sense of what had happened, but it didn't seem to remember specific events the way a human would. Going through its memories took a lot of intuition and guesswork. Sometimes, something just felt right. But if I tried to think about it more, I'd lose it. Eventually, I settled into saying everything out loud as soon as it came into my head – and half the time, I'd immediately feel like, <em>no, I didn't say that right</em>. And then I'd have to say, "no, that's not right", so that Yali would know to delete it from where she was taking notes on her phone. And then I would try to think of something else and see if <em>that</em> was right.
+Getting the details was a lot harder than I had hoped. The Blood God – or at least, the part of me that was the Blood God – had a general sense of what had happened, but it didn't seem to remember specific things that happened the way a human would. Going through its memories took a lot of intuition and guesswork. Sometimes, something just felt right. But if I tried to think about it more, I'd lose it. Eventually, I settled into saying everything out loud as soon as it came into my head – and half the time, I'd immediately feel like, <em>no, I didn't say that right</em>. And then I'd have to say, "no, that's not right", so that Yali would know to delete it from where she was taking notes on her phone. And then I would try to think of something else and see if <em>that</em> was right.
 
-"Stern take it, I thought it would be a lot easier to just let the god speak through me," I said.
+"Stern take it, I thought it would be a lot easier to just let the god speak through me, like I was doing before," I said.
 
-"No, it makes sense… The gods can't form human words on their own. So, it's less like the god speaking through you, and more like, like… you're <em>interpreting</em> for the god."
+"No, it makes sense… The gods can't form human words on their own. So, it's less like the god speaking through you, and more like, like… you're <em>interpreting</em> for the god. So when the god's thoughts are harder to reach –"
 
 "But the Endless Maze had some puzzles with words in them! And the Codex –"
 
@@ -154,7 +154,7 @@ Eventually, with effort, we managed to get some information out of it. A lot of 
 
 And there was a number. Four. The number of years when the Blood God had ?????
 
-"I should have checked!" yelled Yali. "I had these memories as soon as I knew I was the Farseer! Seventy years of dead Farseers, seventy sets of memories… <em>but there were never seventy sets of memories in me!</em> If only I had checked that there were actually seventy separate individuals in there!
+"I should have checked!" yelled Yali. "I had these memories as soon as I knew I was the Farseer! Seventy years of dead Farseers, seventy sets of memories… <em>but there were never seventy sets of memories in me!</em> If only I had checked that there were actually seventy separate individuals in there!"
 
 "Who in the Endless would think of checking something like that?? There's no way you can have known about any of thi–"
 
