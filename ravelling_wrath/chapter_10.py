@@ -89,7 +89,7 @@ I took off running and jumped clean over the hole. I grabbed the lever and gave 
 ?????
 
 
-[????? While I was waiting for Justicar to finish her side, I] idly manifested a brick wall to block the fire in front of me. I knew it wasn't going to <em>works</em>, I was just curious to see what would happen. Sure enough, the flames tore right through it. It didn't even burn – it just got instantly unmanifested wherever the flames touched it.
+[????? While I was waiting for Justicar to finish her side, I] idly manifested a brick wall to block the fire in front of me. I knew it wasn't going to <em>work</em>, I was just curious to see what would happen. Sure enough, the flames shot right through it. It didn't even burn – it just didn't block the flames at all.
 
 Justicar spotted what I was doing. "I told you," she said patiently, "the Seeking God has set its rules for these puzzles. There will not be a clever trick to bypass them."
 
@@ -437,11 +437,11 @@ Justicar must have realized the same thing, because she immediately tensed up. "
 
 ?????
 
-"But if it is only an illusion…"
+"But if they are only an illusion… if you will not actually be harmed…"
 
 "Actually, it still hurts a lot. I was just pretending earlier."
 
-"Then there must be another way! The Seeking God may not want to injure you, but it still represents an impassable barrier! The puzzle will have a more proper solution –"
+"Then there must be another way! Even if the flames do not actually injure you, that only means that the Seeking God did not want to injure you simply because you broke the rules. But they still represent an impassable barrier! The puzzle will have a more proper solution –"
 
 I grinned savagely. "No, it won't! You said it yourself! If there was a way to get out of this, it would <em>waste that potential of the situation</em> –"
 
@@ -449,19 +449,47 @@ Justicar glared at me.
 
 "I take back everything bad I ever said about the Seeking God, this is great! You're going to have to admit that you were wrong! You were wrong from the very beginning!"
 
-Justicar sighed. "If it comes to that, do you think I will have difficulty admitting that I was wrong? No one can be correct every time. The Stern asks that we remain humble and admit to our mistakes when they do occur. "
+Justicar sighed. "If it comes to that, do you think I will have difficulty admitting that I was wrong? No one can be correct every time. The Stern asks that we remain humble and admit to our mistakes when they do occur."
 
-?????
+"Oh, you're no fun."
+
+<bigbreak>
+
+We didn't find any other solution, of course. Justicar took forever to convince herself, but she finally gave in.
+
+Now, she was standing on her button, and I on the button in the fire room, about to do what we had to.
+
+"You are sure you're ready for this?"
+
+"'course I am."
 
 Justicar closed her eyes. With a strained voice, she recited, "<em>Let me strike when I must strike, even if it costs my life; but let me yield when I must yield, even if it costs my pride.</em>"
 
 "Oh, get on with it," I said. I knew I was safe, but just standing here waiting to be torched was giving me the jitters.
 
+Justicar sprinted towards the open door on her side. I didn't see much after that, because there were flames all around me. Searing pain struck at the entire surface of my skin. It actually felt kind of kickass, standing proudly in the middle of the inferno, tensing my whole body to resist the pain.
 
- 
-?????
+Moments later, the flames fizzled away. The door out of the fire room was open in front of me.
 
-"But there is something I wonder," said Justicar dourly. "These puzzles were constructed for both of us. If you are correct, and the solution we used was the one the Seeking God intended, then I have to admit that it <em>did</em> have an worthy lesson for me. But then, surely, somewhere in this, there must also be a lesson for <em>you</em>?"
+"Blood Child, are you all right?" said Justicar anxiously.
+
+I couldn't resist. I hunched over, pretending I was still in horrible pain.
+
+"Tell me you're all right! You can come out of that room now! I've opened the exit! Come on out! Please! Rinn!!"
+
+I straightened up, grinning. "You actually called me by my name!!"
+
+Justicar relaxed immediately. "I should have known…" she muttered. "Just come over here."
+
+I hurried out of the fire room. After the doors we had just gone through, the two sides of the puzzle joined together again, and there was only the final exit door left. It was another huge doorway, leading into a cylindrical tunnel, its walls shiny and black and perfectly smooth. The tunnel looked nothing like the series of puzzles we'd just done.
+
+"Looks like we just finished the last puzzle! High-five!"
+
+To my slight surprise, Justicar actually high-fived me back. "Yes, this is an accomplishment we can be proud of."
+
+I headed for the exit, expecting Justicar to follow me.
+
+"But there is still something I wonder," said Justicar dourly. "These puzzles were constructed for both of us. If you are correct, and the solution we used was the one the Seeking God intended, then I have to admit that it <em>did</em> have… some form of lesson for me. But then, surely, somewhere in this, there must also be a lesson for <em>you</em>?"
 
 I smirked. "Nah, it just means I was right all along! I'm the one who thought, uh…" Actually, when I thought about it, I hadn't really disagreed with Justicar about anything. I had just sort of… gone along with… "Oh. My. GODS!! I can't believe it, I seriously can't believe it! I've gone this entire way, this ENTIRE way, acting like I hate the rules, like I think they're all bullshit! But when you told me what you thought the rules were – the <em>very first time you told me</em> – I BELIEVED you! I could have checked any time I wanted! I could have stuck my hand in the fire whenever I wanted to, and then I could have skipped past all the puzzles! But the Seeking God <em>knew</em> I wouldn't do it! It knew I would just –" the words came reluctantly to my lips "– <em>trust</em> you."
 
