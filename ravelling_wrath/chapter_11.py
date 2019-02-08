@@ -22,7 +22,7 @@ posts = [
 
 Alchemist kept clinging to the other side of the ladder. It was as if they thought they could hide from me, even though I could obviously see them right through it.
 
-"It's okay, I'm not going to hurt you! It's the Seeking God! It just – it absolutely fucked me over!" I raged. Alchemist seemed to shrink even further away from me, if that were possible. Right, Alchemist was really sensitive. I couldn't just <em>tell</em> them I wasn't mad at them, I had to <em>act</em> in a gentler way too. It was grating to have to do that right after what the gGod just did to me. But I really didn't want to hurt Alchemist, and as far as the "finding Yali" thing went, I was basically fucked either way.
+"It's okay, I'm not going to hurt you! It's the Seeking God! It just – it absolutely fucked me over!" I raged. Alchemist seemed to shrink even further away from me, if that were possible. Right, Alchemist was really sensitive. I couldn't just <em>tell</em> them I wasn't mad at them, I had to <em>act</em> in a gentler way too. It was grating to have to do that right after what the god just did to me. But I really didn't want to hurt Alchemist, and as far as the "finding Yali" thing went, I was basically fucked either way.
 
 Belatedly, I turned my bleeding blade back into a regular arm. I had just been waving it in Alchemist's general direction, hadn't I. Stern take it all.
 
@@ -30,7 +30,7 @@ Belatedly, I turned my bleeding blade back into a regular arm. I had just been w
 
 Alchemist didn't come out from behind the ladder.
 
-"Okay, fine, I'll just, uh, wait over here until you're ready," I said. I sat down on a rock a fair distance away and started idly kicking at the sand with my foot.
+"Okay, fine, I'll just, uh, wait over here until you're ready," I said. I sat down on a big rock a fair distance away and started idly kicking at the sand with my foot.
 
 [????? Description of this physical environment?]
 
@@ -64,11 +64,11 @@ I jumped down from the ladder. "Why are you putting the rocks like that? I mean,
 
 "I… don't know? It just, felt, like, something."
 
-"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. [????? Alchemist was barefoot, wearing clothes that looked loose and comfy] I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the land. The sand felt [????? good] between my toes. Even the stones were mostly smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
+"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. Then I promptly got distracted by noticing Alchemist's feet. Alchemist was barefoot on the fine sand, wearing a loose robe that came down to their ankles. It looked soft and warm and comfy. I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the land. The sand felt [????? good] between my toes. Even the stones were mostly smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
 
 I cheerfully jumped down into a sitting position next to Alchemist. "So, how do you come up with these designs?" I said, picking up one of the stones to look at it. Alchemist flinched. "Oh, uh, was I not supposed to touch that? Let me just put it back." Luckily, I remembered where to put it back. I tried to make more conversation with Alchemist, but they seemed reluctant. "I could give you some space! I mean, if that's what you'd like –"
 
-"I… maybe?" I could tell they were uncomfortable, but I couldn't tell whether they were uncomfortable about saying no or uncomfortable about saying yes, Stern take it. Whatever. I wanted to check this place out anyway, see if there was any more interesting landmarks behind the fog.
+"I… maybe?" I could tell they were uncomfortable, but I couldn't tell whether they were uncomfortable about saying no or uncomfortable about saying yes, Stern take it. Whatever. I wanted to check this place out anyway, see if there were any more interesting landmarks behind the fog.
 
 "I'll be back soon." I manifested the map. "If I get lost in the fog, I'll just go towards the Cloven Earth." That was the Broken God's symbol, indicating where Alchemist was. "I mean, unless the Seeking God messes with me. But apparently, the Seeking God can mess with me whenever the fuck it wants, so it doesn't make a difference, does it," I said irritably. "So yeah, uh… see you soon."
 
@@ -80,7 +80,7 @@ Before long, I was bored. I headed back towards Alchemist. I was half expecting 
 
 Alchemist startled and dropped the rock they were holding.
 
-?????
+"Oh, sorry! I didn't mean to disturb you, I just thought, we could talk about, uh…" I stood there stupidly.
 
 "It's, okay? We can, talk, I guess?"
 
@@ -193,7 +193,7 @@ Alchemist leaned in to take a closer look. "Is that, the one that, broke?"
 
 "Maybe, if, you…?"
 
-"If I what, manifested it back together?" I held the phone at arm's length, as if I was trying to find an angle to fix it from. "I wish. But Yali said we probably can't manifest on our phones because we don't know how they work – wait, no, she said we couldn't <em>recharge</em> them because we don't really know how to put them <em>completely</em> back to how they were before – wait, that's it!" I wished I had Yali here to tell me whether it would actually work. But it wasn't like my phone could get <em>more</em> broken. I focused my mind at the phone, willing it to change back to how it had been right before it broke. Right away, the cracks disappeared and the screen lit up.
+"If I what, manifested it back together?" I held the phone at arm's length, as if I was trying to find an angle to fix it from. "I wish. But Yali said we probably can't manifest on our phones because we don't know how they work – wait, no, she said we couldn't <em>recharge</em> them because we don't really know how to do anything but put them <em>completely</em> back to how they were before – wait, that's it!" I wished I had Yali here to tell me whether it would actually work. But it wasn't like my phone could get <em>more</em> broken. I focused my mind at the phone, willing it to change back to how it had been right before it broke. Right away, the cracks disappeared and the screen lit up.
 
 I threw my arms around Alchemist and hugged them tight. "That's amazing! You're amazing, Alchemist!"
 

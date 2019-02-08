@@ -305,9 +305,11 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "Are you kidding me!! If I throw someone in a pit full of vipers, do you think I get to say, 'oh, it's not my fault, I'M not the one who put those vipers in that pit'!?! Or do you want to lay the blame where it fucking belongs?"
 
-????? [????? "or maybe I don't care about order as much as I care about people's lives!"] [
+"But where would that lead? If officers cannot make arrests because of the <em>possibility</em> of an unjust conviction, how will the order of the city be preserved? I believe you may not have thought this through."
 
-"Very well." Justicar opened her arms. "If you want to hold me individually responsible for every violent act ever performed in the name of the Stern, perhaps <em>I</em> should hold <em>you</em> responsible for the damage caused by <em>your</em> ideology."
+"Or maybe I just don't care about order as much as I care about people's lives! I don't care what kind of excuses you have! If you're the one who did something, it's your fault!"
+
+"Very well." Justicar opened her arms. "If you want to hold me individually responsible for every violent act ever performed under the authority of the Stern Temple, perhaps <em>I</em> should hold <em>you</em> responsible for the damage caused by <em>your</em> ideology."
 
 "And what's that?"
 
@@ -315,7 +317,7 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "Oh yeah? When did that happen?"
 
-"The only reason it has not happened is the fact that <em>the Stern are still in control</em>. What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order [????? set that up], but that is a contradiction, because order is the way that people's lives are preserved. If the laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Food?"
+"The only reason it has not happened is the fact that <em>the Stern are still in control</em>. What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order, but that is a contradiction, because order is the way that people's lives are preserved. Even at the most basic level, if laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Food?"
 
 "I mean, if I'm in charge, I can just tell someone to import food into the city."
 
@@ -557,7 +559,7 @@ It felt like a distant scream. A wave of energy passed over me, an aching splash
 
 "What are you doing?!" Justicar yelled.
 
-I grinned savagely. If the Seeking God was in pain, that meant I was winning. I heaved again, flexing and straining with every muscle along the length of my body. The screaming exploded into my ears, like a jackhammer, and gong, and a crying baby rolled into one. Reality flickered around me, becoming a mass of discordant color and stench.
+I grinned savagely. If the Seeking God was in pain, that meant I was winning. I heaved again, flexing and straining with every muscle along the length of my body. The screaming exploded into my ears, like a jackhammer and a gong and a crying baby rolled into one. Reality flickered around me, becoming a mass of discordant color and stench.
 
 "That's enough!" shouted Justicar. "Stop this immediately!" She stepped forward, her sword bouncing at her side as she summoned a shard of white light in her hands. I could <em>feel</em> her light as a blank spot in my thunderhead of rage. If that light touched me, it would scrub away my strength, erase everything I was fighting for.
 
@@ -569,13 +571,13 @@ The world shattered.
 
 I stumbled and landed on my hands and knees.
 
-What had just happened? I looked around. It looked like a pretty normal place, as much as any part of the Seeking God's world was normal. [????? Medium length description of a weird room/landscape]
+What had just happened? I looked around. It looked like a pretty normal place, as much as any part of the Seeking God's world was normal. It was just a foggy landscape of sand and smooth rocks. The only weird thing was a bunch of ladders sticking vertically out of the ground.
 
-I summoned the map in my hand. With a sinking feeling [????? can it be the feeling where you're desperately looking for some information while you expect that the information will be something that hurts you?], [????? I zeroed in on the Watchful Eye. It was very far away].
+Where was I?! I summoned the map in my hand, a horrible feeling sinking into my chest. On a gut level, I already knew I was fucked. But I had to know. Staring into the map, I zeroed in on the Watchful Eye, right where it was before. And then I looked for where I was, for the Burning Heart. I saw the map zoom away from the courthouse, sweeping past every puzzle Justicar and I had done, sweeping past the fountain room itself. And it didn't stop there. I saw caves and castles and labyrinths sweep by, impossible landscapes and mazes of flowing ice. By the time it reached the Burning Heart, it had gone further than the entire distance I'd traveled in this world. I was the farthest away from Yali that I could <em>possibly</em> be.
 
-"I'LL KILL YOU!!!" I snatched up one of the rocks in my hand, and, imagining that it was the Seeking God, I smashed it to pieces. Then I sprouted a Blood Blade from my heel and stomped on the broken rock, slicing it into smaller and smaller slivers. "YOU THINK YOU CAN JERK ME AROUND, LIKE THIS IS ALL A BIG GAME?! I AM BLEEDING ON THE FLOOR, AND YOU STILL USE MY HEART AS A PLAYTHING?! I DON'T CARE IF YOU'RE A GOD! I WILL TEAR YOU TO PIECES!" I whirled around, my arm whipping into a long blade with a bleeding edge, my eyes trying to zero in on whatever looked most like the heart of the god.
+"I'LL KILL YOU!!!" I roared. I snatched up a rock in my hand, and, imagining that it was the Seeking God, I smashed it to pieces. Then I sprouted a Blood Blade from my heel and stomped on the broken rock, slicing it into smaller and smaller slivers. "YOU THINK YOU CAN JERK ME AROUND, LIKE THIS IS ALL A BIG GAME?! I AM BLEEDING ON THE FLOOR, AND YOU STILL USE MY HEART AS A PLAYTHING?! I DON'T CARE IF YOU'RE A GOD! I WILL TEAR YOU TO PIECES!" I whirled around, my arm whipping into a long blade with a bleeding edge, my eyes trying to zero in on whatever looked most like the heart of the god.
 
-But when my eyes began to make sense of what I saw, it was only [????? a bunch of stuff]. And among the [????? stuff], the frozen, terrified face of the Alchemist.
+But when my eyes began to make sense of what I saw, it was only more ladders and rocks and fog. And behind one of the ladders, scarcely two meters away from me, the frozen, terrified face of the Alchemist.
 
 
 
