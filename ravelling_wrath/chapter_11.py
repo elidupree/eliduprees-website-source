@@ -32,15 +32,13 @@ Alchemist didn't come out from behind the ladder.
 
 "Okay, fine, I'll just, uh, wait over here until you're ready," I said. I sat down on a big rock a fair distance away and started idly kicking at the sand with my foot.
 
-[????? Description of this physical environment?]
+It really <em>was</em> just sand and rocks around us. The rocks came in all sizes – there was everything from tiny pebbles to huge round balls of rock, half-sunk into the sand but still as tall as we were. And scattered randomly among the rocks, there was the occasional ladder – all looking like some sort of cheap, translucent plastic, and all sticking up straight out of the ground into the air.
 
-"You're – you're definitely not going to hurt me?" said Alchemist tentatively, poking their head out from around the ladder.
+"You're – you're definitely not going to hurt me?" said Alchemist tentatively, poking their head out from around their ladder.
 
 "Of course not! I'd never hurt <em>you</em>, you're – you're adorable!"
 
-Alchemist giggled a little.
-
-?????
+Alchemist giggled a little. A little at a time, they moved out from behind the ladder. Their mouth moved slightly, as if they were trying to say something, but eventually they stopped and we just stood there awkwardly.
 
 "So, what <em>is</em> this place?" I asked. "It doesn't look like the rest of the Endless Maze." Most of this world had been made out of tiny rooms and twisty passageways, with puzzles hidden behind every corner. But right now, we were in the middle of a big landscape, stretching out in all directions. If it wasn't for the ladders sticking up everywhere, it would look completely normal.
 
@@ -50,7 +48,7 @@ Alchemist giggled a little.
 
 "I… maybe?" said Alchemist doubtfully.
 
-"Or, wait, what if the <em>Seeking</em> makes different puzzles for each of us? Justicar's puzzles had rigid rules, too. I mean, the rules were a trick, but it was still <em>based on</em> rules ?????
+"Or, wait, what if the <em>Seeking</em> makes different puzzles for each of us? Justicar's puzzles had rigid rules, too. I mean, the rules were a trick, but it was still <em>based on</em> rules, it was, like, built for someone who liked the <em>idea</em> of rules…" ?????
 
 ?????
 
@@ -92,9 +90,15 @@ We sat down next to each other on a big rock. Alchemist reached out hesitantly a
 
 "I… maybe… I used to feed… pigeons? Before…" Alchemist shrugged. Well, at least I could tell what that shrug meant. It meant <em>before I got yanked out of my life by the god</em>.
 
-"I'm sorry. It must be hard for you, having the gods pull you out of your life all of a sudden." Alchemist stiffened. "
+"I'm sorry. It must be hard for you, having the gods pull you out of your life all of a sudden." Alchemist stiffened. "Sorry! I didn't mean to make you remember anything traumatic!"
+
+[????? "If, you, want, to, talk, about, –"]
+
+
 
 ?????
+
+"It's, okay, –"
 
 "Look," I said, "I can tell you're not comfortable around me."
 
@@ -169,7 +173,7 @@ The weirdest thing was the world around us.
 
 "What the – I mean, what do you mean by that?"
 
-"One time, I, was lying down, and I saw, a shape? In the ladders, the light shining through the ladders. And then I made the shape, with the stones. And then, it gave me another shape… There was a sequence…"
+"One time, I, was lying down, and I saw, a shape? On the, rocks, there was a, shadow, the light between the different rocks. It made a shape. And then I made the shape, with the stones. And then, it gave me another shape… There was a sequence…"
 
 "Did it lead to something?"
 
@@ -241,13 +245,23 @@ When we pulled away,
 
 ?????
 
-[????? More time passing]
+<bigbreak>
 
-[????? Rinn cuddling with Alchemist]
+The more time I spent among the rocks here, the more they seemed… just not quite right. For one thing, rocks were supposed to have rough edges. But all the rocks here were smooth and blobby, almost… organic. And the world was almost completely repetitive, it was like we kept walking past the same rock over and over again. But it was never <em>exactly</em> the same. Seeing them <em>almost</em> settle into a pattern, then be <em>slightly</em> off the pattern, was downright eerie.
+
+But none of that was the <em>really</em> weird thing about them. The <em>really</em> weird thing about them was…
+
+I had no idea.
+
+It was driving me crazy. I felt trapped in this place. I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure the Seeking God wasn't somehow cheating me out of my progress. But every time I checked it, we were in a slightly different place. ?????
+
+[????? Rinn currently cuddling with Alchemist]
+
+[????? maybe Rinn being impatient to get somewhere, and alchemist saying maybe you shouldn't try so hard, then Rinn is annoyed that suppresses her annoyance, then:]
 
 Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was having to suppress my feelings all the time. And sure, I had to suppress some of my feelings with Yali, too, but at least Yali let me <em>be</em> angry, just as long as it wasn't at <em>her</em>.
 
-That was the problem – I liked Alchemist, but they just… <em>weren't Yali</em>. Even right now, I was comfortable enough here cuddling with Alchemist in the soft cushions I'd made, but it just wasn't the same. I missed Yali's big strong arms around me… Her lips, her wide soft cheeks… If only I had her here right now, she could ruffle my hair, squish me under her weight… I imagined her squishing me, pressing into me like she had when we wrestled on that one day before the Ravelling. That was how life should be. Why wouldn't they let us have that?
+That was the problem – I liked Alchemist, but they just… <em>weren't Yali</em>. Even right now, I was comfortable enough here cuddling with Alchemist in the soft cushions I'd made, but it just wasn't the same. I missed Yali's big strong arms around me… Her lips, her wide soft cheeks… If only I had her here right now, she could ruffle my hair, squish me under her weight… I imagined her squishing me, pressing into me like she had when we wrestled on that one day before the Ravelling. That was how life should be. Why wouldn't they let us have that? [????? Expand how much time this paragraph feels like, maybe more than one paragraph]
 
 I drifted out my daydream to find that I was nuzzling up beside Alchemist's head, practically brushing my lips against their neck. I pulled back sharply. "I'm not – I didn't mean –"
 
@@ -265,7 +279,7 @@ I <em>did</em> like Alchemist in <em>that way</em>.
 
 My feelings were a huge mess. It wasn't supposed to be Alchemist here, it was supposed to be Yali! But the gentle pressure on my cheek told a different story. My heart wanted to sink into Alchemist, to leave the rest of my worries behind. I wasn't even sure if I liked them for themselves or if I was just trying to pretend they were Yali. And I didn't know which was worse. If I just used them as a temporary substitute for Yali, that would make me an asshole! But if I pulled away, then… I'd be… so alone…
 
-Tears came into my eyes. I clung to Alchemist, clutching at the soft back of their [????? top] helplessly.
+Tears came into my eyes. I clung to Alchemist, clutching at the soft back of their robe helplessly.
 
 ?????
 
