@@ -161,9 +161,13 @@ Another nod.
 
 ?????
 
+<bigbreak>
+
 Traveling with Alchemist was oddly comforting.
 
 After a while, it had finally sunk in that I was never going to find Yali anytime soon. I had felt defeated, bitter, like there was a yawning hole in me, an empty space where ????? should have been. But then Alchemist came and… <em>filled</em> some of that space. I didn't understand how, but somehow, it was easier to just focus on what I was doing with Alchemist than to worry about the gods. The gentle resonance of their voice was almost enough to distract me.
+
+Bit by bit, they started to share more details about their life before the Ravelling. Their family life sounded really boisterous. They had five brothers and three sisters, and a bunch of aunts and uncles who lived with the family most of the year as well. Before the Ravelling, I'd always been like, "siblings, who needs 'em", but the way Alchemist described it, it sounded wonderful. They kept telling me about different little traditions and habits everyone had. Alchemist obviously loved all of their siblings deeply, it was really sweet. Of course, it was also sad. Sometimes, they just talked about everyone happily, lost in the fond memories. Other times, they barely got started before they [????? started crying]. But that made sense to me now. Having random, different feelings about the same thing, depending on which thought happened first, was kind of what I'd been living with for a while.
 
 The weirdest thing was the world around us.
 
@@ -183,9 +187,9 @@ The weirdest thing was the world around us.
 
 "It's okay. Maybe it'll come back later."
 
-I was kinda tired from walking, so I manifested one of my giant fluffy couches and flopped down in it. ?????
+I was kinda tired from walking, so I manifested one of my giant fluffy couches and flopped down in it. Alchemist joined me, and we leaned together, shoulder to shoulder.
 
-????? I idly pulled out my broken phone and fidgeted with it in my hand. Twirling it around to catch the light, idly poking at the buttons as if it would turn on again.
+I idly pulled out my broken phone and fidgeted with it in my hand. Twirling it around to catch the light, idly poking at the buttons as if it would turn on again.
 
 Alchemist leaned in to take a closer look. "Is that, the one that, broke?"
 
@@ -253,7 +257,7 @@ But none of that was the <em>really</em> weird thing about them. The <em>really<
 
 I had no idea.
 
-It was driving me crazy. I felt trapped in this place. I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure the Seeking God wasn't somehow cheating me out of my progress. But every time I checked it, we were in a slightly different place. ?????
+It was driving me crazy. I felt trapped in this place. Even if I wasn't going to get to Yali, it was so stupid to not even TRY to get closer to her! So I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure I was actually getting somewhere and the Seeking God wasn't somehow cheating me out of my progress. But [????? whenever I checked it, we had never gone in the direction I thought we were going.] ?????
 
 [????? Rinn currently cuddling with Alchemist]
 
@@ -279,7 +283,7 @@ I <em>did</em> like Alchemist in <em>that way</em>.
 
 My feelings were a huge mess. It wasn't supposed to be Alchemist here, it was supposed to be Yali! But the gentle pressure on my cheek told a different story. My heart wanted to sink into Alchemist, to leave the rest of my worries behind. I wasn't even sure if I liked them for themselves or if I was just trying to pretend they were Yali. And I didn't know which was worse. If I just used them as a temporary substitute for Yali, that would make me an asshole! But if I pulled away, then… I'd be… so alone…
 
-Tears came into my eyes. I clung to Alchemist, clutching at the soft back of their robe helplessly.
+Tears came into my eyes. I clung to Alchemist, clutching at the soft back of their robe helplessly. Alchemist held me gently, ?????
 
 ?????
 
@@ -299,7 +303,7 @@ I was surprised by how confident Alchemist sounded. I had pretty much been expec
 
 "I know," said Alchemist.
 
-?????
+<bigbreak>
 
 Being intimate with Alchemist was like having one injury healed and another injury ripped back open. ?????. But the more we touched, the more I couldn't stop thinking about Yali, too. [????? I also couldn't stop thinking about Yali]
 
@@ -310,8 +314,6 @@ And the more I thought about Yali, the more it woke up the <em>other</em> part o
 Why was I wasting my time kissing someone irrelevant like Alchemist when I had more important things to do?!
 
 [???? worry about forgetting Yali for Alchemist?]
-
-[????? doesn't feel right to make you support us adults]
 
 [????? we came to a gorge]
 
