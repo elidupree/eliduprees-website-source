@@ -263,6 +263,10 @@ It was driving me crazy. I felt trapped in this place. Even if I wasn't going to
 
 [????? maybe Rinn being impatient to get somewhere, and alchemist saying maybe you shouldn't try so hard, then Rinn is annoyed that suppresses her annoyance, then:]
 
+[????? "Maybe the reason you're not getting anywhere is that you are trying to hard"]
+
+"What, so I'm not supposed to try
+
 Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was having to suppress my feelings all the time. And sure, I had to suppress some of my feelings with Yali, too, but at least Yali let me <em>be</em> angry, just as long as it wasn't at <em>her</em>.
 
 That was the problem – I liked Alchemist, but they just… <em>weren't Yali</em>. Even right now, I was comfortable enough here cuddling with Alchemist in the soft cushions I'd made, but it just wasn't the same. I missed Yali's big strong arms around me… Her lips, her wide soft cheeks… If only I had her here right now, she could ruffle my hair, squish me under her weight… I imagined her squishing me, pressing into me like she had when we wrestled on that one day before the Ravelling. That was how life should be. Why wouldn't they let us have that? [????? Expand how much time this paragraph feels like, maybe more than one paragraph]
@@ -317,6 +321,7 @@ Why was I wasting my time kissing someone irrelevant like Alchemist when I had m
 
 [????? we came to a gorge]
 
+
 [????? More impatience spilling out]
 
 "I didn't mean that," I said through gritted teeth. "Look, I'm going to, uh, <em>go</em>. Like, for a walk."
@@ -331,7 +336,15 @@ As I walked, I thought about ?????
 
 "You are <em>not me</em>," I shouted into the void. "I don't care what you want! I don't care about your fucking murder quest! And I'm sick of you trying to take away my chance to enjoy being with Alchemist when there's nothing we can even do anyway! And so, I am going to go back up there, and be everything Alchemist wants me to be! I will treat them like an absolute princess! I mean, a… whatever the non-binary equivalent of princess is! A princ… uh… whatever, actually even if they were a dude I'd still say I was going to treat them like a princess! So that's what I'm going to do! You hear me?!"
 
+The wind howled through the gorge in front of me. From the part of me that was the Blood God, I felt… Pain. Despair. Empathy. Anger tearing in more than one direction. It was hard to tell what it was really feeling. But with the way it was fighting with itself, it definitely wasn't united against me. <em>I</em> was the strong part. <em>I</em> was the one who knew what I wanted.
+
+[????? Maybe another, conclusive, statement directed at the Blood God?]
+
+[????? Satisfiedly climbing back up the canyon]
+
 ?????
+
+[????? making progress by not trying; resentment because this was technically a lesson, but the Seeking God had no right to force lessons on me at a time like this]
 
 [????? Alchemist took a walk and then didn't come back and then I went and found them crying]
 
