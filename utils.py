@@ -33,7 +33,7 @@ def word_count (string):
   return len(re. findall (r"\w[\w']*", string))
 
 def auto_paragraphs (string):
-  return re.sub(r"""(?m)^([\w"]|<strong|<em).+?$""", lambda match: "<p>" + match.group (0) + "</p>", string)
+  return re.sub(r"""(?m)^([\w"]|<strong|<em|\[?\?\?\?\?).+?$""", lambda match: "<p>" + match.group (0) + "</p>", string)
 
 def format_for_url(string):
    # ,.!$+*'() are allowed in URLs, but I've ommitted them because they will almost always just make the URL look ugly, and some programs omit them from automatically linkified text URLs if they're at the end.
