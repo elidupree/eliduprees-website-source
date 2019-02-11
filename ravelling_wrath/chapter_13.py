@@ -163,9 +163,15 @@ It didn't feel anything like when she'd touched my heart on that first day. It w
 
 "Did it work?" I said. "What's it like?"
 
-"It's like I can see you from all sides at once," said Yali.
+"It's like I can see you from all sides at once," said Yali. "I can see the Burning Heart on your back…"
 
 ?????
+
+I <em>wanted</em> it to be hard to step away from her. I wanted my heart to cling to her ?????. But ?????. It felt like a ????? slipping between limp fingers. I muttered a halfhearted goodbye and began my journey to the partial.
+
+<bigbreak>
+
+
 
 [????? Rinn trying to do the paths the way she did before, through dissociation – the Rinn part of her recoils against that and they reach an awkward "compromise that no part of me was really okay with"]
 
@@ -180,6 +186,26 @@ How had this all gone so horribly wrong? I had only done what I felt like I was 
 
 
 [????? Walking along the Blood Child's Path: the statues ask Rinn to say moderately negative things about herself, and Rinn tries to say very negative things instead, but they reject it]
+
+?????
+
+[????? Sat down out of overwhelming fatigue, sank down with my back to a statue, stayed sitting for I don't know how long,]
+
+????? the hard clack-clack-clack of someone else's uniform shoes on the floor. I couldn't muster the energy to lift my eyes and see who it was. But the footsteps came closer and closer. I finally convinced myself to raise my head.
+
+I almost didn't recognize her at first. She was wearing the same uniform as the rest of us, instead of her usual armor. But she still had the sword at her side. That was a dead giveaway.
+
+Justicar.
+
+Her voice came cutting through the fog in my head. "Is it true that you struck the Farseer with your blades?"
+
+She was standing [????? a few meters away, facing me like a challenger; maybe more than one sentence]. [????? I hesitated to speak]. My voice came out thin and raspy. "I didn't want to," I said.
+
+?????
+
+"?????," she said.
+
+And then she drew her sword.
 
 ''',
 },

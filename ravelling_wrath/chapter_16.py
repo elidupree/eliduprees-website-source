@@ -57,9 +57,9 @@ I gripped her shoulders. "Then it's NOT going to happen! Didn't you always say t
 
 "It's not <em>just</em> that I didn't <em>foresee</em> it," Yali sobbed. "I was the one who told Justicar what happened. I didn't think –"
 
-"Look, it's not your fault, there's no way you could have know AFTER EVERYTHING WE'VE BEEN THROUGH, YOU SOLD ME OUT TO THE STERN <strong>AGAIN?!?!!</strong>"
+"Look, it's not your fault, there's no way you could have known she was going to AFTER EVERYTHING WE'VE BEEN THROUGH, YOU SOLD ME OUT TO THE STERN <strong>AGAIN?!?!!</strong>"
 
-For a moment, I was stunned. A whole second voice had ripped out of me. And a new feeling thundered inside me, saying that this was the <em>truth</em> roaring up through my lungs, that I was done with trying to sugarcoat what was glaring in all our faces. And in the next instant, I was gripped by the cold certainty that those thoughts <em>had not been mine</em>. I pushed myself away from Yali in terror. "No no no, not now, I can't let the Blood God take over –"
+For a moment, I was stunned. A whole second voice had ripped out of me. And a new feeling thundered inside me, saying that this was the <em>truth</em> roaring up through my lungs, that I was done with trying to sugarcoat what was glaring in all our faces. And in the next instant, I was gripped by the cold certainty that those thoughts had not been mine. I pushed myself away from Yali in terror. "No no no, not now, I can't let the Blood God take over –"
 
 Yali's eyes were wide. "When… when did I sell you out to the Stern the <em>first</em> time?"
 
@@ -92,6 +92,8 @@ The answer blazed in my mind with perfect clarity. I struggled to find the words
 "What did I do to you?"
 
 "Look for yourself!" I screamed. With a crash, the clouds split apart and a shaft of light landed on me. All over my body, wounds began to appear. A bloody gouge across my stomach. A dozen holes through my chest. Multiple slashes to my arms and legs, that felt like they could have completely severed them. Memories flooded into my mind, of myself, in my dozens of other bodies, crawling desperately as my lifeblood flowed away from me. The pain of the wounds flooded through me, but it felt like catharsis. I was finally laying the truth out in the open. "These are the wounds your Justicars and your <em>laskueh</em> have dealt to me! Now do you see what you have done?!" I demanded. I doubled over, blood dripping from my forehead into my eyes. "I have been blinded, maimed, brought to my knees, shredded limb from limb! You tore down my temple and forced my people under the law of the Stern! Your <em>laskueh</em> have trampled over my body to make your perfect world! But I will not go down without a fight! I will tear the worlds apart before I allow myself to be erased by <em>you</em>!"
+
+?????
 
 "So the Waiting God is trying to erase you? And you kill the Farseer to stop it from happening?"
 

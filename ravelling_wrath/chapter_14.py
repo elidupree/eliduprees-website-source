@@ -18,7 +18,7 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 14: ", '''<p></p>''') +'''
   
-[????? Justicar was squaring off with me with the sword]
+My eyes followed the point of Justicar's sword hovering in front of me.
 
 "So you're gonna kill me," I said hollowly. I was still sitting with my back to one of the statues. I could have gotten up to face her, but what was the point? In the state I was in, I wouldn't stand a chance against her.
 
@@ -38,11 +38,15 @@ Justicar looked at me incredulously. "A Blood Child three layers deep, and you c
 
 "See? I'm not what you think I am!" I said desperately, not trying to convince Justicar as much as I was trying to convince myself. "You don't understand –"
 
-"I understand enough!"
+"I understand enough! I was told that you could hold back the Blood God, [????? and for a time I was foolish enough to believe it [except not fully believe]]. But you are a Blood Child through and through, and now, you have crossed the final boundary. From here on, your very existence places us all in danger."
 
-?????
+"No, no, no…" I moaned.
 
-The sword hung high in the air above me.
+"I am sorry. But there is nothing I can do for you except to make this quick and painless."
+
+She stepped forward. The sword rose up in an arc, gleaming with a white light, a numbing light that held me transfixed and tried to erase every thought of fear and pain.
+
+For a long moment, the sword hung high in the air above me.
 
 A strange relaxation came over me. So this was it. It would all be over soon. The sword would enter my body. I would die. There would be no one left to put Yali in danger. She would go on. She at least would escape from this place. Even if I didn't get to escape our fate myself, at least my sacrifice would –
 
@@ -76,7 +80,7 @@ I saw Justicar react, moments too late. My blade landed squarely onto her cheek.
 
 And then it <em>stopped</em>.
 
-My bones shook with the force of the blow. Justicar lifted one hand from her sword and took the tip of my blade between her fingers. She firmly pushed it aside, making it scrape over her cheek like it was my fingernails being scraped over concrete. And once her fingers passed off of the side of her face, they revealed a smooth and flawless cheek, without a trace of a scratch to be seen.
+My bones shook with the force of the blow. Justicar lifted one hand from the hilt of her sword and took the tip of my blade between her fingers. She firmly pushed it aside, making it scrape over her cheek like it was my fingernails being scraped over concrete. And once her fingers passed off of the side of her face, they revealed a smooth and flawless cheek, without a trace of a scratch to be seen.
 
 I stumbled away, uncomprehending. "<em>How?</em>" I gasped. How had my only weapon been so powerless to injure her?
 
@@ -84,7 +88,7 @@ I stumbled away, uncomprehending. "<em>How?</em>" I gasped. How had my only weap
 
 "No fair," I said, my voice breaking.
 
-"The battle between good and evil should not be <em>fair</em>," Justicar declared. "The Stern God understands this. And that is why the Stern has granted me the power to do what must be done. None of your flailing has had the slightest chance of changing this. Do you think a more powerful weapon would have saved you? The Blood God does not even comprehend what it is fighting against. A Justicar is not simply a human who will fold over when struck with a blade. Even if you find a way to pierce my armor, even if you <em>cut out my heart</em>, the will of the Stern God will always carry me forward."
+"The battle between good and evil should not be <em>fair</em>," Justicar declared. "The Stern God understands this. And that is why the Stern has granted me the power to do what must be done. None of your flailing has had the slightest chance of changing this. Do you think a more powerful weapon would have saved you? The Blood God does not even comprehend what it is fighting against. A Justicar is not simply a human who will fold over when struck with a blade. Even if you find a way to pierce my defenses, even if you <em>cut out my heart</em>, the will of the Stern God will always carry me forward."
 
 She advanced towards me.
 
