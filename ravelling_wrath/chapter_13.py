@@ -97,9 +97,15 @@ Yali held me down. "I'll be using this Seeing regularly. If anything is going to
 
 ?????
 
+"You can go straight to the exit portal. The Stern God won't approve, but it won't stop you. We'll meet up again in the next layer. It'll be okay."
+
+But as soon as she said that, another horrible thought screamed in my head. "But what if I don't?! What if I get to the portal and I can't make myself go through it?!!"
+
+"I, I –"
+
 "What if you, used, the…" began Alchemist.
 
-"I'm not going to use that. It's not needed."
+"I'm not going to use that," said Yali. "It's not needed."
 
 "But, look how scared she is!" said Alchemist insistently.
 
