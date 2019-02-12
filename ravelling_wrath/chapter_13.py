@@ -167,10 +167,25 @@ It didn't feel anything like when she'd touched my heart on that first day. It w
 
 ?????
 
-I <em>wanted</em> it to be hard to step away from her. I wanted my heart to cling to her ?????. But ?????. It felt like a ????? slipping between limp fingers. I muttered a halfhearted goodbye and began my journey to the partial.
+I <em>wanted</em> it to be hard to step away from her. I wanted my heart to cling to her ?????. But ?????. It felt like a ????? slipping between limp fingers. I muttered a halfhearted goodbye and began my journey to the portal.
 
 <bigbreak>
 
+I found myself on the Imminent's Path, trying to ignore the distractions. It was almost impossible. When something brushed my neck, I whirled around to catch it, and I lost all my progress. And it kept happening. It was driving me crazy. Hadn't I done this before?
+
+Stuck back at the beginning again, I glared at the path in front of me. How had I done it so easily before? It was a struggle to remember. I felt like there was a thick haze over all my memories of… before I got back. But I dug it out. To get through the Imminent's Path, I had… I had deadened my sense is, blocking out everything.
+
+My mind recoiled against that. The part of me that was <em>Rinn</em> recoiled against that. I would NOT abandon my own feelings like that! Never again! But I had to get through this somehow! For Yali! I had a DUTY, it was what I <em>had</em> to do, what I <em>must</em> do –
+
+No. That was the Stern God still inside me. [????? That was unacceptable to me.] I gathered the fragments of my rage. I, Rinn, might still be in a weakened state, but I was at least strong enough to kick out something that didn't even belong here. I unleashed a burst of rage, driving the Stern God's thoughts out of every corner, barring the doors of my mind against its intrusion.
+
+I glared at the path again. That felt a little better. Now it was just me in here, like it should be. Well, me and the Blood God. Now, I could use my pride. I could walk the Imminent's Path, sure of myself and what I was doing, ignoring every distraction because I knew they were no threat to me. I didn't have to give such things a place in my heart –
+
+"No!" I raged aloud. "Not you either, Blood! You tried to kill Yali, you monster! I don't care if it screws me over, I am <em>not</em> doing things your way!! I'm not!!"
+
+I was going to do this the Rinn way or not at all. But what would the Rinn way even be? The frustration was so overwhelming it felt like it was crashing my skull. I couldn't think, I couldn't feel anything else. So… that was what I would use. I stomped down the path, answering every new sensation with a surge of hatred, of bitterness for everything around me.
+
+?????
 
 
 [????? Rinn trying to do the paths the way she did before, through dissociation – the Rinn part of her recoils against that and they reach an awkward "compromise that no part of me was really okay with"]
