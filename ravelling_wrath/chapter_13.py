@@ -183,7 +183,7 @@ I glared at the path again. That felt a little better. Now it was just me in her
 
 "No!" I raged aloud. "Not you either, Blood! You tried to kill Yali, you monster! I don't care if it screws me over, I am <em>not</em> doing things your way!! I'm not!!"
 
-I was going to do this the Rinn way or not at all. But what would the Rinn way even be? The frustration was so overwhelming it felt like it was crashing my skull. I couldn't think, I couldn't feel anything else. So… that was what I would use. I stomped down the path, answering every new sensation with a surge of hatred, of bitterness for everything around me.
+I was going to do this the Rinn way or not at all. But what would the Rinn way even be? The frustration was so overwhelming it felt like it was crashing my skull. I couldn't think, I couldn't feel anything else. So that was what I would have to use. I stomped down the path, answering every new sensation with a surge of hatred, of bitterness for everything around me. ?????
 
 ?????
 
@@ -194,7 +194,41 @@ I was going to do this the Rinn way or not at all. But what would the Rinn way e
 
 ?????
 
-How had this all gone so horribly wrong? I had only done what I felt like I was supposed to! Wasn't it RIGHT to destroy the Farseer? I'd thought it was the one thing I knew for sure! And I had finally tried to do it! I should have been happy. Why did I only feel all this guilt and fear?
+<bigbreak>
+
+It wasn't long before my anger dulled again. I settled into a routine – not a routine that I liked, but a routine that kept me moving forward. An awkward compromise that no part of me was really okay with.
+
+The Paths were nothing I hadn't seen before. It only took about half of me to focus on the Stern God's grind. The other half was free to wander, to bend back and linger over what I had just done.
+
+I saw my blade sliding into her flesh. I saw my ?????wound erased as if I had never even managed to touch her. I heard her voice, purring in my ears, stirring my feelings into something I couldn't understand, something I couldn't handle understanding.
+
+How…? How…? How…?
+
+How had this all gone so horribly wrong? I had only done what I felt like I was supposed to! Wasn't it RIGHT to destroy the Farseer? I'd thought it was the one thing I knew for sure! And I had finally tried to do it! I should have been happy. Why did I only feel all this guilt and fear? Why did <em>nothing happen</em>?
+
+Tears poured from my eyes, streaking my face as I trudged on. How did this happen?! I felt like I couldn't understand anything anymore. Everything I believed in was lying in tatters. She was the one person I loved in all the world, and I had cut her down like she was nothing. I had finally done what I came here to do, what my heart was depending on, and it had been wiped away like it was meaningless. And somehow I felt <em>relieved</em>? How could it be a relief to fail? How could I be content to lose everything?
+
+I walked and cried, cried and walked. I felt ????? and beaten down, too exhausted to even parse out which parts were me and which were the Blood God.
+
+?????
+
+How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!! I had tried to fucking murder somebody!!! <em>My own girlfriend!!</em> I reared back to punch the nearest wall, and only my memory of the pain held me back. I felt my knees, my head spinning, guilt gnawing at my stomach again. I was the WORST person in HISTORY! I stomped along the path harder and harder, hoping the pain that shockwaved up through my legs would be enough to make me suffer for what I'd done. I didn't deserve Yali. I didn't deserve Alchemist. I didn't deserve for anyone to care about me. I should suffer.
+
+<em>Suffer.</em>
+
+My stomping carried me to the next intersection, to Blood Child's path. The statues stood above me, demanding my submission before I could enter. <em>Admit that you are worthless</em>, they seemed to be saying. "Fine!" I screamed. "I am worthless! I am worth NOTHING!"
+
+The statues stood there disapprovingly. <em>Too much pride,</em> they ?????ed at me.
+
+"Isn't that what you want?! I am horrible! I am no better than a murderer! Let me through! I have no pride left to throw away!" But the statues were motionless. They repeated their judgment, even stronger this time: <em>Too much pride.</em> I screamed and struggled, trying hopelessly to push my way past, blaming myself for everything I could think of. But ?????. Finally, I went limp, exhausted and empty.
+
+As I slumped against the statues, my mind blurring out, a little more of their demand seemed to filter into my head. But it hadn't changed. I had just… misinterpreted what they were demanding. They were not asking me to call myself <em>worthless</em>. They were asking me to call myself… <em>not important</em>. And all my guilt… to the Stern, even that was a type of pride. If you said you were guilty, you were saying you were important. ?????.
+
+"I am… not important," I whispered, tears spilling from my eyes again.
+
+The statues pulled aside, letting me stumble through.
+
+[????? "For and against" about the Stern forcing that kind of therapy on Rinn]
 
 ?????
 
