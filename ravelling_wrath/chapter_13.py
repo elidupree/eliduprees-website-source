@@ -18,6 +18,8 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 13: ", '''<p></p>''') +'''
   
+[????? fix this sequence so that Rinn talks more like she and the Blood God are the same being]
+  
 Time moved slowly around me, agonizingly slowly. I didn't understand what was happening. In my vision, in front of me, there was a picture of my blade sticking out of the side of her body's ribcage. That didn't make any sense. It wasn't real.
 
 Then her scream came crashing through my mind. Suddenly, my blood was pounding through every vessel, so hard, painfully hard. Why? My body had decided to tense up and flood itself with terror. Why? I didn't understand.
@@ -65,7 +67,7 @@ And then came the pain and rage. I tried to jump up, to run at the wall and beat
 
 "I'm not going to – oof! – to let you go if you're going to – ow! – to hurt yourself!" gasped Yali, struggling to hold on.
 
-"I DON'T CARE! LET ME GO, LET ME GO, –" I managed to jerk away from her and jump up. Blinded by rage, I slammed my fist into the stone wall with all my strength. I pulled my hand back for a second swing, and I was about to do it again when the pain hit. My hand felt like it was splitting apart. Normally, pain would fuel my anger, but now, I was suddenly too exhausted to be angry. I slumped against the wall, clutching my broken hand, and sank down to the floor again, curling up in the corner and sobbing.
+"I DON'T CARE! LET ME GO, LET ME GO, –" I managed to jerk away from her and jump up. Blinded by rage, I slammed my fist into the stone wall with all my strength. I pulled my hand back for a second swing, and I was about to do it again when the pain hit. My hand felt like it was splitting apart. [????? Improve this transition:] Normally, pain would fuel my anger, but now, I was suddenly too exhausted to be angry. I slumped against the wall, clutching my broken hand, and sank down to the floor again, curling up in the corner and sobbing.
 
 I was dimly aware of Yali and Alchemist sitting down around me, trying to comfort me. But I couldn't get up. I couldn't see past the pain.
 
@@ -163,7 +165,9 @@ It didn't feel anything like when she'd touched my heart on that first day. It w
 
 "Did it work?" I said. "What's it like?"
 
-"It's like I can see you from all sides at once," said Yali. "I can see the Burning Heart on your back…"
+"It's like I can see you from all sides at once," said Yali. "I can see the Burning Heart on your back…" [????? tone of doubt about whether her actions were okay]
+
+?????
 
 ?????
 
@@ -228,17 +232,19 @@ As I slumped against the statues, my mind blurring out, a little more of their d
 
 The statues pulled aside, letting me stumble through.
 
+My lie weighed heavily in my chest. It wasn't just against the Stern God's rules – it was also a betrayal of myself. No part of me could accept the Stern God's message. I WAS important! I would NEVER accept someone trying to wipe my heart away! I would KILL and KILL – and that made me HORRIBLE and – but I HAD to – it was the size of the WORLD –
+
+But every time I reached out to the extremes, the next set of statues was there to force me back. They interrupted my thoughts, forcing me to say that I was only <em>somewhat</em> flawed, that my struggles were only a small <em>part</em> of the world. In my head, I denied it. But [????? it somehow got into my head]. ?????
+
 [????? "For and against" about the Stern forcing that kind of therapy on Rinn]
 
+By the end, I was beaten down. When I looked up to see the intersection, the end of this segment of the Blood Child's path, I ?????.
+
+The next place I would walk… would be the Alchemist's Path. I stepped up to the mass of the next statues blocking the way. All I would have to do was order them to move, like before. But when I thought of doing it, it just felt like too much effort to even consider. I turned and leaned my back to a wall, then sank down to the floor, fatigue crowding out all my thoughts.
+
+I don't know how long I sat there. [????? Dreamlike, fragmentary thoughts of Rinn and the Blood God]
+
 ?????
-
-
-
-[????? Walking along the Blood Child's Path: the statues ask Rinn to say moderately negative things about herself, and Rinn tries to say very negative things instead, but they reject it]
-
-?????
-
-[????? Sat down out of overwhelming fatigue, sank down with my back to a statue, stayed sitting for I don't know how long,]
 
 ????? the hard clack-clack-clack of someone else's uniform shoes on the floor. I couldn't muster the energy to lift my eyes and see who it was. But the footsteps came closer and closer. I finally convinced myself to raise my head.
 
