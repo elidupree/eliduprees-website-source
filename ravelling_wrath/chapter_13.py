@@ -165,13 +165,47 @@ It didn't feel anything like when she'd touched my heart on that first day. It w
 
 "Did it work?" I said. "What's it like?"
 
-"It's like I can see you from all sides at once," said Yali. "I can see the Burning Heart on your back…" [????? tone of doubt about whether her actions were okay]
+"It's like I can see you from all sides at once," said Yali. Her voice was distant, like she had something else on her mind. "I can see the Burning Heart on your back…" [????? tone of doubt about whether her actions were okay]
+
+I pulled my shirt back down. We sat facing each other, in a troubled silence. Alchemist leaned in from the side and put their arms around my shoulders. It was comforting, but I could feel them shaking continuously. I tried to hug them back, but it didn't happen.
+
+"Yali…" I began.
+
+"This wasn't right," she interrupted, not quite looking at me, as if she'd already been planning to say that before I said anything. "If, in the future, it becomes a problem, that I can see you like this… I'm sorry."
+
+"No, it's okay!"
+
+Yali pulled herself to her feet and paced a few steps away. ?????. "…you should go."
+
+"Already…?"
+
+"Come here."
+
+I stood up. Alchemist followed behind me. Yali led me to the map and pointed out a few lines on it. "You should take this route to the portal. It's the shortest way, and it has only one segment of the Blood Child's Path, which will be difficult for you now."
+
+"I… okay."
+
+"You should go now."
+
+"Okay."
+
+A few steps away from Yali, Alchemist clung on to me. [????? More physical details]
+
+"I'm, sad, I can't come with you," they said. "Morrow…"
 
 ?????
 
+"You'll be all alone…"
+
+"I'll be okay," I lied, gently pushing them away. "Go help Morrow. I don't matter."
+
+"Oh…"
+
 ?????
 
-I <em>wanted</em> it to be hard to step away from her. I wanted my heart to cling to her ?????. But ?????. It felt like a ????? slipping between limp fingers. I muttered a halfhearted goodbye and began my journey to the portal.
+I left Alchemist standing [????? stressedly].
+
+I <em>wanted</em> it to be hard to walk away from them, from both of them. I wanted my heart to cling to Yali's ?????, or at least to linger softly with Alchemist. But none of it happened. It felt like all I had was a printed photo of the feelings that were supposed to be real. It felt like a ????? slipping between limp fingers. I muttered a halfhearted goodbye and began my journey to the portal.
 
 <bigbreak>
 
@@ -204,7 +238,7 @@ It wasn't long before my anger dulled again. I settled into a routine – not a 
 
 The Paths were nothing I hadn't seen before. It only took about half of me to focus on the Stern God's grind. The other half was free to wander, to bend back and linger over what I had just done.
 
-I saw my blade sliding into her flesh. I saw my ?????wound erased as if I had never even managed to touch her. I heard her voice, purring in my ears, stirring my feelings into something I couldn't understand, something I couldn't handle understanding.
+I saw my blade sliding into her flesh. I saw my wound erased as if I had never even managed to touch her. I heard her voice, purring in my ears, stirring my feelings into something I couldn't understand, something I couldn't handle understanding.
 
 How…? How…? How…?
 
