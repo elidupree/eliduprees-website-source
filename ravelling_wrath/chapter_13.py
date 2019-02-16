@@ -179,9 +179,9 @@ Yali pulled herself to her feet and paced a few steps away. ?????. "…you shoul
 
 "Already…?"
 
-"Come here."
+"You – both of you – it'll be worse the longer you put it off. Come here."
 
-I stood up. Alchemist followed behind me. Yali led me to the map and pointed out a few lines on it. "You should take this route to the portal. It's the shortest way, and it has only one segment of the Blood Child's Path, which will be difficult for you now."
+I stood up. Alchemist followed behind me. Yali led me to the map and pointed out a few lines on it. "You should take this route to the portal. It's the shortest way, and it has only one segment of the Blood Child's Path, which will be difficult for you now. Once you get to the next layer, I'll come find you as soon as I can. The Watchful Eye gives me a sense of your location, so I can come straight to wherever you end up."
 
 "I… okay."
 
@@ -193,9 +193,17 @@ A few steps away from Yali, Alchemist clung on to me. [????? More physical detai
 
 "I'm, sad, I can't come with you," they said. "Morrow…"
 
-?????
+"Right, you'd want to go be with Morrow…"
 
-"You'll be all alone…"
+"It's not, that… he…"
+
+"He what?"
+
+"He's stuck," Yali clarified, still with her back to me. "He can't make it down the Imminent's Path. I've agreed to help Alchemist help him."
+
+I half-snorted. "Could've seen <em>that</em> coming…"
+
+"But you…" Alchemist leaned their face close in front of mine, their sad eyes looming large in my vision. "You'll be all alone…"
 
 "I'll be okay," I lied, gently pushing them away. "Go help Morrow. I don't matter."
 
@@ -205,7 +213,7 @@ A few steps away from Yali, Alchemist clung on to me. [????? More physical detai
 
 I left Alchemist standing [????? stressedly].
 
-I <em>wanted</em> it to be hard to walk away from them, from both of them. I wanted my heart to cling to Yali's ?????, or at least to linger softly with Alchemist. But none of it happened. It felt like all I had was a printed photo of the feelings that were supposed to be real. It felt like a ????? slipping between limp fingers. I muttered a halfhearted goodbye and began my journey to the portal.
+I <em>wanted</em> it to be hard to walk away from them, from both of them. I wanted my heart to cling to Yali's ?????, or at least to linger softly with Alchemist. But none of it happened. It felt like all I had was a printed photo of the feelings that were supposed to be real. It felt like a ????? slipping between my limp fingers. I muttered a halfhearted goodbye and began my journey to the portal.
 
 <bigbreak>
 

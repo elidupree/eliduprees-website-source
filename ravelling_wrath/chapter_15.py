@@ -62,7 +62,7 @@ The next thing I did was I got rid of the uniform the Stern God made me wear. I 
 
 Then I threw myself into the grass.
 
-My skin drank up the cool morning dew like a ?????. Every part of me was [????? happy], from the tall grasses tickling my neck all the way down to my toes digging into the soft earth. I rolled over and over, reveling in my freedom to throw all worries to the wind and relax.
+My skin drank up the cool morning dew like a dry sponge drinking up water. Every part of me was [????? happy], from the tall grasses tickling my neck all the way down to my toes digging into the soft earth. I rolled over and over, reveling in my freedom to throw all worries to the wind and relax.
 
 Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how I'd been expecting for Yali to see me naked for the first time. I smirked. If she didn't like it, she'd just have to deal with it. I stretched out luxuriantly, strutting my stuff so she could take a good look at whatever she wanted. Then I just flopped over on my back and let every part of me relax, just staring unfocusedly into the twilit sky.
 
