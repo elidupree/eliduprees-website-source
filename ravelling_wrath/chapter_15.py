@@ -24,13 +24,13 @@ According to legend, in the beginning, there were five gods – the Stern God, t
 
 First, the Great God made earth and sky, sea and stone. It shaped the arch of the heavens, set the golden sun up above, and laid down generous swaths of sand and clay below.
 
-Then it rested, and left to the other gods to play among its creations. The Stern God divided land from sea, mountain from valley. The Waiting God created the cycles of the tides, the rain, and the lumbering movements of the earth below. The Seeking God whipped up storms to tear at the land and wash it away to wherever it would go. The Blood God carved great ravines to make its mark upon the world. 
+Then it rested, and left to the other gods to play among its creations. The Stern God divided land from sea, mountain from valley. The Waiting God created the cycles of the tides, the rain, and the lumbering motions of the earth below. The Seeking God whipped up storms to tear at the land and wash it away to wherever it would go. The Blood God carved great ravines to make its mark upon the world. 
 
 But the Great God was not done. It rose from its rest to create <em>life</em>. Trees drilled their roots into the soil, holding fast against the storm. [????? more details of more life]
 
-The other gods loved these new beings. The Waiting God taught spiders to build great webs and beavers to block up the rivers for their own advantage. The Seeking God entered dolphins and cats, making them play for the sake of playing, and it made the forests burn one year and thrive the next. The Stern God set out how the animals would mark their territory against each other. And the Blood God reveled in their ?????.
+The other gods loved these new beings. The Waiting God taught spiders to build great webs and beavers to block up the rivers for their own advantage. The Seeking God entered [????? less of a stereotype?: dolphins and cats], making them play for the sake of playing, and it made the forests burn one year and thrive the next. The Stern God set out how the animals would mark their territory against each other. And the Blood God reveled in their raw passions, the thrill and flow of the hunt, the agony of their death throes, love and grief and desire.
 
-But the Great God was not done. It rose from his rest to create <em>humankind</em>.
+But the Great God was not done. It rose from its rest to create <em>humanity</em>.
 
 The other gods recoiled as their forests were cut down, their beloved animals slaughtered for humanity's comfort. But they soon forgot their worries, for within humanity there was a potential greater than everything that came before. The gods set about creating cultures and traditions, laws and morals. The Stern God made them build walls and temples, perform worship and sacrifice. The Waiting God showed them how to remember their ancestors and dream for the generations yet to come. The Seeking God gave them the ingenuity to create things that even the gods had not dreamed of. And the Blood God filled them all with a passion for life, bringing meaning to their brief and chaotic existences.
 
@@ -44,7 +44,7 @@ The Blood God tore out the core of its soul, the rope of fibers that kept its wi
 
 Purposeless, intentionless, the Broken God drifted in the world.
 
-But though it was broken, it was still the god of ?????,. Where its drifting threads touched the world, new life sprang forth, and what was already living died meaningless deaths in equal measure. The fragments of its will continued, simply with no central purpose to guide them. [???? It did one thing and also another.] It filled some humans with feelings that overwhelmed thought, and emptied others. ?????
+But though it was broken, it was still a god of mountains and sand, forest and fen. Where its drifting threads touched the world, new life sprang forth, and what was already living died meaningless deaths in equal measure. The fragments of its will continued without any central purpose to guide them. [???? It did one thing and also another.] It filled some humans with feelings that overwhelmed thought, and emptied others. ?????
 
 So, even today, the four gods wage a constant struggle, to maintain their vision for humanity against the tidal wave of the Broken.
 
@@ -66,17 +66,23 @@ My skin drank up the cool morning dew like a dry sponge drinking up water. Every
 
 Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how I'd been expecting for Yali to see me naked for the first time. I smirked. If she didn't like it, she'd just have to deal with it. I stretched out luxuriantly, strutting my stuff so she could take a good look at whatever she wanted. Then I just flopped over on my back and let every part of me relax, just staring unfocusedly into the twilit sky.
 
+This was what life should be like. Crisp air filled my lungs, ?????. I had never breathed so easily, the air passing in and out, bringing all the strong and subtle smells of nature to my senses. ?????
 
+<bigbreak>
 
-?????
+After a long, refreshing rest, the itch to move started nudging at me.
 
-[????? After I was done lying around], I got up and started walking. It didn't really matter which <em>way</em> I walked – I had no idea where anyone was anyway, and Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
+I rolled over on my hands and knees, climbed to my feet, and started walking. It didn't really matter which <em>way</em> I walked. I had no idea where anyone was anyway. And somewhere out there, Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
+
+????? [????? Details of walking into the woods, mostly not summary language]
 
 Before long, I decided to put on at least <em>some</em> clothes. Pushing my way through the underbrush, I kept stubbing my toes on gnarly roots and tearing my skin on old thorns. So first, I manifested on some heavy jeans, tough and skintight, and boots just the perfect size for me, really to stomp through some old brush.
 
 Then I thought, if I was getting dressed up, I was gonna do this <em>right</em>. I manifested a full-length mirror, leaning against a tree.
 
-The face that looked back at me looked burdened down with exhaustion. Its hair was matted down, way too symmetric for my taste. Its eyes were weary, the muscles around them tight with suspicion. It was scraped and covered with flecks of dirt. Whose face was this? It was time to take Rinn back.
+The face that looked back at me looked flat and dead with exhaustion. Its hair was matted down, way too symmetric for my taste. Its eyes were weary, the muscles around them tight with suspicion. It was scraped and covered with flecks of dirt. Whose face was this? ?????
+
+????? It was time to take Rinn back.
 
 The first thing I did was to get my hair straightened out. I tore at it with a comb until the comb got stuck, then gave up and just chopped half of it off without a second thought. I recolored the rest into a rainbow of red and gold and midnight black, like a living flame in the darkness.
 
@@ -84,7 +90,7 @@ The first thing I did was to get my hair straightened out. I tore at it with a c
 
 I left the scrape and the dirt stains right where they were. I grinned and threw my head back. This was more like it.
 
-I climbed to the nearest tree right away, happily putting the first tear in my new clothes. Standing in the branches, I felt the old joy of looking down and seeing how much smaller the ground became. I jumped and climbed from tree to tree, ?????
+I climbed to the nearest tree right away, happily putting the first stain on my new clothes. Standing in the branches, I felt the old joy of looking down and seeing how much smaller the ground became. I jumped and climbed from tree to tree, ????? [????? not summary language]
 
 Jumping between the trees wasn't anything like the gymnastics I'd had to do in the Endless Maze. There, the Seeking God had put everything just barely within reach, so that every movement was a challenge, but possible. Here, the trees were spaced out at random. Some places were so dense that I could just step from one tree to the next. Other places were sparse enough that I couldn't make it even with a flying leap. I had to make my own challenges. I left the forest littered with ladders, long ropes I used to swing from tree to tree, and bits of my own blood from when it didn't work out so well.
 
@@ -140,7 +146,7 @@ I lost track of time. It was impossible to think straight, desperately clinging 
 
 I heard yelling around me. There was Yali's voice, and… another one that I couldn't place, both shouting words I couldn't understand.
 
-I tried to look up from the ground. My head was spinning. Wild patches of color were smeared over everything. My mouth felt like it was stuffed with cotton balls, and when I tried to move my tongue, it didn't feel anything at all.
+I tried to look up from the ground. My head was spinning. Wild patches of color were smeared over everything. My mouth felt like it was stuffed with cotton balls, and when I tried to move my tongue, it didn't feel anything was moving at all.
 
 The voices kept speaking. Every syllable echoed and distorted in my head, beating on my skull from all sides. Behind that, I was sure it sounded like normal speaking, but somehow, I couldn't make out a single word.
 
@@ -303,11 +309,11 @@ Yali clutched her head in her hands. "Of course it would be comfortable for <em>
 
 "Are you kidding me!! Not <em>even</em> the Seeking? So the <em>Stern</em> doesn't place at all?!"
 
-Yali ?????. "I don't expect you to understand this, but, but, the Stern God feels reassuring to me. It says to me, that every part of myself that I've had to give up to get where I am, was a worthy sacrifice."
+Through gritted teeth, Yali replied, "I don't expect you to understand this, but, but, the Stern God feels reassuring to me. It says to me, that every part of myself that I've had to give up to get where I am, was a worthy sacrifice."
 
-?????
+"But – you shouldn't have to give up parts of yourself!! That's fucked up –"
 
-"Can we <em>not</em> argue about the Stern right now?"
+"Can we <em>not</em> argue about the Stern right now?!"
 
 ?????
 
@@ -361,7 +367,7 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 ?????
 
-A look of barely restrained horror grew on her face. Before long, she shook herself out of the Seeing. "I, I, I, I knew he might have been abused, but not like this! This is so much worse, he was abused so much worse than I was –"
+[????? Change this so that Yali is already using her cold ego state for it – overall more brutal and uncaring:] A look of barely restrained horror grew on her face. Before long, she shook herself out of the Seeing. "I, I, I, I knew he might have been abused, but not like this! This is so much worse, he was abused so much worse than I was –"
 
 "You too?" gasped Alchemist. So they had known about Morrow already…
 
