@@ -52,6 +52,10 @@ We moved.
 
 My muscles warmed from our steady walking. We flowed up the street, like two drops of blood flowing up a vein, returning to the heart. We passed shattered towers still reaching towards the sky, twisted monuments of blackened steel, sculptures like raised fists towering high above. The sheer scale of everything was enormous. Even where a finger had broken from a sculpture and fallen to the ground, it was taller than we were.
 
+And all throughout the city, densely braided cables of steel snaked about, some half buried in the ground, some crawling up the buildings like vines. An endless network tying the city together, they nestled the buildings and spires, as if they had all grown together as a single being.
+
+I punched one of them affectionately. "These are like the muscles of the city!" I said.
+
 [????? examining the muscles of the city, "I punched it affectionately"]
 
 <bigbreak>
@@ -78,7 +82,7 @@ I felt the impulse to complain, but a heavier feeling laid over it. "I… unders
 
 "It just, isn't something I can think about right now. Not until the situation with the gods is resolved."
 
-"Right."
+"Right. Then let's get it resolved."
 
 I swept a hand across the skyline. From where we stood, a golden pathway rolled out. From the countless little pathways of the city, the muscles rose up, moving firmly into position to carry it, a spiderweb of cables holding it up as it snaked between the rooftops. My pathway gleamed invitingly, a direct route to our destination. I took Yali's hand and started out along its length.
 
@@ -118,9 +122,15 @@ Yali drank [????? number] potions, one after another. The power of sorcery sizzl
 
 ?????
 
+Our bodies were locked together. For a long moment, we hung in a delicate balance on the three feet we had between us. But then, we began to topple. Our bodies fell together, crashing among the wreckage. Justicar's stiff body landed on top of mine, ?????.
 
+????? It was over. I relaxed into the pain, [????? My blades, including any leg supports] melted away into blood. ?????
 
-<em>Deception!!</em> cried out a tiny part of me. Was she trying to feed me the unravelling potion?! But that was impossible. If it was the unravelling potion, I would be able to feel its energy, [????? description matching the first description]. But <em>this</em> potion felt warm and wholesome. It smelled of sweetness and comfort, promising to waft my pain away and carry me home. How could I think this was deception? This was Yali. She was strength. She was safety. She was love.
+And then Yali was there. Her hands heaved Justicar off of me, letting the sun's warming light fall on me. I couldn't move my arms to lift myself, but bent my neck towards her, closing my eyes happily. Yali was here. Everything was going to be okay.
+
+She knelt beside me. I felt her place one arm behind my back and lift me up into a sitting position, pulling me close to her. "Drink," she said softly, lifting a potion up to my face.
+
+<em>Deception!!</em> cried out a tiny part of me. Was she trying to feed me the unravelling potion?! But that was impossible. If it was the unravelling potion, I would be able to feel its energy, that blinding haze of force that threatened to tear the universe apart. But <em>this</em> potion felt warm and wholesome. It smelled of sweetness and comfort, promising to waft my pain away and carry me home. How could I think this was deception? This was Yali. She was strength. She was safety. She was love.
 
 I raised my neck – the only part of me that I could still move – and let her press the potion to my lips. Its sweetness flooded into my mouth. Its warmth expanded in my chest. One by one, its effects reached each of the pains that were tearing apart my body, and wiped them gently away. And finally, it reached my head, and all of my scrambling thoughts began to fade, leaving me to drift away to a soft and comfortable darkness. ''',
 },
