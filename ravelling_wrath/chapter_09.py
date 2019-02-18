@@ -40,18 +40,19 @@ And just when I couldn't take it anymore, when the sensations were about to over
 
 I tumbled onto a padded floor, my arms and legs suddenly coming back to me. I flopped and rolled until I was flat on my back, then stared up dizzily into… At first I thought it was another incoherent kaleidoscope of color. But then I focused in on part of it, and it actually stayed looking how it looked.
 
-Above me, below me, and in every direction around me, there were thousands of brightly colored shapes.???? Curving, multicolored walkways that waggled and twisted to absurd angles, making no distinction between floor, walls, and ceiling.???? And everything felt so <em>close</em> to me. I felt like I could just jump up and land on any of the walkways I wanted.
+Above me, below me, and in every direction around me, there were thousands of brightly colored shapes.???? Curving, multicolored walkways that waggled and twisted to absurd angles, making no distinction between floor, walls, and ceiling. Some of them rippled and undulated, looking like a real challenge to stand or walk on. In other places, hanging spheres swung wildly across the space, shimmering and flashing as they caught the light. And everything felt so <em>close</em> to me. I felt like I could just jump up and land on any of the walkways I wanted.
 
-I jumped up and spun through the air, landing somewhere that had been upside down when I started. I laughed and jumped again, grabbing and swinging from a giant wheel. So this was the Seeking God's world, the Endless Maze. It was like one giant playground.
-[????? Somewhere in this chapter: explanation of "the endless maze"]
+I jumped up and spun through the air, landing somewhere that had been upside down when I started. I laughed and jumped again, grabbing and swinging from a giant wheel. It was like one giant playground. As soon as I saw anything, I wanted to reach out and touch it, roll across the rippling floors, swing between the high arches, hang upside down and spin and slide on every surface.
 
-Technically, "the Endless Maze" meant three different things. This world was the original Endless Maze. But the Seeking God's symbol was also called the Endless Maze – that little symbol of [????? visual description]. And, metaphorically, "the Endless Maze" meant, like, life. Or the world. As in "how in the Endless did I end up like this?"
+And every time I looked behind a section of wall, there was another room as chaotic as the first. Or was it the same room? Space itself was tied in knots. I could step around a pillar and find myself on the other side of the room, or look through a window and see the back of my own head. I climbed up on a swinging platform, only to see that the platform had a bottomless pit on top of it. The pit was endlessly deep, even though I could look right under the platform and see a regular for there. But funnily enough, the pit didn't really feel like it stretched off into infinity. It was still bottomless, but somehow, it looked like the whole depth of the pit was right here, right in front of me. Just an infinite hole right at the tips of my fingers.
 
-?????
+So this was the Seeking God's world. The Endless Maze.
 
-Funnily enough, the bottomless pit didn't really look like it stretched off into infinity. It was still a bottomless pit, but somehow, it looked like the whole depth of the pit was right here, right in front of me. Just an infinite hole right at the tips of my fingers.
+Technically, "the Endless Maze" meant three different things. This world was the original Endless Maze. But the Seeking God's symbol was also called the Endless Maze – that little symbol of paths wrapping in on each other, a knot with no end or beginning. And, metaphorically, "the Endless Maze" meant, like, life. Or the world. As in "how in the Endless did I end up like this?"
 
-?????
+How <em>did</em> I end up like this? This place was awesome, and I still couldn't wait to see what was behind every corner, but… something was missing. And every time I saw a glimpse of myself in the distorted space, it just rubbed it in a little more.
+
+I was alone.
 
 Up to this point, I had never actually been completely alone. But now, I was in the new layer, and there was actually no one here.
 
@@ -73,9 +74,12 @@ Nothing answered me. Not sure what I was expecting.
 
 Well, if the Blood God wanted me to feel torn up about it, I wasn't going to. "Okay, so maybe <em>Yali</em> isn't here now, but I'll have plenty more chances. I mean, we're gonna be together forever! Someday I'll be 80, and she'll be 81, and if there's anything we forget to do now, we can just do it then!" I felt kind of like I was lying to myself, stepping on my own toes just to spite the god. But it did make me feel better.
 
+[????? I was going to go look for her. The Blood God seemed happy enough with that.]
+
+I hunted around the chaos for a way to actually get somewhere, instead of just looping back on myself. [????? it was hard. Lots of things I tried didn't work].
 ?????
 
-Peeking around the corner, my vision was suddenly filled with blackness – a huge empty space like the bottomless pits from the earlier. Stretching into the blackness, a jumble of blocky shapes and ladders hovered in front of me, each one floating in space with no supports, surrounded by emptiness in all directions. It was like a giant obstacle course, and if I missed a jump, I'd fall into a pit. It didn't actually feel scary, though. It felt more like someone had just painted "bottomless pit" onto a floor that was right under them. So I eagerly started jumping and swinging across.
+Peeking around the corner, my vision was suddenly filled with blackness – a huge empty space like the bottomless pits from the earlier. Stretching into the blackness, a jumble of blocky shapes and ladders hovered in front of me, each one floating in space with no supports, surrounded by emptiness in all directions. It was like a giant obstacle course, and if I missed a jump, I'd fall into a pit. It didn't actually feel scary, though. Like before, it felt more like someone had just painted "bottomless pit" onto a floor that was right under them. So I eagerly started jumping and swinging across.
 
 The first bit was easy. But then, as I jumped from an ????? to an ?????, the world suddenly zoomed off sideways. The direction of gravity had changed while I was in midair! I flailed as I fell into infinite space. But I had scarcely fallen by a meter when I found myself landing on my hands and knees back at the beginning of the obstacle course.
 
