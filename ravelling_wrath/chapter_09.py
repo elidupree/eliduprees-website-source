@@ -74,32 +74,49 @@ Nothing answered me. Not sure what I was expecting.
 
 Well, if the Blood God wanted me to feel torn up about it, I wasn't going to. "Okay, so maybe <em>Yali</em> isn't here now, but I'll have plenty more chances. I mean, we're gonna be together forever! Someday I'll be 80, and she'll be 81, and if there's anything we forget to do now, we can just do it then!" I felt kind of like I was lying to myself, stepping on my own toes just to spite the god. But it did make me feel better.
 
-[????? I was going to go look for her. The Blood God seemed happy enough with that.]
+Either way, though, I <em>did</em> need to go find Yali. I had no idea where she was, but at least I could try looking around. I started hunting through the chaos for a way to actually get somewhere, instead of just looping back on myself. The Blood God seemed happy enough with that.
 
-I hunted around the chaos for a way to actually get somewhere, instead of just looping back on myself. [????? it was hard. Lots of things I tried didn't work].
-?????
+It was a real mind screw. I tried going to the furthest corners of the room I was in, but they all just looped back on each other. Really, any little spot in the middle of the room could be the exit. I pulled open a trapdoor, but it just dumped me back in the same room with the colors inverted. Then I noticed that on the underside of the trapdoor, there was another trapdoor. <em>That</em> trapdoor went… somewhere completely different.
 
-Peeking around the corner, my vision was suddenly filled with blackness – a huge empty space like the bottomless pits from the earlier. Stretching into the blackness, a jumble of blocky shapes and ladders hovered in front of me, each one floating in space with no supports, surrounded by emptiness in all directions. It was like a giant obstacle course, and if I missed a jump, I'd fall into a pit. It didn't actually feel scary, though. Like before, it felt more like someone had just painted "bottomless pit" onto a floor that was right under them. So I eagerly started jumping and swinging across.
+Now we were getting somewhere. I jumped through. My vision was suddenly filled with blackness – a huge empty space like the bottomless pits from the earlier. Stretching into the blackness, a jumble of blocky shapes and ladders hovered in front of me, each one floating in space with no supports, surrounded by emptiness in all directions. It was like a giant obstacle course, and if I missed a jump, I'd fall into a pit. It didn't actually feel scary, though. Like before, it felt more like someone had just painted "bottomless pit" onto a floor that was right under them. So I eagerly started jumping and swinging across.
 
-The first bit was easy. But then, as I jumped from an ????? to an ?????, the world suddenly zoomed off sideways. The direction of gravity had changed while I was in midair! I flailed as I fell into infinite space. But I had scarcely fallen by a meter when I found myself landing on my hands and knees back at the beginning of the obstacle course.
+The first bit was easy. But then, as I jumped from a floating block to a spinning platform, the world suddenly zoomed off sideways. The direction of gravity had changed while I was in midair! I flailed as I fell into infinite space. But I had scarcely fallen by a meter when I found myself landing on my hands and knees back at the beginning of the obstacle course.
 
 It turned out I could try the course as many times as I wanted. Each time I fell into a pit, I just landed back at the beginning. It took me a few more tries to get the next jump right, picking the right angle and timing to compensate for the gravity change. I ended up jumping off the edge of one big block, then landing on the side of the same block, which was now acting like a floor. Now everything was sideways. What had been a ladder earlier was now a set of monkey bars.
 
 I paused to catch my breath and look at what was up ahead.
 
-Everything was leading up to a golden exit door, hovering in the distance. Before that, there was everything you could think of – slides, nets, spinning wheels, ropes that dangled in impossible directions, platforms that wobbled back and forth, stretches of empty space with only tiny handles to hang onto.
+Everything was leading up to a golden exit door, hovering in the distance. Maybe that would get me closer to Yali! But before that, there was everything you could think of – slides, nets, spinning wheels, ropes that dangled in impossible directions, platforms that wobbled back and forth, stretches of empty space with only tiny handles to hang onto.
 
-Each challenge seemed nearly impossible before I did it. There was a set of monkey bars that were so far apart I couldn't reach between them even with my fall arm span, but it turned out I could swing and grab the next one with my legs. Then there was a rope swing that looked awesome but actually sent me smacking right into the side of a big post. After I climbed up to try it again, I figured out that I had to swing off at an angle so I went around it, <em>and</em> climb further up the rope while I was swinging so I could get off on the next platform. Then there was a set of overlapping wheels I had to jump through without hitting any of the spokes. The first time I tried it, one of the spokes smacked into my stomach and knocked the wind out of me, then I fell onto another one that flung me off into space. By the time I made it to the final challenge, my arms and legs were sore and I had bruises all over me. It was the most fun I'd had in ages.
+Each challenge seemed nearly impossible before I did it. There was a set of monkey bars that were so far apart I couldn't reach between them even with my full arm span, but it turned out I could swing and grab the next one with my legs. Then there was a rope swing that looked awesome but actually sent me smacking right into the side of a big post. After I climbed up to try it again, I figured out that I had to swing off at an angle to get around the post, <em>and</em> climb further up the rope while I was swinging so I could get off on the next platform. Then there was a set of overlapping wheels I had to jump through without hitting any of the spokes. The first time I tried it, one of the spokes smacked into my stomach and knocked the wind out of me, then I fell onto another one that flung me off into space. By the time I made it to the final challenge, my arms and legs were sore and I had bruises all over me. It was the most fun I'd had in ages.
 
 For the final challenge, I had to run along a narrow spiral through space to get to the golden exit door. Along the spiral, I had to literally jump through flaming hoops while dodging giant hammers and tricky floor tiles that were trying to flip my feet out from under me. If you'd shown me this the day before, I would've been like, "how the fuck do you expect me to do that?!". But now that I'd made it past the rest of the obstacles, this last bit felt like it just might be possible.
 
-Of course, I still screwed it up on the first try. I tried to be smart by paying attention to the floor tiles, because they were the ones that would trip me up when I wasn't paying attention. But while I was doing that, I somehow managed to miss one of the giant hammers, and it promptly smacked me off into space. And then I was tumbling onto the ground all the way back at the start. I was pretty pissed off. I <em>really</em> wanted to get to that exit. I jumped up right away and started the long process of getting to the final challenge again.
+Of course, I still screwed it up on the first try. I tried to be smart by paying attention to the floor tiles, because they were the ones that would trip me up when I wasn't paying attention. But while I was doing that, I somehow managed to miss one of the giant hammers, and it promptly smacked me off into space. And the next moment I was tumbling onto the ground all the way back at the start. I was pretty pissed off. I <em>really</em> wanted to get to that exit. I jumped up right away and started the long process of getting to the final challenge again.
 
-[????? Summary language getting through the final challenge] ?????
+<bigbreak>
 
-?????
+For about the thousandth time, I tripped over a flaming hoop and fell into space.
 
-????? Before ????? could [????? knock me off], I made a last giant leap for the exit. With my body sailing through the air, a hidden tripwire caught on my ankle, almost ruining everything. With a terrific effort, I wrenched my foot off of it fast enough for me to keep going and smack down onto the platform. And then – I was <em>there</em>. I was at the final door.
+Once I was done swearing and putting out the fire on my pants, I sat down for a bit of a rest. I had been at this for <em>ages</em>. How long had it been? I pulled out my phone, which miraculously hadn't gotten busted any of the times I fell on my ass.
+
+The time didn't look right. The phone said it was only fifteen minutes since when I'd started out. I felt like it had been way longer than that. Was time distorted somehow?
+
+Then I looked closer. It wasn't just fifteen minutes. It was <em>two days</em> plus fifteen minutes. I had been so caught up in the obstacle course that I'd never noticed how much time was going by. Especially since I could get away without eating or sleeping.
+
+I <em>had</em> to finish this.
+
+<bigbreak>
+
+I was getting really close. Everything before the last bit was nearly routine now. My body was like a coiled spring, practically flying through space.
+
+I leapt through a hoop, landing my feet in just the right place to not get tripped up. I ducked under a bar swinging at my head, then jumped over the bar swinging for my ankles right after it. I sprinted along a series of tiles that started falling away the instant I stepped on them.
+
+I was almost there! The exit platform was surrounded by a gap of empty space I'd have to jump over, I'd just have to get to the closest point and make a leap for it. I sprinted for that place, keeping an eye out for –
+
+A heavy bag smacked into my side, nearly knocking me off. Shit! I'd gotten here <em>faster</em> than usual, and it had thrown the timing off! I quickly got my balance, but there was a ????? in the way of where I was going, and I didn't have time to wait for it to move before the floor what fallout from under me!
+
+Running on instinct, I veered off to the side, running for the one spot that still gave me an angle on the exit. It wasn't the best angle, but before anything could mess me up, I got to the edge and made my last giant leap for it. As my body sailed through the air, a hidden tripwire caught on my ankle, almost ruining everything. With a terrific effort, I wrenched my foot away from the wire fast enough for me to keep going and smack down onto the platform. And then – I was <em>there</em>. I was at the final door.
 
 "YES!" I pumped my fist in the air. "I <em>made</em> it! No stupid [????? part of obstacle course] can stop <em>me</em>!" With a flourish, I flung open the tantalizing exit door and stepped through to receive my reward.
 
@@ -129,7 +146,7 @@ Was the Seeking God deliberately stopping me from cheating?!
 
 That gave me an idea. I made a Blood Blade and extended it into a long pole, long enough to cross the water. I smirked. The Seeking God could stop my regular manifesting all it wanted, but it wasn't allowed to stop the powers the Blood God gave me. So I made some more long Blood Blades and fused to them into a bridge so I could walk across.
 
-Cheating was a lot of work, but it sure was satisfying. I molded my blades into bridges, ladders, and staircases, painstakingly crossing from platform to platform. Eventually, I realized that the final goal was at the top of one of the walls. So I just stabbed a blade into the wall, carefully stood on top of that blade, then stabbed another one in higher and stood on that. By doing this over and over again, I slowly made it up the wall.
+Cheating was a lot of work, but it sure was satisfying. I molded my blades into bridges, ladders, and staircases, painstakingly crossing from platform to platform. Eventually, I found this room's exit door at the top of one of the walls. I was <em>supposed</em> to get there by opening floodgates to raise the water level a little at a time. Instead, I just stabbed a blade into the wall, carefully stood on top of that blade, then stabbed another one in higher and stood on that. By doing this over and over again, I slowly made it up the wall.
 
 I climbed through a hatch in the ceiling and found myself in another room, full of glowing ropes of light zigzagging through the air, with a whole mess of open doorways leading into dark tunnels on every wall.
 
@@ -137,7 +154,7 @@ I climbed through a hatch in the ceiling and found myself in another room, full 
 
 "Morrow!!" I yelled back excitedly. It was so good to see an actual person again, even if it wasn't the one I wanted the most. I ran towards him and tackle-hugged him, sending us both tumbling. When we crashed into a few of the dangling ropes, it set the whole network swinging and flashing while the walls began to rotate.
 
-Morrow twitchily tried to untangle a row that had wrapped around his arm. "Have you seen Raylie??" he repeated.
+Morrow twitchily tried to untangle a rope that had wrapped around his arm. "Have you seen Raylie??" he repeated.
 
 "Who's Raylie?"
 
@@ -145,7 +162,7 @@ Morrow blinked. "Alchemist! Have you seen Alchemist??"
 
 "Can't you, uh, 'smell' them?" I said.
 
-"She's right… here!!" Morrow waved an arm around himself vaguely, not giving me any idea of where "here" was. "I can feel where she is! I know where I am! But where's the way from here to there, huh? Huh??"
+"She's right… here!!" Morrow waved an arm around himself vaguely, not giving me any clue of where "here" was. "I can feel where she is! I know where I am! But where's the way from here to there, huh? Huh??"
 
 "I mean at least we could try going in that direction –"
 
