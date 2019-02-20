@@ -196,7 +196,7 @@ A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be c
 
 "You absolute cheater!"
 
-"I know how to deal with this!" yelled Morrow. "I'm going to <em>stay on this side of</em> the gate!"
+Out of nowhere, Morrow yelled, "I'm going to <em>stay on this side of</em> the gate!"
 
 "<em>The gate cannot be stayed on this side of</em>," said the voice, as an invisible force sucked us through the gate to the other side.
 
@@ -204,12 +204,25 @@ A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be c
 
 "Haha! Better luck next time!" Morrow ran on ahead. I hurried to keep up with him.
 
+[????? Next there were a bunch more riddles like that.] There was a hallway that stretched out ahead of up as we tried to run along it, until Morrow tried running backwards. [????? One or 2 more examples] It kept going and going. I was getting a little frustrated. I <em>tried</em> to help solve the riddles, but every time, Morrow just hyperactively tried random stuff until something worked. Why didn't <em>my</em> hyperactively trying random stuff count for anything??
 
-????? [????? summary of other riddles; Morrow always answering them first, and Rinn getting increasingly irritated and impatient to find Yali]
+[????? Right now we were looking at a load of white and black tiles making a spiral pattern on the walls.]
+
+When I complained about it, Morrow said, "You can't just try harder! You have to try stupider!"
+
+"I <em>am</em> trying stupider!"
+
+What was the point of me being here if I didn't even get to solve anything? I should have just gone my own way to look for Yali! Irritated, I broke away from Morrow and stomped back the way I came. But somehow, I ended up right in front of Morrow again, watching his stupid face chewing on a massive ?????.
+
+"Argh!!" I yelled. Morrow snickered. I slammed my fist into one of the tiles on the walls. The tile slid back into the wall, and a hidden door opened. "What the fuck? I'm not even trying, and I randomly hit a secret button?!"
+
+"Told ya so!"
+
+"Whatever!" I grabbed Morrow's wrist and dragged him through the new door with me.
 
 [????? Throughout this chapter: include Morrow's food stuff]
 
-The next room was just an empty room, at first. I crossed it and tried to open the door at the other side, but it was locked, of course. When I looked back, the door behind us also slammed closed. Typical. In the middle of the room, two waist-high pedestals rose from the floor.
+The next room was just an empty room, at first. I crossed it and tried to open the door at the other side, but it was locked, of course. When I looked back, the door behind us also slammed closed and merged with the wall. Typical. In the middle of the room, two waist-high pedestals rose from the floor.
 
 "Okay, fine," I said. I stepped up to one of the pedestals. When I stood near it, it lit up and hummed. Morrow tried poking at it, but it didn't react until he went and stood in front of the <em>other</em> pedestal. And then the real game began.
 
