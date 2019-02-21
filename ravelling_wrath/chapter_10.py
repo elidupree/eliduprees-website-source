@@ -409,7 +409,7 @@ Not thinking of anything else to do, I stood on the button. The door on Justicar
 
 "Suit yourself."
 
-I searched all up and down the walls. There wasn't much to search. I felt like Morrow from the room with the clock. Eventually, I just started pacing around and staring irritably at the various parts of the puzzle.
+I searched all up and down the walls. There wasn't much to search. I felt like Morrow trying to search the gray room from earlier. Eventually, I just started pacing around and staring irritably at the various parts of the puzzle.
 
 ?????
 

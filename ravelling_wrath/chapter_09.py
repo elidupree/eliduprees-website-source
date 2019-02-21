@@ -282,11 +282,17 @@ Morrow huffed irritably. Ugh, he was just like my mom, not answering questions i
 
 "Fine!" said Morrow. We glared at each other. I wasn't even <em>that</em> mad at him. But he had already been a handful in the first layer, and now we were basically in Morrow Theme Park.
 
-?????
+A sense of unease came over me as the game started up again. What was the Seeking God going to throw at us next? But it turned out I needn't have worried. When we got to the trash heap, there was only ONE option – the couch. We both pressed it, and the room played an exaggerated victory ditty, with flashing lights and everything. Then the broken exit door fell off its hinges. Looking past it, there was an actual next room now.
 
-?????
+"So…" I said, "That's it, then? We won, I guess?"
 
-and found myself in a tiny gray room.
+Morrow ran for the next room.
+
+"I just thought there'd be more of a satisfying conclusion –" Morrow wasn't listening to me. I hurried after him –
+
+<bigbreak>
+
+– and found myself in a tiny gray room.
 
 I looked around. Everything was gray. The walls were gray. The floor was the same color of gray. The ceiling was, you guessed it, the same gray again. The door we had come in through was… completely gone, turned into just another section of gray wall. In the gray lighting, even me and Morrow looked a bit grayer than usual.
 
@@ -294,7 +300,7 @@ Other than us, the only thing in the whole room was a clock inset into one of th
 
 The clock was running at a normal pace. It had a simple, blocky hour hand, and the same for minutes and seconds. The only unusual thing was a mark on the clock face, a curve starting at the tip of the hour hand.
 
-"That curve! That's where the hours moves! It'll finish the curve in a buncha hours –"
+"That curve! That's where the hours moves! It'll trace out that curve in a buncha hours –"
 
 "Yeah, eight hours," I said tiredly. Morrow always seemed to solve the puzzles before me, so I had resigned myself to just adding whatever information I could so I didn't feel totally useless.
 
@@ -302,15 +308,17 @@ The clock was running at a normal pace. It had a simple, blocky hour hand, and t
 
 "Yeah, but… what puzzle?" I looked around the room again. It was probably wide enough that we could both lie down on the floor at once, but just barely.
 
-"Okay, maybe the clock is the puzzle!" Morrow tried to take it down from the wall, but it didn't work. The clock was inset into the wall, and it was covered by a glass panel that was completely smooth with the surface of the wall. Morrow tried to dig his fingernails under it, but they just slid straight from the wall to the glass without catching anywhere.
+"Okay, maybe the clock is the puzzle!" Morrow tried to take it down from the wall, but it didn't work. The clock was inset into the wall, and it was covered by a glass panel that was completely smooth with the surface of the wall. Morrow tried to dig his fingernails under it, but they just slid straight from the wall to the glass without catching anywhere. Then he swung his arm as if he was hitting it with a hammer, except he wasn't holding anything. He stared at his hand indignantly, then made the same gesture again.
+
+"Are you trying to…" I tried to manifest a hammer myself, and nothing happened. "Huh, guess we can't manifest in this one. "
 
 "We must've missed something!!" said Morrow, agitated.
 
 It was hard to imagine that we could have missed anything. The room was literally just a rectangle with neutral gray walls on all sides. To humor him, I checked the ceiling, and I even checked under my feet, but there was nothing special.
 
-Morrow searched furiously, beating and scratching at the walls to see if there was any weakness. [???? unable to manifest] He was clearly looking for something that wasn't there. Mentally, I took a step back. There was definitely <em>something</em> we were missing, but it wasn't a literal, physical thing in this room. It was something about the whole situation. The Seeking God <em>seemed</em> random, but everything it had done so far had at least had an interesting challenge behind it. Why would it stick us in a blank room like this?
+Morrow searched furiously, beating and scratching at the walls to see if there was any weakness. He was clearly looking for something that wasn't there. Mentally, I took a step back. There was definitely <em>something</em> we were missing, but it wasn't a literal, physical thing in this room. It was something about the whole situation. The Seeking God <em>seemed</em> random, but everything it had done so far had at least had an interesting challenge behind it. Why would it stick us in a blank room like this?
 
-"Oh, <em>I</em> get it now," I said, realization dawning. "The puzzle is <em>us</em>. The puzzle is how we're gonna handle being stuck in a room with each other for eight hours."
+Then, realization dawned on me. "Oh, <em>I</em> get it now," I said. "The puzzle is <em>us</em>. The puzzle is how we're gonna handle being stuck in a room with each other for eight hours."
 
 Morrow looked back towards me, eyes wild. "That's NOT a PUZZLE!!" he exploded. "There MUST be something else! This is SUPPOSED to be a PUZZLE! Give me a puzzle! Give me something to solve!!" he yelled, slamming his fist into the wall repeatedly.
 
@@ -328,7 +336,7 @@ I could tell denial when I saw it. I leaned back, crossed my arms, and watched h
 
 "Well I don't NEED any HELP!! I'm fine, FINE, FINE!!" He turned and smashed his face into the wall, then reared back to do it again.
 
-"What the fuck!! You can't smash your head on the wall, you'll give yourself brain damage!" I ran and grabbed his hair, yanking him back away from the wall to stop him. He twisted wildly in all directions, trying to get away from me. But for someone who was bigger and more frenzied than me, he was pathetically weak. Grappling with him, it felt like he had more bones than flesh. Pretty soon, I had him pinned in a position where at least he couldn't hurt his head anymore.
+"What the fuck!! You can't smash your head on the wall, you'll give yourself brain damage!" I ran and grabbed his hair, yanking him back away from the wall to stop him. He twisted wildly in all directions, trying to get away from me. But even though he was bigger and more frenzied than me, he was pathetically weak. Grappling with him, it felt like he had more bones than flesh. Pretty soon, I had him pinned in a position where at least he couldn't hurt his head anymore.
 
 "Make it stop, help me, make it stop," he sobbed. "Help me!!"
 
