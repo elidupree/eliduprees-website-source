@@ -18,6 +18,8 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
   
+  [????? they all go in the same direction, then there's the puzzle where the two pairs split up]
+  
   [????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right". Also, "hey! <em>Yali</em>'s responsible too! I've got nothing against responsible people telling me what to do, [it's just you in particular]!"]
   
 [????? early in this chapter: Justicar predicts that they will not find Yali, reasoning about Yali being too willing to give answers]
@@ -247,6 +249,8 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 ?????
 
 Another puzzle
+
+[????? Justicar being very good at solving the puzzles, and Rinn ends up just going along with what she says]
 
 
 ?????
