@@ -262,7 +262,7 @@ I gave him a look. What was up with him? The first time, I had thought he was ju
 
 "Oh? Oh?" said Morrow tauntingly. "You think you know something about me, huh?"
 
-"Oh shut up. I WOULD know something about you if you'd ever TELL me anything about yourself – " The game came back on.
+"Oh shut up. I WOULD know something about you if you'd ever TELL me anything about yourself –" The game came back on.
 
 The last few scenes were getting pretty repetitive. Pretty soon, we were at the trash heap again. This time, there were only two possible answers. The second one was the couch, as usual. The first one was the city's sacred crest and the three main temples, their towers gleaming in the sunlight, along with all their holy regalia, and below them, a great feast laid out, with the poor and downtrodden receiving blessings and eating gratefully from the table, and at the very bottom, a tiny picture of Morrow.
 
@@ -310,7 +310,7 @@ The clock was running at a normal pace. It had a simple, blocky hour hand, and t
 
 "Okay, maybe the clock is the puzzle!" Morrow tried to take it down from the wall, but it didn't work. The clock was inset into the wall, and it was covered by a glass panel that was completely smooth with the surface of the wall. Morrow tried to dig his fingernails under it, but they just slid straight from the wall to the glass without catching anywhere. Then he swung his arm as if he was hitting it with a hammer, except he wasn't holding anything. He stared at his hand indignantly, then made the same gesture again.
 
-"Are you trying to…" I tried to manifest a hammer myself, and nothing happened. "Huh, guess we can't manifest in this one. "
+"Are you trying to…" I tried to manifest a hammer myself, and nothing happened. "Huh, guess we can't manifest in this one."
 
 "We must've missed something!!" said Morrow, agitated.
 
@@ -400,7 +400,7 @@ After a few minutes, I was startled to notice that Morrow still hadn't moved. He
 
 That's when Alchemist walked in through the wall.
 
-"Morrow!!" cried out Alchemist. "I was so afraid when you stopped answering me – "
+"Morrow!!" cried out Alchemist. "I was so afraid when you stopped answering me –"
 
 "Raylie!!!" Morrow sprang to his feet, bolted straight towards Alchemist, and hugged them without slowing down, slamming both of them into the wall. Before Alchemist could catch their balance again, Morrow was already yelling in their face. "It's happening again!! Help me, help me, you have to help me!!" Morrow grabbed onto Alchemist's shoulders, shaking violently. Alchemist's face flooded with confusion and distress.
 
