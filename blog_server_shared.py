@@ -83,7 +83,7 @@ def postprocess_post_string(initial_string, unique_id, title, mark_broken_tags, 
       marked_broken_tags = True
 
   # Replace most normal quotations with <q></q>. This is very imperfect, but covers most normal situations.
-  result_string = re.sub(r'(?:\A|(?<=[>\-\s]))"(?! )([^"]*?)(?<! )"', lambda match: "<q>"+match.group(1)+"</q>", result_string)
+  result_string = re.sub(r'(?:\A|(?<=[>\-\s]))"(?! )([^"\n]*?)(?<! )"', lambda match: "<q>"+match.group(1)+"</q>", result_string)
 
   next_footnote_number = 1
   footnotes = []
