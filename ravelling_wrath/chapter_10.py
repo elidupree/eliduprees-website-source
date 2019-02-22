@@ -18,9 +18,37 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
   
-  [????? they all go in the same direction, then there's the puzzle where the two pairs split up]
-  
-  [????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right". Also, "hey! <em>Yali</em>'s responsible too! I've got nothing against responsible people telling me what to do, [it's just you in particular]!"]
+It wasn't hard to get the others to follow along with me. ?????
+
+?????
+
+[????? Morrow moves a walkway so that Rinn is trapped]
+
+"Hey, move it back!" I yelled.
+
+Morrow cheerfully ignored me, [????? pulling some more of the levers and making various other walkways move around just to see what would happen]. I was stuck on this one tiny section of walkway, floating in empty space. I could jump for one of the others, but it looked too far to reach.
+
+Then again, it couldn't hurt, could it? None of the puzzles here had <em>actually</em> hurt me, even when I did stupid stuff. So I just took a flying leap off the platform, fell into the bottomless void, and landed back at the beginning of the puzzle like usual.
+
+Except this time… it actually might be useful to solving the puzzle. It meant you could move the walkways in a way that trapped yourself, if it was useful for someone else. You could just trap yourself, then jump back to the beginning. Or at least, three of us could. Alchemist was too nervous to jump.
+
+?????
+
+[????? they all go in the same direction, then there's the puzzle where the two pairs split up]
+
+"The one on the right looks closer to Yali. I'm going that way for sure!"
+
+"Hmm…" said Justicar. "Now I am torn. It seems we have no choice but to split into groups of two. Unfortunately, I don't believe any two of you should be left alone together."
+
+Morrow leaned over a railing, sneering down at her. "Yeeeeeah, and the third one has to be alone with <em>you</em>, so I guess we <em>alllllll</em> have to put up with something we don't like."
+
+Justicar ignored him. "Perhaps I should go with the Alchemist. Then, at least, neither of you would be able to [????? be a bad influence on him]."
+
+"What, and leave me with Morrow? I was already stuck with Morrow for ages!" Not that I wanted to be stuck with Justicar, either. "How about Alchemist goes with <em>me</em> and –" Haha, Morrow and Justicar would both <em>hate</em> being stuck with each other. Although, as funny as that would be, ?????
+
+
+
+[????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right". Also, "hey! <em>Yali</em>'s responsible too! I've got nothing against responsible people telling me what to do, [it's just you in particular]!"]
   
 [????? early in this chapter: Justicar predicts that they will not find Yali, reasoning about Yali being too willing to give answers]
 
@@ -32,11 +60,11 @@ posts = [
 
 "She's not 'my Farseer', she's my girlfriend!"
 
-"– Although she is wise for her years, she is still young. She has not fully realized that the virtue of restraint – to ?????, not to use the Waiting God's knowledge for every idle pursuit. So if she were with us –"
+"– Although she is wise for her years, she is still young. She has not fully grasped the virtue of restraint – to ?????, not to use the Waiting God's knowledge for every idle pursuit. So if she were with us –"
 
 "You're saying she'd give us the answers too easily."
 
-"Yes. It would contradict the will of the Seeking, so the Seeking will not allow it. If it has shown her location to us, it must have a different reason. We <em>may</em> reach her in a physical sense, but even if we do, it will be another layer of the Seeking God's game, not the happy reunion you are imagining."
+"Yes. It would contradict the will of the Seeking, so the Seeking will not allow it. If the Seeking has shown her location to us, it must have a different purpose. We <em>may</em> reach her in a physical sense, but even if we do, it will be another layer of the Seeking God's game, not the happy reunion you are imagining."
 
 "Well fuck you too. <em>I</em> say after I do these puzzles, the Seeking will reward me by letting me get – letting me see my fucking girlfriend. Rewards are part of a puzzle too, you know!"
 
