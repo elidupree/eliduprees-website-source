@@ -446,7 +446,7 @@ Morrow looked up at me with a little smirk. "This is the only room we've got!!" 
 
 "I'm only joking, I don't really mind it. Go ahead and do whatever you want. Haha, I wouldn't mind even if you wanted to have sex in here –" What the fuck was I saying? Well, I couldn't go back on it now. Time for the Rinn Akatura show, I guess. "It would be like the mile high club, except instead of being in an airplane you're in a –" <em>Wait, I shouldn't remind Morrow of where we are</em> "– I mean, hang on, if we don't have to eat, and we can heal all our injuries, does that mean we can't catch STDs? And, like, I don't know if pregnancy is the thing you two have to worry about, but –"
 
-"It does," said Morrow. Weirdly, he started talking in a completely matter-of-fact voice. "Some people come here to fuck because you can't get sick and you can't get preggo 'less you want to. Doesn't matter 'cause <em>smart</em> people don't do it 'cause the portals cost a fortune and they're just as unsafe as –"
+"It does," said Morrow. Weirdly, he started talking like he was totally bored. "Some ?????people come here to fuck because you can't get sick and you can't get preggo 'less you want to. Doesn't matter 'cause <em>smart</em> people don't do it 'cause the portals cost a fortune and they're just as unsafe as –"
 
 "Wait a minute, people can come <em>here</em>? I thought we were the only ones here!"
 

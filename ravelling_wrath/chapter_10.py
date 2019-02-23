@@ -38,7 +38,7 @@ Except this time… it actually might be useful to solving the puzzle. It meant 
 
 "The one on the right looks closer to Yali. I'm going that way for sure!"
 
-"Hmm…" said Justicar. "Now I am torn. It seems we have no choice but to split into groups of two. Unfortunately, I don't believe any two of you should be left alone together."
+"Hmm…" said Justicar. "Now [????? I am torn]. It seems we have no choice but to split into groups of two. Unfortunately, I don't believe any two of you should be left alone together."
 
 Morrow leaned over a railing, sneering down at her. "Yeeeeeah, and the third one has to be alone with <em>you</em>, so I guess we <em>alllllll</em> have to put up with something we don't like."
 
@@ -46,7 +46,21 @@ Justicar ignored him. "Perhaps I should go with the Alchemist. Then, at least, n
 
 "What, and leave me with Morrow? I was already stuck with Morrow for ages!" Not that I wanted to be stuck with Justicar, either. "How about Alchemist goes with <em>me</em> and –" Haha, Morrow and Justicar would both <em>hate</em> being stuck with each other. Although, as funny as that would be, ?????
 
+Justicar and I caught up arguing with each other for a minute, but then we were interrupted by a crash. We both whirled around to see where the noise had come from.
 
+Somehow, Alchemist had broken one of the [????? levers] and thrown it away. I was just in time to spot it falling into the void.
+
+"What are you doing?!" demanded Justicar.
+
+Alchemist was frozen up and unresponsive, looking down into their hands.
+
+"We have to work together! You may have just made this puzzle unsolvable!"
+
+"No, it's okay!" I said. "I think we can still solve it – like, uh…" I scrambled to find a solution. I hadn't really figured out whether we could solve it, I was just trying to distract Justicar so she wouldn't ?????hurt Alchemist. "So, without that lever, we can't move those two bridges near Alchemist, but we could still, uh… use the central wheel to move those ones over there –"
+
+"– Which would give us access to the rightmost lever, which, if the pattern continues, should open up the route for the Imminent to reach the left exit," Justicar concluded. "So that is <em>a</em> solution, but it limits our choices –"
+
+That's when I realized. Alchemist and Morrow were both on some of the higher walkways, which were mostly disconnected from the rest. Without the lever Alchemist had just busted, only the two of them could get to the left exit. And only Justicar and me could get to the right exit. "Are you seriously telling me that Alchemist solved the whole rest of the puzzle while we were arguing?! And then figured out which lever to break to make sure they'd get to leave with Morrow?! Shit, Alchemist, you're a genius!" I threw them a thumbs-up. I wasn't even mad that they'd stuck me with Justicar, that was just too brilliant. Now the lovebirds would get to be alone together, for the first time… ever, actually, now that I thought about it.
 
 [????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right". Also, "hey! <em>Yali</em>'s responsible too! I've got nothing against responsible people telling me what to do, [it's just you in particular]!"]
   
