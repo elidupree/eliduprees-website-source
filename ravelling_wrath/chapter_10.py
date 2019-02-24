@@ -242,9 +242,31 @@ Ugh, what was even the point of being serious with her? She was just going to ke
 
 "You can believe what you like," she said.
 
-?????
+<bigbreak>
 
-"?????? Of course I'm never going to do ?????! That shit fucks you up! I mean, not that you're fucked up because you did ?????. <em>You're</em> fucked up for completely unrelated reasons," I said, jabbing my finger into the chest plate of her armor. "Ow, that hurts."
+Maybe getting drunk wasn't such a good idea after all. When I wasn't arguing with Justicar, we still had these puzzles to do. In the latest one, there were a lot of long dead-end hallways that each had one button at the end, and we had to remember what each of the buttons did, so we could press them in the right order.
+
+I pressed one of them and watched what happened. "So this one opens the <em>third</em> door and closes the second. Just like, uh, the last one."
+
+Justicar squinted back at me from the other side of the room, peering through several sheets of glass. "No, not like the last one. You only think that because you're in the <em>same</em> hallway as last time."
+
+"No I'm not."
+
+Justicar raised an eyebrow.
+
+"Okay, fine." I stumbled back out of the hall and turned right to go to the next one. But instead, I walked headfirst into a glass wall. "Ow, that hurts."
+
+"If you insist on remaining drunk, why don't you step out of the puzzle and let me solve it by myself? You are not being helpful."
+
+[????? Justicar comes back to Rinn's location, takes her by the shoulders and starts leading her out of the puzzle]
+
+"At least it's only alcohol, not ?????…" she muttered.
+
+????? was an alchemical drug that some people used to get high. It supposedly [????? gave you enjoyable psychological effect]. But I knew a couple of guys who used it a lot, and they kind of… weren't all there, [????? both when they were under its effects and when they weren't]. And their skin was dry and cracked all the time… wait a minute. <em>Justicar</em>'s skin had always looked kind of dry and cracked.
+
+"I don't know why I'm bothering to say this," she went on, "but if you remember only one thing from what I tell you, remember never to touch ?????. No matter how it makes you feel in the moment, it will always –"
+
+"Of course I'm never going to do ?????! That shit fucks you up! Uh, I mean, not that you're fucked up because you did ?????. <em>You're</em> fucked up for completely different reasons." I said, jabbing my finger into the chest plate of her armor. "Ow, that hurts."
 
 "Please stop being drunk," said Justicar wearily.
 
