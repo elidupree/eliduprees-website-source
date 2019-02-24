@@ -318,7 +318,7 @@ From behind me, I heard Justicar say, "Very well, I will accompany you. But I wi
 
 [????? Morrow tries to play quietly, tries to make soundproof walls] Since we were on Neenu now, the piles of stuff we'd left on the underside of the last star were gone, and there was lots of space to fill up with new stuff. ?????
 
-"By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted towards me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
+"By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted around me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
 
 Morrow shrugged. "Gay is just who you fuck, right?"
 
@@ -342,7 +342,7 @@ Then I looked over at Morrow. He was [????? playing with something in his hands]
 
 "Uh, she's not doing anything."
 
-"I TOLD you she's an extrovert! She keeps wanting to be closer to us! But then she SQUASHES it! Over and over again! I can't STAND it!" he spat.
+"I TOLD you she's an extrovert! She keeps wanting to be closer to us! But then she SQUASHES it! She keeps SHOVING her feelings down a DUMPSTER! I can't STAND it!" he spat.
 
 "If you have a problem with the choices I make in what <em>should</em> be the privacy of my own mind," said Justicar, "it is not my responsibility to accommodate you."
 
@@ -434,7 +434,7 @@ I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. G
 
 I hadn't thought about that, but it was true. There was one portal for each of us, so each of us was going to have to get off separately. And… "Well, Morrow's the only one who can talk to Neenu, so I guess he'll have to get off last." Even as I said it, I could see the problem with that. Did Morrow even know how to find his way from one star to another? Thinking back to when he first showed up, he had probably just "smelled" us with his powers and gone that way on his rocket. I mean, I couldn't say I was much better, but I had at least <em>tried</em> to read the Codex. But Morrow…
 
-"I can go with him," said Justicar, not sounding very enthusiastic about it. "I can wait on the star with the Imminent's portal, then travel to my own portal by riding the stars the way we are intended to."
+"I can go with him," said Justicar, not sounding very enthusiastic about it. "Once we reach the star with the Imminent's portal, I can get off and wait for other stars to arrive, then travel to my own portal by riding the stars the way we are intended to."
 
 "It's settled then!" said Morrow. "Me and Justicar last, Alchemist second-to-last, that just leaves –"
 
@@ -444,7 +444,7 @@ I hadn't thought about that, but it was true. There was one portal for each of u
 
 "Nope!" said Morrow cheerfully.
 
-"I mean, obviously I'd have chosen to go first, I just wanted to <em>choose</em> to go first, not just to have the rest of you stick me with it."
+"I mean, obviously I'd have chosen to go first, but I wanted to <em>choose</em> to go first, not justa have the rest of you stick me with it."
 
 Justicar raised an eyebrow. "If it helps… there is always a choice."
 
@@ -491,11 +491,13 @@ Justicar raised an eyebrow. "If it helps… there is always a choice."
 
 "No… unlike a human sorcerer, the Broken God can reabsorb the threads after they're used. A human soul is like a big, complex tangle of threads. You can pull one of the threads out of the tangle, but if you tried to put the same thread back exactly where it came from, you wouldn't have a chance. The rest of us can't perform sorcery here even if we know how to, because the gods want our souls fully intact. But the Broken God is, is, is, special.
 
-"Then there's alchemy. Certain substances have a natural, magical, connection to one of the gods, usually the Broken. And an alchemist – that is, a lowercase-L alchemist – knows how to mix those substances to activate the divine power inside them. So it's technically the god manifesting on the world, just directed by the lowercase-L alchemist.
+"Then there's alchemy. Certain substances have a natural, magical, connection to one of the gods, usually the Broken. And an alchemist – that is, a lowercase-A alchemist – knows how to mix those substances to activate the divine power inside them. So it's technically the god manifesting on the world, just directed by the lowercase-A alchemist.
 
 "Those are the main types of magic. There's a few other terms you might have encountered. When we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So Rinn's Blood Blades, Justicar's sword and armor, and Morrow's, Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something.
 
 "And a <em>curse</em> is a special type of sorcery that weaves itself into the victim's soul, so that it's very difficult to remove."
+
+[????? Yali rested her case]
 
 "Okay, so you've covered… all of us except you. Alchemist is like sorcery, the rest of us are like manifesting. But what about you? What's the Seeing like?"
 
