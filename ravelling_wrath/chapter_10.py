@@ -18,7 +18,19 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
   
-It wasn't hard to get the others to follow along with me. ?????
+It wasn't hard to get the others to follow along with me. Morrow was always going to follow wherever Alchemist went. Justicar was always going to follow the rest of us to "protect" us. And Alchemist… I wasn't really sure, but they moved to follow along as soon as I said where I was going. Maybe they wanted us all to get back together with Yali again, just like I did.
+
+The way we were walking, more glass walkways stretched out over the void. At first, we were on a long straight one. But then it branched and expanded into a whole three-dimensional maze in the air, with different walkways curling around each other and joining in loops and stopping at dead ends in midair.
+
+It got harder and harder to keep moving. We took what seemed like the obvious way forward, but then it twisted around and hit a dead end. Before long, it didn't seem like there was <em>any</em> way forward.
+
+We split up and looked around.
+
+Pretty soon, Morrow yelled out, "Check this!" I looked, and he was standing in front of a big… something like a ship's steering wheel. I hadn't spotted it earlier, because it was also made of glass and it blended in with all the handrails.
+
+"What does it – Aaaaaahhhh!" I yelled as the floor moved under me. When I caught my balance, I saw what had happened. When Morrow spun the wheel, about half of the walkways also moved through the air to match.
+
+Well, now we could reach a bunch of places we cannot reach before. And as it turned out, a bunch of those places had <em>more</em> wheels that moved around <em>different</em> walkways. It was in elaborate puzzle, where you had to spin the wheels to just the right positions to get where you wanted. In fact, pretty soon there were places we could only get to by having <em>one</em> person spin a wheel while a <em>different</em> person waited on one of the walkways that was going to move. It was a puzzle for all of us to solve together.
 
 ?????
 
@@ -26,7 +38,7 @@ It wasn't hard to get the others to follow along with me. ?????
 
 "Hey, move it back!" I yelled.
 
-Morrow cheerfully ignored me, [????? pulling some more of the levers and making various other walkways move around just to see what would happen]. I was stuck on this one tiny section of walkway, floating in empty space. I could jump for one of the others, but it looked too far to reach.
+Morrow cheerfully ignored me, [????? pulling some more of the levers and making various other walkways move around just to see what would happen]. I was stuck on this one tiny section of walkway, floating in empty space. I could jump for one of the others, but it looked too far to reach. The
 
 Then again, it couldn't hurt, could it? None of the puzzles here had <em>actually</em> hurt me, even when I did stupid stuff. So I just took a flying leap off the platform, fell into the bottomless void, and landed back at the beginning of the puzzle like usual.
 
@@ -46,7 +58,7 @@ Justicar ignored him. "Perhaps I should go with the Alchemist. Then, at least, n
 
 "What, and leave me with Morrow? I was already stuck with Morrow for ages!" Not that I wanted to be stuck with Justicar, either. "How about Alchemist goes with <em>me</em> and –" Haha, Morrow and Justicar would both <em>hate</em> being stuck with each other. Although, as funny as that would be, ?????
 
-Justicar and I caught up arguing with each other for a minute, but then we were interrupted by a crash. We both whirled around to see where the noise had come from.
+Justicar and I got caught up in arguing with each other for a minute. But then we were interrupted by a crash. We both whirled around to see where the noise had come from.
 
 Somehow, Alchemist had broken one of the [????? levers] and thrown it away. I was just in time to spot it falling into the void.
 
@@ -56,7 +68,7 @@ Alchemist was frozen up and unresponsive, looking down into their hands.
 
 "We have to work together! You may have just made this puzzle unsolvable!"
 
-"No, it's okay!" I said. "I think we can still solve it – like, uh…" I scrambled to find a solution. I hadn't really figured out whether we could solve it, I was just trying to distract Justicar so she wouldn't ?????hurt Alchemist. "So, without that lever, we can't move those two bridges near Alchemist, but we could still, uh… use the central wheel to move those ones over there –"
+"No, it's okay!" I said. "I think we can still solve it – like, uh…" I scrambled to find a solution. I hadn't really figured out whether we could solve it, I was just trying to distract Justicar so she wouldn't [????? emotionally hurt] Alchemist. "So, without that lever, we can't move those two bridges near Alchemist, but we could still, uh… use the central wheel to move those ones over there –"
 
 "– Which would give us access to the rightmost lever, which, if the pattern continues, should open up the route for the Imminent to reach the left exit," Justicar concluded. "So that is <em>a</em> solution, but it limits our choices –"
 
