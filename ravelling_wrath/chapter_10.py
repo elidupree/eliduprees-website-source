@@ -30,21 +30,19 @@ Pretty soon, Morrow yelled out, "Check this!" I looked, and he was standing in f
 
 "What does it – Aaaaaahhhh!" I yelled as the floor moved under me. When I caught my balance, I saw what had happened. When Morrow spun the wheel, about half of the walkways also moved through the air to match.
 
-Well, now we could reach a bunch of places we cannot reach before. And as it turned out, a bunch of those places had <em>more</em> wheels that moved around <em>different</em> walkways. It was in elaborate puzzle, where you had to spin the wheels to just the right positions to get where you wanted. In fact, pretty soon there were places we could only get to by having <em>one</em> person spin a wheel while a <em>different</em> person waited on one of the walkways that was going to move. It was a puzzle for all of us to solve together.
+Well, now we could reach a bunch of places we couldn't reach before. And as it turned out, a bunch of those places had <em>more</em> wheels that moved around <em>different</em> walkways. It was in elaborate puzzle, where you had to spin the wheels to just the right positions to get where you wanted. In fact, pretty soon there were places we could only get to by having <em>one</em> person spin a wheel while a <em>different</em> person waited on one of the walkways that was going to move. It was a puzzle for all of us to solve together.
 
 Not that the four of us knew how to work together. Justicar stood back, thinking through everything logically and telling everyone else what to do. So of course, Morrow did the opposite, running around and spinning every wheel at random, pulling Alchemist along with him. Normally, I'd have been rooting for Morrow, just to piss off Justicar. But… this time I couldn't ignore my rising frustration. We <em>could</em> have been making progress towards <em>Yali</em>, and he was just running around messing it all up! And I also kept having surges of that confident feeling, which meant I was having Blood God thoughts and the loopy thing was shutting them down. It was a relief not to have them, but it actually felt pretty weird. It was kind of disrupting my train of thought.
 
 So, as strange as it was, I ended up working with Justicar. We worked together to get past the parts that needed two of us to cooperate. And for the parts that needed three or four people working together, I tried to coax Morrow to play along.
 
-?????
-
-[????? Morrow moves a walkway so that Rinn is trapped]
+<bigbreak>
 
 "Hey, move it back!" I yelled.
 
-Morrow cheerfully ignored me, [????? pulling some more of the levers and making various other walkways move around just to see what would happen]. I was stuck on this one tiny section of walkway, floating in empty space. I could jump for one of the others, but it looked too far to reach. The
+Why had I ever tried to work with Morrow? We'd just opened up a way for him to go on ahead, and when he got there, the first wheel he turned took away my only path away from where I was standing. And now he was cheerfully ignoring me. I was stuck on this one tiny section of walkway, floating in empty space. The worst part was, I <em>understood</em> this puzzle now. Justicar and I had figured out exactly how to tell which wheels moved which walkways in which directions. And Morrow was the <em>only</em> person in a position to free me. The only thing I could think of was to jump, but all the other walkways looked too far away to reach.
 
-Then again, it couldn't hurt, could it? None of the puzzles here had <em>actually</em> hurt me, even when I did stupid stuff. So I just took a flying leap off the platform, fell into the bottomless void, and landed back at the beginning of the puzzle like usual.
+Then again, it couldn't hurt to try, could it? None of the puzzles here had <em>actually</em> hurt me, even when I did stupid stuff. So I just took a flying leap off the platform, fell into the bottomless void, and landed back at the beginning of the puzzle like usual.
 
 Except this time… it actually might be useful to solving the puzzle. It meant you could move the walkways in a way that trapped yourself, if it was useful for someone else. You could just trap yourself, then jump back to the beginning. Or at least, three of us could. Alchemist was too nervous to jump.
 
@@ -52,7 +50,7 @@ By taking advantage of that, Justicar and I were able to get a lot farther witho
 
 "Hey look! Up ahead!" he yelled.
 
-Once I looked closer, I could see what he was pointing at. Ahead of us, the tangle of walkways started to thin out. Eventually, and narrowed to just one, stretching off into the darkness – the end of this puzzle, and the beginning of whatever came next.
+Once I looked closer, I could see what he was pointing at. Ahead of us, the tangle of walkways started to thin out. Eventually, it narrowed to just one, stretching off into the darkness – the end of this puzzle, and the beginning of whatever came next.
 
 Except, actually… there were <em>two</em> walkways into the darkness. We would have to decide which way to go.
 
@@ -64,7 +62,11 @@ Morrow leaned over a railing, sneering down at her. "Yeeeeeah, and the third one
 
 Justicar ignored him. "Perhaps I should go with the Alchemist. Then, at least, neither of you would be able to [????? be a bad influence on him]."
 
-"What, and leave me with Morrow? I was already stuck with Morrow for ages!" Not that I wanted to be stuck with Justicar, either. "How about Alchemist goes with <em>me</em> and –" Haha, Morrow and Justicar would both <em>hate</em> being stuck with each other. Although, as funny as that would be, ????? [loopy thing stuff]
+"What, and leave me with Morrow? I was already stuck with Morrow for ages!" Not that I wanted to be stuck with Justicar, either. "How about Alchemist goes with <em>me</em> and –" Haha, Morrow and Justicar would both <em>hate</em> being stuck with each other. That would be hilarious, and I was kind of thinking it was what they both deserved. But as soon I thought that, the loopy thing flooded me with that confident feeling again.
+
+"Are you alright?" said Justicar sharply.
+
+I must've been spacing out a bit there. "I'm fine, I was just thinking about how I'm awesome and you should all do what I say."
 
 Justicar and I got caught up in arguing with each other for a minute. But then we were interrupted by a crash. We both whirled around to see where the noise had come from.
 
@@ -74,7 +76,7 @@ Diagonally above us, Alchemist was… surrounded by greenish-brown vines, growin
 
 Alchemist was frozen up and unresponsive, looking down at their hands.
 
-"We have to work together! You may have just made this puzzle unsolvable!" [????? Before this, establish that Rinn and Justicar understand the puzzle pretty well]
+"We have to work together! You may have just made this puzzle unsolvable!"
 
 "No, it's okay!" I said. "I think we can still solve it – like, uh…" I scrambled to find a solution. I hadn't really figured out whether we could solve it, I was just trying to distract Justicar so she wouldn't [????? emotionally hurt] Alchemist. "So, without that wheel, we can't move those two bridges near Alchemist, but we could still, uh… use the central wheel to move those ones over there –"
 
