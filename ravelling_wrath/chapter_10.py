@@ -17,6 +17,10 @@ posts = [
   ''',
   "head":head,
   "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
+
+[????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right". Also, "hey! <em>Yali</em>'s responsible too! I've got nothing against responsible people telling me what to do, [it's just you in particular]!"]
+
+[????? Somewhere in this chapter: Justicar saying that her understanding of "the laws by which each god/world functions" gives her an advantage]
   
 It wasn't hard to get the others to follow along with me. Morrow was always going to follow wherever Alchemist went. Justicar was always going to follow the rest of us to "protect" us. And Alchemist… I wasn't really sure, but they moved to follow along as soon as I said where I was going. Maybe they wanted us all to get back together with Yali again, just like I did.
 
@@ -84,13 +88,23 @@ Alchemist was frozen up and unresponsive, looking down at their hands.
 
 That's when I realized. Alchemist and Morrow were both on some of the higher walkways, which were mostly disconnected from the rest. Without the wheel Alchemist had just busted, only the two of them could get to the left exit. And only Justicar and me could get to the right exit. "Are you seriously telling me that Alchemist solved the whole rest of the puzzle while we were arguing?! And then figured out which lever to break to make sure they'd get to leave with Morrow?! Shit, Alchemist, you're a genius!" I threw them a thumbs-up. I wasn't even mad that they'd stuck me with Justicar, that was just too brilliant. Now the lovebirds would get to be alone together, for the first time… ever, actually, now that I thought about it.
 
-[????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right". Also, "hey! <em>Yali</em>'s responsible too! I've got nothing against responsible people telling me what to do, [it's just you in particular]!"]
+<bigbreak>
 
-[????? Somewhere before the drinking: Blood God breaking past the loopy thing]
-  
-[????? early in this chapter: Justicar predicts that they will not find Yali, reasoning about Yali being too willing to give answers]
+"So…" I said.
 
-"I do not expect that we will," said Justicar.
+"So…" said Justicar.
+
+We were alone together, walking along the long, narrow walkway. Morrow and Alchemist were off in their own puzzles now.
+
+This was sure going to be awkward.
+
+"If you're going to help me find Yali, we don't have to have a problem with each other," I said.
+
+Justicar considered this for a few paces before answering. "I am… not against assisting in your search. The Stern God does ask that I seek the Farseer's guidance, even if it also asks that I not become dependent upon it. However –"
+
+"– you're not gonna, because, let me guess –"
+
+"– No, I intend to assist you to the best of my ability. I simply do not expect that we will be <em>able</em> to find her this way."
 
 "You kidding me? Let me guess, it's because I'd like that, and nothing I like is allowed to happen."
 
@@ -108,15 +122,9 @@ That's when I realized. Alchemist and Morrow were both on some of the higher wal
 
 "You can believe what you like."
 
-[????? Somewhere in this chapter: noticing that the type of puzzles is dependent on who is running into them]
+[????? Somewhere before the drinking: Blood God breaking past the loopy thing]
 
-[????? Somewhere in this chapter: Justicar saying that her understanding of "the laws by which each god/world functions" gives her an advantage]
-
-
-[????? Where: "The Stern God asks that I consider the Farseer's guidance, but not become dependent on it."]
-
-[????? somewhere in this chapter: Justicar's parents and the big decision]
-
+<bigbreak>
 
 Up ahead of us was a big room where the floor was divided into a square grid, with each square about a meter wide. A lot of the squares had glass walls rising up from them, forming smaller rooms and hallways within the big grid. Other squares were missing, leaving pits going down into the floor. Still other squares had doors, buttons, levers, and other devices I didn't recognize.
 
@@ -166,6 +174,8 @@ Justicar spotted what I was doing. "I told you," she said patiently, "the Seekin
 "And thus, it is within the Seeking God's authority to determine <em>which</em> puzzles may be answered with clever tricks, and which may not."
 
 "Hmph."
+
+<bigbreak>
 
 ?????
 
