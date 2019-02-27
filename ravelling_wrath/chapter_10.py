@@ -102,9 +102,9 @@ This was sure going to be awkward.
 
 Justicar considered this for a few paces before answering. "I am… not against assisting in your search. The Stern God does ask that I seek the Farseer's guidance, even if it also asks that I not become dependent upon it. However –"
 
-"– you're not gonna, because, let me guess –"
+"– however, you're not gonna, because, let me guess –"
 
-"– No, I intend to assist you to the best of my ability. I simply do not expect that we will be <em>able</em> to find her this way."
+"– No, I intend to assist you, to the best of my ability. I simply do not expect that we will be <em>able</em> to find her this way."
 
 "You kidding me? Let me guess, it's because I'd like that, and nothing I like is allowed to happen."
 
@@ -112,7 +112,7 @@ Justicar considered this for a few paces before answering. "I am… not against 
 
 "She's not 'my Farseer', she's my girlfriend!"
 
-"– Although she is wise for her years, she is still young. She has not fully grasped the virtue of restraint – to ?????, not to use the Waiting God's knowledge for every idle pursuit. So if she were with us –"
+"– Although she is wise for her years, she is still young. She has not fully grasped the virtue of restraint – to save her abilities for the opportune moment, not to use the Waiting God's knowledge for every idle pursuit. So if she were with us –"
 
 "You're saying she'd give us the answers too easily."
 
@@ -122,9 +122,11 @@ Justicar considered this for a few paces before answering. "I am… not against 
 
 "You can believe what you like."
 
-[????? Somewhere before the drinking: Blood God breaking past the loopy thing]
+[????? A few Blood God thoughts sneak out]
 
 <bigbreak>
+
+?????
 
 Up ahead of us was a big room where the floor was divided into a square grid, with each square about a meter wide. A lot of the squares had glass walls rising up from them, forming smaller rooms and hallways within the big grid. Other squares were missing, leaving pits going down into the floor. Still other squares had doors, buttons, levers, and other devices I didn't recognize.
 
@@ -160,7 +162,7 @@ I sized up the hole. "I could jump that, easy."
 
 I took off running and jumped clean over the hole. I grabbed the lever and gave it a good heave, smirking. Then I jumped back over the hole as a wall slid open somewhere. "That was easy," I said. "You could probably jump it, too. Even with that armor, it's not –"
 
-"I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if only to illustrate." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to be there if it functions no differently than an empty floor. So that is the second rule of the puzzle: only the Blood Child can cross gaps."
+"I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if only to illustrate." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to exist if it functions no differently than an empty floor. So that is the second rule of the puzzle: only the Blood Child can cross gaps."
 
 ?????
 
@@ -177,13 +179,51 @@ Justicar spotted what I was doing. "I told you," she said patiently, "the Seekin
 
 <bigbreak>
 
+"Let me OUT of here!!" I screamed.
+
+I was TRAPPED between these glass walls. I had to get OUT. With a Blood Blade in my hand, I stabbed against the –
+
+"Is something wrong?" came Justicar's voice.
+
+No, I was fine. "Nah," I said, cool confidence surging through me. "I'll have this figured out in no time." I turned back to the puzzle I was working on…
+
+<bigbreak>
+
+"Let me OUT of here!!" I screamed.
+
+"That's the same thing you said earlier, are you –"
+
+"I'm TRAPPED in here, can't you see it?!"
+
+"There is an open door to your left. If you're feeling claustrophobic, you would be able to –"
+
+I looked. It was… open, but that… "That's NOT what I'm TALKING about!! I – I have to –"
+
 ?????
 
-[Probably down time where Rinn starts engaging Justicar about Justicar's beliefs]
+"No, you're not fine."
 
-"[????? Any of you Stern hypocrites]. I've had enough of that back on Earth. Mom and Dad thinking they can control me, teachers acting like they know shit about what's good for me…"
+?????
 
-"Even if they are truly hypocrites – which perhaps they are! – you should not be so quick to discard the wisdom of the Stern simply because of their human failings. In truth, very few who claim to follow the Stern truly uphold its ideals."
+[????? "I can remove it"]
+
+"Do it," I barked.
+
+?????
+
+"Ugh, remind me to NEVER do that AGAIN!" [????? The worst was over, but I still felt trapped, helpless and overwhelmed. The pounding in my head was too much for me to not snap at Justicar (maybe "no other thoughts would come to my mind")]
+
+?????
+
+"It seemed like you had suffered enough."
+
+"Way to rub it in!"
+
+"I wasn't trying to rub it in –"
+
+"Well, GOOD! I don't need any more lectures from you Stern hypocrites!! I've had enough of that back on Earth! Mom and Dad thinking they can control me, teachers acting like they know shit about what's good for me –"
+
+[????? Justicar thought about it, then had an emotional shift and spoke more gently[Maybe Justicar believes that Rinn is going down the wrong path because Rinn's parents haven't been good Stern role models, so Justicar should try to be that]] "Even if they are truly hypocrites – which perhaps they are! – you should not be so quick to discard the wisdom of the Stern simply because of their human failings. In truth, very few who claim to follow the Stern truly uphold its ideals."
 
 "I bet <em>you</em> do, though," I said sarcastically.
 
@@ -193,7 +233,7 @@ Justicar spotted what I was doing. "I told you," she said patiently, "the Seekin
 
 "I am far from perfect," said Justicar severely.
 
-[Maybe Justicar believes that Rinn is going down the wrong path because Rinn's parents haven't been good Stern role models, so Justicar should try to be that]
+?????
 
 "I was not so different from you once. I [????? thought the world belonged to me? Multiple examples]."
 
