@@ -44,7 +44,7 @@ So, as strange as it was, I ended up working with Justicar. We worked together t
 
 "Hey, move it back!" I yelled.
 
-Why had I ever tried to work with Morrow? We'd just opened up a way for him to go on ahead, and when he got there, the first wheel he turned took away my only path away from where I was standing. And now he was cheerfully ignoring me. I was stuck on this one tiny section of walkway, floating in empty space. The worst part was, I <em>understood</em> this puzzle now. Justicar and I had figured out exactly how to tell which wheels moved which walkways in which directions. And Morrow was the <em>only</em> person in a position to free me. The only thing I could think of was to jump, but all the other walkways looked too far away to reach.
+Why had I ever tried to work with Morrow? We'd just opened up a way for him to go on ahead, and when he got there, the first wheel he turned took away my only path away from where I was standing. And now he was cheerfully ignoring me. I was stuck on this one tiny section of walkway, floating in empty space. And the worst part was, I <em>understood</em> this puzzle now. Justicar and I had figured out exactly how to tell which wheels moved which walkways in which directions. And Morrow was the <em>only</em> person in a position to free me. The only thing I could think of was to jump, but all the other walkways looked too far away to reach.
 
 Then again, it couldn't hurt to try, could it? None of the puzzles here had <em>actually</em> hurt me, even when I did stupid stuff. So I just took a flying leap off the platform, fell into the bottomless void, and landed back at the beginning of the puzzle like usual.
 
@@ -134,9 +134,9 @@ I pressed my face to one of the glass walls. "I feel like I'm in an aquarium," I
 
 "Style, perhaps, but it also serves a function. I expect that the walls are made of glass so that we can see the whole puzzle at once. It allows us to examine the puzzle before jumping into anything –"
 
-Well, if she was going to say <em>that</em>, I knew what I had to do. "Alright, time to jump into things!!" I said cheerfully. I danced out onto the floor of the main puzzle area. I was planning to mess with one of the levers, but the glass walls were actually blocking off most of them. "Wonder what those are?" I said, waving my arm at a nozzle sticking out of one of the walls.
+Well, if she was going to say <em>that</em>, I knew what I had to do. "Alright, time to jump into things!!" I said cheerfully. I danced out onto the floor of the main puzzle area. I was planning to mess with one of the levers, but the glass walls were actually blocking them all off. "Wonder what those are?" I said, waving my arm at a nozzle sticking out of one of the walls.
 
-Just then, the room roared to life. ????? ?????verbed and jets of flame spouted out of the nozzles on the walls. One of the jets was zooming right towards me. I was too startled to react.
+Just then, the room roared to life. Glass wall slid open. Control panels lit up. And out of the nozzles on the walls, jets of fire spurted out, flames roaring and curling through the air. One of the jets was zooming right towards me. I was too startled to react.
 
 Justicar was quicker. Right away, she leapt in between me and the source of the flames. The flames deflected off of her armor, shooting off at wide angles and dispersing into the air.
 
@@ -197,27 +197,35 @@ No, I was fine. "Nah," I said, cool confidence surging through me. "I'll have th
 
 "There is an open door to your left. If you're feeling claustrophobic, you would be able to –"
 
-I looked. It was… open, but that… "That's NOT what I'm TALKING about!! I – I have to –"
+I looked. It was… open, but that… "That's NOT what I'm TALKING about!! I – I have to – I –" Something had felt really urgent just now, but thinking back, I wasn't sure what it was. It was probably no big deal.
 
-?????
+Justicar was hurrying towards me, her voice tight with concern. "If that is not what you're talking about, then explain to me –"
 
-"No, you're not fine."
+I laughed. "Do you gotta treat everything like it such a big deal? It's fine."
 
-?????
+"No, it's not fine. Listen to yourself! <em>Seconds</em> ago, you were saying you were trapped! I can't just let you pretend that didn't happen!"
 
-[????? "I can remove it"]
+"But it… really didn't happen. It was, like, a dream or something."
+
+Justicar's face loomed close in front of me. "I <em>heard</em> you. It was no dream. Now tell me what is going on!"
+
+I could feel it again, like hot steam hissing its way around the edges of my mind. It was going to come back. It was going to happen again if I didn't – "Okay, FINE, it's Morrow's loopy thing! It's fucking up! It's SUPPOSED to just – but it's –"
+
+"I can remove it," said Justicar urgently. "The Stern God's will can purge foreign magics from –"
 
 "Do it," I barked.
 
+Justicar's hands suddenly shone with a blinding white light. She pressed them to my forehead, the light stabbing into my eyes. For a few seconds, my mind was suspended with a disconcerting feeling. And then… relief, an angry sort of relief. I felt like I'd just been cut down from being chained to a wall with my underside exposed, and now I was curling up in a spiky ball to protect myself.
+
+"Ugh, remind me to NEVER ask for help from Morrow AGAIN!" I yelled, leaning on a wall and covering my eyes against Justicar's light.
+
+ [????? The worst was over, but I still felt trapped, helpless and overwhelmed. The pounding in my head was too much for me to not snap at Justicar (maybe "no other thoughts would come to my mind")]
+
 ?????
 
-"Ugh, remind me to NEVER do that AGAIN!" [????? The worst was over, but I still felt trapped, helpless and overwhelmed. The pounding in my head was too much for me to not snap at Justicar (maybe "no other thoughts would come to my mind")]
+"It seems like you have suffered enough."
 
-?????
-
-"It seemed like you had suffered enough."
-
-"Way to rub it in!"
+"Way to rub it in!" I snapped. A bitter resentment was howling inside me. I didn't even <em>want</em> to be snapping at Justicar. But I couldn't think of anything else.
 
 "I wasn't trying to rub it in –"
 
