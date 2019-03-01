@@ -265,7 +265,7 @@ It was driving me crazy. I felt trapped in this place. Even if I wasn't going to
 
 [????? "Maybe the reason you're not getting anywhere is that you are trying to hard"]
 
-"What, so I'm not supposed to try
+"What, so I'm not supposed to <em>try –</em>?!" <em>Fuck that! Fuck this whole place!!</em> I yelled inside my head. But of course, I didn't yell it out loud, because it was fucking <em>Alchemist</em>. I just gritted my teeth and frustration.
 
 Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was having to suppress my feelings all the time. And sure, I had to suppress some of my feelings with Yali, too, but at least Yali let me <em>be</em> angry, just as long as it wasn't at <em>her</em>.
 
@@ -309,22 +309,47 @@ I was surprised by how confident Alchemist sounded. I had pretty much been expec
 
 <bigbreak>
 
-Being intimate with Alchemist was like having one injury healed and another injury ripped back open. ?????. But the more we touched, the more I couldn't stop thinking about Yali, too. [????? I also couldn't stop thinking about Yali]
+Being intimate with Alchemist was like having one injury healed and another injury ripped back open. We spent hours lying together, nestled in each other's arms, rubbing our faces together and exchanging soft kisses from time to time. It filled me up with such warmth, such wholesomeness, I felt like ?????. But at the same time, the more we touched, the more I couldn't stop thinking about Yali, too. With Alchemist, I had such a deep, emotional closeness, but… I just wasn't that attracted to them physically. Even when we touched, my skin was craving something else. Something big and squishy and strong and luscious and <em>Yali</em>. ?????
 
-And the more I thought about Yali, the more it woke up the <em>other</em> part of me, too.
+Well, at least I was having the <em>good</em> obsession with Yali instead of the <em>bad</em> obsession with Yali. Any time I fantasized about getting in her pants instead of killing her to death, that was a win in my book.
+
+[????? Cut?: And the more I thought about Yali, the more it woke up the <em>other</em> part of me, too.]
+
+How many days had it been now? Somehow, the time just melted away when I was with Alchemist. And even when the Blood God popped up, its fury was [????? less long words in a row?: undercut with something bittersweet]. Nothing was <em>quite</em> how it should be, but still, somehow, every part of me had agreed to let this happen. Just for a while, to forget the mission, forget the puzzles, and just lean into the warmth.
+
+And that's when I first began to notice… <em>it</em>.
+
+[????? Making some progress by not trying, but then messing it up by trying – Rinn notices a specific detail and runs after it]
+
+"I don't think, trying to force it, will –"
+
+"Come on! This could be our chance to GET somewhere!!" I [continued running after it]
+
+But of course, it didn't work. Alchemist was right. Pissed off and dejected, I wandered back and let Alchemist fold me into their arms.
+
+"I thought I <em>had</em> something," I muttered irritably.
+
+Alchemist just pulled me gently closer. Not knowing what else to do, I leaned into them and brushed my lips against theirs. But I still just felt stupid. Why was I wasting my time kissing someone irrelevant like Alchemist when I had more important things to do?!
 
 [????? The Blood God being impatient, making Rinn impatient with Alchemist]
-
-Why was I wasting my time kissing someone irrelevant like Alchemist when I had more important things to do?!
-
 [???? worry about forgetting Yali for Alchemist?]
 
 [????? we came to a gorge]
 
 
-[????? More impatience spilling out]
+[????? More impatience spilling out] [????? needs clarification that the blood god is involved]
 
-"I didn't mean that," I said through gritted teeth. "Look, I'm going to, uh, <em>go</em>. Like, for a walk."
+Alchemist's hand tugged me back.
+
+"??????! This is the first new thing we've seen in days! This could be our way out of this desert!!"
+
+"When you're, looking for a way out, it doesn't make you feel good…"
+
+"I'm not TRYING to feel good, I'm trying to get OUT of here!!" I yanked my hand away from Alchemist. "You can stay back here and keep wasting your time if you want to! ?????!"
+
+Alchemist's mouth opened and closed a little. They stared back at me, distraught.
+
+In my frustration, I didn't <em>want</em> to care how Alchemist felt, but it still hit me like a stab in the gut. "I, uh, I didn't mean that," I said through gritted teeth. "Look, I'm going to, uh, <em>go</em>. Like, for a walk."
 
 It hurt me to leave Alchemist on that sour note, but with all the thundering impatience in my head, I couldn't get myself to say anything nicer either. I stood up and stomped off before I could make things worse.
 
