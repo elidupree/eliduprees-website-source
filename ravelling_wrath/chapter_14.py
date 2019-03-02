@@ -312,7 +312,7 @@ I had succeeded. I should have been happy.
 
 For years, I had kept myself going with the thought that if only I could prove what had happened, she would take me back, Arinyo Seti would take me back. But it was never something that was going to happen. She is Waiting, just as I am. She had made her commitments, and she would not change them for anything. She did not even tell me to my face. She wrote me a letter. It was a letter full of apologies and explanations. She wrote that everything that had been done to me was her own fault. That she did not know if she could ever be forgiven. And that I would be better off living my life far away from her.
 
-Twenty minutes after I read that letter, I cried for the first time in years. I still wanted believe that there was a home I could go back to. I didn't want to believe that she was no more than a [????? flawed/evil] human. I still have that letter, in the drawer of my nightstand. It is the bitterest thing I own.
+Twenty minutes after I read that letter, I cried for the first time in years. I still wanted believe that there was a home I could go back to. I didn't want to believe that she was no more than a [????? flawed/evil; maybe "flawed, callous"] human. I still have that letter, in the drawer of my nightstand. It is the bitterest thing I own.
 
  ????? I was given into the custody of the Stern. For the next ????? years, I was raised and educated in a Stern monastery.
 
