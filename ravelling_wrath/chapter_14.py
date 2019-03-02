@@ -248,7 +248,7 @@ That was not her fault. That was not when she betrayed me.
 
 I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that made sense to her. And I hoped for her too.
 
-So when she explained to me that I would be given to another family when she was [????? made into high priest], I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
+So when she explained to me that I would be given to another family when she was [?????anointed? ordained? as high priest], I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
 
 ????? and ????? ?????surname were praised and respected by everyone in our community. They were fashionable. They gave generously to good causes. And everyone remembered their grand gestures of love for each other, the surprise romantic messages they delivered at their formal parties. They always laughed and smiled charmingly, and whenever they were praised, they deflected it with modesty.
 
@@ -308,11 +308,17 @@ He called me "a perfect witness" and "my little psychopath". He said I would mak
 
 [????? They both pled guilty.]
 
-For years, I had kept myself going with the thought that if only I could prove what had happened, she would take me back. ????? I was given into the custody of the Stern. For the next ????? years, I was raised and educated in a Stern monastery.
+I had succeeded. I should have been happy.
+
+For years, I had kept myself going with the thought that if only I could prove what had happened, she would take me back, Arinyo Seti would take me back. But it was never something that was going to happen. She is Waiting, just as I am. She had made her commitments, and she would not change them for anything. She did not even tell me to my face. She wrote me a letter. It was a letter full of apologies and explanations. She wrote that everything that had been done to me was her own fault. That she did not know if she could ever be forgiven. And that I would be better off living my life far away from her.
+
+Twenty minutes after I read that letter, I cried for the first time in years. I still wanted believe that there was a home I could go back to. I didn't want to believe that she was no more than a [????? flawed/evil] human. I still have that letter, in the drawer of my nightstand. It is the bitterest thing I own.
+
+ ????? I was given into the custody of the Stern. For the next ????? years, I was raised and educated in a Stern monastery.
 
 In a way, it was [????? a relief]. My life had been uprooted in every way, but the Stern gave me stability. The monks kept the same routine every day, ?????. It was a predictability that I had never had before. It gave me a chance to rest and relax, for the first time in my life.
 
-Szaieto, the monk responsible for my upbringing, liked routines as much as I did. We had all our little ?????
+Szaieto, the monk responsible for my upbringing, liked routines as much as I did. We had all our little rituals together. Every morning, he woke me up by tapping the three times on my bedpost. I have actually recorded the sound of that so I can use it as my alarm clock now that I live on my own. And after every meal, we had a hand gesture that we did – I can't really describe it, but I can show you later.
 
 But I was never happy there. For years, I had dedicated my life to a single purpose – escape. But once I had succeeded, I had no idea what to do with my life. I was deeply depressed during my years at the monastery, even if I did not show it on the outside. The monks had answers to a lot of questions, but, but, not that one. There was one other orphan near my age there, but I didn't have anything in common with him.
 
