@@ -292,7 +292,57 @@ By "those two", he must have meant Yali and Justicar. "What about me?" I said.
 
 [???? rinn tries to think of a nice story, but has trouble]
 
-[????? Yali tells a story?]
+[????? Yali tells a story]
+
+[????? story's over and people appreciated it, now let's think about our plans for what's next]
+
+?????
+
+"Bet we can ride Neenu straight to the portals!" said Morrow.
+
+"Sounds good to me!" I said. "I'm sick of all this star stuff already."
+
+"If we are going to do that," said Yali, "we should think about exactly how we plan to do it. Especially, especially, what <em>order</em> we will visit the portals in."
+
+I hadn't thought about that, but it was true. There was one portal for each of us, so each of us was going to have to get off separately. And… "Well, Morrow's the only one who can talk to Neenu, so I guess he'll have to get off last." Even as I said it, I could see the problem with that. Did Morrow even know how to find his way from one star to another? Thinking back to when he first showed up, he had probably just "smelled" us with his powers and gone that way on his rocket. I mean, I couldn't say I was much better, but I had at least <em>tried</em> to read the Codex. But Morrow…
+
+"I can go with him," said Justicar, not sounding very enthusiastic about it. "Once we reach the star with the Imminent's portal, I can get off and wait for other stars to arrive, then travel to my own portal by riding the stars the way we are intended to."
+
+"It's settled then!" said Morrow. "Me and Justicar last, Alchemist second-to-last, that just leaves –"
+
+"Rinn goes before I do," said Yali decisively.
+
+"Alright, then, I'll –" I quickly counted up the order in my head. "Hey! Don't I get a choice about anything?"
+
+"Nope!" said Morrow cheerfully.
+
+"I mean, obviously I'd have chosen to go first, but I wanted to <em>choose</em> to go first, not justa have the rest of you stick me with it."
+
+Justicar raised an eyebrow. "If it helps… there is always a choice."
+
+"Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private data, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess, the place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
+
+?????
+
+[????? A pause in the discussion, long enough for Alchemist to speak up.]
+
+"Neenu…" said Alchemist uncertainly. "There isn't a portal for Neenu."
+
+"Maybe you can bring her through your portal! Make her smaller using a potion!" suggested Morrow.
+
+"How would a star drink a –" I began before Morrow shushed me.
+
+"I'm afraid it's impossible," said Yali. "Even if she is physically somewhere else, she is still made almost entirely from the Waiting God's threads. When the five Ravellers have passed through the portals, the Waiting God will reabsorb this world, and Neenu along with it."
+
+"So she'll just be… gone?" Alchemist looked [????? sad].
+
+"It's okay!" I said hastily. "It's still, like, beautiful, that she got to live for at least a little while!" That seemed to make Alchemist even sadder. Stern take it, I never knew what to say to make anyone feel better.
+
+Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way."
+
+"Oh…"
+
+
 
 [????? Asking about pronouns]
 
@@ -318,36 +368,6 @@ From behind me, I heard Justicar say, "Very well, I will accompany you. But I wi
 
 [????? Morrow tries to play quietly, tries to make soundproof walls] Since we were on Neenu now, the piles of stuff we'd left on the underside of the last star were gone, and there was lots of space to fill up with new stuff. ?????
 
-"By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted around me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
-
-Morrow shrugged. "Gay is just who you fuck, right?"
-
-"What? Don't say that, that makes it sound so one-dimensional! There's way more to it than that!"
-
-"What is it then? How do you know if you're gay?"
-
-"Do you actually not know, or are you just messing with me?"
-
-Morrow smirked. "Whaddaya think?"
-
-"I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on. Or, like, playing sports against her. <em>Girls</em>." I sighed happily.
-
-Then I looked over at Morrow. He was [????? playing with something in his hands], not listening to me at all. Haha, should've known not to try to explain anything serious to him.
-
-"You want to play like that?" I laughed. I [????? pranked Morrow, in a way that they both have fun with]
-
-?????
-
-"Will you <em>stop doing that??</em>" Morrow hissed at Justicar suddenly.
-
-"Uh, she's not doing anything."
-
-"I TOLD you she's an extrovert! She keeps wanting to be closer to us! But then she SQUASHES it! She keeps SHOVING her feelings down a DUMPSTER! I can't STAND it!" he spat.
-
-"If you have a problem with the choices I make in what <em>should</em> be the privacy of my own mind," said Justicar, "it is not my responsibility to accommodate you."
-
-Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But getting Morrow calmed down was more important.
-
 ?????
 
 [????? Rinn wins something against Morrow and makes a crown out blood blades to celebrate her victory]
@@ -361,8 +381,60 @@ Justicar's voice softened a little. "Have you never skied before?"
 "Oh, come on! There's nowhere to ski in the city anyway!"
 
 
+?????
+
+"Will you <em>stop doing that??</em>" Morrow hissed at Justicar suddenly.
+
+"Uh, she's not doing anything."
+
+"I TOLD you she's an extrovert! She keeps wanting to be closer to us! But then she SQUASHES it! She keeps SHOVING her feelings down a DUMPSTER! I can't STAND it!" he spat.
+
+"If you have a problem with the choices I make in what <em>should</em> be the privacy of my own mind," said Justicar, "it is not my responsibility to accommodate you."
+
+Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But getting Morrow calmed down was more important.
 
 
+[????? Rinn distracts Morrow in a way that uses a lot of manifesting]
+
+"Can the rest of you stop manifesting for a while?" said Yali suddenly.
+
+"Sure, but why?" I said.
+
+"It's the Seeing. It's –"
+
+"Ooh! Ooh!" said Morrow. "Does it mess it up when we manifest? How does it work? Tell me!"
+
+"The truth is, even though it's called the Seeing," began Yali patiently, "it's not much like seeing with my eyes. It's more like, sort of… holding very still, to <em>listen</em> for the future. And your manifesting is very… noisy. So it's hard to hear anything past what you're about to manifest."
+
+"Oh! So – wait a minute, you just asked us to stop manifesting! So before that, you were <em>already</em> about to ask us to stop manifesting! So you shouldn't have seen us manifesting anything in the future! How does that make sense?!"
+
+"I think, I think, maybe it's about the fact that it was <em>my</em> decision? I mean, I didn't decide to tell you until after I saw it, so maybe, maybe…"
+
+"If the Farseer could reliably predict the results of the Farseer's own future decisions," Justicar cut in, "then what would happen if she foresaw a danger? Naturally, she would act to prevent the danger. But then the danger would never occur as she saw it. That would be a contradiction, so it follows that, <em>until</em> the Farseer has committed to a decision, she can still See the results of alternate decisions she could make." She looked to Yali. "Is that not so?"
+
+"Something like that, yes."
+
+?????
+
+"By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted around me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
+
+Morrow shrugged. "Gay is just who you fuck, right?"
+
+"What? Don't say that, that makes it sound so one-dimensional! There's way more to it than that!"
+
+"What is it then? How do you know if you're gay?"
+
+"Do you actually not know, or are you just messing with me?"
+
+Morrow smirked. "Whaddaya think?"
+
+"I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on. Or, like, playing sports against her. <em>Girls</em>." I sighed happily. [????? I had probably messed up some realtionships by being too fight-y]
+
+Then I looked over at Morrow. He was [????? playing with something in his hands], not listening to me at all. Haha, should've known not to try to explain anything serious to him.
+
+"You want to play like that?" I laughed. I [????? pranked Morrow, in a way that they both have fun with]
+
+[???? Yali interrupts a moment of low tenstion to call them back around]
 
 ?????
 
@@ -382,9 +454,11 @@ Alchemist nodded, and they looked back at the workspace in front of them. There 
 
 ?????
 
-[????? Somewhere in this chapter: Yali having a local copy of an encyclopedia]
+[????? Somewhere in this chapter: Yali having a local copy of an encyclopedia. probably while they're messing with the potions, someone asks a question you'd need to look up the answer to]
 
 ?????
+
+[???? Morrow says something announcer-y about Rinn and Yali but interrupts himself to ask:]
 
 "What's y'all ship name??"
 
@@ -423,57 +497,7 @@ I laughed. "Now you've made it sound like no big deal! So if you were trying to 
 I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. Got some gods getting you down? We'll 'handle' them. Heh. NBD."
 
 
-
-?????
-
-"Bet we can ride Neenu straight to the portals!" said Morrow.
-
-"Sounds good to me!" I said. "I'm sick of all this star stuff already."
-
-"If we are going to do that," said Yali, "we should think about exactly how we plan to do it. Especially, especially, what <em>order</em> we will visit the portals in."
-
-I hadn't thought about that, but it was true. There was one portal for each of us, so each of us was going to have to get off separately. And… "Well, Morrow's the only one who can talk to Neenu, so I guess he'll have to get off last." Even as I said it, I could see the problem with that. Did Morrow even know how to find his way from one star to another? Thinking back to when he first showed up, he had probably just "smelled" us with his powers and gone that way on his rocket. I mean, I couldn't say I was much better, but I had at least <em>tried</em> to read the Codex. But Morrow…
-
-"I can go with him," said Justicar, not sounding very enthusiastic about it. "Once we reach the star with the Imminent's portal, I can get off and wait for other stars to arrive, then travel to my own portal by riding the stars the way we are intended to."
-
-"It's settled then!" said Morrow. "Me and Justicar last, Alchemist second-to-last, that just leaves –"
-
-"Rinn goes before I do," said Yali decisively.
-
-"Alright, then, I'll –" I quickly counted up the order in my head. "Hey! Don't I get a choice about anything?"
-
-"Nope!" said Morrow cheerfully.
-
-"I mean, obviously I'd have chosen to go first, but I wanted to <em>choose</em> to go first, not justa have the rest of you stick me with it."
-
-Justicar raised an eyebrow. "If it helps… there is always a choice."
-
-"Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private data, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess, the place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
-
-
-
-?????
-
-"Can the rest of you stop manifesting for a while?" said Yali suddenly.
-
-"Sure, but why?" I said.
-
-"It's the Seeing. It's –"
-
-"Ooh! Ooh!" said Morrow. "Does it mess it up when we manifest? How does it work? Tell me!"
-
-"The truth is, even though it's called the Seeing," began Yali patiently, "it's not much like seeing with my eyes. It's more like, sort of… holding very still, to <em>listen</em> for the future. And your manifesting is very… noisy. So it's hard to hear anything past what you're about to manifest."
-
-"Oh! So – wait a minute, you just asked us to stop manifesting! So before that, you were <em>already</em> about to ask us to stop manifesting! So you shouldn't have seen us manifesting anything in the future! How does that make sense?!"
-
-"I think, I think, maybe it's about the fact that it was <em>my</em> decision? I mean, I didn't decide to tell you until after I saw it, so maybe, maybe…"
-
-"If the Farseer could reliably predict the results of the Farseer's own future decisions," Justicar cut in, "then what would happen if she foresaw a danger? Naturally, she would act to prevent the danger. But then the danger would never occur as she saw it. That would be a contradiction, so it follows that, <em>until</em> the Farseer has committed to a decision, she can still See the results of alternate decisions she could make." She looked to Yali. "Is that not so?"
-
-"Something like that, yes."
-
-
-????? [????? Someone asks about the difference between alchemy, sorcery, and manifesting]
+????? [????? They're going to get to the portal soon. While they wait, Rinn asks about the difference between alchemy, sorcery, and manifesting]
 
 "Ah… I think there's one of me who's excited to explain this…"
 
@@ -506,7 +530,7 @@ Justicar raised an eyebrow. "If it helps… there is always a choice."
 
 ?????
 
-[????? maybe somewhere something about ages of the ravellers]
+[????? maybe somewhere something about ages of the ravellers - no, this goes to the end of ch 11]
 
 ?????
 
@@ -514,6 +538,8 @@ Justicar raised an eyebrow. "If it helps… there is always a choice."
 
 
 ?????
+
+[???? cut this:]
 
 "We are close to being able to travel to the five portals. But in order to visit them in sequence," said Justicar, pointing at a starmap, "we would have to go either <em>here</em> and then <em>here</em>, or <em>here</em> and then <em>here</em>. But in either direction, we would barely miss a transfer we need to complete the journey. And then the stars that would take us to the last two portals will not return until many days later."
 
@@ -528,27 +554,6 @@ So it was a transparent attempt for the other lovebirds to get some time alone. 
 "You know, we don't have to do what you want us to."
 
 "It is not a matter of what I want. It is a matter of what is wise."
-
-?????
-
-[????? A pause in the discussion, long enough for Alchemist to speak up.]
-
-"Neenu…" said Alchemist uncertainly. "There isn't a portal for Neenu."
-
-"Maybe you can bring her through your portal! Make her smaller using a potion!" suggested Morrow.
-
-"How would a star drink a –" I began before Morrow shushed me.
-
-"I'm afraid it's impossible," said Yali. "Even if she is physically somewhere else, she is still made almost entirely from the Waiting God's threads. When the five Ravellers have passed through the portals, the Waiting God will reabsorb this world, and Neenu along with it."
-
-"So she'll just be… gone?" Alchemist looked [????? sad].
-
-"It's okay!" I said hastily. "It's still, like, beautiful, that she got to live for at least a little while!" That seemed to make Alchemist even sadder. Stern take it, I never knew what to say to make anyone feel better.
-
-Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way."
-
-"Oh…"
-
 
 
 ?????
