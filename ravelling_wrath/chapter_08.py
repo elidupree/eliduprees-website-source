@@ -316,7 +316,7 @@ I hadn't thought about that, but it was true. There was one portal for each of u
 
 "Nope!" said Morrow cheerfully.
 
-"I mean, obviously I'd have chosen to go first, but I wanted to <em>choose</em> to go first, not justa have the rest of you stick me with it."
+"I mean, obviously I'd have chosen to go first, but I wanted to <em>choose</em> to go first, not just have the rest of you stick me with it."
 
 Justicar raised an eyebrow. "If it helps… there is always a choice."
 
@@ -366,7 +366,19 @@ It took me a little while to realize what Morrow was implying. "Wait, are you sa
 
 From behind me, I heard Justicar say, "Very well, I will accompany you. But I will not take such an undignified route." After a short while, a big metal staircase popped into existence near us. Justicar had manifested two staircases, one on each side of the star. The tops of the two staircases were joined together by a big half-circle walkway from one side of the star to the other. With a loud clank-clank-clank, Justicar walked up the stairs on her side, along the walkway, and down on our side. It <em>was</em> much more dignified than just falling around the edge. Then she sat down on her customary hard stool.
 
+<bigbreak>
+
+"What are you doing?" I said, confused.
+
+Morrow was being way quieter than usual. ?????
+
+"Ssshhh! We have to be quiet for Alchemist!"
+
+"<em>You're</em> telling <em>me</em> to be quiet?!!"
+
 [????? Morrow tries to play quietly, tries to make soundproof walls] Since we were on Neenu now, the piles of stuff we'd left on the underside of the last star were gone, and there was lots of space to fill up with new stuff. ?????
+
+
 
 ?????
 
@@ -379,6 +391,16 @@ From behind me, I heard Justicar say, "Very well, I will accompany you. But I wi
 Justicar's voice softened a little. "Have you never skied before?"
 
 "Oh, come on! There's nowhere to ski in the city anyway!"
+
+"There… <em>is</em> a ski slope to the north, in ?????region. Have you never been outside the city?"
+
+"Who needs to?!"
+
+"Yeah!!" added Morrow. "You from ?????region? You some kind of rich person?"
+
+My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. [????? Maybe the fact that she doesn't go for luxuries All the subtleties of how she talked… ?????. But] she definitely wasn't from down in the fifth layer like me, either.
+
+"I will not say I have not had privileges in my life. But no, I am not <em>from</em> ?????region."
 
 
 ?????
@@ -396,7 +418,7 @@ Morrow was breathing hard, looking at Justicar with an anguished expression on h
 
 [????? Rinn distracts Morrow in a way that uses a lot of manifesting]
 
-"Can the rest of you stop manifesting for a while?" said Yali suddenly.
+Suddenly, Yali's voice echoed from around the star. "Can the rest of you stop manifesting for a while?" she said.
 
 "Sure, but why?" I said.
 
@@ -410,11 +432,15 @@ Morrow was breathing hard, looking at Justicar with an anguished expression on h
 
 "I think, I think, maybe it's about the fact that it was <em>my</em> decision? I mean, I didn't decide to tell you until after I saw it, so maybe, maybe…"
 
-"If the Farseer could reliably predict the results of the Farseer's own future decisions," Justicar cut in, "then what would happen if she foresaw a danger? Naturally, she would act to prevent the danger. But then the danger would never occur as she saw it. That would be a contradiction, so it follows that, <em>until</em> the Farseer has committed to a decision, she can still See the results of alternate decisions she could make." She looked to Yali. "Is that not so?"
+"If the Farseer could reliably predict the results of the Farseer's own future decisions," Justicar cut in, "then what would happen if she foresaw a danger? Naturally, she would act to prevent the danger. But then the danger would never occur as she saw it. That would be a contradiction, so it follows that, <em>until</em> the Farseer has committed to a decision, she can still See the results of alternate decisions she could make." She looked out over the edge, speaking her next words to Yali. "Is that not so?"
 
-"Something like that, yes."
+"Something like that, yes. Now, if I may…?"
 
-?????
+"Of course."
+
+It looked like Morrow was about to pester Yali some more, so I grabbed his arm and dragged him back to our piles of junk. But what were we going to do now? Manifesting was so second-nature now, it was hard to think of what I'd do <em>without</em> manifesting.
+
+I slouched in one of my new thrones, watching Morrow as he rooted through the piles for Waiting-knows-what.
 
 "By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted around me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
 
@@ -434,7 +460,7 @@ Then I looked over at Morrow. He was [????? playing with something in his hands]
 
 "You want to play like that?" I laughed. I [????? pranked Morrow, in a way that they both have fun with]
 
-[???? Yali interrupts a moment of low tenstion to call them back around]
+[???? Yali interrupts a moment of low tension to call them back around]
 
 ?????
 
