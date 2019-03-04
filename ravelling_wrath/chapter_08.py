@@ -484,11 +484,25 @@ Alchemist nodded, and they looked back at the workspace in front of them. There 
 
 ?????
 
+[????? While we were up in the air, Yali beckoned me close to her]
+
+As we tumbled through space, she put her mouth close to my ear. She spoke quietly, seriously. "There's something we need to talk about, away from certain people listening."
+
+"Justicar?" I muttered back.
+
+"It's very significant that she trusts us enough to let us be alone together, too far away for her to intervene if something goes wrong. But still… we can't be too careful."
+
+"What is it?"
+
+"We're going to reach the portals soon. When you enter the next layer, there'll be more of the Blood God in you. And we might be split up for a while. So… I'll need you to keep checking yourself. Notice if the Blood God starts having more influence on you."
+
+?????
+
 [???? Morrow says something announcer-y about Rinn and Yali but interrupts himself to ask:]
 
-"What's y'all ship name??"
+Morrow clapped loudly as we got back near the star. "Aaaaand here they come again, back from their sky adventure! The great – the great – hey, what's y'all ship name??"
 
-"Woah, I can't believe we haven't got a ship name yet! We need one of those!"
+"Woah, I can't believe we haven't got a ship name yet! We need one of those!" I said as I touched down lightly onto the star.
 
 Alchemist must not have known what a ship name was, because Morrow immediately explained, "It's when you've got two people in a relationship and you stick their names together to be super cute! Like you take half of 'Rinn', so like 'ri', and then half of 'Yali', and you get… 'Rili'!"
 
@@ -545,7 +559,13 @@ I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. G
 
 "Those are the main types of magic. There's a few other terms you might have encountered. When we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So Rinn's Blood Blades, Justicar's sword and armor, and Morrow's, Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something.
 
-"And a <em>curse</em> is a special type of sorcery that weaves itself into the victim's soul, so that it's very difficult to remove."
+"And a <em>curse</em> is a special type of sorcery that weaves itself into the victim's soul, so that it's very difficult to remove. There are technically also <em>blessings</em>, which are the same except they're for helping the person instead of hurting them, but they're not used very often."
+
+"Why not?"
+
+"Probably for the same reason that even though we have lots of cool technology, not many people have surgery to put it inside their bodies."
+
+"Well <em>that's</em> an image."
 
 [????? Yali rested her case]
 
