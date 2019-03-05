@@ -290,11 +290,36 @@ By "those two", he must have meant Yali and Justicar. "What about me?" I said.
 
 <bigbreak>
 
-[???? rinn tries to think of a nice story, but has trouble]
+I <em>tried</em> to think of a nice story. I really tried. There was that awesome time when some other girls had pranked this asshole guy by – no, that was no good. There was the time when we all went sledding on the really steep hill behind the school – sure, they said it was dangerous, but no one had even gotten hurt! Well, not seriously. And having those big scrapes on my hands from the ice was totally worth it for –
+
+Stern take it all.
+
+"YOU try telling a story where no one gets hurt!" I snapped, jabbing a finger at Morrow. "I'd like to see YOU come up with something that –"
+
+Yali gently pulled my hand back down. "I can tell one," she said.
+
+<bigbreak>
+
+<div class="Yali_narration">
+
+This is a story that was told to me by my… mother, when I was very small. It was told to her by her own mother, who first heard it ?????
+
 
 [????? Yali tells a story]
 
-[????? story's over and people appreciated it, now let's think about our plans for what's next]
+</div>
+
+<bigbreak>
+
+Justicar applauded softly. I joined in by clapping much louder, and pretty soon we were all applauding Yali's storytelling.
+
+"Truly told in the Waiting tradition," said Justicar.
+
+"Thank you," said Yali neutrally.
+
+[????? short summary of the group's situation right now] Alchemist looked totally charmed. Ugh, how did Yali always know what to say? Haha, she'd probably looked in the future to see what Alchemist would like. <em>So</em> unfair.
+
+ [????? story's over and people appreciated it, now let's think about our plans for what's next]
 
 ?????
 
