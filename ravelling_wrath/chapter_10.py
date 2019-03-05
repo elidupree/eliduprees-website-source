@@ -661,7 +661,7 @@ I paced back and forth, not even listening to her. I COULDN'T get distracted! No
 
 "Oh? What am I?"
 
-I clutched my head, trying to calm my warring thoughts. The feeling of insight was gone, leaving my mind in a jumble. Which part was me, and which part was the Blood God? Could they <em>all</em> be the Blood God? For fuck's sake, why wouldn't it just leave me OUT of its family squabbles? And now it was squabbling with <em>itself</em>, too?!
+I clutched my head, trying to calm my warring thoughts. I should have had something brilliant to say that would totally shut down all of Justicar's bad ?????arguments. But now the feeling of insight was gone, leaving my mind in a jumble. Which part was me, and which part was the Blood God? Could they <em>all</em> be the Blood God? For fuck's sake, why wouldn't it just leave me OUT of its family squabbles? And now it was squabbling with <em>itself</em>, too?!
 
 "I don't know. This is stupid. Never mind."
 
