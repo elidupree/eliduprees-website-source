@@ -436,11 +436,13 @@ Alchemist looked to Morrow, but Morrow was still pretty out of it. So Alchemist 
 
 Alchemist hesitantly put their arms around Morrow's shoulders. They guided Morrow down to the floor until they were both in a sitting position, with Alchemist cradling Morrow's head to their chest while Morrow sobbed. Alchemist gently hummed an aimless tune, slowly stroking Morrow's head all the while.
 
-Before long, Morrow was… not exactly <em>calm</em>, but a lot less frantic.
+Before long, Morrow was… not exactly <em>calm</em>, but a lot less frantic. He kept breathing hard, but he eventually kind of sank into Alchemist's chest instead of being all tensed up. Watching Alchemist's fingers weave themselves through Morrow's hair… gods, they were so cute together. I couldn't stop my eyes from following the – no, I didn't even WANT to think they were cute! Morrow was awful! <em>Morrow, you don't get a free pass just because you and Alchemist make a cute couple and are soft and adorable and – oh, Stern take it.</em>
 
-????? [????? Time passes, Rinn gets less agitated and the other to start kissing]
+As time passed, though, I really wasn't as mad anymore. It was easy enough to get distracted watching them. Morrow eventually managed to pull himself upright again, and they both sat with their backs against the wall, leaning on each other's shoulders, their faces turned towards each other. Just about close enough that they could case. I was kind of hoping they would, just so I could watch, haha.
 
-"Haha, get a room, you two," I said.
+And then they actually did. Morrow moved his lips in close, and then Alchemist leaned into it, and –
+
+"Haha, get a room, you two," I laughed.
 
 Morrow looked up at me with a little smirk. "This is the only room we've got!!" he complained.
 
@@ -456,7 +458,9 @@ Morrow looked up at me with a little smirk. "This is the only room we've got!!" 
 
 ?????
 
-"There you are," she said to Alchemist. Her eyes quickly scanned the room around us.
+"There you are," she said to Alchemist. Her eyes quickly scanned the room around us. "I hope I'm not interrupting anything."
+
+
 
 ?????
 
