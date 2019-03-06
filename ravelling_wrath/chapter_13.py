@@ -205,7 +205,7 @@ I half-snorted. "Could've seen <em>that</em> coming…"
 
 "But you…" Alchemist leaned their face close in front of mine, their sad eyes looming large in my vision. "You'll be all alone…"
 
-"I'll be okay," I lied, gently pushing them away. "Go help Morrow. I don't matter."
+"I'll be okay," I lied, weakly pushing them away. "Go help Morrow. I don't matter."
 
 "Oh…"
 

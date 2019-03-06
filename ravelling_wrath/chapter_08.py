@@ -347,9 +347,9 @@ Justicar raised an eyebrow. "If it helps… there is always a choice."
 
 "Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private data, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess, the place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
 
-?????
+There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had been mostly resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer. ?????
 
-[????? A pause in the discussion, long enough for Alchemist to speak up.]
+In the silence, Alchemist made a small sound under their breath.
 
 "Neenu…" said Alchemist uncertainly. "There isn't a portal for Neenu."
 
@@ -366,6 +366,8 @@ Justicar raised an eyebrow. "If it helps… there is always a choice."
 Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way."
 
 "Oh…"
+
+
 
 
 

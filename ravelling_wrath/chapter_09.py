@@ -386,13 +386,13 @@ Morrow grinned up at me manically. "I'm less important than the phone," he said.
 
 What in the Endless was I going to do with him? The thought of trying to be nice again just made me rage harder. I suppressed the urge to kick him. Instead, I folded my arms again and leaned against the opposite wall.
 
-?????. "?????. I'll stay over here. You stay over there. We're just going to sit here and not do anything until the god lets us out. Got it?"
+This sucked. I felt like I was betraying myself again, letting Morrow get away with it. I needed <em>some</em> way to make my rage <em>mean</em> something. "Okay, listen," I barked, "Here's how we're going to do this. I'll stay over here. You stay over there. We're just going to sit here and not do anything until the god lets us out. Got it?"
 
 Morrow breathed hard, but didn't try to move or speak.
 
 "I'll take that as a yes."
 
-I kept standing there and glaring at him. I was too frustrated to really do anything else. Instead, I just tried to get myself to calm down enough to figure out what to do next. There was no way he was <em>actually</em> going to stay still for hours, no matter how much I tried to make him. I was so sick of how his shit was dragging me away from looking for Yali. Why did I have to deal with this mess? Stupid room. Stupid phone. Stupid Morrow. I just needed to get <em>out</em> of this mess so I could <em>do</em> it. Why was I wasting my time with this mess when I <em>could</em> be out there <em>doing</em> it?
+I kept standing there and glaring at him. I was too frustrated to really do anything else. Instead, I just tried to get myself to focus long enough to figure out what to do next. There was no way he was <em>actually</em> going to stay still for hours, no matter how much I tried to make him. I was so sick of how his shit was dragging me away from looking for Yali. Why did I have to deal with this mess? Stupid room. Stupid phone. Stupid Morrow. I just needed to get <em>out</em> of this mess so I could <em>do</em> it. Why was I wasting my time with this mess when I <em>could</em> be out there <em>doing</em> it?
 
 Ugh, what would I even do when I got out of here? I shook my head, trying to clear my thoughts. When I tried to piece it together, this thing I'd just been thinking of "doing" was… <em>attacking the Farseer</em>. Stern take it, not that again! Would the Blood God shut up too?! There was nothing I could do to find the Farseer right now even if I wanted to! I gritted my teeth and tried to stop thinking about it.
 
