@@ -441,11 +441,23 @@ Another puzzle
 
 ?????
 
+"You're a cop?! I thought you said you weren't a cop!!"
+
+"I said that I AM not a police officer," she said with a tight smile. "I was dismissed from the force. The official records would tell you that it was for obstructing the duties of my fellow officers. But as I prefer to see it, I was dismissed from the police force <em>for enforcing the law</em>."
+
+"Okay, there's gotta be quite a story behind <em>that</em> one."
+
 "I was a star student once again. [????? authority figures] praised my hard work and sense of duty. Hypocrites, all of them.
 
-proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect to the will of the Stern as I did.	I was asked to overlook bias and petty corruption. [????? Bias in favor of rich people] simply because they could create trouble for us. Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us? ?????
+proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect to the will of the Stern as I did.	I was asked to overlook bias and petty corruption. [????? Bias in favor of rich people] simply because they could create trouble for us. I asked them: Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us? ????? I was barely tolerated. My superiors [????? assigned me unwanted duties]. But the Stern teaches that even when we are hated, we must be true to our convictions. Every duty they assigned me, I carried out to the fullness of my ability.
 
-"Or, as I prefer to see it, I was dismissed from the police force <em>for enforcing the law</em>." She smiled grimly. "And now it seems that the god itself has vindicated me."
+?????
+
+"Haha, that's gotta sting. Imagine being a cop and getting arrested in your own police station."
+
+"I would prefer to say: Imagine committing battery in plain view of a police officer and getting arrested. If you commit a crime, you are not a police officer, you are a criminal."
+
+"Or, She smiled grimly. "And now it seems that the god itself has vindicated me."
 
 ?????
 
@@ -455,7 +467,7 @@ I had an idea. I waited for Justicar to [????? do something with the puzzle]…
 
 "Yes?" said Justicar. Then she whirled around angrily. "How did you know my name?!"
 
-"This was a few years ago, right? You had a whole post about it! You were all like 'The so-called Stern Temple are a DEN OF HYPOCRITES!' and 'They will remember the name of Havi ????? until –'"
+I grinned. "This was a few years ago, right? You had a whole post about it! You were all like 'The so-called Stern Temple are a DEN OF HYPOCRITES!' and 'They will remember the name of Havi ????? until –'"
 
 "Please don't remind me."
 
