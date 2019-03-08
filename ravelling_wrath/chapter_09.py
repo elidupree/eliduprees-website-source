@@ -364,15 +364,23 @@ I carefully allowed Morrow to take out his phone. He swiped through it aggressiv
 
 "Well, uh, what if we swap phones? I don't have too many games, but –"
 
-Morrow snatched my phone out of my hands and immediately started flipping through it. He impatiently opened the first game he saw. His hands jerked back and forth across the screen, winning each level almost as soon as it popped up. "These early levels are borrowing!" he complained, then switched to the next game.
+Morrow snatched my phone out of my hands and immediately started flipping through it. He impatiently opened the first game he saw. His hands jerked back and forth across the screen, winning each level almost as soon as it popped up. "These early levels are boring!" he complained, then switched to the next game.
 
 While he was doing that, I idly flipped through his phone, too. He had a <em>lot</em> of games. I didn't recognize most of them, but a bunch of them were ones that I'd mostly seen girls play rather than boys. Interesting…
 
-?????
+On the other side of the room, Morrow ?????
 
-"Are you kidding me!! That was my REAL phone!" I snatched it up from where it had landed on the floor. The screen was cracked and it wouldn't turn on.
+????? [????? Morrow waves the phone around and complains]
 
-Enraged, I smacked Morrow across the face, hard.
+"Okay, I'll have my phone back, then," I said sharply, reaching out to take it.
+
+[????? Morrow keeps speaking upsetly, ignoring Rinn. –"]
+
+I made a grab for the phone. At the same instant, Morrow made a wild gesture with his hand in the air. It all happened faster than I could react. Our arms collided. My phone flew into the air, smacked against the ceiling, then fell and hit the ground with a loud crack before it tumbled and lay still.
+
+"Are you kidding me!! That was my REAL phone!" I exploded. I ran and snatched it up from where it had landed on the floor. The screen was cracked. It wouldn't turn on.
+
+Enraged, I turned and smacked Morrow across the face, hard.
 
 Morrow covered his head and cowered away from me. I stood over him, not even caring how he felt anymore. I felt so humiliated. I wanted to hit him again. "I've been trying to help you, and this is what you give me?!" I exploded.
 
@@ -534,7 +542,7 @@ Well, I wasn't going to pick <em>calmness</em>, that would feel weird if it happ
 
 Despite the wild water, the fountain seemed a little… <em>ordinary</em> compared to the rest of the world. The water wasn't even multicolored or shimmering. And the pool floor looked like plain old concrete, with nothing interesting but a couple silvery fish darting around in it.
 
-"Look at those fish! Betcha they're a mystery!" said Morrow. Showing him something new seemed to have perked him right at.
+"Look at those fish! Betcha they're a mystery!" said Morrow. Showing him something new seemed to have perked him right up.
 
 "Yeah, but what's the mystery? They're just fish."
 
@@ -554,7 +562,7 @@ I squinted. I didn't see anything different over there. "What's on the other s�
 
 Morrow ran up to me. "Ooh! You got the map!"
 
-"How the fuck is this a map??"
+"How the fuck is this a map??" I said, still shaking water out of my shoes.
 
 "How is it not obvious??" Morrow snatched the sphere from my hands.
 
