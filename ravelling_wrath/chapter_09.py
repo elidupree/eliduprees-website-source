@@ -442,7 +442,7 @@ As time passed, though, I really wasn't as mad anymore. It was easy enough to ge
 
 And then they actually did. Morrow moved his lips in close, and then Alchemist leaned into it, and –
 
-"Haha, get a room, you two," I laughed.
+"Haha, get a room, you two," I teased.
 
 Morrow looked up at me with a little smirk. "This is the only room we've got!!" he complained.
 
