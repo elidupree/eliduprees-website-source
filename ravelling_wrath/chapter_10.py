@@ -18,7 +18,7 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
 
-[????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right". Also, "hey! <em>Yali</em>'s responsible too! I've got nothing against responsible people telling me what to do, [it's just you in particular]!"]
+[????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right".]
 
 [????? Somewhere in this chapter: Justicar saying that her understanding of "the laws by which each god/world functions" gives her an advantage]
   
@@ -382,7 +382,39 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 
 "But–! You… Argh!"
 
-"At the Borson School, nothing was done for us. We students had to do our own laundry, to clean our own dormitories.
+"At the Borson School, nothing was done for us. We students had to do our own laundry, to clean our own dormitories. Did I accept it at first? No, of course I did not. Selfishly, I rebelled by leaving my clothes dirty and unkempt. I wanted to them to see that I didn't respect them. Only after weeks of being singled out and punished for my disobedience, I learned."
+
+"Learned what, that people are horrible?"
+
+"<em>Discipline!</em> I learned to be <em>responsible</em> for myself –"
+
+"Are you kidding me?! That's the most –"
+
+"Will you let me speak?"
+
+"Not if you're gonna keep saying all this bullshit! You're all like '<em>oh I learned to be responsible</em>' when you didn't even –"
+
+"You will listen to me! You mock responsibility, because you do not want to have to reconsider your own behavior –"
+
+I laughed in her face. "You think I have something against responsible people?! <em>Yali</em> is responsible! Think about it! She even – gods, she even tells me what to do all the time! <em>I literally don't have anything against responsible people who tell me what to do all the time!</em> Only you Stern types! Look, I'm irresponsible and I know it, but I know what being responsible IS. Yali has it. <em>You. Don't.</em>"
+
+Justicar raised an eyebrow. "I must admit, I was not expecting <em>you</em> to accuse <em>me</em> of irresponsibility."
+
+"Argh, do I have to spell it out for you?! You're telling me a story about how some people <em>forced</em> you to do what <em>they</em> told you to come by <em>punishing</em> you until you <em>gave in</em>. And you call that <em>being responsible for yourself?</em> That's not being responsible, that's – argh!" I couldn't even think of the <em>words</em> for how twisted that was. "That's just someone else making all the decisions and you doing all the work. Being responsible is making your OWN DECISIONS!!"
+
+"If they had not forced me, I would never have learned! I would have wallowed in my own filth! Their rules were NECESSARY for me to learn discipline! It allowed me to SEE what I could accomplish if I applied myself! It was at the Borson School that I found the Stern, that I found the discipline I needed to rebuild my life! It was NECESSARY!"
+
+????? [Maybe: "aren't you mad about any of that?" And then maybe: "And now you just do whatever the <em>Stern God</em> wants. Out with the old boss, in with the new boss."]
+
+"????? –" Justicar stopped herself and looked away. She took a deep breath. "I apologize for losing my composure. You have a way of getting under my skin. I did not mean to argue with you."
+
+"Nice apology," I said sarcastically.
+
+Justicar glared at me. Then she took another deep breath. "I apologize for venting my emotions in my previous apology. It was not fair to you."
+
+?????
+
+[????? "I cannot force you to believe me. But [the strictures of the rules are what saved me; short summary of life during + after the school]"]
 
 ?????
 
