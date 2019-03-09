@@ -468,11 +468,45 @@ Morrow looked up at me with a little smirk. "This is the only room we've got!!" 
 
 "There you are," she said to Alchemist. Her eyes quickly scanned the room around us. "I hope I'm not interrupting anything."
 
-
-
 ?????
 
-"So, uh," I said awkwardly, "can you try doing the loopy thing on me now?"
+"I mean, we've still got, like, how many hours left –" I looked at the clock.
+
+The clock popped out of the wall with a comical boinging sound like a spring from a cartoon. It landed face down on the floor. We all stared at it.
+
+"Okay, so what does <em>that</em> m–"
+
+The whole room swayed. The floor tipped and rose, dumping us all onto the wall. I plowed into Justicar, scraping my knees on her armor.
+
+"Ow, your armor is hard!"
+
+"Look out behind –" Justicar began.
+
+I twisted around just in time for Morrow and Alchemist to land solidly on my stomach, knocking the wind out of me. Now we were all in a big pile, and Alchemist was on top.
+
+Under me, Justicar strained to speak. "Alchemist, you have to move. I can free myself, but not without injuring the Blood Child."
+
+I struggled to pull myself out, but it was no use. I saw Alchemist looking around with the blank expression of somebody who hasn't even figured out what's happening. "Stern take it, Alchemist, get offa me!" I yelled. But it only made them tense up, squeezing me with their legs and actually putting me in <em>more</em> pain.
+
+The walls fell open, revealing a black space above and around us. Moments later, huge tentacles rose up and plucked Alchemist into the air. Not missing an opportunity, I rolled off to the side and sprang to my feet, whipping out a couple of Blood Blades to fight whatever sort of tentacle monster the Seeking God was throwing at us now. But when I looked, Alchemist was happily dangling by their waist and giggling. I looked where the tentacles were coming from, and they actually came from Morrow. They were just made out of some sort of rubber.
+
+"Wait, we can manifest again now?" I said. "Then that's enough of this bullshit!" Channeling my strength, I manifested away all my bruises.
+
+"If we are all [?????okay]," said Justicar soberly, "then I believe the Alchemist owes us an apology. He –"
+
+I stomped in between Justicar and the others. "Alchemist doesn't have to apologize for <em>shit</em>! They were just as surprised as anyone!"
+
+"He was in a position where he could have –"
+
+"<em>And what gives YOU the right to decide who needs to apologize?! YOU?!!</em>" My blood was boiling. I didn't even know why I was so mad. Wait, did that mean this was the Blood God? Ugh, it was definitely the Blood God. As soon as I realized that, my feelings cleared up a bit. "Look," I said to Justicar, "I've just been through a lot of shit. [????? Please just don't mess with me for a while]"
+
+Justicar looked a little taken aback. "I was not trying to –"
+
+"Good."
+
+I turned to Morrow.
+
+"So, uh," I said awkwardly, "if we can manifest now, can you try doing the loopy thing on me?"
 
 "What is that?" said Justicar sharply.
 
@@ -512,7 +546,7 @@ A feeling of being correct popped into my mind.
 
 <em>I can also do words!</em> It didn't sound like Morrow's voice – it actually sounded more like my own thoughts. But it was obviously Morrow. [????? Remove this from 14] His presence flickered across my mind, lighting up a series of different feelings – a flash of rage at injustice, a burst of satisfied laughter, a surge of my love for Yali. <em>Your feelings!! What a delicious jungle!!</em>
 
-"You can't eat them," I said out loud. "Oops." In my head, I felt Morrow snickering. <em>Hey! Okay, fine, that was all me. Anyway, the important thing is – so, I can't tell Justicar this, but –</em>
+"You can't eat them," I said out loud. "Oops." In my head, I felt Morrow snickering. <em>Screw you! Okay, fine, that was my own mistake. Anyway, the important thing is – so, I can't tell Justicar this, but –</em>
 
 That caught Morrow's interest immediately. In my thoughts, I quickly explained what I needed help with.
 
@@ -534,7 +568,9 @@ Well, I wasn't going to pick <em>calmness</em>, that would feel weird if it happ
 
 <em>There ya go! All loopied up!</em>
 
-?????
+[????? I mentally adjusted out of the loopy thing. I couldn't tell for sure that it was having its effects, but I was feeling pretty okay]
+
+And then I finally looked around at where we were now. Where the gray box had dumped us when it fell apart.
 
 "This room feels different than the others," said Justicar. "I believe we have reached the very center of the Maze."
 
@@ -542,7 +578,7 @@ Well, I wasn't going to pick <em>calmness</em>, that would feel weird if it happ
 
 Despite the wild water, the fountain seemed a little… <em>ordinary</em> compared to the rest of the world. The water wasn't even multicolored or shimmering. And the pool floor looked like plain old concrete, with nothing interesting but a couple silvery fish darting around in it.
 
-"Look at those fish! Betcha they're a mystery!" said Morrow. Showing him something new seemed to have perked him right up.
+"Look at those fish! Betcha they're a mystery!" said Morrow. As usual, showing him something new seemed to have perked him right up.
 
 "Yeah, but what's the mystery? They're just fish."
 
@@ -560,7 +596,7 @@ I squinted. I didn't see anything different over there. "What's on the other s�
 
 "What <em>is</em> this thing??" I said. I splashed my way back to the others, the sphere hovering along with me.
 
-Morrow ran up to me. "Ooh! You got the map!"
+Morrow ran up to me. Somehow, he had gone all the way around the fountain while I was splashing. "Ooh! You got the map!"
 
 "How the fuck is this a map??" I said, still shaking water out of my shoes.
 
