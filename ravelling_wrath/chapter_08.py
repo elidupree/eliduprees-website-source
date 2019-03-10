@@ -658,13 +658,13 @@ It was funny. When I looked at the portal with my <em>eyes</em>, I just saw soli
 
 "Haha, of course it would. Finally, a god who knows how to have fun." I stepped down from Neenu and ran my fingers along the archway. I couldn't wait to see the Seeking God's world. Yali had called it a riddle-maze, a world that constantly challenged the Ravellers with puzzles and mysteries. Except in a fun way, not like the incomprehensible Codex from this world.
 
-The only thing was, I had been imagining going through it <em>with</em> Yali. But now, standing right in front of this door that <em>only me</em> would be going through… I was forced to realize ?????.
+The only thing was, I had been imagining going through it <em>with</em> Yali. But now, standing right in front of this door that <em>only me</em> would be going through… I was forced to realize how alone I would be. How sharply we would be separated.
 
 I jumped back up and flung my arms around her, squeezing tightly onto her and burying my face in her chest. "I don't want to leave you!!" I said plaintively.
 
 Yali lifted my head to look at her, cupping my cheeks softly in her hands. "It's okay," she murmured. "I know it's hard. But I'll look for you as soon as I get there. And that will be pretty soon from your perspective, because the flow of time is different in the Gate." She pulled me close and kissed me on the mouth, long and tenderly. "I don't want to leave you either, you know? But it's going to happen one way or another. So it's better if we do it on our own terms."
 
-I clung to her for ages. ?????
+I clung to her for ages. I didn't want to leave. I didn't want to peel myself away from her soft body that I was clutching onto. But finally, the time came for me to go.
 
 "Goodbye Morrow. Goodbye Alchemist. Goodbye Justicar."
 
