@@ -400,13 +400,21 @@ I laughed in her face. "You think I have something against responsible people?! 
 
 Justicar raised an eyebrow. "I must admit, I was not expecting <em>you</em> to accuse <em>me</em> of irresponsibility."
 
-"Argh, do I have to spell it out for you?! You're telling me a story about how some people <em>forced</em> you to do what <em>they</em> told you to come by <em>punishing</em> you until you <em>gave in</em>. And you call that <em>being responsible for yourself?</em> That's not being responsible, that's – argh!" I couldn't even think of the <em>words</em> for how twisted that was. "That's just someone else making all the decisions and you doing all the work. Being responsible is making your OWN DECISIONS!!"
+"Argh, do I have to spell it out for you?! You're telling me a story about how some people <em>forced</em> you to do what <em>they</em> told you to, by <em>punishing</em> you until you <em>gave in</em>. And you call that <em>being responsible for yourself?</em> That's not being responsible, that's – argh!" I couldn't even think of the <em>words</em> for how twisted that was. "That's just someone else making all the decisions and you doing all the work. Being responsible is making your OWN DECISIONS!! And now you just do whatever the <em>Stern God</em> wants, too! Out with the old boss, in with the new boss!"
+
+"You speak as if the Stern God's wisdom has no value."
+
+"What about the value of your own heart?! You were alone, you were in pain, you needed a way to feel like you mattered! For YOU! Isn't there any room for that? Don't you believe in anything that's more important than some jerk teachers forcing you to –"
 
 "If they had not forced me, I would never have learned! I would have wallowed in my own filth! Their rules were NECESSARY for me to learn discipline! It allowed me to SEE what I could accomplish if I applied myself! It was at the Borson School that I found the Stern, that I found the discipline I needed to rebuild my life! It was NECESSARY!"
 
-????? [Maybe: "aren't you mad about any of that?" And then maybe: "And now you just do whatever the <em>Stern God</em> wants. Out with the old boss, in with the new boss."]
+"Didn't it hurt? Didn't you feel humiliated, to be put through –"
 
-"????? –" Justicar stopped herself and looked away. She took a deep breath. "I apologize for losing my composure. You have a way of getting under my skin. I did not mean to argue with you."
+"It doesn't matter if –"
+
+"It doesn't <em>matter</em>? ????? How you feel <em>matters</em>! Even when you're in pain and doing everything wrong! <em>Especially</em> when you're in pain and doing everything wrong!"
+
+"I was a selfish, petulant CHILD!! ????? [????? Very aggressive statement towards Rinn] ????? –" Justicar stopped herself and looked away. She took a deep breath. "I apologize for losing my composure. You have a way of getting under my skin. I did not mean to argue with you."
 
 "Nice apology," I said sarcastically.
 
@@ -428,7 +436,7 @@ Justicar glared at me. Then she took another deep breath. "I apologize for venti
 
 Another puzzle
 
-[????? Justicar being very good at solving the puzzles, and Rinn ends up just going along with what she says]
+Even now that I was sober, she was still way better at solving the puzzles than I was. I wasn't <em>bad</em> at it, but Justicar could just look at something and instantly be like, <em>logically, this is what we have to do</em>. It kind of felt like there was no point in me trying to follow along. I mostly just ended up going along with what she said.
 
 
 ?????
