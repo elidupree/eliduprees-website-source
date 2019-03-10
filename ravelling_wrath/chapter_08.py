@@ -359,7 +359,7 @@ In the silence, Alchemist made a small sound under their breath.
 
 "I'm afraid it's impossible," said Yali. "Even if she is physically somewhere else, she is still made almost entirely from the Waiting God's threads. When the five Ravellers have passed through the portals, the Waiting God will reabsorb this world, and Neenu along with it."
 
-"So she'll just be… gone?" Alchemist looked [????? sad].
+"So she'll just be… gone?" Alchemist's eyes were big and sad, their mouth hanging slightly open.
 
 "It's okay!" I said hastily. "It's still, like, beautiful, that she got to live for at least a little while!" That seemed to make Alchemist even sadder. Stern take it, I never knew what to say to make anyone feel better.
 
@@ -425,10 +425,11 @@ Justicar's voice softened a little. "Have you never skied before?"
 
 "Yeah!!" added Morrow. "You from ?????region? You some kind of rich person?"
 
-My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. [????? Maybe the fact that she doesn't go for luxuries All the subtleties of how she talked… ?????. But] she definitely wasn't from down in the fifth layer like me, either.
+My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from ?????region, living in a luxurious mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth layer like me, either.
 
-"I will not say I have not had privileges in my life. But no, I am not <em>from</em> ?????region."
+"I will not say I have not had privileges in my life. But no, I am not <em>from</em> ?????region. I simply… was there for a time."
 
+[????? Rinn and Morrow do something fun]
 
 ?????
 
