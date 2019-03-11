@@ -564,12 +564,13 @@ I laughed. "Now you've made it sound like no big deal! So if you were trying to 
 
 I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. Got some gods getting you down? We'll 'handle' them. Heh. NBD."
 
+<bigbreak>
 
-????? [????? They're going to get to the portal soon. While they wait, Rinn asks about the difference between alchemy, sorcery, and manifesting]
+We were getting close to the first portal. The one I was going to go into.
 
-Morrow and Justicar were hard at work directing Neenu towards the portal. I was excited to get there, but it was just taking such a long time that I couldn't exactly be on the edge of my seat the whole time. That left me and Yali a bit of time to sit together before we got there.
+I felt like I was constantly on the edge of my seat, but at the same time, there was nothing for me to do. Morrow and Justicar were hard at work directing Neenu towards the portal, and they didn't want any distractions. I was excited to get there, but it was just taking such a long time that I can keep my attention. At least it left me and Yali a bit of time to sit together before we got there.
 
-"So, there's something I've been wondering…" I began.
+"So, there's something I've been wondering…" I said idly.
 
 "Go on."
 
@@ -613,6 +614,8 @@ Yali hesitated a little. "I think… I think when I use it, I'm not technically 
 
 "I, I... I actually have no idea. I mean, it's a god, right?"
 
+[????? We were quiet for a while: maybe "there were a lot of things we didn't know". Then Morrow yells that the portal is in sight?]
+
 
 ?????
 
@@ -643,6 +646,8 @@ So it was a transparent attempt for the other lovebirds to get some time alone. 
 
 
 ?????
+
+<bigbreak>
 
 "Woah…"
 
