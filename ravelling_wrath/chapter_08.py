@@ -530,7 +530,7 @@ As we tumbled through space, she put her mouth close to my ear. She spoke quietl
 
 Morrow clapped loudly as we got back near the star. "Aaaaand here they come again, back from their sky adventure! The great – the great – hey, what's y'all ship name??"
 
-"Woah, I can't believe we haven't got a ship name yet! We need one of those!" I said as I touched down lightly onto the star.
+I touched down lightly onto the star. "Woah, I can't believe we haven't got a ship name yet! We need one of those!"
 
 Alchemist must not have known what a ship name was, because Morrow immediately explained, "It's when you've got two people in a relationship and you stick their names together to be super cute! Like you take half of 'Rinn', so like 'ri', and then half of 'Yali', and you get… 'Rili'!"
 
@@ -567,7 +567,15 @@ I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. G
 
 ????? [????? They're going to get to the portal soon. While they wait, Rinn asks about the difference between alchemy, sorcery, and manifesting]
 
-"Ah… I think there's one of me who's excited to explain this…"
+Morrow and Justicar were hard at work directing Neenu towards the portal. I was excited to get there, but it was just taking such a long time that I couldn't exactly be on the edge of my seat the whole time. That left me and Yali a bit of time to sit together before we got there.
+
+"So, there's something I've been wondering…" I began.
+
+"Go on."
+
+"Back when Alchemist showed up, you said something about their powers being more like sorcery than alchemy. But if both of those things can make potions, what exactly <em>is</em> the difference between alchemy and sorcery? And manifesting, for that matter?"
+
+Yali's eyes drifted into the distance. "Ah… I think there's one of me who's excited to explain this…"
 
 "One of you? Wait, do you mean your memories of the other Farseers? Are they, like, actual people inside your head?"
 
@@ -575,7 +583,7 @@ I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. G
 
 "All magic is technically manifesting," she began. "And manifesting is when a soul, or a thread of a soul, exerts its will on matter, or on other souls. The thing that we <em>call</em> manifesting is when a person does this directly, using their own soul as it is, without changing it. Our souls aren't built to influence matter, so this is only possible in the Otherworld. Or if you're a god.
 
-"But there are other ways to use the power of manifesting. The most powerful way is to remove a thread from your own soul, then wind it into the perfect shape to do what you want. This is what we call <em>sorcery</em>. It's very powerful and versatile, but every sorcery has a permanent cost to your soul. Our souls have thousands of threads, so it doesn't ruin you immediately, but you can't cast a new sorcery every day without being changed. So professional sorcerers usually store sorceries in physical objects, so that they can be saved until they're needed, or even reused. If you've ever used a magic wand, that's a sorcery linked to a physical object. So is a potion.
+"But there are other ways to use the power of manifesting. The most powerful way is to remove a thread from your own soul, then wind it into the perfect shape to do what you want. This is what we call <em>sorcery</em>. It's very powerful and versatile, but every sorcery has a permanent cost to your soul. Our souls have thousands of threads, so it doesn't ruin you immediately, but you can't cast a new sorcery every day without being changed. So professional sorcerers usually store sorceries in physical objects, so that they can be saved until they're needed, or even reused. If you've ever used a magic wand, that's a sorcery linked to a physical object. So are some potions.
 
 "Alchemist's power is similar to sorcery, but it uses the threads of the Broken God's soul instead of their own."
 
@@ -591,15 +599,19 @@ I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. G
 
 "Why not?"
 
-"Probably for the same reason that even though we have lots of cool technology, not many people have surgery to put it inside their bodies."
+"Probably for the same reason that even though we have lots of cool technology, not many people get surgery to put it inside their bodies."
 
 "Well <em>that's</em> an image."
 
-[????? Yali rested her case]
+Yali went quiet for a while. Seemed like she had finished her explanation. I thought about it. Like most people, I had known that alchemy and sorcery were <em>different</em> kinds of magic, but I hadn't really thought about it much beyond that. But now it made a lot of sense.
 
 "Okay, so you've covered… all of us except you. Alchemist is like sorcery, the rest of us are like manifesting. But what about you? What's the Seeing like?"
 
-[????? "When I use it, I'm not technically doing much magic at all. It doesn't influence any other souls or matter, after all. Only my own, to receive the knowledge. As for how the god "]
+Yali hesitated a little. "I think… I think when I use it, I'm not technically <em>doing</em> any magic at all. I'm not influencing any souls or matter, am I? Only myself, to receive the knowledge. The god might be manifesting on <em>me</em>, to put it into my head."
+
+"Okay, but like… how does the <em>god</em> know the futures?"
+
+"I, I... I actually have no idea. I mean, it's a god, right?"
 
 
 ?????
