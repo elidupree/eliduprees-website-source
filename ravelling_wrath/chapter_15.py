@@ -66,13 +66,13 @@ My skin drank up the cool morning dew like a dry sponge drinking up water. Every
 
 Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how I'd been expecting for Yali to see me naked for the first time. I smirked. If she didn't like it, she'd just have to deal with it. I stretched out luxuriantly, strutting my stuff so she could take a good look at whatever she wanted. Then I just flopped over on my back and let every part of me relax, just staring unfocusedly into the twilit sky.
 
-This was what life should be like. Crisp air filled my lungs, ?????. I had never breathed so easily, the air passing in and out, bringing all the strong and subtle smells of nature to my senses. ?????
+This was what life should be like. Crisp air filled my chest, piercing to the very bottom of my lungs and flushing out all the staleness. I had never breathed so easily, the air passing in and out, bringing all the strong and subtle smells of nature to my senses. ?????
 
 <bigbreak>
 
 After a long, refreshing rest, the itch to move started nudging at me.
 
-I rolled over on my hands and knees, climbed to my feet, and started walking. It didn't really matter which <em>way</em> I walked. I had no idea where anyone was anyway. And somewhere out there, Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
+I rolled over, my hands and knees pressing into the soft earth as I climbed to my feet. And then, I started walking. It didn't really matter which <em>way</em> I walked. I had no idea where anyone was anyway. And somewhere out there, Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
 
 ????? [????? Details of walking into the woods, mostly not summary language]
 
