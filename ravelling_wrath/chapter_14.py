@@ -30,7 +30,7 @@ My eyes followed the point of Justicar's sword hovering in front of me.
 
 I had nothing to say to that. She was right. I was no better than a murderer.
 
-"But I understand your meaning. To that, you must consider the position I am in. If need be, the Stern God will grant me weapons capable of damaging the fabric of the Otherworld itself. But it has always been my duty to minimize the harm that is done. That is why I must take the chance I have been given. I must kill you while you are too weak to summon soulfire."
+"But I understand your meaning. To that, you must consider the position I am in. If need be, the Stern God will grant me weapons capable of damaging the fabric of the Otherworld itself. But it has always been my duty to minimize the harm that is done. That is why I must take the chance I have been given. I must finish this while you are too weak to summon soulfire."
 
 "Soulfire? What's that?"
 
@@ -38,7 +38,7 @@ Justicar looked at me incredulously. "A Blood Child three layers deep, and you c
 
 "See? I'm not what you think I am!" I said desperately, not trying to convince Justicar as much as I was trying to convince myself. "You don't understand –"
 
-"I understand enough! I was told that you could hold back the Blood God, [????? and for a time I was foolish enough to believe it [except not fully believe]]. But you are a Blood Child through and through, and now, you have crossed the final boundary. From here on, your very existence places us all in danger."
+"I understand enough! I was told that you could hold back the Blood God, and for a time, I was foolish enough to consider it. But you are a Blood Child through and through, and now, you have crossed the final boundary. From here on, your very existence places us all in danger."
 
 "No, no, no…" I moaned.
 
@@ -56,7 +56,7 @@ It was like my body moved out of its own accord. It flung itself sideways just a
 
 I was barely on my feet when the sword came at me again. I leaped to the side, barely fast enough to hear the woosh in my ear as it missed.
 
-I had no time to think. Death was waiting just an arm's length away. Desperately, I wrenched a Blood Blade out of the air. Even that was a strain. I felt like my blood was far away from me, like I had to pull it from the bottom of a deep hole. And the moment the blade was in my hand, Justicar's sword was already whirling towards my eyes. I had to twist my body to block it, both hands shoving my Blood Blade up in its way.
+I had no time to think. Death was waiting just an arm's length away. Desperately, I wrenched a Blood Blade out of the air. Even that was a strain. I felt like my blood was far away from me, like I had to pull it from the bottom of a deep well. And the moment the blade was in my hand, Justicar's sword was already whirling towards my eyes. I had to twist my body to block it, both hands shoving my Blood Blade up in its way.
 
 The two blades met with a sickening thud. I felt mine crack in my hand, terrible fractures spreading throughout its body from the force. I leaped backwards, trying to put even a moment's space between me and the onrushing death.
 
@@ -134,7 +134,7 @@ Justicar stood across from her. With one hand, she still held her sword, drippin
 
 "I am," said Yali grimly. "If you had killed Rinn Akatura, you would already be dead."
 
-That was funny. Justicar <em>had</em> killed me. I was dead, right?
+That was funny. Justicar <em>had</em> killed me. I was dead, wasn't I?
 
 Not taking her eyes off of Justicar, Yali knelt down beside me. "Take this," she said out of the corner of her mouth. She handed me a potion.
 
@@ -166,7 +166,7 @@ The moment Justicar was out of sight, Yali rushed to my side, all her grim deter
 
 "No, you are not!" Yali thundered. "Your soul is still damaged! Half of that skin is a manifested patch! If you don't take more of the potion, you will <em>die</em>!"
 
-"Okay, okay…" I let Yali feed me the dregs of the potion. Then she tried to collect up some of the part that had spilled. It was pretty gooey, so she was able to wipe part of the spill from my neck and let me lick it off her fingers. I was almost able to get distracted, just sucking on her fingers, but she didn't let me. Still, the potion was definitely making me feel a little better, life oozing back into my body.
+"Okay, okay…" I let Yali feed me the dregs of the potion. Then she tried to collect up some of the part that had spilled. It was pretty gooey, so she was able to wipe part of the spill from my neck and let me lick it off her fingers. I was almost able to get distracted, just sucking on her fingers, but she didn't let me. [????? Fix that line?] Still, the potion was definitely making me feel a little better, life oozing back into my body.
 
 Yali examined my wound again. It must have satisfied her, because she settled down from an outright panic to just drawn-out anxiety. "It's enough to keep you alive…" she said uneasily. "I'm sorry, I didn't think of, I, I should have brought a second potion, I – "
 
@@ -222,21 +222,37 @@ Almost immediately, I felt his voice in my head. It didn't actually <em>sound</e
 
 It was a lot of negotiating and confusion, trying to communicate through Morrow. I didn't know how Alchemist could stand it all the time. But we managed to do it. We planned out a spot to meet up, mostly taking the Alchemist's Path to meet each other.
 
-Yali didn't want me to walk. "I'll carry you. No, no, that would jostle you too. We, we, we should put you in one of those rolling hospital beds." She stuck out her hands, but nothing happened. "I must not have one imprinted… I think I've only seen them in shows…"
+Yali didn't want me to walk. "I'll carry you. No, no, that would jostle you too. We should, we should put you in one of those rolling hospital beds." She stuck out her hands, but nothing happened. "I must not have one imprinted… I think I've only seen them in shows…"
 
 "I think I was in one when my leg was broken…"
 
 Manifesting was still agonizingly difficult, but I did it. So now here we were, Yali pushing me along in a hospital bed, occasionally shouting out to order the statues out of the way.
 
-Being carted along in bed gave me some time to process what had just happened. Or try to. My brain was still a mass of dull pain and shock. My train of thought drifted randomly. I babbled whatever came into my head. [????? Consider including two more things Rinn babbles before this, and have Yali reply "Shh" each time:] "You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…"
+Being carted along in bed gave me some time to process what had just happened. Or try to. My brain was still a mass of dull pain and shock. My train of thought drifted randomly. I babbled whatever came into my head. "I still can't believe how badass you –"
 
-"It's easier if people don't know that about me."
+"Shhhh."
+
+The bed's hard wheels click-click-clicked over the stone brick floor. I tugged at the sheets with my hand. The bed was a little stiff, but it kinda felt better than the floor where I'd been when I got stabbed with a sword.
+
+"I guess now I know how it feels to get –"
+
+"Shh."
+
+"– stabbed with a sword, haha that'll be fun to bring up at parties –"
+
+"Shhhhhhh."
+
+It kind of didn't even feel like something that had really happened. I mean, I was in the bed now. I was just lying limply in the bed, it didn't really feel like I had been killed and had my death wiped away by Yali's power. Yali…
+
+"You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…"
+
+Yali sighed. But after a moment, she decided to answer. "It's easier if people don't know that about me."
 
 The thoughts slowly clicked into place in my brain. "Holy shit, is she the one who… Wait, shit, I didn't mean to bring that up, I'm sorry –"
 
 Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>did</em> ask you not to bring that up, didn't I. But I see no reason not to tell you now."
 
-<em>I see no reason not to tell you now.</em> Her words were infinitely cold. She was going to tell me, but there was no warmth in this, no kindness, no sense of closeness or vulnerability.
+[????? Expand a little] <em>I see no reason not to tell you now.</em> Her words were infinitely cold. She was going to tell me, but there was no warmth in this, no kindness, no sense of closeness or vulnerability.
 
 <bigbreak>
 
@@ -349,6 +365,10 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 "Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>…" Yali said sourly, but then stopped herself. "But the ?????s did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
 
 ?????
+
+<bigbreak>
+
+[????? Summary language of meeting with alchemist and Morrow, getting another potion and Yali stocks up. Then they go to the portal, maybe without even another bigbreak]
 
 "The Broken Gate. It will be, it will be, <em>different</em>."
 
