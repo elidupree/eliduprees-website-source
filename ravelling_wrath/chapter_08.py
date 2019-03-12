@@ -614,6 +614,14 @@ Yali hesitated a little. "I think… I think when I use it, I'm not technically 
 
 "I, I... I actually have no idea. I mean, it's a god, right?"
 
+So there were some things even Yali didn't know. In a way, that was reassuring, but it also made me a little nervous.
+
+I held her hand and waited. ????
+
+
+
+
+
 [????? We were quiet for a while: maybe "there were a lot of things we didn't know". Then Morrow yells that the portal is in sight?]
 
 
