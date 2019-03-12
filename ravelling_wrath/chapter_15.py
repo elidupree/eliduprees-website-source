@@ -102,7 +102,7 @@ The stream opened out and I slid headfirst into a lake blooming with algae. I pu
 
 ?????
 
-Suddenly it was all too real, ????? my heart pounded. I dropped into a crouch, ready to fight against enemies on all sides. ????? And it wasn't even the pain that hurt. It was the <em>helplessness</em>. I had just lain there motionlessly while her sword plunged into me. Why hadn't I moved?! I should have moved, I should have fought back, twisted out of the way, ANYTHING!! How could I have been so stupid, so WEAK?!
+Suddenly it was all too real, too much pain and terror stabbing against me. My heart pounded. I dropped into a crouch, ready to fight against enemies on all sides. ????? And it wasn't even the pain that hurt. It was the <em>helplessness</em>. I had just lain there motionlessly while her sword plunged into me. Why hadn't I moved?! I should have moved, I should have fought back, twisted out of the way, ANYTHING!! How could I have been so stupid, so WEAK?!
 
 I would NEVER be that weak again. My hands clenched around my blades, looking for something to strike against. The next time I saw Justicar, I'd KILL her! I'd rip my blades into her flesh before she had a chance to fight back! Then she would NEVER be able to hurt me AGAIN! Roaring, I slammed my blades into the nearest tree, an enormous oak I probably couldn't even have fit my arms around. I beat and hacked at the tree until it splintered and fell, crashing violently through the woods. I leapt on top of the fallen trunk, glaring down at the world. I was STRONG! I was POWERFUL! I had CRUSHED this tree, and I could CRUSH anyone else who tried to stop me!!
 
