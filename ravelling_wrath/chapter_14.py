@@ -368,6 +368,26 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 <bigbreak>
 
+We met up with Morrow and Alchemist ?????. They both rushed to take a look at me. Yali stood in the way and shouted at Morrow to stay back.
+
+Then she and Alchemist examined me together. Alchemist cried while they were doing it. For me, it was more tedious than anything. I just had to sit still while they talked some technical soul stuff I didn't understand.
+
+They talked a lot about how my soul had been left for hours when it was only partially healed. Apparently, that was bad, but also good. It made things more complicated. Alchemist made me a series of different potions. All of them tasted different from each other, all subtle but unpleasant. I just drank them down as ordered. Eventually, they agreed that it was a success. My soul wasn't quite the same as before, but it was pretty much whole again.
+
+Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of ????? and ?????. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Because if she said it directly, Alchemist might not be willing…
+
+Alchemist refused to make another Severing Step, too.
+
+"Your soul, feels, changed? Maybe, when you used the first one,…"
+
+"It <em>would</em> feel changed," said Yali levelly. "I had a close call with the death of the one I love."
+
+But Alchemist wasn't convinced. They fussed over the idea uncertainly. Yali soon dropped the issue, to focus on potions that Alchemist was happier to make.
+
+Once that was done, Alchemist wanted to stay and cuddle with me. And Morrow had a million questions about what had happened. But Yali was impatient to get moving.
+
+
+
 [????? Summary language of meeting with alchemist and Morrow, getting another potion and Yali stocks up. Then they go to the portal, maybe without even another bigbreak]
 
 "The Broken Gate. It will be, it will be, <em>different</em>."

@@ -72,7 +72,7 @@ This was what life should be like. Crisp air filled my chest, piercing to the ve
 
 After a long, refreshing rest, the itch to move started nudging at me.
 
-I rolled over, my hands and knees pressing into the soft earth as I climbed to my feet. And then, I started walking. It didn't really matter which <em>way</em> I walked. I had no idea where anyone was anyway. And somewhere out there, Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
+I rolled over, my hands and knees pressing into the soft dirt as I climbed to my feet. And then, I started walking. It didn't really matter which <em>way</em> I walked. I had no idea where anyone was anyway. And somewhere out there, Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
 
 ????? [????? Details of walking into the woods, mostly not summary language]
 
