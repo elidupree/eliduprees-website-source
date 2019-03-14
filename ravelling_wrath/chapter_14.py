@@ -360,6 +360,10 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 ?????
 
+[????? Somewhere: Justicar has gone through the portal. Maybe "suddenly Yali looked relieved"]
+
+?????
+
 "How did your mom get picked to be the high priest if she had a bad memory? Isn't remembering the past really important to the Waiting?"
 
 "Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>…" Yali said sourly, but then stopped herself. "But the ?????s did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
@@ -374,21 +378,50 @@ Then she and Alchemist examined me together. Alchemist cried while they were doi
 
 They talked a lot about how my soul had been left for hours when it was only partially healed. Apparently, that was bad, but also good. It made things more complicated. Alchemist made me a series of different potions. All of them tasted different from each other, all subtle but unpleasant. I just drank them down as ordered. Eventually, they agreed that it was a success. My soul wasn't quite the same as before, but it was pretty much whole again.
 
-Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of ????? and ?????. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Because if she said it directly, Alchemist might not be willing…
+Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of ????? and ?????. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe because if she said it directly, Alchemist might not be willing…
 
-Alchemist refused to make another Severing Step, too.
+Alchemist shied away from making another Severing Step, too.
 
-"Your soul, feels, changed? Maybe, when you used the first one,…"
+"Your soul, maybe, feels, changed? Maybe, when you used the first one,…"
 
-"It <em>would</em> feel changed," said Yali levelly. "I had a close call with the death of the one I love."
+"It <em>would</em> feel changed," said Yali levelly. "I had a close call with the death of the one I love. The Severing Step didn't hurt me."
 
-But Alchemist wasn't convinced. They fussed over the idea uncertainly. Yali soon dropped the issue, to focus on potions that Alchemist was happier to make.
+But Alchemist wasn't convinced. They fussed over the idea uncertainly. Yali briefly looked in the future, then dropped the issue, to focus on potions that Alchemist was happier to make.
 
-Once that was done, Alchemist wanted to stay and cuddle with me. And Morrow had a million questions about what had happened. But Yali was impatient to get moving.
+Once that was done, Alchemist wanted to stay and cuddle with me. And Morrow had a million questions about what had happened. But Yali was impatient to get moving. She all but physically blocked the others away from me, helping me up and making sure I could walk again. And then, we moved. She set a swift pace that I could barely keep up with, in my weakened state.
+
+As we walked, Yali spoke with an edge of frustration. "This isn't enough. I wanted more protection for you. I wanted to give you your own set of potions. But with whatever is going on with you, you can't assimilate them."
+
+"Assimilate…?"
+
+She gave me a tired look. I couldn't quite tell what it meant. Dully, she explained. "It's like when you feel like something is part of you. Or at least <em>connected</em> to you, or <em>yours</em>. It forms a connection between your soul and the object – actually the same type of connection that lets us unmanifest our own manifested matter, but not someone else's. In the portals, the only things that come with us are the ones we've assimilated. That's why our clothes and phones came into the Otherworld with us, but not, say, the bench we were sitting on."
+
+"So if Alchemist made the potions, they're connected to Alchemist instead of us…?"
+
+"No, as long as Alchemist isn't mentally holding onto them, we can take them and assimilate them. In fact, it would have been subconsciously. Except… you, you, just aren't doing it."
+
+"I know why," I said bleakly.
+
+"You do?"
+
+"If you put a potion in my hand, I wouldn't feel like it was mine. It would just be, like, a thing. A thing that's there."
+
+"Oh. Of course." She looked exhausted. We were both exhausted.
+
+"Of course?"
+
+"I've felt that way before. I actually, actually, feel that way a lot."
+
+"Oh."
+
+[????? She got more agitated] "If only it wasn't happening <em>now</em>, when it matters for your life and death! You'll be defenseless when you get to the next world! And I don't even have a Severing Step to get me there if the worst happens and –"
+
+Alchemist made a little noise.
+
+"Don't worry about it," said Yali coldly. "I know it's too dangerous to use for anything less urgent than, than, what actually happened. And it's extremely unlikely that Justicar will get to you before I do, since she won't know where you are, and I have the Watchful Eye on you. And this potion, to get there faster."
 
 
-
-[????? Summary language of meeting with alchemist and Morrow, getting another potion and Yali stocks up. Then they go to the portal, maybe without even another bigbreak]
+[????? moodily walking to be portal]
 
 "The Broken Gate. It will be, it will be, <em>different</em>."
 
