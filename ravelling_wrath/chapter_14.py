@@ -242,7 +242,7 @@ The bed's hard wheels click-click-clicked over the stone brick floor. I tugged a
 
 "Shhhhhhh."
 
-It kind of didn't even feel like something that had really happened. I mean, I was in the bed now. I was just lying limply in the bed, it didn't really feel like I had been killed and had my death wiped away by Yali's power. Yali…
+It kind of didn't even feel like something that had really happened. I mean, I was in the bed now. I was just lying limply in the bed, it didn't really feel like I had been killed and had my death wiped away by the force of Yali. Yali…
 
 "You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…"
 
@@ -348,7 +348,7 @@ Yali smiled joylessly. "Can you tell I've told this story before? The parts befo
 
 Her words kept echoing around my head like it was an empty cave. I felt like there were a million things I wanted to say, but none of them came to me. How? How could people be so horrible? I was supposed to be angry, to hate ????? and ????? and Arinyo Seti for everything they had put her through. But there was an emptiness inside me where the anger should have been.
 
-What could I say? What would Rinn Akatura say? I was supposed to say something, to sympathize, to have an answer to the whole picture of what she told me. But it was a picture of something I couldn't comprehend. My mind stubbornly clung to the tiny details it could make sense of.
+What could I say? What would Rinn Akatura say? I was supposed to say something, to sympathize, to have an answer to the whole picture of what she told me. But it was a picture of something I couldn't comprehend. [????? My mind stubbornly clung to the tiny details it could make sense of.]
 
 "I can't believe your only friend left you…" I said hollowly. "Like, officially <em>left</em> you. On a specific day and everything…"
 
@@ -378,7 +378,7 @@ Then she and Alchemist examined me together. Alchemist cried while they were doi
 
 They talked a lot about how my soul had been left for hours when it was only partially healed. Apparently, that was bad, but also good. It made things more complicated. Alchemist made me a series of different potions. All of them tasted different from each other, all subtle but unpleasant. I just drank them down as ordered. Eventually, they agreed that it was a success. My soul wasn't quite the same as before, but it was pretty much whole again.
 
-Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of ????? and ?????. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe because if she said it directly, Alchemist might not be willing…
+Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of ????? and ?????. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe if she said it directly, Alchemist might not be willing…
 
 Alchemist shied away from making another Severing Step, too.
 
@@ -394,11 +394,11 @@ As we walked, Yali spoke with an edge of frustration. "This isn't enough. I want
 
 "Assimilate…?"
 
-She gave me a tired look. I couldn't quite tell what it meant. Dully, she explained. "It's like when you feel like something is part of you. Or at least <em>connected</em> to you, or <em>yours</em>. It forms a connection between your soul and the object – actually the same type of connection that lets us unmanifest our own manifested matter, but not someone else's. In the portals, the only things that come with us are the ones we've assimilated. That's why our clothes and phones came into the Otherworld with us, but not, say, the bench we were sitting on."
+She gave me a tired look. I couldn't tell what it meant. Dully, she explained. "It's like when you feel like something is part of you. Or at least <em>connected</em> to you, or <em>yours</em>. It forms a connection between your soul and the object – actually the same type of connection that lets us unmanifest our own manifested matter, but not someone else's. In the portals, the only things that come with us are the ones we've assimilated. That's why our clothes and phones came into the Otherworld with us, but not, say, the bench we were sitting on."
 
 "So if Alchemist made the potions, they're connected to Alchemist instead of us…?"
 
-"No, as long as Alchemist isn't mentally holding onto them, we can take them and assimilate them. In fact, it would have been subconsciously. Except… you, you, just aren't doing it."
+"No, as long as Alchemist isn't mentally holding onto them, we can take them and assimilate them. In fact, it should happen subconsciously. Except… you, you, just aren't doing it. I can tell with my powers, but I don't know why."
 
 "I know why," I said bleakly.
 
@@ -418,10 +418,26 @@ She gave me a tired look. I couldn't quite tell what it meant. Dully, she explai
 
 Alchemist made a little noise.
 
-"Don't worry about it," said Yali coldly. "I know it's too dangerous to use for anything less urgent than, than, what actually happened. And it's extremely unlikely that Justicar will get to you before I do, since she won't know where you are, and I have the Watchful Eye on you. And this potion, to get there faster."
+"Don't worry about it," said Yali coldly. "I know it's too dangerous to use for anything less urgent than, than, what actually happened. And it's extremely unlikely that Justicar will get to you before I do, since she won't know where you are, and I have the Watchful Eye on you. And even if she finds you, I still have this other potion that will let me move faster than she does. It's very unlikely. There are much more likely ways for you to die that I should worry about before this one. This part is going to be fine." She clearly didn't <em>feel</em> like it was going to be fine.
 
 
 [????? moodily walking to be portal]
+
+<bigbreak>
+
+I lost track of the time going by. Following the Alchemist's Path, it was just a long walk. Nothing I had to pay attention for.
+
+Morrow was having trouble too. Every so often, he stumbled and clutched his head. Alchemist had to soothe him while Yali and I waited for him to be able to keep moving. ????? [????? The Stern God was probably messing with him even more than it had messed with me.] I was just glad it wasn't in <em>my</em> head anymore. My mind still felt deadened, but at least it wasn't <em>that</em>. And it was a relief that Yali was standing between me and Morrow. His noise was too much for me. I just wanted…
+
+I didn't know what I wanted. Everything was still a fog. But Yali wanted me to go to the portal with her, so that's what I was doing, I guess.
+
+Before I knew it, we had arrived.
+
+<bigbreak>
+
+It loomed in front of me, the black, hypnotic doorway.
+
+"So this is…" I mumbled.
 
 "The Broken Gate. It will be, it will be, <em>different</em>."
 
