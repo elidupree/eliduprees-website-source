@@ -21,7 +21,7 @@ posts = [
 
 "I've, been, thinking, and…"
 
-Alchemist clearly had a lot weighing on them. [????? Physical description; both of us waited for them to continue]
+Alchemist clearly had a lot weighing on them. Their eyes were puffy and their robes were matted down from the rain. They kept their hands clasped together right in front of their chest, their shoulders curled inwards. Yali and I waited for them to [????? figure out what to say].
 
 "I know, what, you said. Morrow… his powers… we can't get near him without his powers, hurting us. But, what if…"
 
@@ -89,16 +89,18 @@ Alchemist hesitantly followed her. "Do you, know, what, we're looking for?"
 
 <bigbreak>
 
+It was a long walk, through a lot of mud. At first, I manifested a swath of fire to boil it away. Yali liked it, but it scared Alchemist. So then I just manifested a bunch of wooden boards to lay down over the mud. That worked for a while, but when it came time to use the Seeing, Yali asked me to stop manifesting to make it easier. So then we had to trudge through a lot of mud again. At least I had my nice boots now.
 
+While we walked, we also filled in Alchemist on everything that had happened since they left.
 [????? Summary language: setting off to look for ingredients, and also telling Alchemist about the revelations from last chapter
 
-?????
+At last, we came to a spot where Yali saw something in the future. She pointed Alchemist to the general area where they had found something, then let them lead the way.
 
 Alchemist led us to a tiny brook and knelt down next to it. They lowered their hands into the water, kneading the thick clay from the streambed and drawing up handfuls of it into a little sack.
 
 "Solid… But it needs…"
 
-"The clay will stabilize the potion. Without the clay, the energy from the sorcery might be released prematurely or damage other parts of the medium. But the clay isn't receptive to magic by itself. With <em>only</em> the clay, the sorcery wouldn't stay in potion form, it would float away into the air."
+"The clay will stabilize the potion. Without the clay, the energy from the sorcery might be released prematurely or damage other parts of the medium. But the clay isn't receptive to magic by itself. With <em>only</em> the clay, the sorcery wouldn't stay in potion form, it would float away into the air. So we'll also need –"
 
 "Okay, that's nice, but," I said, "Morrow's going to have to drink a bottle of clay??"
 

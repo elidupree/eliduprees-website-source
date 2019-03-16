@@ -156,6 +156,8 @@ Justicar tensed. Visible anger crossed her face. "The gods <em>always</em> have 
 
 She strode away, with Yali glaring after her.
 
+[????? Should there be a section break here?]
+
 The moment Justicar was out of sight, Yali rushed to my side, all her grim determination replaced with panic. She put her hands around my arm and shoulder, clumsily trying to pull me up into a better sitting position.
 
 "You don't need –" I began.
@@ -418,18 +420,23 @@ She gave me a tired look. I couldn't tell what it meant. Dully, she explained. "
 
 Alchemist made a little noise.
 
-"Don't worry about it," said Yali coldly. "I know it's too dangerous to use for anything less urgent than, than, what actually happened. And it's extremely unlikely that Justicar will get to you before I do, since she won't know where you are, and I have the Watchful Eye on you. And even if she finds you, I still have this other potion that will let me move faster than she does. It's very unlikely. There are much more likely ways for you to die that I should worry about before this one. This part is going to be fine." She clearly didn't <em>feel</em> like it was going to be fine.
+"Don't worry about it," said Yali coldly. "I know it's too dangerous to use for anything less urgent than, than, what actually happened. And it's extremely unlikely that Justicar will get to you before I do, since she won't know where you are, and I have the Watchful Eye on you. And even if she finds you, I still have this other potion that will let me move faster than she does. It's very unlikely. There are much more likely ways for you to die that I should worry about before this one. This part is going to be fine."
+
+She clearly didn't <em>feel</em> like it was going to be fine.
+
+Silence settled over us again. We continued our long, moody walk to the portal.
 
 
-[????? moodily walking to be portal]
 
 <bigbreak>
 
 I lost track of the time going by. Following the Alchemist's Path, it was just a long walk. Nothing I had to pay attention for.
 
-Morrow was having trouble too. Every so often, he stumbled and clutched his head. Alchemist had to soothe him while Yali and I waited for him to be able to keep moving. ????? [????? The Stern God was probably messing with him even more than it had messed with me.] I was just glad it wasn't in <em>my</em> head anymore. My mind still felt deadened, but at least it wasn't <em>that</em>. And it was a relief that Yali was standing between me and Morrow. His noise was too much for me. I just wanted…
+Morrow was having trouble too. Every so often, he stumbled and clutched his head. Alchemist had to soothe him while Yali and I waited for him to be able to keep moving. Sometimes he yelled out in pain and argued with things we couldn't see. It was probably the Stern God. It was probably getting in his head, even worse than it had with me. I was just glad it wasn't in <em>my</em> head anymore. My mind still felt deadened, but at least it wasn't <em>that</em>. And it was a relief that Yali was standing between me and Morrow. His noise was too much for me. I just wanted…
 
 I didn't know what I wanted. Everything was still a fog. But Yali wanted me to go to the portal with her, so that's what I was doing, I guess.
+
+It wasn't like I had anything else to do.
 
 Before I knew it, we had arrived.
 
