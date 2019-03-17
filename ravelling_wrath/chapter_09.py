@@ -230,7 +230,7 @@ The whole room lit up with carnival lights. The walls were covered with a projec
 
 "Haha, this is just like a game show!" I said. "Better watch out, I'll beat you!"
 
-We answered the next dozen questions really fast. A lot of them were easy prompts like the first one – it showed us the ocean and you were supposed to pick a fish, and ????? and you were supposed to pick a ?????, and stuff like that. Some of them were trickier – one time the scene was a graveyard and the answer was a sausage, because it was the only at one of the icons that was technically dead.
+We answered the next dozen questions really fast. A lot of them were easy prompts like the first one – it showed us the ocean and you were supposed to pick a fish, and ????? and you were supposed to pick a ?????, and stuff like that. Some of them were trickier – one time the scene was a graveyard and the answer was a sausage, because it was the only one of the icons that was technically dead.
 
 Before long, Morrow got one wrong. A buzzer sounded, the pedestals went dark and the room was empty again. I pumped my fist in the air. "Haha! I won! Take that!"
 
@@ -310,7 +310,7 @@ The clock was running at a normal pace. It had a simple, blocky hour hand, and t
 
 "Okay, maybe the clock is the puzzle!" Morrow tried to take it down from the wall, but it didn't work. The clock was inset into the wall, and it was covered by a glass panel that was completely smooth with the surface of the wall. Morrow tried to dig his fingernails under it, but they just slid straight from the wall to the glass without catching anywhere. Then he swung his arm as if he was hitting it with a hammer, except he wasn't holding anything. He stared at his hand indignantly, then made the same gesture again.
 
-"Are you trying to…" I tried to manifest a hammer myself, and nothing happened. "Huh, guess we can't manifest in this one."
+"Are you trying to…" I tried to manifest a hammer myself, and nothing happened. "Huh, guess we can't manifest in this one." I manifested a Blood Blade, and <em>that</em> worked, of course. But when I stabbed it at the clock, it just slid off to the side.
 
 "We must've missed something!!" said Morrow, agitated.
 
@@ -446,7 +446,7 @@ Alchemist hesitantly put their arms around Morrow's shoulders. They guided Morro
 
 Before long, Morrow was… not exactly <em>calm</em>, but a lot less frantic. He kept breathing hard, but he eventually kind of sank into Alchemist's chest instead of being all tensed up. Watching Alchemist's fingers weave themselves through Morrow's hair… gods, they were so cute together. I couldn't stop my eyes from following the – no, I didn't even WANT to think they were cute! Morrow was awful! <em>Morrow, you don't get a free pass just because you and Alchemist make a cute couple and are soft and adorable and – oh, Stern take it.</em>
 
-As time passed, though, I really wasn't as mad anymore. It was easy enough to get distracted watching them. Morrow eventually managed to pull himself upright again, and they both sat with their backs against the wall, leaning on each other's shoulders, their faces turned towards each other. Just about close enough that they could case. I was kind of hoping they would, just so I could watch, haha.
+As time passed, though, I really wasn't as mad anymore. It was easy enough to get distracted watching them. Morrow eventually managed to pull himself upright again, and they both sat with their backs against the wall, leaning on each other's shoulders, their faces turned towards each other. Just about close enough that they could kiss. I was kind of hoping they would, just so I could watch, haha.
 
 And then they actually did. Morrow moved his lips in close, and then Alchemist leaned into it, and –
 
@@ -460,9 +460,9 @@ Morrow looked up at me with a little smirk. "This is the only room we've got!!" 
 
 "Wait a minute, people can come <em>here</em>? I thought we were the only ones here!"
 
-"Not <em>here</em> here! <em>Here!</em>" Maybe he was talking about the Otherworld in general. It was easy to forget about it, but the gods' worlds were only part of the whole Otherworld, just like the regular world was a lot bigger than just the city.
+"Not <em>here</em> here! <em>Here!</em>" [????? expand this:] Maybe he was talking about the Otherworld in general. It was easy to forget about it, but the gods' worlds were only part of the whole Otherworld, just like the regular world was a lot bigger than just the city.
 
-"Also, why would you even know that??" I said. "Wait, never mind, you probably just looked it up because you were curious. Duh."
+[???? cut this: "Also, why would you even know that??" I said. "Wait, never mind, you probably just looked it up because you were curious. Duh."]
 
 ?????
 
@@ -476,13 +476,13 @@ The clock popped out of the wall with a comical boinging sound like a spring fro
 
 "Okay, so what does <em>that</em> m–"
 
-The whole room swayed. The floor tipped and rose, dumping us all onto the wall. I plowed into Justicar, scraping my knees on her armor.
+Without warning, the whole room swayed. The floor tipped and rose, dumping us all onto the wall. I plowed into Justicar, scraping my knees on her armor.
 
 "Ow, your armor is hard!"
 
 "Look out behind –" Justicar began.
 
-I twisted around just in time for Morrow and Alchemist to land solidly on my stomach, knocking the wind out of me. Now we were all in a big pile, and Alchemist was on top.
+I twisted around, just in time for Morrow and Alchemist to land solidly on my stomach, knocking the wind out of me. Now we were all in a big pile, and Alchemist was on top.
 
 Under me, Justicar strained to speak. "Alchemist, you have to move. I can free myself, but not without injuring the Blood Child."
 
@@ -492,7 +492,7 @@ The walls fell open, revealing a black space above and around us. Moments later,
 
 "Wait, we can manifest again now?" I said. "Then that's enough of this bullshit!" Channeling my strength, I manifested away all my bruises.
 
-"If we are all [?????okay]," said Justicar soberly, "then I believe the Alchemist owes us an apology. He –"
+"If we are all [?????okay]," said Justicar soberly, "then I believe the Alchemist owes us an apology for not moving when we needed him –"
 
 I stomped in between Justicar and the others. "Alchemist doesn't have to apologize for <em>shit</em>! They were just as surprised as anyone!"
 
@@ -606,7 +606,7 @@ Morrow ran up to me. Somehow, he had gone all the way around the fountain while 
 
 "I… see," said Justicar, holding hers up and scrutinizing it. "I can see the sigils inside."
 
-I looked into my own. It was barely bigger than my own, but as soon as I looked into it, I saw thousands of glowing lines swimming past inside the orb, forming countless diagrams that overlapped and slid past each other as my eyes tried to tell them apart. "How the fuck do you see anything in this??" I said.
+I looked into my own. It was barely bigger than my hand, but as soon as I looked into it, I saw thousands of glowing lines swimming past inside the orb, forming countless diagrams that overlapped and slid past each other as my eyes tried to tell them apart. "How the fuck do you see anything in this??" I said.
 
 "Use your intention," said Justicar. "Try to look for a specific room. This one, for example."
 
