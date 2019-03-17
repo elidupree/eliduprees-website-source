@@ -451,7 +451,7 @@ Even now that I was sober, she was still way better at solving the puzzles than 
 
 "You're a cop?! I thought you said you weren't a cop!!"
 
-"I said that I AM not a police officer," she said with a tight smile. "I was dismissed from the force. The official records would tell you that it was for obstructing the duties of my fellow officers. But as I prefer to see it, I was dismissed from the police force <em>for enforcing the law</em>."
+"I said that I <em>am</em> not a police officer," she said with a tight smile. "I was dismissed from the force. The official records would tell you that it was for obstructing the duties of my fellow officers. But as I prefer to see it, I was dismissed from the police force <em>for enforcing the law</em>."
 
 "Okay, there's gotta be quite a story behind <em>that</em> one."
 
@@ -459,13 +459,23 @@ Even now that I was sober, she was still way better at solving the puzzles than 
 
 proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect to the will of the Stern as I did.	I was asked to overlook bias and petty corruption. [????? Bias in favor of rich people] simply because they could create trouble for us. I asked them: Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us? ????? I was barely tolerated. My superiors [????? assigned me unwanted duties]. But the Stern teaches that even when we are hated, we must be true to our convictions. Every duty they assigned me, I carried out to the fullness of my ability.
 
-?????
+"But I was not oblivious to what happened around me. Most of what we did was lawful, but that is not enough. We cannot call ourselves a Stern Temple if we tolerate corruption within our midst. And I could not help but notice how conversations died when I entered the room. Things were being hidden from me. For a time, I ignored it to focus on my own duties. After all, we cannot control the choices of others, only our own. But when I began to notice a pattern of unexplained bruises appearing on our arrestees, I could ignore it no longer.
 
-"Haha, that's gotta sting. Imagine being a cop and getting arrested in your own police station."
+"So I began to investigate. I coordinated with the few people I thought I could trust. ????? I chose unpredictable days to arrive early for my shifts.
+
+"It was in this way that I came to witness one of my 'fellow officers' beating a handcuffed arrestee.
+
+"I arrested him immediately, of course."
+
+I snickered. "Haha, that's gotta sting. Imagine being a cop and getting arrested in your own police station."
 
 "I would prefer to say: Imagine committing battery in plain view of a police officer and getting arrested. If you commit a crime, you are not a police officer, you are a criminal."
 
-"Or, She smiled grimly. "And now it seems that the god itself has vindicated me."
+"Ice cold," I said, grinning.
+
+"The Stern Temple did not see things the same way. ????? I challenged my dismissal ????? Even my old mentors, at the temple where I had trained, refused to speak to me. I finally cornered the High Priest of the Stern Temple himself, [????? is it "of the Stern Temple" or "of the Stern God"?] but before I could even speak, he told me he was 'not interested in routine personnel issues'. ?????"
+
+"But now," she smiled grimly. "it seems that the god itself has vindicated me."
 
 ?????
 
@@ -485,7 +495,7 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 "Ugh, you're so Stern that even when you hate the Stern you have to be more Stern than they are??"
 
-[????? how can the law be pure when it's also made by humans?]
+[????? how can the law be pure when it's also made by humans? like, "if the Stern Temple is generally corrupt, how can you still support the idea of it"]
 
 [????? Finishing up the puzzle]
 ?????
@@ -493,9 +503,9 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 We were in the elevator again, taking a brief rest as we got close to the end of a long chain of puzzles. How many days had we been at this now?
 
-Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>!
+Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>! Sure, it was pretty badass that she had tried to take down another, but the way she <em>can't</em> about it was just <em>infuriating</em>.
 
-But even though I had my phone back, I was long since bored of all the games I had on it. Messing with Justicar was the only entertainment I still had.
+And even though I had a copy of my phone again, I was long since bored of all the games I had on it. Messing with Justicar was the only entertainment I still had.
 
 "So…" I said, trying to sound sly but probably just sounding like an asshole, "when you were a cop, how many people did you put in prison?" I couldn't resist asking her that. I just <em>knew</em> she was going to come up with some reason not to answer.
 
