@@ -427,6 +427,10 @@ So. Morrow was a sex worker? I felt like I should be surprised, but nothing woul
 
 ?????
 
+[????? somewhere: "am I the only one of us who has a good relationship with my parents?" "I mean, I think Justicar, like, <em>approves</em> of her parents. I'm pretty sure they were actually horrible to her though."]
+
+?????
+
 Eventually he met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them teaching him how to open a bank account, how to ?????. All the little things he missed out on by growing up in an abusive household. They were… also sex workers, I believe, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
 
 "Wait a minute, I thought you were looking at <em>his</em> memories! How do you know something he doesn't know?"
