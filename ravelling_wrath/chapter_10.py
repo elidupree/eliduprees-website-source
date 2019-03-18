@@ -24,6 +24,8 @@ posts = [
   
 It wasn't hard to get the others to follow along with me. Morrow was always going to follow wherever Alchemist went. Justicar was always going to follow the rest of us to "protect" us. And Alchemist… I wasn't really sure, but they moved to follow along as soon as I said where I was going. Maybe they wanted us all to get back together with Yali again, just like I did.
 
+So we followed where the map let us. Morrow showed us a bunch more tricks for how to use it. Besides just moving to where you wanted to look at, you could also change it to highlight different landmarks. You could change the angle you were looking at things in 3D. And you could make the whole map disappear and reappear whenever you wanted, so it wasn't annoyingly floating around your hand all the time.
+
 The way we were walking, more glass walkways stretched out over the void. At first, we were on a long straight one. But then it branched and expanded into a whole three-dimensional maze in the air, with different walkways curling around each other and joining in loops and stopping at dead ends in midair.
 
 It got harder and harder to keep moving. We took what seemed like the obvious way forward, but then it twisted around and hit a dead end. Before long, it didn't seem like there was <em>any</em> way forward.
@@ -455,11 +457,11 @@ Even now that I was sober, she was still way better at solving the puzzles than 
 
 "Okay, there's gotta be quite a story behind <em>that</em> one."
 
-"I was a star student once again. [????? authority figures] praised my hard work and sense of duty. Hypocrites, all of them.
+????? "I was a star student once again. [????? authority figures] praised my hard work and sense of duty. Hypocrites, all of them.
 
 proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect to the will of the Stern as I did.	I was asked to overlook bias and petty corruption. [????? Bias in favor of rich people] simply because they could create trouble for us. I asked them: Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us? ????? I was barely tolerated. My superiors [????? assigned me unwanted duties]. But the Stern teaches that even when we are hated, we must be true to our convictions. Every duty they assigned me, I carried out to the fullness of my ability.
 
-"But I was not oblivious to what happened around me. Most of what we did was lawful, but that is not enough. We cannot call ourselves a Stern Temple if we tolerate corruption within our midst. And I could not help but notice how conversations died when I entered the room. Things were being hidden from me. For a time, I ignored it to focus on my own duties. After all, we cannot control the choices of others, only our own. But when I began to notice a pattern of unexplained bruises appearing on our arrestees, I could ignore it no longer.
+"But I was not oblivious to what happened around me. Most of what we did was lawful, but that is not enough. We cannot call ourselves a Stern Temple if we tolerate corruption within our midst. And I could not help but notice how conversations died when I entered the room. Things were being hidden from me. For a time, I ignored it to focus on my own duties. After all, we cannot control the choices of others, only our own. But when I began to notice a pattern of unexplained <em>bruises</em> appearing on our arrestees, I could ignore it no longer.
 
 "So I began to investigate. I coordinated with the few people I thought I could trust. ????? I chose unpredictable days to arrive early for my shifts.
 
@@ -473,7 +475,7 @@ I snickered. "Haha, that's gotta sting. Imagine being a cop and getting arrested
 
 "Ice cold," I said, grinning.
 
-"The Stern Temple did not see things the same way. ????? I challenged my dismissal ????? Even my old mentors, at the temple where I had trained, refused to speak to me. I finally cornered the High Priest of the Stern Temple himself, [????? is it "of the Stern Temple" or "of the Stern God"?] but before I could even speak, he told me he was 'not interested in routine personnel issues'. ?????"
+"The Stern Temple did not see things the same way. I was placed on leave before the day was out, and dismissed from the force less than two weeks later, with no opportunity to defend myself. I challenged my dismissal through what should have been an impartial process, but they shut me out in every way they could. Even my old mentors, at the temple where I had trained, refused to speak to me. I finally cornered the High Priest of the Stern Temple himself, [????? is it "of the Stern Temple" or "of the Stern God"?] but before I could even speak, he told me he was 'not interested in routine personnel issues'. I could easily see that it was a prepared response. The entire hierarchy of the Temple was complicit."
 
 "But now," she smiled grimly. "it seems that the god itself has vindicated me."
 
@@ -495,7 +497,11 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 "Ugh, you're so Stern that even when you hate the Stern you have to be more Stern than they are??"
 
-[????? how can the law be pure when it's also made by humans? like, "if the Stern Temple is generally corrupt, how can you still support the idea of it"]
+"<em>Everyone</em> has a duty to be more Stern than they are."
+
+"Uggggghhhhhhh."
+
+[????? where to fit this?: how can the law be pure when it's also made by humans? like, "if the Stern Temple is generally corrupt, how can you still support the idea of it"]
 
 [????? Finishing up the puzzle]
 ?????
@@ -503,7 +509,7 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 We were in the elevator again, taking a brief rest as we got close to the end of a long chain of puzzles. How many days had we been at this now?
 
-Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>! Sure, it was pretty badass that she had tried to take down another, but the way she <em>can't</em> about it was just <em>infuriating</em>.
+Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>! Sure, it was pretty badass that she had tried to take down another cop, but the way she <em>talked</em> about it was just <em>infuriating</em>.
 
 And even though I had a copy of my phone again, I was long since bored of all the games I had on it. Messing with Justicar was the only entertainment I still had.
 
@@ -541,7 +547,7 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "That is not –"
 
-"I grew up down the street from that kid!" I shouted over her. ?????, but a righteous rage was building in my chest. "[????? Name]! He went to prison for stealing a $50 pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a $50 pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ????? Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
+"I grew up down the street from that kid!" I shouted over her. I had only barely figured out where I was going with this, but a righteous rage was building in my chest. "[????? Name]! He went to prison for stealing a $50 pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a $50 pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ?????Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
 
 "If he was abused in prison, that is <em>not</em> the will of the Stern! You cannot blame –"
 
@@ -563,7 +569,7 @@ Rage surged up in me. I wanted to punch the smug indifference right off her face
 
 "You will not find your enlightenment down that road," said Justicar. She continued, speaking like she was reciting a practiced statement. "The lower gods act without thinking. The upper gods tarry in thought, rarely taking meaningful action. Only the Stern, which stands in the middle, has the balance necessary to administrate a society. That is why the Stern Temple officially controls three fifths of the city, and why –"
 
-"Wait a minute. Three fifths?"
+"Wait a minute. Only three fifths?"
 
 "The Waiting Temple has formal authority over the first layer. The Seeking Temple, the second. And the Stern Temple is based in the third layer, but also has authority over the fourth and the fifth –"
 
@@ -623,7 +629,7 @@ Not thinking of anything else to do, I stood on the button. The door on Justicar
 
 I searched all up and down the walls. There wasn't much to search. I felt like Morrow trying to search the gray room from earlier. Eventually, I just started pacing around and staring irritably at the various parts of the puzzle.
 
-?????
+There wasn't much to stare at, either.
 
 "What I <em>really</em> don't get is this extra flamethrower over here on my side," I said. "It doesn't <em>do</em> anything. It's literally just down a dead end, not blocking off anything!"
 
@@ -655,7 +661,7 @@ Justicar must have realized the same thing, because she immediately tensed up. "
 
 "Actually, it still hurts a lot. I was just pretending earlier."
 
-"Then there must be another way! Even if the flames do not actually injure you, that only means that the Seeking God did not want to injure you simply because you broke the rules. But they still represent an impassable barrier! The puzzle will have a more proper solution –"
+"Then there must be another way! Even if the flames do not actually injure you, that only means that the Seeking God did not want to inflict injuries simply because a person broke the rules. But they still represent an impassable barrier! The puzzle will have a more proper solution –"
 
 I grinned savagely. "No, it won't! You said it yourself! If there was a way to get out of this, it would <em>waste that potential of the situation</em> –"
 
@@ -709,7 +715,7 @@ I smirked. "Nah, it just means I was right all along! I'm the one who thought, u
 
 "An interesting thought, but how was that <em>my</em> rule? Anyone could have assumed th–"
 
-I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this petty shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about ?????, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
+I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about ?????, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
 
 "That is not what 'belief in the Stern' m–"
 
@@ -734,8 +740,19 @@ I stared back at her. I almost wanted to say something defensive, but if there w
 
 The exit doorway was right in front of us, leading to a tunnel into the blackness.
 
+[????? possibly end the chapter here, move the next section into chapter 10]
+
 ?????
 
+[????? Somewhere in here: the tunnels aren't puzzle area, they're like maintenance tunnels and/or the interior of the god's body]
+
+The tunnel was so smooth and dark that it was hard to see where the walls were. ????? And it was actually perfectly cylindrical. Justicar and I ended up walking single-file, because otherwise it was too hard to balance on the curved floor.
+
+I made the map appear in my hand. As we walked, I kept checking it obsessively, almost every other step. The Watchful Eye – <em>Yali</em> – was so close to us. The tunnel curved in an irregular, wavy pattern back and forth, as we rounded each bend, we got closer to Yali. And closer. And closer.
+
+And… the same distance? And farther away?
+
+I turned around.
 
 "Where are you going?" said Justicar.
 
