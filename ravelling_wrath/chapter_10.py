@@ -181,6 +181,8 @@ Justicar spotted what I was doing. "I told you," she said patiently, "the Seekin
 
 <bigbreak>
 
+[????? Where?: Clarify that they have begun a long series of puzzles with the same general format]
+
 "Let me OUT of here!!" I screamed.
 
 I was TRAPPED between these glass walls. I had to get OUT. With a Blood Blade in my hand, I stabbed against the –
@@ -422,6 +424,20 @@ Justicar raised an eyebrow. "I must admit, I was not expecting <em>you</em> to a
 
 Justicar glared at me. Then she took another deep breath. "I apologize for venting my emotions in my previous apology. It was not fair to you."
 
+"You kidding me? We were just <em>getting</em> somewhere! And now you want to apologize and make it disappear? Morrow was right, you <em>do</em> shove your feelings down a dumpster!"
+
+I was trying to provoke her into arguing some more, but it didn't get through at all. She had somehow completely calmed herself down. "You can believe what you like," she said.
+
+"And I'm sick of you saying 'you can believe what you like'! That's just what you say when you don't want to think about what I'm saying!"
+
+"You can believe what you like."
+
+<bigbreak>
+
+Another puzzle
+
+Even now that I was sober, she was still way better at solving the puzzles than I was. I wasn't <em>bad</em> at it, but Justicar could just look at something and instantly be like, <em>logically, this is what we have to do</em>. It kind of felt like there was no point in me trying to follow along. I mostly just ended up going along with what she said.
+
 ?????
 
 [????? "I cannot force you to believe me. But [the strictures of the rules are what saved me; short summary of life during + after the school]"]
@@ -436,9 +452,7 @@ Justicar glared at me. Then she took another deep breath. "I apologize for venti
 
 ?????
 
-Another puzzle
 
-Even now that I was sober, she was still way better at solving the puzzles than I was. I wasn't <em>bad</em> at it, but Justicar could just look at something and instantly be like, <em>logically, this is what we have to do</em>. It kind of felt like there was no point in me trying to follow along. I mostly just ended up going along with what she said.
 
 
 ?????
@@ -655,13 +669,13 @@ And it wasn't even just that I would have to <em>walk</em> into the flames. In t
 
 Justicar must have realized the same thing, because she immediately tensed up. "That cannot be what we have to do! There must be something else!"
 
-?????
+"Nope! This is totally it!"
 
-"But if they are only an illusion… if you will not actually be harmed…"
+"But the Seeking God wouldn't – well, the Seeking God <em>is</em> a god of tricks and illusions… so if they are only an illusion… if you will not actually be harmed…"
 
-"Actually, it still hurts a lot. I was just pretending earlier."
+If that made it easier for her… "Actually, it still hurts a lot. I was just pretending earlier."
 
-"Then there must be another way! Even if the flames do not actually injure you, that only means that the Seeking God did not want to inflict injuries simply because a person broke the rules. But they still represent an impassable barrier! The puzzle will have a more proper solution –"
+"Then there must be another way! Even if the flames do not actually injure you, that only means that the Seeking God did not want to inflict injuries simply because a person broke the rules. They still represent an impassable barrier! The puzzle will have a more proper solution –"
 
 I grinned savagely. "No, it won't! You said it yourself! If there was a way to get out of this, it would <em>waste that potential of the situation</em> –"
 

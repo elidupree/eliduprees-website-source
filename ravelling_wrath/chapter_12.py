@@ -55,7 +55,7 @@ I ought to get up, I thought. My back was killing me. I <em>really</em> ought to
 
 What had happened to me?
 
-I have never felt like this before. Up to this point, the Ravelling had been… certainly an <em>interesting</em> experience… but I had basically felt the way I would normally feel about all of it. But this… I had never felt like this before in my life. Listlessly, I tried lifting up a hand and making a fist. It didn't even feel like my hand. The fist didn't feel kickass. It was just… <em>a</em> hand that happened to be connected to my arm.
+I had never felt like this before. Up to this point, the Ravelling had been… not always fun… but I had basically felt the way I would normally feel about all of it. But this… I had never felt like this before in my life. Listlessly, I tried lifting up a hand and making a fist. It didn't even feel like my hand. The fist didn't feel kickass. It was just… <em>a</em> hand that happened to be connected to my arm.
 
 I dropped my arm down to the floor again. If I didn't get to feel anything, what was the point of even getting up? Even the rhythm of my heart only felt like a distant echo.
 
@@ -69,17 +69,19 @@ I didn't have to guess what this was. It was the Stern God.
 
 Why was the Stern God allowed in my head? I didn't have the energy to question it. I had to get up. I ripped my tiredness aside. I yanked myself to my feet like a puppet. My muscles burned with the pain of being used before they were ready. They still weren't ready. I forced them to do the next thing anyway.
 
-<em>I must [????? prepare in an obedient way],</em> I thought. I stumbled to the center of the room. In front of me, there was a pedestal with a uniform neatly folded on top of it. I was to put on the uniform before continuing. Across from me, two grim-faced, white marble statues blocked the doorway with their spears, waiting for me to obey. They wouldn't let me pass until I was wearing the uniform. I didn't know how I knew that. I didn't care enough to think about it more.
+<em>I must perform the preparations,</em> I thought. I stumbled to the center of the room. In front of me, there was a pedestal with a uniform neatly folded on top of it. I was to put on the uniform before continuing. Across from me, two grim-faced, white marble statues blocked the doorway with their spears, waiting for me to obey. They wouldn't let me pass until I was wearing the uniform. I didn't know how I knew that. I didn't care enough to think about it more.
 
-I held up the uniform shirt in my hands. It was made of heavy, stiff cloth, all white except for a narrow red border. And on the back of the shirt, there was a simple version of the Burning Heart symbol, as if to label me.
+I held up the uniform shirt in my hands. It was made of heavy, stiff cloth, all white except for a narrow red border. And on the back of the shirt, in the same red as the border, there was a simple version of the Burning Heart symbol, as if to label me.
 
 Mechanically, I stripped off my clothing and changed into the uniform. It was ill fitting, and the stiff cloth chafed at my skin. The uniform shoes were hard and black, and made a sharp sound each time I took a step. It was hard not to stand up straight while wearing them. I felt like a soldier forced to march in a ceremonial parade.
 
-I looked down at my old clothing, sitting limply in a heap, looking tiny in the big white room. Belatedly, I realized that I could have just unmanifested it rather than taking it off normally. Nothing I did was ever right.
+I looked down at my old clothing, sitting limply in a heap, looking tiny in the big white room. Belatedly, I realized that I could have just unmanifested it rather than taking it off normally. [????? Adjust wording:] Nothing I did was ever right.
 
 Where did that thought come from? It was such a weird thing for me to be thinking. Ugh, I couldn't stand this place.
 
-I bent over to grab my phone from my old clothes. Once I was holding it, I realized that my uniform had no pockets. I felt stupid. I tried to manifest a pocket onto the uniform, but only ran up against the coldness of the Stern God's will. Carrying the phone in my hand, I approached the statues at the room's exit. They blocked me dismissively. <em>That is not to come with you,</em> they seemed to be saying.
+I bent over to grab my phone from my old clothes. Once I was holding it, I realized that my uniform had no pockets. I felt stupid. I tried to manifest a pocket onto the uniform, but only ran up against the coldness of the Stern God's will. So I carried to the phone in my hand.
+
+I approached the statues at the room's exit. They blocked me dismissively. <em>That is not to come with you,</em> they seemed to be saying.
 
 I didn't want to leave my phone behind. It was the last real object I still had with me. Even before I changed into the uniform, all my clothes had been replaced with manifested versions long ago. But I just wanted to get this over with. It was too much work to try to argue. Feeling empty, I set my phone down with the rest of my things and stepped away from it.
 
@@ -89,25 +91,31 @@ I presented myself before the statues again. They seemed to acknowledge my prese
 
 <em>Bow down.</em>
 
-Normally, I would have fought against it, refused to [????? show obedience (bow down?)]. But now, I didn't even care anymore. <em>Joke's on you, Stern God. You can't humble me when I don't give a shit in the first place.</em>
+Normally, I would have fought against it. But now, I didn't even care anymore. <em>Joke's on you, Stern God. You can't humble me when I don't give a shit in the first place.</em>
 
 I bowed. The statues stood aside approvingly.
 
 I stumbled forward, in the Stern uniform, down the Stern corridor, leaving everything behind me.
 
+<bigbreak>
+
 The hard shoes pinched my feet as I walked. The corridor seemed endless. Straight rows of rigid stone blocks formed the walls and floor. More pairs of statues flanked the corridor, watching my every move. They didn't move to stop me, but I was never out of their sight.
 
-Despite the rigid walls everywhere, there was no ceiling. Every room and corridor was open to the sky, where the dark clouds loomed ominously and the low-angled glow of light hinted at wide-open spaces just out of reach above me. I gazed up at the walls resentfully. Why couldn't I just climb up one of the walls and then take a shortcut across the top? But that was forbidden. I had to stay on my own path. I lowered my head again and kept walking. Wait, what the fuck? I was Rinn Akatura. Since when did I ever not do something because it was forbidden? Struggling to hold on to my own thoughts, I manifested a ladder and set it against the wall.
+Despite the rigid walls everywhere, there was no ceiling. Every room and corridor was open to the sky. Dark clouds loomed ominously above. A low-angled glow of light hinted at wide-open spaces just out of reach. From time to time, I glanced up at the walls resentfully. Why couldn't I just climb up one of the walls and then take a shortcut across the top? But that was forbidden. I had to stay on my own path. I lowered my head again and kept walking. Wait, what the fuck? I was supposed to be Rinn Akatura. Since when did I ever not do something because it was forbidden? Struggling to hold on to my own thoughts, I manifested a ladder and set it against the wall.
 
 I took one step up the ladder, then another. Why was I climbing this way? It wouldn't work anyway. No, it was trying to make me forget! Stubbornly, I held on and kept climbing. Each step was harder than the last. Gravity weighed me down. I felt like my arms and legs were made of lead. With an earth-shattering effort, I forced my head almost up to the top of the wall. Just one more step, and I'd be able to see over the edge.
 
 Terrible gravity slammed me down, breaking my ladder to splinters and crushing my body against the marble floor. I was face down, my jaw twisted to the side and my bones grinding against the rock, defying all my efforts to lift them. And moments after the pain began, my stomach churned with the horrible realization of how badly I had failed. A wave of guilt and anxiety threatened to drown me. I had done wrong, wrong, WRONG. And now I was being punished. I could not hide from the Stern.
 
-Slowly, the gravity let me rise again. I dragged my leaden body to its feet, badly shaken. Could the Stern God just <em>do</em> that to me? When I thought of trying to climb the wall again, I shuddered and shied away.
+[????? Draw that out a little more]
 
-Defeated, I walked and walked. There were no forks in the corridor, only a long, straight hallway. After a while, it ended in another door, also flanked by the same grim statues. As I stumbled towards them, my body was burdened down with an overpowering demand to go down on my knees. I sank to the floor, crawling on hands and knees between the statues.
+Slowly, the gravity let me rise again. I dragged my leaden body to its feet, badly shaken. Could the Stern God just <em>do</em> that to me? I looked up at the wall where I had just fallen. At the thought of trying to climb again, I shuddered and shied away.
 
-I found myself crawling along between two rows of statues, as if I was being forced to humiliate myself in front of a crowd. I didn't even want to look up at them. I just kept my eyes to the floor and crawled along without thinking about it.
+Defeated, I walked and walked. There were no forks in the corridor, only a long, straight hallway. After a while, it ended in another door, also flanked by the same grim statues. So far to walk, for so much the same. I stumbled towards them. As I came before them, my body was burdened down with an overpowering demand to go down on my knees. I sank to the floor. The statues approved. They allowed me to pass them, crawling on hands and knees.
+
+Two rows of statues stood over me as I crawled, as if I was being forced to humiliate myself in front of a crowd. I didn't even want to look up at them. I just kept my eyes to the floor and crawled along without thinking about it.
+
+[????? Tweak diction of the next two paragraphs]
 
 The first time one of them poked me, I almost didn't notice. My mind was too dulled to react to it. But as I went on, the statues sometimes poked me with their feet, or the handles of their spears. It wasn't hard enough to be painful, but the more it happened, the more I built up a grinding irritation, a dull rage that they would treat me so degradingly. But I didn't do anything. A slow lethargy was draped over me, silencing my urge to fight back. I just kept crawling.
 
@@ -127,19 +135,19 @@ With a tremendous effort, I hauled myself up to my hands and knees again.
 
 <bigbreak>
 
-By the time I reached the first intersection, I had already fallen to pieces. Not physically, of course. ?????. I had been made to stand stiff and still for hours at a time waiting to be let through. I had been made to wash dirty cloth by hand and hang it up to dry, then do it all over again because I'd missed a spot. I had been made to repeat long ?????s, saying that I was unimportant, that I would do what was asked of me, that I [????? couldn't get everything I wanted out of life, I'd have to sacrifice some of it]. And every time I got impatient and said anything [????? that wasn't prescribed], or even just yanked out the damp cloth with irritation, they made me redo the process all the way from the beginning.
+By the time I reached the first intersection, I had already fallen to pieces. Not physically. But as good as physically. I had been made to stand stiff and still for hours at a time waiting to be let through. I had been made to wash dirty cloth by hand and hang it up to dry, then do it all over again because I'd missed a spot. I had been made to repeat long ?????s, saying that I was unimportant, that I would do what was asked of me, that I would accept it when life did not give me everything I wanted. And every time I got impatient and said anything beyond what was prescribed – or even when I just yanked out the damp cloth with irritation – they made me redo the process all the way from the beginning.
 
-But eventually, I was through. My body stood straight-backed at the intersection, carrying the tatters of myself that I had dragged through the grind.
+I don't know how I ever made it through. It just happened. My body stood straight-backed at the intersection, carrying the tatters of myself that I had dragged through the grind.
 
 At the intersection, there was a pedestal with a map. Not a cool, magic map like the one from the Endless Maze. Just a diagram with bold straight lines defining the routes each Raveller must take, each marked with the symbol of their god. It seemed that I was standing on an intersection between the Blood Child's Path and the Alchemist's Path. Each path wove back and forth along the grid, crossing over the others. The four paths eventually met at the center, probably the location of the portal into the next layer. Hmph. You'd get there much faster if you just zigzagged straight towards the center, switching between the paths, rather than following your own path the whole way back and forth across the whole grid.
 
-Wait. <em>Four</em> paths?
+Wait. <em>Four</em> paths…?
 
 Justicar was missing. Ugh, this was the Stern God's world, so it would probably let her do whatever she wanted. <em>Wrong.</em> The Justicar was required to walk along <em>every</em> path.
 
 Whatever. That didn't matter. What was I supposed to do again? Right, if I wanted to meet up with her, I should be looking at the <em>Farseer's</em> Path. The closest way to cross over to it would be to take the Alchemist's Path from where I was standing, then the Imminent's Path from the next intersection. Unless the Farseer was making slower progress than I was, which would mean I should… never mind. Thinking was too much work. I just turned and walked towards the entrance to the Alchemist's Path.
 
-Naturally, there was a row of statues blocking it. They didn't quite seem like the vigilant guardians I'd been seeing on the Blood Child's Path. They were standing around irregularly, not looking in my direction. And there were lots more of them, densely packed, like a crowd of people just jammed into a narrow space.
+Naturally, there was a row of statues blocking it. They didn't quite seem like the vigilant guardians I'd been seeing on the Blood Child's Path. They were standing around in a disorderly pattern, not looking in my direction. And there were lots more of them, densely packed, like a crowd of people just jammed into a narrow space.
 
 I stared at the statues, wondering how to approach them. I could feel the Stern God watching me with contempt. It had made sure I knew it was wrong to take a different Raveller's path. But it was going to <em>allow</em> me to do this, and let the mark of my wrongdoing hang over me.
 
@@ -159,7 +167,7 @@ I began trudging down the Alchemist's Path. Every time I came to more statues, I
 
 Another eternity passed. The routine of the Alchemist's Path became so ingrained I barely noticed what I was doing. So I was more than halfway across the next intersection before I realized I wasn't just in the regular corridor anymore.
 
-I checked the map at the intersection. If I wanted to meet up with the Farseer, I should start <em>ahead</em> of the Farseer on the Farseer's Path, then head back along it until I met them. From here, the quickest way to part of the Farseer's Path was along the Imminent's Path from the intersection where I was standing.
+I checked the map at the intersection. [????? Reduce repetition of earlier] If I wanted to meet up with the Farseer, I should start <em>ahead</em> of the Farseer on the Farseer's Path, then head back along it until I met them. From here, the quickest way to part of the Farseer's Path was along the Imminent's Path from the intersection where I was standing.
 
 I didn't see any statues on the Imminent's Path. It was just one long, blank, white marble corridor. So I started walking down it without thinking twice. The moment I stepped on it, I heard a tapping sound behind me. I looked around, but I didn't see anything there. So I kept walking. A few more steps along the path, I felt something brush the back of my neck. I whirled around, but again, there wasn't anything there.
 
