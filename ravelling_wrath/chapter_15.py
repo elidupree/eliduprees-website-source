@@ -26,9 +26,9 @@ First, the Great God made earth and sky, sea and stone. It shaped the arch of th
 
 Then it rested, and left to the other gods to play among its creations. The Stern God divided land from sea, mountain from valley. The Waiting God created the cycles of the tides, the rain, and the lumbering motions of the earth below. The Seeking God whipped up storms to tear at the land and wash it away to wherever it would go. The Blood God carved great ravines to make its mark upon the world. 
 
-But the Great God was not done. It rose from its rest to create <em>life</em>. Trees drilled their roots into the soil, holding fast against the storm. [????? more details of more life]
+But the Great God was not done. It rose from its rest to create <em>life</em>. Trees drilled their roots into the soil, holding fast against the storm. Algae bloomed and floated in the many waters. Crickets filled the air with their song, while birds cried out in the air above. [????? more details of more life]
 
-The other gods loved these new beings. The Waiting God taught spiders to build great webs and beavers to block up the rivers for their own advantage. The Seeking God entered [????? less of a stereotype?: dolphins and cats], making them play for the sake of playing, and it made the forests burn one year and thrive the next. The Stern God set out how the animals would mark their territory against each other. And the Blood God reveled in their raw passions, the thrill and flow of the hunt, the agony of their death throes, love and grief and desire.
+The other gods loved these new beings. The Waiting God taught spiders to build great webs and beavers to block up the rivers for their own advantage. The Seeking God entered [????? less of a stereotype?: dolphins and cats], making them play for the sake of playing, and it made the forests burn one year and thrive the next. The Stern God set out how the animals would mark their territory against each other. [????? And organized ants/bees?] And the Blood God reveled in their raw passions, the thrill and flow of the hunt, the agony of their death throes, love and grief and desire.
 
 But the Great God was not done. It rose from its rest to create <em>humanity</em>.
 
@@ -291,7 +291,7 @@ We sat in silence for a while. ?????
 
 "Well maybe he SHOULD be killed!" Yali snapped back.
 
-"No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, then I'd understand that. But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but I didn't really want to say that in front of Alchemist. I swallowed. Then something else exploded into my head again. Holy shit, how did I not think about Justicar?! I almost jumped back up to my feet again, every part of me tensing up. "Wait, <em>where's Justicar right now?!!</em> Is she coming for us?!"
+"No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, that would totally suck, but at least I'd <em>understand</em> it. But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but I didn't really want to say that in front of Alchemist. I swallowed. Then something else exploded into my head again. Holy shit, how did I not think about Justicar?! I almost jumped back up to my feet again, every part of me tensing up. "Wait, <em>where's Justicar right now?!!</em> Is she coming for us?!"
 
 "She went on ahead."
 

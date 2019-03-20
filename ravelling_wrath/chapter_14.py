@@ -374,7 +374,7 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 <bigbreak>
 
-We met up with Morrow and Alchemist ?????. They both rushed to take a look at me. Yali stood in the way and shouted at Morrow to stay back.
+We met up with Morrow and Alchemist at another intersection, right where we'd planned. They both rushed to take a look at me. Yali stood in the way and shouted at Morrow to stay back.
 
 Then she and Alchemist examined me together. Alchemist cried while they were doing it. For me, it was more tedious than anything. I just had to sit still while they talked some technical soul stuff I didn't understand.
 
@@ -416,7 +416,7 @@ She gave me a tired look. I couldn't tell what it meant. Dully, she explained. "
 
 "Oh."
 
-[????? She got more agitated] "If only it wasn't happening <em>now</em>, when it matters for your life and death! You'll be defenseless when you get to the next world! And I don't even have a Severing Step to get me there if the worst happens and –"
+Moments later, she was alert again, with an edge of agitation. "If only it wasn't happening <em>now</em>, when it matters for your life and death! You'll be defenseless when you get to the next world! And I don't even have a Severing Step to get me there if the worst happens and –"
 
 Alchemist made a little noise.
 
@@ -480,7 +480,7 @@ The ocean crashed over me. A black ocean, heavy and infinite, tossed and dropped
 
 I was naked in the biting storm. The world lashed my skin with lines of pain, but I felt no need to strain against it. Every muscle felt its tension drain away, a deep relaxation like sinking into the softest mattress [????? and also peeing? How to make this sound grand?]. I was carried away on a tide of warm and cold. My throat was blocked, yet my chest was full of more breath than my lungs could bear.
 
-?????, like a deep scratch that rubbed over every pore of my skin and drilled down into my very bones. ?????. I was long past telling whether it was a scratch of comfort or of pain. It filled me up, like the roar of water filled my ears. This scratch was everything, everything I could feel or be. Tears poured from me, wrenching at my few remaining scraps of emotion and then draining them into the infinite sea. I was full and empty, awash with agony and bliss. I was everything and nothing. I was the clouds and the desert sand.
+And then another thing began. A scratching sensation spread throughout me, a deep scratch that dug under every pore of my skin and drilled down into my very bones. A rough massage in the inside of every muscle and tendon. I was long past telling whether it was a scratch of comfort or of pain. It filled me up, like the roar of water filled my ears. This scratch was everything, everything I could feel or be. Tears poured from me, wrenching at my few remaining scraps of emotion, draining them into the infinite sea. I was full and empty, awash with agony and bliss. I was everything and nothing. I was the clouds and the desert sand.
 
 [????? Final line?]
 

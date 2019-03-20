@@ -201,7 +201,7 @@ A few steps away from Yali, Alchemist clung on to me. [????? More physical detai
 
 "He's stuck," Yali clarified, still with her back to me. "He can't make it down the Imminent's Path. I've agreed to help Alchemist help him."
 
-I half-snorted. "Could've seen <em>that</em> coming…"
+I half-snorted. "Could've seen <em>that</em> coming."
 
 "But you…" Alchemist leaned their face close in front of mine, their sad eyes looming large in my vision. "You'll be all alone…"
 
@@ -274,7 +274,7 @@ As I slumped against the statues, my mind blurring out, a little more of their d
 
 The statues pulled aside, letting me stumble through.
 
-My lie weighed heavily in my chest. It wasn't just against the Stern God's rules – it was also a betrayal of myself. No part of me could accept the Stern God's message. I WAS important! I would NEVER accept someone trying to wipe my heart away! I would KILL and KILL – and that made me HORRIBLE and – but I HAD to – it was the size of the WORLD –
+My lie weighed heavily in my chest. It wasn't just against the Stern God's rules. It was a betrayal of myself as well. No part of me could accept the Stern God's message. I WAS important! I would NEVER accept someone trying to wipe my heart away! I would KILL and KILL – and that made me HORRIBLE and – but I HAD to – it was the size of the WORLD –
 
 But every time I reached out to the extremes, the next set of statues was there to force me back. They interrupted my thoughts, forcing me to say that I was only <em>somewhat</em> flawed, that my struggles were only a small <em>part</em> of the world. In my head, I denied it. But [????? it somehow got into my head]. ?????
 
@@ -296,7 +296,7 @@ Justicar.
 
 Her voice came cutting through the fog in my head. "Is it true that you struck the Farseer with your blades?"
 
-She was standing [????? a few meters away, facing me like a challenger; maybe more than one sentence]. [????? I hesitated to speak]. My voice came out thin and raspy. "I didn't want to," I said.
+She was standing just a few paces away. She faced me like a challenger, coldly awaiting my response. Seconds ticked away as I tried to make myself speak. My voice came out thin and raspy. "I didn't want to," I said.
 
 ?????
 
