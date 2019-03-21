@@ -120,13 +120,17 @@ Suddenly we had to do a lot of research. Yali opened the local encyclopedia on h
 
 Yali chuckled. "Don't worry about it."
 
-Not that I was much use. I looked up a bunch of plants, but I didn't find anything about extracting oil. Then I found an article about a giant, enchanted plant that ate people. That kept me distracted for a while.
+Not that I was much use. I looked up a bunch of plants, but I didn't find anything about extracting oil. Then I found an article about a giant, enchanted plant that ate people. That kept me distracted for a while. ?????
 
+Eventually, Yali found what she was looking for. Of course, the plants we needed didn't seem to be growing anywhere around here. But after a long discussion, Yali and Alchemist agreed that they could use Alchemist's powers to <em>grow</em> the plants they needed. Regular manifesting wouldn't work, but the Broken God could cheat plants out of nowhere. Even then, it was too similar to manifested matter, but if they just started with seedlings and let them grow the rest of the way from the soil, most of the matter would be from the soil, so it would work.
 
+So that's what they did. Alchemist wiggled their fingers into the dirt, coaxing little stems out from the ground. Then they cupped their hands around the new sprouts. Before long, the plants were going absurdly fast, stems and leaves shooting up to be almost as tall as we were, and the ground shifting subtly up and down as the roots spread into the surrounding earth.
 
-?????
+Meanwhile, I set to work trying to make a bottle, because the container couldn't be made of manifested matter either. First I tried to make a clay bottle. But shaping the clay into a bottle was a huge pain. <em>Layo</em> could've probably done it, but all I got was a lopsided bowl. Just to see what would happen, I tried to fire the bowl by manifesting it to be really hot, but it just cracked into pieces. So I gave up and tried to make a bottle out of wood instead. I cut down a tree and hollowed out a chunk of it with my Blood Blades. The first few times I tried, I accidentally put holes through it, but eventually I got the hang of it. And the Blood Blades were razor-sharp when I needed them to be, so it worked out fairly easily. Pretty soon, I had a whole row of asymmetric wooden jars and bottles in front of me.
 
-Alchemist and Yali got to work hunting the brambles for berries that were just the right ripeness. They weren't paying much attention to me. So I idly picked a few of the berries and ate them.
+While I was doing that, Yali and Alchemist harvested the seeds from their big plants. Once we had the seeds, then we had to press them. Yali found some diagrams of a big metal press for extracting the oil. Of course, we had to build it piece by piece based on the pictures, because none of us had imprinted anything like that. We didn't do a great job of it, and we ended up with bits of seeds mixed into the oil. But it was good enough.
+
+Next up was the ingredient that was "receptive to magic". Once again, Yali looked up a plant with the right magical properties, and Alchemist grew it. This time, it was a sprawling bramble bush, with little, dark reddish berries speckled between its thorns. Alchemist and Yali got to work hunting the brambles for berries that were just the right ripeness. They weren't paying much attention to me. So I idly picked a few of the berries and ate them.
 
 Flavor exploded in my mouth, stabbing wildly down along my jaw and up behind my nostrils. They were the absolute WORST thing I had EVER tasted. I immediately reached for some more.
 
@@ -140,7 +144,11 @@ Yali chuckled. "As long as you only eat a few, your natural manifesting will kee
 
 ?????
 
-"You'll have to take it from here. I can't See anything after you start making the potion."
+<bigbreak>
+
+Finally, we had everything assembled.
+
+"You'll have to take it from here," said Yali to Alchemist. "I can't See anything after you start making the potion."
 
 Alchemist nodded and closed their mouth. Then they closed their eyes, too. They set the flask on the ground in front of them. After a short pause, they dipped one hand into the mixture, then the other hand. With oily clay coating their hands, they reached into the air, their fingers curling like someone playing a harp.
 
@@ -164,7 +172,15 @@ In moments, Yali had pinned me with my back to a tree. She leaned in and kissed 
 
 "You sure know how to distract me," I laughed, thrills running through me as she planted a series of kisses along my neck and up the side of my face.
 
-?????
+[????? Rinn really getting into it, but somewhat brief]
+
+At some point, I noticed that I didn't feel like the world was being torn apart anymore. And that Alchemist was looking at us.
+
+I peeled myself off of Yali, laughing and straightening my shirt. "Oh, hey there, Alchemist, haha, how did it go?"
+
+Alchemist hesitated, then waved for us to come look. They led us to
+
+????? [????? we all looked at it]
 
 "The Seeing is working again. That's good…" She looked into the future for a while. "I can See up until when Morrow drinks the potion, then it's all blank again."
 
