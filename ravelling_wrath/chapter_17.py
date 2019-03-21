@@ -150,7 +150,7 @@ Finally, we had everything assembled.
 
 "You'll have to take it from here," said Yali to Alchemist. "I can't See anything after you start making the potion."
 
-Alchemist nodded and closed their mouth. Then they closed their eyes, too. They set the flask on the ground in front of them. After a short pause, they dipped one hand into the mixture, then the other hand. With oily clay coating their hands, they reached into the air, their fingers curling like someone playing a harp.
+Alchemist nodded and closed their mouth. Then they closed their eyes, too. They set one of my wooden jars on the ground in front of them. After a short pause, they dipped one hand into the mixture, then the other hand. With oily clay coating their hands, they reached into the air, their fingers curling like someone playing a harp.
 
 The haze stabbed into my head and heart. Lines of force flickered in the air, spreading out like lightning in slow motion, as if Alchemist was prying open fractures in the universe itself. It was almost painful to look at, but I couldn't look away. The feeling was way beyond the normal buzz of sorcery. Every time the lines flickered, it sent a jarring feeling through me, like it was trying to shake me to pieces. And in between, there was a terrible sense of unease, a doubt that anything I believed had ever been real.
 
@@ -170,21 +170,21 @@ Even when I looked away, the cracks in the universe were still sizzling in the b
 
 In moments, Yali had pinned me with my back to a tree. She leaned in and kissed me on the mouth. "I'm distracting you," she said.
 
-"You sure know how to distract me," I laughed, thrills running through me as she planted a series of kisses along my neck and up the side of my face.
-
-[????? Rinn really getting into it, but somewhat brief]
+"You sure know how to distract me," I laughed, thrills running through me as she planted a series of kisses starting at my ear and moving up the side of my face. I pulled closer to her, grabbing fistfuls of her sweater and diving into clamped my lips onto hers. We pushed back and forth, squishing our bodies onto each other, barely remembering to come up for air.
 
 At some point, I noticed that I didn't feel like the world was being torn apart anymore. And that Alchemist was looking at us.
 
 I peeled myself off of Yali, laughing and straightening my shirt. "Oh, hey there, Alchemist, haha, how did it go?"
 
-Alchemist hesitated, then waved for us to come look. They led us to
+Alchemist hesitated, then waved for us to come look. They led us to where they'd been working. The wooden jar sat alone on a mat on the ground, not looking like much. Its lid was closed tight, and I couldn't feel anything from it.
 
-????? [????? we all looked at it]
+Yali took one look at it. "So it worked? It's stable?"
+
+Alchemist hesitated again, then nodded.
 
 "The Seeing is working again. That's good…" She looked into the future for a while. "I can See up until when Morrow drinks the potion, then it's all blank again."
 
-"Why?"
+"Why?" I asked.
 
 "The unravelling potion is supposed to be impossible. It breaks all the rules of the Ravelling. So it's no surprise the Waiting God can't see past it. But that doesn't make things any easier for me…" She sighed. "I guess we should be concerned what'll happen to Morrow after he drinks it. If the Seeking God is all that's keeping him going, then when it's taken away from him… He might pass out, his injuries might be more dangerous to him…"
 
@@ -198,19 +198,33 @@ Alchemist hesitated, then waved for us to come look. They led us to
 
 "You have a hard time convincing him to drink even one potion!" said Yali.
 
-?????
+We launched into yet another argument about what to do. Right when I was in the middle of arguing, Alchemist sprayed me in the face with a spray bottle of water. I was completely flabbergasted.
 
-"Should there be this much blood? I mean, there's not, like, lakes of it, but we've been following him for a while, so it adds up –"
+"Oh… I didn't, mean to, hit you…"
+
+????? "Wait, are you thinking, a spray-on healing potion?" I said. "Wait, can we spray on the unravelling potion?!"
+
+"No, that one needs to be completely absorbed," said Yali. "But a healing potion might, might, be able to be more, more superficial."
+
+<bigbreak>
+
+So there we were, trekking through the wilderness to track down Morrow, equipped with spray bottles full of healing potions and the jar with the unravelling potion.
+
+It wasn't hard to follow him. Even a <em>normal</em> person could have spotted all the manifested junk he left behind him. And to Yali, it was even more obvious. We followed him through the woods, the terrain getting rougher and rougher. The further we went, the more downhill it got. Before long, we started having to detour sideways so we didn't end up sliding down the steep, muddy, rocky slopes.
+
+From the look of things, <em>Morrow</em> had slid straight down them.
+
+I squinted across at a short smear of blood on the rocks. "Should there be this much blood?" I said. "I mean, there's not, like, lakes of it, but we've been following him for a while, so it adds up –"
 
 "It's manifesting. His wounds aren't healing because I did them with hostile intent and damaged his soul. But he unconsciously manifests more blood to replace what is lost."
 
 "Oh gods, what if he loses all his original blood and then he gets back to Earth and –"
 
-"That's what the healing potion is for," said Yali tiredly.
+"That's what the healing potion is for," said Yali bluntly.
 
 "Right…"
 
-We came to a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Yali stopped walking and squinted. "Do you feel it, too?" she said.
+We descended to the mouth of a ravine, guarded by a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Yali stopped walking and squinted. "Do you feel it, too?" she said.
 
 I stopped alongside her. When I paid attention, I could feel something sloshing at the edges of my mind. "Yeah. I do."
 
@@ -220,7 +234,7 @@ I stopped alongside her. When I paid attention, I could feel something sloshing 
 
 "You've got this."
 
-I laughed. "That's pretty reassuring, coming from someone who can literally see the future."
+I laughed. It came out louder than I expected. "That's pretty reassuring, coming from someone who can literally see the future."
 
 "Don't get careless."
 
@@ -232,7 +246,7 @@ I laughed. "That's pretty reassuring, coming from someone who can literally see 
 
 "Yeah. You ready?"
 
-"Alright, let's do this thing." I threw my head back and howled into the air, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow from every part of my skin. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
+"Alright, let's do this thing." I threw my head back and howled into the air, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow from every part of my [????? skin? No, because it comes from the interior]. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
 
 As I got closer, the forest swam around me. It felt like the world was unstable, trying to make me forget which way was up and down. But from inside my soulfire, it didn't seem so threatening. I was a transcendent pillar of flame. I knew exactly where <em>I</em> was. It was just the rest of the world that was having trouble.
 

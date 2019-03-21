@@ -464,9 +464,21 @@ Morrow looked up at me with a little smirk. "This is the only room we've got!!" 
 
 [???? cut this: "Also, why would you even know that??" I said. "Wait, never mind, you probably just looked it up because you were curious. Duh."]
 
-?????
+[????? On the subject of having sex in the Otherworld] "Maybe,… not <em>here</em>? Maybe, somewhere else in the Otherworld?"
+
+I grinned and gave them a thumbs-up. "You go get it!"
+
+Alchemist didn't react for a moment. Then they cringed and sort of curled up on themself. "Oh… I said that out loud…"
+
+"No, it's okay! It's cool!" [????? Rinn slightly panicked]
+
+"Oh…" They were still cringing. ?????
+
+And that's when Justicar walked in through the wall.
 
 "There you are," she said to Alchemist. Her eyes quickly scanned the room around us. "I hope I'm not interrupting anything."
+
+"Haha, don't worry, you didn't make things any <em>more</em> awkward," I said.
 
 ?????
 
