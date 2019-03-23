@@ -59,7 +59,7 @@ I gripped her shoulders. "Then it's NOT going to happen! Didn't you always say t
 
 "Look, it's not your fault, there's no way you could have known she was going to AFTER EVERYTHING WE'VE BEEN THROUGH, YOU SOLD ME OUT TO THE STERN <strong>AGAIN?!?!!</strong>"
 
-For a moment, I was stunned. A whole second voice had ripped out of me. And a new feeling thundered inside me, saying that this was the <em>truth</em> roaring up through my lungs, that I was done with trying to sugarcoat what was glaring in all our faces. And in the next instant, I was gripped by the cold certainty that those thoughts had not been mine. I pushed myself away from Yali in terror. "No no no, not now, I can't let the Blood God take over –"
+For a moment, I was stunned. [????? Fix initial ambiguity:] A whole second voice had ripped out of me. And a new feeling thundered inside me, saying that this was the <em>truth</em> roaring up through my lungs, that I was done with trying to sugarcoat what was glaring in all our faces. And in the next instant, I was gripped by the cold certainty that those thoughts had not been mine. I pushed myself away from Yali in terror. "No no no, not now, I can't let the Blood God take over –"
 
 Yali's eyes were wide. "When… when did I sell you out to the Stern the <em>first</em> time?"
 
@@ -97,7 +97,7 @@ The answer blazed in my mind with perfect clarity. I struggled to find the words
 
 "So the Waiting God is trying to erase you? And you kill the Farseer to stop it from happening?"
 
-All at once, a wave of hopelessness washed through me, completely turning around my pride and rage. "To <em>stop</em> you?" I said hollowly. The feelings dropped me to the ground and ushered in another torrent of rain, a torrent that flattened my clothes against my back and pounded through them onto my skin. The blood from my wounds pooled and seeped into the soil. "To <em>stop</em> you?" I moaned into the dirt. "I will kill you and kill you and kill you, and when I am gone, you will still be strong. My hands are empty, and I am beating against the mountain. You call <em>me</em> the danger?"
+All at once, a wave of hopelessness washed through me, completely turning around my pride and rage. "To <em>stop</em> you?" I said hollowly. The feelings dropped me to the ground, sprawling with my face in the dirt, and ushered in another torrent of rain, a torrent that flattened my clothes against my back and pounded through them onto my skin. The blood from my wounds pooled and seeped into the soil. "To <em>stop</em> you?" I moaned into the dirt. "I will kill you and kill you and kill you, and when I am gone, you will still be strong. My hands are empty, and I am beating against the mountain. You call <em>me</em> the danger?"
 
 ?????
 
@@ -127,15 +127,17 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I – I – I –"
 
-"I know what you're thinking. How are we going to kill the Farseer without hurting Yali? But that doesn't seem so hard, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the back. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been a ?????adjective wall inside me, and it was melting down even as we talked. I shook both of my fists in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, and unquenchable fire of strength, of sureness, of love.
+"I know what you're thinking. How are we going to kill the Farseer without hurting Yali? But that doesn't seem so hard, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the back. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook both of my fists in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, and unquenchable fire of strength, of sureness, of love.
 
 ????? more fire stuff; Yali is awed
 
 No wall can hold me. No truth can hide from me. No force can break me for as long as my blood still flows."
 
-"That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it forever.
+Hearing those words, a thrill rose through me. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it forever.
 
 "Yes. The Blood God's prayer. You… I wish you could see yourself. It's beautiful."
+
+I smiled ?????confidently. "I wish you could <em>be</em> me."
 
 ?????
 <bigbreak>
@@ -184,7 +186,7 @@ Yali was silent for a time. "?????
 
 "[????? Was that you or the Blood God?]"
 
-"What? Look, <em>I, Rinn</em> think we need to help the Blood God! You don't know how much pain it's in! Ugh, I can't believe I spent all that time telling it to shut up when it was afraid it was going to be killed!!"
+"What? Look, <em>I, Rinn,</em> think we need to help the Blood God! You don't know how much pain it's in! Ugh, I can't believe I spent all that time telling it to shut up when it was afraid it was going to be killed!!"
 
 ?????
 
@@ -212,13 +214,13 @@ Yali was silent for a time. "?????
 
 ?????
 
-"So, this 18 months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
+"So, this eighteen months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
 
 "It's okay. Go on."
 
 "Or, like, what about those things where someone comes out about how some scumbag sexually assaulted them years ago? Is it like 'sorry, it was 18 months ago, it doesn't count anymore'?"
 
-"Ah… well, technically, it's not 18 months from the date of the <em>crime</em>. It's 18 months from your awakening of blood."
+"Ah… well, technically, it's not eighteen months from the date of the <em>crime</em>. It's eighteen months from your awakening of blood."
 
 "Your what?"
 
@@ -232,7 +234,21 @@ Yali was silent for a time. "?????
 
 "Are you sure? When the Seeing lied to you before?"
 
-"It did not… <em>lie</em>. I will be careful, but I don't believe [????? the Waiting God will mess things up all over the place]"
+"It did not… <em>lie</em>. The Waiting God is, is, is… it doesn't lie if it can help it. It's not like 'you must never lie' like the Stern or 'only the truth will fulfill you' like Blood, but it's still… the truth is the <em>foundation</em> of the Waiting. You know, like, 'You must tell the truth a thousand times before you will be capable of telling one lie.' So… I will be careful, but there are still ways I can make use of the Seeing. Just as long as I know I can't trust it completely."
+
+"That's pretty twisted," I said.
+
+Yali looked dismayed.
+
+"No, it's cool. It's just so twisted. Now that we know the Waiting God is the enemy, I was assuming we'd be like, 'fuck everything Waiting'. But now you're talking about using the Waiting God's own power against it. And that's… badass, but… it's still the enemy's power! You can't make it <em>yours</em>, you can't make it <em>good</em> –"
+
+"I'm not trying to. At this point, I'm trying to, to, to take advantage of it."
+
+"Well, I hope it doesn't come back to bite you."
+
+"I hope so too," said Yali. Then she corrected herself. "No. I don't <em>hope</em> anything. I will <em>make sure</em> it doesn't come back to bite me."
+
+
 
 ?????
 
