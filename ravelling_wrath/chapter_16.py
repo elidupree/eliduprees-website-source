@@ -158,15 +158,29 @@ Eventually, with effort, we managed to get some information out of it. A lot of 
 
 And there was a number. Four. The number of years when the Blood God had ?????
 
+"[????? I gave you chances!]" I roared. I was the Blood God again. This time I knew the "you" wasn't really Yali, but it still felt like the thing to say. [????? Include a time the Farseer died in the same year as killing the blood child intentionally in this:] "You killed me, and I still gave you another chance! Because you were my – my <em>family</em>! The first time, I thought it wasn't your fault! The second time, I thought it could have been a mistake! When you killed me the third time, I knew something was wrong! I was in pain, I was afraid, but I still stayed my hand! I didn't want to throw away the trust I thought we had together! And for my trust, I saw the life choked out of me! The fourth time… I still did not fight back, because…" My voice broke. "I didn't know what to do. You were… strong, you were my…" Hot tears poured down my face. My thoughts cracked. Another memory had awoken, Rinn's memory of this year's Justicar standing over her. The helplessness… the inevitability of my death… I clung to Yali's shoulder. "Yali… help me… I'm scared…"
+
+Yali held me, but she was distant. "[You said ?????. That means I died that year. I should have the memories! We can figure out more of what happened!]"
+
+[????? Yali hunted in the memories for a while. She frowned more and more]
+
+Yali's voice broke the silence, [????? grim/horrified]. "It's not there," she said.
+
+"What?"
+
+"The year you're talking about. The ?????first year the Blood Child killed the Farseer. I don't remember anything from it. I have the year after, and two years after that. [????? I've analyzed it based on memories of what year it was, and political/news events.] I know what year every one of my memories is, now. And the ?????first and ?????third years are missing."
+
+"That's…"
+
 "I should have checked!" yelled Yali. "I had these memories as soon as I knew I was the Farseer! Seventy years of dead Farseers, seventy sets of memories… <em>but there were never seventy sets of memories in me!</em> If only I had checked that there were actually seventy separate individuals in there!"
 
 "Who in the Endless would think of checking something like that?? There's no way you can have known about any of thi–"
 
-"No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge! The god of holding a grudge – <em>is the Waiting God</em>."
+"No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge! It would never have kept this going for so long! The god of holding a grudge – <em>is the Waiting God</em>."
 
 "Wait, really?"
 
-"Really. The Waiting God is the one that cares about the distant past and future. But the Blood God… I've learned a bit about the laws of the old Blood Temple, and they actually explicitly allowed revenge, but only if you did it soon enough. For common assault, you were allowed to get revenge if it was within a few days, but not after that. If they seriously injured you, it was a lot longer, but there was still a limit. Even for murder. If someone murdered a member of your family, you had eighteen months to get revenge. Not a day longer. And everything else was less."
+"Really. The Waiting God is the one that cares about the distant past and future. But the Blood God… I've learned a bit about the laws of the old Blood Temple, and they actually explicitly allowed revenge, but only if you did it soon enough. For common assault, you were allowed to get revenge if it was within a few days, but not after that. If someone seriously injured you, it was a lot longer, but there was still a limit. Even for murder. If someone murdered a member of your family, you had eighteen months to get revenge. Not a day longer. And everything else was less."
 
 "Eighteen months… That's, less than two years…" ???? "Holy shit! Do you think that means –?"
 
@@ -178,7 +192,13 @@ And there was a number. Four. The number of years when the Blood God had ?????
 
 "It'll <em>have</em> to! Once it knows it's <em>lost</em>!"
 
-Yali was silent for a time. "?????
+Yali was silent for a time. "I don't know if it <em>can</em> lose."
+
+"I'm going to rejuvenate! It isn't! That's winning!"
+
+"Even if we succeed… even if that happens this year…"
+
+[????? Rinn desperate to have the Blood God win, because she's caught up in the realization; Yali wants to focus on this year and save Rinn]
 
 ?????
 
@@ -190,7 +210,7 @@ Yali was silent for a time. "?????
 
 ?????
 
-
+[????? Yali gets convinced, not quite by Rinn's argument but by her own pre-existing grudge against the Waiting, and decides to execute the plan from chapter 19, but says something ambiguous. Perhaps something like "you're seriously going to let the waiting win!?" | Yali seemed to fight with herself, then changed her tune]
 
 ?????
 
@@ -218,7 +238,7 @@ Yali was silent for a time. "?????
 
 "It's okay. Go on."
 
-"Or, like, what about those things where someone comes out about how some scumbag sexually assaulted them years ago? Is it like 'sorry, it was 18 months ago, it doesn't count anymore'?"
+"Or, like, what about those things where someone comes out about how some scumbag sexually assaulted them years ago? Is it like 'sorry, it was eighteen months ago, it doesn't count anymore'?"
 
 "Ah… well, technically, it's not eighteen months from the date of the <em>crime</em>. It's eighteen months from your awakening of blood."
 
