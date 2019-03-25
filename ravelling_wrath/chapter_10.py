@@ -46,7 +46,7 @@ So, as strange as it was, I ended up working with Justicar. We worked together t
 
 "Hey, move it back!" I yelled.
 
-Why had I ever tried to work with Morrow? We'd just opened up a way for him to go on ahead, and when he got there, the first wheel he turned took away my only path away from where I was standing. And now he was cheerfully ignoring me. I was stuck on this one tiny section of walkway, floating in empty space. And the worst part was, I <em>understood</em> this puzzle now. Justicar and I had figured out exactly how to tell which wheels moved which walkways in which directions. And Morrow was the <em>only</em> person in a position to free me. The only thing I could think of was to jump, but all the other walkways looked too far away to reach.
+Why had I ever tried to work with Morrow? [?????sentence too hard:] We'd just opened up a way for him to go on ahead, and when he got there, the first wheel he turned took away my only path away from where I was standing. And now he was cheerfully ignoring me. I was stuck on this one tiny section of walkway, floating in empty space. And the worst part was, I <em>understood</em> this puzzle now. Justicar and I had figured out exactly how to tell which wheels moved which walkways in which directions. And Morrow was the <em>only</em> person in a position to free me. The only thing I could think of was to jump, but all the other walkways looked too far away to reach.
 
 Then again, it couldn't hurt to try, could it? None of the puzzles here had <em>actually</em> hurt me, even when I did stupid stuff. So I just took a flying leap off the platform, fell into the bottomless void, and landed back at the beginning of the puzzle like usual.
 
@@ -473,7 +473,7 @@ Even now that I was sober, she was still way better at solving the puzzles than 
 
 ????? "I was a star student once again. [????? authority figures] praised my hard work and sense of duty. Hypocrites, all of them.
 
-proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect to the will of the Stern as I did.	I was asked to overlook bias and petty corruption. [????? Bias in favor of rich people] simply because they could create trouble for us. I asked them: Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us? ????? I was barely tolerated. My superiors [????? assigned me unwanted duties]. But the Stern teaches that even when we are hated, we must be true to our convictions. Every duty they assigned me, I carried out to the fullness of my ability.
+proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect the will of the Stern as I did.	I was asked to overlook bias and petty corruption. [????? Bias in favor of rich people] simply because they could create trouble for us. I asked them: Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us? ????? I was barely tolerated. My superiors [????? assigned me unwanted duties]. But the Stern teaches that even when we are hated, we must be true to our convictions. Every duty they assigned me, I carried out to the fullness of my ability.
 
 "But I was not oblivious to what happened around me. Most of what we did was lawful, but that is not enough. We cannot call ourselves a Stern Temple if we tolerate corruption within our midst. And I could not help but notice how conversations died when I entered the room. Things were being hidden from me. For a time, I ignored it to focus on my own duties. After all, we cannot control the choices of others, only our own. But when I began to notice a pattern of unexplained <em>bruises</em> appearing on our arrestees, I could ignore it no longer.
 
@@ -489,7 +489,7 @@ I snickered. "Haha, that's gotta sting. Imagine being a cop and getting arrested
 
 "Ice cold," I said, grinning.
 
-"The Stern Temple did not see things the same way. I was placed on leave before the day was out, and dismissed from the force less than two weeks later, with no opportunity to defend myself. I challenged my dismissal through what should have been an impartial process, but they shut me out in every way they could. Even my old mentors, at the temple where I had trained, refused to speak to me. I finally cornered the High Priest of the Stern Temple himself, [????? is it "of the Stern Temple" or "of the Stern God"?] but before I could even speak, he told me he was 'not interested in routine personnel issues'. I could easily see that it was a prepared response. The entire hierarchy of the Temple was complicit."
+[????? include: the poeple who were on my side but didn't stick up for me:] "The Stern Temple did not see things the same way. I was placed on leave before the day was out, and dismissed from the force less than two weeks later, with no opportunity to defend myself. I challenged my dismissal through what should have been an impartial process, but they shut me out in every way they could. Even my old mentors, at the temple where I had trained, refused to speak to me. I finally cornered the High Priest of the Stern Temple himself, [????? is it "of the Stern Temple" or "of the Stern God"?] but before I could even speak, he told me he was 'not interested in routine personnel issues'. I could easily see that it was a prepared response. The entire hierarchy of the Temple was complicit."
 
 "But now," she smiled grimly. "it seems that the god itself has vindicated me."
 
@@ -505,7 +505,7 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 "Please don't remind me."
 
-"I remember because Dehel kept reposting it from a meme page. He always reposted it with just a whole bunch of thinking face emoji. Haha, I think it was actually called <em>The Blood God's Dank Meme Stash –</em> man, that was so three years ago." I sensed that Justicar was trying not to listen. "Wait a minute, why don't you want to be reminded about this?! You were kickass!"
+"I remember because [????? my friend] Dehel kept reposting it from a meme page. He always reposted it with just a whole bunch of thinking face emoji. Haha, I think it [?????the meme page] was actually called <em>The Blood God's Dank Meme Stash –</em> man, that was so three years ago." I sensed that Justicar was trying not to listen. "Wait a minute, why don't you want to be reminded about this?! You were kickass!"
 
 "I gave in to my selfish resentment. It was not the appropriate way for me to air my grievances with the Stern Temple."
 
@@ -521,7 +521,7 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 ?????
 <bigbreak>
 
-We were in the elevator again, taking a brief rest as we got close to the end of a long chain of puzzles. How many days had we been at this now?
+We were in the elevator again [????? set this up], taking a brief rest as we got close to the end of a long chain of puzzles. How many days had we been at this now?
 
 Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>! Sure, it was pretty badass that she had tried to take down another cop, but the way she <em>talked</em> about it was just <em>infuriating</em>.
 
@@ -535,7 +535,7 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "We each do our own part in the system, and only our own part. If a conviction is unjust, that cannot be laid at the feet of officers who were only carrying out their duties."
 
-"Are you kidding me!! If I throw someone in a pit full of vipers, do you think I get to say, 'oh, it's not my fault, I'M not the one who put those vipers in that pit'!?! Or do you want to lay the blame where it fucking belongs?"
+"Are you kidding me!! [?????That's like,] If I throw someone in a pit full of vipers, do you think I get to say, 'oh, it's not my fault, I'M not the one who put those vipers in that pit'!?! Or do you want to lay the blame where it fucking belongs?"
 
 "But where would that lead? If officers cannot make arrests because of the <em>possibility</em> of an unjust conviction, how will the order of the city be preserved? I believe you may not have thought this through."
 
