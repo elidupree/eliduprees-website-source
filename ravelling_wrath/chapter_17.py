@@ -297,7 +297,11 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 ????? Both of us will sacrifice anything to achieve our goals. Both of us will destroy anyone we have to. The only difference is that Justicar will stop at the gods, and I will not."
 
-????? The Stern doesn't have to be about sacrificing what you care about just to be obedient to someone else. It can also be about sacrificing… unimportant things… to get what you truly want.
+????? "The Stern doesn't have to be about sacrificing what you care about just to be obedient to someone else. It can also be about sacrificing… unimportant things… to get what you truly want."
+
+"Unimportant things like ever being happy?!" I snapped.
+
+
 
 
 
@@ -337,7 +341,7 @@ Something <em>instantly</em> seemed off about him. His reaction was way slower t
 
 "But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even marked Justicar as "not my real enemy". <em>Justicar!</em>
 
-Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last 70 years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose." ????? "Besides… even if we did want to, we still shouldn't do it <em>yet</em>. Your soulfire is one of the only powers that can pierce Justicar's armor."
+Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last seventy years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose." ????? "Besides… even if we did want to, we still shouldn't do it <em>yet</em>. Your soulfire is one of the only powers that can pierce Justicar's armor."
 
 "I'll have to kill her…" I said. I swallowed. "?????!"
 
@@ -361,23 +365,47 @@ Yali shouted back, "Me thinking of things that hurt people is why you're still a
 
 "Yeah, but not like <em>this</em> –"
 
-"Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! I have <em>always</em> been the one who does what has to be done, when no one else will!"
+"Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! For my entire life, I have had to be the one who sees what has to be done, when everyone else can only see what's right in front of them! I have <em>always</em> been the one who does what has to be done, when no one else will!"
 
 I had wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking right under the surface… It was part of why I'd always loved her, why I couldn't get enough of her.
 
 And the worst part was, she wasn't wrong.
 
-"Well… fuck," I said. "
+"Well… fuck," I said. "I, uh, I didn't mean to [????? criticize you]. I mean, I guess I did, but, uh… fuck. I'm sorry. I'm just… Alchemist doesn't deserve this."
 
-?????
+Yali looked away. "We all trample over the Broken to get what we want." It was an old saying.
 
-"But, we don't have to force Alchemist to make a weapon this time. We have time. And I have my soulfire. I can do it. Waiting knows I'm the one who deserves to." I laughed hollowly. "I guess I shouldn't be using that saying anymore, should I…"
+"It shouldn't have to be that way," I said.
+
+Yali didn't answer. Instead, she looked out at the world around us. I followed her gaze. There was the [????? callback to some effect Morrow had on the world]. Further in the distance, I could still make out the black cloud, slowly dispersing, that had risen when the trees charred from my scream. ?????
+
+[????? Is alchemist the only one who didn't hurt anybody?]
+
+"Justicar stabbed me. Morrow did… that thing, to me and Alchemist. <em>I</em> stabbed <em>you</em>…"
+
+"And I beat up Morrow."
+
+"Right. But Alchemist… Alchemist didn't do anything."
+
+"There's still time…" muttered Yali.
+
+"What? Time for Alchemist to hurt somebody? That doesn't – wait… was that, like, a <em>joke</em>?"
+
+"I, I, I, think so? I don't know. I can't stand this world."
+
+[????? They sit(?) in silence for a while. Rinn follows the train of thought back to "alchemist making a weapon"]
+
+"So, uh… I get what you're saying. Sometimes you have to do things that… aren't good… because you have to. And it doesn't make it <em>right</em>, but… uh… ugh, you know what I mean. But <em>this</em> time, in <em>this</em> situation…" I swallowed. "We really don't have to force Alchemist to make a weapon again. We're not in a rush like that time. And I have my soulfire. I can do it. Waiting knows I'm the one who deserves to." I laughed hollowly. "I guess I shouldn't be saying 'Waiting knows' anymore, should I…"
 
 "It's okay. I understand."
 
 ?????
 
-[????? Is there anything else we need to discuss before we go to the next world]
+[?????regretfully?] "I wasn't going to do it. It was just… a possibility."
+
+?????
+
+[????? "Is there anything else we need to discuss before we go to the next world"]
 
 "We still haven't talked about… When I made you do the Controlling Game. When –"
 
