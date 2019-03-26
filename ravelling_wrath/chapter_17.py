@@ -283,7 +283,7 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 "Seriously, though, what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always '?????' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
 
-"<em>Forty-five minutes,</em>" said Yali angrily. "That's how long it took me, running as hard as I could, to get to you before Morrow did too much damage. I know because I checked my phone while I ran to make sure I was pacing myself the right amount. Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. Forty-five minutes of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. It doesn't matter what I believe now. I will hate the face of Morrow for as long as I live."
+[????? rephrase this to account for Yali knowing in advance] "<em>Forty-five minutes,</em>" said Yali angrily. "That's how long it took me, running as hard as I could, to get to you before Morrow did too much damage. I know because I checked my phone while I ran to make sure I was pacing myself the right amount. Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. Forty-five minutes of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. It doesn't matter what I believe now. I will hate the face of Morrow for as long as I live."
 
 "Woah, that's… I mean, shit."
 
@@ -301,9 +301,21 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 "Unimportant things like ever being happy?!" I snapped.
 
+"That's not what I meant!" Yali snapped back. "Being happy is very important to me! I will definitely make sure it happens! Besides, I <em>am</em> happy with you –"
 
+I had kind of said it on instinct, based on my arguments with Justicar earlier. But if Yali was going to respond like <em>that</em>… "Listen to yourself! Is that what someone who was happy would say?"
 
+"– I'm talking about little things. Like when I don't want to get up in the morning, but I get up anyway because I know I can't see you if I don't get up. Or when I'm having pain and I don't want to [????? do something that's hard work], but I do it anyway because I know ?????. That's Stern."
 
+"You shouldn't have to do that! You shouldn't have to work hard <em>when you're already in pain!</em>"
+
+Emotionlessly, Yali replied, "I <em>shouldn't</em> have to. But I <em>do</em> have to. And if I didn't have the Stern to help make myself do it, I wouldn't be here. I wouldn't get up in the morning."
+
+"[????? You shouldn't have to,] that's not what life is supposed to be about –"
+
+"Maybe your life is easier than mine," she said coldly.
+
+[????? I think Rinn goes to "I need to comfort Yali" instead of feeling hurt, hugs her, and notices that Yali is shaking from being upset, even though she doesn't show it in her face. Maybe: [Yali, coldly] "I was trying to open up to you." [Rinn feels bad] "It's okay. There will be another time."]
 
 ?????
 
@@ -349,7 +361,7 @@ Yali spoke gravely. "The Blood God is a god of anger, and it has been starving f
 
 [?????"Well, fuck." I looked down at my hands. wait no, more aggressive: "Fuck!" I yelled. "[I fight people a lot but I never wanted to actually kill anyone]!"] "<em>May</em> be, though? You think we can get away without a fight?"
 
-"The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to take the unravelling potion herself –"
+"The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to [????? take the unravelling potion herself? or just back down?] –"
 
 "– like that's gonna happen –"
 
