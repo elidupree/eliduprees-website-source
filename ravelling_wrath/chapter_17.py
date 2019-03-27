@@ -224,7 +224,7 @@ I squinted across at a short smear of blood on the rocks. "Should there be this 
 
 "Right…"
 
-We descended to the mouth of a ravine, guarded by a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Yali stopped walking and squinted. "Do you feel it, too?" she said.
+We descended to the mouth of a ravine, guarded by a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Or, knowing him, paused because he was physically unable to go on the time. Yali stopped walking and squinted. "Do you feel it, too?" she said.
 
 I stopped alongside her. When I paid attention, I could feel something sloshing at the edges of my mind. "Yeah. I do."
 
@@ -248,19 +248,45 @@ I laughed. It came out louder than I expected. "That's pretty reassuring, coming
 
 "Alright, let's do this thing." I threw my head back and howled into the air, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow from every part of my [????? skin? No, because it comes from the interior]. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
 
-As I got closer, the forest swam around me. It felt like the world was unstable, trying to make me forget which way was up and down. But from inside my soulfire, it didn't seem so threatening. I was a transcendent pillar of flame. I knew exactly where <em>I</em> was. It was just the rest of the world that was having trouble.
+The ravine was narrow and cut deep into the ground, not leaving much room to walk if you didn't want to step in the little brook that ran along its length. Where there <em>was</em> room, spindly, twisted trees hogged up the shore. But the water wasn't much deeper than my foot. I confidently strode down the middle, splashing it aside. When it soaked my shoes, I just unmanifested them and walked barefoot in the cold stream, my soulfire keeping me warm.
+
+As I got closer, the forest swam around me. It felt like the world was unstable, trying to make me forget which way was up and which way was down. But from inside my soulfire, it didn't seem so threatening. I was a transcendent pillar of flame. I knew exactly where <em>I</em> was. It was just the rest of the world that was having trouble.
+
+I was deep in the ravine when I spotted him. He was stumbling along away from me, ?????. As I watched, he wavered off to the side and had to brace himself against a tree, then stumbled back into the middle of the brook again.
+
+"Morrow!" I called out.
+
+Morrow must have heard me, because he tried to turn around. But somehow, he only managed to trip over his own feet and go sprawling into the wall of the ravine. I rushed to help him, but almost as soon as he had gone down, he lunged to his feet again, his grinning, battered face swaying towards me.
+
+Yali had <em>seriously</em> fucked him up. Like, I'd beaten up plenty of assholes myself – and I had gotten beat up plenty of times too – but I had never seen someone messed up <em>this</em> bad. One eye was completely swollen shut, and the other one wasn't looking much better. His nose was sticking off in the wrong direction, dripping a mass of blood right down his chin. His hands were messed up too, fingers sticking off in all the wrong directions.
+
+I immediately wanted to hurt whoever did this to him, but that was Yali. And that wasn't what I was here for. I knew what I had to do. "Morrow! I've got something for you."
+
+Morrow's one working eye wavered back and forth, never quite focusing in on me. There was a horrible grin on his face. "Who are you!!" he screamed.
+
+"You can't see me? I'm Rinn –"
+
+[????? Rinn gets hit by a bunch of mind powers, but hangs onto her soulfire and blocks them out]
+
+"Too bright!!!
 
 ?????
 
-Morrow must have heard me, because he tried to turn around. But somehow, he only managed to trip over his own feet and go sprawling into the wall of the ravine [????? set that up]. I rushed to help him, but almost as soon as he had gone down, he lunged to his feet again, his grinning, battered face swaying towards me.
+stumbled into me, his face smearing blood onto my shirt.
 
-Yali had <em>seriously</em> fucked him up. Like, I'd beaten up plenty of assholes myself. And I had gotten beat up plenty of times too. But I had never seen someone messed up <em>this</em> bad. One eye was completely swollen shut, and the other one wasn't looking much better. His nose was sticking off in the wrong direction, dripping a mass of blood right down his chin. His hands were messed up too, fingers torn up and sticking off in all the wrong directions.
+I held him by the shoulders. So it had come full circle. When we had first met, I had put some of my blood into him. And now, his blood had touched me as well. There was a sacred bond between us.
 
-I immediately wanted to ?????, but that wasn't what I was here for. I knew what I had to do. "Morrow! I've got something for you."
+"Morrow. [????? you have to listen to me?]"
 
-Morrow's one working eye wavered back and forth, never quite focusing in on me.
+[????? morrow sticking to saying unrelated stuff]
 
+?????
 
+[????? Rinn mentions that what she's bringing is a potion, which makes Morrow think of alchemist]
+
+"Raylie!!!!" Morrow leaned away from me, and I felt a surge of his powers again.
+
+I grabbed onto his head, letting soulfire flow from my hands to stop whatever he was doing. "This is no time for you to reach for Raylie!" I said firmly. [????? You hurt them/if you want to get them back, you have to acknowledge-to-yourself what happened]
 
 
 ?????
