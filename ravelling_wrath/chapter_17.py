@@ -232,7 +232,7 @@ I stopped alongside her. When I paid attention, I could feel something sloshing 
 
 "Right…"
 
-"You've got this."
+Yali handed me the unravelling potion, letting me carry it in a bag hanging from a short rope. She didn't want it to touch my soulfire directly. "You've got this," she said.
 
 I laughed. It came out louder than I expected. "That's pretty reassuring, coming from someone who can literally see the future."
 
@@ -252,7 +252,7 @@ The ravine was narrow and cut deep into the ground, not leaving much room to wal
 
 As I got closer, the forest swam around me. It felt like the world was unstable, trying to make me forget which way was up and which way was down. But from inside my soulfire, it didn't seem so threatening. I was a transcendent pillar of flame. I knew exactly where <em>I</em> was. It was just the rest of the world that was having trouble.
 
-I was deep in the ravine when I spotted him. He was stumbling along away from me, ?????. As I watched, he wavered off to the side and had to brace himself against a tree, then stumbled back into the middle of the brook again.
+I was deep in the ravine when I spotted him. He was stumbling along away from me, his feet dragging through the water. As I watched, he wavered off to the side and had to brace himself against a tree, then stumbled back into the middle of the brook again.
 
 "Morrow!" I called out.
 
@@ -262,21 +262,29 @@ Yali had <em>seriously</em> fucked him up. Like, I'd beaten up plenty of asshole
 
 I immediately wanted to hurt whoever did this to him, but that was Yali. And that wasn't what I was here for. I knew what I had to do. "Morrow! I've got something for you."
 
-Morrow's one working eye wavered back and forth, never quite focusing in on me. There was a horrible grin on his face. "Who are you!!" he screamed.
+Morrow's one working eye wavered back and forth, never quite focusing in on me. There was a horrible grin on his face. The air was thick with his power, pulsing and flickering as he moved. "Who are you!!" he screamed.
 
 "You can't see me? I'm Rinn –"
 
-[????? Rinn gets hit by a bunch of mind powers, but hangs onto her soulfire and blocks them out]
+I didn't get a chance to finish. The power rushed in at me. As soon as I said my name, I could feel it locking on, making me the one focus of the entire world. The trees, the hills, and even Morrow faded into the background. I was the one on stage, and all around me, it was like millions of scrabbling fingers trying to pull at my thoughts, tongues pressing in to get a taste of my essence, mouths trying to suck away my skin and drain out the juice below.
 
-"Too bright!!!
+But even the grotesque pressure of his powers was little more than a shadow to my soulfire. I hung on tight, blazing brightly against the vortex, holding the chaos firmly at arms length.
 
-?????
+"Too bright!!!" Morrow screamed. "It's burning me, you're burning me –"
 
-stumbled into me, his face smearing blood onto my shirt.
+"I'm not going to lower my soulfire. [????? I will accommodate you as much as I can,] but this is important to me. And Yali and –"
 
-I held him by the shoulders. So it had come full circle. When we had first met, I had put some of my blood into him. And now, his blood had touched me as well. There was a sacred bond between us.
+"Yali!!! You're here to finish me off!! You're going to kill me, you're going to burn me to death –" Even as he screamed and spit blood, he kept on grinning and walking towards me.
 
-"Morrow. [????? you have to listen to me?]"
+"I'm here to help," I said firmly.
+
+Morrow stumbled right into me, his head bumping in the midst of my soulfire, his face smearing blood onto my shirt.
+
+With one hand, I held the unravelling potion at a safe distance to the side. With the other, I clasped him by the shoulders. I didn't know if he could feel what I felt, but when his blood touched me, it formed a sacred bond between us. In fact, it had come full circle. When we had first met, I had put some of my blood into him. And now, his blood had landed on me as well. ?????
+
+"Morrow. I know you're in pain. I want you to listen to me. I'm here to help." In the warmth of my soulfire, it was all so simple. The things to say were so obvious.
+
+"Pain? Pain where?? ?????
 
 [????? morrow sticking to saying unrelated stuff]
 
