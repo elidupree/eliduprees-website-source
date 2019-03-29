@@ -280,7 +280,7 @@ But even the grotesque pressure of his powers was little more than a shadow to m
 
 Morrow stumbled right into me, his head bumping in the midst of my soulfire, his face smearing blood onto my shirt.
 
-With one hand, I held the unravelling potion at a safe distance to the side. With the other, I clasped him by the shoulders. I didn't know if he could feel what I felt, but when his blood touched me, it formed a sacred bond between us. In fact, it had come full circle. When we had first met, I had put some of my blood into him. And now, his blood had landed on me as well. ?????
+With one hand, I held the unravelling potion at a safe distance to the side. With the other, I clasped him by the shoulders. I didn't know if he could feel what I felt, but when his blood touched me, it formed a sacred bond between us. In fact, it had come full circle. When we had first met, I had put some of my blood into him. And now, his blood had landed on me as well. We were linked together now, no less than I was linked with Yali.
 
 "Morrow. I know you're in pain. I want you to listen to me. I'm here to help." In the warmth of my soulfire, it was all so simple. The things to say were so obvious.
 
