@@ -22,7 +22,7 @@ The Blood God's Gate nestled my body like a hand in a glove.
 
 Only now, I realized that all of the other four Gates had been trying to squeeze my soul through shapes where it didn't fit. But this one was <em>made</em> for me. My blood pumped warmly through my veins. I floated, submerged in a sea of gentle pressure, cradling me and feeding me with strength. I breathed in through every pore of my skin, absorbing its energy. My heart, still stained with worries and pain, began to fill with warm, relaxed, irrepressible power. Once my heart was full, the power overflowed into my chest. Once my chest was full, it overflowed into my limbs. Slowly, it expanded into every fingertip. My hands were ready to ?????. My toes were ready to launch me into a springing leap that would carry me across the soaring sky. It flowed into my neck and shoulders, pushing aside the old tension and leaving my muscles with perfect strength and control. It flowed into my jaw, my tongue, my lips. ?????
 
-And then, when I was completely filled, when my body had received every swallow of fuel it could take, the way slid open. The rest of the Blood God's power pulsed at my back, endless, encouraging, ready to lift me up no matter how many times I fell.
+And then, when I was completely filled, when my body had received every swallow of fuel it could take, the way ?????slid open. The rest of the Blood God's power pulsed at my back, endless, encouraging, ready to lift me up no matter how many times I fell.
 
 Effortlessly, I stepped into the world.
 
@@ -44,13 +44,13 @@ She was focused on the plan, and her focus on the plan was beautiful. I smiled a
 
 I raised my arm towards the sun, where it hung over a distant part of the city. "Towards the heart of the Blood God's power."
 
-Yali set her feet against the flagstones, solemnly facing towards the sun. She stared along the long uphill road, past the enormous arches and jagged towers, to the tiny, distant black dot that was the highest point of the city, standing high astride the city like a crown of steel. Standing directly beneath the sun, the crown was joined to the sky by a pillar of brilliant light.
+Yali set her feet against the flagstones, solemnly facing towards the sun. She stared along the long uphill road, past the enormous arches and jagged towers, to the tiny, distant black dot that was the highest point of the city, standing high astride the city like a crown of steel. Perched directly beneath the sun, the crown was joined to the sky by a pillar of brilliant light.
 
 "That is also the location of the final portal," Yali said. "I understand."
 
 We moved.
 
-My muscles warmed from our steady walking. We flowed up the street, like two drops of blood flowing up a vein, returning to the heart. We passed shattered towers still reaching towards the sky, twisted monuments of blackened steel, sculptures like raised fists towering high above. The sheer scale of everything was enormous. Even where a finger had broken from a sculpture and fallen to the ground, it was taller than we were.
+My muscles warmed from our steady walking. We flowed up the street, like two drops of blood flowing up a vein, returning to the heart. We passed shattered towers still reaching towards the sky, twisted monuments of blackened steel, sculptures like raised fists towering high above. The sheer scale of everything was enormous. Even where a one of the great stone fingers had broken from a sculpture and fallen to the ground, it was taller than we were.
 
 And all throughout the city, densely braided cables of steel snaked about, some half buried in the ground, some crawling up the buildings like vines. An endless network tying the city together, they nestled the buildings and spires, as if they had all grown together as a single being.
 
@@ -66,7 +66,7 @@ I punched one of them affectionately. "These are like the muscles of the city!" 
 
 "That, that, that sounded awesome, but I'm not sure if it makes sense?"
 
-I laughed. "Check this out!" I knelt down, pressing my hands to the flagstones beneath us. An enormous hand of stone emerged from the ground, bearing us upwards and upwards, past shattered windows and smokestacks, past the tallest spires of ancient temples, until we finally rose above the skyline, seeing the entire city laid out before us. It seemed to stretch on into infinity in every direction, a forest of silent silhouettes against the dusky sky.
+I laughed. "Check this out!" I knelt down, pressing my hands to the flagstones beneath us. An enormous hand of stone emerged from the ground under us, its palm lifting us up. It bore us upwards and upwards, past shattered windows and smokestacks, past the tallest spires of ancient temples, until we finally rose above the skyline and saw the entire city laid out before us. The city seemed to stretch on into infinity in every direction, a forest of silent silhouettes against the dusky sky.
 
 I watched Yali looking out over the city, taking it all in. Her eyes were slightly widened, her head pulled slightly back. Coming from Yali, that meant she was totally blown away.
 
@@ -94,27 +94,29 @@ I laughed. "I <em>could</em> make a train. We could ride as far as the moon and 
 
 <bigbreak>
 
-?????
+Yali paused as we walked along the golden road.
 
+"Justicar's getting close," she said. "I have some potions I'm going to drink to prepare for whatever happens. I would have brought some for you, but –"
 
-
-?????
-
-
-"When Justicar gets here, she does something that interferes with my Seeing. It's like a white light that I can't see past.
-
-
-?????
-
-"Justicar will come to us before long. I have some potions I'm going to drink to prepare for whatever happens. I would have brought some for you, but –"
-
-Part of me felt like saying, <em>how come I don't get any potions?</em> But it was only a small part. She could use potions if she wanted to. I didn't need any. I had myself, and that was stronger than any potion.
+An old part of me felt like saying, <em>how come I don't get any potions?</em> But it was only a small part. She could use potions if she wanted to. I didn't need any. I had myself, and that was stronger than any potion.
 
 "– because if it comes to a fight, your soulfire will purge them from your system anyway."
 
 "Good point."
 
 Yali drank [????? number] potions, one after another. The power of sorcery sizzled around her. I could feel the shield she'd used in the previous layer. I could feel an aura of strength and speed, and some other things I couldn't recognize. Looking at her with my eyes, I half expected her to look incredibly badass, but she actually looked softer and wiser instead. 
+
+Then she spun and looked me in the eye. "When Justicar gets here, she does something that interferes with my Seeing. It's like a white light that I can't see past. That's not a good sign. But still, remember the plan. If Justicar is willing to talk, stay back and let me do the talking. No matter what she says, just stay calm, keep your hands open, and don't do anything to provoke her.
+
+"And if she attacks us, kill her."
+
+"I can do that." I whipped out a Blood Blade, its whole length bright red and blazing with soulfire. I whirled and slashed it through the air, cutting imaginary enemies into dozens of pieces. In the next instant, I let the blade melt back into my body. I opened my hands and let a warm sense of peace flow through me.
+
+Yali squinted. "That was very fast, how you switched back and forth. I could almost have missed it."
+
+I smiled confidently. She just didn't understand. "I didn't switch anything. My heart goes out to everyone who has blood. My fury strikes at anyone who would tear us down. I am one being."
+
+"Uh… Okay then."
 
 ?????
 
