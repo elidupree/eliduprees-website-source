@@ -17,6 +17,7 @@ posts = [
   ''',
   "head":head,
   "contents": chapter_start ("Chapter 16: Soulfire", '''<p></p>''') +'''
+  [????? somewhere in this chapter: when you pray to the Blood God, you don't look to the sky or a distant temple, you look to your own heart]
 ?????
 
 I watched Alchemist walk away, waiting until they were fully out of sight. No matter how serious things where, I really didn't want to scare Alchemist more than I already had.

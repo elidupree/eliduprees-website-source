@@ -267,7 +267,7 @@ A bridge. I <em>could</em> make a bridge. But why should I just adapt to the wor
 
 I felt a pressure pushing back at me. I could tell what <em>that</em> meant. The Blood God didn't <em>like</em> me calling the world worthless. But I didn't care what it liked. I pushed past its resistance, toppling building after building into the pit. <em>You tried to kill me, you put the one I love through so much pain, and now you <strong>dare</strong> tell me how to feel? We may have a truce, but you have no right to speak to me.</em>
 
-[????? Yali finishes filling the crevice with waste, then flattens it into a road and walks across, eventually cooling down and expressing a more balanced view of the Blood God]
+[????? Yali finishes filling the crevice with waste, then flattens it into a road and walks across, eventually cooling down and expressing a more balanced view of the Blood God. In particular, she realizes that if she wants the Waiting God to feel guilt and to change, she has to make that be part of herself, and so making "change in how I feel about the Blood God" is as important as it is problematic]
 
 
 ?????
