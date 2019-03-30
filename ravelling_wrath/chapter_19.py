@@ -106,17 +106,17 @@ The city stretched across the centuries, from its cloudy origins as a struggling
 
 Three other forces struggled to guide the city, each with their own shortsighted fragments of wisdom.
 
-The Stern were a foundation. Flawed, at times unnecessarily cruel, but a foundation. Where humanity would not accept our gentle guidance to the proper path, Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape.
+The Stern were a foundation. Flawed, at times unnecessarily cruel, but a foundation. Where humanity would not accept our gentle guidance to the proper path, the Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape.
 
-The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to delight. Yet they had no power to achieve disaster without a loan of the others' strength. Their strength could be regulated, their ingenuity turned to the benefit of all.
+The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to delight. Yet they had no power to achieve disaster without a loan of the others' strength. The strength available to them could be regulated, their ingenuity turned to the benefit of all.
 
 But Blood…
 
-Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down.
+Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down. Once they had latched onto something, they refused to let go, even if it went against all that was right. Across history, a trail stood out, a trail of times when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. With the others, we could adapt. When the Stern denied a plan of ours, we could find an imperfect alternative that would be palatable to the Stern, yet serve the same overall purpose. But with Blood, it was as if they could see into our process, and spitefully reject every follow-up we could find, even if it was something Blood would normally accept.
 
 ????? [????? Look for inspiration in Blood as the unconscious mind rejecting choices that aren't in your human-selfish interest]
 
-The city was limited, only able to develop in ways that could navigate around Blood's limitations.
+The city was limited, only able to develop in ways that could navigate around Blood's ?????limitations.
 
 ?????
 
@@ -213,12 +213,72 @@ I was sick of being assigned to cases in the fifth layer. Now, I was proud of my
  
 I took a lot of notes on my phone, too. I wasn't sure if I was going to keep any of the former Farseers' memories after I was brought back to the material world. I would <em>probably</em> still have my own memories of <em>remembering</em> the other memories, but I preferred not to rely on that if I didn't have to.
 
+?????
+
+<bigbreak>
+
+I had spent enough time in memories. My body was rested again. I forced myself to my feet and began to walk again.
+
+Most of the journey was not difficult. I only had to endure the soreness of my legs, from the walking, and my arm, from hauling Rinn in the wagon, and my eyes, from the constant glare that I couldn't block even with a visor. It was all unimportant. What mattered was reaching the black dot in the distance, the final portal.
+
+[????? Yali comes to a huge crevice in the ground]
+
+This was a problem. I had to keep going towards the portal, but I couldn't think of a way across the crevice.
+
+?????
+
+Could I manifest a hot air balloon? No… even if I could do that, I wouldn't know how to land it without jostling Rinn. Besides, Rinn had said that we wouldn't "get closer to the heart" unless we moved using our own bodies. Would it count as using my own body if I used my arms to operate an engine that carried me…? How did Rinn even know what counted and what didn't? If she was awake, she'd probably say it was obvious, like you could feel it with your body or something.
+
+It wasn't obvious to <em>me</em>.
+
+?????
+
+I would have to figure out how to do the large-scale manifesting Rinn and Justicar had been doing.
+
+I stood and held out my arms, copying the way Rinn usually stood to manifest. How did she do it? What kind of feelings did she draw on when she was making that golden bridge? She was probably just completely confident. She could probably unleash the full power of her soul, without trying at all. The problem was, that wasn't me.
+
+I had to try.
+
+In my mind, I visualized a bridge in front of me, a steel structure that word span all the way across the crevice. Then I focused my will on making it real. Like before, it flickered into existence, but then flickered out again. I stayed calm and focused, trying to make it stable. But it was too weak. I pushed with my mind, but it failed to become real.
+
+I stared at the crevice for many minutes, trying each variation I thought of. First I tried to push harder with my mind. When that didn't work, I tried to push more gently. I tried to build the bridge a little at a time, but it got harder and harder the more I added. I ended up with something that didn't even reach a quarter of the way across. I was clearly missing something. When Rinn had done it, it felt like she wasn't trying at all. So I tried not trying at all, just waving my hand and expecting the bridge to appear for me. Again, nothing happened.
+
+A shred of impatience broke out of me.
+
+The instant it did, the bridge was real. The instant I got myself under control again, it was gone.
+
+I tried to do it again, allowing the impatience to come forward. I glared at the crevice, forcing the bridge to appear again. It did, if unsteadily. Now all I had to do was to stabilize it, to find a way to sustain the impatient feeling long enough to finish the bridge, but not to lose control –
+
+When I looked, the bridge was gone again. Even with the impatience still at the forefront of my mind, the bridge had disappeared the moment I felt like I could regulate it.
+
+So that was how it was.
+
+I should have known. This was the Blood God's world. It would want us to unleash our feelings, not to regulate them. ?????
+
+?????
+
+I had many choices of which feelings to unleash. It probably wasn't correct to use the impatience. It wasn't an especially strong feeling, which probably made it "not my true feelings" to the Blood God, or something like that. My true feelings were… well, there was the pain, but I wasn't sure how I would make a bridge with that. I needed something that was intense, but also strong, capable of –
+
+I <em>definitely</em> had one of those. It was already rising to my mind. I had been trying not to use this one so often, but if the Blood God was going to force me, it had only itself to blame. I could already feel my heart thudding, a foul feeling in my mouth and throat.
+
+It would be so easy, so satisfying, to let the feeling take over. For the moment, I held it back. It would probably be a good idea to put Rinn at a safe distance. Concentrating, I rolled her wagon far away from the edge. Then I walked back alone, to stand at the edge of the crevice, glaring at the city. Did it want me to unleash my feelings? Fine, then. I <em>would</em>.
+
+A bridge. I <em>could</em> make a bridge. But why should I just adapt to the world when <em>it</em> had never adapted to <em>me</em>? I raised my arm like a claw. I would show the Blood God what would happen if you tried to control Yali Seti. I reached out my will and tore into the ground on the other side of the crevice. Under the force of my manifesting, concrete cracked and collapsed, buildings crumbled, and the waste slowly slid and fell into the hole. What had Rinn said? "Every human is the equal of the entire world"? How misguided. I was <em>better</em> than this world. Rinn and I were the only things that mattered. Everything else here, from this despicable crevice standing in my way, to the crumbling temple buildings that had never done me any good anyway, was worthless. They didn't <em>deserve</em> for me to <em>allow</em> them to remain standing.
+
+I felt a pressure pushing back at me. I could tell what <em>that</em> meant. The Blood God didn't <em>like</em> me calling the world worthless. But I didn't care what it liked. I pushed past its resistance, toppling building after building into the pit. <em>You tried to kill me, you put the one I love through so much pain, and now you <strong>dare</strong> tell me how to feel? We may have a truce, but you have no right to speak to me.</em>
+
+[????? Yali finishes filling the crevice with waste, then flattens it into a road and walks across, eventually cooling down and expressing a more balanced view of the Blood God]
+
 
 ?????
 
 I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed. I might even have liked Morrow better if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
 
- 
+[????? Morrow says something to Yali, and she is annoyed. When he speaks to her a second time,]
+
+I grabbed his hand, and watched to make sure I could see the fear in his eyes. "Don't speak to me," I spat. In my mind, I continued, <em>I let you live, even though you didn't deserve it. Don't make me change my mind.</em> I would have said it out loud, but I cared about Rinn, and Rinn wouldn't want me to say anything would scare Alchemist. So I left it at that.
+
+I let go of Morrow's hand. He backed away from me. Good.
 ''',
 },
 ]
