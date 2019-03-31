@@ -482,7 +482,7 @@ I thought about it. "We could still have dated for three months… and then, you
 
 "I <em>am</em> a year older than you," Yali teased.
 
-"Just one year? So you're 17?" She nodded. I was pretty surprised that I hadn't known that. We'd gotten really close in the month we'd been together, but come to think of it, Yali had never talked about her personal life very much. "I'd assumed you were a little older, since you live alone…"
+"Just one year? So you're seventeen?" She nodded. I was pretty surprised that I hadn't known that. We'd gotten really close in the month we'd been together, but come to think of it, Yali had never talked about her personal life very much. "I'd assumed you were a little older, since you live alone…"
 
 Yali didn't say anything.
 

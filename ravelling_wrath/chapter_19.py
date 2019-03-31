@@ -88,9 +88,9 @@ Keeping still and silent, I listened for the Waiting God's presence. The part of
 
 It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
 
-With each new thought, the presence felt weaker. This wasn't working. By denying it directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
+With each new thought, the presence felt weaker. This was too easy. I had to assume it wasn't working. By denying the god directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
 
-But, even if I knew what it felt like to listen to the Waiting God… what did it feel like to <em>be</em> the Waiting God?
+To do that, I would have to feel like the Waiting God. But how would I do this? Until now, I had only known what it felt like to listen to the Waiting God. What did it feel like to <em>be</em> the god?
 
 I did not know, but I <em>knew</em>. The Waiting God did not feel the reassurance of inevitability. The Waiting God <em>was</em> inevitability. To be the Waiting God <em>was</em> to watch and wait. To plan. To know. The Waiting God did not obtain knowledge. It <em>reviewed</em> knowledge. Past and future were already united within its soul.
 
@@ -134,13 +134,15 @@ The thoughts came from nowhere, disrupting our focus. Was there something urgent
 
 NO! YOU – I – OUR PLAN <EM>WAS</EM> THE MISTAKE! ALL THE WAY FROM THE BEGINNING! WE DIDN'T DESERVE TO GET TO STOP THINKING OF IT! SHE WAS RIGHT IN FRONT OF ME, SHE WAS SUFFERING! HOW HAD I NOT SEEN IT?! <EM>HOW?!</EM>
 
-Terror pressed in from the base of our mind. A crushing feeling gripped our chest. This made no sense! This was our plan, our plan! Nothing had changed! How could it be wrong?! How was Blood a "she"?! How – something was wrong, what was happening –
+Terrible uncertainty crept into the base of our mind. Our human chest had filled with a crushing feeling. This made no sense! To doubt the plan of centuries was incoherent. Yet the thought had appeared. Why had we thought the plan was wrong? Why… why had we thought of Blood as "she"? How – something was very wrong, we needed to review our –
 
 I was Yali again, my body shaken away from the god by a violent force. It was agony, pushing myself back upright and trying to control the painful tears. My mind was in chaos. I'd thought I was being clever, using my own feeling of guilt, but it had gotten mixed up with my guilt about [????? childhood friend] – no, it HAD been clever! It had <em>worked!</em> The Waiting God was shaken too, I had felt it! A feeling of triumph rose inside me. And this was only the beginning! I gathered my determination. I listened for the Waiting again, and felt…
 
 Nothing but fatigue.
 
-After a moment, I understood. It was like the way I had felt back in the material world, when I had forced myself to use the Seeing for as long as I could. My connection to the Waiting God had been overtaxed. Well… if it was like before, it would recover after a time. It would not be soon, but I would have many more chances to confront the god. Still, this was troublesome. There were multiple things I would have to consider. How might the Waiting God's thoughts change while I was unable to access them? Would ????? ????? [????? concern about lack of access to the Seeing] [????? what about the memories? Are they also inaccessible?] [????? possibility of the main confrontation happening in the final portal]
+After several minutes, I understood. It was like the way I had felt back in the material world, when I had forced myself to use the Seeing for as long as I could. My connection to the Waiting God had been overtaxed. Well… if it was like before, it would recover after a time. It would not be soon, but I would have many more chances to confront the god.
+
+Still, this was troublesome. There were multiple things I would have to consider. How might the Waiting God's thoughts change while I was unable to access them? Would ????? ????? [????? concern about lack of access to the Seeing] [????? what about the memories? Are they also inaccessible?] [????? possibility of the main confrontation happening in the final portal]
 
 <bigbreak>
 
@@ -180,7 +182,7 @@ The boardwalk would not work. The piles were unsteady. They might shift under us
 
 I sat a while and thought of how I could move the things. No good ideas came to me. Eventually, I stood up and began hauling them out of the way one at a time, making a path just wide enough for me and my wagon. It was heavy work. Each thing seem to be tangled with a dozen others. Pain accumulated in my back.
 
-Many of the tools were already rusted out, and fell apart as I tried to pull them away.
+Many of the tools were already rusted out, and fell apart as I tried to pull them away. This left debris in my path, which I would have to clear away. If I bent down to lift every fragment, it would soon become too much for me.
 
 
 [????? Yali becomes physically tired of moving up in, and stopped to rest]
@@ -223,7 +225,7 @@ Most of the journey was not difficult. I only had to endure the soreness of my l
 
 [????? Yali comes to a huge crevice in the ground]
 
-This was a problem. I had to keep going towards the portal, but I couldn't think of a way across the crevice.
+This was a problem. I had to keep going towards the portal, but I couldn't think of a way across the crevice. It was too wide for me to manifest a bridge across it. The edges were too steep for me to cart Rinn down one side and up the other.
 
 ?????
 
@@ -272,13 +274,49 @@ I felt a pressure pushing back at me. I could tell what <em>that</em> meant. The
 
 ?????
 
+And along with the portal, the others were already there. Alchemist and Morrow.
+
 I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed. I might even have liked Morrow better if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
 
-[????? Morrow says something to Yali, and she is annoyed. When he speaks to her a second time,]
+I listened for the future. I felt myself walk towards the portal. I saw Morrow hurry towards me and speak to me, ask me questions. I felt myself lash out at him. I felt myself hold back. I felt ?????. I saw both of them step away from me, huddling quiet and scared at a distance. I saw us maintain an uncomfortable truce until the time came to enter the portal.
 
-I grabbed his hand, and watched to make sure I could see the fear in his eyes. "Don't speak to me," I spat. In my mind, I continued, <em>I let you live, even though you didn't deserve it. Don't make me change my mind.</em> I would have said it out loud, but I cared about Rinn, and Rinn wouldn't want me to say anything would scare Alchemist. So I left it at that.
+This was not the future I would choose. I could do better. I cared about Rinn, and Rinn wouldn't want me to do anything that would upset Alchemist.
+
+I listened for a different future. I felt myself pretending to be calm, answering Morrow's questions so that Alchemist would think we had an understanding. I felt the futures where my frustration built up until I struck him again, ?????. I listened for a future where I would navigate my feelings, where I could keep the illusion going and maintain the peace between us. I saw the three of us waiting together at the portal. I felt [????? not so great]. This was not the future I would choose. [????? With those feelings, I would not be prepared to face the Waiting God.]
+
+I listened for a different future. I knew that both of them were already afraid of me. I felt myself march towards the portal, determined to make them be the ones to suffer, instead of me. When Morrow ran to meet me, I shouted him down. I ordered them both to be quiet and speak only to answer my questions. Finally, at the end of everything, I could <em>finally</em> just make them give me the peace and quiet I deserved. No more staying on good terms with Alchemist just in case we needed more potions. No more letting words come out of Morrow's disgusting face. I would finally just get what <em>I</em> wanted. And then I could face the Waiting God with pride. I would be the one who was in control.
+
+As much as part of me liked that future, it was not the one I would choose either. I could still do better.
+
+<bigbreak>
+
+After a dozen more futures, I found the one that satisfied me. I forced myself to my feet, hefted the handle of Rinn's wagon, and headed for the portal.
+
+Morrow approached me, as I had seen. I caught his hand, keeping it close between us, out of Alchemist's view. I looked in his eyes to make sure I could see the fear there. "Don't speak to me," I said quietly.
 
 I let go of Morrow's hand. He backed away from me. Good.
+
+I rolled the wagon close to the portal, where Alchemist was waiting. Alchemist nervously approached and looked at Rinn's head, the only part of her that was sticking out of the foam. Tears filled their eyes.
+
+"Is, she… You used, the…"
+
+"The second one we made," I said gently. "?????"
+
+"Will she… that one was…"
+
+Alchemist was trying to ask about the side effects of the potion. In the futures, I had tried dozens of responses before I found one that would [????? keep Alchemist from worrying].
+
+[????? Alchemist asks about Justicar]
+
+"Dead," I said. "We couldn't convince her to stop." I waited for Alchemist to glance at Rinn, wondering if Rinn had been the one who killed her. I said the best thing I had found to assuage their worries. "We did it together."
+
+"Oh. I guess, you had to do it…" Tears dripped down their face.
+
+"I wish I could tell you something else."
+
+"I know."
+
+
 ''',
 },
 ]
