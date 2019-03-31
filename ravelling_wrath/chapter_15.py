@@ -74,15 +74,17 @@ After a long, refreshing rest, the itch to move started nudging at me.
 
 I rolled over, my hands and knees pressing into the soft dirt as I climbed to my feet. And then, I started walking. It didn't really matter which <em>way</em> I walked. I had no idea where anyone was anyway. And somewhere out there, Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
 
-????? [????? Details of walking into the woods, mostly not summary language]
+The woods were dense with shrubs and vines. I kept having to push them aside with my hands, or hold one vine out of the way while I ducked or climbed over another. The hard bark got in some solid scratches on my bare skin. I deliberately stepped the arches of my feet onto big roots, turning the poking feeling into a massage. 
 
-Before long, I decided to put on at least <em>some</em> clothes. Pushing my way through the underbrush, I kept stubbing my toes on gnarly roots and tearing my skin on old thorns. So first, I manifested on some heavy jeans, tough and skintight, and boots just the perfect size for me, really to stomp through some old brush.
+In other places, the plants stood ankle-deep in wide pools of water. I dipped my feet in the water, and they came up dripping and matted with fallen leaves. ????? [????? Details of walking into the woods, mostly not summary language]
 
-Then I thought, if I was getting dressed up, I was gonna do this <em>right</em>. I manifested a full-length mirror, leaning against a tree.
+As I tried to step under some bushes I was holding aside, I stubbed my toe on a root. Hopping from the pain, I lost my grip on the bushes, too. They whipped back into place, a thorny branch slashing my leg and tearing open the skin. Swearing, I retreated to lean on the nearest tree, then manifested away the cuts. Then I decided to put on at least <em>some</em> clothes. Having my bare skin against the world was awesome, but that pain had been a little too much to be fun. So first, I manifested on some heavy jeans, tough and skintight, and boots just the perfect size for me, ready to stomp through whatever old brush got in my way.
 
-The face that looked back at me looked flat and dead with exhaustion. Its hair was matted down, way too symmetric for my taste. Its eyes were weary, the muscles around them tight with suspicion. It was scraped and covered with flecks of dirt. Whose face was this? ?????
+Then I thought, if I was getting dressed up, I was gonna do this <em>right</em>. I manifested a full-length mirror, leaning it against a tree and jamming it between some vines for balance.
 
-????? It was time to take Rinn back.
+The face that looked back at me looked flat and dead with exhaustion. Its hair was matted down, and way too symmetric for my taste. Its eyes were weary, the muscles around them tight with suspicion. It was scraped and covered with flecks of dirt. Whose face was this? Not mine, for sure.
+
+It was time to take Rinn back.
 
 The first thing I did was to get my hair straightened out. I tore at it with a comb until the comb got stuck, then gave up and just chopped half of it off without a second thought. I recolored the rest into a rainbow of red and gold and midnight black, like a living flame in the darkness.
 
