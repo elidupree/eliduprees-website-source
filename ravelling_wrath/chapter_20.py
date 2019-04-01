@@ -80,7 +80,7 @@ Yali smiled despite herself. "How very Waiting of you," she said.
 
 <bigbreak>
 
-[????? Summary language of Yali taking care of Rinn for hours or up to a day, and also explaining what she did with the Waiting God]
+[????? Summary language of Yali taking care of Rinn for hours or up to a day]
 
 [????? Yali serves Rinn some food]
 
@@ -90,13 +90,13 @@ It looked delicious. "Hang on, what do I eat this with?"
 
 "Whatever," I said, manifesting a fork-shaped Blood Blade and digging in.
 
-"Is that –" said Yali with astonishment.
+"Is that –" said Yali, astonished.
 
 I held up the fork and we both stared at it.
 
 "Uh…" I said, belatedly realizing what I'd done. "I thought… um… there's no way we're still in the Otherworld, is there?!"
 
-"No…" Yali took the fork and snapped it in half with her fingers. I didn't feel anything through the fork, either. "Manifested matter is weak here, even if you're a god. But, but, you know what this means?!" she said excitedly.
+"No…" Yali took the fork and snapped it in half with her fingers. I didn't feel anything through the fork, either. "Manifested matter is weak here, even if you're a god. But, but, you know what this means?!" she said ?????excitedly.
 
 "No, I don't, I'm, like, <em>completely</em> bamboozled."
 
@@ -140,7 +140,7 @@ I shrugged. "I mean, it was pretty smart. We don't know what the Blood God would
 
 [????? Yali was frustrated "we will still have to see"]
 
-"[????? How can you be devaluing your accomplishments?] You did more than anyone could have POSSIBLY expected!! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and the mountain fell over! ?????"
+"[????? How can you be devaluing your accomplishments?] You did more than anyone could have POSSIBLY expected!! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're beating yourself up because you couldn't make the mountain bag for mercy! ?????"
 
 
 ?????
@@ -175,7 +175,9 @@ She smiled ruefully. "I'm okay <em>now</em>, because I'm filling up my mind with
 
 "You know, if you become the new High Priest of Blood."
 
-"WHAAAAAAAAAAAAAAAAAAAAAAT?????!!!!!!" I was completely blown away. I probably would have literally fallen down if I wasn't already sitting. There were so many things that were impossible about that, I didn't even know where to start. "But I thought – I thought former Ravellers couldn't even <em>be</em> priests!"
+"WHAAAAAAAAAAAAAAAAAAAAAAT?????!!!!!!"
+
+I was completely blown away. I probably would have literally fallen down if I wasn't already sitting. There were so many things that were impossible about that, I didn't even know where to start. "But I thought – I thought former Ravellers couldn't even <em>be</em> priests!"
 
 Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
 
@@ -269,7 +271,7 @@ I gaped at her.
 
 Yali's face scrunched up again, sobbing uncontrollably. Shit! Had I fucked up again?? I squeezed my arms around her shoulders, but she didn't react at all. I felt like I had been locked out. I just hung onto her while she shook, overcome with wave after wave of new tears. When ?????, ?????. When she began sniffling, I offered my sleeve for her to blow her nose in.
 
-Finally, looking down, she blubbered, "How do you know what to say, when, when, when you feel bad? You always have something to say… How do you do it…?"
+Finally, looking down, she blubbered, "How do you know what to say, when, when, when <em>you</em> feel bad? You always have something to say… How do you do it…?"
 
 I wanted to help, but I wasn't sure how. "I mean, I don't know, I just say what comes naturally?"
 
