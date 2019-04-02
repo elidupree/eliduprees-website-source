@@ -204,7 +204,7 @@ We launched into yet another argument about what to do. Right when I was in the 
 
 "Oh… I didn't, mean to, hit you…"
 
-????? "Wait, are you thinking, a spray-on healing potion?" I said. "Wait, can we spray on the unravelling potion?!"
+I tried to brush the water out of my face. "Wait, are you thinking, a spray-on healing potion?" I said. "Wait, can we spray on the unravelling potion?!"
 
 "No, that one needs to be completely absorbed," said Yali. "But a healing potion might, might, be able to be more, more superficial."
 
