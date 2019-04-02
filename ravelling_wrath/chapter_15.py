@@ -92,17 +92,21 @@ The first thing I did was to get my hair straightened out. I tore at it with a c
 
 I left the scrape and the dirt stains right where they were. I grinned and threw my head back. This was more like it.
 
-I climbed to the nearest tree right away, happily putting the first stain on my new clothes. Standing in the branches, I felt the old joy of looking down and seeing how much smaller the ground became. I jumped and climbed from tree to tree, ????? [????? not summary language]
+I climbed to the nearest tree right away, happily putting the first stain on my new clothes. Standing in the branches, I felt the old joy of looking down and seeing how much smaller the ground became. I jumped and climbed from tree to tree, walking along each limb like a balance beam. I climbed higher, looking up at the treetops stretching up to a dozen times my height. When I looked down again, my breath caught in my throat from how far down the ground was. It was exhilarating. I was terrified, and I wanted more.
+
+Actually… if I fell from up here, I could really hurt myself. And I <em>wanted</em> to jump wildly – it felt so easy and fun, like I might do it without thinking. Slightly freaked out, I lowered myself back to a height where I'd only hurt myself <em>somewhat</em> badly.
 
 Jumping between the trees wasn't anything like the gymnastics I'd had to do in the Endless Maze. There, the Seeking God had put everything just barely within reach, so that every movement was a challenge, but possible. Here, the trees were spaced out at random. Some places were so dense that I could just step from one tree to the next. Other places were sparse enough that I couldn't make it even with a flying leap. I had to make my own challenges. I left the forest littered with ladders, long ropes I used to swing from tree to tree, and bits of my own blood from when it didn't work out so well.
 
-?????, the trees opened and I came to a broad stream, where water flowed lazily down from ????? to ?????.
+My muscles got more and more tired, and I accumulated a nice collection of bruises too. After a long time journeying, the trees opened and I came to a broad stream, where water flowed lazily down from a rocky hillside. I held onto a branch above my head and leaned out over the water, looking down into its sparkling surface.
 
-????? I leapt from the tree branch into the water, breaking the surface with a massive splash. The shock of the sudden cold made me snap to fully awake. After a little flailing around, I came up laughing. I hadn't felt this refreshed since… well, probably ever. ?????
+It looked deep enough for me to swim in. I couldn't resist. I manifested my clothes away again, and leapt from the tree branch into the water, breaking the surface with a massive splash. The shock of the sudden cold made me snap to fully awake. After a little flailing around, I came up shivering and laughing. I hadn't felt this refreshed since… well, probably ever.
 
-The stream opened out and I slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went.
+I kicked out my legs and propelled myself downriver, relishing the cold current as it flowed over my skin. ?????
 
-?????
+The stream opened out and I slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went. I shivered again. The cold wasn't exhilarating anymore – now, it was just tiring. So I raised my fists and manifested my whole skin to be hot. My body hissed with steam as the water boiled off of me. In minutes, I was perfectly dry. I jumped and manifested my clothes back on again, making sure to keep the same stains and tears from before.
+
+[????? Then I relaxed and started thinking back to what had happened before] ?????
 
 Suddenly it was all too real, too much pain and terror stabbing against me. My heart pounded. I dropped into a crouch, ready to fight against enemies on all sides. ????? And it wasn't even the pain that hurt. It was the <em>helplessness</em>. I had just lain there motionlessly while her sword plunged into me. Why hadn't I moved?! I should have moved, I should have fought back, twisted out of the way, ANYTHING!! How could I have been so stupid, so WEAK?!
 
