@@ -223,7 +223,7 @@ Stuck back at the beginning again, I glared at the path in front of me. How had 
 
 My mind recoiled against that. The part of me that was <em>Rinn</em> recoiled against that. I would NOT abandon my own feelings like that! Never again! But I had to get through this somehow! For Yali! I had a DUTY, it was what I <em>had</em> to do, what I <em>must</em> do –
 
-No. That was the Stern God still inside me. [????? That was unacceptable to me.] I gathered the fragments of my rage. I, Rinn, might still be in a weakened state, but I was at least strong enough to kick out something that didn't even belong here. I unleashed a burst of rage, driving the Stern God's thoughts out of every corner, barring the doors of my mind against its intrusion.
+No. That was the Stern God still inside me. There was no way I was going to put up with the Stern kicking me around anymore. I gathered the fragments of my rage. I, Rinn, might still be in a weakened state, but I was at least strong enough to kick out something that wasn't even supposed to be here. I unleashed a burst of rage, driving the Stern God's thoughts out of every corner, barring the doors of my mind against its intrusion.
 
 I glared at the path again. That felt a little better. Now it was just me in here, like it should be. Well, me and the Blood God. Now, I could use my pride. I could walk the Imminent's Path, sure of myself and what I was doing, ignoring every distraction because I knew they were no threat to me. I didn't have to give such things a place in my heart –
 

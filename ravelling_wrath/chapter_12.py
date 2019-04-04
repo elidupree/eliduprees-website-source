@@ -181,11 +181,15 @@ Well, I had to get through this one way or another. I set off on the Imminent's 
 
 The easiest way to handle the Imminent's Path was just to let my senses go dull. Every time I felt something move behind me, I just let the feeling echo off of me without really processing it. It all just passed over me meaninglessly.
 
-?????
+Loud and sudden noises. Slow feelings of unease. Flickering, colored lights seeming to shine from behind. But none of it really got through to me. It wasn't the <em>real</em> Seeking God, anyway. All these weak imitations just slid off of me and faded into the background. They just blended into the hard and droning sounds of my feet as my body kept lurching forward.
+
+<bigbreak>
+
+The square, empty intersection arrived at last. The next place I needed to go connected here.
 
 It was the Farseer's Path.
 
-I look to the left. I looked to the right. If the Farseer hadn't gotten this far yet, I could just go backwards along her path until I found her. If she <em>had</em> gotten this far… what would I do then? I couldn't think of anything. I was just screwed. Well, it wasn't worth worrying about. I was probably screwed already.
+I looked to the left. I looked to the right. If the Farseer hadn't gotten this far yet, I could just go backwards along her path until I found her. If she <em>had</em> gotten this far… what would I do then? I couldn't think of anything. I was just screwed. Well, it wasn't worth worrying about. I was probably screwed already.
 
 Either way, going backwards along the path was the only way that made sense. I dragged my feet in that direction.
 

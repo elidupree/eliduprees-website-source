@@ -68,7 +68,7 @@ I cheerfully jumped down into a sitting position next to Alchemist. "So, how do 
 
 "I… maybe?" I could tell they were uncomfortable, but I couldn't tell whether they were uncomfortable about saying no or uncomfortable about saying yes, Stern take it. Whatever. I wanted to check this place out anyway, see if there were any more interesting landmarks behind the fog.
 
-"I'll be back soon." I manifested the map. "If I get lost in the fog, I'll just go towards the Cloven Earth." That was the Broken God's symbol, indicating where Alchemist was. "I mean, unless the Seeking God messes with me. But apparently, the Seeking God can mess with me whenever the fuck it wants, so it doesn't make a difference, does it," I said irritably. "So yeah, uh… see you soon."
+"I'll be back soon." I summoned the map. "If I get lost in the fog, I'll just go towards the Cloven Earth." That was the Broken God's symbol, indicating where Alchemist was. "I mean, unless the Seeking God messes with me. But apparently, the Seeking God can mess with me whenever the fuck it wants, so it doesn't make a difference, does it," I said irritably. "So yeah, uh… see you soon."
 
 I walked off into the fog, my bare feet rubbing over the sand and stones. The further I walked, the more the cool, damp mist settled on my skin. I kept heading straight in one direction for a while, hoping to find something different. But there was just more sand and stones and ladders. Every so often, I paused to climb up one of the ladders. Climbing up and down was a satisfying workout, but it was still no different than before.
 
