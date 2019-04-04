@@ -254,7 +254,7 @@ How had this all gone so horribly wrong? I had only done what I felt like I was 
 
 Tears poured from my eyes, streaking my face as I trudged on. How did this happen?! I felt like I couldn't understand anything anymore. Everything I believed in was lying in tatters. She was the one person I loved in all the world, and I had cut her down like she was nothing. I had finally done what I came here to do, what my heart was depending on, and it had been wiped away like it was meaningless. And somehow I felt <em>relieved</em>? How could it be a relief to fail? How could I be content to lose everything?
 
-I walked and cried, cried and walked. I felt ????? and beaten down, too exhausted to even parse out which parts were me and which were the Blood God.
+I walked and cried, cried and walked. I felt gutted and beaten down, too exhausted to even parse out which parts were me and which were the Blood God.
 
 ?????
 
@@ -266,9 +266,9 @@ My stomping carried me to the next intersection, to Blood Child's path. The stat
 
 The statues stood there disapprovingly. <em>Too much pride,</em> they ?????ed at me.
 
-"Isn't that what you want?! I am horrible! I am no better than a murderer! Let me through! I have no pride left to throw away!" But the statues were motionless. They repeated their judgment, even stronger this time: <em>Too much pride.</em> I screamed and struggled, trying hopelessly to push my way past, blaming myself for everything I could think of. But ?????. Finally, I went limp, exhausted and empty.
+"Isn't that what you want?! I am horrible! I am no better than a murderer! Let me through! I have no pride left to throw away!" But the statues were motionless. They repeated their judgment, even stronger this time: <em>Too much pride.</em> I screamed and struggled, trying hopelessly to push my way past, blaming myself for everything I could think of. But they just stood there in different way. Finally, I went limp. I was exhausted and empty.
 
-As I slumped against the statues, my mind blurring out, a little more of their demand seemed to filter into my head. But it hadn't changed. I had just… misinterpreted what they were demanding. They were not asking me to call myself <em>worthless</em>. They were asking me to call myself… <em>not important</em>. And all my guilt… to the Stern, even that was a type of pride. If you said you were guilty, you were saying you were important. ?????.
+As I slumped against the statues, my mind blurring out, a little more of their demand seemed to filter into my head. But it hadn't changed. I had just… misinterpreted what they were demanding. They were not asking me to call myself <em>worthless</em>. They were asking me to call myself… <em>not important</em>. And all my guilt… to the Stern, even that was a type of pride. If you said you were guilty, you were saying you <em>mattered</em>. If you shouted that you deserved to suffer, you were making your own suffering more important than anyone else's. And to the Stern, that was yet another corruption that needed to be cut away.
 
 "I am… not important," I whispered, tears spilling from my eyes again.
 
