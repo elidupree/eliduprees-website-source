@@ -271,6 +271,37 @@ I felt a pressure pushing back at me. I could tell what <em>that</em> meant. The
 
 [????? Yali finishes filling the crevice with waste, then flattens it into a road and walks across, eventually cooling down and expressing a more balanced view of the Blood God. In particular, she realizes that if she wants the Waiting God to feel guilt and to change, she has to make that be part of herself, and so making "change in how I feel about the Blood God" is as important as it is problematic]
 
+I had resented the Blood God. I had seen it as getting in my way, interfering with me. My hands began shaking as I realized it. That was how the Waiting God felt. I would never be able to change the Waiting God if my own soul [????? had a tendency to] confirm its [????? prejudices].
+
+There was a great pain behind my eyes. I didn't want this. I had been justified. Every part of my dislike for the Blood God was fully justified. But it didn't matter how justified I was. If I kept fighting against it, the fighting would be part of me. And then the Waiting God would absorb that part of me. And then it would continue the cycle that had nearly killed us both.
+
+If I wanted to win, I would have to do the opposite. Somehow, somehow, I would have to, to <em>value</em> the Blood God's perspective.
+
+I would have to accept its influence. I would have to become more Blood.
+
+<bigbreak>
+
+I was still walking across my ruinous bridge. It was a long way across the chasm. And my eyes had decided to start crying. I kept having to blink the tears away so I could see where I was going. It was making it take extra concentration to keep rolling Rinn along steadily.
+
+Even if I could make myself accept the Blood God… how?
+
+<em>Rinn</em> would know what to do. She was really into this Blood stuff. She'd probably say something like "just feel your feelings!" or "look to your own heart!" like it made perfect sense. But my feelings didn't make sense. If I let them control me, I wouldn't be able to think or get anything done. That was why I had to keep each of them under careful management. If I got upset when I had to do something important, it could destroy everything I had worked for, and then I would have much more to be upset about. Being upset was supposed to mean you <em>didn't</em> want something to happen, so it made no sense to be upset if that would cause more of it.
+
+That was why I ?????. It was like I had told Rinn, months ago now. I had to take each of my feelings out for a drive, in a controlled way, when it was safe. That way I could know their limits. I could know how to put them back away when they were getting in my way.
+
+But that was something to do when it was <em>safe</em>. Not something to do <em>now</em>. ?????.
+
+I kept that thought in my head for a while, mulling it over.
+
+It was wrong.
+
+Now <em>was</em> the time to take my feelings out for a drive. [????? Reasoning involving the Waiting God]
+
+[????? Well, not <em>now</em>. I still should get Rinn to more solid ground]
+
+<bigbreak>
+
+
 
 ?????
 

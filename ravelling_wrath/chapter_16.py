@@ -72,7 +72,7 @@ Yali's voice came ripping from behind me, "I want to hear what the Blood God has
 
 Yali's hand came down heavily on my shoulder. She tried to pull me back to her. I struggled away and fell in the dirt. She yelled after me, "In the Stern God's world, I searched the future for danger and I saw nothing! The Waiting God could have showed me your death, but it didn't! I need to know! What is the Waiting hiding from me?!"
 
-"<em>Everything!</em>" I yelled back involuntarily.
+"<em>Everything!</em>" I yelled back, my voice crying out with none of my control.
 
 "Then tell me! The potion I drank earlier is still protecting me! You cannot kill me even if you try! So tell me!"
 
@@ -82,7 +82,7 @@ All my resistance collapsed like tissue paper. Triumphant power flooded into me 
 
 There it was. The Farseer. The one I hated with the bottom of my heart, the one I kept insisting on loving.
 
-And we were at a standstill. The sorcery around its body gleamed in my second sight, a shield that would set the world itself to block me if I struck against it. I could not pierce that shield, not while I was unable to draw on my true fire. Not while I wouldn't let myself.
+And we were at a standstill. The sorcery around its body gleamed in my second sight, a shield that would set the world itself to block me if I struck against it. I could not pierce that shield, not while I was still divided. Not while I kept holding myself back from drawing on my true fire.
 
 "Say what you must," said my voice.
 
