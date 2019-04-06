@@ -290,6 +290,8 @@ With one hand, I held the unravelling potion at a safe distance to the side. Wit
 
 [????? morrow sticking to saying unrelated stuff]
 
+The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me.
+
 ?????
 
 [????? Rinn mentions that what she's bringing is a potion, which makes Morrow think of alchemist]
