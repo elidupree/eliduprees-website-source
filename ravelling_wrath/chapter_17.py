@@ -256,6 +256,8 @@ As I got closer, the forest swam around me. It felt like the world was unstable,
 
 I was deep in the ravine when I spotted him. He was stumbling along away from me, his feet dragging through the water. As I watched, he wavered off to the side and had to brace himself against a tree, then stumbled back into the middle of the brook again.
 
+Before I approached him, I stowed the unravelling potion behind a rock. Yali had told me to do that. If I carried it with me, Morrow could break it by accident before he decided to drink it.
+
 "Morrow!" I called out.
 
 Morrow must have heard me, because he tried to turn around. But somehow, he only managed to trip over his own feet and go sprawling into the wall of the ravine. I rushed to help him, but almost as soon as he had gone down, he lunged to his feet again, his grinning, battered face swaying towards me.
@@ -282,7 +284,7 @@ But even the grotesque pressure of his powers was little more than a shadow to m
 
 Morrow stumbled right into me, his head bumping in the midst of my soulfire, his face smearing blood onto my shirt.
 
-With one hand, I held the unravelling potion at a safe distance to the side. With the other, I clasped him by the shoulders. I didn't know if he could feel what I felt, but when his blood touched me, it formed a sacred bond between us. In fact, it had come full circle. When we had first met, I had put some of my blood into him. And now, his blood had landed on me as well. We were linked together now, no less than I was linked with Yali.
+I clasped him by the shoulders. I didn't know if he could feel what I felt, but when his blood touched me, it formed a sacred bond between us. In fact, it had come full circle. When we had first met, I had put some of my blood into him. And now, his blood had landed on me as well. We were linked together now, no less than I was linked with Yali or Alchemist.
 
 "Morrow. I know you're in pain. I want you to listen to me. I'm here to help." In the warmth of my soulfire, it was all so simple. The things to say were so obvious.
 
@@ -290,15 +292,31 @@ With one hand, I held the unravelling potion at a safe distance to the side. Wit
 
 [????? morrow sticking to saying unrelated stuff]
 
-The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me.
+The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me. He was a tiny, ?????adjective flame trying to carve out a hole in a huge cloud of fear. And he was also the cloud, trying to drive the flame away from danger and pain. And he was also the pain, trying to scream out to be heard. He was reaching out for… comfort? No, for… safety? No, not even that. [????? He wasn't able to believe in safety.] ????? clinging onto anything that made him feel like he was in control.
+
+[????? Rinn says something reassuring]
+
+[????? Morrow ignores it and pulls Rinn further along, "it's just up ahead!"]
+
+I was pretty sure there wasn't anything up ahead. But [????? I chose to play along, with a reason]
+
+As we walked along together, I watched how he was moving. He jerked along, alternately flinching in pain and lunging forward to compensate. This pain was going to be a problem. As long as the literal, physical pain was overwhelming him, there was no way I could expect him to step back and think about what I had to say. [????? But how could I get him to accept help with the pain if he wasn't listening in the first place]
+
+I held up one of my spray bottles. "Morrow, I've got a healing potion in this bottle. It can heal your wounds, all I have to do is –"
+
+Suddenly, Morrow was listening intently. "A potion! Raylie! You've been with Raylie! Raylie!!!!" Morrow leaned away from me, and I felt a surge of his powers again.
+
+I grabbed onto his head, letting soulfire flow from my hands to stop whatever he was doing. "This is no time for you to reach out for Raylie!" I said firmly. "You hurt them before. If you want to get back your loving relationship with them, you have to understand what you're doing. Otherwise you're just going to hurt them <em>again</em>." I didn't feel like my words were getting through to him. I really needed to do something about the pain. "I'd like to give you this healing potion. All I have to do is spray it on to you. It'll make the pain go away. Is that okay with you?"
+
+"Raylie… Raylie…" he moaned.
+
+I wasn't going to get a direct answer. I wanted to just go ahead and spray him, but I had to be careful. If I made him feel like I was taking away his control, he might cling onto his problems even harder. I had to approach this differently. [????? Something like "I'm going to do it, tell me if there is any reason I shouldn't" – think about what's the best things to acknowledge for consent/etc. reasons]
 
 ?????
 
-[????? Rinn mentions that what she's bringing is a potion, which makes Morrow think of alchemist]
+I sprayed.
 
-"Raylie!!!!" Morrow leaned away from me, and I felt a surge of his powers again.
-
-I grabbed onto his head, letting soulfire flow from my hands to stop whatever he was doing. "This is no time for you to reach for Raylie!" I said firmly. [????? You hurt them/if you want to get them back, you have to acknowledge-to-yourself what happened]
+[????? Physical description – maybe "the clarity potion drift down his face, [making the wounds go away]"/the bruises un-swelled, etc.. Morrow convulsed and went limp, sprawling on the ground]
 
 
 ?????
