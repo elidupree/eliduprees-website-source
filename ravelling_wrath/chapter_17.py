@@ -316,7 +316,7 @@ I wasn't going to get a direct answer. I wanted to just go ahead and spray him, 
 
 I sprayed.
 
-[????? Physical description – maybe "the clarity potion drift down his face, [making the wounds go away]"/the bruises un-swelled, etc.. Morrow convulsed and went limp, sprawling on the ground]
+[????? Physical description – maybe "the cloudy potion dripped down his face, [making the wounds go away]"/the bruises un-swelled, etc.. Morrow convulsed and went limp, sprawling on the ground]
 
 ?????
 
@@ -345,15 +345,13 @@ At least he was still breathing. He didn't look like he was in good shape though
 
 At this point, he'd been lying still for long enough that there probably weren't going to be any more surprises. I lowered my soulfire. That was kind of a relief. Soulfire felt totally amazing, but after feeling totally amazing for a long time in a row, sometimes it felt better to just relax.
 
-?????.
+Now what? We hadn't really talked about what to do <em>after</em> he drank the potion, other than making sure he didn't die. I decided I should probably take him back to the others.
 
 I knelt down and slung him over my shoulders. Carrying him was almost effortless. At first I thought it was because of how skinny he was, but he probably weighed more than me anyway because he was a bunch taller. No, it wasn't about <em>him</em>. It was the Blood God's strength that was helping me.
 
-?????
+The walk back out of the ravine was uneventful. With Morrow's powers gone, it seemed like maybe things could be calm again. At least for now. For now, I just had to make sure not to drop him.
 
-[????? Rinn returning with Morrow]
-
-I saw Yali and Alchemist already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new broad belt with loads of potions hanging from it. ????
+When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new broad belt with loads of potions hanging from it. ????
 
 "What's up with all the gear?" I called out.
 

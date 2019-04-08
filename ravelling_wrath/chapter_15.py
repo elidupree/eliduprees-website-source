@@ -290,24 +290,39 @@ We sat in silence for a while. ?????
 
 "But… he loves me!" said Alchemist. "He wouldn't hurt me! Not like that!"
 
-"He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, you can try to change it, but you can't just pretend it isn't there! You think love will protect you? I have known since I was six years old that love is not enough! If you love someone but you hide from the truth, your love will do NOTHING! Morrow loves you! He would never do anything to hurt you! But when he is taking your mind to pieces, he has no idea how much he is hurting you! He would suffer if he knew, so he hides from it! His love does nothing! And you! You love Morrow, but you want to rush into danger without a plan! You don't want to believe that he would hurt you, so you hide from it! Your love will do nothing – no, less than nothing, it will destroy you! Love will never save you without a plan! So what's your plan, Alchemist?!"
+"He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, you can try to change it, but you can't just pretend it isn't there! You think love will protect you? I have known since I was ?????six years old that love is not enough! If you love someone but you hide from the truth, your love will do NOTHING! Morrow loves you! He would never do anything to hurt you! But when he is taking your mind to pieces, he has no idea how much he is hurting you! He would suffer if he knew, so he hides from it! His love does nothing! And you! You love Morrow, but you want to rush into danger without a plan! You don't want to believe that he would hurt you, so you hide from it! Your love will do nothing – no, less than nothing, it will destroy you! Love will never save you without a plan! So what's your plan, Alchemist?!"
 
+Alchemist hunched over. Their hands were shaking ?????wildly. They sniffled and took quick, shallow breaths.
 
-[????? Alchemist and Yali argue about what to do with Morrow]
+Half glaring at Yali, I offered my arms to Alchemist. Alchemist immediately collapsed onto me, blubbering into my ?????shirt.
 
-"We have to do <em>something</em>," I interrupted. "Otherwise, Justicar is going to kill him."
+"I'm, scared, I, Morrow, Morrow, –"
+
+"It'll be okay. I'm sure we'll think of something," I lied. Inside me, I felt the Blood God's distaste for my lying. Alchemist didn't seem very reassured either.
+
+[????? In my arms, Alchemist looked up at Yali.] "You beat him half to death! I saw, I saw, I saw –" Alchemist panted heavily. "And now you're telling me I can't even help him! I, h-hate, I hate you!!" they sobbed.
+
+Yali looked at them coldly. "A lot of people hate me. What makes you special?"
+
+"Yali, stop it —"
+
+"Morrow's out there, maybe, dying! And you! You! You won't do anything, to, save, –"
+
+"Don't expect me to help save someone who just attacked Rinn –"
+
+While they argued, another thought shot forward in my mind. "We have to do <em>something</em>," I interrupted. "Otherwise, Justicar is going to kill him."
 
 "Well maybe he SHOULD be killed!" Yali snapped back.
 
-"No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, that would totally suck, but at least I'd <em>understand</em> it. But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but I didn't really want to say that in front of Alchemist. I swallowed. Then something else exploded into my head again. Holy shit, how did I not think about Justicar?! I almost jumped back up to my feet again, every part of me tensing up. "Wait, <em>where's Justicar right now?!!</em> Is she coming for us?!"
+"No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, that would totally suck, but at least I'd <em>understand</em> it! But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but Alchemist was still clinging to my ?????shirt, and I <em>really</em> didn't want to hurt them any more. I swallowed. Then something else exploded into my head again. Holy shit, how did I not think about Justicar?! I almost jumped back up to my feet again, every part of me tensing up. "Wait, <em>where's Justicar right now?!!</em> Is she coming for us?!"
 
 "She went on ahead."
 
 "Ahead?"
 
-Yali stared at me exhaustedly. But even as tired as she was, she managed to start explaining. "This is the Broken God's world. The Broken God doesn't have any, any <em>intentions</em> for us, so we can move on to the next world whenever we choose to. Justicar moved on as soon as she arrived. We won't be in danger from her until the next layer."
+Yali stared at me exhaustedly. But even as tired and angry as she was, she managed to start explaining. "This is the Broken God's world. The Broken God doesn't have any, any <em>intentions</em> for us, so we can move on to the next world whenever we choose to. Justicar moved on as soon as she arrived. We won't be in danger from her until the next layer."
 
-I slumped back down. "Well, that's a relief, but… why? The next layer is the Blood God's, I figured she'd tried to kill us here instead of going on the Blood Child's home ground."
+I slumped back down. "Well, that's a relief, but… why? The next layer is the Blood God's, I figured she'd try to kill us here instead of going on the Blood Child's home ground."
 
 "It may be your home ground, but Justicar wants a direct confrontation. The Blood God is the god of direct confrontations. The Broken would, would, would, <em>complicate</em> things. The Broken doesn't believe in right and wrong, or even winners and losers. This world is probably even more uncomfortable for her than it is for me."
 
