@@ -313,7 +313,7 @@ Well, at least I was having the <em>good</em> obsession with Yali instead of the
 
 [????? Cut?: And the more I thought about Yali, the more it woke up the <em>other</em> part of me, too.]
 
-How many days had it been now? Somehow, the time just melted away when I was with Alchemist. And even when the Blood God popped up, its fury was [????? less long words in a row?: undercut with something bittersweet]. Nothing was <em>quite</em> how it should be, but still, somehow, every part of me had agreed to let this happen. Just for a while, to forget the mission, forget the puzzles, and just lean into the warmth.
+How many days had it been now? Somehow, the time just melted away when I was with Alchemist. And even when the Blood God popped up, its fury was also doubtful, mixed with something bittersweet. Nothing was <em>quite</em> how it should be, but still, somehow, every part of me had agreed to let this happen. Just for a while, to forget the mission, forget the puzzles, and just lean into the warmth.
 
 And that's when I first began to notice… <em>it</em>.
 
@@ -411,9 +411,13 @@ I felt the rage inside me subside. It was like the Blood God had given up and de
 
 Yali looked at me seriously. "You've gotten the Blood God's attention."
 
-I smirked. "?????"
+I smirked. "Haha, guess it finally got the idea I won't let it push me around!"
 
-"No, that's very bad. I had hoped that we could get through the whole Ravelling without the Blood God being aware of how actively you were resisting it. But now… I can feel it. Things are shifting. I think it's going to try something. And the other gods are starting to notice a change, too."
+"This isn't just something to be happy about. It could be a great danger. I had hoped that we could get through the whole Ravelling without the Blood God being aware of how actively you were resisting it. But now… I can feel it. Things are shifting. I think it's going to try something. And the other gods are starting to notice a change, too."
+
+I gaped at her. "I thought I was doing a good job!! Does <em>everything</em> I do actually suck?!"
+
+"I'm not, I'm not, not saying you did anything wrong –"
 
 ?????
 
