@@ -322,7 +322,7 @@ While they argued, another thought shot forward in my mind. "We have to do <em>s
 
 Yali stared at me exhaustedly. But even as tired and angry as she was, she managed to start explaining. "This is the Broken God's world. The Broken God doesn't have any, any <em>intentions</em> for us, so we can move on to the next world whenever we choose to. Justicar moved on as soon as she arrived. We won't be in danger from her until the next layer."
 
-I slumped back down. "Well, that's a relief, but… why? The next layer is the Blood God's, I figured she'd try to kill us here instead of going on the Blood Child's home ground."
+I slumped back down. Alchemist and I leaned on each other. Alchemist was quiet again, just shaking and crying on me. I look back to Yali. "Well, that's a relief, but… why? The next layer is the Blood God's, I figured she'd try to kill us here instead of going on the Blood Child's home ground."
 
 "It may be your home ground, but Justicar wants a direct confrontation. The Blood God is the god of direct confrontations. The Broken would, would, would, <em>complicate</em> things. The Broken doesn't believe in right and wrong, or even winners and losers. This world is probably even more uncomfortable for her than it is for me."
 
@@ -338,21 +338,27 @@ Through gritted teeth, Yali replied, "I don't expect you to understand this, but
 
 "Can we <em>not</em> argue about the Stern right now?!"
 
-?????
+"Fine! Let's talk about what we're going to do about Morrow!"
 
-[????? Not sure where: Rinn says something implying that Yali was fine with Morrow before]
+"<em>If</em> we're going to do something about –"
 
-"No. He put me on edge from the beginning."
+"Come on, we can't just abandon him! He was fine before this, we all thought so –"
 
-"But I thought –"
+"No, we didn't."
 
-"I didn't say anything because I wanted to make sure you could tolerate each other! You have no idea how hard it was for me! Keeping you all balanced, making sure none of you three blew up on each other! But if this is what happened, then even that was a…" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not." She took a shaky breath, glaring at the ground. "I just hate to think I did all that work to cover for an abuser."
+"What?"
+
+"<em>You</em> thought he was fine. The <em>rest</em> of us knew he might be dangerous. He put me on edge from the beginning, even before –"
+
+"But – you never – you never said –"
+
+"I didn't say anything because I wanted to make sure you could tolerate each other! You have no idea how hard it was for me! Keeping all three of you balanced, making sure none of you blew up on each other! But if this is what happened, then even that was a mis–" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not." She took a shaky breath, glaring at the ground. "I just hate to think I did all that work to cover for an abuser."
 
 "An… abuser?" The words felt wrong in my mouth. "That's…"
 
-Yali looked dismayed. "You're allowed to have, to have, complicated feelings, about it. But what he is doing is abuse. To you, to Alchemist…"
+Yali looked dismayed. "You're allowed to have, to have, complicated feelings, about it. But what he did is abuse. To you, to Alchemist…"
 
-"But it really <em>isn't</em> like him! He's always been –" I thought back to the second layer. He had always jumped to hurt <em>himself</em>, but he never tried to hurt anyone <em>else</em>, except maybe as a prank. And even then, if I got mad about it, he'd fold over right away – "Wait, that's it! Think about it! He was reading my mind, so he must have known that I was thinking about attacking him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, you know, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him through it! And he still managed to not hurt anyone for, like, two whole layers? Maybe three? We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
+"But it really <em>isn't</em> like him! He's always been –" I thought back to the second layer. He had always jumped to hurt <em>himself</em>, but he never tried to hurt anyone <em>else</em>, except maybe as a prank. And even then, if I got mad about it, he'd fold over right away – "Wait, that's it! Think about it! He was reading my mind, so he must have known that I was thinking about fighting back against him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, you know, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him through it! And he still managed to not hurt anyone for, like, three whole layers? I think? We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
 
 Yali glared at me. But I could see some doubt breaking through to her. Her face almost softened for a moment. But then it tightened up again. She shouted back at me, "Even if I agree to that, how are we going to help him?! <em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– [????? uh maybe a different reason?: Alchemists have all kind of powers, but one way or another, they all have to do with matter! His powers work purely by magic, you can't do anything against them!] And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
 
@@ -366,7 +372,7 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "What's that?"
 
-"If I find him, I'll kill him."
+"If I ?????find him, I'll kill him."
 
 "Oh."
 
@@ -488,7 +494,7 @@ Yali wasn't answering. Right away, part of me felt horribly guilty. I wanted to 
 
 "What?" I followed where Yali was looking, and saw that Alchemist was trying to slip off into the woods.
 
-"I was just going to, maybe, take a walk? I, um, it looks like you two have, maybe, some things to work out." Yali kept glaring at them. "I promise I won't look for Morrow. I know it wouldn't be…" they shuddered. "You can look in the future if you don't believe me."
+"I was just going to, maybe, take a walk? I, um, it looks like you two have, maybe, some things to work out…" Yali kept glaring at them. "I promise I won't look for Morrow. I know it wouldn't be…" They shuddered. "You can look in the future if you don't believe me."
 
 Yali did look in the future. When she came back to the present, all of her sharp insistence had gone dull. "Fine. You can go."
 
