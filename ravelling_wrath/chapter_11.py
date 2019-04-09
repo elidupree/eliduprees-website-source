@@ -30,7 +30,7 @@ Belatedly, I turned my bleeding blade back into a regular arm. I had just been w
 
 Alchemist didn't come out from behind the ladder.
 
-"Okay, fine, I'll just, uh, wait over here until you're ready," I said. I sat down on a big rock a fair distance away and started idly kicking at the sand with my foot.
+"Okay, fine, I'll just, uh, wait over here until you're ready," I said. I sat down on a big rock a fair distance away and started irritably kicking at the sand with my foot.
 
 It really <em>was</em> just sand and rocks around us. The rocks came in all sizes – there was everything from tiny pebbles to huge round balls of rock, half-sunk into the sand but still as tall as we were. And scattered randomly among the rocks, there was the occasional ladder – all looking like some sort of cheap, translucent plastic, and all sticking up straight out of the ground into the air.
 
@@ -40,7 +40,7 @@ It really <em>was</em> just sand and rocks around us. The rocks came in all size
 
 Alchemist giggled a little. A little at a time, they moved out from behind the ladder. Their mouth moved slightly, as if they were trying to say something, but eventually they stopped and we just stood there awkwardly.
 
-"So, what <em>is</em> this place?" I asked. "It doesn't look like the rest of the Endless Maze." Most of this world had been made out of tiny rooms and twisty passageways, with puzzles hidden behind every corner. But right now, we were in the middle of a big landscape, stretching out in all directions. If it wasn't for the ladders sticking up everywhere, it would look completely normal.
+I tried to make conversation. "So, what <em>is</em> this place?" I asked. "It doesn't look like the rest of the Endless Maze." Most of this world had been made out of tiny rooms and twisty passageways, with puzzles hidden behind every corner. But right now, we were in the middle of a big landscape, stretching out in all directions. If it wasn't for the ladders sticking up everywhere, it would look completely normal.
 
 "It doesn't…?"
 
@@ -48,11 +48,9 @@ Alchemist giggled a little. A little at a time, they moved out from behind the l
 
 "I… maybe?" said Alchemist doubtfully.
 
-"Or, wait, what if the <em>Seeking</em> makes different puzzles for each of us? Justicar's puzzles had rigid rules, too. I mean, the rules were a trick, but it was still <em>based on</em> rules, it was, like, built for someone who liked the <em>idea</em> of rules…" ?????
+"Or, wait, what if the <em>Seeking</em> makes different puzzles for each of us? Justicar's puzzles had rigid rules, too. I mean, the rules were a trick, but it was still <em>based on</em> rules, it was, like, built for someone who liked the <em>idea</em> of rules…" Ugh, thinking back to that was going to make me mad. I needed something to do to keep me busy, and Alchemist wasn't really helping with that.
 
-?????
-
-[????? Rinn climbs a ladder]
+I climbed one of the ladders. It was about twice as tall as I was. I sprang upwards. When I got to the top, I straddled the top rung and wove my legs in between the other rungs for balance.
 
 From the top of the ladder, I took a good look around. I couldn't see <em>that</em> far, though. There was a sort of gray fog keeping me from seeing too far in any direction. I strained my eyes, but it was no use. So I looked back down at the stuff around us.
 
@@ -66,9 +64,9 @@ I jumped down from the ladder. "Why are you putting the rocks like that? I mean,
 
 I cheerfully jumped down into a sitting position next to Alchemist. "So, how do you come up with these designs?" I said, picking up one of the stones to look at it. Alchemist flinched. "Oh, uh, was I not supposed to touch that? Let me just put it back." Luckily, I remembered where to put it back. I tried to make more conversation with Alchemist, but they seemed reluctant. "I could give you some space! I mean, if that's what you'd like –"
 
-"I… maybe?" I could tell they were uncomfortable, but I couldn't tell whether they were uncomfortable about saying no or uncomfortable about saying yes, Stern take it. Whatever. I wanted to check this place out anyway, see if there were any more interesting landmarks behind the fog.
+"I… maybe?" I could tell they were uncomfortable, but I couldn't tell whether they were uncomfortable about saying no or uncomfortable about saying yes, Stern take it. Whatever. I wanted to check this place out anyway, to see if there was anything behind the fog that would get us back closer to the others.
 
-"I'll be back soon." I summoned the map. "If I get lost in the fog, I'll just go towards the Cloven Earth." That was the Broken God's symbol, indicating where Alchemist was. "I mean, unless the Seeking God messes with me. But apparently, the Seeking God can mess with me whenever the fuck it wants, so it doesn't make a difference, does it," I said irritably. "So yeah, uh… see you soon."
+"I'll be back soon." I summoned the map. "If I get lost in the fog, I'll just go towards the Cloven Earth." That was the Broken God's symbol, indicating where Alchemist was. "I mean, unless the Seeking God messes with me. But apparently, the Seeking God can mess with me whenever the fuck it wants, so it doesn't make a difference, does it." I scowled. "So yeah, uh… see you soon."
 
 I walked off into the fog, my bare feet rubbing over the sand and stones. The further I walked, the more the cool, damp mist settled on my skin. I kept heading straight in one direction for a while, hoping to find something different. But there was just more sand and stones and ladders. Every so often, I paused to climb up one of the ladders. Climbing up and down was a satisfying workout, but it was still no different than before.
 
