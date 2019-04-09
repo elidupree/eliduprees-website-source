@@ -297,9 +297,31 @@ It was wrong.
 
 Now <em>was</em> the time to take my feelings out for a drive. [????? Reasoning involving the Waiting God]
 
-[????? Well, not <em>now</em>. I still should get Rinn to more solid ground]
+Well, not <em>now</em>. When I did it, it might have physical effects on the world, so I needed to get Rinn to more stable ground first.
+
+?????
 
 <bigbreak>
+
+I sat. I stared.
+
+I hadn't done this in a long time. Ever since I was chosen as the Farseer, I had been entirely focused on how to keep us both alive. Managing Rinn's feelings was important to keep us physically safe, so that was what I had filled my mind with. My own feelings weren't important to that, except when they were relevant to keeping our relationship healthy. So I had held them back for this whole time.
+
+I was already getting a headache. I didn't want to do this.
+
+But the Waiting was in my nature. To achieve my goals, I would always do what I needed to, no matter how painful it was in the moment. And the pain was waiting for me, right in the back of my mind where I had stored it away. All I had to do was bring it forward.
+
+Decisively, I brought it forward.
+
+The sun was glaring in my eyes. It was hard to breathe. There was so much pain in my head, so much emptiness, I didn't know how to handle it. ?????
+
+My eyes were crying again. It hurt. Was this what the Blood God wanted? Was it Blood to just have all this pain? With Blood, the pain was supposed to <em>mean</em> something.
+
+Why? Why did it always have to be me? Why did I have to do all the work when everyone else could only see what was right in front of them? ?????
+
+[????? I was discontent just sitting here]. I wanted something more. What did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the ground, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
+
+[????? Yali eventually figures out how to do it by releasing herself instead of forcing herself, then collapses awkwardly on the bench(?) And it hurts and seems kind of pathetic but then finally a bit of catharsis shows up]
 
 
 

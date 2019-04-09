@@ -328,7 +328,7 @@ I slumped back down. Alchemist and I leaned on each other. Alchemist was quiet a
 
 "What? How is this world uncomfortable? This world is great."
 
-Yali clutched her head in her hands. "Of course it would be comfortable for <em>you</em>. But I, I, constantly feel like it's trying to break down my defenses, like it's trying to make me forget everything I need to do. Not even the Seeking God's world was this uncomfortable for me."
+Yali's whole face tensed up. "Of course it would be comfortable for <em>you</em>. But I, I, constantly feel like it's trying to break down my defenses, like it's trying to make me forget everything I need to do. Not even the Seeking God's world was this uncomfortable for me."
 
 "Are you kidding me!! Not <em>even</em> the Seeking? So the <em>Stern</em> doesn't place at all?!"
 
