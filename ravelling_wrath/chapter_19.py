@@ -347,7 +347,7 @@ After a dozen more futures, I found the one that satisfied me. I forced myself t
 
 Morrow approached me, as I had seen. I caught his hand, keeping it close between us, out of Alchemist's view. I looked in his eyes to make sure I could see the fear there. "Don't speak to me," I said quietly.
 
-I let go of Morrow's hand. He backed away from me. Good.
+I let go of Morrow's hand. He backed away from me. This was going well.
 
 I rolled the wagon close to the portal, where Alchemist was waiting. Alchemist nervously approached and looked at Rinn's head, the only part of her that was sticking out of the foam. Tears filled their eyes.
 

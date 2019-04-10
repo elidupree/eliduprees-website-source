@@ -443,7 +443,7 @@ Yali spoke gravely. "The Blood God is a god of anger, and it has been starving f
 
 "It may be necessary," said Yali gravely.
 
-[?????"Well, fuck." I looked down at my hands. wait no, more aggressive: "Fuck!" I yelled. "[I fight people a lot but I never wanted to actually kill anyone]!"] "<em>May</em> be, though? You think we can get away without a fight?"
+"Fuck!" I yelled. "That's – I mean, you know I'm all about beating the bad guys, but actually <em>killing</em> someone? That's – that's – If you kill someone, they're <em>dead</em>! <em>Dead</em> dead! Please don't tell me that's the only way – wait, you said '<em>may</em> be necessary' – you think we can get away without a fight?"
 
 "The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to [????? take the unravelling potion herself? or just back down?] –"
 
@@ -495,21 +495,39 @@ Yali didn't answer. Instead, she looked out at the world around us. I followed h
 
 "It's okay. I understand."
 
+"Just, be nice to Alchemist, okay?"
+
+"I'll try." Yali sounded regretful. "I, I, wasn't going to make them do it. It was just… a possibility. It wasn't the possibility we were going to <em>choose</em>. I have a feeling it was always going to be about just you and me, in the end."
+
+"Yeah."
+
+I held her hand. ?????
+
 ?????
 
-[?????regretfully?] "I wasn't going to do it. It was just… a possibility."
+[????? We made a lot of plans for what we were going to do in the next layer]
 
 ?????
 
 [????? "Is there anything else we need to discuss before we go to the next world"]
 
-"We still haven't talked about… When I made you do the Controlling Game. When –"
+Yali squeezed my hand. "Pretty soon, we'll want to to meet up with the others and go through the portal. If there's anything we still need to talk about…"
+
+"I… you know what, I actually feel like we've got things figured out! I mean, I'll probably think of something else in like two minutes, but, you know. I think I'm good. What about you?"
+
+"I…" She looked away, then back again. "We still haven't talked about… When I made you do the Controlling Game. When –"
 
 "Oh gods, don't remind me," I said.
 
 "Remember, I, I promised I'd check in with you, to make sure –"
 
-"Uh, yeah, you were totally fine. I was being a huge asshole, I'm glad you stopped me."
+"Uh, yeah, you were totally fine. I was being a huge asshole to Alchemist, I'm glad you stopped me."
+
+"I'm glad to hear you say that," she said heavily.
+
+And just like that, everything was settled.
+
+[????? We met up with the others and left through the portal, with some physical description, and affection between the romantic pairs]
 
 
 ''',
