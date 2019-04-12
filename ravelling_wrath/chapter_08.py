@@ -302,10 +302,27 @@ Yali gently pulled my hand back down. "I can tell one," she said.
 
 <div class="Yali_narration">
 
-This is a story that was told to me by my… mother, when I was very small. It was told to her by her own mother, who first heard it ?????
+This is a story that was first told to me by… my mother, when I was very small. It was told to her by her own mother, who first heard it in… a temple, told by a priest who read it from the archives, written by an unknown hand.
 
+In the early days of the city, before the walls went up, there was a family who oversaw the eastern farmland. And in this family, there was a child. She was a quiet child, and while the other children ran in the fields and played games of knights and clergy, she liked to sit by herself, digging in the dirt with sticks and burying acorns that she found lying on the ground.
 
-[????? Yali tells a story]
+"Why do you always play alone? Why do you bury acorns, like a squirrel?" asked the other children. But she just laughed to herself and kept digging.
+
+Seasons turned from sun to snowfall. [????? Other markers of time passing]
+
+?????
+
+"Why do you ????? [????? Your peers] are finding love, [????? other young adult activities]." But she just smiled and said nothing.
+
+?????
+
+[????? Went all over the city planting seeds]
+
+?????
+
+"Ah," said [????? an old man]. "Now I understand. The city is richer for your work, and you may now relax in the shade of the many beautiful trees you have brought us. But you and I grow old, and time flows swiftly. Every day I see you bend your back to plant another seed, but surely you must know that you may not live to see them blossom."
+
+Just for a moment, she looked up from her shovel, smiled, and said nothing.
 
 </div>
 
