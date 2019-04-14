@@ -82,45 +82,51 @@ Now only my most powerful enemy was left.
 
 How was I going to do this?
 
+
+
  [???? Yali planning to confront the Waiting]
 
 I remembered how Rinn had talked when she was speaking for the Blood God. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. I would have to treat it as if I was trying to change part of <em>myself</em>.
 
 I smiled grimly.
 
-Keeping still and silent, I listened for the Waiting God's presence. The part of me that I listened for when I used the Seeing. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to [????? the best possible outcome].
+Keeping still and silent, I listened for the Waiting God's presence – the part of me that I listened for when I used the Seeing. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to [????? the best possible outcome].
 
 It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
 
-With each new thought, the presence felt weaker. This was too easy. I had to assume it wasn't working. By denying the god directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
+With each new thought, the presence felt weaker. This was too easy. It couldn't possibly be this easy to influence the god, so I had to assume I wasn't influencing it. After a little more thinking, I realized what was really happening. By denying the god directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
 
 To do that, I would have to feel like the Waiting God. But how would I do this? Until now, I had only known what it felt like to listen to the Waiting God. What did it feel like to <em>be</em> the god?
 
 I did not know, but I <em>knew</em>. The Waiting God did not feel the reassurance of inevitability. The Waiting God <em>was</em> inevitability. To be the Waiting God <em>was</em> to watch and wait. To plan. To know. The Waiting God did not obtain knowledge. It <em>reviewed</em> knowledge. Past and future were already united within its soul.
 
-So… I waited.
+So… I waited. The knowledge I wanted would come to me. In fact, it was already here.
 
-The knowledge I wanted would come to me. In fact, it was already here. It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.
+I closed my eyes. I reached out for the Seeing, then allowed my mind to drift. Threads of past and future floated past me, ghosts of other worlds that could have been. In the darkness of my closed eyes, I could still see the Blood God's city around me. Only I could see it even more clearly than before. I saw the buildings and towers from every side at once. I saw the foundations and the insides of the walls. From every brick and beam, more threads trailed off, leading back to the Ravellers, from whose imagination they had formed. The mimicry was so simple, so bold. It was easy to see how Blood had made this. It had chosen these images of ruination, even now, when it had only just begun to weaken. Perhaps it understood what was coming. Yes… it could see the shape of things. This was one of its few virtues. Yet how unfortunate that it could not see as we did.
 
-?????.
+Blood…
 
-The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its current city center on the hill, to the unified metropolis it could one day become.
+It could not see the truth of our city.
 
-?????
+[????? Possibly cut, maybe move: It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.]
 
-Three other forces struggled to guide the city, each with their own shortsighted fragments of wisdom.
 
-The Stern were a foundation. Flawed, at times unnecessarily cruel, but a foundation. Where humanity would not accept our gentle guidance to the proper path, the Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape.
+The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always ?????, it did not always follow where we landed, but we showed it to the shape of what it could be coming, and it would always return to that shape in the end.
 
-The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to delight. Yet they had no power to achieve disaster without a loan of the others' strength. The strength available to them could be regulated, their ingenuity turned to the benefit of all.
+
+Within our oversight, three other forces struggled to guide the city, each with their own shortsighted fragments of wisdom.
+
+The Stern were a foundation. Flawed, yes; at times unnecessarily cruel, yes; but a foundation. Where humanity would not accept our gentle guidance to the proper path, the Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape.
+
+The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to delight. Yet they had no power to achieve disaster without a loan of another's strength. The strength available to them could be regulated, their ingenuity turned to the benefit of all.
 
 But Blood…
 
-Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down. Once they had latched onto something, they refused to let go, even if it went against all that was right. Across history, a trail stood out, a trail of times when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. With the others, we could adapt. When the Stern denied a plan of ours, we could find an imperfect alternative that would be palatable to the Stern, yet serve the same overall purpose. But with Blood, it was as if they could see into our process, and spitefully reject every follow-up we could find, even if it was something Blood would normally accept.
+Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down. Once they had latched onto a design, they refused to let go, even if it went against all that was right. Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. With the others, we could adapt. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overall purpose. But with Blood, it was as if they could see into our process, and spitefully reject every alternative design we unearthed, even if it was a design that Blood would otherwise accept.
 
 ????? [????? Look for inspiration in Blood as the unconscious mind rejecting choices that aren't in your human-selfish interest]
 
-The city was limited, only able to develop in ways that could navigate around Blood's ?????limitations.
+Thus, the city was limited, only able to develop in ways that could navigate around Blood's ?????limitations.
 
 ?????
 
