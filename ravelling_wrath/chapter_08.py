@@ -623,7 +623,7 @@ Yali's eyes drifted into the distance. "Ah… I think there's one of me who's ex
 
 "Why not?"
 
-"Probably for the same reason that even though we have lots of cool technology, not many people get surgery to put it inside their bodies."
+"Probably for the same reason that even though we have lots of amazing technology, not many people get surgery to put it inside their bodies."
 
 "Well <em>that's</em> an image."
 
@@ -635,7 +635,7 @@ Yali hesitated a little. "I think… I think when I use it, I'm not technically 
 
 "Okay, but like… how does the <em>god</em> know the futures?"
 
-"I, I... I actually have no idea. I mean, it's a god, right?"
+"I, I… I actually have no idea. I mean, it's a god, right?"
 
 So there were some things even Yali didn't know. In a way, that was reassuring, but it also made me a little nervous.
 
