@@ -276,7 +276,7 @@ Justicar let out a tiny sigh.
 
 By "those two", he must have meant Yali and Justicar. "What about me?" I said.
 
-"Oh, I don't NEED to read YOUR mind. I can already tell what you're going to do next."
+"Oh I don't NEED to read YOUR mind. I can already tell what you're going to do next."
 
 "Oh yeah? What am I going to do next?"
 
@@ -390,7 +390,11 @@ Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She 
 
 [????? Asking about pronouns]
 
-"We could call you 'they', ?????"
+"????? – uh –" I had been about to call Alchemist "he" because that was the last thing Justicar had said, but… "Uh, Alchemist, what are your pronouns? Like, should we call you 'he' or 'she' or –"
+
+Alchemist's face shifted. I couldn't tell what it meant, but they looked pretty stressed out.
+
+I held up my hands placatingly. "If that's a hard question, that's okay! We could call you 'they', it's, like, gender-neutral, so you don't have to decide on anything, I know gender stuff is hard sometimes –"
 
 Alchemist shrugged uncomfortably. "You can call me whatever you like."
 
@@ -419,6 +423,8 @@ Morrow was being way quieter than usual. ?????
 "Ssshhh! We have to be quiet for Alchemist!"
 
 "<em>You're</em> telling <em>me</em> to be quiet?!!"
+
+"This one hotel had soundproof walls…" Morrow muttered. He spun around, waving his arms and manifesting rows of big walls around the edge of the star, walls with old-fashioned wood paneling and peeling paint. Before he had even finished, some of them fell over with a massive <em>woomph</em>.
 
 [????? Morrow tries to play quietly, tries to make soundproof walls] Since we were on Neenu now, the piles of stuff we'd left on the underside of the last star were gone, and there was lots of space to fill up with new stuff. ?????
 
