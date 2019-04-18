@@ -229,7 +229,7 @@ I took a lot of notes on my phone, too. I wasn't sure if I was going to keep any
 
 <bigbreak>
 
-I had spent enough time in memories. My body was rested again. I forced myself to my feet and began to walk again.
+I had spent enough time in memories. My body was sufficiently rested again. I forced myself to my feet and began to walk again.
 
 Most of the journey was not difficult. I only had to endure the soreness of my legs, from the walking, and my arm, from hauling Rinn in the wagon, and my eyes, from the constant glare that I couldn't block even with a visor. It was all unimportant. What mattered was reaching the black dot in the distance, the final portal.
 
@@ -323,7 +323,7 @@ But the Waiting was in my nature. To achieve my goals, I would always do what I 
 
 Decisively, I brought it forward.
 
-The sun was glaring in my eyes. It was hard to breathe. There was so much pain in my head, so much emptiness, I didn't know how to handle it. ?????
+The sun was glaring in my eyes. It was hard to breathe. There was a lot of pain in my head. A lot of emptiness. I didn't know how to handle it. ?????
 
 My eyes were crying again. It hurt. Was this what the Blood God wanted? Was it Blood to just have all this pain? With Blood, the pain was supposed to <em>mean</em> something.
 
@@ -333,9 +333,25 @@ Why? Why did it always have to be me? Why did I have to do all the work when eve
 
 [????? Yali eventually figures out how to do it by releasing herself instead of forcing herself, then collapses awkwardly on the bench(?) And it hurts and seems kind of pathetic but then finally a bit of catharsis shows up]
 
+I released myself to the impulse.
 
+I tilted over and went down onto my side on the bench. My shoulder was in pain under the weight of my body. ?????. It was hard to hold up my head. I kept holding it up, because otherwise it would be lying on the hard iron of the bench. But… but… I released myself again, lowering my head to the iron. The side of my forehead jammed against the bars. It hurt. My neck hurt from being at a bad angle. Lots of parts of me hurt, too many to process. And I was just lying there. It felt awkward and pathetic. And knowing that I was just lying here, not doing anything about it, made it feel even worse.
 
-?????
+What was the point of all this? I didn't feel Blood at all. There was still just a lot of pain, I hadn't suddenly had any insight that would make it mean something. What was I doing? I had no idea what I was doing.
+
+Rinn would know…
+
+But I had left her unconscious. If only I could still talk to her! Why had I done that?! Because of what I did, I could have lost the only way for me to understand Blood! Pain welled up behind my eyes, tears dropping out between the bars of the bench. Why had I done that?! It had been my own decision, and it could have ruined everything I was trying to accomplish! Again! [????? Summary of her previous mistakes; escalating crying]
+
+Why??!
+
+But I knew why. My Waiting side would never leave me, never let me forget the truth. Even in the depths of my pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> [????? Survival had been the only thing in my mind. Once Rinn was unconscious, neither of us would die. It would finally be over. Everything else could wait until after that.] 
+
+But now that [????? it was over – but more like "I had a chance to think about things that weren't survival", I had found that the were many things I cared about beyond survival.] ?????
+
+I hadn't stopped to think that I might need Rinn as a resource to help me with my emotions. For all the futures I'd considered, the thought hadn't even entered by mind. [????? And now I was suffering for it [except it's not Yali who's suffering per se].] [????? It was true what they say: no matter how many possibilities you consider, you've never considered enough [for the Waiting?]]
+
+ ?????
 
 And along with the portal, the others were already there. Alchemist and Morrow.
 
