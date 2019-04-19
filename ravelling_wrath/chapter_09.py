@@ -226,11 +226,11 @@ The next room was just an empty room, at first. I crossed it and tried to open t
 
 "Okay, fine," I said. I stepped up to one of the pedestals. When I stood near it, it lit up and hummed. Morrow tried poking at it, but it didn't react until he went and stood in front of the <em>other</em> pedestal. And then the real game began.
 
-The whole room lit up with carnival lights. The walls were covered with a projection of the farmyard scene. On the top of my pedestal, four icons appeared: a cow, a sword, a ?????, and a spaceship. It looked like Morrow had similar icons on his. "I think we're supposed to match the icon to the scene!" I said. We both touched the cow icon. A spinning hologram of a cow popped up from each pedestal, with a cheering sound. Moments later, the walls changed to a ocean scene and four new icons popped up.
+The whole room lit up with carnival lights. The walls were covered with a projection of a farmyard scene. On the top of my pedestal, four icons appeared: a cow, a sword, a grand piano, and a spaceship. It looked like Morrow had similar icons on his. Looking at the farmyard scene around me, I said, "I think we're supposed to match the icon to the scene!" We both touched the cow icon. A spinning hologram of a cow popped up from each pedestal, with a cheering sound. Moments later, the walls changed to a ocean scene and four new icons popped up.
 
 "Haha, this is just like a game show!" I said. "Better watch out, I'll beat you!"
 
-We answered the next dozen questions really fast. A lot of them were easy prompts like the first one – it showed us the ocean and you were supposed to pick a fish, and ????? and you were supposed to pick a ?????, and stuff like that. Some of them were trickier – one time the scene was a graveyard and the answer was a sausage, because it was the only one of the icons that was technically dead.
+We answered the next dozen questions really fast. A lot of them were easy prompts like the first one – it showed us the ocean and you were supposed to pick a fish, a basketball court and you were supposed to pick a basketball, and stuff like that. Some of them were trickier – one time the scene was a graveyard and the answer was a sausage, because it was the only one of the icons that was technically dead.
 
 Before long, Morrow got one wrong. A buzzer sounded, the pedestals went dark and the room was empty again. I pumped my fist in the air. "Haha! I won! Take that!"
 
@@ -244,7 +244,7 @@ It turned out that it wasn't a competition at all. We had to <em>both</em> get t
 
 Finally, something popped up that was different than the others. The scene around us was a trash heap, full of absolutely disgusting piles of shit and toxic waste. Even if you <em>liked</em> playing in junk heaps, you wouldn't like this one. But the answers on the pedestal weren't, like, random objects, like usual. One of them was a picture of me. One was a picture of Morrow. One was a picture of me <em>and</em> Morrow. And the last one was a couch.
 
-Well, at least a couch <em>could</em> be trash. Feeling a little uncomfortable, I pressed the couch. As usual, a hologram of a couch popped up above my pedestal. But then the buzzer sounded. I looked towards Morrow, and saw that <em>his</em> choice had been… Morrow.
+Well, at least a couch <em>could</em> be trash. Feeling a little uncomfortable, I pressed the couch. As usual, a hologram of a couch popped up above my pedestal. But then I heard the buzzer go off. I looked towards Morrow, and saw that <em>his</em> choice had been… Morrow.
 
 "What the fuck!" I yelled. "Why would you pick that?"
 
@@ -264,7 +264,7 @@ I gave him a look. What was up with him? The first time, I had thought he was ju
 
 "Oh shut up. I WOULD know something about you if you'd ever TELL me anything about yourself –" The game came back on.
 
-The last few scenes were getting pretty repetitive. Pretty soon, we were at the trash heap again. This time, there were only two possible answers. The second one was the couch, as usual. The first one was the city's sacred crest and the three main temples, their towers gleaming in the sunlight, along with all their holy regalia, and below them, a great feast laid out, with the poor and downtrodden receiving blessings and eating gratefully from the table, and at the very bottom, a tiny picture of Morrow.
+The last few scenes were getting pretty repetitive. Pretty soon, we were at the trash heap again. This time, there were only two possible answers. The second one was the couch, as usual. The first one was the city's sacred crest and the three main temples, their towers gleaming in the sunlight, along with all their holy regalia, and below them, a great feast laid out, with the poor and downtrodden receiving blessings and eating happily from the table, and at the very bottom, a tiny picture of Morrow.
 
 I instantly saw what was going to happen. Before Morrow could move, I smashed my fist into the center of the pedestal, forfeiting the game immediately. "Will you stop that!" I yelled at the god. "It's not cool to poke at someone's insecurities just for your fucking puzzle! I've had enough of this!" I charged at the exit door and stabbed a Blood Blade into it. It cut through the door like it was a piece of cheese. I slashed it a few more times, completely taking it to pieces.
 
@@ -306,7 +306,7 @@ The clock was running at a normal pace. It had a simple, blocky hour hand, and t
 
 "Betcha that means we've got eight hours to solve the puzzle!"
 
-"Yeah, but… what puzzle?" I looked around the room again. It was probably wide enough that we could both lie down on the floor at once, but just barely.
+"Yeah, but… what puzzle?" I looked around the room again. It was probably wide enough that we could both lie down on the floor at once, but only barely.
 
 "Okay, maybe the clock is the puzzle!" Morrow tried to take it down from the wall, but it didn't work. The clock was inset into the wall, and it was covered by a glass panel that was completely smooth with the surface of the wall. Morrow tried to dig his fingernails under it, but they just slid straight from the wall to the glass without catching anywhere. Then he swung his arm as if he was hitting it with a hammer, except he wasn't holding anything. He stared at his hand indignantly, then made the same gesture again.
 
@@ -336,7 +336,7 @@ I could tell denial when I saw it. I leaned back, crossed my arms, and watched h
 
 "Well I don't NEED any HELP!! I'm fine, FINE, FINE!!" He turned and smashed his face into the wall, then reared back to do it again.
 
-"What the fuck!! You can't smash your head on the wall, you'll give yourself brain damage!" I ran and grabbed his hair, yanking him back away from the wall to stop him. He twisted wildly in all directions, trying to get away from me. But even though he was bigger and more frenzied than me, he was pathetically weak. Grappling with him, it felt like he had more bones than flesh. Pretty soon, I had him pinned in a position where at least he couldn't hurt his head anymore.
+"What the fuck!! You can't smash your head on the wall, you'll give yourself brain damage!" I ran and grabbed his hair, yanking him back away from the wall to stop him. He twisted wildly in all directions, trying to get away from me. But even though he was bigger and more frenzied than me, he was pathetically weak. Grappling with him, it felt like he had more bones than flesh. Pretty soon, I had him pinned in a position where at least he couldn't hurt his head anymore.?
 
 "Make it stop, help me, make it stop," he sobbed. "Help me!!"
 
@@ -368,13 +368,15 @@ Morrow snatched my phone out of my hands and immediately started flipping throug
 
 While he was doing that, I idly flipped through his phone, too. He had a <em>lot</em> of games. I didn't recognize most of them, but a bunch of them were ones that I'd mostly seen girls play rather than boys. Interesting…
 
-On the other side of the room, Morrow ?????
+On the other side of the room, Morrow tore through game after game. The only time his fingers weren't darting across the screen was when he was glaring at slow loading screens and crying. He was technically unlocking a lot of free stuff for me in the games, but it didn't feel right. I didn't feel like this was going anywhere good. But I didn't want to interrupt him and make it worse…
 
-????? [????? Morrow waves the phone around and complains]
+Finally, Morrow looked up.
+
+"There's nothing good on here!! These are all BORING games for BORING people!" He waved my phone in the air wildly. "They waste so much time getting to the interesting parts –"
 
 "Okay, I'll have my phone back, then," I said sharply, reaching out to take it.
 
-[????? Morrow keeps speaking upsetly, ignoring Rinn. –"]
+Morrow didn't seem to hear me. "– and you have to do all of these copy-pasted levels just to get ONE new THING! There's supposed to be something THERE!! Who would even –"
 
 I made a grab for the phone. At the same instant, Morrow made a wild gesture with his hand in the air. It all happened faster than I could react. Our arms collided. My phone flew into the air, smacked against the ceiling, then fell and hit the ground with a loud crack before it tumbled and lay still.
 
@@ -404,11 +406,11 @@ I kept standing there and glaring at him. I was too frustrated to really do anyt
 
 Ugh, what would I even do when I got out of here? I shook my head, trying to clear my thoughts. When I tried to piece it together, this thing I'd just been thinking of "doing" was… <em>attacking the Farseer</em>. Stern take it, not that again! Would the Blood God shut up too?! There was nothing I could do to find the Farseer right now even if I wanted to! I gritted my teeth and tried to stop thinking about it.
 
-After a few minutes, I was startled to notice that Morrow still hadn't moved. He was still a total mess, but maybe I'd intimidated him enough to make him stay still for a while. As the minutes dragged on, I started feeling like these hours might be at least a <em>little</em> tolerable. I allowed myself to relax a bit.
+After a few minutes, I was startled to notice that Morrow still hadn't moved. He was still a total mess, but maybe I'd intimidated him enough to make him stay still for a while. As the minutes dragged on, I started feeling like these eight hours might be at least a <em>little</em> tolerable. I allowed myself to relax a bit.
 
 That's when Alchemist walked in through the wall.
 
-"Morrow!!" cried out Alchemist. "I was so afraid when you stopped answering me –"
+I was too startled to react, and Morrow was still cowering. Alchemist was the first to speak. "Morrow!!" they cried out. "I was so afraid when you stopped answering, when I –"
 
 "Raylie!!!" Morrow sprang to his feet, bolted straight towards Alchemist, and hugged them without slowing down, slamming both of them into the wall. Before Alchemist could catch their balance again, Morrow was already yelling in their face. "It's happening again!! Help me, help me, you have to help me!!" Morrow grabbed onto Alchemist's shoulders, shaking violently. Alchemist's face flooded with confusion and distress.
 
@@ -416,7 +418,7 @@ That's when Alchemist walked in through the wall.
 
 "Do the loopy thing," said Alchemist nervously from behind me.
 
-"I CAN'T do the loopy thing because I CAN'T MANIFEST!" Morrow screamed. It didn't look like he was going to try anything, so I stepped back a little.
+"I CAN'T do the loopy thing because I CAN'T MANIFEST!" Morrow screamed helplessly. It didn't look like he was going to try anything, so I stepped back a little.
 
 "What's the loopy thing?" I asked.
 
@@ -470,7 +472,7 @@ I grinned and gave them a thumbs-up. "You go get it!"
 
 Alchemist didn't react for a moment. Then they cringed and sort of curled up on themself. "Oh… I said that out loud…"
 
-"No, it's okay! It's cool!" [????? Rinn slightly panicked]
+"No, it's okay! It's cool!" Shit, I hadn't meant to make them feel bad!! I started kind of panicking a little.
 
 "Oh…" They were still cringing. ?????
 
@@ -478,7 +480,7 @@ And that's when Justicar walked in through the wall.
 
 "There you are," she said to Alchemist. Her eyes quickly scanned the room around us. "I hope I'm not interrupting anything."
 
-"Haha, don't worry, you didn't make things any <em>more</em> awkward," I said.
+"Haha, don't worry," I said, "you didn't make things any <em>more</em> awkward."
 
 ?????
 
@@ -504,13 +506,13 @@ The walls fell open, revealing a black space above and around us. Moments later,
 
 "Wait, we can manifest again now?" I said. "Then that's enough of this bullshit!" Channeling my strength, I manifested away all my bruises.
 
-"If we are all [?????okay]," said Justicar soberly, "then I believe the Alchemist owes us an apology for not moving when we needed him –"
+"If we are all out of danger," said Justicar soberly, "then I believe the Alchemist owes us an apology for not moving when we needed him –"
 
 I stomped in between Justicar and the others. "Alchemist doesn't have to apologize for <em>shit</em>! They were just as surprised as anyone!"
 
 "He was in a position where he could have –"
 
-"<em>And what gives YOU the right to decide who needs to apologize?! YOU?!!</em>" My blood was boiling. I didn't even know why I was so mad. Wait, did that mean this was the Blood God? Ugh, it was definitely the Blood God. As soon as I realized that, my feelings cleared up a bit. "Look," I said to Justicar, "I've just been through a lot of shit. [????? Please just don't mess with me for a while]"
+"<em>And what gives YOU the right to decide who needs to apologize?! YOU?!!</em>" My blood was boiling. I didn't even know why I was so mad. Wait, did that mean this was the Blood God? Ugh, it was definitely the Blood God. As soon as I realized that, my feelings cleared up a bit. "Look," I said to Justicar, "I've just been through a lot of shit. Please, just this one time, just <em>don't</em> make things harder for us, okay?"
 
 Justicar looked a little taken aback. "I was not trying to –"
 
@@ -580,7 +582,7 @@ Well, I wasn't going to pick <em>calmness</em>, that would feel weird if it happ
 
 <em>There ya go! All loopied up!</em>
 
-[????? I mentally adjusted out of the loopy thing. I couldn't tell for sure that it was having its effects, but I was feeling pretty okay]
+<em>Alright, awesome,</em> I thought. Concentrating, I pulled my mind back from the weird headspace Morrow had taken me to. I shook my head and adjusted to being in the real world again. It was hard to tell whether the loopy thing was doing anything right now, but I was feeling pretty okay for the moment, at least.
 
 And then I finally looked around at where we were now. Where the gray box had dumped us when it fell apart.
 
