@@ -266,7 +266,7 @@ How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!
 
 My stomping carried me to the next intersection, to Blood Child's path. The statues stood above me, demanding my submission before I could enter. <em>Admit that you are worthless</em>, they seemed to be saying. "Fine!" I screamed. "I am worthless! I am worth NOTHING!"
 
-The statues stood there disapprovingly. <em>Too much pride,</em> they ?????ed at me.
+The statues stood there disapprovingly. <em>Too much pride,</em> they emanated at me.
 
 "Isn't that what you want?! I am horrible! I am no better than a murderer! Let me through! I have no pride left to throw away!" But the statues were motionless. They repeated their judgment, even stronger this time: <em>Too much pride.</em> I screamed and struggled, trying hopelessly to push my way past, blaming myself for everything I could think of. But they just stood there in different way. Finally, I went limp. I was exhausted and empty.
 

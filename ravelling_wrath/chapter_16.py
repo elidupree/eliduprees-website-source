@@ -52,7 +52,7 @@ Yali struggled and tried to kiss me again, but I kept holding on. Once it sank i
 
 I gripped her shoulders. "Then it's NOT going to happen! Didn't you always say that?! Neither of us is going to die! You'll always have a plan!"
 
-"But my plans, they… I thought I knew what I was doing! But everything I planned… I almost got you killed! And then Morrow – it's all my fault!!"
+"But my plans, they… I thought I knew what I was doing! But everything I planned… I almost got you killed! And then Morrow – this was all my fault!!"
 
 "Come on, <em>Justicar</em> tried to kill me. You <em>saved</em> me. How are you even – wait, just because you didn't foresee it by magic –"
 
@@ -78,7 +78,7 @@ Yali's hand came down heavily on my shoulder. She tried to pull me back to her. 
 
 Yali would be safe…
 
-All my resistance collapsed like tissue paper. Triumphant power flooded into me – the power of the Blood God. Effortlessly, I rose to my feet and stood, straightening up to my full height, turning my face against the thunder. I was still half streaked with dirt, but that was no blemish on my boundless body. I flexed my hand, exulting in every muscle. I drew in a breath, the damp and earthy air exploding into my lungs like a stiff breeze after weeks spent cramped in a room. And then… I looked.
+All my resistance collapsed like tissue paper. Triumphant power flooded into me – the power of Blood. Effortlessly, I rose to my feet and stood, straightening up to my full height, turning my face against the thunder. I was still half streaked with dirt, but that was no blemish on my boundless body. I flexed my hand, exulting in every muscle. I drew in a breath, the damp and earthy air exploding into my lungs like a stiff breeze after weeks spent cramped in a room. And then… I looked.
 
 There it was. The Farseer. The one I hated with the bottom of my heart, the one I kept insisting on loving.
 
@@ -199,19 +199,35 @@ Yali was silent for a time. "I don't know if it <em>can</em> lose."
 
 "Even if we succeed… even if that happens this year…"
 
-[????? Rinn desperate to have the Blood God win, because she's caught up in the realization; Yali wants to focus on this year and save Rinn]
+"It HAS to be! Now that we know – now that we know what's really going on, we've gotta be able to do something about it! We have to strike back!"
 
-?????
+"That's what we would <em>want</em> to happen…" Yali sounded completely drained. "But it's the <em>Waiting God</em>. We have no idea how to hurt it. Even if we did, it's bound to be something incredibly difficult. And we, we… you don't realize how many ways there are still are for us to die. Justicar might kill us. You… well… And I've even seen Morrow destroy your mind in some of the futures, if I don't step in to protect you. Striking back at the Waiting God… we just can't afford to think about that right now."
 
-"This sucks! I don't <em>want</em> my – I don't want Rinn to die, but what about <em>me</em>?"
+"But –"
 
-"[????? Was that you or the Blood God?]"
+"I don't want us to die. We have to focus on staying alive."
+
+I tried to digest that. But I just couldn't. What Yali said was logical, but… every part of me yelled out to reject it. "This sucks!" I yelled. "I don't <em>want</em> my – I don't want Rinn to die, but what about <em>me</em>?"
+
+Yali narrowed her eyes. "'Me' meaning the Blood God?"
 
 "What? Look, <em>I, Rinn,</em> think we need to help the Blood God! You don't know how much pain it's in! Ugh, I can't believe I spent all that time telling it to shut up when it was afraid it was going to be killed!!"
 
+"I, I know you feel that way, but –"
+
+"It's all happening right in front of us! <em>Inside</em> us! How can you talk about just staying alive when it's being killed <em>right in front of us?</em>"
+
+"?????"
+
+"You're seriously going to just let the Waiting get away with it?!"
+
+Yali opened her mouth, then closed it again. She glared into the distance, seeming to have a long fight with herself. I knew I had her. There were a lot of things she could ignore, but <em>letting the Waiting God win</em> wasn't one of them.
+
+"I'm probably making the wrong choice," she said. "Again. But…
+
 ?????
 
-[????? Yali gets convinced, not quite by Rinn's argument but by her own pre-existing grudge against the Waiting, and decides to execute the plan from chapter 19, but says something ambiguous. Perhaps something like "you're seriously going to let the waiting win!?" | Yali seemed to fight with herself, then changed her tune]
+[????? Yali decides to execute the plan from chapter 19, but says something ambiguous]
 
 ?????
 
