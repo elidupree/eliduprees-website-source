@@ -40,7 +40,7 @@ And just when I couldn't take it anymore, when the sensations were about to over
 
 I tumbled onto a padded floor, my arms and legs suddenly coming back to me. I flopped and rolled until I was flat on my back, then stared up dizzily into… At first I thought it was another incoherent kaleidoscope of color. But then I focused in on part of it, and it actually stayed looking how it looked.
 
-Above me, below me, and in every direction around me, there were thousands of brightly colored shapes.???? Curving, multicolored walkways that waggled and twisted to absurd angles, making no distinction between floor, walls, and ceiling. Some of them rippled and undulated, looking like a real challenge to stand or walk on. In other places, hanging spheres swung wildly across the space, shimmering and flashing as they caught the light. And everything felt so <em>close</em> to me. I felt like I could just jump up and land on any of the walkways I wanted.
+Above me, below me, and in every direction around me, there were thousands of brightly colored shapes. Shimmering crystals dancing through the air. Pools of goo bubbling from the walls. Curving, multicolored walkways that waggled and twisted to absurd angles, making no distinction between floor, walls, and ceiling. Some of them rippled and undulated, looking like a real challenge to stand or walk on. In other places, hanging spheres swung wildly across the space, shimmering and flashing as they caught the light. And everything felt so <em>close</em> to me. I felt like I could just jump up and land on any of the walkways I wanted.
 
 I jumped up and spun through the air, landing somewhere that had been upside down when I started. I laughed and jumped again, grabbing and swinging from a giant wheel. It was like one giant playground. As soon as I saw anything, I wanted to reach out and touch it, roll across the rippling floors, swing between the high arches, hang upside down and spin and slide on every surface.
 
@@ -114,17 +114,17 @@ I leapt through a hoop, landing my feet in just the right place to not get tripp
 
 I was almost there! The exit platform was surrounded by a gap of empty space I'd have to jump over, I'd just have to get to the closest point and make a leap for it. I sprinted for that place, keeping an eye out for –
 
-A heavy bag smacked into my side, nearly knocking me off. Shit! I'd gotten here <em>faster</em> than usual, and it had thrown the timing off! I quickly got my balance, but there was a ????? in the way of where I was going, and I didn't have time to wait for it to move before the floor would fall out from under me!
+A heavy bag smacked into my side, nearly knocking me off. Shit! I'd gotten here <em>faster</em> than usual, and it had thrown the timing off! I quickly got my balance, but there was a slow-moving wheel in the way of where I was going, and I didn't have time to wait for it before the floor would fall out from under me!
 
 Running on instinct, I veered off to the side, running for the one spot that still gave me an angle on the exit. It wasn't the best angle, but before anything could mess me up, I got to the edge and made my last giant leap for it. As my body sailed through the air, a hidden tripwire caught on my ankle, almost ruining everything. With a terrific effort, I wrenched my foot away from the wire fast enough for me to keep going and smack down onto the platform. And then – I was <em>there</em>. I was at the final door.
 
-"YES!" I pumped my fist in the air. "I <em>made</em> it! No stupid [????? part of obstacle course] can stop <em>me</em>!" With a flourish, I flung open the tantalizing exit door and stepped through to receive my reward.
+"YES!" I pumped my fist in the air. "I <em>made</em> it! No stupid tripwire can stop <em>me</em>!" With a flourish, I flung open the tantalizing exit door and stepped through to receive my reward.
 
 It was another obstacle course, this one with water everywhere, full of spiral slides and upside-down whirlpools and crisscrossing columns of steam. On another day, I might have thought that was awesome. But all of a sudden, I wasn't feeling it anymore. I slammed my fist into the doorpost. "Look, I did your fucking obstacle course, what more do you want?!" I yelled at the world. "You can't just make me dance all day and expect me to put up with it! Give me Yali, you asshole!" Seriously, the Seeking God was fun, but it was basically my annoying younger sibling that never knew when to shut up. There were times when you had to get serious, but it always just stubbornly kept pulling tricks.
 
 Wait a minute. I didn't <em>have</em> a younger sibling.
 
-I was getting better at recognizing the Blood God's thoughts, I realized. So that was what it thought of the Seeking God? It wasn't wrong, haha. Especially if you counted Morrow – Morrow was the Seeking God's Raveller, and "never knew when to get serious" described him perfectly.
+I was getting better at recognizing the Blood God's thoughts, I realized. So that was what it thought of the Seeking God? It wasn't wrong, haha. Especially if you counted Morrow – Morrow was the Seeking God's Raveller, and <em>never knew when to get serious</em> described him perfectly.
 
 What did the Blood God think of the other gods? I cleared my mind and tried to put myself in the same mental state I'd been in when I thought that stuff about the Seeking God.
 
@@ -206,13 +206,13 @@ Out of nowhere, Morrow yelled, "I'm going to <em>stay on this side of</em> the g
 
 [????? Next there were a bunch more riddles like that.] There was a hallway that stretched out ahead of up as we tried to run along it, until Morrow tried running backwards. [????? One or 2 more examples] It kept going and going. I was getting a little frustrated. I <em>tried</em> to help solve the riddles, but every time, Morrow just hyperactively tried random stuff until something worked. Why didn't <em>my</em> hyperactively trying random stuff count for anything??
 
-[????? Right now we were looking at a load of white and black tiles making a spiral pattern on the walls.]
+Right now, we were in a rectangular room where everything was a black-and-white checkerboard pattern. Or, not quite a checkerboard. It was all black and white tiles, but the tiles on the walls were more of a spiral pattern. I'd been racking my brains to find a meaning to the pattern, but I couldn't see one. Morrow was just goofing off, and he was probably going to solve it before me, no matter how hard I was trying.
 
 When I complained about it, Morrow said, "You can't just try harder! You have to try stupider!"
 
 "I <em>am</em> trying stupider!"
 
-What was the point of me being here if I didn't even get to solve anything? I should have just gone my own way to look for Yali! Irritated, I broke away from Morrow and stomped back the way I came. But somehow, I ended up right in front of Morrow again, watching his stupid face chewing on a massive ?????.
+What was the point of me being here if I didn't even get to solve anything? I should have just gone my own way to look for Yali! Irritated, I broke away from Morrow and stomped back out the door I'd come in through. But somehow, I ended up right in front of Morrow again, watching his stupid face chewing on a massive hunk of meat.
 
 "Argh!!" I yelled. Morrow snickered. I slammed my fist into one of the tiles on the walls. The tile slid back into the wall, and a hidden door opened. "What the fuck? I'm not even trying, and I randomly hit a secret button?!"
 
