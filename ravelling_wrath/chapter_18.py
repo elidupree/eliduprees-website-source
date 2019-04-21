@@ -22,7 +22,7 @@ The Blood God's Gate nestled my body like a hand in a glove.
 
 Only now, I realized that all of the other four Gates had been trying to squeeze my soul through shapes where it didn't fit. But this one was <em>made</em> for me. My blood pumped warmly through my veins. I floated, submerged in a sea of gentle pressure, cradling me and feeding me with strength. I breathed in through every pore of my skin, absorbing its energy. My heart, still stained with worries and pain, began to fill with warm, relaxed, irrepressible power. Once my heart was full, the power overflowed into my chest. Once my chest was full, it overflowed into my limbs. Slowly, it expanded into every fingertip. My hands were ready to ?????. My toes were ready to launch me into a springing leap that would carry me across the soaring sky. It flowed into my neck and shoulders, pushing aside the old tension and leaving my muscles with perfect strength and control. It flowed into my jaw, my tongue, my lips. ?????
 
-And then, when I was completely filled, when my body had received every swallow of fuel it could take, the way ?????slid open. The rest of the Blood God's power pulsed at my back, endless, encouraging, ready to lift me up no matter how many times I fell.
+And then, when I was completely filled, when my body had received every swallow of fuel it could take, the way folded open. The rest of the Blood God's power pulsed at my back, endless, encouraging, ready to lift me up no matter how many times I fell.
 
 Effortlessly, I stepped into the world.
 
@@ -106,9 +106,7 @@ An old part of me felt like saying, <em>how come I don't get any potions?</em> B
 
 Yali drank [????? number] potions, one after another. The power of sorcery sizzled around her. I could feel the shield she'd used in the previous layer. I could feel an aura of strength and speed, and some other things I couldn't recognize. Looking at her with my eyes, I half expected her to look incredibly badass, but she actually looked softer and wiser instead. 
 
-Then she spun and looked me in the eye. "When Justicar gets here, she does something that interferes with my Seeing. It's like a white light that I can't see past. That's not a good sign. But still, remember the plan. If Justicar is willing to talk, stay back and let me do the talking. No matter what she says, just stay calm, keep your hands open, and don't do anything to provoke her.
-
-"And if she attacks us, kill her."
+Then she spun and looked me in the eye. "When Justicar gets here, she does something that interferes with my Seeing. It's like a white light that I can't see past. That's not a good sign. But still, remember the plan. If Justicar is willing to talk, stay back and let me do the talking. No matter what she says, just stay calm, keep your hands open, and don't do anything to provoke her. And if she attacks us, kill her."
 
 "I can do that." I whipped out a Blood Blade, its whole length bright red and blazing with soulfire. I whirled and slashed it through the air, cutting imaginary enemies into dozens of pieces. In the next instant, I let the blade melt back into my body. I opened my hands and let a warm sense of peace flow through me.
 
@@ -120,7 +118,25 @@ I smiled confidently. She just didn't understand. "I didn't switch anything. My 
 
 ?????
 
+[????? Justicar takes her first swing at Yali]
 
+But somehow, her sword didn't go in the right direction. Yali had already sidestepped the blow. In the next instant, Justicar recovered and took another swing. But no matter how many times the sword slashed and stabbed, it didn't come close to Yali at all. Yali just kept calmly stepping out of the way, using small, simple movements to avoid every attack. [????? It was making Justicar look pretty incompetent.]
+
+[????? Intersperse with dealing with Rinn's own stuff:] I realized what was going on. Yali was using the Seeing to see exactly where Justicar was going to attack next. ?????
+
+They were at a standstill. As much as the sword darted and flashed, it had no chance of getting past Yali's attention. On the other hand, Justicar ????verbed, showing no sign of tiring or slowing down. [????? My eyes got lost in the movement]
+
+And then Yali struck.
+
+As Justicar took a swing, Yali surged forward, going right past the sword and slamming into Justicar's chest. In the fraction of a second it took Justicar to regain her balance, Yali grabbed onto her sword arm and heaved, sending her stumbling. With a disciplined motion, Justicar spun around, landing solidly on her feet and facing Yali again. But there was one difference.
+
+Yali was now holding the sword.
+
+Yali held the sword calmly at her side, leaning on the hilt and pressing the razor-sharp point into a stone brick. She gave Justicar a moment to register what had happened. Then she spoke. "I will give you one chance to hear what I have to say," she said.
+
+"Speak quickly," said Justicar tightly. Her hands glowed, lines of light stabbing into the air, ready to unleash some new attack at a moment's notice.
+
+"We have all been deceived," said Yali gravely. "?????
 
 ?????
 
@@ -128,13 +144,13 @@ Our bodies were locked together. For a long moment, we hung in a delicate balanc
 
 ????? It was over. I relaxed into the pain, [????? My blades, including any leg supports] melted away into blood. ?????
 
-And then Yali was there. Her hands heaved Justicar off of me, letting the sun's warming light fall on me. I couldn't move my arms to lift myself, but bent my neck towards her, closing my eyes happily. Yali was here. Everything was going to be okay.
+And then Yali was there. Her hands heaved Justicar off of me, letting the sun's warming light fall on my head and chest. I couldn't move my arms to lift myself, but I bent my neck towards her, closing my eyes happily. Yali was here. Everything was going to be okay.
 
 She knelt beside me. I felt her place one arm behind my back and lift me up into a sitting position, pulling me close to her. "Drink," she said softly, lifting a potion up to my face.
 
 <em>Deception!!</em> cried out a tiny part of me. Was she trying to feed me the unravelling potion?! But that was impossible. If it was the unravelling potion, I would be able to feel its energy, that blinding haze of force that threatened to tear the universe apart. But <em>this</em> potion felt warm and wholesome. It smelled of sweetness and comfort, promising to waft my pain away and carry me home. How could I think this was deception? This was Yali. She was strength. She was safety. She was love.
 
-I raised my neck – the only part of me that I could still move – and let her press the potion to my lips. Its sweetness flooded into my mouth. Its warmth expanded in my chest. One by one, its effects reached each of the pains that were tearing apart my body, and wiped them gently away. And finally, it reached my head, and all of my scrambling thoughts began to fade, leaving me to drift away to a soft and comfortable darkness. ''',
+I raised my neck – the only part of me that I could still move – and let her press the potion to my lips. Its sweetness flooded into my mouth. Its warmth expanded in my chest. One by one, its ?????effects reached each of the pains that were tearing apart my body, and wiped them gently away. And finally, it reached my head, and all of my scrambling thoughts began to fade, leaving me to drift away to a soft and comfortable darkness. ''',
 },
 ]
 

@@ -34,25 +34,29 @@ I looked.
 
 Unspeakable feelings pressed in at the edges of my mind. If I kept looking at this mutilation, I wouldn't be able to stay in control. I would strike Justicar in anger, even though she was already dead. And the tradition was clear: Anyone who defiles a corpse will be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. So I looked away.
 
-I took a minute to pack away the unwanted thoughts. Then I tried again, looking at Rinn the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
+I took a minute to pack away the unwanted thoughts. Then I tried again, looking at Rinn's body the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
 
-The left arm and left leg were positioned at angles that wouldn't be possible if the bones were intact. Most likely, they had been reduced to powder by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody.
+The left arm and left leg were positioned at angles that wouldn't be possible if the bones were intact. Most likely, they had been reduced to powder by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody. Again, I would have to reposition it.
 
-?????
+How would I go about this? What position could I put them in?
 
-In the first aid videos I had seen, they said that you were supposed to put an unconscious person on their side, to make sure they could breathe properly. Did that apply to this situation? If I put Rinn on her side, it would put a lot of weight on one of her shoulders. And <em>both</em> of her shoulders had been crushed. They were being magically healed, but I didn't know if it was possible for them to heal into a deformed position. I checked the future, but the healing process wouldn't be complete until after we returned to the material world, so I couldn't see far enough to be sure.
+In the first aid videos I had seen, they said that you were supposed to put an unconscious person on their side, to make sure they could breathe properly. Did that apply to this situation? If I put the body on its side, it would put a lot of weight on one of the shoulders. And <em>both</em> of the shoulders had been crushed. They were being magically healed, but I didn't know what would happen if they tried to heal while they were still in a deformed position. I checked the future, but the healing process wouldn't be complete until after we returned to the material world, so I couldn't see far enough to be sure.
 
 Could I put her in a different position?
 
-Also, how would I transport her? One way or another, she would have to arrive at the final portal. She was light enough that I could carry her, but if I slipped or jostled her along the way, it could reinjure her.
+Also, how would I transport her? One way or another, she would have to arrive at the final portal. She was light enough that I could carry her, but if I slipped or jostled her along the way, it could reinjure her. It would be better if I found a way to move her while keeping her stable, with padding.
 
-?????
+I considered this for a while. At last, I settled on an idea. Concentrating, I manifested the same rolling hospital bed that we had used in the Stern God's layer. By itself, this wouldn't be suitable for the current layer's cracked and slanted roads, but it was a start. Next, I changed its wheels. Using manifesting, I reshaped them to have big, soft rubber tires, to soften the bumps. Also, relying on one of the old Farseers' memories, I added ratchets to the wheels, so the bed wouldn't roll back down a hill if I lost my grip on it. After a lot of reshaping, I ended up with a sort of bulky wagon with a mattress on top.
 
-[????? Once Rinn is relatively stable, Looking at Rinn's face,] There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam blocks. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. So if I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
+The next thing was to put Rinn on it. I didn't want to hurt her more by trying to lift her directly. So I manifested an inflatable cushion under her body, and slowly inflated it, to lift her up a little at a time. With careful manifesting, I was able to lift her whole body evenly. Once it was up alongside the mattress on the wagon, I manifested another mat under her so I could slide her across.
+
+By the same process, I lifted her into a sitting position in the wagon. To make sure she wouldn't fall, I surrounded her body with stiff foam blocks. I shaped each block around her, so her whole body was nestled in a perfect mold. Once I got the shape right, I made the blocks merge together, and also merged to them into the mattress underneath, so there was one, solid object holding Rinn in place, and it couldn't slip or fall apart.
+
+I stepped back and checked my work. It seemed suitable. Rinn was secure now, with only her head sticking out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. So if I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
 
 Now there was nothing more I could do for Rinn immediately. Maybe now I would have time to think and plan my next move.
 
-Should I find a place to sit? It would not be possible for me to relax, not so soon after Rinn had been in danger. And even if I could, it would make me suffer. As much as I had improved my endurance, I could already feel my muscles burning from the strain of combat. For now, the feeling was kept at a distance, but if I relaxed, it would catch up with me.
+Should I find a place to sit? It would not be possible for me to relax, not so soon after Rinn had been in danger. And even if I could, it would put me in pain. As much as I had improved my endurance, I could already feel my muscles burning from the strain of combat. For now, the feeling was kept at a distance, but if I relaxed, it would catch up with me.
 
 I compromised by manifesting a hard bench and sitting up straight on it. That called back a memory of Szaieto chiding me that it wasn't good for me to be so tense. It was funny to think of such an ordinary thing at a time like this. I allowed myself to be amused, but only for a moment. I had plans to make.
 
@@ -60,17 +64,17 @@ I compromised by manifesting a hard bench and sitting up straight on it. That ca
 
 I had never intended to take the unravelling potion.
 
-When I had foreseen Alchemist approaching with idea of the potion, I had tried many different futures. I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. And provoking the Blood God now wasn't something I was willing to risk. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So if the Blood God rejuvenated and the Waiting God did not, it would be a complete success. A total victory for the Blood God.
+When I had foreseen Alchemist approaching with idea of the potion, I had tried many different futures. I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. And to provoke the Blood God now wasn't something I was willing to risk. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So if the Blood God rejuvenated and the Waiting God did not, it would be a complete success. A total victory for the Blood God.
 
 To me, that wasn't enough.
 
-The Waiting God had <em>allowed</em> its Farseers to die. It had callously sacrificed them, for no more reason than to prove its story that the Blood God was a monster. Rinn's words echoed in my head: <em>I will kill you and kill you and kill you, and when I am gone, you will still be strong.</em> And the Waiting God knew it. The Waiting saw the grand span of time. The loss of a single rejuvenation, in a single year, was nothing to it. And so that loss was nothing to me as well. I was not content to take away only what it had already willingly discarded.
+The Waiting God had <em>allowed</em> its Farseers to die. It had callously sacrificed them, for no more reason than to prove its story that the Blood God was a monster. Rinn's words echoed in my head: <em>I will kill you and kill you and kill you, and when I am gone, you will still be strong.</em> And the Waiting God knew it. The Waiting saw the grand span of time. The loss of a single rejuvenation, in a single year, was insignificant to it. And so that loss was insignificant to me as well. I was not content to take away only what it had already willingly discarded.
 
 What I needed was a way to access the Waiting God directly, [so that I could leave a <em>permanent</em> scar ????? so that the [wounds I dealt to it] would be <em>permanent</em>.].
 
 What I needed… were the threads it had woven into my soul.
 
-And so, here we were. Everything was going according to plan. Justicar was no longer a threat. Rinn… Well, that was one of the things it would be easier not to think about. Working with Alchemist, I had learned that the most powerful healing potions also leave the drinker unconscious, sometimes for days at a time. And when Rinn wasn't with us, I had asked them to heighten that effect even further, just in case. I had sincerely hoped that Rinn wouldn't have to be injured. If she hadn't been, I would have used the Seeing again, to search again for ways the Blood God could be convinced. But this way, at least, everything was simpler. Now Rinn was no longer a threat, no matter what I chose to do. Neither she nor the Blood God inside her would wake until we had already entered the final portal.
+And so, here we were. Everything was going according to plan. Justicar was no longer a threat. Rinn… Well, that was one of the things it would be easier not to think about. Working with Alchemist, I had learned that the most powerful healing potions also leave the drinker unconscious, sometimes for days at a time. And when Rinn wasn't with us, I had asked Alchemist to heighten that effect even further, just in case. I had sincerely hoped that Rinn wouldn't have to be injured. If she hadn't been, I would have used the Seeing again, to search again for ways the Blood God could be convinced. But this way, at least, everything was simpler. Now Rinn was no longer a threat, no matter what I chose to do. Neither she nor the Blood God inside her would wake until we had already entered the final portal.
 
 Now only my most powerful enemy was left.
 
@@ -78,45 +82,51 @@ Now only my most powerful enemy was left.
 
 How was I going to do this?
 
+
+
  [???? Yali planning to confront the Waiting]
 
 I remembered how Rinn had talked when she was speaking for the Blood God. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. I would have to treat it as if I was trying to change part of <em>myself</em>.
 
 I smiled grimly.
 
-Keeping still and silent, I listened for the Waiting God's presence. The part of me that I listened for when I used the Seeing. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to [????? the best possible outcome].
+Keeping still and silent, I listened for the Waiting God's presence – the part of me that I listened for when I used the Seeing. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to [????? the best possible outcome].
 
 It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
 
-With each new thought, the presence felt weaker. This was too easy. I had to assume it wasn't working. By denying the god directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
+With each new thought, the presence felt weaker. This was too easy. It couldn't possibly be this easy to influence the god, so I had to assume I wasn't influencing it. After a little more thinking, I realized what was really happening. By denying the god directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
 
 To do that, I would have to feel like the Waiting God. But how would I do this? Until now, I had only known what it felt like to listen to the Waiting God. What did it feel like to <em>be</em> the god?
 
 I did not know, but I <em>knew</em>. The Waiting God did not feel the reassurance of inevitability. The Waiting God <em>was</em> inevitability. To be the Waiting God <em>was</em> to watch and wait. To plan. To know. The Waiting God did not obtain knowledge. It <em>reviewed</em> knowledge. Past and future were already united within its soul.
 
-So… I waited.
+So… I waited. The knowledge I wanted would come to me. In fact, it was already here.
 
-The knowledge I wanted would come to me. In fact, it was already here. It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.
+I closed my eyes. I reached out for the Seeing, then allowed my mind to drift. Threads of past and future floated past me, ghosts of other worlds that could have been. In the darkness of my closed eyes, I could still see the Blood God's city around me. Only I could see it even more clearly than before. I saw the buildings and towers from every side at once. I saw the foundations and the insides of the walls. From every brick and beam, more threads trailed off, leading back to the Ravellers, from whose imagination they had formed. The mimicry was so simple, so bold. It was easy to see how Blood had made this. It had chosen these images of ruination, even now, when it had only just begun to weaken. Perhaps it understood what was coming. Yes… it could see the shape of things. This was one of its few virtues. Yet how unfortunate that it could not see as we did.
 
-?????.
+Blood…
 
-The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its current city center on the hill, to the unified metropolis it could one day become.
+It could not see the truth of our city.
 
-?????
+[????? Possibly cut, maybe move: It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.]
 
-Three other forces struggled to guide the city, each with their own shortsighted fragments of wisdom.
 
-The Stern were a foundation. Flawed, at times unnecessarily cruel, but a foundation. Where humanity would not accept our gentle guidance to the proper path, the Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape.
+The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always ?????, it did not always follow where we landed, but we showed it to the shape of what it could be coming, and it would always return to that shape in the end.
 
-The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to delight. Yet they had no power to achieve disaster without a loan of the others' strength. The strength available to them could be regulated, their ingenuity turned to the benefit of all.
+
+Within our oversight, three other forces struggled to guide the city, each with their own shortsighted fragments of wisdom.
+
+The Stern were a foundation. Flawed, yes; at times unnecessarily cruel, yes; but a foundation. Where humanity would not accept our gentle guidance to the proper path, the Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape.
+
+The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to delight. Yet they had no power to achieve disaster without a loan of another's strength. The strength available to them could be regulated, their ingenuity turned to the benefit of all.
 
 But Blood…
 
-Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down. Once they had latched onto something, they refused to let go, even if it went against all that was right. Across history, a trail stood out, a trail of times when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. With the others, we could adapt. When the Stern denied a plan of ours, we could find an imperfect alternative that would be palatable to the Stern, yet serve the same overall purpose. But with Blood, it was as if they could see into our process, and spitefully reject every follow-up we could find, even if it was something Blood would normally accept.
+Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down. Once they had latched onto a design, they refused to let go, even if it went against all that was right. Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. With the others, we could adapt. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overall purpose. But with Blood, it was as if they could see into our process, and spitefully reject every alternative design we unearthed, even if it was a design that Blood would otherwise accept.
 
 ????? [????? Look for inspiration in Blood as the unconscious mind rejecting choices that aren't in your human-selfish interest]
 
-The city was limited, only able to develop in ways that could navigate around Blood's ?????limitations.
+Thus, the city was limited, only able to develop in ways that could navigate around Blood's ?????limitations.
 
 ?????
 
@@ -219,7 +229,7 @@ I took a lot of notes on my phone, too. I wasn't sure if I was going to keep any
 
 <bigbreak>
 
-I had spent enough time in memories. My body was rested again. I forced myself to my feet and began to walk again.
+I had spent enough time in memories. My body was sufficiently rested again. I forced myself to my feet and began to walk again.
 
 Most of the journey was not difficult. I only had to endure the soreness of my legs, from the walking, and my arm, from hauling Rinn in the wagon, and my eyes, from the constant glare that I couldn't block even with a visor. It was all unimportant. What mattered was reaching the black dot in the distance, the final portal.
 
@@ -313,7 +323,7 @@ But the Waiting was in my nature. To achieve my goals, I would always do what I 
 
 Decisively, I brought it forward.
 
-The sun was glaring in my eyes. It was hard to breathe. There was so much pain in my head, so much emptiness, I didn't know how to handle it. ?????
+The sun was glaring in my eyes. It was hard to breathe. There was a lot of pain in my head. A lot of emptiness. I didn't know how to handle it. ?????
 
 My eyes were crying again. It hurt. Was this what the Blood God wanted? Was it Blood to just have all this pain? With Blood, the pain was supposed to <em>mean</em> something.
 
@@ -323,9 +333,25 @@ Why? Why did it always have to be me? Why did I have to do all the work when eve
 
 [????? Yali eventually figures out how to do it by releasing herself instead of forcing herself, then collapses awkwardly on the bench(?) And it hurts and seems kind of pathetic but then finally a bit of catharsis shows up]
 
+I released myself to the impulse.
 
+I tilted over and went down onto my side on the bench. My shoulder was in pain under the weight of my body. ?????. It was hard to hold up my head. I kept holding it up, because otherwise it would be lying on the hard iron of the bench. But… but… I released myself again, lowering my head to the iron. The side of my forehead jammed against the bars. It hurt. My neck hurt from being at a bad angle. Lots of parts of me hurt, too many to process. And I was just lying there. It felt awkward and pathetic. And knowing that I was just lying here, not doing anything about it, made it feel even worse.
 
-?????
+What was the point of all this? I didn't feel Blood at all. There was still just a lot of pain, I hadn't suddenly had any insight that would make it mean something. What was I doing? I had no idea what I was doing.
+
+Rinn would know…
+
+But I had left her unconscious. If only I could still talk to her! Why had I done that?! Because of what I did, I could have lost the only way for me to understand Blood! Pain welled up behind my eyes, tears dropping out between the bars of the bench. Why had I done that?! It had been my own decision, and it could have ruined everything I was trying to accomplish! Again! [????? Summary of her previous mistakes; escalating crying]
+
+Why??!
+
+But I knew why. My Waiting side would never leave me, never let me forget the truth. Even in the depths of my pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> [????? Survival had been the only thing in my mind. Once Rinn was unconscious, neither of us would die. It would finally be over. Everything else could wait until after that.] 
+
+But now that [????? it was over – but more like "I had a chance to think about things that weren't survival", I had found that the were many things I cared about beyond survival.] ?????
+
+I hadn't stopped to think that I might need Rinn as a resource to help me with my emotions. For all the futures I'd considered, the thought hadn't even entered by mind. [????? And now I was suffering for it [except it's not Yali who's suffering per se].] [????? It was true what they say: no matter how many possibilities you consider, you've never considered enough [for the Waiting?]]
+
+ ?????
 
 And along with the portal, the others were already there. Alchemist and Morrow.
 

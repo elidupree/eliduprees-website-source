@@ -276,7 +276,7 @@ Justicar let out a tiny sigh.
 
 By "those two", he must have meant Yali and Justicar. "What about me?" I said.
 
-"Oh, I don't NEED to read YOUR mind. I can already tell what you're going to do next."
+"Oh I don't NEED to read YOUR mind. I can already tell what you're going to do next."
 
 "Oh yeah? What am I going to do next?"
 
@@ -390,7 +390,11 @@ Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She 
 
 [????? Asking about pronouns]
 
-"We could call you 'they', ?????"
+"????? – uh –" I had been about to call Alchemist "he" because that was the last thing Justicar had said, but… "Uh, Alchemist, what are your pronouns? Like, should we call you 'he' or 'she' or –"
+
+Alchemist's face shifted. I couldn't tell what it meant, but they looked pretty stressed out.
+
+I held up my hands placatingly. "If that's a hard question, that's okay! We could call you 'they', it's, like, gender-neutral, so you don't have to decide on anything, I know gender stuff is hard sometimes –"
 
 Alchemist shrugged uncomfortably. "You can call me whatever you like."
 
@@ -420,13 +424,13 @@ Morrow was being way quieter than usual. ?????
 
 "<em>You're</em> telling <em>me</em> to be quiet?!!"
 
-[????? Morrow tries to play quietly, tries to make soundproof walls] Since we were on Neenu now, the piles of stuff we'd left on the underside of the last star were gone, and there was lots of space to fill up with new stuff. ?????
+"This one hotel had soundproof walls…" Morrow muttered. He spun around, waving his arms and manifesting rows of big walls around the edge of the star, walls with old-fashioned wood paneling and peeling paint. Before he had even finished, some of them fell over with a massive <em>woomph</em>.
 
-
+That was fine with me. This side of Neenu had felt pretty empty without the massive piles of junk that Morrow and I had left on all the other stars we'd stayed on. Now there was lots of space to fill up with new stuff. Right away, I manifested ?????
 
 ?????
 
-[????? Rinn wins something against Morrow and makes a crown out blood blades to celebrate her victory]
+"That means I win! I totally win." I manifested a huge, spiky crown made of Blood Blades, and set it down on my head. "See this crown? This means I'm the winner, and I –"
 
 "The Blood Blades are not a <em>toy</em>," said Justicar severely.
 
@@ -442,7 +446,7 @@ Justicar's voice softened a little. "Have you never skied before?"
 
 "Yeah!!" added Morrow. "You from ?????region? You some kind of rich person?"
 
-My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from ?????region, living in a luxurious mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth layer like me, either.
+My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from ?????region, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth layer like me, either.
 
 "I will not say I have not had privileges in my life. But no, I am not <em>from</em> ?????region. I simply… was there for a time."
 
@@ -599,7 +603,7 @@ Yali's eyes drifted into the distance. "Ah… I think there's one of me who's ex
 
 "Not exactly. They are only memories. But they do feel like how the person was feeling at the time. So…" She clapped her hands and looked up cheerfully.
 
-"All magic is technically manifesting," she began. "And manifesting is when a soul, or a thread of a soul, exerts its will on matter, or on other souls. The thing that we <em>call</em> manifesting is when a person does this directly, using their own soul as it is, without changing it. Our souls aren't built to influence matter, so this is only possible in the Otherworld. Or if you're a god.
+"All magic is technically manifesting," she began. "And manifesting is when a soul, or a thread of a soul, exerts its will on matter, or on other souls. The thing that we <em>call</em> manifesting is when a person does this directly, using their own soul just as it is, without changing it. Our souls aren't built to influence matter, so this is only possible in the Otherworld. Or if you're a god.
 
 "But there are other ways to use the power of manifesting. The most powerful way is to remove a thread from your own soul, then wind it into the perfect shape to do what you want. This is what we call <em>sorcery</em>. It's very powerful and versatile, but every sorcery has a permanent cost to your soul. Our souls have thousands of threads, so it doesn't ruin you immediately, but you can't cast a new sorcery every day without being changed. So professional sorcerers usually store sorceries in physical objects, so that they can be saved until they're needed, or even reused. If you've ever used a magic wand, that's a sorcery linked to a physical object. So are some potions.
 
@@ -607,17 +611,17 @@ Yali's eyes drifted into the distance. "Ah… I think there's one of me who's ex
 
 "Wait a minute, so every time Alchemist makes a potion, they're permanently sacrificing part of the Broken God?!?"
 
-"No… unlike a human sorcerer, the Broken God can reabsorb the threads after they're used. A human soul is like a big, complex tangle of threads. You can pull one of the threads out of the tangle, but if you tried to put the same thread back exactly where it came from, you wouldn't have a chance. The rest of us can't perform sorcery here even if we know how to, because the gods want our souls fully intact. But the Broken God is, is, is, special.
+"No… unlike a human sorcerer, the Broken God can reabsorb the threads after they're used. A human soul is like a big, complex tangle of threads. You can pull one of the threads out of the tangle, but if you tried to put the same thread back exactly where it came from, you wouldn't have a chance. Here in the Ravelling, the rest of us can't perform sorcery even if we know how to, because the gods want our souls fully intact. But the Broken God is, is, is, special.
 
 "Then there's alchemy. Certain substances have a natural, magical, connection to one of the gods, usually the Broken. And an alchemist – that is, a lowercase-A alchemist – knows how to mix those substances to activate the divine power inside them. So it's technically the god manifesting on the world, just directed by the lowercase-A alchemist.
 
-"Those are the main types of magic. There's a few other terms you might have encountered. When we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So Rinn's Blood Blades, Justicar's sword and armor, and Morrow's, Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something.
+"Those are the main types of magic. There's a few other terms you might have encountered. When we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So your Blood Blades, Justicar's sword and armor, and Morrow's, Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something.
 
 "And a <em>curse</em> is a special type of sorcery that weaves itself into the victim's soul, so that it's very difficult to remove. There are technically also <em>blessings</em>, which are the same except they're for helping the person instead of hurting them, but they're not used very often."
 
 "Why not?"
 
-"Probably for the same reason that even though we have lots of cool technology, not many people get surgery to put it inside their bodies."
+"Probably for the same reason that even though we have lots of amazing technology, not many people get surgery to put it inside their bodies."
 
 "Well <em>that's</em> an image."
 
@@ -629,11 +633,19 @@ Yali hesitated a little. "I think… I think when I use it, I'm not technically 
 
 "Okay, but like… how does the <em>god</em> know the futures?"
 
-"I, I... I actually have no idea. I mean, it's a god, right?"
+"I, I… I actually have no idea. I mean, it's a god, right?"
 
 So there were some things even Yali didn't know. In a way, that was reassuring, but it also made me a little nervous.
 
-I held her hand and waited. ????
+I held her hand and waited. The stars moved slowly around us, some gliding smoothly across the sky, some standing nearly still. It was on routine by now, but since we were getting close to the portal, this would be the last I was going to see of this world… ever. It really made me notice the little things again. In the vastness of space, I couldn't help but think about how many things we still didn't know.
+
+Beside me, Yali was watching Justicar and Morrow. Even they had gone quiet. Morrow had his lips glued to the surface of Neenu under our feet, presumably talking her through the process of moving. Justicar was pressing her eye to the eyepiece of the telescope, looking out ahead of us intently.
+
+At length, Justicar looked up, squinting into the distance.
+
+"We are about to arrive," she said. "The portal star can now be seen from here with the naked eye."
+
+????
 
 
 
@@ -678,7 +690,7 @@ So it was a transparent attempt for the other lovebirds to get some time alone. 
 
 The portal had caught my eye immediately. In the middle of the star we were approaching, there was a simple archway made of the same glowy, white material as the star itself. But when I looked <em>through</em> the archway, I saw… blackness, but it was also like a kaleidoscope. Not a kaleidoscope of color, but of some sort of shimmering energy. It felt like it was drawing me inwards.
 
-"What's woah?" said Morrow. "Isn't that just a doorway?"
+"What's woah?" said Morrow. He had pulled his face off the ground when we got close, saying that Neenu could take it from here. "Isn't that just a doorway?"
 
 "It is the Blood Child's portal," said Justicar. "Naturally, only the Blood Child would be able to see its true form."
 
@@ -688,7 +700,7 @@ Neenu swooped towards the star with the portal on it, and hovered over it in a l
 
 It was funny. When I looked at the portal with my <em>eyes</em>, I just saw solid blackness, like it was a black wall blocking off the doorway. But when I looked with my instincts, it was vibrant. "So I'm going to be stepping into that portal? What even <em>is</em> that thing?"
 
-"It will be a lot like when we were pulled into the Otherworld. Just like the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition is even technically called the Seeking Gate, and the first one was called the Waiting Gate –"
+Yali answered. "It will be a lot like when we were pulled into the Otherworld. Just like the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition is even technically called the Seeking Gate, and the first one was called the Waiting Gate –"
 
 "That's confusing, that's the same as what the physical gates in the city are called!"
 

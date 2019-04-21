@@ -79,13 +79,15 @@ It was supposed to <em>end</em>. There was supposed to be a point where I'd be l
 
 "Do it," said Yali.
 
-Alchemist coaxed a potion out of the air offered handed it to me. With my good hand, I drank it down. It tasted sweet and filling. As soon as it went down, my hand was filled with warmth, wiping away the pain and massaging it back into its original shape.
+Alchemist coaxed a potion out of the air and handed it to me. With my good hand, I drank it down. It tasted sweet and filling. As soon as it went down, my other hand was filled with warmth, wiping away the pain and massaging it back into its original shape.
 
 "Gods, you're the best," I mumbled. I kissed Alchemist without thinking. Wait a minute, I had just kissed Alchemist when I hadn't even kissed Yali! Well, I could fix that. I turned to the other side and kissed Yali too. Yali kissed me back tenderly, then guided me towards Alchemist again. They went back and forth, kissing me in turn.
 
-It only felt ?????loving for a minute. "Fuck, I don't deserve this!" I whimpered. ?????
+It only felt ?????loving for a minute. "Fuck, I don't deserve this!" I whimpered. "Both of you, I shouldn't even be close to you –" I tried to pull away from them again.
 
-"I HAVE TO GO!" I screamed. "I CAN'T BE NEAR YOU! WHAT IF IT HAPPENS AGAIN!?"
+Yali held on tight. "Rinn, <em>no</em>. You're not thinking straight –"
+
+Panic flooded through me. I felt like I'd been sleeping while my house was on fire. How could I just be sitting around right now?! "I HAVE TO GO!" I screamed. "I CAN'T BE NEAR YOU! WHAT IF IT HAPPENS AGAIN!?"
 
 Yali held me down. "I'll be using this Seeing regularly. If anything is going to happen, I'll know. I can take you with me all the way to the portal –"
 
@@ -264,7 +266,7 @@ How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!
 
 My stomping carried me to the next intersection, to Blood Child's path. The statues stood above me, demanding my submission before I could enter. <em>Admit that you are worthless</em>, they seemed to be saying. "Fine!" I screamed. "I am worthless! I am worth NOTHING!"
 
-The statues stood there disapprovingly. <em>Too much pride,</em> they ?????ed at me.
+The statues stood there disapprovingly. <em>Too much pride,</em> they emanated at me.
 
 "Isn't that what you want?! I am horrible! I am no better than a murderer! Let me through! I have no pride left to throw away!" But the statues were motionless. They repeated their judgment, even stronger this time: <em>Too much pride.</em> I screamed and struggled, trying hopelessly to push my way past, blaming myself for everything I could think of. But they just stood there in different way. Finally, I went limp. I was exhausted and empty.
 

@@ -24,7 +24,7 @@ It would have been so easy to just go back to sleep again. ?????. But ?????. My 
 
 I stubbornly clung onto consciousness.
 
-I tried to sit up. It didn't work very well. I just sort of twitched like a dying fish. Getting up was a huge pain. I should just go back to sleep. But I really did need to get up. I needed to pee. [????? Replace: It was a pretty unfamiliar sensation.
+I tried to sit up. It didn't work very well. I just sort of twitched like a dying fish. Getting up was a huge pain. I wanted to just go back to sleep. But I really did need to get up. I needed to pee. [????? Replace: It was a pretty unfamiliar sensation.
 
 Right, that hadn't happened in a while…
 
@@ -54,11 +54,11 @@ Yali knelt down next to me and pulled my limp arm over her shoulder. Once I lock
 
 I almost laughed, but it hurt and I sort of choked instead.
 
-"Wait a minute… wait a minute!!! We're back from the Otherworld?? Oh duh, if I needed to pee then – wait, how –"
+"Wait a minute… wait a minute!!! We're back from the Otherworld?? Oh duh, if I need to pee then – wait, how –"
 
 "I'll explain everything in, in a minute," said Yali, in between trying to keep us both balanced on our feet.
 
-Together, we stumbled into the bathroom. Standing in front of the toilet, Yali shifted awkwardly. "I can, can, give you your privacy, if, if you think you've got, got, –"
+Together, we stumbled into the bathroom. In front of the toilet, Yali paused awkwardly. "I can, can, give you your privacy, if, if you think you've got, got, –"
 
 "I mean, you've seen me naked before –"
 
@@ -132,7 +132,7 @@ I shrugged. "I mean, it was pretty smart. We don't know what the Blood God would
 
 [????? Yali looked at me intently]
 
-"I could feel the other gods all around me. Not just the other four gods, but all the gods from all around the world. But the five of us, we were all, in… our own, special space. And I was, like… I really wanted to know what the Waiting God was going to feel like. And I, looked, or, not <em>looked</em>, but, you know. And it felt like… something. The Waiting God felt…"
+"I could feel the other gods all around me. Not just the other four gods, but all the gods from all around the world, too. But the five of us, we were all, in… our own, special space. And I was, like… I really wanted to know what the Waiting God was going to feel like. And I, looked, or, not <em>looked</em>, but, you know. And it felt like… something. The Waiting God felt…"
 
 [????? Yali looked at me even more intently. It seemed impossible to put into words. I struggled to put it into words]
 
@@ -140,7 +140,7 @@ I shrugged. "I mean, it was pretty smart. We don't know what the Blood God would
 
 [????? Yali was frustrated "we will still have to see"]
 
-"[????? How can you be devaluing your accomplishments?] You did more than anyone could have POSSIBLY expected!! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're beating yourself up because you couldn't make the mountain bag for mercy! ?????"
+"[????? How can you be devaluing your accomplishments?] You did more than anyone could have POSSIBLY expected!! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're beating yourself up because you couldn't make the mountain beg for mercy! ?????"
 
 
 ?????

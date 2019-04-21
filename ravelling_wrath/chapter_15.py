@@ -496,7 +496,7 @@ Yali wasn't answering. Right away, part of me felt horribly guilty. I wanted to 
 
 "I was just going to, maybe, take a walk? I, um, it looks like you two have, maybe, some things to work out…" Yali kept glaring at them. "I promise I won't look for Morrow. I know it wouldn't be…" They shuddered. "You can look in the future if you don't believe me."
 
-Yali did look in the future. When she came back to the present, all of her sharp insistence had gone dull. "Fine. You can go."
+Yali did look in the future. She spent a long time using the Seeing, subtle changes moving across her face. When she came back to the present, all of her sharp insistence had gone dull. "Fine. You can go."
 
 [????? last line leading into the next chapter]
 
