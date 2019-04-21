@@ -484,11 +484,13 @@ And that's when Justicar walked in through the wall.
 
 <bigbreak>
 
-"Ugh, your sword is taking up a lot of space!"
+Time passed. Alchemist and Morrow kept cuddling together, Morrow just barely staying stable. Justicar and I were stuck standing in opposite corners of the room, with hardly enough room to avoid bumping into each other.
 
-"?????"
+"Ugh, your sword is sticking out!" I complained.
 
-"It's manifested, right? Why don't you just unmanifest it?"
+"I'm keeping it as close to myself as I can! The belt isn't designed for –"
+
+"It's manifested, right? Can't you just unmanifest it?"
 
 "To unmanifest an object requires you to mentally dismiss it as unimportant. That is not an attitude I will take towards the Stern God's implements."
 
