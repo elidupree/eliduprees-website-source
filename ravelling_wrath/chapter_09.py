@@ -204,9 +204,9 @@ Out of nowhere, Morrow yelled, "I'm going to <em>stay on this side of</em> the g
 
 "Haha! Better luck next time!" Morrow ran on ahead. I hurried to keep up with him.
 
-[????? Next there were a bunch more riddles like that.] There was a hallway that stretched out ahead of up as we tried to run along it, until Morrow tried running backwards. [????? One or 2 more examples] It kept going and going. I was getting a little frustrated. I <em>tried</em> to help solve the riddles, but every time, Morrow just hyperactively tried random stuff until something worked. Why didn't <em>my</em> hyperactively trying random stuff count for anything??
+The next few things we ran into were more riddles like that one. There was a hallway that stretched out ahead of us as we tried to run along it, until Morrow tried running backwards. Then there was a room where the exit was in the ceiling, and I couldn't jump high enough or manifest a ladder, but Morrow tried just walking up the wall and it worked. Then there was a weird-shaped key and a door with no keyhole, and the door opened when Morrow stuck the key in his mouth and swallowed it. It kept going and going like that. I was getting a little frustrated. I <em>tried</em> to help solve the riddles, but every time, Morrow just hyperactively tried random stuff until something worked. Why didn't <em>my</em> hyperactively trying random stuff count for anything??
 
-Right now, we were in a rectangular room where everything was a black-and-white checkerboard pattern. Or, not quite a checkerboard. It was all black and white tiles, but the tiles on the walls were more of a spiral pattern. I'd been racking my brains to find a meaning to the pattern, but I couldn't see one. Morrow was just goofing off, and he was probably going to solve it before me, no matter how hard I was trying.
+Right now, we were in a rectangular room where everything was a black-and-white checkerboard pattern. Or, not quite a checkerboard. It was all black and white tiles, but the tiles on the walls were more of a spiral pattern. I'd been looking all around to try and find a meaning to the pattern, but I couldn't see one. Morrow was just goofing off, and he was probably going to solve it before me, no matter how hard I was trying.
 
 When I complained about it, Morrow said, "You can't just try harder! You have to try stupider!"
 
@@ -234,7 +234,7 @@ We answered the next dozen questions really fast. A lot of them were easy prompt
 
 Before long, Morrow got one wrong. A buzzer sounded, the pedestals went dark and the room was empty again. I pumped my fist in the air. "Haha! I won! Take that!"
 
-"I'm bored of this game, what's next??" said Morrow.
+"I'm bored of this game, what's next??" said Morrow, already slouching in a chair and eating a bag of crackers.
 
 But the room didn't show us what was next. The exit door was still locked. After about fifteen seconds, the pedestals hummed and glowed again.
 
@@ -292,7 +292,7 @@ Morrow ran for the next room.
 
 <bigbreak>
 
-– and found myself in a tiny gray room.
+<p>– and found myself in a tiny gray room.</p>
 
 I looked around. Everything was gray. The walls were gray. The floor was the same color of gray. The ceiling was, you guessed it, the same gray again. The door we had come in through was… completely gone, turned into just another section of gray wall. In the gray lighting, even me and Morrow looked a bit grayer than usual.
 
@@ -464,13 +464,13 @@ Morrow looked up at me with a little smirk. "This is the only room we've got!!" 
 
 "Not <em>here</em> here! <em>Here!</em>" [????? expand this:] Maybe he was talking about the Otherworld in general. It was easy to forget about it, but the gods' worlds were only part of the whole Otherworld, just like the regular world was a lot bigger than just the city.
 
-[???? cut this: "Also, why would you even know that??" I said. "Wait, never mind, you probably just looked it up because you were curious. Duh."]
+"Anyway," I said, "point is, having sex here is totally no-consequences, so you could totally –"
 
-[????? On the subject of having sex in the Otherworld] "Maybe,… not <em>here</em>? Maybe, somewhere else in the Otherworld?"
+Alchemist interrupted me, staring into space as if they hadn't noticed I was talking. "Maybe,… not <em>here</em>?" they said. "Maybe, somewhere else in the Otherworld?"
 
 I grinned and gave them a thumbs-up. "You go get it!"
 
-Alchemist didn't react for a moment. Then they cringed and sort of curled up on themself. "Oh… I said that out loud…"
+Alchemist kept staring into space for a moment. Then they cringed and sort of curled up on themself. "Oh… I said that out loud…"
 
 "No, it's okay! It's cool!" Shit, I hadn't meant to make them feel bad!! I started kind of panicking a little.
 
@@ -481,6 +481,16 @@ And that's when Justicar walked in through the wall.
 "There you are," she said to Alchemist. Her eyes quickly scanned the room around us. "I hope I'm not interrupting anything."
 
 "Haha, don't worry," I said, "you didn't make things any <em>more</em> awkward."
+
+<bigbreak>
+
+"Ugh, your sword is taking up a lot of space!"
+
+"?????"
+
+"It's manifested, right? Why don't you just unmanifest it?"
+
+"To unmanifest an object requires you to mentally dismiss it as unimportant. That is not an attitude I will take towards the Stern God's implements."
 
 ?????
 
