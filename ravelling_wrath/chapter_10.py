@@ -84,11 +84,19 @@ Alchemist was frozen up and unresponsive, looking down at their hands.
 
 "We have to work together! You may have just made this puzzle unsolvable!"
 
-"No, it's okay!" I said. "I think we can still solve it – like, uh…" I scrambled to find a solution. I hadn't really figured out whether we could solve it, I was just trying to distract Justicar so she wouldn't [????? emotionally hurt] Alchemist. "So, without that wheel, we can't move those two bridges near Alchemist, but we could still, uh… use the central wheel to move those ones over there –"
+"No, it's okay!" I said. "I think we can still solve it – like, uh…" I scrambled to find a solution. I hadn't really figured out whether we could solve it, I was just trying to distract Justicar so she wouldn't keep going off on Alchemist. "So, without that wheel, we can't move those two bridges near Alchemist, but we could still, uh… use the central wheel to move those ones over there –"
 
-"– Which would give us access to the rightmost lever, which, if the pattern continues, should open up the route for the Imminent to reach the left exit," Justicar concluded. "So that is <em>a</em> solution, but it limits our choices –"
+"– Which would give us access to the rightmost wheel, which, if the pattern continues, should open up the route for the Imminent to reach the left exit," Justicar concluded. "So that is <em>a</em> solution, but it limits our choices –"
 
-That's when I realized. Alchemist and Morrow were both on some of the higher walkways, which were mostly disconnected from the rest. Without the wheel Alchemist had just busted, only the two of them could get to the left exit. And only Justicar and me could get to the right exit. "Are you seriously telling me that Alchemist solved the whole rest of the puzzle while we were arguing?! And then figured out which lever to break to make sure they'd get to leave with Morrow?! Shit, Alchemist, you're a genius!" I threw them a thumbs-up. I wasn't even mad that they'd stuck me with Justicar, that was just too brilliant. Now the lovebirds would get to be alone together, for the first time… ever, actually, now that I thought about it.
+That's when I realized. Alchemist and Morrow were both on some of the higher walkways, which were mostly disconnected from the rest. Without the wheel Alchemist had just busted, only the two of them could get to the left exit. And only Justicar and me could get to the right exit. "Are you seriously telling me that Alchemist solved the whole rest of the puzzle while we were arguing?! And then figured out which wheel to break to make sure they'd get to leave with Morrow?! Shit, Alchemist, you're a genius!" I threw them a thumbs-up. I wasn't even mad that they'd stuck me with Justicar, that was just too brilliant. Now the lovebirds would get to be alone together, for the first time… ever, actually, now that I thought about it.
+
+[????? Where in this chapter?
+
+"And why you always call Alchemist 'he'?"
+
+"He said, 'you can call me whatever you like'. Surely I am not being disrespectful."
+
+
 
 <bigbreak>
 
@@ -124,13 +132,21 @@ Justicar considered this for a few paces before answering. "I am… not against 
 
 "You can believe what you like."
 
-[????? A few Blood God thoughts sneak out]
+I hated how she said it like that, like she was automatically right and she was just waiting for me to come around. And a horrible part of me was worried that she was right. Conflicting feelings surged up inside me. One part name was yelling, <em>Not AGAIN! Not ANOTHER thing where I'm going to lose no matter how hard I try!</em> But then it also got swept away by the cool feeling of the loopy thing, flooding my mind with peace. It was reduced to just an echo, a subtle anxiety in the back of my mind, a worry that everything I was doing was going to be for nothing.
+
+I tried to make it go away. Wasn't the loopy thing supposed to make it go away? But it stayed there stubbornly.
+
+Whatever. I could just put up with it. I gave up and kept walking.
 
 <bigbreak>
 
-?????
+Finally, the long walkway came to an end. A huge wall loomed out of the blackness in front of us, extending into shadow both above and below. The walkway just continued right up to the middle of the wall and stopped.
 
-Up ahead of us was a big room where the floor was divided into a square grid, with each square about a meter wide. A lot of the squares had glass walls rising up from them, forming smaller rooms and hallways within the big grid. Other squares were missing, leaving pits going down into the floor. Still other squares had doors, buttons, levers, and other devices I didn't recognize.
+Justicar and I walked up to the wall. While Justicar examined it, I just started cutting it open with my Blood Blades. It turned that there had been a secret door there already, as I discovered when the secret door fell open after I unintentionally cut through its hinges.
+
+With Justicar following me, I stepped over the door into the series of rooms beyond.
+
+The first thing up ahead of us was a big room where the floor was divided into a square grid, with each square about a meter wide. A lot of the squares had glass walls rising up from them, forming smaller rooms and hallways within the big grid. Other squares were missing, leaving pits going down into the floor. Still other squares had doors, buttons, levers, and other devices I didn't recognize.
 
 I pressed my face to one of the glass walls. "I feel like I'm in an aquarium," I said. "Gotta say, the Seeking God's got style."
 
