@@ -144,11 +144,11 @@ What's more, in between talking to the Alchemist, he actually <em>paid attention
 
 "You <em>like</em> them, don't you?" I said. He just kept smiling and stared past me into space. Haha, he was lovestruck for sure.
 
-After a lot more [????? shenanigans communicating with Neenu], they finally got here. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff. Yali spent the whole time half in, half out of the Seeing, making sure Morrow's instructions weren't going to make Neenu crash into us. When she was finally within a few meters of our own star, she zoomed straight towards it, then bumped and bounced against the edge of our star happily.
+After a lot more confusion and miscommunications with telling Neenu where to go, they finally got here. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff. Yali spent the whole time half-in-half-out of the Seeing, making sure Morrow's instructions weren't going to make Neenu crash into us. When she was finally within a few meters of our own star, she zoomed straight towards it, then bumped and bounced against the edge of our star happily.
 
 Happily? How could I tell that she was happy? She was just a solid platform like all the others.
 
-We all rushed to the edge to greet me Alchemist. "Now," Justicar said, "we only need a safe way for the Alchemist to get across to this star."
+We all rushed to the edge to greet me Alchemist. "Now," said Justicar, "we only need a safe way for the Alchemist to get across to this star."
 
 The Alchemist stood nervously at the edge of Neenu, looking across at us and looking down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced.
 

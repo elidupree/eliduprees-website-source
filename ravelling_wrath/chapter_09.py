@@ -474,7 +474,7 @@ Alchemist kept staring into space for a moment. Then they cringed and sort of cu
 
 "No, it's okay! It's cool!" Shit, I hadn't meant to make them feel bad!! I started kind of panicking a little.
 
-"Oh…" They were still cringing. ?????
+"Oh…" They were still cringing. They put their hands over their mouth and started wobbling back and forth.
 
 And that's when Justicar walked in through the wall.
 
@@ -588,11 +588,9 @@ There was a pause. <em>Morrow? You there?</em>
 
 <em>Really bad idea,</em> Morrow repeated. I could feel him thinking of Alchemist somehow. <em>Pick something calmer. Something easy.</em>
 
-Well, I wasn't going to pick <em>calmness</em>, that would feel weird if it happened all of a sudden. Eventually we settled on a feeling of cool, confident pride.
+Well, I wasn't going to pick <em>calmness</em>, that would feel weird if it happened all of a sudden. Eventually we settled on a feeling of cool, confident pride. Morrow messed around with my feelings some more, like he was tying them in knots.
 
-?????
-
-<em>There ya go! All loopied up!</em>
+Before I knew it, I felt like he was done. <em>There ya go! All loopied up!</em> he sent. It was actually kind of anticlimactic.
 
 <em>Alright, awesome,</em> I thought. Concentrating, I pulled my mind back from the weird headspace Morrow had taken me to. I shook my head and adjusted to being in the real world again. It was hard to tell whether the loopy thing was doing anything right now, but I was feeling pretty okay for the moment, at least.
 
