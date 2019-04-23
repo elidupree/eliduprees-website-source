@@ -132,7 +132,7 @@ Justicar considered this for a few paces before answering. "I am… not against 
 
 "You can believe what you like."
 
-I hated how she said it like that, like she was automatically right and she was just waiting for me to come around. And a horrible part of me was worried that she was right. Conflicting feelings surged up inside me. One part name was yelling, <em>Not AGAIN! Not ANOTHER thing where I'm going to lose no matter how hard I try!</em> But then it also got swept away by the cool feeling of the loopy thing, flooding my mind with peace. It was reduced to just an echo, a subtle anxiety in the back of my mind, a worry that everything I was doing was going to be for nothing.
+I hated how she said it like that, like she was automatically right and she was just waiting for me to come around. And a horrible part of me was worried that she was right. Conflicting feelings surged up inside me. One part of me was yelling, <em>Not AGAIN! Not ANOTHER thing where I'm going to lose no matter how hard I try!</em> But then it also got swept away by the cool feeling of the loopy thing, flooding my mind with peace. It was reduced to just an echo, a subtle anxiety in the back of my mind, a worry that everything I was doing was going to be for nothing.
 
 I tried to make it go away. Wasn't the loopy thing supposed to make it go away? But it stayed there stubbornly.
 

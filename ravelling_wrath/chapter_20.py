@@ -289,9 +289,13 @@ I wanted to help, but I wasn't sure how. "I mean, I don't know, I just say what 
 
 [????? Rinn implies something like "we changed the world because of the power of love"]
 
-"I meant what I said to Alchemist. I wasn't just trying to scare them. ????? We succeeded because of our love, yes. But also because we had a plan for how to [????? turn that love into a good result]
+"I meant what I said to Alchemist. I wasn't just trying to scare them. If you hide from the truth, if you don't have a plan, love will do nothing for you. Our love was very important, it was part of why we succeeded, but it wasn't the only part. We also had a plan for how to take that love and –"
 
- ''',
+"– and make it have meaning," I finished.
+
+"- and use it to reach the outcome we wanted," finished Yali.
+
+''',
 },
 ]
 

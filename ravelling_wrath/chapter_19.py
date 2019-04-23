@@ -197,6 +197,8 @@ Many of the tools were already rusted out, and fell apart as I tried to pull the
 
 [????? Yali becomes physically tired of moving up in, and stopped to rest]
 
+, but my body was nearing its limits. Once I had successfully rolled Rinn out beyond the forge, I looked for a place to stop and rest. I selected a hollowed-out shell of a building by the road, and manifested new glass for its broken windows to keep us sheltered from the wind.
+
 It was time to move forward with my <em>other</em> plan.
 
 If I was going to spend time studying the past, I would need to get comfortable. I manifested my familiar reclining chair and sat down. I wasn't comfortable at first. An old wound bothered me. I shifted my position until it was more tolerable. My leg was cramped. I reclined the chair just right to let it relax. My legs itched where they had gotten warm from walking. I concentrated until the itch subsided.
@@ -210,11 +212,11 @@ And then, I began my task. I began to dig up the memories.
 
 If I wanted to know more about the Blood Temple, I would have to search among my memories for what I might know and what I didn't. I attempted to think back to any memories related to the Blood Temple. None appeared. That seemed impossible. Surely, many of the former Farseers had lived in a time when the Blood Temple was still active. Did I have memories from those years? I did. Did I have memories from Farseers who lived in the fifth layer of the city? I did. The main Blood Temple building would have been at the main square of the fifth layer. I had seen a picture of it, in an old book I had found in a back room of the Stern monastery. Could I picture a memory of that temple?
 
-Slowly, an image formed into place. The wide front door, with the Burning Heart emblazoned at the top of its arch. Echoes of the deep pounding of its drums on its festival days. Flickering images of crowds gathered in celebration or rage.
+Slowly, an image formed into place. The wide front gateway, with the Burning Heart emblazoned at the top of its arch. Echoes of the deep pounding of its drums on its festival days. Flickering images of crowds gathered in celebration or rage.
 
 The Waiting God was resisting me. It had hidden the truth for as long as it could, and it would not simply give up now. But it was not in its nature to lie, either. It had shown me a misleading story of the past, and it had lied by omission about the future. But it had never shown me a false vision, and it would not refuse to show me a memory once I asked a specific question.
 
-I kept digging. Many of the Farseers had only known of the blood Temple from a distance. A few were more promising. There was a lawyer who had argued cases in the Blood courts. [????? Other examples]
+I kept digging. Many of the Farseers had only known of the Blood Temple from a distance. A few were more promising. I recalled passing through this gateway as a childcare worker for the Temple, ?????. I recalled passing through this gateway as a farmer coming to stand in prayer for the health of my livestock. I recalled passing through this gateway as a lawyer, coming to argue a case in Blood court.  [????? Other examples]
 
 I decided to investigate the lawyer first. The first thing I felt was his frustration and contempt for the Blood legal system. [????? Shouldn't there be examples of specific memories here?] In Stern court, you only needed to prove, to the satisfaction of the court, that a defendant had violated the law. I – the lawyer – had done that many times. There were many restrictions on the arguments you could make and the evidence you could present, to prevent unjust convictions, but if you studied the law, as I had, you could rely on them to obey consistent rules.
 
