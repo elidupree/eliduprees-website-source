@@ -96,6 +96,7 @@ That's when I realized. Alchemist and Morrow were both on some of the higher wal
 
 "He said, 'you can call me whatever you like'. Surely I am not being disrespectful."
 
+I couldn't find a whole and that logic. But it didn't <em>feel</em> respectful.
 
 
 <bigbreak>
