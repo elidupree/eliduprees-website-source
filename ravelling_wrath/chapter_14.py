@@ -360,6 +360,8 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 "You've only ever seen what I'm like when I'm with <em>you</em>," she said simply.
 
+[????? Somewhere, clarify that the reason for the hiding from Chapter 2 was that if the waiting Temple knew about Yali being the Farseer, they would nonconsensually bring her in to train]
+
 ?????
 
 [????? Somewhere: Justicar has gone through the portal. Maybe "suddenly Yali looked relieved"]

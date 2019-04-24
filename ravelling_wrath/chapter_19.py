@@ -62,15 +62,17 @@ I compromised by manifesting a hard bench and sitting up straight on it. That ca
 
 <bigbreak>
 
-I had never intended to take the unravelling potion.
+I had never intended to drink the unravelling potion. I had made sure it was created, but not for the reasons I had let on. I had done it because it gave the Blood God something to hope for. The potion's existence meant that Rinn could believe in a simple solution, so that the Blood God would not resist what we were doing. It was one less complication in a situation where our lives were already at stake.
 
-When I had foreseen Alchemist approaching with idea of the potion, I had tried many different futures. I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. And to provoke the Blood God now wasn't something I was willing to risk. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So if the Blood God rejuvenated and the Waiting God did not, it would be a complete success. A total victory for the Blood God.
+The first time I had foreseen Alchemist approaching with idea of the potion, my first thought had been to make Rinn drink it. But after I heard the Blood God's side of the story, after I heard that the Waiting God's <em>goal</em> was to prevent the Blood God from rejuvenating, I couldn't accept an outcome that would let the Waiting God succeed. And then, of course, my next thought had been to drink it myself, to starve the Waiting God. But in the end, I couldn't accept that either.
+
+In many different futures, I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So if the Blood God rejuvenated and the Waiting God did not, it would be a complete success. A total victory for the Blood God.
 
 To me, that wasn't enough.
 
 The Waiting God had <em>allowed</em> its Farseers to die. It had callously sacrificed them, for no more reason than to prove its story that the Blood God was a monster. Rinn's words echoed in my head: <em>I will kill you and kill you and kill you, and when I am gone, you will still be strong.</em> And the Waiting God knew it. The Waiting saw the grand span of time. The loss of a single rejuvenation, in a single year, was insignificant to it. And so that loss was insignificant to me as well. I was not content to take away only what it had already willingly discarded.
 
-What I needed was a way to access the Waiting God directly, [so that I could leave a <em>permanent</em> scar ????? so that the [wounds I dealt to it] would be <em>permanent</em>.].
+What I needed was a way to access the Waiting God directly. A way to exert my own will directly onto its existence, so that the marks I made there would be <em>permanent</em>.
 
 What I needed… were the threads it had woven into my soul.
 
@@ -82,23 +84,23 @@ Now only my most powerful enemy was left.
 
 How was I going to do this?
 
+I would need to access the Waiting God's threads within me. But I was not yet certain how to do that. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. The Watchful Eye power was more of a use of the god's magic under my direct control, but even that had felt more like… more like <em>performing a protocol</em> to access the god's magic.
 
+<em>Rinn</em> had fully connected with <em>her</em> god. How had she done it? It was probably easier with the Blood God, for more than one reason, but there might still be something I could learn from it.
 
- [???? Yali planning to confront the Waiting]
-
-I remembered how Rinn had talked when she was speaking for the Blood God. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. I would have to treat it as if I was trying to change part of <em>myself</em>.
+Thinking back, I remembered how she had talked when she was speaking for the Blood God. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. I would have to treat it as if I was trying to change part of <em>myself</em>.
 
 I smiled grimly.
 
-Keeping still and silent, I listened for the Waiting God's presence – the part of me that I listened for when I used the Seeing. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to [????? the best possible outcome].
+Thinking of it this way, it wasn't so different from the Seeing after all. Keeping still and silent, I listened for the Waiting God's presence. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to my chosen outcome.
 
 It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
 
 With each new thought, the presence felt weaker. This was too easy. It couldn't possibly be this easy to influence the god, so I had to assume I wasn't influencing it. After a little more thinking, I realized what was really happening. By denying the god directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
 
-To do that, I would have to feel like the Waiting God. But how would I do this? Until now, I had only known what it felt like to listen to the Waiting God. What did it feel like to <em>be</em> the god?
+To do that, I would have to feel like the Waiting God. Once again, I was uncertain. Until now, I had only known what it felt like to listen to the Waiting God. What did it feel like to <em>be</em> the god?
 
-I did not know, but I <em>knew</em>. The Waiting God did not feel the reassurance of inevitability. The Waiting God <em>was</em> inevitability. To be the Waiting God <em>was</em> to watch and wait. To plan. To know. The Waiting God did not obtain knowledge. It <em>reviewed</em> knowledge. Past and future were already united within its soul.
+I did not know, but I <em>knew</em>. The Waiting God did not feel the reassurance of inevitability. The Waiting God <em>was</em> inevitability. To be the Waiting God <em>was</em> to watch and wait. To plan. To know. The Waiting God did not obtain knowledge. It <em>reviewed</em> knowledge. Past and future were already united within its being.
 
 So… I waited. The knowledge I wanted would come to me. In fact, it was already here.
 
