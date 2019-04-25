@@ -384,33 +384,35 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "Well, can you at least, like, help us figure out something to do? I mean, you're the one who's good at planning –" Yali glared at me so hard I was actually scared for a moment. "I mean, and, like, you're the one with the Seeing, you can't <em>not</em> help us –"
 
-[????? This doesn't work because she must have checked in order to one Alchemist – "I know I <em>should</em>. And I haven't checked it since before…" She sighed and looked into the future. Then her eyes widened. "He spilled his thoughts all over the place."]
+"I know I <em>should</em>. And I haven't checked it since…" She sighed and looked into the future. Then her eyes widened a little. "Oh, I forgot this, because it wasn't the most important thing at the time… Morrow spilled his thoughts all over the place."
 
 "He <em>what</em>?"
 
-"His powers must have gone out of control! His memories are literally here in the air around us, I can see them when I use the Seeing."
+"It must be an effect of his powers going out of control. His memories are literally here in the air around us. I can see them when I use the Seeing."
 
 "That's great!" I said. "Maybe that'll tell us a way to get through to him –"
 
 "This feels, this feels, invasive…" Yali muttered. Then she shouted herself down – "HE DIDN'T WORRY ABOUT BEING INVASIVE WHEN HE WAS IN RINN'S MIND!!"
 
-?????
+I didn't know how to feel about that. Before I could think of anything to say, Yali was already doing it. Her eyes glared into the unreal with a razor-sharp focus. It was so intense that it made me instinctively follow where she was looking, but of course, she was looking at something the rest of us couldn't see. Her eyes kept refocusing at slightly different angles, as if she was scanning through thousands of images.
 
-[????? Change this so that Yali is already using her cold ego state for it – overall more brutal and uncaring:] A look of barely restrained horror grew on her face. Before long, she shook herself out of the Seeing. "I, I, I, I knew he might have been abused, but not like this! This is so much worse, he was abused so much worse than I was –"
+As she looked, a twisted expression grew on her face, halfway between a grimace and a cruel smile. When she finally spoke, her voice was sharp and unfeeling. "Wow," she said, "he was abused even worse than I suspected. Worse than I was, even."
 
 "You too?" gasped Alchemist. So they had known about Morrow already…
 
-"The memories, they're all mixed up with, with… So that's why he didn't fight back… He must have been having a flashback to being beaten by, by, by, that must be his father…"
+Yali barely seemed to notice them. Even when she spoke, her eyes had stayed focused on that other space. She was only giving us updates, not returning to us.
+
+"The memories, they're all mixed up with, with… So <em>that's</em> why he didn't fight back. He must have been having a flashback to being beaten by, by, by, that must be his father…"
 
 As Yali spoke, Alchemist wrung their hands, overwhelmed with anxiety. Wordlessly, I offered them a hug. They collapsed onto me. We leaned into each other, clinging to human warmth in the face of the cold truth. It was killing me that Alchemist had to hear this stuff. "You know," I murmured, "if you don't want to hear this, I'm sure me and Yali could –"
 
 "No. I know. I'm listening too."
 
-Across from us, Yali continued talking. She had turned cold again, brutally matter-of-fact. "It wasn't just beatings. His father locked him in his room and starved him for days at a time, which I already suspected. He constantly berated him, calling him worthless trash. More than once, he nearly drowned him, to the point that he was coughing up water.
+Across from us, Yali continued talking. The hint of cruelty was gone. She had turned cold again, brutally matter-of-fact. "It wasn't just beatings. His father locked him in his room and starved him for days at a time. I had suspected something like that. He constantly berated him, calling him worthless trash. More than once, he nearly drowned him, to the point that he was coughing up water.
 
-It is difficult to find a clear story in something as disorganized as this. I believe that Morrow avoids thinking about his own past. He has never organized his memories as I do, or even as most of us do. But I will put it together as well as I can.
+"It is hard to get a clear view of the rest of his life. I am used to looking through the old Farseers' memories, but this is much less organized. We Farseers have more organized minds than most people, but I believe Morrow is much worse than even a normal person. It's probably because he avoids thinking about his own past. He never looks back and makes the connections between his different memories. ????? I will have to make the connections myself.
 
-Morrow was an unwanted child. His mother was terrified of his father, and never did anything to stand up to him. And his father viewed him as an object to be used. ????? a series of 'uncles', who molested him. It seems that his father sold him to them as a –"
+"I assume that Morrow was an unwanted child. His mother was terrified of his father. I see her being too afraid to stand up to him even in the smallest way. And Morrow's father treated Morrow as an object to be used. I see him bringing Morrow to a series of 'uncles', who molested him. It seems that his father sold him to them as a –"
 
 "That's too much!" I blurted out, horrified, still holding on tight to Alchemist. "How could so many horrible things happen to one person –"
 
@@ -418,15 +420,19 @@ Morrow was an unwanted child. His mother was terrified of his father, and never 
 
 "That hurts," I said.
 
-Yali talked over me. "During that time, there was one thing he reached for to give him a break from the suffering. Whenever he was alone, he was constantly curious. ?????
+Yali talked over me, her eyes already flicking back into the memories. "During that time, there was one thing he reached for to give him a break from the suffering. Whenever he was alone, he was constantly curious. ?????
 
 "Oh gods… even his curiosity is a coping strategy?"
 
 "A coping strategy? The way his mind lights up when he is experimenting with something, it's genuine excitement. I don't think you could feel that way if you were only using it as a coping strategy. He certainly <em>used</em> it to cope, but, but, I think it's just inherently how he is. He built with the pieces that were left to him.
 
-He ran away from home, at least, at least, four different times. One time the police found him and brought him home. And after the police had gone, well, that is one of the times his father nearly killed him. He begged strangers to take him in, ?????
+I see him running away from home. I see, I see… more than one version of it? He must have run away at least, at least, four different times. I see the police finding him and bringing him home. And after the police have gone – that is one of the times his father nearly killed him. I see him begging strangers to take him in. Some of them threaten him and chase him away from their doors. Some of them sympathize but still turn him away. Some –"
 
-The last time he ran away, he finally succeeded, living on the streets and hiding from anyone who might try to take him home. Even the iciest street felt like freedom to him. Sometimes. He alternated. Sometimes he was very happy to simply experience life for himself without any abuser hovering over him. Other times, he could not get away from the cold and hunger. To survive, he became – he became – he – well, the word HE used was 'Defiler', but –"
+"The Blood Temple would have taken him in!" I said bitterly, instinctively.
+
+"– Some of them ask where his parents are, and those are the scariest of all.
+
+"One of the times he ran away, he must have finally succeeded. I see him living on the streets and hiding from anyone who might try to take him home. I see an icy street feeling like freedom to him. Sometimes. He alternates. Sometimes he is very happy to simply experience life for himself without any abuser hovering over him. Other times, he can't get away from the cold and hunger. To survive, he became – he became – he – well, the word HE used was 'Defiler', but –"
 
 "Oh! I, uh, I think you can say 'sex worker'." <em>Defiler</em> was the common word for sex workers in the city, but some people considered it really derogatory. Which made sense, since it basically lumped them in with people who vandalized temples and pissed on altars. Not that I had a problem with anyone pissing on a few altars, especially if they were Stern altars, but anyway. Some uptight Stern types acted like any kind of casual sex was <em>defiling the honor given to you by the gods</em> ?????
 
@@ -436,7 +442,7 @@ So. Morrow was a sex worker? I felt like I should be surprised, but nothing woul
 
 "Holy shit, do you think Justicar knew?!" I exclaimed.
 
-"What?"
+Yali's eyes flicked back out of the memories to focus on me for a moment. "What did you say?"
 
 "It was practically the first thing she said to him! '<em>If you <strong>defile</strong> anyone's mind, your life is forfeit</em>'! You think she was hinting at…?"
 
@@ -452,11 +458,31 @@ So. Morrow was a sex worker? I felt like I should be surprised, but nothing woul
 
 "'When he was older'… fuck, this all happened when he was still a <em>kid</em>?"
 
-"I'm not, not sure. They're <em>his</em> memories, I can't see him directly. I think he might be… early teens? Not so much older than I was when I went to the police.
+"I'm not, not sure. They're <em>his</em> memories, I can't see him directly. I think he might be… early teens? Not so much older than I was when I went to the police. But then…" I heard a hint of doubt creep into Yali's voice. "…then, he and I have a lot in common… We both had to escape our families around the same age, we both had to figure out what to do all by ourselves…" ????? "<em>But I didn't abuse anyone else after I got out!</em> He's nothing like me!"
+
+Yali went quiet, frowning.
+
+
+
+
 
 ?????
 
-[????? somewhere: "am I the only one of us who has a good relationship with my parents?" "I mean, I think Justicar, like, <em>approves</em> of her parents. I'm pretty sure they were actually horrible to her though."]
+Into the silence, Alchemist mumbled something.
+
+"What's that?" I said.
+
+"Am I the only one, of us five, who has, a good relationship with my family?"
+
+"I mean, mine's not <em>bad</em>. Sure, Mom and Dad are Stern hypocrites and they kinda suck about me being gay, but I still love the guts outta them."
+
+"Oh…"
+
+"Okay, maybe that <em>is</em> a little bad. Wow, it's really just you then. Shit."
+
+"Maybe," said Yali distractedly. "They did say <em>us five</em>. We don't know about Justicar."
+
+"I actually do, she told me a lot about herself back in the second layer. I think she, like, <em>approves</em> of her parents. I'm pretty sure they were actually horrible to her though."
 
 ?????
 
