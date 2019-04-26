@@ -510,22 +510,17 @@ Yali looked dismayed. "I, I know the police aren't always, aren't always, don't 
 
 The words hung in the air between us.
 
-Yali wasn't answering. Right away, part of me felt horribly guilty. I wanted to say, <em>Oh gods, I'm sorry, I didn't mean it!</em> But another part of me, thundering right behind my heart, refused to back down. I surged to my feet, carelessly bumping Alchemist off to the side. "?????! And you think the police '<em>don't always treat everyone well</em>'?! You haven't got a fucking clue what it's like!
+Yali wasn't answering. Right away, part of me felt horribly guilty. I wanted to say, <em>Oh gods, I'm sorry, I didn't mean it!</em> But another part of me, thundering right behind my heart, refused to back down. I surged to my feet, carelessly bumping Alchemist off to the side. "Teachers or not, they're still Stern! The moment someone steps out of line, you can say goodbye to your 'caring about kids', their job is to beat us down! Try growing up in the fifth layer and thinking the Stern were ever on our side! Bet you've never seen a kid get dragged out of class, humiliated in front of everyone, just for wearing the wrong kind of braids! Because I have! And you think the police '<em>don't always treat everyone well</em>'?! You haven't got a fucking clue what it's like!" I was being a little hypocritical there, because "you haven't got a clue what it's like" was actually what some other kid had said to me sometime when I was making jokes about getting arrested. But now, it felt so real. "Just because the cops were on your side once, you think – no, you probably <em>grew up</em> thinking they were the good guys! You're just like Justicar, you've got some fucked-up idea like the Stern would be fine if they just obeyed their own rules all the time! But that's not how it works! Every part of the Stern is a violation! From Justicar trying to kill me just for existing, to the cops ripping up people's lives over the most inconsequential shit, all the way down to random teachers telling kids to shut up and obey the rules, it's all trampling on the city's blood! ????? –"
 
-?????
-
-[????? While Rinn is in the middle of ranting]
-
-"Where are you going?!"
+"Where are you going?!" snapped Yali.
 
 "What?" I followed where Yali was looking, and saw that Alchemist was trying to slip off into the woods.
 
-"I was just going to, maybe, take a walk? I, um, it looks like you two have, maybe, some things to work out…" Yali kept glaring at them. "I promise I won't look for Morrow. I know it wouldn't be…" They shuddered. "You can look in the future if you don't believe me."
+"I was just going to, maybe, take a walk? I, um, it looks like you two have, maybe, some things to work out with each other…" Yali kept glaring at them. "I promise I won't look for Morrow. I know it wouldn't be…" They shuddered. "You can look in the future if you don't believe me."
 
 Yali did look in the future. She spent a long time using the Seeing, subtle changes moving across her face. When she came back to the present, all of her sharp insistence had gone dull. "Fine. You can go."
 
-[????? last line leading into the next chapter]
-
+Alchemist hesitated, turned, and walked away. Now just me and Yali were left. I couldn't bear to look at her. My rage had lost its edge, and now it was like a raw wound had been torn open between us. I couldn't bear to think of what she was about to say back.
 
 
 ''',
