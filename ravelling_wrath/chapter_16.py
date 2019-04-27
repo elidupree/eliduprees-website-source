@@ -239,6 +239,10 @@ Yali looked me directly in the eye. Her eyes drilled into me. Then she shook her
 
 ?????
 
+[????? Coming down from the rush of Blood; notice the surroundings, like the bloodstained river]
+
+?????
+
 "I finally understand that word the Blood God used to talk about you as the Farseer! I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, –"
 
 "I understand. I can feel the Waiting God using those not-quite-words, too."
@@ -297,6 +301,19 @@ Yali looked dismayed.
 
 ?????
 
+They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
+
+Beside me, Yali squeezed my shoulder. Quietly, she muttered, "I know you'll want to tell Alchemist about everything had just happened. But leave it for later. For now, it's important for us to let them tell us what they've been thinking of, before we distract them."
+
+"Have they been thinking of something important? Like something that could –"
+
+"Shhhh."
+
+In front of us, Alchemist made their way through the last bit of brambles, and stood in the clearing with us.
+
+"I'm glad you're back!" I said.
+
+Alchemist smiled a little, but their eyes were downcast. They wobbled back and forth. They clearly have something else on their mind.
 
 "I've had… an idea," said Alchemist.
 
