@@ -26,7 +26,7 @@ Then I turned back to Yali. "So –"
 
 Yali caught my wrist and pulled me down on the mat with her. Before I could react, she kissed me sloppily on the lips.
 
-She did it clumsily and kinda smashed my lip against my teeth, but I didn't care. It had been so long, so <em>long</em>, since anyone had touched me like this. I pressed back into her, my lips and tongue drinking up the warm wetness of her own, my legs tangling together with hers. For the moment, I forgot everything. I could stay like this forever.
+She did it clumsily and kinda smashed my lip against my teeth, but I didn't care. All my rage was forgotten in an instant. It had been so long, so <em>long</em>, since anyone had touched me like this. I pressed back into her, my lips and tongue drinking up the warm wetness of her own, my legs tangling together with hers. For the moment, I forgot everything. I could stay like this forever.
 
 Clinging together, we sank down further onto the mat. I lay back and allowed Yali to climb on top of me, her flesh pressing down heavily on the whole length of my body. She never stopped crying, but she kissed me again and again. I closed my eyes and drifted in bliss, drowning in Yali.
 
@@ -72,7 +72,7 @@ Yali's voice came ripping from behind me, "I want to hear what the Blood God has
 
 Yali's hand came down heavily on my shoulder. She tried to pull me back to her. I struggled away and fell in the dirt. She yelled after me, "In the Stern God's world, I searched the future for danger and I saw nothing! The Waiting God could have showed me your death, but it didn't! I need to know! What is the Waiting hiding from me?!"
 
-"<em>Everything!</em>" I yelled back, my voice crying out with none of my control.
+"<em>Everything!</em>" I yelled back, my voice crying out beyond my control.
 
 "Then tell me! The potion I drank earlier is still protecting me! You cannot kill me even if you try! So tell me!"
 
@@ -88,15 +88,15 @@ And we were at a standstill. The sorcery around its body gleamed in my second si
 
 The Farseer spoke. "Blood Child, when did I sell you out to the Stern the first time?"
 
-The answer blazed in my mind with perfect clarity. I struggled to find the words to express it. "A… long time ago. At the very beginning of this. It was you! It was you who… who <em>did this</em> to me!"
+The answer blazed in my mind with perfect clarity. I struggled to express it, to reduce it to human words. "A… long time ago. At the very beginning of this. It was you! It was you who… who <em>did this</em> to me!"
 
 "What did I do to you?"
 
 "Look for yourself!" I screamed. With a crash, the clouds split apart and a shaft of light landed on me. All over my body, wounds began to appear. A bloody gouge across my stomach. A dozen holes through my chest. Multiple slashes to my arms and legs, that felt like they could have completely severed them. Memories flooded into my mind, of myself, in my dozens of other bodies, crawling desperately as my lifeblood flowed away from me. The pain of the wounds flooded through me, but it felt like catharsis. I was finally laying the truth out in the open. "These are the wounds your Justicars and your <em>laskueh</em> have dealt to me! Now do you see what you have done?!" I demanded. I doubled over, blood dripping from my forehead into my eyes. "I have been blinded, maimed, brought to my knees, shredded limb from limb! You tore down my temple and forced my people under the law of the Stern! Your <em>laskueh</em> have trampled over my body to make your perfect world! But I will not go down without a fight! I will tear the worlds apart before I allow myself to be erased by <em>you</em>!"
 
-?????
+The Farseer stood motionless. It silently considered my words, its thoughts unreadable. ?????
 
-"So the Waiting God is trying to erase you? And you kill the Farseer to stop it from happening?"
+Cautiously, the Farseer spoke again. "So the Waiting God is trying to erase you? And you kill the Farseer to stop it from happening?"
 
 All at once, a wave of hopelessness washed through me, completely turning around my pride and rage. "To <em>stop</em> you?" I said hollowly. The feelings dropped me to the ground, sprawling with my face in the dirt, and ushered in another torrent of rain, a torrent that flattened my clothes against my back and pounded through them onto my skin. The blood from my wounds pooled and seeped into the soil. "To <em>stop</em> you?" I moaned into the dirt. "I will kill you and kill you and kill you, and when I am gone, you will still be strong. My hands are empty, and I am beating against the mountain. You call <em>me</em> the danger?"
 
@@ -106,13 +106,13 @@ All at once, a wave of hopelessness washed through me, completely turning around
 
 "But you <em>are</em> the Farseer."
 
-"I may be the Farseer, but do you see no difference between me and the Waiting God? I am not the god! If the Waiting God has hurt you, I will do anything in my power to stop it!"
+"I may be the Farseer, but do you see no difference between me and the Waiting God? I am not the god! If the Waiting God is responsible for this ?????conflict, I will do anything in my power to stop it!"
 
 I stared at the being in front of me.
 
 Now that I looked at it in detail, it was like an optical illusion, something that couldn't possibly exist. It was giving me a splitting headache. What – but – how – it was definitely a human! And it was definitely woven into the god! It even called itself a Farseer! But then how – how –
 
-Memories came flooding back to me. How it had worked together with that broken fragment, the one we called Neenu. How it had fought against the Justicar, even bizarrely using deception, to prevent my death. A death the Waiting God itself had planned! And how it had claimed that the Waiting God had <em>hidden</em> things from it! How had I not realized before? <em>It</em>, the one I called Yali, was a broken fragment itself! Like a damaged clock with gears running at two different speeds, like a puppet wrestling for a grip on its own strings, like a parasite using its host's own strength to devour it, it was a flaw in the Waiting God's plan, and it was ripping and tearing to widen the flaw at every chance it had.
+Memories came flooding back to me. How it had worked together with that broken fragment, the one we called Neenu. How it had fought against the Justicar, even bizarrely using deception, to prevent my death. A death the Waiting God itself had planned! And how it had claimed that the Waiting God had <em>hidden</em> things from it! How had I not realized before? <em>It</em>, the one I called Yali, was just as much of a broken fragment itself! Like a damaged clock with gears running at two different speeds, like a puppet wrestling for a grip on its own strings, like a parasite using its host's own strength to devour it, it was a flaw in the Waiting God's plan, and it was ripping and tearing to widen the flaw at every chance it had.
 
 I tried to shift my focus, to look at the different parts of it. It was hard, because they were woven together so tightly. Every time I tried to see where one ended and the other began, it seemed to shimmer and shift. But slowly, I got a general sense of the shapes. The place where the transcendent web of the god twisted and meshed with… the other part. The human. Yali, I guess.
 
@@ -217,17 +217,25 @@ Yali narrowed her eyes. "'Me' meaning the Blood God?"
 
 "It's all happening right in front of us! <em>Inside</em> us! How can you talk about just staying alive when it's being killed <em>right in front of us?</em>"
 
-"?????"
+"We didn't choose this. We're not obligated to fix the gods' problems just because they forced us to –"
 
 "You're seriously going to just let the Waiting get away with it?!"
 
 Yali opened her mouth, then closed it again. She glared into the distance, seeming to have a long fight with herself. I knew I had her. There were a lot of things she could ignore, but <em>letting the Waiting God win</em> wasn't one of them.
 
-"I'm probably making the wrong choice," she said. "Again. But…
+"I'm probably making the wrong choice," she said. "Again. But… I do have an idea. A way to go against the Waiting God –"
 
-?????
+"What is it?" I said excitedly.
 
-[????? Yali decides to execute the plan from chapter 19, but says something ambiguous]
+"It's, it's… complicated. I don't think I can tell you everything yet. Do you trust me?"
+
+"Of course I do!! You're – you're freakin' <em>Yali</em>! If you told me I had to rip my own arm off, I'd <em>do</em> it!"
+
+Yali looked me directly in the eye. Her eyes drilled into me. Then she shook her head slightly. "I can't tell you everything yet," she said.
+
+"Okay, uh…" I wasn't sure what to say to that. "Well, good luck with, uh, whatever it is."
+
+"Thanks."
 
 ?????
 
