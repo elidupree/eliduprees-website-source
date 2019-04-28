@@ -363,6 +363,10 @@ When I got close, Alchemist hurried to check on Morrow. It was pretty awkward wi
 
 As Alchemist crouched over him to check his vital signs, Yali looked down at Morrow contemptfully. She frowned. "I don't believe there is any risk that I will attack him again," she said, "but things will be much easier if he is kept a good distance away from me after he wakes up."
 
+?????
+
+
+
 [????? Is this the right place for Rinn to complain about Yali hating Morrow more than Justicar? Or should this go in the final chapter?]
 
 "Seriously, though, what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always '?????' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
@@ -435,7 +439,7 @@ Something <em>instantly</em> seemed off about him. His reaction was way slower t
 
 "That <em>is</em> what I would have told you to do, as recently as the third layer…" said Yali. "But now… I am starting to think that the Blood God <em>should</em> rejuvenate."
 
-"But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even marked Justicar as "not my real enemy". <em>Justicar!</em>
+"But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even thought of Justicar as "not my real enemy". <em>Justicar!</em>
 
 Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last seventy years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose." ????? "Besides… even if we did want to, we still shouldn't do it <em>yet</em>. Your soulfire is one of the only powers that can pierce Justicar's armor."
 

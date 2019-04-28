@@ -239,11 +239,25 @@ Yali looked me directly in the eye. Her eyes drilled into me. Then she shook her
 
 ?????
 
-[????? Coming down from the rush of Blood; notice the surroundings, like the bloodstained river]
+<bigbreak>
 
-?????
+Hours passed. We got through all the most important things to talk about, ?????. And I was starting to come down from the rush of the Blood God. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready whenever I needed to reach for it. It just wasn't <em>me</em>, not right now.
 
-"I finally understand that word the Blood God used to talk about you as the Farseer! I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, –"
+I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just rocks. Just my back resting against the hard bark. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
+
+"Uh… shit," I said, looking at it.
+
+Yali followed my gaze. "Are you okay? I just want to make sure, since that's technically a lot of blood –"
+
+"I'm fine, I still feel better than ever. I'm literally the Blood Child, I figure my blood is a special case."
+
+"Yeah, that's what I assumed, too. Especially since, since, I think that's more blood than would actually fit in your body."
+
+I laughed. "That river of blood, though… That's really how the Blood God feels about what's happening. I feel like I understand it a lot better now. Even the little things… like way back in the first layer, I was mad about you and Justicar working together, and I kind of assumed it was just me being mad about all her Stern stuff. And it was partly that. But it was also the Blood God thinking you were going to manipulate her against me."
+
+I sat back and thought over everything that had just happened.
+
+Another realization popped up. "I finally understand that word the Blood God used to talk about you as the Farseer! I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, –"
 
 "I understand. I can feel the Waiting God using those not-quite-words, too."
 
@@ -301,15 +315,17 @@ Yali looked dismayed.
 
 ?????
 
-They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
+<bigbreak>
 
-Beside me, Yali squeezed my shoulder. Quietly, she muttered, "I know you'll want to tell Alchemist about everything had just happened. But leave it for later. For now, it's important for us to let them tell us what they've been thinking of, before we distract them."
+It wasn't long before the rustling of the branches alerted me to Alchemist's approach. And pretty soon after that, I spotted their cute head bobbing in and out of the leaves. They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
+
+Beside me, Yali squeezed my shoulder. Quietly, she muttered, "I know you'll want to tell Alchemist about everything had just happened. But leave it for later. It's important that we let them tell us what they've been thinking of, before we distract them."
 
 "Have they been thinking of something important? Like something that could –"
 
 "Shhhh."
 
-In front of us, Alchemist made their way through the last bit of brambles, and stood in the clearing with us.
+In front of us, Alchemist made their way through the last bit of brambles, and padded into the clearing with us.
 
 "I'm glad you're back!" I said.
 
