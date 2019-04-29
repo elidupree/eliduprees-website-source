@@ -26,7 +26,7 @@ And then, when I was completely filled, when my body had received every swallow 
 
 Effortlessly, I stepped into the world.
 
-It was the city from my dreams, the city of steel and stone, with a blazing sun that pulsed like a heart. I basked in the warm sunlight, turning my chest to face the power of the wind, my eyes drinking up the vivid colors. The city's banners of red and gold and black, the sky of brilliant blue, the sun a blazing orange like sunset and midday rolled into one. I raised my arms and unleashed a flare of soulfire around me, just because I could. At last, at last, this was a world I could feel my heart in.
+It was the city from my dreams, the city of steel and stone, with a blazing sun that pulsed like a heart. I basked in the warm sunlight, turning my chest to face the power of the wind, my eyes drinking up the vivid colors. The city's banners of red and gold and black, the sky a midnight blue, the sun a blazing orange like sunset and midday rolled into one. I raised my arms and unleashed a flare of soulfire around me, just because I could. At last, at last, this was a world I could feel my heart in.
 
 And then <em>she</em> was there as well.
 
@@ -118,13 +118,39 @@ I smiled confidently. She just didn't understand. "I didn't switch anything. My 
 
 ?????
 
-[????? Justicar takes her first swing at Yali]
+"GET DOWN!!" Yali screamed.
 
-But somehow, her sword didn't go in the right direction. Yali had already sidestepped the blow. In the next instant, Justicar recovered and took another swing. But no matter how many times the sword slashed and stabbed, it didn't come close to Yali at all. Yali just kept calmly stepping out of the way, using small, simple movements to avoid every attack. [????? It was making Justicar look pretty incompetent.]
+I dove forwards. ????? The pulse of power ????? The next thing I knew, I was falling, falling, barely conscious, between rows of darkened windows, the air and the slanted towers rushing past me. In another heartbeat, my body crashed down among the wreckage, dangling like a ragdoll over a broken beam. I flopped and landed on my back. I couldn't get up. My left arm and left leg wouldn't answer me. They lay limp at my side.
+
+I had been maimed before I was even close enough to see my enemy's face.
+
+Traces of white smoke blew across the blackened sky. Fragments of my golden bridge crashed down around me.
+
+"Yali –" I gasped.
+
+Yali dropped gently to the ground, landing on her feet. She took a single glance down at where I lay. Her power glowed around her. I could practically see the Watchful Eye staring from behind her eyes, examining every atom of my existence.
+
+"Heal yourself quickly," she said. "I'll hold her off."
+
+?????
+
+A spark of light leapt from building to building, fast approaching us. ????? Justicar ?????
+
+Yali stood in her way.
+
+?????. A gleaming helmet fully concealed her face. Every part of her armor blazed with light, burning at my eyes, burning at my very soul. Her sword, already drawn, pointed towards us with utmost poise. With every tiny movement of the blade, I could feel it scraping out the walls of the world.
+
+An iron-hard voice reverberated from inside the helm. "Farseer. You have a choice to make. My quarrel is not with you. You may stand aside, and the Stern will show you mercy. Or you may throw your lot in with Blood, and face the consequences."
+
+Yali did not raise her voice. She answered with [????? utter calm, but with a touch of sadness]. "No, Justicar. <em>You</em> have a choice to make. You cannot win. [????? Ordering/which to choose?: The power of three Ravellers stands against you. You still have a chance to reconsider/You have been manipulated. Everything you have fought for was based on a lie/you may throw your life away uselessly/or you may yield when you must yield, even if it costs your pride]
+
+"You have made your choice," came the helm's grim reply.
+
+Justicar struck out towards Yali like lightning. But somehow, her sword didn't go in the right direction. Yali had already sidestepped the blow. In the next instant, Justicar recovered and took another swing. But no matter how many times the sword slashed and stabbed, it didn't come close to Yali at all. Yali just kept calmly stepping out of the way, using small, simple movements to avoid every attack. [????? It was making Justicar look pretty incompetent.]
 
 [????? Intersperse with dealing with Rinn's own stuff:] I realized what was going on. Yali was using the Seeing to see exactly where Justicar was going to attack next. ?????
 
-They were at a standstill. As much as the sword darted and flashed, it had no chance of getting past Yali's attention. On the other hand, Justicar ????verbed, showing no sign of tiring or slowing down. [????? My eyes got lost in the movement]
+They were at a standstill. As much as the sword darted and flashed, it had no chance of getting past Yali's awareness. On the other hand, Justicar ????verbed, showing no sign of tiring or slowing down. [????? My eyes got lost in the movement]
 
 And then Yali struck.
 
@@ -132,11 +158,24 @@ As Justicar took a swing, Yali surged forward, going right past the sword and sl
 
 Yali was now holding the sword.
 
-Yali held the sword calmly at her side, leaning on the hilt and pressing the razor-sharp point into a stone brick. She gave Justicar a moment to register what had happened. Then she spoke. "I will give you one chance to hear what I have to say," she said.
+Yali held the sword calmly at her side, leaning on the hilt and pressing the razor-sharp point into a stone brick. She gave Justicar a moment to register what had happened. Then she spoke. "I will give you one more chance to hear what I have to say," she said.
 
-"Speak quickly," said Justicar tightly. Her hands glowed, lines of light stabbing into the air, ready to unleash some new attack at a moment's notice.
+"Speak quickly," said Justicar tightly. Her gauntlets glowed, lines of light stabbing into the air, ready to unleash some new attack at a moment's notice.
 
 "We have all been deceived," said Yali gravely. "?????
+
+?????
+
+"I will never [????? go along with what Yali said]!" Justicar swept her right arm out into the air. "<em>Stern God, I offer up this sacrifice –</em>"
+
+Yali's body slammed into Justicar, knocking her off her feet. "Now is no time to ?????!
+
+?????
+
+"<em>Stern God, I offer up this sacrifice, that you may grant me the power to see your will be done!</em>"
+
+A thousand lances of light struck from the heavens, piercing through the arm Justicar had offered. [????? Phrasing not cool enough: A ?????constrained scream echoed from her helmet as the arm cracked and melted away. In its place,]
+
 
 ?????
 
