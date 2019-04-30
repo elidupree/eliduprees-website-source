@@ -138,11 +138,11 @@ A spark of light leapt from building to building, fast approaching us. ????? Jus
 
 Yali stood in her way.
 
-?????. A gleaming helmet fully concealed her face. Every part of her armor blazed with light, burning at my eyes, burning at my very soul. Her sword, already drawn, pointed towards us with utmost poise. With every tiny movement of the blade, I could feel it scraping out the walls of the world.
+?????. A gleaming helmet fully concealed her face. Every part of her armor blazed with light, burning at my eyes, burning at my very soul. Her sword, already drawn, pointed towards us with utmost poise. With every tiny movement of the blade, I could feel it scraping on the walls of the world.
 
 An iron-hard voice reverberated from inside the helm. "Farseer. You have a choice to make. My quarrel is not with you. You may stand aside, and the Stern will show you mercy. Or you may throw your lot in with Blood, and face the consequences."
 
-Yali did not raise her voice. She answered with [????? utter calm, but with a touch of sadness]. "No, Justicar. <em>You</em> have a choice to make. You cannot win. [????? Ordering/which to choose?: The power of three Ravellers stands against you. You still have a chance to reconsider/You have been manipulated. Everything you have fought for was based on a lie/you may throw your life away uselessly/or you may yield when you must yield, even if it costs your pride]
+Yali did not raise her voice. She answered with [????? utter calm, but with a touch of sadness]. "No, Justicar. <em>You</em> have a choice to make. You cannot win. [????? Ordering/which to choose?: You still have a chance to reconsider/You have been manipulated. Everything you have fought for was based on a lie/the terrible mistake you are making/you may throw your life away uselessly/or you may yield when you must yield, even if it costs your pride]
 
 "You have made your choice," came the helm's grim reply.
 
@@ -166,9 +166,27 @@ Yali held the sword calmly at her side, leaning on the hilt and pressing the raz
 
 ?????
 
+"You wish to make me doubt. Would the truth constrain you?"
+
+?????
+
 "I will never [????? go along with what Yali said]!" Justicar swept her right arm out into the air. "<em>Stern God, I offer up this sacrifice –</em>"
 
 Yali's body slammed into Justicar, knocking her off her feet. "Now is no time to ?????!
+
+"Her existence comes at the cost of human lives! I will not allow them to die while I can still do something to save them!"
+
+"You cannot. You are wrong twice over. Even if Rinn was what you think, you still have no hope of ending her life. The power of three Ravellers stands against you. If you continue your attack, you will die and accomplish nothing."
+
+"You ask me to abandon the Stern God's will."
+
+"Is it the Stern God's will for you to throw your life away for nothing?"
+
+"It is the Stern God's will that even if all seems hopeless, we still fight for what is right."
+
+"And yet the Stern gone also asks that we <em>yield when we must yield, even if it costs your however.</em>
+ 
+ You dare quote the Stern God's prayer to me? Now is no time for me to yield. 
 
 ?????
 
