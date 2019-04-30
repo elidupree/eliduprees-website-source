@@ -184,9 +184,17 @@ Yali's body slammed into Justicar, knocking her off her feet. "Now is no time to
 
 "It is the Stern God's will that even if all seems hopeless, we still fight for what is right."
 
-"And yet the Stern gone also asks that we <em>yield when we must yield, even if it costs your however.</em>
+"And yet the Stern gone also asks that we <em>yield when we must yield, even if it costs your pride.</em>
  
- You dare quote the Stern God's prayer to me? Now is no time for me to yield. 
+"You dare quote the Stern God's prayer to me? [????? Should it be more like just "you have misinterpreted the Stern God's prayer"?] Now is no time for me to yield. Human lives hang in the balance. You would have me believe I cannot save any of them, but I cannot accept –"
+
+[????? I could feel Yali tense up, steeling herself for what was about to come. She knew that her words would not be enough. But still she spoke.] "I did not say <em>none</em>. You cannot save the ones you believe you can. But… there is still one human life you <em>can</em> save."
+
+"The Blood Child? [????? Dismissiveness]"
+
+"Not the Blood Child. ."
+
+[????? Rinn anticipates Justicar's reaction]
 
 ?????
 
