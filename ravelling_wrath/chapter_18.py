@@ -186,21 +186,30 @@ Yali's body slammed into Justicar, knocking her off her feet. "Now is no time to
 
 "And yet the Stern gone also asks that we <em>yield when we must yield, even if it costs your pride.</em>
  
-"You dare quote the Stern God's prayer to me? [????? Should it be more like just "you have misinterpreted the Stern God's prayer"?] Now is no time for me to yield. Human lives hang in the balance. You would have me believe I cannot save any of them, but I cannot accept –"
+"You quote the Stern God's prayer to me, yet you understand it very little. Now is no time for me to yield. Human lives hang in the balance. You would have me believe I cannot save any of them, but I cannot accept –"
 
 [????? I could feel Yali tense up, steeling herself for what was about to come. She knew that her words would not be enough. But still she spoke.] "I did not say <em>none</em>. You cannot save the ones you believe you can. But… there is still one human life you <em>can</em> save."
 
 "The Blood Child? [????? Dismissiveness]"
 
-"Not the Blood Child. ."
+"Not the Blood Child. Havi ?????."
 
 [????? Rinn anticipates Justicar's reaction]
 
 ?????
 
+Justicar leapt away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to [????? concentrate in order to keep healing myself]. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if by a great wind. Justicar stood alone atop the ?????, a gleaming suit of armor driving everything away from herself.
+
+In this moment, she raised her right arm towards the sky.
+
 "<em>Stern God, I offer up this sacrifice, that you may grant me the power to see your will be done!</em>"
 
 A thousand lances of light struck from the heavens, piercing through the arm Justicar had offered. [????? Phrasing not cool enough: A ?????constrained scream echoed from her helmet as the arm cracked and melted away. In its place,]
+
+?????
+
+[????? Justicar's helmet is removed somehow]
+
 
 
 ?????

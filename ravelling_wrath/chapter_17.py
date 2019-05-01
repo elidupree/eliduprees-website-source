@@ -365,7 +365,7 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 ?????
 
-
+[????? Probably "Yali using the unravelling potion" is the FIRST point for discussion afterwards]
 
 [????? Is this the right place for Rinn to complain about Yali hating Morrow more than Justicar? Or should this go in the final chapter?]
 
@@ -430,6 +430,24 @@ Morrow half-startled. After a moment, he looked back at me. "Oh. It's you."
 Something <em>instantly</em> seemed off about him. His reaction was way slower than usual, and his words came out slower, too. He seemed… glum? At first I thought that was super weird. I'd seen him ripping himself apart, but I'd never seen him just regular sad, or any sort of less-energetic mood at all. Then I thought, <em>of course</em>! He didn't have the Seeking God inside him anymore. It had probably been the Seeking God that was keeping him going the whole time. And now…
 
 "How are you, uh, feeling?" I said.
+
+?????
+
+"Raylie kept telling me I didn't do anything wrong…" he said gloomily.
+
+"Uh…"
+
+"I did something wrong… didn't I?"
+
+I sized him up, deciding how to answer that. Alchemist would probably have wanted me to soften the truth. But if I did that, I would feel like I was bullshitting him. And even if I did, he would probably just keep digging until he got the truth out of me. "You pretty much did," I said. "You fucked up real bad, and you hurt all three of us. And it could've been a lot worse if we hadn't all worked together to save you. But it's over now. You don't have to hurt anyone anymore."
+
+Morrow pushed his hands through his hair and weakly pulled on it, as if he was trying to rip his hair out but his heart wasn't really in it. Before long, he dropped his hands limply at his sides again. "I knew it…" he muttered. "I'm so fucked up…"
+
+"It wasn't all your fault! It was the Seeking God.
+
+[????? Probably something about Morrow's past]
+
+?????
 
 [????? somewhere: how Alchemist is the only one who hasn't hurt anybody, and how both the blood and waiting will trample over the broken to get what they want]
 
