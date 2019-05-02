@@ -218,7 +218,7 @@ From the look of things, <em>Morrow</em> had slid straight down them.
 
 I squinted across at a short smear of blood on the rocks. "Should there be this much blood?" I said. "I mean, there's not, like, lakes of it, but we've been following him for a while, so it adds up –"
 
-"It's manifesting. His wounds aren't healing because I did them with hostile intent and damaged his soul. But he unconsciously manifests more blood to replace what is lost."
+"It's manifesting. His wounds aren't healing because I did them with hostile intent and damaged his soul. But he unconsciously manifests more blood to replace the part he's losing."
 
 "Oh gods, what if he loses all his original blood and then he gets back to Earth and –"
 
@@ -248,7 +248,7 @@ I laughed. It came out louder than I expected. "That's pretty reassuring, coming
 
 "Yeah. You ready?"
 
-"Alright, let's do this thing." I threw my head back and howled into the air, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow from every part of my [????? skin? No, because it comes from the interior]. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
+"Alright, let's do this thing." I threw my head back and howled into the air, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow radiating from every muscle. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
 
 The ravine was narrow and cut deep into the ground, not leaving much room to walk if you didn't want to step in the little brook that ran along its length. Where there <em>was</em> room, spindly, twisted trees hogged up the shore. But the water wasn't much deeper than my foot. I confidently strode down the middle, splashing it aside. When it soaked my shoes, I just unmanifested them and walked barefoot in the cold stream, my soulfire keeping me warm.
 
@@ -316,7 +316,11 @@ I wasn't going to get a direct answer. I wanted to just go ahead and spray him, 
 
 I sprayed.
 
-[????? Physical description – maybe "the cloudy potion dripped down his face, [making the wounds go away]"/the bruises un-swelled, etc.. Morrow convulsed and went limp, sprawling on the ground]
+The cloudy potion splattered and dripped down his face. Where it touched his swollen eyes, they rapidly shrank back to their original shape. It missed a few spots, so I squirted the bottle a couple more times, drenching him. Then I went for his hands. He was kind of swaying and not reacting, like he was in shock, so I just grabbed his wrists and held them up to get a good angle to spray.
+
+????? he stumbled off and went limp, bumping into a tree in sinking to the ground. ????? He still had the potion on his face. It was kind of like that time in the first layer when I had dumped a bucket of water on him and then we couldn't manifest it off. But this time [????? I had more powers]. I brushed my hand over his face, letting my soulfire boil away what was left of the potion. When I took my hand away, he looked as good as new.
+
+Well, except for one thing. I almost hadn't noticed it earlier between all the bruises and stuff, but Yali had put the Watchful Eye on him, too. It wasn't even [????? neat], it was sort of scrawled diagonally up his cheek from the corner of his mouth.
 
 ?????
 
@@ -366,6 +370,8 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 ?????
 
 [????? Probably "Yali using the unravelling potion" is the FIRST point for discussion afterwards]
+
+[????? "walk in any direction to get the portal". Morrow wakes up. Alchemist goes off with Morrow, they all start walking to the portal]
 
 [????? Is this the right place for Rinn to complain about Yali hating Morrow more than Justicar? Or should this go in the final chapter?]
 
@@ -431,19 +437,31 @@ Something <em>instantly</em> seemed off about him. His reaction was way slower t
 
 "How are you, uh, feeling?" I said.
 
-?????
+Morrow's eyes moved slowly. "How do you want me to feel?"
 
-"Raylie kept telling me I didn't do anything wrong…" he said gloomily.
+Well, he was still Morrow, at least. "Dude. You really gonna make a game out of it <em>now</em>?"
+
+"Ehh…" He looked back away from me, and kept plodding along. I caught up and walked alongside him. I stayed quiet, waiting for him to make the first move. I was kind of just doing this to be nice to Alchemist, anyway. [????? I was totally on Morrow's side when it came to the life-and-death stuff], but I was still kinda sick of him as a person.
+
+After a while of us just crunching through the leaves, Morrow broke the silence.
+
+"Raylie keeps telling me I didn't do anything wrong…" he said gloomily.
 
 "Uh…"
 
 "I did something wrong… didn't I?"
 
-I sized him up, deciding how to answer that. Alchemist would probably have wanted me to soften the truth. But if I did that, I would feel like I was bullshitting him. And even if I did, he would probably just keep digging until he got the truth out of me. "You pretty much did," I said. "You fucked up real bad, and you hurt all three of us. And it could've been a lot worse if we hadn't all worked together to save you. But it's over now. You don't have to hurt anyone anymore."
+I sized him up, deciding how to answer that. Alchemist would probably have wanted me to soften the truth. But if I did that, I would feel like I was bullshitting him. And even if I did, he would probably just keep digging until he got the truth out of me.
+
+"You pretty much did," I said. "You fucked up real bad, and you hurt all three of us. And it could've been a lot worse if we hadn't all worked together to save you. But it's over now. You don't have to hurt anyone anymore."
 
 Morrow pushed his hands through his hair and weakly pulled on it, as if he was trying to rip his hair out but his heart wasn't really in it. Before long, he dropped his hands limply at his sides again. "I knew it…" he muttered. "I'm so fucked up…"
 
-"It wasn't all your fault! It was the Seeking God.
+"It wasn't all your fault! It was the Seeking God. It –"
+
+[????? Morrow sobs and curls up on the ground]
+
+"Hey, uh… so, I'm not against lying down and crying for hours, but
 
 [????? Probably something about Morrow's past]
 
