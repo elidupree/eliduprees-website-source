@@ -295,6 +295,10 @@ I wanted to help, but I wasn't sure how. "I mean, I don't know, I just say what 
 
 "- and use it to reach the outcome we wanted," finished Yali.
 
+?????
+
+[????? "And like…" [????? Yali physicality] "Love's never going to protect you from an abuser. An abuser might talk about love and niceness, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands.
+
 ''',
 },
 ]
