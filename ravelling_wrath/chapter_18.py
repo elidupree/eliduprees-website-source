@@ -120,21 +120,27 @@ I smiled confidently. She just didn't understand. "I didn't switch anything. My 
 
 "GET DOWN!!" Yali screamed.
 
-I dove forwards. ????? The pulse of power ????? The next thing I knew, I was falling, falling, barely conscious, between rows of darkened windows, the air and the slanted towers rushing past me. In another heartbeat, my body crashed down among the wreckage, dangling like a ragdoll over a broken beam. I flopped and landed on my back. I couldn't get up. My left arm and left leg wouldn't answer me. They lay limp at my side.
+I dove forwards. ????? The pulse of power surged past me, blanking out my mind like a gust of wind nearly blowing out a candle. Before I could even understand what was happening, I was falling, falling, barely conscious, between rows of darkened windows, everything rushing past me, the air and the dust and the slanted towers rushing past me. In another heartbeat, my body crashed down among the wreckage, dangling like a ragdoll over a broken beam. I flopped and landed on my back. I couldn't get up. My left arm and left leg wouldn't answer me. They lay limp at my side.
 
 I had been maimed before I was even close enough to see my enemy's face.
 
-Traces of white smoke blew across the blackened sky. Fragments of my golden bridge crashed down around me.
+Traces of white smoke blew across the blackened sky. A long gouge had been torn through the city, buildings sliced open as if they had been hit by a sword the size of a skyscraper. Was this Justicar's attack? It was incredible. Even as I lay stunned, the fragments of my golden bridge kept crashing down around me. Falling among them, a blobby shape –
 
 "Yali –" I gasped.
 
-Yali dropped gently to the ground, landing on her feet. She took a single glance down at where I lay. Her power glowed around her. I could practically see the Watchful Eye staring from behind her eyes, examining every atom of my existence.
+Yali dropped gently to the ground, landing on her feet. She took a single glance down at where I lay. Her power glowed around her, even stronger than the aura of the potions. I could practically see the Watchful Eye staring from behind her eyes, examining every atom of my existence.
 
 "Heal yourself quickly," she said. "I'll hold her off."
 
+Then she turned and faced towards the distant light.
+
+Her words lit my fire again. I wasn't helpless this time. I could heal myself and fight, for her, for me, for our blood. Gathering myself, I pushed my strength into my dead arm and leg. [????? There was lots of pain, but my blood was stronger]
+
 ?????
 
-A spark of light leapt from building to building, fast approaching us. ????? Justicar ?????
+A spark of light leapt from building to building, fast approaching us. Everywhere she landed, the crumbling edges of walls burned away, leaving crisp flat edges [????? don't repeat word] and bare steel [????? structure of the building]. So this was Justicar's soul unleashed, raw and absolute. ?????
+
+With a last leap, the streak of light landed in the street before us, her metal boots scraping on the paving stones.
 
 Yali stood in her way.
 
@@ -147,6 +153,8 @@ Yali did not raise her voice. She answered with [????? utter calm, but with a to
 "You have made your choice," came the helm's grim reply.
 
 Justicar struck out towards Yali like lightning. But somehow, her sword didn't go in the right direction. Yali had already sidestepped the blow. In the next instant, Justicar recovered and took another swing. But no matter how many times the sword slashed and stabbed, it didn't come close to Yali at all. Yali just kept calmly stepping out of the way, using small, simple movements to avoid every attack. [????? It was making Justicar look pretty incompetent.]
+
+[????? I used the delay Yali had given me/Yali trusted me to use it; to keep healing]
 
 [????? Intersperse with dealing with Rinn's own stuff:] I realized what was going on. Yali was using the Seeing to see exactly where Justicar was going to attack next. ?????
 
