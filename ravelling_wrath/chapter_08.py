@@ -308,21 +308,27 @@ In the early days of the city, before the walls went up, there was a family who 
 
 "Why do you always play alone? Why do you bury acorns, like a squirrel?" asked the other children. But she just laughed to herself and kept digging.
 
-Seasons turned from sun to snowfall. [????? Other markers of time passing]
+Seasons turned from sun to snowfall. [????? Other markers of time passing] The child grew to her teenage years.
 
 ?????
 
 "Why do you ????? [????? Your peers] are finding love, [????? other young adult activities]." But she just smiled and said nothing.
 
-?????
-
-[????? Went all over the city planting seeds]
+[????? Repeat text of time passing] The child grew into an adult.
 
 ?????
+
+[????? Went all over the city planting seeds] time by time, she stopped at a street corner, and she knelt down, with her little trowel and her bags of seeds. Time by time, her fingertips pressed a seed into the soil.
+
+?????
+
+But as the years passed by, the seeds grew into saplings. And as the years passed by, the saplings grew into
+
+
 
 "Ah," said [????? an old man]. "Now I understand. The city is richer for your work, and you may now relax in the shade of the many beautiful trees you have brought us. But you and I grow old, and time flows swiftly. Every day I see you bend your back to plant another seed, but surely you must know that you may not live to see them blossom."
 
-Just for a moment, she looked up from her shovel, smiled, and said nothing.
+Just for a moment, she looked up from her trowel, smiled, and said nothing.
 
 </div>
 

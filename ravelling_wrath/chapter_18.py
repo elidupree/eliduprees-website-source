@@ -202,11 +202,11 @@ Yali's body slammed into Justicar, knocking her off her feet. "Now is no time to
 
 "Not the Blood Child. Havi ?????."
 
-[????? Rinn anticipates Justicar's reaction]
+It was like time froze. The words hung in the air. <em>No,</em> I screamed inwardly. I could practically see how Justicar was going to react, for a terrible moment before it happened. <em>No, Yali! Use any other way to convince her, but not that!</em> What Yali had said was so logical, so right, even the Stern God should have admitted it. ????? at least Havi, the Justicar, would not die.
 
-?????
+[????? But this was something that Havi would never accept.] Not only to admit that she was wrong, but to admit that she should value the one person she valued least of all – herself. Every time the Stern God had asked her to erase herself, she had said yes. But now, when the Stern God would tell her she mattered, it was the one thing she could not accept. And so this final decision, the decision that would end Justicar's life, was not made by the Stern God overruling her human will, but by the human herself.
 
-Justicar leapt away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to [????? concentrate in order to keep healing myself]. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if by a great wind. Justicar stood alone atop the ?????, a gleaming suit of armor driving everything away from herself.
+Justicar leapt away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to [????? concentrate in order to keep healing myself]. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if a great wind was blowing from Justicar's body. Justicar stood alone atop the ?????, a gleaming suit of armor driving everything away from herself.
 
 In this moment, she raised her right arm towards the sky.
 
