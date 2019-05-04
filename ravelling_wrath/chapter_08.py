@@ -390,13 +390,13 @@ Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said. "She 
 
 "Oh…"
 
+Justicar added, "We all must cope with –"
 
+Morrow got up in her face. "Shush you!! He needs time to think about –"
 
+"He can speak for himself. You should not –"
 
-
-[????? Asking about pronouns]
-
-"????? – uh –" I had been about to call Alchemist "he" because that was the last thing Justicar had said, but… "Uh, Alchemist, what are your pronouns? Like, should we call you 'he' or 'she' or –"
+"Speak for himself?!" I snapped. "Like <em>you'd</em> listen to him if he – uh –" I had automatically called Alchemist "he" because that was the last thing Morrow and Justicar had said, but… "Uh, Alchemist, what are your pronouns? Like, should we call you 'he' or 'she' or –"
 
 Alchemist's face shifted. I couldn't tell what it meant, but they looked pretty stressed out.
 
@@ -404,7 +404,7 @@ I held up my hands placatingly. "If that's a hard question, that's okay! We coul
 
 Alchemist shrugged uncomfortably. "You can call me whatever you like."
 
-I saw Morrow perk up, the way he did when he was about to prank someone. He was probably about to call Alchemist something silly. But then, he just <em>didn't</em>.
+I saw Morrow perk up, the way he did when he was about to prank someone. He was probably about to call Alchemist something silly, since they'd said we could call them <em>anything</em>. But then, he just <em>didn't</em>.
 
 It was weird, and I noticed it more and more as we all spent time together. Morrow acted like a completely different person when he was around Alchemist. He wasn't just affectionate, he was also patient and reassuring. Not as patient as Yali or anything, but still totally different from his normal self.
 
@@ -470,12 +470,13 @@ My first thought was that Morrow was being ridiculous. As overbearing as she was
 
 Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But getting Morrow calmed down was more important.
 
+Morrow didn't seem to be listening to me, so I decided to distract him instead. "Check <em>this</em> out!" I said, manifesting a whole bunch of fireworks. I messed up lighting them because I'd never actually gotten use one before – I'd been out with some older kids who smuggled them into the city, but I'd barely gotten my hands on one before someone snatched it away to stop me burning myself. So at first, I accidentally shot one onto the ground, where it set a couch on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I said to Morrow as I made bright trails across the sky.
 
-[????? Rinn distracts Morrow in a way that uses a lot of manifesting]
+Morrow started furiously manifesting fireworks of his own.
 
 Suddenly, Yali's voice echoed from around the star. "Can the rest of you stop manifesting for a while?" she said.
 
-"Sure, but why?" I said.
+I cursed inwardly. "Sure, but why?" I said out loud.
 
 "It's the Seeing. It's –"
 
