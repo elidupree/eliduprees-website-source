@@ -283,6 +283,25 @@ I wanted to help, but I wasn't sure how. "I mean, I don't know, I just say what 
 
 <bigbreak>
 
+Yali sat there for a long time. ????? Slow and heavy breathing. Her tears dried up, but her eyes were still puffy and reddish.
+
+The sun slowly rose, filtering through the blinds. The light made me realize what time it was and how long we'd been just sitting there. I offered to bring Yali some breakfast, but she just patted my hand and got up to get it herself. I followed her as she plodded around the kitchen, gathering up a meal for both of us. I was kinda hungry myself and I wanted to jump ahead, but this was my time to care for Yali. I stayed back and let her go through her process.
+
+When we were done, Yali gathered up the dishes and brought them to the sink to wash. She scrubbed each plate with practiced movements, like she'd done this a million times before.
+
+"You want to know something?" said Yali wistfully.
+
+"Yeah?"
+
+"The whole time I was in the Otherworld, there wasn't a single moment when I felt bad about killing Justicar. She was just, just… someone who was in the way of my goals. So I knew I had to get her out of the way, in whatever way was practical."
+
+"That's…"
+
+"That's the Waiting. It's what the god is, and it's a lot of what I am, too. When I think back to how I made the ?????s suffer, and Morrow… what I remember is, I <em>succeeded</em>. In the end, the only thing that matters is if you accomplished your goal. Your feelings don't matter – unless your feelings are part of the plan, I mean, <em>your</em> feelings mattered because of the whole Blood God thing, and my feelings sometimes mattered because I had to manage them in order to –"
+
+"But your feelings <em>always</em> mat–"
+
+"I know. I know." Yali [????? held up her hands to tell me she gets it and I should be quiet]. "And now that we're back, I'm a little more Blood again. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now too."
 
 
 [????? Where in this chapter?:]
