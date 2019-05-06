@@ -301,7 +301,7 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 "But your feelings <em>always</em> mat–"
 
-"I know. I know." Yali [????? held up her hands to tell me she gets it and I should be quiet]. "And now that we're back, I'm a little more Blood again. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now too."
+"I know. I know." Yali [????? held up her hands to tell me she gets it and I should be quiet]. "And now… I think I'm a little more Blood. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now, too."
 
 
 [????? Where in this chapter?:]
