@@ -528,6 +528,8 @@ Alchemist nodded, and they looked back at the workspace in front of them. There 
 
 ?????
 
+
+
 "This. Is. AWESOME!!" I zoomed up into the air.
 
 "Before you fly off," Yali called after me, "take this." I dropped back to the ground, but misjudged the distance and went tumbling onto the floor. Once I got up, Yali handed me a kitchen timer. "The potion won't last forever. This will go off when you need to come back."
@@ -540,7 +542,15 @@ Alchemist nodded, and they looked back at the workspace in front of them. There 
 
 ?????
 
-[????? While we were up in the air, Yali beckoned me close to her]
+I swooped around in the air, doing lots of spins and flips. I couldn't resist doing moves that made my stomach flip around, just to see if I could. I hovered upside down in the air and cruised past the others. "Ha ha, you're all upside down!" I shouted.
+
+Before long, Yali rose into the air as well. I flew up to her and tried to tempt her into doing some stunts with me, but she just smiled and said it was hard enough keeping her balance. "You gonna have <em>some</em> fun," I said affectionately.
+
+I wasn't really expecting her to go along with that, but she did. "I'll race you!" she said loudly. Then she zoomed off into space.
+
+I zoomed after her. The air whooshed past us. Before long, we were high up above the star, so high that it was only a tiny speck in the distance. It wasn't much of a race – as it turned out, no matter how hard I pushed, we both went the same speed and I couldn't be Yali's head start.
+
+Just when I was about to yell after her, Yali turned around and waved for me to come closer. She slowed down, letting me fly up to her. I flew straight into her and grabbed her in a big hug. We collided a little off-center, sending us both spinning around each other as we held on together. Or, it was more like me spinning around her while she spun in place, since she was way more massive than I was.
 
 As we tumbled through space, she put her mouth close to my ear. She spoke quietly, seriously. "There's something we need to talk about, away from certain people listening."
 
@@ -550,13 +560,25 @@ As we tumbled through space, she put her mouth close to my ear. She spoke quietl
 
 "What is it?"
 
-"We're going to reach the portals soon. When you enter the next layer, there'll be more of the Blood God in you. And we might be split up for a while. So… I'll need you to keep checking yourself. Notice if the Blood God starts having more influence on you."
+"We're going to reach the portals soon. When you enter the next layer, there'll be more of the Blood God in you. And we might get split up for a while. So… I'll need you to keep checking yourself. Notice if the Blood God starts having more influence on you."
+
+"I can do that," he said seriously. "I know how important it is when you say this stuff."
+
+"Thanks. I knew I could trust you."
+
+I grinned. "I love you so much." I flew up so our heads were level with each other, and kissed her on the mouth. "Wait a minute! Did you know you can trust me the regular way, or did you just look in the future to check if I'd –"
+
+"I, I –"
 
 ?????
 
-[???? Morrow says something announcer-y about Rinn and Yali but interrupts himself to ask:]
+"Also, it's not actually fun flying this high up! It's all just empty space up here, so we can't even tell when we're moving."
 
-Morrow clapped loudly as we got back near the star. "Aaaaand here they come again, back from their sky adventure! The great – the great – hey, what's y'all ship name??"
+"Uh, yeah, you're actually right."
+
+We both dropped back towards the star. I figured out that I can go even faster by just falling instead of flying at my top speed, but Yali made me fly just to be safe.
+
+As we got back near the star, I spotted Morrow lying in a hammock. He clapped loudly as we got close. "Aaaaand here they come again, back from their sky adventure! The great – the great – hey, what's y'all ship name??"
 
 I touched down lightly onto the star. "Woah, I can't believe we haven't got a ship name yet! We need one of those!"
 
