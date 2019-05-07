@@ -340,13 +340,17 @@ Justicar applauded softly. I joined in by clapping much louder, and pretty soon 
 
 "Thank you," said Yali neutrally.
 
-[????? short summary of the group's situation right now] Alchemist looked totally charmed. Ugh, how did Yali always know what to say? Haha, she'd probably looked in the future to see what Alchemist would like. <em>So</em> unfair.
+Morrow slouched on the mat, stuffing his face with a bag of popcorn he'd manifested while Yali was telling the story. Alchemist was relaxing next to him, sitting sideways and still looking at Yali intently. They looked totally charmed. Ugh, how did Yali always know what to say? Haha, she'd probably looked in the future to see what Alchemist would like. <em>So</em> unfair.
 
- [????? story's over and people appreciated it, now let's think about our plans for what's next]
+"Alright, who's next?" I said.
 
-?????
+Justicar tapped her foot. There was an awkward silence.
 
-"Bet we can ride Neenu straight to the portals!" said Morrow.
+"If no one has a story to tell, we could talk about what we plan to do next," Yali offered.
+
+"Yes, that would be wise," said Justicar. "We still have a long journey ahead of –"
+
+"Bet we can ride Neenu straight to the portals!" yelled Morrow.
 
 "Sounds good to me!" I said. "I'm sick of all this star stuff already."
 
@@ -370,7 +374,7 @@ Justicar raised an eyebrow. "If it helps… there is always a choice."
 
 "Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private data, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess, the place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
 
-There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had been mostly resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer. ?????
+There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had been mostly resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer. I could feel the excitement building up in my chest. But at the same time, there was also a slow uncertainty.
 
 In the silence, Alchemist made a small sound under their breath.
 
@@ -424,7 +428,7 @@ From behind me, I heard Justicar say, "Very well, I will accompany you. But I wi
 
 "What are you doing?" I said, confused.
 
-Morrow was being way quieter than usual. ?????
+Morrow was being way quieter than usual. I tried to pull him into doing our usual games, but he kept looking around and shaking his head.
 
 "Ssshhh! We have to be quiet for Alchemist!"
 
@@ -512,7 +516,7 @@ Morrow smirked. "Whaddaya think?"
 
 "I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on. Or, like, playing sports against her. <em>Girls</em>." I sighed happily. [????? I had probably messed up some realtionships by being too fight-y]
 
-Then I looked over at Morrow. He was [????? playing with something in his hands], not listening to me at all. Haha, should've known not to try to explain anything serious to him.
+Then I looked over at Morrow. He was messing with a puzzle box in his hands, not listening to me at all. Haha, should've known not to try to explain anything serious to him.
 
 "You want to play like that?" I laughed. I [????? pranked Morrow, in a way that they both have fun with]
 
@@ -674,13 +678,12 @@ At length, Justicar looked up, squinting into the distance.
 
 "We are about to arrive," she said. "The portal star can now be seen from here with the naked eye."
 
-????
+I jumped up and hurried to the edge to look along with her.
 
 
 
 
 
-[????? We were quiet for a while: maybe "there were a lot of things we didn't know". Then Morrow yells that the portal is in sight?]
 
 
 ?????
