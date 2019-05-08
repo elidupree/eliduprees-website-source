@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+import re
+
 import ravelling_wrath.chapter_01
 import ravelling_wrath.chapter_02
 import ravelling_wrath.chapter_03
@@ -51,3 +53,6 @@ posts = flatten([
   ravelling_wrath.chapter_19.posts,
   ravelling_wrath.chapter_20.posts,
 ])
+
+for post in posts:
+  post["contents"] = re.sub(r"\?{4,}", lambda match: "<mark>"+match.group(0)+"</mark>", post["contents"])
