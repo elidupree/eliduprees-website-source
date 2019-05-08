@@ -547,6 +547,18 @@ I held her hand. ?????
 
 [????? We made a lot of plans for what we were going to do in the next layer]
 
+Yali made me tell her everything I could remember about what Justicar had said in the second layer. I had to tell her about everything we've done together, even the stupid parts.
+
+"It seems like it will be, be, <em>difficult</em>, to change her mind," said Yali gravely.
+
+"Tell me something I don't know," I laughed.
+
+[????? "When the Stern have decided on a course of action, they are the second most difficult to convince otherwise"]
+
+I was about to complain about "second", but it was true. We both knew that [????? the hardest God to convince] was the Waiting God.
+
+
+
 ?????
 
 [????? "Is there anything else we need to discuss before we go to the next world"]

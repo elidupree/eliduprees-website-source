@@ -484,6 +484,8 @@ Into the silence, Alchemist mumbled something.
 
 "I actually do, she told me a lot about herself back in the second layer. I think she, like, <em>approves</em> of her parents. I'm pretty sure they were actually horrible to her though."
 
+Yali squinted. "You'll have to tell me more about that later. When we confront Justicar, anything we know about her could be important."
+
 ?????
 
 Eventually he met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them teaching him how to open a bank account, how to ?????. All the little things he missed out on by growing up in an abusive household. They were… also sex workers, I believe, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
