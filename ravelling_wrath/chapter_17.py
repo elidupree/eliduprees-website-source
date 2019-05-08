@@ -557,6 +557,20 @@ Yali made me tell her everything I could remember about what Justicar had said i
 
 I was about to complain about "second", but it was true. We both knew that [????? the hardest God to convince] was the Waiting God.
 
+"It's not impossible," Yali continued. "She is capable of admitting that she is wrong, and –"
+
+"Only about stuff that doesn't really matter! She's never gonna admit that it's wrong to do what the Stern God wants –"
+
+"I think our best bet is to convince her that killing you <em>isn't</em> what the Stern God wants."
+
+"Doesn't she <em>know</em> what the Stern God wants? Like, by magic?"
+
+"Remember, the gods think much slower than we do. I believe the Stern God gave her some, some, priorities, and a general sense of the situation, but it's up to her to figure out the right thing to do from day to day. So we may still have a chance. I was thinking I could start by telling her what we found out, how the Waiting God lied to everyone. It even lied to the Stern God and took advantage of the Justicars, so –"
+
+"She's never gonna believe that! She thinks the Stern God is perfect, she probably thinks it can't even <em>be</em> tricked. You've gotta say it like <em>she</em> was the one who got tricked, she's always talking about how <em>she</em> isn't perfect –"
+
+We spent the next few hours in a long argument about how to change Justicar's mind. (????? Summary of the argument and/or how they felt about it]
+
 
 
 ?????
