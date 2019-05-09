@@ -371,13 +371,13 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 [????? Probably "Yali using the unravelling potion" is the FIRST point for discussion afterwards]
 
-[????? "walk in any direction to get the portal". Morrow wakes up. Alchemist goes off with Morrow, they all start walking to the portal]
+[????? "walk in any direction to get the portal". Morrow wakes up. Alchemist goes off with Morrow, they all start walking to the portal. "You two can walk ahead of us," said Yali grumpily. "That way, we won't have to go back for you if Morrow [????? flakes out]"]
 
 [????? Is this the right place for Rinn to complain about Yali hating Morrow more than Justicar? Or should this go in the final chapter?]
 
 "Seriously, though, what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always '?????' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
 
-[????? rephrase this to account for Yali knowing in advance] "<em>Forty-five minutes,</em>" said Yali angrily. "That's how long it took me, running as hard as I could, to get to you before Morrow did too much damage. I know because I checked my phone while I ran to make sure I was pacing myself the right amount. Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. Forty-five minutes of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. It doesn't matter what I believe now. I will hate the face of Morrow for as long as I live."
+[????? Rephrase this to account for Yali knowing in advance] "<em>Forty-five minutes,</em>" said Yali angrily. "That's how long it took me, running as hard as I could, to get to you before Morrow did too much damage. I know because I checked my phone while I ran to make sure I was pacing myself the right amount. Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. Forty-five minutes of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. It doesn't matter what I believe now. I will hate the face of Morrow for as long as I live."
 
 "Woah, that's… I mean, shit."
 
@@ -429,6 +429,10 @@ Beside me, Yali stiffened.
 
 "Fine. Go. Just don't make me think about it."
 
+I wanted to argue back, to say that it wouldn't be so bad. But I had a feeling that we would just get in a fight and I wouldn't be able to convince her of anything. So I let it go. "Thanks. See you soon."
+
+I hurried on ahead. ?????
+
 ?????
 
 Morrow half-startled. After a moment, he looked back at me. "Oh. It's you."
@@ -459,11 +463,28 @@ Morrow pushed his hands through his hair and weakly pulled on it, as if he was t
 
 "It wasn't all your fault! It was the Seeking God. It –"
 
-[????? Morrow sobs and curls up on the ground]
+Morrow looked back at me with a blank expression, his eyes exhausted. "You think you know something about me?" he muttered.
+
+"What do you mean?"
+
+"I [????? hurt people] before I was ever in the Otherworld. Still think I'm [????? not horrible] now?" He said it in a tone as if it proved him right.
+
+"Uh, yes?? So what if you've got some bad things you did in your past! After everything those people did to you I'm glad you're <em>alive</em>, ?????
+
+"She told you too, did she?"
+
+Belatedly, I realized I shouldn't have assumed that Morrow knew about Yali seeing his memories. Although, given what he said, it looked like he'd already heard about it from Alchemist.
+
+[????? Morrow realizes that Rinn knows everything and isn't treating him like trash. Maybe he challenges her by saying something he thinks is really bad, but actually makes him look more like the victim. "So… You know about everything…]
+
+"You're –" Morrow's voice broke into a breathy whine. "You're stupid! Stupid, stupid, stupid!" He burst into tears.
+
+"
+
+[????? Morrow sobs and curls up on the ground/maybe just sitting?]
 
 "Hey, uh… so, I'm not against lying down and crying for hours, but
 
-[????? Probably something about Morrow's past]
 
 ?????
 
