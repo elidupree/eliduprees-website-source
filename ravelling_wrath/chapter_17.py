@@ -485,6 +485,17 @@ Belatedly, I realized I shouldn't have assumed that Morrow knew about Yali seein
 
 "Hey, uh… so, I'm not against lying down and crying for hours, but
 
+?????
+
+"Listen, when you get back to earth, –" I began. I wasn't completely sure where I was going with this. I'd kind of been thinking [????? go get a therapist, but various doubts, and therapists cost money] And I wasn't sure if Morrow had much money. We needed some sort of <em>free</em> public therapist. Or actually, what we needed was someone who was in charge, not in the sense of telling him what to do, but in the sense of having the authority to [????? give him the resources he needed]. Or being able to say "you deserve support, you deserve forgiveness, you can find a new purpose in life" and have it <em>count</em> because what they said was the sacred truth –
+
+Sacred? Oh, duh. What I was thinking of was a <em>priest</em>.
+
+But not a Stern priest, obviously. I'd never stick Morrow with the Stern. They'd probably tell him he <em>was</em> bad, and then he'd end up like Justicar. Well, actually, he'd probably tell them to go fuck themselves. But if he <em>did</em> trust them, it would still be bad. There were Seeking and Waiting priests, too, but they probably weren't what he needed either. So why was I –
+
+It dawned on me like it was obvious, like remembering something I'd known forever and just not thought of. What he needed was a <em>Blood</em> priest. A Blood priest would help him find his heart, help him see the value in his life. If he had no home to go back to, the Blood Temple would take him in. If he [????? had no work or stuff like that to give his life meaning,], the Blood Temple could give him meaningful work to do. ?????
+
+But there were no Blood priests now. [????? Rinn fully realizes it and cries]
 
 ?????
 
