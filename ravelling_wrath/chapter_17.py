@@ -493,7 +493,7 @@ Sacred? Oh, duh. What I was thinking of was a <em>priest</em>.
 
 But not a Stern priest, obviously. I'd never stick Morrow with the Stern. They'd probably tell him he <em>was</em> bad, and then he'd end up like Justicar. Well, actually, he'd probably tell them to go fuck themselves. But if he <em>did</em> trust them, it would still be bad. There were Seeking and Waiting priests, too, but they probably weren't what he needed either. So why was I –
 
-It dawned on me like it was obvious, like remembering something I'd known forever and just not thought of. What he needed was a <em>Blood</em> priest. A Blood priest would help him find his heart, help him see the value in his life. If he had no home to go back to, the Blood Temple would take him in. If he [????? had no work or stuff like that to give his life meaning,], the Blood Temple could give him meaningful work to do. ?????
+It dawned on me like it was obvious, like remembering something I'd known forever and just not thought of. What he needed was a <em>Blood</em> priest. A Blood priest would help him find his heart, help him see the value in his life. If he had no home to go back to, the Blood Temple would take him in. If he [????? had no work or stuff like that to give his life meaning,], the Blood Temple could give him meaningful work to do. ????? [????? something about "you can't feel like you don't deserve the Blood Temple's generosity because it's not generosity, it's just a fact of life that the Blood Temple provides for everyone", but that might need more set-up]
 
 But there were no Blood priests now. [????? Rinn fully realizes it and cries]
 
