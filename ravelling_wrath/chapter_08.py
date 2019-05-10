@@ -532,6 +532,26 @@ Alchemist nodded, and they looked back at the workspace in front of them. There 
 
 ?????
 
+Morrow walked up to Alchemist, and Alchemist wrang another potion out of thin air and handed it to him. They must have been communicating silently. After Morrow drink the potion, his eyes went wide and he stated turning around and staring at everything.
+
+"What does <em>that</em> one do?" I asked.
+
+Morrow was still out of it. Alchemist answered. "It, maybe, makes you, see, differently? Sometimes, easier to, see, everything?"
+
+"Can I tried it?"
+
+Alchemist made another one for me. It tasted like ?????. As soon as it went down my throat, ????? my vision separated into thousands of little bubbles, each highlighting a specific thing. Every star had its own bubble, every potion on the table had its own. Alchemist and the others were each a whole cluster of bubbles – one big bubble for the whole person, but also more bubbles around them that zoomed in on all the individual parts of their body. The face. Each eye. Each finger. Somehow, I could see everything clearly at once, even without moving my eyes to look at ?????it.
+
+I tried to move around to look at things from different angles. My vision was so <em>everything</em> that it was hard to remember how to walk. I managed it, but only slowly.
+
+"This is awesome," I said. "But, how do you turn it off?"
+
+In one of the tiny bubbles, Justicar frowned. "The Stern God's power allows me to remove certain forms of magic, but these potions are beyond me."
+
+It turned out that Yali and Alchemist had prepared a potion for this, too. A potion that would remove the effects of most other potions. It was actually one of the hardest ones to design, because there was no unifying thread to the Broken God's power, so it was hard to specifically remove <em>all potions</em> without removing other parts of your soul, too. But Yali and Alchemist had found a trick that made it work safely – at least to remove minor, fun potions like these ones. Yali thought it was important to have a bunch of the potion-removing-potions lying around. That was probably accurate.
+
+I drank one of them. It tasted like gritty ice, but lukewarm. My vision went back to normal, which was kind of a relief and kind of a disappointment.
+
 
 
 "This. Is. AWESOME!!" I zoomed up into the air.
