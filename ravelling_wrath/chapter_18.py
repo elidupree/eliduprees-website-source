@@ -192,7 +192,7 @@ Yali's body slammed into Justicar, knocking her off her feet. "Now is no time to
 
 "It is the Stern God's will that even if all seems hopeless, we still fight for what is right."
 
-"And yet the Stern gone also asks that we <em>yield when we must yield, even if it costs your pride.</em>
+"And yet the Stern gone also asks that we <em>yield when we must yield, even if it costs our pride.</em>
  
 "You quote the Stern God's prayer to me, yet you understand it very little. Now is no time for me to yield. Human lives hang in the balance. You would have me believe I cannot save any of them, but I cannot accept –"
 
@@ -214,17 +214,33 @@ In this moment, she raised her right arm towards the sky.
 
 A thousand lances of light struck from the heavens, piercing through the arm Justicar had offered. [????? Phrasing not cool enough: A ?????constrained scream echoed from her helmet as the arm cracked and melted away. In its place,]
 
+[????? Justicar was about to attack Yali with that, this was dangerous serious business, I worked extra hard to be ready to fight]
+
 ?????
+
+[????? Paragraph needs phrasing polished] The arm of light shot out towards Yali. It collided with the invisible barrier around her, the barrier that would set the world itself against her attacks. The hand ground into the barrier, making the air flicker and flash. The ground shook from the force. Bricks crumbled from nearby towers. I saw Yali's defenses crack and reform, struggling to retain their strength. For an instant, I saw Yali's face twisted into a mask of fear and rage. And then it was gone and she was calm again, steadily resisting Justicar's blows. But then I saw it again, just a flicker, not like she had really changed her expression, but like…
+
+It was an illusion. All of her calm… It was a potion. [????? Alchemist's carrying had kept her able to present that image]. But now it was cracking, and her true face was exposed. She no longer seemed invincible. She was losing. Yali, my second heart, was being torn to pieces. As [????? resourceful as she was], she had no chance against the raw force of Justicar.
+
+Not without me.
+
+[????? Rinn makes the decision to strike; because Justicar was attacking "my heart" meaning Yali]
+
+I plunged my one good hand into my heart. I drew forth a blade, the ultimate Blood Blade, a brilliant red wreathed in soulfire, glistening and dripping from its edge like an eye already weeping for my enemies' ripped-away lives.
 
 [????? Justicar's helmet is removed somehow]
 
 
 
+Then Yali's face loomed up behind Justicar's shoulder.
+
+With brutal practicality, Yali seized Justicar's head and shoved it forwards onto my blade.
+
 ?????
 
-Our bodies were locked together. For a long moment, we hung in a delicate balance on the three feet we had between us. But then, we began to topple. Our bodies fell together, crashing among the wreckage. Justicar's stiff body landed on top of mine, ?????.
+Our bodies were locked together, linked by the blade jutting from my forehead into Justicar's. For a long moment, we hung in a delicate balance on the three feet we had between us. But then, we began to topple. Our bodies fell together, crashing among the wreckage. Justicar's stiff body landed on top of mine, ?????.
 
-????? It was over. I relaxed into the pain, [????? My blades, including any leg supports] melted away into blood. ?????
+????? It was over. I relaxed into the pain, [????? My blades, including any leg supports] melted away into blood. ????? Above me, Justicar's armor splintered into dust and vanished. Her human body slumped down onto mine. [????? Thin and bony, Her empty eyes, her] After all this, in the end, she was so human. So tragically human.
 
 And then Yali was there. Her hands heaved Justicar off of me, letting the sun's warming light fall on my head and chest. I couldn't move my arms to lift myself, but I bent my neck towards her, closing my eyes happily. Yali was here. Everything was going to be okay.
 
