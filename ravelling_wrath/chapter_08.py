@@ -540,7 +540,7 @@ Morrow was still out of it. Alchemist answered. "It, maybe, makes you, see, diff
 
 "Can I tried it?"
 
-Alchemist made another one for me. It tasted like ?????. As soon as it went down my throat, ????? my vision separated into thousands of little bubbles, each highlighting a specific thing. Every star had its own bubble, every potion on the table had its own. Alchemist and the others were each a whole cluster of bubbles – one big bubble for the whole person, but also more bubbles around them that zoomed in on all the individual parts of their body. The face. Each eye. Each finger. Somehow, I could see everything clearly at once, even without moving my eyes to look at ?????it.
+Alchemist made another one for me. It tasted like ?????. As soon as it went down my throat, ????? my vision separated into thousands of little bubbles [????? different description, this is un-Broken: , each highlighting a specific thing. Every star had its own bubble, every potion on the table had its own. Alchemist and the others were each a whole cluster of bubbles – one big bubble for the whole person, but also more bubbles around them that zoomed in on all the individual parts of their body. The face. Each eye. Each finger.] Somehow, I could see everything clearly at once, even without moving my eyes to look at ?????it.
 
 I tried to move around to look at things from different angles. My vision was so <em>everything</em> that it was hard to remember how to walk. I managed it, but only slowly.
 
@@ -550,7 +550,7 @@ In one of the tiny bubbles, Justicar frowned. "The Stern God's power allows me t
 
 It turned out that Yali and Alchemist had prepared a potion for this, too. A potion that would remove the effects of most other potions. It was actually one of the hardest ones to design, because there was no unifying thread to the Broken God's power, so it was hard to specifically remove <em>all potions</em> without removing other parts of your soul, too. But Yali and Alchemist had found a trick that made it work safely – at least to remove minor, fun potions like these ones. Yali thought it was important to have a bunch of the potion-removing-potions lying around. That was probably accurate.
 
-I drank one of them. It tasted like gritty ice, but lukewarm. My vision went back to normal, which was kind of a relief and kind of a disappointment.
+I drank one of them. It tasted like gritty ice, but lukewarm. My vision went back to normal, which was kind of a relief, and kind of a disappointment.
 
 
 
@@ -568,11 +568,11 @@ I drank one of them. It tasted like gritty ice, but lukewarm. My vision went bac
 
 I swooped around in the air, doing lots of spins and flips. I couldn't resist doing moves that made my stomach flip around, just to see if I could. I hovered upside down in the air and cruised past the others. "Ha ha, you're all upside down!" I shouted.
 
-Before long, Yali rose into the air as well. I flew up to her and tried to tempt her into doing some stunts with me, but she just smiled and said it was hard enough keeping her balance. "You gonna have <em>some</em> fun," I said affectionately.
+Before long, Yali rose into the air as well. I flew up to her and tried to tempt her into doing some stunts with me, but she just smiled and said it was hard enough keeping her balance. "You gotta have <em>some</em> fun," I said affectionately.
 
 I wasn't really expecting her to go along with that, but she did. "I'll race you!" she said loudly. Then she zoomed off into space.
 
-I zoomed after her. The air whooshed past us. Before long, we were high up above the star, so high that it was only a tiny speck in the distance. It wasn't much of a race – as it turned out, no matter how hard I pushed, we both went the same speed and I couldn't be Yali's head start.
+I zoomed after her. The air whooshed past us. Before long, we were high up above the star, so high that it was only a tiny speck in the distance. It wasn't much of a race – as it turned out, no matter how hard I pushed, we both went the same speed. I couldn't be Yali's head start.
 
 Just when I was about to yell after her, Yali turned around and waved for me to come closer. She slowed down, letting me fly up to her. I flew straight into her and grabbed her in a big hug. We collided a little off-center, sending us both spinning around each other as we held on together. Or, it was more like me spinning around her while she spun in place, since she was way more massive than I was.
 
