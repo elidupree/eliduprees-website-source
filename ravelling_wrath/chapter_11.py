@@ -259,11 +259,27 @@ It was driving me crazy. I felt trapped in this place. Even if I wasn't going to
 
 [????? Rinn currently cuddling with Alchemist]
 
-[????? maybe Rinn being impatient to get somewhere, and alchemist saying maybe you shouldn't try so hard, then Rinn is annoyed that suppresses her annoyance, then:]
+"This fucking map!" I complained. "We go one direction, and it says we're going the other! And not even consistently! This whole place…"
 
-[????? "Maybe the reason you're not getting anywhere is that you are trying to hard"]
+Alchemist rubbed my shoulder gently, not saying anything. It was nice and all, but it wasn't really what I cared about right now.
 
-"What, so I'm not supposed to <em>try –</em>?!" <em>Fuck that! Fuck this whole place!!</em> I yelled inside my head. But of course, I didn't yell it out loud, because it was fucking <em>Alchemist</em>. I just gritted my teeth and frustration.
+"Alchemist, what do you think? How do we get out of here?"
+
+"I, don't, know?"
+
+"Come on, work with me here. You've gotta have <em>some</em> idea."
+
+"Well, maybe, I, wonder, if,…"
+
+"Go on, spit it out."
+
+"I, maybe, see you trying so hard, and nothing changing. I wonder if, maybe, that's why?"
+
+"That's why what?"
+
+"I saw, more things change, in the stones, before you, were here. It was easier, without, trying to make it happen. I wonder if, because you're trying so hard, that's why, it doesn't…"
+
+"What, so I'm not supposed to <em>try –</em>?!" <em>Fuck that! Fuck this whole place!!</em> I yelled inside my head. But of course, I didn't yell it out loud, because it was fucking <em>Alchemist</em>. I just gritted my teeth in frustration.
 
 Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was having to suppress my feelings all the time. And sure, I had to suppress some of my feelings with Yali, too, but at least Yali let me <em>be</em> angry, just as long as it wasn't at <em>her</em>.
 
@@ -343,7 +359,7 @@ Alchemist's hand tugged me back.
 
 "When you're, looking for a way out, it doesn't make you feel good…"
 
-"I'm not TRYING to feel good, I'm trying to get OUT of here!!" I yanked my hand away from Alchemist. "You can stay back here and keep wasting your time if you want to! ?????!"
+"I'm not TRYING to feel good, I'm trying to get OUT of here!!" I yanked my hand away from Alchemist. "You can stay back here and keep wasting your time if you want to! I'm going to DO something!"
 
 Alchemist's mouth opened and closed a little. They stared back at me, distraught.
 
@@ -389,7 +405,7 @@ The wind howled through the gorge in front of me. From the part of me that was t
 
 I stared, open-mouthed. "You kidding me?! No way! He doesn't <em>look</em> twenty-five. He doesn't <em>act</em> twenty-five. And how the fuck did you even get him to tell you how old he was? <em>I</em> couldn't get him to!"
 
-"I, didn't? He, didn't, tell me. It was… little things. There were some shows he referred to, and, things from politics, that he wouldn't know, if he was just my age. He was… so… upset, when I realized. He made me promise not to tell anyone…" Alchemist cringed. "Oh… I forgot…"
+"I, didn't? He, didn't, tell me. It was… little things. There were some shows he referred to, and, things from the news, that he wouldn't know, if he was just my age. He was… so… upset, when I realized. He made me promise not to tell anyone…" Alchemist cringed. "Oh… I forgot…"
 
 "Don't worry, he won't hear about it from me." Alchemist stared at me. "Wait, shit." Morrow was going to read Alchemist's mind, and then he'd find out that Alchemist had told me. And then he'd <em>also</em> find out that I'd tried to cover it up! "I mean, just don't think about it when he's around!"
 

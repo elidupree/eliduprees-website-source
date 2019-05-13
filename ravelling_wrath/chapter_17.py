@@ -509,9 +509,13 @@ But there were no Blood priests now. [????? Rinn fully realizes it and cries]
 
 "But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even thought of Justicar as "not my real enemy". <em>Justicar!</em>
 
-Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last seventy years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to bring meaning to their anger, to guide it to a better purpose." ????? "Besides… even if we did want to, we still shouldn't do it <em>yet</em>. Your soulfire is one of the only powers that can pierce Justicar's armor."
+Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last seventy years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to guide their anger to a better purpose, to –"
 
-"I'll have to kill her…" I said. I swallowed. "?????!"
+"To bring meaning to it!" I said.
+
+"Yeeeeessss…" Yali stared into the distance. "Besides… even if we did want to, we still shouldn't do it <em>yet</em>. Your soulfire is one of the only powers that can pierce Justicar's armor."
+
+"I'll have to kill her…" I said. I swallowed. "Does it have to be that way?!"
 
 "It may be necessary," said Yali gravely.
 
@@ -579,7 +583,7 @@ I held her hand. ?????
 
 [????? We made a lot of plans for what we were going to do in the next layer]
 
-Yali made me tell her everything I could remember about what Justicar had said in the second layer. I had to tell her about everything we've done together, even the stupid parts.
+Yali made me tell her everything I could remember about what Justicar had said in the second layer. I had to tell her about everything we'd done together, even the stupid parts.
 
 "It seems like it will be, be, <em>difficult</em>, to change her mind," said Yali gravely.
 
@@ -597,13 +601,13 @@ I was about to complain about "second", but it was true. We both knew that [????
 
 "Doesn't she <em>know</em> what the Stern God wants? Like, by magic?"
 
-"Remember, the gods think much slower than we do. I believe the Stern God gave her some, some, priorities, and a general sense of the situation, but it's up to her to figure out the right thing to do from day to day. So we may still have a chance. I was thinking I could start by telling her what we found out, how the Waiting God lied to everyone. It even lied to the Stern God and took advantage of the Justicars, so –"
+"Remember, the gods think much slower than we do. I believe the Stern God gave her some, some, priorities, and a general sense of the situation, but it's up to her to figure out the right thing to do from day to day. So we may still have a chance. I was thinking I could start by telling her what we found out, how the Waiting God manipulated everyone. It even manipulated the Stern God and took advantage of the Justicars, so –"
 
 "She's never gonna believe that! She thinks the Stern God is perfect, she probably thinks it can't even <em>be</em> tricked. You've gotta say it like <em>she</em> was the one who got tricked, she's always talking about how <em>she</em> isn't perfect –"
 
-We spent the next few hours in a long argument about how to change Justicar's mind. (????? Summary of the argument and/or how they felt about it]
+We spent the next few hours in a long argument about how to change Justicar's mind. It wasn't the worst argument, but it was frustrating, because we kept all of you talking past each other. We were making completely different assumptions about how Justicar's mind worked. By the end, I felt like I knew even less about Justicar than I had before. And Yali didn't seem very confident either.
 
-
+In the end, Yali settled on a few strategies to try if we got the chance. Neither of us thought they were that likely to work. But I couldn't really think of anything better.
 
 ?????
 
