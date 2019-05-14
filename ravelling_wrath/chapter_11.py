@@ -257,7 +257,7 @@ I had no idea.
 
 It was driving me crazy. I felt trapped in this place. Even if I wasn't going to get to Yali, it was so stupid to not even TRY to get closer to her! So I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure I was actually getting somewhere and the Seeking God wasn't somehow cheating me out of my progress. But [????? whenever I checked it, we had never gone in the direction I thought we were going.] ?????
 
-[????? Rinn currently cuddling with Alchemist]
+Right now, I was tired, slouching on a couch I made, cuddling with Alchemist. At least <em>this</em> part was comfortable.
 
 "This fucking map!" I complained. "We go one direction, and it says we're going the other! And not even consistently! This whole place…"
 
