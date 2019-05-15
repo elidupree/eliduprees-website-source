@@ -304,11 +304,11 @@ Yali gently pulled my hand back down. "I can tell one," she said.
 
 This is a story that was first told to me by… my mother, when I was very small. It was told to her by her own mother, who first heard it in… a temple, told by a priest who read it from the archives, written by an unknown hand.
 
-In the early days of the city, before the walls went up, there was a family who oversaw the eastern farmland. And in this family, there was a child. She was a quiet child, and while the other children ran in the fields and played games of knights and clergy, she liked to sit by herself, digging in the dirt with sticks and burying acorns that she found lying on the ground.
+In the early days of the city, before the walls went up, there was a family who oversaw the eastern farmland. And in this family, there was a child. She was a quiet child, and while the other children ran in the fields and played games of knights and priests, she liked to sit by herself, digging in the dirt with sticks and burying acorns that she found lying on the ground.
 
-"Why do you always play alone? Why do you bury acorns, like a squirrel?" asked the other children. But she just laughed to herself and kept digging.
+"Why do you always play alone?" asked the other children. "Why do you bury acorns, like a squirrel?" But she just laughed to herself and kept digging.
 
-Seasons turned from sun to snowfall. [????? Other markers of time passing] The child grew to her teenage years.
+Seasons turned from sun to snowfall, snowfall to sun. [????? Other markers of time passing] The child grew to her teenage years.
 
 ?????
 
@@ -530,17 +530,21 @@ When we came back around the star, Alchemist was talking with Yali, quietly but 
 
 Alchemist nodded, and they looked back at the workspace in front of them. There were a bunch of bottles of bubbling potions, a lot of pictures and notes, and even some little heaps of colorful goo just lying on the table. Before I was done looking at it, Alchemist got to work again. Their soft hands reached out and tugged glowing strands out of nowhere, less like a stage magician waving a wand and more like a heavy laborer wringing magic out of the soaking air. 
 
-?????
+"We thought we'd have a little demonstration," said Yali. "Some of these potions are completely safe –"
 
-Morrow walked up to Alchemist, and Alchemist wrang another potion out of thin air and handed it to him. They must have been communicating silently. After Morrow drink the potion, his eyes went wide and he stated turning around and staring at everything.
+"<em>Some</em> of them?" I said.
+
+"Yes, only some of them. Don't drink anything unless me or Alchemist says it's safe. Fortunately, none of you is likely to do that, or I wouldn't have agreed to this. We have a few different types of safe potions you can try out –"
+
+Morrow walked up to Alchemist, and Alchemist wrang another potion out of thin air and handed it to him. They must have been communicating silently. After Morrow drank the potion, his eyes went wide and he stated turning around and staring at everything.
 
 "What does <em>that</em> one do?" I asked.
 
 Morrow was still out of it. Alchemist answered. "It, maybe, makes you, see, differently? Sometimes, easier to, see, everything?"
 
-"Can I tried it?"
+"Can I try it?"
 
-Alchemist made another one for me. It tasted like ?????. As soon as it went down my throat, ????? my vision separated into thousands of little bubbles [????? different description, this is un-Broken: , each highlighting a specific thing. Every star had its own bubble, every potion on the table had its own. Alchemist and the others were each a whole cluster of bubbles – one big bubble for the whole person, but also more bubbles around them that zoomed in on all the individual parts of their body. The face. Each eye. Each finger.] Somehow, I could see everything clearly at once, even without moving my eyes to look at ?????it.
+Alchemist made another one for me. It tasted like ?????. As soon as it went down my throat, my vision split apart into thousands of little bubbles, each observing only a very small area. Alchemist's face in front of me was split into thousands of little bits, like an intricate stained-glass window, but also moving and flowing as I looked around. Up above, individual stars danced from bubble to bubble. And somehow, I could see everything clearly at once, even without moving my eyes to focus on individual things.
 
 I tried to move around to look at things from different angles. My vision was so <em>everything</em> that it was hard to remember how to walk. I managed it, but only slowly.
 
@@ -552,7 +556,9 @@ It turned out that Yali and Alchemist had prepared a potion for this, too. A pot
 
 I drank one of them. It tasted like gritty ice, but lukewarm. My vision went back to normal, which was kind of a relief, and kind of a disappointment.
 
+<bigbreak>
 
+Of course, that wasn't the <em>only</em> potion we got to play with.
 
 "This. Is. AWESOME!!" I zoomed up into the air.
 
@@ -572,9 +578,9 @@ Before long, Yali rose into the air as well. I flew up to her and tried to tempt
 
 I wasn't really expecting her to go along with that, but she did. "I'll race you!" she said loudly. Then she zoomed off into space.
 
-I zoomed after her. The air whooshed past us. Before long, we were high up above the star, so high that it was only a tiny speck in the distance. It wasn't much of a race – as it turned out, no matter how hard I pushed, we both went the same speed. I couldn't be Yali's head start.
+I zoomed after her. The air whooshed past us. Before long, we were high up above the star, so high that it was only a tiny speck in the distance. It wasn't much of a race – as it turned out, no matter how hard I pushed, we both went the same speed. I couldn't beat Yali's head start.
 
-Just when I was about to yell after her, Yali turned around and waved for me to come closer. She slowed down, letting me fly up to her. I flew straight into her and grabbed her in a big hug. We collided a little off-center, sending us both spinning around each other as we held on together. Or, it was more like me spinning around her while she spun in place, since she was way more massive than I was.
+Just when I was about to yell after her, Yali turned around and waved for me to come closer. She slowed down, letting me fly up to her. I flew straight into her and grabbed her in a big hug. We collided a little off-center, sending us both spinning around each other as we held on together. Or, it was more like me spinning around her while she spun in place, since she was way heavier than I was.
 
 As we tumbled through space, she put her mouth close to my ear. She spoke quietly, seriously. "There's something we need to talk about, away from certain people listening."
 
@@ -586,7 +592,7 @@ As we tumbled through space, she put her mouth close to my ear. She spoke quietl
 
 "We're going to reach the portals soon. When you enter the next layer, there'll be more of the Blood God in you. And we might get split up for a while. So… I'll need you to keep checking yourself. Notice if the Blood God starts having more influence on you."
 
-"I can do that," he said seriously. "I know how important it is when you say this stuff."
+"I can do that," I said seriously. "I know how important it is when you say this stuff."
 
 "Thanks. I knew I could trust you."
 
@@ -594,13 +600,12 @@ I grinned. "I love you so much." I flew up so our heads were level with each oth
 
 "I, I –"
 
-?????
+"Haha, it's fine. I love you."
 
-"Also, it's not actually fun flying this high up! It's all just empty space up here, so we can't even tell when we're moving."
+<bigbreak>
 
-"Uh, yeah, you're actually right."
-
-We both dropped back towards the star. I figured out that I can go even faster by just falling instead of flying at my top speed, but Yali made me fly just to be safe.
+Pretty soon, we realized it wasn't actually fun flying this high up. It was all just empty space up here, so we couldn't even tell when we were moving.
+So we both dropped back towards the star. I figured out that I could go even faster by just falling instead of flying at my top speed, but Yali made me fly at the regular speed, just to be safe.
 
 As we got back near the star, I spotted Morrow lying in a hammock. He clapped loudly as we got close. "Aaaaand here they come again, back from their sky adventure! The great – the great – hey, what's y'all ship name??"
 
@@ -610,7 +615,7 @@ Alchemist must not have known what a ship name was, because Morrow immediately e
 
 "Really?" I said.
 
-Yali smirked. "It's better than 'Yawn'."
+Floating down beside me, Yali smirked. "It's better than 'Yawn'."
 
 "Oh my gods."
 
