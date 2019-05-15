@@ -92,11 +92,11 @@ That's when I realized. Alchemist and Morrow were both on some of the higher wal
 
 [????? Where in this chapter?
 
-"And why you always call Alchemist 'he'?"
+"And why do you always call Alchemist 'he'?"
 
 "He said, 'you can call me whatever you like'. Surely I am not being disrespectful."
 
-I couldn't find a whole and that logic. But it didn't <em>feel</em> respectful.
+I couldn't find a hole in that logic. But it didn't <em>feel</em> respectful.
 
 
 <bigbreak>
@@ -680,7 +680,7 @@ When I really concentrated, really paid attention to how they felt… they weren
 
 "Stop that!" said Justicar. She probably still thought I was playing with <em>real</em> fire.
 
-I smirked. With a flourish, I jumped into the center of the flames. Then I turned around and leaned my back against the spurting source of the fire, stretching and yawning as if I was relaxing in a hot spring or something. It actually hurt a lot, but it was worth it to watch Justicar panic. "I <em>get it now!</em>" I said. "This one was here to <em>teach</em> me! To teach me that none of the flamethrowers ever mattered! I could have walked through them all along!"
+I smirked. With a flourish, I jumped into the center of the flames. Then I turned around and leaned my back against the spurting source of the fire, stretching and yawning as if I was relaxing in a hot spring or something. It actually hurt a lot, but it was worth it to watch Justicar panic. "I <em>get</em> it now!" I said. "This one was here to <em>teach</em> me! To teach me that none of the flamethrowers ever mattered! I could have walked through them all along!"
 
 And it wasn't even just that I would have to <em>walk</em> into the flames. In this puzzle, <em>I</em> didn't have to do anything except stand in the middle of the fire room helplessly, while <em>Justicar</em> had to turn it on.
 
