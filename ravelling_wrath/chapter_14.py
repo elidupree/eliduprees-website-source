@@ -350,7 +350,7 @@ Yali smiled joylessly. "Can you tell I've told this story before? The parts befo
 
 Her words kept echoing around my head like it was an empty cave. I felt like there were a million things I wanted to say, but none of them came to me. How? How could people be so horrible? I was supposed to be angry, to hate ????? and ????? and Arinyo Seti for everything they had put her through. But there was an emptiness inside me where the anger should have been.
 
-What could I say? What would Rinn Akatura say? I was supposed to say something, to sympathize, to have an answer to the whole picture of what she told me. But it was a picture of something I couldn't comprehend. [????? My mind stubbornly clung to the tiny details it could make sense of.]
+What could I say? What would Rinn Akatura say? I was supposed to say something, to sympathize, to have an answer to the whole picture of what she told me. But it was a picture of something I couldn't comprehend. I could only stumble from tiny detail to tiny detail.
 
 "I can't believe your only friend left you…" I said hollowly. "Like, officially <em>left</em> you. On a specific day and everything…"
 
@@ -360,7 +360,21 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 "You've only ever seen what I'm like when I'm with <em>you</em>," she said simply.
 
-[????? Somewhere, clarify that the reason for the hiding from Chapter 2 was that if the waiting Temple knew about Yali being the Farseer, they would nonconsensually bring her in to train]
+It was true… Until now, I had hardly known anything about Yali's life before we met. I had loved her and wanted to know everything about her, but she always [????? didn't want to talk about it]. [????? Leading to:]
+
+"When you said I couldn't tell anyone you were the Farseer…"
+
+"<em>She would have wanted me back,</em>" said Yali bitterly. "If the Waiting Temple knew I <em>mattered</em> to the Waiting God, <em>then</em> they would have cared about me. It was one of the first things I used the Seeing for. I saw them take me away to their temples, I saw them give me all kinds of <em>training</em> to make me the best Farseer I could be. I would never accept that from <em>them!</em> Especially since I would never get to see <em>you</em> again until we were facing off in the Otherworld!"
+
+"Would they have… forced you?"
+
+"Yes! No, no, not exactly. The Waiting Temple is, is, complicated, the way they do things. But I wouldn't have had a choice."
+
+"That's horrible…" I breathed.
+
+[????? "You really think so?" – Yali not used to having this opinion accepted]
+
+
 
 ?????
 
