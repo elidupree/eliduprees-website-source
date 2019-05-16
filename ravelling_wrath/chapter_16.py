@@ -134,10 +134,12 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I know what you're thinking. How are we going to kill the Farseer without hurting Yali? But that doesn't seem so hard, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook both of my fists in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
 
-My fire billowed around me. I rose effortlessly to my feet. Within my aura of flame, everything ????? The rain boiled off of me, leaving me warm and dry. My remaining wounds faded away, my flesh made whole and warm again, my skin smoothed together into a single, beautifully sensitive organ.
+My fire billowed around me. I rose effortlessly to my feet. Within my aura of flame, everything felt amazing. The rain boiled off of me, leaving me warm and dry. My remaining wounds faded away, my flesh made whole and warm again, my skin smoothed together into a single, beautifully sensitive organ.
 
 In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky whisper, she spoke:
 
+[????? centered formatting:]
+<em>The power I feel around me is the fire of my soul.</em>
 <em>No wall can hold me.</em>
 <em>No truth can hide from me.</em>
 <em>No force can break me for as long as my blood still flows.</em>
@@ -149,6 +151,7 @@ A thrill rose through me as I heard those words. "That sounds like a prayer," I 
 I smiled easily. "I wish you could <em>be</em> me."
 
 ?????
+
 <bigbreak>
 
 Getting the details was a lot harder than I had hoped. The Blood God – or at least, the part of me that was the Blood God – had a general sense of what had happened, but it didn't seem to remember specific things that happened the way a human would. Going through its memories took a lot of intuition and guesswork. Sometimes, something just felt right. But if I tried to think about it more, I'd lose it. Eventually, I settled into saying everything out loud as soon as it came into my head – and half the time, I'd immediately feel like, <em>no, I didn't say that right</em>. And then I'd have to say, "no, that's not right", so that Yali would know to delete it from where she was taking notes on her phone. And then I would try to think of something else and see if <em>that</em> was right.
@@ -337,7 +340,7 @@ In front of us, Alchemist made their way through the last bit of brambles, and p
 
 "I'm glad you're back!" I said.
 
-Alchemist smiled a little, but their eyes were downcast. They wobbled back and forth. They clearly have something else on their mind.
+Alchemist smiled a little, but their eyes were downcast. They wobbled back and forth. They clearly had something else on their mind.
 
 "I've had… an idea," said Alchemist.
 

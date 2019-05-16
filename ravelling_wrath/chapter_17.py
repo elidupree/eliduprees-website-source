@@ -21,7 +21,7 @@ posts = [
 
 "I've, been, thinking, and…"
 
-Alchemist clearly had a lot weighing on them. Their eyes were puffy and their robes were matted down from the rain. They kept their hands clasped together right in front of their chest, their shoulders curled inwards. Yali and I waited for them to [????? figure out what to say].
+Alchemist clearly had a lot weighing on them. Their eyes were puffy and their robes were matted down from the rain. They kept their hands clasped together right in front of their chest, their shoulders curled inwards. Yali and I waited for them to get their thoughts in order.
 
 "I know, what, you said. Morrow… his powers… we can't get near him without his powers, hurting us. But, what if…"
 
@@ -47,7 +47,7 @@ We were all silent for a while, digesting that question.
 
 "Actually, it's a Waiting saying."
 
-"Oh duh, it refers to plans, haha. Wait, never mind that! You really think it's possible? This changes everything! If there was a potion like that, <em>I</em> could drink it and then the Blood God wouldn't – no, wait, <em>you</em> could drink it and then we'd have won without –"
+"Oh duh, it refers to plans, haha. Wait, never mind that! You really think it's possible? This changes everything! If there was a potion like that, <em>I</em> could drink it and then the Blood God wouldn't rejuvenate – no, wait, <em>you</em> could drink it and then we'd have won without –"
 
 "Rinn. Shhhh. We'll have time to discuss that later. You're forgetting Alchemist."
 
@@ -55,7 +55,7 @@ I looked back at Alchemist, who was still watching us nervously. "Shit, sorry. T
 
 Alchemist drooped. "Oh… I didn't think…"
 
-Yali said exhaustedly, "We <em>do</em> now have a way to safely bring it to him…"
+Yali said exhaustedly, "We <em>do</em> have a way to safely bring it to him, <em>now</em>…"
 
 "Oh yeah! I have my soulfire now! No one can stop me!" I was excited, but Yali didn't even crack a smile. "Yali, are you okay…?"
 
@@ -77,7 +77,7 @@ Making the potion wasn't as simple as I had assumed.
 
 The next bit of conversation was… certainly <em>interesting</em>. Alchemist kept saying something vague or even just waving their hand aimlessly, and every time, Yali filled in a clear, detailed description.
 
-Up until now, Alchemist had mostly just manifested their potions directly. But if a potion was too powerful, manifested matter wouldn't be able to hold it. The same power that let the potion <em>do</em> what it was supposed to <em>do</em>, could also destabilize the matter that contained it. And this <em>particular</em> potion was even worse. It was specifically designed to mess with a person's soul. So, even when it was still in a bottle, it would constantly be trying to mess with any soul that touched it. And manifested matter wasn't technically part of your soul, but it was still <em>connected</em> to your soul – that's why you could unmanifest it. So we definitely needed to make the potion out of matter that came from the world, not from us.
+Up until now, Alchemist had mostly just directly manifested the materials for their potions. But if a potion was too powerful, manifested matter wouldn't be able to hold it. The same power that let the potion <em>do</em> what it was supposed to <em>do</em>, could also destabilize the matter that contained it. And this <em>particular</em> potion was even worse. It was specifically designed to mess with a person's soul. So, even when it was still in a bottle, it would constantly be trying to mess with any soul that touched it. And manifested matter wasn't technically part of your soul, but it was still <em>connected</em> to your soul, and that meant the potion would mess with it. So we definitely needed to make the potion out of matter that came from the world, not from us.
 
 "So, do we have to go find some clean water?" I said. "I was at a stream a while back –"
 
@@ -91,10 +91,15 @@ Alchemist hesitantly followed her. "Do you, know, what, we're looking for?"
 
 It was a long walk, through a lot of mud. At first, I manifested a swath of fire to boil it away. Yali liked it, but it scared Alchemist. So then I just manifested a bunch of wooden boards to lay down over the mud. That worked for a while, but when it came time to use the Seeing, Yali asked me to stop manifesting to make it easier. So then we had to trudge through a lot of mud again. At least I had my nice boots now.
 
-While we walked, we also filled in Alchemist on everything that had happened since they left.
-[????? Summary language: setting off to look for ingredients, and also telling Alchemist about the revelations from last chapter
+While we walked, we also filled in Alchemist on everything that had happened since they left. I was excited to tell them everything we'd learned about the Blood God and the Waiting God. But they mostly just kept their head down and occasionally hummed their acknowledgment. They were probably still thinking about Morrow.
 
-At last, we came to a spot where Yali saw something in the future. She pointed Alchemist to the general area where they had found something, then let them lead the way.
+"But with the unravelling potion, this changes everything!" I said again.
+
+"Yes…" said Yali. "Alchemist, if the potion works, would you mind making another one for me afterwards? I want to drink it, so that the Waiting God doesn't rejuvenate. Not yet, but in the next layer."
+
+"Hmm? Oh, yes, if you want…" Alchemist wasn't really paying attention.
+
+At last, at one of the spots we stopped at, Yali saw something in the future. She pointed Alchemist to the general area where they had found something, then let them lead the way.
 
 Alchemist led us to a tiny brook and knelt down next to it. They lowered their hands into the water, kneading the thick clay from the streambed and drawing up handfuls of it into a little sack.
 
@@ -122,7 +127,7 @@ Yali chuckled. "Don't worry about it."
 
 [????? word variety: don't just say "plants" every time here:]
 
-Not that I was much use. I looked up a bunch of plants, but I didn't find anything about extracting oil. Then I found an article about a giant, enchanted plant that ate people. It was made by a serial killer who was also a sorcerer, and even after he got caught for a different murder, the plant ate a few more unsuspecting people over the next few months before they figured out what was happening. Nobody suspected it because it looked like any other ????? until it grabbed someone and ate them. After they finally dealt with it, they also cut down and replanted all the other ?????plants in the town he was from, just in case.
+Not that I was much use. I looked up a bunch of plants, but I didn't find anything about extracting oil. Then I found an article about a giant, enchanted tree that ate people. It was made by a serial killer who was also a sorcerer, and even after he got caught for a different murder, the tree ate a few more unsuspecting people over the next few months before they figured out what was happening. Nobody suspected it because it looked like any other tree until it grabbed someone and ate them. After they finally dealt with it, they also cut down and replanted all the other trees in the town he was from, just in case.
 
 [????? Eventually, I was interrupted because] Yali found what she was looking for. Of course, the plants we needed didn't seem to be growing anywhere around here. But after a long discussion, Yali and Alchemist agreed that they could use Alchemist's powers to <em>grow</em> the plants they needed. Regular manifesting wouldn't work, but the Broken God could cheat plants out of nowhere. Even then, it was too similar to manifested matter, but if they just started with seedlings and let them grow the rest of the way from the soil, most of the matter would be from the soil, so it would work.
 
