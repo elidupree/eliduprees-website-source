@@ -362,9 +362,9 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 "You've only ever seen what I'm like when I'm with <em>you</em>," she said simply.
 
-It was true… Until now, I had hardly known anything about Yali's life before we met. I had loved her and wanted to know everything about her, but she always [????? didn't want to talk about it]. [????? Leading to:]
+It was true… Until now, I had hardly known anything about Yali's life before we met. I had loved her and wanted to know everything about her, but she had never wanted to talk about herself. [????? Leading to:]
 
-"When you said I couldn't tell anyone you were the Farseer…"
+"So… When you said I couldn't tell anyone you were the Farseer…"
 
 "<em>She would have wanted me back,</em>" said Yali bitterly. "If the Waiting Temple knew I <em>mattered</em> to the Waiting God, <em>then</em> they would have cared about me. It was one of the first things I used the Seeing for. I saw them take me away to their temples, I saw them give me all kinds of <em>training</em> to make me the best Farseer I could be. I would never accept that from <em>them!</em> Especially since I would never get to see <em>you</em> again until we were facing off in the Otherworld!"
 
@@ -394,7 +394,7 @@ That should have been a relief, but I didn't feel it. My brain was still wanderi
 
 We met up with Morrow and Alchemist at another intersection, right where we'd planned. They both rushed to take a look at me. Yali stood in the way and shouted at Morrow to stay back.
 
-Then she and Alchemist examined me together. Alchemist cried while they were doing it. For me, it was more tedious than anything. I just had to sit still while they talked some technical soul stuff I didn't understand.
+Then she and Alchemist examined me together. Alchemist cried while they were doing it. For me, it was just tedious. I just had to sit still while they talked some technical soul stuff I didn't understand.
 
 They talked a lot about how my soul had been left for hours when it was only partially healed. Apparently, that was bad, but also good. It made things more complicated. Alchemist made me a series of different potions. All of them tasted different from each other, all subtle but unpleasant. I just drank them down as ordered. Eventually, they agreed that it was a success. My soul wasn't quite the same as before, but it was pretty much whole again.
 

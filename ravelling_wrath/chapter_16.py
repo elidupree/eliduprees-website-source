@@ -102,11 +102,15 @@ All at once, a wave of hopelessness washed through me, completely turning around
 
 ?????
 
+I hauled myself up to my knees. Crudely, my wounds began to knit themselves closed again.
+
+?????
+
 "If I understand you right, every time you've said 'you', you've been talking about the Waiting God. But what do you think about me – Yali?"
 
 "But you <em>are</em> the Farseer."
 
-"I may be the Farseer, but do you see no difference between me and the Waiting God? I am not the god! If the Waiting God is responsible for this ?????conflict, I will do anything in my power to stop it!"
+"I may be the Farseer, but do you see no difference between me and the Waiting God? I am not the god! If the Waiting God is responsible for this injustice, I will do anything in my power to stop it!"
 
 I stared at the being in front of me.
 
@@ -128,17 +132,21 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I – I – I –"
 
-"I know what you're thinking. How are we going to kill the Farseer without hurting Yali? But that doesn't seem so hard, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the back. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook both of my fists in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, and unquenchable fire of strength, of sureness, of love.
+"I know what you're thinking. How are we going to kill the Farseer without hurting Yali? But that doesn't seem so hard, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook both of my fists in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
 
-????? more fire stuff; Yali is awed
+My fire billowed around me. I rose effortlessly to my feet. Within my aura of flame, everything ????? The rain boiled off of me, leaving me warm and dry. My remaining wounds faded away, my flesh made whole and warm again, my skin smoothed together into a single, beautifully sensitive organ.
 
-No wall can hold me. No truth can hide from me. No force can break me for as long as my blood still flows."
+In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky whisper, she spoke:
 
-Hearing those words, a thrill rose through me. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it forever.
+<em>No wall can hold me.</em>
+<em>No truth can hide from me.</em>
+<em>No force can break me for as long as my blood still flows.</em>
+
+A thrill rose through me as I heard those words. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it forever.
 
 "Yes. The Blood God's prayer. You… I wish you could see yourself. It's beautiful."
 
-I smiled ?????confidently. "I wish you could <em>be</em> me."
+I smiled easily. "I wish you could <em>be</em> me."
 
 ?????
 <bigbreak>
@@ -245,7 +253,7 @@ Hours passed. We got through all the most important things to talk about, ?????.
 
 I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just rocks. Just my back resting against the hard bark. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
 
-"Uh… shit," I said, looking at it.
+"Uh… shit," I said, looking at it. That was <em>my</em> blood. Or the Blood God's blood, or something like that.
 
 Yali followed my gaze. "Are you okay? I just want to make sure, since that's technically a lot of blood –"
 
