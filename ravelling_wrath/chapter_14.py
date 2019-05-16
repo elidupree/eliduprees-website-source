@@ -330,7 +330,7 @@ I had succeeded. I should have been happy.
 
 For years, I had kept myself going with the thought that if only I could prove what had happened, she would take me back, Arinyo Seti would take me back. But it was never something that was going to happen. She is Waiting, just as I am. She had made her commitments, and she would not change them for anything. She did not even tell me to my face. She wrote me a letter. It was a letter full of apologies and explanations. She wrote that everything that had been done to me was her own fault. That she did not know if she could ever be forgiven. And that I would be better off living my life far away from her.
 
-Twenty minutes after I read that letter, I cried for the first time in years. I still wanted believe that there was a home I could go back to. I didn't want to believe that she was no more than a [????? flawed/evil; maybe "flawed, callous"] human. I still have that letter, in the drawer of my nightstand. It is the bitterest thing I own.
+Twenty minutes after I read that letter, I cried for the first time in years. I still wanted believe that there was a home I could go back to. I didn't want to believe that she was no more than a [????? flawed/evil; maybe "flawed, callous"] human. I still have that letter, in the drawer of my nightstand. Of all the things I own, it is the one I have the most feelings about.
 
  ????? I was given into the custody of the Stern. For the next ????? years, I was raised and educated in a Stern monastery.
 
@@ -345,6 +345,8 @@ So, last year, I asked for permission to live independently, and to attend a reg
 I guess there's not much more to tell. [????? Some stuff about the school?] [????? Here or above: now I have a mission again so I'm not currently depressed]
 
 <bigbreak>
+
+????? Remind reader of physical situation
 
 Yali smiled joylessly. "Can you tell I've told this story before? The parts before ?????, that is. I haven't told anyone since I came to [????? our school]. I wanted to try having a normal school life, just to try it."
 
@@ -372,13 +374,13 @@ It was true… Until now, I had hardly known anything about Yali's life before w
 
 "That's horrible…" I breathed.
 
-[????? "You really think so?" – Yali not used to having this opinion accepted]
+Yali squinted a little. "You really think so? I, I guess you do hate the temples. Most people don't take my side when I talk about the Waiting Temple that way."
 
+"But it's horrible, it's, like, obvious…" I repeated weakly. I should have had a brilliant explanation for how messed up it was for the temples to coerce people into things, but I couldn't think of it.
 
+A few paces later, Yali suddenly looked relieved. "Justicar has gone through the portal," she announced. "That's at least one last danger while we're still in this layer."
 
-?????
-
-[????? Somewhere: Justicar has gone through the portal. Maybe "suddenly Yali looked relieved"]
+That should have been a relief, but I didn't feel it. My brain was still wandering, thinking about the Waiting Temple. ?????
 
 ?????
 

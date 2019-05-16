@@ -446,7 +446,7 @@ I had about five minutes of quiet to get started, then there was another boom an
 
 "Hey! I thought you were going to be quiet!"
 
-"Just a mistake! Won't happen again!" Somehow, I wasn't convinced of his sincerity. So I checked the time on my phone.
+"Just a mistake! Won't happen again!" Somehow, I wasn't convinced that he was being sincere. So I checked the time on my phone.
 
 Three minutes and four seconds later, an actual person-sized cart rolled off the underside of the star and crashed near my bed.
 
@@ -538,7 +538,7 @@ With a huge roar, a green, scaly dragon trampled over the wreckage on the unders
 
 "Haha!" The dragon leapt down to where I was standing and spun around with a flourish, sending its scales flying off in all directions. Once I batted a few scales out of my face, I could see that it <em>was</em> Morrow, except that now he was wearing shimmering wizard robes with long flowy sleeves.
 
-"Also, how did you breathe fire?! <em>I</em> want to do that!" I said. All
+"Also, how did you breathe fire?! <em>I</em> want to do that!" I said.
 
 "I manifested the fire in my mouth! And then I –"
 
@@ -546,7 +546,7 @@ I tried it. "Owwww! That's hot!" I quickly manifested the burns away.
 
 Morrow snickered. "Haha, you also gotta manifest on your mouth so it doesn't burn."
 
-It took me a few tries to get it right. I had to concentrate on maintaining the temperature of the whole inside of my mouth, while simultaneously making fire appear inside and shoot outwards.
+It took me a few tries to get it right. I had to concentrate on cooling off the whole inside of my mouth, while simultaneously making fire appear inside and shoot outwards.
 
 By the time I got good at it, Morrow had already moved on to something else. He had made a wooden model city, and now he was hanging upside down from some monkey bars. Naturally, I breathed fire all over the city immediately. But instead of the whole city catching on fire, only a thin outer layer of wood burned off, revealing a metal city underneath. In the background, I heard Morrow laughing at me.
 
