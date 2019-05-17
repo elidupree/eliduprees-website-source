@@ -277,7 +277,7 @@ Morrow's one working eye wavered back and forth, never quite focusing in on me. 
 
 I didn't get a chance to finish. The power rushed in at me. As soon as I said my name, I could feel it locking on, making me the one focus of the entire world. The trees, the hills, and even Morrow faded into the background. I was the one on stage, and all around me, it was like millions of scrabbling fingers trying to pull at my thoughts, tongues pressing in to get a taste of my essence, mouths trying to suck away my skin and drain out the juice below.
 
-But even the grotesque pressure of his powers was little more than a shadow to my soulfire. I hung on tight, blazing brightly against the vortex, holding the chaos firmly at arms length.
+But even the grotesque pressure of his powers was little more than a shadow to my soulfire. I hung on tight, blazing brightly against the vortex, holding the chaos firmly at arm's length.
 
 "Too bright!!!" Morrow screamed. "It's burning me, you're burning me –"
 
@@ -293,17 +293,17 @@ I clasped him by the shoulders. I didn't know if he could feel what I felt, but 
 
 "Morrow. I know you're in pain. I want you to listen to me. I'm here to help." In the warmth of my soulfire, it was all so simple. The things to say were so obvious.
 
-"Pain? Pain where?? ?????
+"Pain? Pain where?? Y'mus'be thinking of someone else!
 
 [????? morrow sticking to saying unrelated stuff]
 
-The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me. He was a tiny, ?????adjective flame trying to carve out a hole in a huge cloud of fear. And he was also the cloud, trying to drive the flame away from danger and pain. And he was also the pain, trying to scream out to be heard. He was reaching out for… comfort? No, for… safety? No, not even that. [????? He wasn't able to believe in safety.] ????? clinging onto anything that made him feel like he was in control.
+The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me. He was a tiny, ?????adjective flame trying to carve out a hole in a huge cloud of fear. And he was also the cloud, trying to drive the flame away from danger and pain. And he was also the pain, trying to scream out to be heard. He was reaching out for… comfort? No, for… safety? No, not even that. Even just basic safety was way beyond what he could think of right now. He was clinging onto anything that could make him feel like he was in control of what was happening.
 
-[????? Rinn says something reassuring]
+"I can give you a way to get back in control. How does that sound?"
 
-[????? Morrow ignores it and pulls Rinn further along, "it's just up ahead!"]
+Morrow tried to pull me by the arm, tugging me into walking along the ravine with him. His broken fingers didn't do a good job of it, but he tried. "You've gotta see this! It's just up ahead!"
 
-I was pretty sure there wasn't anything up ahead. But [????? I chose to play along, with a reason]
+I was pretty sure there wasn't anything up ahead. But I played along. He was starving for someone to listen, and if I could feed that hunger, he might open up to me more. And just walking wasn't going to hurt anything.
 
 As we walked along together, I watched how he was moving. He jerked along, alternately flinching in pain and lunging forward to compensate. This pain was going to be a problem. As long as the literal, physical pain was overwhelming him, there was no way I could expect him to step back and think about what I had to say. [????? But how could I get him to accept help with the pain if he wasn't listening in the first place]
 
@@ -315,9 +315,9 @@ I grabbed onto his head, letting soulfire flow from my hands to stop whatever he
 
 "Raylie… Raylie…" he moaned.
 
-I wasn't going to get a direct answer. I wanted to just go ahead and spray him, but I had to be careful. If I made him feel like I was taking away his control, he might cling onto his problems even harder. I had to approach this differently. [????? Something like "I'm going to do it, tell me if there is any reason I shouldn't" – think about what's the best things to acknowledge for consent/etc. reasons]
+I wasn't going to get a direct answer. How could I get him to accept help with the pain, when the pain was even stopping him from listening to me ask about the pain? I wanted to just go ahead and spray him, but I had to be careful. If I made him feel like I was taking away his control, he might cling onto his problems even harder. I had to approach this differently. "I'm going to spray the healing potion on you. It'll make the pain go away. If you're listening, if you don't want to, just tell me, okay? I won't do it if you say you don't want me to."
 
-?????
+[????? Morrow kept ignoring]
 
 I sprayed.
 
@@ -327,7 +327,19 @@ The cloudy potion splattered and dripped down his face. Where it touched his swo
 
 Well, except for one thing. I almost hadn't noticed it earlier between all the bruises and stuff, but Yali had put the Watchful Eye on him, too. It wasn't even [????? neat], it was sort of scrawled diagonally up his cheek from the corner of his mouth.
 
-?????
+"Morrow," I said gently, looking down at him. "Can you hear me? Do you know where we are, do you understand why –"
+
+Morrow grinned up at me. "Rinn!" he exclaimed. His legs were splayed randomly across the grass, but he already seemed a lot closer to reality. "You said you're help – the spray – Raylie! She must have sent you to heal – no – there was more! You followed me for some <em>other</em> reason, what was it – no don't tell me, it must have been –" His powers rushed in at me again. But I held on firmly to my soulfire.
+
+"You're right," I said. "I did have another reason to come. I have another potion for you. It –"
+
+"What does it do?!"
+
+"It will break your connection to the Seeking God. You'll be Morrow again."
+
+Morrow stared at me blankly.
+
+
 
 
 Morrow ran to where I pointed. As soon as he spotted where the potion was sitting, he dove and snatched it up. He plowed into the ground, then clumsily rolled into a sitting position. Then he wrenched off the top of the jar and slammed it onto his face.
