@@ -339,8 +339,15 @@ Morrow grinned up at me. "Rinn!" he exclaimed. His legs were splayed randomly ac
 
 Morrow stared at me blankly.
 
+"You'll be able to see Raylie again, without hurting them.
 
+?????
 
+"You'll lose your powers, but –"
+
+"I'll lose my powers!! A Raveller without powers! Has that ever happened before?! I'll be the first one ever, EVER!" ????? Morrow held out his hands. "Gimme gimme gimme –"
+
+"I don't have it on me!" I laughed. "I left it over there."
 
 Morrow ran to where I pointed. As soon as he spotted where the potion was sitting, he dove and snatched it up. He plowed into the ground, then clumsily rolled into a sitting position. Then he wrenched off the top of the jar and slammed it onto his face.
 
@@ -350,11 +357,11 @@ I looked back at him.
 
 "What comes next?! Is it gonna –"
 
-Morrow jerked forward, like he was choking. Some… <em>thing</em> started spilling out of his mouth. It was like the magic from the portals – I couldn't see it physically, but it was dazzling. ?????
+Morrow jerked forward, like he was choking. Some… <em>thing</em> started spilling out of his mouth. It was like the magic from the portals – I couldn't see it physically, but it was dazzling. I could feel it even through my soulfire. Bright sparks of feeling, the rush of discovery, the tantalizing challenge of paradox. All in a jumble, they blazed brightly and winked out.
 
-Moments later, it was gone. [????? Morrow's powers were gone, too, leaving just the woods and the quiet sound of the water moving around us]
+Moments later, it was gone. The pressure of Morrow's powers suddenly lifted, too, leaving just the woods and the quiet sound of the water moving around us.
 
-Morrow looked up at me again, ?????. "Rinn! You're back!" He looked around, as if he was saying everything for the first time. "Nice woods! Just think of all the things we can –"
+Morrow looked up at me again, his head bobbing excitedly. "Rinn! You're back!" He looked around, wide-eyed, as if he was seeing everything for the first time. "Nice woods! Just think of all the things we can –"
 
 He slumped forward and fell motionless.
 
@@ -372,7 +379,7 @@ I knelt down and slung him over my shoulders. Carrying him was almost effortless
 
 The walk back out of the ravine was uneventful. With Morrow's powers gone, it seemed like maybe things could be calm again. At least for now. For now, I just had to make sure not to drop him.
 
-When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new broad belt with loads of potions hanging from it. ????
+When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new, broad belt with loads of potions hanging from it. ????
 
 "What's up with all the gear?" I called out.
 
@@ -382,7 +389,7 @@ When I got back to Yali and Alchemist, they were already standing to greet me. Y
 
 When I got close, Alchemist hurried to check on Morrow. It was pretty awkward with me still carrying him over my shoulder. "Oy, let me put him down first!" I said. I shoved Alchemist back a bit, manifested a mattress and slung Morrow down onto it.
 
-As Alchemist crouched over him to check his vital signs, Yali looked down at Morrow contemptfully. She frowned. "I don't believe there is any risk that I will attack him again," she said, "but things will be much easier if he is kept a good distance away from me after he wakes up."
+As Alchemist crouched over him to check his vital signs, Yali looked down at Morrow contemptfully. She frowned. "I don't believe there is any risk that I will attack him again," she said, "but after he wakes up, things will be much easier if he is kept a good distance away from me."
 
 ?????
 
@@ -462,7 +469,7 @@ Morrow's eyes moved slowly. "How do you want me to feel?"
 
 Well, he was still Morrow, at least. "Dude. You really gonna make a game out of it <em>now</em>?"
 
-"Ehh…" He looked back away from me, and kept plodding along. I caught up and walked alongside him. I stayed quiet, waiting for him to make the first move. I was kind of just doing this to be nice to Alchemist, anyway. [????? I was totally on Morrow's side when it came to the life-and-death stuff], but I was still kinda sick of him as a person.
+"Ehh…" He looked back away from me, and kept plodding along. I caught up and walked alongside him. I stayed quiet, waiting for him to make the first move. I had kind of only come here to be nice to Alchemist, anyway. I would have gladly fought a bear to protect Morrow it came to life-and-death stuff, but I was still kinda sick of him as a person.
 
 After a while of us just crunching through the leaves, Morrow broke the silence.
 
@@ -476,7 +483,7 @@ I sized him up, deciding how to answer that. Alchemist would probably have wante
 
 "You pretty much did," I said. "You fucked up real bad, and you hurt all three of us. And it could've been a lot worse if we hadn't all worked together to save you. But it's over now. You don't have to hurt anyone anymore."
 
-Morrow pushed his hands through his hair and weakly pulled on it, as if he was trying to rip his hair out but his heart wasn't really in it. Before long, he dropped his hands limply at his sides again. "I knew it…" he muttered. "I'm so fucked up…"
+Morrow pushed his hands through his hair and weakly pulled on it, as if he was trying to rip his hair out but he couldn't summon up the energy to do it. It was kinda heartbreaking. Before long, he dropped his hands limply at his sides again. "I knew it…" he muttered. "I'm so fucked up…"
 
 "It wasn't all your fault! It was the Seeking God. It –"
 
