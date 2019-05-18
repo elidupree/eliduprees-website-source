@@ -308,21 +308,26 @@ I have been told it was a very good boarding school, but it was not what I neede
 
 During school vacations, when I was at home, ?????. When they weren't using me for their pleasure, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information about child abuse. I learned that what they were doing to me was not normal [?????, and, more importantly, not <em>legal</em>. And that meant that there was something I could do to change it.]
 
-I began recording everything they did. Every
+I began writing down everything they did. I wrote down dates and times, details of every abusive act. The more I paid attention to it, the more I noticed how even the little things were abusive. The way they talked to me. The way they talked to each other. And as soon as I could, I started making recordings with my phone. I installed an app that could record audio without displaying anything on the screen, so I wouldn't get caught even if they saw it. And I knew their patterns. When they assaulted me, I sometimes managed to prepare by leaving my phone nearby in advance. To make sure the recordings would be incriminating, I begged them out loud, being specific about what they were doing, so that their responses would prove I was telling the truth.
 
 ?????
 
 [????? Concerns about pregnancy] I became increasingly certain that I needed to make my move.
 
+
+
 I didn't know whether I could trust the police. And I didn't know how far the ?????s would go to silence me. I had already left an earlier copy of my records with [????? a friend I thought I could trust], telling her to go to the police with them if I ever disappeared. When I decided to go to the police myself, I went back to her and told her the plans had changed. If I didn't come back, it would mean the police had betrayed me to the ?????s. So I told her that if I didn't come back, she should take my records to the press.
 
+The police didn't believe me at first. From the things I'd read online, I knew that might happen, especially for an abuse survivor who didn't show emotion, like me. So I had prepared for that. I just held up my phone and played back one of the recordings I'd made. Then they had no choice but to listen to me.
 
-
+After that, it was a long process. At least eight different people came to ask me questions.
 ?????
 
 He called me "a perfect witness" and "my little psychopath". He said I would make a good lawyer one day, and I am not sure whether it was a compliment.
 
 ?????
+
+And there were problems of jurisdiction. The police near the school were Stern police, but the crimes had been committed in the first layer, where the Waiting Temple had authority. And for weeks, the Waiting did nothing. The Stern made a formal request to take over the case, and the Waiting didn't answer the request. [????? The detective] told me they were probably dragging their heels because my case would be a scandal for the Waiting. I told him if that was the problem, I could solve it by threatening to send my records to the press, so that they would have an even bigger scandal if they didn't do anything. When I said that, [????? The detective] laughed and said he would take care of it. Within a few days, the case was transferred to the Stern.
 
 [????? They both pled guilty.]
 
@@ -330,7 +335,7 @@ I had succeeded. I should have been happy.
 
 For years, I had kept myself going with the thought that if only I could prove what had happened, she would take me back, Arinyo Seti would take me back. But it was never something that was going to happen. She is Waiting, just as I am. She had made her commitments, and she would not change them for anything. She did not even tell me to my face. She wrote me a letter. It was a letter full of apologies and explanations. She wrote that everything that had been done to me was her own fault. That she did not know if she could ever be forgiven. And that I would be better off living my life far away from her.
 
-Twenty minutes after I read that letter, I cried for the first time in years. I still wanted believe that there was a home I could go back to. I didn't want to believe that she was no more than a [????? flawed/evil; maybe "flawed, callous"] human. I still have that letter, in the drawer of my nightstand. Of all the things I own, it is the one I have the most feelings about.
+Twenty minutes after I read that letter, I cried for the first time in years. I still wanted to believe that there was a home I could go back to. I didn't want to believe that she was no more than a [????? flawed/evil; maybe "flawed, callous"] human. I still have that letter, in the drawer of my nightstand. Of all the things I own, it is the one I have the most feelings about.
 
  ????? I was given into the custody of the Stern. For the next ????? years, I was raised and educated in a Stern monastery.
 
@@ -356,7 +361,7 @@ What could I say? What would Rinn Akatura say? I was supposed to say something, 
 
 "I can't believe your only friend left you…" I said hollowly. "Like, officially <em>left</em> you. On a specific day and everything…"
 
-Yali answered matter-of-factly. "It was 100% my own fault. No child her age could have given me what I needed. I practically bullied her until she was a nervous wreck."
+Yali answered matter-of-factly. "It was 100% my own fault. No child her age could have given me what I needed. I practically bullied her until she was a nervous wreck. It was one of the things I saw differently after I learned about abuse… I was the abuser in that relationship, even if –"
 
 "…<em>you</em> did that? <em>You</em>…?"
 
