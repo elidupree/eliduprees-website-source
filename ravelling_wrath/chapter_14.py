@@ -278,7 +278,7 @@ It was barely days before their performance fell apart. Everything they did in p
 
 And if I ever spoke up to make them stop, they yelled at me as well. They called me worthless. They called me an inconvenience. I was no better than the furniture they tried to polish until the stain was invisible. I started making sure the house was in perfect order, hoping there wouldn't be anything to set them off. But when ????? caught me trying to clean the house, he cornered me and berated me until I was frightened into silence, accusing me of trying to cover up for ?????'s carelessness. I quickly learned to clean things up when no one was looking.
 
-They had never wanted a child to love and nurture for her own sake. They had wanted a child because they thought, if they were forced to love and nurture a child, they could pretend that was who they really were. They could complete the story they were telling themselves about who they were and what their relationship was. But they could not. And once they could no longer pretend, I was just another burden to them, a failed prop that they had no way to get rid of.
+They had never wanted a child to love and nurture for her own sake. They had wanted a child because they thought, if they were forced to love and nurture a child, they could pretend that that was who they really were. They could complete the story they were telling themselves about who they were and what their relationship was. But they could not. And once they could no longer pretend, I was just another burden to them, a failed prop that they had no way to get rid of.
 
 And as they couldn't get rid of me, they put me to any use they could think of.
 
@@ -286,11 +286,11 @@ I was a child. I didn't understand what sex was. But I had heard them. I had lis
 
 And then there was the day when I walked in on them.
 
-I understand that memories can be altered when we remember them. False memories are a thing that can happen. And the order of events I remember is impossible. But [????? the overall way it happened is something I can be certain about:] They used me as a glorified sex toy. Maybe they were trying to spice up their sex life to forget everything that was wrong with the relationship. And for all their convoluted rules about which kinds of sex were freakish or perverted, literally using a child's body to pleasure themselves was not covered.
+I understand that memories can be altered when we remember them. False memories are a thing that can happen. And the order of events I remember is impossible. But I have no doubt of what ultimately happened: They used me as a glorified sex toy. Maybe they were trying to spice up their sex life to forget everything that was wrong with the relationship. And for all their convoluted rules about which kinds of sex were freakish or perverted, literally using a child's body to pleasure themselves was not covered.
 
-Once the idea was in their minds, it could not be removed. Both of them raped me many times. Both together and separately. [?????femalename in particular forced me into many different positions creatively, all the while complaining that it was on the fair because she thought ????? had gotten to use me more than she had.]
+Once the idea was in their minds, it could not be removed. Both of them raped me many times. Both together and separately. [?????femalename in particular forced me into many different positions creatively, all the while complaining that it was unfair because she thought ????? had gotten to use me more than she had.]
 
-I blamed myself for a long time. I no longer do. Those thoughts are not allowed authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. Now I can even say it out loud without being afraid I will believe it. This time was easier than last time. That is good.
+I blamed myself for a long time. I no longer do. I do not allow those thoughts to have authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. Now I can even say it out loud without being afraid I will believe it. This time was easier than last time. That is good.
 
 On other days, they cried and begged me not to tell anyone what they had done. They said it would ruin them. They accused me of tempting them into it. They accused me of despising them for their weakness. Because I was silent. Because I never cried or screamed. Because I had seen them for what they truly were.
 
@@ -302,11 +302,11 @@ She told me she <em>understood</em> that I wasn't happy with the ?????s. She tol
 
 <em>That</em> is when she betrayed me. To keep her grand plan to serve the Waiting God, she could not admit to her mistake, even to save me from years of abuse. I will never forgive her for that. And I will never forgive the Waiting God for accepting her service after that. The Waiting God knows all, but it did nothing to protect me. My suffering was insignificant to it. No matter what it wants or why, no matter how much [????? I seem to follow in its footsteps], I refuse to let it puppeteer my life any longer.
 
-[????? But that is something I can only say from my comfortable position in the future. Back in the past, I had many years of life left to suffer through. They sent me to a private school described in some way.] In those days, I had only one friend, and I treated her very badly. When she left me, it was the worst day of my life. [????? Bit more details and her name]
+But that is for the future, and I am not finished telling you about the past. The ?????s still had to keep up appearances. At eight years old, they sent me to a private boarding school. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. Around me, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
 
-?????
+I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were friendly. I didn't like the other kids either. In those days, I had only one friend, and I treated her very badly. When she left me, it was the worst day of my life. [????? Bit more details and her name]
 
-To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information on child abuse. I learned that what they were doing to me was not normal, and, more importantly, not <em>legal</em>. And that meant that there was something I could do to change it.
+During school vacations, when I was at home, ?????. When they weren't using me for their pleasure, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information about child abuse. I learned that what they were doing to me was not normal [?????, and, more importantly, not <em>legal</em>. And that meant that there was something I could do to change it.]
 
 I began recording everything they did. Every
 
