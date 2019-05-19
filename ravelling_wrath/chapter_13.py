@@ -26,23 +26,36 @@ Then her scream came crashing through my mind. Suddenly, my blood was pounding t
 
 My muscles pulled in all directions at once. I crashed to the floor.
 
-It was an old, familiar feeling, my body tumbling down, getting bruises on my arms and smacking my jaw into the ground. It wrenched out a memory from deep inside me. <em>I AM RINN AKATURA!!!</em> I screamed inside, trying to speak it with my mouth but barely managing a huff of air.
+It was an old, familiar feeling, my body tumbling down, getting bruises on my arms and smacking my jaw into the ground. It wrenched out a memory from deep inside me. A memory of me rolling around in the dirt, just being Rinn. A simpler time, long before I had to kill and be killed. What had happened to me?! How had I turned into a monster! No! Why did I have to think about this <em>now</em>?! Why did I have to fall apart right at the moment of my [????? revenge/success]?! She was dying, I had to finish her off! No! I had to get away, I couldn't –
 
-?????
+Face down on the floor, I clawed at the stones, desperately dragging myself away from her. If I got close, if I saw where she was, I would do it again, I would draw my blades, I could feel them in my hands, I could feel myself shredding her body, it would be so right, it wasn't enough, I had to stay away, stay away from her, no matter what.
 
-If I saw where she was, the other me would lunge at her again. I crawled wildly in the other direction, clawing at the floor. I had to stay away, stay away from her, no matter what.
+Her heavy panting filtered through to my senses. "All –" she gasped, "– all this planning, and I forgot how much pain <em>hurts!</em>" It was at an angle behind me. Now I knew right where she was! I could – no! I shook my head wildly, trying to forget.
 
-Her heavy panting filtered through to my senses. "All this planning, and I forgot how much pain <em>hurts!</em>" she gasped. It was at an angle behind me. That gave me her location! I could – no! I shook my head wildly, trying to forget where she was.
+I struggled to lift one arm, to crawl just one more step.
 
-?????
+What was I doing? Why was I doing this? Who was I? I was Rinn, wasn't I? I was supposed to be Rinn. I didn't feel like I was. <em>I AM RINN AKATURA!!!</em> I screamed inside. It felt fake. I tried to make the words come out of my mouth. I barely managed a huff of air.
 
-Her heavy hands gripped my shoulders. I tried to thrash away. Her voice echoed in my years. "Rinn, are you there?"
+I heard her footsteps, crisp on the floor behind me. I fell forward again, my body slumping flat against the hard stones.
+
+Her shadow loomed over my head. Her heavy hands gripped my shoulders. I tried to thrash away. Her voice echoed in my ears. "Rinn, are you in there?"
 
 "I AM!!" I screamed. "I CAN'T HOLD ON!!!"
 
 "You can," she said decisively. "Just keep holding on. You are real. This body is yours."
 
 The sound of her voice helped me focus on what was real. I
+
+?????
+
+"Look at me," she said seriously.
+
+"No! Please, no –"
+
+"Trust me. It's going to be okay."
+
+"No…" I moaned. But I knew I had to do what she said.
+
 ?????
 
 Looking at her was the most terrifying thing I'd ever done. I wanted a hundred things at the same time. I wanted to run away. I wanted to hug her. I wanted to get down on the floor and beg for forgiveness and sob into her legs. I reached out to do it all at the same time. But I was frozen in terror.
@@ -103,7 +116,7 @@ Yali held me down. "I'll be using this Seeing regularly. If anything is going to
 
 "You can go straight to the exit portal. The Stern God won't approve, but it won't stop you. We'll meet up again in the next layer. It'll be okay."
 
-But as soon as she said that, another horrible thought screamed in my head. "But what if I don't?! What if I get to the portal and I can't make myself go through it?!!"
+But as soon as she said that, another horrible thought screamed in my head. "But what if I don't?! What if I get to the portal and I can't make myself go through it? What if I turn back while you're on the Farseer's Path and you don't know I'm coming and I do it again?!!"
 
 "I, I –"
 

@@ -297,6 +297,12 @@ I clasped him by the shoulders. I didn't know if he could feel what I felt, but 
 
 [????? morrow sticking to saying unrelated stuff]
 
+[????? Morrow hovers some of his blood, it takes a certain shape]
+
+shot out into the air, a long line stabbing through the air, then piercing into the wall of the ravine, sinking into the earth like an injection. Near where it struck, huge chunks of the ground bubbled and stretched, ballooning into bulbous shapes,
+
+?????
+
 The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me. He was a tiny, ?????adjective flame trying to carve out a hole in a huge cloud of fear. And he was also the cloud, trying to drive the flame away from danger and pain. And he was also the pain, trying to scream out to be heard. He was reaching out for… comfort? No, for… safety? No, not even that. Even just basic safety was way beyond what he could think of right now. He was clinging onto anything that could make him feel like he was in control of what was happening.
 
 "I can give you a way to get back in control. How does that sound?"

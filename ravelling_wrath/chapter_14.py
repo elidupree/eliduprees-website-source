@@ -320,7 +320,7 @@ I didn't know whether I could trust the police. And I didn't know how far the ??
 
 The police didn't believe me at first. From the things I'd read online, I knew that might happen, especially for an abuse survivor who didn't show emotion, like me. So I had prepared for that. I just held up my phone and played back one of the recordings I'd made. Then they had no choice but to listen to me.
 
-After that, it was a long process. At least eight different people came to ask me questions.
+After that, it was a long process. At least eight different people came to ask me questions. ????? One of them was a detective, I think. I liked him because he was very direct, he didn't pretend to be nice.
 ?????
 
 He called me "a perfect witness" and "my little psychopath". He said I would make a good lawyer one day, and I am not sure whether it was a compliment.
@@ -339,11 +339,11 @@ Twenty minutes after I read that letter, I cried for the first time in years. I 
 
  ????? I was given into the custody of the Stern. For the next ????? years, I was raised and educated in a Stern monastery.
 
-In a way, it was [????? a relief]. My life had been uprooted in every way, but the Stern gave me stability. The monks kept the same routine every day, ?????. It was a predictability that I had never had before. It gave me a chance to rest and relax, for the first time in my life.
+In a way, living at the monastery was easier. My life had been uprooted in every way, but the Stern gave me stability. The monks kept the same routine every day, ?????. It was a predictability that I had never had before. It gave me a chance to rest and relax, for the first time in my life.
 
-Szaieto, the monk responsible for my upbringing, liked routines as much as I did. We had all our little rituals together. Every morning, he woke me up by tapping the three times on my bedpost. I have actually recorded the sound of that so I can use it as my alarm clock now that I live on my own. And after every meal, we had a hand gesture that we did – I can't really describe it, but I can show you later.
+Szaieto, the monk responsible for my upbringing, liked routines as much as I did. We had all our little rituals together. Every morning, he woke me up by tapping three times on my bedpost. I actually recorded the sound of his tapping so I can use it as my alarm clock now that I live on my own. And after every meal, we had a hand gesture that we did – I can't really describe it, but I can show you later.
 
-But I was never happy there. For years, I had dedicated my life to a single purpose – escape. But once I had succeeded, I had no idea what to do with my life. I was deeply depressed during my years at the monastery, even if I did not show it on the outside. The monks had answers to a lot of questions, but, but, not that one. There was one other orphan near my age there, but I didn't have anything in common with him.
+But I was never happy there. For years, I had dedicated my life to a single purpose – escape. But once I had succeeded, I had no idea what to do with myself. I was deeply depressed during my years at the monastery, even if I did not show it on the outside. The monks had answers to a lot of questions, but, but, not that one. There was one other orphan near my age there, but I didn't have anything in common with him.
 
 So, last year, I asked for permission to live independently, and to attend a regular high school. I don't think it was a normal thing to ask for in my situation. But Szaieto and the other monks had been very impressed by how organized and independent I was. They were sad to see me go, but they arranged for me to live in one of the houses the Stern Temple normally reserves for retirees. It's technically rented from the Stern Temple, but it's paid for out of the trust they set up after my parents – after the ?????s were convicted. So… that's why I live there now. The arrangement is, I have a stipend that lets me take care of my basic needs, and the monastery sends someone to visit me once a week to make sure I'm getting along okay.
 
@@ -353,7 +353,7 @@ I guess there's not much more to tell. [????? Some stuff about the school?] [???
 
 ????? Remind reader of physical situation
 
-Yali smiled joylessly. "Can you tell I've told this story before? The parts before ?????, that is. I haven't told anyone since I came to [????? our school]. I wanted to try having a normal school life, just to try it."
+Yali smiled joylessly. "Can you tell I've told this story before? It wasn't this organized the first time. Except the parts after ?????, that is. I haven't told anyone about this since I came to [????? our school]. I wanted to try having a normal school life, just to try it."
 
 Her words kept echoing around my head like it was an empty cave. I felt like there were a million things I wanted to say, but none of them came to me. How? How could people be so horrible? I was supposed to be angry, to hate ????? and ????? and Arinyo Seti for everything they had put her through. But there was an emptiness inside me where the anger should have been.
 
