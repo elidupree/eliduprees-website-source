@@ -460,6 +460,18 @@ My first thought was that Morrow was being ridiculous. As overbearing as she was
 
 "I will not say I have not had privileges in my life. But no, I am not <em>from</em> ?????region. I simply… was there for a time."
 
+"Cool, cool, I'm just wondering…" began Morrow.
+
+"Yes?" said Justicar.
+
+"…just wondering if…"
+
+"Go on."
+
+"…if you could possibly be any less specific?!"
+
+I snickered. Justicar looked away slightly, as if to say, <em>I can't believe I actually thought Morrow was going to ask a real question</em>.
+
 [????? Rinn and Morrow do something fun]
 
 ?????

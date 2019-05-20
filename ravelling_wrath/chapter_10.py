@@ -127,7 +127,7 @@ Justicar considered this for a few paces before answering. "I am… not against 
 
 "You're saying she'd give us the answers too easily."
 
-"Yes. It would contradict the will of the Seeking, so the Seeking will not allow it. If the Seeking has shown her location to us, it must have a different purpose. We <em>may</em> reach her in a physical sense, but even if we do, it will be another layer of the Seeking God's game, not the happy reunion you are imagining."
+"Yes. The will of the Seeking is for humanity to experiment, to discover new insights, to learn, to change. If we could progress simply by following answers given to us by others, that would contradict the will of the Seeking, so the Seeking will not allow it. Therefore, if the Seeking has shown her location to us, it must have a different purpose. We <em>may</em> reach her in a physical sense, but even if we do, it will be another layer of the Seeking God's game, not the happy reunion you are imagining."
 
 "Well fuck you too. <em>I</em> say after I do these puzzles, the Seeking will reward me by letting me get – letting me see my fucking girlfriend. Rewards are part of a puzzle too, you know!"
 
