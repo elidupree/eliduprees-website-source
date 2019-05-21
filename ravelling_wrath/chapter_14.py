@@ -12,7 +12,19 @@ posts = [
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
-[????? Yali would still be fat even if it wasn't for her food insecurity in childhood, with a link to the VC page]
+[????? Yali would still be fat even if it wasn't for her food insecurity in childhood, with a link to the VC page; "as canon as I can make it in an author's notes"]
+
+<h2>Arinyo Seti</h2>
+
+I <em>wanted</em> to foreshadow the introduction of Arinyo Seti a bit more than I did. But I couldn't exactly mention zir <em>name</em> without it being a little <em>too</em> conspicuous. Oh well. At least I gave plenty of hints that Yali had history with the Waiting Temple in general.
+
+<h2>Hospital beds</h2>
+
+I briefly wondered if Yali would have imprinted a hospital bed <em>when Yali was born</em>.
+
+However, Arinyo Seti had a planned home birth, assisted by a midwife, as has been the Waiting tradition for centuries. [????? Again as canon as I can make it]
+
+Even if Yali <em>had</em> imprinted a hospital bed just after birth, ze might not have been able to manifest it without consciously thinking back to when ze was a baby.
 
   ''',
   "head":head,
@@ -216,7 +228,7 @@ It took me a moment to realize what that implied. "Wait, the Seeing –?"
 
 It was too much work to explain, so I just did it. I opened my mind, calling out for Morrow with my thoughts.
 
-Almost immediately, I felt his voice in my head. It didn't actually <em>sound</em> like his voice – it actually sounded more like my own thoughts. But it was obviously him. <em>What happened?? Did Yali beat Justicar?! Wait wait I've gotta tell Raylie, he's so worried –</em>
+Almost immediately, I felt his voice in my head. Just like the first time, it sounded less like his voice and more like my own thoughts. But there was no mistaking the kind of things <em>Morrow</em> would think. <em>What happened?? Did Yali beat Justicar?! Wait wait I've gotta tell Raylie, he's so worried –</em>
 
 "Morrow. <em>Please</em> shut up," I said out loud.
 
@@ -244,13 +256,13 @@ The bed's hard wheels click-click-clicked over the stone brick floor. I tugged a
 
 "Shhhhhhh."
 
-It kind of didn't even feel like something that had really happened. I mean, I was in the bed now. I was just lying limply in the bed, it didn't really feel like I had been killed and had my death wiped away by the force of Yali. Yali…
+It kind of didn't even feel like something that had really happened. I mean, I was in the bed now. I was just lying limply in the bed, it didn't really feel like I had been killed and had my death wiped away by the force of Yali. Yali… <em>Seti</em>…
 
 "You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…"
 
 Yali sighed. But after a moment, she decided to answer. "It's easier if people don't know that about me."
 
-The thoughts slowly clicked into place in my brain. "Holy shit, is she the one who… Wait, shit, I didn't mean to bring that up, I'm sorry –"
+The thoughts slowly clicked into place in my brain. Yali's mother, who wasn't part of her life anymore… A mother who betrayed her… "Holy shit, is she the one who… Wait, shit, I didn't mean to bring that up, I'm sorry –"
 
 Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>did</em> ask you not to bring that up, didn't I. But I see no reason not to tell you now."
 
@@ -306,15 +318,13 @@ But that is for the future, and I am not finished telling you about the past. Th
 
 I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were friendly. I didn't like the other kids either. In those days, I had only one friend, and I treated her very badly. When she left me, it was the worst day of my life. [????? Bit more details and her name]
 
-During school vacations, when I was at home, ?????. When they weren't using me for their pleasure, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information about child abuse. I learned that what they were doing to me was not normal [?????, and, more importantly, not <em>legal</em>. And that meant that there was something I could do to change it.]
+During school vacations, when I was at home, ?????. When they weren't using me for their pleasure, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information about child abuse. [????? more nuanced exploration of Yali's discovery process than this: I learned that what they were doing to me was not normal, and, more importantly, not <em>legal</em>. And that meant that there was something I could do to change it.]
 
 I began writing down everything they did. I wrote down dates and times, details of every abusive act. The more I paid attention to it, the more I noticed how even the little things were abusive. The way they talked to me. The way they talked to each other. And as soon as I could, I started making recordings with my phone. I installed an app that could record audio without displaying anything on the screen, so I wouldn't get caught even if they saw it. And I knew their patterns. When they assaulted me, I sometimes managed to prepare by leaving my phone nearby in advance. To make sure the recordings would be incriminating, I begged them out loud, being specific about what they were doing, so that their responses would prove I was telling the truth.
 
-?????
+I didn't show my records to anyone at first. At first, I didn't want to risk someone disbelieving me again. Even once I knew I had undeniable proof, I still hesitated. But I knew that time was going by. By then, I was already ?????twelve years old. There was already a chance that I could become pregnant from the rape. I hadn't had my first period yet, so it was unlikely, but the longer I waited, the more likely it would become. And when I thought of what a pregnancy might lead to, I became increasingly certain that I needed to make my move.
 
-[????? Concerns about pregnancy] I became increasingly certain that I needed to make my move.
-
-
+[????? Decided to report just after leaving for school that year]
 
 I didn't know whether I could trust the police. And I didn't know how far the ?????s would go to silence me. I had already left an earlier copy of my records with [????? a friend I thought I could trust], telling her to go to the police with them if I ever disappeared. When I decided to go to the police myself, I went back to her and told her the plans had changed. If I didn't come back, it would mean the police had betrayed me to the ?????s. So I told her that if I didn't come back, she should take my records to the press.
 
