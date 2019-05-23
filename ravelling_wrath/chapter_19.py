@@ -335,13 +335,31 @@ Why? Why did it always have to be me? Why did I have to do all the work when eve
 
 [????? I was discontent just sitting here]. I wanted something more. What did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the ground, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
 
+[????? Yali realizes she's afraid to do it] Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! There was no immediate danger, it made no sense to be afraid of taking some time to feel things! Wasn't I Yali Seti? Hadn't I let a blade cut through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
+
+[????? A bit of time passes, Yali gets a backed off perspective]
+
+????? Even when I was trying to be more Blood, I was still being anti-Blood about it. The Blood God wouldn't want me to see a feeling as <em>getting in the way</em>. A feeling was supposed to mean something. What did the fear mean? If it did mean something, how was I supposed to figure out what it meant? It was just a feeling.
+
+[????? I did know a way to investigate the meaning]
+
+A stray tear dropped from my face onto my hand. I brought the fear forward.
+
+[????? Check ages if I change them] I was six years old, I wanted to just go to bed but I couldn't, I had to check everything, I had to check the cooktop so no one would get burned again and mom wouldn't be anxious. I was eight years old in my room, I wanted to scream but I couldn't, it would wake dad and he would come yell at me, I had to make sure to only feel things when I was outside the house or they would both yell about how worthless I was. I was not worthless, I was worth more than <em>their</em> pathetic lives! I was twelve years old, I wanted to check the recording to make sure it worked but I couldn't, I had to wait until we were all in bed and use one earbud to make sure they didn't overhear. If I ever forgot, if I ever acted on my feelings, it could be the one mistake that ruined everything, I could be caught, everything I worked for could amount to nothing, I could die. Rinn could die.
+
+That was what the fear meant. It was so familiar. I wasn't crying anymore.
+
+But now, if I <em>didn't</em> act on my feelings, it could be the one mistake that let the Waiting God win. Countless future Farseers and Blood Children could die. I could live to see the Waiting choke the Blood out of the city.
+
+How could I handle a contradiction like that? [????? Both fears feel less real; the Broken on the way to Blood]
+
 [????? Yali eventually figures out how to do it by releasing herself instead of forcing herself, then collapses awkwardly on the bench(?) And it hurts and seems kind of pathetic but then finally a bit of catharsis shows up]
 
 I released myself to the impulse.
 
 I tilted over and went down onto my side on the bench. My shoulder was in pain under the weight of my body. ?????. It was hard to hold up my head. I kept holding it up, because otherwise it would be lying on the hard iron of the bench. But… but… I released myself again, lowering my head to the iron. The side of my forehead jammed against the bars. It hurt. My neck hurt from being at a bad angle. Lots of parts of me hurt, too many to process. And I was just lying there. It felt awkward and pathetic. And knowing that I was just lying here, not doing anything about it, made it feel even worse.
 
-What was the point of all this? I didn't feel Blood at all. There was still just a lot of pain, I hadn't suddenly had any insight that would make it mean something. What was I doing? I had no idea what I was doing.
+What was the point of all this? I didn't feel Blood at all. There was still just a lot of pain. I hadn't suddenly had any insight that would make it mean something. What was I doing? I had no idea what I was doing.
 
 Rinn would know…
 
@@ -349,7 +367,7 @@ But I had left her unconscious. If only I could still talk to her! Why had I don
 
 Why??!
 
-But I knew why. My Waiting side would never leave me, never let me forget the truth. Even in the depths of my pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> [????? Survival had been the only thing in my mind. Once Rinn was unconscious, neither of us would die. It would finally be over. Everything else could wait until after that.] 
+But I knew why. My Waiting side would never leave me, never let me forget the truth. Even though I was overwhelmed by pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> [????? Survival had been the only thing in my mind. Once Rinn was unconscious, neither of us would die. It would finally be over. Everything else could wait until after that.] 
 
 But now that [????? it was over – but more like "I had a chance to think about things that weren't survival", I had found that the were many things I cared about beyond survival.] ?????
 
