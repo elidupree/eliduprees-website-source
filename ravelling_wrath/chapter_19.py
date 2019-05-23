@@ -199,6 +199,8 @@ Many of the tools were already rusted out, and fell apart as I tried to pull the
 
 [????? Yali becomes physically tired of moving up in, and stopped to rest]
 
+[????? Actually, searching the past should probably be motivated by trying to understand Blood, meaning it has to come AFTER Yali's struggle to be more Blood]
+
 , but my body was nearing its limits. Once I had successfully rolled Rinn out beyond the forge, I looked for a place to stop and rest. I selected a hollowed-out shell of a building by the road, and manifested new glass for its broken windows to keep us sheltered from the wind.
 
 It was time to move forward with my <em>other</em> plan.
@@ -345,21 +347,27 @@ Why? Why did it always have to be me? Why did I have to do all the work when eve
 
 A stray tear dropped from my face onto my hand. I brought the fear forward.
 
-[????? Check ages if I change them] I was six years old, I wanted to just go to bed but I couldn't, I had to check everything, I had to check the cooktop so no one would get burned again and mom wouldn't be anxious. I was eight years old in my room, I wanted to scream but I couldn't, it would wake dad and he would come yell at me, I had to make sure to only feel things when I was outside the house or they would both yell about how worthless I was. I was not worthless, I was worth more than <em>their</em> pathetic lives! I was twelve years old, I wanted to check the recording to make sure it worked but I couldn't, I had to wait until we were all in bed and use one earbud to make sure they didn't overhear. If I ever forgot, if I ever acted on my feelings, it could be the one mistake that ruined everything, I could be caught, everything I worked for could amount to nothing, I could die. Rinn could die.
+[????? Check ages if I change them] I was six years old, I wanted to just go to bed but I couldn't, I had to check everything, I had to check the cooktop so no one would get burned again and mom wouldn't be anxious. I was eight years old in my room, I wanted to scream but I couldn't, it would wake dad and he would come yell at me, I had to make sure to only feel things when I was outside the house or they would both yell about how worthless I was. I was not worthless, I was worth more than <em>their</em> pathetic lives! I was twelve years old, I wanted to check the recording to make sure it had worked, but I couldn't, I had to wait until we were all in bed and use one earbud to make sure they didn't overhear. If I ever forgot, if I ever acted on my feelings, it could be the one mistake that ruined everything, I could be caught, everything I worked for could amount to nothing, I could die. Rinn could die.
 
-That was what the fear meant. It was so familiar. I wasn't crying anymore.
+That was what the fear meant. It was very familiar. I wasn't crying anymore.
 
 But now, if I <em>didn't</em> act on my feelings, it could be the one mistake that let the Waiting God win. Countless future Farseers and Blood Children could die. I could live to see the Waiting choke the Blood out of the city.
 
-How could I handle a contradiction like that? [????? Both fears feel less real; the Broken on the way to Blood]
+This wasn't the first time I had had to handle a contradiction like that, with risks on both sides. Did I risk going to the police, or did I risk staying at home? Did I risk keeping Rinn at my side, or did I risk letting her out of my sight? And every time, I had answered it with the Stern. I had weighed which need was greater, and knowingly sacrificed the other. Any part of me that went against the decision was a danger to my goals, so I didn't allow those parts to come forward. That was the way of the Stern, and it was what had gotten me to where I was now. My ability to sacrifice my temporary feelings was what let me do things other people my age could not. I would never give up the Stern, no matter what Rinn said.
 
-[????? Yali eventually figures out how to do it by releasing herself instead of forcing herself, then collapses awkwardly on the bench(?) And it hurts and seems kind of pathetic but then finally a bit of catharsis shows up]
+I don't want to think about Rinn right now.
 
-I released myself to the impulse.
+But I couldn't use the Stern this time. If my feelings were my blood, then the fear was my blood too. I couldn't just lock it away. Somehow, I had to listen to it, to value it. So I listened for the fear, and waited.
 
-I tilted over and went down onto my side on the bench. My shoulder was in pain under the weight of my body. ?????. It was hard to hold up my head. I kept holding it up, because otherwise it would be lying on the hard iron of the bench. But… but… I released myself again, lowering my head to the iron. The side of my forehead jammed against the bars. It hurt. My neck hurt from being at a bad angle. Lots of parts of me hurt, too many to process. And I was just lying there. It felt awkward and pathetic. And knowing that I was just lying here, not doing anything about it, made it feel even worse.
+As I listened, the fear kept insisting that I was wrong, I was making a mistake, I <em>shouldn't</em> listen to my feelings.
 
-What was the point of all this? I didn't feel Blood at all. There was still just a lot of pain. I hadn't suddenly had any insight that would make it mean something. What was I doing? I had no idea what I was doing.
+I couldn't help but laugh. It felt incoherent. It felt unreal. Maybe this was what they called a "Broken laugh", the laugh you laugh when you look back at one of your oldest beliefs and realize it doesn't make as much sense as you thought it did. It hurt. I felt lost. But the fear wasn't as strong anymore.
+
+I had the impulse to fall over and cry again. This time, I didn't try to force myself to do it, and I didn't hold myself back either. Instead, I released myself to the impulse, allowing it to take me over.
+
+I tilted over and went down onto my side on the bench. Before long, my shoulder was in pain under the weight of my body. ?????. It was hard to hold up my head. I kept holding it up, because otherwise it would be lying on the hard iron of the bench. But… but… I released myself again, lowering my head to the iron. The side of my forehead jammed against the bars. It hurt. My neck hurt from being at a bad angle. Lots of parts of me hurt, too many to process. And I was just lying there. It felt awkward and pathetic. And knowing that I was just lying here, not doing anything about it, made it feel even worse.
+
+What was the point of all this? I had given into my impulses, but I didn't feel Blood at all. Maybe Broken, but not Blood. There was still just a lot of pain. I hadn't suddenly had any insight that would make it mean something. What was I doing? I had no idea what I was doing.
 
 Rinn would know…
 
