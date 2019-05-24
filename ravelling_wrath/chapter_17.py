@@ -439,13 +439,21 @@ Emotionlessly, Yali replied, "I <em>shouldn't</em> have to. But I <em>do</em> ha
 
 "Maybe your life is easier than mine," she said coldly.
 
+My words caught in my throat. It was true. A life where you couldn't just enjoy yourself, a life where you didn't want to get up in the morning… Tears sprang to my eyes. I threw my arms around Yali, squeezing tight and burying my head into her soft flesh. "I'm sorry, I'm sorry –"
+
+"I was trying to open up to you."
+
+"– oh gods, I'm sorry –"
+
+"It's okay," she said gruffly. "There will be another time."
+
 [????? I think Rinn goes to "I need to comfort Yali" instead of feeling hurt, hugs her, and notices that Yali is shaking from being upset, even though she doesn't show it in her face. Maybe: [Yali, coldly] "I was trying to open up to you." [Rinn feels bad] "It's okay. There will be another time."]
 
 ?????
 
 A few hours later, Alchemist wandered back to us, leaving Morrow out ahead.
 
-Dry leaves blew past on a chilly wind, clearing the dust and fog from the air. Our boots were covered in mud from walking over slimy ground. ?????
+Dry leaves blew past on a chilly wind, clearing the dust and fog from the air. Our boots were covered in mud from walking over slimy ground. It was a slow, squelching walk, pulling up our feet one after another. When Alchemist got back to us, alchemist and I greeted each other with a comfortable hug, softly rubbing our cheeks together.
 
 "I don't know what to do," said Alchemist despondently. "I don't know what to say… He's…" They gestured vaguely in the air. Floating leaves formed into a picture of Morrow, sprawled out and twisted into several pieces. I knew instantly what it meant.
 
@@ -459,23 +467,27 @@ Beside me, Yali stiffened.
 
 "Fine. Go. Just don't make me think about it."
 
-I wanted to argue back, to say that it wouldn't be so bad. But I had a feeling that we would just get in a fight and I wouldn't be able to convince her of anything. So I let it go. "Thanks. See you soon."
+I wanted to argue back, to say that it wouldn't be so bad. But I had a feeling that we would just get in a fight again, and I wouldn't be able to convince her of anything. So I let it go. "Thanks. See you soon."
 
-I hurried on ahead. ?????
+I hurried on ahead.
 
-?????
+Now that I actually had somewhere to get to, I wasn't going to put up with just trudging along. I leapt forward into a run, manifesting a crisp asphalt road under my feet as I went.
+
+Before long, I spotted Morrow walking along ahead of me. As I watched, he stumbled a few steps forward, then stopped to lean on a tree, then stumbled a few more.
+
+"Oy! Morrow!"
 
 Morrow half-startled. After a moment, he looked back at me. "Oh. It's you."
 
 Something <em>instantly</em> seemed off about him. His reaction was way slower than usual, and his words came out slower, too. He seemed… glum? At first I thought that was super weird. I'd seen him ripping himself apart, but I'd never seen him just regular sad, or any sort of less-energetic mood at all. Then I thought, <em>of course</em>! He didn't have the Seeking God inside him anymore. It had probably been the Seeking God that was keeping him going the whole time. And now…
 
-"How are you, uh, feeling?" I said.
+"How are you, uh, feeling?" I said as I got near him.
 
 Morrow's eyes moved slowly. "How do you want me to feel?"
 
 Well, he was still Morrow, at least. "Dude. You really gonna make a game out of it <em>now</em>?"
 
-"Ehh…" He looked back away from me, and kept plodding along. I caught up and walked alongside him. I stayed quiet, waiting for him to make the first move. I had kind of only come here to be nice to Alchemist, anyway. I would have gladly fought a bear to protect Morrow it came to life-and-death stuff, but I was still kinda sick of him as a person.
+"Ehh…" He looked back away from me, and kept plodding along. I caught up and walked alongside him. I stayed quiet, waiting for him to make the first move. I had kind of only come here to be nice to Alchemist, anyway. If it came to life-and-death stuff, I would have gladly fought a bear to protect Morrow, but I was still kinda sick of him as a person.
 
 After a while of us just crunching through the leaves, Morrow broke the silence.
 
