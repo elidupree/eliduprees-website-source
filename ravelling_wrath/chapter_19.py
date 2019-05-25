@@ -336,21 +336,21 @@ My eyes were crying again. It hurt. Was this what the Blood God wanted? Was it B
 
 Why? Why did it always have to be me? Why did I have to do all the work when everyone else could only see what was right in front of them? ?????
 
-[????? I was discontent just sitting here]. I wanted something more. What did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the ground, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
+Just sitting here and thinking about this, it all felt so unfulfilling. I wanted something more. What did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the ground, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
 
 Why couldn't I do it? When I tried, there was a haze in my mind, holding me back. I felt like the world was closing in on me. What was this feeling? It was like I was terrified of… something. Or, that <em>was</em> the feeling. I was terrified.
 
-It didn't make sense for me to be afraid of this! Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! There was no immediate danger, it made no sense to be afraid of taking some time to feel things! Wasn't I Yali Seti? Hadn't I let someone stab a blade through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
+It didn't make sense for me to be afraid of this! Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! Right now, their was no immediate danger, so it made no sense to be afraid of taking some time to feel things! Wasn't I Yali Seti? Hadn't I let someone stab a blade through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
 
 I stared at the paving stones. I needed to think. I knew I was missing something important, I just couldn't see what.
 
-Time passed. I thought some more. Then I realized something, and there was another unpleasant feeling in my head, the feeling of knowing I had made a mistake. Even when I was trying to be more Blood, I was still being anti-Blood about it. The Blood God wouldn't want me to see a feeling as <em>getting in the way</em>. A feeling was supposed to mean something. What did the fear mean? If it did mean something, how was I supposed to figure out what it meant? It was just a feeling.
+Time passed. I thought some more. Then I realized something, and it put another unpleasant feeling in my head, the feeling of knowing I had made a mistake. Even when I was trying to be more Blood, I was still being anti-Blood about it. The Blood God wouldn't want me to see a feeling as <em>getting in the way</em>. A feeling was supposed to mean something. What did the fear mean? If it did mean something, how was I supposed to figure out what it meant? It was just a feeling.
 
 If only I understood the fear better. Then maybe somehow a meaning would show up. Or maybe it wouldn't. I didn't know. I wouldn't know until I found a way to learn. But, thinking about it, to try to learn more about the feeling… I did know a way to do that.
 
 A stray tear dropped from my face onto my hand. I brought the fear forward.
 
-[????? Check ages if I change them] I was six years old, I wanted to just go to bed but I couldn't, I had to check everything, I had to check the cooktop so no one would get burned again and mom wouldn't be anxious. I was eight years old in my room, I wanted to scream but I couldn't, it would wake dad and he would come yell at me, I had to make sure to only feel things when I was outside the house or they would both yell about how worthless I was. I was not worthless, I was worth more than <em>their</em> pathetic lives! I was twelve years old, I wanted to check my recording to make sure it had worked, but I couldn't, I had to wait until we were all in bed and use one earbud to make sure they didn't overhear. If I ever forgot, if I ever acted on my feelings, it could be the one mistake that ruined everything, I could be caught, everything I worked for could amount to nothing, I could die. Rinn could die.
+[????? Check ages if I change them] I was six years old, I wanted to just go to bed but I couldn't, I had to check everything, I had to check the cooktop so no one would get burned again and mom wouldn't be anxious. I was eight years old in my room, I wanted to scream but I couldn't, it would wake dad and he would come yell at me, I had to make sure to only feel things when I was outside the house or they would both yell about how worthless I was, I was not worthless, I was worth more than <em>their</em> pathetic lives! I was twelve years old, I wanted to check my recording to make sure it had worked, but I couldn't, I had to wait until we were all in bed and use one earbud to make sure they didn't overhear. If I ever forgot, if I ever acted on my feelings, it could be the one mistake that ruined everything, I could be caught, everything I worked for could amount to nothing, I could die. Rinn could die.
 
 That was what the fear meant. It was very familiar. I wasn't crying anymore.
 
@@ -374,15 +374,17 @@ What was the point of all this? I had given into my impulses, but I didn't feel 
 
 Rinn would know…
 
-If only I could still talk to her! But I had left her unconscious. Why had I done that?! Because of what I did, I could have lost the only way for me to understand Blood! Pain welled up behind my eyes, tears dropping out between the bars of the bench. Why had I done that?! It had been my own decision, and it could have ruined everything I was trying to accomplish! Again! First I had thought I was protecting Rinn by controlling her anger, it but it had left her open to Morrow's abuse! Then I had thought I knew what I was doing when I let her stab me, but it had almost got her killed!! And now – now – My eyes were stinging, puffy. I squeezed them shut, my vision already blurred from the tears. I had thought I knew what I was doing, when I gave her the potion! But now I needed her! Why had I done that?! Why?!
+If only I could still talk to her! But I had left her unconscious. Why had I done that?! Because of what I did, I could have lost the only way for me to understand Blood! Pain welled up behind my eyes, tears dropping out between the bars of the bench. Why had I done that?! It had been my own decision, and it could have ruined everything I was trying to accomplish! Again! First I had thought I was protecting Rinn by controlling her anger, but it had left her open to Morrow's abuse! Then I had thought I knew what I was doing when I let her stab me, but it had almost got her killed!! And now – now – My eyes were stinging, puffy. I squeezed them shut, my vision already blurred from the tears. I had thought I knew what I was doing when I gave her the potion that pleasure to sleep! But now I needed her! Why had I done that?! Why?!
 
 Why??!
 
-But I knew why. My Waiting side would never leave me, never let me forget the truth. Even though I was overwhelmed by pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> It had seemed like a perfect solution. After Justicar was dealt with and Rinn was unconscious, there would be no reason left that either of us would die. At that moment, it was the only thing I'd thought about. Once I found a future where neither of us died, I hadn't looked further than that.
+But I knew why. My Waiting side would never leave me, never let me forget the truth. Even though I was overwhelmed by pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> It had seemed like a perfect solution. After Justicar was dealt with and Rinn was unconscious, there would be no reason left that either of us would die. At that moment, it was the only thing I'd thought about. Once I found a future where neither of us died, I had called out a success. I hadn't looked further than that.
 
 But now that it was over, now that I had a chance to think about what to do now… There were a lot of other things I wanted, more than just… <em>not dying</em>.
 
-I hadn't stopped to think that I might need Rinn as a resource to help me with my emotions. For all the futures I'd considered, the thought hadn't even entered by mind. And now it was coming back to haunt me. An old saying came to mind: <em>No matter how many things you plan for, you've never planned enough for the Waiting.</em> It meant you should never get complacent. But it also meant [????? that it wasn't your fault if you sometimes make a mistake.
+I hadn't stopped to think that I might need Rinn as a resource to help <em>me</em> with <em>my</em> emotions. For all the futures I'd considered, the thought hadn't even entered by mind. And now it was coming back to haunt me.
+
+An old saying came to mind: <em>No matter how many things you plan for, you've never planned enough for the Waiting.</em> It meant you should never get complacent. But it also meant [????? that it wasn't your fault if you sometimes make a mistake.
 
 It wasn't my fault.]
 
@@ -398,15 +400,21 @@ I had made a mistake. Now I had to think about what to do next.
 
 And along with the portal, the others were already there. Alchemist and Morrow.
 
-I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed. I might even have liked Morrow better if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
+I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed. And I would have been able to tolerate Morrow a lot better if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
 
-I listened for the future. I felt myself walk towards the portal. I saw Morrow hurry towards me and speak to me, ask me questions. I felt myself lash out at him. I felt myself hold back. I felt ?????. I saw both of them step away from me, huddling quiet and scared at a distance. I saw us maintain an uncomfortable truce until the time came to enter the portal.
+I hesitated. Was it un-Blood for me to think that way? Well, not for Morrow, certainly. Hating someone who abused your loved ones was clearly a Blood thing to do. But Alchemist…
 
-This was not the future I would choose. I could do better. I cared about Rinn, and Rinn wouldn't want me to do anything that would upset Alchemist.
+I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> would want me to care about Alchemist. I was allowed to be frustrated with them, but I had a Blood reason to care about them, too.
 
-I listened for a different future. I felt myself pretending to be calm, answering Morrow's questions so that Alchemist would think we had an understanding. I felt the futures where my frustration built up until I struck him again, ?????. I listened for a future where I would navigate my feelings, where I could keep the illusion going and maintain the peace between us. I saw the three of us waiting together at the portal. I felt [????? not so great]. This was not the future I would choose. [????? With those feelings, I would not be prepared to face the Waiting God.]
+I didn't like that, but I decided to go along with it. Now I just had to figure out what that would mean in practice.
 
-I listened for a different future. I knew that both of them were already afraid of me. I felt myself march towards the portal, determined to make them be the ones to suffer, instead of me. When Morrow ran to meet me, I shouted him down. I ordered them both to be quiet and speak only to answer my questions. Finally, at the end of everything, I could <em>finally</em> just make them give me the peace and quiet I deserved. No more staying on good terms with Alchemist just in case we needed more potions. No more letting words come out of Morrow's disgusting face. I would finally just get what <em>I</em> wanted. And then I could face the Waiting God with pride. I would be the one who was in control.
+I listened for the future. I felt myself walk towards the portal. I saw Morrow hurry towards me and speak to me, ask me questions. I felt myself lash out at him. I felt myself hold back. I felt countless fragments of anger and tension. I saw both of them step away from me, huddling quiet and scared at a distance. I saw us keep an uncomfortable truce until the time came to enter the portal.
+
+This was not the future I would choose. I could do better.
+
+I listened for a different future. I felt myself pretending to be calm, answering Morrow's questions so that Alchemist would think we had an understanding. I felt the futures where my frustration built up until I struck him again. I had enjoyed breaking his fingers the first time, and I could enjoy it again. But that wasn't what I was looking for. I listened for a future where I would navigate my feelings, where I could keep the illusion going and maintain the peace between us. I saw the three of us waiting together at the portal. I felt myself staring at the portal, feeling isolated, just concentrating on keeping myself calm while I waited for the end. This was not the future I would choose. I would not be ready to face the Waiting God if those were the feelings in my mind.
+
+I listened for a different future. I knew that both of them were already afraid of me. I felt myself march towards the portal, determined to make them be the ones to suffer instead of me. When Morrow ran to meet me, I shouted him down. I ordered them both to be quiet and speak only to answer my questions. Finally, at the end of everything, I could <em>finally</em> just make them give me the peace and quiet I deserved. No more staying on good terms with Alchemist just in case we needed more potions. No more letting words come out of Morrow's disgusting face. I would finally just get what <em>I</em> wanted. And then I could face the Waiting God with pride. I would be the one who was in control.
 
 As much as part of me liked that future, it was not the one I would choose either. I could still do better.
 
@@ -422,15 +430,19 @@ I rolled the wagon close to the portal, where Alchemist was waiting. Alchemist n
 
 "Is, she… You used, the…"
 
-"The second one we made," I said gently. "?????"
+"The second one we made," I said gently. "She was injured in the fight. But she will recover."
 
 "Will she… that one was…"
 
-Alchemist was trying to ask about the side effects of the potion. In the futures, I had tried dozens of responses before I found one that would [????? keep Alchemist from worrying].
+Alchemist was trying to ask about the side effects of the potion. The sleeping effect was very powerful. If someone already had a weak soul when they drank it, they might never wake up. It was understandable that Alchemist would worry. In the futures, I had tried dozens of responses before I found one that would reassure them. "Examine her soul yourself," I said. "Feel how strong it is. I am completely confident in her."
 
-[????? Alchemist asks about Justicar]
+Alchemist approached and nervously touched Rinn's head. Then they nodded and pulled back again.
 
-"Dead," I said. "We couldn't convince her to stop." I waited for Alchemist to glance at Rinn, wondering if Rinn had been the one who killed her. I said the best thing I had found to assuage their worries. "We did it together."
+Alchemist looked down over the city. I saw their eyes linger over the distant gouges among the buildings, where Justicar had fought us.
+
+"She's not, coming, is she…"
+
+"She's dead," I confirmed. "We couldn't convince her to stop." I waited for Alchemist to glance at Rinn, wondering if Rinn had been the one who killed her. I said the best thing I had found to assuage their worries. "We did it together."
 
 "Oh. I guess, you had to do it…" Tears dripped down their face.
 
