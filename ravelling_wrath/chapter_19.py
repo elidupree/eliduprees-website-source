@@ -196,6 +196,7 @@ I sat a while and thought of how I could move the things. No good ideas came to 
 
 Many of the tools were already rusted out, and fell apart as I tried to pull them away. This left debris in my path, which I would have to clear away. If I bent down to lift every fragment, it would soon become too much for me.
 
+I manifested a giant pair of tongs to grab things from the floor, and began steadily lifting the broken pieces and throwing them to the side.
 
 [????? Yali becomes physically tired of moving up in, and stopped to rest]
 
@@ -297,7 +298,7 @@ I would have to accept its influence. I would have to become more Blood.
 
 <bigbreak>
 
-I was still walking across my ruinous bridge. It was a long way across the chasm. And my eyes had decided to start crying. I kept having to blink the tears away so I could see where I was going. It was making it take extra concentration to keep rolling Rinn along steadily.
+I was still walking across my ruinous bridge. It was a long way across the chasm. And my eyes had decided to start crying. I kept having to blink the tears away so I could see where I was going. It was making me have to concentrate harder to keep rolling Rinn along steadily.
 
 Even if I could make myself accept the Blood God… how?
 
@@ -337,23 +338,25 @@ Why? Why did it always have to be me? Why did I have to do all the work when eve
 
 [????? I was discontent just sitting here]. I wanted something more. What did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the ground, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
 
-[????? Yali realizes she's afraid to do it] Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! There was no immediate danger, it made no sense to be afraid of taking some time to feel things! Wasn't I Yali Seti? Hadn't I let a blade cut through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
+Why couldn't I do it? When I tried, there was a haze in my mind, holding me back. I felt like the world was closing in on me. What was this feeling? It was like I was terrified of… something. Or, that <em>was</em> the feeling. I was terrified.
 
-[????? A bit of time passes, Yali gets a backed off perspective]
+It didn't make sense for me to be afraid of this! Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! There was no immediate danger, it made no sense to be afraid of taking some time to feel things! Wasn't I Yali Seti? Hadn't I let someone stab a blade through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
 
-????? Even when I was trying to be more Blood, I was still being anti-Blood about it. The Blood God wouldn't want me to see a feeling as <em>getting in the way</em>. A feeling was supposed to mean something. What did the fear mean? If it did mean something, how was I supposed to figure out what it meant? It was just a feeling.
+I stared at the paving stones. I needed to think. I knew I was missing something important, I just couldn't see what.
 
-[????? I did know a way to investigate the meaning]
+Time passed. I thought some more. Then I realized something, and there was another unpleasant feeling in my head, the feeling of knowing I had made a mistake. Even when I was trying to be more Blood, I was still being anti-Blood about it. The Blood God wouldn't want me to see a feeling as <em>getting in the way</em>. A feeling was supposed to mean something. What did the fear mean? If it did mean something, how was I supposed to figure out what it meant? It was just a feeling.
+
+If only I understood the fear better. Then maybe somehow a meaning would show up. Or maybe it wouldn't. I didn't know. I wouldn't know until I found a way to learn. But, thinking about it, to try to learn more about the feeling… I did know a way to do that.
 
 A stray tear dropped from my face onto my hand. I brought the fear forward.
 
-[????? Check ages if I change them] I was six years old, I wanted to just go to bed but I couldn't, I had to check everything, I had to check the cooktop so no one would get burned again and mom wouldn't be anxious. I was eight years old in my room, I wanted to scream but I couldn't, it would wake dad and he would come yell at me, I had to make sure to only feel things when I was outside the house or they would both yell about how worthless I was. I was not worthless, I was worth more than <em>their</em> pathetic lives! I was twelve years old, I wanted to check the recording to make sure it had worked, but I couldn't, I had to wait until we were all in bed and use one earbud to make sure they didn't overhear. If I ever forgot, if I ever acted on my feelings, it could be the one mistake that ruined everything, I could be caught, everything I worked for could amount to nothing, I could die. Rinn could die.
+[????? Check ages if I change them] I was six years old, I wanted to just go to bed but I couldn't, I had to check everything, I had to check the cooktop so no one would get burned again and mom wouldn't be anxious. I was eight years old in my room, I wanted to scream but I couldn't, it would wake dad and he would come yell at me, I had to make sure to only feel things when I was outside the house or they would both yell about how worthless I was. I was not worthless, I was worth more than <em>their</em> pathetic lives! I was twelve years old, I wanted to check my recording to make sure it had worked, but I couldn't, I had to wait until we were all in bed and use one earbud to make sure they didn't overhear. If I ever forgot, if I ever acted on my feelings, it could be the one mistake that ruined everything, I could be caught, everything I worked for could amount to nothing, I could die. Rinn could die.
 
 That was what the fear meant. It was very familiar. I wasn't crying anymore.
 
 But now, if I <em>didn't</em> act on my feelings, it could be the one mistake that let the Waiting God win. Countless future Farseers and Blood Children could die. I could live to see the Waiting choke the Blood out of the city.
 
-This wasn't the first time I had had to handle a contradiction like that, with risks on both sides. Did I risk going to the police, or did I risk staying at home? Did I risk keeping Rinn at my side, or did I risk letting her out of my sight? And every time, I had answered it with the Stern. I had weighed which need was greater, and knowingly sacrificed the other. Any part of me that went against the decision was a danger to my goals, so I didn't allow those parts to come forward. That was the way of the Stern, and it was what had gotten me to where I was now. My ability to sacrifice my temporary feelings was what let me do things other people my age could not. I would never give up the Stern, no matter what Rinn said.
+It was a contradiction. A situation with extreme risks on both sides. This wasn't the first time I had had to handle a contradiction like that. Did I risk going to the police, or did I risk staying at home? Did I risk keeping Rinn at my side, or did I risk letting her out of my sight? And every time, I had answered it with the Stern. I had weighed which need was greater, and knowingly sacrificed the other. Any part of me that went against the decision was a danger to my goals, so I didn't allow those parts to come forward. That was the way of the Stern, and it was what had gotten me to where I was now. My ability to sacrifice my temporary feelings was what let me do things other people my age could not. I would never give up the Stern, no matter what Rinn said.
 
 I don't want to think about Rinn right now.
 
@@ -365,21 +368,31 @@ I couldn't help but laugh. It felt incoherent. It felt unreal. Maybe this was wh
 
 I had the impulse to fall over and cry again. This time, I didn't try to force myself to do it, and I didn't hold myself back either. Instead, I released myself to the impulse, allowing it to take me over.
 
-I tilted over and went down onto my side on the bench. Before long, my shoulder was in pain under the weight of my body. ?????. It was hard to hold up my head. I kept holding it up, because otherwise it would be lying on the hard iron of the bench. But… but… I released myself again, lowering my head to the iron. The side of my forehead jammed against the bars. It hurt. My neck hurt from being at a bad angle. Lots of parts of me hurt, too many to process. And I was just lying there. It felt awkward and pathetic. And knowing that I was just lying here, not doing anything about it, made it feel even worse.
+I tilted over and went down onto my side on the bench. Before long, my shoulder was in pain under the weight of my body. My legs got twisted and I awkwardly shuffled them into a better position. My neck ached from trying to hold up my head. I kept holding it up, because otherwise it would be lying on the hard iron of the bench. But… but… I released myself again, lowering my head to the iron. The side of my forehead jammed against the bars. It hurt. My neck hurt from being at a bad angle. Lots of parts of me hurt, too many to process. And I was just lying there. It felt awkward and pathetic. And knowing that I was just lying here, not doing anything about it, made it feel even worse.
 
 What was the point of all this? I had given into my impulses, but I didn't feel Blood at all. Maybe Broken, but not Blood. There was still just a lot of pain. I hadn't suddenly had any insight that would make it mean something. What was I doing? I had no idea what I was doing.
 
 Rinn would know…
 
-But I had left her unconscious. If only I could still talk to her! Why had I done that?! Because of what I did, I could have lost the only way for me to understand Blood! Pain welled up behind my eyes, tears dropping out between the bars of the bench. Why had I done that?! It had been my own decision, and it could have ruined everything I was trying to accomplish! Again! [????? Summary of her previous mistakes; escalating crying]
+If only I could still talk to her! But I had left her unconscious. Why had I done that?! Because of what I did, I could have lost the only way for me to understand Blood! Pain welled up behind my eyes, tears dropping out between the bars of the bench. Why had I done that?! It had been my own decision, and it could have ruined everything I was trying to accomplish! Again! First I had thought I was protecting Rinn by controlling her anger, it but it had left her open to Morrow's abuse! Then I had thought I knew what I was doing when I let her stab me, but it had almost got her killed!! And now – now – My eyes were stinging, puffy. I squeezed them shut, my vision already blurred from the tears. I had thought I knew what I was doing, when I gave her the potion! But now I needed her! Why had I done that?! Why?!
 
 Why??!
 
-But I knew why. My Waiting side would never leave me, never let me forget the truth. Even though I was overwhelmed by pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> [????? Survival had been the only thing in my mind. Once Rinn was unconscious, neither of us would die. It would finally be over. Everything else could wait until after that.] 
+But I knew why. My Waiting side would never leave me, never let me forget the truth. Even though I was overwhelmed by pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> It had seemed like a perfect solution. After Justicar was dealt with and Rinn was unconscious, there would be no reason left that either of us would die. At that moment, it was the only thing I'd thought about. Once I found a future where neither of us died, I hadn't looked further than that.
 
-But now that [????? it was over – but more like "I had a chance to think about things that weren't survival", I had found that the were many things I cared about beyond survival.] ?????
+But now that it was over, now that I had a chance to think about what to do now… There were a lot of other things I wanted, more than just… <em>not dying</em>.
 
-I hadn't stopped to think that I might need Rinn as a resource to help me with my emotions. For all the futures I'd considered, the thought hadn't even entered by mind. [????? And now I was suffering for it [except it's not Yali who's suffering per se].] [????? It was true what they say: no matter how many possibilities you consider, you've never considered enough [for the Waiting?]]
+I hadn't stopped to think that I might need Rinn as a resource to help me with my emotions. For all the futures I'd considered, the thought hadn't even entered by mind. And now it was coming back to haunt me. An old saying came to mind: <em>No matter how many things you plan for, you've never planned enough for the Waiting.</em> It meant you should never get complacent. But it also meant [????? that it wasn't your fault if you sometimes make a mistake.
+
+It wasn't my fault.]
+
+I shoved myself up into a sitting position. My hands hurt from pushing hard on the rough iron. I manifested a handkerchief and blotted away my tears.
+
+I had made a mistake. Now I had to think about what to do next.
+
+<bigbreak>
+
+[????? I decided to think on my feet? – the idea came to me while? –]
 
  ?????
 
