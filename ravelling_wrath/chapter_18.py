@@ -104,7 +104,7 @@ An old part of me felt like saying, <em>how come I don't get any potions?</em> B
 
 "Good point."
 
-Yali drank [????? number] potions, one after another. The power of sorcery sizzled around her. I could feel the shield she'd used in the previous layer. I could feel an aura of strength and speed, and some other things I couldn't recognize. Looking at her with my eyes, I half expected her to look incredibly badass, but she actually looked softer and wiser instead. 
+Yali drank five potions, one after another. The power of sorcery sizzled around her. I could feel the shield she'd used in the previous layer. I could feel an aura of strength and speed, and some other things I couldn't recognize. Looking at her with my eyes, I half expected her to look incredibly badass, but she actually looked softer and wiser instead. 
 
 Then she spun and looked me in the eye. "When Justicar gets here, she does something that interferes with my Seeing. It's like a white light that I can't see past. That's not a good sign. But still, remember the plan. If Justicar is willing to talk, stay back and let me do the talking. No matter what she says, just stay calm, keep your hands open, and don't do anything to provoke her. And if she attacks us, kill her."
 
@@ -120,7 +120,7 @@ I smiled confidently. She just didn't understand. "I didn't switch anything. My 
 
 "GET DOWN!!" Yali screamed.
 
-I dove forwards. ????? The pulse of power surged past me, blanking out my mind like a gust of wind nearly blowing out a candle. Before I could even understand what was happening, I was falling, falling, barely conscious, between rows of darkened windows, everything rushing past me, the air and the dust and the slanted towers rushing past me. In another heartbeat, my body crashed down among the wreckage, dangling like a ragdoll over a broken beam. I flopped and landed on my back. I couldn't get up. My left arm and left leg wouldn't answer me. They lay limp at my side.
+I dove forwards. ????? The pulse of power surged past me, blanking out my mind like a gust of wind blowing out a candle. Before I could understand what was happening, I was falling, falling, barely conscious, between rows of darkened windows, everything rushing past me, the air and the dust and the slanted towers rushing past me. In another heartbeat, my body crashed down among the wreckage, dangling like a ragdoll over a broken beam. I flopped and landed on my back. I couldn't get up. My left arm and left leg wouldn't answer me. They lay limp at my side.
 
 I had been maimed before I was even close enough to see my enemy's face.
 
@@ -134,17 +134,15 @@ Yali dropped gently to the ground, landing on her feet. She took a single glance
 
 Then she turned and faced towards the distant light.
 
-Her words lit my fire again. I wasn't helpless this time. I could heal myself and fight, for her, for me, for our blood. Gathering myself, I pushed my strength into my dead arm and leg. [????? There was lots of pain, but my blood was stronger]
+Her words lit my fire again. I wasn't helpless this time. I could heal myself and fight, for her, for me, for our blood. Gathering myself, I pushed my strength into my dead arm and leg. I imagined the warmth of my blood flowing into them, waking them up and making them whole again. The moment my warmth touched them, the only thing that awoke inside them was terrible pain. The mass of pain burned at me, threatening to blind me and break my will. But the blood flowing inside me was stronger. I held the pain close to me, wrapping it in a warm embrace and holding it firmly away from anything it would harm. No pain could ever overcome the Blood God's heart.
 
-?????
+As I worked to heal my body, things moved in the city above me. From the distance, a spark of light leapt from building to building, fast approaching us. Everywhere she landed, the crumbling edges of walls burned away, leaving crisp flat brickwork and beams of bare steel. So this was Justicar's soul unleashed, raw and absolute. All at once, I felt a pang of regret. All five of us could do amazing things. If only we weren't fighting each other…
 
-A spark of light leapt from building to building, fast approaching us. Everywhere she landed, the crumbling edges of walls burned away, leaving crisp flat edges [????? don't repeat word] and bare steel [????? structure of the building]. So this was Justicar's soul unleashed, raw and absolute. ?????
-
-With a last leap, the streak of light landed in the street before us, her metal boots scraping on the paving stones.
+With a last leap, the streak of light landed in the street before us, her steel boots scraping on the paving stones.
 
 Yali stood in her way.
 
-?????. A gleaming helmet fully concealed her face. Every part of her armor blazed with light, burning at my eyes, burning at my very soul. Her sword, already drawn, pointed towards us with utmost poise. With every tiny movement of the blade, I could feel it scraping on the walls of the world.
+If it wasn't so obvious you she was, I would barely have recognized her. A gleaming helmet fully concealed her face. Every part of her armor blazed with light, burning at my eyes, burning at my very soul. Her sword, already drawn, pointed towards us with utmost poise. With every tiny movement of the blade, I could feel it scraping on the walls of the world.
 
 An iron-hard voice reverberated from inside the helm. "Farseer. You have a choice to make. My quarrel is not with you. You may stand aside, and the Stern will show you mercy. Or you may throw your lot in with Blood, and face the consequences."
 
@@ -152,17 +150,17 @@ Yali did not raise her voice. She answered with [????? utter calm, but with a to
 
 "You have made your choice," came the helm's grim reply.
 
-Justicar struck out towards Yali like lightning. But somehow, her sword didn't go in the right direction. Yali had already sidestepped the blow. In the next instant, Justicar recovered and took another swing. But no matter how many times the sword slashed and stabbed, it didn't come close to Yali at all. Yali just kept calmly stepping out of the way, using small, simple movements to avoid every attack. [????? It was making Justicar look pretty incompetent.]
+Justicar struck out towards Yali like lightning. But somehow, her sword didn't go in the right direction. Yali had already sidestepped the blow. In the next instant, Justicar recovered and took another swing. But no matter how many times the sword slashed and stabbed, it didn't come close to Yali at all. Yali just kept calmly stepping out of the way, using small, simple movements to avoid every attack. It made Justicar look clumsy and awkward. All at once, I realized what was going on. Yali was using her powers to see exactly where Justicar was going to attack next.
 
-[????? I used the delay Yali had given me/Yali trusted me to use it; to keep healing]
+But this was no time for me to get distracted by the fighting. Yali was creating a delay for me, and she trusted me to make it count. I focused on my arm and leg, forcing more and more energy into them. But it was like a bottomless well. My flesh was still there, but the soul was damaged so badly it was like trying to build a new arm and leg from nothing. [????? I used the delay Yali had given me/Yali trusted me to use it; to keep healing]
 
-[????? Intersperse with dealing with Rinn's own stuff:] I realized what was going on. Yali was using the Seeing to see exactly where Justicar was going to attack next. ?????
+[????? Intersperse with dealing with Rinn's own stuff:]  ?????
 
-They were at a standstill. As much as the sword darted and flashed, it had no chance of getting past Yali's awareness. On the other hand, Justicar ????verbed, showing no sign of tiring or slowing down. [????? My eyes got lost in the movement]
+While [????? I worked], I kept half an eye on the battle in the street. Yali and Justicar were at a standstill. As much as the sword darted and flashed, it had no chance of getting past Yali's awareness. On the other hand, Justicar ????verbed, showing no sign of tiring or slowing down. The deadly dance was mesmerizing. My eyes almost got lost in the movement. But one thing was changing. Every few seconds, the dance slid half a step closer to me. I could see Yali maneuvering to slow down Justicar's advance, but there was only so much she could do. Justicar could not be stopped from advancing towards me.
 
-And then Yali struck.
+But then, Yali struck.
 
-As Justicar took a swing, Yali surged forward, going right past the sword and slamming into Justicar's chest. In the fraction of a second it took Justicar to regain her balance, Yali grabbed onto her sword arm and heaved, sending her stumbling. With a disciplined motion, Justicar spun around, landing solidly on her feet and facing Yali again. But there was one difference.
+As Justicar took a swing, Yali surged forward, going right past the sword and slamming into Justicar's chest. In the fraction-of-a-second it took Justicar to steady herself, Yali grabbed onto her sword arm and heaved, sending her stumbling. With a disciplined motion, Justicar spun around, landing solidly on her feet and facing Yali again. But there was one difference.
 
 Yali was now holding the sword.
 
