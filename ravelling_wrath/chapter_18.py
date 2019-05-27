@@ -204,7 +204,7 @@ It was like time froze. The words hung in the air. <em>No,</em> I screamed inwar
 
 [????? But this was something that Havi would never accept.] Not only to admit that she was wrong, but to admit that she should value the one person she valued least of all – herself. Every time the Stern God had asked her to erase herself, she had said yes. But now, when the Stern God would tell her she mattered, it was the one thing she could not accept. And so this final decision, the decision that would end Justicar's life, was not made by the Stern God overruling her human will, but by the human herself.
 
-Justicar leapt away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to [????? concentrate in order to keep healing myself]. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if a great wind was blowing from Justicar's body. Justicar stood alone atop the ?????, a gleaming suit of armor driving everything away from herself.
+Justicar leapt away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to [????? concentrate in order to keep healing myself]. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if a great wind was blowing from Justicar's body. Justicar stood alone atop the ?????, a gleaming suit of armor that drove everything away from herself.
 
 In this moment, she raised her right arm towards the sky.
 
