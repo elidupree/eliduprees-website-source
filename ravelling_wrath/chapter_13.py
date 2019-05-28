@@ -26,7 +26,7 @@ Then her scream came crashing through my mind. Suddenly, my blood was pounding t
 
 My muscles pulled in all directions at once. I crashed to the floor.
 
-It was an old, familiar feeling, my body tumbling down, getting bruises on my arms and smacking my jaw into the ground. It wrenched out a memory from deep inside me. A memory of me rolling around in the dirt, just being Rinn. A simpler time, long before I had to kill and be killed. What had happened to me?! How had I turned into a monster! No! Why did I have to think about this <em>now</em>?! Why did I have to fall apart right at the moment of my [????? revenge/success]?! She was dying, I had to finish her off! No! I had to get away, I couldn't –
+It was an old, familiar feeling, my body tumbling down, getting bruises on my arms and smacking my jaw into the ground. It wrenched out a memory from deep inside me. A memory of me rolling around in the dirt, just being Rinn. A simpler time, long before I had to kill and be killed. What had happened to me?! How had I turned into a monster! No! Why did I have to think about this <em>now</em>?! Why did I have to fall apart right at the moment of my victory?! She was dying, I had to finish her off! No! I had to get away, I couldn't –
 
 Face down on the floor, I clawed at the stones, desperately dragging myself away from her. If I got close, if I saw where she was, I would do it again, I would draw my blades, I could feel them in my hands, I could feel myself shredding her body, it would be so right, it wasn't enough, I had to stay away, stay away from her, no matter what.
 
@@ -172,7 +172,7 @@ I melted, my arms going limp and my body slumping down. She was going to do it.
 
 "Okay. Okay… okay, if I'm doing this… <em>where</em> should I put it…?"
 
-"…over my heart," I said, dully but with certainty. "That's where I would want it." Mechanically, I tried to pull down the neck of my shirt to expose my heart. But we were all still wearing the Stern uniform, and it was too stiff. Giving up, I just pulled up the whole front. "Go on. Do it."
+"…over my heart," I said. My voice came out dull but certain. "That's where I would want it." Mechanically, I tried to pull down the neck of my shirt to expose my heart. But we were all still wearing the Stern uniform, and it was too stiff. Giving up, I just pulled up the whole front. "Go on. Do it."
 
 Yali hesitantly pressed her fingers over my heart.
 
@@ -204,7 +204,7 @@ I stood up. Alchemist followed behind me. Yali led me to the map and pointed out
 
 "Okay."
 
-A few steps away from Yali, Alchemist clung on to me. [????? More physical details]
+A few steps away from Yali, Alchemist clung on to me. They clasped my hands between theirs, hesitating, reluctant to let go.
 
 "I'm, sad, I can't come with you," they said. "Morrow…"
 
@@ -224,36 +224,31 @@ I half-snorted. "Could've seen <em>that</em> coming."
 
 "Oh…"
 
-?????
+I left Alchemist standing there, alone on the bare floor, their face taut with stress.
 
-I left Alchemist standing [????? stressedly].
-
-I <em>wanted</em> it to be hard to walk away from them, from both of them. I wanted my heart to cling to Yali's ?????, or at least to linger softly with Alchemist. But none of it happened. It felt like all I had was a printed photo of the feelings that were supposed to be real. It felt like a ????? slipping between my limp fingers. I muttered a halfhearted goodbye and began my journey to the portal.
+I <em>wanted</em> it to be hard to walk away from them, from both of them. I wanted my heart to cling to Yali's warm body, or at least to linger softly with Alchemist. But none of it happened. It felt like all I had was a printed photo of the feelings that were supposed to be real. It felt like sand slipping between my limp fingers. I muttered a halfhearted goodbye and began my journey to the portal.
 
 <bigbreak>
 
 I found myself on the Imminent's Path, trying to ignore the distractions. It was almost impossible. When something brushed my neck, I whirled around to catch it, and I lost all my progress. And it kept happening. It was driving me crazy. Hadn't I done this before?
 
-Stuck back at the beginning again, I glared at the path in front of me. How had I done it so easily before? It was a struggle to remember. I felt like there was a thick haze over all my memories of… before I got back. But I dug it out. To get through the Imminent's Path, I had… I had deadened my sense is, blocking out everything.
+Stuck back at the beginning again, I glared at the path in front of me. How had I done it so easily before? It was a struggle to remember. I felt like there was a thick haze over all my memories of… before I got back. But I dug it out. To get through the Imminent's Path, I had… I had deadened my senses, blocking out everything.
 
 My mind recoiled against that. The part of me that was <em>Rinn</em> recoiled against that. I would NOT abandon my own feelings like that! Never again! But I had to get through this somehow! For Yali! I had a DUTY, it was what I <em>had</em> to do, what I <em>must</em> do –
 
-No. That was the Stern God still inside me. There was no way I was going to put up with the Stern kicking me around anymore. I gathered the fragments of my rage. I, Rinn, might still be in a weakened state, but I was at least strong enough to kick out something that wasn't even supposed to be here. I unleashed a burst of rage, driving the Stern God's thoughts out of every corner, barring the doors of my mind against its intrusion.
+No. That talk of <em>duty</em>, that was the Stern God still inside me. There was no way I was going to put up with the Stern kicking me around anymore. I gathered the fragments of my rage. I, Rinn, might still be in a weakened state, but I was at least strong enough to kick out something that wasn't even supposed to be here. I unleashed a burst of rage, driving the Stern God's thoughts out of every corner, barring the doors of my mind against its intrusion.
 
 I glared at the path again. That felt a little better. Now it was just me in here, like it should be. Well, me and the Blood God. Now, I could use my pride. I could walk the Imminent's Path, sure of myself and what I was doing, ignoring every distraction because I knew they were no threat to me. I didn't have to give such things a place in my heart –
 
 "No!" I raged aloud. "Not you either, Blood! You tried to kill Yali, you monster! I don't care if it screws me over, I am <em>not</em> doing things your way!! I'm not!!"
 
-I was going to do this the Rinn way or not at all. But what would the Rinn way even be? The frustration was so overwhelming it felt like it was crashing my skull. I couldn't think, I couldn't feel anything else. So that was what I would have to use. I stomped down the path, answering every new sensation with a surge of hatred, of bitterness for everything around me. ?????
+I was going to do this the Rinn way or not at all. But what would the Rinn way even be? The frustration was so overwhelming it felt like it was crashing my skull. I couldn't think, I couldn't feel anything else. Right now, that was the only thing that Rinn <em>was</em>.
 
-?????
+So that was what I used.
 
+I stomped down the path, answering every new sensation with a surge of hatred, of bitterness for everything around me. In my mind, I smashed down the walls and pounded the stones into dust. I imagined tearing off fistfuls of the Stern God's soul and plunging them into a sea of acid. I yelled and yelled at myself, trying to make myself believe that I was in control, that no one could overrule Rinn Akatura.
 
-[????? Rinn trying to do the paths the way she did before, through dissociation – the Rinn part of her recoils against that and they reach an awkward "compromise that no part of me was really okay with"]
-
-[????? The Stern God tries to be in her mind, but she bars it out]
-
-?????
+But no matter how hard I tried, it just echoed around my brain incoherently, none of it sinking in.
 
 <bigbreak>
 
@@ -277,13 +272,15 @@ How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!
 
 <em>Suffer.</em>
 
-My stomping carried me to the next intersection, to Blood Child's path. The statues stood above me, demanding my submission before I could enter. <em>Admit that you are worthless</em>, they seemed to be saying. "Fine!" I screamed. "I am worthless! I am worth NOTHING!"
+My stomping carried me forwards, step after step, blind to everything around me. Before I knew what was happening, I was in the next intersection, I had come to the Blood Child's Path. The statues stood above me, demanding my submission before I could enter. <em>Admit that you are worthless</em>, they seemed to be saying. "Fine!" I screamed. "I am worthless! I am worth NOTHING!"
 
 The statues stood there disapprovingly. <em>Too much pride,</em> they emanated at me.
 
-"Isn't that what you want?! I am horrible! I am no better than a murderer! Let me through! I have no pride left to throw away!" But the statues were motionless. They repeated their judgment, even stronger this time: <em>Too much pride.</em> I screamed and struggled, trying hopelessly to push my way past, blaming myself for everything I could think of. But they just stood there in different way. Finally, I went limp. I was exhausted and empty.
+"Isn't that what you want?! I am horrible! I am no better than a murderer! Let me through! I have no pride left to throw away!" But the statues were motionless. They repeated their judgment, even stronger this time: <em>Too much pride.</em> I screamed and struggled, trying hopelessly to push my way past, blaming myself for everything I could think of. But they just stood there indifferently.
 
-As I slumped against the statues, my mind blurring out, a little more of their demand seemed to filter into my head. But it hadn't changed. I had just… misinterpreted what they were demanding. They were not asking me to call myself <em>worthless</em>. They were asking me to call myself… <em>not important</em>. And all my guilt… to the Stern, even that was a type of pride. If you said you were guilty, you were saying you <em>mattered</em>. If you shouted that you deserved to suffer, you were making your own suffering more important than anyone else's. And to the Stern, that was yet another corruption that needed to be cut away.
+Finally, I went limp. I was exhausted and empty. I would never make it through.
+
+As I slumped against the statues, my mind blurring out, a little more of their demand seemed to filter into my head. But it hadn't changed. I had just… seen it from the wrong angle. They were not asking me to call myself <em>worthless</em>. They were asking me to call myself… <em>not important</em>. And all my guilt… to the Stern, even that was a type of pride. If you said you were guilty, you were saying you <em>mattered</em>. If you shouted that you deserved to suffer, you were making your own suffering more important than anyone else's. And to the Stern, that was yet another corruption that needed to be cut away.
 
 "I am… not important," I whispered, tears spilling from my eyes again.
 
