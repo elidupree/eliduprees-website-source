@@ -598,7 +598,7 @@ As we tumbled through space, she put her mouth close to my ear. She spoke quietl
 
 "Justicar?" I muttered back.
 
-"It's very significant that she trusts us enough to let us be alone together, too far away for her to intervene if something goes wrong. But still… we can't be too careful."
+"It's very significant that she trusts us enough to let us be alone together, too far away for her to intervene if something goes wrong. It's funny, the more I challenge her, the more she respects me. But still… we can't be too careful."
 
 "What is it?"
 

@@ -288,13 +288,13 @@ The statues pulled aside, letting me stumble through.
 
 My lie weighed heavily in my chest. It wasn't just against the Stern God's rules. It was a betrayal of myself as well. No part of me could accept the Stern God's message. I WAS important! I would NEVER accept someone trying to wipe my heart away! I would KILL and KILL – and that made me HORRIBLE and – but I HAD to – it was the size of the WORLD –
 
-But every time I reached out to the extremes, the next set of statues was there to force me back. They interrupted my thoughts, forcing me to say that I was only <em>somewhat</em> flawed, that my struggles were only a small <em>part</em> of the world. In my head, I denied it. But [????? it somehow got into my head]. ?????
+But every time I reached out to the extremes, the next set of statues was there to force me back. They interrupted my thoughts, forcing me to say that I was only <em>somewhat</em> flawed, that my struggles were only a small <em>part</em> of the world. In my head, I denied it. But it somehow wormed its way into my mind, making me doubt myself. Maybe it was right. Maybe my thoughts were too extreme. Maybe Yali was right and things would be okay. Maybe I didn't have to kill the Farseer completely…
 
-[????? "For and against" about the Stern forcing that kind of therapy on Rinn]
+The Stern God had no right to make me think this way! I could feel its will, I could feel what it wanted from me. It saw how I was tearing myself apart without it, and so it stepped in, pushing me to cut down on my own rage until I could live with myself. And the worst part was, it was working. I could feel the Stern God's message holding back the pain, saving me moment-after-moment from exploding and smashing my body against the walls. But I was only held back. I could feel myself stewing inside, waiting for the moment when I wouldn't be held back, when I would tear everything apart again.
 
-By the end, I was beaten down. When I looked up to see the intersection, the end of this segment of the Blood Child's path, I barely had the energy to think, to do anything but mechanically carry out the Stern God's demands.
+By the end, I was beaten down. By the time I looked up and saw the next intersection, the intersection at the end of this segment of the Blood Child's path, I barely had the energy to think, to do anything but mechanically follow the Stern God's demands.
 
-The next place I would walk… would be the Alchemist's Path. I stepped up to the mass of the next statues blocking the way. All I would have to do was order them to move, like before. But when I thought of doing it, it just felt like too much effort to even consider. I turned and leaned my back to a wall, then sank down to the floor, fatigue crowding out all my thoughts.
+The next place I would walk… would be the Alchemist's Path. I stepped up to the mass of jumbled statues blocking the way. All I would have to do was order them to move, like before. But when I thought of doing it, it just felt like too much effort to even think about. I turned and leaned my back to a wall, then sank down to the floor, fatigue crowding out all my thoughts.
 
 I don't know how long I sat there. [????? Dreamlike, fragmentary thoughts of Rinn and the Blood God]
 
