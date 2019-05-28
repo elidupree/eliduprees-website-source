@@ -292,7 +292,7 @@ But every time I reached out to the extremes, the next set of statues was there 
 
 [????? "For and against" about the Stern forcing that kind of therapy on Rinn]
 
-By the end, I was beaten down. When I looked up to see the intersection, the end of this segment of the Blood Child's path, I ?????.
+By the end, I was beaten down. When I looked up to see the intersection, the end of this segment of the Blood Child's path, I barely had the energy to think, to do anything but mechanically carry out the Stern God's demands.
 
 The next place I would walk… would be the Alchemist's Path. I stepped up to the mass of the next statues blocking the way. All I would have to do was order them to move, like before. But when I thought of doing it, it just felt like too much effort to even consider. I turned and leaned my back to a wall, then sank down to the floor, fatigue crowding out all my thoughts.
 
