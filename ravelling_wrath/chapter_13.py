@@ -18,8 +18,6 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 13: ", '''<p></p>''') +'''
   
-[????? fix this sequence so that Rinn talks more like she and the Blood God are the same being]
-  
 Time moved slowly around me, agonizingly slowly. I didn't understand what was happening. In my vision, in front of me, there was a picture of my blade sticking out of the side of her body's ribcage. That didn't make any sense. It wasn't real.
 
 Then her scream came crashing through my mind. Suddenly, my blood was pounding through every vessel, so hard, painfully hard. Why? My body had decided to tense up and flood itself with terror. Why? I didn't understand.
@@ -44,9 +42,9 @@ Her shadow loomed over my head. Her heavy hands gripped my shoulders. I tried to
 
 "You can," she said decisively. "Just keep holding on. You are real. This body is yours."
 
-The sound of her voice helped me focus on what was real. I
+The sound of her voice helped me focus on what was real. I slid my hands over the smooth floor, I grabbed one hand in the other, just trying to feel the feel of my skin. It still felt like a distant echo. But it was a lot closer now, a lot more <em>me</em>.
 
-?????
+"I'm – I'm Rinn –" the words came out of my mouth. "I can't – I –"
 
 "Look at me," she said seriously.
 
@@ -56,7 +54,9 @@ The sound of her voice helped me focus on what was real. I
 
 "No…" I moaned. But I knew I had to do what she said.
 
-?????
+I felt half-asleep, like I couldn't remember how to move my arms and legs. Fumbling, I got myself half sitting up, half twisted around. She was right there, right on the corner of my eye. All I had to do was turn my head…
+
+Pushing through a heavy resistance, I turned.
 
 Looking at her was the most terrifying thing I'd ever done. I wanted a hundred things at the same time. I wanted to run away. I wanted to hug her. I wanted to get down on the floor and beg for forgiveness and sob into her legs. I reached out to do it all at the same time. But I was frozen in terror.
 
@@ -70,17 +70,17 @@ I looked at her chest, uncomprehending. There was supposed to be a wound there, 
 
 "Say my name," she said.
 
-I opened my mouth. I knew her name, of course I knew her name. I had said her name so many times, shouting it across the schoolyard, whispering it lovingly while she held me in her arms… I had whispered – "Yali. Oh gods, Yali." The topmost layer of fear and tension drained out of me. I was back. At least halfway.
+I opened my mouth. I knew her name, of course I knew her name. I had said her name so many times, shouting it across the schoolyard, whispering it lovingly while she held me in her arms… I had whispered – "Yali. Oh gods, Yali." The topmost ?????layer of fear and tension drained out of me. I was back. At least halfway.
 
-[????? Introduce a new medium-term promise by this point?]
+"Don't worry, we'll get you out of this layer soon. The next layer will –"
 
-I ?????. "But – oh gods, oh gods, oh gods, how – what –" I held out my hand, opening and closing it as if it was a strange thing that wasn't part of me. This hand had done what? Suddenly I was shivering violently, my hands tingling and tears squeezing painfully from my eyes. Yali moved in, wrapping her big arms around me. I wanted to feel like those arms were warm and reassuring. I wanted to feel like they were holding me up when I was falling down. But the cracks inside me were too deep.
+So this was me and Yali sitting together. A few memories filtered back. And there was Alchemist off to the side, standing hesitantly back, like always. It almost felt normal. Were we going to be okay, just like before? But – "But – oh gods, oh gods, oh gods, how – what –" I held out my hand, opening and closing it as if it was a strange thing that wasn't part of me. This hand had done what? Suddenly I was shivering violently, my hands tingling and tears squeezing painfully from my eyes. Yali moved in, wrapping her big arms around me. I wanted to feel like those arms were warm and reassuring. I wanted to feel like they were holding me up when I was falling down. But the cracks inside me were too deep.
 
 And then came the pain and rage. I tried to jump up, to run at the wall and beat against it. But Yali was holding me too tightly. I struggled against her, thrashing back and forth. "LET ME GO!!" I screamed.
 
 "I'm not going to – oof! – to let you go if you're going to – ow! – to hurt yourself!" gasped Yali, struggling to hold on.
 
-"I DON'T CARE! LET ME GO, LET ME GO, –" I managed to jerk away from her and jump up. Blinded by rage, I slammed my fist into the stone wall with all my strength. I pulled my hand back for a second swing, and I was about to do it again when the pain hit. My hand felt like it was splitting apart. [????? Improve this transition:] Normally, pain would fuel my anger, but now, I was suddenly too exhausted to be angry. I slumped against the wall, clutching my broken hand, and sank down to the floor again, curling up in the corner and sobbing.
+"I DON'T CARE! LET ME GO, LET ME GO, –" I managed to jerk away from her and jump up. Blinded by rage, I slammed my fist into the stone wall with all my strength. I pulled my hand back for a second swing, and I was about to do it again when the pain hit. My hand felt like it was splitting apart. It was endless pain, meaningless and unfulfilling. Normally, the pain would fuel my anger, and the anger would give me a reason to hold on. But now, I was suddenly too exhausted to be angry. I slumped against the wall, clutching my broken hand, and sank down to the floor again, curling up in the corner and sobbing.
 
 I was dimly aware of Yali and Alchemist sitting down around me, trying to comfort me. But I couldn't get up. I couldn't see past the pain.
 
@@ -96,7 +96,7 @@ Alchemist coaxed a potion out of the air and handed it to me. With my good hand,
 
 "Gods, you're the best," I mumbled. I kissed Alchemist without thinking. Wait a minute, I had just kissed Alchemist when I hadn't even kissed Yali! Well, I could fix that. I turned to the other side and kissed Yali too. Yali kissed me back tenderly, then guided me towards Alchemist again. They went back and forth, kissing me in turn.
 
-It only felt ?????loving for a minute. "Fuck, I don't deserve this!" I whimpered. "Both of you, I shouldn't even be close to you –" I tried to pull away from them again.
+It only felt caring for a minute. "Fuck, I don't deserve this!" I whimpered. "Both of you, I shouldn't even be close to you –" I tried to pull away from them again.
 
 Yali held on tight. "Rinn, <em>no</em>. You're not thinking straight –"
 
@@ -104,15 +104,19 @@ Panic flooded through me. I felt like I'd been sleeping while my house was on fi
 
 Yali held me down. "I'll be using this Seeing regularly. If anything is going to happen, I'll know. I can take you with me all the way to the portal –"
 
-"But it's not perfect! And you'll be on the Farseer's Path! You won't be able to use it for hours at a time! What if it happens in one of the futures you didn't check! What if – [????? I don't want, I don't want, I'm scared –]"
+"But it's not perfect! And you'll be on the Farseer's Path! You won't be able to use it for hours at a time! What if it happens in one of the futures you didn't check! What if – I don't want, I don't want, I'm scared –"
 
 "I'm scared too," said Alchemist nervously. "Yali…"
 
-[????? Is this the right moment for this?: Yali was silent for a time.
+Yali was silent for a time.
 
-"I should have known," she said darkly. "You're right, of course. It's only a tiny chance, but it's not worth risking everything for that. I should have known it wouldn't work to be close to you."]
+"I should have known," she said darkly. "You're right, of course. It's only a tiny chance, but it's not worth risking everything for that. I should have known it wouldn't work to be close to you."
 
-?????
+"You what…?"
+
+Yali stared at the pedestal with the map [????? set this up], ignoring me. "What we'll do, what we <em>should</em> do, is have you go to the next layer as soon as you can. The next layer will be better. The Blood God might still try something, but at least it won't be this. For some reason, when you're under the Stern God's influence, it's not… not good…"
+
+"Tell me something I don't know," I said dully.
 
 "You can go straight to the exit portal. The Stern God won't approve, but it won't stop you. We'll meet up again in the next layer. It'll be okay."
 
@@ -120,7 +124,7 @@ But as soon as she said that, another horrible thought screamed in my head. "But
 
 "I, I –"
 
-"What if you, used, the…" began Alchemist.
+"Maybe if you, used, the…" began Alchemist.
 
 "I'm not going to use that," said Yali. "It's not needed."
 
@@ -154,7 +158,7 @@ She caught my wrists and held me away from her. "It's not right! Watching you ev
 
 "LIKE ANY OF THIS WAS CONSENSUAL!! I DIDN'T CONSENT TO HAVE THE BLOOD GOD IN MY HEAD! I DIDN'T CONSENT TO STABBING YOU! PLEASE! PLEASE! PLEASE! I'M BEGGING YOU!" I sobbed, straining against Yali's arms to bring my face closer to hers.
 
-Yali went silent again. For a long moment, everything was quiet except for the sound of my struggling. Tears poured down my face. It was hopeless. Yali's face loomed cold and impenetrable in front of me. She was going to deny me again. There was nothing I could do to change it. And then it would happen again. And it would be all my fault, all my fault… [????? Ordering of the sentences in this paragraph?]
+Yali went silent again. For a long moment, everything was quiet except for the sound of my struggling. Tears poured down my face. It was hopeless. Yali's face loomed cold and impenetrable in front of me. She was going to deny me again. There was nothing I could do to change it. And then it would happen again. And it would be all my fault, all my fault…
 
 "I'm begging you," I whimpered again.
 
@@ -180,17 +184,17 @@ It didn't feel anything like when she'd touched my heart on that first day. It w
 
 "Did it work?" I said. "What's it like?"
 
-"It's like I can see you from all sides at once," said Yali. Her voice was distant, like she had something else on her mind. "I can see the Burning Heart on your back…" [????? tone of doubt about whether her actions were okay]
+"It's like I can see you from all sides at once," said Yali. Her voice was distant, like she had something else on her mind. "I can see the Burning Heart on your back… And I can hear myself talk from the outside, it also lets me hear things… Yes, it's completely, completely… functional."
 
 I pulled my shirt back down. We sat facing each other, in a troubled silence. Alchemist leaned in from the side and put their arms around my shoulders. It was comforting, but I could feel them shaking continuously. I tried to hug them back, but it didn't happen.
 
 "Yali…" I began.
 
-"This wasn't right," she interrupted, not quite looking at me, as if she'd already been planning to say that before I said anything. "If, in the future, it becomes a problem, that I can see you like this… I'm sorry."
+"This wasn't right," she interrupted, not quite looking at me, as if she'd already been planning to say that. "If, in the future, it becomes a problem, that I can see you like this… I'm sorry. No one should ever be able to watch someone else, in, in, things that should be private –"
 
 "No, it's okay!"
 
-Yali pulled herself to her feet and paced a few steps away. ?????. "…you should go."
+Yali pulled herself to her feet and paced a few steps away. "…you should go."
 
 "Already…?"
 
