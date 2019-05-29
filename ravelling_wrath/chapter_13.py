@@ -70,11 +70,11 @@ I looked at her chest, uncomprehending. There was supposed to be a wound there, 
 
 "Say my name," she said.
 
-I opened my mouth. I knew her name, of course I knew her name. I had said her name so many times, shouting it across the schoolyard, whispering it lovingly while she held me in her arms… I had whispered – "Yali. Oh gods, Yali." The topmost ?????layer of fear and tension drained out of me. I was back. At least halfway.
+I opened my mouth. I knew her name, of course I knew her name. I had said her name so many times, shouting it across the schoolyard, whispering it lovingly while she held me in her arms… I had whispered – "Yali. Oh gods, Yali." The topmost part of my fear and tension drained out of me. I was back. At least halfway.
 
 "Don't worry, we'll get you out of this layer soon. The next layer will –"
 
-So this was me and Yali sitting together. A few memories filtered back. And there was Alchemist off to the side, standing hesitantly back, like always. It almost felt normal. Were we going to be okay, just like before? But – "But – oh gods, oh gods, oh gods, how – what –" I held out my hand, opening and closing it as if it was a strange thing that wasn't part of me. This hand had done what? Suddenly I was shivering violently, my hands tingling and tears squeezing painfully from my eyes. Yali moved in, wrapping her big arms around me. I wanted to feel like those arms were warm and reassuring. I wanted to feel like they were holding me up when I was falling down. But the cracks inside me were too deep.
+So this was me and Yali sitting together. We were just sitting here, just talking, in an intersection between two paths, just like all the intersections, a square of stone bricks, empty except for a pedestal with the map. And there was Alchemist off to the side, standing hesitantly back, like always. A few memories filtered back. It almost felt normal. Were we going to be okay, just like before? But – "But – oh gods, oh gods, oh gods, how – what –" I held out my hand, opening and closing it as if it was a strange thing that wasn't part of me. This hand had done what? Suddenly I was shivering violently, my hands tingling and tears squeezing painfully from my eyes. Yali moved in, wrapping her big arms around me. I wanted to feel like those arms were warm and reassuring. I wanted to feel like they were holding me up when I was falling down. But the cracks inside me were too deep.
 
 And then came the pain and rage. I tried to jump up, to run at the wall and beat against it. But Yali was holding me too tightly. I struggled against her, thrashing back and forth. "LET ME GO!!" I screamed.
 
@@ -114,7 +114,7 @@ Yali was silent for a time.
 
 "You what…?"
 
-Yali stared at the pedestal with the map [????? set this up], ignoring me. "What we'll do, what we <em>should</em> do, is have you go to the next layer as soon as you can. The next layer will be better. The Blood God might still try something, but at least it won't be this. For some reason, when you're under the Stern God's influence, it's not… not good…"
+Yali stared at the pedestal with the map, ignoring me. "What we'll do, what we <em>should</em> do, is have you go to the next layer as soon as you can. The next layer will be better. The Blood God might still try something, but at least it won't be this. For some reason, when you're under the Stern God's influence, it's not… not good…"
 
 "Tell me something I don't know," I said dully.
 
@@ -270,13 +270,17 @@ Tears poured from my eyes, streaking my face as I trudged on. How did this happe
 
 I walked and cried, cried and walked. I felt gutted and beaten down, too exhausted to even parse out which parts were me and which were the Blood God.
 
-?????
+Hours passed. I turned from the Imminent's Path to the Alchemist's, and then later, back to the Imminent's again, working my way diagonally towards the center where the portal was. The guilt settled lower and lower in the pit of my stomach. I barely saw a reason to keep going. I was only going this way because Yali said so. And if Yali said so, there had to be a reason for it. Yali always made sense. Not like me, who just felt like shit all the time and couldn't stop myself from hurting people and couldn't even figure out what I wanted.
 
-How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!! I had tried to fucking murder somebody!!! <em>My own girlfriend!!</em> I reared back to punch the nearest wall, and only my memory of the pain held me back. I felt my knees, my head spinning, guilt gnawing at my stomach again. I was the WORST person in HISTORY! I stomped along the path harder and harder, hoping the pain that shockwaved up through my legs would be enough to make me suffer for what I'd done. I didn't deserve Yali. I didn't deserve Alchemist. I didn't deserve for anyone to care about me. I should suffer.
+And had stabbed her…
+
+I swallowed. I swallowed again. I felt sick and confused. But why should I feel confused? It was all obvious. What I had done… It was so wrong, so obviously, sickeningly wrong. How could I be confused about that? How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!! I had tried to fucking murder somebody!!! <em>My own girlfriend!!</em> I reared back to punch the nearest wall, and only my memory of the pain held me back. I tore at my hair, my head spinning, guilt gnawing at my stomach again. I was the WORST person in HISTORY! I stomped along the path harder and harder, hoping the pain that shockwaved up through my legs would be enough to make me suffer for what I'd done. I didn't deserve Yali. I didn't deserve Alchemist. I didn't deserve for anyone to care about me. I should suffer.
 
 <em>Suffer.</em>
 
-My stomping carried me forwards, step after step, blind to everything around me. Before I knew what was happening, I was in the next intersection, I had come to the Blood Child's Path. The statues stood above me, demanding my submission before I could enter. <em>Admit that you are worthless</em>, they seemed to be saying. "Fine!" I screamed. "I am worthless! I am worth NOTHING!"
+My stomping carried me forwards, step after step, blind to everything around me. Before I knew what was happening, I was in the next intersection. I had almost forgotten where I was going, but I was nearly at the end. I had come to the Blood Child's Path, the second-to-last part I would have to walk.
+
+I stomped over to the doors. As always, the statues stood above me, demanding my submission before I could enter. <em>Admit that you are worthless</em>, they seemed to be saying. "Fine!" I screamed. "I am worthless! I am worth NOTHING!"
 
 The statues stood there disapprovingly. <em>Too much pride,</em> they emanated at me.
 
@@ -298,13 +302,11 @@ The Stern God had no right to make me think this way! I could feel its will, I c
 
 By the end, I was beaten down. By the time I looked up and saw the next intersection, the intersection at the end of this segment of the Blood Child's path, I barely had the energy to think, to do anything but mechanically follow the Stern God's demands.
 
-The next place I would walk… would be the Alchemist's Path. I stepped up to the mass of jumbled statues blocking the way. All I would have to do was order them to move, like before. But when I thought of doing it, it just felt like too much effort to even think about. I turned and leaned my back to a wall, then sank down to the floor, fatigue crowding out all my thoughts.
+The next place I would walk, the last place I needed to walk… it was the Alchemist's Path. I stepped up to the mass of jumbled statues blocking the way. All I would have to do was order them to move, like before. But when I thought of doing it, it just felt like too much effort to even think about. I turned and leaned my back to a wall, then sank down to the floor, fatigue crowding out all my thoughts.
 
-I don't know how long I sat there. [????? Dreamlike, fragmentary thoughts of Rinn and the Blood God]
+I don't know how long I sat there. Fragments of thought floated through my head, dreamlike images I couldn't explain. My body drowning in the void, sweltering flesh around me, Yali's flesh, clinging on, leaning forward to kiss her, she wasn't there, she was laughing and pointing at me, the Watchful Eye on my chest, a lance through my chest, dying, living again, running for fun through the grass, the grass taken away, falling, a tiny prison, buried in the earth, dying, living again, dying, living again.
 
-?????
-
-????? the hard clack-clack-clack of someone else's uniform shoes on the floor. I couldn't muster the energy to lift my eyes and see who it was. But the footsteps came closer and closer. I finally convinced myself to raise my head.
+My nameless thoughts were broken by a sound, the hard clack-clack-clack of someone else's uniform shoes on the floor. I couldn't muster the energy to lift my eyes and see who it was. But the footsteps came closer and closer. I finally convinced myself to raise my head.
 
 I almost didn't recognize her at first. She was wearing the same uniform as the rest of us, instead of her usual armor. But she still had the sword at her side. That was a dead giveaway.
 
@@ -314,9 +316,9 @@ Her voice came cutting through the fog in my head. "Is it true that you struck t
 
 She was standing just a few paces away. She faced me like a challenger, coldly awaiting my response. Seconds ticked away as I tried to make myself speak. My voice came out thin and raspy. "I didn't want to," I said.
 
-?????
+Justicar looked down at me for a long moment, her face unreadable.
 
-"?????," she said.
+"You are not the innocent we were promised," she said.
 
 And then she drew her sword.
 
