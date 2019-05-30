@@ -294,13 +294,13 @@ They had never wanted a child to love and nurture for her own sake. They had wan
 
 And as they couldn't get rid of me, they put me to any use they could think of.
 
-I was a child. I didn't understand what sex was. But I had heard them. I had listened through the imperfectly soundproofed walls, trying to understand what made them moan, at one moment, "oh gods, I love you, how could I live without you," and at another moment, "[????? you pervert, you freak, only perverts are into that]".
+I was a child. I didn't understand what sex was. But I had heard them. I had listened through the imperfectly soundproofed walls, trying to understand what made them moan, at one moment, "oh gods, I love you, how could I live without you," and at another moment, "you pervert, you're disgusting, if you get off on that then you're a sick human being".
 
 And then there was the day when I walked in on them.
 
-I understand that memories can be altered when we remember them. False memories are a thing that can happen. And the order of events I remember is impossible. But I have no doubt of what ultimately happened: They used me as a glorified sex toy. Maybe they were trying to spice up their sex life to forget everything that was wrong with the relationship. And for all their convoluted rules about which kinds of sex were freakish or perverted, literally using a child's body to pleasure themselves was not covered.
+I understand that memories can be altered when we remember them. False memories are a thing that can happen. And the order of events I remember is impossible. But I have no doubt of what ultimately happened: They used me as a glorified sex toy. Maybe they were trying to spice up their sex life to forget everything that was wrong with the relationship. And for all their convoluted rules about which kinds of sex were disgusting or perverted, literally using a child's body to pleasure themselves was not covered.
 
-Once the idea was in their minds, it could not be removed. Both of them raped me many times. Both together and separately. [?????femalename in particular forced me into many different positions creatively, all the while complaining that it was unfair because she thought ???? had gotten to use me more than she had.]
+Once they had done it once, they did it again and again. Both of them raped me many times. Both together and separately.
 
 I blamed myself for a long time. I no longer do. I do not allow those thoughts to have authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. Now I can even say it out loud without being afraid I will believe it. This time was easier than last time. That is good.
 
@@ -316,7 +316,7 @@ She told me she <em>understood</em> that I wasn't happy with the ????s. She told
 
 But that is for the future, and I am not finished telling you about the past. The ????s still had to keep up appearances. At eight years old, they sent me to a private boarding school. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. When they were around <em>me</em>, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
 
-I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were friendly. I didn't like the other kids either. In those days, I had only one friend, and I treated her very badly. When she left me, it was the worst day of my life. [????? Bit more details and her name]
+I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were friendly. I didn't like the other kids either. In those days, I had only one friend. Her name was ????. I was very attached to her, but I treated her very badly. I didn't have anyone else to play with, and whenever she didn't want to play with me, I yelled at her until she did. One day she left me a note saying she couldn't take it anymore and she didn't want to be friends anymore. That day was the worst day of my life.
 
 During school vacations, when I was at home, I ended up getting a lot more alone time. I had gotten more independent at the school, so the ????s didn't have to spend as much time taking care of me. And when they weren't using me for their pleasure, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information about child abuse. I had always known I wasn't okay with what they were doing, but when I actually checked the things off in lists of things that were like "this is what abuse is," it felt different. It felt like something I should be able to stop. And not only that, but I hadn't known that the sexual abuse was a <em>crime</em>. If it was a crime, there <em>was</em> something I could do about it, just as long as I could prove what was happening.
 
@@ -342,17 +342,17 @@ For years, I had kept myself going with the thought that if only I could prove w
 
 Twenty minutes after I read that letter, I cried for the first time in years. I still wanted to believe that there was a home I could go back to. I didn't want to believe that she was no more than a flawed, callous human. I still have that letter, in the drawer of my nightstand. Of all the things I own, it is the one I have the most feelings about.
 
- ????? I was given into the custody of the Stern. For the next ????? years, I was raised and educated in a Stern monastery.
+Since Arinyo Seti would not take me back, and I had no other living relatives near the city, I was given into the custody of the Stern. For the next ?????three years, I was raised and educated in a Stern monastery.
 
-In a way, living at the monastery was easier. My life had been uprooted in every way, but the Stern gave me stability. The monks kept the same routine every day, ?????. It was a predictability that I had never had before. It gave me a chance to rest and relax, for the first time in my life.
+In a way, living at the monastery was easier. My life had been uprooted in every way, but the Stern gave me stability. The monks kept the same routine every day. They woke with the dawn, and there were bells that called us to each meal. The food was simple and filling, and it was the same every day. A few of the monks liked to complain about it, and they made the same complaints every day, too. It was a predictability that I had never had before. It gave me a chance to rest and relax, for the first time in my life.
 
-Szaieto, the monk responsible for my upbringing, liked routines as much as I did. We had all our little rituals together. Every morning, he woke me up by tapping three times on my bedpost. I actually recorded the sound of his tapping so I can use it as my alarm clock now that I live on my own. And after every meal, we had a hand gesture that we did – I can't really describe it, but I can show you later.
+Szaieto, the monk responsible for my upbringing, liked routines as much as I did. We had all our little rituals together. Every morning, he woke me up by tapping three times on my bedpost. I've actually recorded the sound of his tapping so I can use it as my alarm clock now that I live on my own. And after every meal, we had a hand gesture that we did – I can't really describe it, but I can show you later.
 
 But I was never happy there. For years, I had dedicated my life to a single purpose – escape. But once I had succeeded, I had no idea what to do with myself. I was deeply depressed during my years at the monastery, even if I did not show it on the outside. The monks had answers to a lot of questions, but, but, not that one. There was one other orphan near my age there, but I didn't have anything in common with him.
 
 So, last year, I asked for permission to live independently, and to attend a regular high school. I don't think it was a normal thing to ask for in my situation. But Szaieto and the other monks had been very impressed by how organized and independent I was. They were sad to see me go, but they arranged for me to live in one of the houses the Stern Temple normally reserves for retirees. It's technically rented from the Stern Temple, but it's paid for out of the trust they set up after my parents – after the ????s were convicted. So… that's why I live there now. The arrangement is, I have a stipend that lets me take care of my basic needs, and the monastery sends someone to visit me once a week to make sure I'm getting along okay.
 
-I guess there's not much more to tell. [????? Some stuff about the school?] [????? Here or above: now I have a mission again so I'm not currently depressed]
+I guess there's not much more to tell. School's nice. The teachers at our school are too overworked to care if I'm paying attention, so I don't have to. And I've gotten to meet other kids, like you. I would never have met you in a Stern monastery. School didn't really help with the depression, though. But I'm not depressed <em>now</em>. I actually haven't been depressed since I was chosen as the Farseer. I have a mission again. Every day I fill my mind with my plans for my mission, I don't have time to be depressed.
 
 <bigbreak>
 
@@ -372,9 +372,7 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 "You've only ever seen what I'm like when I'm with <em>you</em>," she said simply.
 
-It was true… Until now, I had hardly known anything about Yali's life before we met. I had loved her and wanted to know everything about her, but she had never wanted to talk about herself. [????? Leading to:]
-
-"So… When you said I couldn't tell anyone you were the Farseer…"
+It was true… Until now, I had hardly known anything about Yali's life before we met. I had loved her and wanted to know everything about her, but she had never wanted to talk about herself. She had kept it all hidden… she'd even told me to – "Wait…" I said. "When you said I couldn't tell anyone you were the Farseer…"
 
 "<em>She would have wanted me back,</em>" said Yali bitterly. "If the Waiting Temple knew I <em>mattered</em> to the Waiting God, <em>then</em> they would have cared about me. It was one of the first things I used the Seeing for. I saw them take me away to their temples, I saw them give me all kinds of <em>training</em> to make me the best Farseer I could be. I would never accept that from <em>them!</em> Especially since I would never get to see <em>you</em> again until we were facing off in the Otherworld!"
 
@@ -388,17 +386,17 @@ Yali squinted a little. "You really think so? I, I guess you do hate the temples
 
 "But it's horrible, it's, like, obvious…" I repeated weakly. I should have had a brilliant explanation for how messed up it was for the temples to coerce people into things, but I couldn't think of it.
 
-A few paces later, Yali suddenly looked relieved. "Justicar has gone through the portal," she announced. "That's at least one last danger while we're still in this layer."
+A few paces later, Yali suddenly looked relieved. "Justicar has gone through the portal," she announced. "That's at least one less danger while we're still in this layer."
 
-That should have been a relief, but I didn't feel it. My brain was still wandering, thinking about the Waiting Temple. ?????
-
-?????
+That should have been a relief, but I didn't feel it. My brain was still wandering, thinking about the Waiting Temple.
 
 "How did your mom get picked to be the high priest if she had a bad memory? Isn't remembering the past really important to the Waiting?"
 
-"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>…" Yali said sourly, but then stopped herself. "But the ????s did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
+"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>," Yali said sourly. But then she stopped herself. "But the ????s did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
 
-?????
+"I can't believe how much you… how much you… uh…" I struggled to get my thoughts in order. "You, uh, you've really got this all figured out."
+
+"I do that, don't I," she said, not quite sounding happy about it.
 
 <bigbreak>
 
@@ -408,7 +406,7 @@ Then she and Alchemist examined me together. Alchemist cried while they were doi
 
 They talked a lot about how my soul had been left for hours when it was only partially healed. Apparently, that was bad, but also good. It made things more complicated. Alchemist made me a series of different potions. All of them tasted different from each other, all subtle but unpleasant. I just drank them down as ordered. Eventually, they agreed that it was a success. My soul wasn't quite the same as before, but it was pretty much whole again.
 
-Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of ????? and ?????. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe if she said it directly, Alchemist might not be willing…
+Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of strength and speed. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe if she said it directly, Alchemist might not be willing…
 
 Alchemist shied away from making another Severing Step, too.
 
@@ -506,11 +504,10 @@ The Broken Gate swallowed me.
 
 The ocean crashed over me. A black ocean, heavy and infinite, tossed and dropped my body across its waves. It washed into my head, flooding away my tiny feelings of fear and despair and want. It washed into my mouth, flooding away my flimsy words of explanation. It washed into my eyes, leaving nothing behind them but the raw force of the cosmos.
 
-I was naked in the biting storm. The world lashed my skin with lines of pain, but I felt no need to strain against it. Every muscle felt its tension drain away, a deep relaxation like sinking into the softest mattress [????? and also peeing? How to make this sound grand?]. I was carried away on a tide of warm and cold. My throat was blocked, yet my chest was full of more breath than my lungs could bear.
+I was naked in the biting storm. The world lashed my skin with lines of pain, but I felt no need to strain against it. Every muscle felt its tension drain away, a deep relaxation like sinking into the softest mattress, like letting my bladder empty itself into the endless water. I was carried away on a tide of warm and cold. My throat was blocked, yet my chest was full of more breath than my lungs could bear.
 
-And then another thing began. A scratching sensation spread throughout me, a deep scratch that dug under every pore of my skin and drilled down into my very bones. A rough massage in the inside of every muscle and tendon. I was long past telling whether it was a scratch of comfort or of pain. It filled me up, like the roar of water filled my ears. This scratch was everything, everything I could feel or be. Tears poured from me, wrenching at my few remaining scraps of emotion, draining them into the infinite sea. I was full and empty, awash with agony and bliss. I was everything and nothing. I was the clouds and the desert sand.
+And then another thing began. A scratching sensation spread throughout me, a deep scratch that dug under every pore of my skin and drilled down into my very bones. A rough massage in the inside of every muscle and tendon. I was long past telling whether it was a scratch of comfort or of pain. It filled me up, just as the roar of water filled my ears. This scratch was everything, everything I could feel or be. Tears poured from me, wrenching at my few remaining scraps of emotion, draining them into the infinite sea. I was full and empty, awash with agony and bliss. I was everything and nothing. I was the clouds and the desert sand.
 
-[????? Final line?]
 
 ''',
 },
