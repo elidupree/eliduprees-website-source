@@ -168,7 +168,7 @@ Justicar tensed. Visible anger crossed her face. "The gods <em>always</em> have 
 
 She strode away, with Yali glaring after her.
 
-[????? Should there be a section break here?]
+<bigbreak>
 
 The moment Justicar was out of sight, Yali rushed to my side, all her grim determination replaced with panic. She put her hands around my arm and shoulder, clumsily trying to pull me up into a better sitting position.
 
@@ -180,7 +180,7 @@ The moment Justicar was out of sight, Yali rushed to my side, all her grim deter
 
 "No, you are not!" Yali thundered. "Your soul is still damaged! Half of that skin is a manifested patch! If you don't take more of the potion, you will <em>die</em>!"
 
-"Okay, okay…" I let Yali feed me the dregs of the potion. Then she tried to collect up some of the part that had spilled. It was pretty gooey, so she was able to wipe part of the spill from my neck and let me lick it off her fingers. I was almost able to get distracted, just sucking on her fingers, but she didn't let me. [????? Fix that line?] Still, the potion was definitely making me feel a little better, life oozing back into my body.
+"Okay, okay…" I let Yali feed me the dregs of the potion. Then she tried to collect up some of the part that had spilled. It was pretty gooey, so she was able to wipe part of the spill from my neck and let me lick it off her fingers. I was almost able to get distracted, just sucking on her fingers, but Yali made me keep paying attention. Still, the potion was definitely making me feel a little better, life oozing back into my body.
 
 Yali examined my wound again. It must have satisfied her, because she settled down from an outright panic to just drawn-out anxiety. "It's enough to keep you alive…" she said uneasily. "I'm sorry, I didn't think of, I, I should have brought a second potion, I – "
 
@@ -266,11 +266,11 @@ The thoughts slowly clicked into place in my brain. Yali's mother, who wasn't pa
 
 Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>did</em> ask you not to bring that up, didn't I. But I see no reason not to tell you now."
 
-[????? Expand a little] <em>I see no reason not to tell you now.</em> Her words were infinitely cold. She was going to tell me, but there was no warmth in this, no kindness, no sense of closeness or vulnerability.
+<em>I see no reason not to tell you now.</em> Her words were infinitely cold. She was finally going to tell me about her past, but this was no kindness. It felt so sudden and harsh. Back in the material world, I had been curious about her past. I had been drawn to the intimacy of knowing everything about her, even her darkest struggles. But the way she said it now… Yali saw no intimacy in this. She looked as emotionless as I felt. As she began her story, I couldn't help feeling a slow sense of dread about what she was going to say next.
 
 <bigbreak>
 
-Arinyo Seti is not the one who abused me. But [????? she bears some of the guilt] nonetheless.
+Arinyo Seti is not one of the people who abused me. But she is partially responsible nonetheless.
 
 I will begin at the beginning. My biological father died not long before I was born. Arinyo Seti had never intended to raise me by herself. With her memory and attention issues, she knew that she was not prepared to live alone, much less to raise a child that way. In the home where I lived, trash piled up for weeks before she would clear it. More than once, the city shut off our water because she had forgotten to pay her bills. And even though she always made sure I ate before she did, there were some days when there was no food left in the house. We were not poor, and she had friends who were willing to help, but she rarely asked for help until I reminded her. By the time I was six years old, I was more organized than my own mother.
 
