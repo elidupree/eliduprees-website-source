@@ -280,15 +280,15 @@ I was only dimly aware of the negotiations for her to become high priest. There 
 
 So when she explained to me that I would be given to another family when she was [?????anointed? ordained? as high priest], I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
 
-????? and ????? ?????surname were praised and respected by everyone in our community. They were fashionable. They gave generously to good causes. And everyone remembered their grand gestures of love for each other, the surprise romantic messages they delivered at their formal parties. They always laughed and smiled charmingly, and whenever they were praised, they deflected it with modesty.
+???? and ???? ????surname were praised and respected by everyone in our community. They were fashionable. They gave generously to good causes. And everyone remembered their grand gestures of love for each other, the surprise romantic messages they delivered at their formal parties. They always laughed and smiled charmingly, and whenever they were praised, they deflected it with modesty.
 
 And at the same time, they were a husband and wife who could not have children of their own. So it seemed only natural that they would be a good candidate to care for the high priest's child when she was consumed by her duties. Everyone told me it was a perfect match. They said it was sad I would be away from my mother, but they could not imagine a better replacement.
 
-At first, I thought they were right. I ate good food. I lived in a clean house. I missed my mother, but she had told me to trust the [????? name]s, and I believed her.
+At first, I thought they were right. I ate good food. I lived in a clean house. I missed my mother, but she had told me to trust the ????s, and I believed her.
 
 It was barely days before their performance fell apart. Everything they did in public was just an act to cover up how bitter and dysfunctional they were in private. They hated each other, they hated themselves, and before long, they hated me as well. There was hardly a day when they didn't find a reason to yell at each other. I have a clear memory of a day when they blamed each other for hours over a stain on one of their tabletops. A stain I could barely even see. If either of them saw something that was out of its perfect order, it was the other one's fault.
 
-And if I ever spoke up to make them stop, they yelled at me as well. They called me worthless. They called me an inconvenience. I was no better than the furniture they tried to polish until the stain was invisible. I started making sure the house was in perfect order, hoping there wouldn't be anything to set them off. But when ????? caught me trying to clean the house, he cornered me and berated me until [????? I was frightened into silence], accusing me of trying to cover up for ?????'s carelessness. I quickly learned to clean things up when no one was looking.
+And if I ever spoke up to make them stop, they yelled at me as well. They called me worthless. They called me an inconvenience. I was no better than the furniture they tried to polish until the stain was invisible. I started making sure the house was in perfect order, hoping there wouldn't be anything to set them off. But when ???? caught me trying to clean the house, he cornered me and berated me until [????? I was frightened into silence], accusing me of trying to cover up for ????'s carelessness. I quickly learned to clean things up when no one was looking.
 
 They had never wanted a child to love and nurture for her own sake. They had wanted a child because they thought, if they were forced to love and nurture a child, they could pretend that that was who they really were. They could complete the story they were telling themselves about who they were and what their relationship was. But they could not. And once they could no longer pretend, I was just another burden to them, a failed prop that they had no way to get rid of.
 
@@ -300,7 +300,7 @@ And then there was the day when I walked in on them.
 
 I understand that memories can be altered when we remember them. False memories are a thing that can happen. And the order of events I remember is impossible. But I have no doubt of what ultimately happened: They used me as a glorified sex toy. Maybe they were trying to spice up their sex life to forget everything that was wrong with the relationship. And for all their convoluted rules about which kinds of sex were freakish or perverted, literally using a child's body to pleasure themselves was not covered.
 
-Once the idea was in their minds, it could not be removed. Both of them raped me many times. Both together and separately. [?????femalename in particular forced me into many different positions creatively, all the while complaining that it was unfair because she thought ????? had gotten to use me more than she had.]
+Once the idea was in their minds, it could not be removed. Both of them raped me many times. Both together and separately. [?????femalename in particular forced me into many different positions creatively, all the while complaining that it was unfair because she thought ???? had gotten to use me more than she had.]
 
 I blamed myself for a long time. I no longer do. I do not allow those thoughts to have authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. Now I can even say it out loud without being afraid I will believe it. This time was easier than last time. That is good.
 
@@ -310,11 +310,11 @@ And I did what they told me to. I told almost no one. But. I. On one of our visi
 
 She refused to believe me.
 
-She told me she <em>understood</em> that I wasn't happy with the ?????s. She told me she <em>understood</em> why I would <em>make up a story</em> to try to get her back. But she was the one who was making up a story because the truth was inconvenient for her! ?????
+She told me she <em>understood</em> that I wasn't happy with the ????s. She told me she <em>understood</em> why I would <em>make up a story</em> to try to get her back. But she was the one who was making up a story because the truth was inconvenient for her! ?????
 
 <em>That</em> is when she betrayed me. To keep her grand plan to serve the Waiting God, she could not admit to her mistake, even to save me from years of abuse. I will never forgive her for that. And I will never forgive the Waiting God for accepting her service after that. The Waiting God knows all, but it did nothing to protect me. My suffering was insignificant to it. No matter what it wants or why, no matter how much [????? I seem to follow in its footsteps], I refuse to let it puppeteer my life any longer.
 
-But that is for the future, and I am not finished telling you about the past. The ?????s still had to keep up appearances. At eight years old, they sent me to a private boarding school. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. When they were around <em>me</em>, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
+But that is for the future, and I am not finished telling you about the past. The ????s still had to keep up appearances. At eight years old, they sent me to a private boarding school. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. When they were around <em>me</em>, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
 
 I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were friendly. I didn't like the other kids either. In those days, I had only one friend, and I treated her very badly. When she left me, it was the worst day of my life. [????? Bit more details and her name]
 
@@ -324,7 +324,7 @@ I began writing down everything they did. I wrote down dates and times, details 
 
 I didn't show my records to anyone at first. At first, I didn't want to risk someone disbelieving me again. Even once I knew I had undeniable proof, I still hesitated. But I knew that time was going by. By then, I was already ?????twelve years old. There was already a chance that I could become pregnant from the rape. I hadn't had my first period yet, so it was unlikely, but the longer I waited, the more likely it would become. And when I thought of what a pregnancy might lead to, I became increasingly certain that I needed to make my move.
 
-I didn't want to risk reporting while I was living at home. The ?????s had a lot of influence in the Waiting Temple, and I didn't know how far they would go to silence me. So I planned to report them while I was away at school. As soon as I got off the bus, I went straight to an older girl who was the closest thing I had to a friend I could trust. I gave her a copy of my records and told her that if I didn't come back, it meant the police couldn't be trusted, so she should take my records straight to the press.
+I didn't want to risk reporting while I was living at home. The ????s had a lot of influence in the Waiting Temple, and I didn't know how far they would go to silence me. So I planned to report them while I was away at school. As soon as I got off the bus, I went straight to an older girl who was the closest thing I had to a friend I could trust. I gave her a copy of my records and told her that if I didn't come back, it meant the police couldn't be trusted, so she should take my records straight to the press.
 
 Then I snuck off the grounds and walked straight to the nearest police station, using only my phone to guide me.
 
@@ -334,7 +334,7 @@ After that, it was a long process. Over the next week, at least eight different 
 
 And there were problems of jurisdiction. The police near the school were Stern police, but the crimes had been committed in the first layer, where the Waiting Temple had authority. The Stern informed them of the situation, but for weeks, the Waiting did nothing. Since they weren't following up on the case, the Stern made a formal request to take over the case, and the Waiting didn't answer that request either. [????? The detective] told me they were probably dragging their heels because my case would be a scandal for the Waiting. I told him that if that was the problem, I could solve it by threatening to send my records to the press, so that they would have an even bigger scandal if they didn't do anything. When I said that, [????? The detective] laughed and said he would take care of it. Within a few days, the case was transferred to the Stern.
 
-After that, things went much easier. The ?????s were arrested the next day. Both of them pled guilty. They didn't get the maximum sentence because the judge decided they had "previous good character", but they still both got more than ten years in prison. I'll be twenty-four years old before either of them is out. They also had to pay a huge fine, and they tried to do some legal maneuvers to avoid paying the fine, but it ended with the Stern Temple seizing their house and selling it, putting the money into a trust benefiting me.
+After that, things went much easier. The ????s were arrested the next day. Both of them pled guilty. They didn't get the maximum sentence because the judge decided they had "previous good character", but they still both got more than ten years in prison. I'll be twenty-four years old before either of them is out. They also had to pay a huge fine, and they tried to do some legal maneuvers to avoid paying the fine, but it ended with the Stern Temple seizing their house and selling it, putting the money into a trust benefiting me.
 
 I had succeeded. I should have been happy.
 
@@ -350,7 +350,7 @@ Szaieto, the monk responsible for my upbringing, liked routines as much as I did
 
 But I was never happy there. For years, I had dedicated my life to a single purpose – escape. But once I had succeeded, I had no idea what to do with myself. I was deeply depressed during my years at the monastery, even if I did not show it on the outside. The monks had answers to a lot of questions, but, but, not that one. There was one other orphan near my age there, but I didn't have anything in common with him.
 
-So, last year, I asked for permission to live independently, and to attend a regular high school. I don't think it was a normal thing to ask for in my situation. But Szaieto and the other monks had been very impressed by how organized and independent I was. They were sad to see me go, but they arranged for me to live in one of the houses the Stern Temple normally reserves for retirees. It's technically rented from the Stern Temple, but it's paid for out of the trust they set up after my parents – after the ?????s were convicted. So… that's why I live there now. The arrangement is, I have a stipend that lets me take care of my basic needs, and the monastery sends someone to visit me once a week to make sure I'm getting along okay.
+So, last year, I asked for permission to live independently, and to attend a regular high school. I don't think it was a normal thing to ask for in my situation. But Szaieto and the other monks had been very impressed by how organized and independent I was. They were sad to see me go, but they arranged for me to live in one of the houses the Stern Temple normally reserves for retirees. It's technically rented from the Stern Temple, but it's paid for out of the trust they set up after my parents – after the ????s were convicted. So… that's why I live there now. The arrangement is, I have a stipend that lets me take care of my basic needs, and the monastery sends someone to visit me once a week to make sure I'm getting along okay.
 
 I guess there's not much more to tell. [????? Some stuff about the school?] [????? Here or above: now I have a mission again so I'm not currently depressed]
 
@@ -360,7 +360,7 @@ I guess there's not much more to tell. [????? Some stuff about the school?] [???
 
 Yali smiled joylessly. "Can you tell I've told this story before? It wasn't this organized the first time. Except the parts after ?????, that is. I haven't told anyone about this since I came to [????? our school]. I wanted to try having a normal school life, just to try it."
 
-Her words kept echoing around my head like it was an empty cave. I felt like there were a million things I wanted to say, but none of them came to me. How? How could people be so horrible? I was supposed to be angry, to hate ????? and ????? and Arinyo Seti for everything they had put her through. But there was an emptiness inside me where the anger should have been.
+Her words kept echoing around my head like it was an empty cave. I felt like there were a million things I wanted to say, but none of them came to me. How? How could people be so horrible? I was supposed to be angry, to hate ???? and ???? and Arinyo Seti for everything they had put her through. But there was an emptiness inside me where the anger should have been.
 
 What could I say? What would Rinn Akatura say? I was supposed to say something, to sympathize, to have an answer to the whole picture of what she told me. But it was a picture of something I couldn't comprehend. I could only stumble from tiny detail to tiny detail.
 
@@ -396,7 +396,7 @@ That should have been a relief, but I didn't feel it. My brain was still wanderi
 
 "How did your mom get picked to be the high priest if she had a bad memory? Isn't remembering the past really important to the Waiting?"
 
-"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>…" Yali said sourly, but then stopped herself. "But the ?????s did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
+"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>…" Yali said sourly, but then stopped herself. "But the ????s did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
 
 ?????
 
