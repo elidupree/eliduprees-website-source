@@ -230,7 +230,7 @@ Not so much with Blood court. In Blood court, it wasn't enough for me to prove a
 I was sick of being assigned to cases in the fifth layer. Now, I was proud of my work – someone <em>else</em> in my position might give up, but I would never abandon a case that I could still win. Not infrequently, [????? I found a way to argue that part of the crime had happened in the fourth layer, which was officially shared between the Blood and Stern temples.]. If that was so, the case would have to be reviewed by the ????? – the body that governed what to do with crimes that crossed between the jurisdiction of multiple temples.
  ?????
  
-I took a lot of notes on my phone, too. I wasn't sure if I was going to keep any of the former Farseers' memories after I was brought back to the material world. I would <em>probably</em> still have my own memories of <em>remembering</em> the other memories, but I preferred not to rely on that if I didn't have to.
+I took a lot of notes on my phone, too. [????? I had gone to the trouble of keeping it assimilated in the Stern layer] I wasn't sure if I was going to keep any of the former Farseers' memories after I was brought back to the material world. I would <em>probably</em> still have my own memories of <em>remembering</em> the other memories, but I preferred not to rely on that if I didn't have to.
 
 ?????
 
