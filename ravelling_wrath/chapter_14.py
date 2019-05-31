@@ -356,9 +356,7 @@ I guess there's not much more to tell. School's nice. The teachers at our school
 
 <bigbreak>
 
-????? Remind reader of physical situation
-
-Yali smiled joylessly. "Can you tell I've told this story before? It wasn't this organized the first time. Except the parts after ?????, that is. I haven't told anyone about this since I came to [????? our school]. I wanted to try having a normal school life, just to try it."
+Yali smiled joylessly. "Can you tell I've told this story before? It wasn't this organized the first time. Except the parts after I left the monastery, that is. I haven't told anyone about this since I came to our school. I wanted to try having a normal school life, just to try it."
 
 Her words kept echoing around my head like it was an empty cave. I felt like there were a million things I wanted to say, but none of them came to me. How? How could people be so horrible? I was supposed to be angry, to hate ???? and ???? and Arinyo Seti for everything they had put her through. But there was an emptiness inside me where the anger should have been.
 
@@ -366,7 +364,7 @@ What could I say? What would Rinn Akatura say? I was supposed to say something, 
 
 "I can't believe your only friend left you…" I said hollowly. "Like, officially <em>left</em> you. On a specific day and everything…"
 
-Yali answered matter-of-factly. "It was 100% my own fault. No child her age could have given me what I needed. I practically bullied her until she was a nervous wreck. It was one of the things I saw differently after I learned about abuse… I was the abuser in that relationship, even if –"
+Yali answered matter-of-factly. "It was 100% my own fault. No child her age could have given me what I needed. I practically bullied her until she was a nervous wreck. It was one of the things I saw differently after I learned about abuse… Everything I know about healthy relationships, I learned online, years later. I was the abuser in that friendship, even if –"
 
 "…<em>you</em> did that? <em>You</em>…?"
 
