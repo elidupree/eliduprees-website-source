@@ -28,7 +28,7 @@ Then it rested, and left to the other gods to play among its creations. The Ster
 
 But the Great God was not done. It rose from its rest to create <em>life</em>. Trees drilled their roots into the soil, holding fast against the storm. Algae bloomed and floated in the many waters. Crickets filled the air with their song, while birds cried out in the air above. [????? more details of more life]
 
-The other gods loved these new beings. The Waiting God taught spiders to build great webs and beavers to block up the rivers for their own advantage. The Seeking God entered [????? less of a stereotype?: dolphins and cats], making them play for the sake of playing, and it made the forests burn one year and thrive the next. The Stern God set out how the animals would mark their territory against each other. [????? And organized ants/bees?] And the Blood God reveled in their raw passions, the thrill and flow of the hunt, the agony of their death throes, love and grief and desire.
+The other gods loved these new beings. The Waiting God taught spiders to build great webs and beavers to block up the rivers for their own advantage. The Seeking God entered [????? less of a stereotype?: dolphins and cats], making them play for the sake of playing, and it made the forests burn one year and thrive the next. The Stern God set out how the animals would mark their territory against each other, and gathered ants and bees into organized colonies, working together for a reason greater than themselves. And the Blood God reveled in their raw passions, the thrill and flow of the hunt, the agony of their death throes, love and grief and desire.
 
 But the Great God was not done. It rose from its rest to create <em>humanity</em>.
 
@@ -36,7 +36,7 @@ The other gods recoiled as their forests were cut down, their beloved animals sl
 
 But the Great God was not done. It began to dream of its next creation, which would overturn even humanity.
 
-But this time, the other gods were not content. They had poured their souls into humanity, and they refused to see their accomplishments torn apart because of the Great God's whim. So together, they fought back. The Seeking God found the Great God's secret weakness. The Waiting God orchestrated the plan to strike before it would eat aware of the danger. The Stern and Blood became the sword and flame that would seal the Great God's downfall.
+But this time, the other gods were not content. They had poured their souls into humanity, and they refused to see their accomplishments torn apart because of the Great God's whim. So together, they fought back. The Seeking God found the Great God's secret weakness. The Waiting God orchestrated the plan to strike before it would be aware of the danger. The Stern and Blood became the sword and flame that would seal the Great God's downfall.
 
 Together, they <em>broke</em> the Great God.
 
@@ -62,7 +62,7 @@ The next thing I did was I got rid of the uniform the Stern God made me wear. I 
 
 Then I threw myself into the grass.
 
-My skin drank up the cool morning dew like a dry sponge drinking up water. Every part of me was [????? happy], from the tall grasses tickling my neck all the way down to my toes digging into the soft earth. I rolled over and over, reveling in my freedom to throw all worries to the wind and relax.
+My skin drank up the cool morning dew like a dry sponge drinking up water. Every part of me was euphoric, from the tall grasses tickling my neck all the way down to my toes digging into the soft earth. I rolled over and over, reveling in my freedom to throw all worries to the wind and relax.
 
 Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how I'd been expecting for Yali to see me naked for the first time. I smirked. If she didn't like it, she'd just have to deal with it. I stretched out luxuriantly, strutting my stuff so she could take a good look at whatever she wanted. Then I just flopped over on my back and let every part of me relax, just staring unfocusedly into the twilit sky.
 
@@ -292,7 +292,7 @@ We sat in silence for a while. ?????
 
 "He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, you can try to change it, but you can't just pretend it isn't there! You think love will protect you? I have known since I was ?????six years old that love is not enough! If you love someone but you hide from the truth, your love will do NOTHING! Morrow loves you! He would never do anything to hurt you! But when he is taking your mind to pieces, he has no idea how much he is hurting you! He would suffer if he knew, so he hides from it! His love does nothing! And you! You love Morrow, but you want to rush into danger without a plan! You don't want to believe that he would hurt you, so you hide from it! Your love will do nothing – no, less than nothing, it will destroy you! Love will never save you without a plan! So what's your plan, Alchemist?!"
 
-Alchemist hunched over. Their hands were shaking ?????wildly. They sniffled and took quick, shallow breaths.
+Alchemist hunched over. Their hands were shaking unevenly. They sniffled and took quick, shallow breaths.
 
 Half glaring at Yali, I offered my arms to Alchemist. Alchemist immediately collapsed onto me, blubbering into my ?????shirt.
 
@@ -300,7 +300,7 @@ Half glaring at Yali, I offered my arms to Alchemist. Alchemist immediately coll
 
 "It'll be okay. I'm sure we'll think of something," I lied. Inside me, I felt the Blood God's distaste for my lying. Alchemist didn't seem very reassured either.
 
-[????? In my arms, Alchemist looked up at Yali.] "You beat him half to death! I saw, I saw, I saw –" Alchemist panted heavily. "And now you're telling me I can't even help him! I, h-hate, I hate you!!" they sobbed.
+Alchemist turned their head in my arms, trying to look up at Yali. "You beat him half to death! I saw, I saw, I saw –" Alchemist panted heavily. "And now you're telling me I can't even help him! I, h-hate, I hate you!!" they sobbed.
 
 Yali looked at them coldly. "A lot of people hate me. What makes you special?"
 
@@ -352,7 +352,7 @@ Through gritted teeth, Yali replied, "I don't expect you to understand this, but
 
 "But – you never – you never said –"
 
-"I didn't say anything because I wanted to make sure you could tolerate each other! You have no idea how hard it was for me! Keeping all three of you balanced, making sure none of you blew up on each other! But if this is what happened, then even that was a mis–" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not." She took a shaky breath, glaring at the ground. "I just hate to think I did all that work to cover for an abuser."
+"I didn't say anything because I wanted to make sure you could tolerate each other! You have no idea how hard it was for me! Keeping you and him and Justicar balanced, making sure none of you blew up on each other! But if this is what happened, then even that was a mis–" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not." She took a shaky breath, glaring at the ground. "I just hate to think I did all that work to cover for an abuser."
 
 "An… abuser?" The words felt wrong in my mouth. "That's…"
 
@@ -372,7 +372,7 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "What's that?"
 
-"If I ?????find him, I'll kill him."
+"If I catch up to him, I'll kill him."
 
 "Oh."
 
@@ -410,9 +410,9 @@ As Yali spoke, Alchemist wrung their hands, overwhelmed with anxiety. Wordlessly
 
 Across from us, Yali continued talking. The hint of cruelty was gone. She had turned cold again, brutally matter-of-fact. "It wasn't just beatings. His father locked him in his room and starved him for days at a time. I had suspected something like that. He constantly berated him, calling him worthless trash. More than once, he nearly drowned him, to the point that he was coughing up water.
 
-"It is hard to get a clear view of the rest of his life. I am used to looking through the old Farseers' memories, but this is much less organized. We Farseers have more organized minds than most people, but I believe Morrow is much worse than even a normal person. It's probably because he avoids thinking about his own past. He never looks back and makes the connections between his different memories. ????? I will have to make the connections myself.
+"It is hard to get a clear view of the rest of his life. I am used to looking through the old Farseers' memories, but this is much less organized. We Farseers have more organized minds than most people, but I believe Morrow is much worse than even a normal person. It's probably because he avoids thinking about his own past. He never looks back and makes the connections between his different memories. To make this work, I will have to make the connections myself.
 
-"I assume that Morrow was an unwanted child. His mother was terrified of his father. I see her being too afraid to stand up to him even in the smallest way. And Morrow's father treated Morrow as an object to be used. I see him bringing Morrow to a series of 'uncles', who molested him. It seems that his father sold him to them as a –"
+"I assume that Morrow was an unwanted child. His mother was terrified of his father. I see her being too afraid to stand up to him even in the smallest way. And Morrow's father treats Morrow as an object to be used. I see him bringing Morrow to a series of 'uncles', who molested him. It seems that his father sold him to them as a –"
 
 "That's too much!" I blurted out, horrified, still holding on tight to Alchemist. "How could so many horrible things happen to one person –"
 
@@ -420,13 +420,13 @@ Across from us, Yali continued talking. The hint of cruelty was gone. She had tu
 
 "That hurts," I said.
 
-Yali talked over me, her eyes already flicking back into the memories. "During that time, there was one thing he reached for to give him a break from the suffering. Whenever he was alone, he was constantly curious. ?????
+Yali talked over me, her eyes already flicking back into the memories. "There's one thing I see him reaching for, to give him a break from the suffering. Whenever he's alone, he is constantly curious. I see him picking up sticks and harassing stray animals to see how they'll react. It's like, as soon as he goes outdoors, he completely forgets what was going on in the house… And even when he's locked in his room, he's constantly picking things apart to see what's inside them. No… I think actually he spends most of the time feeling traumatized. But when he's in the curious state, he doesn't remember that he was just in the traumatized state, that's why I thought –"
 
 "Oh gods… even his curiosity is a coping strategy?"
 
 "A coping strategy? The way his mind lights up when he is experimenting with something, it's genuine excitement. I don't think you could feel that way if you were only using it as a coping strategy. He certainly <em>used</em> it to cope, but, but, I think it's just inherently how he is. He built with the pieces that were left to him.
 
-I see him running away from home. I see, I see… more than one version of it? He must have run away at least, at least, four different times. I see the police finding him and bringing him home. And after the police have gone – that is one of the times his father nearly killed him. I see him begging strangers to take him in. Some of them threaten him and chase him away from their doors. Some of them sympathize but still turn him away. Some –"
+"I see him running away from home. I see, I see… more than one version of it? He must have run away at least, at least, four different times. I see the police finding him and bringing him home. And after the police have gone – that is one of the times his father nearly killed him. I see him begging strangers to take him in. Some of them threaten him and chase him away from their doors. Some of them sympathize but still turn him away. Some –"
 
 "The Blood Temple would have taken him in!" I said bitterly, instinctively.
 
@@ -434,9 +434,9 @@ I see him running away from home. I see, I see… more than one version of it? H
 
 "One of the times he ran away, he must have finally succeeded. I see him living on the streets and hiding from anyone who might try to take him home. I see an icy street feeling like freedom to him. Sometimes. He alternates. Sometimes he is very happy to simply experience life for himself without any abuser hovering over him. Other times, he can't get away from the cold and hunger. To survive, he became – he became – he – well, the word HE used was 'Defiler', but –"
 
-"Oh! I, uh, I think you can say 'sex worker'." <em>Defiler</em> was the common word for sex workers in the city, but some people considered it really derogatory. Which made sense, since it basically lumped them in with people who vandalized temples and pissed on altars. Not that I had a problem with anyone pissing on a few altars, especially if they were Stern altars, but anyway. Some uptight Stern types acted like any kind of casual sex was <em>defiling the honor given to you by the gods</em> ?????
+"Oh! I, uh, I think you can say 'sex worker'." <em>Defiler</em> was the common word for sex workers in the city, but some people considered it really derogatory. Which made sense, since it basically lumped them in with people who vandalized temples and pissed on altars. Not that I had a problem with anyone pissing on a few altars, especially if they were Stern altars, but anyway. Some uptight Stern types acted like any kind of casual sex was <em>defiling the honor given to you by the gods</em>. That was obviously bullshit, because casual sex was literally sacred to the Seeking, but everywhere you looked, there was some Stern person trying to lecture you about it.
 
-So. Morrow was a sex worker? I felt like I should be surprised, but nothing would have really surprised me at this point. Thinking back, he had always been kind of… <em>indifferent</em> to sexuality. You <em>would</em> be, I guess, if it was your job. ?????
+So. Morrow was a sex worker? I felt like I should be surprised, but nothing would have really surprised me at this point. Thinking back, he had always been kind of… <em>indifferent</em> to sexuality. That would make a lot of sense, I guess, if he thought of it as just a job.
 
 "Yes, thank you," said Yali, still cold and emotionless. "He became a sex w–"
 
@@ -452,27 +452,23 @@ Yali's eyes flicked back out of the memories to focus on me for a moment. "What 
 
 "Probably…"
 
-?????
+I didn't have more to say. Yali looked back into the memories.
 
-"His feelings toward his clients are very positive. Even though, even though – I saw a memory of some clients beating and robbing him when he was older, but even after that, he felt very safe around clients in general. I believe it is because, because, because none of them ever tried to take him home to his parents. Well-meaning strangers are still terrifying to him."
+"His feelings toward his clients are very positive. Even though, even though – I saw a memory of some clients beating and robbing him when he was older, but even after that, he feels very safe around clients in general. I believe it is because, because, because none of them ever tried to take him home to his parents. Well-meaning strangers are still terrifying to him."
 
 "'When he was older'… fuck, this all happened when he was still a <em>kid</em>?"
 
-"I'm not, not sure. They're <em>his</em> memories, I can't see him directly. I think he might be… early teens? Not so much older than I was when I went to the police. But then…" I heard a hint of doubt creep into Yali's voice. "…then, he and I have a lot in common… We both had to escape our families around the same age, we both had to figure out what to do all by ourselves…" ????? "<em>But I didn't abuse anyone else after I got out!</em> He's nothing like me!"
+"I'm not, not sure. They're <em>his</em> memories, I can't see him directly. I think he might be… early teens? Not so much older than I was when I went to the police. But then…" I heard a hint of doubt creep into Yali's voice. "…then, he and I have a lot in common… We both had to escape our families around the same age, we both had to figure out what to do all by ourselves… <em>But I didn't abuse anyone else after I got out!</em> He's nothing like me!"
 
 Yali went quiet, frowning.
 
-
-
-
-
-?????
+I shifted my weight, trying to get more comfortable where I was sitting with Alchemist. I wanted to say something to Yali, but I was nervous about interrupting her.
 
 Into the silence, Alchemist mumbled something.
 
 "What's that?" I said.
 
-"Am I the only one, of us five, who has, a good relationship with my family?"
+"Am I the only one, of us five, who has, with my family, a good relationship with my family?"
 
 "I mean, mine's not <em>bad</em>. Sure, Mom and Dad are Stern hypocrites and they kinda suck about me being gay, but I still love the guts outta them."
 
@@ -488,7 +484,7 @@ Yali squinted. "You'll have to tell me more about that later. When we confront J
 
 ?????
 
-Eventually he met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them teaching him how to open a bank account, how to ?????. All the little things he missed out on by growing up in an abusive household. They were… also sex workers, I believe, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
+"Eventually he met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them teaching him how to open a bank account, how to ?????. All the little things he missed out on by growing up in an abusive household. They were… also sex workers, I believe, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
 
 "Wait a minute, I thought you were looking at <em>his</em> memories! How do you know something he doesn't know?"
 
@@ -496,23 +492,23 @@ Eventually he met up with, with, with… he thinks of them as 'the girls'. He vi
 
 "You got that one right…"
 
-[????? when revealing Morrow's backstory: remember to emphasize his inherent curiousity]
+?????
 
-"One thing I don't understand is, I never saw him in school. Did he never go to school? [????? He… he… never went to school? No, they sent him to school once, but] the, the teachers yelled at him, called him a freak, sent him home… Why? He doesn't remember this very well… I'm trying to think back… it was because, because, he, touched other children sexually."
+"One thing I don't understand is, I never saw him in school. Did he never go to school? I'm not seeing any memories of… No, I see something. It's a traumatic memory though? There's a school, but, but, the, the teachers yelled at him, called him a freak, sent him home… Why? He doesn't remember this very well… I'm trying to think back… it was because, because, he, touched other children sexually."
 
 "Oh gods."
 
-"But…" [????? Yali voice/feelings] "that's a textbook sign of sexual abuse! Every Stern teacher is supposed to be trained to recognize the signs of abuse, they're supposed to –"
+"But…" Yali's voice tightened. "That's a textbook sign of sexual abuse! Every Stern teacher is supposed to be trained to recognize the signs of abuse, they're supposed to –"
 
 "You think the Stern give a shit about us?" I said hotly.
 
-Yali looked dismayed. "I, I know the police aren't always, aren't always, don't treat everyone well. But, but, these were <em>teachers</em>! They're supposed to care about kids! And they, they, they just didn't care! They saw how he was acting, they must have even saw his bruises! And they just sent him right back home to be beaten again! How could they just <em>not care?</em>"
+Yali looked dismayed. "I, I know the police aren't always, aren't always, don't treat everyone well. But, but, these were <em>teachers</em>! They're supposed to care about kids! And they, they, they just didn't care! They saw how he was acting, they must have even seen his bruises! And they just sent him right back home to be beaten again! How could they just <em>not care?</em>"
 
 "Yeah, well, maybe they care about you if you're a <em>Seti</em>." [????? Remind the reader of the implications of Seti earlier]
 
 The words hung in the air between us.
 
-Yali wasn't answering. Right away, part of me felt horribly guilty. I wanted to say, <em>Oh gods, I'm sorry, I didn't mean it!</em> But another part of me, thundering right behind my heart, refused to back down. I surged to my feet, carelessly bumping Alchemist off to the side. "Teachers or not, they're still Stern! The moment someone steps out of line, you can say goodbye to your 'caring about kids', their job is to beat us down! Try growing up in the fifth layer and thinking the Stern were ever on our side! Bet you've never seen a kid get dragged out of class, humiliated in front of everyone, just for wearing the wrong kind of braids! Because I have! And you think the police '<em>don't always treat everyone well</em>'?! You haven't got a fucking clue what it's like!" I was being a little hypocritical there, because "you haven't got a clue what it's like" was actually what some other kid had said to me sometime when I was making jokes about getting arrested. But now, it felt so real. "Just because the cops were on your side once, you think – no, you probably <em>grew up</em> thinking they were the good guys! You're just like Justicar, you've got some fucked-up idea like the Stern would be fine if they just obeyed their own rules all the time! But that's not how it works! Every part of the Stern is a violation! From Justicar trying to kill me just for existing, to the cops ripping up people's lives over the most inconsequential shit, all the way down to random teachers telling kids to shut up and obey the rules, it's all trampling on the city's blood! ????? –"
+Yali wasn't answering. Right away, part of me felt horribly guilty. I wanted to say, <em>Oh gods, I'm sorry, I didn't mean it!</em> But another part of me, thundering right behind my heart, refused to back down. I surged to my feet, carelessly bumping Alchemist off to the side. "Teachers or not, they're still Stern! The moment someone steps out of line, you can say goodbye to your 'caring about kids', their job is to beat us down! Try growing up in the fifth layer and thinking the Stern were ever on our side! Bet you've never seen a kid get dragged out of class, humiliated in front of everyone, just for wearing the wrong kind of braids! Because I have! And you think the police '<em>don't always treat everyone well</em>'?! You haven't got a fucking clue what it's like!" I was being a little hypocritical there, because "you haven't got a clue what it's like" was actually what some other kid had said to me sometime when I was making jokes about getting arrested. But now, it felt so real. "Just because the cops were on your side once, you think – no, you probably <em>grew up</em> thinking they were the good guys! You're just like Justicar, you've got some fucked-up idea like the Stern would be fine if they just obeyed their own rules all the time! But that's not how it works! Every part of the Stern is a violation! From Justicar trying to kill me just for existing, to the cops ripping up people's lives over the most inconsequential shit, all the way down to random teachers telling kids to shut up and obey the rules, it's all trampling on the city's blood! The Stern are choking away our lives, everything that matters to us, and –"
 
 "Where are you going?!" snapped Yali.
 
