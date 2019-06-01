@@ -50,7 +50,7 @@ So, even today, the four gods wage a constant struggle, to maintain their vision
 
 <bigbreak>
 
-Nowadays, we know that the legend isn't entirely true. After all, there are other cities with other gods. ?????
+Nowadays, we know that the legend isn't entirely true. After all, there are other cities with other gods, so our Broken God can't have created the <em>entire</em> world. But it was a story that every child in the city knew by heart. And it <em>was</em> true, in a way. A way that might be even more important than the literal.
 
 <bigbreak>
 
@@ -220,8 +220,6 @@ The words hung in the air between us.
 
 ?????
 
-[????? Not sure where in the ordering]
-
 "How'd you get that bruise?"
 
 Alchemist shrank back uncomfortably.
@@ -248,7 +246,7 @@ My blood ran cold. "<em>Alchemist,</em>" I said, my voice coming out harsh.
 
 For a heartbeat, all three of us were frozen.
 
-"That's not what happened!" Alchemist lied frantically. If I'd had any doubt, it was gone now. They were such a bad liar. Seeing them try to defend him made me even more angry. I shoved myself to my feet, already charged up and ready to fight. I wanted to scream out in rage, but no words were enough. How DARE he do such a thing to poor, sweet, INNOCENT Alchemist?!! Blades sprouted from my back and arms involuntarily, piercing my ?????shirt and stabbing into the air. The more I imagined it – Morrow crouching over a helpless Alchemist, making Alchemist feel all those disturbing, terrifying things – the more I couldn't bear to just stand here. All my old sympathy for him was lying in shreds. I wanted to make him <em>suffer</em>. My blades kept growing, sprouting from every part of my body. I couldn't stop them now. I wasn't sure I even wanted to.
+"That's not what happened!" Alchemist lied frantically. If I'd had any doubt, it was gone now. They were such a bad liar. Seeing them try to defend him made me even more angry. I shoved myself to my feet, already charged up and ready to fight. I wanted to scream out in rage, but no words were enough. How DARE he do such a thing to poor, sweet, INNOCENT Alchemist?!! Blades sprouted involuntarily from my back and arms, piercing my ?????shirt and stabbing into the air. The more I imagined it – Morrow crouching over a helpless Alchemist, making Alchemist feel all those disturbing, terrifying things – the more I couldn't bear to just stand here. All my old sympathy for him was lying in shreds. I wanted to make him <em>suffer</em>. My blades kept growing, sprouting from every part of my body. I couldn't stop them now. I wasn't sure I even wanted to.
 
 Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone cliff against the ocean waves. "Expressing Game," she said.
 
@@ -324,7 +322,7 @@ Yali stared at me exhaustedly. But even as tired and angry as she was, she manag
 
 I slumped back down. Alchemist and I leaned on each other. Alchemist was quiet again, just shaking and crying on me. I look back to Yali. "Well, that's a relief, but… why? The next layer is the Blood God's, I figured she'd try to kill us here instead of going on the Blood Child's home ground."
 
-"It may be your home ground, but Justicar wants a direct confrontation. The Blood God is the god of direct confrontations. The Broken would, would, would, <em>complicate</em> things. The Broken doesn't believe in right and wrong, or even winners and losers. This world is probably even more uncomfortable for her than it is for me."
+"It may be your home ground, but Justicar wants a direct confrontation. The Blood God is a god of direct confrontations. The Broken would, would, would, <em>complicate</em> things. The Broken doesn't believe in right and wrong, or even winners and losers. This world is probably even more uncomfortable for her than it is for me."
 
 "What? How is this world uncomfortable? This world is great."
 
