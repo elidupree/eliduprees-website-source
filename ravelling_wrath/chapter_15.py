@@ -26,9 +26,9 @@ First, the Great God made earth and sky, sea and stone. It shaped the arch of th
 
 Then it rested, and left to the other gods to play among its creations. The Stern God divided land from sea, mountain from valley. The Waiting God created the cycles of the tides, the rain, and the lumbering motions of the earth below. The Seeking God whipped up storms to tear at the land and wash it away to wherever it would go. The Blood God carved great ravines to make its mark upon the world. 
 
-But the Great God was not done. It rose from its rest to create <em>life</em>. Trees drilled their roots into the soil, holding fast against the storm. Algae bloomed and floated in the many waters. Crickets filled the air with their song, while birds cried out in the air above. [????? more details of more life]
+But the Great God was not done. It rose from its rest to create <em>life</em>. Trees drilled their roots into the soil, holding fast against the storm. Algae bloomed and floated in the many waters. Crickets filled the air with their song, while birds cried out in the air above. Slimy things crawled up from lightless holes, churning through the ground and gnawing at the bodies of the dead.
 
-The other gods loved these new beings. The Waiting God taught spiders to build great webs and beavers to block up the rivers for their own advantage. The Seeking God entered [????? less of a stereotype?: dolphins and cats], making them play for the sake of playing, and it made the forests burn one year and thrive the next. The Stern God set out how the animals would mark their territory against each other, and gathered ants and bees into organized colonies, working together for a reason greater than themselves. And the Blood God reveled in their raw passions, the thrill and flow of the hunt, the agony of their death throes, love and grief and desire.
+The other gods loved these new beings. The Waiting God taught spiders to build great webs and beavers to block up the rivers for their own advantage. The Seeking God entered the minds of countless animals, making them play for the sake of playing, and it made the forests burn one year and thrive the next. The Stern God set out how the wolves would mark their territory against each other, and it gathered ants and bees into organized colonies, working together for a reason greater than themselves. And the Blood God reveled in their raw passions, the thrill and flow of the hunt, the agony of their death throes, love and grief and desire.
 
 But the Great God was not done. It rose from its rest to create <em>humanity</em>.
 
@@ -40,11 +40,11 @@ But this time, the other gods were not content. They had poured their souls into
 
 Together, they <em>broke</em> the Great God.
 
-The Blood God tore out the core of its soul, the rope of fibers that kept its will coherent against the chaos of arbitrary thought. The Stern God sliced apart the woven fabric of its design for the universe. The Seeking God ripped off the glowing tendrils that gave it the spark of intention. And the Waiting God traced the remaining threads to every knotted clump of desire, and scattered them, so that it could never again act to achieve any chosen outcome.
+The Blood God tore out the core of its soul, the rope of fibers that kept its will coherent against the chaos of arbitrary thought. The Stern God sliced apart the woven fabric of its design for the universe. The Seeking God ripped off the glowing tendrils that gave it the spark of desire. And the Waiting God traced the remaining threads to every knotted clump of intention, and scattered them, so that it could never again take action with a purpose of its own choosing.
 
 Purposeless, intentionless, the Broken God drifted in the world.
 
-But though it was broken, it was still a god of mountains and sand, forest and fen. Where its drifting threads touched the world, new life sprang forth, and what was already living died meaningless deaths in equal measure. The fragments of its will continued without any central purpose to guide them. [???? It did one thing and also another.] It filled some humans with feelings that overwhelmed thought, and emptied others. ?????
+But though it was broken, it was still a god of mountains and sand, forest and fen. Where its drifting threads touched the world, new life sprang forth, and the old life died meaningless deaths in equal measure. The fragments of its will continued without any central purpose to guide them. For anything it did, it might just as easily do the opposite. In one place it raised up rolling hills, and in another it beat against the cliffs until they fell into the sea. In one year it made the cropland thrive, and in another it sent pestilence and blight. It filled some humans with feelings that overwhelmed thought, and it emptied away the feelings of others.
 
 So, even today, the four gods wage a constant struggle, to maintain their vision for humanity against the tidal wave of the Broken.
 
@@ -66,7 +66,7 @@ My skin drank up the cool morning dew like a dry sponge drinking up water. Every
 
 Haha, Yali could see me right now, couldn't she. This wasn't <em>quite</em> how I'd been expecting for Yali to see me naked for the first time. I smirked. If she didn't like it, she'd just have to deal with it. I stretched out luxuriantly, strutting my stuff so she could take a good look at whatever she wanted. Then I just flopped over on my back and let every part of me relax, just staring unfocusedly into the twilit sky.
 
-This was what life should be like. Crisp air filled my chest, piercing to the very bottom of my lungs and flushing out all the staleness. I had never breathed so easily, the air passing in and out, bringing all the strong and subtle smells of nature to my senses. ?????
+This was what life should be like. Crisp air filled my chest, piercing to the very bottom of my lungs and flushing out all the staleness. I had never breathed so easily, the air passing in and out, bringing all the strong and subtle smells of nature to my senses. My eyes wandered, drinking up the deep greens and browns, the occasional dash of color where flowers bloomed on the vines. I just couldn't get over how much I loved this place.
 
 <bigbreak>
 
@@ -76,7 +76,7 @@ I rolled over, my hands and knees pressing into the soft dirt as I climbed to my
 
 The woods were dense with shrubs and vines. I kept having to push them aside with my hands, or hold one vine out of the way while I ducked or climbed over another. The hard bark got in some solid scratches on my bare skin. I deliberately stepped the arches of my feet onto big roots, turning the poking feeling into a massage. 
 
-In other places, the plants stood ankle-deep in wide pools of water. I dipped my feet in the water, and they came up dripping and matted with fallen leaves. ????? [????? Details of walking into the woods, mostly not summary language]
+In other places, the plants stood ankle-deep in wide pools of water. I dipped my feet in the water, and they came up dripping and matted with fallen leaves. Another time, I splashed right across, letting the cool water come up to my ankles, squishing my toes into the soft clay below. Back on land, twigs and leaves stuck to my damp feet, forming a funny coating as I pushed my way through the foliage.
 
 As I tried to step under some bushes I was holding aside, I stubbed my toe on a root. Hopping from the pain, I lost my grip on the bushes, too. They whipped back into place, a thorny branch slashing my leg and tearing open the skin. Swearing, I retreated to lean on the nearest tree, then manifested away the cuts. Then I decided to put on at least <em>some</em> clothes. Having my bare skin against the world was awesome, but that pain had been a little too much to be fun. So first, I manifested on some heavy jeans, tough and skintight, and boots just the perfect size for me, ready to stomp through whatever old brush got in my way.
 
@@ -86,9 +86,9 @@ The face that looked back at me looked flat and dead with exhaustion. Its hair w
 
 It was time to take Rinn back.
 
-The first thing I did was to get my hair straightened out. I tore at it with a comb until the comb got stuck, then gave up and just chopped half of it off without a second thought. I recolored the rest into a rainbow of red and gold and midnight black, like a living flame in the darkness.
+The first thing I did was to get my hair straightened out. I tore at it with a comb until the comb got stuck, then I gave up and just chopped half of it off without a second thought. I recolored the rest into a rainbow of red and gold and midnight black, like a living flame in the darkness.
 
-[????? Then clothing?]
+Next I gave myself some clothes, manifesting everything does not break into place. A white shirt under a black leather jacket, gripping snug around my arms, with metal studs like the one Pèi always wore. Black leather fingerless gloves, perfectly fit to the shape of my hands. A bright blue sweatband to contrast with my hair. I let the jacket hang open in the front, keeping the breeze close to me.
 
 I left the scrape and the dirt stains right where they were. I grinned and threw my head back. This was more like it.
 
@@ -100,17 +100,19 @@ Jumping between the trees wasn't anything like the gymnastics I'd had to do in t
 
 My muscles got more and more tired, and I accumulated a nice collection of bruises too. After a long time journeying, the trees opened and I came to a broad stream, where water flowed lazily down from a rocky hillside. I held onto a branch above my head and leaned out over the water, looking down into its sparkling surface.
 
-It looked deep enough for me to swim in. I couldn't resist. I manifested my clothes away again, and leapt from the tree branch into the water, breaking the surface with a massive splash. The shock of the sudden cold made me snap to fully awake. After a little flailing around, I came up shivering and laughing. I hadn't felt this refreshed since… well, probably ever.
+It looked deep enough for me to swim in. I couldn't resist. I manifested my clothes away again, and leapt from the tree branch into the water, breaking the surface with a massive splash. The shock of the sudden cold made me snap fully awake. After a little flailing around, I came up shivering and laughing. I hadn't felt this refreshed since… well, probably ever.
 
-I kicked out my legs and propelled myself downriver, relishing the cold current as it flowed over my skin. ?????
+I kicked out my legs and propelled myself downriver, relishing the cold current as it flowed over my skin. My head dipped up and down near the surface, soaking my hair and splashing the cold water over the back of my neck. Seeing the trees go past, I pushed myself to swim as fast as I could, zooming down the stream, smooth and fast and exhilarating.
 
-The stream opened out and I slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went. I shivered again. The cold wasn't exhilarating anymore – now, it was just tiring. So I raised my fists and manifested my whole skin to be hot. My body hissed with steam as the water boiled off of me. In minutes, I was perfectly dry. I jumped and manifested my clothes back on again, making sure to keep the same stains and rips from before.
+After a while, the stream opened out and I slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went. I shivered again. The cold wasn't exhilarating anymore – now, it was just tiring. So I raised my fists and manifested my whole skin to be hot. My body hissed with steam as the water boiled off of me. In minutes, I was perfectly dry. I jumped and manifested my clothes back on again, making sure to keep the same stains and rips from before.
 
-[????? Then I relaxed and started thinking back to what had happened before] ????? [????? I couldn't believe how great this place was.] Especially coming from the Stern God's layer before it. That place had been the <em>worst</em>. It was still freaking me out how I'd felt disconnected from my own body. Yali didn't think it could be the Stern God that made me feel like that, but what else could have been? Like, <em>here</em> – I took another deep breath – <em>here</em>, it didn't even feel like I <em>could</em> be disconnected from my body. I <em>was</em> my body. But <em>there</em>, it had all felt so distant. Even things that <em>should</em> have felt important, like when Justicar –
+Then, I made myself a hammock between two trees and sprawled down in it to rest.
+
+I still couldn't believe how great this place was. Especially coming from the Stern God's layer before it. That place had been the <em>worst</em>. It was still freaking me out how I'd felt disconnected from my own body. Yali didn't think it could be the Stern God that made me feel like that, but what else could have been? Like, <em>here</em> – I took another deep breath – <em>here</em>, it didn't even feel like I <em>could</em> be disconnected from my body. I <em>was</em> my body. But <em>there</em>, it had all felt so distant. Even things that <em>should</em> have felt important, like when Justicar –
 
 I jumped to my feet. Where was Justicar now?! Was she here?! I looked around wildly. How could I have spent all this time just running around in the woods?! I had to do something! Or else – I could practically <em>feel</em> her sword crashing through my chest. She was going to – I was going to –
 
-Suddenly it was all too real, too much pain and terror stabbing against me. My heart pounded. I dropped into a crouch, ready to fight against enemies on all sides. My whole battle with Justicar kept replaying in my head. The sword hanging over me. The steel walls blocking every escape. The blood seeping from the hole in my chest. And it wasn't even the pain that hurt. It was the <em>helplessness</em>. I had just lain there motionlessly while her sword plunged into me. Why hadn't I moved?! I should have moved, I should have fought back, twisted out of the way, ANYTHING!! How could I have been so stupid, so WEAK?!
+Suddenly it was all too real, too much pain and terror stabbing against me. My heart pounded. I dropped into a crouch, ready to fight against enemies on all sides. My whole battle with Justicar kept replaying in my head. The sword hanging over me. The steel walls blocking every escape. The blood seeping from the hole in my chest. And it wasn't even the pain that hurt. It was the <em>helplessness</em>. At the end, I had just lain there motionlessly while her sword plunged into me. Why hadn't I moved?! I should have moved, I should have fought back, twisted out of the way, ANYTHING!! How could I have been so stupid, so WEAK?!
 
 I would NEVER be that weak again. My hands clenched around my blades, looking for something to strike against. The next time I saw Justicar, I'd KILL her! I'd rip my blades into her flesh before she had a chance to fight back! Then she would NEVER be able to hurt me AGAIN! Roaring, I slammed my blades into the nearest tree, an enormous oak I probably couldn't even have fit my arms around. I beat and hacked at the tree until it splintered and fell, crashing violently through the woods. I leapt on top of the fallen trunk, glaring down at the world. I was STRONG! I was POWERFUL! I had CRUSHED this tree, and I could CRUSH anyone else who tried to stop me!!
 
@@ -122,7 +124,7 @@ I stumbled to a halt, hunched over and gasping for breath. I couldn't go on like
 
 <em>I had stabbed Yali.</em>
 
-The scream ripped out through my lungs ?????. Waves of heat pulsed from my body, charring the grass at my feet. Leaves dried and cracked around me. Dark clouds gathered overhead. And the scream didn't end. My lungs were empty, and I couldn't stop trying to scream until they ached from lack of air. And as soon as I gasped, a second scream tore through me, even more painful than the first. No human lungs should have been able to handle this amount of pain. My body was too weak a vessel for the power that was forcing itself through me. The ground and sky themselves had formed a bridge through my body, using my lungs as their highway.
+The scream ripped out through my lungs, burning through the inside of my chest. Waves of heat pulsed from my body, charring the grass at my feet. Leaves dried and cracked around me. Dark clouds gathered overhead. And the scream didn't end. My lungs were empty, and I couldn't stop trying to scream until they ached from lack of air. And as soon as I gasped, a second scream tore through me, even more painful than the first. No human lungs should have been able to handle this amount of pain. My body was too weak a vessel for the power that was forcing itself through me. The ground and sky themselves had formed a bridge through my body, using my lungs as their highway.
 
 <em>I had stabbed Yali.</em>
 
@@ -218,7 +220,7 @@ The words hung in the air between us.
 
 "Uh…" I still wasn't sure what to say. I mean, I normally would've been pretty pissed off at Morrow, like, <em>dude, what the fuck?</em> But the way Yali was talking about it, it was like it was deeply serious. I couldn't help being nervous – if <em>Yali</em> was taking something seriously, there had to be something much bigger that I wasn't thinking of!
 
-?????
+????
 
 "How'd you get that bruise?"
 
@@ -246,7 +248,7 @@ My blood ran cold. "<em>Alchemist,</em>" I said, my voice coming out harsh.
 
 For a heartbeat, all three of us were frozen.
 
-"That's not what happened!" Alchemist lied frantically. If I'd had any doubt, it was gone now. They were such a bad liar. Seeing them try to defend him made me even more angry. I shoved myself to my feet, already charged up and ready to fight. I wanted to scream out in rage, but no words were enough. How DARE he do such a thing to poor, sweet, INNOCENT Alchemist?!! Blades sprouted involuntarily from my back and arms, piercing my ?????shirt and stabbing into the air. The more I imagined it – Morrow crouching over a helpless Alchemist, making Alchemist feel all those disturbing, terrifying things – the more I couldn't bear to just stand here. All my old sympathy for him was lying in shreds. I wanted to make him <em>suffer</em>. My blades kept growing, sprouting from every part of my body. I couldn't stop them now. I wasn't sure I even wanted to.
+"That's not what happened!" Alchemist lied frantically. If I'd had any doubt, it was gone now. They were such a bad liar. Seeing them try to defend him made me even more angry. I shoved myself to my feet, already charged up and ready to fight. I wanted to scream out in rage, but no words were enough. How DARE he do such a thing to poor, sweet, INNOCENT Alchemist?!! Blades sprouted involuntarily from my back and arms, piercing through my shirt, through my jacket, and stabbing into the air. The more I imagined it – Morrow crouching over a helpless Alchemist, making Alchemist feel all those disturbing, terrifying things – the more I couldn't bear to just stand here. All my old sympathy for him was lying in shreds. I wanted to make him <em>suffer</em>. My blades kept growing, sprouting from every part of my body. I couldn't stop them now. I wasn't sure I even wanted to.
 
 Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone cliff against the ocean waves. "Expressing Game," she said.
 
@@ -258,7 +260,7 @@ I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alch
 
 "<em>Controlling Game,</em>" said Yali.
 
-"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded ?????shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
+"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
 
 I heard Alchemist's shaky voice in the background. "Is, she…"
 
@@ -274,7 +276,7 @@ Reluctantly, I sat back down with the two of them. Looking at Alchemist made me 
 
 "Whatever."
 
-We sat in silence for a while. ?????
+We sat in silence for a while. ????
 
 "I still don't see why I can't bring him a healing potion…" said Alchemist mournfully.
 
@@ -282,17 +284,17 @@ We sat in silence for a while. ?????
 
 "Hey, go easy on them!" I snapped. "Weren't you <em>just</em> saying –"
 
-"You think I don't want to?!" Yali roared at me. "If I <em>go easy on them</em>, they somehow convince themselves it isn't so bad! Then they go after Morrow, and Morrow attacks them! I've <em>Seen</em> it! Morrow is completely out of control, ?????! he doesn't stop until Alchemist's mind is DESTROYED!" She spat the last word in Alchemist's face again. Alchemist cringed away from her.
+"You think I don't want to?!" Yali roared at me. "If I <em>go easy on them</em>, they somehow convince themselves it isn't so bad! Then they go after Morrow, and Morrow attacks them! I've <em>Seen</em> it! Morrow is completely out of control, he starts messing with Alchemist's mind as soon as they get close! He doesn't realize how much damage he's doing until Alchemist's mind is DESTROYED!" She spat the last word in Alchemist's face again. Alchemist cringed away from her.
 
 "Holy fuck," I said.
 
 "But… he loves me!" said Alchemist. "He wouldn't hurt me! Not like that!"
 
-"He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, you can try to change it, but you can't just pretend it isn't there! You think love will protect you? I have known since I was ?????six years old that love is not enough! If you love someone but you hide from the truth, your love will do NOTHING! Morrow loves you! He would never do anything to hurt you! But when he is taking your mind to pieces, he has no idea how much he is hurting you! He would suffer if he knew, so he hides from it! His love does nothing! And you! You love Morrow, but you want to rush into danger without a plan! You don't want to believe that he would hurt you, so you hide from it! Your love will do nothing – no, less than nothing, it will destroy you! Love will never save you without a plan! So what's your plan, Alchemist?!"
+"He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, you can try to change it, but you can't just pretend it isn't there! You think love will protect you? I have known since I was ????six years old that love is not enough! If you love someone but you hide from the truth, your love will do NOTHING! Morrow loves you! He would never do anything to hurt you! But when he is taking your mind to pieces, he has no idea how much he is hurting you! He would suffer if he knew, so he hides from it! His love does nothing! And you! You love Morrow, but you want to rush into danger without a plan! You don't want to believe that he would hurt you, so you hide from it! Your love will do nothing – no, less than nothing, it will destroy you! Love will never save you without a plan! So what's your plan, Alchemist?!"
 
 Alchemist hunched over. Their hands were shaking unevenly. They sniffled and took quick, shallow breaths.
 
-Half glaring at Yali, I offered my arms to Alchemist. Alchemist immediately collapsed onto me, blubbering into my ?????shirt.
+Half glaring at Yali, I offered my arms to Alchemist. Alchemist immediately collapsed onto me, blubbering into my shirt.
 
 "I'm, scared, I, Morrow, Morrow, –"
 
@@ -312,7 +314,7 @@ While they argued, another thought shot forward in my mind. "We have to do <em>s
 
 "Well maybe he SHOULD be killed!" Yali snapped back.
 
-"No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, that would totally suck, but at least I'd <em>understand</em> it! But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but Alchemist was still clinging to my ?????shirt, and I <em>really</em> didn't want to hurt them any more. I swallowed. Then something else exploded into my head again. Holy shit, how did I not think about Justicar?! I almost jumped back up to my feet again, every part of me tensing up. "Wait, <em>where's Justicar right now?!!</em> Is she coming for us?!"
+"No fucking way! Look, if you'd killed him when he was, uh, assaulting me, I guess, that would totally suck, but at least I'd <em>understand</em> it! But there is no FUCKING way I'm going to let JUSTICAR be the one to kill him. I'd rather –" I was about to say <em>I'd rather kill him myself</em>, but Alchemist was still clinging to my shirt, and I <em>really</em> didn't want to hurt them any more. I swallowed. Then something else exploded into my head again. Holy shit, how did I not think about Justicar?! I almost jumped back up to my feet again, every part of me tensing up. "Wait, <em>where's Justicar right now?!!</em> Is she coming for us?!"
 
 "She went on ahead."
 
