@@ -182,45 +182,45 @@ Justicar frowned. I could still see her hands crackling with power. She was list
 
 If it was just as hard as making a new arm and leg from scratch… I would <em>make</em> a new arm and leg from scratch.
 
-With my good hand, I tore into my dead shoulder, opening a deep gash that let my blood flow freely into the air. Where it flowed, I shaped it into a mass of living muscle, liquid strength of gleaming red. ?????
+With my good hand, I tore into my dead shoulder, opening a deep gash that let my blood flow freely into the air. Where it flowed, I shaped it into a mass of living muscle, liquid strength of gleaming red. It slowly expanded into place, a second arm above my arm, merging into my body, a vessel of my wrong will to do what my flesh could not.
 
-Justicar spoke again. "You wish to make me doubt. You would have me believe that the Waiting God is a liar. But is it not equally likely – no, more likely – that the liar is yourself? You are the Farseer. You can see what I will say, and you can select whichever lie you see me find plausible. My human judgment is flawed and easily manipulable. I cannot afford to trust one such as you."
+Justicar answered Yali again. "You wish to make me doubt. You would have me believe that the Waiting God is a liar. But is it not equally likely – no, more likely – that the liar is yourself? You are the Farseer. You can see what I will say, and you can select whichever lie you see me find plausible. My human judgment is flawed and easily manipulable. I cannot afford to trust one such as you."
 
 "Can you afford to ignore me? Would the Stern God have you strike us both dead when you have not yet determined the truth?"
 
-"The Stern God's will is clear enough for this!" said Justicar angrily. She swept her right arm out into the air. "<em>Stern God, I offer up this sacrifice –</em>"
+"The Stern God's will is clear enough for this!" said Justicar angrily. "You cannot create doubts that will turn me away from what I must do! I was a fool to listen to you!" She swept her right arm out into the air. "<em>Stern God, I offer up this sacrifice –</em>"
 
 Yali's body slammed into Justicar, knocking her off her feet. "Now is no time to make sacrifices you will regret!"
 
 "What I will regret is standing idly by while the Blood God is allowed to rejuvenate!"
 
-"What you will regret is trying to kill Rinn Akatura."
+Justicar struggled to retain her footing. Yali slammed her again, knocking her down into a pile of rubble. "What you will regret," said Yali imperiously, "is trying to kill Rinn Akatura while <em>I</em> am here to stop you."
 
 "Her existence comes at the cost of human lives! I will not allow them to die while I can still do something to save them!"
 
 "You cannot. You are wrong twice over. Even if Rinn was what you think, you still have no hope of ending her life. The power of three Ravellers stands against you. If you continue your attack, you will die and accomplish nothing."
 
-"You ask me to abandon the Stern God's will."
+"You ask me to abandon the Stern God's will!"
 
 "Is it the Stern God's will for you to throw your life away for nothing?"
 
-"It is the Stern God's will that even if all seems hopeless, we still fight for what is right."
+"It is the Stern God's will that even if all seems hopeless, we still fight for what is right!"
 
-"And yet the Stern gone also asks that we <em>yield when we must yield, even if it costs our pride.</em>
+"And yet the Stern God also asks that we <em>yield when we must yield, even if it costs our pride.</em>
  
-"You quote the Stern God's prayer to me, yet you understand it very little. Now is no time for me to yield. Human lives hang in the balance. You would have me believe I cannot save any of them, but I cannot accept –"
+"You dare quote the Stern God's prayer to me?! Now is no time for me to yield! Human lives hang in the balance. You would have me believe I cannot save any of them, but I cannot accept –"
 
-[????? I could feel Yali tense up, steeling herself for what was about to come. She knew that her words would not be enough. But still she spoke.] "I did not say <em>none</em>. You cannot save the ones you believe you can. But… there is still one human life you <em>can</em> save."
+I could feel Yali tense up, steeling herself for Justicar's next move. She knew that her words had little chance to hold Justicar back. But still she spoke. "Did I say you cannot save <em>anyone</em>? There is one human life that does hang in the balance as you make your decisions. One human life you you can still save."
 
 "The Blood Child? Surely you don't imagine –"
 
 "Not the Blood Child. Havi ?????."
 
-It was like time froze. The words hung in the air. <em>No,</em> I screamed inwardly. I could practically see how Justicar was going to react, for a terrible moment before it happened. <em>No, Yali! Use any other way to convince her, but not that!</em> What Yali had said was so logical, so right, even the Stern God should have admitted it. ????? at least Havi, the Justicar, would not die.
+It was like time froze. The words hung in the air. <em>No,</em> I screamed inwardly. I could practically see how Justicar was going to react, for a terrible moment before it happened. <em>No, Yali! Use any other way to convince her, but not that!</em> What Yali had said was so logical, so right, even the Stern God should have admitted it. No matter what else happened, at least Havi, the Justicar, would not have to die.
 
-[????? But this was something that Havi would never accept.] Not only to admit that she was wrong, but to admit that she should value the one person she valued least of all – herself. Every time the Stern God had asked her to erase herself, she had said yes. But now, when the Stern God would tell her she mattered, it was the one thing she could not accept. And so this final decision, the decision that would end Justicar's life, was not made by the Stern God overruling her human will, but by the human herself.
+But I knew Havi's heart. Every time she was in pain, when she could not bear to live with herself, she had reached out for the Stern, to erase her selfish feelings and replace them with the Stern God's will. And as she became the Justicar, every time the Stern God had asked her to erase herself, she had said yes. But now, when the Stern God would tell her she mattered, it was the one thing she could not accept. She had become one with the living god, just as I had. She had felt the raw conviction of being a vessel for the Stern God's perfect will. And now she could never go back to her life as a human being, a creature that could suffer and be pitied. And so this final decision, the decision that would end Justicar's life, was not made by the Stern God overruling her human will, but by the fragments of human will that still remained, still clinging to the lie that the Stern God had every answer.
 
-Justicar leapt away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to [????? concentrate in order to keep healing myself]. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if a great wind was blowing from Justicar's body. Justicar stood alone atop the ?????, a gleaming suit of armor that drove everything away from herself.
+Justicar leapt to her feet, springing away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to hold on tight to my consciousness. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if a great wind was blowing from Justicar's body. Justicar stood alone atop the heap of rubble, a gleaming suit of armor that drove everything away from herself.
 
 In this moment, she raised her right arm towards the sky.
 
