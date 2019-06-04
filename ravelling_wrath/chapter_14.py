@@ -100,7 +100,7 @@ I stumbled away, uncomprehending. "<em>How?</em>" I gasped. How had my only weap
 
 "No fair," I said, my voice breaking.
 
-"The battle between good and evil should not be <em>fair</em>," Justicar declared. "The Stern God understands this. And that is why the Stern has granted me the power to do what must be done. None of your flailing has had the slightest chance of changing this. Do you think a more powerful weapon would have saved you? The Blood God does not even comprehend what it is fighting against. A Justicar is not simply a human who will fold over when struck with a blade. Even if you find a way to pierce my defenses, even if you <em>cut out my heart</em>, the will of the Stern God will always carry me forward."
+"The battle between good and evil should not be <em>fair</em>," Justicar declared. "The Stern God understands this. And that is why the Stern has granted me the power to do what must be done. None of your flailing has had the slightest chance of changing this. Do you think a more powerful weapon would have saved you? The Blood God does not even comprehend what it is fighting against. A Justicar is not simply a human who will fold over when struck with a blade. Even if you find a way to pierce my defenses, even if you <em>tear my heart from my chest</em>, the will of the Stern God will always carry me forward."
 
 She advanced towards me.
 

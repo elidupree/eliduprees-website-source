@@ -125,11 +125,11 @@ Suddenly we had to do a lot of research. Yali opened the local encyclopedia on h
 
 Yali chuckled. "Don't worry about it."
 
-[????? word variety: don't just say "plants" every time here:]
-
 Not that I was much use. I looked up a bunch of plants, but I didn't find anything about extracting oil. Then I found an article about a giant, enchanted tree that ate people. It was made by a serial killer who was also a sorcerer, and even after he got caught for a different murder, the tree ate a few more unsuspecting people over the next few months before they figured out what was happening. Nobody suspected it because it looked like any other tree until it grabbed someone and ate them. After they finally dealt with it, they also cut down and replanted all the other trees in the town he was from, just in case.
 
-[????? Eventually, I was interrupted because] Yali found what she was looking for. Of course, the plants we needed didn't seem to be growing anywhere around here. But after a long discussion, Yali and Alchemist agreed that they could use Alchemist's powers to <em>grow</em> the plants they needed. Regular manifesting wouldn't work, but the Broken God could cheat plants out of nowhere. Even then, it was too similar to manifested matter, but if they just started with seedlings and let them grow the rest of the way from the soil, most of the matter would be from the soil, so it would work.
+Then I followed a link and read about another serial killer. I kept at it until I finally got interrupted by Yali speaking up, saying that she had found what she was looking for.
+
+Of course, even now that we knew what plants we needed, they didn't seem to be growing anywhere around here. But after a long discussion, Yali and Alchemist agreed that they could use Alchemist's powers to <em>grow</em> the plants they needed. Regular manifesting wouldn't work, but the Broken God could cheat plants out of nowhere. Even then, it was too similar to manifested matter, but if they just started with seedlings and let them grow the rest of the way from the soil, most of the matter would be from the soil, so it would work.
 
 So that's what they did. Alchemist wiggled their fingers into the dirt, coaxing little stems out from the ground. Then they cupped their hands around the new sprouts. Before long, the plants were going absurdly fast, stems and leaves shooting up to be almost as tall as we were, and the ground shifting subtly up and down as the roots spread into the surrounding earth.
 
@@ -149,7 +149,7 @@ Yali chuckled. "As long as you only eat a few, your natural manifesting will kee
 
 "Oooookay," I said, dropping the ones I was holding.
 
-?????
+????
 
 <bigbreak>
 
@@ -194,8 +194,6 @@ Alchemist hesitated again, then nodded.
 "Why?" I asked.
 
 "The unravelling potion is supposed to be impossible. It breaks all the rules of the Ravelling. So it's no surprise the Waiting God can't see past it. But that doesn't make things any easier for me…" She sighed. "I guess we should be concerned what'll happen to Morrow after he drinks it. If the Seeking God is all that's keeping him going, then when it's taken away from him… He might pass out, his injuries might be more dangerous to him…"
-
-[????? consider possibly cutting this next bit if it doesn't have great promises]
 
 "What injuries?" I said without thinking. "Oh, right."
 
@@ -407,11 +405,23 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 "Seriously, though, what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always '?????' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
 
-[????? Rephrase this to account for Yali knowing in advance] "<em>Forty-five minutes,</em>" said Yali angrily. "That's how long it took me, running as hard as I could, to get to you before Morrow did too much damage. I know because I checked my phone while I ran to make sure I was pacing myself the right amount. Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. Forty-five minutes of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. It doesn't matter what I believe now. I will hate the face of Morrow for as long as I live."
+"How long do you think we were in this layer before Morrow attacked you?!" said Yali angrily.
 
-"Woah, that's… I mean, shit."
+"I don't know, I was having fun in the woods for a while, maybe a day or two? Why does that –"
 
-"I'm not done. There is another reason. Morrow has always been like the ?????s. Temperamental, clinging to obsessions to cover up his pain. But –"
+"<em>It was two days and four hours!</em> And what do you think was the first thing I did when I entered this layer?!"
+
+"Well, I guess you would have – oh gods."
+
+"That's right. The first thing I did was check the future to see if you'd be safe until I found you. What do you think I saw? You weren't okay. You drooled on me when I picked you up, you kept shivering and holding onto me and you won't say a word. I needed Alchemist to fix you, and Alchemist wasn't much better.
+
+"So I ran. I drank the potion Alchemist made to make me faster, and for two days and four hours, I ran as hard as I could sustain. Two days and four hours of pushing myself as hard as I could. Two days and four hours of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. I did everything I could to get to you before Morrow did too much damage. Because even doing everything I could, I couldn't get there in time to stop him attacking you. I was forty-five minutes too late.
+
+"Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. It doesn't matter what I believe now. I will hate the face of Morrow for as long as I live."
+
+"Woah, that's… I mean, shit. If I'd realized –"
+
+"I'm not done. There is another reason. Morrow has always been like the ????s. Temperamental, holding on to obsessions to cover up his reality. But –"
 
 "Hey, <em>I'm</em> temperamental. Morrow's kind of a mess, but –"
 
@@ -419,7 +429,7 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 "Are you kidding me," I said.
 
-????? Both of us will sacrifice anything to achieve our goals. Both of us will destroy anyone we have to. The only difference is that Justicar will stop at the gods, and I will not."
+"The Stern God values conviction, sacrifice, and law. ????? Both Justicar and I will sacrifice anything to achieve our goals. Both of us will destroy anyone we have to. The only difference is that Justicar will stop at the gods, and I will not."
 
 ????? "The Stern doesn't have to be about sacrificing what you care about just to be obedient to someone else. It can also be about sacrificing… unimportant things… to get what you truly want."
 

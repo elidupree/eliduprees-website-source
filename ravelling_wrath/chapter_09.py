@@ -418,7 +418,7 @@ I was too startled to react, and Morrow was still cowering. Alchemist was the fi
 
 "Do the loopy thing," said Alchemist nervously from behind me.
 
-"I CAN'T do the loopy thing because I CAN'T MANIFEST!" Morrow screamed helplessly. It didn't look like he was going to try anything, so I stepped back a little.
+"I CAN'T do the loopy thing because I CAN'T MANIFEST!" Morrow screamed helplessly. "I'm TRAPPED and I'm STARVING and I CAN'T MANIFEST!" It didn't look like he was going to try anything, so I stepped back a little.
 
 "What's the loopy thing?" I asked.
 

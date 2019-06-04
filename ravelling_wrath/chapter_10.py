@@ -518,7 +518,7 @@ I had an idea. I waited for Justicar to [????? do something with the puzzle]…
 
 "Yes?" said Justicar. Then she whirled around angrily. "How did you know my name?!"
 
-I grinned. "This was a few years ago, right? You had a whole post about it! You were all like 'The so-called Stern Temple are a DEN OF HYPOCRITES!' and 'They will remember the name of Havi ????? until –'"
+I grinned. "This was a few years ago, right? You had a whole post about it! You were all like 'The so-called Stern Temple are a DEN OF HYPOCRITES!' and 'They will remember the name of Havi Hasayet until –'"
 
 "Please don't remind me."
 
