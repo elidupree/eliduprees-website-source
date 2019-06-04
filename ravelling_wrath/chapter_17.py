@@ -547,7 +547,25 @@ But not a Stern priest, obviously. I'd never stick Morrow with the Stern. They'd
 
 It dawned on me like it was obvious, like remembering something I'd known forever and just not thought of. What he needed was a <em>Blood</em> priest. A Blood priest would help him find his heart, help him see the value in his life. If he had no home to go back to, the Blood Temple would take him in. If he was lost without something to give his life meaning, the Blood Temple could give him meaningful work to do. The Blood Temple would provide anything he needed to make his life whole. I could just imagine Morrow going there and getting… wait, no, ugh, I could just imagine him avoiding the place because he thought he didn't deserve any help. But you couldn't "not deserve" the Blood Temple, anymore than you could be unworthy of your own blood! The Blood Temple wasn't <em>generous</em> by helping people, it was just a fact of life! The Blood Temple providing for everyone was just what the Blood Temple <em>was!</em>
 
-But there were no Blood priests now. And there was an aching hole in the city where the Blood Temple should be. It was the city's heart, and without it, the city was slowly bleeding its warmth away. How many people had suffered and died without the Blood Temple to hold them up? How many people had thought they <em>deserved</em> their suffering, growing up with the Stern as the only word of right and wrong? [????? Rinn fully realizes it and cries]
+But there were no Blood priests now. And there was an aching hole in the city where the Blood Temple should be. It was the city's heart, and without it, the city was slowly bleeding its warmth away. How many people had suffered and died without the Blood Temple to hold them up? How many people had thought they <em>deserved</em> their suffering, growing up with the Stern as the only word of right and wrong? Now I was crying, too. To finally, fully realize it… seventy years of children growing up without Blood… Tears flowed freely down my cheeks. It was too much. Too great a violation. A hole too deep to even see the sky.
+
+I sat down with Morrow. I adjusted myself so I could put my arms around his shoulders, gently pulling him to lean on me. He sniffled and shook. We cried together, taking a long moment, silent except for the occasional times when I pulled tissues out of thin air for both of us to blow our noses in.
+
+Morrow…
+
+I could think about the city more later. Right now, Morrow needed help, and he was right in front of me. He needed the Blood God, and I was here.
+
+"Morrow…" I said gently, "I'm not sure I know how to do this, but… I can tell how you're feeling."
+
+"Nice trick, how'd you pull it off?" said Morrow sulkily. He didn't believe me.
+
+"Magic, actually, I think it's a Blood Child power. It just started happening in this layer. Whenever there's a part of you that's crying out to be heard, I can hear it, even if you don't say it out loud. And right now… [????? List of parts] [each of them means something]"
+
+I put my hand on Morrow's heart. "And this is your heart. Feel how it keeps beating, no matter what happens. This is your strength. It's how you can take every feeling, and feel it, completely. And feel the meaning completely. And then keep fighting on."
+
+Morrow sobbed, curling into a fetal position in my arms. "I don't want to keep fighting on," he choked out. "I want to die. I want to stick my head in a blender."
+
+"I know," I said. "That's real, and it means something. [????? What it means, maybe]" [????? You have the strength of a god in your heart"]
 
 ?????
 
