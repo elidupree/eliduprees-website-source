@@ -425,13 +425,15 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 "Hey, <em>I'm</em> temperamental. Morrow's kind of a mess, but –"
 
-"For my <em>entire life</em> I have had to clean up other people's messes! ????? But Justicar… Justicar is like <em>me</em>."
+"For my <em>entire life</em> I have had to clean up other people's messes! Don't you dare try to tell me I should be happy about it! But Justicar… Justicar is like <em>me</em>."
 
 "Are you kidding me," I said.
 
-"The Stern God values conviction, sacrifice, and law. ????? Both Justicar and I will sacrifice anything to achieve our goals. Both of us will destroy anyone we have to. The only difference is that Justicar will stop at the gods, and I will not."
+"The Stern God values conviction and sacrifice. Both Justicar and I will sacrifice anything to achieve our goals. Both of us will destroy anyone we have to. The only difference is that Justicar will stop at the gods, and I will not."
 
-????? "The Stern doesn't have to be about sacrificing what you care about just to be obedient to someone else. It can also be about sacrificing… unimportant things… to get what you truly want."
+"Okay, but how is that Stern? Anyone can fight for what they believe in, that's not just the Stern God. The Stern God is about, like, obeying the law and shit."
+
+"Rinn. Rinn. Listen," said Yali softly. She squeezed my hand. "The Stern doesn't have to be about sacrificing what you care about just to be obedient to someone else. It can also be about sacrificing… unimportant things… to get what you truly want."
 
 "Unimportant things like ever being happy?!" I snapped.
 
@@ -439,13 +441,13 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 I had kind of said it on instinct, based on my arguments with Justicar earlier. But if Yali was going to respond like <em>that</em>… "Listen to yourself! Is that what someone who was happy would say?"
 
-"– I'm talking about little things. Like when I don't want to get up in the morning, but I get up anyway because I know I can't see you if I don't get up. Or when I'm having pain and I don't want to [????? do something that's hard work], but I do it anyway because I know ?????. That's Stern."
+"– I'm talking about little things. Like when I don't want to get up in the morning, but I get up anyway because I know I can't see you if I don't get up. Or when I'm having pain and it's hard work to carry my laundry to the washer, but I do it anyway because I know I'll feel better if I have clean clothes later. That's Stern. Well, it's also Waiting, but –"
 
 "You shouldn't have to do that! You shouldn't have to work hard <em>when you're already in pain!</em>"
 
 Emotionlessly, Yali replied, "I <em>shouldn't</em> have to. But I <em>do</em> have to. And if I didn't have the Stern to help make myself do it, I wouldn't be here. I wouldn't get up in the morning."
 
-"[????? You shouldn't have to,] that's not what life is supposed to be about –"
+"That's awful, forcing yourself all the time, that's not what life is supposed to be about –"
 
 "Maybe your life is easier than mine," she said coldly.
 
@@ -457,13 +459,11 @@ My words caught in my throat. It was true. A life where you couldn't just enjoy 
 
 "It's okay," she said gruffly. "There will be another time."
 
-[????? I think Rinn goes to "I need to comfort Yali" instead of feeling hurt, hugs her, and notices that Yali is shaking from being upset, even though she doesn't show it in her face. Maybe: [Yali, coldly] "I was trying to open up to you." [Rinn feels bad] "It's okay. There will be another time."]
-
-?????
+<bigbreak>
 
 A few hours later, Alchemist wandered back to us, leaving Morrow out ahead.
 
-Dry leaves blew past on a chilly wind, clearing the dust and fog from the air. Our boots were covered in mud from walking over slimy ground. It was a slow, squelching walk, pulling up our feet one after another. When Alchemist got back to us, alchemist and I greeted each other with a comfortable hug, softly rubbing our cheeks together.
+Dry leaves blew past on a chilly wind, clearing the dust and fog from the air. Our boots were covered in mud from walking over slimy ground. It was a slow, squelching walk, pulling up our feet one after another. When Alchemist got back to us, Alchemist and I greeted each other with a comfortable hug, softly rubbing our cheeks together.
 
 "I don't know what to do," said Alchemist despondently. "I don't know what to say… He's…" They gestured vaguely in the air. Floating leaves formed into a picture of Morrow, sprawled out and twisted into several pieces. I knew instantly what it meant.
 
@@ -539,20 +539,17 @@ Belatedly, I realized I shouldn't have assumed that Morrow knew about Yali seein
 
 ?????
 
-"Listen, when you get back to earth, –" I began. I wasn't completely sure where I was going with this. I'd kind of been thinking [????? go get a therapist, but various doubts, and therapists cost money] And I wasn't sure if Morrow had much money. We needed some sort of <em>free</em> public therapist. Or actually, what we needed was someone who was in charge, not in the sense of telling him what to do, but in the sense of having the authority to [????? give him the resources he needed]. Or being able to say "you deserve support, you deserve forgiveness, you can find a new purpose in life" and have it <em>count</em> because what they said was the sacred truth –
+"Listen, when you get back to earth, –" I began. I wasn't completely sure where I was going with this. I'd kind of been planning to tell him to go get a therapist, but it was kind of hard to imagine him opening up to a therapist. Worse, therapists cost money, and I wasn't sure if Morrow had much money. We needed some sort of <em>free</em> public therapist. Or actually, what we needed was someone who was in charge, not like someone telling him what to do, but in like someone with the authority to give him a place to live and food to eat while he got his life sorted out. Or being able to say "you deserve support, you deserve forgiveness, you can find a new purpose in life" and have it <em>count</em> because what they said was the sacred truth –
 
 Sacred? Oh, duh. What I was thinking of was a <em>priest</em>.
 
 But not a Stern priest, obviously. I'd never stick Morrow with the Stern. They'd probably tell him he <em>was</em> bad, and then he'd end up like Justicar. Well, actually, he'd probably tell them to go fuck themselves. But if he <em>did</em> trust them, it would still be bad. There were Seeking and Waiting priests, too, but they probably weren't what he needed either. So why was I –
 
-It dawned on me like it was obvious, like remembering something I'd known forever and just not thought of. What he needed was a <em>Blood</em> priest. A Blood priest would help him find his heart, help him see the value in his life. If he had no home to go back to, the Blood Temple would take him in. If he [????? had no work or stuff like that to give his life meaning,], the Blood Temple could give him meaningful work to do. ????? [????? something about "you can't feel like you don't deserve the Blood Temple's generosity because it's not generosity, it's just a fact of life that the Blood Temple provides for everyone", but that might need more set-up]
+It dawned on me like it was obvious, like remembering something I'd known forever and just not thought of. What he needed was a <em>Blood</em> priest. A Blood priest would help him find his heart, help him see the value in his life. If he had no home to go back to, the Blood Temple would take him in. If he was lost without something to give his life meaning, the Blood Temple could give him meaningful work to do. The Blood Temple would provide anything he needed to make his life whole. I could just imagine Morrow going there and getting… wait, no, ugh, I could just imagine him avoiding the place because he thought he didn't deserve any help. But you couldn't "not deserve" the Blood Temple, anymore than you could be unworthy of your own blood! The Blood Temple wasn't <em>generous</em> by helping people, it was just a fact of life! The Blood Temple providing for everyone was just what the Blood Temple <em>was!</em>
 
-But there were no Blood priests now. [????? Rinn fully realizes it and cries]
+But there were no Blood priests now. And there was an aching hole in the city where the Blood Temple should be. It was the city's heart, and without it, the city was slowly bleeding its warmth away. How many people had suffered and died without the Blood Temple to hold them up? How many people had thought they <em>deserved</em> their suffering, growing up with the Stern as the only word of right and wrong? [????? Rinn fully realizes it and cries]
 
 ?????
-
-[????? somewhere: how Alchemist is the only one who hasn't hurt anybody, and how both the blood and waiting will trample over the broken to get what they want]
-
 
 
 [????? Should I use the unraveling potion?; where in this chapter? probably near the end?]
