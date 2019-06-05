@@ -450,6 +450,44 @@ Alchemist looked down over the city. I saw their eyes linger over the distant go
 
 "I know."
 
+?????
+
+"I believe I owe you a great deal," I said. "Your potions have saved Rinn's life more than once now. And possibly my life as well. If there's anything I can do for you in return, I'd like to do that."
+
+"You don't, have, to –"
+
+"It's okay. Just tell me if you think of anything."
+
+[????? Alchemist physicality, short silence]
+
+"There is, maybe, one thing… I know you, don't like, Morrow, but…"
+
+"It's okay. Go on."
+
+"Do you know if he'll…" Alchemist glanced towards the portal. "Since he's not… with the god…"
+
+I concentrated, just like if I was using the Seeing. I already knew what I was going to say, but Alchemist would feel more reassured if it looked like I had checked.
+
+"I believe he'll get back to the material world safely," I said. "Even though he can't be part of the rejuvenation, the process for returning the Ravellers to the material world is separate from that."
+
+"Oh…" [????? Alchemist physicality, curling up/comfortable/with Morrow?]
+
+I let them ?????relax for a little while, then added, "We can also exchange phone numbers, in case you think of anything I can do for you once we're in the material world. I won't have any magical abilities, but… people say I'm very capable." I pulled out my phone.
+
+[????? Alchemist physicality] "I, didn't, have my phone, on me, when…"
+
+In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they might not remember it. And if <em>they</em> told me <em>their</em> number, they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. Eye won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
+
+Alchemist nodded. They manifested their phone, and thumbed through it to find where it would show their number. "If I could, also, give this to, Morrow, and, Rinn…"
+
+I carefully copied Alchemist's number. "Morrow and Rinn both lost their real phones in the Stern God's world. But the real phones will still go back to the material world with them. So I can write down Morrow's number and then text it to you, and for Rinn, I can –"
+
+Alchemist flinched a bit. They had realized, based on what I said, that I wasn't willing to let Morrow know <em>my</em> number. I was trying not to force Alchemist to think about the conflict between us, but it would have been easier if Alchemist wasn't so smart.
+
+"– For Rinn, I can give Rinn <em>your</em> number. I could give hers to you, I assume she'd be okay with that, but I just –" I carefully kept any hint of resentment out of my voice. This wasn't about Morrow. "– just want to make sure to respect everyone's boundaries."
+
+"I, understand."
+
 
 ''',
 },
