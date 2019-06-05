@@ -565,16 +565,43 @@ I put my hand on Morrow's heart. "And this is your heart. Feel how it keeps beat
 
 Morrow sobbed, curling into a fetal position in my arms. "I don't want to keep fighting on," he choked out. "I want to die. I want to stick my head in a blender."
 
-"I know," I said. "That's real, and it means something. [????? What it means, maybe]" [????? You have the strength of a god in your heart"]
+"I know," I said. "That's real, and it means something. It means –"
+
+"It means I'm fucked up."
+
+"– It means you're reaching out for a way to escape from the pain. You're reaching out for safety. For comfort. That's not a bad thing. I want you to find safety and comfort, the safety and comfort that you deserve, that we all deserve, everyone who has blood." ????? "[????? You have the strength of a god in your heart/look to your heart. The Blood God is there"]
 
 ?????
 
+[????? The others are catching up]
 
-[????? Should I use the unraveling potion?; where in this chapter? probably near the end?]
+I clapped him on the back. "Just keep your head out of the blender, okay?"
 
-"That <em>is</em> what I would have told you to do, as recently as the third layer…" said Yali. "But now… I am starting to think that the Blood God <em>should</em> rejuvenate."
+Morrow smiled back at me. "Fuck you," he said.
 
-"But…" I said. Even after all the revelations we'd just found out, that was still ?????. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though I was [????? justified] – I mean, even though the Blood God was [????? justified in trying to get revenge], it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even thought of Justicar as "not my real enemy". <em>Justicar!</em>
+<bigbreak>
+
+I ran to meet up with the others.
+
+We ended up deciding to switch back – me walking with Yali, and Alchemist walking with Morrow, once they could coax Morrow into getting up.
+
+As soon as Alchemist was out of sight, Yali turned to face me.
+
+"I still hate Morrow," she said.
+
+"Yeah, and…?"
+
+"But, that stuff you said to him… it was…"
+
+"Oh right, you could see us the whole time."
+
+"It was… I don't know how to say this. It was, it was… good? If I had tried to talk to him, even if I tried a thousand different things in the future, I don't think I would ever have thought of something that would get him to open up to me. But you did. I'm, I guess I'm, impressed."
+
+"Uh, thanks."
+
+"There's something I've been thinking, ever since you got your soulfire. You know how, if we live through this and you don't drink the unravelling potion, the Blood God will rejuvenate? Well, in the beginning, I didn't <em>want</em> the Blood God to rejuvenate, I thought it was dangerous, but I assumed we'd be stuck letting it rejuvenate because I wasn't going to let you die. That's what I was thinking as recently as the third layer. But now, with the potion, we have a choice about it, but at the same time… I am starting to think that the Blood God <em>should</em> rejuvenate."
+
+"But…" I said. When she put it so bluntly, even after everything we'd found out, I found myself hesitating again. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though we know I was just fighting back – that is, that the Blood God was just fighting back – it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even thought of Justicar as "not my real enemy". <em>Justicar!</em>
 
 Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last seventy years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to guide their anger to a better purpose, to –"
 
@@ -588,7 +615,7 @@ Yali spoke gravely. "The Blood God is a god of anger, and it has been starving f
 
 "Fuck!" I yelled. "That's – I mean, you know I'm all about beating the bad guys, but actually <em>killing</em> someone? That's – that's – If you kill someone, they're <em>dead</em>! <em>Dead</em> dead! Please don't tell me that's the only way – wait, you said '<em>may</em> be necessary' – you think we can get away without a fight?"
 
-"The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to [????? take the unravelling potion herself? or just back down?] –"
+"The final portal won't open until the conflict is resolved. But there are other possibilities. She doesn't have to <em>die</em> if she can be persuaded to call off her attack –"
 
 "– like that's gonna happen –"
 
@@ -604,19 +631,19 @@ Yali shouted back, "Me thinking of things that hurt people is why you're still a
 
 "Yeah, but not like <em>this</em> –"
 
-"Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! For my entire life, I have had to be the one who sees what has to be done, when everyone else can only see what's right in front of them! I have <em>always</em> been the one who does what has to be done, when no one else will!"
+Yali stepped closer, shouting in my face. "Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! For my entire life, I have had to be the one who sees what has to be done, when everyone else can only see what's right in front of them! I have <em>always</em> been the one who does what has to be done, when no one else will!"
 
 I had wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking right under the surface… It was part of why I'd always loved her, why I couldn't get enough of her.
 
 And the worst part was, she wasn't wrong.
 
-"Well… fuck," I said. "I, uh, I didn't mean to [????? criticize you]. I mean, I guess I did, but, uh… fuck. I'm sorry. I'm just… Alchemist doesn't deserve this."
+"Well… fuck," I said. "I, uh, I didn't mean to criticize it. I mean, I guess I did, but, uh… fuck. I'm sorry. I'm just… Alchemist doesn't deserve this."
 
 Yali looked away. "We all trample over the Broken to get what we want." It was an old saying.
 
 "It shouldn't have to be that way," I said.
 
-Yali didn't answer. Instead, she looked out at the world around us. I followed her gaze. There was the [????? callback to some effect Morrow had on the world]. Further in the distance, I could still make out the black cloud, slowly dispersing, that had risen when the trees charred from my scream. ?????
+Yali didn't answer. Instead, she looked out at the world around us. I followed her gaze. There were the boldest protrusions of land that Morrow had made when I was bringing him the potion, with trees pointing almost completely sideways after the ground had moved under them. Further in the distance, I could still make out the black cloud, slowly dispersing, that had risen when the trees charred from my scream. ?????
 
 [????? Is alchemist the only one who didn't hurt anybody?]
 

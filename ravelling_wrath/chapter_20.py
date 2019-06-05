@@ -318,6 +318,8 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 [????? "And like…" [????? Yali physicality] "Love's never going to protect you from an abuser. An abuser might talk about love and niceness, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands.
 
+[????? "You can't help [someone who's hurting people, Morrow] unless you have power over them – maybe Rinn adds this, because it's more Blood]
+
 ''',
 },
 ]

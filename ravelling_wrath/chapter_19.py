@@ -484,7 +484,7 @@ I carefully copied Alchemist's number. "Morrow and Rinn both lost their real pho
 
 Alchemist flinched a bit. They had realized, based on what I said, that I wasn't willing to let Morrow know <em>my</em> number. I was trying not to force Alchemist to think about the conflict between us, but it would have been easier if Alchemist wasn't so smart.
 
-"– For Rinn, I can give Rinn <em>your</em> number. I could give hers to you, I assume she'd be okay with that, but I just –" I carefully kept any hint of resentment out of my voice. This wasn't about Morrow. "– just want to make sure to respect everyone's boundaries."
+"– For Rinn, I can give Rinn <em>your</em> number. I could give hers to you, I assume she'd be okay with that, but I just –" I carefully kept any hint of resentment out of my voice. This wasn't about Morrow. "– I just want to make sure to respect everyone's boundaries."
 
 "I, understand."
 
