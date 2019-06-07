@@ -277,11 +277,11 @@ I didn't get a chance to finish. The power rushed in at me. As soon as I said my
 
 But even the grotesque pressure of his powers was little more than a shadow to my soulfire. I hung on tight, blazing brightly against the vortex, holding the chaos firmly at arm's length.
 
-"Too bright!!!" Morrow screamed. "It's burning me, you're burning me –"
+"Too bright!!!" Morrow screamed. "It's burning me, you're burning me, take it away –"
 
-"I'm not going to lower my soulfire. [????? I will accommodate you as much as I can,] but this is important to me. And Yali and –"
+"I'm not going to lower my soulfire. I will help you as much as I can, but I can't do that without protecting myself. Yali told me –"
 
-"Yali!!! You're here to finish me off!! You're going to kill me, you're going to burn me to death –" Even as he screamed and spit blood, he kept on grinning and walking towards me.
+"Yali!!! You're here to finish me off!! You're going to kill me, you're going to burn me to death –" Even as he screamed and spit blood, he kept on grinning and stumbling towards me, bent way over, unable to stand up straight.
 
 "I'm here to help," I said firmly.
 
@@ -291,7 +291,13 @@ I clasped him by the shoulders. I didn't know if he could feel what I felt, but 
 
 "Morrow. I know you're in pain. I want you to listen to me. I'm here to help." In the warmth of my soulfire, it was all so simple. The things to say were so obvious.
 
-"Pain? Pain where?? Y'mus'be thinking of someone else!
+"Pain? Pain where?? Y'mus'be thinking of someone else! I'm fine, I found out so much, you gotta come check out –"
+
+"I'm interested in what you found out, but this is more important. Can you –"
+
+Morrow pushed himself up, carelessly shoving me sideways. I had to brace myself against the ground.
+
+"Check this out!!""
 
 [????? morrow sticking to saying unrelated stuff]
 

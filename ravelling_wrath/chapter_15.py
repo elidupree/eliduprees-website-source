@@ -366,7 +366,7 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "What's soulfire?"
 
-"It's this, this, magic fire thing, that cuts through every other kind of magic. Every Blood Child has been able to summon it instinctively, <em>except for you</em>."
+"It's this, this, magic fire thing, that beats every other kind of magic. Every Blood Child has been able to summon it instinctively, <em>except for you</em>."
 
 "What the fuck, I don't want to go down in history as the least powerful Blood Child ever! Wait, never mind that, we're talking about Morrow! You said neither of <em>us</em> can protect ourselves, so what about you?"
 
