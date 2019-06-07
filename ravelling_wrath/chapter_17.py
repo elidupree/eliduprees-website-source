@@ -295,13 +295,14 @@ I clasped him by the shoulders. I didn't know if he could feel what I felt, but 
 
 [????? morrow sticking to saying unrelated stuff]
 
-[????? Morrow hovers some of his blood, it takes a certain shape]
 
-shot out into the air, a long line stabbing through the air, then piercing into the wall of the ravine, sinking into the earth like an injection. Near where it struck, huge chunks of the ground bubbled and stretched, ballooning into bulbous shapes,
+Morrow waved one of his broken hands. Along with it, some of his blood floated out into the air. He was making it hover using manifesting. In the air, the blood coiled into an intricate shape, a 3D spiral like the Endless Maze symbol, but also with narrow spikes jutting off of it in random directions.
+
+As I watched, one of the spikes extended outwards, a long line stabbing through the air. It pierced into the wall of the ravine, sinking into the earth like an injection. Near where it struck, huge chunks of the ground bubbled and stretched, ballooning into bulbous shapes,
 
 ?????
 
-The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me. He was a tiny, ?????adjective flame trying to carve out a hole in a huge cloud of fear. And he was also the cloud, trying to drive the flame away from danger and pain. And he was also the pain, trying to scream out to be heard. He was reaching out for… comfort? No, for… safety? No, not even that. Even just basic safety was way beyond what he could think of right now. He was clinging onto anything that could make him feel like he was in control of what was happening.
+The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me. He was a tiny, lonely flame trying to carve out a hole in a huge cloud of fear. And he was also the cloud, trying to drive the flame away from danger and pain. And he was also the pain, trying to scream out to be heard. He was reaching out for… comfort? No, for… safety? No, not even that. Even just basic safety was way beyond what he could think of right now. He was clinging onto anything that could make him feel like he was in control of what was happening.
 
 "I can give you a way to get back in control. How does that sound?"
 
@@ -309,7 +310,7 @@ Morrow tried to pull me by the arm, tugging me into walking along the ravine wit
 
 I was pretty sure there wasn't anything up ahead. But I played along. He was starving for someone to listen, and if I could feed that hunger, he might open up to me more. And just walking wasn't going to hurt anything.
 
-As we walked along together, I watched how he was moving. He jerked along, alternately flinching in pain and lunging forward to compensate. This pain was going to be a problem. As long as the literal, physical pain was overwhelming him, there was no way I could expect him to step back and think about what I had to say. [????? But how could I get him to accept help with the pain if he wasn't listening in the first place]
+As we walked along together, I watched how he was moving. He jerked along, alternately flinching in pain and lunging forward to compensate. This pain was going to be a problem. As long as the literal, physical pain was overwhelming him, there was no way I could expect him to step back and think about what I had to say.
 
 I held up one of my spray bottles. "Morrow, I've got a healing potion in this bottle. It can heal your wounds, all I have to do is –"
 
@@ -319,17 +320,17 @@ I grabbed onto his head, letting soulfire flow from my hands to stop whatever he
 
 "Raylie… Raylie…" he moaned.
 
-I wasn't going to get a direct answer. How could I get him to accept help with the pain, when the pain was even stopping him from listening to me ask about the pain? I wanted to just go ahead and spray him, but I had to be careful. If I made him feel like I was taking away his control, he might cling onto his problems even harder. I had to approach this differently. "I'm going to spray the healing potion on you. It'll make the pain go away. If you're listening, if you don't want to, just tell me, okay? I won't do it if you say you don't want me to."
+I wasn't going to get a direct answer. How could I get him to accept help with the pain, when the pain was even stopping him from listening to me ask about the pain? I wanted to just go ahead and spray him, but I had to be careful. If I made him feel like I was taking away his control, he might cling onto his problems even harder. I had to approach this differently. "I'm going to spray the healing potion on you," I said. "It'll make the pain go away. If you're listening, if you don't want me to, just tell me, okay? I won't do it if you say you don't want me to."
 
-[????? Morrow kept ignoring]
+"Raylie… I'm burning, where are you, Raylie…"
 
 I sprayed.
 
-The cloudy potion splattered and dripped down his face. Where it touched his swollen eyes, they rapidly shrank back to their original shape. It missed a few spots, so I squirted the bottle a couple more times, drenching him. Then I went for his hands. He was kind of swaying and not reacting, like he was in shock, so I just grabbed his wrists and held them up to get a good angle to spray.
+The cloudy potion splattered and dripped down his face. Where it touched his swollen eyes, they rapidly shrank back to their original shape. It missed a few spots, so I squirted the bottle a couple more times, drenching him. Then I went for his hands. He was kind of swaying and not reacting, like he was in shock, so I just grabbed his wrists and held them up to get a good angle to spray. Before long, the fingers were all back how they should be.
 
-????? he stumbled off and went limp, bumping into a tree in sinking to the ground. ????? He still had the potion on his face. It was kind of like that time in the first layer when I had dumped a bucket of water on him and then we couldn't manifest it off. But this time [????? I had more powers]. I brushed my hand over his face, letting my soulfire boil away what was left of the potion. When I took my hand away, he looked as good as new.
+I let go of his wrist. He stumbled off at an angle, bumping into a tree and crouching down towards the ground. He still had the potion on his face, and he seemed pretty stressed out about it. It was kind of like that time in the first layer when I had dumped a bucket of water on him and then we couldn't manifest it off. But this time, there were lots of other things I could do. I brushed my hand over his face, letting my soulfire boil away what was left of the potion. His body relaxed a little, sinking down onto the ground. When I took my hand away, he looked as good as new.
 
-Well, except for one thing. I almost hadn't noticed it earlier between all the bruises and stuff, but Yali had put the Watchful Eye on him, too. It wasn't even [????? neat], it was sort of scrawled diagonally up his cheek from the corner of his mouth.
+Well, except for one thing. I almost hadn't noticed it earlier between all the bruises and stuff, but Yali had put the Watchful Eye on him, too. It wasn't even laid out neatly like mine, it was sort of scrawled diagonally up his cheek from the corner of his mouth.
 
 "Morrow," I said gently, looking down at him. "Can you hear me? Do you know where we are, do you understand why –"
 
@@ -337,19 +338,27 @@ Morrow grinned up at me. "Rinn!" he exclaimed. His legs were splayed randomly ac
 
 "You're right," I said. "I did have another reason to come. I have another potion for you. It –"
 
-"What does it do?!"
+"Another potion, what does it do??"
 
 "It will break your connection to the Seeking God. You'll be Morrow again."
 
 Morrow stared at me blankly.
 
-"You'll be able to see Raylie again, without hurting them.
+"You'll be able to see Raylie again, without hurting them. You'll be safe. We'll all be able to hang out together."
 
-?????
+He wanted it. I could <em>feel</em> him wanting it. But there was something else inside him that was making it impossible. "I'll find my own way!" he insisted. "I can be safe in my own way! And hang out with y'all by myself! I'll be so safe, you won't believe it!!"
 
-"You'll lose your powers, but –"
+I decided to ignore the obvious contradiction. I needed to stick to the things that truly mattered. "If you drink this potion, it'll be the best thing for Raylie. I know it's –"
 
-"I'll lose my powers!! A Raveller without powers! Has that ever happened before?! I'll be the first one ever, EVER!" ????? Morrow held out his hands. "Gimme gimme gimme –"
+"I – that's – I want –" he began. Then he interrupted himself angrily. "No, no, no! You're not offering me this potion! It's not happening! Your potion doesn't exist!!"
+
+"I know it's hard to face. I know [????? it won't be pleasant for you to lose your powers]. But if you think about everything, it's –"
+
+"I'll lose my powers…"
+
+"Yes. I know it's hard, but just think about –"
+
+"Wait a sec, has that ever happened before?! A Raveller without powers!" ????? "I'll be the first one ever, EVER!" ????? Morrow stuck out his hands. "Gimme gimme gimme –"
 
 "I don't have it on me!" I laughed. "I left it over there."
 
@@ -383,7 +392,7 @@ I knelt down and slung him over my shoulders. Carrying him was almost effortless
 
 The walk back out of the ravine was uneventful. With Morrow's powers gone, it seemed like maybe things could be calm again. At least for now. For now, I just had to make sure not to drop him.
 
-When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new, broad belt with loads of potions hanging from it. ????
+When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new, broad belt with loads of potions hanging from it. ?????
 
 "What's up with all the gear?" I called out.
 
@@ -399,7 +408,7 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 [????? Probably "Yali using the unravelling potion" is the FIRST point for discussion afterwards]
 
-[????? "walk in any direction to get the portal". Morrow wakes up. Alchemist goes off with Morrow, they all start walking to the portal. "You two can walk ahead of us," said Yali grumpily. "That way, we won't have to go back for you if Morrow [????? flakes out]"]
+[????? "walk in any direction to get the portal". Morrow wakes up. Alchemist goes off with Morrow, they all start walking to the portal. "You two can walk ahead of us," said Yali grumpily. "That way, we won't have to go back for you if Morrow… does Morrow things."]
 
 [????? Is this the right place for Rinn to complain about Yali hating Morrow more than Justicar? Or should this go in the final chapter?]
 
@@ -413,7 +422,7 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 "Well, I guess you would have – oh gods."
 
-"That's right. The first thing I did was check the future to see if you'd be safe until I found you. What do you think I saw? You weren't okay. You drooled on me when I picked you up, you kept shivering and holding onto me and you won't say a word. I needed Alchemist to fix you, and Alchemist wasn't much better.
+"That's right. The first thing I did was check the future to see if you'd be safe until I got to you. What do you think I saw? You weren't okay. You drooled on me when I picked you up, you kept shivering and holding onto me and you wouldn't say a word. I needed Alchemist to fix you, and Alchemist wasn't much better.
 
 "So I ran. I drank the potion Alchemist made to make me faster, and for two days and four hours, I ran as hard as I could sustain. Two days and four hours of pushing myself as hard as I could. Two days and four hours of cursing myself for not getting an extra Severing Step from Alchemist when I had the chance. I did everything I could to get to you before Morrow did too much damage. Because even doing everything I could, I couldn't get there in time to stop him attacking you. I was forty-five minutes too late.
 

@@ -98,13 +98,15 @@ Actually… if I fell from up here, I could really hurt myself. And I <em>wanted
 
 Jumping between the trees wasn't anything like the gymnastics I'd had to do in the Endless Maze. There, the Seeking God had put everything just barely within reach, so that every movement was a challenge, but possible. Here, the trees were spaced out at random. Some places were so dense that I could just step from one tree to the next. Other places were sparse enough that I couldn't make it even with a flying leap. I had to make my own challenges. I left the forest littered with ladders, long ropes I used to swing from tree to tree, and bits of my own blood from when it didn't work out so well.
 
-My muscles got more and more tired, and I accumulated a nice collection of bruises too. After a long time journeying, the trees opened and I came to a broad stream, where water flowed lazily down from a rocky hillside. I held onto a branch above my head and leaned out over the water, looking down into its sparkling surface.
+I kept at it for hours and hours. My muscles got more and more tired, and I collected a nice assortment of bruises too. After a long time journeying, the trees opened and I came to a broad stream, where water flowed lazily down from a rocky hillside. I held onto a branch above my head and leaned out over the water, looking down into its sparkling surface.
 
 It looked deep enough for me to swim in. I couldn't resist. I manifested my clothes away again, and leapt from the tree branch into the water, breaking the surface with a massive splash. The shock of the sudden cold made me snap fully awake. After a little flailing around, I came up shivering and laughing. I hadn't felt this refreshed since… well, probably ever.
 
 I kicked out my legs and propelled myself downriver, relishing the cold current as it flowed over my skin. My head dipped up and down near the surface, soaking my hair and splashing the cold water over the back of my neck. Seeing the trees go past, I pushed myself to swim as fast as I could, zooming down the stream, smooth and fast and exhilarating.
 
-After a while, the stream opened out and I slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went. I shivered again. The cold wasn't exhilarating anymore – now, it was just tiring. So I raised my fists and manifested my whole skin to be hot. My body hissed with steam as the water boiled off of me. In minutes, I was perfectly dry. I jumped and manifested my clothes back on again, making sure to keep the same stains and rips from before.
+After a while, I let myself slow down, and just floated along, gazing up at the trees and the sky. Endless, colorful and growing landscapes drifted past. I lost all sense of time.
+
+The stream opened out and I slid headfirst into a lake blooming with algae. I pulled myself up onto the grassy shore, shaking water and algae off of me as I went. I shivered again. The cold wasn't exhilarating anymore – now, it was just tiring. So I raised my fists and manifested my whole skin to be hot. My body hissed with steam as the water boiled off of me. In minutes, I was perfectly dry. I jumped and manifested my clothes back on again, making sure to keep the same stains and rips from before.
 
 Then, I made myself a hammock between two trees and sprawled down in it to rest.
 
