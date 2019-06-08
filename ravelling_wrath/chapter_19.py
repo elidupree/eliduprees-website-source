@@ -172,9 +172,15 @@ Could I say a Blood prayer?
 
 To be true to the Blood God, I would have to say the prayer with true emotion. But if I felt the emotions that my body wanted me to feel, I wouldn't be able to keep doing what I needed to do.
 
-In the end, I settled with the Broken. [????? The Broken prayer] 
+In the end, I settled with the Broken. I stood over the body and spoke, keeping my voice level.
 
-?????
+"As the sun rose, you were a tangle of hope, holding on to life. As the sun set, you were smoke and threads floating on the wind. Now you may return to the Broken, as we all return. Our souls are one with the sky, our flesh is one with the earth. So says the dust."
+
+I stepped back from the body. This was good enough. The prayer had been said, and there was no need to bury her when this world would be absorbed soon anyway. I could finally leave her behind me.
+
+Part of me wanted to keep looking back at her. This didn't feel like a satisfying conclusion. But no matter how long I would hesitate and look back, it wouldn't make me feel any less unsatisfied. So I decisively turned away, hefted the handle of the wagon, and prepared to start rolling Rinn through the city.
+
+<bigbreak>
 
 I walked.
 

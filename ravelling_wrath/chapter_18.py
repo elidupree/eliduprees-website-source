@@ -16,7 +16,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 18: ", '''<p></p>''') +'''
+  "contents": chapter_start ("Chapter 18: Confrontation", '''<p></p>''') +'''
 
 The Blood God's Gate nestled my body like a hand in a glove.
 
