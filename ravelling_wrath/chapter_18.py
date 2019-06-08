@@ -70,7 +70,7 @@ I watched Yali looking out over the city, taking it all in. Her eyes were slight
 
 "And if you think <em>that's</em> awesome," I continued, "then just wait 'til you see what you already have, right here." I pressed my hand over her heart.
 
-She answered with her own hand over mine[????? Ambiguity]. Then she smiled wistfully. "I love how sincere you are. I will try to, to, to remember this moment, for sometime in the future when I can appreciate it properly."
+She answered by clasping her own hands over my hand on her chest. Then she smiled wistfully. "I love how sincere you are. I will try to, to, to remember this moment, for sometime in the future when I can appreciate it properly."
 
 I felt the impulse to complain, but a heavier feeling laid over it. "I… understand," I said, the weight of truth weighing down my voice. "Your heart… isn't ready to accept this."
 
@@ -152,7 +152,7 @@ If it wasn't so obvious you she was, I would barely have recognized her. A gleam
 
 An iron-hard voice reverberated from inside the helm. "Farseer. You have a choice to make. My quarrel is not with you. You may stand aside, and the Stern will show you mercy. Or you may throw your lot in with Blood, and face the consequences."
 
-Yali did not raise her voice. She answered with [????? utter calm, but with a touch of sadness]. "No, Justicar. <em>You</em> have a choice to make. You cannot win. [????? Ordering/which to choose?: You still have a chance to reconsider/You have been manipulated. Everything you have fought for was based on a lie/the terrible mistake you are making/you may throw your life away uselessly/or you may yield when you must yield, even if it costs your pride]
+Yali did not raise her voice. She answered with utter calm, as solemn as a priest leading the burial rite. "No, Justicar. <em>You</em> have a choice to make. You believe that the Blood Child is your enemy, but you have been manipulated and deceived. You still have a chance to step back from the terrible mistake you are making, and learn the truth."
 
 "You have made your choice," came the helm's grim reply.
 
@@ -160,7 +160,7 @@ Justicar struck out towards Yali like lightning. But somehow, her sword didn't g
 
 But this was no time for me to get distracted by the fighting. Yali was creating a delay for me, and she trusted me to make it count. I focused on my arm and leg, forcing more and more energy into them. But it was like a bottomless well. My flesh was still there, but the soul was damaged so badly it was like trying to build a new arm and leg from nothing.
 
-While I worked, I kept half an eye on the battle in the street. Yali and Justicar were at a standstill. As much as the sword darted and flashed, it had no chance of getting past Yali's awareness. On the other hand, Justicar ????verbed, showing no sign of tiring or slowing down. The deadly dance was mesmerizing. My eyes almost got lost in the movement. But one thing was changing. Every few seconds, the dance slid half a step closer to me. I could see Yali maneuvering to slow down Justicar's advance, but there was only so much she could do. Justicar could not be stopped from advancing towards me.
+While I worked, I kept half an eye on the battle in the street. Yali and Justicar were at a standstill. As much as the sword darted and flashed, it had no chance of getting past Yali's awareness. On the other hand, Justicar continued with a disciplined series of strikes, showing no sign of tiring or slowing down. The deadly dance was mesmerizing. My eyes almost got lost in the movement. But one thing was changing. Every few seconds, the dance slid half a step closer to me. I could see Yali maneuvering to slow down Justicar's advance, but there was only so much she could do. Justicar could not be stopped from advancing towards me.
 
 But then, Yali struck.
 
@@ -180,7 +180,7 @@ Yali held the sword calmly at her side, leaning on the hilt and pressing the raz
 
 Justicar frowned. I could still see her hands crackling with power. She was listening, for the moment, but Yali's words were only a thin line to keep her hypnotized. I could feel her desire to bring this to an end. At any moment, she could decide to start her attack again and make everything simpler. A thrill of terror passed through me, making me hurry to fix my arm and leg. I didn't have time to figure out how to heal them properly. I might need to be able to fight at any instant.
 
-If it was just as hard as making a new arm and leg from scratch… I would <em>make</em> a new arm and leg from scratch.
+If it was just as hard as making new limbs from scratch… I would <em>make</em> new limbs from scratch.
 
 With my good hand, I tore into my dead leg, opening a deep gash that let my blood flow freely into the air. Where it flowed, I shaped it into a mass of living muscle, liquid strength of gleaming red. It slowly expanded into place, a second leg wrapped around my leg, merging into my body, a vessel of my raw will to do what my flesh could not.
 
@@ -242,13 +242,13 @@ I plunged my one good hand into my heart. I drew forth a blade, the ultimate Blo
 
 "Justicar!!" I screamed.
 
-Bracing my leg of blood against the ground, I sprang towards her. My body sailed through the air, a superhuman leap, my blade surging forwards in a deadly line, spraying droplets of blood on the hungry rubble. I saw Justicar turn towards me, raising her arm to defend herself. I saw Yali throw a potion, the bottle cracking on Justicar's face and distracting her for the crucial moment. I saw Justicar grow larger and larger in my vision as I flew towards her. And then we collided.
+Bracing my leg of blood against the ground, I sprang towards her. My body sailed through the air, a superhuman leap, my blade surging forwards in a deadly line, spraying droplets of blood on the hungry rubble. I saw Justicar turn towards me, raising her arm to defend herself. I saw Yali throw a potion, the bottle cracking on Justicar's helmet and distracting her for the crucial moment. I saw Justicar grow larger and larger in my vision as I flew towards her. And then we collided.
 
 My blade, already infused with soulfire, burned through Justicar's armor like it was paper. With a final thud, it buried itself deep in her heart.
 
-[????? Pregnant pause]
+For a moment, everything was quiet. Justicar's blood flowed, drenching my hand at her chest, mingling with my own.
 
-The air flashed and glowed. A choking sound came from inside Justicar's armor. She lurched, trying to stay on her feet, as more lances of light pierced through her body. I heard Yali yell something, but I couldn't hear it. The Stern God's power was surging too loudly around me.
+Then the air flashed and glowed. A choking sound came from inside Justicar's armor. She lurched, trying to stay on her feet, as more lances of light pierced through her body. I heard Yali yell something, but I couldn't hear it. The Stern God's power was surging too loudly around me.
 
 Justicar's body jerked upright, as if propped up by steel bars. More bars of light smashed through the air, snapping into a vast web, locking me in one place.
 
