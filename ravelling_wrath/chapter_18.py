@@ -114,7 +114,7 @@ I smiled confidently. She just didn't understand. "I didn't switch anything. My 
 
 "Uh… Okay then."
 
-We waited together, in an eerie silence, between the rooftops of the many towers. Yali concentrated hard, staring into the distance, her face stark in the bright sunlight and sharp shadows.
+We waited together, in an eerie silence, between the rooftops of the many towers. I summoned my soulfire, keeping it at a steady burn over my entire body. Yali concentrated hard, staring into the distance, her face stark in the bright sunlight and sharp shadows.
 
 Here, so close to the end, I let my eyes linger on the curve of her cheek, the subtle tension around her lips that was the only sign she gave of her stress, the tiny motions of her eyes as she scanned the future for danger.
 
@@ -194,7 +194,7 @@ Yali's body slammed into Justicar, knocking her off her feet. "Now is no time to
 
 "What I will regret is standing idly by while the Blood God is allowed to rejuvenate!"
 
-Justicar struggled to retain her footing. Yali slammed her again, knocking her down into a pile of rubble. "What you will regret," said Yali imperiously, "is trying to kill Rinn Akatura while <em>I</em> am here to stop you."
+Justicar struggled to regain her footing. Yali slammed her again, knocking her down into a pile of rubble. "What you will regret," said Yali imperiously, "is trying to kill Rinn Akatura while <em>I</em> am here to stop you."
 
 "Her existence comes at the cost of human lives! I will not allow them to die while I can still do something to save them!"
 
@@ -210,7 +210,7 @@ Justicar struggled to retain her footing. Yali slammed her again, knocking her d
  
 "You dare quote the Stern God's prayer to me?! Now is no time for me to yield! Human lives hang in the balance. You would have me believe I cannot save any of them, but I cannot accept –"
 
-I could feel Yali tense up, steeling herself for Justicar's next move. She knew that her words had little chance to hold Justicar back. But still she spoke. "Did I say you cannot save <em>anyone</em>? There is one human life that does hang in the balance as you make your decisions. One human life you you can still save."
+I could feel Yali tense up, steeling herself for Justicar's next move. She knew that her words had little chance to hold Justicar back. But still she spoke. "Did I say you cannot save <em>anyone</em>? There is one human life that does hang in the balance as you make your decisions. One human life you can still save."
 
 "The Blood Child? Surely you don't imagine –"
 
@@ -218,54 +218,67 @@ I could feel Yali tense up, steeling herself for Justicar's next move. She knew 
 
 It was like time froze. The words hung in the air. <em>No,</em> I screamed inwardly. I could practically see how Justicar was going to react, for a terrible moment before it happened. <em>No, Yali! Use any other way to convince her, but not that!</em> What Yali had said was so logical, so right, even the Stern God should have admitted it. No matter what else happened, at least Havi, the Justicar, would not have to die.
 
-But I knew Havi's heart. Every time she was in pain, when she could not bear to live with herself, she had reached out for the Stern, to erase her selfish feelings and replace them with the Stern God's will. And as she became the Justicar, every time the Stern God had asked her to erase herself, she had said yes. But now, when the Stern God would tell her she mattered, it was the one thing she could not accept. She had become one with the living god, just as I had. She had felt the raw conviction of being a vessel for the Stern God's perfect will. And now she could never willingly go back to her life as a human being, a creature that could suffer and be pitied. And so this final decision, the decision that would end Justicar's life, was not made by the Stern God overruling her human will, but by the fragments of human will that still remained, still clinging to the lie that the Stern God had every answer.
+But I knew Havi's heart. Every time she had been in pain, when she could not bear to live with herself, she had reached out for the Stern, to erase her selfish feelings and replace them with the Stern God's will. And as she became the Justicar, every time the Stern God had asked her to erase herself, she had said yes. But now, when the Stern God would tell her she mattered, it was the one thing she could not accept. She had become one with the living god, just as I had. She had felt the raw conviction of being a vessel for the Stern God's perfect will. And now she could never willingly go back to her life as a human being, a creature that could suffer and be pitied. And so this final decision, the decision that would end Justicar's life, was not made by the Stern God overruling her human will, but by the fragments of human will that still remained, still clinging to the lie that the Stern God held every answer.
 
-Justicar leapt to her feet, springing away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to hold on tight to my consciousness. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if a great wind was blowing from Justicar's body. Justicar stood alone atop the heap of rubble, a gleaming suit of armor that drove everything away from herself.
+Justicar leapt to her feet, springing away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to hold on tight to my consciousness. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if a great wind was blowing from Justicar's body. Justicar stood alone atop the heap of rubble. She was a gleaming suit of armor that drove everything away from herself.
 
 In this moment, she raised her right arm towards the sky.
 
 "<em>Stern God, I offer up this sacrifice, that you may grant me the power to see your will be done!</em>"
 
-A thousand lances of light struck from the heavens, piercing through the arm Justicar had offered. A scream echoed from inside her helmet, tight and strained, the scream of someone doing everything she can to hold back. As I watched, the arm cracked and melted away. In its place, only the light remained, a new arm of raw power. [????? Phrasing not cool enough: A ?????constrained scream echoed from her helmet as the arm cracked and melted away. In its place,]
+A thousand lances of light struck from the heavens, piercing through the arm Justicar had offered. A scream echoed from inside her helmet, tight and strained, the scream of someone doing everything she can to hold back. As I watched, the arm cracked and melted away. In its place, only the light remained, a new arm of raw power.
 
-[????? Justicar was about to attack Yali with that, this was dangerous serious business, I worked extra hard to be ready to fight]
+Justicar did not pause to flex her new arm before she struck. She was instantly in motion, moving impossibly fast. All my instincts screamed out for danger. The arm was so bright it felt more real than the world around us. It was a violation, and act of contempt for the Blood God's reality. Instinctively, I knew that this was a terrible power, something that could threaten even Yali. I had to move, I had to be ready to protect her. I heaved myself over and tried to push myself up to my feet. I balanced unsteadily on my good leg, then sat down the foot of my other leg, the one I had reinforced with blood. It was weak at first, but I tightened the blood into place, fueling its power with my soulfire until it was strong, a powerful limb ready to use its full strength to fight for my love.
 
-?????
+I looked up. The scene in front of me was a chaos of magic and light. Instant after instant, the arm of light shot out towards Yali, but collided with the invisible barrier around her, the barrier that would set the world itself against any attacks. With every blow, the hand ground into the barrier, making the air flicker and flash. The ground shook from the force. Bricks crumbled from nearby towers. I saw Yali's defenses crack and reform, struggling to retain their strength. For an instant, I saw Yali's face twisted into a mask of fear and rage. And then it was gone and she was calm again, steadily resisting Justicar's blows. But then I saw it again, just a flicker, not like a regular change of emotion, but like…
 
-[????? Paragraph needs phrasing polished] The arm of light shot out towards Yali. It collided with the invisible barrier around her, the barrier that would set the world itself against her attacks. The hand ground into the barrier, making the air flicker and flash. The ground shook from the force. Bricks crumbled from nearby towers. I saw Yali's defenses crack and reform, struggling to retain their strength. For an instant, I saw Yali's face twisted into a mask of fear and rage. And then it was gone and she was calm again, steadily resisting Justicar's blows. But then I saw it again, just a flicker, not like a regular change of emotion, but like…
-
-It was an illusion. All of her calm… It was a potion. All of Alchemist's caring, the heartfelt work they did to keep us all going, had been a helping Yali put on this face that could stand against even Justicar. But now it was cracking, and Yali's true face was exposed. She no longer seemed invincible. She was losing. Yali, my second heart, was being torn to pieces. Despite everything she had done, she had no chance against the raw force standing against her.
+It was an illusion. All of her calm… It was a potion. A piece of Alchemist's caring, the heartfelt work they did to keep us all going, had been helping Yali put on this face that could stand against even Justicar. But now it was cracking, and Yali's true face was exposed. She no longer seemed invincible. She was losing. Yali, my second heart, was being torn to pieces. Despite everything she had done, she had no chance against the raw force standing against her.
 
 Not without me.
 
-[????? Rinn makes the decision to strike; because Justicar was attacking "my heart" meaning Yali]
+It was time. I stood, powerful and ready, gathering my soulfire around me. This time, I had the strength to fight. I was no longer helpless. My anger had turned my helplessness into strength.
 
 I plunged my one good hand into my heart. I drew forth a blade, the ultimate Blood Blade, a brilliant red wreathed in soulfire, glistening and dripping from its edge like an eye already weeping for my enemies' ripped-away lives.
 
+"Justicar!!" I screamed.
 
-?????
+Bracing my leg of blood against the ground, I sprang towards her. My body sailed through the air, a superhuman leap, my blade surging forwards in a deadly line, spraying droplets of blood on the hungry rubble. I saw Justicar turn towards me, raising her arm to defend herself. I saw Yali throw a potion, the bottle cracking on Justicar's face and distracting her for the crucial moment. I saw Justicar grow larger and larger in my vision as I flew towards her. And then we collided.
 
-Justicar's voice thundered from all around me. "<em>Did I not tell you? Even if you tear out my heart, the will of the Stern God will always carry me forward!</em>"
+My blade, already infused with soulfire, burned through Justicar's armor like it was paper. With a final thud, it buried itself deep in her heart.
 
-I was frozen in place. Slowly, balefully, Justicar's arm of light reached across the gap between us. The hand landed heavily on my shoulder, my one good shoulder, the one holding the blade that was in her heart. The fingers of light curled around my shoulder, boiling and blistering in my soulfire but holding firm. Then the fingers closed, crushing my bones to powder.
+[????? Pregnant pause]
 
-?????
+The air flashed and glowed. A choking sound came from inside Justicar's armor. She lurched, trying to stay on her feet, as more lances of light pierced through her body. I heard Yali yell something, but I couldn't hear it. The Stern God's power was surging too loudly around me.
 
-????? I was going to die here. ?????
+Justicar's body jerked upright, as if propped up by steel bars. More bars of light smashed through the air, snapping into a vast web, locking me in one place.
 
-?????
+"<em>IS – THAT – ALL?!!</em>" Justicar's voice thundered in my ears.
+
+I was frozen in place. I couldn't even move my hand to pull my blade out of her heart. "How?!" I gasped.
+
+Justicar's voice sounded from all around me. "<em>Did I not tell you? Even if you tear out my heart, the will of the Stern God will always carry me forward!</em>"
+
+Slowly, balefully, Justicar's arm of light reached across the gap between us. The hand landed heavily on my shoulder, my one good shoulder, the one holding the blade that was in her heart. As the fingers of light curled around my shoulder, I unleashed my rage against them, summoning a wave of soulfire, making them boil and blister. But they held firm. And then they closed, crushing my bones to powder.
+
+Terror pounded through me. I had no arms left to fight with. Desperate for any way to fight, I summoned one last mass of blades, bloody spikes jutting from my arms, my legs, my forehead, every part of the surface of my body, stabbing through the air towards the unbearable pillar of light that was my enemy.
+
+She jerked away, just out of reach.
+
+I strained and strained, but my spikes couldn't reach her. I felt like I was choking with terror. I was going to be drained again, just like the end of our last fight. I was going to die here. She was going to stand just out of reach, crushing me with her power until my soul was nothing more than dust on the wind. I raged against it, struggling against the web, pouring everything I had into my soulfire, my blades. But it wasn't enough. It wasn't enough.
 
 Then Yali's face loomed up behind Justicar's shoulder.
 
-With brutal practicality, Yali seized Justicar's head and shoved it forwards onto my blade.
+With brutal practicality, Yali seized Justicar's head and shoved it forwards onto my blades.
 
 <bigbreak>
 
-Our bodies were locked together, linked by the blade jutting from my forehead into Justicar's. For a long moment, we hung in a delicate balance on the three feet we had between us. But then, we began to topple. Our bodies fell together, crashing among the wreckage. Justicar's stiff body landed on top of mine, crushing the breath out of me.
+As the seconds passed, Justicar's power cracked and dimmed, until its last light flashed once and then went dark for good.
+
+Our bodies were locked together, linked by the dozen spikes jutting from my forehead into Justicar's. For a long moment, we hung in a delicate balance on the three human feet we had between us. But then, we began to topple. Our bodies fell together, crashing among the wreckage. Justicar's stiff body landed on top of mine, crushing the breath out of me.
 
 A long moment passed. Justicar was motionless. It was over.
 
-I relaxed into the pain. My blade melted away into blood, and my new arm and leg melted along with it. Above me, Justicar's armor splintered into dust and vanished. Her human body slumped down onto mine. With the armor gone, she was thin and bony, lying limp and rigid like an old rubber band that had been stretched one too many times. Just inches away from my face, her head hung slack from her neck, her empty eyes staring past me into nothingness. After all this, in the end, she was so human. So tragically human.
+I relaxed into the pain. My spikes melted away into blood, and my new leg melted along with it. Above me, Justicar's armor splintered into dust and vanished. Her human body slumped down onto mine. With the armor gone, she was thin and bony, lying limp and rigid like an old rubber band that had been stretched one too many times. Just inches away from my face, her head hung slack from her neck, her empty eyes staring past me into nothingness. After all this, in the end, she was so human. So tragically human.
 
 And then Yali was there. Her hands heaved Justicar off of me, letting the sun's warming light fall on my head and chest. I couldn't move my arms to lift myself, but I bent my neck towards her, closing my eyes happily. Yali was here. Everything was going to be okay.
 

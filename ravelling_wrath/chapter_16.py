@@ -144,13 +144,13 @@ In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky wh
 <em>No truth can hide from me.</em>
 <em>No force can break me for as long as my blood still flows.</em>
 
-A thrill rose through me as I heard those words. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it for a thousand years. Countless generations of humanity had lived and loved and died, and at every step, they had called out to me, speaking these words, to take pride in their strengths, to celebrate their triumphs, to rally themselves against death and despair. Warriors had spoken them on the verge of battle. Lovers had spoken them together as they fled from persecution. Parents had spoken them at the birth of their children, ?????
+A thrill rose through me as I heard those words. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it for a thousand years. Countless generations of humanity had lived and loved and died, and at every step, they had called out to me, speaking these words, to take pride in their strengths, to celebrate their triumphs, to rally themselves against death and despair. Warriors had spoken them on the verge of battle. Parents had spoken them at the birth of their children. Lovers had spoken them together as they defied persecution. This was no Stern prayer. When you prayed to the Stern, you looked to the spires of distant temples, debasing yourself for the mercy of a power that stood above you. But when you prayed to the Blood God, you looked to your own heart.
 
 Yali answered me. "Yes. The Blood God's prayer. You… I wish you could see yourself. It's beautiful."
 
 I smiled easily. "I wish you could <em>be</em> me."
 
-?????
+????
 
 <bigbreak>
 
@@ -248,7 +248,7 @@ Yali looked me directly in the eye. Her eyes drilled into me. Then she shook her
 
 "Thanks."
 
-?????
+????
 
 <bigbreak>
 
