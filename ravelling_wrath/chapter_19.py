@@ -166,7 +166,7 @@ But first… there was Justicar's body to consider.
 
 If I left Justicar's body now, there would be no one left to say the prayer for the dead. A brief and spiteful thought told me that I could simply leave her to rot. But the satisfaction would be short-lived, and I would likely have guilt and doubt about that decision for much longer. It was better to say a prayer. It would bring closure to this tragedy.
 
-But which prayer should I say? Every god had its own prayer for the dead. I knew all the Waiting prayers by heart, but it seemed cruel to say a Waiting prayer, when it was the Waiting God which had created the situation that caused her death. The Stern prayer was what she would want, but the Stern prayer also said "[????? may your sacrifice be successful]". I would not be able to say that sincerely. And in the eyes of the gods, an insincere prayer was the same as no prayer at all.
+But which prayer should I say? Every god had its own prayer for the dead. I knew all the Waiting prayers by heart, but it seemed cruel to say a Waiting prayer, when it was the Waiting God which had created the situation that caused her death. The Stern prayer was what she would want, but part of the Stern prayer said "let her sacrifices be not in vain, but let the world bear the fruit of her toil". I would not be able to say that sincerely. And in the eyes of the gods, an insincere prayer was the same as no prayer at all.
 
 Could I say a Blood prayer?
 
@@ -186,9 +186,9 @@ I walked.
 
 Next to the vast structures of this world, I felt very small. Walking past just one building took multiple minutes. I felt suspended in time, slowly trudging away, wheeling Rinn along with me, the pulsing sun continuously burning away. I couldn't look straight ahead without getting it in my eyes. So I looked down. I had no sense of what was coming. The buildings and flagstones went past me one after another, without any plan or sense of order.
 
-The road heaved sharply uphill, twisting at an angle that made it hard to walk, as if a mountain had begun rising under the city with no regard to what was built there. I trudged past a collapsed tower, even its fallen stones taller than I was. I trudged past a massive spike of metal reaching up at an angle into the sky, like a giant's spear stabbed up through the ground from below. And everywhere, the braided cables of steel, [????? very large], that Rinn called the muscles of the city.
+The road heaved sharply uphill, twisting at an angle that made it hard to walk, as if a mountain had begun rising under the city with no regard to what was built there. I trudged past a collapsed tower, even its fallen stones taller than I was. I trudged past a massive spike of metal reaching up at an angle into the sky, like a giant's spear stabbed up through the ground from below. And everywhere, the braided cables of steel, huge and winding, that Rinn called the muscles of the city.
 
-My road ended at the entrance to a massive open-air forge. [????? Very large] mechanical bellows sat motionless, looming nearby broad anvils layered with the dust of years. Enormous crucibles stood against the sky, with channels where molten metal might have poured down from them. The whole place was piled with every kind of tool and device imaginable, the floor barely visible under them. I could just imagine Rinn digging through the piles, pulling out random devices and doing irresponsible things with them. I smiled despite myself.
+My road ended at the entrance to a massive open-air forge. Enormous mechanical bellows sat motionless, looming nearby broad anvils layered with the dust of years. Vast crucibles stood against the sky, with channels where molten metal might have poured down from them. The whole place was piled with every kind of tool and device imaginable, the floor barely visible under them. I could just imagine Rinn digging through the piles, pulling out random devices and doing irresponsible things with them. I smiled despite myself.
 
 But to me, this was all so much trash. The tools might represent something with a purpose, if you looked across all of history. But right now, they were just things in my way. How would I cart Rinn past the forge without a flat floor to roll my wagon along?
 
@@ -265,7 +265,7 @@ I felt a pressure pushing back at me. I could tell what <em>that</em> meant. The
 
 [????? Yali finishes filling the crevice with waste, then flattens it into a road and walks across, eventually cooling down and expressing a more balanced view of the Blood God. In particular, she realizes that if she wants the Waiting God to feel guilt and to change, she has to make that be part of herself, and so making "change in how I feel about the Blood God" is as important as it is problematic]
 
-I had resented the Blood God. I had seen it as getting in my way, interfering with me. My hands began shaking as I realized it. That was how the Waiting God felt. I would never be able to change the Waiting God if my own soul [????? had a tendency to] confirm its [????? prejudices].
+I had resented the Blood God. I had seen it as getting in my way, interfering with me. My hands began shaking as I realized it. That was how the Waiting God felt. I would never be able to change the Waiting God if my own soul had the same judgments inside it.
 
 There was a great pain behind my eyes. I didn't want this. I had been justified. Every part of my dislike for the Blood God was fully justified. But it didn't matter how justified I was. If I kept fighting against it, the fighting would be part of me. And then the Waiting God would absorb that part of me. And then it would continue the cycle that had nearly killed us both.
 
@@ -281,7 +281,9 @@ Even if I could make myself accept the Blood God… how?
 
 <em>Rinn</em> would know what to do. She was really into this Blood stuff. She'd probably say something like "just feel your feelings!" or "look to your own heart!" like it made perfect sense. But my feelings didn't make sense. If I let them control me, I wouldn't be able to think or get anything done. That was why I had to keep each of them under careful management. If I got upset when I had to do something important, it could destroy everything I had worked for, and then I would have much more to be upset about. Being upset was supposed to mean you <em>didn't</em> want something to happen, so it made no sense to be upset if that would cause more of it.
 
-That was why I ?????. It was like I had told Rinn, months ago now. I had to take each of my feelings out for a drive, in a controlled way, when it was safe. That way I could know their limits. I could know how to put them back away when they were getting in my way.
+Of course, I couldn't get rid of my feelings either. I had tried it once. When I was much younger, I had told myself that if my feelings were getting me hurt, I would just refuse to ever feel anything. It had worked for a while, long enough for me to be proud of it. But when I read more about it, I started to see how much it was costing me. I had found a long thread on an abuse survivors' forum where people were talking about how hard it was to recover from emotional suppression. Once I knew what it was like for them, I knew I didn't want that to be me.
+
+So that was why I had to strike a balance. It was like I had told Rinn, months ago now. I had to take each of my feelings out for a drive, in a controlled way, when it was safe. That way I could know their limits. I could know how to put them back away when they were getting in my way.
 
 But that was something to do when it was <em>safe</em>. Not something to do <em>now</em>. ?????.
 
