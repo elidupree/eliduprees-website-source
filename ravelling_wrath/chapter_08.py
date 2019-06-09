@@ -428,15 +428,15 @@ Morrow was being way quieter than usual. I tried to pull him into doing our usua
 
 "This one hotel had soundproof walls…" Morrow muttered. He spun around, waving his arms and manifesting rows of big walls around the edge of the star, walls with old-fashioned wood paneling and peeling paint. Before he had even finished, some of them fell over with a massive <em>woomph</em>.
 
-That was fine with me. This side of Neenu had felt pretty empty without the massive piles of junk that Morrow and I had left on all the other stars we'd stayed on. Now there was lots of space to fill up with new stuff. Right away, I manifested ?????
+That was fine with me. This side of Neenu had felt pretty empty without the massive piles of junk that Morrow and I had left on all the other stars we'd stayed on. Now there was lots of space to fill up with new stuff. Right away, I jumped up on one of the fallen walls and manifested my favorite couch. But first, I manifested a couple of big cabinets under it so I could sit high up, looking down on everyone else.
 
-?????
+Of course, Morrow had to try and outdo me. He stated manifesting a giant stack of air mattresses, clumsily sticking each new one under him as he went. Before long, the stack was higher than my couch. I wasn't going to stand for that. So I manifested a long spear and started stabbing holes in his air mattresses, making them slowly deflate. He kept adding more on top, but before long, he was losing height faster than he gained it. A few minutes later, he gave up and just let the stack deflate.
 
-"That means I win! I totally win." I manifested a huge, spiky crown made of Blood Blades, and set it down on my head. "See this crown? This means I'm the winner, and I –"
+I smirked. "That means I win! I totally win." I manifested a huge, spiky crown made of Blood Blades, and set it down on my head. "See this crown? This means I'm the winner, and I –"
 
 "The Blood Blades are not a <em>toy</em>," said Justicar severely.
 
-"Oh yeah? They're MY blades, and <em>I</em> say they <em>are</em> a toy! Check it out, now they're a –" I let one melt and flow in my hand, reshaping into – what was a toy that was vaguely blade-shaped? "Uh, now they're ski poles!" I also manifested more Blood Blades out of my feet, in the shape of skis, and pretended to ski around on the platform. Right away, my legs slipped out from under me and I fell on my face.
+"Oh yeah? They're MY blades, and <em>I</em> say they <em>are</em> a toy! Check it out, now they're a –" I let one melt and flow in my hand, reshaping into – what was a toy that was vaguely blade-shaped? "Uh, now they're ski poles!" I jumped down and manifested more Blood Blades out of my feet, in the shape of skis, and pretended to ski around on the platform. Right away, my legs slipped out from under me and I fell on my face.
 
 Justicar's voice softened a little. "Have you never skied before?"
 
@@ -518,11 +518,15 @@ Morrow shrugged. "Gay is just who you fuck, right?"
 
 Morrow smirked. "Whaddaya think?"
 
-"I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on. Or, like, playing sports against her. <em>Girls</em>." I sighed happily. [????? I had probably messed up some realtionships by being too fight-y]
+"I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on." Haha, I had probably made this one girl hate me forever by picking a fight when she wasn't in the fighting like I was. "Or, like, playing sports against her. <em>Girls</em>." I sighed happily.
 
 Then I looked over at Morrow. He was messing with a puzzle box in his hands, not listening to me at all. Haha, should've known not to try to explain anything serious to him.
 
-"You want to play like that?" I laughed. I [????? pranked Morrow, in a way that they both have fun with]
+"You want to play like that?" I laughed. "Fine, let me have a go!" I grabbed the puzzle box out of his hands, and pretended I was trying to solve it, but actually I was using manifesting to replace the inside with slime.
+
+Pretty soon, Morrow grabbed it back, then it fell apart and got slime all over his hands. He grinned. "I'll get you back for that!"
+
+
 
 [???? Yali interrupts a moment of low tension to call them back around]
 
