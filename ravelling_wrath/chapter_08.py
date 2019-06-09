@@ -308,25 +308,17 @@ In the early days of the city, before the walls went up, there was a family who 
 
 "Why do you always play alone?" asked the other children. "Why do you bury acorns, like a squirrel?" But she just laughed to herself and kept digging.
 
-Seasons turned from sun to snowfall, snowfall to sun. [????? Other markers of time passing] The child grew to her teenage years.
+Seasons turned from sun to snowfall, snowfall to sun. Seed became shoot, and shoot became sapling. In the course of time, the child grew to her adolescent years. Time found her wandering the orchards, following and listening to anyone who would teach her of nature's secrets.
 
-?????
+"Why do you spend all your time in the orchards?" her uncles asked. "Other children your age are competing at the carnivals, learning trades, finding love. Don't you want to do those things yourself?" But she just smiled and said nothing.
 
-"Why do you ????? [????? Your peers] are finding love, [????? other young adult activities]." But she just smiled and said nothing.
+Seasons turned from sun to snowfall, snowfall to sun. Seed became shoot, and shoot became sapling. In the course of time, the child grew into an adult. Time found her wandering the city, a bag of seeds in hand. Up one street and down another she walked, and in the course of time, every country road felt her footsteps. Time by time, she stopped at a street corner. Time by time, she knelt down, with her little trowel and her bags of seeds. Time by time, her fingertips pressed a seed into the soil.
 
-[????? Repeat text of time passing] The child grew into an adult.
+"Why do you only wander and plant seeds?" asked the strangers she met on the roads. "Is there not a family waiting for you at home? Do you not have your own life to attend to?" But she just smiled and said nothing.
 
-?????
+Seasons turned from sun to snowfall, snowfall to sun. Seed became shoot, and shoot became sapling – and as the years passed by, sapling became tree. And in the course of time, the child grew old. Along the sides of every country road, stately trees rose up. On summer days when the sun was bright, they gave weary travelers shelter from the heat. And when they bloomed, children all over the city climbed in their boughs to pick the fruit. The city's people were happy when they saw the trees, from time to time, someone would look up and remember the stranger they had seen wandering and planting seeds not so many years before.
 
-[????? Went all over the city planting seeds] time by time, she stopped at a street corner, and she knelt down, with her little trowel and her bags of seeds. Time by time, her fingertips pressed a seed into the soil.
-
-?????
-
-But as the years passed by, the seeds grew into saplings. And as the years passed by, the saplings grew into
-
-
-
-"Ah," said [????? an old man]. "Now I understand. The city is richer for your work, and you may now relax in the shade of the many beautiful trees you have brought us. But you and I grow old, and time flows swiftly. Every day I see you bend your back to plant another seed, but surely you must know that you may not live to see them blossom."
+"Ah," said an old man. "Now I understand. The city is richer for your work, and you may now relax in the shade of the many beautiful trees you have brought us. But you and I grow old, and time flows swiftly. Every day I see you bend your back to plant another seed, but surely you must know that you may not live to see it blossom."
 
 Just for a moment, she looked up from her trowel, smiled, and said nothing.
 
@@ -358,7 +350,7 @@ Justicar tapped her foot. There was an awkward silence.
 
 I hadn't thought about that, but it was true. There was one portal for each of us, so each of us was going to have to get off separately. And… "Well, Morrow's the only one who can talk to Neenu, so I guess he'll have to get off last." Even as I said it, I could see the problem with that. Did Morrow even know how to find his way from one star to another? Thinking back to when he first showed up, he had probably just "smelled" us with his powers and gone that way on his rocket. I mean, I couldn't say I was much better, but I had at least <em>tried</em> to read the Codex. But Morrow…
 
-"I can go with him," said Justicar, not sounding very enthusiastic about it. "Once we reach the star with the Imminent's portal, I can get off and wait for other stars to arrive, then travel to my own portal by riding the stars the way we are intended to."
+"I can go with him," said Justicar, not sounding very enthusiastic about it. "Once we reach the star with the Imminent's portal, I can get off onto that star and wait for other stars to arrive, then travel to my own portal by riding the stars the way we are intended to."
 
 "It's settled then!" said Morrow. "Me and Justicar last, Alchemist second-to-last, that just leaves –"
 
@@ -372,7 +364,7 @@ I hadn't thought about that, but it was true. There was one portal for each of u
 
 Justicar raised an eyebrow. "If it helps… there is always a choice."
 
-"Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private data, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess, the place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
+"Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private information, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess, the place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
 
 There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had been mostly resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer. I could feel the excitement building up in my chest. But at the same time, there was also a slow uncertainty.
 
@@ -412,7 +404,7 @@ I saw Morrow perk up, the way he did when he was about to prank someone. He was 
 
 It was weird, and I noticed it more and more as we all spent time together. Morrow acted like a completely different person when he was around Alchemist. He wasn't just affectionate, he was also patient and reassuring. Not as patient as Yali or anything, but still totally different from his normal self.
 
-It especially made a difference when Yali started to help Alchemist figure out about making potions. Yali had made a cozy little workspace for the two of them, with [????? stuff] and a bunch of bottles and [????? stuff]. Then she started patiently explaining what she knew, and suggesting things for Alchemist to try. Like, ways that Alchemist could try to concentrate, to unlock the right mental pathways to access the Broken God's power. And at first, Morrow hovered around them, asking all kinds of questions. But then, after just a few questions, he cut himself off, telling Alchemist, "I'm sorry, I didn't mean to break your concentration!" He looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
+It especially made a difference when Yali started to help Alchemist figure out about making potions. Yali had made a little workspace for the two of them, a marble countertop with a wide, shallow bowl shape. Off to one side, there were a bunch of bottles, made of glass and metal. At the other side, there were pencils and paper for notetaking. Then she started patiently explaining what she knew, and suggesting things for Alchemist to try. Like, ways that Alchemist could try to concentrate, to unlock the right mental pathways to access the Broken God's power. And at first, Morrow hovered around them, asking all kinds of questions. But then, after just a few questions, he cut himself off, telling Alchemist, "I'm sorry, I didn't mean to break your concentration!" He looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
 
 "Why does Justicar have to come with us?" I said, laughing.
 
@@ -450,15 +442,15 @@ Justicar's voice softened a little. "Have you never skied before?"
 
 "Oh, come on! There's nowhere to ski in the city anyway!"
 
-"There… <em>is</em> a ski slope to the north, in ?????region. Have you never been outside the city?"
+"There… <em>is</em> a ski slope to the north, in ????region. Have you never been outside the city?"
 
 "Who needs to?!"
 
-"Yeah!!" added Morrow. "You from ?????region? You some kind of rich person?"
+"Yeah!!" added Morrow. "You from ????region? You some kind of rich person?"
 
-My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from ?????region, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth layer like me, either.
+My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from ????region, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth layer like me, either.
 
-"I will not say I have not had privileges in my life. But no, I am not <em>from</em> ?????region. I simply… was there for a time."
+"I will not say I have not had privileges in my life. But no, I am not <em>from</em> ????region. I simply… was there for a time."
 
 "Cool, cool, I'm just wondering…" began Morrow.
 
@@ -556,13 +548,13 @@ Morrow was still out of it. Alchemist answered. "It, maybe, makes you, see, diff
 
 "Can I try it?"
 
-Alchemist made another one for me. It tasted like ?????. As soon as it went down my throat, my vision split apart into thousands of little bubbles, each observing only a very small area. Alchemist's face in front of me was split into thousands of little bits, like an intricate stained-glass window, but also moving and flowing as I looked around. Up above, individual stars danced from bubble to bubble. And somehow, I could see everything clearly at once, even without moving my eyes to focus on individual things.
+Alchemist made another one for me. It was slimy and tasted like raw fish. As soon as it went down my throat, my vision split apart into thousands of little bubbles, each observing only a very small area. Alchemist's face in front of me was split into thousands of little bits, like an intricate stained-glass window, but also moving and flowing as I looked around. Up above, individual stars danced from bubble to bubble. And somehow, I could see everything clearly at once, even without moving my eyes to focus on individual things.
 
 I tried to move around to look at things from different angles. My vision was so <em>everything</em> that it was hard to remember how to walk. I managed it, but only slowly.
 
 "This is awesome," I said. "But, how do you turn it off?"
 
-In one of the tiny bubbles, Justicar frowned. "The Stern God's power allows me to remove certain forms of magic, but these potions are beyond me."
+In a thousand tiny bubbles, Justicar frowned. "The Stern God's power allows me to remove certain forms of magic, but these potions are beyond me."
 
 It turned out that Yali and Alchemist had prepared a potion for this, too. A potion that would remove the effects of most other potions. It was actually one of the hardest ones to design, because there was no unifying thread to the Broken God's power, so it was hard to specifically remove <em>all potions</em> without removing other parts of your soul, too. But Yali and Alchemist had found a trick that made it work safely – at least to remove minor, fun potions like these ones. Yali thought it was important to have a bunch of the potion-removing-potions lying around. That was probably accurate.
 
