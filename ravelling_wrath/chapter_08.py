@@ -464,9 +464,37 @@ My first thought was that Morrow was being ridiculous. As overbearing as she was
 
 I snickered. Justicar looked away slightly, as if to say, <em>I can't believe I actually thought Morrow was going to ask a real question</em>.
 
-[????? Rinn and Morrow do something fun]
+"If <em>I</em> was rich," said Morrow, "I'd buy a big ol' mansion. And then I'd burn it down."
 
-?????
+"Where would you live then?" I said.
+
+"I'd be rich! I'd have another six houses to live in. And then I'd burn them all down, too." He snickered.
+
+"What's the point of buying houses just to burn them?" I laughed.
+
+Morrow danced away tauntingly. "Oh, so you've never wanted to burn down a house? Never ever?"
+
+"Okay, fine. But I wouldn't burn down some random mansions, I'd burn down the school."
+
+Justicar interrupted. "The premise was that he was <em>rich</em>. That allows you to buy houses, but it doesn't allow you to burn down the school."
+
+"Sure it does, I'd buy the school. I'd pay for a new fancy school with my name on it, and make the city give me the old school in exchange. That's what rich people do, right?"
+
+"Fuck rich people," said Morrow.
+
+"Fuck rich people," I concurred.
+
+Morrow danced up to me, manifesting piles of gold coins spilling out of his hands. "What would you really do if you were rich, though?"
+
+"Well –" I hadn't actually thought about it that much. "Well – first of all, I'd pay Layo's way through art school, so he doesn't have to work in the summer. And then, um…"
+
+"That's very noble of you," said Justicar.
+
+"You take that back!" I yelled. "I'm not doing it to be noble, he's my friend! And what else would I spend it on, anyway? I already have everything I want." I pointed one finger at myself and the other down through the star at Yali.
+
+Morrow leaned close to my ear. "But do you have… a two story tall chocolate fountain?" He manifested a chocolate fountain near us as he said it. It was only about one story tall, but I wasn't complaining. I stuck my face in it right away. Morrow joined me, and pretty soon we were both licking chocolate off the fountain and grinning at each other's messy faces.
+
+I smiled across at Morrow. "Okay, fine, this is awesome, maaaayyybe I'd buy one of these –"
 
 "Will you <em>stop doing that??</em>" Morrow hissed at Justicar suddenly.
 
@@ -478,7 +506,7 @@ I snickered. Justicar looked away slightly, as if to say, <em>I can't believe I 
 
 Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But getting Morrow calmed down was more important.
 
-Morrow didn't seem to be listening to me, so I decided to distract him instead. "Check <em>this</em> out!" I said, manifesting a whole bunch of fireworks. I messed up lighting them because I'd never actually gotten use one before – I'd been out with some older kids who smuggled them into the city, but I'd barely gotten my hands on one before someone snatched it away to stop me burning myself. So at first, I accidentally shot one onto the ground, where it set a couch on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I said to Morrow as I made bright trails across the sky.
+Morrow didn't seem to be listening to me, so I decided to distract him instead. "Check <em>this</em> out!" I said, manifesting a whole bunch of fireworks. I messed up lighting them because I'd never actually gotten use one before – I'd been out with some older kids who smuggled them into the city, but I'd barely gotten my hands on one before someone snatched it away to stop me burning myself. So at first, I accidentally shot one onto the ground, where it set a cabinet on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I said to Morrow as I made bright trails across the sky.
 
 Morrow started furiously manifesting fireworks of his own.
 
@@ -522,9 +550,7 @@ Morrow smirked. "Whaddaya think?"
 
 Then I looked over at Morrow. He was messing with a puzzle box in his hands, not listening to me at all. Haha, should've known not to try to explain anything serious to him.
 
-"You want to play like that?" I laughed. "Fine, let me have a go!" I grabbed the puzzle box out of his hands, and pretended I was trying to solve it, but actually I was using manifesting to replace the inside with slime.
-
-Pretty soon, Morrow grabbed it back, then it fell apart and got slime all over his hands. He grinned. "I'll get you back for that!"
+"You want to play like that?" I laughed. I was about to prank him by manifesting something, but then I remembered I wasn't supposed to be manifesting. So ????? "I'll get you back for that!"
 
 
 
