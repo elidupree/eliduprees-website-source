@@ -58,7 +58,7 @@ Up to this point, I had never actually been completely alone. But now, I was in 
 
 <em>She</em> wasn't here.
 
-I felt my blood pounding right behind my eyes. I'd had <em>her</em> right in front of me! Why didn't I <em>do</em> anything? I had just given her a half-assed kiss goodbye [????? make sure this is a correct callback] and stepped into that portal like I knew what I was doing. But I <em>didn't</em>! Now I felt like there was a hole ripped right out of my heart, like I'd missed my chance at her and now it was gone forever.
+I felt my blood pounding right behind my eyes. I'd had <em>her</em> right in front of me! Why didn't I <em>do</em> anything? I had just given her a half-assed kiss goodbye and stepped into that portal like I knew what I was doing. But I <em>didn't</em>! Now I felt like there was a hole ripped right out of my heart, like I'd missed my chance at her and now it was gone forever.
 
 Also, I could picture her right in front of me, so why was I drawing a blank when trying to think of her name?
 
@@ -214,13 +214,11 @@ When I complained about it, Morrow said, "You can't just try harder! You have to
 
 What was the point of me being here if I didn't even get to solve anything? I should have just gone my own way to look for Yali! Irritated, I broke away from Morrow and stomped back out the door I'd come in through. But somehow, I ended up right in front of Morrow again, watching his stupid face chewing on a massive hunk of meat.
 
-"Argh!!" I yelled. Morrow snickered. I slammed my fist into one of the tiles on the walls. The tile slid back into the wall, and a hidden door opened. "What the fuck? I'm not even trying, and I randomly hit a secret button?!"
+"Argh!!" I yelled. Morrow snickered. I slammed my fist into one of the tiles on the walls. The tile slid back into the wall. Next to me, a hidden door opened. "What the fuck? I'm not even trying, and I randomly hit a secret button?!"
 
 "Told ya so!"
 
 "Whatever!" I grabbed Morrow's wrist and dragged him through the new door with me.
-
-[????? Throughout this chapter: include Morrow's food stuff]
 
 The next room was just an empty room, at first. I crossed it and tried to open the door at the other side, but it was locked, of course. When I looked back, the door behind us also slammed closed and merged with the wall. Typical. In the middle of the room, two waist-high pedestals rose from the floor.
 
@@ -352,7 +350,7 @@ I <em>could</em> have just kept holding onto him for the next eight hours. That 
 
 "Dude, I'm not going to let you go if you're going to hurt yourself," I said. "Look, just don't think about Alchemist, okay? Forget I said anything."
 
-"Yeah that's helpful, I'm going to forget right now!!" he said sarcastically.
+"Yeah that's helpful, I'm going to forget it right now!!" he said sarcastically.
 
 "Uh, right, that was pretty stupid of me," I said. "What if we did something distracting? Like playing a game?"
 
@@ -372,7 +370,7 @@ On the other side of the room, Morrow tore through game after game. The only tim
 
 Finally, Morrow looked up.
 
-"There's nothing good on here!! These are all BORING games for BORING people!" He waved my phone in the air wildly. "They waste so much time getting to the interesting parts –"
+"There's nothing good on here!! These are all BORING games for BORING people!" He waved my phone in the air wildly. "They make you waste so much time before you get to the fun parts –"
 
 "Okay, I'll have my phone back, then," I said sharply, reaching out to take it.
 
@@ -458,11 +456,11 @@ Morrow looked up at me with a little smirk. "This is the only room we've got!!" 
 
 "I'm only joking, I don't really mind it. Go ahead and do whatever you want. Haha, I wouldn't mind even if you wanted to have sex in here –" What the fuck was I saying? Well, I couldn't go back on it now. Time for the Rinn Akatura show, I guess. "It would be like the mile high club, except instead of being in an airplane you're in a –" <em>Wait, I shouldn't remind Morrow of where we are</em> "– I mean, hang on, if we don't have to eat, and we can heal all our injuries, does that mean we can't catch STDs? And, like, I don't know if pregnancy is the thing you two have to worry about, but –"
 
-"It does," said Morrow. Weirdly, he started talking like he was totally bored. "Some ?????people come here to fuck because you can't get sick and you can't get preggo 'less you want to. Doesn't matter 'cause <em>smart</em> people don't do it 'cause the portals cost a fortune and they're just as unsafe as –"
+"It does," said Morrow. Weirdly, he started talking like he was totally bored. "<em>Some</em> nitwits come here to fuck 'cause you can't get sick and you can't get preggo 'less you want to. Doesn't matter 'cause <em>smart</em> people don't do it 'cause the portals cost a fortune and they're just as unsafe as –"
 
 "Wait a minute, people can come <em>here</em>? I thought we were the only ones here!"
 
-"Not <em>here</em> here! <em>Here!</em>" [????? expand this:] Maybe he was talking about the Otherworld in general. It was easy to forget about it, but the gods' worlds were only part of the whole Otherworld, just like the regular world was a lot bigger than just the city. There were even other cities that had their own gods, but they were a long way away and most of their gods weren't as powerful as ours, so for anyone who lived around here, if you said "the gods", they'd pretty much assume you meant our five gods. All the gods of distant cities were just a side note. But now that Morrow mentioned it, I <em>did</em> remember seeing some photos of impossible landscapes from, like, research expeditions to the Otherworld, and rich people's vacations, and stuff like that. Outside of the gods' worlds, the Otherworld was supposed to be mostly chaos, random energy that didn't form a real shape unless you manifested one on it. But the portals were an incredibly advanced sorcery, so no normal person would get to visit the Otherworld unless the gods brought them there.
+"Not <em>here</em> here! <em>Here!</em>" Maybe he was talking about the Otherworld in general. It was easy to forget about it, but the gods' worlds were only part of the whole Otherworld, just like the regular world was a lot bigger than just the city. There were even other cities that had their own gods, but they were a long way away and most of their gods weren't as powerful as ours. So if you were talking to anyone who lived around <em>here</em>, if you said "the gods", they'd pretty much assume you meant our five gods. All the gods of distant cities were just a side note. But now that Morrow mentioned it, I <em>did</em> remember seeing some photos of impossible landscapes from the Otherworld, from, like, research expeditions, and rich people's vacations, and stuff like that. Outside of the gods' worlds, the Otherworld was supposed to be mostly chaos, random energy that didn't form a real shape unless you manifested one on it. But actual portals were an incredibly advanced sorcery, so no normal person would get to visit the Otherworld unless the gods brought them there.
 
 "Anyway," I said, "point is, having sex here is totally no-consequences, so you could totally –"
 
@@ -528,7 +526,7 @@ Justicar looked a little taken aback. "I was not trying to –"
 
 "Good."
 
-I turned to Morrow.
+I turned to Morrow, who was busy trying to swallow a huge mouthful of food.
 
 "So, uh," I said awkwardly, "if we can manifest now, can you try doing the loopy thing on me?"
 
@@ -568,7 +566,7 @@ A feeling of being correct popped into my mind.
 
 <em>Was that you?</em>
 
-<em>I can also do words!</em> It didn't sound like Morrow's voice – it actually sounded more like my own thoughts. But it was obviously Morrow. [????? Remove this from 14] His presence flickered across my mind, lighting up a series of different feelings – a flash of rage at injustice, a burst of satisfied laughter, a surge of my love for Yali. <em>Your feelings!! What a delicious jungle!!</em>
+<em>I can also do words!</em> It didn't sound like Morrow's voice – it actually sounded more like my own thoughts. But it was obviously Morrow. His presence flickered across my mind, lighting up a series of different feelings – a flash of rage at injustice, a burst of satisfied laughter, a surge of my love for Yali. <em>Your feelings!! What a delicious jungle!!</em>
 
 "You can't eat them," I said out loud. "Oops." In my head, I felt Morrow snickering. <em>Screw you! Okay, fine, that was my own mistake. Anyway, the important thing is – so, I can't tell Justicar this, but –</em>
 

@@ -719,7 +719,11 @@ Yali's eyes drifted into the distance. "Ah… I think there's one of me who's ex
 
 Yali went quiet for a while. Seemed like she had finished her explanation. I thought about it. Like most people, I had known that alchemy and sorcery were <em>different</em> kinds of magic, but I hadn't really thought about it much beyond that. But now it made a lot of sense.
 
-"Okay, so you've covered… all of us except you. Alchemist is like sorcery, the rest of us are like manifesting. But what about you? What's the Seeing like?"
+"Okay, so you've covered… all of us except you. Alchemist is like sorcery, the rest of us are like manifesting. But what about –"
+
+"Technically, Alchemist also has to do regular manifesting the create the physical form of the potions –"
+
+"– what about you? What's the Seeing like?"
 
 Yali hesitated a little. "I think… I think when I use it, I'm not technically <em>doing</em> any magic at all. I'm not influencing any souls or matter, am I? Only myself, to receive the knowledge. The god might be manifesting on <em>me</em>, to put it into my head."
 
