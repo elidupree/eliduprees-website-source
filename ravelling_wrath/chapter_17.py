@@ -293,20 +293,17 @@ I clasped him by the shoulders. I didn't know if he could feel what I felt, but 
 
 "Pain? Pain where?? Y'mus'be thinking of someone else! I'm fine, I found out so much, you gotta come check out –"
 
-"I'm interested in what you found out, but this is more important. Can you –"
+"I'm always interested in the things you come up with, but this is more important. Can you –"
 
-Morrow pushed himself up, carelessly shoving me sideways. I had to brace myself against the ground.
-
-"Check this out!!""
-
-[????? morrow sticking to saying unrelated stuff]
-
+Morrow pushed himself up, carelessly shoving me sideways. I had to brace myself against the ground. "Check this out!!" he yelled.
 
 Morrow waved one of his broken hands. Along with it, some of his blood floated out into the air. He was making it hover using manifesting. In the air, the blood coiled into an intricate shape, a 3D spiral like the Endless Maze symbol, but also with narrow spikes jutting off of it in random directions.
 
-As I watched, one of the spikes extended outwards, a long line stabbing through the air. It pierced into the wall of the ravine, sinking into the earth like an injection. Near where it struck, huge chunks of the ground bubbled and stretched, ballooning into bulbous shapes,
+As I watched, one of the spikes extended outwards, a long line stabbing through the air. It pierced into the wall of the ravine, sinking into the earth like an injection. Near where it struck, huge chunks of the ground bubbled and stretched, ballooning into bulbous shapes. It spread upward through the ground, all the way to the edge of the ravine, where it bubbled under the trees standing there, knocking some of them over, pulling up some of their roots.
 
-?????
+"Morrow! You're already losing enough blood, we have to –"
+
+"I'm fine!" He gestured at the distorted ground. "Can't you see it??"
 
 The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me. He was a tiny, lonely flame trying to carve out a hole in a huge cloud of fear. And he was also the cloud, trying to drive the flame away from danger and pain. And he was also the pain, trying to scream out to be heard. He was reaching out for… comfort? No, for… safety? No, not even that. Even just basic safety was way beyond what he could think of right now. He was clinging onto anything that could make him feel like he was in control of what was happening.
 
@@ -352,19 +349,19 @@ Morrow stared at me blankly.
 
 "You'll be able to see Raylie again, without hurting them. You'll be safe. We'll all be able to hang out together."
 
-He wanted it. I could <em>feel</em> him wanting it. But there was something else inside him that was making it impossible. "I'll find my own way!" he insisted. "I can be safe in my own way! And hang out with y'all by myself! I'll be so safe, you won't believe it!!"
+He wanted it. I could <em>feel</em> him wanting it. But there was something else inside him that was making it impossible. "I'll find my own way!" he insisted. "I can be safe in my own way! And I'll hang out with y'all by myself! I'll be so safe, you won't believe it!!"
 
 I decided to ignore the obvious contradiction. I needed to stick to the things that truly mattered. "If you drink this potion, it'll be the best thing for Raylie. I know it's –"
 
 "I – that's – I want –" he began. Then he interrupted himself angrily. "No, no, no! You're not offering me this potion! It's not happening! Your potion doesn't exist!!"
 
-"I know it's hard to face. I know [????? it won't be pleasant for you to lose your powers]. But if you think about everything, it's –"
+"I know it's hard to face. I know it won't be fun for you to lose your powers. But if you think about everything, it's –"
 
 "I'll lose my powers…"
 
 "Yes. I know it's hard, but just think about –"
 
-"Wait a sec, has that ever happened before?! A Raveller without powers!" ????? "I'll be the first one ever, EVER!" ????? Morrow stuck out his hands. "Gimme gimme gimme –"
+"Wait a sec, has that ever happened before?! A Raveller without powers?!" Morrow's eyes lit up. "That's so impossible! No one's ever done this before! I'll be the first one ever, EVER!" I could feel a rush of relief roll off of him, as his Seeking desires suddenly wanted the same thing as his human ones. Morrow stuck out his hands. "Give it to me before I change my mind! Gimme gimme gimme –"
 
 "I don't have it on me!" I laughed. "I left it over there."
 
@@ -410,15 +407,29 @@ When I got close, Alchemist hurried to check on Morrow. It was pretty awkward wi
 
 As Alchemist crouched over him to check his vital signs, Yali looked down at Morrow contemptfully. She frowned. "I don't believe there is any risk that I will attack him again," she said, "but after he wakes up, things will be much easier if he is kept a good distance away from me."
 
+"Sure, we can do that. Right, Alchemist?"
+
+"Oh… yes, I can, keep him away from you…" Alchemist's voice wavered between empathy and resentment. The tension between Yali and Alchemist was tearing my heart into pieces. But both of their emotions were real and important. There was nothing I could do to just make it go away.
+
+<bigbreak>
+
+"I want to move on to the next layer as soon as we're ready," said Yali. "I want to get this over with."
+
+I couldn't disagree with that. This layer was nice and all, but we still had the threat of Justicar to deal with. I couldn't really just enjoy myself while that was hanging over us.
+
+Getting to the portal was simple. All we had to do was walk, in <em>any</em> direction, with the <em>intent</em> to move on to the next layer. If we did that for a couple hours, then wherever we ended up, there would be a portal there.
+
+"You two can walk ahead of us," Yali told Alchemist grumpily. "That way, we won't have to go back for you if Morrow… does Morrow things."
+
+"I can, do that."
+
+So, once Morrow woke up, that was what they did. Yali and I stood at a distance while Alchemist helped Morrow get to his feet. Alchemist spent a while explaining what was going on, then walked away with him. Since Yali had the Watchful Eye on Morrow, it was easy for us to follow them even when they were physically out of sight.
+
 ?????
 
-[????? Probably "Yali using the unravelling potion" is the FIRST point for discussion afterwards]
+[????? Yali says something resentful about Morrow]
 
-[????? "walk in any direction to get the portal". Morrow wakes up. Alchemist goes off with Morrow, they all start walking to the portal. "You two can walk ahead of us," said Yali grumpily. "That way, we won't have to go back for you if Morrow… does Morrow things."]
-
-[????? Is this the right place for Rinn to complain about Yali hating Morrow more than Justicar? Or should this go in the final chapter?]
-
-"Seriously, though, what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always '?????' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
+"Seriously, though, what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always 'she probably wants to fight us in the fifth layer' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
 
 "How long do you think we were in this layer before Morrow attacked you?!" said Yali angrily.
 
