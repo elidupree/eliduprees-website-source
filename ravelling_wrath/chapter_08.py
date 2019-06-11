@@ -546,17 +546,17 @@ Morrow shrugged. "Gay is just who you fuck, right?"
 
 Morrow smirked. "Whaddaya think?"
 
-"I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on." Haha, I had probably made this one girl hate me forever by picking a fight when she wasn't in the fighting like I was. "Or, like, playing sports against her. <em>Girls</em>." I sighed happily.
+"I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on." Haha, I had probably made this one girl hate me forever by picking a fight when she wasn't into fighting like I was. "Or, like, playing sports against her. <em>Girls</em>." I sighed happily.
 
 Then I looked over at Morrow. He was messing with a puzzle box in his hands, not listening to me at all. Haha, should've known not to try to explain anything serious to him.
 
-"You want to play like that?" I laughed. I was about to prank him by manifesting something, but then I remembered I wasn't supposed to be manifesting. So ????? "I'll get you back for that!"
+"You want to play like that?" I laughed. I was about to prank him by manifesting something, but then I remembered I wasn't supposed to be manifesting. So I just waited for a minute, then snuck up behind him and tickled him.
 
+Morrow jumped and dropped the puzzle box he was holding. "I'll get you back for that!" he said.
 
+Pretty soon, we were playing games and painting each other like always. It didn't feel like very long before I heard Yali's voice, calling us to come back around.
 
-[???? Yali interrupts a moment of low tension to call them back around]
-
-?????
+<bigbreak>
 
 When we came back around the star, Alchemist was talking with Yali, quietly but confidently. But as soon as Alchemist saw the rest of us, their eyes locked on to us and they went silent again.
 
@@ -600,15 +600,15 @@ Of course, that wasn't the <em>only</em> potion we got to play with.
 
 "Okay, fine." I didn't want to just carry it in my hand the whole time, so I thought for a moment and then just glued it to the back of my arm. Then I realized that I had basically reinvented the wristwatch, haha.
 
-?????
+I swooped around in the air, doing lots of spins and flips. I couldn't resist doing moves that made my stomach flip around, just to see if I could. I hovered upside down in the air and cruised past the others. "Ha ha, you're all upside down!" I shouted. "People can make flying potions on earth too, can't they? Why don't people fly around all the time?!"
 
-[????? Somewhere in this chapter: Yali having a local copy of an encyclopedia. probably while they're messing with the potions, someone asks a question you'd need to look up the answer to]
+"I think they're expensive?" said Yali. "Like a once-in-a-lifetime vacation thing, not an everyday thing. Let me look it up, though."
 
-?????
+"How are we going to look it up without the Internet?"
 
-I swooped around in the air, doing lots of spins and flips. I couldn't resist doing moves that made my stomach flip around, just to see if I could. I hovered upside down in the air and cruised past the others. "Ha ha, you're all upside down!" I shouted.
+"Oh, I actually downloaded a local copy of an encyclopedia before the Ravelling started…" Yali fiddled around on her phone. "Yes, it says… it's a difficult sorcery because you have to put the drinker's will in control of the movement, and… a lot of people died in flying accidents a couple hundred years ago, so now you have to get a special license to make them, beyond a regular sorcery license, and they always have to be combined with slow-fall potions so you don't fall to your death if the flying runs out while you're up in the air, but combining them makes it even more complex…"
 
-Before long, Yali rose into the air as well. I flew up to her and tried to tempt her into doing some stunts with me, but she just smiled and said it was hard enough keeping her balance. "You gotta have <em>some</em> fun," I said affectionately.
+Before long, Yali drank one of the flying potions herself, and rose into the air. I was a little surprised that Morrow didn't come flying too, but he seemed to want to stay close to Alchemist. I flew up to Yali and tried to tempt her into doing some stunts with me, but she just smiled and said it was hard enough keeping her balance. "You gotta have <em>some</em> fun," I said affectionately.
 
 I wasn't really expecting her to go along with that, but she did. "I'll race you!" she said loudly. Then she zoomed off into space.
 
@@ -741,22 +741,7 @@ I jumped up and hurried to the edge to look along with her.
 
 
 
-
-
-
-
-?????
-
-[????? maybe somewhere something about ages of the ravellers - no, this goes to the end of ch 11]
-
-?????
-
-
-
-
-?????
-
-[???? cut this:]
+[???? cut this:
 
 "We are close to being able to travel to the five portals. But in order to visit them in sequence," said Justicar, pointing at a starmap, "we would have to go either <em>here</em> and then <em>here</em>, or <em>here</em> and then <em>here</em>. But in either direction, we would barely miss a transfer we need to complete the journey. And then the stars that would take us to the last two portals will not return until many days later."
 
@@ -771,9 +756,8 @@ So it was a transparent attempt for the other lovebirds to get some time alone. 
 "You know, we don't have to do what you want us to."
 
 "It is not a matter of what I want. It is a matter of what is wise."
+]
 
-
-?????
 
 <bigbreak>
 

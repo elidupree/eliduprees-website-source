@@ -447,7 +447,9 @@ I gaped at her. "I thought I was doing a good job!! Does <em>everything</em> I d
 
 "WHAAAAAAAAT???" Oh gods, I had forgotten how hardcore Yali was. Suddenly it came rushing back – all my feelings of how much she blew me away. I had, like, NOTHING to worry about as far as forgetting her for Alchemist, haha.
 
+?????
 
+[????? maybe somewhere something about ages of the ravellers]
  
 ''',
 },
