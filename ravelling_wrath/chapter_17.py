@@ -409,7 +409,7 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 "Sure, we can do that. Right, Alchemist?"
 
-"Oh… yes, I can, keep him away from you…" Alchemist's voice wavered between empathy and resentment. The tension between Yali and Alchemist was tearing my heart into pieces. But both of their emotions were real and important. There was nothing I could do to just make it go away.
+"Oh… yes, I can, keep him away from <em>you</em>…" Alchemist's voice wavered between empathy and resentment. The tension between Yali and Alchemist was tearing my heart into pieces. But both of their emotions were real and important. There was nothing I could do to just make it go away.
 
 <bigbreak>
 
@@ -417,19 +417,23 @@ As Alchemist crouched over him to check his vital signs, Yali looked down at Mor
 
 I couldn't disagree with that. This layer was nice and all, but we still had the threat of Justicar to deal with. I couldn't really just enjoy myself while that was hanging over us.
 
-Getting to the portal was simple. All we had to do was walk, in <em>any</em> direction, with the <em>intent</em> to move on to the next layer. If we did that for a couple hours, then wherever we ended up, there would be a portal there.
+Getting to the portal was simple. All we had to do was walk, in <em>any</em> direction, with the <em>intent</em> to move on to the next layer. If we did that for a couple hours, then wherever we ended up, there would be a portal there. Yali wanted us to all walk together, so that we could sit around the portal and make plans for the next layer, then all go through at the same time.
 
 "You two can walk ahead of us," Yali told Alchemist grumpily. "That way, we won't have to go back for you if Morrow… does Morrow things."
 
 "I can, do that."
 
-So, once Morrow woke up, that was what they did. Yali and I stood at a distance while Alchemist helped Morrow get to his feet. Alchemist spent a while explaining what was going on, then walked away with him. Since Yali had the Watchful Eye on Morrow, it was easy for us to follow them even when they were physically out of sight.
+So, once Morrow woke up, that was what they did. Yali and I stood at a distance while Alchemist helped Morrow get to his feet. Alchemist spent a while explaining what was going on, then walked away with him. Since Yali had put the Watchful Eye on Morrow, it was easy for us to follow them even when they were physically out of sight.
 
-?????
+"I kind of wish I hadn't…" muttered Yali as we walked. "Now I can see him all the time, even when I don't want to. Which is always."
 
-[????? Yali says something resentful about Morrow]
+"Wow. That sucks."
 
-"Seriously, though, what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always 'she probably wants to fight us in the fifth layer' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
+"It was the right decision at the time…" she grumbled.
+
+We walked together slowly, holding hands and bumping shoulders together. It didn't matter how fast we walked, because it was all magic anyway.
+
+"Seriously, though," I said, "what's up with you hating Morrow more than Justicar? I mean, when you talk about Justicar, it's always 'she probably wants to fight us in the fifth layer' and 'we must be prepared to confront her', but with Morrow it's 'maybe he SHOULD be killed!' and 'so I'm probably not going to murder him, like, RELUCTANTLY' – I mean, I get that what Morrow did was bad, but Justicar almost KILLED me! Her sword was literally in my chest!"
 
 "How long do you think we were in this layer before Morrow attacked you?!" said Yali angrily.
 
