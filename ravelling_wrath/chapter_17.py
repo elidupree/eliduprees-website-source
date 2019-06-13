@@ -613,7 +613,7 @@ Morrow smiled back at me. "Fuck you," he said.
 
 I ran to meet up with the others.
 
-We ended up deciding to switch back – me walking with Yali, and Alchemist walking with Morrow, once they could coax Morrow into getting up.
+We ended up deciding to switch back – me walking with Yali, and Alchemist walking with Morrow. Once they could coax Morrow into getting up, that is.
 
 As soon as Alchemist was out of sight, Yali turned to face me.
 
@@ -667,15 +667,21 @@ I had wanted to argue back, but against the thunder of her words, I didn't feel 
 
 And the worst part was, she wasn't wrong.
 
-"Well… fuck," I said. "I, uh, I didn't mean to criticize it. I mean, I guess I did, but, uh… fuck. I'm sorry. I'm just… Alchemist doesn't deserve this."
+"Well… fuck," I said. "I, uh, I didn't mean to criticize you. I mean, I guess I did, but, uh… fuck. I'm sorry. I'm just… Alchemist doesn't deserve this."
 
 Yali looked away. "We all trample over the Broken to get what we want." It was an old saying.
 
 "It shouldn't have to be that way," I said.
 
-Yali didn't answer. Instead, she looked out at the world around us. I followed her gaze. There were the boldest protrusions of land that Morrow had made when I was bringing him the potion, with trees pointing almost completely sideways after the ground had moved under them. Further in the distance, I could still make out the black cloud, slowly dispersing, that had risen when the trees charred from my scream. ?????
+Yali didn't answer. Instead, she looked out at the world around us. I followed her gaze. There were the bulbous protrusions of land that Morrow had made when I was bringing him the potion, with trees pointing almost completely sideways after the ground had moved under them. Further in the distance, I could still make out the black cloud, slowly dispersing, that had risen when the trees charred from my scream. And somewhere out there was the river of blood, too…
 
-[????? Is alchemist the only one who didn't hurt anybody?]
+It was true. We had scrawled our feelings right on top of the Broken God's world. Because we were in pain, because we were fighting each other… "Humans shouldn't have to fight and kill each other…" I said. "<em>Gods</em> shouldn't be fighting and killing each other…"
+
+"I know."
+
+"Oh gods, is Alchemist the only one who doesn't…?"
+
+"Hmm?"
 
 "Justicar stabbed me. Morrow did… that thing, to me and Alchemist. <em>I</em> stabbed <em>you</em>…"
 
