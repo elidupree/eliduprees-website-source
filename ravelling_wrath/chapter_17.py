@@ -549,27 +549,55 @@ Morrow looked back at me with a blank expression, his eyes exhausted. "You think
 
 "What do you mean?"
 
-"I [????? hurt people] before I was ever in the Otherworld. Still think I'm [????? not horrible] now?" He said it in a tone as if it proved him right.
+"I was a psycho before I was ever in the Otherworld. I hurt animals, I stole from good people. Still want to be all nice to me now?" He said it in a tone as if it proved him right.
 
-"Uh, yes?? So what if you've got some bad things you did in your past! After everything those people did to you I'm glad you're <em>alive</em>, ?????
+"Uh, yes?? So what if you've got some bad things you did in your past! After everything those people did to you I'm glad you're <em>alive</em>, never mind trying to –"
 
 "She told you too, did she?"
 
 Belatedly, I realized I shouldn't have assumed that Morrow knew about Yali seeing his memories. Although, given what he said, it looked like he'd already heard about it from Alchemist.
 
-[????? Morrow realizes that Rinn knows everything and isn't treating him like trash. Maybe he challenges her by saying something he thinks is really bad, but actually makes him look more like the victim. "So… You know about everything…]
+"Uh… yeah," I said awkwardly.
+
+"Then she told you how I tried to drown the neighbors' dog –"
+
+"Yeah, she said you were just mimicking the behaviors you saw from your dad, you're not –"
+
+"What about Jaroc? He was a good kid! He was generous! We were together for months, we slept under the same blanket when it was cold! But one night when he was sleeping, I took all his money and left him there! I never saw him again, I don't know if he's alive or –"
+
+Yali had mentioned someone like that. "You were hungry! I'm not gonna judge –"
+
+Morrow stopped walking. He shook, frustration fighting against despondency. "Why won't you just believe how bad I am?!" he blurted. "I've always hurt everyone around me! When I was a kid it was my mom and dad, when I –"
+
+"Isn't your dad the one who abused you? Who gives a shit what happens to him?!"
+
+"I'm the one who made him angry. I knew I was making him angry, and I still –"
+
+I gaped at him. "Is that all you've got?!" I snapped. "If you're trying to make yourself look like the bad guy, you're doing a shit job of it! Are you gonna get on with telling me something actually bad, or is it just more of this stuff where the real victim is you?"
+
+Morrow stared at me blankly.
+
+"You got a raw deal!" I said. "I <em>care</em> about people who got a raw deal!"
+
+Morrow shook his head repeatedly, as if he was trying to shake my words off of him. But he couldn't. His eyebrows pinched together, his face covered with a slow stress. It somehow made me feel bad for him even more than everything from before.
+
+"So…" he said emotionlessly, "you know about everything… and you're not treating me like trash…"
+
+"Of course I'm not!"
 
 "You're –" Morrow's voice broke into a breathy whine. "You're stupid! Stupid, stupid, stupid!" He burst into tears.
 
-"
+<bigbreak>
 
-[????? Morrow sobs and curls up on the ground/maybe just sitting?]
+I idly scuffed my feet in the dirt.
 
-"Hey, uh… so, I'm not against lying down and crying for hours, but
+Morrow was sitting with his back against a tree and his knees curled up to his chest. He hadn't said anything for a while, mostly just sobbing. I wasn't quite sure what to do with him. It definitely felt like he was getting a big emotional release, in a good way. But his emotions weren't <em>my</em> emotions, and I still didn't know how to relate to them.
 
-?????
+After a while, I stepped up to him and put my hand on his shoulder. "Hey, uh… so, I'm not against curling up and crying for hours, but we should probably get moving again before Yali catches up to us. I don't want to make her – to make you two have to be in the same place with each other."
 
-"Listen, when you get back to earth, –" I began. I wasn't completely sure where I was going with this. I'd kind of been planning to tell him to go get a therapist, but it was kind of hard to imagine him opening up to a therapist. Worse, therapists cost money, and I wasn't sure if Morrow had much money. We needed some sort of <em>free</em> public therapist. Or actually, what we needed was someone who was in charge, not like someone telling him what to do, but in like someone with the authority to give him a place to live and food to eat while he got his life sorted out. Or being able to say "you deserve support, you deserve forgiveness, you can find a new purpose in life" and have it <em>count</em> because what they said was the sacred truth –
+Morrow moaned and shivered.
+
+"That's okay, I get it. You've got a lot to handle." I hesitated for a bit. "Listen, when you get back to earth, –" I began. I wasn't completely sure where I was going with this. I'd kind of been planning to tell him to go get a therapist, but it was a little hard to imagine him opening up to a therapist. Worse, therapists cost money, and I wasn't sure if Morrow had much money. We needed some sort of <em>free</em> public therapist. Or actually, what we needed was someone who was in charge, not like someone telling him what to do, but like someone with the authority to give him a place to live and food to eat while he got his life sorted out. Someone who could say "you deserve support, you deserve forgiveness, you can find a new purpose in life" and have it <em>count</em> because what they said was the sacred truth –
 
 Sacred? Oh, duh. What I was thinking of was a <em>priest</em>.
 
@@ -579,17 +607,17 @@ It dawned on me like it was obvious, like remembering something I'd known foreve
 
 But there were no Blood priests now. And there was an aching hole in the city where the Blood Temple should be. It was the city's heart, and without it, the city was slowly bleeding its warmth away. How many people had suffered and died without the Blood Temple to hold them up? How many people had thought they <em>deserved</em> their suffering, growing up with the Stern as the only word of right and wrong? Now I was crying, too. To finally, fully realize it… seventy years of children growing up without Blood… Tears flowed freely down my cheeks. It was too much. Too great a violation. A hole too deep to even see the sky.
 
-I sat down with Morrow. I adjusted myself so I could put my arms around his shoulders, gently pulling him to lean on me. He sniffled and shook. We cried together, taking a long moment, silent except for the occasional times when I pulled tissues out of thin air for both of us to blow our noses in.
-
 Morrow…
 
 I could think about the city more later. Right now, Morrow needed help, and he was right in front of me. He needed the Blood God, and I was here.
+
+I sat down with Morrow. I adjusted myself so I could put my arms around his shoulders, gently pulling him to lean on me. He sniffled and shook. We cried together, taking a long moment, silent except for the occasional times when I pulled tissues out of thin air for both of us to blow our noses in.
 
 "Morrow…" I said gently, "I'm not sure I know how to do this, but… I can tell how you're feeling."
 
 "Nice trick, how'd you pull it off?" said Morrow sulkily. He didn't believe me.
 
-"Magic, actually, I think it's a Blood Child power. It just started happening in this layer. Whenever there's a part of you that's crying out to be heard, I can hear it, even if you don't say it out loud. And right now… [????? List of parts] [each of them means something]"
+"Magic, actually, I think it's a Blood Child power. It just started happening in this layer. Whenever there's a part of you that's crying out to be heard, I can hear it, even if you don't say it out loud. And right now… the loudest one is… I can hear you crying out that…" I concentrated, trying to interpret it. I couldn't literally hear words like a voice talking, it was more like a feeling that I had to put into words myself. "…that you need to get moving, that just sitting around here makes you pathetic. You're not pathetic, but that feeling is real, and it means something. And there's another part of you saying that I have to be wrong, that you have to be a bad person, because… because that's the only thing you have to hold onto about yourself. You're not a bad person, but that feeling is real, and it means something. It means ?????. That's not a bad thing. [????? List of parts] [each of them means something]"
 
 I put my hand on Morrow's heart. "And this is your heart. Feel how it keeps beating, no matter what happens. This is your strength. It's how you can take every feeling, and feel it, completely. And feel the meaning completely. And then keep fighting on."
 
@@ -599,7 +627,7 @@ Morrow sobbed, curling into a fetal position in my arms. "I don't want to keep f
 
 "It means I'm fucked up."
 
-"– It means you're reaching out for a way to escape from the pain. You're reaching out for safety. For comfort. That's not a bad thing. I want you to find safety and comfort, the safety and comfort that you deserve, that we all deserve, everyone who has blood." ????? "[????? You have the strength of a god in your heart/look to your heart. The Blood God is there"]
+"– It means you're reaching out for a way to escape from the pain. You're reaching out for safety. For comfort. That's not a bad thing. I want you to find safety and comfort, the safety and comfort that you deserve. That we all deserve, everyone who has blood." ????? "[????? You have the strength of a god in your heart/look to your heart. The Blood God is there"]
 
 ?????
 
@@ -735,7 +763,7 @@ I was about to complain about "second", but it was true. We both knew that [????
 
 "She's never gonna believe that! She thinks the Stern God is perfect, she probably thinks it can't even <em>be</em> tricked. You've gotta say it like <em>she</em> was the one who got tricked, she's always talking about how <em>she</em> isn't perfect –"
 
-We spent the next few hours in a long argument about how to change Justicar's mind. It wasn't the worst argument, but it was frustrating, because we kept all of you talking past each other. We were making completely different assumptions about how Justicar's mind worked. By the end, I felt like I knew even less about Justicar than I had before. And Yali didn't seem very confident either.
+We spent the next few hours in a long argument about how to change Justicar's mind. It wasn't the worst argument, but it was frustrating, because we kept talking past each other. We were making completely different assumptions about how Justicar's mind worked. By the end, I felt like I knew even less about Justicar than I had before. And Yali didn't seem very confident either.
 
 In the end, Yali settled on a few strategies to try if we got the chance. Neither of us thought they were that likely to work. But I couldn't really think of anything better.
 
