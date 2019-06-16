@@ -571,7 +571,7 @@ Morrow stopped walking. He shook, frustration fighting against despondency. "Why
 
 "Isn't your dad the one who abused you? Who gives a shit what happens to him?!"
 
-"I'm the one who made him angry. I knew I was making him angry, and I still –"
+"I'm the one who made him angry. If it wasn't for me, then he –"
 
 I gaped at him. "Is that all you've got?!" I snapped. "If you're trying to make yourself look like the bad guy, you're doing a shit job of it! Are you gonna get on with telling me something actually bad, or is it just more of this stuff where the real victim is you?"
 
@@ -607,17 +607,17 @@ It dawned on me like it was obvious, like remembering something I'd known foreve
 
 But there were no Blood priests now. And there was an aching hole in the city where the Blood Temple should be. It was the city's heart, and without it, the city was slowly bleeding its warmth away. How many people had suffered and died without the Blood Temple to hold them up? How many people had thought they <em>deserved</em> their suffering, growing up with the Stern as the only word of right and wrong? Now I was crying, too. To finally, fully realize it… seventy years of children growing up without Blood… Tears flowed freely down my cheeks. It was too much. Too great a violation. A hole too deep to even see the sky.
 
+I sat down with Morrow. I adjusted myself so I could put my arms around his shoulders, gently pulling him to lean on me. He sniffled and shook. We cried together, taking a long moment, silent except for the occasional times when I pulled tissues out of thin air for both of us to blow our noses in.
+
 Morrow…
 
 I could think about the city more later. Right now, Morrow needed help, and he was right in front of me. He needed the Blood God, and I was here.
-
-I sat down with Morrow. I adjusted myself so I could put my arms around his shoulders, gently pulling him to lean on me. He sniffled and shook. We cried together, taking a long moment, silent except for the occasional times when I pulled tissues out of thin air for both of us to blow our noses in.
 
 "Morrow…" I said gently, "I'm not sure I know how to do this, but… I can tell how you're feeling."
 
 "Nice trick, how'd you pull it off?" said Morrow sulkily. He didn't believe me.
 
-"Magic, actually, I think it's a Blood Child power. It just started happening in this layer. Whenever there's a part of you that's crying out to be heard, I can hear it, even if you don't say it out loud. And right now… the loudest one is… I can hear you crying out that…" I concentrated, trying to interpret it. I couldn't literally hear words like a voice talking, it was more like a feeling that I had to put into words myself. "…that you need to get moving, that just sitting around here makes you pathetic. You're not pathetic, but that feeling is real, and it means something. And there's another part of you saying that I have to be wrong, that you have to be a bad person, because… because that's the only thing you have to hold onto about yourself. You're not a bad person, but that feeling is real, and it means something. It means ?????. That's not a bad thing. [????? List of parts] [each of them means something]"
+"Magic, actually, I think it's a Blood Child power. It just started happening in this layer. Whenever there's a part of you that's crying out to be heard, I can hear it, even if you don't say it out loud. And right now… the loudest one is… I can hear you crying out that…" I concentrated, trying to interpret it. I couldn't literally hear words like a voice talking, it was more like a feeling that I had to put into words myself. "…that you need to get moving, that just sitting around and crying makes you pathetic. It doesn't make you pathetic, but that feeling is real, and it means something. And there's another part of you crying out that I have to be wrong, that you have to be a bad person, because… because that's the only thing you know how to hold onto about yourself. You're not a bad person, but that feeling is real, and it means something. It means you want a sense of identity, something to call your own. That's not a bad thing. I want you to have that, too. And there's another part of you crying out that you don't need any of that, that you just need to not have any feelings, to not ask anyone for help. Everyone has feelings, and everyone needs help sometimes, but that feeling is real, and it means something. It means you want to be strong, you want to be able to fight for yourself. I want you to have that, too. And there's another part of you… actually, there's a lot more parts of you… and they're all real. They all mean something."
 
 I put my hand on Morrow's heart. "And this is your heart. Feel how it keeps beating, no matter what happens. This is your strength. It's how you can take every feeling, and feel it, completely. And feel the meaning completely. And then keep fighting on."
 
@@ -627,13 +627,21 @@ Morrow sobbed, curling into a fetal position in my arms. "I don't want to keep f
 
 "It means I'm fucked up."
 
-"– It means you're reaching out for a way to escape from the pain. You're reaching out for safety. For comfort. That's not a bad thing. I want you to find safety and comfort, the safety and comfort that you deserve. That we all deserve, everyone who has blood." ????? "[????? You have the strength of a god in your heart/look to your heart. The Blood God is there"]
+"– It means you're reaching out for a way to escape from the pain. You're reaching out for safety. For comfort. That's not a bad thing. I want you to find safety and comfort, the safety and comfort that you deserve. That we all deserve, everyone who has blood." I pulled him closer in my lap. He wasn't trying to argue back. I could tell that my words were sinking in. "And I know it won't be easy. But I know you can find it. Just look to your heart. The Blood God will always be there. It will lend you its strength whenever you're ready to ask for it. And –" I took his hand and placed it on my own heart. "– And it's inside me, too. We're all connected. The Blood God ties us all together."
+
+[????? Medium length physical description, cozy]
+
+Finally, Morrow spoke. "No, no, no, I don't believe you…" he said. But he was almost laughing as he said it. It was like he was just saying it to say it, going through the motions of denying it because that was what he always did. He twisted around and gave me an awkward hug, squeezing me tight. He looked me in the eye, his face still puffy from crying, but now awash with emotional relief. "Everything you just said is bullshit, and I hate you," he laughed. "
 
 ?????
 
-[????? The others are catching up]
+In the distance, I heard the crunch of leaves. It became a small and steady pattern, coming closer.
 
-I clapped him on the back. "Just keep your head out of the blender, okay?"
+"That'll be Yali and Alchemist," I said gently. "Do you think you're okay to let go of me for a bit?"
+
+"No, I'll never let you go, I hold on to you for eternity," he said, as he loosened his grip.
+
+"Thanks." I climbed to my feet, shrugging my way out of his arms. Before I went to meet the others, I paused and looked back down at him. "You're gonna make it," I said. I clapped him on the back. "Just keep your head out of the blender, okay?"
 
 Morrow smiled back at me. "Fuck you," he said.
 
@@ -707,7 +715,7 @@ It was true. We had scrawled our feelings right on top of the Broken God's world
 
 "I know."
 
-"Oh gods, is Alchemist the only one who doesn't…?"
+"Oh gods, is Alchemist the only one who didn't…?"
 
 "Hmm?"
 
