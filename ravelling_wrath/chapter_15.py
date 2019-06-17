@@ -410,11 +410,11 @@ As Yali spoke, Alchemist wrung their hands, overwhelmed with anxiety. Wordlessly
 
 "No. I know. I'm listening too."
 
-Across from us, Yali continued talking. The hint of cruelty was gone. She had turned cold again, brutally matter-of-fact. "It wasn't just beatings. His father locked him in his room and starved him for days at a time. I had suspected something like that. He constantly berated him, calling him worthless trash. More than once, he nearly drowned him, to the point that he was coughing up water.
+Across from us, Yali continued talking. The hint of cruelty was gone. She had turned cold again, brutally matter-of-fact. "It wasn't just beatings. His father locked him in his room and starved him for days at a time. I had suspected something like that. He constantly berated him, calling him worthless trash. More than once, he nearly drowned him in the kitchen sink, to the point that he was coughing up water.
 
 "It is hard to get a clear view of the rest of his life. I am used to looking through the old Farseers' memories, but this is much less organized. We Farseers have more organized minds than most people, but I believe Morrow is much worse than even a normal person. It's probably because he avoids thinking about his own past. He never looks back and makes the connections between his different memories. To make this work, I will have to make the connections myself.
 
-"I assume that Morrow was an unwanted child. His mother was terrified of his father. I see her being too afraid to stand up to him even in the smallest way. And Morrow's father treats Morrow as an object to be used. I see him bringing Morrow to a series of 'uncles', who molested him. It seems that his father sold him to them as a –"
+"It seems likely that Morrow was an unwanted child. His mother was terrified of his father. I see her being too afraid to stand up to him even in the smallest way. And Morrow's father treats Morrow as an object to be used. I see him bringing Morrow to a series of 'uncles', who molested him. It seems that his father sold him to them as a –"
 
 "That's too much!" I blurted out, horrified, still holding on tight to Alchemist. "How could so many horrible things happen to one person –"
 

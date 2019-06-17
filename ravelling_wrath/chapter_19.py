@@ -223,7 +223,7 @@ After nine hours, I came to another obstacle. Ahead of me, the road was interrup
 
 Once again, I wanted to go around the problem. But as I looked to the left and right, the crevice went on as far as I could see. It might have even formed a complete circular moat around the location of the portal. One way or another, I would have to cross over it.
 
-I stood near the edge and thought about my options.
+I stood near the edge and thought about my options. Earlier, through the Watchful Eye, I had seen Morrow and Alchemist get across this crevice, but they had used Alchemist's potions of flight. I had brought one of those, but I had used it in the fight, and I have no way to contact them to get more. I would have to get past this by myself.
 
 Could I manifest a hot air balloon? No… even if I could do that, I wouldn't know how to land it without jostling Rinn. Besides, Rinn had said that we wouldn't "get closer to the heart" unless we moved using our own bodies. Would it count as using my own body if I used my arms to operate an engine that carried me…? How did Rinn even know what counted and what didn't? If she was awake, she'd probably say it was obvious, like you could feel it with your body or something.
 
@@ -233,7 +233,9 @@ Either way, flying across probably wouldn't be practical.
 
 ?????
 
-I would have to figure out how to do the large-scale manifesting Rinn and Justicar had been doing.
+[????? It just wasn't possible to manifest that much.] Unless…
+
+Rinn had manifested that huge stone hand and that golden bridge earlier. It could have been a Blood Child power, but it didn't feel like it. It was probably an aspect of the Blood God's <em>world</em>, just like how the weather in the Broken God's world responded to people's unconscious emotions. If something about this <em>world</em> made it possible to manifest at a huge scale, then I might be able to do it, too.
 
 I stood and held out my arms, copying the way Rinn usually stood to manifest. How did she do it? What kind of feelings did she draw on when she was making that golden bridge? She was probably just completely confident. She could probably unleash the full power of her soul, without trying at all. The problem was, that wasn't me.
 
@@ -241,21 +243,19 @@ I had to try.
 
 In my mind, I visualized a bridge in front of me, a steel structure that would span all the way across the crevice. Then I focused my will on making it real. Like before, it flickered into existence, but then flickered out again. I stayed calm and focused, trying to make it stable. But it was too weak. I pushed with my mind, but it failed to become real.
 
-I stared at the crevice for many minutes, trying each variation I thought of. First I tried to push harder with my mind. When that didn't work, I tried to push more gently. I tried to build the bridge a little at a time, but it got harder and harder the more I added. I ended up with something that didn't even reach a quarter of the way across. I was clearly missing something. When Rinn had done it, it felt like she wasn't trying at all. So I tried not trying at all, just waving my hand and expecting the bridge to appear for me. Again, nothing happened.
+I stared at the crevice for many minutes, trying each variation I thought of. First I tried to push harder with my mind. When that didn't work, I tried to push more gently. I tried to build the bridge a little at a time, but it got harder and harder the more I added, and I ended up with something that didn't even reach a quarter of the way across. I was clearly missing something. When Rinn had done it, it felt like she wasn't trying at all. So I tried not trying at all, just waving my hand and expecting the bridge to appear for me. Again, nothing happened.
 
-A shred of impatience broke out of me.
+A shred of impatience slipped in from the back of my mind.
 
 The instant it did, the bridge was real. The instant I got myself under control again, it was gone.
 
-I tried to do it again, allowing the impatience to come forward. I glared at the crevice, forcing the bridge to appear again. It did, if unsteadily. Now all I had to do was to stabilize it, to find a way to sustain the impatient feeling long enough to finish the bridge, but not to lose control –
+Was that impatient feeling the way to do the manifesting? I tried to do it again, allowing the impatience to come forward. I glared at the crevice, forcing the bridge to appear again. It did, if unsteadily. Now all I had to do was to stabilize it, to find a way to sustain the impatient feeling long enough to finish the bridge, but not to lose control –
 
 When I looked, the bridge was gone again. Even with the impatience still at the forefront of my mind, the bridge had disappeared the moment I felt like I could regulate it.
 
 So that was how it was.
 
-I should have known. This was the Blood God's world. It would want us to unleash our feelings, not to regulate them. ?????
-
-?????
+I should have known. This was the Blood God's world. It would want us to unleash our feelings, not to regulate them. Well, if that was what I needed to do, I could do that.
 
 I had many choices of which feelings to unleash. It probably wasn't correct to use the impatience. It wasn't an especially strong feeling, which probably made it "not my true feelings" to the Blood God, or something like that. My true feelings were… well, there was the pain, but I wasn't sure how I would make a bridge with that. I needed something that was intense, but also strong, capable of –
 
@@ -263,11 +263,17 @@ I <em>definitely</em> had one of those. It was already rising to my mind. I had 
 
 It would be so easy, so satisfying, to let the feeling take over. For the moment, I held it back. It would probably be a good idea to put Rinn at a safe distance. Concentrating, I rolled her wagon far away from the edge. Then I walked back alone, to stand at the edge of the crevice, glaring at the city. Did it want me to unleash my feelings? Fine, then. I <em>would</em>.
 
-A bridge. I <em>could</em> make a bridge. But why should I just adapt to the world when <em>it</em> had never adapted to <em>me</em>? I raised my arm like a claw. I would show the Blood God what would happen if you tried to control Yali Seti. I reached out my will and tore into the ground on the other side of the crevice. Under the force of my manifesting, concrete cracked and collapsed, buildings crumbled, and the waste slowly slid and fell into the hole. What had Rinn said? "Every human is the equal of the entire world"? How misguided. I was <em>better</em> than this world. Rinn and I were the only things that mattered. Everything else here, from this despicable crevice standing in my way, to the crumbling temple buildings that had never done me any good anyway, was worthless. They didn't <em>deserve</em> for me to <em>allow</em> them to remain standing.
+A bridge. I <em>could</em> make a bridge. But why should I just adapt to the world when <em>it</em> had never adapted to <em>me</em>? I raised my arm like a claw. I would show the Blood God what would happen if you tried to control Yali Seti. I reached out my will and crushed the ground on the other side of the crevice. Under the force of my manifesting, concrete cracked and collapsed, buildings crumbled, and the waste slowly slid and fell into the hole. What had Rinn said? "Every human is the equal of the entire world"? How misguided. I was <em>better</em> than this world. Rinn and I were the only things that mattered. Everything else here, from this insulting crevice standing in my way, to the crumbling temple buildings that had never done me any good anyway, was worthless. They didn't <em>deserve</em> for me to <em>allow</em> them to remain standing.
 
-I felt a pressure pushing back at me. I could tell what <em>that</em> meant. The Blood God didn't <em>like</em> me calling the world worthless. But I didn't care what it liked. I pushed past its resistance, toppling building after building into the pit. <em>You tried to kill me, you put the one I love through so much pain, and now you <strong>dare</strong> tell me how to feel? We may have a truce, but you have no right to speak to me.</em>
+I felt a pressure pushing back at me. I could tell what <em>that</em> meant. The Blood God didn't <em>like</em> me calling its world worthless. But I didn't care what it liked. I pushed past its resistance, toppling building after building into the pit. <em>You tried to kill me, you put the one I love through so much pain, and now you <strong>dare</strong> tell me how to feel? We may have a truce, but you have no right to speak to me.</em>
 
-[????? Yali finishes filling the crevice with waste, then flattens it into a road and walks across, eventually cooling down and expressing a more balanced view of the Blood God. In particular, she realizes that if she wants the Waiting God to feel guilt and to change, she has to make that be part of herself, and so making "change in how I feel about the Blood God" is as important as it is problematic]
+Mountains of waste piled up in the pit as I expanded my swath of destruction. At last, the heap grew to the very lip of the crevice. <em>That</em> was my bridge. I flattened it down, tamping it into place with a titanic fist of force.
+
+Was it done? It seemed to be done. That was a relief. Now that I didn't need to feel that way anymore, I was aware of how much anxiety it had given me. I hurried to force the dangerous feeling back out of my mind. Then I walked to fetch Rinn's wagon.
+
+While I wheeled Rinn across the "bridge" I'd made, I tried to clear my head from the feelings it had brought up. ?????
+
+?????
 
 I had resented the Blood God. I had seen it as getting in my way, interfering with me. My hands began shaking as I realized it. That was how the Waiting God felt. I would never be able to change the Waiting God if my own soul had the same judgments inside it.
 
@@ -367,9 +373,9 @@ But now that it was over, now that I had a chance to think about what to do now�
 
 I hadn't stopped to think that I might need Rinn as a resource to help <em>me</em> with <em>my</em> emotions. For all the futures I'd considered, the thought hadn't even entered by mind. And now it was coming back to haunt me.
 
-An old saying came to mind: <em>No matter how many things you plan for, you've never planned enough for the Waiting.</em> It meant you should never get complacent. But it also meant [????? that it wasn't your fault if you sometimes make a mistake.
+An old saying came to mind: <em>No matter how many things you plan for, you've never planned enough for the Waiting.</em> It meant you should never get complacent. But it also meant that mistakes were inevitable. When you missed something, it might mean that you were doing a bad job, but it might also mean that you were doing a good job and just couldn't get lucky every time. It didn't have to be your fault.
 
-It wasn't my fault.]
+I had had good reasons for what I did. It wasn't my fault.
 
 I shoved myself up into a sitting position. My hands hurt from pushing hard on the rough iron. I manifested a handkerchief and blotted away my tears.
 
