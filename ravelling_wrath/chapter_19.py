@@ -113,7 +113,7 @@ It could not see the truth of our city.
 [????? Possibly cut, maybe move: It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.]
 
 
-The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always ?????, it did not always follow where we landed, but we showed it to the shape of what it could be coming, and it would always return to that shape in the end.
+The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always ?????, it did not always follow where we led, but we showed it to the shape of what it could become, and it would always return to that shape in the end.
 
 
 Within our oversight, three other forces struggled to guide the city, each with their own shortsighted fragments of wisdom.
@@ -215,17 +215,21 @@ I manifested a giant pair of tongs to grab things from the floor, and began stea
 
 My body was sufficiently rested again. I forced myself to my feet and began to walk again.
 
-Most of the journey was not difficult. I only had to endure the soreness of my legs, from the walking, and my arm, from hauling Rinn in the wagon, and my eyes, from the constant glare that I couldn't block even with a visor. It was all unimportant. What mattered was reaching the black dot in the distance, the final portal.
+Most of the journey was not difficult. I only had to endure the soreness of my legs, from the walking, and my arms, from hauling Rinn in the wagon, and my eyes, from the constant glare that I somehow couldn't keep out of my sight, even when I wore a visor. It was all unimportant. What mattered was reaching the black dot in the distance, the final portal.
 
-[????? Yali comes to a huge crevice in the ground]
+The road was wide and rose steadily uphill. Here, it was long and straight, letting me see far into the distance. I picked out a tower near the end of my vision, and when I counted the time as I walked there, it took me most of an hour to reach it. When I did, I picked out another landmark and counted the time again.
 
-This was a problem. I had to keep going towards the portal, but I couldn't think of a way across the crevice. It was too wide for me to manifest a bridge across it. The edges were too steep for me to cart Rinn down one side and up the other.
+After nine hours, I came to another obstacle. Ahead of me, the road was interrupted by a huge crevice. This was a problem. I had to keep going towards the portal, but I couldn't think of a way across the crevice. It was too wide for me to manifest a bridge across it. The edges were too steep for me to cart Rinn down one side and up the other. Looking down, I saw the remains of multistory basements embedded in the crevice wall. Judging by the depth of the basement, the crevice was at least ten stories deep, maybe more.
 
-?????
+Once again, I wanted to go around the problem. But as I looked to the left and right, the crevice went on as far as I could see. It might have even formed a complete circular moat around the location of the portal. One way or another, I would have to cross over it.
+
+I stood near the edge and thought about my options.
 
 Could I manifest a hot air balloon? No… even if I could do that, I wouldn't know how to land it without jostling Rinn. Besides, Rinn had said that we wouldn't "get closer to the heart" unless we moved using our own bodies. Would it count as using my own body if I used my arms to operate an engine that carried me…? How did Rinn even know what counted and what didn't? If she was awake, she'd probably say it was obvious, like you could feel it with your body or something.
 
 It wasn't obvious to <em>me</em>.
+
+Either way, flying across probably wouldn't be practical.
 
 ?????
 
@@ -235,7 +239,7 @@ I stood and held out my arms, copying the way Rinn usually stood to manifest. Ho
 
 I had to try.
 
-In my mind, I visualized a bridge in front of me, a steel structure that word span all the way across the crevice. Then I focused my will on making it real. Like before, it flickered into existence, but then flickered out again. I stayed calm and focused, trying to make it stable. But it was too weak. I pushed with my mind, but it failed to become real.
+In my mind, I visualized a bridge in front of me, a steel structure that would span all the way across the crevice. Then I focused my will on making it real. Like before, it flickered into existence, but then flickered out again. I stayed calm and focused, trying to make it stable. But it was too weak. I pushed with my mind, but it failed to become real.
 
 I stared at the crevice for many minutes, trying each variation I thought of. First I tried to push harder with my mind. When that didn't work, I tried to push more gently. I tried to build the bridge a little at a time, but it got harder and harder the more I added. I ended up with something that didn't even reach a quarter of the way across. I was clearly missing something. When Rinn had done it, it felt like she wasn't trying at all. So I tried not trying at all, just waving my hand and expecting the bridge to appear for me. Again, nothing happened.
 
@@ -309,17 +313,17 @@ But the Waiting was in my nature. To achieve my goals, I would always do what I 
 
 Decisively, I brought it forward.
 
-The sun was glaring in my eyes. It was hard to breathe. There was a lot of pain in my head. A lot of emptiness. I didn't know how to handle it. ?????
+The sun was glaring in my eyes. It was hard to breathe. There was a lot of pain in my head. A lot of emptiness. I didn't know how to handle it. I wanted to force it to go away again. But that would go against my goals. So I left it there.
 
-My eyes were crying again. It hurt. Was this what the Blood God wanted? Was it Blood to just have all this pain? With Blood, the pain was supposed to <em>mean</em> something.
+My eyes were crying again. It hurt. Was this what the Blood God wanted? Was it Blood to just have all this pain? With Blood, the pain was supposed to <em>mean</em> something. But I didn't feel like there was any meaning at all. I needed to do something Blood, but there was nobody here to tell me what that was. I would have to figure it out by myself.
 
-Why? Why did it always have to be me? Why did I have to do all the work when everyone else could only see what was right in front of them? ?????
+Why? Why did it always have to be me? Why did I have to do all the work when everyone else could only see what was right in front of them? Hadn't I worked hard enough for one lifetime just to escape the ????s? Hadn't I worked hard enough for two lifetimes just to keep Rinn and me alive? ?????
 
 Just sitting here and thinking about this, it all felt so unfulfilling. I wanted something more. What did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the ground, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
 
 Why couldn't I do it? When I tried, there was a haze in my mind, holding me back. I felt like the world was closing in on me. What was this feeling? It was like I was terrified of… something. Or, that <em>was</em> the feeling. I was terrified.
 
-It didn't make sense for me to be afraid of this! Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! Right now, their was no immediate danger, so it made no sense to be afraid of taking some time to feel things! Wasn't I Yali Seti? Hadn't I let someone stab a blade through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
+It didn't make sense for me to be afraid of this! Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! Right now, there was no immediate danger, so it made no sense to be afraid of taking some time to feel things! Wasn't I Yali Seti? Hadn't I let someone stab a blade through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
 
 I stared at the paving stones. I needed to think. I knew I was missing something important, I just couldn't see what.
 
@@ -329,7 +333,7 @@ If only I understood the fear better. Then maybe somehow a meaning would show up
 
 A stray tear dropped from my face onto my hand. I brought the fear forward.
 
-[????? Check ages if I change them] I was six years old, I wanted to just go to bed but I couldn't, I had to check everything, I had to check the cooktop so no one would get burned again and mom wouldn't be anxious. I was eight years old in my room, I wanted to scream but I couldn't, it would wake dad and he would come yell at me, I had to make sure to only feel things when I was outside the house or they would both yell about how worthless I was, I was not worthless, I was worth more than <em>their</em> pathetic lives! I was twelve years old, I wanted to check my recording to make sure it had worked, but I couldn't, I had to wait until we were all in bed and use one earbud to make sure they didn't overhear. If I ever forgot, if I ever acted on my feelings, it could be the one mistake that ruined everything, I could be caught, everything I worked for could amount to nothing, I could die. Rinn could die.
+[???? Check ages if I change them] I was six years old, I wanted to just go to bed but I couldn't, I had to check everything, I had to check the cooktop so no one would get burned again and mom wouldn't be anxious. I was eight years old in my room, I wanted to scream but I couldn't, it would wake dad and he would come yell at me, I had to make sure to only feel things when I was outside the house or they would both yell about how worthless I was, I was not worthless, I was worth more than <em>their</em> pathetic lives! I was twelve years old, I wanted to check my recording to make sure it had worked, but I couldn't, I had to wait until we were all in bed and use one earbud to make sure they didn't overhear. If I ever forgot, if I ever acted on my feelings, it could be the one mistake that ruined everything, I could be caught, everything I worked for could amount to nothing, I could die. Rinn could die.
 
 That was what the fear meant. It was very familiar. I wasn't crying anymore.
 
@@ -337,7 +341,7 @@ But now, if I <em>didn't</em> act on my feelings, it could be the one mistake th
 
 It was a contradiction. A situation with extreme risks on both sides. This wasn't the first time I had had to handle a contradiction like that. Did I risk going to the police, or did I risk staying at home? Did I risk keeping Rinn at my side, or did I risk letting her out of my sight? And every time, I had answered it with the Stern. I had weighed which need was greater, and knowingly sacrificed the other. Any part of me that went against the decision was a danger to my goals, so I didn't allow those parts to come forward. That was the way of the Stern, and it was what had gotten me to where I was now. My ability to sacrifice my temporary feelings was what let me do things other people my age could not. I would never give up the Stern, no matter what Rinn said.
 
-I don't want to think about Rinn right now.
+I didn't want to think about Rinn right now.
 
 But I couldn't use the Stern this time. If my feelings were my blood, then the fear was my blood too. I couldn't just lock it away. Somehow, I had to listen to it, to value it. So I listened for the fear, and waited.
 
