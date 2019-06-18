@@ -659,7 +659,7 @@ I ran to meet up with the others.
 
 We ended up deciding to switch back – me walking with Yali, and Alchemist walking with Morrow. Once they could coax Morrow into getting up, that is.
 
-As soon as Alchemist was out of sight, Yali turned to face me.
+Yali and I hung back while Alchemist went to do that. As soon as Alchemist and Morrow were out of sight, Yali turned to face me.
 
 "I still hate Morrow," she said.
 
@@ -739,9 +739,9 @@ It was true. We had scrawled our feelings right on top of the Broken God's world
 
 "I, I, I, think so? I don't know. I can't stand this world."
 
-[????? They sit(?) in silence for a while. Rinn follows the train of thought back to "alchemist making a weapon"]
+We stood together uneasily. Eventually, Yali decided it was time for us to get moving. We followed after the others, squelching through the mud again. A warm rain had moved in. My hair got matted down, and I had to hang my head to keep the drips out of my eyes. I couldn't get my mind off what Yali had said. This sucked. Alchemist didn't deserve any of this. They were just a normal person who had gotten sucked into this world of dangerous magic powers and gods trying to kill each other. They should never have had to use their powers for combat! But Yali had forced them to, and now she was saying she had <em>needed</em> to do it, like it was the only right thing to do. How could it be right to <em>use</em> them like that? I desperately wanted her to be wrong. But… how could I say it was wrong when it was the only thing that had saved me from being killed? I didn't want to die. I couldn't see any way out of accepting it. But now she was talking about forcing them to make a weapon again, for real this time, and I was terrified all over again.
 
-"So, uh… I get what you're saying. Sometimes you have to do things that… aren't good… because you have to. And it doesn't make it <em>right</em>, but… uh… ugh, you know what I mean. But <em>this</em> time, in <em>this</em> situation…" I swallowed. "We really don't have to force Alchemist to make a weapon again. We're not in a rush like that time. And I have my soulfire. I can do it. Waiting knows I'm the one who deserves to." I laughed hollowly. "I guess I shouldn't be saying 'Waiting knows' anymore, should I…"
+"So, uh…" I said. I didn't feel confident. "I get what you're saying. Sometimes you have to do things that… aren't good… because you have to. And it doesn't make it <em>right</em>, but… uh… ugh, you know what I mean. But <em>this</em> time, in <em>this</em> situation…" I swallowed. "We really don't have to force Alchemist to make a weapon again. We're not in a rush like that time. And I have my soulfire. I can do it. Waiting knows I'm the one who deserves to." I laughed hollowly. "I guess I shouldn't be saying 'Waiting knows' anymore, should I…"
 
 "It's okay. I understand."
 
