@@ -629,19 +629,27 @@ Morrow sobbed, curling into a fetal position in my arms. "I don't want to keep f
 
 "– It means you're reaching out for a way to escape from the pain. You're reaching out for safety. For comfort. That's not a bad thing. I want you to find safety and comfort, the safety and comfort that you deserve. That we all deserve, everyone who has blood." I pulled him closer in my lap. He wasn't trying to argue back. I could tell that my words were sinking in. "And I know it won't be easy. But I know you can find it. Just look to your heart. The Blood God will always be there. It will lend you its strength whenever you're ready to ask for it. And –" I took his hand and placed it on my own heart. "– And it's inside me, too. We're all connected. The Blood God ties us all together."
 
-[????? Medium length physical description, cozy]
+We sat together like that for a while, huddled together, hands on each other's hearts. I manifested some big pillows for us to lean against. Slowly, I felt a bit of the tension leave Morrow's body. A few of his muscles twitched, then went limp against me. He stared down at his legs, slowly crying, occasionally manifesting big candy bars to chew on.
 
-Finally, Morrow spoke. "No, no, no, I don't believe you…" he said. But he was almost laughing as he said it. It was like he was just saying it to say it, going through the motions of denying it because that was what he always did. He twisted around and gave me an awkward hug, squeezing me tight. He looked me in the eye, his face still puffy from crying, but now awash with emotional relief. "Everything you just said is bullshit, and I hate you," he laughed. "
+Finally, Morrow spoke, talking to his knees, mumbling through a mouthful of candy. "No, no, no, I don't believe you…" he said. But he was almost laughing as he said it. It was like he was saying it just to say it, going through the motions of denying it because that was what he always did. He twisted around and gave me an awkward hug, squeezing me tight. He looked me in the eye, his face still puffy from crying, but now awash with emotional relief. "Everything you just said is bullshit, and I hate you," he laughed. "My feelings aren't real, and your Blood God is a bunch of baloney. And when I looked to my heart, which I didn't do, I <em>definitely</em> didn't feel something. No way. Nope, definitely don't need the Blood God to heal me. So you're wasting your time. Yeah! Totally wasted!"
 
-?????
+I hugged him back. "I am <em>so</em> glad to hear you say that."
+
+"<em>Hey!!</em> You're not supposed to be like that, you're supposed to fight me –"
+
+I laughed. "Sorry, I'm the Blood Child. I only heard what you actually meant."
+
+Morrow snorted.
+
+Time passed. Slowly, Morrow's tears dried. He lay down across my lap and my pillows, finally relaxed, staring into the air. There was still a heavy weight of sadness and guilt lying over him. But that was okay, because that was what someone <em>should</em> feel in a situation like this. It was the Blood way to feel.
 
 In the distance, I heard the crunch of leaves. It became a small and steady pattern, coming closer.
 
-"That'll be Yali and Alchemist," I said gently. "Do you think you're okay to let go of me for a bit?"
+"That'll be Yali and Alchemist," I said gently. "Do you think you're okay to let me go for a while?"
 
-"No, I'll never let you go, I hold on to you for eternity," he said, as he loosened his grip.
+"No, I'll never let you go," he said as he sat up to let me move.
 
-"Thanks." I climbed to my feet, shrugging my way out of his arms. Before I went to meet the others, I paused and looked back down at him. "You're gonna make it," I said. I clapped him on the back. "Just keep your head out of the blender, okay?"
+"Thanks." I climbed to my feet, wriggling my way out from under him. Before I went to meet the others, I paused and looked back down at him. "You're gonna make it," I said. I clapped him on the back. "Just keep your head out of the blender, okay?"
 
 Morrow smiled back at me. "Fuck you," he said.
 
@@ -663,7 +671,7 @@ As soon as Alchemist was out of sight, Yali turned to face me.
 
 "It was… I don't know how to say this. It was, it was… good? If I had tried to talk to him, even if I tried a thousand different things in the future, I don't think I would ever have thought of something that would get him to open up to me. But you did. I'm, I guess I'm, impressed."
 
-"Uh, thanks."
+"Uh, thanks." I was dancing inside. Yali had said she was impressed!! But I wasn't sure how she'd feel if I got excited about it, given the whole Morrow thing.
 
 "There's something I've been thinking, ever since you got your soulfire. You know how, if we live through this and you don't drink the unravelling potion, the Blood God will rejuvenate? Well, in the beginning, I didn't <em>want</em> the Blood God to rejuvenate, I thought it was dangerous, but I assumed we'd be stuck letting it rejuvenate because I wasn't going to let you die. That's what I was thinking as recently as the third layer. But now, with the potion, we have a choice about it, but at the same time… I am starting to think that the Blood God <em>should</em> rejuvenate."
 
