@@ -223,7 +223,7 @@ After nine hours, I came to another obstacle. Ahead of me, the road was interrup
 
 Once again, I wanted to go around the problem. But as I looked to the left and right, the crevice went on as far as I could see. It might have even formed a complete circular moat around the location of the portal. One way or another, I would have to cross over it.
 
-I stood near the edge and thought about my options. Earlier, through the Watchful Eye, I had seen Morrow and Alchemist get across this crevice, but they had used Alchemist's potions of flight. I had brought one of those, but I had used it in the fight, and I have no way to contact them to get more. I would have to get past this by myself.
+I stood near the edge and thought about my options. Earlier, through the Watchful Eye, I had seen Morrow and Alchemist get across this crevice, but they had used Alchemist's potions of flight. I still had some – I had used one of them in the fight – but Rinn couldn't use them right now. I would have to figure out my own way to get past this.
 
 Could I manifest a hot air balloon? No… even if I could do that, I wouldn't know how to land it without jostling Rinn. Besides, Rinn had said that we wouldn't "get closer to the heart" unless we moved using our own bodies. Would it count as using my own body if I used my arms to operate an engine that carried me…? How did Rinn even know what counted and what didn't? If she was awake, she'd probably say it was obvious, like you could feel it with your body or something.
 

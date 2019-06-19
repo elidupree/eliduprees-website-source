@@ -751,21 +751,25 @@ We stood together uneasily. Eventually, Yali decided it was time for us to get m
 
 "Yeah."
 
-I held her hand. ?????
+I held her hand. As we walked, I squeezed it tightly, and Yali squeezed back. The bond between us… it had been through so much. It had survived us being stuck on the star together for weeks. It had survived me stabbing her through the chest. It had survived us fighting over this whole mess with Morrow. And it was still strong. We would be able to step into the last layer together, joined by an unbroken rope of strength, ready to face whatever came our way. And when this was all over, we would be able to curl up together in bed, in warmth and comfort, and congratulate ourselves for a job well done.
 
-?????
+<bigbreak>
 
-[????? We made a lot of plans for what we were going to do in the next layer]
+The portal loomed out of the mist, a black and shimmering expanse where a hillside should be. Alchemist and Morrow were already sitting near it, huddling together on a pile of blankets.
 
-Yali made me tell her everything I could remember about what Justicar had said in the second layer. I had to tell her about everything we'd done together, even the stupid parts.
+Before we went in, we made a lot of plans about what to do in the next layer. It was a little awkward because we needed to include Alchemist for some of it, Yali refused to go anywhere near Morrow, and Alchemist didn't want to leave Morrow all by himself. But eventually we found some compromises.
 
-"It seems like it will be, be, <em>difficult</em>, to change her mind," said Yali gravely.
+Yali asked Alchemist to make some are potions for her, and a few potions for me as well. The ones they gave <em>me</em> were mostly for sneaking around – making me turn invisible and fly quickly and quietly. "I think from Blood God might let us arrive in the same place in its world," said Yali, "but if it doesn't, I want you to avoid Justicar for as long as you can. Just stay hidden and let me find you. If it comes to a fight, I wish I could give you fighting potions, too, but the most important thing in a fight will be your soulfire, and your soulfire will purge any potions from your system anyway."
+
+An old part of me felt like complaining about that. But it was only a small part. I didn't need potions for this. I had myself, and that was stronger than any potion.
+
+Next, Yali made me tell her everything I could remember about what Justicar had said in the second layer. I had to tell her about everything we'd done together, even the stupid parts.
+
+Yali considered at all seriously. I was a little embarrassed. Telling Yali about our arguments was fine, but telling her about the petty stuff I'd done just to irritate Justicar… now that I'd felt the confidence of the Blood God inside me, that stuff wasn't really who I wanted to be. Of course, Yali took it as if it was just normal for me. Ugh.
+
+Yali was more focused on Justicar. "It seems like it will be, be, <em>difficult</em>, to change her mind," she said gravely.
 
 "Tell me something I don't know," I laughed.
-
-[????? "When the Stern have decided on a course of action, they are the second most difficult to convince otherwise"]
-
-I was about to complain about "second", but it was true. We both knew that [????? the hardest God to convince] was the Waiting God.
 
 "It's not impossible," Yali continued. "She is capable of admitting that she is wrong, and –"
 
@@ -803,7 +807,7 @@ Yali squeezed my hand. "Pretty soon, we'll want to to meet up with the others an
 
 And just like that, everything was settled.
 
-[????? We met up with the others and left through the portal, with some physical description, and affection between the romantic pairs]
+[????? We and left through the portal, with some physical description, and affection between the romantic pairs]
 
 
 ''',
