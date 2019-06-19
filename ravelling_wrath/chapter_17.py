@@ -449,9 +449,13 @@ We walked together slowly, holding hands and bumping shoulders together. It didn
 
 "Justicar took me by surprise! I didn't have time to be upset. But I had to watch for forty-five minutes while Morrow abused you. And I'm not like you. I can't be angry at someone and then forgive them with my next breath. It doesn't matter what I believe now. I will hate the face of Morrow for as long as I live."
 
-"Woah, that's… I mean, shit. If I'd realized –"
+"Woah, that's… I mean, shit. If I'd realized – I mean, that explains it completely. I'm sorry –"
 
-"I'm not done. There is another reason. Morrow has always been like the ????s. Temperamental, holding on to obsessions to cover up his reality. But –"
+Yali frowned. "I, I –" she said in a quiet voice, "I'm not sure it's the whole explanation."
+
+"What do you mean?"
+
+"I think there's a, a, a, deeper reason. Morrow has always been like the ????s. Temperamental, holding on to obsessions to cover up his reality. But –"
 
 "Hey, <em>I'm</em> temperamental. Morrow's kind of a mess, but –"
 
@@ -791,7 +795,7 @@ In the end, Yali settled on a few strategies to try if we got the chance. Neithe
 
 [????? "Is there anything else we need to discuss before we go to the next world"]
 
-Yali squeezed my hand. "Pretty soon, we'll want to to meet up with the others and go through the portal. If there's anything we still need to talk about…"
+Yali squeezed my hand. "I'm not sure there's much more preparations we can do. So, before we go through the portal and finish things, if there's anything we still need to talk about…"
 
 "I… you know what, I actually feel like we've got things figured out! I mean, I'll probably think of something else in like two minutes, but, you know. I think I'm good. What about you?"
 

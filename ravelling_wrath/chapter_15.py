@@ -494,7 +494,9 @@ Yali squinted. "You'll have to tell me more about that later. When we confront J
 
 "You got that one right…"
 
-?????
+Yali spent a lot more time digging through the memories. The way she was telling it, it seemed like Morrow had never gone two weeks without some messed up shit happening to him. One time he'd been attacked by feral dogs. Another time, the battery in his phone had exploded. Another time, a client had insisted on doing <em>????</em> with him, and he had been hooked on it for about a week until he freaked out and went cold turkey and spent the next week distracting himself from the withdrawal symptoms by playing chicken with trains, and then he never touched the stuff again. But throughout all the bad stuff, every time the immediate pain was over, he pretty much blocked it out and switched back to amusing himself, a state of almost innocent curiosity.
+
+There were a few times when Yali found Morrow doing some messed up shit to other people, too, but each time, she had a logical explanation for why he would do the things as a reaction to his trauma. She <em>wanted</em> to use them as a reason to hate him, but with everything she knew from learning about abuse online, she just couldn't.
 
 "One thing I don't understand is, I never saw him in school. Did he never go to school? I'm not seeing any memories of… No, I see something. It's a traumatic memory though? There's a school, but, but, the, the teachers yelled at him, called him a freak, sent him home… Why? He doesn't remember this very well… I'm trying to think back… it was because, because, he, touched other children sexually."
 
