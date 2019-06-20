@@ -378,11 +378,7 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "Oh."
 
-?????
-
 [????? Find a place for this: "both a lover <em>and</em> a monster."
-
-?????
 
 "Well, can you at least, like, help us figure out something to do? I mean, you're the one who's good at planning –" Yali glared at me so hard I was actually scared for a moment. "I mean, and, like, you're the one with the Seeing, you can't <em>not</em> help us –"
 

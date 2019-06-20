@@ -60,7 +60,7 @@ I jumped down from the ladder. "Why are you putting the rocks like that? I mean,
 
 "I… don't know? It just, felt, like, something."
 
-"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. Then I promptly got distracted by noticing Alchemist's feet. Alchemist was barefoot on the fine sand, wearing a loose robe that came down to their ankles. It looked soft and warm and comfy. I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the land. The sand felt [????? good] between my toes. Even the stones were mostly smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
+"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. Then I promptly got distracted by noticing Alchemist's feet. Alchemist was barefoot on the fine sand, wearing a loose robe that came down to their ankles. It looked soft and warm and comfy. I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the land. The sand felt good between my toes. Even the stones were mostly smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
 
 I cheerfully jumped down into a sitting position next to Alchemist. "So, how do you come up with these designs?" I said, picking up one of the stones to look at it. Alchemist flinched. "Oh, uh, was I not supposed to touch that? Let me just put it back." Luckily, I remembered where to put it back. I tried to make more conversation with Alchemist, but they seemed reluctant. "I could give you some space! I mean, if that's what you'd like –"
 
@@ -157,15 +157,15 @@ Another nod.
 "Well, I'm here!" I said cheerfully. Alchemist giggled despite themself.
 
 
-?????
+????
 
 <bigbreak>
 
 Traveling with Alchemist was oddly comforting.
 
-After a while, it had finally sunk in that I was never going to find Yali anytime soon. I had felt defeated, bitter, like there was a yawning hole in me, an empty space where ????? should have been. But then Alchemist came and… <em>filled</em> some of that space. I didn't understand how, but somehow, it was easier to just focus on what I was doing with Alchemist than to worry about the gods. The gentle resonance of their voice was almost enough to distract me.
+After a while, it had finally sunk in that I was never going to find Yali anytime soon. I had felt defeated, bitter, like there was a yawning hole in me, an empty space where my mission should have been. But then Alchemist came and… <em>filled</em> some of that space. I didn't understand how, but somehow, it was easier to just focus on what I was doing with Alchemist than to worry about the gods. The gentle resonance of their voice was almost enough to distract me.
 
-Bit by bit, they started to share more details about their life before the Ravelling. Their family life sounded really boisterous. They had five brothers and three sisters, and a bunch of aunts and uncles who lived with the family most of the year as well. Before the Ravelling, I'd always been like, "siblings, who needs 'em", but the way Alchemist described it, it sounded wonderful. They kept telling me about different little traditions and habits everyone had. Alchemist obviously loved all of their siblings deeply, it was really sweet. Of course, it was also sad. Sometimes, they just talked about everyone happily, lost in the fond memories. Other times, they barely got started before they [????? started crying]. But that made sense to me now. Having random, different feelings about the same thing, depending on which thought happened first, was kind of what I'd been living with for a while.
+Bit by bit, they started to share more details about their life before the Ravelling. Their family life sounded really boisterous. They had five brothers and three sisters, and a bunch of aunts and uncles who lived with the family most of the year as well. Before the Ravelling, I'd always been like, "siblings, who needs 'em", but the way Alchemist described it, it sounded wonderful. They kept telling me about different little traditions and habits everyone had. Alchemist obviously loved all of their siblings deeply, it was really sweet. Of course, it was also sad. Sometimes, they just talked about everyone happily, lost in the fond memories. Other times, they barely got started before their eyes got all teary. But that made sense to me now. Having random, different feelings about the same thing, depending on which thought happened first, was kind of what I'd been living with for a while.
 
 The weirdest thing was the world around us.
 
@@ -255,7 +255,7 @@ But none of that was the <em>really</em> weird thing about them. The <em>really<
 
 I had no idea.
 
-It was driving me crazy. I felt trapped in this place. Even if I wasn't going to get to Yali, it was so stupid to not even TRY to get closer to her! So I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure I was actually getting somewhere and the Seeking God wasn't somehow cheating me out of my progress. But [????? whenever I checked it, we had never gone in the direction I thought we were going.] ?????
+It was driving me crazy. I felt trapped in this place. Even if I wasn't going to get to Yali, it was so stupid to not even TRY to get closer to her! So I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure I was actually getting somewhere and the Seeking God wasn't somehow cheating me out of my progress. But it <em>was</em>! My location on the map didn't stay consistent at all, it just sort of randomly moved around, independent of the direction we were going.
 
 Right now, I was tired, slouching on a couch I made, cuddling with Alchemist. At least <em>this</em> part was comfortable.
 
@@ -283,7 +283,9 @@ Alchemist rubbed my shoulder gently, not saying anything. It was nice and all, b
 
 Ugh, why did the Seeking have to stick me with Alchemist? I felt like I was having to suppress my feelings all the time. And sure, I had to suppress some of my feelings with Yali, too, but at least Yali let me <em>be</em> angry, just as long as it wasn't at <em>her</em>.
 
-That was the problem – I liked Alchemist, but they just… <em>weren't Yali</em>. Even right now, I was comfortable enough here cuddling with Alchemist in the soft cushions I'd made, but it just wasn't the same. I missed Yali's big strong arms around me… Her lips, her wide soft cheeks… If only I had her here right now, she could ruffle my hair, squish me under her weight… I imagined her squishing me, pressing into me like she had when we wrestled on that one day before the Ravelling. That was how life should be. Why wouldn't they let us have that? [????? Expand how much time this paragraph feels like, maybe more than one paragraph]
+That was the problem – I liked Alchemist, but they just… <em>weren't Yali</em>. Even right now, I was comfortable enough here cuddling with Alchemist in the soft cushions I'd made, but it just wasn't the same. I missed Yali's big strong arms around me… Her lips, her wide soft cheeks…
+
+The fucking gods. It was bad enough that the Blood God was trying to make me kill her. Now the Seeking God wouldn't even let me be <em>close</em> to her?! For gods-knew-what mysterious scheme? All I wanted to do was <em>touch</em> her. If only I had her here right now, she could ruffle my hair, squish me under her weight… I imagined her squishing me, pressing into me like she had when we wrestled on that one day before the Ravelling. That was how life should be. Why wouldn't they let us have that?
 
 I drifted out my daydream to find that I was nuzzling up beside Alchemist's head, practically brushing my lips against their neck. I pulled back sharply. "I'm not – I didn't mean –"
 
@@ -301,11 +303,11 @@ I <em>did</em> like Alchemist in <em>that way</em>.
 
 My feelings were a huge mess. It wasn't supposed to be Alchemist here, it was supposed to be Yali! But the gentle pressure on my cheek told a different story. My heart wanted to sink into Alchemist, to leave the rest of my worries behind. I wasn't even sure if I liked them for themselves or if I was just trying to pretend they were Yali. And I didn't know which was worse. If I just used them as a temporary substitute for Yali, that would make me an asshole! But if I pulled away, then… I'd be… so alone…
 
-Tears came into my eyes. I clung to Alchemist, clutching at the soft back of their robe helplessly. Alchemist held me gently, ?????
+Tears came into my eyes. I clung to Alchemist, clutching at the soft back of their robe helplessly. Alchemist held me gently, rocking back and forth and slowly rubbing my back. I couldn't help relaxing into it. I needed this. I needed someone to hold me.
 
-?????
+Alchemist let me slowly cry on them for a while. They just kept holding me and humming their aimless tune. I just buried my face in their robe. There were at least three parts of me that were uneasy about this, but they weren't strong enough to do anything. They were practically getting washed away in the feeling of release.
 
-[????? Rinn still tearful:] "What will Morrow think? About us, uh, being like this?"
+I wiped my tears away on Alchemist's robe. Not that it was really help, since there would be more soon enough. "What will Morrow think?" I mumbled. "About us, uh, being like this?"
 
 "Morrow won't mind."
 
@@ -323,15 +325,15 @@ I was surprised by how confident Alchemist sounded. I had pretty much been expec
 
 <bigbreak>
 
-Being intimate with Alchemist was like having one injury healed and another injury ripped back open. We spent hours lying together, nestled in each other's arms, rubbing our faces together and exchanging soft kisses from time to time. It filled me up with such warmth, such wholesomeness, I felt like ?????. But at the same time, the more we touched, the more I couldn't stop thinking about Yali, too. With Alchemist, I had such a deep, emotional closeness, but… I just wasn't that attracted to them physically. Even when we touched, my skin was craving something else. Something big and squishy and strong and luscious and <em>Yali</em>. ?????
+Being intimate with Alchemist was like having one injury healed and another injury ripped back open. We spent hours lying together, nestled in each other's arms, rubbing our faces together and exchanging soft kisses from time to time. It filled me up with such warmth, such wholesomeness, I felt like I could just float in that feeling forever. But at the same time, the more we touched, the more I couldn't stop thinking about Yali, too. With Alchemist, I had such a deep, emotional closeness, but… I just wasn't that attracted to them physically. Even when we touched, my skin was craving something else. Something big and squishy and strong and luscious and <em>Yali</em>. ????
 
 Well, at least I was having the <em>good</em> obsession with Yali instead of the <em>bad</em> obsession with Yali. Any time I fantasized about getting in her pants instead of killing her to death, that was a win in my book.
-
-[????? Cut?: And the more I thought about Yali, the more it woke up the <em>other</em> part of me, too.]
 
 How many days had it been now? Somehow, the time just melted away when I was with Alchemist. And even when the Blood God popped up, its fury was also doubtful, mixed with something bittersweet. Nothing was <em>quite</em> how it should be, but still, somehow, every part of me had agreed to let this happen. Just for a while, to forget the mission, forget the puzzles, and just lean into the warmth.
 
 And that's when I first began to notice… <em>it</em>.
+
+
 
 [????? Making some progress by not trying, but then messing it up by trying – Rinn notices a specific detail and runs after it]
 
