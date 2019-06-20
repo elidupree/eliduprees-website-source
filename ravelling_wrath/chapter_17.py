@@ -791,11 +791,11 @@ We spent the next few hours in a long argument about how to change Justicar's mi
 
 In the end, Yali settled on a few strategies to try if we got the chance. Neither of us thought they were that likely to work. But I couldn't really think of anything better.
 
-?????
+<bigbreak>
 
-[????? "Is there anything else we need to discuss before we go to the next world"]
+Our work went on for hours and hours. We made potions. We made plans. I practiced summoning soulfire. We practiced fighting a little, but Yali's safety precautions made it awkward, and we didn't really know what powers we would be up against. When Alchemist wasn't making potions, they took care of Morrow, and when they weren't doing that, they spent a lot of time thinking about their family back on earth. Finally, we all got some rest to make sure we would be fully alert for the challenges to come.
 
-Yali squeezed my hand. "I'm not sure there's much more preparations we can do. So, before we go through the portal and finish things, if there's anything we still need to talk about…"
+Now, the portal beckoned. Yali squeezed my hand. "I'm not sure there's much more preparations we can do. So, before we go through the portal and finish things, if there's anything we still need to talk about…"
 
 "I… you know what, I actually feel like we've got things figured out! I mean, I'll probably think of something else in like two minutes, but, you know. I think I'm good. What about you?"
 
@@ -811,7 +811,19 @@ Yali squeezed my hand. "I'm not sure there's much more preparations we can do. S
 
 And just like that, everything was settled.
 
-[????? We and left through the portal, with some physical description, and affection between the romantic pairs]
+Yali wrapped me up in a tender embrace. I leaned in, pressing my lips against hers. "I love you," I whispered. "I love you, I love you, I love you –"
+
+Yali smiled. "You don't need to say it more than three times. We're going to make it through this." She stroked my hair. "I love you too."
+
+A few meters away, Alchemist and Morrow were doing about the same thing.
+
+Before long, Alchemist padded over and held my hand. "Are we, going?" they asked. They were eager to move on.
+
+"I think so. Everyone ready?"
+
+We all stood together, holding hands in a line. Yali, then me, then Alchemist, then Morrow.
+
+"Three, two, one, go!" I called. And then we all stepped into the portal.
 
 
 ''',

@@ -222,9 +222,9 @@ The words hung in the air between us.
 
 "Uh…" I still wasn't sure what to say. I mean, I normally would've been pretty pissed off at Morrow, like, <em>dude, what the fuck?</em> But the way Yali was talking about it, it was like it was deeply serious. I couldn't help being nervous – if <em>Yali</em> was taking something seriously, there had to be something much bigger that I wasn't thinking of!
 
-????
+I fidgeted with the tail end of my jacket. I couldn't make sense of this feeling. I took another look around, trying to find something that made sense. My eyes landed on Alchemist's face again.
 
-"How'd you get that bruise?"
+"How'd you get that bruise?" I said.
 
 Alchemist shrank back uncomfortably.
 
@@ -262,7 +262,7 @@ I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alch
 
 "<em>Controlling Game,</em>" said Yali.
 
-"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
+"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. [????? When does it get fixed?] "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
 
 I heard Alchemist's shaky voice in the background. "Is, she…"
 
