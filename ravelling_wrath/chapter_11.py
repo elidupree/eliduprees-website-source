@@ -333,13 +333,17 @@ How many days had it been now? Somehow, the time just melted away when I was wit
 
 And that's when I first began to notice… <em>it</em>.
 
+[????? In circumstances], I thought I saw a peephole through the rock. When I looked, there wasn't actually a hole in any individual rock. It was just, when my eye was in <em>exactly</em> the right place, a bunch of totally separate rocks combined to look like a narrow hole. But when I looked down the "hole", I could see a long way, going straight past the fog.
 
+I jumped up. "It's like it's showing me something!" Before Alchemist could say anything, I took off running in the direction it had pointed.
 
-[????? Making some progress by not trying, but then messing it up by trying – Rinn notices a specific detail and runs after it]
+Unfortunately, before long, I lost my sense of direction. I wasn't sure I was still going along the same line I had seen. I tried to line up my eye with the rocks I'seen before, but I couldn't find the spot.
 
-"I don't think, trying to force it, will –"
+"Argh! I lost it! I've got to find it again –"
 
-"Come on! This could be our chance to GET somewhere!!" I [continued running after it]
+Alchemist padded up behind me. "I don't think, trying to force it, will –"
+
+"Come on! This could be our chance to GET somewhere!!" I kept frantically searching for the line of sight.
 
 But of course, it didn't work. Alchemist was right. Pissed off and dejected, I wandered back and let Alchemist fold me into their arms.
 
