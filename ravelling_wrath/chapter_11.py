@@ -351,13 +351,27 @@ But of course, it didn't work. Alchemist was right. Pissed off and dejected, I w
 
 Alchemist just pulled me gently closer. Not knowing what else to do, I leaned into them and brushed my lips against theirs. But I still just felt stupid. Why was I wasting my time kissing someone irrelevant like Alchemist when I had more important things to do?!
 
-[????? The Blood God being impatient, making Rinn impatient with Alchemist]
-[???? worry about forgetting Yali for Alchemist?]
+A few hours later, just when I had almost forgotten about it, I randomly saw the peephole again. Or maybe a different peephole, I couldn't really tell. This time, I wasn't going to mess it up. I slowly worked my way in the direction it was pointing, methodically lining up my eye with each rock in the sequence to make sure I still had it. Alchemist followed along, sometimes pausing to look down the peephole for a while.
 
-[????? we came to a gorge]
+It went on for a long time. I didn't see anything new, though. Finally, I got tired and sat down with Alchemist again.
 
+"It's <em>teasing</em> me," I complained. "Making me think I have a choice. But it's just going to keep doing this to me forever."
 
-[????? More impatience spilling out] [????? needs clarification that the blood god is involved]
+"It's, okay –"
+
+"No it's not," I snapped. I didn't want to be snapping at Alchemist, but it came out before I could think. Dejectedly, I looked again in the direction we were going. I wasn't expecting her to be anything there. There was just more fog. Except… "Wait. Is that –" I jumped up and ran a few steps forward, peering into the fog.
+
+Sure enough, there was something there. Not far in front of us, the ground ended. A cliff dropped away downwards. "Hey! Check this out!" I yelled.
+
+"Rinn –" began Alchemist sadly.
+
+"Come on, I really found something this time!"
+
+"Hey! Check this out!" my voice came echoing back to me. So this wasn't just a cliff, it was an enormous gorge.
+
+I stepped right up to the edge. Alchemist followed a few steps back. The wall of the gorge went down further then I could see through the fog, and there was a strong breeze blowing up from the depths. Along the wall, there were long ramps zigzagging back and forth, offering paths to walk downwards.
+
+"Maybe it wasn't a trick after all! Let's see what's down there!" I headed for one of the ramps.
 
 Alchemist's hand tugged me back.
 
@@ -373,11 +387,19 @@ In my frustration, I didn't <em>want</em> to care how Alchemist felt, but it sti
 
 It hurt me to leave Alchemist on that sour note, but with all the thundering impatience in my head, I couldn't get myself to say anything nicer either. I stood up and stomped off before I could make things worse.
 
-Not sure where to go, I picked out one of the roads that went down the side of the gorge. As I walked through the cold, damp air, it took me zigzagging back and forth, down and down into the gorge, until the fog was too thick to see my way back up.
+Not sure where to go, I picked out one of the ramps into the gorge. At least that way there'd be more new stuff to distract me. As I walked through the cold, damp air, it took me zigzagging back and forth, down and down into the gorge, until the fog was too thick to see my way back up.
 
-As I walked, I thought about ?????
+As I walked, I thought about ?????. Alchemist was right, it wasn't making me feel good. And what was I even getting out of it? The Seeking God was going to mess with me either way. Worse, every time I played along with its tricks, I was basically handing it more power over me.
 
-?????. If only I didn't have the Blood God looking over my shoulder all the time.
+????? [Unless I could beat the Seeking God/there was no way I could beat a god that could transport me through space whenever I wanted. What was a "me" thing that I could do now?]
+
+I wanted Alchemist to be happy.
+
+But thinking about that made the rage flare up inside me. <em>This is no time to just sit around doing nice things for Alchemist!</em>
+
+"What the fuck <em>is</em> it time to do, then?!" I yelled.
+
+<em>I have to do SOMETHING! This isn't right! This isn't enough!</em> I was getting sick of these thoughts. If only I didn't have the Blood God looking over my shoulder all the time.
 
 "You are <em>not me</em>," I shouted into the void. "I don't care what you want! I don't care about your fucking murder quest! And I'm sick of you trying to take away my chance to enjoy being with Alchemist when there's nothing we can even do anyway! And so, I am going to go back up there, and be everything Alchemist wants me to be! I will treat them like an absolute princess! I mean, a… whatever the non-binary equivalent of princess is! A princ… uh… whatever, actually even if they were a dude I'd still say I was going to treat them like a princess! So that's what I'm going to do! You hear me?!"
 
@@ -386,6 +408,10 @@ The wind howled through the gorge in front of me. From the part of me that was t
 [????? Maybe another, conclusive, statement directed at the Blood God?]
 
 [????? Satisfiedly climbing back up the canyon]
+
+When I got up to the edge, I walked over to Alchemist. "Hey," I said softly. I gave them a gentle hug. "I got some things figured out about myself. I'm sorry about earlier. Let's do things your way."
+
+<bigbreak>
 
 ?????
 
