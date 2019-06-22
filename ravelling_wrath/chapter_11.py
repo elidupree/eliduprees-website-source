@@ -421,7 +421,7 @@ When I got up to the edge, I walked over to Alchemist. "Hey," I said softly. I g
 
 "If you need some space away from me, I can –"
 
-"It's not that…"
+"It's not, that…"
 
 "Okay, then, what is it? Come on, talk to me."
 
@@ -437,7 +437,7 @@ When I got up to the edge, I walked over to Alchemist. "Hey," I said softly. I g
 
 I stared, open-mouthed. "You kidding me?! No way! He doesn't <em>look</em> twenty-five. He doesn't <em>act</em> twenty-five. And how the fuck did you even get him to tell you how old he was? <em>I</em> couldn't get him to!"
 
-"I, didn't? He, didn't, tell me. It was… little things. There were some shows he referred to, and, things from the news, that he wouldn't know, if he was just my age. He was… so… upset, when I realized. He made me promise not to tell anyone…" Alchemist cringed. "Oh… I forgot…"
+"I, didn't? He, didn't, tell me. It was… little things. There were some shows he referred to, and, things from the news, that he might not know, if he was just my age. He was… so… upset, when I realized. He made me promise not to tell anyone…" Alchemist cringed. "Oh… I forgot…"
 
 "Don't worry, he won't hear about it from me." Alchemist stared at me. "Wait, shit." Morrow was going to read Alchemist's mind, and then he'd find out that Alchemist had told me. And then he'd <em>also</em> find out that I'd tried to cover it up! "I mean, just don't think about it when he's around!"
 
@@ -449,11 +449,25 @@ I stared, open-mouthed. "You kidding me?! No way! He doesn't <em>look</em> twent
 
 ?????
 
-– there she was!
+"You know… this has been nice. And at least the god is showing us more interesting stuff now, even if it's not really giving us a way out of this –"
+
+The sand disappeared under me.
+
+<bigbreak>
+
+With a surge of adrenaline, I braced myself in the air and landed on my feet. Beside me, Alchemist wasn't so lucky.
+
+We were in some sort of big unfinished construction area. Concrete floor, piles of bricks everywhere, surrounded by a square of half-finished brick walls. And above the walls, there was just white emptiness, as if someone had started painting this room on a canvas but then got bored halfway through. But one of the walls was different. Instead of bricks like the others, it was a wall of shimmering black, just like the portal from the last layer.
+
+"Wait, is that the portal?" I said. "Are we done? That was anticlimactic."
+
+I helped Alchemist up, then kept looking around. Over in the other corner, there were another three people. There was Morrow and Justicar, who were currently handcuffed together and fighting with each other as they tried to stand up. And – there she was!
 
 Two tides of feeling surged within me. Finally, <em>finally</em>, after so many days, she was here again! Inside me, there was a struggle for control, between the part that wanted to run and hug her and the part that wanted to charge and rip her to pieces. But I knew which part was me and which wasn't. I bore down on the second part with all my will, and it wavered. Grinning triumphantly, I stomped it down. <em>Stay in your corner, Blood God,</em> I thought loudly. <em>I am going to love Yali, and cherish her, and give her all the care and respect she deserves, no matter what you make me feel. And if you think you can make me lift a finger to hurt her, you're stupider than I thought.</em>
 
 I felt the rage inside me subside. It was like the Blood God had given up and decided to sulk instead. <em>Yeah, that's what I thought.</em>
+
+Confidently, I strode across the room,
 
 ?????
 
@@ -467,9 +481,71 @@ I gaped at her. "I thought I was doing a good job!! Does <em>everything</em> I d
 
 "I'm not, I'm not, not saying you did anything wrong –"
 
-?????
+Meanwhile, Alchemist and Morrow were having a moment, too. Once someone had unmanifested the handcuffs, they had run up to each other and started making out. But then Alchemist started to look a little worried, and Morrow started panicking. "It's okay it's okay!!" said Morrow frantically. "It's no big deal if everyone knows –" Morrow jumped and waved for everybody's attention "– if everyone knows I'm twenty-five, that's right, I'm twenty-five years old, everybody! See, it's no big deal!"
 
-"So, uh… me and Alchemist… we kinda –"
+Justicar raised an eyebrow slightly. "What prompted <em>this</em> outburst?"
+
+"Don't worry about it," I said.
+
+"I doubt that we should believe he is twenty-five," Justicar told me. "Come to think of it, we are and unusual combination of ages for Ravellers, are we not?"
+
+"What's that supposed to mean?"
+
+"She's right," said Yali. "It's not that rare to have a twenty-five-year-old Imminent, but it's a little unusual that we're <em>all</em> young adults –"
+
+I squinted. "You'd call Justicar a <em>young</em> adult?"
+
+"I see you have not learned <em>tact</em> since our last meeting," said Justicar.
+
+"Whatever. How old are you, anyway?"
+
+"If you must know, twenty-eight."
+
+Yali continued, "A lot of Imminents are children, like, preteens. Alchemists can be any age. And I'm the rarest one. Most Farseers are at least middle-aged, if not elderly. There have been a few children, but never a teenager –"
+
+"There was a fifteen-year-old Farseer in [????? year]," Justicar interrupted.
+
+"Never in the last seventy years, at least."
+
+"I suppose that's true –"
+
+"What about me?" I said.
+
+Yali answered, "Blood Children are usually teenagers. Sometimes younger, as the name implies, but –"
+
+"I hate being the normal one!"
+
+"It's okay. Justicar is normal, too."
+
+Justicar and I glared at each other.
+
+[????? Maybe Morrow does something dangerous and Justicar runs to deal with it]
+
+I just watched her go. This was just some regular Morrow stuff, I didn't have to pay attention to it. Plus, the place I really wanted to be was with Yali.
+
+I grabbed onto her and kissed her sloppily. Then I kissed her again. "Oh gods, Yali, I've missed you so much."
+
+Yali smiled. "It's nice to see you alive."
+
+"Oh gods, was I gonna die?!"
+
+"No, no… it's just, the Seeking God, since the beginning of this layer, it's been showing me these, these, moral dilemmas. And a lot of them have been like, 'if Rinn was dying, would you cut off your right arm to save her?'. And it didn't, like, ask that in words, it showed me a vision and had me act out what I would do. So it's just –"
+
+"What did you do?"
+
+"In that one? I mean, I cut my arm off –"
+
+I looked up into her eyes. "You'd actually cut your arm off to save me?! Oh my gods oh my gods oh my gods –"
+
+"That was one of the easier choices, actually, I mean, when you think about it, my life wouldn't be <em>that</em> much different without my arm, it would just take a while to get used to –"
+
+"You're crazy!" I hugged her tight.
+
+"There were a lot of ones that were harder. But I learned a lot about myself, about what I would and wouldn't do. And it turned out that there's almost nothing I wouldn't do to keep us both alive. But the really hard questions were things related to… to… oh, never mind. The Seeking God just made me think about this for weeks, I'm allowed to stop thinking about it for now." She kissed me back.
+
+"Yeah, fuck the Seeking," I said halfheartedly. Yali was here now, I couldn't be mad. I buried myself in her big, warm, squishy body. She was my everything, my one love – well, maybe not <em>one</em> love now – ugh, yeah, even right now, my feelings for Alchemist were running strong when I thought about them.
+
+"So, uh… me and Alchemist…" I began. "We kinda –"
 
 "I know."
 
@@ -481,7 +557,15 @@ I gaped at her. "I thought I was doing a good job!! Does <em>everything</em> I d
 
 ?????
 
-[????? maybe somewhere something about ages of the ravellers]
+"Is that really the portal? It's just so anticlimactic, I'm thinking maybe it's a trick by the god, or something –"
+
+Yali took a good look at it. "No, that's definitely the portal."
+
+"It's just, it doesn't feel like we finished anything."
+
+"It wouldn't. The Seeking God isn't really about, about… <em>conclusions</em>."
+
+?????
  
 ''',
 },
