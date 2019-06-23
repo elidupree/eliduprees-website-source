@@ -389,11 +389,11 @@ It hurt me to leave Alchemist on that sour note, but with all the thundering imp
 
 Not sure where to go, I picked out one of the ramps into the gorge. At least that way there'd be more new stuff to distract me. As I walked through the cold, damp air, it took me zigzagging back and forth, down and down into the gorge, until the fog was too thick to see my way back up.
 
-As I walked, I thought about what I'd been doing. Alchemist was right, it wasn't making me feel good. And what was I even getting out of it? The Seeking God was going to mess with me either way. Worse, every time I played along with its tricks, I was basically handing it more power over me. The Blood God might want a way out, but now that I thought about it, even the Blood God part of me didn't want me to end up just dancing to the Seeking God's tune. If I was going to get anywhere, I should be doing it on my own terms. But how was I supposed to do that? How would I beat a god that could transport me through space whenever it wanted? Maybe if <em>Yali</em> was here, she'd have some genius way to do that. Ugh.
+As I walked, I thought about ?????. Alchemist was right, it wasn't making me feel good. And what was I even getting out of it? The Seeking God was going to mess with me either way. Worse, every time I played along with its tricks, I was basically handing it more power over me.
 
-The wind was brisk and cold. I felt pretty alone, standing in the middle of a cliff face that went up and down as far as I can see. I didn't want all these gods. I wanted something I could do for <em>me</em>. What could I do that I was in control of? What could I do <em>here</em>?
+????? [Unless I could beat the Seeking God/there was no way I could beat a god that could transport me through space whenever I wanted. What was a "me" thing that I could do now?]
 
-Well… Alchemist was here. I wanted Alchemist to be happy.
+I wanted Alchemist to be happy.
 
 But thinking about that made the rage flare up inside me. <em>This is no time to just sit around doing nice things for Alchemist!</em>
 
@@ -457,7 +457,7 @@ The sand disappeared under me.
 
 With a surge of adrenaline, I braced myself in the air and landed on my feet. Beside me, Alchemist wasn't so lucky.
 
-We were in some sort of big unfinished construction area. Concrete floor, piles of bricks everywhere, surrounded by a square of half-finished brick walls. And above the walls, there was just white emptiness, as if someone had started painting this room on a canvas but then got bored halfway through. But one of the walls was different. Instead of bricks like the others, it was a wall of shimmering black, just like the portal from the last layer.
+We were in some sort of big unfinished construction area. Concrete floor, piles of bricks everywhere, surrounded by a square of half-finished brick walls. And above the walls, there was just white emptiness, as if someone had started painting this room on a canvas but then got bored halfway through. But one of the walls was different. Instead of bricks like the others, it was a wall of shimmering black, just like the portal from the last layer. I didn't see five separate portals, so maybe there was just a big one for all of us?
 
 "Wait, is that the portal?" I said. "Are we done? That was anticlimactic."
 
@@ -467,15 +467,13 @@ Two tides of feeling surged within me. Finally, <em>finally</em>, after so many 
 
 I felt the rage inside me subside. It was like the Blood God had given up and decided to sulk instead. <em>Yeah, that's what I thought.</em>
 
-Confidently, I strode across the room,
+Confidently, I strode across the room, walked up to Yali, and clasped her in a firm embrace.
 
-?????
-
-Yali looked at me seriously. "You've gotten the Blood God's attention."
+Yali hugged me back. But after a moment, she stopped and looked at me seriously. "You've gotten the Blood God's attention."
 
 I smirked. "Haha, guess it finally got the idea I won't let it push me around!"
 
-"This isn't just something to be happy about. It could be a great danger. I had hoped that we could get through the whole Ravelling without the Blood God being aware of how actively you were resisting it. But now… I can feel it. Things are shifting. I think it's going to try something. And the other gods are starting to notice a change, too."
+"I know it feels that way, but this isn't just something to be happy about. It could be a great danger. I had hoped that we could get through the whole Ravelling without the Blood God being aware of how actively you were resisting it. But now… I can feel it. Things are shifting. I think it's going to try something, when we enter the next layer. And the other gods are starting to notice a change, too."
 
 I gaped at her. "I thought I was doing a good job!! Does <em>everything</em> I do actually suck?!"
 
@@ -487,7 +485,7 @@ Justicar raised an eyebrow slightly. "What prompted <em>this</em> outburst?"
 
 "Don't worry about it," I said.
 
-"I doubt that we should believe he is twenty-five," Justicar told me. "Come to think of it, we are and unusual combination of ages for Ravellers, are we not?"
+"I doubt that we should believe he is twenty-five," Justicar told me. "Come to think of it, we are an unusual combination of ages for Ravellers, are we not?"
 
 "What's that supposed to mean?"
 
@@ -499,7 +497,7 @@ I squinted. "You'd call Justicar a <em>young</em> adult?"
 
 "Whatever. How old are you, anyway?"
 
-"If you must know, twenty-eight."
+"If you must know, I am twenty-eight."
 
 Yali continued, "A lot of Imminents are children, like, preteens. Alchemists can be any age. And I'm the rarest one. Most Farseers are at least middle-aged, if not elderly. There have been a few children, but never a teenager –"
 
@@ -519,11 +517,11 @@ Yali answered, "Blood Children are usually teenagers. Sometimes younger, as the 
 
 Justicar and I glared at each other.
 
-[????? Maybe Morrow does something dangerous and Justicar runs to deal with it]
+Suddenly, there was a crash of falling bricks. Morrow had knocked a hole in one of the walls, and now he was sticking his arm through into the white space beyond. Justicar rushed over to stop him.
 
 I just watched her go. This was just some regular Morrow stuff, I didn't have to pay attention to it. Plus, the place I really wanted to be was with Yali.
 
-I grabbed onto her and kissed her sloppily. Then I kissed her again. "Oh gods, Yali, I've missed you so much."
+I grabbed onto Yali and kissed her sloppily. Then I kissed her again. "Oh gods, Yali, I've missed you so much."
 
 Yali smiled. "It's nice to see you alive."
 
@@ -555,17 +553,28 @@ I looked up into her eyes. "You'd actually cut your arm off to save me?! Oh my g
 
 "WHAAAAAAAAT???" Oh gods, I had forgotten how hardcore Yali was. Suddenly it came rushing back – all my feelings of how much she blew me away. I had, like, NOTHING to worry about as far as forgetting her for Alchemist, haha.
 
-?????
+Something felt unsteady under my feet. I shifted and looked around. Something was off, and in a moment, I realized what it was. The whole room was slowly tilting. It was going to dump us into the portal!
 
-"Is that really the portal? It's just so anticlimactic, I'm thinking maybe it's a trick by the god, or something –"
+"What?" I yelled at by god. "You're done with us, so now you're just going to dump us out? Or –" I hung onto Yali nervously "– is that really the portal? It's just so anticlimactic, I'm thinking maybe it's a trick by the god, or something –"
 
-Yali took a good look at it. "No, that's definitely the portal."
+Yali took a good look at it. "No, that's definitely the portal. We all have to go into it."
 
-"It's just, it doesn't feel like we finished anything."
+"It's just, it doesn't feel like we finished anything!"
 
 "It wouldn't. The Seeking God isn't really about, about… <em>conclusions</em>."
 
-?????
+"Fuck! I can't believe it only just let me see you and now we're getting dumped out again! And we're going to be in the Stern God's world next, too, this is gonna suck!" The floor was definitely tilting more and more. "Hey, Alchemist! Get over here! And the rest of you too –"
+
+We all gathered in a little cluster. I tried to pull everyone into a group hug, which almost worked. "Okay, everyone," I growled, "the Seeking God is about to dump us unceremoniously into that portal. But <em>we're</em> gonna do it our <em>own</em> way. Let's all line up and step through the portal together!" I grabbed Yali's hand in one hand, and Alchemist's hand in the other. Morrow caught on right away and attached himself to Alchemist, leaving only Justicar standing by herself.
+
+"You can go on the end with Morrow," I said, just as Justicar stepped towards the end with Yali. But she stopped and did what I said, reluctantly taking Morrow's hand. Morrow tried to prank her by yanking his hand away, but she was too quick for him, and she caught his hand in a viselike grip.
+
+"Alright, let's –" I began.
+
+Yali squeezed my hand hard. "<em>Remember,</em>" she whispered, "the Blood God is going to try something. Don't let it succeed. I'm trusting you."
+
+Oblivious to Yali, Morrow shouted, "Yeeeaaahh, let's do this thing!!" He rushed forward into the portal, dragging the rest of us with him. As Alchemist's hand dragged me forward, I frantically looked back at Yali, and the last thing I saw was her eyes looking intently back at me as my body slipped into the well of magic.
+
  
 ''',
 },
