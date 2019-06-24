@@ -333,7 +333,7 @@ How many days had it been now? Somehow, the time just melted away when I was wit
 
 And that's when I first began to notice… <em>it</em>.
 
-[????? In circumstances], I thought I saw a peephole through the rock. When I looked, there wasn't actually a hole in any individual rock. It was just, when my eye was in <em>exactly</em> the right place, a bunch of totally separate rocks combined to look like a narrow hole. But when I looked down the "hole", I could see a long way, going straight past the fog.
+We were lying in one of the many beds we'd left littered across the sand. As I stuck my head out to adjust the blankets, I thought I saw a peephole through the rock. When I looked, there wasn't actually a hole in any individual rock. It was just, when my eye was in <em>exactly</em> the right place, a bunch of totally separate rocks combined to look like a narrow hole. But when I looked down the "hole", I could see a long way, going straight past the fog.
 
 I jumped up. "It's like it's showing me something!" Before Alchemist could say anything, I took off running in the direction it had pointed.
 
@@ -369,13 +369,13 @@ Sure enough, there was something there. Not far in front of us, the ground ended
 
 "Hey! Check this out!" my voice came echoing back to me. So this wasn't just a cliff, it was an enormous gorge.
 
-I stepped right up to the edge. Alchemist followed a few steps back. The wall of the gorge went down further then I could see through the fog, and there was a strong breeze blowing up from the depths. Along the wall, there were long ramps zigzagging back and forth, offering paths to walk downwards.
+I stepped right up to the edge. Alchemist followed a few steps back. The wall of the gorge went down further than I could see through the fog, and there was a strong breeze blowing up from the depths. Along the wall, there were long ramps zigzagging back and forth, offering paths to walk downwards.
 
 "Maybe it wasn't a trick after all! Let's see what's down there!" I headed for one of the ramps.
 
 Alchemist's hand tugged me back.
 
-"??????! This is the first new thing we've seen in days! This could be our way out of this desert!!"
+"What are we waiting for?! This is the first new thing we've seen in days! This could be our way out of this desert!!"
 
 "When you're, looking for a way out, it doesn't make you feel good…"
 
