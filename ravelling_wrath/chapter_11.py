@@ -130,13 +130,13 @@ Well, fuck.
 
 "He might…" said Alchemist sadly. "He might hurt… somebody else. Will you hurt him then?"
 
-"You're wiser than I thought," I said. Alchemist seemed not to like thinking about painful things, so I had kind of expected that they would just avoid bringing it up. But, fuck, they sure knew how to ask the hard questions. I sighed. "I, like, I can't promise it'll <em>never</em> happen, but, I guess… Even if he's hurting someone, I promise I'll try everything else I can think of first. Like, I'll, I don't know, just try to block him, or whatever. I promise."
+"You're wiser than I thought," I said. Alchemist seemed like they didn't like to think about painful things, so I had kind of expected that they would just avoid bringing it up. But, fuck, they sure knew how to ask the hard questions. I sighed. "I, like, I can't promise it'll <em>never</em> happen, but, I guess… Even if he's hurting someone, I promise I'll try everything else I can think of first. Like, I'll, I don't know, just try to block him, or whatever. I promise."
 
 "Thanks…" Alchemist clearly wasn't <em>completely</em> satisfied, but they sounded sincere. Tentatively, they put their arms around me. Their hug was warm and gentle, lumpy in some places and bony in others. I hugged them back. And then, abruptly, they went limp, collapsing half their weight onto my shoulders.
 
 I quickly adjusted so I could hold them up. "Woah, are you okay there?!"
 
-Alchemist had tears streaming down their face. "Mama, Papa, Bubele, Niemah…" they sobbed. They kept crying and saying more names, probably all the people they had left behind on Earth.
+Alchemist had tears streaming down their face. "Mama, Papa, Bubele, Niemah…" they sobbed. They kept crying and saying more names, probably all the people they had left behind on Earth. [???? Check consistency of how Rinn capitalizes Earth]
 
 "Hey, hey, it's okay. We'll get you back to everyone safe and sound." I squeezed them tight.
 
@@ -223,7 +223,7 @@ Alchemist smiled involuntarily.
 
 "Hang on, is he reading your mind right now?!"
 
-"No… We're too far away, he can only smell and, touch, my feelings, from here…" they said sadly.
+"No… From there to here, there's no good connection, he can only smell and, touch, my feelings, from here…" they said sadly.
 
 "So… are you, like, okay with that? With him reading your mind?"
 
@@ -241,11 +241,7 @@ Alchemist smiled involuntarily.
 
 We both moved in for a hug awkwardly, bumping our arms into each other.
 
-Alchemist  [????? More description]
-
-When we pulled away, 
-
-?????
+[???? Probably cut: When we pulled away,]
 
 <bigbreak>
 
@@ -255,7 +251,7 @@ But none of that was the <em>really</em> weird thing about them. The <em>really<
 
 I had no idea.
 
-It was driving me crazy. I felt trapped in this place. Even if I wasn't going to get to Yali, it was so stupid to not even TRY to get closer to her! So I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure I was actually getting somewhere and the Seeking God wasn't somehow cheating me out of my progress. But it <em>was</em>! My location on the map didn't stay consistent at all, it just sort of randomly moved around, independent of the direction we were going.
+It was driving me crazy. I felt trapped in this place. Even if I wasn't going to get to Yali, it was so stupid to not even TRY to get closer to her! So I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure I was actually getting somewhere and the Seeking God wasn't somehow cheating me out of my progress. But it <em>was</em>! My location on the map didn't stay consistent at all, it just sort of randomly moved around, totally independent of the direction we were going.
 
 Right now, I was tired, slouching on a couch I made, cuddling with Alchemist. At least <em>this</em> part was comfortable.
 
@@ -405,9 +401,7 @@ But thinking about that made the rage flare up inside me. <em>This is no time to
 
 The wind howled through the gorge in front of me. From the part of me that was the Blood God, I felt… Pain. Despair. Empathy. Anger tearing in more than one direction. It was hard to tell what it was really feeling. But with the way it was fighting with itself, it definitely wasn't united against me. <em>I</em> was the strong part. <em>I</em> was the one who knew what I wanted.
 
-[????? Maybe another, conclusive, statement directed at the Blood God?]
-
-[????? Satisfiedly climbing back up the canyon]
+Satisfied, I started climbing back up the wall of the gorge.
 
 When I got up to the edge, I walked over to Alchemist. "Hey," I said softly. I gave them a gentle hug. "I got some things figured out about myself. I'm sorry about earlier. Let's do things your way."
 
