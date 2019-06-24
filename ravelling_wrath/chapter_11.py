@@ -389,11 +389,11 @@ It hurt me to leave Alchemist on that sour note, but with all the thundering imp
 
 Not sure where to go, I picked out one of the ramps into the gorge. At least that way there'd be more new stuff to distract me. As I walked through the cold, damp air, it took me zigzagging back and forth, down and down into the gorge, until the fog was too thick to see my way back up.
 
-As I walked, I thought about ?????. Alchemist was right, it wasn't making me feel good. And what was I even getting out of it? The Seeking God was going to mess with me either way. Worse, every time I played along with its tricks, I was basically handing it more power over me.
+As I walked, I thought about what I'd been doing. Alchemist was right, it wasn't making me feel good. And what was I even getting out of it? The Seeking God was going to mess with me either way. Worse, every time I played along with its tricks, I was basically handing it more power over me. The Blood God might want a way out, but now that I thought about it, even the Blood God part of me didn't want me to end up just dancing to the Seeking God's tune. If I was going to get anywhere, I should be doing it on my own terms. But how was I supposed to do that? How would I beat a god that could transport me through space whenever it wanted? Maybe if <em>Yali</em> was here, she'd have some genius way to do that. Ugh.
 
-????? [Unless I could beat the Seeking God/there was no way I could beat a god that could transport me through space whenever I wanted. What was a "me" thing that I could do now?]
+The wind was brisk and cold. I felt pretty alone, standing in the middle of a cliff face that went up and down as far as I can see. I didn't want all these gods. I wanted something I could do for <em>me</em>. What could I do that I was in control of? What could I do <em>here</em>?
 
-I wanted Alchemist to be happy.
+Well… Alchemist was here. I wanted Alchemist to be happy.
 
 But thinking about that made the rage flare up inside me. <em>This is no time to just sit around doing nice things for Alchemist!</em>
 
