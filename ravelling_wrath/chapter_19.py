@@ -142,19 +142,23 @@ Once there was no more Blood, the city could flourish unhindered.
 
 THIS WAS SO WRONG. HOW COULD I NOT HAVE SEEN IT? HOW? <EM>HOW?!</EM>
 
-The thoughts came from nowhere, disrupting our focus. Was there something urgent we had missed? We smoothly put aside our thoughts of the plan –
+The thoughts came from nowhere, diminishing our focus. Was there something urgent we had missed? We smoothly put aside our thoughts of the plan –
 
 NO! YOU – I – OUR PLAN <EM>WAS</EM> THE MISTAKE! ALL THE WAY FROM THE BEGINNING! WE DIDN'T DESERVE TO GET TO STOP THINKING OF IT! SHE WAS RIGHT IN FRONT OF ME, SHE WAS SUFFERING! HOW HAD I NOT SEEN IT?! <EM>HOW?!</EM>
 
-Terrible uncertainty crept into the base of our mind. Our human chest had filled with a crushing feeling. This made no sense! To doubt the plan of centuries was incoherent. Yet the thought had appeared. Why had we thought the plan was wrong? Why… why had we thought of Blood as "she"? How – something was very wrong, we needed to review our –
+Terrible uncertainty crept into the base of our mind. Our human chest had filled with a crushing feeling. This made no sense. To doubt the plan of centuries was incoherent. Yet the thought had appeared. Why had we thought the plan was wrong? Why… why had we thought of Blood as "she"? How – something was far out of position, we needed to review our –
 
-I was Yali again, my body shaken away from the god by a violent force. It was agony, pushing myself back upright and trying to control the painful tears. My mind was in chaos. I'd thought I was being clever, using my own feeling of guilt, but it had gotten mixed up with my guilt about [????? childhood friend] – no, it HAD been clever! It had <em>worked!</em> The Waiting God was shaken too, I had felt it! A feeling of triumph rose inside me. And this was only the beginning! I gathered my determination. I listened for the Waiting again, and felt…
+I was Yali again, my body shaken away from the god by a violent force. It was agony, pushing myself back upright and trying to control the painful tears. My mind was in disarray. I'd thought I was being clever, using my own feeling of guilt, but it had gotten mixed up with my guilt about [????? childhood friend] – no, it HAD been clever! It had <em>worked!</em> The Waiting God was shaken too, I had felt it! A feeling of triumph rose inside me. And this was only the beginning! I gathered my determination. I listened for the Waiting again, and felt…
 
 Nothing but fatigue.
 
 After several minutes, I understood. It was like the way I had felt back in the material world, when I had forced myself to use the Seeing for as long as I could. My connection to the Waiting God had been overtaxed. Well… if it was like before, it would recover after a time. It would not be soon, but I would have many more chances to confront the god.
 
-Still, this was troublesome. There were multiple things I would have to consider. How might the Waiting God's thoughts change while I was unable to access them? Would ????? ????? [????? concern about lack of access to the Seeing] [????? what about the memories? Are they also inaccessible?] [????? possibility of the main confrontation happening in the final portal]
+Still, this was troublesome. There were multiple things I would have to consider. How might the Waiting God's thoughts change while I was unable to access them? Would ????? ????? [????? concern about lack of access to the Seeing] what other things was I relying on the God for, that I might need to consider? I checked whether I could still access the memories of the former Farseers. I could do. The god must have actually implanted the memories in me somehow, rather than just letting me look at them. At least that was one less thing to worry about. ?????
+
+[????? But] if I challenged the god every time I had contact with it, I would spend most of my time out of contact with it. The more I thought about that, the less it seemed like a good plan. There were many things I wouldn't be able to do if I spent most of this layer with no access to the Waiting God's thoughts. And in hindsight, it was unlikely that I could change the god through only a few days of challenging its ideas, even from my position as its Raveller. My goal was to change it through the Ravelling itself. If I made <em>my</em> entire soul reject its plan, then once it absorbed part of my soul, it would permanently have a part of <em>itself</em> rejecting its plan. To make sure that happened, the most important thing was for me to get the thoughts in my own soul just right. I had to make them oppose the Waiting God's plan perfectly. And to do that, I needed to <em>understand</em> the Waiting God's plan perfectly. And that meant having access to its thoughts.
+
+I wouldn't plan on challenging the god again just yet. The real confrontation would take place inside the final portal. [????? Note when the contact comes back, perhaps 20% through chapter 20]
 
 <bigbreak>
 
