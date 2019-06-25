@@ -407,17 +407,37 @@ When I got up to the edge, I walked over to Alchemist. "Hey," I said softly. I g
 
 <bigbreak>
 
+From then on, I let Alchemist take the lead about how much to explore. We spent a lot more time just resting, cuddling, wandering around, playing and drawing pictures in the sand. Alchemist told me more about their family, and I told them some things about my life too. I steered away from <em>my</em> family, because I would mostly just end up complaining about them. I mostly told Alchemist about fun times I'd had with Layo. Out of all my friends, Layo was the only one who was really into wholesome stuff.
+
+A lot of the conversations ended with Alchemist crying about how much they missed their family. I couldn't help but feel bad for them. They had never lived away from home – not that I had, either, but I would have if I could – and the Ravelling had taken them totally by surprise. Their family was probably worried sick about them. I told Alchemist it was okay if they didn't want to talk about it, but they just kept talking about it and making themself sad. So I mostly just listened and cuddled and manifested tissues for them.
+
+Still, it wasn't <em>that</em> long before Alchemist was curious about the gorge. When we went to explore it, I walked along ahead of them, manifesting guardrails everywhere so they wouldn't have to be nervous. Alchemist moved slowly, looking up and down, occasionally pausing to touch weird rock formations. I kept wanting to run ahead, but I stopped myself. That would just be the same thing I'd been doing before, that made me and Alchemist argue. So instead, I followed what Alchemist was doing. I ?????.
+
+I ended up noticing a lot more things that way. ?????
+
 ?????
 
 [????? making progress by not trying; resentment because this was technically a lesson, but the Seeking God had no right to force lessons on me at a time like this]
 
 [????? Alchemist took a walk and then didn't come back and then I went and found them crying]
 
-"If you need some space away from me, I can –"
+[????? I checked the time on my phone.]
+
+It had been a few hours since Alchemist left. They hadn't <em>said</em> how long they were going to take, but I had kind of assumed it wouldn't be this line.
+
+?????
+
+Alchemist was sitting in the sand, [????? arranging things in front of them for comfort] I had definitely been crying.
+
+When I got close, Alchemist noticed me.
+
+"Oh… you came…" they said unhappily.
+
+"If you need more space away from me, I can –"
 
 "It's not, that…"
 
-"Okay, then, what is it? Come on, talk to me."
+I approached them cautiously, trying to be gentle. "Okay, then, what is it? Come on, talk to me."
 
 "This doesn't… feel right." Alchemist went quiet for a while. I stayed quiet to let them continue. "I can tell, you, have been trying, so hard, to, care for me. And Morrow, told me, how, you, maybe, fought so hard, to, keep him safe, when he was, hurting himself. Having you work so hard, for us… it just, doesn't feel right."
 
@@ -451,7 +471,7 @@ The sand disappeared under me.
 
 With a surge of adrenaline, I braced myself in the air and landed on my feet. Beside me, Alchemist wasn't so lucky.
 
-We were in some sort of big unfinished construction area. Concrete floor, piles of bricks everywhere, surrounded by a square of half-finished brick walls. And above the walls, there was just white emptiness, as if someone had started painting this room on a canvas but then got bored halfway through. But one of the walls was different. Instead of bricks like the others, it was a wall of shimmering black, just like the portal from the last layer. I didn't see five separate portals, so maybe there was just a big one for all of us?
+We had landed in some sort of big unfinished construction area. Concrete floor, piles of bricks everywhere, surrounded by a square of half-finished brick walls. And above the walls, there was just white emptiness, as if someone had started painting this room on a canvas but then got bored halfway through. But one of the walls was different. Instead of bricks like the others, it was a wall of shimmering black, just like the portal from the last layer. I didn't see five separate portals, so maybe there was just a big one for all of us?
 
 "Wait, is that the portal?" I said. "Are we done? That was anticlimactic."
 
