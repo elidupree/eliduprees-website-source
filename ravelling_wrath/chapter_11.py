@@ -90,11 +90,13 @@ We sat down next to each other on a big rock. Alchemist reached out hesitantly a
 
 "I'm sorry. It must be hard for you, having the gods pull you out of your life all of a sudden." Alchemist stiffened. "Sorry! I didn't mean to make you remember anything traumatic!"
 
-[????? "If, you, want, to, talk, about, –"]
+"If, you, want, to, talk, about, –"
 
+"It's okay!" I said quickly. "I mean, I want to get to know you better, but I don't want to make you do anything you don't want to do –"
 
+"You could, get to know me better? If you want?" said Alchemist. But they sounded reluctant, and their body was still all tensed up next to me.
 
-?????
+"Are you sure you're okay with that?"
 
 "It's, okay, –"
 
@@ -114,7 +116,7 @@ Alchemist leaned into my shoulder. Hesitantly, they said, "I, maybe, Justicar sa
 
 "Oh…" said Alchemist. They sounded pretty disappointed. I was starting to get the idea that when Alchemist said "oh" like that, it didn't really mean they understood something. It meant they just didn't feel like pushing anymore.
 
-"Look, it's okay. If you've got a problem with me, I want to hear about it. Just spit it out, don't leave me hanging."
+"Look, it's okay. If there's something you're still worried about, about me, I want to hear about it. Just spit it out, don't leave me hanging."
 
 Alchemist swallowed. They wobbled back and forth, trying to psych themselves up. Finally, they spoke.
 
@@ -130,7 +132,7 @@ Well, fuck.
 
 "He might…" said Alchemist sadly. "He might hurt… somebody else. Will you hurt him then?"
 
-"You're wiser than I thought," I said. Alchemist seemed like they didn't like to think about painful things, so I had kind of expected that they would just avoid bringing it up. But, fuck, they sure knew how to ask the hard questions. I sighed. "I, like, I can't promise it'll <em>never</em> happen, but, I guess… Even if he's hurting someone, I promise I'll try everything else I can think of first. Like, I'll, I don't know, just try to block him, or whatever. I promise."
+"You're wiser than I thought," I said. Alchemist seemed like they didn't like to think about painful things, so I hadn't really expected them to bring up something like this. But, fuck, they sure knew how to ask the hard questions. I sighed. "I, like, I can't promise it'll <em>never</em> happen, but, I guess… Even if he's hurting someone, I promise I'll try everything else I can think of first. Like, I'll, I don't know, just try to block him, or whatever. I promise."
 
 "Thanks…" Alchemist clearly wasn't <em>completely</em> satisfied, but they sounded sincere. Tentatively, they put their arms around me. Their hug was warm and gentle, lumpy in some places and bony in others. I hugged them back. And then, abruptly, they went limp, collapsing half their weight onto my shoulders.
 
@@ -413,7 +415,7 @@ A lot of the conversations ended with Alchemist crying about how much they misse
 
 Still, it wasn't <em>that</em> long before Alchemist was curious about the gorge. When we went to explore it, I walked along ahead of them, manifesting guardrails everywhere so they wouldn't have to be nervous. Alchemist moved slowly, looking up and down, occasionally pausing to touch weird rock formations. I kept wanting to run ahead, but I stopped myself. That would just be the same thing I'd been doing before, that made me and Alchemist argue. So instead, I followed what Alchemist was doing. I ?????.
 
-I ended up noticing a lot more things that way. ?????
+I ended up noticing a lot more things that way. [????? A bunch of examples; Alchemist knew weird facts about all kinds of stuff; I never would have known that if I hadn't given him the space to be comfortable rambling]
 
 ?????
 
@@ -459,13 +461,23 @@ I stared, open-mouthed. "You kidding me?! No way! He doesn't <em>look</em> twent
 
 <em>Yeah, great job, Rinn. Great advice.</em>
 
+"Okay, that was stupid of me. But, I'm sure Morrow won't be mad. He'll know you didn't mean to do it."
 
+"Mm."
 
-?????
+I sat down alongside Alchemist. They leaned towards me, then leaned away uncomfortably. Were they still worried that they were, like, taking advantage of me or something?
 
-"You know… this has been nice. And at least the god is showing us more interesting stuff now, even if it's not really giving us a way out of this –"
+"Look," I said softly, "I <em>like</em> you. Whenever I can do something that makes you smile, that makes me happy, too." At least, more happy than my <em>own</em> stuff would make me feel. "So whenever I'm, like… helping you out and stuff, that's what I <em>want</em> to be doing. You know me, I need to have something to do all the time. If I wasn't doing this, I'd be doing… you know, that other stuff… and neither of us wants that. So please, just let me do this for you."
 
-The sand disappeared under me.
+I held out my hand. Alchemist brushed their fingers against mine, but didn't really hold my hand. "I don't know… I, like you too, this just, doesn't feel…"
+
+"Doesn't feel right? Sure, maybe it isn't. But whatever the <em>right</em> thing is, I'm pretty sure it got taken off the table months ago, by the gods. And this… this isn't so bad. I've been… happy, most of the time, and I've been learning a lot from you – ugh, that's probably what the Seeking God wants. But really, this isn't so bad."
+
+Alchemist seemed to relax. They took my hand, their warm fingers rubbing on my palm. They were so good at expressing themselves without words. I could just <em>feel</em> the renewed sense of camaraderie flowing from their fingers. They turned their head and gave me a long mournful look. "Mmmm, thank you, Rinn. I know, being stuck here with me, isn't what you wanted."
+
+"The 'being with you' is great! It's just the being stuck that's bad!" I laughed. "I wish we could have met some other way, then we could've – actually, wait a minute, if I hadn't been stuck with you I don't know if I'd have gotten to know you. Wow. Just, wow. Is <em>that</em> the Seeking God's lesson for me this time? The whole way it's not letting us out of this desert – I mean, it's still a massive jerk move, but maybe –"
+
+The sand disappeared under us.
 
 <bigbreak>
 
@@ -493,13 +505,13 @@ I gaped at her. "I thought I was doing a good job!! Does <em>everything</em> I d
 
 "I'm not, I'm not, not saying you did anything wrong –"
 
-Meanwhile, Alchemist and Morrow were having a moment, too. Once someone had unmanifested the handcuffs, they had run up to each other and started making out. But then Alchemist started to look a little worried, and Morrow started panicking. "It's okay it's okay!!" said Morrow frantically. "It's no big deal if everyone knows –" Morrow jumped and waved for everybody's attention "– if everyone knows I'm twenty-five, that's right, I'm twenty-five years old, everybody! See, it's no big deal!"
+Meanwhile, Alchemist and Morrow were having a moment, too. Once someone had unmanifested the handcuffs, they had run up to each other and started making out. But then Morrow started panicking. "It's okay it's okay!!" said Morrow frantically. "It's no big deal if everyone knows –" Morrow jumped and waved for everybody's attention "– if everyone knows I'm twenty-five, that's right, I'm twenty-five years old, everybody! See, it's no big deal!"
 
 Justicar raised an eyebrow slightly. "What prompted <em>this</em> outburst?"
 
 "Don't worry about it," I said.
 
-"I doubt that we should believe he is twenty-five," Justicar told me. "Come to think of it, we are an unusual combination of ages for Ravellers, are we not?"
+Justicar glanced back at me. "I doubt that we should believe he is twenty-five," she said. "Come to think of it, we are an unusual combination of ages for Ravellers, are we not?"
 
 "What's that supposed to mean?"
 
@@ -513,7 +525,7 @@ I squinted. "You'd call Justicar a <em>young</em> adult?"
 
 "If you must know, I am twenty-eight."
 
-Yali continued, "A lot of Imminents are children, like, preteens. Alchemists can be any age. And I'm the rarest one. Most Farseers are at least middle-aged, if not elderly. There have been a few children, but never a teenager –"
+Yali continued, "A lot of Imminents are children, like, preteens. Alchemists can be any age, so on average, they're older than this. And I'm the rarest one. Most Farseers are at least middle-aged, if not elderly. There have been a few children, but never a teenager –"
 
 "There was a fifteen-year-old Farseer in [????? year]," Justicar interrupted.
 
@@ -539,7 +551,7 @@ I grabbed onto Yali and kissed her sloppily. Then I kissed her again. "Oh gods, 
 
 Yali smiled. "It's nice to see you alive."
 
-"Oh gods, was I gonna die?!"
+I squeezed her tight. "I know, I can't believe the –" Then I noticed exactly what she'd said. "Oh gods, was I gonna die?!"
 
 "No, no… it's just, the Seeking God, since the beginning of this layer, it's been showing me these, these, moral dilemmas. And a lot of them have been like, 'if Rinn was dying, would you cut off your right arm to save her?'. And it didn't, like, ask that in words, it showed me a vision and had me act out what I would do. So it's just –"
 
@@ -551,7 +563,7 @@ I looked up into her eyes. "You'd actually cut your arm off to save me?! Oh my g
 
 "That was one of the easier choices, actually, I mean, when you think about it, my life wouldn't be <em>that</em> much different without my arm, it would just take a while to get used to –"
 
-"You're crazy!" I hugged her tight.
+"You're crazy!" I hugged her even tighter than before.
 
 "There were a lot of ones that were harder. But I learned a lot about myself, about what I would and wouldn't do. And it turned out that there's almost nothing I wouldn't do to keep us both alive. But the really hard questions were things related to… to… oh, never mind. The Seeking God just made me think about this for weeks, I'm allowed to stop thinking about it for now." She kissed me back.
 
@@ -587,7 +599,7 @@ We all gathered in a little cluster. I tried to pull everyone into a group hug, 
 
 Yali squeezed my hand hard. "<em>Remember,</em>" she whispered, "the Blood God is going to try something. Don't let it succeed. I'm trusting you."
 
-Oblivious to Yali, Morrow shouted, "Yeeeaaahh, let's do this thing!!" He rushed forward into the portal, dragging the rest of us with him. As Alchemist's hand dragged me forward, I frantically looked back at Yali, and the last thing I saw was her eyes looking intently back at me as my body slipped into the well of magic.
+Oblivious to Yali, Morrow shouted, "Yeeeaaahh, let's do this thing!!" He rushed forward into the portal, dragging the rest of us with him. As Alchemist's hand dragged me forward, I frantically looked back at Yali, and the last thing I saw was her eyes looking intently into mine as my body slipped into the well of magic.
 
  
 ''',
