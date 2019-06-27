@@ -413,29 +413,45 @@ From then on, I let Alchemist take the lead about how much to explore. We spent 
 
 A lot of the conversations ended with Alchemist crying about how much they missed their family. I couldn't help but feel bad for them. They had never lived away from home – not that I had, either, but I would have if I could – and the Ravelling had taken them totally by surprise. Their family was probably worried sick about them. I told Alchemist it was okay if they didn't want to talk about it, but they just kept talking about it and making themself sad. So I mostly just listened and cuddled and manifested tissues for them.
 
-Still, it wasn't <em>that</em> long before Alchemist was curious about the gorge. When we went to explore it, I walked along ahead of them, manifesting guardrails everywhere so they wouldn't have to be nervous. Alchemist moved slowly, looking up and down, occasionally pausing to touch weird rock formations. I kept wanting to run ahead, but I stopped myself. That would just be the same thing I'd been doing before, that made me and Alchemist argue. So instead, I followed what Alchemist was doing. I ?????.
+Still, it wasn't <em>that</em> long before Alchemist was curious about the gorge. When we went to explore it, I walked along ahead of them, manifesting guardrails everywhere so they wouldn't have to be nervous. Alchemist moved slowly, looking up and down, occasionally pausing to touch weird rock formations. I kept wanting to run ahead, but I stopped myself. That would just be the same thing I'd been doing before, that made me and Alchemist argue. So instead, I followed what Alchemist was doing. When Alchemist paused to look at a rock, I paused and looked at one next to it. When Alchemist moved on to something else, I moved on to something else. When Alchemist was curious about something up out of reach, I manifested raised platforms for us both to climb up on.
 
-I ended up noticing a lot more things that way. [????? A bunch of examples; Alchemist knew weird facts about all kinds of stuff; I never would have known that if I hadn't given him the space to be comfortable rambling]
+I ended up noticing a lot more things that way. The rocks had subtle patterns all over them, gray-on-gray swirls that never seemed to repeat themselves. The wind didn't blow in the same direction everywhere, and there were spots where it was blowing upwards in one place and downwards just a step away. It felt like all the patterns were connected to each other, I just couldn't see how. Alchemist said the wind reminded them of a book they read about climate and weather patterns. They rambled for a while about some details they remembered, occasionally manifesting one of the pictures from the book to show me. It was kind of adorable. It turned out that Alchemist knew a lot of weird facts about a lot of different subjects, if you just stayed quiet long enough for them to start talking. They always had trouble putting things into words, but a lot of the time they filled in the gaps by manifesting images and shapes. I had trouble understanding at first, but I didn't have anything else to do, so I sat around and listened. Surprisingly quickly, I started to get an intuition for what Alchemist meant, even when they weren't explaining themselves clearly.
 
-?????
+Was this "making progress by not trying"? Was the Seeking God trying to show me some sort of lesson here? Ugh, it had no right to force lessons on me at a time like this. But it <em>was</em> nice being with Alchemist. I didn't have to worry about that right now.
 
-[????? making progress by not trying; resentment because this was technically a lesson, but the Seeking God had no right to force lessons on me at a time like this]
+Without fanfare, we reached the bottom of the gorge. There was another sandy floor down here, a wide, flat strip of sand going down the length of the gorge, just before the opposite wall went up above us.
 
-[????? Alchemist took a walk and then didn't come back and then I went and found them crying]
+I could feel that Alchemist wanted to rest. I set about manifesting my usual couch, laying out all of Alchemist's favorite cushions just how they liked them.
 
-[????? I checked the time on my phone.]
+Alchemist didn't sit down right away. They hesitated.
 
-It had been a few hours since Alchemist left. They hadn't <em>said</em> how long they were going to take, but I had kind of assumed it wouldn't be this line.
+"What's up?" I said.
 
-?????
+Alchemist didn't answer. They wobbled back and forth a little. Finally, they said, "I think I'll, maybe, take a walk? If that's okay?"
 
-Alchemist was sitting in the sand, [????? arranging things in front of them for comfort] I had definitely been crying.
+"Oh, of course it –" I jumped right up. "…Oh. You meant without me." Alchemist gave a tiny nod. "Well, I mean – that's okay – of course. Go ahead." I sat back down, deflated.
+
+Alchemist half-nodded again. "I'll, be back," they muttered. Then they shuffled off into the fog.
+
+I wasn't sure what to do without them there. What could I do to keep myself entertained by myself? Thinking about that reminded me of when I was alone with Yali in the first layer. I didn't want to think about Yali right now, because that would just bring up my bad thoughts again. So I threw myself into preparing for when Alchemist would be back. I made a whole cozy little room for us, like a little cottage with walls keeping out the wind. I remembered that they liked the smell of old books, so I manifested a whole bookshelf full of old books. I wasn't thinking about <em>what</em> bookshelf to use, and it ended up being a shelf of kids' books from the library from when I was younger. I almost decided to unmanifest it and use something else, but then I thought, why not? Alchemist might think it was cute. Of course, then I spotted a <em>particular</em> kids' book that had made me mad when I was a kid because the ending was really unfair. So I took that book out and ripped it up, then unmanifested it so Alchemist wouldn't know I'd been ripping stuff up.
+
+Alchemist still wasn't back.
+
+I filled up the rest of the walls with all kinds of nice things I thought they'd like, like little sculptures, flowerpots with plastic flowers, and paintings of landscapes. I even put up a giant banner that said <em>WELCOME BACK ALCHEMIST</em>, but then I felt like it might put them on the spot, so I took it down again.
+
+Finally, I didn't have anything more to do, and Alchemist still wasn't back. All the stuff was set up, but it just felt like kind of a waste. I was just bored and alone.
+
+I checked the time on my phone.
+
+It had been a few hours since Alchemist left. They hadn't <em>said</em> how long they were going to take, but I had kind of assumed it wouldn't be this long. I kind of wanted to go after them. I didn't <em>want</em> to, I wanted them to come back normally so I wouldn't have to push them if they actually just needed space. But, once I thought about it… the god might have done something weird again, and then Alchemist might not know how to handle it. Actually, that seemed disturbingly likely. Reluctantly, I got up and followed after them.
+
+It turned out they weren't even that far away. I found them was sitting on the ground, with a bunch of geometric shapes drawn in the sand in front of them. Their hands slowly traced over the shapes. It looked like that was comforting to them. They had definitely been crying.
 
 When I got close, Alchemist noticed me.
 
 "Oh… you came…" they said unhappily.
 
-"If you need more space away from me, I can –"
+"I was just worried, if you need more space away from me, I can –"
 
 "It's not, that…"
 
