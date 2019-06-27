@@ -49,7 +49,7 @@ And even if I found her, what good would it do? She would just be taken away fro
 
 That…
 
-Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either. It did <em>feel</em> like the Blood God, but it… didn't really feel like it? Just in case, I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
+Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either. It did <em>feel</em> like the Blood God, but it… didn't really <em>feel</em> like it? Just in case, I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
 
 I ought to get up, I thought. My back was killing me. I <em>really</em> ought to get up. But somehow, it just didn't happen. I couldn't summon up the motivation to move.
 
@@ -133,7 +133,7 @@ With a tremendous effort, I hauled myself up to my hands and knees again.
 
 <bigbreak>
 
-By the time I reached the first intersection, I had already fallen to pieces. Not physically. But as good as physically. I had been made to stand stiff and still for hours at a time waiting to be let through. I had been made to wash dirty cloth by hand and hang it up to dry, then do it all over again because I'd missed a spot. I had been made to repeat long statements, saying that I was unimportant, that I would do what was asked of me, that I would accept it when life did not give me everything I wanted. And every time I got impatient and said anything beyond what was prescribed – or even when I just yanked out the damp cloth with irritation – they made me redo the process all the way from the beginning.
+By the time I reached the first intersection, I had already fallen to pieces. Not physically. But as good as physically. I had been made to stand stiff and still for hours at a time waiting to be let through. I had been made to wash pieces of dirty cloth by hand and hang it up to dry, then do it all over again because I'd missed a spot. I had been made to repeat long statements, saying that I was unimportant, that I would do what was asked of me, that I would accept it when life did not give me everything I wanted. And every time I got impatient and said anything beyond what was prescribed – or even when I just yanked out the damp cloth with irritation – they made me redo the process all the way from the beginning.
 
 I don't know how I ever made it through. It just happened. My body stood straight-backed at the intersection, carrying the tatters of myself that I had dragged through the grind.
 
