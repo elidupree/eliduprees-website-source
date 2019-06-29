@@ -146,7 +146,7 @@ The thoughts came from nowhere, diminishing our focus. Was there something urgen
 
 NO! YOU – I – OUR PLAN <EM>WAS</EM> THE MISTAKE! ALL THE WAY FROM THE BEGINNING! WE DIDN'T DESERVE TO GET TO STOP THINKING OF IT! SHE WAS RIGHT IN FRONT OF ME, SHE WAS SUFFERING! HOW HAD I NOT SEEN IT?! <EM>HOW?!</EM>
 
-Terrible uncertainty crept into the base of our mind. Our human chest had filled with a crushing feeling. This made no sense. To doubt the plan of centuries was incoherent. Yet the thought had appeared. Why had we thought the plan was wrong? Why… why had we thought of Blood as "she"? How – something was far out of position, we needed to review our –
+Terrible uncertainty crept into the base of our mind. Our human chest had filled with a crushing feeling. This made no sense. To doubt the plan of centuries was incoherent. Yet the thought had appeared. Why had we thought the plan was wrong? Why… why had we thought of Blood as "she"? Something was far out of position, we needed to review our –
 
 I was Yali again, my body shaken away from the god by a violent force. It was agony, pushing myself back upright and trying to control the painful tears. My mind was in disarray. I'd thought I was being clever, using my own feeling of guilt, but it had gotten mixed up with my guilt about [????? childhood friend] – no, it HAD been clever! It had <em>worked!</em> The Waiting God was shaken too, I had felt it! A feeling of triumph rose inside me. And this was only the beginning! I gathered my determination. I listened for the Waiting again, and felt…
 
@@ -154,9 +154,9 @@ Nothing but fatigue.
 
 After several minutes, I understood. It was like the way I had felt back in the material world, when I had forced myself to use the Seeing for as long as I could. My connection to the Waiting God had been overtaxed. Well… if it was like before, it would recover after a time. It would not be soon, but I would have many more chances to confront the god.
 
-Still, this was troublesome. There were multiple things I would have to consider. How might the Waiting God's thoughts change while I was unable to access them? Would ????? ????? [????? concern about lack of access to the Seeing] what other things was I relying on the God for, that I might need to consider? I checked whether I could still access the memories of the former Farseers. I could do. The god must have actually implanted the memories in me somehow, rather than just letting me look at them. At least that was one less thing to worry about. ?????
+Still, this was troublesome. There were multiple things I would have to consider. How might the Waiting God's thoughts change while I was unable to access them? Would ????? ????? [????? concern about lack of access to the Seeing] what other things was I relying on the God for, that I might need to consider? I checked whether I could still access the memories of the former Farseers. I could. The god must have actually implanted the memories in me somehow, rather than just letting me look at them. At least that was one less thing to worry about. ?????
 
-[????? But] if I challenged the god every time I had contact with it, I would spend most of my time out of contact with it. The more I thought about that, the less it seemed like a good plan. There were many things I wouldn't be able to do if I spent most of this layer with no access to the Waiting God's thoughts. And in hindsight, it was unlikely that I could change the god through only a few days of challenging its ideas, even from my position as its Raveller. My goal was to change it through the Ravelling itself. If I made <em>my</em> entire soul reject its plan, then once it absorbed part of my soul, it would permanently have a part of <em>itself</em> rejecting its plan. To make sure that happened, the most important thing was for me to get the thoughts in my own soul just right. I had to make them oppose the Waiting God's plan perfectly. And to do that, I needed to <em>understand</em> the Waiting God's plan perfectly. And that meant having access to its thoughts.
+[????? But] if I challenged the god every time I had contact with it, I would spend most of my time out of contact with it. The more I thought about that, the less it seemed like a good plan. There were many things I wouldn't be able to do if I spent most of this layer with no access to the Waiting God's thoughts. And in hindsight, it was unlikely that I could change the god through only a few days of challenging its ideas, even from my position as its Raveller. The most powerful way to change it would be through the Ravelling itself. If I made <em>my</em> entire soul reject its plan, then once it absorbed part of my soul, it would permanently have a part of <em>itself</em> rejecting its plan. To make sure that happened, the most important thing was for me to get the thoughts in my own soul just right. I had to make them oppose the Waiting God's plan perfectly. And to do that, I needed to <em>understand</em> the Waiting God's plan perfectly. And that meant having access to its thoughts.
 
 I wouldn't plan on challenging the god again just yet. The real confrontation would take place inside the final portal. [????? Note when the contact comes back, perhaps 20% through chapter 20]
 
@@ -174,13 +174,13 @@ But which prayer should I say? Every god had its own prayer for the dead. I knew
 
 Could I say a Blood prayer?
 
-To be true to the Blood God, I would have to say the prayer with true emotion. But if I felt the emotions that my body wanted me to feel, I wouldn't be able to keep doing what I needed to do.
+Even if I wanted to, I couldn't. To be true to the Blood God, I would have to say the prayer with true emotion. But if I felt the emotions that my body wanted me to feel, I wouldn't be able to keep doing what I needed to do.
 
 In the end, I settled with the Broken. I stood over the body and spoke, keeping my voice level.
 
 "As the sun rose, you were a tangle of hope, holding on to life. As the sun set, you were smoke and threads floating on the wind. Now you may return to the Broken, as we all return. Our souls are one with the sky, our flesh is one with the earth. So says the dust."
 
-I stepped back from the body. This was good enough. The prayer had been said, and there was no need to bury her when this world would be absorbed soon anyway. I could finally leave her behind me.
+I stepped back from the body. This was good enough. The prayer had been said, and there was no need to physically bury her when this world would be absorbed soon anyway. I could finally leave her behind me.
 
 Part of me wanted to keep looking back at her. This didn't feel like a satisfying conclusion. But no matter how long I would hesitate and look back, it wouldn't make me feel any less unsatisfied. So I decisively turned away, hefted the handle of the wagon, and prepared to start rolling Rinn through the city.
 
@@ -275,13 +275,19 @@ Mountains of waste piled up in the pit as I expanded my swath of destruction. At
 
 Was it done? It seemed to be done. That was a relief. Now that I didn't need to feel that way anymore, I was aware of how much anxiety it had given me. I hurried to force the dangerous feeling back out of my mind. Then I walked to fetch Rinn's wagon.
 
-While I wheeled Rinn across the "bridge" I'd made, I tried to clear my head from the feelings it had brought up. ?????
+While I wheeled Rinn across the "bridge" I'd made, I tried to clear my head from the feelings it had brought up. I knew these feelings were a warning sign for abusive behavior. I had read all about it online. If someone put their partner on a pedestal, but hated everyone else, they were likely to mistreat their partner too. And I was no exception. If I let this feeling control me, it would start with me hating things that Rinn liked – in fact, I already had, because this world was something Rinn liked. And then, if I was honest with myself, there were things I disliked about Rinn herself, too, and I would hate those things and try to control Rinn so she'd be the way I wanted her to be. And then, when Rinn didn't do what I wanted, I would hate <em>her</em>, and try to make her suffer, even while I still loved her. These were things that other abusers did all the time, and they were what I would do too.
 
-?????
+But I understood the danger. I wouldn't let that happen. It would be dysfunctional to stop myself from <em>ever</em> feeling hatred, but I could keep it directed at the ones that actually deserved it. Like the ????s. Like Arinyo Seti. Like the Waiting God. Like the Blood God. Like Morrow. Even if Rinn liked those last two. I was always allowed to hate abusers, even if Rinn liked them. It didn't count as "hating things Rinn liked" because I wasn't trying to <em>control</em> what she liked. She was allowed to have complicated feelings about Morrow. I could make myself be okay with that. And she was allowed to –
 
-I had resented the Blood God. I had seen it as getting in my way, interfering with me. My hands began shaking as I realized it. That was how the Waiting God felt. I would never be able to change the Waiting God if my own soul had the same judgments inside it.
+No, she wasn't! How could I be okay with Rinn liking the Blood God?! After everything it had done to us?! Even if we had seen its good side, even if we wanted to stop the Waiting God from slowly starving it to death, it was still the god who had gone in her head and try to make her kill me! There was no way I could be okay with that! Well, that could be another exception. The Blood God was probably distorting her sense of reality. I didn't have to be okay with what she liked if she only liked it because of an outside force controlling her mind. That was just basic logic.
 
-There was a great pain behind my eyes. I didn't want this. I had been justified. Every part of my dislike for the Blood God was fully justified. But it didn't matter how justified I was. If I kept fighting against it, the fighting would be part of me. And then the Waiting God would absorb that part of me. And then it would continue the cycle that had nearly killed us both.
+That explanation didn't make me feel better. Instinctively, I knew things were more complicated than that. Some part of the real Rinn liked the Blood God now, too. Why did the Blood God have to make things complicated? Why did it have to make Rinn like it? Why did it have to force me to feel things I didn't want to feel? Why couldn't it just get out of the way and…
+
+…let me go on with… my plan?
+
+My hands began shaking as I realized it. That was how the Waiting God felt. I had resented the Blood God, just as it had. I had seen it as getting in my way, interfering with me. I would never be able to change the Waiting God if my own soul had the same judgments inside it.
+
+There was a great pain behind my eyes. I didn't want this. I had been justified. Every part of my dislike for the Blood God was fully justified. But it didn't matter how justified I was. If I kept fighting against it, the fighting would be part of me. And then the Waiting God would absorb that part of me. And then it would continue the cycle that had nearly killed us.
 
 If I wanted to win, I would have to do the opposite. Somehow, somehow, I would have to, to <em>value</em> the Blood God's perspective.
 
