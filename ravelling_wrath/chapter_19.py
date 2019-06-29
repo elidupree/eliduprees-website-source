@@ -239,7 +239,7 @@ Either way, flying across probably wouldn't be practical.
 
 [????? It just wasn't possible to manifest that much.] Unless…
 
-Rinn had manifested that huge stone hand and that golden bridge earlier. It could have been a Blood Child power, but it didn't feel like it. It was probably an aspect of the Blood God's <em>world</em>, just like how the weather in the Broken God's world responded to people's unconscious emotions. If something about this <em>world</em> made it possible to manifest at a huge scale, then I might be able to do it, too.
+Rinn had manifested that huge stone hand and that golden bridge earlier. It could have been a Blood Child power, but my powers hadn't sensed it as one. It was probably an aspect of the Blood God's <em>world</em>, just like how the weather in the Broken God's world responded to people's unconscious emotions. If something about this <em>world</em> made it possible to manifest at a huge scale, then I might be able to do it, too.
 
 I stood and held out my arms, copying the way Rinn usually stood to manifest. How did she do it? What kind of feelings did she draw on when she was making that golden bridge? She was probably just completely confident. She could probably unleash the full power of her soul, without trying at all. The problem was, that wasn't me.
 
@@ -295,21 +295,19 @@ Even if I could make myself accept the Blood God… how?
 
 <em>Rinn</em> would know what to do. She was really into this Blood stuff. She'd probably say something like "just feel your feelings!" or "look to your own heart!" like it made perfect sense. But my feelings didn't make sense. If I let them control me, I wouldn't be able to think or get anything done. That was why I had to keep each of them under careful management. If I got upset when I had to do something important, it could destroy everything I had worked for, and then I would have much more to be upset about. Being upset was supposed to mean you <em>didn't</em> want something to happen, so it made no sense to be upset if that would cause more of it.
 
-Of course, I couldn't get rid of my feelings either. I had tried it once. When I was much younger, I had told myself that if my feelings were getting me hurt, I would just refuse to ever feel anything. It had worked for a while, long enough for me to be proud of it. But when I read more about it, I started to see how much it was costing me. I had found a long thread on an abuse survivors' forum where people were talking about how hard it was to recover from emotional suppression. Once I knew what it was like for them, I knew I didn't want that to be me.
+Of course, I couldn't get rid of my feelings either. I had tried it once. When I was eight, I had told myself that if my feelings were getting me hurt, I would just refuse to ever feel anything. It had worked for a while, long enough for me to be proud of it. But when I read more about it, I started to see how much it was costing me. I had found a long thread on an abuse survivors' forum where people were talking about how hard it was to recover from emotional suppression. Once I knew what it was like for them, I knew I didn't want that to be me.
 
 So that was why I had to strike a balance. It was like I had told Rinn, months ago now. I had to take each of my feelings out for a drive, in a controlled way, when it was safe. That way I could know their limits. I could know how to put them back away when they were getting in my way.
 
-But that was something to do when it was <em>safe</em>. Not something to do <em>now</em>. ?????.
+But that was something to do when it was <em>safe</em>. Not something to do <em>now</em>. I could find time for it once the crisis was over. We were still in a crisis, weren't we? The entire Ravelling was a crisis. If I didn't stay in crisis mode, I wouldn't be able to do what I needed to do. So it was definitely still a crisis.
 
 I kept that thought in my head for a while, mulling it over.
 
-It was wrong.
+Something was wrong about it. It was very logical, but only if I was giving up on connecting with the Blood God. If I was going to do that, my feelings would probably be important. I wasn't sure if my strategy of "taking my feelings out for a drive" was the same thing the Blood God would want me to do, but it might be a place to start. So now <em>was</em> the time to do it.
 
-Now <em>was</em> the time to take my feelings out for a drive. [????? Reasoning involving the Waiting God]
+Well, not <em>now</em>. When I did it, it might have physical effects on the world, so I needed to get Rinn to more stable ground first. I was all the way across the "bridge" by now, but I had done a lot of damage to the ground here, and it didn't feel completely steady.
 
-Well, not <em>now</em>. When I did it, it might have physical effects on the world, so I needed to get Rinn to more stable ground first.
-
-?????
+To be safe, I walked another half kilometer further into the city. Then I parked Rinn and looked for a place to sit.
 
 <bigbreak>
 
@@ -327,9 +325,9 @@ The sun was glaring in my eyes. It was hard to breathe. There was a lot of pain 
 
 My eyes were crying again. It hurt. Was this what the Blood God wanted? Was it Blood to just have all this pain? With Blood, the pain was supposed to <em>mean</em> something. But I didn't feel like there was any meaning at all. I needed to do something Blood, but there was nobody here to tell me what that was. I would have to figure it out by myself.
 
-Why? Why did it always have to be me? Why did I have to do all the work when everyone else could only see what was right in front of them? Hadn't I worked hard enough for one lifetime just to escape the ????s? Hadn't I worked hard enough for two lifetimes just to keep Rinn and me alive? ?????
+Why? Why did it always have to be me? Why did I have to do all the work when everyone else could only see what was right in front of them? Hadn't I worked hard enough for one lifetime just to escape the ????s? Hadn't I worked hard enough for two lifetimes just to keep Rinn and me alive? And now I had to do <em>another</em> incredibly difficult thing? When would it <em>end</em>?
 
-Thinking about this was making me feel deeply unfulfilled. I wanted something more. It was time to get myself back under control – no, if I was trying to be Blood, it was right to keep going. If I wanted something more… what did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the ground, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
+Thinking about this was making me feel deeply unfulfilled. I wanted something more. That meant it was time to get myself back under control – no, if I was trying to be Blood, it was right to keep going. If I wanted something more… what did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the ground, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
 
 Why couldn't I do it? When I tried, there was a haze in my mind, holding me back. I felt like the world was closing in on me. What was this feeling? It was like I was terrified of… something. Or, that <em>was</em> the feeling. I was terrified.
 
@@ -337,7 +335,7 @@ It didn't make sense for me to be afraid of this! Hadn't I explained this exact 
 
 I stared at the paving stones. I needed to think. I knew I was missing something important, I just couldn't see what.
 
-Time passed. I thought some more. Then I realized something, and it put another unpleasant feeling in my head, the feeling of knowing I had made a mistake. Even when I was trying to be more Blood, I was still being anti-Blood about it. The Blood God wouldn't want me to see a feeling as <em>getting in the way</em>. A feeling was supposed to mean something. What did the fear mean? If it did mean something, how was I supposed to figure out what it meant? It was just a feeling.
+Time passed. I thought some more. Then I realized something, and it put another unpleasant feeling in my head, the feeling of knowing I had made a mistake. Even when I was trying to be more Blood, I was still being anti-Blood about it. The Blood God wouldn't want me to see a feeling as <em>getting in the way</em>. It was like Rinn had said, a feeling was supposed to mean something. What did the fear mean? If it did mean something, how was I supposed to figure out what it meant? It was just a feeling.
 
 If only I understood the fear better. Then maybe somehow a meaning would show up. Or maybe it wouldn't. I didn't know. I wouldn't know until I found a way to learn. But, thinking about it, to try to learn more about the feeling… I did know a way to do that.
 
