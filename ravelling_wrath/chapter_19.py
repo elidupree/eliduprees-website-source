@@ -202,18 +202,17 @@ Could a clear the piles away? Could I go around? Could I manifest a sort of boar
 
 The boardwalk would not work. The piles were unsteady. They might shift under us, and then Rinn could be reinjured. And going around… even if I could find a way to go around, it probably wouldn't be allowed. This was the Blood God's world. I remembered Rinn saying that we wouldn't get closer to the heart unless we used our own bodies. In the same way, going <em>around</em> a problem just wasn't the Blood way of doing things.
 
-I sat a while and thought of how I could move the things. No good ideas came to me. Eventually, I stood up and began hauling them out of the way one at a time, making a path just wide enough for me and my wagon. It was heavy work. Each thing seem to be tangled with a dozen others. Pain accumulated in my back.
+I sat for a while and thought of how I could move the things. No good ideas came to me. Eventually, I stood up and began hauling them out of the way one at a time, making a path just wide enough for me and my wagon. It was heavy work. Each thing seem to be tangled with a dozen others. Pain accumulated in my back.
 
 Many of the tools were already rusted out, and fell apart as I tried to pull them away. This left debris in my path, which I would have to clear away. If I bent down to lift every fragment, it would soon become too much for me.
 
-I manifested a giant pair of tongs to grab things from the floor, and began steadily lifting the broken pieces and throwing them to the side.
+I manifested a giant pair of tongs to grab things from the floor, and began steadily lifting the broken pieces and throwing them to the side. Now, the broken ones were easier than the intact ones. Experimentally, I put my hand on a shovel and used manifesting to make it fall to pieces. It worked. This became my new strategy. Instead of throwing the things out of the way, I just broke them down and kicked the pieces between the wheels of the wagon.
 
-[????? Yali becomes physically tired of moving up in, and stopped to rest]
+Finally, I collapsed the last pile and saw the exit. I had made it through.
 
-[????? Actually, searching the past should probably be motivated by trying to understand Blood, meaning it has to come AFTER Yali's struggle to be more Blood]
+There was another long stretch of road ahead of me, but my body was nearing its limits. Once I had successfully rolled Rinn out beyond the forge, I looked for a place to stop and rest. I selected a hollowed-out shell of a building by the road, and I brought Rinn inside. I manifested new glass for its broken windows to keep us sheltered from the wind.
 
-, but my body was nearing its limits. Once I had successfully rolled Rinn out beyond the forge, I looked for a place to stop and rest. I selected a hollowed-out shell of a building by the road, and manifested new glass for its broken windows to keep us sheltered from the wind.
-?????
+For myself, I manifested another hard bench, with a back only slightly reclined. My body might need rest for now, but I didn't want to let my mind succumb to rest. I had to be able to keep going.
 
 <bigbreak>
 
@@ -223,37 +222,35 @@ Most of the journey was not difficult. I only had to endure the soreness of my l
 
 The road was wide and rose steadily uphill. Here, it was long and straight, letting me see far into the distance. I picked out a tower near the end of my vision, and when I counted the time as I walked there, it took me most of an hour to reach it. When I did, I picked out another landmark and counted the time again.
 
-After nine hours, I came to another obstacle. Ahead of me, the road was interrupted by a huge crevice. This was a problem. I had to keep going towards the portal, but I couldn't think of a way across the crevice. It was too wide for me to manifest a bridge across it. The edges were too steep for me to cart Rinn down one side and up the other. Looking down, I saw the remains of multistory basements embedded in the crevice wall. Judging by the depth of the basement, the crevice was at least ten stories deep, maybe more.
+After nine hours, I came to another obstacle. Ahead of me, the road was interrupted by a huge chasm. This was a problem. I had to keep going towards the portal, but I couldn't think of a way across the chasm. It was too wide for me to manifest a bridge across it. The edges were too steep for me to cart Rinn down one side and up the other. Looking down, I saw the remains of multistory basements embedded in the chasm wall. Judging by the depth of the basement, the chasm was at least ten stories deep, maybe more.
 
-Once again, I wanted to go around the problem. But as I looked to the left and right, the crevice went on as far as I could see. It might have even formed a complete circular moat around the location of the portal. One way or another, I would have to cross over it.
+Once again, I wanted to go around the problem. But as I looked to the left and right, the chasm went on as far as I could see. It might have even formed a complete circular moat around the location of the portal. One way or another, I would have to cross over it.
 
-I stood near the edge and thought about my options. Earlier, through the Watchful Eye, I had seen Morrow and Alchemist get across this crevice, but they had used Alchemist's potions of flight. I still had some – I had used one of them in the fight – but Rinn couldn't use them right now. I would have to figure out my own way to get past this.
+I stood near the edge and thought about my options. Earlier, through the Watchful Eye, I had seen Morrow and Alchemist get across this chasm, in a different place, but they had used Alchemist's potions of flight. I still had some – I had used one of them in the fight – but Rinn couldn't use them right now. I would have to figure out my own way to get past this.
 
 Could I manifest a hot air balloon? No… even if I could do that, I wouldn't know how to land it without jostling Rinn. Besides, Rinn had said that we wouldn't "get closer to the heart" unless we moved using our own bodies. Would it count as using my own body if I used my arms to operate an engine that carried me…? How did Rinn even know what counted and what didn't? If she was awake, she'd probably say it was obvious, like you could feel it with your body or something.
 
 It wasn't obvious to <em>me</em>.
 
-Either way, flying across probably wouldn't be practical.
+Either way, flying across probably wouldn't be practical. For any way of flying, I just wasn't enough of an expert to do it safely. And I also wasn't an expert in… whatever it would take to slowly lower the wagon down one side and then slowly raise it up the other. One of the old Farseers was a engineer who might have been able to do it, but just because I could <em>remember</em> designing pulley systems didn't mean I had the <em>skill</em> to make a new, complex design in the present.
 
-?????
+Besides, none of this was like the Blood God. The Blood God didn't <em>hate</em> clever solutions, but it wouldn't have put this here just to make me think of a clever solution. If I didn't think about the practicalities, I would assume I was intended to go straight across. But it just wasn't possible to go straight across. There was no way I could manifest a bridge that big. Unless…
 
-[????? It just wasn't possible to manifest that much.] Unless…
-
-Rinn had manifested that huge stone hand and that golden bridge earlier. It could have been a Blood Child power, but my powers hadn't sensed it as one. It was probably an aspect of the Blood God's <em>world</em>, just like how the weather in the Broken God's world responded to people's unconscious emotions. If something about this <em>world</em> made it possible to manifest at a huge scale, then I might be able to do it, too.
+Rinn had manifested that huge stone hand and that golden bridge earlier. They were way bigger than anything she had manifested in the earlier layers. It could have been a new Blood Child power, but it didn't seem like one, and my powers could normally sense the difference. It was probably an aspect of the Blood God's <em>world</em>, just like how the weather in the Broken God's world responded to people's unconscious emotions. If something about this <em>world</em> made it possible to manifest at a huge scale, then I might be able to do it, too.
 
 I stood and held out my arms, copying the way Rinn usually stood to manifest. How did she do it? What kind of feelings did she draw on when she was making that golden bridge? She was probably just completely confident. She could probably unleash the full power of her soul, without trying at all. The problem was, that wasn't me.
 
 I had to try.
 
-In my mind, I visualized a bridge in front of me, a steel structure that would span all the way across the crevice. Then I focused my will on making it real. Like before, it flickered into existence, but then flickered out again. I stayed calm and focused, trying to make it stable. But it was too weak. I pushed with my mind, but it failed to become real.
+In my mind, I visualized a bridge in front of me, a steel structure that would span all the way across the chasm. Then I focused my will on making it real. Like before, it flickered into existence, but then flickered out again. I stayed calm and focused, trying to make it stable. But it was too weak. I pushed with my mind, but it failed to become real.
 
-I stared at the crevice for many minutes, trying each variation I thought of. First I tried to push harder with my mind. When that didn't work, I tried to push more gently. I tried to build the bridge a little at a time, but it got harder and harder the more I added, and I ended up with something that didn't even reach a quarter of the way across. I was clearly missing something. When Rinn had done it, it felt like she wasn't trying at all. So I tried not trying at all, just waving my hand and expecting the bridge to appear for me. Again, nothing happened.
+I stared at the chasm for many minutes, trying each variation I thought of. First I tried to push harder with my mind. When that didn't work, I tried to push more gently. I tried to build the bridge a little at a time, but it got harder and harder the more I added, and I ended up with something that didn't even reach a quarter of the way across. I was clearly missing something. When Rinn had done it, it felt like she wasn't trying at all. So I tried not trying at all, just waving my hand and expecting the bridge to appear for me. Again, nothing happened.
 
 A shred of impatience slipped in from the back of my mind.
 
 The instant it did, the bridge was real. The instant I got myself under control again, it was gone.
 
-Was that impatient feeling the way to do the manifesting? I tried to do it again, allowing the impatience to come forward. I glared at the crevice, forcing the bridge to appear again. It did, if unsteadily. Now all I had to do was to stabilize it, to find a way to sustain the impatient feeling long enough to finish the bridge, but not to lose control –
+Was that impatient feeling the way to do the manifesting? I tried to do it again, allowing the impatience to come forward. I glared at the chasm, forcing the bridge to appear again. It did, if unsteadily. Now all I had to do was to stabilize it, to find a way to sustain the impatient feeling long enough to finish the bridge, but not to lose control –
 
 When I looked, the bridge was gone again. Even with the impatience still at the forefront of my mind, the bridge had disappeared the moment I felt like I could regulate it.
 
@@ -265,13 +262,13 @@ I had many choices of which feelings to unleash. It probably wasn't correct to u
 
 I <em>definitely</em> had one of those. It was already rising to my mind. I had been trying not to use this one so often, but if the Blood God was going to force me, it had only itself to blame. I could already feel my heart thudding, a foul feeling in my mouth and throat.
 
-It would be so easy, so satisfying, to let the feeling take over. For the moment, I held it back. It would probably be a good idea to put Rinn at a safe distance. Concentrating, I rolled her wagon far away from the edge. Then I walked back alone, to stand at the edge of the crevice, glaring at the city. Did it want me to unleash my feelings? Fine, then. I <em>would</em>.
+It would be so easy, so satisfying, to let the feeling take over. For the moment, I held it back. It would probably be a good idea to put Rinn at a safe distance. Concentrating, I rolled her wagon far away from the edge. Then I walked back alone, to stand at the edge of the chasm, glaring at the city. Did it want me to unleash my feelings? Fine, then. I <em>would</em>.
 
-A bridge. I <em>could</em> make a bridge. But why should I just adapt to the world when <em>it</em> had never adapted to <em>me</em>? I raised my arm like a claw. I would show the Blood God what would happen if you tried to control Yali Seti. I reached out my will and crushed the ground on the other side of the crevice. Under the force of my manifesting, concrete cracked and collapsed, buildings crumbled, and the waste slowly slid and fell into the hole. What had Rinn said? "Every human is the equal of the entire world"? How misguided. I was <em>better</em> than this world. Rinn and I were the only things that mattered. Everything else here, from this insulting crevice standing in my way, to the crumbling temple buildings that had never done me any good anyway, was worthless. They didn't <em>deserve</em> for me to <em>allow</em> them to remain standing.
+A bridge. I <em>could</em> make a bridge. But why should I just adapt to the world when <em>it</em> had never adapted to <em>me</em>? I raised my arm like a claw. I would show the Blood God what would happen if you tried to control Yali Seti. I reached out my will and crushed the ground on the other side of the chasm. Under the force of my manifesting, concrete cracked and collapsed, buildings crumbled, and the waste slowly slid and fell into the hole. What had Rinn said? "Every human is the equal of the entire world"? How misguided. I was <em>better</em> than this world. Rinn and I were the only things that mattered. Everything else here, from this insulting chasm standing in my way, to the crumbling temple buildings that had never done me any good anyway, was worthless. They didn't <em>deserve</em> for me to <em>allow</em> them to remain standing.
 
 I felt a pressure pushing back at me. I could tell what <em>that</em> meant. The Blood God didn't <em>like</em> me calling its world worthless. But I didn't care what it liked. I pushed past its resistance, toppling building after building into the pit. <em>You tried to kill me, you put the one I love through so much pain, and now you <strong>dare</strong> tell me how to feel? We may have a truce, but you have no right to speak to me.</em>
 
-Mountains of waste piled up in the pit as I expanded my swath of destruction. At last, the heap grew to the very lip of the crevice. <em>That</em> was my bridge. I flattened it down, tamping it into place with a titanic fist of force.
+Mountains of waste piled up in the pit as I expanded my swath of destruction. At last, the heap grew to the very lip of the chasm. <em>That</em> was my bridge. I flattened it down, tamping it into place with a titanic fist of force.
 
 Was it done? It seemed to be done. That was a relief. Now that I didn't need to feel that way anymore, I was aware of how much anxiety it had given me. I hurried to force the dangerous feeling back out of my mind. Then I walked to fetch Rinn's wagon.
 
