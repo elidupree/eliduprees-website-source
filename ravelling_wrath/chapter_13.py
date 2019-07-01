@@ -104,7 +104,7 @@ Panic flooded through me. I felt like I'd been sleeping while my house was on fi
 
 Yali held me down. "I'll be using this Seeing regularly. If anything is going to happen, I'll know. I can take you with me all the way to the portal –"
 
-"But it's not perfect! And you'll be on the Farseer's Path! You won't be able to use it for hours at a time! What if it happens in one of the futures you didn't check! What if – I don't want, I don't want, I'm scared –"
+"But it's not perfect! And you can't use it on the Farseer's Path, that'll be hours at a time that you can't use it! What if it happens in one of the futures you didn't check! What if – I don't want, I don't want, I'm scared –"
 
 "I'm scared too," said Alchemist nervously. "Yali…"
 
