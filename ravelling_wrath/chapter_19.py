@@ -113,22 +113,32 @@ It could not see the truth of our city.
 [????? Possibly cut, maybe move: It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.]
 
 
-The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always ?????, it did not always follow where we led, but we showed it to the shape of what it could become, and it would always return to that shape in the end.
+The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always take the straightest path, it did not always follow where we led, but we showed it to the shape of what it could become, and it would always return to that shape in the end.
 
 
-Within our oversight, three other forces struggled to guide the city, each with their own shortsighted fragments of wisdom.
+Within our oversight, three other powers struggled to guide the city, each with their own shortsighted fragments of wisdom.
 
 The Stern were a foundation. Flawed, yes; at times unnecessarily cruel, yes; but a foundation. Where humanity would not accept our gentle guidance to the proper path, the Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape.
 
-The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to delight. Yet they had no power to achieve disaster without a loan of another's strength. The strength available to them could be regulated, their ingenuity turned to the benefit of all.
+The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to progress. Yet they had no power to achieve disaster without a loan of another's strength. The strength available to them could be regulated, and when they were adequately regulated, their ingenuity could be turned to the benefit of all.
 
 But Blood…
 
-Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down. Once they had latched onto a design, they refused to let go, even if it went against all that was right. Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. With the others, we could adapt. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overall purpose. But with Blood, it was as if they could see into our process, and spitefully reject every alternative design we unearthed, even if it was a design that Blood would otherwise accept.
+Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down. Once they had latched onto an agenda, they refused to let go, even if it went against all that was right. Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. When the other powers did such things, adaptations could be made. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overarching purpose. But with Blood, it was as if they could see into our process, so that they could spitefully reject every alternative design we conceived, even if it was a design that Blood would otherwise accept.
+
+Thus, for now, the city was limited, only able to develop in ways that could navigate around Blood's ?????limitations. We could work around them, we could still guide the city despite the occasional outbursts, but we had understood for millennia that there would come a time when it was necessary for Blood to be removed.
+
+In these last scant few centuries, it had become clear that this moment was approaching. Humanity was on the verge of a great triumph. Their cities grew beyond their previous limits. Their technology was flourishing, finally beginning to help them transcend their flaws and limitations. And [????? in the good future], it would become so much more. [????? Technology would reach a much higher level; we were helping this happen] [????? Blood had become more interfering, rejecting any technology that [unfavorable description of:] didn't respect human rights; Blood is actually okay with technology creating new things, but doesn't want to destroy good parts of society in the process]
+
+And why? When we gently probed for their reasons, Blood screamed about injustice, about the human suffering, deaths and dehumanization. But these things had existed for all of history. Blood understood this. Before a baby could learn to control its limbs, it first had to flail and hurt itself. ????? as humanity learned how to use its new capabilities
+
+[????? Possibly interrupted somewhere earlier by a non-humanlike thought, maybe "we had never had such a copious supply of [God thought: candidate Ravellers]" (this helps set up explicit details of how Yali shares thoughts with the god): I was jarred out of my thoughts. As Yali,]
+
+[????? Since the god is speaking in such broad strokes, maybe Yali has to go back to Yali mode and interpret the details – that's where I could bring in the issue of capitalist access to workers without making the god sound less grand]
 
 ????? [????? Look for inspiration in Blood as the unconscious mind rejecting choices that aren't in your human-selfish interest]
 
-Thus, the city was limited, only able to develop in ways that could navigate around Blood's ?????limitations.
+
 
 ?????
 
@@ -140,7 +150,7 @@ Once there was no more Blood, the city could flourish unhindered.
 
 [????? Favorable description of the Waiting God's vision of a world without the Blood God]
 
-THIS WAS SO WRONG. HOW COULD I NOT HAVE SEEN IT? HOW? <EM>HOW?!</EM>
+[????? Actually Yali should make this more subtle?:] THIS WAS SO WRONG. HOW COULD I NOT HAVE SEEN IT? HOW? <EM>HOW?!</EM>
 
 The thoughts came from nowhere, diminishing our focus. Was there something urgent we had missed? We smoothly put aside our thoughts of the plan –
 
@@ -158,7 +168,7 @@ Unless… When I thought back, it hadn't fully understood that it was in a human
 
 If that was true, that was a relief. The god hadn't detected my interference and protected itself – it had just accidentally overtaxed the connection between the Farseer and the rest of the god. If it was like before, it would recover after a time. It would not be soon, but I would have many more chances to confront the god.
 
-Still, this was troublesome. There were multiple things I would have to consider. While I was recovering, I wouldn't have access to the Seeing either. From when I entered the Otherworld until now, it had never been fully inaccessible. Even though I couldn't fully trust it, it was an important tool. What other things was I relying on the god for, that I might need to consider? I checked whether I could still access the memories of the former Farseers. I could – the memories were still there. The god must have actually implanted them inside me somehow, rather than just giving me [????? an affordance] to look at them. At least that was one less thing to worry about. And I could still see through the Watchful Eye to both Rinn and Morrow. So I had only lost the Seeing and a few other magical senses I got from the god. I could live without them if I had to. I could challenge the god again as soon as it got back, and even if this fatigue might happen again, I didn't have to worry about it.
+Still, this was troublesome. There were multiple things I would have to consider. While I was recovering, I wouldn't have access to the Seeing either. From when I entered the Otherworld until now, it had never been fully inaccessible. Even though I couldn't fully trust it, it was an important tool. What other things was I relying on the god for, that I might need to consider? I checked whether I could still access the memories of the former Farseers. I could – the memories were still there. The god must have actually implanted them inside me somehow, rather than just giving me access to look at them. At least that was one less thing to worry about. And I could still see through the Watchful Eye to both Rinn and Morrow. So I had only lost the Seeing and a few other magical senses I got from the god. I could live without them if I had to. I could challenge the god again as soon as it got back, and even if this fatigue might happen again, I didn't have to worry about it.
 
 But… if I challenged the god every time I had contact with it, I might end up spending most of my time out of contact with it. The more I thought about that, the less it seemed like a good plan. There were many things I wouldn't be able to do if I spent most of this layer with no access to the Waiting God's thoughts. And in hindsight, it was unlikely that I could change the god through only a few weeks of challenging its ideas, even from my position as its Raveller. The most powerful way to change it would be through the Ravelling itself. If I made <em>my</em> entire soul reject its plan, then once it absorbed part of my soul, it would permanently have a part of <em>itself</em> rejecting its plan. To make sure that happened, the most important thing was for me to get the thoughts in my own soul just right. I had to make them oppose the Waiting God's plan perfectly. And to do that, I needed to <em>understand</em> the Waiting God's plan perfectly. And that meant having access to its thoughts.
 
