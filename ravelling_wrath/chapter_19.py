@@ -136,6 +136,13 @@ And why? When we gently probed for their reasons, Blood screamed about injustice
 
 [????? Since the god is speaking in such broad strokes, maybe Yali has to go back to Yali mode and interpret the details – that's where I could bring in the issue of capitalist access to workers without making the god sound less grand]
 
+Working slowly, I woke myself up from the god. It felt a lot like a dream, so I thought back over the god's thoughts using my own mind, to make sure I would remember them.
+
+This conflict was all about Blood interfering with the path we knew was right… or, to translate… the Blood God interfering with what the Waiting God believed in. Or, that was how the Waiting God saw it. It didn't have to be how <em>I</em> would see it when I was myself.
+
+
+
+
 ????? [????? Look for inspiration in Blood as the unconscious mind rejecting choices that aren't in your human-selfish interest]
 
 
