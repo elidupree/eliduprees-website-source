@@ -132,6 +132,8 @@ In these last scant few centuries, it had become clear that this moment was appr
 
 And why? When we gently probed for their reasons, Blood screamed about injustice, about the human suffering, deaths and dehumanization. But these things had existed for all of history. Blood understood this. Before a baby could learn to control its limbs, it first had to flail and hurt itself. ????? as humanity learned how to use its new capabilities
 
+
+
 [????? Possibly interrupted somewhere earlier by a non-humanlike thought, maybe "we had never had such a copious supply of [God thought: candidate Ravellers]" (this helps set up explicit details of how Yali shares thoughts with the god): I was jarred out of my thoughts. As Yali,]
 
 [????? Since the god is speaking in such broad strokes, maybe Yali has to go back to Yali mode and interpret the details – that's where I could bring in the issue of capitalist access to workers without making the god sound less grand]
@@ -139,6 +141,24 @@ And why? When we gently probed for their reasons, Blood screamed about injustice
 Working slowly, I woke myself up from the god. It felt a lot like a dream, so I thought back over the god's thoughts using my own mind, to make sure I would remember them.
 
 This conflict was all about Blood interfering with the path we knew was right… or, to translate… the Blood God interfering with what the Waiting God believed in. Or, that was how the Waiting God saw it. It didn't have to be how <em>I</em> would see it when I was myself.
+
+I spent a while sorting out the thoughts, looking for weaknesses in the Waiting God's logic, things I could use to cast doubt on its plan. But I had trouble finding anything specific to work with. The god thought on such a grand scale that it was hard to relate it to anything human. If I said "you killed seventy people", that wouldn't even make an impression on it. It felt each individual death as a ripple in a lake.
+
+How many people would have to die for the Waiting God to care? I imagined the deaths of ten thousand people, fire raining from the sky and destroying entire city blocks, and I listened for the Waiting God's reaction. The god found it… <em>concerning</em>. Ten thousand deaths would be a warning sign of inadequate disaster readiness. Well, if that wasn't enough… I imagined the entire city being destroyed in a single night. The Waiting God found that unacceptable. At least it had <em>some</em> limits. What about destroying <em>half</em> the city? That would be a very heavy price to pay. The god wouldn't allow it unless it was absolutely necessary.
+
+That line of thinking wasn't getting anywhere. There was no way I could make the god care that it was killing Rinn and the others.
+
+Still, this conflict was fundamentally about the fate of humanity. There had to be <em>some</em> way I could make the connection between the god's scale and the scale of everyday life. Or, some way I could understand exactly what it had disagreed with the Blood God about. It had thought a lot about… [????? Technology in general, and ?????]… but ?????. [????? Comparison to Rinn and the Blood God in chapter 16?]
+
+[????? I massaged it into showing specifics]
+
+I saw a room, a meeting around a conference table. On one side, there were a few people in business suits. On the other, another group, not dressed quite as formally, but clearly some sort of organization. What were they actually discussing, though? This was frustrating. The Waiting God's thoughts were clear: the businesspeople were offering an opportunity for progress, and the other people, influenced by Blood, were irrationally rejecting it. But beyond that, I couldn't tell what was actually happening.
+
+Also, why business? I had expected to see something involving the temples. But then again, the Waiting God hadn't thought about the temples earlier, either. It was more interested in… the people of the city. I was starting to think that the Waiting God didn't even care about its <em>own</em> temple very much. Yes, when I listened… the Waiting Temple was a valuable tool, but ultimately only a means to an end.
+
+I was going to be angry if I kept thinking about that. [????? Or does Yali get tempted into investigating what the Waiting God thinks of her and Arinyo Seti?]
+
+
 
 
 
@@ -149,13 +169,17 @@ This conflict was all about Blood interfering with the path we knew was right…
 
 ?????
 
-Once there was no more Blood, the city could flourish unhindered.
 
 
 
-?????
+
+
 
 [????? Favorable description of the Waiting God's vision of a world without the Blood God]
+
+[????? Maybe: Yali comes to an understanding, and invites the Waiting God to think through its plan again, so she can do this:]
+
+The process would be long, and Blood would not let go easily. But ?????. Once there was no more Blood, the city could flourish unhindered.
 
 [????? Actually Yali should make this more subtle?:] THIS WAS SO WRONG. HOW COULD I NOT HAVE SEEN IT? HOW? <EM>HOW?!</EM>
 
