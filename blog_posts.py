@@ -28,6 +28,7 @@ import posts.blog_17
 import posts.not_what_i_am
 import posts.time_travelers
 import posts.the_23_days_cult
+import posts.tell_me_a_story
 import ravelling_wrath.main
 import posts.stories_01
 import posts.uncategorized_01
@@ -77,6 +78,7 @@ long_stories = {
 uncategorized_posts = flatten([
   posts.uncategorized_01.posts,
   posts.kinks.posts,
+  posts.tell_me_a_story.posts,
 ])
 
 posts = {
