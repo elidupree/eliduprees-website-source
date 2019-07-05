@@ -32,7 +32,7 @@ First, I would have to look at Rinn. There would still be injuries on her body. 
 
 I looked.
 
-Unspeakable feelings pressed in at the edges of my mind. If I kept looking at this mutilation, I wouldn't be able to stay in control. I would strike Justicar in anger, even though she was already dead. And the tradition was clear: Anyone who defiles a corpse will be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. So I looked away.
+Unspeakable feelings loomed at the edges of my mind. If I kept looking at this mutilation, I wouldn't be able to stay in control. I would strike Justicar in anger, even though she was already dead. And the tradition was clear: Anyone who defiles a corpse will be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. So I looked away.
 
 I took a minute to pack away the unwanted thoughts. Then I tried again, looking at Rinn's body the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
 
@@ -144,9 +144,9 @@ However, in the end, it made little difference. Blood had always been a flawed p
 
 Working slowly, I woke myself up from the god. It felt a lot like a dream, so I thought back over the god's thoughts using my own mind, to make sure I would remember them.
 
-This conflict was all about Blood interfering with the path we knew was right… or, to translate… the Blood God interfering with what the Waiting God believed in. Or, that was how the Waiting God saw it. It didn't have to be how <em>I</em> would see it when I was myself.
+This conflict was all about Blood interfering with the path we knew was right… or, to translate… it was all about the Blood God interfering with what the Waiting God believed in. Or, that was what the Waiting God thought it was about. It didn't have to be how <em>I</em> would see it when I was myself.
 
-I spent a while sorting out the thoughts, looking for weaknesses in the Waiting God's logic, things I could use to cast doubt on its plan. But I had trouble finding anything specific to work with. The god thought on such a grand scale that it was hard to relate it to anything human. If I said "you killed seventy people", that wouldn't even make an impression on it. It saw every individual death, it understood the echoing consequences of each one, but it felt them only as a ripple in a lake.
+I spent a while sorting out the thoughts, looking for weaknesses in the Waiting God's logic, things I could use to cast doubt on its plan. But I had trouble finding anything specific to work with. The god thought on such a grand scale that it was hard to relate it to anything human. If I said "you killed seventy people", that wouldn't even make an impression on it. Even though it saw every individual death, even though it understood the echoing consequences of each one, it felt them only as ripples in a lake.
 
 How many people would have to die for the Waiting God to care? I imagined the deaths of ten thousand people, fire raining from the sky and destroying entire city blocks, and I listened for the Waiting God's reaction. The god found it… <em>concerning</em>. Ten thousand deaths would be a warning sign of inadequate disaster readiness. Well, if that wasn't enough… I imagined the entire city being destroyed in a single night. The Waiting God found that unacceptable. At least it had <em>some</em> limits. What about destroying <em>half</em> the city? That would be a very heavy price to pay. The god wouldn't allow it unless it was absolutely necessary.
 
@@ -160,10 +160,19 @@ I saw a room, a meeting around a conference table. On one side, there were a few
 
 Also, why business? I had expected to see something involving the temples. But then again, the Waiting God hadn't thought about the temples earlier, either. It was more interested in… the people of the city. I was starting to think that the Waiting God didn't even care about its <em>own</em> temple very much. Yes, when I listened… the Waiting Temple was a valuable tool, but ultimately only a means to an end.
 
-I was going to be angry if I kept thinking about that. [????? Or does Yali get tempted into investigating what the Waiting God thinks of her and Arinyo Seti?]
+I was going to be angry if thought about the Waiting Temple too much. But – this was also an opportunity! I could learn, once and for all, what the Waiting God was thinking when it accepted my mother as its high priest! Concentrating, I pictured her in my mind. But I didn't find what I was looking for. There were only a bunch of fragmentary images of… how other humans saw her. In hindsight, it made sense. The god wouldn't have seen her physical appearance. How did the god think of her? Well, it would be "my high priest"… Well, <em>our</em> high priest… well, that thought was wrong, because our temple had a long history. I saw the glowing threads of their souls, not of just one high priest, but an unbroken chain of high priests stretching across the centuries, with a few branches where there were disputes about the succession. Humans possessed barely a shadow of the skills needed to choose our representatives, but our guidance led them to tolerable choices. And… the current one, the one at the end of the chain… It was a little threadbare. But it had a strong core. It was entirely sufficient to keep our temple functional.
 
+I felt myself getting tense. This wasn't what I had expected. I had thought the Waiting God would <em>approve</em> of her, but instead, it found her… barely passable? For a moment, I didn't know what to think. But then my anger came back again. If the god didn't even <em>like</em> her, how could it justify ?????? I searched for the god's thoughts again. Did it understand what this… glowing ball of threads… had done wrong? I reached inside the threads, and… it was there, as clear as anything. A sodden tangle of betrayal, denial, and guilt, sometimes tugging the important core away from its stable position. And the Waiting God's attitude was clear, too: this was a tangle of <em>typical human failings</em>. It made this one a worse high priest, but long experience had taught that it was wasteful to hope for humans to be clean of such things.
 
+?????
 
+What about me, then?
+
+The Waiting God's view of Ravellers was <em>completely</em> different than its view of high priests. I wasn't looking at a chain of souls from a distance, I was <em>inside</em> the souls, practically tasting them. Overwhelming, alien sensations told me <em>exactly</em> what I – the god – wanted to… to absorb.
+
+[????? It could perceive the connection between me and my mother, but didn't see the importance]
+
+[????? Why did it try to deceive us? Because that was the smoothest way to smooth over human failings]
 
 
 
