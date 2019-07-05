@@ -17,6 +17,8 @@ posts = [
   ''',
   "head":head,
   "contents": chapter_start ("Chapter 20: ", '''<p></p>''') +'''
+  
+[????? important concepts for this chapter: Blood policies have flaws but the capitalist replacement is even more destructive; technology could be used for good if Blood and Waiting worked together]
 
 It was time to move forward with my <em>other</em> plan.
 
