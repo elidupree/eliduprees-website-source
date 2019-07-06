@@ -88,7 +88,7 @@ It was time to take Rinn back.
 
 The first thing I did was to get my hair straightened out. I tore at it with a comb until the comb got stuck, then I gave up and just chopped half of it off without a second thought. I recolored the rest into a rainbow of red and gold and midnight black, like a living flame in the darkness.
 
-Next I gave myself some clothes, manifesting everything does not break into place. A white shirt under a black leather jacket, gripping snug around my arms, with metal studs like the one Pèi always wore. Black leather fingerless gloves, perfectly fit to the shape of my hands. A bright blue sweatband to contrast with my hair. I let the jacket hang open in the front, keeping the breeze close to me.
+Next I gave myself some clothes, manifesting everything to snap right into place. A white shirt under a black leather jacket, gripping snug around my arms, with metal studs like the one Pèi always wore. Black leather fingerless gloves, perfectly fit to the shape of my hands. A bright blue sweatband to contrast with my hair. I let the jacket hang open in the front, keeping the breeze close to me.
 
 I left the scrape and the dirt stains right where they were. I grinned and threw my head back. This was more like it.
 
@@ -356,7 +356,7 @@ Through gritted teeth, Yali replied, "I don't expect you to understand this, but
 
 "I didn't say anything because I wanted to make sure you could tolerate each other! You have no idea how hard it was for me! Keeping you and him and Justicar balanced, making sure none of you blew up on each other! But if this is what happened, then even that was a mis–" She was overcome with emotion again. "No, I don't know if it was a mistake. Much worse things could have happened in the first layer if I had not." She took a shaky breath, glaring at the ground. "I just hate to think I did all that work to cover for an abuser."
 
-"An… abuser?" The words felt wrong in my mouth. "That's…"
+"An… abuser?" The words felt wrong in my mouth. Him doing that stuff to Alchemist was absolutely fucked up, but reducing him to just <em>an abuser</em> was… "That's…"
 
 Yali looked dismayed. "You're allowed to have, to have, complicated feelings, about it. But what he did is abuse. To you, to Alchemist…"
 
@@ -504,7 +504,7 @@ There were a few times when Yali found Morrow doing some messed up shit to other
 
 Yali looked dismayed. "I, I know the police aren't always, aren't always, don't treat everyone well. But, but, these were <em>teachers</em>! They're supposed to care about kids! And they, they, they just didn't care! They saw how he was acting, they must have even seen his bruises! And they just sent him right back home to be beaten again! How could they just <em>not care?</em>"
 
-"Yeah, well, maybe they care about you if you're a <em>Seti</em>." [????? Remind the reader of the implications of Seti earlier]
+"Yeah, well, maybe they care about you if you're a <em>Seti</em>."
 
 The words hung in the air between us.
 
