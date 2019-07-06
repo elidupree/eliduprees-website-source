@@ -162,17 +162,29 @@ Also, why business? I had expected to see something involving the temples. But t
 
 I was going to be angry if thought about the Waiting Temple too much. But – this was also an opportunity! I could learn, once and for all, what the Waiting God was thinking when it accepted my mother as its high priest! Concentrating, I pictured her in my mind. But I didn't find what I was looking for. There were only a bunch of fragmentary images of… how other humans saw her. In hindsight, it made sense. The god wouldn't have seen her physical appearance. How did the god think of her? Well, it would be "my high priest"… Well, <em>our</em> high priest… well, that thought was wrong, because our temple had a long history. I saw the glowing threads of their souls, not of just one high priest, but an unbroken chain of high priests stretching across the centuries, with a few branches where there were disputes about the succession. Humans possessed barely a shadow of the skills needed to choose our representatives, but our guidance led them to tolerable choices. And… the current one, the one at the end of the chain… It was a little threadbare. But it had a strong core. It was entirely sufficient to keep our temple functional.
 
-I felt myself getting tense. This wasn't what I had expected. I had thought the Waiting God would <em>approve</em> of her, but instead, it found her… barely passable? For a moment, I didn't know what to think. But then my anger came back again. If the god didn't even <em>like</em> her, how could it justify ?????? I searched for the god's thoughts again. Did it understand what this… glowing ball of threads… had done wrong? I reached inside the threads, and… it was there, as clear as anything. A sodden tangle of betrayal, denial, and guilt, sometimes tugging the important core away from its stable position. And the Waiting God's attitude was clear, too: this was a tangle of <em>typical human failings</em>. It made this one a worse high priest, but long experience had taught that it was wasteful to hope for humans to be clean of such things.
+I felt myself getting tense. This wasn't what I had expected. I had thought the Waiting God would <em>approve</em> of her, but instead, it found her… barely passable? For a moment, I didn't know what to think. But then my anger came back again. If the god didn't even <em>like</em> her, how could it justify ?????? I searched for the god's thoughts again. Did it understand what this… glowing ball of threads… had done wrong? I reached inside the threads, and… it was there, as clear as anything. A sodden tangle of selfishness, denial, and guilt, sometimes tugging the important core away from its stable position. And the Waiting God's attitude was clear, too: this was a tangle of <em>typical human failings</em>. It made this one a worse high priest, but long experience had taught that it was wasteful to hope for humans to be clean of such things.
 
 ?????
 
 What about me, then?
 
-The Waiting God's view of Ravellers was <em>completely</em> different than its view of high priests. I wasn't looking at a chain of souls from a distance, I was <em>inside</em> the souls, practically tasting them. Overwhelming, alien sensations told me <em>exactly</em> what I – the god – wanted to… to absorb.
+The Waiting God's view of Ravellers was <em>completely</em> different than its view of high priests. I wasn't looking at a chain of souls from a distance, I was <em>inside</em> the souls, practically tasting them. Overwhelming, alien sensations told me <em>exactly</em> what I – the god – wanted to… to absorb. And this one? The latest one we had chosen? It was a little unusual, but so very gratifying. Maybe we should have taken it the previous year, it would be… overripe soon.
 
-[????? It could perceive the connection between me and my mother, but didn't see the importance]
+[????? Yali checks its thoughts about this Raveller being mistreated by that high priest, but "that high priest" reference doesn't work, it has to be the image of the person]
 
-[????? Why did it try to deceive us? Because that was the smoothest way to smooth over human failings]
+
+
+I squinted. The god could clearly perceive the link between me and my mother, but somehow, it hadn't made the connection between the way it chose her and the way it chose me. It was a completely different decision-making process, almost as if the god wasn't just a single being making intelligent decisions, but many different beings working semi-independently from each other. That made a few other things make more sense, too. The god clearly knew that its Farseers were being killed, but I had still felt its excitement about rejuvenating from my soul, even though logically it would be unlikely to rejuvenate from it.
+
+[????? Yali sorting out her feelings about her grudge against the Waiting God]
+
+?????
+
+Why had I – we – tried to hide the plan from us – from the humans? Well, that was straightforward. Humans were tangled creatures, full of complications that limited their growth. There was nothing to be gained from allowing them to have knowledge of such things. It would only disquiet them, creating pointless turbulence.
+
+That was unsettling. The god hadn't shown the least bit of concern that humans could stop the plan. It was only worried about indirect effects, like humans behaving self-destructively because they were upset about it. Was its victory that inevitable? I glanced at Rinn nervously. Hadn't I kept her alive? Oh, we had? It seemed that we had. Well, the plan could accommodate a few errors. How many errors could it accommodate? Blood could be allowed to… grow… healthy… <em>rejuvenate</em>, that was the human word… twice in every fifteen years, and they would still become powerless as early as was needed.
+
+It was like I thought. A single rejuvenation wasn't enough to stop the plan. In fact, if the Blood God hadn't rejuvenated even once in the last seventy years… the Waiting God was being much <em>more</em> successful than it was relying on.
 
 
 
