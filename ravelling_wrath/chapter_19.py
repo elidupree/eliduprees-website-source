@@ -382,7 +382,9 @@ Something was wrong about it. It was very logical, but only if I was giving up o
 
 Well, not <em>now</em>. When I did it, it might have physical effects on the world, so I needed to get Rinn to more stable ground first. I was all the way across the "bridge" by now, but I had done a lot of damage to the ground here, and it didn't feel completely steady.
 
-To be safe, I walked another half kilometer further into the city. Then I parked Rinn and looked for a place to sit.
+To be safe, I walked another half kilometer further into the city. Then I parked Rinn and looked for a good place to sit.
+
+In front of a dried-up fountain, I manifested a black iron bench, the right amount of cold and hard to make theis a little bit easier.
 
 <bigbreak>
 
@@ -402,7 +404,7 @@ My eyes were crying again. It hurt. Was this what the Blood God wanted? Was it B
 
 Why? Why did it always have to be me? Why did I have to do all the work when everyone else could only see what was right in front of them? Hadn't I worked hard enough for one lifetime just to escape the ????s? Hadn't I worked hard enough for two lifetimes just to keep Rinn and me alive? And now I had to do <em>another</em> incredibly difficult thing? When would it <em>end</em>?
 
-Thinking about this was making me feel deeply unfulfilled. I wanted something more. That meant it was time to get myself back under control – no, if I was trying to be Blood, it was right to keep going. If I wanted something more… what did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the ground, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
+Thinking about this was making me feel deeply unfulfilled. I wanted something more. That meant it was time to get myself back under control – no, if I was trying to be Blood, it was right to keep going. If I wanted something more… what did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the stone street, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
 
 Why couldn't I do it? When I tried, there was a haze in my mind, holding me back. I felt like the world was closing in on me. What was this feeling? It was like I was terrified of… something. Or, that <em>was</em> the feeling. I was terrified.
 
@@ -462,7 +464,15 @@ I had made a mistake. Now I had to think about what to do next.
 
 <bigbreak>
 
-[????? I decided to think on my feet? – the idea came to me while? –]
+I decided to think on my feet. I didn't <em>want</em> to do the work of walking, but I would have to do it eventually, and it gave me something to occupy my mind other than revisiting all my own mistakes.
+
+The idea came to me as I hauled Rinn passed a crumbling temple. When Rinn had been speaking for the Blood God, she had [????? talked about the Waiting God destroying the Blood Temple]. Less than a lifetime ago, the Blood Temple had existed. There had been an entire <em>temple</em> full of priests who could give me the insight I needed, who had understood and valued the ways of the Blood God. A temple the Waiting God had gone to such great lengths to disempower.
+
+Of course, all of that was in the past now.
+
+But I was the Farseer. To me, the past wasn't so far away. I had ????68 lifetimes' worth of memories to draw on.
+
+It was time for me to learn what the Blood Temple really was.
 
 ''',
 },
