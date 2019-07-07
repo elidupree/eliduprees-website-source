@@ -186,7 +186,9 @@ That was unsettling. The god hadn't shown the least bit of concern that humans c
 
 It was like I thought. A single rejuvenation wasn't enough to stop the plan. In fact, if the Blood God hadn't rejuvenated even once in the last seventy years… the Waiting God was being much <em>more</em> successful than it was relying on.
 
+If it was going to win anyway, hiding the plan seemed petty and manipulative. Didn't humanity has a <em>right</em> to know what the gods were planning for them? Yes, we had a long-term plan to establish such a right, once humanity was better equipped for it. As things were in the present, it wasn't posssible. Regardless of what we might do to communicate our plans to humanity, they still wouldn't understand clearly enough for such a right to have been fulfilled.
 
+I tried to focus on myself. I didn't like this merged state, where the god's thoughts could interrupt my own. But I still had to use it.
 
 ????? [????? Look for inspiration in Blood as the unconscious mind rejecting choices that aren't in your human-selfish interest]
 
