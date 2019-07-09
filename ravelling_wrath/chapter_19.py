@@ -110,7 +110,7 @@ Blood…
 
 It could not see the truth of our city.
 
-[????? Possibly cut, maybe move: It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.]
+[????? Probably cut, maybe move: It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.]
 
 
 The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always take the straightest path, it did not always follow where we led, but we showed it to the shape of what it could become, and it would always return to that shape in the end.
@@ -126,7 +126,17 @@ But Blood…
 
 Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down. Once they had latched onto an agenda, they refused to let go, even if it went against all that was right. Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. When the other powers did such things, adaptations could be made. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overarching purpose. But with Blood, it was as if they could see into our process, so that they could spitefully reject every alternative design we conceived, even if it was a design that Blood would otherwise accept.
 
-Thus, for now, the city was limited, only able to develop in ways that could navigate around Blood's limitations. We could work around them, we could still guide the city despite the occasional outbursts, but we had understood for millennia that there would come a time when it was necessary for Blood to be removed.
+Thus, for now, the city was limited, only able to develop in ways that could navigate around Blood's limitations.
+
+The thoughts subsided.
+
+Part of me was Yali again. So far, the Waiting God hadn't technically admitted to anything, but with what I knew, the implications couldn't be more clear. I tried to prompt it, to see if it would reveal more. <em>And so we were going to do something about that, weren't we,</em> I thought.
+
+That was an odd thing to think. Who was <em>we</em>?
+
+I concentrated. I had felt like <em>we</em> was the right thing to say, because that was how the god's thoughts had felt to me. But of course, the god hadn't <em>really</em> been thinking human words like that, it was just the closest approximation that my brain could fill in. I repeated my thought, carefully using the god's concept of itself instead of just the human word. <em>And so we were going to do something about the Blood God, weren't we?</em>
+
+No, <em>do something about</em> was too combative a term for it. It was only natural that the Blood God couldn't be allowed to go on forever. We could work around them, we could still guide the city despite the occasional outbursts, but we had understood for millennia that there would come a time when it was necessary for Blood to be removed.
 
 In these last scant few centuries, it had become clear that this moment was approaching. Humanity was on the verge of a great triumph. Their cities grew beyond their previous limits. Their technology was flourishing, finally beginning to help them transcend their flaws and limitations. Never before had we had such a rich variety of –
 
@@ -180,11 +190,19 @@ What about me, then?
 
 The Waiting God's view of Ravellers was <em>completely</em> different than its view of high priests. I wasn't looking at a chain of souls from a distance, I was <em>inside</em> the souls, practically tasting them. Overwhelming, alien sensations told me <em>exactly</em> what I – the god – wanted to… to absorb. And this one? The latest one we had chosen? It was a little unusual, but so very gratifying. Strong and sophisticated, a little more Stern and less Broken, on the cusp of its coordination. Maybe we should have taken it the previous year, since it would be… overripe soon. But it was still an extraordinarily appealing candidate.
 
-[????? Yali checks its thoughts about this Raveller being mistreated by that high priest, but "that high priest" reference doesn't work, it has to be the image of the person]
+But didn't we know that I… that <em>this Raveller</em>… had been betrayed by our high priest? Wasn't it cruel to take her – it – when we had already been responsible for its suffering?
 
-The Raveller had been mistreated by Arinyo Seti? Yes. The high priest was Arinyo Seti? Yes. The Raveller had been mistreated by the high priest? …Nothing.
+The Waiting God couldn't make sense of that.
+
+Did we even understand that this Raveller was the one who had been betrayed by our latest high priest?
+
+Naturally, we understood the life history of every Raveller. This one had indeed been neglected in the way we had identified. But by a high priest? No, it was by… I saw the image of my mother. But wasn't the high priest this very person? Yes, it was. So wasn't it by the high priest? The Waiting God didn't have an answer to that.
+
+I tried again. The Raveller had been mistreated by Arinyo Seti? Yes. The high priest was Arinyo Seti? Yes. The Raveller had been mistreated by the high priest? …Nothing.
 
 I squinted. The god could clearly perceive the link between me and my mother, but somehow, it hadn't made the connection between the way it chose her and the way it chose me. It was a completely different decision-making process, almost as if the god wasn't just a single being making intelligent decisions, but many different beings working semi-independently from each other. That made a few other things make more sense, too. The god clearly knew that its Farseers were being killed, but I had still felt its excitement about rejuvenating from my soul, even though logically it would be unlikely to rejuvenate from it.
+
+Frustration was growing inside me, so much frustration that I had to step back from my thoughts and calm myself down. Since the moment I had been Chosen, I had hated the Waiting God for taking advantage of me. For expecting me to serve it after it had done nothing to protect me. But somehow, it hadn't even <em>understood</em> that that was what it was doing?!
 
 [????? Yali sorting out her feelings about her grudge against the Waiting God]
 
