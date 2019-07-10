@@ -170,13 +170,9 @@ This must have been what Rinn had experienced when she was trying to get the Blo
 
 I slowly tried to coax out more details. What was a specific example of a time the Blood God had obstructed something? Not the big picture, but a detail, maybe something small and unimportant.
 
-Images faded in and out of focus, too many to comprehend. [????? A lot of them were alien, inside computers watching connections between people thousands of kilometers apart]
+Images faded in and out of focus, too many to comprehend. Most of them were alien. I saw human souls as complex knots being tugged in many different directions. I saw webs of soul links winding through computer systems, connecting people thousands of kilometers apart. There were probably vast amounts of information here, but for the moment, I just needed something I could understand. I tried to focus on the more human-looking memories. I picked one at random, trying to hold onto one specific memory amid the torrent of thoughts. The Waiting God resisted a little, thinking I couldn't understand the one memory without the full context. But I couldn't understand the full context either, so I insisted on taking just the one.
 
-
-
-[????? I massaged it into showing specifics]
-
-I saw a room, a meeting around a conference table. On one side, there were a few people in business suits. On the other, another group, not dressed quite as formally, but clearly some sort of organization. What were they actually discussing, though? This was frustrating. The Waiting God's thoughts were clear: the businesspeople were offering an opportunity for progress, and the other people, influenced by Blood, were irrationally rejecting it. But beyond that, I couldn't tell what was actually happening.
+I slowly made the memory come into focus. I saw a room, a meeting around a conference table. On one side, there were a few people in business suits. On the other, another group, not dressed quite as formally, but clearly some sort of organization, like they were claiming to represent… more people… a neighborhood? What were they actually discussing, though? This was frustrating. The Waiting God's thoughts were clear: the businesspeople were offering an opportunity for progress, and the other people, influenced by Blood, were irrationally rejecting it. But beyond that, I couldn't tell what was actually happening. It felt like this memory was on the far edges of what the Waiting God could remember, it didn't have the full details.
 
 Also, why business? I had expected to see something involving the temples. But then again, the Waiting God hadn't thought about the temples earlier, either. It was more interested in… the people of the city. I was starting to think that the Waiting God didn't even care about its <em>own</em> temple very much. Yes, when I listened… the Waiting Temple was a valuable tool, but ultimately only a means to an end.
 
@@ -184,9 +180,11 @@ I was going to be angry if thought about the Waiting Temple too much. But – th
 
 I felt myself getting tense. This wasn't what I had expected. I had thought the Waiting God would <em>approve</em> of her, but instead, it found her… barely passable? For a moment, I didn't know what to think. But then my anger came back again. If the god didn't even <em>like</em> her, how could it justify keeping her after what she did to me? I searched for the god's thoughts again. Did it understand what this… glowing ball of threads… had done wrong? I reached inside the threads, and… it was there, as clear as anything. A sodden tangle of selfishness, denial, and guilt, sometimes tugging the important core away from its stable position. And the Waiting God's attitude was clear, too: this was a tangle of <em>typical human failings</em>. It made this one a worse high priest, but long experience had taught that it was wasteful to hope for humans to be clean of such things.
 
-?????
+So I might as well just expect everyone to let everyone else suffer? I hated it, but I couldn't argue against it. Hardly anyone could claim to be good enough. The police hadn't bothered to see the truth until I forced them to. People like Szaieto and Alchemist didn't want to hurt anyone, but they were useless in a crisis unless somebody else told them what to do. But was I supposed to think that Arinyo Seti was no worse than they were? After everything I'd gone through because of what she did?
 
-What about me, then?
+And what about the god? Even if it couldn't fix its high priest, at least it could have had the decency not to pick <em>me</em> as its Raveller! <em>How</em> had it decided to pick <em>me</em>?
+
+That was something I actually wanted to know. And it was hard to hear the god when I was this frustrated. I forced the frustration back and listened again.
 
 The Waiting God's view of Ravellers was <em>completely</em> different than its view of high priests. I wasn't looking at a chain of souls from a distance, I was <em>inside</em> the souls, practically tasting them. Overwhelming, alien sensations told me <em>exactly</em> what I – the god – wanted to… to absorb. And this one? The latest one we had chosen? It was a little unusual, but so very gratifying. Strong and sophisticated, a little more Stern and less Broken, on the cusp of its coordination. Maybe we should have taken it the previous year, since it would be… overripe soon. But it was still an extraordinarily appealing candidate.
 
@@ -202,11 +200,9 @@ I tried again. The Raveller had been mistreated by Arinyo Seti? Yes. The high pr
 
 I squinted. The god could clearly perceive the link between me and my mother, but somehow, it hadn't made the connection between the way it chose her and the way it chose me. It was a completely different decision-making process, almost as if the god wasn't just a single being making intelligent decisions, but many different beings working semi-independently from each other. That made a few other things make more sense, too. The god clearly knew that its Farseers were being killed, but I had still felt its excitement about rejuvenating from my soul, even though logically it would be unlikely to rejuvenate from it.
 
-Frustration was growing inside me, so much frustration that I had to step back from my thoughts and calm myself down. Since the moment I had been Chosen, I had hated the Waiting God for taking advantage of me. For expecting me to serve it after it had done nothing to protect me. But somehow, it hadn't even <em>understood</em> that that was what it was doing?!
+Frustration was growing inside me again. Since the moment I had been Chosen, I had hated the Waiting God for taking advantage of me. For expecting me to serve it after it had done nothing to protect me. But somehow, it hadn't even <em>understood</em> that that was what it was doing?! Hating it for something it didn't understand felt like hating a baby for being clumsy! But it wasn't a baby, it was a <em>god</em>! It had no <em>right</em> to not understand!
 
-[????? Yali sorting out her feelings about her grudge against the Waiting God]
-
-?????
+I forced the thoughts back. I couldn't afford to let myself get upset. One way or another, the Waiting God was still my enemy. I had to stay focused to see the ways I could work against it. And this – actually, anything the Waiting God didn't understand about itself was a weakness I might be able to exploit. Even so, this detour into my past had gone on long enough. It was time to get back to thinking about the Waiting God's plan.
 
 Why had I – we – tried to hide the plan from us – from the humans? Well, that was straightforward. Humans were tangled creatures, full of complications that limited their growth. There was nothing to be gained from allowing them to have knowledge of such things. It would only disquiet them, creating pointless turbulence.
 
