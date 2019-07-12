@@ -210,7 +210,7 @@ Yali was silent for a time. "I don't know if it <em>can</em> lose."
 
 "Even if we succeed… even if that happens this year…"
 
-"It HAS to be! Now that we know – now that we know what's really going on, we've gotta be able to do something about it! We have to strike back!"
+"[????? It HAS to be!] Now that we know – now that we know what's really going on, we've gotta be able to do something about it! We have to strike back!"
 
 "That's what we would <em>want</em> to happen…" Yali sounded completely drained. "But it's the <em>Waiting God</em>. We have no idea how to hurt it. Even if we did, it's bound to be something incredibly difficult. And we, we… you don't realize how many ways there are still are for us to die. Justicar might kill us. You… well… And I've even seen Morrow destroy your mind in some of the futures, if I don't step in to protect you. Striking back at the Waiting God… we just can't afford to think about that right now."
 
