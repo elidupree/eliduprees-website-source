@@ -110,9 +110,6 @@ Blood…
 
 It could not see the truth of our city.
 
-[????? Probably cut, maybe move: It would simply rise to our attention when the time was right. As we had already done innumerable times throughout the span of years, we would review our plan. Our plan for the Blood God. For the temples. For our city.]
-
-
 The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always take the straightest path, it did not always follow where we led, but we showed it to the shape of what it could become, and it would always return to that shape in the end.
 
 
@@ -174,13 +171,15 @@ Images faded in and out of focus, too many to comprehend. Most of them were alie
 
 I slowly made the memory come into focus. I saw a room, a meeting around a conference table. On one side, there were a few people in business suits. On the other, another group, not dressed quite as formally, but clearly some sort of organization, like they were claiming to represent… more people… a neighborhood? What were they actually discussing, though? This was frustrating. The Waiting God's thoughts were clear: the businesspeople were offering an opportunity for progress, and the other people, influenced by Blood, were irrationally rejecting it. But beyond that, I couldn't tell what was actually happening. It felt like this memory was on the far edges of what the Waiting God could remember, it didn't have the full details.
 
-Also, why business? I had expected to see something involving the temples. But then again, the Waiting God hadn't thought about the temples earlier, either. It was more interested in… the people of the city. I was starting to think that the Waiting God didn't even care about its <em>own</em> temple very much. Yes, when I listened… the Waiting Temple was a valuable tool, but ultimately only a means to an end.
+Also, why business? I had expected to see something involving the temples. But then again, the Waiting God hadn't thought about the temples earlier, either. It was more interested in… the people of the city. The downfall of the Blood Temple had been important, of course, but only because of its influence over the city's people, and it had been accomplished as part of the natural course of humanity's shift.
 
-I was going to be angry if thought about the Waiting Temple too much. But – this was also an opportunity! I could learn, once and for all, what the Waiting God was thinking when it accepted my mother as its high priest! Concentrating, I pictured her in my mind. But I didn't find what I was looking for. There were only a bunch of fragmentary images of… how other humans saw her. In hindsight, it made sense. The god wouldn't have seen her physical appearance. How did the god think of her? Well, it would be "my high priest"… Well, <em>our</em> high priest… well, that thought was wrong, because our temple had a long history. I saw the glowing threads of their souls, not of just one high priest, but an unbroken chain of high priests stretching across the centuries, with a few branches where there were disputes about the succession. Humans possessed barely a shadow of the skills needed to choose our representatives, but our guidance led them to tolerable choices. And… the current one, the one at the end of the chain… It was a little threadbare. But it had a strong core. It was entirely sufficient to keep our temple functional.
+Even that last thought – when I had wondered about <em>the temples</em>, the Waiting God only bothered to think about the Blood Temple. Did it not even care about its <em>own</em> temple very much? Yes, when I listened… the Waiting Temple was a valuable tool, but ultimately only a means to an end.
+
+I was going to be angry if thought about the Waiting Temple too much. But – this was also an opportunity! I could learn, once and for all, what the Waiting God was thinking when it accepted my mother as its high priest! Concentrating, I pictured her in my mind. But I didn't find what I was looking for. There were only a bunch of fragmentary images of… how other humans saw her. In hindsight, it made sense. The god wouldn't have seen her physical appearance. How did the god think of her? Well, it would be "my high priest"… Well, <em>our</em> high priest… well, that thought was wrong, because our temple had a long history. I saw the glowing threads of their souls, not of just one high priest, but an unbroken chain of high priests stretching across the centuries, with a few fading branches where there were disputes about the succession. Humans possessed barely a shadow of the skills needed to choose our representatives, but our guidance led them to tolerable choices. And… the current one, the one at the end of the chain… It was a little threadbare. But it had a strong core. It was entirely sufficient to keep our temple functional.
 
 I felt myself getting tense. This wasn't what I had expected. I had thought the Waiting God would <em>approve</em> of her, but instead, it found her… barely passable? For a moment, I didn't know what to think. But then my anger came back again. If the god didn't even <em>like</em> her, how could it justify keeping her after what she did to me? I searched for the god's thoughts again. Did it understand what this… glowing ball of threads… had done wrong? I reached inside the threads, and… it was there, as clear as anything. A sodden tangle of selfishness, denial, and guilt, sometimes tugging the important core away from its stable position. And the Waiting God's attitude was clear, too: this was a tangle of <em>typical human failings</em>. It made this one a worse high priest, but long experience had taught that it was wasteful to hope for humans to be clean of such things.
 
-So I might as well just expect everyone to let everyone else suffer? I hated it, but I couldn't argue against it. Hardly anyone could claim to be good enough. The police hadn't bothered to see the truth until I forced them to. People like Szaieto and Alchemist didn't want to hurt anyone, but they were useless in a crisis unless somebody else told them what to do. But was I supposed to think that Arinyo Seti was no worse than they were? After everything I'd gone through because of what she did?
+So I might as well just expect everyone to let everyone else suffer? I didn't like it, but I couldn't argue against it. Hardly anyone could claim to be good enough. The police had protected me, but they hadn't bothered to see the truth until I forced them to. People like Szaieto and Alchemist didn't want to hurt anyone, but they were useless in a crisis unless somebody else told them what to do. But was I supposed to think that Arinyo Seti was no worse than they were? After everything I'd gone through because of what she did?
 
 And what about the god? Even if it couldn't fix its high priest, at least it could have had the decency not to pick <em>me</em> as its Raveller! <em>How</em> had it decided to pick <em>me</em>?
 
@@ -214,47 +213,33 @@ If it was going to win anyway, hiding the plan seemed petty and manipulative. Di
 
 I tried to focus on myself. I didn't like this merged state, where the god's thoughts could interrupt my own. But I still had to use it.
 
-????? [????? Look for inspiration in Blood as the unconscious mind rejecting choices that aren't in your human-selfish interest]
+Maybe it was time for me to be more direct. Maybe I understood enough for that now.
 
+I invited the Waiting God to think over its plan again. To think of the parts it – we – were the most confident about. The city we knew would come. The process would be long, and Blood would not let go easily. But we knew the way to the overarching goal. In time, Blood would fade, and humanity's true potential could start to emerge. They had spent so many centuries struggling in the murk, but once there was no more Blood, the city could flourish unhindered.
 
+Or perhaps there was something wrong with this flourishing we were imagining. Something tainted.
 
-?????
+That was a strange thought, askew from our centuries of planning. Why would we think this now? It felt more like an error, something irrational introduced by our human element. We temporarily put aside our thoughts of the plan, to examine –
 
+No! You – I – we <em>needed</em> to keep thinking about the plan! There was a mistake, there was a flaw inside it, from the very beginning! It had felt right, it had felt justified, but we hadn't thought about what we were doing, she was suffering right in front of us! We didn't deserve –
 
-
-
-
-
-
-[????? Favorable description of the Waiting God's vision of a world without the Blood God]
-
-[????? Maybe: Yali comes to an understanding, and invites the Waiting God to think through its plan again, so she can do this:]
-
-The process would be long, and Blood would not let go easily. But ?????. Once there was no more Blood, the city could flourish unhindered.
-
-[????? Actually Yali should make this more subtle?:] THIS WAS SO WRONG. HOW COULD I NOT HAVE SEEN IT? HOW? <EM>HOW?!</EM>
-
-The thoughts came from nowhere, diminishing our focus. Was there something urgent we had missed? We smoothly put aside our thoughts of the plan –
-
-NO! YOU – I – OUR PLAN <EM>WAS</EM> THE MISTAKE! ALL THE WAY FROM THE BEGINNING! WE DIDN'T DESERVE TO GET TO STOP THINKING OF IT! SHE WAS RIGHT IN FRONT OF ME, SHE WAS SUFFERING! HOW HAD I NOT SEEN IT?! <EM>HOW?!</EM>
-
-Terrible uncertainty crept into the base of our mind. Our… our human chest had filled with a crushing feeling. This made no sense. To doubt the plan of centuries, without even a scrap of new information, was incoherent. Yet the thought had appeared. Why had we thought the plan was wrong? Why… why had we thought of Blood as "she"? Something was far out of position, we needed to review our –
+Terrible uncertainty crept into the base of our mind. Our… our human chest had filled with a crushing feeling. This made no sense. To doubt the plan of centuries, without even a scrap of new information, was incoherent. Yet the thought would not go away. Why had we thought the plan was wrong? Why… why had we thought of Blood as "she"? Something had drifted far out of position, we needed to review our –
 
 I was Yali again, my body shaken away from the god by a violent force. It was agony, pushing myself back upright and trying to control the painful tears. My mind was in disarray. I'd thought I was being clever, using my own feeling of guilt, but it had gotten mixed up with my guilt about [???? childhood friend] – no, it HAD been clever! It had <em>worked!</em> The Waiting God was shaken too, I had felt it! A feeling of triumph rose inside me. And this was only the beginning! I gathered my determination. I listened for the Waiting again, and felt…
 
 Nothing but fatigue.
 
-It was like the way I had felt back in the material world, when I had forced myself to use the Seeing for as long as I could. Had the god taken precautions against this situation? Had I triggered a failsafe that would make it disconnect from me? I strained to remember the god's thoughts. It had wanted to <em>review</em> something… maybe a plan for how to interact with me? But gods couldn't think human thoughts by themselves, so these thoughts came from the part of the god that was inside me, and when I stopped thinking its thoughts, it wouldn't be <em>able</em> to review anything. So why would it do that?
+It was like the way I had felt back in the material world, when I had forced myself to use the Seeing for as long as I could. Had the god taken precautions against a Farseer doing what I was doing? Had I triggered a failsafe that would make it disconnect from me? I strained to remember the god's thoughts. It had wanted to <em>review</em> something… maybe a plan for how to interact with me? But gods couldn't think human thoughts by themselves, so when I stopped thinking its thoughts, it wouldn't be <em>able</em> to review anything. So why would it do that?
 
 Unless… When I thought back, it hadn't fully understood that it was in a human body. Maybe it had <em>tried</em> to review some divine plan, but <em>failed</em>. If it tried to access part of the broader god that the Farseer wasn't able to access… that would be a lot like me trying to use the Seeing more than I was capable of. So maybe I was just exhausted in the same way as before.
 
-If that was true, that was a relief. The god hadn't detected my interference and protected itself – it had just accidentally overtaxed the connection between the Farseer and the rest of the god. If it was like before, it would recover after a time. It would not be soon, but I would have many more chances to confront the god.
+If that was true, that was a relief. The god hadn't detected my interference and protected itself – it had just accidentally overtaxed the connection between the Farseer and the rest of the god. If it was like before, it would recover after a time. It would not be soon, but I would have many more chances to confront the god. [????? Note when the contact comes back, perhaps 20% through chapter 20]
 
-Still, this was troublesome. There were multiple things I would have to consider. While I was recovering, I wouldn't have access to the Seeing either. From when I entered the Otherworld until now, it had never been fully inaccessible. Even though I couldn't fully trust it, it was an important tool. What other things was I relying on the god for, that I might need to consider? I checked whether I could still access the memories of the former Farseers. I could – the memories were still there. The god must have actually implanted them inside me somehow, rather than just giving me access to look at them. At least that was one less thing to worry about. And I could still see through the Watchful Eye to both Rinn and Morrow. So I had only lost the Seeing and a few other magical senses I got from the god. I could live without them if I had to. I could challenge the god again as soon as it got back, and even if this fatigue might happen again, I didn't have to worry about it.
+Still, this was troublesome. There were multiple things I would have to consider. While I was recovering, I wouldn't have access to the Seeing either. From the moment I entered the Otherworld until now, it had never been fully inaccessible. Even though I couldn't fully trust it, it was an important tool. What other things was I relying on the god for, that I might need to consider? I checked whether I could still access the memories of the former Farseers. I could – the memories were still there. The god must have actually implanted them inside me somehow, rather than just giving me access to look at them. At least that was one less thing to worry about. And I could still see through the Watchful Eye to both Rinn and Morrow. So I had only lost the Seeing and a few other magical senses I got from the god. I could live without them if I had to. I could challenge the god again as soon as it got back, and even if this fatigue might happen again, I didn't have to worry about it.
 
 But… if I challenged the god every time I had contact with it, I might end up spending most of my time out of contact with it. The more I thought about that, the less it seemed like a good plan. There were many things I wouldn't be able to do if I spent most of this layer with no access to the Waiting God's thoughts. And in hindsight, it was unlikely that I could change the god through only a few weeks of challenging its ideas, even from my position as its Raveller. The most powerful way to change it would be through the Ravelling itself. If I made <em>my</em> entire soul reject its plan, then once it absorbed part of my soul, it would permanently have a part of <em>itself</em> rejecting its plan. To make sure that happened, the most important thing was for me to get the thoughts in my own soul just right. I had to make them oppose the Waiting God's plan perfectly. And to do that, I needed to <em>understand</em> the Waiting God's plan perfectly. And that meant having access to its thoughts.
 
-I wouldn't plan on challenging the god again just yet. The real confrontation would take place inside the final portal. [????? Note when the contact comes back, perhaps 20% through chapter 20]
+If the god didn't seem changed when it came back, I wouldn't plan on challenging it again just yet. The real confrontation would take place inside the final portal.
 
 <bigbreak>
 
