@@ -183,7 +183,15 @@ I took off running and jumped clean over the hole. I grabbed the lever and gave 
 
 "I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if only to illustrate." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to exist if it functions no differently than an empty floor. So that is the second rule of the puzzle: only the Blood Child can cross gaps."
 
-?????
+[????? Description of a basic puzzle using these rules, unexpected transition to:]
+
+"Let me OUT of here!!" I screamed.
+
+I was TRAPPED between these glass walls. I had to get OUT. With a Blood Blade in my hand, I stabbed against the –
+
+"Is something wrong?" came Justicar's voice.
+
+No, I was fine. "Nah," I said, cool confidence surging through me. "I'll have this figured out in no time." I turned back to the puzzle I was working on…
 
 
 [????? While I was waiting for Justicar to finish her side, I] idly manifested a brick wall to block the fire in front of me. I knew it wasn't going to <em>work</em>, I was just curious to see what would happen. Sure enough, the flames shot right through it. It didn't even burn – it just didn't block the flames at all.
@@ -198,17 +206,7 @@ Justicar spotted what I was doing. "I told you," she said patiently, "the Seekin
 
 <bigbreak>
 
-[????? Where?: Clarify that they have begun a long series of puzzles with the same general format]
-
-"Let me OUT of here!!" I screamed.
-
-I was TRAPPED between these glass walls. I had to get OUT. With a Blood Blade in my hand, I stabbed against the –
-
-"Is something wrong?" came Justicar's voice.
-
-No, I was fine. "Nah," I said, cool confidence surging through me. "I'll have this figured out in no time." I turned back to the puzzle I was working on…
-
-<bigbreak>
+[????? summary language: we went through a long series of puzzles with the same general format, and we rode on elevators between them; some buttons stick down, others are temporary or toggle]
 
 "Let me OUT of here!!" I screamed.
 
@@ -532,17 +530,15 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 "Uggggghhhhhhh."
 
-[????? where to fit this?: how can the law be pure when it's also made by humans? like, "if the Stern Temple is generally corrupt, how can you still support the idea of it"]
-
 [????? Finishing up the puzzle]
 ?????
 <bigbreak>
 
-We were in the elevator again [????? set this up], taking a brief rest as we got close to the end of a long chain of puzzles. How many days had we been at this now?
+We were in the elevator again [????? set this up], taking a brief rest as we [????? got close to the end of a long chain of puzzles. - it was going to be the last in the chain] How many days had we been at this now?
 
 Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>! Sure, it was pretty badass that she had tried to take down another cop, but the way she <em>talked</em> about it was just <em>infuriating</em>.
 
-And even though I had a copy of my phone again, I was long since bored of all the games I had on it. Messing with Justicar was the only entertainment I still had.
+And even though I had a copy of my phone again, I was long since bored of all the games I had on it, and a bunch of them didn't even work without a signal. Messing with Justicar was the only entertainment I still had.
 
 "So…" I said, trying to sound sly but probably just sounding like an asshole, "when you were a cop, how many people did you put in prison?" I couldn't resist asking her that. I just <em>knew</em> she was going to come up with some reason not to answer.
 
@@ -566,13 +562,19 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "Oh yeah? When did that happen?"
 
-"The only reason it has not happened is the fact that <em>the Stern are still in control</em>. What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order, but that is a contradiction, because order is the way that people's lives are preserved. Even at the most basic level, if laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Food?"
+"The only reason it has not happened is the fact that <em>the Stern are still in control</em>. Our <em>laws</em> are what prevents the city from collapsing into anarchy. What would –"
 
-"I mean, if I'm in charge, I can just tell someone to import food into the city."
+"Wait a minute, you said the whole Stern Temple is corrupt! Don't they <em>make</em> the laws? How can you support the law when it's made by assholes?!"
 
-"Because you have seen how a tower is shaped, you imagine that you could tear one down and build another from the ruins without any tools.
+"I will not say there has never been an unjust law, influenced by human manipulation. But even so, the laws are made in consultation with the Stern God itself. There are limits to –"
 
-?????
+"And what's so great about the Stern God? Doesn't it get part of its soul from human Ravellers? So it could be corrupted by humans just as –"
+
+"You flaunt your disinterest in the Stern, and yet you assume you can understand how it operates? The Stern God does not simply absorb the soul of any passing stranger. The corrupt are not chosen to be Justicars, and the Justicars undergo many stages of filtering and purification before the Stern God absorbs a single thread. The god and its temple have seen their procedures proven by the test of millennia. You think you know better than they? What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order, but that is a contradiction, because order is the way that people's lives are preserved. Even at the most basic level, if laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Who will import something as vital as food?"
+
+"Get your story straight! If you're putting me in <em>charge</em>, I can just <em>tell</em> someone to import food! So don't act like you –"
+
+Justicar's voice smoothly cut through mine. She was so calm, it was like she didn't even realize what a heartless system she was defending. "Because you have seen how a tower is shaped, you imagine that you could tear one down and build another from the ruins without any tools. It is all too easy for one such as you, a child who has never lived without the benefits of law, to imagine that those benefits come for free, and are not the products of hard-fought –"
 
 "You're good at making yourself sound smart, but you're not," I said aggressively. "It's all just a bunch of fancy words to try and justify what you Stern do to people. Why don't you just be honest and beat us up like the others?!"
 
@@ -594,7 +596,7 @@ Rage surged up in me. I wanted to punch the smug indifference right off her face
 
 "Like that changes anything! If he stole a few more times! He could have stolen a $50 pair of headphones <em>every day for the enire year</em> and it still wouldn't be worth as much as what you sacrificed!"
 
-"And still your solution is to erase the law and justice system that we have. How very like the Blood God."
+"And still your solution is to throw away the law and the entire justice system that we have. How very like the Blood God."
 
 "Ya know, I wasn't a fan of the Blood God before, but the more you talk, the more I think maybe it's got some good ideas."
 
@@ -626,7 +628,7 @@ The great doors slid open, revealing the final puzzle.
 
 The room in front of us much smaller than the others. I checked the map. "This has got to be the last puzzle before we get to Yali!!" I said excitedly, trying to just be happy about that and forget my raw conflict with Justicar. I could practically <em>feel</em> her being skeptical behind me. Well, screw her anyway.
 
-The puzzle in front of us looked really simple. Justicar and I were forced into separate corridors – there was one that you could only enter if you jumped, and one that you could only enter if you walked through fire. On my side, there was a closed door, then a room full of perpetually roaring flames. On Justicar's side, there was also a closed door, but in front of it, there was a button. There was also a place on my side where the corridor branched off, but it just led to a dead end with another flamethrower in it. Why?
+The puzzle in front of us looked really simple. Justicar and I were forced into separate corridors – there was one that you could only enter if you jumped, and one that you could only enter if you walked through fire. On my side, there was a closed door, then a room full of perpetually roaring flames. On Justicar's side, there was also a closed door, but in front of it, there was a button. And that was the whole puzzle, as far as we could see. There was also a place on my side where the corridor branched off, but it just led to a dead end with another flamethrower in it. Why?
 
 "Guess you've got to stand on that button," I said. "I'm literally looking at a closed door here. I can't do anything. "
 
@@ -648,7 +650,7 @@ Not thinking of anything else to do, I stood on the button. The door on Justicar
 
 "Like what, a secret switch that lets us skip the puzzle?"
 
-"No. These puzzles are about applying the established rules in new ways the solver may not think of. The god would not change the rules this late in the sequence."
+"No. These puzzles are about applying the established rules in new ways that the solver may not think of. The god would not change the rules this late in the sequence."
 
 "Wait, why not? I mean, I was being sarcastic, but maybe we actually <em>should</em> look for –"
 
@@ -708,7 +710,7 @@ Justicar sighed. "If it comes to that, do you think I will have difficulty admit
 
 We didn't find any other solution, of course. Justicar took forever to convince herself, but she finally gave in.
 
-Now, she was standing on her button, and I on the button in the fire room, about to do what we had to.
+Now, she was standing on her button, and I was on the button in the fire room, about to do what we had to.
 
 "You are sure you're ready for this?"
 
@@ -716,7 +718,7 @@ Now, she was standing on her button, and I on the button in the fire room, about
 
 Justicar closed her eyes. With a strained voice, she recited, "<em>Let me strike when I must strike, even if it costs my life; but let me yield when I must yield, even if it costs my pride.</em>"
 
-"Oh, get on with it," I said. I knew I was safe, but just standing here waiting to be torched was giving me the jitters.
+"Oh, get on with it," I said, a little louder than I meant to. I knew I was safe, but just standing here waiting to be torched was giving me the jitters.
 
 Justicar sprinted towards the open door on her side. I didn't see much after that, because there were flames all around me. Searing pain struck at the entire surface of my skin. It actually felt kind of kickass, standing proudly in the middle of the inferno, tensing my whole body to resist the pain.
 
@@ -742,7 +744,7 @@ I headed for the exit, expecting Justicar to follow me.
 
 "But there is still something I wonder," said Justicar dourly. "These puzzles were constructed for both of us. If you are correct, and the solution we used was the one the Seeking God intended, then I have to admit that it <em>did</em> have… some form of lesson for me. But then, surely, somewhere in this, there must also be a lesson for <em>you</em>?"
 
-I smirked. "Nah, it just means I was right all along! I'm the one who thought, uh…" Actually, when I thought about it, I hadn't really disagreed with Justicar about anything. I had just sort of… gone along with… "Oh. My. GODS!! I can't believe it, I seriously can't believe it! I've gone this entire way, this ENTIRE way, acting like I hate the rules, like I think they're all bullshit! But when you told me what you thought the rules were – the <em>very first time you told me</em> – I BELIEVED you! I could have checked any time I wanted! I could have stuck my hand in the fire whenever I wanted to, and then I could have skipped past all the puzzles! But the Seeking God <em>knew</em> I wouldn't do it! It knew I would just –" the words came reluctantly to my lips "– <em>trust</em> you."
+I smirked. "Nah, it just means I was right all along! I'm the one who thought, uh…" Actually, when I thought about it, I hadn't really disagreed with Justicar about anything. I had just sort of… gone along with… "Oh. My. GODS!! I can't believe it, I seriously can't believe it! I've gone this entire way, this ENTIRE way, acting like I hate the rules, like I think they're all bullshit! But when you told me what you thought the rules were – the <em>very first rule you told me</em> – I BELIEVED you! I could have checked any time I wanted! I could have stuck my hand in the fire whenever I wanted to, and then I could have skipped past all the puzzles! But the Seeking God <em>knew</em> I wouldn't do it! It knew I would just –" the words came reluctantly to my lips "– <em>trust</em> you."
 
 "An interesting thought, but how was that <em>my</em> rule? Anyone could have assumed th–"
 
