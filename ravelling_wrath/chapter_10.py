@@ -451,7 +451,9 @@ I was trying to provoke her into arguing some more, but it didn't get through at
 
 ????? Another puzzle
 
-Even now that I was sober, she was still way better at solving the puzzles than I was. I wasn't <em>bad</em> at it, but Justicar could just look at something and instantly be like, <em>logically, this is what we have to do</em>. It kind of felt like there was no point in me trying to follow along. I mostly just ended up going along with what she said.
+[???? cut: Even now that I was sober, she was still way better at solving the puzzles than I was. I wasn't <em>bad</em> at it, but Justicar could just look at something and instantly be like, <em>logically, this is what we have to do</em>. It kind of felt like there was no point in me trying to follow along. I mostly just ended up going along with what she said.]
+
+[???? and instead: the god shows secret info to Justicar while Rinn can only mess around; bunch of details]
 
 ?????
 
