@@ -88,7 +88,7 @@ Alchemist was frozen up and unresponsive, looking down at their hands.
 
 "– Which would give us access to the rightmost wheel, which, if the pattern continues, should open up the route for the Imminent to reach the left exit," Justicar concluded. "So that is <em>a</em> solution, but it limits our choices –"
 
-That's when I realized. Alchemist and Morrow were both on some of the higher walkways, which were mostly disconnected from the rest. Without the wheel Alchemist had just busted, only the two of them could get to the left exit. And only Justicar and me could get to the right exit. "Are you seriously telling me that Alchemist solved the whole rest of the puzzle while we were arguing?! And then figured out which wheel to break to make sure they'd get to leave with Morrow?! Shit, Alchemist, you're a genius!" I threw them a thumbs-up. I wasn't even mad that they'd stuck me with Justicar, that was just too brilliant. Now the lovebirds would get to be alone together, for the first time… ever, actually, now that I thought about it.
+That's when I realized. Right now, Alchemist and Morrow were both on some of the higher walkways, which were mostly disconnected from the rest. Without the wheel Alchemist had just busted, only the two of them could get to the left exit. And only Justicar and me could get to the right exit. "Are you seriously telling me that Alchemist solved the whole rest of the puzzle while we were arguing?! And then figured out which wheel to break to make sure they'd get to leave with Morrow?! Shit, Alchemist, you're a genius!" I threw them a thumbs-up. I wasn't even mad that they'd stuck me with Justicar, that was just too brilliant. Now the lovebirds would get to be alone together, for the first time… ever, actually, now that I thought about it.
 
 [????? Where in this chapter?
 
@@ -181,7 +181,7 @@ I sized up the hole. "I could jump that, easy."
 
 I took off running and jumped clean over the hole. I grabbed the lever and gave it a good heave, smirking. Then I jumped back over the hole as a wall slid open somewhere. "That was easy," I said. "You could probably jump it, too. Even with that armor, it's not –"
 
-"I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if only to illustrate." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to exist if it functions no differently than an empty floor. So that is the second rule of the puzzle: only the Blood Child can cross gaps."
+"I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if only to illustrate." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to exist if it functions no differently than an empty floor. So that is the second rule of the puzzle: only the Blood Child can cross pits."
 
 [????? Description of a basic puzzle using these rules, unexpected transition to:]
 
@@ -234,25 +234,41 @@ I could feel it again, like hot steam hissing its way around the edges of my min
 
 "Do it," I barked.
 
-Justicar's hands suddenly shone with a blinding white light. She pressed them to my forehead, the light stabbing into my eyes. For a few seconds, my mind was suspended with a disconcerting feeling. And then… relief, an angry sort of relief. I felt like I'd just been cut down from being chained to a wall with my underside exposed, and now I was curling up in a spiky ball to protect myself.
+Justicar's hands suddenly shone with a blinding white light. She pressed them to my forehead, the light stabbing into my eyes. For a few seconds, my mind was suspended with a disconcerting feeling. And then… relief, an angry sort of relief, like I was curling up in a spiky ball to protect myself. I felt like I'd been chained to a wall with my underside exposed, and only just now cut down.
 
-"Ugh, remind me to NEVER ask for help from Morrow AGAIN!" I yelled, leaning on a wall and covering my eyes against Justicar's light.
+"Ugh, remind me to NEVER ask Morrow for help AGAIN!" I yelled, leaning on a wall and covering my eyes against Justicar's light. The worst was over, but my head was still pounding, constantly on the lookout to make sure I wouldn't get locked away again.
 
- [????? The worst was over, but I still felt trapped, helpless and overwhelmed. The pounding in my head was too much for me to not snap at Justicar (maybe "no other thoughts would come to my mind")]
+"Have a seat," said Justicar tiredly. She manifested a wooden bench and awkwardly took me by the shoulders, guiding me down until we were sitting side-by-side. Then she took her hands off and shifted a few centimeters away.
 
-?????
+"Bet you're gonna say <em>I told you so</em>," I muttered.
 
-"It seems like you have suffered enough."
+"I wasn't going to. It seems like you had suffered enough."
 
-"Way to rub it in!" I snapped. A bitter resentment was howling inside me. I didn't even <em>want</em> to be snapping at Justicar. But I couldn't think of anything else.
+"Way to rub it in!" I snapped. A bitter resentment was howling inside me. I didn't even <em>want</em> to be snapping at Justicar. But my mind couldn't think of anything else.
 
 "I wasn't trying to rub it in –"
 
 "Well, GOOD! I don't need any more lectures from you Stern hypocrites!! I've had enough of that back on Earth! Mom and Dad thinking they can control me, teachers acting like they know shit about what's good for me –"
 
-[????? Justicar thought about it, then had an emotional shift and spoke more gently[Maybe Justicar believes that Rinn is going down the wrong path because Rinn's parents haven't been good Stern role models, so Justicar should try to be that]] "Even if they are truly hypocrites – which perhaps they are! – you should not be so quick to discard the wisdom of the Stern simply because of their human failings. In truth, very few who claim to follow the Stern truly uphold its ideals."
+"Hmmmm…"
 
-"I bet <em>you</em> do, though," I said sarcastically.
+When I looked up, Justicar wasn't looking all Stern like I expected. Her head was a little down, like she was deep in thought, her face clouded by a look of… concern?
+
+"Perhaps they are," she said quietly. "I shouldn't assume, either."
+
+"Are what?"
+
+"Hypocrites."
+
+I gaped at her.
+
+Justicar looked me in the eye, speaking seriously but gently. "Did you think that I would defend your parents and teachers, whom I have never met, simply because you say they represent the Stern?"
+
+"Well, yeah, all you Stern types do that."
+
+Justicar shook her head sadly. "There is much more to the wisdom of the Stern than simply obeying whichever humans believe their authority is legitimate. Perhaps no one in your life has been able to show you that wisdom. But you should not toss it aside simply because of their human failings. In truth, very few who claim to follow the Stern truly uphold its ideals."
+
+Having Justicar act gentle was weirding me out. I didn't trust it. "I bet <em>you</em> truly uphold its ideals, though," I said sarcastically.
 
 "It would be arrogance for me to claim that I am certain of my own virtue –"
 
@@ -277,7 +293,7 @@ The beer sat uncomfortably in my belly. Stern take it, I should have thought abo
 
 "Well, I've come this far. Let's, uh, get this party started." I manifested some big speakers and a new copy of my phone, plugged them together, and started blasting some upbeat party music. I picked a song with a strong beat and a sexy voice. As soon as it came on, I wanted to jump up and start dancing, even though it was just me and Justicar here. So I did. I grabbed Justicar's wrist and tried to pull her up with me, but she wouldn't budge.
 
-"Fiiiiine, be that way," I said. I happily started bobbing my head up and down to the beat. Pretty soon, the music started glitching in and out. Right, the speakers I'd manifested were some old ones my dad had from, like, last century. They were flaky as shit. I was about to give them a good kick when I noticed Justicar glancing at them and twitching. Well, if <em>she</em> was annoyed –
+"Fiiiiine, be that way," I said. I happily started bobbing my head up and down to the beat. Pretty soon, the music started glitching in and out. Right, the speakers I'd manifested were some old ones my dad had been keeping since, like, last century. They were flaky as shit. I was about to give them a good kick when I noticed Justicar glancing at them and twitching. Well, if <em>she</em> was annoyed –
 
 Before long, Justicar manifested a different pair of speakers and re-plugged them. The music sounded fine now. Well, worked for me.
 
@@ -295,7 +311,7 @@ Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I 
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
-Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had made that happen. I had been a star student, working hard and earning top marks, but I took it for granted. I always wanted more. To fill that void, I reached out in every direction except the one that would actually restore me. I reached for every kind of drug I could get my hands on, I had sex with many different men –"
+Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had caused it to happen. I had been a star student, working hard and earning top marks, but I took it for granted. I always wanted more. To fill that void, I reached out in every direction except the one that would truly restore me. I reached for every kind of drug I could get my hands on, I had sex with many different men –"
 
 Well <em>that</em> I knew how to respond to. "Haha, that's where you went wrong. Shoulda had sex with girls instead."
 
@@ -335,7 +351,7 @@ Justicar was smiling – the smile of someone who's being patient with a little 
 
 "If you would give me a chance to explain the actual principles I follow, you would know I do not believe anything like that. It is always wrong to force yourself on someone else. But no one forced themselves on me. It was my own choice to devalue my body like that. I <em>chose</em> to fill my nights with sexual indiscretions, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
 
-Up to this point, I had mostly just been messing with her. But now… a terrible ache pulled at my heart. This was deadly serious. Her words were a violation, a gaping wound, trying to twist my blood out of its course. Coldly, I stated, "That's your <em>real</em> problem. It's not the sex. It's not the drinking. It's the self-respect. But –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. If anyone doesn't treat me right, they can fuck right off. And if they don't fuck right off, I <em>make</em> them. I'm nothing like you."
+Up to this point, I had mostly just been messing with her. But now… a terrible ache pulled at my heart. This was deadly serious. Her words were a violation, a gaping wound, trying to twist my blood out of its course. Coldly, I stated, "That's your <em>real</em> problem. It's not the sex. It's not the drinking. It's the self-respect. But –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. If anyone doesn't treat me right, they can fuck right off. And if they don't fuck right off, I <em>make</em> them fuck right off. I'm nothing like you."
 
 Justicar raised an eyebrow. "When I was your age, I too believed that I was being assertive and empowered."
 
@@ -582,7 +598,7 @@ Justicar's voice smoothly cut through mine. She was so calm, it was like she did
 
 "That is not –"
 
-"I grew up down the street from that kid!" I shouted over her. I had only barely figured out where I was going with this, but a righteous rage was building in my chest. "[????? Name]! He went to prison for stealing a $50 pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a $50 pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ?????Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
+"I grew up down the street from that kid!" I shouted over her. I had only barely figured out where I was going with this, but a righteous rage was building in my chest. "[???? name]! He went to prison for stealing a [????? remove currency amount? $50] pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a $50 pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ????Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
 
 "If he was abused in prison, that is <em>not</em> the will of the Stern! You cannot blame –"
 
@@ -750,7 +766,7 @@ I smirked. "Nah, it just means I was right all along! I'm the one who thought, u
 
 "An interesting thought, but how was that <em>my</em> rule? Anyone could have assumed th–"
 
-I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about ?????, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
+I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about ????, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
 
 "That is not what 'belief in the Stern' m–"
 
@@ -764,7 +780,7 @@ I paced back and forth, not even listening to her. I COULDN'T get distracted! No
 
 "Oh? What am I?"
 
-I clutched my head, trying to calm my warring thoughts. I should have had something brilliant to say that would totally shut down all of Justicar's bad ?????arguments. But now the feeling of insight was gone, leaving my mind in a jumble. Which part was me, and which part was the Blood God? Could they <em>all</em> be the Blood God? For fuck's sake, why wouldn't it just leave me OUT of its family squabbles? And now it was squabbling with <em>itself</em>, too?!
+I clutched my head, trying to calm my warring thoughts. I should have had something brilliant to say that would totally shut down all of Justicar's bad arguments. But now the feeling of insight was gone, leaving my mind in a jumble. Which part was me, and which part was the Blood God? Could they <em>all</em> be the Blood God? For fuck's sake, why wouldn't it just leave me OUT of its family squabbles? And now it was squabbling with <em>itself</em>, too?!
 
 "I don't know. This is stupid. Never mind."
 
