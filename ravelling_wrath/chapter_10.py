@@ -46,11 +46,11 @@ So, as strange as it was, I ended up working with Justicar. We worked together t
 
 "Hey, move it back!" I yelled.
 
-Why had I ever tried to work with Morrow? [?????sentence too hard:] We'd just opened up a way for him to go on ahead, and when he got there, the first wheel he turned took away my only path away from where I was standing. And now he was cheerfully ignoring me. I was stuck on this one tiny section of walkway, floating in empty space. And the worst part was, I <em>understood</em> this puzzle now. Justicar and I had figured out exactly how to tell which wheels moved which walkways in which directions. And Morrow was the <em>only</em> person in a position to free me. The only thing I could think of was to jump, but all the other walkways looked too far away to reach.
+Why had I ever tried to work with Morrow? We'd just opened up a way for him to go on ahead, and when he got there, he'd messed things up for the rest of us. The first wheel he'd turned took away my only path away from where I was standing. And now he was cheerfully ignoring me. I was stuck on this one tiny section of walkway, floating in empty space. And the worst part was, I <em>understood</em> this puzzle now. Justicar and I had figured out exactly how to tell which wheels moved which walkways in which directions. And Morrow was the <em>only</em> person in a position to free me. The only thing I could think of was to jump, but all the other walkways looked too far away to reach.
 
 Then again, it couldn't hurt to try, could it? None of the puzzles here had <em>actually</em> hurt me, even when I did stupid stuff. So I just took a flying leap off the platform, fell into the bottomless void, and landed back at the beginning of the puzzle like usual.
 
-Except this time… it actually might be useful to solving the puzzle. It meant you could move the walkways in a way that trapped yourself, if it was useful for someone else. You could just trap yourself, then jump back to the beginning. Or at least, three of us could. Alchemist was too nervous to jump.
+Except this time… it actually had a chance to be useful for solving the puzzle. It meant you could move the walkways in a way that trapped yourself, if it was useful for someone else. You could just trap yourself, then jump back to the beginning. Or at least, three of us could. Alchemist was too nervous to jump.
 
 By taking advantage of that, Justicar and I were able to get a lot farther without Morrow's help. Meanwhile, Morrow climbed up to a weird high spot.
 
@@ -66,7 +66,7 @@ Not that it was hard for <em>me</em> to decide. "The one on the right looks clos
 
 Morrow leaned over a railing, sneering down at her. "Yeeeeeah, and the third one has to be alone with <em>you</em>, so I guess we <em>alllllll</em> have to put up with something we don't like."
 
-Justicar ignored him. "Perhaps I should go with the Alchemist. Then, at least, neither of you would be able to [????? be a bad influence on him]."
+Justicar ignored him. "Perhaps I should go with the Alchemist. Then, at least, neither of you would be able to be a bad influence on him."
 
 "What, and leave me with Morrow? I was already stuck with Morrow for ages!" Not that I wanted to be stuck with Justicar, either. "How about Alchemist goes with <em>me</em> and –" Haha, Morrow and Justicar would both <em>hate</em> being stuck with each other. That would be hilarious, and I was kind of thinking it was what they both deserved. But as soon I thought that, the loopy thing flooded me with that confident feeling again.
 
@@ -88,15 +88,7 @@ Alchemist was frozen up and unresponsive, looking down at their hands.
 
 "– Which would give us access to the rightmost wheel, which, if the pattern continues, should open up the route for the Imminent to reach the left exit," Justicar concluded. "So that is <em>a</em> solution, but it limits our choices –"
 
-That's when I realized. Right now, Alchemist and Morrow were both on some of the higher walkways, which were mostly disconnected from the rest. Without the wheel Alchemist had just busted, only the two of them could get to the left exit. And only Justicar and me could get to the right exit. "Are you seriously telling me that Alchemist solved the whole rest of the puzzle while we were arguing?! And then figured out which wheel to break to make sure they'd get to leave with Morrow?! Shit, Alchemist, you're a genius!" I threw them a thumbs-up. I wasn't even mad that they'd stuck me with Justicar, that was just too brilliant. Now the lovebirds would get to be alone together, for the first time… ever, actually, now that I thought about it.
-
-[????? Where in this chapter?
-
-"And why do you always call Alchemist 'he'?"
-
-"He said, 'you can call me whatever you like'. Surely I am not being disrespectful."
-
-I couldn't find a hole in that logic. But it didn't <em>feel</em> respectful.
+That's when I realized. Right now, Alchemist and Morrow were both on some of the higher walkways, which were mostly disconnected from the rest. Without the wheel Alchemist had just busted, only the two of them could get to the left exit. And only Justicar and me could get to the right exit. "Are you seriously telling me that Alchemist solved the whole rest of the puzzle while we were arguing?! And then figured out which wheel to break to make sure they'd get to leave with Morrow?! Shit, Alchemist, you're a genius!" I threw them a thumbs-up. I wasn't even mad that they'd stuck me with Justicar, that was just too brilliant. Now the lovebirds would get to be alone together, for the first time in… ever, actually, now that I thought about it.
 
 
 <bigbreak>
@@ -139,11 +131,19 @@ I tried to make it go away. Wasn't the loopy thing supposed to make it go away? 
 
 Whatever. I could just put up with it. I gave up and kept walking.
 
+Our feet steadily clanked along the walkway. Before long, Justicar broke the silence again. "I am still concerned for the Alchemist," she said. "I traveled with him earlier, and he did not seem prepared for the challenges ahead. And the Imminent is, of course, not a responsible guardian for him."
+
+She wasn't wrong. But it would be such a downer if I just agreed with it. "They'll be fine!" I said. "And how come you always call Alchemist 'he'?"
+
+"He said, 'you can call me whatever you like'. Surely I am not being disrespectful."
+
+It didn't <em>feel</em> respectful. But I couldn't find a hole in her logic, so I just dropped the issue.
+
 <bigbreak>
 
 Finally, the long walkway came to an end. A huge wall loomed out of the blackness in front of us, extending into shadow both above and below. The walkway just continued right up to the middle of the wall and stopped.
 
-Justicar and I walked up to the wall. While Justicar examined it, I just started cutting it open with my Blood Blades. It turned that there had been a secret door there already, as I discovered when the secret door fell open after I unintentionally cut through its hinges.
+Justicar and I walked up to the wall. While Justicar examined it, I just started cutting it open with my Blood Blades. It turned that there had been a secret door there already, as I discovered when the secret door fell open after I randomly cut through its hinges.
 
 With Justicar following me, I stepped over the door into the series of rooms beyond.
 
@@ -307,7 +307,7 @@ Why did she have to make everything into some sort of serious issue? "Like <em>y
 
 "You're bullshitting me."
 
-Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I do not believe to be true. [????? So you can be certain it's true when I say this: I did not respect myself.] I was a heavy drinker. I literally cannot count the times that I drank until I was blacked out or vomiting on the floor. My friends tried to stop me, but I persisted, even knowing that I was making them clean up after me. I ruined my relationships with them, one by one."
+Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I do not believe to be true. So you can be certain of my honesty when I tell you this: I did not respect myself. I was a heavy drinker. I literally cannot count the times that I drank until I was blacked out or vomiting on the floor. My friends tried to stop me, but I persisted, even knowing that I was making them clean up after me. I ruined my relationships with them, one by one."
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
@@ -375,15 +375,19 @@ Justicar raised an eyebrow.
 
 "If you insist on remaining drunk, why don't you step out of the puzzle and let me solve it by myself? You are not being helpful."
 
-[????? Justicar comes back to Rinn's location, takes her by the shoulders and starts leading her out of the puzzle]
+"No, I can totally help, I can –" I said as I walked into another wall.
 
-"At least it's only alcohol, not ?????…" she muttered.
+Justicar sighed. She found her way out of the spiral hallway she was in, and briskly walked up to me. Without another word, she put one arm around my shoulders and started firmly leading me out of the puzzle.
 
-????? was an alchemical drug that some people used to get high. It supposedly [????? gave you enjoyable psychological effect]. But I knew a couple of guys who used it a lot, and they kind of… weren't all there, [????? both when they were under its effects and when they weren't]. And their skin was dry and cracked all the time… wait a minute. <em>Justicar</em>'s skin had always looked kind of dry and cracked.
+I couldn't think straight enough to resist, so I just stumbled along with her.
 
-"I don't know why I'm bothering to say this," she went on, "but if you remember only one thing from what I tell you, remember never to touch ?????. No matter how it makes you feel in the moment, it will always –"
+"At least it's only alcohol, not ????…" she muttered.
 
-"Of course I'm never going to do ?????! That shit fucks you up! Uh, I mean, not that you're fucked up because you did ?????. <em>You're</em> fucked up for completely different reasons." I said, jabbing my finger into the chest plate of her armor. "Ow, that hurts."
+???? was an alchemical drug that some people used to get high. It supposedly made you feel a sense of purpose, like you knew exactly what you were doing. But I knew a couple of guys who used it a lot, and they kind of… weren't all there. When they were using it, they said things that didn't make sense. When they weren't, they were short-tempered assholes – and not in a fun way, either. And their skin was dry and cracked all the time… wait a minute. <em>Justicar</em>'s skin had always looked kind of dry and cracked.
+
+"I don't know why I'm bothering to say this," she went on, "but if you remember only one thing from what I tell you, remember never to touch ????. No matter how it makes you feel in the moment, it will always –"
+
+"Of course I'm never going to do ????! That shit fucks you up! Uh, I mean, not that you're fucked up because you did ????. <em>You're</em> fucked up for completely different reasons." I said, jabbing my finger into the chest plate of her armor. "Ow, that hurts."
 
 "Please stop being drunk," said Justicar wearily.
 
@@ -397,17 +401,19 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 
 "Fine!" I made my cuts close. "But seriously, what is your problem? Why'd you have to –"
 
-"You have no idea how much I have had to sacrifice to get away from that life! You treat this as a game – just as I did! You have no idea of the depths to which one can sink!
+"You have no idea how much I have had to sacrifice to get away from that life! You treat this as a game – just as I did! You have no idea of the depths to which one can sink!"
 
-????? I woke up in the hospital after an overdose. Even then, I refused to believe it was over. Not until my parents walked in. They did not listen to my excuses. They simply <em>told</em> me that I would be going to the Borson School in ????? from then on –"
+"Fine, then, tell me! Tell me the rest of your life story, see if I care –"
 
-"Isn't that that place that was in the news for abusing all those kids??"
+"Then I will, and maybe you <em>will</em> care," said Justicar seriously. "Even after everything I had done to myself, I was never able to admit I had a problem until the day when I woke up in the hospital after an overdose. Even then, I refused to believe it was over. Not until my parents walked in. They did not listen to my excuses. They simply <em>told</em> me that I would be going to the Borson School in ???? from then on –"
 
-"You are thinking of Bolsard Academy, in ?????. They are unrelated institutions."
+"Isn't that the place that was in the news for abusing all those kids??"
+
+"You are thinking of Bolsard Academy, in ????. They are unrelated institutions."
 
 "Er… oh."
 
-"As I was saying, they simply told me of their decision. They did not give me a choice that I could ?????mismake. And for once, I did not try to fight it. On some level, I was aware of how badly my actions were destroying my life. I would never have been able to make that decision myself.
+"As I was saying, they simply told me of their decision. They did not give me a choice that would have allowed me to continue my mistakes. And for once, I did not try to fight it. On some level, I was aware of how badly my actions were destroying my life. I would never have been able to make that decision myself.
 
 "By the time I was able to leave the hospital, my bags were already packed. They drove me directly to the new school. We did not stop at my home. I was not even allowed a moment with my phone to say goodbye to the few friends who would still talk to me –"
 
