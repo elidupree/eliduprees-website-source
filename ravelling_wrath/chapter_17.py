@@ -177,7 +177,7 @@ Even when I looked away, the cracks in the universe were still sizzling in the b
 
 In moments, Yali had pinned me with my back to a tree. She leaned in and kissed me on the mouth. "I'm distracting you," she said.
 
-"You sure know how to distract me," I laughed, thrills running through me as she planted a series of kisses starting at my ear and moving up the side of my face. I pulled closer to her, grabbing fistfuls of her sweater and diving into clamped my lips onto hers. We pushed back and forth, squishing our bodies onto each other, barely remembering to come up for air.
+"You sure know how to distract me," I laughed, thrills running through me as she planted a series of kisses starting at my ear and moving up the side of my face. I pulled closer to her, grabbing fistfuls of her sweater, and clamped my lips onto hers. We pushed back and forth, squishing our bodies onto each other, barely remembering to come up for air.
 
 At some point, I noticed that I didn't feel like the world was being torn apart anymore. And that Alchemist was looking at us.
 
@@ -229,7 +229,7 @@ I squinted across at a short smear of blood on the rocks. "Should there be this 
 
 "Right…"
 
-We descended to the mouth of a ravine, guarded by a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Or, knowing him, paused because he was physically unable to go on the time. Yali stopped walking and squinted. "Do you feel it, too?" she said.
+We descended to the mouth of a ravine, guarded by a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Or, knowing him, paused because he was physically unable to keep going at the time. Yali stopped walking and squinted. "Do you feel it, too?" she said.
 
 I stopped alongside her. When I paid attention, I could feel something sloshing at the edges of my mind. "Yeah. I do."
 
@@ -763,7 +763,7 @@ The portal loomed out of the mist, a black and shimmering expanse where a hillsi
 
 Before we went in, we made a lot of plans about what to do in the next layer. It was a little awkward because we needed to include Alchemist for some of it, Yali refused to go anywhere near Morrow, and Alchemist didn't want to leave Morrow all by himself. But eventually we found some compromises.
 
-Yali asked Alchemist to make some are potions for her, and a few potions for me as well. The ones they gave <em>me</em> were mostly for sneaking around – making me turn invisible and fly quickly and quietly. "I think from Blood God might let us arrive in the same place in its world," said Yali, "but if it doesn't, I want you to avoid Justicar for as long as you can. Just stay hidden and let me find you. If it comes to a fight, I wish I could give you fighting potions, too, but the most important thing in a fight will be your soulfire, and your soulfire will purge any potions from your system anyway."
+Yali asked Alchemist to make some more potions for her, and a few potions for me as well. The ones they gave <em>me</em> were mostly for sneaking around – making me turn invisible and fly quickly and quietly. "I think the Blood God might let us arrive in the same place in its world," said Yali, "but if it doesn't, I want you to avoid Justicar for as long as you can. Just stay hidden and let me find you. If it comes to a fight, I wish I could give you fighting potions, too, but the most important thing in a fight will be your soulfire, and your soulfire will purge any potions from your system anyway."
 
 An old part of me felt like complaining about that. But it was only a small part. I didn't need potions for this. I had myself, and that was stronger than any potion.
 
