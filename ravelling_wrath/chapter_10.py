@@ -479,6 +479,14 @@ I was trying to provoke her into arguing some more, but it didn't get through at
 
 ?????
 
+[????? Rinn makes a false assumption about Justicar's beliefs]
+
+"You assume, simply because a thing was done in the name of the Stern, that I would approve of it. But as I said, not all who claim to follow the Stern truly uphold its principles. Even the highest ranks of the Stern Temple are full of – have their share of hypocrites ?????
+
+[????? "I suppose I should finish 'telling you the rest of my life story',"]
+
+"Oh gods," I muttered. "Bet you're gonna [????? go on about how great it is that everyone bossed you around. Again.]"
+
 [????? "I cannot force you to believe me. But [the strictures of the rules are what saved me; short summary of life during + after the school]"]
 
 ?????
@@ -487,22 +495,11 @@ I was trying to provoke her into arguing some more, but it didn't get through at
 
 "It is not important whether I enjoy myself. What is important is whether I stay true to my principles."
 
+"I stick to my principles too! It's just that <em>my</em> principles are 'have fun' and 'do whatever I want'."
 
-
-?????
-
-
-
-
-?????
-
-[????? Rinn assumes that Justicar would approve of anything done in the name of the Stern, and Justicar reveals that she was a police officer]
-
-"You assume, simply because a thing was done in the name of the Stern, that I would approve of it. But as I said, not all who claim to follow the Stern truly uphold its principles. Even the highest ranks of the Stern Temple are full of – have their share of hypocrites ?????
+Justicar smiled patiently. "[????? But that wasn't the main thing I was going to say]"
 
 "After I graduated from the Borson School, I was given a second chance at life – a privilege that not everyone receives. I wanted to make the most of what I had been given. I wanted to give back to society. I began training to enter the Stern police force."
-
-?????
 
 "You're a cop?! I thought you said you weren't a cop!!"
 
