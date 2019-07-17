@@ -206,7 +206,7 @@ Justicar spotted what I was doing. "I told you," she said patiently, "the Seekin
 
 <bigbreak>
 
-[????? summary language: we went through a long series of puzzles with the same general format, and we rode on elevators between them; some buttons stick down, others are temporary or toggle]
+[????? summary language: we went through a long series of puzzles with the same general format, and we rode on elevators between them; some buttons stick down, others are temporary or toggle; the map shows the whole sequence of puzzles leading to Yali; maybe some of these can be moved to the later ?????s]
 
 "Let me OUT of here!!" I screamed.
 
@@ -530,7 +530,7 @@ I snickered. "Haha, that's gotta sting. Imagine being a cop and getting arrested
 
 "Ice cold," I said, grinning.
 
-"The Stern Temple did not see things the same way. I was placed on leave before the day was out, and dismissed from the force less than two weeks later, with no opportunity to defend myself. I challenged my dismissal through what should have been an impartial process, but they shut me out in every way they could. The few people who had supported me were suddenly too preoccupied with saving their own careers to do anything to help. Even my old mentors, at the temple where I had trained, refused to speak to me. I finally cornered the High Priest of the Stern Temple himself, [????? is it "of the Stern Temple" or "of the Stern God"?] but before I could even speak, he told me he was 'not interested in routine personnel issues'. I could easily see that it was a prepared response. The entire hierarchy of the Temple was complicit."
+"The Stern Temple did not see things the same way. I was placed on leave before the day was out, and dismissed from the force less than two weeks later, with no opportunity to defend myself. I challenged my dismissal through what should have been an impartial process, but they shut me out in every way they could. The few people who had supported me were suddenly too preoccupied with saving their own careers to do anything to help. Even my old mentors, at the temple where I had trained, refused to speak to me. I finally cornered the high priest himself, but before I could even speak, he told me he was 'not interested in routine personnel issues'. I could easily see that it was a prepared response. The entire hierarchy of the Temple was complicit."
 
 "But now," she smiled grimly. "it seems that the god itself has vindicated me."
 
@@ -606,7 +606,7 @@ Justicar's voice smoothly cut through mine. She was so calm, it was like she did
 
 "That is not –"
 
-"I grew up down the street from that kid!" I shouted over her. I had only barely figured out where I was going with this, but a righteous rage was building in my chest. "[???? name]! He went to prison for stealing a [????? remove currency amount? $50] pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a $50 pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ????Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
+"I grew up down the street from that kid!" I shouted over her. I had only barely figured out where I was going with this, but a righteous rage was building in my chest. "[???? name]! He went to prison for stealing a pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a half decent pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ????Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
 
 "If he was abused in prison, that is <em>not</em> the will of the Stern! You cannot blame –"
 
@@ -620,7 +620,7 @@ Rage surged up in me. I wanted to punch the smug indifference right off her face
 
 "The law is not naive," said Justicar, oblivious to the struggle inside me. "Judges can, and do, let common thieves go without prison time, when the circumstances allow. If your friend was given twelve months, he may have been a repeat offender, or –"
 
-"Like that changes anything! If he stole a few more times! He could have stolen a $50 pair of headphones <em>every day for the enire year</em> and it still wouldn't be worth as much as what you sacrificed!"
+"Like that changes anything! If he stole a few more times! He could have another pair of headphones <em>every day for the enire year</em> and it still wouldn't be worth as much as what you sacrificed!"
 
 "And still your solution is to throw away the law and the entire justice system that we have. How very like the Blood God."
 
@@ -799,15 +799,21 @@ I stared back at her. I almost wanted to say something defensive, but if there w
 
 The exit doorway was right in front of us, leading to a tunnel into the blackness.
 
-[????? possibly end the chapter here, move the next section into chapter 11]
+[???? possibly end the chapter here, move the next section into chapter 11]
 
-?????
+<bigbreak>
 
-[????? Somewhere in here: the tunnels aren't puzzle area, they're like maintenance tunnels and/or the interior of the god's body]
+The next area wasn't like the others. On the map, the Watchful Eye – <em>Yali</em> – was in a small series of rooms, barely bigger than my house. And around that, the map was blank. The tunnel in front of us wasn't marked on it.
 
-The tunnel was so smooth and dark that it was hard to see where the walls were. ????? And it was actually perfectly cylindrical. Justicar and I ended up walking single-file, because otherwise it was too hard to balance on the curved floor.
+I stepped up into the tunnel, entering the blank area. Justicar followed me.
 
-I made the map appear in my hand. As we walked, I kept checking it obsessively, almost every other step. The Watchful Eye – <em>Yali</em> – was so close to us. The tunnel curved in an irregular, wavy pattern back and forth, as we rounded each bend, we got closer to Yali. And closer. And closer.
+The tunnel was so smooth and dark that it was hard to see where the walls were. ???? And it was actually perfectly cylindrical. Justicar and I were stuck walking single-file, because otherwise it was too hard to balance on the curved floor.
+
+"This almost seems like a maintenance tunnel," said Justicar. "Like the backstage of the puzzles. Something unfinished."
+
+"Well, if I don't have to do more puzzles, I'm not complaining."
+
+I made the map appear in my hand. As we walked, I kept checking it obsessively, almost every other step. The Watchful Eye was so close to us. The tunnel curved in an irregular, wavy pattern back and forth, as we rounded each bend, we got closer to Yali. And closer. And closer.
 
 And… the same distance? And farther away?
 
