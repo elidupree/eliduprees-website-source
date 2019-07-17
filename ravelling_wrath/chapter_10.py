@@ -125,7 +125,7 @@ Justicar considered this for a few paces before answering. "I am… not against 
 
 "You can believe what you like."
 
-I hated how she said it like that, like she was automatically right and she was just waiting for me to come around. And a horrible part of me was worried that she was right. Conflicting feelings surged up inside me. One part of me was yelling, <em>Not AGAIN! Not ANOTHER thing where I'm going to lose no matter how hard I try!</em> But then it also got swept away by the cool feeling of the loopy thing, flooding my mind with peace. It was reduced to just an echo, a subtle anxiety in the back of my mind, a worry that everything I was doing was going to be for nothing.
+I hated how she said it like that, like she was automatically right and she was just waiting for me to come around. And a horrible part of me was worried that she <em>was</em> right. Conflicting feelings surged up inside me. One part of me was yelling, <em>Not AGAIN! Not ANOTHER thing where I'm going to lose no matter how hard I try!</em> But then it also got swept away by the cool feeling of the loopy thing, flooding my mind with peace. It was reduced to just an echo, a subtle anxiety in the back of my mind, a worry that everything I was doing was going to be for nothing.
 
 I tried to make it go away. Wasn't the loopy thing supposed to make it go away? But it stayed there stubbornly.
 
@@ -276,16 +276,19 @@ Having Justicar act gentle was weirding me out. I didn't trust it. "I bet <em>yo
 
 "I am far from perfect," said Justicar severely.
 
-?????
+"Oh yeah?"
 
-"I was not so different from you once. I [????? thought the world belonged to me? Multiple examples]."
+"I was not so different from you once. At your age, I thought the world was there for my amusement. I did whatever I felt like in the moment, and I refused to believe that any adult could know better than me."
 
+I smirked. "You say that like it's a bad thing."
 
-?????
+"When you violate the law, as I did – when you harm yourself and others, as I did – it shows itself to be a bad thing."
 
-"parties with underage drinking"
+"What the fuck do you know about me, anyway?"
 
-"Sure, I've been to some of those. Only we didn't call them 'parties with underage drinking', we called them 'parties'." I manifested a glass of beer and whooped. I was mostly just messing with her. Normally, getting drunk just made me feel bad. But now… I felt plenty shitty already. I was stuck between Justicar's preaching on one side and the Blood God's grinding impatience on the other. I felt like my head was full of voices yelling at me from all sides. Maybe the alcohol would make them all just <em>shut up</em> for once. I downed my beer angrily, then followed it up with another. As I filled the glass a third time, Justicar put her hand on my wrist and stopped me.
+Justicar tapped her foot. "For one thing, I know that you are a sixteen-year-old who has handled fireworks for long enough to imprint them, when said fireworks are illegal in the city without a permit that is unavailable to anyone below the age of eighteen." Ugh, that make me feel kind of exposed, having my crimes revealed just because I'd manifested the wrong thing. Yali was right, Justicar didn't miss much. "What other forms does your recklessness take, I wonder? Attending parties with underage drinking, perhaps?"
+
+"Sure, I've been to some of those. Only we don't call them 'parties with underage drinking', we call them 'parties'." I manifested a glass of beer and whooped. I was mostly just messing with her. Normally, getting drunk just made me feel bad. But now… I felt plenty shitty already. I was stuck between Justicar's preaching on one side and the Blood God's grinding impatience on the other. I felt like my head was full of voices yelling at me from all sides. Maybe the alcohol would make them all just <em>shut up</em> for once. I downed my beer angrily, then followed it up with another. As I filled the glass a third time, Justicar put her hand on my wrist and stopped me.
 
 The beer sat uncomfortably in my belly. Stern take it, I should have thought about the fact that I was technically drinking on an empty stomach. And I couldn't stand how Justicar was looking at me. As much as I had gotten a kick out of making her think I was a heavy drinker, I was kind of regretting it now. "I, uh, I don't usually do this," I said awkwardly. "The truth is, I hardly ever actually drink. Look at me – I'm tiny. I go from zero to wasted in, like, ONE beer." The first time I had ever gotten drunk, I had tried to kiss an older girl – and <em>missed</em>, and smashed my face into the table next to her. At least, that's what I heard from the other girls who had to take care of me and drive me home, while I kept hitting on them even though I couldn't sit up straight and had a huge bruise on my face. So a couple weeks later I went back to the next party with the same crowd, and that time I stayed completely sober while I went up to the same girl and started making out with her in front of everyone. And then she had taken me up to her room, and… haha, good times.
 
@@ -467,7 +470,7 @@ I was trying to provoke her into arguing some more, but it didn't get through at
 
 "And I'm sick of you saying 'you can believe what you like'! That's just what you say when you don't want to think about what I'm saying!"
 
-"You can believe what you like."
+"You can believe what you like," she said.
 
 <bigbreak>
 
@@ -481,25 +484,23 @@ I was trying to provoke her into arguing some more, but it didn't get through at
 
 [????? Rinn makes a false assumption about Justicar's beliefs]
 
-"You assume, simply because a thing was done in the name of the Stern, that I would approve of it. But as I said, not all who claim to follow the Stern truly uphold its principles. Even the highest ranks of the Stern Temple are full of – have their share of hypocrites ?????
+"You assume, simply because a thing was done in the name of the Stern, that I would approve of it. But as I said, not all who claim to follow the Stern truly uphold its principles. Even the highest ranks of the Stern Temple are full of – have more than their share of hypocrites. ?????
 
-[????? "I suppose I should finish 'telling you the rest of my life story',"]
+"I suppose I never did finish 'telling you the rest of my life story', as you put it –"
 
 "Oh gods," I muttered. "Bet you're gonna [????? go on about how great it is that everyone bossed you around. Again.]"
 
-[????? "I cannot force you to believe me. But [the strictures of the rules are what saved me; short summary of life during + after the school]"]
-
-?????
+"I cannot force you to believe me. But it truly was the strictures of the school that saved me. Before I went there, I had no ability to control my self-destructive cravings. And now, I do have that ability. I can stop myself from using risk-taking behaviors just to feel valued."
 
 "So," I said, summing things up, "what I'm hearing is, first, your life sucked. And then you 'found the Stern'. And now, your life still sucks. When was the last time you enjoyed yourself?"
 
-"It is not important whether I enjoy myself. What is important is whether I stay true to my principles."
+"It is not important whether I enjoy myself. What is important is whether I stay true to my principles. Perhaps you don't understand how important that is, but –"
 
-"I stick to my principles too! It's just that <em>my</em> principles are 'have fun' and 'do whatever I want'."
+"Hey, I stick to my principles too! It's just that <em>my</em> principles are 'have fun' and 'do whatever I want'!"
 
-Justicar smiled patiently. "[????? But that wasn't the main thing I was going to say]"
+Justicar smiled patiently. "But I won't allow myself to be distracted again. I have a life story to tell, do I not?
 
-"After I graduated from the Borson School, I was given a second chance at life – a privilege that not everyone receives. I wanted to make the most of what I had been given. I wanted to give back to society. I began training to enter the Stern police force."
+"After I graduated from the Borson School, I was given a second chance at life – a privilege that not everyone receives. I wanted to make the most of what I had been given. For the next four years, I held down a steady job, and moved into my own apartment. It was a life I could not complain about. But knowing how I have been saved by the Stern, I wanted to give back to society. I began training to enter the Stern police force."
 
 "You're a cop?! I thought you said you weren't a cop!!"
 
@@ -507,11 +508,11 @@ Justicar smiled patiently. "[????? But that wasn't the main thing I was going to
 
 "Okay, there's gotta be quite a story behind <em>that</em> one."
 
-????? "I was a star student once again. [????? authority figures] praised my hard work and sense of duty. Hypocrites, all of them.
+????? "During my training, I was a star student once again. My superiors praised my hard work and sense of duty. Hypocrites, all of them. I simply did not yet know it. Not until I completed the program and began my real duties.
 
-proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect the will of the Stern as I did. I was asked to overlook bias and petty corruption. I was asked to show undue leniency to residents of our wealthier neighborhoods, simply because they could create trouble for us. I asked them: Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us?
+"I had thought I could be proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect the will of the Stern as I did. I was asked to overlook bias and petty corruption. I was asked to show undue leniency to residents of our wealthier neighborhoods, simply because they could create trouble for us. I asked them: Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us?
 
-But if I thought they would show a scrap of integrity, I was mistaken. I was barely tolerated. My fellow officers laughed and scorned my questions. My superiors assigned me to the most isolated and think less of patrols. But the Stern teaches that even when we are hated, we must be true to our convictions. Every duty they assigned me, I carried out to the fullness of my ability.
+"But if I thought they would show a scrap of integrity, I was mistaken. I was barely tolerated. My fellow officers laughed and scorned my questions. My new superiors assigned me to the most isolated and thankless of patrols. But the Stern teaches that even when we are hated, we must be true to our convictions. Every duty they assigned me, I carried out to the fullness of my ability.
 
 "But I was not oblivious to what happened around me. Most of what we did was lawful, but that is not enough. We cannot call ourselves a Stern Temple if we tolerate corruption within our midst. And I could not help but notice how conversations died when I entered the room. Things were being hidden from me. For a time, I ignored it to focus on my own duties. After all, we cannot control the choices of others, only our own. But when I began to notice a pattern of unexplained <em>bruises</em> appearing on our arrestees, I could ignore it no longer.
 
@@ -531,7 +532,7 @@ I snickered. "Haha, that's gotta sting. Imagine being a cop and getting arrested
 
 "But now," she smiled grimly. "it seems that the god itself has vindicated me."
 
-?????
+[????? Interruption by the puzzle?]
 
 I had an idea. I waited for Justicar to [????? do something with the puzzle]…
 
@@ -543,7 +544,7 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 "Please don't remind me."
 
-"I remember because my friend Dehel kept reposting it from a meme page. He always reposted it with just a whole bunch of thinking face emoji. [????? Haha, I think it [?????the meme page] was actually called <em>The Blood God's Dank Meme Stash –</em> man, that was so three years ago.]" I sensed that Justicar was trying not to listen. "Wait a minute, why don't you want to be reminded about this?! You were kickass!"
+"I remember because my friend Dehel kept reposting it from a meme page. He always reposted it with just a whole bunch of thinking face emoji. Haha, I love how sarcastic Dehel can be without hardly saying anything." I sensed that Justicar was trying not to listen. "Wait a minute, why don't you want to be reminded about this?! You were kickass!"
 
 "I gave in to my selfish resentment. It was not the appropriate way for me to air my grievances with the Stern Temple."
 
