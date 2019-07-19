@@ -36,7 +36,7 @@ Pretty soon, Morrow yelled out, "Check this!" I looked, and he was standing in f
 
 "What does it – Aaaaaahhhh!" I yelled as the floor moved under me. When I caught my balance, I saw what had happened. When Morrow spun the wheel, about half of the walkways also moved through the air to match.
 
-Well, now we could reach a bunch of places we couldn't reach before. And as it turned out, a bunch of those places had <em>more</em> wheels that moved around <em>different</em> walkways. It was an elaborate puzzle, where you had to spin the wheels to just the right positions to get where you wanted. In fact, pretty soon there were places we could only get to by having <em>one</em> person spin a wheel while a <em>different</em> person waited on one of the walkways that was going to move. It was a puzzle for all of us to solve together.
+Well, now we could reach a bunch of places we couldn't reach before. And as it turned out, a bunch of those places had <em>more</em> wheels that moved around <em>different</em> walkways. It was in elaborate puzzle, where you had to spin the wheels to just the right positions to get where you wanted. In fact, pretty soon there were places we could only get to by having <em>one</em> person spin a wheel while a <em>different</em> person waited on one of the walkways that was going to move. It was a puzzle for all of us to solve together.
 
 Not that the four of us knew how to work together. Justicar stood back, thinking through everything logically and telling everyone else what to do. So of course, Morrow did the opposite, running around and spinning every wheel at random, pulling Alchemist along with him. Normally, I'd have been rooting for Morrow, just to piss off Justicar. But… this time I couldn't ignore my rising frustration. We <em>could</em> have been making progress towards <em>Yali</em>, and he was just running around messing it all up! And I also kept having surges of that confident feeling, which meant I was having Blood God thoughts and the loopy thing was shutting them down. It was a relief not to have them, but it actually felt pretty weird. It was kind of disrupting my train of thought.
 
@@ -479,11 +479,43 @@ I was trying to provoke her into arguing some more, but it didn't get through at
 
 <bigbreak>
 
-????? Another puzzle
+Now that I was sober again, it <em>should</em> have been easy for me to help with the puzzles again. But of course, the Seeking God went and threw something in the way of that.
 
-[???? cut: Even now that I was sober, she was still way better at solving the puzzles than I was. I wasn't <em>bad</em> at it, but Justicar could just look at something and instantly be like, <em>logically, this is what we have to do</em>. It kind of felt like there was no point in me trying to follow along. I mostly just ended up going along with what she said.]
+In the next puzzle, all of the walls and levers and flamethrowers and stuff were just scattered all over the space, mounted on rails so you could push them wherever you wanted, not forming a puzzle at all. You could get straight to the exit elevator, but it wouldn't open. The only puzzle-like part was a little opaque wall hiding an alcove, which only Justicar could get inside. And when Justicar looked in the alcove, she found some sort of diagram, which was really complicated, but apparently hid the key to figuring out what to do. There was probably some secret way to arrange all the pieces to make the exit open, which you could only figure out from the diagram. So… only Justicar could solve the puzzle?
 
-[???? and instead: the god shows secret info to Justicar while Rinn can only mess around; bunch of details]
+"This is no fair!" I said. "I thought the Seeking God wanted us both to be solving puzzles! It should have given the secret key to <em>me</em>, because you're the one who's better at the logic part! Then we'd be even!"
+
+"It <em>does</em> seem unfair…" said Justicar thoughtfully. "The Seeking God must have some purpose, but I do not see it. Now, you <em>can</em> still participate if…" She tried to manifest a copy of the diagram, but the puzzle didn't allow it. After that failed, she tried to work with me by explaining some of the information on the diagram. I tried to follow along, but it was hopeless. Justicar was describing a whole bunch of shapes and lines and colors and directions, and every time I thought I knew what it looked like, she said I have gotten is all wrong.
+
+"Look, how about you just figure out whether things should go, and tell me where to put them?" I said.
+
+"The Seeking can't possibly intend for you only to be the manual labor…" Justicar looked back at the diagram I couldn't see, deep in thought.
+
+While she was doing that, I just had the whole jumbled room to myself. So I started pushing the things around, just to give myself something to do. First I sorted all of them into categories. It was funny, I could push around the trapdoors just like everything else, and there was a hole in the floor wherever the trapdoor was, even though that didn't physically make sense.
+
+I kind of wanted to build something with the pieces, but you couldn't really stack them on top of each other, you could only put one thing in each square of the grid. So the only thing you could build with them was mazes or puzzles.
+
+Justicar was still thinking. Idly, I put a bunch of trapdoors in a row to see how many I could jump over. It turned out that I could jump over <em>exactly</em> four squares of trapdoors. When I tried five, I fell into the fifth one, and not only that, but I fell straight down and didn't have a chance to grab for the ledge. My movement was definitely being controlled by the puzzle, like Justicar had said.
+
+And then I was back at the start of the puzzle. Now that I thought of it, none of <em>these</em> puzzles had used the trick where you fell in a hole on purpose. I started wondering how you'd set things up to make that be the solution. Before long, I was sliding the walls and trapdoors around, putting together a simple puzzle based on that concept.
+
+And hour later, I kicked the last wall into place and double checked to make sure my puzzle was just how I wanted.
+
+"Hey Justicar! Justicar!"
+
+"What is it?"
+
+"Check it out, I made my <em>own</em> puzzle!"
+
+Justicar stepped out from the alcove and swept her eyes over what I'd built.
+
+"See if you can solve it!"
+
+"This isn't really what we –" she began. Then she looked over it in more detail. "Well, you <em>did</em> work hard on this. I suppose I can indulge you."
+
+????? 
+
+
 
 ?????
 
@@ -503,9 +535,9 @@ I was trying to provoke her into arguing some more, but it didn't get through at
 
 "Hey, I stick to my principles too! It's just that <em>my</em> principles are 'have fun' and 'do whatever I want'!"
 
-Justicar smiled patiently. "But I won't allow myself to be distracted again. I have a life story to tell, do I not?
+Justicar smiled patiently. "– But I won't allow myself to be distracted again. I have a life story to tell, do I not?
 
-"After I graduated from the Borson School, I was given a second chance at life – a privilege that not everyone receives. I wanted to make the most of what I had been given. For the next four years, I held down a steady job, and moved into my own apartment. It was a life I could not complain about. But knowing how I have been saved by the Stern, I wanted to give back to society. I began training to enter the Stern police force."
+"After I graduated from the Borson School, I was given a second chance at life – a privilege that not everyone receives. I wanted to make the most of what I had been given. For the next four years, I held down a steady job, and moved into my own apartment. It was a life I could not complain about. But knowing how I had been saved by the Stern, I wanted to give back to society. I began training to enter the Stern police force."
 
 "You're a cop?! I thought you said you weren't a cop!!"
 
@@ -513,7 +545,9 @@ Justicar smiled patiently. "But I won't allow myself to be distracted again. I h
 
 "Okay, there's gotta be quite a story behind <em>that</em> one."
 
-????? "During my training, I was a star student once again. My superiors praised my hard work and sense of duty. Hypocrites, all of them. I simply did not yet know it. Not until I completed the program and began my real duties.
+"There is.
+
+"During my training, I was a star student once again. My superiors praised my hard work and sense of duty. Hypocrites, all of them. I simply did not yet know it. Not until I completed the program and began my real duties.
 
 "I had thought I could be proud to serve in an organization dedicated to upholding the will of the Stern. How foolish I was, assuming that the humans who worked for the Stern Temple would respect the will of the Stern as I did. I was asked to overlook bias and petty corruption. I was asked to show undue leniency to residents of our wealthier neighborhoods, simply because they could create trouble for us. I asked them: Did we not follow the Stern? Did we not have a duty to enforce the law impartially, regardless of any risk it might bring upon us?
 
