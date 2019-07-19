@@ -320,6 +320,8 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 [????? "You can't help [someone who's hurting people, Morrow] unless you have power over them – maybe Rinn adds this, because it's more Blood]
 
+[????? Somewhere: none of the gods is entirely good or entirely bad. They're also not a completed idea, so you have to take the parts you like and make something better]
+
 ''',
 },
 ]
