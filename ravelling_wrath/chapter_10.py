@@ -183,7 +183,7 @@ I took off running and jumped clean over the hole. I grabbed the lever and gave 
 
 "I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if only to illustrate." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to exist if it functions no differently than an empty floor. So that is the second rule of the puzzle: only the Blood Child can cross pits."
 
-[????? Description of a basic puzzle using these rules, unexpected transition to:]
+The puzzle went on, giving us a series of challenges using these rules. We kept having to figure out who needed to go to what position to pull what lever. In one place, Justicar had to walk me past a series of flamethrowers, but she had to keep going the long way around because the short way was full of pits. In another place, it was me who had to keep pulling levers that opened and closed different trapdoors in the floor. And then there was a place that was actually a trick, a maze where it looked like we had to both go in and work together, but actually we had to set up so that there was a a route Justicar could go through by herself, while I stayed at the beginning and waited. And waited. Justicar was taking a long time, I wanted to be done, the walls were closing in on me –
 
 "Let me OUT of here!!" I screamed.
 
@@ -191,10 +191,9 @@ I was TRAPPED between these glass walls. I had to get OUT. With a Blood Blade in
 
 "Is something wrong?" came Justicar's voice.
 
-No, I was fine. "Nah," I said, cool confidence surging through me. "I'll have this figured out in no time." I turned back to the puzzle I was working on…
+No, I was fine. "Nah," I said, cool confidence surging through me. "I'm sure you'll have this solved in no time."
 
-
-[????? While I was waiting for Justicar to finish her side, I] idly manifested a brick wall to block the fire in front of me. I knew it wasn't going to <em>work</em>, I was just curious to see what would happen. Sure enough, the flames shot right through it. It didn't even burn – it just didn't block the flames at all.
+While I was waiting for Justicar to get back, I idly manifested a brick wall to block the fire in front of me. I knew it wasn't going to <em>work</em>, I was just curious to see what would happen. Sure enough, the flames shot right through it. The wall didn't even burn – it just didn't block the flames at all.
 
 Justicar spotted what I was doing. "I told you," she said patiently, "the Seeking God has set its rules for these puzzles. There will not be a clever trick to bypass them."
 
@@ -206,11 +205,17 @@ Justicar spotted what I was doing. "I told you," she said patiently, "the Seekin
 
 <bigbreak>
 
-[????? summary language: we went through a long series of puzzles with the same general format, and we rode on elevators between them; some buttons stick down, others are temporary or toggle; the map shows the whole sequence of puzzles leading to Yali; maybe some of these can be moved to the later ?????s]
+At the end of that puzzle room, there was an elevator. At the end of the elevator, there was another puzzle room. I checked the map, and there was a whole series of puzzles with about the same layout. And there was good news for me: The end of the chain of puzzles was pretty much where Yali was.
+
+So I threw myself into puzzle-solving. As we went, the puzzles got a bunch more sophisticated. As well as the levers, we also started seeing big buttons on the floor that we could stand on. Some of them stuck down, so you just had to step on them once and then they wouldn't go back. Other buttons only stayed down as long as you were standing on them. Like, there'd be one button that closed a trapdoor, so I had to stand on the button while Justicar went across. We made up a little routine where whenever we got to a button, we would stand on it and then step off, to check what kind it was.
+
+At the end of each room, when we got into the elevator to the next room, I actually felt kind of proud of figuring everything out. Except that the only person here to celebrate with was Justicar, and she didn't seem to like celebrating, and she always acted like she was smarter than me. I wasn't <em>bad</em> at solving this kind of puzzles, but it always felt like she figured things out about half a second before I did, and then she be like, <em>logically, this is what we have to do</em>, and then I couldn't get any credit. Ugh.
+
+Right now we were at the start of another puzzle, and we'd split up so we could both look around without getting in each other's way. At least it gave me time to just be pissed off about things without Justicar looking over my shoulder all the time. Time to think about… that thing I hadn't been remembering to think about… what was it? It must have been –
 
 "Let me OUT of here!!" I screamed.
 
-"That's the same thing you said earlier, are you –"
+Justicar's voice echoed oddly around the glass walls from the other side of the room. "That's the same thing you said earlier today, are you –"
 
 "I'm TRAPPED in here, can't you see it?!"
 
@@ -284,9 +289,9 @@ I smirked. "You say that like it's a bad thing."
 
 "When you violate the law, as I did – when you harm yourself and others, as I did – it shows itself to be a bad thing."
 
-"What the fuck do you know about me, anyway?"
+"And you think I'm like that? What the fuck do you know about me, anyway?"
 
-Justicar tapped her foot. "For one thing, I know that you are a sixteen-year-old who has handled fireworks for long enough to imprint them, when said fireworks are illegal in the city without a permit that is unavailable to anyone below the age of eighteen." Ugh, that make me feel kind of exposed, having my crimes revealed just because I'd manifested the wrong thing. Yali was right, Justicar didn't miss much. "What other forms does your recklessness take, I wonder? Attending parties with underage drinking, perhaps?"
+Justicar tapped her foot. "For one thing, I know that you are a sixteen-year-old who has never been outside the city, but has handled fireworks for long enough to imprint them, when said fireworks are illegal in the city without a permit that is unavailable to anyone below the age of eighteen." Ugh, that made me feel kind of exposed, having my crimes revealed just because I'd manifested the wrong thing. Yali was right, Justicar didn't miss much. "What other forms does your recklessness take, I wonder? Attending parties with underage drinking, perhaps?"
 
 "Sure, I've been to some of those. Only we don't call them 'parties with underage drinking', we call them 'parties'." I manifested a glass of beer and whooped. I was mostly just messing with her. Normally, getting drunk just made me feel bad. But now… I felt plenty shitty already. I was stuck between Justicar's preaching on one side and the Blood God's grinding impatience on the other. I felt like my head was full of voices yelling at me from all sides. Maybe the alcohol would make them all just <em>shut up</em> for once. I downed my beer angrily, then followed it up with another. As I filled the glass a third time, Justicar put her hand on my wrist and stopped me.
 
@@ -314,7 +319,7 @@ Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I 
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
-Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had caused it to happen. I had been a star student, working hard and earning top marks, but I took it for granted. I always wanted more. To fill that void, I reached out in every direction except the one that would truly restore me. I reached for every kind of drug I could get my hands on, I had sex with many different men –"
+Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had caused it to happen. I had been a star student, working hard and earning top marks, but I took it for granted. I always wanted more. To fill that void, I reached out in every direction except the one that would truly restore me. I experimented with every kind of drug I could get my hands on, I had sex with many different men –"
 
 Well <em>that</em> I knew how to respond to. "Haha, that's where you went wrong. Shoulda had sex with girls instead."
 
