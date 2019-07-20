@@ -19,8 +19,6 @@ posts = [
   "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
 
 [????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right".]
-
-[????? Somewhere in this chapter: Justicar saying that her understanding of "the laws by which each god/world functions" gives her an advantage]
   
 It wasn't hard to get the others to follow along with me. Morrow was always going to follow wherever Alchemist went. Justicar was always going to follow the rest of us to "protect" us. And Alchemist… I wasn't really sure, but they moved to follow along as soon as I said where I was going. Maybe they wanted us all to get back together with Yali again, just like I did.
 
@@ -515,7 +513,7 @@ Justicar stepped out from the alcove and swept her eyes over what I'd built.
 
 ????? 
 
-
+[????? When Justicar finishes the puzzle, the elevator opens. What was the diagram for? To distract Justicar. They argue as they board the elevator]
 
 ?????
 
@@ -571,7 +569,7 @@ I snickered. "Haha, that's gotta sting. Imagine being a cop and getting arrested
 
 "But now," she smiled grimly. "it seems that the god itself has vindicated me."
 
-[????? Interruption by the puzzle?]
+[????? the elevator arrives; bit of Rinn thoughts about the story]
 
 I had an idea. I waited for Justicar to [????? do something with the puzzle]…
 
@@ -597,7 +595,7 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 ?????
 <bigbreak>
 
-We were in the elevator again [????? set this up], taking a brief rest as we [????? got close to the end of a long chain of puzzles. - it was going to be the last in the chain] How many days had we been at this now?
+We were in the elevator again, taking a brief rest as we [????? got close to the end of a long chain of puzzles. They had been getting bigger and more elaborate, taking us longer and longer - this one was going to be the last in the chain] How many days had we been at this now?
 
 Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>! Sure, it was pretty badass that she had tried to take down another cop, but the way she <em>talked</em> about it was just <em>infuriating</em>.
 
@@ -683,7 +681,7 @@ Rage surged up in me. I wanted to punch the smug indifference right off her face
 
 "Fuck you too."
 
-We were interrupted by the elevator coming to a stop.
+Once again, we were interrupted by the elevator coming to a stop.
 
 <bigbreak>
 
