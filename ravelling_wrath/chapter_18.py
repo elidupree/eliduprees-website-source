@@ -50,7 +50,7 @@ Yali set her feet against the flagstones, solemnly facing towards the sun. She s
 
 We moved.
 
-My muscles warmed from our steady walking. We flowed up the street, like two drops of blood flowing up a vein, returning to the heart. We passed shattered towers still reaching towards the sky, twisted monuments of blackened steel, sculptures like raised fists towering high above. The sheer scale of everything was enormous. Even where a one of the great stone fingers had broken from a sculpture and fallen to the ground, it was taller than we were.
+My muscles warmed from our steady walking. We flowed up the street, like two drops of blood flowing up a vein, returning to the heart. We passed shattered towers still reaching towards the sky, twisted monuments of blackened steel, sculptures like raised fists towering high above. The sheer scale of everything was enormous. Even where one of the great stone fingers had broken from a sculpture and fallen to the ground, it was taller than we were.
 
 And all throughout the city, densely braided cables of steel snaked about, some as narrow as a finger, some thicker than I was tall. Some half buried in the ground, some crawling up the buildings like vines. An endless network tying the city together, they nestled the buildings and spires, as if they had all grown together as a single being.
 
@@ -142,7 +142,7 @@ With a last leap, the streak of light landed in the street before us, her steel 
 
 Yali stood in her way.
 
-If it wasn't so obvious you she was, I would barely have recognized her. A gleaming helmet fully concealed her face. Every part of her armor blazed with light, burning at my eyes, burning at my very soul. Her sword, already drawn, pointed towards us with utmost poise. With every tiny movement of the blade, I could feel it scraping on the walls of the world.
+If it wasn't so obvious who she was, I would barely have recognized her. A gleaming helmet fully concealed her face. Every part of her armor blazed with light, burning at my eyes, burning at my very soul. Her sword, already drawn, pointed towards us with utmost poise. With every tiny movement of the blade, I could feel it scraping on the walls of the world.
 
 An iron-hard voice reverberated from inside the helm. "Farseer. You have a choice to make. My quarrel is not with you. You may stand aside, and the Stern will show you mercy. Or you may throw your lot in with Blood, and face the consequences."
 
@@ -222,7 +222,7 @@ In this moment, she raised her right arm towards the sky.
 
 A thousand lances of light struck from the heavens, piercing through the arm Justicar had offered. A scream echoed from inside her helmet, tight and strained, the scream of someone doing everything she can to hold back. As I watched, the arm cracked and melted away. In its place, only the light remained, a new arm of raw power.
 
-Justicar did not pause to flex her new arm before she struck. She was instantly in motion, moving impossibly fast. All my instincts screamed out for danger. The arm was so bright it felt more real than the world around us. It was a violation, and act of contempt for the Blood God's reality. Instinctively, I knew that this was a terrible power, something that could threaten even Yali. I had to move, I had to be ready to protect her. I heaved myself over and tried to push myself up to my feet. I balanced unsteadily on my good leg, then sat down the foot of my other leg, the one I had reinforced with blood. It was weak at first, but I tightened the blood into place, fueling its power with my soulfire until it was strong, a powerful limb ready to use its full strength to fight for my love.
+Justicar did not pause to flex her new arm before she struck. She was instantly in motion, moving impossibly fast. All my instincts screamed out for danger. The arm was so bright it felt more real than the world around us. It was a violation, and act of contempt for the Blood God's reality. Instinctively, I knew that this was a terrible power, something that could threaten even Yali. I had to move, I had to be ready to protect her. I heaved myself over and tried to push myself up to my feet. I balanced unsteadily on my good leg, then set down the foot of my other leg, the one I had reinforced with blood. It was weak at first, but I tightened the blood into place, fueling its power with my soulfire until it was strong, a powerful limb ready to use its full strength to fight for my love.
 
 I looked up. The scene in front of me was a chaos of magic and light. Instant after instant, the arm of light shot out towards Yali, but collided with the invisible barrier around her, the barrier that would set the world itself against any attacks. With every blow, the hand ground into the barrier, making the air flicker and flash. The ground shook from the force. Bricks crumbled from nearby towers. I saw Yali's defenses crack and reform, struggling to retain their strength. For an instant, I saw Yali's face twisted into a mask of fear and rage. And then it was gone and she was calm again, steadily resisting Justicar's blows. But then I saw it again, just a flicker, not like a regular change of emotion, but like…
 
@@ -246,7 +246,7 @@ Then the air flashed and glowed. A choking sound came from inside Justicar's arm
 
 Justicar's body jerked upright, as if propped up by steel bars. More bars of light smashed through the air, snapping into a vast web, locking me in one place.
 
-"<em>IS – THAT – ALL?!!</em>" Justicar's voice thundered in my ears.
+"<em>THIS – IS – NOTHING!!</em>" Justicar's voice thundered in my ears.
 
 I was frozen in place. I couldn't even move my hand to pull my blade out of her heart. "How?!" I gasped.
 
