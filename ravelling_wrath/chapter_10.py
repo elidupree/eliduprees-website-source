@@ -515,15 +515,35 @@ Justicar stepped out from the alcove and swept her eyes over what I'd built.
 
 [????? When Justicar finishes the puzzle, the elevator opens. What was the diagram for? To distract Justicar. They argue as they board the elevator]
 
-?????
+"But what was the purpose of the diagram?"
 
-[????? Rinn makes a false assumption about Justicar's beliefs]
+"I don't know, I mean, it didn't seem to do anyth– wait, if the diagram hadn't been there, we'd have still been working together and I would never have gotten bored enough to make a puzzle! It was there to distract you!"
 
-"You assume, simply because a thing was done in the name of the Stern, that I would approve of it. But as I said, not all who claim to follow the Stern truly uphold its principles. Even the highest ranks of the Stern Temple are full of – have more than their share of hypocrites. ?????
+"Aren't you jumping to conclusions?"
+
+"Like <em>you</em> don't jump to conclusions," I snapped.
+
+"I endeavor to give any perspective a fair hearing –"
+
+"You're saying that to <em>me</em>?! 'Hey Yali, are you <em>suuuuuure</em> you want to stand next to your girlfriend? Don't you know she's <em>daaaangerous?</em>' You've got no right to –"
+
+"Have I not considered the alternative? Have I not gone <em>out of my way</em> to give you the opportunity to prove yourself innocent?"
+
+"Yeah, guilty until proven innocent, got it –"
+
+"– that's not what I meant –"
+
+"– you're just like every other Stern asshole out of the Stern Temple who thinks they –"
+
+"Don't compare me to the Stern Temple!" Justicar shouted.
+
+Justicar's words seemed to echo around the elevator we were standing in. She pulled back, realizing she had raised her voice more than she had managed to. It took me a moment to realize what it implied.
+
+"Wait a minute," I said, "what's <em>your</em> problem with the Stern Temple?"
 
 "I suppose I never did finish 'telling you the rest of my life story', as you put it –"
 
-"Oh gods," I muttered. "Bet you're gonna [????? go on about how great it is that everyone bossed you around. Again.]"
+"Oh gods," I muttered. "Bet you're gonna go on about how great it is that everyone bossed you around. Again."
 
 "I cannot force you to believe me. But it truly was the strictures of the school that saved me. Before I went there, I had no ability to control my self-destructive cravings. And now, I do have that ability. I can stop myself from using risk-taking behaviors just to feel valued."
 
@@ -533,7 +553,9 @@ Justicar stepped out from the alcove and swept her eyes over what I'd built.
 
 "Hey, I stick to my principles too! It's just that <em>my</em> principles are 'have fun' and 'do whatever I want'!"
 
-Justicar smiled patiently. "– But I won't allow myself to be distracted again. I have a life story to tell, do I not?
+Justicar smiled patiently. "– But I won't allow myself to be sidetracked again. I have a life story to tell, do I not?
+
+"As I said, not all who claim to follow the Stern truly uphold its principles. And the Stern Temple are no exception. Even the highest ranks of the Stern Temple are full of – have more than their share of hypocrites.
 
 "After I graduated from the Borson School, I was given a second chance at life – a privilege that not everyone receives. I wanted to make the most of what I had been given. For the next four years, I held down a steady job, and moved into my own apartment. It was a life I could not complain about. But knowing how I had been saved by the Stern, I wanted to give back to society. I began training to enter the Stern police force."
 
@@ -569,9 +591,11 @@ I snickered. "Haha, that's gotta sting. Imagine being a cop and getting arrested
 
 "But now," she smiled grimly. "it seems that the god itself has vindicated me."
 
-[????? the elevator arrives; bit of Rinn thoughts about the story]
+As if on cue, the elevator came to a stop.
 
-I had an idea. I waited for Justicar to [????? do something with the puzzle]…
+Justicar was content to stop the story there and start looking at the next puzzle. That was convenient for me, because I wasn't really sure what to say about it. Justicar was… badass… but something really rubbed me the wrong way about the whole story. But if I just said whatever came into my head, it would make Justicar look smart and me look stupid. Ugh, what was I supposed to think? I'd always known that the Stern Temple were assholes, but…
+
+That made me think of something. I waited for a moment when Justicar was facing away from me, looking at part of the puzzle…
 
 "Hey, Havi!"
 
@@ -591,7 +615,7 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 "Uggggghhhhhhh."
 
-[????? Finishing up the puzzle]
+[????? we mutually just did the puzzle instead, and it was not weird, just bigger and more elaborate]
 ?????
 <bigbreak>
 
@@ -729,7 +753,7 @@ There wasn't much to stare at, either.
 
 "In that case, it is irrelevant to the puzzle. It may be intended as a distraction."
 
-"It's out of place, though. There haven't been distractions like this before… It's gotta mean something!"
+"It's out of place, though. It's too obvious to just be a regular distraction… It's gotta mean something!"
 
 I walked up close to the spurting flames. I tried to look at them from every angle, hoping I'd notice something new. But it didn't look different than any of the others. Unless there was something different about the nozzle itself – it was kind of hard to see from where I was standing. To get to it, I'd have to walk through the flames, and this one was always on – none of the buttons turned it off. So…
 
