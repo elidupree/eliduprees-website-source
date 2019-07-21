@@ -511,13 +511,33 @@ Justicar stepped out from the alcove and swept her eyes over what I'd built.
 
 "This isn't really what we –" she began. Then she looked over it in more detail. "Well, you <em>did</em> work hard on this. I suppose I can indulge you."
 
-????? 
+<bigbreak>
 
-[????? When Justicar finishes the puzzle, the elevator opens. What was the diagram for? To distract Justicar. They argue as they board the elevator]
+Justicar frowned. "The Justicar clearly needs to pull that lever in order to let the Blood Child reach the exit. But pulling the lever would open the pit and leave the Justicar trapped –" I smirked, but fortunately Justicar was looking at the puzzle and didn't notice "– unless the other wall is open at that time, which seems impossible. So either I have missed something, or you made a mistake and the puzzle is truly impossible –"
 
-"But what was the purpose of the diagram?"
+"I didn't make a mistake!" I laughed. "You're missing something."
+
+Justicar kept studying it for a few more minutes. But then she got it. She had us both go through the motions of solving my puzzle to make sure it worked. When we met up at the end of the puzzle, she said, "That was actually clever. Perhaps you have a career in designing puzzles ahead of —"
+
+The real exit elevator slid open.
+
+"How did you make that part happen?" said Justicar.
+
+"What? I didn't do anything! I'm as surprised as you are!"
+
+"Regardless, we should probably –" Justicar and I headed for the elevator, just in case it was temporary or a trick or something. Fortunately, we got in and it worked normally.
+
+As the elevator started moving, Justicar turned to me. "So the purpose of that room was for us to design and solve our own puzzle?"
+
+"I guess so!"
+
+"It <em>does</em> fit the Seeking…" she said. "However, there is one thing that seems out of place. What was the purpose of the diagram?"
 
 "I don't know, I mean, it didn't seem to do anyth– wait, if the diagram hadn't been there, we'd have still been working together and I would never have gotten bored enough to make a puzzle! It was there to distract you!"
+
+"That seems… <em>possible</em>, but not consistent with the other puzzles –"
+
+"No, it was totally a distraction, I'm sure of it!"
 
 "Aren't you jumping to conclusions?"
 
@@ -615,13 +635,15 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 "Uggggghhhhhhh."
 
-[????? we mutually just did the puzzle instead, and it was not weird, just bigger and more elaborate]
-?????
+The conversation sort of died down, and we focused on the puzzle instead.
+
+This next puzzle didn't have any weird twists like the last one – just more regular twists. The puzzles were getting bigger and more elaborate, combining a lot of the different rules and strategies we'd seen in the earlier puzzles. Each one took longer than the last one, with more thinking, and they were proportionally more satisfying to solve. It felt like they were building up to something – and they were. On the map, we were getting closer and closer to Yali.
+
 <bigbreak>
 
-We were in the elevator again, taking a brief rest as we [????? got close to the end of a long chain of puzzles. They had been getting bigger and more elaborate, taking us longer and longer - this one was going to be the last in the chain] How many days had we been at this now?
+We were in the elevator again, taking a brief rest as we approached the final puzzle in the chain. How many days had we been at this now?
 
-Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>! Sure, it was pretty badass that she had tried to take down another cop, but the way she <em>talked</em> about it was just <em>infuriating</em>.
+The elevator felt like it was taking ages. Justicar was sitting straight-backed as usual, staring straight ahead, while I slouched against the wall of the elevator. I was seriously sick of being stuck with her. She never just talked about shit like my real friends did. I felt isolated, craving any sort of connection. But all I had was her. And the more I learned about her, the less I liked. She had been a <em>cop</em>! An actual <em>cop</em>! Sure, it was pretty badass that she had tried to take down another cop, but the way she <em>talked</em> about it was just <em>infuriating</em>.
 
 And even though I had a copy of my phone again, I was long since bored of all the games I had on it, and a bunch of them didn't even work without a signal. Messing with Justicar was the only entertainment I still had.
 
@@ -639,7 +661,7 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "Or maybe I just don't care about order as much as I care about people's lives! I don't care what kind of excuses you have! If you're the one who did something, it's your fault!"
 
-"Very well." Justicar opened her arms. "If you want to hold me individually responsible for every violent act ever performed under the authority of the Stern Temple, perhaps <em>I</em> should hold <em>you</em> responsible for the damage caused by <em>your</em> ideology."
+"Very well." Justicar opened her arms. "If you want to hold me individually responsible for every violent act ever performed under the authority of the Stern Temple, perhaps <em>I</em> should hold <em>you</em> responsible for the damage inherent in <em>your</em> ideology."
 
 "And what's that?"
 
@@ -655,7 +677,7 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "And what's so great about the Stern God? Doesn't it get part of its soul from human Ravellers? So it could be corrupted by humans just as –"
 
-"You flaunt your disinterest in the Stern, and yet you assume you can understand how it operates? The Stern God does not simply absorb the soul of any passing stranger. The corrupt are not chosen to be Justicars, and the Justicars undergo many stages of filtering and purification before the Stern God absorbs a single thread. The god and its temple have seen their procedures proven by the test of millennia. You think you know better than they? What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order, but that is a contradiction, because order is the way that people's lives are preserved. Even at the most basic level, if laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Who will import something as vital as food?"
+"You flaunt your disinterest in the Stern, and yet you assume you can understand how it operates? The Stern God does not simply absorb the soul of any passing stranger. The corrupt are not chosen to be Justicars, and the Justicars undergo many stages of filtering and purification before the Stern God absorbs a single thread. The god and its temple have seen their procedures proven by the test of millennia. You think you know better than they? What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order, but that is a contradiction, because order is the way that people's lives are preserved. Even at the most basic level, if laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Who will even import something as vital as food?"
 
 "Get your story straight! If you're putting me in <em>charge</em>, I can just <em>tell</em> someone to import food! So don't act like you –"
 
@@ -679,7 +701,7 @@ Rage surged up in me. I wanted to punch the smug indifference right off her face
 
 "The law is not naive," said Justicar, oblivious to the struggle inside me. "Judges can, and do, let common thieves go without prison time, when the circumstances allow. If your friend was given twelve months, he may have been a repeat offender, or –"
 
-"Like that changes anything! If he stole a few more times! He could have another pair of headphones <em>every day for the enire year</em> and it still wouldn't be worth as much as what you sacrificed!"
+"Like that changes anything! If he stole a few more times! He could have stolen another pair of headphones <em>every day for the enire year</em> and it still wouldn't be worth as much as what you sacrificed!"
 
 "And still your solution is to throw away the law and the entire justice system that we have. How very like the Blood God."
 
