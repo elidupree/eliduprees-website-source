@@ -17,8 +17,7 @@ posts = [
   ''',
   "head":head,
   "contents": chapter_start ("Chapter 16: Soulfire", '''<p></p>''') +'''
-  [????? somewhere in this chapter: when you pray to the Blood God, you don't look to the sky or a distant temple, you look to your own heart]
-?????
+
 
 I watched Alchemist walk away, waiting until they were fully out of sight. No matter how serious things where, I really didn't want to scare Alchemist more than I already had.
 
@@ -188,17 +187,33 @@ After a while, Yali looked up from her notes. "So," she said, summing things up,
 
 Yali grinned viciously. "This is great! This means that one of me died in the <em>same</em> year as they intentionally killed the Blood Child! Now I should be able to look in my memories and find out what I was thinking!"
 
-Yali
+Yali put her head down and concentrated, hunting in the memories. Pretty soon, she began to frown, and as time passed, her frown got deeper and deeper. Finally, her voice broke the silence.
 
-[????? Yali hunted in the memories for a while. She frowned more and more]
+"It's not there," she said.
 
-Yali's voice broke the silence, [????? grim/horrified]. "It's not there," she said.
+<bigbreak>
 
-"What?"
+My brain was <em>exhausted</em>
+
+We were sitting in the middle of a huge mess of papers, copies of Yali's phone, and history books. Yali had laid down a hardwood floor over the whole clearing we were in, and everything else was strewn on top of it.
+
+And most importantly, it was arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year.
+
+"It's a good thing your monastery had so many old books," I said.
+
+"Honestly, I'm surprised at how many books <em>you've</em> been able to manifest. What with not caring about history and all."
+
+"What can I say, I love putting my hands all over stuff."
+
+Yali shuffled some things around. "More importantly, it's a good thing I already knew how common false memories are. Otherwise I'd be really confused by these inconsistencies. It looks like the only thing we can really rely on is the fact that you can't remember something that happened after you died. But that's… enough," she said, frowning.
+
+After what seemed like forever, we were done. We had mapped out the lives of all the Farseers from Yali's memories. All <em>sixty-eight</em> of them.
+
+[????? "What?"
 
 "The year you're talking about. The ?????first year the Blood Child killed the Farseer. I don't remember anything from it. I have the year after, and two years after that. [????? I've analyzed it based on memories of what year it was, and political/news events.] I know what year every one of my memories is, now. And the ?????first and ?????third years are missing."
 
-"That's…"
+"That's…"]
 
 "I should have checked!" yelled Yali. "I had these memories as soon as I knew I was the Farseer! Seventy years of dead Farseers, seventy sets of memories… <em>but there were never seventy sets of memories in me!</em> If only I had checked that there were actually seventy separate individuals in there!"
 
