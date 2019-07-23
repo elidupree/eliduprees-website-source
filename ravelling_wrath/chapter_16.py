@@ -60,7 +60,7 @@ I gripped her shoulders. "Then it's NOT going to happen! Didn't you always say t
 
 "Look, it's not your fault, there's no way you could have known she was going to AFTER EVERYTHING WE'VE BEEN THROUGH, YOU SOLD ME OUT TO THE STERN <strong>AGAIN?!?!!</strong>"
 
-For a moment, I was stunned. [????? Fix initial ambiguity:] A whole second voice had ripped out of me. And a new feeling thundered inside me, saying that this was the <em>truth</em> roaring up through my lungs, that I was done with trying to sugarcoat what was glaring in all our faces. And in the next instant, I was gripped by the cold certainty that those thoughts had not been mine. I pushed myself away from Yali in terror. "No no no, not now, I can't let the Blood God take over –"
+For a moment, I was stunned. A whole different voice had ripped out of me. And a new feeling thundered inside me, saying that this was the <em>truth</em> roaring up through my lungs, that I was done with trying to sugarcoat what was glaring in all our faces. And in the next instant, I was gripped by the cold certainty that those thoughts had not been mine. I pushed myself away from Yali in terror. "No no no, not now, I can't let the Blood God take over –"
 
 Yali's eyes were wide. "When… when did I sell you out to the Stern the <em>first</em> time?"
 
@@ -170,9 +170,25 @@ Eventually, with effort, we managed to get some information out of it. A lot of 
 
 And there was a number. Four. The number of years when the Blood God had ?????
 
-"[????? I gave you chances!]" I roared. I was the Blood God again. This time I knew the "you" wasn't really Yali, but it still felt like the thing to say. [????? Include a time the Farseer died in the same year as killing the blood child intentionally in this:] "You killed me, and I still gave you another chance! Because you were my – my <em>family</em>! The first time, I thought it wasn't your fault! The second time, I thought it could have been a mistake! When you killed me the third time, I knew something was wrong! I was in pain, I was afraid, but I still stayed my hand! I didn't want to throw away the trust I thought we had together! And for my trust, I saw the life choked out of me! The fourth time… I still did not fight back, because…" My voice broke. "I didn't know what to do. You were… strong, you were my…" Hot tears poured down my face. My thoughts cracked. Another memory had awoken, Rinn's memory of this year's Justicar standing over her. The helplessness… the inevitability of my death… I clung to Yali's shoulder. "Yali… help me… I'm scared…"
+"I gave you four chances!" I roared. I was the Blood God again. This time I knew the "you" wasn't really Yali, but it still felt like the thing to say. "You killed me, and I still gave you another chance! Because you were my – my <em>family</em>! The first time, I thought it wasn't your fault! The second time, I thought it could have been a mistake! When you killed me the third time, I knew something was wrong! I was in pain, I was afraid, but I still stayed my hand! I didn't want to throw away the trust I thought we had together! And for my trust, I saw the life choked out of me! The fourth time… I still did not fight back, because…" My voice broke. "I didn't know what to do. You were… strong, you were my…" Hot tears poured down my face. My thoughts cracked. Another memory had awoken, Rinn's memory of this year's Justicar standing over her. The helplessness… the inevitability of my death… I clung to Yali's shoulder. "Yali… help me… I'm scared…"
 
-Yali held me, but she was distant. "[You said ?????. That means I died that year. I should have the memories! We can figure out more of what happened!]"
+Yali held me, but she was distant. "If only we could verify this from the Farseers' memories… but of course, I only have the memories from the years they died… so… tell me about the first time you killed me!"
+
+A sick feeling crushed in on me, overwhelmed and desperate. "I didn't even do it on purpose," I moaned. "No, <em>I</em> did it on purpose, but it wasn't, like, purposeful… I was in a rage, I wasn't sure… when I think of it from the outside, it's so obvious, but as a human, I… I remember, the Alchemist was there, the Farseer was telling them what to do… It was long and slow, they were helping me, they… no…"
+
+I spent a while sorting out the memories. I had to keep going back and forth, trying to get it straight which memories were from one year and which were from another. I didn't let Yali take her arm out from around me, but she still took notes with her other hand while I talked.
+
+After a while, Yali looked up from her notes. "So," she said, summing things up, "the Blood Child had some sort of disease, and the Farseer offered to help, but actually they manipulated the Alchemist into slowly poisoning the Blood Child. The Blood Child got sicker and sicker until they realized it was the Farseer's fault –"
+
+"I wouldn't say I <em>realized</em>… they were just the only one in front of me, for me to blame… I mean, I know I was right, but…"
+
+"Right. Eventually, the Blood Child was overwhelmed by bad feelings, and took out their anger by killing the Farseer. But it was too late to save themselves, and they still died afterwards. Does that sound accurate?"
+
+"Yeah."
+
+Yali grinned viciously. "This is great! This means that one of me died in the <em>same</em> year as they intentionally killed the Blood Child! Now I should be able to look in my memories and find out what I was thinking!"
+
+Yali
 
 [????? Yali hunted in the memories for a while. She frowned more and more]
 
