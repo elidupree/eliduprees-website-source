@@ -167,15 +167,15 @@ Getting the details was a lot harder than I had hoped. The Blood God – or at l
 
 Eventually, with effort, we managed to get some information out of it. A lot of information, actually. ?????
 
-And there was a number. Four. The number of years when the Blood God had ?????
+And there was a number. Four. The number of years when the Blood God had hesitated before it began killing the Farseers.
 
 "I gave you four chances!" I roared. I was the Blood God again. This time I knew the "you" wasn't really Yali, but it still felt like the thing to say. "You killed me, and I still gave you another chance! Because you were my – my <em>family</em>! The first time, I thought it wasn't your fault! The second time, I thought it could have been a mistake! When you killed me the third time, I knew something was wrong! I was in pain, I was afraid, but I still stayed my hand! I didn't want to throw away the trust I thought we had together! And for my trust, I saw the life choked out of me! The fourth time… I still did not fight back, because…" My voice broke. "I didn't know what to do. You were… strong, you were my…" Hot tears poured down my face. My thoughts cracked. Another memory had awoken, Rinn's memory of this year's Justicar standing over her. The helplessness… the inevitability of my death… I clung to Yali's shoulder. "Yali… help me… I'm scared…"
 
-Yali held me, but she was distant. "If only we could verify this from the Farseers' memories… but of course, I only have the memories from the years they died… so… tell me about the first time you killed me!"
+Yali held me, but she was distant. "If only we could verify this from the Farseers' memories… but of course, I only have the memories from the years they died… so, so… tell me about the first time you killed me!"
 
 A sick feeling crushed in on me, overwhelmed and desperate. "I didn't even do it on purpose," I moaned. "No, <em>I</em> did it on purpose, but it wasn't, like, purposeful… I was in a rage, I wasn't sure… when I think of it from the outside, it's so obvious, but as a human, I… I remember, the Alchemist was there, the Farseer was telling them what to do… It was long and slow, they were helping me, they… no…"
 
-I spent a while sorting out the memories. I had to keep going back and forth, trying to get it straight which memories were from one year and which were from another. I didn't let Yali take her arm out from around me, but she still took notes with her other hand while I talked.
+I spent a while sorting out the memories. I had to keep going back and forth, trying to get it straight which memories were from one year and which were from another. I couldn't bear to let Yali take her arm out from around me, but she still took notes with her other hand while I talked.
 
 After a while, Yali looked up from her notes. "So," she said, summing things up, "the Blood Child had some sort of disease, and the Farseer offered to help, but actually they manipulated the Alchemist into slowly poisoning the Blood Child. The Blood Child got sicker and sicker until they realized it was the Farseer's fault –"
 
@@ -205,19 +205,15 @@ And most importantly, it was arranged in a giant timeline. Every year from the l
 
 "What can I say, I love putting my hands all over stuff."
 
-Yali shuffled some things around. "More importantly, it's a good thing I already knew how common false memories are. Otherwise I'd be really confused by these inconsistencies. It looks like the only thing we can really rely on is the fact that you can't remember something that happened after you died. But that's… enough," she said, frowning.
+Yali shuffled some things around. "More importantly, it's a good thing I already knew how common false memories are. Otherwise I'd be really confused by these inconsistencies. It looks like the only thing we can really rely on is the fact that you can't remember something that happened after you died. But that's, that's… sufficient," she said, frowning.
 
 After what seemed like forever, we were done. We had mapped out the lives of all the Farseers from Yali's memories. All <em>sixty-eight</em> of them.
 
-[????? "What?"
-
-"The year you're talking about. The ?????first year the Blood Child killed the Farseer. I don't remember anything from it. I have the year after, and two years after that. [????? I've analyzed it based on memories of what year it was, and political/news events.] I know what year every one of my memories is, now. And the ?????first and ?????third years are missing."
-
-"That's…"]
+The history books all agreed on the first year the Farseer had been killed. And <em>every</em> Farseer in Yali's memories could remember at least two years after that.
 
 "I should have checked!" yelled Yali. "I had these memories as soon as I knew I was the Farseer! Seventy years of dead Farseers, seventy sets of memories… <em>but there were never seventy sets of memories in me!</em> If only I had checked that there were actually seventy separate individuals in there!"
 
-"Who in the Endless would think of checking something like that?? There's no way you can have known about any of thi–"
+"Who in the Endless would think of checking something like that?? There's no way you could have known about any of thi–"
 
 "No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge! It would never have kept this going for so long! The god of holding a grudge – <em>is the Waiting God</em>."
 
@@ -241,9 +237,9 @@ Yali was silent for a time. "I don't know if it <em>can</em> lose."
 
 "Even if we succeed… even if that happens this year…"
 
-"[????? It HAS to be!] Now that we know – now that we know what's really going on, we've gotta be able to do something about it! We have to strike back!"
+"It HAS to be enough! Now that we know – now that we know what's really going on, we've gotta be able to do something about it! We have to strike back!"
 
-"That's what we would <em>want</em> to happen…" Yali sounded completely drained. "But it's the <em>Waiting God</em>. We have no idea how to hurt it. Even if we did, it's bound to be something incredibly difficult. And we, we… you don't realize how many ways there are still are for us to die. Justicar might kill us. You… well… And I've even seen Morrow destroy your mind in some of the futures, if I don't step in to protect you. Striking back at the Waiting God… we just can't afford to think about that right now."
+"That's what we would <em>want</em> to happen…" Yali sounded completely drained. "But it's the <em>Waiting God</em>. We have no idea how to hurt it. Even if we did, it's bound to be something incredibly difficult. And we, we… you don't realize how many ways there still are for us to die. Justicar might kill us. You… well… And I've even seen Morrow destroy your mind in some of the futures, if I don't step in to protect you. Striking back at the Waiting God… we just can't afford to think about that right now."
 
 "But –"
 
