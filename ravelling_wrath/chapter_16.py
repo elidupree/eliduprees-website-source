@@ -313,9 +313,13 @@ Another realization popped up. "I finally understand that word the Blood God use
 
 "No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers! And it makes them <em>more</em> bad, because it means they forced someone else into degrading themselves!"
 
-?????
+Yali was quiet for a while before responding. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
 
-"So, this eighteen months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
+"Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up.
+
+We were both quiet for a while. Everything was still running through my head, but for all the things I wanted to say, we had already talked about them for ages. ????
+
+I fidgeted with one of the papers that was still laying around. "So, this eighteen months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
 
 "It's okay. Go on."
 
@@ -351,7 +355,7 @@ Yali looked dismayed.
 
 
 
-?????
+????
 
 <bigbreak>
 
