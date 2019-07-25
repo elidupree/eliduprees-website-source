@@ -77,7 +77,7 @@ Yali's hand came down heavily on my shoulder. She tried to pull me back to her. 
 
 Yali would be safe…
 
-All my resistance collapsed like tissue paper. Triumphant power flooded into me – the power of Blood. Effortlessly, I rose to my feet and stood, straightening up to my full height, turning my face against the thunder. I was still half streaked with dirt, but that was no blemish on my boundless body. I flexed my hand, exulting in every muscle. I drew in a breath, the damp and earthy air exploding into my lungs like a stiff breeze after weeks spent cramped in a room. And then… I looked.
+All my resistance collapsed like tissue paper. Triumphant power flooded into me – the power of Blood. Effortlessly, I rose to my feet and stood, straightening up to my full height, turning my face against the thunder. I was still half streaked with dirt, but that was no blemish on my boundless body. I flexed my hand, exulting in every muscle. I drew in a breath, the damp and earthy air exploding into my lungs like a stiff breeze after weeks spent cramped in a dusty room. And then… I looked.
 
 There it was. The Farseer. The one I hated with the bottom of my heart, the one I kept insisting on loving.
 
@@ -93,11 +93,19 @@ The answer blazed in my mind with perfect clarity. I struggled to express it, to
 
 "Look for yourself!" I screamed. With a crash, the clouds split apart and a shaft of light landed on me. All over my body, wounds began to appear. A bloody gouge across my stomach. A dozen holes through my chest. Multiple slashes to my arms and legs, that felt like they could have completely severed them. Memories flooded into my mind, of myself, in my dozens of other bodies, crawling desperately as my lifeblood flowed away from me. The pain of the wounds flooded through me, but it felt like catharsis. I was finally laying the truth out in the open. "These are the wounds your Justicars and your <em>laskueh</em> have dealt to me! Now do you see what you have done?!" I demanded. I doubled over, blood dripping from my forehead into my eyes. "I have been blinded, maimed, brought to my knees, shredded limb from limb! You tore down my temple and forced my people under the law of the Stern! Your <em>laskueh</em> have trampled over my body to make your perfect world! But I will not go down without a fight! I will tear the worlds apart before I allow myself to be erased by <em>you</em>!"
 
-The Farseer stood motionless. It silently considered my words, its thoughts unreadable. ?????
+The Farseer stood motionless. It silently considered my words, its thoughts unreadable. Even after everything, I was aching to hear how it would answer, hoping against hope for just one word of acknowledgment from behind that stony mask, one drop of pity or remorse. But the mask was as cold as ever.
 
 Cautiously, the Farseer spoke again. "So the Waiting God is trying to erase you? And you kill the Farseer to stop it from happening?"
 
 All at once, a wave of hopelessness washed through me, completely turning around my pride and rage. "To <em>stop</em> you?" I said hollowly. The feelings dropped me to the ground, sprawling with my face in the dirt, and ushered in another torrent of rain, a torrent that flattened my clothes against my back and pounded through them onto my skin. The blood from my wounds pooled and seeped into the soil. "To <em>stop</em> you?" I moaned into the dirt. "I will kill you and kill you and kill you, and when I am gone, you will still be strong. My hands are empty, and I am beating against the mountain. You call <em>me</em> the danger?"
+
+Rainwater swirled around me, pooling and submerging half my face. The Farseer's voice rang down from above me. "I did see you that way. Maybe I still do. But I'm willing to reconsider."
+
+Inside me, a thousand feelings blossomed from those words. Hope and vindication, contempt and despair. It couldn't be real. It was just another lie, another manipulation. What did the Farseer want from me, that it would play at reconsidering? I could <em>feel</em> its sincerity. I <em>wanted</em> to believe. But it had always made lies out of the truth. I couldn't dare give in to trust.
+
+"Are you… are you okay down there? I don't want you to drown, or –"
+
+I laughed, a short, painful laugh, gasping bits of water into my mouth. This Farseer was still a human, looking at me as if I was only a human, to be cared for like a human.
 
 ?????
 
@@ -137,7 +145,7 @@ My fire billowed around me. I rose effortlessly to my feet. Within my aura of fl
 
 In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky whisper, she spoke:
 
-[????? centered formatting:]
+[???? centered formatting:]
 <em>The power I feel around me is the fire of my soul.</em>
 <em>No wall can hold me.</em>
 <em>No truth can hide from me.</em>
@@ -165,9 +173,9 @@ Getting the details was a lot harder than I had hoped. The Blood God – or at l
 
 "Ugh."
 
-Eventually, with effort, we managed to get some information out of it. According to the Blood God, the Stern were being used as a tool, both in the Otherworld and in the city. In the Otherworld, the Waiting had tricked the Justicars into thinking the Blood Child was always the aggressor. In most years, the Justicar ultimately killed the Blood Child, so the Blood Child was desperate to kill the Farseer before the Justicar was powerful enough to stop them. And in the city, the Stern Temple had violated the borders between the temples, undermined the structure of the Blood Temple until it was weak, and then destroyed it – all controlled by the Waiting, although I couldn't figure out exactly what kind of control that was.
+Eventually, with effort, we managed to get some information out of it. According to the Blood God, the Stern were being used as a tool, both in the Otherworld and in the city. In the Otherworld, once the Blood Children and Farseers had started killing each other, the Waiting had tricked the Justicars into thinking the Blood Child was always the aggressor. In most years, the Justicar ultimately killed the Blood Child, so the Blood Child was desperate to kill the Farseer before the Justicar was powerful enough to stop them. And in the city, the Stern Temple had violated the borders between the temples, undermined the structure of the Blood Temple until it was weak, and then destroyed it – all controlled by the Waiting, although I couldn't figure out exactly what kind of control that was.
 
-And there was a number. Four. The number of years when the Blood God had hesitated before it began killing the Farseers.
+And there was a number. Four. The number of years when the Blood God had hesitated before it began to fight back.
 
 "I gave you four chances!" I roared. I was the Blood God again. This time I knew the "you" wasn't really Yali, but it still felt like the thing to say. "You killed me, and I still gave you another chance! Because you were my – my <em>family</em>! The first time, I thought it wasn't your fault! The second time, I thought it could have been a mistake! When you killed me the third time, I knew something was wrong! I was in pain, I was afraid, I could feel my temple in turmoil, but I still stayed my hand! I didn't want to throw away the trust I thought we had together! And for my trust, I saw the life choked out of me! The fourth time… I still did not fight back, because…" My voice broke. "I didn't know what to do. You were… strong, you were my…" Hot tears poured down my face. My thoughts cracked. Another memory had awoken, Rinn's memory of this year's Justicar standing over her. The helplessness… the inevitability of my death… I clung to Yali's shoulder. "Yali… help me… I'm scared…"
 
@@ -197,11 +205,11 @@ My brain was <em>exhausted</em>
 
 We were sitting in the middle of a huge mess of papers, copies of Yali's phone, and history books. Yali had laid down a hardwood floor over the whole clearing we were in, and everything else was strewn on top of it.
 
-And most importantly, it was arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year.
+And most importantly, it was arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
 
-"It's a good thing your monastery had so many old books," I said.
+"It's a good thing your monastery had so many old books," I said. Although even the history books hadn't given too many details about the fall of the Blood Temple. The juiciest bit we'd gotten was from a crumbling newspaper from the monastery archives. One article was about a court case about some Blood Temple councilmembers who had been arrested by the Stern police. But it didn't give much of the context. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
 
-"Honestly, I'm surprised at how many books <em>you've</em> been able to manifest. What with not caring about history and all."
+Yali responded, "Honestly, I'm surprised at how many books <em>you've</em> been able to manifest. What with not caring about history and all."
 
 "What can I say, I love putting my hands all over stuff."
 
@@ -313,7 +321,7 @@ Another realization popped up. "I finally understand that word the Blood God use
 
 "No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers! And it makes them <em>more</em> bad, because it means they forced someone else into degrading themselves!"
 
-Yali was quiet for a while before responding. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
+Yali was quiet for a while before she responded. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
 
 "Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up.
 
@@ -329,15 +337,25 @@ I fidgeted with one of the papers that was still laying around. "So, this eighte
 
 "Your what?"
 
-"Your awakening of blood. It's… an important concept in Blood law. Let me see if my memories know enough to explain it. It's like, like, like, the time when you've fully realized how much of a violation it was. So, so, if someone was abused, but they're still telling themself they can pretend it didn't happen, their blood hasn't awakened to the crime yet. So the timer hasn't started for their revenge. And if they're a kid, and they don't feel like they have the <em>power</em> to get revenge, they don't count as awakened yet.
+"Your awakening of blood. It's… an important concept in Blood law. Let me see if my memories know enough to explain it. It's like, like, like, the time when you've fully realized how much of a violation it was. So, so, if someone was abused, but they're still telling themself they can pretend it didn't happen, their blood hasn't awakened to the crime yet. So the timer hasn't started for their revenge. And if they're a kid, and they don't feel like they have the <em>power</em> to get revenge, they don't count as awakened yet. There's… a lot of rules, just like how the Stern have a lot of rules for exactly when and how they can prosecute someone for a crime. Every temple has its complications…"
 
+"Complications? I mean, what you said all makes sense, it's actually pretty close to how I would feel about –"
 
+"Maybe. Let's talk about something else."
 
-?????
+"Oh. Sorry."
 
-"[????? Alchemist is coming back]. I should use the Seeing to prepare."
+"It's okay."
 
-"Are you sure? When the Seeing lied to you before?"
+I couldn't think of something else to talk about. We were both quiet, me fidgeting and Yali staring into the distance. But before long, Yali looked up again.
+
+"Alchemist will be back soon," she said.
+
+"Oh! That's great! Wait, shit, when they left we were still –"
+
+"I should use the Seeing to prepare," said Yali tiredly.
+
+"Wait, really? When the Seeing lied to you before?"
 
 "It did not… <em>lie</em>. The Waiting God is, is, is… it doesn't lie if it can help it. It's not like 'you must never lie' like the Stern or 'only the truth will fulfill you' like Blood, but it's still… the truth is the <em>foundation</em> of the Waiting. You know, like, 'You must tell the truth a thousand times before you will be capable of telling one lie.' So… I will be careful, but there are still ways I can make use of the Seeing. Just as long as I know I can't trust it completely."
 
@@ -345,17 +363,15 @@ I fidgeted with one of the papers that was still laying around. "So, this eighte
 
 Yali looked dismayed.
 
-"No, it's cool. It's just so twisted. Now that we know the Waiting God is the enemy, I was assuming we'd be like, 'fuck everything Waiting'. But now you're talking about using the Waiting God's own power against it. And that's… badass, but… it's still the enemy's power! You can't make it <em>yours</em>, you can't make it <em>good</em> –"
+"No, it's cool," I said. "It's just so twisted. Now that we know the Waiting God is the enemy, I was assuming we'd be like, 'fuck everything Waiting'. But now you're talking about using the Waiting God's own power against it. And that's… badass, but… it's still the enemy's power! You can't make it <em>yours</em>, you can't make it <em>good</em> –"
 
 "I'm not trying to. At this point, I'm trying to, to, to take advantage of it."
 
 "Well, I hope it doesn't come back to bite you."
 
-"I hope so too," said Yali. Then she corrected herself. "No. I don't <em>hope</em> anything. I will <em>make sure</em> it doesn't come back to bite me."
+"I hope so too," said Yali. Then she corrected herself. "No. I don't <em>hope</em> anything. I will <em>make sure</em> it doesn't come back to bite me." Yali straightened up and focused. "Now, if you could give me some time to –"
 
-
-
-????
+"Yeah, go ahead," I said.
 
 <bigbreak>
 
