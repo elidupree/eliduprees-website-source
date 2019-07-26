@@ -1592,5 +1592,12 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"de72920b4da7f9f2c83cb43d930716e5",
   "date_posted":datetime.date(2018, 7, 24)
 },
+{
+  "parent":"6da903a8cc86a9d1949bd9c4178a7ab",
+  "username":"Kagar",
+  "contents":"""ive had a heck of a time this past year and ive had the notification emails from chapters 5 and 6 sitting unread at the top of my email for most of it, and tonight i finally read them! i know i havent been very good at keeping up communication lately but i do still like your writing and i hope things are going ok for you.<br/><br/>im curious about your decision to refer to the discs as "stars". i know that they appear that way from far away, but it took me quite a while to realize that <q>“We're standing on top of a star?!”</q> referred to the platform itself and that there wasnt some sort of hot glowing sphere under it. in fact, i didnt catch that until Rinn went to the other side of it<br/><br/>another question, more of a character one i suppose: if Rinn took the time to manifest, say, a bunch of bricks and sand and laid them on the non-computer side of the platform in order to make a runnable surface, would that count as appropriate planning for the Waiting or would it be an exploit/workaround? to be clear i understand why Rinn <em>doesnt</em> do that kind of thing, just bc of zir character, but im curious what the Waiting would think about an alternate Rinn that <em>did</em><br/><br/>brief sidenote off of that, in checking appropriate usage, i note that the Waiting God is referred to as "the Waiting God" or "the Waiting", but the Stern God is sometimes referred to as simply "Stern" - is that intentional? is it a cultural trend or an aspect of the characters we have here?<br/><br/>anyway, this got longer than i expected, but thanks for your writing!""",
+  "id":"3eb0e7b98438907ff7382f8123057a8e",
+  "date_posted":datetime.date(2019, 7, 26)
+},
 
 ]
