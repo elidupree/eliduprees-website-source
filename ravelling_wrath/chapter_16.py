@@ -203,7 +203,7 @@ Yali put her head down and concentrated, hunting in the memories. Pretty soon, s
 
 My brain was <em>exhausted</em>
 
-We were sitting in the middle of a huge mess of papers, copies of Yali's phone, and history books. Yali had laid down a hardwood floor over the whole clearing we were in, and everything else was strewn on top of it.
+We were sitting in the middle of a huge mess of papers, copies of Yali's phone, and history books. Yali had laid down a hardwood floor over the whole clearing we were in, and everything else was strewn on top of it. It was a good thing it wasn't raining anymore, but the trees were dripping all over the place, so we had to keep all the papers in the clear area.
 
 And most importantly, it was arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
 
@@ -289,7 +289,7 @@ Yali looked me directly in the eye. Her eyes drilled into me. Then she shook her
 
 Hours passed. We got through all the most important things to talk about, ?????. And I was starting to come down from the rush of the Blood God. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready whenever I needed to reach for it. It just wasn't <em>me</em>, not right now.
 
-I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just rocks. Just my back resting against the hard bark. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
+I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just be wooden floor. Just my back resting against a big rock. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
 
 "Uh… shit," I said, looking at it. That was <em>my</em> blood. Or the Blood God's blood, or something like that.
 
@@ -325,9 +325,27 @@ Yali was quiet for a while before she responded. "Maybe what you're saying will 
 
 "Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up.
 
-[????? Maybe this is where the shirt gets repaired]
+What to do now? Everything was still running through my head, but for all the things I wanted to say, we had already talked about them for ages. I decided to get up and stretch. But as I braced myself to stand up, I accidentally put my hand down on the tail of my shirt. It tore right in half across the back, because it still had all those holes that my blades had put in the back when I got pissed off about Morrow hurting Alchemist – ugh, we were still going to have to deal with Morrow. "Aw, shit," I muttered.
 
-We were both quiet for a while. Everything was still running through my head, but for all the things I wanted to say, we had already talked about them for ages. ????
+?????
+
+bloodsoaked, torn-up shirt that was pretty much just dangling off my body
+
+tore the rest of the way off ????? chucked it on the ground.
+
+Yali hastily looked away.
+
+"Oh, right," I said, looking down at myself. "I'll just, uh, go behind a tree and clean up, alright?"
+
+I stepped behind a big tree. I was kind of a mess, bits of dried blood caked onto my skin. So I just unmanifested my clothes again, then made a huge mass of cold water above my head, letting it slam down onto my shoulders and flush away all the mess. A few more torrents of water later, I felt clean and refreshed. Then I unmanifested all of the water, instantly drying me off. I finished off by manifesting a new set of clothes, about the same as before, but all intact, cozy and warm.
+
+I came back around the tree to find Yali concentrating.
+
+
+
+?????
+
+We were both quiet for a while. ????
 
 I fidgeted with one of the papers that was still laying around. "So, this eighteen months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
 
