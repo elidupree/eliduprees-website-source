@@ -287,9 +287,9 @@ Yali looked me directly in the eye. Her eyes drilled into me. Then she shook her
 
 <bigbreak>
 
-Hours passed. We got through all the most important things to talk about, ?????. And I was starting to come down from the rush of the Blood God. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready whenever I needed to reach for it. It just wasn't <em>me</em>, not right now.
+Hours passed. We got through all the most important things to talk about [, ????]. And I was starting to come down from the rush of the Blood God. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready whenever I needed to reach for it. It just wasn't <em>me</em>, not right now.
 
-I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just be wooden floor. Just my back resting against a big rock. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
+I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just rocks. Just the wooden floor. Just my back resting against some hard bark. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
 
 "Uh… shit," I said, looking at it. That was <em>my</em> blood. Or the Blood God's blood, or something like that.
 
@@ -301,73 +301,27 @@ Yali followed my gaze. "Are you okay? I just want to make sure, since that's tec
 
 I laughed. "That river of blood, though… That's really how the Blood God feels about what's happening. I feel like I understand it a lot better now. Even the little things… like way back in the first layer, I was mad about you and Justicar working together, and I kind of assumed it was just me being mad about all her Stern stuff. And it was partly that. But it was also the Blood God thinking you were going to manipulate her against me."
 
-I sat back and thought over everything that had just happened.
+"Oh, is <em>that</em> why you were acting so jealous about it?" said Yali distractedly.
 
-Another realization popped up. "I finally understand that word the Blood God used to talk about you as the Farseer! I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, –"
+"Jealous?? You take that back," I laughed. Yali chuckled.
 
-"I understand. I can feel the Waiting God using those not-quite-words, too."
+I wasn't sure what to say next. Everything was still running through my head, but for all the things I wanted to say, we had already talked about them for ages. I decided to get up and stretch. But as I braced myself to stand up, I accidentally put my hand down on the tail of my shirt, and the back of the shirt tore right in half. Both the shirt and the jacket still had all those holes that my blades had put in them when I got pissed off about Morrow hurting Alchemist – ugh, we were still going to have to deal with Morrow. "Aw, shit," I muttered.
 
-"Yeah, so, the Blood God has always called you, like, the Waiting God's <em>laskueh</em>. And I first I thought it meant Raveller, but it doesn't. It means, like… a servant. Someone who works for someone else." Trying to explain it in words felt so flat. Saying <em>someone who works for someone else</em> didn't have the overwhelming sense of contempt that this word had. So I tried to explain. "And, like, to the Blood God, that's really bad. Like… If you obey someone else's orders instead of doing what you really want, that's like, stepping on your own blood."
+"You can manifest it back –"
 
-"Stepping on your own blood…"
+"No, the shirt's fine…" I muttered. I shifted my weight and stood up for real. At this point, the bloodsoaked, torn-up shirt was pretty much just dangling off my body. "I was just thinking about Morrow. We still haven't figured out –"
 
-"Er…"
+"It'll be easier if we talk about that when Alchemist is here."
 
-"No, it's familiar. Yes… it's an old expression. There were two expressions like that – if you said 'stepping on someone's <em>fire</em>', it meant you were stopping someone from going after their passions. But if you said 'stepping on someone's <em>blood</em>', it meant, it meant… a violation."
-
-"So obeying orders is violating yourself? Haha, that's pretty cool."
-
-"Sounds more like victim-blaming," said Yali loudly.
-
-"No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers! And it makes them <em>more</em> bad, because it means they forced someone else into degrading themselves!"
-
-Yali was quiet for a while before she responded. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
-
-"Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up.
-
-What to do now? Everything was still running through my head, but for all the things I wanted to say, we had already talked about them for ages. I decided to get up and stretch. But as I braced myself to stand up, I accidentally put my hand down on the tail of my shirt. It tore right in half across the back, because it still had all those holes that my blades had put in the back when I got pissed off about Morrow hurting Alchemist – ugh, we were still going to have to deal with Morrow. "Aw, shit," I muttered.
-
-?????
-
-bloodsoaked, torn-up shirt that was pretty much just dangling off my body
-
-tore the rest of the way off ????? chucked it on the ground.
+"It will? Even though Alchemist is, you know, –" Yali was giving me a steady look. "Whatever, of course you're right, you know the future and shit…" I idly tugged at the shirt, and it tore bit more. After a few more tugs, it came off in my hand. Not knowing what to do with it, I just chucked it on the ground.
 
 Yali hastily looked away.
 
 "Oh, right," I said, looking down at myself. "I'll just, uh, go behind a tree and clean up, alright?"
 
-I stepped behind a big tree. I was kind of a mess, bits of dried blood caked onto my skin. So I just unmanifested my clothes again, then made a huge mass of cold water above my head, letting it slam down onto my shoulders and flush away all the mess. A few more torrents of water later, I felt clean and refreshed. Then I unmanifested all of the water, instantly drying me off. I finished off by manifesting a new set of clothes, about the same as before, but all intact, cozy and warm.
+I stepped behind a big tree. I was kind of a mess, bits of dried blood caked onto my skin, dirt on my clothes and hair. So I just unmanifested my clothes again, then made a huge mass of cold water above me, letting it slam down on my head and shoulders and flush away all the mess. A few more torrents of water later, I felt clean and refreshed. Then I unmanifested all of the water, instantly drying me off. I finished by manifesting a new set of clothes, about the same as before, but all intact, cozy and warm.
 
 I came back around the tree to find Yali concentrating.
-
-
-
-?????
-
-We were both quiet for a while. ????
-
-I fidgeted with one of the papers that was still laying around. "So, this eighteen months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
-
-"It's okay. Go on."
-
-"Or, like, what about those things where someone comes out about how some scumbag sexually assaulted them years ago? Is it like 'sorry, it was eighteen months ago, it doesn't count anymore'?"
-
-"Ah… well, technically, it's not eighteen months from the date of the <em>crime</em>. It's eighteen months from your awakening of blood."
-
-"Your what?"
-
-"Your awakening of blood. It's… an important concept in Blood law. Let me see if my memories know enough to explain it. It's like, like, like, the time when you've fully realized how much of a violation it was. So, so, if someone was abused, but they're still telling themself they can pretend it didn't happen, their blood hasn't awakened to the crime yet. So the timer hasn't started for their revenge. And if they're a kid, and they don't feel like they have the <em>power</em> to get revenge, they don't count as awakened yet. There's… a lot of rules, just like how the Stern have a lot of rules for exactly when and how they can prosecute someone for a crime. Every temple has its complications…"
-
-"Complications? I mean, what you said all makes sense, it's actually pretty close to how I would feel about –"
-
-"Maybe. Let's talk about something else."
-
-"Oh. Sorry."
-
-"It's okay."
-
-I couldn't think of something else to talk about. We were both quiet, me fidgeting and Yali staring into the distance. But before long, Yali looked up again.
 
 "Alchemist will be back soon," she said.
 
@@ -395,7 +349,55 @@ Yali looked dismayed.
 
 <bigbreak>
 
-It wasn't long before the rustling of the branches alerted me to Alchemist's approach. And pretty soon after that, I spotted their cute head bobbing in and out of the leaves. They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
+By the time Yali came back to the present, I'd had plenty of time to settle down, make a nice couch and sit back and think about things. Another realization had popped up in my mind.
+
+"I finally understand that other word the Blood God has been using for the Farseer!" I said. "I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, like, you know…"
+
+Yali hauled herself up from her Seeing pose, took a few breaths, and then thumped down on the couch and curled up next to me. "I understand," she murmured. "I can feel the Waiting God using those not-quite-words, too."
+
+"Yeah, so, the Blood God has always called you, like, the Waiting God's <em>laskueh</em>. And I first I thought it meant Raveller, but it doesn't. It means, like… a servant. Someone who works for someone else." Trying to explain it in words felt so flat. Saying <em>someone who works for someone else</em> didn't have the overwhelming sense of contempt that this word had. So I tried to explain. "And, like, to the Blood God, that's really bad. Like… If you obey someone else's orders instead of doing what you really want, that's like, stepping on your own blood."
+
+"Stepping on your own blood…"
+
+"Er…"
+
+"No, it's familiar, in my memories. Yes… it's an old expression. There were two expressions like that – if you said 'stepping on someone's <em>fire</em>', it meant you were stopping someone from going after their passions. But if you said 'stepping on someone's <em>blood</em>', it meant, it meant… a violation."
+
+"So obeying orders is violating yourself? Haha, that's pretty cool."
+
+"Sounds more like victim-blaming," said Yali loudly.
+
+"No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers! And it makes them <em>more</em> bad, because it means they forced someone else into degrading themselves!"
+
+Yali was quiet for a while before she responded. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
+
+"Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up.
+
+We were both quiet for a bit, just sitting on the couch, Yali resting her head on my shoulder. We were still waiting for Alchemist to show up, there wasn't much left to talk about. I poked a foot at one of the papers that was still laying around. "So, this eighteen months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
+
+"It's okay. Go on."
+
+"Or, like, what about those things where someone comes out about how some scumbag sexually assaulted them years ago? Is it like 'sorry, it was eighteen months ago, it doesn't count anymore'?"
+
+"Ah… well…" Yali tiredly lifted her head. "Technically, it's not eighteen months from the date of the <em>crime</em>. It's eighteen months from your awakening of blood."
+
+"Your what?"
+
+"Your awakening of blood. It's… an important concept in Blood law. Let me see if my memories know enough to explain it. It's like, like, like, the time when you've fully realized how much of a violation it was. So, so, if someone was abused, but they're still telling themself they can pretend it didn't happen, their blood hasn't awakened to the crime yet. So the timer hasn't started for their revenge. And if they're a kid, and they don't feel like they have the <em>power</em> to get revenge, they don't count as awakened yet. There's… a lot of rules, just like how the Stern have a lot of rules for exactly when and how they can prosecute someone for a crime. Every temple has its complications…"
+
+"Complications? I mean, what you said all makes sense, it's actually pretty close to how I would feel about –"
+
+"Maybe. Let's talk about something else."
+
+"Oh. Sorry."
+
+"It's okay."
+
+I couldn't think of something else to talk about. We both settled into a long silence, me fidgeting and Yali staring into the distance. There was just so much that had happened today. And from the look of things, it wasn't even over yet.
+
+<bigbreak>
+
+It wasn't much longer before I heard the branches rustling from Alchemist getting close to us. I got up and peered towards the sound, and pretty soon I spotted their cute head bobbing in and out of the leaves. They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
 
 Beside me, Yali squeezed my shoulder. Quietly, she muttered, "I know you'll want to tell Alchemist about everything had just happened. But leave it for later. It's important that we let them tell us what they've been thinking of, before we distract them."
 
