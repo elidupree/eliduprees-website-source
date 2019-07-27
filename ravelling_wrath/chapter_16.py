@@ -105,15 +105,15 @@ Inside me, a thousand feelings blossomed from those words. Hope and vindication,
 
 "Are you… are you okay down there? I don't want you to drown, or –"
 
-I laughed, a short, painful laugh, gasping bits of water into my mouth. This Farseer was still a human, looking at me as if I was only a human, to be cared for like a human.
+I laughed, a short, painful laugh, gasping bits of water into my mouth. This Farseer was still a human, looking at me as if I was only a human, to be cared for like a human. In a way, it was sweet how sincere it was. I knew I couldn't trust it, but maybe it wouldn't hurt to be just a little closer to it, just for a while.
 
-?????
+I hauled myself up to my knees. Crudely, my wounds began to knit themselves closed again. "My body isn't going to die from this," I said. "You know it takes more to kill me than a bit of matter."
 
-I hauled myself up to my knees. Crudely, my wounds began to knit themselves closed again.
+The Farseer crouched in front of me. "I <em>don't</em> know. I don't know half as much about the Blood God as I thought I did."
 
-?????
+It was tearing me apart how much I wanted to believe that. "Why are you saying that?" I begged. "Why do you toy with me?"
 
-"If I understand you right, every time you've said 'you', you've been talking about the Waiting God. But what do you think about me – Yali?"
+The Farseer examined me, full of doubt and concern. "If I understand you right, every time you've said 'you', you've been talking about the Waiting God. But what do you think about me – Yali?"
 
 "But you <em>are</em> the Farseer."
 
@@ -324,6 +324,8 @@ Another realization popped up. "I finally understand that word the Blood God use
 Yali was quiet for a while before she responded. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
 
 "Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up.
+
+[????? Maybe this is where the shirt gets repaired]
 
 We were both quiet for a while. Everything was still running through my head, but for all the things I wanted to say, we had already talked about them for ages. ????
 
