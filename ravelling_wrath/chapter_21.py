@@ -20,19 +20,17 @@ posts = [
 
 <em>Uuuuuuggggggggggghhhhhhhhhhhhhhhhh.</em>
 
-It would have been so easy to just go back to sleep again. ?????. But ?????. My arms and legs were full of pins and needles. My mouth felt like it was full of fuzzy cloth. And I needed to pee real bad.
+It would have been so easy to just go back to sleep again. It was so much work to push through the blanket of sleep over me, so easy to let go and let it pull me back. But this was like the seventh time I'd drifted awake, and it was getting more and more uncomfortable every time. My arms and legs were full of pins and needles. My mouth felt like it was full of fuzzy cloth. And I needed to pee real bad.
 
 I stubbornly clung onto consciousness.
 
-I tried to sit up. It didn't work very well. I just sort of twitched like a dying fish. Getting up was a huge pain. I wanted to just go back to sleep. But I really did need to get up. I needed to pee. [????? Replace: It was a pretty unfamiliar sensation.
+I tried to sit up. It didn't work very well. I just sort of twitched like a dying fish. Getting up was a huge pain. I wanted to just go back to sleep. But I really did need to get up. I needed to pee.
 
-Right, that hadn't happened in a while…
+This sucked. I <em>never</em> had trouble getting up in the morning! And this wasn't even my familiar bed back at home. Wait a minute, where even was I? I decided to ask that out loud, in case Mom or Dad or someone else was listening. "Ooeauuhhh uaaahhhh," I said.
 
-<em>Wait a minute, if I need to pee, does that mean I'm not in the Otherworld anymore?! Where am I?</em>] I decided to ask that out loud, in case Mom or Dad or someone else was listening. "Ooeauuhhh uaaahhhh," I said.
+The floorboards creaked. I heard the thump-thump-thump of a heavy shape rushing to my side.
 
-The floorboards creaked as I heard the thump-thump-thump of a heavy shape rushing to my side.
-
-I tried to sit up again. A hand pushed me down. "Shhhhh. Shhhhh. It'll be okay," said a soothing voice.
+I tried to sit up again. A heavy hand pushed me down. "Shhhhh. Shhhhh. It'll be okay," said a soothing voice.
 
 "Yaaaaaallllllleeeeeeeehhhhhhhh," I moaned with relief.
 
@@ -40,7 +38,7 @@ I tried to sit up again. A hand pushed me down. "Shhhhh. Shhhhh. It'll be okay,"
 
 When she paused for breath, I forced out the words, "Yeeeeaaaaaahhhhhhhh, but, I need to <em>peeeeee</em>."
 
-"Oh. I – I could –" she looked around. "Well, if… don't try to move anything too quickly, but, how's your shoulders?"
+"Oh. I – I could –" She looked around. "Well, if… don't try to move anything too quickly, but, how's your shoulders?"
 
 I slowly tried flexing my shoulders in all directions. It was an effort, and one of my <em>arms</em> flopped around out of my control, but the <em>shoulders</em> didn't seem to have any problems. "Guh azzz new," I slurred.
 
@@ -154,6 +152,9 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 "How can you just sit there like you didn't just do the most amazing thing anyone's ever done?! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're beating yourself up because you couldn't make the mountain beg for mercy! ?????"
 
+?????
+
+<bigbreak>
 
 ?????
 
@@ -187,7 +188,7 @@ She smiled ruefully. "I'm okay <em>now</em>, because I'm filling up my mind with
 
 "You know, if you become the new High Priest of Blood."
 
-"WHAAAAAAAAAAAAAAAAAAAAAAT?????!!!!!!"
+"WHAAAAAAAAAAAAAAAAAAAAAAT???!?!?!!!!"
 
 I was completely blown away. I probably would have literally fallen down if I wasn't already sitting. There were so many things that were impossible about that, I didn't even know where to start. "But I thought – I thought former Ravellers couldn't even <em>be</em> priests!"
 
@@ -297,7 +298,7 @@ I wanted to help, but I wasn't sure how. "I mean, I don't know, I just say what 
 
 Yali sat there for a long time. ????? Slow and heavy breathing. Her tears dried up, but her eyes were still puffy and reddish.
 
-The sun slowly rose, filtering through the blinds. The light made me realize what time it was and how long we'd been just sitting there. I offered to bring Yali some breakfast, but she just patted my hand and got up to get it herself. I followed her as she plodded around the kitchen, gathering up a meal for both of us. I was kinda hungry myself and I wanted to jump ahead, but this was my time to care for Yali. I stayed back and let her go through her process.
+The sun slowly rose, filtering through the blinds. The light made me realize what time it was and how long we'd been just sitting there. I offered to bring Yali some breakfast, but she just patted my hand and got up to get it herself. I followed her as she plodded around the kitchen, gathering up a meal for both of us. I was kinda hungry myself and I wanted to jump ahead, but this was the time for me to take care of Yali. I stayed back and let her go through her process.
 
 When we were done, Yali gathered up the dishes and brought them to the sink to wash. She scrubbed each plate with practiced movements, like she'd done this a million times before.
 
@@ -309,7 +310,7 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 "That's…"
 
-"That's the Waiting. It's what the god is, and it's a lot of what I am, too. When I think back to how I made the ?????s suffer, and Morrow… what I remember is, I <em>succeeded</em>. In the end, the only thing that matters is if you accomplished your goal. Your feelings don't matter – unless your feelings are part of the plan, I mean, <em>your</em> feelings mattered because of the whole Blood God thing, and my feelings sometimes mattered because I had to manage them in order to –"
+"That's the Waiting. It's what the god is, and it's a lot of what I am, too. When I think back to how I made the ????s suffer, and Morrow… what I remember is, I <em>succeeded</em>. In the end, the only thing that matters is if you accomplished your goal. Your feelings don't matter – unless your feelings are part of the plan, I mean, <em>your</em> feelings mattered because of the whole Blood God thing, and my feelings sometimes mattered because I had to manage them in order to –"
 
 "But your feelings <em>always</em> mat–"
 
@@ -324,11 +325,11 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 "– and make it have meaning," I finished.
 
-"- and use it to reach the outcome we wanted," finished Yali.
+"- and use it to make sure we got the outcome we wanted," finished Yali. [????? Yali physicality] "I guess you said it the Blood way."
 
 ?????
 
-[????? "And like…" [????? Yali physicality] "Love's never going to protect you from an abuser. An abuser might talk about love and niceness, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands.
+[????? "And like…" [????? Yali physicality] "Love's never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands.
 
 [????? "You can't help [someone who's hurting people, Morrow] unless you have power over them – maybe Rinn adds this, because it's more Blood]
 

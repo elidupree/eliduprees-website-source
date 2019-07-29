@@ -132,7 +132,7 @@ I continued, "They're only really mad if I'm hanging out with someone they think
 
 "Fasia as in Fasia Namaar, the gang leader?" Yali looked at me curiously. "Are you <em>actually</em> friends with any gangsters?"
 
-"Hell if I know. Do actual gangsters tell everyone they're gangsters? And as for Fasia, I'm not sure he even exists. 'course, Mom and Dad think anyone named Monoë is a gangster. They know an awful lot about the Stern God's rules, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
+"I mean, I know some kids who go around bragging about how they're gangsters, but Waiting knows if they really are. I'm not sure Fasia even exists, maybe he's just a story to scare little kids. 'course, Mom and Dad think anyone named Monoë is a gangster. They know an awful lot about the Stern God's rules, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
 
 "About us being in the Ravelling? Hmm… How far do you think it's safe to trust them?"
 
