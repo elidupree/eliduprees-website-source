@@ -112,7 +112,7 @@ I held up the fork and we both stared at it.
 
 After my stomach settled a bit, we finally got to talking about the Ravelling. Yali carefully explained how she'd tricked me. How I'd been unconscious all the way from the fight to the final portal. How <em>both</em> the Blood God and the Waiting God had rejuvenated. How she had worked to influence the Waiting God to change its mind. I listened and asked a few questions, but it all felt like something that had happened a long time ago, maybe in a previous lifetime.
 
-"You're not… not bothered by this?" she said carefully. "By how I, I, deceived you?"
+"You're not… not bothered by this?" she said carefully. "By how I, how I, deceived you?"
 
 I shrugged. "I mean, it was pretty smart. We don't know what the Blood God would've done."
 
@@ -122,25 +122,37 @@ I shrugged. "I mean, it was pretty smart. We don't know what the Blood God would
 
 "Yeah," said Yali somberly. "Mine's gone, too."
 
-[????? Yali dissatisfied by not knowing how much she influenced the Waiting God]
+"That's, uh, that's good, right?"
 
-"I… remember something."
+Yali hesitated. "It should be. I should be happy that we both got out alive and now I can live my life without the Waiting God looking over my shoulder, any more than it always does for everybody."
+
+"But…?"
+
+Yali's eyes moved slowly, staring at the table. "I just wish I knew if it worked. If, if, the Waiting God is even thinking anything different, because of what I did. But I guess we won't really know until next year's Ravelling. I can't remember anything after I went into the final portal and the god started taking me apart."
+
+????
+
+A thought drifted into my head. It was only half-formed, but I felt like I should say it. "I… remember something," I said.
 
 "What is it?"
 
 "From when I was unconscious. I must've been in the portal, because I… I <em>was</em> the god."
 
-[????? Yali looked at me intently]
+Yali looked at me intently.
 
 "I could feel the other gods all around me. Not just the other four gods, but all the gods from all around the world, too. But the five of us, we were all, in… our own, special space. And I was, like… I really wanted to know what the Waiting God was going to feel like. And I, looked, or, not <em>looked</em>, but, you know. And it felt like… something. The Waiting God felt…"
 
-[????? Yali looked at me even more intently. It seemed impossible to put into words. I struggled to put it into words]
+Yali leaned forward, her eyes drilling into me like she was hanging on every word I said. That made me kinda nervous, because I wasn't that confident about what I remembered. It was all hazy and unreal. But Yali needed me to do this. I struggled to put the memory into words.
 
-"…<em>uncertain</em>."
+"It felt… <em>uncertain</em>," I finished.
 
-[????? Yali was frustrated "we will still have to see"]
+Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
-"[????? How can you be devaluing your accomplishments?] You did more than anyone could have POSSIBLY expected!! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're beating yourself up because you couldn't make the mountain beg for mercy! ?????"
+"Are you kidding me?!"
+
+"What? You can't just say 'Are you kidding me?' all the time, I literally don't know what you're –"
+
+"How can you just sit there like you didn't just do the most amazing thing anyone's ever done?! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're beating yourself up because you couldn't make the mountain beg for mercy! ?????"
 
 
 ?????
