@@ -80,9 +80,21 @@ Yali smiled despite herself. "How very Waiting of you," she said.
 
 [????? Summary language of Yali taking care of Rinn for hours or up to a day]
 
-[????? Yali serves Rinn some food]
+[????? I got hungry]
 
-It looked delicious. "Hang on, what do I eat this with?"
+"Do we get room service?" I said.
+
+Yali pulled a fistful of cash out of her pocket.
+
+"Nice," I said.
+
+Yali counted through the bills absentmindedly. "It's not enough for overpriced things like room service, though," she muttered. "I need to make this last until we take a taxi home. They might have frozen my account when I went missing, and if I try to use it, the monks might get notified… I mean, they'll find out I'm back eventually, I just want some time to adjust… Anyway, I know the stores around here. I'll go get something. If you're okay on your own…" Yali examined me again, then checked a few things on the internet [???? Check consistent capitalization of Internet]. Eventually, she was satisfied that I wouldn't die if she left me alone for a few minutes. She didn't let me come with her, though. She made me stay at the hotel and rest.
+
+Before long, she got back with some prepackaged meals in a bag. They weren't anything special, but the way I was feeling, they all looked delicious. Yali set them down on the table and started carefully getting one ready. Normally I would have ripped into it as soon as it wasn't frozen, but my head was still a <em>little</em> fuzzy, so I let Yali do with her way, checking it every thirty seconds as it heated up in the microwave.
+
+At long last, she set it down in front of me.
+
+"Hang on, what do I eat this with?" I said.
 
 "I think it came with a plastic fork…" Yali fiddled with the packaging.
 
@@ -94,17 +106,17 @@ I held up the fork and we both stared at it.
 
 "Uh…" I said, belatedly realizing what I'd done. "I thought… um… there's no way we're still in the Otherworld, is there?!"
 
-"No…" Yali took the fork and snapped it in half with her fingers. I didn't feel anything through the fork, either. "Manifested matter is weak here, even if you're a god. But, but, you know what this means?!" she said ?????excitedly.
+"No…" Yali took the fork and snapped it in half with her fingers. I didn't feel anything through the fork, either. "Manifested matter is weak here, even if you're a god. But, but, you know what this means?!" she said loudly.
 
 "No, I don't, I'm, like, <em>completely</em> bamboozled."
 
 "It means that when the Blood God rejuvenated, when it took some of your threads – it <em>left the threads for summoning Blood Blades with you.</em> It thinks it doesn't need them anymore!"
 
-"That's… wow." I said. "But, like, what if it <em>does</em> need them? I mean, we won <em>this</em> year, but…"
+"That's… wow." I said. "But, like, what if it <em>does</em> need them? I mean, did we really stop the…"
 
 "Let's, let's, let's talk about that <em>after</em> you've eaten."
 
-"Works for me." I made another fork and ripped into my food. ?????
+"Works for me." I made another fork and ripped into my food. ????
 
 <bigbreak>
 
@@ -154,9 +166,11 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 ?????
 
+[????? Is this the place for the "power of love" stuff?]
+
 <bigbreak>
 
-?????
+[????? more summary language until they take a taxi home; Rinn and Yali flop on the couch and cuddle, Yali ruffles Rinn's hair]
 
 "I'm very grateful that you didn't, didn't let me… In the Broken God's world, when I was…"
 
@@ -282,7 +296,7 @@ I gaped at her.
 
 "What –"
 
-Yali's face scrunched up again, sobbing uncontrollably. Shit! Had I fucked up again?? I squeezed my arms around her shoulders, but she didn't react at all. I felt like I had been locked out. I just hung onto her while she shook, overcome with wave after wave of new tears. When ?????, ?????. When she began sniffling, I offered my sleeve for her to blow her nose in.
+Yali's face scrunched up again, sobbing uncontrollably. Shit! Had I fucked up again?? I squeezed my arms around her shoulders, but she didn't react at all. I felt like I had been locked out. I just hung onto her while she shook, overcome with wave after wave of new tears. When ?????, ?????. When she started sniffling, I offered my sleeve for her to blow her nose in.
 
 Finally, looking down, she blubbered, "How do you know what to say, when, when, when <em>you</em> feel bad? You always have something to say… How do you do it…?"
 
