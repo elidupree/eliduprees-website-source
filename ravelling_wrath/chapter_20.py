@@ -133,7 +133,7 @@ I let them ?????relax for a little while, then added, "We can also exchange phon
 
 [????? Alchemist physicality] "I, didn't, have my phone, on me, when…"
 
-In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they might not remember it. And if <em>they</em> told me <em>their</em> number, they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. Eye won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
+In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they might not remember it. And if <em>they</em> told me <em>their</em> number, they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. I won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
 
 Alchemist nodded. They manifested their phone, and thumbed through it to find where it would show their number. "If I could, also, give this to, Morrow, and, Rinn…"
 

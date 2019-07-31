@@ -34,7 +34,7 @@ I tried to sit up again. A heavy hand pushed me down. "Shhhhh. Shhhhh. It'll be 
 
 "Yaaaaaallllllleeeeeeeehhhhhhhh," I moaned with relief.
 
-"Shhhhh. The potion I gave you is still in effect. You're probably not in shape to stand yet. Even if the healing is completely finished, the effects on your soul are, are, are, you might not be fully conscious yet, so your control over your body might not be complete. It's better to relax while…" Yali kept explaining the details for a while, but it all turned to fuzz when it went into my ears.
+"Shhhhh. The potion I gave you is still in effect. You're probably not in good enough shape to stand yet. Even if the healing is completely finished, the effects on your soul are, are, are, you might not be fully conscious yet, so your control over your body might not be complete. It's better to relax while…" Yali kept explaining the details for a while, but it all turned to fuzz when it went into my ears.
 
 When she paused for breath, I forced out the words, "Yeeeeaaaaaahhhhhhhh, but, I need to <em>peeeeee</em>."
 
