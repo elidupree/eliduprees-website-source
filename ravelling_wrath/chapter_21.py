@@ -218,13 +218,13 @@ Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
 
 It wasn't a long time before I got to see [????? what Yali's trauma looked like] for myself.
 
-One morning I woke up early and noticed that she wasn't in bed. She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall and crying.
+One morning I woke up early and noticed that she wasn't in bed. [????? Establish that they started sleeping in the same bed] She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall and crying.
 
 "Hey, anything I can help with?" I said, trying to sound gentle. She didn't react.
 
 I knelt down next to her and reached out to her. I picked up her hands in mine and gently squeezed. She weakly squeezed back.
 
-"I'm here," I said. "Let's [????? get you somewhere more comfortable?]
+"I'm here," I said. "Come on, let's go somewhere more comfortable?"
 
 She didn't answer. Not sure what to do, I just stayed with her and kept holding her hands. Time passed. I couldn't tell if I was helping. But I loved holding her big soft hands, I could keep sitting here forever. But knowing she was feeling like this was breaking my heart.
 
@@ -264,7 +264,7 @@ Yali stared at me blankly.
 
 Yali waved her hand for me to be quiet.
 
-"Okay, at least [????? let's get you somewhere more comfortable?]"
+"Okay, at least let's go somewhere more comfortable?"
 
 Yali allowed me to give her a hand up. I was probably completely useless – she was way heavier than I could lift. But she stood up and let me lead her to the couch. Once we'd both sat down, I put my arms around her shoulders and tried to pull her to lean into me, but she just leaned straight back and stared past me into space.
 
@@ -310,7 +310,7 @@ I wanted to help, but I wasn't sure how. "I mean, I don't know, I just say what 
 
 <bigbreak>
 
-Yali sat there for a long time. ????? Slow and heavy breathing. Her tears dried up, but her eyes were still puffy and reddish.
+Yali sat there for a long time. I kept cuddling up to her, feeling her slow and heavy breathing through my body. Her tears dried up, but her eyes were still puffy and reddish.
 
 The sun slowly rose, filtering through the blinds. The light made me realize what time it was and how long we'd been just sitting there. I offered to bring Yali some breakfast, but she just patted my hand and got up to get it herself. I followed her as she plodded around the kitchen, gathering up a meal for both of us. I was kinda hungry myself and I wanted to jump ahead, but this was the time for me to take care of Yali. I stayed back and let her go through her process.
 
@@ -328,7 +328,7 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 "But your feelings <em>always</em> mat–"
 
-"I know. I know." Yali [????? held up her hands to tell me she gets it and I should be quiet]. "And now… I think I'm a little more Blood. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now, too."
+"I know. I know." Yali waved for me to be quiet. "And now… I think I'm a little more Blood. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now, too."
 
 
 [????? Where in this chapter?:]
