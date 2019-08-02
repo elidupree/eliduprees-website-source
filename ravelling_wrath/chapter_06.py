@@ -70,9 +70,9 @@ I couldn't even see anything else over the edges of the platform. I carefully kn
 
 Yali patted the platform under us.
 
-"We're standing on top of a <em>star</em>?!"
+"We're standing on top of a <em>star</em>?!" I poked the glowing platform with my foot. "I thought a star was a giant burning ball of –"
 
-"<em>Every</em> star you see up there is a disk just like this one. That's what we're going to be navigating across."
+"Regular stars are. But the 'stars' in this world are different. <em>Every</em> star you see up there is a disk just like this one. That's what we're going to be navigating across."
 
 "Navigating the stars? Do we get, like, a rocket ship?"
 
