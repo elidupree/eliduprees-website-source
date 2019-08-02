@@ -138,7 +138,7 @@ Yali hesitated. "It should be. I should be happy that we both got out alive and 
 
 "But…?"
 
-Yali's eyes moved slowly, staring at the table. "I just wish I knew if it worked. If, if, the Waiting God is even thinking anything different, because of what I did. But I guess we won't really know until next year's Ravelling. I can't remember anything after I went into the final portal and the god started taking me apart."
+Yali's eyes moved slowly, staring at the table. "I just wish I knew if it worked. If, if, the Waiting God is even thinking anything different, because of what I did. But I guess we won't really know until next year's Ravelling. I don't remember anything after I went into the final portal and the god started taking me apart."
 
 ????
 
@@ -162,15 +162,37 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 "What? You can't just say 'Are you kidding me?' all the time, I literally don't know what you're –"
 
-"How can you just sit there like you didn't just do the most amazing thing anyone's ever done?! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're beating yourself up because you couldn't make the mountain beg for mercy! ?????"
+"How can you just sit there like you didn't just do the most amazing thing anyone's ever done?! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're beating yourself up because you couldn't make the mountain beg for mercy! That's – that's like – "
+
+"I just don't know if it was enough."
+
+"It was more than anyone could <em>possibly</em> have expected!"
+
+"That doesn't mean it was enough." Yali stood at the window and stared out, looking over the Waiting Temple and all the old-fashioned buildings arrayed around it. "What people expect from you, and what's enough… they're nothing close to each other. What do people expect from a kid who's being abused by their parents? Maybe to tell a trusted adult?" She grinned viciously.
+
+"Oh gods."
+
+"I'm sure some of the people out there still hate me because I spoiled their fun, because they can't go to the ????s' parties anymore. They all just want to pretend that everything is fine. Like if you just go to school and do what you're supposed to, and then get a job and do what you're supposed to, and maybe give to charity a little, then you've done enough, and everything will be fine. But it's not fine. It won't be fine. And they don't even want to <em>imagine</em> what it would take to fix everything. ?????"
 
 ?????
+ 
+Yali took a breath. She turned and came back to sit with me. "I don't want to get upset right now. But if there's one thing the Waiting God was right about, it's that humanity needs to change.
 
 [????? Is this the place for the "power of love" stuff?]
 
 <bigbreak>
 
-[????? more summary language until they take a taxi home; Rinn and Yali flop on the couch and cuddle, Yali ruffles Rinn's hair]
+[????? more summary language until they take a taxi home]
+
+I flung open the door, then ran and flopped on the couch. I leaned back luxuriantly, pressing my neck into the soft cushions. "Ahhhhh… I've sure missed hanging out in the best house in the world."
+
+Yali closed the door quietly behind her. "What makes this the best –"
+
+"Because <em>you</em> live here, obviously. C'mere."
+
+Yali lowered herself onto the couch next to me. She leaned in, putting her big arms around me. I basked in her warmth, closing my eyes as she ruffled my hair.
+
+?????
 
 "I'm very grateful that you didn't, didn't let me… In the Broken God's world, when I was…"
 
