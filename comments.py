@@ -1599,5 +1599,12 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"3eb0e7b98438907ff7382f8123057a8e",
   "date_posted":datetime.date(2019, 7, 26)
 },
+{
+  "parent":"3eb0e7b98438907ff7382f8123057a8e",
+  "username":"Eli Dupree",
+  "contents":"""I'm glad to hear from you! Things are actually going pretty great for me – sometime I should get around to making a proper update about what I've been up to, but that's for another day.<br/><br/>I should totally edit that initial bit to be more clear! Where it's currently:<br/><br/><blockquote><br/>"We're standing on top of a <em>star</em>?!"<br/><br/>"<em>Every</em> star you see up there is a disk just like this one. That's what we're going to be navigating across."<br/></blockquote><br/><br/>I'm thinking I'll change it to:<br/><br/><blockquote><br/>"We're standing on top of a <em>star</em>?!" I poked the glowing platform with my foot. "I thought a star was a giant burning ball of –"<br/><br/>"Regular stars are. But the stars in this world are different. <em>Every</em> star you see up there is a disk just like this one. That's what we're going to be navigating across."<br/></blockquote><br/><br/>For the bricks/sand thing, the Waiting God would definitely see that as a successful act of planning! I can see how you might think of it as "once Rinn sets it up, ze doesn't have to plan anymore" – but the full trajectory of a plan includes the time when you are successfully benefiting from achieving the goal.<br/><br/>I <em>think</em> the only time anyone calls the god just "Stern" rather than "the Stern" is in the phrase "Stern take it", which is a shortening of "May the Stern God take it", the way almost all common expressions get shortened over time. Most of the gods are either "the X God" or "the X". The main exception is the Blood God, which is either "the Blood God" or just "Blood" (we haven't seen this yet, but it shows up later in the story) because it's the only one where the X is a noun rather than an adjective/gerundive. Oh, and you can use any of the Xs alone as an adjective to describe something as being <em>like</em> the X God (e.g. "That's such a Seeking way to think about things").""",
+  "id":"32ea2d0d7a6fa21abe4936771550ebb8",
+  "date_posted":datetime.date(2019, 7, 26)
+},
 
 ]
