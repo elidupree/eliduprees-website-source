@@ -172,11 +172,15 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 "Oh gods."
 
-"I'm sure some of the people out there still hate me because I spoiled their fun, because they can't go to the ????s' parties anymore. They all just want to pretend that everything is fine. Like if you just go to school and do what you're supposed to, and then get a job and do what you're supposed to, and maybe give to charity a little, then you've done enough, and everything will be fine. But it's not fine. It won't be fine. And they don't even want to <em>imagine</em> what it would take to fix everything. ?????"
+"I'm sure some of the people out there still hate me because I spoiled their fun, because they can't go to the ????s' parties anymore. They all just want to pretend that everything is fine. Like if you just go to school and do what you're supposed to, and then get a job and do what you're supposed to, and maybe give to charity a little, then you've done enough, and everything will be fine. But it's not fine. It won't be fine. And they don't even want to <em>imagine</em> what it would take to fix everything. So if I don't do it, no one else will do it for me. So no, I can't afford to say I've done enough just because I did something no one else did. If I'm the only one doing it, I have to do it perfectly, because if <em>I</em> make a mistake, there won't be a second chance to get it right."
+
+"That's dark," I said.
+
+"That's the truth. And you can say you don't like the truth, you can try to change it, but –" Yali took a breath. [????? lowering energy level physicality] "I don't need to lecture <em>you</em> about this. <em>You</em> get it. [????? Maybe: you always fight for what you believe in even when society doesn't expect you to]
 
 ?????
- 
-Yali took a breath. She turned and came back to sit with me. "I don't want to get upset right now. But if there's one thing the Waiting God was right about, it's that humanity needs to change.
+
+She turned and came back to sit with me. "I don't want to get upset right now. [????? Maybe the world will be better someday – call back to the caretaker]… If there's one thing the Waiting God was right about, it's that humanity needs to change.
 
 [????? Is this the place for the "power of love" stuff?]
 
