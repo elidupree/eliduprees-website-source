@@ -182,7 +182,7 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 She turned and came back to sit with me. "I don't want to get upset right now. [????? Maybe the world will be better someday – call back to the caretaker]… If there's one thing the Waiting God was right about, it's that humanity needs to change.
 
-[????? Is this the place for the "power of love" stuff?]
+[????? Is this the place for the "power of love" stuff? Maybe Rinn turns it into "we can do bad ass things where we ignore social expectations TOGETHER!"]
 
 <bigbreak>
 
