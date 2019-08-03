@@ -17,8 +17,6 @@ posts = [
   ''',
   "head":head,
   "contents": chapter_start ("Chapter 20: ", '''<p></p>''') +'''
-  
-[????? important concepts for this chapter: Blood policies have flaws but the capitalist replacement is even more destructive; technology could be used for good if Blood and Waiting worked together]
 
 It was time to move forward with my <em>other</em> plan.
 
@@ -40,6 +38,24 @@ Somehow, the Waiting God was making things more difficult. It wasn't actively re
 Something about this made me hesitate. If the Waiting God didn't want me to see these memories, why wouldn't it remove them entirely, the way it had entirely left out the early Farseers who had murdered Blood Children on purpose? But on second thought, it made sense. Its highest priority would have been to keep me from noticing that anything was out of the ordinary. Missing memories could have created inconsistencies that I could notice. But just <em>not thinking of something</em> wouldn't raise any suspicion. And it was just like the Waiting God to do things this way, to use the smallest intervention necessary to accomplish its goals. Guidance rather than force.
 
 I kept searching. Many of the Farseers had only known of the Blood Temple from a distance. A few were more promising. I recalled passing through this gateway as a childcare worker for the Temple, ?????. I recalled passing through this gateway as a farmer coming to stand in prayer for the health of my livestock. I recalled passing through this gateway as a lawyer, coming to argue a case in Blood court.  [????? Other examples]
+
+
+[????? Notes:
+
+important concepts for this chapter: Blood policies have flaws but the capitalist replacement is even more destructive; technology could be used for good if Blood and Waiting worked together
+
+Yali taking notes on her phone (maybe use paragraph I already wrote below)
+
+Maybe main plot thread is caretaker's "maybe there will be a better world someday"?
+
+Waiting God connection restored, bits of its thoughts, some of them contradictory, like approving of the caretaker's dream for a better world
+
+Have to include enough details of the mechanics of the fall of the Blood Temple (via both memories) – "blood Temple banned the company; that arguably violated Concord of Temples rules so the Stern were putatively allowed to protect company operations; Blood higher-ups arrested, some of those that remain jockey for position illegitimately, encouraged by the Stern, and undermine public trust in the blood Temple as a whole; Concord of Temples withdraws recognition and reassigns bottom two layers; Stern Temple seizes, repurposes or demolishes Blood temples, bans Blood worship and burns Blood books
+
+]
+
+
+
 
 I decided to investigate the lawyer first. The first thing I felt was his frustration and contempt for the Blood legal system. [????? Shouldn't there be examples of specific memories here?] In Stern court, you only needed to prove, to the satisfaction of the court, that a defendant had violated the law. I – the lawyer – had done that many times. There were many restrictions on the arguments you could make and the evidence you could present, to prevent unjust convictions, but if you studied the law, as I had, you could rely on them to obey consistent rules.
 

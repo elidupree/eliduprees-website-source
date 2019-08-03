@@ -168,7 +168,7 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 "It was more than anyone could <em>possibly</em> have expected!"
 
-"That doesn't mean it was enough." Yali stood at the window and stared out, looking over the Waiting Temple and all the old-fashioned buildings arrayed around it. "What people expect from you, and what's enough… they're nothing close to each other. What do people expect from a kid who's being abused by their parents? Maybe to tell a trusted adult?" She grinned viciously.
+"That doesn't mean it was enough." Yali stood at the window and stared out, looking over the Waiting Temple and all the old-fashioned buildings arrayed around it. "What people expect from you, and what's enough… they're nothing close to each other. What's the best that people expect from a kid who's being abused by their parents? Maybe to tell a trusted adult?" She grinned viciously.
 
 "Oh gods."
 
@@ -176,14 +176,29 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 "That's dark," I said.
 
-"That's the truth. And you can say you don't like the truth, you can try to change it, but –" Yali took a breath. [????? lowering energy level physicality] "I don't need to lecture <em>you</em> about this. <em>You</em> get it. [????? Maybe: you always fight for what you believe in even when society doesn't expect you to]
+"That's the truth. And you can say you don't like the truth, you can try to change it, but you can't just –" Yali took a breath, then slowly exhaled, turning back from away the window towards me. "Sorry. I don't need to lecture <em>you</em> about this. <em>You</em> get it. Whenever <em>you</em> see a problem, you're like, 'I'm going to put a stop to this right now, and I don't care what anyone else thinks'."
+
+"Fuck yeah," I said. It came out a little weaker than I intended it. Guess I still wasn't recovered all the way yet.
+
+Yali padded over and sat down next to me. Somberly, she said, "If there's one thing the Waiting God was right about, it's that humanity needs to change. But maybe, with people like you and me… [????? Maybe the world will be better someday – callback to the caretaker]"
+
+I held her hand, intertwining my fingers with hers. "?????. Think about it, we already changed the world once! [????? Description of their actions in terms of loving/caring for each other] It'll be, like, 'here comes Yalkatura – changing the world with the power of love!'"
+
+Yali smiled. "[????? Maybe not quite that slogan though]"
+
+"What's wrong with the power of love? I figured you'd like that better than [????? 'shut up or we'll kick your ass'] –"
+
+Yali smirked. "[????? 'Shut up or we'll kick your ass'] does have a certain appeal… But no. I just wouldn't want to imply that love is everything, or even the majority, of what gave us the power to stand against the gods. I meant what I said to Alchemist, I wasn't just trying to scare them. If you hide from the truth, if you don't have a plan, love will do nothing for you. Our love was very important, it was part of why we succeeded, but it wasn't the only part. We also had a plan for how to take that love and –"
+
+"– and make it have meaning," I finished.
+
+"- and use it to make sure we got the outcome we wanted," finished Yali. She gave me a sidelong look. "I guess you said it the Blood way."
 
 ?????
 
-She turned and came back to sit with me. "I don't want to get upset right now. [????? Maybe the world will be better someday – call back to the caretaker]… If there's one thing the Waiting God was right about, it's that humanity needs to change.
+[????? "And like…" [????? Yali physicality] "Love is never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands.
 
-[????? Is this the place for the "power of love" stuff? Maybe Rinn turns it into "we can do bad ass things where we ignore social expectations TOGETHER!"]
-
+[????? "You can't help [someone who's hurting people, Morrow] unless you have power over them – maybe Rinn adds this, because it's more Blood]
 <bigbreak>
 
 [????? more summary language until they take a taxi home]
@@ -234,11 +249,13 @@ I was completely blown away. I probably would have literally fallen down if I wa
 
 Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
 
-"And more importantly, how do you even become a – <em>there isn't even a Blood Temple!!</em>"
+"Wh– Wha– And more importantly, how do you even become a – <em>there isn't even a Blood Temple!!</em>"
 
 "That's just the thing, though, isn't it? The Blood God has rejuvenated. And now some of us here in the material world will need to recreate the Blood Temple. And, I'm not asking you to decide on anything right now, but you… you're the one who knows the Blood God inside and out. The only person alive who does."
 
 ?????
+
+[????? "Yeah maybe I will become the blood priest, but I've gotta take a nap for like a month before I can think about it"; mutual understanding about that, maybe Yali "yeah I've got all these notes and I don't know if I want to look at them this week"]
 
 <bigbreak>
 
@@ -357,21 +374,6 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 "I know. I know." Yali waved for me to be quiet. "And now… I think I'm a little more Blood. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now, too."
 
 
-[????? Where in this chapter?:]
-
-[????? Rinn implies something like "we changed the world because of the power of love"]
-
-"I meant what I said to Alchemist. I wasn't just trying to scare them. If you hide from the truth, if you don't have a plan, love will do nothing for you. Our love was very important, it was part of why we succeeded, but it wasn't the only part. We also had a plan for how to take that love and –"
-
-"– and make it have meaning," I finished.
-
-"- and use it to make sure we got the outcome we wanted," finished Yali. [????? Yali physicality] "I guess you said it the Blood way."
-
-?????
-
-[????? "And like…" [????? Yali physicality] "Love's never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands.
-
-[????? "You can't help [someone who's hurting people, Morrow] unless you have power over them – maybe Rinn adds this, because it's more Blood]
 
 [????? Somewhere: none of the gods is entirely good or entirely bad. They're also not a completed idea, so you have to take the parts you like and make something better]
 
