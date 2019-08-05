@@ -80,7 +80,9 @@ Yali smiled despite herself. "How very Waiting of you," she said.
 
 [????? Summary language of Yali taking care of Rinn for hours or up to a day]
 
-[????? I got hungry]
+????? an uncomfortable feeling in my stomach. At first, I couldn't figure out what it was. Then I laughed. "Oh my gods, I forgot what it feels like to be hungry!"
+
+"I'll get something for you to eat," said Yali. "And for me, I mean, I took you straight here and I haven't eaten since, so I should probably get something…" She looked around, patting her pockets.
 
 "Do we get room service?" I said.
 
@@ -88,7 +90,7 @@ Yali pulled a fistful of cash out of her pocket.
 
 "Nice," I said.
 
-Yali counted through the bills absentmindedly. "It's not enough for overpriced things like room service, though," she muttered. "I need to make this last until we take a taxi home. They might have frozen my account when I went missing, and if I try to use it, the monks might get notified… I mean, they'll find out I'm back eventually, I just want some time to adjust… Anyway, I know the stores around here. I'll go get something. If you're okay on your own…" Yali examined me again, then checked a few things on the internet [???? Check consistent capitalization of Internet]. Eventually, she was satisfied that I wouldn't die if she left me alone for a few minutes. She didn't let me come with her, though. She made me stay at the hotel and rest.
+Yali counted through the bills absentmindedly. "It's not enough for overpriced things like room service, though," she muttered. "I need to make this last until we take a taxi home. They might have frozen my account when I went missing, and if I try to use it, the monks might get notified… I mean, they'll find out I'm back eventually, I just want some time to adjust… Anyway, I know the stores around here. I'll go get something. If you're okay on your own…" Yali examined me again, then checked a few things about magical healing on the internet [???? Check consistent capitalization of Internet]. Eventually, she was satisfied that I wouldn't die if she left me alone for a few minutes. She didn't let me come with her, though. She made me stay at the hotel and rest.
 
 Before long, she got back with some prepackaged meals in a bag. They weren't anything special, but the way I was feeling, they all looked delicious. Yali set them down on the table and started carefully getting one ready. Normally I would have ripped into it as soon as it wasn't frozen, but my head was still a <em>little</em> fuzzy, so I let Yali do with her way, checking it every thirty seconds as it heated up in the microwave.
 
@@ -184,7 +186,7 @@ Yali padded over and sat down next to me. Somberly, she said, "If there's one th
 
 I held her hand, intertwining my fingers with hers. "?????. Think about it, we already changed the world once! [????? Description of their actions in terms of loving/caring for each other] It'll be, like, 'here comes Yalkatura – changing the world with the power of love!'"
 
-Yali smiled. "[????? Maybe not quite that slogan though]"
+Yali smiled. "I like how optimistic you are. But I think we might need a different slogan."
 
 "What's wrong with the power of love? I figured you'd like that better than [????? 'shut up or we'll kick your ass'] –"
 
@@ -209,11 +211,11 @@ Yali closed the door quietly behind her. "What makes this the best –"
 
 "Because <em>you</em> live here, obviously. C'mere."
 
-Yali lowered herself onto the couch next to me. She leaned in, putting her big arms around me. I basked in her warmth, closing my eyes as she ruffled my hair.
+Yali lowered herself onto the couch next to me. She leaned in, putting her big arms around me. I basked in her warmth, closing my eyes as she ruffled my hair. Before long, I felt her gently nuzzling into me, slowly kissing the side of my neck. I let myself melt away into an endless, relaxed comfort. We had been through so much together. And now, we were home again. [????? See below]
 
 ?????
 
-"I'm very grateful that you didn't, didn't let me… In the Broken God's world, when I was…"
+"So, this is a small thing…" "But, I'm very grateful that you didn't, didn't let me… In the Broken God's world, when I was…"
 
 I was confused for a moment, then realized that she must be referring to when she had sort of come on to me sexually. "Of course!" I said, embarrassed. "I mean, there was obviously something wrong! If I'd have had sex with you in a situation like that, that would make me an asshole!" I didn't mention how close I had felt to just… letting things happen.
 
@@ -253,9 +255,21 @@ Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
 
 "That's just the thing, though, isn't it? The Blood God has rejuvenated. And now some of us here in the material world will need to recreate the Blood Temple. And, I'm not asking you to decide on anything right now, but you… you're the one who knows the Blood God inside and out. The only person alive who does."
 
+"You're actually serious. Oh gods, you're actually serious."
+
+"I am," she said.
+
+"Oh gods," I said, putting a hand to my forehead. "I know I was talking about changing the world, but… okay, it sounds awesome, but… gods, I need a nap. I need to take a nap for, like, a whole month, before I can even think about temple stuff."
+
+"That's fine. In fact… that's a relief, actually," said Yali.
+
+"Wait, how is it a relief to <em>you</em>?"
+
+Yali smiled wistfully. "Yeah, I've got all these notes… stuff I learned about the old Blood Temple when I was still in the Otherworld, stuff that might be useful if we ever want to build a new one. And I'm not sure if <em>I</em> want to look at those notes anytime this month, either. I mean, other than to email them to myself so I have a backup. And I already did that while you were still unconscious. Yeah. ?????
+
 ?????
 
-[????? "Yeah maybe I will become the blood priest, but I've gotta take a nap for like a month before I can think about it"; mutual understanding about that, maybe Yali "yeah I've got all these notes and I don't know if I want to look at them this week"]
+[????? Maybe: I pulled Yali back towards me, and [????? she indulged] [squishing me into the couch]. So many things in the future, but for now, we could just forget all that. And maybe move "we had been through so much together" down here?]
 
 <bigbreak>
 

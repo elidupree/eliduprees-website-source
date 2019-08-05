@@ -46,7 +46,7 @@ important concepts for this chapter: Blood policies have flaws but the capitalis
 
 Yali taking notes on her phone (maybe use paragraph I already wrote below)
 
-Maybe main plot thread is caretaker's "maybe there will be a better world someday"?
+Maybe main plot thread is caretaker's "maybe there will be a better world someday"? ("I liked teaching children about the Blood ways much better than I liked dealing with Temple politics – it lets me feel like someday people will actually live by these principles")
 
 Waiting God connection restored, bits of its thoughts, some of them contradictory, like approving of the caretaker's dream for a better world
 
