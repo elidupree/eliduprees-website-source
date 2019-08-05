@@ -211,11 +211,11 @@ Yali closed the door quietly behind her. "What makes this the best –"
 
 "Because <em>you</em> live here, obviously. C'mere."
 
-Yali lowered herself onto the couch next to me. She leaned in, putting her big arms around me. I basked in her warmth, closing my eyes as she ruffled my hair. Before long, I felt her gently nuzzling into me, slowly kissing the side of my neck. I let myself melt away into an endless, relaxed comfort. We had been through so much together. And now, we were home again. [????? See below]
+Yali lowered herself onto the couch next to me. She leaned in, putting her big arms around me. I basked in her warmth, closing my eyes as she ruffled my hair. Before long, I felt her gently nuzzling into me, slowly kissing the side of my neck. I let myself melt away into an endless, relaxed comfort. We had been through so much together. And now, we were home again. [????? See below] [????? plant seeds of "the monks will visit" and "returning to family/school"]
 
-?????
+Time passed. After a while, Yali lay back, too. We both stared dreamily up at the ceiling together, with Yali softly holding my hands in hers.
 
-"So, this is a small thing…" "But, I'm very grateful that you didn't, didn't let me… In the Broken God's world, when I was…"
+"So, this is a small thing…" Yali said quietly, stroking my hand. "But, I'm very grateful that you didn't, didn't let me… In the Broken God's world, when I was…"
 
 I was confused for a moment, then realized that she must be referring to when she had sort of come on to me sexually. "Of course!" I said, embarrassed. "I mean, there was obviously something wrong! If I'd have had sex with you in a situation like that, that would make me an asshole!" I didn't mention how close I had felt to just… letting things happen.
 
@@ -353,7 +353,7 @@ I gaped at her.
 
 "What –"
 
-Yali's face scrunched up again, sobbing uncontrollably. Shit! Had I fucked up again?? I squeezed my arms around her shoulders, but she didn't react at all. I felt like I had been locked out. I just hung onto her while she shook, overcome with wave after wave of new tears. When ?????, ?????. When she started sniffling, I offered my sleeve for her to blow her nose in.
+Yali's face scrunched up again, sobbing uncontrollably. Shit! Had I fucked up again?? I squeezed my arms around her shoulders, but she didn't react at all. I felt like I had been locked out. I just hung onto her while she shook, overcome with wave after wave of new tears. When she tried to sit up and lost her balance, I let her brace herself on my arm. When she started sniffling, I offered my sleeve for her to blow her nose in.
 
 Finally, looking down, she blubbered, "How do you know what to say, when, when, when <em>you</em> feel bad? You always have something to say… How do you do it…?"
 
