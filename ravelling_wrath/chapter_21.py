@@ -391,6 +391,9 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 [????? Somewhere: none of the gods is entirely good or entirely bad. They're also not a completed idea, so you have to take the parts you like and make something better]
 
+
+[????? "this will be an emotional struggle, but we are up to handling it" "finally we've got a chance to be just Rinn and Yali for a while"]
+
 ''',
 },
 ]

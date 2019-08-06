@@ -48,6 +48,19 @@ Yali taking notes on her phone (maybe use paragraph I already wrote below)
 
 Maybe main plot thread is caretaker's "maybe there will be a better world someday"? ("I liked teaching children about the Blood ways much better than I liked dealing with Temple politics – it lets me feel like someday people will actually live by these principles")
 
+Yali doesn't want to engage with the caretaker's nice memories because she has anxiety about children being cared for instead of handling things on their own; the memories keep leading back to a nice memory and she's like "what's so important about this?"
+
+Main plot thread is that Yali needs something she's confident in that the Waiting God isn't confident at denying, but she doesn't have something like that; at first Yali can only think of things where she can see both sides and can't 100% say the Blood God's way is right, but finally the caretaker's dream of a world where children are cared for is something she can (with emotional struggle) finally admit is 100% right, but the Waiting God feels contradictory things about
+
+Yali switches lawyer->caretaker when the lawyer is being annoying and irrelevant, caretaker->lawyer because it's harder for Yali to work with the caretaker's memories because he's more Broken and less Stern "well this is nice, let me see where it goes" vs "This Is How Things Are Logically"
+
+so
+"I need to find a confident thing" "how did the blood temple fall"
+lawyer section
+"Ugh, well, the caretaker also remembers the fall", caretaker section where Yali doesn't listen well because she's still thinking about blood temple policy rather than caretaking
+...
+Yali realizes that caretaking is as important as policy
+
 Waiting God connection restored, bits of its thoughts, some of them contradictory, like approving of the caretaker's dream for a better world
 
 Have to include enough details of the mechanics of the fall of the Blood Temple (via both memories) – "blood Temple banned the company; that arguably violated Concord of Temples rules so the Stern were putatively allowed to protect company operations; Blood higher-ups arrested, some of those that remain jockey for position illegitimately, encouraged by the Stern, and undermine public trust in the blood Temple as a whole; Concord of Temples withdraws recognition and reassigns bottom two layers; Stern Temple seizes, repurposes or demolishes Blood temples, bans Blood worship and burns Blood books
