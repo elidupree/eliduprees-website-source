@@ -387,12 +387,29 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 "I know. I know." Yali waved for me to be quiet. "And now… I think I'm a little more Blood. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now, too."
 
+Watching Yali try to make sense of her feelings… it was tearing at my heart. It was such a simple thing, something I had known how to do since before I could walk, something that Yali was still trying to learn. Tears welled up in my eyes. Everything had been so hard for her. ????? The gods ?????
+
+Yali noticed my tears. "You okay there?" she said distractedly.
+
+"<em>I'm</em> fine…" I halfheartedly wiped away a tear. "You just got me thinking about the gods. Why did they have to be like this? They could have just all worked together, and then none of this would have happened. We could have just been… Rinn and Yali." I swallowed. "You know how when you're a kid and they're teaching you about the gods, it's always, 'the five gods watch over the city', like they're all out there together, all being wise together, except maybe the Blood God – and now we know even the Blood God was <em>supposed</em> to be good. It's like they're all supposed to be some sort of… <em>ideal</em>, but then the real thing is so much more ?????flawed. Like the Blood God is supposed to love and protect everyone, but it got twisted into desperation and revenge. And the Seeking God is exciting and creative, but it doesn't care if it has to walk over everyone just to see what happens. And –"
+
+"And the Waiting ?????
+
+"I just wish [????? something like: we could go back to the true form of the gods]
+
+????? Yali not thinking there's any true form of the gods – people want there to be an ideal – maybe they teach children what they want to be true [????? When I was the Waiting God, I saw lots of history] the gods aren't always the same, they shift and change with the times, but I don't think they've ever been a perfect ideal. None of them is entirely good are entirely bad. They're more like, like… like a half-formed idea, like something that's left for us humans to interpret. So if we want [????? the gods to be ideal]… it's up to us to finish that idea ?????
 
 
 [????? Somewhere: none of the gods is entirely good or entirely bad. They're also not a completed idea, so you have to take the parts you like and make something better]
 
 
 [????? "this will be an emotional struggle, but we are up to handling it" "finally we've got a chance to be just Rinn and Yali for a while"]
+
+[????? Maybe: "But… we don't have to fix the gods <em>today</em>." Yali's expression softened into a half-smile. "]
+
+[????? If Yali says: "just be Rinn and Yali for a while": she put her hands on my shoulders. "How would you like that?" she murmured.
+
+[I melted into the hands on the shoulders] "I'd like that more than anything."]
 
 ''',
 },

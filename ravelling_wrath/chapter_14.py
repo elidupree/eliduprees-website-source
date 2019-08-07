@@ -120,7 +120,7 @@ When the Blood Blades broke, <em>I</em> broke. The little strength I had left dr
 
 Justicar stood over me and raised her sword for a final time. A tiny part of me screamed that it was time to roll out of the way, but my body did not hear it. Not a muscle moved to take me out of her path.
 
-"In the name of the Stern, the Waiting, and every soul you place in danger," she declared. And then she plunged her sword into my unmoving chest.
+"By the Stern, the Waiting, and every soul you place in danger," she declared. And then she plunged her sword into my unmoving chest.
 
 The pain reached me as a distant echo. I watched, unfeeling, as my blood oozed from the edges of my wound. It was over… I didn't have to fight anymore…
 
