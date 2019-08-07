@@ -403,13 +403,29 @@ Yali noticed my tears. "You okay there?" she said distractedly.
 [????? Somewhere: none of the gods is entirely good or entirely bad. They're also not a completed idea, so you have to take the parts you like and make something better]
 
 
-[????? "this will be an emotional struggle, but we are up to handling it" "finally we've got a chance to be just Rinn and Yali for a while"]
+[????? "this will be an emotional struggle, but we are up to handling it" ("but it will be so hard to fill in the rest of the idea ourselves, hard to deal with the emotional fallout of everything that happened – but with everything we've been through [specific examples], I felt like we really could be confident that we could handle it") "finally we've got a chance to be just Rinn and Yali for a while"]
 
 [????? Maybe: "But… we don't have to fix the gods <em>today</em>." Yali's expression softened into a half-smile. "]
 
 [????? If Yali says: "just be Rinn and Yali for a while": she put her hands on my shoulders. "How would you like that?" she murmured.
 
 [I melted into the hands on the shoulders] "I'd like that more than anything."]
+
+<bigbreak>
+
+[????? Summary language: we had a nice time for a a while, then Yali decided to call the monks and get things sorted out and start going to school again. She decided to admit that she was the Farseer?
+
+<bigbreak>
+
+And at last, it was time for me to go home.
+
+[????? Saying goodbye] It felt so final, even though we were probably going to see each other at school the next day. ?????
+
+????? started the long run home.
+
+[????? My feet pounded on the street – callbacks to chapter 5]
+
+?????
 
 ''',
 },
