@@ -184,7 +184,7 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 Yali padded over and sat down next to me. Somberly, she said, "If there's one thing the Waiting God was right about, it's that humanity needs to change. But maybe, with people like you and me… [????? Maybe the world will be better someday – callback to the caretaker]"
 
-I held her hand, intertwining my fingers with hers. "?????. Think about it, we already changed the world once! [????? Description of their actions in terms of loving/caring for each other] It'll be, like, 'here comes Yalkatura – changing the world with the power of love!'"
+I held her hand, intertwining my fingers with hers. "[????? It totally will be.] Think about it, we already changed the world once! [????? Description of their actions in terms of loving/caring for each other] It'll be, like, 'here comes Yalkatura – changing the world with the power of love!'"
 
 Yali smiled. "I like how optimistic you are. But I think we might need a different slogan."
 
@@ -196,14 +196,27 @@ Yali smirked. "[????? 'Shut up or we'll kick your ass'] does have a certain appe
 
 "- and use it to make sure we got the outcome we wanted," finished Yali. She gave me a sidelong look. "I guess you said it the Blood way."
 
-?????
+"What's wrong with that?!"
 
-[????? "And like…" [????? Yali physicality] "Love is never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands.
+"Nothing's <em>wrong</em>, it's just, it's just, hard for me to get used to. This idea that your feelings have a meaning, instead of just… being feelings. I think maybe it's more of a <em>goal</em>, like you <em>want</em> your feelings to have a meaning, so you keep trying to think of them that way until you find a meaning that fits."
 
-[????? "You can't help [someone who's hurting people, Morrow] unless you have power over them – maybe Rinn adds this, because it's more Blood]
+That wasn't anything like how <em>I</em> thought about it, but I could tell Yali was trying to meet me in the middle. "Sure, let's go with that," I said.
+
+"[????? And the Blood God is all about that, and it's not all bad, I definitely learned something from it, in the Otherworld. But people are always… Well, actually, maybe I shouldn't blame the Blood God for this, maybe it's just people being people, and the Blood God would actually think it's unholy…"
+
+"Blame the Blood God for what?"
+
+"For when…] people say a feeling has a meaning that it really doesn't. Like –"
+
+"Oh yeah, like when people are like, 'I gotta protect my children, so that's why I called the cops on that homeless guy who was just minding his own business', they're definitely assholes, the Blood God would definitely say that's unholy –"
+
+"Do people really do that?" said Yali distractedly. "I guess I'm not surprised, people [????? do bad things that don't make sense all the time]. But I was actually thinking of when people are like, 'well, we love each other, so everything is going to work out', even when there are actually huge problems in their relationship. Like… Love is never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands.
+
+[????? "You can't help [someone who's hurting people, Morrow] unless you have power over them – maybe Rinn adds this, because it's more Blood. Maybe: "you're right," I said. "Fuckin' Morrow… I mean, I care about him, but ????? at some point, I had to be like, 'this is where I'm gonna stop you'. Or he would have just kept making things worse for everyone. [If the next section starts with Alchemist:] Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's real name, how are we gonna –" Yali gave a little smile. "Yeah, about that…" she said.]
+
 <bigbreak>
 
-[????? more summary language until they take a taxi home]
+[????? more summary language until they take a taxi home; is this where they contact Alchemist?]
 
 I flung open the door, then ran and flopped on the couch. I leaned back luxuriantly, pressing my neck into the soft cushions. "Ahhhhh… I've sure missed hanging out in the best house in the world."
 

@@ -65,6 +65,8 @@ Waiting God connection restored, bits of its thoughts, some of them contradictor
 
 Have to include enough details of the mechanics of the fall of the Blood Temple (via both memories) – "blood Temple banned the company; that arguably violated Concord of Temples rules so the Stern were putatively allowed to protect company operations; Blood higher-ups arrested, some of those that remain jockey for position illegitimately, encouraged by the Stern, and undermine public trust in the blood Temple as a whole; Concord of Temples withdraws recognition and reassigns bottom two layers; Stern Temple seizes, repurposes or demolishes Blood temples, bans Blood worship and burns Blood books
 
+Maybe the caretaker uses "praise the waiting"
+
 ]
 
 
