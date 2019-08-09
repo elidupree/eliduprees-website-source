@@ -78,19 +78,29 @@ Yali smiled despite herself. "How very Waiting of you," she said.
 
 <bigbreak>
 
-[????? Summary language of Yali taking care of Rinn for hours or up to a day]
+Yali kept taking care of me for the rest of the day, while my body slowly started working again. She constantly hovered over me, helping me balance and find comfortable places to sit. I was probably a real handful for her. I kept trying to get up and move around when I wasn't ready yet, then smacking into things and bruising myself. But I couldn't help it. Somehow, I was both half-asleep and incredibly restless at the same time.
 
-????? an uncomfortable feeling in my stomach. At first, I couldn't figure out what it was. Then I laughed. "Oh my gods, I forgot what it feels like to be hungry!"
+"And it <em>itches</em>," I complained. "It actually itches <em>inside</em> my arm, this is such bullshit –"
+
+Yali look something up on her phone. "It looks like that's a common symptom when people are getting better from magical healing… Yeah, it's nothing to worry about, it should be all better in four to eighteen hours –"
+
+"Haha, hope you're ready for another eighteen hours of Rinn!" I smacked the table for emphasis.
+
+Yali smiled. "I'm used to it."
+
+I spent the next few hours blabbering about anything that came into my head, just to pass the time while I wasn't allowed to move normally. Yali just kept smiling and nodding along. It was a big help to have her there to distract me from the itching, and the fuzziness in my head, and this uncomfortable feeling that had showed up in my stomach, and…
+
+At first, the feeling in my stomach was just another weird feeling along with the all the others. But when I realized what it was, I laughed out loud. "Oh my gods, I'm <em>hungry</em>! I actually forgot what it feels like to be <em>hungry</em>!"
 
 "I'll get something for you to eat," said Yali. "And for me, I mean, I took you straight here and I haven't eaten since, so I should probably get something…" She looked around, patting her pockets.
 
-"Do we get room service?" I said.
+"Do we get room service?" I laughed.
 
 Yali pulled a fistful of cash out of her pocket.
 
 "Nice," I said.
 
-Yali counted through the bills absentmindedly. "It's not enough for overpriced things like room service, though," she muttered. "I need to make this last until we take a taxi home. They might have frozen my account when I went missing, and if I try to use it, the monks might get notified… I mean, they'll find out I'm back eventually, I just want some time to adjust… Anyway, I know the stores around here. I'll go get something. If you're okay on your own…" Yali examined me again, then checked a few things about magical healing on the internet [???? Check consistent capitalization of Internet]. Eventually, she was satisfied that I wouldn't die if she left me alone for a few minutes. She didn't let me come with her, though. She made me stay at the hotel and rest.
+Yali counted through the bills absentmindedly. "It's not enough for overpriced things like room service, though," she muttered. "I need to make this last until we take a taxi home. They might have frozen my account when I went missing, and if I try to use it, the monks might get notified… I mean, they'll find out I'm back eventually, I just want some time to adjust… Anyway, I know the stores around here. I'll go get something. If you're okay on your own…" Yali examined me again, then checked a few more things about magical healing on the internet [???? Check consistent capitalization of Internet]. Eventually, she was satisfied that I wouldn't die if she left me alone for a few minutes. She didn't let me come with her, though. She made me stay at the hotel and rest.
 
 Before long, she got back with some prepackaged meals in a bag. They weren't anything special, but the way I was feeling, they all looked delicious. Yali set them down on the table and started carefully getting one ready. Normally I would have ripped into it as soon as it wasn't frozen, but my head was still a <em>little</em> fuzzy, so I let Yali do with her way, checking it every thirty seconds as it heated up in the microwave.
 
@@ -230,7 +240,7 @@ Time passed. After a while, Yali lay back, too. We both stared dreamily up at th
 
 "So, this is a small thing…" Yali said quietly, stroking my hand. "But, I'm very grateful that you didn't, didn't let me… In the Broken God's world, when I was…"
 
-I was confused for a moment, then realized that she must be referring to when she had sort of come on to me sexually. "Of course!" I said, embarrassed. "I mean, there was obviously something wrong! If I'd have had sex with you in a situation like that, that would make me an asshole!" I didn't mention how close I had felt to just… letting things happen.
+I was confused for a moment, then realized what she was talking about. It was about when she had sort of come on to me sexually. "Of course!" I said, embarrassed. "I mean, there was obviously something wrong! If I'd have had sex with you in a situation like that, that would make me an asshole!" I didn't mention how close I had felt to just… letting things happen.
 
 "Now, when we eventually do have sex, it can be something beautiful, instead of, instead of, desperate."
 
