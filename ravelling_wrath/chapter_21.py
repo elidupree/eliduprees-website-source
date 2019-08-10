@@ -228,7 +228,9 @@ That wasn't anything like how <em>I</em> thought about it, but I could tell Yali
 
 [????? more summary language until they take a taxi home; is this where they contact Alchemist?]
 
-I flung open the door, then ran and flopped on the couch. I leaned back luxuriantly, pressing my neck into the soft cushions. "Ahhhhh… I've sure missed hanging out in the best house in the world."
+Early the next morning, Yali pronounced me ready to travel, and called a taxi. She still insisted on helping me climb into my seat, but it was more of a "just in case" thing, not like I actually needed it.
+
+It was a long quiet ride to Yali's house, because we still couldn't go really talk about stuff in front of the driver. By the time we got there, I was super stiff, itching to move. As Yali finished paying our fare, I flung open the door, then ran and flopped on the couch. I leaned back luxuriantly, pressing my neck into the soft cushions. "Ahhhhh… I've sure missed hanging out in the best house in the world."
 
 Yali closed the door quietly behind her. "What makes this the best –"
 
