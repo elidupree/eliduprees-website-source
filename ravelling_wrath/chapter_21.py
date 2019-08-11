@@ -226,7 +226,35 @@ That wasn't anything like how <em>I</em> thought about it, but I could tell Yali
 
 <bigbreak>
 
-[????? more summary language until they take a taxi home; is this where they contact Alchemist?]
+<p class="text right"> Hey!! It's Rinn!! </p>
+<p class="text right"> back on earth and feeling great, <3 <3 <3 your healing magic haha</p>
+<p class="text right"> how are you doing?? Back with your folks I hope? </p>
+
+<p class="text right"> how is everyone? Did Niemah pass her exam?? [????? Set this up] </p>
+
+<p class="text right"> Oh and have you heard from Morrow? Gods I hope he's okay </p>
+<p class="text right"> and and and </p>
+<p class="text right"> sorry for all the questions haha </p>
+<p class="text right"> it's just I've got nothing to do because Yali is making me sit still so I don't overexert myself :-( </p>
+<p class="text right"> btw what should I call you now? Unless you want to stick with Alchemist but we have regular alchemists here it could be confusing </p>
+
+<div class="clear"></div>
+
+It took about twenty minutes before Alchemist texted me back. When they did, I was treated to a whole flood of emoji.
+
+"Oh thank gods, Morrow made it," I said.
+
+Yali peered over my shoulder. "How did you get that from… that?"
+
+I grinned and held up my phone for her to look better. "See, it's one line of emoji for each of my lines! Look, the A+ emoji matches up with my line about the exam, and –"
+
+I ended up texting back and forth with Alchemist off and on for the whole day. It turned out that they were way more talkative over text than they were face-to-face, it was great. [????? More/more confident text, and also lots of emoji and wholesome reaction gifs, which I understood perfectly and Yali didn't (I kept having to explain them to her?)]
+
+[????? Surprisingly Alchemist lived in the second layer/unfortunately it was on the other side of the city from me and Yali, so hard to visit, but I would eventually]
+
+[????? They even picked out a name for me to call them (should Yali call them the same name?)]
+
+<bigbreak>
 
 Early the next morning, Yali pronounced me ready to travel, and called a taxi. She still insisted on helping me climb into my seat, but it was more of a "just in case" thing, not like I actually needed it.
 
@@ -290,7 +318,7 @@ Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
 
 "Wait, how is it a relief to <em>you</em>?"
 
-Yali smiled wistfully. "Yeah, I've got all these notes… stuff I learned about the old Blood Temple when I was still in the Otherworld, stuff that might be useful if we ever want to build a new one. And I'm not sure if <em>I</em> want to look at those notes anytime this month, either. I mean, other than to email them to myself so I have a backup. And I already did that while you were still unconscious. Yeah. ?????
+Yali smiled wistfully. "I've got all these notes… stuff I learned about the old Blood Temple when I was still in the Otherworld, stuff that might be useful if we ever want to build a new one. And I'm not sure if <em>I</em> want to look at those notes anytime this month, either. I mean, other than to email them to myself so I have a backup. And I already did that while you were still unconscious. Yeah. ?????
 
 ?????
 
