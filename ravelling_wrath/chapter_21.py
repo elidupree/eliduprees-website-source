@@ -246,13 +246,15 @@ It took about twenty minutes before Alchemist texted me back. When they did, I w
 
 Yali peered over my shoulder. "How did you get that from… that?"
 
-I grinned and held up my phone for her to look better. "See, it's one line of emoji for each of my lines! Look, the A+ emoji matches up with my line about the exam, and –"
+I grinned and held up my phone for her to see better. "See, it's one line of emoji for each of my lines! Look, the A+ emoji matches up with my line about the exam, and –"
 
-I ended up texting back and forth with Alchemist off and on for the whole day. It turned out that they were way more talkative over text than they were face-to-face, it was great. [????? More/more confident text, and also lots of emoji and wholesome reaction gifs, which I understood perfectly and Yali didn't (I kept having to explain them to her?)]
+I ended up texting back and forth with Alchemist off and on for the whole day. It turned out that they were way more talkative over text than they were face-to-face, it was great. They mostly wrote in emoji and reaction gifs, and they kept having the perfect image for the situation, totally emotionally expressive and wholesome. It made me feel like Alchemist was right there in the room with me. Yali didn't always understand what they meant, but to me, the meaning was obvious. And even when Alchemist was writing actual text, they seemed more clear and confident than they had in the Otherworld. It was like they were back in their own element. I couldn't help being happy for them.
 
-[????? Surprisingly Alchemist lived in the second layer/unfortunately it was on the other side of the city from me and Yali, so hard to visit, but I would eventually]
+Unfortunately, I wouldn't get to <em>visit</em> Alchemist right away. They lived with their family in the second layer, but it was on the opposite side of the city from where me and Yali lived. I was definitely planning to meet their family someday, after I'd heard so much about them, but for now, it was pretty far out of the way.
 
-[????? They even picked out a name for me to call them (should Yali call them the same name?)]
+Alchemist even said they were going to pick out a new name for me to call them, but they'd need a while to think it over. They wanted it to be special, not just to use <em>Raylie</em>, the name Morrow called them, or <em>Heibe</em>, the name their family called them.
+
+Towards the end of the day, Alchemist told me that they'd invited Morrow to their place, and he was about to show up. I was eager to hear all about it, but I couldn't stop myself from sharing everything with Yali, and Yali absolutely did not want to hear live updates about Morrow. So Alchemist and I agreed to leave off until another day. But even as I put down my phone, I was just so happy that they were still going to be part of my life going forward, back here on earth. And just a text message away at that.
 
 <bigbreak>
 
@@ -328,7 +330,9 @@ Yali smiled wistfully. "I've got all these notes… stuff I learned about the ol
 
 It wasn't a long time before I got to see [????? what Yali's trauma looked like] for myself.
 
-One morning I woke up early and noticed that she wasn't in bed. [????? Establish that they started sleeping in the same bed] She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall and crying.
+[????? Establish that they started sleeping in the same bed] 
+
+One morning I woke up early and noticed that she wasn't in bed. She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall and crying.
 
 "Hey, anything I can help with?" I said, trying to sound gentle. She didn't react.
 
