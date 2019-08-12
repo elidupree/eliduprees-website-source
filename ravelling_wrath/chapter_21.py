@@ -330,7 +330,7 @@ Yali smiled wistfully. "I've got all these notes… stuff I learned about the ol
 
 It wasn't a long time before I got to see [????? what Yali's trauma looked like] for myself.
 
-[????? Establish that they started sleeping in the same bed] 
+[????? Establish that they started sleeping in the same bed; maybe clarify about food in Yali's house] 
 
 One morning I woke up early and noticed that she wasn't in bed. She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall and crying.
 
@@ -482,7 +482,25 @@ And at last, it was time for me to go home.
 
 [????? My feet pounded on the street – callbacks to chapter 5]
 
+the road leading to Layo's house. It made me want to turn and run that way, to hug him and tell him I'd made it. But I would see him soon enough. There would be time enough to tell all my friends about my adventures. For now, ?????
+
 ?????
+
+the gate into the fifth layer. The layer that was my home. The layer of the Blood God.
+
+The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel that same sense of <em>wrongness</em> I had felt about the Stern Temple ruling this layer. I was Rinn, who had grown up with all of this being normal. But I remembered. And I couldn't see anything in quite the same way anymore.
+
+I ran past the ?????, and I didn't see ?????, I saw ?????.
+
+I ran past the old basketball court full of trash, and I didn't see ?????
+
+?????
+
+I ran past the supermarket, the one Yali said was built on the remains of an old Blood temple, and I knew.
+
+?????
+
+
 
 ''',
 },
