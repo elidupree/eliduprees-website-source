@@ -194,13 +194,13 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 Yali padded over and sat down next to me. Somberly, she said, "If there's one thing the Waiting God was right about, it's that humanity needs to change. But maybe, with people like you and me… [????? Maybe the world will be better someday – callback to the caretaker]"
 
-I held her hand, intertwining my fingers with hers. "[????? It totally will be.] Think about it, we already changed the world once! [????? Description of their actions in terms of loving/caring for each other] It'll be, like, 'here comes Yalkatura – changing the world with the power of love!'"
+I held her hand, intertwining my fingers with hers. "[????? It totally will be.] Think about it, we already changed the world once! We did so much to love and protect each other, we even made the <em>gods</em> closer to each other! It'll be, like, 'here comes Yalkatura – changing the world with the power of love!'"
 
 Yali smiled. "I like how optimistic you are. But I think we might need a different slogan."
 
-"What's wrong with the power of love? I figured you'd like that better than [????? 'shut up or we'll kick your ass'] –"
+"What's wrong with the power of love? I figured you'd like that better than 'listen up or we'll kick your ass' –"
 
-Yali smirked. "[????? 'Shut up or we'll kick your ass'] does have a certain appeal… But no. I just wouldn't want to imply that love is everything, or even the majority, of what gave us the power to stand against the gods. I meant what I said to Alchemist, I wasn't just trying to scare them. If you hide from the truth, if you don't have a plan, love will do nothing for you. Our love was very important, it was part of why we succeeded, but it wasn't the only part. We also had a plan for how to take that love and –"
+Yali smirked. "'Listen up or we'll kick your ass' does have a certain appeal… But no. I just wouldn't want to imply that love is everything, or even the majority, of what gave us the power to stand against the gods. I meant what I said to Alchemist, I wasn't just trying to scare them. If you hide from the truth, if you don't have a plan, love will do nothing for you. Our love was very important, it was part of why we succeeded, but it wasn't the only part. We also had a plan for how to take that love and –"
 
 "– and make it have meaning," I finished.
 
@@ -212,17 +212,19 @@ Yali smirked. "[????? 'Shut up or we'll kick your ass'] does have a certain appe
 
 That wasn't anything like how <em>I</em> thought about it, but I could tell Yali was trying to meet me in the middle. "Sure, let's go with that," I said.
 
-"[????? And the Blood God is all about that, and it's not all bad, I definitely learned something from it, in the Otherworld. But people are always… Well, actually, maybe I shouldn't blame the Blood God for this, maybe it's just people being people, and the Blood God would actually think it's unholy…"
+"And that's what the Blood God is all about. It's not all bad. I definitely learned something from it, in the Otherworld. But people are always… Well, actually, maybe I shouldn't blame the Blood God for this. Maybe it's just people being people, and the Blood God would actually think it's unholy…"
 
-"Blame the Blood God for what?"
+"Think what's unholy?"
 
-"For when…] people say a feeling has a meaning that it really doesn't. Like –"
+"When people <em>say</em> their feelings mean something, but it's actually bad, like the 'meaning' actually hurts people. Like –"
 
 "Oh yeah, like when people are like, 'I gotta protect my children, so that's why I called the cops on that homeless guy who was just minding his own business', they're definitely assholes, the Blood God would definitely say that's unholy –"
 
-"Do people really do that?" said Yali distractedly. "I guess I'm not surprised, people [????? do bad things that don't make sense all the time]. But I was actually thinking of when people are like, 'well, we love each other, so everything is going to work out', even when there are actually huge problems in their relationship. Like… Love is never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands.
+"Do people really do that?" said Yali distractedly. "I guess I'm not surprised, people are always hurting each other for no good reason. But I was actually thinking of when people are like, 'well, we love each other, so everything is going to work out', even when there are actually huge problems in their relationship. Like… Love is never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands. That's what I know. That's what the Waiting knows. If I want someone to stop what they're doing, I have to know how to force them to."
 
-[????? "You can't help [someone who's hurting people, Morrow] unless you have power over them – maybe Rinn adds this, because it's more Blood. Maybe: "you're right," I said. "Fuckin' Morrow… I mean, I care about him, but ????? at some point, I had to be like, 'this is where I'm gonna stop you'. Or he would have just kept making things worse for everyone. [If the next section starts with Alchemist:] Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's real name, how are we gonna –" Yali gave a little smile. "Yeah, about that…" she said.]
+"You're right," I said heavily. "But that's a Blood thing too. Remember how the Blood God values <em>power</em>? I don't think that's talking about, like, the power to control other people, to make them serve you. It's the power to stick up for what you believe in. To protect yourself, to protect other people. Like, fuckin' Morrow… I mean, I care about him, but he never listened to me when I just <em>told</em> him he was fucking up. At some point, I had to be like, 'this is where I'm gonna stop you', or he would have just kept making things worse for everyone. Gods, I hope he gets better somehow…" I trailed off, thinking about how he'd been when I'd last seen him, when we were leaving the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's real name, how are we gonna –"
+
+Yali gave a little smile. "Yeah, about that…" she said.
 
 <bigbreak>
 
@@ -314,17 +316,15 @@ Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
 
 "I am," she said.
 
-"Oh gods," I said, putting a hand to my forehead. "I know I was talking about changing the world, but… okay, it sounds awesome, but… gods, I need a nap. I need to take a nap for, like, a whole month, before I can even think about temple stuff."
+"Oh gods," I said, putting a hand to my forehead. "I know I was talking about changing the world, but… okay, it sounds awesome, but… gods, I need a nap. I need to take a nap for, like, a whole month, before I can even <em>think</em> about temple stuff."
 
 "That's fine. In fact… that's a relief, actually," said Yali.
 
 "Wait, how is it a relief to <em>you</em>?"
 
-Yali smiled wistfully. "I've got all these notes… stuff I learned about the old Blood Temple when I was still in the Otherworld, stuff that might be useful if we ever want to build a new one. And I'm not sure if <em>I</em> want to look at those notes anytime this month, either. I mean, other than to email them to myself so I have a backup. And I already did that while you were still unconscious. Yeah. ?????
+Yali smiled wistfully. "I've got all these notes… stuff I learned about the old Blood Temple when I was still in the Otherworld, stuff that might be useful if we ever want to build a new one. And I'm not sure if <em>I</em> want to look at those notes anytime this month, either. I mean, other than to email them to myself so I have a backup. And I already did that while you were still unconscious. Yeah. No need to look at them again anytime soon."
 
-?????
-
-[????? Maybe: I pulled Yali back towards me, and [????? she indulged] [squishing me into the couch]. So many things in the future, but for now, we could just forget all that. And maybe move "we had been through so much together" down here?]
+"Yeah," I said. I pulled Yali back towards me. She relaxed and flopped over on top of me, pleasantly squishing my body into the soft cushions. There were so many things to worry about for the future, that for now, we could forget all that. [????? And maybe move "we had been through so much together" down here?]
 
 <bigbreak>
 
@@ -500,7 +500,7 @@ I ran past the supermarket, the one Yali said was built on the remains of an old
 
 ?????
 
-The door to my home was just ahead. For today, it was time to take a long, well-deserved rest. But one day, we would ?????
+
 
 ''',
 },
