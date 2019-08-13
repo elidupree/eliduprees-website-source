@@ -500,7 +500,7 @@ I ran past the supermarket, the one Yali said was built on the remains of an old
 
 ?????
 
-
+The door to my home was just ahead. For today, it was time to take a long, well-deserved rest. But one day, we would ?????
 
 ''',
 },
