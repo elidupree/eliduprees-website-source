@@ -100,7 +100,7 @@ Yali pulled a fistful of cash out of her pocket.
 
 "Nice," I said.
 
-Yali counted through the bills absentmindedly. "It's not enough for overpriced things like room service, though," she muttered. "I need to make this last until we take a taxi home. They might have frozen my account when I went missing, and if I try to use it, the monks might get notified… I mean, they'll find out I'm back eventually, I just want some time to adjust… Anyway, I know the stores around here. I'll go get something. If you're okay on your own…" Yali examined me again, then checked a few more things about magical healing on the internet [???? Check consistent capitalization of Internet]. Eventually, she was satisfied that I wouldn't die if she left me alone for a few minutes. She didn't let me come with her, though. She made me stay at the hotel and rest.
+Yali counted through the bills absentmindedly. "It's not enough for overpriced things like room service, though," she muttered. "I need to make this last until we take a taxi home. They might have frozen my account when I went missing, and if I try to use it, the monks might get notified… I mean, I'll have to tell them I'm back eventually, I just want some time to adjust… Anyway, I know the stores around here. I'll go get something. If you're okay on your own…" Yali examined me again, then checked a few more things about magical healing on the internet [???? Check consistent capitalization of Internet]. Eventually, she was satisfied that I wouldn't die if she left me alone for a few minutes. She didn't let me come with her, though. She made me stay at the hotel and rest.
 
 Before long, she got back with some prepackaged meals in a bag. They weren't anything special, but the way I was feeling, they all looked delicious. Yali set them down on the table and started carefully getting one ready. Normally I would have ripped into it as soon as it wasn't frozen, but my head was still a <em>little</em> fuzzy, so I let Yali do with her way, checking it every thirty seconds as it heated up in the microwave.
 
@@ -268,7 +268,7 @@ Yali closed the door quietly behind her. "What makes this the best –"
 
 "Because <em>you</em> live here, obviously. C'mere."
 
-Yali lowered herself onto the couch next to me. She leaned in, putting her big arms around me. I basked in her warmth, closing my eyes as she ruffled my hair. Before long, I felt her gently nuzzling into me, slowly kissing the side of my neck. I let myself melt away into an endless, relaxed comfort. We had been through so much together. And now, we were home again. [????? See below] [????? plant seeds of "the monks will visit" and "returning to family/school"]
+Yali lowered herself onto the couch next to me. She leaned in, putting her big arms around me. I basked in her warmth, closing my eyes as she ruffled my hair. Before long, I felt her gently nuzzling into me, slowly kissing the side of my neck. I let myself melt away into an endless, relaxed comfort. We had been through so much together. And now, we were home again.
 
 Time passed. After a while, Yali lay back, too. We both stared dreamily up at the ceiling together, with Yali softly holding my hands in hers.
 
@@ -322,15 +322,25 @@ Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
 
 "Wait, how is it a relief to <em>you</em>?"
 
-Yali smiled wistfully. "I've got all these notes… stuff I learned about the old Blood Temple when I was still in the Otherworld, stuff that might be useful if we ever want to build a new one. And I'm not sure if <em>I</em> want to look at those notes anytime this month, either. I mean, other than to email them to myself so I have a backup. And I already did that while you were still unconscious. Yeah. No need to look at them again anytime soon."
+Yali smiled wistfully. "I've got all these notes… stuff I learned about the old Blood Temple when I was still in the Otherworld, stuff that might be useful if we ever want to build a new one. And I'm not sure if <em>I</em> want to look at those notes anytime this month, either. I mean, other than to email them to myself so I have a backup. And I already did that while you were still unconscious. Yeah. No need to look at them again anytime soon. We're going to have enough to adjust to from just… just being back, and we'll have to go back to school soon, and you'll need to go home to your family, and… Oh, I think we can put that off for another few days at least." She seemed to relax a little.
 
-"Yeah," I said. I pulled Yali back towards me. She relaxed and flopped over on top of me, pleasantly squishing my body into the soft cushions. There were so many things to worry about for the future, that for now, we could forget all that. [????? And maybe move "we had been through so much together" down here?]
+"Yeah," I said. I pulled Yali back towards me. She flopped over on top of me, pleasantly squishing my body into the soft cushions. There were so many things to worry about for the future, but for now, we could forget all that. ????
 
 <bigbreak>
 
 It wasn't a long time before I got to see [????? what Yali's trauma looked like] for myself.
 
-[????? Establish that they started sleeping in the same bed; maybe clarify about food in Yali's house] 
+We had spent another couple days just relaxing at Yali's house, [????? cuddling and making out and stuff]. Amazingly, Yali even let me sleep in the same bed with her. "I'm going to have trouble readjusting to my original bed anyway," she said. "Why not get used to you at the same time?"
+
+"Way to make it sound less romantic," I laughed. Yali just smiled indulgently.
+
+It was still pretty awkward, just like it had been the first time in the Otherworld. But eventually we both got to sleep. And when I woke up the next morning, and realized the love of my life was sleeping right next to me… I couldn't believe how lucky I was.
+
+We didn't even have to leave the house to get food, because Yali had stocked up on nonperishables before the Ravelling. "I can't believe it," I said, in between chomping on a granola bar. "You actually planned for <em>this</em>?"
+
+"I told you, I planned for both of us to get back alive," said Yali smugly.
+
+[????? Hanging out was nice.] But it didn't last forever.
 
 One morning I woke up early and noticed that she wasn't in bed. She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall and crying.
 
@@ -444,17 +454,17 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 "I know. I know." Yali waved for me to be quiet. "And now… I think I'm a little more Blood. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now, too."
 
-Watching Yali try to make sense of her feelings… it was tearing at my heart. It was such a simple thing, something I had known how to do since before I could walk, something that Yali was still trying to learn. Tears welled up in my eyes. Everything had been so hard for her. ????? The gods ?????
+Watching Yali try to make sense of her feelings… it was tearing at my heart. It was such a simple thing, something I had known how to do since before I could walk, something that Yali was still trying to learn. Tears welled up in my eyes. Everything had been so hard for her. It was bad enough that she'd had to handle her abusers all by herself. If there was any justice, that would have been the end of it. But on top of that, the gods – the gods, who were <em>supposed</em> to watch over us all, to guide and protect us – had used her life as a prop in their feud. And then she had had to solve <em>their</em> problems for them, too! I couldn't take it. It was just so unfair.
 
 Yali noticed my tears. "You okay there?" she said distractedly.
 
-"<em>I'm</em> fine…" I halfheartedly wiped away a tear. "You just got me thinking about the gods. Why did they have to be like this? They could have just all worked together, and then none of this would have happened. We could have just been… Rinn and Yali." I swallowed. "You know how when you're a kid and they're teaching you about the gods, it's always, 'the five gods watch over the city', like they're all out there together, all being wise together, except maybe the Blood God – and now we know even the Blood God was <em>supposed</em> to be good. It's like they're all supposed to be some sort of… <em>ideal</em>, but then the real thing is so much more ?????flawed. Like the Blood God is supposed to love and protect everyone, but it got twisted into desperation and revenge. And the Seeking God is exciting and creative, but it doesn't care if it has to walk over everyone just to see what happens. And –"
+"<em>I'm</em> fine…" I halfheartedly wiped away a tear. "You just got me thinking about the gods. Why did they have to be like this? They could have just all worked together, and then none of this would have happened. We could have just been… Rinn and Yali." I swallowed. "You know how when you're a kid and they're teaching you about the gods, it's always, 'the five gods watch over the city', like they're all out there together, all being wise together, except maybe the Blood God – and now we know even the Blood God was <em>supposed</em> to be good. It's like they're all supposed to be some sort of… <em>ideal</em>, but then the real thing is so much more messed up. Like the Blood God is supposed to love and protect everyone, but it got twisted into this whole revenge thing. And the Seeking God is exciting and creative, but it doesn't care if it has to walk over everyone just to see what happens. And –"
 
-"And the Waiting ?????
+"And the Waiting is supposed to be wise and farsighted, but it couldn't see when the other gods had something worth saying, too."
 
-"I just wish [????? something like: we could go back to the true form of the gods]
+"I just wish we could go back to how the gods are supposed to be."
 
-????? Yali not thinking there's any true form of the gods – people want there to be an ideal – maybe they teach children what they want to be true [????? When I was the Waiting God, I saw lots of history] the gods aren't always the same, they shift and change with the times, but I don't think they've ever been a perfect ideal. None of them is entirely good are entirely bad. They're more like, like… like a half-formed idea, like something that's left for us humans to interpret. So if we want [????? the gods to be ideal]… it's up to us to finish that idea ?????
+[????? Physicality: Yali stacking dishes, frowning?] ????? Yali not thinking there's any true form of the gods – people want there to be an ideal – maybe they teach children what they want to be true [????? When I was the Waiting God, I saw lots of history] the gods aren't always the same, they shift and change with the times, but I don't think they've ever been a perfect ideal. None of them is entirely good are entirely bad. They're more like, like… like a half-formed idea, like something that's left for us humans to interpret. So if we want [????? the gods to be ideal]… it's up to us to finish that idea ?????
 
 
 [????? Somewhere: none of the gods is entirely good or entirely bad. They're also not a completed idea, so you have to take the parts you like and make something better]
