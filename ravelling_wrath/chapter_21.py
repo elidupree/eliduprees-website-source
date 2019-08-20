@@ -510,9 +510,17 @@ I grinned. "Nice," I said.
 
 And at last, it was time for me to go home.
 
-[????? Saying goodbye] It felt so final, even though we were probably going to see each other at school the next day. ?????
+At the door, I pulled Yali close to me again, for one last, long, sloppy kiss. It felt so final, even though we were probably going to see each other at school the next day. I leaned into her, my arms clinging around her warm body. As she kissed me, she ran her hands up the back of my neck, ruffling my hair. I felt like I was floating away, my eyes drifting half closed, tears sliding happily down my cheeks.
 
-????? started the long run home.
+"I love you," I whispered. "I love you so much. I love you so much I…" I couldn't even find the words.
+
+"I understand." Yali patted me on the head. "I love you too."
+
+We stood halfway out the door for what felt like hours, arms wrapped around each other. Until, at last, Yali gently released me. At arm's length, she gave me one last pat on the shoulder. "See you soon," she said.
+
+"Yeah. See you soon."
+
+With an enormous effort, I turned away and started the long run home.
 
 [????? My feet pounded on the street – callbacks to chapter 5]
 
