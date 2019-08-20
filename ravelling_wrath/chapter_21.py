@@ -328,19 +328,23 @@ Yali smiled wistfully. "I've got all these notes… stuff I learned about the ol
 
 <bigbreak>
 
-It wasn't a long time before I got to see [????? what Yali's trauma looked like] for myself.
+It wasn't a long time before I got to see what Yali's trauma looked like for myself.
 
-We had spent another couple days just relaxing at Yali's house, [????? cuddling and making out and stuff]. Amazingly, Yali even let me sleep in the same bed with her. "I'm going to have trouble readjusting to my original bed anyway," she said. "Why not get used to you at the same time?"
-
-"Way to make it sound less romantic," I laughed. Yali just smiled indulgently.
-
-It was still pretty awkward, just like it had been the first time in the Otherworld. But eventually we both got to sleep. And when I woke up the next morning, and realized the love of my life was sleeping right next to me… I couldn't believe how lucky I was.
+We had spent another couple days just relaxing at Yali's house. We didn't talk much more about the gods or the temples. We spent half the time flopped on the couch, or on Yali's bed, just cuddling up to each other, taking the time to just enjoy each other's touch, with no need to put anything into words. I would normally have been more restless, but something made me happy to let the time slip past. It was like we were in our own cozy little world.
 
 We didn't even have to leave the house to get food, because Yali had stocked up on nonperishables before the Ravelling. "I can't believe it," I said, in between chomping on a granola bar. "You actually planned for <em>this</em>?"
 
 "I told you, I planned for both of us to get back alive," said Yali smugly.
 
-[????? Hanging out was nice.] But it didn't last forever.
+Amazingly, when the time came to sleep, Yali even let me sleep in the same bed with her.
+
+"I'm going to have trouble readjusting to my original bed anyway," she said. "Why not get used to you at the same time?"
+
+"Way to make it sound less romantic," I laughed. Yali just smiled indulgently.
+
+It was still pretty awkward, just like it had been the first time in the Otherworld. But eventually we both got to sleep. And when I woke up the next morning, and realized the love of my life was sleeping right next to me… I couldn't believe how lucky I was.
+
+But as wonderful as everything was, it didn't last forever.
 
 One morning I woke up early and noticed that she wasn't in bed. She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall and crying.
 
@@ -474,13 +478,33 @@ Her words settled over me like a heavy shroud. I didn't want it to be true. Afte
 
 I felt the long road stretch out ahead of me, the endless struggle to face the gods and shape something good out of their avalanche of power. I knew I had the strength. But it was hard to face it and not waver. "It's just so much," I said. "It's just… so much. I didn't want us to have to fix the gods, or rebuild a whole Blood Temple, or… I wanted us to just be Rinn and Yali. I just…"
 
-Yali stepped close to me. She put her hands on my shoulders, holding me firm and looking deep into my eyes. "I know," she said. "It was hard. And there will be hard things again, time after time, maybe as long as we live. But…" Her expression softened into a half-smile. "But we don't have to fix the gods <em>today</em>. ?????. We won. We both got back alive and, and, generally in one piece. Gods know we deserve a break. And so we really do have a chance to, to, to be what you said. To just be Rinn and Yali, at least for a while. So… How would you like that?"
+Yali stepped close to me. She put her hands on my shoulders, holding me firm and looking deep into my eyes. "I know," she said. "It was hard. And there will be hard things again, time after time, maybe as long as we live. But…" Her expression softened into a half-smile. "But we don't have to fix the gods <em>today</em>. Because… you're right… now's not the time to worry about what we couldn't do, it's the time to feel good about, about… We won. We both got back alive and, and, generally in one piece. Gods know we deserve a break. And so we really do have a chance to, to, to be what you said. To just be Rinn and Yali, at least for a while. So… Want to go back to doing that?"
 
 I melted in her hands. "I'd like that more than anything."
 
 <bigbreak>
 
-[????? Summary language: we had a nice time for a a while, then Yali decided to call the monks and get things sorted out and start going to school again. She decided to admit that she was the Farseer?
+Eventually, Yali decided to tell people she was back.
+
+"Already?" I laughed. But it had been like a week, and I was ready too. Being with Yali was still amazing, but it was as if I had been slowly waking up from a long dream, and it was getting to the point where I was getting restless, thinking of my old friends again. So we both agreed to let it be over.
+
+Yali called the monks who were responsible for her. It was a short call, just setting up a time for them to come visit and really get things sorted out. Then Yali said she was tired and hung up.
+
+"What are you going to tell them?" I said curiously.
+
+"Well, I need to go back to school, and in case there's anything that needs sorting out –"
+
+"I meant, what are you going to tell them about why you were gone?"
+
+"Oh." Yali put down her phone and sat back on the couch. "I'm going to tell them the truth."
+
+"Woah! That's big, you always said you didn't want –"
+
+"I did say that, didn't I. But, I mean, I mean, things are a lot different now. People need to know about what the Waiting God did. And I can't really tell them about <em>that</em> without telling them about <em>me</em>. And, more than that, I think… I think I always assumed that if I admitted I was the Farseer, it would be like admitting that the Waiting God was right. But now it's kind of the opposite, isn't it? And if I really did make Waiting God stop…" She gave a little smirk. "I think I might want some of the credit."
+
+I grinned. "Nice," I said.
+
+????
 
 <bigbreak>
 
