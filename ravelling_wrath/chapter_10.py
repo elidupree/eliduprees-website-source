@@ -861,7 +861,7 @@ I paced back and forth, not even listening to her. I COULDN'T get distracted! No
 
 "I will never believe in the Stern again! By my blood, not a single thing you do is just a <em>fact of life</em>. You're a –"
 
-<em>– a monster who should never have been constructed.</em>
+<em>– a monster who should never have been formed.</em>
 
 <em>– a poor, vulnerable human clinging to a lie.</em>
 
