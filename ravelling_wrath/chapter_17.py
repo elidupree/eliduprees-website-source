@@ -455,7 +455,7 @@ Yali frowned. "I, I –" she said in a quiet voice, "I'm not sure it's the whole
 
 "What do you mean?"
 
-"I think there's a, a, a, deeper reason. Morrow has always been like the ????s. Temperamental, holding on to obsessions to cover up his reality. But –"
+"I think there's a, a, a, deeper reason. Morrow has always been like the Dalners. Temperamental, holding on to obsessions to cover up his reality. But –"
 
 "Hey, <em>I'm</em> temperamental. Morrow's kind of a mess, but –"
 

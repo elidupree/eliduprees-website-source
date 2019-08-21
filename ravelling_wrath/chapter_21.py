@@ -184,7 +184,7 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 "Oh gods."
 
-"I'm sure some of the people out there still hate me because I spoiled their fun, because they can't go to the ????s' parties anymore. They all just want to pretend that everything is fine. Like if you just go to school and do what you're supposed to, and then get a job and do what you're supposed to, and maybe give to charity a little, then you've done enough, and everything will be fine. But it's not fine. It won't be fine. And they don't even want to <em>imagine</em> what it would take to fix everything. So if I don't do it, no one else will do it for me. So no, I can't afford to say I've done enough just because I did something no one else did. If I'm the only one doing it, I have to do it perfectly, because if <em>I</em> make a mistake, there won't be a second chance to get it right."
+"I'm sure some of the people out there still hate me because I spoiled their fun, because they can't go to the Dalners' parties anymore. They all just want to pretend that everything is fine. Like if you just go to school and do what you're supposed to, and then get a job and do what you're supposed to, and maybe give to charity a little, then you've done enough, and everything will be fine. But it's not fine. It won't be fine. And they don't even want to <em>imagine</em> what it would take to fix everything. So if I don't do it, no one else will do it for me. So no, I can't afford to say I've done enough just because I did something no one else did. If I'm the only one doing it, I have to do it perfectly, because if <em>I</em> make a mistake, there won't be a second chance to get it right."
 
 "That's dark," I said.
 
@@ -452,7 +452,7 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 "That's…"
 
-"That's the Waiting. It's what the god is, and it's a lot of what I am, too. When I think back to how I made the ????s suffer, and Morrow… what I remember is, I <em>succeeded</em>. In the end, the only thing that matters is if you accomplished your goal. Your feelings don't matter – unless your feelings are part of the plan, I mean, <em>your</em> feelings mattered because of the whole Blood God thing, and my feelings sometimes mattered because I had to manage them in order to –"
+"That's the Waiting. It's what the god is, and it's a lot of what I am, too. When I think back to how I made the Dalners suffer, and Morrow… what I remember is, I <em>succeeded</em>. In the end, the only thing that matters is if you accomplished your goal. Your feelings don't matter – unless your feelings are part of the plan, I mean, <em>your</em> feelings mattered because of the whole Blood God thing, and my feelings sometimes mattered because I had to manage them in order to –"
 
 "But your feelings <em>always</em> mat–"
 
