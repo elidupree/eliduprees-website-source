@@ -262,7 +262,7 @@ I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alch
 
 "<em>Controlling Game,</em>" said Yali.
 
-"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. [????? When does it get fixed?] "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
+"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
 
 I heard Alchemist's shaky voice in the background. "Is, she…"
 

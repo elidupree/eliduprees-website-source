@@ -331,7 +331,7 @@ I came back around the tree to find Yali concentrating.
 
 "Wait, really? When the Seeing lied to you before?"
 
-"It did not… <em>lie</em>. The Waiting God is, is, is… it doesn't lie if it can help it. It's not like 'you must never lie' like the Stern or 'only the truth will fulfill you' like Blood, but it's still… the truth is the <em>foundation</em> of the Waiting. You know, like, 'You must tell the truth a thousand times before you will be capable of telling one lie.' So… I will be careful, but there are still ways I can make use of the Seeing. Just as long as I know I can't trust it completely."
+"It did not… <em>lie</em>. The Waiting God is, is, is… it doesn't lie if it can help it. It's not like 'you must never lie' like the Stern or… I think the Blood God is all for honesty too… but it's still… the truth is the <em>foundation</em> of the Waiting. You know, like, 'You must tell the truth a thousand times before you will be capable of telling one lie.' So… I will be careful, but there are still ways I can make use of the Seeing. Just as long as I know I can't trust it completely."
 
 "That's pretty twisted," I said.
 

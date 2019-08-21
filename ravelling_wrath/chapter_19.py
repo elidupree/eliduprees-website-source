@@ -479,7 +479,7 @@ The idea came to me as I hauled Rinn passed a crumbling temple. When Rinn had be
 
 Of course, all of that was in the past now.
 
-But I was the Farseer. To me, the past wasn't so far away. I had ????68 lifetimes' worth of memories to draw on.
+But I was the Farseer. To me, the past wasn't so far away. I had sixty-eight lifetimes' worth of memories to draw on.
 
 It was time for me to learn what the Blood Temple really was.
 
