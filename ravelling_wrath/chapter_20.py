@@ -49,13 +49,17 @@ If I was looking for something I would find abhorrent… That gave me an obvious
 
 It was finally happening. The demolition had begun.
 
-It was hard to see through the grainy black-and-white of the television. I would have liked to be there to see that wretched structure destroyed with my own eyes. But there was a chance of riots by those Blood worshippers, and it would not do to spoil my comfortable retirement by getting caught in the violence. It was enough to know that it was happening.
+It was hard to see it in the grainy black-and-white of the television. I would have liked to be there to see that wretched structure destroyed with my own eyes. But there was a chance of riots by those Blood worshippers, and it would not do to spoil my retirement by getting caught in the violence. It was enough to know that it was happening.
+
+I lay back in my bed as I watched the gateway crumble, clouds of white dust spreading into the air. Then the camera turned, giving a view of the milling crowd just as a few Blood supporters rushed out towards the police barricade. In moments, they were writhing on the ground – the Stern police had released a sorcery against them. I smiled. I was not a cruel man, but those fools had brought this on themselves.
 
 I should never have taken that wretched case. But they were finally getting what they deserved.
 
-I lay back in my bed as I watched the
+This was perfect, ????? from the safety and comfort of my own bed. Even better that Eva was out of town, visiting a friend to "decompress". Probably to vent about me. But, at the very least, it meant that she wasn't here to nag me about wearing shoes in the bed. My shoes were <em>not</em> dirty. She never complained of a dirty bed when she didn't <em>see</em> me wearing them, so it was just another of her irrational –
 
+As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome to work with, and this lawyer was one of them. If I just let his memories go wherever they felt like, I would spend far too much time in his complaints about his wife. There was nothing wrong with his wife. She was an ordinary person with ordinary flaws, and I had no interest in his frustrations with her. But I had to work past them, because he had much more interesting things to remember.
 
+He had thought of a <em>case</em>. A case he had been involved with as a lawyer, one that was related to the Blood Temple.
 
 [????? Notes:
 
