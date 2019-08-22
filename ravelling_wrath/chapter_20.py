@@ -18,7 +18,7 @@ posts = [
   "head":head,
   "contents": chapter_start ("Chapter 20: ", '''<p></p>''') +'''
 
-It was time to move forward with my <em>other</em> plan.
+[????? Probably cut: It was time to move forward with my <em>other</em> plan.]
 
 If I was going to spend time studying the past, I would need to get comfortable. I manifested a familiar reclining chair and sat down. I wasn't comfortable at first. An old wound bothered me. I shifted my position until it was more tolerable. My leg was cramped. I reclined the chair just right to let the leg relax. The skin on both legs itched where they had gotten warm from walking. I concentrated until the itch subsided.
 
@@ -29,15 +29,32 @@ The sun was glaring in my eyes. I had chosen an indoor spot to rest, but the sun
 And then, I began my task. I began to dig up the memories.
 
 
-If I wanted to know more about the Blood Temple, I would have to search among my memories for what I might know and what I didn't. I attempted to think back to any memories related to the Blood Temple. [????? soften: None appeared. That seemed impossible.] Surely, many of the former Farseers had lived in a time when the Blood Temple was still active. Did I have memories from those years? I did. Did I have memories from Farseers who lived in the fifth layer of the city? I did. The main Blood Temple building would have been at the main square of the fifth layer. I had seen a picture of it, in an old book I had found in a back room of the Stern monastery. Could I picture a memory of that temple?
+If I wanted to know more about the Blood Temple, I would have to search among my memories for what I might know and what I didn't. I stared into the light, searching my mind for any memories related to the Blood Temple. It was like something just on the edge of my mind, something I couldn't quite remember. The only memories that popped into my mind were subtly unrelated. Why couldn't I think of it? Clearly, many of the former Farseers had lived in a time when the Blood Temple was still active. Did I have memories from those years? I did. Did I have memories from Farseers who lived in the fifth layer of the city? I did. The main Blood Temple building would have been at the main square of the fifth layer. I had seen a picture of it, in an old book I had found in a back room of the Stern monastery. Could I picture a memory of that temple?
 
 Slowly, an image formed into place. The wide front gateway, with the Burning Heart emblazoned at the top of its arch. Echoes of the deep pounding of its drums on its festival days. Flickering images of crowds gathered in celebration or rage.
 
-Somehow, the Waiting God was making things more difficult. It wasn't actively resisting me, but perhaps it had modified the structure of these memories before it even gave them to me. Memories of the Blood Temple had not been <em>removed</em> – I could still remember them if I thought of them – but it was harder than usual to think of them. <em>Other</em> memories had a tendency to come to mind whenever they were relevant, like if I thought of something related. But these memories didn't.
+Somehow, the Waiting God was making things more difficult. It wasn't actively resisting me, but perhaps it had modified the structure of these memories before it even gave them to me. Memories of the Blood Temple had not been <em>removed</em> – I could still remember them if I thought of them – but it was harder than usual to think of them. <em>Other</em> memories had a tendency to come to mind whenever they were relevant, like if I thought of something related. But these memories didn't. They only came when I looked for them specifically.
 
-Something about this made me hesitate. If the Waiting God didn't want me to see these memories, why wouldn't it remove them entirely, the way it had entirely left out the early Farseers who had murdered Blood Children on purpose? But on second thought, it made sense. Its highest priority would have been to keep me from noticing that anything was out of the ordinary. Missing memories could have created inconsistencies that I could notice. But just <em>not thinking of something</em> wouldn't raise any suspicion. And it was just like the Waiting God to do things this way, to use the smallest intervention necessary to accomplish its goals. Guidance rather than force.
+Something about this made me hesitate. If the Waiting God didn't want me to see these memories, why wouldn't it remove them entirely, the way it had entirely left out the two early Farseers who had murdered Blood Children on purpose? But on second thought, it made sense. Its highest priority would have been to keep me from noticing that anything was out of the ordinary. Missing memories could have created inconsistencies that I could notice. But just <em>not thinking of something</em> wouldn't raise any suspicion. And it was just like the Waiting God to do things this way, to use the smallest intervention necessary to accomplish its goals. Guidance rather than force.
 
-I kept searching. Many of the Farseers had only known of the Blood Temple from a distance. A few were more promising. I recalled passing through this gateway as a childcare worker for the Temple, ?????. I recalled passing through this gateway as a farmer coming to stand in prayer for the health of my livestock. I recalled passing through this gateway as a lawyer, coming to argue a case in Blood court.  [????? Other examples]
+I kept searching. It was a good thing that Rinn and I had made that list of all the Farseers, so that I could just go through the list and not worry that I might forget someone. Many of the Farseers had only known of the Blood Temple from a distance. A few were more promising. I recalled passing through this gateway as a childcare worker for the Temple, ?????. I recalled passing through this gateway as a farmer coming to stand in prayer for the health of my livestock. I recalled passing through this gateway as a lawyer, coming to argue a case in Blood court.  [????? Other examples]
+
+Now I had some places to start. Next, I would have to decide who to focus on first. What was I really looking for here? I was looking for the truth about the Blood Temple, but what part of the truth? Was I looking for a Blood priest who knew how I could connect to my emotions? Was that the most important thing I could learn? If I thought about it… the most important thing was… I needed to find points where I fundamentally disagreed with the Waiting God. When part of me would become part of the god, I could not be doubtful. I could not be susceptible to seeing things in the way it did. The most Waiting part of myself would have to be utterly confident in rejecting its plan. And right now, it wasn't. I hated the god and its plan, but I had felt what it felt like to <em>be</em> the god. The god wouldn't take the part of me that hated it. It would take the part of me that saw everything from a distance, the part that coldly picked out the truth without caring how much it hurt. It was a part of me that <em>wouldn't</em> care if I had to suffer and die, and Rinn had to suffer and die, and hundreds of people had to suffer and die, if I had a goal that required it. And if the Waiting saw the destruction of the Blood God as a goal worthy of that… could I truly say that that part of me could never be convinced? I could not. And so I needed an answer on the level of the cold truth. A reason that the Blood God's destruction could never be my goal.
+
+If I was looking for something I would find abhorrent… That gave me an obvious place to look:
+
+<em>How did the Blood Temple fall?</em>
+
+<bigbreak>
+
+It was finally happening. The demolition had begun.
+
+It was hard to see through the grainy black-and-white of the television. I would have liked to be there to see that wretched structure destroyed with my own eyes. But there was a chance of riots by those Blood worshippers, and it would not do to spoil my comfortable retirement by getting caught in the violence. It was enough to know that it was happening.
+
+I should never have taken that wretched case. But they were finally getting what they deserved.
+
+I lay back in my bed as I watched the
+
 
 
 [????? Notes:
