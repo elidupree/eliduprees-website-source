@@ -53,13 +53,31 @@ It was hard to see it in the grainy black-and-white of the television. I would h
 
 I lay back in my bed as I watched the gateway crumble, clouds of white dust spreading into the air. Then the camera turned, giving a view of the milling crowd just as a few Blood supporters rushed out towards the police barricade. In moments, they were writhing on the ground – the Stern police had released a sorcery against them. I smiled. I was not a cruel man, but those fools had brought this on themselves.
 
-I should never have taken that wretched case. But they were finally getting what they deserved.
+I should never have taken that wretched case. But at least they were finally getting what they deserved.
 
 This was perfect, ????? from the safety and comfort of my own bed. Even better that Eva was out of town, visiting a friend to "decompress". Probably to vent about me. But, at the very least, it meant that she wasn't here to nag me about wearing shoes in the bed. My shoes were <em>not</em> dirty. She never complained of a dirty bed when she didn't <em>see</em> me wearing them, so it was just another of her irrational –
 
 As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome to work with, and this lawyer was one of them. If I just let his memories go wherever they felt like, I would spend far too much time in his complaints about his wife. There was nothing wrong with his wife. She was an ordinary person with ordinary flaws, and I had no interest in his frustrations with her. But I had to work past them, because he had much more interesting things to remember.
 
 He had thought of a <em>case</em>. A case he had been involved with as a lawyer, one that was related to the Blood Temple.
+
+?????
+
+<bigbreak>
+
+Apparently, time has seen me become "the cool substitute teacher". I have always been told I have a way with children, and it would have made me happy if my stories of the old Blood Temple were what earned me that title. Happier still if it were the way I patiently listened to <em>their</em> stories of their lives. But [????? nowadays it took much less than that to make me "cool". It was because I didn't make them keep their heads down all day and study. So many of their parents are away in the car and computer factories nowadays, and they have cars now, but for what? It never seemed right to enforce the Stern rules on them]
+
+"Mister!" one of them piped up. ?????
+
+?????
+
+Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. I suppose that kids have always asked about these things, because kids always do what kids do best, hunting after the highs and lows of life until they find their place in the world. But it used to be that there were another kind of questions, too. Ten years ago, there were kids who asked questions like "why aren't we allowed to say the Blood prayers anymore?" and "[????? something about how an older family member is affected socially/economically]". But for kids growing up today, the Blood Temple was just a part of history.
+
+And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, criminals who severely exploited people were sometimes stripped naked and flogged in the public square. [????? But that wasn't the important part of the Blood Temple.] No, I couldn't tell them any stories about that, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't violate Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. [????? After someone was punished, they needed to have the opportunity to return to equal. If you continued gossiping long after the event, you were stepping on them for your own amusement. That was <em>lowari</em>.]
+
+[????? No… none of that was the important part of the blood Temple.]
+
+?????
 
 [????? Notes:
 
