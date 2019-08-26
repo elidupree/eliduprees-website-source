@@ -61,7 +61,21 @@ As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome t
 
 He had thought of a <em>case</em>. A case he had been involved with as a lawyer, one that was related to the Blood Temple.
 
+????? [????? Not sure of ordering:]
+
+"Another six gone to Blood? What do we pay you for?!" he yelled, slamming his hand down on the files, spittle flying from his mouth.
+
+I <em>could</em> have yelled back. But <em>I</em> chose to be professional. "Sir, there was nothing that could be done. [????? The Concord of Temples precedent]
+
 ?????
+
+"Sir, I am not an expert in Blood law," I said. That was right, I had <em>told</em> him it wasn't my expertise! I had done <em>my</em> job perfectly, I had warned him, so everything that happened later was <em>his</em> fault for ignoring my advice! I had even said "[????? therefore I can't guarantee results] –"
+
+As Yali, I typed out, <em>?????lawyer didn't understand blood law, <strong>believes</strong> he warned boss</em>. This memory contained the feeling of looking back and feeling justified. But it hadn't originally contained that feeling, and he wasn't still alive to add his own thoughts about it now. So the memory had already been rewritten to add it, while he was still alive. He had probably rewritten this memory many times, to cast himself in the best possible light.
+
+?????
+
+
 
 <bigbreak>
 
