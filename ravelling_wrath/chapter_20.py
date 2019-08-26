@@ -75,7 +75,29 @@ As Yali, I typed out, <em>?????lawyer didn't understand blood law, <strong>belie
 
 ?????
 
+I read from the Book of Blood, of course, but I also had to cross-reference it with other ????? and historical accounts, because the Book of Blood [????? rambled about principles way more than it defined the rules].
 
+But based on everything I read, it would be almost impossible to get these crimes prosecuted in Blood court. First of all, every case had to begin with an accusation of a <em>violation of blood</em>. That typically meant an attack against someone's physical body. There were exceptions, of course. A threat could be a violation of blood. Even an insult could be one, if it was degrading enough. And of particular interest to me, property crimes <em>could</em> be violations of blood [????? example]. You couldn't own an object you had never seen or touched.
+
+But all of the goods that had been stolen were owned by ?????Corporation. And within ?????Corporation, the only people who have handled the goods before they were stolen were local employees. And there was clear precedent in historical negotiations between the temples. A theft couldn't be a violation of blood against the employees unless the employees were owners of the goods under Blood law. And the Blood Temple had agreed that whenever the Stern Temple classified goods as the assets of a corporation, it would <em>not</em> consider the employees their owners. Worse, this rule was a <em>concession</em> to be Stern Temple, because otherwise the employers <em>would</em> become Blood owners by virtue of being the only ones to handle the goods with their bodies, and then the Blood Temple would have to defend the employees' right to simply walk off with the merchandise. So, as a compromise, the Blood Temple considered corporate assets to be <em>unowned</em>. And therefore, stealing them could be prosecuted by the Stern Temple, but it could never be a violation of blood.
+
+At least this kind of nonsense still had clear rules. It wasn't so different from Stern law, full of impossible situations created by historical compromises, from which it was my job to find ways out.
+
+But there was worse. Even once there was a <em>violation of blood</em>, it wasn't necessarily a crime. Or, to be precise, it wasn't necessarily <em>lowari</em>. Blood law described four types of violation, and the Temple would only punish <em>lowari</em>, even though the distinctions between the types were subtle and subjective.
+
+Blood law defined <em>lowari</em> as violations that <em>put one person above another</em>.
+
+?????
+
+But how did the Blood Temple determine what was ?????? According to the Book of Blood, the victims and the accused would meet in temple and "bare their hearts", and then "the blood of the city" would decide the truth. From what I could tell, this was nothing but a fancy way of saying that one of the Blood Temple's masked judges would question them and then make an arbitrary decision.
+
+?????
+
+[????? Lawyer seeing the accused at trial, sexist thoughts] –
+
+I pulled myself out of the memory. I didn't care about this trial – no, I did care about it, but I needed a break from this man. A long break, then I would continue looking at the trial later. It wasn't even the sexual thoughts that bothered me – I had gotten used to the memories thinking sexual thoughts at inappropriate times, since it was common across almost all of them. But ?????lawyer's hypocrisy – thinking degrading things, then telling himself he was the better person – it was getting into my head in a way I didn't like at all.
+
+[????? Maybe the caretaker would be good for a break. What did he know that I wanted?]
 
 <bigbreak>
 
