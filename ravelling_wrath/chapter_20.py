@@ -93,9 +93,17 @@ But how did the Blood Temple determine what was ?????? According to the Book of 
 
 ?????
 
-[????? Lawyer seeing the accused at trial, sexist thoughts] –
+If only there had <em>been</em> a trial. The judge's order at the pretrial hearing left it indefinitely postponed, and then –
 
-I pulled myself out of the memory. I didn't care about this trial – no, I did care about it, but I needed a break from this man. A long break, then I would continue looking at the trial later. It wasn't even the sexual thoughts that bothered me – I had gotten used to the memories thinking sexual thoughts at inappropriate times, since it was common across almost all of them. But ?????lawyer's hypocrisy – thinking degrading things, then telling himself he was the better person – it was getting into my head in a way I didn't like at all.
+What was this pretrial hearing, then?
+
+[????? Physical descriptions, introduction to hearing]
+
+[????? Lawyer seeing the accused at pretrial hearing, sexist thoughts] –
+
+[????? The accused? The thief girl?] didn't look quite how I had imagined her. She came in nervously, holding herself upright, wearing a plain, conservative dress. She was almost pretty. But I could see her piercings, and as soon as she spoke, I could hear the vulgar way she talked. She was clearly fifth-layer trash. No doubt this was her <em>only</em> conservative dress, and she paraded around the streets in straps that barely covered up those oversized breasts – not that I paid attention to that. <em>I</em> was a professional, after all. When she entered, I shook her hand firmly, looking her steadily in the eye, and gave a polite –
+
+I pulled myself out of the memory. I didn't care about this hearing – no, I did care about it, but I needed a break from this man. It wasn't even the sexual thoughts that bothered me – I had gotten used to the memories thinking sexual thoughts at inappropriate times, since it was common across almost all the Farseers, including myself. But ?????lawyer's hypocrisy – thinking degrading things, then congratulating himself for being a better person – it was getting into my head in a way I didn't like at all. I could get back to this hearing <em>later</em>. Maybe it would be easier if I viewed ?????'s memories in short bursts.
 
 [????? Maybe the caretaker would be good for a break. What did he know that I wanted?]
 
