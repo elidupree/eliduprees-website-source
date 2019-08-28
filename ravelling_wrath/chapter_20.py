@@ -123,6 +123,12 @@ And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, 
 
 ?????
 
+As Yali, I ?????balked. Sure, it was a feel-good thing for him to do, but it didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. At least with the Waiting God, when I had trouble understanding it, I could <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
+
+Well, I didn't need to know what <em>?????caretaker</em> thought was the best thing about the Blood Temple. ?????
+
+?????
+
 [????? Notes:
 
 important concepts for this chapter: Blood policies have flaws but the capitalist replacement is even more destructive; technology could be used for good if Blood and Waiting worked together
