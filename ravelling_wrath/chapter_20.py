@@ -16,7 +16,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 20: ", '''<p></p>''') +'''
+  "contents": chapter_start ("Chapter 20: The Blood Temple", '''<p></p>''') +'''
 
 [????? Probably cut: It was time to move forward with my <em>other</em> plan.]
 
@@ -123,13 +123,39 @@ And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, 
 
 ?????
 
+[????? Narrated memory of caretaker comforting a sick boy all night]
+
 As Yali, I ?????balked. Sure, it was a feel-good thing for him to do, but it didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. At least with the Waiting God, when I had trouble understanding it, I could <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
 
 Well, I didn't need to know what <em>?????caretaker</em> thought was the best thing about the Blood Temple. ?????
 
+
+[????? Yali runs into "The same memory of the sick boy"; what was so important about that memory?]
+
+
 ?????
 
-[????? Notes:
+There was the memory of the sick boy again. The same fond memory of staying up all night just to comfort him.
+
+I hesitated. If ?????Caretaker kept coming back to this memory, maybe there was something important in at after all. He was a thoughtful person, and even a bit of a cynic. He liked feel-good things, but not <em>this</em> much. So what was it?
+
+This was unsettling. To <em>him</em>, it was so <em>obvious</em> why this would be a good formative experience for the boy.
+
+[????? Yali hunts for the answer; it's basically "so that he grows up knowing that we care for each other and can rely on each other"]
+
+In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone else to do what I needed without me checking it. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again and again until they were burned enough times to learn not to trust anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! [????? I was very angry; if kids didn't have to learn how to take care of themselves, everything I had worked for would be meaningless]
+
+?????
+
+It wasn't the truth about the world. It was the truth about a world <em>without the Blood Temple</em>. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the ?????s]
+
+[????? Everything I had worked for SHOULD have been meaningless]
+
+[????? I cried a lot, I didn't know what to do]
+
+ [????? Notes:
+ 
+ Caretaker details: the Temple will protect children from their parents, reading from the book of blood to the children, "no one can be above or below another", traveling to the homes of the infirm for outreach
 
 important concepts for this chapter: Blood policies have flaws but the capitalist replacement is even more destructive; technology could be used for good if Blood and Waiting worked together
 
