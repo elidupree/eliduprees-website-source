@@ -117,9 +117,13 @@ Apparently, time has seen me become "the cool substitute teacher". I have always
 
 Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. I suppose that kids have always asked about these things, because kids always do what kids do best, hunting after the highs and lows of life until they find their place in the world. But it used to be that there were another kind of questions, too. Ten years ago, there were kids who asked questions like "why aren't we allowed to say the Blood prayers anymore?" and "[????? something about how an older family member is affected socially/economically]". But for kids growing up today, the Blood Temple was just a part of history.
 
-And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, criminals who severely exploited people were sometimes stripped naked and flogged in the public square. [????? But that wasn't the important part of the Blood Temple.] No, I couldn't tell them any stories about that, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't violate Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. [????? After someone was punished, they needed to have the opportunity to return to equal. If you continued gossiping long after the event, you were stepping on them for your own amusement. That was <em>lowari</em>.]
+And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, criminals who severely exploited people were sometimes stripped naked and flogged in the public square. But that wasn't what the Blood Temple was really about. And no, I couldn't tell them any stories about that, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't violate Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. [????? After someone was punished, they needed to have the opportunity to return to equal. If you continued gossiping long after the event, you were stepping on them for your own amusement. That was <em>lowari</em>.]
 
-[????? No… none of that was the important part of the blood Temple.]
+No… none of that was what the Blood Temple was really about.
+
+What a pity that most of these kids would have to grow much older before they would appreciate my fond memories of the hard work, the satisfying work of Blood. As I often did, I made a compromise, telling the hectic story of our work during the relief effort for Hurricane Fjarl –
+
+No… as Yali, I didn't care what those kids from the past were interested in.
 
 ?????
 
@@ -127,7 +131,9 @@ And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, 
 
 As Yali, I ?????balked. Sure, it was a feel-good thing for him to do, but it didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. At least with the Waiting God, when I had trouble understanding it, I could <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
 
-Well, I didn't need to know what <em>?????caretaker</em> thought was the best thing about the Blood Temple. ?????
+Well, I didn't need to know what <em>?????caretaker</em> thought was the best thing about the Blood Temple. ????? Maybe the right idea was to go over the story of Hurricane Fjarl after all. That would tell me how the Blood Temple handled a crisis [?????, which was much more important than this everyday stuff].
+
+[????? Bunch of hurricane stuff, then some more of the lawyer?]
 
 
 [????? Yali runs into "The same memory of the sick boy"; what was so important about that memory?]
