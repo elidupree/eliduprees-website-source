@@ -207,9 +207,11 @@ I took a lot of notes on my phone, too. [????? I had gone to the trouble of keep
 
  ?????
 
-And along with the portal, the others were already there. Alchemist and Morrow.
+[????? Probably cut: And along with the portal, the others were already there. Alchemist and Morrow.]
 
-I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed. And I would have been able to tolerate Morrow a lot better if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
+[????? For a while I had been slowly climbing what turned out to be a five sided pyramid. I was near the top. I could already see it through the watchful eye. Alchemist and Morrow were camped on the top, but not next to the portal. The portal couldn't even be seen through the watchful eye]
+
+I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed. And I might have been able to tolerate Morrow if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
 
 I hesitated. Was it un-Blood for me to think that way? Well, not for Morrow, certainly. Hating someone who abused your loved ones was clearly a Blood thing to do. But Alchemist…
 
@@ -235,7 +237,11 @@ Morrow approached me, as I had seen. I caught his hand, keeping it close between
 
 I let go of Morrow's hand. He backed away from me. This was going well.
 
-I rolled the wagon close to the portal, where Alchemist was waiting. Alchemist nervously approached and looked at Rinn's head, the only part of her that was sticking out of the foam. Tears filled their eyes.
+I pulled the wagon up on to the highest point, the flat top of the pyramid, and began rolling it across the black and shining floor. This close to the center, the sun beat down hard on my head and shoulders, burning away at my skin, even through my clothes. But this sun was more familiar now, and I could feel a bit of warmth amid the burning.
+
+Ahead of me, in the center of the floor, I could finally see the portal with my own eyes. It was the same substance as the other portals, but it was so much more than anything that had come before it. Once my eyes were on it, it was hard to look away. Instead of being shaped like a doorway, it was like an obelisk pointing upwards, about the same height as I was, joined to the sun by a column of light, glowing black and white and every color of the rainbow at the same time. It felt like its power was spilling across the world, radiating a sense of awe and fear and purpose. No wonder Alchemist and Morrow had kept their distance from it.
+
+Alchemist nervously approached and looked at Rinn's head, the only part of her that was sticking out of the foam. Tears filled their eyes.
 
 "Is, she… You used, the…"
 
@@ -258,6 +264,20 @@ Alchemist looked down over the city. I saw their eyes linger over the distant go
 "I wish I could tell you something else."
 
 "I know."
+
+Alchemist turned and looked at the portal.
+
+"I knew…" they said resignedly. "I knew… when we got here, it already had three sides… I only didn't know, who…"
+
+Now that I was here, I understood what they meant. [????? The pillar was an obelisk with five sides, like the pyramid – but two of them were duller, not quite as brilliantly colored as the other three. There was one side for each of us – each of us who was still alive and still a Raveller.]
+
+"This wasn't right," I said. "None of this should have had to happen. All I can say is… it'll be over soon. We'll all go through that portal. You'll be home again."
+
+"Will we, wait for, Rinn…?"
+
+"No. I'm going to send her through unconscious. Just to be safe."
+
+"Oh…"
 
 ?????
 
@@ -285,15 +305,15 @@ I let them ?????relax for a little while, then added, "We can also exchange phon
 
 [????? Alchemist physicality] "I, didn't, have my phone, on me, when…"
 
-In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they might not remember it. And if <em>they</em> told me <em>their</em> number, they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. I won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
+In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they might not remember it. And if <em>they</em> told me <em>their</em> number, they thought they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. I won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
 
 Alchemist nodded. They manifested their phone, and thumbed through it to find where it would show their number. "If I could, also, give this to, Morrow, and, Rinn…"
 
-I carefully copied Alchemist's number. "Morrow and Rinn both lost their real phones in the Stern God's world. But the real phones will still go back to the material world with them. So I can write down Morrow's number and then text it to you, and for Rinn, I can –"
+I carefully copied Alchemist's number. "Morrow and Rinn both lost their real phones in the Stern God's world. But the real phones will still go back to the material world with them. So I can write down Morrow's number now and then text it to you when I'm back, and for Rinn, I can give Rinn <em>your</em> number –"
 
 Alchemist flinched a bit. They had realized, based on what I said, that I wasn't willing to let Morrow know <em>my</em> number. I was trying not to force Alchemist to think about the conflict between us, but it would have been easier if Alchemist wasn't so smart.
 
-"– For Rinn, I can give Rinn <em>your</em> number. I could give hers to you, I assume she'd be okay with that, but I just –" I carefully kept any hint of resentment out of my voice. This wasn't about Morrow. "– I just want to make sure to respect everyone's boundaries."
+Pretending not to notice, I continued, "I could give hers to you, I assume she'd be okay with that, but I just –" I carefully kept any hint of resentment out of my voice. This wasn't about Morrow. "– I just want to make sure to respect everyone's boundaries."
 
 "I, understand."
 
