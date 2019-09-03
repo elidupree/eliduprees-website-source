@@ -57,23 +57,31 @@ I should never have taken that wretched case. But at least they were finally get
 
 This was perfect, ????? from the safety and comfort of my own bed. Even better that Eva was out of town, visiting a friend to "decompress". Probably to vent about me. But, at the very least, it meant that she wasn't here to nag me about wearing shoes in the bed. My shoes were <em>not</em> dirty. She never complained of a dirty bed when she didn't <em>see</em> me wearing them, so it was just another of her irrational –
 
-As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome to work with, and this lawyer was one of them. If I just let his memories go wherever they felt like, I would spend far too much time in his complaints about his wife. There was nothing wrong with his wife. She was an ordinary person with ordinary flaws, and I had no interest in his frustrations with her. But I had to work past them, because he had much more interesting things to remember.
+As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome to work with, and this lawyer was one of them. If I just let his memories go wherever they felt like, I would spend far too much time in his complaints about his wife. There was nothing wrong with his wife. She was an ordinary person with ordinary flaws, and I had no interest in his frustrations with her. But I had to work past them, because he had much more important things to remember.
 
 He had thought of a <em>case</em>. A case he had been involved with as a lawyer, one that was related to the Blood Temple.
 
 ????? [????? Not sure of ordering:]
 
+[????? meeting boss regarding 6 files about recent thefts from ?????Corporation storefronts]
+
 "Another six gone to Blood? What do we pay you for?!" he yelled, slamming his hand down on the files, spittle flying from his mouth.
 
-I <em>could</em> have yelled back. But <em>I</em> chose to be professional. "Sir, there was nothing that could be done. [????? The Concord of Temples precedent]
+I <em>could</em> have yelled back. But <em>I</em> chose to be professional. "Sir, there was nothing that could be done. I challenged them before the Concord of Temples as you asked, but the precedent is unambiguous. The fourth layer is shared between the temples, and whenever a crime is –"
 
-?????
+"I don't care about the details! Make something –"
+
+I was <em>about</em> to say that whenever a crime is committed in the fourth layer, the Concord of Temples assigns it to whichever temple is considered to have the greatest interest in the outcome. In these six cases, the defendants were <em>residents</em> of the fifth layer, which meant [????? the Blood Temple got it]. [????? Frustrated that boss didn't give him a chance to say it]
+
+"– Make something happen! Fight it out in Blood court if you have to! [????? That's an order!]"
 
 "Sir, I am not an expert in Blood law," I said. That was right, I had <em>told</em> him it wasn't my expertise! I had done <em>my</em> job perfectly, I had warned him, so everything that happened later was <em>his</em> fault for ignoring my advice! I had even said "[????? therefore I can't guarantee results] –"
 
 As Yali, I typed out, <em>?????lawyer didn't understand blood law, <strong>believes</strong> he warned boss</em>. This memory contained the feeling of looking back and feeling justified. But it hadn't originally contained that feeling, and he wasn't still alive to add his own thoughts about it now. So the memory had already been rewritten to add it, while he was still alive. He had probably rewritten this memory many times, to cast himself in the best possible light.
 
 ?????
+
+[Sitting around researching for the cases; ineffectually frustrated about boss calling things "orders"; stuck doing cases outside his interests because of how the job is subsidized by the Waiting]
 
 I read from the Book of Blood, of course, but I also had to cross-reference it with other ????? and historical accounts, because the Book of Blood [????? rambled about principles way more than it defined the rules].
 
