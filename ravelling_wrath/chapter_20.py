@@ -61,9 +61,11 @@ As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome t
 
 He had thought of a <em>case</em>. A case he had been involved with as a lawyer, one that was related to the Blood Temple.
 
-????? [????? Not sure of ordering:]
+It started as an ordinary shoplifting case, which should have been nothing more than a small loss for us. Until ?????, my boss at ?????Corporation, [????? had to micromanage me]. And then he had the nerve to blame <em>me</em> for what happened! I could still hear his voice ringing in my years from when he fired me – "I told you to get them arrested, not to bring all of this politics down on us! I will personally make sure you never work in this industry again!" And that shrill Blood Temple judge – "Did you learn Blood law from a book? [????? You know nothing!]" Curse them all.
 
-[????? meeting boss regarding 6 files about recent thefts from ?????Corporation storefronts]
+I should have known from the beginning that ?????boss was bad news. He was the new ?????executive at ?????Corporation, and I had worked I had worked at ?????Corporation for twenty years, but he insisted on lording his position over me. He hated me because I was professional where he was crass. He made me report to him on every little detail of every case – like that one.
+
+I was in his sweltering office on the fourth floor, showing him the files for six recent cases of shoplifting at ?????Corporation storefronts. My <em>last</em> boss would have trusted me to do my job – trusted that these were routine cases that didn't need his attention – but not him.
 
 "Another six gone to Blood? What do we pay you for?!" he yelled, slamming his hand down on the files, spittle flying from his mouth.
 
@@ -75,7 +77,7 @@ I was <em>about</em> to say that whenever a crime is committed in the fourth lay
 
 "– Make something happen! Fight it out in Blood court if you have to! [????? That's an order!]"
 
-"Sir, I am not an expert in Blood law," I said. That was right, I had <em>told</em> him it wasn't my expertise! I had done <em>my</em> job perfectly, I had warned him, so everything that happened later was <em>his</em> fault for ignoring my advice! I had even said "[????? therefore I can't guarantee results] –"
+"Sir, I am not an expert in Blood law," I said. That was right, I had <em>told</em> him it wasn't my expertise! I had done <em>my</em> job perfectly, I had warned him, so the whole debacle was <em>his</em> fault for ignoring my advice! I had even said "[????? therefore I can't guarantee results] –"
 
 As Yali, I typed out, <em>?????lawyer didn't understand blood law, <strong>believes</strong> he warned boss</em>. This memory contained the feeling of looking back and feeling justified. But it hadn't originally contained that feeling, and he wasn't still alive to add his own thoughts about it now. So the memory had already been rewritten to add it, while he was still alive. He had probably rewritten this memory many times, to cast himself in the best possible light.
 
