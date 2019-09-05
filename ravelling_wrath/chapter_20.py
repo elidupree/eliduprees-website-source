@@ -167,11 +167,53 @@ This was unsettling. To <em>him</em>, it was so <em>obvious</em> why this would 
 
 [????? Yali hunts for the answer; it's basically "so that he grows up knowing that we care for each other and can rely on each other"]
 
-In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone else to do what I needed without me checking it. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again and again until they were burned enough times to learn not to trust anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! [????? I was very angry; if kids didn't have to learn how to take care of themselves, everything I had worked for would be meaningless]
+In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone else to do what I needed without me checking it. Every time I had hesitated because some useless adult had told me things would be taken care of. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again and again until they were burned enough times to learn not to trust anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! I could feel anger building inside me, anger at this man who would try to soothe away the core of what made me strong, what made me <em>Yali Seti</em>. I could just imagine him softly telling me it was okay to let down my guard. I could never let down my guard! If I did, I would be weak and helpless and pathetic, I would be back with the Dalners, I would be sick and no one would take care of me, I wouldn't get up in the morning. How could this be <em>holy</em>?! I could never accept this! [????? If this was what the Blood God was telling me, it was telling me that it was all meaningless, everything I had done to protect myself, ????? the Blood God <em>was</em> bad]
+
+But if the Blood God was bad, then the Waiting God was right. To protect humanity from its foolish vulnerability, it was necessary to carve away the remnants of Blood, ?????
+
+[????? I had emotional reasons to want both results. I had to clear them away and seek only the truth]
+
+I was already crying. I hated it. There was much more to do, and I was crying <em>already</em>.
+
+What did I know for sure?
+
+It was a fact that ?????caretaker had told that boy he didn't need to worry. It was a fact that ?????caretaker believed that that was good, that it was sacred to the Blood God. Was it truly sacred to the Blood God? Every part of me said <em>yes</em>.
+
+It was a fact that <em>I</em> had needed to worry. It was a fact that if I had not worked to protect myself, I would still be with the Dalners.
+
+Was it a fact that ?????caretaker would have told <em>me</em> that <em>I</em> didn't need to worry? He clearly <em>sympathized</em> with victims of abuse, but he wouldn't have known I was being abused. He could easily have seen me and believed that nothing was wrong, then tried to reassure me that nothing was wrong. But how could I know for sure? Could I think back to any memories – yes, a memory came to mind surprisingly easily…
+
+I was watering the garden out in front of the temple's living quarters when the woman approached. ?????
+
+"Is my son here? ?????Name – He's here, isn't he?"
+
+"If there is a ?????name here, if you'll just wait here, I can step inside and tell him that his mother is –"
+
+"What is this? Is he here or not?"
+
+"Just Temple policy, ma'am –"
+
+The woman pushed past and went in through the door. She was dressed like someone from the third layer, so she probably didn't understand the norms around here – even though most of the temple was open to the public, any living space was sacred, and it was a violation to enter one uninvited. I dropped my tools and hurried after her.
+
+[????? Niveah was already tending the children indoors and saw what happened, thank the gods. I didn't know if I would have the guts to stand in someone's way, but Niveah did.]
+
+"Ma'am, you can't come in here, you have to step outside –"
+
+"?????Name, come here! I am your mother!"
+
+Niveah seemed to be holding the woman back for now. I knew where I was needed. I hurried past them and knelt down next to ?????name, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and it was Blood tradition not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present.
+
+I patted ?????name on the shoulder – I was the only person he allowed to touch him, but he seemed to find my touch reassuring. "It's okay," I whispered. "You don't have to go with her unless you want to. It's your choice."
 
 ?????
 
-It wasn't the truth about the world. It was the truth about a world <em>without the Blood Temple</em>. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the ?????s]
+[????? Woman is like "how is this a blood Temple when it tries to separate me from my son", Rohin shows up like "did I hear someone wonder if this is not a blood Temple?" and lectures the woman about Blood principles about respect for children?]
+
+[????? It was years before he opened up to me about the abuse. But at the time, I just knew I had to care for the person right in front of me]
+
+?????
+
+[????? It wasn't the truth about the world. It was the truth about a world <em>without the Blood Temple</em>. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the ?????s]
 
 [????? Everything I had worked for SHOULD have been meaningless]
 
