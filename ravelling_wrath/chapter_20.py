@@ -141,11 +141,15 @@ No… none of that was what the Blood Temple was really about.
 
 What a pity that most of these kids would have to grow much older before they would appreciate my fond memories of the hard work, the satisfying work of Blood. As I often did, I made a compromise, telling the hectic story of our work during the relief effort for Hurricane Fjarl –
 
-No… as Yali, I didn't care what those kids from the past were interested in.
+No… as Yali, I didn't care what those kids from the past were interested in. <em>I</em> wanted to know the part that was important.
+
+It was a time of peace, a slow autumn when the days were warm and the temple well-stocked, years before the hurricane put us in the middle of recovery again. It had been a good year for the eastern farmland, and ?????
+
+[????? In a time like that, the things we were doing were ones that we could afford to put off if something else came up. That's what happened. I was doing a thing when the boy approached me sick, and I decided that I could afford to let it go for that evening to take care of them]
 
 ?????
 
-[????? Narrated memory of caretaker comforting a sick boy all night]
+[????? Narrated memory of caretaker comforting a sick boy all night; entertaining him with a radio show he liked]
 
 As Yali, I ?????balked. Sure, it was a feel-good thing for him to do, but it didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. At least with the Waiting God, when I had trouble understanding it, I could <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
 
@@ -195,13 +199,13 @@ I was watering the garden out in front of the temple's living quarters when the 
 
 The woman pushed past and went in through the door. She was dressed like someone from the third layer, so she probably didn't understand the norms around here – even though most of the temple was open to the public, any living space was sacred, and it was a violation to enter one uninvited. I dropped my tools and hurried after her.
 
-[????? Niveah was already tending the children indoors and saw what happened, thank the gods. I didn't know if I would have the guts to stand in someone's way, but Niveah did.]
+[????? Civeah was already tending the children indoors and saw what happened, thank the gods. I didn't know if I would have the guts to stand in someone's way, but Civeah did.]
 
 "Ma'am, you can't come in here, you have to step outside –"
 
 "?????Name, come here! I am your mother!"
 
-Niveah seemed to be holding the woman back for now. I knew where I was needed. I hurried past them and knelt down next to ?????name, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and it was Blood tradition not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present.
+Civeah seemed to be holding the woman back for now. I knew where I was needed. I hurried past them and knelt down next to ?????name, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and it was Blood tradition not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present.
 
 I patted ?????name on the shoulder – I was the only person he allowed to touch him, but he seemed to find my touch reassuring. "It's okay," I whispered. "You don't have to go with her unless you want to. It's your choice."
 
@@ -213,9 +217,18 @@ I patted ?????name on the shoulder – I was the only person he allowed to touch
 
 ?????
 
-[????? It wasn't the truth about the world. It was the truth about a world <em>without the Blood Temple</em>. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the ?????s]
+<bigbreak>
 
-[????? Everything I had worked for SHOULD have been meaningless]
+It was impossible. It was too convenient. Was I supposed to believe that I could have just walked into the Blood Temple and they would have protected me from the Dalners? That they would have fed me, taken care of me, no questions asked? Without needing proof, without me having to ?????? It couldn't be real. That just wasn't how the world worked. [????? No one would fight for you if you didn't force them to]
+
+Or maybe… maybe it wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood Temple</em>.
+
+My teeth chattered. I felt dizzy and sick. But I couldn't deny it. I had seen it all the memories. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the ?????s]
+
+Everything I had done… [????? Every time I forced myself to stay quiet/etc.…] It WOULD all have been meaningless. It SHOULD all have been meaningless. ????? [????? It should have been] A world where I didn't have to work harder than everyone else just to have my basic safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because ?????.
+
+I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain so intense that nobody could face it and stay standing, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was nothing I could do. The pain was inside of me. I couldn't make it go away. I couldn't even <em>wish</em> for it to go away. I <em>needed</em> this pain. I knew it in the core of my being. ?????
+
 
 [????? I cried a lot, I didn't know what to do]
 
