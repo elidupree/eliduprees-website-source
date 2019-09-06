@@ -158,7 +158,7 @@ Well, I didn't need to know what <em>?????caretaker</em> thought was the best th
 [????? Bunch of hurricane stuff, then some more of the lawyer?]
 
 
-[????? Yali runs into "The same memory of the sick boy"; what was so important about that memory?]
+[????? Yali runs into "The same memory of the sick boy"; what was so important about that memory? – Specifically, a child needs care during the hurricane work but caretaker has to be brief with them]
 
 
 ?????
