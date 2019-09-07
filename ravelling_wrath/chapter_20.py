@@ -145,21 +145,29 @@ No… as Yali, I didn't care what those kids from the past were interested in. <
 
 It was a time of peace, a slow autumn when the days were warm and the temple well-stocked, years before the hurricane put us in the middle of recovery again. It had been a good year for the eastern farmland, and ?????
 
+[????? Brief descriptions of reading from the book of blood to the children – an audience ranging from the smallest children to the elderly, because everyone needs it in their own way – including a bit of information about the Temple social structures – "no person can be above or below another"]
+
 [????? In a time like that, the things we were doing were ones that we could afford to put off if something else came up. That's what happened. I was doing a thing when the boy approached me sick, and I decided that I could afford to let it go for that evening to take care of them]
 
 ?????
 
-[????? Narrated memory of caretaker comforting a sick boy all night; entertaining him with a radio show he liked]
+[????? Narrated memory of caretaker comforting a sick boy all night; entertaining him with a radio show he liked; maybe there's relevant politics about radio shows?]
 
-As Yali, I ?????balked. Sure, it was a feel-good thing for him to do, but it didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. At least with the Waiting God, when I had trouble understanding it, I could <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
+I pulled myself out of the memory. I had thought this would be something important, but it was just feel-good stuff. It was just ?????caretaker looking back on something with rose-colored glasses. And it wasn't even a <em>good</em> thing! If you weren't having a crisis, that didn't mean you could afford to idle around, it meant you could afford to prepare for the next crisis before it happened.
 
-Well, I didn't need to know what <em>?????caretaker</em> thought was the best thing about the Blood Temple. ????? Maybe the right idea was to go over the story of Hurricane Fjarl after all. That would tell me how the Blood Temple handled a crisis [?????, which was much more important than this everyday stuff].
+In hindsight, it hasn't been very likely that what <em>he</em> thought was the most important would be the same thing <em>I</em> thought was the most important. I would have to hunt through the memories myself, like I always did. Maybe the right idea was to go over the story of Hurricane Fjarl after all. That would tell me how the Blood Temple handled a crisis [?????, which was much more important than this everyday stuff].
 
-[????? Bunch of hurricane stuff, then some more of the lawyer?]
+[????? Bunch of hurricane stuff]
 
 
 [????? Yali runs into "The same memory of the sick boy"; what was so important about that memory? – Specifically, a child needs care during the hurricane work but caretaker has to be brief with them]
 
+As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of old times. ?????Caretaker actually felt like he had accomplished something then, and he was frustrated that it wouldn't get done now. But what was he thinking of? Staying up with the boy all night didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. It was even worse than when I was trying to understand the Waiting God – with the god, I could at least <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
+
+[????? Maybe I can figure it out, but I wasn't getting anywhere, back to the hurricane]
+
+
+[????? some more of the lawyer; Waiting God comes back somewhere in here?]
 
 ?????
 
@@ -173,9 +181,11 @@ This was unsettling. To <em>him</em>, it was so <em>obvious</em> why this would 
 
 In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone else to do what I needed without me checking it. Every time I had hesitated because some useless adult had told me things would be taken care of. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again and again until they were burned enough times to learn not to trust anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! I could feel anger building inside me, anger at this man who would try to soothe away the core of what made me strong, what made me <em>Yali Seti</em>. I could just imagine him softly telling me it was okay to let down my guard. I could never let down my guard! If I did, I would be weak and helpless and pathetic, I would be back with the Dalners, I would be sick and no one would take care of me, I wouldn't get up in the morning. How could this be <em>holy</em>?! I could never accept this! [????? If this was what the Blood God was telling me, it was telling me that it was all meaningless, everything I had done to protect myself, ????? the Blood God <em>was</em> bad]
 
-But if the Blood God was bad, then the Waiting God was right. To protect humanity from its foolish vulnerability, it was necessary to carve away the remnants of Blood, ?????
+But if the Blood God was bad, then the Waiting God was right. To protect humanity from their foolish vulnerability, it was necessary to carve away the remnants of Blood, to clear humanity of the frivolousness that held them back from doing what needed to be done. To finally make a world where everything that needed to be done <em>would</em> be done. ?????
 
-[????? I had emotional reasons to want both results. I had to clear them away and seek only the truth]
+[????? I angrily denied those thoughts]. [????? Some of the Waiting God's thoughts were getting in my thoughts again [more or less details depending whether this is the first time that happens]]
+
+[????? I had emotional reasons to want both results. I had to clear them away and seek only the truth] [????? the part of me that saw the Waiting as the only shelter from the chaos of the world, and the part of me that saw the Waiting as an uncaring manipulator] [????? arguing with each other, both afraid that the truth would be against them?] [????? It was hard to think because of the arguing. Slowly, I cleared it away, exposing myself to the painful direct access to the truth without filters]
 
 I was already crying. I hated it. There was much more to do, and I was crying <em>already</em>.
 
@@ -185,7 +195,9 @@ It was a fact that ?????caretaker had told that boy he didn't need to worry. It 
 
 It was a fact that <em>I</em> had needed to worry. It was a fact that if I had not worked to protect myself, I would still be with the Dalners.
 
-Was it a fact that ?????caretaker would have told <em>me</em> that <em>I</em> didn't need to worry? He clearly <em>sympathized</em> with victims of abuse, but he wouldn't have known I was being abused. He could easily have seen me and believed that nothing was wrong, then tried to reassure me that nothing was wrong. But how could I know for sure? Could I think back to any memories – yes, a memory came to mind surprisingly easily…
+Was it a fact that ?????caretaker would have told <em>me</em> that <em>I</em> didn't need to worry? And if he did, what would the Blood God think?
+
+He clearly <em>sympathized</em> with victims of abuse, but he wouldn't have known I was being abused. He could easily have seen me and believed that nothing was wrong, then tried to reassure me that nothing was wrong. But how could I know for sure? Could I think back to any memories – yes, a memory came to mind surprisingly easily…
 
 I was watering the garden out in front of the temple's living quarters when the woman approached. ?????
 
