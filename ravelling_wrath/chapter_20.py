@@ -166,6 +166,23 @@ As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of 
 
 [????? Maybe I can figure it out, but I wasn't getting anywhere, back to the hurricane]
 
+[????? As Yali, something was familiar about those people – weight!] They were dressed the same way as that group from the Waiting God's memory, the ones negotiating with the businesspeople. [????? I tried to find other memories of them]
+
+????? A proud, dignified old woman ?????
+
+"We told them that if the towers would be built on public land, by the people, then they would be owned by the people, and the people would decide what was broadcast. [The businesspeople] laughed at us!
+
+"I fear for my grandchildren's generation," ????? "just this morning little ?????name asked me, 'why can't we have [????? radio] like the upper layers?' Where did she even hear ?????? I told her, we <em>could</em> have [????? radio], but those greedy men will not let us have it unless they can use it to control us. [????? We are proud neighborhood, we will not be turned into working dogs for a company!]"
+
+"[????? You're doing important work]," I said.
+
+"[????? Bit of defeatism.] No doubt they will find some other [????? neighborhood who will be suckered into believing this… horsecrap. And then [????? everyone will be listening to radios selling them stuff]"
+
+"Surely the Blood Temple would put a stop to that!"
+
+"The Blood Temple is not what it used to be, young man. Blood Council have tied their own hands, they have made one too many treaties for my liking. In my day
+
+?????
 
 [????? some more of the lawyer; Waiting God comes back somewhere in here?]
 
@@ -407,3 +424,4 @@ Pretending not to notice, I continued, "I could give hers to you, I assume she'd
 },
 ]
 
+I'm working on my novel
