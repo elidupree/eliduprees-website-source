@@ -117,7 +117,9 @@ What was this pretrial hearing, then?
 
 [????? Physical descriptions, introduction to hearing]
 
-[????? Lawyer seeing the accused at pretrial hearing, sexist thoughts] –
+[????? Lawyer at pretrial hearing]
+
+[????? The judge, technically the Speaker]
 
 [????? The accused? The thief girl?] didn't look quite how I had imagined her. She came in nervously, holding herself upright, wearing a plain, conservative dress. She was almost pretty. But I could see her piercings, and as soon as she spoke, I could hear the vulgar way she talked. She was clearly fifth-layer trash. No doubt this was her <em>only</em> conservative dress, and she paraded around the streets in straps that barely covered up those oversized breasts – not that I paid attention to that. <em>I</em> was a professional, after all. When she entered, I shook her hand firmly, looking her steadily in the eye, and gave a polite –
 
@@ -159,12 +161,18 @@ In hindsight, it hasn't been very likely that what <em>he</em> thought was the m
 
 [????? Bunch of hurricane stuff]
 
+[????? Brief description of the old priest, then he says "perhaps we should [do something with the hurricane supplies]"]
+
+That meant I [????? had to do it]. Everyone understood that Rohin was in charge around here. [????? Tradition said that Blood priests were guides, not tell other people what to do, but Rohin had a way of turning guiding into orders.] If I didn't do what he said, he would keep saying "Ah, but perhaps you haven't considered –" until I gave in. The Blood Temple theoretically had ?????procedures for stopping this kind of thing – if someone told the council about it [????? everywhere "Council" is mentioned – tweak/consistency way of referring to it], they would investigate, and they would certainly find that he had too much power to be a priest. Then he would either be ?????disrobed and exiled, or be promoted to a Speaker. Since he was widely respected, he would probably be made a Speaker, which meant he <em>would</em> have official authority, but would have to wear the mask all the time and wasn't allowed to give himself an identity separate from the other Speakers. But in practice, none of that would happen – Rohin was likable enough, and no one was angry enough to get the Council involved, and Rohin was smart enough not to do anything that would change that.
+
 
 [????? Yali runs into "The same memory of the sick boy"; what was so important about that memory? – Specifically, a child needs care during the hurricane work but caretaker has to be brief with them]
 
 As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of old times. ?????Caretaker actually felt like he had accomplished something then, and he was frustrated that it wouldn't get done now. But what was he thinking of? Staying up with the boy all night didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. It was even worse than when I was trying to understand the Waiting God – with the god, I could at least <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
 
 [????? Maybe I can figure it out, but I wasn't getting anywhere, back to the hurricane]
+
+[????? a neighborhood council is involved in the hurricane relief]
 
 [????? As Yali, something was familiar about those people – weight!] They were dressed the same way as that group from the Waiting God's memory, the ones negotiating with the businesspeople. [????? I tried to find other memories of them]
 
