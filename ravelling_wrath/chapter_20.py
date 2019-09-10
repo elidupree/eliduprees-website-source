@@ -153,7 +153,7 @@ It was a time of peace, a slow autumn when the days were warm and the temple wel
 
 ?????
 
-[????? Narrated memory of caretaker comforting a sick boy all night; entertaining him with a radio show he liked; maybe there's relevant politics about radio shows?]
+[????? Narrated memory of caretaker comforting a sick boy all night; entertaining him with a radio show he liked; maybe there's relevant politics about radio shows? Actually, let's change all the references to "radio" to something magical instead to justify the range not covering the whole city, and this is a good time to set up the details of it]
 
 I pulled myself out of the memory. I had thought this would be something important, but it was just feel-good stuff. It was just ?????caretaker looking back on something with rose-colored glasses. And it wasn't even a <em>good</em> thing! If you weren't having a crisis, that didn't mean you could afford to idle around, it meant you could afford to prepare for the next crisis before it happened.
 
@@ -174,21 +174,33 @@ As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of 
 
 [????? a neighborhood council is involved in the hurricane relief]
 
-[????? As Yali, something was familiar about those people – weight!] They were dressed the same way as that group from the Waiting God's memory, the ones negotiating with the businesspeople. [????? I tried to find other memories of them]
+[????? As Yali, something was familiar about those people – wait!] They were dressed the same way as that group from the Waiting God's memory, the ones negotiating with the businesspeople. [????? I tried to find other memories of them]
 
-????? A proud, dignified old woman ?????
+It was a long time ago, just a few years out of high school, the year my grandfather passed. I hadn't gotten used to my role at the Blood Temple yet, and I was nervous around all the important priests and community leaders who came by. That was how I met her – I was moving a cart of firewood down the hallway, to restock the beacon fires on the temple towers, when a proud, dignified old woman approached from the other direction. I hurried to move my cart to the wall so she would have plenty of room to pass.
 
-"We told them that if the towers would be built on public land, by the people, then they would be owned by the people, and the people would decide what was broadcast. [The businesspeople] laughed at us!
+She looked at me sharply. "You there! Young man. Why did you move aside?"
 
-"I fear for my grandchildren's generation," ????? "just this morning little ?????name asked me, 'why can't we have [????? radio] like the upper layers?' Where did she even hear ?????? I told her, we <em>could</em> have [????? radio], but those greedy men will not let us have it unless they can use it to control us. [????? We are proud neighborhood, we will not be turned into working dogs for a company!]"
+The lines of her face spoke of someone who did not smile easily. I fumbled for my words. "I – you – you're from the neighborhood council in ?????, right? You must have important business, I'm nobody important –"
 
-"[????? You're doing important work]," I said.
+The old woman gestured at my cart. "You are doing the work of the Blood Temple, aren't you? In this hallway, you are the important one." She pointedly moved herself to the opposite wall.
 
-"[????? Bit of defeatism.] No doubt they will find some other [????? neighborhood who will be suckered into believing this… horsecrap. And then [????? everyone will be listening to radios selling them stuff]"
+"I – uh, thanks, I'll just –" In hindsight, I appreciated her show of respect. At the time, I shut my mouth and hurried on my way, not sure how to handle the situation.
+
+But in the coming months, she made a point of noticing me, pausing on her way to thank me for my work, asking after how the Blood Temple was treating me. And in return, I heard [????? her own news of her troubled neighborhood-council work, trying to advocate for everyone with their conflicting needs]
+
+"These ?????Company hustlers are still trying to get [????? our permission to build a radio tower they control]. We told them that if the towers would be built in the middle of ?????neighborhood, and if their broadcasts would become part of the culture of ?????neighborhood, then the towers would be owned by the people, and the people would decide what was broadcast. [The businesspeople] laughed at us! When will they give up?"
+
+"I don't understand," I said. "If they laugh at you in your own home, how do they expect to make you agree to anything?"
+
+"They have nothing new to offer. But they are <em>persistent</em>…" she scoffed. "They want us to think of how wonderful it would be that they will bring jobs, that they will hire [????? people from ?????neighborhood]. So their offer is that we will do work for them, then they will own the result? What rubbish! But some of the weaker wits on my council are halfway persuaded by it. Young man, I fear for my grandchildren's generation… Just this morning little ?????name asked me, 'why can't we have good radio like the upper layers?' Where did she even hear that the upper layers have good radio? I would hardly call it <em>good</em>, I have heard their programs, they are full of liars trying to sell you things you don't need. I told her, we <em>could</em> have good radio, but those greedy men will not let us have it unless they can use it to control us. We are a proud neighborhood, we will not be turned into working dogs for some distant company!"
+
+I didn't feel like I had a complete grasp of the issue, but she certainly made it sound important. "I'm glad you're out there protecting us," I said.
+
+"For what good it'll do…" she muttered. "No doubt they will find some other [????? neighborhood who will be suckered into believing this… horsecrap. And then [????? everyone will be listening to radios selling them stuff]"
 
 "Surely the Blood Temple would put a stop to that!"
 
-"The Blood Temple is not what it used to be, young man. Blood Council have tied their own hands, they have made one too many treaties for my liking. In my day
+"The Blood Temple is not what it used to be, young man. Blood Council have made one too many treaties for my liking, and now they are too busy with their internal politics to see how the world is changing out from under them. In my day
 
 ?????
 
