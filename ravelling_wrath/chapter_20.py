@@ -49,7 +49,7 @@ If I was looking for something I would find abhorrent… That gave me an obvious
 
 It was finally happening. The demolition had begun.
 
-It was hard to see it in the grainy black-and-white of the television. I would have liked to be there to see that wretched structure destroyed with my own eyes. But there was a chance of riots by those Blood worshippers, and it would not do to spoil my retirement by getting caught in the violence. It was enough to know that it was happening.
+It was hard to see it in the grainy black-and-white of the television. I would have liked to be there to see that wretched structure destroyed with my own eyes. But even though Blood worship was illegal now, there were too many people who refused to give it up, and an event like this could provoke them into a riot. It would not do to spoil my retirement by getting caught in the violence. It was enough to know that it was happening.
 
 I lay back in my bed as I watched the gateway crumble, clouds of white dust spreading into the air. Then the camera turned, giving a view of the milling crowd just as a few Blood supporters rushed out towards the police barricade. In moments, they were writhing on the ground – the Stern police had released a sorcery against them. I smiled. I was not a cruel man, but those fools had brought this on themselves.
 
@@ -127,6 +127,8 @@ I pulled myself out of the memory. I didn't care about this hearing – no, I di
 
 [????? Maybe the caretaker would be good for a break. What did he know that I wanted?]
 
+?????Caretaker's memories were organized much differently. They flowed from thought to thought, rather than being logically organized like ?????lawyer. I knew he knew <em>some</em> things about how the Blood Temple fell, but it was hard to make them come to mind when they hadn't already come to mind. And I was tired of fighting with the memories. For now, I decided to just let them flow. To see where they would go when I thought back to the Blood Temple in general.
+
 <bigbreak>
 
 Apparently, time has seen me become "the cool substitute teacher". I have always been told I have a way with children, and it would have made me happy if my stories of the old Blood Temple were what earned me that title. Happier still if it were the way I patiently listened to <em>their</em> stories of their lives. But [????? nowadays it took much less than that to make me "cool". It was because I didn't make them keep their heads down all day and study. So many of their parents are away in the car and computer factories nowadays, and they have cars now, but for what? It never seemed right to enforce the Stern rules on them]
@@ -143,7 +145,7 @@ No… none of that was what the Blood Temple was really about.
 
 What a pity that most of these kids would have to grow much older before they would appreciate my fond memories of the hard work, the satisfying work of Blood. As I often did, I made a compromise, telling the hectic story of our work during the relief effort for Hurricane Fjarl –
 
-No… as Yali, I didn't care what those kids from the past were interested in. <em>I</em> wanted to know the part that was important.
+No… as Yali, I didn't have to compromise with what those kids from the past were interested in. Now that I had touched the thought of <em>what the Blood Temple was really about</em> within ?????caretaker's memories, I could skip straight there.
 
 It was a time of peace, a slow autumn when the days were warm and the temple well-stocked, years before the hurricane put us in the middle of recovery again. It had been a good year for the eastern farmland, and ?????
 
@@ -163,7 +165,7 @@ In hindsight, it hasn't been very likely that what <em>he</em> thought was the m
 
 [????? Brief description of the old priest, then he says "perhaps we should [do something with the hurricane supplies]"]
 
-That meant I [????? had to do it]. Everyone understood that Rohin was in charge around here. [????? Tradition said that Blood priests were guides, not tell other people what to do, but Rohin had a way of turning guiding into orders.] If I didn't do what he said, he would keep saying "Ah, but perhaps you haven't considered –" until I gave in. The Blood Temple theoretically had ?????procedures for stopping this kind of thing – if someone told the council about it [????? everywhere "Council" is mentioned – tweak/consistency way of referring to it], they would investigate, and they would certainly find that he had too much power to be a priest. Then he would either be ?????disrobed and exiled, or be promoted to a Speaker. Since he was widely respected, he would probably be made a Speaker, which meant he <em>would</em> have official authority, but would have to wear the mask all the time and wasn't allowed to give himself an identity separate from the other Speakers. But in practice, none of that would happen – Rohin was likable enough, and no one was angry enough to get the Council involved, and Rohin was smart enough not to do anything that would change that.
+That meant I [????? had to do it]. Everyone understood that Rohin was in charge around here. [????? Tradition said that Blood priests were guides, not tell other people what to do, but Rohin had a way of turning guiding into orders.] If I didn't do what he said, he would keep saying "Ah, but perhaps you haven't considered –" until I gave in. The Blood Temple theoretically had ?????procedures for stopping this kind of thing – if someone told the council about it [????? everywhere "Council" is mentioned – tweak/consistency way of referring to it], they would investigate, and they would certainly find that he had too much power to be a priest. Then he would either be ?????disrobed and exiled, or be promoted to a Speaker. Since he was widely respected, he would probably be made a Speaker, which meant he <em>would</em> have official authority, but would have to wear the mask all the time and wouldn't be allowed to give himself an identity separate from the other Speakers. But in practice, none of that would happen – Rohin was likable enough, and no one was angry enough to get the Council involved, and Rohin was smart enough not to do anything that would change that.
 
 
 [????? Yali runs into "The same memory of the sick boy"; what was so important about that memory? – Specifically, a child needs care during the hurricane work but caretaker has to be brief with them]
@@ -182,7 +184,7 @@ She looked at me sharply. "You there! Young man. Why did you move aside?"
 
 The lines of her face spoke of someone who did not smile easily. I fumbled for my words. "I – you – you're from the neighborhood council in ?????, right? You must have important business, I'm nobody important –"
 
-The old woman gestured at my cart. "You are doing the work of the Blood Temple, aren't you? In this hallway, you are the important one." She pointedly moved herself to the opposite wall.
+The old woman gestured at my cart. "You are doing the work of the Blood Temple, aren't you? That cart must be very heavy – heavier than me, that's certain. In this hallway, you are the important one." She pointedly moved herself to the opposite wall.
 
 "I – uh, thanks, I'll just –" In hindsight, I appreciated her show of respect. At the time, I shut my mouth and hurried on my way, not sure how to handle the situation.
 
@@ -200,8 +202,11 @@ I didn't feel like I had a complete grasp of the issue, but she certainly made i
 
 "Surely the Blood Temple would put a stop to that!"
 
-"The Blood Temple is not what it used to be, young man. Blood Council have made one too many treaties for my liking, and now they are too busy with their internal politics to see how the world is changing out from under them. In my day
+"The Blood Temple is not what it used to be, young man. Blood Council have made one too many treaties for my liking, and now they are too wrapped up in their internal politics to see how the world is changing around them. When I was your age, they would have come down hard on something like this, but too many things have changed…" She shook her head. "No, don't let me demoralize you. (????? Things aren't perfect,) but you can still fight for what's right."
 
+"Me? I'm just a caretaker…"
+
+She fixed me with a ?????adjective glare. "Caretakers are the beating heart of the city, and don't you forget it!"
 ?????
 
 [????? some more of the lawyer; Waiting God comes back somewhere in here?]
