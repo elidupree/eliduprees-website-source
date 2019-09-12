@@ -449,4 +449,3 @@ Pretending not to notice, I continued, "I could give hers to you, I assume she'd
 },
 ]
 
-I'm working on my novel
