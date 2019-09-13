@@ -396,7 +396,7 @@ Alchemist turned and looked at the portal.
 
 "I knew…" they said resignedly. "I knew… when we got here, it already had three sides… I only didn't know, who…"
 
-Now that I was here, I understood what they meant. [????? The pillar was an obelisk with five sides, like the pyramid – but two of them were duller, not quite as brilliantly colored as the other three. There was one side for each of us – each of us who was still alive and still a Raveller.]
+Those words had been confusing when I foresaw them, but now that I was here, I understood what they meant. [????? The pillar was an obelisk with five sides, like the pyramid – but two of them were duller, not quite as brilliantly colored as the other three. There was one side for each of us – each of us who was still alive and still a Raveller.]
 
 "This wasn't right," I said. "None of this should have had to happen. All I can say is… it'll be over soon. We'll all go through that portal. You'll be home again."
 
@@ -405,6 +405,8 @@ Now that I was here, I understood what they meant. [????? The pillar was an obel
 "No. I'm going to send her through unconscious. Just to be safe."
 
 "Oh…"
+
+[????? I sat down with Alchemist; Morrow sat on the other side, overwhelmed]
 
 ?????
 
@@ -444,6 +446,35 @@ Pretending not to notice, I continued, "I could give hers to you, I assume she'd
 
 "I, understand."
 
+?????
+
+[????? Yali says they should go, and Morrow freaks out about returning to the material world]
+
+"Morrow," I said levelly.
+
+I had struggled with how to feel about Morrow. I hated him, and part of me felt sorry for him, and I hated him more because I felt sorry for him. And as much as I wanted him to just shut up and stay in a corner, I knew that wasn't how I wanted to leave things right before I went through the portal. It wasn't Blood.
+
+Morrow's eyes were still bugging out. He looked even more terrified than before, despite Alchemist trying to soothe him. Part of me felt a sick satisfaction at that. But that wasn't what I was trying to do. "I'm not going to hurt you," I said. "I just want to say…"
+
+<em>Rinn</em> had forgiven him, even tried to encourage and support him. I could never do that. But the Blood Temple didn't have to be all love and support all the time, just like it wasn't all rage and violence all the time. They understood that there could be serious conflicts between people, and sometimes you needed strong boundaries to keep everyone from getting hurt. And sometimes you needed to fight to protect those boundaries, and sometimes the time for fighting was now, but sometimes, the time for fighting was in the past. I had made Morrow lower than me, and now, it was time to bring him back up to equal.
+
+"I just want to say…" I continued. It was hard to make the words come out, but as I spoke, I felt like a tension was being released from me. "I just want you to know, I hope you can find peace. We can never be friends, but, but… Rinn cares about you. And I… ?????"
+
+I held out my hand. Morrow didn't take it right away, but I kept holding it out, knowing he would ?????. [????? He clasped the hand, crying. I pulled him to his feet and helped him stand steadily, at a little distance from me]
+
+"I'm going to make the world a better place," I said. "I'm going to make it so that the abuse and neglect that were done to you, and the abuse and neglect that were done to me, will never happen again."
+
+Morrow said something in a small voice. Even through the Watchful Eye, I couldn't quite hear it. It might have been, "yeah, right". Or it might have been, "thank you".
+
+I turned and faced the portal.
+
+It was like waves of power were rolling off of it, pushing me back and away. But it wasn't [????? a forbiddance, actually trying to keep me away.] It was a challenge, daring me to push my way against the waves, to assert my right to occupy my space in the world.
+
+I stepped forward, pulling Rinn in the wagon with one hand. Alongside me, Morrow and Alchemist followed, a little more hesitantly. I took another step, and another. The portal loomed ahead of us, black and formidable. ?????.
+
+We fanned out around the obelisk, each looking for the face that called to us the most deeply. ?????
+
+[????? The time had come. I pressed Rinn's hand onto one side while I put my own hand on another. Then Gate stuff happened]
 
 ''',
 },
