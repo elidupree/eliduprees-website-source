@@ -472,9 +472,13 @@ It was like waves of power were rolling off of it, pushing me back and away. But
 
 I stepped forward, pulling Rinn in the wagon with one hand. Alongside me, Morrow and Alchemist followed, a little more hesitantly. I took another step, and another. The portal loomed ahead of us, black and formidable. ?????.
 
-We fanned out around the obelisk, each looking for the face that called to us the most deeply. ?????
+We fanned out around the obelisk, each looking for the side that called to us the most deeply. It had five sides, evenly spaced around it. One for me and one for Alchemist, the Ravellers who were still conscious. One for Morrow, dull but still waiting to take him home. At my left, one for Justicar, which would remain unvisited and silent. And at my right, one for Rinn, still alive and brimming with energy.
 
-[????? The time had come. I pressed Rinn's hand onto one side while I put my own hand on another. Then Gate stuff happened]
+I unmanifested part of the foam holding Rinn in place, just enough for me to move her arm. Solemnly, I cupped her small hand in mine, reverently lifting it and holding it near the portal's surface.
+
+It was time. I could feel it like the sun burning me in the shadows, like thunder shaking me to the bone. Across from me, Alchemist and Morrow felt it too. Moving as one, we took the final step. With one hand, I pressed Rinn's hand into the unearthly blackness. With the other, I touched the side meant for the Farseer.
+
+I felt myself lurch forward, my hand suddenly empty. I looked and saw Rinn's arm passing through mine as if it wasn't there, a translucent echo, our bodies unmoored from the world. A dizziness came over me, darkness closing in all around, the primeval energy of the portal expanding to drown me. The stars were coming. It was realer than real, as if everything we had done was a passing dream. Where was my body? Hadn't we had a body? I was already slipping away. I tried to concentrate, but the mind slid from my grip like nothing. The dizziness rose and rose. Worlds spun past, some made of geometric shapes in perfect balance, some made of foundations set subtly askew, waiting centuries for the right moment to collapse. We expanded into place, a silvery liquid coating a web, soaking each node with the gloss of clarity. Something wavered at the edge of memory, something this one would have called important, something merely human. And then it passed, fading into the innumerable stars.
 
 ''',
 },
