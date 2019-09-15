@@ -65,7 +65,7 @@ It started as an ordinary shoplifting case, which should have been nothing more 
 
 I should have known from the beginning that ?????boss was bad news. He was the new ?????executive at ?????Corporation, and I had worked I had worked at ?????Corporation for twenty years, but he insisted on lording his position over me. He hated me because I was professional where he was crass. He made me report to him on every little detail of every case – like that one.
 
-I was in his sweltering office on the fourth floor, showing him the files for six recent cases of shoplifting at ?????Corporation storefronts. My <em>last</em> boss would have trusted me to do my job – trusted that these were routine cases that didn't need his attention – but not him.
+I was in his sweltering office on the fourth floor, showing him the files for six recent cases of shoplifting at ?????Corporation storefronts. My <em>last</em> boss would have trusted me to do my job – trusted that these were routine cases that didn't need his attention – but not ?????boss.
 
 "Another six gone to Blood? What do we pay you for?!" he yelled, slamming his hand down on the files, spittle flying from his mouth.
 
@@ -77,13 +77,11 @@ I was <em>about</em> to say that whenever a crime is committed in the fourth lay
 
 "– Make something happen! Fight it out in Blood court if you have to! That's an order!"
 
-"Sir, I am not an expert in Blood law," I said. That was right, I had <em>told</em> him it wasn't my expertise! I had done <em>my</em> job perfectly, I had warned him, so the whole debacle was <em>his</em> fault for ignoring my advice! I had even said "[????? therefore I can't guarantee results] –"
+"Sir, I am not an expert in Blood law," I said. That was right, I had <em>told</em> him it wasn't my expertise! I had done <em>my</em> job perfectly, I had warned him, so the whole debacle was <em>his</em> fault for ignoring my advice! I had even said "and so if you ask me to do this, I won't be able to guarantee that the results will be favorable –"
 
-As Yali, I typed out, <em>?????lawyer didn't understand blood law, <strong>believes</strong> he warned boss</em>. This memory contained the feeling of looking back and feeling justified. But it hadn't originally contained that feeling, and he wasn't still alive to add his own thoughts about it now. So the memory had already been rewritten to add it, while he was still alive. He had probably rewritten this memory many times, to cast himself in the best possible light.
+As Yali, I typed out, <em>?????lawyer didn't understand blood law, <strong>believes</strong> he warned boss</em>. This memory was full of the feeling of looking back and feeling justified. But it couldn't have contained that feeling originally, and he wasn't still alive to add his own thoughts about it now. So the memory had already been rewritten to add it, while he was still alive. He had probably rewritten this memory many times, to cast himself in the best possible light.
 
-?????
-
-[Sitting around researching for the cases; ineffectually frustrated about boss calling things "orders"; stuck doing cases outside his interests because of how the job is subsidized by the Waiting]
+I didn't like having to try to guess which parts were the truth. Maybe there would be other memories that were less unreliable. I skipped forward to what came next.
 
 It was irritating to be working at ?????boss's "orders". He couldn't <em>order</em> me – he was a ?????executive, not a drill sergeant. But I couldn't talk back to him – that would be unprofessional. So here I was at the Stern library, poring over my books, sitting at a cramped desk under the tall shelves.
 
@@ -101,13 +99,31 @@ Could the thefts be prosecuted as thefts <em>from the employees</em>? No… hist
 
 At least this kind of nonsense still had clear rules. It wasn't so different from Stern law, full of impossible situations created by historical compromises, from which it was my job to find ways out.
 
-But there was worse. Even once there was a <em>violation of blood</em>, it still wasn't necessarily a crime. Or, to be precise, it wasn't necessarily <em>lowari</em>. Blood law described four types of violation, and the Temple would only punish <em>lowari</em>, even though the distinctions between the types were subtle and subjective.
+But there was worse. Even once there was a <em>violation of blood</em>, it still wasn't necessarily a crime. Or, to be precise, it wasn't necessarily <em>lowari</em>. Blood law described four types of violation – <em>?????</em>, <em>?????</em>, <em>chet</em>, and <em>lowari</em>. And the Temple would only punish <em>lowari</em>, even though the distinctions between the types were subtle and subjective.
 
-Blood law defined <em>lowari</em> as violations that <em>put one person above another</em>.
+The lowest type of violation was <em>?????</em>, a mistake. It was for when the violator didn't understand that someone would be hurt by their actions at all. The Blood Temple answered cases of <em>?????</em> by educating the violator, and no other punishment. The violator was encouraged to pay restitution, depending on the circumstances, but not required to. Violations committed by younger children were generally considered <em>?????</em>, even if they were intentional, because it was assumed that children didn't understand the impact they were having on others.
+
+Next was <em>?????</em>, a crime of desperation. If you were starving and broke into someone's house to steal food, or if you were being abused and you killed your abuser, that was <em>?????</em>. When a case of <em>?????</em> came before Blood court, it was considered a failure <em>by the Blood Temple itself</em>, because the Blood Temple was responsible for making sure no one fell into desperation. It even triggered internal Blood Temple procedures to investigate how their services had failed the violator. That was interesting, but not helpful to me.
+
+Third was <em>chet</em>, a crime of passion. This was the category generally used when an argument between peers turned violent. ?????
+
+And finally… there was <em>lowari</em>.
+
+Blood law defined <em>lowari</em> as violations that <em>put one person above another</em>. ?????
+
+[????? Rules about revenge]
+
+Getting revenge for <em>chet</em> was permitted, but not encouraged. And if you got revenge for <em>?????</em> or <em>?????</em>, that was not permitted, and you were probably committing <em>chet</em>.
+
+But how did the Blood Temple determine what was ?????? According to the Book of Blood, if the parties couldn't come to a resolution between themselves, the victims and the accused would meet in temple and "bare their hearts", and then "the blood of the city" would decide the truth. From what I could tell, this was nothing but a fancy way of saying that one of the Blood Temple's masked judges would question them and then make an arbitrary decision.
 
 ?????
 
-But how did the Blood Temple determine what was ?????? According to the Book of Blood, the victims and the accused would meet in temple and "bare their hearts", and then "the blood of the city" would decide the truth. From what I could tell, this was nothing but a fancy way of saying that one of the Blood Temple's masked judges would question them and then make an arbitrary decision.
+[????? Thinking about how to argue that the shoplifting was a crime]
+
+?????
+
+
 
 ?????
 
