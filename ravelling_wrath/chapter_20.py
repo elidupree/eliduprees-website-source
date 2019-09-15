@@ -55,7 +55,7 @@ I lay back in my bed as I watched the gateway crumble, clouds of white dust spre
 
 I should never have taken that wretched case. But at least they were finally getting what they deserved.
 
-This was perfect, ????? from the safety and comfort of my own bed. Even better that Eva was out of town, visiting a friend to "decompress". Probably to vent about me. But, at the very least, it meant that she wasn't here to nag me about wearing shoes in the bed. My shoes were <em>not</em> dirty. She never complained of a dirty bed when she didn't <em>see</em> me wearing them, so it was just another of her irrational –
+This was perfect, watching it all from the safety and comfort of my own bed. Even better that Eva was out of town, visiting a friend to "decompress". Probably to vent about me. But, at the very least, it meant that she wasn't here to nag me about wearing shoes in the bed. My shoes were <em>not</em> dirty. She never complained of a dirty bed when she didn't <em>see</em> me wearing them, so it was just another of her irrational –
 
 As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome to work with, and this lawyer was one of them. If I just let his memories go wherever they felt like, I would spend far too much time in his complaints about his wife. There was nothing wrong with his wife. She was an ordinary person with ordinary flaws, and I had no interest in his frustrations with her. But I had to work past them, because he had much more important things to remember.
 
@@ -73,9 +73,9 @@ I <em>could</em> have yelled back. But <em>I</em> chose to be professional. "Sir
 
 "I don't care about the details! Make something –"
 
-I was <em>about</em> to say that whenever a crime is committed in the fourth layer, the Concord of Temples assigns it to whichever temple is considered to have the greatest interest in the outcome. In these six cases, the defendants were <em>residents</em> of the fifth layer, which meant [????? the Blood Temple got it]. [????? Frustrated that boss didn't give him a chance to say it]
+I was <em>about</em> to say that whenever a crime is committed in the fourth layer, the Concord of Temples assigns it to whichever temple is considered to have the greatest interest in the outcome. In these six cases, the defendants were <em>residents</em> of the fifth layer, which meant the Blood Temple was considered to have the greatest interest. If he had <em>listened</em> to me, he would have understood that.
 
-"– Make something happen! Fight it out in Blood court if you have to! [????? That's an order!]"
+"– Make something happen! Fight it out in Blood court if you have to! That's an order!"
 
 "Sir, I am not an expert in Blood law," I said. That was right, I had <em>told</em> him it wasn't my expertise! I had done <em>my</em> job perfectly, I had warned him, so the whole debacle was <em>his</em> fault for ignoring my advice! I had even said "[????? therefore I can't guarantee results] –"
 
