@@ -105,21 +105,30 @@ The lowest type of violation was <em>?????</em>, a mistake. It was for when the 
 
 Next was <em>?????</em>, a crime of desperation. If you were starving and broke into someone's house to steal food, or if you were being abused and you killed your abuser, that was <em>?????</em>. When a case of <em>?????</em> came before Blood court, it was considered a failure <em>by the Blood Temple itself</em>, because the Blood Temple was responsible for making sure no one fell into desperation. It even triggered internal Blood Temple procedures to investigate how their services had failed the violator. That was interesting, but not helpful to me.
 
-Third was <em>chet</em>, a crime of passion. This was the category generally used when an argument between peers turned violent. ?????
+Third was <em>chet</em>, a crime of passion. This was the category generally used when an argument between peers turned violent, or when someone vandalized a stranger's luxuries for fun without knowing who the victim was. The Blood Temple's approach to these situations was to talk to the violator, to it encourage them to understand what they did wrong, apologize, and try to make amends. But even if they refused to apologize, the Blood Temple only considered that an unfortunate situation, not something where they needed to intervene further.
 
 And finally… there was <em>lowari</em>.
 
-Blood law defined <em>lowari</em> as violations that <em>put one person above another</em>. ?????
+Blood law defined <em>lowari</em> as violations that <em>put one person above another</em>. That could be interpreted in many different ways. The archetypal example was ?????. [????? Making someone obey you, abusing a position of authority,] Assaulting someone for your own amusement was generally <em>lowari</em>, because it made someone's figurative blood subordinate to your whims, but ?????. And rape was always <em>lowari</em>, even in the context of marriage – <em>especially</em> in the context of marriage, because intimate relationships were sacred to the Blood God, so coercion within a relationship was violating a sacred space.
+?????
+
+But how did the Blood Temple decide what was what? The distinction between <em>chet</em> and <em>lowari</em> centered around [????? not quite this: whether the violator was motivated by feelings of vulnerability or of entitlement], but how could the Temple judge what someone was feeling? According to the Book of Blood, if the parties couldn't come to a resolution between themselves, the victims and the accused would meet in temple and "bare their hearts", and then "the blood of the city" would decide the truth. From what I could tell, this was nothing but a fancy way of saying that one of the Blood Temple's masked judges would question them and then make an arbitrary decision.
 
 [????? Rules about revenge]
 
+Once it was determined that someone had committed <em>lowari</em>, it was time for the revenge. Officially, the revenge was supposed to be carried out by the victim, although in cases that went to court, Blood Temple staff were happy to "assist" with the revenge, and the victim only needed to nod along. ?????
+
 Getting revenge for <em>chet</em> was permitted, but not encouraged. And if you got revenge for <em>?????</em> or <em>?????</em>, that was not permitted, and you were probably committing <em>chet</em>.
 
-But how did the Blood Temple determine what was ?????? According to the Book of Blood, if the parties couldn't come to a resolution between themselves, the victims and the accused would meet in temple and "bare their hearts", and then "the blood of the city" would decide the truth. From what I could tell, this was nothing but a fancy way of saying that one of the Blood Temple's masked judges would question them and then make an arbitrary decision.
+Technically, only the victims were allowed to get revenge, but the definition of "victim" was expansive. Anyone in a close relationship with the direct victim could get revenge on their behalf. And if a person committed <em>lowari</em> in front of witnesses, it was also considered a violation against the witnesses, ?????
+
+[????? Revenge wasn't a violation of blood] The principle was that when someone committed <em>lowari</em>, they put themselves above someone else, which formed a wound in their social relationships that could not be healed until they were torn down again. So tearing them down wasn't a violation, it was an act of restoring the balance.
 
 ?????
 
 [????? Thinking about how to argue that the shoplifting was a crime]
+
+In order to see the shoplifters be punished under Blood law, I would have to produce a victim.
 
 ?????
 
