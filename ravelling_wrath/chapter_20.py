@@ -196,15 +196,17 @@ I was one of the few who stayed behind. I had always been overwhelmed by new pla
 
 I called all the children together and told them that today was an important day for all of us, and I needed to trust them to take care of each other while we caretakers worked for the hurricane relief. ????? and ????? volunteered to help us, and I brought them outdoors with me, quickly looking for work that was safe for them to do. I knew that it would take a lot of my attention to manage them, maybe more than the extra pairs of hands would gain us, but we were a community, and a community works together.
 
-The temple storerooms were mostly cleared as we hauled out everything that could survive the rain into stacks in the temple courtyard, so we would have room to unload the truckloads of equipment that other workers were bringing from further inland. We were never ready. Late in the night, there were three trucks waiting to be unloaded at once, at the same time as a local family was trying to give us a cartload of donations and a messenger from the Stern Temple was trying to coordinate with us.
+The temple storerooms were mostly cleared as we hauled out everything that could survive the rain into stacks in the temple courtyard, so we would have room to unload the truckloads of equipment that other workers were bringing from further inland. We were never ready. At one point, there were three trucks waiting to be unloaded at once, at the same time as a local family was trying to give us a cartload of donations and a messenger from the Stern Temple was trying to coordinate with us.
 
 "We can't accept this food! Nonperishables only!" Civeah was yelling, waving her arms to try to get the point across through the noise of the rain.
 
-Rohin briefly looked away from his quiet but heated conversation with the Stern messenger. "I think, perhaps, we can? We can't send it onwards, but our own larder is nearly emptied. It is, perhaps, the way the least would go to waste –"
+Rohin briefly looked away from his quiet but heated conversation with the Stern messenger. As he turned, a gust of wind caught the red robe he was wearing, blowing part of the hood into his face. ????? had teased him for still wearing the robes of a priest while it was pouring, but he was proud to be a priest, and he refused to be seen without them. You couldn't take away someone's pride.
+
+Holding his hood open with his hand, Rohin said, "I think, perhaps, we can? We can't send it onwards, but our own larder is nearly emptied. It is, perhaps, the way the least would go to waste –"
 
 That was true. A few years before, we had installed an electric refrigeration unit for the temple larder, which of course wasn't working now. But ????? had had the foresight to keep it stocked with ice anyway, praise the Waiting. So now it was one of the few places that could still store food cold.
 
-"Who's gonna move it all?" Civeah yelled back. Rohin tried to answer, but a gust of wind suddenly caught the red priest's robe he was wearing, blowing part of the hood into his face.
+"Who's gonna move it all?" Civeah yelled back, gesturing at the three trucks we still had to unload.
 
 "We'll take care of it," said one of the donors gruffly. "We're all in the same temple."
 
@@ -212,17 +214,23 @@ That was true. A few years before, we had installed an electric refrigeration un
 
 That meant I [????? had to do it]. Everyone understood that Rohin was in charge around here. That wasn't how the Blood Temple was <em>supposed</em> to work – tradition said that Blood priests should only offer education and advice, and let the listeners make their own decisions. But Rohin had a way of giving advice that didn't really give you a choice. If I didn't do what he said, he would keep saying "Ah, but perhaps you haven't considered –" until I gave in. In theory, the Blood Temple had ?????procedures for stopping this kind of thing – if someone told the council about it [????? everywhere "Council" is mentioned – tweak/consistency way of referring to it], they would investigate, and they would certainly find that he had too much power to be a priest. Then he would either be ?????disrobed and exiled, or be promoted to a Speaker. Since he was widely respected, he would probably be made a Speaker, which meant he <em>would</em> have official authority, but would have to wear the mask all the time and wouldn't be allowed to give himself an identity separate from the other Speakers. But in practice, none of that would happen – Rohin was likable enough, and no one was angry enough to get the Council involved, and Rohin was smart enough not to do anything that would change that. Only Civeah still bothered to argue with him, and she usually ended up doing what he said anyway.
 
-In minutes, we were a whole train of people carrying food items from the cart to the larder, people of all different sizes, me and ????? and ????? and the whole family who was donating it. I led them down into the cold larder and tried to show them how it was organized, but of course, it was hopeless – everyone stacked what they were carrying on whatever shelves they could reach. It was already so late, I was too sleepy to ?????. Even so, I kept a close eye on where everything was getting put, because Waiting knew someone would be confused later.
+So I showed the family to the larder. We had already worked all night, the dim light of morning was rising, and I couldn't wait for my turn to sleep, but I carried on. In minutes, we were a whole train of people carrying food items from the cart to the larder, people of all different sizes, me and ????? and ????? and the whole family who was donating it. I led them down into the cold larder and tried to show them how it was organized, but of course, it was hopeless – everyone stacked what they were carrying on whatever shelves they could reach. It was already so late, I was too sleepy to keep track of them all. Even so, I kept a close eye on where everything was getting put, because Waiting knew someone would be confused later.
 
-While I was watching, I heard ????? scream from outdoors. I ran back up the stairs, almost stumbling from my fatigue. Out in the rain, I found ????? sitting in the dirt, next to a heap of broken glass. She had gotten tired while carrying a heavy juice bottle, and put it down to rest, but she had put it on a stack of tarps that wasn't stable, and then it had slid off and hit her in the leg. She pulled down her pants to show me her bruise.
+While I was watching, I heard ????? scream from outdoors. I ran back up the stairs, almost stumbling from my fatigue. Out in the rain, I found ????? sitting in the dirt, next to a heap of broken glass. She had gotten tired while carrying a heavy juice bottle, and put it down to take a break, but she had put it on a stack of tarps that wasn't stable, and then it had slid off and hit her in the leg. She pulled down her pants to show me her bruise.
 
-"That looks painful," I said gently. ?????
+"That looks painful," I said gently. In my head, I continued, <em>but not bad enough that I can afford to stay away from my other duties</em>. I knelt down next to her, feeling the strain of wanting to help while knowing I had to keep it quick. "Would you like to head inside and rest? Remember, it's always okay to –"
 
-????? [????? Maybe caretaker cleans up the glass ????? "It's okay if you're tired, if you want to stop –" "No!" she said loudly ????? "You can be strong"; eventually caretaker has to do something else, "I was [kicking myself] that I couldn't spend more time comforting her, this was a difficult time, not like that other time]
+"No!" she said loudly.
 
-[????? Yali runs into "The same memory of the sick boy"; what was so important about that memory?]
+Sometimes, kids could be such a headache. If ????? kept working when she was this tired, she was going to hurt herself again. But that was her pride, and it was better to let her get hurt than to ask her to give up her pride. Eventually, she would learn her limits, and until then, it was my job to support her as best I could.
 
-As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of old times. ?????Caretaker actually felt like he had accomplished something then, and he was frustrated that it wouldn't get done now. But what was he thinking of? Staying up with the boy all night didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. It was even worse than when I was trying to understand the Waiting God – with the god, I could at least <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
+"?????Caretaker, there you are! We could really use an extra body over here –"
+
+I looked up. Civeah and the others were straining to lift a pallet of portable generators out of a truck. They really did need help. Reluctantly, I started to stand. I patted ????? on the shoulder. "I'm sorry, but it looks like I'm needed. ?????Name, if you're okay to keep working, I'm appointing you as guardian of this glass. Don't touch it, but make sure nobody steps on it until someone can help you clean it up."
+
+????? nodded firmly. I stood and hurried towards the others, fighting the feeling that I was leaving something unfinished. An emergency was a difficult time. If only we lived in a world where there was always enough time to comfort everyone who was hurt. It had almost seemed like we did, back when [????? call back to the memory]
+
+That was… The same memory of the sick boy from earlier. As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of old times. ?????Caretaker actually felt like he had accomplished something then, and he was frustrated that it wouldn't get done now. But what was he thinking of? Staying up with the boy all night didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. It was even worse than when I was trying to understand the Waiting God – with the god, I could at least <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
 
 [????? Maybe I can figure it out, but I wasn't getting anywhere, back to the hurricane]
 
@@ -230,7 +238,7 @@ As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of 
 
 [????? As Yali, something was familiar about those people – wait!] They were dressed the same way as that group from the Waiting God's memory, the ones negotiating with the businesspeople. [????? I tried to find other memories of them]
 
-It was a long time ago, just a few years out of high school, the year my grandfather passed. I hadn't gotten used to my role at the Blood Temple yet, and I was nervous around all the important priests and community leaders who came by. That was how I met her – I was moving a cart of firewood down the hallway, to restock the beacon fires on the temple towers, when a proud, dignified old woman approached from the other direction. I hurried to move my cart to the wall so she would have plenty of room to pass.
+It was a long time before, just a few years out of high school, the year my grandfather passed. I hadn't gotten used to my role at the Blood Temple yet, and I was nervous around all the important priests and community leaders who came by. That was how I met her – I was moving a cart of firewood down the hallway, to restock the beacon fires on the temple towers, when a proud, dignified old woman approached from the other direction. I hurried to move my cart to the wall so she would have plenty of room to pass.
 
 She looked at me sharply. "You there! Young man. Why did you move aside?"
 
@@ -329,7 +337,7 @@ It was impossible. It was too convenient. Was I supposed to believe that I could
 
 Or maybe… maybe it wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood Temple</em>.
 
-My teeth chattered. I felt dizzy and sick. But I couldn't deny it. I had seen it all the memories. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the ?????s]
+My teeth chattered. I felt dizzy and sick. But I couldn't deny it. I had seen it all in the memories. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the ?????s]
 
 Everything I had done… [????? Every time I forced myself to stay quiet/etc.…] It WOULD all have been meaningless. It SHOULD all have been meaningless. ????? [????? It should have been] A world where I didn't have to work harder than everyone else just to have my basic safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because ?????.
 
