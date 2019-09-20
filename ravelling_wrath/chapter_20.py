@@ -120,7 +120,7 @@ Once it was determined that someone had committed <em>lowari</em>, it was time f
 
 Getting revenge for <em>chet</em> was permitted, but not encouraged. And if you got revenge for <em>?????</em> or <em>?????</em>, that was not permitted, and you were probably committing <em>chet</em>.
 
-Technically, only the victims were allowed to get revenge, but the definition of "victim" was expansive. Anyone in a close relationship with the direct victim could get revenge on their behalf. And if a person committed <em>lowari</em> in front of witnesses, it was also considered a violation against the witnesses, ?????
+Technically, only the victims were allowed to get revenge, but the definition of "victim" was expansive. Anyone in a close relationship with the direct victim could get revenge on their behalf. And if a person committed <em>lowari</em> in front of witnesses, it was also considered a violation against the witnesses. The most extreme abuses of authority could even be considered <em>violations against the city</em>, meaning that anyone in the city had standing to get revenge for them. ?????
 
 [????? Revenge wasn't a violation of blood] The principle was that when someone committed <em>lowari</em>, they put themselves above someone else, which formed a wound in their social relationships that could not be healed until they were torn down again. So tearing them down wasn't a violation, it was an act of restoring the balance.
 
@@ -128,7 +128,13 @@ Technically, only the victims were allowed to get revenge, but the definition of
 
 [????? Thinking about how to argue that the shoplifting was a crime]
 
-In order to see the shoplifters be punished under Blood law, I would have to produce a victim.
+I set down my books. I had enough background now to start thinking about strategy.
+
+In order to see any of the shoplifters be punished under Blood law, I would need to produce a victim. And either the victim would need to want revenge, or I would need to produce a second person who was allowed to get revenge on their behalf.
+
+Fortunately, we did have witnesses – that was how the perpetrators had been caught in the first place. And among the witnesses, the ones who had chosen to report the crimes to the Stern might also be amenable to seeking revenge under Blood law. The only question was how to interpret the thefts as <em>lowari</em>.
+
+Two of the six shoplifters had stolen food [????? so I discarded those immediately]
 
 ?????
 
@@ -146,7 +152,7 @@ What was this pretrial hearing, then?
 
 [????? The judge, technically the Speaker]
 
-[????? The accused? The thief girl?] didn't look quite how I had imagined her. She came in nervously, holding herself upright, wearing a plain, conservative dress. She was almost pretty. But I could see her piercings, and as soon as she spoke, I could hear the vulgar way she talked. She was clearly fifth-layer trash. No doubt this was her <em>only</em> conservative dress, and she paraded around the streets in straps that barely covered up those oversized breasts – not that I paid attention to that. <em>I</em> was a professional, after all. When she entered, I shook her hand firmly, looking her steadily in the eye, and gave a polite –
+[????? The accused? The thief girl?] didn't look quite how I had imagined her. She came in nervously, holding herself upright, wearing a plain, conservative dress. She was almost pretty. But I could see her piercings, and as soon as she spoke, I could hear the vulgar way she talked. She was clearly fifth-layer trash. No doubt this was her <em>only</em> conservative dress, and she paraded around the streets in straps that barely covered up those oversized breasts – not that I paid attention to that. <em>I</em> was a professional, after all. When she entered, I shook her hand firmly, looking her steadily in the eye while <em>she</em> shied away, and gave a polite –
 
 I pulled myself out of the memory. I didn't care about this hearing – no, I did care about it, but I needed a break from this man. It wasn't even the sexual thoughts that bothered me – I had gotten used to the memories thinking sexual thoughts at inappropriate times, since it was common across almost all the Farseers, including myself. But ?????lawyer's hypocrisy – thinking degrading things, then congratulating himself for being a better person – it was getting into my head in a way I didn't like at all. I could get back to this hearing <em>later</em>. Maybe it would be easier if I viewed ?????'s memories in short bursts.
 
@@ -216,19 +222,19 @@ That meant I [????? had to do it]. Everyone understood that Rohin was in charge 
 
 So I showed the family to the larder. We had already worked all night, the dim light of morning was rising, and I couldn't wait for my turn to sleep, but I carried on. In minutes, we were a whole train of people carrying food items from the cart to the larder, people of all different sizes, me and ????? and ????? and the whole family who was donating it. I led them down into the cold larder and tried to show them how it was organized, but of course, it was hopeless – everyone stacked what they were carrying on whatever shelves they could reach. It was already so late, I was too sleepy to keep track of them all. Even so, I kept a close eye on where everything was getting put, because Waiting knew someone would be confused later.
 
-While I was watching, I heard ????? scream from outdoors. I ran back up the stairs, almost stumbling from my fatigue. Out in the rain, I found ????? sitting in the dirt, next to a heap of broken glass. She had gotten tired while carrying a heavy juice bottle, and put it down to take a break, but she had put it on a stack of tarps that wasn't stable, and then it had slid off and hit her in the leg. She pulled down her pants to show me her bruise.
+While I was watching, I heard ????? scream from outdoors. I ran back up the stairs, almost stumbling from my fatigue. Out in the rain, I found ????? sitting in the dirt, next to a heap of broken glass. She had gotten tired while carrying a heavy juice bottle, and put it down to take a break, but she had put it on a stack of tarps that wasn't stable, and then it had slid off and hit her in the leg before it fell and shattered. She pulled down her pants to show me her bruise.
 
-"That looks painful," I said gently. In my head, I continued, <em>but not bad enough that I can afford to stay away from my other duties</em>. I knelt down next to her, feeling the strain of wanting to help while knowing I had to keep it quick. "Would you like to head inside and rest? Remember, it's always okay to –"
+"That looks painful," I said gently. In my head, I continued, <em>but not bad enough that I can afford to stay away from my other duties</em>. I knelt down next to her, feeling the strain of wanting to help when I knew I had to keep it quick. "Would you like to head inside and rest? Remember, it's always okay to –"
 
 "No!" she said loudly.
 
-Sometimes, kids could be such a headache. If ????? kept working when she was this tired, she was going to hurt herself again. But that was her pride, and it was better to let her get hurt than to ask her to give up her pride. Eventually, she would learn her limits, and until then, it was my job to support her as best I could.
+Sometimes, kids could be such a headache. If ????? kept working when she was this tired, she was going to hurt herself again. But that was her pride, and it was better to let her get hurt than to ask her to give up her pride. Eventually, she would learn her limits, and until then, it was my job to support her as best I could. "I know you can be strong," I said. "Keep being strong, but remember to be careful –"
 
 "?????Caretaker, there you are! We could really use an extra body over here –"
 
-I looked up. Civeah and the others were straining to lift a pallet of portable generators out of a truck. They really did need help. Reluctantly, I started to stand. I patted ????? on the shoulder. "I'm sorry, but it looks like I'm needed. ?????Name, if you're okay to keep working, I'm appointing you as guardian of this glass. Don't touch it, but make sure nobody steps on it until someone can help you clean it up."
+I looked up. Civeah and the others were straining to lift a pallet of portable generators out of a truck. They really did need help. Reluctantly, I started to stand. I patted ????? on the shoulder. "I'm sorry, but it looks like I'm needed. ?????Name, if you're okay to keep working, I'm appointing you as guardian of this broken glass. Don't touch it, but make sure nobody steps on it until someone can help you clean it up."
 
-????? nodded firmly. I stood and hurried towards the others, fighting the feeling that I was leaving something unfinished. An emergency was a difficult time. If only we lived in a world where there was always enough time to comfort everyone who was hurt. It had almost seemed like we did, back when [????? call back to the memory]
+????? nodded firmly. I stood and hurried towards the others, fighting the feeling that I was leaving something unfinished. An emergency was a difficult time. If only we lived in a world where there was always enough time to take care of everyone who was hurt. It had almost seemed like we did, back when [????? call back to the memory]
 
 That was… The same memory of the sick boy from earlier. As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of old times. ?????Caretaker actually felt like he had accomplished something then, and he was frustrated that it wouldn't get done now. But what was he thinking of? Staying up with the boy all night didn't solve anything! What about the next time the boy was sick, when ?????caretaker might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But ?????caretaker felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. It was even worse than when I was trying to understand the Waiting God – with the god, I could at least <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
 
@@ -279,7 +285,7 @@ I hesitated. If ?????Caretaker kept coming back to this memory, maybe there was 
 
 This was unsettling. To <em>him</em>, it was so <em>obvious</em> why this would be a good formative experience for the boy.
 
-[????? Yali hunts for the answer; it's basically "so that he grows up knowing that we care for each other and can rely on each other"]
+[????? Yali hunts for the answer; it's basically "so that he grows up knowing that we care for each other and can rely on each other". Probably by visiting the memories of teaching children the blood principles?]
 
 In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone else to do what I needed without me checking it. Every time I had hesitated because some useless adult had told me things would be taken care of. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again and again until they were burned enough times to learn not to trust anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! I could feel anger building inside me, anger at this man who would try to soothe away the core of what made me strong, what made me <em>Yali Seti</em>. I could just imagine him softly telling me it was okay to let down my guard. I could never let down my guard! If I did, I would be weak and helpless and pathetic, I would be back with the Dalners, I would be sick and no one would take care of me, I wouldn't get up in the morning. How could this be <em>holy</em>?! I could never accept this! [????? If this was what the Blood God was telling me, it was telling me that it was all meaningless, everything I had done to protect myself, ????? the Blood God <em>was</em> bad]
 
@@ -321,11 +327,13 @@ The woman pushed past and went in through the door. She was dressed like someone
 
 Civeah seemed to be holding the woman back for now. I knew where I was needed. I hurried past them and knelt down next to ?????name, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and it was Blood tradition not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present.
 
-I patted ?????name on the shoulder – I was the only person he allowed to touch him, but he seemed to find my touch reassuring. "It's okay," I whispered. "You don't have to go with her unless you want to. It's your choice."
+I patted ?????name on the shoulder – I was the only person he allowed to touch him, but he seemed to find it reassuring when I did. "It's okay," I whispered. "You don't have to go with her unless you want to. It's your choice."
 
 ?????
 
-[????? Woman is like "how is this a blood Temple when it tries to separate me from my son", Rohin shows up like "did I hear someone wonder if this is not a blood Temple?" and lectures the woman about Blood principles about respect for children?]
+"How dare you stand in my way?! I birthed him, we have a bond of blood! How can you call yourselves a Blood Temple when –"
+
+"Do my ears deceive me?" came Rohin's voice from the outside. He must have heard the commotion. "Did someone wonder if this is not a Blood Temple?" Rohin never raised his voice, but you could <em>tell</em> when he was scandalized.
 
 [????? It was years before he opened up to me about the abuse. But at the time, I just knew I had to care for the person right in front of me]
 
@@ -335,11 +343,11 @@ I patted ?????name on the shoulder – I was the only person he allowed to touch
 
 It was impossible. It was too convenient. Was I supposed to believe that I could have just walked into the Blood Temple and they would have protected me from the Dalners? That they would have fed me, taken care of me, no questions asked? Without needing proof, without me having to ?????? It couldn't be real. That just wasn't how the world worked. [????? No one would fight for you if you didn't force them to]
 
-Or maybe… maybe it wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood Temple</em>.
+But I couldn't deny it. I had seen it all in the memories. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the ?????s]
 
-My teeth chattered. I felt dizzy and sick. But I couldn't deny it. I had seen it all in the memories. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the ?????s]
+Maybe… maybe it wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood Temple</em>.
 
-Everything I had done… [????? Every time I forced myself to stay quiet/etc.…] It WOULD all have been meaningless. It SHOULD all have been meaningless. ????? [????? It should have been] A world where I didn't have to work harder than everyone else just to have my basic safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because ?????.
+My teeth chattered. I felt dizzy and sick. Everything I had done… [????? Every time I forced myself to stay quiet/etc.…] It WOULD all have been meaningless. It SHOULD all have been meaningless. ????? [????? It should have been] A world where I didn't have to work harder than everyone else just to have my basic safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because ?????.
 
 I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain so intense that nobody could face it and stay standing, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was nothing I could do. The pain was inside of me. I couldn't make it go away. I couldn't even <em>wish</em> for it to go away. I <em>needed</em> this pain. I knew it in the core of my being. ?????
 
