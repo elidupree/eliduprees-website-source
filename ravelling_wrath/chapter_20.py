@@ -81,6 +81,8 @@ I was <em>about</em> to say that whenever a crime is committed in the fourth lay
 
 As Yali, I typed out, <em>????lawyer didn't understand blood law, <strong>believes</strong> he warned boss</em>. This memory was full of the feeling of looking back and feeling justified. But it couldn't have contained that feeling originally, and he wasn't still alive to add his own thoughts about it now. So the memory had already been rewritten to add it, while he was still alive. He had probably rewritten this memory many times, to cast himself in the best possible light.
 
+Now that I thought about it, it was strange that the memories included so many exact words at all. <em>I</em> certainly couldn't remember full conversations this well, and I was known for having a very good memory. Maybe the Waiting God had somehow enhanced them when it gave them to me. Would that make them more accurate or less accurate? It was hard to figure out.
+
 I didn't like having to try to guess which parts were the truth. Maybe there would be other memories that were less unreliable. I skipped forward to what came next.
 
 It was irritating to be working at ????boss's "orders". He couldn't <em>order</em> me – he was a ????executive, not a drill sergeant. But I couldn't talk back to him – that would be unprofessional. So here I was at the Stern library, poring over my books, sitting at a cramped desk under the tall shelves.
@@ -223,7 +225,7 @@ While I was watching, I heard ????j scream from outdoors. I ran back up the stai
 
 Sometimes, kids could be such a headache. If ????j kept working when she was this tired, she was going to hurt herself again. But that was her pride, and it was better to let her get hurt than to ask her to give up her pride. Eventually, she would learn her limits, and until then, it was my job to support her as best I could. "I know you can be strong," I said. "Keep being strong, but remember to be careful –"
 
-"?????Caretaker, there you are! We could really use an extra body over here –"
+"????Caretaker, there you are! We could really use an extra body over here –"
 
 I looked up. Civeah and the others were straining to lift a pallet of portable generators out of a truck. They really did need help. Reluctantly, I started to stand. I patted ????j on the shoulder. "I'm sorry, but it looks like I'm needed. ????j, if you're okay to keep working, I'm appointing you as guardian of this broken glass. Don't touch it, but make sure nobody steps on it until someone can help you clean it up."
 
@@ -272,6 +274,8 @@ She fixed me with a ?????adjective glare. "Caretakers are the beating heart of t
 
 [????? The speaker had a woman's voice and I didn't like that; maybe judging her for being businesslike, "she was probably spitefully against me from the start"]
 
+[????? ????Victim described her situation, giving details at the request of the Speaker]
+
 [????? "In this other case, someone who got revenge for an indirect effect without provable causation was pronounced justified. In the same way, ????victim could have reasonably expected that ????Corporation would pay her wages, and ????thief's actions limited how much ????Corporation could carry out their core business"]
 
 "So the accusation before the Temple," intoned the Speaker, "is that ????victim's blood was dependent on ????Corporation, and that thefts have left ????Corporation no choice but to abandon her. Is that correct?"
@@ -286,15 +290,30 @@ She fixed me with a ?????adjective glare. "Caretakers are the beating heart of t
 
 [????? But that would be important people from Corporation! If they were called to testify in a routine shoplifting case because of me, I'd be a laughingstock!] "Speaker, I appreciate the Temple's interest in [????? having the best possible information, but surely it's not needed so importantly]"
 
-"[????? Not important? Does their blood not twist in their veins, knowing that they were forced to leave another human being to suffer? Would they not be eager to see that injustice resolved?
+"[????? Not important? Does their blood not twist in their veins, knowing that they were forced to leave another human being to suffer? Would they not be eager to see that injustice resolved?]"
+
+"No one at ????Corporation wants to see anyone suffer, I assure you! But surely you don't expect them to take time out their busy schedules just to –"
 
 ?????
 
-"Did you learn Blood law from a book?
+"Did you learn Blood law from a book?" the Speaker barked. "[????? Do you never feel justice with your body? I DO expect them to testify – we have heard an accusation, where someone's blood is at stake, and they are involved! Do you think they are so high above ????victim that they ??????"
 
-?????
+"Then we withdraw the accusation! Don't we, ????victim –"
 
-[????? Lawyer summary of how things went down after the order; see notes below. Maybe leading into caretaker memory about internal Blood politics during the fall]
+"Fool!" the Speaker shrieked. "You cannot quiet her blood! The blood of the city hears your words as an attempt to control her, and by law, the accusation can no longer be withdrawn! [????? It's now clear why you are here. You came in intending to use her suffering as a tool to benefit ????Corporation. But suffering cries out with a voice of its own! If the decision-makers do not care, they may be guilty! Let every pertinent financial record be brought to the temple, and let everyone involved in the decision come to testify! The blood of the city demands it!"
+
+"????Corporation most certainly won't be complying with such a demand! We are established within the jurisdiction of the Stern Temple, and the Blood Temple has no authority to –"
+
+"So you came here with no intention of respecting our decisions? Begone from this temple, scofflaw! Run and tell your <em>masters</em> of our demands, and tell them that we will not be used!"
+
+[????? Bit of conclusion to the scene, maybe I gathered my things and left]
+
+As Yali, I concentrated, trying to sort out my own thoughts. In ????lawyer's memories, the Speaker had felt like an unreasonable person, irrational and shrieking. But when I thought about what she had actually said, it made plenty of sense. It was unsettling to think about. But looking back and forth in the memories, it was obvious what had happened. ????Lawyer had taken the Speaker seriously until he knew she was a woman. It wasn't too surprising – I had seen the same kind of thing from some of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently. It came out as something much more unpleasant than the way it would be recorded in my memories, or ????caretaker's, or most of the other Farseers'.
+
+Knowing it was just ????lawyer's sexism made it less unsettling. I returned to the memories.
+
+
+[????? "After the hearing…" Lawyer summary of how things went down after the order; see notes below. Maybe leading into caretaker memory about internal Blood politics during the fall]
 
 [????? Transition: Blood wasn't supposed to be about all this politics, it was supposed to be about caretaking, like that time]
 
