@@ -189,7 +189,7 @@ In hindsight, it hasn't been very likely that what <em>he</em> thought was the m
 
 [????? Bunch of hurricane stuff]
 
-[????? As fate would have it], the main temple, where I worked, didn't get the worst of the storm. The power was out all across the city, and we got a lot of rain, but that was all. But a lot of our smaller temples had been hit hard, a lot harder than we had prepared for, and they needed immediate help so they could keep serving their people.
+By the whim of the Seeking, the main temple didn't get the worst of the storm. The power was out all across the city, and we got a lot of rain, but that was all. But a lot of our smaller temples had been hit hard, a lot harder than we had prepared for, and they needed immediate help so they could keep serving their people.
 
 We called in all the temple's part-time workers, and had a big planning meeting in the main hall. People kept rushing in and out, and everyone wanted to talk at once, and we had a big map of the city on the wall where we put a red mark for every place that needed more workers or food or supplies, and from the back of the room they blended together into a giant red scrape across half the city. In the first hour of the meeting we agreed to send everyone we could possibly spare to help our other temples. By the time the meeting ended at sunset, we agreed to send even more, because the others could spare it even less.
 
@@ -310,7 +310,16 @@ She fixed me with a ?????adjective glare. "Caretakers are the beating heart of t
 
 As Yali, I concentrated, trying to sort out my own thoughts. In ????lawyer's memories, the Speaker had felt like an unreasonable person, irrational and shrieking. But when I thought about what she had actually said, it made plenty of sense. It was unsettling to think about. But looking back and forth in the memories, it was obvious what had happened. ????Lawyer had taken the Speaker seriously until he knew she was a woman. It wasn't too surprising – I had seen the same kind of thing from some of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently. It came out as something much more unpleasant than the way it would be recorded in my memories, or ????caretaker's, or most of the other Farseers'.
 
-Knowing it was just ????lawyer's sexism made it less unsettling. I returned to the memories.
+The contrast didn't feel so unsettling now that I knew it was just ????lawyer's sexism. I returned to the memories.
+
+I never liked to think back to the time right after the hearing. When ????boss fired me, he scheduled a full hour just to yell at me for bringing the Blood Temple's attention against us. Did he ever apologize for ordering me to do it in the first place? Did I ever get an apology from ????Corporation after it ultimately worked out in their favor? Of course not.
+
+But I did watch the news like a hawk. I had expected the case to fade into obscurity after ????Corporation rejected the Blood Temple's demands, but only the Waiting knows the end. The Blood Temple had no authority to compel testimony from ????Corporation executives, but they did have authority over the fifth layer, where ????Corporation had two storefronts. And they must have been waiting for an excuse to act, because they <em>banned</em> ????Corporation from the fifth layer and seized the two storefronts. ????Corporation appealed to the Stern to protect their assets. And that was where things got complicated.
+
+Back then, it was unprecedented for the Stern police to enter the fifth layer. But the ????Treaty had changed things, creating a special arrangement to allow corporations to do business across layer boundaries. No doubt, when the Blood Temple signed the treaty, none of them believed they were giving permission for the Stern to enter their territory. But in a beautiful legal argument, the Stern Temple stated that the Blood Temple's seizure of ????Corporation assets was a <em>violation</em> of the ????treaty, and claimed the right to a "minimal enforcement action" to protect the assets.
+
+By the time the issue reached the Concord courts, Blood warriors and Stern police were already fighting each other in the streets of the fifth layer.
+
 
 
 [????? "After the hearing…" Lawyer summary of how things went down after the order; see notes below. Maybe leading into caretaker memory about internal Blood politics during the fall]
