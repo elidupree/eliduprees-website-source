@@ -61,7 +61,7 @@ As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome t
 
 He had thought of a <em>case</em>. A case he had been involved with as a lawyer, one that was related to the Blood Temple.
 
-It started as an ordinary shoplifting case, which should have been nothing more than a small loss for us. Until ????, my boss at ????Corporation, [????? had to micromanage me]. And then he had the nerve to blame <em>me</em> for what happened! I could still hear his voice ringing in my years from when he fired me – "I told you to get them arrested, not to bring all of this politics down on us! I will personally make sure you never work in this industry again!" And that shrill Blood Temple judge – "Did you learn Blood law from a book? [????? You know nothing!]" Curse them all.
+It started as an ordinary shoplifting case, which should have been nothing more than a small loss for us. And that was all it would have been, if ????, my boss at ????Corporation, hadn't insisted on micromanaging me. And then he had the nerve to blame <em>me</em> for what happened! I could still hear his voice ringing in my years from when he fired me – "I told you to get them arrested, not to bring all of this politics down on us! I will personally make sure you never work in this industry again!" And that shrill Blood Temple judge – "Did you learn Blood law from a book? [????? You know nothing!]" Curse them all.
 
 I should have known from the beginning that ????boss was bad news. He was the new ????executive at ????Corporation, and I had worked I had worked at ????Corporation for twenty years, but he insisted on lording his position over me. He hated me because I was professional where he was crass. He made me report to him on every little detail of every case – like that one.
 
@@ -155,15 +155,23 @@ What did he know that I was looking for?
 
 <bigbreak>
 
-Apparently, time has seen me become "the cool substitute teacher". I have always been told I have a way with children, and it would have made me happy if my stories of the old Blood Temple were what earned me that title. Happier still if it were the way I patiently listened to <em>their</em> stories of their lives. But [????? nowadays it took much less than that to make me "cool". It was because I didn't make them keep their heads down all day and study. So many of their parents are away in the car and computer factories nowadays, and they have cars now, but for what? It never seemed right to enforce the Stern rules on them]
+Apparently, time has seen me become "the cool substitute teacher". I have always been told I have a way with children, and it would have made me happy if my stories of the old Blood Temple were what earned me that title. Happier still if it were the way I patiently listened to <em>their</em> stories of their lives. But it was something much simpler than that. It made me sad. In all their other classes, these kids were being told to keep their heads down and study. All I had to do to be "cool" was to give them a break from that, a chance to relax and move their bodies.
 
-"Mister!" one of them piped up. ?????
+I was in the middle school today, covering for a math class. I had let the kids rearrange the desks, and a bunch of them had made a circle to play a game with each other. The others had found their own little pursuits. Noki, who'd just turned fourteen, was sitting on the windowsill and staring out the window – it was a beautiful day outside. No kind of day to keep these kids indoors studying math.
 
-?????
+Principal Cossaman would have wanted me to keep them "on task", but it never seemed right to enforce the Stern rules on these kids. Nowadays, half of their parents were away in the factories from dawn to dusk, and came home too tired to spend time with their children. Who could blame them for wanting more space, more affection?
 
-Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. I suppose that kids have always asked about these things, because kids always do what kids do best, hunting after the highs and lows of life until they find their place in the world. But it used to be that there were another kind of questions, too. Ten years ago, there were kids who asked questions like "why aren't we allowed to say the Blood prayers anymore?" and "[????? something about how an older family member is affected socially/economically]". But for kids growing up today, the Blood Temple was just a part of history.
+The Stern tell us that things are better than ever, because of all this "progress". Because the parents are away building all the newest computers and automobiles and whatever great inventions the Seeking have dreamed up. When I was young, a car was a luxury for the rich, and now they are everywhere. I remember when Noki confided in me that his family didn't always have food on the table, and also mentioned his family's car like it was the most normal thing in the world. But are they happy? Are people happier now? I can't help but wonder if we could have gone a different way. If we could have had all this marvelous technology, but also had our children be happy.
 
-And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, criminals who severely exploited people were sometimes stripped naked and flogged in the public square. But that wasn't what the Blood Temple was really about. And no, I couldn't tell them any stories about that, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't violate Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. [????? After someone was punished, they needed to have the opportunity to return to equal. If you continued gossiping long after the event, you were stepping on them for your own amusement. That was <em>lowari</em>.]
+"Mister!" one of them piped up. "Mister, are you listening?"
+
+I blinked, bringing myself back to the present, where a few of the kids were gathered around me, eagerly asking me questions. "Ah, did I doze off there?"
+
+One of them leaned forward. "Is it true that Blood temples had giant orgies every year?"
+
+I smiled wistfully. Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. I suppose that kids have always asked about these things, because kids always do what kids do best, hunting after the highs and lows of life until they find their place in the world. But it used to be that there were another kind of questions, too. Ten years ago, there were kids who asked questions like "why aren't we allowed to say the Blood prayers anymore?" and "my granddad says the [????? something about how an older family member is affected socially/economically]". But for kids growing up today, the Blood Temple was just a part of history.
+
+And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, criminals who severely exploited people were sometimes stripped naked and flogged in the public square. But that wasn't what the Blood Temple was really about. And no, I couldn't tell them any stories about that, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't disregard Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. After someone was punished, they needed to be given the chance to return to equal status in society. If you treated their humiliation as a funny thing to gossip about, you were stepping on them for your own amusement. That was <em>lowari</em>.
 
 No… none of that was what the Blood Temple was really about.
 
@@ -239,7 +247,7 @@ That was… The same memory of the sick boy from earlier. As Yali, something was
 
 [????? As Yali, something was familiar about those people – wait!] They were dressed the same way as that group from the Waiting God's memory, the ones negotiating with the businesspeople. [????? I tried to find other memories of them]
 
-It was a long time before, just a few years out of high school, the year my grandfather passed. I hadn't gotten used to my role at the Blood Temple yet, and I was nervous around all the important priests and community leaders who came by. That was how I met her – I was moving a cart of firewood down the hallway, to restock the beacon fires on the temple towers, when a proud, dignified old woman approached from the other direction. I hurried to move my cart to the wall so she would have plenty of room to pass.
+It was a long time before, when I was just a few years out of school, the year my grandfather passed. I hadn't gotten used to my role at the Blood Temple yet, and I was nervous around all the important priests and community leaders who came by. That was how I met her – I was moving a cart of firewood down the hallway, to restock the beacon fires on the temple towers, when a proud, dignified old woman approached from the other direction. I hurried to move my cart to the wall so she would have plenty of room to pass.
 
 She looked at me sharply. "You there! Young man. Why did you move aside?"
 
