@@ -265,7 +265,7 @@ Before I approached him, I stowed the unravelling potion behind a rock. Yali had
 
 Morrow must have heard me, because he tried to turn around. But somehow, he only managed to trip over his own feet and go sprawling into the wall of the ravine. I rushed to help him, but almost as soon as he had gone down, he lunged to his feet again, his grinning, battered face swaying towards me.
 
-Yali had <em>seriously</em> fucked him up. Like, I'd beaten up plenty of assholes myself – and I had gotten beat up plenty of times too – but I had never seen someone messed up <em>this</em> bad. One eye was completely swollen shut, and the other one wasn't looking much better. His nose was sticking off in the wrong direction, dripping a mass of blood right down his chin. His hands were messed up too, fingers sticking off in all the wrong directions.
+Yali had <em>seriously</em> fucked him up. Like, I'd beaten up plenty of assholes myself – and I had gotten beat up plenty of times too, when I picked fights with people bigger than me – but I had never seen someone messed up <em>this</em> bad. One eye was completely swollen shut, and the other one wasn't looking much better. His nose was sticking off at an angle, dripping a mass of blood right down his chin. His hands were messed up too, fingers sticking off in all the wrong directions.
 
 I immediately wanted to hurt whoever did this to him, but that was Yali. And that wasn't what I was here for. I knew what I had to do. "Morrow! I've got something for you."
 
