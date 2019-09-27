@@ -61,7 +61,7 @@ As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome t
 
 He had thought of a <em>case</em>. A case he had been involved with as a lawyer, one that was related to the Blood Temple.
 
-It started as an ordinary shoplifting case, which should have been nothing more than a small loss for us. Until ????, my boss at ????Corporation, [????? had to micromanage me]. And then he had the nerve to blame <em>me</em> for what happened! I could still hear his voice ringing in my years from when he fired me – "I told you to get them arrested, not to bring all of this politics down on us! I will personally make sure you never work in this industry again!" And that shrill Blood Temple judge – "Did you learn Blood law from a book? [????? You know nothing!]" Curse them all.
+It started as an ordinary shoplifting case, which should have been nothing more than a small loss for us. And that was all it would have been, if ????, my boss at ????Corporation, hadn't insisted on micromanaging me. And then he had the nerve to blame <em>me</em> for what happened! I could still hear his voice ringing in my years from when he fired me – "I told you to get them arrested, not to bring all of this politics down on us! I will personally make sure you never work in this industry again!" And that shrill Blood Temple judge – "Did you learn Blood law from a book? [????? You know nothing!]" Curse them all.
 
 I should have known from the beginning that ????boss was bad news. He was the new ????executive at ????Corporation, and I had worked I had worked at ????Corporation for twenty years, but he insisted on lording his position over me. He hated me because I was professional where he was crass. He made me report to him on every little detail of every case – like that one.
 
@@ -80,6 +80,8 @@ I was <em>about</em> to say that whenever a crime is committed in the fourth lay
 "Sir, I am not an expert in Blood law," I said. That was right, I had <em>told</em> him it wasn't my expertise! I had done <em>my</em> job perfectly, I had warned him, so the whole debacle was <em>his</em> fault for ignoring my advice! I had even said "and so if you ask me to do this, I won't be able to guarantee that the results will be favorable –"
 
 As Yali, I typed out, <em>????lawyer didn't understand blood law, <strong>believes</strong> he warned boss</em>. This memory was full of the feeling of looking back and feeling justified. But it couldn't have contained that feeling originally, and he wasn't still alive to add his own thoughts about it now. So the memory had already been rewritten to add it, while he was still alive. He had probably rewritten this memory many times, to cast himself in the best possible light.
+
+Now that I thought about it, it was strange that the memories included so many exact words at all. <em>I</em> certainly couldn't remember full conversations this well, and I was known for having a very good memory. Maybe the Waiting God had somehow enhanced them when it gave them to me. Would that make them more accurate or less accurate? It was hard to figure out.
 
 I didn't like having to try to guess which parts were the truth. Maybe there would be other memories that were less unreliable. I skipped forward to what came next.
 
@@ -113,7 +115,7 @@ Blood law defined <em>lowari</em> as violations that <em>put one person above an
 
 But how did the Blood Temple decide what was what? The distinction between <em>chet</em> and <em>lowari</em> often centered around the feelings that motivated the violator, but how could the Temple judge what someone was feeling? According to the Book of Blood, if the parties couldn't come to a resolution between themselves, the victims and the accused would meet in temple and "bare their hearts", and then "the blood of the city" would decide the truth. From what I could tell, this was nothing but a fancy way of saying that one of the Blood Temple's masked judges would question them and then make an arbitrary decision.
 
-Once it was determined that someone had committed <em>lowari</em>, it was time for the revenge. Officially, the revenge was supposed to be carried out by the victim, although in cases that went to court, Blood Temple staff were happy to "assist" with the revenge, and the victim only needed to nod along. But victims of <em>lowari</em> were explicitly permitted to get revenge without ever going to Blood court – even encouraged to. And theoretically, if the original violator tried to take the victim to court for the revenge, the Blood Temple would classify the revenge as <em>not a violation at all</em>. The principle was that when someone committed <em>lowari</em>, they put themselves above someone else, which formed a wound in their social relationships that could not be healed until they were torn down again. So tearing them down wasn't a violation, it was an act of restoring the balance. Of course, if they <em>hadn't</em> committed <em>lowari</em>, then tearing them down <em>was</em> a violation. Some of the most notorious trials of the last century had been conflicts over who was the original victim, so it clearly wasn't a perfect system.
+Once it was determined that someone had committed <em>lowari</em>, it was time for the revenge. Officially, the revenge was supposed to be carried out by the victim, although in cases that went to court, Blood Temple staff were happy to "assist" with the revenge, and the victim only needed to nod along. But victims of <em>lowari</em> were explicitly permitted to get revenge without ever going to Blood court – even encouraged to. "When you have been wounded, your blood cries out to be avenged!" said the Book of Blood. "Do not rush blindly into judgment, but do not let anyone push you into easy forgiveness. Do not make yourself quiet!" And theoretically, if the original violator tried to take the victim to court for the revenge, the Blood Temple would classify the revenge as <em>not a violation at all</em>. The principle was that when someone committed <em>lowari</em>, they put themselves above someone else, which formed a wound in their social relationships that could not be healed until they were torn down again. So tearing them down wasn't a violation, it was an act of restoring the balance. Of course, if they <em>hadn't</em> committed <em>lowari</em>, then tearing them down <em>was</em> a violation. Some of the most notorious trials of the last century had been conflicts over who was the original victim, so it clearly wasn't a perfect system.
 
 Getting revenge for <em>chet</em> was permitted, but not encouraged. And if you got revenge for <em>????</em> or <em>????</em>, that was not permitted, and you were probably committing <em>chet</em>. Even if the revenge was unjustified, it was still only <em>chet</em> as long as you <em>believed</em> you had been intentionally violated, but it could be <em>lowari</em> if you were using it to control someone, or if you had lied about feeling violated in the first place.
 
@@ -129,17 +131,13 @@ Two of the six shoplifters had stolen food. I immediately discarded those cases 
 
 ?????
 
-
-
-?????
+As Yali, I stopped. Before I continued in the memories, there was something I wanted to check. This subsidy from the Waiting Temple… was it part of the Waiting God's plan? I listened for the god, but it was still out of reach. I would have to check again later. Meanwhile, I went back to the memory of the trial…
 
 If only there had <em>been</em> a trial. The judge's order at the pretrial hearing left it indefinitely postponed, and then –
 
-What was this pretrial hearing, then?
+The memory of the pretrial hearing, then.
 
-[????? Physical descriptions, introduction to hearing]
-
-The Blood Temple didn't have separate courthouses like the Stern. Legal proceedings were conducted in ordinary meeting halls in the same temples that were used for [????? maybe more specific: the rest of Blood Temple business]. On my way to the hearing, I had to walk across a courtyard where children played noisily in the dirt. I gave them a wide berth – it wouldn't do for my pressed suit to have dirt tossed on it by their rowdiness.
+The Blood Temple didn't have separate courthouses like the Stern. Legal proceedings were conducted in ordinary meeting halls in the same temples that were used for [????? maybe more specific: the rest of Blood Temple business]. On my way to the hearing, I had to walk across a courtyard where children, probably orphans cared for by the Temple, played noisily in the dirt. I gave them a wide berth – it wouldn't do for my pressed suit to have dirt tossed on it by their rowdiness.
 
 I arrived early, of course. The judge – no, the <em>Speaker</em> – was already in the room, standing ominously in the traditional long red robes and mask that completely covered their face. I couldn't even tell if it was a man or a woman. I had to remind myself that this wasn't Stern court. A Speaker, short for <em>Speaker for the blood of the city</em>, had almost arbitrary power to make legal decisions, and was only accountable to the Blood Temple's Circle of Elders. If I wanted to be successful, this was the person I had to convince.
 
@@ -157,15 +155,23 @@ What did he know that I was looking for?
 
 <bigbreak>
 
-Apparently, time has seen me become "the cool substitute teacher". I have always been told I have a way with children, and it would have made me happy if my stories of the old Blood Temple were what earned me that title. Happier still if it were the way I patiently listened to <em>their</em> stories of their lives. But [????? nowadays it took much less than that to make me "cool". It was because I didn't make them keep their heads down all day and study. So many of their parents are away in the car and computer factories nowadays, and they have cars now, but for what? It never seemed right to enforce the Stern rules on them]
+Apparently, time has seen me become "the cool substitute teacher". I have always been told I have a way with children, and it would have made me happy if my stories of the old Blood Temple were what earned me that title. Happier still if it were the way I patiently listened to <em>their</em> stories of their lives. But it was something much simpler than that. It made me sad. In all their other classes, these kids were being told to keep their heads down and study. All I had to do to be "cool" was to give them a break from that, a chance to relax and move their bodies.
 
-"Mister!" one of them piped up. ?????
+I was in the middle school today, covering for a math class. I had let the kids rearrange the desks, and a bunch of them had made a circle to play a game with each other. The others had found their own little pursuits. Noki, who'd just turned fourteen, was sitting on the windowsill and staring out the window – it was a beautiful day outside. No kind of day to keep these kids indoors studying math.
 
-?????
+Principal Cossaman would have wanted me to keep them "on task", but it never seemed right to enforce the Stern rules on these kids. Nowadays, half of their parents were away in the factories from dawn to dusk, and came home too tired to spend time with their children. Who could blame them for wanting more space, more affection?
 
-Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. I suppose that kids have always asked about these things, because kids always do what kids do best, hunting after the highs and lows of life until they find their place in the world. But it used to be that there were another kind of questions, too. Ten years ago, there were kids who asked questions like "why aren't we allowed to say the Blood prayers anymore?" and "[????? something about how an older family member is affected socially/economically]". But for kids growing up today, the Blood Temple was just a part of history.
+The Stern tell us that things are better than ever, because of all this "progress". Because the parents are away building all the newest computers and automobiles and whatever great inventions the Seeking have dreamed up. When I was young, a car was a luxury for the rich, and now they are everywhere. I remember when Noki confided in me that his family didn't always have food on the table, and also mentioned his family's car like it was the most normal thing in the world. But are they happy? Are people happier now? I can't help but wonder if we could have gone a different way. If we could have had all this marvelous technology, but also had our children be happy.
 
-And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, criminals who severely exploited people were sometimes stripped naked and flogged in the public square. But that wasn't what the Blood Temple was really about. And no, I couldn't tell them any stories about that, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't violate Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. [????? After someone was punished, they needed to have the opportunity to return to equal. If you continued gossiping long after the event, you were stepping on them for your own amusement. That was <em>lowari</em>.]
+"Mister!" one of them piped up. "Mister, are you listening?"
+
+I blinked, bringing myself back to the present, where a few of the kids were gathered around me, eagerly asking me questions. "Ah, did I doze off there?"
+
+One of them leaned forward. "Is it true that Blood temples had giant orgies every year?"
+
+I smiled wistfully. Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. I suppose that kids have always asked about these things, because kids always do what kids do best, hunting after the highs and lows of life until they find their place in the world. But it used to be that there were another kind of questions, too. Ten years ago, there were kids who asked questions like "why aren't we allowed to say the Blood prayers anymore?" and "my granddad says the [????? something about how an older family member is affected socially/economically]". But for kids growing up today, the Blood Temple was just a part of history.
+
+And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, criminals who severely exploited people were sometimes stripped naked and flogged in the public square. But that wasn't what the Blood Temple was really about. And no, I couldn't tell them any stories about that, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't disregard Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. After someone was punished, they needed to be given the chance to return to equal status in society. If you treated their humiliation as a funny thing to gossip about, you were stepping on them for your own amusement. That was <em>lowari</em>.
 
 No… none of that was what the Blood Temple was really about.
 
@@ -175,7 +181,7 @@ No… as Yali, I didn't have to compromise with what those kids from the past we
 
 It was a time of peace, a slow autumn when the days were warm and the temple well-stocked, years before the hurricane put us in the middle of recovery again. It had been a good year for the eastern farmland, and ?????
 
-[????? Brief descriptions of reading from the book of blood to the children – an audience ranging from the smallest children to the elderly, because everyone needs it in their own way – including a bit of information about the Temple social structures – "no person can be above or below another"]
+[????? Brief descriptions of reading from the book of blood to the children – an audience ranging from the smallest children to the elderly, because everyone needs it in their own way – including a bit of information about the Temple social structures – lovingly thumbing through the worn pages, "the book of blood was the only holy book that gets updated" "each one of you has a fire inside you" "no person can be above or below another"]
 
 [????? In a time like that, the things we were doing were ones that we could afford to put off if something else came up. That's what happened. I was doing a thing when the boy approached me sick, and I decided that I could afford to let it go for that evening to take care of them]
 
@@ -185,13 +191,13 @@ It was a time of peace, a slow autumn when the days were warm and the temple wel
 
 ?????
 
-I pulled myself out of the memory. I had thought this would be something important, but it was just feel-good stuff. It was just ????caretaker looking back on something with rose-colored glasses. And it wasn't even a good decision! If you weren't having a crisis, that didn't mean you could afford to idle around, it meant you could afford to prepare for the next crisis before it happened.
+I pulled myself out of the memory. I had thought this would be something important, but the more I looked, the more it seemed like it was just feel-good stuff. It was just ????caretaker looking back on something with rose-colored glasses. And it wasn't even a good decision! If you weren't having a crisis, that didn't mean you could afford to idle around, it meant you could afford to prepare for the next crisis before it happened.
 
 In hindsight, it hasn't been very likely that what <em>he</em> thought was the most important would be the same thing <em>I</em> thought was the most important. I would have to hunt through the memories myself, like I always did. Maybe the right idea was to go over the story of Hurricane Fjarl after all. That would tell me how the Blood Temple handled a crisis [?????, which was much more important than this everyday stuff].
 
 [????? Bunch of hurricane stuff]
 
-[????? As fate would have it], the main temple, where I worked, didn't get the worst of the storm. The power was out all across the city, and we got a lot of rain, but that was all. But a lot of our smaller temples had been hit hard, a lot harder than we had prepared for, and they needed immediate help so they could keep serving their people.
+By the whim of the Seeking, the main temple didn't get the worst of the storm. The power was out all across the city, and we got a lot of rain, but that was all. But a lot of our smaller temples had been hit hard, a lot harder than we had prepared for, and they needed immediate help so they could keep serving their people.
 
 We called in all the temple's part-time workers, and had a big planning meeting in the main hall. People kept rushing in and out, and everyone wanted to talk at once, and we had a big map of the city on the wall where we put a red mark for every place that needed more workers or food or supplies, and from the back of the room they blended together into a giant red scrape across half the city. In the first hour of the meeting we agreed to send everyone we could possibly spare to help our other temples. By the time the meeting ended at sunset, we agreed to send even more, because the others could spare it even less.
 
@@ -227,7 +233,7 @@ While I was watching, I heard ????j scream from outdoors. I ran back up the stai
 
 Sometimes, kids could be such a headache. If ????j kept working when she was this tired, she was going to hurt herself again. But that was her pride, and it was better to let her get hurt than to ask her to give up her pride. Eventually, she would learn her limits, and until then, it was my job to support her as best I could. "I know you can be strong," I said. "Keep being strong, but remember to be careful –"
 
-"?????Caretaker, there you are! We could really use an extra body over here –"
+"????Caretaker, there you are! We could really use an extra body over here –"
 
 I looked up. Civeah and the others were straining to lift a pallet of portable generators out of a truck. They really did need help. Reluctantly, I started to stand. I patted ????j on the shoulder. "I'm sorry, but it looks like I'm needed. ????j, if you're okay to keep working, I'm appointing you as guardian of this broken glass. Don't touch it, but make sure nobody steps on it until someone can help you clean it up."
 
@@ -241,7 +247,7 @@ That was… The same memory of the sick boy from earlier. As Yali, something was
 
 [????? As Yali, something was familiar about those people – wait!] They were dressed the same way as that group from the Waiting God's memory, the ones negotiating with the businesspeople. [????? I tried to find other memories of them]
 
-It was a long time before, just a few years out of high school, the year my grandfather passed. I hadn't gotten used to my role at the Blood Temple yet, and I was nervous around all the important priests and community leaders who came by. That was how I met her – I was moving a cart of firewood down the hallway, to restock the beacon fires on the temple towers, when a proud, dignified old woman approached from the other direction. I hurried to move my cart to the wall so she would have plenty of room to pass.
+It was a long time before, when I was just a few years out of school, the year my grandfather passed. I hadn't gotten used to my role at the Blood Temple yet, and I was nervous around all the important priests and community leaders who came by. That was how I met her – I was moving a cart of firewood down the hallway, to restock the beacon fires on the temple towers, when a proud, dignified old woman approached from the other direction. I hurried to move my cart to the wall so she would have plenty of room to pass.
 
 She looked at me sharply. "You there! Young man. Why did you move aside?"
 
@@ -274,7 +280,59 @@ She fixed me with a ?????adjective glare. "Caretakers are the beating heart of t
 
 [????? some more of the lawyer; Waiting God comes back somewhere in here?]
 
+[????? The speaker had a woman's voice and I didn't like that; maybe judging her for being businesslike, "she was probably spitefully against me from the start"]
+
+[????? ????Victim described her situation, giving details at the request of the Speaker]
+
+[????? "In this other case, someone who got revenge for an indirect effect without provable causation was pronounced justified. In the same way, ????victim could have reasonably expected that ????Corporation would pay her wages, and ????thief's actions limited how much ????Corporation could carry out their core business"]
+
+"So the accusation before the Temple," intoned the Speaker, "is that ????victim's blood was dependent on ????Corporation, and that thefts have left ????Corporation no choice but to abandon her. Is that correct?"
+
+[????? With distress in hindsight: "That is correct," I said.]
+
+"Where are the decision-makers?" said the Speaker curtly.
+
+"Beg pardon, Speaker?"
+
+"The decision to terminate ????victim's employment was made by human beings. It was one or more human beings who considered ????Corporation's budget and, per the accusation, determined that they had no choice but to abandon the blood of one of their own. Let them come before the Temple and testify."
+
+[????? But that would be important people from Corporation! If they were called to testify in a routine shoplifting case because of me, I'd be a laughingstock!] "Speaker, I appreciate the Temple's interest in [????? having the best possible information, but surely it's not needed so importantly]"
+
+"[????? Not important? Does their blood not twist in their veins, knowing that they were forced to leave another human being to suffer? Would they not be eager to see that injustice resolved?]"
+
+"No one at ????Corporation wants to see anyone suffer, I assure you! But surely you don't expect them to take time out their busy schedules just to –"
+
 ?????
+
+"Did you learn Blood law from a book?" the Speaker barked. "[????? Do you never feel justice with your body? I DO expect them to testify – we have heard an accusation, where someone's blood is at stake, and they are involved! Do you think they are so high above ????victim that they ??????"
+
+"Then we withdraw the accusation! Don't we, ????victim –"
+
+"Fool!" the Speaker shrieked. "You cannot quiet her blood! The blood of the city hears your words as an attempt to control her, and by law, the accusation can no longer be withdrawn! [????? It's now clear why you are here. You came in intending to use her suffering as a tool to benefit ????Corporation. But suffering cries out with a voice of its own! If the decision-makers do not care, they may be guilty! Let every pertinent financial record be brought to the temple, and let everyone involved in the decision come to testify! The blood of the city demands it!"
+
+"????Corporation most certainly won't be complying with such a demand! We are established within the jurisdiction of the Stern Temple, and the Blood Temple has no authority to –"
+
+"So you came here with no intention of respecting our decisions? Begone from this temple, scofflaw! Run and tell your <em>masters</em> of our demands, and tell them that we will not be used!"
+
+[????? Bit of conclusion to the scene, maybe I gathered my things and left]
+
+As Yali, I concentrated, trying to sort out my own thoughts. In ????lawyer's memories, the Speaker had felt like an unreasonable person, irrational and shrieking. But when I thought about what she had actually said, it made plenty of sense. It was unsettling to think about. But looking back and forth in the memories, it was obvious what had happened. ????Lawyer had taken the Speaker seriously until he knew she was a woman. It wasn't too surprising – I had seen the same kind of thing from some of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently. It came out as something much more unpleasant than the way it would be recorded in my memories, or ????caretaker's, or most of the other Farseers'.
+
+The contrast didn't feel so unsettling now that I knew it was just ????lawyer's sexism. I returned to the memories.
+
+I never liked to think back to the time right after the hearing. When ????boss fired me, he scheduled a full hour just to yell at me for bringing the Blood Temple's attention against us. Did he ever apologize for ordering me to do it in the first place? Did I ever get an apology from ????Corporation after it ultimately worked out in their favor? Of course not.
+
+But I did watch the news like a hawk. I had expected the case to fade into obscurity after ????Corporation rejected the Blood Temple's demands, but only the Waiting knows the end. The Blood Temple had no authority to compel testimony from ????Corporation executives, but they did have authority over the fifth layer, where ????Corporation had two storefronts. And they must have been waiting for an excuse to act, because they <em>banned</em> ????Corporation from the fifth layer and seized the two storefronts. ????Corporation appealed to the Stern to protect their assets. And that was where things got complicated.
+
+Back then, it was unprecedented for the Stern police to enter the fifth layer. But the ????Treaty had changed things, creating a special arrangement to allow corporations to do business across layer boundaries. No doubt, when the Blood Temple signed the treaty, none of them believed they were giving permission for the Stern to enter their territory. But in a beautiful legal argument, the Stern Temple stated that the Blood Temple's seizure of ????Corporation assets was a <em>violation</em> of the ????treaty, and claimed the right to a "minimal enforcement action" to protect the assets.
+
+By the time the issue reached the Concord courts, Blood warriors and Stern police were already fighting each other in the streets of the fifth layer.
+
+
+
+[????? "After the hearing…" Lawyer summary of how things went down after the order; see notes below. Maybe leading into caretaker memory about internal Blood politics during the fall]
+
+[????? Transition: Blood wasn't supposed to be about all this politics, it was supposed to be about caretaking, like that time]
 
 There was the memory of the sick boy again. The same fond memory of staying up all night just to comfort him.
 
@@ -350,6 +408,12 @@ I wanted to scream. Without thinking, I forced myself to stay quiet. But then I 
 
 
 [????? I cried a lot, I didn't know what to do]
+
+[????? Was this what the Waiting God wanted to stop? Yes, the more I put it together, the clearer it was. People being happy and cared for in their existing lives inherently meant that they wouldn't be motivated to accept a new structure. But when I looked at it as Yali, I could tell that the change resulted in isolating and exploiting people. Did the Waiting God want people to be exploited? No, and that was the unsettling part, it generally thought exploiting was bad, but didn't make the connection that that was an inevitable result of what it was doing.
+
+[????? But <em>I</em> knew <em>I</em> believed that caretaker's vision was good. What did the Waiting God think of that vision? It could see the Waiting nature of it. It was struggling against itself, while I was now confident of my beliefs. I was ready to approach the portal.
+
+[????? I began slowly climbing… As I climbed, I looked back on what I had learned, and the more I did, they more confident I felt]
 
  [????? Notes:
  
