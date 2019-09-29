@@ -378,9 +378,9 @@ The woman pushed past and went in through the door. She was dressed like someone
 
 "????Name, come here! I am your mother!"
 
-Civeah seemed to be holding the woman back for now. I knew where I was needed. I hurried past them and knelt down next to ????name, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and it was Blood tradition not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present.
+Civeah seemed to be holding the woman back for now. I knew where I was needed. I hurried past them and knelt down next to ????name, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and it was Blood Temple tradition not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present. It was six more years before ???? opened up to me about how his mother had abused him. It made me cry, knowing what he had been through, but also knowing how the Blood ways had helped me protect him even before I knew.
 
-I patted ????name on the shoulder – I was the only person he allowed to touch him, but he seemed to find it reassuring when I did. "It's okay," I whispered. "You don't have to go with her unless you want to. It's your choice."
+In the present, I patted ????name on the shoulder. I was the only person he allowed to touch him, but he seemed to like it when it was me. "It's okay," I whispered. "You don't have to go with her unless you want to. It's your choice."
 
 ?????
 
@@ -388,9 +388,22 @@ I patted ????name on the shoulder – I was the only person he allowed to touch 
 
 "Do my ears deceive me?" came Rohin's voice from the outside. He must have heard the commotion. "Did someone wonder if this is not a Blood Temple?" Rohin never raised his voice, but you could <em>tell</em> when he was scandalized.
 
-[????? It was years before he opened up to me about the abuse. But at the time, I just knew I had to care for the person right in front of me]
+Civeah and the woman both started shouting, trying to tell Rohin their own side of what was happening. I stayed at ????'s side, whispering to him, reassuring him that no one would force him into anything. I offered to bring him to a quiet place away from the yelling adults, but he kept watching, transfixed.
 
-?????
+"Ask yourself," said Rohin, "how should a child experience a bond of blood? Should he feel it as a cord for his mother to yank him about with? Or should he feel it as a bond of protection and trust –"
+
+The woman was clearly trying to restrain herself now that a priest was here – ironically, since Rohin would have been the first to tell her that yelling at a priest was less offensive than yelling at a caretaker. "Your Worship," she began, earning her a skeptical glance from him, "I do not need a lesson in how to raise my son. I only ask that you give him back to me –"
+
+"Ah, but he is not ours to give. Only he can make that decision. If he does not reach out for you, then you must ask yourself, 'what have I done to damage the trust inherent in our bond?' Then, perhaps, you will understand –"
+
+"He doesn't come to me because he is too selfish to understand how much I've sacrificed for him! He <em>needs</em> me! ????, come <em>here</em> –"
+
+"You desecrate this temple with your words," said Rohin sadly. "Leave this place. Return when you can honor your bonds."
+
+"You heard the man!" said Civeah, pushing the woman towards the door. "Scurry on outta here!"
+
+The woman glared at us, but she could tell she was outnumbered. She turned and walked haughtily away from the building, with Civeah following to make sure she left. [????? Then it was just me and Rohin and the kids, and a bunch of them were upset, and I helped comfort them, and then Rohin led them in the Prayer to Recover Strength]
+
 
 <bigbreak>
 
