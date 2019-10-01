@@ -288,7 +288,7 @@ I still didn't even know the full story about how the Blood Temple fell. Maybe i
 
 "So the accusation before the Temple," intoned the Speaker, "is that ????victim's blood was dependent on ????Corporation, and that thefts have left ????Corporation no choice but to abandon her. Is that correct?"
 
-[????? With distress in hindsight: "That is correct," I said.]
+I should have known! I should have realized what a disaster I was walking myself into. But I thought I had reasoned it out so well. I simply said, "That is correct."
 
 "Where are the decision-makers?" said the Speaker curtly.
 
@@ -308,7 +308,7 @@ I still didn't even know the full story about how the Blood Temple fell. Maybe i
 
 "Then we withdraw the accusation! Don't we, ????victim –"
 
-"Fool!" the Speaker shrieked. "You cannot quiet her blood! The blood of the city hears your words as an attempt to control her, and by law, the accusation can no longer be withdrawn! [????? It's now clear why you are here. You came in intending to use her suffering as a tool to benefit ????Corporation. But suffering cries out with a voice of its own! If the decision-makers do not care, they may be guilty! Let every pertinent financial record be brought to the temple, and let everyone involved in the decision come to testify! The blood of the city demands it!"
+"Fool!" the Speaker shrieked. "You cannot quiet her blood! The blood of the city hears your words as an attempt to control her, and by law, the accusation can no longer be withdrawn! You have made it far too clear why you are here. You brought ????victim here intending to use her suffering as a tool to benefit ????Corporation. But suffering cries out with a voice of its own! If [????? the decision-makers do not care, they may be guilty! Let every pertinent financial record be brought to the temple, and let everyone involved in the decision come to testify! The blood of the city demands it!"
 
 "????Corporation most certainly won't be complying with such a demand! We are established within the jurisdiction of the Stern Temple, and the Blood Temple has no authority to –"
 
@@ -316,7 +316,7 @@ I still didn't even know the full story about how the Blood Temple fell. Maybe i
 
 [????? Bit of conclusion to the scene, maybe I gathered my things and left]
 
-As Yali, I concentrated, trying to sort out my own thoughts. In ????lawyer's memories, the Speaker had felt like an unreasonable person, irrational and shrieking. But when I thought about what she had actually said, it made plenty of sense. It was unsettling to think about. But looking back and forth in the memories, it was obvious what had happened. ????Lawyer had taken the Speaker seriously until he knew she was a woman. It wasn't too surprising – I had seen the same kind of thing from some of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently. It came out as something much more unpleasant than the way it would be recorded in my memories, or ????caretaker's, or most of the other Farseers'.
+As Yali, I concentrated, trying to sort out my own thoughts. In ????lawyer's memories, the Speaker had felt like an unreasonable person, irrational and shrieking. But when I thought about what she had actually said, it made plenty of sense. It was unsettling to think about. But looking back and forth in the memories, it was obvious what had happened. ????Lawyer had taken the Speaker seriously until he knew she was a woman. It wasn't too surprising – I had seen similar things from some of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently. It came out as something much more unpleasant than the way it would be recorded in my memories, or ????caretaker's, or most of the other Farseers'.
 
 The contrast didn't feel so unsettling now that I knew it was just ????lawyer's sexism. I returned to the memories.
 
@@ -400,27 +400,28 @@ The woman was clearly trying to restrain herself now that a priest was here – 
 
 "He doesn't come to me because he is too selfish to understand how much I've sacrificed for him! He <em>needs</em> me! ????, come <em>here</em> –"
 
-"You desecrate this temple with your words," said Rohin sadly. "Leave this place. Return when you can honor your bonds."
+"You desecrate this temple with your words," said Rohin sadly. "You must cease violating our space. Wait for me in [????? the main hall] if you would discuss this further."
 
-"You heard the man!" said Civeah, pushing the woman towards the door. "Scurry on outta here!"
+"You heard the man!" said Civeah, shoving the woman towards the door. "Scurry on outta here!"
 
-The woman glared at us, but she could tell she was outnumbered. She turned and walked haughtily away from the building, with Civeah following to make sure she left. [????? Then it was just me and Rohin and the kids, and a bunch of them were upset, and I helped comfort them, and then Rohin led them in the Prayer to Recover Strength]
+The woman glared at us, but luckily, she didn't try anything worse. She turned and walked haughtily away from the building, with Civeah following to make sure she wouldn't come back. [????? Then it was just me and Rohin and the kids, and a bunch of them were upset, and I helped comfort them, and then Rohin led them in the Prayer to Recover Strength]
 
 
 <bigbreak>
 
-It was impossible. It was too convenient. Was I supposed to believe that I could have just walked into the Blood Temple and they would have protected me from the Dalners? That they would have fed me, taken care of me, no questions asked? Without needing proof, without me having to ?????? It couldn't be real. That just wasn't how the world worked. [????? No one would fight for you if you didn't force them to]
+It was impossible. It was too convenient. Was I supposed to believe that I could have just walked into the Blood Temple and they would have protected me from the Dalners? That they would have fed me, taken care of me, no questions asked? Without needing proof, without me having to record everything to be taken seriously? It couldn't be real. That just wasn't how the world worked. People might like to think of themselves as good, but as soon as it was difficult, their true natures would show themselves. I couldn't forget how my mother abandoned me to suffer. I couldn't forget Morrow's memories of stranger after stranger closing their doors to him. No one would fight for you unless there was something forcing them to.
 
-But I couldn't deny it. I had seen it all in the memories. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the Dalners]
+But I couldn't deny what I had seen in ????caretaker's memories, either. If I had been there… there was nothing different about me. The caretakers would have protected me, without demanding anything in return. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the Dalners]
 
-Maybe… maybe it wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood Temple</em>.
+I had thought it wasn't how the world worked, but maybe… maybe it only wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood Temple</em>.
 
-My teeth chattered. I felt dizzy and sick. Everything I had done… [????? Every time I forced myself to stay quiet/etc.…] It WOULD all have been meaningless. It SHOULD all have been meaningless. ????? [????? It should have been] A world where I didn't have to work harder than everyone else just to have my basic safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because ?????.
+My teeth chattered. I felt dizzy and sick. Everything I had done… Every time I had forced myself to stay quiet when I wanted to scream, every time I had stayed awake late into the night planning out how to protect myself… It WOULD all have been meaningless. It SHOULD all have been meaningless. I should never have had to do any of it. I should have gotten to live in a world where I didn't have to work harder than everyone else just to live in safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because there would be someone there to protect me, to take care of me, no matter how many times I messed up.
 
-I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain so intense that nobody could face it and stay standing, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was nothing I could do. The pain was inside of me. I couldn't make it go away. I couldn't even <em>wish</em> for it to go away. I <em>needed</em> this pain. I knew it in the core of my being. ?????
+I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I shoved past my barrier and screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain so intense that nobody could face it and stay standing, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was nothing I could do. The pain was inside of me. I couldn't make it go away. I didn't even <em>want</em> it to go away. This pain meant something. I knew it in the core of my being. This pain was my connection to everything I had lost, to every part of me that I had locked away ?????.
 
+To the part of me that was the most Blood.
 
-[????? I cried a lot, I didn't know what to do]
+And then I knew. Screaming and crying, I knew. [????? This was a reason why I could never give up the Blood God]
 
 [????? Was this what the Waiting God wanted to stop? Yes, the more I put it together, the clearer it was. People being happy and cared for in their existing lives inherently meant that they wouldn't be motivated to accept a new structure. But when I looked at it as Yali, I could tell that the change resulted in isolating and exploiting people. Did the Waiting God want people to be exploited? No, and that was the unsettling part, it generally thought exploiting was bad, but didn't make the connection that that was an inevitable result of what it was doing.
 
