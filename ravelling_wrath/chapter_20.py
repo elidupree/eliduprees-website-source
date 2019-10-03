@@ -191,7 +191,7 @@ Of course, I didn't love them <em>every</em> day. It's hard to love anyone when 
 
 I pulled myself out of the memory. I had thought this would be something important, but the more I looked, the more it seemed like it was just feel-good stuff. It was just ????caretaker looking back on something with rose-colored glasses. And it wasn't even a good decision! If you weren't having a crisis, that didn't mean you could afford to idle around, it meant you could afford to prepare for the next crisis before it happened.
 
-In hindsight, it hasn't been very likely that what <em>he</em> thought was the most important would be the same thing <em>I</em> thought was the most important. I would have to hunt through the memories myself, like I always did. Maybe the right idea was to go over the story of Hurricane Fjarl after all. That would tell me how the Blood Temple handled a crisis [?????, which was much more important than this everyday stuff].
+In hindsight, it hasn't been very likely that what <em>he</em> thought was the most important would be the same thing <em>I</em> thought was the most important. I would have to hunt through the memories myself, like I always did. Maybe the right idea was to go over the story of Hurricane Fjarl after all. That would tell me the real measure of the Blood Temple – the way it handled a crisis.
 
 By the whim of the Seeking, the main temple didn't get the worst of the storm. The power was out all across the city, and we got a lot of rain, but that was all. But a lot of our smaller temples had been hit hard, a lot harder than we had prepared for, and they needed immediate help so they could keep serving their people.
 
@@ -362,21 +362,21 @@ I was watering the garden out in front of the temple's living quarters when the 
 
 "Is my son here? ????Name – He's here, isn't he?"
 
-"If there is a ????name here, if you'll just wait here, I can step inside and tell him that his mother is –"
+I looked up from my gardening, the evening sun getting in my eyes, making it hard to see her. Cautiously, I said, "If there is a ????name here, if you'll just wait here, I can step inside and tell him that his mother is –"
 
 "What is this? Is he here or not?"
 
 "Just Temple policy, ma'am –"
 
-The woman pushed past and went in through the door. She was dressed like someone from the third layer, so she probably didn't understand the norms around here – even though most of the temple was open to the public, any living space was sacred, and it was a violation to enter one uninvited. I dropped my tools and hurried after her.
+The woman pushed past and went in through the door. On second glance, she was dressed like someone from the third layer, so she probably didn't understand our norms – even though most of the temple was open to the public, any living space was sacred, and it was taboo to enter one uninvited. I dropped my tools and hurried after her.
 
-[????? Civeah was already tending the children indoors and saw what happened, thank the gods. I didn't know if I would have the guts to stand in someone's way, but Civeah did.]
+Indoors, Civeah was already there, helping the children clean up yet another mess on the big wooden dining table. Thank the gods she was there – I didn't know if I would have the guts to stand in someone's way, but Civeah saw what happened, and she stood right in the doorway to the dining area.
 
 "Ma'am, you can't come in here, you have to step outside –"
 
 "????Name, come here! I am your mother!"
 
-Civeah seemed to be holding the woman back for now. I knew where I was needed. I hurried past them and knelt down next to ????name, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and it was Blood Temple tradition not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present. It was six more years before ???? opened up to me about how his mother had abused him. It made me cry, knowing what he had been through, but also knowing how the Blood ways had helped me protect him even before I knew.
+Civeah seemed to be holding the woman back for now. I knew where I was needed. I slipped past them and knelt down next to ????name, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and it was Blood Temple tradition not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present. It was six more years before ???? opened up to me about how his mother had abused him. It made me cry, knowing what he had been through, but also knowing how the Blood ways had helped me protect him even before I knew.
 
 In the present, I patted ????name on the shoulder. I was the only person he allowed to touch him, but he seemed to like it when it was me. "It's okay," I whispered. "You don't have to go with her unless you want to. It's your choice."
 
