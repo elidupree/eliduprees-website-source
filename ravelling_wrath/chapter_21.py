@@ -398,7 +398,7 @@ Yali allowed me to give her a hand up. I was probably completely useless – she
 
 She exhaled, long and shakily. "I shouldn't be dumping this on you… You were there too, you, you, did it just as much as I did…"
 
-"Yeah, but I don't feel guilty about it," I said. It felt a little weird being so casual about it. "I mean, if I killed someone <em>now</em>, I'd probably be pretty freaked out about it. But when I remember it, it's like it's the Blood God's memory more than mine. It doesn't feel like killing somebody, it feels like, I guess… righteously destroying a…"
+"Yeah, but I don't feel guilty about it," I said. It felt a little weird being so casual about it. "I mean, if I killed someone <em>now</em>, I'd probably be pretty freaked out about it. But when I remember it, it's like it's the Blood God's memory more than mine. It doesn't feel like killing somebody, it feels like, I guess… righteously cutting through a tangle of, uh…"
 
 "Good! Don't think about it too much. Leave the memory how it is."
 

@@ -322,15 +322,27 @@ But I did watch the news like a hawk. I had expected the case to fade into obscu
 
 Back then, it was unprecedented for the Stern police to enter the fifth layer. But the ????Treaty had changed things, creating a special arrangement to allow corporations to do business across layer boundaries. No doubt, when the Blood Temple signed the treaty, none of them believed they were giving permission for the Stern to enter their territory. But in a beautiful legal argument, the Stern Temple stated that the Blood Temple's seizure of ????Corporation assets was a <em>violation</em> of the ????treaty, and claimed the right to a "minimal enforcement action" to protect the assets.
 
-By the time the issue reached the Concord courts, Blood warriors and Stern police were already fighting each other in the streets of the fifth layer.
+By the time the issue reached the Concord courts, Blood warriors and Stern police were already fighting each other in the streets of the fifth layer. ?????
 
 
 
-[????? "After the hearing…" Lawyer summary of how things went down after the order; see notes below. Maybe leading into caretaker memory about internal Blood politics during the fall. Or maybe into the Waiting God's perspective, the Waiting God didn't plan this SPECIFICALLY, but it was one of the many ways things could have gone. Somewhat messy, but it was always likely to be messy, and in the end, it would be cleared up. Yali tries to argue against that but ends up frustrated, and reaches for the caretaker's thoughts again]
+[????? the legal maneuvers were just an excuse/delay?]
 
-????? A messy sequence of events, set in motion by a soul whose purposes were far askew from our own. ?????
+[????? The blood Temple struck back and the Stern used that as an excuse for open war]
 
-[????? Transition: Blood wasn't supposed to be about all this politics, it was supposed to be about caretaking, like that time]
+[????? Positive thoughts about the Blood Temple collapse]
+
+I concentrated. Those last thoughts had been different, not like ????lawyer's usual memories. Could it be the Waiting God again? Yes, it was! And it was merging with my own thoughts the same way as before, so I had been right – it wasn't really conscious of what I was doing. That meant I could examine its thoughts again! Had this all been part of its plan? The Waiting Temple subsidy leading to ????lawyer getting involved in this case, leading to the fall of the Blood Temple? I held that idea in my mind, trying to express it in the way the god understood things, and listened for the god's conclusions.
+
+It was hardly a grand design. Like so many things, it was a messy sequence of events, set in motion by a soul whose purposes were far askew from our own. It would have been foolish to rely on it, to rely on this particular one of our temple's countless half-formed expressions of our will. But our net was wide and slow, and just as a drought needs only one spark to become a fire, Blood's temple could never have remained stable forever, not when the city's loyalty was turning away from Blood and towards a deeper structure. Things would be messy for this long moment, but they would not be messy forever.
+
+<em>And that was bad,</em> I insisted to myself. The Waiting God's structure was bad.
+
+How disorganized I was being, to protest against something that was inevitable.
+
+This was frustrating. I purposefully let myself think impatient thoughts, to get myself out of the mindset of the Waiting God. ?????
+
+[????? couple paragraphs of caretaker memory about internal Blood politics during the fall. "I didn't stay with the temple, I understood where things were going" "My one small rebellion, I didn't turn over my book of Blood when they burned them all" Transition: Blood wasn't supposed to be about all this politics, it was supposed to be about caretaking, like that time]
 
 There was the memory of the sick boy again. The same fond memory of staying up all night just to comfort him.
 
