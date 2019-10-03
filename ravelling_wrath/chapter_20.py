@@ -328,6 +328,8 @@ By the time the issue reached the Concord courts, Blood warriors and Stern polic
 
 [????? "After the hearing…" Lawyer summary of how things went down after the order; see notes below. Maybe leading into caretaker memory about internal Blood politics during the fall. Or maybe into the Waiting God's perspective, the Waiting God didn't plan this SPECIFICALLY, but it was one of the many ways things could have gone. Somewhat messy, but it was always likely to be messy, and in the end, it would be cleared up. Yali tries to argue against that but ends up frustrated, and reaches for the caretaker's thoughts again]
 
+????? A messy sequence of events, set in motion by a soul whose purposes were far askew from our own. ?????
+
 [????? Transition: Blood wasn't supposed to be about all this politics, it was supposed to be about caretaking, like that time]
 
 There was the memory of the sick boy again. The same fond memory of staying up all night just to comfort him.
