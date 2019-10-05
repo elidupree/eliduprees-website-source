@@ -346,7 +346,9 @@ I would like to think that I never truly left the Blood Temple. All of my social
 
 When the Stern captured our High Speaker, everyone had a different opinion about who was the legitimate successor. It shouldn't have mattered, because the role of High Speaker was a formality – no one person can have too much power. But even in the Blood Temple, people have a weakness for hero-worship. It didn't help that the Stern Temple insisted on acknowledging the Acting High Speaker, who wanted to negotiate with the Stern, instead of the one the Circle appointed to replace him. It should have been obvious that the Stern were trying to pit us against each other. But there were fights. Friends accused friends of betrayal. I did what I could to mend feelings, but the temple I had loved was falling apart.
 
-[?????  "My one small rebellion, I didn't turn over my book of Blood when they burned them all" Transition: Blood wasn't supposed to be about all this politics, it was supposed to be about caretaking, like that time]
+In the end, I was tired. Too many of my friends had died in the fighting, and too many more had been carried away to the Stern prison when they tried to protest against the new laws. I understood what drove them, but it was not a place I could follow. I had never had the Stern instinct, the instinct to sacrifice everything rather than compromise my principles. Something good had been lost forever, but there had always been loss, and there was no sense in fighting for something that was already gone. My one small act of rebellion was to keep my Book of Blood when the Stern burned all the copies, keeping it hidden under a floorboard and lying to the Stern when they came to take all our copies. Other than that, I adapted. I found small ways to keep the tradition of caretaking alive in the new order.
+
+That was what the Blood Temple had always been about. It was never about all this fighting, all this politics. It was about people caring for each other. It was about helping people grow strong in their knowledge of themselves. And when they were not strong, it was about staying up late into the night to make sure they –
 
 There was the memory of the sick boy again. The same fond memory of staying up all night just to comfort him.
 
@@ -431,17 +433,25 @@ I had thought it wasn't how the world worked, but maybe… maybe it only wasn't 
 
 My teeth chattered. I felt dizzy and sick. Everything I had done… Every time I had forced myself to stay quiet when I wanted to scream, every time I had stayed awake late into the night planning out how to protect myself… It WOULD all have been meaningless. It SHOULD all have been meaningless. I should never have had to do any of it. I should have gotten to live in a world where I didn't have to work harder than everyone else just to live in safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because there would be someone there to protect me, to take care of me, no matter how many times I messed up.
 
-I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I shoved past my barrier and screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain so intense that nobody could face it and stay standing, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was nothing I could do. The pain was inside of me. I couldn't make it go away. I didn't even <em>want</em> it to go away. This pain meant something. I knew it in the core of my being. This pain was my connection to everything I had lost, to every part of me that I had locked away ?????.
+I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I shoved past my barrier and screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain so intense that nobody could face it and stay standing, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was nothing I could do. The pain was inside of me. I couldn't make it go away. I didn't even <em>want</em> it to go away. This pain meant something. I knew it in the core of my being. This pain was my connection to everything I had lost, to every part of me that I had locked away so that I could carry on.
 
 To the part of me that was the most Blood.
 
-And then I knew. Screaming and crying, I knew. [????? This was a reason why I could never give up the Blood God]
+And then I knew. Screaming and crying, I knew. This was it. This was the reason I had been looking for. The reason that no part of me could ever give up the Blood God. Even the most Waiting part of me, the part that would choke away all my weaknesses to carry me through to the next day, knew it was true. [????? For all the time I had spent trying to stay alive, I had never planned to <em>only</em> stay alive.] I had planned to stay alive… <em>and then be happy</em>.
+
+It all felt so clear now. So this would be my final plan: to make a world where it was safe to let down my guard.
 
 [????? Was this what the Waiting God wanted to stop? Yes, the more I put it together, the clearer it was. People being happy and cared for in their existing lives inherently meant that they wouldn't be motivated to accept a new structure. But when I looked at it as Yali, I could tell that the change resulted in isolating and exploiting people. Did the Waiting God want people to be exploited? No, and that was the unsettling part, it generally thought exploiting was bad, but didn't make the connection that that was an inevitable result of what it was doing.
 
 [????? But <em>I</em> knew <em>I</em> believed that caretaker's vision was good. What did the Waiting God think of that vision? It could see the Waiting nature of it. It was struggling against itself, while I was now confident of my beliefs. I was ready to approach the portal.
 
 [????? I began slowly climbing… As I climbed, I looked back on what I had learned, and the more I did, they more confident I felt]
+
+
+
+
+
+
 
  [????? Notes:
  
