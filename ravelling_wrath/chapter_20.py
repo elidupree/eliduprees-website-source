@@ -344,7 +344,7 @@ This was frustrating. I purposefully let myself think impatient thoughts, to get
 
 I would like to think that I never truly left the Blood Temple. All of my social circles were built around it, and even as my Temple friends brought me grimmer and grimmer news of what was happening in my absence, there was never a moment when I stopped thinking of it as <em>my temple</em>. But the physical temple had become a dangerous place to be. When the Circle of Elders had formally announced their declaration of war, they had asked for the aid of all who would fight in defense of the Temple, and they had asked those who would not fight to stay at home to protect themselves and their families. And I knew which of those was me.
 
-When the Stern captured our High Speaker, everyone had a different opinion about who was the legitimate successor. It shouldn't have mattered, because the role of High Speaker was a formality – no one person can have too much power. But even in the Blood Temple, people have a weakness for hero-worship. It didn't help that the Stern Temple insisted on acknowledging the Acting High Speaker, who wanted to negotiate with the Stern, instead of the one the Circle appointed to replace him. It should have been obvious that the Stern were trying to pit us against each other. But there were fights. Friends accused friends of betrayal. I did what I could to mend feelings, but the temple I had loved was falling apart.
+When the Stern captured our high priest, everyone had a different opinion about who was the legitimate successor. It shouldn't have mattered, because the role of high priest was a formality – no one person can have too much power. But even in the Blood Temple, people have a weakness for hero-worship. It didn't help that the Stern Temple insisted on acknowledging the acting high priest, who wanted to negotiate with the Stern, instead of the one the Circle appointed to replace him. It should have been obvious that the Stern were trying to pit us against each other. But there were fights. Friends accused friends of betrayal. I did what I could to mend feelings, but the temple I had loved was falling apart.
 
 In the end, I was tired. Too many of my friends had died in the fighting, and too many more had been carried away to the Stern prison when they tried to protest against the new laws. I understood what drove them, but it was not a place I could follow. I had never had the Stern instinct, the instinct to sacrifice everything rather than compromise my principles. Something good had been lost forever, but there had always been loss, and there was no sense in fighting for something that was already gone. My one small act of rebellion was to keep my Book of Blood when the Stern burned all the copies, keeping it hidden under a floorboard and lying to the Stern when they came to take all our copies. Other than that, I adapted. I found small ways to keep the tradition of caretaking alive in the new order.
 
@@ -400,9 +400,9 @@ Civeah seemed to be holding the woman back for now. I knew where I was needed. I
 
 In the present, I patted ????name on the shoulder. I was the only person he allowed to touch him, but he seemed to like it when it was me. "It's okay," I whispered. "You don't have to go with her unless you want to. It's your choice."
 
-?????
+????
 
-"How dare you stand in my way?! I birthed him, we have a bond of blood! How can you call yourselves a Blood Temple when –"
+?????, the woman yelled, "How dare you stand in my way?! I birthed him, we have a bond of blood! How can you call yourselves a Blood Temple when –"
 
 "Do my ears deceive me?" came Rohin's voice from the outside. He must have heard the commotion. "Did someone wonder if this is not a Blood Temple?" Rohin never raised his voice, but you could <em>tell</em> when he was scandalized.
 
@@ -412,7 +412,7 @@ Civeah and the woman both started shouting, trying to tell Rohin their own side 
 
 The woman was clearly trying to restrain herself now that a priest was here – ironically, since Rohin would have been the first to tell her that yelling at a priest was less offensive than yelling at a caretaker. "Your Worship," she began, earning her a skeptical glance from him, "I do not need a lesson in how to raise my son. I only ask that you give him back to me –"
 
-"Ah, but he is not ours to give. Only he can make that decision. If he does not reach out for you, then you must ask yourself, 'what have I done to damage the trust inherent in our bond?' Then, perhaps, you will understand –"
+"Ah, but he is not ours to give. Only he can make that decision. If he does not reach out for you, then you must ask yourself, 'what have I done to strain the trust inherent in our bond?' Then, perhaps, you will understand –"
 
 "He doesn't come to me because he is too selfish to understand how much I've sacrificed for him! He <em>needs</em> me! ????, come <em>here</em> –"
 
@@ -420,18 +420,26 @@ The woman was clearly trying to restrain herself now that a priest was here – 
 
 "You heard the man!" said Civeah, shoving the woman towards the door. "Scurry on outta here!"
 
-The woman glared at us, but luckily, she didn't try anything worse. She turned and walked haughtily away from the building, with Civeah following to make sure she wouldn't come back. [????? Then it was just me and Rohin and the kids, and a bunch of them were upset, and I helped comfort them, and then Rohin led them in the Prayer to Recover Strength]
+The woman glared at us, but luckily, she didn't try anything worse. She turned and walked haughtily away from the building, with Civeah following to make sure she wouldn't come back.
+
+Rohin and I exchanged a glance. We had all been in the middle of working when this had begun, but we would have to stay interrupted a little longer. The children were clustered together, waiting for us to speak – some upset, some not understanding what had happened. Quickly, we reassured them that they were safe, and that cleaning up the table could wait until another time. In his most serious voice, Rohin explained how there are some people who believe that children are the property of their parents, but here, we believe that every child is their own person, with their own fire that cannot be suppressed by anyone. I held ???? gently while Rohin led us all in the Prayer to Recover Strength. [????? Like many times before], the words washed over me:
+
+"?????,
+
+"?????,
+
+"?????…" [????? Leading into the soulfire prayer?]
 
 
 <bigbreak>
 
-It was impossible. It was too convenient. Was I supposed to believe that I could have just walked into the Blood Temple and they would have protected me from the Dalners? That they would have fed me, taken care of me, no questions asked? Without needing proof, without me having to record everything to be taken seriously? It couldn't be real. That just wasn't how the world worked. People might like to think of themselves as good, but as soon as it was difficult, their true natures would show themselves. I couldn't forget how my mother abandoned me to suffer. I couldn't forget Morrow's memories of stranger after stranger closing their doors to him. No one would fight for you unless there was something forcing them to.
+It was impossible. It was too convenient. Was I supposed to believe that I could have just walked into the Blood Temple and they would have protected me from the Dalners? That they would have fed me, taken care of me, no questions asked? Without needing proof, without me having to record everything to be taken seriously? It couldn't be real. That just wasn't how the world worked. People might like to think of themselves as good, but as soon as it was difficult, their true natures would show themselves. I couldn't forget how my mother had abandoned me to suffer. I couldn't forget Morrow's memories of stranger after stranger closing their doors to him. No one would fight for you unless there was something forcing them to.
 
-But I couldn't deny what I had seen in ????caretaker's memories, either. If I had been there… there was nothing different about me. The caretakers would have protected me, without demanding anything in return. [????? The caretakers would have covered for my mother's problems, and I could have sheltered in the Temple from the Dalners]
+But I couldn't deny what I had seen in ????caretaker's memories. If I had been there… there was nothing that made me different from ????. The caretakers would have protected me, without demanding anything in return. And even before that… it hurt to imagine it, but when I had lived with my mother, I could imagine them visiting us on their rounds, helping to carry away the trash that lined the halls, making sure there was always food ready for us to eat.
 
 I had thought it wasn't how the world worked, but maybe… maybe it only wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood Temple</em>.
 
-My teeth chattered. I felt dizzy and sick. Everything I had done… Every time I had forced myself to stay quiet when I wanted to scream, every time I had stayed awake late into the night planning out how to protect myself… It WOULD all have been meaningless. It SHOULD all have been meaningless. I should never have had to do any of it. I should have gotten to live in a world where I didn't have to work harder than everyone else just to live in safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because there would be someone there to protect me, to take care of me, no matter how many times I messed up.
+My teeth chattered. I felt dizzy and sick. Everything I had done… Every time I had checked and double-checked so I wouldn't miss what my mother had forgotten, every time I had forced myself to stay quiet when I wanted to scream, every time I had stayed awake late into the night planning out how to protect myself… It WOULD all have been meaningless. It SHOULD all have been meaningless. I should never have had to do any of it. I should have gotten to live in a world where I didn't have to work harder than everyone else just to live in safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because there would be someone there to protect me, to take care of me, no matter how many times I messed up.
 
 I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I shoved past my barrier and screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain so intense that nobody could face it and stay standing, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was nothing I could do. The pain was inside of me. I couldn't make it go away. I didn't even <em>want</em> it to go away. This pain meant something. I knew it in the core of my being. This pain was my connection to everything I had lost, to every part of me that I had locked away so that I could carry on.
 
