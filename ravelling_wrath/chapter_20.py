@@ -276,9 +276,11 @@ I still didn't even know the full story about how the Blood Temple fell. Maybe i
 
 [????? some more of the lawyer; Waiting God comes back somewhere in here?]
 
+
+[????? ????Victim described her situation, a real tragic story of suddenly being unable to afford necessities (compounding effects)]
+
 [????? The speaker had a woman's voice and I didn't like that; maybe judging her for being businesslike, "she was probably spitefully against me from the start"]
 
-[????? ????Victim described her situation, giving details at the request of the Speaker]
 
 [????? "In this other case, someone who got revenge for an indirect effect without provable causation was pronounced justified. In the same way, ????victim could have reasonably expected that ????Corporation would pay her wages, and ????thief's actions limited how much ????Corporation could carry out their core business"]
 
@@ -449,13 +451,37 @@ And then I knew. Screaming and crying, I knew. This was it. This was the reason 
 
 It all felt so clear now. So this would be my final plan: to make a world where it was safe to let down my guard.
 
-[????? Was this what the Waiting God wanted to stop? Yes, the more I put it together, the clearer it was. People being happy and cared for in their existing lives inherently meant that they wouldn't be motivated to accept a new structure. But when I looked at it as Yali, I could tell that the change resulted in isolating and exploiting people. Did the Waiting God want people to be exploited? No, and that was the unsettling part, it generally thought exploiting was bad, but didn't make the connection that that was an inevitable result of what it was doing.
+Was that what the Waiting God wanted to stop?
 
-[????? But <em>I</em> knew <em>I</em> believed that caretaker's vision was good. What did the Waiting God think of that vision? It could see the Waiting nature of it. It was struggling against itself, while I was now confident of my beliefs. I was ready to approach the portal.
+Decisively, I cleared my mind and listened for the Waiting God. I brought forth its vision for a new world. And next to that, I brought forth my own vision for the world. Next to the god's grand design, it felt small and incomplete. But it was a strong seed, and it did not waver.
+
+This smaller vision was flawed, of course. We could see its flaws so clearly. Humanity as it existed was shortsighted and selfish, and they would not simply care for each other because it was right. Any plan that would change this would have to begin with changing the nature of humanity. This was a vision for a world of humans who were happy in their lives, who were having all of their needs met. But within lives like that, they would never be motivated to change. Our greater vision took account of this. In order to reach a better world, humanity had to be shown that the path to happiness, the path to having their needs met, was a path of change. A path where they must set aside their temporary desires [????? and work to enable the better reality].
+
+I interrupted the god's thoughts. What would this "path of change" look like for the humans who were on it? The god was only imagining people who <em>did</em> follow the path and <em>did</em> get their needs met, but what if they didn't want to? Well, each opportunity for short-term gratification was a branch where they might turn aside and fall into their selfish habits again. The efficient thing was to make sure these branches were clipped away before they might approach them.
+
+<em>What did it look like,</em> I repeated. Did it look like children having no choice but to obey their parents? Did it look like me having no one I could tell about the Dalners' abuse until I discovered it for myself? Did it look like people having no source of food but to work all day a corporation?
+
+Not exactly. Those were all flawed, human approximations of our will.
+
+So that was a <em>yes</em>, then. This was how humanity would be forced into the plan. Isolated and exploited, slowly starved of their basic needs until they started to see the Waiting God's path as the only path of reality, and any other world as impossible idealism. Before I had seen all the memories, I had been unsure. I had thought its goals might have been good, if only it didn't have to kill the Ravellers to make it happen. But now, I knew how to see it through the lens of Blood. I had known what questions to ask to reveal the heartlessness in every part of its design.
+
+The exploitation.
+
+That seemed misguided. We had thought of the plan as <em>exploitative</em>, but it was not the <em>plan</em> that was the source of exploitation. None of these demoralizing worries about individual abuses committed by humans were a reason to doubt it.
+
+But the abuses were inherently enabled by the plan. Hadn't we just thought of taking away people's options as a good thing?
+
+The god was silent. It didn't understand, just like it hadn't understood the connection between me and its high priest. It generally thought that exploiting people was bad, but it didn't make the connection that that was an inevitable result of its plan. It was unsettling, but it also gave me a rush of hope. If it could not fill this space with an answer, then when part of me became part of it, <em>I</em> could fill this space with an answer. And my answer would be, <em>We are going to stop now.</em>
+
+I had my own plan now. <em>I</em> would make the world a place [????? like the caretaker's vision. That vision had its own Waiting nature, that even the god put some stock in. It was struggling against itself, while I was now confident of my beliefs.]
+
+I was ready to approach the portal.
+
+<bigbreak>
 
 [????? I began slowly climbing… As I climbed, I looked back on what I had learned, and the more I did, they more confident I felt]
 
-
+[????? Big manifesting? The city melted away, leaving a fluid-like path up the pyramid]
 
 
 
@@ -633,7 +659,7 @@ Morrow's eyes were still bugging out. He looked even more terrified than before,
 
 <em>Rinn</em> had forgiven him, even tried to encourage and support him. I could never do that. But the Blood Temple didn't have to be all love and support all the time, just like it wasn't all rage and violence all the time. They understood that there could be serious conflicts between people, and sometimes you needed strong boundaries to keep everyone from getting hurt. And sometimes you needed to fight to protect those boundaries, and sometimes the time for fighting was now, but sometimes, the time for fighting was in the past. I had made Morrow lower than me, and now, it was time to bring him back up to equal.
 
-"I just want to say…" I continued. It was hard to make the words come out, but as I spoke, I felt like a tension was being released from me. "I just want you to know, I hope you can find peace. We can never be friends, but, but… Rinn cares about you. And I… ?????"
+"I just want to say…" I continued. It was hard to make the words come out, but as I spoke, I felt like a tension was being released from me. "I just want you to know, I hope you can find peace. We can never be friends, but, but… Rinn cares about you. And I… I care about what the gods have done to you. ????? "
 
 I held out my hand. Morrow didn't take it right away, but I kept holding it out, knowing he would ?????. [????? He clasped the hand, crying. I pulled him to his feet and helped him stand steadily, at a little distance from me]
 
