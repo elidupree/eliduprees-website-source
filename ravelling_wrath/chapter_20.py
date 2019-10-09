@@ -479,9 +479,18 @@ I was ready to approach the portal.
 
 <bigbreak>
 
-[????? I began slowly climbing… As I climbed, I looked back on what I had learned, and the more I did, they more confident I felt]
+I slowly pushed myself up from the chair, giving my stiff joints a chance to move and relax, giving my eyes a chance to adjust to seeing the outside world again. I had been in the memories for a long time.
 
-[????? Big manifesting? The city melted away, leaving a fluid-like path up the pyramid]
+<em>Your body is a place of power</em>, ????? had said. I stood up straight, trying to feel some of that power. A little of Blood, even if I couldn't feel it away.
+
+As if in response, the ground rippled and shook. As I stood in place, the building around me lost its form, turned into liquid and retreated into the ground. My eye was drawn towards the light of the sun, and all ahead of me, the city melted away, leaving a smooth, sunlit, fluid-like pathway, opening the way to my final destination. I knew what I had to do. I hefted the handle of Rinn's way again and began to walk.
+
+The portal stood atop a huge, five-sided pyramid, rising above the city skyline. Before I knew it, I had reached its base. The slope of the pyramid was just shallow enough that I could walk up the sides without losing my footing, and just steep enough to give my leg muscles a strenuous workout as I walked on and on. And I understood it now. The huge structures in this world weren't here to make me feel small and intimidated. They were here to make me feel powerful when I climbed them. To make me feel like I was their equal, just like Rinn had said.
+
+As I climbed up the endless slope, I looked back on what I had learned. The more I did, the more confident I felt, and the more things I understood. I thought back to all of ????caretaker's memories, letting them flow from thought to thought, doing my best to absorb all the little lessons of the old Blood Temple. With my free hand, I copied down some more of the prayers.
+
+And before I knew it, I was near the peak.
+
 
 
 
@@ -534,18 +543,20 @@ I took a lot of notes on my phone, too. [????? I had gone to the trouble of keep
 
 
  ?????
+ 
+Before I got too close, I paused to think, manifesting a flat platform into the side of the pyramid so I could rest. The portal and the god weren't the only things I was about to face. The others were already there. Morrow and Alchemist.
 
-[????? Probably cut: And along with the portal, the others were already there. Alchemist and Morrow.]
+I could already see it through the Watchful Eye I had placed on Morrow. I had mostly been tuning it out, but now, I paid attention. The two of them were camped out on the flat top of the pyramid, a black and shining pentagon about fifty meters wide, centered around… <em>it</em>. I couldn't even see the portal through the Watchful Eye, it was like a blank spot in my vision.
 
-[????? For a while I had been slowly climbing what turned out to be a five sided pyramid. I was near the top. I could already see it through the watchful eye. Alchemist and Morrow were camped on the top, but not next to the portal. Heap of mattresses/pillows; Morrow was able to manifest, but mostly wasn't doing it. He was a a bit erratic but mostly depressed, Alchemist was taking care of him, even talking to him a little like Rinn had. The portal couldn't even be seen through the watchful eye]
+Morrow and Alchemist were lying near the edge, cuddling on top of a messy heap of pillows and mattresses, mostly manifested by Alchemist. Morrow was still <em>able</em> to manifest, but he had usually been too depressed to do it. He had alternated between the hurrying forward erratically and sitting down too depressed to move. Alchemist had been taking care of him, trying to give him encouragement and reassurance. They had even talked to him a little like the way Rinn had.
 
-I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from getting themself killed. And I might have been able to tolerate Morrow if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
+I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from walking into danger. And I might even have been able to tolerate Morrow if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
 
 I hesitated. Was it un-Blood for me to think that way? Well, not for Morrow, certainly. Hating someone who abused your loved ones was clearly a Blood thing to do. But Alchemist…
 
 I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> would want me to care about Alchemist. I was allowed to be frustrated with them, but I had a Blood reason to care about them, too.
 
-I didn't like that, but I decided to go along with it. Now I just had to figure out what that would mean in practice.
+I didn't like that, but I decided to go along with it. Now I just had to figure out what that would look like in practice.
 
 I listened for the future. I felt myself walk towards the portal. I saw Morrow hurry towards me and speak to me, ask me questions. I felt myself lash out at him. I felt myself hold back. I felt countless fragments of anger and tension. I saw both of them step away from me, huddling quiet and scared at a distance. I saw us keep an uncomfortable truce until the time came to enter the portal.
 
@@ -561,7 +572,7 @@ As much as part of me liked that future, it was not the one I would choose eithe
 
 After a dozen more futures, I found the one that satisfied me. I forced myself to my feet, hefted the handle of Rinn's wagon, and headed for the portal.
 
-Morrow approached me, as I had seen. I caught his hand, keeping it close between us, out of Alchemist's view. I looked in his eyes to make sure I could see the fear there. "Don't speak to me," I said quietly.
+Morrow ran down to meet me, as I had seen. I caught his hand, keeping it close between us, out of Alchemist's view. I looked in his eyes to make sure I could see the fear there. "Don't speak to me," I said quietly.
 
 I let go of Morrow's hand. He backed away from me. This was going well.
 
