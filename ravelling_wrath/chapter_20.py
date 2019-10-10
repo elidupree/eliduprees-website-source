@@ -272,19 +272,18 @@ She fixed me with a steely glare. "Caretakers are the beating heart of the city,
 ????Caretaker felt encouraged when he heard that. As Yali, it was bittersweet. Unfortunately, the Blood Temple had fallen before ????caretaker had been able to live a full life as part of it… Unfortunately? When had I started unconsciously taking the side of the Blood Temple? True, that was what I <em>wanted</em> to happen, but I had been expecting to make a conscious choice. Not to just have it… sneak in, without my permission.
 
 I still didn't even know the full story about how the Blood Temple fell. Maybe it was time to go back to ????lawyer. Yes… ????Caretaker had cleared my head, and I could put up with him for a while longer. The case he was on had definitely been related to the fall. I thought back to the pretrial hearing again.
-?????
 
-[????? some more of the lawyer; Waiting God comes back somewhere in here?]
+Once everyone was present – especially ????, the "victim" I had chosen – the hearing could start. I was there as her advocate. In Blood court, a victim was allowed to designate one or more people as their advocates – which didn't usually mean lawyers, and often meant friends or family. But since there were no qualifications for an advocate, it was a convenient excuse for me to be present.
 
+After the initial formalities, the hearing began with her reading out her accusation, which I had prepared with her in advance. It was a real sob story. She was one of the latest round of layoffs at ????Corporation. Her home was full of mold after it had been damaged in floods during the previous month, and because she had lost her income, she had had to cancel a repair job she had scheduled. Then she had gotten seriously ill from the mold, ended up in the emergency room, and ultimately had to sell her home for a pittance to cover expenses. It was lucky I had found someone with such a clear connection between their loss of income and their physical body. Our argument was that thefts of expensive goods – such as ????'s theft – had directly led to the layoffs that caused ????'s miserable hardship.
 
-[????? ????Victim described her situation, a real tragic story of suddenly being unable to afford necessities (compounding effects)]
+After our presentation, the Speaker finally spoke. Now I could tell that she was a woman. Her voice was curt and dismissive – she must have been prejudiced against me from the start. "Is there a direct connection between your situation and the taking of the specific necklace?"
 
-[????? The speaker had a woman's voice and I didn't like that; maybe judging her for being businesslike, "she was probably spitefully against me from the start"]
+"In the case of ???? v. ????," I interceded, "a gang of young men wantonly destroyed a dozen pumpkins belonging to Farmer ????. ???? ????, a regular customer of the farmer, saw that there were no pumpkins left for him to buy, and when he heard of what happened, he beat one of the young men bloody. When it was challenged, the blood of the city pronounced his actions as justified revenge for <em>lowari</em>, on the basis that the young man must have known that his actions were depriving someone of pumpkins, even though there was no proof that the dozen pumpkins would have been sold to ????, or even that there would have been any pumpkins left for him to buy if they had not been destroyed. In the same way –"
 
+The thief girl looked like she was about to cry her eyes out. "I din' know anything!" she blurted. "I din' make it flood, I din' make 'er get sick –"
 
-[????? "In this other case, someone who got revenge for an indirect effect without provable causation was pronounced justified. In the same way, ????victim could have reasonably expected that ????Corporation would pay her wages, and ????thief's actions limited how much ????Corporation could carry out their core business"]
-
-"So the accusation before the Temple," intoned the Speaker, "is that ????victim's blood was dependent on ????Corporation, and that thefts have left ????Corporation no choice but to abandon her. Is that correct?"
+"You will have your chance to speak later," said the Speaker brusquely. At least there was <em>some</em> sense of decorum here. "So," she continued, "the accusation before the Temple is that ????victim's blood was dependent on ????Corporation, and that thefts have left ????Corporation no choice but to abandon her. Is that correct?"
 
 I should have known! I should have realized what a disaster I was walking myself into. But I thought I had reasoned it out so well. I simply said, "That is correct."
 
