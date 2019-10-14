@@ -295,23 +295,21 @@ I should have known! I should have realized what a disaster I was walking myself
 
 "The decision to terminate ????victim's employment was made by human beings. It was one or more human beings who considered ????Corporation's budget and, per the accusation, determined that they had no choice but to abandon the blood of one of their own. Let them come before the Temple and testify."
 
-[????? But that would be important people from Corporation! If they were called to testify in a routine shoplifting case because of me, I'd be a laughingstock!] "Speaker, I appreciate the Temple's interest in [????? having the best possible information, but surely it's not needed so importantly]"
+But the reorganization had involved people from four different departments across ????Corporation, up to and including our CEO! If <em>he</em> was called to testify in a routine shoplifting case because of me, I'd be a laughingstock! "Speaker, I appreciate the Temple's interest in having the best possible information, but surely it's not necessary for them to <em>personally</em> –"
 
-"[????? Not important? Does their blood not twist in their veins, knowing that they were forced to leave another human being to suffer? Would they not be eager to see that injustice resolved?]"
+"Necessary? If a person has been forced to take part in another's suffering, should they not be <em>eager</em> to see that injustice brought to a resolution?"
 
 "No one at ????Corporation wants to see anyone suffer, I assure you! But surely you don't expect them to take time out their busy schedules just to –"
 
-?????
-
-"Did you learn Blood law from a book?" the Speaker barked. "[????? Do you never feel justice with your body? I DO expect them to testify – we have heard an accusation, where someone's blood is at stake, and they are involved! Do you think they are so high above ????victim that they ??????"
+"Did you learn Blood law from a book?" the Speaker barked. "You subvert the meaning of justice! We DO expect them to testify – an accusation has been made, and their decisions are at the heart of it! Do you think they are so high above ????victim that they have no need to look her in the face?"
 
 "Then we withdraw the accusation! Don't we, ????victim –"
 
-"Fool!" the Speaker shrieked. "You cannot quiet her blood! The blood of the city hears your words as an attempt to control her, and by law, the accusation can no longer be withdrawn! You have made it far too clear why you are here. You brought ????victim here intending to use her suffering as a tool to benefit ????Corporation. But suffering cries out with a voice of its own! If [????? the decision-makers do not care, they may be guilty! Let every pertinent financial record be brought to the temple, and let everyone involved in the decision come to testify! The blood of the city demands it!"
+"Fool!" the Speaker shrieked. "You cannot quiet her blood! The blood of the city hears your words as an attempt to control her, and by law, the accusation can no longer be withdrawn! You have made it far too clear why you are here. You brought ????victim here intending to use her suffering as a tool to benefit ????Corporation. But suffering cries out with a voice of its own, and those who were truly responsible must be found! Let every pertinent financial record be brought to the temple, and let everyone involved in the decision come to testify! The blood of the city demands it!"
 
 "????Corporation most certainly won't be complying with such a demand! We are established within the jurisdiction of the Stern Temple, and the Blood Temple has no authority to –"
 
-"So you came here with no intention of respecting our decisions? Begone from this temple, scofflaw! Run and tell your <em>masters</em> of our demands, and tell them that we will not be used!"
+"So you came here with no intention of respecting our decisions? Begone from this temple, scofflaw! Run and tell your <em>masters</em> to expect our full demands in writing by month's end, and tell them that we will not be used!"
 
 [????? Bit of conclusion to the scene, maybe I gathered my things and left]
 
