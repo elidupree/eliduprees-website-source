@@ -61,7 +61,7 @@ As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome t
 
 He had thought of a <em>case</em>. A case he had been involved with as a lawyer, one that was related to the Blood Temple.
 
-It started as an ordinary shoplifting case, which should have been nothing more than a small loss for us. And that was all it would have been, if ????, my boss at ????Corporation, hadn't insisted on micromanaging me. And then he had the nerve to blame <em>me</em> for what happened! I could still hear his voice ringing in my years from when he fired me – "I told you to get them arrested, not to bring all of this politics down on us! I will personally make sure you never work in this industry again!" And that shrill Blood Temple judge – "Did you learn Blood law from a book? [????? You know nothing!]" Curse them all.
+It started as an ordinary shoplifting case, which should have been nothing more than a small loss for us. And that was all it would have been, if ????, my boss at ????Corporation, hadn't insisted on micromanaging me. And then he had the nerve to blame <em>me</em> for what happened! I could still hear his voice ringing in my years from when he fired me – "I told you to get them arrested, not to bring all of this politics down on us! I will personally make sure you never work in this industry again!" And that shrill Blood Temple judge – "Did you learn Blood law from a book? You subvert the meaning of justice!" Curse them all.
 
 I should have known from the beginning that ????boss was bad news. He was the new ????executive at ????Corporation, and I had worked I had worked at ????Corporation for twenty years, but he insisted on lording his position over me. He hated me because I was professional where he was crass. He made me report to him on every little detail of every case – like that one.
 
@@ -311,7 +311,7 @@ But the reorganization had involved people from four different departments acros
 
 "So you came here with no intention of respecting our decisions? Begone from this temple, scofflaw! Run and tell your <em>masters</em> to expect our full demands in writing by month's end, and tell them that we will not be used!"
 
-[????? Bit of conclusion to the scene, maybe I gathered my things and left]
+How did it end this way? Curse them all! Curse that Speaker for spiting me! Did she get pleasure out of ruining my career? She must have been –
 
 As Yali, I concentrated, trying to sort out my own thoughts. In ????lawyer's memories, the Speaker had felt like an unreasonable person, irrational and shrieking. But when I thought about what she had actually said, it made plenty of sense. It was unsettling to think about. But looking back and forth in the memories, it was obvious what had happened. ????Lawyer had taken the Speaker seriously until he knew she was a woman. It wasn't too surprising – I had seen similar things from some of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently. It came out as something much more unpleasant than the way it would be recorded in my memories, or ????caretaker's, or most of the other Farseers'.
 
@@ -325,7 +325,7 @@ Back then, it was unprecedented for the Stern police to enter the fifth layer. B
 
 Soon, the Concord of Temples was inundated with accusations from both sides. And while temple representatives took weeks to debate in the Concord, the situation escalated. The Stern arrested dozens of Blood Temple personnel and held them in Stern temples within the fifth layer, which were technically their own pockets of Stern territory. Blood warriors attacked those temples – another diplomatic violation – to break them out. The Blood side brought priests to the front lines of the fighting, and when those priests were inevitably injured or arrested, they used it as an excuse for further violence. And after the accidental death of a Blood priest in Stern custody, the Blood Temple accused the Concord of stalling and unilaterally declared a state of war between the two temples.
 
-That was their last mistake. Our forces were better-equipped and better-organized, and the Blood forces were crushed in battle after battle. The Blood Temple was able to drag out the war for another four months, but they never had a chance. In the end, their loyalists were scattered and their temples were in ruins. They couldn't even assemble a delegation to send to the Concord, so the Concord voted to formally withdraw recognition. The Concord reassigned the bottom two layers as Stern territory, because the Stern Temple was the only temple prepared to administrate them. Once the Stern had formal authority, they finally began to stamp out the remains of that archaic institution. The remaining Blood temples were either demolished or repurposed to serve unglamorous functions.
+That was their last mistake. Our forces were better-equipped and better-organized, and the Blood forces were crushed in battle after battle. The Blood Temple was able to drag out the war for another four months, but they never had a chance. In the end, their loyalists were scattered and their temples were in ruins. They couldn't even assemble a delegation to send to the Concord, so the Concord voted to formally withdraw recognition. The Concord reassigned the bottom two layers as Stern territory, because the Stern Temple was the only temple prepared to administrate them. Once the Stern had formal authority, they finally began to stamp out the remains of that archaic institution. The remaining Blood temples were either demolished or repurposed to serve unglamorous functions. Companies like ????Corporation, which had been <em>de facto</em> excluded from the fifth layer by their arbitrary, restrictive policies, were free to expand their operations there.
 
 As Yali, I thought this over. How much of this was the Waiting God's plan? What had the Waiting Temple been doing during the conflict?
 
@@ -393,7 +393,7 @@ Was it a fact that ????caretaker would have told <em>me</em> that <em>I</em> did
 
 He clearly <em>sympathized</em> with victims of abuse, but he wouldn't have known I was being abused. He could easily have seen me and believed that nothing was wrong, then tried to reassure me that nothing was wrong. But how could I know for sure? Could I think back to any memories – yes, a memory came to mind surprisingly easily…
 
-I was watering the garden out in front of the temple's living quarters when the woman approached. ?????
+I was watering the garden out in front of the temple's living quarters when the woman approached. ????
 
 "Is my son here? ????Name – He's here, isn't he?"
 
@@ -494,7 +494,7 @@ I was ready to approach the portal.
 
 I slowly pushed myself up from the chair, giving my stiff joints a chance to move and relax, giving my eyes a chance to adjust to seeing the outside world again. I had been in the memories for a long time.
 
-<em>Your body is a place of power</em>, ????? had said. I stood up straight, trying to feel some of that power. A little of Blood, even if I couldn't feel it away.
+<em>Your body is a place of power</em>, [????? something from the blood Temple] had said. I stood up straight, trying to feel some of that power. A little of Blood, even if I couldn't feel it away.
 
 As if in response, the ground rippled and shook. As I stood in place, the building around me lost its form, turned into liquid and retreated into the ground. My eye was drawn towards the light of the sun, and all ahead of me, the city melted away, leaving a smooth, sunlit, fluid-like pathway, opening the way to my final destination. I knew what I had to do. I hefted the handle of Rinn's way again and began to walk.
 
@@ -555,7 +555,7 @@ I took a lot of notes on my phone, too. [????? I had gone to the trouble of keep
 
 
 
- ?????
+ ????
  
 Before I got too close, I paused to think, manifesting a flat platform into the side of the pyramid so I could rest. The portal and the god weren't the only things I was about to face. The others were already there. Morrow and Alchemist.
 
@@ -591,7 +591,7 @@ I let go of Morrow's hand. He backed away from me. This was going well.
 
 I pulled the wagon up on to the highest point, the flat top of the pyramid, and began rolling it across the black and shining floor. This close to the center, the sun beat down hard on my head and shoulders, burning away at my skin, even through my clothes. But this sun was more familiar now, and I could feel a bit of warmth amid the burning.
 
-Ahead of me, in the center of the floor, I could finally see the portal with my own eyes. It was the same substance as the other portals, but it was so much more than anything that had come before it. Once my eyes were on it, it was hard to look away. Instead of being shaped like a doorway, it was like an obelisk pointing upwards, about the same height as I was, joined to the sun by a column of light, glowing black and white and every color of the rainbow at the same time. It felt like its power was spilling across the world, radiating a sense of awe and fear and purpose. No wonder Alchemist and Morrow had kept their distance from it.
+Ahead of me, in the center of the floor, I could finally see the portal with my own eyes. It was the same substance as the other portals, but it was so much more than anything that had come before it. Once my eyes were on it, it was hard to look away. Instead of being shaped like a doorway, it was like an obelisk pointing upwards, about the same height as I was, joined to the sun by a column of light, glowing black and white and every color of the rainbow at the same time. It felt like its power was spilling across the world, radiating a sense of awe and fear and purpose. No wonder Morrow and Alchemist had kept their distance from it.
 
 Alchemist nervously approached and looked at Rinn's head, the only part of her that was sticking out of the foam. Tears filled their eyes.
 
@@ -601,7 +601,7 @@ Alchemist nervously approached and looked at Rinn's head, the only part of her t
 
 "Will she… that one was…"
 
-Alchemist was trying to ask about the side effects of the potion. The sleeping effect was very powerful. If someone already had a weak soul when they drank it, they might never wake up. It was understandable that Alchemist would worry. In the futures, I had tried dozens of responses before I found one that would reassure them. "Examine her soul yourself," I said. "Feel how strong it is. I am completely confident in her."
+Alchemist was trying to ask about the side effects of the potion. The sleeping effect was very powerful. If someone already had a weak soul when they drank it, they might never wake up. So Alchemist's worrying wasn't unreasonable. In the futures, I had tried dozens of responses before I found one that would reassure them. "Examine her soul yourself," I said. "Feel how strong it is. I am completely confident in her."
 
 Alchemist approached and nervously touched Rinn's head. Then they nodded and pulled back again.
 
@@ -619,9 +619,9 @@ Alchemist looked down over the city. I saw their eyes linger over the distant go
 
 Alchemist turned and looked at the portal.
 
-"I knew…" they said resignedly. "I knew… when we got here, it already had three sides… I only didn't know, who…"
+"I knew…" they said resignedly. "I knew… when we got here, there was already three…"
 
-Those words had been confusing when I foresaw them, but now that I was here, I understood what they meant. [????? The pillar was an obelisk with five sides, like the pyramid – but two of them were duller, not quite as brilliantly colored as the other three. There was one side for each of us – each of us who was still alive and still a Raveller.]
+Those words had been confusing when I foresaw them, but now that I was here, I understood what they meant. The portal had five sides, just like the pyramid under us, and I could instinctively tell that there was one side for each of us. But the dazzling energy of the portal was strongest in just three of them – Rinn's, Alchemist's, and mine. The sides for Morrow and Justicar were duller, as if the power had been stripped down to the minimum necessary. Its full energy had no purpose unless you were still alive and still a Raveller.
 
 "This wasn't right," I said. "None of this should have had to happen. All I can say is… it'll be over soon. We'll all go through that portal. You'll be home again."
 
@@ -631,17 +631,15 @@ Those words had been confusing when I foresaw them, but now that I was here, I u
 
 "Oh…"
 
-[????? I sat down with Alchemist; Morrow sat on the other side, overwhelmed]
+I sat down, manifesting a long bench for the three of us, with a wide base so Morrow wouldn't knock it over later. My mind was racing towards what lay ahead in the portal, but I could afford to take a little time for closure. Alchemist sat down next to me. Morrow thumped down on the other side of Alchemist, huddling into their chest. Alchemist idly started feeding him a large candy bar.
 
-?????
-
-"I believe I owe you a great deal," I said. "Your potions have saved Rinn's life more than once now. And possibly my life as well. If there's anything I can do for you in return, I'd like to do that."
+"Alchemist," I said evenly, "I believe I owe you a great deal. Your potions have saved Rinn's life more than once now. And possibly my life as well. If there's anything I can do for you in return, I'd like to do that."
 
 "You don't, have, to –"
 
 "It's okay. Just tell me if you think of anything."
 
-[????? Alchemist physicality, short silence]
+Alchemist's head wobbled back and forth. The only sound was the sound of Morrow's chewing.
 
 "There is, maybe, one thing… I know you, don't like, Morrow, but…"
 
@@ -653,17 +651,17 @@ I concentrated, just like if I was using the Seeing. I already knew what I was g
 
 "I believe he'll get back to the material world safely," I said. "Even though he can't be part of the rejuvenation, the process for returning the Ravellers to the material world is separate from that."
 
-"Oh…" [????? Alchemist physicality, curling up/comfortable/with Morrow?]
+"Oh…" Alchemist draped their arms around Morrow, slowly rocking him back and forth.
 
-I let them ?????relax for a little while, then added, "We can also exchange phone numbers, in case you think of anything I can do for you once we're in the material world. I won't have any magical abilities, but… people say I'm very capable." I pulled out my phone.
+I gave them a little time to relax. Then I added, "We can also exchange phone numbers, in case you think of anything I can do for you once we're in the material world. I won't have any magical abilities, but… people say I'm very capable." I pulled out my phone.
 
-[????? Alchemist physicality] "I, didn't, have my phone, on me, when…"
+Alchemist shivered. "I, didn't, have my phone, on me, when…"
 
 In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they might not remember it. And if <em>they</em> told me <em>their</em> number, they thought they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. I won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
 
 Alchemist nodded. They manifested their phone, and thumbed through it to find where it would show their number. "If I could, also, give this to, Morrow, and, Rinn…"
 
-I carefully copied Alchemist's number. "Morrow and Rinn both lost their real phones in the Stern God's world. But the real phones will still go back to the material world with them. So I can write down Morrow's number now and then text it to you when I'm back, and for Rinn, I can give Rinn <em>your</em> number –"
+I carefully copied Alchemist's number. "Rinn and Morrow both lost their real phones in the Stern God's world. But the lost phones will still go back to the material world with them. So I can write down Morrow's number now and then text it to you when I'm back, and for Rinn, I can give Rinn <em>your</em> number –"
 
 Alchemist flinched a bit. They had realized, based on what I said, that I wasn't willing to let Morrow know <em>my</em> number. I was trying not to force Alchemist to think about the conflict between us, but it would have been easier if Alchemist wasn't so smart.
 
@@ -671,21 +669,25 @@ Pretending not to notice, I continued, "I could give hers to you, I assume she'd
 
 "I, understand."
 
-?????
+<bigbreak>
 
-[????? Yali says they should go, and Morrow freaks out about returning to the material world]
+Before long, there wasn't much left for us to say to each other.
+
+"We should go through the portal now," I said.
+
+Morrow panicked and jerked away, as I had known he would at the thought of returning to the material world. But because I had made the bench sturdy enough, he didn't fall or break anything.
 
 "Morrow," I said levelly.
 
 I had struggled with how to feel about Morrow. I hated him, and part of me felt sorry for him, and I hated him more because I felt sorry for him. And as much as I wanted him to just shut up and stay in a corner, I knew that wasn't how I wanted to leave things right before I went through the portal. It wasn't Blood.
 
-Morrow's eyes were still bugging out. He looked even more terrified than before, despite Alchemist trying to soothe him. Part of me felt a sick satisfaction at that. But that wasn't what I was trying to do. "I'm not going to hurt you," I said. "I just want to say…"
+Morrow's eyes were still bugging out. Even with Alchemist here to soothe him, he was terrified. Part of me felt a sick satisfaction at that. But that wasn't what I was trying to do. "I'm not going to hurt you," I said. "I just want to say…"
 
-<em>Rinn</em> had forgiven him, even tried to encourage and support him. I could never do that. But the Blood Temple didn't have to be all love and support all the time, just like it wasn't all rage and violence all the time. They understood that there could be serious conflicts between people, and sometimes you needed strong boundaries to keep everyone from getting hurt. And sometimes you needed to fight to protect those boundaries, and sometimes the time for fighting was now, but sometimes, the time for fighting was in the past. I had made Morrow lower than me, and now, it was time to bring him back up to equal.
+<em>Rinn</em> had forgiven him, even tried to encourage and support him. I could never do that. But the Blood Temple didn't have to be all love and support all the time, just like it wasn't all rage and violence all the time. They understood that there could be serious conflicts between people, and sometimes you needed strong boundaries to keep everyone from getting hurt. And sometimes you needed to fight to protect those boundaries, but sometimes, the time for fighting was in the past. I had made Morrow lower than me, and now, it was time to bring him back up to equal.
 
-"I just want to say…" I continued. It was hard to make the words come out, but as I spoke, I felt like a tension was being released from me. "I just want you to know, I hope you can find peace. We can never be friends, but, but… Rinn cares about you. And I… I care about what the gods have done to you. ????? "
+"I just want to say…" I continued. It was hard to make the words come out, but as I spoke, I felt like a tension was being released from me. "I just want you to know, I hope you can find peace. We can never be friends, but, but… Rinn cares about you. And I… I care about what the gods have done to you. You didn't deserve what happened, any more than the rest of us did."
 
-I held out my hand. Morrow didn't take it right away, but I kept holding it out, knowing he would ?????. [????? He clasped the hand, crying. I pulled him to his feet and helped him stand steadily, at a little distance from me]
+I held out my hand. Morrow didn't take it right away, but I kept holding it out, knowing it would only take time. Finally, he leaned forward with both hands and clasped them around mine, crying. I pulled him to his feet, holding him a short distance away from me, but balancing him as he stumbled.
 
 "I'm going to make the world a better place," I said. "I'm going to make it so that the abuse and neglect that were done to you, and the abuse and neglect that were done to me, will never happen again."
 
@@ -693,17 +695,17 @@ Morrow said something in a small voice. Even through the Watchful Eye, I couldn'
 
 I turned and faced the portal.
 
-It was like waves of power were rolling off of it, pushing me back and away. But it wasn't [????? a forbiddance, actually trying to keep me away.] It was a challenge, daring me to push my way against the waves, to assert my right to occupy my space in the world.
+It was like waves of power were rolling off of it, pushing me back and away. But it wasn't a forbiddance. It wasn't actually trying to keep me away. It was a challenge, daring me to push my way against the waves, to assert my right to occupy my space in the world.
 
-I stepped forward, pulling Rinn in the wagon with one hand. Alongside me, Morrow and Alchemist followed, a little more hesitantly. I took another step, and another. The portal loomed ahead of us, black and formidable. ?????.
+I stepped forward, pulling Rinn's wagon with one hand. Alongside me, Morrow and Alchemist followed, a little more hesitantly. I took another step, and another. The portal loomed ahead of us, black and formidable. It was time. Time for the gods to face us.
 
-We fanned out around the obelisk, each looking for the side that called to us the most deeply. It had five sides, evenly spaced around it. One for me and one for Alchemist, the Ravellers who were still conscious. One for Morrow, dull but still waiting to take him home. At my left, one for Justicar, which would remain unvisited and silent. And at my right, one for Rinn, still alive and brimming with energy.
+We fanned out around the obelisk, each looking for the side that called to us the most deeply. One for me and one for Alchemist, the Ravellers who were still conscious. One for Morrow, dull but still waiting to take him home. At my left, one for Justicar, which would remain unvisited and silent. And at my right, one for Rinn, still alive and brimming with energy.
 
 I unmanifested part of the foam holding Rinn in place, just enough for me to move her arm. Solemnly, I cupped her small hand in mine, reverently lifting it and holding it near the portal's surface.
 
 It was time. I could feel it like the sun burning me in the shadows, like thunder shaking me to the bone. Across from me, Alchemist and Morrow felt it too. Moving as one, we took the final step. With one hand, I pressed Rinn's hand into the unearthly blackness. With the other, I touched the side meant for the Farseer.
 
-I felt myself lurch forward, my hand suddenly empty. I looked and saw Rinn's arm passing through mine as if it wasn't there, a translucent echo, our bodies unmoored from the world. A dizziness came over me, darkness closing in all around, the primeval energy of the portal expanding to drown me. The stars were coming. It was realer than real, as if everything we had done was a passing dream. Where was my body? Hadn't we had a body? I was already slipping away. I tried to concentrate, but the mind slid from my grip like nothing. The dizziness rose and rose. Worlds spun past, some made of geometric shapes in perfect balance, some made of foundations set subtly askew, waiting centuries for the right moment to collapse. We expanded into place, a silvery liquid coating a web, soaking each node with the gloss of clarity. Something wavered at the edge of memory, something this one would have called important, something merely human. And then it passed, fading into the innumerable stars.
+I felt myself lurch forward, my hand suddenly empty. I looked and saw Rinn's arm passing through mine as if it wasn't there, a translucent echo, our bodies unmoored from the world. A dizziness came over me, darkness closing in all around, the primeval energy of the portal expanding to drown me. The stars awakened. Where was my body? Hadn't we had a body? I was already slipping away. I reached for my thoughts, but the mind slid from my grip like nothing. Worlds spun past, worlds of geometry in perfect balance, worlds of foundations resting subtly askew, waiting centuries for the right moment to lurch apart. Something wavered at the edge of memory, something terribly important, something merely human. And then it passed, fading into the innumerable stars.
 
 ''',
 },
