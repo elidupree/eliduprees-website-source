@@ -381,7 +381,7 @@ No! That was <em>wrong</em>! It was just the Waiting God getting in my thoughts 
 
 A familiar cold feeling flowed through me. It was like I was watching my own thoughts from a distance. I saw them fighting, the part of me that saw the Waiting as the only shelter from the chaos of the world, and the part of me that saw the Waiting as a monster who had exploited me without remorse. I had always told myself I would look at the truth without filters, but it was hard to see past their rage. They were both afraid that if they let me look, then the truth wouldn't be what they wanted it to be.
 
-But the truth is never what you want it to be.
+But the truth is never what you want. And if you want to change it into what you want, then you need to see it for what it is.
 
 I peeled them both away, forcing back my rage, coldly opening myself up to learning what I was afraid to know. I was already crying. I hated it. There was much more to do, and I was crying <em>already</em>.
 
