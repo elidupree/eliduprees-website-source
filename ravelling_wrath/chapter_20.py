@@ -17,8 +17,8 @@ posts = [
   ''',
   "head":head,
   "contents": chapter_start ("Chapter 20: The Blood Temple", '''<p></p>''') +'''
-
-[????? Probably cut: It was time to move forward with my <em>other</em> plan.]
+  
+????
 
 If I was going to spend time studying the past, I would need to get comfortable. I manifested a familiar reclining chair and sat down. I wasn't comfortable at first. An old wound bothered me. I shifted my position until it was more tolerable. My leg was cramped. I reclined the chair just right to let the leg relax. The skin on both legs itched where they had gotten warm from walking. I concentrated until the itch subsided.
 
@@ -251,7 +251,7 @@ The old woman gestured at my cart. "You are doing the work of the Temple, aren't
 
 But in the coming months, she made a point of noticing me, pausing on her way to thank me for my work, asking after how the Blood Temple was treating me. And in return, I heard her own news about her work on the neighborhood council. It sounded like a constant struggle, making sure everyone in ????neighborhood was advocated for, despite their many conflicting needs and perspectives.
 
-"These ????Company hustlers are still trying to get [????? our permission to build a radio tower they control]. We told them that if the towers would be built in the middle of ????neighborhood, and if their broadcasts would become part of the culture of ????neighborhood, then the towers would be owned by the people, and the people would decide what was broadcast. [The businesspeople] laughed at us! When will they give up?"
+"These ????Company hustlers are still trying to get our permission to build one of their radio stations in ????neighborhood. We told them that if the towers would be built in the middle of ????neighborhood, and if their broadcasts would become part of the culture of ????neighborhood, then the towers would be owned by the people, and the people would decide what was broadcast. They laughed at us! When will they give up?"
 
 "I don't understand," I said. "If they laugh at you in your own home, how do they expect to make you agree to anything?"
 
@@ -259,7 +259,7 @@ But in the coming months, she made a point of noticing me, pausing on her way to
 
 I didn't feel like I had a complete grasp of the issue, but she certainly made it sound important. "I'm glad you're out there protecting us," I said.
 
-"For what good it'll do…" she muttered. "No doubt they will find some other neighborhood who will be suckered into believing this… horsecrap. And then [????? everyone will be listening to radios selling them stuff]"
+"For what good it'll do…" she muttered. "No doubt they will find some other neighborhood who will be suckered into believing this… horsecrap. And then we will all be listening to radios telling us to buy, buy, buy."
 
 "Surely the Blood Temple would put a stop to that!"
 
