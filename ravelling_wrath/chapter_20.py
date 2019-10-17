@@ -183,16 +183,11 @@ In the time like that, little of our work was so urgent that it couldn't be inte
 
 "It'll be okay," I said softly. "[???? Caretaker first name] will take care of you. You'll be all better before you know it."
 
-
-?????
-
-[????? Narrated memory of caretaker comforting a sick boy all night; feeding him honey water to soothe his throat entertaining him with a radio show he liked; maybe there's relevant politics about radio shows? Clarify that radio signals are blocked by the city walls. Also establish the range of ages of children, Temple caretaking arrangements (some orphans, some daycare, some others) perhaps "I loved all the children here, from the youngest to the oldest who were becoming more independent". But I especially loved the ones who were struggling, the ones who were clumsy and sad and didn't know how to ?????]
+I loved all of the children here, from the youngest toddlers to the older teens who were growing into their power. From the orphans, to the ones who stayed at the temple during the day while their parents were away working, to the ones who just loved to play at the temple, to the ones who just showed up one day without saying why. But I especially loved the ones who were struggling, the ones who were clumsy and sad and didn't know how to put their feelings into words. Those were the ones who needed the Blood Temple most of all.
 
 Of course, I didn't love them <em>every</em> day. It's hard to love anyone when you've been awake for twenty hours cleaning up after the incredible variety of messes they know how to make. But caretaking isn't a feeling – it's a habit. Civeah, one of the other caretakers, sometimes said she loved the children every day, but on other days, she said she hated them every day. Maybe I just wasn't as Blood as she was. Or maybe we were both Blood, but I was also Waiting enough to remember how I would feel on other days, not just how I felt at the moment.
 
-That day was one of those days.
-
-?????
+That day was one of those days. [????? ???? wasn't willing to let me go, so I had to stay up all night. entertaining him with a radio show he liked; maybe there's relevant politics about radio shows? Specifically, an upbeat comedy show where people make amusing mistakes but all love each other; too many of these radio comedies were based on degrading people, and it just wasn't right for kids to grow up thinking that was funny. Clarify that radio signals are blocked by the city walls. Finish paragraph with kid laughing and going to sleep happily-ish]
 
 I pulled myself out of the memory. I had thought this would be something important, but the more I looked, the more it seemed like it was just feel-good stuff. It was just ????caretaker looking back on something with rose-colored glasses. And it wasn't even a good decision! If you weren't having a crisis, that didn't mean you could afford to idle around, it meant you could afford to prepare for the next crisis before it happened.
 
