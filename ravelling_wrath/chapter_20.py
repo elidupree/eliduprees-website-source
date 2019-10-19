@@ -510,59 +510,6 @@ As I climbed up the endless slope, I looked back on what I had learned. The more
 
 And before I knew it, I was near the peak.
 
-
-
-
-
-
- [????? Notes:
- 
- Caretaker details: the Temple will protect children from their parents, reading from the book of blood to the children, "no one can be above or below another", traveling to the homes of the infirm for outreach
-
-important concepts for this chapter: Blood policies have flaws but the capitalist replacement is even more destructive; technology could be used for good if Blood and Waiting worked together
-
-Yali taking notes on her phone (maybe use paragraph I already wrote below)
-
-Maybe main plot thread is caretaker's "maybe there will be a better world someday"? ("I liked teaching children about the Blood ways much better than I liked dealing with Temple politics – it lets me feel like someday people will actually live by these principles")
-
-Yali doesn't want to engage with the caretaker's nice memories because she has anxiety about children being cared for instead of handling things on their own; the memories keep leading back to a nice memory and she's like "what's so important about this?"
-
-Main plot thread is that Yali needs something she's confident in that the Waiting God isn't confident at denying, but she doesn't have something like that; at first Yali can only think of things where she can see both sides and can't 100% say the Blood God's way is right, but finally the caretaker's dream of a world where children are cared for is something she can (with emotional struggle) finally admit is 100% right, but the Waiting God feels contradictory things about
-
-Yali switches lawyer->caretaker when the lawyer is being annoying and irrelevant, caretaker->lawyer because it's harder for Yali to work with the caretaker's memories because he's more Broken and less Stern "well this is nice, let me see where it goes" vs "This Is How Things Are Logically"
-
-so
-"I need to find a confident thing" "how did the blood temple fall"
-lawyer section
-"Ugh, well, the caretaker also remembers the fall", caretaker section where Yali doesn't listen well because she's still thinking about blood temple policy rather than caretaking
-...
-Yali realizes that caretaking is as important as policy
-
-Waiting God connection restored, bits of its thoughts, some of them contradictory, like approving of the caretaker's dream for a better world
-
-Have to include enough details of the mechanics of the fall of the Blood Temple (via both memories) – "blood Temple banned the company; that arguably violated Concord of Temples rules so the Stern were putatively allowed to protect company operations; Blood higher-ups arrested, some of those that remain jockey for position illegitimately, encouraged by the Stern, and undermine public trust in the blood Temple as a whole; Concord of Temples withdraws recognition and reassigns bottom two layers; Stern Temple seizes, repurposes or demolishes Blood temples, bans Blood worship and burns Blood books
-
-Maybe the caretaker uses "praise the waiting"
-
-]
-
-
-
-
-I decided to investigate the lawyer first. The first thing I felt was his frustration and contempt for the Blood legal system. [????? Shouldn't there be examples of specific memories here?] In Stern court, you only needed to prove, to the satisfaction of the court, that a defendant had violated the law. I – the lawyer – had done that many times. There were many restrictions on the arguments you could make and the evidence you could present, to prevent unjust convictions, but if you studied the law, as I had, you could rely on them to obey consistent rules.
-
-Not so much with Blood court. In Blood court, it wasn't enough for me to prove a violation of the <em>law</em> – I needed a violation of someone's <em>blood</em>. That was irritatingly vague and inconsistent. Obviously, it didn't only mean people's literal blood. Literal blood was the highest standard – any case of assault where the victim was bruised or their skin was broken would automatically count. And property crimes would <em>sometimes</em> count, because it was still considered a <em>violation of blood</em> if the victim experienced fear or insecurity as a result of the crime. But if you tried to get someone convicted for theft or vandalism of a storefront, even if they were the most contemptible repeat offender? Ha! You might as well try to convince a fish that it was wet.
-
-I was sick of being assigned to cases in the fifth layer. Now, I was proud of my work – someone <em>else</em> in my position might give up, but I would never abandon a case that I could still win. Not infrequently, [????? I found a way to argue that part of the crime had happened in the fourth layer, which was officially shared between the Blood and Stern temples.]. If that was so, the case would have to be reviewed by the ????? – the body that governed what to do with crimes that crossed between the jurisdiction of multiple temples.
- ?????
- 
-
-
-
-
-
- ????
- 
 Before I got too close, I paused to think, manifesting a flat platform into the side of the pyramid so I could rest. The portal and the god weren't the only things I was about to face. The others were already there. Morrow and Alchemist.
 
 I could already see it through the Watchful Eye I had placed on Morrow. I had mostly been tuning it out, but now, I paid attention. The two of them were camped out on the flat top of the pyramid, a black and shining pentagon about fifty meters wide, centered around… <em>it</em>. I couldn't even see the portal through the Watchful Eye, it was like a blank spot in my vision.
