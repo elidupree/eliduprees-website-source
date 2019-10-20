@@ -575,7 +575,7 @@ Morrow stopped walking. He shook, frustration fighting against despondency. "Why
 
 "Isn't your dad the one who abused you? Who gives a shit what happens to him?!"
 
-"I'm the one who made him angry. If it wasn't for me, then he –"
+"It was me who made him angry. If it wasn't for me, then he –"
 
 I gaped at him. "Is that all you've got?!" I snapped. "If you're trying to make yourself look like the bad guy, you're doing a shit job of it! Are you gonna get on with telling me something actually bad, or is it just more of this stuff where the real victim is you?"
 
