@@ -402,7 +402,9 @@ We met up with Morrow and Alchemist at another intersection, right where we'd pl
 
 Then she and Alchemist examined me together. Alchemist cried while they were doing it. For me, it was just tedious. I just had to sit still while they talked some technical soul stuff I didn't understand.
 
-They talked a lot about the residual damage, about how my soul had only been partially healed and then left like that for hours. Apparently, that was bad, but also good. It made things more complicated. Alchemist made me a series of different potions. All of them tasted different from each other, all subtle but unpleasant. I just drank them down as ordered. Eventually, they agreed that it was a success. My soul wasn't quite the same as before, but it was pretty much whole again.
+They talked a lot about the residual damage, about how my soul had only been partially healed and then left like that for hours. Apparently, that was bad, but also good. It made things more complicated. Regular magical healing could only heal the body, by making it match what the soul expected. Alchemist's potions could also heal the soul, by patching the damaged threads with new threads from the Broken God. But if there was a lot of damage, then it was hard to make it come out in the same shape as before. The partial healing had kept my soul mostly in its original shape, but it still complicated things.
+
+Alchemist made me a series of different potions. All of them tasted different from each other, all subtle but unpleasant. I just drank them down as ordered. Eventually, they agreed that it was a success. My soul wasn't quite the same as before, but it was pretty much whole again.
 
 Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of strength and speed. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe if she said it directly, Alchemist might not be willing…
 
