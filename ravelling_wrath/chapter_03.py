@@ -771,7 +771,7 @@ It didn't matter that Yali was talking like her normal self again. Nothing matte
 
 "Rinn, that's not –" Yali moved towards me.
 
-I backed away. I just knew I couldn't be near her. "Remember what you said about Aihael! He said it was more anger than he'd ever felt! If that's what's gonna happen, then this was nothing! NOTHING! You're ONE person! A HUMAN! This was ONE day! If this can break me, the Blood God is going to break me into a million pieces and then I – and then you'll be dead and then I'll be dead and it'll be <em>all my fault</em> and – Oof!"
+I backed away. I just knew I couldn't be near her. "Remember what you said about that other Blood Child! He said it was more anger than he'd ever felt! If that's what's gonna happen, then this was nothing! NOTHING! You're ONE person! A HUMAN! This was ONE day! If this can break me, the Blood God is going to break me into a million pieces and then I – and then you'll be dead and then I'll be dead and it'll be <em>all my fault</em> and – Oof!"
 
 Yali's big arms closed around me. She pulled me into a hug even as I shook and half-struggled to get away. I was so sure that just touching me would hurt her. I was going to ruin everything. Why couldn't she see it?
 

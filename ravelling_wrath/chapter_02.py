@@ -50,7 +50,7 @@ Yali put a piece of paper on the table in front of us.
 
 "Okay…"
 
-"Now, <em>this</em> –" Yali drew a line across the middle of the paper, separating the starting square from the ending square. "– this wall is your love for me. It's a very strong wall, and a very important one. The problem is, the Blood God's will is also strong. It can batter down the wall, like it did for Aihael." Yali drew an arrow straight across the wall, from start to finish. "So I want to build <em>more</em> defenses in your mind, so you'll be ready for it."
+"Now, <em>this</em> –" Yali drew a line across the middle of the paper, separating the starting square from the ending square. "– this wall is your love for me. It's a very strong wall, and a very important one. The problem is, the Blood God's will is also strong. It can batter down the wall, like it did for the other Blood Children in the past." Yali drew an arrow straight across the wall, from start to finish. "So I want to build <em>more</em> defenses in your mind, so you'll be ready for it."
 
 "That… makes sense, but what kind of defenses are you talking about? Would you, like… put a sorcery on me?"
 

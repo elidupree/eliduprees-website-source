@@ -80,7 +80,7 @@ Yali smiled. "No, it's actually the stars themselves that move. You see… you s
 
 "Yeah, like I told you, silly." I leaned into her warmth and planted a series of kisses on her cheek. "If anything, I love you even more than I did before. So much for that prediction, haha."
 
-"Well, it's possible… We don't really know how the previous Blood Children felt <em>right at first</em>. And Aihael hid his feelings for a long time, so…" She stopped and thought. "Maybe it just hasn't changed your feelings about <em>me</em>… How do you feel about <em>the Farseer</em>?"
+"Well, it's possible… We don't really know how the previous Blood Children felt <em>right at first</em>. The one who loved me hid his feelings for a long time, so…" She stopped and thought. "Maybe it just hasn't changed your feelings about <em>me</em>… How do you feel about <em>the Farseer</em>?"
 
 "What? But you <em>are</em> the Farseer."
 
