@@ -192,9 +192,9 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 "Fuck yeah," I said. It came out a little weaker than I intended it. Guess I still wasn't recovered all the way yet.
 
-Yali padded over and sat down next to me. Somberly, she said, "If there's one thing the Waiting God was right about, it's that humanity needs to change. But maybe, with people like you and me… [????? Maybe the world will be better someday – callback to the caretaker]"
+Yali padded over and sat down next to me. Somberly, she said, "If there's one thing the Waiting God was right about, it's that humanity needs to change. But maybe, with people like you and me… maybe we'll be able to change it."
 
-I held her hand, intertwining my fingers with hers. "[????? It totally will be.] Think about it, we already changed the world once! We did so much to love and protect each other, we even made the <em>gods</em> closer to each other! It'll be, like, 'here comes Yalkatura – changing the world with the power of love!'"
+I held her hand, intertwining my fingers with hers. "We totally will. Think about it, we already changed the world once! We did so much to love and protect each other, we even made the <em>gods</em> closer to each other! It'll be, like, 'here comes Yalkatura – changing the world with the power of love!'"
 
 Yali smiled. "I like how optimistic you are. But I think we might need a different slogan."
 
@@ -204,7 +204,7 @@ Yali smirked. "'Listen up or we'll kick your ass' does have a certain appeal… 
 
 "– and make it have meaning," I finished.
 
-"- and use it to make sure we got the outcome we wanted," finished Yali. She gave me a sidelong look. "I guess you said it the Blood way."
+"– and use it to make sure we got the outcome we wanted," finished Yali. She gave me a sidelong look. "I guess you said it the Blood way."
 
 "What's wrong with that?!"
 
@@ -262,7 +262,7 @@ Towards the end of the day, Alchemist told me that they'd invited Morrow to thei
 
 Early the next morning, Yali pronounced me ready to travel, and called a taxi. She still insisted on helping me climb into my seat, but it was more of a "just in case" thing, not like I actually needed it.
 
-It was a long quiet ride to Yali's house, because we still couldn't go really talk about stuff in front of the driver. By the time we got there, I was super stiff, itching to move. As Yali finished paying our fare, I flung open the door, then ran and flopped on the couch. I leaned back luxuriantly, pressing my neck into the soft cushions. "Ahhhhh… I've sure missed hanging out in the best house in the world."
+It was a long, quiet ride to Yali's house, because we still couldn't go really talk about stuff in front of the driver. By the time we got there, I was super stiff, itching to move. As Yali finished paying our fare, I flung open the door, then ran and flopped on the couch. I leaned back luxuriantly, pressing my neck into the soft cushions. "Ahhhhh… I've sure missed hanging out in the best house in the world."
 
 Yali closed the door quietly behind her. "What makes this the best –"
 
@@ -470,7 +470,7 @@ Yali noticed my tears. "You okay there?" she said distractedly.
 
 "Go <em>back</em>…" muttered Yali. She slowly rinsed the last of the dishes and stacked it in the drying rack with the others. "I'm sorry, Rinn, but I don't think there's anything to go back to. I don't think there was ever just one true way the gods were supposed to be at all. Remember… when I was the Farseer, I saw across all of history, and I never saw the gods being a perfect ideal. Or maybe they're a perfect ideal by their own principles, it's just not perfectly good for us humans. Or maybe they're not that either, I don't know. But what I did see is, is people <em>wanting</em> them to be. I think… I think we teach kids that the gods are perfect because we <em>want</em> them to be perfect. We want to think we live in a world where things make sense, where good ultimately wins against evil. But we don't. We live in a world where good wins if you can <em>make</em> it win. And the principles of the gods… they're not automatically good. They're like, like, a half-finished idea, something that's not good or bad until you write down how you're actually going to use it in your life. Like the Waiting wants us to make plans, but you can have a good plan or an evil plan, and either one is just as sacred to it. And the Blood God wants us to value our feelings, but you can feel like helping someone or you can feel like hurting them, and either of those is just as sacred to it. So if we want the gods to be good… then <em>we</em> have to figure out how to finish the idea. It's up to us humans to interpret the principles in a way that makes them good. Otherwise… They'll just go on being… being what they are."
 
-Her words settled over me like a heavy shroud. I didn't want it to be true. After everything we'd been through… after everything Yali had had to fight through, after all the pain the gods had left her with… I didn't want everything to still be left open-ended. I wanted them to finally give us a simple answer, something that would let everything be healed. But it was true. When the Blood God was inside me, it hadn't given me just one answer to everything. In the Seeking God's world, yet had had three different opinions about Justicar. In the Stern God's world, after it made me stab Yali, it had actually been conflicted, struggling with what to value. It wasn't just me-against-it. And even after we finally joined together, in the Broken God's world… when I was helping Morrow… even when I had felt like all the right answers were flowing into me from the Blood God, I was still thinking, still making my own choices. I <em>could</em> have taken the other form of the Blood God, the form of anger and vengeance. And then it would have given me all the right answers for <em>that</em>, a transcendent, godly way to unleash my rage onto Morrow's body. Soulfire had never felt like the Blood God pushing its own will through me. It had felt like the best version of myself, like it was bringing the truest form of my own will right to the tip of my tongue.
+Her words settled over me like a heavy shroud. I didn't want it to be true. After everything we'd been through… after everything Yali had had to fight through, after all the pain the gods had left her with… I didn't want everything to still be left open-ended. I wanted them to finally give us a simple answer, something that would let everything be healed. But it was true. When the Blood God was inside me, it hadn't given me just one answer to everything. In the Seeking God's world, it had had three different opinions about Justicar. In the Stern God's world, after it made me stab Yali, it had actually been conflicted, struggling with what to value. It wasn't just me-against-it. And even after we finally joined together, in the Broken God's world… when I was helping Morrow… even when I had felt like all the right answers were flowing into me from the Blood God, I was still thinking, still making my own choices. I <em>could</em> have taken the other form of the Blood God, the form of anger and vengeance. And then it would have given me all the right answers for <em>that</em>, a transcendent, godly way to unleash my rage onto Morrow's body. Soulfire had never felt like the Blood God pushing its own will through me. It had felt like the best version of myself, like it was bringing the truest form of my own will right to the tip of my tongue.
 
 "We can do it," I said gravely. "I've just realized… that's what I did with the Blood God. There were ways it could be bad, and ways it could be really good, protective and healing. And once I really got to know it… I could tell how we could steer away from the bad ways, and turn its power into something that was good for both of us. So that's… it was really something. And when it worked, it felt <em>soooo</em> good. And you… You had that thing with the Waiting God, too. We can really do it."
 
@@ -486,7 +486,7 @@ I melted in her hands. "I'd like that more than anything."
 
 Eventually, Yali decided to tell people she was back.
 
-"Already?" I laughed. But it had been like a week, and I was ready too. Being with Yali was still amazing, but it was as if I had been slowly waking up from a long dream, and it was getting to the point where I was getting restless, thinking of my old friends again. So we both agreed to let it be over.
+"Already?" I laughed. But it had been like a week, and I was ready too. Being with Yali was still amazing, but I felt like I had been slowly waking up from a long dream, and it was getting to the point where I was getting restless, thinking of my old friends again. So we both agreed to let it be over.
 
 Yali called the monks who were responsible for her. It was a short call, just setting up a time for them to come visit and really get things sorted out. Then Yali said she was tired and hung up.
 
