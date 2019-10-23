@@ -534,15 +534,19 @@ The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel tha
 
 I ran past the ?????, and I didn't see ?????, I saw ?????.
 
-I ran past the old basketball court full of trash, and I didn't see ?????
+When I ran past the old basketball court full of trash, I didn't see ????? [????? the temple who watched over them didn't help them afford to take away their trash, didn't fix the potholes, but was happy to harass homeless people and cart people off to jail]
 
 ?????
 
-I ran past the supermarket, the one Yali said was built on the remains of an old Blood temple, and I knew.
+And when I ran past the supermarket near the street my house, I remembered something Yali had told me. This was where one of the Blood temples had been, before it was demolished and [????? replaced with part of this parking lot here]
 
 ?????
 
+I knelt down, pressing my hand against the cold pavement.
 
+"This was a temple," I whispered.
+
+And I knew that one day, I would [????? raise up a new temple to replace it].
 
 ''',
 },
