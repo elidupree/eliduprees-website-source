@@ -601,7 +601,7 @@ After a while, I stepped up to him and put my hand on his shoulder. "Hey, uh… 
 
 Morrow moaned and shivered.
 
-"That's okay, I get it. You've got a lot to handle." I hesitated for a bit. "Listen, when you get back to earth, –" I began. I wasn't completely sure where I was going with this. I'd kind of been planning to tell him to go get a therapist, but it was a little hard to imagine him opening up to a therapist. Worse, therapists cost money, and I wasn't sure if Morrow had much money. We needed some sort of <em>free</em> public therapist. Or actually, what we needed was someone who was in charge, not like someone telling him what to do, but like someone with the authority to give him a place to live and food to eat while he got his life sorted out. Someone who could say "you deserve support, you deserve forgiveness, you can find a new purpose in life" and have it <em>count</em> because what they said was the sacred truth –
+"That's okay, I get it. You've got a lot to handle." I hesitated for a bit. "Listen, when you get back to Earth, –" I began. I wasn't completely sure where I was going with this. I'd kind of been planning to tell him to go get a therapist, but it was a little hard to imagine him opening up to a therapist. Worse, therapists cost money, and I wasn't sure if Morrow had much money. We needed some sort of <em>free</em> public therapist. Or actually, what we needed was someone who was in charge, not like someone telling him what to do, but like someone with the authority to give him a place to live and food to eat while he got his life sorted out. Someone who could say "you deserve support, you deserve forgiveness, you can find a new purpose in life" and have it <em>count</em> because what they said was the sacred truth –
 
 Sacred? Oh, duh. What I was thinking of was a <em>priest</em>.
 
@@ -793,7 +793,7 @@ In the end, Yali settled on a few strategies to try if we got the chance. Neithe
 
 <bigbreak>
 
-Our work went on for hours and hours. We made potions. We made plans. I practiced summoning soulfire. We practiced fighting a little, but Yali's safety precautions made it awkward, and we didn't really know what powers we would be up against. When Alchemist wasn't making potions, they took care of Morrow, and when they weren't doing that, they spent a lot of time thinking about their family back on earth. Finally, we all got some rest to make sure we would be fully alert for the challenges to come.
+Our work went on for hours and hours. We made potions. We made plans. I practiced summoning soulfire. We practiced fighting a little, but Yali's safety precautions made it awkward, and we didn't really know what powers we would be up against. When Alchemist wasn't making potions, they took care of Morrow, and when they weren't doing that, they spent a lot of time thinking about their family back on Earth. [???? Niemah exam setup?] Finally, we all got some rest to make sure we would be fully alert for the challenges to come.
 
 Now, the portal beckoned. Yali squeezed my hand. "I'm not sure there's much more preparations we can do. So, before we go through the portal and finish things, if there's anything we still need to talk about…"
 

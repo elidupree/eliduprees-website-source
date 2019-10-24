@@ -138,7 +138,7 @@ Well, fuck.
 
 I quickly adjusted so I could hold them up. "Woah, are you okay there?!"
 
-Alchemist had tears streaming down their face. "Mama, Papa, Bubele, Niemah…" they sobbed. They kept crying and saying more names, probably all the people they had left behind on Earth. [???? Check consistency of how Rinn capitalizes Earth]
+Alchemist had tears streaming down their face. "Mama, Papa, Bubele, Niemah…" they sobbed. They kept crying and saying more names, probably all the people they had left behind on Earth.
 
 "Hey, hey, it's okay. We'll get you back to everyone safe and sound." I squeezed them tight.
 

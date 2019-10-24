@@ -600,7 +600,7 @@ Of course, that wasn't the <em>only</em> potion we got to play with.
 
 "Okay, fine." I didn't want to just carry it in my hand the whole time, so I thought for a moment and then just glued it to the back of my arm. Then I realized that I had basically reinvented the wristwatch, haha.
 
-I swooped around in the air, doing lots of spins and flips. I couldn't resist doing moves that made my stomach flip around, just to see if I could. I hovered upside down in the air and cruised past the others. "Ha ha, you're all upside down!" I shouted. "People can make flying potions on earth too, can't they? Why don't people fly around all the time?!"
+I swooped around in the air, doing lots of spins and flips. I couldn't resist doing moves that made my stomach flip around, just to see if I could. I hovered upside down in the air and cruised past the others. "Ha ha, you're all upside down!" I shouted. "People can make flying potions on Earth too, can't they? Why don't people fly around all the time?!"
 
 "I think they're expensive?" said Yali. "Like a once-in-a-lifetime vacation thing, not an everyday thing. Let me look it up, though."
 
@@ -608,7 +608,9 @@ I swooped around in the air, doing lots of spins and flips. I couldn't resist do
 
 "Oh, I actually downloaded a local copy of an encyclopedia before the Ravelling started…" Yali fiddled around on her phone. "Yes, it says… it's a difficult sorcery because you have to put the drinker's will in control of the movement, and… a lot of people died in flying accidents a couple hundred years ago, so now you have to get a special license to make them, beyond a regular sorcery license, and they always have to be combined with slow-fall potions so you don't fall to your death if the flying runs out while you're up in the air, but combining them makes it even more complex…"
 
-Before long, Yali drank one of the flying potions herself, and rose into the air. I was a little surprised that Morrow didn't come flying too, but he seemed to want to stay close to Alchemist. I flew up to Yali and tried to tempt her into doing some stunts with me, but she just smiled and said it was hard enough keeping her balance. "You gotta have <em>some</em> fun," I said affectionately.
+Before long, Yali drank one of the flying potions herself, and rose into the air. I was a little surprised that Morrow didn't come flying too, but he seemed to want to stay close to Alchemist. I flew up to Yali and tried to tempt her into doing some stunts with me, but she just smiled and said it was hard enough keeping her balance.
+
+"You gotta have <em>some</em> fun," I said affectionately.
 
 I wasn't really expecting her to go along with that, but she did. "I'll race you!" she said loudly. Then she zoomed off into space.
 

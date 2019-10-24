@@ -256,7 +256,7 @@ Unfortunately, I wouldn't get to <em>visit</em> Alchemist right away. They lived
 
 Alchemist even said they were going to pick out a new name for me to call them, but they'd need a while to think it over. They wanted it to be special, not just to use <em>Raylie</em>, the name Morrow called them, or <em>Heibe</em>, the name their family called them.
 
-Towards the end of the day, Alchemist told me that they'd invited Morrow to their place, and he was about to show up. I was eager to hear all about it, but I couldn't stop myself from sharing everything with Yali, and Yali absolutely did not want to hear live updates about Morrow. So Alchemist and I agreed to leave off until another day. But even as I put down my phone, I was just so happy that they were still going to be part of my life going forward, back here on earth. And just a text message away at that.
+Towards the end of the day, Alchemist told me that they'd invited Morrow to their place, and he was about to show up. I was eager to hear all about it, but I couldn't stop myself from sharing everything with Yali, and Yali absolutely did not want to hear live updates about Morrow. So Alchemist and I agreed to leave off until another day. But even as I put down my phone, I was just so happy that they were still going to be part of my life going forward, back here on Earth. And just a text message away at that.
 
 <bigbreak>
 
