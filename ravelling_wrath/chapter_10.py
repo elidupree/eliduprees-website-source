@@ -16,7 +16,7 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 10: ", '''<p></p>''') +'''
+  "contents": chapter_start ("Chapter 10: The First Rule", '''<p></p>''') +'''
 
 [????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right".]
   
@@ -687,7 +687,7 @@ Justicar's voice smoothly cut through mine. She was so calm, it was like she did
 
 "That is not –"
 
-"I grew up down the street from that kid!" I shouted over her. I had only barely figured out where I was going with this, but a righteous rage was building in my chest. "[???? name]! He went to prison for stealing a pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a half decent pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about ????Name before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
+"I grew up down the street from that kid!" I shouted over her. I had only barely figured out where I was going with this, but a righteous rage was building in my chest. "Javin Mawr! He went to prison for stealing a pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a half decent pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about Javin before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
 
 "If he was abused in prison, that is <em>not</em> the will of the Stern! You cannot blame –"
 
@@ -855,7 +855,7 @@ I smirked. "Nah, it just means I was right all along! I'm the one who thought, u
 
 "An interesting thought, but how was that <em>my</em> rule? Anyone could have assumed th–"
 
-I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about ????, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
+I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about Javin, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
 
 "That is not what 'belief in the Stern' m–"
 
