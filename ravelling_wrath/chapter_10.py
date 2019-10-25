@@ -387,13 +387,13 @@ Justicar sighed. She found her way out of the spiral hallway she was in, and bri
 
 I couldn't think straight enough to resist, so I just stumbled along with her.
 
-"At least it's only alcohol, not ????…" she muttered.
+"At least it's only alcohol, not <em>koltac</em>…" she muttered.
 
-???? was an alchemical drug that some people used to get high. It supposedly made you feel a sense of purpose, like you knew exactly what you were doing. But I knew a couple of guys who used it a lot, and they kind of… weren't all there. When they were using it, they said things that didn't make sense. When they weren't, they were short-tempered assholes – and not in a fun way, either. And their skin was dry and cracked all the time… wait a minute. <em>Justicar</em>'s skin had always looked kind of dry and cracked.
+<em>Koltac</em> was an alchemical drug that some people used to get high. It supposedly made you feel a sense of purpose, like you knew exactly what you were doing. But I knew a couple of guys who used it a lot, and they kind of… weren't all there. When they were using it, they said things that didn't make sense. When they weren't, they were short-tempered assholes – and not in a fun way, either. And their skin was dry and cracked all the time… wait a minute. <em>Justicar</em>'s skin had always looked kind of dry and cracked.
 
-"I don't know why I'm bothering to say this," she went on, "but if you remember only one thing from what I tell you, remember never to touch ????. No matter how it makes you feel in the moment, it will always –"
+"I don't know why I'm bothering to say this," she went on, "but if you remember only one thing from what I tell you, remember never to touch <em>koltac</em>. No matter how it makes you feel in the moment, it will always –"
 
-"Of course I'm never going to do ????! That shit fucks you up! Uh, I mean, not that you're fucked up because you did ????. <em>You're</em> fucked up for completely different reasons." I said, jabbing my finger into the chest plate of her armor. "Ow, that hurts."
+"Of course I'm never going to do <em>koltac</em>! That shit fucks you up! Uh, I mean, not that you're fucked up because you did <em>koltac</em>. <em>You're</em> fucked up for completely different reasons." I said, jabbing my finger into the chest plate of her armor. "Ow, that hurts."
 
 "Please stop being drunk," said Justicar wearily.
 
