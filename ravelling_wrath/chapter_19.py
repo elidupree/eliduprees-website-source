@@ -475,7 +475,7 @@ I had made a mistake. Now I had to think about what to do next.
 
 I decided to think on my feet. I didn't <em>want</em> to do the work of walking, but I would have to do it eventually, and it gave me something to occupy my mind other than revisiting all my own mistakes.
 
-The idea came to me as I hauled Rinn passed a crumbling temple. When Rinn had been speaking for the Blood God, she had [????? talked about the Waiting God destroying the Blood Temple]. Less than a lifetime ago, the Blood Temple had existed. There had been an entire <em>temple</em> full of priests who could give me the insight I needed, who had understood and valued the ways of the Blood God. A temple the Waiting God had gone to such great lengths to disempower.
+The idea came to me as I hauled Rinn passed a crumbling temple. When Rinn had been speaking for the Blood God, she had been so upset about the destruction of what she called "my temple". Less than a lifetime ago, the Blood Temple had existed. There had been an entire <em>temple</em> full of priests who could give me the insight I needed, who had understood and valued the ways of the Blood God. A temple the Waiting God had gone to such great lengths to disempower.
 
 Of course, all of that was in the past now.
 
