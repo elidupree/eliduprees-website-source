@@ -17,8 +17,6 @@ posts = [
   ''',
   "head":head,
   "contents": chapter_start ("Chapter 10: The First Rule", '''<p></p>''') +'''
-
-[????? what chapter?: about Justicar, "just because you're right sometimes about telling other people not to do stuff, doesn't mean the REST of your opinions are right".]
   
 It wasn't hard to get the others to follow along with me. Morrow was always going to follow wherever Alchemist went. Justicar was always going to follow the rest of us to "protect" us. And Alchemist… I wasn't really sure, but they moved to follow along as soon as I said where I was going. Maybe they wanted us all to get back together with Yali again, just like I did.
 
