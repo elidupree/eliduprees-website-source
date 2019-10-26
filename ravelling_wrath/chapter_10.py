@@ -411,11 +411,11 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 
 "Fine, then, tell me! Tell me the rest of your life story, see if I care –"
 
-"Then I will, and maybe you <em>will</em> care," said Justicar seriously. "Even after everything I had done to myself, I was never able to admit I had a problem until the day when I woke up in the hospital after an overdose. Even then, I refused to believe it was over. Not until my parents walked in. They did not listen to my excuses. They simply <em>told</em> me that I would be going to the Borson School in ???? from then on –"
+"Then I will, and maybe you <em>will</em> care," said Justicar seriously. "Even after everything I had done to myself, I was never able to admit I had a problem until the day when I woke up in the hospital after an overdose. Even then, I refused to believe it was over. Not until my parents walked in. They did not listen to my excuses. They simply <em>told</em> me that I would be going to the Borson School in Walthridge from then on –"
 
 "Isn't that the place that was in the news for abusing all those kids??"
 
-"You are thinking of Bolsard Academy, in ????. They are unrelated institutions."
+"You are thinking of Bolsard Academy, in Calmouth. They are unrelated institutions."
 
 "Er… oh."
 

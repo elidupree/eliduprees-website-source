@@ -793,7 +793,9 @@ In the end, Yali settled on a few strategies to try if we got the chance. Neithe
 
 <bigbreak>
 
-Our work went on for hours and hours. We made potions. We made plans. I practiced summoning soulfire. We practiced fighting a little, but Yali's safety precautions made it awkward, and we didn't really know what powers we would be up against. When Alchemist wasn't making potions, they took care of Morrow, and when they weren't doing that, they spent a lot of time thinking about their family back on Earth. [???? Niemah exam setup?] Finally, we all got some rest to make sure we would be fully alert for the challenges to come.
+Our work went on for hours and hours. We made potions. We made plans. I practiced summoning soulfire. We practiced fighting a little, but Yali's safety precautions made it awkward, and we didn't really know what powers we would be up against. When Alchemist wasn't making potions, they took care of Morrow, and when they weren't doing that, they spent a lot of time thinking about their family back on Earth. Their older sister Niemah had been scheduled to take an important certifying exam, to become some sort of magical technician. And we didn't know exactly what day it was today, but it was probably somewhere in your the week of the exam, so Alchemist was thinking about it, really hoping she would pass. It was a surprisingly normal thing to worry about at a time like this, but it helped me remember the human life we were fighting to get back to.
+
+Finally, we all got some rest to make sure we would be fully alert for the challenges to come.
 
 Now, the portal beckoned. Yali squeezed my hand. "I'm not sure there's much more preparations we can do. So, before we go through the portal and finish things, if there's anything we still need to talk about…"
 

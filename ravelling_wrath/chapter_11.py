@@ -241,9 +241,7 @@ Alchemist smiled involuntarily.
 
 "Do you want a hug?" I said.
 
-We both moved in for a hug awkwardly, bumping our arms into each other.
-
-[???? Probably cut: When we pulled away,]
+We both awkwardly moved in for a hug, bumping our arms into each other. And once we settled in, neither of us felt the need to say more words for a while. 
 
 <bigbreak>
 
@@ -253,7 +251,7 @@ But none of that was the <em>really</em> weird thing about them. The <em>really<
 
 I had no idea.
 
-It was driving me crazy. I felt trapped in this place. Even if I wasn't going to get to Yali, it was so stupid to not even TRY to get closer to her! So I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure I was actually getting somewhere and the Seeking God wasn't somehow cheating me out of my progress. But it <em>was</em>! My location on the map didn't stay consistent at all, it just sort of randomly moved around, totally independent of the direction we were going.
+It was driving me crazy. I felt trapped in this place. Even if I wasn't going to get to Yali, it was so stupid to not even TRY to get closer to her! So I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure I was actually getting somewhere and the Seeking God wasn't somehow cheating me out of my progress. But it <em>was</em>! My location on the map didn't stay consistent at all, it just sort of randomly moved around, totally unrelated to the direction we were going.
 
 Right now, I was tired, slouching on a couch I made, cuddling with Alchemist. At least <em>this</em> part was comfortable.
 
@@ -543,7 +541,7 @@ I squinted. "You'd call Justicar a <em>young</em> adult?"
 
 Yali continued, "A lot of Imminents are children, like, preteens. Alchemists can be any age, so on average, they're older than this. And I'm the rarest one. Most Farseers are at least middle-aged, if not elderly. There have been a few children, but never a teenager –"
 
-"There was a fifteen-year-old Farseer in [????? year]," Justicar interrupted.
+"There was a fifteen-year-old Farseer in the year after the Year of Prophecy," Justicar interrupted.
 
 "Never in the last seventy years, at least."
 

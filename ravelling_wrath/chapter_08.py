@@ -442,15 +442,15 @@ Justicar's voice softened a little. "Have you never skied before?"
 
 "Oh, come on! There's nowhere to ski in the city anyway!"
 
-"There… <em>is</em> a ski slope to the north, in ????region. Have you never been outside the city?"
+"There… <em>is</em> a ski slope to the north, in Walthridge. Have you never been outside the city?"
 
 "Who needs to?!"
 
-"Yeah!!" added Morrow. "You from ????region? You some kind of rich person?"
+"Yeah!!" added Morrow. "You from Walthridge? You some kind of rich person?"
 
-My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from ????region, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth layer like me, either.
+My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from Walthridge, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth layer like me, either.
 
-"I will not say I have not had privileges in my life. But no, I am not <em>from</em> ????region. I simply… was there for a time."
+"I will not say I have not had privileges in my life. But no, I am not <em>from</em> Walthridge. I simply… was there for a time."
 
 "Cool, cool, I'm just wondering…" began Morrow.
 
@@ -490,7 +490,8 @@ Morrow danced up to me, manifesting piles of gold coins spilling out of his hand
 
 "That's very noble of you," said Justicar.
 
-"You take that back!" I yelled. "I'm not doing it to be noble, he's my friend! And what else would I spend it on, anyway? I already have everything I want." I pointed one finger at myself and the other down through the star at Yali.
+"You take that back!" I yelled. "I'm not doing it to be noble, he's my friend! And what else would I spend it on, anyway?" I pointed one finger at myself and the other down through the star at Yali.
+"I already have everything I want." 
 
 Morrow leaned close to my ear. "But do you have… a two story tall chocolate fountain?" He manifested a chocolate fountain near us as he said it. It was only about one story tall, but I wasn't complaining. I stuck my face in it right away. Morrow joined me, and pretty soon we were both licking chocolate off the fountain and grinning at each other's messy faces.
 
@@ -744,26 +745,6 @@ At length, Justicar looked up, squinting into the distance.
 "We are about to arrive," she said. "The portal star can now be seen from here with the naked eye."
 
 I jumped up and hurried to the edge to look along with her.
-
-
-
-[???? cut this:
-
-"We are close to being able to travel to the five portals. But in order to visit them in sequence," said Justicar, pointing at a starmap, "we would have to go either <em>here</em> and then <em>here</em>, or <em>here</em> and then <em>here</em>. But in either direction, we would barely miss a transfer we need to complete the journey. And then the stars that would take us to the last two portals will not return until many days later."
-
-"What if we split up? Me and Alchemist could go off together!" said Morrow.
-
-"That…" Justicar frowned at the map. "That would technically work. But it is almost the least efficient way for us to split up."
-
-So it was a transparent attempt for the other lovebirds to get some time alone. I was cool with that, especially if Justicar didn't like it. "Alright then," I said cheerfully, "him and Alchemist can go off together, AND me and Yali can go off together!"
-
-"No." said Justicar. "We should all stick together. It is safer that way."
-
-"You know, we don't have to do what you want us to."
-
-"It is not a matter of what I want. It is a matter of what is wise."
-]
-
 
 <bigbreak>
 
