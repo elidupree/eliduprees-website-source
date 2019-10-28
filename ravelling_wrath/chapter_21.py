@@ -538,15 +538,15 @@ When I ran past the old basketball court full of trash, I didn't see ????? [????
 
 ?????
 
-And when I ran past the supermarket near the street my house, I remembered something Yali had told me. This was where one of the Blood temples had been, before it was demolished and [????? replaced with part of this parking lot here]
+And when I ran past the supermarket near the street with my house, I remembered something Yali had told me. This was where one of the Blood temples had been, before it was demolished. Before the Stern Temple sold the land to build this parking lot here.
 
-?????
+For just a minute, before I ran the final distance home, I turned and stood in the parking lot, trying to imagine what had been.
 
 I knelt down, pressing my hand against the cold pavement.
 
-"This was a temple," I whispered.
+"This was a temple," I whispered. "A temple."
 
-And I knew that one day, I would [????? raise up a new temple to replace it].
+And I knew that one day, I would raise up a new temple to take its place.
 
 ''',
 },
