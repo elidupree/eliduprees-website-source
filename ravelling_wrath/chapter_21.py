@@ -522,23 +522,19 @@ We stood halfway out the door for what felt like hours, arms wrapped around each
 
 With an enormous effort, I turned away and started the long run home.
 
-[????? My feet pounded on the street – callbacks to chapter 5]
+My feet pounded on the street, carrying me fast and heavily down the old roads. I had been away for months, but now, everything was so familiar. I breezed past the Duvidi's where I had first talk to Yali about what made me angry. I sped down Draegel Street, habitually slapping the flagpole that us kids used as the finish line in our races.
 
-the road leading to Layo's house. It made me want to turn and run that way, to hug him and tell him I'd made it. But I would see him soon enough. There would be time enough to tell all my friends about my adventures. For now, ?????
+On my right, I passed the road leading to Layo's house. It made me want to turn and run that way, to hug him and tell him I'd made it. But I would see him soon enough. There would be time enough to tell all my friends about my adventures. For now, I was going home.
 
-?????
-
-the gate into the fifth layer. The layer that was my home. The layer of the Blood God.
+Finally, I reached the gate into the fifth layer. The layer that was my home. The layer of the Blood God.
 
 The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel that same sense of <em>wrongness</em> I had felt about the Stern Temple ruling this layer. I was Rinn, who had grown up with all of this being normal. But I remembered. And I couldn't see anything in quite the same way anymore.
 
-I ran past the ?????, and I didn't see ?????, I saw ?????.
+When I ran past the old basketball court full of trash, I remembered a time when I had seen it as a place where random assholes dumped their trash and spoiled our fun. But now, I saw the temple who watched over them. A temple who wouldn't help anyone afford to take away their trash, who wouldn't fix the potholes or the broken streetlights, but who always had time to sic the police on homeless people, to cart random people off to jail.
 
-When I ran past the old basketball court full of trash, I didn't see ????? [????? the temple who watched over them didn't help them afford to take away their trash, didn't fix the potholes, but was happy to harass homeless people and cart people off to jail]
+When I ran past the store where Pèi stole her jewelry, it made me think about Javin, about what the Seeking God had taught me. People who stole, people who got high in the alleyways, people who sold sex and called themselves trash – they were a people starved of their blood, trying to claw back their rightful power from a world that had taken it away. They had been trampled over, and it was not right to let them be trampled over again.
 
-?????
-
-And when I ran past the supermarket near the street with my house, I remembered something Yali had told me. This was where one of the Blood temples had been, before it was demolished. Before the Stern Temple sold the land to build this parking lot here.
+And when I ran past the supermarket near the street with my house, I remembered something Yali had told me. This was where one of the Blood temples had been, before it was demolished. Before the Stern Temple had sold the land to build this parking lot here.
 
 For just a minute, before I ran the final distance home, I turned and stood in the parking lot, trying to imagine what had been.
 
