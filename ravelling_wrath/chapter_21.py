@@ -229,10 +229,10 @@ Yali gave a little smile. "Yeah, about that…" she said.
 <bigbreak>
 
 <p class="text right"> Hey!! It's Rinn!! </p>
-<p class="text right"> back on earth and feeling great, <3 <3 <3 your healing magic haha</p>
+<p class="text right"> back on earth and feeling great, &lt;3 &lt;3 &lt;3 your healing magic haha</p>
 <p class="text right"> how are you doing?? Back with your folks I hope? </p>
 
-<p class="text right"> how is everyone? Did Niemah pass her exam?? [????? Set this up] </p>
+<p class="text right"> how is everyone? Did Niemah pass her exam?? </p>
 
 <p class="text right"> Oh and have you heard from Morrow? Gods I hope he's okay </p>
 <p class="text right"> and and and </p>
