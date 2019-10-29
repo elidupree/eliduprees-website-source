@@ -532,7 +532,7 @@ The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel tha
 
 When I ran past the old basketball court full of trash, I remembered a time when I had seen it as a place where random assholes dumped their trash and spoiled our fun. But now, I saw the temple who watched over them. A temple who wouldn't help anyone afford to take away their trash, who wouldn't fix the potholes or the broken streetlights, but who always had time to sic the police on homeless people, to cart random people off to jail.
 
-When I ran past the store where Pèi stole her jewelry, it made me think about Javin, about what the Seeking God had taught me. People who stole, people who got high in the alleyways, people who sold sex and called themselves trash – they were a people starved of their blood, trying to claw back their rightful power from a world that had taken it away. They had been trampled over, and it was not right to let them be trampled over again.
+When I ran past the store where Pèi stole her jewelry, it made me think about Javin, about what the Seeking God had taught me. People who stole, people who got high in the alleyways, people who sold sex and called themselves trash and wanted to die – they were a people starved of their blood, trying to claw back their rightful power from a world that had taken it away. My heart beat in time with theirs. They had been trampled over, and it was not right to let them be trampled over again.
 
 And when I ran past the supermarket near the street with my house, I remembered something Yali had told me. This was where one of the Blood temples had been, before it was demolished. Before the Stern Temple had sold the land to build this parking lot here.
 
