@@ -1,6 +1,7 @@
 *~
 *.pyc
 *.pkl
+modify_noticer
 /build
 /__pycache__
 Thumbs.db
