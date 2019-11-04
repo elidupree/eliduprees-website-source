@@ -40,12 +40,23 @@ def wrap(html):
     <style>
 @page {
   size: 6in 9in;
-  margin: 0.75in;
+  margin: 0.6in;
+}
+@page :left {
+  margin-right: 0.9in;
+}
+@page :right {
+  margin-left: 0.9in;
 }
 p {
-  margin: 0;
+  font: 12pt "Bitter";
+  margin: 0.1em 0;
   line-height: 1.2em;
   text-indent: 2em;
+  text-align: justify;
+}
+h2 {
+  page-break-before: right;
 }
     </style>
   </head>
