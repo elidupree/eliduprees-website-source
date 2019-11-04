@@ -8,6 +8,8 @@ import subprocess
 import datetime
 import traceback
 
+import weasyprint
+print("WeasyPrint version:", weasyprint.__version__)
 from weasyprint import HTML, CSS
 
 import blog_server_shared
