@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 5",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "authors_notes":'''
 
@@ -49,7 +48,9 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 5: Boundary Crossing", '''<p>Brief description of a sexual assault, and details of a third-party's feelings about it.</p>''') + '''
+  "chapter_title": "Boundary Crossing",
+  "content_warnings":'''<p>Brief description of a sexual assault, and details of a third-party's feelings about it.</p>''',
+  "contents": '''
 
 Yali was even more happy to take a break than I'd thought.
 

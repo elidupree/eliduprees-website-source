@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 2",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "authors_notes":'''
 
@@ -36,7 +35,9 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 2: The Plan", '''<p>Description of anti-gay attitudes; verbally abusive language; brief mention of sexual assault.</p>''') +'''
+  "chapter_title": "The Plan",
+  "content_warnings": '''<p>Description of anti-gay attitudes; verbally abusive language; brief mention of sexual assault.</p>''',
+  "contents": '''
 
 "This is your mind."
 

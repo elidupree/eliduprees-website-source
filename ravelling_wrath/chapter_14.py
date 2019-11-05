@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 14",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
@@ -27,8 +26,8 @@ However, Arinyo Seti had a planned home birth, assisted by a midwife, as has bee
 Even if Yali <em>had</em> imprinted a hospital bed just after birth, ze might not have been able to manifest it without consciously thinking back to when ze was a baby.
 
   ''',
-  "head":head,
-  "contents": chapter_start ("Chapter 14: ", '''<p></p>''') +'''
+  "head":head,  "chapter_title": "",
+  "contents": '''
   
 My eyes followed the point of Justicar's sword hovering in front of me.
 

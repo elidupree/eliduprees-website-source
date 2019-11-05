@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 7",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
@@ -16,7 +15,9 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 7: The Ravellers", '''<p></p>''') +'''
+  "chapter_title": "The Ravellers",
+  
+  "contents": '''
 
 Now that I got a closer look at her, the Justicar wasn't <em>that</em> tall. She had only looked that way because she had been standing above me. Of course, pretty much everyone looks tall to <em>me</em>, but really, she was only about Yali's height.
 

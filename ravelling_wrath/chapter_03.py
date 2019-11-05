@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 3",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "authors_notes":'''
 
@@ -59,7 +58,9 @@ Finally an idea scraped out. It was rough, but I didn't have anything else, so i
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 3: The Ordeal", '''<p>Verbally abusive language; brief descriptions of anti-gay attitudes, sexual harassment, and abusive relationships.</p>''') +'''
+"chapter_title": "The Ordeal",
+"content_warnings":  '''<p>Verbally abusive language; brief descriptions of anti-gay attitudes, sexual harassment, and abusive relationships.</p>''',
+  "contents": '''
 
 "Uuuuughhhh."
 

@@ -8,15 +8,14 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 19",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
 
 
   ''',
-  "head":head,
-  "contents": chapter_start ("Chapter 19: ", '''<p></p>''') +'''
+  "head":head,  "chapter_title": "",
+  "contents": '''
 
 Two bodies lay before me. One dead, one only unconscious, both my doing. One Justicar. One Rinn.
 

@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 18",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
@@ -16,7 +15,8 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 18: Confrontation", '''<p></p>''') +'''
+  "chapter_title": "Confrontation",
+  "contents": '''
 
 The Blood God's Gate nestled my body like a hand in a glove.
 

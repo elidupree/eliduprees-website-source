@@ -8,15 +8,14 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 13",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
 
 
   ''',
-  "head":head,
-  "contents": chapter_start ("Chapter 13: ", '''<p></p>''') +'''
+  "head":head,  "chapter_title": "",
+  "contents": '''
   
 Time moved slowly around me, agonizingly slowly. I didn't understand what was happening. In my vision, in front of me, there was a picture of my blade sticking out of the side of her body's ribcage. That didn't make any sense. It wasn't real.
 

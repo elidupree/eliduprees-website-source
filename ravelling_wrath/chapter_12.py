@@ -8,15 +8,14 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 12",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
 
 
   ''',
-  "head":head,
-  "contents": chapter_start ("Chapter 12: ", '''<p></p>''') +'''
+  "head":head,  "chapter_title": "",
+  "contents": '''
   
   
 It slammed into place. The pattern. The blazing, uncompromising pattern of the Stern.

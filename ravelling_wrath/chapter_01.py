@@ -1,17 +1,12 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-import datetime
 from post_contents_utils import *
 from ravelling_wrath.definitions import *
-
-def contents_link (link, name):
-  return '<div class="table_of_contents_chapter"><a class="chapter_link" href="' + link +'">' + name +'</a> [<a href="' + link +'''/discussion">author's notes</a>]</div>'''
 
 posts = [
 {
   "title":"Ravelling Wrath, chapter 1",
-  "blurb": blurb,
   "blurb_image": "/media/yali-sketch.png?rr",
   "auto_paragraphs": True,
   "authors_notes":'''
@@ -46,38 +41,8 @@ posts = [
 
   ''',
   "head":head,
+  "chapter_title": "Blood Child",
   "contents": '''
-  
-<h2>Table of Contents</h2>
-
-
-'''
-+contents_link("/ravelling-wrath", "Chapter 1: Blood Child")
-+contents_link("/ravelling-wrath/2", "Chapter 2: The Plan")
-+contents_link("/ravelling-wrath/3", "Chapter 3: The Ordeal")
-+contents_link("/ravelling-wrath/4", "Chapter 4: The Releasing Game")
-+contents_link("/ravelling-wrath/5", "Chapter 5: Boundary Crossing")
-+contents_link("/ravelling-wrath/6", "Chapter 6: The Starry Void")
-+
-'''
-<div class="table_of_contents_remaining">To be continued...</div>
-
-Many thanks to <a href="http://www.sarahfensore.com/">Sarah Fensore</a>, who I've talked out my story plans with since the beginning, and who continues to help me edit the individual chapters.
-  
-  <bigbreak>
-  
-Content warnings for Ravelling Wrath as a whole:
-'''+ content_warning_header ('''<p>Ravelling Wrath is a fantasy adventure where the characters face deadly dangers. It also goes deep into their emotional struggles, including issues of abuse, sexual assault, self-harm, and depression. (Or, it will. Not all of those issues are in the chapters I've completed so far.) It also touches on heterosexism and classism.</p>
-
-<p>Each chapter also has a list of content warnings for that chapter specifically.</p>''')+'''
-
-<bigbreak>
-
-<p>(Eli's note: this story is supposed to have more pictures in it, but I haven't been in good shape for drawing. Since I'm not sure when I <em>will</em> be in good shape again, I'm posting it anyway. I've included the one sketch I managed to do last time I was up to it.)</p>
-
-<bigbreak>
-
-<h2>Chapter 1: Blood Child</h2>
 
 "Ow! Fuck."
 

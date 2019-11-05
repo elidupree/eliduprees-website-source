@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 15",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
@@ -16,7 +15,8 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 15: The Scream", '''<p></p>''') +'''
+  "chapter_title": "The Scream",
+  "contents": '''
 
 The Broken God was a god of pleasure and pain, life and death.
 

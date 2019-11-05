@@ -8,15 +8,14 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 11",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
 
 
   ''',
-  "head":head,
-  "contents": chapter_start ("Chapter 11: ", '''<p></p>''') +'''
+  "head":head,  "chapter_title": "",
+  "contents": '''
 
 "Oh, uh, hi, Alchemist," I said awkwardly.
 

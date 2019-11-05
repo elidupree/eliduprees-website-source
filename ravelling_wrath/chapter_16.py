@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 16",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
@@ -16,7 +15,8 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 16: Soulfire", '''<p></p>''') +'''
+  "chapter_title": "Soulfire",
+  "contents": '''
 
 
 I watched Alchemist walk away, waiting until they were fully out of sight. No matter how serious things where, I really didn't want to scare Alchemist more than I already had.

@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 4",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "authors_notes":'''
 <p>I originally intended for this chapter and the next one to be a single chapter. It was going to go all the way up until they enter the Otherworld. But then the last three scenes ended up being way longer than I expected, so I split them off as a whole chapter of their own.</p>
@@ -21,7 +20,9 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 4: The Releasing Game") + '''
+  "chapter_title": "The Releasing Game",
+  
+  "contents": '''
 
 "The first one is the Releasing Game…" she'd said.
 

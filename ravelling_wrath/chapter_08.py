@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 8",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "don't deploy": True,
   "authors_notes":'''
@@ -16,7 +15,8 @@ posts = [
 
   ''',
   "head":head,
-  "contents": chapter_start ("Chapter 8: ", '''<p></p>''') +'''
+  "chapter_title": "",
+  "contents": '''
   
 "So," I said, summarizing the last hour of discussion, "the Alchemist is, like, infinitely far away. They broke their star, and it's not on the pattern anymore. We don't know if they did it on purpose. We don't know if they have any control over where it's going. And <em>we</em> have no way to get off the pattern to follow them, because what they did was probably an Alchemist power. And we have no way to communicate with them. And Yali's power is useless as usual, because apparently the Waiting God still thinks this is part of the challenge. And even if the Alchemist <em>did</em> figure out where we are, and <em>could</em> move their star on purpose, they might crash into us really fast, because they don't have the pattern to slow them down at the right moment. It would be even worse than what happened with Morrow, because, uh…"
 
