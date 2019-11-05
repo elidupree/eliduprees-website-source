@@ -8,7 +8,7 @@ import subprocess
 import datetime
 import traceback
 
-#from num2words import num2words
+from num2words import num2words
 
 import weasyprint
 print("WeasyPrint version:", weasyprint.__version__)
@@ -28,13 +28,13 @@ def chapter_html (chapter):
   contents = utils.auto_paragraphs (chapter ["contents"])
   contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
   contents = f"""
-  <h2>Chapter {chapter ["chapter_number"]}</h2>
+  <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
   <span style="string-set: runningleft '';"></span>
   <span style="string-set: runningright '';"></span>
   <span style="string-set: runningleft 'Ravelling Wrath';"></span>
-  <span style="string-set: runningright 'Chapter {chapter ["chapter_number"]}: {chapter ["chapter_title"]}';"></span>
+  <span style="string-set: runningright 'Chapter {num2words(chapter ["chapter_number"]).capitalize()}: {chapter ["chapter_title"]}';"></span>
   
   """ + re.sub(r"<bigbreak>", '<div class="bigbreak"></div>', contents)
   return contents
@@ -104,7 +104,7 @@ h2 {
   </body>
 </html>'''
 
-full_html = wrap("".join (chapters))
+full_html = wrap("".join (chapters[:3]))
 
 with open (html_path, "w") as file:
   file.write (full_html)
