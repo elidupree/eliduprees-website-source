@@ -109,6 +109,6 @@ Content warnings for Ravelling Wrath as a whole:
 
 <p>(Eli's note: this story is supposed to have more pictures in it, but I haven't been in good shape for drawing. Since I'm not sure when I <em>will</em> be in good shape again, I'm posting it anyway. I've included the one sketch I managed to do last time I was up to it.)</p>
 
-<bigbreak>''' + can they)
+<bigbreak>''' + posts [0] ["contents"])
 
 
