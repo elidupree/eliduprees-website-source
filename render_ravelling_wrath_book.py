@@ -24,12 +24,15 @@ os.makedirs (build_path, exist_ok=True)
 
 def chapter_html (chapter):
   contents = utils.auto_paragraphs (chapter ["contents"])
-  contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, chapter ["title"], False, False)
-  contents = re.sub(r"<bigbreak>", "", contents)
+  contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
+  contents = f"""
+  <h2>Chapter {chapter ["chapter_number"]}</h2>
+  <div class="chapter-title">{chapter ["chapter_title"]}</div>
+  """ + re.sub(r"<bigbreak>", '<div class="bigbreak"></div>', contents)
   return contents
 
 chapters = [
-  chapter_html (chapter) for chapter in ravelling_wrath.main.posts
+  chapter_html (chapter) for chapter in ravelling_wrath.main.chapters
 ]
 
 def wrap(html):
@@ -58,7 +61,17 @@ p {
   text-align: justify;
 }
 h2 {
+  font: 16pt "Bitter";
   page-break-before: right;
+  text-align: center;
+}
+.chapter-title {
+  font: bold 24pt "Bitter";
+  text-align: center;
+  margin-bottom: 1.3em;
+}
+.bigbreak {
+  height: 12pt;
 }
     </style>
   </head>
