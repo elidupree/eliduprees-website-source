@@ -8,6 +8,8 @@ import subprocess
 import datetime
 import traceback
 
+#from num2words import num2words
+
 import weasyprint
 print("WeasyPrint version:", weasyprint.__version__)
 from weasyprint import HTML, CSS
@@ -28,6 +30,12 @@ def chapter_html (chapter):
   contents = f"""
   <h2>Chapter {chapter ["chapter_number"]}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
+  
+  <span style="string-set: runningleft '';"></span>
+  <span style="string-set: runningright '';"></span>
+  <span style="string-set: runningleft 'Ravelling Wrath';"></span>
+  <span style="string-set: runningright 'Chapter {chapter ["chapter_number"]}: {chapter ["chapter_title"]}';"></span>
+  
   """ + re.sub(r"<bigbreak>", '<div class="bigbreak"></div>', contents)
   return contents
 
@@ -43,20 +51,36 @@ def wrap(html):
     <meta charset="utf-8" />
     <title>Ravelling Wrath</title>
     <style>
+body {
+  counter-reset: page;
+}
 @page {
   size: 6in 9in;
   margin: 0.6in;
+  counter-increment: page;
+  @bottom-center {
+    content: counter(page);
+  }
 }
 @page :left {
   margin-right: 0.9in;
+  @top-center {
+    content: "Bar";
+    content: string(runningleft);
+  }
 }
 @page :right {
   margin-left: 0.9in;
+  @top-center {
+    content: "Foo";
+    content: string(runningright);
+  }
 }
 p {
   font: 12pt "Bitter";
-  margin: 0.1em 0;
-  line-height: 1.2em;
+  margin: 0;
+  margin-bottom: 1pt;
+  line-height: 1.25;
   text-indent: 2em;
   text-align: justify;
 }
