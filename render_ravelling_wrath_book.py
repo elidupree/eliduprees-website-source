@@ -26,7 +26,7 @@ os.makedirs (build_path, exist_ok=True)
 
 def chapter_html (chapter):
   contents = utils.auto_paragraphs (chapter ["contents"])
-  contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
+  #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
   contents = f"""
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
@@ -104,7 +104,7 @@ h2 {
   </body>
 </html>'''
 
-full_html = wrap("".join (chapters[:3]))
+full_html = wrap("".join (chapters[:]))
 
 with open (html_path, "w") as file:
   file.write (full_html)

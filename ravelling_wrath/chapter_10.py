@@ -735,7 +735,7 @@ The room in front of us much smaller than the others. I checked the map. "This h
 
 The puzzle in front of us looked really simple. Justicar and I were forced into separate corridors – there was one that you could only enter if you jumped, and one that you could only enter if you walked through fire. On my side, there was a closed door, then a room full of perpetually roaring flames. On Justicar's side, there was also a closed door, but in front of it, there was a button. And that was the whole puzzle, as far as we could see. There was also a place on my side where the corridor branched off, but it just led to a dead end with another flamethrower in it. Why?
 
-"Guess you've got to stand on that button," I said. "I'm literally looking at a closed door here. I can't do anything. "
+"Guess you've got to stand on that button," I said. "I'm literally looking at a closed door here. I can't do anything."
 
 "Understood." Justicar stood on the button. The door on <em>my</em> side slid open, and the flames disappeared from the room beyond. Continuing the routine, she stepped off again to see whether it would stay that way, but it didn't – the doorway closed again and the flames came back. Then she stepped back on, switching them again.
 

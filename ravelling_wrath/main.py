@@ -3,6 +3,7 @@
 
 import re
 
+import utils
 from post_contents_utils import *
 
 import ravelling_wrath.chapter_01
@@ -58,6 +59,25 @@ chapters = flatten([
 
 for index, chapter in enumerate (chapters):
   chapter ["chapter_number"] = index + 1
+  chapter ["contents"] = utils.auto_paragraphs (chapter ["contents"])
+  # Smart quotes cases:
+  # Standard apostrophes:
+  chapter ["contents"] = re.sub(r"\b'\b", "’", chapter ["contents"])
+  
+  def apply_quotes(match):
+    # Single-quotes within standard quotes
+    return re.sub(r"(?<!\w)'(?! )([^'\n]*?)(?<! )'(?!\w)", lambda match2: f"‘{match2.group(1)}’", match.group (1))
+    
+  # Standard quotes:
+  chapter ["contents"] = re.sub(r'(?<![\w=])"(?![ >])([^"\n]*?)(?<![ =])"(?![\w>])', lambda match: f"“{apply_quotes(match)}”", chapter ["contents"])
+  # Unmatched quotes indicating continued dialogue
+  chapter ["contents"] = re.sub(r'(?<![\w=])"(?![ >])([^"\n]*?)(?=</p>)', lambda match: f"“{apply_quotes(match)}", chapter ["contents"])
+  
+  # Word-start apostrophes:
+  chapter ["contents"] = re.sub(r"\B'\b", "’", chapter ["contents"])
+  # Word-end apostrophes:
+  chapter ["contents"] = re.sub(r"\b'\B", "’", chapter ["contents"])
+  
 
 def chapter_to_post (chapter):
   post = chapter.copy()

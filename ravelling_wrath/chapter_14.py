@@ -181,7 +181,7 @@ The moment Justicar was out of sight, Yali rushed to my side, all her grim deter
 
 "Okay, okay…" I let Yali feed me the dregs of the potion. Then she tried to collect up some of the part that had spilled. It was pretty gooey, so she was able to wipe part of the spill from my neck and let me lick it off her fingers. I was almost able to get distracted, just sucking on her fingers, but Yali made me keep paying attention. Still, the potion was definitely making me feel a little better, life oozing back into my body.
 
-Yali examined my wound again. It must have satisfied her, because she settled down from an outright panic to just drawn-out anxiety. "It's enough to keep you alive…" she said uneasily. "I'm sorry, I didn't think of, I, I should have brought a second potion, I – "
+Yali examined my wound again. It must have satisfied her, because she settled down from an outright panic to just drawn-out anxiety. "It's enough to keep you alive…" she said uneasily. "I'm sorry, I didn't think of, I, I should have brought a second potion, I –"
 
 "Look, I'll be fine…" I muttered, straining to speak. "Alchemist can make another… And as long as you're around to kick Justicar's ass if she tries anyth…"
 
