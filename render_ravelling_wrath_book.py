@@ -97,6 +97,34 @@ h2 {
 .bigbreak {
   height: 12pt;
 }
+
+
+
+p,div.clear {
+  clear: both;
+}
+p.text {
+  border-radius: 1.3em;
+  max-width: 60%;
+  text-align: left;
+  text-indent: 0;
+  padding: 6px 12px;
+  margin-top: 6px;
+  margin-bottom: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p.text.right {
+  background-color: #87e520;
+  float: right;
+}
+p.text+p.text {
+  margin-top: -6px;
+}
+p.text.left {
+  background-color: #e5e4e4;
+  float: left;
+}
+
     </style>
   </head>
   <body>
