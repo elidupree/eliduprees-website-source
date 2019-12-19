@@ -3,7 +3,8 @@
 
 import datetime
 
-
+import utils
+import html
 
 posts = [
 {
@@ -174,6 +175,264 @@ When you play the game, you'll start out walking around digging up things like y
   
 And that's Lasercake! I hope that it will help teach people things and move forward our understanding of education and sustainability. And I guess it would also be pretty nice if that knowledge can save the entire human race from rushing cheerfully into their own destruction. 
   ''',
+}, 
+
+
+{
+  "title":"You Don't Know Jack about Performance: the Game Show",
+  "head":'''<style>
+#you-dont-know-jack-about-performance-the-game-show pre {
+  overflow: auto;
+  border: 1px dashed black;
+  padding: 1.2em;
+  margin: 1.8em 0;
+}
+  </style>''',
+  "contents":utils.auto_paragraphs('''
+  
+ANNOUNCER: Welcome, gentle viewers, to day 2 of <em>You Don't Know Jack about Performance</em>! First question: Suppose we iterate through ten million items, divided into linked lists of length L, with the heads in one large array. How will the performance change as we change L?
+
+CONTESTANT: Well, for very short lists, the processor will be able to prefetch all of the elements. But for long lists, the cost will be dominated by memory latency. Therefore, larger L means more time taken.
+
+ANNOUNCER: An excellent answer! Let's see what the Data have to say about it!
+
+THE DATA: <span style="font-family: monospace">*sad trombone*</span>
+
+''')+'''
+<pre>
+Time taken for list length 1: 1.26s (125.66 ns/item, 125 ns/list)
+Time taken for list length 2: 575.71ms (57.57 ns/item, 115 ns/list)
+Time taken for list length 3: 1.34s (134.27 ns/item, 402 ns/list)
+Time taken for list length 4: 1.08s (107.76 ns/item, 431 ns/list)
+Time taken for list length 6: 926.16ms (92.62 ns/item, 555 ns/list)
+Time taken for list length 8: 784.97ms (78.50 ns/item, 627 ns/list)
+Time taken for list length 12: 621.95ms (62.20 ns/item, 746 ns/list)
+Time taken for list length 16: 569.39ms (56.94 ns/item, 911 ns/list)
+Time taken for list length 24: 465.72ms (46.57 ns/item, 1117 ns/list)
+Time taken for list length 32: 418.11ms (41.81 ns/item, 1337 ns/list)
+Time taken for list length 48: 350.14ms (35.01 ns/item, 1680 ns/list)
+Time taken for list length 64: 320.25ms (32.02 ns/item, 2049 ns/list)
+Time taken for list length 96: 277.97ms (27.80 ns/item, 2668 ns/list)
+Time taken for list length 128: 270.64ms (27.06 ns/item, 3464 ns/list)
+Time taken for list length 192: 224.83ms (22.48 ns/item, 4316 ns/list)
+Time taken for list length 256: 222.18ms (22.22 ns/item, 5687 ns/list)
+Time taken for list length 384: 201.32ms (20.13 ns/item, 7730 ns/list)
+Time taken for list length 512: 196.19ms (19.62 ns/item, 10044 ns/list)
+Time taken for list length 768: 192.77ms (19.28 ns/item, 14806 ns/list)
+Time taken for list length 1024: 190.29ms (19.03 ns/item, 19487 ns/list)
+Time taken for list length 1536: 192.33ms (19.23 ns/item, 29543 ns/list)
+Time taken for list length 2048: 187.04ms (18.71 ns/item, 38312 ns/list)
+Time taken for list length 3072: 184.54ms (18.46 ns/item, 56695 ns/list)
+Time taken for list length 4096: 112.18ms (11.22 ns/item, 45955 ns/list)
+Time taken for list length 6144: 111.45ms (11.15 ns/item, 68498 ns/list)
+</pre>
+  '''+utils.auto_paragraphs('''
+  
+ANNOUNCER: Contestant #2, do you have anything to add to Contestant #1's analysis?
+
+CONTESTANT #2: Well, in your test code, you allocated each list all at once. That could have made each list be allocated in contiguous memory, making them easier to iterate. And we might be seeing some effects from the order the tests were done in, like yesterday, although I'm guessing not, because this time all the node allocations are the same size.
+
+ANNOUNCER: Beautiful! Let's rerun the tests, but this time, add nodes to the linked lists one at a time, like a dealer dealing out a pack of cards! And we'll run them in the opposite order, just in case. So, Contestant #2, what do you expect to see?
+
+CONTESTANT #2: Everything will be slower – and the long-list advantage will be reduced, but not eliminated.
+
+ANNOUNCER: A bold conjecture! Let's see what the Data have to say about it!
+
+THE DATA: <span style="font-family: monospace">*victory music*</span>
+  
+  ''')+'''
+<pre>
+Time taken for list length 6144: 832.84ms (83.32 ns/item, 511888 ns/list)
+Time taken for list length 4096: 861.68ms (86.18 ns/item, 353004 ns/list)
+Time taken for list length 3072: 1.90s (189.66 ns/item, 582645 ns/list)
+Time taken for list length 2048: 1.92s (191.92 ns/item, 393042 ns/list)
+Time taken for list length 1536: 1.94s (193.88 ns/item, 297796 ns/list)
+Time taken for list length 1024: 1.96s (196.17 ns/item, 200881 ns/list)
+Time taken for list length 768: 1.97s (196.74 ns/item, 151094 ns/list)
+Time taken for list length 512: 2.04s (203.90 ns/item, 104395 ns/list)
+Time taken for list length 384: 1.98s (198.49 ns/item, 76220 ns/list)
+Time taken for list length 256: 2.10s (210.16 ns/item, 53799 ns/list)
+Time taken for list length 192: 2.12s (212.06 ns/item, 40714 ns/list)
+Time taken for list length 128: 2.05s (205.00 ns/item, 26239 ns/list)
+Time taken for list length 96: 2.03s (203.29 ns/item, 19515 ns/list)
+Time taken for list length 64: 2.09s (208.87 ns/item, 13367 ns/list)
+Time taken for list length 48: 2.08s (207.92 ns/item, 9980 ns/list)
+Time taken for list length 32: 2.12s (211.83 ns/item, 6778 ns/list)
+Time taken for list length 24: 2.22s (221.79 ns/item, 5323 ns/list)
+Time taken for list length 16: 2.22s (221.66 ns/item, 3546 ns/list)
+Time taken for list length 12: 2.31s (230.64 ns/item, 2767 ns/list)
+Time taken for list length 8: 2.43s (242.64 ns/item, 1941 ns/list)
+Time taken for list length 6: 2.55s (254.67 ns/item, 1528 ns/list)
+Time taken for list length 4: 2.82s (282.44 ns/item, 1129 ns/list)
+Time taken for list length 3: 3.09s (308.62 ns/item, 925 ns/list)
+Time taken for list length 2: 3.61s (360.83 ns/item, 721 ns/list)
+Time taken for list length 1: 2.20s (219.54 ns/item, 219 ns/list)
+</pre>
+  '''+utils.auto_paragraphs('''
+  
+ANNOUNCER: And now for the million CPU cycle question: why?
+
+CONTESTANT #2: Total memory loaded. The jump from L=1 to L=2 can be explained by the effect Contestant #1 described, but the system isn't smart enough to benefit from prefetching over more than one link. From L=2 to L=3072, the per-item cost goes down by 47%, but the linked list implementation we're using doesn't store the head item directly in the array – the array stores structs containing head, tail, and len, which adds a fixed overhead equal to one item at the beginning of every list. With this overhead considered, the cost per byte only goes down by 22% over that range.
+
+ANNOUNCER: What about the jump between L=3072 and L=4096?
+
+CONTESTANT #2: Nothing to do with the list length, and everything to do with the number of lists in the array. With a constant array size, there's no jump. And I can't help but notice that L=3072 to L=4096 is the threshold where the array allocation size crosses 65536 bytes.
+
+ANNOUNCER: Maybe you're onto something there! Let's run tests with a constant list length, and varying number of lists, concentrating on numbers of lists that make the array close to 65536 bytes. What do you expect to see?
+
+CONTESTANT #2: Array sizes smaller than 65536 will run the test about twice as fast.
+
+ANNOUNCER: A fascinating theory! Let's see what the Data have to say about it!
+
+THE DATA: <span style="font-family: monospace">*victory music*</span>
+  
+  ''')+'''
+<pre>
+Time taken for 2727 lists of length 4096: 946.69ms (84.75 ns/item, 3.53 ns/byte, 347153 ns/list)
+Time taken for 2728 lists of length 4096: 949.64ms (84.99 ns/item, 3.54 ns/byte, 348106 ns/list)
+Time taken for 2729 lists of length 4096: 974.79ms (87.21 ns/item, 3.63 ns/byte, 357196 ns/list)
+Time taken for 2730 lists of length 4096: 2.06s (184.16 ns/item, 7.67 ns/byte, 754323 ns/list)
+Time taken for 2731 lists of length 4096: 2.06s (183.99 ns/item, 7.66 ns/byte, 753624 ns/list)
+Time taken for 2732 lists of length 4096: 2.07s (184.66 ns/item, 7.69 ns/byte, 756348 ns/list)
+</pre>
+  '''+utils.auto_paragraphs('''  
+
+ANNOUNCER: Well, then, perhaps we'll have to revise some of our earlier analysis! Let's run the tests again, but this time, store the linked lists in an array of arrays – so that each individual allocation holds only the square root of the number of lists, rather than the full number of lists. Contestant #2, what do you expect to see then?
+
+CONTESTANT #2: Everything will be faster than last time - with shorter lists getting more of a bonus. With the large-allocation disadvantage gone, there won't be a jump between L=3072 and L=4096, and everything will have a similar per-byte cost, except L=1, which will be faster for the same reason as before.
+
+ANNOUNCER: Beautiful! Let's see what the Data have to say about it!
+
+THE DATA: <span style="font-family: monospace">*sad trombone*</span>
+  
+  ''')+'''
+<pre>
+Time taken for 9998244 lists of length 1: 85.44ms (8.55 ns/item, 0.18 ns/byte, 8 ns/list)
+Time taken for 4999696 lists of length 2: 60.53ms (6.05 ns/item, 0.17 ns/byte, 12 ns/list)
+Time taken for 3330625 lists of length 3: 50.76ms (5.08 ns/item, 0.16 ns/byte, 15 ns/list)
+Time taken for 2499561 lists of length 4: 47.81ms (4.78 ns/item, 0.16 ns/byte, 19 ns/list)
+Time taken for 1664100 lists of length 6: 43.88ms (4.39 ns/item, 0.16 ns/byte, 26 ns/list)
+Time taken for 1249924 lists of length 8: 43.26ms (4.33 ns/item, 0.16 ns/byte, 34 ns/list)
+Time taken for 624100 lists of length 16: 49.64ms (4.97 ns/item, 0.19 ns/byte, 79 ns/list)
+Time taken for 416025 lists of length 24: 53.63ms (5.37 ns/item, 0.21 ns/byte, 128 ns/list)
+Time taken for 312481 lists of length 32: 75.01ms (7.50 ns/item, 0.30 ns/byte, 240 ns/list)
+Time taken for 207936 lists of length 48: 313.08ms (31.37 ns/item, 1.28 ns/byte, 1505 ns/list)
+Time taken for 156025 lists of length 64: 311.63ms (31.21 ns/item, 1.28 ns/byte, 1997 ns/list)
+Time taken for 103684 lists of length 96: 363.19ms (36.49 ns/item, 1.50 ns/byte, 3502 ns/list)
+Time taken for 77841 lists of length 128: 357.48ms (35.88 ns/item, 1.48 ns/byte, 4592 ns/list)
+Time taken for 38809 lists of length 256: 369.60ms (37.20 ns/item, 1.54 ns/byte, 9523 ns/list)
+Time taken for 19321 lists of length 512: 408.02ms (41.25 ns/item, 1.72 ns/byte, 21117 ns/list)
+Time taken for 9604 lists of length 1024: 436.45ms (44.38 ns/item, 1.85 ns/byte, 45444 ns/list)
+Time taken for 4761 lists of length 2048: 489.26ms (50.18 ns/item, 2.09 ns/byte, 102764 ns/list)
+Time taken for 3249 lists of length 3072: 524.33ms (52.53 ns/item, 2.19 ns/byte, 161382 ns/list)
+Time taken for 2401 lists of length 4096: 492.44ms (50.07 ns/item, 2.09 ns/byte, 205096 ns/list)
+Time taken for 1600 lists of length 6144: 814.67ms (82.87 ns/item, 3.45 ns/byte, 509168 ns/list)
+</pre>
+  '''+utils.auto_paragraphs('''  
+ANNOUNCER: Contestant #3, do you have anything to add to Contestant #2's analysis?
+
+CONTESTANT #3: Would you look at that – very similar per-byte cost for everything from L=1 up to L=16. Our test machine has 64-bit-width, 1333-1600 MT/s memory, meaning that the minimum POSSIBLE ns/byte would be around 0.094 ns/byte - faster if you can use all 3 memory modules in parallel, but also slower, because for each node, we have to fetch a whole cache line of 64 bytes instead of just the 24 bytes the node actually takes up. Multiplying 0.094 by 64/24 gets us 0.25, nearly twice as long as it actually took – and we can't keep nearly all of the 240MB in our 6MiB L3 cache, so it follows that the operations are memory-throughput-bound, and the tests are using the throughput of multiple memory modules. It follows that anywhere up to the 16-32 range, the processor IS able to prefetch enough links in parallel that latency is not the bottleneck. On the other hand, as we reach very high list lengths, we bottleneck on memory latency at about 81.6ns per cache line. A very encouraging result for balanced-tree data structures, which are traditionally questioned because of their chained memory accesses, but rarely have a depth greater than 32 – so they can make use of full memory throughput as long as you can know which search will come next before the first search finishes.
+
+ANNOUNCER: How do you explain the jump between L=32 and L=48?
+
+CONTESTANT #3: That's a good question. I would expect to see a more uniform dropoff, as it reaches the limits of how far ahead the processor will prefetch. But, given that the length is known ahead of time – maybe the compiler gives a hint about whether to prefetch head of the next list, and if we're going to do more than 32 sequential lookups first, it thinks there's no point?
+
+ANNOUNCER: So if we looked at the results for all lengths between L=32 and L=48, what would you expect to see?
+
+CONTESTANT #3: A sharp dropoff somewhere – perhaps right after 32 – followed by uniform results near the same 31 ns/item mark that it hits at L=48.
+
+ANNOUNCER: Let's see what the Data have to say about it!
+
+THE DATA: <span style="font-family: monospace">*sad trombone*</span>
+  
+  ''')+'''
+<pre>
+Time taken for 312481 lists of length 32: 77.20ms (7.72 ns/item, 0.31 ns/byte, 247 ns/list)
+Time taken for 302500 lists of length 33: 322.55ms (32.31 ns/item, 1.31 ns/byte, 1066 ns/list)
+Time taken for 293764 lists of length 34: 130.13ms (13.03 ns/item, 0.53 ns/byte, 442 ns/list)
+Time taken for 285156 lists of length 35: 322.30ms (32.29 ns/item, 1.31 ns/byte, 1130 ns/list)
+Time taken for 277729 lists of length 36: 274.03ms (27.41 ns/item, 1.11 ns/byte, 986 ns/list)
+Time taken for 269361 lists of length 37: 136.09ms (13.66 ns/item, 0.55 ns/byte, 505 ns/list)
+Time taken for 262144 lists of length 38: 381.62ms (38.31 ns/item, 1.56 ns/byte, 1455 ns/list)
+Time taken for 256036 lists of length 39: 238.72ms (23.91 ns/item, 0.97 ns/byte, 932 ns/list)
+Time taken for 250000 lists of length 40: 200.26ms (20.03 ns/item, 0.81 ns/byte, 801 ns/list)
+Time taken for 243049 lists of length 41: 294.21ms (29.52 ns/item, 1.20 ns/byte, 1210 ns/list)
+Time taken for 237169 lists of length 42: 300.78ms (30.20 ns/item, 1.23 ns/byte, 1268 ns/list)
+Time taken for 232324 lists of length 43: 141.42ms (14.16 ns/item, 0.58 ns/byte, 608 ns/list)
+Time taken for 226576 lists of length 44: 331.91ms (33.29 ns/item, 1.36 ns/byte, 1464 ns/list)
+Time taken for 221841 lists of length 45: 303.29ms (30.38 ns/item, 1.24 ns/byte, 1367 ns/list)
+Time taken for 217156 lists of length 46: 341.57ms (34.19 ns/item, 1.39 ns/byte, 1572 ns/list)
+Time taken for 212521 lists of length 47: 288.47ms (28.88 ns/item, 1.18 ns/byte, 1357 ns/list)
+Time taken for 207936 lists of length 48: 332.36ms (33.30 ns/item, 1.36 ns/byte, 1598 ns/list)
+</pre>
+  '''+utils.auto_paragraphs('''  
+
+ANNOUNCER: And there you have it, folks! No matter how much you know, you can still find a way to be wrong. Every night, on <em>You Don't Know Jack about Performance</em>.
+  
+
+<bigbreak> 
+
+Notes:
+
+I'm sure there's a bunch of interesting follow-ups I could do on this post. Unfortunately, at the time of this writing, I'm having a lot of fatigue due to my cyclic depression. I'm handling it okay, but I don't think I can afford to spend more energy on this, so this will have to be its final form for now.
+
+Here's the final test code (written in Rust):''') +'''
+
+<pre>'''+html.escape('''
+use rand::prelude::*;
+use std::time::Instant;
+use std::collections::{HashSet, BTreeSet, LinkedList};
+
+fn benchmark_array_of_lists(size: usize, buckets: Option <usize>) {
+  let array_size = (buckets.unwrap_or (10_000_000/size) as f64).sqrt().floor() as usize;
+  let num_buckets = array_size*array_size;
+  let num_items = num_buckets *size;
+  let num_bytes = num_buckets *24 + num_items*24;
+  let mut buckets: Vec<Vec<LinkedList <u64>>> = (0..array_size).map (|_| (0..array_size).map (|_| (0..1u64).collect()).collect()).collect();
+  
+  for i in 0..size {
+    for bucket in &mut buckets {
+      for list in bucket {
+        list.push_back(i as u64);
+      }
+    }
+  }
+  buckets.shuffle (&mut rand::thread_rng());
+
+  let before = Instant::now();
+  
+  let mut result: u64 = 0;
+  for bucket in &buckets {
+    for list in bucket {
+      for value in list {
+        result += value;
+      }
+    }
+  }
+  
+  let elapsed = before.elapsed();
+  let nanos = elapsed.as_nanos();
+  println!( "Time taken for {} lists of length {}: {:.2?} ({:.2} ns/item, {:.2} ns/byte, {} ns/bucket) {}", num_buckets, size, elapsed, nanos as f64/num_items as f64, nanos as f64/num_bytes as f64, nanos/num_buckets as u128, result);
+}
+
+
+fn main() {
+  for x in (0..32).rev() {
+    benchmark_array_of_lists(((1<<((x+1)>>1)) + (1<<((x+2)>>1)))>>1, None);
+  }
+  
+  /*(for x in (32..=48).rev() {
+    benchmark_array_of_lists(x, None);
+  }*/
+  
+  /*for x in (2727..2733) {
+    benchmark_array_of_lists(4096, Some(x));
+  }*/
+}
+''')+'''
+</pre>
+
+''' ,
 }, 
 ]
 
