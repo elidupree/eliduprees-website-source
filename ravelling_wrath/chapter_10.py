@@ -315,9 +315,9 @@ Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I 
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
-Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had caused it to happen. I had been a star student, working hard and earning top marks, but I took it for granted. I always wanted more. To fill that void, I reached out in every direction except the one that would truly restore me. I experimented with every kind of drug I could get my hands on, I had sex with many different men –"
+Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had caused it to happen. I had been a star student, working hard and earning top marks, but I took it for granted. Even knowing how much my parents had suffered to make sure I would have a better life than they did, I always wanted more. To fill that void, I reached out in every direction except the one that would truly restore me. I experimented with every kind of drug I could get my hands on, I had sex with many different men –"
 
-Well <em>that</em> I knew how to respond to. "Haha, that's where you went wrong. Shoulda had sex with girls instead."
+Well <em>that</em> was something I knew how to respond to. "Haha, that's where you went wrong. Shoulda had sex with girls instead."
 
 Justicar looked a little frustrated.
 
@@ -481,7 +481,7 @@ In the next puzzle, all of the walls and levers and flamethrowers and stuff were
 
 "This is no fair!" I said. "I thought the Seeking God wanted us both to be solving puzzles! It should have given the secret key to <em>me</em>, because you're the one who's better at the logic part! Then we'd be even!"
 
-"It <em>does</em> seem unfair…" said Justicar thoughtfully. "The Seeking God must have some purpose, but I do not see it. Now, you <em>can</em> still participate if…" She tried to manifest a copy of the diagram, but the puzzle didn't allow it. After that failed, she tried to work with me by explaining some of the information on the diagram. I tried to follow along, but it was hopeless. Justicar was describing a whole bunch of shapes and lines and colors and directions, and every time I thought I knew what it looked like, she said I have gotten is all wrong.
+"It <em>does</em> seem unfair…" said Justicar thoughtfully. "The Seeking God must have some purpose, but I do not see it. Now, you <em>can</em> still participate if…" She tried to manifest a copy of the diagram, but the puzzle didn't allow it. After that failed, she tried to work with me by explaining some of the information on the diagram. I tried to follow along, but it was hopeless. Justicar was describing a whole bunch of shapes and lines and colors and directions, and every time I thought I knew what it looked like, she said I had gotten is all wrong.
 
 "Look, how about you just figure out whether things should go, and tell me where to put them?" I said.
 
@@ -495,7 +495,7 @@ Justicar was still thinking. Idly, I put a bunch of trapdoors in a row to see ho
 
 And then I was back at the start of the puzzle. Now that I thought of it, none of <em>these</em> puzzles had used the trick where you fell in a hole on purpose. I started wondering how you'd set things up to make that be the solution. Before long, I was sliding the walls and trapdoors around, putting together a simple puzzle based on that concept.
 
-And hour later, I kicked the last wall into place and double checked to make sure my puzzle was just how I wanted.
+An hour later, I kicked the last wall into place and double checked to make sure my puzzle was just how I wanted.
 
 "Hey Justicar! Justicar!"
 
@@ -581,7 +581,7 @@ Justicar smiled patiently. "– But I won't allow myself to be sidetracked again
 
 "I said that I <em>am</em> not a police officer," she said with a tight smile. "I was dismissed from the force. The official records would tell you that it was for obstructing the duties of my fellow officers. But as I prefer to see it, I was dismissed from the police force <em>for enforcing the law</em>."
 
-"Okay, there's gotta be quite a story behind <em>that</em> one."
+"Okay, there's gotta be a good story behind <em>that</em> one."
 
 "There is.
 
