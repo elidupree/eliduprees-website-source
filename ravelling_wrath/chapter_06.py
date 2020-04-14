@@ -23,7 +23,7 @@ posts = [
 
   ''',
   "head":head,
-"chapter_title": "The Starry Void",
+  "chapter_title": "The Starry Void",
   "content_warnings": '''<p>Verbal abuse.</p>''',
   "contents": '''
 
@@ -59,7 +59,7 @@ Yali gently pushed me away. "Why don't you take a look around? I'll be up in a m
 
 "Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff. Well, first, I pulled off the hoodie Yali had given me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. Now in just my shirt, I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
 
-Now that I was more refreshed, I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about 15 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
+Now that I was more refreshed, I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about fifteen meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
 
 I couldn't even see anything else over the edges of the platform. I carefully knelt down at the edge and looked over… and saw <em>more</em> stars stretching out endlessly below us.
 
@@ -111,7 +111,7 @@ Yali frowned. "I did. There's never been a computer here before, it's always bee
 
 "What's so funny?" I said. Yali kept laughing. "Hey! Don't leave me out of the loop here!"
 
-She barely contained herself. "Oh I get it now… It was never a bookshelf, it was 'a vast collection of ancient knowledge'! And it's constructed based on our assumptions, so maybe people USED to think that meant a bunch of books, but the place <em>we'd</em> look for ancient knowledge is –"
+She contained herself. "Oh I get it now… It was never a bookshelf, it was 'a vast collection of ancient knowledge'! And it's constructed based on our assumptions, so maybe people USED to think that meant a bunch of books, but the place <em>we'd</em> look for ancient knowledge is –"
 
 "– on the Internet," we finished together. I grinned. "Hey, does that mean we'll have internet here?"
 
