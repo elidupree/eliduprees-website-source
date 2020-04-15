@@ -8,7 +8,6 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 6",
-  "blurb": blurb,
   "auto_paragraphs": True,
   "authors_notes":'''
 
