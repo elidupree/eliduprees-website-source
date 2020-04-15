@@ -408,7 +408,6 @@ I wasn't going to let a little nausea get the better of me. I immediately got up
 
 "Check it out," I said, tossing one of the balls I'd found at Yali. "All those balls just went rolling off the edge and we never thought about what happened to them!"
 
-"Yeah, that's pretty cool," said Yali. But she wasn't really paying attention. She'd probably seen this all before, Stern take it.
 
 "Yeah, so, uh, I guess I can go hang out on the other side now. So I won't disturb you."
 
@@ -420,7 +419,7 @@ So I ended up spending a lot of time sitting around feeling sour about things. A
 
 <bigbreak>
 
-I woke up on the eighth day. Not that I had slept exactly eight times since we started. With no sun and no society, we hadn't really been keeping a 24-hour cycle. But judging by my phone, it was officially more than a week since we had gotten here.
+I woke up on the eighth day. Not that I had slept exactly eight times since we started. With no sun and no society, we hadn't really been keeping a twenty-four-hour cycle. But judging by my phone, it was officially more than a week since we had gotten here.
 
 I didn't even want to get up. It was just going to be another fucking day like all the others.
 

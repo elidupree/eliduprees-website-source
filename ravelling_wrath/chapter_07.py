@@ -45,7 +45,7 @@ Yali spoke again, matching the Justicar's severe tone. "Rinn is no ordinary Bloo
 
 "Then I will explain. Through your connection with the Stern God, you have received the knowledge that the Blood God would endanger me. But the Blood God's will is very different from <em>Rinn's</em> will. She has no intention of acting on the Blood God's violence."
 
-The Justicar's face flickered with doubt. "A nonviolent Blood Child…" she mused. Well, I wouldn't exactly call myself <em>nonviolent</em>, but I wasn't going to mention that in front of <em>her</em>. "But she still represents the rejuvenation of the Blood God. If it regains its strength…"
+The Justicar's face flickered with doubt. "A nonviolent Blood Child…" she mused. Well, I wouldn't exactly have called myself <em>nonviolent</em>, but I wasn't going to mention that in front of <em>her</em>. "But she still represents the rejuvenation of the Blood God. If it regains its strength…"
 
 "Then it will rejuvenate from <em>Rinn's</em> soul. It will be influenced by her, just as much as it tries to influence others," said Yali. The Justicar hesitated. "I know it may be hard to understand, but you will understand in time. For now, I ask that you support me in handling the Blood Child how I have chosen." Yali held out her hand again.
 
