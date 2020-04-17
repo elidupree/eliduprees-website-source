@@ -623,9 +623,17 @@ As we tumbled through space, she put her mouth close to my ear. She spoke quietl
 
 "Justicar?" I muttered back.
 
-"It's very significant that she trusts us enough to let us be alone together, too far away for her to intervene if something goes wrong. It's funny, the more I challenge her, the more she respects me. But still… we can't be too careful."
+"It's very significant that she trusts us enough to let us be alone together, too far away for her to intervene if something goes wrong. It hasn't been easy for me to keep us on her good side when I can't use Hiram –"
 
-"What is it?"
+"Can't use what?"
+
+"Hiram. One of the old Farseers. He was a teacher, he was great at knowing what to say to calm down kids who were upset, so when I don't know what to say, I think back to what he would say. I'm not actually good at being reassuring, but <em>he</em> is. His skills are useful for you and Morrow and Alchemist, but in all the futures where I try them on Justicar, it just makes her trust me less. The only thing that makes her respect me is when I directly contradict her."
+
+"Oh come on," I laughed, "how come <em>I</em> don't get credit for contradicting her?"
+
+"That's different," said Yali. I didn't press the issue. "But that's not the important thing."
+
+"Right. What is it?"
 
 "We're going to reach the portals soon. When you enter the next layer, there'll be more of the Blood God in you. And we might get split up for a while. So… I'll need you to keep checking yourself. Notice if the Blood God starts having more influence on you."
 
@@ -641,8 +649,7 @@ I grinned. "I love you so much." I flew up so our heads were level with each oth
 
 <bigbreak>
 
-Pretty soon, we realized it wasn't actually fun flying this high up. It was all just empty space up here, so we couldn't even tell when we were moving.
-So we both dropped back towards the star. I figured out that I could go even faster by just falling instead of flying at my top speed, but Yali made me fly at the regular speed, just to be safe.
+Pretty soon, we realized it wasn't actually fun flying this high up. It was all just empty space up here, so we couldn't even tell when we were moving. So we both dropped back towards the star. I figured out that I could go even faster by just falling instead of flying at my top speed, but Yali made me fly at the regular speed, just to be safe.
 
 As we got back near the star, I spotted Morrow lying in a hammock. He clapped loudly as we got close. "Aaaaand here they come again, back from their sky adventure! The great – the great – hey, what's y'all ship name??"
 
