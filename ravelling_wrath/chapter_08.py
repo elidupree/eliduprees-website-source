@@ -627,7 +627,11 @@ As we tumbled through space, she put her mouth close to my ear. She spoke quietl
 
 "Can't use what?"
 
-"Hiram. One of the old Farseers. He was a teacher, he was great at knowing what to say to calm down kids who were upset, so when I don't know what to say, I think back to what he would say. I'm not actually good at being reassuring, but <em>he</em> is. His skills are useful for you and Morrow and Alchemist, but in all the futures where I try them on Justicar, it just makes her trust me less. The only thing that makes her respect me is when I directly contradict her."
+"Hiram. One of the old Farseers. He was a teacher, he was great at knowing what to say to calm down kids who were upset, so when I don't know what to say, I think back to what he would say. I'm not actually good at being reassuring, but <em>he</em> is."
+
+The name <em>Hiram</em>… someone who knew how to be reassuring… Something tugged at my heart, a shadow of regret. But I couldn't place it.
+
+Yali went on, "His skills are useful for you and Morrow and Alchemist, but in all the futures where I try them on Justicar, it just makes her trust me less. The only thing that makes her respect me is when I directly contradict her."
 
 "Oh come on," I laughed, "how come <em>I</em> don't get credit for contradicting her?"
 

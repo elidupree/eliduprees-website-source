@@ -54,7 +54,7 @@ I ought to get up, I thought. My back was killing me. I <em>really</em> ought to
 
 What had happened to me?
 
-I had never felt like this before. Up to this point, the Ravelling had been… not always fun… but I had basically felt the way I would normally feel about all of it. But this… I had never felt like this before in my life. Listlessly, I tried lifting up a hand and making a fist. It didn't even feel like my hand. The fist didn't feel kickass. It was just… <em>a</em> hand that happened to be connected to my arm.
+I had never felt like this before. Up to this point, the Ravelling had been… not always fun… but I had basically felt the way I would normally feel about all of it. But this… I had never felt like this before in my life. Listlessly, just to try it, I lifted up a hand and made a fist. It didn't even feel like my hand. The fist didn't feel kickass. It was just… <em>a</em> hand that happened to be connected to my arm.
 
 I dropped my arm down to the floor again. If I didn't get to feel anything, what was the point of even getting up? Even the rhythm of my heart only felt like a distant echo.
 
@@ -92,7 +92,7 @@ I presented myself before the statues again. They seemed to acknowledge my prese
 
 Normally, I would have fought against it. But now, I didn't even care anymore. <em>Joke's on you, Stern God. You can't humble me when I don't give a shit in the first place.</em>
 
-I bowed. The statues stood aside approvingly.
+I bowed. The statues stood aside with approval.
 
 I stumbled forward, in the Stern uniform, down the Stern corridor, leaving everything behind me.
 
@@ -110,7 +110,7 @@ In the mire of guilt, I stopped struggling and just lay there. The sides of my e
 
 Slowly, the gravity let me rise again. I dragged my leaden body to its feet, badly shaken. Could the Stern God just <em>do</em> that to me? I looked up at the wall where I had just fallen. At the thought of trying to climb again, I shuddered and shied away.
 
-Defeated, I walked and walked. There were no forks in the corridor, only a long, straight hallway. After a while, it ended in another door, also flanked by the same grim statues. So far to walk, for so much the same. I stumbled towards them. As I came before them, my body was burdened down with an overpowering demand to go down on my knees. I sank to the floor. The statues approved. They allowed me to pass them, crawling on hands and knees.
+Defeated, I walked and walked. There were no forks in the corridor, only a long, straight hallway. After a while, it ended in another door, also flanked by the same grim statues. It had been so far to walk, for so much the same. I stumbled towards them. As I came before them, my body was burdened down with an overpowering demand to go down on my knees. I sank to the floor. The statues approved. They allowed me to pass them, crawling on hands and knees.
 
 Two rows of statues stood over me as I crawled, as if I was being forced to humiliate myself in front of a crowd. I didn't even want to look up at them. I just kept my eyes to the floor and crawled along without thinking about it.
 
@@ -176,7 +176,7 @@ A slow, cold dawning of realization settled over me. Each of us was forced to sa
 
 Well, I had to get through this one way or another. I set off on the Imminent's Path again.
 
-The easiest way to handle the Imminent's Path was just to let my senses go dull. Every time I felt something move behind me, I just let the feeling echo off of me without really processing it. It all just passed over me meaninglessly.
+The easiest way to handle the Imminent's Path was just to let my senses go dull. Every time I felt something move behind me, I just let the feeling echo off of me without really listening to it. It all just passed over me meaninglessly.
 
 Loud and sudden noises. Slow feelings of unease. Flickering, colored lights seeming to shine from behind. But none of it really got through to me. It wasn't the <em>real</em> Seeking God, anyway. All these weak imitations just slid off of me and faded into the background. They just blended into the hard and droning sounds of my feet as my body kept lurching forward.
 
