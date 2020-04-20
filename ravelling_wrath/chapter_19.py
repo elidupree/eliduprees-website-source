@@ -456,7 +456,7 @@ If only I could still talk to her! But I had left her unconscious. Why had I don
 
 Why??!
 
-But I knew why. My Waiting side would never leave me, never let me forget the truth. Even though I was overwhelmed by pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> It had seemed like a perfect solution. After Justicar was dealt with and Rinn was unconscious, there would be no reason left that either of us would die. At that moment, it was the only thing I'd thought about. Once I found a future where neither of us died, I had called it a success. I hadn't looked further than that.
+But I knew why. My Waiting side would never leave me, never let me forget the truth. Even though I was overwhelmed by pain, I could not help but think of the answer: <em>I had done it to make sure we would survive.</em> It had seemed like a perfect solution. After Justicar was dealt with and Rinn was unconscious, there would be no reason left that either of us would die. At that moment, it was the only thing I'd thought about. Once I found a future where neither of us died, I had called it a success. I hadn't looked further than that.
 
 But now that it was over, now that I had a chance to think about what to do now… There were a lot of other things I wanted, more than just… <em>not dying</em>.
 
@@ -474,13 +474,19 @@ I had made a mistake. Now I had to think about what to do next.
 
 I decided to think on my feet. I didn't <em>want</em> to do the work of walking, but I would have to do it eventually, and it gave me something to occupy my mind other than revisiting all my own mistakes.
 
-The idea came to me as I hauled Rinn passed a crumbling temple. When Rinn had been speaking for the Blood God, she had been so upset about the destruction of what she called "my temple". Less than a lifetime ago, the Blood Temple had existed. There had been an entire <em>temple</em> full of priests who could give me the insight I needed, who had understood and valued the ways of the Blood God. A temple the Waiting God had gone to such great lengths to disempower.
+The road went on and on. The pulsing of the sun – the heart – felt different now. It was almost an invitation, an invitation I had no idea how to answer, one that made me ache to my bones.
 
-Of course, all of that was in the past now.
+And then, I saw something that made me pause and turn to the side.
 
-But I was the Farseer. To me, the past wasn't so far away. I had sixty-eight lifetimes' worth of memories to draw on.
+A crumbling temple rose above the street. Of all the gods, only the Blood God had represented literal temples in its world. The Waiting God – perhaps all the other gods – had viewed their temples as mere reflections. But to the Blood God, the Blood Temple was something vital. From our very first day in the Otherworld, Rinn had shown anger about its loss. A loss we still did not fully understand.
 
-It was time for me to learn what the Blood Temple really was.
+My gaze fell on the arch of the temple gate. Some unknown temptation drew my eyes upwards over the cracked stones. At the top of the arch was engraved the Burning Heart – the Blood God's sigil, the sigil that was now illegal to display throughout the city and its territories.
+
+The Burning Heart… I felt an overpowering need to keep looking. Memories crowded into my mind, love and hatred and regret. I was a farmer coming through this gateway to pray for the health of my livestock. I was a librarian coming to the funeral of a priest. I was Garthold Brannet, here to argue a case in Blood court. I was Hiram Soleocchi, returning home to a temple much like this one.
+
+I shivered. These were the memories I had tried so hard to find, the ones the Waiting God had been hiding from me. And now, without fanfare, they were suddenly laid bare. For a moment, I wondered why. But then, with a second shiver, it became clear. My connection with the god was still drained. Just as I had lost access to the Seeing, the god had lost access to lay its guidance over the memories that were stored inside the Farseer. I could dig through the memories for answers now, and nothing would be able to stop me.
+
+It was finally my chance to learn what the Blood Temple really was.
 
 ''',
 },
