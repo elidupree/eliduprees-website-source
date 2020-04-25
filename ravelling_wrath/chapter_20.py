@@ -266,7 +266,13 @@ She fixed me with a steely glare. "Caretakers are the beating heart of the city,
 
 Hiram felt encouraged when he heard that. As Yali, it was bittersweet. Unfortunately, the Blood Temple had fallen before Hiram had been able to live a full life as part of it… Unfortunately? When had I started unconsciously taking the side of the Blood Temple? True, that was what I <em>wanted</em> to happen, but I had been expecting to make a conscious choice. Not to just have it… sneak in, without my permission.
 
-I still didn't even know the full story about how the Blood Temple fell. Maybe it was time to go back to Brannet. Yes… Hiram had cleared my head, and I could put up with him for a while longer. The case he was on had definitely been related to the fall. I thought back to the pretrial hearing again.
+The neighborhood council and the businesspeople… Was this the same event as I had seen in the Waiting God's memory? Literally speaking, it probably wasn't. In the vastness of the god, there must have been thousands of meetings like that one. Thousands of meetings where… where companies from the upper layers had tried to bring their idea of progress to the fifth layer. Progress that the Waiting God had seen as a stepping stone along the path to achieve true order.
+
+To <em>contribute to the order of the city</em>…
+
+It was connected. The process had already begun in Hiram's youth, and it was the same process that, decades later, steered Garthold Brannet into his ill-fated court case.
+
+I needed to know the end. I steeled myself to put up with Brannet's memories once again.
 
 <bigbreak>
 
@@ -312,7 +318,7 @@ As Yali, I concentrated, trying to sort out my own thoughts. In Brannet's memori
 
 The contrast didn't feel so unsettling now that I knew it was just Brannet's sexism. I returned to the memories.
 
-I never liked to think back to the time right after the hearing. When Mr. Tully fired me, he scheduled a full hour just to yell at me for bringing the Blood Temple's attention against us. Did he ever apologize for ordering me to do it in the first place? Did I ever get an apology from Hatheraw & Green after it ultimately worked out in their favor? Of course not.
+I never liked to think back to the time right after the hearing. When Mr. Tully fired me, he scheduled a full hour just to yell at me for bringing the Blood Temple's attention against us. Did he ever apologize for ordering me to do it in the first place? Did I ever get an apology from Hatheraw & Green after the fallout ultimately ended in their favor? Of course not.
 
 But I did watch the news like a hawk. I had expected the case to fade into obscurity after Hatheraw & Green rejected the Blood Temple's demands… but only the Waiting knows the end. The Blood Temple had no authority to compel testimony from Hatheraw & Green executives, but they did have authority over the fifth layer, where Hatheraw & Green had two storefronts. And they must have been waiting for an excuse to act, because they <em>banned</em> Hatheraw & Green from the fifth layer and seized the two storefronts. Hatheraw & Green appealed to the Stern to protect their assets. And that was where things got complicated.
 
@@ -334,7 +340,9 @@ It was hardly a grand design. Like so many things, it was a messy sequence of ev
 
 How disorganized I was being, to protest against something that was unavoidable.
 
-We went back and forth like this for a few minutes. The Waiting God's thoughts felt so true, it was hard to make them doubtful. I shouldn't have rushed into questioning it without getting my own thoughts in order. In the end, I purposefully let myself think impatient thoughts, to get myself out of the mindset of the god. I just wanted something that would let me think about the Blood Temple without putting all this dismissiveness in my head. I switched back to Hiram.
+We went back and forth like this for a few minutes. The Waiting God's thoughts felt so true, it was hard to make them doubtful. Was the Blood Temple really so important? Even as Yali, I couldn't say that the Blood Temple's laws seemed so much better than the other temples, just different. I couldn't fight the Waiting God's certainty with thoughts like <em>the Blood Temple was okay I guess</em>. I needed something more. And there was only one place I might be able to get it. I blocked out the god's thoughts and dived back into Hiram's memories.
+
+The memories were harder to reach this time, but the Waiting God wasn't fully present yet. And now that I had seen so many of them, I knew where to look. I would still be able to view them for a while longer.
 
 
 
@@ -342,7 +350,7 @@ We went back and forth like this for a few minutes. The Waiting God's thoughts f
 
 I would like to think that I never truly left the Blood Temple. All of my social circles were built around it, and even as my Temple friends brought me grimmer and grimmer news of what was happening in my absence, there was never a moment when I stopped thinking of it as <em>my temple</em>. But the physical temple had become a dangerous place to be. When the Circle of Elders had announced their declaration of war, they had asked for the aid of all who would fight in defense of the Temple, and they had asked those who would not fight to stay at home to protect themselves and their families. And I knew which of those was me.
 
-When the Stern captured our high priest, everyone had a different opinion about who was the legitimate successor. It shouldn't have mattered, because the role of high priest was a formality – no one person can have too much power. But even in the Blood Temple, people have a weakness for hero-worship. It didn't help that the Stern Temple insisted on acknowledging the acting high priest, who wanted to negotiate with the Stern, instead of the one the Circle appointed to replace him. It should have been obvious that the Stern were trying to pit us against each other. But there were fights. Friends accused friends of betrayal. I did what I could to mend feelings, but the temple I had loved was falling apart. I wished I could go back to the time when I could just teach the children how to take care of their bodies, and how to live by the Blood ways. At least then I have been able to feel like the next generations would live better lives than we had.
+When the Stern captured our high priest, everyone had a different opinion about who was the legitimate successor. It shouldn't have mattered, because the role of high priest was a formality – no one person can have too much power. But even in the Blood Temple, people have a weakness for hero-worship. It didn't help that the Stern Temple insisted on acknowledging the Acting High Priest, who wanted to negotiate with the Stern, instead of the one the Circle appointed to replace him. It should have been obvious that the Stern were trying to pit us against each other. But there were fights. Friends accused friends of betrayal. I did what I could to mend feelings, but the temple I had loved was falling apart. I wished I could go back to the time when I could just teach the children how to take care of their bodies, and how to live by the Blood ways. At least then I have been able to feel like the next generations would live better lives than we had.
 
 In the end, I was tired. Too many of my friends had died in the fighting, and too many more had been carried away to the Stern prison when they tried to protest against the new laws. I understood what drove them, but it was not a place I could follow. I had never had the Stern instinct, the instinct to sacrifice everything rather than compromise my principles. Something good had been lost forever, but there had always been loss, and there was no sense in fighting for something that was already gone. My one small act of rebellion was to keep my Book of Blood when the Stern burned all the copies, keeping it hidden under a floorboard and lying to the Stern when they came to take them. Other than that, I adapted. I found small ways to keep the tradition of caretaking alive in the new order.
 
