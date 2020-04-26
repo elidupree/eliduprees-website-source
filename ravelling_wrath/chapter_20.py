@@ -358,7 +358,7 @@ That was what the Blood Temple had always been about. It was never about all thi
 
 There was the memory of the sick boy again. The same fond memory of staying up all night just to comfort him.
 
-I hesitated. If Hiram kept coming back to this memory, maybe there was something important in at after all. He was a thoughtful person, and even a bit of a cynic. He liked feel-good things, but not <em>this</em> much. So what was it?
+I hesitated. If Hiram kept coming back to this memory, maybe there was something important in it after all. I had seen him being both thoughtful and pragmatic. He liked feel-good things, but not enough to cloud his judgment. So what was it?
 
 This was unsettling. To <em>him</em>, it was so <em>obvious</em> why this would be a good formative experience for the boy. He just wasn't thinking it in a way I could make sense of.
 
@@ -370,13 +370,13 @@ She was already swaying on her feet. She only ever came to this dingy bar to get
 
 I didn't have to answer before she went on. "Belleketh broke her doll again, the wooden one I just fixed yesterday! So I fixed it again! Why?! Those little ashhhhholes break everything, they break everything, they break everything they touch. They'll do it forever. What's the point of it all?"
 
-Already knowing how she would answer, I began, "You should take some time for yourself. I'm promise we can cover –"
+Already knowing how she would answer, I began, "You should take some time for yourself. I promise we can cover –"
 
 "Fffuck that," she said, as always. "Just, how do you put up with it? You perfect, you perfect, ahhh –"
 
 I knew she wouldn't remember in the morning, but I did my best. "You fixed something much bigger than a doll," I said. "The children rely on us. And every time they see us being there to support them, they're learning something bigger. It's not just that one time. They're learning that there is someone they can always rely on. That's the real magic of what we do. We're teaching them that this is a world where people can rely on each other. Where we care about each other. And maybe when they're older, when someone else is relying on <em>them</em>, they'll remember, and they'll know what they need to do…" I leaned against a wall, trying not to look at the harsh electric lights. "Ah, I'm sounding like my grandpa, bless his drifting soul…"
 
-I pulled myself out of the memory, a sense of disappointment filling me. This was his reason? It wasn't a reason I could accept. In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone else to do what I needed without me checking it. Every time I had hesitated because some useless adult had told me things would be taken care of. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again and again until they were burned enough times to learn not to trust anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! I could feel anger building inside me, anger at this man who would try to soothe away the core of what made me strong, what made me <em>Yali Seti</em>. I could just imagine him softly telling me it was okay to let down my guard. I could never let down my guard! If I did, I would be weak and helpless and pathetic, I would be back with the Dalners, I would be sick and no one would take care of me, I wouldn't get up in the morning. How could this be <em>holy</em>?! I could never accept it! How dare the Blood God try to soothe me! How dare it tell me that all my work was meaningless, that everything I had done to protect myself was meaningless?!
+I pulled myself out of the memory, a sense of disappointment filling me. This was his reason? It wasn't a reason I could accept. In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone else to do what I needed without me checking it. Every time I had hesitated because some useless adult had told me things would be taken care of. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again and again until they were burned enough times to learn not to trust anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! I could feel anger building inside me, anger at this man who would try to soothe away the core of what made me strong, what made me <em>Yali</em>. I could just imagine him softly telling me it was okay to let down my guard. I could never let down my guard! If I did, I would be weak and helpless and pathetic, I would be back with the Dalners, I would be sick and no one would take care of me, I wouldn't get up in the morning. How could this be <em>holy</em>?! I could never accept it! How dare the Blood God try to soothe me! How dare it tell me that all my work was meaningless, that everything I had done to protect myself was meaningless?!
 
 But if the Blood God was bad, then the Waiting God was right. To protect humanity from their foolish vulnerability, it was necessary to carve away the remnants of Blood, to clear humanity of the frivolousness that held them back from doing what needed to be done. Then the world could become whole. Humanity could finally free itself from its destructive complications.
 
@@ -424,7 +424,7 @@ In the present, I patted Svet on the shoulder. I was the only person he allowed 
 
 In the doorway, the woman yelled, "How dare you stand in my way?! I birthed him, we have a bond of blood! How can you call yourselves a Blood Temple when –"
 
-"Do my ears deceive me?" came Rohin's voice from the outside. He must have heard the commotion. "Did someone wonder if this is not a Blood Temple?" Rohin never raised his voice, but you could <em>tell</em> when he was scandalized.
+"Do my ears deceive me?" came Rohin's voice from the outside. He must have heard the commotion, thank the gods. "Did someone wonder if this is not a Blood Temple?" Rohin never raised his voice, but you could <em>tell</em> when he was scandalized.
 
 Civeah and the woman both started shouting, trying to tell Rohin their own side of what was happening. I stayed at Svet's side, whispering to him, reassuring him that no one would force him into anything. I offered to bring him to a quiet place away from the yelling adults, but he kept watching, transfixed.
 
@@ -472,11 +472,11 @@ Was that what the Waiting God wanted to stop?
 
 Decisively, I cleared my mind and listened for the Waiting God. I brought forth its vision for a new world. And next to that, I brought forth my own vision for the world. Next to the god's grand design, it felt small and incomplete. But it was a strong seed, and it did not waver.
 
-This smaller vision was flawed, of course. It had an element of our nature, but we could see its flaws so clearly. Humanity as it existed was shortsighted and selfish, and they would not simply care for each other because it was right. Any plan that would change this would have to begin with changing the nature of humanity. This was a vision for a world of humans who were happy in their lives, who were having all of their needs met. But within lives like that, they would never be motivated to change. Our greater vision took account of this. In order to reach a better world, humanity had to be shown that the path to happiness, the path to having their needs met, was a path of change. A path where they must set aside their temporary desires, so that they could work to bring about a better reality.
+This smaller vision was flawed, of course. It had an element of our nature, but we could see its flaws so clearly. Humanity as it existed was shortsighted and selfish, and they would not simply care for each other because it was right. Any plan that would change this would have to begin with changing the nature of humanity. This smaller vision was a vision for a world of humans who were happy in their lives, who were having all of their needs met. But within lives like that, they would never be motivated to change. Our greater vision took account of this. In order to reach a better world, humanity had to be shown that the path to happiness, the path to having their needs met, was a path of change. A path where they must set aside their temporary desires, so that they could work to bring about a better reality.
 
 I interrupted the god's thoughts. What would this "path of change" look like for people who didn't follow it? The god was only imagining people who <em>did</em> follow the path and <em>did</em> get their needs met, but what if they didn't want to? Well, each opportunity for short-term gratification was a branch where they might turn aside and fall into their selfish habits again. The efficient thing was to make sure these branches were clipped away before they might approach them.
 
-<em>What did it look like,</em> I repeated. Did it look like children having no choice but to obey their parents? Did it look like me having no one I could tell about the Dalners' abuse until I discovered a way by myself? Did it look like people having no source of food but to work all day a corporation?
+<em>What did it look like,</em> I repeated. Did it look like children having no choice but to obey their parents? Did it look like me having no one I could tell about the Dalners' abuse until I discovered a way by myself? Did it look like people having no source of food but to work all day for a distant corporation?
 
 Not exactly. Those were all flawed, human approximations of our will.
 
@@ -484,7 +484,7 @@ So that was a <em>yes</em>, then. This was how humanity would be forced into the
 
 The exploitation.
 
-That seemed misguided. We had thought of the plan as <em>exploitative</em>, but it was not the <em>plan</em> that was the source of exploitation. None of these demoralizing worries about individual abuses committed by humans were a reason to doubt it.
+That seemed misguided. We had thought of the plan as <em>exploitative</em>, but it was not the <em>plan</em> that was the source of exploitation. None of these demoralizing worries about typical abuses committed by humans were a reason to doubt it.
 
 But the abuses were inherently enabled by the plan. Hadn't we just thought of taking away people's options as a good thing?
 
@@ -500,9 +500,9 @@ I slowly pushed myself up from the chair, giving my stiff joints a chance to mov
 
 <em>My body is a place of power</em>, one of the Blood prayers had said. I stood up straight, trying to feel some of that power. A little of Blood, even if I couldn't feel it completely.
 
-As if in response, the ground rippled and shook. As I stood in place, the building around me lost its form, turned into liquid and retreated into the ground. My eye was drawn towards the light of the sun, and all ahead of me, the city melted away, leaving a smooth, sunlit, fluid-like pathway, opening the way to my final destination. I knew what I had to do. I hefted the handle of Rinn's way again and began to walk.
+As if in response, the ground rippled and shook. As I stood in place, the building around me lost its form, turned into liquid and retreated into the ground. My eye was drawn towards the light of the sun, and all ahead of me, the city melted away, leaving a smooth, sunlit, fluid-like pathway, opening the way to my final destination. I knew what I had to do. I hefted the handle of Rinn's wagon and began to walk.
 
-In the distance, the portal stood atop a huge, five-sided pyramid, rising above the city skyline. Before I knew it, I had reached its base. The slope of the pyramid was just shallow enough that I could walk up the sides without losing my footing, and just steep enough to give my leg muscles a strenuous workout as I walked on and on. And I understood it now. The huge structures in this world weren't here to make me feel small and intimidated. They were here to make me feel powerful when I climbed them. To make me feel like I was their equal, just like Rinn had said.
+In the distance, the portal stood atop a huge, five-sided black pyramid, rising above the city skyline. Before I knew it, I had reached its base. The slope of the pyramid was just shallow enough that I could walk up the sides without losing my footing, and just steep enough to give my leg muscles a strenuous workout as I walked on and on. And I understood it now. The huge structures in this world weren't here to make me feel small and intimidated. They were here to make me feel powerful when I climbed them. To make me feel like I was their equal, just like Rinn had said.
 
 As I climbed up the endless slope, I looked back on what I had learned. The more I did, the more confident I felt, and the more things I understood. I thought back to all of Hiram's memories, letting them flow from thought to thought, doing my best to absorb all the little lessons of the old Blood Temple. With my free hand, I copied down some more of the prayers on to my phone.
 
@@ -526,7 +526,7 @@ I listened for the future. I felt myself walk towards the portal. I saw Morrow h
 
 This was not the future I would choose. I could do better.
 
-I listened for a different future. I felt myself pretending to be calm, answering Morrow's questions so that Alchemist would think we had an understanding. I felt the futures where my frustration built up until I struck him again. I had enjoyed breaking his fingers the first time, and I could enjoy it again. But that wasn't what I was looking for. I listened for a future where I would navigate my feelings, where I could keep the illusion going and maintain the peace between us. I saw the three of us waiting together at the portal. I felt myself staring at the portal, feeling isolated, just concentrating on keeping myself calm while I waited for the end. This was not the future I would choose. I would not be ready to face the Waiting God if those were the feelings in my mind.
+I listened for a different future. I felt myself pretending to be calm, answering Morrow's questions so that Alchemist would think we had an understanding. I felt the futures where my frustration built up until I struck him again. I had enjoyed breaking his fingers the first time, and I could enjoy it again. But that wasn't what I was looking for. I listened for a future where I would navigate my feelings, where I could keep the illusion going and maintain the peace between us, just as I had in the first layer. I saw the three of us waiting together at the portal. I felt myself staring at the portal, feeling isolated, just concentrating on keeping myself calm while I waited for the end. This was not the future I would choose. I would not be ready to face the Waiting God if those were the feelings in my mind.
 
 I listened for a different future. I knew that both of them were already afraid of me. I felt myself march towards the portal, determined to make them be the ones to suffer instead of me. When Morrow ran to meet me, I shouted him down. I ordered them both to be quiet and speak only to answer my questions. Finally, at the end of everything, I could <em>finally</em> just make them give me the peace and quiet I deserved. No more staying on good terms with Alchemist just in case we needed more potions. No more letting words come out of Morrow's disgusting face. I would finally just get what <em>I</em> wanted. And then I could face the Waiting God with pride. I would be the one who was in control.
 
@@ -540,11 +540,11 @@ Morrow ran down to meet me, as I had seen. I caught his hand, keeping it close b
 
 I let go of Morrow's hand. He backed away from me. This was going well.
 
-I pulled the wagon up on to the highest point, the flat top of the pyramid, and began rolling it across the black and shining floor. This close to the center, the sun beat down hard on my head and shoulders, burning away at my skin, even through my clothes. But this sun was more familiar now, and I could feel a bit of warmth amid the burning.
+I pulled the wagon up on to the highest point, the flat top of the pyramid, and began rolling it across the black and shining floor. This close to the center, the sun was straight above me, beating down hard on my head and shoulders, burning away at my skin, even through my clothes. But this sun was more familiar now, and I could feel a bit of warmth amid the burning.
 
 Ahead of me, in the center of the floor, I could finally see the portal with my own eyes. It was the same substance as the other portals, but it was so much more than anything that had come before it. Once my eyes were on it, it was hard to look away. Instead of being shaped like a doorway, it was like an obelisk pointing upwards, about the same height as I was, joined to the sun by a column of light, glowing black and white and every color of the rainbow at the same time. It felt like its power was spilling across the world, radiating a sense of awe and fear and purpose. No wonder Morrow and Alchemist had kept their distance from it.
 
-Alchemist nervously approached and looked at Rinn's head, the only part of her that was sticking out of the foam. Tears filled their eyes.
+Alchemist nervously approached me and looked at Rinn's head, the only part of her that was sticking out of the foam. Tears filled their eyes.
 
 "Is, she… You used, the…"
 
@@ -554,11 +554,9 @@ Alchemist nervously approached and looked at Rinn's head, the only part of her t
 
 Alchemist was trying to ask about the side effects of the potion. The sleeping effect was very powerful. If someone already had a weak soul when they drank it, they might never wake up. So Alchemist's worrying wasn't unreasonable. In the futures, I had tried dozens of responses before I found one that would reassure them. "Examine her soul yourself," I said. "Feel how strong it is. I am completely confident in her."
 
-Alchemist approached and nervously touched Rinn's head. Then they nodded and pulled back again.
+Alchemist stepped closer and nervously touched Rinn's head. Then they nodded and pulled back again. After a pause, they turned and looked down over the city. I saw their eyes linger over the distant gouges among the buildings, where Justicar had fought us.
 
-Alchemist looked down over the city. I saw their eyes linger over the distant gouges among the buildings, where Justicar had fought us.
-
-"She's not, coming, is she…"
+"She's, not, coming, is she…"
 
 "She's dead," I confirmed. "We couldn't convince her to stop." I waited for Alchemist to glance at Rinn, wondering if Rinn had been the one who killed her. I said the best thing I had found to assuage their worries. "We did it together."
 
@@ -582,7 +580,7 @@ Those words had been confusing when I foresaw them, but now that I was here, I u
 
 "Oh…"
 
-I sat down, manifesting a long bench for the three of us, with a wide base so Morrow wouldn't knock it over later. My mind was racing towards what lay ahead in the portal, but I could afford to take a little time for closure. Alchemist sat down next to me. Morrow thumped down on the other side of Alchemist, huddling into their chest. Alchemist idly started feeding him a large candy bar.
+I sat down, manifesting a long bench for the three of us, with a wide base to stop it from falling over when Morrow would knock into it later. My mind was bent towards what lay ahead in the portal, but I could afford to take a little time for closure. Alchemist sat down next to me. Morrow thumped down on the other side of Alchemist, huddling into their chest. Alchemist idly started feeding him a large candy bar.
 
 "Alchemist," I said evenly, "I believe I owe you a great deal. Your potions have saved Rinn's life more than once now. And possibly my life as well. If there's anything I can do for you in return, I'd like to do that."
 
@@ -608,7 +606,7 @@ I gave them a little time to relax. Then I added, "We can also exchange phone nu
 
 Alchemist shivered. "I, didn't, have my phone, on me, when…"
 
-In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they might not remember it. And if <em>they</em> told me <em>their</em> number, they thought they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. I won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
+In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they thought they might not remember it. And if <em>they</em> told me <em>their</em> number, they thought they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. I won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
 
 Alchemist nodded. They manifested their phone, and thumbed through it to find where it would show their number. "If I could, also, give this to, Morrow, and, Rinn…"
 
@@ -626,7 +624,7 @@ Before long, there wasn't much left for us to say to each other.
 
 "We should go through the portal now," I said.
 
-Morrow panicked and jerked away, as I had known he would at the thought of returning to the material world. But because I had made the bench sturdy enough, he didn't fall or break anything.
+Morrow panicked and jerked away, as I had known he would, at the thought of returning to the material world. But I had made the bench sturdy enough, so he didn't fall or break anything.
 
 "Morrow," I said levelly.
 
@@ -648,7 +646,7 @@ I turned and faced the portal.
 
 It was like waves of power were rolling off of it, pushing me back and away. But it wasn't a forbiddance. It wasn't actually trying to keep me away. It was a challenge, daring me to push my way against the waves, to assert my right to occupy my space in the world.
 
-I stepped forward, pulling Rinn's wagon with one hand. Alongside me, Morrow and Alchemist followed, a little more hesitantly. I took another step, and another. The portal loomed ahead of us, black and formidable. It was time. Time for the gods to face us.
+I stepped forward, pulling Rinn's wagon with one hand. Alongside me, Morrow and Alchemist followed, a little more hesitantly. I took another step, and another. The portal loomed ahead of us, black and formidable. It was time. Time for us to face the gods. Time for the gods to face us.
 
 We fanned out around the obelisk, each looking for the side that called to us the most deeply. One for me and one for Alchemist, the Ravellers who were still conscious. One for Morrow, dull but still waiting to take him home. At my left, one for Justicar, which would remain unvisited and silent. And at my right, one for Rinn, still alive and brimming with energy.
 
