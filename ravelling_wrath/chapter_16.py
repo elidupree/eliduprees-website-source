@@ -201,6 +201,28 @@ Yali put her head down and concentrated, hunting in the memories. Pretty soon, s
 
 <bigbreak>
 
+[????? Yali started making the timeline]
+
+[????? The caretaker and the lawyer; "I should be able to remember them, but I can't!"]
+
+"Oh, and of course there's Hiram!" she said. "I almost didn't think of him because I'm using his memories all the time, to know what to say."
+
+"Hiram Soleocchi…" I muttered as Yali gave me the rundown on him. Something seemed so familiar, but I just couldn't place it. <em>A man who talks the way Yali talks… a schoolteacher… a man who likes children, who knows how to be soothing…</em>
+
+And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the right to use him – to <em>ravel</em> him! He was one of mine, he was part of my lifeblood! And you made him a <em>Farseer</em>?! You – oh gods, oh gods, and I must have killed him." [????? More/subtler physicality here?] I looked down at my hands. What had I done? Painful tears sprang to my eyes. "Just when I thought you couldn't get any more fucked up," I sobbed. "You made me kill part of my own temple."
+
+"Part of your temple?" said Yali intently. "The Blood Temple?"
+
+"<em>Yes!!</em>" I yelled through my tears. "Twenty-five years if it was a day! I was with him when he stoked the fires! And you took him away from me!! How can you –"
+
+"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory… but if it was for <em>twenty-five years</em>, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth layer… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember! What else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, I can't think of anything around it… but…"
+
+"How long will it take you to understand?" I said to Yali. "It erased my Ravellers. It erased my temple. Of course it would erase their memories. It wants me to disappear –"
+
+"I don't think these memories were <em>erased</em>." I could feel the trembling of anger in her too-loud voice. "It's much worse and more manipulative than that. ?????
+
+<bigbreak>
+
 My brain was <em>exhausted</em>
 
 We were sitting in the middle of a huge mess of papers, copies of Yali's phone, and history books. Yali had laid down a hardwood floor over the whole clearing we were in, and everything else was strewn on top of it. It was a good thing it wasn't raining anymore, but the trees were dripping all over the place, so we had to keep all the papers in the clear area.
