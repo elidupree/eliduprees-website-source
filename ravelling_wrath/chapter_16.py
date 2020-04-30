@@ -197,13 +197,59 @@ Yali grinned viciously. "This is great! This means that one of me died in the <e
 
 Yali put her head down and concentrated, hunting in the memories. Pretty soon, she began to frown, and as time passed, her frown got deeper and deeper. Finally, her voice broke the silence.
 
-"It's not there," she said.
+"I can't find them," she said.
 
 <bigbreak>
 
-[????? Yali started making the timeline]
+So the question was – did Yali <em>not</em> have the memories of the Farseer who poisoned the Blood Child? Or did she just not remember <em>doing</em> it? Or was it the Blood God's memories that were wrong? Yali didn't think it was the last one. She was sure that Waiting God was hiding something from her.
 
-[????? The caretaker and the lawyer; "I should be able to remember them, but I can't!"]
+"Ugh," I said, "I wish I could remember their names. Or what they looked like. But all I can remember is their souls."
+
+"Would you recognize them if you saw them?"
+
+"I don't know, maybe?"
+
+[????? So Yali showed me a series of pictures and names]
+
+Most of them didn't mean anything to me.
+
+"You really don't feel anything? Every one of them remembers being killed by an angry Blood Child. Shouldn't you feel something when it's <em>you</em> – the Blood God – who killed them?"
+
+"I mean, technically," I said. "But they were your <em>laskeuh</em>, that's not the same as just killing a human –"
+
+"My what?"
+
+"Er… your <em>laskueh</em>. It's, like, this word the Blood God uses, I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, like, you know…"
+
+"I understand. The stuff I get from the Waiting God isn't exactly human words either."
+
+"Yeah, so, the Blood God has always called you the Waiting God's <em>laskueh</em>. And I first I thought it meant Raveller, but it doesn't. It means, like… a servant. Someone who works for someone else." Trying to explain it in words felt so flat. Saying <em>someone who works for someone else</em> didn't have the overwhelming sense of contempt that this word had. So I tried to explain. "And, like, to the Blood God, that's really bad. Like… If you obey someone else's orders instead of doing what you really want, that's like, stepping on your own blood."
+
+"Sounds like victim-blaming," muttered Yali.
+
+"No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers! And it makes them <em>more</em> bad, because it means they forced someone else into degrading themselves!"
+
+Yali was quiet for a while before she responded. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
+
+"Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up. "So, uh… want to show me more of the Farseers?"
+
+"Right." Yali manifested another photo and handed it to me. "Garthold Brannet. He was a lawyer who worked for some company, he's all serious about his job –"
+
+I looked at the photo. "<em>That</em> fucker!" I yelled.
+
+"Is it him? The one who –"
+
+"– who killed me? Haha no, this guy sucks. It's more about when he was a human…"
+
+"A human… did he do something against the Blood Temple?"
+
+"Yeah! I mean, no, not exactly. I mean, it was about the Blood Temple, but…"
+
+Yali concentrated. "I don't remember him doing anything against the Blood Temple either. Most of his work was in the Stern courts, which didn't even have jurisdiction over the fifth layer. Unless that's what the Blood God is mad about?"
+
+"Nah, I mean, Stern law is fucked up, but it's not that. It's…" But I couldn't remember. The feeling was gone. "He just sucks," I concluded.
+
+[????? Yali continued through the list]
 
 "Oh, and of course there's Hiram!" she said. "I almost didn't think of him because I'm using his memories all the time, to know what to say."
 
@@ -211,15 +257,15 @@ Yali put her head down and concentrated, hunting in the memories. Pretty soon, s
 
 And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the right to use him – to <em>ravel</em> him! He was one of mine, he was part of my lifeblood! And you made him a <em>Farseer</em>?! You – oh gods, oh gods, and I must have killed him." [????? More/subtler physicality here?] I looked down at my hands. What had I done? Painful tears sprang to my eyes. "Just when I thought you couldn't get any more fucked up," I sobbed. "You made me kill part of my own temple."
 
-"Part of your temple?" said Yali intently. "The Blood Temple?"
+"Part of your temple?" said Yali intently. "He worked for the Blood Temple?"
 
 "<em>Yes!!</em>" I yelled through my tears. "Twenty-five years if it was a day! I was with him when he stoked the fires! And you took him away from me!! How can you –"
 
-"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory… but if it was for <em>twenty-five years</em>, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth layer… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember! What else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, I can't think of anything around it… but…"
+"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory… but if it was for <em>twenty-five years</em>, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth layer… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
 
 "How long will it take you to understand?" I said to Yali. "It erased my Ravellers. It erased my temple. Of course it would erase their memories. It wants me to disappear –"
 
-"I don't think these memories were <em>erased</em>." I could feel the trembling of anger in her too-loud voice. "It's much worse and more manipulative than that. ?????
+"I don't think these memories were <em>erased</em>." I could feel the trembling of anger enter her too-loud voice. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But the Waiting God knows what would happen if it did that. Eventually I would notice the inconsistencies, ?????
 
 <bigbreak>
 
@@ -373,27 +419,7 @@ Yali looked dismayed.
 
 By the time Yali came back to the present, I'd had plenty of time to settle down, make a nice couch and sit back and think about things. Another realization had popped up in my mind.
 
-"I finally understand that other word the Blood God has been using for the Farseer!" I said. "I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, like, you know…"
-
-Yali hauled herself up from her Seeing pose, took a few breaths, and then thumped down on the couch and curled up next to me. "I understand," she murmured. "I can feel the Waiting God using those not-quite-words, too."
-
-"Yeah, so, the Blood God has always called you, like, the Waiting God's <em>laskueh</em>. And I first I thought it meant Raveller, but it doesn't. It means, like… a servant. Someone who works for someone else." Trying to explain it in words felt so flat. Saying <em>someone who works for someone else</em> didn't have the overwhelming sense of contempt that this word had. So I tried to explain. "And, like, to the Blood God, that's really bad. Like… If you obey someone else's orders instead of doing what you really want, that's like, stepping on your own blood."
-
-"Stepping on your own blood…"
-
-"Er…"
-
-"No, it's familiar, in my memories. Yes… it's an old expression. There were two expressions like that – if you said 'stepping on someone's <em>fire</em>', it meant you were stopping someone from going after their passions. But if you said 'stepping on someone's <em>blood</em>', it meant, it meant… a violation."
-
-"So obeying orders is violating yourself? Haha, that's pretty cool."
-
-"Sounds more like victim-blaming," said Yali loudly.
-
-"No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers! And it makes them <em>more</em> bad, because it means they forced someone else into degrading themselves!"
-
-Yali was quiet for a while before she responded. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
-
-"Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up.
+[????? The laskueh stuff has been moved from here]
 
 We were both quiet for a bit, just sitting on the couch, Yali resting her head on my shoulder. We were still waiting for Alchemist to show up, there wasn't much left to talk about. I poked a foot at one of the papers that was still laying around. "So, this eighteen months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
 
