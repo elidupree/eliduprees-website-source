@@ -209,17 +209,17 @@ So the question was – did Yali <em>not</em> have the memories of the Farseer w
 
 "I don't know, maybe?"
 
-[????? So Yali showed me a series of pictures and names]
+So Yali started showing me pictures of all the old Farseers. She had to manifest pictures based on their own memories of how they looked, which weren't quite realistic, but they were close enough. With each picture she showed me, she also told me their name, and a few things about them. She even told me a bit of what it felt like to be them from the inside, in case I'd remember their souls better that way.
 
-Most of them didn't mean anything to me.
+Pretty soon, I had a couple dozen pictures piled up in front of me. But they didn't mean much to me. The names and faces all felt familiar, and some of them gave me bits of regret or anger, but none of them really seemed that important.
 
-"You really don't feel anything? Every one of them remembers being killed by an angry Blood Child. Shouldn't you feel something when it's <em>you</em> – the Blood God – who killed them?"
+"They really don't feel important?" said Yali. "Every one of them remembers being killed by an angry Blood Child. You – the Blood God – thought it was important enough to kill them –"
 
-"I mean, technically," I said. "But they were your <em>laskeuh</em>, that's not the same as just killing a human –"
+"I mean, I <em>technically</em> killed them," I said. "But they were your <em>laskeuh</em>, that's not the same as just killing the humans –"
 
 "My what?"
 
-"Er… your <em>laskueh</em>. It's, like, this word the Blood God uses, I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, like, you know…"
+"Er… your <em>laskueh</em>. It's, like, this word the Blood God uses, I mean, it's not really pronounced that way, it's not exactly a <em>word</em>, I mean, like…"
 
 "I understand. The stuff I get from the Waiting God isn't exactly human words either."
 
@@ -245,7 +245,7 @@ I looked at the photo. "<em>That</em> fucker!" I yelled.
 
 "Yeah! I mean, no, not exactly. I mean, it was about the Blood Temple, but…"
 
-Yali concentrated. "I don't remember him doing anything against the Blood Temple either. Most of his work was in the Stern courts, which didn't even have jurisdiction over the fifth layer. Unless that's what the Blood God is mad about?"
+Yali concentrated. "I don't remember him doing anything against the Blood Temple either. Most of his work was in the Stern courts, which didn't even have jurisdiction over the fifth layer back then. Unless that work is what the Blood God is mad about?"
 
 "Nah, I mean, Stern law is fucked up, but it's not that. It's…" But I couldn't remember. The feeling was gone. "He just sucks," I concluded.
 
@@ -263,9 +263,13 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory… but if it was for <em>twenty-five years</em>, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth layer… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
 
-"How long will it take you to understand?" I said to Yali. "It erased my Ravellers. It erased my temple. Of course it would erase their memories. It wants me to disappear –"
+"How long will it take you to understand?" I said to Yali. "It erased my Ravellers. It erased my temple. Of course it would erase these memories. It wants me to disappear –"
 
 "I don't think these memories were <em>erased</em>." I could feel the trembling of anger enter her too-loud voice. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But the Waiting God knows what would happen if it did that. Eventually I would notice the inconsistencies, ?????
+
+????? It doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all. ?????
+
+
 
 <bigbreak>
 
