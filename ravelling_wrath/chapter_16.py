@@ -175,6 +175,8 @@ Getting the details was a lot harder than I had hoped. The Blood God – or at l
 
 Eventually, with effort, we managed to get some information out of it. According to the Blood God, the Stern were being used as a tool, both in the Otherworld and in the city. In the Otherworld, once the Blood Children and Farseers had started killing each other, the Waiting had tricked the Justicars into thinking the Blood Child was always the aggressor. In most years, the Justicar ultimately killed the Blood Child, so the Blood Child was desperate to kill the Farseer before the Justicar was powerful enough to stop them. And in the city, the Stern Temple had violated the borders between the temples, undermined the structure of the Blood Temple until it was weak, and then destroyed it – all controlled by the Waiting, although I couldn't figure out exactly what kind of control that was.
 
+[????? Also Yali tried to look in the encyclopedia on her phone and in some history books]
+
 And there was a number. Four. The number of years when the Blood God had hesitated before it began to fight back.
 
 "I gave you four chances!" I roared. I was the Blood God again. This time I knew the "you" wasn't really Yali, but it still felt like the thing to say. "You killed me, and I still gave you another chance! Because you were my – my <em>family</em>! The first time, I thought it wasn't your fault! The second time, I thought it could have been a mistake! When you killed me the third time, I knew something was wrong! I was in pain, I was afraid, I could feel my temple in turmoil, but I still stayed my hand! I didn't want to throw away the trust I thought we had together! And for my trust, I saw the life choked out of me! The fourth time… I still did not fight back, because…" My voice broke. "I didn't know what to do. You were… strong, you were my…" Hot tears poured down my face. My thoughts cracked. Another memory had awoken, Rinn's memory of this year's Justicar standing over her. The helplessness… the inevitability of my death… I clung to Yali's shoulder. "Yali… help me… I'm scared…"
@@ -215,7 +217,7 @@ Pretty soon, I had a couple dozen pictures piled up in front of me. But they did
 
 "They really don't feel important?" said Yali. "Every one of them remembers being killed by an angry Blood Child. You – the Blood God – thought it was important enough to kill them –"
 
-"I mean, I <em>technically</em> killed them," I said. "But they were your <em>laskeuh</em>, that's not the same as just killing the humans –"
+"I mean, I <em>technically</em> killed them," I said. "But they were your <em>laskeuh</em>, that's not the same killing the humans on purpose –"
 
 "My what?"
 
@@ -249,7 +251,7 @@ Yali concentrated. "I don't remember him doing anything against the Blood Temple
 
 "Nah, I mean, Stern law is fucked up, but it's not that. It's…" But I couldn't remember. The feeling was gone. "He just sucks," I concluded.
 
-[????? Yali continued through the list]
+So Yali kept listing off more Farseers. [????? A few details]
 
 "Oh, and of course there's Hiram!" she said. "I almost didn't think of him because I'm using his memories all the time, to know what to say."
 
@@ -265,7 +267,7 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "How long will it take you to understand?" I said to Yali. "It erased my Ravellers. It erased my temple. Of course it would erase these memories. It wants me to disappear –"
 
-"I don't think these memories were <em>erased</em>." I could feel the trembling of anger enter her too-loud voice. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But the Waiting God knows what would happen if it did that. Eventually I would notice the inconsistencies, ?????
+"I don't think these memories were <em>erased</em>." I could feel the trembling of anger enter her too-loud voice. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting, to make the smallest change it can get away with. 'Guidance rather than force'."
 
 ????? It doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all. ?????
 
