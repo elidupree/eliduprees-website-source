@@ -335,7 +335,7 @@ CONTESTANT #3: Would you look at that – very similar per-byte cost for everyth
 
 ANNOUNCER: How do you explain the jump between L=32 and L=48?
 
-CONTESTANT #3: That's a good question. I would expect to see a more uniform dropoff, as it reaches the limits of how far ahead the processor will prefetch. But, given that the length is known ahead of time – maybe the compiler gives a hint about whether to prefetch head of the next list, and if we're going to do more than 32 sequential lookups first, it thinks there's no point?
+CONTESTANT #3: That's a good question. I would expect to see a more uniform dropoff, as it reaches the limits of how far ahead the processor will prefetch. But, given that the length is known ahead of time – maybe the compiler gives a hint about whether to prefetch the head of the next list, and if we're going to do more than 32 sequential lookups first, it thinks there's no point?
 
 ANNOUNCER: So if we looked at the results for all lengths between L=32 and L=48, what would you expect to see?
 
