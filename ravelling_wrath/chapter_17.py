@@ -117,7 +117,7 @@ Yali looked into the future. "It can be diluted. Not with water, but with, with,
 
 "Let me look something up." Yali pulled out her phone.
 
-Suddenly we had to do a lot of research. Yali opened the local encyclopedia on her phone and started looking up ways you could extract oil from plants. To give the rest of us something to do, she also manifested two copies of her phone so both of us could look in the encyclopedia, too.
+Suddenly we had to do a lot of research. Yali opened the encyclopedia on her phone and started looking up ways you could extract oil from plants. To give the rest of us something to do, she also manifested two copies of her phone so both of us could look in the encyclopedia, too.
 
 "Remember, I can see if you look at anything private," she said as put one of the copies into my hand.
 

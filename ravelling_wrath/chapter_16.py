@@ -173,9 +173,19 @@ Getting the details was a lot harder than I had hoped. The Blood God – or at l
 
 "Ugh."
 
-Eventually, with effort, we managed to get some information out of it. According to the Blood God, the Stern were being used as a tool, both in the Otherworld and in the city. In the Otherworld, once the Blood Children and Farseers had started killing each other, the Waiting had tricked the Justicars into thinking the Blood Child was always the aggressor. In most years, the Justicar ultimately killed the Blood Child, so the Blood Child was desperate to kill the Farseer before the Justicar was powerful enough to stop them. And in the city, the Stern Temple had violated the borders between the temples, undermined the structure of the Blood Temple until it was weak, and then destroyed it – all controlled by the Waiting, although I couldn't figure out exactly what kind of control that was.
+While I tried to interpret for the god, Yali also tried to look things up, first checking the encyclopedia on her phone, and then even manifesting some history textbooks. "These should at least get us some history of the Blood Temple," she said. But as she flipped through them, she didn't seem to be finding what she was looking for either. I looked over her shoulder and read along:
 
-[????? Also Yali tried to look in the encyclopedia on her phone and in some history books]
+<p style="font-style: italic"><q>– there was an atmosphere of fear in the city, as the Blood Temple became increasingly violent. The new generation of Blood Temple leaders had little respect for the ancient treaties between the temples –</q></p>
+
+"Bullshit!" I said. "<em>They</em> broke the treaties, not us!"
+
+"'They' as in the Waiting Temple?"
+
+I could tell it was an honest question, but it felt like a trap for some reason. "It's the Waiting's fault, I know that much!"
+
+"What I want to figure out," said Yali, "is exactly what treaties were broken, and how. But these books aren't helping, they're hardly giving me any more details than 'Blood Temple bad, Blood Temple attack us'. Can you?"
+
+Eventually, with effort, we managed to get some information out of the god. According to the Blood God, the Stern were being used as a tool, both in the Otherworld and in the city. In the Otherworld, once the Blood Children and Farseers had started killing each other, the Waiting had tricked the Justicars into thinking the Blood Child was always the aggressor. In most years, the Justicar ultimately killed the Blood Child, so the Blood Child was desperate to kill the Farseer before the Justicar was powerful enough to stop them. And in the city, the Stern Temple had violated the borders between the temples, undermined the structure of the Blood Temple until it was weak, and then destroyed it – all controlled by the Waiting, although I couldn't figure out exactly what kind of control that was.
 
 And there was a number. Four. The number of years when the Blood God had hesitated before it began to fight back.
 
@@ -217,7 +227,7 @@ Pretty soon, I had a couple dozen pictures piled up in front of me. But they did
 
 "They really don't feel important?" said Yali. "Every one of them remembers being killed by an angry Blood Child. You – the Blood God – thought it was important enough to kill them –"
 
-"I mean, I <em>technically</em> killed them," I said. "But they were your <em>laskeuh</em>, that's not the same killing the humans on purpose –"
+"I mean, I <em>technically</em> killed them," I said. "But they were your <em>laskeuh</em>, that's not the same as killing the humans on purpose –"
 
 "My what?"
 
