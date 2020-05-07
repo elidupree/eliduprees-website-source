@@ -297,7 +297,7 @@ We were sitting in the middle of a huge mess of papers, copies of Yali's phone, 
 
 And most importantly, it was arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
 
-"It's a good thing your monastery had so many old books," I said. Although even the history books hadn't given too many details about the fall of the Blood Temple. The juiciest bit we'd gotten was from a crumbling newspaper from the monastery archives. One article was about a court case about some Blood Temple councilmembers who had been arrested by the Stern police. But it didn't give much of the context. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
+"It's a good thing your monastery had so many old books," I said. The history books had given us a lot of useful context, even if they were suspiciously silent on the Blood Temple. Most of them had been written <em>after</em> the Blood Temple fell, and they talked about the Blood Temple with almost exactly the same words as what we'd already seen. And the ones from <em>before</em> the fall didn't mention the Blood Temple at all – or more likely, the ones that <em>did</em> had been purged from the monastery archives before Yali was born. The juiciest bit we'd gotten was from a crumbling newspaper. One article was about a court case about a Blood priest who had been arrested by the Stern police. But it didn't really explain what the case was about. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
 
 Yali responded, "Honestly, I'm surprised at how many books <em>you've</em> been able to manifest. What with not caring about history and all."
 
@@ -313,11 +313,15 @@ The history books all agreed on the first year the Farseer had been killed. And 
 
 "Who in the Endless would think of checking something like that?? There's no way you could have known about any of thi–"
 
-"No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge! It would never have kept this going for so long! The god of holding a grudge – <em>is the Waiting God</em>."
+"No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge! The god of holding a grudge – <em>is the Waiting God</em>."
 
 "Wait, really?"
 
-"Really. The Waiting God is the one that cares about the distant past and future. But the Blood God… I've learned a bit about the laws of the old Blood Temple, and they actually explicitly allowed revenge, but only if you did it soon enough. For common assault, you were allowed to get revenge if it was within a few days, but not after that. If someone seriously injured you, it was a lot longer, but there was still a limit. Even for murder. If someone murdered a member of your family, you had eighteen months to get revenge. Not a day longer. And everything else was less."
+Yali gave me an odd look. "You know, sometimes I wish I knew what it's like to grow up outside of Waiting culture.
+
+
+
+ But the Blood God… I've learned a bit about the laws of the old Blood Temple, and they actually explicitly allowed revenge, but only if you did it soon enough. For common assault, you were allowed to get revenge if it was within a few days, but not after that. If someone seriously injured you, it was a lot longer, but there was still a limit. Even for murder. If someone murdered a member of your family, you had eighteen months to get revenge. Not a day longer. And everything else was less."
 
 "Eighteen months… That's, less than two years…" ???? "Holy shit! Do you think that means –?"
 
