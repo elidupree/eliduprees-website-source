@@ -275,11 +275,17 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory… but if it was for <em>twenty-five years</em>, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth layer… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
 
-"How long will it take you to understand?" I said to Yali. "It erased my Ravellers. It erased my temple. Of course it would erase these memories. It wants me to disappear –"
+"It erased the memories," I breathed.
 
-"I don't think these memories were <em>erased</em>." I could feel the trembling of anger enter her too-loud voice. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting, to make the smallest change it can get away with. 'Guidance rather than force'."
+"I don't think these memories were <em>erased</em>." I could feel the trembling of anger enter her too-loud voice. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting, making the smallest change, but with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
 
-????? It doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all. ?????
+????? What else were we forgetting ????? "The books!!" she yelled. "I thought they were just [????? dumbing things down], but they left out the details on <em>purpose</em>! Think about it! The Waiting Temple are the historians, they're the ones who made these textbooks, this is what all the schools are teaching! The whole way we learn about Blood worshippers growing up is just history teachers saying how they were some bad people from the past who attacked the city –"
+
+"We didn't ATTACK the city, we WERE the city –"
+
+"– and besides history class, the only place we see them is in the movies –"
+
+?????
 
 
 
