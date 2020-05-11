@@ -125,7 +125,7 @@ Now that I looked at it in detail, it was like an optical illusion, something th
 
 Memories came flooding back to me. How it had worked together with that broken fragment, the one we called Neenu. How it had fought against the Justicar, even bizarrely using deception, to prevent my death. A death the Waiting God itself had planned! And how it had claimed that the Waiting God had <em>hidden</em> things from it! How had I not realized before? <em>It</em>, the one I called Yali, was just as much of a broken fragment itself! Like a damaged clock with gears running at two different speeds, like a puppet wrestling for a grip on its own strings, like a parasite using its host's own strength to devour it, it was a flaw in the Waiting God's plan, and it was ripping and tearing to widen the flaw at every chance it had.
 
-I tried to shift my focus, to look at the different parts of it. It was hard, because they were woven together so tightly. Every time I tried to see where one ended and the other began, it seemed to shimmer and shift. But slowly, I got a general sense of the shapes. The place where the transcendent web of the god twisted and meshed with… the other part. The human. Yali, I guess.
+I tried to shift my focus, to look at the different parts of it. It was hard, because they were woven together so tightly. Every time I tried to see where one ended and the other began, it seemed to shimmer and shift. But slowly, I began to make sense of the shapes. The place where the transcendent web of the god twisted and meshed with… the other part. The human. Yali, I guess.
 
 So Yali was the one I was talking to… Now that I thought about it, what should I even say to her? "Waiting… <em>laskueh</em>," I began contemptuously. But even that didn't seem quite right anymore. "You poor, pathetic thing. Did it really not tell you? Did it not tell any of the others?! That <em>monster</em>! So is that what it wants? It wants to commit the perfect crime! It would kill me and make even its own assassins believe their hands were clean!"
 
@@ -183,9 +183,9 @@ While I tried to interpret for the god, Yali also tried to look things up, first
 
 I could tell it was an honest question, but it felt like a trap for some reason. "It's the Waiting's fault, I know that much!"
 
-"What I want to figure out," said Yali, "is exactly what treaties were broken, and how. But these books aren't helping, they're hardly giving me any more details than 'Blood Temple bad, Blood Temple attack us'. Can you?"
+"What I want to figure out," said Yali, "is exactly what treaties were broken, and how. But these books aren't helping, they're hardly giving me any details. Can you?"
 
-Eventually, with effort, we managed to get some information out of the god. According to the Blood God, the Stern were being used as a tool, both in the Otherworld and in the city. In the Otherworld, once the Blood Children and Farseers had started killing each other, the Waiting had tricked the Justicars into thinking the Blood Child was always the aggressor. In most years, the Justicar ultimately killed the Blood Child, so the Blood Child was desperate to kill the Farseer before the Justicar was powerful enough to stop them. And in the city, the Stern Temple had violated the borders between the temples, undermined the structure of the Blood Temple until it was weak, and then destroyed it – all controlled by the Waiting, although I couldn't figure out exactly what kind of control that was.
+Eventually, with effort, we managed to get some information out of the god. According to the Blood God, the Stern were being used as a tool, both in the Otherworld and in the city. In the Otherworld, once the Blood Children and Farseers had started killing each other, the Waiting had tricked the Justicars into thinking the Blood Child was always the aggressor. In most years, the Justicar ultimately killed the Blood Child, so the Blood Child was desperate to kill the Farseer before the Justicar was powerful enough to stop them. And in the city, the Stern Temple had violated the borders between the temples, undermined the structure of the Blood Temple until it was weak, and then destroyed it – all controlled by the Waiting, although I still couldn't figure out exactly what kind of control that was.
 
 And there was a number. Four. The number of years when the Blood God had hesitated before it began to fight back.
 
@@ -277,7 +277,7 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "It erased the memories," I breathed.
 
-"I don't think these memories were <em>erased</em>." I could feel the trembling of anger in her too-loud voice. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting, making the smallest change, but with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
+"I don't think these memories were <em>erased</em>." Her voice rang out loud and sudden, trembling with anger and realization. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting to make the smallest change with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
 
 ????? What else were we forgetting ????? "The books!!" she yelled. "I thought they were just [????? dumbing things down], but they left out the details on <em>purpose</em>! Think about it! The Waiting Temple are the historians, they're the ones who made these textbooks, this is what all the schools are teaching! The whole way we learn about Blood worshippers growing up is just history teachers saying how they were some bad people from the past who attacked the city –"
 
@@ -287,17 +287,19 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "I mean, I wouldn't say the schools control what I think," I said, as Rinn. "Like, before this, if you'd asked me about Blood worship, I wouldn't have thought of some boring history stuff, I would've thought of –"
 
-<em>– a scene from a movie, red robed cultists with long knives carrying off an innocent girl –</em>
+<em>– a scene from a movie, red-robed cultists with long knives carrying off an innocent girl –</em>
 
 "No!" I yelled. Both of me wanted to speak at once. "I thought they were just made-up villains for cheesy action movies! I never thought about it before, but the Blood Temple was a real religion! Why would you make Blood worshippers the villains unless – it was deliberate! [????? My Temple was barely in the ground and they were already telling lies!] How could people believe this?! We never performed human sacrifice! Human life was sacred! ?????
 
-"The Waiting Temple doesn't make the movies, though… And I don't think the movie makers are doing it on purpose, it's just the easiest thing for them to do if they don't want the temples to suspect them of Blood worship. So it might not be an intentional lie –"
+"The Waiting Temple doesn't make the movies, though…" said Yali, mulling it over. "And I don't think the movie makers are doing it on purpose, it's just the easiest thing for them to do if they don't want the temples to suspect them of Blood worship. So this part might not be an intentional lie –"
 
-"It's TWO lies! Bad enough to just tell a lie yourself, but to make someone else tell it and then make it look like you didn't do anything?!
+"Yeah, it's not a lie, it's TWO lies! Bad enough to just tell a lie yourself, but you told it through somebody else and made it look like you didn't do anything!"
 
-?????
+"Just like the memories…" said Yali quietly.
 
+"I can't believe it," I said, my voice breaking. "You were right. Everything we've ever heard about me and my temple… it's all a lie, crafted over the last seventy years to make us forget everything we were. We've been reduced to a caricature, one-dimensional villains to knock down. How much of us is even left? You won't even stop when I am gone… you will keep erasing until we forget I was even here…"
 
+"Well, one thing's for sure," said Yali grimly. "If it's so important to the Waiting to make us forget, then it's up to us to remember as much as we can."
 
 <bigbreak>
 
@@ -323,7 +325,7 @@ The history books all agreed on the first year the Farseer had been killed. And 
 
 "Who in the Endless would think of checking something like that?? There's no way you could have known about any of thi–"
 
-"No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge! The god of holding a grudge – <em>is the Waiting God</em>."
+"No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge, the god who would keep a feud going for seventy years! The god of holding a grudge – <em>is the Waiting God</em>."
 
 "Wait, really?"
 
