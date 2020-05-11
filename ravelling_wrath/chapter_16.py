@@ -273,17 +273,27 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "<em>Yes!!</em>" I yelled through my tears. "Twenty-five years if it was a day! I was with him when he stoked the fires! And you took him away from me!! How can you –"
 
-"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory… but if it was for <em>twenty-five years</em>, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth layer… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
+"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory. If it was for <em>twenty-five years</em>, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth layer… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
 
 "It erased the memories," I breathed.
 
-"I don't think these memories were <em>erased</em>." I could feel the trembling of anger enter her too-loud voice. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting, making the smallest change, but with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
+"I don't think these memories were <em>erased</em>." I could feel the trembling of anger in her too-loud voice. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting, making the smallest change, but with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
 
 ????? What else were we forgetting ????? "The books!!" she yelled. "I thought they were just [????? dumbing things down], but they left out the details on <em>purpose</em>! Think about it! The Waiting Temple are the historians, they're the ones who made these textbooks, this is what all the schools are teaching! The whole way we learn about Blood worshippers growing up is just history teachers saying how they were some bad people from the past who attacked the city –"
 
 "We didn't ATTACK the city, we WERE the city –"
 
-"– and besides history class, the only place we see them is in the movies –"
+"– and how would we know to question it? The Waiting control everything we know about it!"
+
+"I mean, I wouldn't say the schools control what I think," I said, as Rinn. "Like, before this, if you'd asked me about Blood worship, I wouldn't have thought of some boring history stuff, I would've thought of –"
+
+<em>– a scene from a movie, red robed cultists with long knives carrying off an innocent girl –</em>
+
+"No!" I yelled. Both of me wanted to speak at once. "I thought they were just made-up villains for cheesy action movies! I never thought about it before, but the Blood Temple was a real religion! Why would you make Blood worshippers the villains unless – it was deliberate! [????? My Temple was barely in the ground and they were already telling lies!] How could people believe this?! We never performed human sacrifice! Human life was sacred! ?????
+
+"The Waiting Temple doesn't make the movies, though… And I don't think the movie makers are doing it on purpose, it's just the easiest thing for them to do if they don't want the temples to suspect them of Blood worship. So it might not be an intentional lie –"
+
+"It's TWO lies! Bad enough to just tell a lie yourself, but to make someone else tell it and then make it look like you didn't do anything?!
 
 ?????
 
