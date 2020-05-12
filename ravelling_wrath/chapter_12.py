@@ -20,17 +20,17 @@ posts = [
   
 It slammed into place. The pattern. The blazing, uncompromising pattern of the Stern.
 
-I was crushed between iron walls. Chains locked themselves around my bones and jerked me into place, leaving me immobile. Calipers poked at me from every side, measuring me in ways I didn't know I could be measured. Bars slid and rotated into position, squishing me into a different shape like I was a sack of putty being forced into a square hole.
+I was crushed between iron walls. Chains locked themselves around my bones and jerked me into place, forcing my body to immobility. Calipers poked at me from every side, taking measurements I didn't know could be taken. Bars slid and rotated into position, clamping me into a different shape, like I was a sack of clay being packed into a mold.
 
-I struggled to stay in my original shape.
+I held on tight, struggling to keep my original shape.
 
 <em>Wrong</em>, came the overwhelming force of the god. Every part of me that didn't fit the pattern was <em>wrong</em>. If it couldn't be squeezed into place, I should rip it off myself.
 
 I twisted and fought, trying to get out. But when I pulled my arm against the chains, it burned with pain and rejection. <em>This arm is betraying me. It is not a true part of me. I should rip it off.</em>
 
-<em>No, <strong>you're</strong> wrong,</em> I tried to think. But my will was already cracking from the strain. Wedges drove themselves into my mind, turning me against myself. A thousand spikes were forced into my body, stretching me out like cloth over a frame. Brutal sigils burned all over my flesh, symbols of law and judgment, labels for every one of my impurities and failings.
+<em>No, <strong>you're</strong> wrong,</em> I tried to think. But my will was already cracking from the strain. Wedges drove themselves into my mind, turning me against myself. A thousand spikes were forced into my body, stretching me out like cloth over a frame. Brutal sigils burned all over my flesh, symbols of law and judgment. I was being labeled, diagnosed of my principal impurities and failings. Other marks summarized my lesser impurities for later review. Scarcely a pore of my skin was left untouched.
 
-And then, when I had been burned and carved, I was peeled from the frame and set down to cool, left in a broken form that was sacred to no one. That was only to be expected, for a first pass on a soul so resistant to purification.
+And then, when I had been burned and carved, I was peeled from the frame and set down to cool, left in a mangled form that was sacred to no one. Little more could be expected, for a first pass on a soul so resistant to purification.
 
 The presence receded away, leaving me wobbling in a more physical space, trying to pull my mind back together.
 
@@ -48,7 +48,7 @@ And even if I found her, what good would it do? She would just be taken away fro
 
 That…
 
-Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either. It did <em>feel</em> like the Blood God, but it… didn't really <em>feel</em> like it? Just in case, I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
+Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either. The Blood God was the only reason I would have thoughts that weren't mine, but these thoughts had a completely different feeling. I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
 
 I ought to get up, I thought. My back was killing me. I <em>really</em> ought to get up. But somehow, it just didn't happen. I couldn't summon up the motivation to move.
 
@@ -76,13 +76,13 @@ Mechanically, I stripped off my clothing and changed into the uniform. It was il
 
 I looked down at my old clothing, sitting limply in a heap, looking tiny in the big white room. Belatedly, I realized that I could have just unmanifested it rather than taking it off normally. Just like me, always missing the obvious and getting fucked over.
 
-Where did that thought come from? I didn't remember having a problem with missing the obvious. Ugh, I couldn't stand this place.
+Where had that thought come from? I didn't remember having a problem with missing the obvious. Ugh, I couldn't stand this place.
 
 I bent over to grab my phone from my old clothes. Once I was holding it, I realized that my uniform had no pockets. I felt stupid. I tried to manifest a pocket onto the uniform, but only ran up against the coldness of the Stern God's will. So I carried to the phone in my hand.
 
 I approached the statues at the room's exit. They blocked me dismissively. <em>That is not to come with you,</em> they seemed to be saying.
 
-I didn't want to leave my phone behind. It was the last real object I still had with me. Even before I changed into the uniform, all my clothes had been replaced with manifested versions long ago. But I just wanted to get this over with. It was too much work to try to argue. Feeling empty, I set my phone down with the rest of my things and stepped away from it.
+I didn't want to leave my phone behind. It was the last real object I still had with me. Even before I changed into the uniform, all my clothes had been replaced with manifested versions long ago. But I just wanted to get this over with. It was too much work to argue. Feeling empty, I set my phone down with the rest of my things and stepped away from it.
 
 I presented myself before the statues again. They seemed to acknowledge my presence. An iron demand radiated from them. It had no words, but I could feel it in my head, my heart, my bones. It felt like this: <em>Bow down.</em>
 
@@ -208,7 +208,7 @@ That was fine. I didn't want to think anyway. My thoughts were just making every
 
 <bigbreak>
 
-In the corner of my eye, something was different. I painstakingly lifted my head.
+In the corner of my eye, something was different. I struggled to lift my head.
 
 How long had I been trudging? I had no way to guess. I was at another intersection now. Another…
 
