@@ -333,27 +333,9 @@ Yali gave me an odd look. "You know, sometimes I wish I knew what it's like to g
 
 
 
- But the Blood God… I've learned a bit about the laws of the old Blood Temple, and they actually explicitly allowed revenge, but only if you did it soon enough. For common assault, you were allowed to get revenge if it was within a few days, but not after that. If someone seriously injured you, it was a lot longer, but there was still a limit. Even for murder. If someone murdered a member of your family, you had eighteen months to get revenge. Not a day longer. And everything else was less."
 
-"Eighteen months… That's, less than two years…" ???? "Holy shit! Do you think that means –?"
 
-"…that every year, the Blood God is only getting revenge for being murdered in the previous year? Maybe. The Blood law for humans isn't necessarily the same system that it uses for itself. Gods are different than humans. But we can hope."
-
-"And so if I survive this <em>one</em> time, it'll be over!"
-
-"If the Waiting God lets go," said Yali darkly. That wasn't reassuring. <em>When the Waiting God lets go</em> was an expression that meant something that would never happen.
-
-"It'll <em>have</em> to! Once it knows it's <em>lost</em>!"
-
-Yali was silent for a time. "I don't know if it <em>can</em> lose."
-
-"I'm going to rejuvenate! It isn't! That's winning!"
-
-"Even if we succeed… even if that happens this year…"
-
-"It HAS to be enough! Now that we know – now that we know what's really going on, we've gotta be able to do something about it! We have to strike back!"
-
-"That's what we would <em>want</em> to happen…" Yali sounded completely drained. "But it's the <em>Waiting God</em>. We have no idea how to hurt it. Even if we did, it's bound to be something incredibly difficult. And we, we… you don't realize how many ways there still are for us to die. Justicar might kill us. You… well… And I've even seen Morrow destroy your mind in some of the futures, if I don't step in to protect you. Striking back at the Waiting God… we just can't afford to think about that right now."
+And we, we… you don't realize how many ways there still are for us to die. Justicar might kill us. You… well… And I've even seen Morrow destroy your mind in some of the futures, if I don't step in to protect you. Striking back at the Waiting God… we just can't afford to think about that right now."
 
 "But –"
 
@@ -405,11 +387,21 @@ Yali followed my gaze. "Are you okay? I just want to make sure, since that's tec
 
 "Yeah, that's what I assumed, too. Especially since, since, I think that's more blood than would actually fit in your body."
 
-I laughed. "That river of blood, though… That's really how the Blood God feels about what's happening. I feel like I understand it a lot better now. Even the little things… like way back in the first layer, I was mad about you and Justicar working together, and I kind of assumed it was just me being mad about all her Stern stuff. And it was partly that. But it was also the Blood God thinking you were going to manipulate her against me."
+I laughed. "That river of blood, though… That's really how the Blood God feels about what's happening. I feel like I understand it a lot better now. Like, in the Stern God's world, I was so depressed and I didn't know why, but now I do. I think the Blood God realized, when we were in the second layer, it realized that I wasn't going to let it kill you, and so it felt so hopeless –"
+
+"It knew that you were doing it because you loved me. And the Blood God has power over passionate love, so it took away that part of you so that it could lower your resistance –"
+
+"No I didn't! I'm not a manipulator like <em>you</em>– Er, sorry about that," I said. "That was the god again. But it's right, it didn't do that on purpose. It just felt so hopeless that it gave up and kind of… withdrew into itself. And, remember, we're not two separate people, so when <em>it</em> gave up, I lost all <em>my</em> Blood feelings, too. And the most fucked up thing is, ?????
+
+Even the little things… like way back in the first layer, I was mad about you and Justicar working together, and I kind of assumed it was just me being mad about all her Stern stuff. And it was partly that. But it was also the Blood God thinking you were going to manipulate her against me."
 
 "Oh, is <em>that</em> why you were acting so jealous about it?" said Yali distractedly.
 
 "Jealous?? You take that back," I laughed. Yali chuckled.
+
+
+
+
 
 I wasn't sure what to say next. Everything was still running through my head, but for all the things I wanted to say, we had already talked about them for ages. I decided to get up and stretch. But as I braced myself to stand up, I accidentally put my hand down on the tail of my shirt, and the back of the shirt tore right in half. Both the shirt and the jacket still had all those holes that my blades had put in them when I got pissed off about Morrow hurting Alchemist – ugh, we were still going to have to deal with Morrow. "Aw, shit," I muttered.
 
