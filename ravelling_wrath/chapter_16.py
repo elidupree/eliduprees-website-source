@@ -139,7 +139,7 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I – I – I –"
 
-"I know what you're thinking. How are we going to kill the Farseer without hurting Yali? But that doesn't seem so hard, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook both of my fists in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
+"I know what you're thinking. You're thinking, we can't kill the Farseer without hurting Yali. But there's gotta be a way around that, we'll figure something to. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook my fist in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
 
 My fire billowed around me. I rose effortlessly to my feet. Within my aura of flame, everything felt amazing. The rain boiled off of me, leaving me warm and dry. My remaining wounds faded away, my flesh made whole and warm again, my skin smoothed together into a single, beautifully sensitive organ.
 
@@ -297,7 +297,7 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "Just like the memories…" said Yali quietly.
 
-"I can't believe it," I said, my voice breaking. "You were right. Everything we've ever heard about me and my temple… it's all a lie, crafted over the last seventy years to make us forget everything we were. We've been reduced to a caricature, one-dimensional villains to knock down. How much of us is even left? You won't even stop when I am gone… you will keep erasing until we forget I was even here…"
+"I can't believe it," I said, my voice breaking. "You were right. Everything we've ever heard about me and my temple… it's all a lie, crafted over the last seventy-four years to make us forget everything we were. We've been reduced to a caricature, one-dimensional villains to knock down. How much of us is even left? You won't even stop when I am gone… you will keep erasing until we forget I was even here…"
 
 "Well, one thing's for sure," said Yali grimly. "If it's so important to the Waiting to make us forget, then it's up to us to remember as much as we can."
 
@@ -391,15 +391,53 @@ I laughed. "That river of blood, though… That's really how the Blood God feels
 
 "It knew that you were doing it because you loved me. And the Blood God has power over passionate love, so it took away that part of you so that it could lower your resistance –"
 
-"No I didn't! I'm not a manipulator like <em>you</em>– Er, sorry about that," I said. "That was the god again. But it's right, it didn't do that on purpose. It just felt so hopeless that it gave up and kind of… withdrew into itself. And, remember, we're not two separate people, so when <em>it</em> gave up, I lost all <em>my</em> Blood feelings, too. And the most fucked up thing is, ?????
+"No I didn't! I'm not a manipulator like <em>you</em>– Er, sorry about that," I said. "That was the god again. But it's right, it didn't do that on purpose. It just felt so hopeless that it gave up and kind of… withdrew into itself. And, remember, we're not two separate people, so when <em>it</em> gave up, I lost all <em>my</em> Blood feelings, too."
 
-Even the little things… like way back in the first layer, I was mad about you and Justicar working together, and I kind of assumed it was just me being mad about all her Stern stuff. And it was partly that. But it was also the Blood God thinking you were going to manipulate her against me."
+"Hmm…"
+
+"And that's not the only thing I understand better now! Like, even way back in the first layer, I was mad about you and Justicar working together, and I kind of assumed it was just me being mad about all her Stern stuff. And it was partly that. But it was also the Blood God thinking you were going to manipulate her against me."
 
 "Oh, is <em>that</em> why you were acting so jealous about it?" said Yali distractedly.
 
 "Jealous?? You take that back," I laughed. Yali chuckled.
 
+????? "Shit, what are we going to do now?!"
 
+"You're right. We need to plan." Yali switched back into full focus mode. "You have your soulfire now, so that gives us a weapon that can hurt Justicar. But she's still dangerous, and the Waiting God will do anything it can to let her kill you –"
+
+I looked back at her with dismay. It made sense, but – "I meant about the Blood God! I can't believe I spent all that time telling it to shut up when it was actually afraid it was going to be killed!! But now that we know it was the real victim, I don't even know how to help it!" When I had first joined with the god, it had felt like I suddenly understood everything, like the solution was going to be so obvious. But now, reality was hitting me. The only way it knew how to fight back was to kill the Farseer. And we couldn't kill the Farseer…
+
+"Rinn. Listen to me." She was deadly serious. "I know you feel like, feel like, feel like the god is part of you now. But you have to remember who you are. Are you forgetting how it tried to make you kill me?"
+
+"Of course I'm not forgetting that! That was fucked up! But it's being killed right in front of us! I'm not going to lecture someone for lashing out when they're <em>still in the middle of being killed</em>! We have to <em>do</em> something!"
+
+"Rinn. What we have to do is keep ourselves alive. Everything else comes second –"
+
+I felt tears coming to my eyes again. She didn't understand. "It's all happening right in front of us! <em>Inside</em> us! How can you talk about just staying alive when it's being killed <em>right in front of us?</em>"
+
+"We didn't choose this. We're not obligated to fix the gods' problems just because they forced us to –"
+
+"You're seriously going to just let the Waiting get away with it?!"
+
+Yali opened her mouth, then closed it again. She glared into the distance, seeming to have a long fight with herself. I knew I had her. There were a lot of things she could ignore, but <em>letting the Waiting God win</em> wasn't one of them.
+
+"Okay," she said, finally. "But the Waiting God isn't just getting away with it. The Waiting God's goal is to starve the Blood God, so if the Blood Child lives, the Waiting <em>doesn't</em> win."
+
+"But the Farseer lives too! That's such an insult! Next year it's going to go right back to killing me, and
+
+"I don't understand. If you live, the Blood God gets to rejuvenate. So the Waiting God <em>isn't</em> winning –"
+
+????? The thing about trying to influence the Waiting God
+
+"It used you once. It'll use you again."
+
+"Aaaaaaaargh!" [????? I punched a tree]
+
+????? "Tell me honestly. If we can't think of anything better, do you think the Blood God will try to kill me again?"
+
+Tears poured down my face. As the Blood God, I couldn't bear to answer. I couldn't face the finality of giving up on my only revenge. But with Rinn pushing me along, I forced my mouth to form the words. "No," I said. "I won't. It would be going against my own blood."
+
+But when I heard myself, it sounded weak and uncertain. And even as I spoke, I could tell she didn't believe me.
 
 
 
