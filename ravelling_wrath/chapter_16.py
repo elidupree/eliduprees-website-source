@@ -421,23 +421,31 @@ I felt tears coming to my eyes again. She didn't understand. "It's all happening
 
 Yali opened her mouth, then closed it again. She glared into the distance, seeming to have a long fight with herself. I knew I had her. There were a lot of things she could ignore, but <em>letting the Waiting God win</em> wasn't one of them.
 
-"Okay," she said, finally. "But the Waiting God isn't just getting away with it. The Waiting God's goal is to starve the Blood God, so if the Blood Child lives, the Waiting <em>doesn't</em> win."
+"Okay," she said, finally. "But the Waiting God isn't just getting away with it. The Waiting God's goal is to starve the Blood God, so if the Blood God gets to rejuvenate, the Waiting <em>doesn't</em> win."
 
-"But the Farseer lives too! That's such an insult! Next year it's going to go right back to killing me, and
+"But it'll rejuvenate too! That's such an insult! Next year it's going to go right back to killing me, and –"
 
-"I don't understand. If you live, the Blood God gets to rejuvenate. So the Waiting God <em>isn't</em> winning –"
+"That's not all. Even if it rejuvenates, it will rejuvenate from <em>my</em> soul. And I'm going to do everything I can to sabotage it."
 
-????? The thing about trying to influence the Waiting God
+"Nooo…" I held her hand and looked into her eyes, trying to reach something there. "Yali, I know you're amazing, and powerful, but you don't understand. It's one thing to learn how to swim against the river, but it's another thing to block the whole river with your body. You'll be swept away. The Waiting God will digest you and come out stronger."
 
-"It used you once. It'll use you again."
+"But – we always talked about you being able to influence the Blood God – are you saying that was hopeless too?"
 
-"Aaaaaaaargh!" [????? I punched a tree]
+"That's different, I <em>want</em> to be influenced by my Ravellers! But your god is nothing like me. It used you once. It'll use you again."
 
-????? "Tell me honestly. If we can't think of anything better, do you think the Blood God will try to kill me again?"
+"I – I hope you're wrong –" I could hear the pain in her voice too, now. "But even if you're right, it's the only thing we can do. It's a god. How else can we fight against it?"
 
-Tears poured down my face. As the Blood God, I couldn't bear to answer. I couldn't face the finality of giving up on my only revenge. But with Rinn pushing me along, I forced my mouth to form the words. "No," I said. "I won't. It would be going against my own blood."
+"Aaaaaaaargh!" I leapt up and pounded my fists against a tree. "It's not enough! It's not enough!"
 
-But when I heard myself, it sounded weak and uncertain. And even as I spoke, I could tell she didn't believe me.
+Yali stood behind me and put her hand on my shoulder. "Tell me something honestly," she said. "If we can't think of another solution, do you think the Blood God will try to kill me again?"
+
+Tears poured down my face. As the Blood God, I couldn't bear to answer. I couldn't face the finality of giving up on my only revenge. But with Rinn pushing me along, I forced my mouth to form the words. "No," I said. "I won't. It would be going against my own blood." But when I heard myself, it sounded weak and uncertain.
+
+"Thank you for saying that," said Yali. But I could tell she didn't believe me either. "????? –"
+
+Suddenly, there was a loud buzzing all around us. We both whirled around, looking for the danger, but it turned out it was just coming from all the copies of Yali's phone.
+
+"That must have been –" Yali tried to catch her breath from being startled. "I set a timer earlier. Based on what I Saw, Alchemist will be back soon.
 
 
 
