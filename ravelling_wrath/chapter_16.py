@@ -475,45 +475,23 @@ Yali looked dismayed.
 
 "Yeah, go ahead," I said.
 
-Yali manifested a new comfy chair, sat down and stared into the distance. Now I had nothing else to do but wait for Alchemist. I looked down at myself. I was kind of a mess, bits of dried blood caked onto my skin, dirt on my clothes and hair. My shirt and jacket still had all those holes that my blades had put in them when I got pissed off about Morrow hurting Alchemist.
-
-I couldn't let Alchemist see me looking like that. I stepped behind a tree and unmanifested my clothes again, then made a huge mass of cold water above me, letting it slam down on my head and shoulders and flush away all the mess. A few more torrents of water later, I felt clean and refreshed. Then I unmanifested all of the water, instantly drying me off. I finished by manifesting a new set of clothes, about the same as before, but all intact, cozy and warm.
-
-?????
-
-[????? Yali was looking really intense]
-
-"Alchemist has had an idea that could change <em>everything</em>."
-
-[????? End of chapter]
-
-I came back around the tree to find Yali concentrating.
-
-"Alchemist will be back soon," she said.
-
-"Oh! That's great! Wait, shit, when they left we were still –"
-
-"I should use the Seeing to prepare," said Yali tiredly.
+Yali manifested a new comfy chair, sat down and stared into the distance.
 
 <bigbreak>
 
-By the time Yali came back to the present, I'd had plenty of time to settle down, make a nice couch and sit back and think about things. Another realization had popped up in my mind.<bigbreak>
+Waiting for Yali to get back to the present, I finally had a moment to look down at myself. I was a huge mess, bits of dried blood caked onto my skin, dirt on my clothes and hair. My shirt and jacket still had all those holes that my blades had put in them when I got pissed off about Morrow hurting Alchemist.
 
-It wasn't much longer before I heard the branches rustling from Alchemist getting close to us. I got up and peered towards the sound, and pretty soon I spotted their cute head bobbing in and out of the leaves. They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
+I couldn't let Alchemist see me looking like that. I stepped behind a tree and unmanifested my clothes again, then made a huge mass of cold water above me, letting it slam down on my head and shoulders and flush away all the mess. A few more torrents of water later, I felt clean and refreshed. Then I unmanifested all of the water, instantly drying me off. I finished by manifesting a new set of clothes, about the same as before, but all intact, cozy and warm.
 
-Beside me, Yali squeezed my shoulder. Quietly, she muttered, "I know you'll want to tell Alchemist about everything had just happened. But leave it for later. It's important that we let them tell us what they've been thinking of, before we distract them."
+When I came back around the tree, Yali's eyes weren't staring into the future anymore. "Hey Yali, are you back –"
 
-"Have they been thinking of something important? Like something that could –"
+A strange feeling struck me. Yali didn't move a muscle, but somehow, it felt like she wanted to tell me something. Wanted to – but was afraid.
 
-"Shhhh."
+"What did you See?" I said, rushing towards her. She had been looking for – for Alchemist! "Is Alchemist okay?! Tell me they're okay!!"
 
-In front of us, Alchemist made their way through the last bit of brambles, and padded into the clearing with us.
+"They're okay." Yali's voice broke out stiff and sudden. "In fact – they've had an idea that could change <em>everything</em>."
 
-"I'm glad you're back!" I said.
 
-Alchemist smiled a little, but their eyes were downcast. They wobbled back and forth. They clearly had something else on their mind.
-
-"I've had… an idea," said Alchemist.
 
 ''',
 },

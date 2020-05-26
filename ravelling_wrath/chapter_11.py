@@ -524,7 +524,7 @@ Justicar raised an eyebrow slightly. "What prompted <em>this</em> outburst?"
 
 "Don't worry about it," I said.
 
-Justicar glanced back at me. "I doubt that we should believe he is twenty-five," she said. "Come to think of it, we are an unusual combination of ages for Ravellers, are we not?"
+Justicar glanced back at me. "I doubt whether we should believe he is twenty-five," she said. "Come to think of it, we are an unusual combination of ages for Ravellers, are we not?"
 
 "What's that supposed to mean?"
 
@@ -612,7 +612,7 @@ We all gathered in a little cluster. I tried to pull everyone into a group hug, 
 
 Yali squeezed my hand hard. "<em>Remember,</em>" she whispered, "the Blood God is going to try something. Don't let it succeed. I'm trusting you."
 
-Oblivious to Yali, Morrow shouted, "Yeeeaaahh, let's do this thing!!" He rushed forward into the portal, dragging the rest of us with him. As Alchemist's hand dragged me forward, I frantically looked back at Yali, and the last thing I saw was her eyes looking intently into mine as my body slipped into the well of magic.
+Oblivious to Yali, Morrow shouted, "Yeeeaaahh, let's do this thing!!" He rushed forward into the portal, dragging the rest of us with him. As Alchemist's hand dragged me forward, I frantically looked back at Yali. The last thing I saw was her eyes drilling into mine as my body slipped into the well of magic.
 
  
 ''',

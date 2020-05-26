@@ -18,6 +18,17 @@ posts = [
   "chapter_title": "The Unravelling Potion", 
   "contents": '''
   
+It wasn't much longer before I heard the branches rustling from Alchemist getting close to us. I got up and peered towards the sound, and pretty soon I spotted their cute head bobbing in and out of the leaves. They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
+
+Beside me, Yali squeezed my shoulder. Quietly, she muttered, "I know you'll want to tell Alchemist about everything had just happened. But leave it for later. It's important that we let them tell us what they've been thinking of, before we distract them."
+
+"What have they –"
+
+"Shhhh."
+
+In front of us, Alchemist made their way through the last bit of brambles, and padded into the clearing with us. I ran up and gave them a big hug.
+
+Alchemist smiled a little, but their eyes were downcast. They wobbled back and forth.
 
 "I've, been, thinking, and…"
 
@@ -47,7 +58,7 @@ We were all silent for a while, digesting that question.
 
 "Actually, it's a Waiting saying."
 
-"Oh duh, it refers to plans, haha. Wait, never mind that! You really think it's possible? This changes everything! If there was a potion like that, <em>I</em> could drink it and then the Blood God wouldn't rejuvenate – no, wait, <em>you</em> could drink it and then we'd have won without –"
+"Oh duh, it refers to plans, haha. Wait, never mind that! You really think it's possible? You're right, this changes everything! If there was a potion like that, <em>I</em> could drink it and then the Blood God wouldn't rejuvenate – no, wait, <em>you</em> could drink it and then we'd have won without –"
 
 "Rinn. Shhhh. We'll have time to discuss that later. You're forgetting Alchemist."
 
