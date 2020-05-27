@@ -305,9 +305,9 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 My brain was <em>exhausted</em>
 
-We were sitting in the middle of a huge mess of papers, copies of Yali's phone, and history books. Yali had laid down a hardwood floor over the whole clearing we were in, and everything else was strewn on top of it. It was a good thing it wasn't raining anymore, but the trees were dripping all over the place, so we had to keep all the papers in the clear area.
+We were sitting in the middle of a huge mess of papers, copies of Yali's phone, and history books. Yali had laid down a hardwood floor over the whole clearing we were in, and everything else was strewn on top of it. It was a good thing it wasn't raining anymore. The trees had still been dripping at first, but after a few hours, they had stopped. Our materials were free to sprawl farther and farther towards the borders of the clearing.
 
-And most importantly, it was arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
+And most importantly, they were arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
 
 "It's a good thing your monastery had so many old books," I said. The history books had given us a lot of useful context, even if they were suspiciously silent on the Blood Temple. Most of them had been written <em>after</em> the Blood Temple fell, and they talked about the Blood Temple with almost exactly the same words as what we'd already seen. And the ones from <em>before</em> the fall didn't mention the Blood Temple at all – or more likely, the ones that <em>did</em> had been purged from the monastery archives before Yali was born. The juiciest bit we'd gotten was from a crumbling newspaper. One article was about a court case about a Blood priest who had been arrested by the Stern police. But it didn't really explain what the case was about. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
 
@@ -329,53 +329,13 @@ The history books all agreed on the first year the Farseer had been killed. And 
 
 "Wait, really?"
 
-Yali gave me an odd look. "You know, sometimes I wish I knew what it's like to grow up outside of Waiting culture.
+Yali gave me an odd look. "You, you, you didn't grow up in Waiting culture like I did. When something matters to us, we never forget it. There's even, there's even a joke about an old Waiting priest who doesn't forgive someone for stealing a doll when they were children. We never let go. And the Waiting God… Look at all this." Her eyes traced over our timeline. "A plan more than seventy years in the execution. Every detail carefully controlled. This is the Waiting God I know. I should have been suspicious as soon as I got my powers, because I didn't know why the Blood Children were attacking us. How could the Waiting God <em>not know</em> something so important? Of course it knew, it always knew. I should have –"
 
-[????? Clarify that they still know very little about the blood Temple]
+"Okay, but we know <em>now</em>. Maybe you could have caught it sooner, but we've caught it now, and that's what counts –"
 
+"But how much do we really know? We've been working for more than ten hours, and even with both of us working together, we barely know any more about the Blood Temple than we did before. Maybe if I'd seen it sooner… maybe if…" She lapsed into silence.
 
-
-And we, we… you don't realize how many ways there still are for us to die. Justicar might kill us. You… well… And I've even seen Morrow destroy your mind in some of the futures, if I don't step in to protect you. Striking back at the Waiting God… we just can't afford to think about that right now."
-
-"But –"
-
-"I don't want us to die. We have to focus on staying alive."
-
-I tried to digest that. But I just couldn't. What Yali said was logical, but… every part of me yelled out to reject it. "This sucks!" I yelled. "I don't <em>want</em> my – I don't want Rinn to die, but what about <em>me</em>?"
-
-Yali narrowed her eyes. "'Me' meaning the Blood God?"
-
-"What? Look, <em>I, Rinn,</em> think we need to help the Blood God! You don't know how much pain it's in! Ugh, I can't believe I spent all that time telling it to shut up when it was afraid it was going to be killed!!"
-
-"I, I know you feel that way, but –"
-
-"It's all happening right in front of us! <em>Inside</em> us! How can you talk about just staying alive when it's being killed <em>right in front of us?</em>"
-
-"We didn't choose this. We're not obligated to fix the gods' problems just because they forced us to –"
-
-"You're seriously going to just let the Waiting get away with it?!"
-
-Yali opened her mouth, then closed it again. She glared into the distance, seeming to have a long fight with herself. I knew I had her. There were a lot of things she could ignore, but <em>letting the Waiting God win</em> wasn't one of them.
-
-"I'm probably making the wrong choice," she said. "Again. But… I do have an idea. A way to go against the Waiting God –"
-
-"What is it?" I said excitedly.
-
-"It's, it's… complicated. I don't think I can tell you everything yet. Do you trust me?"
-
-"Of course I do!! You're – you're freakin' <em>Yali</em>! If you told me I had to rip my own arm off, I'd <em>do</em> it!"
-
-Yali looked me directly in the eye. Her eyes drilled into me. Then she shook her head slightly. "I can't tell you everything yet," she said.
-
-"Okay, uh…" I wasn't sure what to say to that. "Well, good luck with, uh, whatever it is."
-
-"Thanks."
-
-????
-
-<bigbreak>
-
-????? I was starting to come down from the rush of the Blood God. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready whenever I needed to reach for it. It just wasn't <em>me</em>, not right now.
+[????? I was also silent, because I was tired from all the work.] And I was starting to come down from the rush of the Blood God. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready whenever I needed to reach for it. It just wasn't <em>me</em>, not right now.
 
 I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just rocks. Just the wooden floor. Just my back resting against some hard bark. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
 
