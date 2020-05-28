@@ -173,7 +173,7 @@ Getting the details was a lot harder than I had hoped. The Blood God – or at l
 
 "Ugh."
 
-While I tried to interpret for the god, Yali also tried to look things up, first checking the encyclopedia on her phone, and then even manifesting some history textbooks. [????? Fix wording: "These should at least tell us some history about the Blood Temple," she said. But as she flipped through them, she didn't seem to find what she was looking for either.] I looked over her shoulder and read along:
+While I tried to interpret for the god, Yali also tried to look things up. First she checked the encyclopedia on her phone, and then she even manifested some history textbooks, saying, "These should at least tell us some history about the Blood Temple." But even after she flipped through them for a while, it seemed like she hadn't found what she was looking for. I looked over her shoulder and read along:
 
 <p style="font-style: italic"><q>– there was an atmosphere of fear in the city, as the Blood Temple became increasingly violent. The new generation of Blood Temple leaders had little respect for the ancient treaties between the temples –</q></p>
 
@@ -287,13 +287,13 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 <em>– a scene from a movie, red-robed cultists with long knives carrying off an innocent girl –</em>
 
-"No!" I yelled. Both of me wanted to speak at once. "I thought they were just made-up villains for cheesy action movies! I never thought about it before, but the Blood Temple was a real religion! Why would you make Blood worshippers the villains unless – it was deliberate! [????? My Temple was barely in the ground and they were already telling lies!] How could people believe this?! We never performed human sacrifice! Human life was sacred! ?????
+"No!" I yelled. Both of me wanted to speak at once. "I thought they were just made-up villains for cheesy action movies! I never thought about it before, but the Blood Temple was a real religion! Why would you make Blood worshippers the villains unless – it was deliberate!" I manifested a movie poster and threw it on the ground, staring at the cultists around their altar. "How could people believe this?! We never performed human sacrifice! This is the opposite of everything we stood for! And you accused us of this?! The moment my temple was in ruins, you were already spitting on it with your lies!"
 
-"The Waiting Temple doesn't make the movies, though…" said Yali, mulling it over. "And I don't think the movie makers are doing it on purpose, it's just the easiest thing for them to do if they don't want the temples to suspect them of Blood worship. So this part might not be an intentional lie –"
+"The Waiting Temple doesn't make the movies, though…" said Yali, mulling it over. "And I don't think the movie writers are attacking the Blood Temple on purpose, it's just a lazy plot that won't make the other temples suspect them of Blood worship. So this part might not be an intentional lie –"
 
 "Yeah, it's not a lie, it's TWO lies! Bad enough to just tell a lie yourself, but you told it through somebody else and made it look like you didn't do anything!"
 
-"Just like the memories…" said Yali quietly.
+"Just like the memories…" said Yali uncertainly.
 
 "I can't believe it," I said, my voice breaking. "You were right. Everything we've ever heard about me and my temple… it's all a lie, crafted over the last seventy-four years to make us forget everything we were. We've been reduced to a caricature, one-dimensional villains to knock down. How much of us is even left? You won't even stop when I am gone… you will keep erasing until we forget I was even here…"
 
@@ -307,7 +307,7 @@ We were sitting in the middle of a huge mess of papers, copies of Yali's phone, 
 
 And most importantly, they were arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
 
-"It's a good thing your monastery had so many old books," I said. The history books had given us a lot of useful context, even if they were suspiciously silent on the Blood Temple. Most of them had been written <em>after</em> the Blood Temple fell, and they talked about the Blood Temple with almost exactly the same words as what we'd already seen. And the ones from <em>before</em> the fall didn't mention the Blood Temple at all – or more likely, the ones that <em>did</em> had been purged from the monastery archives before Yali was born. The juiciest bit we'd gotten was from a crumbling newspaper. One article was about a court case about a Blood priest who had been arrested by the Stern police. But it didn't really explain what the case was about. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
+"It's a good thing your monastery had so many old books," I said. The history books had given us a lot of useful context, even if they were suspiciously terse about the Blood Temple. Most of them had been written <em>after</em> the Blood Temple fell, and they talked about the Blood Temple in the same way as the one we'd read earlier, sometimes even using almost exactly the same words. And the ones from <em>before</em> the fall didn't mention the Blood Temple at all – or more likely, the ones that <em>had</em> mentioned it had been purged from the monastery archives before Yali was born. The juiciest bit we'd gotten was from a crumbling newspaper. One article mentioned a court case about a Blood priest who'd been arrested by the Stern police. But it didn't really explain what the case was about. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
 
 Yali responded, "Honestly, I'm surprised at how many books <em>you've</em> been able to manifest. What with not caring about history and all."
 
@@ -333,7 +333,7 @@ Yali gave me an odd look. "You, you, you didn't grow up in Waiting culture like 
 
 "But how much do we really know? We've been working for more than ten hours, and even with both of us working together, we barely know any more about the Blood Temple than we did before. Maybe if I'd seen it sooner… maybe if…" She lapsed into silence.
 
-[????? I was also silent, because I was tired from all the work.] And I was starting to come down from the rush of the Blood God. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready whenever I needed to reach for it. It just wasn't <em>me</em>, not right now.
+It was tearing me up to see Yali feel so defeated. But I was suddenly too tired to think of how to get through to her. The work had taken a lot out of me. And I was starting to come down from the rush of the Blood God, too. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready when I really needed to reach for it. It just wasn't <em>me</em>, not right now.
 
 I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just rocks. Just the wooden floor. Just my back resting against some hard bark. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
 
@@ -359,7 +359,7 @@ I laughed. "That river of blood, though… That's really how the Blood God feels
 
 "Jealous?? You take that back," I laughed. Yali chuckled.
 
-????? "Shit, what are we going to do now?!"
+I lay back, manifesting a pillow under my head and gazing into the sky. It was so nice to be able to laugh along with Yali, with the Blood God on our side, not coming between us. But the instant I started to relax, I remembered everything that was coming. I sat bolt upright. "Shit, what are we going to do now?!"
 
 "You're right. We need to plan." Yali switched back into full focus mode. "You have your soulfire now, so that gives us a weapon that can hurt Justicar. But she's still dangerous, and the Waiting God will do anything it can to let her kill you –"
 
@@ -393,7 +393,7 @@ Yali opened her mouth, then closed it again. She glared into the distance, seemi
 
 "I – I hope you're wrong –" I could hear the pain in her voice too, now. "But even if you're right, it's the only thing we can do. It's a god. How else can we fight against it?"
 
-"Aaaaaaaargh!" I leapt up and pounded my fists against a tree. "It's not enough! It's not enough!"
+"Aaaaaaaargh!" I leapt up and pounded my fists against a tree. "It's not enough! It's not enough!" [????? Expand this]
 
 Yali stood behind me and put her hand on my shoulder. "Tell me something honestly," she said. "If we can't think of another solution, do you think the Blood God will try to kill me again?"
 
