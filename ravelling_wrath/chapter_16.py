@@ -373,7 +373,7 @@ I looked back at her with dismay. It made sense, but – "I meant about the Bloo
 
 I felt tears coming to my eyes again. She didn't understand. "It's all happening right in front of us! <em>Inside</em> us! How can you talk about just staying alive when it's being killed <em>right in front of us?</em>"
 
-"We didn't choose this. We're not obligated to fix the gods' problems just because they forced us to –"
+"We didn't choose this. We're not obligated to fix the gods' problems just because they forced us to be their –"
 
 "You're seriously going to just let the Waiting get away with it?!"
 
@@ -393,17 +393,21 @@ Yali opened her mouth, then closed it again. She glared into the distance, seemi
 
 "I – I hope you're wrong –" I could hear the pain in her voice too, now. "But even if you're right, it's the only thing we can do. It's a god. How else can we fight against it?"
 
-"Aaaaaaaargh!" I leapt up and pounded my fists against a tree. "It's not enough! It's not enough!" [????? Expand this]
+"Aaaaaaaargh!" I leapt up and pounded my fists against a tree. "It's not enough! It's not enough!" I roared. "How can this be all there is?! We have to be able to do something! We have to! We have to –"
 
-Yali stood behind me and put her hand on my shoulder. "Tell me something honestly," she said. "If we can't think of another solution, do you think the Blood God will try to kill me again?"
+Yali stood behind me and took me by the shoulders, gently pulling me away from pounding on the tree. Reluctantly, I turned and let myself sink into her arms. I looked up at her, hoping that I would somehow see her strength again, that she would be sure of what to do. But her eyes were troubled.
 
-Tears poured down my face. As the Blood God, I couldn't bear to answer. I couldn't face the finality of giving up on my only revenge. But with Rinn pushing me along, I forced my mouth to form the words. "No," I said. "I won't. It would be going against my own blood." But when I heard myself, it sounded weak and uncertain.
+"Tell me something honestly," she said. "If we can't think of another solution, do you think the Blood God will try to kill me again?"
 
-"Thank you for saying that," said Yali. But I could tell she didn't believe me either. "????? –"
+Tears poured down my face. As the Blood God, I couldn't bear to answer. I couldn't face the finality of giving up on my only revenge. But with Rinn pushing me along, I forced my mouth to form the words. "No," I said. "I won't. It would be going against my own blood." I was trying my best, but when I heard myself, it sounded weak and uncertain.
+
+"Thank you for saying that," said Yali. I could tell she didn't believe me either. "It'll have to –"
+
+Suddenly, there was a loud buzzing all around us.
 
 <bigbreak>
 
-Suddenly, there was a loud buzzing all around us. We both whirled around, looking for the danger, but it turned out it was just coming from all the copies of Yali's phone.
+We both whirled around, looking for the danger, but it turned out it was just coming from all the copies of Yali's phone.
 
 "That must have been –" Yali tried to catch her breath from being startled. "I set a timer earlier. Based on what I Saw, Alchemist will be back soon. We must have copied the phone after I set it –"
 
@@ -411,9 +415,9 @@ As soon as she mentioned Alchemist, a whole another set of memories stampeded in
 
 "Wait," said Yali. "Your, your relationship with the Blood God is important. It didn't sound like this was a good time to interrupt our conversation."
 
-I felt my heart pulsing inside me with the power of the Blood God. But as soon as I listened to it, the answer became clear. "It's okay," I said firmly. "The Blood God is with me on this. Alchemist and Morrow need our help, and they need it <em>now</em>. You and I… it's big, but we can save it for later."
+I felt my heart pulsing inside me with the power of the Blood God. As soon as I listened to it, the answer became clear. "It's okay," I said firmly. "The Blood God is with me on this. Alchemist and Morrow need our help, and they need it <em>now</em>. You and I… it's big, but we can save it for later."
 
-"I just want to make sure – okay, you're sure. You're right, it's not urgent…" Yali looked down tiredly. "I should use the Seeing to prepare. To make sure things go well with Alchemist…"
+"I just want to make sure – okay, you're sure. You're right, it's not urgent…" Yali looked down, and her shoulders sank a little. It wasn't a big movement, but I could tell she was exhausted. "I should use the Seeing to prepare. To make sure things go well with Alchemist…"
 
 "Wait, the Seeing? What if it lies to you, like it lied before?"
 
@@ -437,11 +441,11 @@ Yali manifested a new comfy chair, sat down and stared into the distance.
 
 <bigbreak>
 
-Waiting for Yali to get back to the present, I finally had a moment to look down at myself. I was a huge mess, bits of dried blood caked onto my skin, dirt on my clothes and hair. My shirt and jacket still had all those holes that my blades had put in them when I got pissed off about Morrow hurting Alchemist.
+Waiting for Yali to get back to the present, I finally had a moment to look down at myself. I was a huge mess, bits of dried blood caked onto my skin, dirt on my clothes and hair. My whole body was cramped from crouching over papers all day. Worst of all, my shirt and jacket still had all those holes in them – the ones that my blades had made when I was angry about Morrow hurting Alchemist.
 
 I couldn't let Alchemist see me looking like that. I stepped behind a tree and unmanifested my clothes again, then made a huge mass of cold water above me, letting it slam down on my head and shoulders and flush away all the mess. A few more torrents of water later, I felt clean and refreshed. Then I unmanifested all of the water, instantly drying me off. I finished by manifesting a new set of clothes, about the same as before, but all intact, cozy and warm.
 
-When I came back around the tree, Yali's eyes weren't staring into the future anymore. "Hey Yali, are you back –"
+When I came back around the tree, Yali's eyes looked a little different – she was still staring, but not quite the same way she did when she was using the Seeing. "Hey Yali, are you back –"
 
 A strange feeling struck me. Yali didn't move a muscle, but somehow, it felt like she wanted to tell me something. Wanted to – but was afraid.
 
