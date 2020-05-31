@@ -58,11 +58,11 @@ We were all silent for a while, digesting that question.
 
 "Actually, it's a Waiting saying."
 
-"Oh duh, it refers to plans, haha. Wait, never mind that! You really think it's possible? You're right, this changes everything! If there was a potion like that, <em>I</em> could drink it and then the Blood God wouldn't rejuvenate – no, wait, <em>you</em> could drink it and then we'd have won without –"
+"Oh duh, it refers to plans, haha. Wait, never mind that! You really think it's possible? You're right, this changes everything! If there was a potion like that, <em>I</em> could drink it and then – no, wait, <em>you</em> could drink it and then the Waiting God wouldn't –"
 
-"Rinn. Shhhh. We'll have time to discuss that later. You're forgetting Alchemist."
+"Rinn. Shhhh. You're the one who said we need to save Morrow first."
 
-I looked back at Alchemist, who was still watching us nervously. "Shit, sorry. This is about Morrow, we've gotta think about Morrow first. So… what's the plan? Alchemist makes this… unravelling potion, and then…"
+I looked back at Alchemist, who was still watching us nervously. "Shit, sorry. This is about Morrow, we've gotta think about Morrow. So… what's the plan? Alchemist makes this… unravelling potion, and then…"
 
 Alchemist drooped. "Oh… I didn't think…"
 
@@ -142,7 +142,7 @@ Then I followed a link and read about another serial killer. I kept at it until 
 
 Of course, even now that we knew what plants we needed, they didn't seem to be growing anywhere around here. But after a long discussion, Yali and Alchemist agreed that they could use Alchemist's powers to <em>grow</em> the plants they needed. Regular manifesting wouldn't work, but the Broken God could cheat plants out of nowhere. Even then, it was too similar to manifested matter, but if they just started with seedlings and let them grow the rest of the way from the soil, most of the matter would be from the soil, so it would work.
 
-So that's what they did. Alchemist wiggled their fingers into the dirt, coaxing little stems out from the ground. Then they cupped their hands around the new sprouts. Before long, the plants were going absurdly fast, stems and leaves shooting up to be almost as tall as we were, and the ground shifting subtly up and down as the roots spread into the surrounding earth.
+So that's what they did. Alchemist wiggled their fingers into the dirt, coaxing little stems out from the ground. Then they cupped their hands around the new sprouts. Before long, the plants were growing absurdly fast, stems and leaves shooting up to be almost as tall as we were, and the ground shifting subtly up and down as the roots spread into the surrounding earth.
 
 Meanwhile, I set to work trying to make a bottle, because the container couldn't be made of manifested matter either. First I tried to make a clay bottle. But shaping the clay into a bottle was a huge pain. <em>Layo</em> could've probably done it, but all I got was a lopsided bowl. Just to see what would happen, I tried to fire the clay by manifesting it to be really hot, but it just cracked into pieces. So I gave up and tried to make a bottle out of wood instead. I cut down a tree and hollowed out a chunk of it with my Blood Blades. The first few times I tried, I accidentally put holes through it, but eventually I got the hang of it. And the Blood Blades were razor-sharp when I needed them to be, so it worked out fairly easily. Pretty soon, I had a whole row of asymmetric wooden jars and bottles in front of me.
 
