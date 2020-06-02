@@ -240,7 +240,7 @@ I squinted across at a short smear of blood on the rocks. "Should there be this 
 
 "Right…"
 
-We descended to the mouth of a ravine, guarded by a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Or, knowing him, paused because he was physically unable to keep going at the time. Yali stopped walking and squinted. "Do you feel it, too?" she said.
+We descended to the mouth of a ravine, guarded by a tall, blackened tree with splotches of blood on its trunk. Morrow must have paused to rest here. Or, knowing him, paused because he was physically unable to keep going. Yali stopped walking and squinted. "Do you feel it, too?" she said.
 
 I stopped alongside her. When I paid attention, I could feel something sloshing at the edges of my mind. "Yeah. I do."
 
@@ -248,7 +248,7 @@ I stopped alongside her. When I paid attention, I could feel something sloshing 
 
 "Right…"
 
-Yali handed me the unravelling potion, letting me carry it in a bag hanging from a short rope. She didn't want it to touch my soulfire directly. "You've got this," she said.
+Yali handed me the unravelling potion, letting me carry it in a bag hanging from a long strap. She didn't want it to touch my soulfire directly. "You've got this," she said.
 
 I laughed. It came out louder than I expected. "That's pretty reassuring, coming from someone who can literally see the future."
 
@@ -264,7 +264,7 @@ I laughed. It came out louder than I expected. "That's pretty reassuring, coming
 
 "Alright, let's do this thing." I threw my head back and howled into the air, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow radiating from every muscle. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
 
-The ravine was narrow and cut deep into the ground, not leaving much room to walk if you didn't want to step in the little brook that ran along its length. Where there <em>was</em> room, spindly, twisted trees hogged up the shore. But the water wasn't much deeper than my foot. I confidently strode down the middle, splashing it aside. When it soaked my shoes, I just unmanifested them and walked barefoot in the cold stream, my soulfire keeping me warm.
+The ravine was narrow and cut deep into the ground, not leaving much room to walk at the edge of the little brook that ran along its length. Where there <em>was</em> room, spindly, twisted trees hogged up the shore. But the water wasn't much deeper than my foot. I confidently strode down the middle, splashing it aside. When it soaked my shoes, I just unmanifested them and walked barefoot in the cold stream, my soulfire keeping me warm.
 
 As I got closer, the forest swam around me. It felt like the world was unstable, trying to make me forget which way was up and which way was down. But from inside my soulfire, it didn't seem so threatening. I was a transcendent pillar of flame. I knew exactly where <em>I</em> was. It was just the rest of the world that was having trouble.
 
@@ -278,15 +278,15 @@ Morrow must have heard me, because he tried to turn around. But somehow, he only
 
 Yali had <em>seriously</em> fucked him up. Like, I'd beaten up plenty of assholes myself – and I had gotten beat up plenty of times too, when I picked fights with people bigger than me – but I had never seen someone messed up <em>this</em> bad. One eye was completely swollen shut, and the other one wasn't looking much better. His nose was sticking off at an angle, dripping a mass of blood right down his chin. His hands were messed up too, fingers sticking off in all the wrong directions.
 
-I immediately wanted to hurt whoever did this to him, but that was Yali. And that wasn't what I was here for. I knew what I had to do. "Morrow! I've got something for you."
+I immediately wanted to hurt whoever had done this to him, but that was Yali. And revenge wasn't what I was here for. I knew what I had to do. "Morrow! I've got something for you."
 
 Morrow's one working eye wavered back and forth, never quite focusing in on me. There was a horrible grin on his face. The air was thick with his power, pulsing and flickering as he moved. "Who are you!!" he screamed.
 
 "You can't see me? I'm Rinn –"
 
-I didn't get a chance to finish. The power rushed in at me. As soon as I said my name, I could feel it locking on, making me the one focus of the entire world. The trees, the hills, and even Morrow faded into the background. I was the one on stage, and all around me, it was like millions of scrabbling fingers trying to pull at my thoughts, tongues pressing in to get a taste of my essence, mouths trying to suck away my skin and drain out the juice below.
+I didn't get a chance to finish. The power rushed in at me. As soon as I said my name, I could feel it locking on, making me the one focus of the entire world. The trees, the hills, and even Morrow faded into the background. I was the one on stage, and all around me, it was like millions of scrabbling fingers trying to pull at my thoughts, tongues pressing in to lick away my skin and get a taste of the essence inside.
 
-But even the grotesque pressure of his powers was little more than a shadow to my soulfire. I hung on tight, blazing brightly against the vortex, holding the chaos firmly at arm's length.
+But even the grotesque pressure of his powers could not overwhelm my soulfire. I hung on tight, blazing brightly against the vortex, holding the chaos firmly at arm's length.
 
 "Too bright!!!" Morrow screamed. "It's burning me, you're burning me, take it away –"
 
@@ -302,13 +302,13 @@ I clasped him by the shoulders. I didn't know if he could feel what I felt, but 
 
 "Morrow. I know you're in pain. I want you to listen to me. I'm here to help." In the warmth of my soulfire, it was all so simple. The things to say were so obvious.
 
-"Pain? Pain where?? Y'mus'be thinking of someone else! I'm fine, I found out so much, you gotta come check out –"
+"Pain? Pain where?? Y'mus'be thinking of someone else! I'm fine, I've seen so much, you gotta come check out –"
 
 "I'm always interested in the things you come up with, but this is more important. Can you –"
 
 Morrow pushed himself up, carelessly shoving me sideways. I had to brace myself against the ground. "Check this out!!" he yelled.
 
-Morrow waved one of his broken hands. Along with it, some of his blood floated out into the air. He was making it hover using manifesting. In the air, the blood coiled into an intricate shape, a 3D spiral like the Endless Maze symbol, but also with narrow spikes jutting off of it in random directions.
+Morrow waved one of his broken hands. Along with it, some of his blood floated out into the air, held up by his manifesting. In the air, the blood coiled into an intricate shape, a three dimensional spiral almost like the Endless Maze symbol, but also with narrow spikes jutting off of it in random directions.
 
 As I watched, one of the spikes extended outwards, a long line stabbing through the air. It pierced into the wall of the ravine, sinking into the earth like an injection. Near where it struck, huge chunks of the ground bubbled and stretched, ballooning into bulbous shapes. It spread upward through the ground, all the way to the edge of the ravine, where it bubbled under the trees standing there, knocking some of them over, pulling up some of their roots.
 
@@ -316,25 +316,25 @@ As I watched, one of the spikes extended outwards, a long line stabbing through 
 
 "I'm fine!" He gestured at the distorted ground. "Can't you see it??"
 
-The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me. He was a tiny, lonely flame trying to carve out a hole in a huge cloud of fear. And he was also the cloud, trying to drive the flame away from danger and pain. And he was also the pain, trying to scream out to be heard. He was reaching out for… comfort? No, for… safety? No, not even that. Even just basic safety was way beyond what he could think of right now. He was clinging onto anything that could make him feel like he was in control of what was happening.
+The old me would have been frustrated. I would have said something like <em>you literally just manifested with your own blood, how can you not realize you're bleeding?!</em>. But now, it all seemed so much clearer. I could see Morrow's desires laid out in front of me. He was a tiny, lonely flame trying to carve out a hole in a huge cloud of fear. And he was also the cloud, trying to drive the flame away from danger and pain. And he was also the pain, trying to scream out to be heard. He was reaching out for… comfort? No, for… safety? No, not even that. Even just basic safety was beyond what he could think of right now. He was clinging onto anything that could make him feel like he was in control of what was happening.
 
 "I can give you a way to get back in control. How does that sound?"
 
 Morrow tried to pull me by the arm, tugging me into walking along the ravine with him. His broken fingers didn't do a good job of it, but he tried. "You've gotta see this! It's just up ahead!"
 
-I was pretty sure there wasn't anything up ahead. But I played along. He was starving for someone to listen, and if I could feed that hunger, he might open up to me more. And just walking wasn't going to hurt anything.
+I was pretty sure there wasn't anything up ahead. But I played along. He was starving for someone to listen, and if I could feed that hunger, he might open up to me more.
 
-As we walked along together, I watched how he was moving. He jerked along, alternately flinching in pain and lunging forward to compensate. This pain was going to be a problem. As long as the literal, physical pain was overwhelming him, there was no way I could expect him to step back and think about what I had to say.
+As we walked along together, I watched how he was moving. He jerked along, alternately flinching in pain and lunging forward to compensate. It was clear that the literal, physical pain was overwhelming him. How was I going to reach him? As long as the pain was there, there was no way I could expect him to step back and think about what I had to say.
 
 I held up one of my spray bottles. "Morrow, I've got a healing potion in this bottle. It can heal your wounds, all I have to do is –"
 
 Suddenly, Morrow was listening intently. "A potion! Raylie! You've been with Raylie! Raylie!!!!" Morrow leaned away from me, and I felt a surge of his powers again.
 
-I grabbed onto his head, letting soulfire flow from my hands to stop whatever he was doing. "This is no time for you to reach out for Raylie!" I said firmly. "You hurt them before. If you want to get back your loving relationship with them, you have to understand what you're doing. Otherwise you're just going to hurt them <em>again</em>." I didn't feel like my words were getting through to him. I really needed to do something about the pain. "I'd like to give you this healing potion. All I have to do is spray it on to you. It'll make the pain go away. Is that okay with you?"
+He was trying to reach Alchemist's mind! I grabbed onto his head, letting soulfire flow from my hands to stop him. "This is no time for you to reach out for Raylie!" I said firmly. "You hurt them before. If you want them back, you have to understand what you're doing. Otherwise you're just going to hurt them <em>again</em>." I didn't feel like my words were getting through to him. I really needed to do something about the pain. "I'd like to give you this healing potion. All I have to do is spray it on to you. It'll make the pain go away. Is that okay with you?"
 
 "Raylie… Raylie…" he moaned.
 
-I wasn't going to get a direct answer. How could I get him to accept help with the pain, when the pain was even stopping him from listening to me ask about the pain? I wanted to just go ahead and spray him, but I had to be careful. If I made him feel like I was taking away his control, he might cling onto his problems even harder. I had to approach this differently. "I'm going to spray the healing potion on you," I said. "It'll make the pain go away. If you're listening, if you don't want me to, just tell me, okay? I won't do it if you say you don't want me to."
+I wasn't going to get a direct answer. I wanted to just go ahead and spray him, but I had to be careful. If I made him feel like I was taking away his control, he might cling onto his problems even harder. How could I get him to accept help with the pain, when the pain itself was stopping him from listening to me ask about the pain? I had to approach this differently. "I'm going to spray the healing potion on you," I said. "It'll make the pain go away. If you're listening, if you don't want me to, just tell me, okay? I won't do it if you say you don't want me to."
 
 "Raylie… I'm burning, where are you, Raylie…"
 
@@ -372,19 +372,19 @@ I decided to ignore the obvious contradiction. I needed to stick to the things t
 
 "Yes. I know it's hard, but just think about –"
 
-"Wait a sec, has that ever happened before?! A Raveller without powers?!" Morrow's eyes lit up. "That's so impossible! No one's ever done this before! I'll be the first one ever, EVER!" I could feel a rush of relief roll off of him, as his Seeking desires suddenly wanted the same thing as his human ones. Morrow stuck out his hands. "Give it to me before I change my mind! Gimme gimme gimme –"
+"Wait a sec, has that ever happened before?! A Raveller without powers?!" Morrow's eyes lit up. "That's so impossible! No one's ever done this before! I'll be the first one ever, EVER!" I could feel a rush of relief roll off of him. His Seeking desires suddenly wanted the same thing as his human ones. Morrow stuck out his hands. "Give it to me before I change my mind! Gimme gimme gimme –"
 
 "I don't have it on me!" I laughed. "I left it over there."
 
 Morrow ran to where I pointed. As soon as he spotted where the potion was sitting, he dove and snatched it up. He plowed into the ground, then clumsily rolled into a sitting position. Then he wrenched off the top of the jar and slammed it onto his face.
 
-For a moment, I was thrown into a panic, thinking he might spill the potion. But it all flowed into his mouth, almost of its own accord. His eyes bugged out as he frantically took four giant gulps. And then it was done. He chucked the empty jar on the ground and looked up at me.
+For a moment, I was in a panic, thinking he might spill the potion. But it all flowed into his mouth, almost of its own accord. His eyes bugged out as he frantically took four giant gulps. And then it was done. He chucked the empty jar on the ground and looked up at me.
 
 I looked back at him.
 
 "What comes next?! Is it gonna –"
 
-Morrow jerked forward, like he was choking. Some… <em>thing</em> started spilling out of his mouth. It was like the magic from the portals – I couldn't see it physically, but it was dazzling. I could feel it even through my soulfire. Bright sparks of feeling, the rush of discovery, the tantalizing challenge of paradox. All in a jumble, they blazed brightly and winked out.
+Morrow jerked forward, like he was choking. Some… <em>thing</em> started spilling out of his mouth. It was like the magic from the portals – I couldn't see it physically, but it was dazzling. I could feel it even through my soulfire. Bright sparks of feeling, the rush of discovery, the captivating challenge of paradox. All in a jumble, they blazed brightly and winked out.
 
 Moments later, it was gone. The pressure of Morrow's powers suddenly lifted, too, leaving just the woods and the quiet sound of the water moving around us.
 
@@ -404,7 +404,7 @@ Now what? We hadn't really talked about what to do <em>after</em> he drank the p
 
 I knelt down and slung him over my shoulders. Carrying him was almost effortless. At first I thought it was because of how skinny he was, but he probably weighed more than me anyway because he was a bunch taller. No, it wasn't about <em>him</em>. It was the Blood God's strength that was helping me.
 
-The walk back out of the ravine was uneventful. With Morrow's powers gone, it seemed like maybe things could be calm again. At least for now. For now, I just had to make sure not to drop him.
+Nothing much happened as I carried Morrow back out of the ravine. With his powers gone, it seemed like maybe things could be calm again, at least for now. I just had to make sure not to drop him.
 
 When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new, broad belt with loads of potions hanging from it. ?????
 
@@ -416,7 +416,7 @@ When I got back to Yali and Alchemist, they were already standing to greet me. Y
 
 When I got close, Alchemist hurried to check on Morrow. It was pretty awkward with me still carrying him over my shoulder. "Oy, let me put him down first!" I said. I shoved Alchemist back a bit, manifested a mattress and slung Morrow down onto it.
 
-As Alchemist crouched over him to check his vital signs, Yali looked down at Morrow contemptfully. She frowned. "I don't believe there is any risk that I will attack him again," she said, "but after he wakes up, things will be much easier if he is kept a good distance away from me."
+As Alchemist crouched over him to check his vital signs, Yali looked down at him from above, her face twisted with contempt. "I don't believe there is any risk that I will attack him again," she said, "but after he wakes up, things will be much easier if he is kept a good distance away from me."
 
 "Sure, we can do that. Right, Alchemist?"
 
@@ -448,7 +448,7 @@ We walked together slowly, holding hands and bumping shoulders together. It didn
 
 "How long do you think we were in this layer before Morrow attacked you?!" said Yali angrily.
 
-"I don't know, I was having fun in the woods for a while, maybe a day or two? Why does that –"
+"I dunno, I was having fun in the woods for a while, maybe a day or two? Why does that –"
 
 "<em>It was two days and four hours!</em> And what do you think was the first thing I did when I entered this layer?!"
 
@@ -520,7 +520,7 @@ Beside me, Yali stiffened.
 
 "Look, he can't hurt me again even if he wanted to. He was helpless to my soulfire even when he <em>had</em> his powers. Now he's just, like, some loser."
 
-"Fine. Go. Just don't make me think about it."
+"Fine. Go. Just don't expect me to be happy about it."
 
 I wanted to argue back, to say that it wouldn't be so bad. But I had a feeling that we would just get in a fight again, and I wouldn't be able to convince her of anything. So I let it go. "Thanks. See you soon."
 
@@ -542,7 +542,7 @@ Morrow's eyes moved slowly. "How do you want me to feel?"
 
 Well, he was still Morrow, at least. "Dude. You really gonna make a game out of it <em>now</em>?"
 
-"Ehh…" He looked back away from me, and kept plodding along. I caught up and walked alongside him. I stayed quiet, waiting for him to make the first move. I had kind of only come here to be nice to Alchemist, anyway. If it came to life-and-death stuff, I would have gladly fought a bear to protect Morrow, but I was still kinda sick of him as a person.
+"Ehh…" He looked back away from me, and kept plodding along. I caught up and walked alongside him. I stayed quiet, waiting for him to make the first move. I didn't especially <em>want</em> to talk to him – I had mostly come here to be nice to Alchemist. I could still feel my bond of blood with Morrow, and I would have gladly fought a bear to protect him, but I was kinda sick of him as a person.
 
 After a while of us just crunching through the leaves, Morrow broke the silence.
 
@@ -556,7 +556,7 @@ I sized him up, deciding how to answer that. Alchemist would probably have wante
 
 "You pretty much did," I said. "You fucked up real bad, and you hurt all three of us. And it could've been a lot worse if we hadn't all worked together to save you. But it's over now. You don't have to hurt anyone anymore."
 
-Morrow pushed his hands through his hair and weakly pulled on it, as if he was trying to rip his hair out but he couldn't summon up the energy to do it. It was kinda heartbreaking. Before long, he dropped his hands limply at his sides again. "I knew it…" he muttered. "I'm so fucked up…"
+Morrow pushed his hands through his hair and weakly pulled on it, as if he was trying to rip his hair out but couldn't summon up the energy to do it. It was kinda heartbreaking. Before long, he dropped his hands limply at his sides again. "I knew it…" he muttered. "I'm so fucked up…"
 
 "It wasn't all your fault! It was the Seeking God. It –"
 
@@ -570,9 +570,7 @@ Morrow looked back at me with a blank expression, his eyes exhausted. "You think
 
 "She told you too, did she?"
 
-Belatedly, I realized I shouldn't have assumed that Morrow knew about Yali seeing his memories. Although, given what he said, it looked like he'd already heard about it from Alchemist.
-
-"Uh… yeah," I said awkwardly.
+Shit! I hadn't considered that Morrow might not know about Yali seeing his memories. Although, at this point, it looked like he'd already heard about it from Alchemist. "Uh… yeah," I said awkwardly.
 
 "Then she told you how I tried to drown the neighbors' dog –"
 
@@ -612,17 +610,17 @@ After a while, I stepped up to him and put my hand on his shoulder. "Hey, uh… 
 
 Morrow moaned and shivered.
 
-"That's okay, I get it. You've got a lot to handle." I hesitated for a bit. "Listen, when you get back to Earth, –" I began. I wasn't completely sure where I was going with this. I'd kind of been planning to tell him to go get a therapist, but it was a little hard to imagine him opening up to a therapist. Worse, therapists cost money, and I wasn't sure if Morrow had much money. We needed some sort of <em>free</em> public therapist. Or actually, what we needed was someone who was in charge, not like someone telling him what to do, but like someone with the authority to give him a place to live and food to eat while he got his life sorted out. Someone who could say "you deserve support, you deserve forgiveness, you can find a new purpose in life" and have it <em>count</em> because what they said was the sacred truth –
+"That's okay, I get it. You've got a lot to handle." I hesitated for a bit. "Listen, when you get back to Earth, –" I began. I wasn't completely sure where I was going with this. I'd kind of been planning to tell him to go get a therapist, but it was a little hard to imagine him opening up to a therapist. Worse, therapists cost money, and it didn't sound like Morrow had much money. We needed some sort of <em>free</em> public therapist. Or actually, what we needed was someone who was in charge, not like someone telling him what to do, but like someone with the authority to give him a place to live and food to eat while he got his life sorted out. Someone who could say "you deserve support, you deserve forgiveness, you can find a new purpose in life" and have it <em>count</em> because what they said was the sacred truth –
 
 Sacred? Oh, duh. What I was thinking of was a <em>priest</em>.
 
 But not a Stern priest, obviously. I'd never stick Morrow with the Stern. They'd probably tell him he <em>was</em> bad, and then he'd end up like Justicar. Well, actually, he'd probably tell them to go fuck themselves. But if he <em>did</em> trust them, it would still be bad. There were Seeking and Waiting priests, too, but they probably weren't what he needed either. So why was I –
 
-It dawned on me like it was obvious, like remembering something I'd known forever and just not thought of. What he needed was a <em>Blood</em> priest. A Blood priest would help him find his heart, help him see the value in his life. If he had no home to go back to, the Blood Temple would take him in. If he was lost without something to give his life meaning, the Blood Temple could give him meaningful work to do. The Blood Temple would provide anything he needed to make his life whole. I could just imagine Morrow going there and getting… wait, no, ugh, I could just imagine him avoiding the place because he thought he didn't deserve any help. But you couldn't "not deserve" the Blood Temple, anymore than you could be unworthy of your own blood! The Blood Temple wasn't <em>generous</em> by helping people, it was just a fact of life! The Blood Temple providing for everyone was just what the Blood Temple <em>was!</em>
+It dawned on me like it was obvious, like remembering something I'd known forever and just not thought of. What he needed was a <em>Blood</em> priest. A Blood priest would help him find his heart, help him see the value in his life. If he had no home to go back to, the Blood Temple would take him in. If he was lost without something to give his life meaning, the Blood Temple could give him meaningful work to do. The Blood Temple would provide anything he needed to make his life whole. I could just imagine Morrow going there and getting… wait, no, ugh, I could just imagine him avoiding the place because he thought he didn't deserve any help. But you couldn't "not deserve" the Blood Temple, just like you couldn't be unworthy of your own blood! The Blood Temple wasn't <em>generous</em> by helping people, it was just a fact of life! The Blood Temple providing for everyone was just what the Blood Temple <em>was!</em>
 
-But there were no Blood priests now. And there was an aching hole in the city where the Blood Temple should be. It was the city's heart, and without it, the city was slowly bleeding its warmth away. How many people had suffered and died without the Blood Temple to hold them up? How many people had thought they <em>deserved</em> their suffering, growing up with the Stern as the only word of right and wrong? Now I was crying, too. To finally, fully realize it… seventy years of children growing up without Blood… Tears flowed freely down my cheeks. It was too much. Too great a violation. A hole too deep to even see the sky.
+But there were no Blood priests now. And there was an aching hole in the city where the Blood Temple should be. It was the city's heart, and without it, the city was slowly bleeding its warmth away. How many people had suffered and died without the Blood Temple to hold them up? How many people had thought they <em>deserved</em> their suffering, growing up with the Stern as the only word of right and wrong? Now I was crying, too. To finally, fully realize it… seventy-four years of children growing up without Blood… Tears flowed freely down my cheeks. It was too much. Too great a violation. A hole too deep to even see the sky.
 
-I sat down with Morrow. I adjusted myself so I could put my arms around his shoulders, gently pulling him to lean on me. He sniffled and shook. We cried together, taking a long moment, silent except for the occasional times when I pulled tissues out of thin air for both of us to blow our noses in.
+I sat down with Morrow. I shifted so I could put my arms around his shoulders, gently pulling him to lean on me. He sniffled and shook. We cried together, taking a long moment, silent except for the occasional times when I pulled tissues out of thin air for both of us to blow our noses in.
 
 Morrow…
 
@@ -646,7 +644,7 @@ Morrow sobbed, curling into a fetal position in my arms. "I don't want to keep f
 
 We sat together like that for a while, huddled together, hands on each other's hearts. I manifested some big pillows for us to lean against. Slowly, I felt a bit of the tension leave Morrow's body. A few of his muscles twitched, then went limp against me. He stared down at his legs, slowly crying, occasionally manifesting big candy bars to chew on.
 
-Finally, Morrow spoke, talking to his knees, mumbling through a mouthful of candy. "No, no, no, I don't believe you…" he said. But he was almost laughing as he said it. It was like he was saying it just to say it, going through the motions of denying it because that was what he always did. He twisted around and gave me an awkward hug, squeezing me tight. He looked me in the eye, his face still puffy from crying, but now awash with emotional relief. "Everything you just said is bullshit, and I hate you," he laughed. "My feelings aren't real, and your Blood God is a bunch of baloney. And when I looked to my heart, which I didn't do, I <em>definitely</em> didn't feel something. No way. Nope, definitely don't need the Blood God to heal me. So you're wasting your time. Yeah! Totally wasted!"
+Finally, Morrow spoke, talking to his knees, mumbling through a mouthful of candy. "No, no, no, I don't believe you…" he said. But he was almost laughing as he said it. It was like he was saying it just to say it, going through the motions of denying it because that was what he always did. He twisted around and gave me an awkward hug, squeezing me tight. "Everything you just said is bullshit, and I hate you," he laughed. "My feelings aren't real, and your Blood God is a bunch of baloney. And when I looked to my heart, which I didn't do, I <em>definitely</em> didn't feel something. No way. Nope, definitely don't need the Blood God to heal me. So you're wasting your time. Yeah! Totally wasted!"
 
 I hugged him back. "I am <em>so</em> glad to hear you say that."
 
@@ -688,15 +686,15 @@ Yali and I hung back while Alchemist went to do that. As soon as Alchemist and M
 
 "Uh, thanks." I was dancing inside. Yali had said she was impressed!! But I wasn't sure how she'd feel if I got excited about it, given the whole Morrow thing.
 
-"There's something I've been thinking, ever since you got your soulfire. You know how, if we live through this and you don't drink the unravelling potion, the Blood God will rejuvenate? Well, in the beginning, I didn't <em>want</em> the Blood God to rejuvenate, I thought it was dangerous, but I assumed we'd be stuck letting it rejuvenate because I wasn't going to let you die. That's what I was thinking as recently as the third layer. But now, with the potion, we have a choice about it, but at the same time… I am starting to think that the Blood God <em>should</em> rejuvenate."
+"There's something I've been thinking, ever since you got your soulfire. You know how, if we live through this, the Blood God will rejuvenate? Well, in the beginning, I didn't <em>want</em> the Blood God to rejuvenate. I thought it was dangerous, but I assumed we'd be stuck letting it rejuvenate because I wasn't going to let you die. But now, with the potion, we have a choice about it, but at the same time… I am starting to think that the Blood God <em>should</em> rejuvenate."
 
-"But…" I said. When she put it so bluntly, even after everything we'd found out, I found myself hesitating again. "I mean, I don't want to say Justicar was right, but, what if Justicar was right? Even though we know I was just fighting back – that is, that the Blood God was just fighting back – it's still been lashing out all over the place." Even as I said it, though, I started to doubt it myself. When I really thought about it, the Blood God <em>hadn't</em> been lashing out at anyone except Yali. If anything, I'd had <em>more</em> empathy for everyone else. It had even thought of Justicar as "not my real enemy". <em>Justicar!</em>
+"Woah! What changed your mind?"
 
-Yali spoke gravely. "The Blood God is a god of anger, and it has been starving for the last seventy years. So, are people less angry now? No, of course not. Anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god to… to guide their anger to a better purpose, to –"
+Yali spoke gravely. "Some of the earlier Blood Children were more like you. More like the way you were with Morrow. They all ended in rage, they all killed me, but they had moments of goodness too. In the later years, only the rage is left. If the Blood God is a god of anger, and it has been starving for the last seventy-four years, shouldn't people be less angry now? No… anger has always been a part of, of, of humanity, of humans. The only difference is that now, their anger isn't being <em>overseen</em>. They don't have a god who knows how to… to guide their anger to a better purpose, to –"
 
 "To bring meaning to it!" I said.
 
-"Yeeeeessss…" Yali stared into the distance. "Besides… even if we did want to, we still shouldn't do it <em>yet</em>. Your soulfire is one of the only powers that can pierce Justicar's armor."
+"Yeeeeessss…" Yali stared into the distance. "Besides… even if we did want you to drink the unravelling potion, we still shouldn't do it <em>yet</em>. Your soulfire is one of the only powers that can pierce Justicar's armor."
 
 "I'll have to kill her…" I said. I swallowed. "Does it have to be that way?!"
 
@@ -722,7 +720,7 @@ Yali shouted back, "Me thinking of things that hurt people is why you're still a
 
 Yali stepped closer, shouting in my face. "Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! For my entire life, I have had to be the one who sees what has to be done, when everyone else can only see what's right in front of them! I have <em>always</em> been the one who does what has to be done, when no one else will!"
 
-I had wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking right under the surface… It was part of why I'd always loved her, why I couldn't get enough of her.
+I wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking right under the surface… It was part of why I'd always loved her, why I couldn't get enough of her.
 
 And the worst part was, she wasn't wrong.
 
@@ -766,7 +764,7 @@ We stood together uneasily. Eventually, Yali decided it was time for us to get m
 
 "Yeah."
 
-I held her hand. As we walked, I squeezed it tightly, and Yali squeezed back. The bond between us… it had been through so much. It had survived us being stuck on the star together for weeks. It had survived me stabbing her through the chest. It had survived us fighting over this whole mess with Morrow. And it was still strong. We would be able to step into the last layer together, joined by an unbroken rope of strength, ready to face whatever came our way. And when this was all over, we would be able to curl up together in bed, in warmth and comfort, and congratulate ourselves for a job well done.
+[????? Wait a minute, they fought a little too much to justify this paragraph as-is, what to do…] I held her hand. As we walked, I squeezed it tightly, and Yali squeezed back. The bond between us… it had been through so much. It had survived us being stuck on the star together for weeks. It had survived me stabbing her through the chest. It had survived us fighting over this whole mess with Morrow. And it was still strong. We would be able to step into the last layer together, joined by an unbroken rope of strength, ready to face whatever came our way. And when this was all over, we would be able to curl up together in bed, in warmth and comfort, and congratulate ourselves for a job well done.
 
 <bigbreak>
 
