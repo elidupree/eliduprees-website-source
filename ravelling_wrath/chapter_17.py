@@ -160,8 +160,6 @@ Yali chuckled. "As long as you only eat a few, your natural manifesting will kee
 
 "Oooookay," I said, dropping the ones I was holding.
 
-????
-
 <bigbreak>
 
 Finally, we had everything assembled.
@@ -752,33 +750,77 @@ It was true. We had scrawled our feelings right on top of the Broken God's world
 
 "I, I, I, think so? I don't know. I can't stand this world."
 
-We stood together uneasily. Eventually, Yali decided it was time for us to get moving. We followed after the others, squelching through the mud again. A warm rain had moved in. My hair got matted down, and I had to hang my head to keep the drips out of my eyes. I couldn't get my mind off what Yali had said. This sucked. Alchemist didn't deserve any of this. They were just a normal person who had gotten sucked into this world of dangerous magic powers and gods trying to kill each other. They should never have had to use their powers for combat! But Yali had forced them to, and now she was saying she had <em>needed</em> to do it, like it was the only right thing to do. How could it be right to <em>use</em> them like that? I desperately wanted her to be wrong. But… how could I say it was wrong when it was the only thing that had saved me from being killed? I didn't want to die. I couldn't see any way out of accepting it. But now she was talking about forcing them to make a weapon again, for real this time, and I was terrified all over again.
+I couldn't get my mind off what Yali had said. Alchemist making a weapon? Alchemist didn't deserve any of this. They were just a normal person who had gotten sucked into this world of dangerous magic powers and gods trying to kill each other. They should never have had to use their powers for combat! But Yali had forced them to, and now she was saying she had <em>needed</em> to do it, like it was the only right thing to do. How could it be right to <em>use</em> them like that? I desperately wanted her to be wrong. But… how could I say it was wrong when it was the only thing that had saved me from being killed? I didn't want to die. I couldn't see any way out of accepting it. But the thought of her forcing them to make a weapon again, for real this time, was tearing me up all over again.
 
-"So, uh…" I said. I didn't feel confident. "I get what you're saying. Sometimes you have to do things that… aren't good… because you have to. And it doesn't make it <em>right</em>, but… uh… ugh, you know what I mean. But <em>this</em> time, in <em>this</em> situation…" I swallowed. "We really don't have to force Alchemist to make a weapon again. We're not in a rush like that time. And I have my soulfire. I can do it. Waiting knows I'm the one who deserves to." I laughed hollowly. "I guess I shouldn't be saying 'Waiting knows' anymore, should I…"
+"So, uh…" I said. I didn't feel confident. "I get what you're saying. Sometimes you have to do things that… aren't good… because you have to. And it doesn't make it <em>right</em>, but… uh… ugh, you know what I mean. But <em>this</em> time…" I swallowed. "We really don't have to force Alchemist to make a weapon again. We're not in a rush like that time. And I have my soulfire. I can do it. Waiting knows I'm the one who deserves to." I laughed hollowly. "I guess I shouldn't be saying 'Waiting knows' anymore, should I…"
 
 "It's okay. I understand."
 
 "Just, be nice to Alchemist, okay?"
 
-"I'll try." Yali sounded regretful. "I, I, wasn't going to make them do it. It was just… a possibility. It wasn't the possibility we were going to <em>choose</em>. I have a feeling it was always going to be about just you and me, in the end."
+"I'll try." Yali sounded regretful. "I, I, wasn't going to make them do it. It was just… a possibility. But I have a feeling it was always going to be about just you and me, in the end."
 
 "Yeah."
 
-[????? Wait a minute, they fought a little too much to justify this paragraph as-is, what to do…] I held her hand. As we walked, I squeezed it tightly, and Yali squeezed back. The bond between us… it had been through so much. It had survived us being stuck on the star together for weeks. It had survived me stabbing her through the chest. It had survived us fighting over this whole mess with Morrow. And it was still strong. We would be able to step into the last layer together, joined by an unbroken rope of strength, ready to face whatever came our way. And when this was all over, we would be able to curl up together in bed, in warmth and comfort, and congratulate ourselves for a job well done.
+"Rinn…" she said quietly. She reached across and held my hand. "I…"
+
+"Yeah?"
+
+"I don't like arguing with you," she said bluntly.
+
+I was suddenly nervous. Was she criticizing me? But I could feel that something was different. "You're – wait, are you trying to open up to me again?"
+
+"I, I think so." Yali was silent for a long time, long enough that I started to feel awkward. Was I supposed to wait for her to go on, or was I supposed to say something? Just when I was about to say something, she spoke again. "How do people express their emotions?" she said.
+
+Part of me wanted to say something like <em>What? You just express them!</em> But I knew Yali was trusting me. I had to really listen. Trying to sound comforting, I replied, "Right, that's not easy for you, is it."
+
+"It's not. I've always handled all my emotions on the inside. And it's the one thing the memories don't help with. They only know how to express their own emotions, not mine. The only thing I know how to do is analyze it… I'm analyzing it right now… I don't want to be, I want something else, but I don't know what it is. I wonder if, if, if you might be able to help me."
+
+"Well –" I wanted so badly to help her. I tried to think about what I actually <em>did</em> when I was expressing my emotions. It always felt so natural, like it was coming right out of my body – "I guess, listen to your body?" I said. "Try to feel what it wants to do…"
+
+"Okay. I'm trying." After a moment, Yali's head and shoulders slumped down. "Can we, can we, sit down?"
+
+"Of course." We both sat down in the dirt. I put my arm around her shoulders. "You must be exhausted."
+
+"You're right… I'm exhausted…" She said it like she was noticing it for the first time. She leaned against me. It was a little awkward since she was so much bigger and heavier than me, but I braced myself and made it work. She had been working so hard. She needed someone to lean on. "I… I want to be more like you," she said. "I want to be able to be happy when I'm happy. I want to be able to be angry when I'm angry. But no matter what happens, I always feel like it's happening at a distance. Like it's someone else who's happy, not me."
+
+"I felt something like that in the Stern God's world. I felt – the Blood God felt so hopeless, it was like I didn't want to feel anything at all. Is it something like that? Like it's a way of protecting yourself?"
+
+"I think so. It feels like, if I ever let anything affect me, I'll get hurt…"
+
+I squeezed her tight. "It's okay to let things affect you. But that feeling is real, and it means something –"
+
+Yali laughed a little. "Don't try the thing you did with Morrow. It won't work on me."
+
+"Oh."
+
+"Can you just…" she looked down. The muscles in her face were more relaxed than I'd ever seen them. "I like your soulfire," she said.
+
+"Do you want me to –"
+
+Yali unbuckled her potion belt and set it aside, then leaned on me again. I let a warm glow of soulfire flow from my heart, covering my skin with a thick layer of warmth, then expanding to cover Yali as well.
+
+"I like this," she said. "I'm glad I got to feel your soulfire at least one time when it wasn't about the gods. Or about Morrow."
+
+I kissed her on the cheek. "Yeah. Just about us."
+
+The bond between us… it had been through so much. It had survived us being stuck on the star together for weeks. It had survived me stabbing her through the chest. It had survived us fighting over this whole mess with Morrow. It had been weathered and frayed at the edges, but at its core, it was still strong. We would be able to step into the last layer together, joined by an unbroken rope of strength, ready to face whatever came our way. And when this was all over, we would be able to curl up together in bed, in warmth and comfort, and congratulate ourselves for a job well done.
 
 <bigbreak>
 
-The portal loomed out of the mist, a black and shimmering expanse where a hillside should be. Alchemist and Morrow were already sitting near it, huddling together on a pile of blankets.
+Of course, eventually, Yali decided it was time for us to get moving. We followed after the others, squelching through the mud again. A warm rain had moved in. My hair got matted down, and I had to hang my head to keep the drips out of my eyes. 
 
-Before we went in, we made a lot of plans about what to do in the next layer. It was a little awkward because we needed to include Alchemist for some of it, Yali refused to go anywhere near Morrow, and Alchemist didn't want to leave Morrow all by himself. But eventually we found some compromises.
+Soon, the portal loomed out of the mist, a black and shimmering expanse where a hillside should be. Alchemist and Morrow were already sitting near it, huddling together on a pile of blankets.
 
-Yali asked Alchemist to make some more potions for her, and a few potions for me as well. The ones they gave <em>me</em> were mostly for sneaking around – making me turn invisible and fly quickly and quietly. "I think the Blood God might let us arrive in the same place in its world," said Yali, "but if it doesn't, I want you to avoid Justicar for as long as you can. Just stay hidden and let me find you. If it comes to a fight, I wish I could give you fighting potions, too, but the most important thing in a fight will be your soulfire, and your soulfire will purge any potions from your system anyway."
+Before we went in, we made a lot of plans about what to do in the next layer. It was a little awkward because of everyone's relationships – Yali refused to go anywhere near Morrow, but we needed to include Alchemist in the planning, and Alchemist didn't want to leave Morrow all by himself. But eventually we found some compromises.
 
-An old part of me felt like complaining about that. But it was only a small part. I didn't need potions for this. I had myself, and that was stronger than any potion.
+Yali asked Alchemist to make some more potions for her, and a few potions for me as well. The ones they gave <em>me</em> were mostly for sneaking around – making me turn invisible and fly quickly and quietly. "I think the Blood God might let us arrive in the same place in its world," said Yali, "but if it doesn't, I want you to avoid Justicar for as long as you can. Just stay hidden and let me find you. If it comes to a fight, I wish I could give you fighting potions, but it's no use. The most important thing in a fight will be your soulfire, and your soulfire will purge any potions from your system anyway."
+
+An old part of me felt like complaining about me not getting more potions. But it was only a small part. I didn't need potions for this. I had myself, and that was stronger than any potion.
 
 Next, Yali made me tell her everything I could remember about what Justicar had said in the second layer. I had to tell her about everything we'd done together, even the stupid parts.
 
-Yali considered at all seriously. I was a little embarrassed. Telling Yali about our arguments was fine, but telling her about the petty stuff I'd done just to irritate Justicar… now that I'd felt the confidence of the Blood God inside me, that stuff wasn't really who I wanted to be. Of course, Yali took it as if it was just normal for me. Ugh.
+Yali considered it all seriously. I was a little embarrassed. Telling Yali about our arguments was fine, but telling her about the petty stuff I'd done just to irritate Justicar… Now that I'd felt the confidence of the Blood God inside me, that stuff wasn't really who I wanted to be. Of course, Yali took it as if it was just normal for me. Ugh.
 
 Yali was more focused on Justicar. "It seems like it will be, be, <em>difficult</em>, to change her mind," she said gravely.
 
@@ -798,15 +840,15 @@ Yali was more focused on Justicar. "It seems like it will be, be, <em>difficult<
 
 We spent the next few hours in a long argument about how to change Justicar's mind. It wasn't the worst argument, but it was frustrating, because we kept talking past each other. We were making completely different assumptions about how Justicar's mind worked. By the end, I felt like I knew even less about Justicar than I had before. And Yali didn't seem very confident either.
 
-In the end, Yali settled on a few strategies to try if we got the chance. Neither of us thought they were that likely to work. But I couldn't really think of anything better.
+In the end, Yali settled on a few strategies to try if we got the chance. Neither of us thought they were likely to work. But I couldn't think of anything better.
 
 <bigbreak>
 
-Our work went on for hours and hours. We made potions. We made plans. I practiced summoning soulfire. We practiced fighting a little, but Yali's safety precautions made it awkward, and we didn't really know what powers we would be up against. When Alchemist wasn't making potions, they took care of Morrow, and when they weren't doing that, they spent a lot of time thinking about their family back on Earth. Their older sister Niemah had been scheduled to take an important certifying exam, to become some sort of magical technician. And we didn't know exactly what day it was today, but it was probably somewhere in your the week of the exam, so Alchemist was thinking about it, really hoping she would pass. It was a surprisingly normal thing to worry about at a time like this, but it helped me remember the human life we were fighting to get back to.
+Our work went on for hours and hours. We made potions. We made plans. I practiced summoning soulfire. We practiced fighting a little, but Yali's safety precautions made it awkward, and we didn't really know what powers we would be up against. When Alchemist wasn't making potions, they took care of Morrow, and when they weren't doing that, they spent a lot of time thinking about their family back on Earth. Their older sister Niemah had been scheduled to take an important certifying exam, to become some sort of magical technician. We didn't know exactly how the flow of time in the Otherworld matched up with Earth, but today was probably somewhere near the week of the exam, so Alchemist was thinking about it, really hoping she would pass. It was a surprisingly normal thing to worry about at a time like this. It helped me remember the human life we were fighting to get back to.
 
 Finally, we all got some rest to make sure we would be fully alert for the challenges to come.
 
-Now, the portal beckoned. Yali squeezed my hand. "I'm not sure there's much more preparations we can do. So, before we go through the portal and finish things, if there's anything we still need to talk about…"
+Now, the portal beckoned. Yali squeezed my hand. "Before we go through the portal and finish things, if there's anything we still need to talk about…"
 
 "I… you know what, I actually feel like we've got things figured out! I mean, I'll probably think of something else in like two minutes, but, you know. I think I'm good. What about you?"
 
@@ -828,7 +870,7 @@ Yali smiled. "You don't need to say it more than three times. We're going to mak
 
 A few meters away, Alchemist and Morrow were doing about the same thing.
 
-Before long, Alchemist padded over and held my hand. "Are we, going?" they asked. They were eager to move on.
+Before long, Alchemist padded over and held my hand. "Are we, going?" they asked. I could tell they were eager to move on.
 
 "I think so. Everyone ready?"
 
