@@ -35,7 +35,7 @@ Unspeakable feelings loomed at the edges of my mind. If I kept looking at this m
 
 I took a minute to pack away the unwanted thoughts. Then I tried again, looking at Rinn's body the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
 
-The left arm and left leg were positioned at angles that wouldn't be possible if the bones were intact. Most likely, they had been reduced to powder by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody. Again, I would have to reposition it.
+The left arm and left leg were positioned at angles that wouldn't be possible if the bones were intact. Most likely, they had been shattered by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody. Again, I would have to reposition it.
 
 How would I go about this? What position could I put them in?
 
@@ -45,13 +45,13 @@ Could I put her in a different position?
 
 Also, how would I transport her? One way or another, she would have to arrive at the final portal. She was light enough that I could carry her, but if I slipped or jostled her along the way, it could reinjure her. It would be better if I found a way to move her while keeping her stable, with padding.
 
-I considered this for a while. At last, I settled on an idea. Concentrating, I manifested the same rolling hospital bed that we had used in the Stern God's layer. By itself, this wouldn't be suitable for the current layer's cracked and slanted roads, but it was a start. Next, I changed its wheels. Using manifesting, I reshaped them to have big, soft rubber tires, to soften the bumps. Also, relying on one of the old Farseers' memories, I added ratchets to the wheels, so the bed wouldn't roll back down a hill if I lost my grip on it. After a lot of reshaping, I ended up with a sort of bulky wagon with a mattress on top.
+I considered this for many minutes. At last, I settled on an idea. Concentrating, I manifested the same rolling hospital bed that we had used in the Stern God's layer. By itself, this wouldn't be suitable for the current layer's cracked and slanted roads, but it was a start. Next, I changed its wheels. Using manifesting, I reshaped them to have big, soft rubber tires, to soften the bumps. Also, relying on one of the old Farseers' experience as a mechanic, I added ratchets to the wheels, so the bed wouldn't roll back down a hill if I lost my grip on it. After a lot of reshaping, I ended up with a sort of bulky wagon with a mattress on top.
 
-The next thing was to put Rinn on it. I didn't want to hurt her more by trying to lift her directly. So I manifested an inflatable cushion under her body, and slowly inflated it, to lift her up a little at a time. With careful manifesting, I was able to lift her whole body evenly. Once it was up alongside the mattress on the wagon, I manifested another mat under her so I could slide her across.
+The next thing was to put Rinn on it. I didn't want to injure her more by trying to lift her directly. So I manifested an inflatable cushion under her body, and slowly inflated it, to lift her up a little at a time. With careful manifesting, I was able to lift her whole body evenly. Once it was up alongside the mattress on the wagon, I manifested another mat under her so I could slide her across.
 
-By the same process, I lifted her into a sitting position in the wagon. To make sure she wouldn't fall, I surrounded her body with stiff foam blocks. I shaped each block around her, so her whole body was nestled in a perfect mold. Once I got the shape right, I made the blocks merge together, and also merged to them into the mattress underneath, so there was one, solid object holding Rinn in place, and it couldn't slip or fall apart.
+By the same process, I lifted her into a sitting position in the wagon. To make sure she wouldn't fall, I surrounded her body with stiff foam blocks. I shaped each block around her, so her whole body was nestled in a perfect mold. Once I got the shape right, I made the blocks merge together, and also merged them into the mattress underneath, so there was one, solid object holding Rinn in place, and it couldn't slip or fall apart.
 
-I stepped back and checked my work. It seemed suitable. Rinn was secure now, with only her head sticking out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. So if I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
+I stepped back and checked my work. It seemed suitable. Rinn was secure now, with only her head sticking out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. If I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
 
 Now there was nothing more I could do for Rinn immediately. Maybe now I would have time to think and plan my next move.
 
@@ -63,11 +63,11 @@ I compromised by manifesting a hard bench and sitting up straight on it. That ca
 
 I had never intended to drink the unravelling potion. I had made sure it was created, but not for the reasons I had let on. I had done it because it gave the Blood God something to hope for. The potion's existence meant that Rinn could believe in a simple solution, so that the Blood God would not resist what we were doing. It was one less complication in a situation where our lives were already at stake.
 
-The first time I had foreseen Alchemist approaching with the idea of the potion, my first thought had been to make Rinn drink it. But after I heard the Blood God's side of the story, after I heard that the Waiting God's <em>goal</em> was to prevent the Blood God from rejuvenating, I couldn't accept an outcome that would let the Waiting God succeed. And then, of course, my next thought had been to drink it myself, to starve the Waiting God. But in the end, I couldn't accept that either.
+The first time I had foreseen Alchemist approaching with the idea of the potion, my first thought had been to make Rinn drink it. But I couldn't accept an outcome that would let the Waiting God succeed. And then, of course, my next thought had been to drink it myself, to starve the Waiting God. But in the end, I couldn't accept that either.
 
-In many different futures, I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So if the Blood God rejuvenated and the Waiting God did not, it would be a complete success. A total victory for the Blood God.
+In many different futures, I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So the way to win was if the Blood God rejuvenated and the Waiting God did not. Anything less would not be enough.
 
-To me, that wasn't enough.
+To me, even <em>that</em> wasn't enough.
 
 The Waiting God had <em>allowed</em> its Farseers to die. It had callously sacrificed them, for no more reason than to prove its story that the Blood God was a monster. Rinn's words echoed in my head: <em>I will kill you and kill you and kill you, and when I am gone, you will still be strong.</em> And the Waiting God knew it. The Waiting saw the grand span of time. The loss of a single rejuvenation, in a single year, was insignificant to it. And so that loss was insignificant to me as well. I was not content to take away only what it had already willingly discarded.
 
@@ -83,7 +83,7 @@ Now only my most powerful enemy was left.
 
 How was I going to do this?
 
-I would need to access the Waiting God's threads within me. But I was not yet certain how to do that. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the closest thing to direct control was my power to place the Watchful Eye, but even that had felt more like… more like <em>performing a protocol</em> to access the god's magic.
+I would need to access the Waiting God's threads within me. But I was not yet certain how to do that. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like… more like <em>performing a protocol</em> to access the god's magic.
 
 <em>Rinn</em> had fully connected with <em>her</em> god. How had she done it? It was probably easier with the Blood God, for more than one reason, but there might still be something I could learn from it.
 
@@ -91,7 +91,7 @@ Thinking back, I remembered how she had talked when she was speaking for the Blo
 
 I smiled grimly.
 
-Thinking of it this way, it wasn't so different from the Seeing after all. Keeping still and silent, I listened for the Waiting God's presence. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to my chosen outcome.
+Thinking of it this way, it wasn't so different from the Seeing after all. Keeping still and silent, I listened for the Waiting God's consciousness. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to my chosen outcome.
 
 It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
 

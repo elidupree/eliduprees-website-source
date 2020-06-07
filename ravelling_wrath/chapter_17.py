@@ -404,7 +404,7 @@ I knelt down and slung him over my shoulders. Carrying him was almost effortless
 
 Nothing much happened as I carried Morrow back out of the ravine. With his powers gone, it seemed like maybe things could be calm again, at least for now. I just had to make sure not to drop him.
 
-When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. ?????. And she had a new, broad belt with loads of potions hanging from it. ?????
+When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. Her usual sweater was covered in a dense webbing of black vines – it seemed like Alchemist was growing them for her, as a suit of organic armor. And she had a new, broad belt with a few potions hanging from it, and enough pouches for a lot more.
 
 "What's up with all the gear?" I called out.
 
@@ -774,7 +774,7 @@ I was suddenly nervous. Was she criticizing me? But I could feel that something 
 
 Part of me wanted to say something like <em>What? You just express them!</em> But I knew Yali was trusting me. I had to really listen. Trying to sound comforting, I replied, "Right, that's not easy for you, is it."
 
-"It's not. I've always handled all my emotions on the inside. And it's the one thing the memories don't help with. They only know how to express their own emotions, not mine. The only thing I know how to do is analyze it… I'm analyzing it right now… I don't want to be, I want something else, but I don't know what it is. I wonder if, if, if you might be able to help me."
+"It's not. I've always handled all my emotions on the inside. And it's the one thing the memories don't help with. If I try to use their skills, I end up expressing <em>their</em> emotions, not mine. The only thing I know how to do is analyze it… I'm analyzing it right now… I don't want to be, I want something else, but I don't know what it is. I wonder if, if, if you might be able to help me."
 
 "Well –" I wanted so badly to help her. I tried to think about what I actually <em>did</em> when I was expressing my emotions. It always felt so natural, like it was coming right out of my body – "I guess, listen to your body?" I said. "Try to feel what it wants to do…"
 
@@ -844,7 +844,7 @@ In the end, Yali settled on a few strategies to try if we got the chance. Neithe
 
 <bigbreak>
 
-Our work went on for hours and hours. We made potions. We made plans. I practiced summoning soulfire. We practiced fighting a little, but Yali's safety precautions made it awkward, and we didn't really know what powers we would be up against. When Alchemist wasn't making potions, they took care of Morrow, and when they weren't doing that, they spent a lot of time thinking about their family back on Earth. Their older sister Niemah had been scheduled to take an important certifying exam, to become some sort of magical technician. We didn't know exactly how the flow of time in the Otherworld matched up with Earth, but today was probably somewhere near the week of the exam, so Alchemist was thinking about it, really hoping she would pass. It was a surprisingly normal thing to worry about at a time like this. It helped me remember the human life we were fighting to get back to.
+Our work went on for hours and hours. We made potions. We made plans. I practiced summoning soulfire. Alchemist finished growing Yali's new armor. We practiced fighting a little, but Yali's safety precautions made it awkward, and we didn't really know what powers we would be up against. When Alchemist wasn't making potions, they took care of Morrow, and when they weren't doing that, they spent a lot of time thinking about their family back on Earth. Their older sister Niemah had been scheduled to take an important certifying exam, to become some sort of magical technician. We didn't know exactly how the flow of time in the Otherworld matched up with Earth, but today was probably somewhere near the week of the exam, so Alchemist was thinking about it, really hoping she would pass. It was a surprisingly normal thing to worry about at a time like this. It helped me remember the human life we were fighting to get back to.
 
 Finally, we all got some rest to make sure we would be fully alert for the challenges to come.
 
