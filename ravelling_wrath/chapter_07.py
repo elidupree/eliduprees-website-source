@@ -53,7 +53,7 @@ After only a moment more in doubt, the Justicar straightened up, proud and profe
 
 "Blood Child, do you swear that you will not harm the Farseer?"
 
-I couldn't stand having some intimidating stranger demand that I swear to stuff, but I was supposed to make a good impression on her. And it wasn't like that was something I'd have a hard time swearing to. I put on my most solemn voice. It probably didn't sound completely sincere because I hardly ever did anything solemn, but I was doing my best. "I swear before all the gods that I will not harm Yali," I said. I opened my hands to show that I wasn't planning to hurt anyone, and added, "Look, I love her. There's no way I could hurt her, it would tear me apart."
+I couldn't stand having some intimidating stranger demand that I swear to stuff, but I was supposed to make a good impression on her. And it wasn't like that was something I'd have a hard time swearing to. I put on my most solemn voice. It probably didn't sound completely sincere, because I hardly ever did anything solemn. But I was doing my best. "I swear before all the gods that I will not harm Yali," I said. I opened my hands to show that I wasn't planning to hurt anyone, and added, "Look, I love her. There's no way I could hurt her, it would tear me apart."
 
 "Very well." The Justicar held out her hand. I shook it.
 
@@ -67,11 +67,11 @@ Travelling with Justicar was, at least, something <em>new</em> to be annoyed abo
 
 She mostly just sat there stiffly and watched us. Occasionally, she stepped in to work with Yali in mapping out the upcoming stars. To my annoyance, she actually seemed to understand the Codex <em>better</em> than Yali did! I couldn't really be sure because I didn't understand any of the technical stuff they were talking about, but every time they disagreed with each other, Yali seemed vague and confused while Justicar had a concise and specific description of everything. Yali was still more efficient at using the telescopes, but only because Justicar absolutely refused to use our extra, stolen copies. She only used the one that was built into the star. Yali seemed happy enough to leave that one for Justicar and use the others herself.
 
-Other than warning me not to attack Yali and working on the star stuff, Justicar never seem to want to talk about anything. And not for lack of trying on my part. The first thing I'd tried was just acting casual, saying, "So, what's it like being the Justicar?"
+Other than that, Justicar never seemed to want to talk about anything. And not for lack of trying on my part. The first thing I'd tried was just acting casual, saying, "So, what's it like being the Justicar?"
 
 "I am not interested in small talk," she said.
 
-"You don't have to be so – wait, ha ha, was that actually an answer to my question?"
+"You don't have to be so – wait, haha, was that actually an answer to my question?"
 
 "No. It was a refusal to answer."
 
@@ -97,7 +97,7 @@ She ignored me.
 
 Another while later, I had another thought. "Wait a minute, if you never draw your sword, how do you practice?"
 
-"I have no need of practice. Should a tragedy occur wherein I am forced to draw my sword, the Stern God's guidance will be enough. And I certainly would not practice in front of <em>you</em>."
+"Though many things require practice, this one does not. Should a tragedy occur wherein I am forced to draw my sword, the Stern God's guidance will be enough. And I certainly would not practice in front of <em>you</em>."
 
 "Okay, but you should totally practice with Yali!"
 
@@ -115,17 +115,15 @@ That seemed to get under her skin a little. "That – the Farseer should not hav
 
 "Rinn," said Yali warningly.
 
-"Okay, fine." Right, one of the random things Yali had told me was that I shouldn't encourage Justicar to think about me attacking her. I decided to shut up. Justicar seemed satisfied with that, which was… both frustrating and a relief, I guess. I didn't like letting her win, but if she just stayed out of the way and kept thinking annoying things all by herself, that wasn't my biggest problem.
+"Okay, fine." Right, this was one of the things Yali had warned me about. She'd said I shouldn't encourage Justicar to think about me attacking her. I decided to shut up. Justicar seemed satisfied with that, which was… both frustrating and a relief, I guess. I didn't like letting her win, but if she just stayed out of the way and kept thinking annoying things all by herself, that wasn't my biggest problem.
 
-It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I ended up sleeping sitting up too, staring right back at her.
-
-Since I was stuck staring at her face for the whole "night", I stated to notice some things that I hadn't noticed earlier. Even though she stayed in the same rigid posture the whole time, a few of the lines in her face suggested someone very, <em>very</em> tired. And some parts of her skin looked dry and flaky, even with tiny cracks. I wouldn't have noticed it if I didn't look closely, because her commanding presence was normally just so overwhelming, but there it was.
+It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I ended up sleeping sitting up too, staring right back at her. We sat that way for the whole "night", and my eyes got to inspect Justicar's face for longer than I would have ever wanted. Deep into the hours, I found myself noticing something I had missed before. Even though her rigid posture had seemed effortless at first, the lines in her face made her look like someone who was very, <em>very</em> tired.
 
 <bigbreak>
 
-The days went on. Justicar claimed she had found evidence about the Alchemist's location, although she couldn't get a clear picture because of some sort of star resonance or something. And she also kept working with Yali to find our final goal – some magic portals that would take us to the next layer. In between that, Yali and I tried to find time to enjoy ourselves, although it was hard to loosen up with Justicar watching us like a hawk whenever we were close to each other.
+The days went on. Justicar claimed she had found evidence about the Alchemist's location, although she couldn't pin it down because of some sort of star resonance or something. And she also kept working with Yali to find our final goal – some magic portals that would take us to the next layer. In between that work, Yali and I tried to find time to enjoy ourselves, although it was hard to loosen up with Justicar watching us like a hawk whenever we were close to each other.
 
-Today, Yali was doing her Seeing, as usual. Justicar was sitting up straight on a hard stool, standing guard over her. I slouched in a plush chair nearby. Theoretically, I could have just left and done something else. I could have hung out in my own space on the underside, because neither Yali nor Justicar wanted to go down there. But just like Justicar refused to leave me and Yali alone together, I couldn't stand letting Justicar be alone with Yali either. So we had reluctantly agreed to sit <em>exactly</em> the same distance away from Yali, whenever she was doing the Seeing and unaware of her surroundings.
+Today, Yali was doing her Seeing, as usual. Justicar was sitting up straight on a hard stool, standing guard over her. I slouched in a plush chair nearby. Theoretically, I could have just left and done something else. I could have hung out in my own space on the underside, because neither Yali nor Justicar wanted to go down there. But if Justicar refused to leave me and Yali alone together, I couldn't stand letting Justicar be alone with Yali either. Justicar and by had reluctantly agreed to sit <em>exactly</em> the same distance away from Yali, whenever she was doing the Seeing and unaware of her surroundings.
 
 Getting stiff, I shifted in my chair. Justicar moved her own chair slightly, to make sure I wasn't getting closer than she was. "Stern take it," I muttered. Maybe she was a little closer than me now. But I wasn't <em>that</em> picky. I rolled over and got comfortable again.
 
@@ -143,7 +141,11 @@ I snorted. "What do you expect me to say, like, 'By my blood!' or some shit?"
 
 "That <em>would</em> be –"
 
-"But that's so <em>old-fashioned</em>!" I complained. "I'd sound like, like, a cultist from some movie or something! Maybe I've said stuff like 'you're unworthy of your blood' once or twice, but that's just to piss off the old people who care about that kind of thing." There was an old saying that went, "Am I worthy of my blood?". It was supposed to be a rhetorical question, like, of course everyone is worthy of their own blood. So if you said someone <em>wasn't</em> worthy of their blood, it was a mortal insult, like saying they were less than human. That is, if you said it to an old person. If you said it to someone my age, they'd probably just look at you like "what the fuck are you talking about?".
+"But that's so <em>old-fashioned</em>!" I complained. "I'd sound like, like, a cultist from some movie or something –"
+
+"Blood worship is a far more serious matter – and a greater danger to the city – than it is portrayed in popular culture –"
+
+"– and maybe I've said stuff like 'you're unworthy of your blood' once or twice, but that's just to piss off the old people who care about that kind of thing." There was an old saying that went, "Am I worthy of my blood?". It was supposed to be a rhetorical question, like, of course everyone is worthy of their own blood. So if you said someone <em>wasn't</em> worthy of their blood, it was a mortal insult, like saying they were less than human. That is, if you said it to an old person. If you said it to someone my age, they'd probably just look at you like "what the fuck are you talking about?".
 
 Justicar sighed. "You have no respect," she said. She didn't say it harshly, though, just resignedly. "But there <em>is</em> a value in the gods' teachings. If you find a true connection with them, it can turn your life around."
 
@@ -229,7 +231,7 @@ Yali stepped up beside me and looked at him intently. Was she looking into the f
 
 "Did I not accept your alternative as soon as it was proposed?"
 
-I opened my mouth to yell another retort, but Yali's hand fell heavily on my shoulder. "It's okay. He was in less danger than you both realize. Since his injuries weren't inflicted with <em>hostile intent</em>, they only damaged his body, never his soul. And the body can recover from almost anything, through manifesting." When she said <em>hostile intent</em>, she said it like it was a special phrase with its own meaning.
+I opened my mouth to yell another retort, but Yali's hand fell heavily on my shoulder. "It's okay. He was in less danger than you both realize. Since his injuries weren't inflicted with <em>hostile intent</em>, they were only able to damage his body, never his soul. And the body can recover from almost anything, through manifesting." When she said <em>hostile intent</em>, she said it like it was a special phrase with its own meaning.
 
 Justicar and I glared at each other silently. Before either of us thought of what to say next, we were interrupted by another voice. "Aww yesss, it's just like she said! Allllll manifested back together!!"
 
@@ -257,7 +259,7 @@ With one hand still holding the sandwich, Morrow waved dismissively with the oth
 
 Morrow smiled tauntingly. "You gonna stop me?"
 
-This was great. I couldn't resist watching Morrow take the piss out of her. She took herself so seriously, and he completely blew her off, it was amazing. Apparently Yali didn't think so, though, because she quickly stepped up to spoil the fun. "Before we all argue, at least we should introduce ourselves. I'm Yali, and –"
+This was great. I couldn't resist watching Morrow [????? take the piss out of her]. She took herself so seriously, and he completely blew her off, it was amazing. Apparently Yali didn't think so, though, because she quickly stepped up to spoil the fun. "Before we all argue, at least we should introduce ourselves. I'm Yali, and –"
 
 "Yaliiiii! Nice't'meet'cha, wow, your mind is even better up close! I smelled it from space, but wow, that's a real emotional shell you've got there! Multi-layered and everything! I wonder what happens when it breaks??"
 
@@ -265,7 +267,7 @@ For a moment, we were all stunned into silence.
 
 "You can smell people's minds??" I said, flabbergasted.
 
-Justicar sized him up, frowning. "An Imminent with powers of the mind? Be warned, if you defile the minds of anyone here, your life is forfeit."
+Justicar sized him up, frowning. "An Imminent with powers of the mind? Be warned, if you defile the mind of anyone here, your life is forfeit."
 
 "Stern take it, do you threaten <em>everyone</em> you've just met?!" I exploded.
 
@@ -299,7 +301,7 @@ Morrow tossed his sandwich on the floor so he could shake my hand. "Rinn! Brilli
 
 I grinned. "You seem pretty kickass yourself," I said. Then, because I didn't want him to get the wrong idea, I added, "I'm gay, by the way."
 
-Morrow did a double take. Then he shamelessly looked back and forth between me and Yali. "Fire and stone. I like it!" It was a compliment. He was comparing us to the lovers from a legend. The lovers from the legend also died, but he probably wasn't thinking of that part.
+Morrow did a double take. Then he shamelessly looked back and forth between me and Yali. "Fire and stone. I like it!" It was a compliment. He was comparing us to a pair of lovers from a legend. The lovers from the legend also died, but he probably wasn't thinking of that part.
 
 <bigbreak>
 
