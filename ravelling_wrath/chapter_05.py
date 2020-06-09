@@ -216,7 +216,7 @@ She'd planned for this. Of <em>course</em> she had. She knew what I'd think – 
 
 Why the fuck did it have to be that way?! I mean, I obviously wasn't mad that they were in prison. But I couldn't stand not being able to <em>do</em> anything. And if they were already in prison, it was just… <em>over</em>.
 
-Wait… She'd said "they". Not "he". Was she trying to leave out their gender? Could it have been a woman? Or an enby? Or were there <em>more than one of them?!?</em>
+Wait… She'd said "they". Not "he". Was she trying to leave out their gender? Maybe it <em>wasn't</em> a man? Or were there <em>more than one of them?!?</em>
 
 The rage surged through me again. I slammed my fist into the wall, putting a new dent alongside all the old ones. I slammed it again and again, splitting my knuckle on the broken-up wallboard. But the pain didn't end. Gods, what did she want me to do? What the fuck did she want me to do?
 
