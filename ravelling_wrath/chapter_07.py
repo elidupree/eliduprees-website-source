@@ -16,7 +16,7 @@ posts = [
   ''',
   "head":head,
   "chapter_title": "The Ravellers",
-  
+  "content_warnings": '''<p>Graphic descriptions of physical injuries; discussion of suicide</p>''',
   "contents": '''
 
 Now that I got a closer look at her, the Justicar wasn't <em>that</em> tall. She had only looked that way because she had been standing above me. Of course, pretty much everyone looks tall to <em>me</em>, but really, she was only about Yali's height.
