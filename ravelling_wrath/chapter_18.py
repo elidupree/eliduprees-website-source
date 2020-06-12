@@ -54,7 +54,7 @@ My muscles warmed from our steady walking. We flowed up the street, like two dro
 
 And all throughout the city, densely braided cables of steel snaked about, some as narrow as a finger, some thicker than I was tall. Some half buried in the ground, some crawling up the buildings like vines. An endless network tying the city together, they nestled the buildings and spires, as if they had all grown together as a single being.
 
-I punched one of them affectionately. "These are like the muscles of the city!" I said. ?????
+"These are like the muscles of the city!" I said. I punched one of them affectionately, and it rippled along its length in response. The city was alive and ready for us.
 
 <bigbreak>
 
@@ -86,7 +86,7 @@ I swept a hand across the skyline. From where we stood, a golden pathway rolled 
 
 "Can you make a train, too?" said Yali distractedly.
 
-I laughed. "I <em>could</em> make a train. We could ride as far as the Moon and back. But we'll never get closer to the heart unless we move there with our own bodies."
+I laughed. "I <em>could</em> make a train. We could ride as far as the moon and back. But we'll never get closer to the heart unless we move there with our own bodies."
 
 Yali smiled wistfully again. "I'm not sure I like this Blood God of yours," she said.
 

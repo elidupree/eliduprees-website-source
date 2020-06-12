@@ -404,7 +404,7 @@ I knelt down and slung him over my shoulders. Carrying him was almost effortless
 
 Nothing much happened as I carried Morrow back out of the ravine. With his powers gone, it seemed like maybe things could be calm again, at least for now. I just had to make sure not to drop him.
 
-When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. Her usual sweater was covered in a dense webbing of black vines – it seemed like Alchemist was growing them for her, as a suit of organic armor. And she had a new, broad belt with a few potions hanging from it, and enough pouches for a lot more.
+When I got back to Yali and Alchemist, they were already standing to greet me. Yali looked way different than she had when I left. Her usual sweater was covered in a dense webbing of black vines – it seemed like Alchemist was growing them for her, as a suit of organic armor. And she had a new, broad belt, with a few potions hanging from it, and enough pouches for a lot more.
 
 "What's up with all the gear?" I called out.
 
