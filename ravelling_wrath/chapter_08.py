@@ -384,7 +384,7 @@ In the silence, Alchemist made a small sound under their breath.
 
 Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said to Alchemist. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way." Yali was talking in a solemn voice. Something about it didn't feel sincere to me, but Alchemist didn't pick up on that.
 
-"Oh…" said Alchemist sadly.
+"Oh…" said Alchemist.
 
 Justicar added, "We all must cope with –"
 
@@ -689,15 +689,15 @@ I laughed. "Now you've made it sound like no big deal! So if you were trying to 
 
 "I, I, –"
 
-I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. Got some gods getting you down? We'll 'handle' them. Heh. NBD."
+I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. Got some gods getting you down? We'll 'handle' them. Heh. No biggie."
 
 <bigbreak>
 
 We were getting close to the first portal. The one I was going to go into.
 
-I felt like I was constantly on the edge of my seat, but at the same time, there was nothing for me to do. Morrow and Justicar were hard at work directing Neenu towards the portal, and they didn't want any distractions. I was excited to get there, but it was just taking such a long time that I can keep my attention. At least it left me and Yali a bit of time to sit together before we got there.
+I felt like I was constantly on the edge of my seat, but at the same time, there was nothing for me to do. Morrow and Justicar were hard at work directing Neenu towards the portal, and they didn't want any distractions. I was excited to get there, but it was taking ages. At least it left me and Yali a bit of time to sit together before we got there.
 
-"So, there's something I've been wondering…" I said idly.
+"So, there's something I've been wondering…" I said, trying to fill the time.
 
 "Go on."
 
@@ -731,7 +731,7 @@ Yali's eyes drifted into the distance. "Ah… I think there's one of me who's ex
 
 "Well <em>that's</em> an image."
 
-Yali went quiet for a while. Seemed like she had finished her explanation. I thought about it. Like most people, I had known that alchemy and sorcery were <em>different</em> kinds of magic, but I hadn't really thought about it much beyond that. But now it made a lot of sense.
+Yali went quiet for a while. It seemed like she had finished her explanation. I thought about it. Like most people, I had known that alchemy and sorcery were <em>different</em> kinds of magic, but I hadn't really thought about it much beyond that. But now it made a lot of sense.
 
 "Okay, so you've covered… all of us except you. Alchemist is like sorcery, the rest of us are like manifesting. But what about –"
 
@@ -747,33 +747,33 @@ Yali hesitated a little. "I think… I think when I use it, I'm not technically 
 
 So there were some things even Yali didn't know. In a way, that was reassuring, but it also made me a little nervous.
 
-I held her hand and waited. The stars moved slowly around us, some gliding smoothly across the sky, some standing nearly still. It was on routine by now, but since we were getting close to the portal, this would be the last I was going to see of this world… ever. It really made me notice the little things again. In the vastness of space, I couldn't help but think about how many things we still didn't know.
+I held her hand and waited. The stars moved slowly around us, some gliding smoothly across the sky, some standing nearly still. It was all routine by now, but since we were getting close to the portal, this would be the last I was going to see of this world… ever. It really made me notice the little details again. In the vastness of space, I couldn't help but think about how many things we still didn't know.
 
-Beside me, Yali was watching Justicar and Morrow. Even they had gone quiet. Morrow had his lips glued to the surface of Neenu under our feet, presumably talking her through the process of moving. Justicar was pressing her eye to the eyepiece of the telescope, looking out ahead of us intently.
+Beside me, Yali was watching Justicar and Morrow. Even they had gone quiet. Morrow had his lips glued to the surface of Neenu under our feet, presumably talking to her. Justicar was pressing her eye to the eyepiece of the telescope, looking out ahead of us intently.
 
 At length, Justicar looked up, squinting into the distance.
 
 "We are about to arrive," she said. "The portal star can now be seen from here with the naked eye."
 
-I jumped up and hurried to the edge to look along with her.
+I jumped up and hurried to the edge to look.
 
 <bigbreak>
 
 "Woah…"
 
-The portal had caught my eye immediately. In the middle of the star we were approaching, there was a simple archway made of the same glowy, white material as the star itself. But when I looked <em>through</em> the archway, I saw… blackness, but it was also like a kaleidoscope. Not a kaleidoscope of color, but of some sort of shimmering energy. It felt like it was drawing me inwards.
+The portal had caught my eye immediately. In the middle of the star up ahead, there was a simple archway made of the same glowy, white material as the star itself. But when I looked <em>through</em> the archway, I saw… blackness, but it was also like a kaleidoscope. Not a kaleidoscope of color, but of some sort of shimmering energy. It felt like it was drawing me inwards.
 
-"What's woah?" said Morrow. He had pulled his face off the ground when we got close, saying that Neenu could take it from here. "Isn't that just a doorway?"
+"What's woah?" said Morrow. He had pulled his face off the ground when we got close, saying that Neenu could take it from here. "That boring old doorway?"
 
 "It is the Blood Child's portal," said Justicar. "Naturally, only the Blood Child would be able to see its true form."
 
 "Yeah," I said. "I see, like, a tunnel, leading me into, like, <em>magic</em>."
 
-Neenu swooped towards the star with the portal on it, and hovered over it in a little wavy pattern. She had been getting better at moving smoothly. Now, she was almost halfway on top of the other star, leaving the portal almost only a step away from me.
+Neenu swooped towards the star with the portal on it, and hovered over it in a little wavy pattern. She had been getting better at moving smoothly. Now, she was floating just above the other star, almost halfway overlapping it. The portal was only a step away from me.
 
 It was funny. When I looked at the portal with my <em>eyes</em>, I just saw solid blackness, like it was a black wall blocking off the doorway. But when I looked with my instincts, it was vibrant. "So I'm going to be stepping into that portal? What even <em>is</em> that thing?"
 
-Yali answered. "It will be a lot like when we were pulled into the Otherworld. Just like the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition is even technically called the Seeking Gate, and the first one was called the Waiting Gate –"
+Yali answered. "It will be a lot like when we were pulled into the Otherworld. The same way the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition is even technically called the Seeking Gate, and the first one was called the Waiting Gate –"
 
 "That's confusing, that's the same as what the physical gates in the city are called!"
 
