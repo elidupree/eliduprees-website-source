@@ -349,7 +349,7 @@ I laughed. "That river of blood, though… That's really how the Blood God feels
 
 "It knew that you were doing it because you loved me. And the Blood God has power over passionate love, so it took away that part of you so that it could lower your resistance –"
 
-"No I didn't! I'm not a manipulator like <em>you</em>– Er, sorry about that," I said. "That was the god again. But it's right, it didn't do that on purpose. It just felt so hopeless that it gave up and kind of… withdrew into itself. And, remember, we're not two separate people, so when <em>it</em> gave up, I lost all <em>my</em> Blood feelings, too."
+"No I didn't! I'm not a manipulator like <em>you</em>– Er, sorry about that," I said. "That was the god again. But it's right, it didn't do that on purpose. It just felt so hopeless that it gave up and kind of… withdrew into itself. And, remember, we're not two separate people, so when <em>it</em> gave up, I lost all <em>my</em> Blood feelings, too. I got so weak that the Stern God started leaking into my head. And the most fucked up thing is, the Stern is all like 'if you start something, you should finish it', so the Stern feelings made me go after you again, even after the Blood God gave up!"
 
 "Hmm…"
 
