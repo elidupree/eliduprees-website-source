@@ -27,6 +27,8 @@ posts = [
   "content_warnings": '''<p>Verbal abuse.</p>''',
   "contents": '''
 
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/watchful-eye-ornate.jpg?rr" alt="">
+
 I quickly sat up and looked around.
 
 There was a sky full of stars in every direction, but this time, they looked like real stars instead of spooky dream stars. The next thing I saw was a desk with a computer screen, for some reason. Other than that, there was just the sky, the floor, and – there she was!

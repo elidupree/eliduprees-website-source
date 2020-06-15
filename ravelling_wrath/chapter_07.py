@@ -245,6 +245,8 @@ We all turned to look. He was already helping himself up onto his knees. It was 
 
 I grinned. "I <em>like</em> this guy," I said to no one in particular.
 
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch7.jpg?rr" alt="">
+
 Justicar stepped forward. "If your body is whole again, that means you can tell us <em>what</em> you just did, and promise not to do anything like it again."
 
 "I was in space! It was great! It was so weightless I actually vomited! I vomited in space, can you believe that!!" Morrow pulled a huge sandwich out of thin air and chomped into it.

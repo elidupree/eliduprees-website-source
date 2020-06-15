@@ -315,6 +315,8 @@ Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I 
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch10.jpg?rr" alt="">
+
 Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had caused it to happen. I had been a star student, working hard and earning top marks, but I took it for granted. Even knowing how much my parents had suffered to make sure I would have a better life than they did, I always wanted more. To fill that void, I reached out in every direction except the one that would truly restore me. I experimented with every kind of drug I could get my hands on, I had sex with many different men –"
 
 Well <em>that</em> was something I knew how to respond to. "Haha, that's where you went wrong. Shoulda had sex with girls instead."

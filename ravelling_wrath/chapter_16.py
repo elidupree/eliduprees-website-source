@@ -141,6 +141,8 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I know what you're thinking. You're thinking, we can't kill the Farseer without hurting Yali. But there's gotta be a way around that, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook my fist in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
 
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt="">
+
 My fire billowed around me. I rose effortlessly to my feet. Within my aura of flame, everything felt amazing. The rain boiled off of me, leaving me warm and dry. My remaining wounds faded away, my flesh made whole and warm again, my skin smoothed together into a single, beautifully sensitive organ.
 
 In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky whisper, she spoke:

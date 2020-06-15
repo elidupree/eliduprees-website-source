@@ -256,6 +256,8 @@ My mind turned these worries over and over, late into the night, until sleep was
 
 As I slipped into unconsciousness, the only thing I knew for sure was that I was up against something much, much bigger than me.
 
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch5.jpg?rr" alt="">
+
 <bigbreak>
 
 The day finally came.

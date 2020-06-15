@@ -43,6 +43,8 @@ posts = [
   "head":head,
   "chapter_title": "Blood Child",
   "contents": '''
+  
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/ch1-header.jpg?rr" alt="">
 
 "Ow! Fuck."
 
@@ -143,7 +145,7 @@ I jumped. Yali's expression was still neutral, oddly enough, but she had said it
 
 "That could work..." Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. I watched her uncertainly. She didn't look upset, but this wasn't something I'd seen before. Yali squinting. Yali chewing her lip. From anyone else, that wouldn't have caught my attention. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
 
-<img src="/media/yali-sketch.png?rr" alt="A picture of a person hunched over and sitting on a couch, labeled 'Yali Seti'.">
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch1-mid.jpg?rr" alt="">
 
 Finally, she spoke up. "How much do you know about what happens during," she swallowed, "the Ravelling?"
 

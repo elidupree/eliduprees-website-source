@@ -16,6 +16,8 @@ posts = [
   ''',
   "head":head,  "chapter_title": "The Endless Maze",
   "contents": '''
+  
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/endless-maze-ornate.jpg?rr" alt="">
 
 The darkness jiggled impatiently.
 

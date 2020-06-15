@@ -16,7 +16,8 @@ posts = [
   ''',
   "head":head,  "chapter_title": "",
   "contents": '''
-  
+
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/iron-gate-ornate.jpg?rr" alt="">
   
 It slammed into place. The pattern. The blazing, uncompromising pattern of the Stern.
 
