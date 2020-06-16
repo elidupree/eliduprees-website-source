@@ -166,6 +166,8 @@ Traveling with Alchemist was oddly comforting.
 
 After a while, it had finally sunk in that I was never going to find Yali anytime soon. I had felt defeated, bitter, like there was a yawning hole in me, an empty space where my mission should have been. But then Alchemist came and… <em>filled</em> some of that space. I didn't understand how, but somehow, it was easier to just focus on what I was doing with Alchemist than to worry about the gods. The gentle resonance of their voice was almost enough to distract me.
 
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch11-1.jpg?rr" alt="">
+
 Bit by bit, they started to share more details about their life before the Ravelling. Their family life sounded really boisterous. They had five brothers and three sisters, and a bunch of aunts and uncles who lived with the family most of the year as well. Before the Ravelling, I'd always been like, "siblings, who needs 'em", but the way Alchemist described it, it sounded wonderful. They kept telling me about different little traditions and habits everyone had. Alchemist obviously loved all of their siblings deeply, it was really sweet. Of course, it was also sad. Sometimes, they just talked about everyone happily, lost in the fond memories. Other times, they barely got started before their eyes got all teary. But that made sense to me now. Having random, different feelings about the same thing, depending on which thought happened first, was kind of what I'd been living with for a while.
 
 The weirdest thing was the world around us.
@@ -398,6 +400,8 @@ But thinking about that made the rage flare up inside me. <em>This is no time to
 
 "You are <em>not me</em>," I shouted into the void. "I don't care what you want! I don't care about your fucking murder quest! And I'm sick of you trying to take away my chance to enjoy being with Alchemist when there's nothing we can even do anyway! And so, I am going to go back up there, and be everything Alchemist wants me to be! I will treat them like an absolute princess! I mean, a… whatever the non-binary equivalent of princess is! A princ… uh… whatever, actually even if they were a dude I'd still say I was going to treat them like a princess! So that's what I'm going to do! You hear me?!"
 
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch11-2.jpg?rr" alt="">
+
 The wind howled through the gorge in front of me. From the part of me that was the Blood God, I felt… Pain. Despair. Empathy. Anger tearing in more than one direction. It was hard to tell what it was really feeling. But with the way it was fighting with itself, it definitely wasn't united against me. <em>I</em> was the strong part. <em>I</em> was the one who knew what I wanted.
 
 Satisfied, I started climbing back up the wall of the gorge.
@@ -524,7 +528,7 @@ Justicar raised an eyebrow slightly. "What prompted <em>this</em> outburst?"
 
 "Don't worry about it," I said.
 
-Justicar glanced back at me. "I doubt that we should believe he is twenty-five," she said. "Come to think of it, we are an unusual combination of ages for Ravellers, are we not?"
+Justicar glanced back at me. "I doubt whether we should believe he is twenty-five," she said. "Come to think of it, we are an unusual combination of ages for Ravellers, are we not?"
 
 "What's that supposed to mean?"
 
@@ -612,7 +616,7 @@ We all gathered in a little cluster. I tried to pull everyone into a group hug, 
 
 Yali squeezed my hand hard. "<em>Remember,</em>" she whispered, "the Blood God is going to try something. Don't let it succeed. I'm trusting you."
 
-Oblivious to Yali, Morrow shouted, "Yeeeaaahh, let's do this thing!!" He rushed forward into the portal, dragging the rest of us with him. As Alchemist's hand dragged me forward, I frantically looked back at Yali, and the last thing I saw was her eyes looking intently into mine as my body slipped into the well of magic.
+Oblivious to Yali, Morrow shouted, "Yeeeaaahh, let's do this thing!!" He rushed forward into the portal, dragging the rest of us with him. As Alchemist's hand dragged me forward, I frantically looked back at Yali. The last thing I saw was her eyes drilling into mine as my body slipped into the well of magic.
 
  
 ''',

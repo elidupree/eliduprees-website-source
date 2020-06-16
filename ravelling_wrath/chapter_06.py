@@ -23,9 +23,11 @@ posts = [
 
   ''',
   "head":head,
-"chapter_title": "The Starry Void",
+  "chapter_title": "The Starry Void",
   "content_warnings": '''<p>Verbal abuse.</p>''',
   "contents": '''
+
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/watchful-eye-ornate.jpg?rr" alt="">
 
 I quickly sat up and looked around.
 
@@ -59,7 +61,7 @@ Yali gently pushed me away. "Why don't you take a look around? I'll be up in a m
 
 "Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff. Well, first, I pulled off the hoodie Yali had given me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. Now in just my shirt, I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
 
-Now that I was more refreshed, I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about 15 meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
+Now that I was more refreshed, I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about fifteen meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
 
 I couldn't even see anything else over the edges of the platform. I carefully knelt down at the edge and looked over… and saw <em>more</em> stars stretching out endlessly below us.
 
@@ -111,7 +113,7 @@ Yali frowned. "I did. There's never been a computer here before, it's always bee
 
 "What's so funny?" I said. Yali kept laughing. "Hey! Don't leave me out of the loop here!"
 
-She barely contained herself. "Oh I get it now… It was never a bookshelf, it was 'a vast collection of ancient knowledge'! And it's constructed based on our assumptions, so maybe people USED to think that meant a bunch of books, but the place <em>we'd</em> look for ancient knowledge is –"
+She contained herself. "Oh I get it now… It was never a bookshelf, it was 'a vast collection of ancient knowledge'! And it's constructed based on our assumptions, so maybe people USED to think that meant a bunch of books, but the place <em>we'd</em> look for ancient knowledge is –"
 
 "– on the Internet," we finished together. I grinned. "Hey, does that mean we'll have internet here?"
 
@@ -140,9 +142,52 @@ When she said "jump into anything", it made me think of physical jumping, and ho
 
 "Maybe there's another name for the telescope. We should think about –"
 
-"If you're so smart, why don't <em>you</em> figure it out?" I shoved myself away from the desk and stood up, waving for Yali to sit down in my place. She hesitated a little, but then nodded and sat down. She adjusted the chair until she was comfortable, then focused in on the screen.
+"And why should <em>I</em> have to read your stupid Codex?" I shoved myself away from the desk and stood up. "You're the one who's good with all this detail stuff. <em>You</em> still have a <em>temple</em>!"
 
-Yali found a starting point in the Codex and read for a while. Then she scrolled down and kept reading for a while longer. Pretty soon, I started to get the idea that this was going to keep going for a long time.
+I didn't realize something was weird until Yali spoke again. "Are you talking about the Waiting Temple?" she said carefully.
+
+"Well, yeah, I mean, you're, uh…"
+
+"The Waiting Temple isn't 'my' temple. Was that the Blood God talking?"
+
+I tried to think back to what I'd been thinking, but it was gone now. "Ugh, I don't know, I guess it must have been? Like, <em>I've</em> never been mad about the Waiting Temple <em>specifically</em>.
+
+"This could be important. If the Blood God is angry about the Waiting Temple, or –" she concentrated "– or about the Blood Temple being gone, –"
+
+"Hang on, what <em>did</em> happen to the Blood Temple?" It suddenly seemed really important, like something I should be able to remember but just couldn't.
+
+"I, I don't really know –"
+
+"I thought you knew everything! With the memories and shit."
+
+"It was a, a complicated political thing. I don't know if I can explain it –"
+
+"Hmph."
+
+"– but the important thing is, if the Blood God's anger is about the temples, then for us to protect you from the anger, we'd have to –"
+
+"Of course! I'll definitely notice if I'm mad about the Waiting Temple again. I'll use the Calming Game –"
+
+"That's the problem," said Yali. "I don't want to tell you not to hate the Waiting Temple."
+
+"Wait a minute. When I hate the Stern Temple, you're all 'I can't listen to this'. But the Waiting Temple is fair game?"
+
+"Why not? They're different temples." That was a bit of a weird thing to say. It was <em>technically</em> true, but to most people, the Stern and the Waiting were kind of just two different branches of <em>the people in charge of the city</em>. The Stern were more of the everyday throw-you-in-jail types, and the Waiting were more of a distant authority handing down decrees, but they were pretty much on the same side. And Stern preachers were always like <em>you must respect the Waiting</em>, too. When I was a kid, my parents had made me go to temple every week, it was so annoying. And that meant a Stern temple. I'd never actually <em>been</em> inside a Waiting temple – at least, not that I could remember. There weren't many around where I lived, and they were even more boring and old-fashioned.
+
+"Alright then, screw the Waiting. Bunch of old know-it-alls sitting around, not doing any good for anybody."
+
+Yali didn't seem too pleased by that either, but she let it slide. "In any case, if you have those thoughts again, just remind yourself, whatever is wrong with the Waiting Temple, it's not <em>me</em>. I'm <em>not</em> like they are."
+
+<bigbreak>
+
+
+But one way or another, we were going to have to read the Codex, so we could navigate the stars.
+
+In the end, Yali decided to do it herself. "I had wanted us to do it together," she said. "But I know it's going to frustrate you, and that puts your own frustrations on the same side as the Blood God's, which could be dangerous."
+
+"Yeah." I knew what she meant. It was spooky how easily I had slipped into saying a Blood God thing when I thought I was just complaining.
+
+So that was what we did. Yali sat down, adjusted the chair until she was comfortable, and focused in on the screen. Pretty soon, she found a starting point in the Codex and read for a while. Then she scrolled down and kept reading for a while longer. Before long, I started to get the idea that this was going to keep going for a long time.
 
 "Hey, how about you use your Seeing?" I said. "Look in the future and tell us how we figure it all out."
 
@@ -408,7 +453,7 @@ I wasn't going to let a little nausea get the better of me. I immediately got up
 
 "Check it out," I said, tossing one of the balls I'd found at Yali. "All those balls just went rolling off the edge and we never thought about what happened to them!"
 
-"Yeah, that's pretty cool," said Yali. But she wasn't really paying attention. She'd probably seen this all before, Stern take it.
+"Yeah, that's pretty cool," said Yali. But she still wasn't paying attention. She'd definitely seen this all before, Stern take it.
 
 "Yeah, so, uh, I guess I can go hang out on the other side now. So I won't disturb you."
 
@@ -420,7 +465,7 @@ So I ended up spending a lot of time sitting around feeling sour about things. A
 
 <bigbreak>
 
-I woke up on the eighth day. Not that I had slept exactly eight times since we started. With no sun and no society, we hadn't really been keeping a 24-hour cycle. But judging by my phone, it was officially more than a week since we had gotten here.
+I woke up on the eighth day. Not that I had slept exactly eight times since we started. With no sun and no society, we hadn't really been keeping a twenty-four-hour cycle. But judging by my phone, it was officially more than a week since we had gotten here.
 
 I didn't even want to get up. It was just going to be another fucking day like all the others.
 
@@ -530,25 +575,7 @@ Yali held out her hand to help me up. I took it and started climbing to my feet.
 
 "Uhh…"
 
-"Don't you remember? When I first tried saying that invocation. The first thing you said was 'Don't pretend like you're some kind of holy person'. It wasn't like you."
-
-"It wasn't?" I said hollowly. "I mean, when have I ever respected anything religious?"
-
-"You can't think of any other way you might have reacted? Like, what would you have said if I was actually more religious than I am?"
-
-"I mean, if you were <em>actually</em> religious, I guess that would be, like, one of the things that makes you <em>you</em>? I mean, like, I wouldn't get it, but I'd have to, you know…"
-
-"That's what I thought… Whenever it's about <em>me</em>, you find a way to interpret it in a positive way. But that time, you didn't." She paused. I didn't really see the connection, but apparently <em>she</em> saw something in it. "Not that I mind if you hate the Waiting Temple. I'm only pointing it out."
-
-I was still feeling like shit, but I just HAD to ask about that. "Wait a minute. So you didn't want me to hate on the Stern Temple around you. But the Waiting Temple is fair game?"
-
-"Yeah, why not? They're different temples." That was a bit of an unusual thing to say. It was <em>technically</em> true, but to most people, the Stern and the Waiting were kind of just two different branches of <em>the people in charge of the city</em>. The Stern were more of the everyday throw-you-in-jail types, and the Waiting were more of a faraway authority handing down decrees about long-term projects for the city, but they were pretty much on the same side. And Stern preachers were always like <em>you must respect the Waiting</em>, too. When I was a kid, my parents had made me go to temple every week, it was so annoying. And that meant a Stern temple. I'd never actually <em>been</em> inside a Waiting temple – at least, not that I could remember. There weren't many around where I lived, and they were even more boring and old-fashioned.
-
-After a pause, Yali squinted. "Actually, no. Please don't make fun of the Waiting Temple either."
-
-"What?"
-
-"The point is, <em>I've</em> noticed a difference. You haven't been giving me the benefit of the doubt as much, at least when it's about the Waiting God or its world. So I think we might be seeing the first part of the Blood God's influence. But…" She frowned. "This isn't how the Blood God is supposed to operate. It's supposed to be about anger, like, direct confrontation. Not about contempt, or… feeling like you're entitled to my help… I mean, this change has to be coming from the Blood God, but I don't understand."
+"It's subtle, but it's there. You haven't been giving me the benefit of the doubt as much, especially when it's about the Waiting God or its world. So I think we might be seeing the first part of the Blood God's influence. But…" She frowned. "This isn't how the Blood God is supposed to operate. It's supposed to be about anger, like, direct confrontation. Not about contempt, or… feeling like you're entitled to my help… I mean, this change has to be coming from the Blood God, but I don't understand."
 
 Why did it have to be coming from the Blood God? Maybe because… because if it <em>wasn't</em> coming from the Blood God, that would mean it was coming from <em>me</em>. And Yali couldn't believe that it was coming from me. I felt like my heart was being pulled in two different directions. Yali really trusted me so much that she couldn't believe I would have said all those things by myself. But what if she was wrong?
 

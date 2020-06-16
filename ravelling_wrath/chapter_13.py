@@ -253,6 +253,8 @@ I stomped down the path, answering every new sensation with a surge of hatred, o
 
 But no matter how hard I tried, it just echoed around my brain incoherently, none of it sinking in.
 
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch13.jpg?rr" alt="">
+
 <bigbreak>
 
 It wasn't long before my anger dulled again. I settled into a routine – not a routine that I liked, but a routine that kept me moving forward. An awkward compromise that no part of me was really okay with.

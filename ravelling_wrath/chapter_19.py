@@ -35,7 +35,7 @@ Unspeakable feelings loomed at the edges of my mind. If I kept looking at this m
 
 I took a minute to pack away the unwanted thoughts. Then I tried again, looking at Rinn's body the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
 
-The left arm and left leg were positioned at angles that wouldn't be possible if the bones were intact. Most likely, they had been reduced to powder by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody. Again, I would have to reposition it.
+The left arm and left leg were positioned at angles that wouldn't be possible if the bones were intact. Most likely, they had been shattered by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody. Again, I would have to reposition it.
 
 How would I go about this? What position could I put them in?
 
@@ -45,13 +45,13 @@ Could I put her in a different position?
 
 Also, how would I transport her? One way or another, she would have to arrive at the final portal. She was light enough that I could carry her, but if I slipped or jostled her along the way, it could reinjure her. It would be better if I found a way to move her while keeping her stable, with padding.
 
-I considered this for a while. At last, I settled on an idea. Concentrating, I manifested the same rolling hospital bed that we had used in the Stern God's layer. By itself, this wouldn't be suitable for the current layer's cracked and slanted roads, but it was a start. Next, I changed its wheels. Using manifesting, I reshaped them to have big, soft rubber tires, to soften the bumps. Also, relying on one of the old Farseers' memories, I added ratchets to the wheels, so the bed wouldn't roll back down a hill if I lost my grip on it. After a lot of reshaping, I ended up with a sort of bulky wagon with a mattress on top.
+I considered this for many minutes. At last, I settled on an idea. Concentrating, I manifested the same rolling hospital bed that we had used in the Stern God's layer. By itself, this wouldn't be suitable for the current layer's cracked and slanted roads, but it was a start. Next, I changed its wheels. Using manifesting, I reshaped them to have big, soft rubber tires, to soften the bumps. Also, relying on one of the old Farseers' experience as a mechanic, I added ratchets to the wheels, so the bed wouldn't roll back down a hill if I lost my grip on it. After a lot of reshaping, I ended up with a sort of bulky wagon with a mattress on top.
 
-The next thing was to put Rinn on it. I didn't want to hurt her more by trying to lift her directly. So I manifested an inflatable cushion under her body, and slowly inflated it, to lift her up a little at a time. With careful manifesting, I was able to lift her whole body evenly. Once it was up alongside the mattress on the wagon, I manifested another mat under her so I could slide her across.
+The next thing was to put Rinn on it. I didn't want to injure her more by trying to lift her directly. So I manifested an inflatable cushion under her body, and slowly inflated it, to lift her up a little at a time. With careful manifesting, I was able to lift her whole body evenly. Once it was up alongside the mattress on the wagon, I manifested another mat under her so I could slide her across.
 
-By the same process, I lifted her into a sitting position in the wagon. To make sure she wouldn't fall, I surrounded her body with stiff foam blocks. I shaped each block around her, so her whole body was nestled in a perfect mold. Once I got the shape right, I made the blocks merge together, and also merged to them into the mattress underneath, so there was one, solid object holding Rinn in place, and it couldn't slip or fall apart.
+By the same process, I lifted her into a sitting position in the wagon. To make sure she wouldn't fall, I surrounded her body with stiff foam blocks. I shaped each block around her, so her whole body was nestled in a perfect mold. Once I got the shape right, I made the blocks merge together, and also merged them into the mattress underneath, so there was one, solid object holding Rinn in place, and it couldn't slip or fall apart.
 
-I stepped back and checked my work. It seemed suitable. Rinn was secure now, with only her head sticking out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. So if I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
+I stepped back and checked my work. It seemed suitable. Rinn was secure now, with only her head sticking out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. If I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
 
 Now there was nothing more I could do for Rinn immediately. Maybe now I would have time to think and plan my next move.
 
@@ -63,11 +63,11 @@ I compromised by manifesting a hard bench and sitting up straight on it. That ca
 
 I had never intended to drink the unravelling potion. I had made sure it was created, but not for the reasons I had let on. I had done it because it gave the Blood God something to hope for. The potion's existence meant that Rinn could believe in a simple solution, so that the Blood God would not resist what we were doing. It was one less complication in a situation where our lives were already at stake.
 
-The first time I had foreseen Alchemist approaching with the idea of the potion, my first thought had been to make Rinn drink it. But after I heard the Blood God's side of the story, after I heard that the Waiting God's <em>goal</em> was to prevent the Blood God from rejuvenating, I couldn't accept an outcome that would let the Waiting God succeed. And then, of course, my next thought had been to drink it myself, to starve the Waiting God. But in the end, I couldn't accept that either.
+The first time I had foreseen Alchemist approaching with the idea of the potion, my first thought had been to make Rinn drink it. But I couldn't accept an outcome that would let the Waiting God succeed. And then, of course, my next thought had been to drink it myself, to starve the Waiting God. But in the end, I couldn't accept that either.
 
-In many different futures, I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So if the Blood God rejuvenated and the Waiting God did not, it would be a complete success. A total victory for the Blood God.
+In many different futures, I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So the way to win was if the Blood God rejuvenated and the Waiting God did not. Anything less would not be enough.
 
-To me, that wasn't enough.
+To me, even <em>that</em> wasn't enough.
 
 The Waiting God had <em>allowed</em> its Farseers to die. It had callously sacrificed them, for no more reason than to prove its story that the Blood God was a monster. Rinn's words echoed in my head: <em>I will kill you and kill you and kill you, and when I am gone, you will still be strong.</em> And the Waiting God knew it. The Waiting saw the grand span of time. The loss of a single rejuvenation, in a single year, was insignificant to it. And so that loss was insignificant to me as well. I was not content to take away only what it had already willingly discarded.
 
@@ -79,11 +79,13 @@ And so, here we were. Everything was going according to plan. Justicar was no lo
 
 Now only my most powerful enemy was left.
 
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt="">
+
 <bigbreak>
 
 How was I going to do this?
 
-I would need to access the Waiting God's threads within me. But I was not yet certain how to do that. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the closest thing to direct control was my power to place the Watchful Eye, but even that had felt more like… more like <em>performing a protocol</em> to access the god's magic.
+I would need to access the Waiting God's threads within me. But I was not yet certain how to do that. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like… more like <em>performing a protocol</em> to access the god's magic.
 
 <em>Rinn</em> had fully connected with <em>her</em> god. How had she done it? It was probably easier with the Blood God, for more than one reason, but there might still be something I could learn from it.
 
@@ -91,7 +93,7 @@ Thinking back, I remembered how she had talked when she was speaking for the Blo
 
 I smiled grimly.
 
-Thinking of it this way, it wasn't so different from the Seeing after all. Keeping still and silent, I listened for the Waiting God's presence. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to my chosen outcome.
+Thinking of it this way, it wasn't so different from the Seeing after all. Keeping still and silent, I listened for the Waiting God's consciousness. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to my chosen outcome.
 
 It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
 
@@ -410,13 +412,13 @@ The sun was glaring in my eyes. It was hard to breathe. There was a lot of pain 
 
 My eyes were crying again. It hurt. Was this what the Blood God wanted? Was it Blood to just have all this pain? With Blood, the pain was supposed to <em>mean</em> something. But I didn't feel like there was any meaning at all. I needed to do something Blood, but there was nobody here to tell me what that was. I would have to figure it out by myself.
 
-Why? Why did it always have to be me? Why did I have to do all the work when everyone else could only see what was right in front of them? Hadn't I worked hard enough for one lifetime just to escape the Dalners? Hadn't I worked hard enough for two lifetimes just to keep Rinn and me alive? And now I had to do <em>another</em> incredibly difficult thing? When would it <em>end</em>?
+Why? Why did it always have to be me? Why did I have to do all the work when everyone else could only see what was right in front of them? Hadn't I worked hard enough for one lifetime just to escape the Dalners? Hadn't I worked hard enough for two lifetimes just to keep Rinn and me alive? And now I had to do <em>another</em> [????? incredibly difficult thing]? When would it <em>end</em>?
 
 Thinking about this was making me feel deeply unfulfilled. I wanted something more. That meant it was time to get myself back under control – no, if I was trying to be Blood, it was right to keep going. If I wanted something more… what did I actually want? I couldn't tell. I tried to pay attention to what I was feeling. For a moment, I had an impulse to curl up on the ground. But that didn't make sense. If I curled up on the stone street, that would just give me extra, physical pain, not the cathartic feeling I seemed to be imagining. So that wasn't really what I wanted. Or was it? I couldn't tell. What was the Blood thing to do? It definitely wasn't Blood to keep sitting around wondering about it. Blood was more impulsive than that. Was I supposed to just follow the impulse without thinking about it? That might be it. I tried to force myself to curl up, the way I had imagined. That ran into a block. I couldn't get myself to do it.
 
 Why couldn't I do it? When I tried, there was a haze in my mind, holding me back. I felt like the world was closing in on me. What was this feeling? It was like I was terrified of… something. Or, that <em>was</em> the feeling. I was terrified.
 
-It didn't make sense for me to be afraid of this! Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! Right now, there was no immediate danger, so it made no sense to be afraid of taking some time to feel things! Wasn't I Yali Seti? Hadn't I let someone stab a blade through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
+It didn't make sense for me to be afraid of this! Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! Right now, there was no immediate danger, so it made no sense to be afraid of taking some time to feel things! Wasn't I Yali? Hadn't I let someone stab a blade through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
 
 I stared at the paving stones. I needed to think. I knew I was missing something important, I just couldn't see what.
 
@@ -446,7 +448,7 @@ I had the impulse to fall over and cry again. This time, I didn't try to force m
 
 I tilted over and went down onto my side on the bench. Before long, my shoulder was in pain under the weight of my body. My legs got twisted and I awkwardly shuffled them into a better position. My neck ached from trying to hold up my head. I kept holding it up, because otherwise it would be lying on the hard iron of the bench. But… but… I released myself again, lowering my head to the iron. The side of my forehead jammed against the bars. It hurt. My neck hurt from being at a bad angle. Lots of parts of me hurt, too many to process. And I was just lying there. It felt awkward and pathetic. And knowing that I was just lying here, not doing anything about it, made it feel even worse.
 
-What was the point of all this? I had given into my impulses, but I didn't feel Blood at all. Maybe Broken, but not Blood. There was still just a lot of pain. I hadn't suddenly had any insight that would make it mean something. What was I doing? I had no idea what I was doing. Why had I thought I would be able to figure this out? For some reason it had felt like the right answer would be right around the corner when I got around to it, like I had only been putting this off, not that it would actually be hard. It had been so easy to think so back before I started actually trying this, back when, when…
+What was the point of all this? I had given into my impulses, but I didn't feel Blood at all. Maybe Broken, but not Blood. There was still just a lot of pain. I hadn't suddenly had any insight that would make it mean something. What was I doing? I had no idea what I was doing. Why had I thought I would be able to figure this out? For some reason it had felt like the right answer would be right around the corner when I got around to it, like I had only been putting this off, not that it would actually be hard. It had been so easy to think so, back before I started actually trying this, back when, when…
 
 …when I had been talking with Rinn…
 
@@ -456,7 +458,7 @@ If only I could still talk to her! But I had left her unconscious. Why had I don
 
 Why??!
 
-But I knew why. My Waiting side would never leave me, never let me forget the truth. Even though I was overwhelmed by pain, I could not help but think of the answer: <em>I had done it make sure we would survive.</em> It had seemed like a perfect solution. After Justicar was dealt with and Rinn was unconscious, there would be no reason left that either of us would die. At that moment, it was the only thing I'd thought about. Once I found a future where neither of us died, I had called it a success. I hadn't looked further than that.
+But I knew why. My Waiting side would never leave me, never let me forget the truth. Even though I was overwhelmed by pain, I could not help but think of the answer: <em>I had done it to make sure we would survive.</em> It had seemed like a perfect solution. After Justicar was dealt with and Rinn was unconscious, there would be no reason left that either of us would die. At that moment, it was the only thing I'd thought about. Once I found a future where neither of us died, I had called it a success. I hadn't looked further than that.
 
 But now that it was over, now that I had a chance to think about what to do now… There were a lot of other things I wanted, more than just… <em>not dying</em>.
 
@@ -474,13 +476,19 @@ I had made a mistake. Now I had to think about what to do next.
 
 I decided to think on my feet. I didn't <em>want</em> to do the work of walking, but I would have to do it eventually, and it gave me something to occupy my mind other than revisiting all my own mistakes.
 
-The idea came to me as I hauled Rinn passed a crumbling temple. When Rinn had been speaking for the Blood God, she had been so upset about the destruction of what she called "my temple". Less than a lifetime ago, the Blood Temple had existed. There had been an entire <em>temple</em> full of priests who could give me the insight I needed, who had understood and valued the ways of the Blood God. A temple the Waiting God had gone to such great lengths to disempower.
+The road went on and on. The pulsing of the sun – the heart – felt different now. It was almost an invitation, an invitation I had no idea how to answer, one that made me ache to my bones.
 
-Of course, all of that was in the past now.
+And then, I saw something that made me pause and turn to the side.
 
-But I was the Farseer. To me, the past wasn't so far away. I had sixty-eight lifetimes' worth of memories to draw on.
+A crumbling temple rose above the street. Of all the gods, only the Blood God had represented literal temples in its world. The Waiting God – and perhaps all the other gods – had viewed their temples as mere reflections. But to the Blood God, the Blood Temple was something vital. From our very first day in the Otherworld, Rinn had shown anger about its loss. A loss we still did not fully understand.
 
-It was time for me to learn what the Blood Temple really was.
+My gaze fell on the arch of the temple gate. Some unknown temptation drew my eyes upwards over the cracked stones. At the top of the arch was engraved the Burning Heart – the Blood God's sigil, the sigil that was now illegal to display throughout the city and its territories.
+
+The Burning Heart… I felt an overpowering need to keep looking. Memories crowded into my mind, love and hatred and regret. I was a farmer coming through this gateway to pray for the health of my livestock. I was a librarian coming to the funeral of a priest. I was Garthold Brannet, here to argue a case in Blood court. I was Hiram Soleocchi, returning home to a temple much like this one.
+
+I shivered. These were the memories I had tried so hard to find, the ones the Waiting God had been hiding from me! And now, without fanfare, they were suddenly laid bare. For a moment, I wondered why. But then, with a second shiver, it became clear. My connection with the god was still drained. Just as I had lost access to the Seeing, the god had lost access to lay its guidance over the memories that were stored inside the Farseer. I could dig through the memories for answers now, and nothing would be able to stop me.
+
+It was finally my chance to learn what the Blood Temple really was.
 
 ''',
 },

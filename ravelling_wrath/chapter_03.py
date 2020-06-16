@@ -228,14 +228,14 @@ But somewhere in the back of my mind, the idea of <em>murdering your girlfriend<
 
 As soon as I had a moment alone in the halls, I pulled out my phone and started texting Yali.
 
-<p class="text right">omg i love you so much can't want to see u &lt;3</p>
+<p class="text right">omg i love you so much can't want to see u ❤</p>
 <p class="text right">u ok? from the you-know-what last night</p>
 <p class="text right">anyway I thought of something that actually made me angry</p>
 <p class="text right">its like</p>
-<p class="text left">im ok</p>
-<p class="text left">tell me after school</p>
-<p class="text left">meet you out front?</p>
-<p class="text right">sure thing &lt;3 &lt;3 &lt;3</p>
+<p class="text left">Im ok</p>
+<p class="text left">Tell me after school</p>
+<p class="text left">Meet you out front?</p>
+<p class="text right">sure thing ❤ ❤ ❤</p>
 <div class="clear"></div>
 
 When I caught up to Yali after school, she didn't see me at first. She had her bags next to her on the bench, and she was sitting with her elbows resting on her knees, looking totally exhausted.
@@ -572,13 +572,13 @@ It was during class, but I held my phone under the table to text her back.
 
 <p class="text left">Skip lunch today.</p>
 
-<p class="text right">you coulda told me earlier &gt;_&lt;</p>
+<p class="text right">you coulda told me earlier 😝</p>
 
 <p class="text left">I could have. But then you'd have been more prepared for it.</p>
 
 <p class="text right">screwwww you lol</p>
 
-<p class="text right">&lt;3</p>
+<p class="text right">❤</p>
 
 <div class="clear"></div>
 
