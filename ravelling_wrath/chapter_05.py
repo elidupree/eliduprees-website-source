@@ -286,7 +286,7 @@ I took off running down the road towards the school. But as soon as I was out of
 <p class="text left">ill have something for you</p>
 <p class="text left">don't tire yourself out on the way here, we'll have a lot more walking to do</p>
 
-<p class="text right">on my way! see you soon! &lt;3</p>
+<p class="text right">on my way! see you soon! ❤</p>
 <div class="clear"></div>
 
 I snickered at "<em>more</em> walking", as if I was actually going to walk this first part. I was itching to run, to get there as soon as I could. But just for her, I held myself to somewhere in the middle, and settled into an easy jog.
