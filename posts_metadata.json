@@ -1169,11 +1169,11 @@
   "remembered_contents": "3cdfd1862a6240622540eff3cd69d6d18cc9526f36ef1ae5ed7234f89a66c575220b4c12a85492d38a0cd28b055e25d8"
  },
  "Ravelling Wrath, chapter 1": {
-  "date_modified": "2019-12-18",
+  "date_modified": "2020-06-17",
   "date_posted": "2017-03-08",
   "deployed": true,
   "id": "2a150769152d75109cccd3e1f72ab8e",
-  "remembered_contents": "0e35ff0244d524f21cc88c747821c2f514de2953616852b9b993908b0cc2ef7c382170ca95caa21854bd0b366a160a70"
+  "remembered_contents": "80f8299590b45e74191661369642c1102dd26d425923d5870720ff1477b67305bf6fb54ac4daea62f8233e69706f142c"
  },
  "Ravelling Wrath, chapter 10": {
   "date_modified": "2018-10-05",
@@ -1283,11 +1283,11 @@
   "remembered_contents": "8f8eb76fad90868e134e72ff41df6dbd885a7b32abccf9d0dea038f274c28dc4b91914f5e023a7eca28c6d7fa87af79e"
  },
  "Ravelling Wrath, chapter 2": {
-  "date_modified": "2019-12-18",
+  "date_modified": "2020-06-17",
   "date_posted": "2017-05-31",
   "deployed": true,
   "id": "f30627d504c236027c7a74d5ca3f349",
-  "remembered_contents": "2a459b44559e84f98a0c3ff7d39e5ba74fa51befc2ee5e83331c9190fd68f1f76e17b73edc5ab970fd54bf2c8ca1c94a"
+  "remembered_contents": "5a8de62122988cfc91d75850a16467df9c989e6033d2e414266eeabac13ee05e8ea259f2cb65b252d75c7740d4caa83d"
  },
  "Ravelling Wrath, chapter 20": {
   "date_modified": "2018-10-05",
@@ -1317,11 +1317,11 @@
   "remembered_contents": "07682cb652bbaf5044a3c03305cd2ab436719e29f885de50768ffff2b266e3014f661978ce6e6b642470441f0bdb3feb"
  },
  "Ravelling Wrath, chapter 3": {
-  "date_modified": "2019-12-18",
+  "date_modified": "2020-06-17",
   "date_posted": "2017-10-25",
   "deployed": true,
   "id": "7c33a638a60f2afd716f1d6baa53f0e",
-  "remembered_contents": "961d417d4e7da721b7b3dcf50aa7152436f847f3ee019cf078739fd932172ce422e010c994c41b4987bc2c521d09cf56"
+  "remembered_contents": "6d1fd2ee5045a574ad028075ded9f2c2cd2debb998d98a8a72fdad3a4704779271be621af913445a73d60779443b571b"
  },
  "Ravelling Wrath, chapter 3: Discussion": {
   "date_modified": "2018-04-04",
@@ -1345,11 +1345,11 @@
   "remembered_contents": "fa06ce7221e8b161f6beac4364128039eb3e9206a69e314d1322353947ad6bdb4c5a8ebda8302ca20a0f8fa1697552b5"
  },
  "Ravelling Wrath, chapter 5": {
-  "date_modified": "2019-12-18",
+  "date_modified": "2020-06-17",
   "date_posted": "2018-09-19",
   "deployed": true,
   "id": "cd4c223725ba176d45324c0c5019b4",
-  "remembered_contents": "38a5e2b9d5205f330df313c2e31cf15056e1f39973bd61b05e64461ad3381f2e35df92d23f757912b7a997696796f024"
+  "remembered_contents": "1048bae315c7ae0ddaef134df0041a9dd4287fdd9bc13547b0c8286d68167ed02584f9d4492025d0c5e3adfdbda47592"
  },
  "Ravelling Wrath, chapter 5: Discussion": {
   "date_modified": "2018-09-19",
@@ -1359,11 +1359,11 @@
   "remembered_contents": "88ebff20dfe8680d167139f8426781721268c37fbfb1164b520c2affabbb07d2841a0f467c68a14c3b6c1c2202cd4386"
  },
  "Ravelling Wrath, chapter 6": {
-  "date_modified": "2019-12-18",
+  "date_modified": "2020-06-17",
   "date_posted": "2018-11-04",
   "deployed": true,
   "id": "b4be1d7f05bc7c10d47d81769981bb0",
-  "remembered_contents": "27b32b4193a9ac708c036aa2f103887ed51ece814eb224ae0cc2b79bc8d419c563bfa0e2741b07fb8f31aac62837363f"
+  "remembered_contents": "e18390964ab4bfc4fb1e60ad322f3910c09df3f14b76849e2f4f3e2de2879384baa8ac582b632760575d5b607c2c210c"
  },
  "Ravelling Wrath, chapter 6: Discussion": {
   "date_modified": "2018-11-04",
@@ -1373,14 +1373,18 @@
   "remembered_contents": "a1ad9dcfbb042cfc31ab2c3da7deb50dcbbc266b7fdab184f6662140e5e3a3784a654a0d6ca2537986e17ed6b12ecc75"
  },
  "Ravelling Wrath, chapter 7": {
-  "date_modified": "2018-08-20",
-  "date_posted": "2018-08-20",
-  "id": "837e49ed2019d86cc6643389f2906fd"
+  "date_modified": "2020-06-17",
+  "date_posted": "2020-06-17",
+  "deployed": true,
+  "id": "837e49ed2019d86cc6643389f2906fd",
+  "remembered_contents": "52aec935807712bc7333d725139aff10f5078c40c74dd260995d0cd7e3edd093a8dbfcd1a4deb70963c3fb649a0ca215"
  },
  "Ravelling Wrath, chapter 7: Discussion": {
-  "date_modified": "2018-08-20",
-  "date_posted": "2018-08-20",
-  "id": "39b435d2c1bdcaf17282d9ad5ae2bae"
+  "date_modified": "2020-06-17",
+  "date_posted": "2020-06-17",
+  "deployed": true,
+  "id": "39b435d2c1bdcaf17282d9ad5ae2bae",
+  "remembered_contents": "0d0dd4f322af389d381062b81e0dff82d8c5f1f8d648c5b6e59343f5ec1e028ee7c8ab637a29d6a60d2fe7e45b9dbd48"
  },
  "Ravelling Wrath, chapter 8": {
   "date_modified": "2018-09-14",
@@ -2710,11 +2714,11 @@
   "remembered_contents": "c87542d86b9432cb01822080c0e4bf55fa718e785996adfa21eec472c58528b7b657016cc4510f471b7c583686e39893"
  },
  "You Don't Know Jack about Performance: the Game Show": {
-  "date_modified": "2019-12-18",
+  "date_modified": "2020-06-17",
   "date_posted": "2019-12-18",
   "deployed": true,
   "id": "946a46c9d2be452e9889d775a8b5182",
-  "remembered_contents": "2059153243c4b4b239cb9f7fab8f16b6c3dbd0b3b85029b3fec30a0f879649c8ca18a259d23d0f83ab272deec8b1f4b5"
+  "remembered_contents": "3a3d0cf671f4ceef3abfb884f4663b469058f32320ce342acfea990d94c64cae81278cf02c14e7585229c4e08e3f4392"
  },
  "[NSFW] The web version of Hexy Bondage is finished!": {
   "date_modified": "2017-06-28",
