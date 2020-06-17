@@ -315,9 +315,11 @@ Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I 
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
-Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had caused it to happen. I had been a star student, working hard and earning top marks, but I took it for granted. I always wanted more. To fill that void, I reached out in every direction except the one that would truly restore me. I experimented with every kind of drug I could get my hands on, I had sex with many different men –"
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch10.jpg?rr" alt="">
 
-Well <em>that</em> I knew how to respond to. "Haha, that's where you went wrong. Shoulda had sex with girls instead."
+Justicar went on. "But even as my life fell apart, I refused to understand that it was myself who had caused it to happen. I had been a star student, working hard and earning top marks, but I took it for granted. Even knowing how much my parents had suffered to make sure I would have a better life than they did, I always wanted more. To fill that void, I reached out in every direction except the one that would truly restore me. I experimented with every kind of drug I could get my hands on, I had sex with many different men –"
+
+Well <em>that</em> was something I knew how to respond to. "Haha, that's where you went wrong. Shoulda had sex with girls instead."
 
 Justicar looked a little frustrated.
 
@@ -477,11 +479,11 @@ I was trying to provoke her into arguing some more, but it didn't get through at
 
 Now that I was sober again, it <em>should</em> have been easy for me to help with the puzzles again. But of course, the Seeking God went and threw something in the way of that.
 
-In the next puzzle, all of the walls and levers and flamethrowers and stuff were just scattered all over the space, mounted on rails so you could push them wherever you wanted, not forming a puzzle at all. You could get straight to the exit elevator, but it wouldn't open. The only puzzle-like part was a little opaque wall hiding an alcove, which only Justicar could get inside. And when Justicar looked in the alcove, she found some sort of diagram, which was really complicated, but apparently hid the key to figuring out what to do. There was probably some secret way to arrange all the pieces to make the exit open, which you could only figure out from the diagram. So… only Justicar could solve the puzzle?
+In the next puzzle, all of the walls and levers and flamethrowers and stuff were just scattered all over the space, not forming a puzzle at all. They were all mounted on rails so you could push them wherever you wanted, and you could go straight to the exit elevator – but the exit just wouldn't open. The only puzzle-like part was a little opaque wall hiding an alcove, which only Justicar could get inside. And when Justicar looked in the alcove, she found some sort of diagram, which was really complicated, but apparently hid the key to figuring out what to do. There was probably some secret way to arrange all the pieces to make the exit open, which you could only figure out from the diagram. So… only Justicar could solve the puzzle?
 
 "This is no fair!" I said. "I thought the Seeking God wanted us both to be solving puzzles! It should have given the secret key to <em>me</em>, because you're the one who's better at the logic part! Then we'd be even!"
 
-"It <em>does</em> seem unfair…" said Justicar thoughtfully. "The Seeking God must have some purpose, but I do not see it. Now, you <em>can</em> still participate if…" She tried to manifest a copy of the diagram, but the puzzle didn't allow it. After that failed, she tried to work with me by explaining some of the information on the diagram. I tried to follow along, but it was hopeless. Justicar was describing a whole bunch of shapes and lines and colors and directions, and every time I thought I knew what it looked like, she said I have gotten is all wrong.
+"It <em>does</em> seem unfair…" said Justicar thoughtfully. "The Seeking God must have some purpose, but I do not see it. Now, you <em>can</em> still participate if…" She tried to manifest a copy of the diagram, but the puzzle didn't allow it. After that failed, she tried to work with me by explaining some of the information on the diagram. I tried to follow along, but it was hopeless. Justicar was describing a whole bunch of shapes and lines and colors and directions, and every time I thought I knew what it looked like, she said I had gotten is all wrong.
 
 "Look, how about you just figure out whether things should go, and tell me where to put them?" I said.
 
@@ -493,9 +495,9 @@ I kind of wanted to build something with the pieces, but you couldn't really sta
 
 Justicar was still thinking. Idly, I put a bunch of trapdoors in a row to see how many I could jump over. It turned out that I could jump over <em>exactly</em> four squares of trapdoors. When I tried five, I fell into the fifth one, and not only that, but I fell straight down and didn't have a chance to grab for the ledge. My movement was definitely being controlled by the puzzle, like Justicar had said.
 
-And then I was back at the start of the puzzle. Now that I thought of it, none of <em>these</em> puzzles had used the trick where you fell in a hole on purpose. I started wondering how you'd set things up to make that be the solution. Before long, I was sliding the walls and trapdoors around, putting together a simple puzzle based on that concept.
+After I fell in, I was back at the start of the puzzle. Now that I thought of it, none of <em>these</em> puzzles had used the trick where you fell in a hole on purpose. I started wondering how you'd set things up to make that be the solution. Before long, I was sliding the walls and trapdoors around, putting together a simple puzzle based on that concept.
 
-And hour later, I kicked the last wall into place and double checked to make sure my puzzle was just how I wanted.
+An hour later, I kicked the last wall into place and double checked to make sure my puzzle was just how I wanted.
 
 "Hey Justicar! Justicar!"
 
@@ -515,7 +517,7 @@ Justicar frowned. "The Justicar clearly needs to pull that lever in order to let
 
 "I didn't make a mistake!" I laughed. "You're missing something."
 
-Justicar kept studying it for a few more minutes. But then she got it. She had us both go through the motions of solving my puzzle to make sure it worked. When we met up at the end of the puzzle, she said, "That was actually clever. Perhaps you have a career in designing puzzles ahead of —"
+Justicar kept studying it for a few more minutes. But then she got it. She had us both go through the motions of solving my puzzle to make sure it worked. When we met up at the end of the puzzle, she said, "That was actually clever. Although you are a Blood Child, you have a strong Seeking streak as well. Perhaps you have a career in designing puzzles ahead of —"
 
 The real exit elevator slid open.
 
@@ -555,7 +557,7 @@ As the elevator started moving, Justicar turned to me. "So the purpose of that r
 
 "Don't compare me to the Stern Temple!" Justicar shouted.
 
-Justicar's words seemed to echo around the elevator we were standing in. She pulled back, realizing she had raised her voice more than she had managed to. It took me a moment to realize what it implied.
+Justicar's words seemed to echo around the elevator we were standing in. She pulled back, realizing she had raised her voice more than she had meant to. It took me a moment to realize what it implied.
 
 "Wait a minute," I said, "what's <em>your</em> problem with the Stern Temple?"
 
@@ -563,7 +565,7 @@ Justicar's words seemed to echo around the elevator we were standing in. She pul
 
 "Oh gods," I muttered. "Bet you're gonna go on about how great it is that everyone bossed you around. Again."
 
-"I cannot force you to believe me. But it truly was the strictures of the school that saved me. Before I went there, I had no ability to control my self-destructive cravings. And now, I do have that ability. I can stop myself from using risk-taking behaviors just to feel valued."
+"I cannot force you to believe me. But it truly was the strictures of the school that saved me. Before I went there, I had no ability to control my self-destructive cravings. And now, I do have that ability. I can stop myself from using risk-taking behaviors as a means to feel valued."
 
 "So," I said, summing things up, "what I'm hearing is, first, your life sucked. And then you 'found the Stern'. And now, your life still sucks. When was the last time you enjoyed yourself?"
 
@@ -571,9 +573,9 @@ Justicar's words seemed to echo around the elevator we were standing in. She pul
 
 "Hey, I stick to my principles too! It's just that <em>my</em> principles are 'have fun' and 'do whatever I want'!"
 
-Justicar smiled patiently. "– But I won't allow myself to be sidetracked again. I have a life story to tell, do I not?
+Justicar smiled patiently. "– But I won't allow myself to be sidetracked again. You asked a question, and I intend to give you an answer.
 
-"As I said, not all who claim to follow the Stern truly uphold its principles. And the Stern Temple are no exception. Even the highest ranks of the Stern Temple are full of – have more than their share of hypocrites.
+"As I have said, not all who claim to follow the Stern truly uphold its principles. And the Stern Temple are no exception. Even the highest ranks of the Stern Temple are full of – have more than their share of hypocrites.
 
 "After I graduated from the Borson School, I was given a second chance at life – a privilege that not everyone receives. I wanted to make the most of what I had been given. For the next four years, I held down a steady job, and moved into my own apartment. It was a life I could not complain about. But knowing how I had been saved by the Stern, I wanted to give back to society. I began training to enter the Stern police force."
 
@@ -581,7 +583,7 @@ Justicar smiled patiently. "– But I won't allow myself to be sidetracked again
 
 "I said that I <em>am</em> not a police officer," she said with a tight smile. "I was dismissed from the force. The official records would tell you that it was for obstructing the duties of my fellow officers. But as I prefer to see it, I was dismissed from the police force <em>for enforcing the law</em>."
 
-"Okay, there's gotta be quite a story behind <em>that</em> one."
+"Okay, there's gotta be a good story behind <em>that</em> one."
 
 "There is.
 

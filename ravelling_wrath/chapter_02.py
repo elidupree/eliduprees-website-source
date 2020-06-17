@@ -129,11 +129,11 @@ That was true. It was still early September, about a month after Yali first aske
 
 But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
 
-I continued, "They're only really mad if I'm hanging out with someone they think is one of Fasia's goons."
+I continued, "They're only really mad if they think I'm hanging out with, like, secret Blood worshippers or something."
 
-"Fasia as in Fasia Namaar, the gang leader?" Yali looked at me curiously. "Are you <em>actually</em> friends with any gangsters?"
+Yali looked at me curiously. "Do you <em>actually</em> know any secret Blood worshippers?"
 
-"I mean, I know some kids who go around bragging about how they're gangsters, but Waiting knows if they really are. I'm not sure Fasia even exists, maybe he's just a story to scare little kids. 'course, Mom and Dad think anyone named Monoë is a gangster. They know an awful lot about the Stern God's rules, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
+"Of course not, but you know how people are. Like you know that time when someone spray-painted the Burning Heart on the side of the school? The cops were all over the place like there must've been some evil Blood cult like in the movies. Like, come on, it was just some dude with a spray can, it's not like there are actual Blood cultists running around sacrificing people. But Mom and Dad actually buy into that stuff, they think anyone named Monoë could be a cultist or some shit. They know an awful lot about the Stern God's rules, but not much about real people." I made a face. "Shit, what am I going to tell them about all this?"
 
 "About us being in the Ravelling? Hmm… How far do you think it's safe to trust them?"
 

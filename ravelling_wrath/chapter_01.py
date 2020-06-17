@@ -43,6 +43,8 @@ posts = [
   "head":head,
   "chapter_title": "Blood Child",
   "contents": '''
+  
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/ch1-header.jpg?rr" alt="">
 
 "Ow! Fuck."
 
@@ -50,7 +52,7 @@ I scrambled the rest of the way over the fence, dropped down, and hopped on my b
 
 Worse yet, they'd already kept me late after school in detention. They gave me the usual "Rinn-Akatura-you-have-to-understand-what-is-appropriate-behavior-for-a-young-lady" spiel. Well, I didn't start the fight, and I wasn't just going to stand there and do nothing. "Appropriate behavior for a young lady" can kiss my ass.
 
-I didn't say that to <em>them</em>, though. The Stern God's people can be awfully uptight about that. Why do the Stern run the schools, anyway? Isn't the Seeking God the one that's all about learning? But I just kept quiet and pretended to care about their lecture, so they wouldn't keep me even later. On a normal day, it would've been fun to take the piss out of them. But <em>Yali</em>.
+I didn't say that to <em>them</em>, though. The Stern God's people can be awfully uptight about that. Why do the Stern run the schools, anyway? Isn't the Seeking God the one that's all about learning? But I just kept quiet and pretended to care about their lecture, so they wouldn't keep me even later. On a normal day, it would've been fun to mess with them. But <em>Yali</em>.
 
 As I jogged towards her house, I pulled out my phone to check exactly what she'd said.
 
@@ -58,20 +60,20 @@ As I jogged towards her house, I pulled out my phone to check exactly what she'd
 <p class="text left">Texting you so I don't put it off any longer</p>
 <div class="clear"></div>
 
-We'd been dating for about a month, and Yali was one of the calmest, most patient people I'd ever met. If Yali said something was important, it was <strong>important</strong>. You know the saying &ndash; "When the Waiting God moves, beware." I scrolled through the rest of the messages:
+We'd been dating for about a month, and Yali was one of the calmest, most patient people I'd ever met. If Yali said something was important, it was <strong>important</strong>. You know the saying – "When the Waiting God moves, beware." I scrolled through the rest of the messages:
 
 <p class="text right">omg is there someone I'll need to beat up</p>
-<p class="text left">no its much bigger than that. Think like... the gods</p>
+<p class="text left">No its much bigger than that. Think like... the gods</p>
 <p class="text right">the gods?!</p>
 <p class="text left">I'm not explaining this right</p>
 <p class="text left">Just meet at my place after school, OK?</p>
-<p class="text right">kk &lt;3</p>
-<p class="text right">omg they gave me detention >_&lt; I'll skip it tho</p>
-<p class="text left">lol don't do that</p>
-<p class="text right">but I wanted an excuse to skip :( jk see you right after &lt;3</p>
+<p class="text right">kk ❤</p>
+<p class="text right">omg they gave me detention 😡 I'll skip it tho</p>
+<p class="text left">Lol don't do that</p>
+<p class="text right">but I wanted an excuse to skip 😂 jk see you right after ❤</p>
 <div class="clear"></div>
 
-The gods?! I wondered again. What could the gods have to do with us? Sure, "Our five gods are the foundation of all life in the city", but <em>really</em>. We were just a couple of kids. Weren't we?
+The gods?! I wondered again. How could Yali have something about the <em>gods</em>? Sure, "Our five gods are the foundation of all life in the city", but <em>really</em>. What did the gods ever do for kids like us?
 
 I dashed across a street and tried to parkour my way up the high embankment on the other side. I made it, barely. It was just a couple more blocks uphill to the side-gate I was going to use.
 
@@ -143,7 +145,7 @@ I jumped. Yali's expression was still neutral, oddly enough, but she had said it
 
 "That could work..." Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. I watched her uncertainly. She didn't look upset, but this wasn't something I'd seen before. Yali squinting. Yali chewing her lip. From anyone else, that wouldn't have caught my attention. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
 
-<img src="/media/yali-sketch.png?rr" alt="A picture of a person hunched over and sitting on a couch, labeled 'Yali Seti'.">
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch1-mid.jpg?rr" alt="">
 
 Finally, she spoke up. "How much do you know about what happens during," she swallowed, "the Ravelling?"
 

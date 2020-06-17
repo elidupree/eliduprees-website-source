@@ -55,7 +55,7 @@ I gripped her shoulders. "Then it's NOT going to happen! Didn't you always say t
 
 "Come on, <em>Justicar</em> tried to kill me. You <em>saved</em> me. How are you even – wait, just because you didn't foresee it by magic –"
 
-"It's not <em>just</em> that I didn't <em>foresee</em> it," Yali sobbed. "I was the one who told Justicar what happened. I didn't think –"
+"It's not <em>just</em> that I didn't <em>foresee</em> it," Yali sobbed. "I was the one who told Justicar how you stabbed me. I didn't think –"
 
 "Look, it's not your fault, there's no way you could have known she was going to AFTER EVERYTHING WE'VE BEEN THROUGH, YOU SOLD ME OUT TO THE STERN <strong>AGAIN?!?!!</strong>"
 
@@ -95,7 +95,7 @@ The answer blazed in my mind with perfect clarity. I struggled to express it, to
 
 The Farseer stood motionless. It silently considered my words, its thoughts unreadable. Even after everything, I was aching to hear how it would answer, hoping against hope for just one word of acknowledgment from behind that stony mask, one drop of pity or remorse. But the mask was as cold as ever.
 
-Cautiously, the Farseer spoke again. "So the Waiting God is trying to erase you? And you kill the Farseer to stop it from happening?"
+Guardedly, the Farseer spoke again. "So the Waiting God is trying to erase you? And you kill the Farseer to stop it from happening?"
 
 All at once, a wave of hopelessness washed through me, completely turning around my pride and rage. "To <em>stop</em> you?" I said hollowly. The feelings dropped me to the ground, sprawling with my face in the dirt, and ushered in another torrent of rain, a torrent that flattened my clothes against my back and pounded through them onto my skin. The blood from my wounds pooled and seeped into the soil. "To <em>stop</em> you?" I moaned into the dirt. "I will kill you and kill you and kill you, and when I am gone, you will still be strong. My hands are empty, and I am beating against the mountain. You call <em>me</em> the danger?"
 
@@ -125,7 +125,7 @@ Now that I looked at it in detail, it was like an optical illusion, something th
 
 Memories came flooding back to me. How it had worked together with that broken fragment, the one we called Neenu. How it had fought against the Justicar, even bizarrely using deception, to prevent my death. A death the Waiting God itself had planned! And how it had claimed that the Waiting God had <em>hidden</em> things from it! How had I not realized before? <em>It</em>, the one I called Yali, was just as much of a broken fragment itself! Like a damaged clock with gears running at two different speeds, like a puppet wrestling for a grip on its own strings, like a parasite using its host's own strength to devour it, it was a flaw in the Waiting God's plan, and it was ripping and tearing to widen the flaw at every chance it had.
 
-I tried to shift my focus, to look at the different parts of it. It was hard, because they were woven together so tightly. Every time I tried to see where one ended and the other began, it seemed to shimmer and shift. But slowly, I got a general sense of the shapes. The place where the transcendent web of the god twisted and meshed with… the other part. The human. Yali, I guess.
+I tried to shift my focus, to look at the different parts of it. It was hard, because they were woven together so tightly. Every time I tried to see where one ended and the other began, it seemed to shimmer and shift. But slowly, I began to make sense of the shapes. The place where the transcendent web of the god twisted and meshed with… the other part. The human. Yali, I guess.
 
 So Yali was the one I was talking to… Now that I thought about it, what should I even say to her? "Waiting… <em>laskueh</em>," I began contemptuously. But even that didn't seem quite right anymore. "You poor, pathetic thing. Did it really not tell you? Did it not tell any of the others?! That <em>monster</em>! So is that what it wants? It wants to commit the perfect crime! It would kill me and make even its own assassins believe their hands were clean!"
 
@@ -139,7 +139,9 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I – I – I –"
 
-"I know what you're thinking. How are we going to kill the Farseer without hurting Yali? But that doesn't seem so hard, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook both of my fists in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
+"I know what you're thinking. You're thinking, we can't kill the Farseer without hurting Yali. But there's gotta be a way around that, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook my fist in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
+
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt="">
 
 My fire billowed around me. I rose effortlessly to my feet. Within my aura of flame, everything felt amazing. The rain boiled off of me, leaving me warm and dry. My remaining wounds faded away, my flesh made whole and warm again, my skin smoothed together into a single, beautifully sensitive organ.
 
@@ -153,7 +155,7 @@ In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky wh
 
 A thrill rose through me as I heard those words. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it for a thousand years. Countless generations of humanity had lived and loved and died, and at every step, they had called out to me, speaking these words, to take pride in their strengths, to celebrate their triumphs, to rally themselves against death and despair. Warriors had spoken them on the verge of battle. Parents had spoken them at the birth of their children. Lovers had spoken them together as they defied persecution. This was no Stern prayer. When you prayed to the Stern, you looked to the spires of distant temples, debasing yourself for the mercy of a power that stood above you. But when you prayed to the Blood God, you looked to your own heart.
 
-Yali answered me. "Yes. The Blood God's prayer. You… I wish you could see yourself. It's beautiful."
+Yali answered me. "Yes. A prayer of the Blood God, a prayer I found in an old book in the monastery archives, one the monks didn't realize we still had. You… I wish you could see yourself. It's beautiful."
 
 I smiled easily. "I wish you could <em>be</em> me."
 
@@ -173,7 +175,19 @@ Getting the details was a lot harder than I had hoped. The Blood God – or at l
 
 "Ugh."
 
-Eventually, with effort, we managed to get some information out of it. According to the Blood God, the Stern were being used as a tool, both in the Otherworld and in the city. In the Otherworld, once the Blood Children and Farseers had started killing each other, the Waiting had tricked the Justicars into thinking the Blood Child was always the aggressor. In most years, the Justicar ultimately killed the Blood Child, so the Blood Child was desperate to kill the Farseer before the Justicar was powerful enough to stop them. And in the city, the Stern Temple had violated the borders between the temples, undermined the structure of the Blood Temple until it was weak, and then destroyed it – all controlled by the Waiting, although I couldn't figure out exactly what kind of control that was.
+While I tried to interpret for the god, Yali also tried to look things up. First she checked the encyclopedia on her phone, and then she even manifested some history textbooks, saying, "These should at least tell us some history about the Blood Temple." But even after she flipped through them for a while, it seemed like she hadn't found what she was looking for. I looked over her shoulder and read along:
+
+<p style="font-style: italic"><q>– there was an atmosphere of fear in the city, as the Blood Temple became increasingly violent. The new generation of Blood Temple leaders had little respect for the ancient treaties between the temples –</q></p>
+
+"Bullshit!" I said. "<em>They</em> broke the treaties, not us!"
+
+"'They' as in the Waiting Temple?"
+
+I could tell it was an honest question, but it felt like a trap for some reason. "It's the Waiting's fault, I know that much!"
+
+"What would be useful to know," said Yali, "is exactly what treaties were broken, and how. But these books aren't helping, they're hardly giving me any details. Can you?"
+
+Eventually, with effort, we managed to get some information out of the god. According to the Blood God, the Stern were being used as a tool, both in the Otherworld and in the city. In the Otherworld, once the Blood Children and Farseers had started killing each other, the Waiting had tricked the Justicars into thinking the Blood Child was always the aggressor. In most years, the Justicar ultimately killed the Blood Child, so the Blood Child was desperate to kill the Farseer before the Justicar was powerful enough to stop them. And in the city, the Stern Temple had violated the borders between the temples, undermined the structure of the Blood Temple until it was weak, and then destroyed it – all controlled by the Waiting, although I still couldn't figure out exactly what kind of control that was.
 
 And there was a number. Four. The number of years when the Blood God had hesitated before it began to fight back.
 
@@ -197,17 +211,105 @@ Yali grinned viciously. "This is great! This means that one of me died in the <e
 
 Yali put her head down and concentrated, hunting in the memories. Pretty soon, she began to frown, and as time passed, her frown got deeper and deeper. Finally, her voice broke the silence.
 
-"It's not there," she said.
+"I can't find them," she said.
+
+<bigbreak>
+
+So the question was – did Yali <em>not</em> have the memories of the Farseer who poisoned the Blood Child? Or did she just not remember <em>doing</em> it? Or was it the Blood God's memories that were wrong? Yali didn't think it was the last one. She was sure that Waiting God was hiding something from her.
+
+"Ugh," I said, "I wish I could remember their names. Or what they looked like. But all I can remember is their souls."
+
+"Would you recognize them if you saw them?"
+
+"I don't know, maybe?"
+
+So Yali started showing me pictures of all the old Farseers. She had to manifest pictures based on their own memories of how they looked, which weren't always realistic, but they were close enough. With each picture she showed me, she also told me their name, and a few things about them. She even told me a bit of what it felt like to be them from the inside, in case I'd remember their souls better that way.
+
+Pretty soon, I had a couple dozen pictures piled up in front of me. But they didn't mean much to me. The names and faces all felt familiar, and some of them gave me bits of regret or anger, but none of them really seemed that important.
+
+"They really don't feel important?" said Yali. "Every one of them remembers being killed by an angry Blood Child. You – the Blood God – thought it was important enough to kill them –"
+
+"I mean, I <em>technically</em> killed them," I said. "But they were your <em>laskeuh</em>, that's not the same as killing the humans on purpose –"
+
+"My what?"
+
+"Er… your <em>laskueh</em>. It's, like, this word the Blood God uses, I mean, it's not really pronounced that way, it's not exactly a <em>word</em>, I mean, like…"
+
+"I understand. The stuff I get from the Waiting God isn't exactly human words either."
+
+"Yeah, so, the Blood God has always called you the Waiting God's <em>laskueh</em>. And I first I thought it meant Raveller, but it doesn't. It means, like… a servant. Someone who works for someone else." Trying to explain it in words felt so flat. Saying <em>someone who works for someone else</em> didn't have the overwhelming sense of contempt that this word had. So I tried to explain. "And, like, to the Blood God, that's really bad. Like… If you obey someone else's orders instead of doing what you really want, that's like, stepping on your own blood."
+
+"Sounds like victim-blaming," said Yali.
+
+"No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers! And it makes them <em>more</em> bad, because it means they forced someone else into degrading themselves!"
+
+Yali was quiet for a while before she responded. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
+
+"Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up. "So, uh… want to show me more of the Farseers?"
+
+"Right." Yali manifested another photo and handed it to me. "Garthold Brannet. He was a lawyer who worked for some company, he's all serious about his job –"
+
+I looked at the photo. "<em>That</em> fucker!" I yelled.
+
+"Is it him? The one who –"
+
+"– who killed me? Haha no, this guy sucks. It's more about when he was a human… did he do something against the Blood Temple? It feels like it was about the Blood Temple, but he didn't do anything himself…"
+
+Yali concentrated. "I don't remember him doing anything against the Blood Temple either. Most of his work was in the Stern courts, which didn't even have jurisdiction over the fifth layer back then. Unless that work is what the Blood God is mad about?"
+
+"Nah, I mean, Stern law is fucked up, but it's not that. It's…" But I couldn't remember. The feeling was gone. "He just sucks," I concluded.
+
+So Yali kept listing off more Farseers. There was a librarian who had respected all the gods and worked to restore ancient scrolls. There was a grandfather who had spent his later years caring for his many grandchildren. There was a farmer who tried to keep the old lore of horticulture alive despite the shortcuts of modern technology…
+
+"Oh, and of course there's Hiram!" she said. "I almost didn't think of him because I'm using his memories all the time, to know what to say."
+
+"Hiram Soleocchi…" I muttered as Yali gave me the rundown on him. Something seemed so familiar, but I just couldn't place it. <em>A man who talks the way Yali talks… a schoolteacher… a man who likes children, who knows how to be soothing…</em>
+
+And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the right to use him – to <em>ravel</em> him! He was one of mine, he was part of my lifeblood! And you made him a <em>Farseer</em>?! You – oh gods, oh gods, and I must have killed him." I looked down at my hands. What had I done? Painful tears sprang to my eyes. "Just when I thought you couldn't get any more fucked up," I sobbed. "You made me kill part of my own temple."
+
+"Part of your temple?" said Yali intently. "He worked for the Blood Temple?"
+
+"<em>Yes!!</em>" I yelled through my tears. "Twenty-five years if it was a day! I was with him when he stoked the fires! And you took him away from me!! How can you –"
+
+"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory. If it was for twenty-five years, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth layer… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
+
+"It erased the memories," I breathed.
+
+"I don't think these memories were <em>erased</em>." Her voice rang out loud and sudden, trembling with anger and realization. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting to make the smallest change with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
+
+"You monster…"
+
+"What else are we forgetting?! If this much was hidden in plain sight and I didn't see it, there could be more! There could be – there could be – The books!!" she yelled. "I thought they were just oversimplifying things, but they left out the details on <em>purpose</em>! Think about it! The Waiting Temple are the historians, they're the ones who made these textbooks, this is what all the schools are teaching! The whole way we learn about Blood worshippers growing up is just history teachers saying how they were some bad people from the past who attacked the city –"
+
+"We didn't ATTACK the city, we WERE the city –"
+
+"– and how would we know to question it? The Waiting control everything we know about it!"
+
+"I mean, I wouldn't say the schools control what I think," I said, as Rinn. "Like, before this, if you'd asked me about Blood worship, I wouldn't have thought of some boring history stuff, I would've thought of –"
+
+<em>– a scene from a movie, red-robed cultists with long knives carrying off an innocent girl –</em>
+
+"No!" I yelled. Both of me wanted to speak at once. "I thought they were just made-up villains for cheesy action movies! I never thought about it before, but the Blood Temple was a real religion! Why would you make Blood worshippers the villains unless – it was deliberate!" I manifested a movie poster and threw it on the ground, staring at the cultists around their altar. "How could people believe this?! We never performed human sacrifice! This is the opposite of everything we stood for! And you accused us of this?! The moment my temple was in ruins, you were already spitting on it with your lies!"
+
+"The Waiting Temple doesn't make the movies, though…" said Yali, mulling it over. "And I don't think the movie writers are attacking the Blood Temple on purpose, it's just a lazy plot that won't make the other temples suspect them of Blood worship. So this part might not be an intentional lie –"
+
+"Yeah, it's not a lie, it's TWO lies! Bad enough to just tell a lie yourself, but you told it through somebody else and made it look like you didn't do anything!"
+
+"Just like the memories…" said Yali uncertainly.
+
+"I can't believe it," I said, my voice breaking. "You were right. Everything we've ever heard about me and my temple… it's all a lie, crafted over the last seventy-four years to make us forget everything we were. We've been reduced to a caricature, one-dimensional villains to knock down. How much of us is even left? You won't even stop when I am gone… you will keep erasing until we forget I was even here…"
+
+"Well, one thing's for sure," said Yali grimly. "If it's so important to the Waiting to make us forget, then it's up to us to remember as much as we can."
 
 <bigbreak>
 
 My brain was <em>exhausted</em>
 
-We were sitting in the middle of a huge mess of papers, copies of Yali's phone, and history books. Yali had laid down a hardwood floor over the whole clearing we were in, and everything else was strewn on top of it. It was a good thing it wasn't raining anymore, but the trees were dripping all over the place, so we had to keep all the papers in the clear area.
+We were sitting in the middle of a huge mess of papers, copies of Yali's phone, and history books. Yali had laid down a hardwood floor over the whole clearing we were in, and everything else was strewn on top of it. It was a good thing it wasn't raining anymore. The trees had still been dripping at first, but after a few hours, they had stopped. Our materials were free to sprawl farther and farther towards the borders of the clearing.
 
-And most importantly, it was arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
+And most importantly, they were arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
 
-"It's a good thing your monastery had so many old books," I said. Although even the history books hadn't given too many details about the fall of the Blood Temple. The juiciest bit we'd gotten was from a crumbling newspaper from the monastery archives. One article was about a court case about some Blood Temple councilmembers who had been arrested by the Stern police. But it didn't give much of the context. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
+"It's a good thing your monastery had so many old books," I said. The history books had given us a lot of useful context, even if they were suspiciously terse about the Blood Temple. Most of them had been written <em>after</em> the Blood Temple fell, and they talked about the Blood Temple in the same way as the one we'd read earlier, sometimes even using almost exactly the same words. And the ones from <em>before</em> the fall didn't mention the Blood Temple at all – or more likely, the ones that <em>had</em> mentioned it had been purged from the monastery archives before Yali was born. The juiciest bit we'd gotten was from a crumbling newspaper. One article mentioned a court case about a Blood priest who'd been arrested by the Stern police. But it didn't really explain what the case was about. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
 
 Yali responded, "Honestly, I'm surprised at how many books <em>you've</em> been able to manifest. What with not caring about history and all."
 
@@ -223,71 +325,17 @@ The history books all agreed on the first year the Farseer had been killed. And 
 
 "Who in the Endless would think of checking something like that?? There's no way you could have known about any of thi–"
 
-"No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge! It would never have kept this going for so long! The god of holding a grudge – <em>is the Waiting God</em>."
+"No, I <em>should</em> have known! Whatever people think of the Blood God, it was never the god of holding a grudge, the god who would keep a feud going for seventy years! The god of holding a grudge – <em>is the Waiting God</em>."
 
 "Wait, really?"
 
-"Really. The Waiting God is the one that cares about the distant past and future. But the Blood God… I've learned a bit about the laws of the old Blood Temple, and they actually explicitly allowed revenge, but only if you did it soon enough. For common assault, you were allowed to get revenge if it was within a few days, but not after that. If someone seriously injured you, it was a lot longer, but there was still a limit. Even for murder. If someone murdered a member of your family, you had eighteen months to get revenge. Not a day longer. And everything else was less."
+Yali gave me an odd look. "You, you, you didn't grow up in Waiting culture like I did. When something matters to us, we never forget it. There's even, there's even a joke about an old Waiting priest who doesn't forgive someone for stealing a doll when they were children. We never let go. And the Waiting God… Look at all this." Her eyes traced over our timeline. "A plan more than seventy years in the execution. Every detail carefully controlled. This is the Waiting God I know. I should have been suspicious as soon as I got my powers, because I didn't know why the Blood Children were attacking us. How could the Waiting God <em>not know</em> something so important? Of course it knew, it always knew. I should have –"
 
-"Eighteen months… That's, less than two years…" ???? "Holy shit! Do you think that means –?"
+"Okay, but we know <em>now</em>. Maybe you could have caught it sooner, but we've caught it now, and that's what counts –"
 
-"…that every year, the Blood God is only getting revenge for being murdered in the previous year? Maybe. The Blood law for humans isn't necessarily the same system that it uses for itself. Gods are different than humans. But we can hope."
+"But how much do we really know? We've been working for more than ten hours, and even with both of us working together, we barely know any more about the Blood Temple than we did before. Maybe if I'd seen it sooner… maybe if…" She lapsed into silence.
 
-"And so if I survive this <em>one</em> time, it'll be over!"
-
-"If the Waiting God lets go," said Yali darkly. That wasn't reassuring. <em>When the Waiting God lets go</em> was an expression that meant something that would never happen.
-
-"It'll <em>have</em> to! Once it knows it's <em>lost</em>!"
-
-Yali was silent for a time. "I don't know if it <em>can</em> lose."
-
-"I'm going to rejuvenate! It isn't! That's winning!"
-
-"Even if we succeed… even if that happens this year…"
-
-"It HAS to be enough! Now that we know – now that we know what's really going on, we've gotta be able to do something about it! We have to strike back!"
-
-"That's what we would <em>want</em> to happen…" Yali sounded completely drained. "But it's the <em>Waiting God</em>. We have no idea how to hurt it. Even if we did, it's bound to be something incredibly difficult. And we, we… you don't realize how many ways there still are for us to die. Justicar might kill us. You… well… And I've even seen Morrow destroy your mind in some of the futures, if I don't step in to protect you. Striking back at the Waiting God… we just can't afford to think about that right now."
-
-"But –"
-
-"I don't want us to die. We have to focus on staying alive."
-
-I tried to digest that. But I just couldn't. What Yali said was logical, but… every part of me yelled out to reject it. "This sucks!" I yelled. "I don't <em>want</em> my – I don't want Rinn to die, but what about <em>me</em>?"
-
-Yali narrowed her eyes. "'Me' meaning the Blood God?"
-
-"What? Look, <em>I, Rinn,</em> think we need to help the Blood God! You don't know how much pain it's in! Ugh, I can't believe I spent all that time telling it to shut up when it was afraid it was going to be killed!!"
-
-"I, I know you feel that way, but –"
-
-"It's all happening right in front of us! <em>Inside</em> us! How can you talk about just staying alive when it's being killed <em>right in front of us?</em>"
-
-"We didn't choose this. We're not obligated to fix the gods' problems just because they forced us to –"
-
-"You're seriously going to just let the Waiting get away with it?!"
-
-Yali opened her mouth, then closed it again. She glared into the distance, seeming to have a long fight with herself. I knew I had her. There were a lot of things she could ignore, but <em>letting the Waiting God win</em> wasn't one of them.
-
-"I'm probably making the wrong choice," she said. "Again. But… I do have an idea. A way to go against the Waiting God –"
-
-"What is it?" I said excitedly.
-
-"It's, it's… complicated. I don't think I can tell you everything yet. Do you trust me?"
-
-"Of course I do!! You're – you're freakin' <em>Yali</em>! If you told me I had to rip my own arm off, I'd <em>do</em> it!"
-
-Yali looked me directly in the eye. Her eyes drilled into me. Then she shook her head slightly. "I can't tell you everything yet," she said.
-
-"Okay, uh…" I wasn't sure what to say to that. "Well, good luck with, uh, whatever it is."
-
-"Thanks."
-
-????
-
-<bigbreak>
-
-Hours passed. We got through all the most important things to talk about [, ????]. And I was starting to come down from the rush of the Blood God. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready whenever I needed to reach for it. It just wasn't <em>me</em>, not right now.
+It was tearing me up to see Yali feel so defeated. But I was suddenly too tired to think of how to get through to her. The work had taken a lot out of me. And I was starting to come down from the rush of the Blood God, too. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready when I really needed to reach for it. It just wasn't <em>me</em>, not right now.
 
 I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just rocks. Just the wooden floor. Just my back resting against some hard bark. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
 
@@ -299,39 +347,83 @@ Yali followed my gaze. "Are you okay? I just want to make sure, since that's tec
 
 "Yeah, that's what I assumed, too. Especially since, since, I think that's more blood than would actually fit in your body."
 
-I laughed. "That river of blood, though… That's really how the Blood God feels about what's happening. I feel like I understand it a lot better now. Even the little things… like way back in the first layer, I was mad about you and Justicar working together, and I kind of assumed it was just me being mad about all her Stern stuff. And it was partly that. But it was also the Blood God thinking you were going to manipulate her against me."
+I laughed. "That river of blood, though… That's really how the Blood God feels about what's happening. I feel like I understand it a lot better now. Like, in the Stern God's world, I was so depressed and I didn't know why, but now I do. I think the Blood God realized, when we were in the second layer, it realized that I wasn't going to let it kill you, and so it felt so hopeless –"
+
+"It knew that you were doing it because you loved me. And the Blood God has power over passionate love, so it took away that part of you so that it could lower your resistance –"
+
+"No I didn't! I'm not a manipulator like <em>you</em>– Er, sorry about that," I said. "That was the god again. But it's right, it didn't do that on purpose. It just felt so hopeless that it gave up and kind of… withdrew into itself. And, remember, we're not two separate people, so when <em>it</em> gave up, I lost all <em>my</em> Blood feelings, too. I got so weak that the Stern God started leaking into my head. And the most fucked up thing is, the Stern is all like 'if you start something, you should finish it', so the Stern feelings made me go after you again, even after the Blood God gave up!"
+
+"Hmm…"
+
+"And that's not the only thing I understand better now! Like, even way back in the first layer, I was mad about you and Justicar working together, and I kind of assumed it was just me being mad about all her Stern stuff. And it was partly that. But it was also the Blood God thinking you were going to manipulate her against me."
 
 "Oh, is <em>that</em> why you were acting so jealous about it?" said Yali distractedly.
 
 "Jealous?? You take that back," I laughed. Yali chuckled.
 
-I wasn't sure what to say next. Everything was still running through my head, but for all the things I wanted to say, we had already talked about them for ages. I decided to get up and stretch. But as I braced myself to stand up, I accidentally put my hand down on the tail of my shirt, and the back of the shirt tore right in half. Both the shirt and the jacket still had all those holes that my blades had put in them when I got pissed off about Morrow hurting Alchemist – ugh, we were still going to have to deal with Morrow. "Aw, shit," I muttered.
+I lay back, manifesting a pillow under my head and gazing into the sky. It was so nice to be able to laugh along with Yali, with the Blood God on our side, not coming between us. But the instant I started to relax, I remembered everything that was coming. I sat bolt upright. "Shit, what are we going to do now?!"
 
-"You can manifest it back –"
+"You're right. We need to plan." Yali switched back into full focus mode. "You have your soulfire now, so that gives us a weapon that can hurt Justicar. But she's still dangerous, and the Waiting God will do anything it can to let her kill you –"
 
-"No, the shirt's fine…" I muttered. I shifted my weight and stood up for real. At this point, the bloodsoaked, torn-up shirt was pretty much just dangling off my body. "I was just thinking about Morrow. We still haven't figured out –"
+I looked back at her with dismay. It made sense, but – "I meant about the Blood God! I can't believe I spent all that time telling it to shut up when it was actually afraid it was going to be killed!! But now that we know it was the real victim, I don't even know how to help it!" When I had first joined with the god, it had felt like I suddenly understood everything, like the solution was going to be so obvious. But now, reality was hitting me. The only way it knew how to fight back was to kill the Farseer. And we couldn't kill the Farseer…
 
-"It'll be easier if we talk about that when Alchemist is here."
+"Rinn. Listen to me." She was deadly serious. "I know you feel like, feel like, feel like the god is part of you now. But you have to remember who you are. Are you forgetting how it tried to make you kill me?"
 
-"It will? Even though Alchemist is, you know, –" Yali was giving me a steady look. "Whatever, of course you're right, you know the future and shit…" I idly tugged at the shirt, and it tore bit more. After a few more tugs, it came off in my hand. Not knowing what to do with it, I just chucked it on the ground.
+"Of course I'm not forgetting that! That was fucked up! But it's being killed right in front of us! I'm not going to lecture someone for lashing out when they're <em>still in the middle of being killed</em>! We have to <em>do</em> something!"
 
-Yali hastily looked away.
+"Rinn. What we have to do is keep ourselves alive. Everything else comes second."
 
-"Oh, right," I said, looking down at myself. "I'll just, uh, go behind a tree and clean up, alright?"
+I felt tears coming to my eyes again. She didn't understand. "It's all happening right in front of us! <em>Inside</em> us! How can you talk about just staying alive when it's being killed <em>right in front of us?</em>"
 
-I stepped behind a big tree. I was kind of a mess, bits of dried blood caked onto my skin, dirt on my clothes and hair. So I just unmanifested my clothes again, then made a huge mass of cold water above me, letting it slam down on my head and shoulders and flush away all the mess. A few more torrents of water later, I felt clean and refreshed. Then I unmanifested all of the water, instantly drying me off. I finished by manifesting a new set of clothes, about the same as before, but all intact, cozy and warm.
+"We didn't choose this. We're not obligated to fix the gods' problems just because they forced us to be their –"
 
-I came back around the tree to find Yali concentrating.
+"You're seriously going to just let the Waiting get away with it?!"
 
-"Alchemist will be back soon," she said.
+Yali opened her mouth, then closed it again. She glared into the distance, seeming to have a long fight with herself. I knew I had her. There were a lot of things she could ignore, but <em>letting the Waiting God win</em> wasn't one of them.
 
-"Oh! That's great! Wait, shit, when they left we were still –"
+"Okay," she said, finally. "But the Waiting God isn't just getting away with it. The Waiting God's goal is to starve the Blood God, so if the Blood God gets to rejuvenate, the Waiting <em>doesn't</em> win."
 
-"I should use the Seeing to prepare," said Yali tiredly.
+"But it'll rejuvenate too! That's such an insult! Next year it's going to go right back to killing me, and –"
 
-"Wait, really? When the Seeing lied to you before?"
+"That's not all. Even if it rejuvenates, it will rejuvenate from <em>my</em> soul. And I'm going to do everything I can to sabotage it."
 
-"It did not… <em>lie</em>. The Waiting God is, is, is… it doesn't lie if it can help it. It's not like 'you must never lie' like the Stern or… I think the Blood God is all for honesty too… but it's still… the truth is the <em>foundation</em> of the Waiting. You know, like, 'You must tell the truth a thousand times before you will be capable of telling one lie.' So… I will be careful, but there are still ways I can make use of the Seeing. Just as long as I know I can't trust it completely."
+"Nooo…" I held her hand and looked into her eyes, trying to reach something there. "Yali, I know you're amazing, and powerful, but you don't understand. It's one thing to learn how to swim against the river, but it's another thing to block the whole river with your body. You'll be swept away. The Waiting God will digest you and come out stronger."
+
+"But – we always talked about you being able to influence the Blood God – are you saying that was hopeless too?"
+
+"That's different, I <em>want</em> to be influenced by my Ravellers! But your god is nothing like me. It used you once. It'll use you again."
+
+"I – I hope you're wrong –" I could hear the pain in her voice too, now. "But even if you're right, it's the only thing we can do. It's a god. How else can we fight against it?"
+
+"Aaaaaaaargh!" I leapt up and pounded my fists against a tree. "It's not enough! It's not enough!" I roared. "How can this be all there is?! We have to be able to do something! We have to! We have to –"
+
+Yali stood behind me and took me by the shoulders, gently pulling me away from pounding on the tree. Reluctantly, I turned and let myself sink into her arms. I looked up at her, hoping that I would somehow see her strength again, that she would be sure of what to do. But her eyes were troubled.
+
+"Tell me something honestly," she said. "If we can't think of another solution, do you think the Blood God will try to kill me again?"
+
+Tears poured down my face. As the Blood God, I couldn't bear to answer. I couldn't face the finality of giving up on my only revenge. But with Rinn pushing me along, I forced my mouth to form the words. "No," I said. "I won't. It would be going against my own blood." I was trying my best, but when I heard myself, it sounded weak and uncertain.
+
+"Thank you for saying that," said Yali. I could tell she didn't believe me either. "It'll have to –"
+
+Suddenly, there was a loud buzzing all around us.
+
+<bigbreak>
+
+We both whirled around, looking for the danger, but it turned out it was just coming from all the copies of Yali's phone.
+
+"That must have been –" Yali tried to catch her breath from being startled. "I set a timer earlier. Based on what I Saw, Alchemist will be back soon. We must have copied the phone after I set it –"
+
+As soon as she mentioned Alchemist, a whole another set of memories stampeded into my brain, fighting with the Blood God ones for space. "Oh shit, I almost forgot about the whole thing with Morrow!! We've been spending this whole time dealing with the god stuff, we still haven't figured out how to save Morrow! We've gotta –"
+
+"Wait," said Yali. "Your, your relationship with the Blood God is important. It didn't sound like this was a good time to interrupt our conversation."
+
+I felt my heart pulsing inside me with the power of the Blood God. As soon as I listened to it, the answer became clear. "It's okay," I said firmly. "The Blood God is with me on this. Alchemist and Morrow need our help, and they need it <em>now</em>. You and I… it's big, but we can save it for later."
+
+"I just want to make sure – okay, you're sure. You're right, it's not urgent…" Yali looked down, and her shoulders sank a little. It wasn't a big movement, but I could tell she was exhausted. "I should use the Seeing to prepare. To make sure things go well with Alchemist…"
+
+"Wait, the Seeing? What if it lies to you, like it lied before?"
+
+"It did not… <em>lie</em>. The Waiting God is, is, is… it doesn't lie if it can help it. It's not like 'you must never lie' like the Stern, but still… the truth is the <em>foundation</em> of the Waiting. You know, like, 'You must tell the truth a thousand times before you will be capable of telling one lie.' So… I will be careful, but there are still ways I can make use of the Seeing. Just as long as I know I can't trust it completely."
 
 "That's pretty twisted," I said.
 
@@ -343,75 +435,27 @@ Yali looked dismayed.
 
 "Well, I hope it doesn't come back to bite you."
 
-"I hope so too," said Yali. Then she corrected herself. "No. I don't <em>hope</em> anything. I will <em>make sure</em> it doesn't come back to bite me." Yali straightened up and focused. "Now, if you could give me some time to –"
+"I hope so too," said Yali. Then she corrected herself. "No. I don't <em>hope</em> anything. I will <em>make sure</em> it doesn't come back to bite me." Yali looked down again. "Now, if you could give me some time to –"
 
 "Yeah, go ahead," I said.
 
-<bigbreak>
-
-By the time Yali came back to the present, I'd had plenty of time to settle down, make a nice couch and sit back and think about things. Another realization had popped up in my mind.
-
-"I finally understand that other word the Blood God has been using for the Farseer!" I said. "I mean, not exactly <em>word</em>, I mean, like, it's this concept in my head, like, you know…"
-
-Yali hauled herself up from her Seeing pose, took a few breaths, and then thumped down on the couch and curled up next to me. "I understand," she murmured. "I can feel the Waiting God using those not-quite-words, too."
-
-"Yeah, so, the Blood God has always called you, like, the Waiting God's <em>laskueh</em>. And I first I thought it meant Raveller, but it doesn't. It means, like… a servant. Someone who works for someone else." Trying to explain it in words felt so flat. Saying <em>someone who works for someone else</em> didn't have the overwhelming sense of contempt that this word had. So I tried to explain. "And, like, to the Blood God, that's really bad. Like… If you obey someone else's orders instead of doing what you really want, that's like, stepping on your own blood."
-
-"Stepping on your own blood…"
-
-"Er…"
-
-"No, it's familiar, in my memories. Yes… it's an old expression. There were two expressions like that – if you said 'stepping on someone's <em>fire</em>', it meant you were stopping someone from going after their passions. But if you said 'stepping on someone's <em>blood</em>', it meant, it meant… a violation."
-
-"So obeying orders is violating yourself? Haha, that's pretty cool."
-
-"Sounds more like victim-blaming," said Yali loudly.
-
-"No, it's not," I said instinctively. "That's a Stern way of thinking. You're thinking, 'well, the person who obeyed orders was doing something unholy, so it's their fault, so we don't have to be mad at the person giving the orders'. But <em>that's not how the Blood God thinks</em>. We <em>do</em> have to be mad at the person giving the orders. The Blood God doesn't forget where the real fault is just because you point fingers! And it makes them <em>more</em> bad, because it means they forced someone else into degrading themselves!"
-
-Yali was quiet for a while before she responded. "Maybe what you're saying will make sense once I've thought about it more," she said neutrally. "But I've spent a lot of time doing what other people told me to. It's a lot to process right now."
-
-"Oh, uh, right." It had been a while since Yali had reacted that way to something, but I still recognized it. It was probably really upsetting for her, she was just holding back. I made myself shut up.
-
-We were both quiet for a bit, just sitting on the couch, Yali resting her head on my shoulder. We were still waiting for Alchemist to show up, there wasn't much left to talk about. I poked a foot at one of the papers that was still laying around. "So, this eighteen months thing," I said. "Isn't that kind of unfair? Like, if you were abused as a kid – er, uh, I mean –"
-
-"It's okay. Go on."
-
-"Or, like, what about those things where someone comes out about how some scumbag sexually assaulted them years ago? Is it like 'sorry, it was eighteen months ago, it doesn't count anymore'?"
-
-"Ah… well…" Yali tiredly lifted her head. "Technically, it's not eighteen months from the date of the <em>crime</em>. It's eighteen months from your awakening of blood."
-
-"Your what?"
-
-"Your awakening of blood. It's… an important concept in Blood law. Let me see if my memories know enough to explain it. It's like, like, like, the time when you've fully realized how much of a violation it was. So, so, if someone was abused, but they're still telling themself they can pretend it didn't happen, their blood hasn't awakened to the crime yet. So the timer hasn't started for their revenge. And if they're a kid, and they don't feel like they have the <em>power</em> to get revenge, they don't count as awakened yet. There's… a lot of rules, just like how the Stern have a lot of rules for exactly when and how they can prosecute someone for a crime. Every temple has its complications…"
-
-"Complications? I mean, what you said all makes sense, it's actually pretty close to how I would feel about –"
-
-"Maybe. Let's talk about something else."
-
-"Oh. Sorry."
-
-"It's okay."
-
-I couldn't think of something else to talk about. We both settled into a long silence, me fidgeting and Yali staring into the distance. There was just so much that had happened today. And from the look of things, it wasn't even over yet.
+Yali manifested a new comfy chair, sat down and stared into the distance.
 
 <bigbreak>
 
-It wasn't much longer before I heard the branches rustling from Alchemist getting close to us. I got up and peered towards the sound, and pretty soon I spotted their cute head bobbing in and out of the leaves. They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
+Waiting for Yali to get back to the present, I finally had a moment to look down at myself. I was a huge mess, bits of dried blood caked onto my skin, dirt on my clothes and hair. My whole body was cramped from crouching over papers all day. Worst of all, my shirt and jacket still had all those holes in them – the ones that my blades had made when I was angry about Morrow hurting Alchemist.
 
-Beside me, Yali squeezed my shoulder. Quietly, she muttered, "I know you'll want to tell Alchemist about everything had just happened. But leave it for later. It's important that we let them tell us what they've been thinking of, before we distract them."
+I couldn't let Alchemist see me looking like that. I stepped behind a tree and unmanifested my clothes again, then made a huge mass of cold water above me, letting it slam down on my head and shoulders and flush away all the mess. A few more torrents of water later, I felt clean and refreshed. Then I unmanifested all of the water, instantly drying me off. I finished by manifesting a new set of clothes, about the same as before, but all intact, cozy and warm.
 
-"Have they been thinking of something important? Like something that could –"
+When I came back around the tree, Yali's eyes looked a little different – she was still staring, but not quite the same way she did when she was using the Seeing. "Hey Yali, are you back –"
 
-"Shhhh."
+A strange feeling struck me. Yali didn't move a muscle, but somehow, it felt like she wanted to tell me something. Wanted to – but was afraid.
 
-In front of us, Alchemist made their way through the last bit of brambles, and padded into the clearing with us.
+"What did you See?" I said, rushing towards her. She had been looking for – for Alchemist! "Is Alchemist okay?! Tell me they're okay!!"
 
-"I'm glad you're back!" I said.
+"They're okay." Yali's voice broke out stiff and sudden. "In fact – they've had an idea that could change <em>everything</em>."
 
-Alchemist smiled a little, but their eyes were downcast. They wobbled back and forth. They clearly had something else on their mind.
 
-"I've had… an idea," said Alchemist.
 
 ''',
 },

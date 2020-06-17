@@ -55,4 +55,7 @@ p.text.left {
 .story_content_warning_header {
   margin-top: 1.1em;
 }
+.novel-current-status {
+  font-family: Arial, Helvetica, sans-serif;
+}
   </style>'''

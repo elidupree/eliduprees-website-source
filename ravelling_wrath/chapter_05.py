@@ -216,7 +216,7 @@ She'd planned for this. Of <em>course</em> she had. She knew what I'd think – 
 
 Why the fuck did it have to be that way?! I mean, I obviously wasn't mad that they were in prison. But I couldn't stand not being able to <em>do</em> anything. And if they were already in prison, it was just… <em>over</em>.
 
-Wait… She'd said "they". Not "he". Was she trying to leave out their gender? Could it have been a woman? Or an enby? Or were there <em>more than one of them?!?</em>
+Wait… She'd said "they". Not "he". Was she trying to leave out their gender? Maybe it <em>wasn't</em> a man? Or were there <em>more than one of them?!?</em>
 
 The rage surged through me again. I slammed my fist into the wall, putting a new dent alongside all the old ones. I slammed it again and again, splitting my knuckle on the broken-up wallboard. But the pain didn't end. Gods, what did she want me to do? What the fuck did she want me to do?
 
@@ -256,6 +256,8 @@ My mind turned these worries over and over, late into the night, until sleep was
 
 As I slipped into unconsciousness, the only thing I knew for sure was that I was up against something much, much bigger than me.
 
+<img class="sketch" src="/media/ravelling-wrath/sketches/ch5.jpg?rr" alt="">
+
 <bigbreak>
 
 The day finally came.
@@ -284,7 +286,7 @@ I took off running down the road towards the school. But as soon as I was out of
 <p class="text left">ill have something for you</p>
 <p class="text left">don't tire yourself out on the way here, we'll have a lot more walking to do</p>
 
-<p class="text right">on my way! see you soon! &lt;3</p>
+<p class="text right">on my way! see you soon! ❤</p>
 <div class="clear"></div>
 
 I snickered at "<em>more</em> walking", as if I was actually going to walk this first part. I was itching to run, to get there as soon as I could. But just for her, I held myself to somewhere in the middle, and settled into an easy jog.

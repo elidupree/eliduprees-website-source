@@ -16,7 +16,10 @@ posts = [
   ''',
   "head":head,
   "chapter_title": "The Scream",
+  "content_warnings": "????? weird brain distress things, physical and sexual abuse of a child (without graphic details), addiction, dissociation,",
   "contents": '''
+
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/cloven-earth-ornate.jpg?rr" alt="">
 
 The Broken God was a god of pleasure and pain, life and death.
 
@@ -254,6 +257,8 @@ For a heartbeat, all three of us were frozen.
 
 Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone cliff against the ocean waves. "Expressing Game," she said.
 
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/ch15-mid.jpg?rr" alt="">
+
 How could she stand in my way when Morrow had done such a thing?!! My fists clenched tighter. My blades grew further, pressing against their limits. But another part of me knew that if Yali was saying that, it was serious business. And it was only the Expressing Game. Fighting against a terrible resistance, I tried to force my rage into words. My voice felt alien. "How DARE he! Alchemist – Alchemist TRUSTED him! What kind of a MONSTER – he's a MONSTER – I'll –"
 
 "Morrow <em>isn't here</em>," said Yali severely. "You're looking at Alchemist. How do you think you're making Alchemist feel?"
@@ -489,6 +494,8 @@ Yali squinted. "You'll have to tell me more about that later. When we confront J
 "You got that one right…"
 
 Yali spent a lot more time digging through the memories. The way she was telling it, it seemed like Morrow had never gone two weeks without some messed up shit happening to him. One time he'd been attacked by feral dogs. Another time, the battery in his phone had exploded. Another time, a client had insisted on doing <em>koltac</em> with him, and he had been hooked on it for about a week until he freaked out and went cold turkey and spent the next week distracting himself from the withdrawal symptoms by playing chicken with trains, and then he never touched the stuff again. But throughout all the bad stuff, every time the immediate pain was over, he pretty much blocked it out and switched back to amusing himself, a state of almost innocent curiosity.
+
+"And whenever he has some extra money, he gives it away to help other people! He thinks they need it more than he does, but they obviously don't! Why does he do that? Why does he do that!?"
 
 There were a few times when Yali found Morrow doing some messed up shit to other people, too, but each time, she had a logical explanation for why he would do the things as a reaction to his trauma. She <em>wanted</em> to use them as a reason to hate him, but with everything she knew from learning about abuse online, she just couldn't.
 

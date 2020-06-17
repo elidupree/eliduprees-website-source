@@ -16,21 +16,22 @@ posts = [
   ''',
   "head":head,  "chapter_title": "",
   "contents": '''
-  
+
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/iron-gate-ornate.jpg?rr" alt="">
   
 It slammed into place. The pattern. The blazing, uncompromising pattern of the Stern.
 
-I was crushed between iron walls. Chains locked themselves around my bones and jerked me into place, leaving me immobile. Calipers poked at me from every side, measuring me in ways I didn't know I could be measured. Bars slid and rotated into position, squishing me into a different shape like I was a sack of putty being forced into a square hole.
+I was crushed between iron walls. Chains locked themselves around my bones and jerked me into place, forcing my body to immobility. Calipers poked at me from every side, taking measurements I didn't know could be taken. Bars slid and rotated into position, clamping me into a different shape, like I was a sack of clay being packed into a mold.
 
-I struggled to stay in my original shape.
+I held on tight, struggling to keep my original shape.
 
 <em>Wrong</em>, came the overwhelming force of the god. Every part of me that didn't fit the pattern was <em>wrong</em>. If it couldn't be squeezed into place, I should rip it off myself.
 
 I twisted and fought, trying to get out. But when I pulled my arm against the chains, it burned with pain and rejection. <em>This arm is betraying me. It is not a true part of me. I should rip it off.</em>
 
-<em>No, <strong>you're</strong> wrong,</em> I tried to think. But my will was already cracking from the strain. Wedges drove themselves into my mind, turning me against myself. A thousand spikes were forced into my body, stretching me out like cloth over a frame. Brutal sigils burned all over my flesh, symbols of law and judgment, labels for every one of my impurities and failings.
+<em>No, <strong>you're</strong> wrong,</em> I tried to think. But my will was already cracking from the strain. Wedges drove themselves into my mind, turning me against myself. A thousand spikes were forced into my body, stretching me out like cloth over a frame. Brutal sigils burned all over my flesh, symbols of law and judgment. I was being labeled, diagnosed of my principal impurities and failings. Other marks summarized my lesser impurities for later review. Scarcely a pore of my skin was left untouched.
 
-And then, when I had been burned and carved, I was peeled from the frame and set down to cool, left in a broken form that was sacred to no one. That was only to be expected, for a first pass on a soul so resistant to purification.
+And then, when I had been burned and carved, I was peeled from the frame and set down to cool, left in a mangled form that was sacred to no one. Little more could be expected, for a first pass on a soul so resistant to purification.
 
 The presence receded away, leaving me wobbling in a more physical space, trying to pull my mind back together.
 
@@ -48,13 +49,13 @@ And even if I found her, what good would it do? She would just be taken away fro
 
 That…
 
-Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either. It did <em>feel</em> like the Blood God, but it… didn't really <em>feel</em> like it? Just in case, I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
+Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either. The Blood God was the only reason I would have thoughts that weren't mine, but these thoughts had a completely different feeling. I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
 
 I ought to get up, I thought. My back was killing me. I <em>really</em> ought to get up. But somehow, it just didn't happen. I couldn't summon up the motivation to move.
 
 What had happened to me?
 
-I had never felt like this before. Up to this point, the Ravelling had been… not always fun… but I had basically felt the way I would normally feel about all of it. But this… I had never felt like this before in my life. Listlessly, I tried lifting up a hand and making a fist. It didn't even feel like my hand. The fist didn't feel kickass. It was just… <em>a</em> hand that happened to be connected to my arm.
+I had never felt like this before. Up to this point, the Ravelling had been… not always fun… but I had basically felt the way I would normally feel about all of it. But this… I had never felt like this before in my life. Listlessly, just to try it, I lifted up a hand and made a fist. It didn't even feel like my hand. The fist didn't feel kickass. It was just… <em>a</em> hand that happened to be connected to my arm.
 
 I dropped my arm down to the floor again. If I didn't get to feel anything, what was the point of even getting up? Even the rhythm of my heart only felt like a distant echo.
 
@@ -76,13 +77,13 @@ Mechanically, I stripped off my clothing and changed into the uniform. It was il
 
 I looked down at my old clothing, sitting limply in a heap, looking tiny in the big white room. Belatedly, I realized that I could have just unmanifested it rather than taking it off normally. Just like me, always missing the obvious and getting fucked over.
 
-Where did that thought come from? I didn't remember having a problem with missing the obvious. Ugh, I couldn't stand this place.
+Where had that thought come from? I didn't remember having a problem with missing the obvious. Ugh, I couldn't stand this place.
 
 I bent over to grab my phone from my old clothes. Once I was holding it, I realized that my uniform had no pockets. I felt stupid. I tried to manifest a pocket onto the uniform, but only ran up against the coldness of the Stern God's will. So I carried to the phone in my hand.
 
 I approached the statues at the room's exit. They blocked me dismissively. <em>That is not to come with you,</em> they seemed to be saying.
 
-I didn't want to leave my phone behind. It was the last real object I still had with me. Even before I changed into the uniform, all my clothes had been replaced with manifested versions long ago. But I just wanted to get this over with. It was too much work to try to argue. Feeling empty, I set my phone down with the rest of my things and stepped away from it.
+I didn't want to leave my phone behind. It was the last real object I still had with me. Even before I changed into the uniform, all my clothes had been replaced with manifested versions long ago. But I just wanted to get this over with. It was too much work to argue. Feeling empty, I set my phone down with the rest of my things and stepped away from it.
 
 I presented myself before the statues again. They seemed to acknowledge my presence. An iron demand radiated from them. It had no words, but I could feel it in my head, my heart, my bones. It felt like this: <em>Bow down.</em>
 
@@ -92,7 +93,7 @@ I presented myself before the statues again. They seemed to acknowledge my prese
 
 Normally, I would have fought against it. But now, I didn't even care anymore. <em>Joke's on you, Stern God. You can't humble me when I don't give a shit in the first place.</em>
 
-I bowed. The statues stood aside approvingly.
+I bowed. The statues stood aside with approval.
 
 I stumbled forward, in the Stern uniform, down the Stern corridor, leaving everything behind me.
 
@@ -110,7 +111,7 @@ In the mire of guilt, I stopped struggling and just lay there. The sides of my e
 
 Slowly, the gravity let me rise again. I dragged my leaden body to its feet, badly shaken. Could the Stern God just <em>do</em> that to me? I looked up at the wall where I had just fallen. At the thought of trying to climb again, I shuddered and shied away.
 
-Defeated, I walked and walked. There were no forks in the corridor, only a long, straight hallway. After a while, it ended in another door, also flanked by the same grim statues. So far to walk, for so much the same. I stumbled towards them. As I came before them, my body was burdened down with an overpowering demand to go down on my knees. I sank to the floor. The statues approved. They allowed me to pass them, crawling on hands and knees.
+Defeated, I walked and walked. There were no forks in the corridor, only a long, straight hallway. After a while, it ended in another door, also flanked by the same grim statues. It had been so far to walk, for so much the same. I stumbled towards them. As I came before them, my body was burdened down with an overpowering demand to go down on my knees. I sank to the floor. The statues approved. They allowed me to pass them, crawling on hands and knees.
 
 Two rows of statues stood over me as I crawled, as if I was being forced to humiliate myself in front of a crowd. I didn't even want to look up at them. I just kept my eyes to the floor and crawled along without thinking about it.
 
@@ -168,17 +169,19 @@ The next intersection had a map just like the first one. I leaned on its pedesta
 
 I didn't see any statues on the Imminent's Path. It was just one long, blank, white marble corridor. So I started walking down it without thinking twice. The moment I stepped on it, I heard a tapping sound behind me. I looked around, but I didn't see anything there. So I kept walking. A few more steps along the path, I felt something brush the back of my neck. I whirled around, but again, there wasn't anything there.
 
-When I looked back at where I was going, I was right at the beginning of the Imminent's Path again.
+I looked back at where I was going. The intersection was around me. I was right at the beginning of the Imminent's Path again.
 
 So <em>that</em> was the challenge of this path. You had to suppress your curiosity about the things you heard and felt. Shit, Morrow was <em>fucked</em>. It was exactly the most impossible thing for him. The most impossible thing for <em>an Imminent</em>.
 
 A slow, cold dawning of realization settled over me. Each of us was forced to sacrifice the thing most important to us. The Imminent had to sacrifice their curiosity. The Blood Child had to sacrifice their pride. The Alchemist had to… well, that was the path where you had to be decisive? That really was unlike Alchemist, yeah. Could you sacrifice indecisiveness?
 
-Well, I had to get through this one way or another. I set off on the Imminent's Path again.
+So this was what would be done to us. The Stern Temple would rule over the world, erasing everything that made us who we were. And where my temple should be, an aching hole, starving so long as to forget the feeling of hunger. We had already lost. What was left to fight for? It was hopeless to struggle…
 
-The easiest way to handle the Imminent's Path was just to let my senses go dull. Every time I felt something move behind me, I just let the feeling echo off of me without really processing it. It all just passed over me meaninglessly.
+But I could not stop. I set off on the Imminent's Path again.
 
-Loud and sudden noises. Slow feelings of unease. Flickering, colored lights seeming to shine from behind. But none of it really got through to me. It wasn't the <em>real</em> Seeking God, anyway. All these weak imitations just slid off of me and faded into the background. They just blended into the hard and droning sounds of my feet as my body kept lurching forward.
+The easiest way to handle the Imminent's Path was just to let my senses go dull. Every time I felt something move behind me, I just let the feeling echo off of me without really listening to it. It all just passed over me meaninglessly.
+
+Loud and sudden noises. Slow feelings of unease. Flickering, colored lights seeming to shine from behind. But none of it reached me. It wasn't the <em>real</em> Seeking God, anyway. All these weak imitations just slid off of me and faded into the background. They blended into the hard and droning sounds of my feet as my body kept lurching forward.
 
 <bigbreak>
 
@@ -186,21 +189,17 @@ The stark, square intersection arrived at last. The connection to the next place
 
 It was the Farseer's Path.
 
-I looked to the left. I looked to the right. Left was backwards along the path. Backwards was the way I needed to go, the only way that made sense. I dragged my feet in that direction.
+I looked to the left. I looked to the right. Left was backwards along the path. Backwards was the way I needed to go, I remembered saying. I dragged my feet that way.
 
-It was just another blank hallway. There was obviously going to be a trick to it. But there was nothing to do but try it. I stepped into the hallway. I took the first few steps on instinct, then paused.
+It was just another blank hallway. A hallway with a trap you couldn't see, with no choice but to walk in. I stepped into the hallway. I took the first few steps on instinct, waiting for something to happen. Nothing happened as I walked. But as soon as I stopped moving, I was sucked back to the beginning of the hallway.
 
-As soon as I stopped moving, I was sucked back to the beginning of the hallway.
+Was I not allowed to stop? That would be no surprise. The Stern would think that would be a challenge for Waiting. I tried again, walking in a straight line without stopping. I was sucked back again. I felt like I had gone in the wrong direction. I tried another angle, and it felt the same way. And another. Finally, I stopped even trying to understand it. I kept stumbling along, not even caring where I was putting my feet.
 
-Maybe it was stopping me from pausing. That would make sense for the Farseer. I tried again, walking in a straight line without stopping. I was sucked back again. I felt like I had gone in the wrong direction. I tried another angle, and it felt the same way. And another.
-
-Finally, I gave up. I just walked down the hallway at random.
-
-Time passed. I hadn't been sent back. I'd been walking for a few minutes, and I hadn't been sent back. My feet fell in weird pattern, stepping left and right at random as I moved forward. I was going on instinct, but it was distorted. Maybe the Stern God was directing my footsteps. My thoughts wandered back a little, wondering what the pattern was, where it would go next –
+Time passed. I hadn't been sent back. My feet fell in weird pattern, stepping left and right at random as I moved forward. I was going on instinct, but it was distorted. Maybe the Stern God was directing my footsteps. My thoughts wandered back a little, wondering what the pattern was, where it would go next –
 
 I was back at the beginning again.
 
-"I didn't even stop…" I complained dully. But I was used to it by now. I just had to do what the Stern God wanted. I just had to <em>not</em> do… what I had just done that messed it up. I had…
+<em>I didn't even stop,</em> I complained dully. But I was used to it by now. I just had to do what the Stern God wanted. I just had to <em>not</em> do… what I had just done that messed it up. I had…
 
 I had thought about it.
 
@@ -210,21 +209,21 @@ That was fine. I didn't want to think anyway. My thoughts were just making every
 
 <bigbreak>
 
-In the corner of my eye, something was different. I painstakingly lifted my head.
+In the corner of my eye, something was different. I struggled to lift my head.
 
 How long had I been trudging? I had no way to guess. I was at another intersection now. Another…
 
-Someone was there. She was standing right there. It didn't feel real. But she was right there, as if she was waiting for me. And there was… another person there. The Alchemist.
+Someone was there. She was standing right there. It didn't feel real. But she was right there, as if she was waiting for me. And there was… another body there. The Alchemist.
 
-Something didn't seem quite right. Something about how… when I saw her, I would run and hug her? I was supposed to love her? But that wasn't actually happening. She was just… A person. Over there. Was I supposed to feel something?
+Something wasn't quite right. Something about how… when I saw her, I would run and hug her? I was supposed to love her? But that wasn't actually happening. She was just… A person. Over there. Was I supposed to feel something?
 
-Disinterestedly, I started walking toward them. This <em>was</em> what I was supposed to do, right?
+My feet started walking toward them. This <em>was</em> what I was supposed to do, right?
 
-"Are you ready?" the Farseer asked the Alchemist tensely. "You remember what's about to happen?"
+"Are you ready?" the Farseer asked the Alchemist. "You remember what's about to happen?"
 
-"I'm as ready as I'm going to be," said the Alchemist. They were gripping a potion tightly in their shaking hands. My eyes glanced over their face, idly noticing their look of total terror.
+"I, am, as ready as I'm going to be," said the Alchemist. They were gripping a potion, tightly, in shaking hands. My eyes glanced over their face. There was terror there?
 
-What were the two of them talking about? What was about to happen? Well, it didn't matter. I thought of opening my mouth to greet them, but it was too much work. Dutifully, I walked up to where they were standing. I stared at the Farseer. The Farseer stared back.
+What were the two of them talking about? What was about to happen? Well, it didn't matter. I thought of opening my mouth to greet them, but it was too much work. Dutifully, I stepped up to where they were standing. I stared at the Farseer. The Farseer stared back.
 
 "Rinn, can you hear me?" she said.
 
