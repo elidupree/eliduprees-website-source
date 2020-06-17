@@ -58,4 +58,13 @@ p.text.left {
 .novel-current-status {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* For the emoji graphics, we currently use twemoji (https://github.com/twitter/twemoji). */
+div.blog_post img.emoji {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin: 0;
+  vertical-align: middle;
+}
   </style>'''
