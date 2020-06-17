@@ -15,6 +15,7 @@ posts = [
 
   ''',
   "head":head,
+  "blurb_image":"/media/ravelling-wrath/sketches/ch7.jpg?rr",
   "chapter_title": "The Ravellers",
   "content_warnings": '''<p>Graphic descriptions of physical injuries; discussion of suicide</p>''',
   "contents": '''

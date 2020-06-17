@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 15",
   "auto_paragraphs": True,
   "don't deploy": True,
+  "blurb_image": "/media/ravelling-wrath/sketches/cloven-earth-ornate.jpg?rr",
   "authors_notes":'''
 
 

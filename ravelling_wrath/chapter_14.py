@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 14",
   "auto_paragraphs": True,
   "don't deploy": True,
+  "blurb_image":"/media/ravelling-wrath/sketches/ch14.jpg?rr",
   "authors_notes":'''
 [????? Yali would still be fat even if it wasn't for her food insecurity in childhood, with a link to the VC page; "as canon as I can make it in an author's notes"]
 
