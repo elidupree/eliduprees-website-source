@@ -4,7 +4,7 @@
 import sys
 import subprocess
 
-prod_server = 'future.elidupree.com'
+prod_server = 'elidupree.com'
 
 def upload_to_future():
   a = './build/idupree_websitepy_output/build/nginx/deploy/'

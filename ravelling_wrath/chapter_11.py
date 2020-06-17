@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 11",
   "auto_paragraphs": True,
   "don't deploy": True,
+  "blurb_image":"/media/ravelling-wrath/sketches/ch11-1.jpg?rr",
   "authors_notes":'''
 
 

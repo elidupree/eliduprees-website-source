@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 19",
   "auto_paragraphs": True,
   "don't deploy": True,
+  "blurb_image":"/media/ravelling-wrath/sketches/ch19.jpg?rr",
   "authors_notes":'''
 
 
