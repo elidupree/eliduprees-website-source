@@ -452,7 +452,7 @@ Justicar's voice softened a little. "Have you never skied before?"
 
 "Yeah!!" added Morrow. "You from Walthridge? You some kind of rich person?"
 
-My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from Walthridge, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth layer like me, either.
+My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from Walthridge, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth ring like me, either.
 
 "I will not say I have not had privileges in my life. But no, I am not <em>from</em> Walthridge. I simply… was there for a time."
 

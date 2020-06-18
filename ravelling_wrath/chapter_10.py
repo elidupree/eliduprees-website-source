@@ -711,11 +711,11 @@ Rage surged up in me. I wanted to punch the smug indifference right off her face
 
 "Wait a minute. Only three fifths?"
 
-"The Waiting Temple has formal authority over the first layer. The Seeking Temple, the second. And the Stern Temple is based in the third layer, but also has authority over the fourth and the fifth –"
+"The Waiting Temple has formal authority over the first ring. The Seeking Temple, the second. And the Stern Temple is based in the third ring, but also has authority over the fourth and the fifth –"
 
-"– the fifth layer, which <em>should</em> go with the Blood Temple," I finished instinctively.
+"– the fifth ring, which <em>should</em> go with the Blood Temple," I finished instinctively.
 
-"Which <em>did</em> belong to the Blood Temple before its collapse and dissolution." Something about that description felt completely unfair. But I couldn't figure out how to express it, so I just glared at her while she continued. "But the Blood Temple was disorganized and corrupt. As I was saying, only the Stern is capable of the organization the city needs. That is why the Stern Temple was given the lower layers, and why the Stern God maintains equal influence in the Ravelling, despite what it lacks in raw power."
+"Which <em>did</em> belong to the Blood Temple before its collapse and dissolution." Something about that description felt completely unfair. But I couldn't figure out how to express it, so I just glared at her while she continued. "But the Blood Temple was disorganized and corrupt. As I was saying, only the Stern is capable of the organization the city needs. That is why the Stern Temple was given the lower rings, and why the Stern God maintains equal influence in the Ravelling, despite what it lacks in raw power."
 
 "Lacks in…? I thought all the gods were equally powerful!"
 

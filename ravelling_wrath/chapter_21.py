@@ -251,7 +251,7 @@ I grinned and held up my phone for her to see better. "See, it's one line of emo
 
 I ended up texting back and forth with Alchemist off and on for the whole day. It turned out that they were way more talkative over text than they were face-to-face, it was great. They mostly wrote in emoji and reaction gifs, and they kept having the perfect image for the situation, totally emotionally expressive and wholesome. It made me feel like Alchemist was right there in the room with me. Yali didn't always understand what they meant, but to me, the meaning was obvious. And even when Alchemist was writing actual text, they seemed more clear and confident than they had in the Otherworld. It was like they were back in their own element. I couldn't help being happy for them.
 
-Unfortunately, I wouldn't get to <em>visit</em> Alchemist right away. They lived with their family in the second layer, but it was on the opposite side of the city from where me and Yali lived. I was definitely planning to meet their family someday, after I'd heard so much about them, but for now, it was pretty far out of the way.
+Unfortunately, I wouldn't get to <em>visit</em> Alchemist right away. They lived with their family in the second ring, but it was on the opposite side of the city from where me and Yali lived. I was definitely planning to meet their family someday, after I'd heard so much about them, but for now, it was pretty far out of the way.
 
 Alchemist even said they were going to pick out a new name for me to call them, but they'd need a while to think it over. They wanted it to be special, not just to use <em>Raylie</em>, the name Morrow called them, or <em>Heibe</em>, the name their family called them.
 
@@ -525,9 +525,9 @@ My feet pounded on the street, carrying me fast and heavily down the old roads. 
 
 On my right, I passed the road leading to Layo's house. It made me want to turn and run that way, to hug him and tell him I'd made it. But I would see him soon enough. There would be time enough to tell all my friends about my adventures. For now, I was going home.
 
-Finally, I reached the gate into the fifth layer. The layer that was my home. The layer of the Blood God.
+Finally, I reached the gate into the fifth ring. The ring that was my home. The ring of the Blood God.
 
-The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel that same sense of <em>wrongness</em> I had felt about the Stern Temple ruling this layer. I was Rinn, who had grown up with all of this being normal. But I remembered. And I couldn't see anything in quite the same way anymore.
+The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel that same sense of <em>wrongness</em> I had felt about the Stern Temple ruling this ring. I was Rinn, who had grown up with all of this being normal. But I remembered. And I couldn't see anything in quite the same way anymore.
 
 When I ran past the old basketball court full of trash, I remembered a time when I had seen it as a place where random assholes dumped their trash and spoiled our fun. But now, I saw the temple who watched over them. A temple who wouldn't help anyone afford to take away their trash, who wouldn't fix the potholes or the broken streetlights, but who always had time to sic the police on homeless people, to cart random people off to jail.
 

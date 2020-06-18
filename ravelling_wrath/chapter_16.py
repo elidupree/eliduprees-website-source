@@ -255,7 +255,7 @@ I looked at the photo. "<em>That</em> fucker!" I yelled.
 
 "– who killed me? Haha no, this guy sucks. It's more about when he was a human… did he do something against the Blood Temple? It feels like it was about the Blood Temple, but he didn't do anything himself…"
 
-Yali concentrated. "I don't remember him doing anything against the Blood Temple either. Most of his work was in the Stern courts, which didn't even have jurisdiction over the fifth layer back then. Unless that work is what the Blood God is mad about?"
+Yali concentrated. "I don't remember him doing anything against the Blood Temple either. Most of his work was in the Stern courts, which didn't even have jurisdiction over the fifth ring back then. Unless that work is what the Blood God is mad about?"
 
 "Nah, I mean, Stern law is fucked up, but it's not that. It's…" But I couldn't remember. The feeling was gone. "He just sucks," I concluded.
 
@@ -271,7 +271,7 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "<em>Yes!!</em>" I yelled through my tears. "Twenty-five years if it was a day! I was with him when he stoked the fires! And you took him away from me!! How can you –"
 
-"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory. If it was for twenty-five years, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth layer… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
+"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory. If it was for twenty-five years, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth ring… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
 
 "It erased the memories," I breathed.
 
