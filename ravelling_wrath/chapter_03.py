@@ -482,7 +482,7 @@ I laughed. "Sorry, but you just sounded like my sister."
 
 "I didn't know you had a sister."
 
-"Yeah, she's like six years older than me though, so I don't see her much. She's, like, a photographer on the second layer now or something. Anyway, whenever she visits my parents, she's like, 'Wow, you let Rinn go out on the weekends?' And my parents are like, 'No, we don't <em>let</em> Rinn go out on the weekends, –'"
+"Yeah, she's like six years older than me though, so I don't see her much. She's, like, a photographer in the second ring now or something. Anyway, whenever she visits my parents, she's like, 'Wow, you let Rinn go out on the weekends?' And my parents are like, 'No, we don't <em>let</em> Rinn go out on the weekends, –'"
 
 Yali finished my sentence along with me. "'– she just <em>does</em> go out on the weekends.'" Yali suppressed a smile. "I love you, but be careful. I don't want to see you taking any risks with your parents on my account."
 

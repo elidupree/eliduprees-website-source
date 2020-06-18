@@ -125,9 +125,9 @@ That was true. It was still early September, about a month after Yali first aske
 
 "They don't mind that I'm a Seti?" she said wryly.
 
-"Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper layers. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
+"Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper rings of the city. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
 
-But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
+But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second ring to the fifth ring". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
 
 I continued, "They're only really mad if they think I'm hanging out with, like, secret Blood worshippers or something."
 
@@ -373,17 +373,17 @@ Yali launched into elaborate descriptions of everything, from the starry void of
 
 "So…" I said, "Waiting, Seeking, Stern, Broken, Blood. That's the same order as the city! If you count from top to bottom."
 
-Yali smiled. "That's right. The layers of the city were built to mimic the layers of the Otherworld. That's why the first layer doesn't allow any lights at night – so that you can see the stars."
+Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first layer doesn't allow any lights at night – so that you can see the stars."
 
-"I didn't know that! My parents did take me to a few museums on the second layer when I was a kid. I remember the roads being all twisty and I got really lost. It was built that way on <em>purpose</em>?"
+"I didn't know that! My parents did take me to a few museums in the second ring when I was a kid. I remember the roads being all twisty and I got really lost. It was built that way on <em>purpose</em>?"
 
 "It probably was!"
 
-"And the third layer is obvious, it's boring and strict, just like the Stern. Uh, no offense."
+"And the third ring is obvious, it's boring and strict, just like the Stern. Uh, no offense."
 
 Yali shrugged. "It's true, I live in a boring place."
 
-"What about the fourth layer? It's not all overgrown with plants like you said the Broken God's layer was in the Otherworld. I mean, there's a few parks, but it's mostly packed with buildings."
+"What about the fourth ring? It's not all overgrown with plants like you said the Broken God's layer was in the Otherworld. I mean, there's a few parks, but it's mostly packed with buildings."
 
 "That <em>is</em> strange." Yali thought about it. "Maybe it's because the Broken God doesn't have any laws of its own. Maybe they just allowed people to build anything they want there, and the structure formed naturally. Not naturally like nature, just –"
 
@@ -391,7 +391,7 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "That, that, that's something I don't actually know."
 
-"Oh well. What about the fifth layer, then? How is it like – wait, you haven't told me about the Blood God's layer yet."
+"Oh well. What about the fifth ring, then? How is it like – wait, you haven't told me about the Blood God's layer yet."
 
 "I… didn't get a good look at it. In my memories, I mean. The only time I got there, I died right afterwards."
 
@@ -487,7 +487,7 @@ I thought about it. "We could still have dated for three months… and then, you
 
 Yali didn't say anything.
 
-"Hang on, how <em>do</em> you live alone? And on the third layer, too?" The third layer of the city didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
+"Hang on, how <em>do</em> you live alone? And in the third ring, too?" The third ring of the city didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
 
 "If we talk about my past," said Yali calmly, "I'll get upset. And if I get upset, I won't be able to plan for the future."
 
