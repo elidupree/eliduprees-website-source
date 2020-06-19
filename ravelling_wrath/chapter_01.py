@@ -147,7 +147,7 @@ Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
 "It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but if that's what you're after, then it screws your career too, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could – I could lose you forever –"
 
-Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're, they're, the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also &ndash; Why am I talking like this? It's me. I'm the Farseer. And you're –"
+Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're, they're, the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also – Why am I talking like this? It's me. I'm the Farseer. And you're –"
 
 I froze. I could see where this sentence was going, and I didn't like it. Me, one of the Chosen? A million questions formed in my head at once. And then all the questions vanished again. What could I even say?
 
@@ -267,7 +267,7 @@ I stared, wondering if I should feel shocked. But I didn't know how to feel shoc
 
 "Symbolic," I deadpanned. Yali snorted.
 
-"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. The one who loved me – I remember him for wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
+"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. The one who loved me – I remember him wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
 
 "I don't want to make you remember anything traumatic," I said quickly.
 
@@ -275,13 +275,13 @@ I stared, wondering if I should feel shocked. But I didn't know how to feel shoc
 
 "So…" I said. "So I'm going to get really mad at you and then kill you? But there's no way I'd kill you." I laughed nervously. "Seriously, I'd rather die."
 
-Yali's eyes widened. Before I knew what was happening, she had grabbed my shoulder violently. "Don't – you – dare –" she growled. Now I really <em>was</em> shocked. Yali <em>never</em> acted like that! "Don't you <em>dare</em> sacrifice yourself for me."
+Yali's eyes narrowed. Before I knew what was happening, she had grabbed my shoulder violently. "Don't – you – dare –" she growled. Now I really <em>was</em> shocked. Yali <em>never</em> acted like that! "Don't you <em>dare</em> sacrifice yourself for me."
 
-"It's not going to come to that... is it?"
+"It's not going to come to that, is it?!"
 
 "Promise me," she said. "No matter what happens, promise me you'll never die for my sake. We are <em>both</em> going to get out of this alive."
 
-"Uh... I promise," I said nervously.
+"Uh… I promise," I said nervously.
 
 "Remember that." Yali let go of my shoulder and leaned back on the couch. She was back to her normal self again, just as suddenly. "Sorry about that," she said. "I just really, really don't want you to die."
 
@@ -305,11 +305,11 @@ I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Th
 
 "What if we just <em>don't</em> go through all the layers? Or – what if I get behind, so we're never in the <em>same</em> –"
 
-"That – let me see if I can remember something." Yali concentrated for a moment. "That's <em>also</em> not something the gods like. I'm not sure exactly what would happen if you tried that, but it can be harder to... I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
+"That –" Yali concentrated for a moment. "I'm not sure exactly what would happen if you tried that. I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
 
 "So – if the gods are trying to force us together, and force me to attack you –" I was thinking wildly, but I couldn't come up with any way out of this. "What do we <em>do?</em>"
 
-"Well – I have a plan," said Yali hesitantly.
+"Well – I have a plan," said Yali, trying to sound confident.
 
 "Of course, ha ha, you have a <em>plan</em>, I should have seen this coming," I babbled.
 

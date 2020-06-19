@@ -93,7 +93,7 @@ Yali gave me a Look.
 
 "Oh. I, I guess I hadn't gotten to that part yet." Yali put her finger on the paper again. "What we've talked about so far are just the defenses on <em>this</em> side of the wall. But we can also think about defenses on the <em>other</em> side. I mean, in case you do get angry enough to hurt me even though you love me. Even if that happens, we can still avoid the worst case, if you hurt me in a way that doesn't <em>kill</em> me. So –"
 
-"No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That's – whatever, fine, I get it, I might have to do some things I don't want to do, but even looking past that, this can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free."
+"No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free!"
 
 "Maybe… But if we don't break them down here, then when they break down in the Otherworld, you'll be totally unprepar—"
 
@@ -109,7 +109,7 @@ Yali gave me a Look.
 
 Yali looked down, and for a moment I was worried I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."
 
-That was true. It was still early September, about a month after Yali first asked me out. And everyone knew the Ravelling started around November 1. So we had a couple of months to go.
+That was true. It was still early September, about a month after Yali first asked me out. And everyone knew the Ravelling started around the first of November. So we had a couple of months to go.
 
 "Speaking of time…" Yali said, glancing at the clock.
 
@@ -185,7 +185,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Not exactly. It's more like fragments of possible futures. The way it works is, I think of something I'm planning to do, and it shows me what will happen if I go through with it. So I can think of someone for you to tell about this, and then see if telling them what lead to, to, to anything bad."
 
-"Awesome," I said. I still didn't see why this was so important, but I didn't get to see people doing actual magic very often, so I was excited for this.
+"Awesome," I said. I didn't get to see people doing actual magic very often, so I was excited for this.
 
 "It takes a lot out of me, though. I've only used it twice before," she said. "So I'd like to put that off until later this evening. At the very least we should eat something first."
 
@@ -327,7 +327,7 @@ Just then Yali let go of me, stepped back and closed her eyes again. When she op
 
 "That was fuckin' scary!" I said. "Not in a bad way! I mean, that was the point, right? Why'd you stop?"
 
-Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but it's always good to keep checking."
+Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but the moment you don't check is the moment everything can go wrong."
 
 "The second reason," she continued, "is that I'm not sure <em>I</em> can handle doing that for very long. And the third one is… It wasn't going to work."
 
@@ -337,7 +337,7 @@ Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to ch
 
 "Stern take it all, you know me better than I know myself. You even <em>thought</em> this would happen?!"
 
-"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be... Like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
+"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be… like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
 
 I sighed. "I don't either!"
 
@@ -357,7 +357,7 @@ Yali seemed confused that I'd asked the question. "Uh… yes?"
 
 "Yeah, well, how do I look for the <em>right</em> kind?"
 
-"Well –" There was that exhaustion again. "How about, how about you think about it overnight? That would give you time to, to, to, get more perspectives?"
+"Well –" There was that exhaustion again. "How about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"
 
 Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, and she'd <em>said</em> she was okay, but there was something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
 
@@ -373,7 +373,7 @@ Yali launched into elaborate descriptions of everything, from the starry void of
 
 "So…" I said, "Waiting, Seeking, Stern, Broken, Blood. That's the same order as the city! If you count from top to bottom."
 
-Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first layer doesn't allow any lights at night – so that you can see the stars."
+Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first ring doesn't allow any lights at night – so that you can see the stars."
 
 "I didn't know that! My parents did take me to a few museums in the second ring when I was a kid. I remember the roads being all twisty and I got really lost. It was built that way on <em>purpose</em>?"
 
@@ -443,13 +443,13 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "When a human dies, their soul unravels. If that happens, the god has to pull back the threads of its own soul, but the human parts just disperse. It takes the whole winter to fully link the human threads to the god threads. So it really only works if its human host survives to the end. That's what usually happens for the <em>other</em> three gods, but –"
 
-"Then why does – wouldn't all the gods be better off if we just didn't kill each other? If the Blood God and the Waiting God just worked together, wouldn't they both be able to rejuvenate like the others?"
+"Then why do they kill each other?! Wouldn't all the gods be better off if we just didn't kill each other? Then the Blood God and the Waiting God could both rejuvenate –"
 
-"They should be! I have no idea why the Blood God started killing –"
+"They would be! I have no idea why the Blood God started killing –"
 
-"What about your memories? Even if the Blood God didn't, like, explain its reasons, maybe you can see a difference between the years before it started and the years after?"
+"What about your memories? Even if the Blood God didn't, like, explain its reasons – can you think of anything that happened before it started?"
 
-"But I don't <em>have</em> memories from before. I only have the memories of the Farseers who died. Which, which, might make sense? Maybe the Waiting God can't make <em>copies</em> of people's memories, it just has a way to <em>preserve</em> memories from people who died. Then the ones who survived would have brought their memories back to the material world with them. Either way, I don't know about the time before. My first few deaths aren't even much different than the others."
+"But I don't <em>have</em> memories from before. I only have the memories of the Farseers who died. I think the Waiting God can preserve your memories if you die, but can't just copy your memories if you're still alive. Either way, I don't know about the time before. My first few deaths aren't even much different than the others."
 
 I kicked the table. "For fuck's sake! I don't want us to die without even knowing why!"
 
@@ -457,7 +457,7 @@ I kicked the table. "For fuck's sake! I don't want us to die without even knowin
 
 "Nah, I get it. If we don't know, we just don't know." I sighed. "So the gods really take, like, a whole year just to think about something?"
 
-"Yes. There's a cycle to it. Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year. Here's where the Ravelling starts, around the start of November." She marked one point on the circle. "And here's where it ends, around the start of February. Those are the events that everyone knows about. But that's only one quarter of the year. There's also <em>here</em> and <em>here</em>. From February to May, they finish assimilating their new human threads. That's like their way of learning from the human they picked. Then from May to August, that's when they're most active in the material world. And at the start of August, they pick the next year's Ravellers and start preparing for winter again. So it's like… They use us to dream up new ideas in the winter, refine the ideas in the spring, try them out in the summer, and then use the autumn to prepare for the next round." When
+"Yes. There's a cycle to it. Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year. Here's where the Ravelling starts, around the start of November." She marked one point on the circle. "And here's where it ends, around the start of February. Those are the events that everyone knows about. But that's only one quarter of the year. There's also <em>here</em> and <em>here</em>. From February to May, they finish assimilating their new human threads. That's like their way of learning from the human they picked. Then from May to August, that's when they're most active in the material world. And at the start of August, they pick the next year's Ravellers and start preparing for winter again. So it's like… They use us to dream up new ideas in the winter, refine the ideas in the spring, try them out in the summer, and then use the autumn to prepare for the next round."
 
 Something was bugging me. "They pick us out at the start of August? That's just before when you…" I stopped.
 
