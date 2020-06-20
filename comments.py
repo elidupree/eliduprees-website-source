@@ -1606,5 +1606,12 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"32ea2d0d7a6fa21abe4936771550ebb8",
   "date_posted":datetime.date(2019, 7, 26)
 },
+{
+  "parent":"39b435d2c1bdcaf17282d9ad5ae2bae",
+  "username":"Kagar",
+  "contents":"""i really appreciate the part where Justicar<br/>- learns theres a secret<br/>- immediately tries to puzzle it out based on limited info<br/>- has to be walked back from that<br/><br/>because that happens to me quite a bit, though in that case i am also the one walking myself back""",
+  "id":"b56a56f4b1de66112c3e8a171758539c",
+  "date_posted":datetime.date(2020, 6, 20)
+},
 
 ]
