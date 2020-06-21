@@ -515,9 +515,9 @@ Yali began to ask, "You know how in this world, matter is dominant, and in the �
 
 Yali patted me on the head. "Good idea."
 
-We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she had <em>access</em> to the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
+We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she was <em>able</em> to the the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
 
-Finally, hours later, Yali said, "I'm starting to get tired. Before I send you home and settle down for the night, let's go ahead and try the Seeing."
+Finally, hours later, Yali said, "It's time for me to settle down for the night. Before I send you home, let's go ahead and try the Seeing."
 
 I perked up at the mention of Seeing. "What do I have to do?"
 
@@ -527,23 +527,19 @@ I perked up at the mention of Seeing. "What do I have to do?"
 
 "Yes."
 
-"Well, there's Layo, obviously." Laökuru Katsín was my best friend since elementary school. I could talk to him about literally anything. "Other than that… well, how <em>many</em> people should I come up with? Does your Seeing have a limit, or –"
+"Well, there's Layo, obviously." Laökuru Katsín was my best friend since elementary school. I could talk to him about literally anything. "Other than that… well…" I thought about my other friends, and eventually gave Yali a few to try. But even with Layo, it was hard to imagine explaining everything to him.
 
-"There's not technically a limit, but… it takes a lot out of me. The more I want to See, the more work it takes. So, I <em>want</em> to check everyone you can think of, but when I actually think about it… I can probably only do a few of them. And you should tell me what order to do them, in case, in case I don't get through all of them."
-
-"Okay." I thought about my other friends, and eventually gave Yali a few to try. But even with Layo, it was hard to imagine explaining everything to him. My heart wasn't really in it, and Yali could tell.
-
-"I understand," said Yali. "I think I'm ready to begin. Move over a little?" I moved over, and Yali leaned back against the couch, a relaxed position. "When I'm in the future, I won't be aware of what's around me in real life. So just… take care of my body, okay? Don't touch it if you don't have to, but make sure it doesn't fall over or anything."
+Finally, we were ready to begin. Yali leaned back against the couch, a relaxed position. "When I'm in the future, I won't be aware of what's around me in real life. So just… take care of my body, okay? Don't touch it if you don't have to, but make sure it doesn't fall over or anything."
 
 "Is that likely to happen?"
 
-"No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about before I burn myself out? I'll probably want to be alone afterwards, so this is our last chance to talk normally for the night."
+"No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about? I'll probably need to be alone afterwards, so this is our last chance to talk normally for the night."
 
 I thought about it. There were so many things I still had to ask her, but nothing that couldn't wait for another day. "No, I'm fine. So this is like goodnight?"
 
 "Yes." Yali smiled a little. "C'mere you."
 
-I carefully straddled her on the couch and wrapped my arms around her. As I squeezed her tight, she gently lifted her arms and pulled me in so that she could nuzzle my face. Then she pressed even closer and kissed me on the lips.
+I straddled her on the couch and wrapped my arms around her. As I squeezed her tight, she gently lifted her arms and pulled me in so that she could nuzzle my face. Then she pressed even closer and kissed me on the lips.
 
 We stayed that way for a long moment. I could feel her heart beating heavily against my chest. I felt so close to her. But I also wanted so much more. I wanted to cling onto her forever so that we'd never have to face everything that was waiting for us.
 
@@ -561,11 +557,9 @@ Yali rested her head back on the couch, looked up into space, and unfocused her 
 
 It wasn't like I expected. I'd seen a few sorceries before, and they had a <em>buzz</em> to them. If someone was doing a sorcery near you, you could feel it in your head, even if there was a wall in between. But this was just… nothing. It was just Yali staring into space. The only thing that looked different was her eyes, which were shifting back and forth as if they were looking for something – but the something was light-years away. I couldn't resist waving my hand in front of her face, and sure enough, she didn't see it at all.
 
-Looking at her, I was suddenly struck by how much she was trusting me. She couldn't tell what I was doing, and no one else was here either. If I wanted to take advantage of her, she'd never even know I'd done it. I could literally just slide my hands under her clothing, and – I shivered. It was scary to have thoughts like that. Even though I knew I would never do that to her.
+Looking at her, I was suddenly struck by how much she was trusting me. She couldn't tell what I was doing, and no one else was here either. If I wanted to take advantage of her, she'd never even know I'd done it. I could literally just slide my hands under her clothing, and – I shivered. It was scary to have thoughts like that. Even though I knew I would never do that to her. Whatever had happened in her past, I <em>couldn't</em> let her get hurt again. Not by anyone else. And especially not by me.
 
-How was Yali so amazing? She'd obviously been hurt in her past, but she still managed to come out so kind and patient and trusting. And now she was wrapped up in this whole Ravelling mess, but she still found the energy to care for <em>me</em>. I <em>couldn't</em> let her get hurt again. Not by anyone else. And especially not by me.
-
-I started getting jittery just sitting on the couch next to her. So I got up and started pacing around the room.
+I was getting jittery just sitting on the couch next to her. So I got up and started pacing around the room.
 
 Everything in Yali's house was neat and orderly. Her shoes were all in a row next to the door, with her coats hanging just above. At the other end of the room there was a kitchen area, with a clean sink – no dirty dishes stacked in it like there always were at my place. ("A dirty kitchen means an uncivilized life", Dad always complained, not that <em>he</em> cleaned up any more than the rest of us.) The only thing that wasn't in order was my own bags, which I'd just thrown on the floor at random.
 
@@ -575,7 +569,7 @@ Back in the other direction was a big window, with some nice curtains. I liked t
 
 Just then, I heard Yali jerk awake behind me. I rushed over to her.
 
-She didn't even lift her head, but her eyes focused on me, so I could tell she was back. "You can… talk… to Layo," she said dully.
+She didn't even lift her head, but her eyes focused on me, so I could tell she was back. "You can… talk to… Layo," she said dully.
 
 "You okay? Can I get you anything?"
 
@@ -585,31 +579,27 @@ She didn't even lift her head, but her eyes focused on me, so I could tell she w
 
 "Tell… nothing."
 
-"I can't tell my parents anything?" Yali nodded. But why? I wasn't exactly <em>looking forward</em> to telling them, but they'd keep my secrets if I asked them to, wouldn't they? "What did you see?" I asked.
+"I can't tell my parents anything?" Yali nodded. "What did you see?"
 
 "Bad… futures. Don't… see you… again."
 
-"If I tell my parents, you and me won't see each other again? Is that what happens when those people hear about you? The ones you don't want to find out about you being –"
+"Is that what happens when those people hear about you? The ones you don't want to find out about you being –"
 
 "Could… be."
 
-But it could <em>not</em> be? A horrible thought crept into my head. A lot of people thought Blood worship was monstrous – especially the Stern, and <em>especially</em> my parents. If they knew I was the Blood Child... "You don't think my <em>parents</em> would take me away?!"
-
-Yali said nothing.
-
-"Or it could just be the Stern Temple. Maybe Mom would go and ask the Stern for 'guidance'… And then they'd…" What would they do? Throw me in jail? Try to brainwash me? "Is that it? Is that what would happen?"
+But it could <em>not</em> be? A horrible thought crept into my head. "Do you think it's the Stern Temple? Maybe Mom would go to the Stern for 'guidance'… And then they'd…" What would they do if they knew I was the Blood Child? Throw me in jail? Try to brainwash me?
 
 "Don't… know."
 
-So that was it, then. We just didn't know. 24 hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today… it didn't really affect me. It was just another thing dragging on me. There were already so many.
+So that was it, then. We just didn't know. Twenty-four hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today, it was just one more thing on the pile.
 
 "Okay. Whatever it is, I won't tell them anything. Did you see anything else?"
 
 "Trust… Layo. Rest is… details… tell you when…"
 
-"You'll tell me the details when you're less exhausted? Of course. I totally get it."
+"You'll tell me later? Of course. I get it, you need rest."
 
-"Now, need rest. You too. I can call… taxi…"
+"You too. I can call… taxi…"
 
 "A taxi for me to get home? Seriously? It's all downhill."
 
@@ -623,11 +613,7 @@ So that was it, then. We just didn't know. 24 hours ago, that would've been a pr
 
 "Hmm." I knew that sound. There was the sound Yali made whenever she gave up on arguing me out of something.
 
-"Anyway," I continued, "is it even okay for me to leave you like this?"
-
-"I'll… recover. Just bring… food." I hurried to bring her another one of the sienkah fruit. When I got there, she tapped a hand on the couch next to her, meaning for me to leave it there. "Eat… later. Thanks. Now… goodnight hug."
-
-I hugged her tight again, but this time her body was limp and unresponsive. I could tell that my touch didn't mean very much to her when she was like this. I stood up, and, hoping my feelings would reach her, I said, "I love you. Good night."
+I hugged her tight again, but this time her body was limp and unresponsive. I could tell that my touch didn't mean much to her when she was like this. I stood up, and, hoping my feelings would reach her, I said, "I love you. Good night."
 
 "…night."
 
@@ -637,9 +623,7 @@ It was an easy route, just like I'd said. But being on my feet always helped me 
 
 As I ran down the nighttime streets, it all still felt a little unreal to me. But when it came down to it, maybe it wasn't that complicated after all. <em>Protect Yali. Protect myself.</em> When I thought about it that way, it didn't seem so hard to handle.
 
-Then it hit me how tired I was. Not from the running, naturally. But it would be so good to just be at home in bed. I counted off the buildings as I passed. One less to go until I get there… another…
-
-Finally I got all the way down to my own street. It was pretty dark from all of the burnt out streetlights, but I knew this place like the back of my hand. I casually avoided the familiar potholes leading up to my house, then slipped in through the door, careful not to wake anyone. Upstairs, I threw myself into bed, and I was asleep as soon as I hit the sheets.
+The streets near my home were pretty dark from all the burnt out streetlights, but I knew this place like the back of my hand. I avoided the familiar potholes leading up to my house, then slipped in through the door, careful not to wake anyone. Upstairs, I threw myself into bed. I was asleep as soon as I hit the sheets.
 
 ''',
 },
