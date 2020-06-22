@@ -453,13 +453,9 @@ Yali shrugged. "It's true, I live in a boring place."
 
 I kicked the table. "For fuck's sake! I don't want us to die without even knowing why!"
 
-"I'm sorry. I wish I could tell you something else. I even tried to look it up, but the temples are pretty secretive about their records, and –"
+"I'm sorry. I wish I could tell you something else. I even tried to look it up, back at the start of August when I was Chosen. but the temples are pretty secretive about their records, and –"
 
-"Nah, I get it. If we don't know, we just don't know." I sighed. "So the gods really take, like, a whole year just to think about something?"
-
-"Yes. There's a cycle to it. Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year. Here's where the Ravelling starts, around the start of November." She marked one point on the circle. "And here's where it ends, around the start of February. Those are the events that everyone knows about. But that's only one quarter of the year. There's also <em>here</em> and <em>here</em>. From February to May, they finish assimilating their new human threads. That's like their way of learning from the human they picked. Then from May to August, that's when they're most active in the material world. And at the start of August, they pick the next year's Ravellers and start preparing for winter again. So it's like… They use us to dream up new ideas in the winter, refine the ideas in the spring, try them out in the summer, and then use the autumn to prepare for the next round."
-
-Something was bugging me. "They pick us out at the start of August? That's just before when you…" I stopped.
+Something was bugging me. "They pick us at the start of August? That's just before when you…" I stopped.
 
 "It's okay. You can ask."
 
