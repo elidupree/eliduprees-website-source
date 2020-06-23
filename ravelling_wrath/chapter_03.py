@@ -96,7 +96,7 @@ Guess I had to say something. "I was hanging out with Yali yesterday."
 
 The mention of <em>telling the truth</em> made my mind snap into a frenzy. <em>Parents… tell nothing</em>, she'd said. Well what if – maybe it was better if they <em>didn't</em> even think it was the truth!
 
-"Fine, I wasn't at Yali's! I was –" Stern take it, I was no good at making up stories – "You know what, never mind! It's not important!"
+"Fine, I wasn't at Yali's! I was –" Stern take it, I was no good at making up stories. "You know what, never mind! It's not important!"
 
 Dad looked like he was gearing up to say something else, but Mom touched his hand, meaning, <em>Let me handle this</em>. Then she said, "Rinn, we can tell it was something serious."
 
@@ -130,13 +130,13 @@ Finally an idea scraped out. It was rough, but I didn't have anything else, so i
 
 "What?"
 
-"It was a lie," I said. Mom had figured that out, but she had an annoying habit of not explaining things to Dad when he hadn't caught up. "I panicked and thought I was about to break my promise, so I just… you know what, never mind."
+"I <em>was</em> with her. I lied when I said I wasn't." Mom had figured that out, but she had an annoying habit of not explaining things to Dad when he hadn't caught up. "I panicked and thought I was about to break my promise, so I just… you know what, never mind."
 
 "That was… misguided, –"
 
 "I just got out of bed! You can't expect me to be, uh, right-guided about everything!" It was a relief to just be able to be annoyed about something I was actually annoyed about.
 
-"Misguided, but also honorable. You thought you were protecting your friend's secret." I winced internally at "friend" – <em>we were dating, for gods' sakes</em> – but I had bigger things to worry about right now.
+"– misguided, but also honorable. You thought you were protecting your friend's secret." I winced internally at "friend" – <em>we were dating, for gods' sakes</em> – but I had bigger things to worry about right now.
 
 "Rinn," said Mom tiredly. She had put her hand to her forehead with an expression that said, <em>I can't believe you two</em>. "What's the circumstance with Yali? Does she need help?"
 
@@ -162,7 +162,7 @@ I gave an internal sigh of relief. Mom wasn't trying to press the issue. I could
 
 <bigbreak>
 
-I met Layo at lunch that day. I gave our usual greeting, running up and giving him a big hug. He hugged me back and grinned at me.
+I met Layo at lunch that day. I ran up and gave him a big hug – our usual greeting. He hugged me back and grinned at me.
 
 "Hey hey, what's up?"
 
@@ -214,7 +214,7 @@ Layo swallowed whatever he was going to say next. I wasn't sure how he was feeli
 
 "I know perfectly well it wasn't. Rinn –"
 
-"Leave her alone, lunch fascist!" said another voice. Some of my other friends were showing up. Dehel, the one who'd yelled, always made a splash – he towered over everyone and wore asymmetric makeup on purpose, you couldn't miss him. After him, Pèi was hurrying to keep up, with her spiky collar and duct-taped jeans, looking like she was gearing up to say something sarcastic. And behind <em>her</em>…
+"Leave her alone, lunch fascist!" said another voice. Some of my other friends were showing up. Dehel, the one who'd yelled, always made a splash – he towered over everyone and wore asymmetric makeup on purpose, you couldn't miss him. After him, Pèi was hurrying to keep up, with her spiky collar and duct-taped jeans, looking like she was gearing up to say something sarcastic. And behind <em>her</em> –
 
 "Everyone calm down," I said, laughing. I wasn't <em>against</em> yelling at a few authority figures, but I had better things to do right now. "I promise I'll clean it up, okay?"
 
@@ -238,9 +238,9 @@ As soon as I had a moment alone in the halls, I pulled out my phone and started 
 <p class="text right">sure thing ❤ ❤ ❤</p>
 <div class="clear"></div>
 
-When I caught up to Yali after school, she didn't see me at first. She had her bags next to her on the bench, and she was sitting with her elbows resting on her knees, looking totally exhausted.
+When I caught up to Yali after school, she didn't notice me at first. She had her bags next to her on the bench, and she was sitting with her elbows resting on her knees, looking totally exhausted.
 
-"Yaliiiiiiiii!!"
+"Yaliiiiiiiii!!" I yelled extra loud so she could hear me through her noise-cancelling headphones.
 
 When she saw me, she stood up right away. I ran to her and hugged her fiercely. Then I pulled back and took another look at her. She was slightly smiling, looking like her regular self <em>now</em>, but… "No seriously, are you okay?" I said. "You looked like you were totally –"
 
@@ -268,7 +268,7 @@ I took her hand and we started walking.
 
 "Aww. I love hearing stories about you being irresponsible."
 
-"You whaaaaaaat?! I only wasn't going to tell you because you're always telling me to be careful and stuff –"
+"You whaaaaaaat?! I only wasn't going to tell you because you're always telling me to be careful and shit –"
 
 "I don't want you to get hurt <em>now</em>! But if it already happened – By the Stern, if I've missed out on four and a half weeks of fun stories because you thought I wouldn't like them…"
 

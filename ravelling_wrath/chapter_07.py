@@ -435,7 +435,7 @@ Almost before I started speaking, Morrow dragged me off to have more fun on the 
 
 "Yeah, but if we haven't figured that out in the last five hours, we're probably not gonna figure it out in one or two more. I'm going to bed."
 
-Ignoring Morrow's complaints, I went back to the topside and went to bed. Yali was already in her own bed, wearing her noise-canceling headphones. I quickly saw why. Even though Morrow stayed on the underside while we slept, he made a huge racket. Every few minutes, there was a yell or a crash or a big explosion.
+Ignoring Morrow's complaints, I went back to the topside and went to bed. Yali was already in her own bed, wearing her noise-cancelling headphones. I quickly saw why. Even though Morrow stayed on the underside while we slept, he made a huge racket. Every few minutes, there was a yell or a crash or a big explosion.
 
 "Can you be quieter down there?!" I yelled.
 
@@ -475,7 +475,7 @@ At the end of <em>that</em> day, things went more or less the same.
 
 "Okay, got it, you're twelve," I said. He was clearly way older than twelve, but I was hoping to provoke him into telling me his actual age. It didn't work. He just jokingly manifested a birthday cake with twelve candles, blew them out, started eating the cake, and then got bored of eating the cake and dumped it on the floor.
 
-"See you tomorrow." My short rest the previous night had left me pretty tired, so this time I went to bed earlier. Yali was still up. Knowingly, she handed me a set of earplugs and noise-canceling headphones. "Thanks a bunch," I muttered. I put them on, then collapsed into bed.
+"See you tomorrow." My short rest the previous night had left me pretty tired, so this time I went to bed earlier. Yali was still up. Knowingly, she handed me a set of earplugs and noise-cancelling headphones. "Thanks a bunch," I muttered. I put them on, then collapsed into bed.
 
 When I got up the next day, the star was strangely quiet, even after I took out the earplugs. Confused, I went to the underside to check on Morrow. I found him sprawled facedown over a heap of random junk, drooling. He didn't look injured, so the lack of sleep had probably caught up to him.
 

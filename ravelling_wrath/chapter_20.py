@@ -124,7 +124,7 @@ The Blood Temple didn't have separate courthouses like the Stern. Legal proceedi
 
 I arrived early, of course. The judge – no, the <em>Speaker</em> – was already in the room, standing forebodingly in the traditional long red robes and mask that completely covered their face. I couldn't even tell if it was a man or a woman. I had to remind myself that this wasn't Stern court. A Speaker, short for <em>Speaker for the blood of the city</em>, had almost arbitrary power to make legal decisions, and was only accountable to the Blood Temple's Circle of Elders. If I wanted to be successful, this was the person I had to convince.
 
-"Speaker," I greeted, slightly bowing my head. From what I had learned, showing any more deference than that would be seen as groveling. The Speaker nodded back.
+"Speaker," I greeted, slightly bowing my head. From what I had learned, showing any more deference than that would be seen as grovelling. The Speaker nodded back.
 
 Soon, the other parties filtered into the makeshift courtroom. The thief girl didn't look quite how I had imagined her. She came in nervously, holding herself upright, wearing a plain, conservative dress. She was almost pretty. But I could see her piercings, and as soon as she spoke, I could hear the vulgar way she talked. She was clearly fifth-ring trash. No doubt this was her <em>only</em> conservative dress, and she paraded around the streets in straps that barely covered up those oversized breasts – not that I paid attention to that. <em>I</em> was a professional, after all. When she entered, I shook her hand firmly, looking her steadily in the eye while <em>she</em> shied away, and gave a polite –
 

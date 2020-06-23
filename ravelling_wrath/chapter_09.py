@@ -514,7 +514,7 @@ I struggled to pull myself out, but it was no use. I saw Alchemist looking aroun
 
 The walls fell open, revealing a black space above and around us. Moments later, huge tentacles rose up and plucked Alchemist into the air. Not missing an opportunity, I rolled off to the side and sprang to my feet, whipping out a couple of Blood Blades to fight whatever sort of tentacle monster the Seeking God was throwing at us now. But when I looked, Alchemist was happily dangling by their waist and giggling. I looked where the tentacles were coming from, and they actually came from Morrow. They were just made out of some sort of rubber.
 
-"Wait, we can manifest again now?" I said. "Then that's enough of this bullshit!" Channeling my strength, I manifested away all my bruises.
+"Wait, we can manifest again now?" I said. "Then that's enough of this bullshit!" Channelling my strength, I manifested away all my bruises.
 
 "If we are all out of danger," said Justicar soberly, "then I believe the Alchemist owes us an apology for not moving when we needed him –"
 

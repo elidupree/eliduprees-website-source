@@ -128,7 +128,7 @@ I tried to make it go away. Wasn't the loopy thing supposed to make it go away? 
 
 Whatever. I could just put up with it. I gave up and kept walking.
 
-Our feet steadily clanked along the walkway. Before long, Justicar broke the silence again. "I am still concerned for the Alchemist," she said. "I traveled with him earlier, and he did not seem prepared for the challenges ahead. And the Imminent is, of course, not a responsible guardian for him."
+Our feet steadily clanked along the walkway. Before long, Justicar broke the silence again. "I am still concerned for the Alchemist," she said. "I travelled with him earlier, and he did not seem prepared for the challenges ahead. And the Imminent is, of course, not a responsible guardian for him."
 
 She wasn't wrong. But it would be such a downer if I just agreed with it. "They'll be fine!" I said. "And how come you always call Alchemist 'he'?"
 
@@ -170,7 +170,7 @@ Justicar was quicker. Right away, she leapt in between me and the source of the 
 
 "The question is, how will we get past the dead end directly in front of us? That lever must open a new passage, but how –"
 
-Ahead of us, the glass walls funneled us into a short hallway, and at the end of the hallway, there was a lever. But before the lever, there was a giant hole in the floor, cutting completely across the hall.
+Ahead of us, the glass walls funnelled us into a short hallway, and at the end of the hallway, there was a lever. But before the lever, there was a giant hole in the floor, cutting completely across the hall.
 
 I sized up the hole. "I could jump that, easy."
 
@@ -949,7 +949,7 @@ I stumbled and landed on my hands and knees.
 
 What had just happened? I looked around. It looked like a pretty normal place, as much as any part of the Seeking God's world was normal. It was just a foggy landscape of sand and smooth rocks. The only weird thing was a bunch of ladders sticking vertically out of the ground.
 
-Where was I?! I summoned the map in my hand, a horrible feeling sinking into my chest. On a gut level, I already knew I was fucked. But I had to know. Staring into the map, I zeroed in on the Watchful Eye, right where it was before. And then I looked for where I was, for the Burning Heart. I saw the map zoom away from the courthouse, sweeping past every puzzle Justicar and I had done, sweeping past the fountain room itself. And it didn't stop there. I saw caves and castles and labyrinths sweep by, impossible landscapes and mazes of flowing ice. By the time it reached the Burning Heart, it had gone further than the entire distance I'd traveled in this world. I was the farthest away from Yali that I could <em>possibly</em> be.
+Where was I?! I summoned the map in my hand, a horrible feeling sinking into my chest. On a gut level, I already knew I was fucked. But I had to know. Staring into the map, I zeroed in on the Watchful Eye, right where it was before. And then I looked for where I was, for the Burning Heart. I saw the map zoom away from the courthouse, sweeping past every puzzle Justicar and I had done, sweeping past the fountain room itself. And it didn't stop there. I saw caves and castles and labyrinths sweep by, impossible landscapes and mazes of flowing ice. By the time it reached the Burning Heart, it had gone further than the entire distance I'd travelled in this world. I was the farthest away from Yali that I could <em>possibly</em> be.
 
 "I'LL KILL YOU!!!" I roared. I snatched up a rock in my hand, and, imagining that it was the Seeking God, I smashed it to pieces. Then I sprouted a Blood Blade from my heel and stomped on the broken rock, slicing it into smaller and smaller slivers. "YOU THINK YOU CAN JERK ME AROUND, LIKE THIS IS ALL A BIG GAME?! I AM BLEEDING ON THE FLOOR, AND YOU STILL USE MY HEART AS A PLAYTHING?! I DON'T CARE IF YOU'RE A GOD! I WILL TEAR YOU TO PIECES!" I whirled around, my arm whipping into a long blade with a bleeding edge, my eyes trying to zero in on whatever looked most like the heart of the god.
 
