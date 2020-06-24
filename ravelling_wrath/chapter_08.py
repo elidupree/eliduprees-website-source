@@ -9,15 +9,22 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 8",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "blurb_image": "/media/ravelling-wrath/sketches/ch8.jpg?rr",
   "authors_notes":'''
 
 
   ''',
   "head":head,
-  "chapter_title": "",
+  "chapter_title": "The Alchemist",
   "contents": '''
+
+<bigbreak>
+<div class="novel-current-status">
+
+Note for past readers: I've renamed the "layers of the city" to "rings of the city" (so now there are "rings of the city" and "layers of the Otherworld"). Sorry about the confusion, but the good news is that I've finally replaced the super confusing physical description of the city in Chapter 1, haha.
+
+</div>
+<bigbreak>
   
 "So," I said, summarizing the last hour of discussion, "the Alchemist is, like, infinitely far away. They broke their star, and it's not on the pattern anymore. We don't know if they did it on purpose. We don't know if they have any control over where it's going. And <em>we</em> have no way to get off the pattern to follow them, because what they did was probably an Alchemist power. And we have no way to communicate with them. And Yali's power is useless as usual, because apparently the Waiting God still thinks this is part of the challenge. And even if the Alchemist <em>did</em> figure out where we are, and <em>could</em> move their star on purpose, they might crash into us really fast, because they don't have the pattern to slow them down at the right moment. It would be even worse than what happened with Morrow, because, uh…"
 
@@ -35,7 +42,7 @@ posts = [
 
 Yali shook her head. "What we see in the telescope isn't the literal light of the stars at all. It's a soul thing."
 
-"But we can see where the other Ravellers are! So we could move around in the stars and spell out a message! Like skywriting!" exclaimed Morrow. But then he drooped. Even Morrow could see the obvious flaws with that plan.
+"But we can see where the other Ravellers are! So we could move around in the stars and spell out a message! Like skywriting!" exclaimed Morrow. But then he drooped. Even Morrow could see how impractical that plan would be.
 
 "There's <em>gotta</em> be something," I said. "We've all got magic powers! And if we're lucky, all we need is to talk at a long distance! Doesn't any of us have any powers that work at a distance? Hey, Justicar, I saw you manifesting at a distance earlier, can you manifest a message to where the Alchemist is?"
 
@@ -47,7 +54,7 @@ Yali shook her head. "A Farseer's powers only ever gather information, not chang
 
 "Uh, Morrow…? I mean, you <em>did</em> say you smelled Yali's mind from space?"
 
-"That might actually work," said Yali. "The mind is part of the soul. And our souls aren't necessarily considered 'far away from each other' just because our bodies are…"
+"It's worth a try," said Yali. "The mind is part of the soul. A power that works on souls wouldn't necessarily be limited by <em>physical</em> distance…"
 
 "Ooh! So I could sniff around for the Alchemist! I could totally do that, what if –" Morrow threw his head back, pointing his face up into space.
 
@@ -145,11 +152,11 @@ What's more, in between talking to the Alchemist, he actually <em>paid attention
 
 "You <em>like</em> them, don't you?" I said. He just kept smiling and stared past me into space. Haha, he was lovestruck for sure.
 
-After a lot more confusion and miscommunications with telling Neenu where to go, they finally got here. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff. Yali spent the whole time half-in-half-out of the Seeing, making sure Morrow's instructions weren't going to make Neenu crash into us. When she was finally within a few meters of our own star, she zoomed straight towards it, then bumped and bounced against the edge of our star happily.
+Predictably, there was a lot more confusion and miscommunications with telling Neenu where to go. But she finally made it. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff. Yali spent the whole time half-in-half-out of the Seeing, making sure Morrow's instructions weren't going to make Neenu crash into us. When she was finally within a few meters of our own star, she zoomed straight towards it, then bumped and bounced against the edge of our star happily.
 
 Happily? How could I tell that she was happy? She was just a solid platform like all the others.
 
-We all rushed to the edge to greet the Alchemist. They stood nervously at the edge of Neenu, alternately blinking across at us and looking down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced. The Alchemist didn't look like they were ready for this. They were dressed in a loose bathrobe, as if they had just been plucked out of bed and plopped down on the star.
+We all rushed to the edge to greet the Alchemist, who was standing nervously at the edge of Neenu. One moment, their big soft eyes blinked across at us, and the next, they looked down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced. The Alchemist didn't look like they were ready for this. They were dressed in a loose bathrobe, and it looked like they had just been plucked out of bed and plopped down on the star before they had a chance to wake up.
 
 <img class="sketch" style="max-width: 50%" src="/media/ravelling-wrath/sketches/alchemist.jpg?rr" alt="">
 
@@ -157,15 +164,15 @@ We all rushed to the edge to greet the Alchemist. They stood nervously at the ed
 
 "It's just a little jump. You can do it!" I said.
 
-"Or WE could all go ride on Neenu!" yelled Morrow, jumping across. He immediately ran and grabbed the Alchemist in a big hug, knocking them off balance. Then just as suddenly, he pulled back and started being gentle instead, laying his arms softly around the Alchemist's shoulders.
+"Or WE could all go ride on Neenu!" yelled Morrow, already jumping across. He immediately ran and grabbed the Alchemist in a big hug, knocking them off balance. Then just as suddenly, he pulled back and started being gentle instead, laying his arms softly around the Alchemist's shoulders.
 
-I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I felt completely stable now that I was standing on her. It looked like the <em>other</em> star was the one that was bouncing around.
+I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I felt completely stable now that I was standing on her. From here, it looked like the <em>other</em> star was the one that was bouncing around.
 
-"I can't do it," said Yali, standing at the edge of our old star and shuddering.
+"I can't do it," said Yali, standing at the edge and shuddering.
 
 "What do you mean, you can't –"
 
-"It's the Waiting God. It <em>knows</em> where that star is supposed to be! That is just… <em>wrong</em>! Or… I should say, the Waiting God thinks it's wrong…" After hesitating for a while, Yali made a running jump and landed on Neenu, then collapsed to the ground.
+"It's the Waiting God. It <em>knows</em> where that star is supposed to be! This is just… <em>wrong</em>! Or… I should say, the Waiting God thinks it's wrong…" After hesitating for a while, Yali made a running jump and landed on Neenu, then collapsed to the ground.
 
 I rushed to her side. "You okay there?!"
 
@@ -175,7 +182,7 @@ I rushed to her side. "You okay there?!"
 
 "That, that… actually helps," she said.
 
-I sat with her and manifested a huge mat for both of us to sit on. "This is a, uh, a magic mat that can fly in empty space, see?" I joked. Yali smiled.
+I sat with her and manifested a huge mat for both of us to sit on. "This is a, uh, a magic mat that can fly in empty space, see?" I joked. Yali gave a half smile.
 
 Now, only Justicar was left on the other star.
 
@@ -289,7 +296,7 @@ By "those two", he must have meant Yali and Justicar. "What about me?" I said.
 
 "No, I'm not."
 
-"There's the denial…" said Justicar.
+"There's the denial…" said Justicar knowingly.
 
 "Hey!" <em>That's not fair</em>, I thought, but this time my mind managed to get a step ahead. I shut my mouth instead. Yali chuckled.
 
@@ -305,7 +312,7 @@ Yali gently pulled my hand back down. "I can tell one," she said.
 
 <bigbreak>
 
-<div class="Yali_narration">
+<div class="yali-narration">
 
 This is a story that was first told to me by… my mother, when I was very small. It was told to her by her own mother, who first heard it in… a temple, told by a priest who read it from the archives, written by an unknown hand.
 
@@ -313,15 +320,15 @@ In the early days of the city, before the walls went up, there was a family who 
 
 "Why do you always play alone?" asked the other children. "Why do you bury acorns, like a squirrel?" But she just laughed to herself and kept digging.
 
-Seasons turned from sun to snowfall, snowfall to sun. Seed became shoot, and shoot became sapling. In the course of time, the child grew to her adolescent years. Time found her wandering the orchards, following and listening to anyone who would teach her of nature's secrets.
+Seasons turned from sun to snowfall, snowfall to sun. Seed became shoot, and shoot became sapling. In the course of time, the child grew into adolescence. Time found her wandering the orchards, following and listening to anyone who would teach her of nature's secrets.
 
-"Why do you spend all your time in the orchards?" her uncles asked. "Other children your age are competing at the carnivals, learning trades, finding love. Don't you want to do those things yourself?" But she just smiled and said nothing.
+"Why do you spend all your time in the orchards?" her uncles asked. "Other children your age are competing at the carnivals, learning trades, finding love. Don't you want to those things for yourself?" But she just smiled and said nothing.
 
-Seasons turned from sun to snowfall, snowfall to sun. Seed became shoot, and shoot became sapling. In the course of time, the child grew into an adult. Time found her wandering the city, a bag of seeds in hand. Up one street and down another she walked, and in the course of time, every country road felt her footsteps. Time by time, she stopped at a street corner. Time by time, she knelt down, with her little trowel and her bags of seeds. Time by time, her fingertips pressed a seed into the soil.
+Seasons turned from sun to snowfall, snowfall to sun. Seed became shoot, and shoot became sapling. In the course of time, the child grew to adulthood. Time found her wandering the city, a bag of seeds in hand. Up one street and down another she walked, and in the course of time, every country road felt her footsteps. Time by time, she stopped at a street corner. Time by time, she knelt down, with her little trowel and her bags of seeds. Time by time, her fingertips pressed a seed into the soil.
 
 "Why do you only wander and plant seeds?" asked the strangers she met on the roads. "Is there not a family waiting for you at home? Do you not have your own life to attend to?" But she just smiled and said nothing.
 
-Seasons turned from sun to snowfall, snowfall to sun. Seed became shoot, and shoot became sapling – and as the years passed by, sapling became tree. And in the course of time, the child grew old. Along the sides of every country road, stately trees rose up. On summer days when the sun was bright, they gave weary travelers shelter from the heat. And when they bloomed, children all over the city climbed in their boughs to pick the fruit. The city's people were happy when they saw the trees, and from time to time, someone would look up and remember the stranger they had seen wandering and planting seeds not so many years before.
+Seasons turned from sun to snowfall, snowfall to sun. Seed became shoot, and shoot became sapling – and as the years passed by, sapling became tree. And in the course of time, the child grew old. Along the sides of every country road, stately trees rose up. On summer days when the sun was bright, they gave weary travelers shelter from the heat. And when they bloomed, children all over the city climbed in their boughs to pick the fruit. The city's people were happy when they saw the trees, and time by time, someone would look up and remember the stranger they had seen wandering and planting seeds not so many years before.
 
 "Ah," said an old man. "Now I understand. The city is richer for your work, and you may now relax in the shade of the many beautiful trees you have brought us. But you and I grow old, and time flows swiftly. Every day I see you bend your back to plant another seed, but surely you must know that you may not live to see it blossom."
 
@@ -369,9 +376,9 @@ I hadn't thought about that, but it was true. There was one portal for each of u
 
 Justicar raised an eyebrow. "If it helps… there is always a choice."
 
-"Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private information, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess, the place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
+"Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private information, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess. The place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
 
-There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had been mostly resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer. I could feel the excitement building up in my chest. But at the same time, there was also a slow uncertainty.
+There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had pretty much been resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer. I could feel the excitement building up in my chest. But at the same time, there was also a slow uncertainty.
 
 In the silence, Alchemist made a small sound under their breath.
 
@@ -381,13 +388,13 @@ In the silence, Alchemist made a small sound under their breath.
 
 "How would a star drink a –" I began before Morrow shushed me.
 
-"I'm afraid it's impossible," said Yali. "Even if she is physically somewhere else, she is still made almost entirely from the Waiting God's threads. When the five Ravellers have passed through the portals, the Waiting God will reabsorb this world, and Neenu along with it."
+"I'm afraid it's impossible," said Yali. "Even if she was able to physically leave this layer, she is still made almost entirely from the Waiting God's threads. When the five Ravellers have passed through the portals, the Waiting God will reabsorb this world, and Neenu along with it."
 
 "So she'll just be… gone?" Alchemist's eyes were big and sad, their mouth hanging slightly open.
 
 "It's okay!" I said hastily. "It's still, like, beautiful, that she got to live for at least a little while!" That seemed to make Alchemist even sadder. Stern take it, I never knew what to say to make anyone feel better.
 
-Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said to Alchemist. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way." Yali was talking in a solemn voice. Something about it didn't feel sincere to me, but Alchemist didn't pick up on that.
+Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said to Alchemist. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way." Yali was talking in a weirdly solemn voice. Something about it didn't feel sincere to me, but Alchemist didn't pick up on that.
 
 "Oh…" said Alchemist.
 
@@ -495,8 +502,7 @@ Morrow danced up to me, manifesting piles of gold coins spilling out of his hand
 
 "That's very noble of you," said Justicar.
 
-"You take that back!" I yelled. "I'm not doing it to be noble, he's my friend! And what else would I spend it on, anyway?" I pointed one finger at myself and the other down through the star at Yali.
-"I already have everything I want." 
+"You take that back!" I yelled. "I'm not doing it to be noble, he's my friend! And what else would I spend it on, anyway?" I pointed one finger at myself and another down through the star at Yali. "I already have everything I want." 
 
 Morrow leaned close to my ear. "But do you have… a two story tall chocolate fountain?" He manifested a chocolate fountain near us as he said it. It was only about one story tall, but I wasn't complaining. I stuck my face in it right away. Morrow joined me, and pretty soon we were both licking chocolate off the fountain and grinning at each other's messy faces.
 
@@ -512,7 +518,7 @@ I smiled across at Morrow. "Okay, fine, this is awesome, maaaayyybe I'd buy one 
 
 Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But getting Morrow calmed down was more important.
 
-Morrow didn't seem to be listening to me, so I decided to distract him instead. "Check <em>this</em> out!" I said, manifesting a whole bunch of fireworks. I messed up lighting them because I'd never actually gotten use one before – there was one time when I'd been out with some older kids who smuggled them into the city, but I'd barely gotten my hands on one before someone snatched it away to stop me burning myself. So at first, I accidentally shot one onto the ground, where it set a cabinet on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I said to Morrow as I made bright trails across the sky.
+Morrow didn't seem to be listening to me, so I decided to distract him instead. "Check <em>this</em> out!" I said, manifesting a whole bunch of fireworks. I messed up lighting them because I'd never actually gotten to use one before – there was one time when I'd been out with some older kids who smuggled them into the city, but I'd barely gotten my hands on one before someone snatched it away to stop me burning myself. So at first, I accidentally shot one onto the ground, where it set a cabinet on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I said to Morrow as I made bright trails across the sky.
 
 Morrow started furiously manifesting fireworks of his own.
 
@@ -530,7 +536,7 @@ I cursed inwardly. "Sure, but why?" I said out loud.
 
 "I think, I think, maybe it's about the fact that it was <em>my</em> decision? I mean, I didn't decide to tell you until after I saw it, so maybe, maybe…"
 
-"If the Farseer could reliably predict the results of the Farseer's own future decisions," Justicar cut in, "then what would happen if she foresaw a danger? Naturally, she would act to prevent the danger. But then the danger would never occur as she saw it. That would be a contradiction, so it follows that, <em>until</em> the Farseer has committed to a decision, she can still See the results of alternate decisions she could make." She looked out over the edge, speaking her next words to Yali. "Is that not so?"
+"If the Farseer could automatically predict the results of the Farseer's own future decisions," Justicar cut in, "then what would happen if she foresaw a danger? Naturally, she would act to prevent the danger. But then the danger would never occur as she saw it. That would be a contradiction, so it follows that, <em>until</em> the Farseer has committed to a decision, she can still See the results of alternate decisions she could make." She looked out over the edge, speaking her next words to Yali. "Is that not so?"
 
 "Something like that, yes. Now, if I may…?"
 
@@ -620,7 +626,7 @@ Before long, Yali drank one of the flying potions herself, and rose into the air
 
 I wasn't really expecting her to go along with that, but she did. "I'll race you!" she said loudly. Then she zoomed off into space.
 
-I zoomed after her. The air whooshed past us. Before long, we were high up above the star, so high that it was only a tiny speck in the distance. It wasn't much of a race – as it turned out, no matter how hard I pushed, we both went the same speed. I couldn't beat Yali's head start.
+I zoomed after her. The air whooshed past us. Before long, we were high up above the star, so high that it was only a tiny speck in the distance. It wasn't much of a race – as it turned out, no matter how hard I pushed, my potion wouldn't fly me any faster than hers did. I couldn't beat Yali's head start.
 
 Just when I was about to yell after her, Yali turned around and waved for me to come closer. She slowed down, letting me fly up to her. I flew straight into her and grabbed her in a big hug. We collided a little off-center, sending us both spinning around each other as we held on together. Or, it was more like me spinning around her while she spun in place, since she was way heavier than I was.
 
@@ -694,13 +700,13 @@ I laughed. "Now you've made it sound like no big deal! So if you were trying to 
 
 "I, I, –"
 
-I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. Got some gods getting you down? We'll 'handle' them. Heh. No biggie."
+I kissed her on the cheek. "Hi, we're Yalkatura! We, er, <em>handle</em> gods. Got some gods getting you down? We'll 'handle' them. Heh. No big deal."
 
 <bigbreak>
 
 We were getting close to the first portal. The one I was going to go into.
 
-I felt like I was constantly on the edge of my seat, but at the same time, there was nothing for me to do. Morrow and Justicar were hard at work directing Neenu towards the portal, and they didn't want any distractions. I was excited to get there, but it was taking ages. At least it left me and Yali a bit of time to sit together before we got there.
+I felt like I was constantly on the edge of my seat, but at the same time, there was nothing for me to do. Morrow and Justicar were hard at work directing Neenu towards the portal, and they didn't want any distractions. I was excited to get there, but it was taking ages. At least it left a bit of time for me and Yali to sit together before we got there.
 
 "So, there's something I've been wondering…" I said, trying to fill the time.
 
@@ -716,7 +722,7 @@ Yali's eyes drifted into the distance. "Ah… I think there's one of me who's ex
 
 "All magic is technically manifesting," she began. "And manifesting is when a soul, or a thread of a soul, exerts its will on matter, or on other souls. The thing that we <em>call</em> manifesting is when a person does this directly, using their own soul just as it is, without changing it. Our souls aren't built to influence matter, so this is only possible in the Otherworld. Or if you're a god.
 
-"But there are other ways to use the power of manifesting. The most powerful way is to remove a thread from your own soul, then wind it into the perfect shape to do what you want. This is what we call <em>sorcery</em>. It's very powerful and versatile, but every sorcery has a permanent cost to your soul. Our souls have thousands of threads, so it doesn't ruin you immediately, but you can't cast a new sorcery every day without being changed. So professional sorcerers usually store sorceries in physical objects, so that they can be saved until they're needed, or even reused. If you've ever used a magic wand, that's a sorcery linked to a physical object. So are some potions.
+"But there are other ways to use the power of manifesting. The most powerful way is to remove a thread from your own soul, then wind it into the perfect shape to do what you want. This is what we call <em>sorcery</em>. It's very powerful and versatile, but every sorcery has a permanent cost to your soul. Our souls have thousands of threads, so it doesn't ruin you immediately, but you can't cast a new sorcery every day without being changed. So professional sorcerers usually store sorceries in physical objects, so that a single sorcery can be reused multiple times – or at least saved until the time when it's needed. If you've ever used a magic wand, that's a sorcery linked to a physical object. So are some potions.
 
 "Alchemist's power is similar to sorcery, but it uses the threads of the Broken God's soul instead of their own."
 
@@ -726,15 +732,7 @@ Yali's eyes drifted into the distance. "Ah… I think there's one of me who's ex
 
 "Then there's alchemy. Certain substances have a natural, magical, connection to one of the gods, usually the Broken. And an alchemist – that is, a lowercase-A alchemist – knows how to mix those substances to activate the divine power inside them. So it's technically the god manifesting on the world, just directed by the lowercase-A alchemist.
 
-"Those are the main types of magic. There's a few other terms you might have encountered. When we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So your Blood Blades, Justicar's sword and armor, and Morrow's, Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something.
-
-"And a <em>curse</em> is a special type of sorcery that weaves itself into the victim's soul, so that it's very difficult to remove. There are technically also <em>blessings</em>, which are the same except they're for helping the person instead of hurting them, but they're not used very often."
-
-"Why not?"
-
-"Probably for the same reason that even though we have lots of amazing technology, not many people get surgery to put it inside their bodies."
-
-"Well <em>that's</em> an image."
+"Finally, when we say <em>summoning</em>, that means regular manifesting, but specifically when we manifest using the gods' threads that are inside us. So your Blood Blades, Justicar's sword and armor, and Morrow's, Morrow's… well, I'm not sure about Morrow… are considered <em>summoned</em>. It's generally only possible for Ravellers, but rarely, a priest from the material world can pray and receive divine threads that they can use to summon something."
 
 Yali went quiet for a while. It seemed like she had finished her explanation. I thought about it. Like most people, I had known that alchemy and sorcery were <em>different</em> kinds of magic, but I hadn't really thought about it much beyond that. But now it made a lot of sense.
 
@@ -766,7 +764,7 @@ I jumped up and hurried to the edge to look.
 
 "Woah…"
 
-The portal had caught my eye immediately. In the middle of the star up ahead, there was a simple archway made of the same glowy, white material as the star itself. But when I looked <em>through</em> the archway, I saw… blackness, but it was also like a kaleidoscope. Not a kaleidoscope of color, but of some sort of shimmering energy. It felt like it was drawing me inwards.
+The portal had caught my eye immediately. In the middle of the star up ahead, there was a simple archway made of the same glowy, white material as the star itself. But when I looked <em>through</em> the archway, I saw… blackness, but it was also like a kaleidoscope. Not a kaleidoscope of color, but of some sort of shimmering energy. It felt like it was pulling me inwards.
 
 "What's woah?" said Morrow. He had pulled his face off the ground when we got close, saying that Neenu could take it from here. "That boring old doorway?"
 
@@ -810,4 +808,17 @@ So this was it.
 ''',
 },
 ]
+
+''' I cut this:
+
+
+"And a <em>curse</em> is a special type of sorcery that weaves itself into the victim's soul, so that it's very difficult to remove. There are technically also <em>blessings</em>, which are the same except they're for helping the person instead of hurting them, but they're not used very often."
+
+"Why not?"
+
+"Probably for the same reason that even though we have lots of amazing technology, not many people get surgery to put it inside their bodies."
+
+"Well <em>that's</em> an image."
+
+'''
 
