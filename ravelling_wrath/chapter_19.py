@@ -419,7 +419,7 @@ Thinking about this was making me feel deeply unfulfilled. I wanted something mo
 
 Why couldn't I do it? When I tried, there was a haze in my mind, holding me back. I felt like the world was closing in on me. What was this feeling? It was like I was terrified of… something. Or, that <em>was</em> the feeling. I was terrified.
 
-It didn't make sense for me to be afraid of this! Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! Right now, there was no immediate danger, so it made no sense to be afraid of taking some time to feel things! Wasn't I Yali? Hadn't I let someone stab a blade through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
+It didn't make sense for me to be afraid of this! Hadn't I explained this exact thing to Rinn, only months ago? There was no harm in feeling the feelings if you were going to come back from them afterwards! Right now, there was no immediate danger, so it made no sense to be afraid of taking some time to feel things! Wasn't I Yali Seti? Hadn't I let someone stab a blade through my body just to get what I wanted? And I would do it again without a second thought! Why was this so much harder? Why was this fear, this <em>feeling</em>, getting in the way of me being more Blood?
 
 I stared at the paving stones. I needed to think. I knew I was missing something important, I just couldn't see what.
 
