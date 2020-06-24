@@ -119,7 +119,7 @@ It <em>was</em> pretty irritating having her around, though. Even when she "slep
 
 The days went on. Justicar claimed she had found evidence about the Alchemist's location, although she couldn't pin it down because of some sort of star resonance or something. And she also kept working with Yali to find our final goal – some magic portals that would take us to the next layer. In between that work, Yali and I tried to find time to enjoy ourselves, although it was hard to loosen up with Justicar watching us like a hawk whenever we were close to each other.
 
-Today, Yali was doing her Seeing, as usual. Justicar was sitting up straight on a hard stool, standing guard over her. I slouched in a plush chair nearby. Theoretically, I could have just left and done something else. I could have hung out in my own space on the underside, because neither Yali nor Justicar wanted to go down there. But if Justicar refused to leave me and Yali alone together, I couldn't stand letting Justicar be alone with Yali either. Justicar and by had reluctantly agreed to sit <em>exactly</em> the same distance away from Yali, whenever she was doing the Seeing and unaware of her surroundings.
+Today, Yali was doing her Seeing, as usual. Justicar was sitting up straight on a hard stool, standing guard over her. I slouched in a plush chair nearby. Theoretically, I could have just left and done something else. I could have hung out in my own space on the underside, because neither Yali nor Justicar wanted to go down there. But if Justicar refused to leave me and Yali alone together, I couldn't stand letting Justicar be alone with Yali either. Justicar and I had reluctantly agreed to sit <em>exactly</em> the same distance away from Yali, whenever she was doing the Seeing and unaware of her surroundings.
 
 Getting stiff, I shifted in my chair. Justicar moved her own chair slightly, to make sure I wasn't getting closer than she was. "Stern take it," I muttered. Maybe she was a little closer than me now. But I wasn't <em>that</em> picky. I rolled over and got comfortable again.
 
@@ -435,7 +435,7 @@ Almost before I started speaking, Morrow dragged me off to have more fun on the 
 
 "Yeah, but if we haven't figured that out in the last five hours, we're probably not gonna figure it out in one or two more. I'm going to bed."
 
-Ignoring Morrow's complaints, I went back to the topside and went to bed. Yali was already in her own bed, wearing her noise-canceling headphones. I quickly saw why. Even though Morrow stayed on the underside while we slept, he made a huge racket. Every few minutes, there was a yell or a crash or a big explosion.
+Ignoring Morrow's complaints, I went back to the topside and went to bed. Yali was already in her own bed, wearing her noise-cancelling headphones. I quickly saw why. Even though Morrow stayed on the underside while we slept, he made a huge racket. Every few minutes, there was a yell or a crash or a big explosion.
 
 "Can you be quieter down there?!" I yelled.
 
@@ -475,7 +475,7 @@ At the end of <em>that</em> day, things went more or less the same.
 
 "Okay, got it, you're twelve," I said. He was clearly way older than twelve, but I was hoping to provoke him into telling me his actual age. It didn't work. He just jokingly manifested a birthday cake with twelve candles, blew them out, started eating the cake, and then got bored of eating the cake and dumped it on the floor.
 
-"See you tomorrow." My short rest the previous night had left me pretty tired, so this time I went to bed earlier. Yali was still up. Knowingly, she handed me a set of earplugs and noise-canceling headphones. "Thanks a bunch," I muttered. I put them on, then collapsed into bed.
+"See you tomorrow." My short rest the previous night had left me pretty tired, so this time I went to bed earlier. Yali was still up. Knowingly, she handed me a set of earplugs and noise-cancelling headphones. "Thanks a bunch," I muttered. I put them on, then collapsed into bed.
 
 When I got up the next day, the star was strangely quiet, even after I took out the earplugs. Confused, I went to the underside to check on Morrow. I found him sprawled facedown over a heap of random junk, drooling. He didn't look injured, so the lack of sleep had probably caught up to him.
 

@@ -93,7 +93,7 @@ Yali gave me a Look.
 
 "Oh. I, I guess I hadn't gotten to that part yet." Yali put her finger on the paper again. "What we've talked about so far are just the defenses on <em>this</em> side of the wall. But we can also think about defenses on the <em>other</em> side. I mean, in case you do get angry enough to hurt me even though you love me. Even if that happens, we can still avoid the worst case, if you hurt me in a way that doesn't <em>kill</em> me. So –"
 
-"No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That's – whatever, fine, I get it, I might have to do some things I don't want to do, but even looking past that, this can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free."
+"No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free!"
 
 "Maybe… But if we don't break them down here, then when they break down in the Otherworld, you'll be totally unprepar—"
 
@@ -109,7 +109,7 @@ Yali gave me a Look.
 
 Yali looked down, and for a moment I was worried I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."
 
-That was true. It was still early September, about a month after Yali first asked me out. And everyone knew the Ravelling started around November 1. So we had a couple of months to go.
+That was true. It was still early September, about a month after Yali first asked me out. And everyone knew the Ravelling started around the first of November. So we had a couple of months to go.
 
 "Speaking of time…" Yali said, glancing at the clock.
 
@@ -125,9 +125,9 @@ That was true. It was still early September, about a month after Yali first aske
 
 "They don't mind that I'm a Seti?" she said wryly.
 
-"Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper layers. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
+"Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper rings of the city. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
 
-But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second layer of the city to the fifth layer of the city". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
+But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second ring to the fifth ring". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
 
 I continued, "They're only really mad if they think I'm hanging out with, like, secret Blood worshippers or something."
 
@@ -185,7 +185,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Not exactly. It's more like fragments of possible futures. The way it works is, I think of something I'm planning to do, and it shows me what will happen if I go through with it. So I can think of someone for you to tell about this, and then see if telling them what lead to, to, to anything bad."
 
-"Awesome," I said. I still didn't see why this was so important, but I didn't get to see people doing actual magic very often, so I was excited for this.
+"Awesome," I said. I didn't get to see people doing actual magic very often, so I was excited for this.
 
 "It takes a lot out of me, though. I've only used it twice before," she said. "So I'd like to put that off until later this evening. At the very least we should eat something first."
 
@@ -327,7 +327,7 @@ Just then Yali let go of me, stepped back and closed her eyes again. When she op
 
 "That was fuckin' scary!" I said. "Not in a bad way! I mean, that was the point, right? Why'd you stop?"
 
-Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but it's always good to keep checking."
+Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but the moment you don't check is the moment everything can go wrong."
 
 "The second reason," she continued, "is that I'm not sure <em>I</em> can handle doing that for very long. And the third one is… It wasn't going to work."
 
@@ -337,7 +337,7 @@ Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to ch
 
 "Stern take it all, you know me better than I know myself. You even <em>thought</em> this would happen?!"
 
-"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be... Like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
+"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be… like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
 
 I sighed. "I don't either!"
 
@@ -357,7 +357,7 @@ Yali seemed confused that I'd asked the question. "Uh… yes?"
 
 "Yeah, well, how do I look for the <em>right</em> kind?"
 
-"Well –" There was that exhaustion again. "How about, how about you think about it overnight? That would give you time to, to, to, get more perspectives?"
+"Well –" There was that exhaustion again. "How about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"
 
 Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, and she'd <em>said</em> she was okay, but there was something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
 
@@ -373,17 +373,17 @@ Yali launched into elaborate descriptions of everything, from the starry void of
 
 "So…" I said, "Waiting, Seeking, Stern, Broken, Blood. That's the same order as the city! If you count from top to bottom."
 
-Yali smiled. "That's right. The layers of the city were built to mimic the layers of the Otherworld. That's why the first layer doesn't allow any lights at night – so that you can see the stars."
+Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first ring doesn't allow any lights at night – so that you can see the stars."
 
-"I didn't know that! My parents did take me to a few museums on the second layer when I was a kid. I remember the roads being all twisty and I got really lost. It was built that way on <em>purpose</em>?"
+"I didn't know that! My parents did take me to a few museums in the second ring when I was a kid. I remember the roads being all twisty and I got really lost. It was built that way on <em>purpose</em>?"
 
 "It probably was!"
 
-"And the third layer is obvious, it's boring and strict, just like the Stern. Uh, no offense."
+"And the third ring is obvious, it's boring and strict, just like the Stern. Uh, no offense."
 
 Yali shrugged. "It's true, I live in a boring place."
 
-"What about the fourth layer? It's not all overgrown with plants like you said the Broken God's layer was in the Otherworld. I mean, there's a few parks, but it's mostly packed with buildings."
+"What about the fourth ring? It's not all overgrown with plants like you said the Broken God's layer was in the Otherworld. I mean, there's a few parks, but it's mostly packed with buildings."
 
 "That <em>is</em> strange." Yali thought about it. "Maybe it's because the Broken God doesn't have any laws of its own. Maybe they just allowed people to build anything they want there, and the structure formed naturally. Not naturally like nature, just –"
 
@@ -391,7 +391,7 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "That, that, that's something I don't actually know."
 
-"Oh well. What about the fifth layer, then? How is it like – wait, you haven't told me about the Blood God's layer yet."
+"Oh well. What about the fifth ring, then? How is it like – wait, you haven't told me about the Blood God's layer yet."
 
 "I… didn't get a good look at it. In my memories, I mean. The only time I got there, I died right afterwards."
 
@@ -443,23 +443,19 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "When a human dies, their soul unravels. If that happens, the god has to pull back the threads of its own soul, but the human parts just disperse. It takes the whole winter to fully link the human threads to the god threads. So it really only works if its human host survives to the end. That's what usually happens for the <em>other</em> three gods, but –"
 
-"Then why does – wouldn't all the gods be better off if we just didn't kill each other? If the Blood God and the Waiting God just worked together, wouldn't they both be able to rejuvenate like the others?"
+"Then why do they kill each other?! Wouldn't all the gods be better off if we just didn't kill each other? Then the Blood God and the Waiting God could both rejuvenate –"
 
-"They should be! I have no idea why the Blood God started killing –"
+"They would be! I have no idea why the Blood God started killing –"
 
-"What about your memories? Even if the Blood God didn't, like, explain its reasons, maybe you can see a difference between the years before it started and the years after?"
+"What about your memories? Even if the Blood God didn't, like, explain its reasons – can you think of anything that happened before it started?"
 
-"But I don't <em>have</em> memories from before. I only have the memories of the Farseers who died. Which, which, might make sense? Maybe the Waiting God can't make <em>copies</em> of people's memories, it just has a way to <em>preserve</em> memories from people who died. Then the ones who survived would have brought their memories back to the material world with them. Either way, I don't know about the time before. My first few deaths aren't even much different than the others."
+"But I don't <em>have</em> memories from before. I only have the memories of the Farseers who died. I think the Waiting God can preserve your memories if you die, but can't just copy your memories if you're still alive. Either way, I don't know about the time before. My first few deaths aren't even much different than the others."
 
 I kicked the table. "For fuck's sake! I don't want us to die without even knowing why!"
 
-"I'm sorry. I wish I could tell you something else. I even tried to look it up, but the temples are pretty secretive about their records, and –"
+"I'm sorry. I wish I could tell you something else. I even tried to look it up, back at the start of August when I was Chosen. but the temples are pretty secretive about their records, and –"
 
-"Nah, I get it. If we don't know, we just don't know." I sighed. "So the gods really take, like, a whole year just to think about something?"
-
-"Yes. There's a cycle to it. Here." Yali grabbed the paper again and drew a circle on it. "Let's say one trip around this circle is one year. Here's where the Ravelling starts, around the start of November." She marked one point on the circle. "And here's where it ends, around the start of February. Those are the events that everyone knows about. But that's only one quarter of the year. There's also <em>here</em> and <em>here</em>. From February to May, they finish assimilating their new human threads. That's like their way of learning from the human they picked. Then from May to August, that's when they're most active in the material world. And at the start of August, they pick the next year's Ravellers and start preparing for winter again. So it's like… They use us to dream up new ideas in the winter, refine the ideas in the spring, try them out in the summer, and then use the autumn to prepare for the next round." When
-
-Something was bugging me. "They pick us out at the start of August? That's just before when you…" I stopped.
+Something was bugging me. "They pick us at the start of August? That's just before when you…" I stopped.
 
 "It's okay. You can ask."
 
@@ -487,7 +483,7 @@ I thought about it. "We could still have dated for three months… and then, you
 
 Yali didn't say anything.
 
-"Hang on, how <em>do</em> you live alone? And on the third layer, too?" The third layer of the city didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
+"Hang on, how <em>do</em> you live alone? And in the third ring, too?" The third ring of the city didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
 
 "If we talk about my past," said Yali calmly, "I'll get upset. And if I get upset, I won't be able to plan for the future."
 
@@ -515,9 +511,9 @@ Yali began to ask, "You know how in this world, matter is dominant, and in the �
 
 Yali patted me on the head. "Good idea."
 
-We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she had <em>access</em> to the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
+We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she was <em>able</em> to the the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
 
-Finally, hours later, Yali said, "I'm starting to get tired. Before I send you home and settle down for the night, let's go ahead and try the Seeing."
+Finally, hours later, Yali said, "It's time for me to settle down for the night. Before I send you home, let's go ahead and try the Seeing."
 
 I perked up at the mention of Seeing. "What do I have to do?"
 
@@ -527,23 +523,19 @@ I perked up at the mention of Seeing. "What do I have to do?"
 
 "Yes."
 
-"Well, there's Layo, obviously." Laökuru Katsín was my best friend since elementary school. I could talk to him about literally anything. "Other than that… well, how <em>many</em> people should I come up with? Does your Seeing have a limit, or –"
+"Well, there's Layo, obviously." Laökuru Katsín was my best friend since elementary school. I could talk to him about literally anything. "Other than that… well…" I thought about my other friends, and eventually gave Yali a few to try. But even with Layo, it was hard to imagine explaining everything to him.
 
-"There's not technically a limit, but… it takes a lot out of me. The more I want to See, the more work it takes. So, I <em>want</em> to check everyone you can think of, but when I actually think about it… I can probably only do a few of them. And you should tell me what order to do them, in case, in case I don't get through all of them."
-
-"Okay." I thought about my other friends, and eventually gave Yali a few to try. But even with Layo, it was hard to imagine explaining everything to him. My heart wasn't really in it, and Yali could tell.
-
-"I understand," said Yali. "I think I'm ready to begin. Move over a little?" I moved over, and Yali leaned back against the couch, a relaxed position. "When I'm in the future, I won't be aware of what's around me in real life. So just… take care of my body, okay? Don't touch it if you don't have to, but make sure it doesn't fall over or anything."
+Finally, we were ready to begin. Yali leaned back against the couch, a relaxed position. "When I'm in the future, I won't be aware of what's around me in real life. So just… take care of my body, okay? Don't touch it if you don't have to, but make sure it doesn't fall over or anything."
 
 "Is that likely to happen?"
 
-"No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about before I burn myself out? I'll probably want to be alone afterwards, so this is our last chance to talk normally for the night."
+"No, but it did happen the first time, when I didn't know what to expect. And I'm also not sure how much time this will take. Could be ten minutes, could be a lot more." She paused. "Should I start? Nothing more you need to talk to me about? I'll probably need to be alone afterwards, so this is our last chance to talk normally for the night."
 
 I thought about it. There were so many things I still had to ask her, but nothing that couldn't wait for another day. "No, I'm fine. So this is like goodnight?"
 
 "Yes." Yali smiled a little. "C'mere you."
 
-I carefully straddled her on the couch and wrapped my arms around her. As I squeezed her tight, she gently lifted her arms and pulled me in so that she could nuzzle my face. Then she pressed even closer and kissed me on the lips.
+I straddled her on the couch and wrapped my arms around her. As I squeezed her tight, she gently lifted her arms and pulled me in so that she could nuzzle my face. Then she pressed even closer and kissed me on the lips.
 
 We stayed that way for a long moment. I could feel her heart beating heavily against my chest. I felt so close to her. But I also wanted so much more. I wanted to cling onto her forever so that we'd never have to face everything that was waiting for us.
 
@@ -561,11 +553,9 @@ Yali rested her head back on the couch, looked up into space, and unfocused her 
 
 It wasn't like I expected. I'd seen a few sorceries before, and they had a <em>buzz</em> to them. If someone was doing a sorcery near you, you could feel it in your head, even if there was a wall in between. But this was just… nothing. It was just Yali staring into space. The only thing that looked different was her eyes, which were shifting back and forth as if they were looking for something – but the something was light-years away. I couldn't resist waving my hand in front of her face, and sure enough, she didn't see it at all.
 
-Looking at her, I was suddenly struck by how much she was trusting me. She couldn't tell what I was doing, and no one else was here either. If I wanted to take advantage of her, she'd never even know I'd done it. I could literally just slide my hands under her clothing, and – I shivered. It was scary to have thoughts like that. Even though I knew I would never do that to her.
+Looking at her, I was suddenly struck by how much she was trusting me. She couldn't tell what I was doing, and no one else was here either. If I wanted to take advantage of her, she'd never even know I'd done it. I could literally just slide my hands under her clothing, and – I shivered. It was scary to have thoughts like that. Even though I knew I would never do that to her. Whatever had happened in her past, I <em>couldn't</em> let her get hurt again. Not by anyone else. And especially not by me.
 
-How was Yali so amazing? She'd obviously been hurt in her past, but she still managed to come out so kind and patient and trusting. And now she was wrapped up in this whole Ravelling mess, but she still found the energy to care for <em>me</em>. I <em>couldn't</em> let her get hurt again. Not by anyone else. And especially not by me.
-
-I started getting jittery just sitting on the couch next to her. So I got up and started pacing around the room.
+I was getting jittery just sitting on the couch next to her. So I got up and started pacing around the room.
 
 Everything in Yali's house was neat and orderly. Her shoes were all in a row next to the door, with her coats hanging just above. At the other end of the room there was a kitchen area, with a clean sink – no dirty dishes stacked in it like there always were at my place. ("A dirty kitchen means an uncivilized life", Dad always complained, not that <em>he</em> cleaned up any more than the rest of us.) The only thing that wasn't in order was my own bags, which I'd just thrown on the floor at random.
 
@@ -575,7 +565,7 @@ Back in the other direction was a big window, with some nice curtains. I liked t
 
 Just then, I heard Yali jerk awake behind me. I rushed over to her.
 
-She didn't even lift her head, but her eyes focused on me, so I could tell she was back. "You can… talk… to Layo," she said dully.
+She didn't even lift her head, but her eyes focused on me, so I could tell she was back. "You can… talk to… Layo," she said dully.
 
 "You okay? Can I get you anything?"
 
@@ -585,31 +575,27 @@ She didn't even lift her head, but her eyes focused on me, so I could tell she w
 
 "Tell… nothing."
 
-"I can't tell my parents anything?" Yali nodded. But why? I wasn't exactly <em>looking forward</em> to telling them, but they'd keep my secrets if I asked them to, wouldn't they? "What did you see?" I asked.
+"I can't tell my parents anything?" Yali nodded. "What did you see?"
 
 "Bad… futures. Don't… see you… again."
 
-"If I tell my parents, you and me won't see each other again? Is that what happens when those people hear about you? The ones you don't want to find out about you being –"
+"Is that what happens when those people hear about you? The ones you don't want to find out about you being –"
 
 "Could… be."
 
-But it could <em>not</em> be? A horrible thought crept into my head. A lot of people thought Blood worship was monstrous – especially the Stern, and <em>especially</em> my parents. If they knew I was the Blood Child... "You don't think my <em>parents</em> would take me away?!"
-
-Yali said nothing.
-
-"Or it could just be the Stern Temple. Maybe Mom would go and ask the Stern for 'guidance'… And then they'd…" What would they do? Throw me in jail? Try to brainwash me? "Is that it? Is that what would happen?"
+But it could <em>not</em> be? A horrible thought crept into my head. "Do you think it's the Stern Temple? Maybe Mom would go to the Stern for 'guidance'… And then they'd…" What would they do if they knew I was the Blood Child? Throw me in jail? Try to brainwash me?
 
 "Don't… know."
 
-So that was it, then. We just didn't know. 24 hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today… it didn't really affect me. It was just another thing dragging on me. There were already so many.
+So that was it, then. We just didn't know. Twenty-four hours ago, that would've been a pretty big shock, to think that telling my parents the wrong thing could put me in literal danger. But after everything else I'd heard today, it was just one more thing on the pile.
 
 "Okay. Whatever it is, I won't tell them anything. Did you see anything else?"
 
 "Trust… Layo. Rest is… details… tell you when…"
 
-"You'll tell me the details when you're less exhausted? Of course. I totally get it."
+"You'll tell me later? Of course. I get it, you need rest."
 
-"Now, need rest. You too. I can call… taxi…"
+"You too. I can call… taxi…"
 
 "A taxi for me to get home? Seriously? It's all downhill."
 
@@ -623,11 +609,7 @@ So that was it, then. We just didn't know. 24 hours ago, that would've been a pr
 
 "Hmm." I knew that sound. There was the sound Yali made whenever she gave up on arguing me out of something.
 
-"Anyway," I continued, "is it even okay for me to leave you like this?"
-
-"I'll… recover. Just bring… food." I hurried to bring her another one of the sienkah fruit. When I got there, she tapped a hand on the couch next to her, meaning for me to leave it there. "Eat… later. Thanks. Now… goodnight hug."
-
-I hugged her tight again, but this time her body was limp and unresponsive. I could tell that my touch didn't mean very much to her when she was like this. I stood up, and, hoping my feelings would reach her, I said, "I love you. Good night."
+I hugged her tight again, but this time her body was limp and unresponsive. I could tell that my touch didn't mean much to her when she was like this. I stood up, and, hoping my feelings would reach her, I said, "I love you. Good night."
 
 "…night."
 
@@ -637,9 +619,7 @@ It was an easy route, just like I'd said. But being on my feet always helped me 
 
 As I ran down the nighttime streets, it all still felt a little unreal to me. But when it came down to it, maybe it wasn't that complicated after all. <em>Protect Yali. Protect myself.</em> When I thought about it that way, it didn't seem so hard to handle.
 
-Then it hit me how tired I was. Not from the running, naturally. But it would be so good to just be at home in bed. I counted off the buildings as I passed. One less to go until I get there… another…
-
-Finally I got all the way down to my own street. It was pretty dark from all of the burnt out streetlights, but I knew this place like the back of my hand. I casually avoided the familiar potholes leading up to my house, then slipped in through the door, careful not to wake anyone. Upstairs, I threw myself into bed, and I was asleep as soon as I hit the sheets.
+The streets near my home were pretty dark from all the burnt out streetlights, but I knew this place like the back of my hand. I avoided the familiar potholes leading up to my house, then slipped in through the door, careful not to wake anyone. Upstairs, I threw myself into bed. I was asleep as soon as I hit the sheets.
 
 ''',
 },

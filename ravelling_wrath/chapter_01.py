@@ -75,15 +75,15 @@ We'd been dating for about a month, and Yali was one of the calmest, most patien
 
 The gods?! I wondered again. How could Yali have something about the <em>gods</em>? Sure, "Our five gods are the foundation of all life in the city", but <em>really</em>. What did the gods ever do for kids like us?
 
-I dashed across a street and tried to parkour my way up the high embankment on the other side. I made it, barely. It was just a couple more blocks uphill to the side-gate I was going to use.
+I dashed across a street and tried to parkour my way up the high embankment on the other side. I made it, barely, stumbling and springing back up to my feet. It was just a couple more blocks uphill to closest gate.
 
-Our city was built on a hill. It had five circular layers, separated by five walls, each with its own great gate, to honor the five gods who watched over us all. Supposedly. In real life, only four of the gods were worshipped, and only three of them had taxes and temples. And each of the walls had a dozen smaller gates, and the outer wall was in total ruins, and the only beings I'd noticed "watching over me" were those hypocrites who ran the schools, may the Stern God take them. I knew the gods were out there doing <em>something</em>, I just didn't see what it had to do with me.
+Our city was built on a hill. It was split up by five circular walls, each one surrounding the last. I lived in the fifth ring – the district just inside the outermost wall, at the foot of the hill. But my parents had gotten me into a school in the fourth ring, and even though Yali went to the same school, <em>her</em> house was in the <em>third</em> ring. So it was always an uphill run to get there. I <em>could</em> have taken a bus, but I've never liked to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing. Heh.
 
-Anyway, <em>I</em> lived on the fifth layer, at the bottom. Our school was on the fourth layer, and <em>Yali</em> lived on the third. So it was always an uphill run to get there. I <em>could</em> take a bus, but when I'm excited to see her, I don't like to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing. Heh.
+Panting, I finally made it up to the gate. I leaned back to catch my breath, feeling the cool stones of the gate on my back, and the buzz of sorcery in my mind. When you're a little kid, they teach you how the five walls are woven with protective sorceries, and infused with the magic of the five gods who watch over us all. They always made it sound like everything was in perfect harmony, but in real life, it really wasn't. For one thing, the outer wall was in total ruins. Only four of the gods were actually worshipped, and only three of them had taxes and temples. And if anyone was "watching over me", it was those hypocrites who ran the schools, may the Stern God take them.
 
-Panting, I finally made it up to the side gate. From there, it would only be a short run to Yali's place. But my legs didn't want to do it. I paused to lean my back against the cool stones of the gate and catch my breath. This was a route that I ran all the time, but it was a lot of work even on a good day, and I'd forgotten to pace myself. Why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
+From the gate, it would only be a short run to Yali's place. But my legs didn't want to do it. This was a route that I ran all the time, but it was a lot of work even on a good day, and I'd forgotten to pace myself. Why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
 
-I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "you ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
+I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "You ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
 
 She gently pulled me inside and we flopped down on a couch. While I relaxed, Yali leaned forward, looking off into the distance, as if she was thinking hard about something. She turned halfway towards me and opened her mouth, but then closed it again. Was this the important thing she was going to tell me? But she... couldn't figure out how to say it?
 
@@ -101,7 +101,7 @@ Still smiling, she started getting to her feet. "Well, we should get this cleane
 
 "We can do it here. I'll be right back."
 
-Yali came back wearing disposable gloves, carrying bandages and stuff. "Did you become a paramedic when I wasn't looking?" I teased.
+Yali came back wearing disposable gloves, carrying bandages and stuff. This was the Yali I knew – her hesitancy from earlier was gone. She moved like she knew what she was doing. "Did you become a paramedic when I wasn't looking?" I teased.
 
 "Video tutorials," murmured Yali. She handed me a piece of gauze. "If it's still bleeding, I'll want you to press this onto the wound." She gave me a lopsided smile. "Now remove your pants."
 
@@ -109,11 +109,7 @@ Yali came back wearing disposable gloves, carrying bandages and stuff. "Did you 
 
 Yali muttered while she worked. "Your pants are pretty tight. That might have helped stop the bleeding. Still a mess though. Don't worry about the couch, it's just a thing. Hold still, this might sting a bit."
 
-"I'll be fiiiiiine." Yali cleaned up the wound with some sort of antiseptic wipe. It stung a bit. I was fine.
-
-"Good. Now, I'm not sure if we can fit this band-aid over the whole cut. So I'll wrap it with the cloth bandages. Can you slide forward a bit? Good."
-
-As she was finishing up, I echoed, "Video tutorials?"
+"I'll be fiiiiiine." Yali cleaned up the wound with some sort of antiseptic wipe. It stung a bit. I was fine. Then she wrapped my leg in a cloth bandage. As she was finishing up, I echoed, "Video tutorials?"
 
 "It seemed like something I might need to know eventually."
 
@@ -127,21 +123,13 @@ Yali went to put away the extra bandages and stuff. By the time she was back, I 
 
 Yali... hesitated. I couldn't tell whether she was uncomfortable or just not sure what to say. She swallowed. Turned away. Turned back towards me. My heart seemed to be pounding harder than it was even when I was running.
 
-"I don't," blurted out Yali, "know how to tell you this. I've been trying to plan it out, all day, but it's just, it's just, the words. They won't come."
-
-"I &ndash;" I didn't know what to say. Yali was always so sure of herself! I had no idea how to respond to this. "I... we could save it for another day if you're &ndash;"
-
-"No!"
-
-I jumped. Yali's expression was still neutral, oddly enough, but she had said it so forcefully...
-
-"I didn't mean to yell. But I should've told you this a long time ago. I just, I just... How do <em>you</em> always know what to say?"
+"I've spent all morning trying to plan how to tell you this," she said. "But I don't even know how to start. I should've told you a long time ago. I just, I just... How do <em>you</em> always know what to say?"
 
 "What? You're the one who always knows what to say!"
 
-"Just help me out here."
+Yali stared back at me.
 
-"Uh..." I said. "Maybe if you start by, uh... at the beginning? Or like find ONE thing you know how to tell me and start with that?"
+One way or another, she was clearly having trouble with this. "Uh..." I said. "Maybe if you start by, uh... at the beginning? Or like find ONE thing you know how to tell me and start with that?"
 
 "That could work..." Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. I watched her uncertainly. She didn't look upset, but this wasn't something I'd seen before. Yali squinting. Yali chewing her lip. From anyone else, that wouldn't have caught my attention. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
 
@@ -153,17 +141,17 @@ Finally, she spoke up. "How much do you know about what happens during," she swa
 
 "It's, it's, it's worse than that. Just tell me how much you know, so I can explain from there."
 
-I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous about what she was going to tell me, and now I had to explain the Ravelling like I was in Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of tasks. If they live, they get to go home, and the gods can... Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles &ndash;"
+I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous, and now I had to remember some shit from Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of tasks. If they live, they get to go home, and the gods can... Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"
 
 Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
-"It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but if that's what you're after, then it screws your career too, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could &ndash; I could lose you forever &ndash;"
+"It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but if that's what you're after, then it screws your career too, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could – I could lose you forever –"
 
-Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're, they're, the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also &ndash; Why am I talking like this? It's me. I'm the Farseer. And you're &ndash;"
+Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're, they're, the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also – Why am I talking like this? It's me. I'm the Farseer. And you're –"
 
 I froze. I could see where this sentence was going, and I didn't like it. Me, one of the Chosen? A million questions formed in my head at once. And then all the questions vanished again. What could I even say?
 
-"&ndash; you're the Blood Child."
+"– you're the Blood Child."
 
 I snapped back into the present. Yali was looking at me carefully. Studying me, to see how was going to react. But how <em>was</em> I going to react? There were so many things going through my head. What – how – why –
 
@@ -279,7 +267,7 @@ I stared, wondering if I should feel shocked. But I didn't know how to feel shoc
 
 "Symbolic," I deadpanned. Yali snorted.
 
-"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. The one who loved me – I remember him for wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
+"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. The one who loved me – I remember him wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
 
 "I don't want to make you remember anything traumatic," I said quickly.
 
@@ -287,13 +275,13 @@ I stared, wondering if I should feel shocked. But I didn't know how to feel shoc
 
 "So…" I said. "So I'm going to get really mad at you and then kill you? But there's no way I'd kill you." I laughed nervously. "Seriously, I'd rather die."
 
-Yali's eyes widened. Before I knew what was happening, she had grabbed my shoulder violently. "Don't – you – dare –" she growled. Now I really <em>was</em> shocked. Yali <em>never</em> acted like that! "Don't you <em>dare</em> sacrifice yourself for me."
+Yali's eyes narrowed. Before I knew what was happening, she had grabbed my shoulder violently. "Don't – you – dare –" she growled. Now I really <em>was</em> shocked. Yali <em>never</em> acted like that! "Don't you <em>dare</em> sacrifice yourself for me."
 
-"It's not going to come to that... is it?"
+"It's not going to come to that, is it?!"
 
 "Promise me," she said. "No matter what happens, promise me you'll never die for my sake. We are <em>both</em> going to get out of this alive."
 
-"Uh... I promise," I said nervously.
+"Uh… I promise," I said nervously.
 
 "Remember that." Yali let go of my shoulder and leaned back on the couch. She was back to her normal self again, just as suddenly. "Sorry about that," she said. "I just really, really don't want you to die."
 
@@ -317,11 +305,11 @@ I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Th
 
 "What if we just <em>don't</em> go through all the layers? Or – what if I get behind, so we're never in the <em>same</em> –"
 
-"That – let me see if I can remember something." Yali concentrated for a moment. "That's <em>also</em> not something the gods like. I'm not sure exactly what would happen if you tried that, but it can be harder to... I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
+"That –" Yali concentrated for a moment. "I'm not sure exactly what would happen if you tried that. I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
 
 "So – if the gods are trying to force us together, and force me to attack you –" I was thinking wildly, but I couldn't come up with any way out of this. "What do we <em>do?</em>"
 
-"Well – I have a plan," said Yali hesitantly.
+"Well – I have a plan," said Yali, trying to sound confident.
 
 "Of course, ha ha, you have a <em>plan</em>, I should have seen this coming," I babbled.
 

@@ -76,7 +76,7 @@ When she was done, she came back and sat with me. She held my hand. I looked awa
 
 "It's not that, it's just, why do you always have to help me with everything? Why can't I be the one helping you sometimes?"
 
-"You <em>will</em> be helping. You're helping protect me from dying, which, which, which, if you don't remember, would <em>always</em> happen if you <em>weren't</em> the Blood Child…"
+"You <em>will</em> be helping. You're helping protect me from dying, which, which, which, if you don't remember, would <em>always</em> happen if you <em>weren't</em> the Blood Child –"
 
 "It doesn't feel that way."
 
@@ -412,7 +412,7 @@ Layo smiled. "I <em>know</em> you. You've had something on your mind for a while
 
 "Nah, you're fine, let's go to the park obviously." I grabbed his hand and dragged him along with me.
 
-The one nice thing about the fourth layer was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like near the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all. Anyway, it was much nicer than down near my home.
+The one nice thing about the fourth ring was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like near the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all. Anyway, it was much nicer than down near my home.
 
 We got to the park and picked a trail to walk along. There were technically more buildings pretty close on the other side, but there were <em>just</em> enough trees to make it feel like you were lost in the woods. Trees had always been a good compromise between me and the Layo – he liked nature, I liked climbing things, it was a perfect match.
 

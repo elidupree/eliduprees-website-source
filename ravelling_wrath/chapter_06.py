@@ -419,7 +419,7 @@ Even though she was being affectionate, I could sense her mind was on something 
 
 <bigbreak>
 
-Traveling through the Otherworld was NOT as interesting as it was cracked up to be.
+Travelling through the Otherworld was NOT as interesting as it was cracked up to be.
 
 Sure, there was the looming threat of our possible deaths. But it didn't really seem like that was going to happen <em>here</em>, on a tiny platform in the middle of literal empty space. Being <em>here</em> was just <em>boring</em>.
 

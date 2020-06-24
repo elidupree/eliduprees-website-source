@@ -163,7 +163,7 @@ Another nod.
 
 <bigbreak>
 
-Traveling with Alchemist was oddly comforting.
+Travelling with Alchemist was oddly comforting.
 
 After a while, it had finally sunk in that I was never going to find Yali anytime soon. I had felt defeated, bitter, like there was a yawning hole in me, an empty space where my mission should have been. But then Alchemist came and… <em>filled</em> some of that space. I didn't understand how, but somehow, it was easier to just focus on what I was doing with Alchemist than to worry about the gods. The gentle resonance of their voice was almost enough to distract me.
 

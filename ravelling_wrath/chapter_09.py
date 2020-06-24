@@ -388,7 +388,7 @@ Morrow covered his head and cowered away from me. I stood over him, not even car
 
 Morrow kept his head down and whimpered, "I'm a piece of shit, such a piece of shit…"
 
-"Yeah, that sounds about right!! You fucking – fucking – I don't know –" I faltered. The way I was feeling – it was sickeningly close to how I'd felt when I had yelled at Yali on the first layer. And no matter how much I was itching to rip into Morrow some more, I didn't want to go down that path again. <em>Controlling Game</em>, I said to myself. "Look, Morrow," I said, bringing my voice a lot closer to neutral, "just shut up, all right? I'm upset, you're upset, but it's just a phone. Both of us are way more important than it is. And if you say you're less important than the phone, I'll have to smack you again."
+"Yeah, that sounds about right!! You fucking – fucking – I don't know –" I faltered. The way I was feeling – it was sickeningly close to how I'd felt when I had yelled at Yali in the first layer. And no matter how much I was itching to rip into Morrow some more, I didn't want to go down that path again. <em>Controlling Game</em>, I said to myself. "Look, Morrow," I said, bringing my voice a lot closer to neutral, "just shut up, all right? I'm upset, you're upset, but it's just a phone. Both of us are way more important than it is. And if you say you're less important than the phone, I'll have to smack you again."
 
 Morrow grinned up at me manically. "I'm less important than the phone," he said.
 
@@ -514,7 +514,7 @@ I struggled to pull myself out, but it was no use. I saw Alchemist looking aroun
 
 The walls fell open, revealing a black space above and around us. Moments later, huge tentacles rose up and plucked Alchemist into the air. Not missing an opportunity, I rolled off to the side and sprang to my feet, whipping out a couple of Blood Blades to fight whatever sort of tentacle monster the Seeking God was throwing at us now. But when I looked, Alchemist was happily dangling by their waist and giggling. I looked where the tentacles were coming from, and they actually came from Morrow. They were just made out of some sort of rubber.
 
-"Wait, we can manifest again now?" I said. "Then that's enough of this bullshit!" Channeling my strength, I manifested away all my bruises.
+"Wait, we can manifest again now?" I said. "Then that's enough of this bullshit!" Channelling my strength, I manifested away all my bruises.
 
 "If we are all out of danger," said Justicar soberly, "then I believe the Alchemist owes us an apology for not moving when we needed him –"
 
@@ -596,7 +596,7 @@ And then I finally looked around at where we were now. Where the gray box had du
 
 "This room feels different than the others," said Justicar. "I believe we have reached the very center of the Maze."
 
-"What does that even mean?" I said. Something <em>did</em> feel special about it, though. We were on the edge of a wide platform in the middle of a vast, dark space, with walkways stretching out in every direction – not just horizontally, but diagonally up and down at every angle as well. The platform and walkways were all made out of a sort of glass mesh, translucent and full of tiny gaps. And in the middle of the platform we were on, there was a fountain. Not anything like the peaceful fountain in the first layer of the city, this one shot up a good twenty meters into the air and splashed down chaotically into a shallow pool around it, which was constantly overflowing and pouring water right through the little gaps in the platform, where it fell through space and splashed through the walkways under us.
+"What does that even mean?" I said. Something <em>did</em> feel special about it, though. We were on the edge of a wide platform in the middle of a vast, dark space, with walkways stretching out in every direction – not just horizontally, but diagonally up and down at every angle as well. The platform and walkways were all made out of a sort of glass mesh, translucent and full of tiny gaps. And in the middle of the platform we were on, there was a fountain. Not anything like the peaceful fountain in the first ring of the city, this one shot up a good twenty meters into the air and splashed down chaotically into a shallow pool around it, which was constantly overflowing and pouring water right through the little gaps in the platform, where it fell through space and splashed through the walkways under us.
 
 Despite the wild water, the fountain seemed a little… <em>ordinary</em> compared to the rest of the world. The water wasn't even multicolored or shimmering. And the pool floor looked like plain old concrete, with nothing interesting but a couple silvery fish darting around in it.
 
