@@ -76,7 +76,7 @@ When she was done, she came back and sat with me. She held my hand. I looked awa
 
 "It's not that, it's just, why do you always have to help me with everything? Why can't I be the one helping you sometimes?"
 
-"You <em>will</em> be helping. You're helping protect me from dying, which, which, which, if you don't remember, would <em>always</em> happen if you <em>weren't</em> the Blood Child…"
+"You <em>will</em> be helping. You're helping protect me from dying, which, which, which, if you don't remember, would <em>always</em> happen if you <em>weren't</em> the Blood Child –"
 
 "It doesn't feel that way."
 

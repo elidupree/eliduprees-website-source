@@ -258,9 +258,7 @@ Yali rubbed my shoulders. "Don't worry about me. We have things to do."
 
 "The one near Clover Square."
 
-"Oh. Yeah. That'd be great!"
-
-I took her hand and we started walking.
+"Oh. Yeah. That'd be great!" I took her hand and we started walking.
 
 "You still haven't told me why you can't go to the one near the school," Yali said as we walked.
 
@@ -270,7 +268,7 @@ I took her hand and we started walking.
 
 "You whaaaaaaat?! I only wasn't going to tell you because you're always telling me to be careful and shit –"
 
-"I don't want you to get hurt <em>now</em>! But if it already happened – By the Stern, if I've missed out on four and a half weeks of fun stories because you thought I wouldn't like them…"
+"I don't want you to get hurt <em>now</em>! But if it already happened – By the Stern, if I've missed out on four and a half weeks of fun stories because you thought I wouldn't <em>like</em> them…"
 
 "You totally have! I have <em>so</em> many to tell you. This one, though… eh…"
 
@@ -280,7 +278,7 @@ I took her hand and we started walking.
 
 Yali smirked.
 
-"Hey! I haven't told you the best part yet! I haven't told you <em>any</em> of the parts!"
+"Hey! You're supposed to laugh at me <em>after</em> I tell you what happened, not <em>before</em>!"
 
 Yali doubled over, laughing silently. I couldn't help laughing along a little bit. Then she straightened up. "Sorry. You can keep going now."
 
@@ -292,7 +290,7 @@ I let Yali catch up with me and held her hand again. "So, there was this girl I 
 
 "Wow. How old were you?"
 
-"This was like three years ago. I was like 13. Sure it was illegal and stuff, but whatever. That got me enough money to keep paying for 'dates'. Until… ugh, I feel really stupid about this next part."
+"This was like three years ago. I was like thirteen. Sure it was illegal and stuff, but whatever. That got me enough money to keep paying for 'dates'. Until… ugh, I feel really stupid about this next part."
 
 "It's okay. I won't judge you."
 
@@ -582,9 +580,9 @@ It was during class, but I held my phone under the table to text her back.
 
 <div class="clear"></div>
 
-And she'd <em>texted</em> it to me, too, even though she was probably just a few classrooms away and could totally have told me in person. And it was during class, so I couldn't even show my reaction on my face! So evil. I grinned inwardly. She'd really gotten me good.
+And she'd <em>texted</em> it to me, too, even though she was probably just a few classrooms away and could totally have told me in person. And it was during class, so I couldn't even show my reaction on my face! So evil. I grinned inwardly. She'd gotten me good.
 
-At lunch, I played it off as if I was just skipping on impulse, like it was one of those weird desires they say the Seeking God puts in people. But by the end of the day, I was starving. I mean, it wasn't anything I couldn't handle, but I don't think I could've concentrated on my classes even if I'd wanted to. As soon as the final bell rang, I grabbed my things and ran out of the school as fast as I could, then started heading to Yali's place. Yali probably hadn't left so fast, but she'd get ahead of me anyway when she took the bus.
+At lunch, I played it off as if I was just skipping on impulse, like it was one of those weird desires they say the Seeking God puts in people. But by the end of the day, I was starving. I mean, it wasn't anything I couldn't handle, but I wouldn't have been able to concentrate on my classes even if I'd wanted to. As soon as the final bell rang, I grabbed my things and ran out of the school as fast as I could, then started heading to Yali's place. Yali probably hadn't left so fast, but she'd get ahead of me anyway when she took the bus.
 
 As I ran, I got another text from her.
 
@@ -670,7 +668,7 @@ Hunger ground away at me. I resolutely ignored it. It didn't matter if I was use
 
 <p>...and it all comes down.</p>
 
-What the fuck, was I getting <em>worse</em> at balancing the blocks? I gathered them up impatiently to start again. Wait a minute, what was even the point of being impatient? I was never going to finish.
+What the fuck, was I getting <em>worse</em> at balancing the blocks? I gathered them up impatiently to start again. Wait a minute, what was even the point of being impatient? It wasn't like I was expecting to finish anyway.
 
 I sighed and grabbed another black to start again. Something slapped me on the cheek.
 
@@ -688,7 +686,7 @@ I kept working. Yali kept hitting me, but not any harder. Fuck, she was doing it
 
 Wait a minute. I couldn't think like that. I wasn't supposed to get pissed off so easily. <em>This is just a challenge,</em> I started repeating to myself. <em>I can beat this. I am in control.</em> Every time the meterstick slapped me again, I repeated it again: <em>This is just a challenge.</em> Every time the hunger invaded my mind again, I repeated it: <em>This is just a challenge. I am in control.</em>
 
-Time dragged on. I was locked in the routine. Trapped in the chair, getting stiffer and more restless by the minute. Yali wouldn't even let me look up from the table. I noticed that the shadows were at a different angle than they used to be. How long had it been?
+Time dragged on. I was locked in the routine. Trapped in the chair, getting stiffer and more restless by the minute. Yali wouldn't even let me look up from the table. The sunlight from the window was at a different angle than last time I'd noticed it. How long had it been?
 
 Behind me, I heard Yali put down the meterstick and stand up. I paused, wondering what she was going to do next.
 
