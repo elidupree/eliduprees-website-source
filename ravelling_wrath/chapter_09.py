@@ -50,7 +50,7 @@ And every time I looked behind a section of wall, there was another room as chao
 
 So this was the Seeking God's world. The Endless Maze.
 
-Technically, "the Endless Maze" meant three different things. This layer of the Otherworld was the original Endless Maze. But the Seeking God's symbol was also called the Endless Maze – that little symbol of paths wrapping in on each other, a knot with no end or beginning. And, metaphorically, "the Endless Maze" meant, like, life. Or the world. As in "how in the Endless did I end up like this?"
+There were three different meanings of "the Endless Maze". This layer of the Otherworld was the original Endless Maze. But the Seeking God's symbol was also called the Endless Maze – that little symbol of paths wrapping in on each other, a knot with no end or beginning. And, metaphorically, "the Endless Maze" meant, like, your journey through life, with all its twists and turns. As in "how in the Endless did I end up like this?"
 
 How <em>did</em> I end up like this? This place was awesome, and I still couldn't wait to see what was behind every corner, but… something was missing. And every time I saw a glimpse of myself in the distorted space, it just rubbed it in a little more.
 
@@ -540,7 +540,7 @@ Justicar looked tense. "This is not wise," she said. "You should not let another
 
 I <em>could</em> have explained that I already had it pretty much under control, and I was just looking for an extra boost. But I didn't have to justify myself. "Whatever, I probably do about ten unwise things every day before breakfast. You gonna stop me?"
 
-Justicar's face tightened, and for a moment, I was a little worried that she <em>was</em> going to stop me. But then she backed down. "Very well. It is not my duty to protect you from the consequences of your own decisions. But <em>you</em> –" she turned to Morrow "– if the Blood Child allows you into her mind, I cannot stop you. But if you go the slightest fraction beyond what she willingly allows, I will not show mercy."
+Justicar's face tightened, and for a moment, I was a little worried that she <em>was</em> going to stop me. But then she backed down. "Very well. It is not my duty to protect you from the consequences of your own decisions. But <em>you</em> –" she turned to Morrow "– if the Blood Child allows you into her mind, I cannot stop you. But if you go the slightest fraction beyond what she chooses to allow, I will not show mercy."
 
 "Whaddaya think I'm gonna do, steal her passwords while I'm in there?"
 
@@ -548,7 +548,7 @@ Justicar's face tightened, and for a moment, I was a little worried that she <em
 
 It looked like Morrow was about to provoke Justicar some more. And I didn't want her to change her mind about putting up with this. "Let's get on with it," I said.
 
-Morrow focused back on me excitedly. "Loopy thing! Looking at your mind!! Might gotta touch your head –" he reached out a hand towards my head.
+Morrow focused back on me with excitement. "Loopy thing! Looking at your mind!! Might gotta touch your head –" He reached out a hand.
 
 "What, just with your hand?" I joked. "Don't you use your tongue for this stuff?"
 
@@ -624,7 +624,7 @@ Morrow ran up to me. Somehow, he had gone all the way around the fountain while 
 
 "How is it not obvious??" Morrow snatched the sphere from my hands.
 
-"Hey!" I yelled. But somehow, it was still there in my hands, too. Morrow just had a <em>copy</em> of it. He cheerfully started handing more copies out to the others.
+"Hey!" I yelled. But somehow, it was still there in my hands, too. Morrow just had a <em>copy</em> of it. He cheerfully handed more copies out to the others.
 
 "I… see," said Justicar, holding hers up and scrutinizing it. "I can see the sigils inside."
 
@@ -632,7 +632,7 @@ I looked into my own. It was barely bigger than my hand, but as soon as I looked
 
 "Use your intention," said Justicar. "Try to look for a specific room. This one, for example."
 
-"Fine." I looked for the room we were standing in. I did what I'd gotten used to doing while manifesting, trying to use just my mind to force the orb to do what I wanted. In moments, every other diagram slid aside and I saw a small icon of the fountain, with the walkways zigzagging out in all directions around it. The map was even three-dimensional – I could look at it from a different angle if I tried. But the most interesting thing was the four symbols written right next to the fountain.
+"Fine." I focused my mind to manifest on the orb, concentrating on the room we were standing in. In moments, every other diagram slid aside and I saw a small icon of the fountain, with the walkways zigzagging out in all directions around it. The map was even three-dimensional – I could look at it from a different angle if I tried. But the most interesting thing was the four symbols written right next to the fountain.
 
 The Endless Maze symbol, where Morrow was standing.
 
