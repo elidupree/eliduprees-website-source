@@ -58,6 +58,10 @@ p.text.left {
 .novel-current-status {
   font-family: Arial, Helvetica, sans-serif;
 }
+.yali-narration {
+  /*font-family: Georgia, serif;*/
+  font-style: italic;
+}
 
 /* For the emoji graphics, we currently use twemoji (https://github.com/twitter/twemoji). */
 div.blog_post img.emoji {
