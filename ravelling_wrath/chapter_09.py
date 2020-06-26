@@ -40,6 +40,8 @@ Like before, I tried to focus on one sensation at a time. But as soon as I spott
 
 And just when I couldn't take it anymore, when the sensations were about to overwhelm and break me, the Seeking God threw me into the world.
 
+<bigbreak>
+
 I tumbled onto a padded floor, my arms and legs suddenly coming back to me. I flopped and rolled until I was flat on my back, then stared up dizzily into… At first I thought it was another incoherent mess of color. But then I focused in on part of it, and it actually stayed looking how it looked.
 
 Above me, below me, and in every direction around me, there were thousands of brightly colored shapes. Shimmering crystals dancing through the air. Pools of goo bubbling from the walls. Curving, multicolored walkways that waggled and twisted to absurd angles, making no distinction between floor, walls, and ceiling. Some of them rippled and undulated, looking like a real challenge to stand or walk on. In other places, hanging spheres swung wildly across the space, shimmering and flashing as they caught the light. And everything felt so <em>close</em> to me. I felt like I could just jump up and land on any of the walkways I wanted.
@@ -90,7 +92,7 @@ I paused to catch my breath and look at what was up ahead.
 
 Everything was leading up to a golden exit door, hovering in the distance. Maybe that would get me closer to Yali! But before that, there was everything you could think of – slides, nets, spinning wheels, ropes that dangled in impossible directions, platforms that wobbled back and forth, stretches of empty space with only tiny handles to hang onto.
 
-Each challenge seemed nearly impossible before I did it. There was a set of monkey bars that were so far apart I couldn't reach between them even with my full arm span, but it turned out I could swing and grab the next one with my legs. Then there was a rope swing that looked awesome but actually sent me smacking right into the side of a big post. After I climbed up to try it again, I figured out that I had to swing off at an angle to get around the post, <em>and</em> climb further up the rope while I was swinging so I could get off on the next platform. Then there was a set of overlapping wheels I had to jump through without hitting any of the spokes. The first time I tried it, one of the spokes smacked into my stomach and knocked the wind out of me, then I fell onto another one that flung me off into space. By the time I made it to the final challenge, my arms and legs were sore and I had bruises all over me. It was the most fun I'd had in ages.
+Each challenge seemed nearly impossible before I did it. There was a set of monkey bars that were so far apart I couldn't reach between them even with my full arm span, but it turned out I could swing and grab the next one with my legs. Then there was a rope swing that looked awesome but actually sent me smacking right into the side of a big post, until I found just the right angle to swing off at. Then there was a set of overlapping wheels I had to jump through without hitting any of the spokes. The first time I tried it, one of the spokes smacked into my stomach and knocked the wind out of me, then I fell onto another one that flung me off into space. By the time I made it to the final challenge, my arms and legs were sore and I had bruises all over me. It was the most fun I'd had in ages.
 
 For the final challenge, I had to run along a narrow spiral through space to get to the golden exit door. Along the spiral, I had to literally jump through flaming hoops while dodging giant hammers and tricky floor tiles that were trying to flip my feet out from under me. If you'd shown me this the day before, I would've been like, "how the fuck do you expect me to do that?!". But now that I'd made it past the rest of the obstacles, this last bit felt like it just might be possible.
 
@@ -114,7 +116,7 @@ I was getting really close. Everything before the last bit was nearly routine no
 
 I leapt through a hoop, landing my feet in just the right place to not get tripped up. I ducked under a bar swinging at my head, then jumped over the bar swinging for my ankles right after it. I sprinted along a series of tiles that started falling away the instant I stepped on them.
 
-I was almost there! The exit platform was surrounded by a gap of empty space I'd have to jump over, I'd just have to get to the closest point and make a leap for it. I sprinted for that place, keeping an eye out for –
+I was almost there! The exit platform was surrounded by a gap of empty space I'd have to jump over, I'd just have to get to the closest point and make a leap for it. I sprinted for that point, keeping an eye out for –
 
 A heavy bag smacked into my side, nearly knocking me off. Shit! I'd gotten here <em>faster</em> than usual, and it had thrown the timing off! I quickly got my balance, but there was a slow-moving wheel in the way of where I was going, and I didn't have time to wait for it before the floor would fall out from under me!
 
@@ -142,7 +144,7 @@ Not that I was planning to do what the Seeking God wanted me to, either. Sure, n
 
 So I stuck out my hands and manifested a boat. Or I thought I did. When I looked, there wasn't anything there. I tried again, but still nothing. I tried for a bridge, and that didn't work either. Could I manifest anything at all? I manifested a rock. That worked, but it wasn't any use. I threw it into the water irritably.
 
-I spent ages trying different things, piling up a heap of different manifested junk around me. It probably would've been quicker to just do everything the way I was supposed to, but I couldn't stand the idea. But somehow, I could only manifest things that weren't any use. Unless – if I <em>could</em> manifest rocks, I could eventually fill up the water by dumping a load of rocks into it. For a moment, I was excited that I had beaten the rules. But the next time I tried to manifest a rock, that didn't work either!
+I spent ages trying different things, piling up a heap of different manifested junk around me. It probably would've been quicker to just do everything the way I was supposed to, but I couldn't stand the idea. But somehow, I could only manifest things that weren't any use. Unless – if I <em>could</em> manifest rocks, I could eventually fill up the water by dumping a load of rocks into it. For a moment, I was excited that I had beaten the rules. But the next time I tried to manifest a rock, even that didn't work!
 
 Was the Seeking God reading my mind to stop me from cheating?!
 
@@ -234,7 +236,7 @@ We answered the next dozen questions really fast. A lot of them were easy prompt
 
 Before long, Morrow got one wrong. A buzzer sounded, the pedestals went dark, and the room was empty again. I pumped my fist in the air. "Haha! I won! Take that!"
 
-"I'm bored of this game, what's next??" said Morrow, already slouching in a chair and eating a bag of crackers.
+"I'm bored of this game, what's next??" said Morrow, already slouching in a lawn chair and eating a bag of crackers.
 
 But the room didn't show us what was next. The exit door was still locked. After about fifteen seconds, the pedestals hummed and glowed again.
 
@@ -386,7 +388,7 @@ Enraged, I turned and smacked Morrow across the face, hard.
 
 Morrow covered his head and cowered away from me. I stood over him, not even caring how he felt anymore. I felt so humiliated. I wanted to hit him again. "I've been trying to help you, and this is what you give me?!" I exploded.
 
-Morrow kept his head down and whimpered, "I'm a piece of shit, such a piece of shit…"
+Morrow kept his head down and whimpered, "I'm a piece of shit, I'm such a piece of shit…"
 
 "Yeah, that sounds about right!! You fucking – fucking – I don't know –" I faltered. The way I was feeling – it was sickeningly close to how I'd felt when I had yelled at Yali in the first layer. And no matter how much I was itching to rip into Morrow some more, I didn't want to go down that path again. <em>Controlling Game</em>, I said to myself. "Look, Morrow," I said, bringing my voice a lot closer to neutral, "just shut up, all right? I'm upset, you're upset, but it's just a phone. Both of us are way more important than it is. And if you say you're less important than the phone, I'll have to smack you again."
 
