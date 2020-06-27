@@ -640,7 +640,7 @@ The Endless Maze symbol, where Morrow was standing.
 
 The Cloven Earth, the symbol of the Broken God, next to Morrow, where Alchemist was standing.
 
-The Iron Gate, the symbol of the Stern God, just a little distance away, where Justicar stood.
+The Dauntless Gate, the symbol of the Stern God, just a little distance away, where Justicar stood.
 
 And the Burning Heart, the symbol of the Blood God, right where I was.
 

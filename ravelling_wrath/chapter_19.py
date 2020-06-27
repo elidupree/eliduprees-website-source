@@ -15,7 +15,7 @@ posts = [
 
 
   ''',
-  "head":head,  "chapter_title": "",
+  "head":head,  "chapter_title": "The Waiting God",
   "contents": '''
 
 Two bodies lay before me. One dead, one only unconscious, both my doing. One Justicar. One Rinn.

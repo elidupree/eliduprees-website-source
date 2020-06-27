@@ -15,7 +15,7 @@ posts = [
 
 
   ''',
-  "head":head,  "chapter_title": "",
+  "head":head,  "chapter_title": "Torn Apart",
   "contents": '''
   
 Time moved slowly around me, agonizingly slowly. I didn't understand what was happening. In my vision, in front of me, there was a picture of my blade sticking out of the side of her body's ribcage. That didn't make any sense. It wasn't real.
