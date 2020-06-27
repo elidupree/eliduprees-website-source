@@ -16,6 +16,7 @@ posts = [
 
   ''',
   "head":head,  "chapter_title": "The Endless Maze",
+  "content_warnings": '''<p>Self-harm; negative self-talk</p>''',
   "contents": '''
   
 <img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/endless-maze-ornate.jpg?rr" alt="">
