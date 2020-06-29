@@ -15,7 +15,7 @@ posts = [
 
 
   ''',
-  "head":head,  "chapter_title": "Giving Up",
+  "head":head,  "chapter_title": "Facing the Tension",
   "contents": '''
 
 "Oh, uh, hi, Alchemist," I said awkwardly.
