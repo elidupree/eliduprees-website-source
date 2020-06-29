@@ -27,7 +27,7 @@ However, Arinyo Seti had a planned home birth, assisted by a midwife, as has bee
 Even if Yali <em>had</em> imprinted a hospital bed just after birth, ze might not have been able to manifest it without consciously thinking back to when ze was a baby.
 
   ''',
-  "head":head,  "chapter_title": "Justice",
+  "head":head,  "chapter_title": "The Priorities of Justice",
   "contents": '''
   
 My eyes followed the point of Justicar's sword hovering in front of me.
