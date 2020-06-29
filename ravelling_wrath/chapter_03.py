@@ -166,11 +166,9 @@ I met Layo at lunch that day. I ran up and gave him a big hug – our usual gree
 
 "Hey hey, what's up?"
 
-<em>So much</em> was up. I opened my mouth to start telling him all about – well, to tell him that I <em>would</em> have something big to tell him when we could talk in private. He was right there. All I'd have to do was open my mouth and say "Layo, I've got some big news, when can we talk?"
+<em>So much</em> was up. I opened my mouth to start telling him all about – well, to tell him that I <em>would</em> have something big to tell him when we could talk in private. All I'd have to do was open my mouth and say "Layo, I've got some big news, when can we talk?"
 
-But... something stopped me. It was just too much to explain. It would take forever, and…
-
-Anyway, I had something else on my mind. "Layo, what makes me mad?"
+But... something stopped me. It was just too much to explain. It would take forever. And anyway, I had something else on my mind. "Layo, what makes me mad?" I said.
 
 "Assholes?"
 
@@ -184,23 +182,23 @@ Layo paused. "I <em>was</em> joking, but that's honestly the first thing I think
 
 "Never mind that, just – come on, you've gotta be able to come up with something better than that. You know I just don't put –"
 
-"– just don't put up with people's you-know-what, I know. If that doesn't count, hmm..."
+"– just don't put up with people's you-know-what, I know. If that doesn't count, hmm…"
 
-"Hasn't there been anything where I've come to you afterwards just stewing about something?"
+"I'm venting to you all the time, there's gotta've been sometime it was about something serious!"
 
-"If you have, I'm not sure I can tell the difference? There's been a few times when I <em>thought</em> you were upset for real, but when we –"
+"If there was, I'm not sure I can tell the difference? There's been a few times when I <em>thought</em> you were upset for real, but when we –"
 
-"You mean like when I get kicked out of the tennis club? You were acting all <em>empathetic</em> and shit –"
+"You mean like when I got kicked out of the tennis club? You were acting all <em>empathetic</em> and shit –"
 
 "Yeah, I remember you laughed it off like you didn't care. Not that I'm saying you didn't! I mean –"
 
 I smirked. "Yeah, I pretty much didn't care about that."
 
-"That's okay! I mean..." Layo put a hand over his chest. "If I think of what makes <em>me</em> the most upset, it's not that kind of thing either. It's more about, uh, my own flaws. I, uh, I get really jealous of people sometimes, and I <em>know</em> it's wrong for me to be jealous, and it just eats me up. So, if you… I mean, it might not work the same way for you! I'm not saying there's something wrong with you if you get –"
+"That's okay! I didn't mean to say –"
 
-I internally kicked myself. I guess I'd asked for it, but I wasn't really ready to get into Layo-level introspectiveness. "Eh, never mind being serious," I said. "How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
+Before Layo could give any more unnecessary apologies, I tried a different angle. "How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
 
-Layo swallowed whatever he was going to say next. I wasn't sure how he was feeling, but then he relaxed. "We-ell..." he said, like he was mulling over my question. "Obviously, I'd murder your parents right in front of you. Obviously."
+Layo got a mischievous look on his face. "We-ell…" he said, pretending like he was mulling over my question. "Obviously, I'd murder your parents right in front of you. Obviously."
 
 "Hey!"
 
@@ -220,7 +218,7 @@ Layo swallowed whatever he was going to say next. I wasn't sure how he was feeli
 
 "Just don't do it again." Heh. If they actually made me clean it up, I'd just end up making a bigger mess, and they knew it.
 
-Dehel tried to keep yelling in my defense, so I covered his mouth and dragged him off towards the lunch lines. We all got our lunches and found an empty table to sit at. As I sat down, I was still grinning and catching my breath from the tickle fight. By the time I dug into my food, Pèi had launched into some of her hilarious impressions of the teachers' voices. Then Dehel cracked a cringey joke, then Pèi started an argument about it, and tried to drag me and Layo into it, all just for fun. My friends were the best, seriously. They always found a way to take my mind off things. And the food – well, the food wasn't great, but I was famished from skimping on breakfast, so I ate it up like nobody's business. Between wolfing down my food and trying to follow along with everyone's weird sense of humor, I almost forgot about, you know, the fact that the literal gods were trying to screw me over.
+Dehel tried to keep yelling in my defense, so I covered his mouth and dragged him off towards the lunch lines. When we sat down, I was still grinning and catching my breath from the tickle fight. By the time I dug into my food, Pèi had launched into some of her hilarious impressions of the teachers' voices. Then Dehel cracked a cringey joke, then Pèi started an argument and tried to drag me and Layo into it, all just for fun. My friends were the best, seriously. They always found a way to take my mind off things. And the food – I was famished from skimping on breakfast, so I ate it up like the Seeking was driving me. Between wolfing down my food and trying to follow along with everyone's weird sense of humor, I almost forgot about, you know, the whole thing where the literal gods were trying to screw me over.
 
 <bigbreak>
 
@@ -284,7 +282,7 @@ Yali doubled over, laughing silently. I couldn't help laughing along a little bi
 
 I let Yali catch up with me and held her hand again. "So, there was this girl I liked. I'm not going to say who it was, because I think she wants to forget about all this now, but anyway. I asked her out, and we had a good time, so we went on another date after that, and so on. Although they were less 'dates' and more 'me taking her to the movies or whatever so that we could make out for the whole time'. It wasn't a real relationship, we were just horny teenagers." That felt a little weird to say. "Ha ha, Waiting God knows I'm still a horny teenager. Buuu-uuut I'm in a real relationship now –" I squeezed Yali's hand "– and I'm fine if you want to take it slow."
 
-"Uh... right," said Yali. "Go on with the story!"
+"Uh… right," said Yali. "Go on with the story!"
 
 "Alright! So I kept taking her places, but I'd never had much spending money, so I ran out pretty fast. So I got myself an under-the-table job working in the kitchen at Duvidi's. The one year the school."
 
@@ -520,37 +518,11 @@ Yali relaxed a little. "So, next Friday it is then?"
 <p class="text right">and also yeah I can't stand it</p>
 <div class="clear"></div>
 
-<bigbreak>
+Yali wasn't quite herself for the rest of that week. As soon as she wasn't still tired from using the Seeing, her mind was ahead in the ordeal. I tried to tell her to take care of herself, but she just said, "Shh. It's, it's easier this way." 
 
-Something was off about Yali the next time we spoke. She was just as affectionate as usual, but even while she was clasping my hands in hers, she wasn't quite there. I talked, but she wasn't really paying attention.
+"You're doing all this stuff for me, at least you've gotta let me help you back somehow!" I said.
 
-"What's up?" I said finally. She didn't seem to notice, so I repeated it. "What's up? You seem totally out-of-it."
-
-She focused a little. "It's true. I'm not feeling well."
-
-"Oh no! Is there any way I can help? I'll totally pamper you, I'll bring you breakfast in bed…"
-
-"You, you don't need to do anything."
-
-"You gonna be okay?"
-
-"…should be… after Friday. I'm sorry, I didn't mean to space out on you like –"
-
-"Wait, is this about the ordeal?! You've gotta take care of yourself! First you burnt yourself out looking in the future, and now you're already working hard on –"
-
-"Shh. It's, it's easier this way." 
-
-"You're doing all this stuff for me, at least you've gotta let me help you back somehow! Come on!"
-
-Yali looked away and didn't answer. Ugh, when we'd said we'd do the thing next Friday, I didn't think we <em>wouldn't</em> get to spend time together normally before that! At least if I could help her out, I'd get to be <em>with</em> her.
-
-"There's gotta be something!" I went on.
-
-Yali kept staring past me. "I'll, I'll tell you if I need anything."
-
-Stern take it, that was <em>not</em> the answer I was looking for. But it wasn't like I could complain about it. It was <em>Yali</em>. I'd just have to put up with waiting until she was back to her regular self again.
-
-<bigbreak>
+Yali stared past me. "I'll, I'll tell you if I need anything." Stern take it, that was <em>not</em> the answer I was looking for. At least if I could help her somehow, I'd get to spend more time with her.
 
 But as that Friday got closer, I didn't feel so frustrated. Instead, I was <em>excited</em>. What did Yali have in store for me? Sitting in class on Friday morning, I couldn't think of anything else. The things she was texting me were just tiny glimpses into it.
 
@@ -560,7 +532,7 @@ Just then, another one came in.
 
 <div class="clear"></div>
 
-It was during class, but I held my phone under the table to text her back.
+It was during class, but I held my phone under the desk to text her back.
 
 <p class="text right">sure np</p>
 
