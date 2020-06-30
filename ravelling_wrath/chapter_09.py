@@ -81,9 +81,9 @@ Well, if the Blood God wanted me to feel torn up about it, I wasn't going to. "O
 
 Either way, though, I <em>did</em> want to go find Yali. I had no idea where she was, but at least I could try looking around. I started hunting through the chaos for a way to actually get somewhere, instead of just looping back on myself. The Blood God seemed happy enough with that.
 
-It was a real mind screw. I tried going to the furthest corners of the room I was in, but they all just looped back on each other. If space didn't work normally, any little spot in the middle of the room could have been the exit. So I searched everywhere. I pulled open a trapdoor, but it just dumped me back in the same room with the colors inverted. Then I noticed that, on the underside of the trapdoor, there was another trapdoor. <em>That</em> trapdoor went… somewhere completely different.
+It was a real mind screw. I tried going to the furthest corners of the room I was in, but they all just looped back on each other. If space didn't work normally, any little spot in the middle of the room could have been the exit. So I searched everywhere. I pulled open a trapdoor, but it dumped me back in the same room, just with the colors inverted. Then I noticed that, on the underside of the trapdoor, there was another trapdoor. <em>That</em> trapdoor went… somewhere completely different.
 
-Now we were getting somewhere. I jumped through. My vision was suddenly filled with blackness – a huge empty space like the bottomless pits from the earlier. A jumble of blocky shapes and ladders hovered in front of me, stretching into the blackness, each one floating in space with no supports, surrounded by emptiness in all directions. It was like a giant obstacle course, and if I missed a jump, I'd fall into a pit. It didn't actually feel scary, though. Like before, it felt more like someone had just <em>painted</em> a bottomless pit onto a floor that was right under the shapes. So I eagerly started jumping and swinging across.
+Now we were getting somewhere. I jumped through. My vision was suddenly filled with blackness – a huge empty space like the bottomless pits from the earlier. A jumble of blocky shapes and ladders hovered in front of me, stretching into the blackness, each one floating in space with nothing holding it up. It was like a giant obstacle course, and if I missed a jump, I'd fall into a pit. It didn't actually feel scary, though. Like before, it felt more like someone had just <em>painted</em> a bottomless pit onto a floor that was right under the shapes. So I eagerly started jumping and swinging across.
 
 The first bit was easy. But then, as I jumped from a floating block to a spinning platform, the world suddenly zoomed off sideways. The direction of gravity had changed while I was in midair! I flailed as I fell into infinite space. But I had scarcely fallen by a meter when I found myself landing on my hands and knees back at the beginning of the obstacle course.
 
@@ -93,7 +93,7 @@ I paused to catch my breath and look at what was up ahead.
 
 Everything was leading up to a golden exit door, hovering in the distance. Maybe that would get me closer to Yali! But before that, there was everything you could think of – slides, nets, spinning wheels, ropes that dangled in impossible directions, platforms that wobbled back and forth, stretches of empty space with only tiny handles to hang onto.
 
-Each challenge seemed nearly impossible before I did it. There was a set of monkey bars that were so far apart I couldn't reach between them even with my full arm span, but it turned out I could swing and grab the next one with my legs. Then there was a rope swing that looked awesome but actually sent me smacking right into the side of a big post, until I found just the right angle to swing off at. Then there was a set of overlapping wheels I had to jump through without hitting any of the spokes. The first time I tried it, one of the spokes smacked into my stomach and knocked the wind out of me, then I fell onto another one that flung me off into space. By the time I made it to the final challenge, my arms and legs were sore and I had bruises all over me. It was the most fun I'd had in ages.
+Each challenge seemed nearly impossible before I did it. There was a set of monkey bars that were so far apart I couldn't reach between them even with my full arm span, but it turned out I could swing and grab the next one with my legs. Then there was a rope swing that looked awesome but actually sent me smacking right into the side of a big post, until I found just the right angle to swing off at. Then there was a set of huge overlapping wheels where I had to jump through without hitting any of the spokes. The first time I tried it, one of the spokes smacked into my stomach and knocked the wind out of me, then I fell onto another one that flung me off into space. By the time I made it to the final challenge, my arms and legs were sore and I had bruises all over me. It was the most fun I'd had in ages.
 
 For the final challenge, I had to run along a narrow spiral through space to get to the golden exit door. Along the spiral, I had to literally jump through flaming hoops while dodging giant hammers and tricky floor tiles that were trying to flip my feet out from under me. If you'd shown me this the day before, I would've been like, "how the fuck do you expect me to do that?!". But now that I'd made it past the rest of the obstacles, this last bit felt like it just might be possible.
 
@@ -119,7 +119,7 @@ I leapt through a hoop, landing my feet in just the right place to not get tripp
 
 I was almost there! The exit platform was surrounded by a gap of empty space I'd have to jump over, I'd just have to get to the closest point and make a leap for it. I sprinted for that point, keeping an eye out for –
 
-A heavy bag smacked into my side, nearly knocking me off. Shit! I'd gotten here <em>faster</em> than usual, and it had thrown the timing off! I quickly got my balance, but there was a slow-moving wheel in the way of where I was going, and I didn't have time to wait for it before the floor would fall out from under me!
+A heavy bag smacked into my side, nearly knocking me off. Shit! I'd gotten here <em>faster</em> than usual, and it had thrown the timing off! I quickly got my balance, but there was another moving obstacle in my way, and I didn't have time to wait for it before the floor would fall out from under me!
 
 Running on instinct, I veered off to the side, running for the one spot that still gave me an angle on the exit. It wasn't the best angle, but before anything could mess me up, I got to the edge and made my last giant leap for it. As my body sailed through the air, a hidden tripwire caught on my ankle, almost ruining everything. With a terrific effort, I wrenched my foot away from the wire, just fast enough for me to keep going and smack down onto the platform. And then – I was <em>there</em>. I was at the final door.
 
@@ -129,7 +129,7 @@ It was another obstacle course, this one with water everywhere, full of spiral s
 
 Wait a minute. I didn't <em>have</em> a younger sibling.
 
-I was getting better at recognizing the Blood God's thoughts, I realized. So that was what it thought of the Seeking God? It wasn't wrong, haha. Especially if you counted Morrow – Morrow was the Seeking God's Raveller, and "never knew when to get serious" described him perfectly.
+I was getting better at recognizing the Blood God's thoughts, I realized. So that was what it thought of the Seeking God? It wasn't wrong, haha. Especially if you counted Morrow – Morrow was the Seeking God's Raveller, and "never knowing when to get serious" described him perfectly.
 
 What did the Blood God think of the other gods? I cleared my mind and tried to put myself in the same mental state I'd been in when I thought that stuff about the Seeking God.
 
@@ -149,7 +149,7 @@ I spent ages trying different things, piling up a heap of different manifested j
 
 Was the Seeking God reading my mind to stop me from cheating?!
 
-That gave me an idea. I made a Blood Blade and extended it into a long pole, long enough to cross the water. I smirked. The Seeking God could stop my regular manifesting all it wanted, but it wasn't allowed to stop the powers the Blood God gave me. So I made some more long Blood Blades and fused to them into a bridge so I could walk across.
+That gave me an idea. I made a Blood Blade and extended it into a long pole, long enough to cross the water. I smirked. The Seeking God could stop my regular manifesting all it wanted, but it wasn't allowed to stop the powers the Blood God gave me. So I made some more long Blood Blades and fused them into a bridge so I could walk across.
 
 Cheating was a lot of work, but it sure was satisfying. I molded my blades into bridges, ladders, and staircases, painstakingly crossing from platform to platform. Eventually, I found this room's exit door at the top of one of the walls. I was <em>supposed</em> to get there by opening floodgates to raise the water level a little at a time. Instead, I just made another ladder that went straight there.
 
@@ -157,7 +157,7 @@ I climbed through a hatch in the ceiling and found myself in another room, full 
 
 "Heeyyyyyy!" yelled a voice. "Hey Rinn! Have you seen Raylie?!"
 
-"Morrow!!" I yelled back. It was so good to see an actual person again, even if it wasn't the one I wanted the most. I ran towards him and tackle-hugged him, sending us both tumbling. When we crashed into a few of the dangling ropes, it set the whole network swinging and flashing while the walls began to rotate.
+"Morrow!!" I yelled back. It was so good to see an actual person again, even if it wasn't the one I wanted. I ran towards him and tackle-hugged him, sending us both tumbling. When we crashed into a few of the dangling ropes, it set the whole network swinging and flashing while the walls began to rotate.
 
 Morrow twitchily untangled a rope that had wrapped around his arm. "Have you seen Raylie??" he repeated.
 
@@ -197,13 +197,13 @@ Where had the voice come from? Thinking back, I wasn't sure I had literally hear
 
 "Wait, that's right! So I just won't say it out loud –" I glared at the gate, then silently manifested a big ladder to climb over it with.
 
-A dense row of spikes appeared at the top of the gate. "<em>The gate cannot be climbed over</em>."
+A dense row of spikes appeared at the top. "<em>The gate cannot be climbed over</em>."
 
 "You absolute cheater!"
 
 Out of nowhere, Morrow yelled, "I'm going to <em>stay on this side of</em> the gate!"
 
-"<em>The gate cannot be stayed on this side of</em>," said the voice, as an invisible force sucked us through the gate to the other side.
+"<em>The gate cannot be stayed on this side of</em>," said the voice. An invisible force sucked us through the gate to the other side.
 
 I spun around, trying to get my bearings. "<em>That</em> was the solution??" I demanded. "What the fuck, how was I supposed to know that was the solution?"
 
@@ -211,7 +211,7 @@ I spun around, trying to get my bearings. "<em>That</em> was the solution??" I d
 
 The next few things we ran into were more riddles like that one. There was a hallway that stretched out ahead of us as we tried to run along it, until Morrow tried running backwards. Then there was a room where the exit was in the ceiling, and my ladders kept falling over, but Morrow tried just walking up the wall and it worked. Then there was a weird-shaped key and a door with no keyhole, and the door opened when Morrow stuck the key in his mouth and swallowed it. It kept going and going like that. I was getting a little frustrated. I <em>tried</em> to help solve the riddles, but every time, Morrow just hyperactively tried random stuff until something worked. Why didn't <em>my</em> hyperactively trying random stuff count for anything??
 
-Right now, we were in a rectangular room where everything was a black-and-white checkerboard pattern. Or, not quite a checkerboard. It was all black and white tiles, but the tiles on the walls were more of a spiral pattern. I'd been looking all around to try and find a meaning to the pattern, but I couldn't see one. Morrow was just goofing off, and he was probably going to solve it before me, no matter how hard I was trying.
+Right now, we were in a rectangular room where everything was a black-and-white checkerboard pattern. Or, not quite a checkerboard. It was all black and white tiles, but the tiles on the walls were more of a spiral pattern. I'd been staring at it, trying to find a meaning to the pattern, but I couldn't see one. Morrow was just goofing off, and he was probably going to solve it before me, no matter how hard I was trying.
 
 When I complained about it, Morrow said, "You can't just try harder! You have to try stupider!"
 
@@ -225,11 +225,13 @@ What was the point of me being here if I didn't even get to solve anything? I sh
 
 "Whatever!" I grabbed Morrow's wrist and dragged him through the new door with me.
 
+<bigbreak>
+
 The next room was just an empty room, at first. The door at the other side was locked, of course. When I looked back, the door behind us also slammed closed and merged with the wall. Typical. In the middle of the room, two waist-high pedestals rose from the floor.
 
 "Okay, fine," I said. I stepped up to one of the pedestals, and it lit up and hummed. Then Morrow stepped up to the <em>other</em> pedestal, and the real game began.
 
-The whole room lit up with carnival lights. The walls were covered with a projection of a farmyard scene. On the top of my pedestal, four icons appeared: a cow, a sword, a grand piano, and a spaceship. It looked like Morrow had similar icons on his. Looking at the farmyard scene around me, I said, "I think we're supposed to match the icon to the scene!" We both touched the cow icon. A spinning hologram of a cow popped up from each pedestal, with a cheering sound. Moments later, the walls changed to a ocean scene and four new icons popped up.
+The whole room lit up with carnival lights. The walls were covered with a projection of a farmyard scene. On the top of my pedestal, four icons appeared: a cow, a sword, a grand piano, and a spaceship. It looked like Morrow had the same icons on his. "I think we're supposed to match the icon to the scene!" I said. Since we were in a virtual farmyard, we both touched the cow icon. A spinning hologram of a cow popped up from each pedestal, with a cheering sound. Moments later, the walls changed to a ocean scene and four new icons popped up.
 
 "Haha, this is just like a game show!" I said. "Better watch out, I'll beat you!"
 
@@ -305,7 +307,7 @@ The clock was running at a normal pace. It had a simple, blocky hour hand, and t
 
 "That curve! That's where the hours moves! It'll trace out that curve in a buncha hours –"
 
-"Yeah, eight hours," I said tiredly. Morrow always seemed to solve the puzzles before me, so I had resigned myself to just adding whatever information I could so I didn't feel totally useless.
+"Yeah, eight hours," I said tiredly. Since Morrow always seemed to solve the puzzles before me, I had resigned myself to just pointing out whatever I could so I didn't feel totally useless.
 
 "Betcha that means we've got eight hours to solve the puzzle!"
 
@@ -361,7 +363,7 @@ I <em>could</em> have just kept holding onto him for the next eight hours. That 
 
 "What game?!"
 
-"Uh…" I hadn't thought that far ahead. Normally I would have been able to manifest any board game I could think of, but of course that didn't work now. Still holding onto Morrow with one hand, I stuck my other hand in my pocket to see if I was carrying anything we could use to play a game with. But the only thing I pulled out was my phone, of course. "Hey, do you have games on your phone that you could play?"
+"Uh…" I hadn't thought that far ahead. Normally I would have been able to manifest any game I could think of, but of course that didn't work now. Still holding onto Morrow with one hand, I stuck my other hand in my pocket to see if I was carrying anything we could use to play a game with. But the only thing I pulled out was my phone, of course. "Hey, do you have games on your phone that you could play?"
 
 I carefully allowed Morrow to take out his phone. He swiped through it aggressively. "I've already played all these!!"
 
@@ -371,7 +373,7 @@ Morrow snatched my phone out of my hands and immediately started flipping throug
 
 While he was doing that, I idly flipped through his phone, too. He had a <em>lot</em> of games. I didn't recognize most of them, but a bunch of them were ones that I'd mostly seen girls play rather than boys. Interesting…
 
-On the other side of the room, Morrow tore through game after game. The only time his fingers weren't darting across the screen was when he was glaring at slow loading screens and crying. He was technically unlocking a lot of free stuff for me in the games, but it didn't feel right. I didn't feel like this was going anywhere good. But I didn't want to interrupt him and make it worse…
+Meanwhile, Morrow tore through game after game. The only time his fingers weren't darting across the screen was when he was glaring at slow loading screens and crying. He was technically unlocking a lot of free stuff for me in the games, but it didn't feel right. I didn't feel like this was going anywhere good. But I didn't want to interrupt him and make it worse…
 
 Finally, Morrow looked up.
 
@@ -381,7 +383,7 @@ Finally, Morrow looked up.
 
 Morrow didn't seem to hear me. "– and you have to do all of these copy-pasted levels just to get ONE new THING! There's supposed to be something THERE!! Who would even –"
 
-I made a grab for the phone. At the same instant, Morrow made a wild gesture with his hand in the air. It all happened faster than I could react. Our arms collided. My phone flew into the air, smacked against the ceiling, then fell and hit the ground with a loud crack before it tumbled and lay still.
+I made a grab for the phone. At the same instant, Morrow made a wild gesture with his hand. It all happened faster than I could react. Our arms collided. My phone flew into the air, smacked against the ceiling, then fell and hit the ground with a loud crack before it tumbled and lay still.
 
 "Are you kidding me!! That was my REAL phone!" I exploded. I ran and snatched it up from where it had landed on the floor. The screen was cracked. It wouldn't turn on.
 
@@ -391,9 +393,9 @@ Morrow covered his head and cowered away from me. I stood over him, not even car
 
 Morrow kept his head down and whimpered, "I'm a piece of shit, I'm such a piece of shit…"
 
-"Yeah, that sounds about right!! You fucking – fucking – I don't know –" I faltered. The way I was feeling – it was sickeningly close to how I'd felt when I had yelled at Yali in the first layer. And no matter how much I was itching to rip into Morrow some more, I didn't want to go down that path again. <em>Controlling Game</em>, I said to myself. "Look, Morrow," I said, bringing my voice a lot closer to neutral, "just shut up, all right? I'm upset, you're upset, but it's just a phone. Both of us are way more important than it is. And if you say you're less important than the phone, I'll have to smack you again."
+"Yeah, that sounds about right!! You fucking – fucking – I don't know –" I faltered. The way I was feeling – it was sickeningly close to how I'd felt when I had yelled at Yali in the first layer. And no matter how much I was itching to rip into Morrow some more, I <em>definitely</em> didn't want to go down that path again. <em>Controlling Game</em>, I said to myself. "Look, Morrow," I said, bringing my voice a lot closer to neutral, "just shut up, all right? I'm upset, you're upset, but it's just a phone. Both of us are way more important than it is. And if you say you're less important than the phone, I'll have to smack you again."
 
-Morrow grinned up at me manically. "I'm less important than the phone," he said.
+Morrow grinned up at me. "I'm less important than the phone," he said.
 
 "Oh, for fuck's sake. Just shut up."
 
@@ -469,7 +471,7 @@ Morrow looked up at me with a little smirk. "This is the only room we've got!!" 
 
 "Anyway," I said, "point is, having sex here is totally no-consequences, so you could totally –"
 
-Alchemist interrupted me, staring into space as if they hadn't noticed I was talking. "Maybe,… not <em>here</em>?" they said. "Maybe, somewhere else in the Otherworld?"
+"Maybe,… not <em>here</em>?" Alchemist interrupted, staring into space as if they hadn't noticed I was talking. "Maybe, somewhere else in the Otherworld?"
 
 I grinned and gave them a thumbs-up. "You go get it!"
 
@@ -589,7 +591,7 @@ There was a pause. <em>Morrow? You there?</em>
 
 <em>Really bad idea,</em> Morrow repeated. I could feel him thinking of Alchemist somehow. <em>Pick something calmer. Something easy.</em>
 
-Well, I wasn't going to pick <em>calmness</em>, that would feel weird if it happened all of a sudden. Eventually we settled on a feeling of cool, confident pride. Morrow messed around with my feelings some more, like he was tying them in knots.
+I tried to pick plain calmness, but Morrow said that wasn't a feeling. Eventually we settled on a feeling of cool, confident pride. Morrow messed around with my feelings some more, like he was tying them in knots.
 
 Before I knew it, I felt like he was done. <em>There ya go! All loopied up!</em> he sent. It was actually kind of anticlimactic.
 
