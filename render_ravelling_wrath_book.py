@@ -137,6 +137,9 @@ full_html = wrap("".join (chapters[:]))
 with open (html_path, "w") as file:
   file.write (full_html)
   
+tags = "Fiction, Young Adult, Fantasy, Urban Fantasy, Adventure, Consent, Healthy Relationships, Mental Health, Coming of Age, LGBT, Lesbian,"
+tags = [match.group (1) for match in re.finditer (r"([^,\s][^,]*)", tags)]
+
 content_opf = '''
 <?xml version="1.0" encoding="UTF-8">
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
@@ -147,9 +150,8 @@ content_opf = '''
     <dc:date>'''+datetime.date.today().isoformat()+'''</dc:date>
     <dc:contributor opf:role="cov" opf:file-as="Fensore, Sarah">Sarah Fensore</dc:contributor>
     <dc:identifier id="uuid_id" opf:scheme="uuid">c0b3ea68-aced-4746-966b-7b0fc27ba1fc</dc:identifier>
-    <dc:subject>Healthy relationships</dc:subject>
-    <dc:subject>Consent</dc:subject>
-    <dc:subject>Mental health</dc:subject>
+    '''+'''
+    '''.join(f'''<dc:subject>{tag}</dc:subject>''' for tag in tags) + '''
     <dc:description>'''+ravelling_wrath.main.full_blurb+'''</dc:description>
     <dc:language>en</dc:language>
     <dc:identifier opf:scheme="ISBN">TODO</dc:identifier>
