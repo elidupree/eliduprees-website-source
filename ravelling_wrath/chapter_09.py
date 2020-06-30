@@ -637,7 +637,7 @@ I looked into my own. It was barely bigger than my hand, but as soon as I looked
 
 "Use your intention," said Justicar. "Try to look for a specific room. This one, for example."
 
-"Fine." I focused my mind to manifest on the orb, concentrating on the room we were standing in. In moments, every other diagram slid aside and I saw a small icon of the fountain, with the walkways zigzagging out in all directions around it. The map was even three-dimensional – I could look at it from a different angle if I tried. But the most interesting thing was the four symbols written right next to the fountain.
+"Fine." I focused my mind to manifest on the orb, concentrating on the room we were standing in. In moments, every other diagram slid aside and I saw a small icon of the fountain, with the walkways zigzagging out in all directions around it. But the most interesting thing was the four symbols written right next to the fountain.
 
 The Endless Maze symbol, where Morrow was standing.
 

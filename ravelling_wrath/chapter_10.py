@@ -21,7 +21,7 @@ posts = [
   
 It wasn't hard to get the others to follow along with me. Morrow was always going to follow wherever Alchemist went. Justicar was always going to follow the rest of us to "protect" us. And Alchemist… I wasn't really sure, but they moved to follow along as soon as I said where I was going. Maybe they wanted us all to get back together with Yali again, just like I did.
 
-So we followed where the map let us. Morrow showed us a bunch more tricks for how to use it. Besides just moving to where you wanted to look at, you could also change it to highlight different landmarks. You could change the angle you were looking at things in 3D. And you could make the whole map disappear and reappear whenever you wanted, so it wasn't annoyingly floating around your hand all the time.
+So we went where the map led us. Morrow showed us a bunch more tricks for how to use it. Besides just moving to where you wanted to look at, you could also change it to highlight different landmarks. You could change the angle so you were looking at things in three dimensions. And you could make the whole sphere disappear and reappear whenever you wanted, so it wasn't annoyingly floating around your hand all the time.
 
 The way we were walking, more glass walkways stretched out over the void. At first, we were on a long straight one. But then it branched and expanded into a whole three-dimensional maze in the air, with different walkways curling around each other and joining in loops and stopping at dead ends in midair.
 
@@ -47,19 +47,17 @@ Why had I ever tried to work with Morrow? We'd just opened up a way for him to g
 
 Then again, it couldn't hurt to try, could it? None of the puzzles here had <em>actually</em> hurt me, even when I did stupid stuff. So I just took a flying leap off the platform, fell into the bottomless void, and landed back at the beginning of the puzzle like usual.
 
-Except this time… it actually had a chance to be useful for solving the puzzle. It meant you could move the walkways in a way that trapped yourself, if it was useful for someone else. You could just trap yourself, then jump back to the beginning. Or at least, three of us could. Alchemist was too nervous to jump.
+Except, this time, jumping off wasn't <em>just</em> a reset. The walkways didn't reset along with you. So you could move the wheels to whatever position was the most useful, even if it trapped yourself, then jump back to the beginning. Or at least, three of us could. Alchemist was too nervous to jump.
 
 By taking advantage of that, Justicar and I were able to get a lot farther without Morrow's help. Meanwhile, Morrow climbed up to a weird high spot.
 
 "Hey look! Up ahead!" he yelled.
 
-Once I looked closer, I could see what he was pointing at. Ahead of us, the tangle of walkways started to thin out. Eventually, it narrowed to just one, stretching off into the darkness – the end of this puzzle, and the beginning of whatever came next.
-
-Except, actually… there were <em>two</em> walkways into the darkness. We would have to decide which way to go.
+Once I looked closer, I could see what he was pointing at. Ahead of us, the tangle of walkways started to thin out. Eventually, it narrowed to just one, stretching off into the darkness – the end of this puzzle, and the beginning of whatever came next. Or, when I looked closer, there were <em>two</em> walkways into the darkness. We would have to decide which way to go.
 
 Not that it was hard for <em>me</em> to decide. "The one on the right looks closer to Yali. I'm going that way for sure!"
 
-"Hmm…" said Justicar. "Look closely. Both routes begin with interlocks that will only allow two people across. So it seems we have no choice but to split into groups of two. That means we have a choice to make – not only which way each of us will go, but who will be paired with whom. A difficult choice, as I don't believe that <em>any</em> two of you should be left alone together."
+"Hmm…" said Justicar. "Look closely. Both routes begin with interlocks that will only allow two people to pass. So it seems we have no choice but to split into groups of two. That means we have a choice to make – not only which way each of us will go, but who will be paired with whom. A difficult choice, as I don't believe that <em>any</em> two of you should be left alone together."
 
 Morrow leaned over a railing, sneering down at her. "Yeeeeeah, and the third one has to be alone with <em>you</em>, so I guess we <em>alllllll</em> have to put up with something we don't like."
 
