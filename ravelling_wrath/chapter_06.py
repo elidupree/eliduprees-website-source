@@ -115,7 +115,7 @@ Yali frowned. "I did. There's never been a computer here before, it's always bee
 
 She contained herself. "Oh I get it now… It was never a bookshelf, it was 'a vast collection of ancient knowledge'! And it's constructed based on our assumptions, so maybe people USED to think that meant a bunch of books, but the place <em>we'd</em> look for ancient knowledge is –"
 
-"– on the Internet," we finished together. I grinned. "Hey, does that mean we'll have internet here?"
+"– on the Internet," we finished together. I grinned. "Hey, does that mean we'll have Internet here?"
 
 It didn't. When I started messing around on the computer, I didn't recognize any of the programs on it. Most of them had to do with some sort of Codex. There was one called Codex, one called CodexViewer, one called CodexSearch, one called KnowledgeBase, and a whole bunch more stuff like that. I tried starting a few of them, and none of them even did anything.
 
