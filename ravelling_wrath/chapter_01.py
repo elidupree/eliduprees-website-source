@@ -63,7 +63,7 @@ As I jogged towards her house, I pulled out my phone to check exactly what she'd
 We'd been dating for about a month, and Yali was one of the calmest, most patient people I'd ever met. If Yali said something was important, it was <strong>important</strong>. You know the saying – "When the Waiting God moves, beware." I scrolled through the rest of the messages:
 
 <p class="text right">omg is there someone I'll need to beat up</p>
-<p class="text left">No its much bigger than that. Think like... the gods</p>
+<p class="text left">No its much bigger than that. Think like… the gods</p>
 <p class="text right">the gods?!</p>
 <p class="text left">I'm not explaining this right</p>
 <p class="text left">Just meet at my place after school, OK?</p>
@@ -85,7 +85,7 @@ From the gate, it would only be a short run to Yali's place. But my legs didn't 
 
 I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "You ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
 
-She gently pulled me inside and we flopped down on a couch. While I relaxed, Yali leaned forward, looking off into the distance, as if she was thinking hard about something. She turned halfway towards me and opened her mouth, but then closed it again. Was this the important thing she was going to tell me? But she... couldn't figure out how to say it?
+She gently pulled me inside and we flopped down on a couch. While I relaxed, Yali leaned forward, looking off into the distance, as if she was thinking hard about something. She turned halfway towards me and opened her mouth, but then closed it again. Was this the important thing she was going to tell me? But she… couldn't figure out how to say it?
 
 "Your leg!" said Yali suddenly.
 
@@ -117,21 +117,21 @@ Yali muttered while she worked. "Your pants are pretty tight. That might have he
 
 "Of course!" said Yali.
 
-We laughed together. Yali and I were so different, yet so... so...
+We laughed together. Yali and I were so different, yet so… so…
 
 Yali went to put away the extra bandages and stuff. By the time she was back, I had finally caught my breath. Maybe now this distraction was over. I said, "So, about what you texted me…"
 
-Yali... hesitated. I couldn't tell whether she was uncomfortable or just not sure what to say. She swallowed. Turned away. Turned back towards me. My heart seemed to be pounding harder than it was even when I was running.
+Yali… hesitated. I couldn't tell whether she was uncomfortable or just not sure what to say. She swallowed. Turned away. Turned back towards me. My heart seemed to be pounding harder than it was even when I was running.
 
-"I've spent all morning trying to plan how to tell you this," she said. "But I don't even know how to start. I should've told you a long time ago. I just, I just... How do <em>you</em> always know what to say?"
+"I've spent all morning trying to plan how to tell you this," she said. "But I don't even know how to start. I should've told you a long time ago. I just, I just… How do <em>you</em> always know what to say?"
 
 "What? You're the one who always knows what to say!"
 
 Yali stared back at me.
 
-One way or another, she was clearly having trouble with this. "Uh..." I said. "Maybe if you start by, uh... at the beginning? Or like find ONE thing you know how to tell me and start with that?"
+One way or another, she was clearly having trouble with this. "Uh…" I said. "Maybe if you start by, uh… at the beginning? Or like find ONE thing you know how to tell me and start with that?"
 
-"That could work..." Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. I watched her uncertainly. She didn't look upset, but this wasn't something I'd seen before. Yali squinting. Yali chewing her lip. From anyone else, that wouldn't have caught my attention. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
+"That could work…" Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. I watched her uncertainly. She didn't look upset, but this wasn't something I'd seen before. Yali squinting. Yali chewing her lip. From anyone else, that wouldn't have caught my attention. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
 
 <img class="sketch" src="/media/ravelling-wrath/sketches/ch1-mid.jpg?rr" alt="">
 
@@ -141,7 +141,7 @@ Finally, she spoke up. "How much do you know about what happens during," she swa
 
 "It's, it's, it's worse than that. Just tell me how much you know, so I can explain from there."
 
-I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous, and now I had to remember some shit from Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of tasks. If they live, they get to go home, and the gods can... Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"
+I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous, and now I had to remember some shit from Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of tasks. If they live, they get to go home, and the gods can… Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"
 
 Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
@@ -161,7 +161,7 @@ My head was spinning. "I don't feel like I know anything about anything. Where d
 
 Yali took my hand. "Think of one thing you know how to ask me, and start with that."
 
-She made it look so easy, throwing my own advice right back at me. Well, the advice <em>did</em> work. I cleared my throat. "Okay... <em>how</em>? I don't even follow the Blood God. Nobody does. Why would the Blood God pick <em>me</em> out of everyone?"
+She made it look so easy, throwing my own advice right back at me. Well, the advice <em>did</em> work. I cleared my throat. "Okay… <em>how</em>? I don't even follow the Blood God. Nobody does. Why would the Blood God pick <em>me</em> out of everyone?"
 
 "The gods don't pick the Ravellers based on who worships them. They pick people who live by their <em>principles</em>," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "So, for example, the Waiting God values patience, foresight, and planning. And – you know me, I'd plan what shoes to wear to my own execution."
 
@@ -217,7 +217,7 @@ I shrugged. "I do the work."
 
 "<em>Not</em> for being smart. For patience, foresight, and planning," said Yali patiently.
 
-"What's the difference? Can't you just... <em>plan</em> your way into getting the right answers? Oh! And <em>foresee</em> what's going to be on the test!"
+"What's the difference? Can't you just… <em>plan</em> your way into getting the right answers? Oh! And <em>foresee</em> what's going to be on the test!"
 
 "Well, I'll be able to do that <em>soon</em>."
 
@@ -239,7 +239,7 @@ Yali was biting her lip.
 
 "What?" I said.
 
-"The – history. Between the Blood Child and the Farseer..."
+"The – history. Between the Blood Child and the Farseer…"
 
 "What is it?"
 
@@ -247,9 +247,9 @@ Yali was biting her lip.
 
 "Just tell me."
 
-"You always – The Blood Child always – No... if I explain it like that, you won't <em>get</em> it." Yali swallowed. "When I was Chosen as the Farseer, I got two powers. One of them was the ability to see possible futures, although it's very weak and hard to use here in the material world. The other was a lot of <em>memories</em>. The memories of dozens of previous Farseers. So I can <em>remember</em> previous Ravellings, almost as if they happened to me directly."
+"You always – The Blood Child always – No… if I explain it like that, you won't <em>get</em> it." Yali swallowed. "When I was Chosen as the Farseer, I got two powers. One of them was the ability to see possible futures, although it's very weak and hard to use here in the material world. The other was a lot of <em>memories</em>. The memories of dozens of previous Farseers. So I can <em>remember</em> previous Ravellings, almost as if they happened to me directly."
 
-"And...?"
+"And…?"
 
 "In each Ravelling, I'm a different person, and the other Ravellers are different too. They don't always have the same powers, and they don't always have the same personalities – except for, for, they always have something in common with their god, but the rest is different. And so I have a different relationship with each of them each time. Sometimes they work with me, sometimes they work against me. The Blood Child sometimes starts out as my enemy, but not always. In one of them, the Blood Child even loves me, just like you do now. But in all the memories – even the one where the Blood Child loves me –"
 
@@ -267,7 +267,7 @@ I stared, wondering if I should feel shocked. But I didn't know how to feel shoc
 
 "Symbolic," I deadpanned. Yali snorted.
 
-"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. The one who loved me – I remember him wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he..."
+"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. The one who loved me – I remember him wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he…"
 
 "I don't want to make you remember anything traumatic," I said quickly.
 

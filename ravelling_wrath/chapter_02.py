@@ -77,7 +77,7 @@ Yali gave me a Look.
 
 "No, I believe you." Yali stopped and thought for a minute. "That… could actually make things harder."
 
-"Well, if the point is just to get me mad, so that I can practice getting less mad or whatever..." I began. That was kind of a weird idea, but also kind of intriguing. Like a challenge. "Why don't you just <em>make</em> me mad?"
+"Well, if the point is just to get me mad, so that I can practice getting less mad or whatever…" I began. That was kind of a weird idea, but also kind of intriguing. Like a challenge. "Why don't you just <em>make</em> me mad?"
 
 "But… how? You just said –"
 
@@ -127,7 +127,7 @@ That was true. It was still early September, about a month after Yali first aske
 
 "Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper rings of the city. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
 
-But Mom and Dad... They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second ring to the fifth ring". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
+But Mom and Dad… They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second ring to the fifth ring". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
 
 I continued, "They're only really mad if they think I'm hanging out with, like, secret Blood worshippers or something."
 
@@ -283,7 +283,7 @@ After a moment, I realized that Yali was just sort of staring at me. Maybe I had
 
 "I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, of, not harming you. And that's nice. But I'm <em>not</em> harmless. I know that."
 
-"I... I think I get it," I said. "Shit, I said a lot of stuff like that about you today, didn't I? Sorry. I'll try to be more sensitive about that."
+"I… I think I get it," I said. "Shit, I said a lot of stuff like that about you today, didn't I? Sorry. I'll try to be more sensitive about that."
 
 "Thanks." Yali laughed. "We're solving our relationship conflicts too fast! Now this will never work."
 

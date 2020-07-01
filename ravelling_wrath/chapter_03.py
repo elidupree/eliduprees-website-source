@@ -41,7 +41,7 @@ because the original version sounded like too clear of an explanation. Also, the
 </li>
 <li>I inserted "Guess I had to say something" before one of Rinn's lines, so it didn't look like ze had had an answer ready.</li>
 <li>I changed a few periods into dashes to make the sentences sound less conclusive.</li>
-<li>I wrote "I had... slept through my alarm? Never mind, I didn't have time to think about it.", when I would normally have had Rinn give a description of zir normal relationship to alarm clocks.</li>
+<li>I wrote "I had… slept through my alarm? Never mind, I didn't have time to think about it.", when I would normally have had Rinn give a description of zir normal relationship to alarm clocks.</li>
 <li>I changed
 <blockquote>
 Finally I managed to think of something. I wasn't sure about it, but I didn't have anything else, so it would have to do.
@@ -64,7 +64,7 @@ Finally an idea scraped out. It was rough, but I didn't have anything else, so i
 
 "Uuuuughhhh."
 
-I rolled over and tried to flop out of bed. I had dreamed of a world of steel and stone, where a glaring sun pulsed like a heart. Now I was stuck back here in the real world, with... ugh. My bedsheets tasted bad.
+I rolled over and tried to flop out of bed. I had dreamed of a world of steel and stone, where a glaring sun pulsed like a heart. Now I was stuck back here in the real world, with… ugh. My bedsheets tasted bad.
 
 I hauled myself up and stumbled down the stairs. Rubbing my eyes, I almost walked straight into my dad.
 
@@ -104,7 +104,7 @@ Dad looked like he was gearing up to say something else, but Mom touched his han
 
 Mom sighed. "You slept through your alarm, and you've barely touched your food…"
 
-I had... slept through my alarm? Never mind, I didn't have time to think about it. "I've eaten more than half of this!" I snapped back.
+I had… slept through my alarm? Never mind, I didn't have time to think about it. "I've eaten more than half of this!" I snapped back.
 
 "Not if you count the snack you always have directly afterwards." I grimaced. Sometimes I hated being so easy to read. "Rinn… you <em>never</em> sleep through your alarm, and you <em>never</em> leave your breakfast half-eaten. So please… just tell us what happened. Are you in trouble?"
 
@@ -168,7 +168,7 @@ I met Layo at lunch that day. I ran up and gave him a big hug – our usual gree
 
 <em>So much</em> was up. I opened my mouth to start telling him all about – well, to tell him that I <em>would</em> have something big to tell him when we could talk in private. All I'd have to do was open my mouth and say "Layo, I've got some big news, when can we talk?"
 
-But... something stopped me. It was just too much to explain. It would take forever. And anyway, I had something else on my mind. "Layo, what makes me mad?" I said.
+But… something stopped me. It was just too much to explain. It would take forever. And anyway, I had something else on my mind. "Layo, what makes me mad?" I said.
 
 "Assholes?"
 
@@ -308,7 +308,7 @@ I glanced around to make sure no one else on the street was listening. "Yeeeeaaa
 
 "It makes you really angry."
 
-"Yeah! If somebody just says 'fuck you, Rinn' or whatever, I know where I stand with them, you know? But when people <em>act</em> like they're on my side when they're <em>not</em>... I basically just told them to fuck off. I wish I had come up with something smarter to say."
+"Yeah! If somebody just says 'fuck you, Rinn' or whatever, I know where I stand with them, you know? But when people <em>act</em> like they're on my side when they're <em>not</em>… I basically just told them to fuck off. I wish I had come up with something smarter to say."
 
 "Maybe we can use this. I can <em>see</em> you getting angry right now, more than we managed the other day."
 
@@ -406,7 +406,7 @@ Yali hesitated. "My idea is to, to, to <em>explore</em> your ways of feeling ang
 
 "Okay…" I thought back to sometime when Breck was harassing Tierze. He was such a fucking asshole. I wished I could just smash his stupid face in. Was I supposed to still be mad about it, though?
 
-"Eh..." I said.
+"Eh…" I said.
 
 "I saw you grimace for a moment there."
 
@@ -452,7 +452,7 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 
 "Stop. Just this once, can I ask you to take some time and think it through? If this works, it'll be a really unpleasant experience for you. So I don't want to jump into it unless you're sure about it."
 
-"How bad can it be?" I said. Yali stared back at me. "Fuck, I bet that's exactly what you <em>didn't</em> want me to say. Okay, give me a minute." I said. I looked down at the table. What was I supposed to do, though – think like a careful person? What <em>would</em> a careful person do in this situation? "Okay, so I <em>want</em> to challenge myself, but I guess I need to be worried about, uh... like if it could cause lasting damage to my psyche? That's just, like, no way – I'm not a 'lasting damage to my psyche' sort of person. Or if it… messes up our relationship? But I'll <em>know</em> you're just doing it because, you know –"
+"How bad can it be?" I said. Yali stared back at me. "Fuck, I bet that's exactly what you <em>didn't</em> want me to say. Okay, give me a minute." I said. I looked down at the table. What was I supposed to do, though – think like a careful person? What <em>would</em> a careful person do in this situation? "Okay, so I <em>want</em> to challenge myself, but I guess I need to be worried about, uh… like if it could cause lasting damage to my psyche? That's just, like, no way – I'm not a 'lasting damage to my psyche' sort of person. Or if it… messes up our relationship? But I'll <em>know</em> you're just doing it because, you know –"
 
 Yali was looking at me.
 
@@ -634,11 +634,11 @@ The whole thing tumbled into a pile.
 
 "Again."
 
-I did it again. And again, and again. I could definitely see how this was supposed to piss me off. I'd barely started, and I already couldn't wait for it to be over. But there was no way I'd be beaten so easily. I just focused on what was in front of me. It became a little ritual. Two blocks on... three blocks on... four... and it all comes down. And start again... two blocks on... three...
+I did it again. And again, and again. I could definitely see how this was supposed to piss me off. I'd barely started, and I already couldn't wait for it to be over. But there was no way I'd be beaten so easily. I just focused on what was in front of me. It became a little ritual. Two blocks on… three blocks on… four… and it all comes down. And start again… two blocks on… three…
 
-Hunger ground away at me. I resolutely ignored it. It didn't matter if I was used to eating three meals a day plus three or four snacks, I was <em>not</em> going to let this hunger get the better of me. I just had to focus on what I was doing. Two blocks on... three...
+Hunger ground away at me. I resolutely ignored it. It didn't matter if I was used to eating three meals a day plus three or four snacks, I was <em>not</em> going to let this hunger get the better of me. I just had to focus on what I was doing. Two blocks on… three…
 
-<p>...and it all comes down.</p>
+<p>…and it all comes down.</p>
 
 What the fuck, was I getting <em>worse</em> at balancing the blocks? I gathered them up impatiently to start again. Wait a minute, what was even the point of being impatient? It wasn't like I was expecting to finish anyway.
 
@@ -696,11 +696,11 @@ And then a miracle happened. I got six blocks standing stably on top of each oth
 
 "I told you to go to eight," Yali said dismissively. "Seven isn't – oh, silly me!" she interrupted herself in her normal voice, and I felt a rush of hope in the middle of the awful grind. But then she snapped back. "I see that was too much for you. From now on, you'll be doing stacks of <em>two</em>."
 
-"But that's..."
+"But that's…"
 
 "Get going."
 
-<em>...too easy.</em> I had a sinking feeling already.
+<em>…too easy.</em> I had a sinking feeling already.
 
 I made a stack of two, and then another stack. It didn't feel like anything. Slowly, helplessly, I could feel my head filling with a rage that I had no way to tune out. With the stack-of-eight thing, at least I'd been able to pretend I was going to get somewhere. But now I had nothing to look forward to. I couldn't even look forward to having them all stacked up in pairs, because Yali just slapped them down with her meterstick as soon as I had more than a few of them.
 
@@ -716,7 +716,7 @@ I stood there frozen.
 
 "Get on with it. Stop wasting my time. You know how much effort I went through to set this up? If you're not going to do as I say, you're wasting it. You're wasting everything I've done for you. <em>Hit me or get back in the chair.</em>"
 
-I <em>had</em> to! But I <em>couldn't</em>! But...
+I <em>had</em> to! But I <em>couldn't</em>! But…
 
 "You're not going to do it? Then <em>sit down, shut up, and get back to work.</em>"
 
@@ -748,7 +748,7 @@ Yali's big arms closed around me. She pulled me into a hug even as I shook and h
 
 But deep inside me, another part was desperately craving her touch, grateful that she wouldn't let me go.
 
-"Rinn, Rinn, Rinn..." she whispered, holding me tight. I could only see her face out of the corner of my eye, but was she... actually <em>grinning</em>? What in the Endless Maze was going on here...? "This is <em>exactly</em> what we planned on! I knew something like this would happen, and I know just what to do next. We are going to make it. We are <em>going to make it.</em>"
+"Rinn, Rinn, Rinn…" she whispered, holding me tight. I could only see her face out of the corner of my eye, but was she… actually <em>grinning</em>? What in the Endless Maze was going on here…? "This is <em>exactly</em> what we planned on! I knew something like this would happen, and I know just what to do next. We are going to make it. We are <em>going to make it.</em>"
 
 I willed myself to believe it. But everything was getting too real, too fast. There was nothing for me to think. There was only my pounding headache and my body slumped against hers.
 

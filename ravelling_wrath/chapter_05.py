@@ -25,7 +25,7 @@ posts = [
 <blockquote>
 <p>"It wasn't a real relationship, we were just horny teenagers." That felt a little weird to say. "Ha ha, Waiting God knows I'm still a horny teenager. Buuu-uuut I'm in a real relationship now –" I squeezed Yali's hand "– and I'm fine if you want to take it slow."</p>
 
-<p>"Uh... right," said Yali. "Go on with the story!"</p>
+<p>"Uh… right," said Yali. "Go on with the story!"</p>
 </blockquote>
 
 <p>On one hand, Yali was <em>almost</em> going to react affectionately to Rinn correcting zemself twice. But then Rinn mentioned the "take it slow" thing, and as we know from Chapter 5, the truth is more complicated than that. Yali was distracted from being affectionate by a brief internal struggle about how to respond, and eventually settled on avoiding the issue.</p>
@@ -77,7 +77,7 @@ I laughed, thinking she was joking. She gave me a weird look. "What are you laug
 
 "Ooo-kay," I got up and stepped forwards, "but I'm warning you, I – woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard and I didn't catch my balance until I stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
 
-"When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this... <em>physical.</em> We'd hug and kiss and stuff, but that was gentle, it just wasn't the same. But now… A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
+"When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this… <em>physical.</em> We'd hug and kiss and stuff, but that was gentle, it just wasn't the same. But now… A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
 
 I jumped forward to meet her. We collided and grappled our way across the room, bumping into furniture as we went. She was good at it, too, I couldn't get the advantage of her easily. I stepped back and then lunged at her, trying to get her off balance, but she was as solid as a rock. Not expecting that, I made one wrong step and lost my footing. Then it was her turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
 
@@ -412,7 +412,7 @@ After a long pause, Yali said, "If you don't mind, I'd like a more detailed answ
 
 "Hmm…"
 
-"It's okay if you're scared, or overwhelmed, or..."
+"It's okay if you're scared, or overwhelmed, or…"
 
 "Nah, it's not any of that."
 
