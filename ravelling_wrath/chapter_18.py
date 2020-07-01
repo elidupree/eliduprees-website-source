@@ -16,7 +16,7 @@ posts = [
 
   ''',
   "head":head,
-  "chapter_title": "Confrontation",
+  "chapter_title": "The Reckoning",
   "contents": '''
 
 <img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/burning-heart-ornate.jpg?rr" alt="">

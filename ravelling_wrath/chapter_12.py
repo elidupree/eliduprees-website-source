@@ -10,15 +10,15 @@ posts = [
   "title":"Ravelling Wrath, chapter 12",
   "auto_paragraphs": True,
   "don't deploy": True,
-  "blurb_image": "/media/ravelling-wrath/sketches/iron-gate-ornate.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr",
   "authors_notes":'''
 
 
   ''',
-  "head":head,  "chapter_title": "",
+  "head":head,  "chapter_title": "Emptiness",
   "contents": '''
 
-<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/iron-gate-ornate.jpg?rr" alt="">
+<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr" alt="">
   
 It slammed into place. The pattern. The blazing, uncompromising pattern of the Stern.
 

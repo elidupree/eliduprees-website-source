@@ -14,7 +14,7 @@ posts = [
 
 
   ''',
-  "head":head,  "chapter_title": "",
+  "head":head,  "chapter_title": "Change",
   "contents": '''
 
 <em>Uuuuuuggggggggggghhhhhhhhhhhhhhhhh.</em>

@@ -15,7 +15,7 @@ posts = [
 
 
   ''',
-  "head":head,  "chapter_title": "",
+  "head":head,  "chapter_title": "Facing the Tension",
   "contents": '''
 
 "Oh, uh, hi, Alchemist," I said awkwardly.
@@ -357,7 +357,7 @@ It went on for a long time. I didn't see anything new, though. Finally, I got ti
 
 "It's, okay –"
 
-"No it's not," I snapped. I didn't want to be snapping at Alchemist, but it came out before I could think. Dejectedly, I looked again in the direction we were going. I wasn't expecting her to be anything there. There was just more fog. Except… "Wait. Is that –" I jumped up and ran a few steps forward, peering into the fog.
+"No it's not," I snapped. I didn't want to be snapping at Alchemist, but it came out before I could think. Dejectedly, I looked again in the direction we were going. I wasn't expecting there to be anything there. There was just more fog. Except… "Wait. Is that –" I jumped up and ran a few steps forward, peering into the fog.
 
 Sure enough, there was something there. Not far in front of us, the ground ended. A cliff dropped away downwards. "Hey! Check this out!" I yelled.
 
@@ -375,7 +375,7 @@ Alchemist's hand tugged me back.
 
 "What are we waiting for?! This is the first new thing we've seen in days! This could be our way out of this desert!!"
 
-"When you're, looking for a way out, it doesn't make you feel good…"
+"When you're, looking for a way out, it doesn't, make you feel good…"
 
 "I'm not TRYING to feel good, I'm trying to get OUT of here!!" I yanked my hand away from Alchemist. "You can stay back here and keep wasting your time if you want to! I'm going to DO something!"
 
@@ -389,7 +389,7 @@ Not sure where to go, I picked out one of the ramps into the gorge. At least tha
 
 As I walked, I thought about what I'd been doing. Alchemist was right, it wasn't making me feel good. And what was I even getting out of it? The Seeking God was going to mess with me either way. Worse, every time I played along with its tricks, I was basically handing it more power over me. The Blood God might want a way out, but now that I thought about it, even the Blood God part of me didn't want me to end up just dancing to the Seeking God's tune. If I was going to get anywhere, I should be doing it on my own terms. But how was I supposed to do that? How would I beat a god that could transport me through space whenever it wanted? Maybe if <em>Yali</em> was here, she'd have some genius way to do that. Ugh.
 
-The wind was brisk and cold. I felt pretty alone, standing in the middle of a cliff face that went up and down as far as I can see. I didn't want all these gods. I wanted something I could do for <em>me</em>. What could I do that I was in control of? What could I do <em>here</em>?
+The wind was brisk and cold. I felt pretty alone, standing in the middle of a cliff face that went up and down as far as I could see. I didn't want all these gods. I wanted something I could do for <em>me</em>. What could I do that I was in control of? What could I do <em>here</em>?
 
 Well… Alchemist was here. I wanted Alchemist to be happy.
 
@@ -463,7 +463,7 @@ I approached them cautiously, trying to be gentle. "Okay, then, what is it? Come
 
 "But… I care about you! Why shouldn't I work hard for you?!" I couldn't stop a note of desperation from creeping into my voice. I had poured myself into Alchemist in these last days, and now it felt like they were tugging it away from me.
 
-"But you're so young. Me and Morrow…"
+"You're so young. Me and Morrow…"
 
 "Don't turn all Stern on me! I can make my own decisions!" I snapped. "How the fuck old are you, anyway?"
 
@@ -493,7 +493,7 @@ I held out my hand. Alchemist brushed their fingers against mine, but didn't rea
 
 Alchemist seemed to relax. They took my hand, their warm fingers rubbing on my palm. They were so good at expressing themselves without words. I could just <em>feel</em> the renewed sense of camaraderie flowing from their fingers. They turned their head and gave me a long mournful look. "Mmmm, thank you, Rinn. I know, being stuck here with me, isn't what you wanted."
 
-"The 'being with you' is great! It's just the being stuck that's bad!" I laughed. "I wish we could have met some other way, then we could've – actually, wait a minute, if I hadn't been stuck with you I don't know if I'd have gotten to know you. Wow. Just, wow. Is <em>that</em> the Seeking God's lesson for me this time? The whole way it's not letting us out of this desert – I mean, it's still a massive jerk move, but maybe –"
+"The 'being with you' is great! It's just the being stuck that's bad!" I laughed. "I wish we could have met some other way, then we could've – actually, wait a minute, if I hadn't been stuck with you, I don't know if I'd have gotten to know you. Wow. Just, wow. Is <em>that</em> the Seeking God's lesson for me this time? The whole way it's not letting us out of this desert – I mean, it's still a massive jerk move, but maybe –"
 
 The sand disappeared under us.
 
@@ -507,7 +507,7 @@ We had landed in some sort of big unfinished construction area. Concrete floor, 
 
 I helped Alchemist up, then kept looking around. Over in the other corner, there were another three people. There was Morrow and Justicar, who were currently handcuffed together and fighting with each other as they tried to stand up. And – there she was!
 
-Two tides of feeling surged within me. Finally, <em>finally</em>, after so many days, she was here again! Inside me, there was a struggle for control, between the part that wanted to run and hug her and the part that wanted to charge and rip her to pieces. But I knew which part was me and which wasn't. I bore down on the second part with all my will, and it wavered. Grinning triumphantly, I stomped it down. <em>Stay in your corner, Blood God,</em> I thought loudly. <em>I am going to love Yali, and cherish her, and give her all the care and respect she deserves, no matter what you make me feel. And if you think you can make me lift a finger to hurt her, you're stupider than I thought.</em>
+Two tides of feeling surged within me. Finally, <em>finally</em>, after so many days, she was here again! Inside me, there was a struggle for control, between the part that wanted to run and hug her, and the part that wanted to charge and rip her to pieces. But I knew which part was me and which wasn't. I bore down on the second part with all my will, and it wavered. Grinning triumphantly, I stomped it down. <em>Stay in your corner, Blood God,</em> I thought loudly. <em>I am going to love Yali, and cherish her, and give her all the care and respect she deserves, no matter what you make me feel. And if you think you can make me lift a finger to hurt her, you're stupider than I thought.</em>
 
 I felt the rage inside me subside. It was like the Blood God had given up and decided to sulk instead. <em>Yeah, that's what I thought.</em>
 

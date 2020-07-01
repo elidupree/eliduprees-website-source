@@ -15,7 +15,7 @@ posts = [
 
   ''',
   "head":head,
-  "chapter_title": "The Unravelling Potion", 
+  "chapter_title": "Unravelled", 
   "contents": '''
   
 It wasn't much longer before I heard the branches rustling from Alchemist getting close to us. I got up and peered towards the sound, and pretty soon I spotted their cute head bobbing in and out of the leaves. They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
