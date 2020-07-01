@@ -10,10 +10,6 @@ posts = [
   "title":"Ravelling Wrath, chapter 8",
   "auto_paragraphs": True,
   "blurb_image": "/media/ravelling-wrath/sketches/ch8.jpg?rr",
-  "authors_notes":'''
-
-
-  ''',
   "head":head,
   "chapter_title": "The Alchemist",
   "contents": '''
