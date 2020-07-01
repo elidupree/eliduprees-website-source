@@ -9,7 +9,6 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 9",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "blurb_image": "/media/ravelling-wrath/sketches/endless-maze-ornate.jpg?rr",
   "head":head,  "chapter_title": "The Endless Maze",
   "content_warnings": '''<p>Self-harm; negative self-talk</p>''',
