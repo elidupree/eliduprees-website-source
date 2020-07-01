@@ -20,12 +20,12 @@ def make_page(title, head_stuff, body_stuff, extras = {}):
   
   unbranded_title = re.sub(r"\s*⊂.*", "", title)
   image = (extras ["blurb_image"] if "blurb_image" in extras else "/media/colorful-background.jpg?rr")
+  # Not currently including <link rel="image_src" href="'''+ image +'''"> (I don't remember why at the time I'm writing this comment)
   cooperation_stuff = ['''
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@EliDupree">
     <meta property="og:site_name" content="Eli Dupree's website">
     <meta property="og:title" content="'''+ title +'''">
-    <!--<link rel="image_src" href="'''+ image +'''">-->
     <meta property="og:image" content="'''+ utils.canonical_scheme_and_domain + image +'''">
     ''']
   if "blurb" in extras:

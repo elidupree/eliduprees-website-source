@@ -612,13 +612,13 @@ head +'''
 
 def add_comic_pages(page_dict):
   for comic_id,page_list in comics_pages.items():
-    
+    metadata = comics_metadata[comic_id]
     archive_entries = ['<div class="comic_archive_chapter">'+
       (
-      '<h1>'+comics_metadata[comic_id]["title"]+'</h1>'
-      if "archive_promoted" in comics_metadata[comic_id] else
-      '<h1>Archive of <span class="title">'+comics_metadata[comic_id]["title"]+'</span></h1>'
-      ) + (comics_metadata [comic_id] ["archive_blurb"] if "archive_blurb" in comics_metadata [comic_id] else "")]
+      '<h1>'+metadata["title"]+'</h1>'
+      if "archive_promoted" in metadata else
+      '<h1>Archive of <span class="title">'+metadata["title"]+'</span></h1>'
+      ) + (metadata["archive_blurb"] if "archive_blurb" in metadata else "")]
     
     for i in range(0,len(page_list)):
       page = page_list[i]
@@ -634,28 +634,32 @@ def add_comic_pages(page_dict):
         extra_scripts = extra_scripts + "if (document.referrer.indexOf('"+page_url(prev_page)+"') !== -1) { document.documentElement.className += ' content_warning_dismissed'; }\n"
       utils.make_page (page_dict,
         page_url(page),
-          ('Page '+str(page ["page_number"])+' ⊂ ' if i>0 else '')+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
+          ('Page '+str(page ["page_number"])+' ⊂ ' if i>0 else '')+metadata["title"]+" ⊂ Eli Dupree's website",
           head,
           '<script>'+extra_scripts+'''</script>
-  <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page), {"html_class":comics_metadata[comic_id]["html_class"]}
+  <a class="skip" href="#content">Skip to content</a>'''+bars_wrap({"comics":True}, html, page),
+          {"html_class":metadata["html_class"], "blurb_image": comic_image_url(page)}
       )
       
       if "chapter_start" in page:
         archive_entries.append('</div><div class="comic_archive_chapter"><h2>'+page["chapter_start"]+'</h2>')
       archive_entries.append('<a class="comic_archive_entry" href="'+page_url(page)+'"><img class="comic_archive_entry" src="'+comic_image_url(page, 'thumbnail_full')+'" alt="' +'Page '+str(page ["page_number"])+ '"></a>')
     
-    extras = {"html_class":comics_metadata[comic_id]["html_class"]}
+    extras = {"html_class":metadata["html_class"]}
     if comic_id == "studio_art":
       extras ["blurb"] = studio_art.blurb
       extras ["blurb_image"] = "/media/studio_art_12.png?rr"
+    else:
+      extras ["blurb_image"] = comic_image_url(page_list[0])
     
     archive_entries.append('</div>')
     archive_html = '<main><div id="content" class="comic_archive">'+''.join(archive_entries)+'</div></main>'
     utils.make_page (page_dict,
-      comics_metadata[comic_id]["url"]+ ("" if "archive_promoted" in comics_metadata [comic_id] else '/archive'),
-        'Archive ⊂ '+comics_metadata[comic_id]["title"]+" ⊂ Eli Dupree's website",
+      metadata["url"]+ ("" if "archive_promoted" in metadata else '/archive'),
+        'Archive ⊂ '+metadata["title"]+" ⊂ Eli Dupree's website",
         head,
         '''
-<a class="skip" href="#content">Skip to content</a>'''+bars.bars_wrap({"comics":True}, archive_html), extras)
+<a class="skip" href="#content">Skip to content</a>'''+bars.bars_wrap({"comics":True}, archive_html),
+        extras)
     
 
