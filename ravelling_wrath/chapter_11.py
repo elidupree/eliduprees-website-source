@@ -20,7 +20,7 @@ posts = [
 
 "Oh, uh, hi, Alchemist," I said awkwardly.
 
-Alchemist kept clinging to the other side of the ladder. It was as if they thought they could hide from me, even though I could obviously see them right through it.
+Alchemist kept clinging to the other side of the ladder. It was like they thought they could hide from me, even though I could obviously see them right through it.
 
 "It's okay, I'm not going to hurt you! It's the Seeking God! It just – it absolutely fucked me over!" I raged. Alchemist seemed to shrink even further away from me, if that were possible. Right, Alchemist was really sensitive. I couldn't just <em>tell</em> them I wasn't mad at them, I had to <em>act</em> in a gentler way too. It was grating to have to do that right after what the god just did to me. But I really didn't want to hurt Alchemist, and as far as the "finding Yali" thing went, I was basically fucked either way.
 
