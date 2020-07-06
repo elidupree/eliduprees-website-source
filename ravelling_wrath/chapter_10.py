@@ -604,11 +604,9 @@ I snickered. "Haha, that's gotta sting. Imagine being a cop and getting arrested
 
 As if on cue, the elevator came to a stop.
 
-Justicar was content to stop the story there and start looking at the next puzzle. That was convenient for me, because I wasn't really sure what to say about it. Justicar was… badass… but something really rubbed me the wrong way about the whole story. But if I just said whatever came into my head, it would make Justicar look smart and me look stupid. Ugh, what was I supposed to think? I'd always known that the Stern Temple were assholes, but…
+Justicar was content to stop the story there and start looking at the next puzzle. That was convenient for me, because I wasn't really sure what to say about it. I wanted to be on her side, like, <em>fuck all those Stern assholes</em>, but she was so overbearingly Stern about it herself. Ugh, what was I supposed to think? If I just said whatever came into my head, it would make Justicar look smart and me look stupid. Hating the Stern had always been simpler than this. I'd spent plenty of time on foreign-hosted chat apps where you could get away with posting memes about the temples. Like, there was even a whole meme format that was just a picture of the Dauntless Gate with a speech bubble saying something evil and pathetic. And there was that one viral post with the ex-cop who – Wait a minute…
 
-That made me think of something. I waited for a moment when Justicar was facing away from me, looking at part of the puzzle…
-
-"Hey, Havi!"
+"Hey, Havi!" I called out across the puzzle.
 
 "Yes?" said Justicar. Then she whirled around angrily. "How did you know my name?!"
 
@@ -616,7 +614,7 @@ I grinned. "This was a few years ago, right? You had a whole post about it! You 
 
 "Please don't remind me."
 
-"I remember because my friend Dehel kept reposting it from a meme page. He always reposted it with just a whole bunch of thinking face emoji. Haha, I love how sarcastic Dehel can be without hardly saying anything." I sensed that Justicar was trying not to listen. "Wait a minute, why don't you want to be reminded about this?! You were kickass!"
+"I remember because my friend Dehel kept reposting it from a meme page. He always reposted it with just a whole bunch of thinking face emoji, I love how sarcastic that was." I sensed that Justicar was trying not to listen. "Wait a minute, why don't you want to be reminded about this?! You were kickass!"
 
 "I gave in to my selfish resentment. It was not the appropriate way for me to air my grievances with the Stern Temple."
 
@@ -650,7 +648,7 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "But where would that lead? If officers cannot make arrests because of the <em>possibility</em> of an unjust conviction, how will the order of the city be preserved? I believe you may not have thought this through."
 
-"Or maybe I just don't care about order as much as I care about people's lives! I don't care what kind of excuses you have! If you're the one who did something, it's your fault!"
+"Or maybe I just don't care about your 'order' as much as I care about people's lives! I don't care what kind of excuses you have! If you're the one who did something, it's your fault!"
 
 "Very well." Justicar opened her arms. "If you want to hold me individually responsible for every violent act ever performed under the authority of the Stern Temple, perhaps <em>I</em> should hold <em>you</em> responsible for the damage inherent in <em>your</em> ideology."
 
