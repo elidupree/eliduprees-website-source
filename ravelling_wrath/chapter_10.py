@@ -170,9 +170,9 @@ I took off running and jumped clean over the hole. I grabbed the lever and gave 
 
 "I sincerely doubt that my <em>physical</em> abilities are what matters here. But I will try it, if only to illustrate." Justicar geared up to make a big jump, sprang upwards, and… barely got off the ground. "As I thought. The pit would have no reason to exist if it had the same function as an empty floor. So that is the second rule of the puzzle: only the Blood Child can cross pits."
 
-The puzzle went on, giving us a series of challenges using these rules. We kept having to figure out who needed to go to what position to pull what lever. In one place, Justicar had to walk me past a series of flamethrowers, but she had to keep going the long way around because the short way was full of pits. In another place, it was me who had to keep pulling levers that opened and closed different trapdoors in the floor.
+The puzzle went on, giving us a series of challenges using these rules. We kept having to figure out who needed to go to what position to pull what lever. In one place, Justicar had to walk me past a series of flamethrowers, but she had to keep going the long way around because the short way was full of pits. In another place, it was me who had to keep pulling levers that opened and closed different pits in the floor.
 
-And then there was a place where only Justicar could get into the puzzle physically – the entrance was blocked by flamethrowers from both sides, she couldn't block both at once. I had to wait in the tiny entrance room, operating levers that changed what Justicar could access. It was mostly waiting, though. Being stuck in this tiny glass room was making me jittery. Justicar was taking a long time, I wanted to be done, I felt like the walls were closing in on me –
+And then there was a place where only Justicar could get into the puzzle physically – there were flamethrowers on both sides of the entrance, she couldn't block both for me at once. I had to wait in a tiny room, operating levers that changed what Justicar could access. It was mostly waiting, though. Being stuck in this tiny glass room was making me jittery. Justicar was taking a long time, I wanted to be done, I felt like the walls were closing in on me –
 
 "Let me out of here already!!" I yelled. With a Blood Blade in my hand, I stabbed against the glass, but even that didn't do any good – I was trapped in here –
 
@@ -180,7 +180,7 @@ And then there was a place where only Justicar could get into the puzzle physica
 
 I was about to yell back when the cool confidence of the loopy thing cleared my head. "Never mind," I said.
 
-While I was waiting for Justicar to get back, I idly manifested a brick wall to block the fire in front of me. I knew it wasn't going to <em>work</em>, I was just curious to see what would happen. Sure enough, the flames shot right through it. The wall didn't even burn – it just didn't block the flames at all.
+While I was waiting for Justicar to finish, I idly manifested a brick wall to block the fire in front of me. I knew it wasn't going to <em>work</em>, I was just curious to see what would happen. Sure enough, the flames shot right through it. The wall didn't even burn – it just didn't block the flames at all.
 
 Justicar spotted what I was doing. "I told you," she said patiently, "the Seeking God has set its rules for these puzzles. There will not be a clever trick to bypass them."
 
@@ -194,19 +194,19 @@ Justicar spotted what I was doing. "I told you," she said patiently, "the Seekin
 
 At the end of that puzzle room, there was an elevator. At the end of the elevator, there was another puzzle room. I checked the map, and there was a whole series of puzzles with about the same layout. And there was good news for me: The end of the chain of puzzles was pretty much where Yali was.
 
-So I threw myself into puzzle-solving. As we went, the puzzles got a bunch more sophisticated. As well as the levers, we also started seeing big buttons on the floor, which only stayed down as long as you were standing on them. Like, there'd be one button that closed a trapdoor, so I had to stand on the button while Justicar went across. Or a button that opened a door on the other side of the room, and we'd have to figure out how to get one of us to the button and the other to the door at the same time.
+So I threw myself into puzzle-solving. As we went, the puzzles got a bunch more sophisticated. As well as the levers, we also started seeing big buttons on the floor, which only stayed down as long as you were standing on them. Like, there'd be a button that closed a pit, so I had to stand on the button while Justicar went across. Or a button that opened a door on the other side of the room, and we'd have to figure out how to get one of us to the button and the other to the door at the same time.
 
 At the end of each room, when we got into the elevator to the next room, I actually felt kind of proud of figuring everything out. Except that the only person here to celebrate with was Justicar, and she didn't seem to like celebrating, and she always acted like she was smarter than me. I wasn't <em>bad</em> at solving this kind of puzzles, but it always felt like she figured things out half a second before I did, and then she'd be like, <em>logically, this is what we have to do</em>, and then I couldn't get any credit. Ugh.
 
-Right now we were at the start of another puzzle, and we'd split up so we could both look around without getting in each other's way. At least it gave me time to just be pissed off about things without Justicar looking over my shoulder all the time. Time to think about… that thing I hadn't been remembering to think about… what was it? I felt like there was something really important, right at the edge of my mind, but I just couldn't remember –
+Right now we were at the start of another puzzle. We had split up so we could both look around without getting in each other's way. At least it gave me time to just be pissed off about things without Justicar looking over my shoulder all the time. Time to think about… that thing I hadn't been remembering to think about… what was it? I felt like there was something really important, right at the edge of my mind, but I just couldn't remember –
 
 But then it exploded into my mind, stamping out everything else. "Let me OUT of here!!" I screamed.
 
-Justicar's voice echoed oddly around the glass walls from the other side of the room. "That's the same thing you said earlier today, are you –"
+The Justicar's voice echoed oddly around the glass walls from the other side of the room. "That's the same thing you said earlier today, are you –"
 
 "I'm TRAPPED in here, can't you see it?!"
 
-"There is an open door to your left. If you're feeling claustrophobic, you would be able to –"
+"There is an open door to your left. If you're feeling claustrophobic –"
 
 "That's NOT what I'm TALKING about!! I – I have to – I –" I struggled for words, but all of a sudden, I couldn't remember what had seemed so urgent. It was probably no big deal.
 
@@ -240,17 +240,15 @@ Justicar's hands suddenly shone with a blinding white light. She pressed them to
 
 "I wasn't trying to rub it in –"
 
-"Well, GOOD! I don't need any more lectures from you Stern hypocrites!! I've had enough of that back on Earth! Mom and Dad making up all kinds of rules they don't even keep, teachers acting like they know shit about what's good for me –"
+"Well, GOOD! I don't need any more lectures from you Stern hypocrites!! I've had enough of that back on Earth! Mom and Dad making up all kinds of rules they don't even follow themselves, teachers acting like they know shit about what's good for me –"
 
 "Hmmmm…"
 
-When I looked up, Justicar wasn't looking all Stern like I expected. Her head was a little down, like she was deep in thought, her face clouded by a look of… concern?
+"Bet you're gonna tell me I have to respect them or some shit –"
 
-"Perhaps they are," she said quietly. "I shouldn't assume, either."
+But when I looked up, Justicar wasn't looking all Stern like I expected. Her head was a little down, like she was deep in thought, her face clouded by a look of… concern?
 
-"Are what?"
-
-"Hypocrites."
+"No," she said quietly. "They may very well be hypocrites, as you say."
 
 I gaped at her.
 
@@ -282,7 +280,7 @@ Justicar tapped her foot. "For one thing, I know that you are a sixteen-year-old
 
 "Sure, I've been to some of those. Only we don't call them 'parties with underage drinking', we call them 'parties'." I manifested a glass of beer and whooped. I was mostly just messing with her. Normally, getting drunk just made me feel bad. But now… I felt plenty shitty already. I was stuck between Justicar's preaching on one side and the Blood God's grinding impatience on the other. I felt like my head was full of voices yelling at me from all sides. Maybe the alcohol would make them all just <em>shut up</em> for once. I downed my beer angrily, then followed it up with another. As I filled the glass a third time, Justicar put her hand on my wrist and stopped me.
 
-The beer sat uncomfortably in my belly. Stern take it, I should have thought about the fact that I was technically drinking on an empty stomach. And I couldn't stand how Justicar was looking at me. As much as I had gotten a kick out of making her think I was a heavy drinker, I was kind of regretting it now. "I, uh, I don't usually do this," I said awkwardly. "The truth is, I hardly ever actually drink. Look at me – I'm tiny. I go from zero to wasted in, like, ONE beer." The first time I had ever gotten drunk, I had tried to kiss an older girl – and <em>missed</em>, and smashed my face into the table next to her. At least, that's what I'd heard from the other girls who had to take care of me and drive me home, while I kept hitting on them even though I couldn't sit up straight and had a huge bruise on my face. So a couple weeks later I went back to the next party with the same crowd, and that time I stayed completely sober while I went up to the same girl and started making out with her in front of everyone. And then she had taken me up to her room, and… haha, good times.
+The beer sat uncomfortably in my belly. Stern take it, I should have thought about the fact that I was technically drinking on an empty stomach. And I couldn't stand how Justicar was looking at me. As much as I had gotten a kick out of making her think I was a heavy drinker, I was kind of regretting it now. "I, uh, I don't usually do this," I said awkwardly. "The truth is, I hardly ever actually drink. Look at me – I'm tiny. I go from zero to wasted in, like, ONE beer." The first time I had ever gotten drunk, I had tried to kiss an older girl – and <em>missed</em>, and smashed my face into the table next to her. At least, that's what I'd heard from the other girls who'd had to take care of me and drive me home, while I kept hitting on them even though I couldn't sit up straight and had a huge bruise on my face. So a couple weeks later I went back to the next party with the same crowd, and that time I stayed completely sober while I went up to the same girl and started making out with her in front of everyone. And then she had taken me up to her room, and… haha, good times.
 
 "You can use manifesting to stop being drunk," said Justicar.
 
@@ -402,7 +400,7 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 
 "You have no idea how much I have had to sacrifice to get away from that life! You treat this as a game – just as I did! You have no idea of the depths to which one can sink!"
 
-"Fine, then, tell me! Tell me the rest of your life story, see if I care –"
+"Fine, then, tell me! Tell me the rest of your stupid life story, see if I care –"
 
 "Then I will, and maybe you <em>will</em> care," Justicar declared. She took a deep breath – not that it helped. She still seemed pretty tense afterwards. Then she began again. "Even after everything I had done to myself, I was never able to admit I had a problem until the day when I woke up in the hospital after an overdose. Even then, I refused to believe it was over. Not until my parents walked in. They did not listen to my excuses. They simply <em>told</em> me that I would be going to the Borson School in Walthridge from then on –"
 
@@ -478,17 +476,17 @@ The next room had all the usual parts – walls and levers and flamethrowers and
 
 "It <em>does</em> seem unfair…" said Justicar thoughtfully. "The Seeking God must have some purpose, but I do not see it. Now, you <em>can</em> still participate if…" She tried to manifest a copy of the diagram, but the puzzle didn't allow it. After that failed, she tried to <em>explain</em> what was on the diagram. I tried to follow along, but it was hopeless. Justicar was describing a whole bunch of shapes and lines and colors and directions, and every time I thought I knew what it looked like, she said I had gotten it all wrong.
 
-"Look, how about you just figure out where everything should go, and tell me where to put them?" I said.
+"Look, how about you just figure out where everything should go, and tell me where to put it?" I said.
 
 "The Seeking can't possibly intend for you only to be the manual labor…" Justicar looked back at the hidden diagram, deep in thought.
 
-While she was doing that, I just had the whole jumbled room to myself. So I started pushing the things around, just to give myself something to do. First I sorted all of them into categories. It was funny, I could push around the trapdoors just like everything else, and there was a hole in the floor wherever the trapdoor was, even though that didn't physically make sense.
+While she was doing that, I just had the whole jumbled room to myself. So I started pushing the things around, just to give myself something to do. First I sorted all of them into categories. It was funny, even the pits were surrounded by pulleys that were mounted on the rails, and if I moved the pulleys, it moved the holes in the ground too, even though that didn't physically make sense.
 
 I kind of wanted to build something with the pieces, but you couldn't really stack them on top of each other, you could only put one thing in each square of the grid. So the only thing you could build with them was mazes or puzzles.
 
-Justicar was still thinking. Idly, I put a bunch of trapdoors in a row to see how many I could jump over. It turned out that I could jump over <em>exactly</em> four squares of trapdoors. When I tried five, I fell into the fifth one, and not only that, but I fell straight down and didn't have a chance to grab for the ledge. My movement was definitely being controlled by the puzzle, like Justicar had said.
+Justicar was still thinking. Idly, I put a bunch of pits in a row to see how many I could jump over. It turned out that I could jump over <em>exactly</em> four squares of pits. When I tried five, I fell into the fifth one, and not only that, but I fell straight down and didn't have a chance to grab for the ledge. My movement was definitely being controlled by the puzzle, like Justicar had said.
 
-After I fell in, I was back at the start of the puzzle. Now that I thought of it, none of <em>these</em> puzzles had used the trick where you fell in a hole on purpose. I started wondering how you'd set things up to make that be the solution. Before long, I was sliding the walls and trapdoors around, putting together a simple puzzle based on that concept.
+After I fell in, I was back at the start of the puzzle. Now that I thought of it, none of <em>these</em> puzzles had used the trick where you fell in a hole on purpose. I started wondering how you'd set things up to make that be the solution. Before long, I was sliding the walls and pits around, putting together a simple puzzle based on that concept.
 
 An hour later, I kicked the last wall into place and double checked to make sure my puzzle was just how I wanted.
 
@@ -604,7 +602,7 @@ I snickered. "Haha, that's gotta sting. Imagine being a cop and getting arrested
 
 As if on cue, the elevator came to a stop.
 
-Justicar was content to stop the story there and start looking at the next puzzle. That was convenient for me, because I wasn't really sure what to say about it. I wanted to be on her side, like, <em>fuck all those Stern assholes</em>, but she was so overbearingly Stern about it herself. Ugh, what was I supposed to think? If I just said whatever came into my head, it would make Justicar look smart and me look stupid. Hating the Stern had always been simpler than this. I'd spent plenty of time on foreign-hosted chat apps where you could get away with posting memes about the temples. Like, there was even a whole meme format that was just a picture of the Dauntless Gate with a speech bubble saying something evil and pathetic. And there was that one viral post with the ex-cop who – Wait a minute…
+Justicar was content to stop the story there and start looking at the next puzzle. That was convenient for me, because I wasn't really sure what to say about it. I wanted to be on her side, like, <em>fuck all those Stern assholes</em>, but she was so overbearingly Stern about it herself. Ugh, what was I supposed to think? If I just said whatever came into my head, it would make Justicar look smart and me look stupid. Hating the Stern had always been simpler than this. I'd spent plenty of time on the foreign-hosted chat apps where you could get away with posting memes about the temples. Like, there was even a whole meme format that was just a picture of the Dauntless Gate with a speech bubble saying something evil and pathetic. And there was that one viral post with the ex-cop who – Wait a minute…
 
 "Hey, Havi!" I called out across the puzzle.
 
@@ -862,8 +860,7 @@ I clutched my head, trying to calm my warring thoughts. I should have had someth
 
 "No, you clearly had something to say. If you start something, you should finish it."
 
-I stared back at her. I almost wanted to say something defensive, but if there was one thing I had just learned, it was that I really <em>didn't</em> have to listen to her. "Let's just go find Yali," I said tiredly.
-
+I stared back at her. I almost wanted to say something defensive, but if there was one thing I had just learned, it was that I really <em>didn't</em> have to listen to her. "Let's just go find Yali," I said exhaustedly.
 
 The exit doorway was right in front of us, leading to a tunnel into the blackness.
 
