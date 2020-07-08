@@ -17,6 +17,7 @@ posts = [
   ''',
   "head":head,
   "chapter_title": "The First Rule",
+  "content_warnings":'''<p>Rape apologism; discussion of addiction; apologism for abusive "troubled teen" schools; discussion of police brutality and corruption</p>''',
   "contents": '''
   
 It wasn't hard to get the others to follow along with me. Morrow was always going to follow wherever Alchemist went. Justicar was always going to follow the rest of us to "protect" us. And Alchemist… I wasn't really sure, but they moved to follow along as soon as I said where I was going. Maybe they wanted us all to get back together with Yali again, just like I did.
@@ -47,11 +48,11 @@ Then again, it couldn't hurt to try, could it? None of the puzzles here had <em>
 
 Except, this time, jumping off wasn't <em>just</em> a reset. The walkways didn't reset along with you. So if you were at a wheel, you could move it to whatever position was the most useful, even if it trapped yourself, and then jump back to the beginning. By taking advantage of that, Justicar and I were able to get a lot farther without Morrow's help.
 
-Meanwhile, Morrow climbed up to a weird high spot.
+Meanwhile, Morrow climbed up to a weird high spot. "Hey look! Up ahead!" he yelled.
 
-"Hey look! Up ahead!" he yelled.
+Once I looked closer, I could see what he was pointing at. Ahead of us, the tangle of walkways started to thin out. Eventually, it narrowed to just one, stretching off into the darkness – the end of this puzzle, and the beginning of whatever came next. Or, when I looked closer, there were <em>two</em> walkways into the darkness. We would have to decide which way to go.
 
-Once I looked closer, I could see what he was pointing at. Ahead of us, the tangle of walkways started to thin out. Eventually, it narrowed to just one, stretching off into the darkness – the end of this puzzle, and the beginning of whatever came next. Or, when I looked closer, there were <em>two</em> walkways into the darkness. We would have to decide which way to go. Not that it was hard for <em>me</em> to decide. "The one on the right looks closer to Yali. I'm going that way for sure!"
+Not that it was hard for <em>me</em> to decide. "The one on the right looks closer to Yali. I'm going that way for sure!"
 
 "Hmm…" said Justicar. "Look closely. Both routes begin with interlocks that will only allow two people to pass. So it seems we have no choice but to split into groups of two. That means we have a choice to make – not only which way each of us will go, but who will be paired with whom. A difficult choice, as I don't believe that <em>any</em> two of you should be left alone together."
 
@@ -108,7 +109,7 @@ Justicar considered this for a few paces before answering. "I am… not against 
 
 "You're saying she'd give us the answers too easily."
 
-"Yes. The will of the Seeking is for humanity to experiment, to discover new insights, to learn, to change. If we could progress simply by following answers given to us by others, that would contradict the will of the Seeking, so the Seeking will not allow it. Therefore, if the Seeking has shown her location to us, it must have a different purpose. We <em>may</em> reach her in a physical sense, but even if we do, it will be another layer of the Seeking God's game, not the happy reunion you are imagining."
+"Yes. The will of the Seeking is for humanity to experiment, to discover new insights, to learn, to change. If we could progress simply by following answers given to us by others, that would contradict the will of the Seeking, so the Seeking will not allow it. Therefore, if the Seeking has shown her location to us, it must have a different purpose. We <em>may</em> reach her in a physical sense, but even if we do, it will be another layer of the Seeking God's game, not the simple gratification you are imagining."
 
 "Well fuck you too. <em>I</em> say after I do these puzzles, the Seeking will reward me by letting me get – letting me see my fucking girlfriend. Rewards are part of a puzzle too, you know!"
 
@@ -120,19 +121,11 @@ I tried to make the last bits of anxiety go away. Wasn't the loopy thing suppose
 
 Whatever. I could just put up with it. I gave up and kept walking.
 
-"I am still concerned for the Alchemist," said Justicar. "I travelled with him earlier, and he did not seem prepared for the challenges ahead. And the Imminent is, of course, not a responsible guardian for him."
-
-She wasn't wrong. But it would be such a downer if I just agreed with it. "They'll be fine!" I said. "And how come you always call Alchemist 'he', anyway?"
-
-"He said, 'you can call me whatever you like'. Surely I am not being disrespectful."
-
-It didn't <em>feel</em> respectful. But I couldn't find a hole in her logic, so I just dropped the issue.
-
 <bigbreak>
 
 Finally, the long walkway came to an end. A huge wall loomed out of the blackness in front of us, extending into shadow both above and below. The walkway just continued right up to the middle of the wall and stopped.
 
-While Justicar examined the wall, I started cutting it open with my Blood Blades. It turned that there had been a secret door there already – as I discovered when my blades cut through its hinges, causing it to fall open.
+While Justicar examined the wall, I just started cutting it open with my Blood Blades. It turned that there had been a secret door there already – as I discovered when my blades cut through its hinges, causing it to fall open.
 
 The rooms beyond the wall were much more organized. The floor was divided into a square grid, with each square about a meter wide. A lot of the squares had glass walls rising up from them, forming smaller rooms and hallways within the big grid. Other squares were missing, leaving pits going down into the floor. Still other squares had doors, buttons, levers, and other devices I didn't recognize.
 
@@ -172,7 +165,7 @@ I took off running and jumped clean over the hole. I grabbed the lever and gave 
 
 The puzzle went on, giving us a series of challenges using these rules. We kept having to figure out who needed to go to what position to pull what lever. In one place, Justicar had to walk me past a series of flamethrowers, but she had to keep going the long way around because the short way was full of pits. In another place, it was me who had to keep pulling levers that opened and closed different pits in the floor.
 
-And then there was a place where only Justicar could get into the puzzle physically – there were flamethrowers on both sides of the entrance, she couldn't block both for me at once. I had to wait in a tiny room, operating levers that changed what Justicar could access. It was mostly waiting, though. Being stuck in this tiny glass room was making me jittery. Justicar was taking a long time, I wanted to be done, I felt like the walls were closing in on me –
+And then there was a place where only Justicar could get into the puzzle physically – there were flamethrowers on both sides of the entrance, she couldn't block both of them for me at once. I had to wait in a tiny room, operating levers that changed what Justicar could access. It was mostly waiting, though. Being stuck in this tiny glass room was making me jittery. Justicar was taking a long time, I wanted to be done, I felt like the walls were closing in on me –
 
 "Let me out of here already!!" I yelled. With a Blood Blade in my hand, I stabbed against the glass, but even that didn't do any good – I was trapped in here –
 
@@ -214,11 +207,7 @@ Justicar was hurrying towards me, her voice tight with concern. "If that is not 
 
 I laughed. "Do you gotta treat everything like it's such a big deal? It's fine."
 
-"No, it's not fine. Listen to yourself! <em>Seconds</em> ago, you were saying you were trapped! I can't just let you pretend that didn't happen!"
-
-"But it… really didn't happen. It was, like, a dream or something."
-
-Justicar's face loomed close in front of me. "I <em>heard</em> you. It was no dream. Now tell me what is going on!"
+"No, it's not fine. Listen to yourself! <em>Seconds</em> ago, you were saying you were trapped! I can't just let you pretend that didn't happen!" Justicar's face loomed close in front of me. "Now tell me what is going on!"
 
 I could feel it again, like hot steam hissing its way around the edges of my mind. It was going to come back. It was going to happen again if I didn't – "Okay, FINE, it's Morrow's loopy thing! It's fucking up! It's SUPPOSED to just – but it's –"
 
@@ -226,7 +215,7 @@ I could feel it again, like hot steam hissing its way around the edges of my min
 
 "Do it," I barked.
 
-Justicar's hands suddenly shone with a blinding white light. She pressed them to my forehead, the light stabbing into my eyes. For a few seconds, my mind was suspended with a disconcerting feeling. And then… relief, an angry sort of relief, like I was curling up in a spiky ball to protect myself. I felt like I'd been chained to a wall with my underside exposed, and only just now cut down.
+Justicar's hands suddenly shone with a blinding white light. She pressed them to my forehead, the light stabbing into my eyes. For a few seconds, my mind was suspended with a disconcerting feeling. And then… relief, an angry sort of relief. I felt like I'd been chained to a wall with my underside exposed, and now I was curling up in a spiky ball to protect myself.
 
 "Ugh, remind me to NEVER ask Morrow for help AGAIN!" I yelled, leaning on a wall and covering my eyes against Justicar's light. The worst was over, but my head was still pounding, constantly on the lookout to make sure I wouldn't get locked away again.
 
@@ -646,7 +635,7 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "But where would that lead? If officers cannot make arrests because of the <em>possibility</em> of an unjust conviction, how will the order of the city be preserved? I believe you may not have thought this through."
 
-"Or maybe I just don't care about your 'order' as much as I care about people's lives! I don't care what kind of excuses you have! If you're the one who did something, it's your fault!"
+"Or maybe I just don't care about your so-called 'order' as much as I care about people's lives! I don't care what kind of excuses you have! If you're the one who did something, it's your fault!"
 
 "Very well." Justicar opened her arms. "If you want to hold me individually responsible for every violent act ever performed under the authority of the Stern Temple, perhaps <em>I</em> should hold <em>you</em> responsible for the damage inherent in <em>your</em> ideology."
 
@@ -928,13 +917,13 @@ The world shattered.
 
 I stumbled and landed on my hands and knees.
 
-What had just happened? I looked around. It looked like a pretty normal place, as much as any part of the Seeking God's world was normal. It was just a foggy landscape of sand and smooth rocks. The only weird thing was a bunch of ladders sticking vertically out of the ground.
+What had just happened? I had expected more explosions, but now it was all quiet as if nothing had happened. Around me, all I saw was a foggy landscape of sand and smooth rocks, along with a bunch of ladders sticking vertically out of the ground. This wasn't somewhere special. It was just a normal place in the Seeking God's world.
 
-Where was I?! I summoned the map in my hand, a horrible feeling sinking into my chest. On a gut level, I already knew I was fucked. But I had to know. Staring into the map, I zeroed in on the Watchful Eye, right where it was before. And then I looked for where I was, for the Burning Heart. I saw the map zoom away from the courthouse, sweeping past every puzzle Justicar and I had done, sweeping past the fountain room itself. And it didn't stop there. I saw caves and castles and labyrinths sweep by, impossible landscapes and mazes of flowing ice. By the time it reached the Burning Heart, it had gone further than the entire distance I'd travelled in this world. I was the farthest away from Yali that I could <em>possibly</em> be.
+I summoned the map in my hand, a horrible feeling sinking into my chest. On a gut level, I already knew I was fucked. But I had to know. Staring into the map, I zeroed in on the Watchful Eye, right where it was before. And then I looked for where I was, for the Burning Heart. I saw the map zoom away from the courthouse, sweeping past every puzzle Justicar and I had done, sweeping past the fountain room itself. And it didn't stop there. I saw caves and castles and labyrinths sweep by, impossible landscapes and mazes of flowing ice. By the time it reached the Burning Heart, it had gone further than the entire distance I'd travelled in this world. I was the farthest away from Yali that I could <em>possibly</em> be.
 
-"I'LL KILL YOU!!!" I roared. I snatched up a rock in my hand, and, imagining that it was the Seeking God, I smashed it to pieces. Then I sprouted a Blood Blade from my heel and stomped on the broken rock, slicing it into smaller and smaller slivers. "YOU THINK YOU CAN JERK ME AROUND, LIKE THIS IS ALL A BIG GAME?! I AM BLEEDING ON THE FLOOR, AND YOU STILL USE MY HEART AS A PLAYTHING?! I DON'T CARE IF YOU'RE A GOD! I WILL TEAR YOU TO PIECES!" I whirled around, my arm whipping into a long blade with a bleeding edge, my eyes trying to zero in on whatever looked most like the heart of the god.
+"I'LL KILL YOU!!!" I roared. I snatched up a rock in my hand, pretending that it was the Seeking God, and smashed it to pieces. Then I sprouted a Blood Blade from my heel and stomped on the broken rock, slicing it into smaller and smaller slivers. "YOU THINK YOU CAN JERK ME AROUND, LIKE THIS IS ALL A BIG GAME?! I AM BLEEDING ON THE FLOOR, AND YOU STILL USE MY HEART AS A PLAYTHING?! I DON'T CARE IF YOU'RE A GOD! I WILL TEAR YOU TO PIECES!" I whirled around, my arm whipping into a long blade with a bleeding edge, my eyes trying to zero in on whatever looked most like the heart of the god.
 
-But when my eyes began to make sense of what I saw, it was only more ladders and rocks and fog. And behind one of the ladders, scarcely two meters away from me, was the frozen, terrified face of the Alchemist.
+But when my eyes began to make sense of what I saw, it was only more ladders and rocks and fog. And behind one of the ladders – scarcely two meters away from me – the frozen, terrified face of the Alchemist.
 
 
 
