@@ -17,7 +17,7 @@ posts = [
   ''',
   "head":head,
   "chapter_title": "The First Rule",
-  "content_warnings":'''<p>Rape apologism; discussion of addiction; apologism for abusive "troubled teen" schools; discussion of police brutality and corruption</p>''',
+  "content_warnings":'''<p>Rape apologism; discussion of addiction; details of abusive "troubled teen" schools, and apologism for them; discussion of police brutality.</p>''',
   "contents": '''
   
 It wasn't hard to get the others to follow along with me. Morrow was always going to follow wherever Alchemist went. Justicar was always going to follow the rest of us to "protect" us. And Alchemist… I wasn't really sure, but they moved to follow along as soon as I said where I was going. Maybe they wanted us all to get back together with Yali again, just like I did.
@@ -315,9 +315,9 @@ Justicar sighed. "I won't rise to your provocation."
 
 "I put myself in that situation willingly."
 
-"What, like you got wasted specifically to have sex with some dude?"
+"What, like you got wasted because you were <em>planning</em> to have sex with some dude?"
 
-"No, but it doesn't matter if –"
+"I didn't plan on it when I was sober, but –"
 
 "Then I don't see how it was consensual," I concluded.
 
@@ -335,7 +335,7 @@ Justicar glared at me. "Are you so eager to avoid taking responsibility for your
 
 Justicar was smiling – the smile of someone who's being patient with a little kid who's talking nonsense. Stern take it, if I wanted to get through to her, I couldn't just keep saying the first thing that came into my head, even if it wasn't wrong. "So, what, do you think drunk girls are just asking for it?!" I snapped.
 
-"If you would give me a chance to explain the actual principles I follow, you would know I do not believe anything like that. It is always wrong to force yourself on someone else. But no one forced themselves on me. It was my own choice to devalue my body like that. I <em>chose</em> to fill my nights with sexual indiscretions, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
+"If you would give me a chance to explain the actual principles I follow, you would know I do not believe anything like that. It is always wrong to force yourself on someone else. But no one forced themselves on me. It was my own choice to devalue my body like that. I <em>chose</em> to allow men to use my body for their pleasure, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
 
 Up to this point, I had mostly just been messing with her. But now… a terrible ache pulled at my heart. This was deadly serious. Her words were a violation, a gaping wound, trying to twist my blood out of its course. Coldly, I stated, "That's your <em>real</em> problem. It's not the sex. It's not the drinking. It's the self-respect. But –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. If anyone doesn't treat me right, they can fuck right off. And if they don't fuck right off, I <em>make</em> them fuck right off. I'm nothing like you."
 
