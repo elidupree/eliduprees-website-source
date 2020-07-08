@@ -154,7 +154,7 @@ I hadn't thought I was going to do it, but I couldn't resist. "<em>Fuck! You!</e
 
 "You want to be able to do that, right?"
 
-"Well – that just wasn't what I was expecting – okay, I get it –" Slowly, I sat up straight and forced my hands to relax. "Okay," I said uncertainly. "But, I wasn't exactly angry right then. That all went away when, uh," I carefully kept my voice calm, "when, you know, uh..." My eyes lingered on her hurt arm. I was still feeling pretty weird about the whole <em>hurting-Yali-is-part-of-the-process</em> thing.
+"Well – that just wasn't what I was expecting – okay, I get it –" Slowly, I sat up straight and forced my hands to relax. "Okay," I said uncertainly. "But, I wasn't exactly angry right then. That all went away when, uh," I carefully kept my voice calm, "when, you know, uh…" My eyes lingered on her hurt arm. I was still feeling pretty weird about the whole <em>hurting-Yali-is-part-of-the-process</em> thing.
 
 "And then you were worried instead of angry? It's still a strong emotion. Still worth calming down from." Yali took a close look at me. "Are you <em>calm</em>, or are you just acting that way?"
 
@@ -228,7 +228,7 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "Well, yeah, I mean, I'd rather just run around outside instead of messing around inside a gym, but I know my way around, yeah. What about it?"
 
-"In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily... and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the thing I really can't stand is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So I, I, I really want to get in better shape. I guess it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to just do the Waiting God wants, too, I…" Yali trailed off.
+"In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily… and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the thing I really can't stand is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So I, I, I really want to get in better shape. I guess it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to just do the Waiting God wants, too, I…" Yali trailed off.
 
 I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize. It would even make me feel better! It was so tiring to just keep grinding away at the "games", I'd be glad to make a real emotional connection. But the problem was, I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was the connection between defying the Blood God and defying the Waiting God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
 
@@ -282,7 +282,7 @@ And now we were sitting here, doing the same thing that hadn't worked for the la
 
 "Yeah, but, I mean, the more I yell, the more I want to <em>do</em> something, you know? It's just so, <em>argh</em> –" I made a fist to demonstrate. "At least with the Controlling Game I can just <em>not</em> do anything…"
 
-"Good to know..." Yali was lost in thought for a while. Then she spoke up as if she'd had an idea. "I've been using the Expressing Game when I wanted to give you a bit of a break –"
+"Good to know…" Yali was lost in thought for a while. Then she spoke up as if she'd had an idea. "I've been using the Expressing Game when I wanted to give you a bit of a break –"
 
 "– Stern take it all –"
 
@@ -308,7 +308,7 @@ Explaining it to her just seemed like way too much. I'd already been dragged ove
 
 "Are you sure? We only just –" She cut herself off and waited for me to respond.
 
-"...yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
+"…yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
 
 And Yali just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. Even the things I normally liked doing seemed sort of distant and pointless. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. Eventually she suggested I should just go home and rest. I couldn't think of anything better to do, so I did what she said.
 
