@@ -22,15 +22,15 @@ posts = [
 
 Alchemist kept clinging to the other side of the ladder. It was like they thought they could hide from me, even though I could obviously see them right through it.
 
-Seeing Alchemist afraid had kind of knocked me out of the Blood God state I'd been in. I was definitely going to be mad again later, but right now, I was just panicking about how I'd scared Alchemist. "It's okay, I'm not going to hurt <em>you</em>!" I said. "It's the Seeking God! It just – it absolutely fucked me over!" Alchemist seemed to shrink even further away from me, if that were possible. Right, Alchemist was really sensitive. I couldn't just <em>tell</em> them I wasn't mad at them, I had to <em>act</em> in a gentler way too.
+Seeing Alchemist afraid had mostly knocked me out of the Blood God state I'd been in. I was definitely going to be mad again later, but right now, I was just panicking about how I'd scared Alchemist. "It's okay, I'm not going to hurt <em>you</em>!" I said. "It's the Seeking God! It just – it absolutely fucked me over!" Alchemist seemed to shrink even further away from me, if that were possible. Right, Alchemist was really sensitive. I couldn't just <em>tell</em> them I wasn't mad at them, I had to <em>act</em> in a gentler way too.
 
 Belatedly, I turned my bleeding blade back into a regular arm. I had been waving it in Alchemist's general direction, hadn't I. Stern take it all.
 
-"I'm really not mad at you," I said, forcing myself to sound calmer, despite my pounding heart. I opened my arms, making sure they both had regular human hands on them. "It's okay. You can come out now."
+"I'm –" I forced myself to sound calmer, despite my pounding heart. "I'm really not mad at you." I opened my arms, making sure they both had regular human hands on them. "It's okay. You can come out now."
 
 Alchemist didn't come out from behind the ladder.
 
-"Okay, fine, I'll just, uh, wait over here until you're ready," I said. I sat down on a big rock, trying to give them space, and started kicking at the sand with my foot. I couldn't stand sitting quietly after how the Seeking God had just dumped me here. But I really didn't want to hurt Alchemist, and I had no idea what else to do. Finding Yali was hopeless now.
+"Okay, fine, I'll just, uh, wait over here until you're ready," I said. I sat down on a big rock, trying to give them space, and started kicking at the sand with my foot. I couldn't stand sitting quietly after what the Seeking God had just done to me. But I had no idea what else to do. And I didn't want to make Alchemist hate me on top of everything else.
 
 It really <em>was</em> just sand and rocks around us. The rocks came in all sizes – there was everything from tiny pebbles to huge round balls of rock, half-sunk into the sand, but still as tall as we were. And scattered randomly among the rocks, there was the occasional ladder – all looking like some sort of cheap, translucent plastic, and all sticking up straight out of the ground into the air.
 
@@ -40,25 +40,25 @@ It really <em>was</em> just sand and rocks around us. The rocks came in all size
 
 Alchemist giggled a little. A little at a time, they moved out from behind the ladder. Their mouth moved slightly, as if they were trying to say something, but eventually they stopped and we just stood there awkwardly.
 
-I tried to make conversation. "So, what <em>is</em> this place?" I asked. "It doesn't look like the rest of the Endless Maze." Most of this world had been made out of tiny rooms and twisty passageways, with puzzles hidden behind every corner. But right now, we were in the middle of a big landscape, stretching out in all directions. If it wasn't for the ladders sticking up everywhere, it would look completely normal.
+I tried to find something normal to talk about. "So, what <em>is</em> this place?" I asked. "It doesn't look like the rest of the Endless Maze."
 
 "It doesn't…?"
 
-"Yeah, this just doesn't seem like the Seeking God at all. It's more like…" I looked around at the endless sand and stones. There was kind of a sense of emptiness here, like an incomplete world. "…more like the Broken? Wait, did <em>you</em> do something to this part of the world?"
+"Yeah, there's normally, like, loads of twisty passages and puzzles and stuff. This just doesn't seem like the Seeking God at all. It's more like…" I searched the endless sand and stones for something to explain it. There was a sense of emptiness here, like an incomplete world. "…more like the Broken? Wait, did <em>you</em> do something to this part of the world?"
 
 "I… maybe?" said Alchemist doubtfully.
 
-"Or, wait, what if the <em>Seeking</em> makes different puzzles for each of us? Justicar's puzzles had rigid rules, too. I mean, the rules were a trick, but it was still <em>based on</em> rules, it was, like, built for someone who liked the <em>idea</em> of rules…" Ugh, thinking back to that was going to make me mad. I was trying to act normal, but I needed something to do with all my extra energy, and Alchemist wasn't really helping with that.
+"Or, wait, what if the <em>Seeking</em> makes different puzzles for each of us? Justicar's puzzles had rigid rules, too. I mean, the rules were a trick, but it was still <em>based on</em> rules, it was, like, built for someone who liked the <em>idea</em> of rules –" Ugh, if I kept talking, I was going to walk into something that would make me mad again. I needed something to do with all my extra energy. And Alchemist wasn't really helping with that.
 
 So I climbed one of the ladders. I sprang upwards, and in moments, I was twice my height up from the ground, straddling the top rung and weaving my legs between the other rungs for balance. Unfortunately, even from the top of the ladder, I couldn't see very far. The gray fog was clouding my view in all directions. I strained my eyes, but before long, I was just looking down again.
 
 Below me, Alchemist picked up a smooth rock the size of their hand, rubbed it a little, then put it back down in a different place. Once that was done, they picked up another. Now that I noticed it, it looked like they'd been arranging the rocks in a pretty pattern, with lots of curves and spirals. They are was a long stretch of rocks that were arranged in the same pattern, going off into the fog in one direction. Maybe that was the direction Alchemist had been coming from when I showed up.
 
-I jumped down from the ladder. "Why are you putting the rocks like that? I mean, it looks nice, but is there a reason for it?"
+[????? put motivation here] I jumped down from the ladder. "Why are you putting the rocks like that? I mean, it looks nice, but is there a reason for it?"
 
 "I… don't know? It just, felt, like, something."
 
-"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. Then I promptly got distracted by noticing Alchemist's feet. Alchemist was barefoot on the fine sand, wearing a loose robe that came down to their ankles. It looked soft and warm and comfy. I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the ground. The sand felt good between my toes. Even the stones were mostly smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
+"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. Then I promptly got distracted by noticing Alchemist's feet. Alchemist was barefoot on the fine sand, wearing a loose robe that came down to their ankles. [???? maybe Blood God conflict: It looked soft and warm and comfy.] I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the ground. The sand felt good between my toes. Even the stones were mostly smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
 
 I cheerfully jumped down into a sitting position next to Alchemist. "So, how do you come up with these designs?" I said, picking up one of the stones to look at it. Alchemist flinched. "Oh, uh, was I not supposed to touch that? Let me just put it back." Luckily, I remembered where to put it back. I tried to make more conversation with Alchemist, but they seemed reluctant. "I could give you some space! I mean, if that's what you'd like –"
 
