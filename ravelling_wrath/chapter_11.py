@@ -32,7 +32,7 @@ Alchemist didn't come out from behind the ladder.
 
 "Okay, fine, I'll just, uh, wait over here until you're ready," I said. I sat down on a big rock, trying to give them space, and started kicking at the sand with my foot. I couldn't stand sitting quietly after what the Seeking God had just done to me. But I had no idea what else to do. And I didn't want to make Alchemist hate me on top of everything else.
 
-It really <em>was</em> just sand and rocks around us. The rocks came in all sizes – there was everything from tiny pebbles to huge round balls of rock, half-sunk into the sand, but still as tall as we were. And scattered randomly among the rocks, there was the occasional ladder – all looking like some sort of cheap, translucent plastic, and all sticking up straight out of the ground into the air.
+It really <em>was</em> just sand and rocks around us. The rocks came in all sizes. In some places, there were piles of tiny pebbles. In others, there were huge round balls of rock, half-sunk into the sand, but still as tall as we were. And scattered randomly among the rocks, there was the occasional ladder – all looking like some sort of cheap, translucent plastic, and all sticking up straight out of the ground into the air.
 
 "You're – you're definitely not going to hurt me?" said Alchemist tentatively, poking their head out from around their ladder.
 
@@ -52,21 +52,25 @@ I tried to find something normal to talk about. "So, what <em>is</em> this place
 
 So I climbed one of the ladders. I sprang upwards, and in moments, I was twice my height up from the ground, straddling the top rung and weaving my legs between the other rungs for balance. Unfortunately, even from the top of the ladder, I couldn't see very far. The gray fog was clouding my view in all directions. I strained my eyes, but before long, I was just looking down again.
 
-Below me, Alchemist picked up a smooth rock the size of their hand, rubbed it a little, then put it back down in a different place. Once that was done, they picked up another. Now that I noticed it, it looked like they'd been arranging the rocks in a pretty pattern, with lots of curves and spirals. They are was a long stretch of rocks that were arranged in the same pattern, going off into the fog in one direction. Maybe that was the direction Alchemist had been coming from when I showed up.
+Below me, Alchemist picked up a smooth rock the size of their hand, rubbed it a little, then put it back down in a different place. Once that was done, they picked up another. Now that I noticed it, it looked like they'd been arranging the rocks in a pretty pattern, with lots of curves and spirals. There was a long stretch of rocks that were arranged in the same pattern, going off into the fog in one direction. That must have been the direction Alchemist had been coming from when I showed up.
 
-[????? put motivation here] I jumped down from the ladder. "Why are you putting the rocks like that? I mean, it looks nice, but is there a reason for it?"
+Watching them, I felt a terrible loneliness. I had been so close to Yali, and then she'd been snatched away from me again. I felt like I was going to cry. Justicar had been right all along. Ugh, fuck that! I needed something else to think about. I jumped down from the ladder and called out to Alchemist. "Why are you putting the rocks like that? I mean, it looks nice, but is there a reason for it?"
 
 "I… don't know? It just, felt, like, something."
 
-"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. Then I promptly got distracted by noticing Alchemist's feet. Alchemist was barefoot on the fine sand, wearing a loose robe that came down to their ankles. [???? maybe Blood God conflict: It looked soft and warm and comfy.] I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the ground. The sand felt good between my toes. Even the stones were mostly smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
+"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. Then I promptly got distracted by noticing Alchemist's feet. Alchemist was barefoot on the fine sand, wearing a loose robe that came down to their ankles. It looked soft and warm and comfy – no, I didn't have time for comfy things! I had to fight – ugh, how was I even supposed to fight? Maybe I could just be comfy like Alchemist and forget about it. I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the ground. I had to admit, the sand felt good between my toes. Even the stones were smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
 
-I cheerfully jumped down into a sitting position next to Alchemist. "So, how do you come up with these designs?" I said, picking up one of the stones to look at it. Alchemist flinched. "Oh, uh, was I not supposed to touch that? Let me just put it back." Luckily, I remembered where to put it back. I tried to make more conversation with Alchemist, but they seemed reluctant. "I could give you some space! I mean, if that's what you'd like –"
+Forcing cheerfulness, I jumped down into a sitting position next to Alchemist. "So, how do you come up with these designs?" I said, picking up one of the stones to look at it. Alchemist flinched. "Oh, uh, was I not supposed to touch that? Let me just put it back." Luckily, I remembered where to put it back.
 
-"I… maybe?" I could tell they were uncomfortable, but I couldn't tell whether they were uncomfortable about saying no or uncomfortable about saying yes, Stern take it. Whatever. I wanted to check this place out anyway, to see if there was anything behind the fog that would get us back closer to the others.
+I tried to make more conversation with Alchemist, but they seemed reluctant.
 
-"I'll be back soon." I summoned the map. "If I get lost in the fog, I'll just go towards the Cloven Earth." That was the Broken God's symbol, indicating where Alchemist was. "I mean, unless the Seeking God messes with me. But apparently, the Seeking God can mess with me whenever the fuck it wants, so it doesn't make a difference, does it." I scowled. "So yeah, uh… see you soon."
+"I could give you some space! I mean, if that's what you'd like –"
 
-I walked off into the fog, my bare feet rubbing over the sand and stones. The further I walked, the more the cool, damp mist settled on my skin. I kept heading straight in one direction for a while, hoping to find something different. But there was just more sand and stones and ladders. Every so often, I paused to climb up one of the ladders. Climbing up and down was a satisfying workout, but it was still no different than before.
+"I… maybe?" Stern take it, I couldn't tell whether they were uncomfortable about telling me to go away or uncomfortable about telling me <em>not</em> to go away. I felt like I should go away, to make sure I didn't fuck anything up. Plus, the back of my mind had started itching to look around this place, just in case the fog was hiding something we could use to get back to the others.
+
+"I'll be back soon." I summoned the map. "If I get lost in the fog, I'll just go towards the Cloven Earth. I mean, unless the Seeking God messes with me. But apparently, the Seeking God can mess with me whenever the fuck it wants, so it doesn't make a difference, does it." I scowled. "So yeah, uh… see you soon."
+
+I walked off into the fog, my bare feet rubbing over the sand and stones. The further I walked, the more the cool, damp mist settled on my skin. Hoping to find something different, I kept heading straight in one direction for a while. But there was just more sand and stones and ladders. I climbed a few of the ladders, and it was a good workout, but it was still no different than before.
 
 Before long, I was bored. I headed back towards Alchemist. I was half expecting to get lost in a magical fog maze, but it just worked normally. Soon, the dark shape of Alchemist loomed out of the gray mist.
 
@@ -110,9 +114,9 @@ Alchemist cringed.
 
 Alchemist leaned into my shoulder. Hesitantly, they said, "I, maybe, Justicar said you're dangerous…"
 
-"Oh for fuck's sake –" I began. Then I caught myself and make sure to settle down a bit before I said anything stupid. "Look, she's got her, like, <em>opinions</em> about stuff. But I'm really not going to hurt you. And if she was going on about the whole Blood Child and Farseer thing, there is no <em>fucking way</em> – er, there is no way I'm going to hurt Yali either. I'm really not."
+"Oh for fuck's sake –" I began. Then I caught myself and make sure to settle down a bit before I said anything stupid. "Look, she's got her own, like, <em>opinions</em> about stuff. But I'm really not going to hurt you. And if she was going on about the whole Blood Child and Farseer thing, there is no <em>fucking way</em> – er, there is no way I'll ever hurt Yali either. I really won't."
 
-"Oh…" said Alchemist. They sounded pretty disappointed. I was starting to get the idea that when Alchemist said "oh" like that, it didn't really mean they understood something. It meant they just didn't feel like pushing anymore.
+"Oh…" said Alchemist. They sounded pretty disappointed. I was starting to get the idea that, whenever Alchemist said "oh" like that, it didn't really mean they understood something. It just meant they didn't feel like pushing anymore.
 
 "Look, it's okay. If there's something you're still worried about, about me, I want to hear about it. Just spit it out, don't leave me hanging."
 
@@ -124,7 +128,7 @@ Well, fuck.
 
 "He's not here right now, is he?" Ugh, that was a stupid thing to say. Alchemist obviously meant in general, not right now. "I mean, I don't <em>want</em> to hurt anybody! I'm not going to hurt him if he doesn't hurt anybody else!" I said defensively.
 
-"I… saw…" Alchemist moved the hand that wasn't holding mine, and ran their fingers wavily through the sand. Around the fingers, the sand formed into a picture – Morrow's face, with a hand print on it where I'd slapped him. "It was smaller than his hand… so it must have been you…" Alchemist said mournfully.
+"I… saw…" Alchemist moved the hand that wasn't holding mine, and ran their fingers wavily through the sand. Around the fingers, the sand formed into a picture – Morrow's face, with a handprint on it where I'd slapped him. "It was smaller than his hand… so it must have been you…" Alchemist said mournfully.
 
 "Right, you would've seen that…" I said awkwardly. "So, what happened is, we tried trading phones when he was, <em>you know</em>, but then he freaked out and smashed mine. So, I was mad. But it was only for a moment! And it's not like I injured him or anything –" Ugh, I could already feel I was doing a bad job of this. If I wanted to reassure <em>Alchemist</em>, I'd have to come up with something better than saying <em>it could have been worse</em>. "I promise not to hurt him if he doesn't hurt anyone else."
 
@@ -132,7 +136,7 @@ Well, fuck.
 
 "You're wiser than I thought," I said. Alchemist seemed like they didn't like to think about painful things, so I hadn't really expected them to bring up something like this. But, fuck, they sure knew how to ask the hard questions. I sighed. "I, like, I can't promise it'll <em>never</em> happen, but, I guess… Even if he's hurting someone, I promise I'll try everything else I can think of first. Like, I'll, I don't know, just try to block him, or whatever. I promise."
 
-"Thanks…" Alchemist clearly wasn't <em>completely</em> satisfied, but they sounded sincere. Tentatively, they put their arms around me. Their hug was warm and gentle, lumpy in some places and bony in others. I hugged them back. And then, abruptly, they went limp, collapsing half their weight onto my shoulders.
+"Thanks…" I could tell Alchemist wasn't <em>completely</em> satisfied, but they sounded sincere. Tentatively, they put their arms around me. Their hug was warm and gentle, lumpy in some places and bony in others. I hugged them back. And then, abruptly, they went limp, collapsing half their weight onto my shoulders.
 
 I quickly adjusted so I could hold them up. "Woah, are you okay there?!"
 
@@ -197,7 +201,7 @@ Alchemist leaned in to take a closer look. "Is that, the one that, broke?"
 
 "It's, still, broken?"
 
-"Phones don't unbreak by themselves!" I said irritably. Alchemist flinched. Oh right, they were pretty sensitive, I shouldn't be snapping at them like that. [????? This is now redundant with earlier text]
+"Phones don't unbreak by themselves!" I said irritably. Alchemist flinched. "Sorry, I didn't mean to snap at you like that."
 
 "Maybe, if, you…?"
 
@@ -229,7 +233,7 @@ Alchemist smiled involuntarily.
 
 "So… are you, like, okay with that? With him reading your mind?"
 
-"It's <em>wonderful</em>." Alchemist's face lit right up, and their voice turned all relaxed and dreamy. "He always knows what I want. I never have to figure it out myself when he's around. He makes me so <em>happy</em>." Alchemist giggled a little. It was so cute.
+"It's <em>wonderful</em>." Alchemist's face lit right up, and their voice turned all relaxed and dreamy. "He always knows what I want. I never have to figure it out myself when he's around. He makes me so <em>happy</em>." Alchemist giggled a little. It was adorable.
 
 "Hang on, you normally have to figure out what you want? How do you not know what you want?"
 
@@ -237,7 +241,7 @@ Alchemist smiled involuntarily.
 
 "I mean, I just want things. What does it mean to want something without knowing what it is?"
 
-"Oh…" sighed Alchemist disappointedly. They had such an expressive, emotional face. When they were happy, they looked totally blissful, and when they were sad, they looked like just the saddest thing <em>ever</em>. I just wanted to hug them forever.
+"Oh…" sighed Alchemist. They had such an expressive, emotional face. When they were happy, they looked totally blissful, and when they were sad, they looked like just the saddest thing <em>ever</em>. I just wanted to hug them forever.
 
 "Do you want a hug?" I said.
 
@@ -253,11 +257,7 @@ I had no idea.
 
 It was driving me crazy. I felt trapped in this place. Even if I wasn't going to get to Yali, it was so stupid to not even TRY to get closer to her! So I had started checking the map obsessively, measuring out from my position to the nearest landmarks, to make sure I was actually getting somewhere and the Seeking God wasn't somehow cheating me out of my progress. But it <em>was</em>! My location on the map didn't stay consistent at all, it just sort of randomly moved around, totally unrelated to the direction we were going.
 
-????? Fix transition here
-
-Right now, I was tired, slouching on a couch I made, cuddling with Alchemist. At least <em>this</em> part was comfortable.
-
-"This fucking map!" I complained. "We go one direction, and it says we're going the other! And not even consistently! This whole place…"
+"This fucking map!" I complained. Right now, I was tired, slouching on a couch I'd made, cuddling with Alchemist. At least <em>this</em> part was comfortable. "We go one direction, and it says we're going the other! And not even consistently! This whole place…"
 
 Alchemist rubbed my shoulder gently, not saying anything. It was nice and all, but it wasn't really what I cared about right now.
 
@@ -367,7 +367,7 @@ Sure enough, there was something there. Not far in front of us, the ground ended
 
 "Hey! Check this out!" my voice came echoing back to me. So this wasn't just a cliff, it was an enormous gorge.
 
-I stepped right up to the edge. Alchemist followed a few steps back. The wall of the gorge went down further than I could see through the fog, and there was a strong breeze blowing up from the depths. Along the wall, there were long ramps zigzagging back and forth, offering paths to walk downwards.
+I stepped right up to the edge. Alchemist followed a few steps behind. The wall of the gorge went down further than I could see through the fog, and there was a strong breeze blowing up from the depths. Along the wall, there were long ramps zigzagging back and forth, offering paths to walk downwards.
 
 "Maybe it wasn't a trick after all! Let's see what's down there!" I headed for one of the ramps.
 
