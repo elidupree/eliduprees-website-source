@@ -58,7 +58,7 @@ Watching them, I felt a terrible loneliness. I had been so close to Yali, and th
 
 "I… don't know? It just, felt, like, something."
 
-"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. Then I promptly got distracted by noticing Alchemist's feet. Alchemist was barefoot on the fine sand, wearing a loose robe that came down to their ankles. It looked soft and warm and comfy – no, I didn't have time for comfy things! I had to fight – ugh, how was I even supposed to fight? Maybe I could just be comfy like Alchemist and forget about it. I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the ground. I had to admit, the sand felt good between my toes. Even the stones were smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
+"Well, it's cool that you're doing it!" Why was I saying that? I looked down at the pattern. Then I promptly got distracted by Alchemist's feet. Alchemist was barefoot on the fine sand, wearing a loose robe that came down to their ankles. It looked soft and warm and comfy – no, I didn't have time for comfy things! I had to keep fighting – ugh, how was I even supposed to fight? Maybe I could just be comfy like Alchemist and forget about it. I kicked off my own shoes – well, technically, I swung my leg while unmanifesting my shoes – and walked barefoot on the ground. I had to admit, the sand felt good between my toes. Even the stones were smooth enough to be comfortable to walk on. It felt like they were giving a firm massage to the soles of my feet.
 
 Forcing cheerfulness, I jumped down into a sitting position next to Alchemist. "So, how do you come up with these designs?" I said, picking up one of the stones to look at it. Alchemist flinched. "Oh, uh, was I not supposed to touch that? Let me just put it back." Luckily, I remembered where to put it back.
 
@@ -66,7 +66,7 @@ I tried to make more conversation with Alchemist, but they seemed reluctant.
 
 "I could give you some space! I mean, if that's what you'd like –"
 
-"I… maybe?" Stern take it, I couldn't tell whether they were uncomfortable about telling me to go away or uncomfortable about telling me <em>not</em> to go away. I felt like I should go away, to make sure I didn't fuck anything up. Plus, the back of my mind had started itching to look around this place, just in case the fog was hiding something we could use to get back to the others.
+"I… maybe?" Stern take it, I couldn't tell whether they were uncomfortable telling me to go away or uncomfortable telling me <em>not</em> to go away. I felt like I should go away, to make sure I didn't fuck anything up. Plus, the back of my mind had started itching to look around this place, just in case the fog was hiding something we could use to get back to the others.
 
 "I'll be back soon." I summoned the map. "If I get lost in the fog, I'll just go towards the Cloven Earth. I mean, unless the Seeking God messes with me. But apparently, the Seeking God can mess with me whenever the fuck it wants, so it doesn't make a difference, does it." I scowled. "So yeah, uh… see you soon."
 
@@ -114,7 +114,7 @@ Alchemist cringed.
 
 Alchemist leaned into my shoulder. Hesitantly, they said, "I, maybe, Justicar said you're dangerous…"
 
-"Oh for fuck's sake –" I began. Then I caught myself and make sure to settle down a bit before I said anything stupid. "Look, she's got her own, like, <em>opinions</em> about stuff. But I'm really not going to hurt you. And if she was going on about the whole Blood Child and Farseer thing, there is no <em>fucking way</em> – er, there is no way I'll ever hurt Yali either. I really won't."
+"Oh for fuck's sake –" I began. Then I caught myself and made sure to settle down a bit before I said anything stupid. "Look, she's got her own, like, <em>opinions</em> about stuff. But I'm really not going to hurt you. And if she was going on about the whole Blood Child and Farseer thing, there is no <em>fucking way</em> – er, there is no way I'll ever hurt Yali either. I really won't."
 
 "Oh…" said Alchemist. They sounded pretty disappointed. I was starting to get the idea that, whenever Alchemist said "oh" like that, it didn't really mean they understood something. It just meant they didn't feel like pushing anymore.
 
@@ -159,9 +159,6 @@ They nodded again. "And…"
 Another nod.
 
 "Well, I'm here!" I said cheerfully. Alchemist giggled despite themself.
-
-
-????
 
 <bigbreak>
 
@@ -323,7 +320,7 @@ I was surprised by how confident Alchemist sounded. I had pretty much been expec
 
 <bigbreak>
 
-Being intimate with Alchemist was like having one injury healed and another injury ripped back open. We spent hours lying together, nestled in each other's arms, rubbing our faces together and exchanging soft kisses from time to time. It filled me up with such warmth, such wholesomeness, I felt like I could just float in that feeling forever. But at the same time, the more we touched, the more I couldn't stop thinking about Yali, too. With Alchemist, I had such a deep, emotional closeness, but… I just wasn't that attracted to them physically. Even when we touched, my skin was craving something else. Something big and squishy and strong and luscious and <em>Yali</em>. ????
+Being intimate with Alchemist was like having one injury healed and another injury ripped back open. We spent hours lying together, nestled in each other's arms, rubbing our faces together and exchanging soft kisses from time to time. It filled me up with such warmth, such wholesomeness, I felt like I could just float in that feeling forever. But at the same time, the more we touched, the more I couldn't stop thinking about Yali, too. With Alchemist, I had such a deep, emotional closeness, but… I just wasn't that attracted to them physically. Even when we touched, my skin was craving something else. Something big and squishy and strong and luscious and <em>Yali</em>.
 
 Well, at least I was having the <em>good</em> obsession with Yali instead of the <em>bad</em> obsession with Yali. Any time I fantasized about getting in her pants instead of killing her to death, that was a win in my book.
 
@@ -467,7 +464,7 @@ I approached them cautiously, trying to be gentle. "Okay, then, what is it? Come
 
 "Don't turn all Stern on me! I can make my own decisions!" I snapped. "How the fuck old are you, anyway?"
 
-"I'm twenty…" I had already assumed Alchemist was older than me, so that wasn't too surprising. "Morrow's twenty-five."
+"I'm nineteen…" I had already assumed Alchemist was older than me, so that wasn't too surprising. "Morrow's twenty-five."
 
 I stared, open-mouthed. "You kidding me?! No way! He doesn't <em>look</em> twenty-five. He doesn't <em>act</em> twenty-five. And how the fuck did you even get him to tell you how old he was? <em>I</em> couldn't get him to!"
 
