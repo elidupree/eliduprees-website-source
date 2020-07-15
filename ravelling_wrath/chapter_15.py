@@ -124,7 +124,7 @@ I would NEVER be that weak again. My hands clenched around my blades, looking fo
 
 But in my core, I knew that I was grasping at lies. I had known it since the first time I hit the tree, because it didn't feel <em>anything</em> like how it had felt to hit Justicar. My blade had scraped over her face like fingernails scraping against a mountain. How could I ever hope to stop her?! I could almost see her in front of me, coming back to finish me off, her sword plunging towards my eyes. Terror clawed at me, threatening to rip my heart out of my chest. I was going to <em>die!</em> Nothing I did was going to change a single thing! I was going to feel my life bleed out of me before I could even leave a mark on the world!!
 
-The pain was too much. I felt a scream building inside me. I had to get out of here. I ran frantically into the woods. Branches tore at my arms and head. My legs screamed and I could barely see where I was going. But the pain didn't end. It was inside of me.
+The pain was too much. I felt a scream building inside me. I had to get out of here. I ran frantically into the woods. Branches tore at my arms and head. My legs hurt and I could barely see where I was going. But the pain didn't end. It was inside of me.
 
 I stumbled to a halt, hunched over and gasping for breath. I couldn't go on like this! I had to do SOMETHING! I had to get myself under control somehow! But I couldn't get away from her! Everywhere I ran, I felt Justicar two steps behind me! I had to get her out of my head! I had to think about something else, ANYTHING else! I cast about for something to think, but nothing came to me. There had to be <em>something</em>! Even if it was just the things I had done right before or after the fight! What had I been doing before? I wrenched the memories out of my mind. I had been struggling through the Blood Child's Path – because I was on my way to the portal – because –
 
@@ -134,9 +134,9 @@ The scream ripped out through my lungs, burning through the inside of my chest. 
 
 <em>I had stabbed Yali.</em>
 
-There was no end to my raw vortex of pain. The trees withered and blackened before me. I fell to my knees, my hands clutching at the dying soil. Cracks tore forth through the earth from my hands. The ground buckled under me, raising me up while the fissures zigzagged out in every direction. I felt my arms and legs sinking in the ground. I could no longer lift my head to take my next breath. Tears squeezed from my eyes, sizzling and boiling away as they tried to soak the parched earth.
+There was no end to my raw vortex of pain. Time stretched on and on. The trees withered and blackened before me. I fell to my knees, my hands clutching at the dying soil. Cracks tore forth through the earth from my hands. The ground buckled under me, raising me up while the fissures zigzagged out in every direction. I felt my arms and legs sinking in the ground. I could no longer lift my head to take my next breath. Tears squeezed from my eyes, sizzling and boiling away as they tried to soak the parched earth.
 
-And then, in the moment between my screams, in the gut-wrenching pause before I would be torn apart again, the sound of footsteps broke through.
+And then, in a moment between my screams, in a gut-wrenching pause before I would be torn apart again, the sound of footsteps broke through.
 
 The footsteps pounded through the crackling leaves. I had never been so desperate to see another human face. Looking up, I barely made out who it was, the figure rushing towards me, pelted by my howling storm. "MORROW!!!" I tried to scream. But even his name was lost in the roar of pain. I looked up at him desperately, hoping he could tell from my eyes what I was begging him to do. <em>Help me! HELP ME!! Do the loopy thing on me again, do anything you can think of, just as long as I don't have to feel this for a moment longer –</em>
 
@@ -164,17 +164,17 @@ I heard yelling around me. There was Yali's voice, and… another one that I cou
 
 I tried to look up from the ground. My head was spinning. Wild patches of color were smeared over everything. My mouth felt like it was stuffed with cotton balls, and when I tried to move my tongue, it didn't feel it was moving at all.
 
-The voices kept speaking. Every syllable echoed and distorted in my head, beating on my skull from all sides. Behind that, I was sure it sounded like normal speaking, but somehow, I couldn't make out a single word.
+The voices kept yelling. Every syllable echoed and distorted in my head, beating on my skull from all sides. I was sure they sounded like normal words, but somehow, I couldn't understand a single one.
 
 Eventually I gave up on trying to hear the words that were bouncing off of me. Instead, I tried to map out what was around me. My body was propped up in a sitting position against a cushion, leaning against a tree. A face loomed over me, but I couldn't see it quite right because there was a smear of color right over it. I angled my eyes to the side, to aim a clear patch of my vision at the face, and saw that it was Alchemist. Behind them, Yali stood, also looking down at me with… worry?
 
 "I think, maybe, it's working?" said Alchemist. Something sounded <em>different</em> about that sentence, but I couldn't place it. But then I realized – for the first time, I had actually been able to make out the words.
 
-"Wath worggih?" I said. Half my mouth was still numb. I had to push through the cotton balls to make any sound, and then my own voice pounded on my head from the inside. "Wha the fuuh. Thih thuuuth."
+"Wath worggih?" I said. Half my mouth was still numb. I had to push through the cotton balls to make a sound, and when I did, my own voice pounded on my head from the inside. "Wha the fuuh. Thih thuuuth."
 
 Alchemist pressed a potion into my hands. "You could, drink this? It makes, Morrow's, stuff, feel, less bad."
 
-I drank. The potion was thick and hard to swallow, and afterwards it felt like a lump in my stomach. But at least it felt like it was a lump that was going to <em>stay</em> in my stomach. A wave of cool pressure expanded though my body, clearing most of the noise from my senses. It left me feeling just <em>regular</em> exhausted.
+I drank. The potion was thick and hard to swallow, and afterwards it felt like a lump in my stomach. But at least it felt like it was going to <em>stay</em> in my stomach. A wave of cool pressure expanded though my body, clearing most of the noise from my senses. It left me feeling just <em>regular</em> exhausted.
 
 I tried to speak again. "Whereshh Morrow? What'd I miss?"
 
@@ -198,7 +198,7 @@ I had always assumed that if I ever saw Yali cry, it would be dignified, like in
 
 A sense of dread was growing inside me. Not thinking of anything else to do, I turned to Alchemist. "Alchemist, what happened? Is she –"
 
-Alchemist's face looked like nothing I'd seen before. Their lips were twisted into a grimace, tensing and flickering between anger and worry. A great battle was raging inside them, between their newfound anger wanting to be let out, and their old fear holding it back.
+Alchemist's face looked like nothing I'd seen before. Their mouth was twisted into a grimace, tensing and flickering between anger and worry. A great battle was raging inside them, between their newfound anger wanting to be let out, and their old fear holding it back.
 
 In the end, the anger won.
 
@@ -210,7 +210,7 @@ In the end, the anger won.
 
 "I'm so, so, sorry," Yali choked out, her voice breaking and breathy. "This whole time, I've thought I was protecting you! I thought we had to stop you from being angry! To <em>protect</em> you, not to make you vulnerable! But it was my own skills, <em>my own skills</em> that let him violate you! It's all my fault, everything he did to you is my fault!!"
 
-"I mean, uh…" I had no idea what to do in this situation. "Uh, you're talking as if he, like, sexually assaulted me. Wait, are you saying he –"
+"I mean, uh…" I had no idea what to do in this situation. "Uh, you're talking as if Morrow, like, sexually assaulted me. Wait, are you saying he –"
 
 Yali looked at me incredulously. "He was <em>inside your mind</em>. How are you defending him?!"
 
@@ -234,7 +234,7 @@ Alchemist shrank back uncomfortably.
 
 "Hey, it's okay, you don't –"
 
-"It was my fault," said Yali. "They tried to pull me off of Morrow. I, I, I, couldn't tell friend from foe at the time."
+"It was my fault," said Yali. "They tried to pull me off of Morrow. I, I, I, hit them a few times before I realized who they were."
 
 "Eh, shit happens." I turned to Alchemist. "You okay though?"
 
@@ -254,7 +254,7 @@ My blood ran cold. "<em>Alchemist,</em>" I said, my voice coming out harsh.
 
 For a heartbeat, all three of us were frozen.
 
-"That's not what happened!" Alchemist lied frantically. If I'd had any doubt, it was gone now. They were such a bad liar. Seeing them try to defend him made me even more angry. I shoved myself to my feet, already charged up and ready to fight. I wanted to scream out in rage, but no words were enough. How DARE he do such a thing to poor, sweet, INNOCENT Alchemist?!! Blades sprouted involuntarily from my back and arms, piercing through my shirt, through my jacket, and stabbing into the air. The more I imagined it – Morrow crouching over a helpless Alchemist, making Alchemist feel all those disturbing, terrifying things – the more I couldn't bear to just stand here. All my old sympathy for him was lying in shreds. I wanted to make him <em>suffer</em>. My blades kept growing, sprouting from every part of my body. I couldn't stop them now. I wasn't sure I even wanted to.
+"That's not what happened!" Alchemist lied frantically. If I'd had any doubt, it was gone now. They were such a bad liar. Seeing them try to defend him made me even more angry. I shoved myself to my feet, already charged up and ready to fight. I wanted to scream out in rage, but no words were enough. How DARE he do such a thing to poor, sweet, INNOCENT Alchemist!! Blades sprouted involuntarily from my back and arms, piercing through my shirt, through my jacket, and stabbing into the air. The more I imagined it – Morrow crouching over a helpless Alchemist, making Alchemist feel all those disturbing, terrifying things – the more I couldn't bear to just stand here. All my old sympathy for him was lying in shreds. I wanted to make him <em>suffer</em>. My blades kept growing, sprouting from every part of my body. I couldn't stop them now. I wasn't sure I even wanted to.
 
 Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone cliff against the ocean waves. "Expressing Game," she said.
 
@@ -268,7 +268,7 @@ I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alch
 
 "<em>Controlling Game,</em>" said Yali.
 
-"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark against my skin distract me from anything I was feeling.
+"FINE!" Painstakingly, I forced my blades to retract. One by one, they absorbed back into my skin. Once I had just my regular, small human body left, a wave of exhaustion nearly knocked me to the ground. I leaned hard on a tree, not even bothering to manifest my shredded shirt back together. "Fuck!" I yelled into the bark of the tree. I didn't even want to look at Alchemist. I just kept leaning against the tree, letting the hard edges of the bark dig into my skin and distract me from anything I was feeling.
 
 I heard Alchemist's shaky voice in the background. "Is, she…"
 
@@ -296,7 +296,7 @@ We sat in silence for a while. ????
 
 "Holy fuck," I said.
 
-"But… he loves me!" said Alchemist. "He wouldn't hurt me! Not like that!"
+"But… he loves me!" said Alchemist. "He wouldn't keep going if –"
 
 "He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, you can try to change it, but you can't just pretend it isn't there! You think love will protect you? I have known since I was ????six years old that love is not enough! If you love someone but you hide from the truth, your love will do NOTHING! Morrow loves you! He would never do anything to hurt you! But when he is taking your mind to pieces, he has no idea how much he is hurting you! He would suffer if he knew, so he hides from it! His love does nothing! And you! You love Morrow, but you want to rush into danger without a plan! You don't want to believe that he would hurt you, so you hide from it! Your love will do nothing – no, less than nothing, it will destroy you! Love will never save you without a plan! So what's your plan, Alchemist?!"
 
@@ -308,7 +308,7 @@ Half glaring at Yali, I offered my arms to Alchemist. Alchemist immediately coll
 
 "It'll be okay. I'm sure we'll think of something," I lied. Inside me, I felt the Blood God's distaste for my lying. Alchemist didn't seem very reassured either.
 
-Alchemist turned their head in my arms, trying to look up at Yali. "You beat him half to death! I saw, I saw, I saw –" Alchemist panted heavily. "And now you're telling me I can't even help him! I, h-hate, I hate you!!" they sobbed.
+Alchemist turned their head in my arms, trying to look up at Yali. "You beat him half to death! I saw, I saw, I saw –" Alchemist panted heavily. "And now you say I can't even help him! I, h-hate, I hate you!!" they sobbed.
 
 Yali looked at them coldly. "A lot of people hate me. What makes you special?"
 
@@ -346,9 +346,9 @@ Through gritted teeth, Yali replied, "I don't expect you to understand this, but
 
 "Can we <em>not</em> argue about the Stern right now?!"
 
-"Fine! Let's talk about what we're going to do about Morrow!"
+"Fine! Let's talk about what we're going to save Morrow!"
 
-"<em>If</em> we're going to do something about –"
+"<em>If</em> we're going to save –"
 
 "Come on, we can't just abandon him! He was fine before this, we all thought so –"
 
@@ -368,7 +368,11 @@ Yali looked dismayed. "You're allowed to have, to have, complicated feelings, ab
 
 "But it really <em>isn't</em> like him! He's always been –" I thought back to the second layer. He had always jumped to hurt <em>himself</em>, but he never tried to hurt anyone <em>else</em>, except maybe as a prank. And even then, if I got mad about it, he'd fold over right away – "Wait, that's it! Think about it! He was reading my mind, so he must have known that I was thinking about fighting back against him! He should have been scared, just like he was scared of me before! But he didn't react at all! There must've been something else influencing him, it must've been the Seeking God! Think about it! He's just like me! His god made him want to, you know, do things that hurt other people, just like mine! But the difference is, <em>he</em> didn't have a genius like Yali here to help him through it! And he still managed to not hurt anyone for, like, three whole layers? I think? We <em>have</em> to help him, he's been fucked over by the gods just as much as we have!"
 
-Yali glared at me. But I could see some doubt breaking through to her. Her face almost softened for a moment. But then it tightened up again. She shouted back at me, "Even if I agree to that, how are we going to help him?! <em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– Alchemists can make all kinds of potions, even this one that blocks all physical attacks, like a wall! But Morrow's powers are soul-based! There's no such thing as a soul wall! A potion could block specific things, but Morrow's creative, he'll always find ways to work around it! And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
+Yali glared at me. But I could see some doubt breaking through to her. Her face almost softened for a moment. But then it tightened up again. She shouted back at me, "Even if I agree to that, how are we going to help him?! <em>Neither</em> of you has any powers that could protect you from him! <em>You</em> –" she jabbed her thumb at Alchemist "– Alchemists can make all kinds of potions, but none that can protect you from this! And –"
+
+"But, I made, –"
+
+"What, the one I just drank? That's like a wall that blocks all <em>physical</em> attacks! But Morrow's powers are soul-based! There's no such thing as a soul wall! Even if you made a potion to block specific soul things, Morrow's creative, he'll always find ways to work around it! And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
 
 "What's soulfire?"
 
@@ -392,19 +396,19 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "It must be an effect of his powers going out of control. His memories are literally here in the air around us. I can see them when I use the Seeing."
 
-"That's great!" I said. "Maybe that'll tell us a way to get through to him –"
+"That's great!" I said. "Maybe that'll tell us how to get through to him –"
 
 "This feels, this feels, invasive…" Yali muttered. Then she shouted herself down – "HE DIDN'T WORRY ABOUT BEING INVASIVE WHEN HE WAS IN RINN'S MIND!!"
 
 I didn't know how to feel about that. Before I could think of anything to say, Yali was already doing it. Her eyes glared into the unreal with a razor-sharp focus. It was so intense that it made me instinctively follow where she was looking, but of course, she was looking at something the rest of us couldn't see. Her eyes kept refocusing at slightly different angles, as if she was scanning through thousands of images.
 
-As she looked, a twisted expression grew on her face, halfway between a grimace and a cruel smile. When she finally spoke, her voice was sharp and unfeeling. "Wow," she said, "he was abused even worse than I suspected. Worse than I was, even."
+As she looked, a twisted expression grew on her face, halfway between a grimace and a cruel smile. When she finally spoke, her voice was sharp and unfeeling. "Wow," she said, "he was abused even worse than I suspected. Even worse than I was."
 
-"You too?" gasped Alchemist. So they had known about Morrow already…
+"You too?" gasped Alchemist. So they hadn't known about Yali, but <em>had</em> known about Morrow…
 
-Yali barely seemed to notice them. Even when she spoke, her eyes had stayed focused on that other space. She was only giving us updates, not returning to us.
+Yali barely noticed them. Even when she'd spoken, her eyes had stayed focused on that other space. She was only giving us updates, not returning to us.
 
-"The memories, they're all mixed up with, with… So <em>that's</em> why he didn't fight back. He must have been having a flashback to being beaten by, by, by, that must be his father…"
+"The memories of the present, they're all mixed up with, with… So <em>that's</em> why he didn't fight back. He must have been having a flashback to being beaten by, by, by, that must be his father…"
 
 As Yali spoke, Alchemist wrung their hands, overwhelmed with anxiety. Wordlessly, I offered them a hug. They collapsed onto me. We leaned into each other, clinging to human warmth in the face of the cold truth. It was killing me that Alchemist had to hear this stuff. "You know," I murmured, "if you don't want to hear this, I'm sure me and Yali could –"
 
@@ -426,11 +430,11 @@ Yali talked over me, her eyes already flicking back into the memories. "There's 
 
 "Oh gods… even his curiosity is a coping strategy?"
 
-"A coping strategy? The way his mind lights up when he is experimenting with something, it's genuine excitement. I don't think you could feel that way if you were only using it as a coping strategy. He certainly <em>used</em> it to cope, but, but, I think it's just inherently how he is. He built with the pieces that were left to him.
+"A coping strategy? The way his mind lights up when he is experimenting with something, it's genuine excitement. I don't think you could feel that way if you were just forcing yourself to cope. He certainly <em>used</em> it to cope, but, but, I think it's just inherently how he is. He built with the pieces that were left to him.
 
 "I see him running away from home. I see, I see… more than one version of it? He must have run away at least, at least, four different times. I see the police finding him and bringing him home. And after the police have gone – that is one of the times his father nearly killed him. I see him begging strangers to take him in. Some of them threaten him and chase him away from their doors. Some of them sympathize but still turn him away. Some –"
 
-"The Blood Temple would have taken him in!" I said bitterly, instinctively.
+"The Blood Temple would have taken him in!" I said bitterly.
 
 "– Some of them ask where his parents are, and those are the scariest of all.
 
@@ -448,11 +452,11 @@ Yali's eyes flicked back out of the memories to focus on me for a moment. "What 
 
 "It was practically the first thing she said to him! '<em>If you <strong>defile</strong> anyone's mind, your life is forfeit</em>'! You think she was hinting at…?"
 
-"Interesting… But how would she have known?"
+"How would she have known?"
 
-"I dunno. I mean, she was a cop. Maybe she knew some kind of, uh, secret signal?" Now than I was trying to explain it, it felt more like it was just a stupid idea. "Never mind, it's probably just the way she talks."
+"I dunno. I mean, she was a cop. Maybe she knew some kind of, uh, secret signal?" Now than I was trying to explain it, I wasn't that sure after all. "Or maybe it's just the way she talks."
 
-"Probably…"
+"I don't think it matters at this point…"
 
 I didn't have more to say. Yali looked back into the memories.
 
@@ -460,13 +464,13 @@ I didn't have more to say. Yali looked back into the memories.
 
 "'When he was older'… fuck, this all happened when he was still a <em>kid</em>?"
 
-"I'm not, not sure. They're <em>his</em> memories, I can't see him directly. I think he might be… early teens? Not so much older than I was when I went to the police. But then…" I heard a hint of doubt creep into Yali's voice. "…then, he and I have a lot in common… We both had to escape our families around the same age, we both had to figure out what to do all by ourselves… <em>But I didn't abuse anyone else after I got out!</em> He's nothing like me!"
+"I'm not, not sure. They're <em>his</em> memories, I can't see him directly. I think he might be… early teens? Not much older than I was when I went to the police. But then…" I heard a hint of doubt creep into Yali's voice. "…then, he and I have a lot in common… We both had to escape our families around the same age, we both had to figure out what to do all by ourselves… <em>But I didn't abuse anyone else after I got out!</em> He's nothing like me!"
 
 Yali went quiet, frowning.
 
 I shifted my weight, trying to get more comfortable where I was sitting with Alchemist. I wanted to say something to Yali, but I was nervous about interrupting her.
 
-Into the silence, Alchemist mumbled something.
+Into the silence, Alchemist mumbled something I couldn't quite hear.
 
 "What's that?" I said.
 
@@ -478,15 +482,17 @@ Into the silence, Alchemist mumbled something.
 
 "Okay, maybe that <em>is</em> a little bad. Wow, it's really just you then. Shit."
 
-"Maybe," said Yali distractedly. "They did say <em>us five</em>. We don't know about Justicar."
+"Unless… we don't know if, Justicar, –"
 
 "I actually do, she told me a lot about herself back in the second layer. I think she, like, <em>approves</em> of her parents. I'm pretty sure they were actually horrible to her though."
 
-Yali squinted. "You'll have to tell me more about that later. When we confront Justicar, anything we know about her could be important."
+Yali suddenly focused on me again. "You know more about Justicar? You'll have to tell me sometime – anything we know about her could be important when –"
 
-?????
+"Oh! Yeah, she told me about how she used to, like, –"
 
-"Eventually he met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them teaching him how to open a bank account, how to ?????. All the little things he missed out on by growing up in an abusive household. They were… also sex workers, I believe, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
+"Not <em>now!</em>" Yali snapped. "Do you think I want to worry about Justicar on top of everything else right now?! We can deal with one person who's going to kill us at a time!" She pointedly looked back into the memories.
+
+"Eventually, Morrow met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them teaching him how to open a bank account, how to ?????. All the little things he missed out on by growing up in an abusive household. They were… also sex workers, I believe, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
 
 "Wait a minute, I thought you were looking at <em>his</em> memories! How do you know something he doesn't know?"
 

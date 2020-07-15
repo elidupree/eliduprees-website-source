@@ -26,13 +26,13 @@ Then I turned back to Yali. "So –"
 
 Yali caught my wrist and pulled me down on the mat with her. Before I could react, she kissed me sloppily on the lips.
 
-She did it clumsily and kinda smashed my lip against my teeth, but I didn't care. All my rage was forgotten in an instant. It had been so long, so <em>long</em>, since anyone had touched me like this. I pressed back into her, my lips and tongue drinking up the warm wetness of her own, my legs tangling together with hers. For the moment, I forgot everything. I could stay like this forever.
+She did it clumsily and kinda smashed my lip against my teeth, but I didn't care. All my rage was forgotten in an instant. It had been so long, so <em>long</em>, since anyone had touched me like this. Everything from before the Stern God's world felt like a lifetime ago. I pressed back into her, my lips and tongue drinking up the warm wetness of her own, my legs tangling together with hers. For the moment, I forgot everything. I could stay like this forever.
 
 Clinging together, we sank down further onto the mat. I lay back and allowed Yali to climb on top of me, her flesh pressing down heavily on the whole length of my body. She never stopped crying, but she kissed me again and again. I closed my eyes and drifted in bliss, drowning in Yali.
 
 I don't know how long we lay like that. My mind was empty of all thoughts, only pleasure and warmth.
 
-But then, slowly creeping into my awareness, I began to notice that something had changed. Yali's movements had gotten rougher, and she was sort of clumsily pawing at me. Was she trying to be sexy? That… wasn't what I expected. I was definitely enjoying it, but it just wasn't like the Yali I knew. A tiny doubt was growing inside me, whispering that something was very wrong.
+But then, slowly creeping into my awareness, I began to notice that something had changed. Yali's movements had gotten rougher, and she was sort of clumsily pawing at me… almost sexually? That… wasn't what I expected. I could feel my skin lighting up under her touch, and for a minute, I just lay there, with my heart pounding, hoping she was going to take it further. But it just wasn't like the Yali I knew. A tiny doubt was growing inside me, whispering that something was very wrong.
 
 Reluctantly, I pulled my lips away from her. "Yali, what –"
 
@@ -40,11 +40,11 @@ That only made Yali cry harder. Before I could finish talking, she pressed me do
 
 But now that I had started, I wasn't going to stop. I wrestled her head away from me so that I could talk. "Yali, I don't understand! I mean, don't get me wrong, this is fuckin' hot, but, I thought, you always said –"
 
-Yali struggled and tried to kiss me again, but I kept holding on. Once it sank in that I wasn't going to let her go without a response, she stiffened. Her face scrunched up again, sobbing uncontrollably. Her mouth moved awkwardly, trying to form words. "I – I – I don't want to die!" she blubbered. "I don't want to die before I ever have sex consensually!"
+Yali struggled and tried to kiss me again, but I kept holding on. Once it sank in that I wasn't going to let her go without an answer, she stiffened. Her face scrunched up again, sobbing uncontrollably. Her mouth moved awkwardly, trying to form words. "I – I – I don't want to die!" she blubbered. "I don't want to die before I ever have sex consensually!"
 
 "I don't understand, you always said we're not going to die, what –"
 
-"Justicar is going to kill us!" she blurted loudly, the words crashing at my ears.
+"Justicar is going to kill us!" she blurted loudly, the words crashing at my ears. "She's going to come for you and then I'll try to protect you and then she'll kill us both –"
 
 "Did you See that?!!"
 
@@ -132,7 +132,7 @@ So Yali was the one I was talking to… Now that I thought about it, what should
 
 "I believe you," she said. "Can you give me more details? How does the Waiting God kill you each year? How did it start? And you said it destroyed your temple, how did that happen?"
 
-I couldn't believe it. I was actually going to do this. I was actually talking to her. I was the Blood God, and I was <em>talking</em> to her! A peal of laughter burst from me, a sudden release of a tension deep inside. I doubled over laughing, laughing until I cried, straining the muscles in my sides and barely holding myself up. I gasped out, "I thought I could never live with me because I was trying to kill you! And <em>I</em> thought I could never live with <em>me</em> because I kept stopping me from doing anything against you! But <em>you weren't you all along!!</em> Ha ha ha ha hahahaha haha – urk –"
+I couldn't believe it. I was actually going to do this. I was actually talking to her. I was the Blood God, and I was <em>talking</em> to her! A peal of laughter burst from me, a sudden release of a tension deep inside. I doubled over laughing, laughing until I cried, straining the muscles in my sides and barely holding myself up. I gasped out, "I thought I could never live with me because I was trying to kill you! And <em>I</em> thought I could never live with <em>me</em> because I kept stopping me from doing anything to you! But <em>you weren't you all along!!</em> Ha ha ha ha hahahaha haha – urk –"
 
 "Steady there. Breathe." Yali tried to hold me up. I took a minute to get myself under control, tears of laughter still leaking from my eyes. "Can you, can you, say that again, but, but, but –"
 
