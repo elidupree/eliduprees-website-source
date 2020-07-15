@@ -9,12 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 10",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "blurb_image":"/media/ravelling-wrath/sketches/ch10.jpg?rr",
-  "authors_notes":'''
-
-
-  ''',
   "head":head,
   "chapter_title": "The First Rule",
   "content_warnings":'''<p>Rape apologism; discussion of addiction; details of abusive "troubled teen" schools, and apologism for them; discussion of police brutality.</p>''',
