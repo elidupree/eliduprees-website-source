@@ -26,7 +26,7 @@ I was crushed between iron walls. Chains locked themselves around my bones and j
 
 I held on tight, struggling to keep my original shape.
 
-<em>Wrong</em>, came the overwhelming force of the god. Every part of me that didn't fit the pattern was <em>wrong</em>. If it couldn't be squeezed into place, I should rip it off myself.
+<em>Wrong</em>, came the overwhelming force of the god. Every part of me that didn't conform to the pattern was <em>wrong</em>. If it would not fit easily, then I should force it into place. And if it couldn't be squeezed into place, then I should rip it off myself.
 
 I twisted and fought, trying to get out. But when I pulled my arm against the chains, it burned with pain and rejection. <em>This arm is betraying me. It is not a true part of me. I should rip it off.</em>
 
@@ -194,7 +194,7 @@ I looked to the left. I looked to the right. Left was backwards along the path. 
 
 It was just another blank hallway. A hallway with a trap you couldn't see, with no choice but to walk in. I stepped into the hallway. I took the first few steps on instinct, waiting for something to happen. Nothing happened as I walked. But then I stopped to think, and as soon as I stopped, I was sucked back.
 
-Was I not allowed to stop? That would be no surprise. The Stern would think that would be a challenge for Waiting. I tried again, walking in a straight line without stopping. I was sucked back again. I felt like I had gone in the wrong direction. I tried another angle, and it felt the same way. And another. Finally, I stopped even trying to understand it. I kept stumbling along, not even caring where I was putting my feet.
+Was I not allowed to stop? That would be no surprise. That was exactly the kind of challenge the Stern would give to the Waiting. I tried again, walking in a straight line without stopping. I was sucked back again. I felt like I had gone in the wrong direction. I tried another angle, and it felt the same way. And another. Finally, I stopped even trying to understand it. I kept stumbling along, not even caring where I was putting my feet.
 
 Time passed. I hadn't been sent back. My feet fell in weird pattern, stepping left and right at random as I moved forward. I was going on instinct, but it was distorted. Maybe the Stern God was directing my footsteps. My thoughts wandered back a little, wondering what the pattern was, where it would go next –
 
