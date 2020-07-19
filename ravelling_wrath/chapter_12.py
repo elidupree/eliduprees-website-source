@@ -20,9 +20,9 @@ posts = [
 
 <img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr" alt="">
   
-It slammed into place. The pattern. The blazing, uncompromising pattern of the Stern.
+It slammed into place. The pattern. The bright, uncompromising pattern of the Stern.
 
-I was crushed between iron walls. Chains locked themselves around my bones and jerked me into place, forcing my body to immobility. Calipers poked at me from every side, taking measurements I didn't know could be taken. Bars slid and rotated into position, clamping me into a different shape, like I was a sack of clay being packed into a mold.
+I was crushed between iron walls. Chains locked themselves around my bones and jerked me into place, forcing my body into immobility. Calipers closed over me from every side, measuring the boundaries of my soul, diagnosing weaknesses in places I could never have even understood how to measure. Bars slid and rotated into position, clamping me into a different shape, packing me like a sack of clay into a mold.
 
 I held on tight, struggling to keep my original shape.
 
@@ -34,7 +34,7 @@ I twisted and fought, trying to get out. But when I pulled my arm against the ch
 
 And then, when I had been burned and carved, I was peeled from the frame and set down to cool, left in a mangled form that was sacred to no one. Little more could be expected, for a first pass on a soul so resistant to purification.
 
-The presence receded away, leaving me wobbling in a more physical space, trying to pull my mind back together.
+The presence receded, leaving me wobbling in a more physical space, trying to pull my mind back together.
 
 The Stern God's world awaited me.
 
@@ -50,7 +50,7 @@ And even if I found her, what good would it do? She would just be taken away fro
 
 That…
 
-Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Being mad that I hadn't killed Yali, I guess? That didn't quite fit either. The Blood God was the only reason I would have thoughts that weren't mine, but these thoughts had a completely different feeling. I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
+Did that… make any sense? I tried to shake my head clear. Was it the Blood God? Right, I was supposed to watch out for the Blood God "trying something" in this layer… it was supposed to be mad that I hadn't killed Yali… but these thoughts had a completely different feeling. But if they weren't <em>my</em> thoughts, the Blood God was the only other option… I tried to listen for the Blood God's will, the way I had learned in the last layer. But there was only gloom. Emptiness. A hole inside of me.
 
 I ought to get up, I thought. My back was killing me. I <em>really</em> ought to get up. But somehow, it just didn't happen. I couldn't summon up the motivation to move.
 
@@ -80,11 +80,11 @@ I looked down at my old clothing, sitting limply in a heap, looking tiny in the 
 
 Where had that thought come from? I didn't remember having a problem with missing the obvious. Ugh, I couldn't stand this place.
 
-I bent over to grab my phone from my old clothes. Once I was holding it, I realized that my uniform had no pockets. I felt stupid. I tried to manifest a pocket onto the uniform, but only ran up against the coldness of the Stern God's will. So I carried to the phone in my hand.
+I bent over to grab my phone from my old clothes. Once I was holding it, I realized that my uniform had no pockets. I felt stupid. I tried to manifest a pocket onto the uniform, but only ran up against the coldness of the Stern God's will. So I carried the phone in my hand.
 
 I approached the statues at the room's exit. They blocked me dismissively. <em>That is not to come with you,</em> they seemed to be saying.
 
-I didn't want to leave my phone behind. It was the last real object I still had with me. Even before I changed into the uniform, all my clothes had been replaced with manifested versions long ago. But I just wanted to get this over with. It was too much work to argue. Feeling empty, I set my phone down with the rest of my things and stepped away from it.
+I didn't want to leave my phone behind. It was the last real object I still had with me. Even before I had changed into the uniform, all my clothes had been replaced with manifested versions long ago. But I just wanted to get this over with. Feeling empty, I set my phone down with the rest of my things and stepped away from it.
 
 I presented myself before the statues again. They seemed to acknowledge my presence. An iron demand radiated from them. It had no words, but I could feel it in my head, my heart, my bones. It felt like this: <em>Bow down.</em>
 
@@ -126,7 +126,7 @@ What was the point of trying? I sank all the way down to the floor, lying face d
 
 There was that word again – the Blood God's word, if you could call it a word, for the Farseer. So the Blood God <em>was</em> still inside me, if only barely. Despondently, I held the word in my mind. It felt clearer now. I could feel that it was actually two separate ideas joined together. The first one was obvious. It meant the Waiting God. I could tell because the "word" had the same feeling as what I'd felt when the Waiting God was pulling me into the Otherworld. But the second…
 
-"Lask… ueh," I mumbled into the rock. It didn't sound anything like it sounded in my head, but it was the best I could do. Was it the word for a Raveller? If the Farseer was <em>Waiting God laskueh</em>… I tried thinking of myself as <em>Blood God laskueh</em>, but from the part of me that was the Blood God, I felt a surge of frustration, distressedly rejecting that idea. I checked the others. Justicar was <em>Stern God laskueh</em>, but Morrow wasn't <em>Seeking God laskueh</em> and Alchemist wasn't <em>Broken God laskueh</em> – they just weren't.
+"Lask… ueh," I mumbled into the rock. It didn't sound anything like it sounded in my head, but it was the best I could do. Was it the word for a Raveller? If the Farseer was <em>Waiting God laskueh</em>… I tried thinking of myself as <em>Blood God laskueh</em>, but from the part of me that was the Blood God, I felt a surge of frustration, distress at the idea that I would think of myself that way. I checked the others. Justicar was <em>Stern God laskueh</em>, but Morrow wasn't <em>Seeking God laskueh</em> and Alchemist wasn't <em>Broken God laskueh</em> – they just weren't.
 
 Thinking about the other Ravellers brought the things I had to do back into my mind. Crying into the floor wasn't getting me anywhere. If I wanted to get to any of them, I would have to get past this corridor.
 
@@ -134,11 +134,11 @@ With a tremendous effort, I hauled myself up to my hands and knees again.
 
 <bigbreak>
 
-By the time I reached the first intersection, I had already fallen to pieces. Not physically. But as good as physically. I had been made to stand stiff and still for hours at a time waiting to be let through. I had been made to wash pieces of dirty cloth by hand and hang it up to dry, then do it all over again because I'd missed a spot. I had been made to repeat long statements, saying that I was unimportant, that I would do what was asked of me, that I would accept it when life did not give me everything I wanted. And every time I got impatient and said anything beyond what was prescribed – or even when I just yanked out the damp cloth with irritation – they made me redo the process all the way from the beginning.
+By the time I reached the first intersection, I had already fallen to pieces. Not physically, but as good as physically. I had been made to stand stiff and still for hours at a time waiting to be let through. I had been made to wash pieces of dirty cloth by hand and hang it up to dry, then do it all over again because I'd missed a spot. I had been made to repeat long statements, saying that I was unimportant, that I would do what was asked of me, that I would accept it when life did not give me everything I wanted. And every time I got impatient and said anything beyond what was prescribed – or even when I just yanked out the damp cloth with irritation – they made me redo the process all the way from the beginning.
 
 I don't know how I ever made it through. It just happened. My body stood straight-backed at the intersection, carrying the tatters of myself that I had dragged through the grind.
 
-At the intersection, there was a pedestal with a map. Not a cool, magic map like the one from the Endless Maze. Just a diagram with bold straight lines defining the routes each Raveller must take, each marked with the symbol of their god. It seemed that I was standing on an intersection between the Blood Child's Path and the Alchemist's Path. Each path wove back and forth along the grid, crossing over the others. The four paths eventually met at the center, probably the location of the portal into the next layer. Hmph. You'd get there much faster if you just zigzagged straight towards the center, switching between the paths, rather than following your own path the whole way back and forth across the whole grid.
+At the intersection, there was a pedestal with a map. Not a cool, magic map like the one from the Endless Maze. Just a diagram with bold straight lines defining the routes each Raveller must take, each marked with the symbol of their god. It seemed that I was standing on an intersection between the Blood Child's Path and the Alchemist's Path. Each path wove back and forth along the grid, crossing over the others. The four paths eventually met at the center, probably the location of the portal into the next layer. You'd get there much faster if you just zigzagged straight towards the center, switching between the paths, rather than following your own path the whole way back and forth across the whole grid.
 
 Wait. <em>Four</em> paths…?
 
@@ -192,7 +192,7 @@ It was the Farseer's Path.
 
 I looked to the left. I looked to the right. Left was backwards along the path. Backwards was the way I needed to go, I remembered saying. I dragged my feet that way.
 
-It was just another blank hallway. A hallway with a trap you couldn't see, with no choice but to walk in. I stepped into the hallway. I took the first few steps on instinct, waiting for something to happen. Nothing happened as I walked. But as soon as I stopped moving, I was sucked back to the beginning of the hallway.
+It was just another blank hallway. A hallway with a trap you couldn't see, with no choice but to walk in. I stepped into the hallway. I took the first few steps on instinct, waiting for something to happen. Nothing happened as I walked. But then I stopped to think, and as soon as I stopped, I was sucked back.
 
 Was I not allowed to stop? That would be no surprise. The Stern would think that would be a challenge for Waiting. I tried again, walking in a straight line without stopping. I was sucked back again. I felt like I had gone in the wrong direction. I tried another angle, and it felt the same way. And another. Finally, I stopped even trying to understand it. I kept stumbling along, not even caring where I was putting my feet.
 
@@ -200,7 +200,7 @@ Time passed. I hadn't been sent back. My feet fell in weird pattern, stepping le
 
 I was back at the beginning again.
 
-<em>I didn't even stop,</em> I complained dully. But I was used to it by now. I just had to do what the Stern God wanted. I just had to <em>not</em> do… what I had just done that messed it up. I had…
+<em>I didn't even stop,</em> I complained dully. But I was used to it by now. I just had to do what the Stern God wanted. I just had to <em>not</em> do… whatever I had just done that messed it up. I had…
 
 I had thought about it.
 
