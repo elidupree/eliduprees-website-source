@@ -24,7 +24,7 @@ Then her scream came crashing through my mind. Suddenly, my blood was pounding t
 
 My muscles pulled in all directions at once. I crashed to the floor.
 
-It was an old, familiar feeling, my body tumbling down, getting bruises on my arms and smacking my jaw into the ground. It wrenched out a memory from deep inside me. A memory of me rolling around in the dirt, just being Rinn. A simpler time, long before I had to kill and be killed. What had happened to me?! How had I turned into a monster! No! Why did I have to think about this <em>now</em>?! Why did I have to fall apart right at the moment of my victory?! She was dying, I had to finish her off! No! I had to get away, I couldn't –
+It was an old, familiar feeling, my body tumbling down, getting bruises on my arms and smacking my jaw into the ground. It wrenched out a memory from deep inside me. A memory of me rolling around in the dirt, just being Rinn. A simpler time, long before I had to kill and be killed. What had happened to me?! How had I turned into a monster! No! Why did I have to think about this <em>now</em>?! Why did I have to fall apart right at the moment of my success?! She was dying, I had to finish her off! No! I had to get away, I couldn't –
 
 Face down on the floor, I clawed at the stones, desperately dragging myself away from her. If I got close, if I saw where she was, I would do it again, I would draw my blades, I could feel them in my hands, I could feel myself shredding her body, it would be so right, it wasn't enough, I had to stay away, stay away from her, no matter what.
 
@@ -102,17 +102,21 @@ Yali held on tight. "Rinn, <em>no</em>. You're not thinking straight –"
 
 Panic flooded through me. I felt like I'd been sleeping while my house was on fire. How could I just be sitting around right now?! "I HAVE TO GO!" I screamed. "I CAN'T BE NEAR YOU! WHAT IF IT HAPPENS AGAIN!?"
 
-Yali held me down. "I'll be using this Seeing regularly. If anything is going to happen, I'll know. I can take you with me all the way to the portal –"
+Yali held me down. "I'll be using the Seeing regularly. If anything is going to happen, I'll know. I can take you with me all the way to the portal –"
 
-"But it's not perfect! And you can't use it on the Farseer's Path, that'll be hours at a time that you can't use it! What if it happens in one of the futures you didn't check! What if – I don't want, I don't want, I'm scared –"
+"But it's not perfect! And you can't use it on the Farseer's Path, that'll be hours at a time that you can't use it! What if it happens in one of the futures you didn't check –"
+
+"That's – that's not –" Yali began. But I could tell she didn't have an answer ready. And that made me even more terrified than before.
+
+"You have to let me go!" I yelled over her. "What if – I don't want, I don't want, I'm scared –"
 
 "I'm scared too," said Alchemist nervously. "Yali…"
 
-Yali was silent for a time.
+"Stop," said Yali forcefully. "I need to think about this, okay?"
 
-"I should have known," she said darkly. "You're right, of course. It's only a tiny chance, but it's not worth risking everything for that. I should have known it wouldn't work to be close to you."
+Yali thought about it. As she thought, her expression got darker and darker. When she finally spoke, it was stiff and cheerless. "I should have known," she said. "You're right. There's only a tiny chance that something would happen without me catching it, but it's not worth risking everything for that. I should have known it wouldn't work to try to be close to you."
 
-"You what…?"
+"You what…? You… did you let me stab you so you could be <em>close</em> to me?"
 
 Yali stared at the pedestal with the map, ignoring me. "What we'll do, what we <em>should</em> do, is have you go to the next layer as soon as you can. The next layer will be better. The Blood God might still try something, but at least it won't be this. For some reason, when you're under the Stern God's influence, it's not… not good…"
 
@@ -262,7 +266,7 @@ It wasn't long before my anger dulled again. I settled into a routine – not a 
 
 The Paths were nothing I hadn't seen before. It only took about half of me to focus on the Stern God's grind. The other half was free to wander, to bend back and linger over what I had just done.
 
-I saw my blade sliding into her flesh. I saw my wound erased as if I had never even managed to touch her. I heard her voice, purring in my ears, stirring my feelings into something I couldn't understand, something I couldn't handle understanding.
+I saw my blade sliding into her flesh. I saw my deathblow erased as if I had never even managed to touch her. I heard her voice, purring in my ears, stirring my feelings into something I couldn't understand, something I couldn't handle understanding.
 
 How…? How…? How…?
 
@@ -276,7 +280,7 @@ Hours passed. I turned from the Imminent's Path to the Alchemist's, and then lat
 
 And had stabbed her…
 
-I swallowed. I swallowed again. I felt sick and confused. But why should I feel confused? It was all obvious. What I had done… It was so wrong, so obviously, sickeningly wrong. How could I be confused about that? How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!! I had tried to fucking murder somebody!!! <em>My own girlfriend!!</em> I reared back to punch the nearest wall, and only my memory of the pain held me back. I tore at my hair, my head spinning, guilt gnawing at my stomach again. I was the WORST person in HISTORY! I stomped along the path harder and harder, hoping the pain that shockwaved up through my legs would be enough to make me suffer for what I'd done. I didn't deserve Yali. I didn't deserve Alchemist. I didn't deserve for anyone to care about me. I should suffer.
+I swallowed. I swallowed again. I felt sick and confused. But why should I feel confused? It was all obvious. What I had done… It was so wrong, so obviously, sickeningly wrong. How could I be confused about that? How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!! I had tried to fucking murder somebody!!! <em>My own girlfriend!!</em> I reared back to punch the nearest wall, and only my memory of the pain held me back. I tore at my hair, my head spinning, guilt gnawing at my stomach again. I was the WORST person in HISTORY! I stomped along the path harder and harder, hoping the pain that ricocheted up through my legs would be enough to make me suffer for what I'd done. I didn't deserve Yali. I didn't deserve Alchemist. I didn't deserve for anyone to care about me. I should suffer.
 
 <em>Suffer.</em>
 
@@ -300,13 +304,13 @@ My lie weighed heavily in my chest. It wasn't just against the Stern God's rules
 
 But every time I reached out to the extremes, the next set of statues was there to force me back. They interrupted my thoughts, forcing me to say that I was only <em>somewhat</em> flawed, that my struggles were only a small <em>part</em> of the world. In my head, I denied it. But it somehow wormed its way into my mind, making me doubt myself. Maybe it was right. Maybe my thoughts were too extreme. Maybe Yali was right and things would be okay. Maybe I didn't have to kill the Farseer completely…
 
-The Stern God had no right to make me think this way! I could feel its will, I could feel what it wanted from me. It saw how I was tearing myself apart without it, and so it stepped in, pushing me to cut down on my own rage until I could live with myself. And the worst part was, it was working. I could feel the Stern God's message holding back the pain, saving me moment-after-moment from exploding and smashing my body against the walls. But I was only held back. I could feel myself stewing inside, waiting for the moment when I wouldn't be held back, when I would tear everything apart again.
+The Stern God had no right to make me think this way! I could feel its will, I could feel what it wanted from me. It saw how I was tearing myself apart without it, and so it stepped in, pushing me to cut down my own rage until I could live with myself. And the worst part was, it was working. I could feel the Stern God's message holding back the pain, saving me moment-after-moment from exploding and smashing my body against the walls. But I was only being held back. I could feel myself stewing inside, waiting for the moment when I wouldn't be held back, when I would tear everything apart again.
 
 By the end, I was beaten down. By the time I looked up and saw the next intersection, the intersection at the end of this segment of the Blood Child's path, I barely had the energy to think, to do anything but mechanically follow the Stern God's demands.
 
 The next place I would walk, the last place I needed to walk… it was the Alchemist's Path. I stepped up to the mass of jumbled statues blocking the way. All I would have to do was order them to move, like before. But when I thought of doing it, it just felt like too much effort to even think about. I turned and leaned my back to a wall, then sank down to the floor, fatigue crowding out all my thoughts.
 
-I don't know how long I sat there. Fragments of thought floated through my head, dreamlike images I couldn't explain. My body drowning in the void, sweltering flesh around me, Yali's flesh, clinging on, leaning forward to kiss her, she wasn't there, she was laughing and pointing at me, the Watchful Eye on my chest, a lance through my chest, dying, living again, running for fun through the grass, the grass taken away, falling, a tiny prison, buried in the earth, dying, living again, dying, living again.
+I don't know how long I sat there. Fragments of thought floated through my head, dreamlike images I couldn't explain. My body drowning in the void, sweltering flesh around me, Yali's flesh, clinging on, leaning into her, she wasn't there, she was laughing and pointing at me, the Watchful Eye on my chest, a lance through my chest, dying, living again, running for joy through the grass, the grass taken away, falling, a tiny prison, buried in the concrete, dying, living again, dying, living again.
 
 My nameless thoughts were broken by a sound, the hard clack-clack-clack of someone else's uniform shoes on the floor. I couldn't muster the energy to lift my eyes and see who it was. But the footsteps came closer and closer. I finally convinced myself to raise my head.
 

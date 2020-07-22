@@ -42,7 +42,7 @@ My eyes followed the point of Justicar's sword hovering in front of me.
 
 I had nothing to say to that. She was right. I was no better than a murderer.
 
-"But I understand your meaning. To that, you must consider the position I am in. If need be, the Stern God will grant me weapons capable of damaging the fabric of the Otherworld itself. But it has always been my duty to minimize the harm that is done. That is why I must take the chance I have been given. I must finish this while you are too weak to summon soulfire."
+"But I understand your meaning. To that, you must consider the position I am in. If need be, the Stern God will grant me weapons capable of damaging the fabric of the Otherworld itself. But it has always been my duty to minimize the harm that is done. That is why I must take the opportunity I have been given. I must finish this while you are too weak to summon soulfire."
 
 "Soulfire? What's that?"
 
@@ -72,7 +72,7 @@ I had no time to think. Death was waiting just an arm's length away. Desperately
 
 The two blades met with a sickening thud. I felt mine crack in my hand, terrible fractures spreading throughout its body from the force. I leaped backwards, trying to put even a moment's space between me and the onrushing death.
 
-Justicar stepped towards me, unhesitating, inevitable. I tried to stumble away, breathing hard, my thoughts blank with terror. How could I ever stop her?! She seemed invincible. I reached out wildly in my mind for an answer, grabbing onto anything I could think of.
+The Justicar stepped towards me, unhesitating, inevitable. I tried to stumble away, breathing hard, my thoughts blank with terror. How could I ever stop her?! She seemed invincible. I reached out wildly in my mind for an answer, grabbing onto anything I could think of.
 
 A thin shred of rage answered me, fragile but blinding. "I don't deserve this!" I screamed, trying to make it real. <em>Justicar</em>. How could she do this to me?! Just days ago, we had spoken to each other! She had told me about her life, and I had told her about mine! And now she would toss that away like so much trash?! If only I could reach her! If only –
 
@@ -80,9 +80,9 @@ The words sprang to my lips. "Am I worthy of my blood?" I demanded.
 
 "Are your victims worthy of theirs?"
 
-The truth burned inside me. If she was trying to turn my question around, that meant she was still carrying some guilt about what she was doing. And that meant I had a hook in her. "Answer me, yes or no!" I yelled.
+The truth burned inside me. If she was trying to turn my question around, that meant her heart still held some guilt about what she was doing. And that meant I had a hook in her. "Answer me, yes or no!" I yelled.
 
-"Do not imagine that I enjoy killing! I would like nothing more than to say that no one has to die! But what of the Farseer? What of the dozens or hundreds who will die if the Blood God is allowed to rejuvenate, as its rage infects our city once again?"
+"Do not imagine that I enjoy killing! I would like nothing more than to say that no one has to die! But what of the Farseer? What of the hundreds or thousands who will die if the Blood God is allowed to rejuvenate, as its rage infects our city once again?"
 
 Justicar leapt at me again, her sword swinging in a powerful arc. But when she had paused to argue her case, she had given me just enough time to get my bearings. With that scrap of rage had come a fragment of my old power. I had the <em>right</em> to protect my life at all costs, to make her burn and bleed if she would not back down. And now, I saw my chance.
 
@@ -100,13 +100,13 @@ I stumbled away, uncomprehending. "<em>How?</em>" I gasped. How had my only weap
 
 "No fair," I said, my voice breaking.
 
-"The battle between good and evil should not be <em>fair</em>," Justicar declared. "The Stern God understands this. And that is why the Stern has granted me the power to do what must be done. None of your flailing has had the slightest chance of changing this. Do you think a more powerful weapon would have saved you? The Blood God does not even comprehend what it is fighting against. A Justicar is not simply a human who will fold over when struck with a blade. Even if you find a way to pierce my defenses, even if you <em>tear my heart from my chest</em>, the will of the Stern God will always carry me forward."
+"The battle between good and evil should not be <em>fair</em>," Justicar declared. "The Stern God understands this. And that is why the Stern has granted me the power to do what must be done. None of your grasping has had the slightest chance to change this. Do you imagine that you have been cheated of a victory, only for want of a more powerful weapon? The Blood God does not even comprehend what it is fighting against. A Justicar is not simply a human who will fold over when struck with a blade. Even if you find a way to pierce my defenses, even if you <em>tear my heart from my chest</em>, the will of the Stern God will always carry me forward."
 
 She advanced towards me.
 
 I ran.
 
-Before I got five steps, I crashed headfirst into a wall of steel. Desperately, I pressed my palm to the cold metal, trying to unmanifest it by force. It flickered for a moment, not letting me past, but letting me see behind it. And behind it… was a <em>second</em> wall, which Justicar had placed there while I was struggling with the first.
+Before I got five steps, I crashed headfirst into a wall of steel. Desperately, I pressed my palm to the cold metal, trying to unmanifest it by force. It flickered for a moment – not enough for me to pass through, but enough for me see behind it. And behind it… was a <em>second</em> wall, which Justicar had placed there while I was struggling with the first.
 
 Hopelessly, I turned around again.
 
