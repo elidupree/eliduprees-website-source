@@ -16,6 +16,7 @@ posts = [
 
   ''',
   "head":head,  "chapter_title": "Emptiness",
+  "content_warnings":'''<p>Detailed narration of an experience of depression, including anhedonia, dissociation, and negative self-talk.</p>''',
   "contents": '''
 
 <img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr" alt="">
