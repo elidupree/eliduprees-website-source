@@ -102,17 +102,21 @@ Yali held on tight. "Rinn, <em>no</em>. You're not thinking straight –"
 
 Panic flooded through me. I felt like I'd been sleeping while my house was on fire. How could I just be sitting around right now?! "I HAVE TO GO!" I screamed. "I CAN'T BE NEAR YOU! WHAT IF IT HAPPENS AGAIN!?"
 
-Yali held me down. "I'll be using this Seeing regularly. If anything is going to happen, I'll know. I can take you with me all the way to the portal –"
+Yali held me down. "I'll be using the Seeing regularly. If anything is going to happen, I'll know. I can take you with me all the way to the portal –"
 
-"But it's not perfect! And you can't use it on the Farseer's Path, that'll be hours at a time that you can't use it! What if it happens in one of the futures you didn't check! What if – I don't want, I don't want, I'm scared –"
+"But it's not perfect! And you can't use it on the Farseer's Path, that'll be hours at a time that you can't use it! What if it happens in one of the futures you didn't check –"
+
+"That's – that's not –" Yali began. But I could tell she didn't have an answer ready. And that made me even more terrified than before.
+
+"You have to let me go!" I yelled over her. "What if – I don't want, I don't want, I'm scared –"
 
 "I'm scared too," said Alchemist nervously. "Yali…"
 
-Yali was silent for a time.
+"Stop," said Yali forcefully. "I need to think about this, okay?"
 
-"I should have known," she said darkly. "You're right, of course. It's only a tiny chance, but it's not worth risking everything for that. I should have known it wouldn't work to be close to you."
+Yali thought about it. As she thought, her expression got darker and darker. When she finally spoke, it was stiff and cheerless. "I should have known," she said. "You're right. There's only a tiny chance that something would happen without me catching it, but it's not worth risking everything for that. I should have known it wouldn't work to try to be close to you."
 
-"You what…?"
+"You what…? You… did you let me stab you so you could be <em>close</em> to me?"
 
 Yali stared at the pedestal with the map, ignoring me. "What we'll do, what we <em>should</em> do, is have you go to the next layer as soon as you can. The next layer will be better. The Blood God might still try something, but at least it won't be this. For some reason, when you're under the Stern God's influence, it's not… not good…"
 
