@@ -85,6 +85,7 @@ posts = {
   "blog": blog_posts,
   "stories": stories,
   "": uncategorized_posts,
+  "ravelling-wrath": ravelling_wrath.main.extra_posts,
 }
 
 signature = "<p> &ndash; Eli</p>"

@@ -1110,7 +1110,7 @@ def add_list_pages (page_dict, page_list, prefix, title, identifier):
 
 def add_individual_post_pages (page_dict, post_dict):
       category =post_dict ["category"]
-      specific_sidebar_contents = sidebars [category]
+      specific_sidebar_contents = sidebars.get(category, sidebars[""])
       if category == "stories":
         specific_sidebar_contents = '''<a class="sidebar_standalone_link" href="'''+post_permalink(post_dict)+'''/discussion">Author's notes and comments for '''+post_dict["title"]+'''</a>'''+ specific_sidebar_contents
       
