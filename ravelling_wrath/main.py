@@ -164,3 +164,32 @@ Content warnings for Ravelling Wrath as a whole:
 <bigbreak>''' + posts [0] ["contents"])
 
 
+# note: partly duplicated language from the chapter 12 content warnings
+extra_posts = [
+{
+  "title":"Summary of Ravelling Wrath, chapter 12",
+  "title_url_override": "12-summary",
+  "auto_paragraphs": True,
+  "contents":'''
+
+The majority of <a href="/ravelling-wrath/12">Ravelling Wrath, chapter 12</a> is an explicit, detailed narration of an experience of depression, including anhedonia, dissociation, negative self-talk, and being coerced into obeying authority. From my personal experience with depression, I know that it's sometimes valuable to avoid exposure to content like this. Thus, I've prepared this summary, so that you can read the summary instead of the chapter if needed.
+
+Skipping chapter 12 and reading this summary instead is an <strong>officially supported</strong> way of reading Ravelling Wrath.
+
+Chapter 12 isn't the only chapter which contains details of depression, but it's the most severe one. I don't have summaries for the others, because they're less self-contained (they have occasional details of depression mixed in with other important story details that are harder to summarize).
+
+<h2>The summary</h2>
+
+As soon as Rinn enters the Stern God's layer, Rinn is severely depressed, and feels like Yali will be unreachable forever. It's not clear whether the Blood God is causing this. When Rinn listens for the Blood God, it doesn't have the same angry thoughts as usual, only gloom. Rinn doesn't want to get up, but soon, the Stern God also starts influencing Rinn's mind, which makes Rinn feel a sense of duty to get up and try to find Yali.
+
+The Stern God's layer is a grid of white marble corridors. Each corridor is made for a specific Raveller, and has challenges for them. During the chapter, Rinn realizes that each path forces the intended walker to sacrifice the thing most important to them. The Blood Child's Path requires the walker to show deference to the guardian statues, thus sacrificing their pride. The Imminent's Path requires the walker to ignore distracting sensations, thus sacrificing their curiosity. The Alchemist's Path requires the walker to speak decisively, thus sacrificing their indecisiveness. Finally, the Farseer's Path requires the walker to walk along it without thinking about what will come next.
+
+Rinn wouldn't normally obey the Stern God's rules. But, because of the depression and the Stern God's influence, Rinn obeys. As the chapter goes on, Rinn gets less and less alert, and starts thinking about trying to find "the Farseer" instead of "Yali".
+
+When Rinn finally gets to Yali, Rinn hardly has any feelings about Yali at all. Alchemist is also there; Yali and Alchemist have been preparing for what's about to happen. As the chapter ends, Rinn "remembers" what to do, summons a Blood Blade, and stabs Yali with it.
+
+''',
+},
+
+]
+
