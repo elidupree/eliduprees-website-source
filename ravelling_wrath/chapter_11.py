@@ -9,12 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 11",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "blurb_image":"/media/ravelling-wrath/sketches/ch11-1.jpg?rr",
-  "authors_notes":'''
-
-
-  ''',
   "head":head,  "chapter_title": "Facing the Tension",
   "contents": '''
 
@@ -178,7 +173,7 @@ The weirdest thing was the world around us.
 
 "What the – I mean, what do you mean by that?"
 
-"One time, I, was lying down, and I saw, a shape? On the, rocks, there was a, shadow, the light between the different rocks. It made a shape. And then I made the shape, with the stones. And then, it gave me another shape… There was a sequence…"
+"One time, I, was lying down, and I saw, a shape? On the, rocks, there was a, shadow, the light between the different rocks. It made a shape. And then I made the shape, with the, stones. And then, it gave me another shape… There was a sequence…"
 
 "Did it lead to something?"
 

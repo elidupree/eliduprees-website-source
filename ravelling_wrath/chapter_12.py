@@ -9,12 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 12",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "blurb_image": "/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr",
-  "authors_notes":'''
-
-
-  ''',
   "head":head,  "chapter_title": "Emptiness",
   "content_warnings":'''<p>Detailed narration of an experience of depression, including anhedonia, dissociation, and negative self-talk.</p>''',
   "contents": '''
