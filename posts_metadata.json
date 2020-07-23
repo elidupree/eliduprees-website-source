@@ -1208,7 +1208,7 @@
   "date_posted": "2020-07-22",
   "deployed": true,
   "id": "211be0cd0d90c59e7f1c3eb5e79bc89",
-  "remembered_contents": "a7d375404d480cfc551a381abc38192b521782083e9ae2c644449129266a3d441754e359e3795cb2c9df8a20ad761c20"
+  "remembered_contents": "bb582f6446cc31543506e57695fd50b69ce744939cfe623560cb64e35c33a1c60175ddb2b5a0b57e085215af388b61de"
  },
  "Ravelling Wrath, chapter 12: Discussion": {
   "date_modified": "2020-07-22",
@@ -1614,7 +1614,9 @@
  "Summary of Ravelling Wrath, chapter 12": {
   "date_modified": "2020-07-22",
   "date_posted": "2020-07-22",
-  "id": "6ee68a564238eb5a760d8dd1c4e9be7"
+  "deployed": true,
+  "id": "6ee68a564238eb5a760d8dd1c4e9be7",
+  "remembered_contents": "a6568469f8190043b5af63646833f486e427050f66fecf5592d50eb81cad6dd13e6981cc76c2125edbb2fe6f1b0272d4"
  },
  "Supervillains are cool": {
   "date_modified": "2016-11-02",
