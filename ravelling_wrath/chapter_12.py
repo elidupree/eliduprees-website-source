@@ -11,7 +11,11 @@ posts = [
   "auto_paragraphs": True,
   "blurb_image": "/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr",
   "head":head,  "chapter_title": "Emptiness",
-  "content_warnings":'''<p>Detailed narration of an experience of depression, including anhedonia, dissociation, and negative self-talk.</p>''',
+  
+  # note: partly duplicated language from the summary page, defined in /ravelling-wrath/main.py
+  "content_warnings":'''<p>The majority of this chapter is an explicit, detailed narration of an experience of depression, including anhedonia, dissociation, negative self-talk, and being coerced into obeying authority. From my personal experience with depression, I know that it's sometimes valuable to avoid exposure to content like this. Thus, I've prepared <a href="/ravelling-wrath/12-summary">a summary of this chapter, with only short factual descriptions of the depressed feelings</a>, so that you can read the summary instead of the chapter if needed. Skipping this chapter and reading the summary instead is an <strong>officially supported</strong> way of reading Ravelling Wrath.</p>
+  
+<p>This isn't the only chapter which contains details of depression, but it's the most severe one. I don't have summaries for the others, because they're less self-contained (they have occasional details of depression mixed in with other important details that are harder to summarize).</p>''',
   "contents": '''
 
 <img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr" alt="">
