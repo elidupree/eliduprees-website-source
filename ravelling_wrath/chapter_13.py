@@ -114,7 +114,7 @@ Yali held me down. "I'll be using the Seeing regularly. If anything is going to 
 
 "Stop," said Yali forcefully. "I need to think about this, okay?"
 
-Yali thought about it. As she thought, her expression got darker and darker. When she finally spoke, it was stiff and cheerless. "I should have known," she said. "You're right. There's only a tiny chance that something would happen without me catching it, but it's not worth risking everything for that. I should have known it wouldn't work to try to be close to you."
+Yali thought about it. As she thought, her expression got darker and darker. When she finally spoke, it was stiff and cheerless. "I should have known," she said. "You're right. There's only a tiny chance that something would happen without me foreseeing it, but it's not worth risking everything for that. I should have known it wouldn't work to try to be close to you."
 
 "You what…? You… did you let me stab you so you could be <em>close</em> to me?"
 
@@ -184,7 +184,7 @@ I melted, my arms going limp and my body slumping down. She was going to do it.
 
 Yali hesitantly pressed her fingers over my heart.
 
-It didn't feel anything like when she'd touched my heart on that first day. It was just an object touching another object. A cold and hot feeling briefly sank into my chest, then it passed. I looked down. The Watchful Eye was on me, a black symbol of an eye with an hourglass inside, drawn right there on my chest.
+It didn't feel anything like when she'd touched my heart on that first day. It was just an object touching another object. A cold and hot feeling briefly sank into my chest, then it passed. I looked down. The Watchful Eye was on me, a small, black symbol, drawn right there on my chest.
 
 "Did it work?" I said. "What's it like?"
 
@@ -306,13 +306,13 @@ But every time I reached out to the extremes, the next set of statues was there 
 
 The Stern God had no right to make me think this way! I could feel its will, I could feel what it wanted from me. It saw how I was tearing myself apart without it, and so it stepped in, pushing me to cut down my own rage until I could live with myself. And the worst part was, it was working. I could feel the Stern God's message holding back the pain, saving me moment-after-moment from exploding and smashing my body against the walls. But I was only being held back. I could feel myself stewing inside, waiting for the moment when I wouldn't be held back, when I would tear everything apart again.
 
-By the end, I was beaten down. By the time I looked up and saw the next intersection, the intersection at the end of this segment of the Blood Child's path, I barely had the energy to think, to do anything but mechanically follow the Stern God's demands.
+By the time I looked up and saw the next intersection, the end of the Blood Child's path, I barely had the energy to think. My mind felt overburdened, crushed under the weight of compromising with the Stern God's demands.
 
 The next place I would walk, the last place I needed to walk… it was the Alchemist's Path. I stepped up to the mass of jumbled statues blocking the way. All I would have to do was order them to move, like before. But when I thought of doing it, it just felt like too much effort to even think about. I turned and leaned my back to a wall, then sank down to the floor, fatigue crowding out all my thoughts.
 
-I don't know how long I sat there. Fragments of thought floated through my head, dreamlike images I couldn't explain. My body drowning in the void, sweltering flesh around me, Yali's flesh, clinging on, leaning into her, she wasn't there, she was laughing and pointing at me, the Watchful Eye on my chest, a lance through my chest, dying, living again, running for joy through the grass, the grass taken away, falling, a tiny prison, buried in the concrete, dying, living again, dying, living again.
+I don't know how long I sat there. Fragments of thought floated through my head, dreamlike images I couldn't explain. My body drowning in the void, sweltering flesh around me, Yali's flesh, clinging onto her, she wasn't there, she was laughing and pointing at me, the Watchful Eye on my chest, a lance through my chest, dying, living again, running for joy through the grass, the grass taken away, falling, a tiny prison, buried in the concrete, dying, living again, dying, living again.
 
-My nameless thoughts were broken by a sound, the hard clack-clack-clack of someone else's uniform shoes on the floor. I couldn't muster the energy to lift my eyes and see who it was. But the footsteps came closer and closer. I finally convinced myself to raise my head.
+My nameless thoughts were broken by a sound, the hard clack-clack-clack of someone else's uniform shoes on the floor. I couldn't muster the energy to lift my eyes and see who it was. But the footsteps came closer and closer. When their shadow fell over me, I finally convinced myself to raise my head.
 
 I almost didn't recognize her at first. She was wearing the same uniform as the rest of us, instead of her usual armor. But she still had the sword at her side. That was a dead giveaway.
 

@@ -66,11 +66,11 @@ A strange relaxation came over me. So this was it. It would all be over soon. Th
 
 It was like my body moved out of its own accord. It flung itself sideways just as the sword swung down. It was so close that the side of the blade bruised my elbow as it passed. Rolling, I staggered to my feet, my muscles screaming from being yanked without a chance to prepare.
 
-I was barely on my feet when the sword came at me again. I leaped to the side, barely fast enough to hear the woosh in my ear as it missed.
+I was barely on my feet when the sword came at me again. I leapt to the side, barely fast enough to hear the woosh in my ear as it missed.
 
 I had no time to think. Death was waiting just an arm's length away. Desperately, I wrenched a Blood Blade out of the air. Even that was a strain. I felt like my blood was far away from me, like I had to pull it from the bottom of a deep well. And the moment the blade was in my hand, Justicar's sword was already whirling towards my eyes. I had to twist my body to block it, both hands shoving my Blood Blade up in its way.
 
-The two blades met with a sickening thud. I felt mine crack in my hand, terrible fractures spreading throughout its body from the force. I leaped backwards, trying to put even a moment's space between me and the onrushing death.
+The two blades met with a sickening thud. I felt mine crack in my hand, terrible fractures spreading throughout its body from the force. I leapt backwards, trying to put even a moment's space between me and the onrushing death.
 
 The Justicar stepped towards me, unhesitating, inevitable. I tried to stumble away, breathing hard, my thoughts blank with terror. How could I ever stop her?! She seemed invincible. I reached out wildly in my mind for an answer, grabbing onto anything I could think of.
 
@@ -86,7 +86,7 @@ The truth burned inside me. If she was trying to turn my question around, that m
 
 Justicar leapt at me again, her sword swinging in a powerful arc. But when she had paused to argue her case, she had given me just enough time to get my bearings. With that scrap of rage had come a fragment of my old power. I had the <em>right</em> to protect my life at all costs, to make her burn and bleed if she would not back down. And now, I saw my chance.
 
-As the sword came down, I allowed one of my Blood Blades to lose its shape and flow over my palm and fingers like a glove. I caught the sword in my hand, my blood closing around the blade and trapping it in place. I knew I'd only have an instant before Justicar would understand and free it again. So in an instant, I rushed forward, focusing all of my will to form a blade in my other hand and aiming it towards her. It was like my vision narrowed to a tiny window. The only thing that mattered was the point of my blade, zooming forward and inwards, ready to stab into the exposed skin of Justicar's face.
+As the sword came down, I allowed one of my Blood Blades to lose its shape and flow over my palm and fingers like a glove. I caught the sword in my hand, my blood closing around the blade and trapping it in place. I knew I'd only have an instant before Justicar would understand my move and free her sword again. So in an instant, I rushed forward, focusing all of my will to form a blade in my other hand and aiming it towards her. It was like my vision narrowed to a tiny window. The only thing that mattered was the point of my blade, zooming forward and inwards, ready to stab into the exposed skin of Justicar's face.
 
 I saw Justicar react, moments too late. My blade landed squarely onto her cheek.
 
@@ -154,7 +154,7 @@ I struggled to hold the potion in my hand. My arms didn't even want to lift up o
 
 Satisfied, Yali stood again. "Now begone. Leave us before I change my mind."
 
-Justicar's sword pulsed with white light. For a moment, I was afraid that she would attack again. But she was only cleaning it, making the blood vanish from its surface. A moment later, she slid it back into its sheath. She stood at the far edge of the intersection, seeming like she was about to leave us. "Just tell me one thing," she said. "I would understand if you only chose to stand against <em>me</em>. The wills of our gods are not always in alignment. But you, every step of the way, have chosen a path that is far astray from the path of the Waiting God. I cannot fault you for standing against <em>my</em> god, but who are you to defy your own?"
+Justicar's sword pulsed with white light. For a moment, I was afraid that she would attack again. But she was only cleaning it, making the blood vanish from its surface. A moment later, she slid it back into its sheath. She stood at the far edge of the intersection, about to leave us. "Just tell me one thing," she said. "I would understand if you only chose to stand against <em>me</em>. The wills of our gods are not always in alignment. But you, every step of the way, have chosen a path that is far astray from the path of the Waiting God. I cannot fault you for standing against <em>my</em> god, but who are you to defy your own?"
 
 Yali stared at Justicar for a long moment. Then she laughed – a long, cold, hollow laugh that rang out like a bell and seemed to shake the very statues around us.
 
@@ -192,7 +192,7 @@ Yali's face turned ashen.
 
 "What about –"
 
-The spike she had been holding earlier was still lying near us, but its energy was already fading. She picked it up and stabbed it into her hand, and it just fizzled into nothingness. "I tried to make Alchemist make a weapon for me. Right after they made the Severing Step. But they couldn't! They won't think of how to hurt people even when they NEED to! If I'd had more time –"
+The spike she had been holding earlier was still lying near us, but its energy was already fading. She picked it up and stabbed it into her own hand, and it just fizzled into nothingness. "I tried to make Alchemist make a real weapon for me. Right after they made the Severing Step. But they couldn't! They won't think of how to hurt people even when they NEED to! If I'd had more time –"
 
 "What's… sev…"
 
@@ -214,7 +214,7 @@ It took me a moment to realize what that implied. "Wait, the Seeing –?"
 
 "I don't know why I didn't see that this was going to happen! I <em>used</em> the Seeing! I specifically looked for danger! I didn't see Justicar attacking you! Why couldn't I find it?!"
 
-"Could the Stern God… uh… mess it up somehow?"
+"Could the Stern God… mess it up somehow?"
 
 "I don't know! It doesn't feel like it! But, but, I <em>don't know!</em> Until I understand why it didn't work, I can't assume that we're safe, ever again! So! First of all, I am <em>not</em> leaving your side again, and I don't care what you have to say about it!"
 
@@ -260,7 +260,7 @@ It kind of didn't even feel like something that had really happened. I mean, I w
 
 "You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…"
 
-Yali sighed. But after a moment, she decided to answer. "It's easier if people don't know that about me."
+Yali frowned. But after a moment, she decided to answer. "It's easier if people don't know that about me."
 
 The thoughts slowly clicked into place in my brain. Yali's mother, who wasn't part of her life anymore… A mother who betrayed her… "Holy shit, is she the one who… Wait, shit, I didn't mean to bring that up, I'm sorry –"
 
@@ -270,13 +270,15 @@ Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>
 
 <bigbreak>
 
-Arinyo Seti is not one of the people who abused me. But she is partially responsible nonetheless.
+<div class="yali-narration">
+
+Arinyo Seti is not one of the people who abused me. But [????? she is partially responsible nonetheless].
 
 I will start at the beginning. My biological father died not long before I was born. Arinyo Seti had never intended to raise me by herself. With her memory and attention issues, she knew that she was not prepared to live alone, much less to raise a child that way. In the home where I lived, trash piled up for weeks before she would clear it. More than once, the city shut off our water because she had forgotten to pay her bills. And even though she always made sure I ate before she did, there were some days when there was no food left in the house. We were not poor, and she had friends who were willing to help, but she rarely asked for help until I reminded her. By the time I was six years old, I was more organized than my own mother.
 
 That was not her fault. That was not when she betrayed me.
 
-I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that made sense to her. And I hoped for her too.
+I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that [????? made sense to] her. And I hoped for her too.
 
 So when she explained to me that I would be given to another family when she was ordained as the high priest, I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
 
@@ -355,6 +357,8 @@ But I was never happy there. For years, I had dedicated my life to a single purp
 So, last year, I asked for permission to live independently, and to attend a regular high school. I don't think it was a normal thing to ask for in my situation. But Szaieto and the other monks had been very impressed by how organized and independent I was. They were sad to see me go, but they arranged for me to live in one of the houses the Stern Temple normally reserves for retirees. It's technically rented from the Stern Temple, but it's paid for out of the trust they set up after my parents – after the Dalners were convicted. So… that's why I live there now. The arrangement is, I have a stipend that lets me take care of my basic needs, and the monastery sends someone to visit me once a week to make sure I'm getting along okay.
 
 I guess there's not much more to tell. School's nice. The teachers at our school are too overworked to care if I'm paying attention, so I don't have to. And I've gotten to meet other kids, like you. I would never have met you in a Stern monastery. School didn't really help with the depression, though. But I'm not depressed <em>now</em>. I actually haven't been depressed since I was chosen as the Farseer. I have a mission again. Every day I fill my mind with my plans for my mission, I don't have time to be depressed.
+
+</div>
 
 <bigbreak>
 
