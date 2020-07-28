@@ -375,7 +375,7 @@ What could I say? What would Rinn Akatura say? I was supposed to say something, 
 
 "I can't believe your only friend left you…" I said hollowly. "Like, officially <em>left</em> you. On a specific day and everything…"
 
-Yali answered matter-of-factly. "It was 100% my own fault. No child her age could have given me what I needed. I practically bullied her until she was a nervous wreck. It was one of the things I saw differently after I learned about abuse… Everything I know about healthy relationships, I learned online, years later. I was the abuser in that friendship, even if –"
+Yali answered matter-of-factly. "It was 100% my own fault. No child Romhisat's age could have given me what I needed. I practically bullied her until she was a nervous wreck. It was one of the things I saw differently after I learned about abuse… Everything I know about healthy relationships, I learned online, years later. I was the abuser in that friendship, even if –"
 
 "…<em>you</em> did that? <em>You</em>…?"
 
@@ -383,9 +383,9 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 It was true… Until now, I had hardly known anything about Yali's life before we met. I had loved her and wanted to know everything about her, but she had never wanted to talk about herself. She had kept it all hidden… she'd even told me to – "Wait…" I said. "When you said I couldn't tell anyone you were the Farseer…"
 
-"<em>She would have wanted me back,</em>" said Yali bitterly. "If the Waiting Temple knew I <em>mattered</em> to the Waiting God, <em>then</em> they would have cared about me. It was one of the first things I used the Seeing for. I saw them take me away to their temples, I saw them give me all kinds of <em>training</em> to make me the best Farseer I could be. I would never accept that from <em>them!</em> Especially since I would never get to see <em>you</em> again until we were facing off in the Otherworld!"
+"<em>She would have wanted me back,</em>" said Yali bitterly. "If the Waiting Temple knew I <em>mattered</em> to the Waiting God, <em>then</em> they would have cared about me. It was one of the first things I used the Seeing for. I saw them take me away to their temples, I saw them give me all kinds of <em>training</em> to make me the best Farseer I could be. But I will never let the Waiting use me as their tool! Especially since I wouldn't have gotten to see <em>you</em> again until we were facing off in the Otherworld!"
 
-"Would they have… forced you?"
+"Would they have… forced you? To do the training?"
 
 "Yes! No, no, not exactly. The Waiting Temple is, is, complicated, the way they do things. But I wouldn't have had a choice."
 
@@ -397,19 +397,17 @@ Yali squinted a little. "You really think so? I, I guess you do hate the temples
 
 A few paces later, Yali suddenly looked relieved. "Justicar has gone through the portal," she announced. "That's at least one less danger while we're still in this layer."
 
-That should have been a relief, but I didn't feel it. My brain was still wandering, thinking about the Waiting Temple.
+That should have been a relief, but I didn't feel it. My brain was still wandering, thinking about the Waiting Temple. "How did your mom get picked to be the high priest if she had a bad memory?" I asked. "Isn't remembering the past really important to the Waiting?"
 
-"How did your mom get picked to be the high priest if she had a bad memory? Isn't remembering the past really important to the Waiting?"
+"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>," Yali said sourly. But then she stopped herself. "But the Dalners did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been able to live with that."
 
-"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>," Yali said sourly. But then she stopped herself. "But the Dalners did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
-
-"I can't believe how much you… how much you… uh…" I struggled to get my thoughts in order. "You, uh, you've really got this all figured out."
+I couldn't believe how levelheaded Yali was, still finding room to piece out which flaws were forgivable. "You –" I began. I struggled to get my thoughts in order. "You, uh, you've really got this all figured out."
 
 "I do that, don't I," she said, not quite sounding happy about it.
 
 <bigbreak>
 
-We met up with Morrow and Alchemist at another intersection, right where we'd planned. They both rushed to take a look at me. Yali stood in the way and shouted at Morrow to stay back.
+We met up with Morrow and Alchemist right where we'd planned. They both rushed across the intersection to take a look at me. Yali stood in the way and shouted at Morrow to stay back.
 
 Then she and Alchemist examined me together. Alchemist cried while they were doing it. For me, it was just tedious. I just had to sit still while they talked some technical soul stuff I didn't understand.
 
@@ -417,7 +415,7 @@ They talked a lot about the residual damage, about how my soul had only been par
 
 Alchemist made me a series of different potions. All of them tasted different from each other, all subtle but unpleasant. I just drank them down as ordered. Eventually, they agreed that it was a success. My soul wasn't quite the same as before, but it was pretty much whole again.
 
-Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of strength and speed. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe if she said it directly, Alchemist might not be willing…
+Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of strength and speed. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe if she said it directly, Alchemist might have too many doubts to go through with it…
 
 Alchemist shied away from making another Severing Step, too.
 
@@ -427,7 +425,7 @@ Alchemist shied away from making another Severing Step, too.
 
 But Alchemist wasn't convinced. They fussed over the idea uncertainly. Yali briefly looked in the future, then dropped the issue, to focus on potions that Alchemist was happier to make.
 
-Once that was done, Alchemist wanted to stay and cuddle with me. And Morrow had a million questions about what had happened. But Yali was impatient to get moving. She all but physically blocked the others away from me, helping me up and making sure I could walk again. And then, we moved. She set a swift pace that I could barely keep up with, in my weakened state.
+Once that was done, Alchemist wanted to stay and cuddle with me. And Morrow had a million questions about what had happened. But Yali was impatient to get moving. She all but physically blocked the others away from me, helping me up and making sure I could walk again. And then, we moved. She set a swift pace that I could barely keep up with, given my weakened state.
 
 As we walked, Yali spoke with an edge of frustration. "This isn't enough. I wanted more protection for you. I wanted to give you your own set of potions. But with whatever is going on with you, you can't assimilate them."
 
@@ -453,7 +451,7 @@ She gave me a tired look. I couldn't tell what it meant. Dully, she explained. "
 
 "Oh."
 
-Moments later, she was alert again, with an edge of agitation. "If only it wasn't happening <em>now</em>, when it matters for your life and death! You'll be defenseless when you get to the next world! And I don't even have a Severing Step to get me there if the worst happens and –"
+Moments later, she was agitated again. "If only it wasn't happening <em>now</em>, when it matters for your life and death! You'll be defenseless when you get to the next world! And I don't even have a Severing Step to get me there if the worst happens and –"
 
 Alchemist made a little noise.
 
@@ -469,7 +467,7 @@ Silence settled over us again. We continued our long, moody walk to the portal.
 
 I lost track of the time going by. Following the Alchemist's Path, it was just a long walk. Nothing I had to pay attention for.
 
-Morrow was having trouble too. Every so often, he stumbled and clutched his head. Alchemist had to soothe him while Yali and I waited for him to be able to keep moving. Sometimes he yelled out in pain and argued with things we couldn't see. It was probably the Stern God. It was probably getting in his head, even worse than it had with me. I was just glad it wasn't in <em>my</em> head anymore. My mind still felt deadened, but at least it wasn't <em>that</em>. And it was a relief that Yali was standing between me and Morrow. His noise was too much for me. I just wanted…
+Morrow was having trouble too. Every so often, he stumbled and clutched his head. Alchemist had to soothe him while Yali and I waited for him to be able to keep moving. Sometimes he yelled out in pain and argued with things we couldn't see. It was probably the Stern God. It was probably getting in his head, like it had with me. I was just glad it wasn't in <em>my</em> head anymore. My mind still felt deadened, but at least it wasn't <em>that</em>. And it was a relief that Yali was standing between me and Morrow. His noise was too much for me. I just wanted…
 
 I didn't know what I wanted. Everything was still a fog. But Yali wanted me to go to the portal with her, so that's what I was doing, I guess.
 
@@ -517,7 +515,7 @@ The ocean crashed over me. A black ocean, heavy and infinite, tossed and dropped
 
 I was naked in the biting storm. The world lashed my skin with lines of pain, but I felt no need to strain against it. Every muscle felt its tension drain away, a deep relaxation like sinking into the softest mattress, like letting my bladder empty itself into the endless water. I was carried away on a tide of warm and cold. My throat was blocked, yet my chest was full of more breath than my lungs could bear.
 
-And then another thing began. A scratching sensation spread throughout me, a deep scratch that dug under every pore of my skin and drilled down into my very bones. A rough massage in the inside of every muscle and tendon. I was long past telling whether it was a scratch of comfort or of pain. It filled me up, just as the roar of water filled my ears. This scratch was everything, everything I could feel or be. Tears poured from me, wrenching at my few remaining scraps of emotion, draining them into the infinite sea. I was full and empty, awash with agony and bliss. I was everything and nothing. I was the clouds and the desert sand.
+Deep in the abyss, another feeling began. A scratching sensation spread throughout me, a deep scratch that dug under every pore of my skin and drilled down into my very bones. A rough massage in the inside of every muscle and tendon. I was long past telling whether it was a scratch of comfort or of pain. It filled me up, just as the roar of water filled my ears. This scratch was everything, everything I could feel or be. Tears poured from me, wrenching at my few remaining scraps of emotion, draining them into the infinite sea. I was full and empty, awash with agony and bliss. I was everything and nothing. I was the clouds and the desert sand.
 
 
 ''',
