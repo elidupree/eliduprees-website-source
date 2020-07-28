@@ -16,6 +16,7 @@ posts = [
 
   ''',
   "head":head,  "chapter_title": "Torn Apart",
+  "content_warnings":'''<p>Details of depressed thoughts, including dissociation, anhedonia, and negative self talk; self-harm; something like coercive therapy</p>''',
   "contents": '''
   
 Time moved slowly around me, agonizingly slowly. I didn't understand what was happening. In my vision, in front of me, there was a picture of my blade sticking out of the side of her body's ribcage. That didn't make any sense. It wasn't real.

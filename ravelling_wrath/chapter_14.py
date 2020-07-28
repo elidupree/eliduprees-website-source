@@ -12,6 +12,8 @@ posts = [
   "don't deploy": True,
   "blurb_image":"/media/ravelling-wrath/sketches/ch14.jpg?rr",
   "authors_notes":'''
+  
+let no one say I am completely without mercy: I did not put the
 [????? Yali would still be fat even if it wasn't for her food insecurity in childhood, with a link to the VC page; "as canon as I can make it in an author's notes"]
 
 <h2>Arinyo Seti</h2>
@@ -27,7 +29,10 @@ However, Arinyo Seti had a planned home birth, assisted by a midwife, as has bee
 Even if Yali <em>had</em> imprinted a hospital bed just after birth, ze might not have been able to manifest it without consciously thinking back to when ze was a baby.
 
   ''',
+  
+  
   "head":head,  "chapter_title": "The Priorities of Justice",
+  "content_warnings":'''<p>Details of depressed thoughts, including dissociation and anhedonia; combat and fear of death; child abuse and neglect, including sexual abuse, with no physical details and no long scenes of abuse, but many details about the social and emotional context, told as a retrospective summary.</p>''',
   "contents": '''
   
 My eyes followed the point of Justicar's sword hovering in front of me.
@@ -272,15 +277,15 @@ Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>
 
 <div class="yali-narration">
 
-Arinyo Seti is not one of the people who abused me. But [????? she is partially responsible nonetheless].
+Arinyo Seti is not one of the people who abused me. But I can never forgive her for what she did do.
 
 I will start at the beginning. My biological father died not long before I was born. Arinyo Seti had never intended to raise me by herself. With her memory and attention issues, she knew that she was not prepared to live alone, much less to raise a child that way. In the home where I lived, trash piled up for weeks before she would clear it. More than once, the city shut off our water because she had forgotten to pay her bills. And even though she always made sure I ate before she did, there were some days when there was no food left in the house. We were not poor, and she had friends who were willing to help, but she rarely asked for help until I reminded her. By the time I was six years old, I was more organized than my own mother.
 
 That was not her fault. That was not when she betrayed me.
 
-I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that [????? made sense to] her. And I hoped for her too.
+I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that gave her a sense of purpose. And I hoped for her too.
 
-So when she explained to me that I would be given to another family when she was ordained as the high priest, I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
+So when she explained to me that I would be given to another family when she was ordained as the high priest, I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly believe this was the way to give me the life I deserved. This was not when she betrayed me. 
 
 Pallivan and Miniri Dalner were praised and respected by everyone in our community. They were fashionable. They gave generously to good causes. And everyone remembered their grand gestures of love for each other, the surprise romantic messages they delivered at their formal parties. They always laughed and smiled charmingly, and whenever they were praised, they deflected it with modesty.
 
@@ -316,9 +321,9 @@ She told me she <em>understood</em> that I wasn't happy with the Dalners. She to
 
 <em>That</em> is when she betrayed me. To keep her grand plan to serve the Waiting God, she could not admit to her mistake, even to save me from years of abuse. I will never forgive her for that. And I will never forgive the Waiting God for accepting her service after that. The Waiting God knows all, but it did nothing to protect me. My suffering was insignificant to it. No matter what it wants or why, no matter how much I seem to act out the Waiting God's virtues, I refuse to let it puppeteer my life any longer.
 
-But that is for the future, and I am not finished telling you about the past. The Dalners still had to keep up appearances. At eight years old, they sent me to a private boarding school, which is the normal practice among the first-ring upper class. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. When they were around <em>me</em>, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
+But that is about the future, and I am not finished telling you about the past. The Dalners still had to keep up appearances. At eight years old, they sent me to a private boarding school, which is the normal practice among the first-ring upper class. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. When they were around <em>me</em>, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
 
-I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were friendly. I didn't like the other kids either. In those days, I had only one friend. Her name was Romhisat. I was very attached to her, but I treated her very badly. I didn't have anyone else to play with, and whenever she didn't want to play with me, I yelled at her until she did. One day she left me a note saying she couldn't take it anymore and she didn't want to be friends anymore. That day was the worst day of my life.
+I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were nice. I didn't like the other kids either. In those days, I had only one friend. Her name was Romhisat. I was very attached to her, but I treated her very badly. I didn't have anyone else to play with, and whenever she didn't want to play with me, I yelled at her until she did. One day she left me a note saying she couldn't take it anymore and she didn't want to be friends anymore. That day was the worst day of my life.
 
 During school vacations, when I was at home, I ended up getting a lot more alone time. I had gotten more independent at the school, so the Dalners didn't have to spend as much time taking care of me. And when they weren't using me for their pleasure, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information about child abuse. I had always known I wasn't okay with what they were doing, but when I actually checked the things off in lists of things that were like "this is what abuse is," it felt different. It felt like something I should be able to stop. And not only that, but I hadn't known that the sexual abuse was a <em>crime</em>. If it was a crime, there <em>was</em> something I could do about it, just as long as I could prove what was happening.
 
@@ -326,13 +331,13 @@ During school vacations, when I was at home, I ended up getting a lot more alone
 
 I began writing down everything they did. I wrote down dates and times, details of every abusive act. The more I paid attention to it, the more I noticed how even the little things were abusive. The way they talked to me. The way they talked to each other. And as soon as I could, I started making recordings with my phone. I installed an app that could record audio without displaying anything on the screen, so I wouldn't get caught even if they saw it. And I knew their patterns. When they assaulted me, I sometimes managed to prepare by leaving my phone nearby in advance. To make sure the recordings would be incriminating, I begged them to stop out loud, being specific about what they were doing, so that their responses would prove I was telling the truth.
 
-I didn't show my records to anyone at first. At first, I didn't want to risk someone disbelieving me again. Even once I knew I had undeniable proof, I still hesitated. But I knew that time was going by. By then, I was already ????twelve years old. There was already a chance that I could become pregnant from the rape. I hadn't had my first period yet, so it was unlikely, but the longer I waited, the more likely it would become. And when I thought of what a pregnancy might lead to, I became increasingly certain that I needed to make my move.
+I didn't show my records to anyone at first. At first, I didn't want to risk someone disbelieving me again. Even once I knew I had undeniable proof, I still hesitated. But I knew that time was going by. By then, I was already twelve years old. There was already a chance that I could become pregnant from the rape. I hadn't had my first period yet, so it was unlikely, but the longer I waited, the more likely it would become. And when I thought of what a pregnancy might lead to, I became increasingly certain that I needed to make my move.
 
 I didn't want to risk reporting while I was living at home. The Dalners had a lot of influence in the Waiting Temple, and I didn't know how far they would go to silence me. So I planned to report them while I was away at school. As soon as I got off the bus, I went straight to an older girl who was the closest thing I had to a friend I could trust. I gave her a copy of my records and told her that if I didn't come back, it meant the police couldn't be trusted, so she should take my records straight to the press.
 
 Then I snuck off the grounds and walked straight to the nearest police station, using only my phone to guide me.
 
-The police didn't believe me at first. From the things I'd read online, I knew that might happen, especially for an abuse survivor who didn't show emotion, like me. So I had prepared for that. I just held up my phone and played back one of the recordings I'd made. Later, there were some unresolved questions about whether the recordings would be admissible in court, but at that moment, it gave them no choice but to listen to me.
+The police didn't believe me at first. From the things I'd read online, I knew that might happen, especially for an abuse survivor who didn't show emotion, like me. So I had prepared for that. I just held up my phone and played back one of the recordings I'd made. Later, there were some unresolved questions about whether the recordings would be admissible in court, but at that moment, it shook them enough to make them listen to me.
 
 After that, it was a long process. Over the next week, at least eight different people came to ask me questions. I'm not sure what they all were. One of them was a doctor, who examined me. Another one of them was a detective, I think. I liked him because he was very direct, he didn't pretend to be nice. He called me "a perfect witness" and "my little psychopath". He said I would make a good lawyer one day, and I am not sure whether it was a compliment.
 
@@ -346,7 +351,7 @@ For years, I had kept myself going with the thought that if only I could prove w
 
 Twenty minutes after I read that letter, I cried for the first time in years. I still wanted to believe that there was a home I could go back to. I didn't want to believe that she was no more than a flawed, callous human. I still have that letter, in the drawer of my nightstand. Of all the things I own, it is the one I have the most feelings about.
 
-Since Arinyo Seti would not take me back, and I had no other living relatives near the city, I was given into the custody of the Stern. For the next ????three years, I was raised and educated in a Stern monastery.
+Since Arinyo Seti would not take me back, and I had no other living relatives near the city, I was given into the custody of the Stern. For the next three years, I was raised and educated in a Stern monastery.
 
 In a way, living at the monastery was easier. My life had been uprooted in every way, but the Stern gave me stability. The monks kept the same routine every day. They woke with the dawn, and there were bells that called us to each meal. The food was simple and filling, and it was the same every day. A few of the monks liked to complain about it, and they made the same complaints every day, too. It was a predictability that I had never had before. It gave me a chance to rest and relax, for the first time in my life.
 

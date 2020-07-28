@@ -62,6 +62,9 @@ p.text.left {
   /*font-family: Georgia, serif;*/
   font-style: italic;
 }
+.yali-narration em {
+font-weight: bold;
+}
 
 /* For the emoji graphics, we currently use twemoji (https://github.com/twitter/twemoji). */
 div.blog_post img.emoji {
