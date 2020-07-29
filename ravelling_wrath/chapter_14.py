@@ -12,6 +12,8 @@ posts = [
   "don't deploy": True,
   "blurb_image":"/media/ravelling-wrath/sketches/ch14.jpg?rr",
   "authors_notes":'''
+  
+let no one say I am completely without mercy: I did not put the
 [????? Yali would still be fat even if it wasn't for her food insecurity in childhood, with a link to the VC page; "as canon as I can make it in an author's notes"]
 
 <h2>Arinyo Seti</h2>
@@ -27,7 +29,10 @@ However, Arinyo Seti had a planned home birth, assisted by a midwife, as has bee
 Even if Yali <em>had</em> imprinted a hospital bed just after birth, ze might not have been able to manifest it without consciously thinking back to when ze was a baby.
 
   ''',
+  
+  
   "head":head,  "chapter_title": "The Priorities of Justice",
+  "content_warnings":'''<p>Details of depressed thoughts, including dissociation and anhedonia; combat and fear of death; child abuse and neglect, including sexual abuse, with no physical details and no long scenes of abuse, but many details about the social and emotional context, told as a retrospective summary.</p>''',
   "contents": '''
   
 My eyes followed the point of Justicar's sword hovering in front of me.
@@ -66,11 +71,11 @@ A strange relaxation came over me. So this was it. It would all be over soon. Th
 
 It was like my body moved out of its own accord. It flung itself sideways just as the sword swung down. It was so close that the side of the blade bruised my elbow as it passed. Rolling, I staggered to my feet, my muscles screaming from being yanked without a chance to prepare.
 
-I was barely on my feet when the sword came at me again. I leaped to the side, barely fast enough to hear the woosh in my ear as it missed.
+I was barely on my feet when the sword came at me again. I leapt to the side, barely fast enough to hear the woosh in my ear as it missed.
 
 I had no time to think. Death was waiting just an arm's length away. Desperately, I wrenched a Blood Blade out of the air. Even that was a strain. I felt like my blood was far away from me, like I had to pull it from the bottom of a deep well. And the moment the blade was in my hand, Justicar's sword was already whirling towards my eyes. I had to twist my body to block it, both hands shoving my Blood Blade up in its way.
 
-The two blades met with a sickening thud. I felt mine crack in my hand, terrible fractures spreading throughout its body from the force. I leaped backwards, trying to put even a moment's space between me and the onrushing death.
+The two blades met with a sickening thud. I felt mine crack in my hand, terrible fractures spreading throughout its body from the force. I leapt backwards, trying to put even a moment's space between me and the onrushing death.
 
 The Justicar stepped towards me, unhesitating, inevitable. I tried to stumble away, breathing hard, my thoughts blank with terror. How could I ever stop her?! She seemed invincible. I reached out wildly in my mind for an answer, grabbing onto anything I could think of.
 
@@ -86,7 +91,7 @@ The truth burned inside me. If she was trying to turn my question around, that m
 
 Justicar leapt at me again, her sword swinging in a powerful arc. But when she had paused to argue her case, she had given me just enough time to get my bearings. With that scrap of rage had come a fragment of my old power. I had the <em>right</em> to protect my life at all costs, to make her burn and bleed if she would not back down. And now, I saw my chance.
 
-As the sword came down, I allowed one of my Blood Blades to lose its shape and flow over my palm and fingers like a glove. I caught the sword in my hand, my blood closing around the blade and trapping it in place. I knew I'd only have an instant before Justicar would understand and free it again. So in an instant, I rushed forward, focusing all of my will to form a blade in my other hand and aiming it towards her. It was like my vision narrowed to a tiny window. The only thing that mattered was the point of my blade, zooming forward and inwards, ready to stab into the exposed skin of Justicar's face.
+As the sword came down, I allowed one of my Blood Blades to lose its shape and flow over my palm and fingers like a glove. I caught the sword in my hand, my blood closing around the blade and trapping it in place. I knew I'd only have an instant before Justicar would understand my move and free her sword again. So in an instant, I rushed forward, focusing all of my will to form a blade in my other hand and aiming it towards her. It was like my vision narrowed to a tiny window. The only thing that mattered was the point of my blade, zooming forward and inwards, ready to stab into the exposed skin of Justicar's face.
 
 I saw Justicar react, moments too late. My blade landed squarely onto her cheek.
 
@@ -154,7 +159,7 @@ I struggled to hold the potion in my hand. My arms didn't even want to lift up o
 
 Satisfied, Yali stood again. "Now begone. Leave us before I change my mind."
 
-Justicar's sword pulsed with white light. For a moment, I was afraid that she would attack again. But she was only cleaning it, making the blood vanish from its surface. A moment later, she slid it back into its sheath. She stood at the far edge of the intersection, seeming like she was about to leave us. "Just tell me one thing," she said. "I would understand if you only chose to stand against <em>me</em>. The wills of our gods are not always in alignment. But you, every step of the way, have chosen a path that is far astray from the path of the Waiting God. I cannot fault you for standing against <em>my</em> god, but who are you to defy your own?"
+Justicar's sword pulsed with white light. For a moment, I was afraid that she would attack again. But she was only cleaning it, making the blood vanish from its surface. A moment later, she slid it back into its sheath. She stood at the far edge of the intersection, about to leave us. "Just tell me one thing," she said. "I would understand if you only chose to stand against <em>me</em>. The wills of our gods are not always in alignment. But you, every step of the way, have chosen a path that is far astray from the path of the Waiting God. I cannot fault you for standing against <em>my</em> god, but who are you to defy your own?"
 
 Yali stared at Justicar for a long moment. Then she laughed – a long, cold, hollow laugh that rang out like a bell and seemed to shake the very statues around us.
 
@@ -192,7 +197,7 @@ Yali's face turned ashen.
 
 "What about –"
 
-The spike she had been holding earlier was still lying near us, but its energy was already fading. She picked it up and stabbed it into her hand, and it just fizzled into nothingness. "I tried to make Alchemist make a weapon for me. Right after they made the Severing Step. But they couldn't! They won't think of how to hurt people even when they NEED to! If I'd had more time –"
+The spike she had been holding earlier was still lying near us, but its energy was already fading. She picked it up and stabbed it into her own hand, and it just fizzled into nothingness. "I tried to make Alchemist make a real weapon for me. Right after they made the Severing Step. But they couldn't! They won't think of how to hurt people even when they NEED to! If I'd had more time –"
 
 "What's… sev…"
 
@@ -214,7 +219,7 @@ It took me a moment to realize what that implied. "Wait, the Seeing –?"
 
 "I don't know why I didn't see that this was going to happen! I <em>used</em> the Seeing! I specifically looked for danger! I didn't see Justicar attacking you! Why couldn't I find it?!"
 
-"Could the Stern God… uh… mess it up somehow?"
+"Could the Stern God… mess it up somehow?"
 
 "I don't know! It doesn't feel like it! But, but, I <em>don't know!</em> Until I understand why it didn't work, I can't assume that we're safe, ever again! So! First of all, I am <em>not</em> leaving your side again, and I don't care what you have to say about it!"
 
@@ -260,7 +265,7 @@ It kind of didn't even feel like something that had really happened. I mean, I w
 
 "You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…"
 
-Yali sighed. But after a moment, she decided to answer. "It's easier if people don't know that about me."
+Yali frowned. But after a moment, she decided to answer. "It's easier if people don't know that about me."
 
 The thoughts slowly clicked into place in my brain. Yali's mother, who wasn't part of her life anymore… A mother who betrayed her… "Holy shit, is she the one who… Wait, shit, I didn't mean to bring that up, I'm sorry –"
 
@@ -270,15 +275,17 @@ Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>
 
 <bigbreak>
 
-Arinyo Seti is not one of the people who abused me. But she is partially responsible nonetheless.
+<div class="yali-narration">
+
+Arinyo Seti is not one of the people who abused me. But I can never forgive her for what she did do.
 
 I will start at the beginning. My biological father died not long before I was born. Arinyo Seti had never intended to raise me by herself. With her memory and attention issues, she knew that she was not prepared to live alone, much less to raise a child that way. In the home where I lived, trash piled up for weeks before she would clear it. More than once, the city shut off our water because she had forgotten to pay her bills. And even though she always made sure I ate before she did, there were some days when there was no food left in the house. We were not poor, and she had friends who were willing to help, but she rarely asked for help until I reminded her. By the time I was six years old, I was more organized than my own mother.
 
 That was not her fault. That was not when she betrayed me.
 
-I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that made sense to her. And I hoped for her too.
+I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that gave her a sense of purpose. And I hoped for her too.
 
-So when she explained to me that I would be given to another family when she was ordained as the high priest, I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly thought this was the way to give me the life I deserved. This was not when she betrayed me. 
+So when she explained to me that I would be given to another family when she was ordained as the high priest, I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly believe this was the way to give me the life I deserved. This was not when she betrayed me. 
 
 Pallivan and Miniri Dalner were praised and respected by everyone in our community. They were fashionable. They gave generously to good causes. And everyone remembered their grand gestures of love for each other, the surprise romantic messages they delivered at their formal parties. They always laughed and smiled charmingly, and whenever they were praised, they deflected it with modesty.
 
@@ -314,9 +321,9 @@ She told me she <em>understood</em> that I wasn't happy with the Dalners. She to
 
 <em>That</em> is when she betrayed me. To keep her grand plan to serve the Waiting God, she could not admit to her mistake, even to save me from years of abuse. I will never forgive her for that. And I will never forgive the Waiting God for accepting her service after that. The Waiting God knows all, but it did nothing to protect me. My suffering was insignificant to it. No matter what it wants or why, no matter how much I seem to act out the Waiting God's virtues, I refuse to let it puppeteer my life any longer.
 
-But that is for the future, and I am not finished telling you about the past. The Dalners still had to keep up appearances. At eight years old, they sent me to a private boarding school, which is the normal practice among the first-ring upper class. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. When they were around <em>me</em>, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
+But that is about the future, and I am not finished telling you about the past. The Dalners still had to keep up appearances. At eight years old, they sent me to a private boarding school, which is the normal practice among the first-ring upper class. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. When they were around <em>me</em>, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
 
-I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were friendly. I didn't like the other kids either. In those days, I had only one friend. Her name was Romhisat. I was very attached to her, but I treated her very badly. I didn't have anyone else to play with, and whenever she didn't want to play with me, I yelled at her until she did. One day she left me a note saying she couldn't take it anymore and she didn't want to be friends anymore. That day was the worst day of my life.
+I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were nice. I didn't like the other kids either. In those days, I had only one friend. Her name was Romhisat. I was very attached to her, but I treated her very badly. I didn't have anyone else to play with, and whenever she didn't want to play with me, I yelled at her until she did. One day she left me a note saying she couldn't take it anymore and she didn't want to be friends anymore. That day was the worst day of my life.
 
 During school vacations, when I was at home, I ended up getting a lot more alone time. I had gotten more independent at the school, so the Dalners didn't have to spend as much time taking care of me. And when they weren't using me for their pleasure, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information about child abuse. I had always known I wasn't okay with what they were doing, but when I actually checked the things off in lists of things that were like "this is what abuse is," it felt different. It felt like something I should be able to stop. And not only that, but I hadn't known that the sexual abuse was a <em>crime</em>. If it was a crime, there <em>was</em> something I could do about it, just as long as I could prove what was happening.
 
@@ -324,13 +331,13 @@ During school vacations, when I was at home, I ended up getting a lot more alone
 
 I began writing down everything they did. I wrote down dates and times, details of every abusive act. The more I paid attention to it, the more I noticed how even the little things were abusive. The way they talked to me. The way they talked to each other. And as soon as I could, I started making recordings with my phone. I installed an app that could record audio without displaying anything on the screen, so I wouldn't get caught even if they saw it. And I knew their patterns. When they assaulted me, I sometimes managed to prepare by leaving my phone nearby in advance. To make sure the recordings would be incriminating, I begged them to stop out loud, being specific about what they were doing, so that their responses would prove I was telling the truth.
 
-I didn't show my records to anyone at first. At first, I didn't want to risk someone disbelieving me again. Even once I knew I had undeniable proof, I still hesitated. But I knew that time was going by. By then, I was already ????twelve years old. There was already a chance that I could become pregnant from the rape. I hadn't had my first period yet, so it was unlikely, but the longer I waited, the more likely it would become. And when I thought of what a pregnancy might lead to, I became increasingly certain that I needed to make my move.
+I didn't show my records to anyone at first. At first, I didn't want to risk someone disbelieving me again. Even once I knew I had undeniable proof, I still hesitated. But I knew that time was going by. By then, I was already twelve years old. There was already a chance that I could become pregnant from the rape. I hadn't had my first period yet, so it was unlikely, but the longer I waited, the more likely it would become. And when I thought of what a pregnancy might lead to, I became increasingly certain that I needed to make my move.
 
 I didn't want to risk reporting while I was living at home. The Dalners had a lot of influence in the Waiting Temple, and I didn't know how far they would go to silence me. So I planned to report them while I was away at school. As soon as I got off the bus, I went straight to an older girl who was the closest thing I had to a friend I could trust. I gave her a copy of my records and told her that if I didn't come back, it meant the police couldn't be trusted, so she should take my records straight to the press.
 
 Then I snuck off the grounds and walked straight to the nearest police station, using only my phone to guide me.
 
-The police didn't believe me at first. From the things I'd read online, I knew that might happen, especially for an abuse survivor who didn't show emotion, like me. So I had prepared for that. I just held up my phone and played back one of the recordings I'd made. Later, there were some unresolved questions about whether the recordings would be admissible in court, but at that moment, it gave them no choice but to listen to me.
+The police didn't believe me at first. From the things I'd read online, I knew that might happen, especially for an abuse survivor who didn't show emotion, like me. So I had prepared for that. I just held up my phone and played back one of the recordings I'd made. Later, there were some unresolved questions about whether the recordings would be admissible in court, but at that moment, it shook them enough to make them listen to me.
 
 After that, it was a long process. Over the next week, at least eight different people came to ask me questions. I'm not sure what they all were. One of them was a doctor, who examined me. Another one of them was a detective, I think. I liked him because he was very direct, he didn't pretend to be nice. He called me "a perfect witness" and "my little psychopath". He said I would make a good lawyer one day, and I am not sure whether it was a compliment.
 
@@ -344,7 +351,7 @@ For years, I had kept myself going with the thought that if only I could prove w
 
 Twenty minutes after I read that letter, I cried for the first time in years. I still wanted to believe that there was a home I could go back to. I didn't want to believe that she was no more than a flawed, callous human. I still have that letter, in the drawer of my nightstand. Of all the things I own, it is the one I have the most feelings about.
 
-Since Arinyo Seti would not take me back, and I had no other living relatives near the city, I was given into the custody of the Stern. For the next ????three years, I was raised and educated in a Stern monastery.
+Since Arinyo Seti would not take me back, and I had no other living relatives near the city, I was given into the custody of the Stern. For the next three years, I was raised and educated in a Stern monastery.
 
 In a way, living at the monastery was easier. My life had been uprooted in every way, but the Stern gave me stability. The monks kept the same routine every day. They woke with the dawn, and there were bells that called us to each meal. The food was simple and filling, and it was the same every day. A few of the monks liked to complain about it, and they made the same complaints every day, too. It was a predictability that I had never had before. It gave me a chance to rest and relax, for the first time in my life.
 
@@ -356,6 +363,8 @@ So, last year, I asked for permission to live independently, and to attend a reg
 
 I guess there's not much more to tell. School's nice. The teachers at our school are too overworked to care if I'm paying attention, so I don't have to. And I've gotten to meet other kids, like you. I would never have met you in a Stern monastery. School didn't really help with the depression, though. But I'm not depressed <em>now</em>. I actually haven't been depressed since I was chosen as the Farseer. I have a mission again. Every day I fill my mind with my plans for my mission, I don't have time to be depressed.
 
+</div>
+
 <bigbreak>
 
 Yali smiled joylessly. "Can you tell I've told this story before? It wasn't this organized the first time. Except the parts after I left the monastery, that is. I haven't told anyone about this since I came to our school. I wanted to try having a normal school life, just to try it."
@@ -366,7 +375,7 @@ What could I say? What would Rinn Akatura say? I was supposed to say something, 
 
 "I can't believe your only friend left you…" I said hollowly. "Like, officially <em>left</em> you. On a specific day and everything…"
 
-Yali answered matter-of-factly. "It was 100% my own fault. No child her age could have given me what I needed. I practically bullied her until she was a nervous wreck. It was one of the things I saw differently after I learned about abuse… Everything I know about healthy relationships, I learned online, years later. I was the abuser in that friendship, even if –"
+Yali answered matter-of-factly. "It was 100% my own fault. No child Romhisat's age could have given me what I needed. I practically bullied her until she was a nervous wreck. It was one of the things I saw differently after I learned about abuse… Everything I know about healthy relationships, I learned online, years later. I was the abuser in that friendship, even if –"
 
 "…<em>you</em> did that? <em>You</em>…?"
 
@@ -374,9 +383,9 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child her age coul
 
 It was true… Until now, I had hardly known anything about Yali's life before we met. I had loved her and wanted to know everything about her, but she had never wanted to talk about herself. She had kept it all hidden… she'd even told me to – "Wait…" I said. "When you said I couldn't tell anyone you were the Farseer…"
 
-"<em>She would have wanted me back,</em>" said Yali bitterly. "If the Waiting Temple knew I <em>mattered</em> to the Waiting God, <em>then</em> they would have cared about me. It was one of the first things I used the Seeing for. I saw them take me away to their temples, I saw them give me all kinds of <em>training</em> to make me the best Farseer I could be. I would never accept that from <em>them!</em> Especially since I would never get to see <em>you</em> again until we were facing off in the Otherworld!"
+"<em>She would have wanted me back,</em>" said Yali bitterly. "If the Waiting Temple knew I <em>mattered</em> to the Waiting God, <em>then</em> they would have cared about me. It was one of the first things I used the Seeing for. I saw them take me away to their temples, I saw them give me all kinds of <em>training</em> to make me the best Farseer I could be. But I will never let the Waiting use me as their tool! Especially since I wouldn't have gotten to see <em>you</em> again until we were facing off in the Otherworld!"
 
-"Would they have… forced you?"
+"Would they have… forced you? To do the training?"
 
 "Yes! No, no, not exactly. The Waiting Temple is, is, complicated, the way they do things. But I wouldn't have had a choice."
 
@@ -388,19 +397,17 @@ Yali squinted a little. "You really think so? I, I guess you do hate the temples
 
 A few paces later, Yali suddenly looked relieved. "Justicar has gone through the portal," she announced. "That's at least one less danger while we're still in this layer."
 
-That should have been a relief, but I didn't feel it. My brain was still wandering, thinking about the Waiting Temple.
+That should have been a relief, but I didn't feel it. My brain was still wandering, thinking about the Waiting Temple. "How did your mom get picked to be the high priest if she had a bad memory?" I asked. "Isn't remembering the past really important to the Waiting?"
 
-"How did your mom get picked to be the high priest if she had a bad memory? Isn't remembering the past really important to the Waiting?"
+"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>," Yali said sourly. But then she stopped herself. "But the Dalners did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been able to live with that."
 
-"Ah… she was always forgetting things she did earlier on the same day, but her memory for things that happened <em>twenty years ago</em> was flawless. In the Waiting tradition, people like that are actually considered blessed. It wasn't a blessing for <em>me</em>," Yali said sourly. But then she stopped herself. "But the Dalners did not have memory problems. If my mother's memory problems were the only thing I had to deal with, I would have been happy with that."
-
-"I can't believe how much you… how much you… uh…" I struggled to get my thoughts in order. "You, uh, you've really got this all figured out."
+I couldn't believe how levelheaded Yali was, still finding room to piece out which flaws were forgivable. "You –" I began. I struggled to get my thoughts in order. "You, uh, you've really got this all figured out."
 
 "I do that, don't I," she said, not quite sounding happy about it.
 
 <bigbreak>
 
-We met up with Morrow and Alchemist at another intersection, right where we'd planned. They both rushed to take a look at me. Yali stood in the way and shouted at Morrow to stay back.
+We met up with Morrow and Alchemist right where we'd planned. They both rushed across the intersection to take a look at me. Yali stood in the way and shouted at Morrow to stay back.
 
 Then she and Alchemist examined me together. Alchemist cried while they were doing it. For me, it was just tedious. I just had to sit still while they talked some technical soul stuff I didn't understand.
 
@@ -408,7 +415,7 @@ They talked a lot about the residual damage, about how my soul had only been par
 
 Alchemist made me a series of different potions. All of them tasted different from each other, all subtle but unpleasant. I just drank them down as ordered. Eventually, they agreed that it was a success. My soul wasn't quite the same as before, but it was pretty much whole again.
 
-Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of strength and speed. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe if she said it directly, Alchemist might not be willing…
+Then, Yali had Alchemist make her a bunch more potions. Potions of healing, of protection, of strength and speed. I could see Yali subtly trying to get Alchemist to make potions that would be useful for combat, without saying it directly. Maybe if she said it directly, Alchemist might have too many doubts to go through with it…
 
 Alchemist shied away from making another Severing Step, too.
 
@@ -418,7 +425,7 @@ Alchemist shied away from making another Severing Step, too.
 
 But Alchemist wasn't convinced. They fussed over the idea uncertainly. Yali briefly looked in the future, then dropped the issue, to focus on potions that Alchemist was happier to make.
 
-Once that was done, Alchemist wanted to stay and cuddle with me. And Morrow had a million questions about what had happened. But Yali was impatient to get moving. She all but physically blocked the others away from me, helping me up and making sure I could walk again. And then, we moved. She set a swift pace that I could barely keep up with, in my weakened state.
+Once that was done, Alchemist wanted to stay and cuddle with me. And Morrow had a million questions about what had happened. But Yali was impatient to get moving. She all but physically blocked the others away from me, helping me up and making sure I could walk again. And then, we moved. She set a swift pace that I could barely keep up with, given my weakened state.
 
 As we walked, Yali spoke with an edge of frustration. "This isn't enough. I wanted more protection for you. I wanted to give you your own set of potions. But with whatever is going on with you, you can't assimilate them."
 
@@ -444,7 +451,7 @@ She gave me a tired look. I couldn't tell what it meant. Dully, she explained. "
 
 "Oh."
 
-Moments later, she was alert again, with an edge of agitation. "If only it wasn't happening <em>now</em>, when it matters for your life and death! You'll be defenseless when you get to the next world! And I don't even have a Severing Step to get me there if the worst happens and –"
+Moments later, she was agitated again. "If only it wasn't happening <em>now</em>, when it matters for your life and death! You'll be defenseless when you get to the next world! And I don't even have a Severing Step to get me there if the worst happens and –"
 
 Alchemist made a little noise.
 
@@ -460,7 +467,7 @@ Silence settled over us again. We continued our long, moody walk to the portal.
 
 I lost track of the time going by. Following the Alchemist's Path, it was just a long walk. Nothing I had to pay attention for.
 
-Morrow was having trouble too. Every so often, he stumbled and clutched his head. Alchemist had to soothe him while Yali and I waited for him to be able to keep moving. Sometimes he yelled out in pain and argued with things we couldn't see. It was probably the Stern God. It was probably getting in his head, even worse than it had with me. I was just glad it wasn't in <em>my</em> head anymore. My mind still felt deadened, but at least it wasn't <em>that</em>. And it was a relief that Yali was standing between me and Morrow. His noise was too much for me. I just wanted…
+Morrow was having trouble too. Every so often, he stumbled and clutched his head. Alchemist had to soothe him while Yali and I waited for him to be able to keep moving. Sometimes he yelled out in pain and argued with things we couldn't see. It was probably the Stern God. It was probably getting in his head, like it had with me. I was just glad it wasn't in <em>my</em> head anymore. My mind still felt deadened, but at least it wasn't <em>that</em>. And it was a relief that Yali was standing between me and Morrow. His noise was too much for me. I just wanted…
 
 I didn't know what I wanted. Everything was still a fog. But Yali wanted me to go to the portal with her, so that's what I was doing, I guess.
 
@@ -508,7 +515,7 @@ The ocean crashed over me. A black ocean, heavy and infinite, tossed and dropped
 
 I was naked in the biting storm. The world lashed my skin with lines of pain, but I felt no need to strain against it. Every muscle felt its tension drain away, a deep relaxation like sinking into the softest mattress, like letting my bladder empty itself into the endless water. I was carried away on a tide of warm and cold. My throat was blocked, yet my chest was full of more breath than my lungs could bear.
 
-And then another thing began. A scratching sensation spread throughout me, a deep scratch that dug under every pore of my skin and drilled down into my very bones. A rough massage in the inside of every muscle and tendon. I was long past telling whether it was a scratch of comfort or of pain. It filled me up, just as the roar of water filled my ears. This scratch was everything, everything I could feel or be. Tears poured from me, wrenching at my few remaining scraps of emotion, draining them into the infinite sea. I was full and empty, awash with agony and bliss. I was everything and nothing. I was the clouds and the desert sand.
+Deep in the abyss, another feeling began. A scratching sensation spread throughout me, a deep scratch that dug under every pore of my skin and drilled down into my very bones. A rough massage in the inside of every muscle and tendon. I was long past telling whether it was a scratch of comfort or of pain. It filled me up, just as the roar of water filled my ears. This scratch was everything, everything I could feel or be. Tears poured from me, wrenching at my few remaining scraps of emotion, draining them into the infinite sea. I was full and empty, awash with agony and bliss. I was everything and nothing. I was the clouds and the desert sand.
 
 
 ''',
