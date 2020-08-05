@@ -3,7 +3,7 @@
 
 import re
 
-import utils
+
 from post_contents_utils import *
 
 import ravelling_wrath.chapter_01
@@ -59,7 +59,7 @@ chapters = flatten([
 
 for index, chapter in enumerate (chapters):
   chapter ["chapter_number"] = index + 1
-  chapter ["contents"] = utils.auto_paragraphs (chapter ["contents"])
+  chapter ["contents"] = auto_paragraphs (chapter ["contents"])
   # Smart quotes cases:
   # Standard apostrophes:
   chapter ["contents"] = re.sub(r"\b'\b", "’", chapter ["contents"])

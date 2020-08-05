@@ -4,6 +4,10 @@ from __future__ import division
 
 
 import exmxaxixl
+import re
+
+def auto_paragraphs (string):
+  return re.sub(r"""(?m)^([\w"…]|<strong|<em|\[?\?\?\?\?).+?$""", lambda match: "<p>" + match.group (0) + "</p>", string)
 
 def hidden_cw_box(contents):
   return '''<div class="hidden_cw_box">

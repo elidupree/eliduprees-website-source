@@ -11,24 +11,33 @@ posts = [
   "auto_paragraphs": True,
   "don't deploy": True,
   "blurb_image":"/media/ravelling-wrath/sketches/ch14.jpg?rr",
-  "authors_notes":'''
+  "authors_notes": auto_paragraphs ('''
   
 Let no one say I am completely without mercy: I did not put the moment when <em>Rinn</em> almost dies at a chapter boundary.
-[????? Yali would still be fat even if it wasn't for her food insecurity in childhood, with a link to the VC page; "as canon as I can make it in an author's notes"]
+
+<h2>Some behind-the-scenes about Yali's backstory</h2>
+
+You might assume – given that I've <a href="/voldemorts-children/20">previously written about childhood food insecurity affecting adult body weight</a> – that I intended the same thing here with Yali.
+
+But you'd be wrong! I always imagined Yali as fat, long before I developed this backstory. Moreover, Yali is intended to be positive representation of a fat person, and having zir fatness be a reflection of zir trauma would undercut that. It's always been my intent that Yali would still be fat even if ze never had the childhood food insecurity. I would have made that clear in the main text, but that's essentially impossible, because there's no way the characters could observe a "what would have happened" in-universe. Unless I made up some new Waiting God power for that. And that didn't really fit into my plot, so I didn't.
+
+So, let me fix that here. It is <strong>CANON!!!</strong> that Yali would still be fat even if ze never had the childhood food insecurity. There, I said it: these authors notes have the authority to pronounce things canon. At least when I'm making a special exception for something that would be impossible in the text.
 
 <h2>Arinyo Seti</h2>
 
 I <em>wanted</em> to foreshadow the introduction of Arinyo Seti a bit more than I did. But I couldn't exactly mention zir <em>name</em> without it being a little <em>too</em> conspicuous. Oh well. At least I gave plenty of hints that Yali had history with the Waiting Temple in general.
 
+In some sense, it's unfair that I didn't tell the audience the name, when the narrator, Rinn, obviously knew it. But leaving out the name actually puts you closer to the <em>same</em> perspective as Rinn, who has seen the name Seti a zillion times and had no way of making the connection.
+
 <h2>Hospital beds</h2>
 
 I briefly wondered if Yali would have imprinted a hospital bed <em>when Yali was born</em>.
 
-However, Arinyo Seti had a planned home birth, assisted by a midwife, as has been the Waiting tradition for centuries. [????? Again as canon as I can make it]
+However, Arinyo Seti had a planned home birth, assisted by a midwife, as has been the Waiting tradition for centuries. That's also canon, although it's not canon with three exclamation points, so you can ignore it if you want to.
 
-Even if Yali <em>had</em> imprinted a hospital bed just after birth, ze might not have been able to manifest it without consciously thinking back to when ze was a baby.
+Even if Yali <em>had</em> imprinted a hospital bed just after birth, I don't know if ze'd be able to manifest it. In order to <em>access</em> an imprint, you might have to either consciously or subconsciously think back to the situation where you got it. And it might be hard to think back to when you were a newborn.
 
-  ''',
+  '''),
   
   
   "head":head,  "chapter_title": "The Priorities of Justice",

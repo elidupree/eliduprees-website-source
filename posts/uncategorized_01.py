@@ -3,7 +3,7 @@
 
 import datetime
 
-import utils
+from post_contents_utils import *
 import html
 
 posts = [
@@ -188,7 +188,7 @@ And that's Lasercake! I hope that it will help teach people things and move forw
   margin: 1.8em 0;
 }
   </style>''',
-  "contents":utils.auto_paragraphs('''
+  "contents":auto_paragraphs('''
   
 ANNOUNCER: Welcome, gentle viewers, to day 2 of <em>You Don't Know Jack about Performance</em>! First question: Suppose we iterate through ten million items, divided into linked lists of length L, with the heads in one large array. How will the performance change as we change L?
 
@@ -226,7 +226,7 @@ Time taken for list length 3072: 184.54ms (18.46 ns/item, 56695 ns/list)
 Time taken for list length 4096: 112.18ms (11.22 ns/item, 45955 ns/list)
 Time taken for list length 6144: 111.45ms (11.15 ns/item, 68498 ns/list)
 </pre>
-  '''+utils.auto_paragraphs('''
+  '''+auto_paragraphs('''
   
 ANNOUNCER: Contestant #2, do you have anything to add to Contestant #1's analysis?
 
@@ -268,7 +268,7 @@ Time taken for list length 3: 3.09s (308.62 ns/item, 925 ns/list)
 Time taken for list length 2: 3.61s (360.83 ns/item, 721 ns/list)
 Time taken for list length 1: 2.20s (219.54 ns/item, 219 ns/list)
 </pre>
-  '''+utils.auto_paragraphs('''
+  '''+auto_paragraphs('''
   
 ANNOUNCER: And now for the million CPU cycle question: why?
 
@@ -295,7 +295,7 @@ Time taken for 2730 lists of length 4096: 2.06s (184.16 ns/item, 7.67 ns/byte, 7
 Time taken for 2731 lists of length 4096: 2.06s (183.99 ns/item, 7.66 ns/byte, 753624 ns/list)
 Time taken for 2732 lists of length 4096: 2.07s (184.66 ns/item, 7.69 ns/byte, 756348 ns/list)
 </pre>
-  '''+utils.auto_paragraphs('''  
+  '''+auto_paragraphs('''  
 
 ANNOUNCER: Well, then, perhaps we'll have to revise some of our earlier analysis! Let's run the tests again, but this time, store the linked lists in an array of arrays – so that each individual allocation holds only the square root of the number of lists, rather than the full number of lists. Contestant #2, what do you expect to see then?
 
@@ -328,7 +328,7 @@ Time taken for 3249 lists of length 3072: 524.33ms (52.53 ns/item, 2.19 ns/byte,
 Time taken for 2401 lists of length 4096: 492.44ms (50.07 ns/item, 2.09 ns/byte, 205096 ns/list)
 Time taken for 1600 lists of length 6144: 814.67ms (82.87 ns/item, 3.45 ns/byte, 509168 ns/list)
 </pre>
-  '''+utils.auto_paragraphs('''  
+  '''+auto_paragraphs('''  
 ANNOUNCER: Contestant #3, do you have anything to add to Contestant #2's analysis?
 
 CONTESTANT #3: Would you look at that – very similar per-byte cost for everything from L=1 up to L=16. Our test machine has 64-bit-width, 1333-1600 MT/s memory, meaning that the minimum POSSIBLE ns/byte would be around 0.094 ns/byte - faster if you can use all 3 memory modules in parallel, but also slower, because for each node, we have to fetch a whole cache line of 64 bytes instead of just the 24 bytes the node actually takes up. Multiplying 0.094 by 64/24 gets us 0.25, nearly twice as long as it actually took – and we can't keep nearly all of the 240MB in our 6MiB L3 cache, so it follows that the operations are memory-throughput-bound, and the tests are using the throughput of multiple memory modules. It follows that anywhere up to the 16-32 range, the processor IS able to prefetch enough links in parallel that latency is not the bottleneck. On the other hand, as we reach very high list lengths, we bottleneck on memory latency at about 81.6ns per cache line. A very encouraging result for balanced-tree data structures, which are traditionally questioned because of their chained memory accesses, but rarely have a depth greater than 32 – so they can make use of full memory throughput as long as you can know which search will come next before the first search finishes.
@@ -365,7 +365,7 @@ Time taken for 217156 lists of length 46: 341.57ms (34.19 ns/item, 1.39 ns/byte,
 Time taken for 212521 lists of length 47: 288.47ms (28.88 ns/item, 1.18 ns/byte, 1357 ns/list)
 Time taken for 207936 lists of length 48: 332.36ms (33.30 ns/item, 1.36 ns/byte, 1598 ns/list)
 </pre>
-  '''+utils.auto_paragraphs('''  
+  '''+auto_paragraphs('''  
 
 ANNOUNCER: And there you have it, folks! No matter how much you know, you can still find a way to be wrong. Every night, on <em>You Don't Know Jack about Performance</em>.
   

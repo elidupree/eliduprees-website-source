@@ -34,6 +34,8 @@ import posts.stories_01
 import posts.uncategorized_01
 import posts.kinks
 
+from post_contents_utils import *
+
 # https://programmers.stackexchange.com/questions/254279/why-doesnt-python-have-a-flatten-function-for-lists
 def flatten(l):
   return [x for y in l for x in y]
@@ -118,7 +120,7 @@ for cat,post_list in posts.items():
     post_dict["category"] = cat
     post_dict["word_count"] = utils.word_count (html.unescape (utils.strip_tags (post_dict ["contents"])))
     if "auto_paragraphs" in post_dict:
-      post_dict ["contents"] = utils.auto_paragraphs (post_dict ["contents"])
+      post_dict ["contents"] = auto_paragraphs (post_dict ["contents"])
     if cat == 'blog':
       post_dict['contents'] += signature
       
