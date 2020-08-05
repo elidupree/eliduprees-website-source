@@ -5,7 +5,7 @@
 import re
 import utils
 import html
-
+from post_contents_utils import *
 
 posts = [
 {
@@ -601,6 +601,6 @@ def thing (match):
   return ("<bigbreak>" if match.group (1) == "2" else "") +'<a id="' + fragment + '">' + match.group (0)+ "</a>" 
 contents = re.sub(r"<h(.)>(.*?)</h.>", thing, contents)
 contents =re.sub(r"<TOC>", "".join (table_of_contents), contents)
-contents = utils.auto_paragraphs (contents) + program
+contents = auto_paragraphs (contents) + program
 
 posts [0] ["contents"] = contents
