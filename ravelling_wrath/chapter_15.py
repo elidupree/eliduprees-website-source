@@ -54,7 +54,7 @@ So, even today, the four gods wage a constant struggle, to maintain their vision
 
 <bigbreak>
 
-Nowadays, we know that the legend isn't entirely true. After all, there are other cities with other gods, so our Broken God can't have created the <em>entire</em> world. But it was a story that every child in the city knew by heart. And it <em>was</em> true, in a way. A way that might be even more important than the literal.
+Nowadays, we know that the legend isn't entirely true. After all, there are other cities with other gods, so our Broken God can't have created the <em>entire</em> world. But it was a story that every child in the city knew by heart. And that gave it a kind of meaning that went beyond the literal.
 
 <bigbreak>
 
@@ -284,7 +284,7 @@ Reluctantly, I sat back down with the two of them. Looking at Alchemist made me 
 
 "Whatever."
 
-We sat in silence for a while. ????
+We sat in silence for a while.
 
 "I still don't see why I can't bring him a healing potion…" said Alchemist mournfully.
 
@@ -298,7 +298,7 @@ We sat in silence for a while. ????
 
 "But… he loves me!" said Alchemist. "He wouldn't keep going if –"
 
-"He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, you can try to change it, but you can't just pretend it isn't there! You think love will protect you? I have known since I was ????six years old that love is not enough! If you love someone but you hide from the truth, your love will do NOTHING! Morrow loves you! He would never do anything to hurt you! But when he is taking your mind to pieces, he has no idea how much he is hurting you! He would suffer if he knew, so he hides from it! His love does nothing! And you! You love Morrow, but you want to rush into danger without a plan! You don't want to believe that he would hurt you, so you hide from it! Your love will do nothing – no, less than nothing, it will destroy you! Love will never save you without a plan! So what's your plan, Alchemist?!"
+"He <em>would!</em> That is the <em>truth!</em> And you can say you don't like the truth, you can try to change it, but you can't just pretend it isn't there! You think love will protect you? I have known since I was six years old that love is not enough! If you love someone but you hide from the truth, your love will do NOTHING! Morrow loves you! He would never do anything to hurt you! But when he is taking your mind to pieces, he has no idea how much he is hurting you! He would suffer if he knew, so he hides from it! His love does nothing! And you! You love Morrow, but you want to rush into danger without a plan! You don't want to believe that he would hurt you, so you hide from it! Your love will do nothing – no, less than nothing, it will destroy you! Love will never save you without a plan! So what's your plan, Alchemist?!"
 
 Alchemist hunched over. Their hands were shaking unevenly. They sniffled and took quick, shallow breaths.
 
@@ -488,11 +488,11 @@ Into the silence, Alchemist mumbled something I couldn't quite hear.
 
 Yali suddenly focused on me again. "You know more about Justicar? You'll have to tell me sometime – anything we know about her could be important when –"
 
-"Oh! Yeah, she told me about how she used to, like, –"
+"Oh! Yeah, she told me how, when she was a kid, she –"
 
-"Not <em>now!</em>" Yali snapped. "Do you think I want to worry about Justicar on top of everything else right now?! We can deal with one person who's going to kill us at a time!" She pointedly looked back into the memories.
+"Not <em>now!</em>" Yali snapped. "We can deal with one person who's going to kill us at a time!" She pointedly looked back into the memories.
 
-"Eventually, Morrow met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them teaching him how to open a bank account, how to ?????. All the little things he missed out on by growing up in an abusive household. They were… also sex workers, I believe, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
+"Eventually, Morrow met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them showing him how to open a bank account, I see them teaching him what foods you can keep in the fridge… those must be things he missed out on from his abusive home. They were… also sex workers, it looks like, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
 
 "Wait a minute, I thought you were looking at <em>his</em> memories! How do you know something he doesn't know?"
 
