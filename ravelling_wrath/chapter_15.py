@@ -17,7 +17,7 @@ posts = [
   ''',
   "head":head,
   "chapter_title": "The Scream",
-  "content_warnings": "????? weird brain distress things, physical and sexual abuse of a child (without graphic details), addiction, dissociation,",
+  "content_warnings": "<p>Details of strange and unpleasant brain experiences; traumatic flashbacks; abusive relationships, and people not wanting to admit how bad they are; child abuse and neglect, including physical abuse, sexual abuse, dissociation, homelessness, and survival sex work, with no physical details of the sexual abuse, and no long scenes of abuse, but many details about the social and emotional context, told as a retrospective summary; brief mentions of addiction.</p>",
   "contents": '''
 
 <img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/cloven-earth-ornate.jpg?rr" alt="">
@@ -78,9 +78,9 @@ After a long, refreshing rest, the itch to move started nudging at me.
 
 I rolled over, my hands and knees pressing into the soft dirt as I climbed to my feet. And then, I started walking. It didn't really matter which <em>way</em> I walked. I had no idea where anyone was anyway. And somewhere out there, Yali could see exactly where <em>I</em> was, so she was going to come find me regardless. But something had just made me feel like exploring.
 
-The woods were dense with shrubs and vines. I kept having to push them aside with my hands, or hold one vine out of the way while I ducked or climbed over another. The hard bark got in some solid scratches on my bare skin. I deliberately stepped the arches of my feet onto big roots, turning the poking feeling into a massage. 
+The woods were dense with shrubs and vines. I kept having to push them aside with my hands, or hold one vine out of the way while I ducked or climbed over another. The hard bark got some solid scratches in on my bare skin. I deliberately stepped the arches of my feet onto big roots, turning the poking feeling into a massage. 
 
-In other places, the plants stood ankle-deep in wide pools of water. I dipped my feet in the water, and they came up dripping and matted with fallen leaves. Another time, I splashed right across, letting the cool water come up to my ankles, squishing my toes into the soft clay below. Back on land, twigs and leaves stuck to my damp feet, forming a funny coating as I pushed my way through the foliage.
+In other places, the plants stood ankle-deep in wide pools of water. I dipped my feet in the water, and they came up dripping and matted with fallen leaves. Another time, I splashed right across, letting the cool water come up to my ankles, squishing my toes into the soft clay below. Back on land, twigs and leaves stuck to my damp feet, forming a funny sort of coating as I pushed my way through the foliage.
 
 As I tried to step under some bushes I was holding aside, I stubbed my toe on a root. Hopping from the pain, I lost my grip on the bushes, too. They whipped back into place, a thorny branch slashing my leg and tearing open the skin. Swearing, I retreated to lean on the nearest tree, then manifested away the cuts. Then I decided to put on at least <em>some</em> clothes. Having my bare skin against the world was awesome, but that pain had been a little too much to be fun. So first, I manifested on some heavy jeans, tough and skintight, and boots just the perfect size for me, ready to stomp through whatever old brush got in my way.
 
@@ -134,7 +134,7 @@ The scream ripped out through my lungs, burning through the inside of my chest. 
 
 <em>I had stabbed Yali.</em>
 
-There was no end to my raw vortex of pain. Time stretched on and on. The trees withered and blackened before me. I fell to my knees, my hands clutching at the dying soil. Cracks tore forth through the earth from my hands. The ground buckled under me, raising me up while the fissures zigzagged out in every direction. I felt my arms and legs sinking in the ground. I could no longer lift my head to take my next breath. Tears squeezed from my eyes, sizzling and boiling away as they tried to soak the parched earth.
+There was no end to my raw vortex of pain. Time stretched on and on. How long had I been screaming? I could barely remember the time before. The trees withered and blackened before me, bark peeling away in the slow passage of minutes. I felt weaker and weaker. I fell to my knees, my hands clutching at the dying soil. Cracks tore forth through the earth from my hands. The ground buckled under me, raising me up while the fissures zigzagged out in every direction. I felt my arms and legs sinking in the ground. I could no longer lift my head to take my next breath. Tears squeezed from my eyes, sizzling and boiling away as they tried to soak the parched earth.
 
 And then, in a moment between my screams, in a gut-wrenching pause before I would be torn apart again, the sound of footsteps broke through.
 
@@ -240,7 +240,7 @@ Alchemist shrank back uncomfortably.
 
 "I, yes? I guess I, could, heal it up, if…"
 
-Poor Alchemist. They really weren't cut out for fighting. I really wished they could just have a nice life instead of being stuck between me and Morrow and – apparently even <em>Yali</em> was in the business of beating people up now. But Alchemist… they just kept on trying to help. Asking me to protect Morrow even though they knew Morrow might hurt someone… Bringing me all those potions to heal me up… Even just now, knowing what to do to –
+Poor Alchemist. They really weren't cut out for fighting. I really wished they could just have a nice life instead of being stuck between me and Morrow and – apparently even <em>Yali</em> was in the business of beating people up now. But Alchemist… they just kept on trying to help. Asking me to protect Morrow even when they thought Morrow might hurt someone… Bringing me all those potions to heal me up… Even just now, knowing what to do to –
 
 My blood ran cold. "<em>Alchemist,</em>" I said, my voice coming out harsh.
 
@@ -406,7 +406,7 @@ As she looked, a twisted expression grew on her face, halfway between a grimace 
 
 "You too?" gasped Alchemist. So they hadn't known about Yali, but <em>had</em> known about Morrow…
 
-Yali barely noticed them. Even when she'd spoken, her eyes had stayed focused on that other space. She was only giving us updates, not returning to us.
+Yali barely noticed them. Even when she'd spoken, her eyes had stayed focused on that other space. She was only giving us updates, not coming back to us.
 
 "The memories of the present, they're all mixed up with, with… So <em>that's</em> why he didn't fight back. He must have been having a flashback to being beaten by, by, by, that must be his father…"
 
@@ -454,7 +454,7 @@ Yali's eyes flicked back out of the memories to focus on me for a moment. "What 
 
 "How would she have known?"
 
-"I dunno. I mean, she was a cop. Maybe she knew some kind of, uh, secret signal?" Now than I was trying to explain it, I wasn't that sure after all. "Or maybe it's just the way she talks."
+"I dunno. I mean, she was a cop. Maybe she knew some kind of, uh, secret signal?" Now than I was trying to explain it, I wasn't quite as sure after all. "Or maybe it's just the way she talks."
 
 "I don't think it matters at this point…"
 
