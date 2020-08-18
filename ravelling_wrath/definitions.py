@@ -65,6 +65,12 @@ p.text.left {
 .yali-narration em {
 font-weight: bold;
 }
+.prayer {
+  text-align: center;
+}
+div.blog_post .prayer p {
+  text-indent: 0;
+}
 
 /* For the emoji graphics, we currently use twemoji (https://github.com/twitter/twemoji). */
 div.blog_post img.emoji {
