@@ -9,7 +9,6 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 14",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "blurb_image":"/media/ravelling-wrath/sketches/ch14.jpg?rr",
   "authors_notes": auto_paragraphs ('''
   
