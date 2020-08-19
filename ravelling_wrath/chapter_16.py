@@ -148,19 +148,18 @@ My fire billowed around me. I rose effortlessly to my feet. Within my aura of fl
 
 In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky whisper, she spoke:
 
-[???? centered formatting:]
+<div class="prayer">
 <em>The power I feel around me is the fire of my soul.</em>
 <em>No wall can hold me.</em>
 <em>No truth can hide from me.</em>
 <em>No force can break me for as long as my blood still flows.</em>
+</div>
 
 A thrill rose through me as I heard those words. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it for a thousand years. Countless generations of humanity had lived and loved and died, and at every step, they had called out to me, speaking these words, to take pride in their strengths, to celebrate their triumphs, to rally themselves against death and despair. Warriors had spoken them on the verge of battle. Parents had spoken them at the birth of their children. Lovers had spoken them together as they defied persecution. This was no Stern prayer. When you prayed to the Stern, you looked to the spires of distant temples, debasing yourself for the mercy of a power that stood above you. But when you prayed to the Blood God, you looked to your own heart.
 
 Yali answered me. "Yes. A prayer of the Blood God, a prayer I found in an old book in the monastery archives, one the monks didn't realize we still had. You… I wish you could see yourself. It's beautiful."
 
 I smiled easily. "I wish you could <em>be</em> me."
-
-????
 
 <bigbreak>
 
@@ -254,7 +253,7 @@ I looked at the photo. "<em>That</em> fucker!" I yelled.
 
 "Is it him? The one who –"
 
-"– who killed me? Haha no, this guy sucks. It's more about when he was a human… did he do something against the Blood Temple? It feels like it was about the Blood Temple, but he didn't do anything himself…"
+"– who killed me? Haha no, this guy sucks. It's more about when he was a human… like he did something against the Blood Temple? No – it feels like it was <em>about</em> the Blood Temple, but he didn't do anything himself…"
 
 Yali concentrated. "I don't remember him doing anything against the Blood Temple either. Most of his work was in the Stern courts, which didn't even have jurisdiction over the fifth ring back then. Unless that work is what the Blood God is mad about?"
 
@@ -276,9 +275,9 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "It erased the memories," I breathed.
 
-"I don't think these memories were <em>erased</em>." Her voice rang out loud and sudden, trembling with anger and realization. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories of the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting to make the smallest change with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
+"I don't think these memories were <em>erased</em>." Her voice rang out loud and sudden, bursting with anger and realization. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories about the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting to make the smallest change with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
 
-"You monster…"
+"You <em>monster</em>…"
 
 "What else are we forgetting?! If this much was hidden in plain sight and I didn't see it, there could be more! There could be – there could be – The books!!" she yelled. "I thought they were just oversimplifying things, but they left out the details on <em>purpose</em>! Think about it! The Waiting Temple are the historians, they're the ones who made these textbooks, this is what all the schools are teaching! The whole way we learn about Blood worshippers growing up is just history teachers saying how they were some bad people from the past who attacked the city –"
 
@@ -336,7 +335,9 @@ Yali gave me an odd look. "You, you, you didn't grow up in Waiting culture like 
 
 "But how much do we really know? We've been working for more than ten hours, and even with both of us working together, we barely know any more about the Blood Temple than we did before. Maybe if I'd seen it sooner… maybe if…" She lapsed into silence.
 
-It was tearing me up to see Yali feel so defeated. But I was suddenly too tired to think of how to get through to her. The work had taken a lot out of me. And I was starting to come down from the rush of the Blood God, too. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready when I really needed to reach for it. It just wasn't <em>me</em>, not right now.
+<bigbreak>
+
+It was tearing me up to see Yali doubt herself. I tried to think of something more optimistic to say. But suddenly, I was too tired myself. The work had taken a lot out of me. And I was starting to come down from the rush of the Blood God, too. It wasn't gone or anything, but I was mostly Rinn again. The Blood God was still there, a wellspring of strength waiting in my heart, and in every muscle of my body, that would be ready when I really needed to reach for it. It just wasn't <em>me</em>, not right now.
 
 I looked around. It was like I was seeing everything for the first time, again, but differently. This time, it all looked new because it <em>wasn't</em> awe-inspiring. It was just ordinary stuff, not the vivid, brilliant, unquenchable true reality I had seen as the Blood God. Just trees. Just rocks. Just the wooden floor. Just my back resting against some hard bark. Just… a mass of blood spread across the soil, seeping into a nearby brook and making it run red with blood?
 
