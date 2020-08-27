@@ -9,13 +9,9 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 17",
   "auto_paragraphs": True,
-  "don't deploy": True,
-  "authors_notes":'''
-
-
-  ''',
   "head":head,
   "chapter_title": "Unravelled", 
+  "content_warnings": "<p>Graphic descriptions of physical injuries; self-harm, negative self-talk, and suicidality; brief mentions of animal abuse.</p>",
   "contents": '''
   
 It wasn't much longer before I heard the branches rustling from Alchemist getting close to us. I got up and peered towards the sound, and pretty soon I spotted their cute head bobbing in and out of the leaves. They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
