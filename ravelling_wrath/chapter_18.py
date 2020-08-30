@@ -155,7 +155,7 @@ Yali did not raise her voice. She answered with utter calm, as solemn as a pries
 
 Justicar struck out towards Yali like lightning. But somehow, her sword didn't go in the right direction. Yali had already sidestepped the blow. In the next instant, Justicar recovered and took another swing. But no matter how many times the sword slashed and stabbed, it didn't come close to Yali's body. Yali kept calmly stepping out of the way, using small, simple movements to avoid every attack. It made Justicar look clumsy and awkward. All at once, I realized what was going on. Yali was using her powers to see exactly where Justicar was going to strike next.
 
-But this was no time for me to get distracted by the spectacle. Yali was creating a delay for me, and she trusted me to make it count. I focused on my arm and leg, forcing more and more energy into them. But it was like a bottomless well. My flesh was still there, but the soul was damaged so badly it was like trying to build a new arm and leg from nothing.
+But this was no time for me to lose myself in the spectacle. Yali was creating a delay for me, and she trusted me to make it count. I focused on my arm and leg, forcing more and more energy into them. But it was like a bottomless well. My flesh was still there, but the soul was damaged so badly it was like trying to build a new arm and leg from nothing.
 
 While I worked, I kept half an eye on the battle in the street. Yali and Justicar were at a standstill. As much as the sword darted and flashed, it had no chance of escaping Yali's awareness. But equally, Justicar continued with a disciplined series of strikes, showing no sign of tiring or slowing down. The deadly dance was mesmerizing. My eyes almost got lost in the movement. But one thing was changing. Every few seconds, the dance slid half a step closer to me. I could see Yali maneuvering to slow down Justicar's advance, but there was only so much she could do. Justicar could not be stopped from advancing towards me.
 
@@ -203,7 +203,7 @@ Justicar struggled to regain her footing. Yali slammed her again, knocking her d
 
 "It is the Stern God's will that even if all seems hopeless, we still fight for what is right!"
 
-"And yet the Stern God also asks that we <em>yield when we must yield, even if it costs our pride.</em>
+"And yet the Stern God also asks that we <em>yield when we must yield, even if it costs our pride.</em>"
  
 "You dare quote the Stern God's prayer to me?! Now is no time for me to yield! Human lives hang in the balance. You would have me believe I cannot save any of them, but I cannot accept –"
 
