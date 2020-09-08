@@ -3,7 +3,11 @@
 
 from post_contents_utils import *
 
-head = '''<style>
+yali_font = "Kreon" #"Roboto Slab"
+rinn_font = "Kadwa" #"Arvo" #"Inika" #"Crete Round"
+chapter_font = "Alegreya SC"
+
+head = """<style>
 
 .table_of_contents_chapter {
   text-indent: 2em;
@@ -24,6 +28,8 @@ div.blog_post h2 {
   text-align: center;
   padding-left: 0;
   padding-right: 0;
+  font-weight: 800;
+  font-family: '"""+chapter_font+"""', serif;
 }
 div.blog_post p {
   clear: both;
@@ -55,15 +61,19 @@ p.text.left {
 .story_content_warning_header {
   margin-top: 1.1em;
 }
-.novel-current-status {
-  font-family: Arial, Helvetica, sans-serif;
+div.blog_post p {
+  font-family: '"""+rinn_font+"""', serif;
 }
-.yali-narration {
+div.blog_post.yali-narration p, .yali-narration.yali-narration.yali-narration.yali-narration p {
   /*font-family: Georgia, serif;*/
-  font-style: italic;
+  font-family: '"""+yali_font+"""', serif;
+  /*font-style: italic;*/
 }
-.yali-narration em {
+/*.yali-narration em {
 font-weight: bold;
+}*/
+div.novel-current-status p, div.table_of_contents, div.table_of_contents p, div.hidden_cws, div.hidden_cws p, div.main_content_warnings p {
+  font-family: Arial, Helvetica, sans-serif;
 }
 .prayer {
   text-align: center;
@@ -80,4 +90,6 @@ div.blog_post img.emoji {
   margin: 0;
   vertical-align: middle;
 }
-  </style>'''
+  </style>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family="""+rinn_font.replace(" ", "+")+"|"+yali_font.replace(" ", "+")+"|"+chapter_font.replace(" ", "+")+""":800">
+  """
