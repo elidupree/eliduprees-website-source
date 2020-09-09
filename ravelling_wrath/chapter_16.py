@@ -366,7 +366,7 @@ I looked back at her with dismay. It made sense, but – "I meant about the Bloo
 
 "Rinn. Listen to me." She was deadly serious. "I know you feel like, feel like, feel like the god is part of you now. But you have to remember who you are. Are you forgetting how it tried to make you kill me?"
 
-"Of course I'm not forgetting that! That was fucked up! But it's being killed right in front of us! I'm not going to lecture someone for lashing out when they're <em>still in the middle of being killed</em>! We have to <em>do</em> something!"
+"Of course I'm not forgetting that! That was fucked up! But it's being killed right in front of us!" The word <em>killed</em> felt wrong – <em>killing</em> was something that happened to humans, not gods. But I wasn't sure what else to say. There <em>wasn't</em> a word for eliminating a god, because that wasn't something that ever happened. "I'm not going to lecture someone for lashing out when they're <em>still in the middle of being killed</em>! We have to <em>do</em> something!"
 
 "Rinn. What we have to do is keep ourselves alive. Everything else comes second."
 
