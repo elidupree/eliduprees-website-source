@@ -426,6 +426,8 @@ I laughed in her face. "You think I have something against responsible people?! 
 
 Justicar raised an eyebrow. "I must admit, I was not expecting <em>you</em> to accuse <em>me</em> of irresponsibility."
 
+[????? Explicit that the Blood God is responsible for this ideology:]
+
 "Argh, do I have to spell it out for you?! You're telling me a story about how some people <em>forced</em> you to do what <em>they</em> told you to, by <em>punishing</em> you until you <em>gave in</em>. And you call that <em>being responsible for yourself?</em> That's not being responsible, that's – argh!" I couldn't even think of the <em>words</em> for how twisted that was. "That's just someone else making all the decisions and you doing all the work. Being responsible is making your OWN DECISIONS!! And now you just do whatever the <em>Stern God</em> wants, too! Out with the old boss, in with the new boss!"
 
 "You speak as if the Stern God's wisdom has no value."
@@ -654,6 +656,8 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "You flaunt your disinterest in the Stern, and yet you assume you can understand how it operates? The Stern God does not simply absorb the soul of any passing stranger. The corrupt are not chosen to be Justicars, and the Justicars undergo many stages of filtering and purification before the Stern God absorbs a single thread. The god and its temple have seen their procedures proven by the test of millennia. You think you know better than they? What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order, but that is a contradiction, because order is the way that people's lives are preserved. Even at the most basic level, if laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Who will even import something as vital as food?"
 
+[????? Somewhere in here, the Blood God feels like it's supposed to have a equally sophisticated ideology, but can't remember it; Rinn has to settle for the best she can come up with off the top of her head]
+
 "Get your story straight! If you're putting me in <em>charge</em>, I can just <em>tell</em> someone to import food! So don't act like you –"
 
 Justicar's voice smoothly cut through mine. She was so calm, it was like she didn't even realize what a heartless system she was defending. "Because you have seen how a tower is shaped, you imagine that you could tear one down and build another from the ruins without any tools. It is all too easy for one such as you, a child who has never lived without the benefits of law, to imagine that those benefits come for free, and are not the products of hard-fought –"
@@ -842,6 +846,8 @@ I paced back and forth, not even listening to her. I COULDN'T get distracted! No
 
 "Oh? What am I?"
 
+[????? Bit of Rinn/Blood God feelings, then: "havi," I said gravely, "you were wounded, and when you bled on things, you called it irresponsibility/the Stern can cover up the wound, but it can't heal it/you don't believe it's possible to heal, so much that you didn't understand that I could live without bleeding [implicitly: you poor thing]; but saying "I am not bleeding" breaks out of the Blood God, then there's a "you can believe what you like", and Rinn was about to say "you can still be healed", but somehow the Blood God isn't ready to say that, and gets angry at the Farseer again (maybe even as far as [I was supposed to be able to heal! You took everything away from me!]), Instead of:]
+
 I clutched my head, trying to calm my warring thoughts. I should have had something brilliant to say that would totally shut down all of Justicar's bad arguments. But now the feeling of insight was gone, leaving my mind in a jumble. Which part was me, and which part was the Blood God? Could they <em>all</em> be the Blood God? For fuck's sake, why wouldn't it just leave me OUT of its family squabbles? And now it was squabbling with <em>itself</em>, too?!
 
 "I don't know. This is stupid. Never mind."
@@ -878,7 +884,7 @@ I turned around.
 
 I kept looking at the map in my hand. Going too far in one direction took me further away from her. Going too far in the other direction also took me further away from her. I found the closest point, and glared at the wall there. On the map, the little Burning Heart was nearly touching the room Yali was in. If I could just get through this wall, Yali and I would be in the same room…
 
-"She's just beyond this wall!!" I yelled. "I will <em>not</em> be denied <em>again!</em>" I snatched a Blood Blade out of thin air and swung it against the wall.
+"She's just beyond this wall!!" I yelled. "I will <em>not</em> be denied <em>again!</em>" I snatched a Blood Blade out of thin air and swung it against the wall. [????? Somewhere in here: Yali wasn't RIGHT there, I could smash through the wall without hurting her. So I could let the Blood God go ham]
 
 The blade glanced off the wall's infinite smoothness. But I wasn't done. With my next heartbeat, another blade pulsed into my other hand. I whirled around, slashing both my blades against the wall, but every time they slid away.
 
