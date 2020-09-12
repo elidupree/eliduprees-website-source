@@ -332,9 +332,13 @@ Justicar was smiling – the smile of someone who's being patient with a little 
 
 "If you would give me a chance to explain the actual principles I follow, you would know I do not believe anything like that. It is always wrong to force yourself on someone else. But no one forced themselves on me. It was my own choice to devalue my body like that. I <em>chose</em> to allow men to use my body for their pleasure, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
 
+[????? I was in distress, I didn't want to accept what Justicar was saying but I couldn't figure out how to argue against it. But then I felt the Blood God pulsing inside me, wanting to say something. The words flowed out of me, "[good answer to Justicar's ideology]", instead of:]
+
 Up to this point, I had mostly just been messing with her. But now… a terrible ache pulled at my heart. This was deadly serious. Her words were a violation, a gaping wound, trying to twist my blood out of its course. Coldly, I stated, "That's your <em>real</em> problem. It's not the sex. It's not the drinking. It's the self-respect. But –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. If anyone doesn't treat me right, they can fuck right off. And if they don't fuck right off, I <em>make</em> them fuck right off. I'm nothing like you."
 
 Justicar raised an eyebrow. "When I was your age, I too believed that I was being assertive and empowered."
+
+[????? I knew I was right; if she couldn't see that, that was her problem. instead of:]
 
 Ugh, what was even the point of being serious with her? She was just going to keep saying fucked-up stuff either way. "Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
 
@@ -824,7 +828,7 @@ I smirked. "Nah, it just means I was right all along! I'm the one who thought, u
 
 "An interesting thought, but how was that <em>my</em> rule? Anyone could have assumed th–"
 
-I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about Javin, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
+I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about Javin, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>" [????? ugh, I did that to Morrow too, didn't I? I keep telling him not to do stupid shit, but it's not really his fault]
 
 "That is not what 'belief in the Stern' m–"
 
