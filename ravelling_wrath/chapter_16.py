@@ -9,12 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 16",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "blurb_image":"/media/ravelling-wrath/sketches/ch16.jpg?rr",
-  "authors_notes":'''
-
-
-  ''',
   "head":head,
   "chapter_title": "Soulfire",
   "contents": '''
@@ -124,7 +119,7 @@ I stared at the being in front of me.
 
 Now that I looked at it in detail, it was like an optical illusion, something that couldn't possibly exist. It was giving me a splitting headache. What – but – how – it was definitely a human! And it was definitely woven into the god! It even called itself a Farseer! But then how – how –
 
-Memories came flooding back to me. How it had worked together with that broken fragment, the one we called Neenu. How it had fought against the Justicar, even bizarrely using deception, to prevent my death. A death the Waiting God itself had planned! And how it had claimed that the Waiting God had <em>hidden</em> things from it! How had I not realized before? <em>It</em>, the one I called Yali, was just as much of a broken fragment itself! Like a damaged clock with gears running at two different speeds, like a puppet wrestling for a grip on its own strings, like a parasite using its host's own strength to devour it, it was a flaw in the Waiting God's plan, and it was ripping and tearing to widen the flaw at every chance it had.
+Memories came flooding back to me. How it had worked together with that broken fragment, the one we called Neenu. How it had fought against the Justicar, even bizarrely using deception, to prevent my death. A death the Waiting God itself had planned! And how it had claimed that the Waiting God had <em>hidden</em> things from it! How had I not realized before? <em>It</em>, the one calling itself Yali, was just as much of a broken fragment itself! Like a damaged clock with gears running at two different speeds, like a puppet wrestling for a grip on its own strings, like a parasite using its host's own strength to devour it, it was a flaw in the Waiting God's plan, and it was ripping and tearing to widen the flaw at every chance it had.
 
 I tried to shift my focus, to look at the different parts of it. It was hard, because they were woven together so tightly. Every time I tried to see where one ended and the other began, it seemed to shimmer and shift. But slowly, I began to make sense of the shapes. The place where the transcendent web of the god twisted and meshed with… the other part. The human. Yali, I guess.
 
@@ -132,7 +127,7 @@ So Yali was the one I was talking to… Now that I thought about it, what should
 
 "I believe you," she said. "Can you give me more details? How does the Waiting God kill you each year? How did it start? And you said it destroyed your temple, how did that happen?"
 
-I couldn't believe it. I was actually going to do this. I was actually talking to her. I was the Blood God, and I was <em>talking</em> to her! A peal of laughter burst from me, a sudden release of a tension deep inside. I doubled over laughing, laughing until I cried, straining the muscles in my sides and barely holding myself up. I gasped out, "I thought I could never live with me because I was trying to kill you! And <em>I</em> thought I could never live with <em>me</em> because I kept stopping me from doing anything to you! But <em>you weren't you all along!!</em> Ha ha ha ha hahahaha haha – urk –"
+I couldn't believe it. I was actually going to do this. I was actually talking to her. I was the Blood God, and I was <em>talking</em> to her! A peal of laughter burst from me, a sudden release of a tension deep inside. I doubled over laughing, laughing until I cried, straining the muscles in my sides and barely holding myself up. I gasped out, "I thought I could never live with me because I was trying to kill you! And <em>I</em> thought I could never live with <em>me</em> because I kept stopping me from hurting you! But <em>you weren't you all along!!</em> Ha ha ha ha hahahaha haha – urk –"
 
 "Steady there. Breathe." Yali tried to hold me up. I took a minute to get myself under control, tears of laughter still leaking from my eyes. "Can you, can you, say that again, but, but, but –"
 
@@ -371,7 +366,7 @@ I looked back at her with dismay. It made sense, but – "I meant about the Bloo
 
 "Rinn. Listen to me." She was deadly serious. "I know you feel like, feel like, feel like the god is part of you now. But you have to remember who you are. Are you forgetting how it tried to make you kill me?"
 
-"Of course I'm not forgetting that! That was fucked up! But it's being killed right in front of us! I'm not going to lecture someone for lashing out when they're <em>still in the middle of being killed</em>! We have to <em>do</em> something!"
+"Of course I'm not forgetting that! That was fucked up! But it's being killed right in front of us!" The word <em>killed</em> felt wrong – <em>killing</em> was something that happened to humans, not gods. But I wasn't sure what else to say. There <em>wasn't</em> a word for eliminating a god, because that wasn't something that ever happened. "I'm not going to lecture someone for lashing out when they're <em>still in the middle of being killed</em>! We have to <em>do</em> something!"
 
 "Rinn. What we have to do is keep ourselves alive. Everything else comes second."
 
@@ -415,7 +410,7 @@ We both whirled around, looking for the danger, but it turned out it was just co
 
 "That must have been –" Yali tried to catch her breath from being startled. "I set a timer earlier. Based on what I Saw, Alchemist will be back soon. We must have copied the phone after I set it –"
 
-As soon as she mentioned Alchemist, a whole another set of memories stampeded into my brain, fighting with the Blood God ones for space. "Oh shit, I almost forgot about the whole thing with Morrow!! We've been spending this whole time dealing with the god stuff, we still haven't figured out how to save Morrow! We've gotta –"
+As soon as she mentioned Alchemist, a whole another set of memories stampeded into my brain, fighting with the Blood God ones for space. "Oh shit, I almost forgot about the whole thing with Morrow!! We've been spending this whole time dealing with <em>our</em> god stuff, we still haven't figured out how to save Morrow! We've gotta –"
 
 "Wait," said Yali. "Your, your relationship with the Blood God is important. It didn't sound like this was a good time to interrupt our conversation."
 

@@ -734,7 +734,7 @@ def post_dict_html(post_dict, stream_only = False):
   if "long_story_name" in post_dict:
     bar = long_story_navbar (post_dict)
     contents = bar + "<bigbreak>"+ contents + "<bigbreak>"+  bar
-  (body, head) = post_html(contents, post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories", allow_comments = ("disallow_comments" not in post_dict), Patreon_type = ("story" if (post_dict["category"] == "stories" or "parent_story" in post_dict) else "blog"))
+  (body, head) = post_html(contents, post_dict["title"], post_permalink(post_dict), post_dict["tags"] if "tags" in post_dict else None, "story" if post_dict["category"] == "stories" else stream_only, post_metadata(post_dict), post_dict["category"] != "stories", allow_comments = ("disallow_comments" not in post_dict), Patreon_type = ("story" if (post_dict["category"] == "stories" or "parent_story" in post_dict) else "blog"), post_class = post_dict.get("post_class"))
   if "head" in post_dict:
     head = head + post_dict ["head"]
   return (body, head)  
@@ -790,7 +790,11 @@ def long_story_navbar(post):
   '''+ first +previous +archive+next +latest+'''
 </div>'''
 
-def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True, allow_comments = True, Patreon_type = "blog"):
+def post_html(contents, title, permalink, taglist, stream_only, metadata, scrutinize = True, allow_comments = True, Patreon_type = "blog", post_class = None):
+  if post_class is None:
+    post_class = ""
+  else:
+    post_class = " " + post_class
   head = []
   post_content = blog_server_shared.postprocess_post_string(contents, metadata["id"], title, False, scrutinize)[0]
   
@@ -842,7 +846,7 @@ html.transcript_hidden_'''+ transcript_identifier_string +''' #hide_transcript_b
   for i in range(0, len(post_content_sections)):
     post_content_sections[i] = '<div class="post_content_section">'+post_content_sections[i]+'</div>'
   return ('''
-<div '''+id_str+''' class="blog_post">
+<div '''+id_str+''' class="blog_post'''+post_class+'''">
   '''+(''.join(post_content_sections))+'''
 </div>'''+metadata_and_comments_section_html(title, permalink, taglist, stream_only, metadata, allow_comments = allow_comments, Patreon_type = Patreon_type), "".join (head))
 

@@ -9,13 +9,9 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 17",
   "auto_paragraphs": True,
-  "don't deploy": True,
-  "authors_notes":'''
-
-
-  ''',
   "head":head,
   "chapter_title": "Unravelled", 
+  "content_warnings": "<p>Graphic descriptions of physical injuries; self-harm, negative self-talk, and suicidality; brief mentions of animal abuse.</p>",
   "contents": '''
   
 It wasn't much longer before I heard the branches rustling from Alchemist getting close to us. I got up and peered towards the sound, and pretty soon I spotted their cute head bobbing in and out of the leaves. They picked their way through the bushes along the shore of the brook, occasionally giving a nervous glance into the bloodstained water.
@@ -262,7 +258,7 @@ I laughed. It came out louder than I expected. "That's pretty reassuring, coming
 
 "Alright, let's do this thing." I threw my head back and howled into the air, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow radiating from every muscle. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
 
-The ravine was narrow and cut deep into the ground, not leaving much room to walk at the edge of the little brook that ran along its length. Where there <em>was</em> room, spindly, twisted trees hogged up the shore. But the water wasn't much deeper than my foot. I confidently strode down the middle, splashing it aside. When it soaked my shoes, I just unmanifested them and walked barefoot in the cold stream, my soulfire keeping me warm.
+The ravine was narrow and cut deep into the ground. A little brook ran along its length, not leaving much room to walk alongside it. Where there <em>was</em> room, spindly, twisted trees hogged up the shore. But the water wasn't much deeper than my foot. I confidently strode down the middle, splashing it aside. When it soaked my shoes, I just unmanifested them and walked barefoot in the cold stream, my soulfire keeping me warm.
 
 As I got closer, the forest swam around me. It felt like the world was unstable, trying to make me forget which way was up and which way was down. But from inside my soulfire, it didn't seem so threatening. I was a transcendent pillar of flame. I knew exactly where <em>I</em> was. It was just the rest of the world that was having trouble.
 
@@ -396,7 +392,7 @@ I prodded Morrow with my foot.
 
 At least he was still breathing. He didn't look like he was in good shape though. His neck was limp, his mouth was hanging open, and he was kind of drooling on himself.
 
-At this point, he'd been lying still for long enough that there probably weren't going to be any more surprises. I lowered my soulfire. That was kind of a relief. Soulfire felt totally amazing, but after feeling totally amazing for a long time in a row, sometimes it felt better to just relax.
+At this point, he'd been lying still for a while, so there probably weren't going to be any more surprises. I lowered my soulfire. That was kind of a relief. Soulfire felt totally amazing, but after feeling totally amazing for a long time in a row, sometimes it felt better to just relax.
 
 Now what? We hadn't really talked about what to do <em>after</em> he drank the potion, other than making sure he didn't die. I decided I should probably take him back to the others.
 
@@ -412,11 +408,11 @@ When I got back to Yali and Alchemist, they were already standing to greet me. Y
 
 "Oh yeah, that's a good point."
 
-When I got close, Alchemist hurried to check on Morrow. It was pretty awkward with me still carrying him over my shoulder. "Oy, let me put him down first!" I said. I shoved Alchemist back a bit, manifested a mattress and slung Morrow down onto it.
+When I got close, Alchemist crowded up next to me to check on Morrow. "Oy, let me put him down first," I laughed. I held Alchemist back, manifested a mattress, and slung Morrow down onto it.
 
-As Alchemist crouched over him to check his vital signs, Yali looked down at him from above, her face twisted with contempt. "I don't believe there is any risk that I will attack him again," she said, "but after he wakes up, things will be much easier if he is kept a good distance away from me."
+As Alchemist crouched over him to check his vital signs, Yali looked down at him from above, her expression sour with contempt. "I don't believe there is any risk that I will attack him again," she said. "But after he wakes up, things will be much easier if he is kept a good distance away from me."
 
-"Sure, we can do that. Right, Alchemist?"
+"Sure, we can do that," I said. "Right, Alchemist?"
 
 "Oh… yes, I can, keep him away from <em>you</em>…" Alchemist's voice wavered between empathy and resentment. The tension between Yali and Alchemist was tearing my heart into pieces. But both of their emotions were real and important. There was nothing I could do to just make it go away.
 
@@ -472,9 +468,9 @@ Yali frowned. "I, I –" she said in a quiet voice, "I'm not sure it's the whole
 
 "Are you kidding me," I said.
 
-"The Stern God values conviction and sacrifice. Both Justicar and I will sacrifice anything to achieve our goals. Both of us will destroy anyone we have to. The only difference is that Justicar will stop at the gods, and I will not."
+"The Stern God values conviction and sacrifice. Both Justicar and I will sacrifice anything to achieve our goals. Both of us will destroy anyone we have to. The only difference is that Justicar will stop at the gods, and I will not. And so, and so… even if she's my enemy, it's hard for me to hate her when we share so much of the Stern God inside us."
 
-"Okay, but how is that Stern? Anyone can fight for what they believe in, that's not just the Stern God. The Stern God is about, like, obeying the law and shit."
+"But anyone can fight for what they believe in, that's not just the Stern God. The Stern God is about, like, obeying the law and shit."
 
 "Rinn. Rinn. Listen," said Yali softly. She squeezed my hand. "The Stern doesn't have to be about sacrificing what you care about just to be obedient to someone else. It can also be about sacrificing… unimportant things… to get what you truly want."
 
@@ -506,9 +502,9 @@ My words caught in my throat. It was true. A life where you couldn't just enjoy 
 
 A few hours later, Alchemist wandered back to us, leaving Morrow out ahead.
 
-Dry leaves blew past on a chilly wind, clearing the dust and fog from the air. Our boots were covered in mud from walking over slimy ground. It was a slow, squelching walk, pulling up our feet one after another. When Alchemist got back to us, Alchemist and I greeted each other with a comfortable hug, softly rubbing our cheeks together.
+Dry leaves blew past on a chilly wind, clearing the dust and fog from the air. Our boots were covered in mud from walking over slimy ground. It was a slow, squelching walk, pulling up our feet one after another. When Alchemist got close to me, we greeted each other with a comfortable hug, softly rubbing our cheeks together.
 
-"I don't know what to do," said Alchemist despondently. "I don't know what to say… He's…" They gestured vaguely in the air. Floating leaves formed into a picture of Morrow, sprawled out and twisted into several pieces. I knew instantly what it meant.
+"I don't know what to do," said Alchemist despondently. "I don't know what to say… He's…" They gestured vaguely in the air. Floating leaves formed into a picture of Morrow, sprawled out and twisted into several pieces. It was obvious what it meant.
 
 "Have fun with that," muttered Yali.
 
@@ -552,9 +548,9 @@ After a while of us just crunching through the leaves, Morrow broke the silence.
 
 I sized him up, deciding how to answer that. Alchemist would probably have wanted me to soften the truth. But if I did that, I would feel like I was bullshitting him. And even if I did, he would probably just keep digging until he got the truth out of me.
 
-"You pretty much did," I said. "You fucked up real bad, and you hurt all three of us. And it could've been a lot worse if we hadn't all worked together to save you. But it's over now. You don't have to hurt anyone anymore."
+"You pretty much did," I said. "You fucked up real bad, and you hurt all three of us. And it could've been a lot worse if we hadn't all worked together to save you. But –" I grabbed his shoulder and made him look at me. "– it's <em>over</em> now. You don't have to hurt anyone anymore."
 
-Morrow pushed his hands through his hair and weakly pulled on it, as if he was trying to rip his hair out but couldn't summon up the energy to do it. It was kinda heartbreaking. Before long, he dropped his hands limply at his sides again. "I knew it…" he muttered. "I'm so fucked up…"
+Morrow pushed his hands through his hair and weakly pulled on it. It was like he was trying to rip his hair out, but couldn't summon up the energy to do it. It was kinda heartbreaking. Before long, he dropped his hands limply at his sides again. "I knew it…" he muttered. "I'm so fucked up…"
 
 "It wasn't all your fault! It was the Seeking God. It –"
 
@@ -574,11 +570,11 @@ Shit! I hadn't considered that Morrow might not know about Yali seeing his memor
 
 "Yeah, she said you were just mimicking the behaviors you saw from your dad, you're not –"
 
-"What about Jaroc? He was a good kid! He was generous! We were together for months, we slept under the same blanket when it was cold! But one night when he was sleeping, I took all his money and left him there! I never saw him again, I don't know if he's alive or –"
+"What about Jaroc? He was a good kid! He was generous! We were together for months, we slept under the same blanket in the cold! But one night when he was sleeping, I took all his money and left him there! I never saw him again, I don't know if he's alive or –"
 
 Yali had mentioned someone like that. "You were hungry! I'm not gonna judge –"
 
-Morrow stopped walking. He shook, frustration fighting against despondency. "Why won't you just believe how bad I am?!" he blurted. "I've always hurt everyone around me! When I was a kid it was my mom and dad, when I –"
+Morrow stopped walking. He shook, frustration fighting against despondency. "Why won't you just believe how bad I am?!" he blurted. "I've always hurt everyone around me! My parents, my friends, everyone I –"
 
 "Isn't your dad the one who abused you? Who gives a shit what happens to him?!"
 
@@ -590,7 +586,7 @@ Morrow stared at me blankly.
 
 "You got a raw deal!" I said. "I <em>care</em> about people who got a raw deal!"
 
-Morrow shook his head repeatedly, as if he was trying to shake my words off of him. But he couldn't. His eyebrows pinched together, his face covered with a slow stress. It somehow made me feel bad for him even more than everything from before.
+Morrow shook his head repeatedly, as if he was trying to shake my words off of him. But he couldn't. His eyebrows pinched together, his face covered with a slow stress. I was already feeling bad for him, but somehow, seeing him look like this made me feel it even more.
 
 "So…" he said emotionlessly, "you know about everything… and you're not treating me like trash…"
 
@@ -642,7 +638,7 @@ Morrow sobbed, curling into a fetal position in my arms. "I don't want to keep f
 
 We sat together like that for a while, huddled together, hands on each other's hearts. I manifested some big pillows for us to lean against. Slowly, I felt a bit of the tension leave Morrow's body. A few of his muscles twitched, then went limp against me. He stared down at his legs, slowly crying, occasionally manifesting big candy bars to chew on.
 
-Finally, Morrow spoke, talking to his knees, mumbling through a mouthful of candy. "No, no, no, I don't believe you…" he said. But he was almost laughing as he said it. It was like he was saying it just to say it, going through the motions of denying it because that was what he always did. He twisted around and gave me an awkward hug, squeezing me tight. "Everything you just said is bullshit, and I hate you," he laughed. "My feelings aren't real, and your Blood God is a bunch of baloney. And when I looked to my heart, which I didn't do, I <em>definitely</em> didn't feel something. No way. Nope, definitely don't need the Blood God to heal me. So you're wasting your time. Yeah! Totally wasted!"
+Finally, Morrow spoke, talking to his knees, mumbling through a mouthful of candy. "No, no, no, I don't believe you…" he said. But he was almost laughing as he said it. It was like he was saying it just to say it, going through the motions of denying it because that was what he always did. He twisted around and gave me an awkward hug, squeezing me tight. "Everything you just said is bullshit, and I hate you," he laughed. "My feelings aren't real, and your Blood God is a bunch of baloney. And when I looked to my heart, which I didn't do, I <em>definitely</em> didn't feel anything. No way. Nope, definitely don't need the Blood God to heal me. So you're wasting your time. Yeah! Totally wasted!"
 
 I hugged him back. "I am <em>so</em> glad to hear you say that."
 
@@ -812,7 +808,7 @@ Of course, eventually, Yali decided it was time for us to get moving. We followe
 
 Soon, the portal loomed out of the mist, a black and shimmering expanse where a hillside should be. Alchemist and Morrow were already sitting near it, huddling together on a pile of blankets.
 
-Before we went in, we made a lot of plans about what to do in the next layer. It was a little awkward because of everyone's relationships – Yali refused to go anywhere near Morrow, but we needed to include Alchemist in the planning, and Alchemist didn't want to leave Morrow all by himself. But eventually we found some compromises.
+Before we all went in, we made a lot of plans about what to do in the next layer. It was a little awkward because of everyone's relationships – Yali refused to go anywhere near Morrow, but we needed to include Alchemist in the planning, and Alchemist didn't want to leave Morrow all by himself. But eventually we found some compromises.
 
 Yali asked Alchemist to make some more potions for her, and a few potions for me as well. The ones they gave <em>me</em> were mostly for sneaking around – making me turn invisible and fly quickly and quietly. "I think the Blood God might let us arrive in the same place in its world," said Yali, "but if it doesn't, I want you to avoid Justicar for as long as you can. Just stay hidden and let me find you. If it comes to a fight, I wish I could give you fighting potions, but it's no use. The most important thing in a fight will be your soulfire, and your soulfire will purge any potions from your system anyway."
 

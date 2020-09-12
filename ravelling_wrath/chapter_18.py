@@ -9,14 +9,10 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 18",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "blurb_image": "/media/ravelling-wrath/sketches/burning-heart-ornate.jpg?rr",
-  "authors_notes":'''
-
-
-  ''',
   "head":head,
   "chapter_title": "The Reckoning",
+  "content_warnings": "<p>Combat and fear of death; protagonists having to kill someone in self-defense, with physical details of the death.</p>",
   "contents": '''
 
 <img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/burning-heart-ornate.jpg?rr" alt="">
@@ -155,7 +151,7 @@ Yali did not raise her voice. She answered with utter calm, as solemn as a pries
 
 Justicar struck out towards Yali like lightning. But somehow, her sword didn't go in the right direction. Yali had already sidestepped the blow. In the next instant, Justicar recovered and took another swing. But no matter how many times the sword slashed and stabbed, it didn't come close to Yali's body. Yali kept calmly stepping out of the way, using small, simple movements to avoid every attack. It made Justicar look clumsy and awkward. All at once, I realized what was going on. Yali was using her powers to see exactly where Justicar was going to strike next.
 
-But this was no time for me to get distracted by the spectacle. Yali was creating a delay for me, and she trusted me to make it count. I focused on my arm and leg, forcing more and more energy into them. But it was like a bottomless well. My flesh was still there, but the soul was damaged so badly it was like trying to build a new arm and leg from nothing.
+But this was no time for me to lose myself in the spectacle. Yali was creating a delay for me, and she trusted me to make it count. I focused on my arm and leg, forcing more and more energy into them. But it was like a bottomless well. My flesh was still there, but the soul was damaged so badly it was like trying to build a new arm and leg from nothing.
 
 While I worked, I kept half an eye on the battle in the street. Yali and Justicar were at a standstill. As much as the sword darted and flashed, it had no chance of escaping Yali's awareness. But equally, Justicar continued with a disciplined series of strikes, showing no sign of tiring or slowing down. The deadly dance was mesmerizing. My eyes almost got lost in the movement. But one thing was changing. Every few seconds, the dance slid half a step closer to me. I could see Yali maneuvering to slow down Justicar's advance, but there was only so much she could do. Justicar could not be stopped from advancing towards me.
 
@@ -203,7 +199,7 @@ Justicar struggled to regain her footing. Yali slammed her again, knocking her d
 
 "It is the Stern God's will that even if all seems hopeless, we still fight for what is right!"
 
-"And yet the Stern God also asks that we <em>yield when we must yield, even if it costs our pride.</em>
+"And yet the Stern God also asks that we <em>yield when we must yield, even if it costs our pride.</em>"
  
 "You dare quote the Stern God's prayer to me?! Now is no time for me to yield! Human lives hang in the balance. You would have me believe I cannot save any of them, but I cannot accept –"
 
@@ -215,7 +211,7 @@ I could feel Yali tense up, steeling herself for Justicar's next move. She knew 
 
 It was like time froze. The words hung in the air. <em>No,</em> I screamed inwardly. I could practically see how Justicar was going to react, for a terrible moment before it happened. <em>No, Yali! Use any other way to convince her, but not that!</em> What Yali had said was so logical, so right, even the Stern God should have admitted it. No matter what else happened, at least Havi, the Justicar, would not have to die.
 
-But I knew Havi's heart. Every time she had been in pain, when she could not bear to live with herself, she had reached out for the Stern, to erase her selfish feelings and replace them with the Stern God's will. And as she became the Justicar, every time the Stern God had asked her to erase herself, she had said yes. But now, when even the Stern God would tell her she mattered, it was the one thing she could not accept. She had become one with the living god, just as I had. She had felt the raw conviction of being a vessel for the Stern God's perfect will. And now she could never willingly go back to her life as a human being, a creature that could suffer and be pitied. And so this final decision, the decision that would end Justicar's life, was not made by the Stern God overruling her human will, but by the fragments of human will that still remained, still clinging to the lie that the Stern God held every answer.
+But I knew Havi's heart. Every time she had been in pain, when she could not bear to live with herself, she had reached out for the Stern, to erase her selfish feelings and replace them with the Stern God's will. Maybe in another world, the Blood Temple could have been there to show her a different way, but what had been done could not be undone. And as she became the Justicar, every time the Stern God had asked her to erase herself, she had said yes. But now, when even the Stern God would tell her she mattered, it was the one thing she could not accept. She had become one with the living god, just as I had. She had felt the raw conviction of being a vessel for the Stern God's perfect will. And now she could never willingly go back to her life as a human being, a creature that could suffer and be pitied. And so this final decision, the decision that would end Justicar's life, was not made by the Stern God overruling her human will, but by the fragments of human will that still remained, still clinging to the lie that the Stern God held every answer.
 
 Justicar leapt to her feet, springing away from Yali. From where she stood, another pulse of power rolled outwards in all directions. It thundered through my head, forcing me to hold on tight to my consciousness. Yali tried to rush Justicar again, but even as she pushed against the air, she was held back, as if a great wind was blowing from Justicar's body. Justicar stood alone atop the heap of rubble. She was a gleaming suit of armor that drove everything away from herself.
 
