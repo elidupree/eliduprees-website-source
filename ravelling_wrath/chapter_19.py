@@ -9,14 +9,10 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 19",
   "auto_paragraphs": True,
-  "don't deploy": True,
   "blurb_image":"/media/ravelling-wrath/sketches/ch19.jpg?rr",
-  "authors_notes":'''
-
-
-  ''',
   "post_class": "yali-narration",
   "head":head,  "chapter_title": "The Waiting God",
+  "content_warnings": "<p>Detailed narration from the point of view of a character with PTSD, processing strong feelings and thinking about abuse.</p>",
   "contents": '''
 
 Two bodies lay before me. One dead, one only unconscious, both my doing. One Justicar. One Rinn.
