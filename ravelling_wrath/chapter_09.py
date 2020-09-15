@@ -384,7 +384,7 @@ I made a grab for the phone. At the same instant, Morrow made a wild gesture wit
 
 Enraged, I turned and smacked Morrow across the face, hard.
 
-Morrow covered his head and cowered away from me. I stood over him, not even caring how he felt anymore. I felt so humiliated. I wanted to hit him again. "I've been trying to help you, and this is what you give me?!" I exploded.
+Morrow covered his head and cowered away from me. I stood over him, not even caring how he felt anymore. I felt so humiliated. I wanted to hit him again. "You asked me to help you, and this is what you give me for trying?!" I exploded.
 
 Morrow kept his head down and whimpered, "I'm a piece of shit, I'm such a piece of shit…"
 
@@ -396,7 +396,7 @@ Morrow grinned up at me. "I'm less important than the phone," he said.
 
 What in the Endless was I going to do with him? The thought of trying to be nice again just made me rage harder. I suppressed the urge to kick him. Instead, I folded my arms again and leaned against the opposite wall.
 
-This sucked. I felt like I was betraying myself again, letting Morrow get away with it. I needed <em>some</em> way to make my rage <em>mean</em> something. "Okay, listen," I barked, "Here's how we're going to do this. I'll stay over here. You stay over there. We're just going to sit here and not do anything until the god lets us out. Got it?"
+This sucked. I felt like I was betraying myself again, like I was just <em>letting</em> Morrow break my stuff and get away with it. I needed <em>some</em> way to make my rage <em>mean</em> something. "Okay, listen," I barked, "Here's how we're going to do this. I'll stay over here. You stay over there. We're just going to sit here and not do anything until the god lets us out. Got it?"
 
 Morrow breathed hard, but didn't try to move or speak.
 
