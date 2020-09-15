@@ -14,6 +14,7 @@ posts = [
 
 
   ''',
+  "post_class": "yali-narration",
   "head":head,
   "chapter_title": "The Blood Temple",
   "contents": '''
