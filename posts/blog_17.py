@@ -634,6 +634,22 @@ Assuming the surgery happens the way I'm expecting, I intend to bring back the s
 ''',
 },
 {
+"title": "No chapter of Ravelling Wrath today",
+"tags": [],
+"auto_paragraphs": True,
+"ignore_for_random_post": True,
+"ignore_for_page_numbering": True,
+"blurb": "",
+"contents":'''
+
+I've been a little sick for a couple weeks, so I've gotten behind on editing. I'm recovering, and yesterday, I opened up Chapter 20 to do a final editing pass – only to realize that Chapter 20 has significant structural problems that I'll need more than one day to fix! Oops.
+
+I'm hoping to have it ready for next Wednesday, simply delaying the schedule by one week.
+
+
+''',
+},
+{
 "title": "Vampire ecology",
 "tags": [],
 "auto_paragraphs": True,
