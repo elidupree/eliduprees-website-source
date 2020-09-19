@@ -48,7 +48,7 @@ As Yali, I pulled myself out of the memory. Many of the Farseers were tiresome t
 
 He had thought of a <em>case</em>. A case he had been involved with as a lawyer, one that was related to the Blood Temple.
 
-It started as an ordinary shoplifting case, which should have been nothing more than a small loss for us at Hatheraw & Green. And that was all it would have been, if it hadn't been for Mr. Tully's insistence on micromanaging me. And then he'd had the nerve to blame <em>me</em> for what happened! I could still hear his voice ringing in my ears from when he fired me – "I told you to get them arrested, not to bring all of this politics down on us! I will personally make sure you never work in this industry again!" And that shrill Blood Temple judge – "Did you learn Blood law from a book? You subvert the meaning of justice!" Curse them all.
+It started as an ordinary shoplifting case. For us at Hatheraw & Green, a petty theft from one of our storefronts should have been nothing more than a small loss for us. And that was all it would have been, if it hadn't been for Mr. Tully's insistence on micromanaging me. And then he'd had the nerve to blame <em>me</em> for what happened! I could still hear his voice ringing in my ears from when he fired me – "I told you to get them arrested, not to bring all of this politics down on us! I will personally make sure you never work in this industry again!" And that shrill Blood Temple judge – "Did you learn Blood law from a book? You subvert the meaning of justice!" Curse them all.
 
 I should have known from the beginning that Mr. Tully was bad news. He had been CEO of Hatheraw & Green for only two months, while I had worked there for twenty years, but he insisted on lording his position over me. He hated me because I was professional where he was crass. He made me report to him on every little detail of every case – like that one.
 
@@ -76,9 +76,17 @@ It was irritating to be working at Mr. Tully's "orders". He couldn't <em>order</
 
 A lawyer of my position shouldn't have been handling <em>these</em> cases in the first place – they were beneath my dignity. But we needed something to justify it to the Waiting. Years ago, I had been "promoted" into a different job title so that Hatheraw & Green could take advantage of a new subsidy from the Waiting Temple, a subsidy for legal services that "contribute to maintaining the order of the city". So now, a certain percentage of my caseload each year was required to fall within the Waiting criteria. Having me work on routine shoplifting cases like these was less valuable to the company, but it was a reliable way to qualify.
 
+<em>The Waiting.</em> As Yali, I paid close attention. ?????'s actions were being influenced by the Waiting Temple. This was exactly what I was looking for.
+
 <em>Anyone</em> in my position would have rankled at being seen as <em>less valuable to the company</em>, especially in front of Mr. Tully. I would <em>show</em> him how valuable I could be, I thought. I would take the cases to Blood court and win. And then he wouldn't underestimate me again.
 
-So, when I sat down with my books to study Blood law, I was determined to find something that others had missed.
+So, when I sat down with my books to study Blood law, I was determined to find something that others had missed. But I hadn't been able to call it <em>?????</em> without connecting it to ?????'s blood – oh gods, I should never have given the Speaker the reason to go after us! I should never have –
+
+<em>?????</em> knew what those terms meant, but <em>I</em> didn't. And it was harder to study from the later memories that were caught up in humiliation and vindictiveness. I stopped and fished for different ones, to try and learn what he knew about Blood law <em>before</em> he rewrote his interpretation of it.
+
+Luckily, it wasn't too difficult. Once I found <em>one</em> memory he hadn't rewritten, it led to another one, and another. And when he was actually studying law,
+
+<bigbreak>
 
 [????? this long passage fails promise theory, can we have Yali add promises?]
 
