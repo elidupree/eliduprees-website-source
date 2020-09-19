@@ -107,7 +107,7 @@ status_description ='''
 
 Current status of this novel:
 
-All twenty-one chapters have been written! I haven't posted them yet – there is still editing work left to do – but I can now commit to a <strong>regular schedule</strong>. I will post one chapter a week, on Wednesday evenings. By this schedule, the entire novel will be available on September 23, 2020!
+All twenty-one chapters have been written! I haven't posted them all yet – there is still editing work left to do. Unfortunately, I've gotten slightly behind on the editing. I'm currently hoping to have chapter 20 ready by September 23, 2020, and chapter 21 the week after that.
 
 Meanwhile, Sarah Fensore and I are hard at work on making illustrations! Most of them aren't complete yet, but I'm including our sketches in the story for now, and I'll replace them with the completed drawings as we complete them.
 

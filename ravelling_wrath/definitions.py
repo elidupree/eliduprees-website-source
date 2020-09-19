@@ -64,7 +64,7 @@ p.text.left {
 div.blog_post p {
   font-family: '"""+rinn_font+"""', serif;
 }
-div.blog_post.yali-narration p, .yali-narration.yali-narration.yali-narration.yali-narration p {
+div.blog_post.yali-narration p, .yali-narration.yali-narration.yali-narration p {
   /*font-family: Georgia, serif;*/
   font-family: '"""+yali_font+"""', serif;
   /*font-style: italic;*/
@@ -72,7 +72,7 @@ div.blog_post.yali-narration p, .yali-narration.yali-narration.yali-narration.ya
 /*.yali-narration em {
 font-weight: bold;
 }*/
-div.novel-current-status p, div.table_of_contents, div.table_of_contents p, div.hidden_cws, div.hidden_cws p, div.main_content_warnings p {
+div.novel-current-status.novel-current-status.novel-current-status p, div.table_of_contents, div.table_of_contents p, div.hidden_cws, div.hidden_cws.hidden_cws.hidden_cws p, div.main_content_warnings p {
   font-family: Arial, Helvetica, sans-serif;
 }
 .prayer {

@@ -336,7 +336,9 @@ I could tell denial when I saw it. I leaned back, crossed my arms, and watched h
 
 "Well I don't NEED any HELP!! I'm fine, FINE, FINE!!" He turned and smashed his face into the wall, then reared back to do it again.
 
-"What the fuck!! You can't smash your head on the wall, you'll give yourself brain damage!" I ran and grabbed his hair, yanking him back away from the wall to stop him. He twisted wildly in all directions, trying to get away from me. But even though he was bigger and more frenzied than me, he was pathetically weak. Grappling with him, it felt like he had more bones than flesh. Pretty soon, I had him pinned in a position where at least he couldn't hurt his head anymore.
+"What the fuck!! You can't smash your head on the wall, you'll give yourself brain damage!" But he wasn't stopping. Shit, I had to do something – and fast! I rushed forward and grabbed his hair, yanking him back away from the wall. It didn't feel like the right thing to do, but I didn't have time to think – he was going to get seriously hurt!
+
+Morrow twisted wildly in all directions, trying to get away from me. But even though he was bigger and more frenzied than me, he was pathetically weak. Grappling with him, it felt like he had more bones than flesh. Pretty soon, I had him pinned in a position where at least he couldn't hurt his head anymore.
 
 "Make it stop, help me, make it stop," he sobbed. "Help me!!"
 
@@ -350,7 +352,7 @@ I <em>could</em> have just kept holding onto him for the next eight hours. That 
 
 "Raylie can't see me like this!! He'd be so worried and scared! I'm such a piece of shit! I don't deserve for anyone to like me!!" Morrow struggled wildly against my grip. "Let me go!!" he screamed.
 
-"Dude, I'm not going to let you go if you're going to hurt yourself," I said. "Look, just don't think about Alchemist, okay? Forget I said anything."
+"Dude! I'm not going to let you go if you're going to hurt yourself!" I said. "Look, just don't think about Alchemist, okay? Forget I said anything."
 
 "Yeah that's helpful, I'm going to forget it right now!!"
 
@@ -384,7 +386,7 @@ I made a grab for the phone. At the same instant, Morrow made a wild gesture wit
 
 Enraged, I turned and smacked Morrow across the face, hard.
 
-Morrow covered his head and cowered away from me. I stood over him, not even caring how he felt anymore. I felt so humiliated. I wanted to hit him again. "I've been trying to help you, and this is what you give me?!" I exploded.
+Morrow covered his head and cowered away from me. I stood over him, not even caring how he felt anymore. I felt so humiliated. I wanted to hit him again. "You asked me to help you, and this is what you give me for trying?!" I exploded.
 
 Morrow kept his head down and whimpered, "I'm a piece of shit, I'm such a piece of shit…"
 
@@ -396,7 +398,7 @@ Morrow grinned up at me. "I'm less important than the phone," he said.
 
 What in the Endless was I going to do with him? The thought of trying to be nice again just made me rage harder. I suppressed the urge to kick him. Instead, I folded my arms again and leaned against the opposite wall.
 
-This sucked. I felt like I was betraying myself again, letting Morrow get away with it. I needed <em>some</em> way to make my rage <em>mean</em> something. "Okay, listen," I barked, "Here's how we're going to do this. I'll stay over here. You stay over there. We're just going to sit here and not do anything until the god lets us out. Got it?"
+This sucked. I felt like I was betraying myself again, like I was just <em>letting</em> Morrow break my stuff and get away with it. I needed <em>some</em> way to make my rage <em>mean</em> something. "Okay, listen," I barked, "Here's how we're going to do this. I'll stay over here. You stay over there. We're just going to sit here and not do anything until the god lets us out. Got it?"
 
 Morrow breathed hard, but didn't try to move or speak.
 
