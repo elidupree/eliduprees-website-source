@@ -102,24 +102,23 @@ But I was interested in <em>property</em> crimes.
 
 Under Blood law, a theft <em>could</em> be a violation of blood, but only in proportion to the strength of the connection between the victim and the object stolen from them. You couldn't have ownership of an object you had never seen or touched. So if local employees were the only ones who had handled the goods before they were stolen, then they were the only ones able to have an <em>awakening</em> and get revenge.
 
-And if I was hoping to use that as my strategy, my hopes were quickly dashed. If employees were able to "own" the goods, then they could simply walk off with the goods themselves, and the Blood Temple would be obliged to defend their right to do so. So, in historical negotiations, the Blood Temple had promised – as a <em>concession</em> to the Stern – that it would consider the goods <em>unowned</em>, in any corporation established under Stern authority. And therefore, the Blood Templeton tolerate the Stern Temple prosecuting thefts, but the thefts could never be violations of blood.
+And if I was hoping to use that as my strategy, my hopes were quickly dashed. If employees were able to "own" the goods, then they could simply walk off with the goods themselves, and the Blood Temple would be obliged to defend their right to do so. So, in historical negotiations, the Blood Temple had promised – as a <em>concession</em> to the Stern – that it would consider the goods <em>unowned</em>, in any corporation established under Stern authority. And therefore, the Blood Temple could tolerate the Stern Temple prosecuting thefts, but the thefts could never be violations of blood.
 
 At least this kind of nonsense still had clear rules. It wasn't so different from Stern law, full of impossible situations created by historical compromises, from which it was my job to find ways out.
 
 – No, not <em>nonsense</em>. I couldn't let ?????'s opinions get into my head. If this was about Blood, <em>I</em> had to find the <em>good</em> in it. Could I see the good in this? Not yet… I needed the full picture first.
 
-
-
-
-Even once there was a <em>violation of blood</em>, it still wasn't necessarily a crime. Or, to be precise, it wasn't necessarily <em>lowari</em>. Blood law described four types of violation – <em>????</em>, <em>????</em>, <em>chet</em>, and <em>lowari</em>. And the Temple would only punish <em>lowari</em>, even though the distinctions between the types were subtle and subjective.
+Once there was a violation of blood, you had to decide which of the four <em>types</em> of violation it was: <em>????</em>, <em>????</em>, <em>chet</em>, or <em>lowari</em>.
 
 The lowest type of violation was <em>????</em>, a mistake. It was for when the violator didn't understand that someone would be hurt by their actions at all. The Blood Temple answered cases of <em>????</em> by educating the violator, and no other punishment. The violator was encouraged to pay restitution, depending on the circumstances, but not required to. Violations committed by younger children were generally considered <em>????</em>, even if they were intentional, because it was assumed that children didn't understand the impact they were having on others.
 
-Next was <em>????</em>, a crime of desperation. If you were starving and broke into someone's house to steal food, or if you were being abused and you killed your abuser, that was <em>????</em>. When a case of <em>????</em> came before Blood court, it was considered a failure <em>by the Blood Temple itself</em>, because the Blood Temple was responsible for making sure no one fell into desperation. It even triggered internal Blood Temple procedures to investigate how their services had failed the violator. This could surely be fascinating to some, but it gave me nothing to work with.
+So the way I had hurt ????? as a child would have been ?????. It was a violation, but it was forgivable given my circumstances. That seemed fair.
 
-Third was <em>chet</em>, a crime of passion. This was the category generally used when an argument between peers turned violent. It also covered giving in to selfish temptations, such as stealing things that were left in public without knowing who the victim was. The Blood Temple's approach to these situations was one of diplomacy. Their priests would encourage the violator to understand what they did wrong, apologize, and try to make amends. But even if they refused to apologize, the Blood Temple only considered that an unfortunate situation, not something where the Temple needed to intervene further.
+Next was <em>????</em>, a crime of desperation. If you were starving and broke into someone's house to steal food, or if you were being abused and you killed your abuser, that was <em>????</em>. When a case of <em>????</em> came before Blood court, it was considered a failure <em>by the Blood Temple itself</em>, because the Blood Temple was responsible for making sure no one fell into desperation. It even triggered internal Blood Temple procedures to investigate how their services had failed the violator.
 
+Third was <em>chet</em>, a crime of passion. If an argument between peers turned violent, or if you took disproportionate revenge – like by killing someone who had cheated on you – then that was <em>?????</em>. It also covered giving in to selfish temptations, such as stealing things that were left in public without knowing who the victim was. The Blood Temple's approach to these situations was one of diplomacy. Their priests would encourage the violator to understand what they did wrong, apologize, and try to make amends. But even if they refused to apologize, the Blood Temple only considered that an unfortunate situation, not something where the Temple needed to intervene further.
 
+I felt
 
 [????? I felt myself getting tense. This was what I was supposed to find the good in? The Blood Temple was far too forgiving! Would they have let the ?????s go just because they were overwhelmed with selfish temptations when they hurt me?
 
