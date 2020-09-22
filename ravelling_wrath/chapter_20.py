@@ -76,13 +76,13 @@ It was irritating to be working at Mr. Tully's "orders". He couldn't <em>order</
 
 A lawyer of my position shouldn't have been handling <em>these</em> cases in the first place – they were beneath my dignity. But we needed something to justify it to the Waiting. Years ago, I had been "promoted" into a different job title so that Hatheraw & Green could take advantage of a new subsidy from the Waiting Temple, a subsidy for legal services that "contribute to maintaining the order of the city". So now, a certain percentage of my caseload each year was required to fall within the Waiting criteria. Having me work on routine shoplifting cases like these was less valuable to the company, but it was a reliable way to qualify.
 
-<em>The Waiting.</em> As Yali, I paid close attention. ?????'s actions were being influenced by the Waiting Temple. This was exactly what I was looking for.
+<em>The Waiting.</em> As Yali, I paid close attention. Brannet's actions were being influenced by the Waiting Temple. This was exactly what I was looking for.
 
 <em>Anyone</em> in my position would have rankled at being seen as <em>less valuable to the company</em>, especially in front of Mr. Tully. I would <em>show</em> him how valuable I could be, I thought. I would take the cases to Blood court and win. And then he wouldn't underestimate me again.
 
-So, when I sat down with my books to study Blood law, I was determined to find something that others had missed. But I hadn't been able to call it <em>?????</em> without connecting it to ?????'s blood – oh gods, I should never have given the Speaker the reason to go after us! I should never have –
+So, when I sat down with my books to study Blood law, I was determined to find something that others had missed. But I hadn't been able to call it <em>lowari</em> without connecting it to Tanmei's blood – oh gods, I should never have given the Speaker the reason to go after us! I should never have –
 
-<em>?????</em> knew what those terms meant, but <em>I</em> didn't. And it was harder to study from the later memories that were caught up in humiliation and vindictiveness. I stopped and fished for different ones, to try and learn what he knew about Blood law <em>before</em> he rewrote his interpretation of it.
+<em>Brannet</em> knew what those terms meant, but <em>I</em> didn't. And it was harder to study from the later memories that were caught up in his humiliation and vindictiveness. I stopped and fished for different ones, to try and learn what he knew about Blood law <em>before</em> he rewrote his interpretation of it.
 
 Luckily, it wasn't too difficult. Once I found <em>one</em> memory he hadn't rewritten, it led to another one, and another. And when he was actually studying law, at least he was more practical about it. <em>These</em> memories weren't so full of petty resentments I had to work through – they were closer to how I organized my own mind.
 
@@ -90,7 +90,7 @@ Luckily, it wasn't too difficult. Once I found <em>one</em> memory he hadn't rew
 
 Blood law wasn't defined the way Stern law was.
 
-The closest thing to an authoritative source was the Book of Blood. But the Book of Blood wasn't just a law book. It was also a book of prayers, and a book of instructions for every aspect of life. It said how children should be raised. It said how to divide up the harvest equitably, and how much to lay in store for winter. It said how best to make love. It even had instructions for how to maintain farms and houses with simple materials. It was as if they had tried to make a single book on how to build society from the ground up. And although it described many laws, it said that the true law could not be written down in a book. The true law was defined by the "blood of the people".
+The closest thing to an authoritative source was the Book of Blood. But the Book of Blood wasn't just a law book. It was also a book of prayers, and a book of instructions for every aspect of life. It said how children should be raised. It said how to divide up the harvest equitably, and how much to lay in store for winter. It said how best to make love. It even had instructions for how to maintain farms and houses with simple materials. You might have thought they were trying to make a single book on how to build society from the ground up. And although it described many laws, it said that the true law could not be written down in a book. The true law was defined by the "blood of the people".
 
 So I cross-referenced the Book of Blood with other legal analyses and historical accounts – records of the Blood Temple's hundreds of years of traditions and precedent – looking for anything I could be used to get the Blood courts to prosecute these thefts.
 
@@ -106,7 +106,7 @@ And if I was hoping to use that as my strategy, my hopes were quickly dashed. If
 
 At least this kind of nonsense still had clear rules. It wasn't so different from Stern law, full of impossible situations created by historical compromises, from which it was my job to find ways out.
 
-– No, not <em>nonsense</em>. I couldn't let ?????'s opinions get into my head. If this was about Blood, <em>I</em> had to find the <em>good</em> in it. Could I see the good in this? Not yet… I needed the full picture first.
+– No, not <em>nonsense</em>. I couldn't let Brannet's opinions get into my head. If this was about Blood, <em>I</em> had to find the <em>good</em> in it. Could I see the good in this? Not yet… I needed the full picture first.
 
 
 
@@ -121,15 +121,15 @@ Third was <em>chet</em>, a crime of passion. This was the category generally use
 
 
 
-[????? I felt myself getting tense. This was what I was supposed to find the good in? The Blood Temple was far too forgiving! Would they have let the ?????s go just because they were overwhelmed with selfish temptations when they hurt me?
+[????? I felt myself getting tense. This made it sound like the Blood Temple was lenient with wrongdoers, even when they did things that seriously hurt people. That was far too forgiving! Would they have let the Dalners go just because they were overwhelmed with selfish temptations when they hurt me?
 
-l?????
+?????lowari definition
 
-What a relief, the ?????s WOULD definitely have been categorized this way
+What a relief, the Dalners WOULD definitely have been categorized as lowari 
 
 ????? revenge
 
-I imagined getting brutal revenge, making them suffer how I had suffered. How I had made Morrow suffer. Narration with a positive tone about enjoying that. Maybe I COULD agree with the Blood God on this after all. I looked in the memories for more details
+I imagined getting brutal revenge, making them suffer how I had suffered. How I had made Morrow suffer. Narration with a positive tone about enjoying that. Was that how the Blood God felt about the Waiting God…? Maybe I COULD agree with the Blood God on this after all. I looked in the memories for more details
 
 ????? Time limits on revenge
 
