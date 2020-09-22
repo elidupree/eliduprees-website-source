@@ -84,27 +84,56 @@ So, when I sat down with my books to study Blood law, I was determined to find s
 
 <em>?????</em> knew what those terms meant, but <em>I</em> didn't. And it was harder to study from the later memories that were caught up in humiliation and vindictiveness. I stopped and fished for different ones, to try and learn what he knew about Blood law <em>before</em> he rewrote his interpretation of it.
 
-Luckily, it wasn't too difficult. Once I found <em>one</em> memory he hadn't rewritten, it led to another one, and another. And when he was actually studying law,
+Luckily, it wasn't too difficult. Once I found <em>one</em> memory he hadn't rewritten, it led to another one, and another. And when he was actually studying law, at least he was more practical about it. <em>These</em> memories weren't so full of petty resentments I had to work through – they were closer to how I organized my own mind.
 
 <bigbreak>
 
-[????? this long passage fails promise theory, can we have Yali add promises?]
+Blood law wasn't defined the way Stern law was.
 
-I read from the Book of Blood, of course, but I also had to cross-reference it with other legal analyses and historical accounts. The Book of Blood was the most authoritative source, but for every place where it gave a clear definition of the law, there were fifteen places where it appealed to vague principles. It even said that the law wasn't defined by the Book at all, that the true law was defined by the "blood of the people", whatever that meant. Other books gave me a clearer picture. By studying the details of historical legal proceedings over the last hundred years of the Blood Temple, I began to understand the traditions and precedent that governed their decision-making. In that sense, they weren't so different from the Stern Temple after all.
+The closest thing to an authoritative source was the Book of Blood. But the Book of Blood wasn't just a law book. It was also a book of prayers, and a book of instructions for every aspect of life. It said how children should be raised. It said how to divide up the harvest equitably, and how much to lay in store for winter. It said how best to make love. It even had instructions for how to maintain farms and houses with simple materials. It was as if they had tried to make a single book on how to build society from the ground up. And although it described many laws, it said that the true law could not be written down in a book. The true law was defined by the "blood of the people".
 
-Unfortunately, everything I read confirmed what I already knew: It would be almost impossible to get these crimes prosecuted in Blood court. First of all, every case had to begin with an accusation of a <em>violation of blood</em>. That typically meant an attack against someone's physical body. There were exceptions, of course. A threat could be a violation of blood. Even an insult could be one, if it was degrading enough. And of particular interest to me, property crimes <em>could</em> be violations of blood. Unfortunately, the Blood concept of property was very different from the Stern concept. In Blood law, ownership of items was determined by who <em>touched</em> and <em>used</em> the items in their day-to-day lives. You couldn't own an object you had never seen or touched. And the only people who had handled the goods before they were stolen were local employees.
+So I cross-referenced the Book of Blood with other legal analyses and historical accounts – records of the Blood Temple's hundreds of years of traditions and precedent – looking for anything I could be used to get the Blood courts to prosecute these thefts.
 
-Could the thefts be prosecuted as thefts <em>from the employees</em>? No… historical negotiations between the temples gave clear precedent against that. The Blood Temple had agreed that whenever the Stern Temple classified goods as the assets of a corporation, it would <em>not</em> consider the employees their owners. Worse, this rule was a <em>concession</em> to be Stern Temple, because otherwise the employees <em>would</em> become Blood owners by virtue of being the only ones to handle the goods with their bodies, and then the Blood Temple would have to defend the employees' right to simply walk off with the merchandise. So, as a compromise, the Blood Temple considered corporate assets to be <em>unowned</em>. And therefore, the Blood Temple could tolerate the Stern Temple prosecuting thefts, but the thefts could never be violations of blood. And if there was no violation of blood, there was no crime.
+The Book of Blood didn't use the word <em>crime</em>. The only cause for legal action was a <em>violation of blood</em>. First, there had to be a violation; then, the victim had to have an <em>awakening of blood</em>, where they realized the full extent of the wrong that had been done to them; and then, there could be <em>revenge</em>. The Book actually used the word <em>revenge</em>.
+
+Fortunately, a "violation of blood" didn't <em>only</em> mean an attack against someone's physical body. A threat of violence was also a violation, and even an insult could be one, if it was degrading enough.
+
+But I was interested in <em>property</em> crimes.
+
+Under Blood law, a theft <em>could</em> be a violation of blood, but only in proportion to the strength of the connection between the victim and the object stolen from them. You couldn't have ownership of an object you had never seen or touched. So if local employees were the only ones who had handled the goods before they were stolen, then they were the only ones able to have an <em>awakening</em> and get revenge.
+
+And if I was hoping to use that as my strategy, my hopes were quickly dashed. If employees were able to "own" the goods, then they could simply walk off with the goods themselves, and the Blood Temple would be obliged to defend their right to do so. So, in historical negotiations, the Blood Temple had promised – as a <em>concession</em> to the Stern – that it would consider the goods <em>unowned</em>, in any corporation established under Stern authority. And therefore, the Blood Templeton tolerate the Stern Temple prosecuting thefts, but the thefts could never be violations of blood.
 
 At least this kind of nonsense still had clear rules. It wasn't so different from Stern law, full of impossible situations created by historical compromises, from which it was my job to find ways out.
 
-But there was worse. Even once there was a <em>violation of blood</em>, it still wasn't necessarily a crime. Or, to be precise, it wasn't necessarily <em>lowari</em>. Blood law described four types of violation – <em>????</em>, <em>????</em>, <em>chet</em>, and <em>lowari</em>. And the Temple would only punish <em>lowari</em>, even though the distinctions between the types were subtle and subjective.
+– No, not <em>nonsense</em>. I couldn't let ?????'s opinions get into my head. If this was about Blood, <em>I</em> had to find the <em>good</em> in it. Could I see the good in this? Not yet… I needed the full picture first.
+
+
+
+
+Even once there was a <em>violation of blood</em>, it still wasn't necessarily a crime. Or, to be precise, it wasn't necessarily <em>lowari</em>. Blood law described four types of violation – <em>????</em>, <em>????</em>, <em>chet</em>, and <em>lowari</em>. And the Temple would only punish <em>lowari</em>, even though the distinctions between the types were subtle and subjective.
 
 The lowest type of violation was <em>????</em>, a mistake. It was for when the violator didn't understand that someone would be hurt by their actions at all. The Blood Temple answered cases of <em>????</em> by educating the violator, and no other punishment. The violator was encouraged to pay restitution, depending on the circumstances, but not required to. Violations committed by younger children were generally considered <em>????</em>, even if they were intentional, because it was assumed that children didn't understand the impact they were having on others.
 
 Next was <em>????</em>, a crime of desperation. If you were starving and broke into someone's house to steal food, or if you were being abused and you killed your abuser, that was <em>????</em>. When a case of <em>????</em> came before Blood court, it was considered a failure <em>by the Blood Temple itself</em>, because the Blood Temple was responsible for making sure no one fell into desperation. It even triggered internal Blood Temple procedures to investigate how their services had failed the violator. This could surely be fascinating to some, but it gave me nothing to work with.
 
 Third was <em>chet</em>, a crime of passion. This was the category generally used when an argument between peers turned violent. It also covered giving in to selfish temptations, such as stealing things that were left in public without knowing who the victim was. The Blood Temple's approach to these situations was one of diplomacy. Their priests would encourage the violator to understand what they did wrong, apologize, and try to make amends. But even if they refused to apologize, the Blood Temple only considered that an unfortunate situation, not something where the Temple needed to intervene further.
+
+
+
+[????? I felt myself getting tense. This was what I was supposed to find the good in? The Blood Temple was far too forgiving! Would they have let the ?????s go just because they were overwhelmed with selfish temptations when they hurt me?
+
+l?????
+
+What a relief, the ?????s WOULD definitely have been categorized this way
+
+????? revenge
+
+I imagined getting brutal revenge, making them suffer how I had suffered. How I had made Morrow suffer. Narration with a positive tone about enjoying that. Maybe I COULD agree with the Blood God on this after all. I looked in the memories for more details
+
+????? Time limits on revenge
+
+This was more complicated than I thought. I didn't know how to think about it. Uncertainty about the morality of hating Morrow forever]
 
 And finally… there was <em>lowari</em>.
 
