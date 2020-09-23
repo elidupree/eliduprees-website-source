@@ -156,6 +156,8 @@ The victim wasn't the only person who was allowed to get revenge. Anyone in a cl
 
 This was more complicated than I thought. I didn't know how to think about it. Uncertainty about the morality of hating Morrow forever]
 
+???? yali types up the law stuff and then follows the thread again
+
 And finally… there
 How did the Blood Temple decide what was what? The distinction between <em>chet</em> and <em>lowari</em> often centered around the feelings that motivated the violator, but how could the Temple judge what someone was feeling? According to the Book of Blood, if the parties couldn't come to a resolution between themselves, the victims and the accused would meet in temple and "bare their hearts", and then "the blood of the city" would decide the truth. From what I could tell, this was nothing but a fancy way of saying that one of the Blood Temple's masked judges would question them and then make an arbitrary decision.
 
@@ -169,11 +171,7 @@ Fortunately, we did have witnesses – that was how the perpetrators had been ca
 
 Two of the six shoplifters had stolen food. I immediately discarded those cases as hopeless – no theft of food had <em>ever</em> been labeled as <em>lowari</em>. But that was fine. Winning even <em>one</em> of these cases would be enough to mark my name down in history. I sorted through the files, until one of them caught my eye, an adolescent girl who had stolen an expensive necklace – oh gods, if only I had never set eyes on that file! If only I had never stepped into the room with that masked judge, never tried to –
 
-A dozen memories were all [????? fighting for my attention]. As Yali, I stopped. Before I let them into my mind, there was something I wanted to check. This subsidy from the Waiting Temple… was it part of the Waiting God's plan? I listened for the god, but of course, it was still out of reach. That would be something to check later. For now, I typed up some details about the memories I'd just viewed. Then, I went back to the memory of the trial…
-
-If only there had <em>been</em> a trial. The judge's order at the pretrial hearing had left it indefinitely postponed, and then –
-
-I went back to the memory of the pretrial hearing.
+I stopped the memory, and decided I might as well get to the important part. I skipped forward to the trial itself. No, <em>trial</em> wasn't the word from the memories – the actual <em>trial</em> had been indefinitely postponed by the judge's order during <em>this</em> event, which was a <em>pretrial hearing</em>.
 
 The Blood Temple didn't have separate courthouses like the Stern. Legal proceedings were conducted in ordinary meeting halls in the same temples that were used for gatherings and worship. On my way to the hearing, I had to walk across a courtyard where children, probably orphans cared for by the Temple, played noisily in the dirt. I gave them a wide berth – it wouldn't do for my pressed suit to have dirt tossed on it by their rowdiness.
 
@@ -185,19 +183,23 @@ Soon, the other parties filtered into the makeshift courtroom. The thief girl di
 
 <bigbreak>
 
-I yanked myself out of the memory. I breathed carefully, trying to control the tension in my neck and remind myself that these memories weren't me. It wasn't even the degrading, sexual thoughts that bothered me – many of the Farseers had thoughts like that sometimes, and they usually weren't even as disturbing as some of my own thoughts. But the way Brannet instantly turned around and congratulated himself for being a better person – it was getting into my head. It was too much like the Dalners. <em>I will never be like that, I will never be like that,</em> part of me insisted.
+I yanked myself out of the memory. I breathed carefully, trying to control the tension in my neck and remind myself that these memories weren't me. It wasn't even the degrading, sexual thoughts that bothered me – many of the Farseers had thoughts like that, and they usually weren't even as disturbing as some of my own thoughts. But the way Brannet instantly turned around and congratulated himself for being a better person – it was getting into my head. It was too much like the Dalners. <em>I will never be like that, I will never be like that,</em> part of me insisted.
 
 But another part of me insisted that I was wasting time. I <em>had</em> to view these memories before the Waiting God was back. I thought back to the hearing – but then I stopped myself again. I had a feeling I was about to do something careless, reacting to my emotions but missing the bigger picture.
 
 What was I missing?
 
-I wanted to know how the Blood Temple fell, of course. But something told me that the <em>Blood God</em> wouldn't care so much about the courtroom details. And they weren't what <em>I</em> needed, either. What I needed was something more fundamental. When part of me would become part of the Waiting God, I could not be doubtful. I hated the god and its plan, but the god wouldn't absorb the part of me that hated it. It would absorb the part of me that saw everything from a distance, the part that coldly picked out the truth without caring how much it hurt. It was a part of me that <em>wouldn't</em> care if I had to suffer and die, and Rinn had to suffer and die, and hundreds of people had to suffer and die, if I had a goal that required it. And so I needed an answer on the level of the cold truth. A reason that the Blood God's destruction could never be my goal.
+I needed to know how the Blood Temple fell. But something told me that the <em>Blood God</em> wouldn't care so much about the courtroom details. And they weren't what <em>I</em> needed, either. What I needed was something more fundamental. When part of me would become part of the Waiting God, I could not be doubtful. I hated the god and its plan, but the god wouldn't absorb the part of me that hated it. It would absorb the part of me that saw everything from a distance, the part that coldly picked out the truth without caring how much it hurt. It was a part of me that <em>wouldn't</em> care if I had to suffer and die, and Rinn had to suffer and die, and hundreds of people had to suffer and die, if I had a goal that required it. And so I needed an answer on the level of the cold truth. A reason that the Blood God's destruction could never be my goal.
 
 A thought came to me in a flash. Garthold Brannet <em>wasn't</em> the most important person in here. His memories were the loudest, but he wasn't the most important. "He just sucks," was what Rinn had said about him. The one that had given the Blood God the most emotions was Hiram Soleocchi, the schoolteacher. No, not "the schoolteacher" – the <em>Blood Temple caretaker</em>.
 
-I could return to Brannet later, with a fresh mind. For now, it was time to learn more about Hiram. Ever since I had received the memories, I had been using his skills to reassure Rinn and the others. It had made me feel confident, like a skilled caretaker, and I had already felt like he was one of the most useful of the former Farseers. But now, it seemed there was even more to him. I didn't know what I was looking for, but if it mattered to the Blood God, it was important enough for me to find out.
+I could return to Brannet later, with a fresh mind. For now, it was time to learn more about Hiram. Ever since I had received the memories, I had been using his skills to reassure Rinn and the others. It had made me feel confident, like a skilled caretaker, and I had already felt like he was one of the most useful of the former Farseers. But Rinn had known there was even <em>more</em> to him. I didn't know what I was looking for, but if it mattered to the Blood God, it was important enough for me to find out.
 
 <bigbreak>
+
+Ah… the Blood Temple…
+
+Whenever the kids started asking these questions, it took me back to a happier time, 
 
 [????? doesn't scream "different person than Brannet" enough] Apparently, time had seen me become "the cool substitute teacher". I had always been told that I had a way with children, and it would have made me happy if my stories of the old Blood Temple were what earned me that title. Happier still if it were the way I patiently listened to <em>their</em> stories of their lives. But it was something much simpler than that. It made me sad. In all their other classes, these kids were being told to keep their heads down and study. All I had to do to be "cool" was to give them a break from that. A chance to relax and move their bodies.
 
