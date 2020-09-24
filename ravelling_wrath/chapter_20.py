@@ -287,6 +287,8 @@ While I was watching, I heard Jae-nyu scream from outdoors. I ran back up the st
 
 Sometimes, kids could be such a headache. If Jae-nyu kept working when she was this tired, she was going to hurt herself again. But that was her pride, and it was better to let her get hurt than to ask her to give up her pride. Eventually, she would learn her limits, and until then, it was my job to support her as best I could. "I know you can be strong," I said. "Keep being strong, but remember to be careful –"
 
+[???? yali positive/resentful reaction to Jae-nyu thing]
+
 "Hiram, there you are! We could really use an extra body over here –"
 
 I looked up. Civeah and the others were straining to lift a pallet of portable generators out of a truck. They really did need help. Reluctantly, I started to stand. I patted Jae-nyu on the shoulder. "I'm sorry, but it looks like I'm needed. Jae, if you're okay to keep working, I'm appointing you as guardian of this broken glass. Don't touch it, but make sure nobody steps on it until someone can help you clean it up."
@@ -338,6 +340,8 @@ It was connected. The process had already begun in Hiram's youth, and it was the
 I needed to know the end. I steeled myself to put up with Brannet's memories once again.
 
 <bigbreak>
+
+[???? at some point Yali actually *realizes* what's wrong with Brannet's logic, make the connection that the Blood Temple actually tries to fix society instead of punish individual wrongdoers; something like, the Stern/Waiting way is *cynicism* that wrongdoing can ever be stopped; but Yali doesn't FULLY realize it yet, more like "well now that I see it next to Brannet's bullshit, it's obviously better"]
 
 Once everyone was present – especially Tanmei Luef, the "victim" I had chosen – the hearing could start. I was there as her advocate. In Blood court, a victim was allowed to designate one or more people as their advocates – which didn't usually mean lawyers, and often meant friends or family. But since there were no qualifications for an advocate, it was a convenient excuse for me to be present.
 
@@ -522,6 +526,8 @@ It was impossible. It was too convenient. Was I supposed to believe that I could
 But I couldn't deny what I had seen in Hiram's memories. If I had been there… there was nothing that made me different from Svet. The caretakers would have protected me, without demanding anything in return. And even before that… it hurt to imagine it, but when I had lived with my mother, I could imagine them visiting us on their rounds, helping to carry away the trash that lined the halls, making sure there was always food ready for us to eat.
 
 I had thought it wasn't how the world worked, but maybe… maybe it only wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood Temple</em>.
+
+[???? the Blood Temple had been its OWN order. It had a whole cohesive/holistic way of running society; give reader an answer when someone talks about maintaining "order", WHAT order is it?]
 
 My teeth chattered. I felt dizzy and sick. Everything I had done… Every time I had checked and double-checked so I wouldn't miss what my mother had forgotten, every time I had forced myself to stay quiet when I wanted to scream, every time I had stayed awake late into the night planning out how to protect myself… It WOULD all have been meaningless. It SHOULD all have been meaningless. I should never have had to do any of it. I should have gotten to live in a world where I didn't have to work harder than everyone else just to live in safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because there would be someone there to protect me, to take care of me, no matter how many times I messed up.
 
