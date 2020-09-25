@@ -219,10 +219,9 @@ And it was always me – Hiram – who had to mend feelings, to be the voice of 
 
 Just as I – <em>Yali</em> – had needed to be the voice of stability for Rinn. After I was forced into it by the Waiting God.
 
-Was it the Waiting God's fault for Hiram, too? Did this all happen <em>because</em> the Blood Temple fell? That was certainly how it felt from the memories. If so, that was all the more reason for me to hate the Waiting – no, hating the Waiting wasn't what I needed. What I needed was to value Blood.
+Was it the Waiting God's fault for Hiram, too? Did this all happen <em>because</em> the Blood Temple fell? That was certainly how it felt from the memories. But how was the Blood Temple connected to the factories?
 
-I returned to Hiram's original memory. I could tell it had ?????.
-
+I felt like Hiram's original memory contained more answers. I allowed it to continue.
 
 "Hey, old man!" one of the kids piped up. "Mister Soleocchi, are you listening?"
 
@@ -230,23 +229,35 @@ I blinked, bringing myself back to the present. "Ah, call me Hiram. Did I doze o
 
 One of them leaned forward. "Mister Hiram, is it true that Blood temples had giant orgies every year?"
 
-I smiled wistfully. Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. I suppose that kids have always asked about these things, because that is what kids do best – hunting after the highs and lows of life until they find their place in the world. But there had used to be another kind of questions, too. Ten years ago, there had been kids who asked questions like "why aren't we allowed to say the Blood prayers anymore?" and "my granddad says the Blood Temple always sent someone around to take care of his mother when she was having one of her episodes, so Granddad could still go to school. Why don't the Stern do that?" But for kids growing up today, the Blood Temple was just a part of history.
+I smiled wistfully. Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. Of course, kids had always asked about those things, because that is what kids do best – hunting after the highs and lows of life until they find their place in the world. But there had used to be another kind of questions, too. Ten years ago, there had been the kids who asked "why aren't we allowed to say the Blood prayers anymore?" And the kid who asked "my granddad says the Blood Temple always sent someone around to take care of his mother when she was having one of her episodes, so Granddad could still go to school. Why don't the Stern do that?" But for kids growing up today, the Blood Temple was just a part of history.
 
-And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, criminals who severely exploited people were sometimes stripped of their clothing and flogged in the public square. But that wasn't what the Blood Temple was really about. And no, I couldn't tell them any stories about the floggings, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't disregard Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. After someone was punished, they needed to be given the chance to return to equal status in society. If you treated their humiliation as a funny thing to gossip about, you were stepping on them for your own amusement. That was <em>lowari</em>.
+And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, those who committed great violations were sometimes flogged in the public square. But that wasn't what the Blood Temple was really about. And no, I couldn't tell them any stories about the floggings, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't disregard Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. After someone was punished, they needed to be given the chance to return to equal status in society. If you treated their humiliation as a funny thing to gossip about, you were stepping on them for your own amusement. That was <em>lowari</em>.
 
 No… none of that was what the Blood Temple was really about.
 
-What a pity that most of these kids would have to grow much older before they would appreciate my fond memories of the hard work, the satisfying work of Blood. As I often did, I made a compromise, telling the hectic story of our work during the relief effort for Hurricane Fjarl –
+What a pity that most of these kids would have to grow much older before they would appreciate my fond memories of the hard work, the satisfying work of Blood. As I often did, I made a compromise, telling the hectic story of our relief effort for Hurricane Fjarl –
 
-No… as Yali, I didn't have to compromise with what those kids from the past were interested in. Now that I had touched the thought of <em>what the Blood Temple was really about</em> within Hiram's memories, I could skip straight there. It would be perfect – if I understood the true purpose of the Blood Temple, that would be something I could use against the Waiting God.
+I interrupted the memory again. As Yali, I didn't have to compromise with those kids from the past. Now that I had touched the thought of <em>what the Blood Temple was really about</em> within Hiram's memories, I could skip straight there.
 
-It was a time of peace, a slow autumn when the days were warm and the temple well-stocked, years before the hurricane put us in the middle of recovery again. It had been a good year for the eastern farmland, and the harvest festival had been more lively than ever, with bonfires and feasting filling the streets as far as the eye could see. A simpler time, when I could sit with the temple children all around me and read to them from the Book of Blood. I was no priest, but I still looked forward to whenever I could read the words aloud, lovingly thumbing through the worn pages of my old copy. The Book of Blood was the only holy book that published new versions on a yearly basis, to reflect the living truth of the people's will. But for me, I always kept the copy that my grandfather had read to me as I sat on his knee. "Each one of you has a fire inside you," I would always read. "A fire of your pride… A fire of your strength… A fire that is always burning. Always be sure to feed that fire, to grow strong in a way that is all your own. And be sure to feed the fires of those around you, because what makes any of us strong, makes all of us strong. No person is above or below any other." On the best days, there was time for everyone to listen together, from the smallest children to the most wizened elders, because everyone needed the words in their own way.
+<bigbreak>
 
-In the time like that, little of our work was so urgent that it couldn't be interrupted. One day, while I was loading the kids' dirty clothing into the newfangled electric washing machine, little Camlen approached me, tugging at my pant leg and croaking out that his throat was hurting. The poor thing – the temple was a hub of activity, so it was all too easy for diseases to spread. I had been keeping ahead on the laundry, so it could wait for another day.
+It was a time of peace, a slow autumn when the days were warm and the temple well-stocked, years before the hurricane put us in the middle of recovery again. It had been a good year for the eastern farmland, and the harvest festival had been more lively than ever, with bonfires and feasting filling the streets, clear from wall to wall. A simpler time, when I could sit with the temple children all around me and read to them from the Book of Blood.
+
+I was no priest, but I still looked forward to any time I could read the words aloud, lovingly thumbing through the worn pages of my old copy. The Book of Blood was the only holy book that published new versions on a yearly basis, to reflect the living truth of the people's will. But for me, I always kept the copy that my grandfather had read to me as I sat on his knee.
+
+"Each one of you has a fire inside you," I would always read. "A fire of your pride… A fire of your strength… A fire that is always burning. Always be sure to feed that fire, to grow strong in a way that is all your own. And be sure to feed the fires of those around you, because what makes any of us strong, makes all of us strong. No person is above or below any other." On the best days, there was time for everyone to listen together, from the smallest children to the most wizened elders, because everyone needed the words in their own way.
+
+<em>Okay, that all sounds nice,</em> I thought, as Yali. <em>But what did we actually <strong>do</strong>?</em>
+
+One memory stood out.
+
+One day, while I was loading the kids' dirty clothing into the newfangled electric washing machine, little Camlen approached me, tugging at my pant leg and croaking out that his throat was hurting. The poor thing – the temple was a hub of activity, so it was all too easy for diseases to spread. I had been keeping ahead on the laundry, praise the Waiting, so I could easily interrupt it to take care of him.
 
 Camlen had a bad cold, but at least it was only a cold. I took his hand and found us a quiet room. I helped him get wrapped up in a blanket, then mixed some honey water to help soothe his throat.
 
-"It'll be okay," I said softly. "[????? the blood temple] will take care of you. You'll be all better before you know it."
+"It'll be okay," I said softly. "Temple will take care of you. You'll be all better before you know it."
+
+When Hiram said <em>Temple</em>, he was referring to himself. Figuratively, the temple caretakers <em>were</em> the Temple.
 
 I loved all of the children here, from the youngest toddlers to the older teens who were growing into their power. From the orphans, to the ones who stayed at the temple during the day while their parents were away working, to the ones who just loved to play at the temple, to the ones who just showed up one day without saying why. But I especially loved the ones who were struggling, the ones who were clumsy and sad and didn't know how to put their feelings into words. Those were the ones who needed the Blood Temple most of all.
 
