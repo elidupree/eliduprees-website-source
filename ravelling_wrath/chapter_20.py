@@ -211,17 +211,13 @@ I was in the middle school today. It was a beautiful day outside, and I had let 
 
 The Stern were always telling us that things were better than ever, because of all this "progress". Because the parents' labor was giving us all the newest automobiles and personal computers and whatever other great inventions the Seeking had dreamed up. When I was young, an automobile had been a luxury for the rich, and now it seemed like even the poorest families had them. But were they happy? Were people happier now? I couldn't help but wonder if we could have gone a different way. If we could have had all these marvelous inventions, but also had our children be happy.
 
-I paused. <em>This</em> memory was wistful, but I could feel dozens of others behind it. Feelings of stress and struggle rose into my mind. The factory workers had been Hiram's friends and family. I remembered watching a cousin come home exhausted from a long day of work, yell at his wife, and collapse into bed with no time for leisure. I remembered long nights of comforting a friend who wanted to give up on life after an illness cost him all of his savings, which he had barely scraped together over years of labor.
+I paused. <em>This</em> memory was wistful, but I could feel dozens of others behind it. Feelings of stress and struggle rose into my mind. Among the factory workers were Hiram's own friends and family. I remembered watching a cousin come home exhausted from a long day of work, yell at his wife, and collapse into bed with no time for leisure. I remembered long nights of comforting a friend who wanted to give up on life after an illness cost him all of his savings, which he had barely scraped together over years of labor.
 
-These memories were giving me a lot of stress. One part for me was yelling, <em>I will never be like those people, you can't give up when things are hard, you'll lose everything!</em>. ????? Hiram had made peace with these memories, but the sense of peace just made them more unsettling. If you were doing hard work all day, you were supposed to <em>get</em> somewhere!
-
-And it was always me – Hiram – who had to mend feelings, to be the voice of stability.
+These memories were giving me a lot of stress. Instinctively, they made me reach for the Stern part of myself, the part that said <em>You can't give up! You have to keep working, you have to finish what you started or you'll lose everything!</em> But for Hiram, there was no end in sight. These people <em>had</em> kept working, and they were <em>still</em> losing everything. What kind of world was this?! It was against everything from the Waiting culture where I'd grown up. When you worked hard, you were supposed to <em>achieve</em> something! Hiram had made peace with these memories, but the sense of peace just made them more unsettling. And it was always me – Hiram – who had to mend feelings, to be the voice of stability.
 
 Just as I – <em>Yali</em> – had needed to be the voice of stability for Rinn. After I was forced into it by the Waiting God.
 
-Was it the Waiting God's fault for Hiram, too? Did this all happen <em>because</em> the Blood Temple fell? That was certainly how it felt from the memories. But how was the Blood Temple connected to the factories?
-
-I felt like Hiram's original memory contained more answers. I allowed it to continue.
+Was it the Waiting God's fault for Hiram, too? Did this all happen <em>because</em> the Blood Temple fell? That was certainly how it felt from the memories. But how was the Blood Temple connected to the factories? I felt like Hiram's original memory had more answers for me. I allowed it to continue.
 
 "Hey, old man!" one of the kids piped up. "Mister Soleocchi, are you listening?"
 
@@ -231,13 +227,13 @@ One of them leaned forward. "Mister Hiram, is it true that Blood temples had gia
 
 I smiled wistfully. Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. Of course, kids had always asked about those things, because that is what kids do best – hunting after the highs and lows of life until they find their place in the world. But there had used to be another kind of questions, too. Ten years ago, there had been the kids who asked "why aren't we allowed to say the Blood prayers anymore?" And the kid who asked "my granddad says the Blood Temple always sent someone around to take care of his mother when she was having one of her episodes, so Granddad could still go to school. Why don't the Stern do that?" But for kids growing up today, the Blood Temple was just a part of history.
 
-And what did I tell them? Yes, there were holy days when we hosted orgies. Yes, those who committed great violations were sometimes flogged in the public square. But that wasn't what the Blood Temple was really about. And no, I couldn't tell them any stories about the floggings, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't disregard Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. After someone was punished, they needed to be given the chance to return to equal status in society. If you treated their humiliation as a funny thing to gossip about, you were stepping on them for your own amusement. That was <em>lowari</em>.
+What could I tell them? Yes, there were holy days when we hosted orgies. Yes, we sometimes carried out public floggings for severe violations. But no, I couldn't tell them any stories about the floggings, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't forget Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. After someone was punished, they needed the chance to return to equal status in society. If you treated their humiliation as a funny thing to gossip about, you were stepping on them for your own amusement. That was <em>lowari</em>.
 
-No… none of that was what the Blood Temple was really about.
+And none of that was what the Blood Temple was really about.
 
-What a pity that most of these kids would have to grow much older before they would appreciate my fond memories of the hard work, the satisfying work of Blood. As I often did, I made a compromise, telling the hectic story of our relief effort for Hurricane Fjarl –
+What a pity I couldn't tell them my fondest memories, of the hard, satisfying work of Blood. At their age, they weren't yet ready to appreciate such things. As I often did, I made a compromise, telling the hectic story of our relief effort for Hurricane Fjarl –
 
-I interrupted the memory again. As Yali, I didn't have to compromise with those kids from the past. Now that I had touched the thought of <em>what the Blood Temple was really about</em> within Hiram's memories, I could skip straight there.
+– but as Yali, I didn't have to compromise with those kids from the past. I had now touched the thought of <em>what the Blood Temple was really about</em> within Hiram's memories. So I skipped straight there.
 
 <bigbreak>
 
