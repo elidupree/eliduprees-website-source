@@ -425,7 +425,7 @@ As Yali, I pulled out of the memories again. There was a lot to process here. So
 
 The Waiting Temple had its own military, but it was hardly ever used. I remembered a statement released by the Waiting Temple, lamenting the violence on both sides, but taking no additional action. Which made sense, because there was no need for the Temple to overextend itself when things were already going in the right direction. It was better to let it resolve itself than to become entangled.
 
-I concentrated. That last thoughts hadn't felt like Brannet's usual opinions. Could it have been the Waiting God again? Yes, it was! And it was merging with my own thoughts the same way as before, so I had been right – it wasn't really conscious of what I was doing. That meant I could examine its thoughts again! Had this all been part of its plan? The Waiting Temple subsidy leading to Brannet getting involved in this case, leading to the fall of the Blood Temple? I held that idea in my mind, trying to express it in the way the god understood things, and listened for the god's conclusions.
+I concentrated. Those last thoughts hadn't felt like Brannet's usual opinions. Could it have been the Waiting God again? Yes, it was! And it was merging with my own thoughts the same way as before, so I had been right – it wasn't really conscious of what I was doing. That meant I could examine its thoughts again! Had this all been part of its plan? The Waiting Temple subsidy leading to Brannet getting involved in this case, leading to the fall of the Blood Temple? I held that idea in my mind, trying to express it in the way the god understood things, and listened for the god's conclusions.
 
 It was hardly a grand design. Like so many things, it was a messy sequence of events, set in motion by a soul whose purposes were far askew from our own. It would have been foolish to rely on this particular one of our temple's countless half-formed expressions of our will. But our net was wide and slow, and just as a drought needs only one spark to become a fire, Blood's temple could never have remained stable forever, not when the city's loyalty was turning away from Blood and towards a deeper structure. Things would be messy for this long moment, but they would not be messy forever.
 
@@ -467,15 +467,15 @@ Already knowing how she would answer, I began, "You should take some time for yo
 
 "Fffuck that," she said, as always. "Just, how do you put up with it? You perfect, you perfect, ahhh –"
 
-I knew she wouldn't remember in the morning, but I did my best. "You fixed something much bigger than a doll," I said. "The children rely on us. And every time they see us being there to support them, they're learning something bigger. It's not just that one time. They're learning that there is someone they can always rely on. That's the real magic of what we do. We're teaching them that this is a world where people can rely on each other. Where we care about each other. And maybe when they're older, when someone else is relying on <em>them</em>, they'll remember, and they'll know what they need to do…" I leaned against a wall, trying not to look at the harsh electric lights. "Ah, I'm sounding like my grandpa, bless his drifting soul…"
+I knew she wouldn't remember in the morning, but I did my best. "You fixed something much bigger than a doll," I said. "The children rely on us. And every time they see us being there to support them, they're learning something bigger. They're learning that there is someone they can always rely on. That's the real magic of what we do. We're teaching them that this is a world where people can rely on each other. Where we care about each other. And maybe when they're older, when someone else is relying on <em>them</em>, they'll remember, and they'll know what they need to do…" I leaned against a wall, trying not to look at the harsh electric lights. "Ah, I'm sounding like my grandpa, bless his drifting soul…"
 
-I pulled myself out of the memory, a sense of disappointment filling me. This was his reason? It wasn't a reason I could accept. In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone else to do what I needed without me checking it. Every time I had hesitated because some useless adult had told me things would be taken care of. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again and again until they were burned enough times to learn not to trust anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! I could feel anger building inside me, anger at this man who would try to soothe away the core of what made me strong, what made me <em>Yali Seti</em>. I could just imagine him softly telling me it was okay to let down my guard. I could never let down my guard! If I did, I would be weak and helpless and pathetic, I would be back with the Dalners, I would be sick and no one would take care of me, I wouldn't get up in the morning. How could this be <em>holy</em>?! I could never accept it! How dare the Blood God try to soothe me! How dare it tell me that all my work was meaningless, that everything I had done to protect myself was meaningless?!
+I pulled myself out of the memory, a sense of disappointment filling me. This was his reason? It wasn't a reason I could accept. In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone else to do what I needed without me checking it. Every time I had hesitated because some useless adult had told me things would be taken care of. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again and again until they were burned enough times to learn not to trust anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! I could feel anger building inside me, anger at this man who would try to soothe away the core of what made me strong, what made me <em>Yali Seti</em>. I could just imagine him softly telling me it was okay to let down my guard. I could never let down my guard! If I did, I would be weak and helpless and pathetic, I would be back with the Dalners, I would be sick and no one would take care of me, I wouldn't get up in the morning. How could this be <em>holy</em>?! How dare the Blood God try to soothe me! How dare it tell me that all my work was meaningless, that everything I had done to protect myself was meaningless?!
 
 But if the Blood God was bad, then the Waiting God was right. To protect humanity from their foolish vulnerability, it was necessary to carve away the remnants of Blood, to clear humanity of the frivolousness that held them back from doing what needed to be done. Then the world could become whole. Humanity could finally free itself from its destructive complications.
 
-No! That was <em>wrong</em>! It was just the Waiting God getting in my thoughts again, it <em>had</em> to be wrong! Who cared about humanity! If it would make the Waiting God right, I was against it!
+No! That was <em>wrong</em>! It was just the Waiting God getting in my thoughts again, it <em>had</em> to be wrong! I didn't care about humanity – if it would make the Waiting God right, I was against it!
 
-A familiar cold feeling flowed through me. It was like I was watching my own thoughts from a distance. I saw them fighting, the part of me that saw the Waiting as the only shelter from the chaos of the world, and the part of me that saw the Waiting as a monster who had exploited me without remorse. I had always told myself I would look at the truth without filters, but it was hard to see past their rage. They were both afraid that if they let me look, then the truth wouldn't be what they wanted it to be.
+A familiar cold feeling flowed through me. It was like I was watching my own thoughts from a distance. I saw them fighting, the part of me that saw the Waiting as the only shelter from the chaos of the world, and the part of me that saw the Waiting as a monster who had exploited me without remorse. I had always told myself I would look at the truth without filters, but it was hard to see past the two parts' rage. They were both afraid that if they let me look, then the truth wouldn't be what they wanted it to be.
 
 But the truth is never what you want. And if you want to change it into what you want, then you need to see it for what it is.
 
@@ -489,37 +489,35 @@ It was a fact that <em>I</em> had needed to worry. It was a fact that if I had n
 
 Was it a fact that Hiram would have told <em>me</em> that <em>I</em> didn't need to worry? And if he did, what would the Blood God think?
 
-He clearly <em>sympathized</em> with victims of abuse, but he wouldn't have known I was being abused. He could easily have seen me and believed that nothing was wrong, then tried to reassure me that nothing was wrong. But how could I know for sure? Could I think back to any memories – yes, a memory came to mind surprisingly easily…
+He clearly <em>sympathized</em> with victims of abuse, but he wouldn't have known I was being abused. He could easily have seen me and believed that nothing was wrong, then tried to reassure me that nothing was wrong. But how could I know –
 
-I was watering the garden out in front of the temple's living quarters when the woman approached. ????
+A memory leapt to mind, almost before I went looking for it.
 
 "Is my son here? Svet – He's here, isn't he?"
 
-I looked up from my gardening, the evening sun getting in my eyes, making it hard to see her. Cautiously, I said, "If there is a Svet here, if you'll just wait here, I can step inside and tell him that his mother is –"
+I looked up from my gardening. The evening sun made it hard to get a good look at the woman. Cautiously, I said, "If there is a Svet here, if you'll just wait here, I can step inside and tell him that his mother is –"
 
 "What is this? Is he here or not?"
 
 "Just Temple policy, ma'am –"
 
-The woman pushed past and went in through the door. On second glance, she was dressed like someone from the third ring, so she probably didn't understand our norms – even though most of the temple was open to the public, any living space was sacred, and it was taboo to enter one uninvited. I dropped my tools and hurried after her.
+The woman pushed past and went in through the door. It was taboo to enter a living space uninvited! But on second glance, she was dressed like someone from the third ring, so she probably just didn't understand our norms. I dropped my tools and hurried after her – and found Civeah already blocking her path, thank the gods.
 
-Indoors, Civeah was already there, helping the children clean up yet another mess on the big wooden dining table. Thank the gods she was there – I didn't know if I would have the guts to stand in someone's way, but Civeah had seen what happened, and she stood right in the doorway to the dining area.
-
-"Ma'am, you can't come in here, you have to step outside –"
+"Ma'am, you can't come in here, you have to step outside –" Civeah began.
 
 "Svet, come here! I am your mother!"
 
-Civeah seemed to be holding the woman back for now. I knew where I was needed. I slipped past them and knelt down next to Svet, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and it was Blood Temple tradition not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present. It was six more years before Svet opened up to me about how his mother had abused him. It made me cry, knowing what he had been through, but also knowing how the Blood ways had helped me protect him even before I knew.
+I knew where I was needed. I slipped past them and knelt down next to Svet, who looked like he was trying to hide his tiny body behind a chair. He was a quiet kid – he looked about nine years old, and he had walked into the temple by himself a few weeks earlier. It was common for kids to move in and out of the temple without much fuss, and Blood Temple tradition said not to ask about anyone's past unless they volunteered it themselves – what mattered was the care the Temple could give them in the present. It was six more years before Svet opened up to me about how his mother had abused him. It made me cry, knowing what he had been through, but also knowing how the Blood ways had helped me protect him even before I knew.
 
 In the present, I patted Svet on the shoulder. I was the only person he allowed to touch him, but he seemed to like it when it was me. "It's okay," I whispered. "You don't have to go with her unless you want to. It's your choice."
 
-????
+As Yali, I gripped the arms of my chair, hanging onto every word.
 
-In the doorway, the woman yelled, "How dare you stand in my way?! I birthed him, we have a bond of blood! How can you call yourselves a Blood Temple when –"
+"How dare you stand in my way?! I birthed him, we have a bond of blood! How can you call yourselves a Blood Temple when –"
 
-"Do my ears deceive me?" came Rohin's voice from the outside. He must have heard the commotion, thank the gods. "Did someone wonder if this is not a Blood Temple?" Rohin never raised his voice, but you could <em>tell</em> when he was scandalized.
+"Do my ears deceive me?" came Rohin's voice from the outside. "Did someone wonder if this is not a Blood Temple?" Rohin never raised his voice, but you could <em>tell</em> when he was scandalized.
 
-Civeah and the woman both started shouting, trying to tell Rohin their own side of what was happening. I stayed at Svet's side, whispering to him, reassuring him that no one would force him into anything. I offered to bring him to a quiet place away from the yelling adults, but he kept watching, transfixed.
+Civeah and the woman both started shouting. I stayed at Svet's side, whispering to him, reassuring him that no one would force him into anything. I offered to bring him to a quiet place away from the yelling adults, but he kept watching, transfixed.
 
 "Ask yourself," said Rohin, "how should a child experience a bond of blood? Should he feel it as a cord for his mother to yank him about with? Or should he feel it as a bond of protection and trust –"
 
@@ -531,9 +529,7 @@ The woman was clearly trying to restrain herself now that a priest was here – 
 
 "You desecrate this temple with your words," said Rohin sadly. "You must cease violating our space. Wait for me in [???? the main hall] if you would discuss this further."
 
-"You heard the man!" said Civeah, shoving the woman towards the door. "Scurry on outta here!"
-
-The woman glared at us, but luckily, she didn't try anything worse. She turned and walked haughtily away from the building, with Civeah following to make sure she wouldn't come back.
+"You heard the man!" yelled Civeah, all but dragging the woman out the door.
 
 Rohin and I exchanged a glance. We had all been in the middle of working when this had begun, but we would need to stay interrupted a little longer. The children were clustered together, waiting for us to speak – some upset, some not understanding what had happened. Quickly, we reassured them that they were safe, and that cleaning up the table could wait until another time. In his most serious voice, Rohin explained how there are some people who believe that children are the property of their parents, but here, we believe that every child is their own person, with their own fire that cannot be suppressed by anyone. I held Svet gently while Rohin led us all in the Prayer to Recover Strength. Like many times before, the words washed over me:
 
