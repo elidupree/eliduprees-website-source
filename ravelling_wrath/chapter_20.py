@@ -361,7 +361,7 @@ I needed to know the end. I steeled myself to put up with Brannet's memories onc
 
 Once everyone was present – especially Tanmei Luef, the "victim" I had chosen – the hearing could start. I was there as her advocate. In Blood court, a victim was allowed to designate one or more people as their advocates – which didn't usually mean lawyers, and often meant friends or family. But since there were no qualifications for an advocate, it was a convenient excuse for me to be present.
 
-After the initial formalities, the hearing began with her reading out her accusation, which I had prepared with her in advance. It was a real sob story. She was one of the recent layoffs at Hatheraw & Green. Her home was full of mold after it had been damaged in floods during the previous month, and because she had lost her income, she had had to cancel a repair job she had scheduled. Then she had gotten seriously ill from the mold, ended up in the emergency room, and ultimately had to sell her home for a pittance to cover expenses. It was lucky I had found someone with such a clear connection between their loss of income and their physical body. Our argument was that thefts of expensive goods – such as the theft this case centered around – had directly led to the layoffs that caused Tanmei's miserable hardship.
+The hearing began with her reading out her accusation, which I had prepared with her in advance. It was a real sob story. She was one of the recent layoffs at Hatheraw & Green. Her home was full of mold after it had been damaged in floods during the previous month, and because she had lost her income, she had had to cancel a repair job she had scheduled. Then she had gotten seriously ill from the mold, ended up in the emergency room, and ultimately had to sell her home for a pittance to cover expenses. It was lucky I had found someone with such a clear connection between their loss of income and their physical body. Our argument was that thefts of expensive goods – such as the theft this case centered around – had directly led to the layoffs that caused Tanmei's miserable hardship.
 
 After our presentation, the Speaker finally spoke. Now I could tell that she was a woman. Her voice was curt and dismissive – she must have been prejudiced against me from the start. "Is there a direct connection between your situation and the taking of the specific necklace?"
 
@@ -389,19 +389,25 @@ But the reorganization had involved people from four different departments acros
 
 "Then we withdraw the accusation! Don't we, Tanmei –"
 
-"Fool!" the Speaker shrieked. [????? Yali notices the sexism here?] "You cannot quiet her blood! The blood of the city hears your words as an attempt to control her, and by law, the accusation can no longer be withdrawn! You have made it far too clear why you are here. You brought Tanmei here intending to use her suffering as a tool to benefit Hatheraw & Green. But suffering cries out with a voice of its own, and those who were truly responsible must be found! Let every pertinent financial record be brought to the temple, and let everyone involved in the decision come to testify! The blood of the city demands it!"
+"Fool!" the Speaker shrieked –
 
-[????? Yali realization]
+<p>– no, this memory felt distorted. Earlier, he had seen the Speaker as an authority figure. Now, she felt like an unreasonable person, irrational and shrieking. Why? It had changed when… when Brannet learned she was a <em>woman</em>. Now it made sense. I'd seen the same thing from a few of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently, not the way it would be for me, or Hiram, or most of the other Farseers.
 
-"Hatheraw & Green most certainly won't be complying with such a demand! We are established within the jurisdiction of the Stern Temple, and the Blood Temple has no authority to –"
+Mentally, I tried to correct it.
+
+"Fool!" the Speaker <em>declared</em>. "You cannot quiet her blood! The blood of the city hears your words as an attempt to control her, and by law, the accusation can no longer be withdrawn! You have made it far too clear why you are here. You brought Tanmei here intending to use her suffering as a tool to benefit Hatheraw & Green. But suffering cries out with a voice of its own, and those who were truly responsible must be found! Let every pertinent financial record be brought to the temple, and let everyone involved in the decision come to testify! The blood of the city demands it!"
+
+I tried to think. The Speaker's words felt unreasonable, but only because I was inside Brannet's memories. Of course, she was right, Brannet didn't care about Tanmei Luef at all. I had to think about this as Yali. And as Yali –
+
+<p>– as Yali, I had been wrong all along. I had thought the courtroom details wouldn't matter, because I had assumed they would just be about the guilt or innocence of the random shoplifters. But now… Blood court went beyond that. The Speaker had pointed straight past Brannet's manipulations. The Blood Temple had a <em>system</em> for how society was supposed to care for its people, and when that system wasn't upheld… "The Blood God doesn't forget where the real fault is just because you point fingers!" Rinn had said. The guilty party was the Hatheraw & Green hierarchy itself.</p>
+
+"Hatheraw & Green most certainly won't be complying with such a demand!" I said quickly. "We are established within the jurisdiction of the Stern Temple, and the Blood Temple has no authority to –"
 
 "So you came here with no intention of respecting our decisions? Begone from this temple, scofflaw! Run and tell your <em>masters</em> to expect our full demands in writing by month's end, and tell them that we will not be used!"
 
-How did it end this way? Curse them all! Curse that Speaker for spiting me! Did she get pleasure out of ruining my career? She must have been –
+How did it end this way? Curse them all! Curse that Speaker for spiting me! Did she –
 
-As Yali, I concentrated, trying to sort out my own thoughts. In Brannet's memories, the Speaker had felt like an unreasonable person, irrational and shrieking. But when I thought about what she had actually said, it made plenty of sense. It was unsettling to think about. But looking back and forth in the memories, it was obvious what had happened. Brannet had taken the Speaker seriously until he knew she was a woman. It wasn't too surprising – I had seen similar things from a few of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently. It came out as something much more unpleasant than the way it would be recorded in my memories, or Hiram's, or most of the other Farseers'.
-
-The contrast didn't feel so unsettling now that I knew it was just Brannet's sexism. I returned to the memories.
+I skipped forward.
 
 I never liked to think back to the time right after the hearing. When Mr. Tully fired me, he scheduled a full hour just to yell at me for bringing the Blood Temple's attention against us. Did he ever apologize for ordering me to do it in the first place? Did I ever get an apology from Hatheraw & Green after the fallout ultimately ended in their favor? Of course not.
 
