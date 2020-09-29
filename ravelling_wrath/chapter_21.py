@@ -173,7 +173,7 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 "What? You can't just say 'Are you kidding me?' all the time, I literally don't know what you're –"
 
-"How can you just sit there like you didn't just do the most amazing thing anyone's ever done?! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're beating yourself up because you couldn't make the mountain beg for mercy! That's – that's like –"
+"How can you just sit there like you didn't just do the most amazing thing anyone's ever done?! You made the <em>Waiting God uncertain?!?</em> Not just any god, but the <em>Waiting God?!?!!</em> That's like… you wrestled with a mountain, and <em>the mountain fell over!</em> And now you're kicking yourself because you couldn't make the mountain beg for mercy! That's – that's like –"
 
 "I just don't know if it was enough."
 

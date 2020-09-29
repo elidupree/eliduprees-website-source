@@ -17,7 +17,7 @@ posts = [
   "post_class": "yali-narration",
   "head":head,
   "chapter_title": "The Blood Temple",
-  "content_warnings": '''<p>A few explicitly narrated misogynistic thoughts;</p>''',
+  "content_warnings": '''<p>Detailed narration from the point of view of a character with PTSD, processing strong feelings and thinking about abuse; a few explicitly narrated misogynistic thoughts;</p>''',
   "contents": '''
   
 I would not be able to concentrate while I was still standing on the steep street, pulling Rinn with one hand. I hurried inside – into the temple, which seemed appropriate enough. I was suddenly aware of time passing. Before this, I had been patiently waiting for my connection with the Waiting God to come back. But now, it was a deadline, and I didn't know when it would come. I had to work efficiently, since this might be my only chance to access the memories freely.
@@ -154,54 +154,50 @@ That was just like Rinn, forgiving Morrow as soon as the situation was over. Was
 
 But I didn't <em>want</em> to be like the Waiting.
 
-I needed more time to process this.
+I needed more time to process this, sometime <em>later</em>. My own feelings weren't important – no, they were – but they weren't <em>urgent</em>. Until the Waiting God came back, I had to focus on the things I couldn't learn any other way.
 
+Like what ????? had <em>done</em> with his new knowledge of Blood law.
 
-
-???? yali types up the law stuff and then follows the thread again
-
-And finally… there
-How did the Blood Temple decide what was what? The distinction between <em>chet</em> and <em>lowari</em> often centered around the feelings that motivated the violator, but how could the Temple judge what someone was feeling? According to the Book of Blood, if the parties couldn't come to a resolution between themselves, the victims and the accused would meet in temple and "bare their hearts", and then "the blood of the city" would decide the truth. From what I could tell, this was nothing but a fancy way of saying that one of the Blood Temple's masked judges would question them and then make an arbitrary decision.
-
-
-
-I set down my books. I had enough background now to start thinking about strategy.
-
-In order to see any of the shoplifters be punished under Blood law, I would need to produce a victim. And either the victim would need to want revenge, or I would need to produce a second person who was allowed to get revenge on their behalf.
-
-Fortunately, we did have witnesses – that was how the perpetrators had been caught in the first place. And among the witnesses, the ones who had chosen to report the crimes to the Stern might also be amenable to seeking revenge under Blood law. The only question was how to interpret the thefts as <em>lowari</em>.
-
-Two of the six shoplifters had stolen food. I immediately discarded those two as hopeless. But that was fine. Winning even <em>one</em> of these cases would be enough to mark my name down in history. I sorted through the files, until one of them caught my eye, an adolescent girl who had stolen an expensive necklace – oh gods, if only I had never set eyes on that file! If only I had never stepped into the room with that masked judge, never tried to –
-
-I stopped the memory, and decided it was time to skip forward to the trial itself. No, <em>trial</em> wasn't the word from the memories – this case hadn't gotten further than a <em>pretrial hearing</em>.
-
-The Blood Temple didn't have separate courthouses like the Stern. Legal proceedings were conducted in ordinary meeting halls in the same temples that were used for gatherings and worship. On my way to the hearing, I had to walk across a courtyard where children, probably orphans cared for by the Temple, played noisily in the dirt. I gave them a wide berth – it wouldn't do for my pressed suit to have dirt tossed on it by their rowdiness.
-
-I arrived early, of course. The judge – no, the <em>Speaker</em> – was already in the room, standing forebodingly in the traditional long red robes and mask that completely covered their face. I couldn't even tell if it was a man or a woman. I had to remind myself that this wasn't Stern court. A Speaker, short for <em>Speaker for the blood of the city</em>, had almost arbitrary power to make legal decisions, and was only accountable to the Blood Temple's Circle of Elders. If I wanted to be successful, this was the person I had to convince.
-
-"Speaker," I greeted, slightly bowing my head. From what I had learned, showing any more deference than that would be seen as grovelling. The Speaker nodded back.
-
-Soon, the other parties filtered into the makeshift courtroom. The thief girl didn't look quite how I had imagined her. She came in nervously, holding herself upright, wearing a plain, conservative dress. She was almost pretty. But I could see her piercings, and as soon as she spoke, I could hear the vulgar way she talked. She was clearly fifth-ring trash. No doubt this was her <em>only</em> conservative dress, and she paraded around the streets in straps that barely covered up those oversized breasts – not that I paid attention to that. <em>I</em> was a professional, after all. When she entered, I shook her hand firmly, looking her steadily in the eye while <em>she</em> shied away, and gave a polite –
 
 <bigbreak>
 
-I yanked myself out of the memory. I breathed carefully, trying to control the tension in my neck and remind myself that these memories weren't me. It wasn't even the degrading, sexual thoughts that bothered me – many of the Farseers had thoughts like that, and they usually weren't even as disturbing as some of my own thoughts. But the way Brannet instantly turned around and congratulated himself for being a better person – it was getting into my head. It was too much like the Dalners. <em>I will never be like that, I will never be like that,</em> part of me insisted.
+I set down my books. I could now start thinking about strategy.
+
+In order to see any of the shoplifters be punished under Blood law, I would need to produce a victim. And either the victim would need to want revenge, or I would need to produce a second person who was allowed to get revenge on their behalf.
+
+Fortunately, we did have witnesses – that was how the perpetrators had been caught in the first place. The ones who had reported the crimes to the Stern might also be willing to seek revenge under Blood law. The only question was how to interpret the thefts as <em>lowari</em>.
+
+Two of the six shoplifters had stolen food. I discarded those two as hopeless. But that was fine. Winning even <em>one</em> of these cases would be enough to mark my name down in history. I sorted through the files, until one of them caught my eye, an adolescent girl who had stolen an expensive necklace – oh gods, if only I had never set eyes on that file! If only I had never stepped into the room with that masked judge, never tried to –
+
+I stopped the memory, and decided it was time to skip forward to the trial itself. No, <em>trial</em> wasn't the word from the memories – this case hadn't gotten further than a <em>pretrial hearing</em>.
+
+The Blood Temple didn't have separate courthouses like the Stern. Legal proceedings were conducted in ordinary meeting halls, in the same temples that were used for gatherings and worship. On my way to the hearing, I had to walk across a courtyard where children, probably orphans raised by the Temple, played noisily in the dirt. I gave them a wide berth – it wouldn't do for my pressed suit to be dirtied by their rowdiness.
+
+I arrived early, of course. The judge – no, the <em>Speaker</em> – was already in the room. They were foreboding, standing still in their long red robes, with a mask that completely covered their face. I couldn't even tell if it was a man or a woman. I had to remind myself that this wasn't Stern court. A Speaker, short for <em>Speaker for the blood of the city</em>, had almost arbitrary power to make legal decisions, and was only accountable to the Blood Temple's Circle of Elders. Officially, decisions were made by "the blood of the city", and Speakers only "delivered" them. But in practice, if I wanted to be successful, this was the person I had to convince.
+
+"Speaker," I greeted, slightly bowing my head. From what I had learned, showing any more deference than that would be seen as grovelling. The Speaker nodded back.
+
+Soon, the other parties filtered into the makeshift courtroom. The thief girl didn't look quite how I had imagined her. She came in nervously, holding herself upright, wearing a plain, conservative dress. She was almost pretty. But she was clearly fifth-ring trash. No doubt this was her <em>only</em> conservative dress, and she paraded around the streets in straps that barely covered up those oversized breasts – not that I paid attention to that. <em>I</em> was a professional, after all. When she entered, I shook her hand firmly, looking her steadily in the eye while –
+
+<bigbreak>
+
+I yanked myself out of the memory. I breathed carefully, trying to control the tension in my neck and remind myself that these memories weren't me. It wasn't even the degrading, sexual thoughts that bothered me – he wasn't the only Farseer who thought like that, and it wasn't nearly the most disturbing thing in my head. But the way Brannet instantly turned around and congratulated himself for being a better person – it was too much like the Dalners. <em>I will never be like that, I will never be like that,</em> part of me insisted.
 
 But another part of me insisted that I was wasting time. I <em>had</em> to view these memories before the Waiting God was back. I thought back to the hearing – but then I stopped myself again. I had a feeling I was about to do something careless, reacting to my emotions but missing the bigger picture.
 
 What was I missing?
 
-I needed to know how the Blood Temple fell. But something told me that the <em>Blood God</em> wouldn't care so much about the courtroom details. What I needed was something more fundamental. When part of me would become part of the Waiting God, I could not be doubtful. I hated the god and its plan, but the god wouldn't absorb the part of me that hated it. It would absorb the part of me that saw everything from a distance, the part that coldly picked out the truth without caring how much it hurt. It was a part of me that <em>wouldn't</em> care if I had to suffer and die, and Rinn had to suffer and die, and hundreds of people had to suffer and die, if I had a goal that required it. And so I needed an answer on the level of the cold truth. A reason that the Blood God's destruction could never be my goal.
+I needed to know how the Blood Temple fell. But something told me that the <em>Blood God</em> wouldn't care so much about the courtroom details. What I needed was something more fundamental. When part of me would become part of the Waiting God, I could not be doubtful. I hated the god and its plan, but the god wouldn't absorb the part of me that hated it. It would absorb the part of me that saw everything from a distance, the part that coldly picked out the truth without caring how much it hurt. It was a part of me that <em>wouldn't</em> care if hundreds of people had to suffer and die, if I had a goal that required it. And so I needed an answer on the level of the cold truth. A reason that the Blood God's destruction could never be my goal.
 
-A thought came to me in a flash. Garthold Brannet <em>wasn't</em> the most important person in here. His memories were the loudest, but he wasn't the most important. "He just sucks," was what Rinn had said about him. The one that had given the Blood God the most emotions was Hiram Soleocchi, the schoolteacher. No, not "the schoolteacher" – the <em>Blood Temple caretaker</em>.
+A thought came to me in a flash. Garthold Brannet <em>wasn't</em> the most important person in here. His memories were the loudest, but he wasn't the most important. "He just sucks," was what Rinn had said about him. The one the Blood God had <em>cared</em> about was Hiram Soleocchi, the schoolteacher. No, not "the schoolteacher" – the <em>Blood Temple caretaker</em>.
 
-I could return to Brannet later, with a fresh mind. For now, it was time to learn more about Hiram. Ever since I had received the memories, I had been using his skills to reassure Rinn and the others. It had made me feel confident, like a skilled caretaker, and I had already felt like he was one of the most useful of the former Farseers. But Rinn had known there was even <em>more</em> to him. I didn't know what I was looking for, but if it mattered to the Blood God, it was important enough for me to find out.
+I could return to Brannet later, with a fresh mind. For now, it was time to learn more about Hiram. Ever since I had received the memories, I had been using his skills to reassure Rinn and the others. I had already felt like he was the most useful of the Farseers. But Rinn had known there was even <em>more</em> to him. I didn't know what I was looking for, but if it mattered to the Blood God, it was important enough for me to find out.
 
 <bigbreak>
 
 Ah… the Blood Temple…
 
-Whenever the kids started asking me for tales of the Blood Temple, it took me back to a happier time. Nowadays, apparently, I was "the cool substitute teacher", but it wasn't for the reasons I would have wanted. I would have been happy if I had earned the title with my stories of the old Blood Temple. Happier still if I had earned it when I patiently listened to <em>their</em> stories of their lives. But the truth was much sadder and more simple. In all their other classes, these kids were being told to keep their heads down and study. All I had to do to be "cool" was to give them a break from that. A chance to relax and move their bodies.
+Whenever the kids started asking me for tales of the Blood Temple, it took me back to a happier time. Nowadays, apparently, I was "the cool substitute teacher", but it made me sad when they called me that. I <em>would</em> have been happy if I had earned that title with my stories of the old Blood Temple. Happier still if I had earned it when I patiently listened to <em>their</em> stories of their lives. But the truth was much less heartening. In all their other classes, these kids were being told to keep their heads down and study. All I had to do to be "cool" was to give them a break from that. A chance to relax and move their bodies.
 
 I was in the middle school today. It was a beautiful day outside, and I had let the kids put the desks in a circle to play a game with each other. Principal Cossaman would have wanted me to keep them "on task", but it never seemed right to enforce the Stern rules on them. Nowadays, half of their parents were away in the factories from dawn to dusk, and came home too tired to spend time with their children. Who could blame the kids for wanting more space, more affection?
 
@@ -209,11 +205,13 @@ The Stern were always telling us that things were better than ever, because of a
 
 I paused. <em>This</em> memory was wistful, but I could feel dozens of others behind it. Feelings of stress and struggle rose into my mind. Among the factory workers were Hiram's own friends and family. I remembered watching a cousin come home exhausted from a long day of work, yell at his wife, and collapse into bed with no time to cool off. I remembered long nights of comforting a friend, a friend who wanted to give up on life after an illness cost him all of his savings, which he had barely scraped together over years of labor.
 
-These memories were giving me a lot of stress. Instinctively, they made me reach for the Stern part of myself, the part that said <em>You can't give up! You have to keep working, you have to finish what you started or you'll lose everything!</em> But for Hiram, there was no end in sight. These people <em>had</em> kept working, and they were <em>still</em> losing everything. What kind of world was this?! It was against everything from the Waiting culture where I'd grown up. When you worked hard, you were supposed to <em>achieve</em> something! Hiram had made peace with these memories, but the sense of peace just made them more unsettling. And it was always me – Hiram – who had to mend feelings, to be the voice of stability.
+Instinctively, I found myself reaching for the Stern. <em>You can't give up! You have to keep working, you have to finish what you started or you'll lose everything!</em> I had to remind myself that these were only memories. But even then… for Hiram, there was no end in sight. These people <em>had</em> kept working, and they were <em>still</em> losing everything. What kind of world was this? It was against everything from the Waiting culture where I'd grown up. When you worked hard, you were supposed to <em>achieve</em> something! Hiram had made peace with these memories, but the sense of peace just made them more unsettling. And it was always me – Hiram – who had to mend feelings, to be the voice of stability.
 
 Just as I – <em>Yali</em> – had needed to be the voice of stability for Rinn. After I was forced into it by the Waiting God.
 
-Was it the Waiting God's fault for Hiram, too? Did this all happen <em>because</em> the Blood Temple fell? That was certainly how it felt from the memories. But how was the Blood Temple connected to the factories? I felt like Hiram's original memory had more answers for me. I allowed it to continue.
+Was it the Waiting God's fault for Hiram, too? Did this all happen <em>because</em> the Blood Temple fell? That was certainly how it felt from the memories. But how was the Blood Temple connected to the factories?
+
+I felt like Hiram's original memory had more answers for me. I allowed it to continue.
 
 "Hey, old man!" one of the kids piped up. "Mister Soleocchi, are you listening?"
 
@@ -229,7 +227,7 @@ And none of that was what the Blood Temple was really about.
 
 What a pity I couldn't tell them my fondest memories, of the hard, satisfying work of Blood. At their age, they weren't yet ready to appreciate such things. As I often did, I made a compromise, telling the hectic story of our relief effort for Hurricane Fjarl –
 
-<p>– but as Yali, I didn't have to compromise with those kids from the past. I had now touched the thought of <em>what the Blood Temple was really about</em> within Hiram's memories. So I skipped straight there.</p>
+<p>– but as Yali, I didn't have to compromise with those kids from the past. I had now touched the thought of <em>what the Blood Temple was really about</em>. So I skipped straight there.</p>
 
 <bigbreak>
 
@@ -249,13 +247,13 @@ Camlen had a bad cold, but at least it was only a cold. I took his hand and foun
 
 "It'll be okay," I said softly. "Temple will take care of you. You'll be all better before you know it."
 
-When Hiram said <em>Temple</em>, he was referring to himself. Figuratively, the temple caretakers <em>were</em> the Temple.
+When Hiram said <em>Temple</em>, he was referring to himself. Figuratively, the temple caretakers <em>were</em> the Temple. And it was obvious how much affection he had for the children here. There were kids of all ages at the temple, from toddlers up to teenagers. Some of them were orphans. Some of them stayed at the temple during the day while their parents were away working. Some of them just loved to play at the temple, even when they didn't have to. And some had just showed up one day without saying why.
 
-I loved all of the children here, from the youngest toddlers to the older teens who were growing into their power. From the orphans, to the ones who stayed at the temple during the day while their parents were away working, to the ones who just loved to play at the temple, to the ones who just showed up one day without saying why. But I especially loved the ones who were struggling, the ones who were clumsy and sad and didn't know how to put their feelings into words. Those were the ones who needed the Blood Temple most of all.
+Out of all of them, I especially loved the ones who were struggling, the ones who were clumsy and sad and didn't know how to put their feelings into words. Those were the ones who needed the Blood Temple most of all.
 
-Of course, I didn't love them <em>every</em> day. It's hard to love anyone when you've been awake for twenty hours cleaning up after the incredible variety of messes they know how to make. But caretaking isn't a feeling – it's a habit. Civeah, one of the other caretakers, sometimes said she loved the children every day, but on other days, she said she hated them every day. Maybe I just wasn't as Blood as she was. Or maybe we were both Blood, but I was also Waiting enough to remember how I would feel on other days, not just how I felt at the moment.
+Of course, it's hard to love anyone when you've been awake for twenty hours cleaning up after the incredible variety of messes they know how to make. But caretaking isn't a feeling – it's a habit. Civeah, one of the other caretakers, sometimes said she loved the children every day, but on other days, she said she hated them every day. Maybe I just wasn't as Blood as she was. Or maybe we were both Blood, but I was also Waiting enough to remember how I would feel on other days, not just how I felt at the moment.
 
-That day was one of those days. Camlen kept holding onto me and wouldn't let go, so I had to stay up all night and keep soothing him. To keep him entertained, I lugged in the radio and tried to tune in to a good program. This late at night, there weren't many to choose from. Most of the city's radio stations were in the upper rings, and the magic in the city walls meant that radio signals couldn't get from one ring to another. Among what was left, I still had to skip past most of them – too many of these radio comedies were based on degrading people, and it just wasn't right for kids to grow up thinking that was the way to be funny. In the end, I found one about a family where the characters made comical mistakes, but ultimately still loved each other. Before long, Camlen was laughing along, in between his occasional coughing. I kept sitting with him, gently rubbing his back, until the morning light had come and he had finally managed to drift off to sleep.
+That day was one of those days. Camlen kept holding onto me and wouldn't let go, so I had to stay up all night and keep soothing him. To keep him entertained, I lugged in the radio and tried to tune in to a good program. This late at night, there weren't many to choose from. Most of the city's radio stations were in the upper rings, and the magic in the city walls meant that radio signals couldn't get from one ring to another. Among what was left, I still had to skip past most of them – too many of these radio comedies were based on degrading people, and it just wasn't right for kids to grow up thinking that was the way to be funny. But I finally found one that was good-humored. Before long, Camlen was laughing along, in between his occasional coughing. I kept sitting with him, gently rubbing his back, until the morning light had come and he had finally managed to drift off to sleep.
 
 Once he was fast asleep, I neatened up the blankets and –
 
@@ -411,15 +409,13 @@ I never liked to think back to the time right after the hearing. When Mr. Tully 
 
 But I did watch the news like a hawk. I had expected the case to fade into obscurity after Hatheraw & Green rejected the Blood Temple's demands… but only the Waiting knows the end. The Blood Temple had no authority to compel testimony from Hatheraw & Green executives, but they did have authority over the fifth ring, where Hatheraw & Green had two storefronts. And they must have been waiting for an excuse to act, because they <em>banned</em> Hatheraw & Green from the fifth ring and seized the two storefronts. Hatheraw & Green appealed to the Stern to protect their assets. And that was where things got complicated.
 
-[????? mixed state with Yali, Yali pointing out the bias and realizing that the Blood Temple was a real way of managing society]
-
 Back then, it was unprecedented for the Stern police to enter the fifth ring. But the Trade Unification Treaty had changed things, allowing corporations do business on both sides of the wall. No doubt, when the Blood Temple signed the treaty, none of them believed they were giving permission for Stern forces to enter their territory. But in a beautiful legal argument – no, not "beautiful", that was just Brannet's bias – the Stern Temple stated that the Blood Temple's seizure of Hatheraw & Green assets was a <em>violation</em> of the Trade Unification Treaty, and claimed the right to a "minimal enforcement action" to protect the assets.
 
 Soon, the Concord of Temples was inundated with accusations from both sides. And while the temples took weeks to debate in the Concord, the situation escalated. The Stern arrested dozens of Blood Temple personnel and held them in Stern temples within the fifth ring, which were technically their own pockets of Stern territory. Blood warriors attacked those temples – another diplomatic violation – to break them out. The Blood side brought priests to the front lines of the fighting, and when those priests were inevitably injured or arrested, they used it as an excuse for further violence. And after the accidental death of a Blood priest in Stern custody, the Blood Temple accused the Concord of stalling and unilaterally declared a state of war between the two temples.
 
 Accidental death? Just like it "wasn't the Waiting God's fault" that the Blood Children were being killed. I didn't believe it for a second.
 
-Declaring war was their last mistake. Our forces were better-equipped and better-organized, and the Blood forces were crushed in battle after battle. The Blood Temple was able to drag out the war for another four months, but they never stood a chance. In the end, their loyalists were scattered and their temples were in ruins. They couldn't even assemble a delegation to send to the Concord, so the Concord voted to formally withdraw recognition, and reassign the bottom two rings as Stern territory. Once the Stern had formal authority, they finally began to stamp out the remains of that archaic institution. The remaining Blood temples were either demolished or repurposed to serve unglamorous functions. Companies like Hatheraw & Green, which had been <em>de facto</em> excluded from the fifth ring by their arbitrary, restrictive policies, were free to expand their operations there –
+Declaring war was their last mistake. Our forces were better-equipped and better-organized, and the Blood forces were crushed in battle after battle. The Blood Temple was able to drag out the war for another four months, but they never stood a chance. In the end, their loyalists were scattered and their temples were in ruins. They couldn't even assemble a delegation to send to the Concord, so the Concord voted to formally withdraw recognition, and reassigned the bottom two rings as Stern territory. Once the Stern had formal authority, they finally began to stamp out the remains of that archaic institution. The remaining Blood temples were either demolished or repurposed to serve unglamorous functions. Companies like Hatheraw & Green, which had been <em>de facto</em> excluded from the fifth ring by the Blood Temple's policies, were free to expand their operations there –
 
 <p>– and to exploit the fifth ring's people. It was all coming together.</p>
 
@@ -427,7 +423,7 @@ But how much of this was the Waiting God's plan?
 
 The Waiting Temple had its own military, but it was hardly ever used. I remembered a statement released by the Waiting Temple, lamenting the violence on both sides, but taking no additional action. Which made sense, because there was no need for the Temple to overextend itself when things were already going in the right direction. It was better to let it resolve itself than to become entangled.
 
-I concentrated. Those last thoughts hadn't felt like Brannet's usual opinions. Could it have been the Waiting God again? Yes, it was! And it was merging with my own thoughts the same way as before, so I had been right – it wasn't really conscious of what I was doing. That meant I could examine its thoughts again! Had this all been part of its plan? The Waiting Temple subsidy leading to Brannet getting involved in this case, leading to the fall of the Blood Temple? I held that idea in my mind, trying to express it in the way the god understood things, and listened for the god's conclusions.
+I concentrated. Those last thoughts hadn't felt like Brannet's usual opinions. Was it the Waiting God again? Yes, it was! And it was merging with my own thoughts the same way as before, so I had been right – it wasn't really conscious of what I was doing. That meant I could examine its thoughts again! Had this all been part of its plan? The Waiting Temple subsidy leading to Brannet getting involved in this case, leading to the fall of the Blood Temple? I held that idea in my mind, trying to express it in the way the god understood things, and listened for the god's conclusions.
 
 It was hardly a grand design. Like so many things, it was a messy sequence of events, set in motion by a soul whose purposes were far askew from our own. It would have been foolish to rely on this particular one of our temple's countless half-formed expressions of our will. But our net was wide and slow, and just as a drought needs only one spark to become a fire, Blood's temple could never have remained stable forever, not when the city's loyalty was turning away from Blood and towards a deeper structure. Things would be messy for this long moment, but they would not be messy forever.
 
@@ -549,13 +545,11 @@ It was impossible. It was too convenient. Was I supposed to believe that I could
 
 But I couldn't deny what I had seen in Hiram's memories. If I had been there… there was nothing that made me different from Svet. The caretakers would have protected me, without demanding anything in return. And even before that… it hurt to imagine it, but when I had lived with my mother, I could imagine them visiting us on their rounds, helping to carry away the trash that lined the halls, making sure there was always food ready for us to eat.
 
-I had thought it wasn't how the world worked, but maybe… maybe it only wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood Temple</em>.
-
-[???? the Blood Temple had been its OWN order. It had a whole cohesive/holistic way of running society; give reader an answer when someone talks about maintaining "order", WHAT order is it?]
+I had thought it wasn't how the world worked, but maybe… maybe it only wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood God</em>.
 
 My teeth chattered. I felt dizzy and sick. Everything I had done… Every time I had checked and double-checked so I wouldn't miss what my mother had forgotten, every time I had forced myself to stay quiet when I wanted to scream, every time I had stayed awake late into the night planning out how to protect myself… It WOULD all have been meaningless. It SHOULD all have been meaningless. I should never have had to do any of it. I should have gotten to live in a world where I didn't have to work harder than everyone else just to live in safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because there would be someone there to protect me, to take care of me, no matter how many times I messed up.
 
-I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I shoved past my barrier and screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain so intense that nobody could face it and stay standing, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was nothing I could do. The pain was inside of me. I couldn't make it go away. I didn't even <em>want</em> it to go away. This pain meant something. I knew it in the core of my being. This pain was my connection to everything I had lost, to every part of me that I had locked away so that I could carry on.
+I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I shoved past my barrier and screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain too intense to bear, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was no escape. The pain was inside of me. I couldn't make it go away. I didn't even <em>want</em> it to go away. This pain meant something. I knew it in the core of my being. This pain was my connection to everything I had lost, to every part of me that I had locked away so that I could carry on.
 
 To the part of me that was the most Blood.
 
@@ -571,21 +565,21 @@ This smaller vision was flawed, of course. It had an element of our nature, but 
 
 I interrupted the god's thoughts. What would this "path of change" look like for people who didn't follow it? The god was only imagining people who <em>did</em> follow the path and <em>did</em> get their needs met, but what if they didn't want to? Well, each opportunity for short-term gratification was a branch where they might turn aside and fall into their selfish habits again. The efficient thing was to make sure these branches were clipped away before they might approach them.
 
-[????clarity:] <em>What did it look like,</em> I repeated. Did it look like children having no choice but to obey their parents? Did it look like me having no one I could tell about the Dalners' abuse until I discovered a way by myself? Did it look like people having no source of food but to work all day for a distant corporation?
+<em>What did that "clipping" look like?</em> I insisted. Did it look like children having no choice but to obey their parents? Did it look like me having no one I could tell about the Dalners' abuse until I discovered a way by myself? Did it look like people having no way to survive without working all day for a distant corporation?
 
 Not exactly. Those were all flawed, human approximations of our will.
 
 So that was a <em>yes</em>, then. This was how humanity would be forced into the plan. Isolated and exploited, slowly starved of their basic needs until they started to see the Waiting God's path as the only path of reality, and any other world as impossible idealism. Before I had seen all the memories, I had been unsure. I had thought its goals might have been good, if only it didn't have to kill the Ravellers to make it happen. But now, I knew how to see it through the lens of Blood. I had known what questions to ask to reveal the heartlessness in every part of its design.
 
-The exploitation.
+The Waiting Temple had claimed to be <em>maintaining the order of the city</em>. But the Blood Temple had had its OWN order. The conflict had never been about order against disorder. It had been about an order where people were nurtured, against an order where people were exploited.
 
 That seemed misguided. We had thought of the plan as <em>exploitative</em>, but it was not the <em>plan</em> that was the source of exploitation. None of these demoralizing worries about typical abuses committed by humans were a reason to doubt it.
 
 But the abuses were inherently enabled by the plan. Hadn't we just thought of taking away people's options as a good thing?
 
-The god was silent. It didn't understand, just like it hadn't understood the connection between me and its high priest. It generally thought that exploiting people was bad, but it didn't make the connection that that was an inevitable result of its plan. It was unsettling, but it also gave me a surge of hope. If it could not fill this space with an answer, then when part of me became part of it, <em>I</em> could fill this space with an answer. And my answer would be, <em>We are going to stop now.</em>
+The god was silent. It didn't understand, just like it hadn't understood the connection between me and its high priest. It generally thought that exploiting people was bad, but just didn't make the connection. It was unsettling, but it also gave me a surge of hope. If the god could not fill this space with an answer, then when part of me became part of it, <em>I</em> could fill this space with an answer. And my answer would be, <em>We are going to stop now.</em>
 
-I had my own plan now. <em>I</em> would make the world a place like the one Hiram had envisioned. And even as the god had protested, it had still seen my goal as something it could value. If we could achieve a world where children could always be confident of the inevitability that their elders had a plan to care for them, then that would be a profoundly Waiting world. That would be <em>my</em> vision of what it meant to be Waiting. And no matter how deeply the god was committed to its plan, it could not completely dismiss me.
+I had my own plan now. <em>I</em> would make the world a place like the one Hiram had envisioned. [?????: Cleanup next 2 sentences:] And even as the god had protested, it had still seen my goal as something it could value. If we could achieve a world where children could always be confident of the inevitability that their elders had a plan to care for them, then that would be a profoundly Waiting world. That would be <em>my</em> vision of what it meant to be Waiting. And no matter how deeply the god was committed to its plan, it could not completely dismiss me.
 
 I was ready to approach the portal.
 
