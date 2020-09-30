@@ -104,13 +104,13 @@ At least this kind of nonsense still had clear rules. It wasn't so different fro
 
 <p>– No, not <em>nonsense</em>. I couldn't let Brannet's opinions get into my head. If this was about Blood, <em>I</em> had to find the <em>good</em> in it. Could I see the good in this? Not yet… I needed the full picture first.</p>
 
-Once there was a violation of blood, you had to decide which of the four <em>types</em> of violation it was: <em>????</em>, <em>????</em>, <em>chet</em>, or <em>lowari</em>.
+Once there was a violation of blood, you had to decide which of the four <em>types</em> of violation it was: <em>shasset</em>, <em>dechiokhari</em>, <em>chet</em>, or <em>lowari</em>.
 
-The lowest type of violation was <em>????</em>, a mistake. It was for when the violator didn't understand that someone would be hurt by their actions at all. The Blood Temple answered cases of <em>????</em> by educating the violator, and no other punishment. The violator was encouraged to pay restitution, depending on the circumstances, but not required to. Violations committed by younger children were generally considered <em>????</em>, even if they were intentional, because it was assumed that children didn't understand the impact they were having on others.
+The lowest type of violation was <em>shasset</em>, a mistake. It was for when the violator didn't understand that someone would be hurt by their actions at all. The Blood Temple answered cases of <em>shasset</em> by educating the violator, and no other punishment. The violator was encouraged to pay restitution, depending on the circumstances, but not required to. Violations committed by younger children were generally considered <em>shasset</em>, even if they were intentional, because it was assumed that children didn't understand the impact they were having on others.
 
-So the way I had hurt Romhisat as a child would have been <em>????</em>. It was a violation, but it was forgivable given my circumstances. That seemed fair.
+So the way I had hurt Romhisat as a child would have been <em>shasset</em>. It was a violation, but it was forgivable given my circumstances. That seemed fair.
 
-Next was <em>????</em>, a crime of desperation. If you were starving and broke into someone's house to steal food, or if had to hurt an innocent person while escaping from abuse, that was <em>????</em>. When a case of <em>????</em> came before Blood court, it was considered a failure <em>by the Blood Temple itself</em>, because the Blood Temple was responsible for making sure no one fell into desperation. It even triggered internal Blood Temple procedures to investigate how their services had failed the violator.
+Next was <em>dechiokhari</em>, a crime of desperation. If you were starving and broke into someone's house to steal food, or if had to hurt an innocent person while escaping from abuse, that was <em>dechiokhari</em>. When a case of <em>dechiokhari</em> came before Blood court, it was considered a failure <em>by the Blood Temple itself</em>, because the Blood Temple was responsible for making sure no one fell into desperation. It even triggered internal Blood Temple procedures to investigate how their services had failed the violator.
 
 Third was <em>chet</em>, a crime of passion. If an argument between peers turned violent, or if you attacked someone in a fit of irrational anger, or if you took disproportionate revenge – like by killing someone who had cheated on you – then that was <em>chet</em>. It also covered giving in to selfish temptations, like if you stole something you wanted without caring who might have needed it. The Blood Temple's approach to these situations was one of diplomacy. Their priests would encourage the violator to understand what they did wrong, apologize, and try to make amends. But even if they refused to apologize, the Blood Temple only considered that an unfortunate situation, not something where the Temple needed to intervene further.
 
@@ -130,9 +130,9 @@ When the Stern Temple had punished the Dalners, I had never actually seen it wit
 
 Was this how the Blood God felt about the Waiting God…?
 
-But <em>its</em> revenge had tried to kill <em>me!</em> It was so caught up in its revenge that it was killing people who shouldn't have even been involved! That was –
+But <em>its</em> revenge had tried to kill <em>me!</em> [????? It was so caught up in its revenge that it was killing people who shouldn't have even been involved!] That was –
 
-Wait. That was <em>chet</em>.
+Wait. That was <em>dechiokhari</em>.
 
 And what the Waiting God was doing was <em>lowari</em>.
 
@@ -142,7 +142,7 @@ My mind raced forward, digging into other memories of the laws around revenge.
 
 The victim wasn't the only person who was allowed to get revenge. Anyone in a close relationship with the direct victim could get revenge on their behalf. And if a person committed <em>lowari</em> in front of witnesses, it was also considered a violation against the witnesses. But you weren't allowed to get revenge unless you were close to the victim or had seen the crime yourself.
 
-Getting revenge for <em>chet</em> was permitted, but not encouraged. And if you got revenge for <em>????</em> or <em>????</em>, that was not permitted, and you were probably committing <em>chet</em>. Even if the revenge was unjustified, it was still only <em>chet</em> as long as you <em>believed</em> you were justified, but it could be <em>lowari</em> if you were using it to control someone, or if you had lied about feeling violated in the first place.
+Getting revenge for <em>chet</em> was permitted, but not encouraged. And if you got revenge for <em>shasset</em> or <em>dechiokhari</em>, that was not permitted, and you were probably committing <em>chet</em>. Even if the revenge was unjustified, it was still only <em>chet</em> as long as you <em>believed</em> you were justified, but it could be <em>lowari</em> if you were using it to control someone, or if you had lied about feeling violated in the first place.
 
 Ideally, revenge would be carried out immediately after your <em>awakening of blood</em> – the moment you realized the full extent of the wrong that had been done to you. Delayed revenge was permissible, but there were limits on how long you could delay it, and those limits were much shorter than the Stern Temple's statutes of limitations. Even for the worst possible violation – if a loved one was murdered right in front of you – the limit was only eighteen months. And everything else was shorter than that. If you were still thinking of revenge after the time ran out, the Blood Temple considered that an unhealthy obsession, and if you acted on it, you would be committing <em>chet</em>.
 
