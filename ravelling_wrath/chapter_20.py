@@ -130,7 +130,7 @@ When the Stern Temple had punished the Dalners, I had never actually seen it wit
 
 Was this how the Blood God felt about the Waiting God…?
 
-But <em>its</em> revenge had tried to kill <em>me!</em> [????? It was so caught up in its revenge that it was killing people who shouldn't have even been involved!] That was –
+But <em>its</em> revenge had tried to kill <em>me!</em> It wasn't innocent, it had kept fighting even when that meant killing humans who shouldn't have been involved! That was –
 
 Wait. That was <em>dechiokhari</em>.
 
@@ -607,11 +607,11 @@ I wished Rinn could be awake with me for the end, instead of just <em>those</em>
 
 Wait. Was it un-Blood for me to think that way?
 
-Not for Morrow, certainly! He had committed <em>????? a</em>, and – I hesitated. I suddenly felt certain that if Rinn was awake, she would say he had only committed <em>?????</em>. But it was definitely <em>?????</em>. I was definitely still allowed to hate him! And —
+Not for Morrow, certainly! He had committed <em>lowari</em>, and – I hesitated. I suddenly felt certain that if Rinn was awake, she would say he had only committed <em>chet</em>. But it was definitely <em>lowari</em>. I was definitely still allowed to hate him! And —
 
 And what about Alchemist?
 
-I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> – and the Blood God inside her – hadn't liked how I was treating Alchemist. And they were right. For my whole time in the Otherworld, I had only been thinking of how Alchemist could be <em>useful</em> to us. And even if I'd been justified… it was over. Our lives weren't in danger anymore. So it wasn't right for me to still be thinking of Alchemist that way. It wasn't right that my only feeling was frustration about their weaknesses.
+I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> hadn't liked how I was treating Alchemist. And she wasn't wrong. For my whole time in the Otherworld, I had only been thinking of how Alchemist could be <em>useful</em> to us. Even when I was kind to them, it was only to make sure they would make us the potions we needed. And it had kept us alive… but that was over now. Our lives weren't in danger anymore. So it wasn't right for me to still be thinking of Alchemist that way. It wasn't right that my only feeling was frustration about their weaknesses.
 
 I had to find a better way to treat them, to think about them. A way that was more Blood.
 
@@ -623,9 +623,9 @@ This was not the future I would choose. I could do better.
 
 I listened for a different future. I felt myself pretending to be calm, answering Morrow's questions so that Alchemist would think we had an understanding. I felt the futures where my frustration built up until I struck him again. I listened for a future where I would navigate my feelings, where I could keep the illusion of peace between us, just as I had in the first layer. I felt myself waiting at the portal with them, feeling isolated, just keeping calm while I waited for the end. This was not the future I would choose. I would not be ready to face the Waiting God if those were the feelings in my mind.
 
-I listened for another future, and another and another. I heard myself trying to tell Alchemist I cared about them, but saying the wrong thing and making them anxious. I heard myself trying to do better, trying to explain too many things too fast, not leaving Alchemist time to process it.
+I listened for another future, and another and another. I heard myself trying to tell Alchemist I cared about them, but saying the wrong thing and making them anxious. I heard myself trying to do better, trying to explain too many things too fast, not leaving Alchemist time to process it. I felt myself trying to give them enough space, only for Morrow to distract them before they could absorb what I said.
 
-????? I could still do better.
+But each future took me a step closer to what I was looking for. I could do this.
 
 <bigbreak>
 
