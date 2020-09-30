@@ -589,7 +589,7 @@ I slowly pushed myself up from the chair, giving my stiff joints a chance to mov
 
 <em>My body is a place of power</em>, one of the Blood prayers had said. I stood up straight, trying to feel some of that power. A little of Blood, even if I couldn't feel it completely.
 
-As if in response, the ground rippled and shook. As I stood in place, the building around me lost its form, turned into liquid and retreated into the ground. My eye was drawn towards the light of the sun, and all ahead of me, the city melted away, leaving a smooth, sunlit, fluid-like pathway, opening the way to my final destination. I knew what I had to do. I hefted the handle of Rinn's wagon and began to walk.
+As if in response, the ground rippled and shook. As I stood in place, the building around me lost its form, turned into liquid and retreated into the ground. My eye was drawn towards the light of the sun. Ahead of me, the city melted away, leaving a smooth, sunlit, fluid-like pathway, opening the way to my final destination. I knew what I had to do. I hefted the handle of Rinn's wagon and began to walk.
 
 In the distance, the portal stood atop a huge, five-sided black pyramid, rising above the city skyline. Before I knew it, I had reached its base. The slope of the pyramid was just shallow enough that I could walk up the sides without losing my footing, and just steep enough to give my leg muscles a strenuous workout as I walked on and on. And I understood it now. The huge structures in this world weren't here to make me feel small and intimidated. They were here to make me feel powerful when I climbed them. To make me feel like I was their equal, just like Rinn had said.
 
@@ -603,33 +603,39 @@ I could already see it through the Watchful Eye I had placed on Morrow. I had mo
 
 Morrow and Alchemist were lying near the edge, cuddling on top of a messy heap of pillows and mattresses, mostly manifested by Alchemist. Morrow was still <em>able</em> to manifest, but he had usually been too depressed to do it. He had alternated between the hurrying forward erratically and sitting down too depressed to move. Alchemist had been taking care of him, trying to give him encouragement and reassurance. They had even talked to him a little like the way Rinn had.
 
-I would probably have liked Alchemist a lot better if I hadn't had to do so much work to stop them from walking into danger. And I might even have been able to tolerate Morrow if the Seeking God hadn't pointed the worst part of him directly at the one I loved. But the past cannot be changed.
+I wished Rinn could be awake with me for the end, instead of just <em>those</em> two. I couldn't forget the sight of Morrow crouching over Rinn, grinning while he made her suffer. And even for Alchemist, I couldn't forget how much work I'd had to do to stop them from walking into danger –
 
-I hesitated. Was it un-Blood for me to think that way? Well, not for Morrow, certainly. Hating someone who abused your loved ones was clearly a Blood thing to do. But Alchemist…
+Wait. Was it un-Blood for me to think that way?
 
-I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> would want me to care about Alchemist. I was allowed to be frustrated with them, but I had a Blood reason to care about them, too.
+Not for Morrow, certainly! He had committed <em>????? a</em>, and – I hesitated. I suddenly felt certain that if Rinn was awake, she would say he had only committed <em>?????</em>. But it was definitely <em>?????</em>. I was definitely still allowed to hate him! And —
 
-I didn't like that, but I decided to go along with it. Now I just had to figure out what that would look like in practice.
+And what about Alchemist?
 
-I listened for the future. I felt myself walk towards the portal. I saw Morrow hurry towards me and speak to me, ask me questions. I felt myself lash out at him. I felt myself hold back. I felt countless fragments of anger and tension. I saw both of them step away from me, huddling quiet and scared at a distance. I saw us keep an uncomfortable truce until the time came to enter the portal.
+I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> – and the Blood God inside her – hadn't liked how I was treating Alchemist. And they were right. For my whole time in the Otherworld, I had only been thinking of how Alchemist could be <em>useful</em> to us. And even if I'd been justified… it was over. Our lives weren't in danger anymore. So it wasn't right for me to still be thinking of Alchemist that way. It wasn't right that my only feeling was frustration about their weaknesses.
+
+I had to find a better way to treat them, to think about them. A way that was more Blood.
+
+I listened for the future, searching for possibilities.
+
+I felt myself walk towards the portal. I saw Morrow hurry towards me and speak to me, ask me questions. I felt myself lash out at him. I felt myself hold back. I felt countless fragments of anger and tension. I saw both of them step away from me, huddling quiet and scared at a distance. I saw us keep an uncomfortable truce until the time came to enter the portal.
 
 This was not the future I would choose. I could do better.
 
-I listened for a different future. I felt myself pretending to be calm, answering Morrow's questions so that Alchemist would think we had an understanding. I felt the futures where my frustration built up until I struck him again. I had enjoyed breaking his fingers the first time, and I could enjoy it again. But that wasn't what I was looking for. I listened for a future where I would navigate my feelings, where I could keep the illusion going and maintain the peace between us, just as I had in the first layer. I saw the three of us waiting together at the portal. I felt myself staring at the portal, feeling isolated, just concentrating on keeping myself calm while I waited for the end. This was not the future I would choose. I would not be ready to face the Waiting God if those were the feelings in my mind.
+I listened for a different future. I felt myself pretending to be calm, answering Morrow's questions so that Alchemist would think we had an understanding. I felt the futures where my frustration built up until I struck him again. I listened for a future where I would navigate my feelings, where I could keep the illusion of peace between us, just as I had in the first layer. I felt myself waiting at the portal with them, feeling isolated, just keeping calm while I waited for the end. This was not the future I would choose. I would not be ready to face the Waiting God if those were the feelings in my mind.
 
-I listened for a different future. I knew that both of them were already afraid of me. I felt myself march towards the portal, determined to make them be the ones to suffer instead of me. When Morrow ran to meet me, I shouted him down. I ordered them both to be quiet and speak only to answer my questions. Finally, at the end of everything, I could <em>finally</em> just make them give me the peace and quiet I deserved. No more staying on good terms with Alchemist just in case we needed more potions. No more letting words come out of Morrow's disgusting face. I would finally just get what <em>I</em> wanted. And then I could face the Waiting God with pride. I would be the one who was in control.
+I listened for another future, and another and another. I heard myself trying to tell Alchemist I cared about them, but saying the wrong thing and making them anxious. I heard myself trying to do better, trying to explain too many things too fast, not leaving Alchemist time to process it.
 
-As much as part of me liked that future, it was not the one I would choose either. I could still do better.
+????? I could still do better.
 
 <bigbreak>
 
-After a dozen more futures, I found the one that satisfied me. I forced myself to my feet, hefted the handle of Rinn's wagon, and headed for the portal.
+After a dozen more futures, I found one that satisfied me. I forced myself to my feet, hefted the handle of Rinn's wagon, and headed for the portal.
 
-Morrow ran down to meet me, as I had seen. I caught his hand, keeping it close between us, out of Alchemist's view. I looked in his eyes to make sure I could see the fear there. "Don't speak to me," I said quietly.
+Morrow ran down to meet me, as I had seen. I caught his hand, keeping it close between us, out of Alchemist's view. I looked in his eyes to make sure I could see the fear there. "I'm not planning to hurt you," I said quietly. "But don't speak to me."
 
 I let go of Morrow's hand. He backed away from me. This was going well.
 
-I pulled the wagon up onto the highest point, the flat top of the pyramid, and began rolling it across the black and shining floor. This close to the center, the sun was straight above me, beating down hard on my head and shoulders, burning away at my skin, even through my clothes. But this sun was more familiar now, and I could feel a bit of warmth amid the burning.
+I pulled the wagon up onto the flat top of the pyramid, and began rolling it across the black and shining surface. This close to the center, the sun was straight above me, beating down hard on my head and shoulders, burning away at my skin, even through my clothes. But this sun was more familiar now, and I could feel a bit of warmth amid the burning.
 
 Ahead of me, in the center of the floor, I could finally see the portal with my own eyes. It was the same substance as the other portals, but it was so much more than anything that had come before it. Once my eyes were on it, it was hard to look away. Instead of being shaped like a doorway, it was like an obelisk pointing upwards, about the same height as I was, joined to the sun by a column of light, glowing black and white and every color of the rainbow at the same time. It felt like its power was spilling across the world, radiating a sense of awe and fear and purpose. No wonder Morrow and Alchemist had kept their distance from it.
 
@@ -659,7 +665,7 @@ Alchemist turned and looked at the portal.
 
 "I knew…" they said resignedly. "I knew… when we got here, there was already three…"
 
-Those words had been confusing when I foresaw them, but now that I was here, I understood what they meant. The portal had five sides, just like the pyramid under us, and I could instinctively tell that there was one side for each of us. But the dazzling energy of the portal was strongest in just three of them – Rinn's, Alchemist's, and mine. The sides for Morrow and Justicar were duller, as if the power had been stripped down to the minimum necessary. Its full energy had no purpose unless you were still alive and still a Raveller.
+Those words had been confusing when I foresaw them, but now that I was here, I understood what they meant. The portal had five sides, just like the pyramid under us. I could instinctively tell that there was one side for each of us. But the dazzling energy of the portal was strongest in just three of them – Rinn's, Alchemist's, and mine. The sides for Morrow and Justicar were duller, as if the power had been stripped down to the minimum necessary. Its full energy had no purpose unless you were still alive and still a Raveller.
 
 "This wasn't right," I said. "None of this should have had to happen. All I can say is… it'll be over soon. We'll all go through that portal. You'll be home again."
 
@@ -669,7 +675,7 @@ Those words had been confusing when I foresaw them, but now that I was here, I u
 
 "Oh…"
 
-I sat down, manifesting a long bench for the three of us, with a wide base to stop it from falling over when Morrow would knock into it later. My mind was bent towards what lay ahead in the portal, but I could afford to take a little time for closure. Alchemist sat down next to me. Morrow thumped down on the other side of Alchemist, huddling into their chest. Alchemist idly started feeding him a large candy bar.
+I sat down, manifesting a long bench for the three of us, with a wide base to keep it stable when Morrow would knock into it later. My mind was bent towards what lay ahead in the portal, but I could afford to take a little time for closure. Alchemist sat down next to me. Morrow thumped down on the other side of Alchemist, huddling into their chest. Alchemist idly started feeding him a large candy bar.
 
 "Alchemist," I said evenly, "I believe I owe you a great deal. Your potions have saved Rinn's life more than once now. And possibly my life as well. If there's anything I can do for you in return, I'd like to do that."
 
@@ -693,7 +699,7 @@ I concentrated, just like if I was using the Seeing. I already knew what I was g
 
 I gave them a little time to relax. Then I added, "We can also exchange phone numbers, in case you think of anything I can do for you once we're in the material world. I won't have any magical abilities, but… people say I'm very capable." I pulled out my phone.
 
-Alchemist shivered. "I, didn't, have my phone, on me, when…"
+Alchemist shivered. "I, didn't, have my phone, with me, when…"
 
 In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they thought they might not remember it. And if <em>they</em> told me <em>their</em> number, they thought they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. I won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
 
