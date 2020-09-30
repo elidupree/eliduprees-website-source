@@ -23,7 +23,11 @@ I listened for the future. There was the heavy hum of Alchemist's presence. The 
 
 It was –
 
-If I said it was over, I would sit down, and I wouldn't get up again for a long time. But there were many things I still needed to do.
+If I said it was over, I would sit down, and I wouldn't get up again for a long time. But there were many things I still needed to do. Only the first half of my plan was completed.
+
+First, I had to deal with the bodies in front of me. And then, with the gods.
+
+<bigbreak>
 
 First, I would have to look at Rinn. There would still be injuries on her body. But logically, I knew that she was not in pain, and that the injuries would not be permanent. The healing potion I had given her would see to that. So there was no need for me to feel anxious about what I saw.
 
