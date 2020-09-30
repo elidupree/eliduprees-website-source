@@ -156,7 +156,7 @@ But I didn't <em>want</em> to be like the Waiting.
 
 I needed more time to process this, sometime <em>later</em>. My own feelings weren't important – no, they were – but they weren't <em>urgent</em>. Until the Waiting God came back, I had to focus on the things I couldn't learn any other way.
 
-Like what ????? had <em>done</em> with his new knowledge of Blood law.
+Like what Brannet had <em>done</em> with his new knowledge of Blood law.
 
 
 <bigbreak>
