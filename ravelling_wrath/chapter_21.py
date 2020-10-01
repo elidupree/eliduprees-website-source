@@ -197,7 +197,7 @@ Yali smiled. "I like how optimistic you are. But I think we might need a differe
 
 "What's wrong with the power of love? I figured you'd like that better than 'listen up or we'll kick your ass' –"
 
-Yali smirked. "'Listen up or we'll kick your ass' does have a certain appeal… But no. I just wouldn't want to imply that love is everything, or even the majority, of what gave us the power to stand against the gods. I meant what I said to Alchemist, I wasn't just trying to scare them. If you hide from the truth, if you don't have a plan, love will do nothing for you. Our love was very important, it was part of why we succeeded, but it wasn't the only part. We also had a plan for how to take that love and –"
+Yali smirked. "'Listen up or we'll kick your ass' does have a certain appeal… But no. I just don't want to say that love is going to fix everything by itself. I meant what I said to Alchemist, I wasn't just trying to scare them. If you hide from the truth, if you don't have a plan, love will do nothing for you. Our love was very important, it was <em>part</em> of what gave us the power to stand against the gods, but it wasn't the only part. We also had a plan for how to take that love and –"
 
 "– and make it have meaning," I finished.
 
@@ -205,7 +205,7 @@ Yali smirked. "'Listen up or we'll kick your ass' does have a certain appeal… 
 
 "What's wrong with that?!"
 
-"Nothing's <em>wrong</em>, it's just, it's just, hard for me to get used to. This idea that your feelings have a meaning, instead of just… being feelings. I think maybe it's more of a <em>goal</em>, like you <em>want</em> your feelings to have a meaning, so you keep trying to think of them that way until you find a meaning that fits."
+"Nothing's <em>wrong</em>, it's just, it's just, it's still hard for me to get used to. This idea that your feelings have a meaning, instead of just… being feelings. I think maybe it's more of a <em>goal</em>, like you <em>want</em> your feelings to have a meaning, so you keep trying to think of them that way until you find a meaning that fits."
 
 That wasn't anything like how <em>I</em> thought about it, but I could tell Yali was trying to meet me in the middle. "Sure, let's go with that," I said.
 
@@ -299,11 +299,23 @@ She smiled ruefully. "I'm okay <em>now</em>, because I'm filling up my mind with
 
 "Duties? How the fuck am I going to have 'duties'??"
 
-"You know, if you become the new High Priest of Blood."
+Yali got a weird look on her face. "If you… if you become the new High Priest of Blood."
 
 "WHAAAAAAAAAAAAAAAAAAAAAAT???!?!?!!!!"
 
-I was completely blown away. I probably would have literally fallen down if I wasn't already sitting. There were so many things that were impossible about that, I didn't even know where to start. "But I thought – I thought former Ravellers couldn't even <em>be</em> priests!"
+I was completely blown away. I probably would have literally fallen down if I wasn't already sitting. There were so many things that were impossible about that, I didn't even know where to start.
+
+
+
+"I didn't think I was going to say this," began Yali. Her hands pressed tight around mine, I could tell this was deadly serious. "I thought, for this entire time, that once we got home alive, I was going to say it was over. That we could be safe, that we could finally just live our lives together. But… but… someone <em>needs</em> to rebuild the Blood Temple. Even if it's against the law. Even if we don't know how. Because, if the Blood Temple had been here… if the Waiting God hadn't destroyed it… then <em>nothing</em> from my past would have happened the way it did. And that makes me so, <em>so</em>, angry…"
+
+"Woah," I whispered. "You actually said you were angry."
+
+"Yeah, I did," she said. "I guess I learned something from the Blood God after all."
+
+
+
+ "But I thought – I thought former Ravellers couldn't even <em>be</em> priests!"
 
 Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
 
@@ -335,9 +347,7 @@ We didn't even have to leave the house to get food, because Yali had stocked up 
 
 "I told you, I planned for both of us to get back alive," said Yali smugly.
 
-Amazingly, when the time came to sleep, Yali even let me sleep in the same bed with her.
-
-"I'm going to have trouble readjusting to my original bed anyway," she said. "Why not get used to you at the same time?"
+Amazingly, when the time came to sleep, Yali even let me sleep in the same bed with her. "I'm going to have trouble readjusting to my original bed anyway," she said. "Why not get used to you at the same time?"
 
 "Way to make it sound less romantic," I laughed. Yali just smiled indulgently.
 
@@ -345,7 +355,7 @@ It was still pretty awkward, just like it had been the first time in the Otherwo
 
 But as wonderful as everything was, it didn't last forever.
 
-One morning I woke up early and noticed that she wasn't in bed. She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall and crying.
+One morning I woke up early and noticed that she wasn't in bed. She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall, stiff and unresponsive.
 
 "Hey, anything I can help with?" I said, trying to sound gentle. She didn't react.
 
@@ -389,7 +399,7 @@ Yali stared at me blankly.
 
 "Then what is –"
 
-Yali waved her hand for me to be quiet.
+Yali waved me quiet.
 
 "Okay, at least let's go somewhere more comfortable?"
 
@@ -419,13 +429,13 @@ I gaped at her.
 
 "– You did SO much for us! I don't know how I would have made it if it wasn't for you! And not just me, even Alchemist –"
 
-"I said, <em>that's enough!</em>" she snarled bitterly.
+"I said, <em>that's enough!</em>" she snarled.
 
 "What –"
 
-Yali's face scrunched up again, sobbing uncontrollably. Shit! Had I fucked up again?? I squeezed my arms around her shoulders, but she didn't react at all. I felt like I had been locked out. I just hung onto her while she shook, overcome with wave after wave of new tears. When she tried to sit up and lost her balance, I let her brace herself on my arm. When she started sniffling, I offered my sleeve for her to blow her nose in.
+Yali's face froze up, her body tense next to me. Shit! Had I fucked up again?? I squeezed my arms around her shoulders, but she didn't react at all. I felt like I had been locked out. I just hung onto her while she shook, waiting for her to find her way back.
 
-Finally, looking down, she blubbered, "How do you know what to say, when, when, when <em>you</em> feel bad? You always have something to say… How do you do it…?"
+Finally, looking down, she mumbled, "How do you know what to say, when, when, when <em>you</em> feel bad? You always have something to say… How do you do it…?"
 
 I wanted to help, but I wasn't sure how. "I mean, I don't know, I just say what comes naturally?"
 
@@ -437,9 +447,9 @@ I wanted to help, but I wasn't sure how. "I mean, I don't know, I just say what 
 
 <bigbreak>
 
-Yali sat there for a long time. I kept cuddling up to her, feeling her slow and heavy breathing through my body. Her tears dried up, but her eyes were still puffy and reddish.
+Yali sat there for a long time. I kept cuddling up to her, feeling her heavy breathing through my body, as it steadily got slower and more relaxed.
 
-The sun slowly rose, filtering through the blinds. The light made me realize what time it was and how long we'd been just sitting there. I offered to bring Yali some breakfast, but she just patted my hand and got up to get it herself. I followed her as she plodded around the kitchen, gathering up a meal for both of us. I was kinda hungry myself and I wanted to jump ahead, but this was the time for me to take care of Yali. I stayed back and let her go through her process.
+The sun slowly rose, filtering through the blinds. The light made me realize what time it was and how long we'd been just sitting there. I offered to bring Yali some breakfast, but she just patted my hand and got up to get it herself. I followed her as she plodded around the kitchen, gathering up a meal for both of us. I was kinda hungry myself, and I wanted to jump ahead, but this was the time for me to take care of Yali. I stayed back and let her go through her process.
 
 When we were done, Yali gathered up the dishes and brought them to the sink to wash. She scrubbed each plate with practiced movements, like she'd done this a million times before.
 
@@ -455,13 +465,13 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 "But your feelings <em>always</em> mat–"
 
-"I know. I know." Yali waved for me to be quiet. "And now… I think I'm a little more Blood. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now, too."
+"I know. I know." Yali held up a placating hand. "And now… I think I'm a little more Blood. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now, too."
 
 Watching Yali try to make sense of her feelings… it was tearing at my heart. It was such a simple thing, something I had known how to do since before I could walk, something that Yali was still trying to learn. Tears welled up in my eyes. Everything had been so hard for her. It was bad enough that she'd had to handle her abusers all by herself. If there was any justice, that would have been the end of it. But on top of that, the gods – the gods, who were <em>supposed</em> to watch over us all, to guide and protect us – had used her life as a prop in their feud. And then she had had to solve <em>their</em> problems for them, too! I couldn't take it. It was just so unfair.
 
 Yali noticed my tears. "You okay there?" she said distractedly.
 
-"<em>I'm</em> fine…" I halfheartedly wiped away a tear. "You just got me thinking about the gods. Why did they have to be like this? They could have just all worked together, and then none of this would have happened. We could have just been… Rinn and Yali." I swallowed. "You know how when you're a kid and they're teaching you about the gods, it's always, 'the five gods watch over the city', like they're all out there together, all being wise together, except maybe the Blood God – and now we know even the Blood God was <em>supposed</em> to be good. It's like they're all supposed to be some sort of… <em>ideal</em>, but then the real thing is so much more messed up. Like the Blood God is supposed to love and protect everyone, but it got twisted into this whole revenge thing. And the Seeking God is exciting and creative, but it doesn't care if it has to walk over everyone just to see what happens. And –"
+"<em>I'm</em> fine…" I halfheartedly wiped away a tear. "You just got me thinking about the gods. Why did they have to be like this? They could have just all worked together, and then none of this would have happened. We could have just been… Rinn and Yali." I swallowed. "You know how when you're a kid and they're teaching you about the gods, it's always, 'the five gods watch over the city', like they're all out there together, all being wise together, except maybe the Blood God – and now we know even the Blood God was <em>supposed</em> to be good. It's like they're all supposed to be some sort of… <em>ideal</em>, but then the real thing is so much more messed up. Like the Blood God is supposed to love and protect everyone, but it got twisted until it was nothing but revenge. And the Seeking God is exciting and creative, but [????? it doesn't care if it has to walk over everyone just to see what happens]. And –"
 
 "And the Waiting is supposed to be wise and farsighted, but it couldn't see when the other gods had something worth saying, too."
 
@@ -475,7 +485,7 @@ Her words settled over me like a heavy shroud. I didn't want it to be true. Afte
 
 "And maybe if we do it long enough, maybe the gods themselves will change into something better."
 
-I felt the long road stretch out ahead of me, the endless struggle to face the gods and shape something good out of their avalanche of power. I knew I had the strength. But it was hard to face it and not waver. "It's just so much," I said. "It's just… so much. I didn't want us to have to fix the gods, or rebuild a whole Blood Temple, or… I wanted us to just be Rinn and Yali. I just…"
+I felt the long road stretch out ahead of me, the endless struggle to face the gods and shape something good out of their avalanche of power. I knew I had the strength. But it was hard to face it and not feel a little overwhelmed. "It's just so much," I said. "It's just… so much. I didn't want us to have to fix the gods, or rebuild a whole Blood Temple, or… I wanted us to just be Rinn and Yali. I just…"
 
 Yali stepped close to me. She put her hands on my shoulders, holding me firm and looking deep into my eyes. "I know," she said. "It was hard. And there will be hard things again, time after time, maybe as long as we live. But…" Her expression softened into a half-smile. "But we don't have to fix the gods <em>today</em>. Because… you're right… now's not the time to worry about what we couldn't do, it's the time to feel good about, about… We won. We both got back alive and, and, generally in one piece. Gods know we deserve a break. And so we really do have a chance to, to, to be what you said. To just be Rinn and Yali, at least for a while. So… Want to go back to doing that?"
 
@@ -499,7 +509,7 @@ Yali called the monks who were responsible for her. It was a short call, just se
 
 "Woah! That's big, you always said you didn't want –"
 
-"I did say that, didn't I. But, I mean, I mean, things are a lot different now. People need to know about what the Waiting God did. And I can't really tell them about <em>that</em> without telling them about <em>me</em>. And, more than that, I think… I think I always assumed that if I admitted I was the Farseer, it would be like admitting that the Waiting God was right. But now it's kind of the opposite, isn't it? And if I really did make Waiting God stop…" She gave a little smirk. "I think I might want some of the credit."
+[????? Slightly too organized or something: "I did say that, didn't I. But, I mean, I mean, things are a lot different now. People need to know about what the Waiting God did. And I can't really tell them about <em>that</em> without telling them about <em>me</em>. And, more than that, I think… I think I always assumed that if I admitted I was the Farseer, it would be like admitting that the Waiting God was right. But now it's kind of the opposite, isn't it? And if I really did make Waiting God stop…" She gave a little smirk. "I think I might want some of the credit."
 
 I grinned. "Nice," I said.
 
@@ -521,17 +531,17 @@ We stood halfway out the door for what felt like hours, arms wrapped around each
 
 With an enormous effort, I turned away and started the long run home.
 
-My feet pounded on the street, carrying me fast and heavily down the old roads. I had been away for months, but now, everything was so familiar. I breezed past the Duvidi's where I had first talk to Yali about what made me angry. I sped down Draegel Street, habitually slapping the flagpole that us kids used as the finish line in our races.
+My feet pounded on the street, carrying me fast and [????? heavily] down the old roads. I had been away for months, but now, everything was so familiar. I breezed past the Duvidi's where I had first talked to Yali about what made me angry. I sped down Draegel Street, habitually slapping the flagpole that my friends used as the finish line in our races.
 
 On my right, I passed the road leading to Layo's house. It made me want to turn and run that way, to hug him and tell him I'd made it. But I would see him soon enough. There would be time enough to tell all my friends about my adventures. For now, I was going home.
 
 Finally, I reached the gate into the fifth ring. The ring that was my home. The ring of the Blood God.
 
-The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel that same sense of <em>wrongness</em> I had felt about the Stern Temple ruling this ring. I was Rinn, who had grown up with all of this being normal. But I remembered. And I couldn't see anything in quite the same way anymore.
+The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel that same sense of <em>wrongness</em> I had felt when I thought about the Stern Temple ruling this ring. I was Rinn, who had grown up with all of this being normal. But I remembered. And I couldn't see anything in quite the same way anymore.
 
-When I ran past the old basketball court full of trash, I remembered a time when I had seen it as a place where random assholes dumped their trash and spoiled our fun. But now, I saw the temple who watched over them. A temple who wouldn't help anyone afford to take away their trash, who wouldn't fix the potholes or the broken streetlights, but who always had time to sic the police on homeless people, to cart random people off to jail.
+[????? "I remembered" initially suggests the wrong context, and similar problems] When I ran past the old basketball court full of trash, I remembered a time when I had seen it as a place where random assholes dumped their trash and spoiled our fun. But now, I saw the temple who watched over them. A temple who wouldn't help anyone afford to take away their trash, who wouldn't fix the potholes or the broken streetlights, but who always had time to sic the police on homeless people, to cart random people off to jail.
 
-When I ran past the store where Pèi stole her jewelry, it made me think about Javin, about what the Seeking God had taught me. People who stole, people who got high in the alleyways, people who sold sex and called themselves trash and wanted to die – they were a people starved of their blood, trying to claw back their rightful power from a world that had taken it away. My heart beat in time with theirs. They had been trampled over, and it was not right to let them be trampled over again.
+When I ran past the store where Pèi stole her jewelry, it made me think about Javin, about what the Seeking God had taught me. [????? Not introduced smoothly enough:] People who stole, people who got high in the alleyways, people who sold sex and called themselves trash and wanted to die – they were a people starved of their blood, trying to claw back their rightful power from a world that had taken it away. My heart beat in time with theirs. They had been trampled over, and it was not right to let them be trampled over again.
 
 And when I ran past the supermarket near the street with my house, I remembered something Yali had told me. This was where one of the Blood temples had been, before it was demolished. Before the Stern Temple had sold the land to build this parking lot here.
 
