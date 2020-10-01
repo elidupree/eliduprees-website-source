@@ -19,7 +19,7 @@ posts = [
 
 <em>Uuuuuuggggggggggghhhhhhhhhhhhhhhhh.</em>
 
-It would have been so easy to just go back to sleep again. It was so much work to push through the blanket of sleep over me, so easy to let go and let it pull me back. But this was like the seventh time I'd drifted awake, and it was getting more and more uncomfortable every time. My arms and legs were full of pins and needles. My mouth felt like it was full of fuzzy cloth. And I needed to pee real bad.
+It would have been so easy to just go back to sleep again. It was so much work to push through the weight of sleep over me, and so easy to just let go and sink back in. But this was like the seventh time I'd drifted awake, and it was getting more and more uncomfortable each time. My arms and legs were full of pins and needles. My mouth felt like it was full of fuzzy cloth. And I needed to pee real bad.
 
 I stubbornly clung onto consciousness.
 
@@ -43,7 +43,7 @@ I slowly tried flexing my shoulders in all directions. It was an effort, and one
 
 "That's good. That means the healing has finished like it was supposed to. So, so… just keep being careful… let's see what we can do."
 
-Yali knelt down next to me and pulled my limp arm over her shoulder. Once I locked my arms in place, she slowly stood, carrying most of my weight. I unsteadily stumbled my feet over each other, bouncing randomly against Yali's body as we walked towards the bathroom.
+Yali knelt down next to me and pulled my limp arm over her shoulder. Once I locked my arms in place, she slowly stood, carrying most of my weight. I stumbled my feet over each other, bouncing randomly against Yali's body as we walked towards the bathroom.
 
 "Where ahhhh we?" I said. It was, like, a regular indoors room, but not one I'd seen before.
 
@@ -71,7 +71,7 @@ Together, we stumbled into the bathroom. In front of the toilet, Yali paused awk
 
 "Months, actually."
 
-I hurt myself laughing again. It was a pretty comical situation, me letting go on the toilet while Yali was stuck awkwardly holding onto my shoulders to keep me balanced. "This is gonna be a hilarious story someday…" I said.
+I hurt myself laughing again. It was a pretty comical situation, me letting go on the toilet while Yali was stuck holding onto my shoulders to keep me balanced. "This is gonna be a hilarious story someday…" I said.
 
 Yali smiled despite herself. "How very Waiting of you," she said.
 
@@ -101,7 +101,7 @@ Yali pulled a fistful of cash out of her pocket.
 
 Yali counted through the bills absentmindedly. "It's not enough for overpriced things like room service, though," she muttered. "I need to make this last until we take a taxi home. They might have frozen my account when I went missing, and if I try to use it, the monks might get notified… I mean, I'll have to tell them I'm back eventually, I just want some time to adjust… Anyway, I know the stores around here. I'll go get something. If you're okay on your own…" Yali examined me again, then checked a few more things about magical healing on the Internet. Eventually, she was satisfied that I wouldn't die if she left me alone for a few minutes. She didn't let me come with her, though. She made me stay at the hotel and rest.
 
-Before long, she got back with some prepackaged meals in a bag. They weren't anything special, but the way I was feeling, they all looked delicious. Yali set them down on the table and started carefully getting one ready. Normally I would have ripped into it as soon as it wasn't frozen, but my head was still a <em>little</em> fuzzy, so I let Yali do with her way, checking it every thirty seconds as it heated up in the microwave.
+Before long, she got back with some prepackaged meals in a bag. They weren't anything special, but the way I was feeling, they all looked delicious. Yali set them down on the table and started getting one ready. Normally I would have ripped into it as soon as it wasn't frozen, but my head was still a <em>little</em> fuzzy, so I let Yali do it her way, checking it every thirty seconds as it heated up in the microwave.
 
 At long last, she set it down in front of me.
 
@@ -149,9 +149,7 @@ Yali hesitated. "It should be. I should be happy that we both got out alive and 
 
 "But…?"
 
-Yali's eyes moved slowly, staring at the table. "I just wish I knew if it worked. If, if, the Waiting God is even thinking anything different, because of what I did. But I guess we won't really know until next year's Ravelling. I don't remember anything after I went into the final portal and the god started taking me apart."
-
-????
+Yali's eyes moved slowly, staring at the table. "I just wish I knew if it worked. If, if, the Waiting God is even thinking anything different, because of what I did. But I guess we won't really know until next year's Ravelling. I don't remember anything after the god started taking me apart."
 
 A thought drifted into my head. It was only half-formed, but I felt like I should say it. "I… remember something," I said.
 
@@ -183,7 +181,7 @@ Yali slumped a little. "I guess I shouldn't have hoped for something clearer…"
 
 "Oh gods."
 
-"I'm sure some of the people out there still hate me because I spoiled their fun, because they can't go to the Dalners' parties anymore. They all just want to pretend that everything is fine. Like if you just go to school and do what you're supposed to, and then get a job and do what you're supposed to, and maybe give to charity a little, then you've done enough, and everything will be fine. But it's not fine. It won't be fine. And they don't even want to <em>imagine</em> what it would take to fix everything. So if I don't do it, no one else will do it for me. So no, I can't afford to say I've done enough just because I did something no one else did. If I'm the only one doing it, I have to do it perfectly, because if <em>I</em> make a mistake, there won't be a second chance to get it right."
+"I'm sure some of the people out there still hate me because I spoiled their fun, because they can't go to the Dalners' parties anymore. They all just want to pretend that everything is fine. Like if you just go to school and do what you're supposed to, and then get a job and do what you're supposed to, and maybe give to charity a little, then you've done enough, and everything will be fine. But it's not fine. It won't be fine. And they don't even want to <em>imagine</em> what it would take to fix everything. So if I don't do it, no one else will do it for me. And so, no, I can't afford to say I've done enough just because I did something no one else did. If I'm the only one doing it, I have to do it perfectly, because if <em>I</em> make a mistake, there won't be a second chance to get it right."
 
 "That's dark," I said.
 
@@ -211,7 +209,7 @@ Yali smirked. "'Listen up or we'll kick your ass' does have a certain appeal… 
 
 That wasn't anything like how <em>I</em> thought about it, but I could tell Yali was trying to meet me in the middle. "Sure, let's go with that," I said.
 
-"And that's what the Blood God is all about. It's not all bad. I definitely learned something from it, in the Otherworld. But people are always… Well, actually, maybe I shouldn't blame the Blood God for this. Maybe it's just people being people, and the Blood God would actually think it's unholy…"
+[?????confusing "And that's what the Blood God is all about. It's not all bad. I definitely learned something from it, in the Otherworld. But people are always… Well, actually, maybe I shouldn't blame the Blood God for this. Maybe it's just people being people, and the Blood God would actually think it's unholy…"]
 
 "Think what's unholy?"
 
@@ -221,14 +219,14 @@ That wasn't anything like how <em>I</em> thought about it, but I could tell Yali
 
 "Do people really do that?" said Yali distractedly. "I guess I'm not surprised, people are always hurting each other for no good reason. But I was actually thinking of when people are like, 'well, we love each other, so everything is going to work out', even when there are actually huge problems in their relationship. Like… Love is never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands. That's what I know. That's what the Waiting knows. If I want someone to stop what they're doing, I have to know how to force them to."
 
-"You're right," I said heavily. "But that's a Blood thing too. Remember how you said the Blood God values <em>power</em>? I don't think that was ever about, like, the power to control other people, to make them serve you. It's the power to stick up for what you believe in. To protect yourself, to protect other people. Like, fuckin' Morrow… I mean, I care about him, but he never listened to me when I just <em>told</em> him he was fucking up. At some point, I had to be like, 'this is where I'm gonna stop you', or he would have just kept making things worse for everyone. Gods, I hope he gets better somehow…" I trailed off, thinking about how he'd been feeling when I'd last seen him, when we were leaving the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's number, how are we gonna –"
+[?????doesn't flow into this:] "You're right," I said heavily. "But that's a Blood thing too. Remember how you said the Blood God values <em>power</em>? I don't think that was ever about, like, the power to control other people, to make them serve you. It's the power to stick up for what you believe in. To protect yourself, to protect other people. Like, fuckin' Morrow… I mean, I care about him, but he never listened to me when I just <em>told</em> him he was fucking up. At some point, I had to be like, 'this is where I'm gonna stop you', or he would have just kept making things worse for everyone. Gods, I hope he gets better somehow…" I trailed off, thinking about how he'd been feeling when I'd last seen him, when we were leaving the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's number, how are we gonna –"
 
 Yali gave a little smile. "Yeah, about that…" she said.
 
 <bigbreak>
 
 <p class="text right"> Hey!! It's Rinn!! </p>
-<p class="text right"> back on earth and feeling great, &lt;3 &lt;3 &lt;3 your healing magic haha</p>
+<p class="text right"> back on earth and feeling great, ❤❤❤ your healing magic haha</p>
 <p class="text right"> how are you doing?? Back with your folks I hope? </p>
 
 <p class="text right"> how is everyone? Did Niemah pass her exam?? </p>
@@ -236,12 +234,14 @@ Yali gave a little smile. "Yeah, about that…" she said.
 <p class="text right"> Oh and have you heard from Morrow? Gods I hope he's okay </p>
 <p class="text right"> and and and </p>
 <p class="text right"> sorry for all the questions haha </p>
-<p class="text right"> it's just I've got nothing to do because Yali is making me sit still so I don't overexert myself :-( </p>
+<p class="text right"> it's just I've got nothing to do because Yali is making me sit still so I don't overexert myself 😫 </p>
 <p class="text right"> btw what should I call you now? Unless you want to stick with Alchemist but we have regular alchemists here it could be confusing </p>
 
 <div class="clear"></div>
 
 It took about twenty minutes before Alchemist texted me back. When they did, I was treated to a whole flood of emoji.
+
+[????? actual texts]
 
 "Oh thank gods, Morrow made it," I said.
 
