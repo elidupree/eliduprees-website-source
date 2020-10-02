@@ -86,7 +86,7 @@ for index, chapter in enumerate (chapters):
     emoji = match.group(0)
     hex_string = hex(ord(emoji))[2:]
     return f'<img class="emoji" alt="{emoji}" src="/media/ravelling-wrath/emoji/{hex_string}.svg?rr" />'
-  chapter ["contents"] = re.sub(r"😡|😂|❤|😝", replace_emoji, chapter ["contents"])
+  chapter ["contents"] = re.sub(r"😡|😂|❤|😝|😫", replace_emoji, chapter ["contents"])
   
 
 def chapter_to_post (chapter):
