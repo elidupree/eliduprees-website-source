@@ -332,15 +332,25 @@ Justicar was smiling – the smile of someone who's being patient with a little 
 
 "If you would give me a chance to explain the actual principles I follow, you would know I do not believe anything like that. It is always wrong to force yourself on someone else. But no one forced themselves on me. It was my own choice to devalue my body like that. I <em>chose</em> to allow men to use my body for their pleasure, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
 
-[????? I was in distress, I didn't want to accept what Justicar was saying but I couldn't figure out how to argue against it. But then I felt the Blood God pulsing inside me, wanting to say something. The words flowed out of me, "[good answer to Justicar's ideology]", instead of:]
+Ugh, this was the <em>worst</em>. It was like Justicar already had an answer prepared for everything I was going to say. I had let this go on too long. I had let Stern ideas take over the discussion while I was locked away. I needed to clear my head, I needed –
 
-Up to this point, I had mostly just been messing with her. But now… a terrible ache pulled at my heart. This was deadly serious. Her words were a violation, a gaping wound, trying to twist my blood out of its course. Coldly, I stated, "That's your <em>real</em> problem. It's not the sex. It's not the drinking. It's the self-respect. But –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. If anyone doesn't treat me right, they can fuck right off. And if they don't fuck right off, I <em>make</em> them fuck right off. I'm nothing like you."
+<em>While I was locked away…</em> was that the Blood God? It was. But it felt different than before. The power pulsing inside my head felt like it was ready to support me, like it knew what to do, like it could find the true path through Justicar's ideas, if only I would give it space in my head.
+
+If only I would accept it.
+
+So I accepted it.
+
+The presence flowed into my head, clearing away my frustrations. [????? Justicar… I saw all of her arguments as a structure built up around a heart; somewhere in this chapter, "logic was supposed to serve the heart, not be turned against it"] <em>To fill that void</em>, she'd said. She was wounded, [????? and she had made lots of laws to cover up the wound, but she didn't know how to heal it. Was it healed even now?]/[????someone who would reject their human name for the Stern]
+
+"Do you have self-respect <em>now</em>?" I asked.
+
+"Of course I do. I have learned to restrain my baser impulses –"
+
+I shook my head sadly. "You don't even know what self-respect <em>is</em>. Your problem was never the sex. It wasn't the drinking. It was what was inside your heart. You look at me and you see someone like yourself, because you don't even understand how anyone could live in peace with themselves. But <em>I</em> –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. I know who I am, and if anyone doesn't treat me right, they can fuck right off. And if they don't fuck right off, I <em>make</em> them fuck right off. I'm nothing like you."
 
 Justicar raised an eyebrow. "When I was your age, I too believed that I was being assertive and empowered."
 
-[????? I knew I was right; if she couldn't see that, that was her problem. instead of:]
-
-Ugh, what was even the point of being serious with her? She was just going to keep saying fucked-up stuff either way. "Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
+She thought I was still just speaking for myself. She hadn't recognized the Blood God's words when she heard them. The Blood God wanted to keep looking for answers, but I could feel it getting frustrated. And I didn't like where that was going. I fell back to a Rinn answer. "Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
 
 "You can believe what you like," she said.
 
@@ -426,9 +436,7 @@ I laughed in her face. "You think I have something against responsible people?! 
 
 Justicar raised an eyebrow. "I must admit, I was not expecting <em>you</em> to accuse <em>me</em> of irresponsibility."
 
-[????? Explicit that the Blood God is responsible for this ideology:]
-
-"Argh, do I have to spell it out for you?! You're telling me a story about how some people <em>forced</em> you to do what <em>they</em> told you to, by <em>punishing</em> you until you <em>gave in</em>. And you call that <em>being responsible for yourself?</em> That's not being responsible, that's – argh!" I couldn't even think of the <em>words</em> for how twisted that was. "That's just someone else making all the decisions and you doing all the work. Being responsible is making your OWN DECISIONS!! And now you just do whatever the <em>Stern God</em> wants, too! Out with the old boss, in with the new boss!"
+The Blood God was already with me, already guiding my words. "Do I have to spell it out for you?" I demanded. "You're telling me a story about how some people <em>forced</em> you to do what <em>they</em> told you to, by <em>punishing</em> you until you <em>gave in</em>. And you call that <em>being responsible for yourself?</em> That's not being responsible, that's – argh!" I couldn't even think of the <em>words</em> for how twisted that was. "That's just someone else making all the decisions and you doing all the work. Being responsible is making your OWN DECISIONS!! And now you just do whatever the <em>Stern God</em> wants, too! Out with the old boss, in with the new boss!"
 
 "You speak as if the Stern God's wisdom has no value."
 
