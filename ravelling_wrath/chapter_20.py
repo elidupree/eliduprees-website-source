@@ -130,7 +130,7 @@ When the Stern Temple had punished the Dalners, I had never actually seen it wit
 
 Was this how the Blood God felt about the Waiting God…?
 
-But <em>its</em> revenge had tried to kill <em>me!</em> It wasn't innocent, it had kept fighting even when that meant killing humans who shouldn't have been involved! That was –
+But the <em>Blood God's</em> revenge had tried to kill <em>me!</em> It wasn't innocent, it had kept fighting even when that meant killing humans who shouldn't have been involved! That was –
 
 Wait. That was <em>dechiokhari</em>.
 
@@ -577,7 +577,7 @@ But the abuses were inherently enabled by the plan. Hadn't we just thought of ta
 
 The god was silent. It didn't understand, just like it hadn't understood the connection between me and its high priest. It generally thought that exploiting people was bad, but just didn't make the connection. It was unsettling, but it also gave me a surge of hope. If the god could not fill this space with an answer, then when part of me became part of it, <em>I</em> could fill this space with an answer. And my answer would be, <em>We are going to stop now.</em>
 
-I had my own plan now. <em>I</em> would make the world a place like the one Hiram had envisioned. And even has the god had doubted this plan, it had still seen the Waiting nature in it. To be Waiting was to desire certainty about the future. And what could be more certain than a world where children could grow up knowing that there would always be a place for them? Knowing that the lives they built would never be sacrificed for others' greed? That would be <em>my</em> vision of what it meant to be Waiting. And no matter how deeply the god was committed to its plan, it could not completely dismiss me.
+I had my own plan now. <em>I</em> would make the world a place like the one Hiram had envisioned. And even as the god had doubted this plan, it had still seen the Waiting nature in it. To be Waiting was to desire certainty about the future. And what could be more certain than a world where children could grow up knowing that there would always be a place for them? Knowing that the lives they built would never be sacrificed for others' greed? That would be <em>my</em> vision of what it meant to be Waiting. And no matter how deeply the god was committed to its plan, it could not completely dismiss me.
 
 I was ready to approach the portal.
 
@@ -627,7 +627,7 @@ But each future took me a step closer to what I was looking for. I could do this
 
 <bigbreak>
 
-After a dozen more futures, I found one that satisfied me. I forced myself to my feet, hefted the handle of Rinn's wagon, and headed for the portal.
+I forced myself to my feet. It had taken me hours to find a future that truly satisfied me. But I had found adequate resolutions for the possibilities I had struggled with. I hefted the handle of Rinn's wagon, and headed for the portal.
 
 Morrow ran down to meet me, as I had seen. I caught his hand, keeping it close between us, out of Alchemist's view. I looked in his eyes to make sure I could see the fear there. "I'm not planning to hurt you," I said quietly. "But don't speak to me."
 
