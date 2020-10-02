@@ -241,6 +241,13 @@ Yali gave a little smile. "Yeah, about that…" she said.
 
 It took about twenty minutes before Alchemist texted me back. When they did, I was treated to a whole flood of emoji.
 
+<p class="text left"> 🏃‍♀️!! </p>
+<p class="text left"> 🤕😨😨🧪😧🧪🧪🧪😌😌😌🌈❤️🧡💛💚💙💜🤎🖤 </p>
+<p class="text left"> 🤗👨‍👩‍👦‍👦👨‍👨‍👧‍👦👩‍👧‍👦👨‍👧‍👦🤗 </p>
+<p class="text left"> 💯😌😟😲😆😌😌👍 </p>
+<p class="text left"> 😟😟📱🤪😌😶😟🤪😌😌 </p>
+<p class="text left"> 🤗🤗🤗 </p>
+
 [????? actual texts]
 
 "Oh thank gods, Morrow made it," I said.
