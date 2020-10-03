@@ -312,37 +312,23 @@ Yali got a weird look on her face. "If you… if you become the new High Priest 
 
 I was completely blown away. I probably would have literally fallen down if I wasn't already sitting. There were so many things that were impossible about that, I didn't even know where to start.
 
-
+"Wh– wha– how do you even become a – <em>there isn't even a Blood Temple!!</em>"
 
 "I didn't think I was going to say this," began Yali. Her hands pressed tight around mine, I could tell this was deadly serious. "I thought, for this entire time, that once we got home alive, I was going to say it was over. That we could be safe, that we could finally just live our lives together. But… but… someone <em>needs</em> to rebuild the Blood Temple. Even if it's against the law. Even if we don't know how. Because, if the Blood Temple had been here… if the Waiting God hadn't destroyed it… then <em>nothing</em> from my past would have happened the way it did. And that makes me so, <em>so</em>, angry…"
 
 "Woah," I whispered. "You actually said you were angry."
 
-"Yeah, I did," she said. "I guess I learned something from the Blood God after all."
+"Yeah," she said heavily. "I did. I guess I learned something from the Blood God after all."
 
+"Oh gods," I said, sinking further back into the couch. "If you're actually serious about this… about me being a Blood priest for real…"
 
+"I'm not asking you to decide on anything right now!" she said quickly. "But you… you're the one who knows the Blood God inside and out. The only person alive who does."
 
- "But I thought – I thought former Ravellers couldn't even <em>be</em> priests!"
+"Oh gods," I said again. "I know I was talking about changing the world, but… okay, it sounds awesome, but… gods, I need a nap. I need to take a nap for, like, a whole month, before I can even <em>think</em> about temple stuff."
 
-Yali smirked. "And <em>I</em> thought Rinn Akatura didn't care about the rules."
+"That's fine. In fact… that's a relief, actually," said Yali. She smiled wistfully. "I've got all these notes… stuff I learned about the old Blood Temple when I was still in the Otherworld. And I'm not sure if <em>I</em> want to look at those notes anytime this month, either. I mean, other than to email them to myself so I have a backup. And I already did that while you were still unconscious. Yeah. No need to look at them again anytime soon. We're going to have enough to adjust to from just… just being back, and we'll have to go back to school soon, and you'll need to go home to your family, and… Oh, I think we can put that off for another few days at least." She seemed to relax a little.
 
-"Wh– Wha– And more importantly, how do you even become a – <em>there isn't even a Blood Temple!!</em>"
-
-"That's just the thing, though, isn't it? The Blood God has rejuvenated. And now some of us here in the material world will need to recreate the Blood Temple. And, I'm not asking you to decide on anything right now, but you… you're the one who knows the Blood God inside and out. The only person alive who does."
-
-"You're actually serious. Oh gods, you're actually serious."
-
-"I am," she said.
-
-"Oh gods," I said, putting a hand to my forehead. "I know I was talking about changing the world, but… okay, it sounds awesome, but… gods, I need a nap. I need to take a nap for, like, a whole month, before I can even <em>think</em> about temple stuff."
-
-"That's fine. In fact… that's a relief, actually," said Yali.
-
-"Wait, how is it a relief to <em>you</em>?"
-
-Yali smiled wistfully. "I've got all these notes… stuff I learned about the old Blood Temple when I was still in the Otherworld, stuff that might be useful if we ever want to build a new one. And I'm not sure if <em>I</em> want to look at those notes anytime this month, either. I mean, other than to email them to myself so I have a backup. And I already did that while you were still unconscious. Yeah. No need to look at them again anytime soon. We're going to have enough to adjust to from just… just being back, and we'll have to go back to school soon, and you'll need to go home to your family, and… Oh, I think we can put that off for another few days at least." She seemed to relax a little.
-
-"Yeah," I said. I pulled Yali back towards me. She flopped over on top of me, pleasantly squishing my body into the soft cushions. There were so many things to worry about for the future, but for now, we could forget all that. ????
+"Yeah," I said. I pulled Yali back towards me. She flopped over on top of me, pleasantly squishing my body into the soft cushions. And under Yali's weight, all my worries just vanished away.
 
 <bigbreak>
 
@@ -362,7 +348,7 @@ It was still pretty awkward, just like it had been the first time in the Otherwo
 
 But as wonderful as everything was, it didn't last forever.
 
-One morning I woke up early and noticed that she wasn't in bed. She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her head into the wall, stiff and unresponsive.
+One morning I woke up early and noticed that she wasn't in bed. She wasn't at her computer, either. I found her sitting on the kitchen floor, leaning her face on the wall, stiff and unresponsive.
 
 "Hey, anything I can help with?" I said, trying to sound gentle. She didn't react.
 
@@ -374,11 +360,11 @@ She didn't answer. Not sure what to do, I just stayed with her and kept holding 
 
 Finally, she shifted a little. With a hoarse voice, she choked out a few words.
 
-"She's dead because of me."
+"I know what you're going to say. You're going to tell me not to blame myself. Even though I almost got you killed by telling her. But she died. And you almost died. Because of what I told her."
 
-I tensed up. "Who in the – wait, you can't mean <em>Justicar??</em> Screw her!"
+I tensed up. "Who in the – wait, you can't mean <em>Justicar??</em> Are you seriously blaming yourself for what happened to <em>her</em>?!"
 
-My words didn't seem to get through. Yali kept muttering into the wall. "If only I just hadn't made you stab me… If only I just hadn't told her…"
+My words didn't seem to get through. Yali kept muttering into the wall. "If I just hadn't made you stab me… If I just hadn't told her…"
 
 "Come on, it was literally 100% her own fault she got killed! You literally gave her a chance to back out when she was in the middle of trying to kill us! Not to mention you <em>literally saved my life, so –</em>"
 
@@ -414,7 +400,7 @@ Yali allowed me to give her a hand up. I was probably completely useless – she
 
 She exhaled, long and shakily. "I shouldn't be dumping this on you… You were there too, you, you, did it just as much as I did…"
 
-"Yeah, but I don't feel guilty about it," I said. It felt a little weird being so casual about it. "I mean, if I killed someone <em>now</em>, I'd probably be pretty freaked out about it. But when I remember it, it's like it's the Blood God's memory more than mine. It doesn't feel like killing somebody, it feels like, I guess… righteously cutting through a tangle of, uh…"
+"Yeah, but I don't feel guilty about it," I said. It felt a little weird being so casual about that. "I mean, if I killed someone <em>now</em>, I'd probably be pretty freaked out about it. But when I remember it, it's like it's the Blood God's memory more than mine. It doesn't feel like killing somebody, it feels like, I guess… righteously cutting through a tangle of, uh…"
 
 "Good! Don't think about it too much. Leave the memory how it is."
 
@@ -478,13 +464,13 @@ Watching Yali try to make sense of her feelings… it was tearing at my heart. I
 
 Yali noticed my tears. "You okay there?" she said distractedly.
 
-"<em>I'm</em> fine…" I halfheartedly wiped away a tear. "You just got me thinking about the gods. Why did they have to be like this? They could have just all worked together, and then none of this would have happened. We could have just been… Rinn and Yali." I swallowed. "You know how when you're a kid and they're teaching you about the gods, it's always, 'the five gods watch over the city', like they're all out there together, all being wise together, except maybe the Blood God – and now we know even the Blood God was <em>supposed</em> to be good. It's like they're all supposed to be some sort of… <em>ideal</em>, but then the real thing is so much more messed up. Like the Blood God is supposed to love and protect everyone, but it got twisted until it was nothing but revenge. And the Seeking God is exciting and creative, but [????? it doesn't care if it has to walk over everyone just to see what happens]. And –"
+"<em>I'm</em> fine…" I halfheartedly wiped away a tear. "You just got me thinking about the gods. Why did they have to be like this? They could have just all worked together, and then none of this would have happened. We could have just been… Rinn and Yali." I swallowed. "You know how when you're a kid and they're teaching you about the gods, it's always, 'the five gods watch over the city', like they're all out there together, all being wise together, except maybe the Blood God – and now we know even the Blood God was <em>supposed</em> to be good. It's like they're all supposed to be some sort of… <em>ideal</em>, but then the real thing is so much more messed up. Like the Blood God is supposed to love and protect everyone, but it got twisted until it was nothing but revenge. And the Seeking God is exciting and creative, but it ended up walking all over everyone just to see what would happen. And –"
 
 "And the Waiting is supposed to be wise and farsighted, but it couldn't see when the other gods had something worth saying, too."
 
 "I just wish we could go back to how the gods are supposed to be."
 
-"Go <em>back</em>…" muttered Yali. She slowly rinsed the last of the dishes and stacked it in the drying rack with the others. "I'm sorry, Rinn, but I don't think there's anything to go back to. I don't think there was ever just one true way the gods were supposed to be at all. Remember… when I was the Farseer, I saw across all of history, and I never saw the gods being a perfect ideal. Or maybe they're a perfect ideal by their own principles, it's just not perfectly good for us humans. Or maybe they're not that either, I don't know. But what I did see is, is people <em>wanting</em> them to be. I think… I think we teach kids that the gods are perfect because we <em>want</em> them to be perfect. We want to think we live in a world where things make sense, where good ultimately wins against evil. But we don't. We live in a world where good wins if you can <em>make</em> it win. And the principles of the gods… they're not automatically good. They're like, like, a half-finished idea, something that's not good or bad until you write down how you're actually going to use it in your life. Like the Waiting wants us to make plans, but you can have a good plan or an evil plan, and either one is just as sacred to it. And the Blood God wants us to value our feelings, but you can feel like helping someone or you can feel like hurting them, and either of those is just as sacred to it. So if we want the gods to be good… then <em>we</em> have to figure out how to finish the idea. It's up to us humans to interpret the principles in a way that makes them good. Otherwise… They'll just go on being… being what they are."
+"Go <em>back</em>…" muttered Yali. She slowly rinsed the last plate and stacked it in the drying rack with the others. "I'm sorry, Rinn, but I don't think there's anything to go back to. I don't think there was ever just one true way the gods were supposed to be at all. Remember… when I was the Farseer, I saw across all of history, and I never saw the gods being a perfect ideal. Or maybe they're a perfect ideal by their own principles, it's just not perfectly good for us humans. Or maybe they're not that either, I don't know. But what I did see is, is people <em>wanting</em> them to be. I think… I think we teach kids that the gods are perfect because we <em>want</em> them to be perfect. We want to think we live in a world where things make sense, where good ultimately wins against evil. But we don't. We live in a world where good wins if you can <em>make</em> it win. And the principles of the gods… they're not automatically good. They're like, like, a half-finished idea, something that's not good or bad until you write down how you're actually going to use it in your life. Like the Waiting wants us to make plans, but you can have a good plan or an evil plan, and either one is just as sacred to it. And the Blood God wants us to value our feelings, but you can feel like helping someone or you can feel like hurting them, and either of those is just as sacred to it. So if we want the gods to be good… then <em>we</em> have to figure out how to finish the idea. It's up to us humans to interpret the principles in a way that makes them good. Otherwise… They'll just go on being… being what they are."
 
 Her words settled over me like a heavy shroud. I didn't want it to be true. After everything we'd been through… after everything Yali had had to fight through, after all the pain the gods had left her with… I didn't want everything to still be left open-ended. I wanted them to finally give us a simple answer, something that would let everything be healed. But it was true. When the Blood God was inside me, it hadn't given me just one answer to everything. In the Seeking God's world, it had had three different opinions about Justicar. In the Stern God's world, after it made me stab Yali, it had actually been conflicted, struggling with what to value. It wasn't just me-against-it. And even after we finally joined together, in the Broken God's world… when I was helping Morrow… even when I had felt like all the right answers were flowing into me from the Blood God, I was still thinking, still making my own choices. I <em>could</em> have taken the other form of the Blood God, the form of anger and vengeance. And then it would have given me all the right answers for <em>that</em>, a transcendent, godly way to unleash my rage onto Morrow's body. Soulfire had never felt like the Blood God pushing its own will through me. It had felt like the best version of myself, like it was bringing the truest form of my own will right to the tip of my tongue.
 
