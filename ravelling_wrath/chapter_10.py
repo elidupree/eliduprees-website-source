@@ -890,9 +890,11 @@ I turned around.
 
 "You see? I told you the Seeking God would never allow us to reach the Farseer this way."
 
-I kept looking at the map in my hand. Going too far in one direction took me further away from her. Going too far in the other direction also took me further away from her. I found the closest point, and glared at the wall there. On the map, the little Burning Heart was nearly touching the room Yali was in. If I could just get through this wall, Yali and I would be in the same room…
+I kept looking at the map in my hand. Going too far in one direction took me further away from her. Going too far in the other direction also took me further away from her. I found the closest point, and glared at the wall there. On the map, the little Burning Heart was nearly touching the room Yali was in. 
 
-"She's just beyond this wall!!" I yelled. "I will <em>not</em> be denied <em>again!</em>" I snatched a Blood Blade out of thin air and swung it against the wall. [????? Somewhere in here: Yali wasn't RIGHT there, I could smash through the wall without hurting her. So I could let the Blood God go ham]
+If I could just smash through this wall, I'd be right there, looking across the room at her…
+
+"She's just beyond this wall!!" I yelled. "I will <em>not</em> be denied <em>again!</em>" I snatched a Blood Blade out of thin air and swung it against the wall.
 
 The blade glanced off the wall's infinite smoothness. But I wasn't done. With my next heartbeat, another blade pulsed into my other hand. I whirled around, slashing both my blades against the wall, but every time they slid away.
 
