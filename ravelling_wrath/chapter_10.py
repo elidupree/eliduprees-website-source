@@ -344,9 +344,9 @@ If only I would accept it.
 
 So I accepted it.
 
-The presence flowed into my head, clearing away my frustrations. Justicar… The Blood God didn't focus on the details of her arguments. It looked for the way to her heart. [????? Justicar… I saw all of her arguments as a structure built up around a heart] <em>To fill that void</em>, she'd said. So she was already wounded. And the things she was telling me now… Those were laws she had made, laws that told herself she was bad, to force herself to stop bleeding. But laws of blame could never bring true healing. Was her wound healed even now? /[????someone who would reject their human name for the Stern]
+The presence flowed into my head, clearing away my frustrations. Justicar… The Blood God didn't focus on the details of her arguments. It looked for the way to her heart. <em>To fill that void</em>, she'd said. So she was already wounded. And the things she was telling me now… Those were laws she had made, laws that told herself she was bad, to force herself to stop bleeding. But laws of blame could never bring true healing. Was her wound healed even now? Justicar… A human who had rejected her own human name to align with the Stern God's will…
 
-"Do you have self-respect <em>now</em>?" I asked.
+Calmly, I considered how to reach her. "Do you have self-respect <em>now</em>?" I asked.
 
 "Of course I do. I have learned to restrain my baser impulses –"
 
@@ -844,7 +844,7 @@ I smirked. "Nah, it just means I was right all along! I'm the one who thought, u
 
 "An interesting thought, but how was that <em>my</em> rule? Anyone could have assumed th–"
 
-I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about Javin, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>" [????? ugh, I did that to Morrow too, didn't I? I keep telling him not to do stupid shit, but it's not really his fault]
+I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about Javin, the first thing I thought was 'what an idiot' because he got caught?! That's what I've been doing to Morrow too, I keep just yelling at him not to do stupid shit, like blaming him for it is going to fix everything! How could I have been so – so <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
 
 "That is not what 'belief in the Stern' m–"
 
@@ -858,11 +858,17 @@ I paced back and forth, not even listening to her. I COULDN'T get distracted! No
 
 "Oh? What am I?"
 
-[????? Bit of Rinn/Blood God feelings, then: "havi," I said gravely, "you were wounded, and when you bled on things, you called it irresponsibility/the Stern can cover up the wound, but it can't heal it/you don't believe it's possible to heal, so much that you didn't understand that I could live without bleeding [implicitly: you poor thing]; but saying "I am not bleeding" breaks out of the Blood God, then there's a "you can believe what you like", and Rinn was about to say "you can still be healed", but somehow the Blood God isn't ready to say that, and gets angry at the Farseer again (maybe even as far as [I was supposed to be able to heal! You took everything away from me!]), Instead of:]
+Inside me, the Blood God was roaring three different opinions at once. But I could still feel a central truth that tied them together. "Havi," I said gravely, "You are a creature who wants to believe that the rules will protect you. When you see injustice in the world, you look for who has violated a rule, so that the rules themselves can remain pure. And when the pain inside you spills over, you tell yourself that it is <em>you</em> who has committed a violation – because it is easier to believe in your own guilt, than to accept that the rules you believed in were faulty from the beginning. But even if the Stern can lock the pain inside, it can never heal it. That is why you looked at me as you did. You believe that <em>every</em> human being is too damaged to heal, and that restraining the damage is the only way to protect them. But there is another way. You can make peace with your pain. You can listen to the value of your own blood. Even you, even after all you've done, you can still be –"
 
-I clutched my head, trying to calm my warring thoughts. I should have had something brilliant to say that would totally shut down all of Justicar's bad arguments. But now the feeling of insight was gone, leaving my mind in a jumble. Which part was me, and which part was the Blood God? Could they <em>all</em> be the Blood God? For fuck's sake, why wouldn't it just leave me OUT of its family squabbles? And now it was squabbling with <em>itself</em>, too?!
+<em>– You can still be healed –</em>
 
-"I don't know. This is stupid. Never mind."
+Rage and grief exploded inside me. <em>No!!</em> I screamed inside. These were my old thoughts, from before – before it all happened! I was supposed to be able to heal!! But I couldn't pretend to go back! The Watchful Eye was burning in my eyes – the monster – the Farseers – they took everything from me! The one from this time, why had I let it get away?! I had to destroy it, tear it limb from limb, before –
+
+"Blood Child? What were you about to say?"
+
+What was happening?! <em>Controlling Game,</em> I yelled inside, trying to calm my warring thoughts. The Blood God had felt so good, it had felt like it was showing me beautiful insights – and now <em>this</em>? It had taken me by surprise. But now I was myself again, and it wasn't hard to remember that the Blood God wasn't me. I was safe. But the feeling of insight was gone, and only the endless burning left in its place.
+
+"I don't know. Never mind."
 
 "No, you clearly had something to say. If you start something, you should finish it."
 
