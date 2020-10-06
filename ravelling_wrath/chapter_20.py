@@ -24,7 +24,7 @@ I would not be able to concentrate while I was still standing on the steep stree
 
 The inside of the temple was dark except for a few shafts of the sun's glaring light. These stones of the temple's floor were cracked and uneven. I rolled Rinn into a corner, then manifested a reclining chair and sat down next to her.
 
-I took out my phone and opened my note-taking app. This was my <em>real</em> phone, so it would come back to the material world with me. Back in the third layer, the Stern God had made me leave it behind <em>physically</em>, but I had made sure not to let go of it with my mind. Thus, it remained assimilated to me, so I had gotten it back in the beginning of the next layer. I wanted to remember this, and I wasn't sure if I was going to keep any of the former Farseers' memories after I was brought back to the material world. I would <em>probably</em> still have my own memories of <em>remembering</em> the other memories, but I preferred not to rely on that if I didn't have to.
+I took out my phone and opened my note-taking app. This was my <em>real</em> phone, so it would come back to the material world with me. Back in the third layer, the Stern God had made me leave it behind <em>physically</em>, but I had made sure not to let go of it with my mind. Thus, it remained assimilated to me, so I had gotten it back in the beginning of the next layer. I had to take notes, because I wasn't sure if I was going to keep any of the former Farseers' memories after I was brought back to the material world. I would <em>probably</em> still have my own memories of <em>remembering</em> the other memories, but if it worked like remembering dreams, it would be hard to rely on it.
 
 An old wound bothered me. My leg was cramped. The skin on both legs itched where they had gotten warm from walking. But none of that seemed important enough to interrupt me.
 
@@ -68,7 +68,7 @@ As Yali, I typed out, <em>Brannet didn't understand blood law, <strong>believes<
 
 Now that I thought about it, it was strange that the memories included so many exact words at all. <em>I</em> certainly couldn't remember full conversations this well, and I was known for having a very good memory. Maybe the Waiting God had somehow enhanced them when it gave them to me. Would that make them more accurate or less accurate? It was hard to know for sure.
 
-I didn't like having to try to guess which parts were the truth. Maybe there would be other memories that were less unreliable. I skipped forward to what came next.
+I didn't like having to guess which parts were the truth. Maybe there would be other memories that were less unreliable. I skipped forward to what came next.
 
 It was irritating to be working at Mr. Tully's "orders". He couldn't <em>order</em> me – he was an administrator, not a drill sergeant. But I couldn't talk back to him – that would be unprofessional. So here I was at the Stern library, poring over my books, sitting at a cramped desk under the tall shelves.
 
@@ -78,7 +78,7 @@ A lawyer of my position shouldn't have been handling <em>these</em> cases in the
 
 <em>Anyone</em> in my position would have rankled at being seen as <em>less valuable to the company</em>, especially in front of Mr. Tully. I would <em>show</em> him how valuable I could be, I thought. I would take the cases to Blood court and win. And then he wouldn't underestimate me again.
 
-But as much as I poured over my books, I never figured out how to call it <em>lowari</em> without connecting it to Tanmei's blood – and that was what let the Speaker go after us! I should never have –
+But as much as I poured over my books, I never figured out how to call that theft <em>lowari</em> without connecting it to Tanmei's blood – and that was what let the Speaker go after us! I should never have –
 
 <em>Brannet</em> knew what those terms meant, but <em>I</em> didn't. And it was harder to study from the later memories that were caught up in his humiliation and vindictiveness. I stopped and fished for different ones, to try and learn what he knew about Blood law <em>before</em> he rewrote his interpretation of it.
 
@@ -96,7 +96,7 @@ Fortunately, a "violation of blood" didn't <em>only</em> mean an attack against 
 
 But I was interested in <em>property</em> crimes.
 
-Under Blood law, a theft <em>could</em> be a violation of blood, but only in proportion to the strength of the connection between the victim and the stolen object. You couldn't have ownership of an object you had never seen or touched. And the only ones who had handled the goods before they were stolen were local employees. So the employees were the only ones who could have an <em>awakening</em> and get revenge.
+Under Blood law, a theft <em>could</em> be a violation of blood, but only in proportion to the strength of the connection between the victim and the stolen object. You couldn't have ownership of an object you had never seen or touched. And the only people who had handled the goods before they were stolen were local employees. So the employees were the only ones who could have an <em>awakening</em> and get revenge.
 
 And if I was hoping to use that as my strategy, my hopes were quickly dashed. If employees were able to "own" the goods, then they could simply walk off with the goods themselves, and the Blood Temple would be obliged to defend their right to do so. So, in historical negotiations, the Blood Temple had promised – as a <em>concession</em> to the Stern – that it would consider the goods <em>unowned</em>, in any corporation established under Stern authority. And therefore, the Blood Temple could tolerate the Stern Temple prosecuting thefts, but the thefts could never be violations of blood.
 
@@ -110,7 +110,7 @@ The lowest type of violation was <em>shasset</em>, a mistake. It was for when th
 
 So the way I had hurt Romhisat as a child would have been <em>shasset</em>. It was a violation, but it was forgivable given my circumstances. That seemed fair.
 
-Next was <em>dechiokhari</em>, a crime of desperation. If you were starving and broke into someone's house to steal food, or if had to hurt an innocent person while escaping from abuse, that was <em>dechiokhari</em>. When a case of <em>dechiokhari</em> came before Blood court, it was considered a failure <em>by the Blood Temple itself</em>, because the Blood Temple was responsible for making sure no one fell into desperation. It even triggered internal Blood Temple procedures to investigate how their services had failed the violator.
+Next was <em>dechiokhari</em>, a crime of desperation. If you were starving and broke into someone's house to steal food, or if you had to hurt an innocent person while escaping from abuse, that was <em>dechiokhari</em>. When a case of <em>dechiokhari</em> came before Blood court, it was considered a failure <em>by the Blood Temple itself</em>, because the Blood Temple was responsible for making sure no one fell into desperation. It even triggered internal Blood Temple procedures to investigate how their services had failed the violator.
 
 Third was <em>chet</em>, a crime of passion. If an argument between peers turned violent, or if you attacked someone in a fit of irrational anger, or if you took disproportionate revenge – like by killing someone who had cheated on you – then that was <em>chet</em>. It also covered giving in to selfish temptations, like if you stole something you wanted without caring who might have needed it. The Blood Temple's approach to these situations was one of diplomacy. Their priests would encourage the violator to understand what they did wrong, apologize, and try to make amends. But even if they refused to apologize, the Blood Temple only considered that an unfortunate situation, not something where the Temple needed to intervene further.
 
@@ -161,11 +161,11 @@ Like what Brannet had <em>done</em> with his new knowledge of Blood law.
 
 <bigbreak>
 
-I set down my books. I could now start thinking about strategy.
+I set down my books. Now, I could start thinking about strategy.
 
 In order to see any of the shoplifters be punished under Blood law, I would need to produce a victim. And either the victim would need to want revenge, or I would need to produce a second person who was allowed to get revenge on their behalf.
 
-Fortunately, we did have witnesses – that was how the perpetrators had been caught in the first place. The ones who had reported the crimes to the Stern might also be willing to seek revenge under Blood law. The only question was how to interpret the thefts as <em>lowari</em>.
+Fortunately, we did have witnesses – that was how the perpetrators had been caught in the first place. The only question was how to interpret the thefts as <em>lowari</em>.
 
 Two of the six shoplifters had stolen food. I discarded those two as hopeless. But that was fine. Winning even <em>one</em> of these cases would be enough to mark my name down in history. I sorted through the files, until one of them caught my eye, an adolescent girl who had stolen an expensive necklace – oh gods, if only I had never set eyes on that file! If only I had never stepped into the room with that masked judge, never tried to –
 
@@ -173,7 +173,7 @@ I stopped the memory, and decided it was time to skip forward to the trial itsel
 
 The Blood Temple didn't have separate courthouses like the Stern. Legal proceedings were conducted in ordinary meeting halls, in the same temples that were used for gatherings and worship. On my way to the hearing, I had to walk across a courtyard where children, probably orphans raised by the Temple, played noisily in the dirt. I gave them a wide berth – it wouldn't do for my pressed suit to be dirtied by their rowdiness.
 
-I arrived early, of course. The judge – no, the <em>Speaker</em> – was already in the room. They were foreboding, standing still in their long red robes, with a mask that completely covered their face. I couldn't even tell if it was a man or a woman. I had to remind myself that this wasn't Stern court. A Speaker, short for <em>Speaker for the blood of the city</em>, had almost arbitrary power to make legal decisions, and was only accountable to the Blood Temple's Circle of Elders. Officially, decisions were made by "the blood of the city", and Speakers only "delivered" them. But in practice, if I wanted to be successful, this was the person I had to convince.
+I arrived early, of course. The judge – no, the <em>Speaker</em> – was already in the room. They were a foreboding figure, standing still in their long red robes, with a mask that completely covered their face. I couldn't even tell if it was a man or a woman. I had to remind myself that this wasn't Stern court. A Speaker, short for <em>Speaker for the blood of the city</em>, had almost arbitrary power to make legal decisions, and was only accountable to the Blood Temple's Circle of Elders. Officially, decisions were made by "the blood of the city", and Speakers only "delivered" them. But in practice, if I wanted to be successful, this was the person I had to convince.
 
 "Speaker," I greeted, slightly bowing my head. From what I had learned, showing any more deference than that would be seen as grovelling. The Speaker nodded back.
 
@@ -219,7 +219,7 @@ I blinked, bringing myself back to the present. "Ah, call me Hiram. Did I doze o
 
 One of them leaned forward. "Mister Hiram, is it true that Blood temples had giant orgies every year?"
 
-I smiled wistfully. Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. Of course, kids had always asked about those things, because that is what kids do best – hunting after the highs and lows of life until they find their place in the world. But there had used to be another kind of questions, too. Ten years ago, there had been the kids who asked "why aren't we allowed to say the Blood prayers anymore?" And the kid who asked "my granddad says the Blood Temple always sent someone around to take care of his mother when she was having one of her episodes, so Granddad could still go to school. Why don't the Stern do that?" But for kids growing up today, the Blood Temple was just a part of history.
+I smiled sadly. Nowadays, kids only wanted to hear the gory details, about the orgies, the floggings. Of course, kids had always asked about those things, because that is what kids do best – hunting after the highs and lows of life until they find their place in the world. But there had used to be another kind of questions, too. Ten years ago, there had been the kids who asked "why aren't we allowed to say the Blood prayers anymore?" And the kid who asked "my granddad says the Blood Temple always sent someone around to take care of his mother when she was having one of her episodes, so Granddad could still go to school. Why don't the Stern do that?" But for kids growing up today, the Blood Temple was just a part of history.
 
 What could I tell them? Yes, there were holy days when we hosted orgies. Yes, we sometimes carried out public floggings for severe violations. But no, I couldn't tell them any stories about the floggings, because Blood tradition forbade gossiping about someone's past punishment. No, I wouldn't forget Blood tradition just because the Blood Temple was gone now. There were reasons for how we did things. After someone was punished, they needed the chance to return to equal status in society. If you treated their humiliation as a funny thing to gossip about, you were stepping on them for your own amusement. That was <em>lowari</em>.
 
@@ -273,7 +273,7 @@ For the five of us who stayed behind, we had to turn the temple into a staging a
 
 But first, someone had to tell the younger children what to expect. That was me. I called them together and told them that today was an important day for all of us, and I needed to trust them to take care of each other while we caretakers worked for the hurricane relief. Jae-nyu and Quercien volunteered to help, and I brought them outdoors with me, quickly looking for work that was safe for them to do. I knew that it would take a lot of my attention to manage them, maybe more than the extra pairs of hands would gain us, but we were a community, and a community works together.
 
-"We can't accept this food! Nonperishables only!" Civeah was yelling as we came out, waving her arms, trying to get the point across through the noise of the rain. A local family was trying to give us a load of donations, even while three trucks were waiting to be unloaded at once.
+"We can't accept this food! Nonperishables only!" Civeah was yelling as we came out, waving her arms, trying to get the point across through the noise of the rain. A local family was trying to give us a cartload of donations, even while three trucks were waiting to be unloaded at once.
 
 Rohin, the old priest, briefly looked away from a heated conversation with a Stern Temple messenger. As he turned, a gust of wind caught his red robe, blowing of the hood into his face. Barlim had teased him for still wearing the robes of a priest while it was pouring, but he was proud to be a priest, and he refused to be seen without them. You couldn't take away someone's pride.
 
@@ -311,7 +311,11 @@ Jae-nyu nodded resolutely. I stood and hurried towards the others, fighting the 
 
 That was… The same memory of the sick boy from earlier. As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of old times. Hiram actually felt like he had accomplished something then, and he was frustrated that it wouldn't get done now. But what was he thinking of? Staying up with the boy all night didn't solve anything! What about the next time the boy was sick, when Hiram might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But Hiram felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. It was even worse than when I was trying to understand the Waiting God – with the god, I could at least <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
 
-There might be some way I could figure it out, but I wasn't getting anywhere right now. I thought back to the hurricane. The first memory that came up was the beginning again, the big meeting where they were arguing about where to send help first. I was about to skip forward to a different memory when I noticed an old man who looked oddly familiar. Not familiar to Hiram, but to me, Yali.
+There might be some way I could figure it out, but I wasn't getting anywhere right now. I thought back to the hurricane.
+
+<bigbreak>
+
+The first memory that came up was the beginning again, the big meeting where they were arguing about where to send help first. I was about to skip forward to a different memory when I noticed an old man who looked oddly familiar. Not familiar to Hiram, but to me, Yali.
 
 But how could someone from eighty years ago look familiar? Unless – wait! It was familiar from the <em>Waiting God's</em> past, not mine. The man was dressed the same way as that group I had seen negotiating with the businesspeople. Who were they? Hiram's memory thought of them as important people who deserved a lot of respect… people you'd see working with the Blood Temple, but not exactly Blood Temple leaders, either. I thought back, trying to find other memories of them.
 
@@ -357,7 +361,7 @@ I needed to know the end. I steeled myself to put up with Brannet's memories onc
 
 Once everyone was present – especially Tanmei Luef, the "victim" I had chosen – the hearing could start. I was there as her advocate. In Blood court, a victim was allowed to designate one or more people as their advocates – which didn't usually mean lawyers, and often meant friends or family. But since there were no qualifications for an advocate, it was a convenient excuse for me to be present.
 
-The hearing began with her reading out her accusation, which I had prepared with her in advance. It was a real sob story. She was one of the recent layoffs at Hatheraw & Green. Her home was full of mold after it had been damaged in floods during the previous month, and because she had lost her income, she had had to cancel a repair job she had scheduled. Then she had gotten seriously ill from the mold, ended up in the emergency room, and ultimately had to sell her home for a pittance to cover expenses. It was lucky I had found someone with such a clear connection between their loss of income and their physical body. Our argument was that thefts of expensive goods – such as the theft this case centered around – had directly led to the layoffs that caused Tanmei's miserable hardship.
+The hearing began with her reading out her accusation, which I had prepared with her in advance. It was a real sob story. She was one of the recent layoffs at Hatheraw & Green. Her home was full of mold after it had been damaged in a flood during the previous month, and because she had lost her income, she had had to cancel a repair job she had scheduled. Then she had gotten seriously ill from the mold, ended up in the emergency room, and ultimately had to sell her home for a pittance to cover expenses. It was lucky I had found someone with such a clear connection between their loss of income and their physical body. Our argument was that thefts of expensive goods – such as the theft this case centered around – had directly led to the layoffs that caused Tanmei's miserable hardship.
 
 After our presentation, the Speaker finally spoke. Now I could tell that she was a woman. Her voice was curt and dismissive – she must have been prejudiced against me from the start. "Is there a direct connection between your situation and the taking of the specific necklace?"
 
@@ -395,7 +399,7 @@ Mentally, I tried to correct it.
 
 I tried to think. The Speaker's words felt unreasonable, but only because I was inside Brannet's memories. Of course, she was right, Brannet didn't care about Tanmei Luef at all. I had to think about this as Yali. And as Yali –
 
-<p>– as Yali, I had been wrong all along. I had thought the courtroom details wouldn't matter, because I had assumed they would just be about the guilt or innocence of the random shoplifters. But now… Blood court went beyond that. The Speaker had pointed straight past Brannet's manipulations. The Blood Temple had a <em>system</em> for how society was supposed to care for its people, and when that system wasn't upheld… "The Blood God doesn't forget where the real fault is just because you point fingers!" Rinn had said. The guilty party was the Hatheraw & Green hierarchy itself.</p>
+<p>– as Yali, I had been wrong all along. I had thought the courtroom details wouldn't matter, because I had assumed they would just be about the guilt or innocence of the random shoplifters. But now… Blood court went beyond that. The Speaker had pointed straight past Brannet's manipulations. The Blood Temple had a <em>system</em> for how society was supposed to care for its people, and when that system wasn't upheld… "The Blood God doesn't forget where the real fault is just because you point fingers!" was what Rinn had said. The guilty party was the Hatheraw & Green hierarchy itself.</p>
 
 "Hatheraw & Green most certainly won't be complying with such a demand!" I said quickly. "We are established within the jurisdiction of the Stern Temple, and the Blood Temple has no authority to –"
 
@@ -405,7 +409,7 @@ How did it end this way? Curse them all! Curse that Speaker for spiting me! Did 
 
 I skipped forward.
 
-I never liked to think back to the time right after the hearing. When Mr. Tully fired me, he scheduled a full hour just to yell at me for bringing the Blood Temple's attention against us. Did he ever apologize for ordering me to do it in the first place? Did I ever get an apology from Hatheraw & Green after the fallout ultimately ended in their favor? Of course not.
+I never liked to think back to the time right after the hearing. When Mr. Tully fired me, he scheduled a full hour just to yell at me for bringing the Blood Temple's attention against us. Did he ever apologize for ordering me to do it in the first place? Did I ever get an apology from Hatheraw & Green after the repercussions ultimately ended in their favor? Of course not.
 
 But I did watch the news like a hawk. I had expected the case to fade into obscurity after Hatheraw & Green rejected the Blood Temple's demands… but only the Waiting knows the end. The Blood Temple had no authority to compel testimony from Hatheraw & Green executives, but they did have authority over the fifth ring, where Hatheraw & Green had two storefronts. And they must have been waiting for an excuse to act, because they <em>banned</em> Hatheraw & Green from the fifth ring and seized the two storefronts. Hatheraw & Green appealed to the Stern to protect their assets. And that was where things got complicated.
 
@@ -443,7 +447,7 @@ I would like to think that I never truly left the Blood Temple. All of my social
 
 When the Stern captured our high priest, everyone disagreed on who should take over for her. It shouldn't have mattered, because the role of high priest was a formality – no individual person can have too much power. But even in the Blood Temple, people had a weakness for hero-worship. Worse, the Stern Temple insisted on acknowledging our Acting High Priest, even after the Circle appointed another to replace him. It should have been obvious that the Stern were trying to pit us against each other. But there were fights. Friends accused friends of betrayal. I did what I could to mend feelings, but the temple I had loved was falling apart.
 
-Again, Hiram was only sad, when my own response would have been more vindictive. One "betrayer" was a close friend of his, a disabled woman he'd helped with housework in his official role as caretaker. Without the Temple's support, she had to reenter the workforce to support herself, working for one of the new companies who'd moved in. And his other friends called her a traitor for doing it… until they, too, saw their old jobs disappear from around them. Midwives and even cooks saw their traditional practices banned under the new Stern laws. The Stern were slowly dismantling what had come before them, until the fifth ring's people had no choice but to fit themselves into the Stern system, laboring their lives away for the new order. These people were being sacrificed for the Waiting God's plan. Just as it had tried to sacrifice me.
+Again, Hiram was only sad, when my own response would have been more vindictive. One "betrayer" was a close friend of his, a disabled woman he'd helped with housework in his official role as caretaker. Without the Temple's support, she'd had to reenter the workforce to support herself, working for one of the new companies who'd moved in. And his other friends had called her a traitor for doing it… until they, too, saw their old jobs disappear from around them. Midwives and even cooks saw their traditional practices banned under the new Stern laws. The Stern were slowly dismantling what had come before them, until the fifth ring's people had no choice but to fit themselves into the Stern system, laboring their lives away for the new order. These people were being sacrificed for the Waiting God's plan. Just as it had tried to sacrifice me.
 
 As Hiram, in the end, I was tired. Too many of my friends had died in the fighting, and too many more had been carried away to the Stern prison when they tried to protest against the new laws. I understood what drove them, but it was not a place I could follow. I had never had the Stern instinct, the instinct to sacrifice everything rather than compromise my principles. Something good had been lost forever, but there had always been loss, and there was no sense in fighting for something that was already gone. My one small rebellion was to keep my Book of Blood when the Stern burned all the copies, hiding it under a floorboard and lying to the Stern when they came to take them. Other than that, I adapted. I found small ways to keep the tradition of caretaking alive in the new order.
 
@@ -569,7 +573,7 @@ Not exactly. Those were all flawed, human approximations of our will.
 
 So that was a <em>yes</em>, then. This was how humanity would be forced into the plan. Isolated and exploited, slowly starved of their basic needs until they started to see the Waiting God's path as the only path of reality, and any other world as impossible idealism. Before I had seen all the memories, I had been unsure. I had thought its goals might have been good, if only it didn't have to kill the Ravellers to make it happen. But now, I knew how to see it through the lens of Blood. I had known what questions to ask to reveal the heartlessness in every part of its design.
 
-The Waiting Temple had claimed to be <em>maintaining the order of the city</em>. But the Blood Temple had had its OWN order. The conflict had never been about order against disorder. It had been about an order where people were nurtured, against an order where people were exploited.
+The Waiting Temple had claimed to be <em>maintaining the order of the city</em>. But the Blood Temple had had its <em>own</em> order. The conflict had never been about order against disorder. It had been about an order where people were nurtured, against an order where people were exploited.
 
 That seemed misguided. We had thought of the plan as <em>exploitative</em>, but it was not the <em>plan</em> that was the source of exploitation. None of these demoralizing worries about typical abuses committed by humans were a reason to doubt it.
 
@@ -739,7 +743,7 @@ I turned and faced the portal.
 
 It was like waves of power were rolling off of it, pushing me back and away. But it wasn't a forbiddance. It wasn't actually trying to keep me away. It was a challenge, daring me to push my way against the waves, to assert my right to occupy my space in the world.
 
-I stepped forward, pulling Rinn's wagon with one hand. Alongside me, Morrow and Alchemist followed, a little more hesitantly. I took another step, and another. The portal loomed ahead of us, black and formidable. It was time. Time for us to face the gods. Time for the gods to face us.
+I stepped forward, pulling Rinn's wagon with one hand. Alongside me, Morrow and Alchemist followed, a little more hesitantly. I took another step, and another. The portal loomed ahead of us, black and formidable. It was time. Time for us to face the gods. Time for the gods to face <em>us</em>.
 
 We fanned out around the obelisk, each looking for the side that called to us the most deeply. One for me and one for Alchemist, the Ravellers who were still conscious. One for Morrow, dull but still waiting to take him home. At my left, one for Justicar, which would remain unvisited and silent. And at my right, one for Rinn, still alive and brimming with energy.
 
