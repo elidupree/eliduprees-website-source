@@ -858,7 +858,9 @@ I paced back and forth, not even listening to her. I COULDN'T get distracted! No
 
 "Oh? What am I?"
 
-Inside me, the Blood God was roaring three different opinions at once. But I could still feel a central truth that tied them together. "Havi," I said gravely, "You are a creature who wants to believe that the rules will protect you. When you see injustice in the world, you look for who has violated a rule, so that the rules themselves can remain pure. And when the pain inside you spills over, you tell yourself that it is <em>you</em> who has committed a violation – because it is easier to believe in your own guilt, than to accept that the rules you believed in were faulty from the beginning. But even if the Stern can lock the pain inside, it can never heal it. That is why you looked at me as you did. You believe that <em>every</em> human being is too damaged to heal, and that restraining the damage is the only way to protect them. But there is another way. You can make peace with your pain. You can listen to the value of your own blood. Even you, even after all you've done, you can still be –"
+Inside me, the Blood God was roaring three different opinions at once. But I could still feel a central truth that tied them together.
+
+"Havi," I said gravely, "You are a creature who wants to believe that the rules will protect you. When you see injustice in the world, you look for who has violated a rule, so that the rules themselves can remain pure. And when the pain inside you spills over, you tell yourself that it is <em>you</em> who has committed a violation – because it is easier to believe in your own guilt, than to accept that the rules you believed in were faulty from the beginning. But even if the Stern can lock the pain inside, it can never heal it. That is why you looked at me as you did. You believe that <em>every</em> human being is too damaged to heal, and that restraining the damage is the only way to protect them. But there is another way. You can make peace with your pain. You can listen to the value of your own blood. Even you, even after all you've done, you can still be –"
 
 <em>– You can still be healed –</em>
 
