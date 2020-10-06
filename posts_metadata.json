@@ -798,7 +798,9 @@
  "No chapter of Ravelling Wrath today": {
   "date_modified": "2020-09-16",
   "date_posted": "2020-09-16",
-  "id": "2c79db1950b58ebc8cccb4879d8da8c"
+  "deployed": true,
+  "id": "2c79db1950b58ebc8cccb4879d8da8c",
+  "remembered_contents": "5b1b3ac00aba854dec02e7466cb3932c84d38adee3e943670be171e9d603bd6e402fbcc7fce8a9386c0c9af34606b98a"
  },
  "No comic today": {
   "date_modified": "2011-10-22",
@@ -1174,11 +1176,11 @@
   "remembered_contents": "3cdfd1862a6240622540eff3cd69d6d18cc9526f36ef1ae5ed7234f89a66c575220b4c12a85492d38a0cd28b055e25d8"
  },
  "Ravelling Wrath, chapter 1": {
-  "date_modified": "2020-09-09",
+  "date_modified": "2020-09-16",
   "date_posted": "2017-03-08",
   "deployed": true,
   "id": "2a150769152d75109cccd3e1f72ab8e",
-  "remembered_contents": "cb56f5134f27755424c91add15f854d743dd34fa117a27fd7d2155fd0be82fb4030602351e2ac71a2a6c258285ab228b"
+  "remembered_contents": "b6e6ce0fde4fe0553c789a37fc3d0f8da1300dd19d3dd015b3a49c7fa424ad904c96db3de34fefff966bbf28d9d62532"
  },
  "Ravelling Wrath, chapter 10": {
   "date_modified": "2020-09-09",
@@ -1307,11 +1309,11 @@
   "remembered_contents": "364fb3fd3384bacbee61a9409cf987f7cfd3dfdd13b3052f5d8581a149e5936f1bc84b6a9e3ff75e39f44b5dfa66d974"
  },
  "Ravelling Wrath, chapter 19": {
-  "date_modified": "2020-09-09",
+  "date_modified": "2020-09-16",
   "date_posted": "2020-09-09",
   "deployed": true,
   "id": "a82b51a65e73d7c715f24f02a65efec",
-  "remembered_contents": "7ff634d247d46adcdeca26c5c82c54fcfc3ff90aefe7c7e49bd690010736331a08851fb8a273f59075265455be3e3eef"
+  "remembered_contents": "37f2d422fb88278a7349f841a28064a77770b359518a64d2156a040eea78e2f8c30b4d292331d6586a0858cefe985523"
  },
  "Ravelling Wrath, chapter 19: Discussion": {
   "date_modified": "2020-09-09",
@@ -1446,11 +1448,11 @@
   "remembered_contents": "f6ecace9a1508d19a14ddc996fd6b318088ca95383fa41fbb5fa5acaa7eae3784fc81cbe3854b005c0b8a1d012372946"
  },
  "Ravelling Wrath, chapter 9": {
-  "date_modified": "2020-09-09",
+  "date_modified": "2020-09-16",
   "date_posted": "2020-07-01",
   "deployed": true,
   "id": "f4c1736a367ad70d542ad8ade8aeb4",
-  "remembered_contents": "5715fb36b328827654964e5e44d808a52b6d8d6864771a6556eb7c1c940248ea74796aff0465eccbc2d33488a927c072"
+  "remembered_contents": "83fc69a53d1d9b585d490a236d121184bce33c1cf7c57ad8703cfb1e6441ee8d45ae5f9cd6a7278c2c6a0b6db4b2c55d"
  },
  "Ravelling Wrath, chapter 9: Discussion": {
   "date_modified": "2020-07-01",
