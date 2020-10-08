@@ -556,17 +556,13 @@ Justicar's words seemed to echo around the elevator we were standing in. She pul
 
 "I suppose I never did finish 'telling you the rest of my life story', as you put it –"
 
-"Oh gods," I muttered. "Bet you're gonna go on about how great it is that everyone bossed you around. Again."
-
-"I cannot force you to believe me. But it truly was the strictures of the school that saved me. Before I went there, I had no ability to control my self-destructive cravings. And now, I do have that ability. I can stop myself from using risk-taking behaviors as a means to feel valued."
-
-"So," I said, summing things up, "what I'm hearing is, first, your life sucked. And then you 'found the Stern'. And now, your life still sucks. When was the last time you enjoyed yourself?"
+"Oh gods," I muttered. "Bet you're gonna start beating yourself up about everything again. When's the last time you enjoyed yourself?"
 
 "It is not important whether I enjoy myself. What is important is whether I stay true to my principles. Perhaps you don't understand how important that is, but –"
 
-"Hey, I stick to my principles too! It's just that <em>my</em> principles are 'have fun' and 'do whatever I want'!"
+"Seriously?? You seriously don't know how to enjoy yourself without violating your principles?"
 
-Justicar smiled patiently. "– But I won't allow myself to be sidetracked again. You asked a question, and I intend to give you an answer.
+"– but I won't allow myself to be sidetracked again. You asked a question, and I intend to give you an answer.
 
 "As I have said, not all who claim to follow the Stern truly uphold its principles. And the Stern Temple is no exception. Even the highest ranks of the Stern Temple are full of – have more than their share of hypocrites.
 
