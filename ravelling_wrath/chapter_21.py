@@ -215,11 +215,11 @@ That was nothing like how <em>I</em> thought about it, but I could tell that Yal
 
 "– Or when people are like, 'well, we love each other, so everything is going to work out', even when there are actually huge problems in their relationship. Like… Love is never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands. That's what I know. That's what the Waiting knows. If I want someone to stop what they're doing, I have to know how to force them to."
 
-"But…" I began. "Okay, I see what you mean. Like, fuckin' Morrow… I mean, I care about him, but he never listened to me when I just <em>told</em> him he was fucking up. At some point, I had to be like, 'this is where I'm gonna stop you', or he would have just kept making things worse for everyone. But I think that's only half the answer. There was this thing in the second layer, where we were stuck in a room, and I technically DID stop him from hurting himself, but I don't think he was any better afterwards. The only time I actually managed to heal him was in the fourth layer, when I got the power to hear his true feelings, to connect with them –"
+"But…" I began. "Okay, I see what you mean. Like, fuckin' Morrow… I mean, I care about him, but he never listened to me when I just <em>told</em> him he was fucking up. At some point, I had to be like, 'this is where I'm gonna stop you', or he would have just kept making things worse for everyone. [????? This didn't quite work right, it went too far in the other direction. Maybe compare and contrast Morrow and Justicar?: But I think that's only half the answer. There was this thing in the second layer, where we were stuck in a room, and I technically <em>did</em> stop him from hurting himself, but I don't think he was any better afterwards. The only time I actually managed to heal him was in the fourth layer, when I got the power to hear his true feelings, to connect with them –"
 
 "But the main reason you could heal him was because you got your soulfire and he couldn't hurt you –"
 
-"That's exactly what I'm saying! It's both. Like, remember how you said the Blood God values <em>power</em>? First, I had to have the power to protect myself, so Morrow couldn't hurt me or Alchemist. You're right, that's the foundation of everything, I couldn't have done anything without it. But I didn't want to just keep the rest of us safe and let Morrow keep suffering. So once I knew how to protect myself, I also had to know how to show him the way towards recovery. Gods, I hope he gets better somehow…" I trailed off, thinking about how he'd been feeling when I'd last seen him, when we were leaving the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's number, how are we gonna –"
+"That's exactly what I'm saying! It's both. Like, remember how you said the Blood God values <em>power</em>? First, I had to have the power to protect myself, so Morrow couldn't hurt me or Alchemist. But once I knew how to protect myself, I also had to know how to show him the way towards recovering. That's what the Blood God is all about –.] Gods, I hope he gets better somehow…" I trailed off, thinking about how he'd been feeling when I'd last seen him, when we were leaving the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's number, how are we gonna –"
 
 Yali gave a little smile. "Yeah, about that…" she said.
 
@@ -404,7 +404,7 @@ She exhaled, long and shakily. "I shouldn't be dumping this on you… You were t
 
 "Good! Don't think about it too much. Leave the memory how it is."
 
-I blinked. "That's <em>super</em> not what I expected you to say."
+I blinked. "<em>That</em> sure isn't what I expected you to say."
 
 "Why not? We can't change what happened. I just don't want you to feel bad about what you had to do."
 
@@ -488,7 +488,7 @@ I melted in her hands. "I'd like that more than anything."
 
 Eventually, Yali decided to tell people she was back.
 
-"Already?" I laughed. But it had been like a week, and I was ready too. Being with Yali was still amazing, but I felt like I had been slowly waking up from a long dream, and it was getting to the point where I was getting restless, thinking of my old friends again. So we both agreed to let it be over.
+"Already?" I laughed. But it had been, like, a whole week, and I was ready too. Being with Yali was still amazing, but I felt like I had been slowly waking up from a long dream, and it was getting to the point where I was getting restless, thinking of my old friends again. So we both agreed to let it be over.
 
 Yali called the monks who were responsible for her. It was a short call, just setting up a time for them to come visit and really get things sorted out. Then Yali said she was tired and hung up.
 
@@ -530,9 +530,9 @@ Finally, I reached the gate into the fifth ring. The ring that was my home. The 
 
 The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel that same sense of <em>wrongness</em> I had felt when I thought about the Stern Temple ruling this ring. I was Rinn, who had grown up with all of this being normal. But I remembered. And I couldn't see anything in quite the same way anymore.
 
-When I ran past the old basketball court full of trash, my old self remembered a place where random assholes dumped their trash and spoiled our fun. But now, I also saw the temple who watched over them. A temple who wouldn't help anyone afford to take away their trash, who wouldn't fix the potholes or the broken streetlights, but who always had time to sic the police on homeless people, to cart random people off to jail.
+When I ran past the old basketball court full of trash, my old self remembered a place where random assholes dumped their trash and spoiled our fun. But now, I also saw the temple who watched over them. A temple who wouldn't help anyone take away their trash, who wouldn't fix the potholes or the broken streetlights, but who always had time to sic the police on homeless people, to cart random people off to jail.
 
-When I ran past the store where Pèi stole her jewelry, it made me think about Javin, about what the Seeking God had taught me. If the Stern brought harm to those who stole, it was not just a fact of life. I had friends who stole. Friends who got high in the alleyways. Friends who sold sex and called themselves trash and wanted to die. They were a people starved of their blood, trying to claw back their rightful power from a world that had taken it away. My heart beat in time with theirs. They had been trampled over, and it was not right to let them be trampled over again.
+When I ran past the store where Pèi stole her jewelry, it made me think about Javin, about what the Seeking God had taught me. If the Stern brought harm to those who stole, it was not just a fact of life. I had friends who stole. Friends who got high in the alleyways. Friends who did sex work and called themselves trash and wanted to die. They were a people starved of their blood, trying to claw back their rightful power from a world that had taken it away. My heart beat in time with theirs. They had been trampled over, and it was not right to let them be trampled over again.
 
 And when I ran past the supermarket near my house, I remembered something Yali had told me. This was where one of the Blood temples had been, before it was demolished. Before the Stern Temple had sold the land to build this parking lot here.
 
