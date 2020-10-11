@@ -450,7 +450,7 @@ The world was gone. Yali was gone. I was submerged in the void, with nothing but
 
 I made her face appear among the stars. Her eyes were blazing pinpricks of light. Her hand was a constellation reaching out towards me. She was crowned with cold fire that shone from an eternity away.
 
-I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great monstrosity watched me indifferently, seeing all that I might do. And in front of all this, I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
+I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great monstrosity watched me with indifference, seeing all that I might do. And in front of all this, I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
 
 At last, I felt a looming presence, like a giant hand hovering over me. Maybe Yali's, or maybe something else's, I had no way to tell. The hand slowly descended around me, forming a vast and empty enclosure around me, shutting out the stars one by one.
 

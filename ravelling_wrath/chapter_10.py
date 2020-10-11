@@ -190,7 +190,7 @@ Right now we were at the start of another puzzle. We had split up so we could bo
 
 But then it exploded into my mind, stamping out everything else. "Let me OUT of here!!" I screamed.
 
-The Justicar's voice echoed oddly around the glass walls from the other side of the room. "That's the same thing you said earlier today, are you –"
+The voice of the Justicar echoed oddly around the glass walls. "That's the same thing you said earlier today, are you –"
 
 "I'm TRAPPED in here, can't you see it?!"
 
@@ -200,7 +200,7 @@ The Justicar's voice echoed oddly around the glass walls from the other side of 
 
 Justicar was hurrying towards me, her voice tight with concern. "If that is not what you're talking about, then explain to me –"
 
-I laughed. "Do you gotta treat everything like it's such a big deal? It's fine."
+"It's no big deal, it's fine –"
 
 "No, it's not fine. Listen to yourself! <em>Seconds</em> ago, you were saying you were trapped! I can't just let you pretend that didn't happen!" Justicar's face loomed close in front of me. "Now tell me what is going on!"
 
@@ -258,7 +258,11 @@ I smirked. "You say that like it's a bad thing."
 
 "When you violate the law, as I did – when you harm yourself and others, as I did – it shows itself to be a bad thing."
 
-"And you think I'm like that? What the fuck do you know about me, anyway?"
+"And you think I'm like that? What the fuck do you –"
+
+An alien thought blossomed in my mind. The words my voice was speaking… they were <em>defensiveness</em>, the first mark of weakness, of succumbing to the Stern ideals. Where was my strength…? I could feel what was coming… the Justicar would try to teach the Stern way as the only truth, and my human self would resist… but I was supposed to know a third way, a truth of my own, of Blood… but I had been trapped too long… I needed to gather my strength back, I couldn't slow down my human voice…
+
+"– the fuck do you know about me, anyway?"
 
 Justicar tapped her foot. "For one thing, I know that you are a sixteen-year-old who has never been outside the city, but has handled fireworks for long enough to imprint them, when said fireworks are illegal in the city without a permit that is unavailable to anyone below the age of eighteen." Ugh, that made me feel kind of exposed, having my crimes revealed just because I'd manifested the wrong thing. Yali was right, Justicar didn't miss much. "What other forms does your recklessness take, I wonder? Attending parties with underage drinking, perhaps?"
 
@@ -332,11 +336,25 @@ Justicar was smiling – the smile of someone who's being patient with a little 
 
 "If you would give me a chance to explain the actual principles I follow, you would know I do not believe anything like that. It is always wrong to force yourself on someone else. But no one forced themselves on me. It was my own choice to devalue my body like that. I <em>chose</em> to allow men to use my body for their pleasure, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
 
-Up to this point, I had mostly just been messing with her. But now… a terrible ache pulled at my heart. This was deadly serious. Her words were a violation, a gaping wound, trying to twist my blood out of its course. Coldly, I stated, "That's your <em>real</em> problem. It's not the sex. It's not the drinking. It's the self-respect. But –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. If anyone doesn't treat me right, they can fuck right off. And if they don't fuck right off, I <em>make</em> them fuck right off. I'm nothing like you."
+Ugh, this was the <em>worst</em>. It was like Justicar already had an answer prepared for everything I was going to say. I had let this go on too long. I had let Stern ideas take over the discussion while I was locked away. I needed to clear my head, I needed –
+
+<em>While I was locked away…</em> that was the Blood God again. But it felt different than before. The power pulsing inside my head felt like it was ready to support me, like it knew what to do, like it could find the true path through Justicar's ideas, if only I would give it space in my head.
+
+If only I would accept it.
+
+So I accepted it.
+
+The presence flowed into my head, clearing away my frustrations. Justicar… The Blood God didn't focus on the details of her arguments. It looked for the way to her heart. <em>To fill that void</em>, she'd said. So she was already wounded. And the things she was telling me now… Those were laws she had made, laws that told herself she was bad, to force herself to stop bleeding. But laws of blame could never bring true healing. Was her wound healed even now? Justicar… A human who had rejected her own human name to align with the Stern God's will…
+
+Calmly, I considered how to reach her. "Do you have self-respect <em>now</em>?" I asked.
+
+"Of course I do. I have learned to restrain my baser impulses –"
+
+I shook my head sadly. "You don't even know what self-respect <em>is</em>. Your problem was never the sex. It wasn't the drinking. It was what was inside your heart. You look at me and you see someone like yourself, because you don't even understand how anyone could live in peace with themselves. But <em>I</em> –" I made a fist in front of my heart "– <em>I've</em> got <em>loads</em> of self-respect. I know who I am, and if anyone doesn't treat me right, they can fuck right off. And if they don't fuck right off, I <em>make</em> them fuck right off. I'm nothing like you."
 
 Justicar raised an eyebrow. "When I was your age, I too believed that I was being assertive and empowered."
 
-Ugh, what was even the point of being serious with her? She was just going to keep saying fucked-up stuff either way. "Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
+She thought I was still just speaking for myself. She hadn't recognized the Blood God's words when she heard them. The Blood God wanted to keep looking for answers, but I could feel it getting frustrated. And I didn't like where that was going. I fell back to a Rinn answer. "Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
 
 "You can believe what you like," she said.
 
@@ -402,9 +420,9 @@ Justicar's hand struck the glass violently, shattering it to pieces.
 
 "It was exactly what I needed. A clean break from the world of the self-destructive habits I had developed."
 
-"But–! You… Argh!"
+"But–! You… Argh!" Instinctively, I reached for the Blood God, hoping it would give me a confident answer again.
 
-"At the Borson School, nothing was done for us. We students had to do our own laundry, to clean our own dormitories. Did I accept it at first? No, of course I did not. Selfishly, I rebelled by leaving my clothes dirty and unkempt. I wanted to them to see that I did not respect them. Only after weeks of being singled out and punished for my disobedience, I learned."
+While the Blood God was still waking up, Justicar continued. "At the Borson School, nothing was done for us. We students had to do our own laundry, to clean our own dormitories. Did I accept it at first? No, of course I did not. Selfishly, I rebelled by leaving my clothes dirty and unkempt. I wanted to them to see that I did not respect them. Only after weeks of being singled out and punished for my disobedience, I learned."
 
 "Learned what, that people are horrible?"
 
@@ -422,7 +440,7 @@ I laughed in her face. "You think I have something against responsible people?! 
 
 Justicar raised an eyebrow. "I must admit, I was not expecting <em>you</em> to accuse <em>me</em> of irresponsibility."
 
-"Argh, do I have to spell it out for you?! You're telling me a story about how some people <em>forced</em> you to do what <em>they</em> told you to, by <em>punishing</em> you until you <em>gave in</em>. And you call that <em>being responsible for yourself?</em> That's not being responsible, that's – argh!" I couldn't even think of the <em>words</em> for how twisted that was. "That's just someone else making all the decisions and you doing all the work. Being responsible is making your OWN DECISIONS!! And now you just do whatever the <em>Stern God</em> wants, too! Out with the old boss, in with the new boss!"
+The Blood God was with me now, already guiding my words. "Do I have to spell it out for you?" I demanded. "You're telling me a story about how some people <em>forced</em> you to do what <em>they</em> told you to, by <em>punishing</em> you until you <em>gave in</em>. And you call that <em>being responsible for yourself?</em> That's not being responsible, that's – argh!" I couldn't even think of the <em>words</em> for how twisted that was. "That's just someone else making all the decisions and you doing all the work. Being responsible is making your OWN DECISIONS!! And now you just do whatever the <em>Stern God</em> wants, too! Out with the old boss, in with the new boss!"
 
 "You speak as if the Stern God's wisdom has no value."
 
@@ -538,17 +556,13 @@ Justicar's words seemed to echo around the elevator we were standing in. She pul
 
 "I suppose I never did finish 'telling you the rest of my life story', as you put it –"
 
-"Oh gods," I muttered. "Bet you're gonna go on about how great it is that everyone bossed you around. Again."
-
-"I cannot force you to believe me. But it truly was the strictures of the school that saved me. Before I went there, I had no ability to control my self-destructive cravings. And now, I do have that ability. I can stop myself from using risk-taking behaviors as a means to feel valued."
-
-"So," I said, summing things up, "what I'm hearing is, first, your life sucked. And then you 'found the Stern'. And now, your life still sucks. When was the last time you enjoyed yourself?"
+"Oh gods," I muttered. "Bet you're gonna start beating yourself up about everything again. When's the last time you enjoyed yourself?"
 
 "It is not important whether I enjoy myself. What is important is whether I stay true to my principles. Perhaps you don't understand how important that is, but –"
 
-"Hey, I stick to my principles too! It's just that <em>my</em> principles are 'have fun' and 'do whatever I want'!"
+"Seriously?? You seriously don't know how to enjoy yourself without violating your principles?"
 
-Justicar smiled patiently. "– But I won't allow myself to be sidetracked again. You asked a question, and I intend to give you an answer.
+"– but I won't allow myself to be sidetracked again. You asked a question, and I intend to give you an answer.
 
 "As I have said, not all who claim to follow the Stern truly uphold its principles. And the Stern Temple is no exception. Even the highest ranks of the Stern Temple are full of – have more than their share of hypocrites.
 
@@ -654,11 +668,13 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 Justicar's voice smoothly cut through mine. She was so calm, it was like she didn't even realize what a heartless system she was defending. "Because you have seen how a tower is shaped, you imagine that you could tear one down and build another from the ruins without any tools. It is all too easy for one such as you, a child who has never lived without the benefits of law, to imagine that those benefits come for free, and are not the products of hard-fought –"
 
+<em>Wrong!</em> roared the Blood God in my head. I had had my own temple, my own laws! I desperately wanted to tell Justicar all about them. To show her my <em>own</em> logic about how society was supposed to work, just as sophisticated as her own. Logic was supposed to <em>serve</em> the people's blood, not to be turned against it! But when I reached out to remember the words, I felt a great burning inside me. My temple had been torn away from me. And where my laws were supposed to be, there was nothing but anger, endless anger, making my blood burn and my vision close in on itself. How was I supposed to argue back, when the Stern ideas were the only ones left alive…?
+
 "You're good at making yourself sound smart, but you're not," I said aggressively. "It's all just a bunch of fancy words to try and justify what you Stern do to people. Why don't you just be honest and beat us up like the others?!"
 
 "That is not –"
 
-"I grew up down the street from that kid!" I shouted over her. I had only barely figured out where I was going with this, but a righteous rage was building in my chest. "Javin Mawr! He went to prison for stealing a pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a half decent pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about Javin before – in fact, I'd always thought he was kind of a dumbass. But it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
+"I grew up down the street from that kid!" I shouted over her. I had only barely figured out where I was going with this, but a righteous rage was building in my chest. "Javin Mawr! He went to prison for stealing a pair of headphones! He was sixteen, just like I am now! No corrupt cop beat him up! It was legal! Everything they did to him was legal! They gave him twelve months in jail! A year of his life, GONE! For a half decent pair of headphones!!" My face was hot, tears springing to my eyes. What was I feeling? I had never really cared about Javin before – in fact, I'd always thought he was kind of a dumbass. But with the Blood God burning inside me, it was like I had suddenly woken up to how <em>wrong</em> it was. All the pain, the humiliation of being trapped by a system that never cared for him. It had opened the lid to a bottomless well of pain and rage. I couldn't stop ripping into Justicar with my words, straining my throat just to spit out the barest shadow of what it would take to set things right. "He got out last year, and he just hasn't been the same! He doesn't want to talk about it, he just clams up! You think maybe he was traumatized there, just a little?!"
 
 "If he was abused in prison, that is <em>not</em> the will of the Stern! You cannot blame –"
 
@@ -676,7 +692,7 @@ Rage surged up in me. I wanted to punch the smug indifference right off her face
 
 "And still your solution is to throw away the law and the entire justice system that we have. How very like the Blood God."
 
-"You know, I wasn't a fan of the Blood God before, but the more you talk, the more I think maybe it's got some good ideas."
+I wanted to keep shouting, but as I opened my mouth, a terrible tiredness came over me. The Blood God had gone quiet, and I was just Rinn again. But I almost wanted it to come back… "You know, I wasn't a fan of the Blood God before, but the more you talk, the more I think maybe it's got some good ideas."
 
 "You will not find your enlightenment down that road," said Justicar. She continued, speaking like she was reciting a practiced statement. "The lower gods act without thinking. The upper gods tarry in thought, rarely taking meaningful action. Only the Stern, which stands in the middle, has the balance necessary to administrate a society. That is why the Stern Temple officially controls three fifths of the city, and why –"
 
@@ -824,7 +840,7 @@ I smirked. "Nah, it just means I was right all along! I'm the one who thought, u
 
 "An interesting thought, but how was that <em>my</em> rule? Anyone could have assumed th–"
 
-I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about Javin, the first thing I thought was 'what an idiot' because he got caught?! How!? How could I have been so – <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
+I paced back and forth, not even listening to her. I COULDN'T get distracted! Now that I had this insight, I had to keep going, seeing everything it meant before I lost my train of thought! "I've been looking at this all wrong from the beginning! I've been doing all this stupid shit just to annoy you – I've been treating you like you're just a <em>fact of life</em> that I'm fed up with! Every part of the Stern – I break the rules, I make fun of the teachers, but at the end of the day I go home and do my homework like it's just how things are! Would you believe that when I heard about Javin, the first thing I thought was 'what an idiot' because he got caught?! That's what I've been doing to Morrow too, I keep just yelling at him not to do stupid shit, like blaming him for it is going to fix everything! How could I have been so – so <em>victim-blaming</em>?! How could I have <em>believed in the Stern?!??</em>"
 
 "That is not what 'belief in the Stern' m–"
 
@@ -838,9 +854,19 @@ I paced back and forth, not even listening to her. I COULDN'T get distracted! No
 
 "Oh? What am I?"
 
-I clutched my head, trying to calm my warring thoughts. I should have had something brilliant to say that would totally shut down all of Justicar's bad arguments. But now the feeling of insight was gone, leaving my mind in a jumble. Which part was me, and which part was the Blood God? Could they <em>all</em> be the Blood God? For fuck's sake, why wouldn't it just leave me OUT of its family squabbles? And now it was squabbling with <em>itself</em>, too?!
+Inside me, the Blood God was roaring three different opinions at once. But I could still feel a central truth that tied them together.
 
-"I don't know. This is stupid. Never mind."
+"Havi," I said gravely, "You are a creature who wants to believe that the rules will protect you. When you see injustice in the world, you look for who has violated a rule, so that the rules themselves can remain pure. And when the pain inside you spills over, you tell yourself that it is <em>you</em> who has committed a violation – because it is easier to believe in your own guilt, than to accept that the rules you believed in were faulty from the beginning. But even if the Stern can lock the pain inside, it can never heal it. That is why you looked at me as you did. You believe that <em>every</em> human being is too damaged to heal, and that restraining the damage is the only way to protect them. But there is another way. You can make peace with your pain. You can listen to the value of your own blood. Even you, even after all you've done, you can still be –"
+
+<em>– You can still be healed –</em>
+
+Rage and grief exploded inside me. <em>No!!</em> I screamed inside. These were my old thoughts, from before – before it all happened! I was supposed to be able to heal!! But I couldn't pretend to go back! The Watchful Eye was burning in my eyes – the monster – the Farseers – they took everything from me! The one from this time, why had I let it get away?! I had to destroy it, tear it limb from limb, before –
+
+"Blood Child? What were you about to say?"
+
+What was happening?! <em>Controlling Game,</em> I yelled inside, trying to calm my warring thoughts. The Blood God had felt so good, it had felt like it was showing me beautiful insights – and now <em>this</em>? It had taken me by surprise. But now I was myself again, and it wasn't hard to remember that the Blood God wasn't me. I was safe. But the feeling of insight was gone, and only the endless burning left in its place.
+
+"I don't know. Never mind."
 
 "No, you clearly had something to say. If you start something, you should finish it."
 
@@ -872,7 +898,9 @@ I turned around.
 
 "You see? I told you the Seeking God would never allow us to reach the Farseer this way."
 
-I kept looking at the map in my hand. Going too far in one direction took me further away from her. Going too far in the other direction also took me further away from her. I found the closest point, and glared at the wall there. On the map, the little Burning Heart was nearly touching the room Yali was in. If I could just get through this wall, Yali and I would be in the same room…
+I kept looking at the map in my hand. Going too far in one direction took me further away from her. Going too far in the other direction also took me further away from her. I found the closest point, and glared at the wall there. On the map, the little Burning Heart was nearly touching the room Yali was in. 
+
+If I could just smash through this wall, I'd be right there, looking across the room at her…
 
 "She's just beyond this wall!!" I yelled. "I will <em>not</em> be denied <em>again!</em>" I snatched a Blood Blade out of thin air and swung it against the wall.
 
