@@ -190,7 +190,7 @@ After having the dream like half a dozen times, I thought of telling Yali about 
 
 "– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. That face, I think, that is, I, I…" she trailed off.
 
-"That is what?"
+[????? Cut all of this: "That is what?"
 
 "Why do you love me so much?" said Yali suddenly.
 
@@ -218,7 +218,7 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "Ah… Going back, you think <em>I</em> move confidently? I know it's subjective, but I usually feel slow and clumsy, so, so, wait, that reminds me –"
 
-"Well, I mean, actually one of the first times I noticed I was attracted to you was when you were, like, we were in class, and you were just sort of awkwardly getting out of a chair. Gods, I could watch you awkwardly get out of a chair <em>all day</em>. It's just so, so –" Then I realized I had interrupted Yali, so I shut up. Yali didn't say anything right away. "Er, were you gonna say something?"
+"Well, I mean, actually one of the first times I noticed I was attracted to you was when you were, like, we were in class, and you were just sort of awkwardly getting out of a chair. Gods, I could watch you awkwardly get out of a chair <em>all day</em>. It's just so, so –" Then I realized I had interrupted Yali, so I shut up. Yali didn't say anything right away. "Er, were you gonna say something?" ????? End of part to cut]
 
 "Yes… You know how you keep wanting to be able to help me somehow?"
 
@@ -246,7 +246,7 @@ Yali gave a half smile. "Please don't actually beat anyone up for my sake."
 
 "I still don't feel like I'm <em>doing</em> anything," I said, as we walked home from the gym one day.
 
-"You are, and I greatly appreciate it."
+"You are, and I ?????greatly appreciate it."
 
 "Eh…"
 
@@ -262,7 +262,7 @@ While we walked, I tried to make conversation. "You've been working really hard.
 
 "You know you don't have to be so stoic about it, right?" I said. "You can be like 'Ow, my aching legs' and then I can be like 'I know right?' and then –"
 
-"Stop," said Yali forcefully. I was surprised into silence. As we walked, I waited for her to explain, but she seemed lost in thought.
+"Stop," said Yali forcefully. I was surprised into silence. [????? Rest of this section needs shortening/cleanup: As we walked, I waited for her to explain, but she seemed lost in thought.
 
 Finally, I figured she'd forgotten about it, and began, "Uh, what –"
 
@@ -271,6 +271,8 @@ Yali interrupted before I could even ask my question. When she spoke, she didn't
 I had loads of questions, but I could tell it wasn't the right time for them. "It's okay, it's okay, I can respect that. Contrary to popular belief, I <em>sometimes</em> know when to shut up."
 
 <bigbreak>
+
+[????? This section spends too much time not really going somewhere; perhaps just skip between the high points]
 
 "Expressing Game," said Yali.
 
@@ -315,6 +317,8 @@ And Yali just accepted it, of course. We tried to find something fun to do inste
 That night, I even went to bed by my official bedtime. Probably blew Mom and Dad's minds, but I wasn't even really thinking about that. I just wanted the day to be over already.
 
 <bigbreak>
+
+[????? Somewhat cut down the lead-in before we get to the two friends)
 
 There I was, leaning on the wall after school, staring at my phone. At an unanswered text from Yali.
 
@@ -375,6 +379,8 @@ I caught my breath. "Nah, I'm good, this is the best, you're all the best." I gr
 Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. In case that matters."
 
 "Yeah, thanks, you're the best."
+
+[????? Extremely cut down the rest of the chapter]
 
 And then I took off again. My lungs were killing me, but I'd never let that stop me before, and I wasn't about to start now. Pretty soon I flung open the art room door to find Layo and a few other kids hard at work.
 
