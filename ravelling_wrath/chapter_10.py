@@ -308,9 +308,9 @@ Justicar sighed. "I won't rise to your provocation."
 
 "So you <em>do</em> have a problem with it!" I said triumphantly.
 
-"I am not homophobic!" said Justicar angrily. She struggled to find the right words. "It didn't matter <em>who</em> I was having sex with! I –"
+"I am not homophobic!" said Justicar angrily. She struggled to find the right words. "It didn't matter <em>who</em> I was having sex with! The problem is that I chose to devalue my body that way at all –"
 
-"And, liiiiike, you say you 'had sex' with these men when you were totally wasted. Isn't that, like, rape?"
+Thoughts from the Blood God shoved their way into my head. What Justicar had just said – it was <em>blasphemy!</em> This sense of <em>wrongness</em>… but I was still weak! I was supposed to be able to explain it! I opened my mouth. "So," I began, still forming it into words, "what I'm hearing is, you were super drunk, and then you 'had sex' with people, in a way that made you feel like your body was devalued. That doesn't sound like you 'choosing' something. That sounds like them taking advantage of you!"
 
 "I put myself in that situation willingly."
 
@@ -318,23 +318,17 @@ Justicar sighed. "I won't rise to your provocation."
 
 "I didn't plan on it when I was sober, but –"
 
-"Then I don't see how it was consensual," I concluded.
+"Then it doesn't sound like it was consensual," I said forcefully.
 
 Justicar glared at me. "Are you so eager to avoid taking responsibility for your actions that you must see victimhood everywhere, even when I tell you myself that I was not a victim?"
 
 "What the fuck! Of course I take responsibility for my actions! When I hurt someone else, that's my responsibility. When someone else hurts me, that's their responsibility. It's not that complicated!"
 
-"So, according to you, any time you have sex with a drunk person, that's rape?"
+"So, according to you, any time a person makes a decision while in a state of drunkenness, it is automatically an assault against them?"
 
 "Uh, generally," I said. I felt like she was trying to pin me down with some sort of clever logic. And I wasn't sure all of the girls <em>I'd</em> been with had been totally sober at the time, so that was a little uncomfortable.
 
-"Then you could just as well say that <em>I</em> raped some of those <em>men</em>."
-
-"Haha, maybe you did! Did you check in with them afterwards or anything? It's not like they'd come up to you the next day and be like, 'By the way, Justicar,' or whatever your real name is, 'you actually traumatized me last night, just so you know'!"
-
-Justicar was smiling – the smile of someone who's being patient with a little kid who's talking nonsense. Stern take it, if I wanted to get through to her, I couldn't just keep saying the first thing that came into my head, even if it wasn't wrong. "So, what, do you think drunk girls are just asking for it?!" I snapped.
-
-"If you would give me a chance to explain the actual principles I follow, you would know I do not believe anything like that. It is always wrong to force yourself on someone else. But no one forced themselves on me. It was my own choice to devalue my body like that. I <em>chose</em> to allow men to use my body for their pleasure, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
+"You hesitate, because you understand that things are more complicated than that. It is always wrong to force yourself on someone else. But no one forced themselves on me. I <em>chose</em> to allow men to use my body for their pleasure, to distract myself from how I was squandering the true worth of my life. I had no self-respect."
 
 Ugh, this was the <em>worst</em>. It was like Justicar already had an answer prepared for everything I was going to say. I had let this go on too long. I had let Stern ideas take over the discussion while I was locked away. I needed to clear my head, I needed –
 
@@ -354,7 +348,7 @@ I shook my head sadly. "You don't even know what self-respect <em>is</em>. Your 
 
 Justicar raised an eyebrow. "When I was your age, I too believed that I was being assertive and empowered."
 
-She thought I was still just speaking for myself. She hadn't recognized the Blood God's words when she heard them. The Blood God wanted to keep looking for answers, but I could feel it getting frustrated. And I didn't like where that was going. I fell back to a Rinn answer. "Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
+She thought I was still just speaking for myself. She hadn't recognized the Blood God's words when she heard them. The Blood God wanted to keep looking for answers, but I could feel it getting frustrated again. And I didn't like where that was going. I fell back to a Rinn answer. "Yeah, so, maybe I'm in denial. Or maybe you're just wrong. You ever think about that??"
 
 "You can believe what you like," she said.
 
@@ -482,7 +476,7 @@ The next room had all the usual parts – walls and levers and flamethrowers and
 
 "The Seeking can't possibly intend for you only to be the manual labor…" Justicar looked back at the hidden diagram, deep in thought.
 
-While she was doing that, I just had the whole jumbled room to myself. So I started pushing the things around, just to give myself something to do. First I sorted all of them into categories. It was funny, even the pits were surrounded by pulleys that were mounted on the rails, and if I moved the pulleys, it moved the holes in the ground too, even though that didn't physically make sense.
+While she was doing that, I just had the whole jumbled room to myself. So I started pushing the things around, just to give myself something to do. First I sorted all of them into categories. It was funny, even the pits were somehow mounted on the rails – there were little wheels attached to the rails, and if I moved the wheels, it moved the holes in the ground too, even though that didn't physically make sense.
 
 I kind of wanted to build something with the pieces, but you couldn't really stack them on top of each other, you could only put one thing in each square of the grid. So the only thing you could build with them was mazes or puzzles.
 
@@ -670,7 +664,7 @@ Justicar's voice smoothly cut through mine. She was so calm, it was like she did
 
 <em>Wrong!</em> roared the Blood God in my head. I had had my own temple, my own laws! I desperately wanted to tell Justicar all about them. To show her my <em>own</em> logic about how society was supposed to work, just as sophisticated as her own. Logic was supposed to <em>serve</em> the people's blood, not to be turned against it! But when I reached out to remember the words, I felt a great burning inside me. My temple had been torn away from me. And where my laws were supposed to be, there was nothing but anger, endless anger, making my blood burn and my vision close in on itself. How was I supposed to argue back, when the Stern ideas were the only ones left alive…?
 
-"You're good at making yourself sound smart, but you're not," I said aggressively. "It's all just a bunch of fancy words to try and justify what you Stern do to people. Why don't you just be honest and beat us up like the others?!"
+I didn't know what to say, but the rage wouldn't let me stay quiet. "You're good at making yourself sound smart, but you're not," I said aggressively. "It's all just a bunch of fancy words to try and justify what you Stern do to people. Why don't you just be honest and beat us up like the others?!"
 
 "That is not –"
 
