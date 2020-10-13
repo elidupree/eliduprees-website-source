@@ -274,7 +274,7 @@ Yali rubbed my shoulders. "Don't worry about me. We have things to do."
 
 "You don't have to if you don't want to," said Yali soothingly.
 
-"Hang on, I just remembered I got angry in <em>this</em> story, too. [????? So it's kind of killing two birds with one stone if I tell it.] Sure, I'll do it," I said. I danced a few steps ahead and then looked back, waving my arms like a stage magician. "The Adventures of Rinn Akatura, Chapter 752: The Fast Food Place," I began. "So, there was this girl –"
+"Hang on, I just remembered I got angry in <em>this</em> story, too. I guess the Seeking wants me to tell it!" I said. I danced a few steps ahead and then looked back, waving my arms like a stage magician. "The Adventures of Rinn Akatura, Chapter 752: The Fast Food Place," I began. "So, there was this girl –"
 
 Yali smirked.
 
