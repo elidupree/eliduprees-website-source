@@ -170,7 +170,7 @@ Morrow blinked. "Alchemist! Have you seen Alchemist??"
 
 "Uh…"
 
-"Whatever, you don't understand. Come on!" Morrow rolled to his feet, waving for me to follow him. I jumped up and ran after him. He was probably just going to lead me on a wild goose chase, but the other option was my own wild goose chase after Yali, and I didn't have any idea where I was going either.
+"Whatever, you don't understand. Come on!" Morrow rolled to his feet, waving for me to follow him. I jumped up and ran after him. He was probably just going to take me Seeking without a spark, but I the other option was to keep looking for Yali, and I didn't have a spark on that either.
 
 Morrow led me through one of the doors, probably picking it out at random. We weaved in and out between some floating curtains, quickly losing all sense of where we'd come from. Pushing past the dozenth curtain, we found ourselves in front of a huge wooden gate.
 
