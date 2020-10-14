@@ -107,11 +107,11 @@ status_description ='''
 
 Current status of this novel:
 
-All twenty-one chapters have been written! I haven't posted them all yet – there is still editing work left to do. Unfortunately, I've gotten slightly behind on the editing. I'm currently hoping to have chapter 20 ready by September 23, 2020, and chapter 21 the week after that.
+All twenty-one chapters have been written! I was delayed for a few weeks, but I've caught up. The final chapter, chapter 21, will be posted on Wednesday, Oct 14.
 
-Meanwhile, Sarah Fensore and I are hard at work on making illustrations! Most of them aren't complete yet, but I'm including our sketches in the story for now, and I'll replace them with the completed drawings as we complete them.
+Even when the final chapter is posted, the novel won't be <em>completed</em> yet; I'm still working on significant edits to the earlier chapters, which aren't <em>quite</em> up to my standards after everything I've learned by writing the rest. So the existing chapters may change unexpectedly. I know some of you may want to read (or reread) the story after it's no longer in flux, so I'll update this message with the current status as I make progress.
 
-I'm also working on significant edits to the earlier chapters (which aren't <em>quite</em> up to my standards after everything I've learned by writing the rest). So the existing chapters may change unexpectedly. I know some of you may want to read (or reread) the story after it's no longer in flux, so I'll update this message with the current status as I make progress.
+Also, Sarah Fensore and I are still hard at work on the illustrations! Most of them aren't complete yet, but our sketches are included in the story for now, and I'll replace them with the completed drawings as we complete them.
 
 </div>
 '''
