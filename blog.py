@@ -765,6 +765,7 @@ def long_story_navbar(post):
   index = post["long_story_index"]
   story = blog_posts.long_stories [post["long_story_name"]]
   previous = "&lt; Previous"
+  next = "Next &gt;"
   page = story ["pages"] [0]
   first = '<a class="long_story_adjacent button first" href="'+ post_permalink (page)+'">&lt;&lt; First</a>'
   archive = '<a class="long_story_adjacent button" href="'+ post_permalink (page)+'">Archive</a>'
@@ -779,9 +780,12 @@ def long_story_navbar(post):
   
   if index < len(story ["pages"]):
     page = story ["pages"] [index]
-    next = '<a class="long_story_adjacent next button" href="'+ post_permalink (page)+'">Next ></a>'
+    next = '<a class="long_story_adjacent next button" href="'+ post_permalink (page)+'">'+next+'</a>'
   else:
-    next = '''<div class="complete_comic">This story is complete. </div>''' if "complete" in metadata else MailChimp_form_labeled ("This is the last chapter so far! Follow elidupree.com by email for future updates:")
+    if "complete" in story:
+      next = '<div class="next button">'+next+'</div>'
+    else:
+      next = MailChimp_form_labeled ("This is the last chapter so far! Follow elidupree.com by email for future updates:")
     
   page = story_discussion_post (post)
   commentary = '<a class="long_story_adjacent commentary" href="'+ post_permalink (page)+'''">Author's notes and comments for this chapter</a>'''
