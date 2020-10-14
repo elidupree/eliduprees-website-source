@@ -15,6 +15,7 @@ posts = [
 
   ''',
   "head":head,  "chapter_title": "Change",
+  "content_warnings": '''<p>A character with PTSD coping with feelings of guilt.</p>''',
   "contents": '''
 
 <em>Uuuuuuggggggggggghhhhhhhhhhhhhhhhh.</em>
