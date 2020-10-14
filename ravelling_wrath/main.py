@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+import os.path
 from num2words import num2words
 
 
@@ -58,6 +59,29 @@ chapters = flatten([
   ravelling_wrath.chapter_21.posts,
 ])
 
+# Emoji:
+# We currently use twemoji (https://github.com/twitter/twemoji),
+# but may change this in the future.
+def emoji_hex_string(emoji):
+  return hex(ord(emoji))[2:]
+
+def replace_emoji(match):
+  emoji = match.group(0)
+  hex_string = emoji_hex_string(emoji)
+  return f'<img class="emoji" alt="{emoji}" src="/media/ravelling-wrath/emoji/{hex_string}.svg?rr" />'
+  
+simple_emoji = "😡|😂|❤|😝|😫|🧪|🤕|🌈|🖤|🤎|💜|💙|💚|💛|🧡|😨|😧|📱|💯|👍|😶|🤪|😟|😲|😆|😌|🤗"
+for emoji in simple_emoji:
+  if emoji != "|":
+    hex_string = emoji_hex_string(emoji)
+    file_path = f"media/editable_stuff/ravelling-wrath/emoji/{hex_string}.svg"
+    if not os.path.exists(file_path):
+      import requests
+      url = f'https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/{hex_string}.svg'
+      response = requests.get(url)
+      open(file_path, 'wb').write(response.content)
+      
+
 for index, chapter in enumerate (chapters):
   chapter ["chapter_number"] = index + 1
   chapter ["contents"] = auto_paragraphs (chapter ["contents"])
@@ -79,14 +103,8 @@ for index, chapter in enumerate (chapters):
   # Word-end apostrophes:
   chapter ["contents"] = re.sub(r"\b'\B", "’", chapter ["contents"])
   
-  # Emoji:
-  # We currently use twemoji (https://github.com/twitter/twemoji),
-  # but may change this in the future.
-  def replace_emoji(match):
-    emoji = match.group(0)
-    hex_string = hex(ord(emoji))[2:]
-    return f'<img class="emoji" alt="{emoji}" src="/media/ravelling-wrath/emoji/{hex_string}.svg?rr" />'
-  chapter ["contents"] = re.sub(r"😡|😂|❤|😝|😫", replace_emoji, chapter ["contents"])
+  
+  chapter ["contents"] = re.sub(simple_emoji, replace_emoji, chapter ["contents"])
   
 
 def chapter_to_post (chapter):
