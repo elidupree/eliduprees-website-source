@@ -9,11 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 21",
   "auto_paragraphs": True,
-  "don't deploy": True,
-  "authors_notes":'''
-
-
-  ''',
+  "blurb_image": "/media/ravelling-wrath/sketches/end.jpg?rr",
   "head":head,  "chapter_title": "Change",
   "content_warnings": '''<p>A character with PTSD coping with feelings of guilt.</p>''',
   "contents": '''
@@ -542,6 +538,8 @@ I knelt down, pressing my hand against the cold pavement.
 "This was a temple," I whispered. "A temple."
 
 And I knew that one day, I would raise up a new temple to take its place.
+
+<img class="sketch" src="/media/ravelling-wrath/sketches/end.jpg?rr" alt="">
 
 ''',
 },

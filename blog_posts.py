@@ -74,6 +74,7 @@ long_stories = {
     "blurb": ravelling_wrath.main.blurb,
     "pages": ravelling_wrath.main.posts,
     "listed": True,
+    "complete": True,
   },
 }
 

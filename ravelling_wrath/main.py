@@ -125,9 +125,9 @@ status_description ='''
 
 Current status of this novel:
 
-All twenty-one chapters have been written! I was delayed for a few weeks, but I've caught up. The final chapter, chapter 21, will be posted on Wednesday, Oct 14.
+All twenty-one chapters are now posted!
 
-Even when the final chapter is posted, the novel won't be <em>completed</em> yet; I'm still working on significant edits to the earlier chapters, which aren't <em>quite</em> up to my standards after everything I've learned by writing the rest. So the existing chapters may change unexpectedly. I know some of you may want to read (or reread) the story after it's no longer in flux, so I'll update this message with the current status as I make progress.
+I don't consider the novel <em>completed</em> yet; I'm still working on significant edits to the earlier chapters, which aren't <em>quite</em> up to my standards after everything I've learned by writing the rest. So the existing chapters may change unexpectedly. I know some of you may want to read (or reread) the story after it's no longer in flux, so I'll update this message with the current status as I make progress.
 
 Also, Sarah Fensore and I are still hard at work on the illustrations! Most of them aren't complete yet, but our sketches are included in the story for now, and I'll replace them with the completed drawings as we complete them.
 
@@ -165,7 +165,6 @@ posts [0] ["contents"] = ('''
   f"/ravelling-wrath/{post ['chapter_number']}",
   f"Chapter {post ['chapter_number']}: {post ['chapter_title']}"
   ) for post in posts [1:] if "don't deploy" not in post)+'''
-<div class="table_of_contents_remaining">To be continued…</div>
 
 Many thanks to <a href="http://www.sarahfensore.com/">Sarah Fensore</a>, who I've talked out my story plans with since the beginning, and who continues to help me edit the individual chapters.
 </div>
@@ -178,7 +177,7 @@ Many thanks to <a href="http://www.sarahfensore.com/">Sarah Fensore</a>, who I'v
   
   <div class="main_content_warnings">
 Content warnings for Ravelling Wrath as a whole:
-'''+ content_warning_header ('''<p>Ravelling Wrath is a fantasy adventure where the characters face deadly dangers. It also goes deep into their emotional struggles, including issues of abuse, sexual assault, self-harm, and depression. (Or, it will. Not all of those issues are in the chapters I've completed so far.) It also touches on heterosexism and classism.</p>
+'''+ content_warning_header ('''<p>Ravelling Wrath is a fantasy adventure where the characters face deadly dangers. It also goes deep into their emotional struggles, including issues of abuse, sexual assault, self-harm, and depression – although it focuses on empowerment and how to do better, rather than presenting distressing things in a vacuum. It also touches on heterosexism and class oppression.</p>
 
 <p>Each chapter also has a list of content warnings for that chapter specifically.</p>''')+'''
 
