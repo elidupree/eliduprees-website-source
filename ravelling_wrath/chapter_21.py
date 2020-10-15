@@ -245,6 +245,8 @@ It took about twenty minutes before Alchemist texted me back. When they did, I w
 <p class="text left"> 😟😟📱🤪😌😶😟🤪😌😌 </p>
 <p class="text left"> 🤗🤗🤗 </p>
 
+<div class="clear"></div>
+
 "Oh thank gods, Morrow's okay," I said.
 
 Yali peered over my shoulder. "How did you get that from… that?"
