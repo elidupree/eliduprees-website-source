@@ -71,7 +71,7 @@ long_stories = {
   "ravelling_wrath": {
     "title": "Ravelling Wrath",
     "url": "/ravelling-wrath",
-    "blurb": ravelling_wrath.main.blurb,
+    "blurb": ravelling_wrath.main.long_blurb,
     "pages": ravelling_wrath.main.posts,
     "listed": True,
     "complete": True,
