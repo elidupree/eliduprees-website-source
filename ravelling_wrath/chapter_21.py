@@ -238,9 +238,9 @@ Yali gave a little smile. "Yeah, about that…" she said.
 
 It took about twenty minutes before Alchemist texted me back. When they did, I was treated to a whole flood of emoji.
 
-<p class="text left"> <img class="emoji" alt="🏃‍♀️" src="/media/ravelling-wrath/emoji/1f3c3-200d-2640-fe0f.svg">!! </p>
+<p class="text left"> <img class="emoji" alt="🏃‍♀️" src="/media/ravelling-wrath/emoji/1f3c3-200d-2640-fe0f.svg?rr">!! </p>
 <p class="text left"> 🤕😨😨🧪😧🧪🧪🧪😌😌😌🌈❤️🧡💛💚💙💜🤎🖤 </p>
-<p class="text left"> 🤗<img class="emoji" alt="👨‍👩‍👦‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f469-200d-1f466-200d-1f466.svg"><img class="emoji" alt="👨‍👨‍👧‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f468-200d-1f467-200d-1f466.svg"><img class="emoji" alt="👩‍👧‍👦" src="/media/ravelling-wrath/emoji/1f469-200d-1f467-200d-1f466.svg"><img class="emoji" alt="👨‍👧‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f467-200d-1f466.svg">🤗‍ </p>
+<p class="text left"> 🤗<img class="emoji" alt="👨‍👩‍👦‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f469-200d-1f466-200d-1f466.svg?rr"><img class="emoji" alt="👨‍👨‍👧‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f468-200d-1f467-200d-1f466.svg?rr"><img class="emoji" alt="👩‍👧‍👦" src="/media/ravelling-wrath/emoji/1f469-200d-1f467-200d-1f466.svg?rr"><img class="emoji" alt="👨‍👧‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f467-200d-1f466.svg?rr">🤗‍ </p>
 <p class="text left"> 💯😌😟😲😆😌😌👍 </p>
 <p class="text left"> 😟😟📱🤪😌😶😟🤪😌😌 </p>
 <p class="text left"> 🤗🤗🤗 </p>
