@@ -125,7 +125,7 @@ status_description ='''
 
 Current status of this novel:
 
-All twenty-one chapters are now posted!
+All twenty-one chapters have been posted!
 
 I don't consider the novel <em>completed</em> yet; I'm still working on significant edits to the earlier chapters, which aren't <em>quite</em> up to my standards after everything I've learned by writing the rest. So the existing chapters may change unexpectedly. I know some of you may want to read (or reread) the story after it's no longer in flux, so I'll update this message with the current status as I make progress.
 
