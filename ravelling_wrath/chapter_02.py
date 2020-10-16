@@ -38,6 +38,8 @@ posts = [
   "chapter_title": "The Plan",
   "content_warnings": '''<p>Description of anti-gay attitudes; verbally abusive language; brief mention of sexual assault.</p>''',
   "contents": '''
+  
+[????? much of the dialogue in this chapter can be tightened up a little]
 
 "This is your mind."
 
