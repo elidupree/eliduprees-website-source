@@ -83,7 +83,7 @@ Yali gave me a Look.
 
 "It can't be that hard if we're doing it on purpose. You could yell at me, pester me… you could even hit me if that's what it takes, I wouldn't mind."
 
-"<em>Hit</em> you? Even if that would work… I don't want to hurt you."
+[????? doesn't quite feel Yali:] "<em>Hit</em> you? Even if that would work… I don't want to hurt you."
 
 "I'm the one who's suggesting it. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
 
@@ -97,9 +97,9 @@ Yali gave me a Look.
 
 "Maybe… But if we don't break them down here, then when they break down in the Otherworld, you'll be totally unprepar—"
 
-"And how are you even just talking about this? You're so calm, even though you're talking about having me hurt you… This is some really grim shit."
+"And how are you even just talking about this? You're so calm, even though you're talking about having me hurt you… [?????This is some really grim shit.]"
 
-"You were literally just talking about having me hurt you as if <em>that</em> was nothing."
+[????? is this a Yali wording? the 'literally' feels more Rinn, but maybe it's okay] "You were literally just talking about having me hurt you as if <em>that</em> was nothing."
 
 "That really is no big deal for me. Seriously, I'm not being hypocritical here – we don't have the same, you know –"
 
@@ -163,7 +163,7 @@ Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be<
 
 "What kind of –"
 
-"I'm not ready to talk about it. It's just, it's just… Never mind. The point is, if we tell anyone… word could get around. But… I can't ask you not to tell anyone. That would be…"
+"I'm not ready to talk about it. It's just, it's just… Never mind. The point is, if we tell anyone… it could find its way back to them. But… I can't ask you not to tell anyone. That would be…"
 
 "Look, if it has to be a secret, that's not a big deal for me. I'm not sure who I would tell anyway. And you're definitely not an abuser, you're like the total opposite –"
 
@@ -171,11 +171,13 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "That's, like, way too much pressure to put on yourself," I said.
 
-"Right, if I was the only one you could talk to, then I'd feel like I had to do everything –"
+"Right, if I was the only one you could talk to, then [????? Yali shouldn't describe possibly feeling bad this easily:] I'd feel like I had to do everything –"
 
 "No, I meant the other way around! I mean your – you said you had a 'personal thing'? I wish I knew what it was here, but I can respect that, but like, what are you going to do – <em>not</em> have a personal thing? You're allowed to have some personal things! And every time you have a personal thing, are you going to be worrying about whether it strains our relationship? Seriously, it's okay, I'm literally telling you it's okay. Look, what do I have to do to convince you it's okay?"
 
 "Hmm." Yali thought about it for a minute. "I believe you, but it still doesn't feel right. Maybe I can use my Seeing…"
+
+[????? I feel like I can make this transition do promise theory better:]
 
 "Your what? Oh, is that the magic power?"
 
@@ -215,11 +217,11 @@ Yali finished her first fruit and set down the other one. Then she wiped her mou
 
 "Woah!"
 
-"I don't mean I want to do that, I mean… I want you to think about what your boundaries are. 'Anything' is scary. It's so easy to accidentally hurt somebody."
+"I don't mean I want to do that, I mean… I want you to think about what your boundaries are. 'Anything' [????? is scary]. It's so easy to accidentally hurt somebody."
 
 "When have <em>you</em> ever hurt somebody?"
 
-"You'd be surprised. Just think about it."
+"[?????too poised: You'd be surprised.] Just think about it."
 
 "Fine, I get it, I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
 
@@ -327,9 +329,9 @@ Just then Yali let go of me, stepped back and closed her eyes again. When she op
 
 "That was fuckin' scary!" I said. "Not in a bad way! I mean, that was the point, right? Why'd you stop?"
 
-Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay, but the moment you don't check is the moment everything can go wrong."
+Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay. But the moment you don't check is the moment everything can go wrong."
 
-"The second reason," she continued, "is that I'm not sure <em>I</em> can handle doing that for very long. And the third one is… It wasn't going to work."
+"The second reason," she continued, "is that I'm not sure <em>I</em> can [????? not quite the right word: handle] doing that for very long. And the third one is… It wasn't going to work."
 
 "It almost worked! If you'd gone on for a bit longer…"
 
@@ -351,7 +353,7 @@ Yali seemed confused that I'd asked the question. "Uh… yes?"
 
 "So, can you think of –"
 
-"Yeah, yeah." I wracked my brains. Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually managed to force me into doing chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
+"Yeah, yeah." I racked my brains. Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually managed to force me into doing chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
 
 "Maybe you're looking for the wrong <em>kind</em> of thing."
 
@@ -362,6 +364,8 @@ Yali seemed confused that I'd asked the question. "Uh… yes?"
 Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, and she'd <em>said</em> she was okay, but there was something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
 
 There was an awkward pause. I scrambled for something to break the silence.
+
+[????? THIS transition works, but the rest of this section is insufficiently motivated:]
 
 "So… the Ravelling!" I said. "What's it actually like? Tell me everything."
 
@@ -381,7 +385,7 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "And the third ring is obvious, it's boring and strict, just like the Stern. Uh, no offense."
 
-Yali shrugged. "It's true, I live in a boring place."
+Yali shrugged. "It's true, I live in a boring place." [????? maybe more like: sometimes it's better to live in a boring place]
 
 "What about the fourth ring? It's not all overgrown with plants like you said the Broken God's layer was in the Otherworld. I mean, there's a few parks, but it's mostly packed with buildings."
 
@@ -437,9 +441,9 @@ Yali shrugged. "It's true, I live in a boring place."
 
 "Uh… sorry, you can keep explaining the rejuvenating thing now."
 
-"Rejuvenation is the whole purpose of the Ravelling, from the gods' point of view. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that somehow allows them to stay strong, by getting a supply of new human threads every year. If they don't get that for too long… they get weaker."
+"Rejuvenation is the whole purpose of the Ravelling, from the gods' point of view. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that that's how they stay strong, by getting a supply of new human threads every year. If they don't get that for too long… they get weaker."
 
-"Does it only happen if we survive <em>all</em> the way? Like if one of the Ravellers gets through <em>most</em> of the layers and their soul is <em>mostly</em> intertwined…"
+[????? Why did Rinn ask this?] "Does it only happen if we survive <em>all</em> the way? Like if one of the Ravellers gets through <em>most</em> of the layers and their soul is <em>mostly</em> intertwined…"
 
 "When a human dies, their soul unravels. If that happens, the god has to pull back the threads of its own soul, but the human parts just disperse. It takes the whole winter to fully link the human threads to the god threads. So it really only works if its human host survives to the end. That's what usually happens for the <em>other</em> three gods, but –"
 
@@ -560,6 +564,8 @@ I was getting jittery just sitting on the couch next to her. So I got up and sta
 Everything in Yali's house was neat and orderly. Her shoes were all in a row next to the door, with her coats hanging just above. At the other end of the room there was a kitchen area, with a clean sink – no dirty dishes stacked in it like there always were at my place. ("A dirty kitchen means an uncivilized life", Dad always complained, not that <em>he</em> cleaned up any more than the rest of us.) The only thing that wasn't in order was my own bags, which I'd just thrown on the floor at random.
 
 I paced all the way to the far corner, where a space heater hummed away, even though it wasn't that cold today. Then I paced back. Each time I turned around, I glanced over to check on Yali. She was still just sitting there, looking into the distance. The papers she'd drawn on were still lying on the table in front of her, along with her laptop, which we'd opened to look some stuff up.
+
+[????? I felt like the summary had gone too long when it continued into this next paragraph:]
 
 Back in the other direction was a big window, with some nice curtains. I liked the pattern on them, and it was already dark outside, so I walked over to them and pulled them closed. I made sure to neaten them up so they'd match the rest of the room.
 
