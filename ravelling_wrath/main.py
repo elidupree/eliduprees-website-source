@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+import os.path
 from num2words import num2words
 
 
@@ -58,6 +59,29 @@ chapters = flatten([
   ravelling_wrath.chapter_21.posts,
 ])
 
+# Emoji:
+# We currently use twemoji (https://github.com/twitter/twemoji),
+# but may change this in the future.
+def emoji_hex_string(emoji):
+  return hex(ord(emoji))[2:]
+
+def replace_emoji(match):
+  emoji = match.group(0)
+  hex_string = emoji_hex_string(emoji)
+  return f'<img class="emoji" alt="{emoji}" src="/media/ravelling-wrath/emoji/{hex_string}.svg?rr" />'
+  
+simple_emoji = "😡|😂|❤|😝|😫|🧪|🤕|🌈|🖤|🤎|💜|💙|💚|💛|🧡|😨|😧|📱|💯|👍|😶|🤪|😟|😲|😆|😌|🤗"
+for emoji in simple_emoji:
+  if emoji != "|":
+    hex_string = emoji_hex_string(emoji)
+    file_path = f"media/editable_stuff/ravelling-wrath/emoji/{hex_string}.svg"
+    if not os.path.exists(file_path):
+      import requests
+      url = f'https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/{hex_string}.svg'
+      response = requests.get(url)
+      open(file_path, 'wb').write(response.content)
+      
+
 for index, chapter in enumerate (chapters):
   chapter ["chapter_number"] = index + 1
   chapter ["contents"] = auto_paragraphs (chapter ["contents"])
@@ -79,14 +103,8 @@ for index, chapter in enumerate (chapters):
   # Word-end apostrophes:
   chapter ["contents"] = re.sub(r"\b'\B", "’", chapter ["contents"])
   
-  # Emoji:
-  # We currently use twemoji (https://github.com/twitter/twemoji),
-  # but may change this in the future.
-  def replace_emoji(match):
-    emoji = match.group(0)
-    hex_string = hex(ord(emoji))[2:]
-    return f'<img class="emoji" alt="{emoji}" src="/media/ravelling-wrath/emoji/{hex_string}.svg?rr" />'
-  chapter ["contents"] = re.sub(r"😡|😂|❤|😝|😫", replace_emoji, chapter ["contents"])
+  
+  chapter ["contents"] = re.sub(simple_emoji, replace_emoji, chapter ["contents"])
   
 
 def chapter_to_post (chapter):
@@ -107,11 +125,11 @@ status_description ='''
 
 Current status of this novel:
 
-All twenty-one chapters have been written! I haven't posted them all yet – there is still editing work left to do. Unfortunately, I've gotten slightly behind on the editing. I'm currently hoping to have chapter 20 ready by September 23, 2020, and chapter 21 the week after that.
+All twenty-one chapters have been posted!
 
-Meanwhile, Sarah Fensore and I are hard at work on making illustrations! Most of them aren't complete yet, but I'm including our sketches in the story for now, and I'll replace them with the completed drawings as we complete them.
+I don't consider the novel <em>completed</em> yet; I'm still working on significant edits to the earlier chapters, which aren't <em>quite</em> up to my standards after everything I've learned by writing the rest. So the existing chapters may change unexpectedly. I know some of you may want to read (or reread) the story after it's no longer in flux, so I'll update this message with the current status as I make progress.
 
-I'm also working on significant edits to the earlier chapters (which aren't <em>quite</em> up to my standards after everything I've learned by writing the rest). So the existing chapters may change unexpectedly. I know some of you may want to read (or reread) the story after it's no longer in flux, so I'll update this message with the current status as I make progress.
+Also, Sarah Fensore and I are still hard at work on the illustrations! Most of them aren't complete yet, but our sketches are included in the story for now, and I'll replace them with the completed drawings as we complete them.
 
 </div>
 '''
@@ -124,10 +142,11 @@ for post in posts:
   if "don't deploy" not in post:
     completed_chapters += 1
     
-blurb = f"A pair of teenagers get caught up in a conflict between the gods. ({completed_chapters} out of {len (chapters)} chapters completed so far.)"
+short_blurb = "A pair of teenagers get caught up in a conflict between the gods."
+long_blurb = '''<p>Rinn Akatura has never really cared about the gods, any more than she cares about "obeying school rules" or "being nice to jerks". But when she – and her girlfriend Yali – are chosen to represent the gods in the Ravelling, they get caught up in a decades-old conflict they could never have imagined.</p><p>In the magical Otherworld, the Blood God enters Rinn's mind and turns her very emotions into a battlefield, leaving her torn between her love for Yali and an ancient enmity that brings them almost (but not quite) to the brink of death. Can she find a new kind of strength before the Blood God's wrath consumes her?</p>'''
 
 for post in posts:
-  post ["blurb"] = blurb
+  post ["blurb"] = short_blurb
 
 def contents_link (link, name):
   return '<div class="table_of_contents_chapter"><a class="chapter_link" href="' + link +'">' + name +'</a> [<a href="' + link +'''/discussion">author's notes</a>]</div>'''
@@ -147,7 +166,6 @@ posts [0] ["contents"] = ('''
   f"/ravelling-wrath/{post ['chapter_number']}",
   f"Chapter {post ['chapter_number']}: {post ['chapter_title']}"
   ) for post in posts [1:] if "don't deploy" not in post)+'''
-<div class="table_of_contents_remaining">To be continued…</div>
 
 Many thanks to <a href="http://www.sarahfensore.com/">Sarah Fensore</a>, who I've talked out my story plans with since the beginning, and who continues to help me edit the individual chapters.
 </div>
@@ -160,7 +178,7 @@ Many thanks to <a href="http://www.sarahfensore.com/">Sarah Fensore</a>, who I'v
   
   <div class="main_content_warnings">
 Content warnings for Ravelling Wrath as a whole:
-'''+ content_warning_header ('''<p>Ravelling Wrath is a fantasy adventure where the characters face deadly dangers. It also goes deep into their emotional struggles, including issues of abuse, sexual assault, self-harm, and depression. (Or, it will. Not all of those issues are in the chapters I've completed so far.) It also touches on heterosexism and classism.</p>
+'''+ content_warning_header ('''<p>Ravelling Wrath is a fantasy adventure where the characters face deadly dangers. It also goes deep into their emotional struggles, including issues of abuse, sexual assault, self-harm, and depression – although it focuses on empowerment and how to do better, rather than presenting distressing things in a vacuum. It also touches on heterosexism and class oppression.</p>
 
 <p>Each chapter also has a list of content warnings for that chapter specifically.</p>''')+'''
 

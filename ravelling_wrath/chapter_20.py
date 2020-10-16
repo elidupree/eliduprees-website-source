@@ -9,11 +9,6 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 20",
   "auto_paragraphs": True,
-  "don't deploy": True,
-  "authors_notes":'''
-
-
-  ''',
   "post_class": "yali-narration",
   "head":head,
   "chapter_title": "The Blood Temple",

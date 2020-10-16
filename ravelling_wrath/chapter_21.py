@@ -9,12 +9,9 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 21",
   "auto_paragraphs": True,
-  "don't deploy": True,
-  "authors_notes":'''
-
-
-  ''',
+  "blurb_image": "/media/ravelling-wrath/sketches/end.jpg?rr",
   "head":head,  "chapter_title": "Change",
+  "content_warnings": '''<p>A character with PTSD coping with feelings of guilt.</p>''',
   "contents": '''
 
 <em>Uuuuuuggggggggggghhhhhhhhhhhhhhhhh.</em>
@@ -219,7 +216,7 @@ That was nothing like how <em>I</em> thought about it, but I could tell that Yal
 
 "But the main reason you could help him was because you got your soulfire and he couldn't hurt you –"
 
-"That's exactly what I'm saying! It's both. Like, remember how you said the Blood God values <em>power</em>? The first thing you need is the power to protect yourself. It's no use knowing what <em>should</em> happen if you can't make anyone listen to you. But once you have the power, you also need to think about what kind of impact you want to make. And for Justicar that, that was… you know… because we couldn't get through to her, and we had to protect ourselves. But with Morrow, I <em>could</em> get through to him. At least a little. Gods, I hope he gets better somehow…" I trailed off, thinking about how he'd been feeling when I'd last seen him, when we were leaving the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's number, how are we gonna –"
+"That's exactly what I'm saying! It's both. Like, remember how you said the Blood God values <em>power</em>? The first thing you need is the power to protect yourself. It's no use telling people what to do if they won't listen to you. But once you have the power, you also need to think about what kind of impact you want to make. And for Justicar, that was… you know… because we couldn't get through to her, and we had to protect ourselves. But with Morrow, I <em>could</em> get through to him. At least a little. Gods, I hope he gets better somehow…" I trailed off, thinking about how he'd been feeling when I'd last seen him, when we were leaving the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's number, how are we gonna –"
 
 Yali gave a little smile. "Yeah, about that…" she said.
 
@@ -241,14 +238,14 @@ Yali gave a little smile. "Yeah, about that…" she said.
 
 It took about twenty minutes before Alchemist texted me back. When they did, I was treated to a whole flood of emoji.
 
-<p class="text left"> 🏃‍♀️!! </p>
+<p class="text left"> <img class="emoji" alt="🏃‍♀️" src="/media/ravelling-wrath/emoji/1f3c3-200d-2640-fe0f.svg?rr">!! </p>
 <p class="text left"> 🤕😨😨🧪😧🧪🧪🧪😌😌😌🌈❤️🧡💛💚💙💜🤎🖤 </p>
-<p class="text left"> 🤗👨‍👩‍👦‍👦👨‍👨‍👧‍👦👩‍👧‍👦👨‍👧‍👦🤗 </p>
+<p class="text left"> 🤗<img class="emoji" alt="👨‍👩‍👦‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f469-200d-1f466-200d-1f466.svg?rr"><img class="emoji" alt="👨‍👨‍👧‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f468-200d-1f467-200d-1f466.svg?rr"><img class="emoji" alt="👩‍👧‍👦" src="/media/ravelling-wrath/emoji/1f469-200d-1f467-200d-1f466.svg?rr"><img class="emoji" alt="👨‍👧‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f467-200d-1f466.svg?rr">🤗‍ </p>
 <p class="text left"> 💯😌😟😲😆😌😌👍 </p>
 <p class="text left"> 😟😟📱🤪😌😶😟🤪😌😌 </p>
 <p class="text left"> 🤗🤗🤗 </p>
 
-[????? fix emoji]
+<div class="clear"></div>
 
 "Oh thank gods, Morrow's okay," I said.
 
@@ -543,6 +540,8 @@ I knelt down, pressing my hand against the cold pavement.
 "This was a temple," I whispered. "A temple."
 
 And I knew that one day, I would raise up a new temple to take its place.
+
+<img class="sketch" src="/media/ravelling-wrath/sketches/end.jpg?rr" alt="">
 
 ''',
 },
