@@ -90,6 +90,14 @@ div.blog_post img.emoji {
   margin: 0;
   vertical-align: middle;
 }
+
+html.debug_mode div.blog_post p.unnecessary_page_number {
+  display: block;
+  text-align: center;
+  font-size: smaller;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 1.5em;
+}
   </style>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family="""+rinn_font.replace(" ", "+")+"|"+yali_font.replace(" ", "+")+"|"+chapter_font.replace(" ", "+")+""":800">
   """
