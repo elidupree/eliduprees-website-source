@@ -152,11 +152,11 @@ for post in posts:
       if lines >= 25 and match.group(0)[-1] == "\n":
         lines = 0
         page_number += 1
-        print(page_number)
+        #print(page_number)
         return match.group(0)+f'<p class="debug unnecessary_page_number">Page {page_number}</p>'
       return match.group(0)
     post["contents"] = re.sub("\n\n|.{60}", repl, post["contents"])
-    print("!c", completed_chapters)
+    #print("!c", completed_chapters)
     
   if "don't deploy" not in post:
     completed_chapters += 1
