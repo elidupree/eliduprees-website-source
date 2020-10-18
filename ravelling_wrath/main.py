@@ -137,8 +137,27 @@ Also, Sarah Fensore and I are still hard at work on the illustrations! Most of t
 
 
 completed_chapters = 0
+page_number = 0
+
 for post in posts:
   post["contents"] = re.sub(r"\?{4,}", lambda match: "<mark>"+match.group(0)+"</mark>", post["contents"])
+  
+  import sys
+  if "--deploy" not in sys.argv:
+    lines = 0
+    def repl(match):
+      global page_number
+      global lines
+      lines += 1
+      if lines >= 25 and match.group(0)[-1] == "\n":
+        lines = 0
+        page_number += 1
+        #print(page_number)
+        return match.group(0)+f'<p class="debug unnecessary_page_number">Page {page_number}</p>'
+      return match.group(0)
+    post["contents"] = re.sub("\n\n|.{60}", repl, post["contents"])
+    #print("!c", completed_chapters)
+    
   if "don't deploy" not in post:
     completed_chapters += 1
     
