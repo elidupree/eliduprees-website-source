@@ -319,7 +319,7 @@ Suddenly, there was an awful squawking right behind me. I jumped and whirled aro
 
 "Powerful, yes. Adaptable, perhaps not," said Justicar.
 
-"Yeah, screw you too." I turned to Morrow. "I'll prank you back somehow!"  I ran at him and started chasing him around the star. He was quick, but he kept slipping and falling on the slippery floor. <em>I</em> had already gotten used to the limits of how fast I could run, so I caught up to him easily.
+"Yeah, fuck you too." I turned to Morrow. "I'll prank you back somehow!"  I ran at him and started chasing him around the star. He was quick, but he kept slipping and falling on the slippery floor. <em>I</em> had already gotten used to the limits of how fast I could run, so I caught up to him easily.
 
 Just when I had cornered him at the edge of the star, he manifested a foam sword and pointed it at me. I made my own foam sword just like it. Then I had an idea. I turned to Yali. "So, this <em>hostile intent</em> thing… What if we fought with <em>real</em> swords? I mean, we won't <em>intend</em> to hurt each other for real, so if we make a mistake and –"
 
@@ -439,7 +439,7 @@ Ignoring Morrow's complaints, I went back to the topside and went to bed. Yali w
 
 "Can you be quieter down there?!" I yelled.
 
-"No problem! I'll be super quiet!"
+"No problem! I'll be so quiet, you won't believe it!"
 
 I dived into my bed and pulled the blankets over me. Justicar was sitting up on alert and staring at me as usual, but I couldn't even be bothered to do the "staring back at her" thing. I just wanted to sleep.
 
