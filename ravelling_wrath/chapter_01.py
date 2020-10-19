@@ -79,13 +79,15 @@ I dashed across a street and tried to parkour my way up the high embankment on t
 
 Our city was built on a hill. It was split up by five circular walls, each one surrounding the last. I lived in the fifth ring – the district just inside the outermost wall, at the foot of the hill. But my parents had gotten me into a school in the fourth ring, and even though Yali went to the same school, <em>her</em> house was in the <em>third</em> ring. So it was always an uphill run to get there. I <em>could</em> have taken a bus, but I've never liked to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing. Heh.
 
-Panting, I finally made it up to the gate. I leaned back to catch my breath, feeling the cool stones of the gate on my back, and the buzz of sorcery in my mind. When you're a little kid, they teach you how the five walls are woven with protective sorceries, and infused with the magic of the five gods who watch over us all. They always made it sound like everything was in perfect harmony, but in real life, it really wasn't. For one thing, the outer wall was in total ruins. Only four of the gods were actually worshipped, and only three of them had taxes and temples. And if anyone was "watching over me", it was those hypocrites who ran the schools, may the Stern God take them.
+Panting, I finally made it up to the gate. I leaned back to catch my breath, feeling the cool stones of the gate on my back, and the buzz of sorcery in my mind. When you're a little kid, they teach you how the five walls are woven with protective sorceries, and infused with the magic of the five gods who watch over us all. [????? Slightly jarring tense issue:] They always made it sound like everything was in perfect harmony, but in real life, it really wasn't. For one thing, the outer wall was in total ruins. Only four of the gods were actually worshipped, and only three of them had taxes and temples. And if anyone was "watching over me", it was those hypocrites who ran the schools, may the Stern God take them.
 
 From the gate, it would only be a short run to Yali's place. But my legs didn't want to do it. This was a route that I ran all the time, but it was a lot of work even on a good day, and I'd forgotten to pace myself. Why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
 
 I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "You ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
 
 She gently pulled me inside and we flopped down on a couch. While I relaxed, Yali leaned forward, looking off into the distance, as if she was thinking hard about something. She turned halfway towards me and opened her mouth, but then closed it again. Was this the important thing she was going to tell me? But she… couldn't figure out how to say it?
+
+[????? This transition could use some promise theory attention; see "now this distraction was over"; in fact, I should reanalyze the promises in the whole rest of the chapter]
 
 "Your leg!" said Yali suddenly.
 
@@ -117,9 +119,11 @@ Yali muttered while she worked. "Your pants are pretty tight. That might have he
 
 "Of course!" said Yali.
 
-We laughed together. Yali and I were so different, yet so… so…
+We laughed together. Yali and I were so different, yet so… so… [????? okay yes, it felt like something was missing]
 
 Yali went to put away the extra bandages and stuff. By the time she was back, I had finally caught my breath. Maybe now this distraction was over. I said, "So, about what you texted me…"
+
+[????? Yes the following stuff is good, but we don't need six paragraphs of it:]
 
 Yali… hesitated. I couldn't tell whether she was uncomfortable or just not sure what to say. She swallowed. Turned away. Turned back towards me. My heart seemed to be pounding harder than it was even when I was running.
 
