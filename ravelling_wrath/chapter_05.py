@@ -48,6 +48,12 @@ posts = [
 <p>Most of the other characters would also work pretty well with a different assigned gender, or even with a different actual gender. The one exception is Rinn – I feel like Rinn might be the most gender-specific character I've ever written, and I'd have to change a lot more details to be comfortable making zem anything other than cis female.</p>
 
   ''',
+
+
+
+
+
+
   "head":head,
   "chapter_title": "Boundary Crossing",
   "content_warnings":'''<p>Brief description of a sexual assault, and details of a third-party's feelings about it.</p>''',
@@ -57,23 +63,33 @@ posts = [
   [????? Opening diction isn't quite consistent with how I've developed Yali, and the fun stuff has a couple paragraphs more than necessary]
   
 
-Yali was even more happy to take a break than I'd thought.
+"– I just really, really, need a break," I finished.
 
-"I wasn't going to make us work all the way up to Ravelling Week!" she exclaimed. She was smiling, but a little exasperated. "What would we be able to look forward to if it was just 'work, work, work', and then everything trying to kill us? We deserve some time to, to, to just be girlfriends! Like, to, to…"
+[????? We were in Yali's living room, and she had been looking more and more stressed as I explained everything; maybe, I was worried about how she would answer]
 
-"To enjoy ourselves?"
+[????? "I'm sorry. I never meant to make you burn yourself out. I, I, you, we <em>do</em> need a break. If you push yourself past your limits, it'll hurt you in the long run, so it's definitely better if we make time to relax –"
 
-"Yes, that! Besides, we need a time to celebrate everything we've gotten done in the last months! You've had some big breakthroughs with understanding your feelings –" I had told her all about my weird fight with Pèi, where I'd switched my emotions back and forth "– and I'm doing great too!"
+[????? I instantly knew ????? It was the opposite of what I'd thought. Yali wasn't trying to reassure <em>me</em> –] she was trying to convince <em>herself</em>.
 
-"What have you been do–"
+"– and what if [????? we end up with a bad relationship] ????? or [????? we get to the ravelling and have nothing to look forward to and so bad things happen]? ????? –"
 
-"This!" Yali surged to her feet. She spun around in the middle of her living room and flexed her muscles. "It was hard work at first, but by the Stern, this is the best I've felt about my body in ages!"
+I put a hand on her arm. "What's wrong?" I said gently.
+
+????? "I, I, it's just, ????? It's hard to get myself to stop thinking about it. Like… when you argued with Pèi, that was actually a big breakthrough, so now, I can't stop thinking, what if you need to go further with that? But I <em>know</em> I need to let you rest –"
+
+I almost laughed. "Come on, when you think something good happened, that makes you worry <em>more</em>? Forget <em>rest</em> – we ought to be <em>celebrating!</em>"
+
+"You're not wrong…" Yali's arm was tense under my hand. "Okay. Maybe I can make this work. And I do have something I want to celebrate…"
+
+"What is –"
+
+Yali surged to her feet. She spun around in the middle of her living room and flexed her muscles. "By the Stern, this is the best I've felt about my body in ages!"
 
 I looked her up and down. "Fuck yeah," I said. "You look ready to kick ass."
 
-Yali smirked. "Fight me," she said.
+Yali got a weird look on her face. "Fight me," she said.
 
-I laughed, thinking she was joking. She gave me a weird look. "What are you laughing at?" she said.
+I laughed, thinking she was joking. [????? She gave me a weird look. "What are you laughing at?" she said. (Maybe reduce to just "but then I could tell I was wrong"]
 
 "Wait, like, you meant <em>actually</em> fight you?" I said. That couldn't possibly be right, could it?
 
