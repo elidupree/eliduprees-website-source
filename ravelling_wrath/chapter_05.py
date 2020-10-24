@@ -81,7 +81,7 @@ I almost laughed. "Come on, when you think something good happened, that makes y
 
 "You're not wrong…" Yali's arm was tense under my hand. "Okay. Maybe I can make this work. And I do have something I want to celebrate…"
 
-"What is –"
+[????? I really wanted this to work, Yali needed this] "What is –"
 
 Yali surged to her feet. She spun around in the middle of her living room and flexed her muscles. "By the Stern, this is the best I've felt about my body in ages!"
 
@@ -95,21 +95,25 @@ I laughed, thinking she was joking. [????? She gave me a weird look. "What are y
 
 "Why not?"
 
-"Ooo-kay," I got up and stepped forwards, "but I'm warning you, I – woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard and I didn't catch my balance until I stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
+"Ooo-kay," I got up and stepped forwards, "but I'm warning you, I – woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard, and I almost stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
 
-"When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this… <em>physical.</em> We'd hug and kiss and stuff, but that was gentle, it just wasn't the same. But now… A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
+"When am I not serious?" Yali grinned fiercely. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this… <em>physical.</em> A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
 
-I jumped forward to meet her. We collided and grappled our way across the room, bumping into furniture as we went. She was good at it, too, I couldn't get the advantage of her easily. I stepped back and then lunged at her, trying to get her off balance, but she was as solid as a rock. Not expecting that, I made one wrong step and lost my footing. Then it was her turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
+I jumped forward to meet her. We collided and grappled our way across the room, bumping into furniture as we went. She was good at it, too, I couldn't knock her off balance. I stepped back and lunged at her, but she was as solid as a rock. Then I made one wrong step and lost my footing, and it was <em>her</em> turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
 
-I gasped for breath. Yali was leaning into me, pinning me against the wall with her full weight. Her body rubbed against mine as I tried to squirm away, making my skin explode with feeling. Oh gods, this was turning me on! I heaved my body left and right, trying to get free, but all I managed to do was squish into her at different angles. She was squashing the air out of my lungs, too, I couldn't even breathe all the way.
+I gasped for breath. Yali was leaning into me, pinning me against the wall with her full weight. When I tried to squirm away, it just made me rub against her even harder. Oh gods, this was turning me on! I heaved left and right, trying to get free, but I was totally engulfed by her huge, warm, <em>powerful</em> body. I couldn't even breathe all the way in.
 
 "No fair," I gasped.
 
-My heart was pounding like a jackhammer. I was sandwiched, my back against the wall, my front engulfed by Yali's huge, warm, <em>powerful</em> body. She kept grinding up on me, shifting to a different angles to keep me pinned. In between movements, she managed to grunt a response. "Unfair, what, because I'm a heavyweight and you're a, a –"
+In between our heart-pounding movements, she managed to grunt a response. "Unfair, what, because I'm a heavyweight and you're a, a –"
 
 "No no no I didn't mean –"
 
-"Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it." We both paused for a bit to catch our breath. It was weird, but somehow, she was the most relaxed I'd ever seen her. "Say, how much do you weigh?"
+"Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it."
+
+Yali pushed herself back, letting me catch my breath. She looked at me with her head tilted, a little smile on her face. I'd never seen her this relaxed. It was working! She was starting to let go of her tension! I couldn't help wanting more. More. Gods, I couldn't handle how much I loved her.
+
+"Say, how much do you weigh?" she said.
 
 "Er – I think I was 45 kilos last time I was at the doctor –"
 
@@ -121,9 +125,7 @@ Yali barked out with laughter. "Ha ha, you'll never beat me! I lift twice your w
 
 "Aaaaaah ha ha ha ha ha –"
 
-Yali practically <em>threw</em> me onto the couch. Then she thumped down beside me and cuddled up to me. She leaned in and started planting kisses all over my face. I kissed back eagerly, shoving my lips onto her face as hard as I could get away with. Gods, I couldn't handle how much I loved her. I'd almost thought I would never get a chance like this.
-
-We pulled back to catch our breaths, but definitely not to stop. Even from hearing her <em>breathe</em>, I could tell how excited she was. She was panting like a normal person, not doing some sort of regulated breathing like she did at the gym. We were both so full of energy.
+Yali practically <em>threw</em> me onto the couch, then thumped down beside me herself. We were so close. I could feel her heartbeat, her breathing.
 
 "Soo-ooo…" I said slyly, "the two young lovebirds are about to go on a terrible journey… Who knows when they'll get another chance to be together like this…"
 
@@ -165,7 +167,7 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Woah, I can't believe we forgot about that! I never even told you about how I broke my leg!"
 
-"Ooh, tell me!" It was weird how quickly Yali started acting excited again. After hearing what I'd just heard, there was no <em>way</em> I could put it out of my mind. But I <em>did</em> really want to tell her my stories. Maybe it would be enough to distract me.
+"Ooh, tell me!" It was weird how quickly Yali started acting excited again. After hearing what I'd just heard, there was no <em>way</em> I could put it out of my mind. [????? Revise this to reflect the new sense of what Rinn's goal is, like "I latched on to doing what Yali said, because I was desperate not to screw up Yali getting to relax"] But I <em>did</em> really want to tell her my stories. Maybe it would be enough to distract me.
 
 "So, you know the big tree near the elementary school? Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
 
