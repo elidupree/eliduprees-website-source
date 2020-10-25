@@ -173,7 +173,7 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Oh, the one with the fence around it?"
 
-I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. The fact that I was <em>grinning</em> while telling the story was a little forced, but that <em>was</em> how I would've felt about it any other time.
+I tried to act like I normally would, grinning while I told the story. "I'm the reason that fence is there," I said. Yali's eyes widened a little. I got a kick out of impressing her, even now.
 
 I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like [????? 'easy peasy'] and I did it. And the next time, they said to climb out on the big branch, so I did that too. And so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance [????? a jig] on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
 
@@ -219,7 +219,7 @@ On my way home, I realized I haven't even remembered to get back to telling her 
 
 <bigbreak>
 
-It wasn't until I was at home in my room, getting ready for bed, that it came back into my mind.
+[????? More like "but when I was at home, it came back into my mind"] It wasn't until I was at home in my room, getting ready for bed, that it came back into my mind.
 
 <em>It was a long time ago. It wasn't anyone you know.</em>
 
