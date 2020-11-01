@@ -65,33 +65,31 @@ posts = [
 
 "– I just really, really, need a break," I finished.
 
-[????? We were in Yali's living room, and she had been looking more and more stressed as I explained everything; maybe, I was worried about how she would answer]
+My chest was tight. We were sitting together in Yali's living room, and Yali had been listening quietly, but the more things I explained, the more stressed she looked. What was she going to say? Was she going to tell me we had to keep working hard at the game is?
 
-[????? "I'm sorry. I never meant to make you burn yourself out. I, I, you, we <em>do</em> need a break. If you push yourself past your limits, it'll hurt you in the long run, so it's definitely better if we make time to relax –"
+But when Yali spoke, it was the opposite of what I was afraid of. "Rinn… I'm sorry," she said tensely. "I never meant to make you burn yourself out! I <em>know</em> that's not good for our relationship, I <em>know</em> I, you, we <em>need</em> to be able to take breaks sometimes –"
 
-[????? I instantly knew ????? It was the opposite of what I'd thought. Yali wasn't trying to reassure <em>me</em> –] she was trying to convince <em>herself</em>.
+<em>I know <strong>I</strong> need to take breaks,</em> was what she'd almost said. Suddenly, my chest was tight with a <em>different</em> emotion – concern for Yali. She wasn't trying to reassure <em>me</em> that we'd have a chance to relax. She was trying to convince <em>herself</em> that it was okay.
 
-"– and what if [????? we end up with a bad relationship] ????? or [????? we get to the ravelling and have nothing to look forward to and so bad things happen]? ????? –"
+"– because, if we don't, what if we're too obsessed with the work and we lose the things that are good about our relationship, or, or, what if we get to the Ravelling and we don't have anything to look forward to and –"
 
-I put a hand on her arm. "What's wrong?" I said gently.
+I put a hand on her arm. "What's wrong?" I said.
 
-????? "I, I, it's just, ????? It's hard to get myself to stop thinking about it. Like… when you argued with Pèi, that was actually a big breakthrough, so now, I can't stop thinking, what if you need to go further with that? But I <em>know</em> I need to let you rest –"
+"Of course <em>you</em> can tell something's wrong…" she muttered, almost resentfully. She breathed slowly in and out. "I, I, it's just, I can't make myself stop thinking about it. You're on the edge of making progress – like, when you argued with Pèi, that was actually a big breakthrough – so now, I can't stop thinking, what if you need to go further with that? But I <em>know</em> I need to let you rest –"
 
-I almost laughed. "Come on, when you think something good happened, that makes you worry <em>more</em>? Forget <em>rest</em> – we ought to be <em>celebrating!</em>"
+In my nervousness, I almost laughed. "Come on, when you think something good happened, that makes you worry <em>more</em>? Forget <em>rest</em> – we ought to be <em>celebrating!</em>"
 
-"You're not wrong…" Yali's arm was tense under my hand. "Okay. Maybe I can make this work. And I do have something I want to celebrate…"
+"You're not wrong…" Yali's arm was tense under my hand. "Okay. Okay. If you want to celebrate… Maybe I can make this work. And I do have something I want to celebrate with you…"
 
-[????? I really wanted this to work, Yali needed this] "What is –"
+At her words, my heart leapt. Was Yali actually going to get to enjoy something? She <em>needed</em> this. I <em>had</em> to make sure it would work. "What is it –" I began.
 
-Yali surged to her feet. She spun around in the middle of her living room and flexed her muscles. "By the Stern, this is the best I've felt about my body in ages!"
+"<em>This.</em>" Yali surged to her feet. In the middle of her living room, she slowly spun around, flexing her muscles, letting me see from every side. "By the Stern," she said, "this is the best I've felt about my body in my life."
 
 I looked her up and down. "Fuck yeah," I said. "You look ready to kick ass."
 
 Yali got a weird look on her face. "Fight me," she said.
 
-I laughed, thinking she was joking. [????? She gave me a weird look. "What are you laughing at?" she said. (Maybe reduce to just "but then I could tell I was wrong"]
-
-"Wait, like, you meant <em>actually</em> fight you?" I said. That couldn't possibly be right, could it?
+I laughed, thinking she was joking. But the next moment, I wasn't so sure. "Wait, you mean, like, <em>actually</em> fight you?" I said. That couldn't possibly be right, could it?
 
 "Why not?"
 
@@ -113,7 +111,7 @@ In between our heart-pounding movements, she managed to grunt a response. "Unfai
 
 Yali pushed herself back, letting me catch my breath. She looked at me with her head tilted, a little smile on her face. I'd never seen her this relaxed. It was working! She was starting to let go of her tension! I couldn't help wanting more. More. Gods, I couldn't handle how much I loved her.
 
-"Say, how much do you weigh?" she said.
+"Say, how much do you weigh?" she said suddenly.
 
 "Er – I think I was 45 kilos last time I was at the doctor –"
 
