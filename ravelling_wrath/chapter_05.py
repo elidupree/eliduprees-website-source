@@ -165,13 +165,13 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Woah, I can't believe we forgot about that! I never even told you about how I broke my leg!"
 
-"Ooh, tell me!" It was weird how quickly Yali started acting excited again. After hearing what I'd just heard, there was no <em>way</em> I could put it out of my mind. [????? Revise this to reflect the new sense of what Rinn's goal is, like "I latched on to doing what Yali said, because I was desperate not to screw up Yali getting to relax"] But I <em>did</em> really want to tell her my stories. Maybe it would be enough to distract me.
+"Ooh, tell me!"
 
-"So, you know the big tree near the elementary school? Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
+It was weird how quickly Yali started acting interested again, like nothing had happened. I didn't know how to relate to it. But if there was somehow, <em>somehow</em>, still a way that Yali would get to enjoy herself, I didn't dare screw it up. I did my best to follow her lead. "So, uh, you know the big tree near the elementary school?" I began. "Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
 
-"Oh, the one with the fence around it?"
+"The one with the fence around it?"
 
-I tried to act like I normally would, grinning while I told the story. "I'm the reason that fence is there," I said. Yali's eyes widened a little. I got a kick out of impressing her, even now.
+"I'm the reason that fence is there," I said. Yali's eyes widened a little. I got a kick out of impressing her, even now.
 
 I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like [????? 'easy peasy'] and I did it. And the next time, they said to climb out on the big branch, so I did that too. And so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance [????? a jig] on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
 
