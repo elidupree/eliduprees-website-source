@@ -197,7 +197,7 @@ I pulled up the leg of my pants. "Here," I said, "let me show you my scar from t
 
 "You got bitten by a <em>squirrel</em>?"
 
-"Oh yeah, don't mess with squirrels, they're nasty little buggers. So what happened was, I was a little kid, and my dad saw how much I liked running around outside, so he got me a butterfly net. But there were hardly any butterflies around and whenever I did spot one, it just flew away, they were annoying to catch. So instead I caught a squirrel."
+"Oh yeah, don't mess with squirrels, they'll fuck you up. So what happened was, I was a little kid, and my dad saw how much I liked running around outside, so he got me a butterfly net. But there were hardly any butterflies around and whenever I did spot one, it just flew away, they were annoying to catch. So instead I caught a squirrel."
 
 "You caught a squirrel in a butterfly net?"
 
