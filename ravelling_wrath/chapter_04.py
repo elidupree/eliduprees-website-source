@@ -380,7 +380,25 @@ Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. I
 
 "Yeah, thanks, you're the best."
 
-[????? Extremely cut down the rest of the chapter]
+<bigbreak>
+
+????? I told Layo about everything
+
+
+
+
+
+
+"Fuck. Fuck. I'm going to have to tell her I couldn't handle it," I moaned.
+
+"It's okay, it's okay," murmured Layo.
+
+????? But as we parted ways, I was still dreading having to actually tell her.
+
+
+
+
+[????? cut the rest of this – it's been replaced by the above]
 
 And then I took off again. My lungs were killing me, but I'd never let that stop me before, and I wasn't about to start now. Pretty soon I flung open the art room door to find Layo and a few other kids hard at work.
 
