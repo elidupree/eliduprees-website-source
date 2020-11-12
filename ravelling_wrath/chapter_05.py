@@ -289,7 +289,7 @@ I rose with the dawn. The sun glowed like in my dream, filling my blood with ene
 
 Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
 
-I had planned to leave in the morning as if I was going to school like normal, without letting Mom and Dad know there was anything [????? out of the ordinary]. I almost did it, too. But as I was stepping out the front door, I felt like I was crossing a point of no return. I hesitated and turned around.
+I had planned to leave in the morning as if I was going to school like normal, so Mom and Dad wouldn't see the shift in the Waiting. I almost did it, too. But as I was stepping out the front door, I felt like I was crossing a point of no return. I hesitated and turned around.
 
 "Hey Mom. Hey Dad. I love you so, so much."
 
@@ -386,7 +386,7 @@ I paused under the gate to run my fingers through the grooves in the carvings. T
 
 Yali stood ahead of me impatiently. I hurried to catch up.
 
-On the other side of the gate, the city looked way different. [????? It was like night and day.] The roads around here weren't even paved normally, they were all cobblestones instead. And all the buildings were kind of… shorter than usual. Not just fewer multi-story buildings, but lower roofs and shorter doors as well. Wouldn't be a problem for me or even Yali, but someone as tall as Dehel would be hitting their head all the time.
+On the other side of the gate, the city looked totally different, as if the Stern itself had divided the rings from each other. The roads around here weren't even paved normally, they were all cobblestones instead. And all the buildings were kind of… shorter than usual. Not just fewer multi-story buildings, but lower roofs and shorter doors as well. Wouldn't be a problem for me or even Yali, but someone as tall as Dehel would be hitting their head all the time.
 
 And a lot of the buildings had stone walls with carvings like the ones on the gate. I'd have expected that kind of thing from a temple, but even regular shops and stuff had them.
 

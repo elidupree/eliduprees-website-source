@@ -214,7 +214,7 @@ Layo got a mischievous look on his face. "We-ell…" he said, pretending like he
 
 "I know perfectly well it wasn't. Rinn –"
 
-"Leave her alone, [????? lunch fascist]!" said another voice. Some of my other friends were showing up. Dehel, the one who'd yelled, always made a splash – he towered over everyone and wore asymmetric makeup on purpose, you couldn't miss him. After him, Pèi was hurrying to keep up, with her spiky collar and duct-taped jeans, looking like she was gearing up to say something sarcastic. And behind <em>her</em> –
+"Leave her alone, [????? O great stern overlords]!" said another voice. Some of my other friends were showing up. Dehel, the one who'd yelled, always made a splash – he towered over everyone and wore asymmetric makeup on purpose, you couldn't miss him. After him, Pèi was hurrying to keep up, with her spiky collar and duct-taped jeans, looking like she was gearing up to say something sarcastic. And behind <em>her</em> –
 
 "Everyone calm down," I said, laughing. I wasn't <em>against</em> yelling at a few authority figures, but I had better things to do right now. "I promise I'll clean it up, okay?"
 

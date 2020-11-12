@@ -127,7 +127,7 @@ Getting stiff, I shifted in my chair. Justicar moved her own chair slightly, to 
 
 "What, when I say 'Stern take it'?"
 
-"You do not seem to revere the Stern."
+"If you do not revere the Stern, there is little purpose in using its title."
 
 "It's just something people say! Not everything is about the gods and their <em>principles</em> all the time!"
 
