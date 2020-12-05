@@ -389,7 +389,7 @@ Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. I
 
 
 
-"Fuck. Fuck. I'm going to have to tell her I couldn't handle it," I moaned.
+"Oh fuck, oh fuck," I moaned as we [????? moved to go our separate ways]. "I'm going to have to tell her I couldn't handle it."
 
 "It's okay, it's okay," murmured Layo.
 
