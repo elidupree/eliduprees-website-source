@@ -134,7 +134,7 @@ I tried. "I told you, it doesn't work that way, it's not happening <em>right now
 
 "It's okay, keep going! Let the anger fill you, lash out however you feel like –"
 
-I sat down in the chair. "Ugh, fuck, you asshole…" Even though she wasn't officially forcing me this time, all those closed-in feelings came rushing back when I looked at the table that way again. Then, to make things worse, Yali pushed the wooden blocks in front of me. "Those FUCKING blocks!" I exploded. I grabbed one of them and pounded it on the table "I can't BELIEVE you made me do this all day, you asshole, you complete, complete slimeball! You –" I swung the block up in the air, then hesitated.
+I sat down in the chair. "Ugh, fuck, you asshole…" Even though she wasn't officially forcing me this time, all those closed-in feelings came rushing back when I looked at the table that way again. Then, to make things worse, Yali pushed the wooden blocks in front of me. "Those FUCKING blocks!" I exploded. I grabbed one of them and pounded it on the table, yelling every insult that came into my head. "I can't BELIEVE you made me do this all day, you asshole! You Stern-blasted gatejammer! Shut-eye! Go drown in the Earth!" I swung the block up in the air, then hesitated.
 
 "You can throw it at me if you want." Yali raised her arms to cover her face. "I'm ready."
 
