@@ -447,6 +447,7 @@ manual_redirects = {
   "undyne": "/some-thoughts-about-undyne-the-character-from-the-game-undertale",
   "lich": "/some-thoughts-about-liches",
   "liches": "/some-thoughts-about-liches",
+  "fog": "https://www.shapeways.com/product/N3FW9EAS2/over-mask-fog-stopper",
   
   "stories/ravelling-wrath-chapter-1": "/ravelling-wrath",
   "stories/ravelling-wrath-chapter-1/discussion": "/ravelling-wrath/discussion",
