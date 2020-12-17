@@ -78,7 +78,7 @@ Yali kept taking care of me for the rest of the day, while my body slowly starte
 
 "And it <em>itches</em>," I complained. "It actually itches <em>inside</em> my arm, this is such bullshit –"
 
-Yali look something up on her phone. "It looks like that's a common symptom when people are getting better from magical healing… Yeah, it's nothing to worry about, it should be all better in four to eighteen hours –"
+Yali looked something up on her phone. "It looks like that's a common symptom when people are getting better from magical healing… Yeah, it's nothing to worry about, it should be all better in four to eighteen hours –"
 
 "Haha, hope you're ready for another eighteen hours of Rinn!" I smacked the table for emphasis.
 
