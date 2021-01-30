@@ -216,7 +216,7 @@ That was nothing like how <em>I</em> thought about it, but I could tell that Yal
 
 "But the main reason you could help him was because you got your soulfire and he couldn't hurt you –"
 
-[????? instead of the next paragraph, something like: The blood god knows both of them are important. If the other person is putting you in danger, you have to fight, you have to do whatever you can to protect yourself. But when you're not in danger anymore, then ]
+[????? instead of the next paragraph, something like: The blood god knows both of them are important. If the other person is putting you in danger, you have to fight, you have to do whatever you can to protect yourself. But when you're not in danger anymore, then ... or: Sometimes other people have power over you, and you have to fight as hard as you can. But sometimes, eventually, *you* have the power. and then it's your turn to decide what kind of world you want to build]
 
 "That's exactly what I'm saying! It's both. Like, remember how you said the Blood God values <em>power</em>? The first thing you need is the power to protect yourself. It's no use telling people what to do if they won't listen to you. But once you have the power, you also need to think about what kind of impact you want to make. And for Justicar, that was… you know… because we couldn't get through to her, and we had to protect ourselves. But with Morrow, I <em>could</em> get through to him. At least a little. Gods, I hope he gets better somehow…" I trailed off, thinking about how he'd been feeling when I'd last seen him, when we were leaving the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's number, how are we gonna –"
 
