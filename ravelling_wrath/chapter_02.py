@@ -219,11 +219,11 @@ Yali finished her first fruit and set down the other one. Then she wiped her mou
 
 "Woah!"
 
-"I don't mean I want to do that, I mean… I want you to think about what your boundaries are. 'Anything' [????? is scary]. It's so easy to accidentally hurt somebody."
+"I don't mean I want to do that, I mean, I mean… you need to think about what your boundaries are. Everyone has limits. If you say 'anything', that doesn't mean you don't have limits, it means you're not telling me what your limits are. And then I have to guess. And then I might guess wrong and hurt you."
 
-"When have <em>you</em> ever hurt somebody?"
+"When have <em>you</em> ever hurt somebody?" I laughed.
 
-"[?????too poised: You'd be surprised.] Just think about it."
+"Rinn," she said, and I could tell it was serious. "Just think about it."
 
 "Fine, I get it, I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
 
