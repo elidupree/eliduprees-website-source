@@ -85,23 +85,23 @@ Yali gave me a Look.
 
 "It can't be that hard if we're doing it on purpose. You could yell at me, pester me… you could even hit me if that's what it takes, I wouldn't mind."
 
-[????? doesn't quite feel Yali:] "<em>Hit</em> you? Even if that would work… I don't want to hurt you."
+"<em>Hit</em> you? I don't want to risk hurting <em>you!</em>" she said tensely.
 
 "I'm the one who's suggesting it. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
 
-"Well, no, but –" Yali laughed suddenly. "I suppose if I'm asking <em>you</em> to be willing to hurt <em>me</em> for the sake of the plan, it's only fair if <em>I'm</em> willing to hurt <em>you</em> for the sake of the plan."
+[????? "That's different –" Yali stopped herself. "No, you're right – if you're asking me to – and if it's for the sake of the plan – I need to be willing to consider it. ????? Having us role-play hurting each other ?????"
 
-"Heh, that <em>is</em> kind of funn— Wait a minute, when were you going to ask me to <em>actually</em> hurt you?! I thought the point was to <em>not</em> hurt you!"
+"'Each other'?? I'm not going to hurt <em>you!</em>"
 
-"Oh. I, I guess I hadn't gotten to that part yet." Yali put her finger on the paper again. "What we've talked about so far are just the defenses on <em>this</em> side of the wall. But we can also think about defenses on the <em>other</em> side. I mean, in case you do get angry enough to hurt me even though you love me. Even if that happens, we can still avoid the worst case, if you hurt me in a way that doesn't <em>kill</em> me. So –"
+"Rinn…" she said gravely, "I might have to ask you to, as well." She put her finger on the paper again. "We need to have every form of defenses that we can. And so far, we've only talked about the defenses on <em>this</em> side of the wall. But we can also think about defenses on the <em>other</em> side. I mean, in case you do get angry enough to hurt me even though you love me. Even if that happens, we can still avoid the worst case, if you hurt me in a way that doesn't <em>kill</em> me. So –"
 
 "No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free!"
 
 "Maybe… But if we don't break them down here, then when they break down in the Otherworld, you'll be totally unprepar—"
 
-"And how are you even just talking about this? You're so calm, even though you're talking about having me hurt you… [?????This is some really grim shit.]"
+"And how are you even just talking about this? You're so calm, even though you're talking about having me hurt you –"
 
-[????? is this a Yali wording? the 'literally' feels more Rinn, but maybe it's okay] "You were literally just talking about having me hurt you as if <em>that</em> was nothing."
+"But you literally just said – about yourself –"
 
 "That really is no big deal for me. Seriously, I'm not being hypocritical here – we don't have the same, you know –"
 
@@ -111,7 +111,9 @@ Yali gave me a Look.
 
 Yali looked down, and for a moment I was worried I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."
 
-That was true. It was still early September, about a month after Yali first asked me out. And everyone knew the Ravelling started around the first of November. So we had a couple of months to go.
+[????? The way she said it, she clearly wasn't giving up on the idea. Was I really going to have to hurt her? I felt [ominous] about that. ????? Timing information, replacing: That was true. It was still early September, about a month after Yali first asked me out. And everyone knew the Ravelling started around the first of November. So we had a couple of months to go.]
+
+<bigbreak>
 
 "Speaking of time…" Yali said, glancing at the clock.
 
@@ -219,7 +221,7 @@ Yali finished her first fruit and set down the other one. Then she wiped her mou
 
 "Woah!"
 
-"I don't mean I want to do that, I mean, I mean… you need to think about what your boundaries are. Everyone has limits. If you say 'anything', that doesn't mean you don't have limits, it means you're not telling me what your limits are. And then I have to guess. And then I might guess wrong and hurt you."
+"I don't mean I want to do that, I mean, I mean… you need to think about what your boundaries are. Everyone has limits. If you say 'anything', that doesn't mean you don't have limits, it means you're not telling me what they <em>are</em>. And then I have to guess. And then I might guess wrong and hurt you."
 
 "When have <em>you</em> ever hurt somebody?" I laughed.
 
