@@ -89,11 +89,11 @@ Yali gave me a Look.
 
 "I'm the one who's suggesting it. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
 
-[????? "That's different –" Yali stopped herself. "No, you're right – if you're asking me to – and if it's for the sake of the plan – I need to be willing to consider it. ????? Having us role-play hurting each other ?????"
+"That's different –" Yali stopped and began muttering to herself, like she was trying to convince herself of something. "No – no – it's not the same thing I'm worried about – you <em>are</em> asking me to – and we <em>do</em> need to prepare for what's coming – so if we need to act out hurting each other, as roleplaying –"
 
 "'Each other'?? I'm not going to hurt <em>you!</em>"
 
-"Rinn…" she said gravely, "I might have to ask you to, as well." She put her finger on the paper again. "We need to have every form of defenses that we can. And so far, we've only talked about the defenses on <em>this</em> side of the wall. But we can also think about defenses on the <em>other</em> side. I mean, in case you do get angry enough to hurt me even though you love me. Even if that happens, we can still avoid the worst case, if you hurt me in a way that doesn't <em>kill</em> me. So –"
+"Even if it's needed for the plan?" she said gravely. She put her finger on the paper again. "We need to have every form of defenses that we can. And so far, we've only talked about the defenses on <em>this</em> side of the wall. But we can also think about defenses on the <em>other</em> side. I mean, in case you do get angry enough to hurt me even though you love me. Even if that happens, we can still avoid the worst case, if you hurt me in a way that doesn't <em>kill</em> me. So –"
 
 "No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free!"
 
@@ -105,11 +105,11 @@ Yali gave me a Look.
 
 "That really is no big deal for me. Seriously, I'm not being hypocritical here – we don't have the same, you know –"
 
-"I get what you mean. But even so, it's to make sure we stay alive. In the long run, if I have to go through some pain, it doesn't really matter."
+"Stop," said Yali. "I get what you mean. But even so, it's to make sure we stay alive. In the long run, if I have to go through some pain, it doesn't really matter."
 
 "What you mean, it doesn't matter? Of course it matters! If you're in pain, that matters!"
 
-Yali looked down, and for a moment I was worried I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."
+Yali looked down, and for a moment I was afraid I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. [????? "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."]
 
 [????? The way she said it, she clearly wasn't giving up on the idea. Was I really going to have to hurt her? I felt [ominous] about that. ????? Timing information, replacing: That was true. It was still early September, about a month after Yali first asked me out. And everyone knew the Ravelling started around the first of November. So we had a couple of months to go.]
 
