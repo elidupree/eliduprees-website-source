@@ -109,9 +109,9 @@ Yali gave me a Look.
 
 "What you mean, it doesn't matter? Of course it matters! If you're in pain, that matters!"
 
-Yali looked down, and for a moment I was afraid I had hurt her feelings somehow. But then she smiled ruefully. "I should have known you'd feel that way," she said. [????? "Well, we don't <em>have</em> to do it. Certainly not right away. There's plenty of time before the Ravelling begins proper."]
+Yali went quiet, but even though she wasn't arguing back, I could tell it wasn't over. "I should have known you'd feel that way," she said, and I could tell she was only saying it to be accommodating. "And it's not something we need to do right away. We should start with the simpler things, and there are still two months before the Ravelling begins…"
 
-[????? The way she said it, she clearly wasn't giving up on the idea. Was I really going to have to hurt her? I felt [ominous] about that. ????? Timing information, replacing: That was true. It was still early September, about a month after Yali first asked me out. And everyone knew the Ravelling started around the first of November. So we had a couple of months to go.]
+That was true – everyone knew the Ravelling started around the first of November. But the way she said it… it was like she <em>expected</em> me to [?????come around and agree we'd need to do it]. Was I really going to have to hurt her? How much was she going to [?????sacrifice of herself for the sake of the plan?] I couldn't shake a sense of unease, knowing what might be ahead of us.
 
 <bigbreak>
 
