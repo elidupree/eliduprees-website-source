@@ -175,7 +175,7 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "That's, like, way too much pressure to put on yourself," I said.
 
-"Right, if I was the only one you could talk to, then [????? Yali shouldn't describe possibly feeling bad this easily:] I'd feel like I had to do everything –"
+"Right, I'd have to be responsible for every part of –"
 
 "No, I meant the other way around! I mean your – you said you had a 'personal thing'? I wish I knew what it was here, but I can respect that, but like, what are you going to do – <em>not</em> have a personal thing? You're allowed to have some personal things! And every time you have a personal thing, are you going to be worrying about whether it strains our relationship? Seriously, it's okay, I'm literally telling you it's okay. Look, what do I have to do to convince you it's okay?"
 
