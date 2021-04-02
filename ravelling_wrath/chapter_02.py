@@ -111,7 +111,7 @@ Yali gave me a Look.
 
 Yali went quiet, but even though she wasn't arguing back, I could tell it wasn't over. "I should have known you'd feel that way," she said, and I could tell she was only saying it to be accommodating. "And it's not something we need to do right away. We should start with the simpler things, and there are still two months before the Ravelling begins…"
 
-That was true – everyone knew the Ravelling started around the first of November. But the way she said it… it was like she <em>expected</em> me to [?????come around and agree we'd need to do it]. Was I really going to have to hurt her? How much was she going to [?????sacrifice of herself for the sake of the plan?] I couldn't shake a sense of unease, knowing what might be ahead of us.
+That was true – everyone knew the Ravelling started near the start of November. But the way she said it… it was like she <em>expected</em> that I'd have to agree with her, once I'd thought about it. Was I really going to have to hurt her? How many things was she planning to force herself through, for the sake of the plan? I couldn't shake a sense of unease, knowing what might be ahead of us.
 
 <bigbreak>
 
@@ -145,15 +145,15 @@ Yali looked at me curiously. "Do you <em>actually</em> know any secret Blood wor
 
 "I…" Yali trailed off.
 
-"I'm not saying they're going to… whatever. I'm just saying, how would they even react to this? They already don't know <em>anything</em> about my life right now. I'm not sure they even know I'm gay!"
+"I'm just saying, how would they even react to this? They already don't know <em>anything</em> about my life right now. I'm not sure they even know I'm gay!"
 
 Yali startled. "How can they <em>not know</em>? You're – You even introduced me as your girlfriend!"
 
 "I <em>did</em>," I said morosely. "But now they're always talking about 'your friend Yali' and 'Yali from school'… Ugh, I don't even know why I'm complaining about this. With the, you know, literal life-and-death stuff going on."
 
-Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be</em> part of the literal life-and-death stuff. But…" She trailed off again. It looked like she had something on her mind.
+Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be</em> part of the literal life-and-death stuff. But…" She trailed off again.
 
-"What's the matter?" I said.
+I started to catch on that she was worried about something. "What's the matter?" I said.
 
 "I don't want to ask you for this," she said uneasily. "It's the kind of thing an abuser would do."
 
@@ -169,7 +169,7 @@ Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be<
 
 "I'm not ready to talk about it. It's just, it's just… Never mind. The point is, if we tell anyone… it could find its way back to them. But… I can't ask you not to tell anyone. That would be…"
 
-"Look, if it has to be a secret, that's not a big deal for me. I'm not sure who I would tell anyway. And you're definitely not an abuser, you're like the total opposite –"
+"Look, it's okay. If it's gotta be a secret, it's gotta be a secret. And you're definitely not an abuser, you're like the total opposite –"
 
 Yali didn't seem very reassured. "It's important for you to be able to talk to someone about it. I have the memories of the old Farseers to look to, but you'd only have me. What if I can't give you all the support you need? What if it strains our relationship and then –"
 
