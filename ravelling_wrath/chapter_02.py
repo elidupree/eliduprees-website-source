@@ -153,9 +153,11 @@ Yali startled. "How can they <em>not know</em>? You're – You even introduced m
 
 Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be</em> part of the literal life-and-death stuff. But…" She trailed off again.
 
-I started to catch on that she was worried about something. "What's the matter?" I said.
+And then I started to catch on. Yali was wasn't just <em>distracted</em>. She was staring into the distance, weighed down with something much heavier. [????? I wished I could be closer to her/be trusted with her worries]
 
-"I don't want to ask you for this," she said uneasily. "It's the kind of thing an abuser would do."
+"What's the matter?" I said.
+
+Yali hesitated. "I don't want to ask you for this," she said uneasily. "It's the kind of thing an abuser would do."
 
 "What!? What are you thinking of asking for?"
 
@@ -165,29 +167,30 @@ I started to catch on that she was worried about something. "What's the matter?"
 
 "There are people who, who, who can't be allowed to know that I'm the Farseer. I don't mean because of the magic, it's a, a, a personal thing."
 
-"What kind of –"
+[????? Ooh, a hint about deeply personal Yali stuff!! I was eager to know more] "What kind of –"
 
-"I'm not ready to talk about it. It's just, it's just… Never mind. The point is, if we tell anyone… it could find its way back to them. But… I can't ask you not to tell anyone. That would be…"
+[????? But unfortunately, Yali shut me down "I'm not ready to talk about it. It's just, it's just… Never mind.] The point is, if we tell anyone… it could find its way back to them. But… I can't ask you not to tell anyone. That would be…"
 
-"Look, it's okay. If it's gotta be a secret, it's gotta be a secret. And you're definitely not an abuser, you're like the total opposite –"
+[????? Oh no, I couldn't let Yali feel bad about stuff!] "Look, it's okay. If it's gotta be a secret, it's gotta be a secret. And you're definitely not an abuser, you're like the total opposite –"
 
 Yali didn't seem very reassured. "It's important for you to be able to talk to someone about it. I have the memories of the old Farseers to look to, but you'd only have me. What if I can't give you all the support you need? What if it strains our relationship and then –"
 
-"That's, like, way too much pressure to put on yourself," I said.
+"That's, like, way too much pressure to put on yourself," I said hastily.
 
-"Right, I'd have to be responsible for every part of –"
+"Right, I'd have to be responsible for every –"
 
 "No, I meant the other way around! I mean your – you said you had a 'personal thing'? I wish I knew what it was here, but I can respect that, but like, what are you going to do – <em>not</em> have a personal thing? You're allowed to have some personal things! And every time you have a personal thing, are you going to be worrying about whether it strains our relationship? Seriously, it's okay, I'm literally telling you it's okay. Look, what do I have to do to convince you it's okay?"
 
-"Hmm." Yali thought about it for a minute. "I believe you, but it still doesn't feel right. Maybe I can use my Seeing…"
+[????? Yali thought about it gravely, and I worried about her she was feeling]
 
-[????? I feel like I can make this transition do promise theory better:]
+At last, she spoke. "I will use the Seeing," she said.
 
-"Your what? Oh, is that the magic power?"
+<bigbreak>
 
-"Yes."
+[????? The Seeing was Yali's magic power.]
 
-"What does that have to do with – wait, actually, how <em>does</em> that work? Can you literally see the future?"
+
+[?????  "wait, actually, how <em>does</em> that work? Can you literally see the future?"]
 
 "Not exactly. It's more like fragments of possible futures. The way it works is, I think of something I'm planning to do, and it shows me what will happen if I go through with it. So I can think of someone for you to tell about this, and then see if telling them what lead to, to, to anything bad."
 
