@@ -242,11 +242,11 @@ She swallowed another bite of fruit. "So, if I were to… drag you into the stre
 
 "But yelling the wrong thing at somebody <em>can</em> permanently hurt them."
 
-[????? "Okay, then nothing that would permanently hurt my <em>body</em>. You can yell whatever., Even hurtful things that aren't true"
+"Well, I'm giving you permission: You can yell whatever you want. No matter how made-up and horrible it is."
 
-"What about hurtful things that <em>are</em> true?"]
+"What about hurtful things that <em>aren't</em> made up?"
 
-"Of course – Oh, I see. True things could actually hurt more. But go ahead, I can take it."
+"Of course – Oh, I get it. True things could actually hurt more. But go ahead, I can take it."
 
 "Okay!" said Yali. She put down the last of her fruit, faced me, and opened her mouth, then stopped. "What <em>would</em> you actually find hurtful?"
 
@@ -278,7 +278,7 @@ After a moment, I realized that Yali was just sort of staring at me. Maybe I had
 
 "What?"
 
-"I do all this work to be careful and make sure I'm not hurting you, but then you just brush it off! As if I had no chance of hurting you in the first place! Why won't you take my worries seriously?!"
+"I do all this work to be careful and make sure I'm not hurting you, but then you just brush it off! As if I had no chance of hurting you in the first place! Why won't you take me seriously?!"
 
 "I was just <em>telling</em> you what was true about <em>me</em> –" I began irritably. "Ohhhhhh. You said that to make me mad. It's not what you were really thinking."
 
