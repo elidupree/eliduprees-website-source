@@ -224,7 +224,7 @@ Yali finished her first fruit and set down the other one. Then she wiped her mou
 
 "Yeah?"
 
-She swallowed another bite of fruit. "So, if I were to… drag you into the street and stomp on your fingers…"
+She swallowed another bite of fruit. "So, if I were to… drag you into the street and smash your face on the pavement…"
 
 "Woah!!"
 
