@@ -218,11 +218,15 @@ Yali finished her first fruit and set down the other one. Then she wiped her mou
 
 "What – but I don't know what to do. Or what you're okay with."
 
-"Like I said, you can yell at me, hit me… just about anything, as long as it wouldn't actually injure anyone."
+"Like I said, you can yell at me, hit me… just about anything!"
 
-"Anything? What does that include?" Yali took another bite while I couldn't figure out what to say. She swallowed it and continued, "Like does it include… publicly humiliating you?"
+"Anything?" Yali frowned.
 
-"Woah!"
+"Yeah?"
+
+She swallowed another bite of fruit. "So, if I were to… drag you into the street and stomp on your fingers…"
+
+"Woah!!"
 
 "I don't mean I want to do that, I mean, I mean… you need to think about what your boundaries are. Everyone has limits. If you say 'anything', that doesn't mean you don't have limits, it means you're not telling me what they <em>are</em>. And then I have to guess. And then I might guess wrong and hurt you."
 
@@ -232,15 +236,15 @@ Yali finished her first fruit and set down the other one. Then she wiped her mou
 
 "Fine, I get it, I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
 
+"Okay. And, you mentioned yelling –"
+
+"Well yeah, that's not going to permanently –"
+
 "But yelling the wrong thing at somebody <em>can</em> permanently hurt them."
 
-"Okay, then nothing that would permanently hurt my <em>body</em>. You can yell whatever."
+[????? "Okay, then nothing that would permanently hurt my <em>body</em>. You can yell whatever., Even hurtful things that aren't true"
 
-"So, like, yelling hurtful things that aren't true?"
-
-"Sure."
-
-"Is it okay to include hurtful things that <em>are</em> true?"
+"What about hurtful things that <em>are</em> true?"]
 
 "Of course – Oh, I see. True things could actually hurt more. But go ahead, I can take it."
 

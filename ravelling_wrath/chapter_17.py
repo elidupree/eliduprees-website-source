@@ -714,7 +714,7 @@ Yali shouted back, "Me thinking of things that hurt people is why you're still a
 
 Yali stepped closer, shouting in my face. "Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! For my entire life, I have had to be the one who sees what has to be done, when everyone else can only see what's right in front of them! I have <em>always</em> been the one who does what has to be done, when no one else will!"
 
-I wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking right under the surface… It was part of why I'd always loved her, why I couldn't get enough of her.
+I wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking deep under the surface… I suddenly knew that it was part of why I'd always loved her, why I couldn't get enough of her.
 
 And the worst part was, she wasn't wrong.
 
@@ -764,7 +764,7 @@ I couldn't get my mind off what Yali had said. Alchemist making a weapon? Alchem
 
 "I don't like arguing with you," she said bluntly.
 
-I was suddenly nervous. Was she criticizing me? But I could feel that something was different. "You're – wait, are you trying to open up to me again?"
+I was suddenly nervous. Was she criticizing me again? But I could feel that something was different. "You're – wait, are you trying to open up to me? Like before?"
 
 "I, I think so." Yali was silent for a long time, long enough that I started to feel awkward. Was I supposed to wait for her to go on, or was I supposed to say something? Just when I was about to say something, she spoke again. "How do people express their emotions?" she said.
 
