@@ -244,7 +244,7 @@ She swallowed another bite of fruit. "So, if I were to… drag you into the stre
 
 "Well, I'm giving you permission: You can yell whatever you want. No matter how made-up and horrible it is."
 
-"What about hurtful things that <em>aren't</em> made up?"
+"Hmm… what about hurtful things that <em>aren't</em> made up?"
 
 "Of course – Oh, I get it. True things could actually hurt more. But go ahead, I can take it."
 
