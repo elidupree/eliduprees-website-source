@@ -248,9 +248,9 @@ She swallowed another bite of fruit. "So, if I were to… drag you into the stre
 
 "Of course – Oh, I get it. True things could actually hurt more. But go ahead, I can take it."
 
-"Okay!" said Yali. She put down the last of her fruit, faced me, and opened her mouth, then stopped. "What <em>would</em> you actually find hurtful?"
+"Okay!" said Yali. She put down the last of her fruit, faced me, and opened her mouth, then stopped. "Hmm… how should I start…" she muttered to herself.
 
-"I dunno. I guess you could call me weak?"
+"I guess you could call me weak?" I offered.
 
 "Okay," said Yali. She leaned forward slightly. "You're weak."
 
