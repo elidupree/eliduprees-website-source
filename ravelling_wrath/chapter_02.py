@@ -242,7 +242,7 @@ She swallowed another bite of fruit. "So, if I were to… drag you into the stre
 
 "But yelling the wrong thing at somebody <em>can</em> permanently hurt them."
 
-"Well, I'm giving you permission: You can yell whatever you want. No matter how made-up and horrible it is."
+"Fine, then, I'm giving you permission: You can yell whatever you want. No matter how made-up and horrible it is."
 
 "Hmm… what about hurtful things that <em>aren't</em> made up?"
 
@@ -302,7 +302,7 @@ After a moment, I realized that Yali was just sort of staring at me. Maybe I had
 
 "That's terrible," I joked back.
 
-"But really, I still have more things to try. I'm just not sure about this next thing, because, because…"
+"But really, I… I know I wasn't doing it right. I wasn't trying something that would actually have a chance to affect you. I know what I <em>should</em> try, I just, I just…"
 
 "Whatever it is, bring it on –"
 
@@ -316,17 +316,17 @@ Yali laughed. "You're right. I'm glad we talked about this. I'm okay to 'bring i
 
 Yali closed her eyes.
 
-When she opened them again, it was like she was a completely different person. She lurched to her feet, grabbed my arm, and yanked me out of when I was sitting. By the time I had gotten my balance and stood up, she was towering over me. Yali didn't normally look that much taller than me, because she slouched a lot, but when she <em>did</em> stand up straight, she was almost a head taller than me.
+When she opened them again, it was like she was a completely different person. She lurched to her feet, grabbed my arm, and yanked me out of my seat. By the time I had gotten my balance and stood up, she was towering over me. Yali didn't normally look that much taller than me, because she slouched a lot, but when she <em>did</em> stand up straight, she was almost a head taller than me.
 
-Yali twisted my arm into a painful position. Her voice was cold and unfeeling. "<em>You think you're tough? You're not tough. You're pathetic.</em>"
+Yali twisted my arm into a painful position. Her voice was cold and unfeeling. "<em>You think you're so great? Who said you could walk around acting like you're so great? You're pathetic.</em>"
 
 "Uh," I said nervously, "I still know that's not tr—"
 
-"<em>Shut up. You don't know anything.</em>"
+"<em>Shut up. You don't know anything, you worthless child.</em>"
 
 I glared up into her eyes. But she wasn't even looking back at me. She was looking past me as if I was totally insignificant. I felt trapped and confused. Who was this monster and what was it doing in Yali's body? I reflexively tried to shove her away from me. But she just twisted harder on my arm and I yelled out in pain.
 
-"<em>Shut. Up. Don't make a sound, you worthless thing.</em>"
+"<em>Did I say you could make a sound?! Why do I have to put up with you? Why do I have to do all the work around here?!</em>"
 
 We were just play-acting, right? I looked up into Yali's eyes for reassurance, but there was nothing there. What was going on? I could feel my whole body starting to tense up.
 
@@ -336,7 +336,7 @@ Just then Yali let go of me, stepped back and closed her eyes again. When she op
 
 "You could've kept going," I said.
 
-"How are you feeling?" said Yali gently.
+"How are you feeling?" said Yali carefully.
 
 "That was fuckin' scary!" I said. "Not in a bad way! I mean, that was the point, right? Why'd you stop?"
 
