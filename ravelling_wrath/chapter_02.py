@@ -153,7 +153,7 @@ Yali startled. "How can they <em>not know</em>? You're – You even introduced m
 
 Distractedly, Yali said, "If it has an effect on your emotions, it might <em>be</em> part of the literal life-and-death stuff. But…" She trailed off again.
 
-And then I started to catch on. Yali was wasn't just <em>distracted</em>. She was staring into the distance, weighed down with something much heavier. [????? I wished I could be closer to her/be trusted with her worries]
+And then I started to catch on. Yali was wasn't just <em>distracted</em>. She was staring into the distance, weighed down with something much heavier, something far away from my own frustrations. I felt a sense of longing, wishing I could be closer to her, wishing it was easier for her to just trust me with her worries.
 
 "What's the matter?" I said.
 
@@ -167,15 +167,15 @@ Yali hesitated. "I don't want to ask you for this," she said uneasily. "It's the
 
 "There are people who, who, who can't be allowed to know that I'm the Farseer. I don't mean because of the magic, it's a, a, a personal thing."
 
-[????? Ooh, a hint about deeply personal Yali stuff!! I was eager to know more] "What kind of –"
+My heart thumped in my chest. We were on the edge of something deeply important from Yali's life, and I couldn't wait to hear more. "What kind of –"
 
-[????? But unfortunately, Yali shut me down "I'm not ready to talk about it. It's just, it's just… Never mind.] The point is, if we tell anyone… it could find its way back to them. But… I can't ask you not to tell anyone. That would be…"
+But unfortunately, Yali shut me down. "I'm not ready to talk about it yet," she said, her voice tense, as if she was warding off a distant danger. "It's just, it's just… The point is, if we tell anyone… it could find its way back to them. But… I can't ask you not to tell anyone. That would be…"
 
-[????? Oh no, I couldn't let Yali feel bad about stuff!] "Look, it's okay. If it's gotta be a secret, it's gotta be a secret. And you're definitely not an abuser, you're like the total opposite –"
+Yali's neck was tense as she spoke, her eyes drilling into the wall behind me. I couldn't bear to see her hurting like this. "Look, it's okay!" I said quickly. "If it's gotta be a secret, it's gotta be a secret. And you're definitely not an abuser, you're like the total opposite –"
 
 Yali didn't seem very reassured. "It's important for you to be able to talk to someone about it. I have the memories of the old Farseers to look to, but you'd only have me. What if I can't give you all the support you need? What if it strains our relationship and then –"
 
-"That's, like, way too much pressure to put on yourself," I said hastily.
+"That's, like, way too much pressure to put on yourself –"
 
 "Right, I'd have to be responsible for every –"
 
