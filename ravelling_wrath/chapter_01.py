@@ -93,25 +93,25 @@ She gently pulled me inside and we flopped down on a couch. While I relaxed, Yal
 
 I looked down. On the leg of my pants, there was a dark stain. Blood, I guess. "I must have hurt it when," I panted, "when I was jumping a fence on the way here. I didn't notice." Yali gave me a skeptical look. "I was in a hurry!"
 
-Yali smiled. "You tore open your leg, and you didn't notice <em>because you were in a hurry</em>."
+"You tore open your leg, and you didn't notice <em>because you were in a hurry</em>."
 
 "Of course! What's weird about that?"
 
-Still smiling, she started getting to her feet. "Well, we should get this cleaned up."
+Yali gave an indulgent smile. "Well, we should get this cleaned up," she said. She dug around in a cabinet and pulled out a ceramic disk the size of her palm.
 
-"Give me a minute." I wasn't planning to get up from the couch <em>any</em>time soon.
+I stared at the disk. "You're using an actual <em>sorcery</em> for this?" Normally, if you got a cut, you'd just clean it with alchemical wipes, the kind you get from a convenience store. Healing sorceries were pretty expensive – I hadn't seen one outside of an ambulance.
 
-"We can do it here. I'll be right back."
+"'The Waiting God knows we must prepare for the worst,'" Yali quoted. She was already putting on disposable gloves, laying out bandages and stuff. This was the Yali I knew – her hesitancy from earlier was gone. She moved like she knew what she was doing.
 
-Yali came back wearing disposable gloves, carrying bandages and stuff. This was the Yali I knew – her hesitancy from earlier was gone. She moved like she knew what she was doing. "Did you become a paramedic when I wasn't looking?" I teased.
+"Did you become a paramedic when I wasn't looking?" I teased.
 
 "Video tutorials," murmured Yali. She handed me a piece of gauze. "If it's still bleeding, I'll want you to press this onto the wound." She gave me a lopsided smile. "Now remove your pants."
 
 "I thought you'd never ask," I teased back, as I did what she said.
 
-Yali muttered while she worked. "Your pants are pretty tight. That might have helped stop the bleeding. Still a mess though. Don't worry about the couch, it's just a thing. Hold still, this might sting a bit."
+Yali muttered while she worked. "Your pants are pretty tight. That might have helped stop the bleeding. Still a mess though. Don't worry about the couch, a stain is just part of its memory. Hold still, this might sting a bit."
 
-"I'll be fiiiiiine." Yali cleaned up the wound with some sort of antiseptic wipe. It stung a bit. I was fine. Then she wrapped my leg in a cloth bandage. As she was finishing up, I echoed, "Video tutorials?"
+"I'll be fiiiiiine." Yali pressed the disk over the wound and snapped it in half, releasing the sorcery into my leg. It stung a bit. I was fine. As she finished cleaning and bandaging the wound, I echoed, "Video tutorials?"
 
 "It seemed like something I might need to know eventually."
 
