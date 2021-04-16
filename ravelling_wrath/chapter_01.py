@@ -159,15 +159,25 @@ I froze. I could see where this sentence was going, and I didn't like it. Me, on
 
 I snapped back into the present. Yali was looking at me carefully. Studying me, to see how was going to react. But how <em>was</em> I going to react? There were so many things going through my head. What – how – why –
 
-"Do you know the history between them?" continued Yali. "The Waiting God and the Blood God?"
+"Do you know the history between them?" continued Yali. "The Waiting God and the Blood God –"
 
-My head was spinning. "I don't feel like I know anything about anything. Where do I even start?"
+My brain caught up ?????. "Wait a minute, I don't even <em>follow</em> the Blood God! Nobody does! Why would the Blood God pick <em>me</em> out of everyone?"
 
-Yali took my hand. "Think of one thing you know how to ask me, and start with that."
+"The gods don't pick the Ravellers based on who worships them. They pick people who live by their <em>principles</em>," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "So, for example, the Waiting God values patience, foresight, and planning. ?????
 
-She made it look so easy, throwing my own advice right back at me. Well, the advice <em>did</em> work. I cleared my throat. "Okay… <em>how</em>? I don't even follow the Blood God. Nobody does. Why would the Blood God pick <em>me</em> out of everyone?"
+"– Yeah, yeah, and the Stern God is all about ????? –"
 
-"The gods don't pick the Ravellers based on who worships them. They pick people who live by their <em>principles</em>," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "So, for example, the Waiting God values patience, foresight, and planning. And – you know me, I'd plan what shoes to wear to my own execution."
+"– ????? –"
+
+"– But what about the Blood God? I thought it was all about, like, murdering people and shit –"
+
+Yali looked away. "I, I, I don't know why the Blood God picked you. ?????
+
+
+
+?????
+
+And – you know me, I'd plan what shoes to wear to my own execution."
 
 "Well of course it makes sense for <em>you</em>, I was even comparing you to the Waiting God earlier today –"
 
@@ -239,19 +249,20 @@ Her hand on my heart felt like a pulse of energy. It was as if she was <em>givin
 
 "Well… at least we'll be in it together? I won't have to wait here on Earth all winter wondering if you're going to make it."
 
-Yali was biting her lip.
+Yali was silent, the muscles in her neck standing taut.
 
 "What?" I said.
 
-"The – history. Between the Blood Child and the Farseer…"
+"This has happened before," she said darkly. "This isn't even the first time the Blood Child has loved me – I mean, loved the Farseer –"
 
-"What is it?"
+"Loved <em>you???</em> What in the –"
 
-"Listen, before I tell you this, just know that I have a plan, understand? I have a plan for what we can do, so that both of us can stay – safe."
+"I have – I have their memories. When the Waiting God made me the Farseer, I received two different powers. The first is the ability to see into possible futures, although it's very weak and hard to use here in the material world. And the second is the ability to access the memories of the former Farseer's, the ones who – who – well, it's like I can <em>remember</em> previous Ravellings, almost as if they happened to me directly."
 
-"Just tell me."
 
-"You always – The Blood Child always – No… if I explain it like that, you won't <em>get</em> it." Yali swallowed. "When I was Chosen as the Farseer, I got two powers. One of them was the ability to see possible futures, although it's very weak and hard to use here in the material world. The other was a lot of <em>memories</em>. The memories of dozens of previous Farseers. So I can <em>remember</em> previous Ravellings, almost as if they happened to me directly."
+[????? This doesn't go here anymore:] "Listen, before I tell you this, just know that I have a plan, understand? I have a plan for what we can do, so that both of us can stay – safe."
+
+
 
 "And…?"
 
@@ -260,6 +271,8 @@ Yali was biting her lip.
 Yali breathed in, then out, then in again.
 
 "– The Blood Child <em>kills</em> me."
+
+<bigbreak>
 
 I stared, wondering if I should feel shocked. But I didn't know how to feel shocked when I didn't know what to make of it at all. "But why?" I said. "Does the Blood God, like… <em>control</em> them?"
 
