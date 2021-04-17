@@ -274,7 +274,7 @@ Yali breathed in, then out, then in again.
 
 <bigbreak>
 
-I stared, wondering if I should feel shocked. But I didn't know how to feel shocked when I didn't know what to make of it at all. "But why?" I said. "Does the Blood God, like… <em>control</em> them?"
+I stared, trying to digest the words. "But why?" I said. "Does the Blood God, like… <em>control</em> them?"
 
 "It's, it's more complicated than that. During the Ravelling, the gods put part of their souls into us. That's why it's called the Ravelling, actually – because the threads of the gods' souls are tangled together with the threads of our own souls."
 
@@ -284,13 +284,17 @@ I stared, wondering if I should feel shocked. But I didn't know how to feel shoc
 
 "Symbolic," I deadpanned. Yali snorted.
 
-"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. The one who loved me – I remember him wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he…"
+"Either way, we have part of the gods inside us. And the further we go into the Otherworld, the stronger it gets. We're still <em>us</em>, but the further we go, the more we start to <em>think</em> the way the god <em>thinks</em>. I know what that feels like for the Farseer. I don't know exactly what it's like for the Blood Child because I've never been the Blood Child – well, technically, I've never been the Farseer either – well, I guess I have now – Never mind all that! I don't know exactly what it feels like for the Blood Child, but it seems to involve a lot of… anger. The one who loved me – I remember him wailing that he was full of so much anger at me, even though he didn't want to be. 'I can't control it, I can't control it, it's more than anything I've ever felt' – that's what he was yelling a few minutes before he – before he took the blade and –"
 
 "I don't want to make you remember anything traumatic," I said quickly.
 
 "You don't have a choice," said Yali evenly. "I'm going to have to dig through these memories a lot. I might as well get used to it. The point is to make sure that these things don't happen in the <em>future</em>."
 
-"So…" I said. "So I'm going to get really mad at you and then kill you? But there's no way I'd kill you." I laughed nervously. "Seriously, I'd rather die."
+"So…" I said. "So I'm going to get really mad at you and then kill you? But there's no way I'd kill you! No matter how angry I was – I love you so, so, much! I'd rather <em>die</em> than watch myself hurt you!"
+
+"Don't talk like that," said Yali, tensing up.
+
+"What? It's the truth! If I had to stab one of us, I'd stab myself every ti–"
 
 Yali's eyes narrowed. Before I knew what was happening, she had grabbed my shoulder violently. "Don't – you – dare –" she growled. Now I really <em>was</em> shocked. Yali <em>never</em> acted like that! "Don't you <em>dare</em> sacrifice yourself for me."
 
@@ -306,7 +310,7 @@ I looked at her. "You… really think I'd – you really think there's a chance 
 
 "There's a chance," she said heavily.
 
-I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? There was no way Yali would lie to me. And I couldn't even think of a way she could be <em>wrong</em>…
+I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Yali would never lie to me. There was no way she would say something like that if she wasn't sure it was true…
 
 "I –" I said. "If I'm really that dangerous, couldn't I just… stay away from you? When we're in the Otherworld, we could do our tasks separately. Not that I <em>want</em> to, but, you know…"
 
