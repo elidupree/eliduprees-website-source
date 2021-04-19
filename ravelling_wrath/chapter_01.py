@@ -171,7 +171,9 @@ My brain caught up ?????. "Wait a minute, I don't even <em>follow</em> the Blood
 
 "– But what about the Blood God? I thought it was all about, like, murdering people and shit –"
 
-Yali looked away. "I, I, I don't know why the Blood God picked you. ?????
+Yali looked away. "I, I, I don't know why the Blood God picked you. ????? There must be something more to it. There must. There's plenty of terrible people in the city who it could've picked instead of you. So if it picked <em>you</em>, there must be something inside you that it values more than that."
+
+"Like what?"
 
 
 
