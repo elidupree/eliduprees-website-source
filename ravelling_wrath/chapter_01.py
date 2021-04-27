@@ -169,7 +169,21 @@ My brain caught up ?????. "Wait a minute, I don't even <em>follow</em> the Blood
 
 "– ????? –"
 
-"– But what about the Blood God? I thought it was all about, like, murdering people and shit –"
+"– But what about the Blood God? I thought it was all about, like, murdering people and shit!"
+
+Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city who it could've picked instead of you. I know it's supposed to be a god of our animal urges, but there's more to you than that –"
+
+It kind of felt like she was saying I was bad for having animal urges. But I let it go.
+
+"– But there's one other thing I can think of. There was an old book I read once, that said the Blood God values… <em>personal power</em>."
+
+"Power? What am I, a high priest?"
+
+"????? I'm afraid the Blood God likes the same thing about you that I like about you. The strength that you already have… right <em>here</em>."
+
+She reached out a hand, and touched my heart.
+
+
 
 Yali looked away. "I, I, I don't know why the Blood God picked you. ????? There must be something more to it. There must. There's plenty of terrible people in the city who it could've picked instead of you. So if it picked <em>you</em>, there must be something inside you that it values more than that."
 
