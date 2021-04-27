@@ -173,6 +173,10 @@ My brain caught up ?????. "Wait a minute, I don't even <em>follow</em> the Blood
 
 Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city who it could've picked instead of you. I know it's supposed to be a god of our animal urges, but there's more to you than that –"
 
+She said it like it was bad to have animal urges.
+I didn't like how she said it like my urges were <em>bad</em>, but I let it go.
+I didn't like how that implied that my urges were <em>bad</em>, but I let it go.
+I didn't like how that made it sound like my urges were <em>bad</em>, but I let it go.
 It kind of felt like she was saying I was bad for having animal urges. But I let it go.
 
 "– But there's one other thing I can think of. There was an old book I read once, that said the Blood God values… <em>personal power</em>."
