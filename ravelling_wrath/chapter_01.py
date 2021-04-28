@@ -167,7 +167,7 @@ My brain caught up ?????. "Wait a minute, I don't even <em>follow</em> the Blood
 
 "– Yeah, yeah, and the Stern God is all about ????? –"
 
-"– ????? –"
+"– you mean 'conviction and sacrifice' –"
 
 "– But what about the Blood God? I thought it was all about, like, murdering people and shit!"
 
@@ -183,7 +183,7 @@ It kind of felt like she was saying I was bad for having animal urges. But I let
 
 "Power? What am I, a high priest?"
 
-"????? I'm afraid the Blood God likes the same thing about you that I like about you. The strength that you already have… right <em>here</em>."
+Yali laughed. "Not that kind of power." She leaned in close to me. "I think it meant ????? [????? I'm afraid the Blood God likes the same thing about you that I like about you.] The strength that you already have… right <em>here</em>."
 
 She reached out a hand, and touched my heart.
 
