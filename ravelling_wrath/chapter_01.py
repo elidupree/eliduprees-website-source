@@ -171,7 +171,7 @@ My brain caught up ?????. "Wait a minute, I don't even <em>follow</em> the Blood
 
 "– But what about the Blood God? I thought it was all about, like, murdering people and shit!"
 
-Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city who it could've picked instead of you. I know it's supposed to be a god of our animal urges, but there's more to you than that –"
+Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city who it could've picked instead of you. I know it's supposed to be a god of our animal urges, but there's <em>more</em> to you than that –"
 
 She said it like it was bad to have animal urges.
 I didn't like how she said it like my urges were <em>bad</em>, but I let it go.
