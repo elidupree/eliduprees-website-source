@@ -171,97 +171,15 @@ My brain caught up ?????. "Wait a minute, I don't even <em>follow</em> the Blood
 
 "– But what about the Blood God? I thought it was all about, like, murdering people and shit!"
 
-Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city who it could've picked instead of you. I know it's supposed to be a god of our animal urges, but there's <em>more</em> to you than that –"
-
-She said it like it was bad to have animal urges.
-I didn't like how she said it like my urges were <em>bad</em>, but I let it go.
-I didn't like how that implied that my urges were <em>bad</em>, but I let it go.
-I didn't like how that made it sound like my urges were <em>bad</em>, but I let it go.
-It kind of felt like she was saying I was bad for having animal urges. But I let it go.
-
-"– But there's one other thing I can think of. There was an old book I read once, that said the Blood God values… <em>personal power</em>."
+Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city who it could've picked instead of you. I know it's supposed to be a god of our animal urges, but there's <em>more</em> to you than that." I didn't like how that made it sound like my urges were <em>bad</em>, but I let it go. "But there's one other thing I can think of. There was an old book I read once, that said the Blood God values… <em>personal power</em>."
 
 "Power? What am I, a high priest?"
 
-Yali laughed. "Not that kind of power." She leaned in close to me. "I think it meant ????? [????? I'm afraid the Blood God likes the same thing about you that I like about you.] The strength that you already have… right <em>here</em>."
+Yali laughed. "Not that kind of power." She leaned in close to me. "I think it means… The way you feel like you can do whatever you want. The way you're not afraid to tell anyone what you think of them. That's what I like about you. And that's a kind of power too, a power that you already have… right <em>here</em>."
 
 She reached out a hand, and touched my heart.
 
-
-
-Yali looked away. "I, I, I don't know why the Blood God picked you. ????? There must be something more to it. There must. There's plenty of terrible people in the city who it could've picked instead of you. So if it picked <em>you</em>, there must be something inside you that it values more than that."
-
-"Like what?"
-
-
-
-?????
-
-And – you know me, I'd plan what shoes to wear to my own execution."
-
-"Well of course it makes sense for <em>you</em>, I was even comparing you to the Waiting God earlier today –"
-
-"Really?"
-
-"When you texted me. You know, 'When the Waiting God moves, beware.'"
-
-"Oh, that. But it does fit…" Yali thought it over. Then she got back to explaining. "The other gods have their own values, too. The Seeking God likes curiosity, of course, the Stern God likes conviction…"
-
-"And the Blood God?"
-
-"The Blood God values… <em>power</em>."
-
-"Power? What am I, a high priest?"
-
-Yali laughed. "Not that kind of power. The Blood God's idea of power is more… personal. 'Power of the body, the mind, and the heart.' Which <em>you</em> have in spades."
-
-"I do?"
-
-"Says the person who casually jumped a fence on the way here, and –"
-
-"No, I get the 'body' part. But the others. What does 'power of the heart' even mean? I mean in real life."
-
-"Hmm." Yali considered for a minute. "So this fence you jumped… would it happen to be Old Man Tienna's?"
-
-"Stern take him," I said.
-
-"The one who says he'll sic his dogs on any kids he catches trespassing…"
-
-"He's just a blowhard," I said. "He'll yell at you, but he'll never actually do it."
-
-"You're not… worried about it? At all?"
-
-"What, are you saying the power is courage? Just because I –"
-
-"You really can't see it?"
-
-"See what?"
-
-"It's not <em>just</em> courage. It's more like, like, like <em>everything</em> is easy for you. You just go wherever you want and don't worry about the consequences, and you fight whoever you want, and you, you, you even get good grades. You do all this rebellious stuff and you still walk away with good grades afterwards."
-
-I shrugged. "I do the work."
-
-"You just <em>do the work</em>, and &ndash; Come on. What was your worst grade last year?"
-
-"I had a B- in History, but &ndash;"
-
-"A B-. That was my <em>best</em> grade last year."
-
-"What?! How can I be getting better grades than someone who was literally selected by the gods for being smart?"
-
-"<em>Not</em> for being smart. For patience, foresight, and planning," said Yali patiently.
-
-"What's the difference? Can't you just… <em>plan</em> your way into getting the right answers? Oh! And <em>foresee</em> what's going to be on the test!"
-
-"Well, I'll be able to do that <em>soon</em>."
-
-"What?"
-
-"I mean, that's one of the magic powers the Farseer gets. But I'll get back to that. Schoolwork really isn't that easy for me. If you give me a worksheet to do, I just, just can't focus on it. Like I have to find the right time of day, get relaxed, make sure to take care of anything else I'm worrying about, and <em>then</em> I can sit down with a worksheet, and then <em>maybe</em> I can focus on it. But most of the time there's just too much other stuff going on in my head. But <em>you</em>, you just think, 'I want to focus on this,' and then you try to focus, and then you're focused. That's how you are. 'I wanted to do it, so I did it.' <em>That's power.</em> It's just automatic for you, so you don't even notice it, but you have power <em>here</em> –" she touched my arm "– and <em>here</em> –" she touched my forehead "– and <em>here</em> –"
-
-She touched my heart.
-
-Her hand on my heart felt like a pulse of energy. It was as if she was <em>giving</em> me the power, not just telling me about it. It was a thrill, but it also felt like… a burden.
+Her hand on my heart felt like a pulse of energy. It was as if she was <em>giving</em> me the power, not just telling me I had it. It was a thrill, but it also felt like… a burden.
 
 "Shit," I said glumly. "This is real."
 
@@ -277,7 +195,7 @@ Yali was silent, the muscles in her neck standing taut.
 
 "Loved <em>you???</em> What in the –"
 
-"I have – I have their memories. When the Waiting God made me the Farseer, I received two different powers. The first is the ability to see into possible futures, although it's very weak and hard to use here in the material world. And the second is the ability to access the memories of the former Farseer's, the ones who – who – well, it's like I can <em>remember</em> previous Ravellings, almost as if they happened to me directly."
+"I have – I have their memories. When the Waiting God made me the Farseer, I received two different powers. The first is the ability to see into possible futures, although it's very weak and hard to use here in the material world. And the second is the ability to access the memories of the former Farseers, the ones who – who – well, it's like I can <em>remember</em> previous Ravellings, almost as if they happened to me directly."
 
 
 [????? This doesn't go here anymore:] "Listen, before I tell you this, just know that I have a plan, understand? I have a plan for what we can do, so that both of us can stay – safe."
@@ -314,7 +232,7 @@ I stared, trying to digest the words. "But why?" I said. "Does the Blood God, li
 
 "Don't talk like that," said Yali, tensing up.
 
-"What? It's the truth! If I had to stab one of us, I'd stab myself every ti–"
+"What? It's the truth! If I had to stab either you or me, I'd stab myself every ti–"
 
 Yali's eyes narrowed. Before I knew what was happening, she had grabbed my shoulder violently. "Don't – you – dare –" she growled. Now I really <em>was</em> shocked. Yali <em>never</em> acted like that! "Don't you <em>dare</em> sacrifice yourself for me."
 
@@ -324,13 +242,13 @@ Yali's eyes narrowed. Before I knew what was happening, she had grabbed my shoul
 
 "Uh… I promise," I said nervously.
 
-"Remember that." Yali let go of my shoulder and leaned back on the couch. She was back to her normal self again, just as suddenly. "Sorry about that," she said. "I just really, really don't want you to die."
+"Remember that." Yali let go of my shoulder and leaned back on the couch. She was back to her normal self again, just as suddenly. "Sorry about that," she said. "There are just so many things that can go wrong in the Ravelling. I don't want you getting yourself <em>killed</em> to be one of them."
 
 I looked at her. "You… really think I'd – you really think there's a chance I'd feel like I needed to die for your sake?"
 
 "There's a chance," she said heavily.
 
-I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Yali would never lie to me. There was no way she would say something like that if she wasn't sure it was true…
+I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Yali would never lie to me. The only way she would say something so serious, was if she was absolutely sure it was true…
 
 "I –" I said. "If I'm really that dangerous, couldn't I just… stay away from you? When we're in the Otherworld, we could do our tasks separately. Not that I <em>want</em> to, but, you know…"
 
