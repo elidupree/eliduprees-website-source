@@ -330,31 +330,33 @@ I glared up into her eyes. But she wasn't even looking back at me. She was looki
 
 We were just play-acting, right? I looked up into Yali's eyes for reassurance, but there was nothing there. What was going on? I could feel my whole body starting to tense up.
 
-Wait a minute. I was Rinn Akatura. I could handle anything. I forced myself to laugh and relax. It wasn't even that much pain, anyway.
+Wait a minute. I was Rinn Akatura. I could handle anything. I flexed my arm, pushing back against her. "Not bad," I said with a little smirk, "but it'll take more than that to scare <em>me</em> –"
 
-Just then Yali let go of me, stepped back and closed her eyes again. When she opened them, she was back to normal.
+I was kind of hoping to provoke her, but she didn't react that way. She had a blank look for a moment, like she wasn't sure how to respond. Then she backed away, hunching over again and shaking her head a little. "This isn't working, this isn't working," she muttered.
 
-"You could've kept going," I said.
+"You could've kept going!" I said.
 
-"How are you feeling?" said Yali carefully.
+"How are you feeling?" she said cautiously.
 
 "That was fuckin' scary!" I said. "Not in a bad way! I mean, that was the point, right? Why'd you stop?"
 
-Yali visibly relaxed. "Two reasons. Well, three, actually. First, I needed to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I didn't really think you weren't going to be okay. But the moment you don't check is the moment everything can go wrong."
+Yali relaxed, but only partway. "It wasn't going to work," she said, a little too quickly. "Also, I had to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I'm not saying I thought there'd be a problem. But the moment you don't check is the moment everything can go wrong."
 
-"The second reason," she continued, "is that I'm not sure <em>I</em> can [????? not quite the right word: handle] doing that for very long. And the third one is… It wasn't going to work."
+"Okay, but what do you mean it wouldn't work? If you'd kept going –"
 
-"It almost worked! If you'd gone on for a bit longer…"
+"I saw what happened," said Yali tiredly. "It only worked when you weren't expecting it. I thought this might happen – this is how you usually deal with anger, isn't it? As soon as you noticed you were getting angry, you turned it into a challenge. Right?"
 
-"I saw what happened," said Yali. "It only worked because you weren't expecting it. And that's pretty much what I thought would happen. This is how you usually deal with anger, isn't it? As soon as you noticed that you were getting angry, you turned it into a challenge. Right?"
+"Stern take it all, you know me better than I know myself. You even <em>expected</em> this to happen?!"
 
-"Stern take it all, you know me better than I know myself. You even <em>thought</em> this would happen?!"
-
-"Honestly, as soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be… like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
+"Honestly? Yes. As soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be… like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
 
 I sighed. "I don't either!"
 
 "I know. I'm not saying it's going to be easy. Maybe… what if you think of a time in the past when you <em>were</em> really angry?"
+
+[????? But Yali still looked tired from earlier]
+
+[????? Cut down a bunch:
 
 Yali looked really exhausted for a moment. "Hang on," I said. "Are <em>you</em> okay?" 
 
@@ -370,7 +372,7 @@ Yali seemed confused that I'd asked the question. "Uh… yes?"
 
 "Yeah, well, how do I look for the <em>right</em> kind?"
 
-"Well –" There was that exhaustion again. "How about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"
+"Well –" There was that exhaustion again. "How about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"]
 
 Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, and she'd <em>said</em> she was okay, but there was something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
 
