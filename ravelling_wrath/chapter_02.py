@@ -354,25 +354,13 @@ I sighed. "I don't either!"
 
 "I know. I'm not saying it's going to be easy. Maybe… what if you think of a time in the past when you <em>were</em> really angry?"
 
-[????? But Yali still looked tired from earlier]
+I racked my brains. If I wasn't supposed to think about fights, what was I looking for? Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually managed to force me into doing chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
 
-[????? Cut down a bunch:
+"Well –" Yali began. But her voice faltered a little. I suddenly realized – something had been off about her ever since she switched back from being evil. She was talking <em>almost</em> normally, but there were tiny hesitations that wouldn't normally be there, and parts where she talked fast like she was trying to catch up…
 
-Yali looked really exhausted for a moment. "Hang on," I said. "Are <em>you</em> okay?" 
+"Hang on," I said. "Are <em>you</em> okay?" 
 
-Yali seemed confused that I'd asked the question. "Uh… yes?"
-
-"Never mind, I guess."
-
-"So, can you think of –"
-
-"Yeah, yeah." I racked my brains. Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually managed to force me into doing chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
-
-"Maybe you're looking for the wrong <em>kind</em> of thing."
-
-"Yeah, well, how do I look for the <em>right</em> kind?"
-
-"Well –" There was that exhaustion again. "How about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"]
+"I'm fine," she said, much too quickly. "I was about to say, how about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"
 
 Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, and she'd <em>said</em> she was okay, but there was something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
 
@@ -381,6 +369,8 @@ There was an awkward pause. I scrambled for something to break the silence.
 [????? THIS transition works, but the rest of this section is insufficiently motivated:]
 
 "So… the Ravelling!" I said. "What's it actually like? Tell me everything."
+
+<bigbreak>
 
 Yali brightened a little. "Right! I've gotten so used to having these memories of it, it's hard to remember only knowing what I learned from – from school. What do you want to know about first?"
 
