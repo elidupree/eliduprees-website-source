@@ -165,9 +165,9 @@ My brain caught up ?????. "Wait a minute, I don't even <em>follow</em> the Blood
 
 "The gods don't pick the Ravellers based on who worships them. They pick people who live by their <em>principles</em>," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "So, for example, the Waiting God values patience, foresight, and planning. ?????
 
-"– Yeah, yeah, and the Stern God is all about ????? –"
+"– Yeah, yeah, and the Stern God is all about making you shut up and obey the rules –"
 
-"– you mean 'conviction and sacrifice' –"
+"– you mean, 'conviction and sacrifice' –"
 
 "– But what about the Blood God? I thought it was all about, like, murdering people and shit!"
 
