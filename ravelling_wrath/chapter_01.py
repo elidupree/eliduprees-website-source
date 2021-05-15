@@ -264,7 +264,7 @@ I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Ya
 
 "What if we just <em>don't</em> go through all the layers? Or – what if I get behind, so we're never in the <em>same</em> –"
 
-"That –" Yali concentrated for a moment. "I'm not sure exactly what would happen if you tried that. I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
+"That –" Yali concentrated for a moment. [????? maybe this should explicitly say the "perception of time is different in the portal" thing] "I'm not sure exactly what would happen if you tried that. I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
 
 "So – if the gods are trying to force us together, and force me to attack you –" I was thinking wildly, but I couldn't come up with any way out of this. "What do we <em>do?</em>"
 
