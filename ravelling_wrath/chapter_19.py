@@ -328,6 +328,10 @@ But there was an ache in my mind, and I could feel that there was something miss
 
 And then I understood.
 
+I could already feel the anger building inside me. The Blood God wanted me <em>not</em> to regulate my feelings? It wanted me to throw away every skill I'd built to keep myself safe? It wanted me to show it the Yali who put herself in danger by acting on petty frustrations, the Yali who had yelled at ???? whenever ???? didn't do what she wanted? I didn't want to ever be that person again. But the Blood God needed me to unleash my feelings, and this was the feeling I had available. Fine, then. I <em>would</em>. And the Blood God would only have itself to blame.
+
+I knew I was about to do something unwise. And I knew I didn't want them to get hurt in the crossfire.
+
 ?????
 
 So that was how it was.
