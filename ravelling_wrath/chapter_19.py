@@ -316,13 +316,19 @@ In my mind, I visualized a bridge in front of me, a steel structure that would s
 
 I stared at the chasm for many minutes, trying each variation I thought of. First I tried to push harder with my mind. When that didn't work, I tried to push more gently. I tried to build the bridge a little at a time, but it got harder and harder the more I added, and I ended up with something that didn't even reach a quarter of the way across. I was clearly missing something. When Rinn had done it, it felt like she wasn't trying at all. So I tried not trying at all, just waving my hand and expecting the bridge to appear for me. Again, nothing happened.
 
-A shred of impatience slipped in from the back of my mind.
+A shred of impatience slipped in from the back of my mind. <em>What did the Blood God want from me,</em> I thought, staring at the barely-real bridge in frustration. But the thought had scarcely finished when the bridge was suddenly different. For the first time, it was almost solid! I froze, quickly trying to understand what had happened –
 
-The instant it did, the bridge was real. The instant I got myself under control again, it was gone.
+– and the instant the frustration was cleared from my mind, the bridge was gone as well.
 
-Was that impatient feeling the way to do the manifesting? I tried to do it again, allowing the impatience to come forward. I glared at the chasm, forcing the bridge to appear again. It did, if unsteadily. Now all I had to do was to stabilize it, to find a way to sustain the impatient feeling long enough to finish the bridge, but not to lose control –
+I noticed that my heart was pounding. I felt like I'd almost been caught – the bridge had spilled over from my impatience, I'd been careless, and – <em>No,</em> I reminded myself. <em>You're not at the ????? anymore. There's no one who's about to punish you. This is about the manifesting. You need to pay attention…</em>
 
-When I looked, the bridge was gone again. Even with the impatience still at the forefront of my mind, the bridge had disappeared the moment I felt like I could regulate it.
+Was it really the impatient feeling that had made the manifesting work? It wasn't hard to make myself feel impatient again – I had kept myself stable, but I wasn't calm anymore. I didn't like what the Blood God was making me do. Very carefully, I allowed the impatience to come forward, glaring at the chasm, forcing the bridge into existence…
+
+But there was an ache in my mind, and I could feel that there was something missing. Even with the impatience at the forefront of my mind, the bridge would not appear. I could <em>feel</em> that this was supposed to work… but I needed to do something <em>more</em>…
+
+And then I understood.
+
+?????
 
 So that was how it was.
 

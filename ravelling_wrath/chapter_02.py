@@ -378,6 +378,16 @@ Yali brightened a little. "Right! I've gotten so used to having these memories o
 
 Yali launched into elaborate descriptions of everything, from the starry void of the Waiting, to the riddle-maze of the Seeking, to the trials of the Stern, to the lush wilderness of the Broken. They all sounded so beautiful – except the Stern, anyway – and I couldn't wait to see them myself. Obviously, I didn't <em>want</em> to be involved in all this, but I really wanted to see them, too.
 
+
+
+
+[????? Have to deal with the Stern God in the Otherworld
+
+Yali shrugged. "I'd rather live in a boring place than a dangerous one."
+
+
+
+
 "So…" I said, "Waiting, Seeking, Stern, Broken, Blood. That's the same order as the city! If you count from top to bottom."
 
 Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first ring doesn't allow any lights at night – so that you can see the stars."
