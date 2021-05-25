@@ -383,6 +383,10 @@ Yali launched into elaborate descriptions of everything, from the starry void of
 
 [????? Have to deal with the Stern God in the Otherworld
 
+The Stern Temple were basically in charge of the entire city, and they always made everything BORING. A few years ago, [????? there had been, on the way to my school, maybe in the fourth ring, a vibrant community in a park I walked through, musicians and street alchemists showing off cool things like fire, tents full of homeless people with enthusiastic singing. But then the police drove them away and started standing around on the street corners so people wouldn't come back, and now the whole place was boring and sterile.
+
+"I bet they want to make the whole place just like the third ring, which is so boring! Uh, no offense," I said, remembering Yali lived here.]
+
 Yali shrugged. "I'd rather live in a boring place than a dangerous one."
 
 
