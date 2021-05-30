@@ -362,7 +362,7 @@ I racked my brains. If I wasn't supposed to think about fights, what was I looki
 
 "I'm fine," she said, much too quickly. "I was about to say, how about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"
 
-Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, and she'd <em>said</em> she was okay, but there was something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
+Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, but there was definitely something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
 
 There was an awkward pause. I scrambled for something to break the silence.
 
@@ -371,6 +371,24 @@ There was an awkward pause. I scrambled for something to break the silence.
 "So… the Ravelling!" I said. "What's it actually like? Tell me everything."
 
 <bigbreak>
+
+The Otherworld had five layers, and the third one was going to be the <em>worst</em>.
+
+Our journey would begin in the starry void of the Waiting, the god who oversaw the cycle of the seasons, the god who had woven the structure of the Ravelling out of the chaos of souls that had come before. The Waiting God would [????? challenge us to engage in patient study,] which sounded like a huge pain, but I could put up with it. And the way Yali described its world – an empty world full of stars – made it sound eerily beautiful.
+
+Second was the riddle-maze of the Seeking, [????? the god of curiosity and invention, coincidence and opportunity. The god who made coincidences happen. Its world was ever-changing, adapting to each new Raveller to become what they least expected, challenging them to see things from perspectives they'd never considered. It sounded awesome, and it was the one I was most eager to see.]
+
+But then… the Stern.
+
+It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on the way to my school had been a vibrant place. There were colorful tents set up along the ?????, and it had almost been an open-air market, with musicians ?????, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! ????? Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
+
+"I bet they want to make the whole city as boring as the third ring!" I exclaimed. Then I remembered we were <em>in</em> the third ring right now, because Yali lived here. "Uh, no offense."
+
+Yali shrugged. "There's worse things than living in a boring place."
+
+
+
+
 
 Yali brightened a little. "Right! I've gotten so used to having these memories of it, it's hard to remember only knowing what I learned from – from school. What do you want to know about first?"
 
@@ -383,11 +401,6 @@ Yali launched into elaborate descriptions of everything, from the starry void of
 
 [????? Have to deal with the Stern God in the Otherworld
 
-The Stern Temple were basically in charge of the entire city, and they always made everything BORING. A few years ago, [????? there had been, on the way to my school, maybe in the fourth ring, a vibrant community in a park I walked through, musicians and street alchemists showing off cool things like fire, tents full of homeless people with enthusiastic singing. But then the police drove them away and started standing around on the street corners so people wouldn't come back, and now the whole place was boring and sterile.
-
-"I bet they want to make the whole place just like the third ring, which is so boring! Uh, no offense," I said, remembering Yali lived here.]
-
-Yali shrugged. "I'd rather live in a boring place than a dangerous one."
 
 
 
