@@ -367,7 +367,7 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "But, I made, –"
 
-"What, the one I just drank? That's like a wall that blocks all <em>physical</em> attacks! But Morrow's powers are soul-based! There's no such thing as a soul wall! Even if you made a potion to block specific soul things, Morrow's creative, he'll always find ways to work around it! And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
+"What, the one I just drank? That's like a wall that blocks all <em>physical</em> attacks! But Morrow's powers are soul-based! There's no such thing as a soul wall! Even if you made a potion to block some kind of soul attack, Morrow's creative, he'll always find ways to work around it! And <em>you</em> –" she jabbed her thumb at me "– you <em>should</em> be able to summon soulfire, but –"
 
 "What's soulfire?"
 
@@ -385,7 +385,7 @@ Yali glared at me. But I could see some doubt breaking through to her. Her face 
 
 "Well, can you at least, like, help us figure out something to do? I mean, you're the one who's good at planning –" Yali glared at me so hard I was actually scared for a moment. "I mean, and, like, you're the one with the Seeing, you can't <em>not</em> help us –"
 
-"I know I <em>should</em>. And I haven't checked it since…" She sighed and looked into the future. Then her eyes widened a little. "Oh, I forgot this, because it wasn't the most important thing at the time… Morrow spilled his thoughts all over the place."
+"Of course I have to use the Seeing, I <em>always</em> have to use the Seeing… I really need to check it, I haven't checked it since…" She sighed and looked into the future. Then her eyes widened a little. "Oh, I forgot this, because it wasn't the most important thing at the time… Morrow spilled his thoughts all over the place."
 
 "He <em>what</em>?"
 
@@ -439,25 +439,19 @@ Yali talked over me, her eyes already flicking back into the memories. "There's 
 
 So. Morrow was a sex worker? I felt like I should be surprised, but nothing would have really surprised me at this point. Thinking back, he had always been kind of… <em>indifferent</em> to sexuality. That would make a lot of sense, I guess, if he thought of it as just a job.
 
-"Yes, thank you," said Yali, still cold and emotionless. "He became a sex w–"
+"Yes, thank you," said Yali, still cold and emotionless. "He became a sex worker. His most positive feelings are about people he met in the street… his, his clients, and other homeless people. I can see a, a, sort of a tent city… he feels safe there, because none of the people there will talk to the police… no, that's not a current memory, it's something he… wishes he could go back to? And later he's stuck working in back alleys… I see some, some clients, beating and robbing him, because they know he doesn't have the safety of the other people being around… And he wishes he could go back to the tent city, but for some reason he can't –"
 
-"Holy shit, do you think Justicar knew?!" I exclaimed.
+"Let me guess, it was a place with a lot of singing? Street alchemists showing off colored fire?"
 
-Yali's eyes flicked back out of the memories to focus on me for a moment. "What did you say?"
+Yali's eyes flicked back out of the memories, focusing on me for a moment. "You know it?"
 
-"It was practically the first thing she said to him! '<em>If you <strong>defile</strong> anyone's mind, your life is forfeit</em>'! You think she was hinting at…?"
+"You could say that," I said darkly. "The Stern Temple destroyed it."
 
-"How would she have known?"
+Yali squinted at me. I could tell she didn't want to believe something bad about the Stern Temple. But she just closed her mouth and looked back into the memories.
 
-"I dunno. I mean, she was a cop. Maybe she knew some kind of, uh, secret signal?" Now than I was trying to explain it, I wasn't quite as sure after all. "Or maybe it's just the way she talks."
+"It's weird… even after he gets robbed, his clients are still the people he feels safest around. No, it makes sense… it must be because, because none of them ever tried to take him home to his parents. Well-meaning strangers are still terrifying to him, even when he's older –"
 
-"I don't think it matters at this point…"
-
-I didn't have more to say. Yali looked back into the memories.
-
-"His feelings toward his clients are very positive. Even though, even though – I saw a memory of some clients beating and robbing him when he was older, but even after that, he feels very safe around clients in general. I believe it is because, because, because none of them ever tried to take him home to his parents. Well-meaning strangers are still terrifying to him."
-
-"'When he was older'… fuck, this all happened when he was still a <em>kid</em>?"
+"'When he's older'… fuck, this all happened when he was still a <em>kid</em>?"
 
 "I'm not, not sure. They're <em>his</em> memories, I can't see him directly. I think he might be… early teens? Not much older than I was when I went to the police. But then…" I heard a hint of doubt creep into Yali's voice. "…then, he and I have a lot in common… We both had to escape our families around the same age, we both had to figure out what to do all by ourselves… <em>But I didn't abuse anyone else after I got out!</em> He's nothing like me!"
 
@@ -487,7 +481,7 @@ Yali suddenly focused on me again. "You know more about Justicar? You'll have to
 
 "Not <em>now!</em>" Yali snapped. "We can deal with one person who's going to kill us at a time!" She pointedly looked back into the memories.
 
-"Eventually, Morrow met up with, with, with… he thinks of them as 'the girls'. He views them like family. I see them showing him how to open a bank account, I see them teaching him what foods you can keep in the fridge… those must be things he missed out on from his abusive home. They were… also sex workers, it looks like, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
+"Eventually, Morrow met up with, with, with… he thinks of them as 'the girls'. He views them like family. They let him stay in their apartment… I see them showing him how to open a bank account, I see them teaching him what foods you can keep in the fridge… those must be things he missed out on from his abusive home. They were… also sex workers, it looks like, only a little older than he was. But they had much less trauma than he did. It looks like they took him in out of pity. And they had, or keep having, lots of fights about it. He doesn't realize how much they worry that he's going to get them all arrested –"
 
 "Wait a minute, I thought you were looking at <em>his</em> memories! How do you know something he doesn't know?"
 
@@ -515,7 +509,7 @@ Yali looked dismayed. "I, I know the police aren't always, aren't always, don't 
 
 The words hung in the air between us.
 
-Yali wasn't answering. Right away, part of me felt horribly guilty. I wanted to say, <em>Oh gods, I'm sorry, I didn't mean it!</em> But another part of me, thundering right behind my heart, refused to back down. I surged to my feet, carelessly bumping Alchemist off to the side. "Teachers or not, they're still Stern! The moment someone steps out of line, you can say goodbye to your 'caring about kids', their job is to beat us down! Try growing up in the fifth ring and thinking the Stern were ever on our side! Bet you've never seen a kid get dragged out of class, humiliated in front of everyone, just for wearing the wrong kind of braids! Because I have! And you think the police '<em>don't always treat everyone well</em>'?! You haven't got a fucking clue what it's like!" I was being a little hypocritical there, because "you haven't got a clue what it's like" was actually what some other kid had said to me sometime when I was making jokes about getting arrested. But now, it felt so real. "Just because the cops were on your side once, you think – no, you probably <em>grew up</em> thinking they were the good guys! You're just like Justicar, you've got some fucked-up idea like the Stern would be fine if they just obeyed their own rules all the time! But that's not how it works! Every part of the Stern is a violation! From Justicar trying to kill me just for existing, to the cops ripping up people's lives over the most inconsequential shit, all the way down to random teachers telling kids to shut up and obey the rules, it's all trampling on the city's blood! The Stern are choking away our lives, everything that matters to us, and –"
+Yali wasn't answering. Right away, part of me felt horribly guilty. I wanted to say, <em>Oh gods, I'm sorry, I didn't mean it!</em> But another part of me, thundering right behind my heart, refused to back down. I surged to my feet, carelessly bumping Alchemist off to the side. "Teachers or not, they're still Stern! The moment someone steps out of line, you can say goodbye to your 'caring about kids', their job is to beat us down! Try growing up in the fifth ring and thinking the Stern were ever on our side! Bet you've never seen a kid get dragged out of class, humiliated in front of everyone, just for wearing the wrong kind of braids! Because I have! And you think the police '<em>don't always treat everyone well</em>'?! You haven't got a fucking clue what it's like!" I was being a little hypocritical there, because "you haven't got a clue what it's like" was actually what some other kid had said to me sometime when I was making jokes about getting arrested. But now, it felt so real. "Just because the cops were on your side once, you think – no, you probably <em>grew up</em> thinking they were the good guys! You're just like Justicar, you've got some fucked-up idea like the Stern would be fine if they just obeyed their own rules all the time! But that's not how it works! You want to know why Morrow could't go back to ????? Park? It's because of the law! That's what Justicar told me, the Temple made a law – and then the cops tore down all the tents and trashed everyone's stuff, and they posted guards so that no one could come back! And they congratulated themselves for doing it! It's the <em>law itself</em> that took away Morrow's place of safety! And you think teachers don't tell you to obey the law? You think there's some <em>nice</em> part of the Stern if you just took away all the bad parts? <em>Every</em> part of the Stern is a violation! From Justicar trying to kill me just for existing, to the cops ripping up people's lives over the most inconsequential shit, all the way down to random teachers telling kids to shut up and obey the rules, it's <em>all</em> trampling on the city's blood! The Stern are choking away our lives, everything that matters to us, and –"
 
 "Where are you going?!" snapped Yali.
 
