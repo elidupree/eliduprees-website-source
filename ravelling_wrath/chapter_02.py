@@ -441,7 +441,7 @@ Yali shrugged. "It's true, I live in a boring place." [????? maybe more like: so
 
 "I'm… I'm not sure that can happen. You're imagining the god as if it's a regular person, but the gods don't think like we do. They're much bigger and slower. The whole winter for them is like a single night for us. You could say the Ravelling is like their dreams."
 
-"But people say the high priests can talk to the gods. How does that work?"
+"But people say the high priests can talk to the gods. [????? I mean, obviously they don't have human bodies, but] How does that work?"
 
 "It works, but it's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
 
