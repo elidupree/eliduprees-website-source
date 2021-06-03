@@ -382,11 +382,23 @@ But then… the Stern.
 
 It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on the way to my school had been a vibrant place. There were colorful tents set up along the ?????, and it had almost been an open-air market, with musicians ?????, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! ????? Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
 
-And in the Otherworld... ?????
-
-"I bet they want to make the whole city as boring as the third ring!" I exclaimed. Then I remembered we were <em>in</em> the third ring right now, because Yali lived here. "Uh, no offense."
+"I bet they want to make the whole city as boring as the third ring!" I exclaimed. The third ring was basically the Stern Temple's home turf, full of temples and courthouses and shit. Then I remembered we were <em>in</em> the third ring right now, because Yali lived here. "Uh, no offense."
 
 Yali shrugged. "There's worse things than living in a boring place."
+
+And in the Otherworld… [????? we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but]
+
+"Wait. Third ring – third layer – that's not a coincidence, is it?"
+
+?????
+
+[????? "Sorry, you can keep telling me about the layers now]
+
+[????? Broken God description, with a bit of fourth ring discussion]
+
+[????? I was morbidly curious to hear about the Blood God layer, was it [wrong thing]? Was it [wrong thing 2]? But when I asked Yali, she said:
+
+"I don't know."
 
 
 
