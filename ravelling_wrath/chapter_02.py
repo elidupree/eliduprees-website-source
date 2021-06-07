@@ -386,13 +386,13 @@ It was bad enough that we had to deal with the Stern in our own world. The Stern
 
 Yali shrugged. "There's worse things than living in a boring place."
 
-And in the Otherworld… [????? we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but]
+And in the Otherworld… [????? we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but it was [the way it was]. And it was in the <em>middle</em> of the five layers, so you cannot put it off or get it over with early]
 
 "Wait. Third ring – third layer – that's not a coincidence, is it?"
 
-?????
+Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first ring doesn't allow any lights at night – so that you can see the stars."
 
-[????? "Sorry, you can keep telling me about the layers now]
+[????? And the second layer? That's the one with the seeking? The twisty roads. And the third is the Stern obviously, and the fourth – oh wait, we haven't gotten there yet. "Sorry, you can keep telling me about the layers now]
 
 [????? Broken God description, with a bit of fourth ring discussion]
 
@@ -400,7 +400,13 @@ And in the Otherworld… [????? we didn't know <em>exactly</em> what the Stern G
 
 "I don't know."
 
+"You don't <em>know?</em>"
 
+"I, I died. There's only one time I make it to the fifth layer alive, and then I barely get a look at it before he's yelling and his blade is stabbing into me –"
+
+[????? "He killed you <em>right</em> after you got into the new layer? What are the chances?]
+
+[????? "It's not a coincidence," she said grimly. "
 
 
 
