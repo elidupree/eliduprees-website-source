@@ -392,7 +392,11 @@ And in the Otherworld… [????? we didn't know <em>exactly</em> what the Stern G
 
 Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first ring doesn't allow any lights at night – so that you can see the stars."
 
-[????? And the second layer? That's the one with the seeking? The twisty roads. And the third is the Stern obviously, and the fourth – oh wait, we haven't gotten there yet. "Sorry, you can keep telling me about the layers now]
+"And the second ring – that's the one with the Seeking, right? The streets really ARE like a maze there, my parents took me to a museum there once and I got soooo lost! So it was built that way on <em>purpose</em>?"
+
+"It probably was!"
+
+"And then the, uhh…" [????? Yali hadn't told me about the fourth layer yet. "Sorry, you can keep telling me about the layers now]
 
 [????? Broken God description, with a bit of fourth ring discussion]
 
