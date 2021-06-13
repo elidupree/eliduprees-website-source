@@ -410,7 +410,7 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 [????? "He killed you <em>right</em> after you got into the new layer? What are the chances?]
 
-[????? "It's not a coincidence," she said grimly. "
+"It's not a coincidence," she said grimly. "
 
 
 
@@ -455,7 +455,11 @@ Yali shrugged. "It's true, I live in a boring place." [????? maybe more like: so
 
 "You died right after you got to the last layer? Well <em>that's</em> a shitty coincidence."
 
-"Not a coincidence. It's because of the, the, the passage between the layers. Every time we enter another layer, our gods weave a few more of the threads of <em>their</em> souls into <em>our</em> souls. So each layer gives us new powers, and new… personality changes. Like –"
+"Not a coincidence. 
+
+
+
+It's because of the, the, the passage between the layers. Every time we enter another layer, our gods weave a few more of the threads of <em>their</em> souls into <em>our</em> souls. So each layer gives us new powers, and new… personality changes. Like –"
 
 "Like the Blood Child freaking out and killing you. Shit."
 
@@ -465,15 +469,17 @@ Yali shrugged. "It's true, I live in a boring place." [????? maybe more like: so
 
 "I'm… I'm not sure that can happen. You're imagining the god as if it's a regular person, but the gods don't think like we do. They're much bigger and slower. The whole winter for them is like a single night for us. You could say the Ravelling is like their dreams."
 
-"But people say the high priests can talk to the gods. [????? I mean, obviously they don't have human bodies, but] How does that work?"
+"But people say the high priests can talk to the gods. I mean, obviously the gods don't have human bodies, but I always figured –"
 
-"It works, but it's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
+"It's not like talking to a person. It's more like trying to chip bits of wisdom off a big… rock."
 
 "A wisdom… <em>rock</em>?"
 
 "Sure, a wisdom rock. You ever wonder why we call the gods 'it' instead of 'he' or 'she'? That's why. With any luck, the Blood God won't understand what we're doing at all. At least not until after the Ravelling is over."
 
 "Huh."
+
+[????? Flow drop here]
 
 "And our chances are even better with how weak it is now."
 
@@ -514,6 +520,8 @@ I kicked the table. "For fuck's sake! I don't want us to die without even knowin
 "I'm sorry. I wish I could tell you something else. I even tried to look it up, back at the start of August when I was Chosen. but the temples are pretty secretive about their records, and –"
 
 Something was bugging me. "They pick us at the start of August? That's just before when you…" I stopped.
+
+<bigbreak>
 
 "It's okay. You can ask."
 
