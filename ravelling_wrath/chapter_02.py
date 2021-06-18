@@ -424,7 +424,7 @@ Yali launched into elaborate descriptions of everything, from the starry void of
 
 
 [????? Have to deal with the Stern God in the Otherworld
-
+[????? All of this is being cut:
 
 
 
@@ -455,7 +455,7 @@ Yali shrugged. "It's true, I live in a boring place." [????? maybe more like: so
 
 "You died right after you got to the last layer? Well <em>that's</em> a shitty coincidence."
 
-"Not a coincidence. 
+"Not a coincidence. ]
 
 
 
@@ -467,7 +467,7 @@ It's because of the, the, the passage between the layers. Every time we enter an
 
 "Shit, what's the Blood God going to do when it notices we're resisting it? What if it gives me threads that are even <em>more</em> violent?"
 
-"I'm… I'm not sure that can happen. You're imagining the god as if it's a regular person, but the gods don't think like we do. They're much bigger and slower. The whole winter for them is like a single night for us. You could say the Ravelling is like their dreams."
+"Waiting knows that's a risk we'll have to worry about," she said. "But there are two advantages we have. First, the gods are much bigger and slower than we are. The whole winter for them is like a single night for us – and you could say the Ravelling is like their dreams. So the Blood God might not even consciously understand what's happening, before it's too late."
 
 "But people say the high priests can talk to the gods. I mean, obviously the gods don't have human bodies, but I always figured –"
 
@@ -475,23 +475,18 @@ It's because of the, the, the passage between the layers. Every time we enter an
 
 "A wisdom… <em>rock</em>?"
 
-"Sure, a wisdom rock. You ever wonder why we call the gods 'it' instead of 'he' or 'she'? That's why. With any luck, the Blood God won't understand what we're doing at all. At least not until after the Ravelling is over."
+[????? "Sure, a wisdom rock. You ever wonder why we call the gods 'it' instead of 'he' or 'she'? That's why. With any luck, the Blood God won't understand what we're doing at all. At least not until after the Ravelling is over."
 
-"Huh."
+?????
 
-[????? Flow drop here]
+"And our second advantage is, the Blood God hasn't been rejuvenating any more than the Waiting God has."
 
-"And our chances are even better with how weak it is now."
+"Rejuvenating?"
 
-"What? You didn't say anything about the Blood God being weak."
 
-"I didn't? Oh. Well, <em>neither</em> of our gods has rejuvenated for the last seventy years."
+"That's what happens at the end of the Ravelling. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that that's how they stay strong, by getting a supply of new human threads every year. But if the human dies early, it's different. It takes the whole winter to fully link the human threads to the god threads. So if the human dies before that, the god has to pull back its own threads, while the human threads unravel and return to the world, like they normally do after death. The <em>other</em> three gods usually get to rejuvenate, but neither of <em>our</em> gods has rejuvenated for the last seventy years –"
 
-"Rejuvenated?"
-
-"That's what happens if we survive – our gods get to rejuvenate. It's the whole purpose of –"
-
-"But you said – wait, the Blood Child always dies too?! You could've mentioned that earlier!"
+"Wait, so the Blood Child always dies too?! You could've mentioned that earlier!"
 
 "I, I, I didn't think of it because it's not in my memories. But I looked up the records. The Blood Child usually gets killed by the other Ravellers <em>after</em> they kill me. So…"
 
@@ -501,11 +496,7 @@ It's because of the, the, the passage between the layers. Every time we enter an
 
 "Uh… sorry, you can keep explaining the rejuvenating thing now."
 
-"Rejuvenation is the whole purpose of the Ravelling, from the gods' point of view. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that that's how they stay strong, by getting a supply of new human threads every year. If they don't get that for too long… they get weaker."
-
-[????? Why did Rinn ask this?] "Does it only happen if we survive <em>all</em> the way? Like if one of the Ravellers gets through <em>most</em> of the layers and their soul is <em>mostly</em> intertwined…"
-
-"When a human dies, their soul unravels. If that happens, the god has to pull back the threads of its own soul, but the human parts just disperse. It takes the whole winter to fully link the human threads to the god threads. So it really only works if its human host survives to the end. That's what usually happens for the <em>other</em> three gods, but –"
+"Right. So, because our gods haven't been able to rejuvenate, they are slowly getting weaker. [????? Couple more details]
 
 "Then why do they kill each other?! Wouldn't all the gods be better off if we just didn't kill each other? Then the Blood God and the Waiting God could both rejuvenate –"
 
