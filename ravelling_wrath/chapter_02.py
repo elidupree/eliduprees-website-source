@@ -424,10 +424,10 @@ Yali launched into elaborate descriptions of everything, from the starry void of
 
 
 [????? Have to deal with the Stern God in the Otherworld
+
+
+
 [????? All of this is being cut:
-
-
-
 
 "So…" I said, "Waiting, Seeking, Stern, Broken, Blood. That's the same order as the city! If you count from top to bottom."
 
@@ -484,11 +484,27 @@ It's because of the, the, the passage between the layers. Every time we enter an
 "Rejuvenating?"
 
 
-"That's what happens at the end of the Ravelling. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that that's how they stay strong, by getting a supply of new human threads every year. But if the human dies early, it's different. It takes the whole winter to fully link the human threads to the god threads. So if the human dies before that, the god has to pull back its own threads, while the human threads unravel and return to the world, like they normally do after death. The <em>other</em> three gods usually get to rejuvenate, but neither of <em>our</em> gods has rejuvenated for the last seventy years –"
+"That's what happens at the end of the Ravelling. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that that's how they stay strong, by getting a supply of new human threads every year. But if the human dies early, it's different. It takes the whole winter to fully link the human threads to the god threads. So if the human dies before that, the god has to pull back its own threads, because when a human is killed in the Otherworld, their soul is actually damaged – they can't even manifest a new body –"
 
-"Wait, so the Blood Child always dies too?! You could've mentioned that earlier!"
+"They can't what a what now?"
 
-"I, I, I didn't think of it because it's not in my memories. But I looked up the records. The Blood Child usually gets killed by the other Ravellers <em>after</em> they kill me. So…"
+"Oh, they haven't covered that in your science classes?" she said. "So, you know how in this world, matter is dominant, and in the –"
+
+"– and in the Otherworld, souls are dominant?" At least my science classes had covered something <em>that</em> basic.
+
+"Yes. <em>Here</em>, you need to feed your body, and keep it from getting big holes in it, or you die, and your soul unravels too. But in the <em>Otherworld</em>, it's your soul that sustains your body, not the other way around. You don't have to eat, although you can if you want to. You also don't have to pee, or have periods –"
+
+"Sweet."
+
+"– and even if your body gets destroyed, you can technically still create a new one as long as your soul is strong enough. It's called <em>manifesting</em> – creating things, or reshaping things, using just the power of your soul. In fact, if any of the Chosen dies <em>before</em> they enter the Otherworld, the gods preserve their soul, and they can still run the Ravelling by manifesting a new body. But manifested matter can only exist in the Otherworld, not the material world, so when the Ravelling is over, you'd be dead for real."
+
+"<em>Man</em> that would suck. I'll definitely make sure not to die."
+
+Yali patted me on the head. "Good idea," she said. "In any case, [????? reminder that getting killed in the Otherworld damages the sole and means your God can't rejuvenate] The <em>other</em> three gods usually get to rejuvenate, but neither of <em>our</em> gods has rejuvenated for the last seventy years –"
+
+"Wait –" I began, suddenly putting things together. "So the Blood Child always dies too?! You could've mentioned that earlier!"
+
+"I, I, [????? I didn't think of it/I didn't have it fresh in my mind] because it's not in my memories. But I looked up the records. The Blood Child usually gets killed by the other Ravellers <em>after</em> they kill me. So…"
 
 "So if I don't kill you – <em>when</em> I don't kill you – there won't be a reason for the others to kill me either. That's… well, I wouldn't say it's a <em>relief</em>, but, you know…"
 
@@ -496,7 +512,7 @@ It's because of the, the, the passage between the layers. Every time we enter an
 
 "Uh… sorry, you can keep explaining the rejuvenating thing now."
 
-"Right. So, because our gods haven't been able to rejuvenate, they are slowly getting weaker. [????? Couple more details]
+"Right. So, because our gods haven't been able to rejuvenate, they are slowly getting weaker. [????? Couple more details]"
 
 "Then why do they kill each other?! Wouldn't all the gods be better off if we just didn't kill each other? Then the Blood God and the Waiting God could both rejuvenate –"
 
@@ -548,25 +564,7 @@ Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle a
 
 "Right!"
 
-"I didn't think about this before, but isn't it weird that after the gods pick us, they just leave us on Earth for three months before the Ravelling starts? What if one of us dies <em>here</em>? Do the gods get to redo their choice or what?"
-
-"Actually, if you die in the material world, the gods preserve your soul and you can still run the Ravelling with a manifested body."
-
-"A what?!"
-
-Yali began to ask, "You know how in this world, matter is dominant, and in the –"
-
-"– and in the Otherworld, souls are dominant?" It was some basic stuff you learned in science class.
-
-"Yes. <em>Here</em>, you need to feed your body, and keep it from getting big holes in it, or you die, and your soul unravels too. But in the <em>Otherworld</em>, it's your soul that sustains your body, not the other way around. You don't have to eat, although you can if you want to. You also don't have to pee, or have periods –"
-
-"Sweet."
-
-"– and even if your body gets destroyed, you can still create a new one as long as your soul is strong enough. It's called <em>manifesting</em> – creating things, or reshaping things, using just the power of your soul. The catch is that if you get attacked in the Otherworld, that generally damages your soul too, not just your body. And manifested matter can only exist in the Otherworld, not the material world, so when the Ravelling is over, you'd be dead for real."
-
-"<em>Man</em> that would suck. I'll definitely make sure not to die."
-
-Yali patted me on the head. "Good idea."
+[????? Section here was moved to above; fix the transition, probably put big break]
 
 We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she was <em>able</em> to the the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
 
