@@ -366,8 +366,6 @@ Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally
 
 There was an awkward pause. I scrambled for something to break the silence.
 
-[????? THIS transition works, but the rest of this section is insufficiently motivated:]
-
 "So… the Ravelling!" I said. "What's it actually like? Tell me everything."
 
 <bigbreak>
@@ -565,6 +563,10 @@ Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle a
 "Right!"
 
 [????? Section here was moved to above; fix the transition, probably put big break]
+
+<bigbreak>
+
+[????? maybe introductory one-liner]
 
 We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she was <em>able</em> to the the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
 
