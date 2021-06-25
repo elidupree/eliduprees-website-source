@@ -396,9 +396,13 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "And then the, uhh…" [????? Yali hadn't told me about the fourth layer yet. "Sorry, you can keep telling me about the layers now]
 
+Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, ?????
+
 [????? Broken God description, with a bit of fourth ring discussion]
 
-[????? I was morbidly curious to hear about the Blood God layer, was it [wrong thing]? Was it [wrong thing 2]? But when I asked Yali, she said:
+And finally…
+
+I couldn't wait to hear what the Blood God's world would be like. [????? was it [wrong thing]? Would it have flaming caverns full of monsters, like in the movies? But when I asked Yali, she said:
 
 "I don't know."
 
