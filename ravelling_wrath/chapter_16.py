@@ -210,7 +210,7 @@ Yali put her head down and concentrated, hunting in the memories. Pretty soon, s
 
 <bigbreak>
 
-So the question was – did Yali <em>not</em> have the memories of the Farseer who poisoned the Blood Child? Or did she just not remember <em>doing</em> it? Or was it the Blood God's memories that were wrong? Yali didn't think it was the last one. She was sure that Waiting God was hiding something from her.
+So the question was – did Yali <em>not</em> have the memories of the Farseer who poisoned the Blood Child? Or did she just not remember <em>doing</em> it? Or was it the Blood God's memories that were wrong? Yali didn't think it was the last one. She was sure that the Waiting God was hiding something from her.
 
 "Ugh," I said, "I wish I could remember their names. Or what they looked like. But all I can remember is their souls."
 
@@ -272,7 +272,7 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "I don't think these memories were <em>erased</em>." Her voice rang out loud and sudden, bursting with anger and realization. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories about the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting to make the smallest change with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
 
-"You <em>monster</em>…"
+"You <em>monster</em>… oh gods, what if I've told you all this before? And you – the Waiting God – chose to forget?"
 
 "What else are we forgetting?! If this much was hidden in plain sight and I didn't see it, there could be more! There could be – there could be – The books!!" she yelled. "I thought they were just oversimplifying things, but they left out the details on <em>purpose</em>! Think about it! The Waiting Temple are the historians, they're the ones who made these textbooks, this is what all the schools are teaching! The whole way we learn about Blood worshippers growing up is just history teachers saying how they were some bad people from the past who attacked the city –"
 
@@ -304,7 +304,7 @@ We were sitting in the middle of a huge mess of papers, copies of Yali's phone, 
 
 And most importantly, they were arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
 
-"It's a good thing your monastery had so many old books," I said. The history books had given us a lot of useful context, even if they were suspiciously terse about the Blood Temple. Most of them had been written <em>after</em> the Blood Temple fell, and they talked about the Blood Temple in the same way as the one we'd read earlier, sometimes even using almost exactly the same words. And the ones from <em>before</em> the fall didn't mention the Blood Temple at all – or more likely, the ones that <em>had</em> mentioned it had been purged from the monastery archives before Yali was born. The juiciest bit we'd gotten was from a crumbling newspaper. One article mentioned a court case about a Blood priest who'd been arrested by the Stern police. But it didn't really explain what the case was about. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
+"It's a good thing your monastery had so many old books," I said. The history books had given us a lot of useful context, even if they were suspiciously quiet about the Blood Temple. Most of them had been written <em>after</em> the Blood Temple fell, and they talked about the Blood Temple in the same way as the one we'd read earlier, sometimes even using almost exactly the same words. And the ones from <em>before</em> the fall didn't mention the Blood Temple at all – or more likely, the ones that <em>had</em> mentioned it had been purged from the monastery archives before Yali was born. The juiciest bit we'd gotten was from a crumbling newspaper. One article mentioned a court case about a Blood priest who'd been arrested by the Stern police. But it didn't really explain what the case was about. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
 
 Yali responded, "Honestly, I'm surprised at how many books <em>you've</em> been able to manifest. What with not caring about history and all."
 

@@ -134,7 +134,7 @@ I tried. "I told you, it doesn't work that way, it's not happening <em>right now
 
 "It's okay, keep going! Let the anger fill you, lash out however you feel like –"
 
-I sat down in the chair. "Ugh, fuck, you asshole…" Even though she wasn't officially forcing me this time, all those closed-in feelings came rushing back when I looked at the table that way again. Then, to make things worse, Yali pushed the wooden blocks in front of me. "Those FUCKING blocks!" I exploded. I grabbed one of them and pounded it on the table, yelling every insult that came into my head. "I can't BELIEVE you made me do this all day, you asshole! You Stern-blasted gatejammer! Shut-eye! Go drown in the Earth!" I swung the block up in the air, then hesitated.
+I sat down in the chair. "Ugh, fuck, you asshole…" Even though she wasn't officially forcing me this time, all those closed-in feelings came rushing back when I looked at the table that way again. Then, to make things worse, Yali pushed the wooden blocks in front of me. "Those FUCKING blocks!" I exploded. I grabbed one of them and pounded it on the table, yelling every insult that came into my head. "I can't BELIEVE you made me do this all day, you Stern-blasted asshole! Gate jammer! Shut-eye! Go drown in the Earth!" I swung the block up in the air, then hesitated.
 
 "You can throw it at me if you want." Yali raised her arms to cover her face. "I'm ready."
 
@@ -260,7 +260,7 @@ While we walked, I tried to make conversation. "You've been working really hard.
 
 "I am," she said simply. Even now, she was walking along at a steady pace, not showing any sign of fatigue, even though she'd just been on the treadmill for half an hour too.
 
-"You know you don't have to be so stoic about it, right?" I said. "You can be like 'Ow, my aching legs' and then I can be like 'I know right?' and then –"
+"You know you don't have to be so Stern about it, right?" I said. "You can be like 'Ow, my aching legs' and then I can be like 'I know right?' and then –"
 
 "Stop," said Yali forcefully. I was surprised into silence. [????? Rest of this section needs shortening/cleanup: As we walked, I waited for her to explain, but she seemed lost in thought.
 

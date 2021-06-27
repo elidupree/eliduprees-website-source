@@ -378,7 +378,7 @@ Second was the riddle-maze of the Seeking, [????? the god of curiosity and inven
 
 But then… the Stern.
 
-It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on the way to my school had been a vibrant place. There were colorful tents set up along the ?????, and it had almost been an open-air market, with musicians ?????, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! ????? Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
+It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on the way to my school had been a vibrant place. There were colorful tents set up along the ?????, and it had almost been an open-air market, with musicians playing on the sidewalks, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! ????? Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
 
 "I bet they want to make the whole city as boring as the third ring!" I exclaimed. The third ring was basically the Stern Temple's home turf, full of temples and courthouses and shit. Then I remembered we were <em>in</em> the third ring right now, because Yali lived here. "Uh, no offense."
 
@@ -386,7 +386,7 @@ Yali shrugged. "There's worse things than living in a boring place."
 
 And in the Otherworld… [????? we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but it was [the way it was]. And it was in the <em>middle</em> of the five layers, so you cannot put it off or get it over with early]
 
-"Wait. Third ring – third layer – that's not a coincidence, is it?"
+"Wait," I said. "Third ring – third layer – that's not a coincidence, is it?"
 
 Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first ring doesn't allow any lights at night – so that you can see the stars."
 
@@ -394,13 +394,11 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "It probably was!"
 
-"And then the, uhh…" [????? Yali hadn't told me about the fourth layer yet. "Sorry, you can keep telling me about the layers now]
+"And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling me about the layers now."
 
-Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, ?????
+Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's followers made no laws and built no temples, because the world was already its temple. The fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks ????
 
-[????? Broken God description, with a bit of fourth ring discussion]
-
-And finally…
+And fifth…
 
 I couldn't wait to hear what the Blood God's world would be like. [????? was it [wrong thing]? Would it have flaming caverns full of monsters, like in the movies? But when I asked Yali, she said:
 
@@ -410,54 +408,25 @@ I couldn't wait to hear what the Blood God's world would be like. [????? was it 
 
 "I, I died. There's only one time I make it to the fifth layer alive, and then I barely get a look at it before he's yelling and his blade is stabbing into me –"
 
-[????? "He killed you <em>right</em> after you got into the new layer? What are the chances?]
+"The Blood Child killed you <em>right</em> after you got there? What are the chances?"
 
 "It's not a coincidence," she said grimly. "
 
 
 
-Yali brightened a little. "Right! I've gotten so used to having these memories of it, it's hard to remember only knowing what I learned from – from school. What do you want to know about first?"
-
-"Uh… everything! Yeah, yeah. How about… what's the Otherworld like? All five layers?"
-
-Yali launched into elaborate descriptions of everything, from the starry void of the Waiting, to the riddle-maze of the Seeking, to the trials of the Stern, to the lush wilderness of the Broken. They all sounded so beautiful – except the Stern, anyway – and I couldn't wait to see them myself. Obviously, I didn't <em>want</em> to be involved in all this, but I really wanted to see them, too.
-
-
-
-
-[????? Have to deal with the Stern God in the Otherworld
-
 
 
 [????? All of this is being cut:
 
-"So…" I said, "Waiting, Seeking, Stern, Broken, Blood. That's the same order as the city! If you count from top to bottom."
 
-Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first ring doesn't allow any lights at night – so that you can see the stars."
+Yali brightened a little. "Right! I've gotten so used to having these memories of it, it's hard to remember only knowing what I learned from – from school. What do you want to know about first?"
 
-"I didn't know that! My parents did take me to a few museums in the second ring when I was a kid. I remember the roads being all twisty and I got really lost. It was built that way on <em>purpose</em>?"
-
-"It probably was!"
-
-"And the third ring is obvious, it's boring and strict, just like the Stern. Uh, no offense."
-
-Yali shrugged. "It's true, I live in a boring place." [????? maybe more like: sometimes it's better to live in a boring place]
 
 "What about the fourth ring? It's not all overgrown with plants like you said the Broken God's layer was in the Otherworld. I mean, there's a few parks, but it's mostly packed with buildings."
 
 "That <em>is</em> strange." Yali thought about it. "Maybe it's because the Broken God doesn't have any laws of its own. Maybe they just allowed people to build anything they want there, and the structure formed naturally. Not naturally like nature, just –"
 
-"Hang on. I was just thinking, didn't you say the gods pick the Ravellers based on their principles? But they say the Broken God itself doesn't really <em>have</em> any sort of intention or purpose, so how does it pick someone?"
-
-"That, that, that's something I don't actually know."
-
-"Oh well. What about the fifth ring, then? How is it like – wait, you haven't told me about the Blood God's layer yet."
-
-"I… didn't get a good look at it. In my memories, I mean. The only time I got there, I died right afterwards."
-
-"You died right after you got to the last layer? Well <em>that's</em> a shitty coincidence."
-
-"Not a coincidence. ]
+"Hang on. I was just thinking, didn't you say the gods pick the Ravellers based on their principles? But they say the Broken God itself doesn't really <em>have</em> any sort of intention or purpose, so how does it pick someone?"]
 
 
 
@@ -477,36 +446,35 @@ It's because of the, the, the passage between the layers. Every time we enter an
 
 "A wisdom… <em>rock</em>?"
 
-[????? "Sure, a wisdom rock. You ever wonder why we call the gods 'it' instead of 'he' or 'she'? That's why. With any luck, the Blood God won't understand what we're doing at all. At least not until after the Ravelling is over."
+"Sure, a wisdom rock. You ever wonder why we call the gods 'it', like an object? That's why. They really aren't like people. If the Blood God <em>does</em> notice what we're doing before the Ravelling is over… it, it'll still be slow to act. We'll probably have time to think about how to respond to it. Probably."
 
-?????
+That wasn't quite as reassuring as I would've liked. "So, what's our second advantage?"
 
-"And our second advantage is, the Blood God hasn't been rejuvenating any more than the Waiting God has."
+"The same way the Waiting God hasn't been rejuvenating… the Blood God hasn't been either."
 
-"Rejuvenating?"
+"Wait, back up. What's rejuvenating?"
 
-
-"That's what happens at the end of the Ravelling. When the Ravelling is over, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that that's how they stay strong, by getting a supply of new human threads every year. But if the human dies early, it's different. It takes the whole winter to fully link the human threads to the god threads. So if the human dies before that, the god has to pull back its own threads, because when a human is killed in the Otherworld, their soul is actually damaged – they can't even manifest a new body –"
+"That's what happens at the end of the Ravelling. After we get through the five layers, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that's how they stay strong, by getting a supply of new human threads every year. But if the human dies early, it's different. It takes the whole winter to fully link the human threads to the god threads. So if the human dies before that, the god has to pull back its own threads, because when a human is killed in the Otherworld, their soul is actually damaged – they can't even manifest a new body –"
 
 "They can't what a what now?"
 
 "Oh, they haven't covered that in your science classes?" she said. "So, you know how in this world, matter is dominant, and in the –"
 
-"– and in the Otherworld, souls are dominant?" At least my science classes had covered something <em>that</em> basic.
+"– and in the Otherworld, souls are dominant?" At least my classes had covered something <em>that</em> basic.
 
 "Yes. <em>Here</em>, you need to feed your body, and keep it from getting big holes in it, or you die, and your soul unravels too. But in the <em>Otherworld</em>, it's your soul that sustains your body, not the other way around. You don't have to eat, although you can if you want to. You also don't have to pee, or have periods –"
 
 "Sweet."
 
-"– and even if your body gets destroyed, you can technically still create a new one as long as your soul is strong enough. It's called <em>manifesting</em> – creating things, or reshaping things, using just the power of your soul. In fact, if any of the Chosen dies <em>before</em> they enter the Otherworld, the gods preserve their soul, and they can still run the Ravelling by manifesting a new body. But manifested matter can only exist in the Otherworld, not the material world, so when the Ravelling is over, you'd be dead for real."
+"– and even if your body gets destroyed, you can technically still create a new one as long as your soul is strong enough. It's called <em>manifesting</em> – creating things, or reshaping things, using just the power of your soul. In fact, even if you die <em>before</em> you enter the Otherworld, the gods preserve your soul, and you can still run the Ravelling by manifesting a new body. But manifested matter can only exist in the Otherworld, not the material world, so when the Ravelling is over, you'd be dead for real."
 
 "<em>Man</em> that would suck. I'll definitely make sure not to die."
 
-Yali patted me on the head. "Good idea," she said. "In any case, [????? reminder that getting killed in the Otherworld damages the sole and means your God can't rejuvenate] The <em>other</em> three gods usually get to rejuvenate, but neither of <em>our</em> gods has rejuvenated for the last seventy years –"
+Yali patted me on the head. "Good idea," she said. "In any case… The <em>other</em> three gods usually get to rejuvenate. But neither of <em>our</em> gods has rejuvenated for the last seventy years –"
 
 "Wait –" I began, suddenly putting things together. "So the Blood Child always dies too?! You could've mentioned that earlier!"
 
-"I, I, [????? I didn't think of it/I didn't have it fresh in my mind] because it's not in my memories. But I looked up the records. The Blood Child usually gets killed by the other Ravellers <em>after</em> they kill me. So…"
+"I, I, I didn't mean to leave it out, I just forgot because it's not in my memories. I had to look it up. The Blood Child usually gets killed by the other Ravellers <em>after</em> they kill me. So…"
 
 "So if I don't kill you – <em>when</em> I don't kill you – there won't be a reason for the others to kill me either. That's… well, I wouldn't say it's a <em>relief</em>, but, you know…"
 
@@ -514,15 +482,15 @@ Yali patted me on the head. "Good idea," she said. "In any case, [????? reminder
 
 "Uh… sorry, you can keep explaining the rejuvenating thing now."
 
-"Right. So, because our gods haven't been able to rejuvenate, they are slowly getting weaker. [????? Couple more details]"
+"Right. So, because all the Farseers and Blood Children have been killed <em>in the Otherworld</em>, their souls have been damaged, and our gods haven't been able to rejuvenate. So they are slowly getting weaker. The Blood God is still dangerous, but each year, it's a tiny bit less powerful. That's not going to keep us safe, but, it gives us a chance. And the Waiting God is weaker too. My powers won't be quite the same as the old Farseers… and its, its worlds are a little less elaborate than they used to be…"
 
 "Then why do they kill each other?! Wouldn't all the gods be better off if we just didn't kill each other? Then the Blood God and the Waiting God could both rejuvenate –"
 
 "They would be! I have no idea why the Blood God started killing –"
 
-"What about your memories? Even if the Blood God didn't, like, explain its reasons – can you think of anything that happened before it started?"
+"What about your memories? Even if the Blood God didn't tell you why – wouldn't you still have noticed something when it started?"
 
-"But I don't <em>have</em> memories from before. I only have the memories of the Farseers who died. I think the Waiting God can preserve your memories if you die, but can't just copy your memories if you're still alive. Either way, I don't know about the time before. My first few deaths aren't even much different than the others."
+"But I don't <em>have</em> memories from before it started. I only have the memories of the Farseers who died. I think the Waiting God can preserve your memories if you die, but can't just copy your memories if you're still alive… so, so I can't look back further than that. And my first few deaths aren't even much different than the others."
 
 I kicked the table. "For fuck's sake! I don't want us to die without even knowing why!"
 
@@ -565,8 +533,6 @@ Yali didn't say anything.
 Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle and stuff…"
 
 "Right!"
-
-[????? Section here was moved to above; fix the transition, probably put big break]
 
 <bigbreak>
 
