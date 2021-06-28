@@ -38,8 +38,6 @@ posts = [
   "chapter_title": "The Plan",
   "content_warnings": '''<p>Description of anti-gay attitudes; verbally abusive language; brief mention of sexual assault.</p>''',
   "contents": '''
-  
-[????? much of the dialogue in this chapter can be tightened up a little]
 
 "This is your mind."
 
@@ -396,7 +394,7 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling me about the layers now."
 
-Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's followers made no laws and built no temples, because the world was already its temple. The fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks ????
+Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's followers made no laws and built no temples, because the world was already its temple. The fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks ?????
 
 And fifth…
 
@@ -536,8 +534,6 @@ Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle a
 
 <bigbreak>
 
-[????? maybe introductory one-liner]
-
 We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she was <em>able</em> to the the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
 
 Finally, hours later, Yali said, "It's time for me to settle down for the night. Before I send you home, let's go ahead and try the Seeing."
@@ -586,15 +582,11 @@ I was getting jittery just sitting on the couch next to her. So I got up and sta
 
 Everything in Yali's house was neat and orderly. Her shoes were all in a row next to the door, with her coats hanging just above. At the other end of the room there was a kitchen area, with a clean sink – no dirty dishes stacked in it like there always were at my place. ("A dirty kitchen means an uncivilized life", Dad always complained, not that <em>he</em> cleaned up any more than the rest of us.) The only thing that wasn't in order was my own bags, which I'd just thrown on the floor at random.
 
-I paced all the way to the far corner, where a space heater hummed away, even though it wasn't that cold today. Then I paced back. Each time I turned around, I glanced over to check on Yali. She was still just sitting there, looking into the distance. The papers she'd drawn on were still lying on the table in front of her, along with her laptop, which we'd opened to look some stuff up.
+I paced all the way to the far corner, where a space heater hummed away, even though it wasn't that cold today. Then I paced back. Each time I turned around, I glanced over to check on Yali. She was still just sitting there, looking into the distance. The papers she'd drawn on were still lying on the table in front of her, along with her laptop, which we'd opened to look some stuff up. It was eerily quiet, belying the magic that was going on.
 
-[????? I felt like the summary had gone too long when it continued into this next paragraph:]
+But at last, I heard Yali give a heavy breath.
 
-Back in the other direction was a big window, with some nice curtains. I liked the pattern on them, and it was already dark outside, so I walked over to them and pulled them closed. I made sure to neaten them up so they'd match the rest of the room.
-
-Just then, I heard Yali jerk awake behind me. I rushed over to her.
-
-She didn't even lift her head, but her eyes focused on me, so I could tell she was back. "You can… talk to… Layo," she said dully.
+I rushed to her side. She didn't even lift her head, but her eyes focused on me, so I could tell she was back. "You can… talk to… Layo," she said dully.
 
 "You okay? Can I get you anything?"
 
