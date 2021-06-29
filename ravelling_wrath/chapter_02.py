@@ -179,6 +179,8 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "No, I meant the other way around! I mean your – you said you had a 'personal thing'? I wish I knew what it was here, but I can respect that, but like, what are you going to do – <em>not</em> have a personal thing? You're allowed to have some personal things! And every time you have a personal thing, are you going to be worrying about whether it strains our relationship? Seriously, it's okay, I'm literally telling you it's okay. Look, what do I have to do to convince you it's okay?"
 
+Yali was silent, deep in thought.
+
 [????? Yali thought about it gravely, and I worried about her she was feeling]
 
 At last, she spoke. "I will use the Seeing," she said.
