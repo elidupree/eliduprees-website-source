@@ -170,7 +170,9 @@ I met Layo at lunch that day. I ran up and gave him a big hug – our usual gree
 
 <em>So much</em> was up. I opened my mouth to start telling him all about – well, to tell him that I <em>would</em> have something big to tell him when we could talk in private. All I'd have to do was open my mouth and say "Layo, I've got some big news, when can we talk?"
 
-But… something stopped me. It was just too much to explain. It would take forever. And anyway, I had something else on my mind. "Layo, what makes me mad?" I said.
+[????? Tweak this paragraph: the transition to the next dialogue doesn't quite flow, and maybe there's a more specific emotional thing, like about being uncomfortable to get into serious things when it's easier to stick to your fun-friendship habits] But… something stopped me. It was just too much to explain. It would take forever. And anyway, I had something else on my mind.
+
+"Layo, what makes me mad?" I said.
 
 "Assholes?"
 
@@ -198,7 +200,7 @@ I smirked. "Yeah, I pretty much didn't care about that."
 
 "That's okay! I didn't mean to say –"
 
-Before Layo could give any more unnecessary apologies, I tried a different angle. "How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
+Before Layo could waste anymore time apologizing, I tried a different angle. "How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
 
 Layo got a mischievous look on his face. "We-ell…" he said, pretending like he was mulling over my question. "Obviously, I'd murder your parents right in front of you. Obviously."
 
