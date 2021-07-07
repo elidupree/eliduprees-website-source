@@ -378,7 +378,7 @@ Second was the riddle-maze of the Seeking, [????? the god of curiosity and inven
 
 But then… the Stern.
 
-It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on the way to my school had been a vibrant place. There were colorful tents set up along the ?????, and it had almost been an open-air market, with musicians playing on the sidewalks, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! ????? Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
+It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on Mill Street had been a vibrant place. There were colorful tents set up along the walkways, and it had almost been an open-air market, with musicians playing on the sidewalks, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! Mill Street Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings on my way to school. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
 
 "I bet they want to make the whole city as boring as the third ring!" I exclaimed. The third ring was basically the Stern Temple's home turf, full of temples and courthouses and shit. Then I remembered we were <em>in</em> the third ring right now, because Yali lived here. "Uh, no offense."
 
@@ -396,11 +396,11 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling me about the layers now."
 
-Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's followers made no laws and built no temples, because the world was already its temple. The fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks ?????
+Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's followers made no laws and built no temples, because the world was already its temple. The fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks, in between the mess of stores and houses and abandoned factories.
 
 And fifth…
 
-I couldn't wait to hear what the Blood God's world would be like. [????? was it [wrong thing]? Would it have flaming caverns full of monsters, like in the movies? But when I asked Yali, she said:
+I couldn't wait to hear what the Blood God's world would be like. Would there be monsters for us to fight? Would it have flaming caverns full of ?????, like in the movies? But when I asked Yali, she said:
 
 "I don't know."
 
