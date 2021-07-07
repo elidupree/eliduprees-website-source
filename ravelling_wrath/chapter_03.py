@@ -378,7 +378,7 @@ Yali sort of choked, like she was suppressing a laugh.
 
 "Oh my gods, I can't believe you even thought of that."
 
-Yali chuckled. Then she focused again. "These two stories have a lot in common," she said.
+Yali gave a wry smile. Then she focused again. "These two stories have a lot in common," she said.
 
 "They do?"
 
@@ -466,9 +466,9 @@ Yali was looking at me.
 
 "No! You, you…" she shifted uneasily, "you're thinking exactly how you should be."
 
-[????? Rinn reached this conclusion too easily:] I leaned in towards her. "You're just <em>that</em> worried about hurting me, huh?"
+Then it hit me. "You're worried, aren't you?" I said gently, leaning in towards her. "Worried that someone'll get hurt if you let yourself do what you're thinking of –"
 
-Yali flushed. I didn't understand how she was acting. Had I said something wrong? "Er," I began, "I didn't mean to, uh –"
+Yali flushed. Shit, had I said something wrong? "Er," I began, "I didn't mean to, uh –"
 
 "You're fine." Yali hesitated, then squeezed my hand. "We can do this." And just like that, it was decided. And also just like that, Yali was back to being calm and collected, like always. She did insist on going over what things I'd be okay with, even going into detail about the the stuff we'd already talked about the other day. Things like "But if I hit you, what if it leaves a mark?" And of course, I was like "Haha, no one will think twice if they see <em>I</em> got slapped by somebody." But that was her way of doing things, so I didn't argue with it. Finally, she ran out of things to ask about, and said, "If I think of anything else, I'll text you. Like, I'll think of things to do during the ordeal, and you can tell me if you're okay with them, and you can also tell me if you think they'd make you angry."
 
