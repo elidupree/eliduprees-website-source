@@ -34,7 +34,7 @@ The explanation had been simple enough. "I'm going to have you do a series of ga
 
 "The first one is the Releasing Game, where you let yourself feel whatever you <em>want</em> to feel. The game is to let your anger run wild. Then once you're fully angry, we can do the other games, like the Calming Game, where you try to bring yourself down again."
 
-I had let her go on with the explanation. If I had trouble getting mad for the games, Yali'd said, she could help me like she had in the ordeal we've just done. And there were a lot of variations of the games – there was the Controlling Game where you stay angry but just don't <em>do</em> anything, the Expressing Game where you yell about things that don't <em>hurt</em> anyone, and so on. The idea was, if I practiced doing these games enough, then I'd get better at controlling my emotions, even when I wasn't doing the games on purpose. I listened to all of it and acted like I was interested, and I even asked her some questions about it. But I was only dragging it out. The longer the explanation went, the longer I could put off actually <em>doing</em> it.
+I had let her go on with the explanation. If I had trouble getting mad for the games, Yali'd said, she could "help" me get mad, just like she had in the ordeal we've just done. And there were a lot of variations of the games – there was the Controlling Game where you stay angry but just don't <em>do</em> anything, the Expressing Game where you yell about things that don't <em>hurt</em> anyone, and so on. The idea was, if I practiced doing these games enough, then I'd get better at controlling my emotions, even when I wasn't doing the games on purpose. I listened to all of it and acted like I was interested, and I even asked her some questions about it. But I was only dragging it out. The longer the explanation went, the longer I could put off actually <em>doing</em> it.
 
 But finally, I couldn't think of any more questions. The time had come to get started. But…
 
@@ -50,7 +50,7 @@ But finally, I couldn't think of any more questions. The time had come to get st
 
 "You know this is an exercise, right? It's not –"
 
-"Of course I fuckin' know," I said glumly. "I just… I don't believe it. I mean, I believe it, but I don't <em>really</em> believe it. I mean –"
+"Of course I fuckin' know," I said glumly. "I <em>know</em> it's not dangerous! I just… I don't believe it. I mean, I believe it, but I don't <em>really</em> believe it. I mean –"
 
 "You don't believe it in your heart."
 
@@ -172,7 +172,7 @@ And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling
 
 Finally, we were both too exhausted to go on. Yali told me I'd done a great job, but I still didn't feel like I'd gotten anything done at all. Worse, when I got up to jog home as usual, it was just too overwhelming to think of. I ended up flopping on Yali's couch that night. I went to sleep feeling weird, almost disoriented.
 
-In the next week or so, we saw a lot of each other. Every time we hung out, we did some more of the "games". I still didn't really get it, but Yali was sure I was making progress, and I had to do <em>something</em>. Even if I wanted to procrastinate, we were on a clock – the Ravelling was just six weeks away. If I ever spent a week putting it off… Well. It could get us both killed. Nothing like a little fear of death to get me off my ass, haha.
+In the next week or so, we saw a lot of each other. Every time we hung out, we did some more of the "games". I still didn't get it, but Yali was sure I was making progress, and I had to do <em>something</em>. Even if I wanted to procrastinate, we were on a clock – the Ravelling was just six weeks away. If I ever spent a week putting it off… Well. It could get us both killed. Nothing like a little fear of death to get me off my ass, haha.
 
 <bigbreak>
 
@@ -230,9 +230,9 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily… and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the thing I really can't stand is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So, I know just exercising won't fix everything, but I, I, I really want to get in better shape. I guess it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to just do the Waiting God wants, too, I…" Yali trailed off.
 
-I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize. It would even make me feel better! It was so tiring to just keep grinding away at the "games", I'd be glad to make a real emotional connection. But the problem was, I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was so special about defying the <em>Waiting</em> God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
+I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize. It would even make me feel better! But the problem was, I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was so special about defying the <em>Waiting</em> God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
 
-Yali still looked sort of downcast. "Will you go with me… more than just once? I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried that people will be judging me because I'm fat. But now it occurs to me that my life is more important than other people judging me. But…"
+Yali still looked sort of downcast. "Will you go with me… more than just once? I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried that people will be judging me because I'm fat. I try to tell myself that my life is more important than other people judging me, but…"
 
 Now <em>this</em> I could make sense of. "Of course I'll go with you! It'd be no big deal, really. Nobody will look at you funny when I'm around, I'll beat them up."
 
@@ -246,7 +246,7 @@ Yali gave a half smile. "Please don't actually beat anyone up for my sake."
 
 "I still don't feel like I'm <em>doing</em> anything," I said, as we walked home from the gym one day.
 
-"You are, and I ?????greatly appreciate it."
+"You are, and I appreciate it greatly."
 
 "Eh…"
 
@@ -262,13 +262,13 @@ While we walked, I tried to make conversation. "You've been working really hard.
 
 "You know you don't have to be so Stern about it, right?" I said. "You can be like 'Ow, my aching legs' and then I can be like 'I know right?' and then –"
 
-"Stop," said Yali forcefully. I was surprised into silence. [????? Rest of this section needs shortening/cleanup: As we walked, I waited for her to explain, but she seemed lost in thought.
+"Stop," said Yali forcefully. I was surprised into silence.
 
-Finally, I figured she'd forgotten about it, and began, "Uh, what –"
+"Uh…" I began, after a moment. "What –"
 
-Yali interrupted before I could even ask my question. When she spoke, she didn't seem that upset from the outside – but compared to how she normally was, she was practically <em>radiating</em> discomfort. "I know I'm not, not, not <em>good</em> at expressing myself when I'm, I'm, when something hurts. But just… <em>don't</em>. It's, it's easier this way."
+Yali started answering before I'd even asked my question. When she spoke, she didn't seem that upset from the outside – but compared to how she normally was, she was practically <em>radiating</em> discomfort. "I know I'm not, not, not <em>good</em> at expressing myself when I'm, I'm, when something hurts. But just… <em>don't</em>. It's, it's easier this way."
 
-I had loads of questions, but I could tell it wasn't the right time for them. "It's okay, it's okay, I can respect that. Contrary to popular belief, I <em>sometimes</em> know when to shut up."
+I had loads of questions, but something told me it wasn't the right time for them. "It's okay, it's okay, I can respect that. Contrary to popular belief, I <em>sometimes</em> know when to shut up."
 
 <bigbreak>
 

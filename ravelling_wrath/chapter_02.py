@@ -384,7 +384,7 @@ It was bad enough that we had to deal with the Stern in our own world. The Stern
 
 Yali shrugged. "There's worse things than living in a boring place."
 
-And in the Otherworld… [????? we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but it was [the way it was]. And it was in the <em>middle</em> of the five layers, so you cannot put it off or get it over with early]
+And in the Otherworld… [????? we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but it was [the way it was]. And it was in the <em>middle</em> of the five layers, so you couldn't put it off or get it over with early]
 
 "Wait," I said. "Third ring – third layer – that's not a coincidence, is it?"
 

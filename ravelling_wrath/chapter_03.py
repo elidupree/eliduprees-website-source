@@ -162,8 +162,6 @@ I gave an internal sigh of relief. Mom wasn't trying to press the issue. I could
 
 <bigbreak>
 
-[????? There are some slow points in this section; just tighten it up]
-
 I met Layo at lunch that day. I ran up and gave him a big hug – our usual greeting. He hugged me back and grinned at me.
 
 "Hey hey, what's up?"
@@ -176,7 +174,7 @@ But I did have <em>one</em> thing I needed to ask him.
 
 "Layo, what makes me mad?" I said.
 
-"Assholes?" he replied, without missing a beat.
+"Assholes?" he answered, not missing a beat.
 
 "No, what makes me <em>really</em> mad?"
 
@@ -204,7 +202,7 @@ I smirked. "Yeah, I pretty much didn't care about that."
 
 Before Layo could waste any more time apologizing, I tried a different angle. "How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
 
-Layo got a mischievous look on his face. "We-ell…" he said, pretending like he was mulling over my question. "Obviously, I'd murder your parents right in front of you. Obviously."
+<em>That</em> worked. Right away, Layo got a mischievous look on his face. "We-ell…" he said, pretending like he was mulling over my question. "Obviously, I'd murder your parents right in front of you. Obviously."
 
 "Hey!"
 
@@ -220,7 +218,7 @@ Layo got a mischievous look on his face. "We-ell…" he said, pretending like he
 
 "Leave her alone, oh mighty and exalted!" came a sarcastic yell. Some of my other friends were showing up. Dehel, the one who'd yelled, always made a splash – he towered over everyone and wore asymmetric makeup on purpose, you couldn't miss him. After him, Pèi was hurrying to keep up, with her spiky collar and duct-taped jeans, looking like she was gearing up to say something even more sarcastic. And behind <em>her</em> –
 
-"Everyone calm down," I said, laughing. I wasn't <em>against</em> yelling at a few authority figures, but I had better things to do right now. "I promise I'll clean it up, okay?"
+"Everyone calm down," I said, laughing. I wasn't <em>against</em> yelling at a few Stern authority figures, but I had better things to do right now. "I promise I'll clean it up, okay?"
 
 "Just don't do it again." Heh. If they actually made me clean it up, I'd just end up making a bigger mess, and they knew it.
 
@@ -414,29 +412,19 @@ Yali hesitated. "My idea is to, to, to <em>explore</em> your ways of feeling ang
 
 "Yeah, it <em>sort of</em> worked, just like those other times. But, like, it's in the past, right? I can't just get mad about it again just because I want to. Like, I'm here with you now, it's different."
 
-[????? Wasted a bit too much time here:
-
 "That's the problem… a…"
 
 "A what?"
 
-Yali didn't answer. She was deep in thought. I wanted to know what she was thinking, but I knew how she got when she was like this – if I tried to interrupt her, she'd just mumble something incomprehensible and then take even longer.
-
-I finished my food. Yali finished hers and pushed her plate aside. She was still looking down in silence.
+Yali didn't answer. She was deep in thought. I wanted to know what she was thinking, but I knew how she got when she was like this – if I tried to interrupt her, she'd just mumble something incomprehensible and then take even longer. So I finished my food in slience, letting her take as much time as she needed. Once we were both sitting staring at empty plates, though, I started to get a little restless.
 
 "So, are you going to –" I began.
 
-"I've had an idea." Then she was quiet again.
+"I've had an idea." Then she was quiet again. "It's, it's, I don't know if it's okay."
 
-"…okay, spit it out."
+"…go on, spit it out."
 
-"It's, it's, I don't know if it's okay."
-
-"Just tell me."]
-
-Yali fidgeted with her plate. "You are too comfortable. I've never seen you stay uncomfortable for very long. I don't mean physically, I mean, you always, whenever something hurts you, you always find a way to say, 'well that's no big deal'." Yali swallowed. "I wonder what would happen if you couldn't do that. What if I – we – put you through a, an <em>ordeal</em>, where you <em>couldn't</em> make yourself comfortable…"
-
-[????? Once again, a few too many lines here:
+Yali compulsively neatened her plate. "You are too comfortable," she said. "I've never seen you stay uncomfortable for very long. I don't mean physically, I mean, you always, whenever something hurts you, you always find a way to say, 'well that's no big deal'." Yali swallowed. "I wonder what would happen if you couldn't do that. What if I – we – put you through a, an <em>ordeal</em>, where you <em>couldn't</em> make yourself comfortable…"
 
 "You can <em>do</em> that?"
 
@@ -456,9 +444,9 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 
 "I'm fine with it. I literally <em>just</em> said –"
 
-"Stop. Just this once, can I ask you to take some time and think it through? If this works, it'll be a really unpleasant experience for you. So I don't want to jump into it unless you're sure about it."]
+"Stop. Just this once, can I ask you to take some time and think it through? If this works, it'll be a really unpleasant experience for you. So I don't want to jump into it unless you're sure about it."
 
-"How bad can it be?" I said. Yali stared back at me. "Fuck, I bet that's exactly what you <em>didn't</em> want me to say. Okay, give me a minute." I said. I looked down at the table. What was I supposed to do, though – think like a careful person? What <em>would</em> a careful person do in this situation? "Okay, so I <em>want</em> to challenge myself, but I guess I need to be worried about, uh… like if it could cause lasting damage to my psyche? That's just, like, no way – I'm not a 'lasting damage to my psyche' sort of person. Or if it… messes up our relationship? But I'll <em>know</em> you're just doing it because, you know –"
+"How bad can it be?" I said. Yali stared back at me. "Fuck, I bet that's exactly what you <em>didn't</em> want me to say. Okay, give me a minute." I looked down at the table. What was I supposed to do, though – think like a careful person? What <em>would</em> a careful person do in this situation? "Okay, so I <em>want</em> to challenge myself, but I guess I need to be worried about, uh… like if it could cause lasting damage to my psyche? That's just, like, no way – I'm not a 'lasting damage to my psyche' sort of person. Or if it… messes up our relationship? But I'll <em>know</em> you're just doing it because, you know –"
 
 Yali was looking at me.
 
