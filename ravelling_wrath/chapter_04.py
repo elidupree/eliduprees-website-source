@@ -190,7 +190,7 @@ After having the dream like half a dozen times, I thought of telling Yali about 
 
 "– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. That face, I think, that is, I, I…" she trailed off.
 
-[????? Cut all of this: "That is what?"
+"That is what?"
 
 "Why do you love me so much?" said Yali suddenly.
 
@@ -198,15 +198,7 @@ After having the dream like half a dozen times, I thought of telling Yali about 
 
 Yali gave an embarrassed smile. "No, no, I, I mean, I've been meaning you to ask, I mean, it's obvious that you <em>do</em> love me, but, but, wait, I don't mean I'm insecure about it, but, I just want to understand, what is it <em>about</em> me? Like, what do you <em>look</em> for, in, in… someone?"
 
-"How am I supposed to know that? I mean, you're, like, sexy, and smart, and caring, but like, I don't fall in love with <em>everyone</em> who's sexy and smart and caring, it's just one of those things, you know, –"
-
-"Am I? Sexy, I mean. I –"
-
-"I thought you just said you weren't insecure about stuff!"
-
-"Uh, I'm not. I don't think I'm <em>not</em> sexy, I just didn't think of myself that way. There's a million things more important than being sexy. But what I mean is… since it's subjective anyway… what makes someone sexy to <em>you</em>?"
-
-"For me, I think it's like… it's about how you move? Like, whenever someone's got that thing where they move so <em>confidently</em>, like they don't care what anybody thinks, it's like, <em>woah</em>. Even boys! Layo's got it – I mean, he's a boy, so I'm not really interested in him romantically, but I definitely think he's hot."
+"I mean, I just know when I like someone? 'Lucky if we understand what the Seeking gives us,'" I quoted. "I mean, with <em>you</em>, it's like, you're sexy, and you're smart, and you're caring, and, there's this thing about how you move – like, whenever someone's got that thing where they move so <em>confidently</em>, like they don't care what anybody thinks, it's like, <em>woah</em>. Even boys! Layo's got it – I mean, he's a boy, so I'm not really interested in him romantically, but I definitely think he's hot."
 
 Yali smiled. "Does <em>he</em> know that?"
 
@@ -216,9 +208,9 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "He's not gay, he's just decided not to date anyone until he's older. No casual sex, either. I don't get it, but it's his own business."
 
-"Ah… Going back, you think <em>I</em> move confidently? I know it's subjective, but I usually feel slow and clumsy, so, so, wait, that reminds me –"
+"Ah… Going back, I'm surprised you said that I move confidently. I'm always trying to be careful about how I move, because I'm clumsy and I'll slip or drop something if I don't do it exactly right. Other people have told me it looks awkward, but it's what I have to do. In fact – there's actually something I wanted to ask you –"
 
-"Well, I mean, actually one of the first times I noticed I was attracted to you was when you were, like, we were in class, and you were just sort of awkwardly getting out of a chair. Gods, I could watch you awkwardly get out of a chair <em>all day</em>. It's just so, so –" Then I realized I had interrupted Yali, so I shut up. Yali didn't say anything right away. "Er, were you gonna say something?" ????? End of part to cut]
+"Who cares if it looks awkward! The way you move is great! Honestly that was one of the first times I really noticed you – you were, like, we were in class, and you were just sort of awkwardly getting out of a chair. Gods, I could watch you awkwardly get out of a chair <em>all day</em>. It's just so, so –" Then I realized I had interrupted Yali, so I shut up. "Er, were you gonna say something?"
 
 "Yes… You know how you keep wanting to be able to help me somehow?"
 
