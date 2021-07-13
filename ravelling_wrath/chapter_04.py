@@ -266,7 +266,9 @@ I had loads of questions, but something told me it wasn't the right time for the
 
 [????? This section spent too much time not really going somewhere; perhaps just skip between the high points]
 
-[????? Introduce with a promise like "it was October by the time we had a breakthrough on the games"]
+[????? Introduce with a promise like "it was October by the time we had a breakthrough on the games". Or even "we hit a breakthrough, but also a big problem". "It was already October by the time we started getting somewhere on controlling my emotions. And when we did, it [caused all kinds of trouble]"
+
+It started out like any other day, hanging out at Yali's house, running through the "games" for the umpteenth time.]
 
 "Expressing Game," said Yali.
 
@@ -308,7 +310,7 @@ That night, I even went to bed by my official bedtime. Probably blew Mom and Dad
 
 <bigbreak>
 
-[????? Somewhat cut down the lead-in before we get to the two friends)
+[????? Somewhat cut down the lead-in before we get to the two friends. Again, promise theory the first line a little better: "I wanted [to just bounce back from the above section], but it turned out to suck! And now there I was, leaning on the…]
 
 There I was, leaning on the wall after school, staring at my phone. At an unanswered text from Yali.
 
