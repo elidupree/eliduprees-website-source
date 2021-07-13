@@ -264,31 +264,29 @@ I had loads of questions, but something told me it wasn't the right time for the
 
 <bigbreak>
 
-[????? This section spends too much time not really going somewhere; perhaps just skip between the high points]
+[????? This section spent too much time not really going somewhere; perhaps just skip between the high points]
+
+[????? Introduce with a promise like "it was October by the time we had a breakthrough on the games"]
 
 "Expressing Game," said Yali.
 
-We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it. I could pretty much do what she wanted for most of them – whenever she said "releasing game" now, I could sort of <em>turn the anger back on</em> from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever she wanted me to do with it. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Even when we officially stopped doing the games, I was always tired and irritable afterwards. Yali seemed to think I would get there eventually, but number one, <em>how the fuck?</em>, and number two, how much time did she think we had? It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling. We'd used up more than half our time, and I didn't feel halfway prepared.
+We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it – whenever she said "Releasing Game" now, I could sort of <em>turn the anger back on</em> from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Yali seemed to think I'd get there eventually, but number one, <em>how the fuck?</em>, and number two, we were running out of time. It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling, and I didn't feel halfway prepared.
 
-And now we were sitting here, doing the same thing that hadn't worked for the last half-hour. Or maybe it hadn't even been half an hour. Whatever. "Ugh, the Expressing Game is the hardest," I complained.
+And now we were sitting here, doing the same thing that hadn't been working. "Ugh, the Expressing Game is the hardest," I complained.
 
 "Oh? I thought letting you yell about things would give you an outlet."
 
 "Yeah, but, I mean, the more I yell, the more I want to <em>do</em> something, you know? It's just so, <em>argh</em> –" I made a fist to demonstrate. "At least with the Controlling Game I can just <em>not</em> do anything…"
 
-"Good to know…" Yali was lost in thought for a while. Then she spoke up as if she'd had an idea. "I've been using the Expressing Game when I wanted to give you a bit of a break –"
-
-"– Stern take it all –"
-
-"– but maybe I should use it as a bigger challenge instead. So, let's try, let's try… Yell at me as bitterly as you can, but don't move at <em>all</em>. And, and, keep your hands open on the table."
+"Good to know…" Yali stopped and thought for a while. And of course, when she was done, she'd found a way to make it even <em>more</em> evil. "If that's the bigger challenge, let's see how far we can go with it. So, let's try, let's try… Yell at me as bitterly as you can, but don't move at <em>all</em>. And, and, keep your hands open on the table."
 
 "Oh, fuck you!"
 
 "Yeah, but with your hands open."
 
-I did what she said. Every time I yelled, it sent a wave through my body, making my hands want to clench, my body want to lean forward, jump up from the chair, anything. But I had to hold myself back. It was torture. Each word just exploded out of my mouth, leaving a lump of pain that piled up with all the others. If only I could just stop. Why did I keep making myself do this?
+I did what she said. Every time I yelled, it sent a wave through my body, making my hands want to clench, my body want to lean forward, jump up from the chair, anything. But I had to hold myself back. It was torture. Each word just exploded out of my mouth, leaving a lump of pain that piled up with all the others.
 
-"Controlling Game," Yali said finally. I slumped back in the chair as relief flooded through me. I didn't even think about what I was supposed to do next, I was just glad it was over. After a little while, Yali continued, "Calming Game."
+"Controlling Game," Yali said finally. I slumped back in the chair as relief flooded through me. I didn't even think about what I was supposed to do next, I was just glad it was over. By the time she said "Calming Game," ?????
 
 "Yeah, yeah, I did it," I said dully. "I'm not angry anymore."
 
@@ -316,7 +314,7 @@ There I was, leaning on the wall after school, staring at my phone. At an unansw
 
 Ugh, this wasn't supposed to happen! <em>Other</em> people spent ages worrying about what to text to their girlfriends. Not me!
 
-It wasn't even anything weird, just normal making plans. But whenever I thought of talking to her, it just came back, that <em>exhaustion</em> from the Expressing Game. I just <em>couldn't</em> see her today. But I wanted to see her! I loved her so much, it would just be stupid if I missed a chance to get together! Plus, if I didn't answer the text, that would make me an asshole! If I wasn't going to see her today, I should just <em>tell</em> her instead of screwing around. No, that was no good either, there was no way I would just <em>not</em> want to see her!
+It wasn't even anything weird, just normal making plans. But whenever I thought of talking to her, it just came back, that <em>exhaustion</em> from the Expressing Game. I just <em>couldn't</em> see her today. But I loved her so much, it would just be stupid if I missed a chance to get together! Plus, if I didn't answer the text, that would make me an asshole! If I wasn't going to see her today, I should just <em>tell</em> her instead of screwing around. No, I couldn't say that, because then I wouldn't get to see her!
 
 Ugh, I needed to talk to someone about this. But who? Yali was the only one who knew how to help me with my feelings! But I couldn't ask her for help <em>again!</em> She was already helping me so much!
 
