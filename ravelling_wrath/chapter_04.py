@@ -360,7 +360,7 @@ What I'd been doing with Yali was practically a ritual now. <em>Calming Game</em
 
 I stared at them both for a moment, then doubled over laughing.
 
-What did it even mean anymore? If I could just… <em>be calm</em>, or <em>be angry</em>, just because I said so? Which one of them was real? Or maybe neither of them was real! I couldn't stop laughing. It was all so <em>un</em>real.
+What did it even mean anymore? If I could just… <em>be calm</em>, or <em>be angry</em>, just because I said so? Which one of them was real? Or maybe neither of them was real! I couldn't stop laughing. [????? Cut, or maybe replace: It was all so <em>un</em>real.]
  
 Maybe I shouldn't have laughed so much right after running all over the place, because I was already breathing hard, and then suddenly I choked and started coughing my lungs out.
 

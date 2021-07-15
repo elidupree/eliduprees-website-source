@@ -316,7 +316,7 @@ It was the last time I was going to be running these streets for a long time. I 
 
 [????? Revise all discussion of "gates" in this chapter (the walls no longer have "main gates"), and also, probably rename the "gates" in chapter 8 and elsewhere]
 
-It was a long jog. Eventually I got to the wall between the fifth and fourth rings, and headed up through its main gate, which was pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, just looking that way made me miss the shit out of him.
+It was a long jog. Eventually I got to the wall between the fifth and fourth rings, and headed up through its main gate, which was pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… [????? replace this: Stern take it, just looking that way made me miss the shit out of him. With something like "I needed to make sure I survived the ravelling so I could be him again", to make clear our promises]
 
 It wouldn't be long till I was there. I stopped thinking and just jogged, feeling the wind blow over my face and arms. It was cold, but I was getting plenty warmed up anyway. It was good to be alive.
 
