@@ -122,7 +122,7 @@ Yali pushed herself back, letting me catch my breath. She looked at me with her 
 
 "Er – I think I was 45 kilos last time I was at the doctor –"
 
-Yali grinned from ear to ear. "This is great! I'm 90, I weigh <em>literally</em> twice as much as you!"
+Yali grinned from ear to ear. "That's perfect! I'm 90, I weigh <em>literally</em> twice as much as you!"
 
 "Uh…"
 

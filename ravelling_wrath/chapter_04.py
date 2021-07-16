@@ -264,15 +264,13 @@ I had loads of questions, but something told me it wasn't the right time for the
 
 <bigbreak>
 
-[????? This section spent too much time not really going somewhere; perhaps just skip between the high points]
+It was already October by the time we started getting somewhere on controlling my emotions. And when we did, it caused a whole new problem.
 
-[????? Introduce with a promise like "it was October by the time we had a breakthrough on the games". Or even "we hit a breakthrough, but also a big problem". "It was already October by the time we started getting somewhere on controlling my emotions. And when we did, it [caused all kinds of trouble]"
-
-It started out like any other day, hanging out at Yali's house, running through the "games" for the umpteenth time.]
+It started out like any other day, hanging out at Yali's house, running through the "games" for the umpteenth time.
 
 "Expressing Game," said Yali.
 
-We were hanging out at Yali's house, running through the "games" again for the umpteenth time. I'd almost gotten used to it – whenever she said "Releasing Game" now, I could sort of <em>turn the anger back on</em> from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Yali seemed to think I'd get there eventually, but number one, <em>how the fuck?</em>, and number two, we were running out of time. It hit me again every time I glanced at the date on my phone. It was <em>October</em> now. There was less than a month left until the Ravelling, and I didn't feel halfway prepared.
+I'd almost gotten used to it – whenever she said "Releasing Game" now, I could sort of <em>turn the anger back on</em> from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Yali seemed to think I'd get there eventually, but number one, <em>how the fuck?</em>, and number two, we were running out of time. It hit me again every time I glanced at the date on my phone. There was less than a month left until the Ravelling, and I didn't feel halfway prepared.
 
 And now we were sitting here, doing the same thing that hadn't been working. "Ugh, the Expressing Game is the hardest," I complained.
 
@@ -280,7 +278,7 @@ And now we were sitting here, doing the same thing that hadn't been working. "Ug
 
 "Yeah, but, I mean, the more I yell, the more I want to <em>do</em> something, you know? It's just so, <em>argh</em> –" I made a fist to demonstrate. "At least with the Controlling Game I can just <em>not</em> do anything…"
 
-"Good to know…" Yali stopped and thought for a while. And of course, when she was done, she'd found a way to make it even <em>more</em> evil. "If that's the bigger challenge, let's see how far we can go with it. So, let's try, let's try… Yell at me as bitterly as you can, but don't move at <em>all</em>. And, and, keep your hands open on the table."
+"Good to know…" Yali stopped and thought. But of course, once she was done thinking, she'd found a way to make it even <em>more</em> evil. "If that's the bigger challenge, let's see how far we can go with it. So, let's try, let's try… Yell at me as bitterly as you can, but don't move at <em>all</em>. And, and, keep your hands open on the table."
 
 "Oh, fuck you!"
 
@@ -288,25 +286,17 @@ And now we were sitting here, doing the same thing that hadn't been working. "Ug
 
 I did what she said. Every time I yelled, it sent a wave through my body, making my hands want to clench, my body want to lean forward, jump up from the chair, anything. But I had to hold myself back. It was torture. Each word just exploded out of my mouth, leaving a lump of pain that piled up with all the others.
 
-"Controlling Game," Yali said finally. I slumped back in the chair as relief flooded through me. I didn't even think about what I was supposed to do next, I was just glad it was over. By the time she said "Calming Game," ?????
+"Controlling Game," Yali said finally. I slumped back in the chair as relief flooded through me. I didn't even think about what I was supposed to do next. By the time she said "Calming Game," I was just glad it was over.
 
 "Yeah, yeah, I did it," I said dully. "I'm not angry anymore."
 
-"Actually?" Yali perked up. She was excited about this. I wasn't. I just felt drained. I mean, it was good, I guess. The anger was actually gone. It's just that I'd been hoping to have some big epiphany or something. Not just this empty feeling.
-
-"Yeah," I said.
-
-"Tell me more. What did it feel like?"
-
-Explaining it to her just seemed like way too much. I'd already been dragged over the rocks, and now I was expected to give her a whole presentation about it? It was just way too much. "Can we call it a day?" I mumbled.
+But that was when the problems started. Because right away, Yali started asking me to describe what it had felt like… and I just couldn't. The anger was gone, but in its place, I felt utterly drained. Even just thinking back to describe my feelings felt like way too much work. "Can we call it a day?" I mumbled.
 
 "Are you sure? We only just –" She cut herself off and waited for me to respond.
 
 "…yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
 
-And Yali just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. Even the things I normally liked doing seemed sort of distant and pointless. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. Eventually she suggested I should just go home and rest. I couldn't think of anything better to do, so I did what she said.
-
-That night, I even went to bed by my official bedtime. Probably blew Mom and Dad's minds, but I wasn't even really thinking about that. I just wanted the day to be over already.
+And Yali just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. Even the things I normally liked doing seemed sort of distant and pointless. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. But in the end, we couldn't think of anything better than to send me home early. At home, I collapsed into bed even before my official bedtime. I just wanted the day to be over already.
 
 <bigbreak>
 
@@ -332,9 +322,9 @@ Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get he
 
 A few minutes later, I had another problem: Where the fuck was Layo?
 
-He hadn't answered my message, and he wasn't at any of the usual spots I'd find him at. I'd checked his locker, his last class of the day, and the club room for the club he sometimes volunteered with. I finally even ran to the corner behind the school where Pèi and Dehel usually hung out, even though Layo would never be there since he couldn't stand being around them when they were smoking.
+[????? Shorten a bit: He hadn't answered my message, and he wasn't at any of the usual spots I'd find him at. I'd checked his locker, his last class of the day, and the club room for the club he sometimes volunteered with. I finally even ran to the corner behind the school where Pèi and Dehel usually hung out, even though Layo would never be there since he couldn't stand being around them when they were smoking.
 
-Well at least <em>they</em> were there. I ran up to them and asked, "Hey, where's Layo?"
+Well at least <em>they</em> were there. I ran up to them and asked, "Hey, where's Layo?"]
 
 "I don't know," muttered Dehel.
 
