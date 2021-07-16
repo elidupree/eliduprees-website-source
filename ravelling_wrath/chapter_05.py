@@ -62,28 +62,35 @@ posts = [
   [????? this whole chapter needs to be tightened up a little, and also needs better medium-term promises ("what are they trying to accomplish by relaxing?")]
   [????? Opening diction isn't quite consistent with how I've developed Yali, and the fun stuff has a couple paragraphs more than necessary]
   
+  It turned out I'd been worrying for the wrong person.
 
-"– I just really, really, need a break," I finished.
-
-My chest was tight. We were sitting together in Yali's living room, and Yali had been listening quietly, but the more things I explained, the more stressed she looked. What was she going to say? Was she going to tell me we had to keep working hard at the game is?
+"– I just really, really, need a break," I'd finished. My chest was tight. We were sitting together in Yali's living room, and Yali had been listening quietly, but the more things I explained, the more stressed she looked. What was she going to say, I wondered? Was she going to tell me we had to keep working hard at the games?
 
 But when Yali spoke, it was the opposite of what I was afraid of. "Rinn… I'm sorry," she said tensely. "I never meant to make you burn yourself out! I <em>know</em> that's not good for our relationship, I <em>know</em> I, you, we <em>need</em> to be able to take breaks sometimes –"
 
-<em>I know <strong>I</strong> need to take breaks,</em> was what she'd almost said. Suddenly, my chest was tight with a <em>different</em> emotion – concern for Yali. She wasn't trying to reassure <em>me</em> that we'd have a chance to relax. She was trying to convince <em>herself</em> that it was okay.
+<em>I know <strong>I</strong> need to take breaks,</em> was what she'd almost said.
 
-"– because, if we don't, what if we're too obsessed with the work and we lose the things that are good about our relationship, or, or, what if we get to the Ravelling and we don't have anything to look forward to and –"
+Suddenly, my chest was tight with a <em>different</em> emotion – concern for Yali. She wasn't trying to reassure <em>me</em> that we'd have a chance to relax. She was trying to convince <em>herself</em> that it was okay.
 
-I put a hand on her arm. "What's wrong?" I said.
+"Yali –" I began.
 
-"Of course <em>you</em> can tell something's wrong…" she muttered, almost resentfully. She breathed slowly in and out. "I, I, it's just, I can't make myself stop thinking about it. You're on the edge of making progress – like, when you argued with Pèi, that was actually a big breakthrough – so now, I can't stop thinking, what if you need to go further with that? But I <em>know</em> I need to let you rest –"
+"– because, if we don't, that could mean we're too obsessed with the work and we lose the things that are good about our relationship, so, so, making time to relax is more of a necessity –"
 
-In my nervousness, I almost laughed. "Come on, when you think something good happened, that makes you worry <em>more</em>? Forget <em>rest</em> – we ought to be <em>celebrating!</em>"
+I put a hand on her arm. "Yali! It'll be okay." I said.
 
-"You're not wrong…" Yali's arm was tense under my hand. "Okay. Okay. If you want to celebrate… Maybe I can make this work. And I do have something I want to celebrate with you…"
+Yali gave me an odd, almost resentful look. "Of course <em>you</em> can tell something's wrong…" she muttered. She breathed slowly in and out. "I, I, it's just, I can't make myself stop thinking about it. You're on the edge of making progress – like, when you argued with Pèi, that was actually a big breakthrough – but I <em>know</em> that resting is what we need right now –"
 
-At her words, my heart leapt. Was Yali actually going to get to enjoy something? She <em>needed</em> this. I <em>had</em> to make sure it would work. "What is it –" I began.
+I could sense the feeling behind her words. Even as she <em>said</em> we needed rest, it wasn't sinking in, it wasn't giving her a chance to actually stop and enjoy herself. But she <em>needed</em> one. I <em>had</em> to find a way to help her get there. "Come on," I said, "when you think something good happened, that makes you worry <em>more</em>? Forget <em>rest</em> – we ought to be <em>celebrating!</em>"
 
-"<em>This.</em>" Yali surged to her feet. In the middle of her living room, she slowly spun around, flexing her muscles, letting me see from every side. "By the Stern," she said, "this is the best I've felt about my body in my life."
+"You're not wrong…" Yali's arm was tense under my hand. "Okay. Okay. Maybe I can make this work. And I do have something I want to share with you…" She paused. She leaned forward a little.
+
+Whatever she was thinking about… I could see a little smile growing on her face. My heart leapt. "What is it –" I breathed.
+
+"<em>This.</em>" Yali surged to her feet.
+
+<bigbreak>
+
+Yali's exercising had sure paid off. In the middle of her living room, she spun slowly around, flexing her muscles, letting me see from every side. "By the Stern," she said, "this is the best I've felt about my body in my life."
 
 I looked her up and down. "Fuck yeah," I said. "You look ready to kick ass."
 
@@ -173,9 +180,9 @@ It was weird how quickly Yali started acting interested again, like nothing had 
 
 "I'm the reason that fence is there," I said. Yali's eyes widened a little. I got a kick out of impressing her, even now.
 
-I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like [????? 'easy peasy'] and I did it. And the next time, they said to climb out on the big branch, so I did that too. And so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance [????? a jig] on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
+I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like 'nought to the Seeking' and I did it. And the next time, they said to climb out on the big branch, so I did that too. And so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and do a dance on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
 
-[????? "That must have really hurt!"]
+"That must have been a lot of pain!"
 
 "Oh yeah, it hurt loads. And then I had to wear a cast <em>forever</em> and I couldn't go running outdoors or anything, and it <em>itched</em> under the cast, it was so annoying –"
 
@@ -187,7 +194,7 @@ Yali started giggling uncontrollably.
 
 "Uh, yeah? I mean it wasn't for very long." That only made her giggle harder. Eventually, she got herself under control and told me to keep going.
 
-"Okay. So [?????I guess I didn't <em>actually</em> have the cast on forever, but it <em>felt</em> like forever, it was awful.] So yeah, after that, I didn't do <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again. And that's when I learned how to climb a fence, too."
+"Okay. So… yeah, after that, I didn't do <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again. And that's when I learned how to climb a fence, too."
 
 I pulled up the leg of my pants. "Here," I said, "let me show you my scar from the fall!"
 
@@ -217,7 +224,7 @@ On my way home, I realized I haven't even remembered to get back to telling her 
 
 <bigbreak>
 
-[????? More like "but when I was at home, it came back into my mind"] It wasn't until I was at home in my room, getting ready for bed, that it came back into my mind.
+But when I was at home, getting undressed and ready for bed, it came back into my mind.
 
 <em>It was a long time ago. It wasn't anyone you know.</em>
 
@@ -285,9 +292,7 @@ The day finally came.
 
 I rose with the dawn. The sun glowed like in my dream, filling my blood with energy. I was ready.
 
-[????? Nobody needs Rinn doubting this:] I couldn't <em>technically</em> say I was ready, but for some reason, I <em>felt</em> ready. I went through my morning routine on autopilot, my mind racing ahead to what was coming.
-
-Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
+I went through my morning routine on autopilot, my mind racing ahead to what was coming. Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
 
 I had planned to leave in the morning as if I was going to school like normal, so Mom and Dad wouldn't see the shift in the Waiting. I almost did it, too. But as I was stepping out the front door, I felt like I was crossing a point of no return. I hesitated and turned around.
 
@@ -295,7 +300,7 @@ I had planned to leave in the morning as if I was going to school like normal, s
 
 Mom sighed. "What do you want?"
 
-I almost laughed. Somehow, I hadn't expected her to turn my [????? super serious] emotions into regular annoyance. "I just want you to know how much I love you! Is that so wrong?" She didn't look very convinced. "Come on, I'm a teenager! I'm allowed to have mood swings! You too –" I jabbed a finger at Dad "– get over here!"
+I almost laughed. Somehow, I hadn't expected her to turn my heartfelt emotions into regular annoyance. "I just want you to know how much I love you! Is that so wrong?" She didn't look very convinced. "Come on, I'm a teenager! I'm allowed to have mood swings! You too –" I jabbed a finger at Dad "– get over here!"
 
 I grabbed them and hugged them both tight. They exchanged a look, but went along with it. Oh, they had no idea what was coming. But I knew.
 
@@ -316,7 +321,7 @@ It was the last time I was going to be running these streets for a long time. I 
 
 [????? Revise all discussion of "gates" in this chapter (the walls no longer have "main gates"), and also, probably rename the "gates" in chapter 8 and elsewhere]
 
-It was a long jog. Eventually I got to the wall between the fifth and fourth rings, and headed up through its main gate, which was pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… [????? replace this: Stern take it, just looking that way made me miss the shit out of him. With something like "I needed to make sure I survived the ravelling so I could be him again", to make clear our promises]
+It was a long jog. Eventually I got to the wall between the fifth and fourth rings, and headed up through its main gate, which was pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, I <em>had</em> to get back from the Ravelling alive, just so I could see him again when it was over.
 
 It wouldn't be long till I was there. I stopped thinking and just jogged, feeling the wind blow over my face and arms. It was cold, but I was getting plenty warmed up anyway. It was good to be alive.
 
@@ -368,7 +373,7 @@ I held Yali's hand for the whole bus ride there. Neither of us spoke. We had so 
 
 Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. But there was nothing out there I hadn't seen before. There was the big main gate into the third ring. The dull, square Stern buildings. The menacing walls of the prison off in the distance. Was that where…? No, that wasn't worth thinking about, not when Yali was right next to me. I tried to focus on the trip. We passed by a busy gas station. We rolled through the weirdly hidden gate into the second ring, which you almost couldn't see until you got close to it.
 
-Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, showing the route to where we were going. She waved for me to follow, and started walking without saying a word.
+Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, sheltering it under her body, showing the route to where we were going. She waved for me to follow, and started walking without saying a word.
 
 [????? Diction in this paragraph is slightly off, and imperfect for the mood] The second ring didn't quite look how I remembered it. I guess that shouldn't have been a surprise, since I'd been a little kid last time I was here. And it was still way different from back at home. The buildings were big, brightly colored, and completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-panelled walkways sticking out all over the place. I couldn't resist looking around at everything. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
 
