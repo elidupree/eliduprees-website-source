@@ -322,9 +322,9 @@ Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get he
 
 A few minutes later, I had another problem: Where the fuck was Layo?
 
-[????? Shorten a bit: He hadn't answered my message, and he wasn't at any of the usual spots I'd find him at. I'd checked his locker, his last class of the day, and the club room for the club he sometimes volunteered with. I finally even ran to the corner behind the school where Pèi and Dehel usually hung out, even though Layo would never be there since he couldn't stand being around them when they were smoking.
+I had looked everywhere for him. He hadn't answered my message, and he wasn't at his locker, or his last classroom, or the club he sometimes volunteered with. The only people I did find were Pèi and Dehel, who were hanging out at the corner behind the school where the Stern wouldn't catch them smoking. I knew Layo wouldn't be there because he couldn't stand the smoke anyway, but it was worth a shot.
 
-Well at least <em>they</em> were there. I ran up to them and asked, "Hey, where's Layo?"]
+"Hey, where's Layo?" I called as I ran up to them.
 
 "I don't know," muttered Dehel.
 
@@ -340,7 +340,7 @@ Ugh, was it going to be one of <em>those</em> days? Pèi was hilarious, but she 
 
 I stared at her.
 
-On any other day, it would've gone on like this for a while. I would've kept getting madder, and Pèi would've kept finding more ways to be a smartass. Until she finally decided it would be funnier to tell me the answer than to keep going. But today… I could see it all coming, and I just thought, <em>why?</em>
+On any other day, it would've gone on like this for a while. I would've kept getting madder, and Pèi would've kept finding more ways to send me Seeking. Until she finally decided it would be funnier to tell me the answer than to keep going. But today… I could see it all coming, and I just thought, <em>why?</em>
 
 What I'd been doing with Yali was practically a ritual now. <em>Calming Game</em>, I said to myself automatically. "Never mind, I'll be fine either way," I said out loud. But hey, the other part was automatic too. <em>Releasing Game</em>. "You fucking asshole, I could just smash your face in!" <em>Calming Game</em>. "Nah, I'm cool, I'm cool…"
 
@@ -350,7 +350,7 @@ What I'd been doing with Yali was practically a ritual now. <em>Calming Game</em
 
 I stared at them both for a moment, then doubled over laughing.
 
-What did it even mean anymore? If I could just… <em>be calm</em>, or <em>be angry</em>, just because I said so? Which one of them was real? Or maybe neither of them was real! I couldn't stop laughing. [????? Cut, or maybe replace: It was all so <em>un</em>real.]
+What did it even mean anymore? If I could just… <em>be calm</em>, or <em>be angry</em>, just because I said so? Which one of them was real? Or maybe neither of them was real! I couldn't stop laughing.
  
 Maybe I shouldn't have laughed so much right after running all over the place, because I was already breathing hard, and then suddenly I choked and started coughing my lungs out.
 
@@ -364,9 +364,17 @@ Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. I
 
 <bigbreak>
 
-????? I told Layo about everything
+Layo could tell right away that something was wrong. He took me to a park where we used to hang out back in middle school – a park with winding paths between the trees, enough to get a bit of privacy. Trees had always been a good compromise between me and Layo – he liked nature, I liked climbing things, it was a perfect match.
 
+I didn't feel like climbing things today. I found a weathered old wooden bench, tucked away where you couldn't see it from the street. And there, sitting on the bench, I told him everything.
 
+Once the words started pouring out, they wouldn't stop. The gods. The Ravelling. All my feelings about it. I told him things I hadn't told even Yali. He was my oldest friend. Someone I could always be myself around.
+
+"…but I'm just so tired," I finished. "I <em>know</em> I need to keep working on my emotions… because otherwise, we might die… I know how important that is… but I'm just <em>so</em> tired. I'm so tired."
+
+I put my hand to my face, and it came away with tears.
+
+"What the fuck is this?!?" I exploded. "Why am I crying <em>now?</em>"
 
 
 

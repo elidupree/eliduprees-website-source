@@ -410,27 +410,7 @@ I couldn't wait to hear what the Blood God's world would be like. Would there be
 
 "The Blood Child killed you <em>right</em> after you got there? What are the chances?"
 
-"It's not a coincidence," she said grimly. "
-
-
-
-
-
-[????? All of this is being cut:
-
-
-Yali brightened a little. "Right! I've gotten so used to having these memories of it, it's hard to remember only knowing what I learned from – from school. What do you want to know about first?"
-
-
-"What about the fourth ring? It's not all overgrown with plants like you said the Broken God's layer was in the Otherworld. I mean, there's a few parks, but it's mostly packed with buildings."
-
-"That <em>is</em> strange." Yali thought about it. "Maybe it's because the Broken God doesn't have any laws of its own. Maybe they just allowed people to build anything they want there, and the structure formed naturally. Not naturally like nature, just –"
-
-"Hang on. I was just thinking, didn't you say the gods pick the Ravellers based on their principles? But they say the Broken God itself doesn't really <em>have</em> any sort of intention or purpose, so how does it pick someone?"]
-
-
-
-It's because of the, the, the passage between the layers. Every time we enter another layer, our gods weave a few more of the threads of <em>their</em> souls into <em>our</em> souls. So each layer gives us new powers, and new… personality changes. Like –"
+"It's not a coincidence," she said grimly. "It's because of the, the, the passage between the layers. Every time we enter another layer, our gods weave a few more of the threads of <em>their</em> souls into <em>our</em> souls. So each layer gives us new powers, and new… personality changes. Like –"
 
 "Like the Blood Child freaking out and killing you. Shit."
 
@@ -642,7 +622,7 @@ It was an easy route, just like I'd said. But being on my feet always helped me 
 
 As I ran down the nighttime streets, it all still felt a little unreal to me. But when it came down to it, maybe it wasn't that complicated after all. <em>Protect Yali. Protect myself.</em> When I thought about it that way, it didn't seem so hard to handle.
 
-The streets near my home were pretty dark from all the burnt out streetlights, but I knew this place like the back of my hand. I avoided the familiar potholes leading up to my house, then slipped in through the door, careful not to wake anyone. Upstairs, I threw myself into bed. I was asleep as soon as I hit the sheets.
+The streets near my home were pretty dark from all the burnt out streetlights, but I knew this place as well as the Waiting. I avoided the familiar potholes leading up to my house, then slipped in through the door, careful not to wake anyone. Upstairs, I threw myself into bed. I was asleep as soon as I hit the sheets.
 
 ''',
 },
