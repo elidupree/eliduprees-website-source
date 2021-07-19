@@ -364,7 +364,7 @@ Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. I
 
 <bigbreak>
 
-Layo could tell right away that something was wrong. He took me to a park where we used to hang out back in middle school – a park with winding paths between the trees, enough to get a bit of privacy. Trees had always been a good compromise between me and Layo – he liked nature, I liked climbing things, it was a perfect match.
+Layo could tell right away that something was wrong. He took me to a park where we used to hang out back in middle school – a park with winding paths between the trees, enough to get a bit of privacy. Trees had always been a good compromise between me and Layo. He liked nature, I liked climbing things, it was a perfect match.
 
 I didn't feel like climbing things today. I found a weathered old wooden bench, tucked away where you couldn't see it from the street. And there, sitting on the bench, I told him everything.
 
@@ -375,6 +375,12 @@ Once the words started pouring out, they wouldn't stop. The gods. The Ravelling.
 I put my hand to my face, and it came away with tears.
 
 "What the fuck is this?!?" I exploded. "Why am I crying <em>now?</em>"
+
+[????? "Sounds like you need a break"
+
+"This shouldn't be so hard! It's just yelling at stuff, it's not even [something difficult]! I should be able to just do it
+
+????? "Why can't we just take a break once in a while?"
 
 
 
