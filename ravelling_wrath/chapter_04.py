@@ -370,20 +370,35 @@ I didn't feel like climbing things today. I found a weathered old wooden bench, 
 
 Once the words started pouring out, they wouldn't stop. The gods. The Ravelling. All my feelings about it. I told him things I hadn't told even Yali. He was my oldest friend. Someone I could always be myself around.
 
-"…but I'm just so tired," I finished. "I <em>know</em> I need to keep working on my emotions… because otherwise, we might die… I know how important that is… but I'm just <em>so</em> tired. I'm so tired."
+"…but I'm just so tired," I finished. "It shouldn't even be this hard! All I have to do is like, yell about stuff, and then not yell about stuff! I should be able to just <em>do</em> it! Why does it make my brain feel like it's drowning in the Earth?"
 
-I put my hand to my face, and it came away with tears.
+Up until now, Layo had been patiently listening, with an arm around my shoulders. But now, he spoke up.
 
-"What the fuck is this?!?" I exploded. "Why am I crying <em>now?</em>"
+"If that's how you feel," he said earnestly, "then maybe you need a break from it."
 
-[????? "Sounds like you need a break"
+[????? The thought of taking a break gave me a bunch of feelings.] "no!" I said immediately. "This is <em>Yali</em>! I have to do whatever it takes to protect her! If I ever, <em>ever</em> let Yali get hurt because I didn't try hard enough, I'd fucking, I'd rather die!"
 
-"This shouldn't be so hard! It's just yelling at stuff, it's not even [something difficult]! I should be able to just do it
+Saying those words made me flash back to when she'd made me promise not to die for her sake. <em>Don't you dare sacrifice yourself for me,</em> she'd said. Ugh, why did I have to think of that promise? It wasn't like it was going to actually come up, was it? Still, it made me add, sort of compulsively, "Okay, I'm not going to literally die, but that's how I feel!"
 
-????? "Why can't we just take a break once in a while?"
+"I know you care about her," said Layo gently. "But you have to think. What's going to happen if you keep pushing yourself?"
 
+I thought about it. But when I visualized what it would be like, to be sitting at Yali's place and running through the games again, it felt like everything was closing in on me. ?????
 
+"No, no, no," I moaned. "Don't tell me I have to give up…" But I could already tell I didn't have a choice. I hunched over, burying my face in my hands.
 
+[????? I put my hand to my face, and it came away with tears.]
+
+"What the fuck is this?!?" I exploded. "I didn't even cry at the end of the ordeal when I thought we were going to die for sure! Why am I crying <em>now?</em>"
+
+Layo hugged me tight. "?????"
+
+[????? we talked about it for a while and it became more and more obvious that I was stuck with it]
+
+"I love you so much, you know that, right?" I didn't have to say "as a friend". We both knew how it was.
+
+"I know. I love you too."
+
+?????
 
 "Oh fuck, oh fuck," I moaned as we [????? moved to go our separate ways]. "I'm going to have to tell her I couldn't handle it."
 
