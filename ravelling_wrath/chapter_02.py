@@ -400,7 +400,7 @@ Fourth was the Broken God, the most primordial of the gods, the god that suffuse
 
 And fifth…
 
-I couldn't wait to hear what the Blood God's world would be like. Would there be monsters for us to fight? Would it have flaming caverns full of ?????, like in the movies? But when I asked Yali, she said:
+I couldn't wait to hear what the Blood God's world would be like. Would there be monsters for us to fight? Would it have flaming caverns with blood vessels in the walls, like in the movies? But when I asked Yali, she said:
 
 "I don't know."
 
