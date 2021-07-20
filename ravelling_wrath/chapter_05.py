@@ -62,11 +62,11 @@ posts = [
   [????? this whole chapter needs to be tightened up a little, and also needs better medium-term promises ("what are they trying to accomplish by relaxing?")]
   [????? Opening diction isn't quite consistent with how I've developed Yali, and the fun stuff has a couple paragraphs more than necessary]
   
-  It turned out I'd been worrying for the wrong person.
-
-"– I just really, really, need a break," I'd finished. My chest was tight. We were sitting together in Yali's living room, and Yali had been listening quietly, but the more things I explained, the more stressed she looked. What was she going to say, I wondered? Was she going to tell me we had to keep working hard at the games?
-
-But when Yali spoke, it was the opposite of what I was afraid of. "Rinn… I'm sorry," she said tensely. "I never meant to make you burn yourself out! I <em>know</em> that's not good for our relationship, I <em>know</em> I, you, we <em>need</em> to be able to take breaks sometimes –"
+It turned out I'd been worrying for the wrong person.
+  
+After I explained everything, Yali took a long time to answer. We were sitting together in her living room, and she looked as stressed as I'd ever seen her, and my chest was tight with anxiety about what she was going to say. But when she finally spoke, it was the opposite of what I was afraid of.
+  
+"Rinn… I'm sorry," she said tensely. "I never meant to make you burn yourself out! I <em>know</em> that's not good for our relationship, I <em>know</em> I, you, we <em>need</em> to be able to take breaks sometimes –"
 
 <em>I know <strong>I</strong> need to take breaks,</em> was what she'd almost said.
 
@@ -78,7 +78,7 @@ Suddenly, my chest was tight with a <em>different</em> emotion – concern for Y
 
 I put a hand on her arm. "Yali! It'll be okay." I said.
 
-Yali gave me an odd, almost resentful look. "Of course <em>you</em> can tell something's wrong…" she muttered. She breathed slowly in and out. "I, I, it's just, I can't make myself stop thinking about it. You're on the edge of making progress – like, when you argued with Pèi, that was actually a big breakthrough – but I <em>know</em> that resting is what we need right now –"
+Yali gave me an odd, almost resentful look. "Of course <em>you</em> can tell I'm worrying…" she muttered. She breathed slowly in and out. "I, I, it's just, I can't make myself stop thinking about it. You're on the edge of making progress – like, when you argued with Pèi, that was actually a big breakthrough – but I <em>know</em> that resting is what we need right now –"
 
 I could sense the feeling behind her words. Even as she <em>said</em> we needed rest, it wasn't sinking in, it wasn't giving her a chance to actually stop and enjoy herself. But she <em>needed</em> one. I <em>had</em> to find a way to help her get there. "Come on," I said, "when you think something good happened, that makes you worry <em>more</em>? Forget <em>rest</em> – we ought to be <em>celebrating!</em>"
 

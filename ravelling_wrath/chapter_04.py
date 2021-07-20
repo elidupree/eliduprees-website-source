@@ -270,7 +270,7 @@ It started out like any other day, hanging out at Yali's house, running through 
 
 "Expressing Game," said Yali.
 
-I'd almost gotten used to it – whenever she said "Releasing Game" now, I could sort of <em>turn the anger back on</em> from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Yali seemed to think I'd get there eventually, but number one, <em>how the fuck?</em>, and number two, we were running out of time. It hit me again every time I glanced at the date on my phone. There was less than a month left until the Ravelling, and I didn't feel halfway prepared.
+I'd almost gotten used to it – whenever she said "Releasing Game" now, I could sort of <em>turn the anger back on</em> from all the other times, as if it had been there the whole time and I'd just forgotten it. And then I could yell about it, or control myself, or whatever. But how the fuck was I supposed to do the Calming Game? I couldn't just be angry and then just <em>not</em> be angry. Yali seemed to think I'd get there eventually, but number one, <em>how the fuck?</em>, and number two, we were running out of time. It hit me again every time I glanced at the date on my phone. There was less than a month left until the Ravelling, and I didn't feel anywhere near prepared.
 
 And now we were sitting here, doing the same thing that hadn't been working. "Ugh, the Expressing Game is the hardest," I complained.
 
@@ -290,17 +290,17 @@ I did what she said. Every time I yelled, it sent a wave through my body, making
 
 "Yeah, yeah, I did it," I said dully. "I'm not angry anymore."
 
-But that was when the problems started. Because right away, Yali started asking me to describe what it had felt like… and I just couldn't. The anger was gone, but in its place, I felt utterly drained. Even just thinking back to describe my feelings felt like way too much work. "Can we call it a day?" I mumbled.
+But that was when the problems started. Because right away, Yali started asking me to describe what it had felt like… and I just <em>couldn't</em>. The anger was gone, but in its place, I felt utterly drained. Even just thinking back to describe my feelings felt like way too much work. Seconds passed, one by one, until it began to sink in how weird this was. I <em>always</em> had something to say. But now, I just felt empty.
+
+"Can we call it a day?" I mumbled at last.
 
 "Are you sure? We only just –" She cut herself off and waited for me to respond.
 
 "…yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
 
-And Yali just accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. Even the things I normally liked doing seemed sort of distant and pointless. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. But in the end, we couldn't think of anything better than to send me home early. At home, I collapsed into bed even before my official bedtime. I just wanted the day to be over already.
+And Yali accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. Even the things I normally liked doing seemed sort of distant and pointless. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. But in the end, we couldn't think of anything better than to send me home early. At home, I collapsed into bed even before my official bedtime. I just wanted the day to be over already.
 
 <bigbreak>
-
-[????? Somewhat cut down the lead-in before we get to the two friends. Again, promise theory the first line a little better: "I wanted [to just bounce back from the above section], but it turned out to suck! And now there I was, leaning on the…]
 
 There I was, leaning on the wall after school, staring at my phone. At an unanswered text from Yali.
 
@@ -322,7 +322,7 @@ Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get he
 
 A few minutes later, I had another problem: Where the fuck was Layo?
 
-I had looked everywhere for him. He hadn't answered my message, and he wasn't at his locker, or his last classroom, or the club he sometimes volunteered with. The only people I did find were Pèi and Dehel, who were hanging out at the corner behind the school where the Stern wouldn't catch them smoking. I knew Layo wouldn't be there because he couldn't stand the smoke anyway, but it was worth a shot.
+I had looked everywhere for him. He hadn't answered my message, and he wasn't at his locker, or his last classroom, or the club he sometimes volunteered with. The only people I did find were Pèi and Dehel, who were hanging out at the corner behind the school where the Stern wouldn't catch them smoking. I knew Layo wouldn't be there anyway because he couldn't stand the smoke, but it was worth a shot.
 
 "Hey, where's Layo?" I called as I ran up to them.
 
@@ -366,7 +366,7 @@ Pèi maneuvered her way out of the hug. "Layo's in the art room. Er. You know. I
 
 Layo could tell right away that something was wrong. He took me to a park where we used to hang out back in middle school – a park with winding paths between the trees, enough to get a bit of privacy. Trees had always been a good compromise between me and Layo. He liked nature, I liked climbing things, it was a perfect match.
 
-I didn't feel like climbing things today. I found a weathered old wooden bench, tucked away where you couldn't see it from the street. And there, sitting on the bench, I told him everything.
+I didn't feel like climbing things today. I found a weathered old wooden bench, tucked away where you couldn't see it from the street. And there, sitting on the bench, I told him <em>everything</em>.
 
 Once the words started pouring out, they wouldn't stop. The gods. The Ravelling. All my feelings about it. I told him things I hadn't told even Yali. He was my oldest friend. Someone I could always be myself around.
 
@@ -376,37 +376,39 @@ Up until now, Layo had been patiently listening, with an arm around my shoulders
 
 "If that's how you feel," he said earnestly, "then maybe you need a break from it."
 
-[????? The thought of taking a break gave me a bunch of feelings.] "no!" I said immediately. "This is <em>Yali</em>! I have to do whatever it takes to protect her! If I ever, <em>ever</em> let Yali get hurt because I didn't try hard enough, I'd fucking, I'd rather die!"
+The thought of taking a break was like a punch in the gut. "No!" I said desperately. "This is <em>Yali</em>! I have to do whatever it takes to protect her! If I ever, <em>ever</em> let Yali get hurt because I didn't try hard enough, I'd fucking, I'd rather die!"
 
 Saying those words made me flash back to when she'd made me promise not to die for her sake. <em>Don't you dare sacrifice yourself for me,</em> she'd said. Ugh, why did I have to think of that promise? It wasn't like it was going to actually come up, was it? Still, it made me add, sort of compulsively, "Okay, I'm not going to literally die, but that's how I feel!"
 
 "I know you care about her," said Layo gently. "But you have to think. What's going to happen if you keep pushing yourself?"
 
-I thought about it. But when I visualized what it would be like, to be sitting at Yali's place and running through the games again, it felt like everything was closing in on me. ?????
+I thought about it. But when I visualized what it would be like, to be sitting at Yali's place and running through the games again, it felt like everything was closing in on me. It felt like my head would split open. If I could just take a break from it… if I could have a chance to relax… I rebelled against the thought, but the sense of relief was overwhelming.
 
-"No, no, no," I moaned. "Don't tell me I have to give up…" But I could already tell I didn't have a choice. I hunched over, burying my face in my hands.
+"No, no, no," I moaned. "Don't tell me I have to give up…" I hunched over, burying my face in my hands.
 
-[????? I put my hand to my face, and it came away with tears.]
+Layo hugged me tight. "I understand. It's not the answer you wanted. But my dad always says, 'no one with a mission wants to stop and rest, but –'"
 
-"What the fuck is this?!?" I exploded. "I didn't even cry at the end of the ordeal when I thought we were going to die for sure! Why am I crying <em>now?</em>"
+"'– but when it catches up to you, you'll wish you rested,'" I mumbled into my hands. Layo's dad had loads of sayings like that, bits of wisdom from the Broken. And… shit. It wasn't wrong. All of a sudden I couldn't stop myself thinking about how nice it would be to just give up and rest.
 
-Layo hugged me tight. "?????"
+When I pulled my hand away from my face, it was damp with tears.
 
-[????? we talked about it for a while and it became more and more obvious that I was stuck with it]
+"What the fuck is this?!?" I exploded. "I didn't even cry when I lost the ordeal and thought we were going to die for sure! Why am I crying <em>now?</em>"
+
+[????? Layo's hand on my back, I sank into his arms]
 
 "I love you so much, you know that, right?" I didn't have to say "as a friend". We both knew how it was.
 
 "I know. I love you too."
 
-?????
+We kept talking for hours. Layo cried too, thinking about how he'd miss with me while I was gone for the Ravelling. But the more we talked, the more I could tell what decision I had to make.
 
-"Oh fuck, oh fuck," I moaned as we [????? moved to go our separate ways]. "I'm going to have to tell her I couldn't handle it."
+"Oh fuck, oh fuck," I moaned, as we finally moved to go our separate ways. "What's Yali going to say…? I'm going to have to tell her I couldn't handle it…"
 
-"It's okay, it's okay," murmured Layo.
+"It's okay, it's okay," murmured Layo. "She cares about you. You'll work things out."
 
-????? But as we parted ways, I was still dreading having to actually tell her.
+But as we parted ways, I was still dreading having to actually tell her.
 
-
+<bigbreak>
 
 
 [????? cut the rest of this – it's been replaced by the above]
