@@ -489,7 +489,7 @@ It loomed in front of me, the black, hypnotic doorway.
 
 "So this is…" I mumbled.
 
-"The Broken Gate. It will be, it will be, <em>different</em>."
+"The Broken Portal. It will be, it will be, <em>different</em>."
 
 "Will I stop being… like this?"
 
@@ -513,11 +513,11 @@ She gently held me away. "Even if you do that, you don't feel anything. It only 
 
 I slumped against her arms.
 
-"I know," she said. "But there's nothing else we can do. Go into the Gate. Things will be better on the other side."
+"I know," she said. "But there's nothing else we can do. Go into the Portal. Things will be better on the other side."
 
 Her strong hands turned me around and guided me towards the portal. My heart cracked and crumpled as my legs carried me into the blackness.
 
-The Broken Gate swallowed me.
+The Broken Portal swallowed me.
 
 The ocean crashed over me. A black ocean, heavy and infinite, tossed and dropped my body across its waves. It washed into my head, flooding away my tiny feelings of fear and despair and want. It washed into my mouth, flooding away my flimsy words of explanation. It washed into my eyes, leaving nothing behind them but the raw force of the cosmos.
 

@@ -764,11 +764,7 @@ Neenu swooped towards the star with the portal on it, and hovered over it in a l
 
 It was funny. When I looked at the portal with my <em>eyes</em>, I just saw solid blackness, like it was a black wall blocking off the doorway. But when I looked with my instincts, it was vibrant. "So I'm going to be stepping into that portal? What even <em>is</em> that thing?"
 
-Yali answered. "It will be a lot like when we were pulled into the Otherworld. The same way the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition is even technically called the Seeking Gate, and the first one was called the Waiting Gate –"
-
-"That's confusing, that's the same as what the physical gates in the city are called!"
-
-"Yeah, the city gates are named after these ones. In any case, this will be the same <em>kind</em> of thing you already experienced. So it will be similar, but different."
+Yali answered. "It will be a lot like when we were pulled into the Otherworld. The same way the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition from the material world into the Otherworld is even technically called 'the Waiting Portal', just like this one is the Seeking Portal. So it will be similar, but different."
 
 "Different how? What's it going to be like?"
 
@@ -780,7 +776,7 @@ The only thing was, I had been imagining going through it <em>with</em> Yali. Bu
 
 I jumped back up and flung my arms around her, squeezing tightly onto her and burying my face in her chest. "I don't want to leave you!!" I said plaintively.
 
-Yali lifted my head to look at her, cupping my cheeks softly in her hands. "It's okay," she murmured. "I know it's hard. But I'll look for you as soon as I get there. And that will be pretty soon from your perspective, because our perception of time is different inside the Gate." She pulled me close and kissed me on the mouth, long and tenderly. "I don't want to leave you either, you know? But it's going to happen one way or another. So it's better if we do it on our own terms."
+Yali lifted my head to look at her, cupping my cheeks softly in her hands. "It's okay," she murmured. "I know it's hard. But I'll look for you as soon as I get there. And that will be pretty soon from your perspective, because our perception of time is different inside the Portal." She pulled me close and kissed me on the mouth, long and tenderly. "I don't want to leave you either, you know? But it's going to happen one way or another. So it's better if we do it on our own terms."
 
 I clung to her for ages. I didn't want to leave. I didn't want to peel myself away from her soft body that I was clutching onto. But finally, the time came for me to go.
 

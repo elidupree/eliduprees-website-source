@@ -319,9 +319,7 @@ I snickered at "<em>more</em> walking", as if I was actually going to walk this 
 
 It was the last time I was going to be running these streets for a long time. I lovingly landed my feet in every familiar pothole and crack. Over there was the first bar I ever got kicked out of. A few blocks down, the corner store where Pèi stole most of her jewelry. The old half-a-basketball-court where I used to play with the neighborhood kids until the hoop fell down and people started dumping their trash there, haha.
 
-[????? Revise all discussion of "gates" in this chapter (the walls no longer have "main gates"), and also, probably rename the "gates" in chapter 8 and elsewhere]
-
-It was a long jog. Eventually I got to the wall between the fifth and fourth rings, and headed up through its main gate, which was pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, I <em>had</em> to get back from the Ravelling alive, just so I could see him again when it was over.
+It was a long jog. Eventually I got to the wall between the fifth and fourth rings, and headed up through the nearest gate, getting me pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, I <em>had</em> to get back from the Ravelling alive, just so I could see him again when it was over.
 
 It wouldn't be long till I was there. I stopped thinking and just jogged, feeling the wind blow over my face and arms. It was cold, but I was getting plenty warmed up anyway. It was good to be alive.
 
@@ -371,7 +369,7 @@ It took Yali a moment to realize that I was joking, but then she laughed loudly.
 
 I held Yali's hand for the whole bus ride there. Neither of us spoke. We had so much to say, but most of it had already been said, and the rest could wait until there were fewer people to overhear us.
 
-Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. But there was nothing out there I hadn't seen before. There was the big main gate into the third ring. The dull, square Stern buildings. The menacing walls of the prison off in the distance. Was that where…? No, that wasn't worth thinking about, not when Yali was right next to me. I tried to focus on the trip. We passed by a busy gas station. We rolled through the weirdly hidden gate into the second ring, which you almost couldn't see until you got close to it.
+Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. But there was nothing out there I hadn't seen before. There was the big gate into the third ring. The dull, square Stern buildings. The menacing walls of the prison off in the distance. Was that where…? No, that wasn't worth thinking about, not when Yali was right next to me. I tried to focus on the trip. We passed by a busy gas station. We rolled through the weirdly hidden gate into the second ring, which you almost couldn't see until you got close to it.
 
 Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, sheltering it under her body, showing the route to where we were going. She waved for me to follow, and started walking without saying a word.
 
@@ -385,7 +383,7 @@ Finally, we reached the last stop and shuffled off the bus with everyone. By the
 
 At last, the first ring's wall loomed above us. We didn't <em>get</em> there right away – we were still on the second ring's twisty roads, so even once we could see the wall over the shorter buildings, there was still a lot of zigzagging before we got to the actual gate. But we got there.
 
-At first glance, the Waiting Gate didn't look like much. For being one of the main gates, it was pretty small, only wide enough to fit one car at a time. But once I got close, I could see the details. Every part of the stonework around the gate was carved into finely shaped curves. The shapes looked somehow geometric and organic at the same time. And at the top of the gate, they all intertwined into a big version of the Waiting God's symbol, the Watchful Eye.
+At first glance, the first ring's gate didn't look like much. It was pretty small, only wide enough to fit one car at a time. But once I got close, I could see the details. Every part of the stonework around the gate was carved into finely shaped curves. The shapes looked somehow geometric and organic at the same time. And at the top of the gate, they all intertwined into a big version of the Waiting God's symbol, the Watchful Eye.
 
 I paused under the gate to run my fingers through the grooves in the carvings. They were way smoother than I expected. "Wooaah…" I said. "I can't even feel the gaps between the stones."
 
