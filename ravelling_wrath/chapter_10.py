@@ -658,7 +658,7 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "You flaunt your disinterest in the Stern, and yet you assume you can understand how it operates? The Stern God does not simply absorb the soul of any passing stranger. The corrupt are not chosen to be Justicars, and the Justicars undergo many stages of filtering and purification before the Stern God absorbs a single thread. The god and its temple have seen their procedures proven by the test of millennia. You think you know better than they? What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order, but that is a contradiction, because order is the way that people's lives are preserved. It is the Stern who keep the streets clear of criminal activity –"
 
-<em>Who keep the streets clear…</em> "It was you," I breathed. "You and your Temple ????? were the ones who ????? tore down the tents in ????? Park. I loved that place! There were always people singing, there were street alchemists doing tricks –"
+<em>Who keep the streets clear…</em> "It was you," I breathed. "You and your Temple were the ones who tore down the tents in Mill Street Park. I loved that place! There were always people singing, there were street alchemists doing tricks –"
 
 "Surely you realize the purpose of such alchemical displays? They are nothing but signaling for the drug trade. What else do you think pays for the reagents? The laws that authorized us to clear the encampments were a necessary tool. The people who lived there were addicts, as I was, and like myself, they needed to be torn away from it –"
 

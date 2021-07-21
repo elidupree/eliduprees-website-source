@@ -320,7 +320,7 @@ A shred of impatience slipped in from the back of my mind. <em>What did the Bloo
 
 – and the instant the frustration was cleared from my mind, the bridge was gone as well.
 
-I noticed that my heart was pounding. I felt like I'd almost been caught – the bridge had spilled over from my impatience, I'd been careless, and – <em>No,</em> I reminded myself. <em>You're not at the ????? anymore. There's no one who's about to punish you. This is about the manifesting. You need to pay attention…</em>
+I noticed that my heart was pounding. I felt like I'd almost been caught – the bridge had spilled over from my impatience, I'd been careless, and – <em>No,</em> I reminded myself. <em>You're not at the Dalners' anymore. There's no one who's about to punish you. This is about the manifesting. You need to pay attention…</em>
 
 Was it really the impatient feeling that had made the manifesting work? It wasn't hard to make myself feel impatient again – I had kept myself stable, but I wasn't calm anymore. I didn't like what the Blood God was making me do. Very carefully, I allowed the impatience to come forward, glaring at the chasm, forcing the bridge into existence…
 

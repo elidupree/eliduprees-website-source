@@ -49,7 +49,7 @@ Yali lurched upwards and her eyes zeroed in on me. "Your feelings!" she choked o
 
 "Thank the gods, you're alright!" I hugged her quickly. "This is great! We're both here and –" my brain caught up with what she'd actually said "– and I'm not angry at all, in fact, I feel great!"
 
-[????? Should be more like "guess we don't have to worry for the moment"] "That's a relief." Yali sank back to the floor.
+"Okay – then – then we're not in danger for the moment." Yali sank back to the floor.
 
 "You okay there? Anything I can get you? Haha I guess not but I can cuddle with you while you –"
 
@@ -87,7 +87,7 @@ Yali smiled. "No, it's actually the stars themselves that move. You see… you s
 
 "What? But you <em>are</em> the Farseer."
 
-"It's about, it's about, how you think of me. Here…" Yali pulled away from me. [????? Clumsy sentence:] I reluctantly let her untangle herself from my arms and step back. Then she solemnly raised one hand and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
+"It's about, it's about, how you think of me. Here…" Yali pulled away from me. With some reluctance, I let her untangle herself from my arms and step back. Then she solemnly raised one hand and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
 
 I snickered. "Don't pretend like you're some kind of holy person," I said. It came out sounding a bit meaner than I'd intended it. Yali looked flustered. "Uh, I didn't mean that in a bad way."
 
@@ -176,10 +176,9 @@ I tried to think back to what I'd been thinking, but it was gone now. "Ugh, I do
 
 "Alright then, screw the Waiting. Bunch of old know-it-alls sitting around, not doing any good for anybody."
 
-Yali didn't seem too pleased by that either, but she let it slide. "In any case, if you have those thoughts again, just remind yourself, whatever is wrong with the Waiting Temple, it's not <em>me</em>. I'm <em>not</em> like they are."
+Yali didn't seem too happy with that either, but she let it slide. "In any case, if you have those thoughts again, just remind yourself, whatever is wrong with the Waiting Temple, it's not <em>me</em>. I'm <em>not</em> like they are."
 
 <bigbreak>
-
 
 But one way or another, we were going to have to read the Codex, so we could navigate the stars.
 
@@ -187,7 +186,7 @@ In the end, Yali decided to do it herself. "I had wanted us to do it together," 
 
 "Yeah." I knew what she meant. It was spooky how easily I had slipped into saying a Blood God thing when I thought I was just complaining.
 
-So that was what we did. Yali sat down, adjusted the chair until she was comfortable, and focused in on the screen. Pretty soon, she found a starting point in the Codex and read for a while. Then she scrolled down and kept reading for a while longer. Before long, [????? could be shorter: I started to get the idea that this was going to keep going for a long time.]
+So that was what we did. Yali sat down, adjusted the chair until she was comfortable, and focused in on the screen. Pretty soon, she found a starting point in the Codex and read for a while. Then she scrolled down and kept reading for a while longer. A few pages later, I realized that this was going to go on for a long time.
 
 "Hey, how about you use your Seeing?" I said. "Look in the future and tell us how we figure it all out."
 
@@ -203,7 +202,7 @@ I settled into watching with Yali work. She was totally absorbed in the Codex, h
 
 Yali didn't have a lot of idle habits, but that just made it easier for me to get engrossed in the little movements she <em>did</em> do. She had her neck stuck out towards the screen, like she was always leaning to get closer. As she read, her face barely moved a centimeter either way – but it did move, in a slow, repeating motion back and forth. When I watched it closely, it was almost a figure-eight, dipping down a little at each side before lifting back up to read in the middle again. I was hypnotized.
 
-It turned out I couldn't stay absorbed in that forever. At some point, the feeling dropped away and I was just stiff and bored again. Irritably, I started pacing around. I wanted to get Yali's attention, but I knew she had a lot to figure out. Back in the regular world, she had already told me a bit about what she'd need to do now. Besides just figuring out where we were going, it was also important to find the locations of the other Ravellers – especially the Alchemist.
+It turned out I couldn't stay absorbed in that forever. At some point, the feeling dropped away and I was just stiff and bored again. Irritably, I started pacing around. I wanted to get Yali's attention, but I knew she had a lot to figure out. [????? needs better section transition:] Back in the regular world, she had already told me a bit about what she'd need to do now. Besides just figuring out where we were going, it was also important to find the locations of the other Ravellers – especially the Alchemist.
 
 There were three other Ravellers in the Otherworld with us – the Imminent, the Justicar and the Alchemist. Each of them was going to have their own abilities, motivations, and dangers or opportunities they'd create for us.
 
@@ -213,7 +212,7 @@ Then, there was the Justicar. The Justicar was the Stern God's champion, so it w
 
 And finally, there was the Alchemist. The Alchemist was a big mystery, just like the Broken God in general. Even the way Yali had described them was pretty mysterious. First, she'd said that the Alchemist often had a pivotal role, setting the whole direction of the Ravelling. But when I asked her what they actually <em>did</em> to "set the direction of the Ravelling", she had said they didn't necessarily <em>do</em> anything at all. I couldn't get a straight answer out of her.
 
-[????? Slight readability issues in this paragraph:] Either way, though, Yali was convinced that the Alchemist was important. And the other special thing about the Alchemist was that the Broken God didn't give the Alchemist any knowledge or sense of purpose at all. The rest of the gods did that – according to Yali, if I hadn't already known I was the Blood Child, the magic would still have made me know it as soon as I was pulled into the Otherworld. And I'd have been ready to go do Ravelling stuff, too – the god would somehow make it so I wouldn't get shaken up from being pulled out of my regular life. But each Alchemist just got thrown into the Otherworld unprepared, like a regular human.
+Either way, though, Yali was convinced that the Alchemist was important. And there was one other thing that was different about the Alchemist: The Broken God didn't give the Alchemist any knowledge or sense of purpose at all. According to Yali, the rest of the gods <em>did</em> do that – so even if I hadn't known I was the Blood Child, I would have known it as soon as I was pulled into the Otherworld, because of the magic. And I'd have been ready to go do Ravelling stuff, too. <em>Our</em> gods made sure we wouldn't get too shaken up from being pulled out of our lives on Earth. But each Alchemist just got thrown into the Otherworld unprepared, like a regular human.
 
 So the sooner we found the Alchemist, the sooner we could help them deal with the transition. And for whatever weird, Broken-God importance the Alchemist had, Yali wanted them to hear our side of the story first, rather than getting their introduction from the Justicar or the Imminent. That made a lot of sense. It was hard to predict what the Alchemist would be like, because they would just be whoever they were before, and that could be pretty much anybody. But no matter who they were, it would be no good for some random person to get magic powers and then get convinced that the <em>Stern God</em> had the right idea of what to do. So it would be a big help if we were the first ones to find them.
 
@@ -227,7 +226,7 @@ After what seemed like hours, Yali finally looked away from the screen. Then she
 
 "Thank the fucking gods," I said. "So what's the deal? I mean, don't tell me the whole thing, obviously. Just give me, like, the cheat sheet."
 
-Yali explained a few things. Apparently the "star" we were standing on was already moving at a zillion kilometers per second, we just couldn't tell because, first, we were standing on it, and second, the rest of the stars were even more zillions of kilometers away. But they were all moving in some sort of ridiculously complex pattern. And every so often, two stars would meet up with each other while they were moving at the same speed, and then you could walk from one of them to the other. Even though we were supposedly "navigating" through the stars, we didn't actually have any control of which way the star we were standing on would move. All we could do was choose [????? could be clearer:] which one to stand on when they met up with each other. So once Yali figured out what star we should transfer to next, all we'd have to do was wait.
+Yali explained a few things. Apparently the "star" we were standing on was already moving at a zillion kilometers per second, we just couldn't tell because, first, we were standing on it, and second, the rest of the stars were even more zillions of kilometers away. But they were all moving in some sort of ridiculously complex pattern. And every so often, two stars would meet up with each other while they were moving at the same speed, and then you could walk from one of them to the other. Even though we were supposedly "navigating" through the stars, we didn't actually control which way our star would move. Our only control was, whenever two stars met each other, we could choose which one to be standing on when they moved apart again. So once Yali figured out what star we should transfer to next, all we'd have to do was wait.
 
 <em>Wait.</em> I was already getting sick of that word.
 
@@ -253,17 +252,17 @@ Yali flinched.
 
 It was a blade of the length of my forearm, black and glistening. Instinctively, it felt like an extra part of my arm. Like a claw ready to reach out and tear the world apart.
 
-"Whaaa –" I threw the blade away from me. It vanished before it hit the ground. "What the fuck was that?"
+"Whaaa –" I threw the blade away from us. It vanished before it hit the ground. "What the fuck was that?"
 
 "That," Yali panted, "that killed me a lot of times." She adjusted her shirt. "I'm okay now. I shouldn't have been surprised. Every Blood Child could summon the Blood Blades, it was probably just the easiest thing for you to manifest. Here, make another one. Go ahead, it's okay."
 
 Cautiously, I repeated the gesture I'd made earlier. Sure enough, another black blade sprang into existence in my hand. This time, I got a better look at it. When I looked closely at it, it was actually dark red rather than black. And it had an almost liquid quality about it. There was no clear line where the blade ended and the handle began, and it was perfectly molded to the shape of my hand. As if it had been made for me.
 
-Its sharp edge, though, was ragged and vicious. Most of the blade showed a clear reflection of the stars, but near the edge, it looked grimy and scratched.
+Its sharp edge, though, was ragged and vicious. The side of the blade showed a clear reflection of the stars, but near the edge, it looked grimy and scratched.
 
 Curiously, I touched the edge with my other hand. It flowed around my fingers without cutting them, giving them a warm, wet sensation. "Check it out," I said.
 
-Yali examined the blade gingerly, without touching it. [????? Wait, how does Yali know this?] "Amazing. I've never gotten a clear look at one of these before. It's said that they're an extension of your own blood. Figuratively, I guess. You should even be able to feel through it, as if it was part of your own arm."
+Yali examined the blade gingerly, without touching it. "Amazing. I've never gotten such a close look at one of these before. One of the old Blood Children said that they're an extension of your own blood. Figuratively, I guess. They said you could even feel through it, as if it was part of your own arm."
 
 "Yeah, it kind of felt like that. Let me just try –" Experimentally, I reached out with the side of the blade and tapped the table with it. Sure enough, I could feel the table like I was touching it. "Wow, I thought it would feel really weird, but it doesn't feel weird at all. That's so weird."
 
@@ -301,7 +300,7 @@ I could <em>also</em> use manifesting to make my bruises go away after I landed 
 
 Not <em>everything</em> was possible. For instance, I generally couldn't manifest things that didn't exist. Yali said we could technically only manifest things that were <em>imprinted</em> on our souls. Whenever you touched a physical object, it automatically made an imprint on your soul, especially if you were interested in it. Then you could use the imprint to manifest a copy of it later. You could also manifest complex things if you knew how to make them out of smaller parts you had imprinted. Like my golden throne – I had probably imprinted gold from somebody's ring, and I knew what a chair was shaped like.
 
-But if you touched something that had its <em>own</em> soul, the other soul stopped you from imprinting its physical body. You could make a soul-level connection with another person (or a plant or animal), but it wasn't the same thing as imprinting. That was why we couldn't manifest anything that was alive, even though I could manifest food, which was technically stuff that <em>used</em> to be alive. After something died, its soul slowly left its body, so you could eventually imprint it again.
+But if you touched something that had its <em>own</em> soul, the other soul stopped you from imprinting its physical body. You could make a soul-level connection with another person (or a plant or animal), but it wasn't the same thing as imprinting. That was why we couldn't manifest anything that was alive, even though we could manifest food, which was technically stuff that <em>used</em> to be alive. After something died, its soul slowly left its body, so you could eventually imprint it again.
 
 That would mean I could manifest corpses, I guess. Curiously, I tried out manifesting a dead bird I had picked up in the yard when I was a little kid. It worked. Then I realized that I was holding a dead bird in my hand. It hadn't bothered me when I was a kid, but for some reason, this time it was really disturbing to be holding something dead. I flinched and made it disappear.
 
@@ -311,9 +310,9 @@ And the Blood Blades… they were still the easiest thing for me to manifest. No
 
 <bigbreak>
 
-After floating in empty space for hours, I was excited for our first encounter with another star. Yali had calculated the exact time it would get to us. Right on schedule, one of the distant stars started moving slowly across the sky, then quicker and quicker. Over the next few minutes, it got bigger and bigger, until it was finally close enough for me to see that it really was another platform just like ours.
+After floating in empty space for hours, I was excited for our first encounter with another star. Yali had calculated the exact time it would get to us. Right on schedule, one of the distant stars started moving slowly across the sky, then quicker and quicker. Over the next few minutes, it got bigger and bigger, until it was finally close enough to see what it really was: another platform just like ours.
 
-The other platform glided toward us with a wide, sweeping movement, and I briefly worried that we'd crash. But then it slowed down and gently came to a stop exactly next to our own platform. The very edges of the circles were just barely touching each other, and they'd settled into place without a sound. It was actually pretty amazing.
+The other platform glided toward us with a wide, sweeping movement, and I briefly worried that we'd crash. But then it slowed down and came to a gentle stop, exactly next to our own platform. The very edges of the circles were just barely touching each other, and they'd settled into place without a sound. It was actually pretty amazing.
 
 The novelty wore off almost immediately. The other star was literally <em>exactly</em> like ours. Same computer, same telescope, everything. The only difference was that the other table didn't have any chunks cut out of it. Well, <em>that</em> was no good. I stepped across to take care of it.
 
@@ -401,7 +400,7 @@ Yali smiled a little. "I figured if we tried to manifest on our phones directly,
 
 "Thought you didn't want to get up," I teased. She idly tousled my hair, looking past me. "So, what's up with sleeping here?" I said.
 
-"Ah…" She sighed and gazed up into the stars. "We are… It's a soul thing. Normally, when we dream, we retreat inside, so we're only aware of our souls. But here, we <em>are</em> the souls. We touch the Otherworld directly."
+"Ah…" She sighed and gazed up into the stars. "We are… It's a soul thing. When we sleep in the material world, we retreat inside, so we're only aware of our souls. That's where our dreams are. But here, we <em>are</em> the souls. We touch the Otherworld directly."
 
 I lightly poked her and said, "So our souls are touching each other right now."
 
@@ -427,7 +426,7 @@ We'd been floating through space for days now. We had only transferred to anothe
 
 The worst part was, I wasn't even having much fun with Yali. When she was awake, she spent half her time studying the Codex or looking in the telescope. When she wasn't doing <em>that</em>, she spent half her time Seeing into the future. It didn't make her exhausted like it had back in the regular world, but she still spent lots of time on it. "It's to make sure we stay alive," she'd said. Well, of course I wanted us to stay alive, but couldn't she just keep us alive <em>faster</em>? Stern take it all. Not only that, but whenever I <em>wanted</em> to know something from the future, she didn't know it, because the Seeing had a whole bunch of limitations.
 
-For one thing, it only showed <em>possible</em> futures, so if she looked too far ahead, almost anything could happen. For another, she couldn't see <em>anything</em> after we went to the next layer. Apparently, at each layer crossing, the gods wove more of their threads in to us – and when the other gods did something big like that, the Waiting God wouldn't be able to predict it. Even some of the other Ravellers' powers were enough to disrupt the Seeing and make parts of the future unreadable. And finally, it was hard to find specific futures even if you wanted to. Yali said she'd seen glimpses of the other Ravellers, and even bits of conversation, but those were only things they <em>might</em> say in <em>some</em> situation, not a whole picture. So the Seeing <em>sounded</em> great, but it was a whole lot of bother to get anything good out of it.
+For one thing, it only showed <em>possible</em> futures, so if she looked too far ahead, almost anything could happen. For another, she couldn't see <em>anything</em> after we went to the next layer. Apparently, at each layer crossing, the gods wove more of their threads into us – and when the other gods did something big like that, the Waiting God wouldn't be able to predict it. Even some of the other Ravellers' powers were enough to disrupt the Seeing and make parts of the future unreadable. And finally, it was hard to find specific futures even if you wanted to. Yali said she'd seen glimpses of the other Ravellers, and even bits of conversation, but those were only things they <em>might</em> say in <em>some</em> situation, not a whole picture. So the Seeing <em>sounded</em> great, but it was a whole lot of bother to get anything good out of it.
 
 And then there was our together time. Yali had manifested an enormous, reclining couch that was just the right shape for us to curl up together and cuddle for hours. Which was nice and all. It seemed to make <em>Yali</em> happy, at least. She always had that sleepy, peaceful expression on her face, only occasionally moving to shift her weight, or stroke my hair, or nuzzle into my cheek. And it's not that I <em>didn't</em> enjoy it. I'd never gotten to spend so much time with her before, and letting my body soak up her warmth, it made me feel floaty and wonderful. But I just didn't like doing it for as <em>long</em> as she did. Before long, I always wanted to be <em>doing</em> something.
 
@@ -441,7 +440,7 @@ I lay down and stuck my arm over the edge, just to see what was there. It felt p
 
 "I'm going to step off the side of the platform, just to see where I end up," I announced.
 
-"Good luck!" said Yali cheerfully, then went back to her work. Stern take it, I had kind of been hoping to get a reaction out of her, but she had probably seen this all ahead of time. Well, at least that meant it was safe. I steeled my nerves and stepped out over the edge.
+"Good luck!" said Yali, then went back to her work. Stern take it, I had kind of been hoping to get a reaction out of her, but she had probably seen this all ahead of time. Well, at least that meant it was safe. I steeled my nerves and stepped out over the edge.
 
 The stars spun around me, then the glowy white of the platform swung up and tried to smack me in the face. I pushed myself up on my arms and tried to stop my head from spinning. "I feel like I'm going to throw up," I said.
 
@@ -541,11 +540,11 @@ I had made her afraid of me.
 
 I felt like I was going to throw up. My hands tingled and my legs shook. I kept shoving my feet into the treadmill harder and harder, as if walking hard enough would change what happened. How could I have DONE that?? Why couldn't I have just LISTENED to her??!! So many feelings were crushing me from all sides. Loneliness. Guilt. Fear. Nausea. Helplessness. Self-pity. I doubled over, slumping my full weight against the handle of the treadmill. An uncontrollable sob tore out of me. I was barely holding myself up. My tears splattered freely on the floor.
 
-I don't know how long I stayed like that. Wave after wave of emotion slammed into me. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, planning to un-manifest the treadmill and then make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering half a meter up in the empty air. As soon as I made the gesture, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
+I don't know how long I stayed like that. Wave after wave of emotion slammed into me. Finally, I was just so weak I didn't even want to stay standing anymore. I lifted a hand, planning to un-manifest the treadmill and then make something soft instead, like a couch. I didn't stop and think that without the treadmill, I was hovering in the empty air. As soon as I made the gesture, my stomach dropped out. My arms and legs clattered into a heap on the hard floor.
 
 I couldn't even bring myself to get up again. I just made a heavy blanket over me and curled up inside it. Parts of me were still lying directly on the floor, but if I wanted to get more comfortable, I'd have had to lift myself up at all. And that was just too much to even think about. I lay that way for a long time, not quite resting. It was half comfort, half pain.
 
-<em>I should go apologize to her</em>, I said to myself. I could just run back to the other side and tell her I knew I fucked up and beg for her forgiveness. What was I waiting for?! I should have done that as soon as I realized! But… what would that even mean to her? Would that make her feel better? Or would I just be trying to make myself feel better, pushing more of my noise on her when she wasn't ready for it?
+<em>I should go apologize to her</em>, I said to myself. I could just run back to the other side and tell her I knew I fucked up and beg for her forgiveness. What was I waiting for?! I should have done that as soon as I realized! But… was she even ready to hear my voice again? Would it make her feel better? Or would I just be trying to make myself feel better, pushing more of my noise on her when she wasn't ready for it?
 
 My muscles made the decision for me. I wasn't going anywhere, not anytime soon.
 
@@ -683,7 +682,7 @@ And then – it happened.
 
 "Hey, is this the shimmering you were talking about?" I said.
 
-"Let me see." Yali waved me out of the way and looked into the telescope I've been using. She started adjusting some of the dials, probably to get a better focus. "This could actually be it. Of course, I can't be sure because I haven't seen this before –"
+"Let me see." Yali waved me out of the way and looked into the telescope I'd been using. She started adjusting some of the dials, probably to get a better focus. "This could actually be it. Of course, I can't be sure because I haven't seen this before –"
 
 "What about in your memories?"
 
