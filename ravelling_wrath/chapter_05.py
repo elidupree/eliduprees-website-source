@@ -370,7 +370,7 @@ Along the way, the rain began, a loud patter on the metal roof. Water streaked t
 
 Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, sheltering it under her body, showing the route to where we were going. She waved for me to follow, and started walking without saying a word.
 
-[????? Diction in this paragraph is slightly off, and imperfect for the mood] The second ring didn't quite look how I remembered it. I guess that shouldn't have been a surprise, since I'd been a little kid last time I was here. And it was still way different from back at home. The buildings were big, brightly colored, and completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-panelled walkways sticking out all over the place. I couldn't resist looking around at everything. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
+The second ring didn't quite look how I remembered it. The last time I'd been here, I was a little kid, and I was amazed by the big, brightly colored buildings, all completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-panelled walkways sticking out all over the place. Even now, my eyes couldn't help but wander as we walked. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
 
 "Yali?" I said. She didn't look up from her silent concentration. "Hey, Yali!"
 
@@ -378,9 +378,9 @@ Finally, we reached the last stop and shuffled off the bus with everyone. By the
 
 "Oh, right. Sorry, I didn't think of that." Ugh, it felt weird that I wasn't getting a reaction out of her. It was like the bond between us had somehow been cut when I wasn't looking. Why was she acting like that? Well, when I thought about it, this was probably really stressful for her too. But at least <em>she</em> knew what it was going to be <em>like</em> when we got sucked into the Otherworld. All <em>I</em> had to go on was her descriptions – and she had said it was "mindbending" and "not actually dangerous", which wasn't exactly reassuring. Whatever, I could put up with it. I went back to looking around while I followed her, to give her a little space. More streets went past. My hoodie slowly got more damp in the rain.
 
-At last, the first ring's wall loomed above us. We didn't <em>get</em> there right away – we were still on the second ring's twisty roads, so even once we could see the wall over the shorter buildings, there was still a lot of zigzagging before we got to the actual gate. But we got there.
+At last, the first ring's wall loomed above us.
 
-At first glance, the first ring's gate didn't look like much. It was pretty small, only wide enough to fit one car at a time. But once I got close, I could see the details. Every part of the stonework around the gate was carved into finely shaped curves. The shapes looked somehow geometric and organic at the same time. And at the top of the gate, they all intertwined into a big version of the Waiting God's symbol, the Watchful Eye.
+At first glance, the gate didn't look like much. It was pretty small, only wide enough to fit one car at a time. But once I got close, I could see the details. Every part of the stonework around the gate was carved into finely shaped curves. The shapes looked somehow geometric and organic at the same time. And at the top of the gate, they all intertwined into a big version of the Waiting God's symbol, the Watchful Eye.
 
 I paused under the gate to run my fingers through the grooves in the carvings. They were way smoother than I expected. "Wooaah…" I said. "I can't even feel the gaps between the stones."
 
@@ -388,7 +388,7 @@ Yali stood ahead of me impatiently. I hurried to catch up.
 
 On the other side of the gate, the city looked totally different, as if the Stern itself had divided the rings from each other. The roads around here weren't even paved normally, they were all cobblestones instead. And all the buildings were kind of… shorter than usual. Not just fewer multi-story buildings, but lower roofs and shorter doors as well. Wouldn't be a problem for me or even Yali, but someone as tall as Dehel would be hitting their head all the time.
 
-And a lot of the buildings had stone walls with carvings like the ones on the gate. I'd have expected that kind of thing from a temple, but even regular shops and stuff had them.
+And a lot of the buildings had stone walls with carvings like the ones on the gate. I would've expected that kind of thing from a temple, but even regular shops and stuff had them.
 
 "Ugh, my legs are tired," I said. They weren't <em>that</em> tired, but I was itching to say something.
 
@@ -414,7 +414,7 @@ How had that even offended her?! I scrambled to think back to what I'd said. "It
 
 We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobblestones. By the time we got where we were going, my legs really <em>were</em> sore from all the times I had to catch myself after tripping a little.
 
-I'd expected the fountain to have a big jet of water shooting up into the air. But instead, it had thousands of little channels of water, flowing along more stone engravings like the others I'd seen around here. There was a big, shallow basin in the middle of the city square, with a big carved stone sticking up in the middle, and more carvings around the edges. All the little channels of water flowed peacefully into the basin, with hardly even a splash. If it wasn't for the rain putting ripples all over the water's surface, it would probably all be a steady, continuous stream. It'd look like the water wasn't moving at all.
+I'd expected the fountain to have a big jet of water shooting up into the air. But instead, it had thousands of little channels of water, flowing along more stone engravings like the others I'd seen around here. There was a wide, shallow basin in the middle of the city square, with a big carved stone sticking up in the middle, and more carvings around the edges. All the little channels of water flowed peacefully into the basin, with hardly even a splash. If it wasn't for the rain putting ripples all over the water's surface, it would probably all be a steady, continuous stream. It'd look like the water wasn't moving at all.
 
 Around the fountain were a few benches made of the same stone. Yali led me to one of them and we sat down together. For a solid piece of rock, it was surprisingly comfortable. Once I was settled in, I held Yali's hand and leaned against her shoulder.
 
