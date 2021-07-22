@@ -398,7 +398,7 @@ Yali gave a wry smile. Then she focused again. "These two stories have a lot in 
 
 "Same."
 
-There was a pause. [????? We ate a few more bites in silence. [Maybe: they finished our orders]]
+There was a pause. They finished our orders, and we both dug into our food.
 
 "So," I began, "Where are you going with all this?"
 
@@ -416,7 +416,7 @@ Yali hesitated. "My idea is to, to, to <em>explore</em> your ways of feeling ang
 
 "A what?"
 
-Yali didn't answer. She was deep in thought. I wanted to know what she was thinking, but I knew how she got when she was like this – if I tried to interrupt her, she'd just mumble something incomprehensible and then take even longer. So I finished my food in slience, letting her take as much time as she needed. Once we were both sitting staring at empty plates, though, I started to get a little restless.
+Yali didn't answer. She was deep in thought. I wanted to know what she was thinking, but I knew how she got when she was like this – if I tried to interrupt her, she'd just mumble something incomprehensible and then take even longer. So I finished eating in slience, letting her take as much time as she needed. Once we were both sitting with empty plates, though, I started to get a little restless.
 
 "So, are you going to –" I began.
 

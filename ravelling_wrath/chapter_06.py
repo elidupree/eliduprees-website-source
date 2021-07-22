@@ -202,7 +202,13 @@ I settled into watching with Yali work. She was totally absorbed in the Codex, h
 
 Yali didn't have a lot of idle habits, but that just made it easier for me to get engrossed in the little movements she <em>did</em> do. She had her neck stuck out towards the screen, like she was always leaning to get closer. As she read, her face barely moved a centimeter either way – but it did move, in a slow, repeating motion back and forth. When I watched it closely, it was almost a figure-eight, dipping down a little at each side before lifting back up to read in the middle again. I was hypnotized.
 
-It turned out I couldn't stay absorbed in that forever. At some point, the feeling dropped away and I was just stiff and bored again. Irritably, I started pacing around. I wanted to get Yali's attention, but I knew she had a lot to figure out. [????? needs better section transition:] Back in the regular world, she had already told me a bit about what she'd need to do now. Besides just figuring out where we were going, it was also important to find the locations of the other Ravellers – especially the Alchemist.
+It turned out I couldn't stay absorbed in that forever. At some point, the feeling dropped away and I was just stiff and bored again. Irritably, I started pacing around. I wanted to get Yali's attention, but I knew she had a lot to figure out.
+
+While I waited, I thought back to what she had told me, about what she'd need to do now.
+
+<bigbreak>
+
+Besides just figuring out where we were going, it was also important to find the locations of the other Ravellers – especially the Alchemist.
 
 There were three other Ravellers in the Otherworld with us – the Imminent, the Justicar and the Alchemist. Each of them was going to have their own abilities, motivations, and dangers or opportunities they'd create for us.
 

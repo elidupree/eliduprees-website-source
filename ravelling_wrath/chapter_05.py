@@ -59,9 +59,6 @@ posts = [
   "content_warnings":'''<p>Brief description of a sexual assault, and details of a third-party's feelings about it.</p>''',
   "contents": '''
   
-  [????? this whole chapter needs to be tightened up a little, and also needs better medium-term promises ("what are they trying to accomplish by relaxing?")]
-  [????? Opening diction isn't quite consistent with how I've developed Yali, and the fun stuff has a couple paragraphs more than necessary]
-  
 It turned out I'd been worrying for the wrong person.
   
 After I explained everything, Yali took a long time to answer. We were sitting together in her living room, and she looked as stressed as I'd ever seen her, and my chest was tight with anxiety about what she was going to say. But when she finally spoke, it was the opposite of what I was afraid of.
@@ -325,7 +322,7 @@ It wouldn't be long till I was there. I stopped thinking and just jogged, feelin
 
 When I got to Clover Square, I didn't see Yali anywhere. I was about to text her again, to ask when she'd get there, when I felt her hand land on my shoulder. She led me into a corner and handed me a shapeless gray hoodie that was a couple sizes too big for me. I obediently pulled it over my head and wriggled my arms into the sleeves. Yali was wearing one just like it, keeping her face well back under the hood.
 
-"I don't want anyone to recognize us on our way to the fountain," she said. [????? The fountain was something we'd discussed earlier.] We were going to go to the fountain at the center of the first ring, where the boundary between this world and the Otherworld was the thinnest. Apparently, the actual process of getting pulled through the boundary was going to be a really weird experience, and if it didn't go just right, we might end up getting flung to faraway parts of the Otherworld instead of arriving at the same place as each other. But it would be easier if we were near the fountain, instead of just being pulled through from wherever we happened to be. "We'll take a bus up to the second ring, then walk from there."
+"I don't want anyone to recognize us on our way to the fountain," she said. The fountain was our destination. It was a place at the center of the first ring, where the boundary between this world and the Otherworld was the thinnest. Apparently, the actual process of getting pulled through the boundary was going to be a really weird experience, and if it didn't go just right, we might end up getting flung to faraway parts of the Otherworld instead of arriving at the same place as each other. But it would be easier if we were near the fountain, instead of just being pulled through from wherever we happened to be. "We'll take a bus up to the second ring, then walk from there."
 
 "Why not all the way?"
 
