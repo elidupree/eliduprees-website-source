@@ -408,10 +408,16 @@ We kept talking for hours. Layo cried too, thinking about how he'd miss with me 
 
 But as we parted ways, I was still dreading having to actually tell her.
 
-<bigbreak>
+
+''',
+},
+]
 
 
-[????? cut the rest of this – it's been replaced by the above]
+'''
+
+
+[????? I cut this whole scene (and replaced it with the much shorter version above) because it wasn't important *enough* to the story to justify the space it took up]
 
 And then I took off again. My lungs were killing me, but I'd never let that stop me before, and I wasn't about to start now. Pretty soon I flung open the art room door to find Layo and a few other kids hard at work.
 
@@ -573,7 +579,5 @@ With the talk of saying goodbye, I felt like I'd be losing him for good as soon 
 
 But at least I knew what I was doing again. I just had to see if I was really right about how Yali would react.
 
-''',
-},
-]
+'''
 
