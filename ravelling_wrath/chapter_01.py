@@ -145,7 +145,7 @@ Finally, she spoke up. "How much do you know about what happens during," she swa
 
 "It's, it's, it's worse than that. Just tell me how much you know, so I can explain from there."
 
-I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous, and now I had to remember some shit from Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of tasks. If they live, they get to go home, and the gods can… Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"
+I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous, and now I had to remember some shit from Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"
 
 Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
@@ -250,7 +250,7 @@ I looked at her. "You… really think I'd – you really think there's a chance 
 
 I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Yali would never lie to me. The only way she would say something so serious, was if she was absolutely sure it was true…
 
-"I –" I said. "If I'm really that dangerous, couldn't I just… stay away from you? When we're in the Otherworld, we could do our tasks separately. Not that I <em>want</em> to, but, you know…"
+"I –" I said. "If I'm really that dangerous, couldn't I just… stay away from you? When we're in the Otherworld, we could do our challenges separately. Not that I <em>want</em> to, but, you know…"
 
 "If only it were that simple. Even if we try to stay apart, some of the layers will force us together."
 
@@ -260,7 +260,7 @@ I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Ya
 
 "Let me guess, one for each god."
 
-"Yeah. What you've been calling 'tasks' – that basically just means that we have to travel through each of the layers. We – the Ravellers – we do the first layer together, then we do the second layer together, and so on. And the layers are sort of… <em>shaped</em> by the will of their gods. We won't be able to stay apart if it's not something the god… <em>likes</em>."
+"Yeah. What you've been calling 'challenges' – that basically just means that we have to travel through each of the layers. We – the Ravellers – we do the first layer together, then we do the second layer together, and so on. And the layers are sort of… <em>shaped</em> by the will of their gods. We won't be able to stay apart if it's not something the god… <em>likes</em>."
 
 "What if we just <em>don't</em> go through all the layers? Or – what if I get behind, so we're never in the <em>same</em> –"
 

@@ -107,7 +107,7 @@ Yali gave me a Look.
 
 "What you mean, it doesn't matter? Of course it matters! If you're in pain, that matters!"
 
-Yali went quiet, but even though she wasn't arguing back, I could tell it wasn't over. "I should have known you'd feel that way," she said, and I could tell she was only saying it to be accommodating. "And it's not something we need to do right away. We should start with the simpler things, and there are still two months before the Ravelling begins…"
+Yali went quiet, but even though she wasn't arguing back, I could tell it wasn't over. "I should have known you'd feel that way," she said. "And it's not something we need to do right away. We should start with the simpler things, and there are still two months before the Ravelling begins…"
 
 That was true – everyone knew the Ravelling started near the start of November. But the way she said it… it was like she <em>expected</em> that I'd have to agree with her, once I'd thought about it. Was I really going to have to hurt her? How many things was she planning to force herself through, for the sake of the plan? I couldn't shake a sense of unease, knowing what might be ahead of us.
 
@@ -177,22 +177,19 @@ Yali didn't seem very reassured. "It's important for you to be able to talk to s
 
 "Right, I'd have to be responsible for every –"
 
-"No, I meant the other way around! I mean your – you said you had a 'personal thing'? I wish I knew what it was here, but I can respect that, but like, what are you going to do – <em>not</em> have a personal thing? You're allowed to have some personal things! And every time you have a personal thing, are you going to be worrying about whether it strains our relationship? Seriously, it's okay, I'm literally telling you it's okay. Look, what do I have to do to convince you it's okay?"
+"No, I meant the other way around! I mean your – you said you had a 'personal thing'? I wish I knew what it was here, but I can respect that, but like, what are you going to do – <em>not</em> have a personal thing? And every time you have a personal thing, are you going to be worrying about whether it strains our relationship? Seriously, it's okay, I'm literally telling you it's okay. Look, what do I have to do to convince you it's okay?"
 
 Yali was silent, deep in thought.
-
-[????? Yali thought about it gravely, and I worried about her she was feeling]
 
 At last, she spoke. "I will use the Seeing," she said.
 
 <bigbreak>
 
-[????? The Seeing was Yali's magic power.]
+The Seeing was Yali's magic power.
 
+"Wait, actually, how <em>does</em> that work?" I said. "Can you literally see the future?"
 
-[?????  "wait, actually, how <em>does</em> that work? Can you literally see the future?"]
-
-"Not exactly. It's more like fragments of possible futures. The way it works is, I think of something I'm planning to do, and it shows me what will happen if I go through with it. So I can think of someone for you to tell about this, and then see if telling them what lead to, to, to anything bad."
+"Not exactly. It's more like fragments of possible futures. The way it works is, I think of something I'm planning to do, and it shows me what might happen if I go through with it. So I can think of someone for you to tell about this, and then see if telling them will lead to, to, to anything bad."
 
 "Awesome," I said. I didn't get to see people doing actual magic very often, so I was excited for this.
 
@@ -210,9 +207,9 @@ At last, she spoke. "I will use the Seeing," she said.
 
 "Help yourself!" Yali awkwardly carried over three more sienkahs and handed them to me before starting on her own.
 
-"Sweet! Thank you so much!" I took a huge bite out of one of them immediately. It was delicious. Before long, I had wolfed down two whole fruits. When I looked up, Yali was still methodically chewing through her first one.
+"Sweet! Thank you so much!" I took a huge bite immediately. It was delicious. Before long, I had wolfed down two whole fruits. When I looked up, Yali was still methodically chewing through her first one.
 
-Yali finished her first fruit and set down the other one. Then she wiped her mouth and looked back at me. "Let's try your idea. See if we can make you mad."
+Soon, she wiped her mouth and looked back at me. "Let's try your idea. See if we can make you mad."
 
 "Alright, bring it on."
 
@@ -372,9 +369,9 @@ There was an awkward pause. I scrambled for something to break the silence.
 
 The Otherworld had five layers, and the third one was going to be the <em>worst</em>.
 
-Our journey would begin in the starry void of the Waiting, the god who oversaw the cycle of the seasons, the god who had woven the structure of the Ravelling out of the chaos of souls that had come before. The Waiting God would [????? challenge us to engage in patient study,] which sounded like a huge pain, but I could put up with it. And the way Yali described its world – an empty world full of stars – made it sound eerily beautiful.
+Our journey would begin in the starry void of the Waiting, the god who oversaw the cycle of the seasons, the god who had woven the structure of the Ravelling out of the chaos of souls that had come before. The Waiting God's challenges for us would be about patience and studying, which sounded like a huge pain, but I could put up with it. And the way Yali described its world – an empty world full of stars – made it sound eerily beautiful.
 
-Second was the riddle-maze of the Seeking, [????? the god of curiosity and invention, coincidence and opportunity. The god who made coincidences happen. Its world was ever-changing, adapting to each new Raveller to become what they least expected, challenging them to see things from perspectives they'd never considered. It sounded awesome, and it was the one I was most eager to see.]
+Second was the riddle-maze of the Seeking, the god of curiosity and invention, coincidence and opportunity. Its world was ever-changing, adapting to each new Raveller to become what they least expected, challenging them to see things from perspectives they'd never considered. It sounded awesome, and now that I knew it was coming, I couldn't wait to see it for myself.
 
 But then… the Stern.
 
