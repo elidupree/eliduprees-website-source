@@ -381,7 +381,7 @@ It was bad enough that we had to deal with the Stern in our own world. The Stern
 
 Yali shrugged. "There's worse things than living in a boring place."
 
-And in the Otherworld… [????? we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but it was [the way it was]. And it was in the <em>middle</em> of the five layers, so you couldn't put it off or get it over with early]
+And in the Otherworld… we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but it was always the one with the strictest requirements for the Ravellers. Yali said it would show us symbolic representations of principles, and make us endure hard work and suffering to see those principles upheld. She literally used the word "suffering". That was gonna suck, especially when it came right after the Seeking God's fun. Why did it have to be the <em>third</em> layer –
 
 "Wait," I said. "Third ring – third layer – that's not a coincidence, is it?"
 
@@ -459,7 +459,7 @@ Yali patted me on the head. "Good idea," she said. "In any case… The <em>other
 
 "Uh… sorry, you can keep explaining the rejuvenating thing now."
 
-"Right. So, because all the Farseers and Blood Children have been killed <em>in the Otherworld</em>, their souls have been damaged, and our gods haven't been able to rejuvenate. So they are slowly getting weaker. The Blood God is still dangerous, but each year, it's a tiny bit less powerful. That's not going to keep us safe, but, it gives us a chance. And the Waiting God is weaker too. My powers won't be quite the same as the old Farseers… and its, its worlds are a little less elaborate than they used to be…"
+"Right. So, because all the Farseers and Blood Children have been killed <em>in the Otherworld</em>, their souls have been damaged, and our gods haven't been able to rejuvenate. So our gods are slowly getting weaker. The Blood God is still dangerous, but each year, it's a tiny bit less powerful. That's not going to keep us safe, but, it gives us a chance. And the Waiting God is weaker too. My powers won't be quite the same as the old Farseers… and the worlds it creates are a little less elaborate than they used to be…"
 
 "Then why do they kill each other?! Wouldn't all the gods be better off if we just didn't kill each other? Then the Blood God and the Waiting God could both rejuvenate –"
 
@@ -503,7 +503,7 @@ I thought about it. "We could still have dated for three months… and then, you
 
 Yali didn't say anything.
 
-"Hang on, how <em>do</em> you live alone? And in the third ring, too?" The third ring of the city didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
+"Hang on, how <em>do</em> you live alone? And in the third ring, too?" The third ring didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
 
 "If we talk about my past," said Yali calmly, "I'll get upset. And if I get upset, I won't be able to plan for the future."
 
@@ -513,7 +513,7 @@ Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle a
 
 <bigbreak>
 
-We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she was <em>able</em> to the the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
+We kept talking until long after the sun went down. Yali told me all kinds of things about the Otherworld and the gods, the Ravellers and their powers. For every thing she told me, I had a dozen more questions, and she had to tell me a dozen more things to answer them. It was even a learning experience for Yali – apparently, she was <em>able</em> to view the old Farseers' memories, but she didn't really know the things <em>herself</em> until she looked through them to answer my questions. We spent hours looking through the memories for weird facts and making guesses about how things worked. It was so strange and wonderful, I almost forgot the whole "probably dying" thing.
 
 Finally, hours later, Yali said, "It's time for me to settle down for the night. Before I send you home, let's go ahead and try the Seeing."
 
