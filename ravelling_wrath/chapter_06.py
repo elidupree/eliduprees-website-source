@@ -182,11 +182,21 @@ Yali didn't seem too happy with that either, but she let it slide. "In any case,
 
 But one way or another, we were going to have to read the Codex, so we could navigate the stars.
 
-In the end, Yali decided to do it herself. "I had wanted us to do it together," she said. "But I know it's going to frustrate you, and that puts your own frustrations on the same side as the Blood God's, which could be dangerous."
+"The problem is," said Yali, "I'm actually <em>not</em> that good at studying from books."
+
+"You what?"
+
+Yali told me her grades in school, and I was blown away. <em>My</em> grades were better than that! Of course, my grades were actually pretty good – sure, I liked to complain about the schoolwork, but I'd always <em>eventually</em> sit down and do it, and it wasn't that hard. But still – "What?! How can I be getting better grades than someone who was literally picked by the gods for being smart?"
+
+"<em>Not</em> for being smart. For patience, foresight, and planning," said Yali patiently. "That's different from being good at schoolwork. If you give me a worksheet to do, I just, just can't focus on it. Like I have to find the right time of day, get relaxed, make sure to take care of anything else I'm worrying about, and <em>then</em> I can sit down with a worksheet, and then <em>maybe</em> I can focus on it. But most of the time, there's just too much other stuff going on in my head. The only time I get things done fast is when I know I'm in danger. And that's made it easier to prepare for the Ravelling… But the Waiting God will give us plenty of time. Studying the Codex won't be <em>urgent</em> enough for me to focus."
+
+But in the end, Yali still decided to do it herself.
+
+"I had wanted us to do it together," she said. "But I know it's going to frustrate you, and that puts your own frustrations on the same side as the Blood God's, which could be dangerous."
 
 "Yeah." I knew what she meant. It was spooky how easily I had slipped into saying a Blood God thing when I thought I was just complaining.
 
-So that was what we did. Yali sat down, adjusted the chair until she was comfortable, and focused in on the screen. Pretty soon, she found a starting point in the Codex and read for a while. Then she scrolled down and kept reading for a while longer. A few pages later, I realized that this was going to go on for a long time.
+So that was what we did. Yali sat down, adjusted the chair until she was comfortable, and focused in on the screen. Pretty soon, she found a starting point in the Codex and read for a while. Then she scrolled down and kept reading for a while longer. A few pages later, I realized that this wouldn't be over anytime soon.
 
 "Hey, how about you use your Seeing?" I said. "Look in the future and tell us how we figure it all out."
 
