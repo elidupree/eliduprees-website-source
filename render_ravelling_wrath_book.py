@@ -15,6 +15,7 @@ print("WeasyPrint version:", weasyprint.__version__)
 from weasyprint import HTML, CSS
 
 import blog_server_shared
+import post_contents_utils
 import utils
 
 import ravelling_wrath.main
@@ -25,7 +26,7 @@ pdf_path = os.path.join (build_path, "ravelling_wrath.pdf")
 os.makedirs (build_path, exist_ok=True)
 
 def chapter_html (chapter):
-  contents = utils.auto_paragraphs (chapter ["contents"])
+  contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
   contents = f"""
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
@@ -152,7 +153,7 @@ content_opf = '''
     <dc:identifier id="uuid_id" opf:scheme="uuid">c0b3ea68-aced-4746-966b-7b0fc27ba1fc</dc:identifier>
     '''+'''
     '''.join(f'''<dc:subject>{tag}</dc:subject>''' for tag in tags) + '''
-    <dc:description>'''+ravelling_wrath.main.full_blurb+'''</dc:description>
+    <dc:description>'''+utils.strip_tags(ravelling_wrath.main.long_blurb)+'''</dc:description>
     <dc:language>en</dc:language>
     <dc:identifier opf:scheme="ISBN">TODO</dc:identifier>
     <meta name="cover" content="cover"/>

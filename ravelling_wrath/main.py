@@ -177,7 +177,7 @@ for post in posts:
     completed_chapters += 1
     
 short_blurb = "A pair of teenagers get caught up in a conflict between the gods."
-long_blurb = '''<p>Rinn Akatura has never really cared about the gods, any more than she cares about "obeying school rules" or "being nice to jerks". But when she – and her girlfriend Yali – are chosen to represent the gods in the Ravelling, they get caught up in a decades-old conflict they could never have imagined.</p><p>In the magical Otherworld, the Blood God enters Rinn's mind and turns her very emotions into a battlefield, leaving her torn between her love for Yali and an ancient enmity that brings them almost (but not quite) to the brink of death. Can she find a new kind of strength before the Blood God's wrath consumes her?</p>'''
+long_blurb = '''<p>Rinn Akatura has never really cared about the gods, any more than she cares about "obeying school rules" or "being nice to jerks". But when she – and her girlfriend Yali – are chosen to represent the gods in the Ravelling, they get caught up in a decades-old conflict they could never have imagined.</p> <p>In the magical Otherworld, the Blood God enters Rinn's mind and turns her very emotions into a battlefield, leaving her torn between her love for Yali and an ancient enmity that brings them almost (but not quite) to the brink of death. Can she find a new kind of strength before the Blood God's wrath consumes her?</p>'''
 
 for post in posts:
   post ["blurb"] = short_blurb
