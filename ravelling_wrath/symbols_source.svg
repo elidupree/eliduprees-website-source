@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-521.18492"
-     inkscape:cy="-315.80607"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-120.14653"
+     inkscape:cy="-413.91687"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -2297,20 +2297,20 @@
          y="180.72443"
          id="tspan6044">(three bits below untouched)</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.382;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.482;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -7.338,206.8844 c 2.046111,-0.0176 4.4280531,-2.06844 7.33847006252,-2.08606 C 2.9108871,204.78074 5.768139,206.8844 7.338,206.8844 c -3.0868054,0 -5.2399136,2.11199 -7.33752993748,2.11199 C -2.0971463,208.99639 -3.7137845,206.8844 -7.338,206.8844 Z"
        id="path6046"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czczc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.482;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -7.338,206.8844 c 2.839861,0.0353 5.1688861,-1.13356 7.33847006252,-1.13356 2.16958303748,0 4.74488803748,1.11592 7.33780503748,1.13356"
        id="path6048"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
     <path
        sodipodi:nodetypes="cccccc"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -3.07,205.3624 -0.582,-0.778 0.652,-1.285 6,0 0.6517471,1.285 -0.582083,0.778"
        id="path6056"
        inkscape:connector-curvature="0" />
@@ -2330,7 +2330,7 @@
        inkscape:href="#path6046"
        d="m -0.00585938,203.11719 c -1.71581722,0.0104 -3.18890932,0.60638 -4.42578122,1.13281 -1.2368719,0.52643 -2.2625271,0.9475 -2.9160156,0.95312 a 1.1176056,1.1176056 0 0 0 0.00977,2.23438 c 1.5951046,0 2.6907027,0.44229 3.765625,0.94922 1.0749222,0.50693 2.1485242,1.16211 3.5722656,1.16211 1.4237414,0 2.5918792,-0.63623 3.7519531,-1.15235 1.160074,-0.51611 2.297318,-0.95898 3.5859375,-0.95898 l 0,-2.23438 c -0.2858007,0 -1.4348789,-0.4296 -2.7421875,-0.96679 -1.3073086,-0.53719 -2.8749284,-1.12959 -4.60156248,-1.11914 z" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1.9849262,209.69384 c 0.5902153,1.12773 1.29522671,1.3283 1.9849262,2.20941 0.74469554,-0.85096 1.3986554,-0.99716 1.9849262,-2.17634 -0.6179983,0.22549 -1.26918172,0.3864 -1.9849262,0.3864 -0.74008033,0 -1.3847007,-0.17825 -1.9849262,-0.41947 z"
        id="rect6068"
        inkscape:connector-curvature="0"
@@ -2342,9 +2342,10 @@
        id="use6086"
        transform="matrix(-0.99986012,0,0,1.0000111,0.00113198,-0.00231462)"
        width="100%"
-       height="100%" />
+       height="100%"
+       style="stroke-width:0.48203104;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -6.0457291,208.1113 c 0.048256,0.97135 0.6032706,1.43662 0.7442809,2.22419 0.8009458,-0.42169 1.724121,-0.29485 2.479226,-1.01868 -0.2526707,-0.1231 -0.501733,-0.24828 -0.750204,-0.36546 -0.7572078,-0.3571 -1.5281983,-0.67911 -2.4733029,-0.84005 z"
        id="path6050"
        inkscape:connector-curvature="0"
@@ -2369,7 +2370,7 @@
        inkscape:connector-curvature="0"
        id="path6094"
        d="m -191.51993,427.17161 c 2.04611,-0.0176 4.42806,-2.06844 7.33847,-2.08606 2.91042,-0.0176 5.76767,2.08606 7.33753,2.08606 -3.0868,0 -5.23991,2.11199 -7.33753,2.11199 -2.09761,0 -3.71425,-2.11199 -7.33847,-2.11199 z"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.382;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.482;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Eli\Documents\pfft\all_5_gods_1.png"
        inkscape:export-xdpi="180.19765"
        inkscape:export-ydpi="180.19765" />
@@ -2378,7 +2379,7 @@
        inkscape:connector-curvature="0"
        id="path6096"
        d="m -191.51993,427.17161 c 2.83986,0.0353 5.16889,-1.13356 7.33847,-1.13356 2.16959,0 4.74489,1.11592 7.33781,1.13356"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.482;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Eli\Documents\pfft\all_5_gods_1.png"
        inkscape:export-xdpi="180.19765"
        inkscape:export-ydpi="180.19765" />
@@ -2386,7 +2387,7 @@
        inkscape:connector-curvature="0"
        id="path6098"
        d="m -187.25193,425.64961 -0.582,-0.778 0.652,-1.285 6,0 0.65175,1.285 -0.58208,0.778"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="C:\Users\Eli\Documents\pfft\all_5_gods_1.png"
        inkscape:export-xdpi="180.19765"
@@ -2405,7 +2406,7 @@
        inkscape:connector-curvature="0"
        id="path6104"
        d="m -186.16685,429.98105 c 0.59021,1.12773 1.29522,1.3283 1.98492,2.20941 0.7447,-0.85096 1.39866,-0.99716 1.98493,-2.17634 -0.618,0.22549 -1.26918,0.3864 -1.98493,0.3864 -0.74008,0 -1.3847,-0.17825 -1.98492,-0.41947 z"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Eli\Documents\pfft\all_5_gods_1.png"
        inkscape:export-xdpi="180.19765"
        inkscape:export-ydpi="180.19765" />
@@ -2425,7 +2426,7 @@
        inkscape:connector-curvature="0"
        id="path6108"
        d="m -190.22766,428.39851 c 0.0483,0.97135 0.60327,1.43662 0.74428,2.22419 0.80095,-0.42169 1.72412,-0.29485 2.47923,-1.01868 -0.25267,-0.1231 -0.50173,-0.24828 -0.7502,-0.36546 -0.75721,-0.3571 -1.5282,-0.67911 -2.47331,-0.84005 z"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.48199999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Eli\Documents\pfft\all_5_gods_1.png"
        inkscape:export-xdpi="180.19765"
        inkscape:export-ydpi="180.19765" />
