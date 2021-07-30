@@ -63,13 +63,13 @@ def main():
   media_dir = "./media/"
   media_subdirs = os.listdir(media_dir)
   for media_subdir in media_subdirs:
-    media_filenames = os.listdir(os.path.join(media_dir, media_subdir))
-    for media_filename in media_filenames:
-      source = os.path.join(media_dir, media_subdir, media_filename)
-      destination = os.path.join(build_dir, "media", media_filename)
-      if os.path.isdir (source):
-        shutil.copytree(source, destination)
-      else:
+    media_subdir_fullpath = os.path.join(media_dir, media_subdir)
+    for root, dirs, files in os.walk(media_subdir_fullpath):
+      target_root = root.replace(media_subdir_fullpath, os.path.join(build_dir, "media"), 1)
+      ensure_dir(target_root)
+      for media_filename in files:
+        source = os.path.join(root, media_filename)
+        destination = os.path.join(target_root, media_filename)
         shutil.copy(source, destination)
   shutil.copy(
     os.path.join(build_dir, "media/favicon.ico"),

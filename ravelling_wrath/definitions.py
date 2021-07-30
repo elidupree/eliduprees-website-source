@@ -82,12 +82,11 @@ div.blog_post .prayer p {
   text-indent: 0;
 }
 
-/* For the emoji graphics, we currently use twemoji (https://github.com/twitter/twemoji). */
 div.blog_post img.emoji {
   display: inline-block;
-  width: 1em;
-  height: 1em;
-  margin: 0;
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0 -.125em;
   vertical-align: middle;
 }
 
