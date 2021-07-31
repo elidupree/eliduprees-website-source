@@ -9,6 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 6",
   "auto_paragraphs": True,
+  "symbols": "watchful-eye",
   "authors_notes":'''
 
 <p>At over 12000 words, this chapter sure is a doozy!</p>

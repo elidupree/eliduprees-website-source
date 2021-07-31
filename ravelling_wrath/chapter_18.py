@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 18",
   "auto_paragraphs": True,
   "blurb_image": "/media/ravelling-wrath/sketches/burning-heart-ornate.jpg?rr",
+  "symbols": "burning-heart",
   "head":head,
   "chapter_title": "The Reckoning",
   "content_warnings": "<p>Combat and fear of death; protagonists having to kill someone in self-defense, with physical details of the death.</p>",

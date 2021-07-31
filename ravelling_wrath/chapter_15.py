@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 15",
   "auto_paragraphs": True,
   "blurb_image": "/media/ravelling-wrath/sketches/cloven-earth-ornate.jpg?rr",
+  "symbols": "cloven-earth",
   "head":head,
   "chapter_title": "The Scream",
   "content_warnings": "<p>Details of strange and unpleasant brain experiences; traumatic flashbacks; abusive relationships, and people not wanting to admit how bad they are; child abuse and neglect, including physical abuse, sexual abuse, dissociation, homelessness, and survival sex work, with no physical details of the sexual abuse, and no long scenes of abuse, but many details about the social and emotional context, told as a retrospective summary; brief mentions of addiction.</p>",

@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 21",
   "auto_paragraphs": True,
   "blurb_image": "/media/ravelling-wrath/sketches/end.jpg?rr",
+  "symbols": "nonaligned",
   "head":head,  "chapter_title": "Change",
   "content_warnings": '''<p>A character with PTSD coping with feelings of guilt.</p>''',
   "contents": '''

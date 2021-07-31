@@ -76,22 +76,27 @@ def fetch_emoji_if_needed(hex_string):
     response = requests.get(url)
     open(black_path, 'wb').write(response.content)
 
-def emoji_html(unicode_emoji, hex_string):
+def emoji_html(unicode_emoji, hex_string, emoji_folder_path):
   fetch_emoji_if_needed(hex_string)
-  return f'<img class="emoji" alt="{unicode_emoji}" src="/media/ravelling-wrath/emoji/color/{hex_string}.svg?rr" />'
+  return f'<img class="emoji" alt="{unicode_emoji}" src="{emoji_folder_path}/{hex_string}.svg?rr" />'
   
 def emoji_hex_string(emoji):
   return hex(ord(emoji))[2:]
 
-def replace_simple_emoji(match):
+def replace_simple_emoji(match, emoji_folder_path):
   unicode_emoji = match.group(0)
   hex_string = emoji_hex_string(unicode_emoji)
-  return emoji_html(unicode_emoji, hex_string)
+  return emoji_html(unicode_emoji, hex_string, emoji_folder_path)
   
-def replace_complex_emoji(match):
+def replace_complex_emoji(match, emoji_folder_path):
   unicode_emoji = match.group(1)
   hex_string = match.group(2)
-  return emoji_html(unicode_emoji, hex_string)
+  return emoji_html(unicode_emoji, hex_string, emoji_folder_path)
+  
+def replace_all_emoji(contents, emoji_folder_path):  
+  contents = re.sub(simple_emoji, lambda match: replace_simple_emoji(match, emoji_folder_path), contents)  
+  contents = re.sub(complex_emoji, lambda match: replace_complex_emoji(match, emoji_folder_path), contents)
+  return contents
   
 simple_emoji = "😡|😂|❤|😝|😫|🧪|🤕|🌈|🖤|🤎|💜|💙|💚|💛|🧡|😨|😧|📱|💯|👍|😶|🤪|😟|😲|😆|😌|🤗"
 complex_emoji = r"<emoji\((.+?)\)\[(.+?)\]>"
@@ -118,13 +123,11 @@ for index, chapter in enumerate (chapters):
   chapter ["contents"] = re.sub(r"\b'\B", "’", chapter ["contents"])
   
   
-  chapter ["contents"] = re.sub(simple_emoji, replace_simple_emoji, chapter ["contents"])  
-  chapter ["contents"] = re.sub(complex_emoji, replace_complex_emoji, chapter ["contents"])
-  
 
 def chapter_to_post (chapter):
   post = chapter.copy()
   warnings = post.get ("content_warnings", None)
+  post ["contents"] = replace_all_emoji(post ["contents"], "/media/ravelling-wrath/emoji/color")
   post ["contents"] = f'''<h2>Chapter {num2words(post ["chapter_number"]).capitalize()}: {post ["chapter_title"]}</h2>
 
   '''+ ("" if warnings is None else content_warning_header ("<p>Content warnings for this chapter:</p>" + warnings)) + post ["contents"]

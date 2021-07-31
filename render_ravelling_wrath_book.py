@@ -30,6 +30,7 @@ os.makedirs (build_path, exist_ok=True)
 def chapter_html (chapter):
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
+  contents = ravelling_wrath.main.replace_all_emoji(contents, "media/vendor/ravelling-wrath/emoji/black")
   contents = f'''
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
@@ -200,7 +201,7 @@ if weasyprint:
       font_config = FontConfiguration()
       print(css_string)
       css = CSS(string=css_string, font_config=font_config)
-      document = HTML (string = full_html).render (stylesheets=[css], font_config=font_config)
+      document = HTML (string = full_html, base_url = os.getcwd()).render (stylesheets=[css], font_config=font_config)
       print(dir(document))
       document.write_pdf(pdf_path)
     #except Exception as e:
