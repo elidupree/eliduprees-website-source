@@ -28,6 +28,7 @@ pdf_path = os.path.join (build_path, "ravelling_wrath.pdf")
 os.makedirs (build_path, exist_ok=True)
 
 def chapter_html (chapter):
+  ravelling_wrath.main.replace_section_breaks(chapter, "/media/editable_stuff/ravelling-wrath/symbols")
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
   contents = ravelling_wrath.main.replace_all_emoji(contents, "media/vendor/ravelling-wrath/emoji/black")

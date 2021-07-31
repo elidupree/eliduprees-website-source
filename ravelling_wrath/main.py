@@ -93,16 +93,24 @@ def replace_complex_emoji(match, emoji_folder_path):
   hex_string = match.group(2)
   return emoji_html(unicode_emoji, hex_string, emoji_folder_path)
   
+simple_emoji = "😡|😂|❤|😝|😫|🧪|🤕|🌈|🖤|🤎|💜|💙|💚|💛|🧡|😨|😧|📱|💯|👍|😶|🤪|😟|😲|😆|😌|🤗"
+complex_emoji = r"<emoji\((.+?)\)\[(.+?)\]>"  
+
 def replace_all_emoji(contents, emoji_folder_path):  
   contents = re.sub(simple_emoji, lambda match: replace_simple_emoji(match, emoji_folder_path), contents)  
   contents = re.sub(complex_emoji, lambda match: replace_complex_emoji(match, emoji_folder_path), contents)
   return contents
-  
-simple_emoji = "😡|😂|❤|😝|😫|🧪|🤕|🌈|🖤|🤎|💜|💙|💚|💛|🧡|😨|😧|📱|💯|👍|😶|🤪|😟|😲|😆|😌|🤗"
-complex_emoji = r"<emoji\((.+?)\)\[(.+?)\]>"
+
+def replace_section_breaks(chapter, symbols_folder_path):  
+  chapter ["contents"] = chapter ["contents"].replace("<bigbreak>", f'<img class="rav-section-break" alt="section break" src="{symbols_folder_path}/{chapter["symbols"]}-section-break.png?rr" />')
 
 for index, chapter in enumerate (chapters):
   chapter ["chapter_number"] = index + 1
+  if "symbols" in chapter:
+    last_symbols = chapter["symbols"]
+  else:
+    chapter["symbols"] = last_symbols
+    
   chapter ["contents"] = auto_paragraphs (chapter ["contents"])
   # Smart quotes cases:
   # Standard apostrophes:
@@ -128,6 +136,7 @@ def chapter_to_post (chapter):
   post = chapter.copy()
   warnings = post.get ("content_warnings", None)
   post ["contents"] = replace_all_emoji(post ["contents"], "/media/ravelling-wrath/emoji/color")
+  #replace_section_breaks(post, "/media/ravelling-wrath/symbols")
   post ["contents"] = f'''<h2>Chapter {num2words(post ["chapter_number"]).capitalize()}: {post ["chapter_title"]}</h2>
 
   '''+ ("" if warnings is None else content_warning_header ("<p>Content warnings for this chapter:</p>" + warnings)) + post ["contents"]

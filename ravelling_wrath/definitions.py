@@ -150,6 +150,11 @@ div.blog_post img.emoji {
   vertical-align: middle;
 }
 
+div.blog_post img.rav-section-break {
+  height: 3.2em;
+  margin: 1.8em auto;
+}
+
 html.debug_mode div.blog_post p.unnecessary_page_number {
   display: block;
   text-align: center;
