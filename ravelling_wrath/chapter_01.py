@@ -82,7 +82,7 @@ Our city was built on a hill. It was split up by five circular walls, each one s
 
 Panting, I finally made it up to the gate. I leaned back to catch my breath, feeling the cool stones of the gate on my back, and the buzz of sorcery in my mind. When you're a little kid, they teach you how the five walls are woven with protective sorceries, and infused with the magic of the five gods who watch over us all. They'd always made it sound like everything was in perfect harmony, but in real life, it really wasn't. For one thing, the outer wall was in total ruins. Only four of the gods were actually worshipped, and only three of them had taxes and temples. And if anyone was "watching over me", it was those hypocrites who ran the schools, may the Stern God take them.
 
-The last short run from the gate to Yali's house was the hardest. This was a route that I ran all the time, but it was a lot of work even on a good day, and I'd forgotten to pace myself. My legs didn't want to do it. Why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
+The last little run from the gate to Yali's house was the hardest. This was a route that I ran all the time, but it was a lot of work even on a good day, and I'd forgotten to pace myself. My legs didn't want to do it. Why did my body have to get tired? Why did there have to be so much <em>uphill</em> between me and Yali? After half a minute, I was still out of breath, but I couldn't be bothered to wait any longer. I started running again, up the old roads, up past the courthouse, up between the pensioners' houses, up to the door of Yali's home.
 
 I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "You ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
 
@@ -120,7 +120,19 @@ Yali muttered while she worked. "Your pants are pretty tight. That might have he
 
 "Of course!" said Yali.
 
-We laughed together. Yali and I were so different, yet so… so… [????? okay yes, it felt like something was missing]
+We laughed together. Yali and I were so different, and yet, when we were together, everything seemed to flow so easily.
+
+[?????
+
+But then… The time came. Yali had put away the extra bandages. I had finally caught my breath.
+
+"So…" I began, "about what you texted me…"
+
+Yali… hesitated. Swallowed. Turned away. Turned back towards me.
+
+My heart was pounding even harder than when I was running. If this was anyone else, I would've just thought they were a little nervous. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
+
+[????? Maybe don't use: "Rinn…" she began, and I could tell I was right. She spoke with the voice of someone who's about to give bad news, the voice of someone saying a prayer to endure through a heavy struggle.]
 
 Yali went to put away the extra bandages and stuff. By the time she was back, I had finally caught my breath. Maybe now this distraction was over. I said, "So, about what you texted me…"
 
