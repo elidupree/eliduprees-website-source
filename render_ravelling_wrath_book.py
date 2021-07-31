@@ -62,6 +62,7 @@ css_string = '''body {
   @top-center {
     content: "Bar";
     content: string(runningleft);
+    font: 12pt "Alegreya SC";
   }
 }
 @page :right {
@@ -69,6 +70,7 @@ css_string = '''body {
   @top-center {
     content: "Foo";
     content: string(runningright);
+    font: 12pt "Alegreya SC";
   }
 }
 p {
