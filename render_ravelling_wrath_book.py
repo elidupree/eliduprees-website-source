@@ -30,7 +30,7 @@ os.makedirs (build_path, exist_ok=True)
 def chapter_html (chapter):
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
-  contents = f"""
+  contents = f'''
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
@@ -39,7 +39,7 @@ def chapter_html (chapter):
   <span style="string-set: runningleft 'Ravelling Wrath';"></span>
   <span style="string-set: runningright 'Chapter {num2words(chapter ["chapter_number"]).capitalize()}: {chapter ["chapter_title"]}';"></span>
   
-  """ + re.sub(r"<bigbreak>", '<div class="bigbreak"></div>', contents)
+  <div class="'''+chapter.get("post_class", "")+'''">''' + re.sub(r"<bigbreak>", '<div class="bigbreak"></div>', contents) + '''</div>'''
   return contents
 
 chapters = [
