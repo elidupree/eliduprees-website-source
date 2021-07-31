@@ -13,11 +13,14 @@ from num2words import num2words
 import weasyprint
 print("WeasyPrint version:", weasyprint.__version__)
 from weasyprint import HTML, CSS
+from weasyprint.fonts import FontConfiguration
 
 import blog_server_shared
+import post_contents_utils
 import utils
 
 import ravelling_wrath.main
+import ravelling_wrath.definitions
 
 build_path ="./build/ravelling_wrath_book"
 html_path = os.path.join (build_path, "ravelling_wrath.html")
@@ -25,9 +28,9 @@ pdf_path = os.path.join (build_path, "ravelling_wrath.pdf")
 os.makedirs (build_path, exist_ok=True)
 
 def chapter_html (chapter):
-  contents = utils.auto_paragraphs (chapter ["contents"])
+  contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
-  contents = f"""
+  contents = f'''
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
@@ -36,22 +39,14 @@ def chapter_html (chapter):
   <span style="string-set: runningleft 'Ravelling Wrath';"></span>
   <span style="string-set: runningright 'Chapter {num2words(chapter ["chapter_number"]).capitalize()}: {chapter ["chapter_title"]}';"></span>
   
-  """ + re.sub(r"<bigbreak>", '<div class="bigbreak"></div>', contents)
+  <div class="'''+chapter.get("post_class", "")+'''">''' + re.sub(r"<bigbreak>", '<div class="bigbreak"></div>', contents) + '''</div>'''
   return contents
 
 chapters = [
   chapter_html (chapter) for chapter in ravelling_wrath.main.chapters
 ]
 
-def wrap(html):
-
- return '''<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Ravelling Wrath</title>
-    <style>
-body {
+css_string = '''body {
   counter-reset: page;
 }
 @page {
@@ -67,6 +62,7 @@ body {
   @top-center {
     content: "Bar";
     content: string(runningleft);
+    font: 12pt "Alegreya SC";
   }
 }
 @page :right {
@@ -74,23 +70,29 @@ body {
   @top-center {
     content: "Foo";
     content: string(runningright);
+    font: 12pt "Alegreya SC";
   }
 }
 p {
-  font: 12pt "Bitter";
+  font: 12pt "Kadwa";
   margin: 0;
   margin-bottom: 1pt;
   line-height: 1.25;
   text-indent: 2em;
   text-align: justify;
 }
+.yali-narration p {
+  font-family: "Kreon", serif;
+}
 h2 {
-  font: 16pt "Bitter";
+  font: 16pt "Alegreya SC";
+  font-weight: 800;
   page-break-before: right;
   text-align: center;
 }
 .chapter-title {
-  font: bold 24pt "Bitter";
+  font: 24pt "Alegreya SC";
+  font-weight: 800;
   text-align: center;
   margin-bottom: 1.3em;
 }
@@ -124,8 +126,29 @@ p.text.left {
   background-color: #e5e4e4;
   float: left;
 }
+.prayer {
+  text-align: center;
+}
+.prayer p {
+  text-indent: 0;
+}
+img.emoji {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0 -.125em;
+  vertical-align: middle;
+}
 
-    </style>
+'''+ravelling_wrath.definitions.fonts_css("media/vendor/fonts", mode="print")
+
+def wrap(html):
+
+ return '''<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Ravelling Wrath</title>
   </head>
   <body>
 '''+html+'''
@@ -152,7 +175,7 @@ content_opf = '''
     <dc:identifier id="uuid_id" opf:scheme="uuid">c0b3ea68-aced-4746-966b-7b0fc27ba1fc</dc:identifier>
     '''+'''
     '''.join(f'''<dc:subject>{tag}</dc:subject>''' for tag in tags) + '''
-    <dc:description>'''+ravelling_wrath.main.full_blurb+'''</dc:description>
+    <dc:description>'''+utils.strip_tags(ravelling_wrath.main.long_blurb)+'''</dc:description>
     <dc:language>en</dc:language>
     <dc:identifier opf:scheme="ISBN">TODO</dc:identifier>
     <meta name="cover" content="cover"/>
@@ -174,7 +197,12 @@ if weasyprint:
   #for index, chapter in enumerate(chapters):
     #for paragraph in re.finditer(r"<p>.*</p>", chapter):
     #try:
-      HTML (string = wrap(full_html)).write_pdf (pdf_path)
+      font_config = FontConfiguration()
+      print(css_string)
+      css = CSS(string=css_string, font_config=font_config)
+      document = HTML (string = full_html).render (stylesheets=[css], font_config=font_config)
+      print(dir(document))
+      document.write_pdf(pdf_path)
     #except Exception as e:
     #  print (paragraph.group(0))
     #  print(traceback.format_exc())

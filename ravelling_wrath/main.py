@@ -60,27 +60,41 @@ chapters = flatten([
 ])
 
 # Emoji:
-# We currently use twemoji (https://github.com/twitter/twemoji),
-# but may change this in the future.
+# We currently use openmoji (https://raw.githubusercontent.com/hfg-gmuend/openmoji/),
+# but may customize them in the future.
+def fetch_emoji_if_needed(hex_string):
+  color_path = f"media/vendor/ravelling-wrath/emoji/color/{hex_string}.svg"
+  black_path = f"media/vendor/ravelling-wrath/emoji/black/{hex_string}.svg"
+  if not os.path.exists(color_path):
+    import requests
+    url = f'https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/{hex_string.upper()}.svg'
+    response = requests.get(url)
+    open(color_path, 'wb').write(response.content)
+  if not os.path.exists(black_path):
+    import requests
+    url = f'https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/{hex_string.upper()}.svg'
+    response = requests.get(url)
+    open(black_path, 'wb').write(response.content)
+
+def emoji_html(unicode_emoji, hex_string):
+  fetch_emoji_if_needed(hex_string)
+  return f'<img class="emoji" alt="{unicode_emoji}" src="/media/ravelling-wrath/emoji/color/{hex_string}.svg?rr" />'
+  
 def emoji_hex_string(emoji):
   return hex(ord(emoji))[2:]
 
-def replace_emoji(match):
-  emoji = match.group(0)
-  hex_string = emoji_hex_string(emoji)
-  return f'<img class="emoji" alt="{emoji}" src="/media/ravelling-wrath/emoji/{hex_string}.svg?rr" />'
+def replace_simple_emoji(match):
+  unicode_emoji = match.group(0)
+  hex_string = emoji_hex_string(unicode_emoji)
+  return emoji_html(unicode_emoji, hex_string)
+  
+def replace_complex_emoji(match):
+  unicode_emoji = match.group(1)
+  hex_string = match.group(2)
+  return emoji_html(unicode_emoji, hex_string)
   
 simple_emoji = "😡|😂|❤|😝|😫|🧪|🤕|🌈|🖤|🤎|💜|💙|💚|💛|🧡|😨|😧|📱|💯|👍|😶|🤪|😟|😲|😆|😌|🤗"
-for emoji in simple_emoji:
-  if emoji != "|":
-    hex_string = emoji_hex_string(emoji)
-    file_path = f"media/editable_stuff/ravelling-wrath/emoji/{hex_string}.svg"
-    if not os.path.exists(file_path):
-      import requests
-      url = f'https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/{hex_string}.svg'
-      response = requests.get(url)
-      open(file_path, 'wb').write(response.content)
-      
+complex_emoji = r"<emoji\((.+?)\)\[(.+?)\]>"
 
 for index, chapter in enumerate (chapters):
   chapter ["chapter_number"] = index + 1
@@ -104,7 +118,8 @@ for index, chapter in enumerate (chapters):
   chapter ["contents"] = re.sub(r"\b'\B", "’", chapter ["contents"])
   
   
-  chapter ["contents"] = re.sub(simple_emoji, replace_emoji, chapter ["contents"])
+  chapter ["contents"] = re.sub(simple_emoji, replace_simple_emoji, chapter ["contents"])  
+  chapter ["contents"] = re.sub(complex_emoji, replace_complex_emoji, chapter ["contents"])
   
 
 def chapter_to_post (chapter):
@@ -162,7 +177,7 @@ for post in posts:
     completed_chapters += 1
     
 short_blurb = "A pair of teenagers get caught up in a conflict between the gods."
-long_blurb = '''<p>Rinn Akatura has never really cared about the gods, any more than she cares about "obeying school rules" or "being nice to jerks". But when she – and her girlfriend Yali – are chosen to represent the gods in the Ravelling, they get caught up in a decades-old conflict they could never have imagined.</p><p>In the magical Otherworld, the Blood God enters Rinn's mind and turns her very emotions into a battlefield, leaving her torn between her love for Yali and an ancient enmity that brings them almost (but not quite) to the brink of death. Can she find a new kind of strength before the Blood God's wrath consumes her?</p>'''
+long_blurb = '''<p>Rinn Akatura has never really cared about the gods, any more than she cares about "obeying school rules" or "being nice to jerks". But when she – and her girlfriend Yali – are chosen to represent the gods in the Ravelling, they get caught up in a decades-old conflict they could never have imagined.</p> <p>In the magical Otherworld, the Blood God enters Rinn's mind and turns her very emotions into a battlefield, leaving her torn between her love for Yali and an ancient enmity that brings them almost (but not quite) to the brink of death. Can she find a new kind of strength before the Blood God's wrath consumes her?</p>'''
 
 for post in posts:
   post ["blurb"] = short_blurb
@@ -185,8 +200,11 @@ posts [0] ["contents"] = ('''
   f"/ravelling-wrath/{post ['chapter_number']}",
   f"Chapter {post ['chapter_number']}: {post ['chapter_title']}"
   ) for post in posts [1:] if "don't deploy" not in post)+'''
+  
+Illustrations by <a href="http://www.sarahfensore.com/">Sarah Fensore</a>, who I've talked out my story plans with since the beginning, and who continues to help me edit the individual chapters.
 
-Many thanks to <a href="http://www.sarahfensore.com/">Sarah Fensore</a>, who I've talked out my story plans with since the beginning, and who continues to help me edit the individual chapters.
+All emojis designed by <a href="https://openmoji.org/">OpenMoji</a> – the open-source emoji and icon project. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/#">CC BY-SA 4.0</a>
+
 </div>
 
 <bigbreak>

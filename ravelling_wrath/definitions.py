@@ -7,6 +7,66 @@ yali_font = "Kreon" #"Roboto Slab"
 rinn_font = "Kadwa" #"Arvo" #"Inika" #"Crete Round"
 chapter_font = "Alegreya SC"
 
+def fonts_css(fonts_path, mode="web"):
+  def font_rules(name_style):
+    if mode=="web":
+      return """
+  src: url('"""+fonts_path+"""/"""+name_style+""".eot?rr'); /* IE9 Compat Modes */
+  src: local(''),
+       url('"""+fonts_path+"""/"""+name_style+""".eot?#iefix?rr') format('embedded-opentype'), /* IE6-IE8 */
+       url('"""+fonts_path+"""/"""+name_style+""".woff2?rr') format('woff2'), /* Super Modern Browsers */
+       url('"""+fonts_path+"""/"""+name_style+""".woff?rr') format('woff'), /* Modern Browsers */
+       url('"""+fonts_path+"""/"""+name_style+""".ttf?rr') format('truetype'), /* Safari, Android, iOS */
+       url('"""+fonts_path+"""/"""+name_style+""".svg#Kadwa?rr') format('svg'); /* Legacy iOS */
+       """
+    else:
+      return """
+  src: url('"""+fonts_path+"""/"""+name_style+""".ttf');
+       """
+      
+  
+  return """
+/* kadwa-regular - latin */
+@font-face {
+  font-family: 'Kadwa';
+  font-style: normal;
+  font-weight: 400;
+  """+font_rules("kadwa-v5-latin-regular")+"""
+}
+
+/* kadwa-700 - latin */
+@font-face {
+  font-family: 'Kadwa';
+  font-style: normal;
+  font-weight: 700;
+  """+font_rules("kadwa-v5-latin-700")+"""
+}
+
+/* kreon-regular - latin */
+@font-face {
+  font-family: 'Kreon';
+  font-style: normal;
+  font-weight: 400;
+  """+font_rules("kreon-v24-latin-regular")+"""
+}
+
+/* kreon-700 - latin */
+@font-face {
+  font-family: 'Kreon';
+  font-style: normal;
+  font-weight: 700;
+  """+font_rules("kreon-v24-latin-700")+"""
+}
+
+/* alegreya-sc-800 - latin */
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: 800;
+  """+font_rules("alegreya-sc-v15-latin-800")+"""
+}
+"""
+
 head = """<style>
 
 .table_of_contents_chapter {
@@ -82,12 +142,11 @@ div.blog_post .prayer p {
   text-indent: 0;
 }
 
-/* For the emoji graphics, we currently use twemoji (https://github.com/twitter/twemoji). */
 div.blog_post img.emoji {
   display: inline-block;
-  width: 1em;
-  height: 1em;
-  margin: 0;
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0 -.125em;
   vertical-align: middle;
 }
 
@@ -98,6 +157,9 @@ html.debug_mode div.blog_post p.unnecessary_page_number {
   font-family: Arial, Helvetica, sans-serif;
   padding-bottom: 1.5em;
 }
+
+"""+fonts_css("/media/fonts")+"""
+
+
   </style>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family="""+rinn_font.replace(" ", "+")+"|"+yali_font.replace(" ", "+")+"|"+chapter_font.replace(" ", "+")+""":800">
   """
