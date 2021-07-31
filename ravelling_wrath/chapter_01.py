@@ -124,19 +124,19 @@ We laughed together. Yali and I were so different, and yet, when we were togethe
 
 [?????
 
-But then… The time came. Yali had put away the extra bandages. I had finally caught my breath.
+But then… The time came. Yali had put away the extra bandages. I had finally caught my breath. [????? There was nothing left to delay the main content – maybe use some foreshadowing here (have the narration refer to it as e.g. "the terrible destiny that was coming")]
 
 "So…" I began, "about what you texted me…"
 
 Yali… hesitated. Swallowed. Turned away. Turned back towards me.
 
-My heart was pounding even harder than when I was running. If this was anyone else, I would've just thought they were a little nervous. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
+My heart was pounding even harder than when I was running. If this was anyone else, I would've just thought they were a little nervous. But with Yali, it <em>meant</em> something. And I was afraid of what that could be.
 
 [????? Maybe don't use: "Rinn…" she began, and I could tell I was right. She spoke with the voice of someone who's about to give bad news, the voice of someone saying a prayer to endure through a heavy struggle.]
 
 Yali went to put away the extra bandages and stuff. By the time she was back, I had finally caught my breath. Maybe now this distraction was over. I said, "So, about what you texted me…"
 
-[????? Yes the following stuff is good, but we don't need six paragraphs of it:]
+[????? Yes the following stuff is good, but we don't need six paragraphs of it. Cut all of this up to the image, replace with the above:]
 
 Yali… hesitated. I couldn't tell whether she was uncomfortable or just not sure what to say. She swallowed. Turned away. Turned back towards me. My heart seemed to be pounding harder than it was even when I was running.
 
