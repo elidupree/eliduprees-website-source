@@ -388,23 +388,23 @@ I thought about it. But when I visualized what it would be like, to be sitting a
 
 Layo hugged me tight. "I understand. It's not the answer you wanted. But my dad always says, 'no one with a mission wants to stop and rest, but –'"
 
-"'– but when it catches up to you, you'll wish you rested,'" I mumbled into my hands. Layo's dad had loads of sayings like that, bits of wisdom from the Broken. And… shit. It wasn't wrong. All of a sudden I couldn't stop myself thinking about how nice it would be to just give up and rest.
+"'– but when it catches up to you, you'll wish you rested,'" I mumbled into my hands. Layo's dad had loads of sayings like that, bits of wisdom from the Broken. And… shit. It wasn't wrong. I sank deeper into the feeling… the desire to just give up and rest…
 
 When I pulled my hand away from my face, it was damp with tears.
 
 "What the fuck is this?!?" I exploded. "I didn't even cry when I lost the ordeal and thought we were going to die for sure! Why am I crying <em>now?</em>"
 
-[????? Layo's hand on my back, I sank into his arms]
+"It's okay, it's okay," murmured Layo. His arms were so warm around me. I sank into them, curling up and sobbing freely.
 
 "I love you so much, you know that, right?" I didn't have to say "as a friend". We both knew how it was.
 
 "I know. I love you too."
 
-We kept talking for hours. Layo cried too, thinking about how he'd miss with me while I was gone for the Ravelling. But the more we talked, the more I could tell what decision I had to make.
+We kept talking for hours. Layo cried too, knowing how he'd miss with me while I was gone for the Ravelling. But the more we talked, the more I could tell what decision I had to make. And that meant I had to think about what I was actually going to do next. I was going to have to tell <em>Yali</em> that I needed a break. <em>Yali!</em> What was she going to say…?
 
-"Oh fuck, oh fuck," I moaned, as we finally moved to go our separate ways. "What's Yali going to say…? I'm going to have to tell her I couldn't handle it…"
+"Oh fuck, oh fuck," I moaned, as we finally moved to go our separate ways. "I'm going to have to tell her I couldn't handle it…"
 
-"It's okay, it's okay," murmured Layo. "She cares about you. You'll work things out."
+"It's okay," murmured Layo. "She cares about you. You'll work things out."
 
 But as we parted ways, I was still dreading having to actually tell her.
 
@@ -414,10 +414,9 @@ But as we parted ways, I was still dreading having to actually tell her.
 ]
 
 
+# I cut this whole scene (and replaced it with the much shorter version above) because it wasn't important *enough* to the story to justify the space it took up
+
 '''
-
-
-[????? I cut this whole scene (and replaced it with the much shorter version above) because it wasn't important *enough* to the story to justify the space it took up]
 
 And then I took off again. My lungs were killing me, but I'd never let that stop me before, and I wasn't about to start now. Pretty soon I flung open the art room door to find Layo and a few other kids hard at work.
 
