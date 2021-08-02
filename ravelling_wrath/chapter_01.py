@@ -88,8 +88,6 @@ I had scarcely rung the doorbell when she engulfed me in a hug. I fell exhausted
 
 She gently pulled me inside and we flopped down on a couch. While I relaxed, Yali leaned forward, looking off into the distance, as if she was thinking hard about something. She turned halfway towards me and opened her mouth, but then closed it again. Was this the important thing she was going to tell me? But she… couldn't figure out how to say it?
 
-[????? This transition could use some promise theory attention; see "now this distraction was over"; in fact, I should reanalyze the promises in the whole rest of the chapter]
-
 "Your leg!" said Yali suddenly.
 
 I looked down. On the leg of my pants, there was a dark stain. Blood, I guess. "I must have hurt it when," I panted, "when I was jumping a fence on the way here. I didn't notice." Yali gave me a skeptical look. "I was in a hurry!"
@@ -120,35 +118,15 @@ Yali muttered while she worked. "Your pants are pretty tight. That might have he
 
 "Of course!" said Yali.
 
-We laughed together. Yali and I were so different, and yet, when we were together, everything seemed to flow so easily.
+We laughed together. Yali and I were so different – and yet, when we were together, everything seemed to flow so easily.
 
-[?????
-
-But then… The time came. Yali had put away the extra bandages. I had finally caught my breath. [????? There was nothing left to delay the main content – maybe use some foreshadowing here (have the narration refer to it as e.g. "the terrible destiny that was coming")]
+But then… The time came. Yali had put away the extra bandages. I had finally caught my breath. It was time.
 
 "So…" I began, "about what you texted me…"
 
 Yali… hesitated. Swallowed. Turned away. Turned back towards me.
 
 My heart was pounding even harder than when I was running. If this was anyone else, I would've just thought they were a little nervous. But with Yali, it <em>meant</em> something. And I was afraid of what that could be.
-
-[????? Maybe don't use: "Rinn…" she began, and I could tell I was right. She spoke with the voice of someone who's about to give bad news, the voice of someone saying a prayer to endure through a heavy struggle.]
-
-Yali went to put away the extra bandages and stuff. By the time she was back, I had finally caught my breath. Maybe now this distraction was over. I said, "So, about what you texted me…"
-
-[????? Yes the following stuff is good, but we don't need six paragraphs of it. Cut all of this up to the image, replace with the above:]
-
-Yali… hesitated. I couldn't tell whether she was uncomfortable or just not sure what to say. She swallowed. Turned away. Turned back towards me. My heart seemed to be pounding harder than it was even when I was running.
-
-"I've spent all morning trying to plan how to tell you this," she said. "But I don't even know how to start. I should've told you a long time ago. I just, I just… How do <em>you</em> always know what to say?"
-
-"What? You're the one who always knows what to say!"
-
-Yali stared back at me.
-
-One way or another, she was clearly having trouble with this. "Uh…" I said. "Maybe if you start by, uh… at the beginning? Or like find ONE thing you know how to tell me and start with that?"
-
-"That could work…" Yali was silent for a minute. She climbed back onto the couch beside me, and looked into the distance, thinking. I watched her uncertainly. She didn't look upset, but this wasn't something I'd seen before. Yali squinting. Yali chewing her lip. From anyone else, that wouldn't have caught my attention. But with Yali, it <em>meant</em> something. I was just afraid of what that could be.
 
 <img class="sketch" src="/media/ravelling-wrath/sketches/ch1-mid.jpg?rr" alt="">
 
@@ -158,7 +136,7 @@ Finally, she spoke up. "How much do you know about what happens during," she swa
 
 "It's, it's, it's worse than that. Just tell me how much you know, so I can explain from there."
 
-I sighed. I hadn't meant to sigh out loud in front of Yali, but I was already nervous, and now I had to remember some shit from Divinity class. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"
+I sighed. I couldn't help it – I was already nervous, and now I had to remember some shit from Divinity class. Everyone knew <em>about</em> the Ravelling, ????? "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"
 
 Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
@@ -174,9 +152,9 @@ I snapped back into the present. Yali was looking at me carefully. Studying me, 
 
 "Do you know the history between them?" continued Yali. "The Waiting God and the Blood God –"
 
-My brain caught up ?????. "Wait a minute, I don't even <em>follow</em> the Blood God! Nobody does! Why would the Blood God pick <em>me</em> out of everyone?"
+My brain started to catch up. "Wait a minute, I don't even <em>follow</em> the Blood God! Nobody does! Why would the Blood God pick <em>me</em> out of everyone?"
 
-"The gods don't pick the Ravellers based on who worships them. They pick people who live by their <em>principles</em>," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "So, for example, the Waiting God values patience, foresight, and planning. ?????
+"The gods don't pick the Ravellers based on who worships them. They pick people who live by their <em>principles</em>," began Yali. My head already felt like it was starting to clear. Yali had such a soothing voice. Whenever she started explaining something, it always made me feel like she had everything under control. "So, for example, the Waiting God values patience, foresight, and planning –"
 
 "– Yeah, yeah, and the Stern God is all about making you shut up and obey the rules –"
 
@@ -209,11 +187,6 @@ Yali was silent, the muscles in her neck standing taut.
 "Loved <em>you???</em> What in the –"
 
 "I have – I have their memories. When the Waiting God made me the Farseer, I received two different powers. The first is the ability to see into possible futures, although it's very weak and hard to use here in the material world. And the second is the ability to access the memories of the former Farseers, the ones who – who – well, it's like I can <em>remember</em> previous Ravellings, almost as if they happened to me directly."
-
-
-[????? This doesn't go here anymore:] "Listen, before I tell you this, just know that I have a plan, understand? I have a plan for what we can do, so that both of us can stay – safe."
-
-
 
 "And…?"
 
@@ -277,7 +250,7 @@ I didn't want to believe it. But I couldn't <em>not</em> believe it, could I? Ya
 
 "What if we just <em>don't</em> go through all the layers? Or – what if I get behind, so we're never in the <em>same</em> –"
 
-"That –" Yali concentrated for a moment. [????? maybe this should explicitly say the "perception of time is different in the portal" thing] "I'm not sure exactly what would happen if you tried that. I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
+"That –" Yali concentrated for a moment. "I'm not sure exactly what would happen if you tried that. I can't really explain this, but it can be harder to <em>not</em> travel through the layers than <em>to</em> travel through them. The god might reshape the layer so you can't help but move on. Or worse, <em>your</em> god might reshape <em>you</em>."
 
 "So – if the gods are trying to force us together, and force me to attack you –" I was thinking wildly, but I couldn't come up with any way out of this. "What do we <em>do?</em>"
 
