@@ -28,11 +28,15 @@ pdf_path = os.path.join (build_path, "ravelling_wrath.pdf")
 os.makedirs (build_path, exist_ok=True)
 
 def chapter_html (chapter):
-  ravelling_wrath.main.replace_section_breaks(chapter, "/media/editable_stuff/ravelling-wrath/symbols")
+  ravelling_wrath.main.replace_section_breaks(chapter, "media/editable_stuff/ravelling-wrath/symbols")
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
   contents = ravelling_wrath.main.replace_all_emoji(contents, "media/vendor/ravelling-wrath/emoji/black")
   contents = contents.replace("/media/ravelling-wrath/sketches/", "media/editable_stuff/ravelling-wrath/sketches/")
+  
+  contents = re.sub("<not_print>.+?</not_print>", "", contents)
+  contents = re.sub("</?print_only>", "", contents)
+  
   contents = f'''
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
@@ -144,17 +148,27 @@ p.text.left {
 .prayer p {
   text-indent: 0;
 }
-img.sketch {
+img.full-page {
   width: auto;
   height: 9in;
+  display: block;
+  margin: 0 auto;
   page: full_page_image;
 }
-img.sketch.chapter-header {
-  width: 4in;
+img.chapter-header {
+  width: 4.5in;
   height: auto;
   page: auto;
   margin-top: -1.3em; 
   margin-bottom: 1.3em; 
+}
+img.inline,img.bottom {
+  width: 5.7in;
+  height: auto;
+  margin: 2.8em -0.6in;
+}
+img.bottom {
+  margin-bottom: 0;
 }
 img.emoji {
   display: inline-block;
@@ -162,6 +176,16 @@ img.emoji {
   height: 1.5em;
   margin: 0 -.125em;
   vertical-align: middle;
+}
+img.rav-section-break {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  margin: 2em auto;
+}
+img.rav-section-break.nonaligned {
+  width: 80%;
 }
 
 '''+ravelling_wrath.definitions.fonts_css("media/vendor/fonts", mode="print")

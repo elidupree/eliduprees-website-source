@@ -151,8 +151,12 @@ div.blog_post img.emoji {
 }
 
 div.blog_post img.rav-section-break {
-  height: 3.2em;
-  margin: 1.8em auto;
+  width: 90%;
+  height: auto;
+  margin: 2em auto;
+}
+div.blog_post img.rav-section-break.nonaligned {
+  width: 80%;
 }
 
 html.debug_mode div.blog_post p.unnecessary_page_number {

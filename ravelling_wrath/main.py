@@ -102,7 +102,7 @@ def replace_all_emoji(contents, emoji_folder_path):
   return contents
 
 def replace_section_breaks(chapter, symbols_folder_path):  
-  chapter ["contents"] = chapter ["contents"].replace("<bigbreak>", f'<img class="rav-section-break" alt="section break" src="{symbols_folder_path}/{chapter["symbols"]}-section-break.png?rr" />')
+  chapter ["contents"] = chapter ["contents"].replace("<bigbreak>", f'<img class="rav-section-break {chapter["symbols"]}" alt="section break" src="{symbols_folder_path}/{chapter["symbols"]}-section-break.png?rr" />')
 
 for index, chapter in enumerate (chapters):
   chapter ["chapter_number"] = index + 1
@@ -136,11 +136,12 @@ def chapter_to_post (chapter):
   post = chapter.copy()
   warnings = post.get ("content_warnings", None)
   post ["contents"] = replace_all_emoji(post ["contents"], "/media/ravelling-wrath/emoji/color")
-  #replace_section_breaks(post, "/media/ravelling-wrath/symbols")
-  post ["contents"] = f'''<h2>Chapter {num2words(post ["chapter_number"]).capitalize()}: {post ["chapter_title"]}</h2>
+  replace_section_breaks(post, "/media/ravelling-wrath/symbols")
   
   post ["contents"] = re.sub("<print_only>.+?</print_only>", "", post["contents"])
   post ["contents"] = re.sub("</?not_print>", "", post["contents"])
+  
+  post ["contents"] = f'''<h2>Chapter {num2words(post ["chapter_number"]).capitalize()}: {post ["chapter_title"]}</h2>
 
   '''+ ("" if warnings is None else content_warning_header ("<p>Content warnings for this chapter:</p>" + warnings)) + post ["contents"]
   return post
