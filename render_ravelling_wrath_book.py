@@ -99,6 +99,8 @@ p {
 }
 .yali-narration p {
   font-family: "Kreon", serif;
+  font-size: 112%;
+  line-height: 1.2em;
 }
 h2 {
   font: 16pt "Alegreya SC";

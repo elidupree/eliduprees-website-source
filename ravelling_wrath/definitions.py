@@ -127,7 +127,9 @@ div.blog_post p {
 div.blog_post.yali-narration p, .yali-narration.yali-narration.yali-narration p {
   /*font-family: Georgia, serif;*/
   font-family: '"""+yali_font+"""', serif;
+  font-size: 112%;
   /*font-style: italic;*/
+  line-height: 1.3em;
 }
 /*.yali-narration em {
 font-weight: bold;
