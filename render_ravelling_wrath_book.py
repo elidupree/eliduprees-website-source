@@ -32,6 +32,7 @@ def chapter_html (chapter):
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
   contents = ravelling_wrath.main.replace_all_emoji(contents, "media/vendor/ravelling-wrath/emoji/black")
+  contents = contents.replace("/media/ravelling-wrath/sketches/", "media/editable_stuff/ravelling-wrath/sketches/")
   contents = f'''
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
@@ -73,6 +74,15 @@ css_string = '''body {
     content: "Foo";
     content: string(runningright);
     font: 12pt "Alegreya SC";
+  }
+}
+@page full_page_image {
+  margin: 0;
+  @top-center {
+    content: none;
+  }
+  @bottom-center {
+    content: none;
   }
 }
 p {
@@ -133,6 +143,18 @@ p.text.left {
 }
 .prayer p {
   text-indent: 0;
+}
+img.sketch {
+  width: auto;
+  height: 9in;
+  page: full_page_image;
+}
+img.sketch.chapter-header {
+  width: 4in;
+  height: auto;
+  page: auto;
+  margin-top: -1.3em; 
+  margin-bottom: 1.3em; 
 }
 img.emoji {
   display: inline-block;
@@ -201,6 +223,7 @@ if weasyprint:
     #try:
       font_config = FontConfiguration()
       print(css_string)
+      #print(full_html)
       css = CSS(string=css_string, font_config=font_config)
       document = HTML (string = full_html, base_url = os.getcwd()).render (stylesheets=[css], font_config=font_config)
       print(dir(document))
