@@ -34,8 +34,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="426.56217"
-     inkscape:cy="478.18096"
+     inkscape:cx="236.88077"
+     inkscape:cy="410.12193"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -2474,9 +2474,9 @@
          id="path2071"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:type="inkscape:offset"
-         inkscape:radius="-0.53562009"
+         inkscape:radius="-0.41755366"
          inkscape:original="M 86.546875 111.43359 C 85.978105 112.31502 50.955078 112.44531 50.955078 112.44531 C 50.955078 112.44531 85.978758 112.58996 86.539062 113.56836 L 86.546875 111.43359 z "
-         d="m 86.009766,112.13281 c -0.300114,0.0469 -0.651055,0.091 -1.109375,0.13086 -0.91817,0.0798 -2.237677,0.14625 -3.691407,0.20899 1.453668,0.0697 2.772389,0.14373 3.691407,0.23242 0.455638,0.044 0.804585,0.0925 1.105468,0.14453 z" />
+         d="m 86.125,112.00195 c -0.309028,0.053 -0.722141,0.10004 -1.234375,0.14453 -1.024468,0.089 -2.443888,0.16616 -4.128906,0.23438 -0.946626,0.0383 -2.341232,0.0533 -3.431641,0.0859 1.090291,0.0362 2.485123,0.0531 3.431641,0.0957 1.684819,0.0757 3.101929,0.1628 4.126953,0.26172 0.511715,0.0494 0.923794,0.10099 1.234375,0.16016 l 0.0039,-0.98243 c -7.26e-4,1.3e-4 -0.0012,-1.2e-4 -0.002,0 z" />
     </g>
     <use
        x="0"
@@ -2657,5 +2657,79 @@
        transform="matrix(-1,0,0,1,239.27781,70.647823)"
        width="100%"
        height="100%" />
+    <g
+       id="g1474-1"
+       transform="matrix(1,0,0,0.58528069,-71.157525,64.162709)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 86.538473,113.56888 c -0.560304,-0.9784 -35.584188,-1.12296 -35.584188,-1.12296 0,0 35.024395,-0.13159 35.593165,-1.01302 z"
+         id="path935-5"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Eli\Documents\eliduprees-website-source\media\editable_stuff\ravelling-wrath\symbols\cloven-earth-section-break.png"
+         inkscape:export-xdpi="417.80289"
+         inkscape:export-ydpi="417.80289" />
+      <path
+         id="path2071-9"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-0.4179388"
+         inkscape:original="M 86.546875 111.43359 C 85.978105 112.31502 50.955078 112.44531 50.955078 112.44531 C 50.955078 112.44531 85.978758 112.58996 86.539062 113.56836 L 86.546875 111.43359 z "
+         d="m 86.125,112.00195 c -0.309048,0.053 -0.722135,0.10004 -1.234375,0.14453 -1.02448,0.089 -2.443885,0.16616 -4.128906,0.23438 -0.946628,0.0383 -2.341231,0.0533 -3.431641,0.0859 1.090292,0.0362 2.485121,0.0531 3.431641,0.0957 1.684823,0.0757 3.101917,0.16085 4.126953,0.25977 0.511722,0.0494 0.923772,0.10294 1.234375,0.16211 l 0.0039,-0.98243 c -7.26e-4,1.3e-4 -0.0012,-1.2e-4 -0.002,0 z" />
+    </g>
+    <g
+       id="g1929"
+       transform="translate(-66.531299,11.252775)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 86.538473,113.56888 c -0.560304,-0.9784 -35.584188,-1.12296 -35.584188,-1.12296 0,0 35.024395,-0.13159 35.593165,-1.01302 z"
+         id="path1923"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Eli\Documents\eliduprees-website-source\media\editable_stuff\ravelling-wrath\symbols\cloven-earth-section-break.png"
+         inkscape:export-xdpi="417.80289"
+         inkscape:export-ydpi="417.80289" />
+      <path
+         id="path1925"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-0.29874191"
+         inkscape:original="M 86.546875 111.43359 C 85.978105 112.31502 50.955078 112.44531 50.955078 112.44531 C 50.955078 112.44531 85.978758 112.58996 86.539062 113.56836 L 86.546875 111.43359 z "
+         d="m 86.246094,111.85156 c -0.0495,0.0102 -0.08578,0.0235 -0.142578,0.0332 -0.302977,0.052 -0.712183,0.0982 -1.222657,0.14257 -1.020947,0.0887 -2.438974,0.1662 -4.123047,0.23438 -2.187625,0.0886 -5.144487,0.13952 -7.933593,0.19922 2.788535,0.0663 5.744597,0.12238 7.93164,0.2207 1.68377,0.0757 3.099975,0.16123 4.121094,0.25977 0.51056,0.0493 0.922487,0.10215 1.226563,0.16015 0.05512,0.0105 0.0903,0.0241 0.138672,0.0352 z" />
+      <path
+         id="path1927"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-0.4179388"
+         inkscape:original="M 86.546875 111.43359 C 85.978105 112.31502 50.955078 112.44531 50.955078 112.44531 C 50.955078 112.44531 85.978758 112.58996 86.539062 113.56836 L 86.546875 111.43359 z "
+         d="m 86.125,112.00195 c -0.309048,0.053 -0.722135,0.10004 -1.234375,0.14453 -1.02448,0.089 -2.443885,0.16616 -4.128906,0.23438 -0.946628,0.0383 -2.341231,0.0533 -3.431641,0.0859 1.090292,0.0362 2.485121,0.0531 3.431641,0.0957 1.684823,0.0757 3.101917,0.16085 4.126953,0.25977 0.511722,0.0494 0.923772,0.10294 1.234375,0.16211 l 0.0039,-0.98243 c -7.26e-4,1.3e-4 -0.0012,-1.2e-4 -0.002,0 z" />
+    </g>
+    <g
+       id="g2101"
+       transform="translate(-69.877618,4.8643054)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 86.538473,113.56888 c -0.560304,-0.9784 -35.584188,-1.12296 -35.584188,-1.12296 0,0 35.024395,-0.13159 35.593165,-1.01302 z"
+         id="path2095"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Eli\Documents\eliduprees-website-source\media\editable_stuff\ravelling-wrath\symbols\cloven-earth-section-break.png"
+         inkscape:export-xdpi="417.80289"
+         inkscape:export-ydpi="417.80289" />
+      <path
+         id="path2097"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-0.29874191"
+         inkscape:original="M 86.546875 111.43359 C 85.978105 112.31502 50.955078 112.44531 50.955078 112.44531 C 50.955078 112.44531 85.978758 112.58996 86.539062 113.56836 L 86.546875 111.43359 z "
+         d="m 86.246094,111.85156 c -0.0495,0.0102 -0.08578,0.0235 -0.142578,0.0332 -0.302977,0.052 -0.712183,0.0982 -1.222657,0.14257 -1.020947,0.0887 -2.438974,0.1662 -4.123047,0.23438 -2.187625,0.0886 -5.144487,0.13952 -7.933593,0.19922 2.788535,0.0663 5.744597,0.12238 7.93164,0.2207 1.68377,0.0757 3.099975,0.16123 4.121094,0.25977 0.51056,0.0493 0.922487,0.10215 1.226563,0.16015 0.05512,0.0105 0.0903,0.0241 0.138672,0.0352 z" />
+      <path
+         id="path2099"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-0.53562009"
+         inkscape:original="M 86.546875 111.43359 C 85.978105 112.31502 50.955078 112.44531 50.955078 112.44531 C 50.955078 112.44531 85.978758 112.58996 86.539062 113.56836 L 86.546875 111.43359 z "
+         d="m 86.009766,112.13281 c -0.300114,0.0469 -0.651055,0.091 -1.109375,0.13086 -0.91817,0.0798 -2.237677,0.14625 -3.691407,0.20899 1.453668,0.0697 2.772389,0.14373 3.691407,0.23242 0.455638,0.044 0.804585,0.0925 1.105468,0.14453 z" />
+    </g>
   </g>
 </svg>
