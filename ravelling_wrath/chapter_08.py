@@ -146,8 +146,6 @@ Happily? How could I tell that she was happy? She was just a solid platform like
 
 We all rushed to the edge to greet the Alchemist, who was standing nervously at the edge of Neenu. One moment, their big soft eyes blinked across at us, and the next, they looked down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced. The Alchemist didn't look like they were ready for this. They were dressed in a loose bathrobe, and it looked like they had just been plucked out of bed and plopped down on the star before they had a chance to wake up.
 
-<img class="sketch" style="max-width: 50%" src="/media/ravelling-wrath/sketches/alchemist.jpg?rr" alt="">
-
 "Now," said Justicar, "we only need a safe way for the Alchemist to get across to this star."
 
 "It's just a little jump. You can do it!" I said.
@@ -234,7 +232,7 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 Justicar insisted on staying in a stiff chair a slight distance away.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch8.jpg?rr" alt="">
+<img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch8.jpg?rr" alt="">
 
 "I'll go first!" I said. "This one's for you, Yali. I'm finally going to tell you the one about how I jumped out of my window!"
 

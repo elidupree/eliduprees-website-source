@@ -138,6 +138,9 @@ def chapter_to_post (chapter):
   post ["contents"] = replace_all_emoji(post ["contents"], "/media/ravelling-wrath/emoji/color")
   #replace_section_breaks(post, "/media/ravelling-wrath/symbols")
   post ["contents"] = f'''<h2>Chapter {num2words(post ["chapter_number"]).capitalize()}: {post ["chapter_title"]}</h2>
+  
+  post ["contents"] = re.sub("<print_only>.+?</print_only>", "", post["contents"])
+  post ["contents"] = re.sub("</?not_print>", "", post["contents"])
 
   '''+ ("" if warnings is None else content_warning_header ("<p>Content warnings for this chapter:</p>" + warnings)) + post ["contents"]
   return post

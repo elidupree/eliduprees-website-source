@@ -258,7 +258,7 @@ I stomped down the path, answering every new sensation with a surge of hatred, o
 
 But no matter how hard I tried, it just echoed around my brain, none of it sinking in.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch13.jpg?rr" alt="">
+<img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch13.jpg?rr" alt="">
 
 <bigbreak>
 

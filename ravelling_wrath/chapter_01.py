@@ -128,7 +128,7 @@ Yali… hesitated. Swallowed. Turned away. Turned back towards me.
 
 My heart was pounding even harder than when I was running. If this was anyone else, I would've just thought they were a little nervous. But with Yali, it <em>meant</em> something. And I was afraid of what that could be.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch1-mid.jpg?rr" alt="">
+<img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch1-mid.jpg?rr" alt="">
 
 Finally, she spoke up. "How much do you know about what happens during," she swallowed, "the Ravelling?"
 

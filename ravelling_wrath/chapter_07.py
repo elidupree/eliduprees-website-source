@@ -241,7 +241,7 @@ We all turned to look. He was already helping himself up onto his knees. It was 
 
 I grinned. "I <em>like</em> this guy," I said to no one in particular.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch7.jpg?rr" alt="">
+<not_print><img class="sketch bottom" src="/media/ravelling-wrath/sketches/ch7.jpg?rr" alt=""></not_print>
 
 Justicar stepped forward. "If your body is whole again, that means you can tell us <em>what</em> you just did, and promise not to do anything like it again."
 
@@ -256,6 +256,8 @@ With one hand still holding the sandwich, Morrow waved dismissively with the oth
 "There will not <em>be</em> a next time," snapped Justicar. "I will not allow you to endanger yourself and others like that!"
 
 Morrow smiled tauntingly. "You gonna stop me?"
+
+<print_only><img class="sketch bottom" src="/media/ravelling-wrath/sketches/ch7.jpg?rr" alt=""></print_only>
 
 This was great. I couldn't resist watching Morrow mess with her. She took herself so seriously, and he completely blew her off, it was amazing. Apparently Yali didn't think so, though, because she quickly stepped up to spoil the fun. "Before we all argue, at least we should introduce ourselves. I'm Yali, and –"
 

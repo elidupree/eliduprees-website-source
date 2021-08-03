@@ -79,7 +79,7 @@ And so, here we were. Everything was going according to plan. Justicar was no lo
 
 Now only my most powerful enemy was left.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt="">
+<img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt="">
 
 <bigbreak>
 

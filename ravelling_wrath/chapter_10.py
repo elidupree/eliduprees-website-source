@@ -292,7 +292,7 @@ Why did she have to make everything into some sort of serious issue? "Like <em>y
 
 Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I do not believe to be true. So you can be certain of my honesty when I tell you this: I did not respect myself. I was a heavy drinker. I literally cannot count the times that I drank until I was blacked out or vomiting on the floor. My friends tried to stop me, but I persisted, even knowing that I was making them clean up after me. I ruined my relationships with them, one by one."
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch10.jpg?rr" alt="">
+<img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch10.jpg?rr" alt="">
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
