@@ -7,6 +7,7 @@ import re
 import subprocess
 import datetime
 import traceback
+import shutil
 
 from num2words import num2words
 
@@ -23,16 +24,34 @@ import ravelling_wrath.main
 import ravelling_wrath.definitions
 
 build_path ="./build/ravelling_wrath_book"
+if os.path.exists(build_path):
+  #
+  for root, dirs, files in os.walk(build_path):
+    for filename in files:
+      os.remove(os.path.join(root, filename))
 html_path = os.path.join (build_path, "ravelling_wrath.html")
 pdf_path = os.path.join (build_path, "ravelling_wrath.pdf")
 os.makedirs (build_path, exist_ok=True)
 
+def ensure_dir(d):
+  if not os.path.exists(d):
+    os.makedirs(d)
+
+rav_media_paths = {}
+def replace_media_path(match):
+  full_path = match.group(1)
+  relevant_path = os.path.basename(full_path)
+  if rav_media_paths.get(relevant_path, full_path) != full_path:
+    raise RuntimeError(f"multiple media named {relevant_path}")
+  rav_media_paths[relevant_path] = full_path
+  return relevant_path
+
 def chapter_html (chapter):
-  ravelling_wrath.main.replace_section_breaks(chapter, "media/editable_stuff/ravelling-wrath/symbols")
+  ravelling_wrath.main.replace_section_breaks(chapter, "/media/ravelling-wrath/symbols")
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
-  contents = ravelling_wrath.main.replace_all_emoji(contents, "media/vendor/ravelling-wrath/emoji/black")
-  contents = contents.replace("/media/ravelling-wrath/sketches/", "media/editable_stuff/ravelling-wrath/sketches/")
+  contents = ravelling_wrath.main.replace_all_emoji(contents, "/media/vendor/ravelling-wrath/emoji/black")
+  contents = re.sub(r"/media/(.*?)\?rr", replace_media_path, contents)
   
   contents = re.sub("<not_print>.+?</not_print>", "", contents)
   contents = re.sub("</?print_only>", "", contents)
@@ -52,6 +71,25 @@ def chapter_html (chapter):
 chapters = [
   chapter_html (chapter) for chapter in ravelling_wrath.main.chapters
 ]
+
+fonts_css = ravelling_wrath.definitions.fonts_css("", mode="print")
+
+for match in re.finditer(r"url\('(.+?.ttf)", fonts_css):
+  rav_media_paths[match.group(1)] = "/media/fonts/"+match.group(1)
+
+print(rav_media_paths)
+media_dir = "./media/"
+media_subdirs = os.listdir(media_dir)
+for media_subdir in media_subdirs:
+  media_subdir_fullpath = os.path.join(media_dir, media_subdir)
+  for root, dirs, files in os.walk(media_subdir_fullpath):
+    for media_filename in files:
+      source = os.path.join(root, media_filename)
+      if media_filename in rav_media_paths:
+        if ("color" in rav_media_paths[media_filename]) == ("color" in root):
+          destination = os.path.join(build_path, media_filename)
+          ensure_dir(os.path.dirname(destination))
+          shutil.copy(source, destination)
 
 css_string = '''body {
   counter-reset: page;
@@ -191,7 +229,7 @@ img.rav-section-break.nonaligned {
   width: 80%;
 }
 
-'''+ravelling_wrath.definitions.fonts_css("media/vendor/fonts", mode="print")
+'''+fonts_css
 
 def wrap(html):
 
@@ -200,16 +238,20 @@ def wrap(html):
   <head>
     <meta charset="utf-8" />
     <title>Ravelling Wrath</title>
+    <link rel="stylesheet" href="style.css"/>
   </head>
   <body>
 '''+html+'''
   </body>
 </html>'''
 
-full_html = wrap("".join (chapters[:]))
+full_html = wrap("".join (chapters[:1]))
 
 with open (html_path, "w") as file:
   file.write (full_html)
+  
+with open(os.path.join (build_path, "style.css"), "w") as file:
+  file.write (css_string)
   
 tags = "Fiction, Young Adult, Fantasy, Urban Fantasy, Adventure, Consent, Healthy Relationships, Mental Health, Coming of Age, LGBT, Lesbian,"
 tags = [match.group (1) for match in re.finditer (r"([^,\s][^,]*)", tags)]
@@ -243,16 +285,17 @@ content_opf = '''
   
 print("starting rendering book at "+ datetime.datetime.now().isoformat())
 
+weasyprint = False
 weasyprint = True
 if weasyprint:
   #for index, chapter in enumerate(chapters):
     #for paragraph in re.finditer(r"<p>.*</p>", chapter):
     #try:
       font_config = FontConfiguration()
-      print(css_string)
+      #print(css_string)
       #print(full_html)
       css = CSS(string=css_string, font_config=font_config)
-      document = HTML (string = full_html, base_url = os.getcwd()).render (stylesheets=[css], font_config=font_config)
+      document = HTML (string = full_html, base_url = build_path).render (stylesheets=[css], font_config=font_config)
       print(dir(document))
       document.write_pdf(pdf_path)
     #except Exception as e:

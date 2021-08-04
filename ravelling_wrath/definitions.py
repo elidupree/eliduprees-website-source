@@ -11,17 +11,17 @@ def fonts_css(fonts_path, mode="web"):
   def font_rules(name_style):
     if mode=="web":
       return """
-  src: url('"""+fonts_path+"""/"""+name_style+""".eot?rr'); /* IE9 Compat Modes */
+  src: url('"""+fonts_path+name_style+""".eot?rr'); /* IE9 Compat Modes */
   src: local(''),
-       url('"""+fonts_path+"""/"""+name_style+""".eot?#iefix?rr') format('embedded-opentype'), /* IE6-IE8 */
-       url('"""+fonts_path+"""/"""+name_style+""".woff2?rr') format('woff2'), /* Super Modern Browsers */
-       url('"""+fonts_path+"""/"""+name_style+""".woff?rr') format('woff'), /* Modern Browsers */
-       url('"""+fonts_path+"""/"""+name_style+""".ttf?rr') format('truetype'), /* Safari, Android, iOS */
-       url('"""+fonts_path+"""/"""+name_style+""".svg#Kadwa?rr') format('svg'); /* Legacy iOS */
+       url('"""+fonts_path+name_style+""".eot?#iefix?rr') format('embedded-opentype'), /* IE6-IE8 */
+       url('"""+fonts_path+name_style+""".woff2?rr') format('woff2'), /* Super Modern Browsers */
+       url('"""+fonts_path+name_style+""".woff?rr') format('woff'), /* Modern Browsers */
+       url('"""+fonts_path+name_style+""".ttf?rr') format('truetype'), /* Safari, Android, iOS */
+       url('"""+fonts_path+name_style+""".svg#Kadwa?rr') format('svg'); /* Legacy iOS */
        """
     else:
       return """
-  src: url('"""+fonts_path+"""/"""+name_style+""".ttf');
+  src: url('"""+fonts_path+name_style+""".ttf');
        """
       
   
@@ -169,7 +169,7 @@ html.debug_mode div.blog_post p.unnecessary_page_number {
   padding-bottom: 1.5em;
 }
 
-"""+fonts_css("/media/fonts")+"""
+"""+fonts_css("/media/fonts/")+"""
 
 
   </style>
