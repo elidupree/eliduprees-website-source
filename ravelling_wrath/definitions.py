@@ -65,6 +65,14 @@ def fonts_css(fonts_path, mode="web"):
   font-weight: 800;
   """+font_rules("alegreya-sc-v15-latin-800")+"""
 }
+
+/* alegreya-sc-regular - latin */
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: 400;
+  """+font_rules("alegreya-sc-v15-latin-regular")+"""
+}
 """
 
 head = """<style>

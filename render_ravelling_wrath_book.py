@@ -52,15 +52,14 @@ def chapter_html (chapter):
   contents = re.sub("</?print_only>", "", contents)
   
   contents = f'''
+  <div class="chapter {chapter.get("post_class", "")}">
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
-  <span style="string-set: runningleft '';"></span>
-  <span style="string-set: runningright '';"></span>
-  <span style="string-set: runningleft 'Ravelling Wrath';"></span>
-  <span style="string-set: runningright 'Chapter {num2words(chapter ["chapter_number"]).capitalize()}: {chapter ["chapter_title"]}';"></span>
+  <div class="runningleft">Ravelling Wrath</div>
+  <div class="runningright">Chapter {num2words(chapter ["chapter_number"]).capitalize()}: {chapter ["chapter_title"]}</div>
   
-  <div class="'''+chapter.get("post_class", "")+'''">''' + re.sub(r"<bigbreak>", '<div class="bigbreak"></div>', contents) + '''</div>'''
+  {contents}</div>'''
   return contents
 
 chapters = [
@@ -100,17 +99,20 @@ css_string = '''body {
 @page :left {
   margin-right: 0.9in;
   @top-center {
-    content: "Bar";
-    content: string(runningleft);
+    content: element(runningleft);
     font: 12pt "Alegreya SC";
   }
 }
 @page :right {
   margin-left: 0.9in;
   @top-center {
-    content: "Foo";
-    content: string(runningright);
+    content: element(runningright);
     font: 12pt "Alegreya SC";
+  }
+}
+@page chapter :first {
+  @top-center {
+    content: none;
   }
 }
 @page full_page_image {
@@ -121,6 +123,16 @@ css_string = '''body {
   @bottom-center {
     content: none;
   }
+}
+.runningleft {
+  position: running(runningleft);
+}
+.runningright {
+  position: running(runningright);
+}
+.chapter {
+  page: chapter;
+  break-before: right;
 }
 p {
   font: 12pt "Kadwa";
@@ -138,7 +150,6 @@ p {
 h2 {
   font: 16pt "Alegreya SC";
   font-weight: 800;
-  page-break-before: right;
   text-align: center;
 }
 .chapter-title {
@@ -146,9 +157,6 @@ h2 {
   font-weight: 800;
   text-align: center;
   margin-bottom: 1.3em;
-}
-.bigbreak {
-  height: 12pt;
 }
 
 
