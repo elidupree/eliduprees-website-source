@@ -158,9 +158,10 @@ img.full-page {
   page: full_page_image;
 }
 img.chapter-header {
-  width: 4.5in;
-  height: auto;
-  page: auto;
+  max-height: 5in;
+  max-width: 4.5in;
+  display: block;
+  margin: 0 auto;
   margin-top: -1.3em; 
   margin-bottom: 1.3em; 
 }
