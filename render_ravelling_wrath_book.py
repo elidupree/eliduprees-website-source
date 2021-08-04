@@ -147,6 +147,12 @@ p {
   font-size: 112%;
   line-height: 1.2em;
 }
+.before-forced-mid-paragraph-page-break {
+  text-align-last: justify;
+}
+.after-forced-mid-paragraph-page-break {
+  text-indent: 0;
+}
 h2 {
   font: 16pt "Alegreya SC";
   font-weight: 800;
@@ -192,8 +198,8 @@ p.text.left {
   text-indent: 0;
 }
 img.full-page {
-  width: auto;
-  height: 9in;
+  max-width: 6in;
+  max-height: 9in;
   display: block;
   margin: 0 auto;
   page: full_page_image;
@@ -206,13 +212,16 @@ img.chapter-header {
   margin-top: -1.3em; 
   margin-bottom: 1.3em; 
 }
-img.inline,img.bottom {
+img.inline,img.bottom,img.top {
   width: 5.7in;
   height: auto;
   margin: 2.8em -0.6in;
 }
 img.bottom {
   margin-bottom: 0;
+}
+img.top {
+  margin-top: 0;
 }
 img.emoji {
   display: inline-block;
