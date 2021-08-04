@@ -11,11 +11,6 @@ import shutil
 
 from num2words import num2words
 
-import weasyprint
-print("WeasyPrint version:", weasyprint.__version__)
-from weasyprint import HTML, CSS
-from weasyprint.fonts import FontConfiguration
-
 import blog_server_shared
 import post_contents_utils
 import utils
@@ -285,9 +280,17 @@ content_opf = '''
   
 print("starting rendering book at "+ datetime.datetime.now().isoformat())
 
-weasyprint = False
-weasyprint = True
-if weasyprint:
+#converter = "weasyprint"
+#converter = "wkhtmltopdf"
+converter = "pagedjs-cli"
+
+if converter == "weasyprint":
+  import weasyprint
+  print("WeasyPrint version:", weasyprint.__version__)
+  from weasyprint import HTML, CSS
+  from weasyprint.fonts import FontConfiguration
+
+  if True:
   #for index, chapter in enumerate(chapters):
     #for paragraph in re.finditer(r"<p>.*</p>", chapter):
     #try:
@@ -302,6 +305,11 @@ if weasyprint:
     #  print (paragraph.group(0))
     #  print(traceback.format_exc())
     #print(f"done rendering chapter {index+1} at "+ datetime.datetime.now().isoformat())
-else:
+    
+if converter == "wkhtmltopdf":
   subprocess.run(["wkhtmltopdf", html_path, pdf_path])
+  
+if converter == "pagedjs-cli":
+  subprocess.run(["pagedjs-cli", html_path, "-o", pdf_path])
+    
 print("done rendering book at "+ datetime.datetime.now().isoformat())
