@@ -212,9 +212,9 @@ Now that we were this comfortable together, it felt a little weird that I was st
 
 Alchemist shrugged. "You can call me whatever you like."
 
-"Okay, uh…" They'd technically given me permission, but calling them Raline just didn't feel right. They hadn't told me that name willingly, and they didn't really seem enthusiastic about it now. For all I knew, they didn't even want <em>Morrow</em> to know that name! Morrow could have just read it out of their mind somehow, and started using it without asking. Or with asking. I got the impression that Alchemist wasn't very comfortable saying no to things. "Look, you're allowed to say no to me if you don't want me to. I won't bite."
+"Okay, uh…" They'd technically given me permission, but calling them Raline just didn't feel right. They hadn't told me that name willingly, and they didn't really seem enthusiastic about it now. For all I knew, they didn't even want <em>Morrow</em> to know that name! Morrow could have just read it out of their mind somehow, and started using it without asking. Or <em>with</em> asking. I got the impression that Alchemist wasn't very comfortable saying no to things. "Look, you're allowed to say no to me if you don't want me to. I won't bite."
 
-That made Alchemist look even more uncomfortable, Stern take it.
+That made Alchemist look even more uncomfort&shy;able, Stern take it.
 
 "So, uh, you know how Morrow can read your mind all the time?"
 
@@ -572,7 +572,7 @@ I squeezed her tight. "I know, I can't believe the –" Then I noticed exactly w
 
 I looked up into her eyes. "You'd actually cut your arm off to save me?! Oh my gods oh my gods oh my gods –"
 
-"That was one of the easier choices, actually, I mean, when you think about it, my life wouldn't be <em>that</em> much different without my arm, it would just take a while to get used to –"
+"That was one of the easier choices, actually, I mean, when you think about it, my life wouldn't be <em>that</em> much different with one less arm, it would just take a while to get used to –"
 
 "You're crazy!" I hugged her even tighter than before.
 
