@@ -420,7 +420,7 @@ From behind me, I heard Justicar say, "Very well, I will accompany you. But I wi
 
 Morrow was being way quieter than usual. I tried to pull him into doing our usual games, but he kept looking around and shaking his head.
 
-"Ssshhh! We have to be quiet for Alchemist!"
+"Ssshhh! We have to be quiet for Alchemist while she's thinking!"
 
 "<em>You're</em> telling <em>me</em> to be quiet?!!"
 
