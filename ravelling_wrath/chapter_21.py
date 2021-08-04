@@ -314,7 +314,7 @@ I was completely blown away. I probably would have literally fallen down if I wa
 
 "I didn't think I was going to say this," began Yali. Her hands pressed tight around mine, I could tell this was deadly serious. "I thought, for this entire time, that once we got home alive, I was going to say it was over. That we could be safe, that we could finally just live our lives together. But… but… someone <em>needs</em> to rebuild the Blood Temple. Even if it's against the law. Even if we don't know how. Because, if the Blood Temple had been here… if the Waiting God hadn't destroyed it… then <em>nothing</em> from my past would have happened the way it did. And that makes me so, <em>so</em>, angry…"
 
-"Woah," I whispered. "You actually said you were angry."
+"Woah," I whispered. "You actually said you were angry. Said it like it <em>mattered</em>."
 
 "Yeah," she said heavily. "I did. I guess I learned something from the Blood God after all."
 
@@ -542,7 +542,7 @@ I knelt down, pressing my hand against the cold pavement.
 
 And I knew that one day, I would raise up a new temple to take its place.
 
-<img class="sketch inline" src="/media/ravelling-wrath/sketches/end.jpg?rr" alt="">
+<img class="sketch ending" src="/media/ravelling-wrath/sketches/end.jpg?rr" alt="">
 
 ''',
 },

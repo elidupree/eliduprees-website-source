@@ -192,9 +192,10 @@ p.text.left {
   float: left;
 }
 .prayer {
-  text-align: center;
+  margin: 1.9em 0;
 }
 .prayer p {
+  text-align: center;
   text-indent: 0;
 }
 img.full-page {
@@ -212,7 +213,7 @@ img.chapter-header {
   margin-top: -1.3em; 
   margin-bottom: 1.3em; 
 }
-img.inline,img.bottom,img.top {
+img.bottom,img.top {
   width: 5.7in;
   height: auto;
   margin: 2.8em -0.6in;
@@ -222,6 +223,11 @@ img.bottom {
 }
 img.top {
   margin-top: 0;
+}
+img.ending {
+  margin-top: 4em;
+  width: 4.5in;
+  display: block;
 }
 img.emoji {
   display: inline-block;

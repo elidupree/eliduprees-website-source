@@ -254,13 +254,15 @@ For a heartbeat, all three of us were frozen.
 
 Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone cliff against the ocean waves. "Expressing Game," she said.
 
-<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/ch15-mid.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch15-mid.jpg?rr" alt=""></not_print>
 
 How could she stand in my way when Morrow had done such a thing?!! My fists clenched tighter. My blades grew further, pressing against their limits. But another part of me knew that if Yali was saying that, it was serious business. And it was only the Expressing Game. Fighting against a terrible resistance, I tried to force my rage into words. My voice felt alien. "How DARE he! Alchemist – Alchemist TRUSTED him! What kind of a MONSTER – he's a MONSTER – I'll –"
 
 "Morrow <em>isn't here</em>," said Yali severely. "You're looking at Alchemist. How do you think you're making Alchemist feel?"
 
 I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alchemist was right in front of me! They were going to be terrified! I had to –
+
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch15-mid.jpg?rr" alt=""></print_only>
 
 "<em>Controlling Game,</em>" said Yali.
 
@@ -440,7 +442,7 @@ Yali talked over me, her eyes already flicking back into the memories. "There's 
 
 So. Morrow was a sex worker? I felt like I should be surprised, but nothing would have really surprised me at this point. Thinking back, he had always been kind of… <em>indifferent</em> to sexuality. That would make a lot of sense, I guess, if he thought of it as just a job.
 
-"Yes, thank you," said Yali, still cold and emotionless. "He became a sex worker. His most positive feelings are about people he met in the street… his, his clients, and other homeless people. I can see a, a, sort of a tent city… he feels safe there, because none of the people there will talk to the police… no, that's not a current memory, it's something he… wishes he could go back to? And later he's stuck working in back alleys… I see some, some clients, beating and robbing him, because they know he doesn't have the safety of the other people being around… And he wishes he could go back to the tent city, but for some reason he can't –"
+"Yes, thank you," said Yali, still cold and emotion&shy;less. "He became a sex worker. His most positive feelings are about people he met in the street… his, his clients, and other homeless people. I can see a, a, sort of a tent city… he feels safe there, because none of the people there will talk to the police… no, that's not a current memory, it's something he… wishes he could go back to? And later he's stuck working in back alleys… I see some, some clients, beating and robbing him, because they know he doesn't have the safety of the other people being around… And he wishes he could go back to the tent city, but for some reason he can't –"
 
 "Let me guess, it was a place with a lot of singing? Street alchemists showing off colored fire?"
 

@@ -79,7 +79,7 @@ And so, here we were. Everything was going according to plan. Justicar was no lo
 
 Now only my most powerful enemy was left.
 
-<img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></not_print>
 
 <bigbreak>
 
@@ -88,6 +88,8 @@ How was I going to do this?
 I would need to access the Waiting God's threads within me. But I was not yet certain how to do that. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like… more like <em>performing a protocol</em> to access the god's magic.
 
 <em>Rinn</em> had fully connected with <em>her</em> god. How had she done it? It was probably easier with the Blood God, for more than one reason, but there might still be something I could learn from it.
+
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></print_only>
 
 Thinking back, I remembered how she had talked when she was speaking for the Blood God. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. I would have to treat it as if I was trying to change part of <em>myself</em>.
 
@@ -318,7 +320,7 @@ I stared at the chasm for many minutes, trying each variation I thought of. Firs
 
 A shred of impatience slipped in from the back of my mind. <em>What did the Blood God want from me,</em> I thought, staring at the barely-real bridge in frustration. But the thought had scarcely finished when the bridge was suddenly different. For the first time, it was almost solid! I froze, quickly trying to understand what had happened –
 
-– and the instant the frustration was cleared from my mind, the bridge was gone as well.
+<p>– and the instant the frustration was cleared from my mind, the bridge was gone as well.</p>
 
 I noticed that my heart was pounding. I felt like I'd almost been caught – the bridge had spilled over from my impatience, I'd been careless, and – <em>No,</em> I reminded myself. <em>You're not at the Dalners' anymore. There's no one who's about to punish you. This is about the manifesting. You need to pay attention…</em>
 

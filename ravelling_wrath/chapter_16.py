@@ -137,7 +137,7 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I know what you're thinking. You're thinking, we can't kill the Farseer without hurting Yali. But there's gotta be a way around that, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook my fist in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
 
-<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt=""></not_print>
 
 My fire billowed around me. I rose effortlessly to my feet. Within my aura of flame, everything felt amazing. The rain boiled off of me, leaving me warm and dry. My remaining wounds faded away, my flesh made whole and warm again, my skin smoothed together into a single, beautifully sensitive organ.
 
@@ -149,6 +149,8 @@ In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky wh
 <em>No truth can hide from me.</em>
 <em>No force can break me for as long as my blood still flows.</em>
 </div>
+
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt=""></print_only>
 
 A thrill rose through me as I heard those words. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it for a thousand years. Countless generations of humanity had lived and loved and died, and at every step, they had called out to me, speaking these words, to take pride in their strengths, to celebrate their triumphs, to rally themselves against death and despair. Warriors had spoken them on the verge of battle. Parents had spoken them at the birth of their children. Lovers had spoken them together as they defied persecution. This was no Stern prayer. When you prayed to the Stern, you looked to the spires of distant temples, debasing yourself for the mercy of a power that stood above you. But when you prayed to the Blood God, you looked to your own heart.
 
@@ -198,7 +200,7 @@ After a while, Yali looked up from her notes. "So," she said, summing things up,
 
 "I wouldn't say I <em>realized</em>… they were just the only one in front of me, for me to blame… I mean, I know I was right, but…"
 
-"Right. Eventually, the Blood Child was overwhelmed by bad feelings, and took out their anger by killing the Farseer. But it was too late to save themselves, and they still died afterwards. Does that sound accurate?"
+"Right. Eventually, the Blood Child was overwhelm&shy;ed by bad feelings, and took out their anger by killing the Farseer. But it was too late to save themselves, and they still died afterwards. Does that sound accurate?"
 
 "Yeah."
 
@@ -310,7 +312,7 @@ Yali responded, "Honestly, I'm surprised at how many books <em>you've</em> been 
 
 "What can I say, I love putting my hands all over stuff."
 
-Yali shuffled some things around. "More importantly, it's a good thing I already knew how common false memories are. Otherwise I'd be really confused by these inconsistencies. It looks like the only thing we can really rely on is the fact that you can't remember something that happened after you died. But that's, that's… sufficient," she said, frowning.
+Yali shuffled some things around. "More import&shy;antly, it's a good thing I already knew how common false memories are. Otherwise I'd be really confused by these inconsistencies. It looks like the only thing we can really rely on is the fact that you can't remember something that happened after you died. But that's, that's… sufficient," she said, frowning.
 
 After what seemed like forever, we were done. We had mapped out the lives of all the Farseers from Yali's memories. All <em>sixty-eight</em> of them.
 
