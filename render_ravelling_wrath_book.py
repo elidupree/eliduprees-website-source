@@ -51,7 +51,8 @@ def chapter_html (chapter):
   contents = re.sub("<not_print>.+?</not_print>", "", contents)
   contents = re.sub("</?print_only>", "", contents)
   
-  running_symbol_filename = f'{chapter["symbols"]}-small.png'
+  symbols = chapter["symbols"]
+  running_symbol_filename = f'{symbols}-small.png'
   rav_media_paths[running_symbol_filename] = running_symbol_filename
   
   contents = f'''
@@ -60,14 +61,14 @@ def chapter_html (chapter):
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
   <div class="runningleft">
-    <img class="runningsymbols" src="{running_symbol_filename}" alt="" />
+    <img class="runningsymbols {symbols}" src="{running_symbol_filename}" alt="" />
     Ravelling Wrath
-    <img class="runningsymbols" src="{running_symbol_filename}" alt="" />
+    <img class="runningsymbols {symbols}" src="{running_symbol_filename}" alt="" />
   </div>
   <div class="runningright">
-    <img class="runningsymbols" src="{running_symbol_filename}" alt="" />
+    <img class="runningsymbols {symbols}" src="{running_symbol_filename}" alt="" />
     Chapter {num2words(chapter ["chapter_number"]).capitalize()}: {chapter ["chapter_title"]}
-    <img class="runningsymbols" src="{running_symbol_filename}" alt="" />
+    <img class="runningsymbols {symbols}" src="{running_symbol_filename}" alt="" />
   </div>
   
   
@@ -164,12 +165,15 @@ css_string = '''body {
 }
 .runningsymbols {
   /*position: running(runningsymbols);*/
-  max-height: 0.18in;
-  max-width: 0.3in;
-  vertical-align: middle;
+  max-height: 0.12in;
+  max-width: 0.21in;
+  vertical-align: -5%;
   margin: 0 0.5em;
   /*display: block;
   margin: 0 auto;*/
+}
+.runningsymbols.burning-heart {
+  max-height: 0.14in;
 }
 .chapter {
   page: chapter;
