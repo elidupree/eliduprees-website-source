@@ -223,7 +223,8 @@ Yali gave a little smile. "Yeah, about that…" she said.
 
 <bigbreak>
 
-<p class="text right"> Hey!! It's Rinn!! </p>
+<div class="texts">
+<p class="text right<print_only> force-break-before</print_only>"> Hey!! It's Rinn!! </p>
 <p class="text right"> back on earth and feeling great, ❤❤❤ your healing magic haha</p>
 <p class="text right"> how are you doing?? Back with your folks I hope? </p>
 
@@ -235,18 +236,21 @@ Yali gave a little smile. "Yeah, about that…" she said.
 <p class="text right"> it's just I've got nothing to do because Yali is making me sit still so I don't overexert myself 😫 </p>
 <p class="text right"> btw what should I call you now? Unless you want to stick with Alchemist but we have regular alchemists here it could be confusing </p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 It took about twenty minutes before Alchemist texted me back. When they did, I was treated to a whole flood of emoji.
 
+<div class="texts">
 <p class="text left"> <emoji(🏃‍♀️)[1f3c3-200d-2640-fe0f]>!! </p>
 <p class="text left"> 🤕😨😨🧪😧🧪🧪🧪😌😌😌🌈❤️🧡💛💚💙💜🤎🖤 </p>
-<p class="text left"> 🤗<emoji(👨‍👩‍👦‍👦)[1f468-200d-1f469-200d-1f466-200d-1f466]><emoji(👨‍👨‍👧‍👦)[1f468-200d-1f468-200d-1f467-200d-1f466]><emoji(👩‍👧‍👦)[1f469-200d-1f467-200d-1f466]><emoji(👨‍👧‍👦)[1f468-200d-1f467-200d-1f466]>🤗‍ </p>
+<p class="text left<print_only> force-break-before</print_only>"> 🤗<emoji(👨‍👩‍👦‍👦)[1f468-200d-1f469-200d-1f466-200d-1f466]><emoji(👨‍👨‍👧‍👦)[1f468-200d-1f468-200d-1f467-200d-1f466]><emoji(👩‍👧‍👦)[1f469-200d-1f467-200d-1f466]><emoji(👨‍👧‍👦)[1f468-200d-1f467-200d-1f466]>🤗‍ </p>
 <p class="text left"> 💯😌😟😲😆😌😌👍 </p>
 <p class="text left"> 😟😟📱🤪😌😶😟🤪😌😌 </p>
 <p class="text left"> 🤗🤗🤗 </p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 "Oh thank gods, Morrow's okay," I said.
 

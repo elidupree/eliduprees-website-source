@@ -213,8 +213,12 @@ h2 {
 
 
 
-p,div.clear {
+p,div.end-of-texts {
   clear: both;
+}
+div.texts {
+  margin-top: 6px;
+  margin-bottom: 8px;
 }
 p.text {
   border-radius: 1.3em;
@@ -222,16 +226,15 @@ p.text {
   text-align: left;
   text-indent: 0;
   padding: 6px 12px;
-  margin-top: 6px;
-  margin-bottom: 8px;
+  margin-bottom: 2px;
   font-family: Arial, Helvetica, sans-serif;
+}
+.force-break-before {
+  break-before: page;
 }
 p.text.right {
   background-color: #87e520;
   float: right;
-}
-p.text+p.text {
-  margin-top: -6px;
 }
 p.text.left {
   background-color: #e5e4e4;
@@ -309,7 +312,7 @@ def wrap(html):
   </body>
 </html>'''
 
-full_html = wrap("".join (chapters[:1]))
+full_html = wrap("".join (chapters[:]))
 
 with open (html_path, "w") as file:
   file.write (full_html)

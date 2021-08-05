@@ -281,7 +281,7 @@ My mind turned these worries over and over, late into the night, until sleep was
 
 As I slipped into unconsciousness, the only thing I knew for sure was that I was up against something much, much bigger than me.
 
-<img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch5.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch5.jpg?rr" alt=""></not_print>
 
 <bigbreak>
 
@@ -291,7 +291,7 @@ I rose with the dawn. The sun glowed like in my dream, filling my blood with ene
 
 I went through my morning routine on autopilot, my mind racing ahead to what was coming. Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
 
-I had planned to leave in the morning as if I was going to school like normal, so Mom and Dad wouldn't see the shift in the Waiting. I almost did it, too. But as I was stepping out the front door, I felt like I was crossing a point of no return. I hesitated and turned around.
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I had planned to leave in the morning as if I was going to school like normal, so Mom and Dad wouldn't <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch5.jpg?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>see the shift in the Waiting. I almost did it, too. But as I was stepping out the front door, I felt like I was crossing a point of no return. I hesitated and turned around.</p>
 
 "Hey Mom. Hey Dad. I love you so, so much."
 
@@ -305,12 +305,14 @@ I grabbed them and hugged them both tight. They exchanged a look, but went along
 
 I took off running down the road towards the school. But as soon as I was out of sight of my house, I turned and took a different road.
 
+<div class="texts">
 <p class="text left">on my way to clover square eta 20 min</p>
 <p class="text left">ill have something for you</p>
 <p class="text left">don't tire yourself out on the way here, we'll have a lot more walking to do</p>
 
 <p class="text right">on my way! see you soon! ❤</p>
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 I snickered at "<em>more</em> walking", as if I was actually going to walk this first part. I was itching to run, to get there as soon as I could. But just for her, I held myself to somewhere in the middle, and settled into an easy jog.
 

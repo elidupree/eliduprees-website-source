@@ -107,7 +107,7 @@ div.blog_post img {
   margin: 2.8em auto;
   max-width: 100%;
 }
-div.blog_post div.clear {
+div.blog_post div.end-of-texts {
   clear: both;
 }
 div.blog_post p.text {

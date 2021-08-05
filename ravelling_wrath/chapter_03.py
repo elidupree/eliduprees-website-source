@@ -230,6 +230,7 @@ But somewhere in the back of my mind, the idea of <em>murdering your girlfriend<
 
 As soon as I had a moment alone in the halls, I pulled out my phone and started texting Yali.
 
+<div class="texts">
 <p class="text right">omg i love you so much can't want to see u ❤</p>
 <p class="text right">u ok? from the you-know-what last night</p>
 <p class="text right">anyway I thought of something that actually made me angry</p>
@@ -237,8 +238,9 @@ As soon as I had a moment alone in the halls, I pulled out my phone and started 
 <p class="text left">Im ok</p>
 <p class="text left">Tell me after school</p>
 <p class="text left">Meet you out front?</p>
-<p class="text right">sure thing ❤ ❤ ❤</p>
-<div class="clear"></div>
+<p class="text right last">sure thing ❤ ❤ ❤</p>
+<div class="end-of-texts"></div>
+</div>
 
 When I caught up to Yali after school, she didn't notice me at first. She had her bags next to her on the bench, and she was sitting with her elbows on her knees, looking totally exhausted.
 
@@ -489,6 +491,7 @@ Yali relaxed a little. "So, next Friday it is then?"
 <bigbreak>
 
 
+<div class="texts">
 <p class="text left">Having to do pointless tasks?</p>
 
 <p class="text right">What?</p>
@@ -510,7 +513,8 @@ Yali relaxed a little. "So, next Friday it is then?"
 <p class="text right">and also it's ok</p>
 
 <p class="text right">and also yeah I can't stand it</p>
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 Yali wasn't quite herself for the rest of that week. As soon as she wasn't still tired from using the Seeing, her mind was ahead in the ordeal. I tried to tell her to take care of herself, but she just said, "Shh. It's, it's easier this way." 
 
@@ -522,12 +526,15 @@ But as that Friday got closer, I didn't feel so frustrated. Instead, I was <em>e
 
 Just then, another one came in.
 
-<p class="text left">Being denied food?</p>
+<div class="texts">
+<p class="text left<print_only> force-break-before</print_only>">Being denied food?</p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 It was during class, but I held my phone under the desk to text her back.
 
+<div class="texts">
 <p class="text right">sure np</p>
 
 <p class="text right">and I guess itd be annoying but</p>
@@ -544,7 +551,8 @@ It was during class, but I held my phone under the desk to text her back.
 
 <p class="text right">❤</p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 And she'd <em>texted</em> it to me, too, even though she was probably just a few classrooms away and could totally have told me in person. And it was during class, so I couldn't even show my reaction on my face! So evil. I grinned inwardly. She'd gotten me good.
 
@@ -552,11 +560,13 @@ At lunch, I played it off as if the Seeking made me do it. But by the end of the
 
 As I ran, I got another text from her.
 
+<div class="texts">
 <p class="text left">One last thing. I plan to make you feel like you have no way out. But the truth is, you always have the right to back out of this. No matter what I say, if you say you don't want to do this anymore, I'll respect that.</p>
 
 <p class="text right">yeah yeah</p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 As I got close to Yali's house, I all but forgot my hunger. I felt myself tensing up. I had no idea what was coming. I mean, we'd <em>discussed</em> all those things, but I didn't know what it was really going to be like.
 

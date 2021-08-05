@@ -57,22 +57,26 @@ I didn't say that to <em>them</em>, though. The Stern God's people can be awfull
 
 As I jogged towards her house, I pulled out my phone to check exactly what she'd said.
 
+<div class="texts">
 <p class="text left">I have something important to tell you</p>
 <p class="text left">Texting you so I don't put it off any longer</p>
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 We'd been dating for about a month, and Yali was one of the calmest, most patient people I'd ever met. If Yali said something was important, it was <strong>important</strong>. You know the saying – "When the Waiting God moves, beware." I scrolled through the rest of the messages:
 
+<div class="texts">
 <p class="text right">omg is there someone I'll need to beat up</p>
 <p class="text left">No its much bigger than that. Think like… the gods</p>
 <p class="text right">the gods?!</p>
-<p class="text left">I'm not explaining this right</p>
+<p class="text left<print_only> force-break-before</print_only>">I'm not explaining this right</p>
 <p class="text left">Just meet at my place after school, OK?</p>
 <p class="text right">kk ❤</p>
 <p class="text right">omg they gave me detention 😡 I'll skip it tho</p>
 <p class="text left">Lol don't do that</p>
 <p class="text right">but I wanted an excuse to skip 😂 jk see you right after ❤</p>
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 The gods?! I wondered again. How could Yali have something about the <em>gods</em>? Sure, "Our five gods are the foundation of all life in the city", but <em>really</em>. What did the gods ever do for kids like us?
 
@@ -128,7 +132,7 @@ Yali… hesitated. Swallowed. Turned away. Turned back towards me.
 
 My heart was pounding even harder than when I was running. If this was anyone else, I would've just thought they were a little nervous. But with Yali, it <em>meant</em> something. And I was afraid of what that could be.
 
-<img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch1-mid.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch1-mid.jpg?rr" alt=""></not_print>
 
 Finally, she spoke up. "How much do you know about what happens during," she swallowed, "the Ravelling?"
 
@@ -136,7 +140,7 @@ Finally, she spoke up. "How much do you know about what happens during," she swa
 
 "It's, it's, it's worse than that. Just tell me how much you know, so I can explain from there."
 
-I sighed. I couldn't help it – I was already nervous, and now I had to remember some shit from Divinity class. Everyone knew <em>about</em> the Ravelling, but you wouldn't know the <em>details</em> unless you were super religious. I did my best to summarize. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… Get some sort of nutrition out of it? Look, I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I sighed. I couldn't help it – I was already nervous, and now I had to remember some shit from Divinity class. Everyone knew <em>about</em> the Ravelling, but you wouldn't know the <em>details</em> unless you were super religious. I did my best to summarize. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… Get some sort of nutrition out of it? Look, <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch1-mid.jpg?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"</p>
 
 Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
