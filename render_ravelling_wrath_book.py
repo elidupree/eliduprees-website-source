@@ -107,6 +107,7 @@ css_string = '''body {
   counter-increment: page;
   @bottom-center {
     content: counter(page);
+    font: 12pt "Alegreya SC";
   }
   @top-left {
     content: element(runningsymbols);
