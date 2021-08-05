@@ -51,13 +51,25 @@ def chapter_html (chapter):
   contents = re.sub("<not_print>.+?</not_print>", "", contents)
   contents = re.sub("</?print_only>", "", contents)
   
+  running_symbol_filename = f'{chapter["symbols"]}-small.png'
+  rav_media_paths[running_symbol_filename] = running_symbol_filename
+  
   contents = f'''
   <div class="chapter {chapter.get("post_class", "")}">
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
-  <div class="runningleft">Ravelling Wrath</div>
-  <div class="runningright">Chapter {num2words(chapter ["chapter_number"]).capitalize()}: {chapter ["chapter_title"]}</div>
+  <div class="runningleft">
+    <img class="runningsymbols" src="{running_symbol_filename}" alt="" />
+    Ravelling Wrath
+    <img class="runningsymbols" src="{running_symbol_filename}" alt="" />
+  </div>
+  <div class="runningright">
+    <img class="runningsymbols" src="{running_symbol_filename}" alt="" />
+    Chapter {num2words(chapter ["chapter_number"]).capitalize()}: {chapter ["chapter_title"]}
+    <img class="runningsymbols" src="{running_symbol_filename}" alt="" />
+  </div>
+  
   
   {contents}</div>'''
   return contents
@@ -95,6 +107,14 @@ css_string = '''body {
   @bottom-center {
     content: counter(page);
   }
+  @top-left {
+    content: element(runningsymbols);
+    width: 0.45in;
+  }
+  @top-right {
+    content: element(runningsymbols);
+    width: 0.45in;
+  }
 }
 @page :left {
   margin-right: 0.9in;
@@ -114,10 +134,22 @@ css_string = '''body {
   @top-center {
     content: none;
   }
+  @top-left {
+    content: none;
+  }
+  @top-right {
+    content: none;
+  }
 }
 @page full_page_image {
   margin: 0;
   @top-center {
+    content: none;
+  }
+  @top-left {
+    content: none;
+  }
+  @top-right {
     content: none;
   }
   @bottom-center {
@@ -129,6 +161,15 @@ css_string = '''body {
 }
 .runningright {
   position: running(runningright);
+}
+.runningsymbols {
+  /*position: running(runningsymbols);*/
+  max-height: 0.18in;
+  max-width: 0.3in;
+  vertical-align: middle;
+  margin: 0 0.5em;
+  /*display: block;
+  margin: 0 auto;*/
 }
 .chapter {
   page: chapter;
