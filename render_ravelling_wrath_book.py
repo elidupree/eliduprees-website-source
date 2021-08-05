@@ -53,6 +53,11 @@ def chapter_html (chapter):
   
   symbols = chapter["symbols"]
   running_symbol_filename = f'{symbols}-small.png'
+  if symbols == "nonaligned":
+    running_symbol_element = ''
+  else:
+    running_symbol_element = f'<img class="runningsymbols {symbols}" src="{running_symbol_filename}" alt="" />'
+  
   rav_media_paths[running_symbol_filename] = running_symbol_filename
   
   contents = f'''
@@ -61,14 +66,14 @@ def chapter_html (chapter):
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
   <div class="runningleft">
-    <img class="runningsymbols {symbols}" src="{running_symbol_filename}" alt="" />
+    {running_symbol_element}
     Ravelling Wrath
-    <img class="runningsymbols {symbols}" src="{running_symbol_filename}" alt="" />
+    {running_symbol_element}
   </div>
   <div class="runningright">
-    <img class="runningsymbols {symbols}" src="{running_symbol_filename}" alt="" />
+    {running_symbol_element}
     Chapter {num2words(chapter ["chapter_number"]).capitalize()}: {chapter ["chapter_title"]}
-    <img class="runningsymbols {symbols}" src="{running_symbol_filename}" alt="" />
+    {running_symbol_element}
   </div>
   
   
