@@ -114,14 +114,6 @@ css_string = '''body {
     content: counter(page);
     font: 12pt "Alegreya SC";
   }
-  @top-left {
-    content: element(runningsymbols);
-    width: 0.45in;
-  }
-  @top-right {
-    content: element(runningsymbols);
-    width: 0.45in;
-  }
 }
 @page :left {
   margin-right: 0.9in;
@@ -141,22 +133,10 @@ css_string = '''body {
   @top-center {
     content: none;
   }
-  @top-left {
-    content: none;
-  }
-  @top-right {
-    content: none;
-  }
 }
 @page full_page_image {
   margin: 0;
   @top-center {
-    content: none;
-  }
-  @top-left {
-    content: none;
-  }
-  @top-right {
     content: none;
   }
   @bottom-center {
