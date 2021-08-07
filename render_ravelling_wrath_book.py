@@ -387,6 +387,8 @@ if converter == "wkhtmltopdf":
   subprocess.run(["wkhtmltopdf", html_path, pdf_path])
   
 if converter == "pagedjs-cli":
+  # Note: pagedjs-cli seems to also require me to
+  # `sudo sysctl -w kernel.unprivileged_userns_clone=1`
   subprocess.run(["pagedjs-cli", html_path, "-o", pdf_path])
     
 print("done rendering book at "+ datetime.datetime.now().isoformat())
