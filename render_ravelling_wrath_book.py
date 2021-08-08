@@ -161,6 +161,9 @@ css_string = '''body {
 .runningsymbols.burning-heart {
   max-height: 0.14in;
 }
+.runningsymbols.dauntless-gate {
+  max-height: 0.13in;
+}
 .chapter {
   page: chapter;
   break-before: right;

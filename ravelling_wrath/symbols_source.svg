@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-101.11627"
-     inkscape:cy="103.23759"
+     inkscape:zoom="1"
+     inkscape:cx="-487"
+     inkscape:cy="541"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -2087,14 +2087,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-175.54222"
-       y="233.21777"
+       x="-154.96246"
+       y="234.90157"
        id="text5926"><tspan
          sodipodi:role="line"
          id="tspan5928"
-         x="-175.54222"
-         y="233.21777"
-         style="font-size:2.82222px;line-height:1.25">this one's probably good as the small version</tspan></text>
+         x="-154.96246"
+         y="234.90157"
+         style="font-size:2.82222px;line-height:1.25">further thinned for the small version</tspan></text>
     <path
        id="path5932"
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0737904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2532,7 +2532,7 @@
        inkscape:export-ydpi="774.30536" />
     <path
        sodipodi:type="inkscape:offset"
-       inkscape:radius="0.029999999"
+       inkscape:radius="0.05"
        inkscape:original="M -182.31641 371.49414 L -182.18164 372.68164 L -181.93359 373.08398 L -182.70117 373.81055 L -182.99023 373.35938 L -183.01172 373.32812 L -183.99609 372.77344 L -183.94531 373.94531 L -182.30664 376.90234 L -185.67188 381.75781 L -186.55664 381.75781 L -188.12305 383.48633 L -187.78516 383.48633 L -180.27734 383.48633 L -179.97266 383.48633 L -172.46484 383.48633 L -172.12695 383.48633 L -173.69336 381.75781 L -174.57617 381.75781 L -177.94336 376.90234 L -176.30469 373.94531 L -176.25391 372.77344 L -177.23828 373.32812 L -177.25977 373.35938 L -177.54688 373.81055 L -178.31641 373.08398 L -178.06836 372.68164 L -177.93359 371.49414 L -178.94727 372.05859 L -178.9668 372.08398 L -180.125 373.75586 L -181.2832 372.08398 L -181.30273 372.05859 L -182.31641 371.49414 z M -181.95312 372.03906 L -181.50977 372.28516 L -180.125 374.3125 L -179.93359 374.03125 L -178.74023 372.28516 L -178.29688 372.03906 L -178.35742 372.58008 L -178.70117 373.13281 L -177.71094 374.06641 L -177.48438 374.28125 L -177.02734 373.55273 L -176.57812 373.29883 L -176.60156 373.86328 L -178.15234 376.60156 L -178.33789 376.92773 L -178.73242 377.62695 L -178.92773 377.96875 L -178.92773 377.9707 L -179.44922 378.89062 L -179.64648 379.24023 L -180.125 380.08203 L -180.33594 380.45508 L -181.07422 381.75977 L -182.18359 381.75781 L -179.93359 378.17773 L -179.91992 378.15625 L -179.26953 377.12109 L -179.1582 376.94531 L -178.75977 376.31055 L -178.56641 376.00195 L -177.80078 374.78516 L -178.02148 374.55273 L -178.75 373.79102 L -178.9707 373.56055 L -179.13477 373.82227 L -179.58203 374.53711 L -179.76758 374.83398 L -179.57031 375.12305 L -178.95898 376.01562 L -179.35547 376.63477 L -180.125 375.4043 L -180.31641 375.71094 L -181 376.80273 L -181.08984 376.94531 L -181.51562 377.62695 L -181.7207 377.95508 L -184.10156 381.75781 L -185.21094 381.75781 L -182.12109 377.23438 L -182.11133 377.2207 L -181.49023 376.31055 L -181.28906 376.01562 L -180.48047 374.83398 L -181.11328 373.82227 L -181.2793 373.56055 L -181.45703 373.74609 L -181.5 373.79102 L -182.22656 374.55273 L -182.44922 374.78516 L -182.28516 375.04492 L -181.68164 376.00391 L -182.09766 376.60156 L -183.64844 373.86328 L -183.67188 373.29883 L -183.22266 373.55273 L -182.92773 374.02344 L -182.76562 374.28125 L -182.53711 374.06641 L -181.77344 373.3457 L -181.54688 373.13281 L -181.70898 372.87305 L -181.89258 372.58008 L -181.95312 372.03906 z M -181.33594 374.05469 L -180.86328 374.82227 L -181.48242 375.71484 L -182.06055 374.8125 L -181.33594 374.05469 z M -178.91211 374.05469 L -178.1875 374.8125 L -178.76562 375.71484 L -179.38477 374.82227 L -178.91211 374.05469 z M -180.125 376.02539 L -179.55664 376.94727 L -180.125 377.83594 L -180.69336 376.94922 L -180.125 376.02539 z M -178.12695 377.23438 L -175.03906 381.75781 L -176.14648 381.75781 L -178.52734 377.95508 L -178.12695 377.23438 z M -180.88867 377.26562 L -180.33008 378.15625 L -180.79883 378.89062 L -181.32227 377.9707 L -180.88867 377.26562 z M -181.52734 378.30469 L -181.01562 379.22852 L -182.63477 381.75781 L -183.65234 381.75781 L -181.52734 378.30469 z M -178.7207 378.30469 L -176.5957 381.75781 L -177.61328 381.75781 L -179.23242 379.22852 L -178.7207 378.30469 z M -179.43164 379.58594 L -178.06445 381.75781 L -179.17578 381.75977 L -179.91211 380.45508 L -179.43164 379.58594 z M -180.125 380.83594 L -179.61328 381.75977 L -179.97266 381.75977 L -180.27734 381.75977 L -180.63672 381.75977 L -180.125 380.83594 z M -186.37891 382.15625 L -173.87109 382.15625 L -173.0293 383.08789 L -187.2207 383.08789 L -186.37891 382.15625 z "
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path2675"
@@ -3414,5 +3414,50 @@
          style="stroke-width:0.264583px"
          x="-42.001404"
          y="11.88013">same but thicker stroke for small version</tspan></text>
+    <g
+       id="g109710"
+       transform="translate(67.052579,1.8958318)"
+       inkscape:export-filename="C:\Users\Eli\Documents\eliduprees-website-source\media\editable_stuff\ravelling-wrath\symbols\dauntless-gate-small.png"
+       inkscape:export-xdpi="329.91467"
+       inkscape:export-ydpi="329.91467">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.413539;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -204.8447,245.66376 h 7.50513 v -1.25519 l -6.36746,-0.002 z"
+         id="path109702"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m -195.33203,234.06641 -0.72852,0.40429 -6.98047,10.06836 1.70118,-0.006 5.91015,-9.60156 z"
+         id="path109704"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:original="M -195.27344 233.97656 L -196.0957 234.43359 L -203.13867 244.58984 L -201.3125 244.58398 L -195.38086 234.94922 L -195.27344 233.97656 z "
+         inkscape:radius="-0.12"
+         sodipodi:type="inkscape:offset" />
+      <path
+         d="m -193.63281,235.33594 -0.7168,0.40429 -5.68164,8.875 1.68164,0.0274 4.67969,-8.4375 z"
+         id="path109706"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:original="M -193.57812 235.24805 L -194.38477 235.70312 L -200.12305 244.66406 L -198.32031 244.69336 L -193.62109 236.21875 L -193.57812 235.24805 z "
+         inkscape:radius="-0.12"
+         sodipodi:type="inkscape:offset" />
+      <path
+         d="m -195.85156,235.28906 -0.45899,0.63867 1.21094,1.29883 0.52734,-0.73047 z"
+         id="path109708"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.258519px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:original="M -195.85938 235.21289 L -196.375 235.93164 L -195.09375 237.30469 L -194.50586 236.49023 L -195.85938 235.21289 z "
+         inkscape:radius="-0.12"
+         sodipodi:type="inkscape:offset" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g109710"
+       id="use109893"
+       transform="matrix(-1,0,0,1,-260.57398,0)"
+       width="100%"
+       height="100%"
+       inkscape:export-filename="C:\Users\Eli\Documents\eliduprees-website-source\media\editable_stuff\ravelling-wrath\symbols\dauntless-gate-small.png"
+       inkscape:export-xdpi="329.91467"
+       inkscape:export-ydpi="329.91467" />
   </g>
 </svg>
