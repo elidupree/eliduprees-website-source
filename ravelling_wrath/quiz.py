@@ -13,6 +13,7 @@ I'm only satisfied with life if I'm always learning new things.
 When I see something unfamiliar, my first thought is to wonder how it works.
 I would rather jump into a risky opportunity than stick to something boring and effective.
 I like to solve problems in unexpected ways rather than well-known, practical ways.
+When I think of a terrible idea, I'm tempted to do it just to see what would happen.
 '''
 stern = '''
 I have principles I would not violate for any reward or threat.
@@ -20,18 +21,21 @@ I work hard to accomplish the things I believe in.
 I like it when there is a strong system of rules about how things should be done.
 Even if someone will get hurt because I stick to my principles, it is still better to stick to them.
 Lying to make someone feel better is always wrong.
+It bothers me when people do things the wrong way, even when it doesn't personally affect me.
 '''
 broken = '''
 I'm more motivated by habits and immediate desires than by goals or principles.
-When people have strong opinions, they're often confusing and self-contradictory.
+I often can't make sense of the things people say they have strong opinions about.
 When a problem is hard to solve, I tend to let go and leave it unsolved.
 I don't have a strong sense of identity or purpose in life.
+I can easily admit to myself when I'm unable to accomplish something.
 '''
 blood = '''
 I'm happy to be the person I am.
 I take my own needs seriously, even when other people are having worse problems.
 Logic and emotion aren't opposites. I am both emotional and logical, and they work well together.
-It is inherently injust for one social group to have higher status than another, even if no law was violated to make that happen.
+It is inherently injust for one social group to have higher status than another, even if it happened as a natural result of people's choices.
+Everyone, including children, should have the freedom to make choices that risk getting themselves hurt.
 '''
 
 multiple = '''
