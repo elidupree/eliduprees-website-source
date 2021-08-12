@@ -41,7 +41,7 @@ Everyone, including children, should have the freedom to make choices that risk 
 multiple = '''
 I spend a lot of time pursuing knowledge. (Waiting, Seeking)
 I keep my promises even when they end up being much harder than I expected when I made them. (Waiting, Stern)
-Even when something makes me angry, I often wait for a better moment rather than trying to solve it immediately. (Waiting, Broken)
+Even when something makes me angry, I often wait for a better moment rather than trying to do something about it immediately. (Waiting, Broken)
 I have a strong sense of what my life story is. (Waiting, Blood)
 When there's something I don't understand, I won't be content until I've figured it out. (Seeking, Stern)
 I'm more interested in how things <em>are</em> than how they <em>should</em> be. (Seeking, Broken)
@@ -50,3 +50,27 @@ I've accepted that there will always be some suffering in my life. (Stern, Broke
 I don't let other people push me around. (Stern, Blood)
 I like to enjoy simple pleasures without thinking about them very hard. (Broken, Blood)
 '''
+
+def convert_multiple (match):
+  return match.group(1), match.group(2).split(", ")
+
+# https://programmers.stackexchange.com/questions/254279/why-doesnt-python-have-a-flatten-function-for-lists
+def flatten(l):
+  return [x for y in l for x in y]
+
+questions = flatten([
+  [(q, ["Waiting"]) for q in waiting],
+  [(q, ["Seeking"]) for q in seeking],
+  [(q, ["Stern"]) for q in stern],
+  [(q, ["Broken"]) for q in broken],
+  [(q, ["Blood"]) for q in blood],
+  [convert_multiple(match) for match in re.finditer(r"(.*) \((.*)\)", multiple)],
+])
+
+symbols = {
+  "Waiting": "watchful-eye",
+  "Seeking": "endless-maze",
+  "Stern": "dauntless-gate",
+  "Broken": "cloven-earth",
+  "Blood": "burning-heart",
+}
