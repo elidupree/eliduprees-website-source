@@ -20,7 +20,6 @@ I have principles I would not violate for any reward or threat.
 I work hard to accomplish the things I believe in.
 I like it when there is a strong system of rules about how things should be done.
 Even if someone will get hurt because I stick to my principles, it is still better to stick to them.
-Lying to make someone feel better is always wrong.
 It bothers me when people do things the wrong way, even when it doesn't personally affect me.
 '''
 broken = '''
@@ -47,7 +46,7 @@ When there's something I don't understand, I won't be content until I've figured
 I'm more interested in how things <em>are</em> than how they <em>should</em> be. (Seeking, Broken)
 When I act on my momentary desires, I'm usually satisfied with how it turns out. (Seeking, Blood)
 I've accepted that there will always be some suffering in my life. (Stern, Broken)
-I don't let other people push me around. (Stern, Blood)
+Lies - even well-intentioned lies - are inherently harmful to people. It is best if you never lie, except maybe in very extreme situations. (Stern, Blood)
 I like to enjoy simple pleasures without thinking about them very hard. (Broken, Blood)
 '''
 
