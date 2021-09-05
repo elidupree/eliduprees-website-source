@@ -7,8 +7,8 @@ import subprocess
 import shlex
 import comics
 
-def gimp_batch(command):
-  commandp = "gimp --no-interface --batch="+shlex.quote(command)+" --batch='(gimp-quit 0)'"
+def gimp_batch(command, gimp_path = "gimp"):
+  commandp = gimp_path+" --no-interface --batch="+shlex.quote(command)+" --batch='(gimp-quit 0)'"
   print("calling:\n"+commandp)
   out = subprocess.Popen(commandp, shell=True, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
   output = out.communicate()
@@ -16,8 +16,8 @@ def gimp_batch(command):
   print("finished GIMP batch command")
   #print("gimp --no-interface --batch='"+command+"'")
 
-def optimize (file, lossy = True):
-  if lossy: subprocess.run (["pngquant", "--ext=.png", "--force", "--skip-if-larger", "--quality=70-100", "--speed=1", "--verbose", "256", "--", file])
+def optimize (file, lossy = True, quality = "70-100"):
+  if lossy: subprocess.run (["pngquant", "--ext=.png", "--force", "--skip-if-larger", "--quality="+quality, "--speed=1", "--verbose", "256", "--", file])
   subprocess.run (["optipng", "-o4", file])
 
 def generate_images(infile_path, infile_base, outfile_base, width, height, target_width, scale_full_page):
