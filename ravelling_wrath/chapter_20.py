@@ -564,7 +564,7 @@ I interrupted the god's thoughts. What would this "path of change" look like for
 
 <em>What did that "clipping" look like?</em> I insisted. Did it look like children having no choice but to obey their parents? Did it look like me having no one I could tell about the Dalners' abuse until I discovered a way by myself? Did it look like people having no way to survive without working all day for a distant corporation?
 
-Not exactly. Those were all flawed, human approximations of our will.
+Not exactly. Those were all flawed, human approxi&shy;mations of our will.
 
 So that was a <em>yes</em>, then. This was how humanity would be forced into the plan. Isolated and exploited, slowly starved of their basic needs until they started to see the Waiting God's path as the only path of reality, and any other world as impossible idealism. Before I had seen all the memories, I had been unsure. I had thought its goals might have been good, if only it didn't have to kill the Ravellers to make it happen. But now, I knew how to see it through the lens of Blood. I had known what questions to ask to reveal the heartlessness in every part of its design.
 
@@ -608,7 +608,7 @@ Not for Morrow, certainly! He had committed <em>lowari</em>, and – I hesitated
 
 And what about Alchemist?
 
-I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> hadn't liked how I was treating Alchemist. And she wasn't wrong. For my whole time in the Otherworld, I had only been thinking of how Alchemist could be <em>useful</em> to us. Even when I was kind to them, it was only to make sure they would make us the potions we needed. And it had kept us alive… but that was over now. Our lives weren't in danger anymore. So it wasn't right for me to still be thinking of Alchemist that way. It wasn't right that my only feeling was frustration about their weaknesses.
+I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> hadn't liked how I was treating Alchemist. I didn't want to accept it… but she had a point, too. For my whole time in the Otherworld, I had only been thinking of how Alchemist could be <em>useful</em> to us. Even when I was kind to them, it was only to make sure they would make us the potions we needed. And it had kept us alive… but that was over now. Our lives weren't in danger anymore. So it wasn't right for me to still be thinking of Alchemist that way. It wasn't right that my only feeling was frustration about their weaknesses.
 
 I had to find a better way to treat them, to think about them. A way that was more Blood.
 

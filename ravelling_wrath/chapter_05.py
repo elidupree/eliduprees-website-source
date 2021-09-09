@@ -48,52 +48,78 @@ posts = [
 <p>Most of the other characters would also work pretty well with a different assigned gender, or even with a different actual gender. The one exception is Rinn – I feel like Rinn might be the most gender-specific character I've ever written, and I'd have to change a lot more details to be comfortable making zem anything other than cis female.</p>
 
   ''',
+
+
+
+
+
+
   "head":head,
   "chapter_title": "Boundary Crossing",
   "content_warnings":'''<p>Brief description of a sexual assault, and details of a third-party's feelings about it.</p>''',
   "contents": '''
+  
+It turned out I'd been worrying for the wrong person.
+  
+After I explained everything, Yali took a long time to answer. We were sitting together in her living room, and she looked as stressed as I'd ever seen her, and my chest was tight with anxiety about what she was going to say. But when she finally spoke, it was the opposite of what I was afraid of.
+  
+"Rinn… I'm sorry," she said tensely. "I never meant to make you burn yourself out! I <em>know</em> that's not good for our relationship, I <em>know</em> I, you, we <em>need</em> to be able to take breaks sometimes –"
 
-Yali was even more happy to take a break than I'd thought.
+<em>I know <strong>I</strong> need to take breaks,</em> was what she'd almost said.
 
-"I wasn't going to make us work all the way up to Ravelling Week!" she exclaimed. She was smiling, but a little exasperated. "What would we be able to look forward to if it was just 'work, work, work', and then everything trying to kill us? We deserve some time to, to, to just be girlfriends! Like, to, to…"
+Suddenly, my chest was tight with a <em>different</em> emotion – concern for Yali. She wasn't trying to reassure <em>me</em> that we'd have a chance to relax. She was trying to convince <em>herself</em> that it was okay.
 
-"To enjoy ourselves?"
+"Yali –" I began.
 
-"Yes, that! Besides, we need a time to celebrate everything we've gotten done in the last months! You've had some big breakthroughs with understanding your feelings –" I had told her all about my weird fight with Pèi, where I'd switched my emotions back and forth "– and I'm doing great too!"
+"– because, if we don't, that could mean we're too obsessed with the work and we lose the things that are good about our relationship, so, so, making time to relax is more of a necessity –"
 
-"What have you been do–"
+I put a hand on her arm. "Yali! It'll be okay." I said.
 
-"This!" Yali surged to her feet. She spun around in the middle of her living room and flexed her muscles. "It was hard work at first, but by the Stern, this is the best I've felt about my body in ages!"
+Yali gave me an odd, almost resentful look. "Of course <em>you</em> can tell I'm worrying…" she muttered. She breathed slowly in and out. "I, I, it's just, I can't make myself stop thinking about it. You're on the edge of making progress – like, when you argued with Pèi, that was actually a big breakthrough – but I <em>know</em> that resting is what we need right now –"
+
+I could sense the feeling behind her words. Even as she <em>said</em> we needed rest, it wasn't sinking in, it wasn't giving her a chance to actually stop and enjoy herself. But she <em>needed</em> one. I <em>had</em> to find a way to help her get there. "Come on," I said, "when you think something good happened, that makes you worry <em>more</em>? Forget <em>rest</em> – we ought to be <em>celebrating!</em>"
+
+"You're not wrong…" Yali's arm was tense under my hand. "Okay. Okay. Maybe I can make this work. And I do have something I want to share with you…" She paused. She leaned forward a little.
+
+Whatever she was thinking about… I could see a little smile growing on her face. My heart leapt. "What is it –" I breathed.
+
+"<em>This.</em>" Yali surged to her feet.
+
+<bigbreak>
+
+Yali's exercising had sure paid off. In the middle of her living room, she spun slowly around, flexing her muscles, letting me see from every side. "By the Stern," she said, "this is the best I've felt about my body in my life."
 
 I looked her up and down. "Fuck yeah," I said. "You look ready to kick ass."
 
-Yali smirked. "Fight me," she said.
+Yali got a weird look on her face. "Fight me," she said.
 
-I laughed, thinking she was joking. She gave me a weird look. "What are you laughing at?" she said.
-
-"Wait, like, you meant <em>actually</em> fight you?" I said. That couldn't possibly be right, could it?
+I laughed, thinking she was joking. But the next moment, I wasn't so sure. "Wait, you mean, like, <em>actually</em> fight you?" I said. That couldn't possibly be right, could it?
 
 "Why not?"
 
-"Ooo-kay," I got up and stepped forwards, "but I'm warning you, I – woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard and I didn't catch my balance until I stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
+"Ooo-kay," I got up and stepped forwards, "but I'm warning you, I – woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard, and I almost stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
 
-"When am I not serious?" Yali grinned wickedly. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this… <em>physical.</em> We'd hug and kiss and stuff, but that was gentle, it just wasn't the same. But now… A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
+"When am I not serious?" Yali grinned fiercely. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this… <em>physical.</em> A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
 
-I jumped forward to meet her. We collided and grappled our way across the room, bumping into furniture as we went. She was good at it, too, I couldn't get the advantage of her easily. I stepped back and then lunged at her, trying to get her off balance, but she was as solid as a rock. Not expecting that, I made one wrong step and lost my footing. Then it was her turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
+I jumped forward to meet her. We collided and grappled our way across the room, bumping into furniture as we went. She was good at it, too, I couldn't knock her off balance. I stepped back and lunged at her, but she was as solid as a rock. Then I made one wrong step and lost my footing, and it was <em>her</em> turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
 
-I gasped for breath. Yali was leaning into me, pinning me against the wall with her full weight. Her body rubbed against mine as I tried to squirm away, making my skin explode with feeling. Oh gods, this was turning me on! I heaved my body left and right, trying to get free, but all I managed to do was squish into her at different angles. She was squashing the air out of my lungs, too, I couldn't even breathe all the way.
+I gasped for breath. Yali was leaning into me, pinning me against the wall with her full weight. When I tried to squirm away, it just made me rub against her even harder. Oh gods, this was turning me on! I heaved left and right, trying to get free, but I was totally engulfed by her huge, warm, <em>powerful</em> body. I couldn't even breathe all the way in.
 
 "No fair," I gasped.
 
-My heart was pounding like a jackhammer. I was sandwiched, my back against the wall, my front engulfed by Yali's huge, warm, <em>powerful</em> body. She kept grinding up on me, shifting to a different angles to keep me pinned. In between movements, she managed to grunt a response. "Unfair, what, because I'm a heavyweight and you're a, a –"
+In between our heart-pounding movements, she managed to grunt a response. "Unfair, what, because I'm a heavyweight and you're a, a –"
 
 "No no no I didn't mean –"
 
-"Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it." We both paused for a bit to catch our breath. It was weird, but somehow, she was the most relaxed I'd ever seen her. "Say, how much do you weigh?"
+"Rinn, Rinn, Rinn," she said affectionately, "you don't have to worry about mentioning my weight. It's <em>you</em>, I know you're not being mean about it."
+
+Yali pushed herself back, letting me catch my breath. She looked at me with her head tilted, a little smile on her face. I'd never seen her this relaxed. It was working! She was starting to let go of her tension! I couldn't help wanting more. More. Gods, I couldn't handle how much I loved her.
+
+"Say, how much do you weigh?" she said suddenly.
 
 "Er – I think I was 45 kilos last time I was at the doctor –"
 
-Yali grinned from ear to ear. "This is great! I'm 90, I weigh <em>literally</em> twice as much as you!"
+Yali grinned from ear to ear. "That's perfect! I'm 90, I weigh <em>literally</em> twice as much as you!"
 
 "Uh…"
 
@@ -101,9 +127,7 @@ Yali barked out with laughter. "Ha ha, you'll never beat me! I lift twice your w
 
 "Aaaaaah ha ha ha ha ha –"
 
-Yali practically <em>threw</em> me onto the couch. Then she thumped down beside me and cuddled up to me. She leaned in and started planting kisses all over my face. I kissed back eagerly, shoving my lips onto her face as hard as I could get away with. Gods, I couldn't handle how much I loved her. I'd almost thought I would never get a chance like this.
-
-We pulled back to catch our breaths, but definitely not to stop. Even from hearing her <em>breathe</em>, I could tell how excited she was. She was panting like a normal person, not doing some sort of regulated breathing like she did at the gym. We were both so full of energy.
+Yali practically <em>threw</em> me onto the couch, then thumped down beside me herself. We were so close. I could feel her heartbeat, her breathing.
 
 "Soo-ooo…" I said slyly, "the two young lovebirds are about to go on a terrible journey… Who knows when they'll get another chance to be together like this…"
 
@@ -145,17 +169,17 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Woah, I can't believe we forgot about that! I never even told you about how I broke my leg!"
 
-"Ooh, tell me!" It was weird how quickly Yali started acting excited again. After hearing what I'd just heard, there was no <em>way</em> I could put it out of my mind. But I <em>did</em> really want to tell her my stories. Maybe it would be enough to distract me.
+"Ooh, tell me!"
 
-"So, you know the big tree near the elementary school? Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
+It was weird how quickly Yali started acting interested again, like nothing had happened. I didn't know how to relate to it. But if there was somehow, <em>somehow</em>, still a way that Yali would get to enjoy herself, I didn't dare screw it up. I did my best to follow her lead. "So, uh, you know the big tree near the elementary school?" I began. "Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
 
-"Oh, the one with the fence around it?"
+"The one with the fence around it?"
 
-I grinned. "I'm the reason that fence is there." Yali's eyes widened a little. I really got a kick out of impressing her, even now. The fact that I was <em>grinning</em> while telling the story was a little forced, but that <em>was</em> how I would've felt about it any other time.
+"I'm the reason that fence is there," I said. Yali's eyes widened a little. I got a kick out of impressing her, even now.
 
-I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like 'easy peasy' and I did it. And the next time, they said to climb out on the big branch, so I did that too. And then they dared me to hang upside down from the big branch, so I did that, and so on and so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and dance a jig on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
+I went on, "Kids used to dare each other to climb that tree all the time. We weren't allowed to go near it, but that's why it was fun. And everyone loved giving <em>me</em> dares, they were like 'Rinn's crazy, she'll do anything'. I did all kinds of stuff, like, I jumped off the swings and everything. So first, they told me to climb the tree, and I was like 'nought to the Seeking' and I did it. And the next time, they said to climb out on the big branch, so I did that too. And so on. The adults kept trying to punish me, but as soon as I was done with one punishment I would go right back out and do more dares. They finally gave up and started trying to punish the kids who <em>gave</em> me the dares, but obviously they couldn't catch them all the time. So finally, someone dared me to climb out on the branch and do a dance on it, and I was like, 'that sounds awesome!', so I did it, but I lost my footing and fell out of the tree, and that's how I broke my leg."
 
-"That must have really hurt!"
+"That must have been a lot of pain!"
 
 "Oh yeah, it hurt loads. And then I had to wear a cast <em>forever</em> and I couldn't go running outdoors or anything, and it <em>itched</em> under the cast, it was so annoying –"
 
@@ -167,17 +191,17 @@ Yali started giggling uncontrollably.
 
 "Uh, yeah? I mean it wasn't for very long." That only made her giggle harder. Eventually, she got herself under control and told me to keep going.
 
-"Okay. So I guess I didn't <em>actually</em> have the cast on forever, but it <em>felt</em> like forever, it was awful. So yeah, after that I didn't do <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again. And that's when I learned how to climb a fence, too."
+"Okay. So… yeah, after that, I didn't do <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again. And that's when I learned how to climb a fence, too."
 
 I pulled up the leg of my pants. "Here," I said, "let me show you my scar from the fall!"
 
-"That long thin one? That looks like it was painful!"
+"That long thin one?"
 
 "Nah, that one's different, that's from when I jumped out my window. That's a good one, I should tell you that next. And this one –" I showed her a scar on my knuckle "– this one's from when I got bitten by a squirrel. And –"
 
 "You got bitten by a <em>squirrel</em>?"
 
-"Oh yeah, don't mess with squirrels, they're nasty little buggers. So what happened was, I was a little kid, and my dad saw how much I liked running around outside, so he got me a butterfly net. But there were hardly any butterflies around and whenever I did spot one, it just flew away, they were annoying to catch. So instead I caught a squirrel."
+"Oh yeah, don't mess with squirrels, they'll fuck you up. So what happened was, I was a little kid, and my dad saw how much I liked running around outside, so he got me a butterfly net. But there were hardly any butterflies around and whenever I did spot one, it just flew away, they were annoying to catch. So instead I caught a squirrel."
 
 "You caught a squirrel in a butterfly net?"
 
@@ -197,7 +221,7 @@ On my way home, I realized I haven't even remembered to get back to telling her 
 
 <bigbreak>
 
-It wasn't until I was at home in my room, getting ready for bed, that it came back into my mind.
+But when I was at home, getting undressed and ready for bed, it came back into my mind.
 
 <em>It was a long time ago. It wasn't anyone you know.</em>
 
@@ -257,7 +281,7 @@ My mind turned these worries over and over, late into the night, until sleep was
 
 As I slipped into unconsciousness, the only thing I knew for sure was that I was up against something much, much bigger than me.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch5.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch5.jpg?rr" alt=""></not_print>
 
 <bigbreak>
 
@@ -265,17 +289,15 @@ The day finally came.
 
 I rose with the dawn. The sun glowed like in my dream, filling my blood with energy. I was ready.
 
-I couldn't <em>technically</em> say I was ready, but for some reason, I <em>felt</em> ready. I went through my morning routine on autopilot, my mind racing ahead to what was coming.
+I went through my morning routine on autopilot, my mind racing ahead to what was coming. Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
 
-Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
-
-I had planned to leave in the morning as if I was going to school like normal, without letting Mom and Dad know there was anything out of the ordinary. I almost did it, too. But as I was stepping out the front door, I felt like I was crossing a point of no return. I hesitated and turned around.
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I had planned to leave in the morning as if I was going to school like normal, so Mom and Dad wouldn't <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch5.jpg?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>see the shift in the Waiting. I almost did it, too. But as I was stepping out the front door, I felt like I was crossing a point of no return. I hesitated and turned around.</p>
 
 "Hey Mom. Hey Dad. I love you so, so much."
 
 Mom sighed. "What do you want?"
 
-I almost laughed. Somehow, I hadn't expected her to turn my super serious emotions into regular annoyance. "I just want you to know how much I love you! Is that so wrong?" She didn't look very convinced. "Come on, I'm a teenager! I'm allowed to have mood swings! You too –" I jabbed a finger at Dad "– get over here!"
+I almost laughed. Somehow, I hadn't expected her to turn my heartfelt emotions into regular annoyance. "I just want you to know how much I love you! Is that so wrong?" She didn't look very convinced. "Come on, I'm a teenager! I'm allowed to have mood swings! You too –" I jabbed a finger at Dad "– get over here!"
 
 I grabbed them and hugged them both tight. They exchanged a look, but went along with it. Oh, they had no idea what was coming. But I knew.
 
@@ -283,24 +305,26 @@ I grabbed them and hugged them both tight. They exchanged a look, but went along
 
 I took off running down the road towards the school. But as soon as I was out of sight of my house, I turned and took a different road.
 
+<div class="texts">
 <p class="text left">on my way to clover square eta 20 min</p>
 <p class="text left">ill have something for you</p>
 <p class="text left">don't tire yourself out on the way here, we'll have a lot more walking to do</p>
 
 <p class="text right">on my way! see you soon! ❤</p>
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 I snickered at "<em>more</em> walking", as if I was actually going to walk this first part. I was itching to run, to get there as soon as I could. But just for her, I held myself to somewhere in the middle, and settled into an easy jog.
 
 It was the last time I was going to be running these streets for a long time. I lovingly landed my feet in every familiar pothole and crack. Over there was the first bar I ever got kicked out of. A few blocks down, the corner store where Pèi stole most of her jewelry. The old half-a-basketball-court where I used to play with the neighborhood kids until the hoop fell down and people started dumping their trash there, haha.
 
-It was a long jog. Eventually I got to the wall between the fifth and fourth rings, and headed up through its main gate, which was pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, just looking that way made me miss the shit out of him.
+It was a long jog. Eventually I got to the wall between the fifth and fourth rings, and headed up through the nearest gate, getting me pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, I <em>had</em> to get back from the Ravelling alive, just so I could see him again when it was over.
 
 It wouldn't be long till I was there. I stopped thinking and just jogged, feeling the wind blow over my face and arms. It was cold, but I was getting plenty warmed up anyway. It was good to be alive.
 
 When I got to Clover Square, I didn't see Yali anywhere. I was about to text her again, to ask when she'd get there, when I felt her hand land on my shoulder. She led me into a corner and handed me a shapeless gray hoodie that was a couple sizes too big for me. I obediently pulled it over my head and wriggled my arms into the sleeves. Yali was wearing one just like it, keeping her face well back under the hood.
 
-"I don't want anyone to recognize us on our way to the fountain," she said. She was referring to something we'd discussed earlier. We were going to go to the fountain at the center of the first ring, where the boundary between this world and the Otherworld was the thinnest. Apparently, the actual process of getting pulled through the boundary was going to be a really weird experience, and if it didn't go just right, we might end up getting flung to faraway parts of the Otherworld instead of arriving at the same place as each other. But it would be easier if we were near the fountain, instead of just being pulled through from wherever we happened to be. "We'll take a bus up to the second ring, then walk from there."
+"I don't want anyone to recognize us on our way to the fountain," she said. The fountain was our destination. It was a place at the center of the first ring, where the boundary between this world and the Otherworld was the thinnest. Apparently, the actual process of getting pulled through the boundary was going to be a really weird experience, and if it didn't go just right, we might end up getting flung to faraway parts of the Otherworld instead of arriving at the same place as each other. But it would be easier if we were near the fountain, instead of just being pulled through from wherever we happened to be. "We'll take a bus up to the second ring, then walk from there."
 
 "Why not all the way?"
 
@@ -320,9 +344,9 @@ Yali whispered back, "I don't want anyone to be sure that we're Ravellers, even 
 
 "It's not just the Ravellers who disappear on Ravelling Week. There's –"
 
-"What? No one told me about any other stuff!"
+"What? There's <em>more</em> magic stuff?!"
 
-"I mean… Kidnappings. Runaways. Star-crossed lovers. Anyone who wants to create some doubt about why they disappeared. Who's going to look for you if they think you're not in the world anymore, right? Realistically, there's more fakers than actual Ravellers. So with us –"
+"No, I mean… Kidnappings. Runaways. Star-crossed lovers. Anyone who wants to create some doubt about why they disappeared. Who's going to look for you if they think you're not in the world anymore, right? Realistically, there's more fakers than actual Ravellers. So with us –"
 
 "Haha, yeah, how likely is it that we'd <em>both</em> be chosen? Everyone will think we're the star-crossed lovers for sure."
 
@@ -330,7 +354,7 @@ Yali whispered back, "I don't want anyone to be sure that we're Ravellers, even 
 
 "What?"
 
-"'Star-crossed' means the fates are against us. That definitely fits. Ironically, because –"
+"'Star-crossed' means that fate is against us. That definitely fits. Ironically, because –"
 
 "But, don't you have to, uh, have sex, to count as 'lovers'?"
 
@@ -342,15 +366,13 @@ It took Yali a moment to realize that I was joking, but then she laughed loudly.
 
 "I think that's our bus," muttered Yali.
 
-The bus drove up and we got on together. Yali paid for both of us.
+I held Yali's hand for the whole bus ride there. Neither of us spoke. We had so much to say, but most of it had already been said, and the rest could wait until there were fewer people to overhear us.
 
-I held Yali's hand the whole way there. Neither of us spoke. We had so much to say, but most of it had already been said, and the rest could wait until there were fewer people to overhear us.
+Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. But there was nothing out there I hadn't seen before. There was the big gate into the third ring. The dull, square Stern buildings. The menacing walls of the prison off in the distance. Was that where…? No, that wasn't worth thinking about, not when Yali was right next to me. I tried to focus on the trip. We passed by a busy gas station. We rolled through the weirdly hidden gate into the second ring, which you almost couldn't see until you got close to it.
 
-Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. But there was nothing out there I hadn't seen before. There was the big main gate into the third ring. The dull, square Stern buildings. The menacing walls of the prison off in the distance. Was that where…? No, that wasn't worth thinking about, not when Yali was right next to me. I tried to focus on the trip. We passed by a busy gas station. We rolled through the weirdly hidden gate into the second ring, which you almost couldn't see until you got close to it.
+Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, sheltering it under her body, showing the route to where we were going. She waved for me to follow, and started walking without saying a word.
 
-Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, showing the route to where we were going. She waved for me to follow, and started walking without saying a word.
-
-The second ring didn't quite look how I remembered it. I guess that shouldn't have been a surprise, since I'd been a little kid last time I was here. And it was still way different from back at home. The buildings were big, brightly colored, and completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-panelled walkways sticking out all over the place. I couldn't resist looking around at everything. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
+The second ring didn't quite look how I remembered it. The last time I'd been here, I was a little kid, and I was amazed by the big, brightly colored buildings, all completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-panelled walkways sticking out all over the place. Even now, my eyes couldn't help but wander as we walked. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
 
 "Yali?" I said. She didn't look up from her silent concentration. "Hey, Yali!"
 
@@ -358,17 +380,17 @@ The second ring didn't quite look how I remembered it. I guess that shouldn't ha
 
 "Oh, right. Sorry, I didn't think of that." Ugh, it felt weird that I wasn't getting a reaction out of her. It was like the bond between us had somehow been cut when I wasn't looking. Why was she acting like that? Well, when I thought about it, this was probably really stressful for her too. But at least <em>she</em> knew what it was going to be <em>like</em> when we got sucked into the Otherworld. All <em>I</em> had to go on was her descriptions – and she had said it was "mindbending" and "not actually dangerous", which wasn't exactly reassuring. Whatever, I could put up with it. I went back to looking around while I followed her, to give her a little space. More streets went past. My hoodie slowly got more damp in the rain.
 
-At last, the first ring's wall loomed above us. We didn't <em>get</em> there right away – we were still on the second ring's twisty roads, so even once we could see the wall over the shorter buildings, there was still a lot of meandering before we got to the actual gate. But we got there.
+At last, the first ring's wall loomed above us.
 
-At first glance, the Waiting Gate didn't look like much. For being one of the main gates, it was pretty small, only wide enough to fit one car at a time. But once I got close, I could see the details. Every part of the stonework around the gate was carved into finely shaped curves. The shapes looked somehow geometric and organic at the same time. And at the top of the gate, they all intertwined into a big version of the Waiting God's symbol, the Watchful Eye.
+At first glance, the gate didn't look like much. It was pretty small, only wide enough to fit one car at a time. But once I got close, I could see the details. Every part of the stonework around the gate was carved into finely shaped curves. The shapes looked somehow geometric and organic at the same time. And at the top of the gate, they all intertwined into a big version of the Waiting God's symbol, the Watchful Eye.
 
 I paused under the gate to run my fingers through the grooves in the carvings. They were way smoother than I expected. "Wooaah…" I said. "I can't even feel the gaps between the stones."
 
 Yali stood ahead of me impatiently. I hurried to catch up.
 
-On the other side of the gate, the city looked way different. It was like night and day. The roads around here weren't even paved normally, they were all cobblestones instead. And all the buildings were kind of… shorter than usual. Not just fewer multi-story buildings, but lower roofs and shorter doors as well. Wouldn't be a problem for me or even Yali, but someone as tall as Dehel would be hitting their head all the time.
+On the other side of the gate, the city looked totally different, as if the Stern itself had divided the rings from each other. The roads around here weren't even paved normally, they were all cobblestones instead. And all the buildings were kind of… shorter than usual. Not just fewer multi-story buildings, but lower roofs and shorter doors as well. Wouldn't be a problem for me or even Yali, but someone as tall as Dehel would be hitting their head all the time.
 
-And a lot of the buildings had stone walls with carvings like the ones on the gate. I'd expect that kind of thing from a temple, but even regular shops and stuff had them.
+And a lot of the buildings had stone walls with carvings like the ones on the gate. I would've expected that kind of thing from a temple, but even regular shops and stuff had them.
 
 "Ugh, my legs are tired," I said. They weren't <em>that</em> tired, but I was itching to say something.
 
@@ -392,9 +414,9 @@ How had that even offended her?! I scrambled to think back to what I'd said. "It
 
 "Way to kill the mood."
 
-We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobblestones. By the time we got where we were going, my legs really <em>were</em> sore from all the times I had to catch myself after tripping a little. I shouldn't have tripped, but I was paying more attention to Yali than to where I was putting my feet.
+We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobblestones. By the time we got where we were going, my legs really <em>were</em> sore from all the times I had to catch myself after tripping a little.
 
-I'd expected the fountain to have a big jet of water shooting up into the air. But instead, it had thousands of little channels of water, flowing along the surfaces of more stone engravings like the others I'd seen around here. There was a big, shallow basin in the middle of the city square, with a big carved stone sticking up in the middle, and more carvings around the edges. All the little channels of water flowed peacefully into the basin, with hardly even a splash. If it wasn't for the rain putting ripples all over the water's surface, it would probably all be a steady, continuous stream. It'd look like the water wasn't moving at all.
+I'd expected the fountain to have a big jet of water shooting up into the air. But instead, it had thousands of little channels of water, flowing along more stone engravings like the others I'd seen around here. There was a wide, shallow basin in the middle of the city square, with a big carved stone sticking up in the middle, and more carvings around the edges. All the little channels of water flowed peacefully into the basin, with hardly even a splash. If it wasn't for the rain putting ripples all over the water's surface, it would probably all be a steady, continuous stream. It'd look like the water wasn't moving at all.
 
 Around the fountain were a few benches made of the same stone. Yali led me to one of them and we sat down together. For a solid piece of rock, it was surprisingly comfortable. Once I was settled in, I held Yali's hand and leaned against her shoulder.
 
@@ -450,11 +472,11 @@ The world was gone. Yali was gone. I was submerged in the void, with nothing but
 
 I made her face appear among the stars. Her eyes were blazing pinpricks of light. Her hand was a constellation reaching out towards me. She was crowned with cold fire that shone from an eternity away.
 
-I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great monstrosity watched me with indifference, seeing all that I might do. And in front of all this, I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
+I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great monstrosity watched me with indifference, seeing all that I might do. I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
 
 At last, I felt a looming presence, like a giant hand hovering over me. Maybe Yali's, or maybe something else's, I had no way to tell. The hand slowly descended around me, forming a vast and empty enclosure around me, shutting out the stars one by one.
 
-In the emptiness of the hand's embrace, I waited, wondering what would happen next. Until, bit by bit, I somehow became aware that the <em>hand</em> was waiting for <em>me</em>. The void it had created was expectant. I reached out, not knowing how. I had no arms to crawl with, no voice to yell into the darkness, no mind to make sense of it with ideas. Yet somehow I still reached out, as if with my life force itself, to scratch a foothold into this fragment of the universe that was being offered to me.
+In the emptiness of the hand's embrace, I waited, wondering what would happen next. Until, bit by bit, I somehow became aware that the <em>hand</em> was waiting for <em>me</em>. The void it had created was expectant. I reached out, not knowing how. I had no arms to crawl with, no voice to yell into the darkness, no mind to make sense of it with ideas. Yet somehow I still reached out, as if with my life force itself, to scratch a foothold into the fragment of the universe that was being offered to me.
 
 As my life force breached the void, these images all winked away – the hand, the stars, and even the void itself. They left me blinking into a different light that was much closer, much more real and mundane.
 

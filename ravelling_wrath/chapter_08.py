@@ -146,8 +146,6 @@ Happily? How could I tell that she was happy? She was just a solid platform like
 
 We all rushed to the edge to greet the Alchemist, who was standing nervously at the edge of Neenu. One moment, their big soft eyes blinked across at us, and the next, they looked down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced. The Alchemist didn't look like they were ready for this. They were dressed in a loose bathrobe, and it looked like they had just been plucked out of bed and plopped down on the star before they had a chance to wake up.
 
-<img class="sketch" style="max-width: 50%" src="/media/ravelling-wrath/sketches/alchemist.jpg?rr" alt="">
-
 "Now," said Justicar, "we only need a safe way for the Alchemist to get across to this star."
 
 "It's just a little jump. You can do it!" I said.
@@ -230,11 +228,12 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 "Yeah, but then we wouldn't get to set things on fire." I dropped a pile of logs out of thin air onto the middle of the star. Then I took a big, exaggerated breath inwards, and breathed fire all over the logs. The fire shot out farther than I'd intended, but in a flash, Justicar manifested a glass wall to block the flames from burning anyone. Alchemist, standing just behind the wall, jumped in fright. "Haha, sorry about that!" I said. The logs weren't properly on fire yet, so I gave them another few fiery breaths until they caught. I was breathing fire more carefully this time, but Justicar still only dismissed her wall once the logs were burning steadily on their own.
 
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch8.jpg?rr" alt=""></print_only>
 "Now everyone sit around the fire!" I said. They all did, to varying degrees of reluctance. Yali and I sat on a camping mat, with Yali sleepily putting one arm around my shoulders. On the other side, Morrow and Alchemist were in a similar position. Alchemist initially seemed nervous about the fire, but once they relaxed and started warming themself, their face melted into a dreamy smile. It was really heartwarming.
 
 Justicar insisted on staying in a stiff chair a slight distance away.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch8.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch8.jpg?rr" alt=""></not_print>
 
 "I'll go first!" I said. "This one's for you, Yali. I'm finally going to tell you the one about how I jumped out of my window!"
 
@@ -422,7 +421,7 @@ From behind me, I heard Justicar say, "Very well, I will accompany you. But I wi
 
 Morrow was being way quieter than usual. I tried to pull him into doing our usual games, but he kept looking around and shaking his head.
 
-"Ssshhh! We have to be quiet for Alchemist!"
+"Ssshhh! We have to be quiet for Alchemist while she's thinking!"
 
 "<em>You're</em> telling <em>me</em> to be quiet?!!"
 
@@ -764,11 +763,7 @@ Neenu swooped towards the star with the portal on it, and hovered over it in a l
 
 It was funny. When I looked at the portal with my <em>eyes</em>, I just saw solid blackness, like it was a black wall blocking off the doorway. But when I looked with my instincts, it was vibrant. "So I'm going to be stepping into that portal? What even <em>is</em> that thing?"
 
-Yali answered. "It will be a lot like when we were pulled into the Otherworld. The same way the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition is even technically called the Seeking Gate, and the first one was called the Waiting Gate –"
-
-"That's confusing, that's the same as what the physical gates in the city are called!"
-
-"Yeah, the city gates are named after these ones. In any case, this will be the same <em>kind</em> of thing you already experienced. So it will be similar, but different."
+Yali answered. "It will be a lot like when we were pulled into the Otherworld. The same way the Waiting God brought us into this layer, the Seeking God will bring us into the next. The transition from the material world into the Otherworld is even technically called 'the Waiting Portal', just like this one is the Seeking Portal. So it will be similar, but different."
 
 "Different how? What's it going to be like?"
 
@@ -780,7 +775,7 @@ The only thing was, I had been imagining going through it <em>with</em> Yali. Bu
 
 I jumped back up and flung my arms around her, squeezing tightly onto her and burying my face in her chest. "I don't want to leave you!!" I said plaintively.
 
-Yali lifted my head to look at her, cupping my cheeks softly in her hands. "It's okay," she murmured. "I know it's hard. But I'll look for you as soon as I get there. And that will be pretty soon from your perspective, because the flow of time is different in the Gate." She pulled me close and kissed me on the mouth, long and tenderly. "I don't want to leave you either, you know? But it's going to happen one way or another. So it's better if we do it on our own terms."
+Yali lifted my head to look at her, cupping my cheeks softly in her hands. "It's okay," she murmured. "I know it's hard. But I'll look for you as soon as I get there. And that will be pretty soon from your perspective, because our perception of time is different inside the Portal." She pulled me close and kissed me on the mouth, long and tenderly. "I don't want to leave you either, you know? But it's going to happen one way or another. So it's better if we do it on our own terms."
 
 I clung to her for ages. I didn't want to leave. I didn't want to peel myself away from her soft body that I was clutching onto. But finally, the time came for me to go.
 

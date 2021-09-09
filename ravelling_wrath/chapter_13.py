@@ -118,7 +118,11 @@ Yali stared at the pedestal with the map, ignoring me. "What we'll do, what we <
 
 "Tell me something I don't know," I said dully.
 
-"You can go straight to the exit portal. The Stern God won't approve, but it won't stop you. We'll meet up again in the next layer. It'll be okay."
+"The third layer isn't always like this," she said seriously. "The Stern God is supposed to test our commitment to our <em>own</em> principles. Not to make us obey and sacrifice for nothing."
+
+"Justicar," I breathed. "It's based on how Justicar sees it."
+
+Yali wasn't really listening. "You can go straight to the exit portal," she continued. "The Stern God won't approve, but it won't stop you. We'll meet up again in the next layer. It'll be okay."
 
 But as soon as she said that, another horrible thought screamed in my head. "But what if I don't?! What if I get to the portal and I can't make myself go through it? What if I turn back while you're on the Farseer's Path and you don't know I'm coming and I do it again?!!"
 
@@ -252,13 +256,15 @@ So that was what I used.
 
 I stomped down the path, answering every new sensation with a surge of hatred, of bitterness for everything around me. In my mind, I smashed down the walls and pounded the stones into dust. I imagined tearing off fistfuls of the Stern God's soul and plunging them into a sea of acid. I yelled and yelled at myself, trying to make myself believe that I was in control, that no one could overrule Rinn Akatura.
 
-But no matter how hard I tried, it just echoed around my brain incoherently, none of it sinking in.
+But no matter how hard I tried, it just echoed around my brain, none of it sinking in.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch13.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch13.jpg?rr" alt=""></not_print>
 
 <bigbreak>
 
 It wasn't long before my anger dulled again. I settled into a routine – not a routine that I liked, but a routine that kept me moving forward. An awkward compromise that no part of me was really okay with.
+
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch13.jpg?rr" alt=""></print_only>
 
 The Paths were nothing I hadn't seen before. It only took about half of me to focus on the Stern God's grind. The other half was free to wander, to bend back and linger over what I had just done.
 

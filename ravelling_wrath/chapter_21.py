@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 21",
   "auto_paragraphs": True,
   "blurb_image": "/media/ravelling-wrath/sketches/end.jpg?rr",
+  "symbols": "nonaligned",
   "head":head,  "chapter_title": "Change",
   "content_warnings": '''<p>A character with PTSD coping with feelings of guilt.</p>''',
   "contents": '''
@@ -78,7 +79,7 @@ Yali kept taking care of me for the rest of the day, while my body slowly starte
 
 "And it <em>itches</em>," I complained. "It actually itches <em>inside</em> my arm, this is such bullshit –"
 
-Yali look something up on her phone. "It looks like that's a common symptom when people are getting better from magical healing… Yeah, it's nothing to worry about, it should be all better in four to eighteen hours –"
+Yali looked something up on her phone. "It looks like that's a common symptom when people are getting better from magical healing… Yeah, it's nothing to worry about, it should be all better in four to eighteen hours –"
 
 "Haha, hope you're ready for another eighteen hours of Rinn!" I smacked the table for emphasis.
 
@@ -212,17 +213,18 @@ That was nothing like how <em>I</em> thought about it, but I could tell that Yal
 
 "– Or when people are like, 'well, we love each other, so everything is going to work out', even when there are actually huge problems in their relationship. Like… Love is never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands. That's what I know. That's what the Waiting knows. If I want someone to stop what they're doing, I have to know how to force them to."
 
-"But…" I began. "Okay, I see what you mean. Like, fuckin' Morrow… I mean, I care about him, but he never listened to me when I just <em>told</em> him he was fucking up. At some point, I had to be like, 'this is where I'm gonna stop you', or he would have just kept making things worse for everyone. But I don't think that's the whole answer. There was this thing in the second layer, where we were stuck in a room, and I technically <em>did</em> stop him from hurting himself, but I don't think he was any better afterwards. The only time I really had an impact on him was in the fourth layer, when I got the power to hear his true feelings, to connect with them –"
+"But…" I began. "Okay, I see what you mean. Like, fuckin' Morrow… I mean, I care about him, but he never listened to me when I just <em>told</em> him he was fucking up. At some point, I had to be like, 'this is where I'm gonna stop you', or he would have just kept making things worse for everyone. But I don't think that's the whole story. There was this thing in the second layer, where we were stuck in a room, and I technically <em>did</em> stop him from hurting himself, but I don't think he was any better afterwards. The only time I really had an impact on him was in the fourth layer, when I got the power to hear his true feelings, to connect with them –"
 
 "But the main reason you could help him was because you got your soulfire and he couldn't hurt you –"
 
-"That's exactly what I'm saying! It's both. Like, remember how you said the Blood God values <em>power</em>? The first thing you need is the power to protect yourself. It's no use telling people what to do if they won't listen to you. But once you have the power, you also need to think about what kind of impact you want to make. And for Justicar, that was… you know… because we couldn't get through to her, and we had to protect ourselves. But with Morrow, I <em>could</em> get through to him. At least a little. Gods, I hope he gets better somehow…" I trailed off, thinking about how he'd been feeling when I'd last seen him, when we were leaving the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's number, how are we gonna –"
+"That's exactly what I'm saying! The Blood God knows that both parts are important. Sometimes, other people have power over you, and you have to fight as hard as you can to protect yourself. But sometimes, eventually, <em>you</em> have the power. And then it's your turn to decide what kind of world you want to build. With Justicar, it was the first way, because we couldn't get through to her, and we had to protect ourselves. But with Morrow, I <em>could</em> get through to him. At least a little. And once I had that power, I knew what I wanted to use it for. I wanted to help him heal. Gods, I hope he gets better somehow…" I trailed off, thinking about how depressed he'd been last time I saw him, in the Broken God's world… "Wait a minute! What happened with Morrow and Alchemist?! I was so busy thinking about – shit, I don't even know Alchemist's number, how are we gonna –"
 
 Yali gave a little smile. "Yeah, about that…" she said.
 
 <bigbreak>
 
-<p class="text right"> Hey!! It's Rinn!! </p>
+<div class="texts">
+<p class="text right<print_only> force-break-before</print_only>"> Hey!! It's Rinn!! </p>
 <p class="text right"> back on earth and feeling great, ❤❤❤ your healing magic haha</p>
 <p class="text right"> how are you doing?? Back with your folks I hope? </p>
 
@@ -234,18 +236,21 @@ Yali gave a little smile. "Yeah, about that…" she said.
 <p class="text right"> it's just I've got nothing to do because Yali is making me sit still so I don't overexert myself 😫 </p>
 <p class="text right"> btw what should I call you now? Unless you want to stick with Alchemist but we have regular alchemists here it could be confusing </p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 It took about twenty minutes before Alchemist texted me back. When they did, I was treated to a whole flood of emoji.
 
-<p class="text left"> <img class="emoji" alt="🏃‍♀️" src="/media/ravelling-wrath/emoji/1f3c3-200d-2640-fe0f.svg?rr">!! </p>
+<div class="texts">
+<p class="text left"> <emoji(🏃‍♀️)[1f3c3-200d-2640-fe0f]>!! </p>
 <p class="text left"> 🤕😨😨🧪😧🧪🧪🧪😌😌😌🌈❤️🧡💛💚💙💜🤎🖤 </p>
-<p class="text left"> 🤗<img class="emoji" alt="👨‍👩‍👦‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f469-200d-1f466-200d-1f466.svg?rr"><img class="emoji" alt="👨‍👨‍👧‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f468-200d-1f467-200d-1f466.svg?rr"><img class="emoji" alt="👩‍👧‍👦" src="/media/ravelling-wrath/emoji/1f469-200d-1f467-200d-1f466.svg?rr"><img class="emoji" alt="👨‍👧‍👦" src="/media/ravelling-wrath/emoji/1f468-200d-1f467-200d-1f466.svg?rr">🤗‍ </p>
+<p class="text left<print_only> force-break-before</print_only>"> 🤗<emoji(👨‍👩‍👦‍👦)[1f468-200d-1f469-200d-1f466-200d-1f466]><emoji(👨‍👨‍👧‍👦)[1f468-200d-1f468-200d-1f467-200d-1f466]><emoji(👩‍👧‍👦)[1f469-200d-1f467-200d-1f466]><emoji(👨‍👧‍👦)[1f468-200d-1f467-200d-1f466]>🤗‍ </p>
 <p class="text left"> 💯😌😟😲😆😌😌👍 </p>
 <p class="text left"> 😟😟📱🤪😌😶😟🤪😌😌 </p>
 <p class="text left"> 🤗🤗🤗 </p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 "Oh thank gods, Morrow's okay," I said.
 
@@ -265,7 +270,7 @@ Towards the end of the day, Alchemist told me that they'd invited Morrow to thei
 
 Early the next morning, Yali pronounced me ready to travel, and called a taxi. She still insisted on helping me climb into my seat, but it was more of a "just in case" thing, not like I actually needed it.
 
-It was a long, quiet ride to Yali's house, because we still couldn't go really talk about stuff in front of the driver. By the time we got there, I was super stiff, itching to move. As Yali finished paying our fare, I flung open the door, then ran and flopped on the couch. I leaned back luxuriantly, pressing my neck into the soft cushions. "Ahhhhh… I've sure missed hanging out in the best house in the world."
+It was a long, quiet ride to Yali's house, because we still couldn't really talk about stuff in front of the driver. By the time we got there, I was super stiff, itching to move. As Yali finished paying our fare, I flung open the door to her house, then ran and flopped on the couch. I leaned back luxuriantly, pressing my neck into the soft cushions. "Ahhhhh… I've sure missed hanging out in the best house in the world."
 
 Yali closed the door quietly behind her. "What makes this the best –"
 
@@ -313,7 +318,7 @@ I was completely blown away. I probably would have literally fallen down if I wa
 
 "I didn't think I was going to say this," began Yali. Her hands pressed tight around mine, I could tell this was deadly serious. "I thought, for this entire time, that once we got home alive, I was going to say it was over. That we could be safe, that we could finally just live our lives together. But… but… someone <em>needs</em> to rebuild the Blood Temple. Even if it's against the law. Even if we don't know how. Because, if the Blood Temple had been here… if the Waiting God hadn't destroyed it… then <em>nothing</em> from my past would have happened the way it did. And that makes me so, <em>so</em>, angry…"
 
-"Woah," I whispered. "You actually said you were angry."
+"Woah," I whispered. "You actually said you were angry. Said it like it <em>mattered</em>."
 
 "Yeah," she said heavily. "I did. I guess I learned something from the Blood God after all."
 
@@ -353,7 +358,7 @@ I knelt down next to her and reached out to her. I picked up her hands in mine a
 
 "I'm here," I said. "Come on, let's go somewhere more comfortable?"
 
-She didn't answer. Not sure what to do, I just stayed with her and kept holding her hands. Time passed. I couldn't tell if I was helping. But I loved holding her big soft hands, I could keep sitting here forever. But knowing she was feeling like this was breaking my heart.
+She didn't answer. I couldn't tell if I was helping, but I stayed with her and kept holding her hands. I loved holding her big soft hands, I could have kept sitting there forever. But I knew how she must be feeling, and it was breaking my heart.
 
 Finally, she shifted a little. With a hoarse voice, she choked out a few words.
 
@@ -441,7 +446,7 @@ Yali sat there for a long time. I kept cuddling up to her, feeling her heavy bre
 
 The sun slowly rose, filtering through the blinds. The light made me realize what time it was and how long we'd been just sitting there. I offered to bring Yali some breakfast, but she just patted my hand and got up to get it herself. I followed her as she plodded around the kitchen, gathering up a meal for both of us. I was kinda hungry myself, and I wanted to jump ahead, but this was the time for me to take care of Yali. I stayed back and let her go through her process.
 
-When we were done, Yali gathered up the dishes and brought them to the sink to wash. She scrubbed each plate with practiced movements, like she'd done this a million times before.
+When we had both finished eating, Yali gathered up the dishes and brought them to the sink to wash. She scrubbed each plate with practiced movements, like she'd done this a million times before.
 
 "You want to know something?" said Yali wistfully.
 
@@ -457,7 +462,7 @@ When we were done, Yali gathered up the dishes and brought them to the sink to w
 
 "I know. I know." Yali held up a placating hand. "And now… I think I'm a little more Blood. It… it hurts…" She gave a hollow chuckle. "Justicar tried so hard… And also, I… I hate her and I wish I could have made her suffer more before she died… oh, I don't know." She laughed again. "I guess I'm more Broken now, too."
 
-Watching Yali try to make sense of her feelings… it was tearing at my heart. It was such a simple thing, something I had known how to do since before I could walk, something that Yali was still trying to learn. Tears welled up in my eyes. Everything had been so hard for her. It was bad enough that she'd had to handle her abusers all by herself. If there was any justice, that would have been the end of it. But on top of that, the gods – the gods, who were <em>supposed</em> to watch over us all, to guide and protect us – had used her life as a prop in their feud. And then she had had to solve <em>their</em> problems for them, too! I couldn't take it. It was just so unfair.
+Watching Yali try to make sense of her feelings… it was tearing at my heart. It was such a simple thing, something I had known how to do since before I could walk, something that Yali was still trying to learn. Tears welled up in my eyes. Everything had been so hard for her. It was bad enough that she'd had to handle her abusers all by herself. If there was any justice, that would have been the end of it. But on top of that, the gods – the gods, who were <em>supposed</em> to watch over us all, to guide and protect us – had used her life as a prop in their conflict with each other. And then she had had to solve <em>their</em> problems for them, too! I couldn't take it. It was just so unfair.
 
 Yali noticed my tears. "You okay there?" she said distractedly.
 
@@ -527,9 +532,9 @@ Finally, I reached the gate into the fifth ring. The ring that was my home. The 
 
 The feeling was hazy at first. I wasn't the Blood God anymore. I didn't feel that same sense of <em>wrongness</em> I had felt when I thought about the Stern Temple ruling this ring. I was Rinn, who had grown up with all of this being normal. But I remembered. And I couldn't see anything in quite the same way anymore.
 
-When I ran past the old basketball court full of trash, my old self remembered a place where random assholes dumped their trash and spoiled our fun. But now, I also saw the temple who watched over them. A temple who wouldn't help anyone take away their trash, who wouldn't fix the potholes or the broken streetlights, but who always had time to sic the police on homeless people, to cart random people off to jail.
+When I ran past the old basketball court full of trash, my old self remembered a place where random assholes dumped their trash and spoiled our fun. But now, I also saw the temple who watched over them. A temple who wouldn't help anyone take away their trash, who wouldn't fix the potholes or the broken streetlights, but who always had time to send the police to harass homeless people, to cart random people off to jail.
 
-When I ran past the store where Pèi stole her jewelry, it made me think about Javin, about what the Seeking God had taught me. If the Stern brought harm to those who stole, it was not just a fact of life. I had friends who stole. Friends who got high in the alleyways. Friends who did sex work and called themselves trash and wanted to die. They were a people starved of their blood, trying to claw back their rightful power from a world that had taken it away. My heart beat in time with theirs. They had been trampled over, and it was not right to let them be trampled over again.
+When I ran past the store where Pèi stole her jewelry, it made me think about Javin, about what the Seeking God had shown me. If the Stern brought harm to those who stole, it was not just a fact of life. I had friends who stole. Friends who got high in the alleyways. Friends who did sex work and called themselves trash and wanted to die. They were a people starved of their blood, trying to claw back their rightful power from a world that had taken it away. My heart beat in time with theirs. They had been trampled over, and it was not right to let them be trampled over again.
 
 And when I ran past the supermarket near my house, I remembered something Yali had told me. This was where one of the Blood temples had been, before it was demolished. Before the Stern Temple had sold the land to build this parking lot here.
 
@@ -541,7 +546,7 @@ I knelt down, pressing my hand against the cold pavement.
 
 And I knew that one day, I would raise up a new temple to take its place.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/end.jpg?rr" alt="">
+<img class="sketch ending" src="/media/ravelling-wrath/sketches/end.jpg?rr" alt="">
 
 ''',
 },

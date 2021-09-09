@@ -333,9 +333,9 @@ But that is about the future, and I am not finished telling you about the past. 
 
 I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were nice. I didn't like the other kids either. In those days, I had only one friend. Her name was Romhisat. I was very attached to her, but I treated her very badly. I didn't have anyone else to play with, and whenever she didn't want to play with me, I yelled at her until she did. One day she left me a note saying she couldn't take it anymore and she didn't want to be friends anymore. That day was the worst day of my life.
 
-During school vacations, when I was at home, I ended up getting a lot more alone time. I had gotten more independent at the school, so the Dalners didn't have to spend as much time taking care of me. And when they weren't assaulting me, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. And before long, I found information about child abuse. I had always known I wasn't okay with what they were doing, but when I actually checked the things off in lists of things that were like "this is what abuse is," it felt different. It felt like something I should be able to stop. And not only that, but I hadn't known that the sexual abuse was a <em>crime</em>. If it was a crime, there <em>was</em> something I could do about it, just as long as I could prove what was happening.
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>During school vacations, when I was at home, I ended up getting a lot more alone time. I had gotten more independent at the school, so the Dalners didn't have to spend as much time taking care of me. And when they weren't assaulting me, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. <print_only></p><img class="sketch top" src="/media/ravelling-wrath/sketches/ch14.jpg?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>And before long, I found information about child abuse. I had always known I wasn't okay with what they were doing, but when I actually saw the lists that were like "this is what abuse is," and checked off each thing, it felt different. It felt like something I should be able to stop. And not only that, but I hadn't known that the sexual abuse was a <em>crime</em>. If it was a crime, there <em>was</em> something I could do about it, just as long as I could prove what was happening.</p>
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch14.jpg?rr" alt="">
+<not_print><img class="sketch top" src="/media/ravelling-wrath/sketches/ch14.jpg?rr" alt=""></not_print>
 
 I began writing down everything they did. I wrote down dates and times, details of every abusive act. The more I paid attention to it, the more I noticed how even the little things were abusive. The way they talked to me. The way they talked to each other. And as soon as I could, I started making recordings with my phone. I installed an app that could record audio without displaying anything on the screen, so I wouldn't get caught even if they saw it. And I knew their patterns. When they assaulted me, I sometimes managed to prepare by leaving my phone nearby in advance. To make sure the recordings would be incriminating, I begged them to stop out loud, being specific about what they were doing, so that their responses would prove I was telling the truth.
 
@@ -367,7 +367,7 @@ Szaieto, the monk responsible for my upbringing, liked routines as much as I did
 
 But I was never happy there. For years, I had dedicated my life to a single purpose – escape. But once I had succeeded, I had no idea what to do with myself. I was deeply depressed during my years at the monastery, even if I did not show it on the outside. The monks had answers to a lot of questions, but, but, not that one. There was one other orphan near my age there, but I didn't have anything in common with him.
 
-So, last year, I asked for permission to live independently, and to attend a regular high school. I don't think it was a normal thing to ask for in my situation. But Szaieto and the other monks had been very impressed by how organized and independent I was. They were sad to see me go, but they arranged for me to live in one of the houses the Stern Temple normally reserves for retirees. It's technically rented from the Stern Temple, but it's paid for out of the trust they set up after my parents – after the Dalners were convicted. So… that's why I live there now. The arrangement is, I have a stipend that lets me take care of my basic needs, and the monastery sends someone to visit me once a week to make sure I'm getting along okay.
+So, last year, I asked for permission to live indepen&shy;dently, and to attend a regular high school. I don't think it was a normal thing to ask for in my situation. But Szaieto and the other monks had been very impressed by how organized and independent I was. They were sad to see me go, but they arranged for me to live in one of the houses the Stern Temple normally reserves for retirees. It's technically rented from the Stern Temple, but it's paid for out of the trust they set up after my parents – after the Dalners were convicted. So… that's why I live there now. The arrangement is, I have a stipend that lets me take care of my basic needs, and the monastery sends someone to visit me once a week to make sure I'm getting along okay.
 
 I guess there's not much more to tell. School's nice. The teachers at our school are too overworked to care if I'm paying attention, so I don't have to. And I've gotten to meet other kids, like you. I would never have met you in a Stern monastery. School didn't really help with the depression, though. But I'm not depressed <em>now</em>. I actually haven't been depressed since I was chosen as the Farseer. I have a mission again. Every day I fill my mind with my plans for my mission, I don't have time to be depressed.
 
@@ -435,7 +435,7 @@ But Alchemist wasn't convinced. They fussed over the idea uncertainly. Yali brie
 
 Once that was done, Alchemist wanted to stay and cuddle with me. And Morrow had a million questions about what had happened. But Yali was impatient to get moving. She all but physically blocked the others away from me, helping me up and making sure I could walk again. And then, we moved. She set a swift pace that I could barely keep up with, given my weakened state.
 
-As we walked, Yali spoke with an edge of frustration. "This isn't enough. I wanted more protection for you. I wanted to give you your own set of potions. But with whatever's going on with you, you can't assimilate them."
+As we walked, Yali spoke with an edge of frust&shy;ration. "This isn't enough. I wanted more protection for you. I wanted to give you your own set of potions. But with whatever's going on with you, you can't assimilate them."
 
 "Assimilate…?"
 
@@ -489,7 +489,7 @@ It loomed in front of me, the black, hypnotic doorway.
 
 "So this is…" I mumbled.
 
-"The Broken Gate. It will be, it will be, <em>different</em>."
+"The Broken Portal. It will be, it will be, <em>different</em>."
 
 "Will I stop being… like this?"
 
@@ -513,11 +513,11 @@ She gently held me away. "Even if you do that, you don't feel anything. It only 
 
 I slumped against her arms.
 
-"I know," she said. "But there's nothing else we can do. Go into the Gate. Things will be better on the other side."
+"I know," she said. "But there's nothing else we can do. Go into the Portal. Things will be better on the other side."
 
 Her strong hands turned me around and guided me towards the portal. My heart cracked and crumpled as my legs carried me into the blackness.
 
-The Broken Gate swallowed me.
+The Broken Portal swallowed me.
 
 The ocean crashed over me. A black ocean, heavy and infinite, tossed and dropped my body across its waves. It washed into my head, flooding away my tiny feelings of fear and despair and want. It washed into my mouth, flooding away my flimsy words of explanation. It washed into my eyes, leaving nothing behind them but the raw force of the cosmos.
 

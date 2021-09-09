@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 12",
   "auto_paragraphs": True,
   "blurb_image": "/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr",
+  "symbols": "dauntless-gate",
   "head":head,  "chapter_title": "Emptiness",
   
   # note: partly duplicated language from the summary page, defined in /ravelling-wrath/main.py

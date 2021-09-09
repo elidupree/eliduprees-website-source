@@ -10,6 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 9",
   "auto_paragraphs": True,
   "blurb_image": "/media/ravelling-wrath/sketches/endless-maze-ornate.jpg?rr",
+  "symbols": "endless-maze",
   "head":head,  "chapter_title": "The Endless Maze",
   "content_warnings": '''<p>Self-harm; negative self-talk</p>''',
   "contents": '''
@@ -170,7 +171,7 @@ Morrow blinked. "Alchemist! Have you seen Alchemist??"
 
 "Uh…"
 
-"Whatever, you don't understand. Come on!" Morrow rolled to his feet, waving for me to follow him. I jumped up and ran after him. He was probably just going to take me Seeking without a spark, but I my other choice was to keep looking for Yali, and I didn't have a spark for that either.
+"Whatever, you don't understand. Come on!" Morrow rolled to his feet, waving for me to follow him. I jumped up and ran after him. He was probably just going to take me Seeking without a spark, but my other choice was to keep looking for Yali, and I didn't have a spark for that either.
 
 Morrow led me through one of the doors, probably picking it out at random. We weaved in and out between some floating curtains, quickly losing all sense of where we'd come from. Pushing past the dozenth curtain, we found ourselves in front of a huge wooden gate.
 

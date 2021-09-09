@@ -292,7 +292,7 @@ Why did she have to make everything into some sort of serious issue? "Like <em>y
 
 Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I do not believe to be true. So you can be certain of my honesty when I tell you this: I did not respect myself. I was a heavy drinker. I literally cannot count the times that I drank until I was blacked out or vomiting on the floor. My friends tried to stop me, but I persisted, even knowing that I was making them clean up after me. I ruined my relationships with them, one by one."
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch10.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch10.jpg?rr" alt=""></not_print>
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
@@ -309,6 +309,7 @@ Justicar sighed. "I won't rise to your provocation."
 "So you <em>do</em> have a problem with it!" I said triumphantly.
 
 "I am not homophobic!" said Justicar angrily. She struggled to find the right words. "It didn't matter <em>who</em> I was having sex with! The problem is that I chose to devalue my body that way at all –"
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch10.jpg?rr" alt=""></print_only>
 
 Thoughts from the Blood God shoved their way into my head. What Justicar had just said – it was <em>blasphemy!</em> This sense of <em>wrongness</em>… but I was still weak! I was supposed to be able to explain it! I opened my mouth. "So," I began, still forming it into words, "what I'm hearing is, you were super drunk, and then you 'had sex' with people, in a way that made you feel like your body was devalued. That doesn't sound like you 'choosing' something. That sounds like them taking advantage of you!"
 
@@ -656,9 +657,17 @@ This was gonna be good. I quickly tried to plan out all the ways I could keep me
 
 "And what's so great about the Stern God? Doesn't it get part of its soul from human Ravellers? So it could be corrupted by humans just as –"
 
-"You flaunt your disinterest in the Stern, and yet you assume you can understand how it operates? The Stern God does not simply absorb the soul of any passing stranger. The corrupt are not chosen to be Justicars, and the Justicars undergo many stages of filtering and purification before the Stern God absorbs a single thread. The god and its temple have seen their procedures proven by the test of millennia. You think you know better than they? What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order, but that is a contradiction, because order is the way that people's lives are preserved. Even at the most basic level, if laws against shoplifting cannot be enforced, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Who will even import something as vital as food?"
+"You flaunt your disinterest in the Stern, and yet you assume you can understand how it operates? The Stern God does not simply absorb the soul of any passing stranger. The corrupt are not chosen to be Justicars, and the Justicars undergo many stages of filtering and purification before the Stern God absorbs a single thread. The god and its temple have seen their procedures proven by the test of millennia. You think you know better than they? What would happen if we put a child like yourself in charge of society? You claim to value people's lives above order, but that is a contradiction, because order is the way that people's lives are preserved. It is the Stern who keep the streets clear of criminal activity –"
 
-"Get your story straight! If you're putting me in <em>charge</em>, I can just <em>tell</em> someone to import food! So don't act like you –"
+<em>Who keep the streets clear…</em> "It was you," I breathed. "You and your Temple were the ones who tore down the tents in Mill Street Park. I loved that place! There were always people singing, there were street alchemists doing tricks –"
+
+"Surely you realize the purpose of such alchemical displays? They are nothing but signaling for the drug trade. What else do you think pays for the reagents? The laws that authorized us to clear the encampments were a necessary tool. The people who lived there were addicts, as I was, and like myself, they needed to be torn away from it –"
+
+"They were just trying to live their lives," I snapped. Or was that the Blood God? I could feel a pain inside me, pain that wasn't my own, pain for the people who had been wronged…
+
+Justicar interrupted my thoughts. "I accept that this is a complex issue," she said crisply. "But it is a tangent. Do you think that because you can disagree on a complex issue, the basic need for the Stern disappears? The most basic level is sufficient: If you will not enforce laws against shoplifting, then shoplifting will run rampant. If people can steal things as easily as buy them, how will stores make money? If stores cannot make money, who will be incentivized to import goods into the city? Who will even import something as vital as food?"
+
+"Get your story straight!" I snapped. "If I'm in <em>charge</em>, I can just <em>tell</em> someone to import food! So don't act like you –"
 
 Justicar's voice smoothly cut through mine. She was so calm, it was like she didn't even realize what a heartless system she was defending. "Because you have seen how a tower is shaped, you imagine that you could tear one down and build another from the ruins without any tools. It is all too easy for one such as you, a child who has never lived without the benefits of law, to imagine that those benefits come for free, and are not the products of hard-fought –"
 

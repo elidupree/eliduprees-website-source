@@ -19,7 +19,7 @@ Two bodies lay before me. One dead, one only unconscious, both my doing. One Jus
 
 Was it over?
 
-I listened for the future. There was the heavy hum of Alchemist's presence. The deadened coil of Morrow's anguish. And the strong, reassuring pulse of Rinn's heartbeat. I followed its thread down every branch, into every corner of the future, letting no tiny offshoot escape my notice. But everywhere I looked, the heartbeat continued. All the paths led unerringly to the final portal.
+I listened for the future. There was the heavy hum of Alchemist's presence. The deadened coil of Morrow's anguish. And the strong, reassuring pulse of Rinn's heartbeat. I followed its thread down every branch, into every corner of the future, letting no tiny offshoot escape my notice. But everywhere I looked, the heartbeat continued. And even if the Seeing could still mislead me, there was no one left with hostile intent towards her. All paths led unerringly to the final portal.
 
 It was –
 
@@ -45,15 +45,13 @@ In the first aid videos I had seen, they said that you were supposed to put an u
 
 Could I put her in a different position?
 
-Also, how would I transport her? One way or another, she would have to arrive at the final portal. She was light enough that I could carry her, but if I slipped or jostled her along the way, it could reinjure her. It would be better if I found a way to move her while keeping her stable, with padding.
+Also, how would I transport her? One way or another, she would have to be brought to the final portal. She was light enough that I could carry her, but if I slipped or jostled her along the way, it could reinjure her. It would be better if I found a way to move her while keeping her stable, with padding.
 
-I considered this for many minutes. At last, I settled on an idea. Concentrating, I manifested the same rolling hospital bed that we had used in the Stern God's layer. By itself, this wouldn't be suitable for the current layer's cracked and slanted roads, but it was a start. Next, I changed its wheels. Using manifesting, I reshaped them to have big, soft rubber tires, to soften the bumps. Also, relying on one of the old Farseers' experience as a mechanic, I added ratchets to the wheels, so the bed wouldn't roll back down a hill if I lost my grip on it. After a lot of reshaping, I ended up with a sort of bulky wagon with a mattress on top.
+I considered this for many minutes. At last, I settled on an idea, inspired by the rolling hospital bed we'd used in the third layer. Of course, <em>that</em> bed wouldn't have been suitable for the current layer's cracked and slanted roads, even if I could manifest it. So instead, I manifested a regular bed, and <em>gave</em> it wheels, with big rubber tires to soften the bumps. Also, relying on one of the old Farseers' experience as a mechanic, I added ratchets to the wheels, so the bed wouldn't roll back down a hill if I lost my grip on it. After a lot of reshaping, I ended up with a sort of bulky wagon with a mattress on top.
 
-The next thing was to put Rinn on it. I didn't want to injure her more by trying to lift her directly. So I manifested an inflatable cushion under her body, and slowly inflated it, to lift her up a little at a time. With careful manifesting, I was able to lift her whole body evenly. Once it was up alongside the mattress on the wagon, I manifested another mat under her so I could slide her across.
+With the help of some more manifested supports, I lifted Rinn into a sitting position in the wagon. To make sure she wouldn't fall, I surrounded her body with stiff foam blocks. I shaped each block around her, so her whole body was nestled in a perfect mold. Once I got the shape right, I made the blocks merge together, and also merged them into the mattress underneath, so there was one, solid object holding Rinn in place, and it couldn't slip or fall apart.
 
-By the same process, I lifted her into a sitting position in the wagon. To make sure she wouldn't fall, I surrounded her body with stiff foam blocks. I shaped each block around her, so her whole body was nestled in a perfect mold. Once I got the shape right, I made the blocks merge together, and also merged them into the mattress underneath, so there was one, solid object holding Rinn in place, and it couldn't slip or fall apart.
-
-I stepped back and checked my work. It seemed suitable. Rinn was secure now, with only her head sticking out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. If I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
+I stepped back and checked my work. It seemed suitable. Rinn was secure now, with only her head sticking out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. So if I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
 
 Now there was nothing more I could do for Rinn immediately. Maybe now I would have time to think and plan my next move.
 
@@ -81,7 +79,7 @@ And so, here we were. Everything was going according to plan. Justicar was no lo
 
 Now only my most powerful enemy was left.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></not_print>
 
 <bigbreak>
 
@@ -90,6 +88,8 @@ How was I going to do this?
 I would need to access the Waiting God's threads within me. But I was not yet certain how to do that. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like… more like <em>performing a protocol</em> to access the god's magic.
 
 <em>Rinn</em> had fully connected with <em>her</em> god. How had she done it? It was probably easier with the Blood God, for more than one reason, but there might still be something I could learn from it.
+
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></print_only>
 
 Thinking back, I remembered how she had talked when she was speaking for the Blood God. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. I would have to treat it as if I was trying to change part of <em>myself</em>.
 
@@ -136,7 +136,7 @@ That was an odd thing to think. Who was <em>we</em>?
 
 I concentrated. I had felt like <em>we</em> was the right thing to say, because that was how the god's thoughts had felt to me. But of course, the god hadn't <em>really</em> been thinking human words like that, it was just the closest approximation that my brain could fill in. I repeated my thought, carefully using the god's concept of itself instead of just the human word. <em>And so we were going to do something about the Blood God, weren't we?</em>
 
-No, <em>do something about</em> was too combative a term for it. It was only natural that the Blood God couldn't be allowed to go on forever. We could work around them, we could still guide the city despite the occasional outbursts, but we had understood for millennia that there would come a time when it was necessary for Blood to come to an end.
+No, <em>do something about</em> was too combative a term for it. It was only natural that the Blood God could not be sustained forever. We simply needed to ensure that their decline would be one that did not bring down the city along with them. Until then, we could work around them; we could still guide the city despite the occasional outbursts; but we had understood for millennia that there would come a time when it was necessary for Blood to come to an end.
 
 In these last scant few centuries, it had become clear that this moment was approaching. Humanity was on the verge of a great triumph. Their cities grew beyond their previous limits. Their technology was flourishing, finally beginning to help them transcend their flaws and limitations. Never before had we had such a rich variety of –
 
@@ -204,15 +204,17 @@ I squinted. The god could clearly perceive the link between me and my mother, bu
 
 Frustration was building inside me again. Since the moment I had been Chosen, I had hated the Waiting God for taking advantage of me. For expecting me to serve it after it had done nothing to protect me. But somehow, it hadn't even <em>understood</em> that that was what it was doing?! Was I supposed to be patient with it for not understanding, like I was supposed to be patient with a baby for being clumsy?! But it wasn't a baby, it was a <em>god</em>! It had no <em>right</em> to not understand!
 
-I forced the thoughts back. I couldn't afford to let myself get upset. One way or another, the Waiting God was still my enemy. I had to stay focused to see the ways I could work against it. And this – actually, anything the Waiting God didn't understand about itself was a weakness I might be able to exploit. Even so, this detour into my past had gone on long enough. It was time to get back to thinking about the Waiting God's plan.
+I forced the thoughts back. I couldn't afford to let myself get upset. One way or another, the Waiting God was still my enemy. I had to stay focused to see the ways I could work against it. And this – actually, anything the Waiting God didn't understand about itself was a weakness I might be able to exploit.
 
-Why had I – we – tried to hide the plan from us – from the humans? Well, that was straightforward. Humans were tangled creatures, full of complications that limited their growth. There was nothing to be gained from allowing them to have knowledge of such things. It would only disquiet them, creating pointless turbulence.
+Even so, this detour into my past had gone on long enough. It was time to get back to thinking about the Waiting God's plan.
 
-That was unsettling. The god hadn't shown the least bit of concern that humans could stop the plan. It was only worried about indirect effects, like humans behaving self-destructively because they were upset about it. Was its victory that inevitable? I glanced at Rinn nervously. Hadn't I kept her alive? Oh, we had? It seemed that we had. Well, the plan could accommodate a few errors. How many errors could it accommodate? Blood could be allowed to… grow… healthy… <em>rejuvenate</em>, that was the human word… twice in every fifteen cycles of the seasons, and they would still become powerless as early as was needed.
+Why had I – we – tried to hide the plan from us – from the humans? Well, that was straightforward. Humans were tangled creatures, full of complications that limited their growth. There was nothing to be gained from polluting them with knowledge of such things. It would only disquiet them, creating pointless turbulence.
+
+That was unsettling. The god hadn't shown the least bit of concern that humans could stop the plan. It was only worried about indirect effects, like humans behaving self-destructively because they were upset about it. Was its victory that inevitable? I glanced at Rinn nervously. Hadn't I kept her alive? Oh, we had? It seemed that we had. Well, the plan could accommodate a few errors. How many errors could it accommodate? Blood could be allowed to… grow… healthy… <em>rejuvenate</em>, that was the human word… twice in every fifteen cycles of the seasons, and they would still recede into powerlessness as early as was needed.
 
 It was like I thought. A single rejuvenation wasn't enough to stop the plan. In fact, if the Blood God hadn't rejuvenated even once in the last seventy years… the Waiting God was being much <em>more</em> successful than it thought it needed to be.
 
-If it was going to win anyway, hiding the plan seemed petty and manipulative. Didn't humanity have a <em>right</em> to know what the gods were planning for them? Yes, we had a long-term plan to establish such a right, once humanity was better equipped for it. As things were in the present, it wasn't posssible. Regardless of what we might do to communicate our plans to humanity, they still wouldn't understand clearly enough for such a right to have been fulfilled.
+If it was going to win anyway, hiding the plan seemed petty and manipulative. Didn't humanity have a <em>right</em> to know what the gods were planning for them? Yes, we had a long-term plan to establish such a right, once humanity was better equipped for it. In the world of the present, it would not be possible to achieve. Regardless of what we might do to communicate our plans to humanity, they still wouldn't understand clearly enough for such a right to have been fulfilled.
 
 I tried to focus on myself. I didn't like this merged state, where the god's thoughts could interrupt my own. But I still had to use it.
 
@@ -306,7 +308,7 @@ Either way, flying across probably wouldn't be practical. For any way of flying,
 
 Besides, none of this was like the Blood God. It wouldn't have put this here just to make me think of a clever solution. I felt like I was supposed to go straight across. But how was I supposed to go straight across? There was no way I could manifest a bridge that big. Unless…
 
-Rinn had manifested that huge stone hand and that golden bridge earlier. They were way bigger than anything she had manifested in the earlier layers. It could have been a new Blood Child power, but my powers could normally sense the difference, and it had felt like just regular manifesting. It was probably an aspect of the Blood God's <em>world</em>, just like how the weather in the Broken God's world responded to people's unconscious emotions. If something about this <em>world</em> made it possible to manifest at a huge scale, then I might be able to do it, too.
+Rinn had manifested that huge stone hand and that golden bridge earlier. They were way bigger than anything she had manifested in the earlier layers. It could have been a new Blood Child power, but as the Farseer, I could normally sense the difference – and it had felt like just regular manifesting. It was probably an aspect of the Blood God's <em>world</em>, just like how the weather in the Broken God's world responded to people's unconscious emotions. If something about this <em>world</em> made it possible to manifest at a huge scale, then I might be able to do it, too.
 
 I stood and held out my arms, copying the way Rinn usually stood to manifest. How did she do it? What kind of feelings did she draw on when she was making that golden bridge? She was probably just completely confident. She could probably unleash the full power of her soul, without trying at all. The problem was, that wasn't me.
 
@@ -316,31 +318,31 @@ In my mind, I visualized a bridge in front of me, a steel structure that would s
 
 I stared at the chasm for many minutes, trying each variation I thought of. First I tried to push harder with my mind. When that didn't work, I tried to push more gently. I tried to build the bridge a little at a time, but it got harder and harder the more I added, and I ended up with something that didn't even reach a quarter of the way across. I was clearly missing something. When Rinn had done it, it felt like she wasn't trying at all. So I tried not trying at all, just waving my hand and expecting the bridge to appear for me. Again, nothing happened.
 
-A shred of impatience slipped in from the back of my mind.
+A shred of impatience slipped in from the back of my mind. <em>What did the Blood God want from me,</em> I thought, staring at the barely-real bridge in frustration. But the thought had scarcely finished when the bridge was suddenly different. For the first time, it was almost solid! I froze, quickly trying to understand what had happened –
 
-The instant it did, the bridge was real. The instant I got myself under control again, it was gone.
+<p>– and the instant the frustration was cleared from my mind, the bridge was gone as well.</p>
 
-Was that impatient feeling the way to do the manifesting? I tried to do it again, allowing the impatience to come forward. I glared at the chasm, forcing the bridge to appear again. It did, if unsteadily. Now all I had to do was to stabilize it, to find a way to sustain the impatient feeling long enough to finish the bridge, but not to lose control –
+I noticed that my heart was pounding. I felt like I'd almost been caught – the bridge had spilled over from my impatience, I'd been careless, and – <em>No,</em> I reminded myself. <em>You're not at the Dalners' anymore. There's no one who's about to punish you. This is about the manifesting. You need to pay attention…</em>
 
-When I looked, the bridge was gone again. Even with the impatience still at the forefront of my mind, the bridge had disappeared the moment I felt like I could regulate it.
+Was it really the impatient feeling that had made the manifesting work? It wasn't hard to make myself feel impatient again – I had kept myself stable, but I wasn't calm anymore. I didn't like what the Blood God was making me do. Very carefully, I allowed the impatience to come forward, glaring at the chasm, forcing the bridge into existence…
 
-So that was how it was.
+But there was an ache in my mind, and I could feel that there was something missing. Even with the impatience at the forefront of my mind, the bridge would not appear. I could <em>feel</em> that this was supposed to work… but I needed to do something <em>more</em>…
 
-I should have known. This was the Blood God's world. It would want us to unleash our feelings, not to regulate them.
+And then I understood.
 
-I could already feel my heart thudding, a foul feeling in my mouth and throat. The Blood God wanted me <em>not</em> to regulate my feelings? It wanted me to put aside every skill I'd used to keep myself under control, to keep myself safe, to make sure I didn't hurt Rinn the way I had hurt Romhisat when I was a child? Fine, then. I <em>would</em>. And it would only have itself to blame.
+I could already feel the anger building inside me. The Blood God wanted me not to even <em>regulate</em> my feelings? It wanted me to throw away every skill I'd built to keep myself safe? It wanted me to show it the Yali who put herself in danger by acting on petty frustrations, the Yali who hurt people, the Yali who had yelled at Romhisat whenever Romhisat didn't do what she wanted? I didn't want to ever be that person again. But the Blood God wanted me to unleash my feelings, and this was the feeling I had available. Fine, then. I <em>would</em>. And the Blood God would only have itself to blame.
 
-Before I began, I rolled Rinn far away from the edge. If I was about to do something unwise, I wanted her to be far out of the way. Then I walked back alone, to stand at the edge of the chasm, glaring at the city.
+I knew I was about to do something unwise. And I knew I didn't want Rinn to get hurt by what was about to happen. So I wheeled her away, gripping the wagon's handle tight in my fist as I brought her far away from the edge. Then I walked back alone, to stand at the edge of the chasm, glaring at the city.
 
-A bridge. I <em>could</em> make a bridge. But why should I just adapt to the world when <em>it</em> had never adapted to <em>me</em>? I raised my arm like a claw. I would show the Blood God what would happen if you tried to control Yali Seti. I reached out my will and crushed the ground on the other side of the chasm. Under the force of my manifesting, concrete cracked and collapsed, buildings crumbled, and the waste slowly slid and fell into the hole. What had Rinn said? "Every human is the equal of the entire world"? How foolish. I was <em>better</em> than this world. Rinn and I were the only things that mattered. Everything else here, from this insulting chasm standing in my way, to the crumbling temple buildings that had never done me any good anyway, was worthless. They didn't <em>deserve</em> for me to leave them standing.
+A bridge. I <em>could</em> make a bridge. But why should I just let the world make me play its games, and not make the world play mine? I raised my arm like a claw. I would show the Blood God what would happen if you tried to control Yali Seti. With my will, I reached out and crushed the ground on the other side of the chasm. Under the force of my manifesting, concrete cracked and collapsed, buildings crumbled, and the waste slowly slid and fell into the hole. Yes, <em>this</em> was the power I deserved. When Rinn had said we were the equals of this world, it had meant nothing to me. But now, I finally felt something. We were <em>better</em> than this world. This chasm was an insult to me. That temple building standing tall near the edge – what had it ever done for <em>me</em>? I crushed it and threw the debris in the pit. This city was nothing but a pile of worthless toys. Just trash getting in the way of the only things that mattered: Rinn and myself.
 
 I felt a pressure pushing back at me. I could tell what <em>that</em> meant. The Blood God didn't <em>like</em> me calling its world worthless. But I didn't care what it liked. I pushed past its resistance, toppling building after building into the pit. <em>You tried to kill me, you put the one I love through so much pain, and now you <strong>dare</strong> tell me how to feel? We may have a truce, but you have no right to speak to me.</em>
 
-Mountains of waste piled up in the pit as I expanded my swath of destruction. At last, the heap grew to the very lip of the chasm. <em>That</em> was my bridge. I flattened it down, pounding it into place with a titanic fist of force, compacting the various wreckage into a solid mass.
+Mountains of waste piled up in the pit as I expanded my swath of destruction. At last, the heap grew as high as the very lip of the chasm. <em>That</em> was my bridge. With a final gesture, I flattened it down, pounding it into place with a titanic fist of force.
 
-I stared at the surface. It was mostly flat – flat enough to roll the wagon across. For a long moment, I wasn't sure what to do next. Then I released my breath. The dangerous feeling had relented, a little, and I was suddenly aware of how much anxiety it had given me. I hurried to force it back out of my mind. Then I walked to fetch Rinn's wagon.
+I stared at the surface. For a long moment, I wasn't sure what to do next. Then I released my breath. The dangerous feeling had relented, a little, and I was suddenly aware of how much anxiety it had given me. I hurried to force it back out of my mind – what had I been doing before I let it take over? Right, the whole point of this was to construct the "bridge". And it had worked – it was flat enough to use. I could move on now.
 
-While I wheeled Rinn across the "bridge" I'd made, I tried to clear my head from the feelings it had brought up. I knew these feelings were a warning sign for abusive behavior. I had read all about it online. If someone put their partner on a pedestal, but hated everyone else, they were likely to mistreat their partner too. And I was no exception. If I let this feeling control me, it would start with me hating things that Rinn liked – in fact, I already had, because this world was something Rinn liked. And then, if I was honest with myself, there were things I disliked about Rinn herself, too, and I would hate those things and try to control Rinn so she'd be the way I wanted her to be. And then, when Rinn didn't do what I wanted, I would hate <em>her</em>, and try to make her suffer, even while I still loved her. These were things that other abusers did all the time, and they were what I would do too.
+While I wheeled Rinn across the "bridge" I'd made, I tried to clear my head from the feelings it had brought up. I knew these feelings were a warning sign for abusive behavior. I had read all about it online. If someone put their partner on a pedestal, but hated everyone else, they were likely to mistreat their partner too. And I was no exception. If I let this feeling control me, it would start with me hating things that Rinn liked – in fact, I already had, because this world was something Rinn liked. And then, if I was honest with myself, there were things I hated about Rinn herself, too. I hated the way she jumped into things without thinking and got away with it. I hated the way she could always tell how I was feeling, even when I could hide it from everyone else. And if I wasn't careful, I would try to control Rinn so she'd be the way I wanted her to be. And when Rinn didn't do what I wanted, I would hate <em>her</em>, and try to make her suffer, even while I still loved her. These were things that other abusers did all the time, and they were what I would do too.
 
 But I understood the danger. I wouldn't let that happen. It would be dysfunctional to stop myself from <em>ever</em> feeling hatred, but I could keep it directed at the ones that actually deserved it. Like the Dalners. Like Arinyo Seti. Like the Waiting God. Like the Blood God. Like Morrow. Even if Rinn liked those last two. I was always allowed to hate abusers, even if Rinn liked them. It didn't count as "hating things Rinn liked" because I wasn't trying to <em>control</em> what she liked. She was allowed to have complicated feelings about Morrow. I could make myself be okay with that. And she was allowed to like the Blood God, because –
 
@@ -352,7 +354,7 @@ That explanation didn't make me feel better. Instinctively, I knew things were m
 
 My hands began shaking as I realized it. That was how the Waiting God felt. I had resented the Blood God, just as it had. I had seen it as getting in my way, interfering with me. I would never be able to change the Waiting God if my own soul had the same judgments inside it.
 
-There was a great pain behind my eyes. I didn't want this. I had been justified. Every part of my dislike for the Blood God was fully justified. But it didn't matter how justified I was. If I kept fighting against it, the fighting would be part of me. And then the Waiting God would absorb that part of me. And then it would continue the cycle that had nearly killed us.
+There was a great pain behind my eyes. I didn't want this. I had been justified. Everything I felt about the Blood God was fully justified. But it didn't matter how justified I was. If I kept fighting against it, the fighting would be part of me. And then the Waiting God would absorb that part of me. And then it would continue the cycle that had nearly killed us.
 
 If I wanted to win, I would have to do the opposite. Somehow, somehow, I would have to, to <em>value</em> the Blood God's perspective.
 

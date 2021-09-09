@@ -161,7 +161,7 @@ Travelling with Alchemist was oddly comforting.
 
 After a while, it had finally sunk in that I was never going to find Yali anytime soon. I had felt defeated, bitter, like there was a yawning hole in me, an empty space where my mission should have been. But then Alchemist came and… <em>filled</em> some of that space. I didn't understand how, but somehow, it was easier to just focus on what I was doing with Alchemist than to worry about the gods. The gentle resonance of their voice was almost enough to distract me.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch11-1.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch11-1.jpg?rr" alt=""></not_print>
 
 Bit by bit, they started to share more details about their life before the Ravelling. Their family life sounded really boisterous. They had five brothers and three sisters, and a bunch of aunts and uncles who lived with the family most of the year as well. Before the Ravelling, I'd always been like, "siblings, who needs 'em", but the way Alchemist described it, it sounded wonderful. They kept telling me about different little traditions and habits everyone had. Alchemist obviously loved all of their siblings deeply, it was really sweet. Of course, it was also sad. Sometimes, they just talked about everyone happily, lost in the fond memories. Other times, they barely got started before their eyes got all teary. But that made sense to me now. Having random, different feelings about the same thing, depending on which thought happened first, was kind of what I'd been living with for a while.
 
@@ -180,6 +180,7 @@ The weirdest thing was the world around us.
 "I forgot one of the shapes…"
 
 "Oh."
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch11-1.jpg?rr" alt=""></print_only>
 
 "It's okay. Maybe it'll come back later."
 
@@ -211,9 +212,9 @@ Now that we were this comfortable together, it felt a little weird that I was st
 
 Alchemist shrugged. "You can call me whatever you like."
 
-"Okay, uh…" They'd technically given me permission, but calling them Raline just didn't feel right. They hadn't told me that name willingly, and they didn't really seem enthusiastic about it now. For all I knew, they didn't even want <em>Morrow</em> to know that name! Morrow could have just read it out of their mind somehow, and started using it without asking. Or with asking. I got the impression that Alchemist wasn't very comfortable saying no to things. "Look, you're allowed to say no to me if you don't want me to. I won't bite."
+"Okay, uh…" They'd technically given me permission, but calling them Raline just didn't feel right. They hadn't told me that name willingly, and they didn't really seem enthusiastic about it now. For all I knew, they didn't even want <em>Morrow</em> to know that name! Morrow could have just read it out of their mind somehow, and started using it without asking. Or <em>with</em> asking. I got the impression that Alchemist wasn't very comfortable saying no to things. "Look, you're allowed to say no to me if you don't want me to. I won't bite."
 
-That made Alchemist look even more uncomfortable, Stern take it.
+That made Alchemist look even more uncomfort&shy;able, Stern take it.
 
 "So, uh, you know how Morrow can read your mind all the time?"
 
@@ -379,7 +380,7 @@ It hurt me to leave Alchemist on that sour note, but with all the thundering imp
 
 Not sure where to go, I picked out one of the ramps into the gorge. At least that way there'd be more new stuff to distract me. As I walked through the cold, damp air, it took me zigzagging back and forth, down and down into the gorge, until the fog was too thick to see my way back up.
 
-As I walked, I thought about what I'd been doing. Alchemist was right, it wasn't making me feel good. And what was I even getting out of it? It wasn't like the Seeking God was going to give me what I wanted. Worse, every time I played along with its tricks, I was basically handing it more power over me. The Blood God might want a way out, but now that I thought about it, even the Blood God part of me didn't want me to end up just dancing to the Seeking God's tune. If I was going to get anywhere, I should be doing it on my own terms. But how was I supposed to do that? How would I beat a god that could transport me through space whenever it wanted? Maybe if <em>Yali</em> was here, she'd have some genius way to do that. Ugh.
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>As I walked, I thought about what I'd been doing. Alchemist was right, it wasn't making me feel good. And what was I even getting out of it? It wasn't like the Seeking God was going to give me what I wanted. Worse, every time I played along with its tricks, I was basically handing it more power over me. The Blood God might want a way out, but now that I thought about it, even the Blood God part of me didn't want me to end <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch11-2.jpg?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>up just dancing to the Seeking God's tune. If I was going to get anywhere, I should be doing it on my own terms. But how was I supposed to do that? How would I beat a god that could transport me through space whenever it wanted? Maybe if <em>Yali</em> was here, she'd have some genius way to do that. Ugh.</p>
 
 The wind was brisk and cold. I felt pretty alone, standing in the middle of a cliff face that went up and down as far as I could see. I didn't want all these gods. I wanted something I could do for <em>me</em>. What could I do that I was in control of? What could I do <em>here</em>?
 
@@ -393,7 +394,7 @@ But thinking about that made the rage flare up inside me. <em>This is no time to
 
 "You are <em>not me</em>," I shouted into the void. "I don't care what you want! I don't care about your fucking murder quest! And I'm sick of you trying to take away my chance to enjoy being with Alchemist when there's nothing we can even do anyway! And so, I am going to go back up there, and be everything Alchemist wants me to be! I will treat them like an absolute princess! I mean, a… whatever the non-binary equivalent of princess is! A princ… uh… whatever, actually even if they were a dude I'd still say I was going to treat them like a princess! So that's what I'm going to do! You hear me?!"
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch11-2.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch11-2.jpg?rr" alt=""></not_print>
 
 The wind howled through the gorge in front of me. From the part of me that was the Blood God, I felt… Pain. Despair. Empathy. Anger tearing in more than one direction. It was hard to tell what it was really feeling. But with the way it was fighting with itself, it definitely wasn't united against me. <em>I</em> was the strong part. <em>I</em> was the one who knew what I wanted.
 
@@ -571,7 +572,7 @@ I squeezed her tight. "I know, I can't believe the –" Then I noticed exactly w
 
 I looked up into her eyes. "You'd actually cut your arm off to save me?! Oh my gods oh my gods oh my gods –"
 
-"That was one of the easier choices, actually, I mean, when you think about it, my life wouldn't be <em>that</em> much different without my arm, it would just take a while to get used to –"
+"That was one of the easier choices, actually, I mean, when you think about it, my life wouldn't be <em>that</em> much different with one less arm, it would just take a while to get used to –"
 
 "You're crazy!" I hugged her even tighter than before.
 

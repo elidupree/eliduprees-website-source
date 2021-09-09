@@ -137,7 +137,7 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I know what you're thinking. You're thinking, we can't kill the Farseer without hurting Yali. But there's gotta be a way around that, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook my fist in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
 
-<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt=""></not_print>
 
 My fire billowed around me. I rose effortlessly to my feet. Within my aura of flame, everything felt amazing. The rain boiled off of me, leaving me warm and dry. My remaining wounds faded away, my flesh made whole and warm again, my skin smoothed together into a single, beautifully sensitive organ.
 
@@ -149,6 +149,8 @@ In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky wh
 <em>No truth can hide from me.</em>
 <em>No force can break me for as long as my blood still flows.</em>
 </div>
+
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt=""></print_only>
 
 A thrill rose through me as I heard those words. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it for a thousand years. Countless generations of humanity had lived and loved and died, and at every step, they had called out to me, speaking these words, to take pride in their strengths, to celebrate their triumphs, to rally themselves against death and despair. Warriors had spoken them on the verge of battle. Parents had spoken them at the birth of their children. Lovers had spoken them together as they defied persecution. This was no Stern prayer. When you prayed to the Stern, you looked to the spires of distant temples, debasing yourself for the mercy of a power that stood above you. But when you prayed to the Blood God, you looked to your own heart.
 
@@ -198,7 +200,7 @@ After a while, Yali looked up from her notes. "So," she said, summing things up,
 
 "I wouldn't say I <em>realized</em>… they were just the only one in front of me, for me to blame… I mean, I know I was right, but…"
 
-"Right. Eventually, the Blood Child was overwhelmed by bad feelings, and took out their anger by killing the Farseer. But it was too late to save themselves, and they still died afterwards. Does that sound accurate?"
+"Right. Eventually, the Blood Child was overwhelm&shy;ed by bad feelings, and took out their anger by killing the Farseer. But it was too late to save themselves, and they still died afterwards. Does that sound accurate?"
 
 "Yeah."
 
@@ -210,7 +212,7 @@ Yali put her head down and concentrated, hunting in the memories. Pretty soon, s
 
 <bigbreak>
 
-So the question was – did Yali <em>not</em> have the memories of the Farseer who poisoned the Blood Child? Or did she just not remember <em>doing</em> it? Or was it the Blood God's memories that were wrong? Yali didn't think it was the last one. She was sure that Waiting God was hiding something from her.
+So the question was – did Yali <em>not</em> have the memories of the Farseer who poisoned the Blood Child? Or did she just not remember <em>doing</em> it? Or was it the Blood God's memories that were wrong? Yali didn't think it was the last one. She was sure that the Waiting God was hiding something from her.
 
 "Ugh," I said, "I wish I could remember their names. Or what they looked like. But all I can remember is their souls."
 
@@ -272,7 +274,7 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "I don't think these memories were <em>erased</em>." Her voice rang out loud and sudden, bursting with anger and realization. "It's much worse and more manipulative than that. A <em>normal</em> person would think of just erasing all the memories about the Blood Temple. But then what if I noticed that some important memories were missing? No… all the memories are still here, but I can only find them if I already know what I'm looking for. Other memories come to mind if I think of something related, but these ones just don't. And even while I'm looking, I'm getting a feeling like, whatever I'm not remembering, it can't have been very important. I'm being <em>guided</em> away from the Blood Temple. It's just like the Waiting to make the smallest change with the biggest possible impact. 'Guidance rather than force'. And it almost worked. If it wasn't for you, I would have never known what to look for. The Waiting God doesn't just want us to forget the Blood Temple. It wants us to forget that there was anything we were forgetting at all."
 
-"You <em>monster</em>…"
+"You <em>monster</em>… oh gods, what if I've told you all this before? And you – the Waiting God – chose to forget?"
 
 "What else are we forgetting?! If this much was hidden in plain sight and I didn't see it, there could be more! There could be – there could be – The books!!" she yelled. "I thought they were just oversimplifying things, but they left out the details on <em>purpose</em>! Think about it! The Waiting Temple are the historians, they're the ones who made these textbooks, this is what all the schools are teaching! The whole way we learn about Blood worshippers growing up is just history teachers saying how they were some bad people from the past who attacked the city –"
 
@@ -304,13 +306,13 @@ We were sitting in the middle of a huge mess of papers, copies of Yali's phone, 
 
 And most importantly, they were arranged in a giant timeline. Every year from the last eighty years had its own little section, with pages of information about the news and political events from that year, plus notes about what each of the former Farseers could remember about that year. And a few notes about what the Blood God remembered, although it was usually hard to pin that down to specific years.
 
-"It's a good thing your monastery had so many old books," I said. The history books had given us a lot of useful context, even if they were suspiciously terse about the Blood Temple. Most of them had been written <em>after</em> the Blood Temple fell, and they talked about the Blood Temple in the same way as the one we'd read earlier, sometimes even using almost exactly the same words. And the ones from <em>before</em> the fall didn't mention the Blood Temple at all – or more likely, the ones that <em>had</em> mentioned it had been purged from the monastery archives before Yali was born. The juiciest bit we'd gotten was from a crumbling newspaper. One article mentioned a court case about a Blood priest who'd been arrested by the Stern police. But it didn't really explain what the case was about. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
+"It's a good thing your monastery had so many old books," I said. The history books had given us a lot of useful context, even if they were suspiciously quiet about the Blood Temple. Most of them had been written <em>after</em> the Blood Temple fell, and they talked about the Blood Temple in the same way as the one we'd read earlier, sometimes even using almost exactly the same words. And the ones from <em>before</em> the fall didn't mention the Blood Temple at all – or more likely, the ones that <em>had</em> mentioned it had been purged from the monastery archives before Yali was born. The juiciest bit we'd gotten was from a crumbling newspaper. One article mentioned a court case about a Blood priest who'd been arrested by the Stern police. But it didn't really explain what the case was about. And it was a good thing Yali could manifest it more than once, because it kept falling to pieces.
 
 Yali responded, "Honestly, I'm surprised at how many books <em>you've</em> been able to manifest. What with not caring about history and all."
 
 "What can I say, I love putting my hands all over stuff."
 
-Yali shuffled some things around. "More importantly, it's a good thing I already knew how common false memories are. Otherwise I'd be really confused by these inconsistencies. It looks like the only thing we can really rely on is the fact that you can't remember something that happened after you died. But that's, that's… sufficient," she said, frowning.
+Yali shuffled some things around. "More import&shy;antly, it's a good thing I already knew how common false memories are. Otherwise I'd be really confused by these inconsistencies. It looks like the only thing we can really rely on is the fact that you can't remember something that happened after you died. But that's, that's… sufficient," she said, frowning.
 
 After what seemed like forever, we were done. We had mapped out the lives of all the Farseers from Yali's memories. All <em>sixty-eight</em> of them.
 

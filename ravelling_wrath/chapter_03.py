@@ -168,9 +168,13 @@ I met Layo at lunch that day. I ran up and gave him a big hug – our usual gree
 
 <em>So much</em> was up. I opened my mouth to start telling him all about – well, to tell him that I <em>would</em> have something big to tell him when we could talk in private. All I'd have to do was open my mouth and say "Layo, I've got some big news, when can we talk?"
 
-But… something stopped me. It was just too much to explain. It would take forever. And anyway, I had something else on my mind. "Layo, what makes me mad?" I said.
+But… something stopped me. If I started telling him about that, I'd have to tell him about <em>everything</em>. And that felt like too much all at once. I just wanted my friend Layo, like we'd always been.
 
-"Assholes?"
+But I did have <em>one</em> thing I needed to ask him.
+
+"Layo, what makes me mad?" I said.
+
+"Assholes?" he answered, not missing a beat.
 
 "No, what makes me <em>really</em> mad?"
 
@@ -178,15 +182,15 @@ But… something stopped me. It was just too much to explain. It would take fore
 
 "Serious question."
 
-Layo paused. "I <em>was</em> joking, but that's honestly the first thing I think of. Why do you ask?"
+"I <em>was</em> joking, but that's honestly the first thing I think of. Why do you ask?"
 
-"Never mind that, just – come on, you've gotta be able to come up with something better than that. You know I just don't put –"
+"Come on, you've gotta be able to come up with something better than that. You know I just don't put –"
 
-"– just don't put up with people's you-know-what, I know. If that doesn't count, hmm…"
+"– just don't put up with people's you-know-what, I know –"
 
 "I'm venting to you all the time, there's gotta've been sometime it was about something serious!"
 
-"If there was, I'm not sure I can tell the difference? There's been a few times when I <em>thought</em> you were upset for real, but when we –"
+Layo gave it some thought. "If there was, I'm not sure I can tell the difference? There's been a few times when I <em>thought</em> you were upset for real, but when we –"
 
 "You mean like when I got kicked out of the tennis club? You were acting all <em>empathetic</em> and shit –"
 
@@ -196,9 +200,9 @@ I smirked. "Yeah, I pretty much didn't care about that."
 
 "That's okay! I didn't mean to say –"
 
-Before Layo could give any more unnecessary apologies, I tried a different angle. "How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
+Before Layo could waste any more time apologizing, I tried a different angle. "How about, like, pretend like we're in a movie. Like you're a supervillain and you have an evil plan to make me lose control, what is it?"
 
-Layo got a mischievous look on his face. "We-ell…" he said, pretending like he was mulling over my question. "Obviously, I'd murder your parents right in front of you. Obviously."
+<em>That</em> worked. Right away, Layo got a mischievous look on his face. "We-ell…" he said, pretending like he was mulling over my question. "Obviously, I'd murder your parents right in front of you. Obviously."
 
 "Hey!"
 
@@ -212,13 +216,13 @@ Layo got a mischievous look on his face. "We-ell…" he said, pretending like he
 
 "I know perfectly well it wasn't. Rinn –"
 
-"Leave her alone, lunch fascist!" said another voice. Some of my other friends were showing up. Dehel, the one who'd yelled, always made a splash – he towered over everyone and wore asymmetric makeup on purpose, you couldn't miss him. After him, Pèi was hurrying to keep up, with her spiky collar and duct-taped jeans, looking like she was gearing up to say something sarcastic. And behind <em>her</em> –
+"Leave her alone, oh mighty and exalted!" came a sarcastic yell. Some of my other friends were showing up. Dehel, the one who'd yelled, always made a splash – he towered over everyone and wore asymmetric makeup on purpose, you couldn't miss him. After him, Pèi was hurrying to keep up, with her spiky collar and duct-taped jeans, looking like she was gearing up to say something even more sarcastic. And behind <em>her</em> –
 
-"Everyone calm down," I said, laughing. I wasn't <em>against</em> yelling at a few authority figures, but I had better things to do right now. "I promise I'll clean it up, okay?"
+"Everyone calm down," I said, laughing. I wasn't <em>against</em> yelling at a few Stern authority figures, but I had better things to do right now. "I promise I'll clean it up, okay?"
 
 "Just don't do it again." Heh. If they actually made me clean it up, I'd just end up making a bigger mess, and they knew it.
 
-Dehel tried to keep yelling in my defense, so I covered his mouth and dragged him off towards the lunch lines. When we sat down, I was still grinning and catching my breath from the tickle fight. By the time I dug into my food, Pèi had launched into some of her hilarious impressions of the teachers' voices. Then Dehel cracked a cringey joke, then Pèi started an argument and tried to drag me and Layo into it, all just for fun. My friends were the best, seriously. They always found a way to take my mind off things. And the food – I was famished from skimping on breakfast, so I ate it up like the Seeking was driving me. Between wolfing down my food and trying to follow along with everyone's weird sense of humor, I almost forgot about, you know, the whole thing where the literal gods were trying to screw me over.
+Dehel tried to keep yelling in my defense, so I covered his mouth and dragged him off towards the lunch lines. When we sat down, I was still grinning and catching my breath from the tickle fight. By the time I dug into my food, Pèi had launched into some of her hilarious impressions of the teachers' voices. Then Dehel cracked a cringey joke, then Pèi started an argument and tried to drag me and Layo into it, all just for fun. My friends were the best, seriously. They always found a way to take my mind off things. And the food – I was famished from skimping on breakfast, so I ate it up like the Seeking was driving me. Between wolfing down my food and trying to follow along with everyone's weird senses of humor, I almost forgot about, you know, the whole thing where the literal gods were trying to screw me over.
 
 <bigbreak>
 
@@ -226,6 +230,7 @@ But somewhere in the back of my mind, the idea of <em>murdering your girlfriend<
 
 As soon as I had a moment alone in the halls, I pulled out my phone and started texting Yali.
 
+<div class="texts">
 <p class="text right">omg i love you so much can't want to see u ❤</p>
 <p class="text right">u ok? from the you-know-what last night</p>
 <p class="text right">anyway I thought of something that actually made me angry</p>
@@ -233,10 +238,11 @@ As soon as I had a moment alone in the halls, I pulled out my phone and started 
 <p class="text left">Im ok</p>
 <p class="text left">Tell me after school</p>
 <p class="text left">Meet you out front?</p>
-<p class="text right">sure thing ❤ ❤ ❤</p>
-<div class="clear"></div>
+<p class="text right last">sure thing ❤ ❤ ❤</p>
+<div class="end-of-texts"></div>
+</div>
 
-When I caught up to Yali after school, she didn't notice me at first. She had her bags next to her on the bench, and she was sitting with her elbows resting on her knees, looking totally exhausted.
+When I caught up to Yali after school, she didn't notice me at first. She had her bags next to her on the bench, and she was sitting with her elbows on her knees, looking totally exhausted.
 
 "Yaliiiiiiiii!!" I yelled extra loud so she could hear me through her noise-cancelling headphones.
 
@@ -272,7 +278,7 @@ Yali rubbed my shoulders. "Don't worry about me. We have things to do."
 
 "You don't have to if you don't want to," said Yali soothingly.
 
-"Hang on, I just remembered this story <em>also</em> has a point in it where I got really angry. So it's kind of killing two birds with one stone if I tell it. Sure, I'll do it," I said. I danced a few steps ahead and then looked back, waving my arms like a stage magician. "The Adventures of Rinn Akatura, Chapter 752: The Fast Food Place," I began. "So, there was this girl –"
+"Hang on, I just remembered I got angry in <em>this</em> story, too. Guess the Seeking wants me to tell it." I danced a few steps ahead and then looked back, waving my arms like a stage magician. "The Adventures of Rinn Akatura, Episode 752: The Fast Food Place," I began. "So, there was this girl –"
 
 Yali smirked.
 
@@ -280,11 +286,11 @@ Yali smirked.
 
 Yali doubled over, laughing silently. I couldn't help laughing along a little bit. Then she straightened up. "Sorry. You can keep going now."
 
-I let Yali catch up with me and held her hand again. "So, there was this girl I liked. I'm not going to say who it was, because I think she wants to forget about all this now, but anyway. I asked her out, and we had a good time, so we went on another date after that, and so on. Although they were less 'dates' and more 'me taking her to the movies or whatever so that we could make out for the whole time'. It wasn't a real relationship, we were just horny teenagers." That felt a little weird to say. "Ha ha, Waiting God knows I'm still a horny teenager. Buuu-uuut I'm in a real relationship now –" I squeezed Yali's hand "– and I'm fine if you want to take it slow."
+I let Yali catch up with me and held her hand again. "So, there was this girl I liked. I'm not going to say who it was, because I think she wants to forget about all this now, but anyway. I asked her out, and we had a good time, so we went on another date after that, and so on. Although they were less 'dates' and more 'me taking her to the movies or whatever so that we could make out for the whole time'. It wasn't a real relationship, we were just horny teenagers." That felt a little weird to say. "Ha ha, Waiting knows I'm still a horny teenager. Buuu-uuut I'm in a real relationship now –" I squeezed Yali's hand "– and I'm fine if you want to take it slow."
 
 "Uh… right," said Yali. "Go on with the story!"
 
-"Alright! So I kept taking her places, but I'd never had much spending money, so I ran out pretty fast. So I got myself an under-the-table job working in the kitchen at Duvidi's. The one year the school."
+"Alright! So I kept taking her places, but I'd never had much spending money, so I ran out pretty fast. So I got myself an under-the-table job working in the kitchen at Duvidi's. The one near the school."
 
 "Wow. How old were you?"
 
@@ -298,13 +304,9 @@ I glanced around to make sure no one else on the street was listening. "Yeeeeaaa
 
 "And then like… word got around. And like, <em>I</em> can laugh off that kind of thing, but I guess it hurt a lot more for her. She's basically been avoiding me ever since then, and I don't even blame her, I feel like total shit for putting her in that situation. And then I lost a bunch of friends over <em>that</em> too."
 
-"Did they drop you because of the rumors?"
+"The moment you're not what people expect," said Yali darkly, "they all show what side they're really on."
 
-"No, that's the worst part. None of <em>my</em> friends would have a problem with some wild stuff –"
-
-"Right, silly me –"
-
-"– but I had people trying to, like, <em>high-five</em> me for 'getting some action'. But that's <em>not</em> what <em>happened</em>! It wasn't <em>cool</em>, it was a <em>mistake</em>, I <em>hurt</em> someone! Someone I <em>liked</em>! So if anyone thinks they can <em>congratulate</em> me for that, like if they think that's what I <em>wanted</em> – just, <em>argh!</em>"
+"What? No, none of <em>my</em> friends had a problem with the wild stuff! But that's the worst part, they were, like, trying to <em>high-five</em> me for 'getting some action'. But that's <em>not</em> what <em>happened</em>! It wasn't <em>cool</em>, it was a <em>mistake</em>, I <em>hurt</em> someone! Someone I <em>liked</em>! So if anyone thinks they can <em>congratulate</em> me for that, like if they think that's what I <em>wanted</em> – just, <em>argh!</em>"
 
 "It makes you really angry."
 
@@ -318,13 +320,13 @@ I glanced around to make sure no one else on the street was listening. "Yeeeeaaa
 
 "Shit, sorry." I let go of Yali's hand. She shook it out.
 
-"It's fine," she said. She looked at me curiously. "Before we get to the serious stuff, why don't you finish the story? You got caught in the movies, but what happened to Duvidi's?"
+"It's fine," she said. She looked at me curiously. "But what about the rest of the story? You got caught in the movies, but what happened to Duvidi's?"
 
-"Oh, right. Well, I was kind of upset for the next few days, so I wasn't really paying attention, and I let a cop see me going in and out of the kitchen. He started to make a fuss about 'child labor' and shit, so we all pretended I was just there to visit a cousin who worked there. But they basically told me not to come back after that, to make sure they wouldn't get in trouble. Kind of anticlimactic, I know."
+"Oh, right. Well, after that, I was kind of too upset to pay attention to stuff, and I let a cop see me going in and out of the kitchen. He started to make a fuss about 'child labor' and shit, so we all pretended I was just there to visit a cousin who worked there. But they basically told me not to come back after that, to make sure they wouldn't get in trouble. Kind of anticlimactic, I know."
 
-We were almost at Clover Square now. We crossed the street and went up to the door of the <em>other</em> Duvidi's. I yanked it open and held it for Yali. My chest was tight while we waited in line to make our orders. Yali knew something <em>bad</em> about me now. I wished I could make up for it somehow, but what could I even do?
+Things were quiet as we reached Clover Square and went into the <em>other</em> Duvidi's. I started to feel a little self-conscious. While I'd been telling the story, I'd be in all caught up in it. But as we waited for them to take our orders, I had enough time to start worrying what Yali was thinking. She was so Waiting, she'd probably never made a mistake like that in her life. Part of me was itching to make up for it somehow.
 
-They finally took our orders and we went to find a table. As we sat down, I noticed that Yali was still smiling at me.
+But once we were sitting down, I noticed that Yali was still smiling at me.
 
 "I can't believe you actually liked listening to <em>that</em> story," I said.
 
@@ -336,11 +338,11 @@ Yali tried to make a more serious face. "I know it's <em>bad</em>, what happened
 
 I smirked. "You know, if you ever want to go on an adventure –"
 
-"No, I'm good, I'm good. I can't wait to hear some more of your stories, though."
+"No, I'm good, I'm good. I can't wait to hear more of your stories, though."
 
 "Awesome! Let me tell you one of actually good ones. Like about the tree at the –"
 
-"Just a minute. I really want to hear your stories. But the problem is, I'd love to spend <em>all afternoon</em> hearing them. And then we won't get to the thing we were going to do first."
+"Just a minute. The problem is, I'd love to spend <em>all afternoon</em> hearing them. And then we won't get to the thing we were going to do first."
 
 "Which thing – oh yeah, the thing that got me angry. Way to pick out another downer," I said.
 
@@ -348,7 +350,7 @@ I smirked. "You know, if you ever want to go on an adventure –"
 
 "Do you know Tierze and Breck?" I said quietly.
 
-"I hope she dumps him already," Yali muttered.
+"She needs to dump him already," Yali muttered.
 
 "I know, right? He treats her like shit! And I <em>like</em> her. Not in a romantic way, just in an I-really-don't-want-anything-bad-to-happen-to-her way. So I can't stand it when I see him talking down to her. But that's not the <em>real</em> problem. Not the real problem for me, I mean. Or it wasn't at first. It was just, you know…" I paused, fishing for words.
 
@@ -358,17 +360,17 @@ I smirked. "You know, if you ever want to go on an adventure –"
 
 "A little bit."
 
-"Okay, fine, more than a little bit. But it's not like I put him in the hospital or anything. He was fine. But a couple days later, <em>Tierze</em> came up to me in private and told me that he was acting really bitter about it, and he was dumping all the blame on her."
+"Okay, fine, more than a little bit. But it's not like I put him in the hospital or anything. He was fine. But a couple days later, Tierze caught me alone and said I'd made things even worse, like he was constantly blaming <em>her</em> for how I beat him up. Like, what the fuck!"
 
-"Oh no."
+Calmly, Yali replied, "People like him will blame whoever they can get away with. He couldn't get away with taking it out on <em>you</em>, so –"
 
-"Yeah. She basically begged me to leave him alone, to make sure that wouldn't happen again. And I obviously couldn't say no to that, you know? She's the victim here. But now whenever I see them talking together, it's like… I'm so mad, but I can't <em>do</em> anything about it. I just <em>stew</em> about it, for, like, an hour."
+"Oh shit, is that why he was doing it?! Oh fuck." I sank down in my seat. "Anyway… uh… she basically begged me to leave him alone, to make sure that wouldn't happen again. And I obviously couldn't say no to that, you know? She's the victim here. But now whenever I see them talking together, it's like… I'm so mad, but I can't <em>do</em> anything about it. I just <em>stew</em> about it, for, like, the whole next hour."
 
-"Only an hour? Not longer?"
+Yali sort of choked, like she was suppressing a laugh.
 
-"Hey! An hour is a long time! For me, anyway."
+"What?" I said.
 
-"I'm not judging. You can keep going."
+"Sorry… I get it, an hour is a long time for you. I was just expecting you to say 'month'… maybe 'week'… but I'm not judging. You can keep going."
 
 "That's the whole story though. It just sucks." I idly kicked the leg of the table. "So… what do you think? Do you see any way we can use this? Seems hard."
 
@@ -376,7 +378,7 @@ I smirked. "You know, if you ever want to go on an adventure –"
 
 "Oh my gods, I can't believe you even thought of that."
 
-Yali chuckled. Then she focused again. "These two stories have a lot in common," she said.
+Yali gave a wry smile. Then she focused again. "These two stories have a lot in common," she said.
 
 "They do?"
 
@@ -398,7 +400,7 @@ Yali chuckled. Then she focused again. "These two stories have a lot in common,"
 
 "Same."
 
-There was a pause. We ate a few more bites in silence.
+There was a pause. They finished our orders, and we both dug into our food.
 
 "So," I began, "Where are you going with all this?"
 
@@ -416,21 +418,15 @@ Yali hesitated. "My idea is to, to, to <em>explore</em> your ways of feeling ang
 
 "A what?"
 
-Yali didn't answer. She was deep in thought. I wanted to know what she was thinking, but I knew how she got when she was like this – if I tried to interrupt her, she'd just mumble something incomprehensible and then take even longer.
-
-I finished my food. Yali finished hers and pushed her plate aside. She was still looking down in silence.
+Yali didn't answer. She was deep in thought. I wanted to know what she was thinking, but I knew how she got when she was like this – if I tried to interrupt her, she'd just mumble something incomprehensible and then take even longer. So I finished eating in slience, letting her take as much time as she needed. Once we were both sitting with empty plates, though, I started to get a little restless.
 
 "So, are you going to –" I began.
 
-"I've had an idea." Then she was quiet again.
+"I've had an idea." Then she was quiet again. "It's, it's, I don't know if it's okay."
 
-"…okay, spit it out."
+"…go on, spit it out."
 
-"It's, it's, I don't know if it's okay."
-
-"Just tell me."
-
-Yali fidgeted with her plate. "You are too comfortable. I've never seen you stay uncomfortable for very long. I don't mean physically, I mean, you always, whenever something hurts you, you always find a way to say, 'well that's no big deal'." Yali swallowed. "I wonder what would happen if you couldn't do that. What if I – we – put you through a, an <em>ordeal</em>, where you <em>couldn't</em> make yourself comfortable…"
+Yali compulsively neatened her plate. "You are too comfortable," she said. "I've never seen you stay uncomfortable for very long. I don't mean physically, I mean, you always, whenever something hurts you, you always find a way to say, 'well that's no big deal'." Yali swallowed. "I wonder what would happen if you couldn't do that. What if I – we – put you through a, an <em>ordeal</em>, where you <em>couldn't</em> make yourself comfortable…"
 
 "You can <em>do</em> that?"
 
@@ -452,7 +448,7 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 
 "Stop. Just this once, can I ask you to take some time and think it through? If this works, it'll be a really unpleasant experience for you. So I don't want to jump into it unless you're sure about it."
 
-"How bad can it be?" I said. Yali stared back at me. "Fuck, I bet that's exactly what you <em>didn't</em> want me to say. Okay, give me a minute." I said. I looked down at the table. What was I supposed to do, though – think like a careful person? What <em>would</em> a careful person do in this situation? "Okay, so I <em>want</em> to challenge myself, but I guess I need to be worried about, uh… like if it could cause lasting damage to my psyche? That's just, like, no way – I'm not a 'lasting damage to my psyche' sort of person. Or if it… messes up our relationship? But I'll <em>know</em> you're just doing it because, you know –"
+"How bad can it be?" I said. Yali stared back at me. "Fuck, I bet that's exactly what you <em>didn't</em> want me to say. Okay, give me a minute." I looked down at the table. What was I supposed to do, though – think like a careful person? What <em>would</em> a careful person do in this situation? "Okay, so I <em>want</em> to challenge myself, but I guess I need to be worried about, uh… like if it could cause lasting damage to my psyche? That's just, like, no way – I'm not a 'lasting damage to my psyche' sort of person. Or if it… messes up our relationship? But I'll <em>know</em> you're just doing it because, you know –"
 
 Yali was looking at me.
 
@@ -460,9 +456,9 @@ Yali was looking at me.
 
 "No! You, you…" she shifted uneasily, "you're thinking exactly how you should be."
 
-I leaned in towards her. "You're just <em>that</em> worried about hurting me, huh?"
+Then it hit me. "You're worried, aren't you?" I said gently, leaning in towards her. "Worried that someone'll get hurt if you let yourself do what you're thinking of –"
 
-Yali flushed. I didn't understand how she was acting. Had I said something wrong? "Er," I began, "I didn't mean to, uh –"
+Yali flushed. Shit, had I said something wrong? "Er," I began, "I didn't mean to, uh –"
 
 "You're fine." Yali hesitated, then squeezed my hand. "We can do this." And just like that, it was decided. And also just like that, Yali was back to being calm and collected, like always. She did insist on going over what things I'd be okay with, even going into detail about the the stuff we'd already talked about the other day. Things like "But if I hit you, what if it leaves a mark?" And of course, I was like "Haha, no one will think twice if they see <em>I</em> got slapped by somebody." But that was her way of doing things, so I didn't argue with it. Finally, she ran out of things to ask about, and said, "If I think of anything else, I'll text you. Like, I'll think of things to do during the ordeal, and you can tell me if you're okay with them, and you can also tell me if you think they'd make you angry."
 
@@ -495,6 +491,7 @@ Yali relaxed a little. "So, next Friday it is then?"
 <bigbreak>
 
 
+<div class="texts">
 <p class="text left">Having to do pointless tasks?</p>
 
 <p class="text right">What?</p>
@@ -516,24 +513,28 @@ Yali relaxed a little. "So, next Friday it is then?"
 <p class="text right">and also it's ok</p>
 
 <p class="text right">and also yeah I can't stand it</p>
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 Yali wasn't quite herself for the rest of that week. As soon as she wasn't still tired from using the Seeing, her mind was ahead in the ordeal. I tried to tell her to take care of herself, but she just said, "Shh. It's, it's easier this way." 
 
 "You're doing all this stuff for me, at least you've gotta let me help you back somehow!" I said.
 
-Yali stared past me. "I'll, I'll tell you if I need anything." Stern take it, that was <em>not</em> the answer I was looking for. At least if I could help her somehow, I'd get to spend more time with her.
+Yali stared past me. "I'll, I'll tell you if I need anything," she said. Stern take it, that was <em>not</em> the answer I was looking for. At least if I could help her somehow, I'd get to spend more time with her.
 
 But as that Friday got closer, I didn't feel so frustrated. Instead, I was <em>excited</em>. What did Yali have in store for me? Sitting in class on Friday morning, I couldn't think of anything else. The things she was texting me were just tiny glimpses into it.
 
 Just then, another one came in.
 
-<p class="text left">Being denied food?</p>
+<div class="texts">
+<p class="text left<print_only> force-break-before</print_only>">Being denied food?</p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 It was during class, but I held my phone under the desk to text her back.
 
+<div class="texts">
 <p class="text right">sure np</p>
 
 <p class="text right">and I guess itd be annoying but</p>
@@ -550,19 +551,22 @@ It was during class, but I held my phone under the desk to text her back.
 
 <p class="text right">❤</p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 And she'd <em>texted</em> it to me, too, even though she was probably just a few classrooms away and could totally have told me in person. And it was during class, so I couldn't even show my reaction on my face! So evil. I grinned inwardly. She'd gotten me good.
 
-At lunch, I played it off as if I was just skipping on impulse, like it was one of those weird desires they say the Seeking God puts in people. But by the end of the day, I was starving. I mean, it wasn't anything I couldn't handle, but I wouldn't have been able to concentrate on my classes even if I'd wanted to. As soon as the final bell rang, I grabbed my things and ran out of the school as fast as I could, then started heading to Yali's place. Yali probably hadn't left so fast, but she'd get ahead of me anyway when she took the bus.
+At lunch, I played it off as if the Seeking made me do it. But by the end of the day, I was starving. I mean, it wasn't anything I couldn't handle, but I wouldn't have been able to concentrate on my classes even if I'd wanted to. As soon as the final bell rang, I grabbed my things and ran out of the school as fast as I could, then started heading to Yali's place. Yali probably hadn't left so fast, but she'd get ahead of me anyway when she took the bus.
 
 As I ran, I got another text from her.
 
+<div class="texts">
 <p class="text left">One last thing. I plan to make you feel like you have no way out. But the truth is, you always have the right to back out of this. No matter what I say, if you say you don't want to do this anymore, I'll respect that.</p>
 
 <p class="text right">yeah yeah</p>
 
-<div class="clear"></div>
+<div class="end-of-texts"></div>
+</div>
 
 As I got close to Yali's house, I all but forgot my hunger. I felt myself tensing up. I had no idea what was coming. I mean, we'd <em>discussed</em> all those things, but I didn't know what it was really going to be like.
 
@@ -612,7 +616,7 @@ I immediately wanted to look back at her. Why did looking at the table suddenly 
 
 "Stop talking. I'll explain when you need to know."
 
-I waited. Moments passed in silence, with Yali just standing there behind me while I was stuck staring at the table. My hunger started bothering me again. Ugh, she was making me wait on purpose. <em>Come on, Yali, just get on with it. I get the point, you're trying to piss me off, but…</em> That was just it, wasn't it? The waiting was part of the ordeal. Well, I could handle a bit of waiting. I sighed and settled in for the long-haul –
+I waited. Moments passed in silence, with Yali just standing there behind me while I was stuck staring at the table. My hunger started bothering me again. Ugh, she was making me wait on purpose. <em>Come on, Yali, just get on with it. I get the point, you're trying to piss me off, but…</em> That was just it, wasn't it? The waiting was part of the ordeal. Well, I could handle a bit of waiting. I sighed and settled in for the long haul –
 
 "Those blocks are your job for today. Stack them end-to-end until they're eight blocks tall."
 

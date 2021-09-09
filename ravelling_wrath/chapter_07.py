@@ -127,7 +127,7 @@ Getting stiff, I shifted in my chair. Justicar moved her own chair slightly, to 
 
 "What, when I say 'Stern take it'?"
 
-"You do not seem to revere the Stern."
+"If you do not revere the Stern, there is little purpose in using its title."
 
 "It's just something people say! Not everything is about the gods and their <em>principles</em> all the time!"
 
@@ -235,13 +235,15 @@ We all turned to look. He was already helping himself up onto his knees. It was 
 
 "Heyyy everybody! I'm Morrow! Morrow Monoë! Nice to meet'cha'll!" He jumped to his feet and hopped back-and-forth between one leg and the other.
 
+<print_only><img class="sketch bottom" src="/media/ravelling-wrath/sketches/ch7.jpg?rr" alt=""></print_only>
+
 "What the fuck," I said. "That leg was just broken!"
 
 "'Ow'm I gonna know it works if I don't try it??"
 
 I grinned. "I <em>like</em> this guy," I said to no one in particular.
 
-<img class="sketch" src="/media/ravelling-wrath/sketches/ch7.jpg?rr" alt="">
+<not_print><img class="sketch bottom" src="/media/ravelling-wrath/sketches/ch7.jpg?rr" alt=""></not_print>
 
 Justicar stepped forward. "If your body is whole again, that means you can tell us <em>what</em> you just did, and promise not to do anything like it again."
 
@@ -319,7 +321,7 @@ Suddenly, there was an awful squawking right behind me. I jumped and whirled aro
 
 "Powerful, yes. Adaptable, perhaps not," said Justicar.
 
-"Yeah, screw you too." I turned to Morrow. "I'll prank you back somehow!"  I ran at him and started chasing him around the star. He was quick, but he kept slipping and falling on the slippery floor. <em>I</em> had already gotten used to the limits of how fast I could run, so I caught up to him easily.
+"Yeah, fuck you too." I turned to Morrow. "I'll prank you back somehow!"  I ran at him and started chasing him around the star. He was quick, but he kept slipping and falling on the slippery floor. <em>I</em> had already gotten used to the limits of how fast I could run, so I caught up to him easily.
 
 Just when I had cornered him at the edge of the star, he manifested a foam sword and pointed it at me. I made my own foam sword just like it. Then I had an idea. I turned to Yali. "So, this <em>hostile intent</em> thing… What if we fought with <em>real</em> swords? I mean, we won't <em>intend</em> to hurt each other for real, so if we make a mistake and –"
 
@@ -439,7 +441,7 @@ Ignoring Morrow's complaints, I went back to the topside and went to bed. Yali w
 
 "Can you be quieter down there?!" I yelled.
 
-"No problem! I'll be super quiet!"
+"No problem! I'll be so quiet, you won't believe it!"
 
 I dived into my bed and pulled the blankets over me. Justicar was sitting up on alert and staring at me as usual, but I couldn't even be bothered to do the "staring back at her" thing. I just wanted to sleep.
 

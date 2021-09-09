@@ -202,7 +202,7 @@ Alchemist hesitated again, then nodded.
 
 "What injuries?" I said without thinking. "Oh, right."
 
-"If Rinn is bringing, one potion to him…?" mumbled Alchemist.
+<p<print_only> style="letter-spacing: -0.1pt"</print_only>>"If Rinn is bringing, one potion to him…?" mumbled Alchemist.</p>
 
 "Oh yeah, I could bring a healing potion too –"
 
@@ -256,7 +256,7 @@ I laughed. It came out louder than I expected. "That's pretty reassuring, coming
 
 "Yeah. You ready?"
 
-"Alright, let's do this thing." I threw my head back and howled into the air, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow radiating from every muscle. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
+"Alright, let's do this thing." I threw my head back and howled towards the sky, letting off a flare of my soulfire into the air around me. Then I tightened it back into a steady burn, a warm, invulnerable glow radiating from every muscle. I grinned. I still couldn't get over how <em>awesome</em> it felt to fill myself with soulfire. "See you both soon!" I declared. Then I hurried onwards.
 
 The ravine was narrow and cut deep into the ground. A little brook ran along its length, not leaving much room to walk alongside it. Where there <em>was</em> room, spindly, twisted trees hogged up the shore. But the water wasn't much deeper than my foot. I confidently strode down the middle, splashing it aside. When it soaked my shoes, I just unmanifested them and walked barefoot in the cold stream, my soulfire keeping me warm.
 
@@ -328,7 +328,7 @@ He was trying to reach Alchemist's mind! I grabbed onto his head, letting soulfi
 
 "Raylie… Raylie…" he moaned.
 
-I wasn't going to get a direct answer. I wanted to just go ahead and spray him, but I had to be careful. If I made him feel like I was taking away his control, he might cling onto his problems even harder. How could I get him to accept help with the pain, when the pain itself was stopping him from listening to me ask about the pain? I had to approach this differently. "I'm going to spray the healing potion on you," I said. "It'll make the pain go away. If you're listening, if you don't want me to, just tell me, okay? I won't do it if you say you don't want me to."
+I wasn't going to get a direct answer. I wanted to just go ahead and spray him, but I had to be careful. If I made him feel like I was taking away his control, he might cling onto his problems even harder. How could I get him to accept help with the pain, when the pain itself meant he couldn't hear me ask about the pain? I had to approach this differently. "I'm going to spray the healing potion on you," I said. "It'll make the pain go away. If you're listening, if you don't want me to, just tell me, okay? I won't do it if you say you don't want me to."
 
 "Raylie… I'm burning, where are you, Raylie…"
 
@@ -338,7 +338,7 @@ The cloudy potion splattered and dripped down his face. Where it touched his swo
 
 I let go of his wrist. He stumbled off at an angle, bumping into a tree and crouching down towards the ground. He still had the potion on his face, and he seemed pretty stressed out about it. It was kind of like that time in the first layer when I had dumped a bucket of water on him and then we couldn't manifest it off. But this time, there were lots of other things I could do. I brushed my hand over his face, letting my soulfire boil away what was left of the potion. His body relaxed a little, sinking down onto the ground. When I took my hand away, he looked as good as new.
 
-Well, except for one thing. I almost hadn't noticed it earlier between all the bruises and stuff, but Yali had put the Watchful Eye on him, too. It wasn't even laid out neatly like mine, it was sort of scrawled diagonally up his cheek from the corner of his mouth.
+Well, except for one thing. I almost hadn't noticed it earlier between all the bruises and stuff, but Yali had put the Watchful Eye on him, too. It wasn't even laid out neatly like mine, it was sort of scrawled diagonally across his cheek.
 
 "Morrow," I said gently, looking down at him. "Can you hear me? Do you know where we are, do you understand why –"
 
@@ -714,7 +714,7 @@ Yali shouted back, "Me thinking of things that hurt people is why you're still a
 
 Yali stepped closer, shouting in my face. "Yes, like this! <em>Exactly</em> like this! When I saw Justicar draw her sword on you, my first thought was, 'what powers do I need so I can get there and save you?' And my second thought was '<em>how loud do I have to yell at Alchemist so they'll be scared enough to hurry up and do what I say, but not scared enough to mess it up?</em>' If I had wasted time thinking about how to be <em>nice</em> to them, you would be <em>dead</em> right now! If I hadn't forced them to try and make a weapon back then, I wouldn't have had anything to bluff her with! So don't <em>ever</em> tell me not to think about something because it's too cruel! For my entire life, I have had to be the one who sees what has to be done, when everyone else can only see what's right in front of them! I have <em>always</em> been the one who does what has to be done, when no one else will!"
 
-I wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking right under the surface… It was part of why I'd always loved her, why I couldn't get enough of her.
+I wanted to argue back, but against the thunder of her words, I didn't feel like I could say anything at all. It was the first time she had ever aimed the full force of her anger and judgment directly towards me. It wasn't like I couldn't handle it, but… shit. I could finally understand how she was the same person who had bullied another kid into a nervous wreck. And at the same time, that terrifying power, lurking deep under the surface… I suddenly knew that it was part of why I'd always loved her, why I couldn't get enough of her.
 
 And the worst part was, she wasn't wrong.
 
@@ -764,7 +764,7 @@ I couldn't get my mind off what Yali had said. Alchemist making a weapon? Alchem
 
 "I don't like arguing with you," she said bluntly.
 
-I was suddenly nervous. Was she criticizing me? But I could feel that something was different. "You're – wait, are you trying to open up to me again?"
+I was suddenly nervous. Was she criticizing me again? But I could feel that something was different. "You're – wait, are you trying to open up to me? Like before?"
 
 "I, I think so." Yali was silent for a long time, long enough that I started to feel awkward. Was I supposed to wait for her to go on, or was I supposed to say something? Just when I was about to say something, she spoke again. "How do people express their emotions?" she said.
 
