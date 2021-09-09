@@ -107,26 +107,29 @@ css_string = '''body {
   counter-reset: page;
 }
 @page {
-  size: 6in 9in;
-  margin: 0.6in;
+  size: 6.25in 9.25in;
+  margin: 0.725in;
   counter-increment: page;
   @bottom-center {
     content: counter(page);
     font: 12pt "Alegreya SC";
+    margin-bottom: 0.125in;
   }
 }
 @page :left {
-  margin-right: 0.9in;
+  margin-right: 1.025in;
   @top-center {
     content: element(runningleft);
     font: 12pt "Alegreya SC";
+    margin-top: 0.125in;
   }
 }
 @page :right {
-  margin-left: 0.9in;
+  margin-left: 1.025in;
   @top-center {
     content: element(runningright);
     font: 12pt "Alegreya SC";
+    margin-top: 0.125in;
   }
 }
 @page chapter :first {
