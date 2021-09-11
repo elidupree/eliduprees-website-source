@@ -391,7 +391,9 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "It probably was!"
 
-"And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling me about the layers now."
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2.png?rr" alt=""></not_print>
+
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>"And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>me about the layers now."</p>
 
 Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's followers made no laws and built no temples, because the world was already its temple. The fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks, in between the mess of stores and houses and abandoned factories.
 

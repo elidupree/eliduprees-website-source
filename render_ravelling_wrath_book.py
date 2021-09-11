@@ -46,10 +46,10 @@ def chapter_html (chapter):
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
   contents = ravelling_wrath.main.replace_all_emoji(contents, "/media/vendor/ravelling-wrath/emoji/black")
-  contents = re.sub(r"/media/(.*?)\?rr", replace_media_path, contents)
   
   contents = re.sub("<not_print>.+?</not_print>", "", contents)
   contents = re.sub("</?print_only>", "", contents)
+  contents = re.sub(r"/media/(.*?)\?rr", replace_media_path, contents)
   
   symbols = chapter["symbols"]
   running_symbol_filename = f'{symbols}-small.png'
@@ -239,19 +239,20 @@ p.text.left {
   text-indent: 0;
 }
 img.full-page {
-  max-width: 6in;
-  max-height: 9in;
+  max-width: 6.25in;
+  max-height: 9.25in;
   display: block;
   margin: 0 auto;
   page: full_page_image;
 }
 img.chapter-header {
-  max-height: 5in;
-  max-width: 4.5in;
+  width: 6.25in;
+  height: auto;
   display: block;
-  margin: 0 auto;
   margin-top: -1.3em; 
-  margin-bottom: 1.3em; 
+  margin-bottom: 1.3em;
+  margin-left: -1.025in;
+  margin-right: -0.725in; 
 }
 img.bottom,img.top {
   width: 5.7in;
@@ -303,7 +304,12 @@ def wrap(html):
   </body>
 </html>'''
 
-full_html = wrap("".join (chapters[:]))
+
+
+full_html = wrap("".join (chapters[4::56]))
+
+
+
 
 with open (html_path, "w") as file:
   file.write (full_html)
