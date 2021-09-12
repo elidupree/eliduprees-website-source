@@ -249,8 +249,8 @@ img.chapter-header {
   width: 6.25in;
   height: auto;
   display: block;
-  margin-top: -1.3em; 
-  margin-bottom: 1.3em;
+  margin-top: -1.0em; 
+  margin-bottom: 2.0em;
   margin-left: -1.025in;
   margin-right: -0.725in; 
 }
@@ -306,7 +306,7 @@ def wrap(html):
 
 
 
-full_html = wrap("".join (chapters[4::56]))
+full_html = wrap("".join (chapters[6::56]))
 
 
 

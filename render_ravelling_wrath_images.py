@@ -19,11 +19,12 @@ target_bleed_width = target_nominal_width + dpi//4
 target_bleed_height = target_nominal_height + dpi//4
 
 only = None
-only = "1-1"
+only = "watchful-eye-ornate"
 only = "dfjds"
 
 custom = {
-  "1-1": (275, 1595, True)
+  "1-1": (275, 1595, True),
+  "watchful-eye-ornate": (686, 1979, True),
 }
 
 for filename in os.listdir(input_dir):

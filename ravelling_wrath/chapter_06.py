@@ -28,7 +28,8 @@ posts = [
   "content_warnings": '''<p>Verbal abuse.</p>''',
   "contents": '''
 
-<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/watchful-eye-ornate.jpg?rr" alt="">
+<not_print><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/watchful-eye-ornate.png?rr" alt=""></not_print>
+<print_only><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/watchful-eye-ornate-right.png?rr" alt=""></print_only>
 
 I quickly sat up and looked around.
 
