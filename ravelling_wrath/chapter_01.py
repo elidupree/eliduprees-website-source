@@ -7,7 +7,7 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 1",
-  "blurb_image": "/media/ravelling-wrath/sketches/ch1-header.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/illustrations/1-1.png?rr",
   "symbols": "nonaligned",
   "auto_paragraphs": True,
   "authors_notes":'''

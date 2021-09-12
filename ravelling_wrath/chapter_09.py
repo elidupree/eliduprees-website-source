@@ -9,13 +9,14 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 9",
   "auto_paragraphs": True,
-  "blurb_image": "/media/ravelling-wrath/sketches/endless-maze-ornate.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/illustrations/endless-maze-ornate.png?rr",
   "symbols": "endless-maze",
   "head":head,  "chapter_title": "The Endless Maze",
   "content_warnings": '''<p>Self-harm; negative self-talk</p>''',
   "contents": '''
-  
-<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/endless-maze-ornate.jpg?rr" alt="">
+
+<not_print><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/endless-maze-ornate.png?rr" alt=""></not_print>
+<print_only><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/endless-maze-ornate-right.png?rr" alt=""></print_only>
 
 The darkness jiggled impatiently.
 

@@ -41,6 +41,9 @@ def replace_media_path(match):
   rav_media_paths[relevant_path] = full_path
   return relevant_path
 
+def replace_media_paths(contents):
+  return re.sub(r"/media/(.*?)\?rr", replace_media_path, contents)
+
 def chapter_html (chapter):
   ravelling_wrath.main.replace_section_breaks(chapter, "/media/ravelling-wrath/symbols")
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
@@ -49,7 +52,7 @@ def chapter_html (chapter):
   
   contents = re.sub("<not_print>.+?</not_print>", "", contents)
   contents = re.sub("</?print_only>", "", contents)
-  contents = re.sub(r"/media/(.*?)\?rr", replace_media_path, contents)
+  contents = replace_media_paths(contents)
   
   symbols = chapter["symbols"]
   running_symbol_filename = f'{symbols}-small.png'
@@ -61,7 +64,7 @@ def chapter_html (chapter):
   rav_media_paths[running_symbol_filename] = running_symbol_filename
   
   contents = f'''
-  <div class="chapter {chapter.get("post_class", "")}">
+  <div class="chapter chapter_{chapter ["chapter_number"]} {chapter.get("post_class", "")}">
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
@@ -89,19 +92,7 @@ fonts_css = ravelling_wrath.definitions.fonts_css("", mode="print")
 for match in re.finditer(r"url\('(.+?.ttf)", fonts_css):
   rav_media_paths[match.group(1)] = "/media/fonts/"+match.group(1)
 
-print(rav_media_paths)
-media_dir = "./media/"
-media_subdirs = os.listdir(media_dir)
-for media_subdir in media_subdirs:
-  media_subdir_fullpath = os.path.join(media_dir, media_subdir)
-  for root, dirs, files in os.walk(media_subdir_fullpath):
-    for media_filename in files:
-      source = os.path.join(root, media_filename)
-      if media_filename in rav_media_paths:
-        if ("color" in rav_media_paths[media_filename]) == ("color" in root):
-          destination = os.path.join(build_path, media_filename)
-          ensure_dir(os.path.dirname(destination))
-          shutil.copy(source, destination)
+
 
 css_string = '''body {
   counter-reset: page;
@@ -146,6 +137,29 @@ css_string = '''body {
     content: none;
   }
 }
+@page chapter_7_illustration_page {
+  background-image: url('/media/ravelling-wrath/illustrations/7-left.png?rr');
+  background-size: contain;
+  @bottom-center {
+    content: none;
+  }
+}
+@page chapter_10_illustration_page {
+  background-image: url('/media/ravelling-wrath/illustrations/10-right.png?rr');
+  background-size: contain;
+  margin-top: 6in;
+  @top-center {
+    content: none;
+  }
+}
+@page chapter_14_illustration_page {
+  background-image: url('/media/ravelling-wrath/illustrations/14-left.png?rr');
+  background-size: contain;
+  margin-top: 6in;
+  @top-center {
+    content: none;
+  }
+}
 .runningleft {
   position: running(runningleft);
 }
@@ -170,6 +184,18 @@ css_string = '''body {
 .chapter {
   page: chapter;
   break-before: right;
+}
+.chapter_7_illustration_page {
+  page: chapter_7_illustration_page;
+}
+.chapter_10_illustration_page {
+  page: chapter_10_illustration_page;
+}
+.chapter_14_illustration_page {
+  page: chapter_14_illustration_page;
+}
+.chapter_14_illustration_page .after-forced-mid-paragraph-page-break {
+  text-indent: 2.5in;
 }
 p {
   font: 12pt "Kadwa";
@@ -200,6 +226,8 @@ h2 {
   font-weight: 800;
   text-align: center;
   margin-bottom: 1.3em;
+  position: relative;
+  z-index: 10;
 }
 
 
@@ -254,6 +282,10 @@ img.chapter-header {
   margin-left: -1.025in;
   margin-right: -0.725in; 
 }
+.chapter_15 img.chapter-header {
+  margin-top: -4.0em;
+  z-index: 0;
+}
 img.bottom,img.top {
   width: 5.7in;
   height: auto;
@@ -266,9 +298,12 @@ img.top {
   margin-top: 0;
 }
 img.ending {
-  margin-top: 4em;
-  width: 4.5in;
+  width: 6.25in;
+  height: auto;
   display: block;
+  margin-top: 4em;
+  margin-right: -1.025in;
+  margin-left: -0.725in; 
 }
 img.emoji {
   display: inline-block;
@@ -290,6 +325,23 @@ img.rav-section-break.nonaligned {
 
 '''+fonts_css
 
+css_string = replace_media_paths(css_string)
+
+print(rav_media_paths)
+media_dir = "./media/"
+media_subdirs = os.listdir(media_dir)
+for media_subdir in media_subdirs:
+  media_subdir_fullpath = os.path.join(media_dir, media_subdir)
+  for root, dirs, files in os.walk(media_subdir_fullpath):
+    for media_filename in files:
+      source = os.path.join(root, media_filename)
+      if media_filename in rav_media_paths:
+        if ("color" in rav_media_paths[media_filename]) == ("color" in root):
+          destination = os.path.join(build_path, media_filename)
+          ensure_dir(os.path.dirname(destination))
+          shutil.copy(source, destination)
+
+
 def wrap(html):
 
  return '''<!DOCTYPE html>
@@ -306,7 +358,7 @@ def wrap(html):
 
 
 
-full_html = wrap("".join (chapters[6::56]))
+full_html = wrap("".join (chapters[20::56]))
 
 
 

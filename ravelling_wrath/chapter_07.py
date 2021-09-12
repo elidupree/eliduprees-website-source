@@ -10,7 +10,7 @@ posts = [
   "title":"Ravelling Wrath, chapter 7",
   "auto_paragraphs": True,
   "head":head,
-  "blurb_image":"/media/ravelling-wrath/sketches/ch7.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/illustrations/7.png?rr",
   "chapter_title": "The Ravellers",
   "content_warnings": '''<p>Graphic descriptions of physical injuries; discussion of suicide</p>''',
   "contents": '''
@@ -227,7 +227,7 @@ Yali stepped up beside me and looked at him intently. Was she looking into the f
 
 "Did I not accept your alternative as soon as it was proposed?"
 
-I opened my mouth to yell another retort, but Yali's hand fell heavily on my shoulder. "It's okay. He was in less danger than you both realize. Since his injuries weren't inflicted with <em>hostile intent</em>, they were only able to damage his body, never his soul. And the body can recover from almost anything, through manifesting." When she said <em>hostile intent</em>, she said it like it was a special phrase with its own meaning.
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I opened my mouth to yell another retort, but Yali's hand fell heavily on my shoulder. "It's okay. He was in less danger than you both realize. Since his injuries weren't inflicted with <em>hostile intent</em>, they were only able to damage his body, never his soul. And the body can recover from almost anything, through manifesting." <print_only></p><div class="chapter_7_illustration_page"><p class="after-forced-mid-paragraph-page-break"></print_only>When she said <em>hostile intent</em>, she said it like it was a special phrase with its own meaning.</p>
 
 Justicar and I glared at each other silently. Before either of us thought of what to say next, we were interrupted by another voice. "Aww yesss, it's just like she said! Allllll manifested back together!!"
 
@@ -235,15 +235,15 @@ We all turned to look. He was already helping himself up onto his knees. It was 
 
 "Heyyy everybody! I'm Morrow! Morrow Monoë! Nice to meet'cha'll!" He jumped to his feet and hopped back-and-forth between one leg and the other.
 
-<print_only><img class="sketch bottom" src="/media/ravelling-wrath/sketches/ch7.jpg?rr" alt=""></print_only>
-
 "What the fuck," I said. "That leg was just broken!"
 
 "'Ow'm I gonna know it works if I don't try it??"
 
 I grinned. "I <em>like</em> this guy," I said to no one in particular.
 
-<not_print><img class="sketch bottom" src="/media/ravelling-wrath/sketches/ch7.jpg?rr" alt=""></not_print>
+<print_only></div></print_only>
+
+<not_print><img class="sketch bottom" src="/media/ravelling-wrath/illustrations/7.png?rr" alt=""></not_print>
 
 Justicar stepped forward. "If your body is whole again, that means you can tell us <em>what</em> you just did, and promise not to do anything like it again."
 

@@ -9,7 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 12",
   "auto_paragraphs": True,
-  "blurb_image": "/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/illustrations/dauntless-gate-ornate.png?rr",
   "symbols": "dauntless-gate",
   "head":head,  "chapter_title": "Emptiness",
   
@@ -18,8 +18,9 @@ posts = [
   
 <p>This isn't the only chapter which contains details of depression, but it's the most severe one. I don't have summaries for the others, because they're less self-contained (they have occasional details of depression mixed in with other important details that are harder to summarize).</p>''',
   "contents": '''
-
-<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/dauntless-gate-ornate.jpg?rr" alt="">
+  
+<not_print><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/dauntless-gate-ornate.png?rr" alt=""></not_print>
+<print_only><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/dauntless-gate-ornate-right.png?rr" alt=""></print_only>
   
 It slammed into place. The pattern. The bright, uncompromising pattern of the Stern.
 

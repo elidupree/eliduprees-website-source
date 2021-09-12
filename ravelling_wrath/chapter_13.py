@@ -9,7 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 13",
   "auto_paragraphs": True,
-  "blurb_image":"/media/ravelling-wrath/sketches/ch13.jpg?rr",
+  "blurb_image":"/media/ravelling-wrath/illustrations/13.png?rr",
   "head":head,  "chapter_title": "Torn Apart",
   "content_warnings":'''<p>Details of depressed thoughts, including dissociation, anhedonia, and negative self talk; self-harm; something like coercive therapy.</p>''',
   "contents": '''
@@ -258,13 +258,13 @@ I stomped down the path, answering every new sensation with a surge of hatred, o
 
 But no matter how hard I tried, it just echoed around my brain, none of it sinking in.
 
-<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch13.jpg?rr" alt=""></not_print>
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/13.png?rr" alt=""></not_print>
 
 <bigbreak>
 
 It wasn't long before my anger dulled again. I settled into a routine – not a routine that I liked, but a routine that kept me moving forward. An awkward compromise that no part of me was really okay with.
 
-<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch13.jpg?rr" alt=""></print_only>
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/13-right.png?rr" alt=""></print_only>
 
 The Paths were nothing I hadn't seen before. It only took about half of me to focus on the Stern God's grind. The other half was free to wander, to bend back and linger over what I had just done.
 

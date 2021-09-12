@@ -8,6 +8,7 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 6",
+  "blurb_image": "/media/ravelling-wrath/illustrations/watchful-eye-ornate.png?rr",
   "auto_paragraphs": True,
   "symbols": "watchful-eye",
   "authors_notes":'''

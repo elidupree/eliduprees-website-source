@@ -9,7 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 8",
   "auto_paragraphs": True,
-  "blurb_image": "/media/ravelling-wrath/sketches/ch8.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/illustrations/8.png?rr",
   "head":head,
   "chapter_title": "The Alchemist",
   "contents": '''
@@ -228,12 +228,12 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 "Yeah, but then we wouldn't get to set things on fire." I dropped a pile of logs out of thin air onto the middle of the star. Then I took a big, exaggerated breath inwards, and breathed fire all over the logs. The fire shot out farther than I'd intended, but in a flash, Justicar manifested a glass wall to block the flames from burning anyone. Alchemist, standing just behind the wall, jumped in fright. "Haha, sorry about that!" I said. The logs weren't properly on fire yet, so I gave them another few fiery breaths until they caught. I was breathing fire more carefully this time, but Justicar still only dismissed her wall once the logs were burning steadily on their own.
 
-<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch8.jpg?rr" alt=""></print_only>
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/8-right.png?rr" alt=""></print_only>
 "Now everyone sit around the fire!" I said. They all did, to varying degrees of reluctance. Yali and I sat on a camping mat, with Yali sleepily putting one arm around my shoulders. On the other side, Morrow and Alchemist were in a similar position. Alchemist initially seemed nervous about the fire, but once they relaxed and started warming themself, their face melted into a dreamy smile. It was really heartwarming.
 
 Justicar insisted on staying in a stiff chair a slight distance away.
 
-<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch8.jpg?rr" alt=""></not_print>
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/8.png?rr" alt=""></not_print>
 
 "I'll go first!" I said. "This one's for you, Yali. I'm finally going to tell you the one about how I jumped out of my window!"
 

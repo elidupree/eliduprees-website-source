@@ -9,14 +9,15 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 18",
   "auto_paragraphs": True,
-  "blurb_image": "/media/ravelling-wrath/sketches/burning-heart-ornate.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/illustrations/burning-heart-ornate.png?rr",
   "symbols": "burning-heart",
   "head":head,
   "chapter_title": "The Reckoning",
   "content_warnings": "<p>Combat and fear of death; protagonists having to kill someone in self-defense, with physical details of the death.</p>",
   "contents": '''
 
-<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/burning-heart-ornate.jpg?rr" alt="">
+<not_print><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/burning-heart-ornate.png?rr" alt=""></not_print>
+<print_only><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/burning-heart-ornate-right.png?rr" alt=""></print_only>
 
 The Blood God's Portal nestled my body like a hand in a glove.
 

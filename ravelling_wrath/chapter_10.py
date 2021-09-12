@@ -9,7 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 10",
   "auto_paragraphs": True,
-  "blurb_image":"/media/ravelling-wrath/sketches/ch10.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/illustrations/10.png?rr",
   "head":head,
   "chapter_title": "The First Rule",
   "content_warnings":'''<p>Rape apologism; discussion of addiction; details of abusive "troubled teen" schools, and apologism for them; discussion of police brutality.</p>''',
@@ -292,7 +292,7 @@ Why did she have to make everything into some sort of serious issue? "Like <em>y
 
 Justicar sighed. "I am a Justicar. I cannot lie. I cannot speak any statement I do not believe to be true. So you can be certain of my honesty when I tell you this: I did not respect myself. I was a heavy drinker. I literally cannot count the times that I drank until I was blacked out or vomiting on the floor. My friends tried to stop me, but I persisted, even knowing that I was making them clean up after me. I ruined my relationships with them, one by one."
 
-<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch10.jpg?rr" alt=""></not_print>
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/10.png?rr" alt=""></not_print>
 
 I swayed. How could that be the same person as Justicar? I almost wondered if she had lied about not being able to lie. But it didn't <em>feel</em> like a lie. What was I supposed to think? The beer was starting to kick in, it was hard to get my thoughts in order.
 
@@ -309,9 +309,12 @@ Justicar sighed. "I won't rise to your provocation."
 "So you <em>do</em> have a problem with it!" I said triumphantly.
 
 "I am not homophobic!" said Justicar angrily. She struggled to find the right words. "It didn't matter <em>who</em> I was having sex with! The problem is that I chose to devalue my body that way at all –"
-<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch10.jpg?rr" alt=""></print_only>
+
+<print_only><div class="chapter_10_illustration_page"></print_only>
 
 Thoughts from the Blood God shoved their way into my head. What Justicar had just said – it was <em>blasphemy!</em> This sense of <em>wrongness</em>… but I was still weak! I was supposed to be able to explain it! I opened my mouth. "So," I began, still forming it into words, "what I'm hearing is, you were super drunk, and then you 'had sex' with people, in a way that made you feel like your body was devalued. That doesn't sound like you 'choosing' something. That sounds like them taking advantage of you!"
+
+<print_only></div></print_only>
 
 "I put myself in that situation willingly."
 

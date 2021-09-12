@@ -8,6 +8,7 @@ from ravelling_wrath.definitions import *
 posts = [
 {
   "title":"Ravelling Wrath, chapter 2",
+  "blurb_image": "/media/ravelling-wrath/illustrations/2.png?rr",
   "auto_paragraphs": True,
   "authors_notes":'''
 

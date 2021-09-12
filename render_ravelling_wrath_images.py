@@ -1,4 +1,4 @@
-  #!/usr/bin/python3
+#  #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 from __future__ import division
 
@@ -19,12 +19,20 @@ target_bleed_width = target_nominal_width + dpi//4
 target_bleed_height = target_nominal_height + dpi//4
 
 only = None
-only = "watchful-eye-ornate"
+only = "21"
 only = "dfjds"
 
 custom = {
   "1-1": (275, 1595, True),
   "watchful-eye-ornate": (686, 1979, True),
+  "7": (1418, None, False),
+  "endless-maze-ornate": (810, 1890, True),
+  "10": (None, 1800, False),
+  "dauntless-gate-ornate": (966, 1880, True),
+  "14": (None, 1906, False),
+  "cloven-earth-ornate": (620, 2228, True),
+  "burning-heart-ornate": (706, 1914, True),
+  "21": (738, 1058, True),
 }
 
 for filename in os.listdir(input_dir):

@@ -9,14 +9,15 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 15",
   "auto_paragraphs": True,
-  "blurb_image": "/media/ravelling-wrath/sketches/cloven-earth-ornate.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/illustrations/cloven-earth-ornate.png?rr",
   "symbols": "cloven-earth",
   "head":head,
   "chapter_title": "The Scream",
   "content_warnings": "<p>Details of strange and unpleasant brain experiences; traumatic flashbacks; abusive relationships, and people not wanting to admit how bad they are; child abuse and neglect, including physical abuse, sexual abuse, dissociation, homelessness, and survival sex work, with no physical details of the sexual abuse, and no long scenes of abuse, but many details about the social and emotional context, told as a retrospective summary; brief mentions of addiction.</p>",
   "contents": '''
 
-<img class="sketch chapter-header" src="/media/ravelling-wrath/sketches/cloven-earth-ornate.jpg?rr" alt="">
+<not_print><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/cloven-earth-ornate.png?rr" alt=""></not_print>
+<print_only><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/cloven-earth-ornate-right.png?rr" alt=""></print_only>
 
 The Broken God was a god of pleasure and pain, life and death.
 
@@ -254,7 +255,7 @@ For a heartbeat, all three of us were frozen.
 
 Yali drank a potion, then stepped between me and Alchemist. Her face was set cold and hard against me, like a stone cliff against the ocean waves. "Expressing Game," she said.
 
-<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch15-mid.jpg?rr" alt=""></not_print>
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/15-2.png?rr" alt=""></not_print>
 
 How could she stand in my way when Morrow had done such a thing?!! My fists clenched tighter. My blades grew further, pressing against their limits. But another part of me knew that if Yali was saying that, it was serious business. And it was only the Expressing Game. Fighting against a terrible resistance, I tried to force my rage into words. My voice felt alien. "How DARE he! Alchemist – Alchemist TRUSTED him! What kind of a MONSTER – he's a MONSTER – I'll –"
 
@@ -262,7 +263,7 @@ How could she stand in my way when Morrow had done such a thing?!! My fists clen
 
 I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alchemist was right in front of me! They were going to be terrified! I had to –
 
-<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch15-mid.jpg?rr" alt=""></print_only>
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/15-2-left.png?rr" alt=""></print_only>
 
 "<em>Controlling Game,</em>" said Yali.
 

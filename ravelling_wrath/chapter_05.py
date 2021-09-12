@@ -9,7 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 5",
   "auto_paragraphs": True,
-  "blurb_image": "/media/ravelling-wrath/sketches/ch5.jpg?rr",
+  "blurb_image": "/media/ravelling-wrath/illustrations/5.png?rr",
   "authors_notes":'''
 
 <h2>On the discussion of sexual assault</h2>
