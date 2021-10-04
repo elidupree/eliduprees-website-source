@@ -1,4 +1,4 @@
-#!/usr/local/bin/python2
+#!/usr/local/bin/python3
 
 import re
 import errors
@@ -59,7 +59,8 @@ def ajax_func():
   import forms
   import random
   import datetime
-  import urllib
+  import urllib.request
+  import urllib.parse
   import secrets
 
   if os.environ["REQUEST_METHOD"] != "POST":
@@ -100,11 +101,11 @@ Last secret ID: '''+ last_secret_comment_identifier
   if request_type == "submit":
     with open ("/home/public/secrets/recent_comments.txt", "a") as file:
       file.write (reviewable_text)
-    response1 = urllib.urlopen(secrets.slack_incoming_webhook_url, data =
-        urllib.urlencode({"payload": json.dumps({
+    response1 = urllib.request.urlopen(secrets.slack_incoming_webhook_url, data =
+        urllib.parse.urlencode({"payload": json.dumps({
             "text": "@elidupree There is a new comment!"
-        })}))
-    response2 = urllib.urlopen ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.urlencode ({"value1": reviewable_text}))
+        })}).encode("utf-8"))
+    response2 = urllib.request.urlopen ("https://maker.ifttt.com/trigger/elidupreecom_comment_posted/with/key/" + secrets.ifttt_maker_key, data = urllib.parse.urlencode ({"value1": reviewable_text}).encode("utf-8"))
     if response1.getcode() != 200 and response2.getcode() != 200:
       raise errors.WebsiteError ("Your comment failed to be delivered.")
 
