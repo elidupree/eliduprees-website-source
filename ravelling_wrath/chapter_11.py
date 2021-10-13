@@ -486,7 +486,19 @@ I held out my hand. Alchemist brushed their fingers against mine, but didn't rea
 
 Alchemist seemed to relax a little. They took my hand, their warm fingers rubbing on my palm. They were so good at expressing themselves without words. I could just <em>feel</em> the renewing sense of togetherness flowing from their fingers. They turned their head and gave me a long mournful look. "Mmmm, thank you, Rinn. I know, being stuck here with me, isn't what you wanted."
 
-"The 'being with you' is great! It's just the being stuck that's bad!" I laughed. "I wish we could have met some other way, then we could've – actually, wait a minute, if I hadn't been stuck with you, I don't know if I'd have gotten to know you. Wow. Just, wow. Is <em>that</em> the Seeking God's lesson for me this time? The whole way it's not letting us out of this desert – I mean, it's still a massive jerk move, but maybe –"
+"The 'being with you' is great! It's just the being stuck that's bad!" I laughed. "I wish we could have met some other way, then we could've –
+
+But then it hit me.
+
+If I hadn't been stuck with Alchemist, I <em>wouldn't</em> have gotten to know them.
+
+That was the Seeking God's lesson for me this time. The whole reason it wouldn't let me out of this desert. The reason it was rewarding me for "not trying".
+
+?????
+
+I finally understood what people meant by "the gifts of the Seeking". [????? It wasn't the so-called learning we did in school, with all the Stern authority figures just making you do the work all the time.] It was <em>this</em>.
+
+"Wow," I said. "Just, wow. I almost wish there was more of the Seeking God in society back on Earth, too. I mean, it's still a massive jerk move that it's not letting us out of this desert, but maybe –"
 
 The sand disappeared under us.
 
