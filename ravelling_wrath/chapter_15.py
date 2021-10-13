@@ -311,9 +311,9 @@ Alchemist turned their head in my arms, trying to look up at Yali. "You beat him
 
 Yali looked at them coldly. "A lot of people hate me. What makes you special?"
 
-"Yali, stop it —"
+"Yali, stop it —" I began.
 
-"Morrow's out there, maybe, dying! And you! You! You won't do anything, to, save, –"
+Alchemist yelled over me. "Morrow's out there, maybe, dying! And you! You! You won't do anything, to, save, –"
 
 "Don't expect me to help save someone who just attacked Rinn –"
 
@@ -345,7 +345,7 @@ Through gritted teeth, Yali replied, "I don't expect you to understand this, but
 
 "Can we <em>not</em> argue about the Stern right now?!"
 
-"Fine! Let's talk about what we're going to save Morrow!"
+"Fine! Let's talk about how we're going to save Morrow!"
 
 "<em>If</em> we're going to save –"
 
