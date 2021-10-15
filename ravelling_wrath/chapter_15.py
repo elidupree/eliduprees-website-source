@@ -259,7 +259,7 @@ Yali drank a potion, then stepped between me and Alchemist. Her face was set col
 
 How could she stand in my way when Morrow had done such a thing?!! My fists clenched tighter. My blades grew further, pressing against their limits. But another part of me knew that if Yali was saying that, it was serious business. And it was only the Expressing Game. Fighting against a terrible resistance, I tried to force my rage into words. My voice felt alien. "How DARE he! Alchemist – Alchemist TRUSTED him! What kind of a MONSTER – he's a MONSTER – I'll –"
 
-"Morrow <em>isn't here</em>," said Yali severely. "I know what he did to Alchemist. [????? I know you want to protect them. But how do you think you're making Alchemist feel <em>right now</em>? ????? But you have to think about what you're doing <em>right now</em>. Think about who's right in front of you.]"
+"Morrow <em>isn't here</em>," said Yali severely. "I know what he did to Alchemist. But you have to think about what you're doing <em>right now</em>. Think about who's right in front of you."
 
 I was locked in place. I COULDN'T give up my rage! That was just WRONG! But Alchemist was right in front of me! They were going to be terrified! I had to –
 
