@@ -503,7 +503,7 @@ There were a few times when Yali found Morrow doing some messed up shit to other
 
 "Oh gods."
 
-"But…" Yali's voice tightened. "That's a textbook sign of sexual abuse! Every Stern teacher is supposed to be trained to recognize the signs of abuse, they're supposed to –"
+"But…" Yali's voice tightened. "He only did it because he didn't know it was abuse yet, because that's what he'd grown up with at home! The teachers should've understood – it should've been a textbook sign that <em>he</em> was being abused! Every Stern teacher is supposed to be trained to recognize the signs of abuse, they're supposed to –"
 
 "You think the Stern give a shit about us?" I said hotly.
 
