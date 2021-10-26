@@ -288,7 +288,7 @@ I was confused for a moment, then realized what she was talking about. It was ab
 
 "Eventually…" I echoed, a little disappointed.
 
-Her face darkened. "I know what you're thinking. And there's about 40% of me that wants to just throw it all to the Seeking and, and, do it, right now. But…" She paused. "I always knew my trauma wasn't going to go away overnight. I had a plan for it. And if I don't stick to that plan, if I try to have sex before I've dealt with the trauma, it, it, things will happen, that, aren't what I want. That hasn't changed. In fact… when I think about it, I probably have even <em>more</em> trauma than when we started."
+Her face darkened. "I know what you're thinking. And there's a big part of me that wants to just throw it all to the Seeking and, and, do it, right now. But…" She paused. "I always knew my trauma wasn't going to go away overnight. I had a plan for it. And if I don't stick to that plan, if I try to have sex before I've dealt with the trauma, it, it, things will happen, that, aren't what I want. That hasn't changed. In fact… when I think about it, I probably have even <em>more</em> trauma than when we started."
 
 "Well, shit…"
 
