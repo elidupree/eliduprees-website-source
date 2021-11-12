@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 waiting = '''
-I spend lots of time planning out things I'm going to do or say in the future.
+Most of my actions are guided by plans I've made in the past, rather than decisions I make in the moment.
 If I know I will get something good in the future, that's almost as good as having it right now.
 I spend lots of time thinking about things from the past.
 If someone helped or hurt me a long time in the past, it strongly affects how I treat them in the present, even if they've changed since then.
@@ -17,7 +17,7 @@ When I think of a terrible idea, I'm tempted to do it just to see what would hap
 '''
 stern = '''
 I have principles I would not violate for any reward or threat.
-I work hard to accomplish the things I believe in.
+I push myself to work hard even when I don't want to.
 I like it when there is a strong system of rules about how things should be done.
 Even if someone will get hurt because I stick to my principles, it is still better to stick to them.
 It bothers me when people do things the wrong way, even when it doesn't personally affect me.
