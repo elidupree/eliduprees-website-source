@@ -492,7 +492,9 @@ But then it hit me.
 
 If I hadn't been stuck with Alchemist, I <em>wouldn't</em> have gotten to know them.
 
-That was the Seeking God's lesson for me this time. The whole reason it wouldn't let me out of this desert. The reason it was rewarding me for "not trying".
+That was the Seeking God's lesson for me this time. The whole reason it wouldn't let me out of this desert. The reason it was rewarding me for "not trying". It knew that as soon as I saw something louder, more exciting, more dangerous, I would go running after it. And leave Alchemist behind.
+
+[????? And then I remembered is the thing with Justicar]. I felt like I'd learned more about myself in the last two weeks than [I had in the whole year before that. We just had loads of school, and I already knew how I related to bullshit school.]
 
 ?????
 
