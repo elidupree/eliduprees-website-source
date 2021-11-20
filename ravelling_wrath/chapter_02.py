@@ -84,7 +84,7 @@ Yali gave me a Look.
 
 "It can't be that hard if we're doing it on purpose. You could yell at me, pester me… you could even hit me if that's what it takes, I wouldn't mind."
 
-"<em>Hit</em> you? I don't want to risk hurting <em>you!</em>" she said tensely.
+"<em>Hit</em> you?" A tense expression crossed her face. "I don't want to risk hurting <em>you!</em>"
 
 "I'm the one who's suggesting it. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
 
@@ -170,7 +170,7 @@ My heart thumped in my chest. We were on the edge of something deeply important 
 
 But unfortunately, Yali shut me down. "I'm not ready to talk about it yet," she said, her voice tense, as if she was warding off a distant danger. "It's just, it's just… The point is, if we tell anyone… it could find its way back to them. But… I can't ask you not to tell anyone. That would be…"
 
-Yali's neck was tense as she spoke, her eyes drilling into the wall behind me. I couldn't bear to see her hurting like this. "Look, it's okay!" I said quickly. "If it's gotta be a secret, it's gotta be a secret. And you're definitely not an abuser, you're like the total opposite –"
+The muscles in her neck stood taut as she spoke, her eyes drilling into the wall behind me. I couldn't bear to see her hurting like this. "Look, it's okay!" I said quickly. "If it's gotta be a secret, it's gotta be a secret. And you're definitely not an abuser, you're like the total opposite –"
 
 Yali didn't seem very reassured. "It's important for you to be able to talk to someone about it. I have the memories of the old Farseers to look to, but you'd only have me. What if I can't give you all the support you need? What if it strains our relationship and then –"
 
@@ -296,7 +296,7 @@ After a moment, I realized that Yali was just sort of staring at me. Maybe I had
 
 "I… I think I get it," I said. "Shit, I said a lot of stuff like that about you today, didn't I? Sorry. I'll try to be more sensitive about that."
 
-"Thanks." Yali laughed. "We're solving our relationship conflicts too fast! Now this will never work."
+"Thanks." Yali laughed. "We're solving our relation&shy;ship conflicts too fast! Now this will never work."
 
 "That's terrible," I joked back.
 
@@ -342,7 +342,7 @@ Yali relaxed, but only partway. "It wasn't going to work," she said, a little to
 
 "Okay, but what do you mean it wouldn't work? If you'd kept going –"
 
-"I saw what happened," said Yali tiredly. "It only worked when you weren't expecting it. I thought this might happen – this is how you usually deal with anger, isn't it? As soon as you noticed you were getting angry, you turned it into a challenge. Right?"
+"I saw what happened," said Yali guardedly. "It only worked when you weren't expecting it. I thought this might happen – this is how you usually deal with anger, isn't it? As soon as you noticed you were getting angry, you turned it into a challenge. Right?"
 
 "Stern take it all, you know me better than I know myself. You even <em>expected</em> this to happen?!"
 
@@ -372,17 +372,17 @@ The Otherworld had five layers, and the third one was going to be the <em>worst<
 
 Our journey would begin in the starry void of the Waiting, the god who oversaw the cycle of the seasons, the god who had woven the structure of the Ravelling out of the chaos of souls that had come before. The Waiting God's challenges for us would be about patience and studying, which sounded like a huge pain, but I could put up with it. And the way Yali described its world – an empty world full of stars – made it sound eerily beautiful.
 
-Second was the riddle-maze of the Seeking, the god of curiosity and invention, coincidence and opportunity. Its world was ever-changing, adapting to each new Raveller to become what they least expected, challenging them to see things from perspectives they'd never considered. It sounded awesome, and now that I knew it was coming, I couldn't wait to see it for myself.
+Second was the riddle-maze of the Seeking, the god of curiosity and invention, coincidence and oppor&shy;tunity. Its world was ever-changing, adapting to each new Raveller to become what they least expected, challenging them to see things from perspectives they'd never considered. It sounded awesome, and now that I knew it was coming, I couldn't wait to see it for myself.
 
 But then… the Stern.
 
-It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on Mill Street had been a vibrant place. There were colorful tents set up along the walkways, and it had almost been an open-air market, with musicians playing on the sidewalks, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! Mill Street Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings on my way to school. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
+It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on Mill Street had been a vibrant place. There'd been colorful tents along all the walkways, and it had almost been an open-air market, with musicians playing on the sidewalks, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! Mill Street Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings on my way to school. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
 
 "I bet they want to make the whole city as boring as the third ring!" I exclaimed. The third ring was basically the Stern Temple's home turf, full of temples and courthouses and shit. Then I remembered we were <em>in</em> the third ring right now, because Yali lived here. "Uh, no offense."
 
 Yali shrugged. "There's worse things than living in a boring place."
 
-And in the Otherworld… we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but it was always the one with the strictest requirements for the Ravellers. Yali said it would show us symbolic representations of principles, and make us endure hard work and suffering to see those principles upheld. She literally used the word "suffering". That was gonna suck, especially when it came right after the Seeking God's fun. Why did it have to be the <em>third</em> layer –
+And in the Otherworld… we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but it was always the one with the strictest requirements for the Ravellers. Yali said it would show us symbolic representations of principles, and make us endure hard work and suffering to see those principles upheld. She literally used the word "suffering". That was gonna suck, especially when it came right after the Seeking God's fun. Why couldn't it have been the last layer, so we could put it off, or the first, so we could get it over with? Why did it have to be the <em>third</em> –
 
 "Wait," I said. "Third ring – third layer – that's not a coincidence, is it?"
 
@@ -396,7 +396,7 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 <p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>"And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>me about the layers now."</p>
 
-Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's followers made no laws and built no temples, because the world was already its temple. The fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks, in between the mess of stores and houses and abandoned factories.
+Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's follow&shy;ers made no laws and built no temples, because the world was already its temple. And in the city – the fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks, in between the mess of stores and houses and abandoned factories.
 
 And fifth…
 
@@ -434,7 +434,7 @@ That wasn't quite as reassuring as I would've liked. "So, what's our second adva
 
 "Wait, back up. What's rejuvenating?"
 
-"That's what happens at the end of the Ravelling. After we get through the five layers, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that's how they stay strong, by getting a supply of new human threads every year. But if the human dies early, it's different. It takes the whole winter to fully link the human threads to the god threads. So if the human dies before that, the god has to pull back its own threads, because when a human is killed in the Otherworld, their soul is actually damaged – they can't even manifest a new body –"
+"That's what happens at the end of the Ravelling. After we get through the five layers, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that's how they stay strong, by getting a supply of new human threads every year. But if the human dies early, it's different. It takes the whole winter to fully link the human threads to the god threads. So if the human dies before that, the god has to pull back its own threads, because when a human is killed in the Other&shy;world, their soul is actually damaged – they can't even manifest a new body –"
 
 "They can't what a what now?"
 
@@ -460,11 +460,11 @@ Yali patted me on the head. "Good idea," she said. "In any case… The <em>other
 
 "I understand."
 
-"Uh… sorry, you can keep explaining the rejuvenating thing now."
+"Uh… sorry, you can keep explaining about the 'rejuvenating' thing now."
 
-"Right. So, because all the Farseers and Blood Children have been killed <em>in the Otherworld</em>, their souls have been damaged, and our gods haven't been able to rejuvenate. So our gods are slowly getting weaker. The Blood God is still dangerous, but each year, it's a tiny bit less powerful. That's not going to keep us safe, but, it gives us a chance. And the Waiting God is weaker too. My powers won't be quite the same as the old Farseers… and the worlds it creates are a little less elaborate than they used to be…"
+"Right. So, because all the Farseers and Blood Child&shy;ren have been killed <em>in the Otherworld</em>, their souls have been damaged, and our gods haven't been able to rejuvenate. So our gods are slowly getting weaker. The Blood God is still dangerous, but each year, it's a tiny bit less powerful. That's not going to keep us safe, but, it gives us a chance. And the Waiting God is weaker too. My powers won't be quite the same as the old Farseers… and the worlds it creates are a little less elaborate than they used to be…"
 
-"Then why do they kill each other?! Wouldn't all the gods be better off if we just didn't kill each other? Then the Blood God and the Waiting God could both rejuvenate –"
+"Then why do they kill each other?! Wouldn't all the gods be better off if we just didn't kill each other? Then they could both rejuvenate, both the Blood God and the Waiting God –"
 
 "They would be! I have no idea why the Blood God started killing –"
 
@@ -492,7 +492,7 @@ Yali waggled her fingers. "Literaaaaal maaaaaaaagic."
 
 I jumped up to tickle her, but then I remembered she didn't like that. Still, the tension was totally relieved. "So if I wasn't the Blood Child, you'd still –"
 
-"Honestly?" She paused. "I love you to bits. But if you weren't the Blood Child… Think about it."
+"Honestly?" She paused, a somber expression on her face. "I love you to bits. But if you weren't the Blood Child… Think about it."
 
 I thought about it. "We could still have dated for three months… and then, you'd disappear, and maybe – Shit, I didn't mean –"
 

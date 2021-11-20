@@ -91,9 +91,9 @@ After half a minute, I was still out of breath, but I couldn't be bothered to wa
 
 <bigbreak>
 
-I had scarcely rung the doorbell when Yali engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "You ran all the way here, didn't you". I didn't have to answer that. We both knew how it was.
+I had scarcely rung the doorbell when Yali engulfed me in a hug. I fell exhausted into her arms. After all that running, she was just so big and warm and wonderful. She planted a kiss on my forehead, then murmured, "You ran all the way here, didn't you." I didn't have to answer that. We both knew how it was.
 
-She gently pulled me inside and we flopped down on a couch. While I relaxed, Yali leaned forward, looking off into the distance, as if she was thinking hard about something. She turned halfway towards me and opened her mouth, but then closed it again. Was this the important thing she was going to tell me? But she… couldn't figure out how to say it?
+She gently pulled me inside and we flopped down on her couch, sinking into the big, well-worn cushions. While I relaxed, Yali leaned forward, looking off into the distance, as if she was thinking hard about something. She turned halfway towards me and opened her mouth, but then closed it again. Was this the important thing she was going to tell me? But she… couldn't figure out how to say it?
 
 "Your leg!" said Yali suddenly.
 
@@ -143,7 +143,7 @@ Finally, she spoke up. "How much do you know about what happens during," she swa
 
 "It's, it's, it's worse than that. Just tell me how much you know, so I can explain from there."
 
-<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I sighed. I couldn't help it – I was already nervous, and now I had to remember some shit from Divinity class. Everyone knew <em>about</em> the Ravelling, but you wouldn't know the <em>details</em> unless you were super religious. I did my best to summarize. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… Get some sort of nutrition out of it? Look, <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/1-2-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"</p>
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I sighed. I couldn't help it – I was already nervous, and now I had to remember some shit from Divinity class. Everyone knew <em>about</em> the Ravelling, but you wouldn't know the <em>details</em> unless you were super religious. I did my best to summarize. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… get some sort of nutrition out of it? Look, <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/1-2-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"</p>
 
 Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
@@ -155,7 +155,7 @@ I froze. I could see where this sentence was going, and I didn't like it. Me, on
 
 "– you're the Blood Child."
 
-I snapped back into the present. Yali was looking at me carefully. Studying me, to see how was going to react. But how <em>was</em> I going to react? There were so many things going through my head. What – how – why –
+I snapped back into the present. Yali was looking at me carefully. Studying me, to see how was going to react. But there were so many things going through my head. What – how – why –
 
 "Do you know the history between them?" continued Yali. "The Waiting God and the Blood God –"
 
@@ -173,7 +173,7 @@ Yali shifted uncomfortably. "There has to be something more to it. There's plent
 
 "Power? What am I, a high priest?"
 
-Yali laughed. "Not that kind of power." She leaned in close to me. "I think it means… The way you feel like you can do whatever you want. The way you're not afraid to tell anyone what you think of them. That's what I like about you. And that's a kind of power too, a power that you already have… right <em>here</em>."
+Yali suppressed a laugh. "Not that kind of power." She leaned in close to me. "I think it means… The way you feel like you can do whatever you want. The way you're not afraid to tell anyone what you think of them. That's what I like about you. And that's a kind of power too, a power that you already have… right <em>here</em>."
 
 She reached out a hand, and touched my heart.
 
@@ -235,7 +235,7 @@ Yali's eyes narrowed. Before I knew what was happening, she had grabbed my shoul
 
 "Uh… I promise," I said nervously.
 
-"Remember that." Yali let go of my shoulder and leaned back on the couch. She was back to her normal self again, just as suddenly. "Sorry about that," she said. "There are just so many things that can go wrong in the Ravelling. I don't want you getting yourself <em>killed</em> to be one of them."
+"Remember that." Yali let go of my shoulder and leaned back on the couch. She was back to her normal self again, just as suddenly. "I'm, I'm sorry I had to speak to you like that," she said. "There are just so many things that can go wrong in the Ravelling. I don't want you getting yourself <em>killed</em> to be one of them."
 
 I looked at her. "You… really think I'd – you really think there's a chance I'd feel like I needed to die for your sake?"
 
