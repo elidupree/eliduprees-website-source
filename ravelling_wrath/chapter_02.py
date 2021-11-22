@@ -508,7 +508,7 @@ Yali didn't say anything.
 
 "Hang on, how <em>do</em> you live alone? And in the third ring, too?" The third ring didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
 
-"If we talk about my past," said Yali calmly, "I'll get upset. And if I get upset, I won't be able to plan for the future."
+"If we talk about my past," said Yali calmly, "I'll have to deal with some emotions. And if I'm dealing with emotions, I won't be able to plan for the future."
 
 Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle and stuff…"
 
