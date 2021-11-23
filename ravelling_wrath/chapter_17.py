@@ -648,7 +648,7 @@ I laughed. "Sorry, I'm the Blood Child. I only heard what you actually meant."
 
 Morrow snorted.
 
-Time passed. Slowly, Morrow's tears dried. He lay down across my lap and my pillows, finally relaxed, staring into the air. There was still a heavy weight of sadness and guilt lying over him. But that was okay, because that was what someone <em>should</em> feel  in a situation where they had endured, and carried out, so much harm. It was the Blood way to feel.
+Time passed. Slowly, Morrow's tears dried. He lay down across my lap and my pillows, finally relaxed, staring into the air. There was still a heavy weight of sadness and guilt lying over him. But that was okay, because that was what someone <em>should</em> feel in a situation where they had endured, and carried out, so much harm. It was the Blood way to feel.
 
 In the distance, I heard the crunch of leaves. It became a small and steady pattern, coming closer.
 
