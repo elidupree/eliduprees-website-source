@@ -392,7 +392,8 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "It probably was!"
 
-<img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2.png?rr" alt="">
+<not_print><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2.png?rr" alt=""></not_print>
+<print_only><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2-right.png?rr" alt=""></print_only>
 
 "And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling me about the layers now."
 
