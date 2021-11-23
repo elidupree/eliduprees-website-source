@@ -494,11 +494,7 @@ If I hadn't been stuck with Alchemist, I <em>wouldn't</em> have gotten to know t
 
 That was the Seeking God's lesson for me this time. The whole reason it wouldn't let me out of this desert. The reason it was rewarding me for "not trying". It knew that as soon as I saw something louder, more exciting, more dangerous, I would go running after it. And leave Alchemist behind.
 
-[????? And then I remembered is the thing with Justicar]. I felt like I'd learned more about myself in the last two weeks than [I had in the whole year before that. We just had loads of school, and I already knew how I related to bullshit school.]
-
-?????
-
-I finally understood what people meant by "the gifts of the Seeking". [????? It wasn't the so-called learning we did in school, with all the Stern authority figures just making you do the work all the time.] It was <em>this</em>.
+I finally understood what people meant by "the gifts of the Seeking". First with Justicar, and now with Alchemist. I felt like I'd learned more about myself in the last two weeks than I had in years before that. The Seeking God's gift wasn't the so-called learning we did in school, the Stern trying to stuff our brains full of facts from old books by some scholar in the dusty depths of a Waiting temple somewhere. It was <em>this</em>.
 
 "Wow," I said. "Just, wow. I almost wish there was more of the Seeking God in society back on Earth, too. I mean, it's still a massive jerk move that it's not letting us out of this desert, but maybe –"
 
