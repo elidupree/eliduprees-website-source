@@ -22,7 +22,7 @@ target_bleed_height = target_nominal_height + dpi//4
 
 only = None
 only = "10"
-#only = "dfjds"
+only = "dfjds"
 
 custom = {
   "1-1": (True, True, True),
