@@ -10,19 +10,21 @@ chapter_font = "Alegreya SC"
 def fonts_css(fonts_path, mode="web"):
   def font_rules(name_style):
     if mode=="web":
-      return """
-  src: url('"""+fonts_path+name_style+""".eot?rr'); /* IE9 Compat Modes */
+      # note: we have to use double quotes around the urls, not single quotes,
+      # because idupree-websitepy rewriting is only compatible with double quotes
+      return '''
+  src: url("'''+fonts_path+name_style+'''.eot?rr"); /* IE9 Compat Modes */
   src: local(''),
-       url('"""+fonts_path+name_style+""".eot?#iefix?rr') format('embedded-opentype'), /* IE6-IE8 */
-       url('"""+fonts_path+name_style+""".woff2?rr') format('woff2'), /* Super Modern Browsers */
-       url('"""+fonts_path+name_style+""".woff?rr') format('woff'), /* Modern Browsers */
-       url('"""+fonts_path+name_style+""".ttf?rr') format('truetype'), /* Safari, Android, iOS */
-       url('"""+fonts_path+name_style+""".svg#Kadwa?rr') format('svg'); /* Legacy iOS */
-       """
+       url("'''+fonts_path+name_style+'''.eot?rr#iefix") format('embedded-opentype'), /* IE6-IE8 */
+       url("'''+fonts_path+name_style+'''.woff2?rr") format('woff2'), /* Super Modern Browsers */
+       url("'''+fonts_path+name_style+'''.woff?rr") format('woff'), /* Modern Browsers */
+       url("'''+fonts_path+name_style+'''.ttf?rr") format('truetype'), /* Safari, Android, iOS */
+       url("'''+fonts_path+name_style+'''.svg?rr#Kadwa") format('svg'); /* Legacy iOS */
+       '''
     else:
-      return """
-  src: url('"""+fonts_path+name_style+""".ttf');
-       """
+      return '''
+  src: url("'''+fonts_path+name_style+'''.ttf");
+       '''
       
   
   return """
