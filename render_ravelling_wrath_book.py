@@ -3,6 +3,7 @@
 
 import os
 import os.path
+import sys
 import re
 import subprocess
 import datetime
@@ -357,8 +358,9 @@ def wrap(html):
 </html>'''
 
 
-
-full_html = wrap("".join (chapters[20::56]))
+if len(sys.argv) > 1:
+  chapters = [chapters[int(sys.argv[1]) - 1]]
+full_html = wrap("".join (chapters))
 
 
 
