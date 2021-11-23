@@ -452,7 +452,7 @@ Yali took my hand. Her voice was soft and serious. "Before we make plans, I want
 
 Yali was looking at me.
 
-"Oh my gods, you're giving me <em>that</em> look, I bet I'm totally putting my foot in it, aren't I."
+"Oh my gods, you're giving me <em>that</em> look, I bet I've followed the Seeking right into the thorns, haven't I."
 
 "No! You, you…" she shifted uneasily, "you're thinking exactly how you should be."
 

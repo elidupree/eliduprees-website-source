@@ -392,9 +392,9 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "It probably was!"
 
-<not_print><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2.png?rr" alt=""></not_print>
+<img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2.png?rr" alt="">
 
-<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>"And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>me about the layers now."</p>
+"And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling me about the layers now."
 
 Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's follow&shy;ers made no laws and built no temples, because the world was already its temple. And in the city – the fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks, in between the mess of stores and houses and abandoned factories.
 
@@ -488,7 +488,7 @@ I hesitated. I didn't <em>want</em> to ask this. It felt like I was accusing her
 
 I grinned. "That is <em>so</em> unfair! That is like the most unfair thing –"
 
-Yali waggled her fingers. "Literaaaaal maaaaaaaagic."
+Yali waggled her fingers. "Literaaaal maaaaaaagic."
 
 I jumped up to tickle her, but then I remembered she didn't like that. Still, the tension was totally relieved. "So if I wasn't the Blood Child, you'd still –"
 
@@ -510,7 +510,7 @@ Yali didn't say anything.
 
 "If we talk about my past," said Yali calmly, "I'll have to deal with some emotions. And if I'm dealing with emotions, I won't be able to plan for the future."
 
-Shit. I'd put my foot in it, hadn't I? Typical Rinn. "Uh, so, the yearly cycle and stuff…"
+Shit. I'd really followed the Seeking into the thorns, hadn't I? Typical Rinn. "Uh, so, the yearly cycle and stuff…"
 
 "Right!"
 
