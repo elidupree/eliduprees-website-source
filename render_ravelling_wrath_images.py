@@ -5,6 +5,8 @@ from __future__ import division
 import os
 import os.path
 import gimp_stuff
+import cv2
+import numpy as np
 
 input_dir = "ravelling_wrath/illustration_source_bitmaps"
 output_dir = "media/generated_from_source_files/ravelling-wrath/illustrations"
@@ -19,20 +21,20 @@ target_bleed_width = target_nominal_width + dpi//4
 target_bleed_height = target_nominal_height + dpi//4
 
 only = None
-only = "21"
-only = "dfjds"
+only = "10"
+#only = "dfjds"
 
 custom = {
-  "1-1": (275, 1595, True),
-  "watchful-eye-ornate": (686, 1979, True),
-  "7": (1418, None, False),
-  "endless-maze-ornate": (810, 1890, True),
-  "10": (None, 1800, False),
-  "dauntless-gate-ornate": (966, 1880, True),
-  "14": (None, 1906, False),
-  "cloven-earth-ornate": (620, 2228, True),
-  "burning-heart-ornate": (706, 1914, True),
-  "21": (738, 1058, True),
+  "1-1": (True, True, True),
+  "watchful-eye-ornate": (True, True, True),
+  "7": (True, False, False),
+  "endless-maze-ornate": (True, True, True),
+  "10": (False, 1800, False),
+  "dauntless-gate-ornate": (True, True, True),
+  "14": (False, True, False),
+  "cloven-earth-ornate": (True, True, True),
+  "burning-heart-ornate": (True, True, True),
+  "21": (True, True, True),
 }
 
 for filename in os.listdir(input_dir):
@@ -44,6 +46,8 @@ for filename in os.listdir(input_dir):
   output_path_left = output_path.replace(".png", "-left.png")
   output_path_right = output_path.replace(".png", "-right.png")
   
+  cv2_image = cv2.imread(input_path)
+  
   crop_top = (source_height - target_nominal_height) // 2
   crop_bottom = crop_top + target_nominal_height
   crop_top_print = (source_height - target_bleed_height) // 2
@@ -51,12 +55,19 @@ for filename in os.listdir(input_dir):
   
   if filename_base in custom:
     override_top, override_bottom, override_print = custom[filename_base]
-    if override_top is not None:
-      crop_top = override_top
+    content = np.argwhere(np.mean(cv2_image, axis=2) < 220)
+    if override_top:
+      if type(override_top) is int:
+        crop_top = override_top
+      else:
+        crop_top = content[0][0]
       if override_print:
         crop_top_print = override_top
-    if override_bottom is not None:
-      crop_bottom = override_bottom
+    if override_bottom:
+      if type(override_bottom) is int:
+        crop_bottom = override_bottom
+      else:
+        crop_bottom = content[-1][0]
       if override_print:
         crop_bottom_print = override_bottom
         
