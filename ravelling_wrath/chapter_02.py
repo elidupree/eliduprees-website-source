@@ -433,7 +433,7 @@ That wasn't quite as reassuring as I would've liked. "So, what's our second adva
 
 "The same way the Waiting God hasn't been rejuvenating… the Blood God hasn't been either."
 
-"Wait, back up. What's rejuvenating?"
+"Wait, back up. What's 'rejuvenating'?"
 
 "That's what happens at the end of the Ravelling. After we get through the five layers, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that's how they stay strong, by getting a supply of new human threads every year. But if the human dies early, it's different. It takes the whole winter to fully link the human threads to the god threads. So if the human dies before that, the god has to pull back its own threads, because when a human is killed in the Other&shy;world, their soul is actually damaged – they can't even manifest a new body –"
 

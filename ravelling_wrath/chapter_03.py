@@ -146,7 +146,7 @@ Finally an idea scraped out. It was rough, but I didn't have anything else, so i
 
 "I told her I wouldn't tell anyone! I can't go back on that! Dad, back me up here!"
 
-Dad clearly didn't <em>want</em> to back me up, but he said, reluctantly, "Every promise is law before the Stern."
+Dad clearly didn't <em>want</em> to back me up, but, reluc&shy;tantly, he quoted, "'Every promise is law before the Stern.'"
 
 "I really, really can't tell you," I continued.
 
@@ -210,7 +210,7 @@ Before Layo could waste any more time apologizing, I tried a different angle. "H
 
 "You <em>monster.</em>" I dove at Layo and started tickling the shit out of him. He squirmed out of the way and tickled me back, and before long we had both stumbled and smashed into one of the lunch tables.
 
-"Rinn Akatura! No roughhousing in the lunchroom!"
+"Rinn Akatura! No roughhousing in the lunch&shy;room!"
 
 "It was my fault," said Layo immediately. A lot of heads were turning our way, not to mention the poor sods at the table we'd hit. I'd heard a glass of juice spill somewhere.
 
@@ -235,7 +235,7 @@ As soon as I had a moment alone in the halls, I pulled out my phone and started 
 <p class="text right">u ok? from the you-know-what last night</p>
 <p class="text right">anyway I thought of something that actually made me angry</p>
 <p class="text right">its like</p>
-<p class="text left">Im ok</p>
+<p class="text left">I'm ok</p>
 <p class="text left">Tell me after school</p>
 <p class="text left">Meet you out front?</p>
 <p class="text right last">sure thing ❤ ❤ ❤</p>
@@ -378,15 +378,7 @@ Yali sort of choked, like she was suppressing a laugh.
 
 "Oh my gods, I can't believe you even thought of that."
 
-Yali gave a wry smile. Then she focused again. "These two stories have a lot in common," she said.
-
-"They do?"
-
-"Think about it. In both of them, you accidentally – Well, I was going to say 'accidentally hurt', but it wasn't <em>you</em> who hurt – actually, it was other people who did the actual hurting, both times. But you felt responsible. And both times, the person who got hurt was a girl you like."
-
-"That… I guess they <em>are</em> really similar."
-
-"And both of them… don't have any closure, and they end with you feeling like you don't know what you can do about it." Yali looked at me. "Would you say you felt… helpless?"
+Yali gave a wry smile. Then she focused again. "These two stories have a lot in common. Both of them were about someone getting hurt. Not you, but a girl you like. And both times – <em>neither of them was your fault,</em>" she said, more forcefully than I expected. "But you felt responsible. And you didn't get any closure, they both end with you feeling like you don't know what you can do about it." Yali looked at me. "Would you say you felt… helpless?"
 
 "Ugh, I don't want to <em>say</em> I felt like that, but I don't know… maybe? Why do you ask?"
 
@@ -426,7 +418,7 @@ Yali didn't answer. She was deep in thought. I wanted to know what she was think
 
 "…go on, spit it out."
 
-Yali compulsively neatened her plate. "You are too comfortable," she said. "I've never seen you stay uncomfortable for very long. I don't mean physically, I mean, you always, whenever something hurts you, you always find a way to say, 'well that's no big deal'." Yali swallowed. "I wonder what would happen if you couldn't do that. What if I – we – put you through a, an <em>ordeal</em>, where you <em>couldn't</em> make yourself comfortable…"
+Yali compulsively neatened her plate. "You are too comfortable," she said. "I've never seen you stay uncomfortable for very long. I don't mean physically, I mean, you always, whenever something hurts you, you always find a way to say, 'well that's no big deal'." Yali swallowed. "I wonder what would happen if you couldn't do that. What if I – we – put you through a, an <em>ordeal</em>, where you <em>couldn't</em> make yourself comfort&shy;able…"
 
 "You can <em>do</em> that?"
 
@@ -456,7 +448,7 @@ Yali was looking at me.
 
 "No! You, you…" she shifted uneasily, "you're thinking exactly how you should be."
 
-Then it hit me. "You're worried, aren't you?" I said gently, leaning in towards her. "Worried that someone'll get hurt if you let yourself do what you're thinking of –"
+Then it hit me. "You're worried, aren't you?" I said gently, leaning in towards her. "Worried someone'll get hurt if you let yourself do what you're thinking of –"
 
 Yali flushed. Shit, had I said something wrong? "Er," I began, "I didn't mean to, uh –"
 
@@ -506,7 +498,7 @@ Yali relaxed a little. "So, next Friday it is then?"
 
 <p class="text right">You really need to ask about that?</p>
 
-<p class="text left">Even if it's obvious to you, just think of it as a way to make ME more comfortable with it. Just say ok if it's ok, ok?</p>
+<p class="text left<print_only> force-break-before</print_only>">Even if it's obvious to you, just think of it as a way to make ME more comfortable with it. Just say ok if it's ok, ok?</p>
 
 <p class="text right">ok</p>
 
@@ -527,7 +519,7 @@ But as that Friday got closer, I didn't feel so frustrated. Instead, I was <em>e
 Just then, another one came in.
 
 <div class="texts">
-<p class="text left<print_only> force-break-before</print_only>">Being denied food?</p>
+<p class="text left">Being denied food?</p>
 
 <div class="end-of-texts"></div>
 </div>
@@ -539,7 +531,7 @@ It was during class, but I held my phone under the desk to text her back.
 
 <p class="text right">and I guess itd be annoying but</p>
 
-<p class="text left">It doesn't need to anger you directly. Hunger will make you emotionally weaker.</p>
+<p class="text left<print_only> force-break-before</print_only>">It doesn't need to anger you directly. Hunger will make you emotionally weaker.</p>
 
 <p class="text left">Skip lunch today.</p>
 
@@ -563,7 +555,7 @@ As I ran, I got another text from her.
 <div class="texts">
 <p class="text left">One last thing. I plan to make you feel like you have no way out. But the truth is, you always have the right to back out of this. No matter what I say, if you say you don't want to do this anymore, I'll respect that.</p>
 
-<p class="text right">yeah yeah</p>
+<p class="text right<print_only> force-break-before</print_only>">yeah yeah</p>
 
 <div class="end-of-texts"></div>
 </div>
@@ -582,7 +574,7 @@ She said it so dismissively, like she didn't even care. She paced a few steps aw
 
 I made a fist, then hesitated. "Are you sure this is okay?"
 
-"Just do it."
+"Do it."
 
 She was asking me to… But I couldn't punch Yali! I loved her! It was just <em>wrong!</em>
 
@@ -752,7 +744,7 @@ Yali's big arms closed around me. She pulled me into a hug even as I shook and h
 
 But deep inside me, another part was desperately craving her touch, grateful that she wouldn't let me go.
 
-"Rinn, Rinn, Rinn…" she whispered, holding me tight. I could only see her face out of the corner of my eye, but was she… actually <em>grinning</em>? What in the Endless Maze was going on here…? "This is <em>exactly</em> what we planned on! I knew something like this would happen, and I know just what to do next. We are going to make it. We are <em>going to make it.</em>"
+"Rinn, Rinn, Rinn…" she whispered, holding me tight. I could only see her face out of the corner of my eye, but was she… actually <em>grinning</em>? What in the Endless was going on here…? "This is <em>exactly</em> what we planned on! I knew something like this would happen, and I know just what to do next. We are going to make it. We are <em>going to make it.</em>"
 
 I willed myself to believe it. But everything was getting too real, too fast. There was nothing for me to think. There was only my pounding headache and my body slumped against hers.
 

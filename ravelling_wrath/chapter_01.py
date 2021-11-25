@@ -68,7 +68,7 @@ We'd been dating for about a month, and Yali was one of the calmest, most patien
 
 <div class="texts">
 <p class="text right">omg is there someone I'll need to beat up</p>
-<p class="text left">No its much bigger than that. Think like… the gods</p>
+<p class="text left">No it's much bigger than that. Think like… the gods</p>
 <p class="text right">the gods?!</p>
 <p class="text left<print_only> force-break-before</print_only>">I'm not explaining this right</p>
 <p class="text left">Just meet at my place after school, OK?</p>
