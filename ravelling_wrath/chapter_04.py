@@ -56,11 +56,7 @@ But finally, I couldn't think of any more questions. The time had come to get st
 
 "Yeah. That."
 
-Then Yali had gone quiet. And that's where we were now. I was just slumped on her couch, fidgeting with the tail end of my shirt, feeling like shit.
-
-While I sat, Yali idly started cleaning up our dirty dishes. And every now and then, she gave a long look back at me. She was probably thinking about how to help me with this. <em>She</em> was trying to help <em>me!</em> Why did <em>she</em> have to help <em>me</em> with something I <em>should</em> be able to just <em><strong>do</strong>?!</em>
-
-Gods, she was even doing something <em>productive</em> while I was just sitting there messing around with my shirt. I was being such an asshole. "I can help you with the dishes –"
+Then Yali had gone quiet. And that's where we were now. I was just slumped on her couch, fidgeting with the tail end of my shirt, feeling like shit. And Yali was cleaning up our dirty dishes, sometimes pausing to look back at me, probably deep in thought about how to help me with this. <em>She</em> was trying to help <em>me!</em> Why did <em>she</em> have to help <em>me</em> with something I <em>should</em> be able to just <em><strong>do</strong>?!</em> Gods, she was even doing something <em>productive</em> while I was just sitting there. I was being such an asshole. "I can help you with the dishes –" I began.
 
 "Don't worry about it."
 
