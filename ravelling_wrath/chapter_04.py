@@ -62,9 +62,11 @@ Then Yali had gone quiet. And that's where we were now. I was just slumped on he
 
 Stern take it all.
 
-When she was done, she came back and sat with me. She held my hand. I looked away from her.
+<bigbreak>
 
-"It's okay, it's okay," she murmured. "Maybe I can help your heart believe what it needs to."
+Of course, it wasn't long before she got me doing the Releasing Game. But not before we almost got into an argument.
+
+She started out softly. Sitting with me again. Holding my hand. Telling me she could help my heart believe what it needed to.
 
 "Of <em>course</em> you can," I said bitterly.
 
@@ -74,21 +76,21 @@ When she was done, she came back and sat with me. She held my hand. I looked awa
 
 "You <em>will</em> be helping. You're helping protect me from dying, which, which, which, if you don't remember, would <em>always</em> happen if you <em>weren't</em> the Blood Child –"
 
-"It doesn't feel that way."
-
-"We're helping each other."
-
-"You know what, never mind, just do the thing. Make me believe the shit."
+Oh gods, she was being <em>patient</em> with me. She had that tone like I was missing the obvious and I had to catch up. "You know what, never mind, just do the thing. Make me believe the shit."
 
 "Okay." Yali squeezed my hand. "You're trying to tell yourself that the anger isn't a <em>real</em> danger, so it's okay. But I'd like you to try thinking about it as if it <em>is</em> real, but it's a, a, an inherent part of the process. Like you give in to the danger for now, so you'll be able to fight it better later. 'Let me yield when I must yield, even if it costs my pride.'"
 
 That was from a prayer to the Stern God. "Fuck the Stern," I said automatically.
 
-Yali looked uncomfortable. "Rinn, I know you hate the Stern, but I just can't. It's the Stern Temple that pays for me to live here."
+Yali looked uncomfortable. "Rinn, I know you hate the Stern, but I just can't. It's the Stern Temple that – that – that pays for me to live here."
 
 "Since when do the Stern pay for anything that helps anyone?!"
 
-Yali gave me a dirty look. "The point is, it's all part of one process. So, so, let's say I had a car, and I wanted to keep the car in my garage forever. I was going to be an expert at keeping my car in the garage. And I didn't even have a driver's license."
+And that was the moment I thought I'd fucked everything up. From the subtle look on Yali's face, I could tell that I'd hit a nerve, that she wanted to yell at me. I swallowed, to stop myself making anything worse. I was sure she was about to drop her gentle act and tell me what she really felt. 
+
+But it didn't happen. She was still Yali. She just frowned and let the moment pass, to focus on what was important – the Releasing Game.
+
+As if nothing had happened, she continued. "The point is, it's all part of one process. So, so, let's say I had a car, and I wanted to keep the car in my garage forever. I was going to be an expert at keeping my car in the garage. And I didn't even have a driver's license."
 
 "Haha, that sounds pretty stupid."
 
