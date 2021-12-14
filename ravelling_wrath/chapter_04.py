@@ -90,7 +90,7 @@ And that was the moment I thought I'd fucked everything up. From the subtle look
 
 But it didn't happen. She was still Yali. She just frowned and let the moment pass, to focus on what was important – the Releasing Game.
 
-As if nothing had happened, she continued. "The point is, it's all part of one process. So, so, let's say I had a car, and I wanted to keep the car in my garage forever. I was going to be an expert at keeping my car in the garage. And I didn't even have a driver's license."
+She continued as if nothing had happened. "The point is, it's all part of one process. So, so, let's say I had a car, and I wanted to keep the car in my garage forever. I was going to be an expert at keeping my car in the garage. And I didn't even have a driver's license."
 
 "Haha, that sounds pretty stupid."
 
@@ -166,7 +166,7 @@ I hadn't thought I was going to do it, but I couldn't resist. "<em>Fuck! You!</e
 
 I grabbed a block. "Fuck you, couch! This is all your fault!" Yali snickered.
 
-And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling Game. Calming Game.</em>. It went on and on, and it was exhausting. The sun had already set when we'd started, and now the night was dragging on later and later. I kept trying to actually calm myself down, but I never felt like I was doing more than just pretending. How was I even supposed to do that? What was I accomplishing here?
+And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling Game. Calming Game.</em>. It went on and on, and it was exhausting. The sun had already set when we'd started, and now the night was dragging on later and later. I kept trying to actually calm myself down, but I never felt like I was doing more than just pretending. How was I even supposed to do that?
 
 Finally, we were both too exhausted to go on. Yali told me I'd done a great job, but I still didn't feel like I'd gotten anything done at all. Worse, when I got up to jog home as usual, it was just too overwhelming to think of. I ended up flopping on Yali's couch that night. I went to sleep feeling weird, almost disoriented.
 
