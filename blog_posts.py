@@ -30,6 +30,7 @@ import posts.time_travelers
 import posts.the_23_days_cult
 import posts.tell_me_a_story
 import ravelling_wrath.main
+import tftmuf.main
 import posts.stories_01
 import posts.uncategorized_01
 import posts.kinks
@@ -77,6 +78,15 @@ long_stories = {
     "complete": True,
   },
 }
+if "--deploy" not in sys.argv:
+  long_stories["tftmuf"] = {
+    "title": "The Future They Made Us Forget",
+    "url": "/the-future-they-made-us-forget",
+    "blurb": tftmuf.main.long_blurb,
+    "pages": tftmuf.main.posts,
+    "listed": True,
+    #"complete": True,
+  }
 
 uncategorized_posts = flatten([
   posts.uncategorized_01.posts,
@@ -169,6 +179,7 @@ def stories_index (full):
   
   return (
   big_story ("ravelling_wrath") +
+  (big_story ("tftmuf") if "--deploy" not in sys.argv else "") +
   big_story ("Not What I Am") +
   big_story ("Time Travelers and How to Kill Them: a Practical Guide") +
   group ("Short stories",
