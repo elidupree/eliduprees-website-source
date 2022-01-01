@@ -1,0 +1,31 @@
+@page {
+  margin: 0.6in;
+}
+
+.chapter {
+  break-before: page;
+}
+
+@page full_page_image {
+  margin: 0;
+  @top-center {
+    content: none;
+  }
+  @bottom-center {
+    content: none;
+  }
+}
+
+img.full-page {
+  page: full_page_image;
+}
+img.chapter-header {
+  width: 100vw;
+  margin-left: -0.6in;
+  margin-right: -0.6in; 
+}
+img.ending {
+  width: 100vw;
+  margin-left: -0.6in;
+  margin-right: -0.6in; 
+}

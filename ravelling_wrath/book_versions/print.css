@@ -1,0 +1,91 @@
+@page {
+  size: 6.25in 9.25in;
+  margin: 0.725in;
+  @bottom-center {
+    margin-bottom: 0.125in;
+  }
+}
+@page :left {
+  margin-right: 1.025in;
+  @top-center {
+    margin-top: 0.125in;
+  }
+}
+@page :right {
+  margin-left: 1.025in;
+  @top-center {
+    margin-top: 0.125in;
+  }
+}
+@page full_page_image {
+  margin: 0;
+  @top-center {
+    content: none;
+  }
+  @bottom-center {
+    content: none;
+  }
+}
+@page chapter_7_illustration_page {
+  background-image: url('/media/ravelling-wrath/illustrations/7-left.png?rr');
+  background-size: contain;
+  @bottom-center {
+    content: none;
+  }
+}
+@page chapter_10_illustration_page {
+  background-image: url('/media/ravelling-wrath/illustrations/10-right.png?rr');
+  background-size: contain;
+  margin-top: 6in;
+  @top-center {
+    content: none;
+  }
+}
+@page chapter_14_illustration_page {
+  background-image: url('/media/ravelling-wrath/illustrations/14-left.png?rr');
+  background-size: contain;
+  margin-top: 6in;
+  @top-center {
+    content: none;
+  }
+}
+.chapter {
+  break-before: right;
+}
+.chapter_7_illustration_page {
+  page: chapter_7_illustration_page;
+}
+.chapter_10_illustration_page {
+  page: chapter_10_illustration_page;
+}
+.chapter_14_illustration_page {
+  page: chapter_14_illustration_page;
+}
+.chapter_14_illustration_page .after-forced-mid-paragraph-page-break {
+  text-indent: 2.5in;
+}
+.before-forced-mid-paragraph-page-break {
+  text-align-last: justify;
+}
+.after-forced-mid-paragraph-page-break {
+  text-indent: 0;
+}
+
+.force-break-before {
+  break-before: page;
+}
+img.full-page {
+  max-width: 6.25in;
+  max-height: 9.25in;
+  page: full_page_image;
+}
+img.chapter-header {
+  width: 6.25in;
+  margin-left: -1.025in;
+  margin-right: -0.725in; 
+}
+img.ending {
+  width: 6.25in;
+  margin-right: -1.025in;
+  margin-left: -0.725in; 
+}
