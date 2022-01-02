@@ -1,27 +1,19 @@
-body {
-  counter-reset: page;
+body, .chapter_1 {
+  counter-reset: page 1;
 }
 @page {
   counter-increment: page;
-  @bottom-center {
-    content: counter(page);
-    font: 12pt "Alegreya SC";
-  }
-}
-@page :left {
-  @top-center {
-    content: element(runningleft);
-    font: 12pt "Alegreya SC";
-  }
-}
-@page :right {
-  @top-center {
-    content: element(runningright);
-    font: 12pt "Alegreya SC";
-  }
 }
 @page chapter :first {
   @top-center {
+    content: none;
+  }
+}
+@page copyright {
+  @top-center {
+    content: none;
+  }
+  @bottom-center {
     content: none;
   }
 }
@@ -146,9 +138,28 @@ img.rav-section-break.nonaligned {
   width: 80%;
 }
 
+.copyright-page {
+  page: copyright;
+}
 .copyright-page p {
-  font: 11pt "Lexend";
+  font: 10pt "Lexend";
   text-align: center;
   text-indent: 0;
   margin-bottom: 1.2em;
+}
+.copyright-page table {
+  font: 10pt "Lexend";
+  margin: 0 auto;
+  margin-bottom: 1.2em;
+  border-spacing: 0;
+}
+.copyright-page table.font-grid {
+  margin-top: -0.9em;
+}
+.copyright-page td:first-child {
+  text-align: right;
+  padding-right: 0.2em;
+}
+.copyright-page table.font-grid td:first-child {
+  padding-right: 0.5em;
 }

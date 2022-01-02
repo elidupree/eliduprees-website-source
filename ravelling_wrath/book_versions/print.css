@@ -6,20 +6,28 @@ a {
 @page {
   size: 6.25in 9.25in;
   margin: 0.725in;
+}
+@page chapter {
   @bottom-center {
     margin-bottom: 0.125in;
+    content: counter(page);
+    font: 12pt "Alegreya SC";
   }
 }
 @page :left {
   margin-right: 1.025in;
   @top-center {
     margin-top: 0.125in;
+    content: element(runningleft);
+    font: 12pt "Alegreya SC";
   }
 }
 @page :right {
   margin-left: 1.025in;
   @top-center {
     margin-top: 0.125in;
+    content: element(runningright);
+    font: 12pt "Alegreya SC";
   }
 }
 @page full_page_image {

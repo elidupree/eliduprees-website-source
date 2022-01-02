@@ -1,6 +1,12 @@
 @page {
   margin: 0.6in;
 }
+@page chapter {
+  @bottom-center {
+    content: counter(page);
+    font: 12pt "Alegreya SC";
+  }
+}
 
 .chapter {
   break-before: page;

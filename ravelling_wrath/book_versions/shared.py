@@ -12,6 +12,7 @@ from num2words import num2words
 import blog_server_shared
 import post_contents_utils
 import utils
+import exmxaxixl
 
 import ravelling_wrath.main
 import ravelling_wrath.definitions
@@ -27,7 +28,12 @@ def replace_media_path(match, rav_media_paths):
 def replace_media_paths(contents, rav_media_paths):
   return re.sub(r"/media/(.*?)\?rr", lambda match: replace_media_path(match, rav_media_paths), contents)
   
-copyright_page = '''
+def copyright_page(is_print):
+  if is_print:
+    axdxrxexsxs = f"RavellingWrath{exmxaxixl.atdomain}"
+  else:
+    axdxrxexsxs = f"ravelling.wrath{exmxaxixl.atdomain}"
+  return f'''
 <div class="copyright-page">
 <img class="rav-section-break watchful-eye" alt="" src="/media/ravelling-wrath/symbols/watchful-eye-section-break.png?rr" />
 <p>
@@ -39,15 +45,19 @@ Visit the author's website at: <a href="https://www.elidupree.com/">https://www.
 </p>
 
 <p>
-Illustrations and cover design by Sarah Fensore and Eli Dupree. To see more of Sarah Fensore's artwork, visit: <a href="http://www.sarahfensore.com/">http://www.sarahfensore.com/</a>
+For all inquires, contact: {axdxrxexsxs}
 </p>
 
 <p>
-ISBN: TODO (paperback)<br>
-ISBN: TODO (hardcover)<br>
-ISBN: TODO (large print)<br>
-ISBN: TODO (ebook)
+Illustrations and cover design by Sarah Fensore and Eli Dupree. To see more of Sarah Fensore's artwork, visit: <a href="http://www.sarahfensore.com/">http://www.sarahfensore.com/</a>
 </p>
+
+<table class="isbn-grid">
+<tr><td>ISBN:</td><td>TODO (paperback)</td></tr>
+<tr><td>ISBN:</td><td>TODO (hardcover)</td></tr>
+<tr><td>ISBN:</td><td>TODO (large print)</td></tr>
+<tr><td>ISBN:</td><td>TODO (ebook)</td></tr>
+</table>
 
 <p>
 Library of Congress Control Number: TODO
@@ -56,6 +66,19 @@ Library of Congress Control Number: TODO
 <p>
 This is a work of fiction. All names, characters, and incidents portrayed in this story are fictitious. No identification with actual persons (living or deceased), places, or events is intended or should be inferred.
 </p>
+
+<p>
+This book is typeset using libre fonts, all of which are licensed under the SIL Open Font License. Specific fonts used are:
+</p>
+
+<table class="font-grid">
+<tr><td>Front cover:</td><td>Alegreya Sans SC</td></tr>
+<tr><td>Titles, running heads:</td><td>Alegreya SC</td></tr>
+<tr><td>Main text:</td><td>Kadwa</td></tr>
+<tr><td>Narration by Yali:</td><td>Kreon</td></tr>
+<tr><td>This page:</td><td>Lexend</td></tr>
+</table>
+
 <img class="rav-section-break burning-heart" alt="" src="/media/ravelling-wrath/symbols/burning-heart-section-break.png?rr" />
 </div>
 '''
@@ -110,7 +133,7 @@ def generate_html_and_linked_media_files(build_path, *, is_print, specific_chapt
   os.makedirs (build_path, exist_ok=True)
   rav_media_paths = {}
   chapters = ravelling_wrath.main.chapters
-  if specific_chapter:
+  if specific_chapter is not None:
     chapters = [chapters[specific_chapter]]
   chapters = [
     chapter_html (chapter, is_print, rav_media_paths) for chapter in chapters
@@ -140,7 +163,7 @@ def generate_html_and_linked_media_files(build_path, *, is_print, specific_chapt
     </body>
   </html>'''
 
-  full_html = wrap(replace_media_paths(copyright_page, rav_media_paths) + "".join (chapters))
+  full_html = wrap(replace_media_paths(copyright_page(is_print), rav_media_paths) + "".join (chapters))
 
 
   with open (os.path.join (build_path, "ravelling_wrath.html"), "w") as file:
