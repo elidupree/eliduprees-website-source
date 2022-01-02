@@ -18,57 +18,40 @@ if os.path.exists(build_path):
 
 specific_chapter = None
 if len(sys.argv) > 1:
-  specific_chapter = int(sys.argv[1]) - 1
-  
-generate_html_and_linked_media_files(
-  os.path.join (build_path, "print"),
-  book_type = BookType.PRINT,
-  specific_chapter = specific_chapter,
-)
-generate_html_and_linked_media_files(
-  os.path.join (build_path, "epub"),
-  book_type = BookType.EPUB,
-  specific_chapter = specific_chapter,
-)
-      
+  try:
+    specific_chapter = int(sys.argv[1]) - 1
+  except:
+    pass
+    
 print("starting rendering book at "+ datetime.datetime.now().isoformat())
 
-#converter = "weasyprint"
-#converter = "wkhtmltopdf"
-converter = "pagedjs-cli"
-
-if converter == "weasyprint":
-  import weasyprint
-  print("WeasyPrint version:", weasyprint.__version__)
-  from weasyprint import HTML, CSS
-  from weasyprint.fonts import FontConfiguration
-
-  if True:
-  #for index, chapter in enumerate(chapters):
-    #for paragraph in re.finditer(r"<p>.*</p>", chapter):
-    #try:
-      font_config = FontConfiguration()
-      #print(css_string)
-      #print(full_html)
-      css = CSS(string=css_string, font_config=font_config)
-      document = HTML (string = full_html, base_url = build_path).render (stylesheets=[css], font_config=font_config)
-      print(dir(document))
-      document.write_pdf(pdf_path)
-    #except Exception as e:
-    #  print (paragraph.group(0))
-    #  print(traceback.format_exc())
-    #print(f"done rendering chapter {index+1} at "+ datetime.datetime.now().isoformat())
-    
-if converter == "wkhtmltopdf":
-  subprocess.run(["wkhtmltopdf", html_path, pdf_path])
+if "epub" in sys.argv:
+  generate_html_and_linked_media_files(
+    os.path.join (build_path, "epub"),
+    book_type = BookType.EPUB,
+    specific_chapter = specific_chapter,
+  )
   
-if converter == "pagedjs-cli":
+def render_print_version (directory, book_type):
+  generate_html_and_linked_media_files(
+    os.path.join (build_path, directory),
+    book_type = book_type,
+    specific_chapter = specific_chapter,
+  )
+  
+  html_path = os.path.join (build_path, directory, "ravelling_wrath.html")
+  pdf_path = os.path.join (build_path, directory, "ravelling_wrath.pdf")
+  
   # Note: pagedjs-cli seems to also require me to
   # `sudo sysctl -w kernel.unprivileged_userns_clone=1`
-  
-  html_path = os.path.join (build_path, "print/ravelling_wrath.html")
-  pdf_path = os.path.join (build_path, "print/ravelling_wrath.pdf")
-  
   subprocess.run(["pagedjs-cli", html_path, "-o", pdf_path])
+
+if "print" in sys.argv:
+  render_print_version ("print", BookType.PRINT)
+  
+if "large_print" in sys.argv:
+  render_print_version ("large_print", BookType.LARGE_PRINT)
+  
+  
     
 print("done rendering book at "+ datetime.datetime.now().isoformat())

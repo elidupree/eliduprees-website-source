@@ -83,6 +83,14 @@ def fonts_css(fonts_path, mode="web"):
   font-weight: 400;
   """+font_rules("lexend-v12-latin-regular")+"""
 }
+
+/* lexend-700 - latin */
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 700;
+  """+font_rules("lexend-v12-latin-700")+"""
+}
 """
 
 head = """<style>
