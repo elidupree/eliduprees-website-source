@@ -6,6 +6,7 @@ import os.path
 import sys
 import re
 import shutil
+from enum import Enum, auto
 
 from num2words import num2words
 
@@ -16,6 +17,15 @@ import exmxaxixl
 
 import ravelling_wrath.main
 import ravelling_wrath.definitions
+
+class BookType(Enum):
+  PRINT = auto()
+  LARGE_PRINT = auto()
+  EPUB = auto()
+
+  def is_print(self):
+    return (self is BookType.PRINT or self is BookType.LARGE_PRINT)
+
 
 def replace_media_path(match, rav_media_paths):
   full_path = match.group(1)
@@ -28,8 +38,8 @@ def replace_media_path(match, rav_media_paths):
 def replace_media_paths(contents, rav_media_paths):
   return re.sub(r"/media/(.*?)\?rr", lambda match: replace_media_path(match, rav_media_paths), contents)
   
-def copyright_page(is_print):
-  if is_print:
+def copyright_page(book_type):
+  if book_type.is_print():
     axdxrxexsxs = f"RavellingWrath{exmxaxixl.atdomain}"
   else:
     axdxrxexsxs = f"ravelling.wrath{exmxaxixl.atdomain}"
@@ -84,13 +94,13 @@ This book is typeset using libre fonts, all of which are licensed under the SIL 
 '''
    
 
-def chapter_html (chapter, is_print, rav_media_paths):
+def chapter_html (chapter, book_type, rav_media_paths):
   ravelling_wrath.main.replace_section_breaks(chapter, "/media/ravelling-wrath/symbols")
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
   #contents, _, _ = blog_server_shared.postprocess_post_string (contents, None, None, False, False)
   contents = ravelling_wrath.main.replace_all_emoji(contents, "/media/vendor/ravelling-wrath/emoji/black")
   
-  if is_print:
+  if book_type.is_print():
     contents = re.sub("<not_print>.+?</not_print>", "", contents)
     contents = re.sub("</?print_only>", "", contents)
   else:
@@ -129,14 +139,14 @@ def chapter_html (chapter, is_print, rav_media_paths):
   return contents
 
 
-def generate_html_and_linked_media_files(build_path, *, is_print, specific_chapter = None):
+def generate_html_and_linked_media_files(build_path, *, book_type, specific_chapter = None):
   os.makedirs (build_path, exist_ok=True)
   rav_media_paths = {}
   chapters = ravelling_wrath.main.chapters
   if specific_chapter is not None:
     chapters = [chapters[specific_chapter]]
   chapters = [
-    chapter_html (chapter, is_print, rav_media_paths) for chapter in chapters
+    chapter_html (chapter, book_type, rav_media_paths) for chapter in chapters
   ]
 
   fonts_css = ravelling_wrath.definitions.fonts_css("", mode="book")
@@ -145,7 +155,7 @@ def generate_html_and_linked_media_files(build_path, *, is_print, specific_chapt
     rav_media_paths[match.group(1)] = "/media/fonts/"+match.group(1)
 
   with open("./ravelling_wrath/book_versions/shared.css") as shared_css, open("./ravelling_wrath/book_versions/print.css") as print_css, open("./ravelling_wrath/book_versions/ebook.css") as ebook_css:
-    css_string = shared_css.read() + (print_css.read() if is_print else ebook_css.read()) + fonts_css
+    css_string = shared_css.read() + (print_css.read() if book_type.is_print() else ebook_css.read()) + fonts_css
   css_string = replace_media_paths(css_string, rav_media_paths)
 
 
@@ -163,7 +173,7 @@ def generate_html_and_linked_media_files(build_path, *, is_print, specific_chapt
     </body>
   </html>'''
 
-  full_html = wrap(replace_media_paths(copyright_page(is_print), rav_media_paths) + "".join (chapters))
+  full_html = wrap(replace_media_paths(copyright_page(book_type), rav_media_paths) + "".join (chapters))
 
 
   with open (os.path.join (build_path, "ravelling_wrath.html"), "w") as file:

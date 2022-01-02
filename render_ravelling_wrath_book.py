@@ -7,7 +7,7 @@ import sys
 import subprocess
 import datetime
 
-import ravelling_wrath.book_versions.shared
+from ravelling_wrath.book_versions.shared import generate_html_and_linked_media_files, BookType
 
 build_path ="./build/ravelling_wrath_book"
 if os.path.exists(build_path):
@@ -20,8 +20,16 @@ specific_chapter = None
 if len(sys.argv) > 1:
   specific_chapter = int(sys.argv[1]) - 1
   
-ravelling_wrath.book_versions.shared.generate_html_and_linked_media_files(os.path.join (build_path, "print"), is_print = True, specific_chapter = specific_chapter)
-ravelling_wrath.book_versions.shared.generate_html_and_linked_media_files(os.path.join (build_path, "ebook"), is_print = False, specific_chapter = specific_chapter)
+generate_html_and_linked_media_files(
+  os.path.join (build_path, "print"),
+  book_type = BookType.PRINT,
+  specific_chapter = specific_chapter,
+)
+generate_html_and_linked_media_files(
+  os.path.join (build_path, "epub"),
+  book_type = BookType.EPUB,
+  specific_chapter = specific_chapter,
+)
       
 print("starting rendering book at "+ datetime.datetime.now().isoformat())
 
