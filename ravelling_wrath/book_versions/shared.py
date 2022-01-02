@@ -154,9 +154,22 @@ def generate_html_and_linked_media_files(build_path, *, book_type, specific_chap
   for match in re.finditer(r"""url\(['"](.+?.ttf)""", fonts_css):
     rav_media_paths[match.group(1)] = "/media/fonts/"+match.group(1)
 
-  with open("./ravelling_wrath/book_versions/shared.css") as shared_css, open("./ravelling_wrath/book_versions/print.css") as print_css, open("./ravelling_wrath/book_versions/ebook.css") as ebook_css:
-    css_string = shared_css.read() + (print_css.read() if book_type.is_print() else ebook_css.read()) + fonts_css
-  css_string = replace_media_paths(css_string, rav_media_paths)
+  css_pieces = [fonts_css]
+  with open("./ravelling_wrath/book_versions/shared.css") as file:
+    css_pieces.append(file.read())
+  if book_type.is_print():
+    with open("./ravelling_wrath/book_versions/print_shared.css") as file:
+      css_pieces.append(file.read())
+    if book_type is BookType.LARGE_PRINT:
+      with open("./ravelling_wrath/book_versions/large_print.css") as file:
+        css_pieces.append(file.read())
+    else:
+      with open("./ravelling_wrath/book_versions/regular_print.css") as file:
+        css_pieces.append(file.read())
+  else:
+    with open("./ravelling_wrath/book_versions/ebook.css") as file:
+      css_pieces.append(file.read())
+  css_string = replace_media_paths("".join(css_pieces), rav_media_paths)
 
 
 

@@ -1,0 +1,51 @@
+@page {
+  size: 6.25in 9.25in;
+  margin: 0.725in;
+}
+@page chapter {
+  @bottom-center {
+    margin-bottom: 0.125in;
+    content: counter(page);
+    font: 12pt "Alegreya SC";
+  }
+}
+@page :left {
+  margin-right: 1.025in;
+  @top-center {
+    margin-top: 0.125in;
+    content: element(runningleft);
+    font: 12pt "Alegreya SC";
+  }
+}
+@page :right {
+  margin-left: 1.025in;
+  @top-center {
+    margin-top: 0.125in;
+    content: element(runningright);
+    font: 12pt "Alegreya SC";
+  }
+}
+@page chapter_10_illustration_page {
+  margin-top: 6in;
+}
+@page chapter_14_illustration_page {
+  margin-top: 6in;
+}
+.chapter_14_illustration_page .after-forced-mid-paragraph-page-break {
+  text-indent: 2.5in;
+}
+
+img.full-page {
+  max-width: 6.25in;
+  max-height: 9.25in;
+}
+img.chapter-header {
+  width: 6.25in;
+  margin-left: -1.025in;
+  margin-right: -0.725in; 
+}
+img.ending {
+  width: 6.25in;
+  margin-right: -1.025in;
+  margin-left: -0.725in; 
+}
