@@ -1,3 +1,8 @@
+a {
+  color: black;
+  text-decoration: none;
+}
+
 @page {
   size: 6.25in 9.25in;
   margin: 0.725in;

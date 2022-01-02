@@ -75,6 +75,14 @@ def fonts_css(fonts_path, mode="web"):
   font-weight: 400;
   """+font_rules("alegreya-sc-v15-latin-regular")+"""
 }
+
+/* lexend-regular - latin */
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 400;
+  """+font_rules("lexend-v12-latin-regular")+"""
+}
 """
 
 head = """<style>

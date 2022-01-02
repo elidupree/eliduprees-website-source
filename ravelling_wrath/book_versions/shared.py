@@ -26,6 +26,40 @@ def replace_media_path(match, rav_media_paths):
 
 def replace_media_paths(contents, rav_media_paths):
   return re.sub(r"/media/(.*?)\?rr", lambda match: replace_media_path(match, rav_media_paths), contents)
+  
+copyright_page = '''
+<div class="copyright-page">
+<img class="rav-section-break watchful-eye" alt="" src="/media/ravelling-wrath/symbols/watchful-eye-section-break.png?rr" />
+<p>
+Ravelling Wrath © 2022 by Eli Dupree is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit: <a href="http://creativecommons.org/licenses/by-sa/4.0/">http://creativecommons.org/licenses/by-sa/4.0/</a>
+</p>
+
+<p>
+Visit the author's website at: <a href="https://www.elidupree.com/">https://www.elidupree.com/</a>
+</p>
+
+<p>
+Illustrations and cover design by Sarah Fensore and Eli Dupree. To see more of Sarah Fensore's artwork, visit: <a href="http://www.sarahfensore.com/">http://www.sarahfensore.com/</a>
+</p>
+
+<p>
+ISBN: TODO (paperback)<br>
+ISBN: TODO (hardcover)<br>
+ISBN: TODO (large print)<br>
+ISBN: TODO (ebook)
+</p>
+
+<p>
+Library of Congress Control Number: TODO
+</p>
+
+<p>
+This is a work of fiction. All names, characters, and incidents portrayed in this story are fictitious. No identification with actual persons (living or deceased), places, or events is intended or should be inferred.
+</p>
+<img class="rav-section-break burning-heart" alt="" src="/media/ravelling-wrath/symbols/burning-heart-section-break.png?rr" />
+</div>
+'''
+   
 
 def chapter_html (chapter, is_print, rav_media_paths):
   ravelling_wrath.main.replace_section_breaks(chapter, "/media/ravelling-wrath/symbols")
@@ -84,30 +118,16 @@ def generate_html_and_linked_media_files(build_path, *, is_print, specific_chapt
 
   fonts_css = ravelling_wrath.definitions.fonts_css("", mode="book")
 
-  for match in re.finditer(r"url\('(.+?.ttf)", fonts_css):
+  for match in re.finditer(r"""url\(['"](.+?.ttf)""", fonts_css):
     rav_media_paths[match.group(1)] = "/media/fonts/"+match.group(1)
 
   with open("./ravelling_wrath/book_versions/shared.css") as shared_css, open("./ravelling_wrath/book_versions/print.css") as print_css, open("./ravelling_wrath/book_versions/ebook.css") as ebook_css:
     css_string = shared_css.read() + (print_css.read() if is_print else ebook_css.read()) + fonts_css
   css_string = replace_media_paths(css_string, rav_media_paths)
 
-  print(rav_media_paths)
-  media_dir = "./media/"
-  media_subdirs = os.listdir(media_dir)
-  for media_subdir in media_subdirs:
-    media_subdir_fullpath = os.path.join(media_dir, media_subdir)
-    for root, dirs, files in os.walk(media_subdir_fullpath):
-      for media_filename in files:
-        source = os.path.join(root, media_filename)
-        if media_filename in rav_media_paths:
-          if ("color" in rav_media_paths[media_filename]) == ("color" in root):
-            destination = os.path.join(build_path, media_filename)
-            os.makedirs (os.path.dirname(destination), exist_ok = True)
-            shutil.copy(source, destination)
 
 
   def wrap(html):
-
    return '''<!DOCTYPE html>
   <html lang="en">
     <head>
@@ -120,7 +140,7 @@ def generate_html_and_linked_media_files(build_path, *, is_print, specific_chapt
     </body>
   </html>'''
 
-  full_html = wrap("".join (chapters))
+  full_html = wrap(replace_media_paths(copyright_page, rav_media_paths) + "".join (chapters))
 
 
   with open (os.path.join (build_path, "ravelling_wrath.html"), "w") as file:
@@ -128,3 +148,18 @@ def generate_html_and_linked_media_files(build_path, *, is_print, specific_chapt
     
   with open(os.path.join (build_path, "style.css"), "w") as file:
     file.write (css_string)
+  
+  #print(rav_media_paths)
+  media_dir = "./media/"
+  media_subdirs = os.listdir(media_dir)
+  for media_subdir in media_subdirs:
+    media_subdir_fullpath = os.path.join(media_dir, media_subdir)
+    for root, dirs, files in os.walk(media_subdir_fullpath):
+      for media_filename in files:
+        source = os.path.join(root, media_filename)
+        if media_filename in rav_media_paths:
+          if ("color" in rav_media_paths[media_filename]) == ("color" in root):
+            destination = os.path.join(build_path, media_filename)
+            os.makedirs (os.path.dirname(destination), exist_ok = True)
+            shutil.copy(source, destination)
+    

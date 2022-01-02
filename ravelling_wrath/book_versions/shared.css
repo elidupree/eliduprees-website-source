@@ -145,3 +145,10 @@ img.rav-section-break {
 img.rav-section-break.nonaligned {
   width: 80%;
 }
+
+.copyright-page p {
+  font: 11pt "Lexend";
+  text-align: center;
+  text-indent: 0;
+  margin-bottom: 1.2em;
+}

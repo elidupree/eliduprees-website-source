@@ -13,6 +13,7 @@ content_opf = '''
     <dc:publisher>Eli Dupree</dc:publisher>
     <dc:date>'''+datetime.date.today().isoformat()+'''</dc:date>
     <dc:contributor opf:role="cov" opf:file-as="Fensore, Sarah">Sarah Fensore</dc:contributor>
+    <dc:contributor opf:role="ill" opf:file-as="Fensore, Sarah">Sarah Fensore</dc:contributor>
     <dc:identifier id="uuid_id" opf:scheme="uuid">c0b3ea68-aced-4746-966b-7b0fc27ba1fc</dc:identifier>
     '''+'''
     '''.join(f'''<dc:subject>{tag}</dc:subject>''' for tag in tags) + '''
