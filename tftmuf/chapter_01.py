@@ -12,6 +12,8 @@ posts = [
   "chapter_title": "The ?????",
   "contents": '''
   
+Before I start telling you what I remember, I'd like to be clear about one thing. I don't want you to think of me as "<em>the real</em> Marvin ?????", or "<em>the original</em> Marvin ?????", or anything like that. Time travel doesn't make distinctions like that. Your brain is going to want to think of me that way, because I'm the one you know about – the one telling you the story.
+
 [????? They hired me to do this weird graphics stuff, I guess it was for some psychological research but I have no idea what it was for]
 
 [????? I looked up this place, but hardly found anything, certainly it wasn't a place that would be treating children medically or anything; it got harder and harder to think of innocent explanations for what I'd seen, but I hesitated]
