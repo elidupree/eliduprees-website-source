@@ -1,7 +1,13 @@
 @page {
-  size: 8.75in 11.25in;
-  margin: 0.725in;
+  size: 8.52in 11.94in;
+  margin: 0.625in;
   margin-bottom: 0.875in;
+}
+@page :left {
+  margin-right: 1.025in;
+}
+@page :right {
+  margin-left: 1.025in;
 }
 @page chapter {
   @bottom-center {
@@ -32,19 +38,15 @@
   text-indent: 3.5in;
 }
 
-img.full-page {
-  max-width: 8.75in;
-  max-height: 11.25in;
-}
 img.chapter-header {
-  width: 8.75in;
+  width: 100vw;
   margin-left: -1.025in;
-  margin-right: -0.725in; 
+  margin-right: -0.625in; 
 }
 img.ending {
-  width: 8.75in;
+  width: 100vw;
   margin-right: -1.025in;
-  margin-left: -0.725in; 
+  margin-left: -0.625in; 
 }
 
 .chapter p {
@@ -71,5 +73,8 @@ h2 {
 em {
   font-style: normal;
   font-weight: bold;
+}
+strong {
+  font-weight: 900;
 }
 

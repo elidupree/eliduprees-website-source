@@ -10,11 +10,6 @@ import datetime
 from ravelling_wrath.book_versions.shared import generate_html_and_linked_media_files, BookType
 
 build_path ="./build/ravelling_wrath_book"
-if os.path.exists(build_path):
-  #
-  for root, dirs, files in os.walk(build_path):
-    for filename in files:
-      os.remove(os.path.join(root, filename))
 
 specific_chapter = None
 if len(sys.argv) > 1:

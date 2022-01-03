@@ -140,7 +140,12 @@ def chapter_html (chapter, book_type, rav_media_paths):
 
 
 def generate_html_and_linked_media_files(build_path, *, book_type, specific_chapter = None):
+  if os.path.exists(build_path):
+    for root, dirs, files in os.walk(build_path):
+      for filename in files:
+        os.remove(os.path.join(root, filename))
   os.makedirs (build_path, exist_ok=True)
+  
   rav_media_paths = {}
   chapters = ravelling_wrath.main.chapters
   if specific_chapter is not None:
