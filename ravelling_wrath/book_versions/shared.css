@@ -163,3 +163,30 @@ img.rav-section-break.nonaligned {
 .copyright-page table.font-grid td:first-child {
   padding-right: 0.5em;
 }
+
+.table-of-contents {
+  font: 14pt "Alegreya SC";
+}
+.toc-row {
+  display: flex;
+}
+.toc-chapter-number {
+  flex-shrink: 0;
+  width: 2em;
+  padding-right: 0.6em;
+  text-align: right;
+}
+.toc-title {
+  flex-shrink: 0;
+}
+.toc-dots {
+  overflow: hidden;
+  letter-spacing: 2px;
+  padding-left: 0.25em;
+}
+.toc-page-number::after {
+  content: target-counter(attr(data-href), page);
+  flex-shrink: 0;
+  padding-left: 0.25em;
+}
+

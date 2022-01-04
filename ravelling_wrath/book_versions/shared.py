@@ -92,7 +92,21 @@ This book is typeset using libre fonts, all of which are licensed under the SIL 
 <img class="rav-section-break burning-heart" alt="" src="/media/ravelling-wrath/symbols/burning-heart-section-break.png?rr" />
 </div>
 '''
-   
+
+def table_of_contents(book_type, chapters):
+  html_entries = [
+    f'<a class="toc-row" href="#chapter_{chapter["chapter_number"]}"><span class="toc-chapter-number">{chapter["chapter_number"]}.</span><span class="toc-title">{chapter["chapter_title"]}</span><span class="toc-dots">.................................................................................................................................................</span><span class="toc-page-number" data-href="#chapter_{chapter["chapter_number"]}"></span></a>'
+    for chapter in chapters
+  ]
+
+  return f'''
+<div class="table-of-contents">
+<div class="chapter-title">Contents</div>
+<table>
+{"".join(html_entries)}
+</table>
+</div>
+'''
 
 def chapter_html (chapter, book_type, rav_media_paths):
   ravelling_wrath.main.replace_section_breaks(chapter, "/media/ravelling-wrath/symbols")
@@ -119,7 +133,7 @@ def chapter_html (chapter, book_type, rav_media_paths):
   rav_media_paths[running_symbol_filename] = running_symbol_filename
   
   contents = f'''
-  <div class="chapter chapter_{chapter ["chapter_number"]} {chapter.get("post_class", "")}">
+  <div id="chapter_{chapter ["chapter_number"]}" class="chapter chapter_{chapter ["chapter_number"]} {chapter.get("post_class", "")}">
   <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
@@ -150,6 +164,8 @@ def generate_html_and_linked_media_files(build_path, *, book_type, specific_chap
   chapters = ravelling_wrath.main.chapters
   if specific_chapter is not None:
     chapters = [chapters[specific_chapter]]
+    
+  toc_html = table_of_contents(book_type, chapters)
   chapters = [
     chapter_html (chapter, book_type, rav_media_paths) for chapter in chapters
   ]
@@ -191,7 +207,7 @@ def generate_html_and_linked_media_files(build_path, *, book_type, specific_chap
     </body>
   </html>'''
 
-  full_html = wrap(replace_media_paths(copyright_page(book_type), rav_media_paths) + "".join (chapters))
+  full_html = wrap(replace_media_paths(copyright_page(book_type), rav_media_paths) + toc_html + "".join (chapters))
 
 
   with open (os.path.join (build_path, "ravelling_wrath.html"), "w") as file:

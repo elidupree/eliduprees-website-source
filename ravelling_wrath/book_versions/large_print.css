@@ -62,6 +62,9 @@ img.ending {
 .copyright-page table {
   font: 20pt "Lexend";
 }
+.table-of-contents {
+  font: 20pt "Lexend";
+}
 h2 {
   font: 22pt "Alegreya SC";
   font-weight: 800;
