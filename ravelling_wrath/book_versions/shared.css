@@ -1,4 +1,4 @@
-body, .chapter_1 {
+body {
   counter-reset: page 1;
 }
 @page {
@@ -54,7 +54,7 @@ p {
   font-size: 112%;
   line-height: 1.2em;
 }
-h2 {
+h2.chapter-number {
   font: 16pt "Alegreya SC";
   font-weight: 800;
   text-align: center;
@@ -138,6 +138,28 @@ img.rav-section-break.nonaligned {
   width: 80%;
 }
 
+
+
+.title-page {
+  page: title;
+  padding-top: 15vh;
+  text-align: center;
+}
+.title-page h1 {
+  font: 40pt "Alegreya SC";
+  font-weight: 800;
+  margin-bottom: 40vh;
+}
+.title-page .author {
+  font: 22pt "Kadwa";
+  margin-bottom: 0.3em;
+}
+.title-page .illustrator {
+  font: 14pt "Kadwa";
+}
+
+
+
 .copyright-page {
   page: copyright;
 }
@@ -164,6 +186,8 @@ img.rav-section-break.nonaligned {
   padding-right: 0.5em;
 }
 
+
+
 .table-of-contents {
   font: 14pt "Alegreya SC";
 }
@@ -188,5 +212,29 @@ img.rav-section-break.nonaligned {
   content: target-counter(attr(data-href), page);
   flex-shrink: 0;
   padding-left: 0.25em;
+}
+
+
+.content-warning-notice {
+  page: content_warning_notice;
+  padding-top: 18vh;
+  text-align: justify;
+  font: 12pt "Kadwa";
+  line-height: 1.25;
+}
+.content-warning-notice h2 {
+  text-align: center;
+  font-size: 16pt; 
+}
+.content-warning-notice p {
+  margin-bottom: 0.8em;
+}
+.content-warning-notice a::after {
+  content: target-counter(attr(href), page);
+}
+
+
+.content-warnings {
+  page: content_warnings;
 }
 

@@ -38,6 +38,16 @@ def replace_media_path(match, rav_media_paths):
 def replace_media_paths(contents, rav_media_paths):
   return re.sub(r"/media/(.*?)\?rr", lambda match: replace_media_path(match, rav_media_paths), contents)
   
+title_page = '''
+<div class="title-page">
+<h1>Ravelling Wrath</h1>
+
+<div class="author">Eli Dupree</div>
+<div class="illustrator">Illustrated by Sarah Fensore and Eli Dupree</div>
+
+</div>
+'''
+  
 def copyright_page(book_type):
   if book_type.is_print():
     axdxrxexsxs = f"RavellingWrath{exmxaxixl.atdomain}"
@@ -108,6 +118,30 @@ def table_of_contents(book_type, chapters):
 </div>
 '''
 
+content_warning_notice = '''
+<div class="content-warning-notice">
+<h2>Content warnings for this novel</h2>
+
+<p>
+We believe that readers have a right to choose when and how they engage with sensitive topics. Thus, we provide this short summary of how this book addresses sensitive topics, with minimal spoilers:
+</p>
+
+<p>
+<cite>Ravelling Wrath</cite> attempts to take an empowering approach to issues of trauma and abuse. Topics include child abuse, sexual assault, self-harm, and depression, but the story avoids narrating prolonged scenes of abuse "on-camera", and focuses on how the characters cope, form healthy relationships, and try to do better in the present. The two main characters face traumatic and life-threatening situations, but they survive and get a relatively happy ending.
+</p>
+
+<p>
+More-detailed content warnings (with slightly more spoilers) are <a href="#content_warnings">available on page </a>.
+</p>
+</div>
+'''
+
+content_warnings = '''
+<div id="content_warnings" class="content-warnings">
+placeholder
+</div>
+'''
+
 def chapter_html (chapter, book_type, rav_media_paths):
   ravelling_wrath.main.replace_section_breaks(chapter, "/media/ravelling-wrath/symbols")
   contents = post_contents_utils.auto_paragraphs (chapter ["contents"])
@@ -134,7 +168,7 @@ def chapter_html (chapter, book_type, rav_media_paths):
   
   contents = f'''
   <div id="chapter_{chapter ["chapter_number"]}" class="chapter chapter_{chapter ["chapter_number"]} {chapter.get("post_class", "")}">
-  <h2>Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
+  <h2 class="chapter-number">Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
   <div class="runningleft">
@@ -206,8 +240,16 @@ def generate_html_and_linked_media_files(build_path, *, book_type, specific_chap
   '''+html+'''
     </body>
   </html>'''
+  
+  copyright = replace_media_paths(copyright_page(book_type), rav_media_paths)
 
-  full_html = wrap(replace_media_paths(copyright_page(book_type), rav_media_paths) + toc_html + "".join (chapters))
+  full_html = wrap(
+    title_page
+    + copyright
+    + toc_html
+    + content_warning_notice
+    + "".join (chapters)
+    + content_warnings)
 
 
   with open (os.path.join (build_path, "ravelling_wrath.html"), "w") as file:

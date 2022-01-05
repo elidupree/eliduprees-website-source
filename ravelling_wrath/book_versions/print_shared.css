@@ -1,3 +1,6 @@
+.chapter_1 {
+  counter-reset: page 1;
+}
 a {
   color: black;
   text-decoration: none;
@@ -36,7 +39,7 @@ a {
     content: none;
   }
 }
-.chapter {
+.chapter,.content-warning-notice {
   break-before: right;
 }
 .chapter_7_illustration_page {
