@@ -24,7 +24,9 @@ class BookType(Enum):
   EPUB = auto()
 
   def is_print(self):
-    return (self is BookType.PRINT or self is BookType.LARGE_PRINT)
+    return (self in [BookType.PRINT, BookType.LARGE_PRINT])
+  def is_large_print(self):
+    return (self in [BookType.LARGE_PRINT])
 
 
 def replace_media_path(match, rav_media_paths):
@@ -53,6 +55,25 @@ def copyright_page(book_type):
     axdxrxexsxs = f"RavellingWrath{exmxaxixl.atdomain}"
   else:
     axdxrxexsxs = f"ravelling.wrath{exmxaxixl.atdomain}"
+  
+  fonts = [
+    ("Front cover", "Alegreya Sans SC"),
+  ]
+  if book_type.is_large_print():
+    fonts += [
+      ("Titles", "Alegreya Sans"),
+      ("Main text", "Lexend"),
+    ]
+  else:
+    fonts += [
+      ("Titles, running heads", "Alegreya SC"),
+      ("Main text", "Kadwa"),
+      ("Narration by Yali", "Kreon"),
+      ("This page", "Lexend"),
+    ]
+  
+  fonts = "\n".join(f"<tr><td>{purpose}:</td><td>{font}</td></tr>" for purpose, font in fonts)
+    
   return f'''
 <div class="copyright-page">
 <img class="rav-section-break watchful-eye" alt="" src="/media/ravelling-wrath/symbols/watchful-eye-section-break.png?rr" />
@@ -92,11 +113,7 @@ This book is typeset using libre fonts, all of which are licensed under the SIL 
 </p>
 
 <table class="font-grid">
-<tr><td>Front cover:</td><td>Alegreya Sans SC</td></tr>
-<tr><td>Titles, running heads:</td><td>Alegreya SC</td></tr>
-<tr><td>Main text:</td><td>Kadwa</td></tr>
-<tr><td>Narration by Yali:</td><td>Kreon</td></tr>
-<tr><td>This page:</td><td>Lexend</td></tr>
+{fonts}
 </table>
 
 <img class="rav-section-break burning-heart" alt="" src="/media/ravelling-wrath/symbols/burning-heart-section-break.png?rr" />
@@ -138,6 +155,7 @@ More-detailed content warnings (with slightly more spoilers) are <a href="#conte
 
 content_warnings = '''
 <div id="content_warnings" class="content-warnings">
+<h2>Detailed content warnings</h2>
 placeholder
 </div>
 '''
@@ -215,7 +233,7 @@ def generate_html_and_linked_media_files(build_path, *, book_type, specific_chap
   if book_type.is_print():
     with open("./ravelling_wrath/book_versions/print_shared.css") as file:
       css_pieces.append(file.read())
-    if book_type is BookType.LARGE_PRINT:
+    if book_type.is_large_print():
       with open("./ravelling_wrath/book_versions/large_print.css") as file:
         css_pieces.append(file.read())
     else:

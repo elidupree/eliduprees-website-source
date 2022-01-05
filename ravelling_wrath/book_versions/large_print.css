@@ -56,22 +56,16 @@ img.ending {
   line-height: 1.5;
   text-align: left;
 }
-.copyright-page p {
-  font: 20pt "Lexend";
-}
-.copyright-page table {
-  font: 20pt "Lexend";
-}
-.table-of-contents {
-  font: 20pt "Lexend";
-}
-h2 {
-  font: 22pt "Alegreya SC";
-  font-weight: 800;
+h2.chapter-number {
+  font: 28pt "Alegreya Sans";
+  font-weight: bold;
 }
 .chapter-title {
-  font: 30pt "Alegreya SC";
-  font-weight: 800;
+  font: 42pt "Alegreya Sans";
+  font-weight: bold;
+}
+cite {
+  font-style: normal;
 }
 em {
   font-style: normal;
@@ -81,3 +75,48 @@ strong {
   font-weight: 900;
 }
 
+
+
+.title-page h1 {
+  font: 70pt "Alegreya Sans";
+  font-weight: 800;
+}
+.title-page .author {
+  font: 30pt "Lexend";
+  margin-bottom: 0.3em;
+}
+.title-page .illustrator {
+  font: 20pt "Lexend";
+}
+
+
+
+.copyright-page p {
+  font: 20pt "Lexend";
+}
+.copyright-page table {
+  font: 20pt "Lexend";
+}
+
+
+
+.table-of-contents {
+  font: 20pt "Lexend";
+}
+
+
+
+.content-warning-notice {
+  padding-top: 7vh;
+}
+.content-warning-notice p {
+  font: 20pt "Lexend";
+  margin-bottom: 1.2em;
+  text-indent: 0;
+  line-height: 1.5;
+  text-align: left;
+}
+.content-warning-notice h2 {
+  text-align: left;
+  font-size: 26pt; 
+}
