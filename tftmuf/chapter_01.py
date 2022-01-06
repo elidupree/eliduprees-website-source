@@ -75,6 +75,8 @@ The next few minutes were a ?????horrifying blur. It was the animation I'd been 
 "– a time machine, they have a time machine. Tell me when you can understand me. They have a time machine. They have a time machine. Tell me when you can understand –"
 
 
+"Everyone but the scientists in charge is under some kind of mind control"
+
 
 ''',
 },
