@@ -61,6 +61,14 @@ def fonts_css(fonts_path, mode="web"):
 }
 
 
+/* alegreya-sans-regular - latin */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  """+font_rules("alegreya-sans-v14-latin-regular")+"""
+}
+
 /* alegreya-sans-800 - latin */
 @font-face {
   font-family: 'Alegreya Sans';

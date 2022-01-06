@@ -128,7 +128,8 @@ img.rav-section-break {
 
 
 .table-of-contents {
-  font: 20pt "Lexend";
+  font: 24pt "Lexend";
+  line-height: 1.7;
 }
 
 
