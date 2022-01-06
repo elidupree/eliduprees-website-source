@@ -17,6 +17,7 @@
 @page chapter :left {
   @bottom-left-corner {
     margin-bottom: 0.125in;
+    margin-left: 0.125in;
     content: counter(page);
     font: 20pt "Lexend";
   }
@@ -24,6 +25,7 @@
 @page chapter :right {
   @bottom-right-corner {
     margin-bottom: 0.125in;
+    margin-right: 0.125in;
     content: counter(page);
     font: 20pt "Lexend";
   }
@@ -31,6 +33,7 @@
 @page content_warnings :left {
   @bottom-left-corner {
     margin-bottom: 0.125in;
+    margin-left: 0.125in;
     content: counter(page);
     font: 20pt "Lexend";
   }
@@ -38,6 +41,7 @@
 @page content_warnings :right {
   @bottom-right-corner {
     margin-bottom: 0.125in;
+    margin-right: 0.125in;
     content: counter(page);
     font: 20pt "Lexend";
   }
@@ -88,12 +92,21 @@ em {
 strong {
   font-weight: 900;
 }
+img.rav-section-break {
+  margin: 3em auto;
+}
 
 
 
 .title-page h1 {
   font: 70pt "Alegreya Sans";
   font-weight: 800;
+  margin-bottom: 1vh;
+}
+.title-page .volume {
+  font: 43pt "Alegreya Sans";
+  font-weight: 800;
+  margin-bottom: 38vh;
 }
 .title-page .author {
   font: 30pt "Lexend";
@@ -132,5 +145,15 @@ strong {
 }
 .chapter-12-summary h2 {
   break-before: page;
+}
+
+
+
+.continued-in-volume-2 {
+  break-before: page;
+  padding-top: 35vh;
+  font: 50pt "Lexend";
+  font-weight: bold;
+  text-align: center;
 }
 

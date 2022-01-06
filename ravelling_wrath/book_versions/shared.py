@@ -20,13 +20,14 @@ import ravelling_wrath.definitions
 
 class BookType(Enum):
   PRINT = auto()
-  LARGE_PRINT = auto()
+  LARGE_PRINT_1 = auto()
+  LARGE_PRINT_2 = auto()
   EPUB = auto()
 
   def is_print(self):
-    return (self in [BookType.PRINT, BookType.LARGE_PRINT])
+    return (self in [BookType.PRINT, BookType.LARGE_PRINT_1, BookType.LARGE_PRINT_2])
   def is_large_print(self):
-    return (self in [BookType.LARGE_PRINT])
+    return (self in [BookType.LARGE_PRINT_1, BookType.LARGE_PRINT_2])
 
 
 def replace_media_path(match, rav_media_paths):
@@ -40,10 +41,17 @@ def replace_media_path(match, rav_media_paths):
 def replace_media_paths(contents, rav_media_paths):
   return re.sub(r"/media/(.*?)\?rr", lambda match: replace_media_path(match, rav_media_paths), contents)
   
-title_page = '''
+def title_page(book_type):
+  volume = ''
+  if book_type is BookType.LARGE_PRINT_1:
+    volume = '<div class="volume">Large print volume 1</div>'
+  if book_type is BookType.LARGE_PRINT_2:
+    volume = '<div class="volume">Large print volume 2</div>'
+  
+  return f'''
 <div class="title-page">
 <h1>Ravelling Wrath</h1>
-
+{volume}
 <div class="author">Eli Dupree</div>
 <div class="illustrator">Illustrated by Sarah Fensore and Eli Dupree</div>
 
@@ -254,9 +262,19 @@ def generate_html_and_linked_media_files(build_path, *, book_type, specific_chap
   
   rav_media_paths = {}
   chapters = ravelling_wrath.main.chapters
+  large_print_split_chapter = 12;
   if specific_chapter is not None:
     chapters = [chapters[specific_chapter]]
-    
+  elif book_type is BookType.LARGE_PRINT_1:
+    chapters = chapters[:large_print_split_chapter]
+  elif book_type is BookType.LARGE_PRINT_2:
+    chapters = chapters[large_print_split_chapter:]
+  
+  chapters[0]["post_class"] = chapters[0].get("post_class", "") + " first-chapter-in-volume"
+  if book_type is BookType.LARGE_PRINT_1:
+    chapters[-1]["contents"] += '''
+<div class="continued-in-volume-2">Continued in Volume 2…</div>'''
+  
   toc_html = table_of_contents(book_type, chapters)
   chapters = [
     chapter_html (chapter, book_type, rav_media_paths) for chapter in chapters
@@ -300,14 +318,22 @@ def generate_html_and_linked_media_files(build_path, *, book_type, specific_chap
   </html>'''
   
   copyright = replace_media_paths(copyright_page(book_type), rav_media_paths)
+  
+  html_parts = [
+    title_page(book_type),
+    copyright,
+    toc_html,
+  ]
+  
+  if book_type is not BookType.LARGE_PRINT_2:
+    html_parts.append(content_warning_notice)
+    
+  html_parts += chapters
+  
+  if book_type is not BookType.LARGE_PRINT_2:
+    html_parts.append(content_warnings)
 
-  full_html = wrap(
-    title_page
-    + copyright
-    + toc_html
-    + content_warning_notice
-    + "".join (chapters)
-    + content_warnings)
+  full_html = wrap("".join (html_parts))
 
 
   with open (os.path.join (build_path, "ravelling_wrath.html"), "w") as file:

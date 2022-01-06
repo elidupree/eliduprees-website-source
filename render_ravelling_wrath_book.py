@@ -44,8 +44,11 @@ def render_print_version (directory, book_type):
 if "print" in sys.argv:
   render_print_version ("print", BookType.PRINT)
   
-if "large_print" in sys.argv:
-  render_print_version ("large_print", BookType.LARGE_PRINT)
+if "large_print_1" in sys.argv:
+  render_print_version ("large_print_1", BookType.LARGE_PRINT_1)
+
+if "large_print_2" in sys.argv:
+  render_print_version ("large_print_2", BookType.LARGE_PRINT_2)
   
   
     
