@@ -9,7 +9,7 @@
 @page :right {
   margin-left: 1.025in;
 }
-@page chapter {
+@page {
   @bottom-center {
     content: none;
   }
@@ -22,6 +22,20 @@
   }
 }
 @page chapter :right {
+  @bottom-right-corner {
+    margin-bottom: 0.125in;
+    content: counter(page);
+    font: 20pt "Lexend";
+  }
+}
+@page content_warnings :left {
+  @bottom-left-corner {
+    margin-bottom: 0.125in;
+    content: counter(page);
+    font: 20pt "Lexend";
+  }
+}
+@page content_warnings :right {
   @bottom-right-corner {
     margin-bottom: 0.125in;
     content: counter(page);
@@ -49,7 +63,7 @@ img.ending {
   margin-left: -0.625in; 
 }
 
-.chapter p {
+.chapter p,.content-warning-notice p,.content-warnings li,.chapter-12-summary p {
   font: 20pt "Lexend";
   margin-bottom: 1.2em;
   text-indent: 0;
@@ -109,14 +123,14 @@ strong {
 .content-warning-notice {
   padding-top: 7vh;
 }
-.content-warning-notice p {
-  font: 20pt "Lexend";
-  margin-bottom: 1.2em;
-  text-indent: 0;
-  line-height: 1.5;
-  text-align: left;
-}
-.content-warning-notice h2 {
+.content-warning-notice h2,.content-warnings h2,.chapter-12-summary h2 {
   text-align: left;
   font-size: 26pt; 
 }
+.content-warnings h3 {
+  font-size: 22pt; 
+}
+.chapter-12-summary h2 {
+  break-before: page;
+}
+

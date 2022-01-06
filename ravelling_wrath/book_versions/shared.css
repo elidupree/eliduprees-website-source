@@ -229,12 +229,27 @@ img.rav-section-break.nonaligned {
 .content-warning-notice p {
   margin-bottom: 0.8em;
 }
-.content-warning-notice a::after {
+a.crosslink::after {
   content: target-counter(attr(href), page);
 }
 
 
-.content-warnings {
+.content-warnings,.chapter-12-summary {
   page: content_warnings;
+  font: 12pt "Kadwa";
+  line-height: 1.25;
+}
+.content-warnings {
+  break-before: left;
+}
+.chapter-12-summary {
+  break-before: page;
+}
+.content-warnings h2,.chapter-12-summary h2 {
+  text-align: center;
+  font-size: 16pt; 
+}
+.content-warnings h3 {
+  font-size: 13pt; 
 }
 

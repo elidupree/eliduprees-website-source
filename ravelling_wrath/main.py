@@ -224,15 +224,10 @@ Content warnings for Ravelling Wrath as a whole:
 <bigbreak>''' + posts [0] ["contents"])
 
 
-# note: partly duplicated language from the chapter 12 content warnings
-extra_posts = [
-{
-  "title":"Summary of Ravelling Wrath, chapter 12",
-  "title_url_override": "12-summary",
-  "auto_paragraphs": True,
-  "contents":'''
+def chapter_12_summary(chapter_descriptor):
+  return f'''
 
-The majority of <a href="/ravelling-wrath/12">Ravelling Wrath, chapter 12</a> is an explicit, detailed narration of an experience of depression, including anhedonia, dissociation, negative self-talk, and being coerced into obeying authority. From my personal experience with depression, I know that it's sometimes valuable to avoid exposure to content like this. Thus, I've prepared this summary, so that you can read the summary instead of the chapter if needed.
+The majority of {chapter_descriptor} is an explicit, detailed narration of an experience of depression, including anhedonia, dissociation, negative self-talk, and being coerced into obeying authority. From my personal experience with depression, I know that it's sometimes valuable to avoid exposure to content like this. Thus, I've prepared this summary, so that you can read the summary instead of the chapter if needed.
 
 Skipping chapter 12 and reading this summary instead is an <strong>officially supported</strong> way of reading Ravelling Wrath.
 
@@ -248,7 +243,15 @@ Rinn wouldn't normally obey the Stern God's rules. But, because of the depressio
 
 When Rinn finally gets to Yali, Rinn hardly has any feelings about Yali at all. Alchemist is also there; Yali and Alchemist have been preparing for what's about to happen. As the chapter ends, Rinn "remembers" what to do, summons a Blood Blade, and stabs Yali with it.
 
-''',
+'''
+
+# note: partly duplicated language from the chapter 12 content warnings
+extra_posts = [
+{
+  "title":"Summary of Ravelling Wrath, chapter 12",
+  "title_url_override": "12-summary",
+  "auto_paragraphs": True,
+  "contents": chapter_12_summary('<a href="/ravelling-wrath/12">Ravelling Wrath, chapter 12</a>'),
 },
 
 ]

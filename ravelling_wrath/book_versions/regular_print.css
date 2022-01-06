@@ -9,6 +9,13 @@
     font: 12pt "Alegreya SC";
   }
 }
+@page content_warnings {
+  @bottom-center {
+    margin-bottom: 0.125in;
+    content: counter(page);
+    font: 12pt "Alegreya SC";
+  }
+}
 @page :left {
   margin-right: 1.025in;
   @top-center {

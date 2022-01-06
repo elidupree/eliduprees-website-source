@@ -148,15 +148,55 @@ We believe that readers have a right to choose when and how they engage with sen
 </p>
 
 <p>
-More-detailed content warnings (with slightly more spoilers) are <a href="#content_warnings">available on page </a>.
+More-detailed content warnings (with slightly more spoilers) are <a href="#content_warnings" class="crosslink">available on page </a>.
 </p>
 </div>
 '''
 
-content_warnings = '''
+content_warnings = f'''
 <div id="content_warnings" class="content-warnings">
-<h2>Detailed content warnings</h2>
-placeholder
+
+<div class="runningleft">
+  Ravelling Wrath
+</div>
+<div class="runningright">
+  Appendix: Content warnings
+</div>
+  
+<h2>Appendix: Detailed content warnings</h2>
+
+<h3>Things that are shown in detail, "on-camera"</h3>
+<ul>
+<li>Characters fight for their lives and get stabbed with swords. There are some graphic descriptions of physical injuries and death. (The two main characters don't die, though.)</li>
+<li>A narrator has strange and unpleasant experiences in their brain due to supernatural forces.</li>
+<li>A narrator has depressed thoughts, including dissociation, anhedonia, negative self-talk, and being coerced into obeying authority. The worst part of this is a single chapter, which can be skipped (see <a href="#chapter_12_summary" class="crosslink">"summary of chapter 12" on page </a>).</li>
+<li>A narrator with PTSD copes with strong feelings, especially guilt and hatred.</li>
+<li>A narrator copes with anger about another character being sexually assaulted.</li>
+<li>A character engages in self-harm and makes suicidal statements.</li>
+</ul>
+
+<h3>Significant things that happen "off-camera"</h3>
+<ul>
+<li>Characters experience child abuse and neglect, including physical, verbal, and sexual abuse; an abusive "troubled teen" school; homelessness and survival sex work; and adults denying that the abuse happened. A few lines of verbally abusive dialogue are shown, but very few physical details of the abuse are shown. Some characters who have been abused deny how bad the abuse was, or make justifications for it.</li>
+<li>Characters have to interact with the police, who are sometimes violent or corrupt.</li>
+</ul>
+
+<h3>Things that appear only briefly</h3>
+
+<ul>
+<li>Anti-gay attitudes</li>
+<li>Animal abuse</li>
+<li>Misogynistic thoughts</li>
+</ul>
+
+
+</div>
+
+<div id="chapter_12_summary" class="chapter-12-summary">
+<h2>Summary of chapter 12</h2>
+
+{post_contents_utils.auto_paragraphs(ravelling_wrath.main.chapter_12_summary('chapter 12'))}
+
 </div>
 '''
 
