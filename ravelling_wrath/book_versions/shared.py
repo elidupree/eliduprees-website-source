@@ -130,7 +130,7 @@ This book is typeset using libre fonts, all of which are licensed under the SIL 
 
 def table_of_contents(book_type, chapters):
   html_entries = [
-    f'<a class="toc-row" href="#chapter_{chapter["chapter_number"]}"><span class="toc-chapter-number">{chapter["chapter_number"]}.</span><span class="toc-title">{chapter["chapter_title"]}</span><span class="toc-dots">.................................................................................................................................................</span><span class="toc-page-number" data-href="#chapter_{chapter["chapter_number"]}"></span></a>'
+    f'<a class="toc-row" href="#chapter_{chapter["chapter_number"]}_start"><span class="toc-chapter-number">{chapter["chapter_number"]}.</span><span class="toc-title">{chapter["chapter_title"]}</span><span class="toc-dots">.................................................................................................................................................</span><span class="toc-page-number" data-href="#chapter_{chapter["chapter_number"]}_start"></span></a>'
     for chapter in chapters
   ]
 
@@ -177,7 +177,7 @@ content_warnings = f'''
 <ul>
 <li>Characters fight for their lives and get stabbed with swords. There are some graphic descriptions of physical injuries and death. (The two main characters don't die, though.)</li>
 <li>A narrator has strange and unpleasant experiences in their brain due to supernatural forces.</li>
-<li>A narrator has depressed thoughts, including dissociation, anhedonia, negative self-talk, and being coerced into obeying authority. The worst part of this is a single chapter, which can be skipped (see <a href="#chapter_12_summary" class="crosslink">"summary of chapter 12" on page </a>).</li>
+<li>A narrator has depressed thoughts, including dissociation, anhedonia, negative self-talk, and being coerced into obeying authority. The worst part of this is a single chapter, which can be skipped (see <a href="#chapter_12_summary_start" class="crosslink">"summary of chapter 12" on page </a>).</li>
 <li>A narrator with PTSD copes with strong feelings, especially guilt and hatred.</li>
 <li>A narrator copes with anger about another character being sexually assaulted.</li>
 <li>A character engages in self-harm and makes suicidal statements.</li>
@@ -201,7 +201,7 @@ content_warnings = f'''
 </div>
 
 <div id="chapter_12_summary" class="chapter-12-summary">
-<h2>Summary of chapter 12</h2>
+<h2 id="chapter_12_summary_start">Summary of chapter 12</h2>
 
 {post_contents_utils.auto_paragraphs(ravelling_wrath.main.chapter_12_summary('chapter 12'))}
 
@@ -234,7 +234,7 @@ def chapter_html (chapter, book_type, rav_media_paths):
   
   contents = f'''
   <div id="chapter_{chapter ["chapter_number"]}" class="chapter chapter_{chapter ["chapter_number"]} {chapter.get("post_class", "")}">
-  <h2 class="chapter-number">Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
+  <h2 id="chapter_{chapter ["chapter_number"]}_start" class="chapter-number">Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
   <div class="chapter-title">{chapter ["chapter_title"]}</div>
   
   <div class="runningleft">
@@ -322,8 +322,10 @@ def generate_html_and_linked_media_files(build_path, *, book_type, specific_chap
   html_parts = [
     title_page(book_type),
     copyright,
-    toc_html,
   ]
+  
+  if book_type.is_print():
+    html_parts.append(toc_html)
   
   if book_type is not BookType.LARGE_PRINT_2:
     html_parts.append(content_warning_notice)

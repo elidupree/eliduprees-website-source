@@ -1,37 +1,21 @@
-@page {
-  margin: 0.6in;
-}
-@page chapter {
-  @bottom-center {
-    content: counter(page);
-    font: 12pt "Alegreya SC";
-  }
+.runningleft,.runningright {
+  display: none;
 }
 
 .chapter {
   break-before: page;
 }
 
-@page full_page_image {
-  margin: 0;
-  @top-center {
-    content: none;
-  }
-  @bottom-center {
-    content: none;
-  }
-}
-
 img.full-page {
-  page: full_page_image;
+  break-before: page;
+  break-after: page;
 }
 img.chapter-header {
-  width: 100vw;
-  margin-left: -0.6in;
-  margin-right: -0.6in; 
+  max-width: 100%;
+  max-height: 60%;
+  margin-left: auto;
+  margin-right: auto;
 }
 img.ending {
-  width: 100vw;
-  margin-left: -0.6in;
-  margin-right: -0.6in; 
+  width: 100%;
 }

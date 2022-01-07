@@ -45,8 +45,8 @@ posts = [
   "chapter_title": "Blood Child",
   "contents": '''
   
-<not_print><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/1-1.png?rr" alt=""></not_print>
-<print_only><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/1-1-right.png?rr" alt=""></print_only>
+<not_print><img class="chapter-header" src="/media/ravelling-wrath/illustrations/1-1.png?rr" alt=""></not_print>
+<print_only><img class="chapter-header" src="/media/ravelling-wrath/illustrations/1-1-right.png?rr" alt=""></print_only>
 
 "Ow! Fuck."
 
@@ -135,7 +135,7 @@ Yali… hesitated. Swallowed. Turned away. Turned back towards me.
 
 My heart was pounding even harder than when I was running. If this was anyone else, I would've just thought they were a little nervous. But with Yali, it <em>meant</em> something. And I was afraid of what that could be.
 
-<not_print><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/1-2.png?rr" alt=""></not_print>
+<not_print><img class="full-page" src="/media/ravelling-wrath/illustrations/1-2.png?rr" alt=""></not_print>
 
 Finally, she spoke up. "How much do you know about what happens during," she swallowed, "the Ravelling?"
 
@@ -143,7 +143,7 @@ Finally, she spoke up. "How much do you know about what happens during," she swa
 
 "It's, it's, it's worse than that. Just tell me how much you know, so I can explain from there."
 
-<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I sighed. I couldn't help it – I was already nervous, and now I had to remember some shit from Divinity class. Everyone knew <em>about</em> the Ravelling, but you wouldn't know the <em>details</em> unless you were super religious. I did my best to summarize. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… get some sort of nutrition out of it? Look, <print_only></p><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/1-2-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"</p>
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I sighed. I couldn't help it – I was already nervous, and now I had to remember some shit from Divinity class. Everyone knew <em>about</em> the Ravelling, but you wouldn't know the <em>details</em> unless you were super religious. I did my best to summarize. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… get some sort of nutrition out of it? Look, <print_only></p><img class="full-page" src="/media/ravelling-wrath/illustrations/1-2-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"</p>
 
 Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 

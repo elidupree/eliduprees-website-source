@@ -145,7 +145,7 @@ img.rav-section-break {
   font-size: 22pt; 
 }
 .chapter-12-summary h2 {
-  break-before: page;
+  page-break-after: avoid;
 }
 
 

@@ -16,8 +16,8 @@ posts = [
   "content_warnings": "<p>Combat and fear of death; protagonists having to kill someone in self-defense, with physical details of the death.</p>",
   "contents": '''
 
-<not_print><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/burning-heart-ornate.png?rr" alt=""></not_print>
-<print_only><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/burning-heart-ornate-right.png?rr" alt=""></print_only>
+<not_print><img class="chapter-header" src="/media/ravelling-wrath/illustrations/burning-heart-ornate.png?rr" alt=""></not_print>
+<print_only><img class="chapter-header" src="/media/ravelling-wrath/illustrations/burning-heart-ornate-right.png?rr" alt=""></print_only>
 
 The Blood God's Portal nestled my body like a hand in a glove.
 
