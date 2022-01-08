@@ -77,6 +77,32 @@ The next few minutes were a ?????horrifying blur. It was the animation I'd been 
 
 "Everyone but the scientists in charge is under some kind of mind control"
 
+?????
+
+????? The message arrived. A message on my work account. A message from <em>myself</em>. ????? A zip file attached
+
+When your body is in fight-or-flight mode, the time it takes a computer to unpack an archive feels like forever. ????? [????? Hyper focused on the screen, my eyes jumped to WATCH_THIS_FIRST.mp4 the moment it appeared]
+
+Like many an unedited, amateur video, it began in a blur of motion, as its maker tapped the record button on their phone and set the phone down where it would get a good view – a view of a room much like this one, no doubt a conference room somewhere in this very building. [????? It was night though, and the people in the video were Kayla, and me. Marvin.]
+
+But the Kayla in the video was dramatically changed from the Kayla beside me. The desperate look was gone from her eyes, a bit of fat back in her cheeks, standing tall and proud, with an honest-to-God <em>rifle</em> on a sling over one shoulder. She was dressed in a bright, fresh-off-the-shelf jacket and jeans, marred only by splatters of drying blood, which I could only assume were not her own. But despite ????? still a look of deep exhaustion on her face
+
+"Oh God, how do we say this to them?" muttered the Kayla in the video, dead tired, a voice of resignation. She glanced to the side, at my own double, the way someone glances when they're hoping someone else will take charge, so they won't have to do the difficult work themselves.
+
+But my double could not help her. Whatever our duplicates had been through, Kayla had endured it, but Marvin had been emotionally destroyed by it. [????? He had a hollow, haunted look, and the moment he was asked to speak, he broke down completely. He sank down in his seat, sobbing into his hands, completely nonverbal].
+
+Video-Kayla let out a short breath and pulled her eyes away from Marvin, a quiet acknowledgment that she was on her own. [????? Reluctantly,] she looked back at the camera – at us.
+
+"Listen," she said. "We messed up. We caused a paradox, and pretty soon, we're going to cease to exist. And if you don't want the same thing to happen to you, here's what you have to do."
+
+
+
+?????
+
+[????? In chapter 2, I think:]
+
+There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but)
+
 
 ''',
 },
