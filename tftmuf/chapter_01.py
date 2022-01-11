@@ -103,6 +103,21 @@ Video-Kayla let out a short breath and pulled her eyes away from Marvin, a quiet
 
 [????? Reestablish scene, maybe mention more details here]
 
+
+
+?????
+
+
+There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do]
+
+
+?????
+
+"Kayla, you're starving right now. Hiding it was stupid.
+
+?????
+
+
 "We went back in time, just like you're about to do," she said. "We went back in time over and over. And we were careful. We made sure not to let our own past selves see us, or do anything that would change what happened to them. We didn't let anyone use the time machines except for us. And we – <em>I</em> – killed the scientists who created them."
 
 [????? An expression of unmistakable pride ????? The revelation, already somewhat expected due to the gun and blood, that the Kayla in the video had killed real, living people. I felt disturbed by it/dissociated, feeling at a distance from things. But the Kayla crouching next to me was watching with rapt attention. In awe/admiration of the version of herself who had succeeded (?). The promise that killing those people – the ones who had held her captive – was within her power.]
@@ -118,10 +133,7 @@ Video-Kayla let out a short breath and pulled her eyes away from Marvin, a quiet
 
 [????? "So the first thing you need to keep in mind – you don't want to change your past, but right now, you ARE the past version. So that means you don't want to BE changed. Which basically means, don't look at anything you don't have to. If you look at something, and then you go back and change it, that's a problem. But if you didn't look at it, it's fine to change it. Of course, after you've gone back in time <em>once</em>, you'll be the future for one version of you, but the past for others. The rule is – you can always look at what your past selves are doing, but you don't want to look at anywhere you think your future selves might be.]
 
-?????
 
-
-There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do]
 
 
 ''',
