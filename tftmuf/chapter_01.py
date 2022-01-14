@@ -81,7 +81,7 @@ The next few minutes were a ?????horrifying blur. It was the animation I'd been 
 
 ????? The message arrived. A message on my work account. A message from <em>myself</em>. ????? A zip file attached
 
-When your body is in fight-or-flight mode, the time it takes a computer to unpack an archive feels like forever. ????? [????? Hyper focused on the screen, my eyes jumped to WATCH_THIS_FIRST.mp4 the moment it appeared]
+When your body is in fight-or-flight mode, the time it takes a computer to unpack an archive feels like forever. ????? [????? Hyper focused on the screen, my eyes jumped to 01_WATCH_THIS_FIRST.mp4 the moment it appeared]
 
 Like many an unedited, amateur video, it began in a blur of motion, as its maker tapped the record button on their phone and set the phone down where it would get a good view – a view of a room much like this one, no doubt a conference room somewhere in this very building. [????? It was night though, and the people in the video were Kayla, and me. Marvin.]
 
@@ -103,7 +103,15 @@ Video-Kayla let out a short breath and pulled her eyes away from Marvin, a quiet
 
 [????? Reestablish scene, maybe mention more details here]
 
+She continued in that same, dead-tired voice.
 
+"You need to get to one of the time machines as soon as you can. Once you go back, you can send this video to yourselves, so it turns into a stable time loop. But don't think about the time travel logic right now, you'll have plenty of time to think about it once you're back at 3 AM. Right now, you have to worry about getting there.
+
+"The time machines are [????? on floor]. You can take the stairs at the end of the North Wing, they're safe because no one uses them all day. But even so, you want to spend as little time in the halls as possible. And while you're walking there, don't look at anything if you can help it! Keep your head down, don't look in any of the rooms you go past, definitely don't look at other places on the security cameras –"
+
+"– but leave them on!" croaked a voice – my voice, Marvin's voice, speaking for the first time since the video started. It was breathy and breaking, the voice of someone who has been crying for hours, who is only forcing themselves to speak because of a sudden need. "Leave the cameras on! No one ch–" he gasped, before his throat failed him again, lapsing into voiceless breaths.
+
+"– no one checks them until the meeting at 4 PM," video-Kayla finished for him. "He's right – leave them on, but don't look at them. That'll make things easier for you than it was for us.
 
 ?????
 
