@@ -115,6 +115,10 @@ She continued in that same, dead-tired voice.
 
 ?????
 
+????? The file named 02_print_this_out.png, and gave brief but very sincere thanks for my practical way of naming things.
+
+?????
+
 
 There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do]
 
