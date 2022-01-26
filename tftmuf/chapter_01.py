@@ -105,19 +105,29 @@ Video-Kayla let out a short breath and pulled her eyes away from Marvin, a quiet
 
 She continued in that same, dead-tired voice.
 
-"You need to get to one of the time machines as soon as you can. Once you go back, you can send this video to yourselves, so it turns into a stable time loop. But don't think about the time travel logic right now, you'll have plenty of time to think about it once you're back at 3 AM. Right now, you have to worry about getting there.
+"You need to get to one of the time machines as soon as you can. Once you go back, you can send this video to yourselves, so it turns into a stable time loop. Don't think about how that works right now, you'll have plenty of time to think about it once you're back at 3 AM. Right now, you have to worry about getting there.
 
 "The time machines are [????? on floor]. You can take the stairs at the end of the North Wing, they're safe because no one uses them all day. But even so, you want to spend as little time in the halls as possible. And while you're walking there, don't look at anything if you can help it! Keep your head down, don't look in any of the rooms you go past, definitely don't look at other places on the security cameras –"
 
 "– but leave them on!" croaked a voice – my voice, Marvin's voice, speaking for the first time since the video started. It was breathy and breaking, the voice of someone who has been crying for hours, who is only forcing themselves to speak because of a sudden need. "Leave the cameras on! No one ch–" he gasped, before his throat failed him again, lapsing into voiceless breaths.
 
-"– no one checks them until the meeting at 4 PM," video-Kayla finished for him. "He's right – leave them on, but don't look at them. That'll make things easier for you than it was for us.
+"– no one checks them until the meeting at 4 PM," video-Kayla finished for him. "He's right – leave them on, but don't look at them. That'll save you a lot of the trouble we had to deal with. But right now, you need to… uh…" she looked to Marvin again. "Damn it, Marv, you know I'll say it wrong if I have to tell them the computer stuff…"
+
+But once you've forced out the first few words, the rest of the words come easier. Marvin lifted his head halfway out of his hands, not quite daring to look directly at the camera. "We – we're going to put this video in a zip file, with – with some other documents. You'll need to copy the whole zip file onto a USB stick so you can bring it back with you. I – I guess you should start copying it now, don't wait for the video to finish, it might take a little while. And then – we – we'll make some instructions for you to print out – so I guess you should start printing those, next, after you start the copy. [????? Video to show you how to use the time machine]" [????? he kept rambling, weak voice, not really believing in it]
+
+????? The Kayla crouching next to me – not tired like the one from the video, but gaunt, strung tight with terror – ????? "Why aren't you doing what he said?" she hissed.
+
+Her words [????? knocked me out of my hypnotized state]. I fumbled through Marvin's instructions, digging a USB drive out of a drawer in my desk, then finding the file to print – 02_print_this_out.png. It was definitely me who had chosen these filenames – practical names, telling me what I needed to know, using two digits out of habit even though the files only went up to ????? "09". It was eerie, seeing my own handiwork on something I had no memory of creating.
+
+"–
 
 ?????
 
-????? The file named 02_print_this_out.png, and gave brief but very sincere thanks for my practical way of naming things.
-
 ?????
+
+"
+
+<bigbreak>
 
 
 There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do]
