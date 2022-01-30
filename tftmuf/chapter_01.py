@@ -152,6 +152,8 @@ I shouldn't have said it in front of Kayla [????? who was still on high alert. S
 
 [????? It was just sitting there, deceptively inactive, looking like a bulky antique from the Industrial Revolution. Not like something that could delete us from existence. But it was. Even the Marvin from the video, sobbing in terror of what would happen to him, hadn't even begun to understand the danger we were in.]
 
+[????? But we couldn't climb into that hatch right away. Before anyone could time travel, you had to program their exact mass into the machine, or bad things would happen]
+
 [????? A massive industrial scale, a metallic platform wide enough for both of us to stand on, with a label boasting that it could weigh up to a thousand pounds, to a precision of a single gram.
 
 
