@@ -130,7 +130,29 @@ Her words [????? knocked me out of my hypnotized state]. I fumbled through Marvi
 <bigbreak>
 
 
-There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do]
+There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do ????? repeatedly wanting to look into the rooms, look over my shoulder]
+
+"It feels like we're being followed," I muttered to myself.
+
+I shouldn't have said it in front of Kayla [????? who was still on high alert. She whipped around, eyes scanning the corridor behind us.]
+
+
+
+[????? Kayla's harsh/sudden whisper] "I feel like we're being followed," [????? she said]
+
+
+
+"Unless
+
+?????
+
+????? Face-to-face with the time machine
+
+[????? We had already seen it in the video, so it's appearance wasn't surprising, but it was still intimidating. The first thing that demanded your attention when you walked into the room, an 8 foot tall, gleaming egg of steel, towering above us. It had clearly been built in several pieces, and then bolted together here, huge steel plates sticking out of the surface where the join lines were. On the face closest to us, a step ladder leading up to a hatch, also made of bulky metal plates, not tall enough to stand up, but you could crawl through it]
+
+[????? It was just sitting there, deceptively inactive, looking like a bulky antique from the Industrial Revolution. Not like something that could delete us from existence. But it was. Even the Marvin from the video, sobbing in terror of what would happen to him, hadn't even begun to understand the danger we were in.]
+
+[????? A massive industrial scale, a metallic platform wide enough for both of us to stand on, with a label boasting that it could weigh up to a thousand pounds, to a precision of a single gram.
 
 
 ?????
