@@ -144,9 +144,23 @@ I shouldn't have said it in front of Kayla [????? who was still on high alert. S
 
 "Unless
 
+<bigbreak>
+
+
+
 ?????
 
 ????? Face-to-face with the time machine
+
+The time machine didn't look like something from a sci-fi movie. It was a bulky structure of rough metal. Not like something from a sci-fi movie, more like an relic from the Industrial Revolution. ????? Other than being plugged into a computer, it was old-looking ????? But maybe I SHOULD have been scared by something from the Industrial Revolution. A new invention, nowhere near perfected, but already able to radically alter the world as we knew it. And maybe not for the better.
+
+We had no idea of the danger we were in. Even the Marvin from the video, sobbing in terror of what would happen to him, [hadn't seen the full implications.]
+
+We had already seen what the time machine looked like, in our future selves' instructional video. Its central structure was an enormous egg, stretching from floor to ceiling, held in place by ????? [physical description, Hatch]
+
+[But we couldn't climb into that Hatch right away. First, we had to [enter into] the computer the exact mass of the matter to be transported.
+
+Its central structure was a [steel eggs]
 
 [????? We had already seen it in the video, so it's appearance wasn't surprising, but it was still intimidating. The first thing that demanded your attention when you walked into the room, an 8 foot tall, gleaming egg of steel, towering above us. It had clearly been built in several pieces, and then bolted together here, huge steel plates sticking out of the surface where the join lines were. On the face closest to us, a step ladder leading up to a hatch, also made of bulky metal plates, not tall enough to stand up, but you could crawl through it]
 
