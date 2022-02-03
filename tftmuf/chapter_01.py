@@ -173,7 +173,33 @@ Its central structure was a [steel eggs]
 
 ?????
 
-"Kayla, you're starving right now. Hiding it was stupid.
+"Now. Kayla." [Video-Kayla's voice was suddenly stern, serious] "I really hope you went to the room I told you to. We picked this room because there's food in the fridge – food for a team that's not on-site today, so it won't change anyone's timeline. You need to eat, <em>now</em>. Suppressing our hunger was a stupid decision. It was smart when we were [????? captive/only run], but it was stupid to keep hiding it for hours after we could have asked Marvin to get food for us. Marvin, if she doesn't want to eat, you have to –"
+
+But [the Kayla with me had already flung open the fridge and was stuffing her face. And the other Marvin had realized it. He mumbled "She's probably already doing it"]
+
+"Oh God damn it, you're right, she's probably not even listening to me. Listen, uh… Marvin? Marvin, make sure she doesn't eat more than half of what's in that fridge, she'll vomit. Ask me how I know. She can eat half now, and half… maybe an hour from now ?????"
+
+[The Kayla with me was glaring back at her indignantly. "I AM listening" she tried to say amid mouthfuls of food, humiliated rage from having her flaws pointed out in front of me, by someone whose opinion she couldn't possibly deny. She pointedly started dividing everything in the fridge into two equal piles – well, three piles, one of which was all the animal products]
+
+[After she forced herself to stop eating, possibly Marvin trying to make conversation to distract her:]
+
+"Are you vegan?"
+
+[Physicality] "[explanation of how the captives were fed]"
+
+[I was in awe] "You were literally starving, and you still refused [food]?"
+
+She answered with a single word. "Yes." [And in that word, I could feel/but she felt that word with/[enormous] pride/smoldering hatred. The will to destroy those who had wronged her, no matter what was thrown in her way. I thought back to the rifle she was carrying in the video,. She had
+
+?????
+
+The Kayla in the video was still talking, almost forgotten behind us. I skipped back to where we had left off.
+
+"– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. ????? Minnesota Starvation Experiment ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
+
+<bigbreak>
+
+
 
 ?????
 
