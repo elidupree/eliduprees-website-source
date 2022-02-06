@@ -18,7 +18,9 @@ Before I start telling you what I remember, I'd like to be clear about one thing
 
 But for me, it started when I was hired by the ????? University Neuroscience Department.
 
-Even then, I could tell they weren't just a normal neuroscience department. ????? But ????? And the pay was good. <em>Suspiciously</em> good.
+Even then, I could tell they weren't just a normal neuroscience department. [my work location wasn't on ????? University campus] – my employers had somehow purchased the entire old Riker Hospital building, which I'd thought was abandoned when Riker moved to a new, modernized facility 4 years ago. [Should use absolute date?] And my paycheck came from a company called Neurosci Innovations, which no one had ever heard of. [I should have known there was something cloak-and-dagger about it all.] But [I was in a hurry to get a new job after the startup I've been working for went under]. And the pay was good. <em>Suspiciously</em> good. Even a prestigious research university like ????? wouldn't normally have the budget to pay competitive, market rates for a computer graphics engineer. But that's what they were paying me. And I didn't say no to it.
+
+
 
 [????? They hired me to do this weird graphics stuff, I guess it was for some psychological research but I have no idea what it was for]
 
