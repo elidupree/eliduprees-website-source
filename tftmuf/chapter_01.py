@@ -9,7 +9,7 @@ posts = [
   "title":"The Future They Made Us Forget, chapter 1",
   "auto_paragraphs": True,
   "head":head,
-  "chapter_title": "The ?????",
+  "chapter_title": "The Children That Couldn't Be Seen",
   "contents": '''
   
 Before I start telling you what I remember, I'd like to be clear about one thing. I don't want you to think of me as "<em>the real</em> Marvin ?????", or "<em>the original</em> Marvin ?????", or anything like that. Your brain is going to want to think of me that way, because I'm the one you know about – the one telling you the story. But time travel doesn't make distinctions like that. All of us branched out from the same original Marvin, and
@@ -20,9 +20,11 @@ But for me, it started when I was hired by the ????? University Neuroscience Dep
 
 Even then, I could tell they weren't just a normal neuroscience department. [my work location wasn't on ????? University campus] – my employers had somehow purchased the entire old Riker Hospital building, which I'd thought was abandoned when Riker moved to a new, modernized facility 4 years ago. [Should use absolute date?] And my paycheck came from a company called Neurosci Innovations, which no one had ever heard of. [I should have known there was something cloak-and-dagger about it all.] But [I was in a hurry to get a new job after the startup I've been working for went under]. And the pay was good. <em>Suspiciously</em> good. Even a prestigious research university like ????? wouldn't normally have the budget to pay competitive, market rates for a computer graphics engineer. But that's what they were paying me. And I didn't say no to it.
 
+An abandoned hospital wasn't a normal workplace for a computer graphics engineer, either. Some attempt had been made to clean up the first-floor treatment rooms and convert them into offices, but in many places, racks of unused medical equipment had simply been pushed into back corners ????? my direct boss, another programmer, didn't know what the deal was either, told me the higher-ups (Fuller?) don't know how to work with a programmer, don't get things done too quickly because that'll increase their expectations – ????? other floors locked off, electronic locks and surveillance cameras all over the place ?????
 
+[????? They got me set up on the actual work, which turned out to be this weird graphics stuff, I guess it was for some psychological research but I have no idea what it was for ?????]
 
-[????? They hired me to do this weird graphics stuff, I guess it was for some psychological research but I have no idea what it was for]
+[????? But my one flaw has always been getting curious. I wanted to know what was on the locked-off floors, what all this security was for
 
 [????? I looked up this place, but hardly found anything, certainly it wasn't a place that would be treating children medically or anything; it got harder and harder to think of innocent explanations for what I'd seen, but I hesitated]
 
