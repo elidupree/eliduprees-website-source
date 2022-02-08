@@ -24,11 +24,17 @@ An abandoned hospital wasn't a normal workplace for a computer graphics engineer
 
 [????? They got me set up on the actual work, which turned out to be this weird graphics stuff, I guess it was for some psychological research but I have no idea what it was for ?????]
 
-[????? But my one flaw has always been getting curious. I wanted to know what was on the locked-off floors, what all this security was for
+[????? But my one flaw has always been that I can't look away from something once I get curious. I wanted to know what was on the locked-off floors, what all this security was for ????? Looking at the security cameras – what Reginald would later call "a profoundly amoral decision"]
+
+[????? I made it a whole little project, detecting motion and applying image classifiers. If you don't know what an image classifier is, it's one of those AI tools that they use at places like Google – you put in an image, and it gives you a bad guess about what it's a picture of.
+
+[????? If it wasn't for the image classifiers, I would never have noticed, I would have just glanced past and assumed there wasn't anything there. Even after it said "child on bed", I still just assumed the classifier was wrong, like usual. But because I was keeping notes on each camera, it eventually became conspicuous that those few rooms were the ones that were still blank. I sat at home staring at the images, wondering what was in them that made them get classified as children, when there obviously weren't any children in the pictures. Or, as I eventually began to wonder – why my brain couldn't explain why it DIDN'T think there were children]
 
 [????? I looked up this place, but hardly found anything, certainly it wasn't a place that would be treating children medically or anything; it got harder and harder to think of innocent explanations for what I'd seen, but I hesitated]
 
 ?????
+
+<bigbreak>
 
 This is what happened on [????? that day].
 
