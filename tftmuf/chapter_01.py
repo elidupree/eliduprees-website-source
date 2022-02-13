@@ -209,6 +209,17 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 
 <bigbreak>
 
+?????
+
+"They've got time. We should explain this from the beginning"
+
+"Do we need to? We're going to give them our notes, right?"
+
+"Yeah, but we wrote them for <em>us</em>."
+
+"They <em>are</em> us!"
+
+"I don't understand half the comments I wrote on my own code two years ago.
 
 
 ?????
