@@ -20,7 +20,7 @@ But for me, it started when I was hired by the ????? University Neuroscience Dep
 
 Even then, I could tell they weren't just a normal neuroscience department. [my work location wasn't on ????? University campus] – my employers had somehow purchased the entire old Riker Hospital building, which I'd thought was abandoned when Riker moved to a new, modernized facility 4 years ago. [Should use absolute date?] And my paycheck came from a company called NeuroSci Innovations, which no one had ever heard of. [I should have known there was something cloak-and-dagger about it all.] But [I was in a hurry to get a new job after the startup I've been working for went under]. And the pay was good. <em>Suspiciously</em> good. Even a prestigious research university like ????? wouldn't normally have the budget to pay competitive, market rates for a computer graphics engineer. But that's what they were paying me. And I didn't say no to it.
 
-An abandoned hospital wasn't a normal workplace for a computer graphics engineer, either. Some attempt had been made to clean up the first-floor treatment rooms and convert them into offices, but in many places, racks of unused medical equipment had simply been pushed into back corners ????? my direct boss, another programmer, didn't know what the deal was either, told me the higher-ups (Fuller?) don't know how to work with a programmer, don't get things done too quickly because that'll increase their expectations – ????? other floors locked off, electronic locks and surveillance cameras all over the place ?????
+An abandoned hospital wasn't a normal workplace for a computer graphics engineer, either. [The former Riker hospital… Give a sense of physical progression – the commute there along desolate streets, where the hurricane a few years back had damaged buildings, and not as many people moved back because climate change was going to put a lot of this land underwater anyway [and that's why Riker moved their campus?]; now coyote scat was a common sighting and the City Council had to warn you not to leave food out; towering, square brick face of the building, very anonymous; and then the interior:] Some attempt had been made to clean up the first-floor treatment rooms and convert them into offices, but in many places, racks of unused medical equipment had simply been pushed into back corners ????? my direct boss, another programmer, didn't know what the deal was either, told me the higher-ups (Fuller?) don't know how to work with a programmer, don't get things done too quickly because that'll increase their expectations – ????? other floors locked off, electronic locks and surveillance cameras all over the place ?????
 
 [????? They got me set up on the actual work, which turned out to be this weird graphics stuff, I guess it was for some psychological research but I have no idea what it was for ?????]
 
@@ -168,7 +168,7 @@ We had no idea of the danger we were in. Even the Marvin from the video, sobbing
 
 We had already seen what the time machine looked like, in our future selves' instructional video. Its central structure was an enormous egg, stretching from floor to ceiling, held in place by ????? [physical description, Hatch]
 
-[But we couldn't climb into that Hatch right away. First, we had to [enter into] the computer the exact mass of the matter to be transported.
+[But we couldn't climb into that Hatch right away. The procedure was: [/ First, we had to [enter into] the computer the exact mass of the matter to be transported.]]
 
 Its central structure was a [steel eggs]
 
