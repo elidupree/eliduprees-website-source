@@ -26,7 +26,7 @@ Getting set up in the makeshift office was an adventure in itself. First of all,
 
 "What happens if you look at it?" I asked, curious.
 
-"I don't know, probably nothing. But they're huge sticklers ????? I thought they had to be joking, but some of the other guys looked at it, and they were fired before I got back from my lunch break. And they put the blue things on the screens the same day, so now you can't even" [????? he scoffed at ethics, but To you or me, "ethics" means trying to do the right thing. But to them, "ethics" was just an excuse to
+"I don't know, probably nothing. But they're huge sticklers ????? I thought they had to be joking, but some of the other guys looked at it, and they were fired before I got back from my lunch break. And they put the blue things on the screens the same day, so now you can't even" [????? he scoffed at ethics, but even when you're cynic, sometimes you are still naive] To you or me, "ethics" means trying to do the right thing. But to them, "ethics" was just a convenient excuse – an excuse that they could bring out whenever [it would get them what they want], and put away whenever it wouldn't.
 
 "What are the real colors?" I asked him once.
 
