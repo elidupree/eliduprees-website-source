@@ -22,7 +22,7 @@ Even then, I could tell they weren't just a normal neuroscience department. [my 
 
 An abandoned hospital wasn't a normal workplace for a computer graphics engineer, either. [The former Riker hospital… Give a sense of physical progression – the commute there along desolate streets, where the hurricane a few years back had damaged buildings, and not as many people moved back because climate change was going to make this land have loads of flooding anyway [and that's why Riker moved their campus?]; now coyote scat was a common sighting and the City Council had to warn you not to leave food out; towering, square brick face of the building, very anonymous; and then the interior:] Some attempt had been made to clean up the first-floor treatment rooms and convert them into offices, but in many places, racks of unused medical equipment had simply been pushed into back corners ????? other floors locked off, basically every door in the building had electronic locks and surveillance cameras all over the place ?????
 
-Getting set up in the makeshift office was an adventure in itself. First of all, every single computer in the office had a physical blue-green color filter glued over the monitor. My new boss told me we were working on making animated color patterns for some kind of psychology research, and the color filters were for "ethics". [the research was to show people the pattern and see how it affected them, and so they didn't want to expose anyone except the intended test subjects. So we were doing all the prototyping using color-swapped versions of the actual pattern,
+Getting set up in the makeshift office was an adventure in itself. First of all, every single computer in the office had a physical blue-green color filter glued over the monitor. My new boss told me we were working on making animated color patterns for some kind of psychology research, and the color filters were for "ethics". [the research was to show people the pattern and see how it affected them, and so they didn't want to expose anyone except the intended test subjects. So we were doing all the prototyping using color-swapped versions of the actual pattern, ????? at least, that's what my new boss said.
 
 "What happens if you look at it?" I asked, curious.
 
@@ -230,7 +230,7 @@ She answered with a single word. "Yes." [And in that word, I could feel/but she 
 
 The Kayla in the video was still talking, almost forgotten behind us. I skipped back to where we had left off.
 
-"– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. ????? Minnesota Starvation Experiment ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
+"– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up – where people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't want you to tell me how many calories things are. I don't want to know, diet culture kills people. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
 
 <bigbreak>
 
