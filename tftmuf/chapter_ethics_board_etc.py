@@ -15,7 +15,7 @@
 [Chapter break, "the ethics board"]
 
 
-[Reginald saying how everything up to this point has been an utter mess ethics wise, including some harsh words for Marvin's choices ("profoundly amoral act") and saying Kayla was "excused but not justified"]
+[Reginald saying how everything up to this point has been an utter mess ethics wise, including some harsh words for Marvin's choices ("profoundly amoral act"/I hung my head/"at least you have the decency to be ashamed") and saying Kayla was "excused but not justified"]
 
 
 
