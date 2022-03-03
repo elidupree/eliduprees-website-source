@@ -117,7 +117,7 @@ She continued in that same, dead-tired voice.
 
 "You need to get to one of the time machines as soon as you can. Once you go back, you can send this video to yourselves, so it turns into a stable time loop. Don't think about how that works right now, you'll have plenty of time to think about it once you're back at 3 AM. Right now, you have to worry about getting there.
 
-"The time machines are [????? on floor]. You can take the stairs at the end of the North Wing, they're safe because no one uses them all day. But even so, you want to spend as little time in the halls as possible. And while you're walking there, don't look at anything if you can help it! Keep your head down, don't look in any of the rooms you go past, definitely don't look at other places on the security cameras –"
+"The time machines are [????? on floor]. You can take the stairs at the end of the North Wing, they're safe because no one uses them all day. But even so, you want to spend as little time in the halls as possible [????? to make sure that you don't change your own past]. And while you're walking there, don't look at anything if you can help it! Keep your head down, don't look in any of the rooms you go past, definitely don't look at other places on the security cameras –"
 
 "– but leave them on!" croaked a voice – my voice, Marvin's voice, speaking for the first time since the video started. It was breathy and breaking, the voice of someone who has been crying for hours, who is only forcing themselves to speak because of a sudden need. "Leave the cameras on! No one ch–" he gasped, before his throat failed him again, lapsing into voiceless breaths.
 
@@ -141,6 +141,10 @@ Her words [????? knocked me out of my hypnotized state]. I fumbled through Marvi
 
 
 There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do ????? repeatedly wanting to look into the rooms, look over my shoulder]
+
+"What do you think happens if we change our own past?" I said nervously.
+
+"I don't know, but it's bad! They said it was bad, and we have to trust them, right?"
 
 "It feels like we're being followed," I muttered to myself.
 
