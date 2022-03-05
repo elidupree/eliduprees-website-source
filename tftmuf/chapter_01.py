@@ -26,7 +26,7 @@ Getting set up in the makeshift office was an adventure in itself. First of all,
 
 "What happens if you look at it?" I asked, curious.
 
-"I don't know, probably nothing. But they're huge sticklers ????? I thought they had to be joking, but some of the other guys looked at it, and they were fired before I got back from my lunch break. And they put the blue things on the screens the same day, so now you can't even" [but in hindsight, it hits differently. [????? he scoffed at ethics, but even when you're cynic, sometimes you are still naive] To you or me, "ethics" means trying to do the right thing. But to them, "ethics" was just a convenient excuse – an excuse that they could bring out whenever [it would get them what they want], and put away whenever it wouldn't.
+"I don't know, probably nothing. But they're huge sticklers ????? I thought they had to be joking, but some of the other guys looked at it, and they were fired before I got back from my lunch break. And they put the blue things on the screens the same day, so now you can't even" [but in hindsight, it hits differently./ In hindsight, it feels silly to have scoffed at that level of caution. [????? he scoffed at ethics, but even when you're cynic, sometimes you are still naive] To you or me, "ethics" means trying to do the right thing. But to them, "ethics" was just a convenient excuse – an excuse that they could bring out whenever [it would get them what they want], and put away whenever it wouldn't.
 
 "What are the real colors?" I asked him once.
 
@@ -198,6 +198,10 @@ We had no idea of the danger we were in. Even the Marvin from the video, sobbing
 We had already seen what the time machine looked like, in our future selves' instructional video. Its central structure was an enormous egg, stretching from floor to ceiling, held in place by ????? [physical description, Hatch]
 
 [But we couldn't climb into that Hatch right away. The procedure was: [/ First, we had to [enter into] the computer the exact mass of the matter to be transported.]]
+
+"How can it be accurate to the nearest gram if it's sometimes off by 20 pounds?!"
+
+"I don't know, but it worked for our future selves" If I had known the real reason for the extra 20 pounds, I wouldn't have made it through the day. I would have had a complete breakdown.
 
 Its central structure was a [steel eggs]
 

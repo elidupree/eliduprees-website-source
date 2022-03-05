@@ -8,7 +8,15 @@
 
 ?????
 
-[Reginald feeling utterly betrayed by Aster; as a grave whisper, "God damn it, Aster, what have you done?"; K+M offer excuses and Reginald argues against them; at some point, "'Reggie' is only a name for my intimates, I can't believe Aster gave it out to everyone"]
+[Reginald feeling utterly betrayed by Aster; as a grave whisper, "God damn it, Aster, what have you done?"]
+
+[For the sixty years since the Monster Study and the Nuremberg Code, the field of neuroscience has been trying to earn back some semblance of not being morally bankrupt, and this has set that back enormously]
+
+[K+M offer excuses for Aster and Reginald argues against them
+– "they were planning to get rid of Fuller" "
+– "they thought Fuller might kill them" "well isn't that convenient for them! A convenient excuse to go on and do exactly what they would have wanted to get away with anyway! They should have risked our life"
+– "They could have walked away" "if they'd walked away then I'd be dead because they didn't do time travel" "the fact that they could undo the deaths is why Fuller felt comfortable escalating the experiments in the first place! This is why you [bangs fist on table] never compromise with evil!"
+– At some point, "'Reggie' is only a name for my intimates, I can't believe Aster gave it out to everyone"]
 
 [With deeply aggrieved conviction] "If I get any say in this at all, we are going to have some god damn <em>ethics</em> around here."
 
@@ -49,6 +57,9 @@ Kayla shrugged. "Your lifestyle requires the murder of sapient beings," she said
 Reginald [got back on top of things]. "Even if I take that to be true, it only illustrates my point. If none of us are morally pure, then that is why we cannot simply defer to any one person's judgment, but must actively [work together to be rigorously protected against our individual flaws]"
 
 
+[We need to get more, responsible, people, to have a proper ethics board. Wait a minute, we can't ethically bring in anyone because they can't give informed consent!]
+
+
 
 
 
@@ -58,14 +69,21 @@ One of the University's most respected and prolific physicists, she had authored
 
 I sat down with her in her office [physical description; she had arrived several hours before the 4 PM meeting, so we had time; she didn't know I was there to judge her]
 
-"I'm a writer," I lied blandly. [I told her that Dr. Fuller had hired me, to prepare to have a favorable story to release to the public if we ever ended up in the public eye, and so now I was going around and talking to all of the scientists to have good background material]
+"I'm a writer," I lied blandly. [I told her that Dr. Fuller had hired me, to prepare to have a favorable story to release to the public if we ever ended up in the public eye, and so now I was going around and talking to all of the scientists to have good background material]. "Don't worry, I'm 'in the know'," I said with a little wink [Probably not suave at all].
 
 [She was a little surprised, but not unfavorable to the idea. I started with easy questions, learning a long story of interesting details about her history with the University]
 
+?????
 
 [An experiment involving an iron vessel, but the results were very confusing, and she kept forgetting to follow up on it]
 
 "At that time I had a great deal of worry, as you can imagine, that age was catching up with me. [I have always defined my personal value based on the abilities of my mind, so losing that is like losing myself]. [But I thought about it in an analytical way, and it was conspicuous that the problem only appeared on this specific project – for reasons I'm sure you are aware of]"
+
+?????
+
+[Somehow I kept coming back to it, and even wrote the paper. But I didn't understand what was happening until a chance conversation with Re– ahem, with Dr. Nenge." I had the distinct impression that she was using his surname to show respect, since I was a stranger, but that she would normally call him Reggie, out of affection. Him? Them? She had probably been talking to Aster, actually[, they just hadn't come out to her]. "?????
+
+"[He brought me to Dr. Fuller and they did some tests, showing me a series of chemical formulas and asking me to explain them, to show that my mind was normally functioning, and then showing me another one that I couldn't understand] It was very confusing to me at the time, but now I understand that they were showing me the formula for the argonization of iron. Dr. Nenge had derived it from our paper. Dr. Fuller could read it normally, because to him, the formula was laughable, a chemical impossibility. But for me, I would have understood it, because I had seen the results of our experiments. So it triggered the self-censoring effect.
 
 ?????
 
