@@ -244,6 +244,10 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 
 ?????
 
+[quote from Minnesota Starvation Experiment guidebook] "refrain from arguments; the starving are ready to argue on little provocation, but they usually regret it immediately"
+
+?????
+
 "They've got time. We should explain this from the beginning"
 
 "Do we need to? We're going to give them our notes, right?"
