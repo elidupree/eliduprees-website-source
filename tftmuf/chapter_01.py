@@ -216,7 +216,7 @@ Its central structure was a [steel eggs]
 
 ?????
 
-"Now. Kayla." [Video-Kayla's voice was suddenly stern, serious] "I really hope you went to the room I told you to. We picked this room because there's food in the fridge – food for a team that's not on-site today, so it won't change anyone's timeline. You need to eat, <em>now</em>. Suppressing our hunger was a stupid decision. It was smart when we were [????? captive/only run], but it was stupid to keep hiding it for hours after we could have asked Marvin to get food for us. Marvin, if she doesn't want to eat, you have to –"
+"Now. Kayla." [Video-Kayla's voice was suddenly stern, serious] "I really hope you went to the room I told you to. We picked this room because there's food in the fridge – [and this is the private break room for Simon, who is not working today and only shows up for the meeting], so it won't change anyone's timeline. You need to eat, <em>now</em>. Suppressing our hunger was a stupid decision. It was smart when we were [????? captive/only run], but it was stupid to keep hiding it for hours after we could have asked Marvin to get food for us. Marvin, if she doesn't want to eat, you have to –"
 
 But [the Kayla with me had already flung open the fridge and was stuffing her face. And the other Marvin had realized it. He mumbled "She's probably already doing it"]
 
@@ -228,7 +228,7 @@ But [the Kayla with me had already flung open the fridge and was stuffing her fa
 
 "Are you vegan?"
 
-[Physicality] "[explanation of how the captives were fed]"
+[Physicality] "[explanation of how the captives were fed; I think Kayla should mention what vegan ethics mean to her here, although not in detail]"
 
 [I was in awe] "You were literally starving, and you still refused [food]?"
 
