@@ -1,3 +1,6 @@
+[not sure if in this chapter or later - we tried to find other naturally resistant people / like paranoid people? / you'd think so, but paranoia only makes them more vulnerable, because they can more easily make up alternative explanations for what they see]
+
+
 [The phrenochondria show evidence of incredibly advanced genetic engineering, but who could possibly have the technology to do that?]
 
 "Time travellers, right?" I said.

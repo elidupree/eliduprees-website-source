@@ -135,3 +135,20 @@ She bowed her head. "Is this my judgment, then?"
 [maybe somewhere while discussing the "morality of a god" thing – "then we are a necessary evil"
 
 "Believing yourself to be a good person, and believing yourself to be an evil person, are both just ways of avoiding responsibility for your choices. [What's important is the process of looking for the best option available, and when you tell yourself a just-so story about what kind of a moral agent you are, you settle into a habit of not evaluating the options]"
+
+
+
+
+
+
+[sometime with talking to Ontoh, not sure of ordering]
+
+[K : this makes no sense, if you existed for septillions of subjective years, how are you not ahead of us in technology, haven't space travelled, etc.?
+
+But it was already making sense to me. "'Work expands to fill the time available'," I quoted.
+
+"What?"
+
+"If you had a trillion dollars, you wouldn't care whether something cost one dollar or a thousand dollars, would you? You could spend a thousand dollars every second and still be a trillionaire. So in Salnthu, they had no reason to care whether something took one second or a thousand years, because they could make a thousand years ago by in an instant. Why make a faster computer when you can just]
+
+
