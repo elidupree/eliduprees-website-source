@@ -29,5 +29,18 @@ Aster's eyebrows shot up. "I'm eager to hear why you say that!"
 
 "They had the technology to mind control every human being on the planet, and they only used it to stop us from time travelling. They didn't stop us from abusing each other. They didn't stop us from destroying the planet we live on. They didn't use their genetic engineering to ????? or cure diseases. With that kind of technology, they should have been able to solve all the problems in the world. But it's like they just didn't care."
 
-[Maybe: an idea came sneaking into my head] "But what if they <em>did</em>?" I said. "We think the phrenochondria cause personality changes, right? If they go back as far as <em>Homo sapiens</em>, we wouldn't have any way of knowing what humans would be like without them. What if people used to be even worse than they are now? And then the time travellers went back and tried to fix them, but they came from a timeline that was so horrible that even after you fixed all of their biggest problems, our problems are the ones that were left?"
+"But if they're evil, why didn't they, you know… take over the world? Even if they're not time travellers, if they're, like, aliens or something. Shouldn't we all be walking around hypnotized, doing the bidding of our alien overlords? They must have had some other reason
+
+[Maybe: an idea came sneaking into my head] "But what if they <em>did</em> [solve all the problems in the world]?" I said. "We think the phrenochondria cause personality changes, right? If they go back as far as <em>Homo sapiens</em>, we wouldn't have any way of knowing what humans would be like without them. What if people used to be even worse than they are now? And then the time travellers went back and tried to fix them, but they came from a timeline that was so horrible that even after you fixed all of their biggest problems, our problems are the ones that were left?"
 ?????
+
+?????
+
+[But where the time travellers now?
+
+"I guess I was thinking they deleted themselves? Like to, uh, preserve human history as if their timeline never happened?"
+
+[But why? It doesn't matter whether they're good or evil, wouldn't they stick around to see their project work? So where are they now? Shouldn't they have conquered the world or something?
+
+"I mean… they can mind control people to not see what's right in front of them. So they could be anywhere. They could be right here in the room with us."
+
