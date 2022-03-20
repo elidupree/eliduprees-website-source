@@ -368,7 +368,7 @@ There was an awkward pause. I scrambled for something to break the silence.
 
 <bigbreak>
 
-The Otherworld had five layers, and the third one was going to be the <em>worst</em>.
+The Otherworld had five layers, and most of them didn't sound so bad, but the third layer was going to be <em>awful</em>.
 
 Our journey would begin in the starry void of the Waiting, the god who oversaw the cycle of the seasons, the god who had woven the structure of the Ravelling out of the chaos of souls that had come before. The Waiting God's challenges for us would be about patience and studying, which sounded like a huge pain, but I could put up with it. And the way Yali described its world – an empty world full of stars – made it sound eerily beautiful.
 
