@@ -168,9 +168,9 @@ I grabbed a block. "Fuck you, couch! This is all your fault!" Yali snickered.
 
 And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling Game. Calming Game.</em>. It went on and on, and it was exhausting. The sun had already set when we'd started, and now the night was dragging on later and later. I kept trying to actually calm myself down, but I never felt like I was doing more than just pretending. How was I even supposed to do that?
 
-Finally, we were both too exhausted to go on. Yali told me I'd done a great job, but I still didn't feel like I'd gotten anything done at all. Worse, when I got up to jog home as usual, it was just too overwhelming to think of. I ended up flopping on Yali's couch that night. I went to sleep feeling weird, almost disoriented.
+But Yali was certain this was going somewhere. I didn't understand it yet – that night, all I knew was how exhausted I was getting, until I ended up flopping on Yali's couch, slipping into a fitful sleep. But something was starting to shift inside my brain.
 
-In the next week or so, we saw a lot of each other. Every time we hung out, we did some more of the "games". I still didn't get it, but Yali was sure I was making progress, and I had to do <em>something</em>. Even if I wanted to procrastinate, we were on a clock – the Ravelling was just six weeks away. If I ever spent a week putting it off… Well. It could get us both killed. Nothing like a little fear of death to get me off my ass, haha.
+In the coming weeks, every time we hung out, we did some more of the "games", pushing me further towards something that was still outside my grasp. I kept telling myself how important it was, hoping to the gods that Yali knew what she was doing. The Ravelling was just six weeks away. If it didn't work, or if I let myself procrastinate… Well. It could get us both killed. Nothing like a little fear of death to get me off my ass, haha.
 
 <bigbreak>
 
