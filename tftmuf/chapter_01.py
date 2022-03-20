@@ -284,8 +284,25 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 [????? "So the first thing you need to keep in mind – you don't want to change your past, but right now, you ARE the past version. So that means you don't want to BE changed. Which basically means, don't look at anything you don't have to. If you look at something, and then you go back and change it, that's a problem. But if you didn't look at it, it's fine to change it. Of course, after you've gone back in time <em>once</em>, you'll be the future for one version of you, but the past for others. The rule is – you can always look at what your past selves are doing, but you don't want to look at anywhere you think your future selves might be.]
 
 
-"Don't you know about climate change? About the rise of global fascism? The [specter of nuclear annihilation]
+?????
 
+[But Kayla was not at all satisfied by that plan. "You just want to break the time machines, arrest the bad guys and <em>leave</em>?"]
+
+["What else is there to do?"] [maybe cut this]
+
+["We need to take the time machines and use them! I don't care about going back to the world out there, it sucks anyway! But with time travel, we can <em>do</em> something about it!"]
+
+[Ah yes, she was a young person with grand ideas, jumping way ahead of what she could actually achieve – or so I thought at first. Maybe even: it's a good thing she didn't take my advice, because then we'd have all been screwed "It's okay to just leave the world better than you found it"]
+
+"Don't you know about climate change? About the rise of global fascism? The constant threat of nuclear war, ?????? Hell, even the pandemic? The world is already worse than when we found it. Doesn't matter if you do nothing but good deeds all day. Doesn't matter if I get out of here and live a [cute but in a mocking way] suburban little life. In twenty years we'll probably all be dead. You, me, <em>everyone</em>. And if we have a chance to <em>do</em> something about it –"
+
+[I realized how dramatically dramatically] my Kayla had already diverged from the one in the video. Video-Kayla [had spent her first N days of time travel experience assuming that you weren't allowed to change your own past, which made it not-so-useful (you could play the stock market, maybe), and had kept thinking in that framing after she learned Aster's notes. But for my Kayla, that revelation had been upfront, and she was already thinking from a framing where you could change your own past.]
+
+[Except that if you wanted to change it, you would end up like them. The one who made the decision would be erased from existence. And only the next version of you would keep going.]
+
+[I could tell I wasn't going to be able to stop her. "Can we just focus on the first problem?"]
+
+"Fine."
 
 
 [Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see]
