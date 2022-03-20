@@ -84,9 +84,9 @@ I knew I had to [make sure my actions wouldn't be visible on the security camera
 
 "What?"
 
-Her words came quickly, low and urgent. "None of that would work! I can't run, they'll still catch me even if I get away. They have a…"
+Her words came quickly, low and urgent. "None of that would work! I can't run, they're always waiting for me right after I get away. They have a…"
 
-But as she kept speaking, something bizarre began to happen. There was nothing wrong with her words – they were plain English, they fit together in order – but even as ten seconds passed, then twenty, my brain simply didn't make sense of them. ?????
+But as she kept speaking, something bizarre began to happen. There was nothing wrong with her words – they were plain English, they fit together in order – but even as ten seconds passed, then twenty, my brain simply didn't make sense of them. ????? [If I hadn't experienced the stuff I'd experienced earlier, I would have just let her keep talking, I wouldn't have noticed that something was weird was happening that would make me need to interrupt. But my experiences gave me an inkling that I really needed to interrupt her]
 
 "I'm sorry," I interrupted, "I don't understand what you're saying –"
 
@@ -283,6 +283,12 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 
 [????? "So the first thing you need to keep in mind – you don't want to change your past, but right now, you ARE the past version. So that means you don't want to BE changed. Which basically means, don't look at anything you don't have to. If you look at something, and then you go back and change it, that's a problem. But if you didn't look at it, it's fine to change it. Of course, after you've gone back in time <em>once</em>, you'll be the future for one version of you, but the past for others. The rule is – you can always look at what your past selves are doing, but you don't want to look at anywhere you think your future selves might be.]
 
+
+"Don't you know about climate change? About the rise of global fascism? The [specter of nuclear annihilation]
+
+
+
+[Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see]
 
 
 

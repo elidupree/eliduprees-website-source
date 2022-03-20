@@ -99,11 +99,23 @@ And then I came to the [big question that was the biggest purpose of this talk].
 
 ?????
 
+"I've never met you before, but you recognize my face," [said Kayla grimly]. "Seen photos of your test subjects, have you? Maybe through a surveillance camera?"
+
+["I… I cannot deny ????? I didn't want Fuller to do this,"]
+
+["You didn't do anything about it"]
+
+["but he was my only way/for sixty years I have defined myself by what I can do with my mind, do you understand what it's like for me to know how some mysterious adversary has been taking that away from me?"]
+
+["How many other people's lives were you going to let be destroyed for that?"]
+
+?????
+
 She bowed her head. "Is this my judgment, then?"
 
-"I am not God," I said, a bit reproachfully.
+"We are not God," I said, a bit reproachfully.
 
-
+"Speak for yourself," said Kayla grimly, still poised to draw the rifle [the moment she chose]. But she knew she was in control of the situation. She had no intention of killing Ethel Wright in cold blood, but she wanted her to be afraid. She wanted her to ????? [experience the ????? that she had experienced? Understand how much her life was on the line, and Kayla was only reluctantly granting her mercy?] "<em>Unfortunately</em>, [we still need something from you, to protect us from something far worse than you are, so don't have the luxury to give you what you deserve. So you get to take the antidote]"
 
 
 
