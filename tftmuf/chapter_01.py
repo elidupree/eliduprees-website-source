@@ -12,7 +12,7 @@ posts = [
   "chapter_title": "The Children That Couldn't Be Seen",
   "contents": '''
   
-Before I start telling you what I remember, I'd like to be clear about one thing. I don't want you to think of me as "<em>the real</em> Marvin ?????", or "<em>the original</em> Marvin ?????", or anything like that. Your brain is going to want to think of me that way, because I'm the one you know about – the one telling you the story. But time travel doesn't make distinctions like that. All of us branched out from the same original Marvin, and
+Before I start telling you what I remember, I'd like to be clear about one thing. I don't want you to think of me as "<em>the real</em> Marvin ?????", or "<em>the original</em> Marvin ?????", or anything like that. Your brain is going to want to think of me that way, because I'm the one you know about – the one telling you the story. But time travel doesn't make distinctions like that. All of us branched out from the same original Marvin, and ?????
 
 [????? And because it's me, you're getting the story starting when I got involved] For Kayla, it started 6 years earlier, when the scientists first started using her. For the scientists, it started 12 years earlier, when they published the paper they didn't realize was about time travel. For certain other parties, it started at a time that's harder to explain – several months in the future, or thousands of years in the past, depending how you look at it.
 
@@ -20,7 +20,10 @@ But for me, it started when I was hired by the ????? University Neuroscience Dep
 
 Even then, I could tell they weren't just a normal neuroscience department. [my work location wasn't on ????? University campus] – my employers had somehow purchased the entire old Riker Hospital building, which I'd thought was abandoned when Riker moved to a new, modernized facility 4 years ago. [Should use absolute date?] And my paycheck came from a company called NeuroSci Innovations, which no one had ever heard of. [I should have known there was something cloak-and-dagger about it all.] But [I was in a hurry to get a new job after the startup I've been working for went under]. And the pay was good. <em>Suspiciously</em> good. Even a prestigious research university like ????? wouldn't normally have the budget to pay competitive, market rates for a computer graphics engineer. But that's what they were paying me. And I didn't say no to it.
 
-An abandoned hospital wasn't a normal workplace for a computer graphics engineer, either. [The former Riker hospital… Give a sense of physical progression – the commute there along desolate streets, where the hurricane a few years back had damaged buildings, and not as many people moved back because climate change was going to make this land have loads of flooding anyway [and that's why Riker moved their campus?]; now coyote scat was a common sighting and the City Council had to warn you not to leave food out; towering, square brick face of the building, very anonymous; and then the interior:] Some attempt had been made to clean up the first-floor treatment rooms and convert them into offices, but in many places, racks of unused medical equipment had simply been pushed into back corners ????? other floors locked off, basically every door in the building had electronic locks and surveillance cameras all over the place ?????
+An abandoned hospital wasn't a normal workplace for a computer graphics engineer, either. Even the commute was desolate – this region of ?????city [something-burg?] had never really recovered from the hurricane a few years back. People had lived in these destroyed homes once, but after the evacuation, most of them had seen the writing on the wall. Or in this case, the report from the state scientific commission, about the severe flooding that would soon be commonplace, in these low-lying ?????blocks close to the ocean. Just about the only people left were the diehards who ?????, and the few poor souls who were still in denial about climate change.
+
+
+ No one [The former Riker hospital… Give a sense of physical progression – the commute there along desolate streets, where the hurricane a few years back had damaged buildings, and not as many people moved back because climate change was going to make this land have loads of flooding anyway [and that's why Riker moved their campus?]; now coyote scat was a common sighting and the City Council had to warn you not to leave food out; towering, square brick face of the building, very anonymous; and then the interior:] Some attempt had been made to clean up the first-floor treatment rooms and convert them into offices, but in many places, racks of unused medical equipment had simply been pushed into back corners ????? other floors locked off, basically every door in the building had electronic locks and surveillance cameras all over the place ?????
 
 Getting set up in the makeshift office was an adventure in itself. First of all, every single computer in the office had a physical blue-green color filter glued over the monitor. My new boss told me we were working on making animated color patterns for some kind of psychology research, and the color filters were for "ethics". [the research was to show people the pattern and see how it affected them, and so they didn't want to expose anyone except the intended test subjects. So we were doing all the prototyping using color-swapped versions of the actual pattern, ????? at least, that's what my new boss said.
 
@@ -306,6 +309,10 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 
 
 [Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see]
+
+
+
+[We didn't know what was the deal with Reggie and Aster, but I'll let them explain it in their own words when we get to that part of the story.]
 
 
 
