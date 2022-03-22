@@ -1,3 +1,27 @@
+
+
+["I've killed you once, and I will kill you again if you try anything"]
+
+["So you're time travellers" said Aster, their face lighting up] "And if you've killed me before, you must know that you can change your own past! I take it my experiment was a success?"
+
+
+
+
+"How can we trust you?" Kayla demanded. "[You say you want to stop Fuller, but you've been doing this for six years! Why would you suddenly be on our side now?]"
+
+[As if it was the most natural, casual thing in the world] "Because there's three of us now."
+
+"<em>'Us'</em>?"
+
+"Time travellers," said Aster, with a cheeky little smile. "Time travellers who hate Fuller, time travellers who know that you can change your own past. When I was alone, it would have been risky to go against him, yes? I may [hang out and joke] with him, but I [know full well that] he would [not forebear to kill me, if he thought I was a threat to his ambitions]. [But with multiple time travellers, you can back each other up]
+
+[Marvin: waaaaiiiit, you can back yourself up! You can check your messages, then go back in time and send yourself a message saying "I failed", then go try to stop Fuller, then delete the message after you succeed]
+
+"That's a wonderful idea!" said Aster [giving no sign that they recognized it as an accusation or something to regret]. "I'm glad I have you on my team now!"
+
+"Uh… who says I'm on 'your team'?" [I replied. But I didn't have conviction. I had always had a weakness to people who act buddy-buddy with you. Aster's style was incredibly friendly and disarming]
+
+
 [not sure if in this chapter or later - we tried to find other naturally resistant people / like paranoid people? / you'd think so, but paranoia only makes them more vulnerable, because they can more easily make up alternative explanations for what they see]
 
 
