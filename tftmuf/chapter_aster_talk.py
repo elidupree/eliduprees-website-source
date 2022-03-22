@@ -44,3 +44,5 @@ Aster's eyebrows shot up. "I'm eager to hear why you say that!"
 
 "I mean… they can mind control people to not see what's right in front of them. So they could be anywhere. They could be right here in the room with us."
 
+[I didn't realize how horrifying that was before I said it]
+
