@@ -123,6 +123,33 @@ She bowed her head. "Is this my judgment, then?"
 
 
 
+[simon didn't show up early, so we decided to confront him in the meeting room. Physical description of the meeting room, with the giant table with screens built into it]
+
+[The others interrogate Simon about the experimentation victims, but he plausibly claims he didn't know anything, not-entirely-convincingly claims that obviously he thinks it's horrible now that he knows about it; they angrily argue in circles a bit, not able to prove anything. Marvin interrupts:]
+
+"You're the one who wrote the code for the time machine, right?"
+
+"Uh, yeah?" [Simon looked back at me in a sort of wary way, unconsciously trying to figure out whether I was a threat or just Some Guy. I didn't usually get that look, so it was surprising, but he WAS basically being interrogated]
+
+"We'll all forgive you if you just get in the time machine and go back in time by exactly 50 minutes."
+
+Simon's eyes darted back and forth between the others. Reginald was protesting that he had never agreed to this, but Kayla had a quiet, intense look; she knew exactly what I was doing, and loved it. "Uh," Simon said to the group at large, "there's got to be a catch, right? There's no way something like that doesn't have a catch. Right?"
+
+[I showed him on the screens built into the table, the code that said "<code>if dur > 50:</code>" and "<code>if dur < 50:</code>". Even after I pointed out it, he didn't realize what it meant at first. "What happens if the duration is exactly 50?" He thought about it a little, then gulped]
+
+["Come on, I'm just a beginner, I was the only one 'in the know' who knew how to code, so I had to do all of it"]
+
+["Of course it's okay for a beginner to make mistakes, but you KNEW you were a beginner, and you <em>chose to put your code into a machine responsible for people's life and death</em>! You're like the engineers responsible for the Therac-25!" I was already standing and roaring/it's so easy to get angry at other people for flaws that you've only just recognized in yourself]
+
+But of course, Simon didn't know about the Therac-25 either. So I explained it. This time, I didn't spare any of the details. I told him how ?????, how ?????, how ????? [don't actually describe it to the reader, just say that I told gruesome things to be characters]. [Simon had completely lost his cool [ability to act defensive], looked like he was going to throw up. Kayla and Reginald were looking on in horrified anger that this had happened]
+
+Only Ethel Wright seemed unaffected by the details. But of course, she had been a physicist for sixty years. She had grown up in the aftermath of the bombings of Hiroshima and Nagasaki, and lived through the entire Cold War. The "demon core" incident, and every other nuclear criticality incident in history, had happened during her lifetime. Whenever [humanity discovered something new], they would use it to kill each other on purpose, to kill each other by accident, and to kill each other through negligence. This was not news to her.
+
+?????
+
+[I'm going to completely redesign the time machine, and you're going to help me. I'm going to do it using software best practices, unit testing, etc. I'm going to rewrite it in Rust!". The phrase "rewrite it in Rust" was a bit of a meme. Rust was another programming language, more modern, much better for writing reliable programs. Some people over-idealized it, like rewriting things in Rust would fix everything, but it was genuinely a better tool. Even if you used Rust, you still had to be careful, but Rust would <em>help</em> you be careful.]
+
+
 
 [Ethics board in session – everyone is here]
 
