@@ -1,5 +1,3 @@
-
-
 ["I've killed you once, and I will kill you again if you try anything"]
 
 ["So you're time travellers" said Aster, their face lighting up] "And if you've killed me before, you must know that you can change your own past! I take it my experiment was a success?"
@@ -64,7 +62,19 @@ Aster's eyebrows shot up. "I'm eager to hear why you say that!"
 
 "I guess I was thinking they deleted themselves? Like to, uh, preserve human history as if their timeline never happened?"
 
-[But why? It doesn't matter whether they're good or evil, wouldn't they stick around to see their project work? So where are they now? Shouldn't they have conquered the world or something?
+[Aster skeptical; Kayla starting to be sold on the idea of because "save humanity and kill yourself" is poignant for her. Kayla: "I can see it. They went back to the beginning of humanity to try to give us another chance, then killed themselves because their own lives sucked "]
+
+[Marvin: But that would mean we SHOULDN'T try to undo the mind control, because then we would discover what they were trying to protect us from!]
+
+[Aster gets a bit of an intense expression and tries to nip THAT thought in the bud – mind control cannot possibly be justified, people are always making excuses to try to control others, we shouldn't jump to make excuses for them when there's not even any evidence.]
+
+[How dare you say that when you have been helping with the mind control experiments!]
+
+[Fuller is the one who's obsessed with mind control. I'm doing this to try to FREE us all from the phrenochondria!]
+
+
+?????
+[But why? It doesn't matter whether they're good or evil, wouldn't they stick around to see their project work? So where are they now? Shouldn't they have conquered the world or something?]
 
 "I mean… they can mind control people to not see what's right in front of them. So they could be anywhere. They could be right here in the room with us."
 

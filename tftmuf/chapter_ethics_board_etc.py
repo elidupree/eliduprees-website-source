@@ -8,6 +8,8 @@
 
 ?????
 
+[At some point later: "what in God's name has Aster done with our back?? After all the work I did to try to learn good posture"]
+
 [Reginald feeling utterly betrayed by Aster; as a grave whisper, "God damn it, Aster, what have you done?"]
 
 [For the sixty years since the Monster Study and the Nuremberg Code, the field of neuroscience has been trying to earn back some semblance of not being morally bankrupt, and this has set that back enormously]
