@@ -193,3 +193,12 @@ But it was already making sense to me. "'Work expands to fill the time available
 "If you had a trillion dollars, you wouldn't care whether something cost one dollar or a thousand dollars, would you? You could spend a thousand dollars every second and still be a trillionaire. So in Salnthu, they had no reason to care whether something took one second or a thousand years, because they could make a thousand years ago by in an instant. Why make a faster computer when you can just]
 
 
+
+
+[sometime with talking to Ontoh, not sure of ordering]
+
+"What do you think happens if you bring a time machine back in time with you?"
+
+[Uhhhh, do you destroy the fabric of space-time?]
+
+Ethel had the answer to this one. [Her clear voice, immediately making sense of things and dispelling the fog] "[there's no way to physically distinguish whether you're in the interior of an argonian bubble.] So from the perspective of anyone who stays inside the bubble, it would have to behave exactly as you would expect for any other time machine. If you activated the inner time machine, you would 'go back' relative to <em>the time that the inner time machine experienced</em>, thus returning to what we'd call 'the future' from an outside perspective."

@@ -12,7 +12,7 @@ posts = [
   "chapter_title": "The Children That Couldn't Be Seen",
   "contents": '''
   
-Before I start telling you what I remember, I'd like to be clear about one thing. I don't want you to think of me as "<em>the real</em> Marvin ?????", or "<em>the original</em> Marvin ?????", or anything like that. Your brain is going to want to think of me that way, because I'm the one you know about – the one telling you the story. But time travel doesn't make distinctions like that. All of us branched out from the same original Marvin, and ?????
+Before I start telling you what I remember, I'd like to be clear about one thing. I don't want you to think of me as "<em>the real</em> Marvin ?????", or "<em>the original</em> Marvin ?????", or anything like that. Your brain is going to want to think of me that way, because I'm the one you know about – the one telling you the story. But time travel doesn't make distinctions like that. Even the ones that don't exist anymore, they were just as real as I am. And all of us branched out from the same original Marvin, and ?????
 
 [????? And because it's me, you're getting the story starting when I got involved] For Kayla, it started 6 years earlier, when the scientists first started using her. For the scientists, it started 12 years earlier, when they published the paper they didn't realize was about time travel. For certain other parties, it started at a time that's harder to explain – several months in the future, or thousands of years in the past, depending how you look at it.
 
