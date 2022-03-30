@@ -108,7 +108,7 @@ In response, she uttered some more of those words I couldn't understand. But she
 
 The next few minutes were a ?????horrifying blur.
 
-On some level, deep in my mind, I understood what my eyes were staring at. It was the animation I'd been working on. The only difference was the color, no longer green and red, but purple and white. But somehow, the colors reached deep into my brain, gripping my deepest instincts, holding me in a dreamlike state where I couldn't form a coherent thought, [my brain refusing to acknowledge that the Pattern was even there] [probably something humiliating from Marvin's past here] [more details referring back to the initial description] ?????
+On some level, deep in my mind, I understood what my eyes were staring at. It was the animation I'd been working on. The only difference was the color, no longer green and red, but purple and white. But somehow, the colors reached deep into my brain, gripping my deepest instincts, holding me in a dreamlike state where I couldn't form a coherent thought, [my brain refusing to acknowledge that the Pattern was even there] [an unconscious need to obey a incoherent range of commands] [probably something humiliating from Marvin's past here] [more details referring back to the initial description] ?????
 
 [????? my head still spinning, a stinging sensation in my arm, brain frantically digging through half-formed memories to find any idea of where I was, what had happened in the last hour –]
 
@@ -160,7 +160,7 @@ She continued in that same, dead-tired voice.
 
 But once you've forced out the first few words, the rest of the words come easier. Marvin lifted his head halfway out of his hands, not quite daring to look directly at the camera. "We – we're going to put this video in a zip file, with – with some other documents. You'll need to copy the whole zip file onto a USB stick so you can bring it back with you. I – I guess you should start copying it now, don't wait for the video to finish, it might take a little while. And then – we – we'll make some instructions for you to print out – so I guess you should start printing those, next, after you start the copy. [????? Video to show you how to use the time machine]" [????? he kept rambling, weak voice, not really believing in it]
 
-????? The Kayla crouching next to me – not tired like the one from the video, but gaunt, strung tight with terror – ????? "Why aren't you doing what he said?" she hissed.
+????? The Kayla crouching next to me – not [tired] like the one from the video, but gaunt, strung tight with terror – ????? "Why aren't you doing what he said?" she hissed.
 
 Her words [????? knocked me out of my hypnotized state]. I fumbled through Marvin's instructions, digging a USB drive out of a drawer in my desk, then finding the file to print – 02_print_this_out.png. It was definitely me who had chosen these filenames – practical names, telling me what I needed to know, using two digits out of habit even though the files only went up to ????? "09". It was eerie, seeing my own handiwork on something I had no memory of creating.
 
@@ -286,35 +286,6 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 
 
 [????? "So the first thing you need to keep in mind – you don't want to change your past, but right now, you ARE the past version. So that means you don't want to BE changed. Which basically means, don't look at anything you don't have to. If you look at something, and then you go back and change it, that's a problem. But if you didn't look at it, it's fine to change it. Of course, after you've gone back in time <em>once</em>, you'll be the future for one version of you, but the past for others. The rule is – you can always look at what your past selves are doing, but you don't want to look at anywhere you think your future selves might be.]
-
-
-?????
-
-[But Kayla was not at all satisfied by that plan. "You just want to break the time machines, arrest the bad guys and <em>leave</em>?"]
-
-["What else is there to do?"] [maybe cut this]
-
-["We need to take the time machines and use them! I don't care about going back to the world out there, it sucks anyway! But with time travel, we can <em>do</em> something about it!"]
-
-[Ah yes, she was a young person with grand ideas, jumping way ahead of what she could actually achieve – or so I thought at first. Maybe even: it's a good thing she didn't take my advice, because then we'd have all been screwed "It's okay to just leave the world better than you found it"]
-
-"Don't you know about climate change? About the rise of global fascism? The constant threat of nuclear war, ?????? Hell, even the pandemic? The world is already worse than when we found it. Doesn't matter if you do nothing but good deeds all day. Doesn't matter if I get out of here and live a [cute but in a mocking way] suburban little life. In twenty years we'll probably all be dead. You, me, <em>everyone</em>. And if we have a chance to <em>do</em> something about it –"
-
-[I realized how dramatically dramatically] my Kayla had already diverged from the one in the video. Video-Kayla [had spent her first N days of time travel experience assuming that you weren't allowed to change your own past, which made it not-so-useful (you could play the stock market, maybe), and had kept thinking in that framing after she learned Aster's notes. But for my Kayla, that revelation had been upfront, and she was already thinking from a framing where you could change your own past.]
-
-[Except that if you wanted to change it, you would end up like them. The one who made the decision would be erased from existence. And only the next version of you would keep going.]
-
-[I could tell I wasn't going to be able to stop her. "Can we just focus on the first problem?"]
-
-"Fine."
-
-
-[Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see]
-
-
-
-[We didn't know what was the deal with Reggie and Aster, but I'll let them explain it in their own words when we get to that part of the story.]
-
 
 
 ''',
