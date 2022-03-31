@@ -1,5 +1,3 @@
-
-
 ?????
 
 [But Kayla was not at all satisfied by that plan. "You just want to break the time machines, arrest the bad guys and <em>leave</em>?"]
@@ -23,6 +21,8 @@
 
 [Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see]
 
+[Buying lots of stuff: "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
+
 
 
 
@@ -30,9 +30,11 @@
 
 
 
-[Marvin thinks they should talk to Reggie, Kayla is resistant ("he stood around taking notes while they experimented on me!") They read the notes in more detail. Kayla reads more of Aster's notes while Marvin reads the time machine code?]
+[Marvin thinks they should talk to Reggie, Kayla is resistant ("he stood around taking notes while they experimented on me!"; At the very least can we just read his notes first) They read the notes in more detail. Kayla reads more of Aster's notes while Marvin reads the time machine code?]
 
 [Asters notes are extremely disorganized, lots of half formed sentences, using scientific terms that don't exist anywhere on the Internet. The scribblings of a genius, incomprehensible to us normal people. A note says "TODO: make a diagram of this". Notes about the other scientists, "(safe to come out to?)", Plans to stop Fuller,]
+
+["I mean they can't be the same person if Aster is writing that they wish they could talk to Reggie. Maybe Reggie was bad, but this Aster is against Fuller"? "No, whoever wrote these notes is definitely the one I've met, so the person we've met is Aster, and Reggie is someone else"]
 
 [Chapter break: The Bad Code]
 
@@ -51,3 +53,10 @@ As always, Kayla saw the problem immediately. "What happens if you say <em>exact
 "This must be what it feels like to read the code of the Therac-25." [Shaking my head?]
 
 ["The what?"; explanation of the Therac-25, "my professor said, this is why us software engineers need to take our responsibilities seriously"]
+
+
+["There's no way I can make sense of these notes. But you know who can? Aster..." Kayla doesn't like that. "Okay I know you have good reasons to not like that, but ?????. Also remember the other Kayla said maybe he is not evil?"]
+
+["No she said maybe it's more complicated than that" but Kayla was definitely considering it. "But we can't just go talk to him, the only thing keeping us safe is the fact that they don't know we've already time traveled. If we talk to him, what if he calls Fuller and then Fuller uses his keycard and goes back in time to stop us?"]
+
+["Well." Time to think about precautions! Eventually: "we could stay in the time machine room and call him, so if anything else happens we can go back in time again" "but then he could do anything he wants off camera – wait, is there a camera in his office?" There isn't, but we could PUT one in his office "wait, what if we come him before work? [They check the schedule] darn it, he talks to Fuller 2 minutes before Fuller talks to Marvin, so we basically can't contact him before he gets to his office" "we could have one of us wait in the time machine room, so if Fuller shows up]

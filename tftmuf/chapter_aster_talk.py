@@ -80,3 +80,16 @@ Aster's eyebrows shot up. "I'm eager to hear why you say that!"
 
 [I didn't realize how horrifying that was before I said it]
 
+
+?????
+
+
+[Low audio quality coming through the speakerphone + second call(?), but you could still hear the sneering sound of his voice] "Once again, one of your 'clever ideas' has cost the life of one of our valuable test subjects."
+
+[Aster smiling broadly, impossibly casual tone of voice] "You know full well [Billy] didn't die from [cyanosol], considering how much of it is [running in your veins (infiltrated in your brain? all of our brains?)] right now. But tell me, was this? Could we possibly be speaking of subject 2, Kayla ??????"]
+
+"[Who else would I be talking about? (Wait, Fuller should be better at this rhetorical game, e.g. "I'm sure it amuses you to play dumb") Yes, subject 2 is dead and you'd better take care of it]"
+
+"<em>Fascinating,</em>" said Aster.
+
+[Chapter break –]
