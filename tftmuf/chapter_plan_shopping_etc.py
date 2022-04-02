@@ -19,7 +19,25 @@
 "Fine."
 
 
-[Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see]
+[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable? We could use the Pattern! Maybe we don't feel good about using it on random innocent people. Maybe bring up the Ring of Gyges (Kayla would describe it, here we learn that Kayla has been a lot of philosophy to cope with existence. Kayla strongly believes that she wouldn't be corrupted by the ring)]
+
+
+
+[Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see:]
+
+["Hey! Watch out!"]
+
+[Kayla was pointing. At first I didn't see anything where she was pointing at, it was just part of the road. But I kept looking, trying to grasp what it was. There was a coyote there/the face of a coyote, not like it appeared out of nowhere, more like it had been there all along and somehow my eyes had just skipped over it. With purple and white stripes, like the Pattern. Holy crap! I yelled and shooed it away (waving an object?) and it ran off]
+
+["Were those there all along?"]
+
+[Yeah, I've been able to see them ever since they put me on [cyanosol]. They're all over the city, they are not scared of humans at all because humans can't see them]
+
+[I shuddered. There was one time when I had lost a sandwich while I was [standing around], I had thought I must have put it down somewhere by mistake, but probably a coyote had eaten it out of my hand and my brain just erased it from my memory. "How much other stuff is there that we can't see?"]
+
+["The coyotes are the only thing I've seen. But you know… They're the only one I've <em>seen</em>." The implication was clear – there could be more things, and we wouldn't have any idea how many things we weren't aware of. "[Maybe: Reggie was never fully satisfied with my progress, so there must be more to see even for me]"]
+
+
 
 [Buying lots of stuff: "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 
