@@ -201,11 +201,14 @@ But it was already making sense to me. "'Work expands to fill the time available
 
 [Uhhhh, do you destroy the fabric of space-time?]
 
-Ethel had the answer to this one. [Her clear voice, immediately making sense of things and dispelling the fog] "[there's no way to physically distinguish whether you're in the interior of an argonian bubble.] So from the perspective of anyone who stays inside the bubble, it would have to behave exactly as you would expect for any other time machine. If you activated the inner time machine, you would 'go back' relative to <em>the time that the inner time machine experienced</em>, thus returning to what we'd call 'the future' from an outside perspective."
+Ethel had the answer to this one. [Her clear voice, immediately making sense of things and dispelling the fog] "[there's no way to physically distinguish whether you're in the interior of an argonian bubble./From the perspective of matter inside an argonian bubble, physics behaves the same as normal] So from the perspective of anyone who stays inside the bubble, it would have to behave exactly as you would expect for any other time machine. If you activated the inner time machine, you would 'go back' relative to <em>the time that the inner time machine experienced</em>, thus returning to what we'd call 'the future' from an outside perspective."
 
 
 
 [Ethel: One develops an intuition for what observed behaviors might be emergent properties of physics, and what are based on human assumptions. And this budget rule doesn't feel elegant. [Are we in a simulation/imagined by a worldbrain? Was there another world before Salnthu, that somehow imposed the budget restriction?] I suppose it does have a certain stark elegance to it, in that you can never observe how much budget is left, because its only effect is to make your entire timeline cease to exist]
+
+
+[Ethel: hmm, it could just as easily prevent the "duplicating objects" trick by having "pinched off" timelines count as a contradiction and reset. But that's physics for you, utterly arbitrary and indifferent to what humans think is intuitive]
 
 
 [Wondering what to call the uninformed people]

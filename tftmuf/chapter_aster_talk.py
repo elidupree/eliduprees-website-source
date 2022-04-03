@@ -2,6 +2,34 @@
 
 ["So you're time travellers" said Aster, their face lighting up] "And if you've killed me before, you must know that you can change your own past! I take it my experiment was a success?"
 
+["What experiment?"
+
+"The ?????phorin experiment? The one that's going to happen at 11 AM today?" ????? "Your expression tells me the experiment never happened! Fascinating! Then how did you come to know that you could change your own past?"
+
+"We're asking the questions here!" ????? "What was the experiment supposed to do, anyway?]
+
+????? Big explanation ... next part probably AFTER ["how can we trust you?" below]
+
+[… It's perfectly safe, we already tested ?????phorin on several other human subjects. We wouldn't put <em>you</em> at risk, you're our most valuable test subject –"]
+
+"I'm not your test subject."
+
+"– you <em>were</em> our most valuable test subject," Aster conceded, [with a little dip of the head in acknowledgment?].
+
+"And what makes me so special, anyway?"
+
+"Ahhhh, [you see, we have been looking for more people like me(?)] [People who can resist.] [we tried to find other naturally resistant people / like paranoid people? / you'd think so, but clinical paranoia only makes them more vulnerable, because they can more easily make up alternative explanations for what they see. The people who are least affected – and only by a little – are children, probably because they haven't developed as much self-censorship yet. So we posted the Pattern as a custom level on a web gaming platform used by children. We paid to promote it, so hundreds of thousands of people saw it] [Somewhere in there: we searched online for people reporting purple striped coyotes, but couldn't find anything]
+
+"You found a cognitohazard, and the first thing you did was posted it on the Internet?!"
+
+Aster laughed. "When you put it that way, it does sound irresponsible! But, can you guess what happened?]
+
+"No one could see it," I said. [Realization dawning? Or just used to this by now? Maybe unconsciously validated that there's someone else who understands the experience?]
+
+"Exactly. [Normally, a level like that would have thousands of star ratings. But despite hundreds of thousands of people seeing it, nobody played the level and gave it a rating. Nobody except for one. The level earned a single one-star rating… From you.]"
+
+
+
 
 
 
@@ -19,8 +47,6 @@
 
 "Uh… who says I'm on 'your team'?" [I replied. But I didn't have conviction. I had always had a weakness to people who act buddy-buddy with you. Aster's style was incredibly friendly and disarming]
 
-
-[not sure if in this chapter or later - we tried to find other naturally resistant people / like paranoid people? / you'd think so, but paranoia only makes them more vulnerable, because they can more easily make up alternative explanations for what they see]
 
 
 [The phrenochondria show evidence of incredibly advanced genetic engineering, but who could possibly have the technology to do that?]
