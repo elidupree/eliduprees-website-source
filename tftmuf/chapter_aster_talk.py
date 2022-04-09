@@ -28,6 +28,8 @@ Aster laughed. "When you put it that way, it does sound irresponsible! But, can 
 
 "Exactly. [Normally, a level like that would have thousands of star ratings. But despite hundreds of thousands of people seeing it, nobody played the level and gave it a rating. Nobody except for one. The level earned a single one-star rating… From you.]"
 
+[Being special made Kayla a target]
+
 
 
 

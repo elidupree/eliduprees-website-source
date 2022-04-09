@@ -78,3 +78,15 @@ As always, Kayla saw the problem immediately. "What happens if you say <em>exact
 ["No she said maybe it's more complicated than that" but Kayla was definitely considering it. "But we can't just go talk to him, the only thing keeping us safe is the fact that they don't know we've already time traveled. If we talk to him, what if he calls Fuller and then Fuller uses his keycard and goes back in time to stop us?"]
 
 ["Well." Time to think about precautions! Eventually: "we could stay in the time machine room and call him, so if anything else happens we can go back in time again" "but then he could do anything he wants off camera – wait, is there a camera in his office?" There isn't, but we could PUT one in his office "wait, what if we come him before work? [They check the schedule] darn it, he talks to Fuller 2 minutes before Fuller talks to Marvin, so we basically can't contact him before he gets to his office" "we could have one of us wait in the time machine room, so if Fuller shows up -- "we can't wait IN the time machine room, we need to leave it open for us to come out of later, but we can wait NEAR it"]
+
+
+
+[Kayla wants to do backup plans where they might cease to exist, seems unconcerned about it, while Marvin is very worried. Finally Marvin gets the idea and asks: "do you <em>want</em> to cease to exist?"]
+
+"I'm not going to kill myself," she said decisively. "[If I kill myself then I'm letting the bad guys win]"
+
+[She left the significant thing unspoken: the fact that she had spent enough time to thinking about it to have a clear answer. [" But when someone has a clear, decisive answer, that's because they've [spent a lot of time thinking about it/considering it]"]]
+
+
+[]
+
