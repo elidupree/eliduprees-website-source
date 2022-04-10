@@ -19,8 +19,6 @@
 "Fine."
 
 
-[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable? We could use the Pattern! Maybe we don't feel good about using it on random innocent people. Maybe bring up the Ring of Gyges (Kayla would describe it, here we learn that Kayla has been a lot of philosophy to cope with existence. Kayla strongly believes that she wouldn't be corrupted by the ring)]
-
 
 
 [Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see:]
@@ -36,6 +34,12 @@
 [I shuddered. There was one time when I had lost a sandwich while I was [standing around], I had thought I must have put it down somewhere by mistake, but probably a coyote had eaten it out of my hand and my brain just erased it from my memory. "How much other stuff is there that we can't see?"]
 
 ["The coyotes are the only thing I've seen. But you know… They're the only one I've <em>seen</em>." The implication was clear – there could be more things, and we wouldn't have any idea how many things we weren't aware of. "[Maybe: Reggie was never fully satisfied with my progress, so there must be more to see even for me]"]
+
+
+
+
+[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable? We could use the Pattern! Maybe we don't feel good about using it on random innocent people. Maybe bring up the Ring of Gyges (Kayla would describe it, here we learn that Kayla has been a lot of philosophy to cope with existence. Kayla strongly believes that she wouldn't be corrupted by the ring). Or maybe they don't think of using the Pattern until they run into the coyotes, but after the coyotes, they realize the possibility and talk about the Ring. After Kayla brings it up, Marvin is a little surprised ("this is some real Ring of Gyges shit" "ring of what?" "It's a story from Plato's the republic" Marvin mumbles something vaguely surprised "You're just like everyone else. Are you going to listen to what I have to say, or are you just going to stand around gaping?" I remembered the line from the Minnesota starvation experiment "I'm sorry, I shouldn't have made assumptions. Please, tell me what you were going to tell me". [Here or maybe earlier: later, I would learn how Kayla had spent a lot of time reading philosophy on the Internet to cope with existence, when she was around 12]]
+
 
 
 
