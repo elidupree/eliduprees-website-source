@@ -47,6 +47,24 @@ I shouldn't have said it in front of Kayla [????? who was still on high alert. S
 
 "Unless
 
+
+?????
+
+[Kayla unusual gesture to open a door, holding it underhanded and pulling upwards from the shoulder]
+
+"Is your arm okay?"
+
+"<em>Polyneuropathy, not-otherwise-specified,</em>" she said, her voice an irritable singsong – the voice of someone who has had to explain the same thing over and over, and is sick of it. "My arms are weak. I get phantom pains. No one knows why."
+
+"Is that – er, is it okay if I ask, uh –" I stumbled over my words.
+
+"I hate when people coddle me!" she snapped. "Ask your question already!"
+
+"Er. Okay. Is that something they did to you? When they experimented on you?"
+
+Evidently, that wasn't the question she expected, because she [got less defensive]. "No," she said. "I've always had this. It's not what they did to me, it's their <em>excuse</em>. [Cutting-edge neuroscience, they said. Chance to solve her 'problem', they said.] I don't think Fuller even listened to what my problem was before he said he could solve it."
+
+
 <bigbreak>
 
 

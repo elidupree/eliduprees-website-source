@@ -42,6 +42,24 @@
 
 
 
+"… But Plato's conclusion is unsatisfying. He says that people who behave justly will ultimately be recognized and rewarded, first by other humans, and then by the gods in the afterlife. But obviously none of that is happening."
+
+????? "Do you believe in God?"
+
+"Of course not," she said. "And if there <em>was</em> a God, they'd be evil. If there was anyone who has power, and they weren't evil, they would do something about all this." She [made a gesture all around]. She didn't just mean [the evil scientists], she meant our whole capitalist dystopia. "Look at who is in charge in this country, they are all Gyges-es"
+
+
+
+"[Maybe a child who grew up with the ring for their whole life, since before they developed their moral beliefs, but, <em>I</em> wouldn't use the ring of gyges to do evil stuff. Would you? If you could go into anyone's house whenever you want, and take whatever you want,]"
+
+[I was uncomfortable because I knew that the temptation did exist for me] "I mean, uh… if you, like, steal someone's PlayStation, there's someone who's actually using that. They're going to be upset, they're going to have to replace it… maybe I'd steal from, you know," I nodded at the store in front of us.
+
+"That doesn't count. Stealing from megacorps is a social good."
+
+[But another thought was sneaking into the back of my mind. Sure, maybe I didn't like to upset people. But what about looking through everyone's private photos? What about bank scams where you steal half a cent from every account? If I could have whatever I wanted, and no one would even know that there was something to be upset about…]
+
+
+
 
 [Buying lots of stuff: "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 
