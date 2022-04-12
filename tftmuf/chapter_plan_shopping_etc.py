@@ -19,6 +19,8 @@
 "Fine."
 
 
+[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable?]
+
 
 
 [Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see:]
@@ -38,7 +40,28 @@
 
 
 
-[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable? We could use the Pattern! Maybe we don't feel good about using it on random innocent people. Maybe bring up the Ring of Gyges (Kayla would describe it, here we learn that Kayla has been a lot of philosophy to cope with existence. Kayla strongly believes that she wouldn't be corrupted by the ring). Or maybe they don't think of using the Pattern until they run into the coyotes, but after the coyotes, they realize the possibility and talk about the Ring. After Kayla brings it up, Marvin is a little surprised ("this is some real Ring of Gyges shit" "ring of what?" "It's a story from Plato's the republic" Marvin mumbles something vaguely surprised "You're just like everyone else. Are you going to listen to what I have to say, or are you just going to stand around gaping?" I remembered the line from the Minnesota starvation experiment "I'm sorry, I shouldn't have made assumptions. Please, tell me what you were going to tell me". [Here or maybe earlier: later, I would learn how Kayla had spent a lot of time reading philosophy on the Internet to cope with existence, when she was around 12]]
+"Wait, what if we put the Pattern on ourselves, like printed it on a shirt? Would people not see us, the same way they can't see the coyotes?"
+
+[("this is some real Ring of Gyges shit" ]
+
+"Ring of what?"
+
+"It's a story from Plato's <cite>The Republic</cite>. A man named Gyges finds a magic ring –"
+
+[I was surprised/not expecting Kayla to be referencing Plato. "That's, uh, impressive," I mumbled.]
+
+[Kayla immediately saw the implication that I wasn't expecting that much from her, and turned serious anger on me] "You're just like everyone else. Are you going to listen to what I say, or are you just going to stand around gaping?"
+
+[I felt defensive, but I remembered something I'd read when I looked up the Minnesota Starvation Experiment, a quote from the guidebook they'd made:] "Refrain from arguments; the starving are ready to argue on little provocation, but they usually regret it immediately." [I swallowed my defensiveness, long enough to realize that she had made a fair point. "I'm sorry, I shouldn't have made assumptions. Please, [tell me what you were going to tell me]."
+
+[Kayla began the story: (and/or bigbreak?)]
+
+As I would later learn, [Kayla had spent lots of time reading philosophy when she was around 12, to cope with her anger and distress about everything around her. When you're having thoughts that bring you distress, about something you can't do anything about, you have two choices: you can [distract yourself and avoid thinking about the thing,] or you can [keep thinking about the thing. Mentally engaged with it. Face it.] And Kayla had always chosen the latter. She had chosen to keep trying to find ways to make sense of it/ways to interpret it that were acceptable to her.]
+
+["A man named Gyges finds a magic ring that can make him invisible," she began. "..."]
+
+
+[(Kayla strongly believes that she wouldn't be corrupted by the ring)]
 
 
 
@@ -47,6 +70,8 @@
 ????? "Do you believe in God?"
 
 "Of course not," she said. "And if there <em>was</em> a God, they'd be evil. If there was anyone who has power, and they weren't evil, they would do something about all this." She [made a gesture all around]. She didn't just mean [the evil scientists], she meant our whole capitalist dystopia. "Look at who is in charge in this country, they are all Gyges-es"
+
+[Maybe: K: what about you? / M: I'm not sure what I believe]
 
 
 
