@@ -157,7 +157,7 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 
 
-[Also, is going back in time murder? Kayla says we SHOULD consider the idea that we are murdering and/or torturing billions of people by going back in time even once. So they have to talk about the basis of their moral system. Maybe Reginald says "when I said ethics, I didn't necessarily mean we needed to go deep into moral philosophy"/?????/"I guess maybe we do need to go deep into moral philosophy… I suppose we are not short of [he said the word with absolute disdain] <em>time</em> for such a discussion"… So what is the fundamental basis of morality?. Someone says that suffering is bad and satisfaction is good, and it's the total amount of suffering and satisfaction that makes the world good and bad. How do you tell whether to Something is murder? Well, the reason murder is bad is because it causes people to suffer]
+[Also, is going back in time murder? Kayla says we SHOULD consider the idea that we are murdering and/or torturing billions of people by going back in time even once. So they have to talk about the basis of their moral system. Maybe Reginald says "when I said ethics, I did not necessarily mean we needed to go deep into moral philosophy"/"but of course we need to!"/" Yes, now that you say so, I can see that it was inevitable, given the unprecedented nature of the forces at play. I suppose we are not short of [he said the word with absolute disdain] <em>time</em> for such a discussion"… So what is the fundamental basis of morality?. Someone says that suffering is bad and satisfaction is good, and it's the total amount of suffering and satisfaction that makes the world good and bad. How do you tell whether to Something is murder? Well, the reason murder is bad is because it causes people to suffer]
 
 "But then destroying the entire universe would be a morally neutral act" [because no one suffers afterwards]
 
@@ -220,4 +220,30 @@ Reginald's deep voice cut through our bickering. "<em>Civilians</em>," he said.
 That was a sobering thought. [We were essentially [Earth]'s military now., And Reginald was reminding us to take our responsibility to Earth's people seriously]
 
 
+
+[Reginald: God gives us difficult moral puzzles but it's our obligation to unravel them]
+
+[Kayla: that's not true because God doesn't exist]
+
+[Reginald: I'll thank you to not insult my beliefs]
+
+[Kayla: I'm not insulting your beliefs, I'm telling you the truth. That's my whole thing, I see the truth when everyone else is able to deny it. In fact, why is this so hard for you to believe? We've just freed you from the mind control, and now you believe that time travel and Nochli exist. How come "God doesn't exist" is a bridge too far?]
+
+[Surprisingly, Ontoh spoke up. "It is because he already knows that God doesn't exist."]
+
+["What?"]
+
+[Ontoh somewhat reserved tone, frowning-curious, not angry or judgmental (but remember the physical quality of their voice), "I was not intending to [discuss] these [Earth] superstitions, because it's not relevant to beating Nochli, but if it's going to become a conflict between [people on our team], we need to address it. His beliefs about time travel and Nochli are based on facts, so when he learned new facts, he changed his beliefs. But his belief in God is not based on facts, he believes it because he wants to believe it, so he wouldn't change it just because he learned new facts. But the real question is –"]
+
+Reginald and Kayla both spoke at once.
+
+"[That is an awfully reductive way to describe the practice of personal faith, but] –"
+
+"People shouldn't go around believing things that aren't based on facts!" said Kayla angrily.
+
+"But the real question is," continued Ontoh [calmly, unperturbed], "why do [the people of this timeline] <em>want</em> to believe in God?"
+
+[We digested the implication. Next bit: Ontoh explains how monotheism originated with Zoroaster shortly after the introduction of the phrenochondria. People did believe in gods before, but they were adventurous legends about powerful people with human flaws fighting each other and such. The concept of a single all-powerful being, an ultimate authority, was completely new. People did not like being ruled over by kings and such; why would "being ruled over by the ultimate king" even be something that they would desire to fantasize about? Did Nochli intend this? It wasn't explicitly in the plan, but since the phrenochondria were intended, among other things, to make humans compliant, maybe it made them desire to have a ruler, and Zoroaster simply realized that he could take advantage of that desire. (Meanwhile: "what about Judaism, isn't that older?/Yes, but it wasn't monotheistic")]
+
+…and then I suppose Nochli would be happy to step into this role of 'God', when they reveal themselves
 
