@@ -85,6 +85,8 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 
 
+[Shopping: avoiding people's gaze, talking quietly with Kayla about what we need. Getting food was tricky because Kayla was very carefully restraining herself but I couldn't stop noticing the hungry way she was staring at everything.]
+
 
 [Buying lots of stuff: "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 
