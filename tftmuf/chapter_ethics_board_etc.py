@@ -75,6 +75,8 @@ I sat down with her in her office [physical description; she had arrived several
 
 [She was a little surprised, but not unfavorable to the idea. I started with easy questions, learning a long story of interesting details about her history with the University]
 
+[Pretty soon after she started talking] It was easy to see why Ethel Wright was so [widely respected]. [The way she spun the story immediately drew me in, and even her explanations of physics stuff were surprisingly understandable to me, a person who had bounced off physics in high school.]
+
 ?????
 
 [An experiment involving an iron vessel, but the results were very confusing, and she kept forgetting to follow up on it]
@@ -97,11 +99,39 @@ And then I came to the [big question that was the biggest purpose of this talk].
 
 [She tries to call Doctor Fuller, the phone rings and rings – or is Marvin carrying the phone right now?] "
 
-[Marvin didn't expect to be angry, but seeing that Dr. Wright knew about the children and tried to cover it up makes him start saying things in a somewhat angry way]
+["Who are you and what have you done with Dr. Fuller?!"
 
-?????
+"You called him," I said, [kind of: stunned by the reality.] I shouldn't have been shocked by it, but seeing her actually do it – take Fuller's side the instant she knew there was a conflict – ?????
 
-"I've never met you before, but you recognize my face," [said Kayla grimly]. "Seen photos of your test subjects, have you? Maybe through a surveillance camera?"
+[She stood up from her desk]
+
+"I wouldn't walk out that door if I were you," I said [dangerously] [Marvin didn't expect to be angry, but seeing that Dr. Wright knew about the children and tried to cover it up makes him start saying things in a somewhat angry way]
+
+[Still dignified] "Are you threatening me?"
+
+[My plans for how to talk to her were going off the rails, I was angry] "Dr. Fuller is dead," I declared. "We control the time machines now. ?????"
+
+[She froze standing halfway to the door – I could see on her face that she was rebalancing how to approach this conversation] "I had nothing to do with Dr. Fuller's experiments –"
+
+"You knew about them, and you tried to cover them up, [I accused]. "Do you know what Reggie did when we first met him? The instant he knew we were enemies of Fuller, he was on our side and against Fuller, he told us everything. But <em>you</em> – you tried to cover for him, you tried to warn him about me –"
+
+"Dr. Fuller [has authority – had authority – over this entire project, he would retaliate if any of us betrayed him –]"
+
+"I've had enough of this!" snapped Kayla's voice.
+
+[Kayla barged into the room before we could react. Both of us turned, surprised, to focus on her, the sudden new danger]
+
+[Kayla stood framed in the doorway, blocking the only way out. Stood tall and proud, like an avenging angel (?), carrying the rifle. I had trained her well/She remembered my training/even though she was angry, she remembered her training/; although she was obviously threatening Ethel with the gun, her finger was outside the trigger guard and the barrel was only pointed near her feet.]
+
+[Long moment of silence, everyone staring at each other]
+
+[Kayla broke the silence. "Eyewitness testimony is notoriously unreliable," she began [explaining things, as if she was delivering her proof; she could speak less-than-angrily because she had all the power in the situation]. "And part of that is because of <em>weapon focus</em>. If a witness sees someone with a weapon, they're more likely to pay attention to the weapon, and miss other details. But <em>you</em> barely glanced at my gun. You're looking directly at my face. Do you want to tell me why that is?"]
+
+[I didn't understand, but Ethel had a look like she'd been caught]
+
+"It's because you recognize me," Kayla went on [grimly]. "You want to see if I'm the same person you've seen on video, [in the recordings of dozens of experiments, which you stayed away from in order to keep your hands clean]"
+
+[Dr. Wright lowered herself back into her chair, moving slowly/bearing her weight on spindly old arms, all of the energy-to-defend-herself drained out of her.]
 
 ["I… I cannot deny ????? I didn't want Fuller to do this,"]
 
@@ -117,7 +147,7 @@ She bowed her head. "Is this my judgment, then?"
 
 "We are not God," I said, a bit reproachfully.
 
-"Speak for yourself," said Kayla grimly, still poised to draw the rifle [the moment she chose]. But she knew she was in control of the situation. She had no intention of killing Ethel Wright in cold blood, but she wanted her to be afraid. She wanted her to ????? [experience the ????? that she had experienced? Understand how much her life was on the line, and Kayla was only reluctantly granting her mercy?] "<em>Unfortunately</em>, [we still need something from you, to protect us from something far worse than you are, so don't have the luxury to give you what you deserve. So you get to take the antidote]"
+"Speak for yourself," said Kayla grimly, still poised to draw the rifle [the moment she chose]. But she knew she was in control of the situation. She had no intention of killing Ethel Wright in cold blood, but she wanted her to be afraid. She wanted her to ????? [experience the ????? that she had experienced? Understand how much her life was on the line, and Kayla was only reluctantly granting her mercy?] "<em>Unfortunately</em>, [we still need something from you, to protect us from something far worse than you are, so don't have the luxury to give you what you deserve. So you get to take the antidote. [Luckily for you, you're going to get exactly what you wanted. You get to know the truth. I hope it terrifies you]]"
 
 
 
