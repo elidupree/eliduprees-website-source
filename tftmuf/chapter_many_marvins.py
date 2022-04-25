@@ -1,3 +1,26 @@
+At this point, my story skips forward a bit.
+
+You see, <em>I</em> wasn't the Marvin who had to build the initial duplication device. For <em>that</em> Marvin – who we later came to call Marvin Alpha – there were weeks of grueling work, [programming, building, keeping tabs on our prisoners and collaborators]. But for me, [I experienced only a few minutes of time from when we reset the original time machine to when Marvin Alpha and Kayla Alpha stepped out of it, to invite us into the future as their duplicates.]
+
+As best I understand it, [Marvin Alpha had a terrible time/as soon as the adrenaline ran out, he had a mental breakdown/he couldn't concentrate on the engineering and locked himself in a room hiding for subjective days/Kayla Alpha had to yell at him to get back to work/he had a huge fight with Kayla where they both said hurtful things to each other, which he later deleted the recording of because he didn't want the rest of Marvins to be tempted to listen to it.] By the time he picked me up, he was barely holding it together. And he never wanted to be duplicated himself. We only duplicated the Marvins who started out like me, [not having had the crash yet, so that it could be made easier for them].
+
+[Detailed narration of the initial duplication, with the "Kaylas arguing, Marvins hesitating" "this is painful to watch!" Thing]
+
+And then my story skips forward <em>again</em>.
+
+[You see, in the <em>first</em> timeline, the little group of us went on to start working together, establishing a little community and starting work on less janky time machines. And before long, they went back to duplicate another copy of the little group, so from the perspective of the second batch, right after they experienced being duplicated by Marvin Alpha, they experienced the little group of them being duplicated again, by the members of the first copy of the little group. But I wasn't in the second batch, either. Or the third, or the fourth. By the time they collected the batch that included <em>me</em>, there were already about 200 each of us. A community with policies. The Marvin and Kayla who picked me up looked much more [not haggard], and they had a much more professional-looking time machine]
+
+
+
+[Being led past the bunch of Marvins who are hanging out, cuddling and playing video games]
+
+
+He actually called it "onboarding", as if we were a tech company, and not [basically the SCP foundation].
+
+
+
+[Onboarding: new Marvins are required to rest for at least a week, they can start getting to up to speed but can't work; each Marvin gets a new name/designation, chosen from a list of not-yet-used options; at some point the debriefer offers a hug, with discussion (dialog or narration? Maybe narration?) About how they experimented with the most effective way to get new Marvins comfortable with it]
+
 
 
 [When PoV-Marvin is being debriefed: "and we've only had a few time travel mishaps". I'm sure for [the debriefer] this felt like something to be proud of, because they had been programming for umpteen person-months, and only had a few mishaps. But for me, who had just recently [ranted about unit testing, thought about how I would do stuff reliably], it was like all my planning had immediately been rewarded by "haha, you failed anyway!". "A few mishaps?" I exploded. "????? [Every single mishap could immediately end the world as we know it]]
@@ -38,6 +61,14 @@
 
 "– unresolved challenges with extending a Kayla beyond 5 subjective years," said Kayla crisply. She looked like she was [about 21, and thus, near the end]. No doubt, she wanted to [nip this topic in the bud] [so as not to have it be the topic of debate] "We are working on improvements to Kayla Management. But there are no guarantees."
 
-[Somewhere in here there should be a joke about mathematicians being happy to be locked in a room doing mathematics all day?]
+[Somewhere in here there should be a joke about mathematicians being happy to be locked in a room doing mathematics all day?/Maybe in response to "we have to consider the ethics of how this would affect the mathematician"/Reginald would then complain about the joke]
 
 [There was some more debate, but the overwhelming necessity may be outcome inevitable – the ethics board unanimously approved the proposal. This really was something that couldn't be hired out without revealing what it was for, because defining the properties you needed to prove required you to understand the system]
+
+
+[amusingly, the mathematician actually WAS happy to be locked in a room doing mathematics all day?]
+
+
+[The process of writing proofs promptly finds dozens of bugs, which makes Marvin very uneasy. The mathematician is quickly in high demand by many Marvins.]
+
+[Bunch of stuff about developing new time travel devices, including paradox traps, and how the formal verification plays into it]

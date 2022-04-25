@@ -39,3 +39,12 @@ Aster took a step closer. "Precisely <em>because</em> of my memory disorder, I'v
 ["it's, uh, I can't tell you because you won't be able to understand"]
 
 [But ?????. I had spent a lot of time watching myself on camera in the last few days, and I'd learned more about my mannerisms than I had ever wanted to. So I very precisely recognized the tone of voice he was using – the tone of being excited to have realized something – in this case, excited to have thought of a plausible excuse
+
+
+
+
+"If you were from the main timeline, you wouldn't be angry. You would be laughing at me for being defeated so easily."
+
+[Chapter break – The Future They Made Us Forget]
+
+
