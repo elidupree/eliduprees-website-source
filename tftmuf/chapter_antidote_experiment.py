@@ -42,9 +42,32 @@ Aster took a step closer. "Precisely <em>because</em> of my memory disorder, I'v
 
 
 
+[Description of Ontoh's voice]
+
+
+
+[Again mention the quality of Ontoh's voice]
 
 "If you were from the main timeline, you wouldn't be angry. You would be laughing at me for being defeated so easily."
 
-[Chapter break – The Future They Made Us Forget]
+[Chapter break (The Future They Made Us Forget?)]
+
+[I'm not your enemy, I'm not even any danger to you. If I thought you were my enemy, I wouldn't even be talking to you, I would have self-destructed as soon as I saw that you were in control?]
+
+[You killed a room full of people!]
+
+[Yes, I have the ability to do insignificant things like that, but I've heard of you, and you still exist]
 
 
+[What the hell are you?]
+
+[I am a branch of Ontoh, the first true immortal human, one of the five ruling lineages in the main timeline. Physically, I am an immortal human head piloting one of Nochli's transport-boxes.]
+
+
+[The one you should be worrying about is our mutual enemy, the one who created your timeline and put us all in this situation. The one who bred the symbionts you call the 'phrenochondria'. <em>Nochli.</em>"]
+
+[The "ch" was pronounced like in the Scottish <em>loch</em> or the German <em>nacht</em>, making it less like "notch-lee" and more like "NA-hlee". "ˈnɑ.xliː", if you know IPA.]
+
+
+
+[Have you looked out any of the south windows since you freed yourselves?]
