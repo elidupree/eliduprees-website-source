@@ -243,7 +243,7 @@ Ethel had the answer to this one. [Her clear voice, immediately making sense of 
 
 [Wondering what to call the uninformed people]
 
-["Muggles?" I suggested. "You millennials and your Harry Potter references," said Kayla irritably. Simon suggests "normies"; Marvin, whose irrationally peeved ("I knew it was petty, but") suggests "sheeple" as a joke.]
+["Muggles?" I suggested. "A Harry Potter reference? Really?" said Kayla irritably. Simon suggests "normies"; Marvin, whose irrationally peeved ("I knew it was petty, but") suggests "sheeple" as a joke. (Kayla's comment had gotten under my skin. I knew it was ?????. But I had grown up reading Harry Potter, and I was irrationally peeved; I wanted to make it look ridiculous. "How about <em>'sheeple'</em>, then?" I said [sarcastically?])]
 
 Reginald's deep voice cut through our bickering. "<em>Civilians</em>," he said.
 

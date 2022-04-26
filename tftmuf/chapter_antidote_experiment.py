@@ -71,3 +71,12 @@ Aster took a step closer. "Precisely <em>because</em> of my memory disorder, I'v
 
 
 [Have you looked out any of the south windows since you freed yourselves?]
+
+
+
+
+[We're not calling it the main timeline. What's it called in your language? Salnthu, and your world could be named after the changes Nochli made, particularly the 'phrenochondria', which Nochli called '?????', meaning 'a fence to keep livestock from wandering out of the field', so your world would be '?????nthu']
+
+[M: so we're basically sheep, then?]
+
+[K: I'm not calling my world that]

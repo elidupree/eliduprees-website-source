@@ -26,7 +26,11 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 [When PoV-Marvin is being debriefed: "and we've only had a few time travel mishaps". I'm sure for [the debriefer] this felt like something to be proud of, because they had been programming for umpteen person-months, and only had a few mishaps. But for me, who had just recently [ranted about unit testing, thought about how I would do stuff reliably], it was like all my planning had immediately been rewarded by "haha, you failed anyway!". "A few mishaps?" I exploded. "????? [Every single mishap could immediately end the world as we know it]]
 
 
-[We call it "Kayla Management". Don't worry, Kayla knows that we call it that, she actually approves of it. She said it was a form of 'instrumentality', which is a form of objectification where you treat someone else as a tool to achieve your goals, literally an 'instrument'. And I thought she was criticizing me at first, but she was actually approving of it. She is instrumentalizing herself, she wants both of us to use her as efficiently as possible]
+[We call it "Kayla Management". Don't worry, Kayla knows that we call it that, she actually approves of it. She said it was a form of 'instrumentality' –]
+
+"Instrumentality?"
+
+"Apparently, that's something from feminist philosophy. It's [a form of objectification where you treat someone else as a tool to achieve your goals, literally an 'instrument'. And I thought she was criticizing me at first, but she was actually approving of it. She is instrumentalizing herself, she wants both of us to use her as efficiently as possible]
 
 
 
