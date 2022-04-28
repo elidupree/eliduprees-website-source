@@ -65,7 +65,13 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 "– unresolved challenges with extending a Kayla beyond 5 subjective years," said Kayla crisply. She looked like she was [about 21, and thus, near the end]. No doubt, she wanted to [nip this topic in the bud] [so as not to have it be the topic of debate] "We are working on improvements to Kayla Management. But there are no guarantees."
 
-[Somewhere in here there should be a joke about mathematicians being happy to be locked in a room doing mathematics all day?/Maybe in response to "we have to consider the ethics of how this would affect the mathematician"/Reginald would then complain about the joke]
+[We're talking about having this mathematician actually understand all of the time travel rules. For every additional person we brin in, we need to consider the risk that they will later make their own time machines. And turn Earth into Salnthu. How are you going to make sure that doesn't happen? Are you planning to lock them up for the rest of their life?]
+
+[I joked that plenty of mathematicians would be happy to be locked up doing mathematics for the rest of their life]
+
+["[It is not appropriate] for you to joke about [abuse] when you are in a position [where you could actually commit it]!"]
+
+[Kayla talks about vetting them]
 
 [There was some more debate, but the overwhelming necessity may be outcome inevitable – the ethics board unanimously approved the proposal. This really was something that couldn't be hired out without revealing what it was for, because defining the properties you needed to prove required you to understand the system]
 
@@ -73,6 +79,6 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 [amusingly, the mathematician actually WAS happy to be locked in a room doing mathematics all day?]
 
 
-[The process of writing proofs promptly finds dozens of bugs, which makes Marvin very uneasy. The mathematician is quickly in high demand by many Marvins.]
+[The process of writing proofs promptly finds dozens of bugs, which makes Marvin very uneasy ("When would this be over? this thing of constantly being one mistake away from ending humanity?"). The mathematician is quickly in high demand by many Marvins.]
 
 [Bunch of stuff about developing new time travel devices, including paradox traps, and how the formal verification plays into it]
