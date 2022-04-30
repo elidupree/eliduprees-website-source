@@ -26,6 +26,10 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 [When PoV-Marvin is being debriefed: "and we've only had a few time travel mishaps". I'm sure for [the debriefer] this felt like something to be proud of, because they had been programming for umpteen person-months, and only had a few mishaps. But for me, who had just recently [ranted about unit testing, thought about how I would do stuff reliably], it was like all my planning had immediately been rewarded by "haha, you failed anyway!". "A few mishaps?" I exploded. "????? [Every single mishap could immediately end the world as we know it]]
 
 
+
+
+[debriefer warning Marvin about what could happen with Kaylas ("don't try to stop her from deleting herself"); video of "kayla going to delete herself"]
+
 [We call it "Kayla Management". Don't worry, Kayla knows that we call it that, she actually approves of it. She said it was a form of 'instrumentality' –]
 
 "Instrumentality?"
