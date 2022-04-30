@@ -72,11 +72,19 @@ Aster took a step closer. "Precisely <em>because</em> of my memory disorder, I'v
 
 [Have you looked out any of the south windows since you freed yourselves?]
 
+[giant nochli blimp, "in this city people tend to keep their heads down and not look up, is this why???"]
 
 
 
-[We're not calling it the main timeline. What's it called in your language? Salnthu, and your world could be named after the changes Nochli made, particularly the 'phrenochondria'. Nochli called them '?????', named after their word for a fence to keep livestock from wandering out of the field. So your world would be '?????nthu']
+
+[We're not calling it the main timeline. What's it called in your language? Salnthu, and your world could be named after the changes Nochli made, particularly the 'phrenochondria'. Nochli called them 'huvith', named after their word for a fence to keep livestock from wandering out of the field. So your world would be 'huvinthu', meaning 'the fenced-in world']
 
 [M: so we're basically sheep, then?]
 
 [K: I'm not calling my world that]
+
+
+
+[Millions of subjective years of human breeding; they did it because there was nothing stopping them, just like we do with animals [in our world, humans can fight back but animals can't; in their world, non-time travelling humans couldn't fight back either]]
+
+[was this the inevitable future of humanity, if the ability to duplicate yourself became publicly known?]
