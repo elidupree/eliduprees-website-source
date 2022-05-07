@@ -193,9 +193,12 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 "Yes. Destroying the entire universe is a morally neutral act."
 
+[Something like [I feel like I've forgotten the proper way to state this though]: Moral statements generally runs from someone considering two possible ways things could go and decide that they like one of them better than the other, yes? But if you destroy the entire universe, there is no one who can make that comparison]
+
+
 [Ethics of going back in time and repeating someone's suffering – does the suffering count twice, or once, or zero times? Ontoh says it only counts if it isn't reverted]
 
-[Something like [I feel like I've forgotten the proper way to state this though]: Moral statements generally runs from someone considering two possible ways things could go and decide that they like one of them better than the other, yes? But if you destroy the entire universe, there is no one who can make that comparison]
+[maybe in response to that: it's a fascinating quirk of [Earth] culture that you think clipping a branch is the same as wiping out the tree./Seriously no one on Salnthu believes that?/I understand that there were some people who believed that in our ancient past, but everyone who believed that got wiped out./You persecuted them?/] "No, the belief caused them to die, of its own merits. [If you are never willing to reset any of yourselves, then eventually you'll die and not have any way to reverted]"
 
 
 
@@ -276,4 +279,10 @@ Reginald and Kayla both spoke at once.
 [We digested the implication. Next bit: Ontoh explains how monotheism originated with Zoroaster shortly after the introduction of the phrenochondria. People did believe in gods before, but they were adventurous legends about powerful people with human flaws fighting each other and such. The concept of a single all-powerful being, an ultimate authority, was completely new. People did not like being ruled over by kings and such; why would "being ruled over by the ultimate king" even be something that they would desire to fantasize about? Did Nochli intend this? It wasn't explicitly in the plan, but since the phrenochondria were intended, among other things, to make humans compliant, maybe it made them desire to have a ruler, and Zoroaster simply realized that he could take advantage of that desire. (Meanwhile: "what about Judaism, isn't that older?/Yes, but it wasn't monotheistic")]
 
 …and then I suppose Nochli would be happy to step into this role of 'God', when they reveal themselves
+
+
+
+
+
+
 

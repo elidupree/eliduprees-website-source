@@ -10,9 +10,9 @@
 
 MARVIN: isn't there anything you want out of life, for yourself, when this is over?
 
-KAYLA: of course there are things I want for myself! I want to have my own life, I want to be able to eat good food without constantly feeling guilty about who was exploited to make it for me, I want people to take me seriously, I want a boyfriend who loves me and respects me. <em>But I can't have any of that because the world is still fucked up!</em> ?????
+KAYLA: of course there are things I want for myself! I want to have my own life, I want to be able to eat good food without constantly feeling guilty about who was exploited to make it for me, I want people to take me seriously, I want a boyfriend who loves me and respects me. <em>But I can't have any of that because the world is still fucked up!</em> [????? if I just go and try to build my own nice life for myself, chances are it'll get destroyed by [the previously mentioned existential risks]]
 
-A: "guilt, feeling like there's no future, those are PTSD symptoms"
+A: [softly, thoughtful] "guilt, feeling like there's no future, those are PTSD symptoms"
 
 K: then it's the people with PTSD who are correct, then! If the PTSD-havers and the PTSD-have-nots have different opinions about something, you can't just assume that one of them is correct because they don't have PTSD, you have to look at the facts –
 

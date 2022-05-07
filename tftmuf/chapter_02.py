@@ -1,5 +1,3 @@
-
-
 [????? Reestablish scene, maybe mention more details here]
 
 She continued in that same, dead-tired voice.
@@ -106,7 +104,7 @@ But [the Kayla with me had already flung open the fridge and was stuffing her fa
 
 [The Kayla with me was glaring back at her indignantly. "I AM listening" she tried to say amid mouthfuls of food, humiliated rage from having her flaws pointed out in front of me, by someone whose opinion she couldn't possibly deny. She pointedly started dividing everything in the fridge into two equal piles – well, three piles, one of which was all the animal products]
 
-[After she forced herself to stop eating, possibly Marvin trying to make conversation to distract her:]
+[After she forced herself to stop eating (staring at the food, but held back by the unbreakable laws inside her head), possibly Marvin trying to make conversation to distract her:]
 
 "Are you vegan?"
 

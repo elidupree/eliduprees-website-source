@@ -42,6 +42,12 @@ Aster took a step closer. "Precisely <em>because</em> of my memory disorder, I'v
 
 
 
+["I've listened to the kill statement and I'm still alive, please come over here and take it yourself, I need your help to make sense of this"]
+
+[why is "you can duplicate yourself with time travel"-ish the kill statement??]
+
+
+
 [Description of Ontoh's voice]
 
 

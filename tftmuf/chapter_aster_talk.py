@@ -1,3 +1,9 @@
+[There were a whole bunch of religious and philosophical books lying around] Bible, Tao Te Ching and Vedas. Gödel, Wittigenstein and Marx. [they were marked up with 5 different colors of highlighters]
+
+
+
+
+
 ["I've killed you once, and I will kill you again if you try anything"]
 
 ["So you're time travellers" said Aster, their face lighting up] "And if you've killed me before, you must know that you can change your own past! I take it my experiment was a success?"

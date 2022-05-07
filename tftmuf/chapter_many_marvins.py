@@ -1,3 +1,5 @@
+[Chapter break – "And This Is What Your Life Would Be Like If…" Times 200]
+
 At this point, my story skips forward a bit.
 
 You see, <em>I</em> wasn't the Marvin who had to build the initial duplication device. For <em>that</em> Marvin – who we later came to call Marvin Alpha – there were weeks of grueling work, [programming, building, keeping tabs on our prisoners and collaborators]. But for me, [I experienced only a few minutes of time from when we reset the original time machine to when Marvin Alpha and Kayla Alpha stepped out of it, to invite us into the future as their duplicates.]
@@ -35,6 +37,10 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 "Instrumentality?"
 
 "Apparently, that's something from feminist philosophy. It's [a form of objectification where you treat someone else as a tool to achieve your goals, literally an 'instrument'. And I thought she was criticizing me at first, but she was actually approving of it. She is instrumentalizing herself, she wants both of us to use her as efficiently as possible]
+
+
+
+[You could technically try eating meat now because we're duplicating it, so it doesn't increase the amount of animals being mistreated? I mean, if you still think it's wrong, I respect your beliefs –/stop it! What if my beliefs are wrong, then you'd be respecting something that's wrong! You have to form your own opinion]
 
 
 
