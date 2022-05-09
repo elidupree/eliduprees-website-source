@@ -1,5 +1,32 @@
 title: What Happened the First Time (That We Knew About (Yet))
 
+
+[Our divergence point was when/everything was the same for them until: when we got the message from them, and they didn't. Marvin-Zero and Kayla-Zero didn't have instructions about what to do, so they had to figure everything out themselves, while they were terrified of when the bad guys were going to find them out
+
+"Why are they calling themselves Marvin <em>Zero</em>?" asked the Kayla next to me.
+
+"It's a programmer thing. In programming, you usually start counting from zero. It makes sense for this because they're the ones who have time traveled zero <em>times</em>"
+
+[They argued about what to do, but then They had a smart idea. If they locked themselves IN the time machine room, then it was safe for them to spend more time deciding what to do, because if anything bad started to happen, they could just go back in time]
+
+[So they checked all the cameras to find a route to the time machine room that no one was watching. A completely understandable choice, but it was their first mistake. [Note: do I explain the reasons here, or below? Probably below. But still hook that it was a mistake]]
+
+[They waited in the time machine room, Marvin made a script to notify them if anyone logged in to the security console – their second mistake. and put Tape over the security camera ("the lights were off before, they won't be able to tell the difference") They spent hours discussing what to do, until the script finally notified them [paragraph hook: "when you don't know what to do, and you have plenty of time to argue, you will inevitably argue until time forces your hand"] at 4:06 PM.]
+
+[At that point, they knew that their enemies would be actively looking for them. they hurried to figure out the time machine, but critically, it took them another 48 minutes [while also watching what was going on in the meeting room to know how much they had to hurry?]]
+
+[They went back to the earliest possible time, avoided the night worker, and kept arguing about what to do. They hatched a plan to kill the bad guys? [Considered how to elaborate on Marvin's take/"why not go to the police" here and how it relates to PoV-Marvin's take later] By using the security cameras to track where they were, then ambushing them]
+
+[But at that point, Kayla-One and Marvin-One started to realize their mistakes. When they were sneaking through the buildings, what would would happen if Kayla-Zero and Marvin-Zero saw them? They would be changing their own past, causing a paradox. And the Zeros had looked on a load of different cameras.]
+
+[So they spent their first loop starting to make the map. This time, they had the sense to not repeat their mistake: Marvin-One only checked the cameras in places where he already knew he wasn't planning to go. He even wrote a script to download the camera history only at exact times, without accidentally looking at other times. And While Marvin-Zero was using the security cameras to find their route to the time machine room, Marvin-One was watching the security <em>server logs</em>, checking the exact times and cameras where Marvin-Zero accessed the footage.
+
+
+[The moment Marvin-Zero turned off the security cameras, Marvin-Two turned them on again?]
+
+[]
+
+
 ?????
 
 
