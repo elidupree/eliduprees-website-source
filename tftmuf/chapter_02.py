@@ -29,6 +29,8 @@ Her words [????? knocked me out of my hypnotized state]. I fumbled through Marvi
 
 There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do ????? repeatedly wanting to look into the rooms, look over my shoulder]
 
+[We were working from the printout, which had a list of very clear instructions]
+
 "What do you think happens if we change our own past?" I said nervously.
 
 "I don't know, but it's bad! They said it was bad, and we have to trust them, right?"
@@ -94,11 +96,38 @@ Its central structure was a [steel eggs]
 [????? A massive industrial scale, a metallic platform wide enough for both of us to stand on, with a label boasting that it could weigh up to a thousand pounds, to a precision of a single gram.
 
 
+
+[Maybe narrated, but starting with a hook about the scream: Marvin climbs in first, leaning against the worryingly dark interior curve of the egg. Kayla climbs after, having a bit of a hard time balancing as she tries to duck through the narrow metal entrance. She concentrates to do it right, but her muscles are shaking too much and they fail her, and she stumbles forward. I panicked and caught her shoulders]
+
+[Any noise in such close quarters, with [materials] around you, echoes back and multiplies itself. Kayla's scream was unexpected and hurt my ears a lot. Just as quickly, it was cut short]
+
+"Oh my God, are you okay –"
+
+[, and she was panting and getting her balance. "It's fine, it's just my neuropathy, just don't touch my shoulders"]
+
+[The hatch closed behind us, swung into a place by a mechanical arm. There's something unusual about a space that's genuinely totally dark: you go through your whole life thinking darkness is when the lights are turned off, but there's always a bit of light sneaking in, from the streetlights, the moon, the stars, sneaking around your curtains, through your eyelids, helping you navigate by on an unconscious level. But the solid metal of the egg completely shut out, leaving only the afterimages early following my eyes wherever I looked, just Kayla's short breaths, her clammy hand clutching my arm to position herself,]
+
+"God, I'm so sorry –"
+
+"It's only pain," she growled.
+
+[But I had recognized that scream. It hadn't been a scream of when you're startled, it was the one you scream when you're in unimaginable pain, using the full force of your lungs. I'd only heard a scream like that once before, when one of my nieces [mistake as a 12-year-old had to be rushed to hospital], one of the most terrifying experiences of my life. But to Kayla this level of pain was normal, as if it was just an annoyance she had to deal with]
+
+[The hatch opened, onto the same room, but different. The lights were out]
+
 ?????
 
-"Now. Kayla." [Video-Kayla's voice was suddenly stern, serious] "I really hope you went to the room I told you to. We picked this room because there's food in the fridge – [and this is the private break room for Simon, who is not working today and only shows up for the meeting], so it won't change anyone's timeline. You need to eat, <em>now</em>. Suppressing our hunger was a stupid decision. It was smart when we were [????? captive/only run], but it was stupid to keep hiding it for hours after we could have asked Marvin to get food for us. Marvin, if she doesn't want to eat, you have to –"
+[Night worker walks by muttering "there's a ghost, I swear" about the circuit breaker being tripped; I could indulge in retrospective narration about the circuit breaker rather than forcing it into the worker's mouth]
 
-But [the Kayla with me had already flung open the fridge and was stuffing her face. And the other Marvin had realized it. He mumbled "She's probably already doing it"]
+"Okay," I whispered. "[They are far enough away]"
+
+[We opened the door and quickly crossed the darkened hall into [Simons workshop.] Following the instructions on the increasingly crumpled paper [which had been shoved in and out of my pocket?] I plugged in the USB stick, and brought up the video again, then skipped ahead to the part we'd been at]
+
+?????
+
+"Now. Kayla." [Video-Kayla's voice was suddenly stern, serious] "I really hope you went to the room I told you to. We picked this room because there's food in the fridge – [and this is the private break room for Simon, who is not working today and only shows up for the meeting], so it won't change anyone's timeline. You need to eat, <em>now</em>. Suppressing our hunger was a stupid decision. It was smart when we were [????? captive/on the run], but it was stupid to keep hiding it for hours after we could have asked Marvin to get food for us. Marvin, if she doesn't want to eat, you have to –"
+
+But [the Kayla with me had already flung open the fridge and was stuffing her face. And the other Marvin had realized it. He mumbled "She's probably already doing it" ("you didn't see yourself rush for that fridge the first time we found it.]
 
 "Oh God damn it, you're right, she's probably not even listening to me. Listen, uh… Marvin? Marvin, make sure she doesn't eat more than half of what's in that fridge, she'll vomit. Ask me how I know. She can eat half now, and half… maybe an hour from now ?????"
 
@@ -121,10 +150,6 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 "– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up – where people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't want you to tell me how many calories things are. I don't want to know, diet culture kills people. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
 
 <bigbreak>
-
-?????
-
-[quote from Minnesota Starvation Experiment guidebook] "refrain from arguments; the starving are ready to argue on little provocation, but they usually regret it immediately"
 
 ?????
 
