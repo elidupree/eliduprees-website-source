@@ -24,7 +24,13 @@ title: What Happened the First Time (That We Knew About (Yet))
 
 [The moment Marvin-Zero turned off the security cameras, Marvin-Two turned them on again?]
 
-[]
+
+[Marvin didn't think he could go through with pulling the trigger himself, but he was willing to teach Kayla. I had grown up around guns – my father, before his passing, took me and my brothers to a shooting range every week, and taught us to respect the power and danger of the weapon. Unlike my brothers, I had never gotten a kick out of waving guns around]
+
+"I'm so glad I kept doing the physical therapy exercises even when I was in the [holding room], otherwise I would never have been able to lift the gun and pull the trigger. I never realized how much force it takes to pull a trigger"
+
+
+[And then they found Aster's Notes.]
 
 
 ?????
