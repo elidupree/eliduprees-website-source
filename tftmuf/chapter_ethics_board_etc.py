@@ -244,6 +244,21 @@ Ethel had the answer to this one. [Her clear voice, immediately making sense of 
 [Ethel: hmm, it could just as easily prevent the "duplicating objects" trick by having "pinched off" timelines count as a contradiction and reset. But that's physics for you, utterly arbitrary and indifferent to what humans think is intuitive]
 
 
+
+
+
+[But how do we know Nochli are evil? They are just hanging around in the sky, we only have Ontoh's word for it that they are evil]
+
+[As before, Kayla thinks their inaction makes them evil]
+
+[Marvin's theory: What if they understood that their world was evil, and concluded that they would inevitably end up with a world like that as long as time travel was possible? So when they got the opportunity to replace their world, they decided to give humanity a new history, where they got to develop however they would have developed without time travel, and Nochli oversee it? Remember, Ontoh didn't understand how Nochli don't fight each other and how they agreed to remain in small numbers while overseeing the world. And Ontoh isn't trustworthy, they would probably just as happy to cancel our world to get back their own, so they have every reason to convince us that Nochli is evil]
+
+
+
+
+[The stuff below probably goes in later chapters (after the duplications):]
+
+
 [Wondering what to call the uninformed people]
 
 ["Muggles?" I suggested. "A Harry Potter reference? Really?" said Kayla irritably. Simon suggests "normies"; Marvin, whose irrationally peeved ("I knew it was petty, but") suggests "sheeple" as a joke. (Kayla's comment had gotten under my skin. I knew it was ?????. But I had grown up reading Harry Potter, and I was irrationally peeved; I wanted to make it look ridiculous. "How about <em>'sheeple'</em>, then?" I said [sarcastically?])]
