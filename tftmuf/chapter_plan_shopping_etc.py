@@ -1,6 +1,40 @@
+[Maybe the other Marvin had seen things in a different way than I did, to be willing to kill the scientists; he had been plenty angry at the scientists and they were certainly evil enough, and he had made the decision himself. But for me, my first exposure to it was when I saw our future selves, with Marvin looking so devastated, and Kayla looking so [uhh... brutally pragmatic?]. Having it put right in my face, that we had already killed them, maybe it made part of me think about how we would have to live with that, instead of / When you're in the middle of a fight, you don't think ahead as much, but when you see the aftermath to begin with,]
+
+[Can we at least try going to the police?]
+
+["police were tried already, the first time someone died from one of the experiments. A couple of them came and asked a lot of questions, they were talking to me and all the other test subjects and I told them everything that happened, they acted like they were taking me seriously. Then Dr. Fuller walked in, smiling and acting all respectful, and said he would explain everything. The cops went in his office, I don't know what he said, but when they came out, they didn't even look at me, they just walked away. And we never heard from the police again"]
+
+"He mind-controlled them?"
+
+["I don't even know if he did! That was years ago, –"
+
+[If not explained yet: they've been holding you here for years?! No, they've been <em>experimenting</em> on me for years. At first, they were still just working from the offices at the University, they only had me come in once a week for testing. They didn't lock me up here until 81 days ago]
+
+"– Years ago, before they figured out the [cyanosol] treatment. Damn it, maybe he <em>did</em> mind-control them, because if he did, I wouldn't be able to remember it. But I thought it was just, you know…"
+
+"Just what?"
+
+"He's a rich white man! You think the cops are going to listen to <em>us</em>?"
+
+"I mean… I'm a white man," I said, [without any conviction]. But I knew what she meant. In the grand scheme of things, I was nobody. Dr. Fuller owned this entire building. [He was a polished professional, it was like he could roll out of bed already dressed in "business casual"]
+
+"What are we doing to do, tell them about the mind control? The time travel? They'll never believe us!"
+
+"What if we just… don't tell them about that? They're still guilty of kidnapping, that's a regular crime –"[maybe: my parents gave consent for me to be here. What about all the other kids though? Also they were abusing you, there's definitely a crime in here somewhere]
+
+"So the cops will march in here, and what? Our rooms have the Pattern all over them, they won't even be able to see them. They'll just 'not find anything' and walk away like every other –"
+
+"I could show them the photos," I said quickly, before Kayla could get angrier. "I could crop out the parts that actually have the Pattern in them. I know for a fact that what's left would still be incriminating. I think I can even get video of the experiments, so we could actually <em>show</em> the police what the Pattern does to people, so they can know to be careful." I quickly put together the pieces of a plan. "They don't even have to go in the building, they could wait for everyone to go home and arrest them at home. Then you and me can go through the building, open the locks and let out all the kids. All we have to do today is break the time machines so they can't go back in time and stop us"
+
+[Maybe: even then, Fuller could talk his way out of it (maybe the "white man" dialogue wants to be here instead of the above?). But maybe:]
+
 ?????
 
-[But Kayla was not at all satisfied by that plan. "You just want to break the time machines, arrest the bad guys and <em>leave</em>?"]
+[Section break] It wasn't a perfect plan; if we had thought about it more, we would have seen all the many ways it could go wrong. [Maybe: Even if Fuller went to prison, what would keep him there? He could just ask for a purple marker, draw the Pattern on a piece of paper and walk out. [Or maybe that goes further up? In the current plan scenario, the police could be told not to let him have anything purple] [actually they can't say this until after they see the coyotes]]
+
+?????
+
+[But Kayla was not at all satisfied by that plan./But that just revealed the real reasons Kayla didn't want to go with that plan./That plan was one end of the spectrum; it existed in contrast to Kayla's true motivations./But despite not being perfect, that plan was good enough to dismiss Kayla's practical objections, which meant that now she revealed her fundamental objections/[grand generalizations, like:] when you have a plan, sometimes there are practical reasons not to do it, and sometimes there are fundamental reasons not to do it, and if there are both, sometimes you only hear about the former, but after they are resolved, the fundamental reasons inevitably come to light,] "You just want to break the time machines, arrest the bad guys and <em>leave</em>?"]
 
 ["What else is there to do?"] [maybe cut this]
 
@@ -42,7 +76,7 @@
 
 "Wait, what if we put the Pattern on ourselves, like printed it on a shirt? Would people not see us, the same way they can't see the coyotes?"
 
-[("this is some real Ring of Gyges shit" ]
+[("this is some real Ring of Gyges shit" ("Yeesh, this is just like the Ring of G", "Real life Ring of G" she muttered)]
 
 "Ring of what?"
 
