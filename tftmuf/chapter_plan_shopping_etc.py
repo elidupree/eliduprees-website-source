@@ -85,10 +85,9 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 
 
-[Shopping: avoiding people's gaze, talking quietly with Kayla about what we need. Getting food was tricky because Kayla was very carefully restraining herself but I couldn't stop noticing the hungry way she was staring at everything.]
+[Shopping: avoiding people's gaze, talking quietly with Kayla about what we need. Marvin pushing a shopping cart (how are we going to carry this stuff after we leave? We should get backpacks. You expect me to be able to put on a backpack?? Okay, uhh… We got a backpack for me and a fanny pack for Kayla) Getting food was tricky because Kayla was very carefully restraining herself but I couldn't stop noticing the hungry way she was staring at everything.]
 
-
-[Buying lots of stuff: "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
+[They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 
 
 

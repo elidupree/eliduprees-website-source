@@ -35,7 +35,7 @@
 
 "Did he know that?" Reginald demanded. ????? "[Did he know they were evil when he started]"
 
-[Kayla defensive some more – "of course he knew they were evil! They put surveillance cameras all over the place, they turned this building into the goddamn Panopticon! Even if they hadn't [done monk consensual experiments] they would still be evil –"]
+[Kayla defensive some more – "of course he knew they were evil! They put surveillance cameras all over the place, they turned this building into the goddamn Panopticon! Even if they hadn't [done nonconsensual experiments] they would still be evil –"]
 
 But I knew that Reginald was right. [I hadn't thought about it at all – I was just lucky] I hung my head.
 
@@ -171,7 +171,7 @@ Simon's eyes darted back and forth between the others. Reginald was protesting t
 
 ["Come on, I'm just a beginner, I was the only one 'in the know' who knew how to code, so I had to do all of it"]
 
-["Of course it's okay for a beginner to make mistakes, but you KNEW you were a beginner, and you <em>chose to put your code into a machine responsible for people's life and death</em>! You're like the engineers responsible for the Therac-25!" I was already standing and roaring/it's so easy to get angry at other people for flaws that you've only just recognized in yourself]
+["Of course it's okay for a beginner to make mistakes, but you KNEW you were a beginner, and you <em>chose to put your code into a machine responsible for people's life and death</em>! You're like the engineers responsible for the Therac-25!" I was already standing and roaring/it's so easy to get angry at other people for flaws that you've only just recognized in yourself (having worked for these people without asking too many questions)]
 
 But of course, Simon didn't know about the Therac-25 either. So I explained it. This time, I didn't spare any of the details. I told him how ?????, how ?????, how ????? [don't actually describe it to the reader, just say that I told gruesome things to be characters]. [Simon had completely lost his cool [ability to act defensive], looked like he was going to throw up. Kayla and Reginald were looking on in horrified anger that this had happened]
 
@@ -198,7 +198,12 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 [Ethics of going back in time and repeating someone's suffering – does the suffering count twice, or once, or zero times? Ontoh says it only counts if it isn't reverted]
 
+[Related, not sure of order: "this is basically the Star Trek transporter problem, right? If it destroys you and then re-creates you, is it really 'you'?" /How would you define that, philosophically?/Well, who's to say our entire universe isn't being destroyed and re-created at every instant? so if we use any definition that's broken by cut-and-paste, then we have no right to use that definition for anything even without time travel. I can only conclude that all your futures are equally "you". And/or: Ontoh says that it won't be the "surviving morality" because everyone who doesn't use time travel will inevitably die off, leading into:]
+
 [maybe in response to that: it's a fascinating quirk of [Earth] culture that you think clipping a branch is the same as wiping out the tree./Seriously no one on Salnthu believes that?/I understand that there were some people who believed that in our ancient past, but everyone who believed that got wiped out./You persecuted them?/] "No, the belief caused them to die, of its own merits. [If you are never willing to reset any of yourselves, then eventually you'll die and not have any way to reverted]"
+
+[Related, not sure of order: Ontoh says it's inevitable that the broadly accepted morality will be collective self-interest of those who can fight back ("just like how your society accepts breeding and slaughter of animals"); Kayla could relate collective self-interest to the Ring of Gyges story, but objects to the idea that morality is about the ability to fight back, and says [the powerful should do the right thing to the helpless]. Narrator remarks on this ("someone who was able to truly believe that you should do the right thing even if there would be no consequences… someone who had the [mental fortitude) to advocate for animals even in our society")]
+
 
 
 

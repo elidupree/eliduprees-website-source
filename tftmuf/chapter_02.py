@@ -97,6 +97,9 @@ Its central structure was a [steel eggs]
 
 
 
+
+[The notes: "shut off your phone before you go back in time, literally take the battery out, it's too much of a paradox risk otherwise"]
+
 [Maybe narrated, but starting with a hook about the scream: Marvin climbs in first, leaning against the worryingly dark interior curve of the egg. Kayla climbs after, having a bit of a hard time balancing as she tries to duck through the narrow metal entrance. She concentrates to do it right, but her muscles are shaking too much and they fail her, and she stumbles forward. I panicked and caught her shoulders]
 
 [Any noise in such close quarters, with [materials] around you, echoes back and multiplies itself. Kayla's scream was unexpected and hurt my ears a lot. Just as quickly, it was cut short]
@@ -162,3 +165,8 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 "They <em>are</em> us!"
 
 "I don't understand half the comments I wrote on my own code two years ago.
+
+
+?????
+
+[Maybe first they tell pov's to run the script? ("First they should run the script, right? The script that's going to send these files to them the second time. There's a computer in Simon's room, right? Yeah, there is. Just start the script and leave it running

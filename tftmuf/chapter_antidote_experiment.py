@@ -40,6 +40,8 @@ Aster took a step closer. "Precisely <em>because</em> of my memory disorder, I'v
 
 [But ?????. I had spent a lot of time watching myself on camera in the last few days, and I'd learned more about my mannerisms than I had ever wanted to. So I very precisely recognized the tone of voice he was using – the tone of being excited to have realized something – in this case, excited to have thought of a plausible excuse
 
+"Marvin, you need to turn off that [video feed] right now! You keep [spacing out], you're clearly seeing/hearing things you can't see, I don't want you to get distracted or die." "But what about needing to watch them?" "Watch the outside of the door!"
+
 
 
 ["I've listened to the kill statement and I'm still alive, please come over here and take it yourself, I need your help to make sense of this"]
