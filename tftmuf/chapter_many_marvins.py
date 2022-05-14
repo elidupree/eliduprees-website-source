@@ -92,3 +92,15 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 [The process of writing proofs promptly finds dozens of bugs, which makes Marvin very uneasy ("When would this be over? this thing of constantly being one mistake away from ending humanity?"). The mathematician is quickly in high demand by many Marvins.]
 
 [Bunch of stuff about developing new time travel devices, including paradox traps, and how the formal verification plays into it]
+
+
+
+
+
+Detective Kaylas were scary.
+
+[When they where in our base, they always travelled in groups of three, constantly talking to each other in a mixture of English, Spanish, Mandarin, and their own private language that was meaningful only to Kaylas, developed over years of time spent together in the isolation rooms, studying everything they might need to know for the task. (Spanish and Mandarin were both commonly spoken in parts of the city and surrounding regions, so they were useful for detective work.) They didn't like to talk to Marvins, or even other Kaylas; they knew they were running out of their personal productive lifespans, and they coped with it by focusing on the work.]
+
+[Here's how Detective Kaylas were developed: first, several Kaylas spent 4 subjective years studying to be the perfect detectives, and then they burned out. So they made duplicates of who they were only 3 years into the process; the resulting individuals did about 2 subjective years of fieldwork, which felt more productive and so they were able to get up to the full 5 years total. The vast majority of Detective Kaylas we interacted with were duplicates from after 1 year of fieldwork, so that they had learned from the mistakes of the first year of fieldwork without introducing any more risk by potentially making the same mistakes again.]
+
+[When they were in the field, they were still in groups of 3 – not physically grouped, because of the risk of Nochli or an ordinary human seeing 3 duplicates together, but talking to each other over earpieces, constantly checking in to discuss risk, notice if the one in the field was burning out, and have the ones who were back at base do research in short time loops to advise the ones who were in the field how could work most efficiently. And whenever the one in the field started to get more careless, getting close to burning out, the others would recall them, delete them from existence and replace them with a fresh copy.]
