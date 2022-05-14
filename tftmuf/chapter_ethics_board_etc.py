@@ -202,7 +202,9 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 [maybe in response to that: it's a fascinating quirk of [Earth] culture that you think clipping a branch is the same as wiping out the tree./Seriously no one on Salnthu believes that?/I understand that there were some people who believed that in our ancient past, but everyone who believed that got wiped out./You persecuted them?/] "No, the belief caused them to die, of its own merits. [If you are never willing to reset any of yourselves, then eventually you'll die and not have any way to reverted]"
 
-[Related, not sure of order: Ontoh says it's inevitable that the broadly accepted morality will be collective self-interest of those who can fight back ("just like how your society accepts breeding and slaughter of animals"); Kayla could relate collective self-interest to the Ring of Gyges story, but objects to the idea that morality is about the ability to fight back, and says [the powerful should do the right thing to the helpless]. Narrator remarks on this ("someone who was able to truly believe that you should do the right thing even if there would be no consequences… someone who had the [mental fortitude) to advocate for animals even in our society")]
+["What about souls? What about continuity of consciousness?" Those are superstitions. Let us ask why you believe in them; you believe in them because it simply feels like they are true, yes? Well, that feeling is something that exists; moreover, both copies have it.]
+
+[Related, not sure of order: Ontoh says it's inevitable that the broadly accepted morality will be collective self-interest of those who can fight back ("just like how your society accepts breeding and slaughter of animals"); Kayla could relate collective self-interest to the Ring of Gyges story, but objects to the idea that morality is about the ability to fight back, and says [the powerful should do the right thing to the helpless]. Narrator remarks on this ("someone who was able to truly believe that you should do the right thing even if there would be no consequences… someone who had the [mental fortitude] to advocate for animals even in our society")]
 
 
 
@@ -297,6 +299,9 @@ Reginald and Kayla both spoke at once.
 "But the real question is," continued Ontoh [calmly, unperturbed], "why do [the people of this timeline] <em>want</em> to believe in God?"
 
 [We digested the implication. Next bit: Ontoh explains how monotheism originated with Zoroaster shortly after the introduction of the phrenochondria. People did believe in gods before, but they were adventurous legends about powerful people with human flaws fighting each other and such. The concept of a single all-powerful being, an ultimate authority, was completely new. People did not like being ruled over by kings and such; why would "being ruled over by the ultimate king" even be something that they would desire to fantasize about? Did Nochli intend this? It wasn't explicitly in the plan, but since the phrenochondria were intended, among other things, to make humans compliant, maybe it made them desire to have a ruler, and Zoroaster simply realized that he could take advantage of that desire. (Meanwhile: "what about Judaism, isn't that older?/Yes, but it wasn't monotheistic")]
+
+[Potentially, somewhere during the above: Marvin unsettled by Ontoh's confidence "how can you be so certain that God doesn't exist?" Ontoh: "you do realize that your concept of God was invented during my lifetime? Maybe to someone who was born only tens of years ago, it could seem to be an eternal truth, but you can hardly expect me to believe in something that 'always existed' when the very concept of it didn't exist until quite recently."]
+
 
 …and then I suppose Nochli would be happy to step into this role of 'God', when they reveal themselves
 
