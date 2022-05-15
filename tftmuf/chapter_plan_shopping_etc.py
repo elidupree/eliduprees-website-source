@@ -20,7 +20,7 @@
 
 "What are we doing to do, tell them about the mind control? The time travel? They'll never believe us!"
 
-"What if we just… don't tell them about that? They're still guilty of kidnapping, that's a regular crime –"[maybe: my parents gave consent for me to be here. What about all the other kids though? Also they were abusing you, there's definitely a crime in here somewhere]
+"What if we just… don't tell them about that? They're still guilty of kidnapping, that's a regular crime –"[maybe: my parents gave consent for me to be here/for the "treatment". What about all the other kids though? Also they were abusing you, there's definitely a crime in here somewhere]
 
 "So the cops will march in here, and what? Our rooms have the Pattern all over them, they won't even be able to see them. They'll just 'not find anything' and walk away like every other –"
 
@@ -120,6 +120,8 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 
 [Shopping: avoiding people's gaze, talking quietly with Kayla about what we need. Marvin pushing a shopping cart (how are we going to carry this stuff after we leave? We should get backpacks. You expect me to be able to put on a backpack?? Okay, uhh… We got a backpack for me and a fanny pack for Kayla) Getting food was tricky because Kayla was very carefully restraining herself but I couldn't stop noticing the hungry way she was staring at everything.]
+
+[Duct tape, a screwdriver ("you always need one of these in escape room games")]
 
 [They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 

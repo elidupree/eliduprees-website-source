@@ -117,8 +117,16 @@ Aster's eyebrows shot up. "I'm eager to hear why you say that!"
 
 ?????
 
+[Message from ourselves, "watch this and also show it to Aster"]
 
-[Low audio quality coming through the speakerphone + second call(?), but you could still hear the sneering sound of his voice] "Reggie, Reggie, Reggie. For a third time, one of your 'clever ideas' has cost the life of one of our valuable test subjects."
+"Wait a minute, why would they message us <em>now</em>? I thought we agreed that if something went wrong, we'd message ourselves <em>before</em> we talked to Aster!"
+
+"[Don't waste time, we need to watch it]"
+
+?????
+
+
+[Low audio quality coming through the speakerphone + second call(?), but you could still hear the sneering sound of his voice] "Reggie, Reggie, Reggie. For yet a third time, one of your 'clever ideas' has cost the life of one of our valuable test subjects."
 
 [Aster smiling broadly, impossibly casual tone of voice] "You know full well [Billy] didn't die from [cyanosol], considering how much of it is [running in your veins (infiltrated in your brain? all of our brains?)] right now. But tell me, what is this? Could we possibly be speaking of subject 2, Kayla ??????, dying from the ?????phorin experiment?"]
 
