@@ -114,7 +114,7 @@ Its central structure was a [steel eggs]
 
 "It's only pain," she growled.
 
-[But I had recognized that scream. It hadn't been a scream of when you're startled, it was the one you scream when you're in unimaginable pain, using the full force of your lungs. I'd only heard a scream like that once before, when one of my nieces [mistake as a 12-year-old had to be rushed to hospital], one of the most terrifying experiences of my life. But to Kayla this level of pain was normal, as if it was just an annoyance she had to deal with]
+[But I had recognized that scream. It hadn't been a scream of when you're startled, it was the one you scream when you're in unimaginable pain, using the full force of your lungs. I'd only heard a scream like that once before, when one of my nieces [mistake as a 12-year-old had to be rushed to hospital: crashed a bike "going down the same hill she'd gone down hundreds of times, one moment everything is fine and the next moment], one of the most terrifying experiences of my life. But to Kayla this level of pain was normal, as if it was just an annoyance she had to deal with]
 
 [The hatch opened, onto the same room, but different. The lights were out]
 

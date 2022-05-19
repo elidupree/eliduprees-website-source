@@ -6,5 +6,5 @@ I instantly thought of her as "General Kayla". Her proud bearing, the way she wa
 
 [But the real dramatic thing about her, was,] She was <em>old</em>.
 
-The oldest Kayla I'd ever seen. She had spent lifetimes preparing for this. [What does it take for someone my Kayla to live all the way to old age, while remaining who they are?]
+The oldest Kayla I'd ever seen. She had spent lifetimes preparing for this. [What does it take for someone my Kayla to live all the way to old age, while remaining who they are? You can't get that old by continually forcing yourself – it will kill you first. For a typical person to get that old, they basically give up on their youthful idealism, softening themselves to avoid burning out. But Kayla had taken a third path: she had made sophisticated policies for how to maintain both her brain hardware and her ability to act with the same level of dedication when it counts.]
 

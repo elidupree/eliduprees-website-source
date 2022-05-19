@@ -23,6 +23,10 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 [Onboarding: new Marvins are required to rest for at least a week, they can start getting to up to speed but can't work; each Marvin gets a new name/designation, chosen from a list of not-yet-used options; at some point the debriefer offers a hug, with discussion (dialog or narration? Maybe narration?) About how they experimented with the most effective way to get new Marvins comfortable with it]
 
+[Here's your approved fidget toy. It works for us and it's quiet. I know you like clicky fidgets, but it turns out we can't stand the noise when we're not the ones making it.]
+
+[Probably mostly narration rather than dialogue: Here's your time travelling personal alarm. Here's a practice version, see it's labeled "practice" in orange writing, because it's impossible to get used to it without practice because you never remember pulling it. It has a camera in it, and when you pull the real one, it sends the last X minutes of recordings back in time by Y minutes and broadcasts an alert. If you ever see a Nochli in person, you need to pull it immediately, to make sure the Nochli doesn't see you first. It's also supposed to go off automatically if you die, although we haven't been able to test that one. Kayla volunteered but the ethics board said no. [It takes a bunch of force to pull] yeah we don't want it to go off by accident. We made them just the right amount of force so that Kayla can pull one using her full strength.
+
 
 
 [When PoV-Marvin is being debriefed: "and we've only had a few time travel mishaps". I'm sure for [the debriefer] this felt like something to be proud of, because they had been programming for umpteen person-months, and only had a few mishaps. But for me, who had just recently [ranted about unit testing, thought about how I would do stuff reliably], it was like all my planning had immediately been rewarded by "haha, you failed anyway!". "A few mishaps?" I exploded. "????? [Every single mishap could immediately end the world as we know it]]

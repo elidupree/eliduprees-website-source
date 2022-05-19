@@ -69,7 +69,7 @@ Aster took a step closer. "Precisely <em>because</em> of my memory disorder, I'v
 
 [What the hell are you?]
 
-[I am a branch of Ontoh, the first true immortal human, one of the five ruling lineages in the main timeline. Physically, I am an immortal human head piloting one of Nochli's transport-boxes.]
+[I am a branch of Ontoh, the first true immortal human, one of (greatest of?) the five ruling lineages in the main timeline. Physically, I am an immortal human head piloting one of Nochli's transport-boxes.]
 
 
 [The one you should be worrying about is our mutual enemy, the one who created your timeline and put us all in this situation. The one who bred the symbionts you call the 'phrenochondria'. <em>Nochli.</em>"]
@@ -96,3 +96,8 @@ Aster took a step closer. "Precisely <em>because</em> of my memory disorder, I'v
 [Millions of subjective years of human breeding; they did it because there was nothing stopping them, just like we do with animals [in our world, humans can fight back but animals can't; in their world, non-time travelling humans couldn't fight back either]]
 
 [was this the inevitable future of humanity, if the ability to duplicate yourself became publicly known?]
+
+
+
+[Duplicating people: can you do it just by using the time machine in reverse and then causing a paradox?]
+
