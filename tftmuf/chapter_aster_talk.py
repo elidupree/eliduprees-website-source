@@ -10,7 +10,7 @@
 
 ["What experiment?"
 
-"The ?????phorin experiment? The one that's going to happen at 11 AM today?" ????? "Your expression tells me the experiment never happened! Fascinating! Then how did you come to know that you could change your own past?"
+"The ?????phorin experiment? The one that's going to happen at 11 AM today?" ????? "Your expression tells me the experiment never happened! Fascinating! Then how did you come to know that you could change your own past?" [Not right here, but maybe part of the reason is that the overstim protocol is better with the animations]
 
 "We're asking the questions here!" ????? "What was the experiment supposed to do, anyway?]
 
@@ -24,15 +24,15 @@
 
 "And what makes me so special, anyway?"
 
-"Ahhhh, [you see, we have been looking for more people like me(?)] [People who can resist.] [we tried to find other naturally resistant people / like paranoid people? / you'd think so, but clinical paranoia only makes them more vulnerable, because they can more easily make up alternative explanations for what they see. The people who are least affected – and only by a little – are children, probably because they haven't developed as much self-censorship yet. So we posted the Pattern as a custom level on a web gaming platform used by children. We paid to promote it, so hundreds of thousands of people saw it] [Somewhere in there: we searched online for people reporting purple striped coyotes, but couldn't find anything]
+"Ahhhh, [you see, we have been looking for more people like me(?)] [People who can resist.] [we tried to find other naturally resistant people / like paranoid people? / you'd think so, but clinical paranoia only makes them more vulnerable, because they can more easily make up alternative explanations for what they see. The people who are least affected – and only by a little – are children, probably because they haven't developed as much self-censorship yet. So we made a game on Roblox (that's the web gaming platform used by children), with the Pattern as the game icon. We paid to promote it, I think by the time we shut it down 1.6 million people saw it. ] [Somewhere in there: we searched online for people reporting purple striped coyotes, but couldn't find anything]
 
 "You found a cognitohazard, and the first thing you did was posted it on the Internet?!"
 
-Aster laughed. "When you put it that way, it does sound irresponsible! But, can you guess what happened?]
+"No, it was maybe the fifth or sixth thing we did," said Aster with a little shrug. / Aster laughed. "When you put it that way, it does sound irresponsible! But, can you guess what happened?]
 
 "No one could see it," I said. [Realization dawning? Or just used to this by now? Maybe unconsciously validated that there's someone else who understands the experience?]
 
-"Exactly. [Normally, a level like that would have thousands of star ratings. But despite hundreds of thousands of people seeing it, nobody played the level and gave it a rating. Nobody except for one. The level earned a single one-star rating… From you.]"
+"Exactly. [We had the lowest click-through rate of any ad on the platform (normally a few people out of every thousand will click on a sponsored listing, but for us it was less than one per hundred thousand), and even the people who did click the ad mostly clicked it by accident, and didn't actually play the game. But guess who did play it? Kayla.]"
 
 [Being special made Kayla a target]
 

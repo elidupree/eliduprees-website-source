@@ -50,6 +50,10 @@ Aster took a step closer. "Precisely <em>because</em> of my memory disorder, I'v
 
 
 
+[Ontoh was physically a rectangular box on crab legs, with the Pattern all over the box – a much more vivid and precise version of the pattern (paragraph hook talking about "the true pattern"?)
+
+
+
 [Description of Ontoh's voice]
 
 
