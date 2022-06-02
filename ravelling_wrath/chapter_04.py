@@ -90,7 +90,7 @@ And that was the moment I thought I'd fucked everything up. From the subtle look
 
 But it didn't happen. She was still Yali. She just frowned and let the moment pass, to focus on what was important – the Releasing Game.
 
-She continued as if nothing had happened. "The point is, it's all part of one process. So, so, let's say I had a car, and I wanted to keep the car in my garage forever. I was going to be an expert at keeping my car in the garage. And I didn't even have a driver's license."
+"The point is," she continued, "it's all part of one process. So, so, let's say I had a car, and I wanted to keep the car in my garage forever. I was going to be an expert at keeping my car in the garage. And I didn't even have a driver's license."
 
 "Haha, that sounds pretty stupid."
 
@@ -134,7 +134,7 @@ I tried. "I told you, it doesn't work that way, it's not happening <em>right now
 
 I sat down in the chair. "Ugh, fuck, you asshole…" Even though she wasn't officially forcing me this time, all those closed-in feelings came rushing back when I looked at the table that way again. Then, to make things worse, Yali pushed the wooden blocks in front of me. "Those FUCKING blocks!" I exploded. I grabbed one of them and pounded it on the table, yelling every insult that came into my head. "I can't BELIEVE you made me do this all day, you Stern-blasted asshole! Gate jammer! Shut-eye! Go drown in the Earth!" I swung the block up in the air, then hesitated.
 
-"You can throw it at me if you want." Yali raised her arms to cover her face. "I'm ready."
+"Go ahead, throw it at me." Yali raised her arms to cover her face. "I'm ready."
 
 I hadn't thought I was going to do it, but I couldn't resist. "<em>Fuck! You!</em>" I hurled it straight at her.
 
