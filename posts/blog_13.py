@@ -262,7 +262,7 @@ Therefore, you have to keep thinking of new things to try until you find one tha
 
 A lot of people talk about "suppressing" their emotions, or keeping them "bottled up". This is completely different from my techniques. When you suppress an emotion, you're not changing that part of your brain at all &ndash; you're just trying to stop it from waking up. With my techniques, you deliberately wake up the problem parts, so that you can permanently reshape them to be less of a problem.
 
-In Part 2, I think I'll talk about how I use these same techniques to make myself better at remembering new information.
+<a href="/blog/how-to-train-your-brain-part-2-memory">In Part 2, I'll talk about how I use these same techniques to make myself better at remembering new information</a>.
 
 
 ''',
