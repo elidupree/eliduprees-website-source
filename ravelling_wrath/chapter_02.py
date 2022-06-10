@@ -208,7 +208,7 @@ The Seeing was Yali's magic power.
 
 "Help yourself!" Yali awkwardly carried over three more sienkahs and handed them to me before starting on her own.
 
-"Sweet! Thank you so much!" I took a huge bite immediately. It was delicious. Before long, I had wolfed down two whole fruits. When I looked up, Yali was still methodically chewing through her first one.
+"Sweet! You're better than the gods!" I took a huge bite immediately. It was delicious. Before long, I had wolfed down two whole fruits. When I looked up, Yali was still methodically chewing through her first one.
 
 Soon, she wiped her mouth and looked back at me. "Let's try your idea. See if we can make you mad."
 
