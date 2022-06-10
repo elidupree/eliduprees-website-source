@@ -75,11 +75,11 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 [Why can't Marvins do this?]
 
-[Some of us tried learning, and hired tutors as usual. But frankly, we aren't mathematicians. Next to regular programming, formal verification is like learning a whole new language. Kaylas might be able to do it, because she learns faster AND maintains a higher time ratio, but she's starting from 0 programming knowledge – getting a Kayla that point would take weeks of global time, probably over 5 subjective years, and, there are, ah –" he glanced at the Kayla who was sitting on the ethics board]
+[Some of us tried learning, and hired tutors as usual. But frankly, we aren't mathematicians. Next to regular programming, formal verification is like learning a whole new language. Kaylas might be able to do it, because she learns faster AND maintains a higher time ratio, but she's starting from 0 programming knowledge – getting a Kayla that point would take weeks of global time; we've estimated that getting a Kayla to equal Marvins' level of programming skill would take around 6 subjective years, and, there are, ah –" he glanced at the Kayla who was sitting on the ethics board]
 
 "– unresolved challenges with extending a Kayla beyond 5 subjective years," said Kayla crisply. She looked like she was [about 21, and thus, near the end]. No doubt, she wanted to [nip this topic in the bud] [so as not to have it be the topic of debate] "We are working on improvements to Kayla Management. But there are no guarantees."
 
-[We're talking about having this mathematician actually understand all of the time travel rules. For every additional person we brin in, we need to consider the risk that they will later make their own time machines. And turn Earth into Salnthu. How are you going to make sure that doesn't happen? Are you planning to lock them up for the rest of their life?]
+[We're talking about having this mathematician actually understand all of the time travel rules. For every additional person we bring in, we need to consider the risk that they will later make their own time machines. And turn Earth into Salnthu. How are you going to make sure that doesn't happen? Are you planning to lock them up for the rest of their life?]
 
 [I joked that plenty of mathematicians would be happy to be locked up doing mathematics for the rest of their life]
 

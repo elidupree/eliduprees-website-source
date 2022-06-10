@@ -100,7 +100,7 @@ I had been afraid that she ????? wouldn't know what I meant, that I would have t
 
 "In on what?" [????? this response shouldn't get its own paragraph, but the earlier ones are okay]
 
-In response, she uttered some more of those words I couldn't understand. But she knew right away that it wasn't working. "Damn it! I don't want to do this to you!" she said tightly. "But I need you to understand!"
+In response, she uttered some more of those words I couldn't understand. But she knew right away that it wasn't working. "Damn it! [I don't want to do this to you! / I didn't take this to use it on an innocent person!]" she said tightly. "But I need you to understand!"
 
 "Do what?!"
 

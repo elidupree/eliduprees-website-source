@@ -57,6 +57,10 @@
 
 
 
+[But even I'm [Aster] not immune to it. There's something even I can't see, something in the sky/when I look in the sky, I get that distinctive feeling/"but how do you know there's something you can't see?""I showed it to other people" in fact, I showed you a photo of what's in the sky, earlier in this conversation, but you couldn't see it. Marvin: No way, you're messing with us! THere's now way I forgot what we just talked about. And in the sky? What the hell is it, aliens? Get outta here [but retrospectively, it was that I had hit the limit of how much I could believe, because what was in the sky was stronger than the coyotes and stuff]]
+
+
+
 [The phrenochondria show evidence of incredibly advanced genetic engineering, but who could possibly have the technology to do that?]
 
 "Time travellers, right?" I said.
