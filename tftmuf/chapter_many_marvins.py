@@ -99,6 +99,8 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 
 
+"I would have thought fighting aliens would [be like action/suspense movie stuff], not just having a mental breakdown in an office"
+
 
 
 Detective Kaylas were scary.

@@ -263,6 +263,13 @@ Ethel had the answer to this one. [Her clear voice, immediately making sense of 
 
 
 
+[How the heck are we going to do anything against Nochli? Anything we do in this world will just get reverted. The time machines to get back to Salnthu are only big enough for written messages. MARTIN: well, let's see, they made resizable time machines before, right? What if we made a resizable time machine that was even more miniaturized, using Earth technology, and snuck it into their messages? The time machine could even contain us, like, secret agents, to infiltrate Salnthu. ONTOH: what are you planning to do? If you jump out on the other side, they will just revert you that way anyway; I have plenty of Ontohs in their base already, but that doesn't mean I can do anything about them. KAYLA [maybe with Ontoh feed turned off: Bomb Salnthu. "What?" No matter what we do, our entire world is going to be erased in a few months. At the very least, we shouldn't let Salnthu continue to exist either. Ontoh isn't going to consider options that also destroy Ontoh, but WE can. So let's combine time travel with Earth technology to make a bomb that can instantly wipe out all time machines, and all life, on the planet.]
+
+[Come on, there has to be a way for Earth cultures to continue existing! [two Earths plan]]
+
+
+
+
 [The stuff below probably goes in later chapters (after the duplications):]
 
 
