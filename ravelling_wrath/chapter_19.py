@@ -79,7 +79,7 @@ And so, here we were. Everything was going according to plan. Justicar was no lo
 
 Now only my most powerful enemy was left.
 
-<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></not_print>
+<not_print><img class="full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></not_print>
 
 <bigbreak>
 
@@ -89,7 +89,7 @@ I would need to access the Waiting God's threads within me. But I was not yet ce
 
 <em>Rinn</em> had fully connected with <em>her</em> god. How had she done it? It was probably easier with the Blood God, for more than one reason, but there might still be something I could learn from it.
 
-<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></print_only>
+<print_only><img class="full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></print_only>
 
 Thinking back, I remembered how she had talked when she was speaking for the Blood God. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. I would have to treat it as if I was trying to change part of <em>myself</em>.
 

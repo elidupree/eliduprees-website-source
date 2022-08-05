@@ -34,7 +34,7 @@ The explanation had been simple enough. "I'm going to have you do a series of ga
 
 "The first one is the Releasing Game, where you let yourself feel whatever you <em>want</em> to feel. The game is to let your anger run wild. Then once you're fully angry, we can do the other games, like the Calming Game, where you try to bring yourself down again."
 
-I had let her go on with the explanation. If I had trouble getting mad for the games, Yali'd said, she could "help" me get mad, just like she had in the ordeal we've just done. And there were a lot of variations of the games – there was the Controlling Game where you stay angry but just don't <em>do</em> anything, the Expressing Game where you yell about things that don't <em>hurt</em> anyone, and so on. The idea was, if I practiced doing these games enough, then I'd get better at controlling my emotions, even when I wasn't doing the games on purpose. I listened to all of it and acted like I was interested, and I even asked her some questions about it. But I was only dragging it out. The longer the explanation went, the longer I could put off actually <em>doing</em> it.
+I had let her go on with the explanation. If I had trouble getting mad for the games, Yali'd said, she could "help" me get mad, just like she had in the ordeal we'd just done. And there were a lot of variations of the games – there was the Controlling Game, where you stay angry but just don't <em>do</em> anything, the Expressing Game, where you yell about things but don't <em>hurt</em> anyone, and so on. The idea was, if I practiced doing these games enough, then I'd get better at controlling my emotions, even when I wasn't doing the games on purpose. I listened to all of it and acted like I was interested, and I even asked her some questions about it. But I was only dragging it out. The longer the explanation went, the longer I could put off actually <em>doing</em> it.
 
 But finally, I couldn't think of any more questions. The time had come to get started. But…
 
@@ -56,19 +56,17 @@ But finally, I couldn't think of any more questions. The time had come to get st
 
 "Yeah. That."
 
-Then Yali had gone quiet. And that's where we were now. I was just slumped on her couch, fidgeting with the tail end of my shirt, feeling like shit.
-
-While I sat, Yali idly started cleaning up our dirty dishes. And every now and then, she gave a long look back at me. She was probably thinking about how to help me with this. <em>She</em> was trying to help <em>me!</em> Why did <em>she</em> have to help <em>me</em> with something I <em>should</em> be able to just <em><strong>do</strong>?!</em>
-
-Gods, she was even doing something <em>productive</em> while I was just sitting there messing around with my shirt. I was being such an asshole. "I can help you with the dishes –"
+Then Yali had gone quiet. And that's where we were now. I was just slumped on her couch, fidgeting with the tail end of my shirt, feeling like shit. And Yali was cleaning up our dirty dishes, sometimes pausing to look back at me, probably deep in thought about how to help me with this. <em>She</em> was trying to help <em>me!</em> Why did <em>she</em> have to help <em>me</em> with something I <em>should</em> be able to just <em><strong>do</strong>?!</em> Gods, she was even doing something <em>productive</em> while I was just sitting there. I was being such an asshole. "I can help you with the dishes –" I began.
 
 "Don't worry about it."
 
 Stern take it all.
 
-When she was done, she came back and sat with me. She held my hand. I looked away from her.
+<bigbreak>
 
-"It's okay, it's okay," she murmured. "Maybe I can help your heart believe what it needs to."
+Of course, it wasn't long before she got me doing the Releasing Game. But not before we almost got into an argument.
+
+She started out softly. Sitting with me again. Holding my hand. Telling me she could help my heart believe what it needed to.
 
 "Of <em>course</em> you can," I said bitterly.
 
@@ -78,21 +76,21 @@ When she was done, she came back and sat with me. She held my hand. I looked awa
 
 "You <em>will</em> be helping. You're helping protect me from dying, which, which, which, if you don't remember, would <em>always</em> happen if you <em>weren't</em> the Blood Child –"
 
-"It doesn't feel that way."
-
-"We're helping each other."
-
-"You know what, never mind, just do the thing. Make me believe the shit."
+Oh gods, she was being <em>patient</em> with me. She had that tone like I was missing the obvious and I had to catch up. "You know what, never mind, just do the thing. Make me believe the shit."
 
 "Okay." Yali squeezed my hand. "You're trying to tell yourself that the anger isn't a <em>real</em> danger, so it's okay. But I'd like you to try thinking about it as if it <em>is</em> real, but it's a, a, an inherent part of the process. Like you give in to the danger for now, so you'll be able to fight it better later. 'Let me yield when I must yield, even if it costs my pride.'"
 
 That was from a prayer to the Stern God. "Fuck the Stern," I said automatically.
 
-Yali looked uncomfortable. "Rinn, I know you hate the Stern, but I just can't. It's the Stern Temple that pays for me to live here."
+Yali looked uncomfortable. "Rinn, I know you hate the Stern, but I just can't. It's the Stern Temple that – that – that pays for me to live here."
 
 "Since when do the Stern pay for anything that helps anyone?!"
 
-Yali gave me a dirty look. "The point is, it's all part of one process. So, so, let's say I had a car, and I wanted to keep the car in my garage forever. I was going to be an expert at keeping my car in the garage. And I didn't even have a driver's license."
+And that was the moment I thought I'd fucked everything up. From the subtle look on Yali's face, I could tell that I'd hit a nerve, that she wanted to yell at me. I swallowed, to stop myself making anything worse. I was sure she was about to drop her gentle act and tell me what she really felt. 
+
+But it didn't happen. She was still Yali. She just frowned and let the moment pass, to focus on what was important – the Releasing Game.
+
+"The point is," she continued, "it's all part of one process. So, so, let's say I had a car, and I wanted to keep the car in my garage forever. I was going to be an expert at keeping my car in the garage. And I didn't even have a driver's license."
 
 "Haha, that sounds pretty stupid."
 
@@ -136,7 +134,7 @@ I tried. "I told you, it doesn't work that way, it's not happening <em>right now
 
 I sat down in the chair. "Ugh, fuck, you asshole…" Even though she wasn't officially forcing me this time, all those closed-in feelings came rushing back when I looked at the table that way again. Then, to make things worse, Yali pushed the wooden blocks in front of me. "Those FUCKING blocks!" I exploded. I grabbed one of them and pounded it on the table, yelling every insult that came into my head. "I can't BELIEVE you made me do this all day, you Stern-blasted asshole! Gate jammer! Shut-eye! Go drown in the Earth!" I swung the block up in the air, then hesitated.
 
-"You can throw it at me if you want." Yali raised her arms to cover her face. "I'm ready."
+"Go ahead, throw it at me." Yali raised her arms to cover her face. "I'm ready."
 
 I hadn't thought I was going to do it, but I couldn't resist. "<em>Fuck! You!</em>" I hurled it straight at her.
 
@@ -168,11 +166,11 @@ I hadn't thought I was going to do it, but I couldn't resist. "<em>Fuck! You!</e
 
 I grabbed a block. "Fuck you, couch! This is all your fault!" Yali snickered.
 
-And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling Game. Calming Game.</em>. It went on and on, and it was exhausting. The sun had already set when we'd started, and now the night was dragging on later and later. I kept trying to actually calm myself down, but I never felt like I was doing more than just pretending. How was I even supposed to do that? What was I accomplishing here?
+And so it went on. <em>Releasing Game. Calming Game. Releasing Game. Controlling Game. Calming Game.</em>. It went on and on, and it was exhausting. The sun had already set when we'd started, and now the night was dragging on later and later. I kept trying to actually calm myself down, but I never felt like I was doing more than just pretending. How was I even supposed to do that?
 
-Finally, we were both too exhausted to go on. Yali told me I'd done a great job, but I still didn't feel like I'd gotten anything done at all. Worse, when I got up to jog home as usual, it was just too overwhelming to think of. I ended up flopping on Yali's couch that night. I went to sleep feeling weird, almost disoriented.
+But Yali was certain this was going somewhere. I didn't understand it yet – that night, all I knew was how exhausted I was getting, until I ended up flopping on Yali's couch, slipping into a fitful sleep. But something was starting to shift inside my brain.
 
-In the next week or so, we saw a lot of each other. Every time we hung out, we did some more of the "games". I still didn't get it, but Yali was sure I was making progress, and I had to do <em>something</em>. Even if I wanted to procrastinate, we were on a clock – the Ravelling was just six weeks away. If I ever spent a week putting it off… Well. It could get us both killed. Nothing like a little fear of death to get me off my ass, haha.
+In the coming weeks, every time we hung out, we did some more of the "games", pushing me further towards something that was still outside my grasp. I kept telling myself how important it was, hoping to the gods that Yali knew what she was doing. The Ravelling was just six weeks away. If it didn't work, or if I let myself procrastinate… Well. It could get us both killed. Nothing like a little fear of death to get me off my ass, haha.
 
 <bigbreak>
 

@@ -1,0 +1,160 @@
+@page {
+  size: 8.52in 11.94in;
+  margin: 0.625in;
+  margin-bottom: 0.875in;
+}
+@page :left {
+  margin-right: 1.025in;
+}
+@page :right {
+  margin-left: 1.025in;
+}
+@page {
+  @bottom-center {
+    content: none;
+  }
+}
+@page chapter :left {
+  @bottom-left-corner {
+    margin-bottom: 0.125in;
+    margin-left: 0.125in;
+    content: counter(page);
+    font: 20pt "Lexend";
+  }
+}
+@page chapter :right {
+  @bottom-right-corner {
+    margin-bottom: 0.125in;
+    margin-right: 0.125in;
+    content: counter(page);
+    font: 20pt "Lexend";
+  }
+}
+@page content_warnings :left {
+  @bottom-left-corner {
+    margin-bottom: 0.125in;
+    margin-left: 0.125in;
+    content: counter(page);
+    font: 20pt "Lexend";
+  }
+}
+@page content_warnings :right {
+  @bottom-right-corner {
+    margin-bottom: 0.125in;
+    margin-right: 0.125in;
+    content: counter(page);
+    font: 20pt "Lexend";
+  }
+}
+@page chapter_10_illustration_page {
+  margin-top: 8.5in;
+}
+@page chapter_14_illustration_page {
+  margin-top: 8.5in;
+}
+.chapter_14_illustration_page .after-forced-mid-paragraph-page-break {
+  text-indent: 3.5in;
+}
+
+img.chapter-header {
+  width: 100vw;
+  margin-left: -1.025in;
+  margin-right: -0.625in; 
+}
+img.ending {
+  width: 100vw;
+  margin-right: -1.025in;
+  margin-left: -0.625in; 
+}
+
+.chapter p,.content-warning-notice p,.content-warnings li,.chapter-12-summary p {
+  font: 20pt "Lexend";
+  margin-bottom: 1.2em;
+  text-indent: 0;
+  line-height: 1.5;
+  text-align: left;
+}
+h2.chapter-number {
+  font: 28pt "Alegreya Sans";
+  font-weight: bold;
+}
+.chapter-title {
+  font: 42pt "Alegreya Sans";
+  font-weight: bold;
+}
+cite {
+  font-style: normal;
+}
+em {
+  font-style: normal;
+  font-weight: bold;
+}
+strong {
+  font-weight: 900;
+}
+img.rav-section-break {
+  margin: 3em auto;
+}
+
+
+
+.title-page h1 {
+  font: 70pt "Alegreya Sans";
+  font-weight: 800;
+  margin-bottom: 1vh;
+}
+.title-page .volume {
+  font: 43pt "Alegreya Sans";
+  font-weight: 800;
+  margin-bottom: 38vh;
+}
+.title-page .author {
+  font: 30pt "Lexend";
+  margin-bottom: 0.3em;
+}
+.title-page .illustrator {
+  font: 20pt "Lexend";
+}
+
+
+
+.copyright-page p {
+  font: 20pt "Lexend";
+}
+.copyright-page table {
+  font: 20pt "Lexend";
+}
+
+
+
+.table-of-contents {
+  font: 24pt "Lexend";
+  line-height: 1.7;
+}
+
+
+
+.content-warning-notice {
+  padding-top: 7vh;
+}
+.content-warning-notice h2,.content-warnings h2,.chapter-12-summary h2 {
+  text-align: left;
+  font-size: 26pt; 
+}
+.content-warnings h3 {
+  font-size: 22pt; 
+}
+.chapter-12-summary h2 {
+  page-break-after: avoid;
+}
+
+
+
+.continued-in-volume-2 {
+  break-before: page;
+  padding-top: 35vh;
+  font: 50pt "Lexend";
+  font-weight: bold;
+  text-align: center;
+}
+

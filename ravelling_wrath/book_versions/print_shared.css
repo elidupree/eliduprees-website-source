@@ -1,0 +1,133 @@
+body,.first-chapter-in-volume {
+  counter-reset: page 1;
+}
+@page {
+  counter-increment: page;
+}
+@page chapter :first {
+  @top-center {
+    content: none;
+  }
+}
+@page copyright {
+  @top-center {
+    content: none;
+  }
+  @bottom-center {
+    content: none;
+  }
+}
+.runningleft {
+  position: running(runningleft);
+}
+.runningright {
+  position: running(runningright);
+}
+.runningsymbols {
+  /*position: running(runningsymbols);*/
+  max-height: 0.12in;
+  max-width: 0.21in;
+  vertical-align: -5%;
+  margin: 0 0.5em;
+  /*display: block;
+  margin: 0 auto;*/
+}
+.runningsymbols.burning-heart {
+  max-height: 0.14in;
+}
+.runningsymbols.dauntless-gate {
+  max-height: 0.13in;
+}
+.chapter {
+  page: chapter;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+@page full_page_image {
+  margin: 0;
+  @top-center {
+    content: none;
+  }
+  @bottom-center {
+    content: none;
+  }
+}
+@page chapter_7_illustration_page {
+  background-image: url('/media/ravelling-wrath/illustrations/7-left.png?rr');
+  background-position: bottom;
+  background-size: 100vw auto;
+  @bottom-center {
+    content: none;
+  }
+}
+@page chapter_10_illustration_page {
+  background-image: url('/media/ravelling-wrath/illustrations/10-right.png?rr');
+  background-position: top;
+  background-size: 100vw auto;
+  @top-center {
+    content: none;
+  }
+}
+@page chapter_14_illustration_page {
+  background-image: url('/media/ravelling-wrath/illustrations/14-left.png?rr');
+  background-position: top;
+  background-size: 100vw auto;
+  @top-center {
+    content: none;
+  }
+}
+.chapter,.content-warning-notice {
+  break-before: right;
+}
+.chapter_7_illustration_page {
+  page: chapter_7_illustration_page;
+}
+.chapter_10_illustration_page {
+  page: chapter_10_illustration_page;
+}
+.chapter_14_illustration_page {
+  page: chapter_14_illustration_page;
+}
+
+.force-break-before {
+  break-before: page;
+}
+
+img.full-page {
+  width: 100vw;
+  height: auto;
+  page: full_page_image;
+}
+
+
+
+.table-of-contents {
+  page: table_of_contents;
+  break-before: page;
+  font: 14pt "Alegreya SC";
+}
+.toc-row {
+  display: flex;
+}
+.toc-chapter-number {
+  flex-shrink: 0;
+  width: 2em;
+  padding-right: 0.6em;
+  text-align: right;
+}
+.toc-title {
+  flex-shrink: 0;
+}
+.toc-dots {
+  overflow: hidden;
+  letter-spacing: 2px;
+  padding-left: 0.25em;
+}
+.toc-page-number::after {
+  content: target-counter(attr(data-href), page);
+  flex-shrink: 0;
+  padding-left: 0.25em;
+}

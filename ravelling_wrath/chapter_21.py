@@ -546,8 +546,8 @@ I knelt down, pressing my hand against the cold pavement.
 
 And I knew that one day, I would raise up a new temple to take its place.
 
-<not_print><img class="sketch ending" src="/media/ravelling-wrath/illustrations/21.png?rr" alt=""></not_print>
-<print_only><img class="sketch ending" src="/media/ravelling-wrath/illustrations/21-left.png?rr" alt=""></print_only>
+<not_print><img class="ending" src="/media/ravelling-wrath/illustrations/21.png?rr" alt=""></not_print>
+<print_only><img class="ending" src="/media/ravelling-wrath/illustrations/21-left.png?rr" alt=""></print_only>
 
 ''',
 },

@@ -15,8 +15,8 @@ posts = [
   "content_warnings": '''<p>Self-harm; negative self-talk</p>''',
   "contents": '''
 
-<not_print><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/endless-maze-ornate.png?rr" alt=""></not_print>
-<print_only><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/endless-maze-ornate-right.png?rr" alt=""></print_only>
+<not_print><img class="chapter-header" src="/media/ravelling-wrath/illustrations/endless-maze-ornate.png?rr" alt=""></not_print>
+<print_only><img class="chapter-header" src="/media/ravelling-wrath/illustrations/endless-maze-ornate-right.png?rr" alt=""></print_only>
 
 The darkness jiggled impatiently.
 

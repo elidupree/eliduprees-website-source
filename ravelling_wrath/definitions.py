@@ -60,6 +60,23 @@ def fonts_css(fonts_path, mode="web"):
   """+font_rules("kreon-v24-latin-700")+"""
 }
 
+
+/* alegreya-sans-regular - latin */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  """+font_rules("alegreya-sans-v14-latin-regular")+"""
+}
+
+/* alegreya-sans-800 - latin */
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 800;
+  """+font_rules("alegreya-sans-v14-latin-800")+"""
+}
+
 /* alegreya-sc-800 - latin */
 @font-face {
   font-family: 'Alegreya SC';
@@ -74,6 +91,38 @@ def fonts_css(fonts_path, mode="web"):
   font-style: normal;
   font-weight: 400;
   """+font_rules("alegreya-sc-v15-latin-regular")+"""
+}
+
+/* alegreya-sans-sc-800 - latin */
+@font-face {
+  font-family: 'Alegreya Sans SC';
+  font-style: normal;
+  font-weight: 800;
+  """+font_rules("alegreya-sans-sc-v13-latin-800")+"""
+}
+
+/* lexend-regular - latin */
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 400;
+  """+font_rules("lexend-v12-latin-regular")+"""
+}
+
+/* lexend-700 - latin */
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 700;
+  """+font_rules("lexend-v12-latin-700")+"""
+}
+
+/* lexend-900 - latin */
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 900;
+  """+font_rules("lexend-v12-latin-900")+"""
 }
 """
 

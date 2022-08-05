@@ -208,7 +208,7 @@ The Seeing was Yali's magic power.
 
 "Help yourself!" Yali awkwardly carried over three more sienkahs and handed them to me before starting on her own.
 
-"Sweet! Thank you so much!" I took a huge bite immediately. It was delicious. Before long, I had wolfed down two whole fruits. When I looked up, Yali was still methodically chewing through her first one.
+"Sweet! You're better than the gods!" I took a huge bite immediately. It was delicious. Before long, I had wolfed down two whole fruits. When I looked up, Yali was still methodically chewing through her first one.
 
 Soon, she wiped her mouth and looked back at me. "Let's try your idea. See if we can make you mad."
 
@@ -368,7 +368,7 @@ There was an awkward pause. I scrambled for something to break the silence.
 
 <bigbreak>
 
-The Otherworld had five layers, and the third one was going to be the <em>worst</em>.
+The Otherworld had five layers, and most of them didn't sound so bad, but the third layer was going to be <em>awful</em>.
 
 Our journey would begin in the starry void of the Waiting, the god who oversaw the cycle of the seasons, the god who had woven the structure of the Ravelling out of the chaos of souls that had come before. The Waiting God's challenges for us would be about patience and studying, which sounded like a huge pain, but I could put up with it. And the way Yali described its world – an empty world full of stars – made it sound eerily beautiful.
 
@@ -392,8 +392,8 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "It probably was!"
 
-<not_print><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2.png?rr" alt=""></not_print>
-<print_only><img class="sketch full-page" src="/media/ravelling-wrath/illustrations/2-right.png?rr" alt=""></print_only>
+<not_print><img class="full-page" src="/media/ravelling-wrath/illustrations/2.png?rr" alt=""></not_print>
+<print_only><img class="full-page" src="/media/ravelling-wrath/illustrations/2-right.png?rr" alt=""></print_only>
 
 "And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling me about the layers now."
 
@@ -433,7 +433,7 @@ That wasn't quite as reassuring as I would've liked. "So, what's our second adva
 
 "The same way the Waiting God hasn't been rejuvenating… the Blood God hasn't been either."
 
-"Wait, back up. What's rejuvenating?"
+"Wait, back up. What's 'rejuvenating'?"
 
 "That's what happens at the end of the Ravelling. After we get through the five layers, the gods take back the threads that they put in our souls. But they don't take back <em>exactly</em> the threads they put in. They keep a few of ours, and they leave us with a bit of themselves. And that's how they stay strong, by getting a supply of new human threads every year. But if the human dies early, it's different. It takes the whole winter to fully link the human threads to the god threads. So if the human dies before that, the god has to pull back its own threads, because when a human is killed in the Other&shy;world, their soul is actually damaged – they can't even manifest a new body –"
 

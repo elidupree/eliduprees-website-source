@@ -1,0 +1,194 @@
+p {
+  font: 12pt "Kadwa";
+  margin: 0;
+  margin-bottom: 1pt;
+  line-height: 1.25;
+  text-indent: 2em;
+  text-align: justify;
+  widows: 2;
+  orphans: 2;
+}
+.yali-narration p {
+  font-family: "Kreon", serif;
+  font-size: 112%;
+  line-height: 1.2em;
+}
+h2.chapter-number {
+  font: 16pt "Alegreya SC";
+  font-weight: 800;
+  text-align: center;
+}
+.chapter-title {
+  font: 24pt "Alegreya SC";
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 1.3em;
+  position: relative;
+  z-index: 10;
+}
+em {
+  font-style: italic;
+}
+strong {
+  font-weight: bold;
+}
+
+
+
+p,div.end-of-texts {
+  clear: both;
+}
+div.texts {
+  margin-top: 6px;
+  margin-bottom: 8px;
+}
+p.text {
+  border-radius: 1.3em;
+  max-width: 60%;
+  text-align: left;
+  text-indent: 0;
+  padding: 0.375em 0.75em;
+  margin-bottom: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p.text.right {
+  background-color: #87e520;
+  float: right;
+}
+p.text.left {
+  background-color: #e5e4e4;
+  float: left;
+}
+.prayer {
+  margin: 1.9em 0;
+}
+.prayer p {
+  text-align: center;
+  text-indent: 0;
+}
+img.full-page {
+  display: block;
+  margin: 0 auto;
+}
+img.chapter-header {
+  height: auto;
+  display: block;
+  margin-top: -1.0em; 
+  margin-bottom: 2.0em;
+}
+.chapter_15 img.chapter-header {
+  margin-top: -4.0em;
+  z-index: 0;
+}
+img.ending {
+  height: auto;
+  display: block;
+  margin-top: 4em;
+}
+img.emoji {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0 -.125em;
+  vertical-align: middle;
+}
+img.rav-section-break {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  margin: 2em auto;
+}
+img.rav-section-break.nonaligned {
+  width: 80%;
+}
+
+
+
+.title-page {
+  page: title;
+  padding-top: 15vh;
+  text-align: center;
+}
+.title-page h1 {
+  font: 40pt "Alegreya SC";
+  font-weight: 800;
+  margin-bottom: 40vh;
+}
+.title-page .author {
+  font: 22pt "Kadwa";
+  margin-bottom: 0.3em;
+}
+.title-page .illustrator {
+  font: 14pt "Kadwa";
+}
+
+
+
+.copyright-page {
+  page: copyright;
+  break-before: page;
+}
+.copyright-page p {
+  font: 10pt "Lexend";
+  text-align: center;
+  text-indent: 0;
+  margin-bottom: 1.2em;
+}
+.copyright-page table {
+  font: 10pt "Lexend";
+  margin: 0 auto;
+  margin-bottom: 1.2em;
+  border-spacing: 0;
+}
+.copyright-page table.font-grid {
+  margin-top: -0.9em;
+}
+.copyright-page td:first-child {
+  text-align: right;
+  padding-right: 0.2em;
+}
+.copyright-page table.font-grid td:first-child {
+  padding-right: 0.5em;
+}
+
+
+.content-warning-notice {
+  page: content_warning_notice;
+  break-before: right;
+  padding-top: 18vh;
+  text-align: justify;
+  font: 12pt "Kadwa";
+  line-height: 1.25;
+}
+.content-warning-notice h2 {
+  text-align: center;
+  font-size: 16pt; 
+}
+.content-warning-notice p {
+  margin-bottom: 0.8em;
+}
+a.crosslink::after {
+  content: target-counter(attr(href), page);
+}
+
+
+.content-warnings,.chapter-12-summary {
+  page: content_warnings;
+  font: 12pt "Kadwa";
+  line-height: 1.25;
+}
+.content-warnings {
+  break-before: left;
+}
+.chapter-12-summary {
+  break-before: page;
+}
+.content-warnings h2,.chapter-12-summary h2 {
+  text-align: center;
+  font-size: 16pt; 
+}
+.content-warnings h3 {
+  font-size: 13pt; 
+}
+

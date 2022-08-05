@@ -243,7 +243,7 @@ I grinned. "I <em>like</em> this guy," I said to no one in particular.
 
 <print_only></div></print_only>
 
-<not_print><img class="sketch bottom" src="/media/ravelling-wrath/illustrations/7.png?rr" alt=""></not_print>
+<not_print><img class="bottom" src="/media/ravelling-wrath/illustrations/7.png?rr" alt=""></not_print>
 
 Justicar stepped forward. "If your body is whole again, that means you can tell us <em>what</em> you just did, and promise not to do anything like it again."
 
