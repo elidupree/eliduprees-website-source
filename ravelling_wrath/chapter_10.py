@@ -906,7 +906,7 @@ I turned around.
 
 I kept looking at the map in my hand. Going too far in one direction took me further away from her. Going too far in the other direction also took me further away from her. I found the closest point, and glared at the wall there. On the map, the little Burning Heart was nearly touching the room Yali was in. 
 
-If I could just smash through this wall, I'd be right there, looking across the room at her…
+If I could just smash through this one little wall, I'd be right there, looking across the room at her…
 
 "She's just beyond this wall!!" I yelled. "I will <em>not</em> be denied <em>again!</em>" I snatched a Blood Blade out of thin air and swung it against the wall.
 
