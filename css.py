@@ -53,6 +53,8 @@ a.skip {
   clip: rect(1px, 1px, 1px, 1px);
 }
 
+span.title,cite { font-style: italic; }
+
 html.javascript_enabled .noscript {display: none;}
 html.javascript_disabled .script_required {display: none;}
 '''

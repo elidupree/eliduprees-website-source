@@ -40,7 +40,7 @@ Even if Yali <em>had</em> imprinted a hospital bed just after birth, I don't kno
   
   
   "head":head,  "chapter_title": "The Priorities of Justice",
-  "content_warnings":'''<p>Details of depressed thoughts, including dissociation and anhedonia; combat and fear of death; child abuse and neglect, including sexual abuse, with no physical details and no long scenes of abuse, but many details about the social and emotional context, told as a retrospective summary.</p>''',
+  "content_warnings":'''<p>Details of depressed thoughts, including dissociation and anhedonia; combat and fear of death; child abuse and neglect, including sexual abuse, with no physical details and no long scenes of abuse, but many details about the social and emotional context, including adults refusing to believe that the abuse happened, told as a retrospective summary.</p>''',
   "contents": '''
   
 My eyes followed the point of Justicar's sword hovering in front of me.
@@ -335,7 +335,7 @@ I have been told it was a very good boarding school, but it was not what I neede
 
 <p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>During school vacations, when I was at home, I ended up getting a lot more alone time. I had gotten more independent at the school, so the Dalners didn't have to spend as much time taking care of me. And when they weren't assaulting me, they wanted nothing to do with me. To keep me busy and quiet, they gave me the best computers and phones that money could buy. But that was their biggest mistake. I spent more and more time in my room, browsing the Internet, learning everything I could. <print_only></p><div class="chapter_14_illustration_page"><p class="after-forced-mid-paragraph-page-break"></print_only>And before long, I found information about child abuse. I had always known I wasn't okay with what they were doing, but when I actually saw the lists that were like "this is what abuse is," and checked off each thing, it felt different. It felt like something I should be able to stop. And not only that, but I hadn't known that the sexual abuse was a <em>crime</em>. If it was a crime, there <em>was</em> something I could do about it, just as long as I could prove what was happening.</p>
 
-<not_print><img class="sketch top" src="/media/ravelling-wrath/illustrations/14.png?rr" alt=""></not_print>
+<not_print><img class="top" src="/media/ravelling-wrath/illustrations/14.png?rr" alt=""></not_print>
 
 <p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I began writing down everything they did. I wrote down dates and times, details of every abusive act. The <print_only></p></div><p class="after-forced-mid-paragraph-page-break"></print_only>more I paid attention to it, the more I noticed how even the little things were abusive. The way they talked to me. The way they talked to each other. And as soon as I could, I started making recordings with my phone. I installed an app that could record audio without displaying anything on the screen, so I wouldn't get caught even if they saw it. And I knew their patterns. When they assaulted me, I sometimes managed to prepare by leaving my phone nearby in advance. To make sure the recordings would be incriminating, I begged them to stop out loud, being specific about what they were doing, so that their responses would prove I was telling the truth.</p>
 

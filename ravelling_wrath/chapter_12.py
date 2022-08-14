@@ -19,8 +19,8 @@ posts = [
 <p>This isn't the only chapter which contains details of depression, but it's the most severe one. I don't have summaries for the others, because they're less self-contained (they have occasional details of depression mixed in with other important details that are harder to summarize).</p>''',
   "contents": '''
   
-<not_print><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/dauntless-gate-ornate.png?rr" alt=""></not_print>
-<print_only><img class="sketch chapter-header" src="/media/ravelling-wrath/illustrations/dauntless-gate-ornate-right.png?rr" alt=""></print_only>
+<not_print><img class="chapter-header" src="/media/ravelling-wrath/illustrations/dauntless-gate-ornate.png?rr" alt=""></not_print>
+<print_only><img class="chapter-header" src="/media/ravelling-wrath/illustrations/dauntless-gate-ornate-right.png?rr" alt=""></print_only>
   
 It slammed into place. The pattern. The bright, uncompromising pattern of the Stern.
 

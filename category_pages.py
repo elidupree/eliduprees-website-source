@@ -117,8 +117,6 @@ img.exhibit.generic.right {
   img.exhibit.right { width: 95%; height: auto; }
 }
 
-span.title { font-style: italic; }
-
 .orphaned_page_link {display: block}
 
 .fake_warning_link {font-size: 71%; margin:0.4em 0; position: relative; z-index: 0;}
@@ -173,11 +171,11 @@ def add_category_pages(page_dict):
   <div id="content">
     '''+ exhibit ("/voldemorts-children", "vc left", "/media/VC_0.png?rr",'''
         <p>What if Dumbledore's idea of placing Harry Potter with an abusive family didn't turn out so well?</p>
-        <p><span class="title">Voldemort's Children</span>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.</p>'''+ content_warning_summary ("<p>Content warnings: This comic depicts verbal and physical abuse; physical violence, with occasional cartoon blood and gore; ableist language; negative self-talk; some discussion of suicide.</p><p>As you read the comic, each page will be marked with the warnings that apply to that page.</p>"), "Start reading") +
+        <p><cite>Voldemort's Children</cite>, my ongoing Harry Potter fanfic graphic novel, explores possible answers. It's about 80% complete, but is on hiatus while my hands recover from an injury.</p>'''+ content_warning_summary ("<p>Content warnings: This comic depicts verbal and physical abuse; physical violence, with occasional cartoon blood and gore; ableist language; negative self-talk; some discussion of suicide.</p><p>As you read the comic, each page will be marked with the warnings that apply to that page.</p>"), "Start reading") +
         exhibit ("/a-couple-of-badass-superheroes" , "acobs right", "/media/ACOBS_thumbnail.png?rr",'''
-        <p><span class="title">A Couple of Badass Superheroes</span> go on a silly adventure. I wrote the first part September-December 2011 to get used to drawing using my tablet. (14 pages)</p>''', "Start reading") +
+        <p><cite>A Couple of Badass Superheroes</cite> go on a silly adventure. I wrote the first part September-December 2011 to get used to drawing using my tablet. (14 pages)</p>''', "Start reading") +
         exhibit ("/people-are-wrong-sometimes", "paws left", "/media/PAWS_thumbnail.png?rr",'''
-        <p>In <span class="title">People Are Wrong Sometimes</span>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)</p>'''+ content_warning_summary ("<p>Content warnings: This comic depicts neurelitist statements; brief descriptions of bullying and violence; one instance of cartoon blood.</p>"), "Start reading") +
+        <p>In <cite>People Are Wrong Sometimes</cite>, two friends are about to leave high school and part ways. But do they really know each other? (10 pages)</p>'''+ content_warning_summary ("<p>Content warnings: This comic depicts neurelitist statements; brief descriptions of bullying and violence; one instance of cartoon blood.</p>"), "Start reading") +
 '''
     <div class="category_page_bottom"></div>
   </div>

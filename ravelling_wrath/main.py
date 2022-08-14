@@ -112,23 +112,7 @@ for index, chapter in enumerate (chapters):
     chapter["symbols"] = last_symbols
     
   chapter ["contents"] = auto_paragraphs (chapter ["contents"])
-  # Smart quotes cases:
-  # Standard apostrophes:
-  chapter ["contents"] = re.sub(r"\b'\b", "’", chapter ["contents"])
-  
-  def apply_quotes(match):
-    # Single-quotes within standard quotes
-    return re.sub(r"(?<!\w)'(?! )([^'\n]*?)(?<! )'(?!\w)", lambda match2: f"‘{match2.group(1)}’", match.group (1))
-    
-  # Standard quotes:
-  chapter ["contents"] = re.sub(r'(?<![\w=])"(?![ >])([^"\n]*?)(?<![ =])"(?![\w>])', lambda match: f"“{apply_quotes(match)}”", chapter ["contents"])
-  # Unmatched quotes indicating continued dialogue
-  chapter ["contents"] = re.sub(r'(?<![\w=])"(?![ >])([^"\n]*?)(?=</p>)', lambda match: f"“{apply_quotes(match)}", chapter ["contents"])
-  
-  # Word-start apostrophes:
-  chapter ["contents"] = re.sub(r"\B'\b", "’", chapter ["contents"])
-  # Word-end apostrophes:
-  chapter ["contents"] = re.sub(r"\b'\B", "’", chapter ["contents"])
+  chapter ["contents"] = auto_smart_quotes(chapter ["contents"])
   
   
 
@@ -240,15 +224,10 @@ Content warnings for Ravelling Wrath as a whole:
 <bigbreak>''' + posts [0] ["contents"])
 
 
-# note: partly duplicated language from the chapter 12 content warnings
-extra_posts = [
-{
-  "title":"Summary of Ravelling Wrath, chapter 12",
-  "title_url_override": "12-summary",
-  "auto_paragraphs": True,
-  "contents":'''
+def chapter_12_summary(chapter_descriptor):
+  return f'''
 
-The majority of <a href="/ravelling-wrath/12">Ravelling Wrath, chapter 12</a> is an explicit, detailed narration of an experience of depression, including anhedonia, dissociation, negative self-talk, and being coerced into obeying authority. From my personal experience with depression, I know that it's sometimes valuable to avoid exposure to content like this. Thus, I've prepared this summary, so that you can read the summary instead of the chapter if needed.
+The majority of {chapter_descriptor} is an explicit, detailed narration of an experience of depression, including anhedonia, dissociation, negative self-talk, and being coerced into obeying authority. From my personal experience with depression, I know that it's sometimes valuable to avoid exposure to content like this. Thus, I've prepared this summary, so that you can read the summary instead of the chapter if needed.
 
 Skipping chapter 12 and reading this summary instead is an <strong>officially supported</strong> way of reading Ravelling Wrath.
 
@@ -264,7 +243,15 @@ Rinn wouldn't normally obey the Stern God's rules. But, because of the depressio
 
 When Rinn finally gets to Yali, Rinn hardly has any feelings about Yali at all. Alchemist is also there; Yali and Alchemist have been preparing for what's about to happen. As the chapter ends, Rinn "remembers" what to do, summons a Blood Blade, and stabs Yali with it.
 
-''',
+'''
+
+# note: partly duplicated language from the chapter 12 content warnings
+extra_posts = [
+{
+  "title":"Summary of Ravelling Wrath, chapter 12",
+  "title_url_override": "12-summary",
+  "auto_paragraphs": True,
+  "contents": chapter_12_summary('<a href="/ravelling-wrath/12">Ravelling Wrath, chapter 12</a>'),
 },
 
 ]
