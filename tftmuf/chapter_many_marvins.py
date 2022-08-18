@@ -90,12 +90,7 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 [There was some more debate, but the overwhelming necessity may be outcome inevitable – the ethics board unanimously approved the proposal. This really was something that couldn't be hired out without revealing what it was for, because defining the properties you needed to prove required you to understand the system]
 
 
-[amusingly, the mathematician actually WAS happy to be locked in a room doing mathematics all day?]
 
-
-[The process of writing proofs promptly finds dozens of bugs, which makes Marvin very uneasy ("When would this be over? this thing of constantly being one mistake away from ending humanity?"). The mathematician is quickly in high demand by many Marvins.]
-
-[Bunch of stuff about developing new time travel devices, including paradox traps, and how the formal verification plays into it]
 
 
 

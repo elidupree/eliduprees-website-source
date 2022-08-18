@@ -29,3 +29,19 @@ So we realized we had to do something to prove it]
 [The mathematician was taking an interest, and seemed to be taking it seriously. I was surprised: we'd been clear about how he wouldn't have contact with any of his friends, and had, I thought, given him very little to motivate him to do it. But as I really understood later on, it appealed to him as follows: we were telling him that his particular field of study, which he had devoted his life to, was vital to the future of humanity, when most of the people he had to work with were impatient with his obsession with correctness.]
 
 [Yeah now we need to take you in this, uh, transporter (I stumbled over my words because we hadn't gotten to this part with anyone else), and then give you this vaccine against the alien brain parasites]
+
+
+
+[Chapter break: I Hope You Like Reading Time Travel Rules, Because This Chapter Is Full of Them]
+
+
+[amusingly, the mathematician actually WAS happy to be locked in a room doing mathematics all day?]
+
+
+[The process of writing proofs promptly finds dozens of bugs, which makes Marvin very uneasy ("When would this be over? this thing of constantly being one mistake away from ending humanity?"). The mathematician is quickly in high demand by many Marvins.]
+
+[Bunch of stuff about developing new time travel devices, including paradox traps, and how the formal verification plays into it]
+
+
+
+
