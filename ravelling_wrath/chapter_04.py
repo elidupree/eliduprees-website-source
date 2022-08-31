@@ -184,27 +184,31 @@ After having the dream like half a dozen times, I thought of telling Yali about 
 
 "No, no, it's, it's, it's… I think you might be dreaming of the Blood God's world. Which is fine, I, I, –"
 
-[The instant I realized what she meant, [????? a stab of guilt clutched at my chest]. That world was where the other Farseer had died. I had said it without knowing, and forced her to relive the memory. I couldn't imagine what it must be like.] "Oh gods, I'm sorry, we don't have to talk about it!" I blurted. "[????? I know you want to be all Stern about it but really I want to do anything for you that I can!!]"
+The instant I realized what she meant, guilt stabbed at my chest. That world was where the other Farseer had died. By telling her, I'd forced her to relive the memory, without knowing. I couldn't imagine how that must feel. "Oh gods, I'm sorry, we don't have to talk about it!" I blurted. "I know you want to face it yourself but I really want to make it easier for you however I can!!"
 
-But Yali didn't have time for my sympathy. Instead, she had latched onto the information in my words. [Her organized mind, the essence of the Waiting God, were putting 3 thoughts in order before any of them could slip away]
+But what I didn't realize is that I was reminding her of multiple things at the same time. She didn't have time for my sympathy – she was concentrating, putting her thoughts in order before any of them could slip away.
 
-"First," she said, surprising me with her sudden seriousness, "Yes, there <em>is</em> something you can do for me, [which I've been putting it off/I need to ask you about it/don't let me forget to ask you about it]"
+"First," she said, suddenly serious, "You've just reminded me, there <em>is</em> something you can do for me. I've been forgetting to ask you about it, but I shouldn't put it off much longer."
 
-I was caught off guard by suddenly getting exactly what I'd asked for, when I wasn't expecting it. Before I could react, Yali went on. "But second… [The Blood God stuff] I saw the way your face was lighting up when you were explaining the dream to me. I don't want to take that away from you."
+I hadn't expected to suddenly get exactly what I'd asked for. Before I could react, Yali went on. "But before that… we have to talk about the Blood God, about what that dream means for you. I, I, I saw the way your face was lighting up when you were explaining the dream to me. I don't want to take that away from you."
 
-The implication was obvious. She didn't <em>want</em> to take it away… but it meant the Blood God was already getting inside my head. ????? "But it felt so good. What does that mean?"
+The implication was obvious. She didn't <em>want</em> to take it away… but she was about to, because of what it meant. Because it meant the Blood God was already getting inside my head.
 
-"Maybe that it's trying to lure you in?" she said, with a touch of bitterness. "Be nice to you until you trust it, so you'll doubt yourself after it starts hurting you?"
+"But it felt so good. What does that mean?"
+
+Yali gave me a long, slow look. "Maybe it's trying to lure you in?" she said, with a touch of bitterness. "Be nice to you until you trust it, so you'll doubt yourself after it starts hurting you?"
 
 I laughed. "I've never doubted myself in my life!"
 
-Yali didn't smile. She was still focused on the danger. "You do have some advantages, yes. And you know it's coming. That'll make it easier for you than – than –" she cut herself off, then lapsed into silence.
+Yali didn't smile. She was still focused on the danger. "True, it's hard to imagine you [suffering that particular vulnerability]. It'll be easier for you than – than –" she cut herself off. "But – but – I don't trust it."
 
-?????
+However, in the end, she didn't know what advice to give me. "I can't just tell you to repress your feelings," she said. "If I told you to stop feeling good about it, that just, just, wouldn't make things any better anyway. So… just keep paying attention to it. Notice if the feelings start to change."
 
-"So, what was the other thing? The… thing I can help you with?" I said hopefully.
+She said it conclusively, like she was telling herself that it was okay. But she still had an intense look. I could tell she couldn't stop worrying about the thing that was inside me. I decided to change the subject.
 
-"Right. That." [Yali physicality?] "Do you… Do you know your way around the gym?" [Skip to below]
+"So, uh, what was the other thing? The… thing I can help you with?" I said hopefully.
+
+"Right. That." [Yali physicality? Little shrug, putting the other thought aside?] "Do you… Do you know your way around the gym?" [Skip to below]
 
 
 [????? Maybe Rinn is more anxious about triggering Yali, and says the "I want to help you with something" thing again, and Yali says that she has thought of something ("which I should ask you, rather than delay") but has trouble expressing it right away, and then maybe weave bits and pieces of the current text in with that; Yali re dream can be more "I don't want to take it away from you"]
