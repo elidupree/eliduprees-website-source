@@ -208,8 +208,11 @@ She said it conclusively, like she was telling herself that it was okay. But she
 
 "So, uh, what was the other thing? The… thing I can help you with?" I said hopefully.
 
-"Right. That." [Yali physicality? Little shrug, putting the other thought aside?] "Do you… Do you know your way around the gym?" [Skip to below]
+"Right. That." Yali gave a little shrug, putting the other thought aside for now. "Do you… Do you know your way around the gym?"
 
+
+
+[cut:]
 
 [????? Maybe Rinn is more anxious about triggering Yali, and says the "I want to help you with something" thing again, and Yali says that she has thought of something ("which I should ask you, rather than delay") but has trouble expressing it right away, and then maybe weave bits and pieces of the current text in with that; Yali re dream can be more "I don't want to take it away from you"]
 
@@ -247,17 +250,29 @@ Yali smiled. "Does <em>he</em> know that?"
 
 "Yes… You know how you keep wanting to be able to help me somehow?"
 
-"Yeah?"
 
-"Well, I thought of something. Do you… do you know your way around the gym?"
+
+
 
 "Well, yeah, I mean, I'd rather just run around outside instead of messing around inside a gym, but I know my way around, yeah. What about it?"
 
-"In case you haven't noticed… My body doesn't work very well. I'm clumsy, I feel chilly all the time, I get awful period cramps, I bruise really easily… and some other things, too. It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the worst part is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So, I know just exercising won't fix everything, but I, I, I really want to get in better shape. I guess it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to just do the Waiting God wants, too, I…" Yali trailed off.
+"In case you haven't noticed… My body doesn't work very well –"
 
-I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize. It would even make me feel better! But the problem was, I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was so special about defying the <em>Waiting</em> God? The Waiting God wasn't <em>bad</em>, was it? Well, at least there was <em>something</em> I could say to be helpful. "I'll totally show you around the gym if that's what you want! I'd be happy to."
+"Whaaaaaaat?! Your body is great! Don't tell me you haven't looked at yourself –"
 
-Yali still looked sort of downcast. "Will you go with me… more than just once? I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried that people will be judging me because I'm fat. I've been telling myself that my life is more important than other people judging me, but…"
+Yali smiled, but shook her head. "Having you be attracted to it isn't the same as having it do what I want. I always have to be careful about how I move, because I'm clumsy and I'll slip or drop something if I don't do it exactly right. And top of that, I feel chilly all the time, I get awful period cramps, I bruise really easily… And, and, I know exercise isn't going to fix everything, but, I, I, I really want to get in better shape. So, I wanted to know if you would, would, show me around, and, go with me –"
+
+"Like a gym buddy?" I grinned. "I'm not going to say no to watching my girlfriend getting sweaty. But, I was kind of expecting something, you know, bigger? Like about the gods."
+
+"'Everything is about the gods,'" said Yali darkly. She was quoting an old saying, but I could hear the bitter irony in her voice. "The Waiting God…" she gestured at herself, "It's just so <em>cliché</em> for Farseers. You know, blind seers, frail oracles who sit around in their temples all day instead of getting any exercise? I'm just lucky I have 20-20 vision so I'm not a <em>complete</em> stereotype. And the worst part is, I kind of think the Waiting God wants it that way. Like it specifically picks people who are physically weak. So, I know it's not as dramatic as how you're going to be going against the Blood God, but, I, I just, I really don't want to be doing what the Waiting God wants, too, I…" Yali trailed off.
+
+I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize. It would even make me feel better! But the problem was, I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was so special about defying the <em>Waiting</em> God? The Waiting God wasn't <em>bad</em>, was it?
+
+"And I especially don't want [to have the reason I'm not doing it be this particular reason]"
+
+"Oh?"
+
+"I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried about how people will be looking at me. I know they'll be judging me because I'm fat. I've been telling myself that my life is more important than other people judging me, but…"
 
 Now <em>this</em> I could make sense of. "Of course I'll go with you! It'd be no big deal, really. Nobody will look at you funny when I'm around, I'll beat them up."
 
@@ -265,7 +280,7 @@ Yali gave a half smile. "Please don't actually beat anyone up for my sake."
 
 "Oh don't worry, no one will mess with us in the first place, so I won't have to." Yali glared at me a little. "Okay, okay, fine, I won't."
 
-"…thanks." Yali sounded subdued, but somehow extra sincere.
+"…thanks." Yali still sounded a little downcast, but I could tell she meant it.
 
 <bigbreak>
 
