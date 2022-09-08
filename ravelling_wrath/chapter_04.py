@@ -186,7 +186,7 @@ After having the dream like half a dozen times, I thought of telling Yali about 
 
 The instant I realized what she meant, guilt stabbed at my chest. That world was where the other Farseer had died. By telling her, I'd forced her to relive the memory, without knowing. I couldn't imagine how that must feel. "Oh gods, I'm sorry, we don't have to talk about it!" I blurted. "I know you want to face it yourself but I really want to make it easier for you however I can!!"
 
-But what I didn't realize is that I was reminding her of multiple things at the same time. She didn't have time for my sympathy – she was concentrating, putting her thoughts in order before any of them could slip away.
+But Yali didn't have time for my sympathy. My words had reminded her of multiple things at the same time. Now, she was concentrating, putting her thoughts in order before any of them could slip away.
 
 "First," she said, suddenly serious, "You've just reminded me, there <em>is</em> something you can do for me. I've been forgetting to ask you about it, but I shouldn't put it off much longer."
 
@@ -200,9 +200,7 @@ Yali gave me a long, slow look. "Maybe it's trying to lure you in?" she said, wi
 
 I laughed. "I've never doubted myself in my life!"
 
-Yali didn't smile. She was still focused on the danger. "Maybe. Maybe the god just hasn't realized what you're like, maybe it'll be easier for you than – than –" she cut herself off. "But – but – I don't trust it."
-
-However, even after we talked about it, she didn't know what advice to give me. "I can't just tell you to repress your feelings," she said. "If I told you to stop feeling good about it, that just, just, wouldn't make things any better anyway. So… just keep paying attention to it. Notice if the feelings start to change."
+Yali didn't smile. She was still focused on the danger. "Maybe. Maybe the god just hasn't realized what you're like, maybe it'll be easier for you than – than –" she cut herself off. "But – but – I don't trust it." It was obvious how much this was worrying her. She asked a bunch of probing questions, trying to figure out what the Blood God was up to. However, it didn't get any clearer. In the end, reluctantly, she had to admit that she didn't know what advice to give me. "I can't just tell you to repress your feelings," she said. "If I told you to stop feeling good about it, that just, just, wouldn't make things any better anyway. So… just keep paying attention to it. Notice if the feelings start to change."
 
 She said it conclusively, like she was telling herself that it was okay. But she still had an intense look. I could tell she couldn't stop worrying about the thing that was inside me. I decided to change the subject.
 
@@ -210,57 +208,13 @@ She said it conclusively, like she was telling herself that it was okay. But she
 
 "Right. That." Yali gave a little shrug, putting the other thought aside for now. "Do you… Do you know your way around the gym?"
 
-
-
-[cut:]
-
-[????? Maybe Rinn is more anxious about triggering Yali, and says the "I want to help you with something" thing again, and Yali says that she has thought of something ("which I should ask you, rather than delay") but has trouble expressing it right away, and then maybe weave bits and pieces of the current text in with that; Yali re dream can be more "I don't want to take it away from you"]
-
-[I realized how much it must've hurt her/felt stupid for having said it without knowing: that she had died there once, I mean, one of the other Farseer's died there. "Oh gods, I'm sorry, we don't have to talk about it, remember, I really want to do anything for you that I can"]
-
-[" Wait. You've reminded me of something." [stressed/restrained physicality, scene setting] "There <em>is</em> something you can do for me. Which I should ask you, rather than delay. But not that. I don't want to take that away from you, I saw how your face was lighting up when you were trying to explain the dream to me. The Blood God's world… [She considers whether Rinn liking it is dangerous or not; it's concerning, but repressing it is worse, and if it really does make Rinn feel more empowered, it's useful to us]]
-
-[Or: but I had given Yali 3 thoughts at the same time. And her organized mind, the blessing of the Waiting God, hurried to keep them in order before they slipped away.]
-
-"Oh right, you died there once. I mean, one of the other Farseers died there and you have their –"
-
-"– their memories, yes. So the memory feels the way the person felt when they were forming it. But, for, for <em>you</em>, it sounds like a good thing. I love how your face was lighting up when you were trying to explain the dream to me. That face, I think, that is, I, I…" she trailed off.
-
-"That is what?"
-
-"Why do you love me so much?" said Yali suddenly.
-
-"Whaaaaaaat?! But there's so much about you to love! Don't tell me you don't –"
-
-Yali gave an embarrassed smile. "No, no, I, I mean, I've been meaning you to ask, I mean, it's obvious that you <em>do</em> love me, but, but, wait, I don't mean I'm insecure about it, but, I just want to understand, what is it <em>about</em> me? Like, what do you <em>look</em> for, in, in… someone?"
-
-"I mean, I just know when I like someone? 'Lucky if we understand what the Seeking gives us,'" I quoted. "I mean, with <em>you</em>, it's like, you're sexy, and you're smart, and you're caring, and, there's this thing about how you move – like, whenever someone's got that thing where they move so <em>confidently</em>, like they don't care what anybody thinks, it's like, <em>woah</em>. Even boys! Layo's got it – I mean, he's a boy, so I'm not really interested in him romantically, but I definitely think he's hot."
-
-Yali smiled. "Does <em>he</em> know that?"
-
-"Oh yeah, we joke about it all the time. He thinks I'm hot too. Of course, nothing's gonna happen because I'm gay and he's got his <em>thing</em>, but –"
-
-"What thing?"
-
-"He's not gay, he's just decided not to date anyone until he's older. No casual sex, either. I don't get it, but it's his own business."
-
-"Ah… Going back, I'm surprised you said that I move confidently. I'm always trying to be careful about how I move, because I'm clumsy and I'll slip or drop something if I don't do it exactly right. Other people have told me it looks awkward, but it's what I have to do. In fact – there's actually something I wanted to ask you –"
-
-"Who cares if it looks awkward! The way you move is great! Honestly that was one of the first times I really noticed you – you were, like, we were in class, and you were just sort of awkwardly getting out of a chair. Gods, I could watch you awkwardly get out of a chair <em>all day</em>. It's just so, so –" Then I realized I had interrupted Yali, so I shut up. "Er, were you gonna say something?"
-
-"Yes… You know how you keep wanting to be able to help me somehow?"
-
-
-
-
-
 "Well, yeah, I mean, I'd rather just run around outside instead of messing around inside a gym, but I know my way around, yeah. What about it?"
 
 "In case you haven't noticed… My body doesn't work very well –"
 
 "Whaaaaaaat?! Your body is great! Don't tell me you haven't looked at yourself –"
 
-Yali smiled, but shook her head. "Having you be attracted to it isn't the same as having it do what I want. I always have to be careful about how I move, because I'm clumsy and I'll slip or drop something if I don't do it exactly right. And top of that, I feel chilly all the time, I get awful period cramps, I bruise really easily… And, and, I know exercise isn't going to fix everything, but, I, I, I really want to get in better shape. So, I wanted to know if you would, would, show me around, and, go with me –"
+Yali smiled, but shook her head. "Having you be attracted to it isn't the same as having it do what I want. I always have to be careful about how I move, because I'm clumsy and I'll slip or drop something if I don't do it exactly right." [????? I didn't see what was so wrong with how Yali moved, Honestly that was one of the first times I really noticed you – you were, like, we were in class, and you were just sort of awkwardly getting out of a chair. Gods, I could watch you awkwardly get out of a chair <em>all day</em>. ] And top of that, I feel chilly all the time, I get awful period cramps, I bruise really easily… And, and, I know exercise isn't going to fix everything, but, I, I, I really want to get in better shape. So, I wanted to know if you would, would, show me around, and, go with me –"
 
 "Like a gym buddy?" I grinned. "I'm not going to say no to watching my girlfriend getting sweaty. But, I was kind of expecting something, you know, bigger? Like about the gods."
 
@@ -270,7 +224,7 @@ I wasn't quite sure what to say. Yali seemed a little more emotional than usual,
 
 "And I especially don't want to be controlled by superficial things."
 
-"Controlled?"
+"Controlled? What's controlling you?"
 
 "I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried about how people will be looking at me. I know they'll be judging me because I'm fat. I've been telling myself that my life is more important than other people judging me, but…"
 
