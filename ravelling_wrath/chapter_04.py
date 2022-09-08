@@ -200,9 +200,9 @@ Yali gave me a long, slow look. "Maybe it's trying to lure you in?" she said, wi
 
 I laughed. "I've never doubted myself in my life!"
 
-Yali didn't smile. She was still focused on the danger. "True, it's hard to imagine you [suffering that particular vulnerability]. It'll be easier for you than – than –" she cut herself off. "But – but – I don't trust it."
+Yali didn't smile. She was still focused on the danger. "Maybe. Maybe the god just hasn't realized what you're like, maybe it'll be easier for you than – than –" she cut herself off. "But – but – I don't trust it."
 
-However, in the end, she didn't know what advice to give me. "I can't just tell you to repress your feelings," she said. "If I told you to stop feeling good about it, that just, just, wouldn't make things any better anyway. So… just keep paying attention to it. Notice if the feelings start to change."
+However, even after we talked about it, she didn't know what advice to give me. "I can't just tell you to repress your feelings," she said. "If I told you to stop feeling good about it, that just, just, wouldn't make things any better anyway. So… just keep paying attention to it. Notice if the feelings start to change."
 
 She said it conclusively, like she was telling herself that it was okay. But she still had an intense look. I could tell she couldn't stop worrying about the thing that was inside me. I decided to change the subject.
 
@@ -268,9 +268,9 @@ Yali smiled, but shook her head. "Having you be attracted to it isn't the same a
 
 I wasn't quite sure what to say. Yali seemed a little more emotional than usual, so I wanted to sympathize. It would even make me feel better! But the problem was, I didn't know what to sympathize <em>with</em>. It was obviously about more than just the physical thing, but what was so special about defying the <em>Waiting</em> God? The Waiting God wasn't <em>bad</em>, was it?
 
-"And I especially don't want [to have the reason I'm not doing it be this particular reason]"
+"And I especially don't want to be controlled by superficial things."
 
-"Oh?"
+"Controlled?"
 
 "I was thinking about why I don't just go do it myself. I think… I don't <em>want</em> to feel this way, but I think I'm worried about how people will be looking at me. I know they'll be judging me because I'm fat. I've been telling myself that my life is more important than other people judging me, but…"
 
