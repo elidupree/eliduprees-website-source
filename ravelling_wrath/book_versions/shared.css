@@ -66,6 +66,35 @@ p.text.left {
   text-align: center;
   text-indent: 0;
 }
+
+
+.who-tells-the-story-box {
+  width: 106%;
+  margin: 0 -3%;
+  margin-top: 2em;
+  margin-bottom: 0.7em;
+}
+.who-tells-the-story-sidepoint {
+  padding: 0;
+  width: 50%;
+}
+.who-tells-the-story {
+  font-family: 'Kadwa', serif;
+  font-size: 150%;
+  font-variant-caps: small-caps;
+  text-align: center;
+  white-space: nowrap;
+  padding: 0 0.6em;
+}
+.who-tells-the-story-box img {
+  margin: 0;
+  max-width: 100%;
+}
+.yali-narration who-tells-the-story {
+  font-family: 'Kreon', serif;
+}
+
+
 img.full-page {
   display: block;
   margin: 0 auto;

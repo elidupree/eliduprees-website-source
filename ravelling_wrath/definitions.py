@@ -8,7 +8,14 @@ rinn_font = "Kadwa" #"Arvo" #"Inika" #"Crete Round"
 chapter_font = "Alegreya SC"
 
 def who_tells_the_story(who):
-  return f'''<div class="who-tells-the-story-box"><div class="who-tells-the-story-sidepoint"><img src="/media/ravelling-wrath/symbols/section-break-left-point.png?rr" alt="" /></div><div class="who-tells-the-story">{who} tells the story</div><div class="who-tells-the-story-sidepoint"><img src="/media/ravelling-wrath/symbols/section-break-right-point.png?rr" alt="" /></div></div>'''
+  return f'''
+  <table class="who-tells-the-story-box">
+    <tr>
+      <td class="who-tells-the-story-sidepoint"><img src="/media/ravelling-wrath/symbols/section-break-left-point.png?rr" alt="" /></td>
+      <td class="who-tells-the-story">{who} tells the story</td>
+      <td class="who-tells-the-story-sidepoint"><img src="/media/ravelling-wrath/symbols/section-break-right-point.png?rr" alt="" /></td>
+    </tr>
+  </table>'''
 
 def fonts_css(fonts_path, mode="web"):
   def font_rules(name_style):
@@ -224,21 +231,20 @@ div.blog_post img.rav-section-break.nonaligned {
 }
 
 div.blog_post .who-tells-the-story-box {
-  display: flex;
-  align-items: center;
   width: 95%;
   margin: 0 auto;
   margin-top: 3em;
 }
 div.blog_post .who-tells-the-story-sidepoint {
-  flex-basis: 1085px;
+  padding: 0;
+  width: 50%;
 }
 div.blog_post .who-tells-the-story {
   font-family: '"""+rinn_font+"""', serif;
   font-size: 158%;
   font-variant-caps: small-caps;
   text-align: center;
-  flex-shrink: 0;
+  white-space: nowrap;
   padding: 0 0.6em;
 }
 div.blog_post .who-tells-the-story-box img {
