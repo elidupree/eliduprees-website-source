@@ -9,7 +9,7 @@ posts = [
   "title":"The Future They Made Us Forget, chapter 1",
   "auto_paragraphs": True,
   "head":head,
-  "chapter_title": "The Children That Couldn't Be Seen",
+  "chapter_title": "Your Mind Control Has No Effect on My Cloud Computing",
   "contents": '''
   
 Before I start telling you what I remember, I'd like to be clear about one thing. I don't want you to think of me as "<em>the real</em> Marvin ?????", or "<em>the original</em> Marvin ?????", or anything like that. Your brain is going to want to think of me that way, because I'm the one you know about – the one telling you the story. But time travel doesn't make distinctions like that. Even the ones that don't exist anymore, they were just as real as I am. And all of us branched out from the same original Marvin, and ?????
