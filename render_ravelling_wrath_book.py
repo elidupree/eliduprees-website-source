@@ -44,6 +44,9 @@ def render_print_version (directory, book_type):
 if "print" in sys.argv:
   render_print_version ("print", BookType.PRINT)
   
+if "compressed_pdf" in sys.argv:
+  render_print_version ("print", BookType.COMPRESSED_PDF)
+  
 if "large_print_1" in sys.argv:
   render_print_version ("large_print_1", BookType.LARGE_PRINT_1)
 

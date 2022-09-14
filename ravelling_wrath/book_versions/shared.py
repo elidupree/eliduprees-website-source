@@ -23,9 +23,10 @@ class BookType(Enum):
   LARGE_PRINT_1 = auto()
   LARGE_PRINT_2 = auto()
   EPUB = auto()
+  COMPRESSED_PDF = auto()
 
   def is_print(self):
-    return (self in [BookType.PRINT, BookType.LARGE_PRINT_1, BookType.LARGE_PRINT_2])
+    return (self in [BookType.PRINT, BookType.LARGE_PRINT_1, BookType.LARGE_PRINT_2, BookType.COMPRESSED_PDF])
   def is_large_print(self):
     return (self in [BookType.LARGE_PRINT_1, BookType.LARGE_PRINT_2])
 
@@ -220,7 +221,10 @@ def chapter_html (chapter, book_type, rav_media_paths):
   else:
     contents = re.sub("<print_only>.+?</print_only>", "", contents)
     contents = re.sub("</?not_print>", "", contents)
-    
+  
+  if book_type is BookType.COMPRESSED_PDF:
+    contents = re.sub(r"(-left|-right).png", r"\1-lossy.png", contents)
+  
   contents = replace_media_paths(contents, rav_media_paths)
   
   symbols = chapter["symbols"]

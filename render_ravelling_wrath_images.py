@@ -21,8 +21,8 @@ target_bleed_width = target_nominal_width + dpi//4
 target_bleed_height = target_nominal_height + dpi//4
 
 only = None
-only = "10"
-only = "dfjds"
+only = "burning-heart-ornate"
+#only = "dfjds"
 
 custom = {
   "1-1": (True, True, True),
@@ -45,6 +45,8 @@ for filename in os.listdir(input_dir):
   output_path = f"{output_dir}/{filename}"
   output_path_left = output_path.replace(".png", "-left.png")
   output_path_right = output_path.replace(".png", "-right.png")
+  output_path_left_lossy = output_path.replace(".png", "-left-lossy.png")
+  output_path_right_lossy = output_path.replace(".png", "-right-lossy.png")
   
   cv2_image = cv2.imread(input_path)
   
@@ -62,14 +64,14 @@ for filename in os.listdir(input_dir):
       else:
         crop_top = content[0][0]
       if override_print:
-        crop_top_print = override_top
+        crop_top_print = crop_top
     if override_bottom:
       if type(override_bottom) is int:
         crop_bottom = override_bottom
       else:
         crop_bottom = content[-1][0]
       if override_print:
-        crop_bottom_print = override_bottom
+        crop_bottom_print = crop_bottom
         
   crop_height = crop_bottom - crop_top
   crop_height_print = crop_bottom_print - crop_top_print
@@ -94,16 +96,22 @@ for filename in os.listdir(input_dir):
   
   (gimp-image-crop page_left {target_bleed_width} {crop_height_print} {source_width - target_bleed_width} {crop_top_print}) 
   (file-png-save RUN-NONINTERACTIVE page_left page_left_drawable "{output_path_left}" "{filename}" 0 9 0 0 0 0 0)
+  (gimp-image-scale-full page_left {target_bleed_width//2} {crop_height_print//2} INTERPOLATION-CUBIC)
+  (file-png-save RUN-NONINTERACTIVE page_left page_left_drawable "{output_path_left_lossy}" "{filename}" 0 9 0 0 0 0 0)
   (gimp-image-delete page_left)
   
   (gimp-image-crop page_right {target_bleed_width} {crop_height_print} {0} {crop_top_print}) 
   (file-png-save RUN-NONINTERACTIVE page_right page_right_drawable "{output_path_right}" "{filename}" 0 9 0 0 0 0 0)
+  (gimp-image-scale-full page_right {target_bleed_width//2} {crop_height_print//2} INTERPOLATION-CUBIC)
+  (file-png-save RUN-NONINTERACTIVE page_right page_right_drawable "{output_path_right_lossy}" "{filename}" 0 9 0 0 0 0 0)
   (gimp-image-delete page_right)
 )''')
 
-  gimp_stuff.optimize (output_path, lossy = True, quality = "30-50")
+  gimp_stuff.optimize (output_path, lossy = True, quality = "30-50")  
   gimp_stuff.optimize (output_path_left, lossy = False)
   gimp_stuff.optimize (output_path_right, lossy = False)
+  gimp_stuff.optimize (output_path_left_lossy, lossy = True, quality = "30-50")  
+  gimp_stuff.optimize (output_path_right_lossy, lossy = True, quality = "30-50")  
 
   
   
