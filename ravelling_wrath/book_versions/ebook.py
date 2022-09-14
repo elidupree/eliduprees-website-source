@@ -1,4 +1,6 @@
+import re
 import datetime
+import utils
 import ravelling_wrath.main
   
 tags = "Fiction, Young Adult, Fantasy, Urban Fantasy, Adventure, Consent, Healthy Relationships, Mental Health, Coming of Age, LGBT, Lesbian,"
@@ -14,6 +16,8 @@ content_opf = '''
     <dc:date>'''+datetime.date.today().isoformat()+'''</dc:date>
     <dc:contributor opf:role="cov" opf:file-as="Fensore, Sarah">Sarah Fensore</dc:contributor>
     <dc:contributor opf:role="ill" opf:file-as="Fensore, Sarah">Sarah Fensore</dc:contributor>
+    <dc:creator opf:role="cov" opf:file-as="Dupree, Eli">Eli Dupree</dc:creator>
+    <dc:creator opf:role="ill" opf:file-as="Dupree, Eli">Eli Dupree</dc:creator>
     <dc:identifier id="uuid_id" opf:scheme="uuid">c0b3ea68-aced-4746-966b-7b0fc27ba1fc</dc:identifier>
     '''+'''
     '''.join(f'''<dc:subject>{tag}</dc:subject>''' for tag in tags) + '''

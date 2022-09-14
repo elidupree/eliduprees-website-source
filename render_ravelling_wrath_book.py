@@ -8,6 +8,7 @@ import subprocess
 import datetime
 
 from ravelling_wrath.book_versions.shared import generate_html_and_linked_media_files, BookType
+from ravelling_wrath.book_versions.ebook import content_opf
 
 build_path ="./build/ravelling_wrath_book"
 
@@ -26,6 +27,26 @@ if "epub" in sys.argv:
     book_type = BookType.EPUB,
     specific_chapter = specific_chapter,
   )
+
+  html_path = os.path.join (build_path, "epub", "ravelling_wrath.html")
+  #opf_path = os.path.join (build_path, "epub", "content.opf")
+  converted_epub_path = os.path.join (build_path, "epub", "ravelling_wrath.epub")
+  final_epub_path = os.path.join (build_path, "epub", "ravelling_wrath.epub")
+  epub_contents_path = os.path.join (build_path, "epub", "epub_contents")
+  
+  #with open(opf_path, "w") as file:
+  #  file.write(content_opf)
+  
+  subprocess.run([
+    "ebook-convert", html_path, converted_epub_path,
+    "--output-profile", "tablet",
+    #"--from-opf", opf_path
+  ])
+  
+  subprocess.run(["unzip", converted_epub_path, "-d", epub_contents_path])
+  fix_converted_epub_contents(epub_contents_path)
+  subprocess.run(["7z", "a", final_epub_path, os.path.join (epub_contents_path, "*")])
+  
   
 def render_print_version (directory, book_type):
   generate_html_and_linked_media_files(
