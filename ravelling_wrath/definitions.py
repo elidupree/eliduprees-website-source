@@ -7,6 +7,9 @@ yali_font = "Kreon" #"Roboto Slab"
 rinn_font = "Kadwa" #"Arvo" #"Inika" #"Crete Round"
 chapter_font = "Alegreya SC"
 
+def who_tells_the_story(who):
+  return f'''<div class="who-tells-the-story-box"><div class="who-tells-the-story-sidepoint"><img src="/media/ravelling-wrath/symbols/section-break-left-point.png?rr" alt="" /></div><div class="who-tells-the-story">{who} tells the story</div><div class="who-tells-the-story-sidepoint"><img src="/media/ravelling-wrath/symbols/section-break-right-point.png?rr" alt="" /></div></div>'''
+
 def fonts_css(fonts_path, mode="web"):
   def font_rules(name_style):
     if mode=="web":
@@ -218,6 +221,33 @@ div.blog_post img.rav-section-break {
 }
 div.blog_post img.rav-section-break.nonaligned {
   width: 80%;
+}
+
+div.blog_post .who-tells-the-story-box {
+  display: flex;
+  align-items: center;
+  width: 95%;
+  margin: 0 auto;
+  margin-top: 3em;
+}
+div.blog_post .who-tells-the-story-sidepoint {
+  flex-basis: 1085px;
+}
+div.blog_post .who-tells-the-story {
+  font-family: '"""+rinn_font+"""', serif;
+  font-size: 158%;
+  font-variant-caps: small-caps;
+  text-align: center;
+  flex-shrink: 0;
+  padding: 0 0.6em;
+}
+div.blog_post .who-tells-the-story-box img {
+  margin: 0;
+  max-width: 100%;
+}
+
+div.blog_post.yali-narration who-tells-the-story {
+  font-family: '"""+yali_font+"""', serif;
 }
 
 html.debug_mode div.blog_post p.unnecessary_page_number {
