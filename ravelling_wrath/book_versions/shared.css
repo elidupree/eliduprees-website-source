@@ -204,9 +204,6 @@ img.rav-section-break.nonaligned {
 .content-warning-notice p {
   margin-bottom: 0.8em;
 }
-a.crosslink::after {
-  content: target-counter(attr(href), page);
-}
 
 
 .content-warnings,.chapter-12-summary {

@@ -131,3 +131,6 @@ img.full-page {
   flex-shrink: 0;
   padding-left: 0.25em;
 }
+a.crosslink::after {
+  content: target-counter(attr(href), page);
+}

@@ -146,7 +146,12 @@ def table_of_contents(book_type, chapters):
 </div>
 '''
 
-content_warning_notice = '''
+def crosslink(book_type, target, numberable, unnumberable):
+  text = numberable if book_type.is_print() else unnumberable
+  return f'<a href="#{target}" class="crosslink">{text}</a>'
+
+def content_warning_notice(book_type):
+  return f'''
 <div class="content-warning-notice">
 <h2>Content warnings for this novel</h2>
 
@@ -159,14 +164,15 @@ We believe that readers have a right to choose when and how they engage with sen
 </p>
 
 <p>
-More-detailed content warnings (with slightly more spoilers) are <a href="#content_warnings" class="crosslink">available on page </a>.
+More-detailed content warnings (with slightly more spoilers) are {crosslink(book_type, "content_warnings_start", "available on page ", "available in the back of this book")}.
 </p>
 </div>
 '''
 
-content_warnings = f'''
+def content_warnings(book_type):
+  return f'''
 <div id="content_warnings" class="content-warnings">
-
+<h2 id="content_warnings_start">Appendix: Detailed content warnings</h2>
 <div class="runningleft">
   Ravelling Wrath
 </div>
@@ -174,13 +180,13 @@ content_warnings = f'''
   Appendix: Content warnings
 </div>
   
-<h2>Appendix: Detailed content warnings</h2>
+
 
 <h3>Things that are shown in detail, "on-camera"</h3>
 <ul>
 <li>Characters fight for their lives and get stabbed with swords. There are some graphic descriptions of physical injuries and death. (The two main characters don't die, though.)</li>
 <li>A narrator has strange and unpleasant experiences in their brain due to supernatural forces.</li>
-<li>A narrator has depressed thoughts, including dissociation, anhedonia, negative self-talk, and being coerced into obeying authority. The worst part of this is a single chapter, which can be skipped (see <a href="#chapter_12_summary_start" class="crosslink">"summary of chapter 12" on page </a>).</li>
+<li>A narrator has depressed thoughts, including dissociation, anhedonia, negative self-talk, and being coerced into obeying authority. The worst part of this is a single chapter, which can be skipped (see {crosslink(book_type, "chapter_12_summary_start", '"summary of chapter 12" on page', '"summary of chapter 12" on the next page')}).</li>
 <li>A narrator with PTSD copes with strong feelings, especially guilt and hatred.</li>
 <li>A narrator copes with anger about another character being sexually assaulted.</li>
 <li>A character engages in self-harm and makes suicidal statements.</li>
@@ -340,12 +346,12 @@ def generate_html_and_linked_media_files(build_path, *, book_type, specific_chap
     html_parts.append(toc_html)
   
   if book_type is not BookType.LARGE_PRINT_2:
-    html_parts.append(content_warning_notice)
+    html_parts.append(content_warning_notice(book_type))
     
   html_parts += chapters
   
   if book_type is not BookType.LARGE_PRINT_2:
-    html_parts.append(content_warnings)
+    html_parts.append(content_warnings(book_type))
 
   full_html = wrap("".join (html_parts))
 
