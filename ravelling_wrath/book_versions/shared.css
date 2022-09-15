@@ -173,6 +173,10 @@ img.rav-section-break.nonaligned {
   margin-bottom: 1.2em;
   border-spacing: 0;
 }
+.copyright-page div.font-grid-container {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
 .copyright-page p.before-font-grid {
   margin-bottom: 0.3em;
 }

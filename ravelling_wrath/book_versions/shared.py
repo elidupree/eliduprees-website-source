@@ -117,6 +117,7 @@ Library of Congress Control Number: TODO
 This is a work of fiction. All names, characters, and incidents portrayed in this story are fictitious. No identification with actual persons (living or deceased), places, or events is intended or should be inferred.
 </p>
 
+<div class="font-grid-container">
 <p class="before-font-grid">
 This book is typeset using libre fonts, all of which are licensed under the SIL Open Font License. Specific fonts used are:
 </p>
@@ -124,6 +125,7 @@ This book is typeset using libre fonts, all of which are licensed under the SIL 
 <table class="font-grid">
 {fonts}
 </table>
+</div>
 
 <img class="rav-section-break burning-heart" alt="" src="/media/ravelling-wrath/symbols/burning-heart-section-break.png?rr" />
 </div>

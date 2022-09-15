@@ -44,6 +44,10 @@ def fix_converted_epub_contents(contents_path):
   with open(opf_path) as file:
     opf = file.read()
   assert package in opf
+  
   opf = re.sub(r"<metadata.*?</metadata>", metadata, opf, flags=re.DOTALL)
+  
   with open(opf_path, "w") as file:
     file.write(opf)
+  
+  

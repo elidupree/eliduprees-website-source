@@ -2,6 +2,10 @@
   display: none;
 }
 
+.copyright-page,.chapter,.content-warning-notice,.content-warnings,.chapter-12-summary {
+  page-break-before: always;
+}
+
 .chapter {
   break-before: page;
 }
