@@ -8,7 +8,7 @@ import subprocess
 import datetime
 
 from ravelling_wrath.book_versions.shared import generate_html_and_linked_media_files, BookType
-from ravelling_wrath.book_versions.ebook import content_opf
+from ravelling_wrath.book_versions.ebook import fix_converted_epub_contents
 
 build_path ="./build/ravelling_wrath_book"
 

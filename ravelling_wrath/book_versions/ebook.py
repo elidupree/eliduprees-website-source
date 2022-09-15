@@ -1,15 +1,17 @@
 import re
 import datetime
+import os.path
+
 import utils
 import ravelling_wrath.main
   
 tags = "Fiction, Young Adult, Fantasy, Urban Fantasy, Adventure, Consent, Healthy Relationships, Mental Health, Coming of Age, LGBT, Lesbian,"
 tags = [match.group (1) for match in re.finditer (r"([^,\s][^,]*)", tags)]
 
-content_opf = '''
-<?xml version="1.0" encoding="UTF-8">
+package = '''<?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf"
+'''
+metadata = '''<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>Ravelling Wrath</dc:title>
     <dc:creator opf:role="aut" opf:file-as="Dupree, Eli">Eli Dupree</dc:creator>
     <dc:publisher>Eli Dupree</dc:publisher>
@@ -26,7 +28,8 @@ content_opf = '''
     <dc:identifier opf:scheme="ISBN">TODO</dc:identifier>
     <meta name="cover" content="cover"/>
     <meta name="dcterms:modified">'''+datetime.datetime.now().isoformat()+'''</meta>
-  </metadata>
+  </metadata>'''
+unused = '''
   <manifest>
   
   </manifest>
@@ -35,3 +38,12 @@ content_opf = '''
   </spine>
 </package>
 '''
+
+def fix_converted_epub_contents(contents_path):
+  opf_path = os.path.join(contents_path, "content.opf")
+  with open(opf_path) as file:
+    opf = file.read()
+  assert package in opf
+  opf = re.sub(r"<metadata.*?</metadata>", metadata, opf, flags=re.DOTALL)
+  with open(opf_path, "w") as file:
+    file.write(opf)

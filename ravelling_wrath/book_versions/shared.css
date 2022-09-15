@@ -17,6 +17,7 @@ h2.chapter-number {
   font: 16pt "Alegreya SC";
   font-weight: 800;
   text-align: center;
+  z-index: 10;
 }
 .chapter-title {
   font: 24pt "Alegreya SC";
@@ -25,6 +26,9 @@ h2.chapter-number {
   margin-bottom: 1.3em;
   position: relative;
   z-index: 10;
+}
+.chapter-title.before-header-image {
+  margin-bottom: 0.8em;
 }
 em {
   font-style: italic;
@@ -102,11 +106,10 @@ img.full-page {
 img.chapter-header {
   height: auto;
   display: block;
-  margin-top: -1.0em; 
   margin-bottom: 2.0em;
 }
 .chapter_15 img.chapter-header {
-  margin-top: -4.0em;
+  margin-top: -3.0em;
   z-index: 0;
 }
 img.ending {
@@ -170,8 +173,8 @@ img.rav-section-break.nonaligned {
   margin-bottom: 1.2em;
   border-spacing: 0;
 }
-.copyright-page table.font-grid {
-  margin-top: -0.9em;
+.copyright-page p.before-font-grid {
+  margin-bottom: 0.3em;
 }
 .copyright-page td:first-child {
   text-align: right;

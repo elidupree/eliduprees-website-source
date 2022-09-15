@@ -117,7 +117,7 @@ Library of Congress Control Number: TODO
 This is a work of fiction. All names, characters, and incidents portrayed in this story are fictitious. No identification with actual persons (living or deceased), places, or events is intended or should be inferred.
 </p>
 
-<p>
+<p class="before-font-grid">
 This book is typeset using libre fonts, all of which are licensed under the SIL Open Font License. Specific fonts used are:
 </p>
 
@@ -224,8 +224,14 @@ def chapter_html (chapter, book_type, rav_media_paths):
   
   if book_type is BookType.COMPRESSED_PDF:
     contents = re.sub(r"(-left|-right).png", r"\1-lossy.png", contents)
+  #if book_type is BookType.EPUB:
+  #  contents = re.sub(r"(<|</)em", r"\1i", contents)
   
   contents = replace_media_paths(contents, rav_media_paths)
+  
+  title_class = 'chapter-title'
+  if 'class="chapter-header"' in contents:
+    title_class += ' before-header-image'
   
   symbols = chapter["symbols"]
   running_symbol_filename = f'{symbols}-small.png'
@@ -239,7 +245,7 @@ def chapter_html (chapter, book_type, rav_media_paths):
   contents = f'''
   <div id="chapter_{chapter ["chapter_number"]}" class="chapter chapter_{chapter ["chapter_number"]} {chapter.get("post_class", "")}">
   <h2 id="chapter_{chapter ["chapter_number"]}_start" class="chapter-number">Chapter {num2words(chapter ["chapter_number"]).capitalize()}</h2>
-  <div class="chapter-title">{chapter ["chapter_title"]}</div>
+  <div class="{title_class}">{chapter ["chapter_title"]}</div>
   
   <div class="runningleft">
     {running_symbol_element}
