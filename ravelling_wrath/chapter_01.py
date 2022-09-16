@@ -105,7 +105,7 @@ I looked down. On the leg of my pants, there was a dark stain. Blood, I guess. "
 
 Yali gave an indulgent smile. "Well, we should get this cleaned up," she said.
 
-[????yali pushed herself to her feet and went to get healing supplies. Her house was small, but ????? the way she related to her house was like this: she kept everything organized, by habit, everything in its place. ?????wood furniture with the finish wearing off ???? dug around in a cabinet. ????? came up holding] a ceramic disk the size of her palm.
+Yali pushed herself to her feet and went to get healing supplies. Her house was small but homey – old wood with the finish worn off, books and electronics lined up neatly on the shelves. By habit, she kept it all organized, everything in its place. As I watched, she bent over and dug around in a cabinet, and before long, she came up holding a ceramic disk the size of her palm.
 
 I stared at the disk. "You're using an actual <em>sorcery</em> for this?" Normally, if you got a cut, you'd just clean it with alchemical wipes, the kind you get from a convenience store. Healing sorceries were pretty expensive – I hadn't seen one outside of an ambulance.
 
