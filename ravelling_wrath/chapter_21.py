@@ -15,7 +15,9 @@ posts = [
   "content_warnings": '''<p>A character with PTSD coping with feelings of guilt.</p>''',
   "contents": '''
 
-<em>Uuuuuuggggggggggghhhhhhhhhhhhhhhhh.</em>
+'''+who_tells_the_story("Rinn")+'''
+
+<em>Uuuuuugg&shy;gg&shy;ggg&shy;gg&shy;gghh&shy;hh&shy;hh&shy;hh&shy;hh&shy;hh&shy;hh&shy;hhh.</em>
 
 It would have been so easy to just go back to sleep again. It was so much work to push through the weight of sleep over me, and so easy to just let go and sink back in. But this was like the seventh time I'd drifted awake, and it was getting more and more uncomfortable each time. My arms and legs were full of pins and needles. My mouth felt like it was full of fuzzy cloth. And I needed to pee real bad.
 

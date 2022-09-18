@@ -3,7 +3,7 @@
 from __future__ import division
 
 import datetime
-import cgi
+import html
 import os
 import re
 
@@ -39,12 +39,12 @@ def add_feed(page_dict):
     entries.append('''
     <entry>
       <id>'''+utils.canonical_scheme_and_domain+link+'''</id>
-      <title type="html">'''+cgi.escape(title)+'''</title>
+      <title type="html">'''+html.escape(title)+'''</title>
       <published>'''+atom_time(metadata["date_posted"])+'''</published>      
       <updated>'''+atom_time(metadata["date_modified"])+'''</updated>
       '''+author+'''
       <link rel="alternate" href="'''+utils.canonical_scheme_and_domain+link+'''" />
-      <content type="html">'''+cgi.escape(post_string)+'''</content>
+      <content type="html">'''+html.escape(post_string)+'''</content>
     </entry>
     ''')
   

@@ -17,6 +17,7 @@ h2.chapter-number {
   font: 16pt "Alegreya SC";
   font-weight: 800;
   text-align: center;
+  z-index: 10;
 }
 .chapter-title {
   font: 24pt "Alegreya SC";
@@ -25,6 +26,9 @@ h2.chapter-number {
   margin-bottom: 1.3em;
   position: relative;
   z-index: 10;
+}
+.chapter-title.before-header-image {
+  margin-bottom: 0.8em;
 }
 em {
   font-style: italic;
@@ -66,6 +70,35 @@ p.text.left {
   text-align: center;
   text-indent: 0;
 }
+
+
+.who-tells-the-story-box {
+  width: 106%;
+  margin: 0 -3%;
+  margin-top: 2em;
+  margin-bottom: 0.7em;
+}
+.who-tells-the-story-sidepoint {
+  padding: 0;
+  width: 50%;
+}
+.who-tells-the-story {
+  font-family: 'Kadwa', serif;
+  font-size: 150%;
+  font-variant-caps: small-caps;
+  text-align: center;
+  white-space: nowrap;
+  padding: 0 0.6em;
+}
+.who-tells-the-story-box img {
+  margin: 0;
+  max-width: 100%;
+}
+.yali-narration who-tells-the-story {
+  font-family: 'Kreon', serif;
+}
+
+
 img.full-page {
   display: block;
   margin: 0 auto;
@@ -73,11 +106,10 @@ img.full-page {
 img.chapter-header {
   height: auto;
   display: block;
-  margin-top: -1.0em; 
   margin-bottom: 2.0em;
 }
 .chapter_15 img.chapter-header {
-  margin-top: -4.0em;
+  margin-top: -3.0em;
   z-index: 0;
 }
 img.ending {
@@ -141,8 +173,12 @@ img.rav-section-break.nonaligned {
   margin-bottom: 1.2em;
   border-spacing: 0;
 }
-.copyright-page table.font-grid {
-  margin-top: -0.9em;
+.copyright-page div.font-grid-container {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.copyright-page p.before-font-grid {
+  margin-bottom: 0.3em;
 }
 .copyright-page td:first-child {
   text-align: right;
@@ -167,9 +203,6 @@ img.rav-section-break.nonaligned {
 }
 .content-warning-notice p {
   margin-bottom: 0.8em;
-}
-a.crosslink::after {
-  content: target-counter(attr(href), page);
 }
 
 

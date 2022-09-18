@@ -1,3 +1,6 @@
+[Chapter title: Just Because You're Paranoid Doesn't Mean You Know Who's Out to Get You]
+
+
 [There were a whole bunch of religious and philosophical books lying around] Bible, Tao Te Ching and Vedas. Gödel, Wittigenstein and Marx. [they were marked up with 5 different colors of highlighters]
 
 

@@ -15,6 +15,8 @@ posts = [
   "content_warnings": "<p>Detailed narration from the point of view of a character with PTSD, processing strong feelings and thinking about abuse.</p>",
   "contents": '''
 
+'''+who_tells_the_story("Yali")+'''
+
 Two bodies lay before me. One dead, one only unconscious, both my doing. One Justicar. One Rinn.
 
 Was it over?

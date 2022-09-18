@@ -2,9 +2,11 @@
   display: none;
 }
 
-.chapter {
+.copyright-page,.chapter,.content-warning-notice,.content-warnings,.chapter-12-summary {
+  page-break-before: always;
   break-before: page;
 }
+
 
 img.full-page {
   break-before: page;
@@ -18,4 +20,11 @@ img.chapter-header {
 }
 img.ending {
   width: 100%;
+}
+
+.who-tells-the-story-box {
+  width: 100%;
+  margin: 0;
+  margin-top: 2em;
+  margin-bottom: 0.7em;
 }
