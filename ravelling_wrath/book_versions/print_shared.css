@@ -58,6 +58,7 @@ a {
 @page chapter_7_illustration_page {
   background-image: url('/media/ravelling-wrath/illustrations/7-left.png?rr');
   background-position: bottom;
+  background-repeat: no-repeat;
   background-size: 100vw auto;
   @bottom-center {
     content: none;
@@ -66,6 +67,7 @@ a {
 @page chapter_10_illustration_page {
   background-image: url('/media/ravelling-wrath/illustrations/10-right.png?rr');
   background-position: top;
+  background-repeat: no-repeat;
   background-size: 100vw auto;
   @top-center {
     content: none;
@@ -74,6 +76,7 @@ a {
 @page chapter_14_illustration_page {
   background-image: url('/media/ravelling-wrath/illustrations/14-left.png?rr');
   background-position: top;
+  background-repeat: no-repeat;
   background-size: 100vw auto;
   @top-center {
     content: none;
