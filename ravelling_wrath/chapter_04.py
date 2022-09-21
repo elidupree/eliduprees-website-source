@@ -200,7 +200,9 @@ Yali gave me a long, slow look. "Maybe it's trying to lure you in?" she said, wi
 
 I laughed. "I've never doubted myself in my life!"
 
-Yali didn't smile. She was still focused on the danger. "Maybe. Maybe the god just hasn't realized what you're like, maybe it'll be easier for you than – than –" she cut herself off. "But – but – I don't trust it." It was obvious how much this was worrying her. She asked a bunch of probing questions, trying to figure out what the Blood God was up to. However, it didn't get any clearer. In the end, reluctantly, she had to admit that she didn't know what advice to give me. "I can't just tell you to repress your feelings," she said. "If I told you to stop feeling good about it, that just, just, wouldn't make things any better anyway. So… just keep paying attention to it. Notice if the feelings start to change."
+Yali didn't smile. She was still focused on the danger. "Maybe. Maybe the god just hasn't realized what you're like, maybe it'll be easier for you than – than –" she cut herself off. "But – but – I don't trust it." It was obvious how much this was worrying her. She asked a bunch of probing questions, trying to figure out what the Blood God was up to. However, it didn't get any clearer. In the end, reluctantly, she had to admit that she didn't know what advice to give me.
+
+"I can't just tell you to repress your feelings," she said. "If I told you to stop feeling good about it, that just, just, wouldn't make things any better anyway. So… just keep paying attention to it. Notice if the feelings start to change."
 
 She said it conclusively, like she was telling herself that it was okay. But she still had an intense look. I could tell she couldn't stop worrying about the thing that was inside me. I decided to change the subject.
 
@@ -324,7 +326,7 @@ Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get he
 
 A few minutes later, I had another problem: Where the fuck was Layo?
 
-I had looked everywhere for him. He hadn't answered my message, and he wasn't at his locker, or his last classroom, or the club he sometimes volunteered with. The only people I did find were Pèi and Dehel, who were hanging out at the corner behind the school where the Stern wouldn't catch them smoking. I knew Layo wouldn't be there anyway because he couldn't stand the smoke, but it was worth a shot.
+I had looked everywhere for him. He hadn't answered my message, and he wasn't at his locker, or his last classroom, or the club he sometimes volun&shy;teered with. The only people I did find were Pèi and Dehel, who were hanging out at the corner behind the school where the Stern wouldn't catch them smoking. I knew Layo wouldn't be there anyway because he couldn't stand the smoke, but it was worth a shot.
 
 "Hey, where's Layo?" I called as I ran up to them.
 
@@ -344,7 +346,7 @@ I stared at her.
 
 On any other day, it would've gone on like this for a while. I would've kept getting madder, and Pèi would've kept finding more ways to send me Seeking. Until she finally decided it would be funnier to tell me the answer than to keep going. But today… I could see it all coming, and I just thought, <em>why?</em>
 
-What I'd been doing with Yali was practically a ritual now. <em>Calming Game</em>, I said to myself automatically. "Never mind, I'll be fine either way," I said out loud. But hey, the other part was automatic too. <em>Releasing Game</em>. "You fucking asshole, I could just smash your face in!" <em>Calming Game</em>. "Nah, I'm cool, I'm cool…"
+What I'd been doing with Yali was practically a ritual now. <em>Calming Game</em>, I said to myself automat&shy;ically. "Never mind, I'll be fine either way," I said out loud. But hey, the other part was automatic too. <em>Releasing Game</em>. "You fucking asshole, I could just smash your face in!" <em>Calming Game</em>. "Nah, I'm cool, I'm cool…"
 
 "Uh, I think Rinn's gone crazy," said Pèi.
 
