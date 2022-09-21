@@ -99,9 +99,9 @@ I laughed, thinking she was joking. But the next moment, I wasn't so sure. "Wait
 
 "Ooo-kay," I got up and stepped forwards, "but I'm warning you, I – woOOOAH!!!" As soon as I'd gotten close to her, she'd given me a shove that almost lifted me off my feet. I was totally caught off guard, and I almost stumbled into a wall. Catching my breath, I gasped out, "I didn't know you were going to be serious!"
 
-"When am I not serious?" Yali grinned fiercely. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this… <em>physical.</em> A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
+"When am I not serious?" Yali looked me dead in the eyes, a hint of smugness on her face. She was already stepping towards me like she was moving in for the kill. My heart leapt into my throat. Was this really happening? Yali <em>never</em> got this energetic, this… <em>physical.</em> A thrill shot through me. Every part of my body was suddenly charged up and ready to go.
 
-I jumped forward to meet her. We collided and grappled our way across the room, bumping into furniture as we went. She was good at it, too, I couldn't knock her off balance. I stepped back and lunged at her, but she was as solid as a rock. Then I made one wrong step and lost my footing, and it was <em>her</em> turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
+I jumped forward to meet her. We collided and grappled our way across the room, bumping into the furniture as we went. She was good at it, too, I couldn't knock her off balance. I stepped back and lunged at her, but she was as solid as a rock. Then I made one wrong step and lost my footing, and it was <em>her</em> turn to take advantage. She surged forward, bearing my body backwards until I thudded into a wall.
 
 I gasped for breath. Yali was leaning into me, pinning me against the wall with her full weight. When I tried to squirm away, it just made me rub against her even harder. Oh gods, this was turning me on! I heaved left and right, trying to get free, but I was totally engulfed by her huge, warm, <em>powerful</em> body. I couldn't even breathe all the way in.
 
@@ -171,7 +171,7 @@ Belatedly, I realized that I'd been holding her forearms in a white-knuckled gri
 
 "Ooh, tell me!"
 
-It was weird how quickly Yali started acting interested again, like nothing had happened. I didn't know how to relate to it. But if there was somehow, <em>somehow</em>, still a way that Yali would get to enjoy herself, I didn't dare screw it up. I did my best to follow her lead. "So, uh, you know the big tree near the elementary school?" I began. "Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
+It was weird how quickly Yali started acting interested again, like nothing had happened. I didn't know how to relate to it. But if there was somehow, <em>somehow</em>, a way that Yali would still get to enjoy herself, I didn't dare screw it up. I did my best to follow her lead. "So, uh, you know the big tree near the elementary school?" I began. "Oh, I guess maybe you don't, 'cause you only moved in last year. But, you can sort of see it when you walk down the –"
 
 "The one with the fence around it?"
 
@@ -191,7 +191,7 @@ Yali started giggling uncontrollably.
 
 "Uh, yeah? I mean it wasn't for very long." That only made her giggle harder. Eventually, she got herself under control and told me to keep going.
 
-"Okay. So… yeah, after that, I didn't do <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do something about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again. And that's when I learned how to climb a fence, too."
+"Okay. So… yeah, after that, I didn't do <em>everything</em> people dared me into. I mean, I still did some stuff, I just didn't do the stupid ones. BUT!! Okay, so first, after I broke my leg, all the adults were freaking out like 'oh no, this tree is very dangerous, we have to do some&shy;ething about the danger to the children', and I told everyone who would <em>listen</em> that it was just me, like, literally none of the other kids would do something that stupid, but <em>apparently</em>, 'parents were worried', so they built that fence around it. BUT ANYWAY, I wasn't gonna let some stupid tree get the best of me, so the first thing I did after I got the cast off was, I went to climb out on the branch again. And that's when I learned how to climb a fence, too."
 
 I pulled up the leg of my pants. "Here," I said, "let me show you my scar from the fall!"
 
@@ -217,7 +217,7 @@ I wasn't sure how to respond. It felt like she was trying to open up to me, but 
 
 I told her my stories all evening. She was totally into it. I completely lost track of time, I was so caught up in telling her about all the fun times I'd had. Finally, Yali had to remind me that I'd planned to go home with enough time to get at least <em>some</em> sleep for the next day.
 
-On my way home, I realized I haven't even remembered to get back to telling her the one about how I jumped out a window. Stern take it, that was a good one! Well, we'd have plenty of time for me to tell that on another day.
+On my way home, I realized I haven't even remem&shy;bered to get back to telling her the one about how I jumped out a window. Stern take it, that was a good one! Well, we'd have plenty of time for me to tell that on another day.
 
 <bigbreak>
 
@@ -225,9 +225,9 @@ But when I was at home, getting undressed and ready for bed, it came back into m
 
 <em>It was a long time ago. It wasn't anyone you know.</em>
 
-Images sprang unwanted into my head. A much younger Yali, naked and scared. A strange man, holding her down. Forcing himself on her. Violating her.
+Images sprang unwanted into my head, my brain trying to picture what it must've been like. A much younger Yali, naked and scared. A strange man, holding her down. Forcing himself on her. Violating her.
 
-I felt like my head would split open. A chaos of feelings ripped through me. Disgust. Horror. And finally, rage, uncontrollable rage. I wanted to <em>murder</em> that man. I wanted to feel my fists sink into his flesh, to beat him and beat him until he was a bloody mess on the floor. Where was he now?! If I just knew where he was, I would make him pay for what he did! I'd go there tonight –!
+I felt like my head would split open. A chaos of feelings ripped through me. Disgust. Horror. And finally, rage, uncontrollable rage. I wanted to <em>murder</em> the man in my head. I wanted to feel my fists sink into his flesh, to beat him and beat him until he was a bloody mess on the floor. Where was he now?! If I just knew where he was, I would make him pay for what he did! I'd go there tonight –!
 
 <em>They're in prison now.</em>
 
@@ -243,15 +243,15 @@ Why the fuck did it have to be that way?! I mean, I obviously wasn't mad that th
 
 Wait… She'd said "they". Not "he". Was she trying to leave out their gender? Maybe it <em>wasn't</em> a man? Or were there <em>more than one of them?!?</em>
 
-The rage surged through me again. I slammed my fist into the wall, putting a new dent alongside all the old ones. I slammed it again and again, splitting my knuckle on the broken-up wallboard. But the pain didn't end. Gods, what did she want me to do? What the fuck did she want me to do?
+The rage surged through me again. I slammed my fist into the wall, putting a new dent alongside all the old ones. I slammed it again and again, splitting my knuckle on the broken-up wallboard. But the pain didn't end. Gods, what was I supposed to do? What the fuck what was I supposed to do?
 
-Wait. What <em>did</em> she want me to do?
+Wait. What would <em>Yali</em> want me to do?
 
 Well. First of all, she wanted me to not bring it up again. I would absolutely do that, she was the victim here, I would do whatever it took to make her feel better. But what would she want me to do with my own feelings? I couldn't just not feel them!
 
 Or… <em>could</em> I?
 
-The terrifying thing was, there was already a part of me that was saying, <em>Calming Game</em>. Already a bit of my rage that was fading into doubt. Was it even right? Should I be able to know something like this, and <em>not</em> be blinded by rage? But… that <em>was</em> what she'd want. She'd want me to know that someone raped her, and just <em>not</em> put holes in the wall. Just <em>not</em> murder anyone. Just… keep going on.
+The terrifying thing was, there was already a part of me that was saying, <em>Calming Game</em>. Already a bit of my rage that was fading into doubt. Was it even right? Should I be able to know something like this, and <em>not</em> be driven senseless by rage? But… that <em>was</em> what she'd want. She'd want me to know that someone raped her, and just <em>not</em> put holes in the wall. Just <em>not</em> murder anyone. Just… keep going on.
 
 The tension left me. I flopped down on my bed. <em>Fuck.</em>
 
@@ -271,13 +271,13 @@ How many horrors was she fighting through? Not only this, but also the other thi
 
 Another cold realization washed over me.
 
-<p>"It's the Stern Temple that pays for me to live here," she'd said. Well, <em>the Stern courts were responsible for compensation paid to victims of crimes</em>. So if there was a crime that meant she needed a new home… a crime involving her parents… could they be dead? Could they have been her abusers?</p>
+<p>"It's the Stern Temple that pays for me to live here," she'd said. Well, <em>the Stern courts decided pay&shy;ments to victims of crimes</em>. So if there was a crime that meant she needed a new home… a crime involving her parents… could they be dead? Could they have been her abusers?</p>
 
 And had she had to go through a trial? Of her own parents? Of their killers?
 
 How many layers of badass <em>was</em> she?
 
-My mind turned these worries over and over, late into the night, until sleep was finally heavier than they were. There was nothing I could do to loosen the cold grip on my heart, to make it seem like it wasn't so bad. And my way of picturing Yali kept flopping back and forth, never able to settle, between the Yali who was isolated and suffering, and the Yali who stepped out of it all, grimly ready to defy the gods.
+My mind turned these worries over and over, late into the night, until sleep was finally heavier than they were. There was nothing I could do to loosen the cold grip on my heart, to make it seem like it wasn't so bad. And my image of Yali kept shifting and changing, my mind trying to piece together both the Yali who was isolated and suffering, and the Yali who had emerged from it, grimly ready to defy the gods.
 
 As I slipped into unconsciousness, the only thing I knew for sure was that I was up against something much, much bigger than me.
 
@@ -289,7 +289,7 @@ The day finally came.
 
 I rose with the dawn. The sun glowed like in my dream, filling my blood with energy. I was ready.
 
-I went through my morning routine on autopilot, my mind racing ahead to what was coming. Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
+I went through my morning routine on autopilot, my mind racing ahead to what was coming. Yali had told me all about it. Normally, even the high priests didn't know exactly what day the Ravelling would start, although obviously it was usually during the official Ravelling Week holidays. But Yali, as the Farseer, was able to sense when it was coming, a few days ahead of time. By now, she'd told me the exact day and hour it would happen. We were going to meet up this morning, and in a few hours, we'd be pulled through to the Otherworld.
 
 <p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I had planned to leave in the morning as if I was going to school like normal, so Mom and Dad wouldn't <print_only></p><img class="full-page" src="/media/ravelling-wrath/illustrations/5-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>see the shift in the Waiting. I almost did it, too. But as I was stepping out the front door, I felt like I was crossing a point of no return. I hesitated and turned around.</p>
 
