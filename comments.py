@@ -1620,5 +1620,12 @@ But that's a tangent. My point is that what makes something a punishment is ofte
   "id":"450a6d5e944dd388ce17cbdd92efdeb0",
   "date_posted":datetime.date(2020, 6, 27)
 },
+{
+  "parent":"4d70c1c7f5c23d360e1cf9ee3ebc1cd",
+  "username":"Solis",
+  "contents":"""I Know this is an old post, but I just really want to thank you for pointing this out. As a POC They/she this type of stuff is why I refrain from introducing myself to any strategy/tactical gaming community and just chill by myself when it comes to deep gaming. I would get verbally attacked if I tried to bring any of this up...  I am also considering dropping Wesnoth, as it very clear that the community is VERY racist. The design choices of the game are an encouragement for the racism honestly. I may play for a bit longer as the gameplay is exactly what I have been looking for, but each time I boot it up I have these thoughts in the back of my head. and then I peep the community on steam and BAM hit with a racist meme/"artwork" with racist comments...I mean, come on...smh""",
+  "id":"3cf86385ae68ab53528764c61ede48",
+  "date_posted":datetime.date(2022, 8, 5)
+},
 
 ]
