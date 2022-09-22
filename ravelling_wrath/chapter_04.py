@@ -300,9 +300,9 @@ But that was when the problems started. Because right away, Yali started asking 
 
 "Are you sure? We only just –" She cut herself off and waited for me to respond.
 
-"…yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
+"…yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em> Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
 
-And Yali accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. Even the things I normally liked doing seemed sort of distant and pointless. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. But in the end, we couldn't think of anything better than to send me home early. At home, I collapsed into bed even before my official bedtime. I just wanted the day to be over already.
+And Yali accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. But in the end, we gave up. I went home and flopped into bed before it was even my official bedtime. I just wanted the day to be over already.
 
 <bigbreak>
 
