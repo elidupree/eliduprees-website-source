@@ -318,9 +318,9 @@ I snickered at "<em>more</em> walking", as if I was actually going to walk this 
 
 It was the last time I was going to be running these streets for a long time. I lovingly landed my feet in every familiar pothole and crack. Over there was the first bar I ever got kicked out of. A few blocks down, the corner store where Pèi stole most of her jewelry. The old half-a-basketball-court where I used to play with the neighborhood kids until the hoop fell down and people started dumping their trash there, haha.
 
-And then, the gate. As I passed, the wall's mighty sorceries buzzed in my mind, reminding me that I was leaving the fifth ring, leaving my home.
+And then, the gate. As I passed, the wall's mighty sorceries buzzed in my mind, reminding me that I was leaving the Fifth Ring, leaving my home.
 
-In the fourth ring, where I was supposed to meet Yali, the memories really started to hurt. Would I ever be back to that pawnshop near the library, where I used to stop and flirt with the owner's bored daughter? Would I ever race someone down Draegel Street again? Half my life had been here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, I <em>had</em> to get back from the Ravelling alive, just so I could see him again when it was over.
+In the Fourth Ring, where I was supposed to meet Yali, the memories really started to hurt. Would I ever be back to that pawnshop near the library, where I used to stop and flirt with the owner's bored daughter? Would I ever race someone down Draegel Street again? Half my life had been here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, I <em>had</em> to get back from the Ravelling alive, just so I could see him again when it was over.
 
 I stopped thinking and just jogged. Cold wind blew over my face and arms, but the exercise warmed me from the inside. And then, I was there.
 
@@ -328,9 +328,9 @@ In Clover Square, I didn't see Yali at first. But just as I was pulling out my p
 
 "I don't want anyone to recognize us on our way to the fountain," she said.
 
-The fountain was where we needed to go. It was in the first ring, the top of the hill, the center of the city. That was where the boundary between this world and the Otherworld was the thinnest. Yali had told me about it: When the gods pulled us through the boundary, it was going to be a really weird experience, and if it didn't go just right, we might end up getting flung to faraway parts of the Otherworld, instead of staying together. But it would be easier if we were near the fountain, instead of some random other place.
+The fountain was where we needed to go. It was in the First Ring, the top of the hill, the center of the city. That was where the boundary between this world and the Otherworld was the thinnest. Yali had told me about it: When the gods pulled us through the boundary, it was going to be a really weird experience, and if it didn't go just right, we might end up getting flung to faraway parts of the Otherworld, instead of staying together. But it would be easier if we were near the fountain, instead of some random other place.
 
-"We'll take a bus up to the second ring, then walk from there," she said.
+"We'll take a bus up to the Second Ring, then walk from there," she said.
 
 "Why not all the way?"
 
@@ -374,11 +374,11 @@ It took Yali a moment to realize that I was joking, but then she laughed loudly.
 
 I held Yali's hand for the whole bus ride there. Neither of us spoke. We had so much to say, but most of it had already been said, and the rest could wait until there were fewer people to overhear us.
 
-Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. But there was nothing out there I hadn't seen before. There was the big gate into the third ring. The dull, square Stern buildings. The menacing walls of the prison off in the distance. Was that where…? No, that wasn't worth thinking about, not when Yali was right next to me. I tried to focus on the trip. We passed by a busy gas station. We rolled through the weirdly hidden gate into the second ring, which you almost couldn't see until you got close to it.
+Along the way, the rain began, a loud patter on the metal roof. Water streaked the windows, making it harder to see outside. It felt isolating. But there was nothing out there I hadn't seen before. There was the big gate into the Third Ring. The dull, square Stern buildings. The menacing walls of the prison off in the distance. Was that where…? No, that wasn't worth thinking about, not when Yali was right next to me. I tried to focus on the trip. We passed by a busy gas station. We rolled through the weirdly hidden gate into the Second Ring, which you almost couldn't see until you got close to it.
 
 Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, sheltering it under her body, showing the route to where we were going. She waved for me to follow, and started walking without saying a word.
 
-The second ring didn't quite look how I remembered it. The last time I'd been here, I was a little kid, and I was amazed by the big, brightly colored buildings, all completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-panelled walkways sticking out all over the place. Even now, my eyes couldn't help but wander as we walked. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
+The Second Ring didn't quite look how I remembered it. The last time I'd been here, I was a little kid, and I was amazed by the big, brightly colored buildings, all completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-panelled walkways sticking out all over the place. Even now, my eyes couldn't help but wander as we walked. But every time I glanced back at Yali, she was still just paying attention to the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
 
 "Yali?" I said. She didn't look up from her silent concentration. "Hey, Yali!"
 
@@ -386,7 +386,7 @@ The second ring didn't quite look how I remembered it. The last time I'd been he
 
 "Oh, right. Sorry, I didn't think of that." Ugh, it felt weird that I wasn't getting a reaction out of her. It was like the bond between us had somehow been cut when I wasn't looking. Why was she acting like that? Well, when I thought about it, this was probably really stressful for her too. But at least <em>she</em> knew what it was going to be <em>like</em> when we got sucked into the Otherworld. All <em>I</em> had to go on was her descriptions – and she had said it was "mindbending" and "not actually dangerous", which wasn't exactly reassuring. Whatever, I could put up with it. I went back to looking around while I followed her, to give her a little space. More streets went past. My hoodie slowly got more damp in the rain.
 
-At last, the first ring's wall loomed above us.
+At last, the First Ring's wall loomed above us.
 
 At first glance, the gate didn't look like much. It was pretty small, only wide enough to fit one car at a time. But once I got close, I could see the details. Every part of the stonework around the gate was carved into finely shaped curves. The shapes looked somehow geometric and organic at the same time. And at the top of the gate, they all intertwined into a big version of the Waiting God's symbol, the Watchful Eye.
 
@@ -426,7 +426,7 @@ I'd expected the fountain to have a big jet of water shooting up into the air. B
 
 Around the fountain were a few benches made of the same stone. Yali led me to one of them and we sat down together. For a solid piece of rock, it was surprisingly comfortable. Once I was settled in, I held Yali's hand and leaned against her shoulder.
 
-The square was oddly deserted. Even though this was the center of the first ring, it wasn't exactly bustling. A few people walked past without really noticing us. At one point, an elderly couple paused on one of the benches across from us, to observe the fountain, but they moved on before long. Once they were gone, I asked Yali, "What if someone's looking at us when we disappear?" But Yali said they wouldn't notice. She started trying to explain the magic behind it, but I didn't really follow it, so we dropped it.
+The square was oddly deserted. Even though this was the center of the First Ring, it wasn't exactly bustling. A few people walked past without really noticing us. At one point, an elderly couple paused on one of the benches across from us, to observe the fountain, but they moved on before long. Once they were gone, I asked Yali, "What if someone's looking at us when we disappear?" But Yali said they wouldn't notice. She started trying to explain the magic behind it, but I didn't really follow it, so we dropped it.
 
 There weren't any cars either, although I got the sense that people just didn't use cars around here. It would probably be super bumpy on the cobblestones, anyway.
 

@@ -130,7 +130,7 @@ That was true – everyone knew the Ravelling started near the start of November
 
 "Ugh, they probably <em>like</em> it." Yali's full name was Yali Seti. And Seti wasn't just any ordinary name. It was a really common name for the rich people who lived in the upper rings of the city. If you called someone "a Seti", it didn't necessarily mean someone who actually had that name – it meant someone who was acting like a stuck-up rich person in general. Yali obviously wasn't stuck-up, but people definitely didn't look at her the same way after they learned her name.
 
-But Mom and Dad… They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the second ring to the fifth ring". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
+But Mom and Dad… They were always talking about the "good old days", which meant "the days before Grandma died and Grandpa got sick and we had to sell our house and move down from the Second Ring to the Fifth Ring". I didn't remember that stuff because it all happened when I was just two years old, but Mom and Dad wouldn't shut up about it. They thought we were so much better than everyone because they lived in a mansion once. So a Seti was much better than someone with a "poor-people" name like Katsín or Monoë, even though half my friends had names like that.
 
 I continued, "They're only really mad if they think I'm hanging out with, like, secret Blood worshippers or something."
 
@@ -378,17 +378,17 @@ But then… the Stern.
 
 It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on Mill Street had been a vibrant place. There'd been colorful tents along all the walkways, and it had almost been an open-air market, with musicians playing on the sidewalks, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! Mill Street Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings on my way to school. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
 
-"I bet they want to make the whole city as boring as the third ring!" I exclaimed. The third ring was basically the Stern Temple's home turf, full of temples and courthouses and shit. Then I remembered we were <em>in</em> the third ring right now, because Yali lived here. "Uh, no offense."
+"I bet they want to make the whole city as boring as the Third Ring!" I exclaimed. The Third Ring was basically the Stern Temple's home turf, full of temples and courthouses and shit. Then I remembered we were <em>in</em> the Third Ring right now, because Yali lived here. "Uh, no offense."
 
 Yali shrugged. "There's worse things than living in a boring place."
 
 And in the Otherworld… we didn't know <em>exactly</em> what the Stern God would do with us, because the worlds were different each year, but it was always the one with the strictest requirements for the Ravellers. Yali said it would show us symbolic representations of principles, and make us endure hard work and suffering to see those principles upheld. She literally used the word "suffering". That was gonna suck, especially when it came right after the Seeking God's fun. Why couldn't it have been the last layer, so we could put it off, or the first, so we could get it over with? Why did it have to be the <em>third</em> –
 
-"Wait," I said. "Third ring – third layer – that's not a coincidence, is it?"
+"Wait," I said. "Third Ring – third layer – that's not a coincidence, is it?"
 
-Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the first ring doesn't allow any lights at night – so that you can see the stars."
+Yali smiled. "That's right. The rings of the city were built to mimic the layers of the Otherworld. That's why the First Ring doesn't allow any lights at night – so that you can see the stars."
 
-"And the second ring – that's the one with the Seeking, right? The streets really ARE like a maze there, my parents took me to a museum there once and I got soooo lost! So it was built that way on <em>purpose</em>?"
+"And the Second Ring – that's the one with the Seeking, right? The streets really ARE like a maze there, my parents took me to a museum there once and I got soooo lost! So it was built that way on <em>purpose</em>?"
 
 "It probably was!"
 
@@ -397,7 +397,7 @@ Yali smiled. "That's right. The rings of the city were built to mimic the layers
 
 "And then the, uhh…" I realized I'd interrupted her before she got to the rest. "Sorry, you can keep telling me about the layers now."
 
-Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's follow&shy;ers made no laws and built no temples, because the world was already its temple. And in the city – the fourth ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks, in between the mess of stores and houses and abandoned factories.
+Fourth was the Broken God, the most primordial of the gods, the god that suffused every part of nature, the god of things that exist beyond human reason or control. Its world was a lush wilderness, where the Ravellers could rest, because the Broken felt no need to impose its order upon them. The Broken God's follow&shy;ers made no laws and built no temples, because the world was already its temple. And in the city – the Fourth Ring wasn't all overgrown with plants like the Broken God's world, but it did have a few parks, in between the mess of stores and houses and abandoned factories.
 
 And fifth…
 
@@ -507,7 +507,7 @@ I thought about it. "We could still have dated for three months… and then, you
 
 Yali didn't say anything.
 
-"Hang on, how <em>do</em> you live alone? And in the third ring, too?" The third ring didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
+"Hang on, how <em>do</em> you live alone? And in the Third Ring, too?" The Third Ring didn't have many houses. It did have a bunch of temples, the city hall, a police station, the city's one prison – all that Stern stuff. "I thought the only people who lived here were, like, retired people –"
 
 "If we talk about my past," said Yali calmly, "I'll have to deal with some emotions. And if I'm dealing with emotions, I won't be able to plan for the future."
 
