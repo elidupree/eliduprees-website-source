@@ -392,7 +392,7 @@ I thought about it. But when I visualized what it would be like, to be sitting a
 
 Layo hugged me tight. "I understand. It's not the answer you wanted. But my dad always says, 'no one with a mission wants to stop and rest, but –'"
 
-"'– but when it catches up to you, you'll wish you rested,'" I mumbled into my hands. Layo's dad had loads of sayings like that, bits of wisdom from the Broken. And… shit. It wasn't wrong. I sank deeper into the feeling… the desire to just give up and rest…
+"'– but when it catches up to you, you'll wish you rested,'" I mumbled into my hands. Layo's dad had loads of sayings like that, bits of wisdom from the Broken. And hearing it that way… hearing it apply to <em>me</em>… I couldn't deny it anymore. I sank deeper into the feeling… the desire to just give up and rest…
 
 When I pulled my hand away from my face, it was damp with tears.
 
