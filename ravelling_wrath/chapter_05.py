@@ -297,18 +297,18 @@ I went through my morning routine on autopilot, my mind racing ahead to what was
 
 Mom sighed. "What do you want?"
 
-I almost laughed. Somehow, I hadn't expected her to turn my heartfelt emotions into regular annoyance. "I just want you to know how much I love you! Is that so wrong?" She didn't look very convinced. "Come on, I'm a teenager! I'm allowed to have mood swings! You too –" I jabbed a finger at Dad "– get over here!"
+I almost laughed. Somehow, I hadn't expected her to turn my heartfelt emotions into regular annoyance. "I just want you to know how much I love you! Is that so wrong?" She didn't look very convinced. "You too –" I jabbed a finger at Dad "– get over here!"
 
 I grabbed them and hugged them both tight. They exchanged a look, but went along with it. Oh, they had no idea what was coming. But I knew.
 
 "Bye! Love ya!"
 
-I took off running down the road towards the school. But as soon as I was out of sight of my house, I turned and took a different road.
+I took off running down the road to school. But as soon as I was out of sight of my house, I turned and took a different road.
 
 <div class="texts">
-<p class="text left">on my way to clover square eta 20 min</p>
-<p class="text left">ill have something for you</p>
-<p class="text left">don't tire yourself out on the way here, we'll have a lot more walking to do</p>
+<p class="text left">On my way to clover square eta 20min</p>
+<p class="text left">I'll have something for you</p>
+<p class="text left">Don't tire yourself out on the way here, we'll have a lot more walking</p>
 
 <p class="text right">on my way! see you soon! ❤</p>
 <div class="end-of-texts"></div>
@@ -318,13 +318,19 @@ I snickered at "<em>more</em> walking", as if I was actually going to walk this 
 
 It was the last time I was going to be running these streets for a long time. I lovingly landed my feet in every familiar pothole and crack. Over there was the first bar I ever got kicked out of. A few blocks down, the corner store where Pèi stole most of her jewelry. The old half-a-basketball-court where I used to play with the neighborhood kids until the hoop fell down and people started dumping their trash there, haha.
 
-It was a long jog. Eventually I got to the wall between the fifth and fourth rings, and headed up through the nearest gate, getting me pretty close to Clover Square. With each place I passed, I wondered if I'd ever see it again. Would I ever be back to that pawnshop near the library, where I sometimes stopped to flirt with the owner's bored daughter? Would I ever race someone down Draegel Street? There were just so many memories here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, I <em>had</em> to get back from the Ravelling alive, just so I could see him again when it was over.
+And then, the gate. As I passed, the wall's mighty sorceries buzzed in my mind, reminding me that I was leaving the fifth ring, leaving my home.
 
-It wouldn't be long till I was there. I stopped thinking and just jogged, feeling the wind blow over my face and arms. It was cold, but I was getting plenty warmed up anyway. It was good to be alive.
+In the fourth ring, where I was supposed to meet Yali, the memories really started to hurt. Would I ever be back to that pawnshop near the library, where I used to stop and flirt with the owner's bored daughter? Would I ever race someone down Draegel Street again? Half my life had been here. The skate park. Carminh's house. The road leading to Layo's… Stern take it, I <em>had</em> to get back from the Ravelling alive, just so I could see him again when it was over.
 
-When I got to Clover Square, I didn't see Yali anywhere. I was about to text her again, to ask when she'd get there, when I felt her hand land on my shoulder. She led me into a corner and handed me a shapeless gray hoodie that was a couple sizes too big for me. I obediently pulled it over my head and wriggled my arms into the sleeves. Yali was wearing one just like it, keeping her face well back under the hood.
+I stopped thinking and just jogged. Cold wind blew over my face and arms, but the exercise warmed me from the inside. And then, I was there.
 
-"I don't want anyone to recognize us on our way to the fountain," she said. The fountain was our destination. It was a place at the center of the first ring, where the boundary between this world and the Otherworld was the thinnest. Apparently, the actual process of getting pulled through the boundary was going to be a really weird experience, and if it didn't go just right, we might end up getting flung to faraway parts of the Otherworld instead of arriving at the same place as each other. But it would be easier if we were near the fountain, instead of just being pulled through from wherever we happened to be. "We'll take a bus up to the second ring, then walk from there."
+In Clover Square, I didn't see Yali at first. But just as I was pulling out my phone to text her, I felt her hand land on my shoulder. She led me into a corner and handed me a shapeless gray hoodie that was a couple sizes too big for me. Obediently, I pulled it over my head and wriggled my arms into the sleeves. Yali was wearing one just like it, keeping her face well back under the hood.
+
+"I don't want anyone to recognize us on our way to the fountain," she said.
+
+The fountain was where we needed to go. It was in the first ring, the top of the hill, the center of the city. That was where the boundary between this world and the Otherworld was the thinnest. Yali had told me about it: When the gods pulled us through the boundary, it was going to be a really weird experience, and if it didn't go just right, we might end up getting flung to faraway parts of the Otherworld, instead of staying together. But it would be easier if we were near the fountain, instead of some random other place.
+
+"We'll take a bus up to the second ring, then walk from there," she said.
 
 "Why not all the way?"
 
