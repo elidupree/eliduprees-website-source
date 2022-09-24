@@ -340,7 +340,7 @@ The fountain was where we needed to go. It was in the First Ring, the top of the
 
 So we waited at the nearest bus stop. It was cold, cloudy, and damp, and it felt like it could rain at any moment. I fidgeted with my hood. I didn't like how closed-in it felt, hiding my head like that.
 
-"Keep your hood up," Yali hissed.
+"Keep your hood up," Yali hissed. "And put your phone on airplane mode. We don't want them to find us that way."
 
 I did what she said. "What's up with all this secrecy, though?" I said. "Aren't we about to leave this world anyway?"
 
@@ -360,7 +360,7 @@ Yali whispered back, "I don't want anyone to be sure that we're Ravellers, even 
 
 "What?"
 
-"'Star-crossed' means that fate is against us. That definitely fits. Ironically, because –"
+"'Star-crossed' means the fates are against us. That definitely fits. Ironically, because –"
 
 "But, don't you have to, uh, have sex, to count as 'lovers'?"
 
@@ -374,7 +374,7 @@ It took Yali a moment to realize that I was joking, but then she laughed loudly.
 
 I held Yali's hand for the whole bus ride there. Neither of us spoke, not with the other riders close by. We just huddled together, as the rain began, a loud patter on the metal roof above us. The Third Ring passed by us, dull through the rain-streaked windows. There was nothing out there I hadn't seen before. The dull, square Stern buildings. The menacing walls of the prison off in the distance. Was that where…? No, it wasn't time to think about that, not with Yali right beside me.
 
-Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, sheltering it under her body, showing our route. She waved for me to follow, without saying a word.
+Finally, we reached the last stop and shuffled off the bus with everyone. By the time Yali stepped out into the rain, she already had her phone out, sheltering it under her body, showing our route on a map she'd downloaded ahead of time. She waved for me to follow, without saying a word.
 
 The Second Ring didn't quite look how I remem&shy;bered it. The last time I'd been here, I was a little kid, and I was amazed by the big, brightly colored buildings, all completely mismatched with each other. On one side of the street you'd have a worn-out old brick storefront, and on the other, you'd have some modern-art sort of building with weird angles and glass-panelled walkways sticking out all over the place. Even now, my eyes couldn't help but wander as we walked. But every time I glanced back at Yali, she was still buried in the directions on her phone. Which, to be fair, was the only reason we weren't getting lost.
 
@@ -382,7 +382,7 @@ The Second Ring didn't quite look how I remem&shy;bered it. The last time I'd be
 
 "Shhhh." She still didn't look up at me. A few paces later, she continued, "Don't say my name."
 
-"Oh, right. Sorry, I didn't think of that." Ugh, it felt weird that I wasn't getting a reaction out of her. It was like the bond between us had somehow been cut when I wasn't looking. I tried to be patient, because I knew she was stressed, just like me. But at least <em>she</em> knew what it was going to be <em>like</em> when we got sucked into the Other&shy;world. All <em>I</em> had was her descriptions – and she had said it was "mindbending" and "not actually danger went ous", which wasn't very reassuring. Whatever, I could put up with it. I gave her a little space, looking around at the buildings we went by, my hoodie slowly getting more damp in the rain.
+"Oh, right. Sorry, I didn't think of that." Ugh, it felt weird that I wasn't getting a reaction out of her. It was like the bond between us had somehow been cut when I wasn't looking. I tried to be patient, because I knew she was stressed, just like me. But at least <em>she</em> knew what it was going to be <em>like</em> when we got sucked into the Other&shy;world. All <em>I</em> had was her descriptions – and she had said it was "mindbending" and "not actually dangerous", which wasn't very reassuring. Whatever, I could put up with it. I gave her a little space, looking around at the buildings we went by, my hoodie slowly getting more damp in the rain.
 
 At last, the First Ring's wall loomed above us. The one place I'd never been.
 
@@ -392,9 +392,7 @@ I paused under the gate to run my fingers through the grooves in the carvings. T
 
 Yali stood ahead of me impatiently, putting away her phone. I hurried to catch up.
 
-On the other side of the gate, the city looked totally different, as if the Stern itself had divided the rings from each other. The roads around here weren't even paved normally, they were all cobblestones instead. And all the buildings were kind of… shorter than usual. Not just fewer multi-story buildings, but lower roofs and shorter doors as well. The kind of place where Dehel would be hitting his head all the time.
-
-And a lot of the buildings had stone walls with carvings like the ones on the gate. I would've expected that kind of thing from a temple, but even regular shops and stuff had them.
+On the other side of the gate, the city looked totally different, as if the Stern itself had divided the rings from each other. The roads around here weren't even paved normally, they were all cobblestones instead, with barely a car in sight. And all the buildings were kind of… shorter than usual. Not just fewer multi-story buildings, but lower roofs and shorter doors as well. The kind of place where Dehel would be hitting his head all the time. And a lot of them had stone carvings like the ones on the gate. I would've expected that kind of thing from a temple, but even regular shops and stuff had them.
 
 "Ugh, my legs are tired," I said. They weren't <em>that</em> tired, but I was itching to say something.
 
@@ -408,27 +406,25 @@ Yali half-laughed. "Maybe we didn't need to do anything with your emotions. Now 
 
 "What, don't you play-fight with your friends?"
 
-"More like with randos in the schoolyard. Like I don't care if they get a few bruises, they'll be fine."
+"More like with randos in the schoolyard. Like, I don't care if they get a few bruises, they'll be fine."
 
 "If <em>I</em> get a few bruises," said Yali irritably, "<em>I'll</em> be fine."
 
-How had that even offended her?! I scrambled to think back to what I'd said. "It's not the same!" I complained. Yali ignored me. "Come on, you're my girlfriend! I'm allowed to be protective!"
+How had that even offended her?! I scrambled to think back to what I'd said. "It's not the same!" I com&shy;plained. Yali ignored me. "Come on, you're my girl&shy;friend! I'm allowed to be protective!"
 
 "I was joking, anyway," she said wearily. "With the powers you'll have as the Blood Child, I wouldn't have a chance against you."
 
 "Way to kill the mood."
 
-We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobblestones. By the time we got where we were going, my legs really <em>were</em> sore from all the times I had to catch myself after tripping a little.
+We walked on in silence for a while. Finally, Yali muttered that we were getting close, and picked up the pace. It shouldn't have been hard for me to keep up with her, but I kept stumbling over the uneven cobble&shy;stones. By the time we got where we were going, my legs really <em>were</em> sore, from all the times I'd had to catch myself.
+
+And finally, the fountain loomed before us. Now, all we had to do was wait. For the gods to do… whatever they were going to do.
+
+<bigbreak>
 
 I'd expected the fountain to have a big jet of water shooting up into the air. But instead, it had thousands of little channels of water, flowing along more stone engravings like the others I'd seen around here. There was a wide, shallow basin in the middle of the city square, with a big carved stone sticking up in the middle, and more carvings around the edges. All the little channels of water flowed peacefully into the basin, with hardly even a splash. If it wasn't for the rain putting ripples all over the water's surface, it would probably all be a steady, continuous stream. It'd look like the water wasn't moving at all.
 
-Around the fountain were a few benches made of the same stone. Yali led me to one of them and we sat down together. For a solid piece of rock, it was surprisingly comfortable. Once I was settled in, I held Yali's hand and leaned against her shoulder.
-
-The square was oddly deserted. Even though this was the center of the First Ring, it wasn't exactly bustling. A few people walked past without really noticing us. At one point, an elderly couple paused on one of the benches across from us, to observe the fountain, but they moved on before long. Once they were gone, I asked Yali what would happen if someone was looking at us when we disappeared. But Yali said they wouldn't notice. She started trying to explain the magic behind it, but I didn't really follow it, so we dropped it.
-
-There weren't any cars either, although I got the sense that people just didn't use cars around here. It would probably be super bumpy on the cobblestones, anyway.
-
-Most of the time, it was just me and Yali, huddled together in the cold rain.
+I settled in with Yali on one of the stone benches around the fountain. For a solid piece of rock, it was surprisingly comfortable, nestling the curve of my back as I curled up and leaned into Yali's shoulder. And we didn't need to worry about people watching us. The square was oddly deserted, even though this was the center of the First Ring. Most of the time, it was just me and Yali, huddled together in the cold rain.
 
 "How are you holding up?" said Yali softly.
 
@@ -456,7 +452,7 @@ After a long pause, Yali said, "If you don't mind, I'd like a more detailed answ
 
 Yali laughed a little, but didn't answer.
 
-And then it was back to waiting again. Even though I was cold, and sore, and impatient to get to the big event, waiting didn't seem so hard for some reason. Something about this place just felt oddly peaceful. Although maybe it shouldn't have been a surprise that it was a nice place for waiting, when it was built to honor the Waiting.
+And then it was back to waiting again. A few people walked past without really noticing us. At one point, an elderly couple paused on one of the benches across from us, to observe the fountain, but they moved on before long. Once they were gone, I asked Yali what would happen if someone was looking at us when we disappeared. But Yali said they wouldn't notice. She started trying to explain the magic behind it, but I didn't really follow it, so we dropped it.
 
 Time passed. The rain slowly drained my body heat. I rested against Yali's body and let my mind tune out.
 
