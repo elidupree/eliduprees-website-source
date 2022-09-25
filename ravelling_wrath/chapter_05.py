@@ -456,23 +456,23 @@ And then it was back to waiting again. A few people walked past without really n
 
 Time passed. The rain slowly drained my body heat. I rested against Yali's body and let my mind tune out.
 
-Yali's voice broke the silence. "It's coming," she said hoarsely, as if it was a huge effort to speak at all. "Look into the fountain and think of me."
+Yali's voice broke the silence. "It's coming," she said hoarsely, straining to speak at all. "Look into the fountain and think of me."
 
-It was like I was suddenly jerked awake. Obediently, I looked into the fountain. The stone carvings and rippling water were as pretty as before, although it wasn't really my style. I squeezed Yali's hand, and felt that she was trembling.
+Her voice jerked me awake. I stared into the fountain, unsure what I was looking for. The stone carvings and rippling water were as pretty as before. I squeezed Yali's hand, and felt that she was trembling.
 
-It was hard to explain when it began. The sound of the fountain flowing continued unchanged, but somehow it was like a clock ticking down the hours. The water's surface became a rippling sheet of glass. When I looked into the reflections, I thought I glimpsed bits of writing I could barely make out, stone tablets carrying long-forgotten histories, and here and there a shadow of a face. The stones were still the stones of the fountain. The shadow was still the shadow of a rusted signpost. What had changed?
-
-<p><em>Think of me.</em></p>
-
-I tried to turn my head, to get another look over at Yali, but my muscles ignored me. The fountain was everything. The splatter of reflections from the grayish light was pulling me inwards. I thought of my hand, still intertwined with Yali's. <em>Let us both be pulled in the same direction</em>, I begged, not knowing to which god I was praying. The raindrops were a thousand fragments that should have shattered into nothingness long ago. But they fell, they fell, they continued inescapably on their course, amassing into a tunnel that stretched out before me. I was falling into the tunnel, into a bottomless pit that fell down into a void of stars.
-
-The world was gone. Yali was gone. I was submerged in the void, with nothing but the stars in every direction around me.
+It was hard to explain when it began. The soft sound of the fountain never changed, but now it was a clock ticking down the hours. The water was a rippling sheet of glass. Deep in the reflections, I thought I glimpsed fragments of ancient writing, stone tablets carrying long-forgotten histories, half-seen shadows of unknown souls. The stones were still the stones of the fountain. The shadow was still the shadow of a rusted signpost. What had changed?
 
 <p><em>Think of me.</em></p>
 
-I made her face appear among the stars. Her eyes were blazing pinpricks of light. Her hand was a constellation reaching out towards me. She was crowned with cold fire that shone from an eternity away.
+I tried to turn my head, to see Yali again, but my muscles ignored me. The fountain was everything. The splatter of reflections was pulling me inward. I thought of my hand, still intertwined with Yali's. <em>Let us both be pulled in the same direction</em>, I begged, to any god that would listen. The raindrops glittered in the grayish light, fragments of a shattered world, an unclean kill prolonged beyond all dignity, falling but never landing. They fell, they fell, swirling and amassing in the shape I knew was inescapable, the tunnel stretching out before me. My body was already plunging down the tunnel, the bottomless pit, down into a void of stars.
 
-I fell for centuries, drifting through nothingness, never getting closer to the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had been left unpowered until it slowly ground down to a halt. This great monstrosity watched me with indifference, seeing all that I might do. I was not even a cog in the machine, but a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
+The world was gone. Yali was gone. I was suspend&shy;ed in the void, with nothing but the stars in every direction around me.
+
+<p><em>Think of me.</em></p>
+
+My eyes hunted the stars for her sign, and found it with terrible ease. Her eyes were cold pinpricks of light. Her hand was a constellation reaching out towards me. She was crowned with grim fire that shone from an eternity away.
+
+I fell for centuries, drifting through nothingness, never getting closer or further from the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had long since ground to a halt. This great monstrosity watched me with indifference, sixty eyes peering into every chamber of my soul. I was a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
 
 At last, I felt a looming presence, like a giant hand hovering over me. Maybe Yali's, or maybe something else's, I had no way to tell. The hand slowly descended around me, forming a vast and empty enclosure around me, shutting out the stars one by one.
 
