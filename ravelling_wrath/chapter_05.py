@@ -472,13 +472,13 @@ The world was gone. Yali was gone. I was suspend&shy;ed in the void, with nothin
 
 My eyes hunted the stars for her sign, and found it with terrible ease. Her eyes were cold pinpricks of light. Her hand was a constellation reaching out towards me. She was crowned with grim fire that shone from an eternity away.
 
-I fell for centuries, drifting through nothingness, never getting closer or further from the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had long since ground to a halt. This great monstrosity watched me with indifference, sixty eyes peering into every chamber of my soul. I was a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
+I fell for centuries, drifting through nothingness, never getting closer or further from the stars. Gears the size of galaxies stood motionless, as if the clockwork of the universe had long since ground to a halt. This great monstrosity watched me with indifference, sixty eyes peering into every tangle of my soul. What was I? I was a floating speck of dust, that would eventually, a million years later, settle in a corner and be forgotten.
 
-At last, I felt a looming presence, like a giant hand hovering over me. Maybe Yali's, or maybe something else's, I had no way to tell. The hand slowly descended around me, forming a vast and empty enclosure around me, shutting out the stars one by one.
+At last, I felt a looming presence, like a giant hand hovering over me. Maybe Yali's, or maybe something else's, I had no way to tell. The hand slowly descended over me, forming a vast and empty enclosure around me, shutting out the stars one by one.
 
-In the emptiness of the hand's embrace, I waited, wondering what would happen next. Until, bit by bit, I somehow became aware that the <em>hand</em> was waiting for <em>me</em>. The void it had created was expectant. I reached out, not knowing how. I had no arms to crawl with, no voice to yell into the darkness, no mind to make sense of it with ideas. Yet somehow I still reached out, as if with my life force itself, to scratch a foothold into the fragment of the universe that was being offered to me.
+In the emptiness of the hand's embrace, I somehow knew that my time had come, that the hand was wait&shy;ing for my move. I reached out, not knowing how, into the expectant void. I had no arms to crawl with, no voice to yell into the darkness, no mind to constrain it with ideas. Yet somehow I still reached out, as if with my life force itself, to scratch a foothold into the frag&shy;ment of the universe that was being offered to me.
 
-As my life force breached the void, these images all winked away – the hand, the stars, and even the void itself. They left me blinking into a different light that was much closer, much more real and mundane.
+As my life force breached the void, it all began to break. The hand, the stars, and even the void itself, they fell away like disjointed images, like waking from a troubled dream. I found myself sprawled on a hard surface, blinking into a different light that was much closer, much more real and mundane.
 
 I was in another world.
 
