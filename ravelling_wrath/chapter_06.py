@@ -62,7 +62,8 @@ Yali gently pushed me away. "Why don't you take a look around? I'll be up in a m
 
 "Remember, I know this place already."
 
-"Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff. Well, first, I pulled off the hoodie Yali had given me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. Now in just my shirt, I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
+"Okay, but tell me if you need anything!" I stood up again, careful not to slip this time, and reluctantly tore my eyes away from Yali to look at the other stuff.
+Well, first, I pulled off the hoodie Yali had given me and chucked it on the ground. That was much better. I'd forgotten how much that kind of loose clothing just made me feel like a weird blob. I raised my head and took a satisfying breath. This was how it should be, just my body right up close to the world.
 
 Now that I was more refreshed, I took a proper look at everything. We were on the middle of a smooth, softly glowing white platform, a circle about fifteen meters wide. There was really almost nothing on it. The only things here were me, Yali, a desk with a computer, and a fancy telescope mounted to the floor next to it. Other than that, there were no walls, no landscape, nothing – only the starry sky in literally every direction.
 
@@ -90,7 +91,7 @@ Yali smiled. "No, it's actually the stars themselves that move. You see… you s
 
 "What? But you <em>are</em> the Farseer."
 
-"It's about, it's about, how you think of me. Here…" Yali pulled away from me. With some reluctance, I let her untangle herself from my arms and step back. Then she solemnly raised one hand and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the generations yet to come, by the Waiting God, –</em>"
+"It's about, it's about, how you think of me. Here…" Yali pulled away from me. With some reluctance, I let her untangle herself from my arms and step back. Then she solemnly raised one hand and began reciting an invocation. It wasn't one I could repeat from memory, but I recognized it. "<em>By our ancestors who laid down the stones beneath our feet, by our visions for the genera&shy;tions yet to come, by the Waiting God, –</em>"
 
 I snickered. "Don't pretend like you're some kind of holy person," I said. It came out sounding a bit meaner than I'd intended it. Yali looked flustered. "Uh, I didn't mean that in a bad way."
 
@@ -98,7 +99,7 @@ I snickered. "Don't pretend like you're some kind of holy person," I said. It ca
 
 "Really? But it's not like I felt, like, angry, or anything. It's just silly that you were acting that way when you're obviously, like, not."
 
-"Hmm." Yali squinted. "Well, keep paying attention. Tell me if you feel anything you don't expect."
+"Hmm." Yali squinted. "Well, keep paying atten&shy;tion. Tell me if you feel anything you don't expect."
 
 "Yeah, yeah." I sidled up and wrapped myself around her again. "Now tell me about how we're going to move the stars around."
 
@@ -116,7 +117,7 @@ Yali frowned. "I did. There's never been a computer here before, it's always bee
 
 "What's so funny?" I said. Yali kept laughing. "Hey! Don't leave me out of the loop here!"
 
-She contained herself. "Oh I get it now… It was never a bookshelf, it was 'a vast collection of ancient knowledge'! And it's constructed based on our assumptions, so maybe people USED to think that meant a bunch of books, but the place <em>we'd</em> look for ancient knowledge is –"
+She contained herself. "Oh I get it now… It was never a bookshelf, it was 'a vast collection of ancient knowledge'! And it's constructed from our assump&shy;tions, so maybe people USED to think that meant a bunch of books, but the place <em>we'd</em> look for ancient knowledge is –"
 
 "– on the Internet," we finished together. I grinned. "Hey, does that mean we'll have Internet here?"
 
@@ -135,19 +136,19 @@ When she said "jump into anything", it made me think of physical jumping, and ho
 <bigbreak>
 
 
-<p style="font-style: italic"><q>– whereas in a 3-α cluster, the channels are similar, but the chirality is reversed. Thus, within a 3-α, marker signals propagate in a clockwise direction (when viewed from the direction of the root – although here, 'the root' may refer to the root of an ancestor cluster, if the 3-α is polyastretic) rather than counterclockwise. Take note: because of this abnormal chirality, the presence of a 3-α greatly increases the chance of signal propagation that exceeds the usual bounds, meaning that signals observed in this area may reflect the properties of a star multiple clusters away. Fortunately, this is limited to the case of –</q></p>
+<p style="font-style: italic"><q>– whereas in a 3-α cluster, the channels are similar, but the chirality is reversed. Thus, within a 3-α, marker signals propagate in a clockwise direction (when viewed from the direction of the root – although here, 'the root' may refer to the root of an ancestor cluster, if the 3-α is polyastretic) rather than counter&shy;clockwise. Take note: because of this abnormal chirality, the presence of a 3-α greatly increases the chance of signal propagation that exceeds the usual bounds, meaning that signals observed in this area may reflect the properties of a star multiple clusters away. Fortu&shy;nately, this is limited to the case of –</q></p>
 
 "This doesn't say <em>shit</em> about how to use a telescope," I said.
 
 "Aren't you just reading a random part in the middle?" said Yali from over my shoulder.
 
-"Well I STARTED at the beginning! But that was just pages and pages of boring stuff!" For some reason, all of the Codex programs had started working about half an hour after we showed up. But somehow, that wasn't making things any easier. "And why didn't CodexSearch show us anything good for 'telescope'? It's a freakin' <em>search!!</em>"
+"Well I STARTED at the beginning! But that was just pages and pages of boring stuff!" For some reason, all of the Codex programs had started working about half an hour after we showed up. But somehow, that wasn't making things any easier. "And why won't CodexSearch show us anything good for 'telescope'? It's a freakin' <em>search!!</em>"
 
 "Maybe there's another name for the telescope. We should think about –"
 
 "And why should <em>I</em> have to read your stupid Codex?" I shoved myself away from the desk and stood up. "You're the one who's good with all this detail stuff. <em>You</em> still have a <em>temple</em>!"
 
-I didn't realize something was weird until Yali answered me. "Are you talking about the Waiting Temple?" she said carefully.
+I didn't realize that was weird until Yali answered me. "Are you… talking about the Waiting Temple?" she said carefully.
 
 "Well, yeah, I mean, you're, uh…"
 
@@ -161,7 +162,7 @@ I tried to think back to what I'd been thinking, but it was gone now. "Ugh, I do
 
 "I, I don't really know –"
 
-"I thought you knew everything! With the memories and shit."
+"I thought you knew everything! With the memo&shy;ries and shit."
 
 "It was a, a complicated political thing. I don't know if I can explain it –"
 
@@ -177,7 +178,7 @@ I tried to think back to what I'd been thinking, but it was gone now. "Ugh, I do
 
 "Why not? They're different temples." That was a bit of a weird thing to say. It was <em>technically</em> true, but to most people, the Stern and the Waiting were kind of just two different branches of <em>the people in charge of the city</em>. The Stern were more of the everyday throw-you-in-jail types, and the Waiting were more of a distant authority handing down decrees, but they were pretty much on the same side. And Stern preachers were always like <em>you must respect the Waiting</em>, too. When I was a kid, my parents had made me go to temple every week, it was so annoying. And that meant a Stern temple. I'd never actually <em>been</em> inside a Waiting temple – at least, not that I could remember. There weren't many around where I lived, and they were even more boring and old-fashioned.
 
-"Alright then, screw the Waiting. Bunch of old know-it-alls sitting around, not doing any good for anybody."
+"Alright then, screw the Waiting. Bunch of old know-it-alls sitting around writing history books, not doing any good for anybody."
 
 Yali didn't seem too happy with that either, but she let it slide. "In any case, if you have those thoughts again, just remind yourself, whatever is wrong with the Waiting Temple, it's not <em>me</em>. I'm <em>not</em> like they are."
 
@@ -189,9 +190,9 @@ But one way or another, we were going to have to read the Codex, so we could nav
 
 "You what?"
 
-Yali told me her grades in school, and I was blown away. <em>My</em> grades were better than that! Of course, my grades were actually pretty good – sure, I liked to complain about the schoolwork, but I'd always <em>eventually</em> sit down and do it, and it wasn't that hard. But still – "What?! How can I be getting better grades than someone who was literally picked by the gods for being smart?"
+Yali told me her grades in school, and I was blown away. <em>My</em> grades were better than that! Of course, my grades were actually pretty good – sure, I liked to complain about the schoolwork, but I'd <em>eventually</em> sit down and do it, and it wasn't that hard. But still – "What?! How can I be getting better grades than someone who was literally picked by the gods for being smart?"
 
-"<em>Not</em> for being smart. For patience, foresight, and planning," said Yali patiently. "That's different from being good at schoolwork. If you give me a worksheet to do, I just, just can't focus on it. Like I have to find the right time of day, get relaxed, make sure to take care of anything else I'm worrying about, and <em>then</em> I can sit down with a worksheet, and then <em>maybe</em> I can focus on it. But most of the time, there's just too much other stuff going on in my head. The only time I get things done fast is when I know I'm in danger. And that's made it easier to prepare for the Ravelling… But the Waiting God will give us plenty of time. Studying the Codex won't be <em>urgent</em> enough for me to focus."
+"<em>Not</em> for being smart. For patience, foresight, and planning," said Yali patiently. "That's different from being good at schoolwork. If you give me a worksheet to do, I just, just can't focus on it. Like I have to find the right time of day, get relaxed, make sure to take care of anything else I'm worrying about, and <em>then</em> I can sit down with a worksheet, and then <em>maybe</em> I can focus on it. But most of the time, there's just too much other stuff in my head. The only time I get things done fast is when I know I'm in danger. And that's made it easier to prepare for the Ravelling… But the Waiting God will give us plenty of time. Studying the Codex won't be <em>urgent</em> enough for me to focus."
 
 But in the end, Yali still decided to do it herself.
 
@@ -215,23 +216,23 @@ I settled into watching with Yali work. She was totally absorbed in the Codex, h
 
 Yali didn't have a lot of idle habits, but that just made it easier for me to get engrossed in the little movements she <em>did</em> do. She had her neck stuck out towards the screen, like she was always leaning to get closer. As she read, her face barely moved a centimeter either way – but it did move, in a slow, repeating motion back and forth. When I watched it closely, it was almost a figure-eight, dipping down a little at each side before lifting back up to read in the middle again. I was hypnotized.
 
-It turned out I couldn't stay absorbed in that forever. At some point, the feeling dropped away and I was just stiff and bored again. Irritably, I started pacing around. I wanted to get Yali's attention, but I knew she had a lot to figure out.
+It turned out that I couldn't stay absorbed in that forever. At some point, the feeling dropped away and I was just stiff and bored again. Irritably, I started pacing around. I wanted to get Yali's attention, but I knew she had a lot to figure out.
 
-While I waited, I thought back to what she had told me, about what she'd need to do now.
+While I waited, I thought back to what she had told me, about what we – or she – would need to figure out next.
 
 <bigbreak>
 
-Besides just figuring out where we were going, it was also important to find the locations of the other Ravellers – especially the Alchemist.
+Besides just finding where we were going, it was also important to find the other Ravellers – especially the Alchemist.
 
-There were three other Ravellers in the Otherworld with us – the Imminent, the Justicar and the Alchemist. Each of them was going to have their own abilities, motivations, and dangers or opportunities they'd create for us.
+There were three other Ravellers in the Otherworld with us: the Imminent, the Justicar and the Alchemist. Each of them was going to have their own abilities, motivations, and dangers or opportunities they'd create for us.
 
 The Imminent was with the Seeking God. When Yali had told me about the previous Imminents, she hadn't gone into detail at first, because they didn't usually affect the whole Blood Child/Farseer thing. But <em>I</em> had asked about them, because they got the coolest powers. They got a different random power every year – she'd told me about one who could turn invisible and walk through walls, one who could shapeshift into any animal, and one who could eat literally anything and absorb its properties. Of course, <em>this</em> year's Imminent wouldn't be able to do any of those things, because they never got the same power twice. And they were almost always temperamental. Half the time, the Imminent would either ignore everyone else and run off to experiment with weird magic stuff, or they'd constantly provoke the other Ravellers, just to see what would happen. Still, I couldn't wait to see what this year's Imminent would be like.
 
 Then, there was the Justicar. The Justicar was the Stern God's champion, so it was pretty obvious what <em>they'd</em> be like. They'd probably act like they owned the place and try to make everyone else do what they told them to. Yali said the Justicar was a powerful warrior, and usually tried to protect the Farseer from the Blood Child. So it was going to be interesting to see how <em>that</em> would turn out. Not that I was looking forward to it.
 
-And finally, there was the Alchemist. The Alchemist was a big mystery, just like the Broken God in general. Even the way Yali had described them was pretty mysterious. First, she'd said that the Alchemist often had a pivotal role, setting the whole direction of the Ravelling. But when I asked her what they actually <em>did</em> to "set the direction of the Ravelling", she had said they didn't necessarily <em>do</em> anything at all. I couldn't get a straight answer out of her.
+And finally, there was the Alchemist. The Alche&shy;mist was a big mystery, just like the Broken God in general. Even the way Yali had described them was pretty mysterious. First, she'd said that the Alchemist often had a pivotal role, setting the whole direction of the Ravelling. But when I asked her what they actually <em>did</em>, she had said they didn't necessarily <em>do</em> anything at all. I couldn't get a straight answer out of her.
 
-Either way, though, Yali was convinced that the Alchemist was important. And there was one other thing that was different about the Alchemist: The Broken God didn't give the Alchemist any knowledge or sense of purpose at all. According to Yali, the rest of the gods <em>did</em> do that – so even if I hadn't known I was the Blood Child, I would have known it as soon as I was pulled into the Otherworld, because of the magic. And I'd have been ready to go do Ravelling stuff, too. <em>Our</em> gods made sure we wouldn't get too shaken up from being pulled out of our lives on Earth. But each Alchemist just got thrown into the Otherworld unprepared, like a regular human.
+Either way, though, Yali was sure that the Alchemist was important. And there was one other thing that was different about the Alchemist: The Broken God didn't give the Alchemist any knowledge or sense of purpose at all. According to Yali, the rest of the gods <em>did</em> do that – so even if she hadn't told me I was the Blood Child, I would have known it by magic, as soon as I landed in the Otherworld. And I'd have been ready to go do Ravelling stuff, too. <em>Our</em> gods made sure we wouldn't get too shaken up from being pulled out of our lives on Earth. But each Alchemist just got thrown into the Otherworld unprepared, like a regular human.
 
 So the sooner we found the Alchemist, the sooner we could help them deal with the transition. And for whatever weird, Broken-God importance the Alchemist had, Yali wanted them to hear our side of the story first, rather than getting their introduction from the Justicar or the Imminent. That made a lot of sense. It was hard to predict what the Alchemist would be like, because they would just be whoever they were before, and that could be pretty much anybody. But no matter who they were, it would be no good for some random person to get magic powers and then get convinced that the <em>Stern God</em> had the right idea of what to do. So it would be a big help if we were the first ones to find them.
 
