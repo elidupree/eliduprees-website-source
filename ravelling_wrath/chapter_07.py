@@ -37,11 +37,11 @@ Yali spoke again, matching the Justicar's severe tone. "Rinn is no ordinary Bloo
 
 <em>Well, hopefully,</em> I thought.
 
-"I do not understand," said the Justicar, not yielding a millimeter.
+"I do not understand," said the Justicar, not yield&shy;ing a millimeter.
 
 "Then I will explain. Through your connection with the Stern God, you have received the knowledge that the Blood God would endanger me. But the Blood God's will is very different from <em>Rinn's</em> will. She has no intention of acting on the Blood God's violence."
 
-The Justicar's face flickered with doubt. "A nonviolent Blood Child…" she mused. Well, I wouldn't exactly have called myself <em>nonviolent</em>, but I wasn't going to mention that in front of <em>her</em>. "But she still represents the rejuvenation of the Blood God. If it regains its strength…"
+The Justicar's face flickered with doubt. "A non&shy;violent Blood Child…" she mused. I wouldn't exactly have called myself <em>nonviolent</em>, but I wasn't going to mention that in front of <em>her</em>. "But she still represents the rejuvenation of the Blood God. If it regains its strength…"
 
 "Then it will rejuvenate from <em>Rinn's</em> soul. It will be influenced by her, just as much as it tries to influence others," said Yali. The Justicar hesitated. "I know it may be hard to understand, but you will understand in time. For now, I ask that you support me in handling the Blood Child how I have chosen." Yali held out her hand again.
 
@@ -49,7 +49,7 @@ After only a moment more in doubt, the Justicar straightened up, proud and profe
 
 "Blood Child, do you swear that you will not harm the Farseer?"
 
-I couldn't stand having some intimidating stranger demand that I swear to stuff, but I was supposed to make a good impression on her. And it wasn't like that was something I'd have a hard time swearing to. I put on my most solemn voice. It probably didn't sound completely sincere, because I hardly ever did anything solemn. But I was doing my best. "I swear before all the gods that I will not harm Yali," I said. I opened my hands to show that I wasn't planning to hurt anyone, and added, "Look, I love her. There's no way I could hurt her, it would tear me apart."
+I couldn't stand having some intimidating stranger demand that I swear to stuff, but I was supposed to make a good impression on her. And I hardly had a problem swearing to <em>that</em>. I put on my most solemn voice. "I swear before all the gods that I will not harm Yali," I said. It probably didn't sound completely sin&shy;cere, because I hardly ever did anything solemn. But I was doing my best. I opened my hands to show that I wasn't planning to hurt anyone, and added, "Look, I love her. There's no way I could hurt her, it would tear me apart."
 
 "Very well." The Justicar held out her hand. I shook it.
 
@@ -61,7 +61,7 @@ I couldn't stand having some intimidating stranger demand that I swear to stuff,
 
 Travelling with Justicar was, at least, something <em>new</em> to be annoyed about.
 
-She mostly just sat there stiffly and watched us. Occasionally, she stepped in to work with Yali in mapping out the upcoming stars. To my annoyance, she actually seemed to understand the Codex <em>better</em> than Yali did! I couldn't really be sure because I didn't understand any of the technical stuff they were talking about, but every time they disagreed with each other, Yali seemed vague and confused while Justicar had a concise and specific description of everything. Yali was still more efficient at using the telescopes, but only because Justicar absolutely refused to use our extra, stolen copies. She only used the one that was built into the star. Yali seemed happy enough to leave that one for Justicar and use the others herself.
+She mostly just sat there stiffly and watched us. Occasionally, she stepped in to work with Yali in mapping out the upcoming stars. To my annoyance, she actually seemed to understand the Codex <em>better</em> than Yali did! I couldn't really be sure, because I didn't understand it either, but every time they disagreed with each other, Yali seemed vague and confused while Justicar was concise and specific. Yali was still faster at using the telescopes, but only because Justicar refused to use our extra, stolen copies. She only used the one that was built into the star. Yali seemed happy enough to leave that one for Justicar and use the others herself.
 
 Other than that, Justicar never seemed to want to talk about anything. And not for lack of trying on my part. The first thing I'd tried was just acting casual, saying, "So, what's it like being the Justicar?"
 
@@ -93,7 +93,7 @@ She ignored me.
 
 Another while later, I had another thought. "Wait a minute, if you never draw your sword, how do you practice?"
 
-"Though many things require practice, this one does not. Should a tragedy occur wherein I am forced to draw my sword, the Stern God's guidance will be enough. And I certainly would not practice in front of <em>you</em>."
+"Though many things in life require practice, this one does not. Should a tragedy occur wherein I am forced to draw my sword, the Stern God's guidance will be enough. And I certainly would not practice in front of <em>you</em>."
 
 "Okay, but you should totally practice with Yali!"
 
@@ -105,15 +105,15 @@ That seemed to get under her skin a little. "That – the Farseer should not hav
 
 "Yeah, but if she does, wouldn't you want –"
 
-"Besides, the only one who seems likely to endanger the Farseer is <em>you</em>. Are you implying that you might do such a thing?"
+"Besides, the only one who seems likely to endan&shy;ger the Farseer is <em>you</em>. Are you implying that you might do such a thing?"
 
-"Of course not! But in this <em>hypothetical</em> situation you <em>seem to be imagining</em> where I do, wouldn't you prefer it if –"
+"Of course not! But in this <em>hypothetical</em> situation you're <em>imagining</em> where I do, wouldn't you prefer it if –"
 
 "Rinn," said Yali warningly.
 
 "Okay, fine." Right, this was one of the things Yali had warned me about. She'd said I shouldn't encourage Justicar to think about me attacking her. I decided to shut up. Justicar seemed satisfied with that, which was… both frustrating and a relief, I guess. I didn't like letting her win, but if she just stayed out of the way and kept thinking annoying things all by herself, that wasn't my biggest problem.
 
-It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I ended up sleeping sitting up too, staring right back at her. We sat that way for the whole "night", and my eyes got to inspect Justicar's face for longer than I would have ever wanted. Deep into the hours, I found myself noticing something I had missed before. Even though her rigid posture had seemed effortless at first, the lines in her face made her look like someone who was very, <em>very</em> tired.
+It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I slept sitting up too, staring right back at her. We sat that way for the whole "night", my eyes locked onto Justicar's face for longer than I would have ever wanted. Deep into the hours, I found myself noticing something I had missed before. Even though her rigid posture had seemed effortless at first, the lines in her face made her look like someone who was very, <em>very</em> tired.
 
 <bigbreak>
 
@@ -123,11 +123,11 @@ Today, Yali was doing her Seeing, as usual. Justicar was sitting up straight on 
 
 Getting stiff, I shifted in my chair. Justicar moved her own chair slightly, to make sure I wasn't getting closer than she was. "Stern take it," I muttered. Maybe she was a little closer than me now. But I wasn't <em>that</em> picky. I rolled over and got comfortable again.
 
-"Why do you invoke the Stern like that?" said Justicar, unexpectedly breaking her silence.
+"Why must you invoke the Stern like that?" said Justicar, unexpectedly breaking her silence.
 
 "What, when I say 'Stern take it'?"
 
-"If you do not revere the Stern, there is little purpose in using its title."
+"It is irreverent to the Stern. And if you do not revere the Stern, there is little purpose in using its title."
 
 "It's just something people say! Not everything is about the gods and their <em>principles</em> all the time!"
 
@@ -137,7 +137,7 @@ I snorted. "What do you expect me to say, like, 'By my blood!' or some shit?"
 
 "That <em>would</em> be –"
 
-"But that's so <em>old-fashioned</em>!" I complained. "I'd sound like, like, a cultist from some movie or something –"
+"But that's so <em>old-fashioned</em>!" I complained. "I'd sound like a cultist from some movie or something –"
 
 "Blood worship is a far more serious matter – and a greater danger to the city – than it is portrayed in popular culture –"
 
@@ -153,19 +153,19 @@ I jumped up, every part of me snapping to alert. "What's coming? Where?"
 
 "A, a – a human!" Yali pointed wildly towards the sky. "Very fast, going to crash!"
 
-"A human from the sky?" I confusedly looked where she was pointing, but didn't see anything. But Justicar was already in action. She raised her arms in front of her, in a powerful stance. All around us, a steel dome began to form, with a rigid network of supporting bars making it look almost impossible to break. Where in the Endless did she learn to manifest like that?! I could make some pretty big stuff, but something the size of the entire star was way beyond me. And she did it without even touching the stuff she was creating.
+"A human from the sky?" Confused, I looked where she was pointing, but didn't see anything. But Justicar was already in action. She raised her arms in front of her, in a powerful stance. All around us, a steel dome began to form, with a rigid network of supporting bars making it look almost impossible to break. Where in the Endless did she learn to manifest like that?! I could make some pretty big stuff, but something the size of the entire star was way beyond me. And she did it without even touching the stuff she was creating.
 
-My heart was pounding. I hardly knew what was happening – but there was one thing I knew for sure. "Hey, stop that!" I yelled to Justicar. "Whoever's coming is gonna smash into this! You'll get them killed!" Justicar barely noticed me, so I jammed a Blood Blade into the structure of the partially-formed dome, disrupting how she was building it.
+My heart was pounding. I hardly knew what was happening – but there was one thing I knew for sure. "Hey, stop that!" I yelled to Justicar. "Whoever's coming is gonna smash into this! You'll get them killed!" Justicar barely noticed me, so I jammed a Blood Blade into the structure of the partly-formed dome, to disrupt how she was building it.
 
-"What do you propose?" she said sharply. All her muscles were tensed up as she concentrated on keeping the dome intact.
+"What do you propose?" she said sharply, still con&shy;centrating on keeping the dome intact.
 
 "I don't know, what about catching them in a big net? Or, like, a trampoline –"
 
-"Do it then – we don't have much time!" Justicar dropped her hands to her sides, allowing the dome to fall to pieces and vanish. Frantically, I filled the space by manifesting a big trampoline.
+"Do it then – we don't have much time!" Justicar dropped her hands to her sides, allowing the dome to vanish. Frantically, I filled the space by manifesting a big trampoline.
 
 "They'll bottom out on that!"
 
-"I fucking know that! We'll put it up at an angle so it catches them in midair –" I followed where Yali was pointing, and heaved the trampoline up at an angle, barely keeping it steady with my arms. "Now support this with some of your metal bars!"
+"I fucking know that! We'll put it up at an angle so it catches them in midair –" I followed where Yali was pointing, and heaved the trampoline up at an angle, barely keeping it steady with my arms. "Now support this with your metal bars!"
 
 "Fine!" Justicar raised her arms again, and more metal beams snapped into place, holding up half the trampoline. "Move over, you're in the way of the other side –"
 
@@ -173,7 +173,7 @@ My heart was pounding. I hardly knew what was happening – but there was one th
 
 "That's a weak structure, you need to reinforce it with –" Justicar stepped towards me, arms held out to add to my work –
 
-"GET DOWN!!!" yelled Yali. She grabbed my arm and threw me with her full weight, sending me tumbling off towards the edge of the star. And then everything exploded.
+"GET DOWN!!!" yelled Yali. She grabbed my arm and threw me with her full weight, sending me tumbl&shy;ing towards the edge of the star. And then everything exploded.
 
 In an instant, an overwhelming pain had smashed through limbs I didn't know I'd had. And then after the first shock, there was a burning so strong it brought tears to my eyes. But then my own fire surged up inside of me. I wouldn't be beaten so easily. Biting back the pain, I forced myself to climb to my feet and look back at the wreckage.
 
@@ -181,7 +181,7 @@ Belatedly, the sounds echoed into my mind. The loud snap of the Blood Blades sha
 
 He lay sprawled on the floor, a mass of blood with one arm torn open and one leg twisted at a horrible angle under him. Massive burn marks covered his clothing and half his chest. My heart caught in my throat as I struggled towards him. For an awful moment I was sure he was dead.
 
-Then he opened his mouth and screamed, a deafening scream that stabbed at my eardrums and threatened to split my head open.
+Then he opened his mouth and screamed, a scream that stabbed at my eardrums and threatened to split my head open.
 
 Justicar didn't delay an instant. She was already standing over him. In a flash, heavy bindings tightened around the bleeding arm. The next moment, more steel slammed into existence around all his arms and legs, locking him in place and yanking the broken leg back around to its natural place.
 
@@ -211,7 +211,7 @@ I pulled my hand back and sat on the floor, exhausted. "I… I gave him some of 
 
 "That doesn't make any sen–" Justicar interrupted herself. "Thank you for… whatever you did. Now please, stay out of the way."
 
-I wasn't planning to move anyway, but I couldn't just let that stand. "What makes you think you have the right to tell me what to do?" I said forcefully.
+I wasn't planning to move anyway, but I couldn't just let that stand. "What gives you the right to tell me what to do?" I said forcefully.
 
 Justicar didn't look away from the fallen human. "Farseer, is he stable? Is there more we need to do?"
 
