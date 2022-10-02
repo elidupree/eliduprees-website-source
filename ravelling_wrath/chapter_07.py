@@ -215,9 +215,9 @@ I wasn't planning to move anyway, but I couldn't just let that stand. "What give
 
 Justicar didn't look away from the fallen human. "Farseer, is he stable? Is there more we need to do?"
 
-Yali stepped up beside me and looked at him intently. Was she looking into the future? Her eyes had that same glazed look. "He is… not at risk of more physical harm," she said, still looking. After another moment, she added, "You should release the restraints."
+Yali crouched beside me, peering at him intently. Was she looking into the future? Her eyes had that same glazed look. "He is… not at risk of more physical harm," she said, still looking. Moments later, she added, "You should release the restraints."
 
-"I understand." Justicar allowed the metal bands to awkwardly lower his limbs to the floor, then disappear. Once she was satisfied that he wasn't going to hurt himself, she turned back to me. "To answer your question, <em>someone</em> needs to be responsible in a crisis situation. Had you listened to me the first time, the trampoline would have been adequately reinforced. But instead, –"
+"I understand." Justicar allowed the metal bands to awkwardly lower his limbs to the floor, then disappear. Once she was satisfied that he wasn't going to hurt himself, she turned back to me. "To answer your quest&shy;ion, <em>someone</em> needs to take responsibility for in a crisis situation. Had you listened to me the first time, the trampoline would have been adequately reinforced. But instead, –"
 
 "Are you fucking kidding me!! If I'd –"
 
@@ -259,13 +259,13 @@ With one hand still holding the sandwich, Morrow waved dismissively with the oth
 
 Morrow smiled tauntingly. "You gonna stop me?"
 
-This was great. I couldn't resist watching Morrow mess with her. She took herself so seriously, and he completely blew her off, it was amazing. Apparently Yali didn't think so, though, because she quickly stepped up to spoil the fun. "Before we all argue, at least we should introduce ourselves. I'm Yali, and –"
+This was great. I couldn't resist watching Morrow mess with her. She took herself so seriously, and he completely blew her off, it was amazing. Apparently Yali didn't think so, though, because she promptly stepped up to spoil the fun. "Before we all argue, at least we should introduce ourselves. I'm Yali, and –"
 
 "Yaliiiii! Nice't'meet'cha, wow, your mind is even better up close! I smelled it from space, but wow, that's a real emotional shell you've got there! Multi-layered and everything! I wonder what happens when it breaks??"
 
 For a moment, we were all stunned into silence.
 
-"You can smell people's minds??" I said, flabbergasted.
+"You can smell people's minds??" I said, flabber&shy;gasted.
 
 Justicar sized him up, frowning. "An Imminent with powers of the mind? Be warned, if you defile the mind of anyone here, your life is forfeit."
 
@@ -311,23 +311,23 @@ Right away, he started showing off all kinds of manifesting tricks. He didn't <e
 
 "Whatever, this is getting boring," said Morrow. "Check out this one!" He waved a hand.
 
-Suddenly, there was an awful squawking right behind me. I jumped and whirled around. Then I heard Morrow laughing. He had manifested a phone and a big speaker system right behind my head!
+Suddenly, there was an awful squawking right behind me. I jumped and whirled around. Then I heard Morrow laughing. He had manifested a set of speakers right behind my head!
 
 "Hey!" I said. "How come you and Justicar can manifest things wherever you want, but I can only manifest things I'm touching?"
 
-"Justicar can do that??"
+"Justicar can do <em>what</em>??"
 
-"Didn't you just –" I noticed that there was another wire leading from the speakers all the way back to Morrow's hand. So he <em>had</em> manifested something he was touching, it was just that the "thing" was "a phone AND a speaker AND a really long wire that doesn't do anything". "Wow, that's genius!" I said. I tried to do the same thing back to him, but it didn't work for me. "Why can't I do that? No fair! I thought <em>I</em> was supposed to have powerful manifesting!"
+"Didn't you just –" Then I noticed the wire Morrow was holding. He <em>had</em> manifested something he was touching – it was just that the "thing" was "a set of speakers <em>with a long cord that was plugged into his phone</em>". "Wow, that's genius!" I said. I tried to do the same thing back to him, but it didn't work for me. "Why can't I do that? No fair! I thought <em>I</em> was supposed to have powerful manifesting!"
 
-"Powerful, yes. Adaptable, perhaps not," said Justicar.
+"Powerful, yes. Adaptable, perhaps not," Justicar replied.
 
 "Yeah, fuck you too." I turned to Morrow. "I'll prank you back somehow!"  I ran at him and started chasing him around the star. He was quick, but he kept slipping and falling on the slippery floor. <em>I</em> had already gotten used to the limits of how fast I could run, so I caught up to him easily.
 
-Just when I had cornered him at the edge of the star, he manifested a foam sword and pointed it at me. I made my own foam sword just like it. Then I had an idea. I turned to Yali. "So, this <em>hostile intent</em> thing… What if we fought with <em>real</em> swords? I mean, we won't <em>intend</em> to hurt each other for real, so if we make a mistake and –"
+Just when I had cornered him at the edge of the star, he manifested a foam sword and pointed it at me, striking a duelist pose. So of course, I made my own foam sword to challenge him. Then I had an idea. I turned to Yali. "So, this <em>hostile intent</em> thing… What if we fought with <em>real</em> swords? I mean, we won't <em>intend</em> to hurt each other for real, so if we make a mistake and –"
 
-"<em>Don't do that!</em>" said Yali and Justicar simultaneously. Yali continued, explaining, "It's <em>hard</em> to get permanently hurt without hostile intent, but it's not <em>impossible</em>. If your body is damaged enough that you have to manifest new flesh instead of just stitching your old flesh back together, the new flesh will disappear when you get back to the material world. And if you deliberately swing a real weapon at someone, I'm not sure, but that might count as hostile intent, and damage their soul, even if –"
+"<em>Don't do that!</em>" said Yali and Justicar at the same time. Yali firmly explained the caveats. Even if you didn't damage the soul, you could still damage the body, and if you had to manifest new flesh to replace the damage, then the new flesh would disappear when you got back to the material world. And the act of swinging a real weapon at someone might even count as hostile intent of you weren't careful. Yali was pretty insistent – she must've thought I was going to be reckless.
 
-"Yeah, fine, I won't do anything stupid," I said. I turned back towards Morrow. But he was already waiting for me, and he bopped me on the head with his foam sword before I could do anything. "Alas! For I am slain!" I joked along, manifesting a spurt of fake blood from my head. "But I'll take you down with me!!" I tackled Morrow and pulled him over the edge with me.
+"Yeah, fine, I won't do anything stupid," I said. I turned back towards Morrow. But he was ready for me, and he bopped me on the head with his foam sword before I could do anything. "Alas! For I am slain!" I joked along, manifesting a spurt of fake blood from my head. "But I'll take you down with me!!" I tackled Morrow and pulled him over the edge with me.
 
 Once got his bearings, he grinned. "So we have a whole empty side to work with! Amazing, let's build a castle!" He started manifesting a stone tower and gateway, but it kept falling apart while he was manifesting it.
 
