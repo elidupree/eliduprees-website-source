@@ -1,6 +1,7 @@
-
-
 Unfortunately for my theories, Nochli was definitely evil.
 
 
 [Marvin's had been observing them on public camera feeds, and then expanded into hacking camera feeds. They sometimes descended from their balloon-fortresses on winged creatures, and interrogated random people, using displayed Patterns and whistled commands. We had video from reverted futures of them vivisecting people]
+
+
+[later (maybe even later chapter?) once they can look at more of the history curated by Nochli, the story goes: there was a king who thought he was better than everyone else, who duplicated himself a bunch of times; but Nochli wasn't the king, he was a scribe. As the king duplicated himself, he had also duplicated Nochli, to organize his operations. But the difference between a king and a scribe is, a king isn't accustomed to working efficiently with other people as equals. As the king duplicated himself more and more, resentment began between different factions of the king, but the copies of Nochli always worked together with each other. Soon the Nochlis realized that the king's infighting was slowly getting them wiped out (by better-organized rivals), which would drive them to extinction if Nochli didn't do something, so Nochli worked together to kill all the copies of the king and take over the faction themselves, collectively looking out for the interests of Nochli as a whole. And that's how a scribe and historian ended up being in charge of an entire faction]
