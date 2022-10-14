@@ -49,10 +49,45 @@ Everything happened in an instant. [Aster was close enough that Fuller finally h
 
 [It looked like Kayla and Aster were winning. I stood on the other side of the room, knowing that my most important duty now was to keep control of the gun and keep it away from the fight]
 
+[They duct taped him to a railing, I think]
 
+[Kayla asks about the thing about [Billy], and Aster tells her how he died just before the experiment, when they had only put in an IV with saline]
 
+"Give me the gun."
 
-[They get the text from future Kayla: maybe "My phone buzzed; I wanted to keep talking to Kayla but she told me to check it in case it is important" or "I checked it" or "Kayla checked her phone". Regardless of which, "wait a minute, these are our future selves, the ones doing the experiment? They are not supposed to contact us, doesn't that mean they've just put us in a paradox?"]
+["I haven't taught you to handle guns in this timeline/[apprehensive] what are you going to do?" "I'm going to kill Fuller obviously"]
+
+[Marvin refuses to hand over the gun or kill Fuller ["I can't be responsible for this"? "We've already got him on the ground, we don't have to do this"?]]
+
+["Fine." She turned and stalked towards him]
+
+[Fuller knows what's coming and tries to beg for his life, completely losing his composure – "[[listen to Marvin], you don't have to do this]? I'll do anything you want, I'll let you go, I [release you from whatever hold I have over you], I have lots of money, I'll give you money, I'll give money to whatever charity you want –]
+
+She kicked him in the side of the head.
+
+The human body can withstand an incredible amount of punishment, but when it fails, it fails suddenly and unglamorously. I don't know whether Fuller would have survived even her first kick. [His eyes unfocused, his sentence stopped in the middle without even a panicked raise in pitch near the end. [Discuss the potential for internal bleeding, and how that could be fatal even from just one unlucky hit, how you need to be really careful about head trauma even if someone seems fine] But she didn't stop there. She kicked him again and again; I had to look away; she only stopped when she was physically exhausted]
+
+[Kayla still perpetually angry]
+
+[I wanted to distract her/give her an outlet to get out of the obsessive state she was in –] "Was [Billy] important to you?" I said gently.
+
+["He was just some random kid!"]
+
+[Something like: "But I thought, since, uh, you got so upset when you heard," "that's not the problem!" "What is the problem?"]
+
+[Kayla explains: she was sick of them testing things on her and, because some of them were just clear liquid in IV bags, she started swapping things with saline whenever she could get away with it. So [Billy] was probably killed by one of the things they were trying to test]
+
+[Aster laughs, seemingly oblivious to the trauma, "oh, so THAT'S why he died! I always wondered" [admiringly:] "you single-handedly set back our research by years"]
+
+[...meaning that Kayla WOULD have been killed, but [Billy] died in her place.]
+
+"It's not your fault,"
+
+["Of course it's not my fault! It's HIS fault! [Wait, what are Kayla's actual beliefs here? "Any violence carried out by the oppressed as a reaction to their oppression are primarily the responsibility of the oppressor?" except, at least the younger Kayla would not be inclined to divert responsibility from people who eat meat (contributing to the systematic abuse of animals), even though it's effectively foisted on them by society. And the present Kayla's main difference is that she has more cynicism ("a GOOD person would choose not to eat meat, Ring of JG's style, and the fact that most people do it anyway, means that humanity is largely corrupt, but I no longer spend my effort blaming them because I don't know what can be done about it"). I guess the difference is about what a good person would do – "obviously a good person would be strongly motivated to stop eating meat once they understood", while in the "harm another captive to protect yourself" scenario, it's not obvious that a good person wouldn't do that (maybe because of more equal ratio of harm to benefit – with animals, the animal is harmed by you eating it much more than you would be by not eating it). Maybe Kayla should go through some of this logic out loud (she's very upset, and moral philosophy is her coping strategy)]
+
+[Marvin tries to pull some resolution out of that (à la "the important thing is that it's over now") only to be interrupted by:]
+
+[They get the text from future Kayla: maybe "My phone buzzed; I wanted to keep reassuring Kayla but she told me to check it in case it is important" or "I checked it" or "Kayla checked her phone". Regardless of which, "wait a minute, these are our future selves, the ones doing the experiment? They are not supposed to contact us, doesn't that mean they've just put us in a paradox?"]
 
 [The text message was one word long:]
 
@@ -130,20 +165,25 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 
 
-[Again mention the quality of Ontoh's voice]
+
+
+
+[Marvin turns on the 2-way communication and yells at Ontoh like "you're trapped, don't you dare try anything", voice breaking, clearly terrified of them]
+
+[Again mention the quality of Ontoh's voice; this time it has a resigned/aggrieved tone]
 
 "If you were from the main timeline, you wouldn't be angry. You would be laughing at me for being defeated so easily."
 
 [Chapter break (The Future They Made Us Forget?)]
 
-[I'm not your enemy, I'm not even any danger to you. If I thought you were my enemy, I wouldn't even be talking to you, I would have self-destructed as soon as I saw that you were in control?]
+[(Dripping with the attitude of "of course I've lost,", humiliated-ish but also finding it tiresome that they don't acknowledge it, which is extra humiliating because how did they lose to someone THAT ignorant) I'm not your enemy, I'm not even any danger to you. If I thought you were my enemy, I wouldn't even be talking to you, I would have self-destructed as soon as I saw that you were in control?]
 
 [You killed a room full of people!]
 
-[Yes, I have the ability to do insignificant things like that, but I've heard of you, and you still exist]
+[Yes, I have the ability to do insignificant things like that, but I've heard of you, and you still exist] [I'm happy to cooperate in any way that will help you to believe that I'm not going to attack you again, because that will just waste your important time]
 
 
-[What the hell are you?]
+[What the hell are you? Why are you a box with crab legs??]
 
 [I am a branch of Ontoh, the first true immortal human, one of (greatest of?) the five ruling lineages in the main timeline. Physically, I am an immortal human head piloting one of Nochli's transport-boxes.]
 
