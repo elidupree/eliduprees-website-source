@@ -83,9 +83,11 @@ The human body can withstand an incredible amount of punishment, but when it fai
 
 "It's not your fault,"
 
+["You're just telling me that because you don't want me to feel bad!"]
+
 ["Of course it's not my fault! It's HIS fault! [Wait, what are Kayla's actual beliefs here? "Any violence carried out by the oppressed as a reaction to their oppression are primarily the responsibility of the oppressor?" except, at least the younger Kayla would not be inclined to divert responsibility from people who eat meat (contributing to the systematic abuse of animals), even though it's effectively foisted on them by society. And the present Kayla's main difference is that she has more cynicism ("a GOOD person would choose not to eat meat, Ring of JG's style, and the fact that most people do it anyway, means that humanity is largely corrupt, but I no longer spend my effort blaming them because I don't know what can be done about it"). I guess the difference is about what a good person would do – "obviously a good person would be strongly motivated to stop eating meat once they understood", while in the "harm another captive to protect yourself" scenario, it's not obvious that a good person wouldn't do that (maybe because of more equal ratio of harm to benefit – with animals, the animal is harmed by you eating it much more than you would be by not eating it). Maybe Kayla should go through some of this logic out loud (she's very upset, and moral philosophy is her coping strategy)]
 
-[Marvin tries to pull some resolution out of that (à la "the important thing is that it's over now") only to be interrupted by:]
+[Marvin tries to pull some resolution out of that (à la "the important thing is that it's over now"… Maybe "but it's over now, Fuller's dead, right? We're not going to time travel and make him come back to life, ...right??") only to be interrupted by:]
 
 [They get the text from future Kayla: maybe "My phone buzzed; I wanted to keep reassuring Kayla but she told me to check it in case it is important" or "I checked it" or "Kayla checked her phone". Regardless of which, "wait a minute, these are our future selves, the ones doing the experiment? They are not supposed to contact us, doesn't that mean they've just put us in a paradox?"]
 
@@ -165,6 +167,19 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 
 
+
+["So the plan is:
+– write a program to autocapture Ontoh at the scheduled moment and set up a stable time loop causing the experimental group to go back and run the program themselves; we go back in time and run that program the first time
+– to make sure the timing of Ontoh following the experiment group is exact, make sure they have the exact same history as the FIRST experiment group, by not having the program tell them to do the loop until after they've taken the antidote, and…
+– Wait, how do we know whether the first experiment group experienced Fuller going for the time machine or not?? What if we go back, and Fuller still hears of the experiment, but the first experiment group DIDN'T experience that, so now they have a paradoxical history and get reset again, undoing our work in capturing Ontoh (because the new instance of the experiment group may have different timing)? Or what if they DID experience Fuller going for the time machine, but it was because of actions by Ontoh?
+
+[They use the cameras to figure out exactly how Fuller heard about it – getting texted by one of the assistants. [Cross-reference: preestablish that Marvin accesses the cameras exclusively through methods that record which camera data was accessed]]
+
+["argh, we have to come to a decision before the hostage Marvin comes up with something!" Maybe the hostage Marvin calls the police, creating time pressure? "The only way to be sure the first experimental group doesn't cause a paradox is if we delete/replace them and make US the canonical version. How is that not a paradox? Because we can replay all of the cameras we've looked at and replay the text Fuller received! Then everything from OUR perspective will happen the same way in the next iteration. But then they won't be there for Ontoh to follow… We have to pretend to be them! Repeat all of their actions! That's the only way we know what Ontoh would do (otherwise Ontoh might hang out in the corridor for too long, which is a bad place to capture them)". Narration: Maybe if we'd had more time to think, we would have come up with a less risky plan]
+
+
+
+[The horror of pretending to have a normal conversation while you can see the monster out of the corner of your eye but have to pretend that you can't see the monster]
 
 
 
