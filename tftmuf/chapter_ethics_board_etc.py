@@ -191,9 +191,15 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 "But then destroying the entire universe would be a morally neutral act" [because no one suffers afterwards]
 
-"Yes. Destroying the entire universe is a morally neutral act."
+A: "Yes. Destroying the entire universe is a morally neutral act."
 
 [Something like [I feel like I've forgotten the proper way to state this though]: Moral statements generally runs from someone considering two possible ways things could go and decide that they like one of them better than the other, yes? But if you destroy the entire universe, there is no one who can make that comparison]
+
+K: it's definitely not neutral. The goodness of the world is the total amount of satisfaction minus the total amount of suffering, across all sentient beings. Right now, there's more suffering than satisfaction in the world, so destroying the entire universe would be a good act. If we can make there be more satisfaction than suffering, then destroying the entire universe would be an evil act.
+
+A: but there's no way to measure different people's satisfaction and suffering against each other; all we have are individual preferences, and if you destroy the universe, there are no longer any individual preferences to agree or disagree with
+
+
 
 
 [Ethics of going back in time and repeating someone's suffering – does the suffering count twice, or once, or zero times? Ontoh says it only counts if it isn't reverted]
@@ -208,7 +214,7 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 
 
-[Somewhere: how should we think of Ontoh, who is essentially a slaveowner who grew up in a society of slaveowners? Ontoh believes it's the inevitable order of the world, and trying to stop slavery from happening is foolish (in Huvinthu it was only banned because of worries about rebellions). Marvin(?) agonizes about whether they're a product of their society; Kayla insists that]
+[Somewhere: how should we think of Ontoh, who is essentially a slaveowner who grew up in a society of slaveowners? Ontoh believes it's the inevitable order of the world, and trying to stop slavery from happening is foolish (in Huvinthu it was only banned because of worries about rebellions). Marvin(?) agonizes about whether they're a product of their society; Kayla insists that they are Evil ("you can just look at what's happening and figure out what's good and evil! I can tell that my own society is evil [in the treatment of prisoners, children, animals, etc.], so they can tell that their society is evil, they just choose not to")]
 
 
 

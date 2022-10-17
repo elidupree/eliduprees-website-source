@@ -132,7 +132,7 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 [Duct tape, a screwdriver ("you always need one of these in escape room games")]
 
-[They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") With everything we're buying, this is thousands of dollars! How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
+[They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") and 2TB flash drives for bringing video data back in time. With everything we're buying, this is thousands of dollars! How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 
 
 
@@ -163,23 +163,25 @@ As always, Kayla saw the problem immediately. "What happens if you say <em>exact
 
 "This must be what it feels like to read the code of the Therac-25." [Shaking my head?]
 
-["The what?"; explanation of the Therac-25, "my professor said, this is why us software engineers need to take our responsibilities seriously"]
+["The what?"; explanation of the Therac-25 (but "I'll spare you the gruesome details" "hiding the details is wrong, it's like pretending they didn't happen!" I shuddered. "you can look them up yourself if you want to"), "my professor said, this is why us software engineers need to take our responsibilities seriously"]
 
 
 ["There's no way I can make sense of these notes. But you know who can? Aster..." Kayla doesn't like that. "Okay I know you have good reasons to not like that, but ?????. Also remember the other Kayla said maybe he is not evil?"]
 
 ["No she said maybe it's more complicated than that" but Kayla was definitely considering it. "But we can't just go talk to him, the only thing keeping us safe is the fact that they don't know we've already time traveled. If we talk to him, what if he calls Fuller and then Fuller uses his keycard and goes back in time to stop us?"]
 
-["Well." Time to think about precautions! Eventually: "we could stay in the time machine room and call him, so if anything else happens we can go back in time again" "but then he could do anything he wants off camera – wait, is there a camera in his office?" There isn't, but we could PUT one in his office "wait, what if we come him before work? [They check the schedule] darn it, he talks to Fuller 2 minutes before Fuller talks to Marvin, so we basically can't contact him before he gets to his office" "we could have one of us wait in the time machine room, so if Fuller shows up -- "we can't wait IN the time machine room, we need to leave it open for us to come out of later, but we can wait NEAR it"]
+["Well." Time to think about precautions! Eventually: "we could stay in the time machine room and call him, so if anything else happens we can go back in time again" "but then he could do anything he wants off camera – wait, is there a camera in his office?" There isn't, but we could PUT one in his office "wait, what if we call him before work? [They check the schedule] darn it, he talks to Fuller 2 minutes before Fuller talks to Marvin, so we basically can't contact him before he gets to his office" "we could have one of us wait in the time machine room, so if Fuller shows up -- "we can't wait IN the time machine room, we need to leave it open for us to come out of later, but we can wait NEAR it"]
 
-
-
-[Kayla wants to do backup plans where they might cease to exist, seems unconcerned about it, while Marvin is very worried. Finally Marvin gets the idea and asks: "do you <em>want</em> to cease to exist?"]
+[Kayla wants to do backup plans where they might cease to exist, seems unconcerned about it, while Marvin is very worried. ("And so if anything that happens, we can go back in time and get prepared for it" "no, we should go back in time and make it so we don't talk to Aster in the first place" "but that means we'd cease to exist!" "We can do the same thing they did, we can take full video recordings of what were doing, so the new versions of us will have all the information") Finally Marvin gets the idea (puts this together with how video Kayla felt?) And asks: "do you <em>want</em> to cease to exist?"]
 
 "I'm not going to kill myself," she said decisively. "[If I kill myself then I'm letting the bad guys win]"
 
 [She left the significant thing unspoken: the fact that she had spent enough time to thinking about it to have a clear answer. [" But when someone has a clear, decisive answer, that's because they've [spent a lot of time thinking about it/considering it]"]]
 
+["I'm sorry" "stop that./[Sarcastically] let's all feel bad for Kayla. We need to plan this out. Look, will you at least admit that it's better to do the stable time loop thing than to just die the regular way?"]
 
-[]
+[I guess so]
 
+["Then we should at least keep the video recordings as a backup plan!"]
+
+[I agreed, but I was uncomfortable with it]
