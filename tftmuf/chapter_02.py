@@ -1,3 +1,5 @@
+[Chapter title: It's Safe, Right? My Future Self Told Me So]
+
 [????? Reestablish scene, maybe mention more details here]
 
 She continued in that same, dead-tired voice.

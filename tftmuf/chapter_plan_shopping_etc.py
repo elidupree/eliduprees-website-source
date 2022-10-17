@@ -1,3 +1,12 @@
+[Chapter title: The Ring of Gyges?]
+
+
+"What's 'threat modeling'?"
+
+"It's a computer security thing. [Explanation, with examples: maybe a random hacker is trying to steal your money; maybe the NSA is trying to spy on everyone; maybe an abusive partner wants to snoop on you. In this context… One adversary is the evil scientists, so we need to think about what their abilities are. They have uncertain amounts of mind control over the uninitiated, they have the time machine but only if they can get into the room with it – I can keep the doors locked, but there's a "master keycard" that can get to any of the doors; Fuller will probably have that. The other threat is the possibility of paradoxes [go over any general mitigations that weren't discussed in previous chapter] Meanwhile, our resources are: I have all the scripts the other Marvin wrote, and I can write more,]
+
+[... which inevitably leads into the discussion of what their actual plan needs to be:]
+
 [Maybe the other Marvin had seen things in a different way than I did, to be willing to kill the scientists; he had been plenty angry at the scientists and they were certainly evil enough, and he had made the decision himself. But for me, my first exposure to it was when I saw our future selves, with Marvin looking so devastated, and Kayla looking so [uhh... brutally pragmatic?]. Having it put right in my face, that we had already killed them, maybe it made part of me think about how we would have to live with that, instead of / When you're in the middle of a fight, you don't think ahead as much, but when you see the aftermath to begin with,]
 
 [Can we at least try going to the police?]
@@ -53,15 +62,15 @@
 "Fine."
 
 
-[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable?]
+[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable? If we take the car, we could affect traffic… Should we walk? They try to walk, but Kayla struggles to walk even as far as the car, so they take the car]
 
 
 
-[Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see:]
+[Kayla sees a coyote on the way to the store [waiting next to the car when Marvin is about to get out] and has to point out to Marvin, they start to think about how there could be things that they still can't see:]
 
 ["Hey! Watch out!"]
 
-[Kayla was pointing. At first I didn't see anything where she was pointing at, it was just part of the road. But I kept looking, trying to grasp what it was. There was a coyote there/the face of a coyote, not like it appeared out of nowhere, more like it had been there all along and somehow my eyes had just skipped over it. With purple and white stripes, like the Pattern. Holy crap! I yelled and shooed it away (waving an object?) and it ran off]
+[Kayla was pointing. At first I didn't see anything where she was pointing at, it was just part of the road. But I kept looking, trying to grasp what it was. There was a coyote there/the face of a coyote, not like it appeared out of nowhere, more like it had been there all along and somehow my eyes had just skipped over it. With purple and white stripes, like the Pattern. Jesus Christ! I yelled and shooed it away (waving an object?) and it ran off]
 
 ["Were those there all along?"]
 
@@ -95,7 +104,7 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 ["A man named Gyges finds a magic ring that can make him invisible," she began. "..."]
 
 
-[(Kayla strongly believes that she wouldn't be corrupted by the ring)]
+[(Kayla strongly believes that she wouldn't be corrupted by the ring) "if you're a good person then you can recognize what's good and evil, and you can just choose not to do evil"]
 
 
 
@@ -115,7 +124,7 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 "That doesn't count. Stealing from megacorps is a social good."
 
-[But another thought was sneaking into the back of my mind. Sure, maybe I didn't like to upset people. But what about looking through everyone's private photos? What about bank scams where you steal half a cent from every account? If I could have whatever I wanted, and no one would even know that there was something to be upset about…]
+[But another thought was sneaking into the back of my mind. Sure, maybe I didn't like to upset people. But what about looking through everyone's private photos? What about bank scams where you steal half a cent from every account? If I could have whatever I wanted, and no one would even know that there was something to be upset about… I wasn't so sure I wouldn't do that. But I didn't mention that to Kayla. [She was still on a hair trigger/she was a true believer/she clearly wanted me to say that I wouldn't do that, and I didn't want to disappoint her]]
 
 
 
@@ -123,7 +132,7 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 [Duct tape, a screwdriver ("you always need one of these in escape room games")]
 
-[They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
+[They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") With everything we're buying, this is thousands of dollars! How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 
 
 

@@ -78,7 +78,7 @@ I knew I had to [make sure my actions wouldn't be visible on the security camera
 
 "Why are you helping me?" she asked. Not disbelief. A demand for information.
 
-"I – I only just realized this place is holding children!" I hissed. "Of course I want to do something about that!" [????? She stayed still] "Listen, someone's going to come up the stairs anytime now, I saw it on the cameras! ????? I can hide you in my office ?????
+"I – I only just realized this place is holding people against their will!" I hissed. "Of course I want to do something about that!" [????? She stayed still] "Listen, someone's going to come up the stairs anytime now, I saw it on the cameras! ????? I can hide you in my office ?????
 
 [????? She relented and came down the stairs, in a way that was striking a balance between quickness, keeping hold of the tablet she was carrying, and quietness] "I'm trusting you," she hissed back at me, as she passed through the door I was holding. A harsh whisper, the sound of [????? someone who really doesn't trust you]. Her fist clenched tightly around the handle of the scalpel ????? I might meet a very bloody end if I betrayed her. But she followed me ????? [physical description contrasting Marvin (slightly pudgy, thirty-five-year-old) and Kayla, somewhere in this paragraph]
 

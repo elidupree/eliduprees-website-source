@@ -208,6 +208,10 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 
 
+[Somewhere: how should we think of Ontoh, who is essentially a slaveowner who grew up in a society of slaveowners? Ontoh believes it's the inevitable order of the world, and trying to stop slavery from happening is foolish (in Huvinthu it was only banned because of worries about rebellions). Marvin(?) agonizes about whether they're a product of their society; Kayla insists that]
+
+
+
 
 [Ethics of reengineering the phrenochondria to make people stop abusing each other; ethics of removing them (removing them is nonconsensual mind control, but leaving them in is also nonconsensual mind control)]
 
@@ -226,7 +230,7 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 [K : this makes no sense, if you existed for septillions of subjective years, how are you not ahead of us in technology, haven't space travelled, etc.?
 
-But it was already making sense to me. "'Work expands to fill the time available'," I quoted.
+But it was already making sense to me. "'Work expands to fill the time available for its completion'," I quoted.
 
 "What?"
 
@@ -237,7 +241,7 @@ But it was already making sense to me. "'Work expands to fill the time available
 
 [sometime with talking to Ontoh, not sure of ordering]
 
-"What do you think happens if you bring a time machine back in time with you?"
+Ontoh: "What do you think happens if you bring a time machine back in time with you?"
 
 [Uhhhh, do you destroy the fabric of space-time?]
 
