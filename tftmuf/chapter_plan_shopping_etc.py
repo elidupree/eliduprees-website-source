@@ -178,7 +178,7 @@ As always, Kayla saw the problem immediately. "What happens if you say <em>exact
 
 [She left the significant thing unspoken: the fact that she had spent enough time to thinking about it to have a clear answer. [" But when someone has a clear, decisive answer, that's because they've [spent a lot of time thinking about it/considering it]"]]
 
-["I'm sorry" "stop that./[Sarcastically] let's all feel bad for Kayla. We need to plan this out. Look, will you at least admit that it's better to do the stable time loop thing than to just die the regular way?"]
+["I'm sorry [that you've been through that]" "stop that./[Sarcastically] let's all feel bad for Kayla. We need to plan this out. Look, will you at least admit that it's better to do the stable time loop thing than to just die the regular way?"]
 
 [I guess so]
 
