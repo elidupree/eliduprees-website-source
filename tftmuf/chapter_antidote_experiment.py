@@ -1,7 +1,9 @@
 [The plan: they go back in time, schedule a failure message to themselves, and then go to do the experiment; if successful, they cancel the failure message. Thus, in the case of success, the originals perceive the same thing as the new-originals (no message), but in case of failure, the new-originals see the failure message, check what happened, and do a stable time loop to fix it. For the experiment, the plan is for Aster to show up with the current Kayla shortly after the original Kayla escapes, pretending that they've just recaptured the original Kayla, and pulling rank to change the experiment, pretending it's on Fuller's instructions; unbeknownst to them, one of the assistants get suspicious and messages Fuller to ask if it's legit, at which point he goes for the time machines (maybe with the idea of stopping Aster before they start, or even just showing up immediately after the message instead of with a delay]
 
 
+[They're sitting in the "backup" room when Marvin's scripts detect Fuller coming. They rush out to stop him and just barely catch him running in the door to the time machine room; they rush in after him, but then find him standing next to the time machine, pointing the gun at them]
 
+[Chapter break – It's Not Dying If You're Still Alive Afterwards? I Would Lay Down My Life for the Cause, At Least Temporarily?]
 
 
 
@@ -13,7 +15,7 @@ Kayla and Aster exchanged a look [and both stepped forward, spreading out]
 
 To my horror, I realized what they were doing. [If Fuller shot one of them, he wouldn't have any shots left, and then the other 2 of us could rush him, then go back in time so this never happened. If you were willing to sacrifice your own life, so that another version of you would go on…]
 
-
+[Fuller and Kayla yelling at each other to surrender?]
 
 [I didn't dare approach Fuller myself, but maybe, while he was distracted by the others – I (fished in my pocket? Went for the backpack?), With the rough idea of texting one of my previous selves]
 
@@ -95,7 +97,7 @@ The human body can withstand an incredible amount of punishment, but when it fai
 
 "Help".
 
-[Chapter break?]
+[Chapter break? - Something like "Making Decisions Based on Unknowable Evidence"? Or something related to ability to trust a future self who was coerced?]
 
 ["Well if we're already in a paradox, there's no reason we CAN'T look at them [on the cameras]"]
 
@@ -127,6 +129,10 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 "And change the password! Change the password so Marvin can't unlock it again!"
 
+["But he's me, why would –"]
+
+"He's not supposed to be [getting the treatment]! He's been mind controlled!" [She wasn't quite correct [he had only been coerced] but it was close enough]
+
 
 
 [Shouldn't we be going back in time?]
@@ -149,13 +155,15 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 "Marvin, you need to turn off that [video feed] right now! You keep [spacing out], you're clearly seeing/hearing things you can't see, I don't want you to get distracted or die." "But what about needing to watch them?" "Watch the outside of the door!"
 
-
+[I did that; time passed; Kayla started taking the antidote in the chem lab; the terrifying apprehension of what would happen with either Kayla+Aster or Marvin+monster]
 
 ["I've listened to the kill statement and I'm still alive, please come over here and take it yourself, I need your help to make sense of this" ("understood the kill phrase but don't understand the implications")]
 
-[Maybe if it hadn't been in such an high-stakes situation, I would have worried more about things like "possible permanent changes to my personality", but right now I was desperate to understand what was happening to us]
+[Kayla took over watching the experiment room (I guess seeing Ontoh, but not talking to them, so they don't know they can be seen yet), while I ran to the chem lab; Kayla probably mentions that there is something very bizarre to see there, adding to Marvin's curiosity]
 
-[Opening the file labeled "kill phrase DO NOT PLAY THIS.ogg". The somewhat low-quality sound recording, "so you can understand everything now? Why is "you can duplicate yourself with time travel"-ish the kill statement??]
+[Maybe if it hadn't been in such an high-stakes situation, I would have worried more about things like "possible permanent changes to my personality", but right now I was desperate to understand what was happening to us. Running high on adrenaline, barely noticed the pain of the needle being inserted as Aster helped inject me]
+
+[Opening the file labeled "kill phrase DO NOT PLAY THIS.ogg". The somewhat low-quality sound recording, "so you can understand everything now? If I tell you that you can use time machines to duplicate human beings, do you understand me?" "What do you mean, time machines can duplicate human beings?" And then: Why is "you can duplicate yourself with time travel"-ish the kill statement??]
 
 
 
@@ -163,9 +171,9 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 
 
-[Description of Ontoh's voice]
+[Description of Ontoh's voice; Ontoh immediately tells a bunch of lies to convince them they have to let Ontoh out of the room; probably, Marvin is worried that it's true, but Kayla isn't buying it, because she trusts the other Kayla who called for help; Kayla convinces Marvin by pointing out how it's way too convenient, and do you seriously think there's any way we can risk letting that monster out of there?]
 
-
+[Okay we have to do something! High-emotions reasoning/argument about how to deal with this]
 
 
 ["So the plan is:
@@ -179,9 +187,9 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 
 
-[The horror of pretending to have a normal conversation while you can see the monster out of the corner of your eye but have to pretend that you can't see the monster]
+[The horror of pretending to have a normal conversation while you can see the monster out of the corner of your eye but have to pretend that you can't see the monster; explicit dialogue (repeating what the experiment group said) where they mention they are going to go upstairs to do the experiment]
 
-
+[They have gotten ahead of Ontoh, wait for Ontoh to follow and then lock all doors adjoining the corridor at once]
 
 [Marvin turns on the 2-way communication and yells at Ontoh like "you're trapped, don't you dare try anything", voice breaking, clearly terrified of them]
 
@@ -208,6 +216,8 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 [The "ch" was pronounced like in the Scottish <em>loch</em> or the German <em>nacht</em>, making it less like "notch-lee" and more like "NA-hlee". "ˈnɑ.xliː", if you know IPA.]
 
 
+["What about [the lies]?" "Sheer nonsense." "But that's what YOU said!" "I must have been making things up on the spot for temporary advantage." "How can we trust you about anything you say now?" "There is no point in me trying to lie to you in this timeline, where you obviously have the ability to interrogate me using time travel. If I wanted to hinder you, my only rational choice would be total silence. But I expect that you will also want to work against our mutual enemy, so I make myself an open book to you"]
+
 
 [Have you looked out any of the south windows since you freed yourselves?]
 
@@ -216,11 +226,15 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 
 
-[We're not calling it the main timeline. What's it called in your language? Salnthu, and your world could be named after the changes Nochli made, particularly the 'phrenochondria'. Nochli called them 'huvith', named after their word for a fence to keep livestock from wandering out of the field. So your world would be 'huvinthu', meaning 'the fenced-in world']
+
+
+
+
+[We're not calling it the main timeline. What's it called in your language? "Salnthu, and your world could be named after the changes Nochli made, particularly the 'phrenochondria'. Nochli called them 'huvith', named after their word for a fence to keep livestock from wandering out of the field. And when they referred to the timeline they were creating, they called it 'huvinthu', which basically means 'huvith world'." 'the fenced-in world'.]
 
 [M: so we're basically sheep, then?]
 
-[K: I'm not calling my world that]
+#[K: I'm not calling my world that]
 
 
 
