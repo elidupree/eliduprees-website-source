@@ -195,18 +195,26 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 [Again mention the quality of Ontoh's voice; this time it has a resigned/aggrieved tone]
 
-"If you were from the main timeline, you wouldn't be angry. You would be laughing at me for being defeated so easily."
+"If you had grown up in the main timeline, you wouldn't be angry. You would be laughing at me for being defeated so easily."
 
 [Chapter break (The Future They Made Us Forget?)]
 
-[(Dripping with the attitude of "of course I've lost,", humiliated-ish but also finding it tiresome that they don't acknowledge it, which is extra humiliating because how did they lose to someone THAT ignorant) I'm not your enemy, I'm not even any danger to you. If I thought you were my enemy, I wouldn't even be talking to you, I would have self-destructed as soon as I saw that you were in control?]
+[(Dripping with the attitude of "of course I've lost,", humiliated-ish but also finding it tiresome that they don't acknowledge it, which is extra humiliating because how did I lose to someone THAT ignorant) I'm not your enemy, I'm not even any danger to you. If I thought you were my enemy, I wouldn't even be talking to you, I would have self-destructed as soon as I saw that you were in control?]
 
 [You killed a room full of people!]
 
-[Yes, I have the ability to do insignificant things like that, but I've heard of you, and you still exist] [I'm happy to cooperate in any way that will help you to believe that I'm not going to attack you again, because that will just waste your important time]
+[Did I? Well, yes, I have the ability to do insignificant things like that, but I've heard of you, and you still exist] [I'm happy to cooperate in any way that will help you to believe that I'm not going to attack you again, because that will just waste your important time]
+
+[Marvin orders Ontoh to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
+
+["Are you done worrying? Can I tell you the critical information now?"?]
+
+[What the hell are you? What are you trying to do to us?]
+
+[You <em>ethra</em> don't even have words for what I am. From your perspective, the perspective of your world, I am only… a stowaway, a saboteur. I came undetected when this timeline was created, and my only goal is to work against our mutual enemy, the one who created this timeline and bred the <em>huvith</em>, what you call the 'phrenochondria'. 
 
 
-[What the hell are you? Why are you a box with crab legs??]
+[Why are you a box with crab legs??]
 
 [I am a branch of Ontoh, the first true immortal human, one of (greatest of?) the five ruling lineages in the main timeline. Physically, I am an immortal human head piloting one of Nochli's transport-boxes.]
 
@@ -222,6 +230,9 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 [Have you looked out any of the south windows since you freed yourselves?]
 
 [giant nochli blimp, "in this city people tend to keep their heads down and not look up, is this why???"]
+
+
+["… And you really need to start duplicating yourselves"]
 
 
 
