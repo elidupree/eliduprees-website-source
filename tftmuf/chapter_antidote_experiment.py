@@ -171,7 +171,7 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 
 
-[Description of Ontoh's voice; Ontoh immediately tells a bunch of lies to convince them they have to let Ontoh out of the room; probably, Marvin is worried that it's true, but Kayla isn't buying it, because she trusts the other Kayla who called for help; Kayla convinces Marvin by pointing out how it's way too convenient, and do you seriously think there's any way we can risk letting that monster out of there?]
+[Description of Ontoh's voice; Ontoh immediately tells a bunch of lies to convince them they have to let Ontoh out of the room; probably, Marvin is worried that it's true, but Kayla isn't buying it, because she trusts the other Kayla who called for help; Kayla convinces Marvin by pointing out how it's way too convenient, and do you seriously think there's any way we can risk letting that monster out of there? [they could also ask if Aster can understand it, and if Aster can, it's not true]]
 
 [Okay we have to do something! High-emotions reasoning/argument about how to deal with this]
 
@@ -207,7 +207,7 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 [Marvin orders Ontoh to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
 
-["Are you done worrying? Can I tell you the critical information now?"?]
+["Are you done worrying now? There's important information you need to have, and we're both better off if I tell you as soon as possible. Since you can see me, you must've [freed yourselves] from the <em>huvith</em>, what you call the 'phrenochondria'. You need to know your enemy. Have you seen them? Have you looked out the window since ..."?]
 
 [What the hell are you? What are you trying to do to us?]
 

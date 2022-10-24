@@ -152,7 +152,7 @@ She answered with a single word. "Yes." [And in that word, I could feel/but she 
 
 The Kayla in the video was still talking, almost forgotten behind us. I skipped back to where we had left off.
 
-"– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up – where people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't want you to tell me how many calories things are. I don't want to know, diet culture kills people. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
+"– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up – where people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't know how many calories things are. Diet culture kills people, I never wasted my time on it. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
 
 <bigbreak>
 

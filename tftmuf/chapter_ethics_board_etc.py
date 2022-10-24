@@ -193,11 +193,28 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 A: "Yes. Destroying the entire universe is a morally neutral act."
 
-[Something like [I feel like I've forgotten the proper way to state this though]: Moral statements generally runs from someone considering two possible ways things could go and decide that they like one of them better than the other, yes? But if you destroy the entire universe, there is no one who can make that comparison]
+[Something like [I feel like I've forgotten the proper way to state this though]: Moral statements generally arise from someone considering two possible ways things could go and decide that they like one of them better than the other, yes? But if you destroy the entire universe, there is no one who can make that comparison]
 
 K: it's definitely not neutral. The goodness of the world is the total amount of satisfaction minus the total amount of suffering, across all sentient beings. Right now, there's more suffering than satisfaction in the world, so destroying the entire universe would be a good act. If we can make there be more satisfaction than suffering, then destroying the entire universe would be an evil act.
 
 A: but there's no way to measure different people's satisfaction and suffering against each other; all we have are individual preferences, and if you destroy the universe, there are no longer any individual preferences to agree or disagree with
+
+
+...so then the ends justify the means?
+
+K: of course the ends justify the means. Every time people use it as an excuse for doing evil, they are not actually achieving good ends. In our bad society, people are always looking for excuses why it's okay to control or hurt others, and the excuses are always bad. 
+
+[wait, this doesn't quite make sense? because it's pure hindsight bias:]
+
+Simon? R?: if that's true then doesn't that make Doctor Fuller's research justified, to get us where we are now?
+
+K: We could have done this much faster if it wasn't for all the evil! Aster said so
+
+Reginald:[big declaration] Aster was wrong. [Explanation:] I have no doubt that Aster could have done better than Fuller given the same resources, but without Fuller's evil, we would never have had those resources in the first place. The whole team was formed by Fuller bullying people into it; without him, Aster would have been petitioning the committee and getting rejected. So Aster can only congratulate themselves for being better because they conveniently had an evil person to do the evil stuff for them. You have to sit with that. There are still people who excuse the Nazi human experimentation because we got scientific knowledge from it; we have to be able to say that it's always wrong.
+
+Kayla: I DO say that it's always wrong! About the Nazi research, now we know how long it takes to freeze people to death, do you think it was worth it? Of course not! If it was actually worth it for the world, then you could convince people to consent to it, like they did in the Minnesota Starvation Experiment. Every single time people abuse other beings and make excuses for it: either it wasn't worth it, or they could have done it consensually 
+
+
 
 
 
