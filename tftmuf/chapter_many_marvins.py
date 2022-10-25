@@ -49,6 +49,9 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 
 
+[in chapter: 93% Chance for a Software Bug to Destroy Civilization]
+
+
 "We want to recruit an expert on Formal Verification."
 
 [Marvin [not me] was presenting to the Ethics Board. This Marvin had an air of knowing what he was talking about – he was good at making professional presentations – he must have practiced a lot, because I wasn't that good at this]
@@ -64,6 +67,8 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 [Marvin had a presentation for this]
 
 ["Based on our expected rate of software development that we will need, for plans that have already been agreed upon, we project [pointing at graphs] that the total amount of lines of code written will be 400000, resulting in 400 bugs and 80 additional time travel mishaps. With an estimated 3% chance of alerting Nochli for each time travel mishap… If we don't make drastic improvements to our programming practices… the projected probability of humanity's defeat due to software bugs is… 92%."]
+
+[chapter break?]
 
 [Having a powerful statistic like that does wonders to make a presentation more convincing. In business, people are always asking for money, and usually it's a hard sell, where even if you know that something is a good idea, it's hard to prove it to the stakeholders. But "92% chance of ending the world as we know it" did not leave much room for doubt. Everyone at the table was stunned. "Well," said Reginald, obviously struggling to maintain the polite decorum. The atmosphere in the room had clearly switched from "Marvin needs to convince Reginald" to "Reginald has a problem and is helping Marvin will have a solution". Reginald started asking about formal verification]
 
@@ -85,10 +90,48 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 ["[It is not appropriate] for you to joke about [abuse] when you are in a position [where you could actually commit it]!"]
 
-[Kayla talks about vetting them]
+[Kayla talks about vetting them (see below)]
 
 [There was some more debate, but the overwhelming necessity may be outcome inevitable – the ethics board unanimously approved the proposal. This really was something that couldn't be hired out without revealing what it was for, because defining the properties you needed to prove required you to understand the system]
 
+
+[in chapter: Slightly Informed Consent]
+
+Kayla: we can just use mind control to learn whether they are going to betray us or not
+
+Reginald: you can't just go around mind controlling people, that's unethical
+
+Kayla: we need background checks about anyone we're going to induct
+
+Reginald: that doesn't mean you need mind control, you can use traditional methods. Once people develop the infrastructure for using a power, they never put it back in the box; are you prepared for a world where do you use mind control every time you want information out of people?
+
+Kayla: okay, but if we do traditional detective work, we are going to be developing infrastructure for that as well, for using time machines to obtain private information about people. The result is the same, so how is that any less invasive?
+
+Reginald: indeed, the result of obtaining private information without people's consent is invasive, regardless of how it's achieved. That's not something you can just do every time it seems helpful
+
+Kayla: then how are we supposed to induct someone safely?
+
+Reginald: No. You do not ask ME that question. You are the one who is proposing a compromise of ethics; you need to take responsibility for how to deal with it
+
+Marvin: hang on, what if we CAN get their consent?
+
+All: Huh?
+
+Marvin: do an alternate future where you ask them if you can do invasive background checks; if they say yes, go back in time and do the checks; if they say no, go back in time and do nothing.
+
+Somebody: uhhhh hang on, is that actually consent? If the person who's getting investigated doesn't remember giving permission?
+
+Reginald: yeah, that's not a good consent system; an important part of consent systems is the ability of the subjects to trust the system. You would be the only ones with secret knowledge that the person actually gave permission, so even if you're not technically committing violations, no one else should trust that you aren't committing them; they should work to stop you, because if they don't, anyone could claim to have received permission for anything.
+
+Marvin: wait wait wait, that's a solvable problem. When they give permission, we can record it; anytime the subject or a watchdog challenges us, we can reveal the recording. And of course, we'll get a record of ethics board approval for each individual act; and there can be a network of historical records preventing us from making excessive attempts to get the ethics board to authorize the same act in different timelines.
+
+Reginald: see, now you're thinking how you need to be; designing HOW to earn people's trust, instead of just justifying what you wanted to do.
+
+Someone: wait a minute, we can't actually show them the record, because they can't believe that time travel exists! we can't even get informed consent!
+
+All: Uhhhhh
+
+[Maybe: chapter break to the next chapter, "We, Uh, Work For A Secret Organization, Studying Aliens", which reveals their conclusions in medias res]
 
 
 
