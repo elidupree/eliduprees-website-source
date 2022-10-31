@@ -101,7 +101,7 @@ And then I came to the [big question that was the biggest purpose of this talk].
 
 ["Who are you and what have you done with Dr. Fuller?!"
 
-"You called him," I said, [kind of: stunned by the reality.] I shouldn't have been shocked by it, but seeing her actually do it – take Fuller's side the instant she knew there was a conflict – ?????
+"You called him," I said, momentarily stunned. I don't know what I had expected her to do once she [knew I was lying. Trying to protect him should certainly have been among the possibilities]. Maybe I just wasn't prepared for the reality that [someone who seemed respectable would actually take his side, knowing what he was really like] [kind of: stunned by the reality.] I shouldn't have been shocked by it, but seeing her actually do it – take Fuller's side the instant she knew there was a conflict – ?????
 
 [She stood up from her desk]
 
