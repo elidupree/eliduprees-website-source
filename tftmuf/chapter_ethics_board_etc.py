@@ -343,5 +343,10 @@ Reginald and Kayla both spoke at once.
 
 
 
+[maybe here, or maybe in part 3? "Salnthu never understood relativity or quantum mechanics. What's going to happen when we unite time travel theory with relativity or quantum mechanics? How do we know we're not going to discover a power that is even worse than Salnthu?"… philosophize about "wise enough to accomplish greater destruction" – if you cooperate effectively instead of fighting, then you accomplish greater deeds, and if you don't proactively guarantee that greedy people can't take your work and use it for evil, then they will, and your goodness will have accomplished the greater evil. Compare and contrast how Nochli, who was wiser than Ontoh, was able to destroy Ontoh, even though Ontoh was more focused on fighting]
+
+
+
+
 
 

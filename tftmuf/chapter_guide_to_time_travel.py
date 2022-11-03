@@ -12,9 +12,9 @@ But what if the second Marvin <em>did</em> want to cause a paradox?
 
 Here, the second Marvin finds the first Marvin and tells him not to get in the time machine. When 2 o'clock arrives, no one gets in. That's a paradox. But what stops both Marvins from continuing to exist?
 
-Well, one other thing is different in the second timeline. When the second Marvin arrives, the time machine also receives a memory of the history that was reverted. The time machine is <em>expecting</em> that the departure from the memory will happen, at the same time as it did before (from the machine's perspective). If it doesn't, the time machine <strong>resets</strong> the world to how it was in that memory, with just one change: the time machine now remembers that the departure was a <strong>failure</strong>.
+Well, one other thing is different in the second timeline. When the second Marvin arrives, the time machine also receives a memory of the history that was reverted. The time machine is <em>expecting</em> that the departure from the memory will happen, at the same time as it did before. If it doesn't, the time machine <strong>resets</strong> the world to before the arrival happened, with just one change: the memory is now marked as a <strong>failure</strong>.
 
-In this case, it forms a third timeline that's a copy of the first. In this third timeline, the first Marvin gets in the machine… and nothing happens. He figures the machine must have malfunctioned or something. If he knows these rules, then maybe he suspects that he caused a paradox, but he doesn't learn anything about what the paradox was.
+In this third timeline, the second Marvin does not arrive, and when the first Marvin gets in the machine… nothing happens. He figures the machine must have malfunctioned or something. If he knows these rules, then maybe he suspects that he caused a paradox, but he doesn't learn anything about what the paradox was.
 
 It's lucky that failures just mean nothing happens. Ethel says the physics would be just as consistent if the time traveller got deleted from existence.
 
