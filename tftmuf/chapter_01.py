@@ -58,7 +58,7 @@ When you find a vulnerability like this, you have two choices. What you're <em>s
 
 I didn't dare look at the cameras on work time, at first. Instead, I wrote a little script to download all of the recordings and save them on a USB drive. At home, [in my studio apartment, I had plenty of time to take my time and review all of the bits, looking at them on the big screen of my gaming PC. I skipped back and forth to the videos, trying to find the interesting parts]
 
-[But at the end of hours of searching, I'd come up empty. /But what I found… Was nothing./Was notable for its failure to tell me anything. I saw workers and offices and medical equipment, chemistry labs where I overhear technical conversations beyond my understanding, but somehow, I didn't remember anyone saying what the overall purpose of the place was. I hadn't seen the Pattern a single time; had anyone even mentioned it?.]
+[But at the end of hours of searching, I'd come up empty. /But what I found… Was nothing./Was notable for its failure to tell me anything. I saw workers and offices and medical equipment, chemistry labs where I overhear technical conversations beyond my understanding, but somehow, I didn't remember anyone saying what the overall purpose of the place was. I hadn't seen the Pattern a single time; had anyone even mentioned it?. Huge machines in the basement, but what were they for?]
 
 [Little did I know that I had already seen the Pattern, already been affected by it?]
 
@@ -103,7 +103,7 @@ It was lucky that Kayla couldn't take the stairs at full speed. I wasn't exactly
 
 And then I looked up, and saw her properly.
 
-Her face was gaunt, barely more than skin and bone. One arm clutched a tablet computer to her chest, with a few smaller objects bundled in a closed fist. At her other side, a bony, trembling hand still clutched the scalpel, as she stood poised on the steps above me, ready to fight or run the moment I proved to be a threat. But if I'd been expecting her to panic when I approached, my expectations were soon disproven. She held still, quickly calculating how much to trust me. My first glimpse of the ruthless intelligence that defined her.
+Her face was gaunt, barely more than skin and bone. One arm clutched a tablet computer to her chest, with a few smaller objects bundled in a closed fist. At her other side, a bony, trembling hand still gripped the scalpel, as she stood poised on the steps above me, ready to fight or run the moment I proved to be a threat. But if I'd been expecting her to panic when I approached, my expectations were soon disproven. She held still, quickly calculating how much to trust me. My first glimpse of the ruthless intelligence that defined her.
 
 "Why are you helping me?" she asked. Not disbelief. A demand for information.
 
@@ -111,7 +111,7 @@ Her face was gaunt, barely more than skin and bone. One arm clutched a tablet co
 
 Kayla exhaled a short breath, coming to a decision. She climbed down the stairs – not fast, but as fast as she could, balancing on unsteady feet while she held the tablet tight to her chest.
 
-When I watched that moment again in the security footage, the contrast was striking. Me, the slightly pudgy, thirty-five-year-old white man, completely out of his depth, awkwardly holding open the door to let her pass; and ????? uncomfortably close as she squeezed past me ????? I remember looking down, seeing her fist clenched tightly around the handle of the scalpel, reminding me that I might meet a very bloody end if I betrayed her.
+When I watched that moment again in the security footage, the contrast was striking. Me, the slightly pudgy, thirty-five-year-old white man in a t-shirt, completely out of his depth, awkwardly holding open the door to let her pass; and Kayla, a head shorter, the gown drooping over her emaciated shoulders, squeezing uncomfortably close to get past me. I remember looking down, seeing her fist clenched tightly around the handle of the scalpel, telling me that I might meet a very bloody end if I betrayed her.
 
 I talked quickly as we hurried back to my office. "You need to get out of the building, right? I can look at all the security cameras – we can see if anyone's watching, so we can get out without anyone seeing us – and then I can call the police –" But something in her eyes told me she didn't think the police would save her. "Or, I mean, I could call someone you trust – or I could drive you anywhere you want, I have my car –"
 
@@ -133,27 +133,25 @@ Or, as I would soon understand, she knew that her only option was to commit a te
 
 "In on what?!"
 
-"On the –!!" A rush of words echoed in my head, devoid of all meaning. She knew right away that it wasn't working. "Damn it! I didn't bring this to use on an innocent person!" she said tightly. "But I need you to understand!"
+"On the –!!" A rush of words echoed in my head, devoid of all meaning. She knew right away that it wasn't working. She couldn't answer me; she could only steel herself to do what she was about to do. "Damn it! I didn't bring this to use it on an innocent person!" she said tightly. "But I need you to understand!"
 
+And then the purpose of the tablet she'd brought was revealed. With a lurching motion, she laid it on my office desk, the screen facing me, showing a grid of buttons. Before I could read them all, her fingers reached out and tapped the button labeled OVERSTIM.
 
-
-[????? She couldn't answer me. she could only steel her resolve to do the thing. She swallowed and steeled her resolve to do whatever it was. Then ????? finally the meaning of the tablet she was carrying was revealed. She lowered it onto the desk, turning the screen to face me, and pressed a button labeled OVERSTIM.]
-
-The next few minutes were a ?????horrifying blur.
+The next few minutes were a horrifying blur.
 
 On some level, deep in my mind, I understood what my eyes were staring at. It was the animation I'd been working on. The only difference was the color, no longer blue and green, but purple and white. But somehow, the colors reached deep into my brain, gripping my deepest instincts, holding me in a dreamlike state where I couldn't form a coherent thought, [my brain refusing to acknowledge that the Pattern was even there] [an unconscious need to obey a incoherent range of commands] [probably something humiliating from Marvin's past here] [more details referring back to the initial description] ?????
 
-[????? my head still spinning, a stinging sensation in my arm, brain frantically digging through half-formed memories to find any idea of where I was, what had happened in the last hour –]
+I remember what it felt like as I "woke up" – my head spinning, still half in the nightmare, a stinging sensation in my arm, my brain frantically digging through half-formed memories for any idea of where I was, what had happened to me. I found myself sitting in my chair – had Kayla put me there? – the Pattern still swirling on the screen, I could see it normally now – Kayla crouching beside me, speaking quickly – the injector still in her hand – I looked back at my stinging arm –
 
-[????? Finally a fragmented image stayed in place, Kayla crouching in front of me, speaking quickly with an expression of worry on her face, the injector in her hand – I looked back at my stinging arm –, "Is this some kind of mind control?! Did you <em>inject</em> me with something?!!" [????? I freaked out and pulled back]
+"Is this some kind of mind control?! Did you <em>inject</em> me with something?!!" My voice rose into a shriek – I shoved myself away from her –
 
 But then, my mind caught up with the words she had been saying.
 
 "– a time machine, they have a time machine. Tell me when you can understand me. They have a time machine. They have a time machine. Tell me when you can understand –"
 
-And it all fell into place. The ????? Reggie being in 2 places at once. The ????? . "A time machine –" I gasped "– the machine in the [underground floor]"
+And it all fell into place. Images I'd seen on the cameras flooded back into my mind, as if I was seeing them the first time. The Pattern painted all over the holding-cell walls, so my brain wouldn't remember what it saw – Fuller gloating about how he could use it – Reggie being in two places at once – "A time machine –" I gasped "– the machine in the basement –"
 
-[Kayla was instantly relieved that I could understand, she rushed to explain] "You were already being mind controlled. Everyone here is, everyone but the scientists in charge. What I did is, I broke the control. The overstim, the ?????cyanosol injections, they're what they tested on me, they're why I can resist it. Everyone else, you can talk about time travel right in front of them and they just stare past you – "
+Kayla was instantly relieved that I could understand. She explained as quickly as she could. "You were already being mind controlled. Everyone here is, everyone but the doctors in charge. What I did is, I broke the control. The overstim, the ?????cyanosol injections, they're what they tested on me, they're why I can resist it. Everyone else, you can talk about time travel right in front of them and they just stare past you –"
 
 ?????
 
