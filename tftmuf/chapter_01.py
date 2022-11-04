@@ -72,11 +72,11 @@ If it wasn't for the image classifiers, I would never have noticed. I would have
 
 [I was afraid/distressed that my brain was failing]. In desperation, I sent one of the photos to a friend – a gaming buddy who always answered my messages right away – to ask him what he thought it was. But he never replied. He couldn't see it either. I was on my own.
 
-
+My project became an obsession. What <em>was</em> this place? Belatedly, I began to do my due diligence about my new employer. I searched for news on "NeuroSci Innovations"; there was almost nothing. I searched the address of the building, but all the results were from when it was still Riker Hospital. I searched the name of Dr. Fuller, the man in charge, but I didn't find much besides a profile of him winning some accolade at the University, sixteen years ago.
 
 [????? I started managing to catch glimpses of the children while they were being transported. It didn't look consensual. Was this secretly a mental hospital? Was this human trafficking?
 
-[????? I looked up this place, but hardly found anything – almost all the search results for the address where from back when it was Riker Hospital, the only one more recently was a deleted post. Certainly it wasn't being advertised as a place of medical treatment for children; it got harder and harder to think of innocent explanations for what I'd seen, but I hesitated. How could I explain it? Would they retaliate against me?]
+[????? Certainly it wasn't being advertised as a place of medical treatment for children; it got harder and harder to think of innocent explanations for what I'd seen, but I hesitated. How could I explain it? Would they retaliate against me?]
 
 ????? [I don't know what I would have done if time had just gone on, if Kayla hadn't forced the issue. Would I have tried to report them? It wouldn't have worked; whatever I tried, it wouldn't have put me in the place I needed to be, when I needed to be there.
 
