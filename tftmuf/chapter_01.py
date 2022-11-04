@@ -32,9 +32,7 @@ Getting set up in the makeshift office was an adventure in itself. First of all,
 
 "I don't know, probably nothing. But they're huge sticklers for ethics. I thought they had to be joking, but some of the other guys looked at it, and they were fired before I got back from my lunch break. And they put the blue things on the screens the same day, so now you can't see it even if you put the right color codes in. <em>Ethics</em>…" He smiled and shook his head. And at the time, I laughed along with him. But in hindsight, it hits differently. It feels silly to have scoffed at that level of caution, given the much stricter precautions we needed later. And even though I'd thought he was charmingly cynical, neither of us had caught the actual lie: These scientists had never cared about ethics. To them, "ethics" was just a convenient excuse – an excuse that they could use whenever it meant doing what they wanted to do anyway, and put away whenever it didn't.
 
-
-
-[Physical description of the pattern in blue/green, vaguely like a hypnotic spiral but no spiral, just wavy; "it was kind of hypnotic, but like, not anything special". "The Pattern didn't mean much to me at first. It wasn't like a hypnotic spiral, it was just wavy stripes, almost like a bar code but with curved lines, all in blue and green – although of course those weren't the real colors. My programming work involved making the waves move around and change thickness, more like "1990s screensaver" than "spooky hypnosis".]
+The Pattern itself didn't mean much to me at first. It was just some wavy stripes, almost like a bar code but curvy and irregular, all in blue and green – although of course those weren't the real colors. My programming work was about making the waves move around in various patterns. Sure, I sometimes got distracted watching the motion – but it was less "hypnotic spiral" and more "1990s screensaver".
 
 "What are the real colors?" I asked him once.
 
@@ -42,7 +40,9 @@ He chuckled. "Don't forget, I'm a programmer too. I know how programmers are. If
 
 <bigbreak> 
 
-But if I have one flaw, it's this: Once I get curious about something, I can't look away from it. Maybe if they had never installed all the locks, they could have kept their secrets. Maybe I would have treated it like any other boring job. But if there were locks, there was something to keep hidden. What was all this security for? What was the Pattern, really? What were they researching? [I wanted to know what was on the locked-off floors – upstairs, where the scientists worked ["I couldn't resist the mystery of"], and even more intriguingly, the basement levels, where an actual steel security door greeted you as soon as you can out of the elevator [I wanted to know what was on the locked-off floors, what all this security was for / the locks just made me more curious / what was the Pattern, really? What was on the locked off floors? Why was it so important to keep everything secure? ?????]
+But if I have one flaw, it's this: Once I get curious about something, I can't look away from it. Maybe if they had never installed all the locks, they could have kept their secrets. Maybe I would have treated it like any other boring job. But if there were locks, there was something to keep hidden. What was all this security for? What was the Pattern, really? What were they researching? I couldn't resist the mystery of the scientists secluding themselves on the locked-off upper floors. Even more intriguingly, the basement levels were secured with full steel security doors, greeting you as soon as you got out of the elevator. What was so important to hide?
+
+So, to look inside, I hacked the cameras.
 
 I wasn't a genius hacker, but in truth, very few security breaches are works of genius. The typical breach starts with a careless mistake – a company cutting corners to save a quick buck, a programmer writing a bug that <em>usually</em> doesn't break anything, a sysadmin leaving a secret in a public-access folder. And it ends with someone noticing.
 
@@ -56,20 +56,23 @@ With very little fanfare, I was "in".
 
 When you find a vulnerability like this, you have two choices. What you're <em>supposed</em> to do is report it to whoever is responsible, so they can fix it. What you're <em>not</em> supposed to do – what I did do – is exploit it yourself. But I couldn't resist. I wasn't trying to be some sort of citizen-investigator, finding what they were up to, I was just doing it because I was curious. Because I <em>could</em>. What Reginald would later call "a profoundly amoral decision".
 
-I didn't dare look at the cameras on work time, at first. Instead, I wrote a little script to download all of the recordings and save them on a USB drive. At home, [in my studio apartment, I had plenty of time to take my time and review all of the bits, looking at them on the big screen of my gaming PC. I skipped back and forth to the videos, trying to find the interesting parts]
+I didn't dare look at the cameras on work time, at first. Instead, I wrote a little script to download all of the recordings and save them on a terabyte USB drive. At home, in my studio apartment, I had plenty of time to review them, on the big screen of my gaming PC. I skipped back and forth in the videos, trying to find the interesting parts, conversations that would reveal the juicy details.
 
-[But at the end of hours of searching, I'd come up empty. /But what I found… Was nothing./Was notable for its failure to tell me anything. I saw workers and offices and medical equipment, chemistry labs where I overhear technical conversations beyond my understanding, but somehow, I didn't remember anyone saying what the overall purpose of the place was. I hadn't seen the Pattern a single time; had anyone even mentioned it?. Huge machines in the basement, but what were they for?]
+But no matter how much data you have, the hard part is always "how to understand it". And despite hours of looking, I was little closer. The upstairs cameras saw workers and offices and medical equipment, chemistry labs where I overheard technical work beyond my understanding; the basement cameras saw a huge, concrete-floored workshop, with bulky construction equipment, even a forklift parked near one wall. But what was the purpose of it all? I hadn't seen the Pattern a single time; had anyone even mentioned it?
 
-[Little did I know that I had already seen the Pattern, already been affected by it?]
+Little did I know that I had already seen the Pattern, already been affected by it.
+
+I thought I just had to make my search more systematic. I made a spreadsheet, and started writing down what was happening in each room, so I could get a sense of the big picture. Over the coming days, I made it a whole little project, using motion-detection software to find the interesting parts of the videos, and image classifiers to write down what was there. If you don't know what an image classifier is, it's one of those AI tools that they use at places like Google – you put in an image, and it gives you a bad guess about what it's a picture of. Nowadays, if you know a bit of programming, you can just <em>download</em> a "pre-trained model" and classify thousands of images overnight. And if you have a bit of money, you can pay a "cloud service" to run the same program on dozens of computers at once, in a datacenter somewhere, to get it done much faster. So that's what I did.
+
+Image classifiers sometimes give weird outputs, but what I learned was a different kind of weird than I expected. First of all, they caught Reggie, one of the doctors, being in two places at once. I thought the cameras must have had a glitch. Go ahead and laugh – you already know it was time travel. But at the time, my brain refused to make the connection.
+
+But second… they told me about the children.
+
+If it wasn't for the image classifiers, I would never have noticed. I would have just glanced past those rooms and assumed there wasn't anything there. Even after they said "child on bed", I still just assumed the classifiers were wrong, like they often are. But the spreadsheet made the difference. I had planned to write a few words of summary for every camera; only those dozen rooms were still blank. I told myself it should be easy to finish; I sat at home staring at the images, wondering what made them get classified as children, when there obviously weren't any children in the pictures. Or, as I eventually began to wonder – why my brain couldn't explain what they were instead.
+
+[I was afraid/distressed that my brain was failing]. In desperation, I sent one of the photos to a friend – a gaming buddy who always answered my messages right away – to ask him what he thought it was. But he never replied. He couldn't see it either. I was on my own.
 
 
-[I thought I just had to make my search more systematic. I tried to write down what was happening in each room, so I could get a sense of the big picture. Over the coming days, I made it a whole little project, using motion-detection software to find the interesting parts of the videos, and image classifiers to write down what was there. If you don't know what an image classifier is, it's one of those AI tools that they use at places like Google – you put in an image, and it gives you a bad guess about what it's a picture of. Nowadays, if you know a bit of programming, you can just <em>download</em> a "pre-trained model" and classify thousands of images overnight. And if you have a bit of money, you can pay a cloud service to run the same program on dozens of computers at once, in a datacenter somewhere, and send the results back to you, to get it done much faster. So that's what I did.
-
-[seemed like Reggie was in two places at once, I thought there was like an error or something. Go ahead and laugh – you already know it was time travel. But at the time, my brain refused to make the connection.]
-
-[????? If it wasn't for the image classifiers, I would never have noticed, I would have just glanced past and assumed there wasn't anything there. Even after it said "child on bed", I still just assumed the classifier was wrong, like usual. But because I was keeping notes on each camera, it eventually became conspicuous that those few rooms were the ones that were still blank. I sat at home staring at the images, wondering what was in them that made them get classified as children, when there obviously weren't any children in the pictures. Or, as I eventually began to wonder – why my brain couldn't explain what they were instead of children.]
-
-[I sent one of the photos to a friend, who would normally have always gotten back to me, and he just ignored it]
 
 [????? I started managing to catch glimpses of the children while they were being transported. It didn't look consensual. Was this secretly a mental hospital? Was this human trafficking?
 
@@ -109,7 +112,7 @@ Her face was gaunt, barely more than skin and bone. One arm clutched a tablet co
 
 "I – I only just realized this place is holding people against their will!" I hissed. "Of course I want to do something about that!" I was starting to panic myself. Kayla still wasn't moving, and I had no idea what to do if she wouldn't trust me. "Listen, someone's going to come up the stairs anytime now, I saw it on the cameras! Come with me, I can hide you in my office – then we'll have time to figure out –"
 
-Kayla exhaled a short breath, coming to a decision. She climbed down the stairs – not fast, but as fast as she could, balancing on unsteady feet while she held the tablet tight to her chest.
+Kayla let out a short breath, coming to a decision. She climbed down the stairs – not fast, but as fast as she could, balancing on unsteady feet while she held the tablet tight to her chest.
 
 When I watched that moment again in the security footage, the contrast was striking. Me, the slightly pudgy, thirty-five-year-old white man in a t-shirt, completely out of his depth, awkwardly holding open the door to let her pass; and Kayla, a head shorter, the gown drooping over her emaciated shoulders, squeezing uncomfortably close to get past me. I remember looking down, seeing her fist clenched tightly around the handle of the scalpel, telling me that I might meet a very bloody end if I betrayed her.
 
