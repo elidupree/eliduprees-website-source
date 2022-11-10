@@ -76,13 +76,27 @@ My project became an obsession. What <em>was</em> this place? Belatedly, I began
 
 But still, I hesitated. I didn't want to believe that could be happening – not <em>here</em>, right in the city where I'd grown up. And what could I do, anyway, if I was right? Report them to the police? How could I explain it?
 
-I don't know what I would have done, if things had gone on this way – if Kayla hadn't made her move first. I wish I could say that I was a hero, that I would have kept trying until I figured out a way to do something. It hurts to admit what was more likely: I would have kept agonizing about what to do, putting off the decision, until the sense of mystery wore off and I found a way to rationalize my inaction to myself. I would have gone on with my life, telling myself there was nothing I could have done.
+I don't know what I would have done, if things had gone on this way – if Kayla hadn't made her move first. I wish I could say that I was a hero, that I would have kept trying until I figured out a way to do something. It hurts to admit what was more likely: I would have kept agonizing about what to do, putting off the decision, until the sense of mystery wore off and I found a way to rationalize inaction to myself. I would have gone on with my life, telling myself there was nothing I could have done.
 
-For better or for worse, I never had to make that decision. I just had to be in the right place at the right time.
+If this was one of my moral failings, I'm grateful that I was never tested on it. For better or for worse, I became a hero the other way: by being in the right place at the right time.
 
-When I came in for work that Saturday, I didn't know how important that day was going to be – how it was the day we would later call <em>Day One</em>, the day that would change the course of human history.
+When I came in for work that Saturday, I didn't know how important that day was going to be – how it was the day we would later call <em>Day One</em>, the day that would change the course of human history. I was still just there to do my job. There was a bug in my code that I couldn't stop thinking about, and I'd come in for overtime to work on fixing it. Maybe it wasn't good for my work-life balance, but I couldn't just have a nice weekend if it was still stuck in my brain. Plus, it was nice to be alone in the office. No one would notice if I took some time to check how far I could hack the security equipment – which I'd been getting bolder and bolder about.
 
-[hype Fuller somehow, followed by: the morning of the day when it happened [" I didn't yet know how important that day was going to be – day that would determine the course of human history"/"I did not yet know that it was the day we would later call <em>Day One</em>, the day that would change the course of human history"; it was a less-busy day, because it was Saturday, the other programmers were at home, I only came in to work overtime because there was this programming thing that was bugging me], Fuller greeted me in the morning [chatting with Marvin in his condescendingly encouraging way]. I got up the courage to ask him "what do we actually do on the upper floors", as if it was just innocent curiosity. "It's very cutting-edge research you're supporting. Very technical" "try me, I can understand a lot of technical things". He explained, but indeed I couldn't understand it ("my eyes glazed over", but the internal version of that?). And then he clapped me on the shoulders, encouraging "keep up the good work". But then I had the presence of mind to look back at the security camera recording of the conversation, and saw how I reacted to his explanation – I could barely remember it at all, and he had a little smirk on his face, knowing full well that he could get away with saying whatever he wanted, because my brain would censor what he was saying]
+[Since it was less busy, I ran into Fuller on the way in, greeting people around the lobby with his authoritative smile (smile that put you at ease, but made it clear he was in charge?), close-trimmed beard, crisp button-down shirt, the epitome of "business casual". Usually only had time for the bigwigs, but it was less busy today.
+
+[in his condescendingly encouraging way "You're doing good work, You're contributing to very important research"]
+
+[This was an opportunity; I worked up my courage. Trying to sound innocently curious, I said, "remind me, what exactly are we researching?"]
+
+["It's very cutting-edge research you're supporting. Very technical"]
+
+"Try me. I'm a tech guy, I can understand a lot of things."
+
+[He rattled off an explanation, but it went right over my head ("my eyes glazed over", but the internal version of that?) He clapped me on the shoulder. "Keep up the good work."]
+
+[But as I got up to my office, I had the presence of mind to look back at the security camera recording of the conversation, and saw how I reacted to his explanation – I could barely remember it at all, and he had a little smirk on his face, knowing full well that he could get away with saying whatever he wanted, because my brain would censor what he was saying. Realizing it, I was seized with horror, heart beating hard, at the proof that this wasn't just something weird going on with my brain – he actually knew about it and was exploiting it.]
+
+[And then I flipped to a different camera and saw Kayla for the first time]
 
 <bigbreak>
 
