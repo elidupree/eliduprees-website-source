@@ -113,7 +113,9 @@ That seemed to get under her skin a little. "That – the Farseer should not hav
 
 "Okay, fine." Right, this was one of the things Yali had warned me about. She'd said I shouldn't encourage Justicar to think about me attacking her. I decided to shut up. Justicar seemed satisfied with that, which was… both frustrating and a relief, I guess. I didn't like letting her win, but if she just stayed out of the way and kept thinking annoying things all by herself, that wasn't my biggest problem.
 
-It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I slept sitting up too, staring right back at her. We sat that way for the whole "night", my eyes locked onto Justicar's face for longer than I would have ever wanted. Deep into the hours, I found myself noticing something I had missed before. Even though her rigid posture had seemed effortless at first, the lines in her face made her look like someone who was very, <em>very</em> tired.
+It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I slept sitting up too, staring right back at her. We sat that way for the whole "night", my eyes locked onto Justicar's face for longer than I would have ever wanted.
+
+Deep into the hours, I found myself noticing something I had missed before. Even though her rigid posture had seemed effortless at first, the lines in her face made her look like someone who was very, <em>very</em> tired.
 
 <bigbreak>
 
@@ -377,11 +379,11 @@ It looks like Justicar was about to tell him off, but I was faster. "Dude, you'v
 
 "Win-win," said Morrow cheerfully.
 
-"You shouldn't joke about suicide!" snapped Justicar.
+"You shouldn't joke about suicide!" snapped Justi&shy;car.
 
-Morrow grinned fiendishly. "What if I'm not joking?"
+Morrow grinned fiendishly. "What if I'm not jok&shy;ing?"
 
-"If you were not joking, you should seek serious help rather than make light of it. Unfortunately there are no trained therapists here, but under the circumstances, the Farseer or I would be able to consult –"
+"If you were not joking, you should seek serious help rather than make light of it. Unfortunately there are no trained therapists here, but under the circum&shy;stances, the Farseer or I would be able to consult –"
 
 Morrow ignored her, manifested a chunk of meat, and started chewing furiously. 
 
@@ -391,9 +393,9 @@ Morrow ignored her, manifested a chunk of meat, and started chewing furiously.
 
 "Wait, really? <em>I'm</em> not hungry, wait, can't you manifest yourself into not being hungry?" Curiously, I tried to manifest myself into <em>being</em> hungry. It worked.
 
-"It is probably because of his nature as the Imminent," said Justicar. "It is the nature of the Seeking God to perpetually want more, and never be satisfied. Thus, it would only be natural for the Imminent to –"
+"It is probably due to his nature as the Imminent," said Justicar. "It is the nature of the Seeking God to perpetually want more, and never be satisfied. Thus, it would only be natural for the Imminent to –"
 
-"That can't be right," I said. I didn't really have a <em>reason</em> to think it was wrong, but I couldn't stand Justicar being all <em>Well the Farseer would be like this and the Imminent would be like that</em> instead of listening to us as actual fucking people. So I scrambled to come up with a reason. "Hang on, if that was true, then all the old Imminents would have been hungry all the time too. Hey Yali, you have all those memories, so were they?"
+"That can't be right," I said. I didn't really have a <em>reason</em> to think it was wrong, but I couldn't stand Justicar being all <em>Well the Farseer would be like this and the Imminent would be like that</em>, instead of listening to us as actual fucking people. So I scrambled to come up with a reason. "Hang on, if that was true, then all the old Imminents would have been hungry all the time too. Hey Yali, you have all those memories, so were they?"
 
 Yali froze up, not answering.
 
