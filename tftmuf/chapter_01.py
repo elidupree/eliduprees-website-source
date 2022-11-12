@@ -78,7 +78,7 @@ But still, I hesitated. I didn't want to believe that could be happening – not
 
 I don't know what I would have done, if things had gone on this way – if Kayla hadn't made her move first. I wish I could say that I was a hero, that I would have kept trying until I figured out a way to do something. It hurts to admit what was more likely: I would have kept agonizing about what to do, putting off the decision, until the sense of mystery wore off and I found a way to rationalize inaction to myself. I would have gone on with my life, telling myself there was nothing I could have done.
 
-If this was one of my moral failings, I'm grateful that I was never tested on it. For better or for worse, I became a hero the other way: by being in the right place at the right time.
+If that was one of my moral failings, I'm grateful that I was never tested on it. For better or for worse, I became a hero the other way: by being in the right place at the right time.
 
 When I came in for work that Saturday, I didn't know how important that day was going to be – how it was the day we would later call <em>Day One</em>, the day that would change the course of human history. I was still just there to do my job. There was a bug in my code that I couldn't stop thinking about, and I'd come in for overtime to work on fixing it. Maybe it wasn't good for my work-life balance, but I couldn't just have a nice weekend if it was still stuck in my brain. Plus, it was nice to be alone in the office. No one would notice if I took some time to check how far I could hack the security equipment – which I'd been getting bolder and bolder about.
 
@@ -92,11 +92,13 @@ When I came in for work that Saturday, I didn't know how important that day was 
 
 "Try me. I'm a tech guy, I can understand a lot of things."
 
-[He rattled off an explanation, but it went right over my head ("my eyes glazed over", but the internal version of that?) He clapped me on the shoulder. "Keep up the good work."]
+[He rattled off an explanation, but it went right over my head ("my eyes glazed over", but the internal version of that?) I found myself [switching back in from being zoned out, just as he was finishing the explanation] He clapped me on the shoulder. "Keep up the good work."]
 
-[But as I got up to my office, I had the presence of mind to look back at the security camera recording of the conversation, and saw how I reacted to his explanation – I could barely remember it at all, and he had a little smirk on his face, knowing full well that he could get away with saying whatever he wanted, because my brain would censor what he was saying. Realizing it, I was seized with horror, heart beating hard, at the proof that this wasn't just something weird going on with my brain – he actually knew about it and was exploiting it.]
+But as I got up to my office, I had the presence of mind to check the camera recordings. [I had really wanted to learn the thing, I shouldn't have just zoned out; now I looked back because I wanted to get a second chance to understand it] [The sound quality wasn't good/there was background noise, but I got a good view of his face.] ????? brazenly smug smile [that I could barely remember from the first time] ????? He <em>knew</em>. He knew full well that his words would be deleted from my memory. He had told me the truth, practically laughing in my face, knowing I still wouldn't be able to do anything about it.
 
-[And then I flipped to a different camera and saw Kayla for the first time]
+My heart pounded. [seized with horror at the proof that this wasn't just something weird going on with my brain – he actually knew about it and was using it against me.] Frantically, I scanned through the other cameras near the lobby, seeing if any of them had a closer view.
+
+And that's how I saw Kayla for the first time.
 
 <bigbreak>
 
@@ -104,13 +106,13 @@ This is what happened on Day One.
 
 The ?????phorin Experiment was scheduled for 11:00 AM. An hour in advance, at 9:56, two assistants unlocked the room where Kayla was being held, and told her she was to be taken to the experiment room. She complied.
 
-Kayla was already physically weak and stumbling, and the assistants knew this. This gave her the excuse she needed. At 10:01, as they escorted her into the experiment room, she "accidentally" bumped into one of them, knocking them sideways into a medical cart. Their lapse of control was brief but effective. The cart, with its wheels already locked, toppled; vials of medicine shattered on the floor.
+Kayla was already physically weak and stumbling, and the assistants knew this. This gave her the excuse she needed. At 10:01, as they escorted her into the experiment room, she "accidentally" bumped into one of them, knocking them sideways into a medical cart. Their lapse of control was brief but impactful. The cart, with its wheels already locked, toppled; vials of medicine shattered on the floor.
 
 Once the assistants had strapped Kayla into the fMRI machine, there was a hasty discussion. Dr. Fuller would be very angry, they agreed; it was imperative that this mess be gone before he learned of it. At 10:05, they agreed to split up – one to fetch replacements, the other to stay and clean. But as soon as the second assistant was alone, he realized he had no broom or dustpan to clear the broken glass. He glanced at Kayla; he must have known it would break protocol to leave her unattended. But she was fully restrained, lying motionless in the machine. Surely nothing would happen in just a few minutes. Surely Dr. Fuller's anger was a more urgent concern. This resulted in Kayla being left unattended for a total of six minutes, starting at 10:07. Only the room's security cameras could see her, and no one was monitoring them at the time – at least, not in the first timeline.
 
 26 seconds from the moment the door closed, Kayla had fully freed herself from the restraints. Over the next 18 seconds, she scanned through the shelves, taking what she needed with frantic but efficient motions. By 10:09 AM, she was out the door. She didn't know the full layout of the building, but she knew what she was looking for: she sprinted down the hall, following the exit signs, knowing they would lead her to the stairs.
 
-And that's where I came in. At that moment, I just so happened to be <em>watching</em> the camera that she ran past. [Happened to glance through the other cameras right after I was done watching my conversation with Fuller?] Of course, at the time, I had no idea of what had just happened before that. All I knew was what I could see on the camera. And what I saw – the way I first interpreted it – was a frightened, teenage girl, wearing nothing but a hospital gown, holding a scalpel in front of her like a weapon. In the twelve seconds she was in view, she entered the lobby on the fifth floor, looked quickly around her, and crept to the nearest stairs, then disappeared downwards. My mind jumped to an explanation: she was a captive, trying to escape the building. I was almost right. Right in the ways that mattered.
+And that's where I came in. By sheer luck, the moment she ran past the fifth-floor lobby camera was the moment I was watching it, while looking for a camera with a better view of Fuller. Of course, at the time, I had no idea of what had just happened before that. All I knew was what I could see on the camera. And what I saw – the way I first interpreted it – was a frightened, teenage girl, wearing nothing but a hospital gown, holding a scalpel in front of her like a weapon. In the twelve seconds she was in view, she entered the lobby on the fifth floor, looked quickly around her, and crept to the nearest stairs, then disappeared downwards. My mind jumped to an explanation: she was a captive, trying to escape the building. I was almost right. Right in the ways that mattered.
 
 I've done a lot of things I'm not proud of, but I'm proud of how I reacted in that moment. My worst fears about this place were realized, and I knew that if I didn't take action – immediately – then I would never forgive myself. The girl couldn't see where Dr. Fuller was standing, and if she tried to exit on the ground floor, she'd be in plain view of him and two security guards. She would be recaptured, and God-knows what else. I couldn't just let that happen.
 
@@ -130,7 +132,7 @@ Her face was gaunt, barely more than skin and bone. One arm clutched a tablet co
 
 Kayla let out a short breath, coming to a decision. She climbed down the stairs – not fast, but as fast as she could, balancing on unsteady feet while she held the tablet tight to her chest.
 
-When I watched that moment again in the security footage, the contrast was striking. Me, the slightly pudgy, thirty-five-year-old white man in a t-shirt, completely out of his depth, awkwardly holding open the door to let her pass; and Kayla, a head shorter, the gown drooping over her emaciated shoulders, squeezing uncomfortably close to get past me. I remember looking down, seeing her fist clenched tightly around the handle of the scalpel, telling me that I might meet a very bloody end if I betrayed her.
+When I watched that moment again in the security footage, the contrast was striking. Me, the slightly pudgy, thirty-five-year-old white man in a t-shirt, completely out of his depth, awkwardly holding open the door; and Kayla, a head shorter, the gown drooping over her emaciated shoulders, squeezing uncomfortably close to get past me. I remember looking down, seeing her fist clenched tightly around the handle of the scalpel, realizing that I might meet a very bloody end if I betrayed her.
 
 I talked quickly as we hurried back to my office. "You need to get out of the building, right? I can look at all the security cameras – we can see if anyone's watching, so we can get out without anyone seeing us – and then I can call the police –" But something in her eyes told me she didn't think the police would save her. "Or, I mean, I could call someone you trust – or I could drive you anywhere you want, I have my car –"
 
@@ -140,19 +142,19 @@ I talked quickly as we hurried back to my office. "You need to get out of the bu
 
 Her words came quickly, low and urgent. "None of that would work! I can't run, they're always waiting for me, as soon as I get away. I need to find their…"
 
-[????? Rephrase because this will have already been explained in the Fuller encounter above:] But as she kept speaking, something bizarre began to happen. There was nothing wrong with her words – they were plain English, they fit together in order – but even as ten seconds passed, then twenty, my brain simply didn't make sense of them. ????? [If I hadn't experienced the stuff I'd experienced earlier, I would have just let her keep talking, I wouldn't have noticed that something was weird was happening that would make me need to interrupt. But my experiences gave me an inkling that I really needed to interrupt her]
+Kayla kept explaining, for ten seconds, then twenty, before I noticed what was happening. If it hadn't been for what I'd already seen, I would have just let her keep talking, not realizing anything weird was going on. But I was starting to recognize it. Her words were plain English, they fit together in order – but my brain simply wasn't making sense of them. Just like with Dr. Fuller.
 
-"I'm sorry," I interrupted, "I don't understand what you're saying –"
+"I'm sorry," I interrupted, "I can't understand what you're saying –"
 
-I had been afraid that she wouldn't know what I meant – afraid that I would have to spend precious minutes explaining [how it was that I didn't understand]. But the instant I spoke, I knew that she had understood. The look that blossomed on her face wasn't confusion or frustration – it was <em>fear</em>. She knew what was coming. No matter how long she explained these things – no matter how desperately she needed me to know them – I would never understand them. And then her time would run out.
+I had been afraid that she wouldn't know what I meant – afraid that I would have to spend precious minutes explaining. But the instant I spoke, I knew that she had understood. The look that blossomed on her face wasn't confusion or frustration – it was <em>fear</em>. She knew what was coming. No matter how long she explained these things – no matter how desperately she needed me to know them – I would never understand them. And then her time would run out.
 
-Or, as I would soon understand, she knew that her only option was to commit a terrible violation.
+Or, as I would soon understand, she knew that her only choice was to commit a terrible violation.
 
 "You – you're really not in on it," she said.
 
 "In on what?!"
 
-"On the –!!" A rush of words echoed in my head, devoid of all meaning. She knew right away that it wasn't working. She couldn't answer me; she could only steel herself to do what she was about to do. "Damn it! I didn't bring this to use it on an innocent person!" she said tightly. "But I need you to understand!"
+"On the –!!" A rush of words flooded through my head, with no more meaning than before. And she knew instantly that it wasn't working. She couldn't answer my questions; she could only steel herself to do what she was about to do. "Damn it! I didn't bring this to use it on an innocent person!" she said tightly. "But I need you to understand!"
 
 And then the purpose of the tablet she'd brought was revealed. With a lurching motion, she laid it on my office desk, the screen facing me, showing a grid of buttons. Before I could read them all, her fingers reached out and tapped the button labeled OVERSTIM.
 
@@ -168,9 +170,9 @@ But then, my mind caught up with the words she had been saying.
 
 "– a time machine, they have a time machine. Tell me when you can understand me. They have a time machine. They have a time machine. Tell me when you can understand –"
 
-And it all fell into place. Images I'd seen on the cameras flooded back into my mind, as if I was seeing them the first time. The Pattern painted all over the holding-cell walls, so my brain wouldn't remember what it saw – Fuller gloating about how he could use it – Reggie being in two places at once – "A time machine –" I gasped "– the machine in the basement –"
+And it all fell into place. Images I'd seen on the cameras flooded back into my mind, as if I was seeing them the first time. The purple-and-white Pattern painted all over the holding-cell walls, commanding my brain to forget what it saw – Fuller gloating about how he could use it – Reggie being in two places at once – "A time machine –" I gasped "– the machine in the basement –"
 
-Kayla was instantly relieved that I could understand. She explained as quickly as she could. "You were already being mind controlled. Everyone here is, everyone but the doctors in charge. What I did is, I broke the control. The overstim, the ?????cyanosol injections, they're what they tested on me, they're why I can resist it. Everyone else, you can talk about time travel right in front of them and they just stare past you –"
+Kayla explained as quickly as she could. "You were already being mind controlled. Everyone here is, everyone but the doctors in charge. What I did is, I broke the control. The overstim, the ?????cyanosol injections, they're what they tested on me, they're why I can resist it. Everyone else, you can talk about time travel right in front of them and they just stare past you –"
 
 ?????
 
