@@ -174,11 +174,19 @@ And it all fell into place. Images I'd seen on the cameras flooded back into my 
 
 Kayla explained as quickly as she could. "You were already being mind controlled. Everyone here is, everyone but the doctors in charge. What I did is, I broke the control. The overstim, the ?????cyanosol injections, they're what they tested on me, they're why I can resist it. Everyone else, you can talk about time travel right in front of them and they just stare past you –"
 
-?????
+<em>Biiiing!</em>
 
-????? The message arrived. A message on my work account. A message from <em>myself</em>. ????? A zip file attached
+I jumped – but it was just a message arriving on my work computer, an awful coincidence of timing. Except, of course, it wasn't a coincidence, because time travel was involved.
 
-When your body is in fight-or-flight mode, the time it takes a computer to unpack an archive feels like forever. ????? [????? Hyper focused on the screen, my eyes jumped to 01_WATCH_THIS_FIRST.mp4 the moment it appeared]
+<em>Hey Marvin, it's me, Marvin. You need to download this and watch the first video, ASAP.</em>
+
+"Uhhh…" I said, glancing between the message and Kayla.
+
+"Open it!" hissed Kayla, comprehending faster than I did. "It's from you, right? You trust him, right?"
+
+"…Right!" With shaking fingers, I clicked to download the attached zip file.
+
+When your body is in fight-or-flight mode, the time it takes a computer to unpack an archive feels like forever. It was only 18 seconds, but I spent those 18 seconds with my eyes glued to the screen, cursing progress bars everywhere. The moment it was done, I jumped straight to the first file I saw, 01_WATCH_THIS_FIRST.mp4.
 
 Like many an unedited, amateur video, it began in a blur of motion, as its maker tapped the record button on their phone and set the phone down where it would get a good view – a view of a room much like this one, no doubt a conference room somewhere in this very building. [????? It was night though, and the people in the video were Kayla, and me. Marvin.]
 
