@@ -70,7 +70,7 @@ But second… they told me about the children.
 
 If it wasn't for the image classifiers, I would never have noticed. I would have just glanced past those rooms and assumed there wasn't anything there. Even after they said "child on bed", I still just assumed the classifiers were wrong, like they often are. But the spreadsheet made the difference. I had planned to write a few words of summary for every camera; only those dozen rooms were still blank. I told myself it should be easy to finish. I sat at home staring at the images, wondering what made them get classified as children, when there obviously weren't any children in the pictures. Or, as I eventually began to wonder – why my brain couldn't explain what they were instead.
 
-[I was afraid/distressed that my brain was failing]. In desperation, I sent one of the photos to a friend – a gaming buddy who always answered my messages right away – to ask him what he thought it was. But he never replied. He couldn't see it either. I was on my own.
+In desperation, I sent one of the photos to a friend – a gaming buddy who always answered my messages right away – to ask him what he thought it was. But he never replied. He couldn't see it either. I was on my own.
 
 My project became an obsession. What <em>was</em> this place? Belatedly, I began to do my due diligence about my new employer. I searched for news on "NeuroSci Innovations"; there was almost nothing. I searched the address of the building, but all the results were from when it was still Riker Hospital. I searched the name of Dr. Fuller, the man in charge, but I didn't find much besides a profile of him winning some accolade at the University, sixteen years ago. Whatever this place was, I sure couldn't find any <em>innocent</em> reason why they might have a dozen "children in beds" upstairs, children you never saw leaving the building. And indeed, I was getting more and more suspicious that those were actually children up there. Was this some kind of secret, evil mental hospital? Was it human trafficking?
 
@@ -88,15 +88,15 @@ But coming in on a quieter day changed something else, too. Normally, the lobby 
 
 His tone made me feel appreciated; I didn't notice, until I rewatched the conversation, that the only person he had congratulated was himself. But I did see an opportunity. I worked up my courage. Trying to sound innocently curious, I said, "Remind me, what are we researching right now?"
 
-["It's very cutting-edge research you're supporting. Very technical"]
+"Don't let me bore you with the technical details," he said with a smile. "It's very cutting-edge."
 
 "Try me. I'm a tech guy, I can understand a lot of things."
 
-[He rattled off an explanation, but it went right over my head ("my eyes glazed over", but the internal version of that?) I found myself [switching back in from being zoned out, just as he was finishing the explanation] He clapped me on the shoulder. "Keep up the good work."]
+"Well then…" He begin to explain, but almost immediately, I found it going right over my head. It's not that it was difficult – the English was plain enough – but somehow, I just couldn't help getting distracted. I only snapped back just as he was finishing. "…and that's what you're supporting," he said, his eyes crinkling around the corners. He clapped me on the shoulder. "Keep up the good work."
 
-But as I got up to my office, I had the presence of mind to check the camera recordings. [I had really wanted to learn the thing, I shouldn't have just zoned out; now I looked back because I wanted to get a second chance to understand it] [The sound quality wasn't good/there was background noise, but I got a good view of his face. In hindsight, I re-watched it more times than I thought; eventually picked up the awareness of the] ????? brazenly smug smile [that I could barely remember from the first time] ????? He <em>knew</em>. He knew full well that his words would be deleted from my memory. He had told me the truth, practically laughing in my face, knowing I still wouldn't be able to do anything about it.
+But as I got up to my office, I had the presence of mind to check the camera recordings. I had genuinely wanted to hear his answer – how could I have gotten distracted at that exact moment? So I downloaded the recording from the closest camera, for a second chance to listen. In hindsight, I know that I rewatched it more than 5 times, never noticing what was happening. But I did start to pick up on one thing: not Dr. Fuller's words, but the look on his face. As he talked, his smile widened, twisting into a look of grotesque smugness. He <em>knew</em>. He knew full well that his words would be deleted from my memory. He had told me the truth, practically laughing in my face, knowing I still wouldn't be able to do anything about it.
 
-My heart pounded. [seized with horror at the proof that this wasn't just something weird going on with my brain – he actually knew about it and was using it against me.] Frantically, I scanned through the other cameras near the lobby, seeing if any of them had a closer view.
+My heart pounded, gripped by a terrible certainty. I could no longer hope that this was just some innocent anomaly. It was something he actually knew about, something he was using against me. I had to find out more. Frantically, I scanned through the other cameras near the lobby, seeing if any of them had a closer view.
 
 And that's how I saw Kayla for the first time.
 
