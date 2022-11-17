@@ -100,11 +100,18 @@ My heart pounded, gripped by a terrible certainty. I could no longer hope that t
 
 And that's how I saw Kayla for the first time.
 
-<bigbreak>
+''',
+},
+{
+  "title":"The Future They Made Us Forget, chapter 2",
+  "auto_paragraphs": True,
+  "head":head,
+  "chapter_title": "Can't Have Informed Consent If Being Informed Is Impossible",
+  "contents": '''
 
 This is what happened on Day One.
 
-The ?????phorin Experiment was scheduled for 11:00 AM. An hour in advance, at 9:56, two assistants unlocked the room where Kayla was being held, and told her she was to be taken to the experiment room. She complied.
+The Phrehibiphor Experiment was scheduled for 11:00 AM. An hour in advance, at 9:56, two assistants unlocked the room where Kayla was being held, and told her she was to be taken to the experiment room. She complied.
 
 Kayla was already physically weak and stumbling, and the assistants knew this. This gave her the excuse she needed. At 10:01, as they escorted her into the experiment room, she "accidentally" bumped into one of them, knocking them sideways into a medical cart. Their lapse of control was brief but impactful. The cart, with its wheels already locked, toppled; vials of medicine shattered on the floor.
 
@@ -134,7 +141,7 @@ Kayla let out a short breath, coming to a decision. She climbed down the stairs 
 
 When I watched that moment again in the security footage, the contrast was striking. Me, the slightly pudgy, thirty-five-year-old white man in a t-shirt, completely out of his depth, awkwardly holding open the door; and Kayla, a head shorter, the gown drooping over her emaciated shoulders, squeezing uncomfortably close to get past me. I remember looking down, seeing her fist clenched tightly around the handle of the scalpel, realizing that I might meet a very bloody end if I betrayed her.
 
-I talked quickly as we hurried back to my office. "You need to get out of the building, right? I can look at all the security cameras – we can see if anyone's watching, so we can get out without anyone seeing us – and then I can call the police –" But something in her eyes told me she didn't think the police would save her. "Or, I mean, I could call someone you trust – or I could drive you anywhere you want, I have my car –"
+I talked quickly as we hurried back to my office. "You need to get out of the building, right? I can look at all the security cameras, I can unlock the doors – we can see if anyone's watching, so we can get out without anyone seeing us – and then I can call the police –" But something in her eyes told me she didn't think the police would save her. "Or, I mean, I could call someone you trust – or I could drive you anywhere you want, I have my car –"
 
 "It won't work," she said.
 
@@ -142,19 +149,21 @@ I talked quickly as we hurried back to my office. "You need to get out of the bu
 
 Her words came quickly, low and urgent. "None of that would work! I can't run, they're always waiting for me, as soon as I get away. I need to find their…"
 
-Kayla kept explaining, for ten seconds, then twenty, before I noticed what was happening. If it hadn't been for what I'd already seen, I would have just let her keep talking, not realizing anything weird was going on. But I was starting to recognize it. Her words were plain English, they fit together in order – but my brain simply wasn't making sense of them. Just like with Dr. Fuller.
+Kayla kept explaining, for ten seconds, then twenty, before I noticed what was happening. If it hadn't been for what I'd already seen, I would have just let her keep talking, not realizing anything was wrong. But I was starting to recognize it. Her words were plain English, they fit together in order – but my brain simply wasn't making sense of them. Just like with Dr. Fuller.
 
 "I'm sorry," I interrupted, "I can't understand what you're saying –"
 
 I had been afraid that she wouldn't know what I meant – afraid that I would have to spend precious minutes explaining. But the instant I spoke, I knew that she had understood. The look that blossomed on her face wasn't confusion or frustration – it was <em>fear</em>. She knew what was coming. No matter how long she explained these things – no matter how desperately she needed me to know them – I would never understand them. And then her time would run out.
 
-Or, as I would soon understand, she knew that her only choice was to commit a terrible violation.
+"Listen," she said urgently. "I can – – way they do it, if you just let – – 'd have to show you – – and then – – will work. Can I do that?"
 
-"You – you're really not in on it," she said.
+"What?? I got the part where, I think you're asking me for permission for something, but I don't –"
 
-"In on what?!"
+"Damn it! For the – –! So we can – –! How about that?"
 
-"On the –!!" A rush of words flooded through my head, with no more meaning than before. And she knew instantly that it wasn't working. She couldn't answer my questions; she could only steel herself to do what she was about to do. "Damn it! I didn't bring this to use it on an innocent person!" she said tightly. "But I need you to understand!"
+I shook my head.
+
+A rush of words flooded past me, with no more meaning than before. But she knew it wasn't working. She couldn't ask for permission; she could only steel herself to do what she was about to do. "Damn it! I don't want to do this non-consensually!" she said tightly. "But I need you to understand!"
 
 And then the purpose of the tablet she'd brought was revealed. With a lurching motion, she laid it on my office desk, the screen facing me, showing a grid of buttons. Before I could read them all, her fingers reached out and tapped the button labeled OVERSTIM.
 
@@ -162,7 +171,7 @@ The next few minutes were a horrifying blur.
 
 On some level, deep in my mind, I understood what my eyes were staring at. It was the animation I'd been working on. The only difference was the color, no longer blue and green, but purple and white. But somehow, the colors reached deep into my brain, gripping my deepest instincts, holding me in a dreamlike state where I couldn't form a coherent thought. I only remember a few fragments – the waves of color speaking to me in voices of infinite authority and reassurance, my mind scramblieng to obey but the rules turning to mush when I tried to understand them. I felt like a small child again, teachers yelling at me for forgetting my work, trying to follow but getting lost every moment I looked away. The Pattern whisphered on and on, noise layering over noise, every moment blotting out the last.
 
-I do remember what it felt like as I "woke up" – my head spinning, still half in the nightmare, a stinging sensation in my arm, my brain frantically digging through half-formed memories for any idea of where I was, what had happened to me. I found myself sitting in my chair – had Kayla put me there? – the Pattern still swirling on the screen, I could see it normally now – Kayla crouching beside me, speaking quickly – the injector still in her hand – I looked back at my stinging arm –
+I do remember what it felt like as I "woke up" – my head spinning, still half in the nightmare, a stinging sensation in my arm, my brain frantically digging through half-formed memories for any idea of where I was, what had happened to me. I found myself sitting in my chair – had Kayla put me there? – the Pattern still swirling on the screen, I could see it normally now – Kayla crouching beside me, speaking quickly – the needleless injector still in her hand – I looked back at my stinging arm –
 
 "Is this some kind of mind control?! Did you <em>inject</em> me with something?!!" My voice rose into a shriek – I shoved myself away from her –
 
@@ -172,7 +181,7 @@ But then, my mind caught up with the words she had been saying.
 
 And it all fell into place. Images I'd seen on the cameras flooded back into my mind, as if I was seeing them the first time. The purple-and-white Pattern painted all over the holding-cell walls, commanding my brain to forget what it saw – Fuller gloating about how he could use it – Reggie being in two places at once – "A time machine –" I gasped "– the machine in the basement –"
 
-Kayla explained as quickly as she could. "You were already being mind controlled. Everyone here is, everyone but the doctors in charge. What I did is, I broke the control. The overstim, the ?????cyanosol injections, they're what they tested on me, they're why I can resist it. Everyone else, you can talk about time travel right in front of them and they just stare past you –"
+Kayla explained as quickly as she could. "You were already being mind controlled. Everyone here is, everyone but the doctors in charge. What I did is, I broke the control. The overstim, the P-55 injections, they're what they tested on me, they're why I can resist it. Everyone else, you can talk about time travel right in front of them and they just stare past you –"
 
 <em>Biiiing!</em>
 
