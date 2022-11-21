@@ -4,19 +4,19 @@
 
 She continued in that same, dead-tired voice.
 
-"You need to get to one of the time machines as soon as you can. Once you go back, you can send this video to yourselves, so it turns into a stable time loop. Don't think about how that works right now, you'll have plenty of time to think about it once you're back at 3 AM. Right now, you have to worry about getting there.
+"You need to get to the time machine as soon as you can. Once you go back, you can send this video to yourselves, so it turns into a stable time loop. Don't think about how that works right now, you'll have plenty of time to think about it once you're back at 3 AM. Right now, you have to worry about getting there.
 
-"The time machines are [????? on floor]. You can take the stairs at the end of the North Wing, they're safe because no one uses them all day. But even so, you want to spend as little time in the halls as possible [????? to make sure that you don't change your own past]. And while you're walking there, don't look at anything if you can help it! Keep your head down, don't look in any of the rooms you go past, definitely don't look at other places on the security cameras –"
+"The time machine is on the lower basement floor. You can take the stairs at the end of the north wing, they're safe because no one uses them all day. But even so, you want to spend as little time in the halls as possible, so you won't get in the way of any of your future selves. And while you're walking there, don't look at anything if you can help it! Keep your head down, don't look in any of the rooms you go past, definitely don't look at other places on the security cameras –"
 
 "– but leave them on!" croaked a voice – my voice, Marvin's voice, speaking for the first time since the video started. It was breathy and breaking, the voice of someone who has been crying for hours, who is only forcing themselves to speak because of a sudden need. "Leave the cameras on! No one ch–" he gasped, before his throat failed him again, lapsing into voiceless breaths.
 
 "– no one checks them until the meeting at 4 PM," video-Kayla finished for him. "He's right – leave them on, but don't look at them. That'll save you a lot of the trouble we had to deal with. But right now, you need to… uh…" she looked to Marvin again. "Damn it, Marv, you know I'll say it wrong if I have to tell them the computer stuff…"
 
-But once you've forced out the first few words, the rest of the words come easier. Marvin lifted his head halfway out of his hands, not quite daring to look directly at the camera. "We – we're going to put this video in a zip file, with – with some other documents. You'll need to copy the whole zip file onto a USB stick so you can bring it back with you. I – I guess you should start copying it now, don't wait for the video to finish, it might take a little while. And then – we – we'll make some instructions for you to print out – so I guess you should start printing those, next, after you start the copy. [????? Video to show you how to use the time machine]" [????? he kept rambling, weak voice, not really believing in it]
+But once you've forced out the first few words, the rest of the words come easier. Marvin lifted his head halfway out of his hands, not quite daring to look directly at the camera. "We – we're going to put this video in a zip file, with – with some other documents. You'll need to copy the whole zip file onto a USB stick so you can bring it back with you. I – I guess you should start copying it now, don't wait for the video to finish, it might take a little while. And then – we – we'll make some instructions for you to print out – so I guess you should start printing those, next, after you start the copy. And then, uh, you'll need to know how to use the time machine…" He kept rambling, feebly going through the motions of telling us what we needed, not really believing in it.
 
-????? The Kayla crouching next to me – not [tired] like the one from the video, but gaunt, strung tight with terror – ????? "Why aren't you doing what he said?" she hissed.
+But the Kayla crouching next to me – gaunt, strung tight with terror – had no choice but to believe in it. "Why aren't you doing what he said?" she hissed at me.
 
-Her words [????? knocked me out of my hypnotized state]. I fumbled through Marvin's instructions, digging a USB drive out of a drawer in my desk, then finding the file to print – 02_print_this_out.png. It was definitely me who had chosen these filenames – practical names, telling me what I needed to know, using two digits out of habit even though the files only went up to ????? "09". It was eerie, seeing my own handiwork on something I had no memory of creating.
+Her words knocked me out of my trance. I fumbled through Marvin's instructions, digging a USB drive out of a drawer in my desk, then finding the file to print – 02_print_this_out.png. It was definitely me who had chosen these filenames – practical names, telling me what I needed to know, using two digits out of habit even though the files only went up to ????? "09". It was eerie, seeing my own handiwork on something I had no memory of creating.
 
 "–
 
@@ -29,21 +29,24 @@ Her words [????? knocked me out of my hypnotized state]. I fumbled through Marvi
 <bigbreak>
 
 
-There are few things as maddening as being told that you must not look at something, when the thing is all around you. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do ????? repeatedly wanting to look into the rooms, look over my shoulder]
+There are few things as maddening as being told that you must not look at something, when the thing is all around you. This was supposed to be the easy part: the part where we just walked down the hallway to get where we were going. But video-Kayla's instructions – <em>keep your head down, don't look in any of the rooms</em> – made it a living hell. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do ????? repeatedly wanting to look into the rooms, look over my shoulder]
 
 [We were working from the printout, which had a list of very clear instructions]
 
-"What do you think happens if we change our own past?" I said nervously.
+I focused on the printout I was holding. The instructions were clear, at least. It started with a map of our route, with little photos of each door to go through, so we couldn't miss them. And again, the note: <em>Don't look around, you don't want to see your future selves, if they're there.</em>
+
+"What do you think happens if we see our future selves?" I said nervously, as we walked.
 
 "I don't know, but it's bad! They said it was bad, and we have to trust them, right?"
 
-"It feels like we're being followed," I muttered to myself.
-
-I shouldn't have said it in front of Kayla [????? who was still on high alert. She whipped around, eyes scanning the corridor behind us.]
 
 
 
 [????? Kayla's harsh/sudden whisper] "I feel like we're being followed," [????? she said]
+
+I couldn't resist; I whipped around to look behind me. But of course, there was nothing there. I shivered. "Don't scare me like that," I said shakily.
+
+"Fine."
 
 
 
@@ -64,45 +67,51 @@ I shouldn't have said it in front of Kayla [????? who was still on high alert. S
 
 "Er. Okay. Is that something they did to you? When they experimented on you?"
 
-Evidently, that wasn't the question she expected, because she [got less defensive]. "No," she said. "I've always had this. It's not what they did to me, it's their <em>excuse</em>. [Cutting-edge neuroscience, they said. Chance to solve her 'problem', they said.] I don't think Fuller even listened to what my problem was before he said he could solve it."
+Evidently, that wasn't the question she expected, because her anger subsided a little. "No," she said. "I've always had this. It's got nothing to do with them, except they're using it as an <em>excuse</em>. Fuller told my parents this was the 'best chance to solve her problem' with all his 'cutting-edge neuroscience'. I don't think he even knew what my problem was before he said he could solve it."
 
 
 <bigbreak>
 
+The time machine room was huge. The walls and floors had been torn out across both basement levels to make room for the construction, leaving a two-story workspace broken up by bare steel columns and beams, and bare concrete underneath our feet. The only light came from a set of minimal, glaring work lights high above, casting all the machinery in bright highlights and sharp shadows. The whole place smelled like a machine shop; the sound of our footsteps was eerily absorbed by the huge airspace.
+
+And in the center, on a pedestal of its own… the time machine itself.
+
+We had already seen it in our future selves' instructional video, so its appearance wasn't surprising. But it was one thing to see it on camera, from a distance – and quite another to experience it in person. Its central structure was an 8 foot tall, gleaming egg of steel, towering above us. It had clearly been built in several pieces, and then bolted together here, bulky steel plates sticking out of the surface where the join-lines were. Electrical cords snaked up and down the egg on all sides, powering components whose purpose I couldn't begin to guess at.
+
+It was just sitting there, deceptively inactive. Given what it could do, I would have expected it to look like something from a sci-fi movie, all glowing panels and holograms – not like a bulky antique from the Industrial Revolution. But maybe I <em>should</em> have been more scared by something from the Industrial Revolution. A new invention, nowhere near perfected, but already able to radically alter the world as we knew it… and maybe not for the better. Even the Marvin from the video, sobbing in terror of what would happen to him, hadn't begun to understand the danger we were in.
+
+[ But we didn't have time to think about that. We had to operate this thing.
+
+On one side of the egg, there was a hatch that could open – a place where the egg could be swung open by machine arms – and a stepladder where we could climb up and crawl inside.
+a stepladder led up to a hatch, also made of bulky metal plates, not tall enough to stand up, but you could crawl through it
 
 
-?????
+We followed the printout[But we couldn't climb into that Hatch right away. The procedure was: [/ First, we had to [enter into] the computer the exact mass of the matter to be transported.]]
+[????? But we couldn't climb into that hatch right away. Before anyone could time travel, you had to program their exact mass into the machine, or bad things would happen]
 
-????? Face-to-face with the time machine
+A laptop sitting there on a folding table, the only 21st-century looking thing in the whole contraption,
+]
 
-The time machine didn't look like something from a sci-fi movie. It was a bulky structure of rough metal. Not like something from a sci-fi movie, more like an relic from the Industrial Revolution. ????? Other than being plugged into a computer, it was old-looking ????? But maybe I SHOULD have been scared by something from the Industrial Revolution. A new invention, nowhere near perfected, but already able to radically alter the world as we knew it. And maybe not for the better.
 
-We had no idea of the danger we were in. Even the Marvin from the video, sobbing in terror of what would happen to him, [hadn't seen the full implications.]
-
-We had already seen what the time machine looked like, in our future selves' instructional video. Its central structure was an enormous egg, stretching from floor to ceiling, held in place by ????? [physical description, Hatch]
-
-[But we couldn't climb into that Hatch right away. The procedure was: [/ First, we had to [enter into] the computer the exact mass of the matter to be transported.]]
+[????? A massive industrial scale, a metallic platform wide enough for both of us to stand on, with a label boasting that it could weigh up to a thousand pounds, to a precision of a single gram.
 
 "How can it be accurate to the nearest gram if it's sometimes off by 20 pounds?!"
 
 "I don't know, but it worked for our future selves" If I had known the real reason for the extra 20 pounds, I wouldn't have made it through the day. I would have had a complete breakdown.
 
-Its central structure was a [steel eggs]
 
-[????? We had already seen it in the video, so it's appearance wasn't surprising, but it was still intimidating. The first thing that demanded your attention when you walked into the room, an 8 foot tall, gleaming egg of steel, towering above us. It had clearly been built in several pieces, and then bolted together here, huge steel plates sticking out of the surface where the join lines were. On the face closest to us, a step ladder leading up to a hatch, also made of bulky metal plates, not tall enough to stand up, but you could crawl through it]
 
-[????? It was just sitting there, deceptively inactive, looking like a bulky antique from the Industrial Revolution. Not like something that could delete us from existence. But it was. Even the Marvin from the video, sobbing in terror of what would happen to him, hadn't even begun to understand the danger we were in.]
 
-[????? But we couldn't climb into that hatch right away. Before anyone could time travel, you had to program their exact mass into the machine, or bad things would happen]
 
-[????? A massive industrial scale, a metallic platform wide enough for both of us to stand on, with a label boasting that it could weigh up to a thousand pounds, to a precision of a single gram.
+
+
 
 
 
 
 [The notes: "shut off your phone before you go back in time, literally take the battery out, it's too much of a paradox risk otherwise"]
 
-[Maybe narrated, but starting with a hook about the scream: Marvin climbs in first, leaning against the worryingly dark interior curve of the egg. Kayla climbs after, having a bit of a hard time balancing as she tries to duck through the narrow metal entrance. She concentrates to do it right, but her muscles are shaking too much and they fail her, and she stumbles forward. I panicked and caught her shoulders]
+[Maybe narrated, but starting with a hook about the scream: Marvin climbs in first, leaning against the worryingly dark interior curve of the egg, like climbing into a cave. Kayla climbs after, having a bit of a hard time balancing as she tries to duck through the narrow metal entrance. She concentrates to do it right, but her muscles are shaking too much and they fail her, and she stumbles forward. I panicked and caught her shoulders]
 
 [Any noise in such close quarters, with [materials] around you, echoes back and multiplies itself. Kayla's scream was unexpected and hurt my ears a lot. Just as quickly, it was cut short]
 

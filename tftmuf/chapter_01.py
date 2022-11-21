@@ -201,7 +201,7 @@ Like many an unedited, amateur video, it began with an awkward close-up of the p
 
 The Kayla in the video was dramatically changed from the Kayla beside me. The desperate look was gone from her eyes, a bit of fat back in her cheeks, standing tall and proud, with an honest-to-God <em>rifle</em> on a sling over one shoulder. She was dressed in an oversized men's jacket and jeans, marred only by splatters of dried blood, which I could only assume were not her own. But despite her pride, there was still a look of deep exhaustion on her face.
 
-"Oh God, how do we say this to them?" muttered the Kayla in the video, dead tired, a voice of resignation. She glanced to the side, at my own double – the glance of someone hoping someone else will take charge, so they won't have to explain things themselves.
+"Eugh, how do we say this to them?" muttered the Kayla in the video, dead tired, a voice of resignation. She glanced to the side, at my own double – the glance of someone hoping someone else will take charge, so they won't have to explain things themselves.
 
 But my double could not help her. Whatever our duplicates had been through, Kayla had endured it, but Marvin had been emotionally destroyed by it. He had a hollow, haunted look; he hadn't shaved in days; and the moment Kayla looked to him, he broke down completely. He sank down in his seat, sobbing into his hands, unable to speak.
 
